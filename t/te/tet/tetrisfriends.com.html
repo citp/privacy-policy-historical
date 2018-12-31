@@ -1,0 +1,659 @@
+<!--The following is the downloaded HTML source of the tetrisfriends.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231191418id_/http%3A//tetrisonline.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <title>PRIVACY POLICY</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQAGUl5VABAFUldVAQcCVA=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+  <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="1024">
+  <meta name="viewport" content="width=1024">
+  <meta id="meta-keywords" name="keywords" content="">
+  <meta id="meta-description" name="description" content="">
+<meta name="description" content="Tetris Online, Inc. | Official Tetris Game Publisher &amp; Developer">
+<meta name="google-site-verification" content="1RVwI0Md1BQ1BGpEPbvCl59H5XFrM9MwCm21PMuk5Hk">
+<meta name="keywords" content="tetris, friends, battle, online, games, facebook, feevo, free, puzzle, minoru arakawa, henk rogers, alexey pajitnov, nintendo, wii, ds, 3ds, xbla, xbox, ipad, fire tv, roku, samsung smart TV, splash, party, deluxe, live, multiplayer">
+  <link rel="shortcut icon" href="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/favicon.ico?v=fav-57476fa38f320ABmFSPL" type="image/x-icon">
+  <link rel="icon" type="image/png" href="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/favicon-16x16.png?v=fav-57476fa38f320ABmFSPL" sizes="16x16">
+  <link rel="icon" type="image/png" href="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/favicon-32x32.png?v=fav-57476fa38f320ABmFSPL" sizes="32x32">
+  <link rel="icon" type="image/png" href="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/favicon-96x96.png?v=fav-57476fa38f320ABmFSPL" sizes="96x96">
+  <link rel="icon" type="image/png" href="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/favicon-160x160.png?v=fav-57476fa38f320ABmFSPL" sizes="160x160">
+  <link rel="icon" type="image/png" href="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/favicon-196x196.png?v=fav-57476fa38f320ABmFSPL" sizes="196x196">
+  <link rel="apple-touch-icon" href="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/apple-touch-icon.png?v=fav-57476fa38f320ABmFSPL">
+  <link rel="apple-touch-icon" sizes="57x57" href="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/apple-touch-icon-57x57.png?v=fav-57476fa38f320ABmFSPL">
+  <link rel="apple-touch-icon" sizes="60x60" href="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/apple-touch-icon-60x60.png?v=fav-57476fa38f320ABmFSPL">
+  <link rel="apple-touch-icon" sizes="72x72" href="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/apple-touch-icon-72x72.png?v=fav-57476fa38f320ABmFSPL">
+  <link rel="apple-touch-icon" sizes="114x114" href="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/apple-touch-icon-114x114.png?v=fav-57476fa38f320ABmFSPL">
+  <link rel="apple-touch-icon" sizes="120x120" href="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/apple-touch-icon-120x120.png?v=fav-57476fa38f320ABmFSPL">
+  <link rel="apple-touch-icon" sizes="144x144" href="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/apple-touch-icon-144x144.png?v=fav-57476fa38f320ABmFSPL">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/apple-touch-icon-152x152.png?v=fav-57476fa38f320ABmFSPL">
+  <meta name="msapplication-square70x70logo" content="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/mstile-70x70.png?v=fav-57476fa38f320ABmFSPL">
+  <meta name="msapplication-square144x144logo" content="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/mstile-144x144.png?v=fav-57476fa38f320ABmFSPL">
+  <meta name="msapplication-square150x150logo" content="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/mstile-150x150.png?v=fav-57476fa38f320ABmFSPL">
+  <meta name="msapplication-wide310x150logo" content="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/mstile-310x150.png?v=fav-57476fa38f320ABmFSPL">
+  <meta name="msapplication-square310x310logo" content="https://storage.googleapis.com/wzukusers/user-13337029/images/fav-57476fa38f320ABmFSPL/mstile-310x310.png?v=fav-57476fa38f320ABmFSPL">
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-886022-21', 'auto');
+ga('cptracker.send', 'pageview');
+
+</script>
+<script type="text/javascript">
+var _fc;window.getInsights=function(a,b){_fc||(_fc=a,a=null),window.AMInsights?(_fc&&(_fc(window.AMInsights),_fc=null),a&&a(window.AMInsights)):(b=b||25,setTimeout(function(){window.getInsights(a,2*b)},b))};
+</script>
+<script type="text/javascript" src="https://149B4.wpc.azureedge.net/80149B4/insights/t.js?brand=SiteBuilder&amp;v=g-201812201212588854" async=""></script>
+<script type="text/javascript">
+window.getInsights(function(insights){insights.init('1ac4797e-5410-4a3f-aa6d-f152f2885f4b');});
+</script>
+<meta name="site-version-last-modified" content="Mon, 24 Dec 2018 16:28:29 GMT">
+  <link rel="stylesheet" type="text/css" href="//components.mywebsitebuilder.com/g-201812201212588854/viewer-sitebuilder/viewer.css">
+<script type="text/javascript">
+var PageData = {"baseAddress":"http://tetrisonline.com","ServicesBasePath":"","isTablet":false,"siteSettings":{"blogRssSettings":{"enabled":true},"mobileIsDeactivated":false,"analyticsTrackingId":"\"UA-886022-21\"","behanceSocialLinkId":"{\"type\":\"behance\",\"title\":\"Behance\",\"url\":\"\"}","doneFirstPublish":"true","dribbbleSocialLinkId":"{\"type\":\"dribbble\",\"title\":\"Dribbble\",\"url\":\"\"}","enableColumnsGrid":"false","etsySocialLinkId":"{\"type\":\"etsy\",\"title\":\"Etsy\",\"url\":\"\"}","facebookSocialLinkId":"{\"type\":\"facebook\",\"title\":\"Facebook\",\"url\":\"https://facebook.com/sitebuilderofficial\"}","flickrSocialLinkId":"{\"type\":\"flickr\",\"title\":\"Flickr\",\"url\":\"\"}","googlePlusSocialLinkId":"{\"type\":\"googlePlus\",\"title\":\"Google+\",\"url\":\"http://plus.google.com/102807070514589490248/about\"}","instagramSocialLinkId":"{\"type\":\"instagram\",\"title\":\"Instagram\",\"url\":\"\"}","isFirstMobileUse":"true","linkedinSocialLinkId":"{\"type\":\"linkedin\",\"title\":\"LinkedIn\",\"url\":\"http://www.linkedin.com\"}","picasaSocialLinkId":"{\"type\":\"picasa\",\"title\":\"Picasa\",\"url\":\"\"}","pinterestSocialLinkId":"{\"type\":\"pinterest\",\"title\":\"Pinterest\",\"url\":\"\"}","redditSocialLinkId":"{\"type\":\"reddit\",\"title\":\"Reddit\",\"url\":\"\"}","renrenSocialLinkId":"{\"type\":\"renren\",\"title\":\"Renren\",\"url\":\"\"}","showAlwaysColumnsGrid":"false","soundCloudSocialLinkId":"{\"type\":\"soundCloud\",\"title\":\"SoundCloud\",\"url\":\"\"}","tripAdvisorSocialLinkId":"{\"type\":\"tripAdvisor\",\"title\":\"Trip Advisor\",\"url\":\"\"}","tumblrSocialLinkId":"{\"type\":\"tumblr\",\"title\":\"Tumblr\",\"url\":\"\"}","twitterSocialLinkId":"{\"type\":\"twitter\",\"title\":\"Twitter\",\"url\":\"https://twitter.com/sitebuilderhelp\"}","vimeoSocialLinkId":"{\"type\":\"vimeo\",\"title\":\"Vimeo\",\"url\":\"\"}","vkSocialLinkId":"{\"type\":\"vk\",\"title\":\"VK\",\"url\":\"\"}","weiboSocialLinkId":"{\"type\":\"weibo\",\"title\":\"Weibo\",\"url\":\"\"}","youtubeSocialLinkId":"{\"type\":\"youtube\",\"title\":\"Youtube\",\"url\":\"http://www.youtube.com\"}"},"defaultAjaxPageID":"id1526943455053","PageNotFound":false};
+var Global = {"FacebookAppID":"310287139132389","IsMobile":false,"IsMobileView":false,"IsTabletView":false,"IsMobileClient":false,"CloudflareOptions":1,"SiteID":43069256,"IsNewStructure":true};
+var SiteInformation =  {"limitations":{"video":{"limitation":{"isLimited":true}},"pages":{"limitation":{"isLimited":true}},"ecommerce":{"limitation":{"productLimit":0,"isLimited":true}},"publish":{"limitation":{"isLimited":true}},"stats":{"limitation":{"isLimited":true}},"storage":{"limitation":{"isLimited":false}},"file":{"limitation":{"isLimited":false}},"premium":{"limitation":{"isLimited":false}},"mobile":{"limitation":{"isLimited":false}},"newSites":{"limitation":{"isLimited":true}},"favicon":{"limitation":{"isLimited":false}},"embedded":{"limitation":{"isLimited":true}},"bannerFeature":{"iframeUrl":null,"iframeHeight":null,"limitation":{"isLimited":false}},"history":{"limitation":{"isLimited":true,"upsellText":"Don't lose your work! To have unlimited access to all previous <br />versions of your site with Save History you must <a target=\"_blank\" href=\"https://secure.sitebuilder.com\">upgrade</a>"}},"posts":{"limitation":{"maxPosts":7,"isLimited":true}},"hdvideo":{"limitation":{"isLimited":false}},"totalpages":{"limitation":{"maxPages":6,"isLimited":false}},"advancedStats":{"limitation":{"maxPages":6,"isLimited":true}},"form":{"limitation":{"isLimited":false}}},"isPremium":true,"groupId":43069256,"storeInformation":{},"appMarketInformation":{"hasAppMarketElements":false},"baseVersion":79814763};
+var Settings = {"UserStorageUrlsMap":{"1":"//assets.sitebuilder.com/users/{0}/","2":"https://wzukusers.blob.core.windows.net/user-{0}/","6":"https://storage.googleapis.com/wzukusers/user-{0}/","61":"//storage.googleapis.com/wzukusers/user-{0}/","64":"//storage.googleapis.com/wzusersdev/user-{0}/"},"WebzaiStorageUrlsMap":{"1":"//assets.sitebuilder.com/assets/","2":"https://wzuk.blob.core.windows.net/assets/","6":"https://storage.googleapis.com/wzuk/assets/","61":"//storage.googleapis.com/wzuk/assets/","64":"//storage.googleapis.com/wzdev/assets/"},"GoogleMapsApiKey":"AIzaSyBqzvzEdBs_lC3Mqud-3RbMGmXJ3oPyNZo","RecaptchaSiteKey":"6LeezEMUAAAAABxJKN1gbtMmzRN6C2CfFD1E6r0U","StaticContentUrl":"//webzaidev.blob.core.windows.net/","ServiceAddress":"http://editor.sitebuilder.com/","ApplicationRoot":"//components.mywebsitebuilder.com/g-201812201212588854","Brand":6,"ApplicationDomain":"sitebuilder.com","YoutubeApiKey":"AIzaSyBqzvzEdBs_lC3Mqud-3RbMGmXJ3oPyNZo","InstagramClientId":"2f24c81d79e14a1f866fdc84d10b8095","AppsIframeRoot":"//preview.sitebuilder.com","AppVersion":"g-201812201212588854","DevelopmentMode":"","ServiceEndpoints":{"Store":{"PublicApi":"https://store-api.sitebuilder.com/v1/","EmbedApi":"https://embed.sitebuilder.com/dist/src/"}},"ImageProxy":"https://images.mywebsitebuilder.com/s/?","DataProxy":"https://data.mywebsitebuilder.com","IsApiPartner":false,"RaygunSettings":null};
+
+</script>
+<script src="//components.mywebsitebuilder.com/g-201812201212588854/viewer/viewer.js" type="text/javascript"></script>
+<script src="https://storage.googleapis.com/wzukusers/user-13337029/sites/43069256/57461fef946d24JvNoc3/5b071c728100f34sB65l.js?1545668910" type="text/javascript"></script>
+<script src="https://storage.googleapis.com/wzukusers/user-13337029/sites/43069256/57461fef946d24JvNoc3/M07M2F3Cre1itoldeZZu.js?1545668910" type="text/javascript"></script>
+<script src="https://storage.googleapis.com/wzukusers/user-13337029/sites/43069256/57461fef946d24JvNoc3/Ren3JPDMg34Xx2DKFlki.js?1545668910" type="text/javascript"></script>
+<script type="text/javascript">
+var SiteFilesMap = {"page-1403784258535":"https://storage.googleapis.com/wzukusers/user-13337029/sites/43069256/57461fef946d24JvNoc3/D23MbJvC9KBQPCKjZwxy.js","page-1406514085191":"https://storage.googleapis.com/wzukusers/user-13337029/sites/43069256/57461fef946d24JvNoc3/CfQRMb4E9SwgzkguXOOI.js","page-1407289460584":"https://storage.googleapis.com/wzukusers/user-13337029/sites/43069256/57461fef946d24JvNoc3/rkbgHec4Ef6vF833f90r.js","page-1406514095961":"https://storage.googleapis.com/wzukusers/user-13337029/sites/43069256/57461fef946d24JvNoc3/0AyybyHdFvx3IbTiPDDl.js","page-id1526943455053":"https://storage.googleapis.com/wzukusers/user-13337029/sites/43069256/57461fef946d24JvNoc3/Ren3JPDMg34Xx2DKFlki.js","page-id1527118220755":"https://storage.googleapis.com/wzukusers/user-13337029/sites/43069256/57461fef946d24JvNoc3/dzrz0zbrtAGGrKKgTubc.js","page-id1527122528053":"https://storage.googleapis.com/wzukusers/user-13337029/sites/43069256/57461fef946d24JvNoc3/LlI9BG8GyzZTx6EUWLo4.js","master-1343569893636":"https://storage.googleapis.com/wzukusers/user-13337029/sites/43069256/57461fef946d24JvNoc3/M07M2F3Cre1itoldeZZu.js","site-structure":"https://storage.googleapis.com/wzukusers/user-13337029/sites/43069256/57461fef946d24JvNoc3/5b071c728100f34sB65l.js"};</script>
+  <style type="text/css">
+    #mobile-loading-screen, #desktop-loading-screen {
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 100000000;
+      background: white url('data:image/gif;base64,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') center center no-repeat;
+    }
+
+    body.state-loading-mobile-viewer,
+    body.state-loading-mobile-viewer .page-element,
+    body.state-loading-mobile-viewer #body-element,
+    body.state-loading-desktop-viewer,
+    body.state-loading-desktop-viewer .page-element,
+    body.state-loading-desktop-viewer #body-element
+    {
+      height: 100%;
+      width: 100%;
+      overflow-y: hidden !important;
+    }
+  </style>
+
+  <script type="text/javascript">
+    var DynamicPageContent = null;
+    var DBSiteMetaData = {
+      'pagesStructureInformation':{
+        'pagesData':{"1403784258535":{"metaTags":"","headerCode":"","footerCode":"","tags":[],"id":"1403784258535","title":"HOME","pageTitle":"Tetris Online, Inc. | Official \"Tetris\" Licensee","description":"Tetris Online, Inc. is an official licensee of The Tetris Company, LLC. Founded in January 2006 by Minoru Arakawa, Henk Rogers and Alexey Pajitnov, Tetris Online is a developer and publisher of electronic entertainment properties.","keyWords":"tetris, friends, battle, drop, 2P, 6P, sprint, marathon, rally, online, games, game, facebook, feevo, free, puzzle, minoru arakawa, henk rogers, alexey pajitnov, nintendo, wii, ds, 3ds, xbla, xbox, splash, party, deluxe, live, multiplayer, iPad, firetv, fire tv, roku, samsung smart tv, nikoli, sudoku, ouya, set-top box, microconsole, play","index":1,"isHomePage":true,"shareStyle":true,"useDefaultTitle":false,"supportsMobileStates":true,"urlAlias":"","useNameASUrl":false,"pid":"","menu":{"isPasswordProtected":false}},"1406514085191":{"metaTags":"","headerCode":"","footerCode":"","tags":[],"id":"1406514085191","title":"ABOUT US","pageTitle":"Tetris Online, Inc. | About Us","description":"Tetris Online, Inc. is an official licensee of The Tetris Company, LLC. Founded in January 2006 by Minoru Arakawa, Henk Rogers and Alexey Pajitnov, Tetris Online is a developer and publisher of electronic entertainment properties.","keyWords":"tetris, friends, battle, drop, 2P, 6P, sprint, marathon, rally, online, games, game, facebook, feevo, free, puzzle, minoru arakawa, henk rogers, alexey pajitnov, nintendo, wii, ds, 3ds, xbla, xbox, splash, party, deluxe, live, multiplayer, iPad, firetv, fire tv, roku, samsung smart tv, nikoli, sudoku, ouya, set-top box, microconsole, play","index":3,"isHomePage":false,"shareStyle":true,"useNameASTitle":true,"useDefaultTitle":false,"supportsMobileStates":true,"urlAlias":"about-us","useNameASUrl":true,"isSearchEngineDisabled":false},"1407289460584":{"metaTags":"","headerCode":"","footerCode":"","tags":[],"id":"1407289460584","title":"GAMES","pageTitle":"Tetris Online, Inc. | Games Portfolio","description":"Tetris Online, Inc. is an official licensee of The Tetris Company, LLC. Founded in January 2006 by Minoru Arakawa, Henk Rogers and Alexey Pajitnov, Tetris Online is a developer and publisher of electronic entertainment properties.","keyWords":"tetris, friends, battle, drop, 2P, 6P, sprint, marathon, rally, online, games, game, facebook, feevo, free, puzzle, minoru arakawa, henk rogers, alexey pajitnov, nintendo, wii, ds, 3ds, xbla, xbox, splash, party, deluxe, live, multiplayer, iPad, firetv, fire tv, roku, samsung smart tv, nikoli, sudoku, ouya, set-top box, microconsole, play","index":2,"isHomePage":false,"useNameASTitle":true,"shareStyle":true,"useDefaultTitle":false,"supportsMobileStates":true,"urlAlias":"games","useNameASUrl":true},"1406514095961":{"metaTags":"","headerCode":"","footerCode":"","tags":[],"id":"1406514095961","title":"CONTACT","pageTitle":"Tetris Online, Inc. | Contact Us","description":"Tetris Online, Inc. is an official licensee of The Tetris Company, LLC. Founded in January 2006 by Minoru Arakawa, Henk Rogers and Alexey Pajitnov, Tetris Online is a developer and publisher of electronic entertainment properties.","keyWords":"tetris, friends, battle, drop, 2P, 6P, sprint, marathon, rally, online, games, game, facebook, feevo, free, puzzle, minoru arakawa, henk rogers, alexey pajitnov, nintendo, wii, ds, 3ds, xbla, xbox, splash, party, deluxe, live, multiplayer, iPad, firetv, fire tv, roku, samsung smart tv, nikoli, sudoku, ouya, set-top box, microconsole, play","index":4,"isHomePage":false,"shareStyle":true,"useNameASTitle":true,"supportsMobileStates":true,"urlAlias":"contact","useNameASUrl":true},"id1526943455053":{"metaTags":"","headerCode":"","footerCode":"","tags":[],"id":"id1526943455053","title":"PRIVACY POLICY","pageTitle":"","description":"","keyWords":"","index":5,"isHomePage":false,"urlAlias":"privacy","useNameASUrl":false,"menu":{"isMobileDisabled":true,"isDesktopDisabled":true},"supportsMobileStates":true,"shareStyle":true},"id1527118220755":{"metaTags":"","headerCode":"","footerCode":"","tags":[],"id":"id1527118220755","title":"TERMS OF USE","pageTitle":"","description":"","keyWords":"","index":6,"isHomePage":false,"urlAlias":"tou","useNameASUrl":false,"supportsMobileStates":true,"menu":{"isDesktopDisabled":true,"isMobileDisabled":true},"isSearchEngineDisabled":true,"shareStyle":true},"id1527122528053":{"metaTags":"","headerCode":"","footerCode":"","tags":[],"id":"id1527122528053","title":"ACCEPTABLE USE POLICY","pageTitle":"","description":"","keyWords":"","index":7,"isHomePage":false,"urlAlias":"acceptableuse","useNameASUrl":false,"supportsMobileStates":true,"menu":{"isDesktopDisabled":true,"isMobileDisabled":true},"isSearchEngineDisabled":true,"shareStyle":true}},
+        'pagesHierarchies':{}      },
+      'siteStructureInformation':{
+        'masterPages': {"1343569893636":{"pagesIDs":["1403784258535","1406514085191","1407289460584","1406514095961","id1526943455053","id1527118220755","id1527122528053"]}},
+        'listsInformation':{}      }
+    };
+
+    var TemporaryImages = []
+    Viewer.initialize();
+  </script>
+</head>
+
+<body class="state-loading-desktop-viewer">
+  <div id="desktop-loading-screen"></div>
+<div id="body-element">
+    <header class="site-element" element-id="1406505452277" element-type="HeaderElement">
+        <div class="element-children-container"><a href="/">
+                <div class="site-element" element-id="id1464215027184" element-type="image"><img src="https://storage.googleapis.com/wzukusers/user-13337029/images/57475f4cd9ee26Eywxcx/tetrisonline_logo_black_d200.png" width="149" height="87"></div>
+            </a>
+            <nav class="site-element" element-id="1406505452280" element-type="Menu">
+                <ol>
+                    <li><a href="#">
+                            <div class="site-element" element-id="1464214926345" element-type="skinMenuButtonItem">
+                                <div>
+                                    <div class="site-element" element-id="1402385783008-1402385783027p0" element-type="skinHierarchyBox">
+                                        <div class="element-children-container">
+                                            <div class="site-element" element-id="1402406256372" element-type="label">page1</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li><a href="#">
+                            <div class="site-element" element-id="1464214926345" element-type="skinMenuButtonItem">
+                                <div>
+                                    <div class="site-element" element-id="1402385783008-1402385783027p0" element-type="skinHierarchyBox">
+                                        <div class="element-children-container">
+                                            <div class="site-element" element-id="1402406256372" element-type="label">page2</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li><a href="#">
+                            <div class="site-element" element-id="1464214926345" element-type="skinMenuButtonItem">
+                                <div>
+                                    <div class="site-element" element-id="1402385783008-1402385783027p0" element-type="skinHierarchyBox">
+                                        <div class="element-children-container">
+                                            <div class="site-element" element-id="1402406256372" element-type="label">page3</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li><a href="#">
+                            <div class="site-element" element-id="1464214926345" element-type="skinMenuButtonItem">
+                                <div>
+                                    <div class="site-element" element-id="1402385783008-1402385783027p0" element-type="skinHierarchyBox">
+                                        <div class="element-children-container">
+                                            <div class="site-element" element-id="1402406256372" element-type="label">page4</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li><a href="#">
+                            <div class="site-element" element-id="1464214926345" element-type="skinMenuButtonItem">
+                                <div>
+                                    <div class="site-element" element-id="1402385783008-1402385783027p0" element-type="skinHierarchyBox">
+                                        <div class="element-children-container">
+                                            <div class="site-element" element-id="1402406256372" element-type="label">page5</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                </ol>
+            </nav>
+            <nav class="site-element" element-id="id1444571973349" element-type="PagesMenu">
+                <nav><a href="/">HOME</a><a href="/games">GAMES</a><a href="/about-us">ABOUT US</a><a href="/contact">CONTACT</a></nav>
+            </nav>
+        </div>
+    </header>
+    <section class="site-element" element-id="masterPageContentSectionId" element-type="SectionElement"></section>
+    <section class="site-element" element-id="id1526943699397" element-type="SectionElement">
+        <div class="element-children-container">
+            <h2 class="site-element" element-id="id1526943699399" element-type="freeText">
+                <div><strong>PRIVACY POLICY<br><span class="theme-text-color-4-2"><span style="font-size:11px;">Last Revised: May 22, 2018</span></span></strong><br></div>
+            </h2><a href="/tou">
+                <div class="site-element" element-id="id1527132291470" element-type="SkinButtonElement">
+                    <div>Terms &amp; Conditions<br></div>
+                </div>
+            </a>
+            <div class="site-element" element-id="id1526943699401" element-type="freeText">
+                <div>​Tetris Online Inc. ("we", "us", or "our") recognizes your privacy is very important, and we take it seriously. This Privacy Policy ("policy") explains how personal information is collected, used and disclosed by us with respect to your use of any website, service, game, or application offered by Tetris Online, Inc ("TOA&nbsp;Products").&nbsp;<br><br>By accessing or using TOA&nbsp;Products, you agree to the collection and use of your information in accordance with this policy, including consenting to TOA Products and our advertising partners' use of your data for targeted advertising purposes as described in this policy. This policy also explains how you can withhold or withdraw your consent to the use of your data for targeted advertising purposes. If you have any other concerns about providing information to us, or how the information is being used as described in this policy, you should not use any TOA Products.<br></div>
+            </div>
+        </div>
+    </section>
+    <div class="site-element" element-id="1402310978797" element-type="PageContentElement"></div>
+    <section class="site-element" element-id="id1526954451939" element-type="SectionElement">
+        <div class="element-children-container">
+            <div class="site-element" element-id="id1526954451941" element-type="freeText">
+                <div style="text-align: center;"><span style="font-size:18px;"><strong></strong></span><span style="font-size:24px;"><strong>TABLE OF CONTENTS</strong></span><br></div>
+            </div>
+            <div class="site-element" element-id="id1526954631892" element-type="SkinButtonElement">
+                <div>Definitions</div>
+            </div>
+            <div class="site-element" element-id="id1526954755484" element-type="SkinButtonElement">
+                <div>Personal Information We Collect</div>
+            </div>
+            <div class="site-element" element-id="id1526954761471" element-type="SkinButtonElement">
+                <div>How We Use Personal Information</div>
+            </div>
+            <div class="site-element" element-id="id1526954915748" element-type="SkinButtonElement">
+                <div>Storage and History of Personal Information</div>
+            </div>
+            <div class="site-element" element-id="id1526954920671" element-type="SkinButtonElement">
+                <div>Sharing and Disclosure of Personal Information</div>
+            </div>
+            <div class="site-element" element-id="id1526962884730" element-type="SkinButtonElement">
+                <div>Your Rights | Access, Updates, and Management of&nbsp;Personal Information</div>
+            </div>
+            <div class="site-element" element-id="id1526954925304" element-type="SkinButtonElement">
+                <div>Protection of Personal Data</div>
+            </div>
+            <div class="site-element" element-id="id1527037672701" element-type="SkinButtonElement">
+                <div>Cookies and Similar Technologies</div>
+            </div>
+            <div class="site-element" element-id="id1526954932624" element-type="SkinButtonElement">
+                <div>Ad networks and Exchanges Operated by Authorized Third Parties</div>
+            </div>
+            <div class="site-element" element-id="id1526962889567" element-type="SkinButtonElement">
+                <div>Special Notice Regarding Children</div>
+            </div>
+            <div class="site-element" element-id="id1526962893210" element-type="SkinButtonElement">
+                <div>Changes to Our Privacy Policy</div>
+            </div>
+        </div>
+    </section>
+    <section class="site-element" element-id="id1526954549087" element-type="SectionElement">
+        <div class="element-children-container">
+            <div class="site-element" element-id="id1526954549089" element-type="freeText">
+                <div style="text-align: center;"><span style="font-size:24px;"><strong>DEFINITIONS<span class="theme-background-color-1-0">​</span></strong></span><br></div>
+                <div><span style="font-size:18px;"><strong></strong></span><br></div>
+                <div><span style="font-size:18px;"><strong><span class="theme-text-color-4-2">​</span></strong></span><span style="font-size:16px;"><strong><span class="theme-text-color-4-2">Personal Information&nbsp;</span></strong><span class="theme-text-color-1-0">|</span>&nbsp;Any information relating to an identified or identifiable natural person. An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.<br><br><span class="theme-text-color-4-2"><strong>Controller</strong></span> <span class="theme-text-color-1-0">|</span> A natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal information.<br><br></span><span style="background-color: initial; letter-spacing: 0px;">The controller, for the purposes of the General Data Protection Regulation (GDPR), other data protection laws applicable in Member states of the European Union ("EU") and other provisions related to data protection is:</span>
+                    <div><span style="font-size:16px;"><br><strong>&nbsp; &nbsp; &nbsp; Tetris Online, Inc.<br>&nbsp; &nbsp; &nbsp; 55 Merchant Street, Suite 1550<br>&nbsp; &nbsp; &nbsp; Honolulu, Hawaii, 96813<br>&nbsp; &nbsp; &nbsp; United States</strong></span></div>
+                    <div><strong><span style="font-size:16px;"><br>&nbsp; &nbsp; &nbsp; Phone: (808) 954-6200</span></strong></div>
+                    <div><span style="font-size:16px;"><strong>&nbsp; &nbsp; &nbsp; Email: 
+                                <u><a href="mailto:privacy@tetrisonline.com" data-attached-link="{&quot;type&quot;:&quot;Email&quot;,&quot;url&quot;:&quot;privacy@tetrisonline.com&quot;,&quot;title&quot;:&quot;privacy@tetrisonline.com&quot;}" class="wz-link" data-cke-saved-href="mailto:privacy@tetrisonline.com">privacy@tetrisonline.com</a></u><br>&nbsp; &nbsp; &nbsp; Website: 
+                                <u><a href="http://editor.sitebuilder.com/" data-attached-link="{&quot;type&quot;:&quot;Pages&quot;,&quot;url&quot;:&quot;1403784258535&quot;,&quot;title&quot;:&quot;HOME&quot;}" class="wz-link internal-link">www.tetrisonline.com</a></u><br>
+                            </strong><br><span class="theme-text-color-4-2"><strong>Processor </strong></span><span class="theme-text-color-1-0">|</span> A natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.<br><br>
+                        </span>
+                    </div>
+                    <div><span style="font-size:16px;"><span class="theme-text-color-4-2"><strong>Processing</strong> </span><span class="theme-text-color-1-0">|</span><span class="theme-text-color-4-2">&nbsp;</span>Processing is any operation or set of operations which is performed on personal information or on sets of personal information, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.<br></span><span style="background-color: initial; letter-spacing: 0px;">​</span></div>
+                    <div><span style="font-size:16px;"><span class="theme-text-color-4-2"><strong>​</strong></span></span><br></div>
+                </div>
+            </div>
+            <div class="site-element" element-id="id1527037010944" element-type="SkinButtonElement">
+                <div>
+                    <div class="site-element" element-id="id1431213630181" element-type="skinHierarchyBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1431213630183" element-type="Icon"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="site-element" element-id="id1526954851178" element-type="SectionElement">
+        <div class="element-children-container">
+            <div class="site-element" element-id="id1526954851180" element-type="freeText">
+                <div style="text-align: center;"><span style="font-size: 18px;"><b></b></span><span style="font-size:24px;"><b>PERSONAL INFORMATION WE COLLECT<span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0">​​</span></b></span><span style="font-size: 18px;"><b><span class="theme-background-color-1-0"></span></b></span><br></div>
+                <div><span style="font-size: 18px;"><b></b></span><br></div>
+                <div><span style="font-size: 18px;"><b><span style="font-size:16px;"></span></b></span>
+                    <div><span style="background-color: initial; letter-spacing: 0px;">Personal information may be collected in a number of ways through use of TOA Products, such as when you voluntarily provide it in connection with registering, creating a profile, posting content, sending an email&nbsp;or message to another user or participating in the interactive games, forums or features of TOA Products. If you leave a comment on a forum or provide a testimonial on TOA Products, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users, and could be used to send you unsolicited messages. <br><br></span></div>
+                    <div><span style="font-size: 18px;"><span style="font-size:16px;">From time to time we may collect personal information that you provide in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities on TOA Products. If we collect information from you offline, and it is linked with personal information, we will treat that information as personal information. <br><br>Some personal information may also be automatically collected through the use of TOA Products, as is described within this policy.</span></span></div>
+                    <div><span style="font-size: 18px;"><span style="font-size:16px;"><br>When you use TOA Products on a social network, we may record information regarding the use of that TOA Product, and we may collect other information that is provided in accordance with the relevant terms of use associated with that social network.&nbsp;</span></span><span style="font-size: 18px;"><span style="font-size:16px;">It is your responsibility to read and accept social networking sites’ Terms of Use, as well as their Privacy Policy prior to continuing to use such sites.</span></span><br></div>
+                    <div><span style="font-size: 18px;"><span style="font-size:16px;"></span></span><br></div>
+                    <ul>
+                        <li><span style="font-size: 18px;"><span style="font-size:16px;"><strong>Facebook</strong></span></span><span style="font-size:14px;"> (
+                                <u><a href="https://www.facebook.com/legal/terms/update" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://www.facebook.com/legal/terms/update&quot;,&quot;title&quot;:&quot;https://www.facebook.com/legal/terms/update&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Terms of Use</a></u>&nbsp;<span class="theme-text-color-1-0">|</span> 
+                                <u><a href="https://www.facebook.com/policy.php" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://www.facebook.com/policy.php&quot;,&quot;title&quot;:&quot;https://www.facebook.com/policy.php&quot;}" class="wz-link">Data Policy</a></u>)
+                            </span><span style="font-size: 18px;"><span style="font-size:16px;"></span></span><br>
+                        </li>
+                        <li><span style="font-size: 18px;"><span style="font-size:16px;"></span></span><strong style="background-color: initial; letter-spacing: 0px;">Twitter</strong><span style="background-color: initial; letter-spacing: 0px;"> <span style="font-size:14px;">(</span></span><span style="font-size:14px;">
+                                <u style="background-color: initial; letter-spacing: 0px;"><a href="https://twitter.com/en/tos" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://twitter.com/en/tos&quot;,&quot;title&quot;:&quot;https://twitter.com/en/tos&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Terms of Use</a></u><span style="background-color: initial; letter-spacing: 0px;"> </span><span class="theme-text-color-1-0" style="background-color: initial; letter-spacing: 0px;">|</span><span style="background-color: initial; letter-spacing: 0px;"> </span>
+                                <u style="background-color: initial; letter-spacing: 0px;"><a href="https://twitter.com/en/privacy#update" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://twitter.com/en/privacy#update&quot;,&quot;title&quot;:&quot;https://twitter.com/en/privacy#update&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Privacy Policy</a></u><span style="background-color: initial; letter-spacing: 0px;">)</span>
+                            </span>
+                        </li>
+                    </ul>
+                    <div><br></div>
+                    <div><span style="font-size: 18px;"><span style="font-size:16px;">When you invite new members into your network, or send messages through TOA Products, we may collect and maintain the information associated with those messages, included email address and content.</span></span><br></div>
+                </div>
+            </div>
+            <div class="site-element" element-id="id1526954851181" element-type="userBox">
+                <div class="element-children-container">
+                    <div class="site-element" element-id="id1526954851182" element-type="userBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1526954851183" element-type="userBox"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="site-element" element-id="id1527037042090" element-type="SkinButtonElement">
+                <div>
+                    <div class="site-element" element-id="id1431213630181" element-type="skinHierarchyBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1431213630183" element-type="Icon"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="site-element" element-id="id1526954853774" element-type="SectionElement">
+        <div class="element-children-container">
+            <div class="site-element" element-id="id1526954853776" element-type="freeText">
+                <div style="text-align: center;"><span style="font-size:24px;"><b>HOW WE USE PERSONAL INFORMATION<span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0">​​</span></b>​</span><br></div>
+                <div><span style="font-size: 18px;"><b></b></span><br></div>
+                <div><span style="font-size:16px;"><b></b>In general, we use personal information that we collect to process your requests or transactions, to provide you with information or services you request, to inform you about other information, events, promotions, products or services we think will be of interest to you, to facilitate your use and our administration and operation of TOA Products, to learn more about and improve TOA Products. For example, we may use the information we collect:<br><br><strong>i.</strong> To send you a welcoming email or contact you about your use of TOA Products, such as for administrative purposes or to provide you with customer service;<br><br><strong>ii.</strong> To provide you with the services, products or information you request and to complete any transactions or facilitate the use of any features in connection there with, such as matching users for gameplay;<br><br><strong>iii.</strong> To contact you about or to advertise our or a third party's services, products, activities, special events or offers and for other marketing, informational, product development and promotional purposes;<br><br><strong>iv.</strong> To respond to your emails, submissions, comments, requests or complaints;<br><br><strong>v. </strong>To notify contest winners; and<br><br><strong>vi.</strong> To request feedback and to enable us to develop, customize and improve TOA Products and new offerings.<br><br>In addition, when you use TOA Products on a social networking site, we may record information regarding the use of that TOA Product, and we may collect other information that is visible on your social networking site in accordance&nbsp;with the relevant terms of use associated with that social network (See Facebook's 
+                        <u><a href="https://www.facebook.com/legal/terms/update" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://www.facebook.com/legal/terms/update&quot;,&quot;title&quot;:&quot;https://www.facebook.com/legal/terms/update&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank" data-cke-saved-href="https://www.facebook.com/legal/terms/update">Terms of Use</a></u>&nbsp;| 
+                        <u><a href="https://www.facebook.com/policy.php" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://www.facebook.com/policy.php&quot;,&quot;title&quot;:&quot;https://www.facebook.com/policy.php&quot;}" class="wz-link">Data Policy</a></u>). This information may include, but is not limited to, your name, profile picture, the pictures of your social networking site "friends," gender, and game scores. We may retain this information to enhance your experience when playing our games. For example we may post the high scores and profile pictures of you and your friends while you play one of our TOA Products.​<b></b>
+                    </span><strong></strong><strong></strong><br>
+                </div>
+            </div>
+            <div class="site-element" element-id="id1527037053598" element-type="SkinButtonElement">
+                <div>
+                    <div class="site-element" element-id="id1431213630181" element-type="skinHierarchyBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1431213630183" element-type="Icon"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="site-element" element-id="id1526954856054" element-type="SectionElement">
+        <div class="element-children-container">
+            <div class="site-element" element-id="id1526954856056" element-type="freeText">
+                <div style="text-align: center;"><span style="font-size:24px;"><b>STORAGE AND HISTORY OF PERSONAL INFORMATION<span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0">​​</span></b></span></div>
+                <div><span style="font-size: 18px;"><b></b></span><br></div>
+                <div><span style="font-size: 18px;"><b></b></span><span style="font-size:16px;">We retain your personal information for as long as necessary to provide the TOA Products you have requested, or for other essential purposes such as complying with our legal obligations, resolving disputes, and enforcing our policies.<br><br>How long we retain personal information can vary significantly based on context of the services we provide and on our legal obligations. The following factors typically influence retention periods:<br><br></span></div>
+                <ul>
+                    <li><strong>How long is the personal information needed?</strong><br><span style="font-size:16px;">This includes such things as maintaining and improving the performance of our products, keeping our systems secure, and maintaining appropriate business and financial records. This is the general rule that establishes the baseline for most of our data retention periods.<br></span></li>
+                </ul>
+                <div><span style="font-size:16px;"><br></span></div>
+                <ul>
+                    <li><strong>Is the personal information sensitive?</strong><br><span style="font-size:16px;">If so, a shortened retention time is generally appropriate.<br></span></li>
+                </ul>
+                <div><span style="font-size:16px;"><br></span></div>
+                <ul>
+                    <li><strong>Have you provided consent for a longer retention period?</strong><br><span style="font-size:16px;">If so, we will retain data in accordance with your consent.<br></span></li>
+                </ul>
+                <div><span style="font-size:16px;"><br></span></div>
+                <ul>
+                    <li><strong>Are we subject to a legal, contractual, or similar obligation to retain your personal information?</strong><br>​<span style="font-size:16px;">Examples can include mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or personal information retained for the purposes of litigation.<br></span></li>
+                </ul>
+                <div><span style="font-size:16px;"><br>After it is no longer necessary for us to retain your personal information, we will dispose of it in a secure manner according to our data retention and deletion policies.</span><span style="font-size: 18px;"><b></b></span><strong></strong><strong></strong>​<br></div>
+            </div>
+            <div class="site-element" element-id="id1526954856057" element-type="userBox">
+                <div class="element-children-container">
+                    <div class="site-element" element-id="id1526954856058" element-type="userBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1526954856059" element-type="userBox"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="site-element" element-id="id1527037072381" element-type="SkinButtonElement">
+                <div>
+                    <div class="site-element" element-id="id1431213630181" element-type="skinHierarchyBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1431213630183" element-type="Icon"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="site-element" element-id="id1526954857497" element-type="SectionElement">
+        <div class="element-children-container">
+            <div class="site-element" element-id="id1526954857499" element-type="freeText">
+                <div style="text-align: center;"><span style="font-size:18px;"><strong></strong></span><span style="font-size:24px;"><strong>SHARING AND DISCLOSURE OF PERSONAL INFORMATION</strong></span><span style="font-size:18px;"><strong><br>​</strong></span><br></div>
+                <div><span style="font-size:18px;"><strong><span class="theme-background-color-1-0">​</span></strong></span><span style="font-size:16px;">We <strong>DO NOT</strong> sell or rent personal information to third parties&nbsp;or share personal information with third parties outside the "Tetris Family" of organizations, which currently includes The Tetris Company LLC. (and its sole agent Blue Planet Software, Inc.) except as described in this policy&nbsp;as it may be revised from time to time, or with your consent. <br><br></span>​​We may share your personal information with organizations that are part of the Tetris Family, which may use such information consistent with this policy.&nbsp;<br><br>We also allow third party vendors to serve creatives and other ads on TOA Products to collect information about users' interactions with those ads. In addition, we may share your information with third parties if we have a good faith belief that the disclosure is necessary or appropriate to comply with law or legal process; to protect and defend the rights and property or personal safety of Tetris, our customers or the public; to prevent and protect Tetris and our users from fraudulent, abusive, unlawful or unauthorized use of the TOA Products; or to otherwise enforce our rights and agreements. We also may share such information with official law enforcement authorities in our sole discretion.<br><br>Your personal information also may be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personal information may be transferred as one of the business assets of Tetris Online, Inc.<br></div>
+            </div>
+            <div class="site-element" element-id="id1527037105286" element-type="SkinButtonElement">
+                <div>
+                    <div class="site-element" element-id="id1431213630181" element-type="skinHierarchyBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1431213630183" element-type="Icon"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="site-element" element-id="id1527035268879" element-type="SectionElement">
+        <div class="element-children-container">
+            <div class="site-element" element-id="id1527035268881" element-type="freeText">
+                <div style="text-align: center;"><span style="font-size:18px;"><strong></strong></span><span style="font-size:24px;"><strong>YOUR RIGHTS<br></strong></span><span style="font-size:20px;"><strong>ACCESS, UPDATES, AND MANAGEMENT OF PERSONAL INFORMATION​<span class="theme-background-color-2-4"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0">​</span></strong></span><span style="font-size:24px;"><strong><span class="theme-background-color-1-0"></span></strong></span><span style="font-size:18px;"><strong><br>​</strong></span><br></div>
+                <div>
+                    <div>If you do not wish to receive promotional email about our products and services, you may opt-out at the time of registration or information collection.<br><br>If you wish to change your contact preferences, you may log into applicable TOA Products (i.e., 
+                        <u><a href="http://www.tetrisfriends.com" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;http://www.tetrisfriends.com&quot;,&quot;title&quot;:&quot;http://www.tetrisfriends.com&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">www.tetrisfriends.com</a></u>) and update your contact preferences.&nbsp;<br><br>Please note, even if you opt out of receiving promotional email from us, you may still receive operational emails, including messages relating to transactions or services you have specifically requested, responding to any email from you to us, notifying you of updates or changes to our policies and procedures, or which otherwise provide you with information we believe is important to users. Our systems require time to update, so your opt–out requests may not update immediately.&nbsp;<br>
+                    </div>
+                    <div><span style="font-size:18px;"><strong><span class="theme-background-color-1-0"></span></strong></span><br></div>
+                    <div><span style="font-size:18px;"><strong><span class="theme-background-color-1-0">​</span></strong></span><span style="font-size:16px;"><strong>European Union ("EU") and the European Economic Area ("EEA")</strong><br></span><br></div>
+                    <div><span style="font-size:16px;"></span>​<span style="font-size:16px;">In accordance with the General Data Protection Regulation (GDPR), citizens within the EU&nbsp;and EEA have specific data protection and privacy rights (effective May 25, 2018),&nbsp;which will be observed on all TOA Products. These rights include:</span></div><br>
+                    <ul>
+                        <li><span style="font-size:16px;">You can access or request deletion of your personal information.<br></span></li>
+                    </ul>
+                    <div><span style="font-size:16px;"><br></span></div>
+                    <ul>
+                        <li>You can correct or update your personal information, object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information.</li>
+                    </ul>
+                    <div><span style="font-size:16px;"><br></span></div>
+                    <ul>
+                        <li>You can opt-out of marketing communications.</li>
+                    </ul>
+                    <div><span style="font-size:16px;"><br></span></div>
+                    <ul>
+                        <li>If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.</li>
+                    </ul><br>
+                    <ul>
+                        <li>You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local <a href="http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm&quot;,&quot;title&quot;:&quot;http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm&quot;,&quot;target&quot;:&quot;_blank&quot;}" target="_blank">data protection authority</a>.<br><br></li>
+                    </ul>
+                    <div>To exercise your rights to access or deletion, please send a detailed written request to 
+                        <u><a href="mailto:privacy@tetrisonline.com" data-attached-link="{&quot;type&quot;:&quot;Email&quot;,&quot;url&quot;:&quot;privacy@tetrisonline.com&quot;,&quot;title&quot;:&quot;privacy@tetrisonline.com&quot;}" class="wz-link">privacy@tetrisonline.com</a></u>.&nbsp;<br><br><span style="font-size:16px;"><strong>California Online Privacy Protection Act Notice</strong><br><br>At this time, TOA Products do&nbsp;not currently respond to 
+                            <u><a href="https://support.google.com/chrome/answer/2790761" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://support.google.com/chrome/answer/2790761&quot;,&quot;title&quot;:&quot;https://support.google.com/chrome/answer/2790761&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Do Not Track</a></u> signals, whether that signal is received on a computer or on a mobile device.&nbsp;
+                        </span><br>
+                    </div>
+                    <div><span style="font-size:16px;"></span><br><span style="font-size:16px;"></span><br></div>
+                </div>
+            </div>
+            <div class="site-element" element-id="id1527037118853" element-type="SkinButtonElement">
+                <div>
+                    <div class="site-element" element-id="id1431213630181" element-type="skinHierarchyBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1431213630183" element-type="Icon"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="site-element" element-id="id1527021578185" element-type="SectionElement">
+        <div class="element-children-container">
+            <div class="site-element" element-id="id1527021578188" element-type="freeText">
+                <div>
+                    <div style="text-align: center;"><span style="font-size:18px;"><strong></strong></span><span style="font-size:24px;"><strong>PROTECTION OF PERSONAL INFORMATION</strong></span><span style="font-size:18px;"><strong><br><span class="theme-background-color-1-0">​​</span></strong></span><span style="font-size:16px;"></span></div>
+                    <div><span style="font-size:16px;">We implement reasonable and appropriate security measures to help protect the security of your information both online and offline and to ensure that your data is treated securely and in accordance with this policy. These measures vary based upon the sensitivity of your information.<br><br></span></div>
+                    <div><span style="font-size:16px;">We strive to protect personal information while it is under our control. Your account information is accessible online only through the use of a password. To help protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. Please advise us immediately at 
+                            <u><a href="mailto:support@tetrisonline.com" data-attached-link="{&quot;type&quot;:&quot;Email&quot;,&quot;url&quot;:&quot;support@tetrisonline.com&quot;,&quot;title&quot;:&quot;support@tetrisonline.com&quot;}" class="wz-link">support@tetrisonline.com</a></u> if you believe your password has been compromised or misused.
+                        </span><span style="font-size:16px;"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="site-element" element-id="id1527021578189" element-type="userBox">
+                <div class="element-children-container">
+                    <div class="site-element" element-id="id1527021578190" element-type="userBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1527021578191" element-type="userBox"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="site-element" element-id="id1527037138533" element-type="SkinButtonElement">
+                <div>
+                    <div class="site-element" element-id="id1431213630181" element-type="skinHierarchyBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1431213630183" element-type="Icon"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="site-element" element-id="id1526954858796" element-type="SectionElement">
+        <div class="element-children-container">
+            <div class="site-element" element-id="id1526954858798" element-type="freeText">
+                <div style="text-align: center;"><span style="font-size:18px;"><strong><span class="theme-background-color-2-2"></span><span class="theme-background-color-2-2">​​</span><span class="theme-background-color-0-0"></span><span class="theme-background-color-2-2"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0">​</span></strong></span><span style="font-size:24px;"><strong>COOKIES AND&nbsp;SIMILAR TECHNOLOGIES<span class="theme-background-color-0-0">​</span></strong></span><span style="font-size:18px;"><strong><br></strong></span><br></div>
+                <div>​A cookie is a small piece of data that is stored on your computer or mobile device. Like many websites, we use cookies and similar technologies to collect additional website usage data and to operate some TOA Products. <br><br>Although most web browsers automatically accept cookies, many browsers’ settings can be set to decline cookies or alert you when a website is attempting to place a cookie on your computer. However, some TOA Products may not function properly if you disable cookies. <br><br>When your browser or device allows it, we use both session cookies and persistent cookies to better understand how you interact with TOA Products, to monitor aggregate usage patterns, and to personalize and otherwise operate TOA Products such as by providing account security, personalizing the content we show you including ads, and remembering your language preferences. <br><br>Advertising companies we work with generally use cookies and similar technologies as part of their services. To learn more about how advertisers generally use cookies and the choices they offer, you can review the following resources:<br>
+                    <u><a href="http://www.aboutads.info/choices/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;http://www.aboutads.info/choices/&quot;,&quot;title&quot;:&quot;http://www.aboutads.info/choices/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank"></a></u><br>
+                </div>
+                <ul>
+                    <li>
+                        <u><a href="http://www.aboutads.info/choices/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;http://www.aboutads.info/choices/&quot;,&quot;title&quot;:&quot;http://www.aboutads.info/choices/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Digital Advertising Alliance</a></u><br>
+                    </li>
+                    <li>
+                        <u><a href="http://youradchoices.ca/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;http://youradchoices.ca/&quot;,&quot;title&quot;:&quot;http://youradchoices.ca/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Digital Advertising Alliance of Canada</a></u><br>
+                    </li>
+                    <li>
+                        <u><a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.youronlinechoices.eu%2F&amp;h=ATNitXrWuBoQG3AGNE3xUakMwe4lZ5ziyEN7oMgvsSSdNhHNNy_yClC9AkZGZl_ozVc8DDzoKA5hSW_UxOAcYnImeuHCHDJ2qONMpa6ULdxzphBWtl0pnZNZ44hVegWD" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.youronlinechoices.eu%2F&amp;h=ATNitXrWuBoQG3AGNE3xUakMwe4lZ5ziyEN7oMgvsSSdNhHNNy_yClC9AkZGZl_ozVc8DDzoKA5hSW_UxOAcYnImeuHCHDJ2qONMpa6ULdxzphBWtl0pnZNZ44hVegWD&quot;,&quot;title&quot;:&quot;https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.youronlinechoices.eu%2F&amp;h=ATNitXrWuBoQG3AGNE3xUakMwe4lZ5ziyEN7oMgvsSSdNhHNNy_yClC9AkZGZl_ozVc8DDzoKA5hSW_UxOAcYnImeuHCHDJ2qONMpa6ULdxzphBWtl0pnZNZ44hVegWD&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">European Interactive Digital Advertising Alliance<br>​<br></a></u>
+                    </li>
+                </ul>
+                <div>For more information about how to reject cookies using your internet browser settings please consult the “Help” section of your internet browser (or alternatively visit&nbsp;
+                    <u><a href="http://www.aboutcookies.org" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;http://www.aboutcookies.org&quot;,&quot;title&quot;:&quot;http://www.aboutcookies.org&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">http://www.aboutcookies.org</a></u>). <br>
+                </div>
+            </div>
+            <div class="site-element" element-id="id1527037196893" element-type="SkinButtonElement">
+                <div>
+                    <div class="site-element" element-id="id1431213630181" element-type="skinHierarchyBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1431213630183" element-type="Icon"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="site-element" element-id="id1526954860208" element-type="SectionElement">
+        <div class="element-children-container">
+            <div class="site-element" element-id="id1526954860210" element-type="freeText">
+                <div style="text-align: center;"><span style="font-size:24px;"><strong>AD NETWORKS AND EXCHANGES OPERATED BY AUTHORIZED THIRD PARTIES<span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0">​​</span></strong>​</span><br></div>
+                <div><br></div>
+                <div><span style="font-size:18px;"><strong></strong></span><span style="font-size:18px;"><strong></strong><span style="font-size:16px;"></span></span>We may use third parties, such as advertising networks and exchanges, to allow us to serve you advertisements. These third-party ad networks and exchange providers may use third-party cookies, web beacons, or similar technologies to collect information. They may also collect your device identifier, IP address, or identifier for advertising (IDFA). <br><br>The information that these third parties collect may be used to assist us in providing you with more relevant advertising that we serve on TOA Products. Third-party cookies are covered by the third parties' privacy policy.<br><br>For more information on third-party advertising-related cookies and how to opt-out of them, please visit one of the following third party websites:<br><br></div>
+                <div>
+                    <ul>
+                        <li>
+                            <u><a href="http://www.youronlinechoices.eu/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;http://www.youronlinechoices.eu/&quot;,&quot;title&quot;:&quot;http://www.youronlinechoices.eu/&quot;}" class="wz-link">Your Online Choices</a></u><br>
+                        </li>
+                        <li>
+                            <u><a href="http://www.aboutads.info/choices/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;http://www.aboutads.info/choices/&quot;,&quot;title&quot;:&quot;http://www.aboutads.info/choices/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">The Self-Regulatory Program for Online Behavioral Advertising</a></u> (available in English only)<br>
+                        </li>
+                        <li>
+                            <u><a href="http://www.networkadvertising.org/choices/#completed" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;http://www.networkadvertising.org/choices/#completed&quot;,&quot;title&quot;:&quot;http://www.networkadvertising.org/choices/#completed&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Network Advertising Initiative Consumer Opt-Out</a></u> (available in English only)
+                        </li>
+                    </ul><br><strong>Opting-out of interest-based advertising</strong><br>
+                    <div><br>If you live in the USA, Europe or Canada, you can also opt-out from the collection of your information by some or all of our advertising partners who participate in the Digital Advertising Alliance by visiting:<br></div>
+                    <div>
+                        <u></u><br>
+                    </div>
+                    <ul>
+                        <li>
+                            <u><a href="http://www.aboutads.info/choices/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;http://www.aboutads.info/choices/&quot;,&quot;title&quot;:&quot;http://www.aboutads.info/choices/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">http://www.aboutads.info/choices/</a></u> (for US users)<br>
+                        </li>
+                        <li>
+                            <u><a href="http://www.youronlinechoices.com/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;http://www.youronlinechoices.com/&quot;,&quot;title&quot;:&quot;http://www.youronlinechoices.com/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">http://www.youronlinechoices.com/</a></u> (for European users)<br>
+                        </li>
+                        <li>
+                            <u><a href="http://youradchoices.ca/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;http://youradchoices.ca/&quot;,&quot;title&quot;:&quot;http://youradchoices.ca/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">http://youradchoices.ca/</a></u> choices (for Canadian users). <br>
+                        </li>
+                    </ul>
+                    <div><br></div>
+                    <div>You can also click on the 
+                        <u><a href="https://www.youradchoices.com/learn" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://www.youradchoices.com/learn&quot;,&quot;title&quot;:&quot;https://www.youradchoices.com/learn&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">AdChoices</a></u> logo within an advertisement (where available).
+                    </div>
+                    <div><br>If you choose to adjust your preferences in order to prevent these technologies, you may find that you cannot enjoy the full use of some TOA Products. Please note that adjusting your preferences as described in this section does not mean you will no longer see ads<span style="background-color: initial; letter-spacing: 0px;">; however, those ads will not be targeted using information that we hold about you. Some ads may still be delivered based on contextual criteria such as the game that ad is to be displayed in, or the region in which your device is located.</span></div><br><strong>Ad networks and exchanges used by TOA Products: </strong>(in alphabetical order)<br><span style="background-color: initial; letter-spacing: 0px;"><br>&gt; 
+                        <u><a href="https://policies.google.com/technologies/ads" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://policies.google.com/technologies/ads&quot;,&quot;title&quot;:&quot;https://policies.google.com/technologies/ads&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">AdSense</a></u> (Google) - See Also: 
+                        <u><a href="https://www.google.com/settings/ads" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://www.google.com/settings/ads&quot;,&quot;title&quot;:&quot;https://www.google.com/settings/ads&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Ad Settings</a></u>&nbsp;&nbsp;<br>&gt;&nbsp;
+                        <u><a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=468496" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&quot;,&quot;title&quot;:&quot;https://www.amazon.com/gp/help/customer/display.html?nodeId=468496&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Amazon</a></u>&nbsp;<br>&gt;&nbsp;
+                        <u><a href="https://answers.chartboost.com/en-us/articles/115001489623" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://answers.chartboost.com/en-us/articles/115001489623&quot;,&quot;title&quot;:&quot;https://answers.chartboost.com/en-us/articles/115001489623&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">ChartBoost</a></u>&nbsp;<br>&gt;&nbsp;
+                        <u><a href="https://www.criteo.com/privacy/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://www.criteo.com/privacy/&quot;,&quot;title&quot;:&quot;https://www.criteo.com/privacy/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Criteo</a></u>&nbsp;<br>&gt;&nbsp;
+                        <u><a href="https://www.facebook.com/about/privacy" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://www.facebook.com/about/privacy&quot;,&quot;title&quot;:&quot;https://www.facebook.com/about/privacy&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Facebook</a></u>&nbsp;<br>&gt;&nbsp;
+                        <u><a href="https://www.fyber.com/legal/privacy-policy/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://www.fyber.com/legal/privacy-policy/&quot;,&quot;title&quot;:&quot;https://www.fyber.com/legal/privacy-policy/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Fyber</a></u> (formerly SponsorPay)&nbsp;<br>&gt;&nbsp;
+                        <u><a href="https://www.innity.com/privacy-policy.php" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://www.innity.com/privacy-policy.php&quot;,&quot;title&quot;:&quot;https://www.innity.com/privacy-policy.php&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Innity</a></u>&nbsp;<br>&gt;&nbsp;
+                        <u><a href="https://www.ironsrc.com/privacy-policy/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://www.ironsrc.com/privacy-policy/&quot;,&quot;title&quot;:&quot;https://www.ironsrc.com/privacy-policy/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">IronSource</a></u> (formerly SuperSonicAds)&nbsp;<br>&gt;&nbsp;
+                        <u><a href="https://jungroup.com/pp.html" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://jungroup.com/pp.html&quot;,&quot;title&quot;:&quot;https://jungroup.com/pp.html&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Jun Group</a></u>&nbsp;<br>&gt;&nbsp;
+                        <u><a href="http://www.lifestreet.com/privacy/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;http://www.lifestreet.com/privacy/&quot;,&quot;title&quot;:&quot;http://www.lifestreet.com/privacy/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">LifeStreet Media</a></u>&nbsp;<br>&gt;&nbsp;
+                        <u><a href="https://rubiconproject.com/privacy/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://rubiconproject.com/privacy/&quot;,&quot;title&quot;:&quot;https://rubiconproject.com/privacy/&quot;}" class="wz-link">Rubicon Project</a></u>&nbsp;<br>&gt;&nbsp;
+                        <u><a href="https://www.spotx.tv/privacy-policy/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://www.spotx.tv/privacy-policy/&quot;,&quot;title&quot;:&quot;https://www.spotx.tv/privacy-policy/&quot;}" class="wz-link">SpotX</a></u>&nbsp;<br>&gt;&nbsp;
+                        <u><a href="https://www.trialpay.com/legal/privacy-policy/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://www.trialpay.com/legal/privacy-policy/&quot;,&quot;title&quot;:&quot;https://www.trialpay.com/legal/privacy-policy/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">TrialPay</a></u>&nbsp;<br>&gt;&nbsp;
+                        <u><a href="https://uponit.com/privacy/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://uponit.com/privacy/&quot;,&quot;title&quot;:&quot;https://uponit.com/privacy/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">UpOnIt</a></u>&nbsp;<br>&gt;&nbsp;
+                        <u><a href="https://vungle.com/privacy/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;https://vungle.com/privacy/&quot;,&quot;title&quot;:&quot;https://vungle.com/privacy/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">Vungle</a></u>&nbsp;<br><br>For additional settings, please visit 
+                        <u><a href="http://optout.aboutads.info/?c=2#!/" data-attached-link="{&quot;type&quot;:&quot;Web&quot;,&quot;url&quot;:&quot;http://optout.aboutads.info/?c=2#!/&quot;,&quot;title&quot;:&quot;http://optout.aboutads.info/?c=2#!/&quot;,&quot;target&quot;:&quot;_blank&quot;}" class="wz-link" target="_blank">www.aboutads.info</a></u>.&nbsp;<br>
+                    </span>
+                </div>
+            </div>
+            <div class="site-element" element-id="id1526954860211" element-type="userBox">
+                <div class="element-children-container">
+                    <div class="site-element" element-id="id1526954860212" element-type="userBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1526954860213" element-type="userBox"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="site-element" element-id="id1527037190471" element-type="SkinButtonElement">
+                <div>
+                    <div class="site-element" element-id="id1431213630181" element-type="skinHierarchyBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1431213630183" element-type="Icon"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="site-element" element-id="id1526963001372" element-type="SectionElement">
+        <div class="element-children-container">
+            <div class="site-element" element-id="id1526963001374" element-type="freeText">
+                <div style="text-align: center;"><span style="font-size:18px;"></span><span style="font-size:24px;"><strong>SPECIAL NOTICE REGARDING CHILDREN</strong></span><span style="font-size:18px;"><br><span style="font-size:16px;"></span></span><br></div>
+                <div><span style="font-size:18px;"><span style="font-size:16px;">TOA Products are<span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0">​</span> not designed for, nor do we knowingly collect personal information&nbsp;from children under the age of 13. If you are under 13, please do not attempt to send any information about yourself to us, including your name, address, telephone number, or e–mail address. Parents or legal guardians may contact 
+                            <u><a href="mailto:privacy@tetrisonline.com" data-attached-link="{&quot;type&quot;:&quot;Email&quot;,&quot;url&quot;:&quot;privacy@tetrisonline.com&quot;,&quot;title&quot;:&quot;privacy@tetrisonline.com&quot;}" class="wz-link">privacy@tetrisonline.com</a></u> for questions or concerns.
+                        </span>
+                    </span><br>
+                </div>
+            </div>
+            <div class="site-element" element-id="id1526963001375" element-type="userBox"></div>
+            <div class="site-element" element-id="id1527037225780" element-type="SkinButtonElement">
+                <div>
+                    <div class="site-element" element-id="id1431213630181" element-type="skinHierarchyBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1431213630183" element-type="Icon"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="site-element" element-id="id1526963007134" element-type="SectionElement">
+        <div class="element-children-container">
+            <div class="site-element" element-id="id1526963007136" element-type="freeText">
+                <div style="text-align: center;"><span style="font-size:24px;"><strong>CHANGES TO OUR PRIVACY POLICY<span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0"></span><span class="theme-background-color-1-0">​​</span></strong></span><br></div>
+                <div><span style="font-size:18px;"><strong></strong></span><br></div>
+                <div><span style="font-size:16px;">If we decide to make material changes to our policy, we will notify users of TOA Products by placing a notice in-game, on&nbsp;
+                        <u><a href="http://editor.sitebuilder.com/" data-attached-link="{&quot;type&quot;:&quot;Pages&quot;,&quot;url&quot;:&quot;1403784258535&quot;,&quot;title&quot;:&quot;HOME&quot;}" class="wz-link internal-link">www.tetrisonline.com</a></u>, or by sending a notice to the e-mail address we have on file. <br><br>We may supplement this process by placing notices on game blogs, social network pages, and/or player forums. We recommend to periodically check&nbsp;
+                        <u><a href="http://editor.sitebuilder.com/" data-attached-link="{&quot;type&quot;:&quot;Pages&quot;,&quot;url&quot;:&quot;1403784258535&quot;,&quot;title&quot;:&quot;HOME&quot;}" class="wz-link internal-link">www.tetrisonline.com</a></u> and this policy for updates.<strong><br></strong>
+                    </span>​<br>
+                </div>
+                <div><strong></strong><strong></strong><br></div>
+            </div>
+            <div class="site-element" element-id="id1526963007137" element-type="userBox">
+                <div class="element-children-container">
+                    <div class="site-element" element-id="id1526963007138" element-type="userBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1526963007139" element-type="userBox"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="site-element" element-id="id1527037240099" element-type="SkinButtonElement">
+                <div>
+                    <div class="site-element" element-id="id1431213630181" element-type="skinHierarchyBox">
+                        <div class="element-children-container">
+                            <div class="site-element" element-id="id1431213630183" element-type="Icon"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="site-element" element-id="1406509269438" element-type="FooterElement">
+        <div class="element-children-container"><a href="http://www.tetris.com">
+                <div class="site-element" element-id="id1464222973929" element-type="image"><img src="https://storage.googleapis.com/wzukusers/user-13337029/images/574644f5db384Ijke3rm/final-tetris_seal_small_d200.png" width="77" height="109"></div>
+            </a>
+            <div class="site-element" element-id="1406509269444" element-type="freeText">
+                <div>Tetris ® &amp; © 1985~2018&nbsp;Tetris Holding. Tetris logos, Tetris theme song and Tetriminos are trademarks of Tetris Holding. The Tetris trade dress is owned by Tetris Holding. Licensed to The Tetris Company. Tetris Game Design by Alexey Pajitnov. Tetris Logo Design by Roger Dean. All Rights Reserved. Sublicensed to Tetris Online, Inc.<br><br><span class="theme-text-color-2-2">
+                        <u><a href="#!id1527118220755" data-attached-link="{&quot;type&quot;:&quot;Pages&quot;,&quot;url&quot;:&quot;id1527118220755&quot;,&quot;title&quot;:&quot;TERMS OF USE&quot;}" class="wz-link">Terms of Use</a></u>
+                    </span> |&nbsp;<span class="theme-text-color-2-2">
+                        <u><a href="http://editor.sitebuilder.com/privacy" data-attached-link="{&quot;type&quot;:&quot;Pages&quot;,&quot;url&quot;:&quot;id1526943455053&quot;,&quot;title&quot;:&quot;PRIVACY POLICY&quot;}" class="wz-link internal-link">Privacy Policy</a></u>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"319ed5a491","applicationID":"56676652","transactionName":"NlQHZEpRWxcEAhYKXQ8eMEJRH1wKAQQaTUIJQQ==","queueTime":0,"applicationTime":74,"atts":"GhMEEgJLSBk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
