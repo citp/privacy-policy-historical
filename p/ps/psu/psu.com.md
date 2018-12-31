@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the psu.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625102128id_/https%3A//www.psu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psu.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231094720id_/https%3A//www.psu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms and Conditions - PlayStation Universe
-
-This is the web site of ORIGINAL WEB VENTURES Inc.
-
-**Our postal address is:**  
-PO BOX 24159 RPO HAZELDEAN  
-KANATA, ONTARIO K2M 2C3 
 
 We can be reached via e-mail at [admin@psu.com](mailto:admin@psu.com)
 
@@ -40,7 +34,7 @@ We are registered under the Data Protection Act 1998 and as such, any informatio
 
 We will not sell, share, or rent your personal information to any third party or use your e-mail address for unsolicited mail. Any emails sent by this Company will only be in connection with the provision of agreed services and products.
 
-Disclaimer   
+Disclaimer  
 Exclusions and Limitations
 
 The information on this web site is provided on an “as is” basis. To the fullest extent permitted by law, this Company:
@@ -64,7 +58,7 @@ Forum Rules
 
 Registration to the PSU.com community forums is free! We do insist that you abide by the rules and policies detailed below. If you agree to the terms, please check the ‘I agree’ checkbox and press the ‘Complete Registration’ button when you register for the site.  
 Although the administrators and moderators of PSU Forums will attempt to keep all objectionable messages off this site, it is impossible for us to review all messages. All messages express the views of the author, and neither the owners of PSU Forums, nor vBulletin Solutions, Inc. (developers of vBulletin) will be held responsible for the content of any message.  
-By agreeing to these rules, you warrant that you will not post any messages that are obscene, vulgar, sexually-oriented, hateful, threatening, or otherwise violative of any laws. 
+By agreeing to these rules, you warrant that you will not post any messages that are obscene, vulgar, sexually-oriented, hateful, threatening, or otherwise violative of any laws.
 
 The owners of PSU Forums reserve the right to remove, edit, move or close any content item for any reason.
 
@@ -82,4 +76,4 @@ Notification of Changes
 
 The Company reserves the right to change these conditions from time to time as it sees fit and your continued use of the site will signify your acceptance of any adjustment to these terms. If there are any changes to our privacy policy, we will announce that these changes have been made on our home page and on other key pages on our site. If there are any changes in how we use our site customers’ Personally Identifiable Information, notification by e-mail or postal mail will be made to those affected by this change. Any changes to our privacy policy will be posted on our web site 30 days prior to these changes taking place. You are therefore advised to re-read this statement on a regular basis.
 
-These terms and conditions form part of the Agreement between the Client and ourselves. Your accessing of this website and/or undertaking of a booking or Agreement indicates your understanding, agreement to and acceptance, of the Disclaimer Notice and the full Terms and Conditions contained herein. Your statutory Consumer Rights are unaffected. @ORIGINAL WEB VENTURES Inc 2006-2014 All Rights
+These terms and conditions form part of the Agreement between the Client and ourselves. Your accessing of this website and/or undertaking of a booking or Agreement indicates your understanding, agreement to and acceptance, of the Disclaimer Notice and the full Terms and Conditions contained herein. Your statutory Consumer Rights are unaffected.
