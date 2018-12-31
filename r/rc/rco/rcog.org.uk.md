@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcog.org.uk privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618164037id_/https%3A//www.rcog.org.uk/en/legal/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcog.org.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231210405id_/https%3A//www.rcog.org.uk/en/legal/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy policy
 
