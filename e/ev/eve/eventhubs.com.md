@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventhubs.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625121103id_/https%3A//www.eventhubs.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventhubs.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231113734id_/https%3A//www.eventhubs.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy -- EventHubs.com
 
