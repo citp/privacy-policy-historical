@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personacentral.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624171429id_/https%3A//personacentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personacentral.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231233435id_/https%3A//personacentral.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Persona Central
 
@@ -38,7 +38,7 @@ http://personacentral.com/ uses cookies to store information about visitors’ p
 
 → Google, as a third party vendor, uses cookies to serve ads on http://personacentral.com/.  
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://personacentral.com/ and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
 ### Embedded content from other websites
 
@@ -50,7 +50,7 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 **Google Analytics**
 
-We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) (as [amended for government websites](https://www.howto.gov/sites/default/files/google-analytics-tos-amendment.pdf "amendments for government websites of the Google Analytics Terms of Use")) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](https://www.usa.gov/optout_instructions.shtml) on your browser.
+We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](https://www.google.com/analytics/tos.html) (as [amended for government websites](http://www.howto.gov/sites/default/files/google-analytics-tos-amendment.pdf "amendments for government websites of the Google Analytics Terms of Use")) and the [Google Privacy Policy](https://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](https://www.usa.gov/optout_instructions.shtml) on your browser.
 
 ## Our Advertising Partners
 
