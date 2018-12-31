@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the femina.in privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625102148id_/https%3A//www.femina.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femina.in privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231094747id_/https%3A//www.femina.in/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | femina.in
+# Privacy Policy | Femina.in
 
 Femina.in is the registered domain name and official website of Femina magazine owned by Worldwide Media Private limited, a Times Group Company. As a User, Customer or Registered Member of femina.in we understand that you would be concerned about your online privacy . We at femina.in are concerned and respect your privacy, and protect the privacy of all concerned by using the information you provide with utmost care and security. First and foremost you need to be 18 years or older to register at femina.in as a member or for commercial usage of this B2C website.
 
