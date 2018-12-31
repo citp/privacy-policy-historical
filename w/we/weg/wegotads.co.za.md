@@ -1,61 +1,80 @@
-> *The following text is extracted and transformed from the wegotads.co.za privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310191842id_/http%3A//wegotads.co.za/privacy.cmp%3F%26sfid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegotads.co.za privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231160648id_/https%3A//www.iol.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Independent Classifieds : Place a classified advertisement in any one our 18 newspaper titles, sold across South Africa?s metropolitan areas with sales in excess of 2,3 copies per week and have the same advertisement placed on online for FREE.
+# Privacy Policy | IOL
 
-We are committed to protecting your privacy. This policy explains how and for what purposes we use the information collected about you via Independent Classifieds (referred to below as "this Site"). Please read this privacy policy carefully. By using this Site and any services we offer via this Site, you are agreeing to be bound by this policy in respect of the information collected about you via this Site.
+For your added protection this web site subscribes to and complies with the voluntary privacy principles contained in the Electronic Communications and Transactions Act 25 of 2002. We will not disclose personal information in any manner not set out in this policy.
 
-If you have any queries or comments about the policy or our use of your personal information, please get in touch with us by emailing us at info@wegotads.co.za
+**Definitions**
 
-In general, we use the information we collect about you to:  
+"this web site" means [https://www.iol.co.za](https://www.iol.co.za/)  
+"the web site owner" and "we" means Independent Media (Pty) Ltd   
+"user" means any person accessing any part of the web site
+
+**Status and Amendments**
+
+1\. This Privacy Policy forms part of the Terms and conditions of use of this web site. If you do not agree with this Policy then you may not use this web site.
+
+2\. The web site owner reserves the right to amend the terms and conditions of this Privacy Policy at any time. While the web site owner will attempt to flag changes to this Policy as and when implemented, users remain at all times responsible for ensuring that they are aware of the current terms of this Policy whenever accessing this web site, and continued use of the site subsequent to any amendments having been affected constitutes users' acceptance of the Policy as amended.
+
+**Collection of personal data**
+
+3\. Where personal information (such as your name, address, telephone number, e-mail address and credit card information) is submitted to the site by the user, for example through sending an e-mail or filling in required fields, the following principles are observed in the handling of that information:
+
+  * This web site collects, processes and stores only such personal information regarding users as is necessary to provide the services offered. The specific purpose for which information is collected is apparent from the context in which it is requested.
+  * This web site will not use the personal information submitted for any other purpose other than the efficient provision of services, including this web site and services offered through it by third parties, without obtaining the prior written approval of the user or unless required to do so by law.
+  * This web site will keep records of all personal information collected and the specific purpose for which it was collected for a period of one year from the date on which it was last used.
+  * This web site will not disclose any personal information regarding a user to any third party unless the prior written agreement of the user is obtained or the web site is required or permitted to do so by law.
+  * If information is released with the user's consent this web site will retain a record of the information released, the third party to which it was released, the reason for the release and the date of release, for a period of one year.
+  * This web site will destroy or delete any personal information under its control which has become obsolete.
 
 
-  * help our members provide more personalised services to you 
-  * provide information services to relevant third parties 
-  * improve the features and services we offer 
-  * support our own marketing and promotion efforts. 
+
+4\. Information collected about users through their use of this web site is the property of the web site owner.
+
+5\. The web site owner will retain all ownership of and copyright in any database of users' personal information.
+
+6\. No credit card information is retained or stored by the web site owner.
+
+7\. Note that, as permitted by the ECT Act, this web site may use personal information collected to compile profiles for statistical purposes and trade in these profiles. No information contained in the profiles or statistics will be able to be linked to any specific user.
+
+**Collection of anonymous data**
+
+8\. In order to provide the best possible and most relevant service, this web site may use standard technology to collect information about the use of this site. This technology is not able to identify individual users but simply allows this web site to collect statistics.
+
+9\. This web site utilises cookies. A cookie is a small file that is placed on the user's hard drive in order to keep a record of a user's interaction with this web site.
+
+  * Cookies from this web site allow the web site owner to tailor advertising and other services to your displayed preferences. The web site may use third party cookies from an adserver for this purpose.
+  * Cookies by themselves cannot be used to personally identify users but will be used to compile anonymised statistics relating to use of services offered or to provide us with feedback on the performance of this web site.
 
 
 
-**Personal information collected**
+10\. If a user does not wish cookies to be employed to customize his or her interaction with this web site it is possible to alter the manner in which their browser handles cookies. Please note that, if this is done, certain services on this web site may not be available.
 
-When you visit, register or use the services on this Site, you may be asked to provide certain information about yourself, including your name and your contact details. We may also collect information about your use of this Site as well as information about you from the emails or letters sent to you.
+**Access to personal data**
 
-**Information collection and use**
+11\. Where a user believes that personal data concerning them held by the web site owner is outdated or incorrect they may request that such personal data be corrected - please [contact us](https://web.archive.org/about-iol) .Any request for such a correction must specify both the incorrect data and the proposed correction and must give full reasons for the request.
 
-Your information will enable us to provide you with access to all parts of this Site and to supply the services and features that you have requested. We may aggregate the information to identify patterns which we can use in our marketing and to help us develop, administer, support and improve our services and features.
+12\. Users can request access to any relevant personal data held by the web site owner as laid out in the Promotion of Access to Information Act No 2 of 2000 (“PAIA”) and where such access is necessary for them to exercise and/or protect any of their rights. A copy of PAIA can be obtained [ here ](http://www.dfa.gov.za/department/accessinfo_act.pdf) .
 
-In particular, we may use your information to contact you for your views on our services and to notify you occasionally about important changes or developments to this Site or our services. Further, where you have consented, we might also use your information to email you with details about any other products or services which we offer which may be of interest to you. If you change your mind about being contacted in the future, please email us at info@wegotads.co.za and tell us.
+13\. Detailed information on PROATIA and the procedure to follow in making a request for access to personal data is available in the web site owner’s Promotion of Access to Information Manual and from the website of the Human Rights Commission – [ www.hrc.org.za ](http://www.hrc.org.za/) .
 
-**Registering with us**
+**Links to other web sites**
 
-When you register with us, we save the details you provide and use them to enable us to personalise the service we offer to you, including storing advertisements you have booked so that you can update them and renew them. You can update 'your details' at any time via the site.
+14\. We have no control over and accept no responsibility for the privacy practices of any third party sites to which hyperlinks may have been provided and we strongly recommend that you review the privacy policy of any site you visit before using it further.
 
-**Who has access to the information you provide or we collect**
+**Security**
 
-We retain access to all personal information that we have collected from you.
+15\. While reasonable measures are taken to ensure the security and integrity of information submitted to this site, this web site can not under any circumstances be held liable for any loss or other damage sustained by a user or users as a result of the intentional or accidental release of information by an employee of the web site owner or any third party.
 
-When our service is available via the websites of our partners, those partners may have access to your information. Their use of your personal information is governed by their privacy policies. We are not responsible for the privacy policies and practices of any other websites, even if you access them using links from this Site or if you can access this Site or use our services from them. We therefore recommend that you check the policy of each site that you visit and make sure that you are comfortable with the terms of such policies before providing any personal information.
+16\. Users and/or subscribers are prohibited from releasing their username and/or password to any other person.
 
-If you have consented on 'your details' page or the appropriate email form, we may provide any of the information we collect to carefully screened third parties to contact you regarding products or services that we think may be of interest to you. If you change your mind about being contacted by these third parties in the future, please email us at info@wegotads.co.za and tell us.
+**Children's privacy**
 
-If our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
+17\. We regard the safety and privacy of children using this web site extremely seriously but it remains the ultimate responsibility of the parents and other care-givers of children to ensure that they are not exposed to inappropriate content or behaviour.
 
-We will not otherwise disclose, sell or distribute your information to any third party without your permission unless we are required to do so by law.
+**Queries**
 
-**Access to, changing or removing the information we hold**
+18\. If you have any queries about this Privacy Policy please [ contact us ](https://web.archive.org/about-iol)
 
-Registered users of this Site can update their information, change settings or cancel their membership on their “My Account” page once signed in. Registered users of this Site can request we provide them with a copy of the personally identifiable information we hold via info@wegotads.co.za. You may ask us to make any necessary changes to ensure that such information is accurate and kept up-to-date. We may charge a small administration fee to cover the data search, preparation and delivery.
-
-**Cookies and tracking**
-
-Like many websites, we use "cookies" to enable us to personalise your visits to this website, simplify the signing-in procedure, keep track of your preferences and to track the usage of this website. Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. Your browser will have the option to prevent websites using cookies (your browser's help screen or manual will tell you how to do this), but please note that this may reduce the functionality of this Site and other websites. Like all websites, our servers automatically record 'log files' containing information about the volume and characteristics of our website traffic e.g. IP address, numbers of pages viewed, length of time spent on site. We use log files to build pictures of how our site is used that help us to monitor and improve the service. We cannot identify you from your log files.
-
-**Security, storage and transfer of information**
-
-We follow strict security procedures to ensure that your personal information is not damaged, destroyed, or disclosed to a third party without your permission and to prevent unauthorised access to it. The computers that store the information are kept in a secure facility with restricted physical access and we use secure firewalls and other measures to restrict electronic access.
-
-All of the information we collect or record is restricted to our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. We will explicitly ask you when we need information to identify you. We may require you to co-operate with our security checks before we disclose information to you. You can update the personal information that you give us at any time by viewing 'your details' page. Your information will not be transferred outside of the European Economic Area. We will retain your information for a reasonable period or for as long as is required by law.
-
-**Changes to the policy**
-
-We may change this policy from time to time as we add new services or features or in response to changes in the law or our commercial arrangements. Any changes to this policy will be posted on this Site.
+**Date of Last Review 15 January 2009**  
+prepared by the [ electronic law consultancy ](http://www.elc.co.za/) .
