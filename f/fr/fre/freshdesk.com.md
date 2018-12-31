@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshdesk.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625031044id_/https%3A//www.freshworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshdesk.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231085452id_/https%3A//freshdesk.com/privacy) for the most accurate reproduction.*
 
 # Refreshing Cloud Business Suite | Privacy Notice Freshworks Inc
 
@@ -15,11 +15,11 @@ We recommend that you read this Notice in full to ensure you are fully informed.
 Definitions  Whom does this Notice Apply to?  Any Questions?  What Personal Data does Freshworks collect and why? 
 
   * Personal Data we collect and process for our own purposes: Collected Data
-  * What is our legal basis for processing Personal Data (EEA visitors only)?
+  * What is our legal basis for processing Personal Data (EEA and Swiss visitors only)?
 
 
 
-Data we process on your behalf: Service Data  Single Sign-On  Social Media Features  Sharing of Personal Data  Privacy Shield Compliance  How does Freshworks keep Personal Data secure?  EEA Specific Rights  Other Communications  Retention of Personal Data  Link to Third Party Sites  Children’s Personal Data  Amendments  Legal Disclosure  Contacting Freshworks 
+Data we process on your behalf: Service Data  Single Sign-On  Social Media Features  Sharing of Personal Data  Privacy Shield Compliance  How does Freshworks keep Personal Data secure?  EEA and Swiss Specific Rights  Other Communications  Retention of Personal Data  Link to Third Party Sites  Children’s Personal Data  Amendments  Legal Disclosure  Contacting Freshworks 
 
 #### DEFINITIONS
 
@@ -99,11 +99,11 @@ You understand that we will not be liable to any person for unauthorized publish
 
 ###### 10) Marketing communications.
 
-We may use your e-mail address, collected as part of Collected Data, to send our newsletters and/or marketing communications about our products and services. Where you have so requested, we will also send you marketing communications about our third party partners. If you no longer wish to receive these communications, you can opt out by following the instructions contained in the e-mails you receive or by contacting us at [support@freshworks.com](https://web.archive.org/web/20180625031044id_/https://www.freshworks.com/privacy/support@freshworks.com).
+We may use your e-mail address, collected as part of Collected Data, to send our newsletters and/or marketing communications about our products and services. Where you have so requested, we will also send you marketing communications about our third party partners. If you no longer wish to receive these communications, you can opt out by following the instructions contained in the e-mails you receive or by contacting us at [support@freshworks.com](https://web.archive.org/web/20181231092354id_/https://www.freshworks.com/privacy/support@freshworks.com).
 
-###### What is our legal basis for processing Personal Data (EEA visitors only)?
+###### What is our legal basis for processing Personal Data (EEA and Swiss visitors only)?
 
-If you are a visitor from the European Economic Area, our legal basis for collecting and using the Personal Data described above will depend on the Personal Data concerned and the specific context in which we collect it. 
+If you are a visitor from the European Economic Area or Switzerland, our legal basis for collecting and using the Personal Data described above will depend on the Personal Data concerned and the specific context in which we collect it. 
 
 However, we will normally collect Personal Data from you only where we need the Personal Data to perform a contract with you, or where the processing is in our legitimate interests or rely upon your consent where we are legally required to do so and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect Personal Data from you or may otherwise need the Personal Data to protect your vital interests or those of another person.
 
@@ -145,7 +145,7 @@ Our Websites includes social media features, such as the Facebook “Like” but
 
 #### SHARING OF PERSONAL DATA 
 
-Except as outlined in this Notice and the Terms, Personal Data contained in Collected Data and Service Data will never be sold to or shared with other companies or organizations for commercial purposes. We process Personal Data in the United States and the European Economic Area (“EEA”) and in other countries through third parties that we may use. You may refer to the page [here](https://www.freshworks.com/privacy/data-hosting/) for more information on hosting options. Third parties with whom Collected Data is shared may include third-party payment processors who process your credit card and other payment information for Freshworks but are otherwise not permitted to store, retain or use such information. Third parties that we utilize to assist in providing the Service(s) with whom Service Data may be shared are listed [here](https://web.archive.org/web/20180625031044id_/https://www.freshworks.com/privacy/sub-processor) (“Sub-Processors”). Further, we may transfer Personal Data to our Group Companies for the purposes identified in the Terms and this Notice. All such transfers are covered by the service agreements with the relevant recipients and we have taken appropriate safeguards to ensure that your Personal Data will remain protected in accordance with this Privacy Notice. Further details can be provided upon request. 
+Except as outlined in this Notice and the Terms, Personal Data contained in Collected Data and Service Data will never be sold to or shared with other companies or organizations for commercial purposes. We process Personal Data in the United States and the European Economic Area (“EEA”) and in other countries through third parties that we may use. You may refer to the page [here](https://www.freshworks.com/privacy/data-hosting/) for more information on hosting options. Third parties with whom Collected Data is shared may include third-party payment processors who process your credit card and other payment information for Freshworks but are otherwise not permitted to store, retain or use such information. Third parties that we utilize to assist in providing the Service(s) with whom Service Data may be shared are listed [here](https://web.archive.org/privacy/sub-processor) (“Sub-Processors”). Further, we may transfer Personal Data to our Group Companies for the purposes identified in the Terms and this Notice. All such transfers are covered by the service agreements with the relevant recipients and we have taken appropriate safeguards to ensure that your Personal Data will remain protected in accordance with this Privacy Notice. Further details can be provided upon request. 
 
 Subject to the Terms and this Notice, we and our Group Companies shall have the right to access Customer’s Account and to process Service Data solely to the extent necessary to provide, enhance and improve the Service(s), including, without limitation, in response to Customer’s support requests. Our Sub-Processors will only be given access to Customer’s Account and Service Data as is reasonably necessary to provide the Service(s) and will be subject to confidentiality obligations in their service agreements. 
 
@@ -167,11 +167,11 @@ Under certain conditions, more fully described on the Privacy Shield website [<h
 
 We use appropriate technical and organizational measures to protect the Personal Data that we collect and process. The measures we use are designed to provide a level of security appropriate to the risk of processing your Personal Data.
 
-#### EEA SPECIFIC RIGHTS
+#### EEA AND SWISS SPECIFIC RIGHTS
 
 ###### A) Collected Data
 
-If you are an individual resident in EEA, you have the following data protection rights regarding Collected Data:
+If you are an individual resident in EEA or Switzerland, you have the following data protection rights regarding Collected Data:
 
   * If you wish to access, correct, update or request deletion of your Personal Data, you can do so at any time by contacting us.
   * You can object to processing of your Personal Data, ask us to restrict processing of your Personal Data or request portability of your Personal Data. Again, you can exercise these rights by contacting us.
@@ -227,4 +227,4 @@ In the event Freshworks goes through a business transition, such as a merger or 
 
 #### CONTACTING FRESHWORKS 
 
-If you have any questions about this privacy notice or your dealings with the Freshworks, you can contact us at [support@freshworks.com](mailto:support@freshworks.com) or via postal mail at Freshworks, Inc. 1250 Bayhill Drive, Suite 315, San Bruno, CA 94066 with a CC to [legal@freshworks.com](mailto:legal@freshworks.com).
+If you have any questions about this privacy notice or your dealings with the Freshworks, you can contact us at [dpo@freshworks.com](mailto:dpo@freshworks.com) or [support@freshworks.com](mailto:support@freshworks.com) or via postal mail at Freshworks, Inc. 1250 Bayhill Drive, Suite 315, San Bruno, CA 94066 for the attention of the Data Protection Officer with a CC to [legal@freshworks.com](mailto:legal@freshworks.com).
