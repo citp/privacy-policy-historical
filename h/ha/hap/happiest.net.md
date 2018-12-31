@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happiest.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625055317id_/https%3A//www.happiest.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happiest.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231051543id_/https%3A//www.happiest.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Happiest
 
@@ -18,9 +18,9 @@ More formally, we are Happiest Limited. We are a company registered in England a
 
 For the purposes of the Data Protection Act 1998 (the ‘ **DPA** ’) and in-line with the forthcoming European Union General Data Protection Regulations (the ‘ **GDPR** ’) Happiest Limited is the Data Controller. 
 
-Our Data Protection Officer (‘ **DPO** ’) is Adam Green and you can contact them via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection).
+Our Data Protection Officer (‘ **DPO** ’) is Adam Green and you can contact them via email at adam@happiest.net.
 
-If you have any concerns about the way we use your information or any questions about this Privacy Policy, please let us know.  We can be contacted via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6f1b0e03042f070e1f1f060a1c1b41010a1b), or you can write to us at the address above. 
+If you have any concerns about the way we use your information or any questions about this Privacy Policy, please let us know.  We can be contacted via email at [talk@happiest.net](mailto:talk@happiest.net), or you can write to us at the address above. 
 
 **What we do with your information**
 
@@ -72,9 +72,9 @@ Our Website may, from time to time, contain links to and from the websites of ou
 
 **Access to Information**
 
-You have the right to find out about what information we hold about you. Your can exercise that right by contacting us and we will send you any request for information in a suitable electronic form within 20 working days.  Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#84f0e5e8efc4ece5f4f4ede1f7f0aaeae1f0).
+You have the right to find out about what information we hold about you. Your can exercise that right by contacting us and we will send you any request for information in a suitable electronic form within 20 working days.  Please contact us at [talk@happiest.net](mailto:talk@happiest.net).
 
-You also have the right ‘to be forgotten’ and to have your information permanently deleted from our systems.  Again, if you would like to exercise this right then please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f185909d9ab19990818198948285df9f9485).
+You also have the right ‘to be forgotten’ and to have your information permanently deleted from our systems.  Again, if you would like to exercise this right then please contact us at [talk@happiest.net](mailto:talk@happiest.net).
 
 There will be no charge made for electronic access to your information or for your right to be forgotten from our systems.
 
