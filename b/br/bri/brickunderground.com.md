@@ -1,104 +1,159 @@
-> *The following text is extracted and transformed from the brickunderground.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625051002id_/https%3A//www.brickunderground.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickunderground.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231125901id_/https%3A//www.brickunderground.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your privacy is very important to us. This privacy policy of BrickUnderground LLC ("BrickUnderground") describes the information we gather, how we share that information and what we do to protect your information on our website, [www.BrickUnderground.com](http://www.brickunderground.com/).
+**Brick Underground Privacy Policy**
 
-Use of the site indicates agreement with this privacy policy. This privacy policy was last updated **May 22, 2014**.
+Last modified: October 23, 2018
 
- **What Information Do We Gather?**
+This Brick Underground Privacy Policy (the “ **Policy** ”) outlines the information that Brick Underground LLC (the **“Company”** , “ **we** ”, “ **us** ”, or “ **our** ”) gathers when you visit the website [https://www.brickunderground.com](https://www.brickunderground.com/) (our “ **Website** ”) and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-Information we automatically collect via industry standard web log files includes the URL from which you visited, the page you are visiting, your computer browser information and your IP address. We may also use automatic data collection devices such as "cookies" "clear GIFs" (also known as "pixel tags" or "beacons") and local storage objects.
+_**Information We Collect About You**_
 
-Cookies contain specific pieces of information on your computer hard drive, and can be set to store information during a visit or for a longer period of time. Cookies are also used to help streamline your experience on the site, automatically logging you in during future visits, for example. You are free to disable cookies at any time if your browser permits. However, by doing so, you may not be able to use certain features of our site. If you enable your browser "do not track" feature, BrickUnderground will not track your activities on our site.
+We collect information about you when you provided it to us directly or through automatic information technologies.
 
-The use of cookies by our partners, affiliates, tracking utility company, and service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, and service providers use session ID cookies to make it easier for you to navigate our site.
+_Information You Provide to Us Directly_ **.**
 
-A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect personally identifiable information in this way, but if you provide us with personally identifiable information, we may associate that information with the information that is collected automatically.
+We collect several types of information directly from you, including:
 
-We use local storage objects (LSOs) to store content information, to embed videos on our website and to track usage of our videos. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of posting comments, or subscribing to marketing materials as well as records and copies of your correspondence (including email addresses), if you contact us.
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Your search queries on the Website.
 
-As a prospective buyer, seller or renter using offerings on our site, such as our broker referral service to receive information from real estate agents, you are required to provide additional information so BrickUnderground and our service partners can deliver these services to you. This includes contact information, basic demographic information, and your purchasing, selling or renting requirements. The information collected varies according to the different reasons for collecting it and can be viewed by visiting the different forms located throughout our site. We may also ask you for feedback about our service, which is collected and stored to allow us to continually improve our offerings.
 
-As an advertiser signing up for our directory you must provide information that allows us to deliver our service to you. This includes your contact information, information about your desired target markets, and billing information. We also require you to provide certain information when you request our newsletters, or submit information for posting on public areas of this site (e.g., blogs, moderated discussions or comments to posts).
 
-Some of the materials included on this site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this site and how you respond to email communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/>.
+_Automatic Information Collection Technologies_ **.**
 
- **How Do We Use Your Information?**
+We use automatic data collection technologies to collect and store information about your equipment, browsing actions, details of your visits to our Website and information about your computer and internet connection such as your IP address, operating system, and browser type. Collection of this type of information helps us to improve this Website and to deliver a better and more personalized service by enabling us to, among other things:
 
-BrickUnderground uses the information we gather to introduce buyers, sellers and renters to agents. We also use it to provide other features and functionality of this site, to improve your experience on our site through analysis and communication, for other purposes described in this policy, and for purposes disclosed to you when you provide information.
+  * estimate our audience size and usage patterns;
+  * store information about your preferences, allowing us to customize this Website according to your individual interests;
+  * speed up your searches; and
+  * recognize you when you return to the Website.
 
- _To Facilitate Transactions._ Buyers, renters, sellers or service providers will receive emails and other communications from us or third parties fulfill or facilitate the purpose for which the information was provided or a request to use a service on this site. You cannot opt out of communications that are necessary to provide requested services. By using BrickUnderground's services offered on this site, you agree that we may use your personal information to contact you and deliver information to you related to those services.
 
- _Analysis._ In our ongoing effort to improve the content and services we offer, we continually analyze the information we receive to identify trends and patterns in user behavior. Your personal information, when used in such a manner, is aggregated with others to amass enough data for such analysis and is not personally identifiable.
 
- _Testimonials and Feedback._ We sincerely appreciate the feedback we receive from our users. Your feedback, both positive and negative, is forwarded to the appropriate departments at BrickUnderground as necessary so we can continue to monitor and improve the service we provide. We may also share testimonials in our marketing literature.
+The technologies we and our service providers use for automatic data collection may include:
 
- _Newsletters._ BrickUnderground offers valuable content through email newsletters for buyers, sellers, renters and service providers. If you no longer wish to receive any newsletter, we encourage you to opt out of these communications by changing your notification preferences as described below.
+  * **Browser Cookies.** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+  * **Flash Cookies.** Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.
+  * **Web Beacons.** Pages of our Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
- _Other Communications._ BrickUnderground may send you email and other communications related to this site, your use of our services and the status of your account, which may include site updates and responses to your inquiries. In addition, BrickUnderground sends periodic surveys and other communications, all of which you can opt out of receiving by changing your notification preferences as described below.
 
- _Affiliates._ We may share your information with our affiliated companies for any uses consistent with those disclosed in this privacy policy. We may use the information you provide us to send you email and other communications on behalf of other affiliated companies. These communications may include email newsletters, as well as offers for other BrickUnderground and affiliates' services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
 
- _Third Party Offers._ We also may use your information to send you email and other communications on behalf of third parties.
+_**Information Collected by Third Parties.**_
 
- **How Do We Share Your Information With Others?**
+We use a number of service providers to help us operate the Website and our newsletter. For instance our Website contains affiliate marketing links which means that we get paid commission on sales of those products or services (although these marketing partners do not control what we write in our own editorial content), we rely on a third party to manage the comments section of our Website, and we allow third party ad networks to use automatic data collection technologies to collect information about you for purposes of providing interest-based ads. Some of these providers may access information about you via automatic data collection technologies and may use cookies, web beacons, and other storage technologies to collect or receive information from our Website, our e-mails, and elsewhere on the internet.
 
-Our customer information is an important part of our business. As a result, we only disclose this information as described in this section. Our sharing of information to outside parties is described below. As part of our service to customers, we provide information to service providers so that they can respond directly to you when you inquire about services.
+Some (but not all) of our third-party partners are identified below:
 
- _Service providers._ We may provide a prospective buyer, seller or renter's information to: people whose products or services are potentially relevant to that prospective buyer's, seller’s or renter’s request, and to marketers, resellers and other service providers performing services on behalf of those people.
+  * **Google.** We use Google’s products for the purpose of collecting information about traffic to our Website and how users use our Website. To learn more about how these products collect and process data and the choices Google may offer to control these activities, visit [www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners).
+  * **Quantcast.** **** We use Quantcast products for the purpose of purpose of collecting information about traffic to our Website and how users use our Website. To learn more about how Quantcast products collect and process data and choice Quantcast may offer to control these activities, visit <https://www.quantcast.com/privacy>.
+  * **SkimLinks.** We work with SkimLinks as an affiliate marketing partner. To learn more about the information Skimlinks collects and how it uses this information please review their privacy policy at <http://skimlinks.com/privacy-policy>. To opt out of Skimlinks, visit [https://optout.skimlinks.com](https://optout.skimlinks.com/).
+  * **Clicky.** We use Clicky to log and analyze the traffic to our web site. You may review Clicky's privacy policy at <http://clicky.com/terms/privacy>.
+  * **Disqus.** The comments section of our website is controlled and powered by Disqus, Inc. If you would like more information about how they use and collect your information and how to access and correct your information please review their privacy policy at <https://help.disqus.com/terms-and-policies/disqus-privacy-policy>.
 
- _Agents._ From time to time, we may use the services of third-party companies to help facilitate our business activities. These include bill collection services, affiliate or incentive program providers, customer service organizations, email and postal mail brokers, and marketing service providers. These companies are subject to confidentiality agreements with us and are prohibited from using the information we provide for any reason except to perform the functions that BrickUnderground has outlined for them.
 
- _Advertisers._ We may provide your information to third party advertisers (and/or to their service providers on their behalf) to market or provide products or services you may be interested in.
 
- _Business Transfers_. It is possible that our business may be merged with or sold to another business entity. During such a transaction, business information is typically one of the assets shared in the combined entity. In the event that this occurs, your personal information will be protected by the BrickUnderground privacy policy in effect at the time. If your personal information will be used contrary to this policy, you will receive notice as described in the "Notification of Changes" section below.
+_Please Note_ : We do not control third party tracking technologies or how they may be used. If you have any questions about any of our third-party partners, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see Choices About How We Use and Disclose Your Information.
 
- _Legal Requests._ BrickUnderground is interested in protecting its members and the community at large. We will release account and other personal information to legal authorities when we believe it is appropriate to comply with the law, rules or regulations or to protect persons or property. In addition, BrickUnderground may choose to release information about you to relevant parties in relation to investigations of fraud, piracy or other unlawful activity.
+_**Links to Third Party Websites and Social Media Widgets**_
 
- **Account Information and Preferences**
+This Website and some of our electronic communications to you may contain links to other websites that are owned and operated by third parties. Links to third parties from this Website are not an endorsement by us. We do not control, and are not responsible for, the privacy and security practices of these third parties. We recommend that you review the privacy and security policies of these third parties to determine how they handle information they may collect from or about you.
 
-BrickUnderground provides a number of ways for you to manage your personal information.
+This Website may also include social media features, such as the Facebook Like button, and Twitter widgets. These features may collect information about your IP address and the page you are visiting on this Website, and they may set a cookie to make sure the feature functions properly. Your interactions with these features and the information from or about you collected by them are governed by the privacy policies of the companies that provide them.
 
- _Account Information._ If you need to update or delete your account information, such as your contact email address, you may do so by contacting our Customer Care department at [thebrickteam@BrickUnderground.com](mailto:thebrickteam@BrickUnderground.com).
+_**How We Use Your Information**_
 
- _Password._ BrickUnderground directory particpants may be issued a User ID and password to access their account. As a directory participant, you are responsible for all actions taken with your user ID and password, including fees charged to your account. Do not share your password with any third parties, as you will be legally liable for any fees that are incurred. If you believe that your password has been compromised, you should immediately change your password or contact Customer Care at [thebrickteam@BrickUnderground.com](mailto:thebrickteam@BrickUnderground.com).
+We use information that we collect about you or that you provide to us, including any personal information:
 
- _Data Retention._ We will retain your information to continue to offer you products and services. Please contact us if you wish to cancel or request that we no longer use your information this way. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+  * To present our Website and its contents to you.
+  * To provide you with information you request from us, such as our newsletter.
+  * To fulfill any other purpose for which you provide it.
+  * To communicate with you about our own and third parties’ products and services that may be of interest to you.
+  * To display advertisements to our advertisers’ target audiences.
+  * To understand the overall effectiveness of our online advertising, content, programming and other activities;
+  * To notify you about changes to our Website or any products or services we offer or provide though it.
+  * To allow you to participate in interactive features on our Website.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
 
- **Children**
 
-We do not knowingly collect personal identifiable information from anyone under the age of 18. If it is discovered that we have collected personally identifiable information from someone under 18 we will delete that information immediately. Persons under the age of 18 are not eligible to use BrickUnderground's services.
 
- **Widgets**
+_**Disclosure of Your Information**_
 
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company ( _e.g_. displaying the news, opinions, music, etc.). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
- **Public Forums**
+We may disclose personal information that we collect or you provide as described in this privacy policy:
 
-Our Web site offers publicly accessible blogs, directories, or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information please contact us. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+  * To contractors, service providers, and other third parties we use to support our business.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by us about our Website users is among the assets transferred.
+  * To third parties to market their products or services to you if you have not opted out of these disclosures.
+  * To third-party advertising companies, which may collect information about you and your online activities on our Website over time and across third-party websites and applications. These companies use the information they collect to help advertisers identify and serve ads to you that are more relevant to you.
+  * To fulfill the purpose for which you provide it.
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
 
- **Legal Disclaimer**
 
-Although we have attempted to address the various privacy-related issues you are likely to encounter, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this privacy policy. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private from unauthorized access.
 
-Also, BrickUnderground contains links to other sites. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage you to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy policy applies to information collected by BrickUnderground alone.
+We may also disclose your personal information:
 
- **Notification of Change**
+  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply our [Terms of Use](https://www.brickunderground.com/terms-of-use).
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, those who visit our Website, or others.
 
-We may amend this privacy policy for minor changes at any time by posting the amended terms on the Site. All minor amended terms shall be effective upon posting. If we make material changes to this policy, we will notify you by email or by posting a prominent notice for 30 days prior to the change taking effect.
 
- **Your California Privacy Rights**
 
-We will provide individuals who are California residents a description of the categories of personal customer information BrickUnderground shares with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. We will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like this information, please submit a written request to [thebrickteam@BrickUnderground.com](mailto:thebrickteam@BrickUnderground.com) or to BrickUnderground at the mailing address below. In your request, please specify that you want a "California Privacy Rights Notice." Please allow 30 days for a response.
+_**Individuals Under the Age of 18**_
 
- **Contacting Us**
+We do not knowingly collect data from children under 18 nor do we permit under our [Terms of Use](https://web.archive.org/terms-of-use) any person to use our Website who is not at least 18 years old. If we learn that we have received identifying information from a user under the age of eighteen, we will delete this information.
 
-If you have any additional questions or comments about BrickUnderground's privacy statement, please contact us:
+_**Choices About How We Use and Disclose Your Information**_
 
-BrickUnderground LLC  
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s [website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+
+  * Opt Out of Online Behavioral Advertising. We do not control third parties’ collection or use of your information to serve interest-based advertising. For information about opt out programs that third-party advertising companies participate in, and to opt out of the use of website browsing data for interest-based advertising by companies that participate in these programs, you can visit [ www.youradchoices.com](http://www.youradchoices.com/) to learn more.  You can also visit the DAA Consumer Choice Page at [http://youradchoices.com](http://youradchoices.com/) and download AppChoices free of charge to enable desktop data collection control. Please note that when using the ad industry opt-out tools described above, we may still collect some data about your online activity for operational purposes and you may continue to receive ads but those ads will be less relevant because they won’t be tailored to your interests.  In addition, if you use multiple browsers or devices you may need to execute this opt out on each browser or device.
+
+  * **Promotional Offers from the Company and Third Parties.** If you do not wish to have your email address used by the Company to promote our own or third parties’ products or services, you can opt-out by sending us an email stating your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#80f4e8e5e2f2e9e3ebf4e5e1edc0e2f2e9e3ebf5eee4e5f2e7f2eff5eee4aee3efed). If we have sent you a promotional email, you may also send us a return email asking to be omitted from future email distributions.
+
+  * **Accessing and Correcting Your Information.** If there are any changes or updates to your account information, or if you would like to delete your personal information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec9884898e9e858f8798898d81ac8e9e858f87998288899e8b9e83998288c28f8381). _Please note_ : certain federal and state regulations require that we maintain a record of your information for certain periods of time. Due to these regulations, we may be unable to completely delete your information from our database until the time requirements of these regulations have expired.
+
+
+
+
+_**Visiting this Website from Outside the United States**_
+
+This Website is designed for individuals in the United States. If you are visiting this Website from outside the United States or are not a US resident, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The information protection laws of the United States might not be as comprehensive or protective as those in your country. By using this Website and our services, you understand that your information may be transferred to our facilities and to third parties as described in this Privacy Policy.
+
+_**Your California Privacy Rights**_
+
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for direct marketing purposes. To make such a request, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#592d313c3b2b303a322d3c3834193b2b303a322c373d3c2b3e2b362c373d773a3634) or write us at: Brick Underground, LLC; 349 Fifth Avenue, New York, NY 10016.
+
+_**How We Respond to Do Not Track Signals**_
+
+Your browser settings may allow you to automatically transmit a “Do Not Track” signal to websites and online services you visit. We currently do not recognize browser Do Not Track Signals. Please use the following link to learn more about DNT: [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
+
+_**Data Security**_
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+
+_**Changes to Our Privacy Policy**_ ****
+
+If we make material changes to how we treat our users’ personal information, we will notify you through our Website. We encourage you to periodically visit our Website and this privacy policy to check for any changes. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+
+_**Contact Information**_ ****
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at:
+
+Brick Underground, LLC  
 349 Fifth Avenue  
 New York NY 10016  
 646-701-7038
 
-[thebrickteam@BrickUnderground.com](mailto:thebrickteam@BrickUnderground.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fd8995989f8f949e9689989c90bd9f8f949e96889399988f9a8f92889399d39e9290)
