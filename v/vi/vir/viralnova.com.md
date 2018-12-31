@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralnova.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612003600id_/http%3A//www.viralnova.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralnova.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231011444id_/http%3A//viralnova.com/privacy-policy) for the most accurate reproduction.*
 
 # ViralNova - Your Stories On The Web
 
