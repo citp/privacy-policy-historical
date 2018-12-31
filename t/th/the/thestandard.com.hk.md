@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestandard.com.hk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625084422id_/http%3A//www.thestandard.com.hk/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestandard.com.hk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231080933id_/http%3A//www.thestandard.com.hk/Privacy.php) for the most accurate reproduction.*
 
 # The Standard
 
@@ -76,7 +76,7 @@ a. |  following the "opt-out" instructions contained in the relevant communicati
 b. |  contacting us in accordance with the section "Access to and Correction of Personal Data" below; or   
 c. |  if you hold a member account of the Company, [Manuel, pl. confirm] logging in your member account, then changing your setting on receipt of marketing materials.   
 **Access to and Correction of Personal Data**  
-Under the Ordinance, you are entitled to request access to your personal data collected by us (if any) and request the correction or deletion of your personal data from our database by completing and sending a completed Data Access Request Form (Form OPS003) ( www.pcpd.org.hk/english/publications/files/Dforme.pdf) to The Standard, Marketing Manager of Sing Tao Limited at 10/F., Sing Tao News Corporation Building, 3 Tung Wong Road, Shau Kei Wan, Hong Kong. Please mark "Data Access or Correction Request" and, if possible, the name of event, activity or membership for which you provided personal data to us. If you hold a member account of the Company, you may do so by logging in your member account, update, edit or amend your personal data thereon at any time.   
+Under the Ordinance, you are entitled to request access to your personal data collected by us (if any) and request the correction or deletion of your personal data from our database by completing and sending a completed Data Access Request Form (Form OPS003) ( www.pcpd.org.hk/english/publications/files/Dforme.pdf) to The Standard, Marketing Manager, Sing Tao News Corporation Building, 7 Chun Cheong Street, Tseung Kwan O Industrial Estate, Tseung Kwan O, New Territories, Hong Kong. Please mark "Data Access or Correction Request" and, if possible, the name of event, activity or membership for which you provided personal data to us. If you hold a member account of the Company, you may do so by logging in your member account, update, edit or amend your personal data thereon at any time.   
 **Security**  
 We take reasonable steps to protect your personal data submitted by you and to protect such data from loss, misuse, unauthorized or accidental access, disclosure, processing, erasure, alteration, or destruction. We are however not responsible for any loss, misuse, unauthorized or accidental access, disclosure, processing, erasure, alteration, or destruction of your personal data that have occurred in circumstances beyond our control. You are also reminded to take all steps to safeguard your own username and passwords from being made available to unauthorized parties.  
 **Data Retention**  
@@ -86,7 +86,7 @@ When providing our Services, we may provide you with the hyperlinks (including a
 **Other Terms**  
 Your use of our Services is subject to the Terms and Conditions of each individual Service posted on the relevant communication materials which may be amended from time to time.  
 **How to Contact Us**  
-If you have any questions, comments or concerns about this PPS or our practices in relating to the personal data, you may contact us by email to enquiry@thestandard.com.hk or by post to The Standard Marketing at 10/F., Sing Tao News Corporation Building, 3 Tung Wong Road, Shau Kei Wan, Hong Kong.  
+If you have any questions, comments or concerns about this PPS or our practices in relating to the personal data, you may contact us by email to enquiry@thestandard.com.hk or by post to The Standard Marketing, Sing Tao News Corporation Building, 7 Chun Cheong Street, Tseung Kwan O Industrial Estate, Tseung Kwan O, New Territories, Hong Kong.  
 **Changes to this PPS**  
 This PPS is subject to changes and revisions from time to time. Please check periodically for updated version before you provide any personal data to us.
 
