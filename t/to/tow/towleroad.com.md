@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the towleroad.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625174740id_/http%3A//www.towleroad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towleroad.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231165810id_/http%3A//www.towleroad.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Towleroad
+# Privacy Policy - Towleroad Gay News
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at people@INSERTDOMAIN.com.
 
