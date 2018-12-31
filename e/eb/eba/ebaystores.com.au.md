@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebaystores.com.au privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628032334id_/https%3A//www.ebay.com.au/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy%3Fid%3D4260) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaystores.com.au privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231083930id_/https%3A//www.ebay.com.au/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy%3Fid%3D4260) for the most accurate reproduction.*
 
 # User Privacy Notice | eBay
 
@@ -98,11 +98,12 @@ If you reside in the United States, you are contracting with eBay Inc., 2025 Ham
 
 If you reside outside of the United States, you are contracting with one of our international eBay companies, as follows:
 
-  * If you reside in Canada you are contracting with eBay Canada Limited, 500 King Street West, Suite 200, Toronto, ON M5V 1L9, Canada;
-  * If you reside in a country within the European Union (except the United Kingdom) you are contracting with eBay GmbH, Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Germany;
-  * If you reside in the United Kingdom you are contracting with eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, United Kingdom;
-  * If you reside in any other country, you are contracting with eBay Marketplaces GmbH, Helvetiastrasse 15/17, 3005 Bern, Switzerland
-  * If you use our eBay Customer Guarantee services and reside in France, Italy or Spain, you are also contracting with eBay Services S.à r.l, 22-24 Boulevard Royal, 2449 Luxembourg for such specific services
+  * If you reside in Canada, you are contracting with eBay Canada Limited, 500 King Street West, Suite 200, Toronto, ON M5V 1L9, Canada;
+  * If you reside in a country within the European Union (except the United Kingdom), you are contracting with eBay GmbH, Albert-Einstein-Ring 2-6, 14532 Kleinmachnow, Germany;
+  * If you reside in the United Kingdom, you are contracting with eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, United Kingdom;
+  * If you reside in India, you are contracting with eBay Singapore Services Pte Ltd, 10 Collyer Quay, #10-01 Ocean Financial Centre, Singapore 049315;
+  * If you reside in any other country, you are contracting with eBay Marketplaces GmbH, Helvetiastrasse 15/17, 3005 Bern, Switzerland;
+  * If you use our eBay Customer Guarantee services and reside in France, Italy or Spain, you are also contracting with eBay Services S.à r.l, 22-24 Boulevard Royal, 2449 Luxembourg for such specific services.
 
 
 
