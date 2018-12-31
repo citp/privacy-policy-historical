@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwoodcareers.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626205428id_/http%3A//www.marriott.com/about/privacy.mi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwoodcareers.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231105050id_/http%3A//www.marriott.com/about/privacy.mi) for the most accurate reproduction.*
 
 # Marriott Online Privacy Policy | Hotel Privacy Policy Information
 
@@ -6,7 +6,7 @@ Last Updated:  **May 18, 2018**
 
 ## MARRIOTT GROUP GLOBAL PRIVACY STATEMENT
 
-The [Marriott Group](http://www.marriott.com/Media/PDF/Foreign%20Subsidiaries%20-%20Country%20of%20Incorporation/2015%2010K_Entity%20Only.pdf) , which includes Marriott International, Inc., Starwood Hotels & Resorts Worldwide, LLC (formerly known as Starwood Hotels & Resorts Worldwide, Inc.) and their affiliates, values you as our guest and recognizes that privacy is important to you. We want you to be familiar with how we collect, use and disclose data. 
+The [Marriott Group (PDF)](http://www.marriott.com/Media/PDF/Foreign%20Subsidiaries%20-%20Country%20of%20Incorporation/2018%2010K%20Exhibit%2021.pdf) , which includes Marriott International, Inc., Starwood Hotels & Resorts Worldwide, LLC (formerly known as Starwood Hotels & Resorts Worldwide, Inc.) and their affiliates, values you as our guest and recognizes that privacy is important to you. We want you to be familiar with how we collect, use and disclose data. 
 
 This Privacy Statement describes the privacy practices of the Marriott Group for data that we collect:
 
@@ -281,10 +281,10 @@ Bethesda, MD 20817
 
 We will provide a list of the categories of Personal Data disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. We reserve our right not to respond to requests submitted to addresses other than the addresses specified in this paragraph. 
 
-How You Can Access, Change or Suppress Your Personal Data
+How You Can Request to Access, Change, Delete, or Restrict the Use of Your Personal Data
     
 
-If you would like to review, correct, update, suppress, restrict or delete Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by law), you can contact us at [privacy@marriott.com](mailto:privacy@marriott.com), or by mail:
+If you would like to request to access, change, delete, or restrict the use of your Personal Data that you have previously provided to us, or if you would like to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent these rights are provided to you by law), please complete [this form](https://app.onetrust.com/app/#/webform/e4eef8ab-3071-4679-a374-5847fbe290de) . If you have any questions about the form or our process, feel free to contact us at [privacy@marriott.com](mailto:privacy@marriott.com), or by mail at:
 
 Marriott International, Inc.  
 Global Compliance, Privacy  
@@ -292,9 +292,8 @@ Global Compliance, Privacy
 Bethesda, MD 20817  
 United States of America
 
-In your request, please make clear what Personal Data you would like to have changed, whether you would like to have your Personal Data suppressed from our database, or other limitations you would like to put on our use of your Personal Data. For your protection, we only fulfill requests for the Personal Data associated with the particular email address that you use to send us your request, and we may need to verify your identity before fulfilling your request. We will try to comply with your request as soon as reasonably practicable. 
-
-Please note that we often need to retain certain data for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or reservation, or enter a promotion, you may not be able to change or delete the Personal Data provided until after the completion of such purchase, reservation, or promotion).  There may also be residual data that will remain within our databases and other records, which will not be removed.  In addition, there may be certain data that we may not allow you to review for legal, security or other reasons. 
+For your protection, we may need to verify your identity before fulfilling your request. We will try to comply with your request as soon as reasonably practicable and consistent with applicable law.  
+Please note that we often need to retain certain data for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or reservation, or enter a promotion, you may not be able to change or delete the Personal Data provided until after the completion of such purchase, reservation, or promotion). There may also be residual data that will remain within our databases and other records, which will not be removed. In addition, there may be certain data that we may not allow you to review for legal, security, or other reasons.
 
 Retention
     
