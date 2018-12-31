@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climate.gov privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624074509id_/http%3A//www.noaa.gov/protecting-your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climate.gov privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231230439id_/http%3A//www.noaa.gov/protecting-your-privacy) for the most accurate reproduction.*
 
 # Protecting your privacy | National Oceanic and Atmospheric Administration
 
