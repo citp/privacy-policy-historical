@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uschronicle.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625033032id_/http%3A//uschronicle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uschronicle.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231024627id_/http%3A//uschronicle.com/privacy) for the most accurate reproduction.*
 
 # Privacy - US Chronicle
 
@@ -80,8 +80,8 @@ Contacting us
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 US Chronicle  
 uschronicle.com  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+admin@uschronicle.com  
+admin@uschronicle.com
 
 This document was last updated on September 15, 2016
 
