@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marijuanamoment.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625023727id_/https%3A//www.marijuanamoment.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marijuanamoment.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231015219id_/https%3A//www.marijuanamoment.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marijuana Moment
 
 At Marijuana Moment, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by http://www.marijuanamoment.net and how we use it.
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at news@marijuanamoment.net.
 
 **Log Files**
 
