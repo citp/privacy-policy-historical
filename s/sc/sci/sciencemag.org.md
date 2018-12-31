@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the sciencemag.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626054642id_/http%3A//www.sciencemag.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencemag.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231071817id_/http%3A//www.sciencemag.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Science | AAAS
 
-**Posted: May 16, 2018**  
-**Effective: May 25, 2018**
+**Posted: October 11, 2018**  
+**Effective: October 11, 2018**
 
 The AAAS and _Science_ Websites are maintained by the American Association for the Advancement of Science (AAAS), 1200 New York Avenue, NW, Washington, DC 20005.
 
@@ -11,7 +11,7 @@ AAAS is committed to protecting the privacy of our users. We strive to provide a
 
 ## About Our Privacy Policy
 
-This Privacy Policy sets forth the online data collection and usage policies and practices that apply to the AAAS websites and the _Science_ family of websites (referred to collectively as “AAAS and _Science_ Websites”), currently including AAAS.org, _Science_ (online version), _Science Advances,_ _Science Signaling_ , _Science Translational Medicine_ , _Science Immunology_ , _Science Robotics_ , News from  _Science_ , _Science_ Careers, _Science_ Classic, and SAGE KE. It also includes the order forms and member services accessible from those websites. The AAAS and _Science_ Websites contain links to other websites over which we have no control. We are not responsible for the privacy policies or practices of other websites that you visit through a link on the AAAS and _Science_ Websites.
+This Privacy Policy sets forth the online data collection and usage policies and practices that apply to the AAAS websites and the  _Science_  family of websites (referred to collectively as “AAAS and  _Science_  Websites”), currently including AAAS.org,  _Science_  (online version),  _Science Advances,_   _Science Signaling_ ,  _Science Translational Medicine_ ,  _Science Immunology_ ,  _Science Robotics_ , News from  _Science_ ,  _Science_  Careers,  _Science_  Classic, and SAGE KE. It also includes the order forms and member services accessible from those websites. The AAAS and  _Science  _Websites contain links to other websites over which we have no control. We are not responsible for the privacy policies or practices of other websites that you visit through a link on the AAAS and _  Science _Websites.
 
 This Policy provides information required under the General Data Protection Regulation (GDPR), including:
 
@@ -28,17 +28,17 @@ This Policy provides information required under the General Data Protection Regu
 
 ## Policy Details
 
-### What is Personal Data? 
+### What is Personal Data?
 
 Personal Data (also referred to in this policy as Personal Information) means any information relating to a natural person who can be identified by reference to an identifier such as a name, an identification number, location data, an online identifier, or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural, or social identity of that person.
 
 ### Personal Information We Collect
 
-When you visit the AAAS and _Science_ Websites, there are four types of information you might provide to us: contact information you knowingly choose to disclose; billing information when you join, subscribe, or make a purchase; demographic or other information about you; and technical information collected by us as you interact with our websites.
+When you visit the AAAS and _  Science _Websites, there are four types of information you might provide to us: contact information you knowingly choose to disclose; billing information when you join, subscribe, or make a purchase; demographic or other information about you; and technical information collected by us as you interact with our websites.
 
 #### Contact Information
 
-In some areas of the AAAS and _Science_ Websites, we request or may request that you provide personal information, including your name, address, e-mail address, and telephone number.
+In some areas of the AAAS and _  Science _Websites, we request or may request that you provide personal information, including your name, address, e-mail address, and telephone number.
 
 #### Purchaser Information
 
@@ -46,7 +46,7 @@ In some areas of the AAAS and _Science_ Websites, we request or may request that
 
 #### Demographic Information
 
-In other areas, we collect or may collect demographic information such as your age, career focus and discipline, preferences, gender, educational degrees, ethnic background, interests, and household income range. Sometimes, we collect or may collect a combination of information types. Examples of areas on the AAAS and _Science_ Websites where we collect or may collect personal or combined personal and demographic data are pages where you can sign up to use a service, post a resume, enter a contest, or purchase a product.
+IIn other areas, we collect or may collect demographic information such as your age, career focus and discipline, preferences, gender, educational degrees, ethnic background, interests, and household income range. Sometimes, we collect or may collect a combination of information types. Examples of areas on the AAAS and _  Science _Websites where we collect or may collect personal or combined personal and demographic data are pages where you can sign up to use a service, post a resume, enter a contest, or purchase a product.
 
 #### Technical Information
 
@@ -54,11 +54,11 @@ We also gather or may gather certain information about your use of our site, suc
 
 ## Use of Personal Information
 
-The information collected may be used by AAAS for the purpose of providing you with the content you request, operating and improving the AAAS and _Science_ Websites, fostering a positive user experience, and delivering the products and services that we offer.
+The information collected may be used by AAAS for the purpose of providing you with the content you request, operating and improving the AAAS and _  Science _Websites, fostering a positive user experience, and delivering the products and services that we offer.
 
-We may also use the information we gather to inform you of other products or services available from the AAAS and _Science_ Websites or to contact you about your opinion of current products and services or potential new products and services that may be offered.
+We may also use the information we gather to inform you of other products or services available from the AAAS and _  Science _Websites or to contact you about your opinion of current products and services or potential new products and services that may be offered.
 
-We may use your contact information in order to send you e-mail, postal mail, or other communications regarding updates at the AAAS and _Science_ Websites, such as Job Alerts, newsletters, new opportunities, and additional listings which may be of interest to you. We may also use it to send you information about third-party products and services that match your interests and preferences, if you opt in for this communication. The nature and frequency of these messages will vary depending upon the information we have about you. In addition, at the time of registration for certain services, such as _Science_ Careers Job Alerts, or free partial access to any of the AAAS and _Science_ Websites, you have the option to elect to receive additional communications, information, newsletters, and promotions relating to topics that may be of special interest to you.
+We may use your contact information in order to send you e-mail, postal mail, or other communications regarding updates at the AAAS and _  Science _Websites, such as Job Alerts, newsletters, new opportunities, and additional listings which may be of interest to you. We may also use it to send you information about third-party products and services that match your interests and preferences, if you opt in for this communication. The nature and frequency of these messages will vary depending upon the information we have about you. In addition, at the time of registration for certain services, such as  _Science_  Careers Job Alerts, or free partial access to any of the AAAS and _  Science _Websites, you have the option to elect to receive additional communications, information, newsletters, and promotions relating to topics that may be of special interest to you.
 
 If in the future we intend to process your Personal Data for a purpose other than that for which it was collected, we will provide you with information on that purpose and any other relevant information.
 
@@ -96,11 +96,11 @@ Contact information| With our business partners, with your consent, for the purp
 
 ## Transfer of Personal Data Outside the EEA
 
-Personal Data captured on this website may be transferred to, and stored or otherwise processed at, a destination outside the European Economic Area (hereinafter "EEA"), including destinations that are not subject to Data Privacy Provisions equivalent to those in the EEA countries in which you provided your Personal Data.  We transfer your data to the US with your consent or where necessary to provide you with the services you have requested.  We will take all steps reasonably necessary to ensure that your Personal Data is processed safely and in accordance with this Privacy Policy. 
+Personal Data captured on this website may be transferred to, and stored or otherwise processed at, a destination outside the European Economic Area (hereinafter "EEA"), including destinations that are not subject to Data Privacy Provisions equivalent to those in the EEA countries in which you provided your Personal Data.  We transfer your data to the US with your consent or where necessary to provide you with the services you have requested.  We will take all steps reasonably necessary to ensure that your Personal Data is processed safely and in accordance with this Privacy Policy.
 
 ## Your Rights under the GDPR with regard to your Personal Data
 
-Under the GDPR, EU-based visitors and subscribers have the rights to request from us access to Personal Data we store about you, to amend (or rectify) this data, to restrict our processing of the Personal Data, to erase the data, and to receive a copy of the data in a structured, commonly used, and machine-readable format (data portability). If you wish to invoke a right under the GDPR, you may contact us at [dataprotectionoffice@aaas.org](mailto:dataprotectionoffice@aaas.org) **.**  Please use the subject line “GDPR query” in the subject line. Your e-mail should include a sufficiently detailed description of the GDPR right with which you seek assistance. We may need to contact you for further information and reserve the right to charge a fee for certain requests. AAAS will notify you if your request has been granted or declined, or if exemptions apply.
+Under the GDPR, EU-based visitors and subscribers have the rights to request from us access to Personal Data we store about you, to amend (or rectify) this data, to restrict our processing of the Personal Data, to erase the data, and to receive a copy of the data in a structured, commonly used, and machine-readable format (data portability). If you wish to invoke a right under the GDPR, you may contact us at  **[dataprotectionoffice@aaas.org](mailto:dataprotectionoffice@aaas.org)** **.**  Please use the subject line “GDPR query” in the subject line. Your e-mail should include a sufficiently detailed description of the GDPR right with which you seek assistance. We may need to contact you for further information and reserve the right to charge a fee for certain requests. AAAS will notify you if your request has been granted or declined, or if exemptions apply.
 
 If you have provided consent for the processing of your data, you have the right (in certain circumstances) to withdraw that consent at any time, which will not affect the lawfulness of the processing before your consent was withdrawn.
 
@@ -116,11 +116,11 @@ The registration forms and other sections of the AAAS and _  Science _Websites
 
 ## E-mail
 
-**E-mail to Members:  **AAAS members may opt in for first- or third-party informational e-mails or opt out of all e-mail communication, except transactional emails, such as subscription renewal and association election information. Members can provide data privacy instructions to us at the members-only website, [aaas.org/membercentral](http://www.aaas.org/membercentral), or contact AAAS MemberCentral Support at [membership@aaas.org](mailto:membership@aaas.org).
+**E-mail to Members:** AAAS members may opt in for first- or third-party informational e-mails or opt out of all e-mail communication, except transactional emails, such as subscription renewal and association election information. Members can manage their email preferences by logging into [My Profile](https://signin.aaas.org/oxauth/login) and going to the Edit My Contact Information section, or by contacting AAAS MemberCentral Support at [membership@aaas.org](mailto:membership@aaas.org).
 
-**E-mail to Subscribers:**  Paid subscribers to AAAS publications, including  _Science_ ,  _Science Signaling_ ,  _Science Translational Medicine_ ,  _Science Immunology_ , and  _Science Robotics_ , may also opt in for first- or third-party informational e-mails or opt out of all e-mail communication (with the exception of subscription renewal information) by contacting AAAS MemberCentral Support at [membership@aaas.org](mailto:membership@aaas.org).
+**E-mail to Subscribers:** Paid subscribers to AAAS publications, including  _Science_ ,  _Science Signaling_ ,  _Science Translational Medicine_ ,  _Science Immunology_ , and  _Science Robotics_ , may also opt in for first- or third-party informational e-mails or opt out of all e-mail communication (with the exception of subscription renewal information) by contacting AAAS MemberCentral Support at [membership@aaas.org](mailto:membership@aaas.org).
 
-**E-mail to Users of Free Services and Products:**  
+**E-mail to Users of Free Services and Products:**
 
   * Where permitted by law, users of free online services provided by AAAS, such as free partial access to content from the  _Science  _family of journals, access to News from  _Science_ , or e-mail alerting services/newsletters or  _Science_  Careers, or who seek other free online services provided by AAAS are agreeing that AAAS may contact them by e-mail in exchange for these free services. Users who fall under the CASL and GDPR regulations who use free online services may opt in to e-mails from AAAS and  _Science_. Users can also opt in for third-party informational e-mails.
   * Where permitted by law, users who do not wish to receive e-mail alerting services or newsletters may cancel such services by following the unsubscribe instructions at the bottom of any e-mail message from AAAS. 
@@ -129,7 +129,7 @@ The registration forms and other sections of the AAAS and _  Science _Websites
 
 
 
-The above are examples of opt-in/opt-out options and are not intended to describe every option on the AAAS and  _Science_  websites.
+The above are examples of opt-in/opt-out options and are not intended to describe every option on the AAAS and _Science_ websites.
 
 ## Cookies
 
@@ -149,13 +149,13 @@ We have, or may have, an area on our websites where you can submit feedback. Any
 
 ## How We Protect Your Information
 
-We are concerned with protecting your privacy and data, but we cannot ensure or warrant the security of any information you transmit to us and we cannot guarantee that your information on the AAAS and _  Science _Websites may not be accessed, disclosed, altered, or destroyed by breach of any of our industry-standard physical, technical, or managerial safeguards. We provide reasonable technical, administrative, and physical controls to secure the confidentiality, integrity, and availability of personal information. If you have any questions about security on the AAAS and _  Science _Websites, you may contact us at [dataprotectionoffice@aaas.org](mailto:dataprotectionoffice@aaas.org). 
+We are concerned with protecting your privacy and data, but we cannot ensure or warrant the security of any information you transmit to us and we cannot guarantee that your information on the AAAS and _  Science _Websites may not be accessed, disclosed, altered, or destroyed by breach of any of our industry-standard physical, technical, or managerial safeguards. We provide reasonable technical, administrative, and physical controls to secure the confidentiality, integrity, and availability of personal information. If you have any questions about security on the AAAS and _  Science _Websites, you may contact us at [dataprotectionoffice@aaas.org](mailto:dataprotectionoffice@aaas.org).
 
 ## Payment Processing
 
 We utilize third-party payment services to enable you to purchase certain products or services from the AAAS and _  Science _Websites, for example, when you purchase back issues of  _Science_  through our authorized provider. In such cases, you will be directed to a third-party service provider’s website operated by that provider in order to make the purchase. Any information that you provide to such provider may be subject to the applicable service provider’s privacy policy and not this Privacy Policy. We are not responsible for and have no control over the privacy policies or practices of third-party service providers. Use of third-party service providers to purchase products or services offered on the AAAS and _  Science _Websites is solely at your risk.
 
-All credit transactions occur in a secure area of our site to protect you from any loss, misuse, or alteration of information collected. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. When you place an order online at any of the AAAS and _  Science _Websites, your credit card information is protected through the use of encryption of web content using Transport Layer Securitys.
+All credit transactions occur in a secure area of our site to protect you from any loss, misuse, or alteration of information collected. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. When you place an order online at any of the AAAS and _  Science _Websites, your credit card information is protected through the use of encryption of web content using Transport Layer Security.
 
 ## Resumes
 
@@ -169,6 +169,12 @@ Please note: It is not our practice to restrict access to our resume database to
 
 We reserve the right to remove from our database any resumes we consider to be illegal or offensive.
 
+## Virtual Career Fairs
+
+If you register to participate in a  _Science Careers_  Virtual Career Fair, we will collect and retain information about you, including Personal Information.
+
+Information you provide when registering for a  _Science Careers_  Virtual Career Fair is collected through our Virtual Career Fair platform provider and is shared with the career fair sponsor as well as the employers you interact with during the career fair. This information includes Personal Information such as your name, email address, resume and information from other questions you answer during the registration process. This information may also include chat history from conversations/interactions that you have with employers participating in the career fair; for clarity, if you participate in private chats, the conversation/interaction between you and an employer will be shared only with that employer. If you participate in public chats, all participants will see your conversation/interaction during the chat and the chat history may be shared with all participating employers. This information may become subject to the policies of the employers with whom you interacted at the career fair. We are not responsible for these policies or any actions or results that may occur as a result of any employer’s access to and/or use of your information.
+
 ## Additional Terms and Rules for Social Networking
 
 Social networking services provided on the AAAS and _  Science _Websites (e.g., the  _Science_  Careers Community pages) may have additional terms of conduct, privacy policies, and privacy settings that you will be required to agree to and set when you register for such services.
@@ -177,7 +183,7 @@ Social networking services provided on the AAAS and _  Science _Websites (e.g.
 
 It is important to us that we have your correct contact information so that you don’t miss out on further correspondence or experience problems with the delivery of publications and products.
 
-Members and customers with a AAAS ID can change their personal information or update their account information at any time by visiting the members-only website, [aaas.org/membercentral](http://www.aaas.org/membercentral). Other registrants or users may also update their personal information at any time by sending an e-mail to [membership@aaas.org](mailto:membership@aaas.org).
+Members and customers with a AAAS ID can change their personal information or update their account information at any time by logging into [My Profile](https://signin.aaas.org/oxauth/login). Other registrants or users may also update their personal information at any time by sending an e-mail to [membership@aaas.org](mailto:membership@aaas.org).
 
 ## Where to address your questions or complaints
 
@@ -192,13 +198,13 @@ E-mail: [dataprotectionoffice@aaas.org](mailto:dataprotectionoffice@aaas.org)
 
 ## Changes to Privacy Statement
 
-If we change our Privacy Statement for the AAAS and _  Science _Websites, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
+If we change our Privacy Statement for the AAAS and _Science_ Websites, we will post those changes here so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
 
-We welcome your comments concerning this Privacy Statement. Members who believe that we have not adhered to this statement may contact us by e-mailing us at [membership@aaas.org](mailto:membership@aaas.org). Non-members may contact us at [dataprotectionoffice@aaas.org](mailto:dataprotectionoffice@aaas.org). We will use commercially reasonable efforts to promptly determine and remedy the problem. Thank you for using the AAAS and _  Science _Websites.
+We welcome your comments concerning this Privacy Statement. Members who believe that we have not adhered to this statement may contact us by e-mailing us at [membership@aaas.org](mailto:membership@aaas.org). Non-members may contact us at [dataprotectionoffice@aaas.org](mailto:dataprotectionoffice@aaas.org). We will use commercially reasonable efforts to promptly determine and remedy the problem. Thank you for using the AAAS and _Science_ Websites.
 
 ## Legal Requests
 
-AAAS reserves the right to share your information to respond to duly authorized information requests of governmental authorities or where required by law. 
+AAAS reserves the right to share your information to respond to duly authorized information requests of governmental authorities or where required by law.
 
 ## California
 
@@ -206,4 +212,4 @@ Under California Civil Code Section 1798.83 (also known as S.B. 27), if you are 
 
 ## Acceptance of These Terms
 
-**Your use of the  **AAAS and _  Science _Websites  **shall indicate your understanding and acceptance of the terms of this Privacy Statement. If you do not agree with all the terms herein, you should not use the  **AAAS and _  Science _Websites  **or services.**
+**Your use of the** AAAS and _Science_ Websites **shall indicate your understanding and acceptance of the terms of this Privacy Statement. If you do not agree with all the terms herein, you should not use the** AAAS and _Science_ Websites **or services.**
