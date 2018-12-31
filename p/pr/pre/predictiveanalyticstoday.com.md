@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predictiveanalyticstoday.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625205932id_/https%3A//www.predictiveanalyticstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictiveanalyticstoday.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231195926id_/https%3A//www.predictiveanalyticstoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PAT RESEARCH: B2B Reviews, Buying Guides & Best Practices
 
@@ -151,7 +151,7 @@
 
 **How you can contact us**
 
-  24. If you have any questions about our privacy practices or the way in which we have been managing your personal information, please contact our privacy champion in writing at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  24. If you have any questions about our privacy practices or the way in which we have been managing your personal information, please contact our privacy champion in writing at privacy@predictiveanalyticstoday.com.
   25. We’re really glad you made it to the end of the privacy policy, because knowing this stuff is the best way to understand how your personal information is used and how to best manage it!
 
 
@@ -175,4 +175,4 @@
 
 **PAT RESEARCH Privacy Policy v3, effective date 25 May 2018**
 
-If you have any questions about our privacy practices, please contact our privacy champion in writing at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about our privacy practices, please contact our privacy champion in writing at privacy@predictiveanalyticstoday.com
