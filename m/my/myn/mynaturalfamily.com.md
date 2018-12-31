@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynaturalfamily.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625204910id_/https%3A//www.mynaturalfamily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynaturalfamily.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231194912id_/https%3A//www.mynaturalfamily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This privacy notice discloses the privacy practices for MyNaturalFamily.com. The bottom line is that this website doesn’t collect any information about you personally other than your email address if you give it to me. I do get reports about general demographics, such as how many male or female visitors I have, how long you look at each post and what posts you read. But I use this information strictly to improve my blog. I have no ability to look up any information on a personal level.
 
-## **Information Collection, Use, and Sharing**
+##  **Information Collection, Use, and Sharing**
 
 The little bit of information I may or may not have about you is information that you give to me. I do not sell or rent any information, such as email addresses. I wouldn’t like that and I’m sure you wouldn’t either. I want you to be able to trust me if nothing else.
 
@@ -30,7 +30,7 @@ Any information I collect is through Google Analytics, which is on pretty much e
 
 This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-## **Your Access to and Control Over Information**
+##  **Your Access to and Control Over Information**
 
 Since the only data I have about you is your email address, all you need to do is unsubscribe at the bottom of any email I send you and then we will stop sending you emails.
 
@@ -54,13 +54,11 @@ Most browsers allow you to refuse to accept cookies and to delete cookies. The m
 
 (d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
 
-(e) <https://support.apple.com/kb/PH21411> (Safari); and
-
 (f) <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
 
 Please note that blocking cookies may have a negative impact on the functions of many websites, including our Site. Some features of the Site may cease to be available to you.
 
-## **Interest-Based Advertising**
+##  **Interest-Based Advertising**
 
 ### Advertising Privacy Statement
 
@@ -72,13 +70,13 @@ By using this Site, you consent to the use of such cookies and the sharing of da
 
 If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
-## **Email Addresses**
+##  **Email Addresses**
 
 We may collect your email address, but only if you voluntarily provide it to us. This may occur, for example, if you sign up to receive an email newsletter, or enter a promotion.  We will use your email address for the purposes for which you provided it to us, and also from time to time to send you emails regarding the Site or other products or services that we believe may be of interest to you.  You may opt out of such email communications at any time by clicking the “unsubscribe” button in the email.
 
 We will not share your email address with any third parties.
 
-## **Additional Rights of EEA (European Economic Area) Residents**
+##  **Additional Rights of EEA (European Economic Area) Residents**
 
 If you are a resident of a country in the EEA, you have the rights, among others, to:
 
@@ -94,14 +92,14 @@ If you are a resident of a country in the EEA, you have the rights, among others
 
 If you believe that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your residence, your place of work or the place of the alleged infringement.
 
-## **Sale of Business or Assets**
+##  **Sale of Business or Assets**
 
 In the event that the Site or substantially all of its assets is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, the information we have collected about you may be one of the assets sold or merged in connection with that transaction.
 
-## **Changes to the Privacy Policy**
+##  **Changes to the Privacy Policy**
 
 We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
 
-## **Contacting Us**
+##  **Contacting Us**
 
 If you have any questions about this Privacy Policy or the practices of this Site, please contact us at [help@mynaturalfamily.com](mailto:help@mynaturalfamily.com).
