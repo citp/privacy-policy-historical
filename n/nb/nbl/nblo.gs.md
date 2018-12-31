@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nblo.gs privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630210131id_/http%3A//www.networkedblogs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nblo.gs privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231103331id_/http%3A//www.networkedblogs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NetworkedBlogs by Ninua
 
