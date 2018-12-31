@@ -1,127 +1,85 @@
-> *The following text is extracted and transformed from the sudanesehome.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626064146id_/https%3A//privacy.truste.com/reseller/privacy-policy/Kualo-Ltd./certified/d29cf543-b021-429c-9008-62a1fd8753c5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sudanesehome.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231084630id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Welcome to kualo.co.uk
+# HugeDomains.com - Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/Kualo-Ltd./validation?validationId=87cd5419-ee1c-40c3-8131-6403491f96b0&referer=kualo.co.uk)**Effective March 7, 2013**
+HUGEDOMAINS.COM PRIVACY POLICY
 
-This privacy statement describes how **kualo.co.uk** collects and uses your personal information. The privacy practices of this company have been certified by TRUSTe for compliance with our [Privacy Certification Requirements](http://www.truste.com/privacy-program-requirements/index.html). 
+HugeDomains's Privacy Policy describes how this site collects and uses the personally identifiable information provided by customers/consumers/users of this site. It also describes the choices available to customers regarding HugeDomains's use of customer's personally identifiable information and how that information may be accessed and updated by customers and how it may be provided to third-parties.
 
-* * *
+If you do not agree to HugeDomains's Privacy Policy and/or [Terms of Service](https://web.archive.org/terms.cfm), you must immediately cease use of HugeDomains.com. If you do not agree, do not use HugeDomains's website or services,  do not purchase domains and do not enter into payment plans with HugeDomains.com.
 
-Kualo Ltd.
+HugeDomains.com is a United States company, located in Denver, Colorado, USA. HugeDomains complies with the U.S-EU Safe Harbor framework which is dictated and set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. HugeDomains further complies with the California Online Privacy Protection Act and the Children's Online Privacy Protection Act (COPPA).
 
-Second Floor 145-157 St John Street 
+**What Information HugeDomains Collects**
 
-London, EC1V 4PY
+HugeDomains must collect certain personal data in order to conduct business, provide customer service and provide a customer with relevant requested services. Personal information is collected from customers when  a customer contacts HugeDomains through the website, when a customer purchases a domain, whenever a customer fills out a contact form on the HugeDomains platform; when a customer submits payment to HugeDomains; and when a customer contacts HugeDomains via phone or chat. HugeDomains will further collect certain personal information from customers as needed in order to continue to provide services to its customers and as required by any relevant law, rule, regulation, and other method that ensures the safety of HugeDomains, its customers, and the general public.
 
-United Kingdom
+HugeDomains collects customers' relevant personal information, including but not limited to: name, address, phone number, fax number (if applicable), email address and other data used to directly or indirectly to identify you in connection to your use of HugeDomains's services. Many products/services may require a customer to provide HugeDomains with additional information such as credit card information, associated billing information, or other financial and payment information. In order to protect HugeDomains and its customers, as well as intellectual property rights, HugeDomains may require customers to provide government identification and/or other documentation as proof of identity and physical address.
 
-Phone: +44 20 7183 1465
+**Why HugeDomains Collects This Information**
 
- **TRUSTe Dispute Resolution**  
-If a TRUSTe client has violated its privacy agreement you can file a complaint with [TRUSTe Dispute Resolution »](http://www.truste.com/watchdog)
+HugeDomains collects customer information for several reasons, including but not limited to: following relevant and required ICANN data collection requirements, along with and to abide and comply with United States laws, rules, and regulations. Further, HugeDomains collects such information in order to allow HugeDomains to: 
 
-  
+a. **To personalize customer experience**  \- customer information helps HugeDomains better respond to customer's individual needs.
 
+b. **To improve the HugeDomains website and services** \- HugeDomains continually strives to improve its website offerings and services based on the information and feedback received from customers.
 
-[](https://privacy.truste.com/privacy-seal/Kualo-Ltd./validation?validationId=87cd5419-ee1c-40c3-8131-6403491f96b0&referer=kualo.co.uk)
+c. **To improve customer service** \- customer information helps HugeDomains more effectively respond to specific customer service requests and support needs. Should a customer contact HugeDomains for service or support, it will keep an internal record of such correspondence, whether email or telephone call, along with an internal record of support given.
 
- **Effective on March 7, 2013**
+d. **To process transactions**  \- other than specifically provided in this provision, or required by law, customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company without direct and express customer consent.
 
-This privacy statement describes how **Kualo Ltd.** collects and uses the personal information you provide on our Web site: [ kualo.co.uk](http://kualo.co.uk/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+e. **To send periodic emails** \- customer email addresses provided for order processing, will be used to send customers relevant and pertinent information and updates pertaining to their HugeDomains account and registered domain names and/or other services. These communications include, but are not limited, to: HugeDomains updates and questions or concerns regarding the customer, their account, or specific services. If a customer chooses to opt-in to a mailing list, they will receive email communications that may include company news, updates, related product or service information, as set per email preferences which is customizable from within each users' account.
 
- **Kualo Ltd.** has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@kualo.com](mailto:info@kualo.com). If you are not satisfied with our response you can contact [TRUSTe here](http://www.truste.com/about_TRUSTe/contact_us.html).
+f. **Domain ownership information**  \- HugeDomains.com sells domain names, and all domain name purchases require registrant information in order to complete the purchase and facilitate the transfer of the domain name. The information provided by a customer when purchasing a domain can and will be used to transfer ownership of said domain names. The registration information provided for a domain is recorded and shared with trusted parties in order to deliver such purchases to domain buyers. If a customer does not opt-in for privacy protection, the whois information provided when buying domain names may be shared via a public record called "whois".
 
-We collect the following personal information from you:
+**How HugeDomains Collects this Information**
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Financial Information such as bank or brokerage account numbers, types of investments
-  * Unique Identifiers such as user name, account number, password
-  * Preferences Information you provide such as product or content interests, or communication or marketing preferences
-  * Usage activity about how you interact with us such as purchase history, what content you viewed, and which areas of our site you visited. 
+HugeDomains utilizes a variety of security measures to maintain the safety of customers' personal information. All supplied financial information (including credit card data) is transmitted via Secure Socket Layer (SSL) technology and then encrypted into the company's payment gateway provider's database. This database and the sensitive information contained within are only accessible by those authorized with special access rights to such systems and are required to keep the information confidential. 
 
+HugeDomains uses cookies (and other technologies such as web beacons, pixels, tags, scrips) to identify you so you don't need to log in each time you visit a HugeDomains website or its mobile applications. The cookies are linked to your customer account, which is associated with the information in your account. HugeDomains uses cookies to help remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that it can offer better site experiences and tools in the future. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most modern websites, if you turn your cookies off, some of HugeDomains's services may not function properly or function at all. HugeDomains does not test its website for this and does not guarantee use of services with cookies disabled. 
 
+HugeDomains, like most companies, obtains information about its customers automatically and stores this information in its internal databases. This information may include but is not limited to: Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring entry/exit pages, operating system, date/time stamp and/or clickstream data, and other data that could directly or indirectly identify you. HugeDomains uses this information to help personalize your experience and search results, diagnose problems with its systems, to administer the services on this site, and for other corporate uses.
 
-**We also collect the following information from you:**
+**How HugeDomains Uses this Information**
 
-  * Information about your business such as company name, company size, business type
+HugeDomains must first and foremost abide by local law. As a US company, HugeDomains will first abide by US laws and regulations when two laws might differ and/or conflict with one another.
 
+HugeDomains securely holds on to personal data internally. Such data can be held indefinitely in order to keep accurate records that may be required under local law and regulation. 
 
+HugeDomains uses customer information to communicate directly with their customers. It is important for customers to keep their email address up to date and check their email regularly for updates regarding a HugeDomains account. 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+HugeDomains may have the need to provide customer information to third parties for certain services required by HugeDomains, including but not limited to, credit card processors, technical support services, shipping of goods or services, customer relationship management, SMS delivery, Collections Agencies,  registry compliance, law enforcement, among other third parties for other similar such reasons. When a domain is purchased which is managed at a partner registrar, HugeDomains reserves the right to automatically push said domain name(s) into an account at that domain name registrar in order to provide the relevant purchased product(s) to the customer. HugeDomains will only share information that is necessary for the third party to provide the required services. This information will not be sold nor voluntarily disseminated unless reasonably needed at HugeDomains's sole discretion. 
 
- **We use this information to:**
+When a HugeDomains account is cancelled/suspended/terminated, either voluntarily or involuntarily, this does not mean that the customer's personally identifiable information has been deleted entirely from HugeDomains's systems and databases. Some or all this information may be retained by HugeDomains, including but not limited, to comply with legal obligations, resolve disputes, prevent fraud and/or enforce company agreements.  In addition, you will not be able to submit a form on this website without providing the exact information required to complete that specific action. It is forbidden and against of ICANN's rules to provide false Registrant information about any domain name registration(s). Providing false or fake information may and will result in suspension of the customer's HugeDomains account and forfeiture of any related domain name(s) registered with HugeDomains or any of its affiliate companies or domain name registrars.
 
-  * Fulfill your order
-  * Send you an order confirmation
-  * Assess your needs to determine suitable products or services
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
-  * Send you marketing communications
-  * Improve our Web site and marketing efforts
-  * Conduct research and analysis
-  * Respond to your questions and concerns
-  * Display content based upon your interests
+HugeDomains will cooperate with government, law enforcement officials and relevant private parties to enforce and comply with Unites States law and with applicable and mandatory regulations regarding the services it provides. If necessary, HugeDomains will disclose any customer information to the relevant officials or private parties when appropriate or deemed reasonably necessary. Further, if HugeDomains believes, in its sole discretion, (including without limitation to subpoenas), that the preservation of certain customer information is necessary to protect its rights or the property and/or the rights of a third party. HugeDomains may further maintain or share customer information in order to protect the safety of the public or any person, to prevent or stop activity HugeDomains considers to be illegal based on applicable laws, or to otherwise uphold the law.  By using HugeDomains's website and services, all customers expressly consent to this Privacy Policy. HugeDomains further reserves the right to modify this Policy at any time. If changes are made to this Policy, those changes will be publicly posted. HugeDomains is not required to directly notify its customers of changes made to this Policy, however, if material changes are made, HugeDomains will notify its customers by email or through a public notice on its website.
 
+**To Access, Update, or Delete Your Personal Information**
 
+You have the right to correct any personal information held about you that is inaccurate or incomplete. If there is information located on HugeDomains servers you wish to correct, you will be required to login to your account and update the appropriate information. This includes account owner information, information submitted for various products and services offered through this website, including but not limited to purchased domain names and payment methods linked to your account.
 
- **Choice/Opt-Out**
+You have the right issue a request that HugeDomains delete your personal data. HugeDomains will review your request and delete data if possible. HugeDomains reserves the right, in its sole discretion, to retain any personal data. Personal data may be retained for several reasons, including, but not limited to: fraud mitigation; preserving or enforcing legal and/or contractual rights; data retention mandated by local law,  domain registrars processing of your data, relevant domain registries, contracts, or reasons necessary to HugeDomains's business and operate such services. If you wish to have your data erased, you can use the contact details found on the bottom of this page, please provide as many details as possible as to your request, and the company will determine if you have a valid basis for the erasure of your data. If you have questions about data retention you may contact us with your questions or concerns. You have the right to lodge a complaint with a relevant supervisory authority.
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [info@kualo.com](mailto:info@kualo.com).
+**Third Parties**
 
- **Social Networks**
+HugeDomains.com may share your personal information with affiliated companies within its corporate family and other third-parties that integrate with HugeDomains services, and to provide products and services, including but not limited to: Customer Relationship Management; processing payments; fraud prevention; management of domain names; and serving advertisements. Many of these third parties are affiliate companies, and work in conjunction with HugeDomains to provide customers the products and services provided by HugeDomains to HugeDomains's customers.
 
-We enable you to create a profile, and share information such as messages, photos, and videos with others within your network. We cannot control the actions of others with whom you may choose to share your pages and information. Also we cannot guarantee that the content you post on our site will not be viewed by others outside your network.
+Targeted ads may be provided to HugeDomains customers based upon their webpages and Internet activity. These ads and offers may be displayed as product banners provided while you are engaged in Internet browsing or using HugeDomains.com and its services. In some instances, HugeDomains partners with third parties to manage advertising, including targeted advertising on HugeDomains webpages and other websites. These third-party partners may use certain data collection tools such as cookies in order to collect information about customer activities to provide customers with customized advertisements. When possible, such providers will give ways to opt-out of any such advertisements.
 
-We will share your information with third parties only in the ways that are described in this privacy statement.
+HugeDomains's website may contain links to third party websites. HugeDomains is not responsible for the privacy policy and data collection of third-party sites. You are solely responsible for reviewing any third-party privacy practices on all such websites.
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+Some Internet browsers may allow users to receive notifications when a website is utilizing tracking technology and may allow that user to use a "do not track" signal. There is no industry standard or agreement among industry participates as to what this "do not track" signal entails. As there is not set definition or regulation regarding this process, HugeDomains does not make any adjustments or alternations in its operating processes when a "do not track" signal is received from an Internet browser.
 
-We may disclose your personal information
+**Corporate Reorganization**
 
-  * as required by law, such as to comply with a subpoena, or similar legal process 
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if Kualo Ltd. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-  * to any other third party with your prior consent to do so.
+If HugeDomains were to merge with another company or if HugeDomains is involved in an acquisition or sale of all a substantial portion of assets, or other similar sale transaction, your information will be transferred as part of that transaction and you will be notified by email and/or notice on HugeDomains website of any such transfer and any choices you may have regarding your information.
 
+**Contact Information**
 
+If you have any other questions about this Privacy Policy, the practices of HugeDomains you may use the contact us form on this web site to request additional information, or you can reach us  by phone at +1 (303) 893-0552 or by email at sales@hugedomains.com 
 
-We or a third party contracted by us may use technologies such as cookies, Web beacons, or scripts to gather information about how you and others interact with our Web site. For example, we will know how many users access a specific areas or features within our site and which links or ads they clicked on. We use this aggregated information to understand and optimize how our site is used, improve our marketing efforts, and provide content and features that are of interest to you.
+\---
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here: [http://preferences.truste.com](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads 
+Last Revised: July 05, 2018
 
-The security of your personal information is important to us. When you provide sensitive information (such as a credit card number) to us, we encrypt the transmission of that information using secure socket layer technology (SSL).
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. 
-
-If you have any questions about security on our Web site, you can contact us at [info@kualo.com](mailto:info@kualo.com)
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@kualo.com](mailto:info@kualo.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-Our Web site includes third party hosted widgets, which are interactive mini-programs that run on our site to provide single-purpose services (e.g. sharing of articles, videos, etc.). Personal information, like your email address, may be collected and cookies may be set so the widget can work properly. The information through the widget is subject to the widget provider’s privacy policy 
-
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@kualo.com](mailto:info@kualo.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so.
-
- **Correcting and Updating Your Personal Information**
-
-To review and update your personal information to ensure it is accurate, contact us at [info@kualo.com](mailto:info@kualo.com).
-
- **Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-You can contact us about this privacy statement by writing or email us at the address below:
-
-Kualo Ltd.
-
-Second Floor 145-157 St John Street 
-
-London, EC1V 4PY
-
-United Kingdom
-
-Phone: +44 20 7183 1465
+Copyright 2005-2018 HugeDomains.com. All Rights Reserved.
