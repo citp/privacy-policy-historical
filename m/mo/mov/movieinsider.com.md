@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieinsider.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625070015id_/https%3A//www.movieinsider.com/contact/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieinsider.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231062346id_/https%3A//www.movieinsider.com/contact/%23privacy) for the most accurate reproduction.*
 
 # Feedback - About Us - Privacy Policy - Movie Insider
 
@@ -6,7 +6,7 @@
 
 **Movie Insider offers behind-the-scenes film information about upcoming Hollywood and independent releases. Movies are tracked and updated through all stages of film production from concept/announcement, development, production, post-production and finally to release.
 
-Since 1999, Movie Insider has strived to provide the most up-to-date upcoming movie release schedules based on confirmed third-party announcements and reporting. 
+Since 1999, Movie Insider has strived to provide the up-to-date upcoming movie releases dates based on confirmed third-party announcements, applicable major and independent distributors and other reporting. 
 
 **
 
@@ -14,23 +14,29 @@ Movie Insider is owned and operated by The Movie Insider LLC.
 
 ##### History of the Site
 
-Movie Insider was first launched on free webhost _AOL Hometown_ in July 1999 by its founder Brian D. Renner (age 13 at the time!) who had a strong passion in movies and computers. Back then, the mission of the Movie Insider website was "to keep you and everyone else up to date about the world of movies". Not long after the initial launch, Brian moved the website to _Yahoo! Geocities_ and some other free hosts, followed by its first domain name "movie-insider.com" (registered by a third-party, because Brian's mom was afraid to use a credit card online!) in July 2000. Soon after a third-party ownership issue regarding this first domain name, Brian purchased "themovieinsider.com" (his mom finally relented to letting him use her credit card!) and re-launched his website again under "themovieinsider.com" on September 10, 2000. Since 2000, the Movie Insider website has gone through numerous changes/pivots, recreations and redesigns. Many are available for review by using the [**Internet Archive's WayBack Machine**](http://web.archive.org/web/*/http://www.themovieinsider.com). 
+Movie Insider was first launched on free webhost _AOL Hometown_ in July 1999 by its founder Brian D. Renner (age 13 at the time!) who had a strong passion in movies and computers. Back then, the mission of the Movie Insider website was "to keep you and everyone else up to date about the world of movies". Not long after the initial launch, Brian moved the website to _Yahoo! Geocities_ and some other free hosts, followed by its first domain name "movie-insider.com" (registered by a third-party, because Brian's mom was afraid to use a credit card online!) in July 2000. Soon after a third-party ownership issue regarding this first domain name, Brian purchased "themovieinsider.com" (his mom finally relented to letting him use her credit card!) and re-launched his website again under "themovieinsider.com" on September 10, 2000. Since 2000, the Movie Insider website has gone through numerous changes/pivots, recreations and redesigns. Many are available for review by using the [**Internet Archive's WayBack Machine**](https://web.archive.org/web/*/http://www.themovieinsider.com). 
 
-With an [**October 2010 domain arbritration case**](http://domains.adrforum.com/domains/decisions/1345100.htm), Brian was granted "movieinsider.com" from a recognized domain squatter (who had picked it up in August 2000 between the registration of "movie-insider.com" [July 2000] and "themovieinsider.com" [September 2000]) and eventually moved the Movie Insider website from "themovieinsider.com" to "movieinsider.com". In 2012, Brian finally secured "movie-insider.com" again too!  Movie Insider has grown from a thousand visitors in the early 2000s to over two million unique visitors a month today. 
+With an [**October 2010 domain arbitration case**](http://domains.adrforum.com/domains/decisions/1345100.htm), Brian was granted "movieinsider.com" from a recognized domain squatter (who had picked it up in August 2000 between the registration of "movie-insider.com" [July 2000] and "themovieinsider.com" [September 2000]) and eventually moved the Movie Insider website from "themovieinsider.com" to "movieinsider.com". In 2012, Brian finally secured "movie-insider.com" again too! 
 
 ##### Movie Insider Team 
 
   
-[ __](mailto:brian@movieinsider.com) [ __](http://twitter.com/briandrenner) [ __](http://linkedin.com/briandrenner)
+[ __](mailto:brian@movieinsider.com) [ __](https://twitter.com/briandrenner) [ __](https://linkedin.com/briandrenner)
 
 #####  Brian D. Renner  
 Founder and Managing Member, Movie Insider LLC
 
-As Founder and Managing Member of Movie Insider LLC, Brian handles the site's strategy development, day-to-day editorial direction, ad inventory trafficking and partnership relations, and oversees contracted editorial contributors and programmers. 
+As Founder and Managing Member of Movie Insider LLC, Brian handles the site's strategy development, day-to-day editorial direction, advertising demand and partnership relations, and oversees contracted editorial contributors and programmers. 
 
-From 2009 to 2011, Brian worked as the Digital Marketing Manager at the Detroit field office of Allied Integrated Marketing, an entertainment promotion/publicity agency, where he crafted digital proposals and campaigns for various Hollywood studios. Prior to Allied, Brian interned with the Worldwide Post-Production Planning team at Walt Disney Pictures where he assisted in the management of animated and live-action post-production timelines. 
+From 2009 to 2011, Brian worked as the Digital Marketing Manager at the Detroit field office of Allied Global Marketing, an entertainment promotion/publicity agency, where he crafted digital proposals and campaigns for various Hollywood studios. Prior to Allied, Brian interned with the Worldwide Post-Production Planning team at Walt Disney Pictures where he assisted in the management of animated and live-action post-production timelines for theatrical and home entertainment releases. 
 
 Brian was honored as one of ["Twenty in their 20's"](http://www.crainsdetroit.com/files/twenty07/20_renner.html) by _Crain's Detroit Business_ in May 2007, and featured on [CBS Radio/CBSLocal.com](http://detroit.cbslocal.com/2013/12/04/passion-for-movies-leads-to-entrepreneurial-success-online/) in December 2013. 
+
+  * [New Movie Trailers](https://web.archive.org/xml/trailers.php)
+  * [New Movie Photos](https://web.archive.org/xml/photos.php)
+  * [Movie Feed & Updates](https://web.archive.org/xml/rss.php)
+
+
 
 #### Newsletter
 
@@ -261,13 +267,13 @@ These third parties have access to your Personal Data only to perform these task
 
 We use Google Anlytics, a third-party Service Provider, to monitor and analyze the use of our Service.
 
-Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network You can opt-out of having made your activity on the Service available to Google Analytics by installing the [Google Analytics opt-out browser add-on](https://support.google.com/ads/answer/7395996?hl=en). The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity. For more information on the privacy practices of Google, please visit the Google Privacy & Terms page: [**google.com/intl/en/policies/privacy/**](http://www.google.com/intl/en/policies/privacy/)
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network You can opt-out of having made your activity on the Service available to Google Analytics by installing the [Google Analytics opt-out browser add-on](https://support.google.com/ads/answer/7395996?hl=en). The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity. For more information on the privacy practices of Google, please visit the Google Privacy & Terms page: [**google.com/intl/en/policies/privacy/**](https://www.google.com/intl/en/policies/privacy/)
 
 ##### Advertising
 
 We use third-party Service Providers to show advertisements to you to help support and maintain our Service.
 
-These Service Providers include Google AdSense & DoubleClick. You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings page: **[google.com/ads/preferences/](http://www.google.com/ads/preferences/)**.
+These Service Providers include Google AdSense & DoubleClick. You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings page: **[google.com/ads/preferences/](https://www.google.com/ads/preferences/)**.
 
 ##### Links To Other Sites
 
@@ -345,7 +351,7 @@ Please note, however, that if you delete cookies or refuse to accept them, you m
 
   * For the Chrome web browser, please visit this page from Google: **[support.google.com/accounts/answer/32050](https://support.google.com/accounts/answer/32050)**.
 
-  * For the Internet Explorer web browser, please visit this page from Microsoft: **[support.microsoft.com/kb/278835](http://support.microsoft.com/kb/278835)**.
+  * For the Internet Explorer web browser, please visit this page from Microsoft: **[support.microsoft.com/kb/278835](https://support.microsoft.com/kb/278835)**.
 
   * For the Firefox web browser, please visit this page from Mozilla: **[support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)**.
 
@@ -362,7 +368,7 @@ You can learn more about cookies and the following third-party websites:
 
   * AllAboutCookies: [**allaboutcookies.org**](http://www.allaboutcookies.org/)
 
-  * Network Advertising Initiative: [**networkadvertising.org**](http://www.networkadvertising.org/)
+  * Network Advertising Initiative: [**networkadvertising.org**](https://www.networkadvertising.org/)
 
 
 
