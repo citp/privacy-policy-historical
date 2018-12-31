@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gearjunkie.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626004243id_/https%3A//gearjunkie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearjunkie.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231233410id_/https%3A//gearjunkie.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - GearJunkie
+# Privacy Policy | GearJunkie
 
 This privacy policy sets out how GearJunkie uses and protects any information that you give while using the GearJunkie website.
 
@@ -46,9 +46,11 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-#### Affiliate Programs
+#### Affiliate Link Disclosure Statement
 
-GearJunkie is a member of several affiliate advertising programs. As a result, some GearJunkie articles include relevant links to trusted brands and retailer sites like REI, Amazon, etc. If a GearJunkie user clicks an affiliate link and purchases a product or service from any of these affiliate sites within a set amount of time GearJunkie receives a small commission. Though this money helps us stay in business it doesn’t interfere with our goal of giving objective, unbiased gear reviews. We do not accept payment in any form for positive reviews.
+We work hard to test gear and find outdoor stories that are relevant to you. Did you know that you can support GearJunkie by purchasing your gear through the links on our site? Yup, it’s true, and we appreciate the support as it helps us provide top-notch stories and gear reviews to you and millions of other readers. 
+
+In some of our stories, we link to relevant and trusted affiliate partners like REI, Amazon, Patagonia, The North Face, etc. If a GearJunkie user clicks an affiliate link and purchases a product or service from any of these affiliate sites within a set amount of time GearJunkie receives a small commission. Affiliate linking has become a regular process in digital publishing. Though these commissions help us pay for things like excellent journalism, rent, and office beers, it doesn’t interfere with our goal of giving objective, unbiased gear reviews and stories. Our editorial and marketing teams are separate divisions within GearJunkie and we do not accept payment in any form for positive reviews or stories. 
 
 #### Advertising
 
