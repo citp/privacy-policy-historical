@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kutv.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630135624id_/http%3A//kutv.com/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kutv.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231164200id_/https%3A//kutv.com/contact/privacy) for the most accurate reproduction.*
 
 # Salt Lake City Privacy | News, Weather, Sports, Breaking News | KUTV
 
