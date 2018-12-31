@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the countrylife.co.uk privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610034712id_/http%3A//www.timeincuk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrylife.co.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224720id_/http%3A//www.timeincuk.com/privacy) for the most accurate reproduction.*
 
-# TimeIncUK.com Official Website|privacy & cookies policy
+# TI Media Official Website|privacy policy
 
-25th May 2018
-
-This Privacy & Cookies Policy explains how Time Inc. (UK) Ltd and its group companies collect and use your information and how you can influence this. Time Inc. (UK) Ltd is a company established in England with its registered address at 3rd Floor, 161 Marsh Wall, London E14 9AP (company number 00053626). This Privacy & Cookies Policy relates to websites and apps (“ **sites** ”) operated from time to time by Time Inc. (UK) Ltd and its group companies. When we mention “ **we** ”, “ **us** ” or “ **our** ”, we are referring to the relevant group company responsible for processing your data. For the purposes of data protection law, the company operating the site on which you clicked on this Privacy & Cookies Policy will be the data controller of any personal data they collect about you. If you are unsure which company is the data controller, please get in touch using the details in the **How to contact us** section below.
+This Privacy & Cookies Policy explains how TI Media Limited and its group companies collect and use your information and how you can influence this. TI Media Limited is a company established in England with its registered address at 3rd Floor, 161 Marsh Wall, London E14 9AP (company number 00053626). This Privacy & Cookies Policy relates to websites and apps (“ **sites** ”) operated from time to time by TI Media Limited and its group companies. When we mention “ **we** ”, “ **us** ” or “ **our** ”, we are referring to the relevant group company responsible for processing your data. For the purposes of data protection law, the company operating the site on which you clicked on this Privacy & Cookies Policy will be the data controller of any personal data they collect about you. If you are unsure which company is the data controller, please get in touch using the details in the **How to contact us** section below.
 
 We will collect various types of information about you through your use of our sites to process your requests and orders, to provide a more personalised web-surfing and shopping experience and to help us improve the services we offer. In doing this we also collect information about you through the use of cookies and similar technologies.
 
@@ -36,7 +34,7 @@ Changes to our Privacy & Cookies Policy
 
 How to contact us
 
-###  **What information do we collect about you?**
+  **What information do we collect about you?**
 
 **Information you give to us** : In order to process your requests and orders, it is necessary to collect personal data from you. This includes, but is not limited to: your name, address, e-mail address, telephone number, credit/debit card information. We are unable to provide you with products and services if you do not provide certain information to us. You will also be asked to provide additional (non-mandatory) pieces of information such as your interests, preferences, age, gender, feedback, and survey responses so that we can better understand our customers. You can also choose to provide such information by posting on a forum, filling out a web form or when you communicate with us. We also obtain information about you that you have provided to our group companies where we have the appropriate permissions to do so or as otherwise authorised by applicable law.
 
@@ -54,7 +52,7 @@ Children’s data
 
 Our sites are not intended for children under the age of 13. If you are under 13, please do not provide any information to us and instead ask your parent or guardian to do this on your behalf. You must be at least 18 years of age to purchase products or services from us. If you are under the age of 18, you must ensure that your parent or guardian purchases the products or services on your behalf.
 
-###  **How will we use the information about you?**
+**How will we use the information about you?**
 
 We will use your information for the following purposes:
 
@@ -102,9 +100,9 @@ Where we have the appropriate permissions or as otherwise authorised by applicab
 
 You can always tell us that you wish to stop receiving direct marketing communications from us. But remember, if you do not want us to get in touch, you will miss out on offers.
 
-If you would prefer not to receive direct marketing communications, simply let us know at any time by writing to the Customer Services Manager at Time Inc. (UK) Ltd, 5 Churchill Place, Canary Wharf, London E14 5HU, UK or help@mymagazine.co.uk with the subject line “Privacy”, or by following the opt-out instructions in the relevant communication. Please note that this will not stop you from receiving service messages from us.
+If you would prefer not to receive direct marketing communications, simply let us know at any time by writing to the Customer Services Manager at TI Media Limited, 5 Churchill Place, Canary Wharf, London E14 5HU, UK or [help@magazinesdirect.com](mailto:help@magazinesdirect.com) with the subject line “Privacy”, or by following the opt-out instructions in the relevant communication. Please note that this will not stop you from receiving service messages from us.
 
-### What is our legal basis for processing your data?
+**What is our legal basis for processing your data?**
 
 We rely on the following legal basis when processing your data:
 
@@ -114,7 +112,7 @@ We rely on the following legal basis when processing your data:
 
 **Your consent** , including to: provide you with marketing via email, SMS/text, post and telephone, including from our group companies and from third parties. You can withdraw your consent at any time – see **Marketing**.
 
-### What will we disclose to third parties?
+**What will we disclose to third parties?**
 
 We share your personal data with our group companies for the purposes outlined in this Privacy & Cookies Policy.
 
@@ -126,7 +124,7 @@ We could merge with or be acquired by another business. If this happens we share
 
 We reserve the right to disclose your personal data in order to comply with the law, applicable regulations and government requests. We also reserve the right to use such information in order to protect our operating systems and integrity as well as other users.
 
-### How do we protect your information?
+**How do we protect your information?**
 
 Once we have received your data we will take steps to ensure that it is treated in accordance with any applicable laws. Unfortunately the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk.
 
@@ -138,13 +136,13 @@ Other websites
 
 Please note that clicking on links and advertisements on our sites could result in you being transferred to another website, where data privacy practices vary from ours. If transferred to another website you should consult their privacy policy as we are not responsible for, and have no control over, information that is submitted to or collected by these third parties.
 
-### How long do we keep your information?
+**How long do we keep your information?**
 
 We are required by law to keep certain information about our customers (such as financial and transaction related data) for seven years after they cease being customers for tax purposes. 
 
 Our data retention periods vary depending on the context of the services that we provide to you and our legal obligations. To determine the appropriate period for which we keep your data, we consider the amount, nature and sensitivity of your data, the potential risk or harm from unauthorised use or disclosure of your personal data, the purposes for which we process that data (and whether we can achieve those purposes through other means), and applicable legal requirements.
 
-### International Transfers
+**International Transfers**
 
 We are based in the UK and seek to keep your data within the European Economic Area (EEA). However, many of our third party service providers and partners are based outside the EEA, or use servers located outside of the EEA for the purposes of storing and processing data, so their processing of your personal data will involve a transfer of data outside the EEA.
 
@@ -156,7 +154,7 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 
 **Privacy Shield** : The third party is based in the US and is part of the Privacy Shield, which requires them to provide similar protection to personal data when it is shared between Europe and the US.
 
-### Your Rights
+**Your Rights**
 
 You have certain rights in relation to the personal data we hold about you, which we detail below. Certain rights only apply in specific circumstances as set out in more detail below. We also set out how to exercise those rights. When you exercise your rights, we need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We will also contact you to ask you for further information in relation to your request to speed up our response.
 
@@ -180,17 +178,17 @@ You have the right to:
 
 If you wish to exercise any of the rights set out above, please contact us using the details provided in the **How to contact us** section below.
 
-### Changes to our Privacy & Cookies Policy
+**Changes to our Privacy & Cookies Policy**
 
 We keep this Privacy & Cookies Policy under review and will update it to reflect changes in our privacy practices. Any updates will be made on this page so that you can always find out what information we collect, how we use it and under what circumstances we will disclose it.
 
-### How to contact us
+**How to contact us**
 
-If you have any queries relating to this Privacy & Cookies Policy please contact us by writing to the Customer Services Manager at Time Inc. (UK) Ltd, 5 Churchill Place, Canary Wharf, London E14 5HU, UK or help@mymagazine.co.uk with the subject line “Privacy”.
+If you have any queries relating to this Privacy & Cookies Policy please contact us by writing to the Customer Services Manager at TI Media Limited, 5 Churchill Place, Canary Wharf, London E14 5HU, UK or [help@magazinesdirect.com](mailto:help@magazinesdirect.com) with the subject line “Privacy”.
 
 **
 
-Last updated: 25 May 2018
+Last updated: 11 December 2018
 
 **   **
 
@@ -276,7 +274,7 @@ Social media cookies
 
 **
 
-Cookies are also used when you share information using a social media sharing button on the sites. The social network will record that you have done this. This information can be linked to targeting/advertising activities. The types of cookies used by these third parties and how they use the information generated by them will be governed by those companies’ privacy policies. For information on how to opt out of targeting advertising, please go to  **How to manage or refuse cookies  and similar technologies**.
+Cookies are also used when you share information using a social media sharing button on the sites. The social network will record that you have done this. This information can be linked to targeting/advertising activities. We also market our own products and services on social media and use cookies to help with this. For example, we place a pixel on our sites that allows Facebook to place cookies on web browsers. When a visitor to our site who uses Facebook returns to Facebook, Facebook can identify them as part of a group of our site visitors and can serve them with marketing messages from us on our behalf. The types of cookies used by these third parties and how they use the information generated by them will be governed by those companies’ privacy policies. For information on how to opt out of targeting advertising, please go to  **How to manage or refuse cookies  and similar technologies**.
 
 **
 
@@ -318,6 +316,15 @@ Alternatively, you can turn off third party cookies relating to interest based a
 
 You can opt out of Google Analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across all websites you use, visit this [Google page](https://tools.google.com/dlpage/gaoptout). For Google Analytics Advertising Features, you can [opt-out](https://support.google.com/ads/answer/2662922?hl=en) through [Google Ads Settings](http://www.google.com/settings/ads) or by visiting the [Network Advertising Initiative opt out page](http://optout.networkadvertising.org/?c=1#!/). You can find more information about how Google uses information from our sites [here](https://policies.google.com/technologies/partner-sites).
 
+You can find more information about how to opt-out of the cookies provided by some of our key partners here:
+
+Facebook pixel | Advertising cookie | [Opt out](https://www.facebook.com/help/568137493302217) | [Privacy policy](https://www.facebook.com/about/privacy/update?ref=old_policy)  
+---|---|---|---  
+Google Adwords | Advertising cookie | [Opt out](https://support.google.com/ads/answer/2662922?hl=en-GB) | [Privacy policy](https://policies.google.com/privacy?hl=en-GB&gl=uk)  
+Google Adx | Advertising cookie | [Opt out](https://privacy.google.com/) | [Privacy policy](https://policies.google.com/privacy)  
+Google Analytics | Performance cookie | [Opt out](https://tools.google.com/dlpage/gaoptout/) | [Privacy policy](https://policies.google.com/privacy?hl=en)  
+Google DoubleClick | Advertising cookie | [Opt out](https://adssettings.google.com/authenticated?hl=en) | [Privacy policy](https://policies.google.com/privacy)  
+  
 **
 
 Web beacons
@@ -332,6 +339,6 @@ If you have any other queries about our use of cookies, you can contact us at th
 
 **
 
-Last updated: 25 May 2018
+Last updated: 12 June 2018
 
-**
+**  
