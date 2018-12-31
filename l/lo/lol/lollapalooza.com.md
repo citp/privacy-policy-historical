@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lollapalooza.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624142835id_/http%3A//concerts.livenation.com/h/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lollapalooza.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231225310id_/http%3A//concerts.livenation.com/h/privacy.html) for the most accurate reproduction.*
 
 # Live Nation Concerts | Privacy Policy
 
