@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the networkfleet.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625184634id_/https%3A//www.verizon.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkfleet.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231180824id_/https%3A//www.verizon.com/about/privacy/privacy-policy-summary) for the most accurate reproduction.*
 
 # Privacy Policies | Verizon
 
 At Verizon, we are committed to maintaining strong and meaningful privacy protections for customers. Our privacy policy is designed to inform you about the information we collect, how we use it, and your options about certain uses of information.
 
-Verizon's privacy policy applies to website visitors, app users, applicants and customers in the United States.  It applies across the Verizon family of companies and the products and services we provide, except it does not apply to our Oath affiliate which has a separate privacy policy.  In addition, some Verizon services and apps, such as [go90](http://www.verizon.com/about/privacy/go90-app-privacy-policy), [MapQuest](http://www.verizon.com/about/privacy/mapquest), [hum](http://www.verizon.com/about/privacy/hum-privacy-policy), [Message+](http://www.verizon.com/about/privacy/verizon-messages-app-privacy-policy) and [AppFlash ](http://www.verizon.com/about/privacy/appflash-privacy-policy)have additional privacy practices that are presented separately. If there is a conflict between this privacy policy and the service-specific policies, the service-specific policy governs when you are using that service.
+Verizon's privacy policy applies to website visitors, app users, applicants and customers in the United States.  It applies across the Verizon family of companies and the products and services we provide, except it does not apply to our Oath, Mapquest or Visible affiliates which have separate privacy policies. In addition, some Verizon services and apps, such as [MapQuest](http://www.verizon.com/about/privacy/mapquest), [hum](http://www.verizon.com/about/privacy/hum-privacy-policy), [Message+](http://www.verizon.com/about/privacy/verizon-messages-app-privacy-policy) and [AppFlash ](http://www.verizon.com/about/privacy/appflash-privacy-policy)have additional privacy practices that are presented separately. If there is a conflict between this privacy policy and the service-specific policies, the service-specific policy governs when you are using that service.
 
 A [separate policy](http://www.verizon.com/about/privacy/international-policy) governs the collection of personal data by the Verizon family of companies outside the United States.
 
@@ -55,6 +55,6 @@ You may correct inaccuracies in your information by calling a customer service r
 
 #### Changes to the Privacy Policy
 
-If Verizon elects to use or disclose information that identifies you as an individual in a manner that is materially different from that stated in our policy at the time we collected that information from you, we will give you a choice regarding such use or disclosure by appropriate means, which may include use of an opt-out mechanism. [Learn more](http://www.verizon.com/about/privacy/full-privacy-policy#changes_to_the_privacy_policy).
+If Verizon elects to use or disclose information that identifies you as an individual in a manner that is materially different from that stated in our policy at the time we collected that information from you, we will give you a choice regarding such use or disclosure by appropriate means, which may include use of an opt-out mechanism. [Learn more](http://www.verizon.com/about/privacy/full-privacy-policy#changes_to_the_privacy_policy)
 
-[View our full privacy policy](https://web.archive.org/about/privacy/full-privacy-policy)
+**[View our full privacy pollicy](https://web.archive.org/about/privacy/full-privacy-policy)**
