@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingsinseconds.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626230358id_/http%3A//www.savingsinseconds.com/pr-selective/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingsinseconds.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231225121id_/http%3A//www.savingsinseconds.com/pr-selective/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Savings in Seconds
 
