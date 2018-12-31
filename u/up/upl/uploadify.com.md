@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadify.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613050951id_/http%3A//www.uploadify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadify.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231075523id_/http%3A//www.uploadify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Uploadify
 
@@ -10,7 +10,7 @@ Reactive Apps is committed to protecting the privacy of visitors to our web site
 
 The following is an explanation of the types of information that are collected from visitors at this site.
 
-_Anonymous Information_ - Reactive Apps will track visitor activity to our site using IP addresses and set temporary cookies to track user sessions. This data helps us keep track of the number of visitors and help facilitate the dynamic nature of our site. This information is not connected in any way with personal information (name, address, etc.). The user’s identity remains anonymous with this type of information.
+_Anonymous Information_ – Reactive Apps will track visitor activity to our site using IP addresses and set temporary cookies to track user sessions. This data helps us keep track of the number of visitors and help facilitate the dynamic nature of our site. This information is not connected in any way with personal information (name, address, etc.). The user’s identity remains anonymous with this type of information.
 
 _Registration Information_ – If a visitor to our site fills out the Registration form, this information will be used to process any orders, or initiate contact with Reactive Apps only. The registrant has the choice of being added to email or postal mailing lists but is not required to do so. No one outside of Reactive Apps will ever have access to your personal information.
 
