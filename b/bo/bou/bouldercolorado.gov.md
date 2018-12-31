@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bouldercolorado.gov privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625194841id_/https%3A//bouldercolorado.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bouldercolorado.gov privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231185028id_/https%3A//bouldercolorado.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ During your visit to the City of Boulder website, the city gathers and stores th
   4. The date and time you visited the website.
   
 
-  5. The Web pages or services you accessed at the website.
+  5. The webpages or services you accessed at the website.
   
 
   6. The website you visited before coming to the City of Boulder website.
