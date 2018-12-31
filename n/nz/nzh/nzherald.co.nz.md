@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzherald.co.nz privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222083825id_/http%3A//www.nzme.co.nz/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzherald.co.nz privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231221101id_/https%3A//www.nzme.co.nz/about-us/privacy-policy) for the most accurate reproduction.*
 
 # NZME. - Privacy Policy
 
