@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smaato.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629112859id_/https%3A//www.smaato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smaato.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224626id_/https%3A//www.smaato.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Smaato
 
@@ -121,7 +121,7 @@ Please note that these platforms control how these settings work, so the above i
 
 Advertisers may also provide ways for you to opt out from, or limit their collection of, certain information from and about you. Please refer to the privacy policies for retailers, apps, and mobile websites to learn more about their privacy practices. 
 
-You may opt out from receiving promotional emails from us, such as emails to inform you about events and new services, by following the “unsubscribe” instructions in any promotional email you receive, or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c5a8a4b7aea0b1acaba285b6a8a4a4b1aaeba6aaa8). Please note, however, that we may still send you non-promotional emails relating to your relationship with us. 
+You may opt out from receiving promotional emails from us, such as emails to inform you about events and new services, by following the “unsubscribe” instructions in any promotional email you receive, or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3855594a535d4c51565f784b5559594c57165b5755). Please note, however, that we may still send you non-promotional emails relating to your relationship with us. 
 
 ## 5\. Privacy Practices for the Smaato Websites
 
@@ -175,7 +175,7 @@ With respect to aggregated or de-identified information, we may share such infor
 
 Generally speaking, we retain the information collected from the Smaato Websites and Smaato Ad Services for as long as necessary to achieve our objectives as detailed in this Policy, and to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-If you are a resident of the European Economic Area (EEA), Switzerland, or the United Kingdom (UK), you may obtain a copy of the information we have about you, and correct or amend such information, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a4d4d6cdd2c5c7dde4d7c9c5c5d0cb8ac7cbc9). You may read more about this and other rights in Section 12 below. 
+If you are a resident of the European Economic Area (EEA), Switzerland, or the United Kingdom (UK), you may obtain a copy of the information we have about you, and correct or amend such information, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#08787a617e696b71487b6569697c67266b6765). You may read more about this and other rights in Section 12 below. 
 
 ## 7\. Data Security
 
@@ -244,10 +244,10 @@ If you are a Client of ours and thus have an account with us, we will typically 
 
 The GDPR provides you with certain rights in respect to Personal Data that data controllers hold about you, including certain rights to access Personal Data, to request correction of the Personal Data, to request to restrict or delete Personal Data, and to object to our processing of your Personal Data (including profiling for online ad targeting). 
 
-  * Right to Access: If you wish to exercise your right to access Personal Data we process as a data controller, you may do so by requesting access through the e-mail address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0e7e7c67786f6d774e7d636f6f7a61206d6163). When we receive your request, we will provide you with current, step-by-step instructions to follow in order to obtain access. We will then assess requests to exercise data access rights on a case-by-case basis; in doing so, we consider the difficulty of verifying whether a mobile identifier and data we have linked to it truly and solely belongs to the data subject making the request, as well as the potential adverse effects on disclosure of personal data to the wrong individual. Because such improper disclosure would likely adversely affect the privacy rights and freedoms of the data subject, we may limit the Personal Data we make available. Please note that we will only grant requests submitted via email for Personal Data for which we are a data controller, as explained further below. Where we act as a data processor for one of our Clients, we will refer your request to that Client. Please identify the Client your request refers to (if possible), to simplify this process. 
+  * Right to Access: If you wish to exercise your right to access Personal Data we process as a data controller, you may do so by requesting access through the e-mail address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f383819a8592908ab3809e9292879cdd909c9e). When we receive your request, we will provide you with current, step-by-step instructions to follow in order to obtain access. We will then assess requests to exercise data access rights on a case-by-case basis; in doing so, we consider the difficulty of verifying whether a mobile identifier and data we have linked to it truly and solely belongs to the data subject making the request, as well as the potential adverse effects on disclosure of personal data to the wrong individual. Because such improper disclosure would likely adversely affect the privacy rights and freedoms of the data subject, we may limit the Personal Data we make available. Please note that we will only grant requests submitted via email for Personal Data for which we are a data controller, as explained further below. Where we act as a data processor for one of our Clients, we will refer your request to that Client. Please identify the Client your request refers to (if possible), to simplify this process. 
   * Right to Correct: If you wish to exercise your right to correct Personal Data, you may do so by contacting us at the contact information below. 
   * Right to Object to Processing or to Withdraw Consent: By using the device-based “opt-out” signals described in Section 4(b) above, you may withdraw consent for processing on which we rely on consent. If you do so, we will cease processing your Personal Data for purposes of our services within 30 days or less. We either collect these opt-out signals ourselves or receive them from the mobile apps we work with. 
-  * Right to Erasure. You also have the right to obtain the erasure of Personal Data concerning you that we hold as a data controller. The above opt-out process satisfies this right. When an End User opts-out through device settings, and we receive this signal from our Clients, the Personal Data we use to provide our services will be deleted within 30 days (if you have an Android device) or permanently rendered disconnected to your device (if you have an iOS device). We will also manually delete your Personal Data, subject our identity verification process mentioned above, if you prefer that we do so; please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5d2d2f342b3c3e241d2e303c3c2932733e3230) for further instructions on exercising this right manually. Please note, however, that we may retain copies of certain Personal Data on inactive or back-up files, for our own internal and necessary purposes, such as auditing, accounting and billing, legal, or bug detection. We will retain your Personal Data for the period necessary to fulfill any important purposes that we have in retaining it, principally regarding legal, auditing, accounting, and billing obligations. 
+  * Right to Erasure. You also have the right to obtain the erasure of Personal Data concerning you that we hold as a data controller. The above opt-out process satisfies this right. When an End User opts-out through device settings, and we receive this signal from our Clients, the Personal Data we use to provide our services will be deleted within 30 days (if you have an Android device) or permanently rendered disconnected to your device (if you have an iOS device). We will also manually delete your Personal Data, subject our identity verification process mentioned above, if you prefer that we do so; please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#acdcdec5dacdcfd5ecdfc1cdcdd8c382cfc3c1) for further instructions on exercising this right manually. Please note, however, that we may retain copies of certain Personal Data on inactive or back-up files, for our own internal and necessary purposes, such as auditing, accounting and billing, legal, or bug detection. We will retain your Personal Data for the period necessary to fulfill any important purposes that we have in retaining it, principally regarding legal, auditing, accounting, and billing obligations. 
   * Right to Lodge Complaints. You have the right to lodge a complaint with a supervisory authority. However, we hope that you will first consult with us, so that we may work with you to resolve any complaint or concern you might have. 
 
 
@@ -260,7 +260,7 @@ Smaato may act as either a data controller or a data processor in handling your 
 
 ### f. Questions or Concerns
 
-If you are a resident of the EEA, Switzerland, or the UK and have concerns regarding this Section 12, you may contact our data protection officer by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#18686a716e797b61586b7579796c77367b7775) or by post to the following address: 
+If you are a resident of the EEA, Switzerland, or the UK and have concerns regarding this Section 12, you may contact our data protection officer by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ed9d9f849b8c8e94ad9e808c8c9982c38e8280) or by post to the following address: 
 
 External Data Protection Officer  
 ePrivacy GmbH  
@@ -273,7 +273,7 @@ We may occasionally update this Policy to reflect changes to our privacy practic
 
 ## 14\. Contacting Us
 
-If you have any general questions regarding this Policy, you may contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3747455e4156544e77445a565643581954585a) or mailing the following address: 
+If you have any general questions regarding this Policy, you may contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9fefedf6e9fefce6dfecf2fefeebf0b1fcf0f2) or mailing the following address: 
 
 Smaato, Inc.  
 240 Stockton Street, 10th Floor  
