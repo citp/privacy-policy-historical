@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gleam.io privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625155225id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gleam.io privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231150948id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
 
 # Gleam Privacy Policy
 
@@ -203,7 +203,9 @@ If you are our Customer and your company is either located in the European Econo
 
 ### Data Retention Periods
 
-Gleam will not retain data longer than is necessary to fulfill the purposes for which it was collected or as required by applicable laws or regulations. For Campaign data, Gleam’s Customers have control of the purpose for collecting data, and the duration for which the Personal Data may be kept. When a User’s account is terminated or expired, all Personal Data collected through the platform will be deleted, as required by applicable law.
+Gleam will not retain data longer than is necessary to fulfill the purposes for which it was collected or as required by applicable laws or regulations. For Campaign data, Gleam’s Customers have control of the purpose for collecting data, and the duration for which the Personal Data may be kept. When a User’s account is terminated or expired, all Personal Data collected through the platform will be deleted, as required by applicable law. 
+
+If a Customer or User account has been suspended for a Terms of Service violation, Gleam will retain the information necessary to continue to enforce this suspension for up to 10 years.
 
 ### Privacy Controls & Choices
 
