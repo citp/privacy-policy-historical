@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the signalvnoise.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630184138id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signalvnoise.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231184110id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
 
 # Medium Privacy Policy – Medium Policy – Medium
+
+[
+
+](https://medium.com/@Medium?source=post_header_lockup)
 
 **Effective Date: May 25, 2018**
 
@@ -70,7 +74,7 @@ If we are involved in a merger, acquisition, bankruptcy, reorganization or sale 
 
 Sometimes we’ll send you emails about your account, service changes or new policies. You can’t opt out of this type of “transactional” email (unless you delete your account). But, you can opt out of non-administrative emails such as digests, newsletters, and activity notifications through your account’s “[Settings](https://help.medium.com/hc/en-us/articles/115004745907-How-can-I-turn-off-emails-from-Medium-)” page
 
-When your interact with an email sent from Medium (such as opening an email or clicking on a particular link in an email), we may receive information about that interaction. We won’t email you to ask for your password or other account information. If you receive such an email, please send it to us so we can investigate.
+When you interact with an email sent from Medium (such as opening an email or clicking on a particular link in an email), we may receive information about that interaction. We won’t email you to ask for your password or other account information. If you receive such an email, please send it to us so we can investigate.
 
 #### Changes to this Policy
 
@@ -155,7 +159,7 @@ Partner authors:
 
 Medium shares minimal personal data with third-party processors in order to provide the Services. These processors offer at least the same level of data protection as that set out in this statement. This includes the following categories of recipients:
 
-  * Hosting, Storage, & Other Infrasructure
+  * Hosting, Storage, & Other Infrastructure
   * Security
   * Analytics
   * Communication & Support
