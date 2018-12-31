@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whitehouse.gov privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629171238id_/https%3A//www.whitehouse.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitehouse.gov privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231205526id_/https%3A//www.whitehouse.gov/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The White House
 
 THE WHITE HOUSE IS COMMITTED TO PROTECTING INDIVIDUAL PRIVACY AND SECURING THE PERSONAL INFORMATION MADE AVAILABLE TO US WHEN YOU VISIT WHITEHOUSE.GOV OR VISIT WHITE HOUSE PAGES HOSTED BY OTHER SITES (SUCH AS OUR OFFICIAL PROFILES ON SOCIAL NETWORKING SITES). THIS PRIVACY POLICY DESCRIBES WHAT INFORMATION IS MADE AVAILABLE TO THE WHITE HOUSE AND HOW THAT INFORMATION IS USED AND RETAINED, AND PROVIDES INFORMATION ON:
 
