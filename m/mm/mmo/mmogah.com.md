@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmogah.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625143333id_/https%3A//www.mmogah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmogah.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231135454id_/https%3A//www.mmogah.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Mmogah-Always Trustworthy
 
@@ -32,7 +32,7 @@ The email address you provide for order processing, may be used to send you info
 
 ####  Choice and Opt-Out
 
-If you no longer wish to receive the mmogah.com's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the mmogah.com at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you no longer wish to receive the mmogah.com's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the mmogah.com at support@mmogah.com
 
 #### Privacy Policy Mmogah is committed to protecting your privacy and safeguarding the privacy of your personal data.
 
