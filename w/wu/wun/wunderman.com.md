@@ -1,45 +1,108 @@
-> *The following text is extracted and transformed from the wunderman.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213141410id_/http%3A//wunderman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wunderman.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231132348id_/https%3A//www.wunderman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wunderman
 
-**This website is provided by Wunderman. We take very seriously the privacy of our website users and the security of their personal information.**
+Last Updated May 2018
 
-For your convenience, this website contains links to a number of other websites, both inside and outside our company. The privacy policies and procedures described here do not apply to those sites; we suggest contacting those sites directly for information on their data collection and distribution policies.
+**This website[www.wunderman.com](https://www.wunderman.com/) ("Site") is operated by Wunderman Worldwide LLC ("Wunderman", "We", "Us"), a WPP Company. This policy only applies to the sites where it is posted. We take the privacy of our website users and the security of their personal information very seriously and are committed to best practices.**
 
-The purpose of this privacy policy is to set out the principles governing our use of personal information that we may obtain about you. By using the websites, or by registering as a user of the services that we provide, you agree to this use. We ask you to read this privacy policy carefully.
+The purpose of this privacy policy is to set out the principles governing our use of personal information that we may obtain about you. We ask you to read this privacy policy carefully. [Please click here to learn more about how we use cookies.](https://web.archive.org/cookie-policy)
 
-We may change our privacy policy from time to time. We therefore ask you to check it occasionally to ensure that you are aware of the most recent version that will apply each time you access this website.
+We may change our privacy policy from time to time. Please check it occasionally to ensure that you are aware of the most recent version that will apply when you access this website.
 
-## Personal Information Collection and Use
+## PERSONAL INFORMATION COLLECTION AND USE
 
-Wunderman may collect and store personally identifiable information, such as your name or email address, when it is voluntarily submitted to us at this website. Wunderman and the companies we hire will use this information to comply with your request for information or as otherwise disclosed to you when you submit your information.
+**What information do we collect?**
 
-From time to time, we may refer to that information to better understand your needs and how we can improve our services. We may use that information to contact you. We will not otherwise transfer the personally identifiable information you provide at this website to any third party unless otherwise disclosed to you. Please note we do reserve the right to transfer your personally identifiable information and other information to our successors in business and purchasers of site assets.
+At times, we may request that you voluntarily supply us with personal information or you may choose to provide us with your personal information by emailing us via the "Careers" and "Contact" sections of this website. Generally, this information is requested or provided when you want us to provide you with information.
 
-Wunderman may also collect and store aggregate or anonymous information about user contact with and use of the Site. In addition, at time, we send your Web browser a “cookie,” a small data file that’s stored on your hard drive, to help us provide you with customized services. We do not use cookies to retrieve personal information from your computer. Information obtained in connection with the Site may be intermingled with and used by us in conjunction with information obtained through sources other than the Site, including both offline and online sources.
+We may gather the following information about you when you use this website:
 
-We may use the aggregate or anonymous information we collect about our customers, traffic patterns, and related site information to better design our Site and to share with reputable third-party vendors.
+  * Name
+  * Address
+  * Email address
+  * Telephone number
+  * IP address (a unique identifier for your computer or other device)
+  * Mobile device ID
+  * Such other personal information provided by you when contacting us via the "Careers" and "Contact" sections of this website, email, phone or otherwise. For example, when submitting a job application to us you may submit your contact details together with your resume or CV (and this will include your career history and may include sensitive personal information e.g. ethnic origin)
+  * We may also ask for additional information to assist us with our recruitment process and in the event you are offered a job.
 
-## Opt-out
 
-You may ask us to delete any information about you and cease further contact at any time by sending us a request marked “Privacy-Urgent,” address as follows: [webmaster@wunderman.com](mailto:webmaster@wunderman.com).
 
-## Security
+**How do we use it?**
 
-We have a commitment to taking reasonable steps to ensure the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put into place appropriate physical, and electronic procedures to safeguard and secure information we collect online.
+We will use your personal information in the following ways. We are also required by law to state a “legal basis for processing”, i.e. to tell you on what grounds we are allowed to use your information, and this is also set out below:
 
-## Children’s Privacy
+How we will use your personal information | Our legal basis for processing  
+---|---  
+To provide you with information and materials that you have requested e.g. via our "Contact" section. | Consent – we only use your personal information for this purpose if you have asked us to do so. You can withdraw your consent at any time.  
+We may also send you information and materials which we determine would be of interest or relevant to you such as new business information, newsletters, bulletins etc.; | Our legitimate interests - we use your business-related contact information such as your work email address to communicate such information to you.  
+To respond to specific queries you may raise regarding Wunderman and its various operating companies and brands; | Consent – we only use your personal information for this purpose if you have asked us to do so. You can withdraw your consent at any time.  
+To provide you with better ways of accessing information from this website; | Our legitimate interests – we use your personal information to help us to deliver the best online experience to you and other website users.  
+To process and consider your queries and requests such as those submitted via or pursuant to the "Contact" and "Careers" section, such as job applications.
 
-Protecting the privacy of the young, i.e., children under the age of 13, is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our Site is structured to attract anyone under 13. If a child has provided us with personal information, we ask that a parent or guardian of the child contact us at [webmaster@wunderman.com](mailto:webmaster@wunderman.com) if they would like the information submitted by a child deleted from our database. We will use all reasonable efforts to delete such information from our database.
+If you have asked us to keep you informed of other opportunities at Wunderman, we may periodically contact you by any means provided to or available to us (such as email, post SMS, social media, phone) to tell you about these;
 
-## Privacy Precautionary Warning
+| Our legitimate interests – we use your personal information to assess the information you have submitted to us and to communicate and respond accordingly. For example, if you submit a job application, we will need to keep you updated throughout the application process.  
+To allow you to submit information to our new business teams; | Our legitimate interests – we only use your personal information to assess the information submitted for new business purposes.  
+  
+For how we use your information that is collected using cookies and similar technologies please [see the "Cookies" page here](https://web.archive.org/cookie-policy).
 
-Please note that no data transmission over the Internet is 100% secure. As a result, we cannot guarantee the security of the information that you transmit via our online services. Please note that we reserve the right to access and /or disclose the user information discussed herein (including personal information) as required by courts and/or administrative agencies and to the extent required to permit us to investigate suspected fraud, harassment or other violations of law or our Site Terms of Use or policies.
+Wunderman may also collect and store aggregate or anonymous information about a user’s interaction with the Site.
 
-## Consent
+We may use this aggregate or anonymous information we collect about our customers, traffic patterns, and related site information to better design our Site and to share with reputable third-party vendors. Please note, aggregate and anonymous information is not personal information and cannot directly or indirectly identify an individual on its own.
 
-By using our Site, you consent to the collection, use, and storage of your personal and non-personal information as described in this policy. You further authorize the export of personal information to the USA and its storage and use as specified in this policy when you provide such information to us. This policy and all legal obligations of Wunderman are subject to the laws of New York and the USA, regardless of the location of any user. Any claims or complaints must be filed in the USA in the State of New York. We may amend our Privacy Policy, but if we decide to change our Privacy Policy, we will post those changes on this page, so you are always aware of what information we collect, how we use it and under what circumstances we may disclose it.
+## LINKS TO OTHER SITES
 
-## More Information
+For your convenience, this website may contain links to other websites as well as to our respective social media accounts on YouTube and Facebook. This Privacy Policy does not apply to those other websites. We recommend that you read the respective privacy notices to obtain information about data collection and data processing.
 
-For additional information about our privacy policy, please contact [webmaster@wunderman.com](mailto:webmaster@wunderman.com).
+## SHARING YOUR INFORMATION
+
+**Do we pass your information to third parties?**
+
+  * We may send your personal information to other Wunderman and WPP group companies, affiliates and third parties to help us process your personal information for the purposes set out in this notice. Further details of our group companies can be found [here](https://www.wpp.com/wpp/companies/?PageIndex=0&;SortBy=Name&PageSize=15&SortReverse=A-Z&Mode=company)
+  * We may disclose your personal information if we or any of our assets are the subject of a sale or similar corporate transaction. We will ensure that the third parties who receive your personal information are required to keep it confidential.
+  * We may also share your personal information with third parties where required for processing. For example, when applying for a job through our website, we work with a company called iCims in some countries to help us manage the application process. To learn more about the privacy practices of iCims, please [click here](https://www.icims.com/legal/privacy-policy-website)
+  * We may disclose personal information to third parties when we reasonably believe we are required or permitted by law (such as third parties who provide services on our behalf), and in order to investigate, prevent, or take action regarding suspected or actual unlawful or otherwise prohibited activities, including, but not limited to, fraud.
+
+
+
+We will always take steps to require such third parties to keep your personal information confidential.
+
+**How long do we keep your information?**
+
+We only keep your personal information for as long as we need to, to be able to use it for the reasons given in this privacy notice, and for as long as we are required to keep it by law. For example, following a job application we may keep your information to inform you of any other opportunities that become available; however, we will only keep your information for a limited period and your details will not be kept longer than is reasonably necessary or as required by law.
+
+## SECURITY
+
+**How do we protect your information?**
+
+We take appropriate technical and organisational measures to ensure that your personal information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.
+
+## CHILDREN’S PRIVACY
+
+This web site is not intended or designed to attract children under the age of 16. We do not knowingly collect personal information from or about any person under the age of 16. If you are under 16 years old and wish to ask a question or use this site in any way which requires you to submit your personal information, please get your parent or guardian to do so on your behalf. Likewise, if you are a parent or guardian and think your child may have submitted their personal information to us by mistake, please let us know, [webmaster@wunderman.com](mailto:webmaster@wunderman.com), and we will delete that data.
+
+## WHERE DO WE SEND YOUR INFORMATION?
+
+We are a global company and therefore we may transfer your personal information to countries around the world including the US and other countries outside Europe. We will, where the country to which your data is transferred has not been found to provide an adequate level of protection, put in place appropriate safeguards (we use standard contractual clauses) to ensure your information is protected.
+
+## YOUR RIGHTS
+
+You are entitled to ask:
+
+1\. for a copy of the personal information we hold about you, and details about how we are processing your personal information;
+
+2\. to have any inaccuracies in your personal information corrected;
+
+3\. if we are processing your personal information by automated means and on the basis of your consent (see "How do we use it?", above), for us to provide your personal information to you in a structured, commonly-used and machine-readable format. You can also ask us to provide your personal information directly to a third party in this format, and, if technically feasible, we will do so; and
+
+4\. to have your personal information erased, or for our use of it to be restricted (for example, if your preferences change, or if you don’t want us to send you the information you have requested).
+
+Please contact us using the details set out below if you would like to exercise any of these rights.
+
+You also have the right to make a complaint to the supervisory authority if you’re not happy with how we’ve handled your personal information. Please refer to the local data protection authority where you are located. For example, if you are in the UK, the supervisory authority is the Information Commissioner's Office (ICO) ([http://www.ico.org.uk](https://www.ico.org.uk/)); In France the supervisory authority is the Commission nationale de l'informatique et des libertés (CNIL) (<https://www.cnil.fr/>).
+
+## HOW TO CONTACT US
+
+If you wish to exercise any of your rights in relation to your personal information or if you have any queries about how we use your personal information, please let us know by contacting us via the contact section of our website or via [webmaster@wunderman.com](mailto:webmaster@wunderman.com).
