@@ -1,96 +1,247 @@
-> *The following text is extracted and transformed from the freshkey.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530133819id_/http%3A//digitalmarketer.com/more-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshkey.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231210810id_/https%3A//www.digitalmarketer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Digital Marketer | It's just smarter
+# Privacy Policy - DigitalMarketer
 
-Privacy Policy – DigitalMarketer.com
+Effective date: August 28, 2018
 
-(Last Updated: April 16, 2011)
+**NOTICE CONCERNING TRAFFIC AND CONVERSION SUMMIT. Please be aware that Traffic & Conversion Summit (including related assets) will, effective from or about August 29, 2018, be transferred to a new entity named Traffic & Conversion Summit, LLC, a Delaware limited liability company (“T&C”). As a result of this transfer, all T&C related data, including personal data collected by us through the means described below, will be owned by T&C and may be shared with its affiliates. You can view Traffic & Conversion Summit, LLC’s privacy policy [here](http://trafficandconversionsummit.com/privacy-policy/).**
 
 DigitalMarketer.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-“You” or “Your” means you as a participant in or as a user of the DigitalMarketer .com website. “We” or “Our” or “Us” means DigitalMarketer.com. “Our site” means DigitalMarketer.com.
+Digital Marketer Labs, LLC (“us”, “we”, or “our”) operates the www.digitalmarketer.com website (the “Service”).
 
-All information transmitted, printed or otherwise submitted to DigitalMarketer.com via this website shall be deemed to be the property of DigitalMarketer.com and DigitalMarketer.com shall be free to use such information for any lawful purpose as detailed herein.
+DigitalMarketer.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website, products and subscriptions.
 
-This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from www.digitalmarketer.com
 
-**Section 1: Collected Information**  
-We automatically collect and/or track the following:
+## **Definitions:**
 
-  1. Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);
-  2. information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information;
-  3. information, user specific or aggregate, on what pages our visitors access; and
-  4. E-mail addresses of visitors that communicate with DigitalMarketer.com via e-mail.
-
-
-
-**Section 2: Use of Data Collected**  
-We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
-
-**Section 3: Disclosure of Data to Third Parties**  
-If you choose to provide personal information, it will be used for the following purposes:
-
-  1. considering you for a DigitalMarketer.com product;
-  2. as required by law; and
-  3. for marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
+  * **Service**  
+Service is the www.digitalmarketer.com website operated by Digital Marketer Labs, LLC
+  * ****Personal Data  
+****Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+  * ****Usage Data  
+****Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+  * ****Cookies  
+****Cookies are small pieces of data stored on your device (computer or mobile device).
+  * ****Data Controller  
+****Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+  * **Data Processors (or Service Providers)  
+**Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.We may use the services of various Service Providers in order to process your data more effectively.
+  * ****Data Subject (or User)  
+****Data Subject is any living individual who is using our Service and is the subject of Personal Data.
 
 
 
-**Section 4: Your Opt-Out Rights**  
-You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
+## **Information We Collect And Use**
 
-**Section 5: We Do Not Intend to Collect Data from Children**  
-The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside DigitalMarketer.com. No part of DigitalMarketer.com’s web site is structured to attract anyone under the age of 18.
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-**Section 6: Our Right to Contact You**  
-We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
+**Types of Data Collected**
 
-**Section 7: Our Right to Change**  
-We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
+#### Personal Data
 
-**Section 8: Our Contact Information**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
-**Section 9:   Anti Spam Policy. Can-Spam Act Compliance**
-
-DigitalMarketer.com is dedicated to ensuring compliance with the ‘Can-Spam Act’, which took effect January 1, 2004. You may receive email from DigitalMarketer.com in the following circumstances:
-
-  1. Acknowledging your application has been received and requesting additional action
-  2. Requests for additional information to support your current application
-  3. Response to your inquiries regarding the status of your transactional requests
-  4. Thanking you for your valued business
-  5. Advertisements for our products, services, changes in services, new product availability
-  6. Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers
-
-
-
-To ensure compliance with the Can-Spam Act, DigitalMarketer.com has implemented the following guidelines for email delivery:
-
-  1. All emails sent to you by DigitalMarketer.com will clearly identify DigitalMarketer.com as the sender. FROM / SENDER: someone@DigitalMarketer.com or someone@drivingtraffic.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @DigitalMarketer.com or @DrivingTraffic.com).
-  2. The Subject Line of any email you receive will always accurately describe the subject matter of the email.
-  3. Any email from DigitalMarketer.com will include the ability to unsubscribe from future email messages.
-  4. Unsubscribing will ensure the customer is removed from ALL lists at DigitalMarketer.com; this excludes customer service emails regarding the processing and status of a current product.
-  5. All emails sent to you directly by DigitalMarketer.com include valid postal address information in the footer.
-  6. All third party marketing partners are required to comply with the Can-Spam Act.
-  7. Emails sent to you directly by DigitalMarketer.com will include an email address and physical address where you can send suggestions, complaints or other correspondence.
+  * First name and last name
+  * Email address
+  * Phone number
+  * Business name
+  * Website URL
+  * Address, State, Province, ZIP/Postal code, City
+  * Any personal data you post on our website
+  * Any personal data you post on our website
+  * Data about how you use our website
+  * Technical data such as your IP address, your login data, details about your browser, time zone settings and other technology on the devise you use to access our website
+  * Your marketing and communication preferences
+  * Any information that you directly provide to us whether through our contact form ,over the phone, by email or otherwise
+  * Photographs of you at events
+  * Cookies and Usage Data
 
 
 
-**Section 10: Information for ISPs**  
-Web site: DigitalMarketer.com  
-Email Address: supportATdrivingtrafficDOTcom  
-(Please replace “AT” with @ and “DOT” with .)
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us
 
-DigitalMarketer.com understands consumers’ concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies.DigitalMarketer.com and its affiliated sites use only an “opt-in or opt out” method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. DigitalMarketer.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
+#### Usage Data
 
-From time to time, DigitalMarketer.com will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things,
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-  1. that the data was collected voluntarily from individuals on website registrations and co-registrations,
-  2. that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and
-  3. that DigitalMarketer.com has the right to send marketing offers to the individuals.
+#### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.**  We use Session Cookies to operate our Service.
+  * **Preference Cookies.**  We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.**  We use Security Cookies for security purposes.
 
 
 
-We hope this information satisfies any questions or concerns you may have regarding the email practices of DigitalMarketer.com. If you have additional questions or wish to discuss this matter further, please contact us at: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
+## Use of Data
+
+Digital Marketer Labs, LLC uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), Digital Marketer Labs, LLC legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+Digital Marketer Labs, LLC may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * For payment processing purposes
+  * To comply with the law
+
+
+
+## Retention of Data
+
+Digital Marketer Labs, LLC will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Digital Marketer Labs, LLC will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Digital Marketer Labs, LLC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure of Data
+
+### Business Transaction
+
+If Digital Marketer Labs, LLC is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+### Disclosure for Law Enforcement
+
+Under certain circumstances, Digital Marketer Labs, LLC may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+### Legal Requirements
+
+Digital Marketer Labs, LLC may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Digital Marketer Labs, LLC
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## “Do Not Track” Signals
+
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Digital Marketer Labs, LLC aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.**  Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+  * **The right of rectification.**  You have the right to have your information rectified if that information is inaccurate or incomplete.
+  * **The right to object.**  You have the right to object to our processing of your Personal Data.
+  * **The right of restriction.**  You have the right to request that we restrict the processing of your personal information.
+  * **The right to data portability.**  You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+  * **The right to withdraw consent.**  You also have the right to withdraw your consent at any time where Digital Marketer Labs, LLC relied on your consent to process your personal information.
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  * **Google Analytics** Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+
+
+### Behavioral Remarketing
+
+Digital Marketer Labs, LLC uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+  * **Google AdWords** Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+  * **Twitter** Twitter remarketing service is provided by Twitter Inc.You can opt-out from Twitter’s interest-based ads by following their instructions: <https://support.twitter.com/articles/20170405>You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: <https://twitter.com/privacy>
+  * **Facebook** Facebook remarketing service is provided by Facebook Inc.You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: <https://www.facebook.com/privacy/explanation>
+
+
+
+### Payments
+
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+  * ****Vanity**** Their Privacy Policy can be viewed at [https://www.vantiv.com/privacy-policy](https://www.nmi.com/privacy-policy/)
+  * **NMI** Their Privacy Policy can be viewed at <https://www.nmi.com/privacy-policy>
+  * ****PayPal**** Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+
+
+
+## Links to Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support@digitalmarketer.com or by mail at DigitalMarketer
+
+[Re: Privacy Compliance Officer]
+
+[4330 Gaines Ranch Loop Austin TX United States 78735]
