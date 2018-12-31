@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xrite.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625090846id_/https%3A//www.xrite.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xrite.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231083316id_/https%3A//www.xrite.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### EFFECTIVE 16 MAY 2018
+### Updated November 1 2018
 
 This Online Privacy Policy (“Privacy Policy”) explains how X-Rite, Inc. and its X-Rite-branded affiliates (“X-Rite”) handle Personal Data provided to us on websites, mobile sites, mobile applications, and other digital services and products controlled by X-Rite that link to this Privacy Policy (collectively, “X-Rite Sites”). X-Rite is the data controller for the processing of Personal Data under applicable law.
 
@@ -10,7 +10,7 @@ This Privacy Policy does not apply to X-Rite Sites that do not link to this Priv
 
 ### Summary
 
-This summary section provides a brief overview of our Privacy Policy. Please read the [full Privacy Policy](https://web.archive.org/web/20180625090846id_/https%3A//www.xrite.com/legal/privacy-policy-detail) for more detailed information.
+This summary section provides a brief overview of our Privacy Policy. Please read the [full Privacy Policy](https://web.archive.org/web/20181231083316id_/https%3A//www.xrite.com/legal/privacy-policy-detail) for more detailed information.
 
   * Information We Collect
   * How We Use Your Information
