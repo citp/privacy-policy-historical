@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibiblio.org privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517150740id_/https%3A//www.ibiblio.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibiblio.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231080524id_/https%3A//www.ibiblio.org/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – .
+# Privacy Policy – ibiblio.org
 
 ibiblio and The University of North Carolina at Chapel Hill are committed to protecting your privacy, and we will not disclose your personal information to third parties unless required to do so by law. By using this website, you agree to abide by this Privacy Policy as well as any other applicable [Information Technology Services policies](http://its.unc.edu/about-us/how-we-operate/).
 
