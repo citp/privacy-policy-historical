@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the definition.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625104829id_/http%3A//definition.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definition.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231101702id_/http%3A//definition.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Definition.org
 
@@ -33,25 +33,27 @@ We will primarily use Your Personally Identifiable Information to provide Our Se
 
 ### Release of Information and Opt-Out
 
-We reserve the right to share the postal addresses, phone numbers or email addresses of users with third parties, including advertisers. To prevent Us from sharing this information in the future, please email Us at: [admin@Definition.org](mailto:admin@Definition.org). We will not share users’ credit card numbers. Occasionally, we send e-mail messages to users to inform them of features and services available on our Sites.
+We reserve the right to share the postal addresses, phone numbers or email addresses of users with third parties, including advertisers. To prevent Us from sharing this information in the future, please email Us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1677727b7f78565273707f787f627f797838796471). We will not share users’ credit card numbers. Occasionally, we send e-mail messages to users to inform them of features and services available on our Sites.
 
 Occasionally We may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use Our Services for illegal activities. We reserve the right to report to law enforcement agencies any activities that We in good faith believe to be unlawful.
 
 We may also provide Non-Personally Identifiable Information about Our customers’ sales, traffic patterns, and related Site information to third party advertisers, but these statistics do not include any Personally Identifiable Information.
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>.
+
 ### California Privacy Rights
 
 Under California’s “Shine the Light” law [California Civil Code Section 1798.83], California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from Us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2008 will receive information regarding 2007 sharing activities).
 
-To obtain this information on behalf of Definition.org, please send an email message to [admin@Definition.org](mailto:admin@Definition.org) with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Alternatively, you can request the information by writing to us at 255 W. 36th Street, Suite 1105, New York, New York 10018. To prevent Us from sharing Personally Identifiable Information with third party advertisers in the future, please indicate this preference by sending Us an email at: [admin@Definition.org](mailto:admin@Definition.org).
+To obtain this information on behalf of Definition.org, please send an email message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8dece9e0e4e3cdc9e8ebe4e3e4f9e4e2e3a3e2ffea) with “Request for California Privacy Information” in the subject line and in the body of your message. We will provide the requested information to you at your email address in response. Alternatively, you can request the information by writing to us at 255 W. 36th Street, Suite 1105, New York, New York 10018. To prevent Us from sharing Personally Identifiable Information with third party advertisers in the future, please indicate this preference by sending Us an email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3b5a5f5652557b7f5e5d5255524f5254551554495c).
 
 Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
 
-In accordance with the “Shine the Light” requirements, California residents are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; by phone at [(916) 445-1254](tel:9164451254); toll free at [1-800-952-5210](tel:18009525210); or by e-mail to: [dca@dca.ca.org](mailto:dca@dca.ca.org).
+In accordance with the “Shine the Light” requirements, California residents are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; by phone at [(916) 445-1254](tel:9164451254); toll free at [1-800-952-5210](tel:18009525210); or by e-mail to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7d191e1c3d191e1c531e1c53120f1a).
 
 ### Updating and Correcting Information
 
-In the event that You provide Us with Personally Identifiable Information, We believe You should have the ability to access and edit it. If You provide Us with Personally Identifiable Information, You may also access and correct Your personal information and privacy preferences by emailing us at [admin@Definition.org](mailto:admin@Definition.org) or writing Us at: 255 W. 36th Street, Suite 1105, New York, New York 10018. Please include Your name, address, and/or email address when You contact Us. We encourage You to promptly update Your Personally Identifiable Information if it changes. If You provide Us with Personally Identifiable Information, You may ask to have the information deleted or removed; however, because We keep track of past transactions, You cannot delete information associated with past transactions on this Site. In addition, it may be impossible to completely delete Your information without some residual information because of backups.
+In the event that You provide Us with Personally Identifiable Information, We believe You should have the ability to access and edit it. If You provide Us with Personally Identifiable Information, You may also access and correct Your personal information and privacy preferences by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6b0a0f0602052b2f0e0d0205021f0204054504190c) or writing Us at: 255 W. 36th Street, Suite 1105, New York, New York 10018. Please include Your name, address, and/or email address when You contact Us. We encourage You to promptly update Your Personally Identifiable Information if it changes. If You provide Us with Personally Identifiable Information, You may ask to have the information deleted or removed; however, because We keep track of past transactions, You cannot delete information associated with past transactions on this Site. In addition, it may be impossible to completely delete Your information without some residual information because of backups.
 
 ### User Choices on Collection and Use of Information
 
@@ -73,7 +75,7 @@ We may use an outside ad serving company to display banner advertisements on Our
 
 ### Privacy Policies of Third Party Sites
 
-Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information We collect from You. Other Sites accessible through Our Site have their own privacy policies and data collection, use and disclosure practices. Please consult each Site’s privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other companies which place advertising on Our Site may collect information about You when You view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if You have any questions about their use of the information that they collect. 
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information We collect from You. Other Sites accessible through Our Site have their own privacy policies and data collection, use and disclosure practices. Please consult each Site’s privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other companies which place advertising on Our Site may collect information about You when You view or click on their advertising through the use of cookies. We cannot control this collection of information. You should contact these advertisers directly if You have any questions about their use of the information that they collect.
 
 ### Miscellaneous Privacy Issues
 
@@ -87,6 +89,6 @@ Definition.org
 c/o Spine Media, LLC  
 Attn: Privacy Compliance  
 255 W. 36th Street, Suite 1105  
-New York, NY 10018 
+New York, NY 10018
 
-You may also contact Us by email at [admin@Definition.org](mailto:admin@definition.org).
+You may also contact Us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3150555c585f71555457585f5845585e5f1f5e4356).
