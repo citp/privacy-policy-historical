@@ -1,56 +1,226 @@
-> *The following text is extracted and transformed from the technabob.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306043224id_/https%3A//technabob.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technabob.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231215901id_/https%3A//technabob.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Technabob
 
-Please read this Privacy & Cookie Policy carefully before using or proceeding to access this website. Your use of this website indicates you have read and understood this Privacy & Cookie Policy and indicates your agreement to abide by the terms herein.
+Effective date: May 18, 2018
 
-**INFORMATION GATHERED.** Awesomer Media (“Company” or “we”) collects certain anonymous data regarding the usage of the website. This information does not personally identify users, by itself or in combination with other information, and is gathered to improve the performance of the website. By way of example, we may use services such as Google Analytics and Chartbeat to collect aggregate information on unique visits, pageviews, browsers used, IP addresses, and similar information. In addition, the website uses cookies to store information about visitor preferences, record user-specific information on which pages the user accesses or visits, and customize content based on the visitor’s browser type or other information that the visitor sends via their browser.
+Awesomer Media (“us”, “we”, or “our”) operates the https://technabob.com website (the “Service”).
 
-Additionally, visitors who submit information via our Contact, Suggest Story, Email This, and similar forms, or who subscribe to our mailing list, will have their email addresses, IP addresses, and optionally, Twitter handle, recorded; these are collected so that we may reply to the submitter if they have a question or comment, to reduce spam, to credit the story submitter if we post a suggestion, and to send the requested emails to the mailing list subscriber. In all such cases you have the option of providing us with personally identifiable information. Users who choose to sign up for a mailing list will receive regular emails and we may, from time to time, track user email usage in a continued effort to improve our services.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-Except as described below, we will never sell or otherwise distribute your email address, IP address, or any other identifying information to outside parties unless required by law.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
 
-In the event of a sponsored contest, giveaway, or other similar post, we may collect and share additional data with the sponsor. Refer to the terms and conditions on the specific contest entry form for full details.
+## Definitions
 
-**COOKIES.**  We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.
-
-**OTHER DISCLOSURE OF INFORMATION.  **We may disclose personally identifiable information in order to respond to a subpoena, court order or other such request. We may also provide such personally identifiable information in response to a law enforcement agency’s request or as otherwise required by law. Your personally identifiable information may be provided to a party if we file for bankruptcy, or there is a transfer of the assets or ownership of the Company in connection with proposed or consummated corporate reorganizations, such as mergers or acquisitions.
-
-**ADVERTISING.  **Third party companies that place advertising on our website may collect information about you when you view or click on their advertising through the use of cookies and web beacons or similar technology to collect information in the course of advertising being served on the website. We cannot control this collection of information. You should contact these entities directly if you have any questions about their use of the information that they collect.
-
-Our advertising partners include, but are not limited to:
-
-  1. Google/DoubleClick AdExchange
-  2. Mode Media
-  3. Ziff Davis
-  4. Technorati Media Network
-  5. Amazon
-  6. Digital Trends Network
-  7. Sovrn
-  8. SkimLinks
-
+  * **Service**
+    * Service is the https://technabob.com website operated by Awesomer Media
+  * **Personal Data**
+    * Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+  * **Usage Data**
+    * Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+  * **Cookies**
+    * Cookies are small pieces of data stored on your device (computer or mobile device).
+  * **Data Controller**
+    * Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+  * **Data Processors (or Service Providers)**
+    * Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.We may use the services of various Service Providers in order to process your data more effectively.
+  * **Data Subject (or User)**
+    * Data Subject is any living individual who is using our Service and is the subject of Personal Data.
+  * 
 
 
-From time-to-time, we may embed text or image hyperlinks to these advertisers and affiliated partners, and we may be compensated for views, clicks or purchases made via these hyperlinks. These third-party ad servers or ad networks use technology to send the advertisements and links that appear on the website directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or web beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements or to personalize the advertising content that you see. We have no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+## Information Collection And Use
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-**NOTICE REGARDING ONLINE BEHAVIORAL ADVERTISING.  **We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
+### Types of Data Collected
 
-**DOUBLECLICK DART COOKIE.** Google, as a third party vendor, uses cookies to serve ads on the website. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to this website and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/privacy_ads.html>
+#### Personal Data
 
-**MOBILE DEVICE ADVERTISING.** Some third-party companies, such as Google, enable remarketing of ads using mobile device identifiers designated for advertising (“advertising-specific device identifier”). We will collect and pass to third parties advertising-specific device identifiers unless you have opted-out of ad tracking for your device. Details on how to opt out of such tracking may be found at your device manufacturer’s website. If you have opted out of ad tracking and wish to reset the identifier to disassociate the device from remarketing data that was collected and passed before the opt-out, please visit your device manufacturer’s website for details on how to do so.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
-**SECURITY**. We take appropriate steps to ensure data privacy and security including through various hardware and software methodologies. However, we cannot guarantee the security of any information that is disclosed online.
+  * Email address
+  * Cookies and Usage Data
 
-******OTHER WEBSITES.  **Please be aware that the website may contain links to or embedded content from other sites on the Internet that are owned and operated by third parties. We are not responsible for the privacy policies of websites to which we link. If you provide any information to such third parties, different rules regarding the collection and use of your personal information will apply. We strongly suggest you review such third party’s privacy policies before providing any data to them. We are not responsible for the policies or practices of third parties.
 
-**USE BY CHILDREN**. We do not knowingly collect personal information from children under the age of 13. Children are not permitted to use the Company website or services, and we request that children under the age of 13 not submit any personal information to the website. Since information regarding children under the age of 13 is not collected, we do not knowingly distribute personal information regarding children under the age of 13.
 
-**MODIFICATIONS OF THE PRIVACY POLICY.** We reserve the right to modify its privacy policy at any time and will notify you by posting an amendment to the privacy policy on the website. Such modifications will become effective on the day they are posted. We encourage you to frequently review the privacy policy for any modifications.
+We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-**CORRECTIONS AND UPDATES.** If you have any questions or suggestions regarding our Privacy Policy, please contact the editor of the website in question or send an email to contact@theawesomer.com
+#### Usage Data
 
-**EFFECTIVE DATE: 7/30/2015**
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-* * *
+#### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.**  We use Session Cookies to operate our Service.
+  * **Preference Cookies.**  We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.**  We use Security Cookies for security purposes.
+  * **Advertising Cookies.**  Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+
+
+
+## Use of Data
+
+Awesomer Media uses the collected data for various purposes:
+
+  * To provide and maintain our Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer support
+  * To gather analysis or valuable information so that we can improve our Service
+  * To monitor the usage of our Service
+  * To detect, prevent and address technical issues
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+
+
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), Awesomer Media legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+Awesomer Media may process your Personal Data because:
+
+  * We need to perform a contract with you
+  * You have given us permission to do so
+  * The processing is in our legitimate interests and it’s not overridden by your rights
+  * To comply with the law
+
+
+
+## Retention of Data
+
+Awesomer Media will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Awesomer Media will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Awesomer Media will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Disclosure for Law Enforcement
+
+Under certain circumstances, Awesomer Media may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+### Legal Requirements
+
+Awesomer Media may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Awesomer Media
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## “Do Not Track” Signals
+
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Awesomer Media aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.**  Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+  * **The right of rectification.**  You have the right to have your information rectified if that information is inaccurate or incomplete.
+  * **The right to object.**  You have the right to object to our processing of your Personal Data.
+  * **The right of restriction.**  You have the right to request that we restrict the processing of your personal information.
+  * **The right to data portability.**  You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+  * **The right to withdraw consent.**  You also have the right to withdraw your consent at any time where Awesomer Media relied on your consent to process your personal information.
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service, including, but not limited to:
+
+  * **Google Analytics  **Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+
+
+### Advertising
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service, including, but not limited to:
+
+  * **Google AdSense & DoubleClick Cookie **Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+
+
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: contact@theawesomer.com
+  * By mail: 3419 N Kolmar Ave Chicago IL 60641
+
+
+
+Darth Vader Clapper
+
+Great Movies of 2018
+
+Mob Psycho 100 Season 2 (Trailer)
+
+Advertisement
+
+Concepts from Future Past: Lamborghini Calà
+
+10 Truly Imaginative Concept Dashboards
+
+This Chevy Sonic Rally Car Rocks LS3 V8 and AWD
