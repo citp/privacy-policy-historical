@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paper.li privacy policy that was archived on 2018-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626230515id_/https%3A//paper.li/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paper.li privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231103507id_/https%3A//paper.li/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" xmlns:paperli="http://paper.li/ns#"><head>
     
@@ -48,7 +48,7 @@
       paperli.locale = 'en';
       paperli.logged_in = false;
       paperli.host = 'paper.li';
-      paperli.imageproxy_token = {"tokenValidity":"1530055516184","token":"0adcda1ab464016e15e29f4ad7dcee1c5e17062c"};
+      paperli.imageproxy_token = {"tokenValidity":"1546253708774","token":"3c4ed5a718a95208d9e7b683f0fcef71ef3b4636"};
       paperli.images_host = "d38hokjm2drjyk.cloudfront.net";
     </script>
 
@@ -181,7 +181,7 @@
 </script>
 
     <!-- main inclusion -->
-    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/app-eac549cadb0f21246709fb7f4befe29e.js" type="text/javascript"></script>
+    <script src="//d2k854fi3lpqb8.cloudfront.net/assets/app-cbe5b7a50a459244ea655053a4107869.js" type="text/javascript"></script>
 
       <link href="//d2k854fi3lpqb8.cloudfront.net/assets/static-41495a3a584c2213cbdbabc662d6bd7b.css" media="all" rel="stylesheet" type="text/css">
 
@@ -626,12 +626,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!-- ALERTS AND NOTIFICATIONS AREA -->
         <div id="alerts">
           
-
-<div id="info_banner" class="m-banner m-info">
-  <a class="close hide-me pull-right" href="#"><i class="fa fa-times"></i></a>
-  <div class="message"></div>
-</div>
-          
 <div id="ie_banner" class="m-banner m-warning">
   <a class="close hide-me pull-right" href="#"><i class="fa fa-times"></i></a>
   <div class="message"></div>
@@ -713,27 +707,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         }
       });
     });
-  </script>
-  <script>
-      $(document).ready(function(){
-        var selector = '#info_banner';
-        if($.cookie('cookies_usage') != 'hide'){
-          $(selector)
-            .find('.message').html('We use cookies to personalize content and ads, provide social media sharing, and to analyze our traffic to improve our Service. Visit our <a class=\"hide-me\" href=\"https://paper.li/privacy.html#cookies\" target=\"_blank\">Privacy Policy<\/a> if you wish to opt out of any non-required cookies. By continuing to use our site, you agree to our use of cookies.').end()
-            .slideDown();
-        }
-        $(selector + ' a.hide-me').click(function(e){
-          e && $(e.currentTarget).attr('href') == '#' && e.preventDefault();
-          
-          $(selector)
-            .closest('.with-banner').removeClass('with-banner').end()
-            .slideUp();
-          $.cookie('cookies_usage', 'hide', {path: '/' , expires: 365});
-        });
-        $(selector + ' .message a').click(function(e){
-          $(e.target).trigger('event.analytics', ['UX Analytics', 'Banner click', $(e.target).attr('href')]);
-        })
-      });
   </script>
   <script>
     $(document).ready(function(){
