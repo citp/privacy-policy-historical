@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wn.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625045655id_/https%3A//wn.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wn.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231093035id_/https%3A//wn.com/privacypolicy) for the most accurate reproduction.*
 
 # Worldnews - Privacy Policy
 
