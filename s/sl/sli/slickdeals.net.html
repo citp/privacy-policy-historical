@@ -1,21 +1,222 @@
-<!--The following is the downloaded HTML source of the slickdeals.net privacy policy that was archived on 2017-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171207054933id_/https%3A//slickdeals.net/corp/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the slickdeals.net privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231202057id_/https%3A//slickdeals.net/corp/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+      <script src="//tag.crsspxl.com/s1.js?d=1375&amp;cb=1580376075065"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="reg-log-controller" async="" src="/scripts/bundles/reg-log.js?7659"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-935793791&amp;l=gglData"></script><script async="" src="https://s.pinimg.com/ct/core.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5XP5PSM&amp;l=gtmDl"></script><script>
+Array.from||(Array.from=function(){var r=Object.prototype.toString,n=function(n){return"function"==typeof n||"[object Function]"===r.call(n)},t=function(r){var n=Number(r);return isNaN(n)?0:0!==n&&isFinite(n)?(n>0?1:-1)*Math.floor(Math.abs(n)):n},e=Math.pow(2,53)-1,o=function(r){var n=t(r);return Math.min(Math.max(n,0),e)};return function(r){var t=this,e=Object(r);if(null==r)throw new TypeError("Array.from requires an array-like object - not null or undefined");var a,i=arguments.length>1?arguments[1]:void 0;if(void 0!==i){if(!n(i))throw new TypeError("Array.from: when provided, the second argument must be a function");arguments.length>2&&(a=arguments[2])}for(var u,f=o(e.length),c=n(t)?Object(new t(f)):new Array(f),h=0;h<f;)u=e[h],c[h]=i?void 0===a?i(u,h):i.call(a,u,h):u,h+=1;return c.length=f,c}}());
+[Element.prototype,CharacterData.prototype,DocumentType.prototype].forEach(function(e){e.hasOwnProperty("remove")||Object.defineProperty(e,"remove",{configurable:!0,enumerable:!0,writable:!0,value:function(){this.parentNode.removeChild(this)}})});
+Array.prototype.includes||Object.defineProperty(Array.prototype,"includes",{value:function(r,e){function t(r,e){return r===e||"number"==typeof r&&"number"==typeof e&&isNaN(r)&&isNaN(e)}if(null==this)throw new TypeError('"this" is null or not defined');var n=Object(this),i=n.length>>>0;if(0===i)return!1;for(var o=0|e,u=Math.max(o>=0?o:i-Math.abs(o),0);i>u;){if(t(n[u],r))return!0;u++}return!1}});
+!function(){if("function"==typeof window.CustomEvent)return!1;function t(t,e){e=e||{bubbles:!1,cancelable:!1,detail:void 0};var n=document.createEvent("CustomEvent");return n.initCustomEvent(t,e.bubbles,e.cancelable,e.detail),n}t.prototype=window.Event.prototype,window.CustomEvent=t}();
+</script>
+  <script>
+window.addLoadEvent=function(n){if("function"===typeof window.addEventListener)window.addEventListener("load",n);else if("function"===typeof window.onload){var o=window.onload;window.onload=function(d){o(d),n(d)}}else window.onload=n};window.addLoadEvent(function(n){window.addLoadEvent=function(o){o(n)}});
+</script>
+  <script>
+window.sdLoadQueue=window.sdLoadQueue||[],window.SD=window.SD||{},window.SD.EventQueue={priorityLabels:["nonCriticalUi","revenueGenerating","analytics","criticalPath"],queueIntervalId:0,queuedFunctions:{},initLoadQueue:function(){for(var e=0;e<window.sdLoadQueue.length;e++)SD.EventQueue._queueFunction(window.sdLoadQueue[e][0],window.sdLoadQueue[e][1]);window.sdLoadQueue.push=function(e){SD.EventQueue._queueFunction(e[0],e[1]),SD.EventQueue._requestQueueParse()},SD.EventQueue._requestQueueParse()},_queueFunction:function(e,u){var n=this.priorityLabels.indexOf(u);if(-1===n)throw new Error('SD.EventQueue: Invalid priority "'+u+'"');this.queuedFunctions[n]?this.queuedFunctions[n].push(e):this.queuedFunctions[n]=[e]},_requestQueueParse:function(){this.queueIntervalId||this._initQueueParse()},_parseQueue:function(){var e=Object.keys(this.queuedFunctions);if(e.length){var u=e.sort(function(e,u){return e-u}).pop(),n=this.queuedFunctions[u].shift();0==this.queuedFunctions[u].length&&delete this.queuedFunctions[u],"function"==typeof n&&n()}else window.clearInterval(this.queueIntervalId),this.queueIntervalId=0},_initQueueParse:function(){this.queueIntervalId=window.setInterval(this._parseQueue.bind(this),4)}},window.addLoadEvent(window.SD.EventQueue.initLoadQueue);
+</script>
+  <script>
+    window.SD=window.SD||{},window.SD.ABTest={extendedData:{},_rSeed:0,execute:function(e,t,n){var i=SD.ABTest._getGroup(e);null!=i&&void 0!==n[i]&&(isNaN(t)||SD.ABTest._notifyTracking(t,e,i),n[i](),window.SD.ABTest.initDevTools&&window.SD.ABTest.initDevTools(e))},isTest:function(e){return SD.ABTest.data.hasOwnProperty(SD.ABTest._getDataGroupName(e))},_getGroup:function(e){var t,n={link:new RegExp("linked:([0-9]+)","gi"),position:new RegExp("position:([0-9]+)","gi"),split:new RegExp("split:([0-9,]+)","gi")},i={};if(SD.ABTest.isTest(e)){if(e.indexOf("linked:")>-1){for(t in n)if(n.hasOwnProperty(t)){if(i[t]=n[t].exec(e),n[t].lastIndex=0,null===i[t]||0===i[t].length)return null;i[t]=i[t][1]}for(t in window.SD.ABTest.data)if(window.SD.ABTest.data.hasOwnProperty(t)&&t.indexOf(i.link)>-1&&t!=="Test: "+e){if(i.secondPosition=n.position.exec(t),n.position.lastIndex=0,null!==i.secondPosition&&0===i.secondPosition.length)return null;i.secondPosition=i.secondPosition[1]}return SD.ABTest._getExtendedGroup(!1,!1,i)}return SD.ABTest.data[SD.ABTest._getDataGroupName(e)]}return null},_getDataGroupName:function(e){return"Test: "+e.trim()},_notifyTracking:function(e,t,n){window.s["eVar"+e]="Test Group: "+t.trim()+"="+n},extendedExecute:function(e,t,n){var i;!isNaN(t)&&SD.ABTest.extendedData.hasOwnProperty(e)&&(i=SD.ABTest._getExtendedGroup(!1,!1,SD.ABTest.extendedData[e]),SD.ABTest._notifyTracking(t,e,i),n[i]())},setupExtendedTest:function(e,t,n,i,o){null!==e&&null!==o&&o.length>0&&n>0&&n<32&&n!=i&&i>0&&i<32&&(SD.ABTest.extendedData[e]={link:t,position:n,secondPosition:i,split:o})},_getExtendedGroup:function(e,t,n,i){var o,s,r,d,a,u,l,D=new RegExp("abt_uuid=([0-9a-f]+)","g"),p=0,T=[];if(n&&(e=n.position,t=n.secondPosition),e--,t--,o=(o=(o=D.exec(document.cookie))[1]).slice(0,12)+o.slice(13,32),i&&console.log({A:e,B:t,UUID:o,Hex:o[e]+o[t]}),s=parseInt(o[e]+o[t],16),!n)return s;for(r=(r=(r=n.split.split(",")).map(function(e){return e=parseInt(e,10),p+=e,e})).map(function(e){return e/p*255<<0}),(d=new Array(255)).fill(0),a=0,u=0,l=r.length;a<l;a++)d.fill(a,u,u+r[a]),u+=r[a];for(SD.ABTest._rSeed=n.link;T.length<256;)a=SD.ABTest._seededRandom(256,0)<<0,-1===T.indexOf(a)&&T.push(a);return d[T[s]]},_seededRandom:function(e,t){return e=e||1,t=t||0,SD.ABTest._rSeed=(9301*SD.ABTest._rSeed+49297)%233280,t+SD.ABTest._rSeed/233280*(e-t)}};
+    window.SD.ABTest.data = {"logged_in":false,"deviceType":"desktop","scriptIdent":"corp","Test: Sticky right rail - 30578":"0","Test: Mobile web fp v3 - 29127":"0","Test: Deal Details v7 - 27993":"0","Test: Add In Line Top Coupons Module on FP - 27589":"0","Test: Post a Deal":"1","Test: Category Redesign":"1","Test: Display % off on the Frontpage":"2","Test: SEM LP Redesign Test":"1","Test: Mobile 3 AB Test":"2","Test: Store Page Test":"1","Test: Redesign of FP and Deal Details":"1","Test: Rolling 24 Hour Time Frame for Deals in Top Section on FP":"1","Test: Search Results Layout and Store Logos Test":"1","view":"redesign","storeTest":null,"mobile":false,"forumid":null};
+      </script>
+  <script>
+    var dataLayer = {"visitor":{"ipAddress":"207.241.226.219","isMachineIp":true,"isForeignIp":false,"sectionLayout":"UNKNOWN_Redesign","pbSectionLayout":"UNKNOWN_Redesign","asEnabled":false,"immediateSource":"direct||","layout":"Redesign","uncookiedUser":false,"userId":0,"username":"Unregistered","isLoggedIn":"No","status":"Anonymous","abTestInfo":[],"appReferrer":null},"traffic":{"trueReferrer":null,"subSection1":null,"subSection2":null,"subSection3":null,"subSection4":null,"corporateDomain":"slickdeals.net","deviceSegment":"desktop"},"page":{"rml":false,"pageName":"UNKNOWN:\/corp\/privacy-policy.html","section":"UNKNOWN","type":null,"template":null,"layout":"Redesign","nps":null},"microSite":"Slickdeals","frontpage":{"layout":null},"build":"20181220130217","abTestEventData":null,"gdpr":{"isEu":false,"showPrompt":false}};
+
+    // Copy the tests from dataLayer.visitor.ABTestInfo to SD.ABTest.data
+    if (typeof dataLayer.visitor !== 'undefined'
+        && typeof dataLayer.visitor.abTestInfo !== 'undefined'
+        && typeof SD !== 'undefined'
+        && typeof SD.ABTest !== 'undefined'
+        && typeof SD.ABTest.data !== 'undefined'
+    )
+    {
+        for (prop in dataLayer.visitor.abTestInfo)
+        {
+            var abTestDetails = dataLayer.visitor.abTestInfo[prop];
+
+            if (abTestDetails.hasOwnProperty('testName') && abTestDetails.hasOwnProperty('variantName'))
+            {
+                var abTestDataKey = 'SD_Test: ' + dataLayer.visitor.abTestInfo[prop].testName;
+
+                SD.ABTest.data[abTestDataKey] = dataLayer.visitor.abTestInfo[prop].variantName;
+            }
+        }
+    }
+
+    dataLayer.processadb = function ()
+    {
+        var f = document.getElementById('check2');
+        var fs;
+        if (window.getComputedStyle)
+        {
+            fs = window.getComputedStyle(f);
+        }
+
+        var a = function (v,d,c)
+        {
+            c = c || 0;
+            var e = document.getElementById(d);
+            if (fs && fs.display != 'none')
+            {
+                var es = window.getComputedStyle(e);
+                dataLayer.visitor[v] = es.display == 'none' ? 'Yes' : 'No';
+            }
+            else if (window.getComputedStyle && c < 100) {
+                dataLayer.visitor[v] = 'Unknown';
+                window.setTimeout(function () { fs = window.getComputedStyle(f); a(v, d, c + 1); }, 10);
+            }
+            else
+            {
+                dataLayer.visitor[v] = e == null || f.offsetParent == null ? 'Unknown' : e.offsetParent == null ? 'Yes' : 'No';
+                if (f.offsetParent == null && c < 100)
+                {
+                    window.setTimeout(function () { a(v, d, c + 1); }, 10);
+                }
+            }
+        };
+
+        a('ab', 'Ad-Container');
+    };
+  </script>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+              new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','gtmDl','GTM-5XP5PSM');</script>
+<script type="text/javascript">
+    window.gtagSettings = JSON.parse('\u007B\u0022account\u0022\u003A\u0022AW\u002D935793791\u0022,\u0022conversionLabel\u0022\u003A\u0022SECLCOnCsQUQ_6icvgM\u0022,\u0022conversionLabelUnique\u0022\u003A\u0022ElLfCPut72gQ_6icvgM\u0022\u007D');
+
+    (function (w,d,s,g,l,i) {
+        w[l]=w[l]||[];w[g] = function(){w[l].push(arguments)};w[g]('js',new Date());w[g]('config',i);
+        var f=d.getElementsByTagName(s)[0],j = d.createElement(s);j.async=true;
+        j.src='https://www.googletagmanager.com/gtag/js?id=' + i + '&l=' + l;
+        window.sdLoadQueue.push([function(){f.parentNode.insertBefore(j, f);},'revenueGenerating'])
+    })(window,document,'script','gtag','gglData', window.gtagSettings.account);
+</script>
+<script>
+    window._qevents = window._qevents || [];
+    window.sdLoadQueue.push([function() {
+        var elem = document.createElement('script');
+
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+
+        _qevents.push( { qacct:"p-cfnoCr0uPjoco"} );
+    }, 'revenueGenerating']);
+</script>
+<script>
+    window.rlcData = '\u005B\u005D';
+</script>
+  <script>
+    (function (w) {
+        var trackPixelFailure = function(type) {
+            var types = document.cookie.match(/lf=([^;]*);/);
+
+            if (types && types[1])
+            {
+                types = types[1].split(',');
+
+                for (var i = 0; i < types.length; i++)
+                {
+                    if (types[i] == type)
+                    {
+                        return;
+                    }
+                }
+            }
+            else
+            {
+                types = [];
+            }
+            types.push(type);
+            document.cookie = "lf=" + types.join(',');
+
+            var img = new Image();
+            img.src = '/lf?t=' + type;
+        };
+
+        w.adobeFailedCallback = function (e) {
+            trackPixelFailure('pixel');
+        };
+
+        w.adobeSuccessCallback = function (e) {
+            var canvas = document.createElement('canvas');
+
+            if ((!!(canvas.getContext && canvas.getContext('2d'))) && e && e.target && e.target.naturalWidth)
+            {
+                canvas.width = e.target.naturalWidth; // or 'width' if you want a special/scaled size
+                canvas.height = e.target.naturalHeight; // or 'height' if you want a special/scaled size
+
+                canvas.getContext('2d').drawImage(e.target, 0, 0);
+
+                try
+                {
+                    var data = canvas.toDataURL('image/png');
+                    trackPixelFailure('pixel');
+                }
+                catch (exc)
+                {
+                }
+            }
+        };
+
+
+        if (w.document.addEventListener)
+        {
+            w.document.addEventListener("error", function (v) {
+                if (v && v.target && v.target.src)
+                {
+                    var src = v.target.src;
+
+                    if (src.indexOf("satelliteLib") > -1)
+                    {
+                        trackPixelFailure('dtm');
+                    }
+
+                    if (src.indexOf("scode-contents") > -1)
+                    {
+                        trackPixelFailure('scode');
+                    }
+                }
+            }, true);
+        }
+    })(window);
+  </script>
+
+            <script src="https://static.slickdealscdn.com/attachment/scripts/dtm/c892f1eac160eb3408344e556adf4907856f9e5d/satelliteLib-9e56d9738bad4a2ae2ab51ebe156481ca119b94b.js?75"></script>
+      
+
+      <script>
+    var googletag = googletag || {};
+    googletag.ebdaBuckets = {"10":3,"%10":3};
+</script>
+  
+  <script src="//api.intellimize.co/client/117259302.js"></script>
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
+        <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <title>Privacy Policy</title>
-    <link rel="stylesheet" href="ui/styles/common.css?1">
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="ui/scripts/vendor.js?1"></script>
-    <script src="ui/scripts/common.js?1"></script>
 
-    <link rel="canonical" href="https://slickdeals.net/corp/privacy-policy.html">
-    <link rel="stylesheet" href="ui/styles/legal.css">
+    <title>Privacy Policy</title>
+
+    <link rel="stylesheet" href="ui/styles/common.css">
+
+          <script src="ui/scripts/vendor.js"></script>
+      <script src="ui/scripts/common.js"></script>
+    
+    <style>
+      .buttonUnstyled{border:0;padding:0;background:none;display:inline;outline:none;font-size:13px;border-radius:0}.buttonLink{border:0;padding:0;background:none;display:inline;outline:none;font-size:13px;border-radius:0;color:#0072bc;text-decoration:underline}.buttonLinkHover{border:0;padding:0;background:none;display:inline;outline:none;font-size:13px;border-radius:0;color:#0072bc}.buttonLinkHover:hover{text-decoration:underline}.buttonLinkHover:disabled{color:#333;text-decoration:none}.button.paypal{background:#009edb;border:0;border-radius:4px;text-shadow:none}.button.paypal.paypal-logo{background:#009edb url(https://static.slickdealscdn.com/images/checkout/paypal-white.svg) center center no-repeat;background-size:auto 20px;text-indent:-1000px}.button.paypal.paypal-yellow{background:#fec349}.button.paypal.paypal-yellow:disabled{background:#fed47c;border-color:#d9b251;color:#e09701}.button.paypal.paypal-yellow:disabled img{opacity:0.66}.button.paypal.paypal-yellow:hover{background:#ffb620;border:0}.button.paypal img{width:auto;height:20px;margin-left:2px;position:relative;top:7px}.button.spinnerButtonActive{display:flex;justify-content:center;align-items:center}.button.spinnerButtonActive .sd-spinner-inline{top:0}.button{background-color:#f1f1f1;text-shadow:0 1px 0 #fff;color:#000;text-decoration:none;background-image:linear-gradient(#fcfcfc, #f1f1f1);border-width:1px;border-style:solid;border-top-color:#e1e1e1;border-left-color:#e1e1e1;border-right-color:#e1e1e1;border-bottom-color:#ddd;font-family:"Open Sans Semibold", "Open Sans", Arial, sans-serif;font-style:normal;font-weight:600;display:inline-block;border-radius:3px;padding:0px 13px;cursor:pointer;height:36px;line-height:34px;white-space:nowrap;text-align:center}.button.disabled{text-shadow:0 1px 0 rgba(255,255,255,0.5)}.button:hover,.button.hover{background-color:#d2d2d2;text-shadow:0 1px 0 #fff;color:#000;text-decoration:none;border-width:1px;border-style:solid;border-top-color:#d6d6d6;border-left-color:#d6d6d6;border-right-color:#d6d6d6;border-bottom-color:#d2d2d2}.button:hover.disabled,.button.hover.disabled{text-shadow:0 1px 0 rgba(255,255,255,0.5)}.button:active,.button.active{background-color:#f1f1f1;box-shadow:inset 0 1px 1px 0px rgba(0,0,0,0.1);background-image:linear-gradient(#f1f1f1, #f1f1f1);border-width:1px;border-style:solid;border-top-color:#d6d6d6;border-left-color:#d6d6d6;border-right-color:#d6d6d6;border-bottom-color:#d2d2d2}.button:focus,.button.focus{outline:none}.button:disabled,.button.disabled{background-color:#f8f8f8;box-shadow:none;background-image:linear-gradient(#fdfdfd, #f8f8f8);border-width:1px;border-style:solid;border-top-color:#f0f0f0;border-left-color:#f0f0f0;border-right-color:#f0f0f0;border-bottom-color:#eee;color:#999;cursor:default}.button.xsmall{height:24px;line-height:22px;font-size:12px;padding:0 8px}.button.small{height:32px;line-height:30px;font-size:12px;padding:0 11px}.button.large{height:47px;line-height:45px;font-size:18px;padding:0 17px}.button.confirm{background-color:#cce3f2;background-image:linear-gradient(#d3e9f8, #cce3f2);border-width:1px;border-style:solid;border-top-color:#98c2de;border-left-color:#9dc9e6;border-right-color:#9dc9e6;border-bottom-color:#9dc9e6}.button.confirm:hover,.button.confirm.hover{background-color:#c4dae9;background-image:linear-gradient(#cbe0ee, #c4dae9);border-width:1px;border-style:solid;border-top-color:#97c1dd;border-left-color:#97c1dd;border-right-color:#97c1dd;border-bottom-color:#97c1dd}.button.confirm:active,.button.confirm.active{background-color:#c4dae9;background-image:linear-gradient(#c4dae9, #c4dae9);border-width:1px;border-style:solid;border-top-color:#83acc7;border-left-color:#8eb6d0;border-right-color:#8eb6d0;border-bottom-color:#8eb6d0}.button.confirm:disabled,.button.confirm.disabled{background-color:#e5f1f8;background-image:linear-gradient(#e9f4fb, #e5f1f8);border-width:1px;border-style:solid;border-top-color:#cbe0ee;border-left-color:#cee4f2;border-right-color:#cee4f2;border-bottom-color:#cee4f2}.button.primary,.button.blue{background-color:#0072bc;text-shadow:0 -1px 0 rgba(0,0,0,0.2);color:#fff;text-decoration:none;background-image:linear-gradient(#0079c8, #0072bc);border-width:1px;border-style:solid;border-top-color:#006bb1;border-left-color:#0073be;border-right-color:#0073be;border-bottom-color:#0074c0}.button.primary.disabled,.button.blue.disabled{text-shadow:0 -1px 0 rgba(0,0,0,0.1)}.button.primary .icon,.button.blue .icon{color:#fff}.button.primary:hover,.button.primary.hover,.button.blue:hover,.button.blue.hover{background-color:#006bb1;text-shadow:0 -1px 0 rgba(0,0,0,0.2);color:#fff;text-decoration:none;background-image:linear-gradient(#0072bc, #006bb1);border-width:1px;border-style:solid;border-top-color:#0065a7;border-left-color:#006db5;border-right-color:#006db5;border-bottom-color:#006db5}.button.primary:hover.disabled,.button.primary.hover.disabled,.button.blue:hover.disabled,.button.blue.hover.disabled{text-shadow:0 -1px 0 rgba(0,0,0,0.1)}.button.primary:hover .icon,.button.primary.hover .icon,.button.blue:hover .icon,.button.blue.hover .icon{color:#fff}.button.primary:active,.button.primary.active,.button.blue:active,.button.blue.active{background-color:#0066a8;box-shadow:inset 0 1px 1px 0px rgba(0,0,0,0.15);background-image:linear-gradient(#006cb2, #0066a8);border-width:1px;border-style:solid;border-top-color:#005388;border-left-color:#0067ac;border-right-color:#0067ac;border-bottom-color:#0067ac}.button.primary:disabled,.button.primary.disabled,.button.primary[disabled],.button.blue:disabled,.button.blue.disabled,.button.blue[disabled]{background-color:#7fb8dd;background-image:linear-gradient(#7fbce3, #7fb8dd);border-width:1px;border-style:solid;border-top-color:#7fb5d8;border-left-color:#7fb9de;border-right-color:#7fb9de;border-bottom-color:#7fb9df}.button.primaryInverse{text-shadow:0 -1px 0 rgba(0,0,0,0.2);color:#0072bc;text-decoration:none;text-shadow:none;background-color:#fff;border:none;font-weight:bold}.button.primaryInverse.disabled{text-shadow:0 -1px 0 rgba(0,0,0,0.1)}.button.primaryInverse .icon{color:#0072bc}.button.primaryInverse:hover,.button.primaryInverse.hover{background:#eee}.button.primaryInverse:active,.button.primaryInverse.active{outline:0}.button.primaryInverse:disabled{text-shadow:none}.button.success{background-color:#83ba37;text-shadow:0 -1px 0 rgba(0,0,0,0.2);color:#fff;text-decoration:none;background-image:linear-gradient(#8dc63f, #83ba37);border-width:1px;border-style:solid;border-top-color:#83b938;border-left-color:#83bb37;border-right-color:#83bb37;border-bottom-color:#83ba37}.button.success.disabled{text-shadow:0 -1px 0 rgba(0,0,0,0.1)}.button.success .icon{color:#fff}.button.success:hover,.button.success.hover{background-color:#7baf34;text-shadow:0 -1px 0 rgba(0,0,0,0.2);color:#fff;text-decoration:none;background-image:linear-gradient(#85ba3b, #7baf34);border-width:1px;border-style:solid;border-top-color:#7bae35;border-left-color:#7eb337;border-right-color:#7eb337;border-bottom-color:#7baf34}.button.success:hover.disabled,.button.success.hover.disabled{text-shadow:0 -1px 0 rgba(0,0,0,0.1)}.button.success:hover .icon,.button.success.hover .icon{color:#fff}.button.success:active,.button.success.active{background-color:#74a531;box-shadow:inset 0 1px 1px 0px rgba(0,0,0,0.15);background-image:linear-gradient(#7daf38, #74a531);border-width:1px;border-style:solid;border-top-color:#66902c;border-left-color:#76a833;border-right-color:#76a833;border-bottom-color:#74a531}.button.success:disabled,.button.success.disabled{background-color:#c1dc9b;background-image:linear-gradient(#c6e29f, #c1dc9b);border-width:1px;border-style:solid;border-top-color:#c1dc9b;border-left-color:#c1dd9b;border-right-color:#c1dd9b;border-bottom-color:#c1dc9b}.button.alert{background-color:#e5580f;text-shadow:0 -1px 0 rgba(0,0,0,0.2);color:#fff;text-decoration:none;background-image:linear-gradient(#f06118, #e5580f);border-width:1px;border-style:solid;border-top-color:#e5580f;border-left-color:#ea5c13;border-right-color:#ea5c13;border-bottom-color:#ea5c13}.button.alert.disabled{text-shadow:0 -1px 0 rgba(0,0,0,0.1)}.button.alert .icon{color:#fff}.button.alert:hover:not(:disabled),.button.alert.hover{background-color:#d9540e;text-shadow:0 -1px 0 rgba(0,0,0,0.2);color:#fff;text-decoration:none;background-image:linear-gradient(#e45c17, #d9540e);border-width:1px;border-style:solid;border-top-color:#d9540e;border-left-color:#de5712;border-right-color:#de5712;border-bottom-color:#de5712}.button.alert:hover:not(:disabled).disabled,.button.alert.hover.disabled{text-shadow:0 -1px 0 rgba(0,0,0,0.1)}.button.alert:hover:not(:disabled) .icon,.button.alert.hover .icon{color:#fff}.button.alert:active:not(:disabled),.button.alert.active{background-color:#c84d0d;box-shadow:inset 0 1px 1px 0px rgba(0,0,0,0.15);background-image:linear-gradient(#d25515, #c84d0d);border-width:1px;border-style:solid;border-top-color:#c84d0d;border-left-color:#c74e10;border-right-color:#c74e10;border-bottom-color:#cc5011}.button.alert:disabled:not(.alertComplete),.button.alert.disabled{background-color:#f2ab87;background-image:linear-gradient(#f7b08b, #f2ab87);border-width:1px;border-style:solid;border-top-color:#f2ab87;border-left-color:#f4ad89;border-right-color:#f4ad89;border-bottom-color:#f4ad89}.button.confirm{background-color:#cce3f2;background-image:linear-gradient(#d3e9f8, #cce3f2);border-width:1px;border-style:solid;border-top-color:#98c2de;border-left-color:#9dc9e6;border-right-color:#9dc9e6;border-bottom-color:#9dc9e6}.button.confirm:hover,.button.confirm.hover{background-color:#c4dae9;background-image:linear-gradient(#cbe0ee, #c4dae9);border-width:1px;border-style:solid;border-top-color:#97c1dd;border-left-color:#97c1dd;border-right-color:#97c1dd;border-bottom-color:#97c1dd}.button.confirm:active,.button.confirm.active{background-color:#c4dae9;box-shadow:inset 0 1px 1px 0px rgba(0,0,0,0.1);background-image:linear-gradient(#c4dae9, #c4dae9);border-width:1px;border-style:solid;border-top-color:#83acc7;border-left-color:#8eb6d0;border-right-color:#8eb6d0;border-bottom-color:#8eb6d0}.button.confirm:disabled,.button.confirm.disabled{background-color:#e5f1f8;background-image:linear-gradient(#e9f4fb, #e5f1f8);border-width:1px;border-style:solid;border-top-color:#cbe0ee;border-left-color:#cee4f2;border-right-color:#cee4f2;border-bottom-color:#cee4f2}.button.facebook{text-shadow:0 -1px 0 rgba(0,0,0,0.2);color:#fff;text-decoration:none;border-width:0;height:36px;line-height:36px;background:#3b5998}.button.facebook.disabled{text-shadow:0 -1px 0 rgba(0,0,0,0.1)}.button.facebook .icon{color:#fff}.button.facebook.xsmall{height:24px;line-height:24px}.button.facebook.small{height:32px;line-height:32px}.button.facebook.large{height:47px;line-height:47px}.button.facebook:hover,.button.facebook.hover{background:#36518a}.button.facebook:active,.button.facebook.active{box-shadow:inset 0 1px 1px 0px rgba(0,0,0,0.2);background:#30487c}.button.facebook:disabled,.button.facebook.disabled{background:#9daccb}.button.gplus{text-shadow:0 -1px 0 rgba(0,0,0,0.2);color:#fff;text-decoration:none;border-width:0;height:36px;line-height:36px;background:#dd4b39}.button.gplus.disabled{text-shadow:0 -1px 0 rgba(0,0,0,0.1)}.button.gplus .icon{color:#fff}.button.gplus.xsmall{height:24px;line-height:24px}.button.gplus.small{height:32px;line-height:32px}.button.gplus.large{height:47px;line-height:47px}.button.gplus:hover,.button.gplus.hover{background:#da3c28}.button.gplus:active,.button.gplus.active{box-shadow:inset 0 1px 1px 0px rgba(0,0,0,0.15);background:#cb3623}.button.gplus:disabled,.button.gplus.disabled{background:#eea59c}.button.checkout{background:linear-gradient(180deg, #FFE1A2 0%, #FFC040 100%);border:1px solid #C0AA7D;color:#333;height:50px;line-height:48px;text-shadow:none;font-size:16px;font-weight:bold;margin-right:0}.button.checkout:hover{background:linear-gradient(180deg, #FFDE9A 0%, #FDB827 100%);border:1px solid #998E78}.buttongroup{display:flex}.buttongroup>.button{position:relative;margin-left:-1px}.buttongroup>.button:hover{z-index:2}.buttongroup>.button:first-child{margin-left:0}.buttongroup>.button:first-child:not(:last-child){border-top-right-radius:0;border-bottom-right-radius:0}.buttongroup>.button:not(:first-child):not(:last-child){border-radius:0}.buttongroup>.button:last-child:not(:first-child){border-top-left-radius:0;border-bottom-left-radius:0}.buttongroup.inline{display:-webkit-inline-flex;display:inline-flex}.buttongroup .icon-thumbs-up3,.buttongroup .icon-thumbs-down{color:#999;cursor:pointer;display:inline-block;text-align:center}.buttongroup .icon-thumbs-up3:hover,.buttongroup .icon-thumbs-down:hover{text-decoration:none}.buttongroup .icon-thumbs-up3:hover{color:#b5d786}.buttongroup .icon-thumbs-down:hover{color:#f1acad}.buttongroup .icon-thumbs-up3.voted{color:#b5d786}.buttongroup .icon-thumbs-down.voted{color:#f1acad}#midnightTheme .button:active,#midnightTheme .button.active{background-image:-moz-linear-gradient(#D3D3D3, #fff);background-image:-webkit-linear-gradient(#D3D3D3, #fff);background-image:linear-gradient(#D3D3D3, #fff);border-top-color:#d6d6d6;border-left-color:#d6d6d6;border-right-color:#d6d6d6;border-bottom-color:#d6d6d6;text-shadow:none}@media (max-width: 812px){.hideMobile{display:none}}@media (min-width: 813px){.hideDesktop{display:none}}.hidden{display:none}.versions{float:right;font-size:11px;color:#fff;position:relative;bottom:-30px;font-weight:700}.versions button{font-size:11px;font-weight:700;color:#d0d6da;cursor:pointer}.versions button:hover{color:#fff}.versions form{display:inline}.letterList{list-style-type:lower-alpha}.legal h1{text-align:center}
+    </style>
+
+      <link rel="canonical" href="https://slickdeals.net/corp/privacy-policy.html">
+  <link rel="stylesheet" href="ui/styles/legal.css">
   </head>
-  <body id="privacy-policy-page">
+  <body class="slickdeals varwidth" id="privacy-policy-page">
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5XP5PSM" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="site-header">
       <div class="width-content grid16">
         <span class="column4">
@@ -25,110 +226,111 @@
         </span>
 
         <nav class="nav column12">
-          <a href="about-us.html" class="about-us">About Us</a>
-          <a href="careers.html" class="careers">Careers</a>
-          <a href="advertising.html" class="advertising">Advertising Opportunities</a>
-          <a href="press.html" class="press">Press</a>
-        </nav>
+                      <a href="about-us.html" class="about-us">About Us</a>
+                      <a href="careers.html" class="careers">Careers</a>
+                      <a href="advertising.html" class="advertising">Advertising Opportunities</a>
+                      <a href="press.html" class="press">Press</a>
+                  </nav>
       </div>
     </div>
-<div class="width-content content-container no-hero content-padding">
-<h1>Privacy Policy</h1>
-<p id="effective_date"><strong>Effective Date: August 5, 2017</strong></p>
+      <div class="width-content content-container no-hero content-padding">
+    <h1>Privacy Policy</h1>
+<p id="effective_date"><strong>Effective Date: October 17, 2018</strong></p>
 
-<p>Slickdeals, LLC (“Slickdeals,” “we,” “us,” or “our”) values its users’ privacy on the Slickdeals web site (Slickdeals.net), mobile site and apps (“Properties”). This Privacy Policy pertains to the Services that we offer on our Properties. We have implemented this Privacy Policy to provide you with information about how Slickdeals collects, uses, and discloses information about you. By visiting our Properties or using our Services, you are agreeing to the practices described in this Privacy Policy.</p>
+<p>Slickdeals, LLC ("Slickdeals," "we," "us," or "our") values its users' privacy on the Slickdeals web site (Slickdeals.net), mobile site and apps ("Properties"). This Privacy Policy pertains to the services that we offer on our Properties (the "Services"). We have implemented this Privacy Policy to provide you with information about how Slickdeals collects, uses, and discloses information about you. By visiting our Properties or using our Services, you are agreeing to the practices described in this Privacy Policy.</p>
 
 <p><strong>What Types of Information Does Slickdeals Collect from Me?</strong></p>
 
-<p>Slickdeals will collect the personal information you provide to us, for example when you register, purchase products on our Properties, take a survey, sign up for notifications, participate in a sweepstakes or giveaway, email us or otherwise send us your information. Personal information may include your name, email address, mailing and/or billing address, phone number, payment card information, and other information that can be used to identify you as an individual. If you access our Services from a mobile or other device, we may collect a unique device identifier assigned to that device. We also collect information about your current location to provide you with more relevant deals. You can use some of the Services without providing any personal information but some features may not be available.</p>
-<p>Each time you use our Services, Slickdeals also collects other, non-personal information from you, such as your browser type, the URL of the previous web site you visited, your ISP, your operating system, information about your activities on our Properties, and your IP Address. We may use cookies to collect such information as described below. We also use analytics and reporting technologies to collect information about your clickstream patterns, your preferences, and the dates and times that you access our Properties or use our Services. If you receive email from us, we will analyze related information such as whether you open the email and whether you click on an ad or offer in the email.</p>
-<p>If you log in via a third party service like Facebook or Google, we will collect the information described in the third party service’s request for authorization. This information may include your name, email address, gender, city, and state. You should review your privacy settings with these third party services to be sure you are only sharing information you wish to share.</p>
-<p>When you provide us with your address, we may use third-party services such as the Google Places API to help complete your address information after you begin to type it.  We will combine the address information that we collect through this service with any other information that we collect from or about you, and we will use, retain, and share it as described in this Privacy Policy. Additionally, this address completion service allows Google to collect certain information as described below.</p>
+<p>Slickdeals will collect the personal information you provide to us, for example when you register, purchase products on our Properties, take a survey, sign up for notifications, participate in a sweepstakes or giveaway, email us or otherwise send us your information. Personal information may include your name, email address, mailing and/or billing address, phone number, payment card information, and other information that can be used to identify you as an individual. If you access our Services from a mobile or other device, we may collect a unique device identifier assigned to that device. We also collect information about your current location to provide you with more relevant deals. You can use some of the Services without providing any personal information, but some features may not be available.</p>
+<p>Each time you use our Services, Slickdeals also collects other, technical information, which may be combined with any personal information we collect about you. This technical information includes, for example, your browser type, the URL of the previous web site you visited, your ISP, your operating system, and your IP Address. We may use cookies to collect such information as described below. We also use analytics and reporting technologies to collect records of your browsing and activities when using our Properties, as well as other usage information such as your clickstream patterns, your preferences, and the dates and times that you access our Properties or use our Services. If you receive email from us, we will analyze related information such as whether you open the email and whether you click on an ad or offer in the email.</p>
+<p>If you log in via a third-party service like Facebook or Google, we will collect the information described in the third-party service's request for authorization. This information may include your name, email address, gender, city, and state. You should review your privacy settings with these third-party services to be sure you are only sharing information you wish to share.</p>
+<p>When you provide us with your address, we may use third-party services such as the Google Places API to help complete your address information after you begin to type it. We will combine the address information that we collect through this service with any other information that we collect from or about you, and we will use, retain, and share it as described in this Privacy Policy. Additionally, this address completion service allows Google to collect certain information as described below.</p>
+<p>We may obtain additional personal and other information about you from third parties and combine it with the information that we collect from you.</p>
 
 <p><strong>What About Cookies?</strong></p>
 
-<p>In addition, Slickdeals uses “cookies,” a small data string our server writes to your computer, and other technologies to help us manage and analyze your interaction with our Services. These technologies collect non-personal information linked to your browser that we use for a number of purposes, including improving our Services, keeping count of return visits to our Properties or our advertisers’ or partners’ websites, collecting and reporting statistical information about our users, saving your password and login information, and displaying advertising or content based on your interests. We may also collect information about your search criteria and results, the date and time of your visit to our Properties, and your connection speed and IP address. Third parties whose products or services are accessible or advertised via our Services may also use cookies on our Properties, and we encourage you to check their privacy policies for information about their information privacy practices. You may be able to refuse the use of cookies by selecting the appropriate settings on your browser; however, refusing to receive cookies may prevent you from being able to use the full functionality of our Properties.</p>
+<p>In addition, Slickdeals uses "cookies," a small data string our server writes to your computer, and other technologies to help us manage and analyze your interaction with our Services. These technologies collect information linked to your browser that we use for a number of purposes, including improving our Services, keeping count of return visits to our Properties or our advertisers' or partners' websites, collecting and reporting statistical information about our users, saving your password and login information, and displaying advertising or content based on your interests. We may also collect information about your search criteria and results, the date and time of your visit to our Properties, and your connection speed and IP address. Third parties whose products or services are accessible or advertised via our Services may also use cookies on our Properties, and we encourage you to check their privacy policies for information about their information privacy practices. You may be able to refuse the use of cookies by selecting the appropriate settings on your browser; however, refusing to receive cookies will not stop all data collection and may prevent you from being able to use the full functionality of our Properties.</p>
 
 <p><strong>Do Third Parties Collect My Information?</strong></p>
 
-<p>We use analytics services provided by third parties such as Google and Flurry. These companies use cookies and other technologies to collect data about your use of our Properties and other web sites over time. This information will be transmitted to and stored by our analytics providers, who will use this information for purposes such as evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to activity on our Properties and internet usage. These providers may also transfer this information to third parties where required to do so by law, or where such third parties process the information on their behalf. To learn more about how Google collects and processes data and the choices Google may offer to control these activities, you may visit <a href=" https://www.google.com/intl/en/policies/privacy/partners/">https://www.google.com/intl/en/policies/privacy/partners/.</a></p>
-<p>As noted above, when you provide us with your address, we may use third-party services such as the Google Places API to help complete your address information after you begin to type it. This address completion service allows Google to collect the address information that you input, along with your IP address. To learn more about Google’s Privacy Policy, you may visit <a href="http://www.google.com/policies/privacy/">http://www.google.com/policies/privacy/</a>.</p>
-
+<p>We use analytics services provided by third parties such as Google and Flurry. These companies use cookies and other technologies to collect data about your use of our Properties and other web sites over time. This information will be transmitted to and stored by our analytics providers, who will use this information for purposes such as evaluating your use of the website, compiling reports on website activity for website operators, providing Slickdeals with information for customer service purposes, and providing other services relating to activity on our Properties and internet usage. These providers may also transfer this information to third parties where required to do so by law, or where such third parties process the information on their behalf. To learn more about how Google collects and processes data and the choices Google may offer to control these activities, you may visit&nbsp;<a href="https://www.google.com/intl/en/policies/privacy/partners/">https://www.google.com/intl/en/policies/privacy/partners/</a>.</p>
+<p>As noted above, when you provide us with your address, we may use third-party services such as the Google Places API to help complete your address information after you begin to type it. This address completion service allows Google to collect the address information that you input, along with your IP address. To learn more about Google's Privacy Policy, you may visit&nbsp;<a href="https://www.google.com/policies/privacy/">http://www.google.com/policies/privacy/</a>.</p>
 <p>Please see below for information on how third parties may collect and use information on our Properties for interest-based advertising purposes, and for information on how Slickdeals may share the information that we collect with third parties.</p>
-
-<p>If you use a third-party payment service such as PayPal to pay for purchases that you make on our Properties, the third party may collect information about you, your online activities and/or your purchase and combine that with any information that you have separately provided to that third party.  The third party’s privacy policy will govern the information you provide to them, including information you provide through your interactions with them on our Properties.</p>
+<p>If you use a third-party payment service such as PayPal to pay for purchases that you make on our Properties, the third party may collect information about you, your online activities and/or your purchase and combine that with any information that you have separately provided to that third party. The third party's privacy policy will govern the information you provide to them, including information you provide through your interactions with them on our Properties.</p>
 
 <p><strong>How Does Slickdeals Use My Information?</strong></p>
 
 <p>Slickdeals uses the information collected from users for our business purposes, including the following:</p>
-  <ul>
-    <li>To customize and personalize the advertising and the content you see.</li>
-	<li>To personalize and improve your experience on our Properties and when using our Services.</li>
-	<li>To fulfill your requests for our Services.</li>
-	<li>To send you information about topics that we think will be of interest to you.</li>
-	<li>To alert you to the latest developments and features on our Services.</li>
-	<li>To enter you in our sweepstakes when you request that we do so and to award prizes.</li>
-	<li>To operate, maintain, and improve our Properties and Services.</li>
-	<li>To communicate with you, including responding to your communications with us and other communications regarding your registration or use of our Services.</li>
-	<li>For our research, recordkeeping, and reporting purposes.</li>
-	<li>To monitor our Properties and Services for compliance with our Terms of Service.</li>
-  </ul>
+
+<ul>
+  <li>To customize and personalize the advertising and the content you see.</li>
+  <li>To personalize and improve your experience on our Properties and when using our Services.</li>
+  <li>To fulfill your requests for our Services.</li>
+  <li>To send you information about topics that we think will be of interest to you.</li>
+  <li>To alert you to the latest developments and features on our Services.</li>
+  <li>To enter you in our sweepstakes when you request that we do so and to award prizes.</li>
+  <li>To operate, maintain, and improve our Properties and Services.</li>
+  <li>To communicate with you, including responding to your communications with us and other communications regarding your registration or use of our Services.</li>
+  <li>For our research, recordkeeping, and reporting purposes.</li>
+  <li>To monitor our Properties and Services for compliance with our Terms of Service.</li>
+</ul>
+
+<br>
 
 <p><strong>When Will Slickdeals Disclose My Information to Third Parties?</strong></p>
 
 <p>We may share your personal information with other companies or individuals. For example:</p>
-  <ul>
-    <li>We may share your personal information with third parties for the third party’s marketing purposes. Please see below for your choices regarding this sharing.</li>
-	<li>We may make any information you disclose when you participate in community and social networking features on our Properties available to other users. Slickdeals is not responsible for the information you disclose in public forums, and we strongly recommend that you only disclose your personal information to users that you know to be trustworthy.</li>
-	<li>We may share your personal information with participating merchants to process your purchases, in which case your information may be used and disclosed by the merchant (including for marketing purposes) subject to its privacy policy.</li>
-	<li>We may share your personal information with your consent or as otherwise disclosed at the time of collection.</li>
-	<li>We may share information with our agents, contractors, service providers, and partners who are providing services on our behalf and on behalf of our merchants and other partners, such as payment processing, data processing, and hosting.</li>
-	<li>We may share your information in connection with an actual or potential merger, sale, acquisition, assignment, or transfer of all or part of Slickdeals’ assets, affiliates, lines of business, or products, including at bankruptcy.</li>
-	<li>We may share your information in order to (i) protect or defend our legal rights or property or the rights/property of our other users, business partners, employees, agents and contractors (including enforcement of our agreements); (ii) pursue available remedies or limit the damages that we may sustain, (iii) protect the safety and security of our employees, users, or members of the public; (iv) protect against fraud or for other risk management purposes; or (v) comply with the law or respond to law enforcement requests, subpoenas, legal process or inquiries.</li>
-  </ul>
-<p>We may share information that identifies your browser or device over time (including device identifiers and/or personal information which has been hashed or obfuscated) as well as information about your activities on our Properties, with third-party companies for purposes including interest-based advertising across different websites, apps, browsers and devices. Please see below for information about opting out of the collection and use of data for interest-based advertising by companies participating in industry self-regulation.</p>
-<p>We also may use and share non-personal information, de-identified information, and aggregate information with third parties, advertisers and/or business partners for our own business purposes and for third party marketing and other purposes. The use and disclosure of these types of information is not subject to any restrictions under this Privacy Policy.</p>
+<ul>
+  <li>We may share your personal information with third parties for the third party's marketing purposes. Please see below for your choices regarding this sharing.</li>
+  <li>We may make any information you disclose when you participate in community and social networking features on our Properties available to other users. Slickdeals is not responsible for the information you disclose in public forums, and we strongly recommend that you disclose your personal information only to users that you know to be trustworthy.</li>
+  <li>We may share your personal information with participating merchants to process your purchases, in which case your information may be used and disclosed by the merchant (including for marketing purposes) subject to its privacy policy.</li>
+  <li>We may share your personal information with your consent or as otherwise disclosed at the time of collection.</li>
+  <li>We may share information with our agents, contractors, service providers, and partners who are providing services on our behalf and on behalf of our merchants and other partners, such as payment processing, data processing, customer service functions, and hosting.</li>
+  <li>We may share your information in connection with an actual or potential merger, sale, acquisition, assignment, or transfer of all or part of Slickdeals' assets, affiliates, lines of business, or products, including at bankruptcy.</li>
+  <li>We may share your information in order to (i) protect or defend our legal rights or property or the rights/property of our other users, business partners, employees, agents and contractors (including enforcement of our agreements); (ii) pursue available remedies or limit the damages that we may sustain; (iii) protect the safety and security of our employees, users, or members of the public; (iv) protect against fraud or for other risk management purposes; or (v) comply with the law or respond to law enforcement requests, subpoenas, legal process or inquiries.</li>
+</ul>
+<p>We may share information that identifies your browser or device over time (including device identifiers and/or personal information which has been hashed or obfuscated) as well as information about your activities on our Properties, with third-party companies for their own purposes including interest-based advertising across different websites, apps, browsers and devices. Please see below for information about opting out of the collection and use of data for interest-based advertising by companies participating in industry self-regulation.</p>
+<p>We also may use and share technical information, de-identified information, and aggregate information with third parties, advertisers and/or business partners for our own business purposes and for third party marketing and other purposes. The use and disclosure of these types of information is not subject to any restrictions under this Privacy Policy.</p>
 
 <p><strong>Your Choices/ Your California Privacy Rights</strong></p>
 
-<p>We may share personal information about you with third parties for the third party’s own marketing purposes, including sending direct marketing materials to you. If you would like to opt out of this kind of sharing, please send us an email at&nbsp;<a href="mailto:privacy@slickdeals.net">privacy@slickdeals.net</a>&nbsp;to inform us of your decision.</p>
-
-<p>When you buy a product or service from a third-party merchant on our Properties, you agree to Slickdeals sharing your purchase information with the merchant, and the merchant may then use or disclose your information subject to its privacy policy. If you are a California resident, you may request that Slickdeals give you a list of the personal information that we have shared in this way and the third-party merchants that have received it, by contacting Slickdeals at privacy@slickdeals.net.  You can receive this information once per calendar year.</p>
+<p>You may give consent for Slickdeals to send you one or more text messages, such as a message with a link to download our app. These text messages are automated. You can use and purchase our services without consenting to receive our automated text messages. If you agree to receive text messages, message and data rates will apply. You can opt out of recurring text messages at any time by replying "STOP" to any message or you can email us at&nbsp;<a href="mailto:privacy@slickdeals.net">privacy@slickdeals.net</a>.</p>
+<p>Slickdeals may send you email offers that we believe will interest you. If you do not want to receive such offers, you can unsubscribe at any time using the link included in any message. We will continue to send you servicing emails related to your interactions and relationship with us.</p>
+<p>We may share personal information about you with third parties for the third party's own marketing purposes, including sending direct marketing materials to you. If you would like to opt out of this kind of sharing, please send us an email&nbsp;<a href="mailto:privacy@slickdeals.net">privacy@slickdeals.net</a>&nbsp;to inform us of your decision.</p>
+<p>When you buy a product or service from a third-party merchant on our Properties, you agree to Slickdeals sharing your purchase information with the merchant, and the merchant may then use or disclose your information subject to its privacy policy. If you are a California resident, you may request that Slickdeals give you a list of the personal information that we have shared in this way and the third-party merchants that have received it, by contacting Slickdeals at&nbsp;<a href="mailto:privacy@slickdeals.net">privacy@slickdeals.net</a>. You can receive this information once per calendar year.</p>
 
 <p id="anchor"><strong><a name="anchor">Interest-Based Advertising</a></strong></p>
 
-<p>Slickdeals adheres to the Digital Advertising Alliance (“DAA”) Self-Regulatory Principles. We use third-party advertising companies to serve ads when you visit our Properties. These companies may use cookies or other technologies to collect non-personal information about your visits to our Properties and other online properties over time and across different browsers and devices, in order to provide advertisements about goods and services of interest to you. We may also partner with ad networks and other companies that serve ads on behalf of us and others on non-affiliated properties. Some of those ads may be interest-based, meaning that they are intended to be relevant to you based on information these ad networks collect about your visits to our Properties and other non-affiliated web sites or apps over time and across different browsers and devices.</p>
-
-<p>You may visit&nbsp;<a href="https://www.aboutads.info/choices">www.aboutads.info/choices</a>&nbsp;to learn more about interest-based advertising, to opt-out of this form of advertising on your web browser by companies participating in the DAA self-regulatory program, and to learn about the effect of an opt-out choice. If you wish to opt-out of interest-based advertising in mobile apps on your device by companies that participate in the DAA’s AppChoices app, you may download that app onto your device and exercise your choice. AppChoices is available at the links below:</p>
+<p>Slickdeals adheres to the Digital Advertising Alliance ("DAA") Self-Regulatory Principles. We use third-party advertising companies to serve ads when you visit our Properties, and to serve ads on our behalf on non-affiliated properties. These companies may use cookies or other non-cookie technologies to collect information about your visits and activities on our Properties and other online properties over time and across different browsers and devices, in order to provide advertisements for us and others about goods and services of interest to you. This type of advertising is called interest-based advertising. The information collected by these third parties may include information about your browser or device including information that identifies your browser or device over time (including device identifiers and/or personal information which has been hashed or obfuscated).</p>
+<p>You may visit&nbsp;<a href="https://www.aboutads.info/choices">www.aboutads.info/choices</a>&nbsp;to learn more about interest-based advertising, to opt-out of this form of advertising on your web browser by companies participating in the DAA self-regulatory program, and to learn about the effect of an opt-out choice. If you wish to opt-out of interest-based advertising in mobile apps on your device by companies that participate in the DAA's AppChoices app, you may download that app onto your device and exercise your choice. AppChoices is available at the links below:</p>
 
 <p><a href="https://itunes.apple.com/us/app/appchoices/id894822870?mt=8">DAA AppChoices iOS</a></p>
 <p><a href="https://play.google.com/store/apps/details?id=com.DAA.appchoices&amp;hl=en">DAA AppChoices Android</a></p>
 <p><a href="https://www.amazon.com/Digital-Advertising-Alliance-AppChoices/dp/B00SVQ4FMO">DAA AppChoices Amazon</a></p>
-<p>You may also limit data collection and use by third parties for interest-based advertising by using your mobile device settings where available. Please note that electing to opt-out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. Additionally, please note that if you use a different browser or erase cookies from your browser, or use a different mobile device, you may need to renew your opt-out choices.</p>
+<p>You may also limit data collection and use by third parties for interest-based advertising by using your mobile device settings where available.</p> 
+<p>Please note that electing to opt-out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. Additionally, please note that if you use a different browser or erase cookies from your browser, reset your device's advertising identifier, or use a different mobile device, you may need to renew your opt-out choices. Also, any settings available in your web browser to block cookies may not block the use of non-cookie technologies by third parties as described above.</p> 
 
 <p><strong>Security</strong></p>
 
 <p>Slickdeals uses commercially reasonable administrative, technical, and physical measures to protect your personal information.</p>
 
-<p><strong>Links to Third Party Sites</strong></p>
+<p><strong>Links to Third-Party Ads and Properties</strong></p>
 
-<p>You may be able to access third-party web sites, mobile sites and/or apps directly from links on the Properties. This Privacy Policy does not apply when you access such third-party web sites. We cannot control the privacy practices of third-party web sites, and we are not responsible for such practices. We encourage you to carefully review the privacy policy of any third-party properties you visit before disclosing any information to the providers of such properties.</p>
-
+<p>You may be able to access third-party ads, web sites, mobile sites and/or apps directly from links on the Properties. These links may include opportunities to provide personal information to such third parties. This Privacy Policy does not apply when you access such third-party properties. We cannot control the privacy practices of third-party properties, and we are not responsible for such practices. We encourage you to carefully review the privacy policy of any third-party properties you visit or ads that you respond to, before disclosing any information to the providers of such properties.</p>
 <p>Our Properties may include social media plug-ins that link to and share information with third-party social media web sites. If you use these tools to share information about your use of our Properties or otherwise interact with any social media features on our Properties, those social media companies may collect information about you and may use and disclose that information in accordance with their own privacy policies and your account settings. We encourage you to carefully review the privacy policy of any social media company before using any social media plug-ins on our web site to understand the practices that will apply to any information that you provide to these companies.</p>
 
 <p><strong>International Visitors</strong></p>
 
-<p>Slickdeals collects, processes and stores information in the United States. By using our Services from locations outside of the United States, you consent to the transfer of your personal information to, and the collection and processing of such personal information in the United States. The laws pertaining to the collection, use, disclosure, and processing of personal information in the United States may vary from those in other countries and may be less stringent than the applicable laws in your state or country.</p>
+<p>Slickdeals does not currently offer its Services in, or support user accounts from, Switzerland and countries in the European Economic Area. Users from other countries should note that Slickdeals collects, processes and stores information in the United States. By using our Services from locations outside of the United States, you consent to the transfer of your personal information to, and the collection and processing of such personal information in the United States. The laws pertaining to the collection, use, disclosure, and processing of personal information in the United States may vary from those in other countries and may be less stringent than the applicable laws in your state or country.</p>
 
-<p><strong>Children’s Privacy</strong></p>
+<p><strong>Children's Privacy</strong></p>
 
 <p>Our Services are not intended to be used by children, and we do not knowingly collect or maintain personal information from children. If we learn that we have collected personal information from children under 13 years old, we will take appropriate actions to delete this information.</p>
-
-<p>If you are a parent or legal guardian of a child under 13 years old, and you believe that your child has provided personal information to Slickdeals, you may contact us at <a href="mailto:privacy@slickdeals.net">privacy@slickdeals.net</a>&nbsp;to request that we delete your child’s personal information from our systems.</p>
+<p>If you are a parent or legal guardian of a child under 13 years old, and you believe that your child has provided personal information to Slickdeals, you may contact us at&nbsp;<a href="mailto:privacy@slickdeals.net">privacy@slickdeals.net</a>&nbsp;to request that we delete your child's personal information from our systems.</p>
 
 <p><strong>Updating Your Personal Information</strong></p>
 
-<p>You may review, update, or change information that you have provided to us, or request that we deactivate your account, by emailing us at&nbsp;<a href="info@slickdeals.net">info@slickdeals.net.</a>&nbsp;If you request that we deactivate your account, we may retain certain personal information in our archives for record-keeping purposes. We are not able to remove personal information from the records or databases of third parties with which we have already shared such information.</p>
+<p>You may review, update, or change information that you have provided to us, or request that we deactivate your account, by emailing us at&nbsp;<a href="mailto:info@slickdeals.net">info@slickdeals.net</a>.&nbsp;If you request that we deactivate your account, we may retain certain personal information in our archives for record-keeping purposes. We are not able to remove personal information from the records or databases of third parties with which we have already shared such information.</p>
 
 <p><strong>Does Slickdeals Ever Make Changes to its Privacy Policy?</strong></p>
 
@@ -136,9 +338,7 @@
 
 <p><strong>Contact Us</strong></p>
 
-<p>If you have any questions or comments regarding this Privacy Policy, please contact Slickdeals at&nbsp;<a href="mailto:privacy@slickdeals.net">privacy@slickdeals.net</a>.</p>
-
-</div>
+<p>If you have any questions or comments regarding this Privacy Policy, please contact Slickdeals at&nbsp;<a href="mailto:privacy@slickdeals.net">privacy@slickdeals.net</a>.</p>  </div>
 
     <div class="site-footer">
       <div class="site-top">
@@ -148,14 +348,18 @@
           </a>
         </div>
         <div class="versions">
-          <span id="classic">
-            <a href="/?modern_opt_out=1" rel="nofollow">Classic View</a>
-            &nbsp;•&nbsp;
-          </span>
-          <span id="mobile">
-            <a href="/?no_mobile=false" rel="nofollow">Mobile</a>
-            &nbsp;•&nbsp;
-          </span>
+          <form action="/?modern_opt_out=1" method="post">
+            <span id="classic">
+              <button class="buttonUnstyled">Classic View</button>
+              &nbsp;•&nbsp;
+            </span>
+          </form>
+          <form action="/styleSwitch.php?redirectUrl=%252Fcorp%252Fprivacy-policy.html&amp;no_mobile=false" method="post">
+            <span id="mobile">
+              <button class="buttonUnstyled">Mobile</button>
+              &nbsp;•&nbsp;
+            </span>
+          </form>
           Full Site
         </div>
       </div>
@@ -166,46 +370,47 @@
           <div class="column2">
             <h4>Follow Us</h4>
             <ul class="list-unstyled">
-              <li class="firstColumn"><a href="https://twitter.com/slickdeals"><img class="social-icon" src="ui/images/twitter-icon.png">Twitter</a></li>
-              <li class="firstColumn"><a href="https://www.facebook.com/slickdeals"><img class="social-icon" src="ui/images/fb-icon.png">Facebook</a></li>
-              <li class="firstColumn"><a href="https://www.instagram.com/slickdeals"><img class="social-icon" src="ui/images/instagram-icon.png">Instagram</a></li>
-              <li class="firstColumn"><a href="https://www.pinterest.com/slickdeals/"><img class="social-icon" src="ui/images/pinterest-icon.png">Pinterest</a></li>
-            </ul>
+                              <li class="firstColumn"><a href="https://twitter.com/slickdeals"><img class="social-icon" src="ui/images/twitter-icon.png">Twitter</a></li>
+                              <li class="firstColumn"><a href="https://www.facebook.com/slickdeals"><img class="social-icon" src="ui/images/fb-icon.png">Facebook</a></li>
+                              <li class="firstColumn"><a href="https://www.instagram.com/slickdeals"><img class="social-icon" src="ui/images/instagram-icon.png">Instagram</a></li>
+                              <li class="firstColumn"><a href="https://www.pinterest.com/slickdeals/"><img class="social-icon" src="ui/images/pinterest-icon.png">Pinterest</a></li>
+                          </ul>
           </div>
           <div class="column3">
             <h4>About</h4>
             <ul class="list-unstyled">
-              <li><a href="/corp/about-us.html">About Us</a></li>
-              <li><a href="/forums/faq.php">FAQ</a></li>
-              <li><a href="/corp/advertising.html">Advertising Opportunities</a></li>
-              <li><a href="/corp/careers.html">Careers</a></li>
-            </ul>
+                              <li><a href="/corp/about-us.html">About Us</a></li>
+                              <li><a href="https://help.slickdeals.net/hc/en-us">FAQ</a></li>
+                              <li><a href="/corp/advertising.html">Advertising Opportunities</a></li>
+                              <li><a href="/corp/careers.html">Careers</a></li>
+                          </ul>
           </div>
           <div class="column4">
             <h4>RSS Feeds</h4>
             <ul class="list-unstyled">
-              <li><a href="/newsearch.php?mode=frontpage&amp;amp;searcharea=deals&amp;amp;searchin=first&amp;amp;rss=1">Frontpage Deals</a></li>
-              <li><a href="/newsearch.php?mode=popdeals&amp;amp;searcharea=deals&amp;amp;searchin=first&amp;amp;rss=1">Popular Deals</a></li>
-              <li><a href="http://feeds.feedburner.com/SlickdealsnetUP">Trending Deals</a></li>
-            </ul>
+                              <li><a href="/newsearch.php?mode=frontpage&amp;amp;searcharea=deals&amp;amp;searchin=first&amp;amp;rss=1">Frontpage Deals</a></li>
+                              <li><a href="/newsearch.php?mode=popdeals&amp;amp;searcharea=deals&amp;amp;searchin=first&amp;amp;rss=1">Popular Deals</a></li>
+                              <li><a href="http://feeds.feedburner.com/SlickdealsnetUP">Trending Deals</a></li>
+                          </ul>
           </div>
           <div class="column5">
             <h4>More</h4>
             <ul class="list-unstyled">
-              <li><a href="/deal-alerts/">Deal Alerts</a></li>
-              <li><a href="/live/">Slickdeals Live</a></li>
-              <li><a href="/students/">Student Scholarship &amp; Discounts</a></li>
-              <li><a href="/giving/">Slickdeals Gives Back</a></li>
-              <li><a href="/blackfriday/">Black Friday Deals 2017</a></li>
-              <li><a href="/cybermonday/">Cyber Monday Deals 2017</a></li>
+                              <li><a href="/deal-alerts/">Deal Alerts</a></li>
+                              <li><a href="/live/">Slickdeals Live</a></li>
+                              <li><a href="/students/">Student Scholarship &amp; Discounts</a></li>
+                              <li><a href="/giving/">Slickdeals Gives Back</a></li>
+                            
+  <li><a href="/blackfriday/">Black Friday Deals 2018</a></li>
+  <li><a href="/cybermonday/">Cyber Monday Deals 2018</a></li>
             </ul>
           </div>
           <div class="column6">
             <h4>Apps</h4>
             <ul class="list-unstyled">
-              <li class="lastColumn"><a href="https://itunes.apple.com/us/app/slickdeals-best-free-online/id584632814"><img class="appBtn" src="ui/images/footerAppStore.png"></a></li>
-              <li class="lastColumn"><a href="https://play.google.com/store/apps/details?id=net.slickdeals.android&amp;amp;referrer=utm_source%3Dslickdeals%26utm_medium%3Dsitelink%26utm_campaign%3Dredesign%2520footer"><img class="appBtn" src="ui/images/footerGooglePlay.png"></a></li>
-            </ul>
+                              <li class="lastColumn"><a href="https://itunes.apple.com/us/app/slickdeals-best-free-online/id584632814"><img class="appBtn" src="ui/images/footerAppStore.png"></a></li>
+                              <li class="lastColumn"><a href="https://play.google.com/store/apps/details?id=net.slickdeals.android&amp;amp;referrer=utm_source%3Dslickdeals%26utm_medium%3Dsitelink%26utm_campaign%3Dredesign%2520footer"><img class="appBtn" src="ui/images/footerGooglePlay.png"></a></li>
+                          </ul>
           </div>
         </div>
       </div>
@@ -214,7 +419,7 @@
     <div class="site-copyright">
       <div class="footer-content">
         <div class="copyrightLeft">
-          <p>Copyright 1999 - 2017. Slickdeals, LLC. All Rights Reserved.</p>
+          <p>Copyright 1999 - 2018. Slickdeals, LLC. All Rights Reserved.</p>
           <a href="/corp/legal-copyright.html" rel="nofollow">Copyright / Infringement Policy</a>
           <span class="bullet">&nbsp;•&nbsp;</span>
           <a href="/corp/privacy-policy.html" rel="nofollow">Privacy Policy</a>
@@ -228,72 +433,160 @@
       </div>
     </div>
 
-
+        
     <script>
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-136402-1']);
-    _gaq.push(['_trackPageview']);
+        var request = new XMLHttpRequest();
+        request.open('GET', '/ajax/userid.php', true);
 
-    (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+        request.onreadystatechange = function() {
+            if (this.readyState === 4)
+            {
+                if (this.status >= 200 && this.status < 400)
+                {
+                    try
+                    {
+                        var resp = JSON.parse(this.responseText);
+
+                        if (parseInt(resp.userid, 10) === 0 && resp.doomed === 'yep')
+                        {
+                            document.getElementById('classic').remove();
+                        }
+                    }
+                    catch (e)
+                    {
+                        ;
+                    }
+                }
+            }
+        };
+
+        request.send();
+        request = null;
     </script>
 
-    <!-- Quantcast Tag -->
+        
     <script type="text/javascript">
-    var _qevents = _qevents || [];
-
-    (function() {
-    var elem = document.createElement('script');
-    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-    elem.async = true;
-    elem.type = "text/javascript";
-    var scpt = document.getElementsByTagName('script')[0];
-    scpt.parentNode.insertBefore(elem, scpt);
-    })();
-
-    _qevents.push({
-    qacct:"p-cfnoCr0uPjoco"
-    });
-    </script>
-
-    <noscript>
-    <div style="display:none;">
-    <img src="//pixel.quantserve.com/pixel/p-cfnoCr0uPjoco.gif" border="0" height="1" width="1" alt="Quantcast"/>
-    </div>
-    </noscript>
-    <!-- End Quantcast tag -->
-    <script>
-      var request = new XMLHttpRequest();
-      request.open('GET', '/ajax/userid.php', true);
-
-      request.onreadystatechange = function() {
-        if (this.readyState === 4)
-        {
-          if (this.status >= 200 && this.status < 400)
-          {
-            try
+    !function (e) {
+        if (!window.pintrk) {
+            window.pintrk = function () {
+                window.pintrk.queue.push(Array.prototype.slice.call(arguments))
+            };
+            var n = window.pintrk;
+            n.queue = [], n.version = "3.0";
+            var t = document.createElement("script");
+            t.async = !0, t.src = e;
+            var r = document.getElementsByTagName("script")[0];
+            window.sdLoadQueue.push([function ()
             {
-              var resp = JSON.parse(this.responseText);
-
-              if (parseInt(resp.userid, 10) === 0 && resp.doomed === 'yep')
-              {
-                document.getElementById('classic').remove();
-              }
-            }
-            catch (e)
-            {
-              ;
-            }
-          }
+                r.parentNode.insertBefore(t, r)
+            }, 'nonCriticalUi']);
         }
-      };
+    }("https://s.pinimg.com/ct/core.js");
 
-      request.send();
-      request = null;
-    </script>
+    pintrk('load', '2621296676862');
+    pintrk('page');
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://ct.pinterest.com/v3/?tid=2621296676862&noscript=1" />
+</noscript>
+<script>
+    window.sdLoadQueue.push([function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement("script");
+            fbds.async = true;
+            fbds.src = "//connect.facebook.net/en_US/fbds.js";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+        _fbq.push(['addPixelId', '343695756083210']);
+        _fbq.push(['addPixelId', '753271888053840']);
+        _fbq.push(['track', 'PixelInitialized', {}]);
+    }, "revenueGenerating"]);
+</script>
+<noscript>
+  <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=343695756083210&amp;ev=PixelInitialized" />
+  <img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=753271888053840&amp;ev=PixelInitialized" />
+</noscript>
+<noscript>
+  <div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-cfnoCr0uPjoco.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+<script>
+    window.sdLoadQueue.push([function() {
+        var elem = document.createElement('img');
+
+        elem.src = "//dpm.demdex.net/ibs:dpid=375988&dpuuid=8e6f5fe40d3911e98754d2e5958396b2";
+        document.body.appendChild(elem);
+    }, 'analytics']);
+</script>
+<script>
+    if (typeof window.sdRequire === 'undefined')
+    {
+        window.sdLoadQueue.push([function() {
+            (function(d){
+                var js, id = 'reg-log-controller', ref = d.getElementsByTagName('script')[0];
+                if (d.getElementById(id))
+                {
+                    return;
+                }
+                js = d.createElement('script');
+                js.id = id;
+                js.async = true;
+                js.src = "/scripts/bundles/reg-log.js?7659";
+                ref.parentNode.insertBefore(js, ref);
+            }(document));
+        }, 'analytics']);
+    }
+</script>
+<script>
+  try {
+    (function() {
+        window.sdLoadQueue.push([function () {
+            var cb = new Date().getTime();
+            var s = document.createElement("script");
+            s.src = "//tag.crsspxl.com/s1.js?d=1375&cb="+cb;
+            var s0 = document.getElementsByTagName('script')[0];
+            s0.parentNode.insertBefore(s, s0);
+        }, 'revenueGenerating']);
+    })();
+  } catch (e) {}
+</script>
+      <script type="text/javascript">if (typeof(_satellite) != "undefined" && typeof(_satellite.pageBottom) == "function") { _satellite.pageBottom(); }</script>
   
 
-</body></html>
+    <script type="text/javascript">
+    window.sdLoadQueue.push([function ()
+    {
+      if (typeof window.heap === 'undefined')
+      {
+          return;
+      }
+      if (0)
+      {
+        window.heap.resetIdentity();
+        window.heap.identify('8e6f5fe40d3911e98754d2e5958396b2', 'Device');
+        document.cookie = "doLogOut=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+      
+      }
+      else
+      {
+          if (typeof window.dataLayer !== 'undefined'
+              && typeof window.dataLayer.visitor !== 'undefined'
+              && typeof window.dataLayer.visitor.userId !== 'undefined'
+              && window.dataLayer.visitor.userId > 0)
+          {
+              window.heap.identify(window.dataLayer.visitor.userId.toString(), 'User');
+
+          }
+          else
+          {
+              window.heap.identify('8e6f5fe40d3911e98754d2e5958396b2', 'Device');
+
+          }
+      }
+    }, 'analytics']);
+  </script>
+  
+<img src="//dpm.demdex.net/ibs:dpid=375988&amp;dpuuid=8e6f5fe40d3911e98754d2e5958396b2"></body></html>
