@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agencypost.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625181550id_/https%3A//legal.hubspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agencypost.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231220835id_/https%3A//legal.hubspot.com/privacy-policy) for the most accurate reproduction.*
 
 # HubSpot Privacy Policy
 
@@ -157,9 +157,9 @@ If you have elected to receive marketing communications from us, we retain infor
 
 **Service Providers**
 
-We employ other companies and people to provide services to visitors to our Websites, our customers, and users of the Subscription Service and may need to share your information with them to provide information, products or services to you. Examples may include removing repetitive information from prospect lists, analyzing data or performing statistcal analysis, providing marketing assistance, processing credit card payments, supplementing the information you provide us in order to provide you with better service, and providing customer service or support. In all cases where we share your information with such agents, we explicitly require the agent to acknowledge and adhere to our privacy and customer data handling policies.
+We employ other companies and people to provide services to visitors to our Websites, our customers, and users of the Subscription Service and may need to share your information with them to provide information, products or services to you. Examples may include removing repetitive information from prospect lists, analyzing data or performing statistical analysis, providing marketing assistance, processing credit card payments, supplementing the information you provide us in order to provide you with better service, and providing customer service or support. In all cases where we share your information with such agents, we explicitly require the agent to acknowledge and adhere to our privacy and customer data handling policies.
 
-**Hubspot Partners**
+**HubSpot Partners**
 
 In addition, we may share data with trusted partners to contact you based on your request to receive such communications, help us perform statistical analysis, or provide customer support. Such third parties are prohibited from using your Personal Information except for these purposes, and they are required to maintain the confidentiality of your information.
 
@@ -201,7 +201,7 @@ Under certain conditions, more fully described on the [Privacy Shield website](
 
 **Cookies**
 
-HubSpot and its partners use cookies or similar technologies (such as web beacons) to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. To find out more about how we use cookies on our Websites and how to manage your cookie preferences please see our [Cookie Policy](https://web.archive.org/cookie-policy?hsLang=fr).
+HubSpot and its partners use cookies or similar technologies (such as web beacons) to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. To find out more about how we use cookies on our Websites and how to manage your cookie preferences please see our [Cookie Policy](https://web.archive.org/cookie-policy).
 
 **Navigational Information Collected by Our Customers**
 
@@ -240,7 +240,7 @@ To exercise any of these rights, please contact us at [privacy@hubspot.com](mail
 
 **Anti-Spam Policy**
 
-Our Acceptable Use Policy, at [http://legal.hubspot.com/acceptable-use](https://legal.hubspot.com/acceptable-use?hsLang=fr), applies to us and to our customers and, among other things, prohibits use of the Subscription Service to send unsolicited commercial email in violation of applicable laws, and requires the inclusion in every email sent using the Subscription Service of an "opt-out" mechanism and other required information. We require all of our customers to agree to adhere to the Acceptable Use Policy at all times, and any violations of the Acceptable Use Policy by a customer can result in immediate suspension or termination of the Subscription Service.
+Our Acceptable Use Policy, at [http://legal.hubspot.com/acceptable-use](https://legal.hubspot.com/acceptable-use), applies to us and to our customers and, among other things, prohibits use of the Subscription Service to send unsolicited commercial email in violation of applicable laws, and requires the inclusion in every email sent using the Subscription Service of an "opt-out" mechanism and other required information. We require all of our customers to agree to adhere to the Acceptable Use Policy at all times, and any violations of the Acceptable Use Policy by a customer can result in immediate suspension or termination of the Subscription Service.
 
 **To Unsubscribe From Our Communications**
 
@@ -251,6 +251,12 @@ You may unsubscribe from our marketing communications by clicking on the "unsubs
 Our customers are solely responsible for their own marketing emails and other communications; we cannot unsubscribe you from their communications. You can unsubscribe from our customers' marketing communications by clicking on the "unsubscribe" link located on the bottom of their emails, or by contacting them directly.
 
 **Contact**
+
+Data Protection Officer (DPO) 
+
+Nicholas Knoop
+
+privacy@hubspot.com
 
 HubSpot, Inc.  
 25 First Street, 2nd Floor  
