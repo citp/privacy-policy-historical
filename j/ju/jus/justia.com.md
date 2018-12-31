@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justia.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623195136id_/https%3A//www.justia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justia.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231045533id_/https%3A//www.justia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Justia
 
