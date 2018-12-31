@@ -1,87 +1,74 @@
-> *The following text is extracted and transformed from the videomarketingblaster.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304150244id_/http%3A//videomarketingblaster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videomarketingblaster.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231153307id_/http%3A//blastermarketing.com/privacy) for the most accurate reproduction.*
 
-# Video Marketing Blaster Privacy Policy
+# Blaster Marketing
 
-**Policies and Procedures
+****
 
-Privacy Policy – VideoMarketingBlaster.com  
-(Last Updated: Sept 1st, 2016)
+  
+**Privacy Policy**  
+ **(Last Updated: May 25, 2018)**  
 
-VideoMarketingBlaster.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-“You” or “Your” means you as a participant in or as a user of the VideoMarketingBlaster.com website. “We” or “Our” or “Us” means VideoMarketingBlaster.com. “Our site” means VideoMarketingBlaster.com.
+  
 
-All information transmitted, printed or otherwise submitted to VideoMarketingBlaster.com via this website shall be deemed to be the property of VideoMarketingBlaster.com and VideoMarketingBlaster.com shall be free to use such information for any lawful purpose as detailed herein.
 
-This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from Blaster Suite Network. The Blaster Suite Websites are: http://blastersuite.com , http://liveblaster.com , http://liveblaster2.com , http://blastermarketing.com , http://videomarketingblasterpro.com , http://videomarketingblaster.com , http://pixoblaster.com , http://videoleadstudio.com , http://massvideoblasterpro.com , http://videospinblasterproplus.com , http://blasterbonus.com , http://lingoblaster.com . We will refer to this sites as the “Site”.
 
-We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
+**PERSONAL INFORMATION WE COLLECT**
 
-Section 1: Collected Information  
-We automatically collect and/or track the following:
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-1\. Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);  
-2\. Information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information;  
-3\. Information, user specific or aggregate, on what pages our visitors access; and  
-4\. E-mail addresses of visitors that communicate with VideoMarketingBlaster.com via e-mail.
+**We collect Device Information using the following technologies:**
 
-Section 2: Use of Data Collected  
-We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
+– “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
 
-Section 3: Disclosure of Data to Third Parties  
-If you choose to provide personal information, it will be used for the following purposes:
+– “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
-1\. Considering you for a VideoMarketingBlaster.com product;  
-2\. As required by law; and  
-3\. For marketing products and services which we determine, in our sole judgment, that you might find of interest. 
+– “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-Section 4: Your Opt-Out Rights  
-You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: support@VideoMarketingBlaster.com
+Additionally when you enter your email, make a purchase, or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers and PayPal info), email address, and phone number.  We refer to this information as “Order Information.”
 
-Section 5: We Do Not Intend to Collect Data from Children  
-The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside VideoMarketingBlaster.com. No part of VideoMarketingBlaster.com’s web site is structured to attract anyone under the age of 18.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-Section 6: Our Right to Contact You  
-We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
+**HOW DO WE USE YOUR PERSONAL INFORMATION?**  
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for delivery or shipping, and providing you with invoices and/or order confirmations).  Additionally, we use this Order Information to:  
+Communicate with you;  
+Screen our orders for potential risk or fraud; and  
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.  
+We also send relevant offers from our partners (affiliates) from time to time.  
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).  
+We also use the info we collect about you on our site for advertising, retargeting, tracking sales, tracking actions across the site, etc…
 
-Section 7: Our Right to Change  
-We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
+**SHARING YOUR PERSONAL INFORMATION**
 
-Section 8: Our Contact Information  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: support@VideoMarketingBlaster.com.
+We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example, we use Avangate.com or JVzoo.com to power our online store–you can read more about how Avangate.com uses your Personal Information here:  http://www.avangate.com/legal/privacy.php We also use Google Analytics to help us understand how our customers use the Site–you can read more about how Google uses your Personal Information here:  https://www.google.com/intl/en/policies/privacy/.  You can also opt-out of Google Analytics here:  https://tools.google.com/dlpage/gaoptout.
 
-Section 9: Anti Spam Policy. Can-Spam Act Compliance  
-VideoMarketingBlaster.com is dedicated to ensuring compliance with the ‘Can-Spam Act’, which took effect January 1, 2004. You may receive email from VideoMarketingBlaster.com in the following circumstances:
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-1\. Acknowledging your application has been received and requesting additional action  
-2\. Requests for additional information to support your current application  
-3\. Response to your inquiries regarding the status of your transactional requests  
-4\. Thanking you for your valued business  
-5\. Advertisements for our products, services, changes in services, new product availability  
-6\. Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers
+**BEHAVIOURAL ADVERTISING**  
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you.  For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-To ensure compliance with the Can-Spam Act, VideoMarketingBlaster.com has implemented the following guidelines for email delivery:
+**You can opt out of targeted advertising by:**
 
-1\. All emails sent to you by VideoMarketingBlaster.com will clearly identify VideoMarketingBlaster.com as the sender. FROM / SENDER: someone@VideoMarketingBlaster.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @VideoMarketingBlaster.com).  
-2\. The Subject Line of any email you receive will always accurately describe the subject matter of the email.  
-3\. Any email from VideoMarketingBlaster.com will include the ability to unsubscribe from future email messages.  
-4\. Unsubscribing will ensure the customer is removed from ALL lists at VideoMarketingBlaster.com; this excludes customer service emails regarding the processing and status of a current product.  
-5\. All emails sent to you directly by VideoMarketingBlaster.com include valid postal address information in the footer.  
-6\. All third party marketing partners are required to comply with the Can-Spam Act.  
-7\. Emails sent to you directly by VideoMarketingBlaster.com will include an email address and physical address where you can send suggestions, complaints or other correspondence.
+FACEBOOK – https://www.facebook.com/settings/?tab=ads  
+GOOGLE – https://www.google.com/settings/ads/anonymous  
+BING – https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
 
-Section 10: Information for ISPs  
-Web site: VideoMarketingBlaster.com  
-Email Address: support@VideoMarketingBlaster.com
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at:  http://optout.aboutads.info/.
 
-VideoMarketingBlaster.com understands consumers’ concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies. VideoMarketingBlaster.com and its affiliated sites use only an “opt-in or opt out” method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. VideoMarketingBlaster.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
+**DO NOT TRACK**  
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-From time to time, VideoMarketingBlaster.com will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things,
+**YOUR RIGHTS**  
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-1\. that the data was collected voluntarily from individuals on website registrations and co-registrations,  
-2\. that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and  
-3\. that VideoMarketingBlaster.com has the right to send marketing offers to the individuals.
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above.  Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-We hope this information satisfies any questions or concerns you may have regarding the email practices of VideoMarketingBlaster.com. If you have additional questions or wish to discuss this matter further, please contact us at: support@blastersuite.com.
+**DATA RETENTION**  
+When you enter your email or place an order through the Site, we will maintain your Contact Information and Order Information for our records and marketing purposes unless and until you ask us to delete this information.
 
-**
+**CHANGES**  
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+**CONTACT US**  
+For more information about our privacy practices, if you have questions or comments, please contact us support ticket at http://blastersuite.com/support
