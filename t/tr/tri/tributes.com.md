@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tributes.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629000526id_/http%3A//www.tributes.com/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tributes.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231210726id_/http%3A//www.tributes.com/global/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Tributes.com
 
@@ -99,8 +99,8 @@ If you have questions or suggestions about our Privacy Policy, please complete a
 
 Tributes, Inc.   
 c/o Legacy.com, Inc.   
-820 Davis Street, Suite 210   
-Evanston, IL 60201   
+230 W. Monroe Suite 400   
+Chicago, IL 60606   
 [tributes@legacy.com](mailto:tributes@legacy.com)
 
 #### YOUR CALIFORNIA PRIVACY RIGHTS
