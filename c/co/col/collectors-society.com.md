@@ -1,19 +1,10 @@
-> *The following text is extracted and transformed from the collectors-society.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416082723id_/http%3A//www.collectiblesgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectors-society.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231212930id_/https%3A//www.collectiblesgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This website is operated by the Certified Collectibles Group (“CCG”)
+This website is operated by Certified Collectibles Group, LLC or one of its affiliated companies (“CCG”).
 
-This Privacy Policy covers how CCG (also “we” or “us”) collects, uses, retains, processes, discloses and transfers Personal Information on the websites of the CCG Companies and on our mobile application NGC Coin Details (together the “Site” or the “Website”). The websites of the CCG companies include:
-
-  * Numismatic Guaranty Corporation (NGC): [www.ngccoin.com](https://www.ngccoin.com/), [www.ngccoin.co.za](http://www.ngccoin.co.za/), [www.ngccoin.cn](https://www.ngccoin.cn/), [www.ngccoin.hk](https://www.ngccoin.hk/), [www.ngccoin.jp](http://www.ngccoin.jp/), [www.ngccoin.sg](http://www.ngccoin.sg/), [www.ngccoin.kr](http://www.ngccoin.kr/), [www.ngccoin.tw](http://www.ngccoin.tw/), [www.ngccoin.de](https://www.ngccoin.de/), [www.ngccoin.es](http://www.ngccoin.es/), [www.ngccoin.fr](http://www.ngccoin.fr/), [www.ngccoin.it](http://www.ngccoin.it/), [www.ngccoin.pl](http://www.ngccoin.pl/), [www.ngccoin.ru](http://www.ngccoin.ru/), [www.ngccoin.ch](http://www.ngccoin.ch/) and [www.ngccoin.co.uk](http://www.ngccoin.co.uk/)
-  * Numismatic Conservation Services (NCS): [www.ncscoin.com](http://www.ncscoin.com/)
-  * Paper Money Guaranty (PMG): [www.pmgnotes.com](https://www.pmgnotes.com/), [www.pmgnotes.cn](https://www.pmgnotes.cn/), [www.pmgnotes.hk](https://www.pmgnotes.hk/), [www.pmgnotes.kr](https://www.pmgnotes.kr/) and [www.pmgnotes.tw](https://www.pmgnotes.tw/)
-  * Certified Guaranty Company (CGC): [www.cgccomics.com](http://www.cgccomics.com/), [www.cgcmagazines.com](http://www.cgcmagazines.com/), [www.certifiedguaranty.com](http://www.certifiedguaranty.com/)
-  * Classic Collectible Services (CCS): [www.ccspaper.com](http://www.ccspaper.com/)
-  * Certified Collectibles Group (CCG): [www.collectiblesgroup.com](http://www.collectiblesgroup.com/) and [www.collectors-society.com](http://www.collectors-society.com/)
-
-
+This Privacy Policy covers how CCG (also “we” or “us”) collects, uses, retains, processes, discloses and transfers Personal Information on this website or on our mobile applications NGC and NGC Coin Details (together the “Site” or the “Website”).
 
 Personal Information includes information about you that is personally identifying such as your name, email address, postal address and phone number and which is not otherwise publicly available. Personal Information may include other types of information depending on the legal definition that applies in your physical location. Only the legal definition of Personal Information that applies in your location will apply to you under this Privacy Policy.
 
@@ -21,7 +12,7 @@ Personal Information includes information about you that is personally identifyi
 
 **By using the Site and by providing information to the Site, you accept and hereby expressly consent to our collection, use, retention, processing, disclosure and transfer, including cross-border transfer, of your Personal Information in accordance with the terms of this Privacy Policy.**
 
-This Privacy Policy may change from time to time, so please check back periodically to check the most recent modification date to ensure that you are aware of any changes in our processing of your Personal Information. Your continued use of the Site, our products or services after any changes signifies your express consent to any such changes. If you do not agree to such changes, you must immediately stop using the Site. This Privacy Policy was last modified on May 27, 2016.
+This Privacy Policy may change from time to time, so please check back periodically to check the most recent modification date to ensure that you are aware of any changes in our processing of your Personal Information. Your continued use of the Site, our products or services after any changes signifies your express consent to any such changes. If you do not agree to such changes, you must immediately stop using the Site.
 
 ### Information Collection and Use; Choice and Consent
 
@@ -39,19 +30,21 @@ If you register your collectibles in the NGC, PMG or CGC Registry programs and p
 
 If you choose to post messages in our message boards, chat rooms or other message areas or leave feedback for other users, we will collect the information you choose to disclose and we may add it to your profile. If you send us personal correspondence, such as e-mails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect the information and we may add it to your profile.
 
-When you use our mobile app NGC Coin Details, we collect your user ID to identify individual users.
+When you use our mobile apps NGC and NGC Coin Details, we collect your user ID to identify individual users.
 
 It is always your choice whether or not to provide us with Personal Information. If you do provide Personal Information to the Site, you are giving your voluntary and express consent to the collection, use, processing, retention, transfer and disclosure, including international transfer and disclosure, of your Personal Information as described in this Privacy Policy. If you choose not to provide the requested information you may not be able to access certain features or functions of this Site, including the Members-Only Services. You may access, change, modify or delete your information, at any time, as described below.
 
-You may opt out from receipt of our emails by clicking “unsubscribe” at the bottom of the emails you receive from us or by opting out in the “Email Settings” section of “My Account” on our website. You have the right to object to the use of your Personal Information for direct marketing purposes by email, on a going forward basis, by emailing us at [Admin@CollectiblesGroup.com](mailto:Admin@CollectiblesGroup.com).
+You may opt out from receipt of our emails by clicking “unsubscribe” at the bottom of the emails you receive from us or by opting out in the “Email Settings” section of “My Account” on our website. You have the right to object to the use of your Personal Information for direct marketing purposes by email, on a going forward basis, by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b1a3f3632351b183437373e382f3239373e281c29342e2b75383436).
 
-You may revoke your consent, and/or object to or block processing of your Personal Information by emailing a request to us at [Admin@CollectiblesGroup.com](mailto:Admin@CollectiblesGroup.com). We will respond to your request in accordance with the law that applies to you. Your Personal Information which we processed prior to your request may not be deleted from our Site system records but will be blocked from further processing without your permission. A request to revoke consent or block processing of your Personal Information may not apply to information collected by cookies or used internally to recognize you and/or facilitate your visits to the Site, or information we may keep to comply with legal requirements.
+You may revoke your consent, and/or object to or block processing of your Personal Information by emailing a request to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#19587d747077595a7675757c7a6d707b757c6a5e6b766c69377a7674). We will respond to your request in accordance with the law that applies to you. Your Personal Information which we processed prior to your request may not be deleted from our Site system records but will be blocked from further processing without your permission. A request to revoke consent or block processing of your Personal Information may not apply to information collected by cookies or used internally to recognize you and/or facilitate your visits to the Site, or information we may keep to comply with legal requirements.
 
 ### Cookies
 
-When you visit the Site, we use session “cookies,” a piece of information stored on your computer temporarily and deleted from the user’s device when the browser is closed, to allow us to uniquely identify your browser while you are browsing or interacting with the Site. Session cookies also help us confirm your identity and are required in order to log into your account. If you wish to prevent cookies from being used as you navigate our Site, you can reset your browser to refuse all cookies and/or indicate when a cookie is being sent.
+When you visit the Site, we use session “cookies,” a piece of information stored on your computer temporarily, to allow us to uniquely identify your browser while you are browsing or interacting with the Site. Session cookies also help us confirm your identity and are required in order to log into your account. If you wish to prevent cookies from being used as you navigate our Site, you can reset your browser to refuse all cookies and/or indicate when a cookie is being sent.
 
 Users who disable their web browsers’ ability to accept cookies will be able to browse the Site, but will not be able to access or take advantage of all of the features and services on the Site. We therefore recommend you do not block or disable these cookies. To find out more about cookies, including how to see what cookies have been sent and how to manage, as well as delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+To learn more about our cookies, see our [Cookie Policy](https://ngccoin.com/legal/cookie-policy/).
 
 ### Google Analytics
 
@@ -62,7 +55,7 @@ The Web Site uses Google Analytics. For more information about Google analytic c
 
 
 
-Google have developed the Google Analytics opt-out browser add-on for the Google Analytics JavaScript (ga.js, analytics.js, dc.js). If you want to opt out of Google Analytics, you can download and install the add-on for your web browser [here](https://tools.google.com/dlpage/gaoptout/).
+Google has developed the Google Analytics opt-out browser add-on for the Google Analytics JavaScript (ga.js, analytics.js, dc.js). If you want to opt out of Google Analytics, you can download and install the add-on for your web browser [here](https://tools.google.com/dlpage/gaoptout/).
 
 ### Protection of Your Information
 
@@ -72,9 +65,23 @@ We will retain Personal Information for as long as necessary to provide our serv
 
 ### Information Sharing and Disclosure
 
-Information that is collected by any of the websites named above is shared with affiliates in the CCG group of companies for their internal and direct marketing purposes, consistent with any necessary consents. We share your Personal Information with third parties necessary to enable us to provide the Services and with third parties that perform telemarketing and direct marketing on our behalf (our “Subcontractors”). For example, we disclose Personal Information to Authorize.net, our payment provider, to enable them to process your membership payments. The Authorize.net privacy policy is available at [www.authorize.net/company/privacy/](http://www.authorize.net/company/privacy/). Our Subcontractors are contractually obligated to maintain the confidentiality of your Personal Information consistent with the terms of this Policy and to comply with the applicable data protection laws.
+Information that is collected by the Website may be disclosed in the following ways:  
 
-We may disclose non-personal information and de-identified aggregate information to Google Analytics or other third parties.
+
+  * Information may be disclosed to affiliates in the Certified Collectibles Group of companies for internal purposes; 
+  * Non-personal information and de-identified aggregate information may be disclosed to Google Analytics or other third parties; and
+  * Personal Information may be disclosed to third parties as necessary to enable us to provide the Services and to perform telemarketing and direct marketing on our behalf (our “Subcontractors”). For example, we disclose Personal Information to Authorize.net, our payment provider, to enable them to process your membership payments. The Authorize.net privacy policy is available at [www.authorize.net/company/privacy/](https://www.authorize.net/about-us/privacy/). Our Subcontractors are contractually obligated to maintain the confidentiality of your Personal Information consistent with the terms of this Policy and to comply with the applicable data protection laws.
+
+
+
+In addition, information that is collected by the Website may be disclosed or used in the following ways, unless you opt-out of such disclosures or uses:  
+
+
+  * Information may be disclosed to affiliates in the Certified Collectibles Group of companies and used to market goods or services of the Certified Collectibles Group of companies; 
+  * Information may be disclosed to affiliates in the Certified Collectibles Group of companies and used to market goods or services of third parties; and
+  * Information may be disclosed to third parties and used to market goods or services of such third parties.
+
+
 
 We will disclose your information in response to valid legal process, for example, in response to a court order, a subpoena or other legal request for information, and/or to comply with applicable legal and regulatory reporting requirements. We also may disclose your information in response to a law enforcement agency's request or other request for information from the U.S. or other government entities, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or to verify or enforce compliance with our policies and with applicable laws, or as otherwise required or permitted by law or consistent with legal requirements.
 
@@ -88,7 +95,7 @@ Given that the Internet operates in a global environment and that transfer of yo
 
 The Site may contain links to other sites that are not owned or controlled by CCG. Please be aware that we are not responsible for the privacy practices of these other sites. We encourage you to review the privacy policies and statements of other sites to understand their information practices. Our Privacy Policy applies only to information collected by our Site and Services.
 
-CCG is not responsible for and will not be a party to any transactions between you and a third party provider of products, information or services. CCG does not monitor such transactions or ensure the confidentiality of your Personal Information, including credit card information, for any third party transaction. Any separate charges or obligations you incur in your dealings with these third parties linked to the Site are solely your responsibility.
+CCG is not responsible for and will not be a party to any transactions between you and a third-party provider of products, information or services. CCG does not monitor such transactions or ensure the confidentiality of your Personal Information, including credit card information, for any third-party transaction. Any separate charges or obligations you incur in your dealings with these third parties linked to the Site are solely your responsibility.
 
 ### Children
 
@@ -100,13 +107,13 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 
 ### Accessing Your Information
 
-You may access, review, change, update or delete your Personal Information, request information about our collection, use and disclosure of such information, and request information on our policies and practices relating to disclosure of information to our service providers, by contacting us at [Admin@CollectiblesGroup.com](mailto:Admin@CollectiblesGroup.com). We will respond to these requests in accordance with the laws that apply to you. You can help us maintain the accuracy of your information by promptly notifying us of any changes to your information.
+You may access, review, change, update or delete your Personal Information, request information about our collection, use and disclosure of such information, and request information on our policies and practices relating to disclosure of information to our service providers, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e7a6838a8e89a7a4888b8b8284938e858b8294a095889297c984888a). We will respond to these requests in accordance with the laws that apply to you. You can help us maintain the accuracy of your information by promptly notifying us of any changes to your information.
 
 ### Contact Us About Complaints, Questions or Notices relating to this Privacy Policy
 
-CCG commits to resolving complaints about your privacy and our collection or use of your Personal Information. If you believe your privacy rights have been violated or you disagree with any action CCG has taken with regard to your Personal Information you may file a complaint with CCG by emailing us at [Admin@CollectiblesGroup.com](mailto:Admin@CollectiblesGroup.com).
+CCG commits to resolving complaints about your privacy and our collection or use of your Personal Information. If you believe your privacy rights have been violated or you disagree with any action CCG has taken with regard to your Personal Information you may file a complaint with CCG by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c889aca5a1a6888ba7a4a4adabbca1aaa4adbb8fbaa7bdb8e6aba7a5).
 
-If you have questions or suggestions, or wish to correct your Personal Information, please email us at [Admin@CollectiblesGroup.com](mailto:Admin@CollectiblesGroup.com).
+If you have questions or suggestions, or wish to correct your Personal Information, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7e3f1a1317103e3d1112121b1d0a171c121b0d390c110b0e501d1113).
 
 ### You may contact us at:
 
@@ -115,7 +122,7 @@ CCG
 PO Box 4711  
 Sarasota, FL 34230
 
-Email: [Admin@CollectiblesGroup.com](mailto:Admin@CollectiblesGroup.com)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#29684d444047696a4645454c4a5d404b454c5a6e5b465c59074a4644)
 
 By Phone: +1 941 360 3994  
 By Fax: +1 941 360 2553 
@@ -123,3 +130,5 @@ By Fax: +1 941 360 2553
 ### Terms of Service
 
 Please also visit our [Terms of Service](https://web.archive.org/legal/) section establishing the use, disclaimers, and limitations of liability governing the use of the website that is available in your location.
+
+Revised: 07/11/2018
