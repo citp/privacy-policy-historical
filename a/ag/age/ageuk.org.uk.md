@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ageuk.org.uk privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623213455id_/https%3A//www.ageuk.org.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ageuk.org.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231064136id_/http%3A//www.ageuk.org.uk/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Age UK
 
 We have updated this policy to reflect changes in data protection law. This policy is effective from 25 May 2018. 
 
