@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonearena.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229054057id_/http%3A//www.phonearena.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonearena.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231113126id_/https%3A//www.phonearena.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy (Phone Arena)
 
@@ -58,14 +58,14 @@ We use third party advertising companies to serve ads when you visit PhoneArena.
 
 ### Links
 
-PhoneArena may contain links to third party websites to which we have no affiliation. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
+We are a participant in the Amazon Services LLC Associate Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to the Amazon.com and affiliated sites. PhoneArena may include links to other websites as part of content created by PhoneArena (“PhoneArena Content”) or User-Generated Content. PhoneArena does not control or endorse any content of these third party websites, and, by using PhoneArena you agree that PhoneArena is not responsible for the availability or content of such third party websites.
 
   
 
 
 ### Third Party Advertising
 
-Advertisements that appear on PhoneArena are sometimes delivered (or "served") directly to Users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. PhoneArena does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on PhoneArena unless you choose to share it with them.
+Advertisements that appear on PhoneArena are sometimes delivered (or "served") directly to Users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and "web beacons" or other cross-device tracking technologies, to collect information about you when you use the website on different devices and platforms and to measure the effectiveness of their ads and to personalize advertising content. They may collect information about your online activities over time and across different websites and other online services. Doing this allows the advertising network to recognize your computer or other devices each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. PhoneArena does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on PhoneArena unless you choose to share it with them.
 
 **_This Privacy Policy covers the use of cookies by PhoneArena and does not cover the use of cookies or other tracking technologies by any of its advertisers._**
 
@@ -95,6 +95,12 @@ Your account is password protected. We use industry standard measures to protect
 ### E-mails and Opt-out
 
 You may opt-out of receiving personal messages from specific Users by changing the notification settings under the “Account” tab after you log on to PhoneArena Unregistered Users who receive e-mails from us may also opt-out of receiving further e-mails by following the instructions contained in our e-mails.
+
+If you do not want to receive advertisements based on usage data collected by PhoneArena, you can opt out of data collection by managing many companies' online advertising cookies. To do that, you can use consumer choices created in some countries' self-regulatory programs, such as the EU Online Choices program (<http://www.youronlinechoices.eu/>) or the US-based DAA and NAI opt-out programs (<http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/>).
+
+Managing the cookies is also possible in your web browser. You can either delete cookies from your cookie folder once you have finished your visit at our website or you can set your preferences with regard to the use of cookies before you begin browsing our website. Further information can be found at: [Google](https://www.google.com/intl/en/chrome/browser/privacy/) / Firefox / [Windows](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies) / Safari.
+
+Please note, that deleting or rejecting cookies may adversely affect your user experience of our website. Also note that opting out does not mean you will stop seeing advertisements, but that the advertisements you do see will not be influenced by the usage data collected by PhoneArena. You may still see ads based on factors such as your overall location, your IP address, your browser type, and your search terms.
 
   
 
