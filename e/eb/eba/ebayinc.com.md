@@ -1,33 +1,98 @@
-> *The following text is extracted and transformed from the ebayinc.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302044904id_/https%3A//www.ebayinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebayinc.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231083933id_/https%3A//www.ebayinc.com/our-company/privacy-center) for the most accurate reproduction.*
 
-# Privacy Policy - eBay Inc.
+# Privacy Center - eBay Inc.
 
-ebayinc.com is owned and operated by eBay Inc. This privacy policy describes how we handle your personal information. By using ebayinc.com (the "Site") you consent to the storage, processing, transfer and disclosure of your personal information as described in this privacy policy. This policy is effective as of November 16, 2015.
+##  Our Principles 
 
-### Collection
+The privacy of your personal information is important to us. We are committed to providing you with an experience on all our sites and services that is safe, secure, and trustworthy.
 
-You may browse this Site without providing any personal information about yourself. However, to receive notifications, updates or request additional information about eBay Inc. or this Site, we may collect the following information: name, contact information, email address, company and user ID; correspondence sent to or from us; any additional information you choose to provide; and other information from your interaction with our Site, services, content and advertising, including computer and connection information, statistics on page views, traffic to and from the Site, ad data, IP address and standard web log information. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in the United States.
+## Our Privacy Principles and What They Mean
 
-### Cookies and Other Tracking Technologies
+  * **Be transparent with the information we collect**
 
-We use cookies, web beacons, unique identifiers, and similar technologies to collect information about the pages you view, the links you click, and other actions you take on our Site. For more information about our use of these technologies and how to control them, see our notice on [Cookies, Web Beacons and Similar Technologies](http://www.ebayprivacycenter.com/privacy/cookies).
 
-### Use
 
-We use your personal information to provide you with the services you request, communicate with you, troubleshoot problems, customize your experience, inform you about our services and Site updates and measure interest in our sites and services.
+We want our users to understand what information eBay collects and the value they receive in return.
 
-### Disclosure
+We aim to explain to our users the information that we collect from them and what we plan on doing with it. Where we use techniques that gather information without your direct input, we will let our customers and users know and provide them options to limit this collection.
 
-We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a posting or other content violates other's rights, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations. We may also share personal information with service providers who help with our business operations, and with members of our corporate family, who may provide joint content and services and help detect and prevent potentially illegal acts. Should we plan to merge or be acquired by another business entity, we may share personal information with the other company and will require that the new combined entity follow this privacy policy with respect to your personal information.
+  *  **Allow users to easily access and update their own data  
+**
 
-### Access
 
-You may access or update the personal information you provided to us at any time by contacting us at [ebayinc@ebay.com](mailto:ebayinc@ebay.com).
 
-### Security
+Having accurate information about our users helps create a smooth customer experience.
 
-We treat information as an asset that must be protected and use lots of tools to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect that your personal information or private communications will always remain private.
+We will provide mechanisms where we can to give our users access to information related to their account and other interactions with eBay. We want our customers and users to be able to easily correct that information if it is wrong or out of date.
 
-### General
+  *  **Be a guardian for user data and user privacy**
 
-We may update this policy at any time by posting amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the site. For questions about this policy, email us at [ebayinc@ebay.com](mailto:ebayinc@ebay.com) or write to us at eBay Inc. Attn: Legal - Global Privacy Practices, 2145 Hamilton Avenue, San Jose, California 95125.
+
+
+Users trust us with their personal information and expect us to protect and use it appropriately.
+
+We operate information privacy and information security programs that incorporate leading practices to manage personal data from collection through to destruction.
+
+  *  **Be accountable to our privacy commitments**
+
+
+
+We take our commitment to privacy seriously and hold ourselves to a high standard.
+
+Our program takes into account legal requirements and our commitments to our customers to deliver a trusted experience when interacting with eBay.
+
+  *  **Give users meaningful choices in privacy**
+
+
+
+We know that control over personal information is important.
+
+We give our users real and realistic choices about what information they share with us and how it is used, and provide visibility into those choices and how they can be updated.
+
+  *  **Limit the sharing of customer information**
+
+
+
+We limit the sharing of customer information and provide our users with visibility into circumstances where we could share outside of eBay, and choices about the extent that information is shared.
+
+  *   **Build and maintain safe products & services**
+
+
+
+We work hard to provide buyers and sellers a safe and trustworthy place to interact.
+
+We have implemented a number of programs to protect everyone who uses eBay websites. With millions of transactions per day, a small number don’t go as planned. We have developed complaint and escalation processes to help resolve problems in a fair and consistent manner.
+
+##  Our Commitment 
+
+## Binding Corporate Rules
+
+In addition to eBay Inc.'s privacy principles and the practices described in our privacy notice, eBay Inc. has established a set of Corporate Rules (also referred to as Binding Corporate Rules), approved by the Luxembourg National Data Commission.
+
+These Corporate Rules are a commitment by eBay Inc. to adequately protect your personal information regardless of where the data resides, and depending upon your location, may provide additional privacy rights through your privacy regulator or a court. Translations of our User Corporate Rules are available below:
+
+  * [English](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-english.pdf)
+  * [Czech](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-czech.pdf)
+  * [Danish](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-danish.pdf)
+  * [Dutch](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-dutch.pdf)
+  * [Estonian](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-estonian.pdf)
+  * [French](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-french.pdf)
+  * [German](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-german.pdf)
+  * [Italian](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-italian.pdf)
+  * [Japanese](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-japanese.pdf)
+  * [Polish](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-polish.pdf)
+  * [Spanish](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-spanish.pdf)
+  * [Swedish](https://static.ebayinc.com/assets/Uploads/PrivacyCenter/ebay-corporate-rules-swedish.pdf)
+
+
+
+##  Our Team 
+
+## Working to Protect Your Data
+
+  * eBay’s Global Privacy Team works to protect the privacy of our user’s personal information throughout all of our businesses
+  * We provide advice to our businesses on the appropriate use and disclosure of personal information
+  * We work to develop and foster a business culture that values privacy at all of our businesses through awareness
+  * We provide advice and direction on privacy requirements and practices and we set expectations for our entire eBay community
+
+
