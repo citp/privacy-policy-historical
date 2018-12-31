@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coinspeaker.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625034029id_/https%3A//www.coinspeaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinspeaker.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231025704id_/https%3A//www.coinspeaker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – CoinSpeaker
+# Privacy Policy | CoinSpeaker
 
 Your privacy is important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share information we obtain through your use of the Internet sites, applications and services (“Services”) that are operated by, controlled by or are affiliate with STB Media, Ltd., including without limitation  CoinSpeaker (collectively, “we,” “us” or “our”). This Privacy Policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through the Services. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using the Services, you explicitly consent to such use of your information and agree to the terms of this Privacy Policy.
 
@@ -16,15 +16,15 @@ You can visit the Services without telling us who you are or revealing any infor
 
 * ## Our Information Sharing Practices
 
-**(a) Generally.**  Except as otherwise described in this section of our Privacy Policy, we will never share your Usage Data, Personal Information, Non-Personal Information, or Shared Information (which we will refer to in this Privacy Policy collectively as “User Information”) with any third party without your permission.
+ **(a) Generally.**  Except as otherwise described in this section of our Privacy Policy, we will never share your Usage Data, Personal Information, Non-Personal Information, or Shared Information (which we will refer to in this Privacy Policy collectively as “User Information”) with any third party without your permission.
 
-**(b) Advertisers.**  From time to time, we may share your Usage Data and Non-Personal Information to enable third parties who serve advertisements on the Services to deliver advertisements that will be relevant to you. We will not share any such information, however, in a manner that would enable the advertiser to personally identify you.
+ **(b) Advertisers.**  From time to time, we may share your Usage Data and Non-Personal Information to enable third parties who serve advertisements on the Services to deliver advertisements that will be relevant to you. We will not share any such information, however, in a manner that would enable the advertiser to personally identify you.
 
-**(c) Aggregated Data.**  From time to time, we may share aggregated User Information with third parties. We will not share any aggregated data, however, in manner that would enable the recipient to personally identify you.
+ **(c) Aggregated Data.**  From time to time, we may share aggregated User Information with third parties. We will not share any aggregated data, however, in manner that would enable the recipient to personally identify you.
 
-**(d) Service Providers.**  From time to time, we may enter into relationships with third parties who provide services to us (e.g., data management and storage services or credit card processing services). In those circumstances, we disclose User Information that is necessary for such service providers to perform those services and require that they maintain the confidentiality of such User Information.
+ **(d) Service Providers.**  From time to time, we may enter into relationships with third parties who provide services to us (e.g., data management and storage services or credit card processing services). In those circumstances, we disclose User Information that is necessary for such service providers to perform those services and require that they maintain the confidentiality of such User Information.
 
-**(e) Other Disclosure Scenarios.**  Notwithstanding anything in this Privacy Policy to the contrary, we reserve the right, and you hereby expressly authorize us, to share any User Information: (1) in response to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims; (2) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person or property; (3) if we believe it is necessary to investigate, prevent, or take action regarding significant abuse of the Services’ infrastructure or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of information); (4) to our parent company, subsidiaries, joint ventures, or other companies under common control with us (in which case we will require such entities to honor this Privacy Policy); and (5) if we are acquired by or merged with another entity.
+ **(e) Other Disclosure Scenarios.**  Notwithstanding anything in this Privacy Policy to the contrary, we reserve the right, and you hereby expressly authorize us, to share any User Information: (1) in response to subpoenas, court orders, or legal process, or to establish, protect, or exercise our legal rights or defend against legal claims; (2) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person or property; (3) if we believe it is necessary to investigate, prevent, or take action regarding significant abuse of the Services’ infrastructure or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of information); (4) to our parent company, subsidiaries, joint ventures, or other companies under common control with us (in which case we will require such entities to honor this Privacy Policy); and (5) if we are acquired by or merged with another entity.
 
 * ## Public Information
 
@@ -84,4 +84,4 @@ We may update this Privacy Policy from time to time. If under any such update we
 
 * ## Questions
 
-If you have any questions about this Privacy Policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b3834352f3a382f1b38343235282b3e3a303e2975383436).
+If you have any questions about this Privacy Policy, please feel free to contact us by email at [contact@coinspeaker.com](mailto:contact@coinspeaker.com).
