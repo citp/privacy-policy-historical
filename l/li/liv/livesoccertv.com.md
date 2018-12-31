@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livesoccertv.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210211925id_/http%3A//www.livesoccertv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesoccertv.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231143618id_/https%3A//www.livesoccertv.com/privacy) for the most accurate reproduction.*
 
 # Live Soccer TV
 
@@ -10,7 +10,7 @@ Live Soccer TV collects personal information during the Forum Registration, Cont
 
 We may share aggregate information - not individual data -with our sponsors and potential sponsors to help them better understand our members' interests.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/choices/](https://www.networkadvertising.org/choices/).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/choices/>.
 
 **Use of Data Collected**
 
