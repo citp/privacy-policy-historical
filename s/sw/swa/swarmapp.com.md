@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the swarmapp.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622133429id_/https%3A//foursquare.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swarmapp.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231022244id_/https%3A//foursquare.com/legal/privacy) for the most accurate reproduction.*
 
 # Foursquare
 
-**Last Updated: May 25, 2018**
+**Last Updated: Nov 14, 2018**
 
 For more information, see [Foursquare Privacy Basics](https://support.foursquare.com/hc/en-us/articles/201065830).
 
@@ -120,7 +120,7 @@ Each of your check-ins using the Consumer Services is saved to your "Check-in Hi
 
 We may use technologies like cookies, pixels, web beacons, local storage and other identifiers on our Sites, in our emails, within our Apps and sometimes in third party apps that use our API or SDK to provide you with a range of products and services. We use these technologies for a number of purposes, such as for authentication, security, preference settings, advertising and analytics. We sometimes work with advertisers or other partners, and advertising service providers to serve ads to you on the Consumer Services, or a third party website or app, that may be relevant to you based on your interaction with the Consumer Services, including places you have “checked in”.
 
-You can control cookies through your browser settings and other tools. For more information, including the types of cookies and similar technologies found on Foursquare, please read our '[Cookie Policy](https://web.archive.org/legal/cookiepolicy).
+You can control cookies through your browser settings and other tools. For more information, including the types of cookies and similar technologies found on Foursquare, please read our [Cookie Policy](https://web.archive.org/legal/cookiepolicy).
 
 #### How do I Access or Delete My Data?
 
@@ -235,9 +235,9 @@ The criteria for determining the duration for which we will keep your PII are as
 
 Our Apps and all of our data, including your Data, are hosted on servers in the United States. If you are using or accessing the Consumer Services or Enterprise Services from outside of the United States, your Data will be transferred to, processed and stored in the United States. As a result, United States federal and state governments, courts, or law enforcement or regulatory agencies may be able to obtain your Data through laws applicable in the United States. United States laws may not offer the same privacy protections as the law of your jurisdiction.
 
-Foursquare complies with the EU-U.S. Privacy-Shield Framework and EU-Swiss Privacy-Shield Framework (“Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of PII transferred from the European Union (the “EU”) and Switzerland to the United States. Foursquare has certified to the Department of Commerce that it adheres to the Privacy Shield Principles (the “Principles”). All PII Foursquare receives from the EU in reliance on the Privacy Shield are subject to the Principles. All Foursquare entities, including Foursquare Labs, Inc., Foursquare Labs UK Limited and Foursquare Labs Asia Pte. Ltd, adhere to the Principles, where applicable. If there is any conflict between the terms in this Privacy Policy and the Principles, the Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+Foursquare complies with the EU-U.S. Privacy-Shield Framework and Swiss-U.S. Privacy-Shield Framework (“Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of PII transferred from the European Union (the “EU”) and Switzerland to the United States, respectively. Foursquare has certified to the Department of Commerce that it adheres to the Privacy Shield Principles (the “Principles”). All PII Foursquare receives from the EU in reliance on the Privacy Shield are subject to the Principles. All Foursquare entities, including Foursquare Labs, Inc., Foursquare Labs UK Limited and Foursquare Labs Asia Pte. Ltd, adhere to the Principles, where applicable. If there is any conflict between the terms in this Privacy Policy and the Principles, the Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-You have the right to access your PII. In compliance with the Principles, Foursquare commits to resolve complaints about our collection or use of your PII. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [privacy@foursquare.com](mailto:privacy@foursquare.com). Foursquare has further committed to refer unresolved Privacy Shield complaints JAMS, an alternative dispute resolution provider located in the United States. If you do not receive a timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit JAMS for more information or to file a complaint. The services of JAMS are provided at no cost to you.
+You have the right to access your PII. In compliance with the Principles, Foursquare commits to resolve complaints about our collection or use of your PII. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at [privacy@foursquare.com](mailto:privacy@foursquare.com). Foursquare has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive a timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit JAMS for more information or to file a complaint: <https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim>. The services of JAMS are provided at no cost to you.
 
 You have the ability, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For more information, please visit: <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
 
@@ -252,3 +252,10 @@ Foursquare may amend this Privacy Policy from time to time. We encourage you to 
 #### Contact Us
 
 If you have any questions or concerns regarding this Privacy Policy, please send a detailed message to: [privacy@foursquare.com](mailto:privacy@foursquare.com) or Foursquare Labs, Inc., 50. West 23rd Street, 8th Floor, New York, NY 10010. We will make every effort to resolve your concerns.
+
+Verasafe has been appointed as Foursquare’s representative in the European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union. Verasafe can be contacted, in addition to [Foursquare](mailto:privacy@foursquare.com), for matters related to the processing of your personal data only. To make such an inquiry, please contact VeraSafe:
+
+  * online: <https://www.verasafe.com/privacy-services/contact-article-27-representative/>; or
+  * by mail: VeraSafe Ireland Ltd., Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork T23AT2P, Ireland
+
+
