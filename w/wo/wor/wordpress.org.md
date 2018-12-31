@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordpress.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624035457id_/https%3A//wordpress.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordpress.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231143535id_/https%3A//wordpress.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WordPress.org
 
@@ -54,10 +54,13 @@ You have the right to request a copy of the information we hold about you. If yo
 
 All WordCamp attendee-provided data can be viewed and changed by the attendee via the Access Token URL that is emailed to confirm a successful ticket purchase.
 
-WordPress.org user accounts can be edited by following these steps:  
-1) Visit [https://login.wordpress.org](https://login.wordpress.org/), and then enter your username and password.  
-2) You will be redirected to https://profiles.wordpress.org/your_username.  
-3) Click the “Edit” link next to your username.
+WordPress.org user accounts can be edited by following these steps:
+
+  1. Visit [https://login.wordpress.org](https://login.wordpress.org/), and enter your username and password. 
+  2. You will be redirected to https://profiles.wordpress.org/your_username.
+  3. Click the “Edit” link next to your username.
+
+
 
 ### Retention of personal information
 
