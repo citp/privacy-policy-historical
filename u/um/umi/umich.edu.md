@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the umich.edu privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615212417id_/https%3A//www.umich.edu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umich.edu privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231085303id_/https%3A//www.umich.edu/about/privacy) for the most accurate reproduction.*
 
-# About › University of Michigan
+# Privacy Notice › University of Michigan
 
 _Last Revision Date — May 24, 2018_
 
@@ -95,8 +95,8 @@ To enhance your experience, we may place “cookies” on your computer or devic
 **Opt-out:** Find out more about managing [cookies through your browser ](https://policies.google.com/technologies/managing) . 
 
 **CrazyEgg Cookies**  
-**Purpose:** CrazyEgg Cookies provide information on how visitors use our website. See here the [Privacy Policy ](https://www.crazyegg.com/privacy) and the [Cookie Policy ](https://www.crazyegg.com/cookies) of CrazyEgg. ****   
-**Opt-out:** Find out here on how to [opt out ](https://www.crazyegg.com/opt-out) . 
+**Purpose:** CrazyEgg Cookies provide information on how visitors use our website. See here the [Privacy Policy](https://www.crazyegg.com/privacy) and the [Cookie Policy](https://www.crazyegg.com/cookies) of CrazyEgg. ****   
+**Opt-out:** Find out here on how to [opt out](https://www.crazyegg.com/opt-out) . 
 
 **Social Media Plugins**
 
@@ -112,30 +112,10 @@ This privacy notice may be updated from time to time. We will post the date our 
 
 **Who to Contact with Questions or Concerns**
 
-If you have any concerns or questions about how your personal data is used, please contact our Privacy Office at [privacy@umich.](mailto:privacy@umich.edu) [edu](mailto:privacy@umich.edu) . You can also contact us at 500 S State St, Ann Arbor, Michigan, 48109. 
+If you have any concerns or questions about how your personal data is used, please contact our Privacy Office at [privacy@umich.edu](mailto:privacy@umich.edu). You can also contact us at 500 S State St, Ann Arbor, Michigan, 48109. 
 
 We strive to promptly respond to your request, and will do our best to address your concern. However, if you believe we have not been able to deal with your concern appropriately, you have a right to complain to your local data protection authority. You also have the right to submit a complaint in the Member State of your residence or place of work of an alleged infringement of the GDPR.
 
-* * *
+[**Please click here for notice specific to persons within the European Union** __](https://umich.edu/about/privacy-statement/#eu)
 
-**NOTICE SPECIFIC TO PERSONS WITHIN THE EUROPEAN UNION**
-
-If you are in the EU and you interact with the University of Michigan in the context of this website, then our processing of your personal information may fall under [Regulation 2016/679 (the General Data Protection Regulation, or the “GDPR”)](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG) and under the legal framework of Directive 2002/58/EC (“ePrivacy” Directive). In these circumstances and as applicable, the University of Michigan may be the controller of the processing of your personal data. Please see also our [GDPR resources webpage](https://www.safecomputing.umich.edu/protect-the-u/safely-use-sensitive-data/general-data-protection-regulation-compliance) for more information. 
-
-**LEGAL BASIS FOR PROCESSING**
-
-When we process your personal information, we will endeavor to have a valid lawful ground for processing in place. We process your personal information relying on different lawful grounds for processing, depending on the context of the processing activity.
-
-**YOUR RIGHTS**
-
-The University of Michigan is committed to facilitating the exercise of the rights granted to you by EU data protection law (the right to access your data, to ask for erasure, correction, restriction, portability of your data or to object to the processing of your data) in a timely manner for personal information that properly falls under the GDPR.
-
-In order to be able to reply to your request for exercise of your rights, and if we are not certain of your identity, we may need to ask you for further identification data to be used only for the purposes of replying to your request. If you have any inquiries or requests, please write to [privacy@umich.edu](mailto:privacy@umich.edu) or contact us through our postal address. 
-
-**RETENTION PERIOD**
-
-We strive to keep personal data in our records only as long as they are necessary for the purposes they were collected and processed. Retention periods vary and are established considering our legitimate purposes and all applicable legal requirements.
-
-**TRANSFERS**
-
-When you interact with the University of Michigan, your personal information is transferred to the United States. The United States is not currently among the countries outside the European Union that have obtained an adequate level of protection from the European Commission. To ensure the lawful transfers of personal data from the EU, the University of Michigan relies on the derogations laid out in Article 49 GDPR. Be advised that we provide safeguards for the information transferred, as required by the GDPR itself and in accordance with this website privacy notice.
+[View our Privacy Statement __](https://umich.edu/about/privacy-statement/)
