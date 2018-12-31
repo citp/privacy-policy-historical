@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the fentybeauty.com privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625144740id_/https%3A//www.fentybeauty.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fentybeauty.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231140754id_/https%3A//www.fentybeauty.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta charset="UTF-8">
+<meta name="format-detection" content="telephone=no">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//www.google.com">
 <link rel="dns-prefetch" href="//display.ugc.bazaarvoice.com">
@@ -51,163 +52,13 @@
 <link rel="dns-prefetch" href="//www.paypalobjects.com">
 <link rel="dns-prefetch" href="//fonts.gstatic.com">
 
+
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T9B39X7"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script>var app={};</script>
 <!--[if gt IE 9]><!-->
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
-<script defer="" src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/js/responsive.js"></script>
-<script defer="" src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/compiled/vendor.min.js"></script>
-<script defer="" src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/compiled/app.min.js"></script>
-<script>
-	(function(app){
-		app.tgresources = {"tgCommerceShippingMethodID":"TGCommerce","currencyConversionEnabled":null,"baseCurrency":"USD","tgCommerceWelcomeMat":"/on/demandware.store/Sites-FENTY-Site/default/TGCommerce-WelcomeMatStart","tgCommerceHidePostalCode":"AI,AG,AN,AW,BS,BH,BB,BZ,BM,VG,BI,CV,KY,CF,XC,DM,GQ,ER,FK,FJ,GI,GD,HT,HK,IE,JM,KW,MO,MS,NR,NO,NI,PA,WS,ST,SA,SB,XN,XS,SS,SR,TL,TO,TV,AE,VU,ZM,CD,CW,DJ,BO"};
-		app.tgresources.currencyRates = {"AED":4.3167,"ARS":9.4021,"AUD":1.1369,"BRL":2.6400,"CAD":1.1640,"CHF":1.0362,"CLP":663.5709,"CNY":7.3311,"CZK":23.3202,"DKK":5.6968,"EUR":0.7631,"GBP":0.6286,"HKD":9.1111,"HUF":261.4704,"ILS":4.0979,"INR":71.7813,"JPY":107.9692,"KWD":0.3305,"MXN":15.3646,"MYR":3.8377,"NOK":6.3183,"NZD":1.2301,"PHP":52.5668,"PLN":3.5607,"RUB":41.9759,"SEK":6.9348,"SGD":1.4770,"THB":38.0061,"TWD":35.6322,"USD":1.0000};
-	}(window.app = window.app || {}));
-</script>
-<script defer="" src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/js/tgcommerce.js" type="text/javascript"></script>
-<script defer="" type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-4ea5d98601c1dc84"></script>
-<script>
-	// Google Maps Form Autocomplete API
-	
-		var placeSearch, autocomplete, autocomplete2, form1, form2;
-		var componentMapping = {
-			street_number: '.form-row.address1 input',
-			route: '.form-row.address1 input',
-			locality: '.form-row.city input',
-			administrative_area_level_1: '.form-row.states select,.form-row.state select',
-			administrative_area_level_3: '.form-row.city input',
-			country: '.form-row.country select',
-			postal_code: '.form-row.postal-code input,.form-row.zip input'
-		};
-
-		var componentForm = {
-			street_number: 'short_name',
-			route: 'long_name',
-			locality: 'long_name',
-			administrative_area_level_1: 'short_name',
-			administrative_area_level_3: 'short_name',
-			country: 'short_name',
-			postal_code: 'short_name'
-		};
-
-		function initAutocomplete() {
-			form1 = $($('.form-row.address1 input')[0]).closest('form');
-			form2 = $($('.form-row.address1 input')[1]).closest('form');
-			if (form1.length > 0) {
-				autocomplete = new google.maps.places.Autocomplete((form1.find('.form-row.address1 input')[0]), {
-					types: ['geocode']
-				});
-				autocomplete.addListener('place_changed', fillInAddress);
-			}
-			if (form2.length > 0) {
-				autocomplete2 = new google.maps.places.Autocomplete((form2.find('.form-row.address1 input')[0]), {
-					types: ['geocode']
-				});
-				autocomplete2.addListener('place_changed', fillInAddress2);
-			}
-
-			$('.form-row.address1 input').attr('autocomplete','on');
-		}
-
-		function fillInAddress() {
-			var street = '';
-			var place = autocomplete.getPlace();
-			for (var component in componentForm) {
-				form1.find(componentMapping[component]).val('')
-			}
-			for (var i = 0; i < place.address_components.length; i++) {
-				var addressType = place.address_components[i].types[0];
-				if (componentForm[addressType]) {
-					var val = place.address_components[i][componentForm[addressType]];
-					var theInput = form1.find(componentMapping[addressType]);
-					
-					if (addressType == 'street_number' || addressType == 'route') {
-						if (street != '') {
-							street = street + ' ';							
-						}
-						street = street + val;
-						if (addressType == 'route') {
-							theInput.val(street);
-						}
-					} else {
-						theInput.val(val);
-					}
-					
-					if (addressType != 'street_number') {
-						if( theInput.val().trim() !== '' ) { // foro yoshiko effect
-							$(theInput.parentNode).addClass( 'input--filled' );
-						}						
-					}
-				}
-			}
-
-			form1.find('select[name$="_addressFields_countries_country"]').trigger('change');
-			$('select').selectric('refresh');
-		}
-
-		function fillInAddress2() {
-			var street = '';
-			var place = autocomplete2.getPlace();
-			for (var component in componentForm) {
-				form2.find(componentMapping[component]).val('')
-			}
-			for (var i = 0; i < place.address_components.length; i++) {
-				var addressType = place.address_components[i].types[0];
-				if (componentForm[addressType]) {
-					var val = place.address_components[i][componentForm[addressType]];
-					var theInput = form2.find(componentMapping[addressType]);
-					
-					if (addressType == 'street_number' || addressType == 'route') {
-						if (street != '') {
-							street = street + ' ';							
-						}
-						street = street + val;
-						if (addressType == 'route') {
-							theInput.val(street);
-						}
-					} else {
-						theInput.val(val);
-					}
-					
-					if (addressType != 'street_number') {
-						if( theInput.val().trim() !== '' ) { // foro yoshiko effect
-							$(theInput.parentNode).addClass( 'input--filled' );
-						}						
-					}
-				}
-			}
-			form2.find('select[name$="_addressFields_countries_country"]').trigger('change');
-			$('select').selectric('refresh');
-		}
-
-		function geolocate() {
-			if (navigator.geolocation) {
-				navigator.geolocation.getCurrentPosition(function(position) {
-					var geolocation = {
-						lat: position.coords.latitude,
-						lng: position.coords.longitude
-					};
-					var circle = new google.maps.Circle({
-						center: geolocation,
-						radius: position.coords.accuracy
-					});
-					autocomplete.setBounds(circle.getBounds())
-				})
-			}
-		}
-		$(document).ready(function () {
-			$('.form-row.address1 input').on("focus", function() {
-				geolocate();
-				$(this).attr('autocomplete','off');
-				
-			}).on("blur", function() {
-				$(this).attr('autocomplete','on');
-			});
-		});
-
-	
-</script>
-<script defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCG4HcxDZPFhF1UOn3eCNTHT0qrYEMCQuU&amp;libraries=places&amp;callback=initAutocomplete"></script>
+<script defer="" src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/js/responsive.js"></script>
+<script defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCG4HcxDZPFhF1UOn3eCNTHT0qrYEMCQuU&amp;libraries=places"></script>
 <style>			
 	.pac-item {
 	    padding: 0 6px;
@@ -249,14 +100,24 @@
 	margin-left: 7px;
 }
 </style>
+<script defer="" src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/compiled/vendor.min.js"></script>
+<script defer="" src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/compiled/app.min.js"></script>
+<script>
+	(function(app){
+		app.tgresources = {"tgCommerceShippingMethodID":"TGCommerce","currencyConversionEnabled":null,"baseCurrency":"USD","tgCommerceWelcomeMat":"/on/demandware.store/Sites-FENTY-Site/default/TGCommerce-WelcomeMatStart","tgCommerceHidePostalCode":"AI,AG,AN,AW,BS,BH,BB,BZ,BM,VG,BI,CV,KY,CF,XC,DM,GQ,ER,FK,FJ,GI,GD,HT,HK,IE,JM,KW,MO,MS,NR,NO,NI,PA,WS,ST,SA,SB,XN,XS,SS,SR,TL,TO,TV,AE,VU,ZM,CD,CW,DJ,BO"};
+		app.tgresources.currencyRates = {"AED":4.3167,"ARS":9.4021,"AUD":1.1369,"BRL":2.6400,"CAD":1.1640,"CHF":1.0362,"CLP":663.5709,"CNY":7.3311,"CZK":23.3202,"DKK":5.6968,"EUR":0.7631,"GBP":0.6286,"HKD":9.1111,"HUF":261.4704,"ILS":4.0979,"INR":71.7813,"JPY":107.9692,"KWD":0.3305,"MXN":15.3646,"MYR":3.8377,"NOK":6.3183,"NZD":1.2301,"PHP":52.5668,"PLN":3.5607,"RUB":41.9759,"SEK":6.9348,"SGD":1.4770,"THB":38.0061,"TWD":35.6322,"USD":1.0000};
+	}(window.app = window.app || {}));
+</script>
+<script defer="" src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/js/tgcommerce.js" type="text/javascript"></script>
+<script defer="" type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-4ea5d98601c1dc84"></script>
 <!--<![endif]-->
 <!--[if lt IE 9]>
 <script>
 // Picture element HTML5 shiv
 document.createElement( "picture" );
 </script>
-<script src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/lib/iecompat/html5.js"></script>
-<script src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/lib/jquery/modernizr-2.7.1.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/lib/iecompat/html5.js"></script>
+<script src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/lib/jquery/modernizr-2.7.1.js" type="text/javascript"></script>
 <![endif]-->
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
@@ -272,7 +133,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -318,6 +185,33 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
@@ -326,81 +220,100 @@ CQuotient.getCQUserId = function () {
 .dw-apple-pay-button:after{content:'Apple Pay';visibility:hidden;}.dw-apple-pay-button.dw-apple-pay-logo-white{background-color:white;border-color:white;background-image:-webkit-named-image(apple-pay-logo-black);color:black;}.dw-apple-pay-button.dw-apple-pay-logo-white.dw-apple-pay-border{border-color:black;}</style>
 <script>
 		var dataLayer = [];
+
 		
-	
-		
-		
+
 		
 		dataLayer.push ({
-			'gaID': 'UA-100201053-1',
+			"gaID": "UA-100201053-1",
+		});
+		
+		
+		var pageType = 'account';
+		var pageContextGTM = "";
+		
+		if (pageType.toLowerCase() == 'search') {
+			pageContextGTM = "Category";
+		}else if (pageType.toLowerCase() == 'product') {
+			pageContextGTM = "Product";
+		}else if (pageType.toLowerCase() == 'storefront') {
+			pageContextGTM = "Homepage";
+		}else if (pageType.toLowerCase() == 'cart') {
+			pageContextGTM = "Cart";
+		}else if (pageType.toLowerCase() == 'checkout') {
+			pageContextGTM = "Checkout";
+		}else if (pageType.toLowerCase() == 'orderconfirmation') {
+			pageContextGTM = "Confirmation";
+		}else if (pageType.toLowerCase() == 'videos') {
+			pageContextGTM = "Video";
+		}else if (pageType.toLowerCase() == 'blog' || pageType.toLowerCase() == 'magazine') {
+			pageContextGTM = "Content";
+		}else if (pageType.toLowerCase() == 'customerservice' || pageType.toLowerCase() == 'storelocator' || pageType.toLowerCase() == 'storelocatorresult') {				
+			pageContextGTM = "Information";
+		}else {
+			pageContextGTM = "Other";
+		}			
+		
+		dataLayer.push({ 'pageType' : pageContextGTM });
 
-		});	
-		
-		
-		
 		
 			dataLayer.push ({
 				'CurrentCustomerAuthenticated':'false',
 				'CurrentCustomerRegistered':'false',
-				'CurrentCustomerID':'acBhaI5oSPb6gwVpStEsZtl2zo',
-				'UserId': 'acBhaI5oSPb6gwVpStEsZtl2zo',
+				'CurrentCustomerID':'abAxCQkQXx7Wt476uOjtK9xIuu',
+				'UserId': 'abAxCQkQXx7Wt476uOjtK9xIuu',
 				'LoggedIn': false,
-				
-			});	
+			});
 			
-		
-		
-		
-			dataLayer.push ({
-				'CurrentRequestHttpUserAgent':'Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36',
-				'CurrentRequestDevice':'mobile'				
-			});				
-		
-	
-		
+
 		
 			dataLayer.push ({
-				'geoIPcity':'Kingston',
-				'geoIPcountryCode':'JM',
-				'geoIPpostalCode':'null',
-				'geoIPregionName':'01'
-			});				
-				
+				'CurrentRequestHttpUserAgent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36',
+				'CurrentRequestDevice':'desktop'
+			});
 		
-		
+
 		
 			dataLayer.push ({
-				'CurrentRequestUserAgent':'Kingston',
-				'geoIPcountryCode':'JM',
-				'geoIPpostalCode':'null',
-				'geoIPregionName':'01'
-			});				
-				
+				'geoIPcity':'Atlanta',
+				'geoIPcountryCode':'US',
+				'geoIPpostalCode':'30303',
+				'geoIPregionName':'GA'
+			});
+		
+
+		
+			dataLayer.push ({
+				'CurrentRequestUserAgent':'Atlanta',
+				'geoIPcountryCode':'US',
+				'geoIPpostalCode':'30303',
+				'geoIPregionName':'GA'
+			});
 		
 		
 		
 		
 		
 		
+
 		
-		
-			
 		dataLayer.push ({
-			'ecommerce': {
+			"ecommerce": {
 				
-				
-				
-				'currencyCode': 'USD', // Local currency is optional.
+
+				"currencyCode": "USD", // Local currency is optional.
 				
 				
 				
 				
 		}
 		});
-			
+		
+
+		
 	</script>
 <script>
-	var cdnUrlVar = 'https://www.fentybeauty.com/dw/image/v2/AAXW_PRD/on/demandware.static/-/Sites-FENTY-Library/default/v1529857117476/';
+	var cdnUrlVar = 'https://www.fentybeauty.com/dw/image/v2/AAXW_PRD/on/demandware.static/-/Sites-FENTY-Library/default/v1546105004250/';
 	function cdnUrl(){
 		$('*[background-cdn]').each(function() {$(this).css('background-image',('url("'+cdnUrlVar + $(this).attr('background-cdn')+'")'));});	
 		$('img[src-cdn]').each(function() {
@@ -408,24 +321,12 @@ CQuotient.getCQUserId = function () {
 			else {$(this).attr('data-src',(cdnUrlVar + $(this).attr('src-cdn'))).removeAttr("src-cdn").addClass('lazyload');}
 		});}	
 </script>
-<link rel="stylesheet" href="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/css/compiled/application_fenty.min.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/css/compiled/application_fenty.min.css">
 <meta name="google-site-verification" content="88uIyX-Lnmn_AI6SQ-OlXb_8TFyqSGdyBak8DHTEwws">
 <title>Privacy Policy | Fenty Beauty</title>
 <link href="/on/demandware.static/Sites-FENTY-Site/-/default/dwc680c7be/images/favicon.ico" rel="shortcut icon">
 <meta name="description" content=" Fenty Beauty privacy policy details Fenty Beauty">
 <meta name="keywords" content="  Fenty Beauty">
-<script type="text/javascript">
-	/*
-	*	Global Monetate array for tracking
-	*/
-	window.monetateQ = window.monetateQ || [];
-	
-	/*
-	*	Temporary storage for data: cartrows, breadcrumbs, products on the plp/clp/search pages
-	*/
-	window.monetateData = window.monetateData || {};
-	window.monetateData.setPageType = "unknown";
-</script>
 
 <meta property="og:type" content="website">
 <meta property="og:title" content="Privacy Policy | Fenty Beauty">
@@ -511,7 +412,7 @@ header>.top-row .header-banner a:hover{color:#fff }
 </div>
 <span class="close">
 <svg width="9px" height="9px" viewBox="0 0 9 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs></defs>
+<defs></defs>
 <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
 <g id="x-icon-white" stroke="#FFFFFF">
 <g>
@@ -587,6 +488,7 @@ header>.top-row .header-banner a:hover{color:#fff }
 <ul class="mobile-nav menu-utility">
 
 <li class="mobile-nav-login">
+
 <ul class="menu-utility-user">
 <li class="guest">
 <a rel="nofollow" href="https://www.fentybeauty.com/account" class="user-login disable-click">
@@ -598,16 +500,16 @@ header>.top-row .header-banner a:hover{color:#fff }
 <h2 class="section-header">Have an Account</h2>
 </div>
 <div class="login-box-content returning-customers clearfix">
-<form action="https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/Account-LoginInclude/C2033953891" method="post" class="clearfix" id="dwfrm_login">
+<form action="https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/Account-LoginInclude/C5935466" method="post" class="clearfix" id="dwfrm_login">
 <fieldset>
 <div class="email-field">
 <div class="form-row   required " data-required-text="Please enter your email address">
-<label for="dwfrm_login_username_d0ezsejcejbi">
+<label for="dwfrm_login_username_d0exnhlxdvnl">
 <span>
 Email
 </span>
 </label>
-<input data-required-text="Please enter valid data" class="input-text email-input srAccountEmail required" id="dwfrm_login_username" type="email" name="dwfrm_login_username_d0ezsejcejbi" value="" maxlength="2147483647" placeholder="EMAIL">
+<input data-required-text="Please enter valid data" class="input-text email-input srAccountEmail required" id="dwfrm_login_username" type="email" name="dwfrm_login_username_d0exnhlxdvnl" value="" maxlength="2147483647" placeholder="EMAIL">
 </div>
 </div>
 <div class="password-field">
@@ -636,7 +538,7 @@ Remember Me!
 Log In
 </button>
 </div>
-<input type="hidden" name="dwfrm_login_securekey" value="309464947">
+<input type="hidden" name="dwfrm_login_securekey" value="875683057">
 </fieldset>
 </form>
 <a rel="nofollow" title="Register" href="https://www.fentybeauty.com/register" class="user-register">
@@ -654,22 +556,22 @@ subscribe
 </a>
 </li>
 </ul>
-<li class="first null">
+<li class="first  ">
 <a href="https://www.fentybeauty.com/new-beauty-products" class="level-1 no-sub-cat" data-gtm-event="topNavigation" data-gtm-info="New">
 New
 </a>
 </li>
-<li class="null">
+<li class="  ">
 <a href="https://www.fentybeauty.com/makeup-all" class="level-1 has-sub-cat  false
-					  " data-gtm-event="topNavigation" data-gtm-info="Makeup">
-Makeup
+						  " data-gtm-event="topNavigation" data-gtm-info="Shop">
+Shop
 </a>
 <a class="mobile-cat-header mobile-toggle plus10 
-						  ">
-Makeup
+							  ">
+Shop
 </a>
-<div class="level-2 mobile-toggle-content  makeup">
-<div class="menu-wrapper makeup">
+<div class="level-2 mobile-toggle-content  shop">
+<div class="menu-wrapper shop">
 <ul class="level-2">
 <li class="
 							first  
@@ -677,7 +579,7 @@ Makeup
 							
 							
 					">
-<a href="https://www.fentybeauty.com/makeup/shop-new" class="level-2 
+<a href="https://www.fentybeauty.com/shop/shop-new" class="level-2 
 						
 						
 						
@@ -717,7 +619,47 @@ Makeup
 							
 							
 					">
-<a href="https://www.fentybeauty.com/makeup/travel-size" class="level-2 
+<a href="https://www.fentybeauty.com/shop/value-sets" class="level-2 
+						
+						
+						
+						
+											
+						
+						
+						
+						
+						
+						" data-gtm-event="utilityNavigation" data-gtm-info="Value Sets">Value Sets
+</a>
+</li>
+<li class="
+							  
+							 
+							
+							
+					">
+<a href="https://www.fentybeauty.com/shop/best-sellers" class="level-2 
+						
+						
+						
+						
+											
+						
+						
+						
+						
+						
+						" data-gtm-event="utilityNavigation" data-gtm-info="Best Sellers">Best Sellers
+</a>
+</li>
+<li class="
+							  
+							 
+							
+							
+					">
+<a href="https://www.fentybeauty.com/shop/travel-size" class="level-2 
 						
 						
 						
@@ -729,26 +671,6 @@ Makeup
 						
 						
 						" data-gtm-event="utilityNavigation" data-gtm-info="Travel-Size">Travel-Size
-</a>
-</li>
-<li class="
-							  
-							 
-							
-							
-					">
-<a href="https://www.fentybeauty.com/makeup/online-exclusives" class="level-2 
-						
-						
-						
-						
-											
-						
-						
-						
-						
-						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Online Exclusives">Online Exclusives
 </a>
 </li>
 <li class="
@@ -777,6 +699,26 @@ Makeup
 							
 							
 					">
+<a href="https://www.fentybeauty.com/shop/shop-the-look" class="level-2 
+						
+						
+						
+						
+											
+						
+						
+						
+						
+						
+						" data-gtm-event="utilityNavigation" data-gtm-info="Shop The Look">Shop The Look
+</a>
+</li>
+<li class="
+							  
+							 
+							
+							
+					">
 <a href="https://www.fentybeauty.com/shade-finder.html" class="level-2 
 						
 						
@@ -797,7 +739,7 @@ Makeup
 							
 							
 					">
-<a href="https://www.fentybeauty.com/egift-cards" class="level-2 
+<a href="https://www.fentybeauty.com/shop/how-spicy-can-you-get?source=shadefinder" class="level-2 
 						
 						
 						
@@ -808,14 +750,14 @@ Makeup
 						
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="E-GIFT CARDS">E-GIFT CARDS
+						" data-gtm-event="utilityNavigation" data-gtm-info="How Spicy Can You Get?">How Spicy Can You Get?
 </a>
 <div class="content-asset">
-<div class="beach-category-flyout">
-<a class="flyout-text" href="https://www.fentybeauty.com/makeup/beach-please" style="text-transform:capitalize;">
-<img alt="Beach Flyout Image" src-cdn="flyout/huan-summerII-flyout.jpg" class="beach-category-flyout">
+<div class="chill-owt-collection-flyout">
+<a class="flyout-text" href="https://www.fentybeauty.com/shop/chill-owt-collection" style="text-transform:capitalize;">
+<img alt="Chill Owt Collection" src-cdn="flyout/Hol18_Collection_HFO.jpg" class="chill-owt-collection-flyout">
 </a>
-<a class="flyout-text" style="text-align:center; width:149px;" href="https://www.fentybeauty.com/makeup/beach-please">Just dropped!<br>Shop Beach, Please!</a>
+<a class="flyout-text" style="text-align:center; width:149px;" href="https://www.fentybeauty.com/shop/chill-owt-collection"><strong>HOLIDAY PRICE DROP!<br>CHILL OWT COLLECTION</strong></a>
 </div>
 <style>
 img.beach-category-flyout { max-width: 100%; }
@@ -873,12 +815,12 @@ div.level-2.fenty.face ul.level-2 > li .content-asset { margin: 0; }
 <div class="level-3 mobile-toggle-content">
 <ul class="level-3">
 <li>
-<a href="https://www.fentybeauty.com/pro-filtr/soft-matte-longwear-foundation/FB30006.html" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Foundation">
+<a href="https://www.fentybeauty.com/face/foundation" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Foundation">
 Foundation
 </a>
 </li>
 <li>
-<a href="https://www.fentybeauty.com/pro-filtr/instant-retouch-primer/22353.html" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Primer">
+<a href="https://www.fentybeauty.com/face/primer" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Primer">
 Primer
 </a>
 </li>
@@ -925,13 +867,14 @@ Brushes + Tools
 						" data-gtm-event="utilityNavigation" data-gtm-info="Body">Body
 </a>
 </li>
+
 <li class="
 							  
 							 
 							
 							
 					">
-<a href="https://www.fentybeauty.com/makeup/eye" class="level-2 
+<a href="https://www.fentybeauty.com/shop/eye" class="level-2 
 						
 						
 						
@@ -951,7 +894,7 @@ Brushes + Tools
 							
 							
 					">
-<a href="https://www.fentybeauty.com/makeup/lip" class="level-2 
+<a href="https://www.fentybeauty.com/shop/lip" class="level-2 
 						
 						
 						
@@ -996,7 +939,7 @@ Lip Gloss
 							
 							
 					">
-<a href="https://www.fentybeauty.com/makeup/pro-filtr" class="level-2 
+<a href="https://www.fentybeauty.com/shop/pro-filtr" class="level-2 
 						
 						
 						
@@ -1016,7 +959,27 @@ Lip Gloss
 							
 							
 					">
-<a href="https://www.fentybeauty.com/makeup/match-stix" class="level-2 
+<a href="https://www.fentybeauty.com/shop/gloss-bomb" class="level-2 
+						
+						
+						
+						
+											
+						
+						
+						
+						
+						
+						" data-gtm-event="utilityNavigation" data-gtm-info="Gloss Bomb">Gloss Bomb
+</a>
+</li>
+<li class="
+							  
+							 
+							
+							
+					">
+<a href="https://www.fentybeauty.com/shop/match-stix" class="level-2 
 						
 						
 						
@@ -1046,32 +1009,16 @@ Lip Gloss
 							
 							
 					">
-<a href="https://www.fentybeauty.com/custom-match-stix-trio/conceal-contour-highlight/FB70001.html" class="level-2 
+<a href="https://www.fentybeauty.com/shop/killawatt" class="level-2 
 						
 						
 						
 						
 											
 						
-						
-						
-						
-						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Custom Match Stix Trio">Custom Match Stix Trio
-</a>
-</li>
-<li class="
-							  
-							 
 							
+						
 							
-					">
-<a href="https://www.fentybeauty.com/makeup/killawatt" class="level-2 
-						
-						
-						
-						
-											
 						
 						
 						
@@ -1079,6 +1026,10 @@ Lip Gloss
 						
 						" data-gtm-event="utilityNavigation" data-gtm-info="Killawatt">Killawatt
 </a>
+<div class="level-3 mobile-toggle-content">
+<ul class="level-3">
+</ul>
+</div>
 </li>
 <li class="
 							  
@@ -1086,7 +1037,7 @@ Lip Gloss
 							
 							
 					">
-<a href="https://www.fentybeauty.com/makeup/invisimatte" class="level-2 
+<a href="https://www.fentybeauty.com/shop/invisimatte" class="level-2 
 						
 						
 						
@@ -1106,7 +1057,27 @@ Lip Gloss
 							
 							
 					">
-<a href="https://www.fentybeauty.com/makeup/mattemoiselle" class="level-2 
+<a href="https://www.fentybeauty.com/shop/stunna" class="level-2 
+						
+						
+						
+						
+											
+						
+						
+						
+						
+						
+						" data-gtm-event="utilityNavigation" data-gtm-info="Stunna">Stunna
+</a>
+</li>
+<li class="
+							  
+							 
+							
+							
+					">
+<a href="https://www.fentybeauty.com/shop/mattemoiselle" class="level-2 
 						
 						
 						
@@ -1126,7 +1097,7 @@ Lip Gloss
 							
 							
 					">
-<a href="https://www.fentybeauty.com/makeup/beach-please" class="level-2 
+<a href="https://www.fentybeauty.com/shop/chill-owt-collection" class="level-2 
 						
 						
 						
@@ -1137,21 +1108,158 @@ Lip Gloss
 						
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Beach, Please!">Beach, Please!
+						" data-gtm-event="utilityNavigation" data-gtm-info="Chill Owt Collection">Chill Owt Collection
 </a>
 </li>
 </ul>
 </div>
 </div>
 </li>
-<li class="null">
+<li class="  ">
+<a href="https://www.fentybeauty.com/gifts" class="level-1 has-sub-cat  false
+						  " data-gtm-event="topNavigation" data-gtm-info="Gifts">
+Gifts
+</a>
+<a class="mobile-cat-header mobile-toggle plus10 
+							  ">
+Gifts
+</a>
+<div class="level-2 mobile-toggle-content  gifts">
+<div class="menu-wrapper gifts">
+<ul class="level-2">
+</ul><ul class="level-2 menu-newcol">
+<li class="
+							first  
+							 
+							
+							
+					">
+<a href="https://www.fentybeauty.com/egift-cards" class="level-2 
+						
+						
+						
+						
+											
+						
+						
+						
+						
+						
+						" data-gtm-event="utilityNavigation" data-gtm-info="E-Gift Cards">E-Gift Cards
+</a>
+</li>
+<li class="
+							  
+							 
+							
+							
+					">
+<a href="https://www.fentybeauty.com/gifts/under-%2425" class="level-2 
+						
+						
+						
+						
+											
+						
+						
+						
+						
+						
+						" data-gtm-event="utilityNavigation" data-gtm-info="Under $25">Under $25
+</a>
+</li>
+<li class="
+							  
+							 
+							
+							
+					">
+<a href="https://www.fentybeauty.com/gifts/under-%2450" class="level-2 
+						
+						
+						
+						
+											
+						
+						
+						
+						
+						
+						" data-gtm-event="utilityNavigation" data-gtm-info="Under $50">Under $50
+</a>
+</li>
+<li class="
+							  
+							 
+							
+							
+					">
+<a href="https://www.fentybeauty.com/gifts/under-%2475" class="level-2 
+						
+						
+						
+						
+											
+						
+						
+						
+						
+						
+						" data-gtm-event="utilityNavigation" data-gtm-info="Under $75">Under $75
+</a>
+</li>
+<li class="
+							  
+							 
+							
+							
+					">
+<a href="https://www.fentybeauty.com/gifts/under-%24100" class="level-2 
+						
+						
+						
+						
+											
+						
+						
+						
+						
+						
+						" data-gtm-event="utilityNavigation" data-gtm-info="Under $100">Under $100
+</a>
+</li>
+<li class="
+							  
+							last 
+							
+							
+					">
+<a href="https://www.fentybeauty.com/gifts/luxe-gifts" class="level-2 
+						
+						
+						
+						
+											
+						
+						
+						
+						
+						
+						" data-gtm-event="utilityNavigation" data-gtm-info="Luxe Gifts">Luxe Gifts
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="  ">
 <a href="https://www.fentybeauty.com/fenty-face" class="level-1 has-sub-cat  false
-					  " data-gtm-event="topNavigation" data-gtm-info="Fenty Face">
+						  " data-gtm-event="topNavigation" data-gtm-info="Fenty Face">
 Fenty Face
 </a>
 <a class="mobile-cat-header mobile-toggle plus10 
-						  ">
- Fenty Face
+							  ">
+Fenty Face
 </a>
 <div class="level-2 mobile-toggle-content  fenty face">
 <div class="menu-wrapper fenty face">
@@ -1162,8 +1270,7 @@ Fenty Face
 							
 							
 					">
-<a class="level-2 is-not-clickable 
-								
+<a href="https://www.fentybeauty.com/fenty-face/noname" class="level-2 
 						
 						
 						
@@ -1174,8 +1281,17 @@ Fenty Face
 						
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="beach">beach
+						" data-gtm-event="utilityNavigation" data-gtm-info="null">
 </a>
+<div class="content-asset">
+<span class="shadefinder"><a class="shade-finder" href="https://www.fentybeauty.com/shade-finder.html"><img alt="" src="https://www.fentybeauty.com/on/demandware.static/-/Sites-FENTY-Library/default/dw73761058/flyout/rihanna-launch-HFO.jpg" title=""></a>
+<a class="flyout-text shade-finder" href="https://www.fentybeauty.com/shade-finder.html" style="text-align:center; text-transform: uppercase; font-weight: bold;">Foundation<br>Shade Finder</a>
+</span>
+<style>
+#wrapper > header > div.max-width-container > div > nav > ul > li:nth-child(4) > div > div > ul:nth-child(1) > li > a { display: none; }
+#wrapper > header > div.max-width-container > div > nav > ul > li:nth-child(4) > div > div > ul:nth-child(1) > li > div.content-asset { text-align: center; margin-top: 0; }
+</style>
+</div>
 </li>
 </ul><ul class="level-2 menu-newcol">
 <li class="
@@ -1262,19 +1378,17 @@ Fenty Face
 </div>
 </div>
 </li>
-<li class="right">
+<li class="  ">
 <a href="https://www.fentybeauty.com/rihanna" class="level-1 has-sub-cat  false
-					  " data-gtm-event="topNavigation" data-gtm-info="Rihanna">
+						  " data-gtm-event="topNavigation" data-gtm-info="Rihanna">
 Rihanna
 </a>
 <a class="mobile-cat-header mobile-toggle plus10 
-						  ">
+							  ">
 Rihanna
 </a>
 <div class="level-2 mobile-toggle-content  rihanna">
 <div class="menu-wrapper rihanna">
-<ul class="level-2">
-</ul>
 <ul class="level-2">
 <li class="
 							first  
@@ -1282,7 +1396,7 @@ Rihanna
 							
 							
 					">
-<a href="https://www.fentybeauty.com/rihanna-looks" class="level-2 
+<a href="https://www.fentybeauty.com/rihanna/get-rihannas-looks" class="level-2 
 						
 						
 						
@@ -1293,9 +1407,20 @@ Rihanna
 						
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Rihanna's Looks">Rihanna's Looks
+						" data-gtm-event="utilityNavigation" data-gtm-info="Get Rihanna's Looks">Get Rihanna's Looks
 </a>
+<div class="content-asset">
+<span>
+<a href="https://www.fentybeauty.com/rihanna/get-rihannas-looks"><img alt="" src="https://www.fentybeauty.com/on/demandware.static/-/Sites-FENTY-Library/default/dwc5bb92b0/flyout/3_rihanna_stl_bundle_sephoraspain_HFO.jpg" <="" a="">
+</a><a href="https://www.fentybeauty.com/rihanna/get-rihannas-looks" class="flyout-text" style="font-weight: bold; padding-left:3%; text-transform: uppercase;">Get Rihanna's Looks</a>
+</span>
+<style>
+#wrapper > header > div.max-width-container > div > nav > ul > li:nth-child(5) > div > div > ul:nth-child(1) > li > a { display: none; }
+#wrapper > header > div.max-width-container > div > nav > ul > li:nth-child(5) > div > div > ul:nth-child(1) > li > div.content-asset { text-align: center; margin-top: 0; }
+</style>
+</div>
 </li>
+</ul><ul class="level-2 menu-newcol">
 <li class="
 							  
 							 
@@ -1317,6 +1442,10 @@ Rihanna
 									
 							
 						
+							
+									
+							
+						
 						
 						 
 							mobile-plus10 mobile-toggle
@@ -1328,7 +1457,6 @@ Rihanna
 <div class="level-3 mobile-toggle-content">
 <ul class="level-3">
 <li>
-
 <a href="https://www.fentybeauty.com/about-fenty" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Fenty Beauty">
 Fenty Beauty
 </a>
@@ -1338,8 +1466,33 @@ Fenty Beauty
 The Makeup
 </a>
 </li>
+<li>
+<a href="https://www.fentybeauty.com/about/artistry" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Artistry">
+Artistry
+</a>
+</li>
 </ul>
 </div>
+</li>
+ <li class="
+							  
+							 
+							
+							
+					">
+<a href="https://www.fentybeauty.com/about-fenty-beauty" class="level-2 
+						
+						
+						
+						
+											
+						
+						
+						
+						
+						
+						" data-gtm-event="utilityNavigation" data-gtm-info="@FentyBeauty">@FentyBeauty
+</a>
 </li>
 <li class="
 							  
@@ -1362,26 +1515,35 @@ The Makeup
 									
 							
 						
+							
+									
+							
+						
 						
 						 
 							mobile-plus10 mobile-toggle
 						
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Video">Video
+						" data-gtm-event="utilityNavigation" data-gtm-info="Videos">Videos
 </a>
 <div class="level-3 mobile-toggle-content">
 <ul class="level-3">
+<li>
+<a href="https://www.fentybeauty.com/tutorial-tuesdays" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Tutorial Tuesdays">
+Tutorial Tuesdays
+</a>
+</li>
+<li>
+<a href="https://www.fentybeauty.com/more-tutorials" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="More Tutorials">
+More Tutorials
+</a>
+</li>
 <li>
 <a href="https://www.fentybeauty.com/featured" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Featured">
 Featured
 </a>
 </li>
-<li>
-<a href="https://www.fentybeauty.com/tutorials" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Tutorials">
-Tutorials
-</a>
-</li>
 </ul>
 </div>
 </li>
@@ -1389,9 +1551,51 @@ Tutorials
 </div>
 </div>
 </li>
-<li class="last null">
-<a href="https://www.fentybeauty.com/about-fenty-beauty" class="level-1 no-sub-cat" data-gtm-event="topNavigation" data-gtm-info="@FentyBeauty">
-@FentyBeauty
+<li class=" last  top-cat-with-image">
+<a href="https://www.fentybeauty.com/clara-lionel-foundation">
+<span class="top-cat-image-container">
+<img class="top-cat-image" src="/on/demandware.static/-/Sites-navigationFENTY/default/dweb168e63/fb-clf-donation.png">
+<p class="top-cat-image-text">Clara Lionel
+<br>
+Foundation
+<style>
+	@media screen and (max-width: 1110px) {
+		.sticky header nav ul.level-1 > li {
+			padding-right: 10px;
+			padding-left: 10px;
+		}
+		.sticky header nav ul.level-1 > li.first {
+			padding-right: 10px;
+		}
+		.sticky header nav ul.level-1 > li.last {
+			padding-left: 10px;
+		}
+	}
+	
+	@media screen and (max-width: 1055px) {
+		.sticky header nav ul.level-1 > li {
+			padding-right: 5px;
+			padding-left: 5px;
+		}
+		.sticky header nav ul.level-1 > li.first {
+			padding-right: 5px;
+		}
+		.sticky header nav ul.level-1 > li.last {
+			padding-left: 5px;
+		}
+	}
+	
+	@media screen and (max-width: 1005px) {
+		.sticky header nav ul.level-1 > li.top-cat-with-image {
+			
+			max-width: 135px;
+		}
+		.sticky header nav ul.level-1 > li.top-cat-with-image .top-cat-image {
+			display: none;
+		}
+	}
+</style></p>
+</span>
 </a>
 </li>
 </ul>
@@ -1436,7 +1640,7 @@ Tutorials
 <fieldset>
 <legend class="visually-hidden">Search Catalog</legend>
 <label class="visually-hidden" for="q">Search</label>
-<a class="hide-on-fenty hide-on-bite hide-on-ole search-icon desktop" data-gtm-event="utilityNavigation" data-gtm-info="search">
+<a class="hide-on-fenty hide-on-ole search-icon desktop" data-gtm-event="utilityNavigation" data-gtm-info="search">
 <svg version="1.1" id="search-icon" xmlns:x="&amp;ns_extend;" xmlns:i="&amp;ns_ai;" xmlns:graph="&amp;ns_graphs;" height="15" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="57.5 396.4 15 15" style="enable-background:new 57.5 396.4 15 15;" xml:space="preserve">
 <metadata>
 <sfw xmlns="&amp;ns_sfw;">
@@ -1449,7 +1653,7 @@ Tutorials
 </svg>
 <div class="show-on-kvd">search</div>
 </a>
-<button type="submit" class="hide-on-fenty hide-on-bite search mobile">
+<button type="submit" class="hide-on-fenty search mobile">
 <svg version="1.1" id="search-icon" xmlns:x="&amp;ns_extend;" xmlns:i="&amp;ns_ai;" xmlns:graph="&amp;ns_graphs;" height="15" width="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="57.5 396.4 15 15" style="enable-background:new 57.5 396.4 15 15;" xml:space="preserve">
 <metadata>
 <sfw xmlns="&amp;ns_sfw;">
@@ -1495,7 +1699,6 @@ Tutorials
 <div class="mobile-right">
 
 
-
 <div id="mini-cart" class="mini-cart">
 <div class="mini-cart-total-wrap">
 <a href="https://www.fentybeauty.com/cart" title="View Bag" class="mini-cart-link">
@@ -1529,8 +1732,8 @@ Tutorials
 <span class="checkout-link-help">
 Need Help? Call 1.855.440.7474
 </span>
-<a href="https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/Home-Show" class="checkout-link-home">
-Back to Shop
+<a href="https://www.fentybeauty.com/index" class="checkout-link-home">
+Back to site
 </a>
 </div>
 </div>
@@ -1543,12 +1746,6 @@ Back to Shop
 <li><span class="breadcrumb-last">Privacy Policy</span></li>
 </ol>
 </div>
-<script type="text/javascript">
-	/*
-	*	Writing breadcrumbs to the temporary storage
-	*/
-	monetateData.breadCrumbs = ["Home","Customer Service","Privacy Policy"];
-</script>
 
 <main class="clearfix">
 <div id="secondary" class="nav">
@@ -1583,7 +1780,7 @@ Back to Shop
 <li><a href="https://www.fentybeauty.com/faq.html">FAQS</a></li>
 <li><a href="https://www.fentybeauty.com/sitemap.html">Site Map</a></li>
 <li><a href="https://www.fentybeauty.com/privacy-policy.html">Privacy</a></li>
-<li><a href="https://www.fentybeauty.com/terms-of-use.html">Legal</a></li>
+<li><a href="https://www.fentybeauty.com/terms-of-use.html">Terms of Use</a></li>
 <br>
 <li><a href="https://www.fentybeauty.com/account">My Account</a></li>
 <li><a href="https://www.fentybeauty.com/orders">Check Order</a></li>
@@ -1606,6 +1803,7 @@ Back to Shop
 	</div>
 </noscript>
 </div>
+
 <style type="text/css">
 				
 				
@@ -1637,63 +1835,189 @@ Back to Shop
 
 <h2>FENTY BEAUTY PRIVACY POLICY</h2>
 <p></p>
-<p></p><h2>GENERAL</h2><p></p>
-<p> Kendo Holdings, Inc. and its affiliates (“Company” or “we” or “us” or “our”) respects the privacy of its users (“user” or “you”) that use our website located at www.fentybeauty.com, including other media forms, media channels, mobile website or mobile application related or connected thereto (collectively, the “Website”). The following Company privacy policy (“Privacy Policy”) is designed to inform you, as a user of the Website, about the types of information that Company may gather about or collect from you in connection with your use of the Website. It also is intended to explain the conditions under which Company uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the Website, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the Website you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the Website.</p>
-<p>The Website is hosted in the United States of America and is subject to U.S. state and federal law. If you are accessing our Website from other jurisdictions, please be advised that you are transferring your personal information to us in the United States, and by using our Website, you consent to that transfer and use of your personal information in accordance with this Privacy Policy. You also agree to abide by the applicable laws of applicable states and U.S. federal law concerning your use of the Website and your agreements with us. Any persons accessing our Website from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure, different from those of the jurisdictions mentioned above may only use the Website in a manner lawful in their jurisdiction. If your use of the Website would be unlawful in your jurisdiction, please do not use the Website.</p>
-<p>BY USING OR ACCESSING THE WEBSITE, YOU ARE ACCEPTING THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY.</p>
-<h2>GATHERING, USE AND DISCLOSURE OF NON-PERSONALLY-IDENTIFYING INFORMATION</h2>
-<p><strong><i>Users of the Website Generally</i></strong></p>
-<p>“Non-Personally-Identifying Information” is information that, without the aid of additional information, cannot be directly associated with a specific person. “Personally-Identifying Information,” by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person. Like most website operators, Company gathers from users of the Website Non-Personally-Identifying Information of the sort that Web browsers, depending on their settings, may make available. That information includes the user’s Internet Protocol (IP) address, operating system, browser type and the locations of the websites the user views right before arriving at, while navigating and immediately after leaving the Website. Although such information is not Personally-Identifying Information, it may be possible for Company to determine from an IP address a user’s Internet service provider and the geographic location of the visitor’s point of connectivity as well as other statistical usage data. Company analyzes Non-Personally-Identifying Information gathered from users of the Website to help Company better understand how the Website is being used. By identifying patterns and trends in usage, Company is able to better design the Website to improve users’ experiences, both in terms of content and ease of use. From time to time, Company may also release the Non-Personally-Identifying Information gathered from Website users in the aggregate, such as by publishing a report on trends in the usage of the Website.</p>
-<p><strong><i>Web Cookies</i></strong></p>
-<p>A “Web Cookie” is a string of information which assigns you a unique identification that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the website. We use cookies on the Website to keep track of services you have used, to record registration information regarding your login name and password, to record your user preferences, to keep you logged into the Website and to facilitate purchase procedures. Company also uses Web Cookies to track the pages that users visit during each Website session, both to help Company improve users’ experiences and to help Company understand how the Website is being used. As with other Non-Personally-Identifying Information gathered from users of the Website, Company analyzes and discloses in aggregated form information gathered using Web Cookies, so as to help Company, its partners and others better understand how the Website is being used. COMPANY USERS WHO DO NOT WISH TO HAVE WEB COOKIES PLACED ON THEIR COMPUTERS SHOULD SET THEIR BROWSERS TO REFUSE WEB COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. WEBSITE USERS WHO REFUSE WEB COOKIES ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. </p>
-<p><strong><i>Web Beacons</i></strong></p>
-<p>A “Web Beacon” is an object that is embedded in a web page or email that is usually invisible to the user and allows website operators to check whether a user has viewed a particular web page or an email. Company may use Web Beacons on the Website and in emails to count users who have visited particular pages, viewed emails and to deliver co-branded services. Web Beacons are not used to access users’ Personally-Identifying Information. They are a technique Company may use to compile aggregated statistics about Website usage. Web Beacons collect only a limited set of information, including a Web Cookie number, time and date of a page or email view and a description of the page or email on which the Web Beacon resides. You may not decline Web Beacons. However, they can be rendered ineffective by declining all Web Cookies or modifying your browser setting to notify you each time a Web Cookie is tendered, permitting you to accept or decline Web Cookies on an individual basis.</p>
-<p><strong><i>Analytics</i></strong></p>
-<p>We may use third-party vendors, including Google, who use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize and serve ads based on your past activity on the Website, including Google Analytics for Display Advertising. The information collected may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. If you do not want any information to be collected and used by Google Analytics, you can install an opt-out in your web browser (https://tools.google.com/dlpage/gaoptout/) and/or opt out from Google Analytics for Display Advertising or the Google Display Network by using Google’s Ads Settings (www.google.com/settings/ads).</p>
-<p><strong><i>Aggregated and Non-Personally-Identifying Information</i></strong></p>
-<p>We may share aggregated and Non-Personally Identifying Information we collect under any of the above circumstances. We may also share it with third parties and our affiliate companies to develop and deliver targeted advertising on the Website and on websites of third parties. We may combine Non-Personally Identifying Information we collect with additional Non-Personally Identifying Information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to the Website and the most popular features or services accessed. This information does not contain any Personally-Identifying Information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.</p>
-<p></p><h2>SOCIAL MEDIA </h2><p></p>
-<p>We may provide you the option to connect your account on the Website to your account on some social networking sites for the purpose of logging in, uploading information or enabling certain features on the Website. When logging in using your social network credentials, we may collect the Personally-Identifying Information you have made publicly available on the social networking site, such as your name, profile picture, cover photo, username, gender, friends network, age range, locale, friend list and any other information you have made public. Once connected, other users may also be able to see information about your social network, such as the size of your network and your friends, including common friends. By connecting your account on the Website to your account on any social networking site, you hereby consent to the continuous release of information about you to us. We will not send any of your account information to the connected social networking site without first disclosing that to you. Each social network may further allow you to set privacy controls around your information on their system, and our collection of information will always follow such controls and permissions. This feature is subject to continuous change and improvement by us and each social networking site involved, and therefore the available features and shared information are subject to change without notice to you.</p>
-<p>We may use hyperlinks on the Website which will redirect you to a social network if you click on the respective link. However, when you click on a social plug-in, such as Facebook’s “Like” button, Twitter’s “tweet” button or the Google+, that particular social network’s plugin will be activated and your browser will directly connect to that provider’s servers. If you do not use these buttons, none of your data will be sent to the respective social network’s plugin provider. So for example, when you click on the Facebook’s “Like” button on the Website, Facebook will receive your IP address, the browser version and screen resolution, and the operating system of the device you have used to access the Website. Settings regarding privacy protection can be found on the websites of these social networks and are not within our control.</p>
-<h2>COLLECTION, USE AND DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION </h2>
-<p><strong><i>Website Registration</i></strong></p>
-<p>As defined above, Personally-Identifying Information is information that can be directly associated with a specific person. Company may collect a range of Personally-Identifying Information from and about Website users. Much of the Personally-Identifying Information collected by Company about users is information provided by users themselves when (1) registering for our service, (2) logging in with social network credentials, (3) participating in polls, contests, surveys or other features of our service, or responding to offers or advertisements, (4) communicating with us, (5) creating a public profile or (6) signing up to receive newsletters. That information may include each user’s name, address, email address and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender, age, date of birth, username, hometown and other demographic or relevant information as determined by Company from time to time. Users of the Website are under no obligation to provide Company with Personally-Identifying Information of any kind, with the caveat that a user’s refusal to do so may prevent the user from using certain Website features.</p>
-<p>BY REGISTERING WITH OR USING THE WEBSITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONALLY-IDENTIFYING INFORMATION AS DESCRIBED IN THIS “COLLECTION, USE AND DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION” SECTION.</p>
-<p><strong><i>Company Communications</i></strong></p>
-<p>We may occasionally use your name and email address to send you notifications regarding new services offered by the Website that we think you may find valuable. We may also send you service-related announcements from time to time through the general operation of the service. Generally, you may opt out of such emails at the time of registration or through your account settings, though we reserve the right to send you notices about your account, such as service announcements and administrative messages, even if you opt out of all voluntary email notifications.</p>
-<p><strong><i>Company Disclosures</i></strong></p>
-<p>Company will disclose Personally-Identifying Information under the following circumstances: </p>
+<p><strong><em>Effective Date: September 19, 2018</em> </strong></p>
+<p><strong>Kendo Holdings, Inc. and our affiliates (hereinafter “Kendo” or “Company”) care about the processing, confidentiality and safety of your personal data. </strong></p>
+<p><strong>This policy applies to Fenty Beauty, LLC, a subsidiary of Kendo, located at www.fentybeauty.com. We refer to Kendo and the website together as "Kendo", "we", "us" or "our." </strong></p>
+<p><strong>The aim of this privacy policy is to provide you with clear, simple and complete information about how we process the personal data you give us or the data we may collect while you are browsing all websites operated by us, including other media forms, media channels, mobile website or mobile application related or connected thereto (hereinafter collectively, the “website”), how it may be transferred to third parties and your rights and options to control your personal information and protect your privacy.</strong></p>
+<p><strong>I.&nbsp; &nbsp; &nbsp;What is personal data? </strong></p>
+<p>Personal data is any information about an identified physical person or a physical person that may be directly or indirectly identified via an identification number or one or more elements particular to them, such as their last name, first name, date of birth, customer number, order number, photo, etc.</p>
+<p><strong>II.&nbsp; &nbsp; &nbsp;When do we collect your personal data? </strong></p>
+<p>We may collect your personal data when you:</p>
 <ul>
-<li><strong>By Law or to Protect Rights.</strong> When we believe disclosure is appropriate, we may disclose Personally-Identifying Information in connection with efforts to investigate, prevent or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of Company, our users, our employees or others; to comply with applicable law or cooperate with law enforcement; to enforce our Terms of Use or other agreements or policies, in response to a subpoena or similar investigative demand, a court order or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.</li>
-<li> <strong>Marketing Communications.</strong> Unless users opt-out from receiving Company marketing materials upon registration, Company may email users about products and services that Company believes may be of interest to them. If you wish to opt-out of receiving marketing materials from Company, you may do so by following the unsubscribe link in the email communications, by going to your account settings (if applicable) or contacting us using the contact information below.</li>
-<li> <strong>Third-Party Service Providers.</strong> We may share your Personally-Identifying Information, which may include your name and contact information (including email address) with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, supporting the Website’s functionality and supporting contests, sweepstakes, surveys and other features offered through the Website. We may also share your name, contact information and credit card information with our authorized service providers who process credit card payments. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purpose.</li>
-<li> <strong>Business Transfers; Bankruptcy.</strong> Company reserves the right to transfer all Personally-Identifying Information in its possession to a successor organization in the event of a merger, acquisition, bankruptcy or other sale of all or a portion of Company’s assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally-Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and are given an opportunity to affirmatively opt-out of it. Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization. </li>
+<li>create a customer account on our website, apps, or in our stores</li>
+<li>order goods from our website</li>
+<li>make purchases in stores</li>
+<li>agree to receive marketing communications from us by email, telephone, SMS or post, depending on your selection</li>
+<li>answer surveys or satisfaction questionnaires based on your customer experience</li>
+<li>interact with our Company via its official page on social networks or when we suggest re-use of content that you have published on a social network</li>
+<li>contact our customer service</li>
+<li>send requests for information to our Company</li>
+<li>take part in an event we organize</li>
+<li>browse on the Internet using cookies or similar technology&nbsp;or when you click on advertisements for our products</li>
 </ul>
-<p><strong><i>Changing Personally-Identifying Information; Account Termination</i></strong></p>
-<p>You may at any time review or change your Personally-Identifying Information by going to your account settings (if applicable) or contacting us using the contact information below. Upon your request, we will deactivate or delete your account and contact information from our active databases. Such information will be deactivated or deleted as soon as practicable based on your account activity and accordance with our deactivation policy and applicable law. To make this request, either go to your account settings (if applicable) or contact us as provided below. We will retain in our files some Personally-Identifying Information to prevent fraud, to troubleshoot problems, to assist with any investigations, to enforce our Terms of Use and to comply with legal requirements as is permitted by law. Therefore, you should not expect that all your Personally-Identifying Information will be completely removed from our databases in response to your requests. Additionally, we keep a history of changed information to investigate suspected fraud with your account.</p>
-<p><strong><i>General Use</i></strong></p>
-<p>Company uses the Personally-Identifying Information in the file we maintain about you, and other information we obtain from your current and past activities on the Website (1) to deliver the products and services that you have requested; (2) to manage your account and provide you with customer support; (3) to communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our affiliate companies or other third parties; (4) to develop and display content and advertising tailored to your interests on the Website and other sites; (5) to resolve disputes and troubleshoot problems; (6) to measure consumer interest in our services; (7) to inform you of updates; (8) to customize your experience; (9) to detect and protect us against error, fraud and other criminal activity; (10) to enforce our Terms of Use; and (11) to do as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems. In particular, we may examine your Personally-Identifying Information to identify users using multiple user IDs or aliases. We may compare and review your Personally-Identifying Information for accuracy and to detect errors and omissions. We may use financial information or payment method to process payment for any purchases made on the Website, enroll you in the discount, rebate, and other programs in which you elect to participate, to protect against or identify possible fraudulent transactions and otherwise as needed to manage our business.</p>
-<h2>COLLECTION AND USE OF INFORMATION BY THIRD PARTIES GENERALLY</h2>
-<p>Company contractually prohibits its contractors, affiliates, vendors and suppliers from disclosing Personally-Identifying Information received from Company, other than in accordance with this Privacy Policy. However, third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information that users provide directly to those third parties, or that those third parties collect for themselves. These third parties include advertisers, providers of games, utilities, widgets and a variety of other third-party applications accessible through the Website. Company neither owns nor controls the third-party websites and applications accessible through the Website. Thus, this Privacy Policy does not apply to information provided to or gathered by the third parties that operate them. Before visiting a third party, or using a third-party application, whether by means of a link on the Website, directly through the Website or otherwise, and before providing any Personally-Identifying Information to any such third party, users should inform themselves of the privacy policies and practices (if any) of the third party responsible for that website or application, and should take those steps necessary to, in those users’ discretion, protect their privacy.</p>
-<p><strong>SECURITY</strong></p>
-<p>We take the security of your Personally-Identifying Information seriously and use reasonable electronic, personnel and physical measures to protect it from loss, theft, alteration or misuse. However, please be advised that even the best security measures cannot fully eliminate all risks. We cannot guarantee that only authorized persons will view your information. We are not responsible for third-party circumvention of any privacy settings or security measures.</p>
-<p>We are dedicated to protect all information on the Website as is necessary. However, you are responsible for maintaining the confidentiality of your Personally-Identifying Information by keeping your password confidential. You should change your password immediately if you believe someone has gained unauthorized access to it or your account. If you lose control of your account, you should notify us immediately.</p>
-<p><strong>PRIVACY POLICY CHANGES</strong></p>
-<p>Company may, in its sole discretion, change this Privacy Policy from time to time. Any and all changes to Company’s Privacy Policy will be reflected on this page and the date new versions are posted will be stated at the top of this Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. Users should regularly check this page for any changes to this Privacy Policy. Company will always post new versions of the Privacy Policy on the Website. However, Company may, as determined in its discretion, decide to notify users of changes made to this Privacy Policy via email or otherwise. Accordingly, it is important that users always maintain and update their contact information.</p>
-<p><strong>CHILDREN</strong></p>
-<p>The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. We do not knowingly collect or maintain Personally-Identifying Information from anyone under the age of 13, unless or except as permitted by law. Any person who provides Personally-Identifying Information through the Website represents to us that he or she is 13 years of age or older. If we learn that Personally-Identifying Information has been collected from a user under 13 years of age on or through the Website, then we will take the appropriate steps to cause this information to be deleted. If you are the parent or legal guardian of a child under 13 who has become a member of the Website or has otherwise transferred Personally-Identifying Information to the Website, please contact Company using our contact information below to have that child's account terminated and information deleted.</p>
-<p><strong>CALIFORNIA PRIVACY RIGHTS</strong></p>
-<p>California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about the Personally-Identifying Information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of the Personally-Identifying Information that was shared and the names and addresses of all third parties with which we shared Personally-Identifying Information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to our privacy officer as listed below.</p>
-<p><strong>DO-NOT-TRACK POLICY</strong></p>
-<p>Most web browsers and some mobile operating systems include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. Because there is not yet a common understanding of how to interpret the DNT signal, the Website currently does not respond to DNT browser signals or mechanisms.</p>
-<p><strong>CONTACT</strong></p>
-<p>If you have any questions regarding our Privacy Policy, please contact our General Counsel at: </p>
+<p><strong>III.&nbsp; &nbsp; &nbsp; What personal data might we collect?</strong></p>
+<p style="margin-left: 40px;">(i)&nbsp; &nbsp; &nbsp; As part of the services we provide, we may need to collect certain data directly from you using electronic forms on our website, mobile apps or in selected stores, or in paper form, for a range of purposes (see Section IV for a list of processing purposes).</p>
+<p style="margin-left: 40px;">Information we might collect includes:</p>
+<ul style="margin-left: 40px;">
+<li>Your identity (e.g. first name, last name, date of birth</li>
+<li>Your contact details (e.g. email address, mailing address)</li>
+<li>Your personal preferences in relation to the products we market or to our website (language)</li>
+<li>Information relating to your orders, their tracking and your purchase invoices</li>
+<li>Information you may provide to our customer service center</li>
+<li>Specific health data if you notify us of any undesirable side-effects concerning any of our products</li>
+<li>Your credit card information if you place an order via our website</li>
+</ul>
+<p style="margin-left: 40px;">Important: your credit card information is encrypted on Kendo servers. Payments are processed via a secured payment platform, involving additional verifications, in order to guarantee the security of purchases made on the Website, and combat fraud.</p>
+<p style="margin-left: 40px;">The details you provide of your Payment Card when placing an order are always encrypted prior to transit using an SSL (Secure Socket Layer) protocol.</p>
+<p style="margin-left: 40px;">Personal data essential to Kendo is marked with an asterisk on all personal data collection forms on our website, in electronic form at some of our counters and stores, as well as off-line in paper form. If you do not fill in these compulsory fields, Kendo will probably be unable to respond to your request and/or provide you with the requested services. Other information is optional and enables us to get to know you better and improve our communications and services with respect to you.</p>
+<p style="margin-left: 40px;">(ii)&nbsp; &nbsp;&nbsp; &nbsp;We may also collect certain data generated by your purchases of products or services, online or in stores, particularly information regarding the amount and type of your purchases.</p>
+<p style="margin-left: 40px;">(iii)&nbsp; &nbsp; &nbsp;We may collect information regarding the use of our website, especially with respect to your browsing (pages visited, links clicked, etc.). Some of this information may be collected using cookies placed in your web browser when you browse our website. For more information about cookies, read Section XI of this policy.</p>
+<p style="margin-left: 40px;">(iv)&nbsp; &nbsp; &nbsp;If you apply for a job with our Company via our website, we may collect the following information:</p>
+<ul>
+<li style="margin-left: 40px;">Your identity</li>
+<li style="margin-left: 40px;">Your contact details</li>
+<li style="margin-left: 40px;">Your resume</li>
+<li style="margin-left: 40px;">Your cover letter</li>
+</ul>
+<p style="margin-left: 40px;">As this data concerns your application, please inform us in writing of any changes to your contact details or, more generally, to your career and employment situation, to help us to manage your application efficiently.</p>
+<p><strong>IV.&nbsp; &nbsp; &nbsp;For what purpose is your personal data collected and used? </strong></p>
+<p>Kendo processes your data to:</p>
+<ul>
+<li>enable you to create a customer account on our website, at our counters and in our stores</li>
+<li>manage your access to your customer account</li>
+<li>process and manage your online orders and their delivery</li>
+<li>record purchases made at our counters or in our stores</li>
+<li>secure online transactions, prevent fraud and manage debt collection (see our terms and conditions for more details)</li>
+<li>manage customer relations with respect to any requests for information or complaints you may send us via our website, customer service or social network pages</li>
+<li>trace and manage any alerts you may send us as part of our cosmetic vigilance obligations manage and optimise your customer experience by improving our knowledge of our customers &nbsp;</li>
+<li>propose appropriate, tailored services, particularly when we enhance our products and services</li>
+<li>conduct statistical analyses to develop management, measuring and reporting tools in order to adjust and improve our sales, marketing and product manufacturing</li>
+<li>subject to your consent, send you information on our offers, news and events on your chosen communication media</li>
+<li>manage your participation in any events to which you have signed up</li>
+<li>manage any online job applications</li>
+</ul>
+<p><strong>V.&nbsp; &nbsp; &nbsp;What legal grounds legitimize the processing of your data? </strong></p>
+<p>Kendo processes your personal information:</p>
+<ul>
+<li>to perform the contract agreed between yourself and Kendo, to manage your access to your customer account and to process and track your orders</li>
+<li>within the framework of its legitimate interest for the purposes of marketing management, securing its digital media (websites, applications, etc.) and preventing fraud</li>
+<li>when you have given your consent for the processing of your data, especially for the purposes of managing our sales prospection, and in connection with your browsing data via cookies, etc.</li>
+<li>to comply with our legal and regulatory obligations</li>
+</ul>
+<p><strong>VI.&nbsp; &nbsp; &nbsp;Who are the recipients of your personal data? </strong></p>
+<p>Your personal data is processed by the personnel of Kendo. We ensure that only authorized persons within Kendo have access to your personal data and that such access is granted only as necessary for managing our commercial relations or meeting our legal obligations.</p>
+<p>We may also share your personal data with:</p>
+<ul>
+<li>our corporate affiliates, including across Brands, and other entities in the LVMH Moët Hennessy-Louis Vuitton Group, with some of these entities acting as data processors</li>
+<li>the acquiring company in the event another company acquires our company, business, or our assets</li>
+<li>subcontractors, such as:
+<ul>
+<li>site hosting and maintenance service providers and the providers of our electronic personal data collection solutions at counters and in stores</li>
+<li>payment service providers</li>
+<li>anti-fraud service providers</li>
+<li>logistic service providers</li>
+<li>marketing solution service providers</li>
+<li>sales prospection and social network communication service providers</li>
+<li>customer service providers</li>
+<li>service providers for managing regulatory alerts or notifications</li>
+<li>event organization service providers</li>
+</ul>
+</li>
+</ul>
+<p>Lastly, Kendo may need to share your personal data with third parties to meet its legal, regulatory or treaty obligations, or to respond to requests from authorized legal authorities.</p>
+<p><strong>VII.&nbsp; &nbsp; &nbsp;Security Measures </strong></p>
+<p>No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal data from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal data. In the event that we are required by law to inform you of any unauthorized access to your personal data we may notify you electronically, in writing, or by telephone, if permitted to do so by law.</p>
+<p><strong>VIII.&nbsp; &nbsp; International Transfer of Personal Data </strong></p>
+<p>With respect to personal data collected on the website, Kendo is the data controller for purposes of the Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and the free movement of such data (hereinafter the "GDPR").</p>
+<p>We store personal data about our website visitors and subscribers within the United States. If you are visiting our website from the European Economic Area or other regions with laws governing data collection and use, you are agreeing to the transfer of your personal information to the United States. By providing us your personal information, you consent to any transfer and processing in accordance with this Policy.</p>
+<p>All data transfers are subject to appropriate guarantees, especially contractual, technical and organizational guarantees, that comply with applicable regulations relating to the protection of personal data.</p>
+<p><strong>IX.&nbsp; &nbsp; &nbsp;How long do we keep your data? </strong></p>
+<p>We keep and process your personal data for as long as it is required in order to fulfil the purposes described in this Privacy Policy and as long as it may be required by law such as for regulatory, tax and accounting purposes.</p>
+<p><strong>X.&nbsp; &nbsp; &nbsp; What are your rights and how can you exercise them? </strong></p>
+<p>Under current regulations, including the GDPR, you may have the right to access and correct your personal data, request erasure, object to processing on legitimate grounds and obtain limitation or portability, where applicable.</p>
+<p>You can exercise these rights directly with Kendo by sending an email to fentyprivacy@kendobrands.com or by mailing a non-registered letter with a document proving your identity to the below address:</p>
 <p>Kendo Holdings, Inc.<br>
-Attn: General Counsel<br>
+Legal Department, Privacy<br>
 425 Market Street, 19th Floor<br>
-San Francisco, CA 94105<br>
-Email: <a href="mailto:legaldepartment@kendobrands.com">legaldepartment@kendobrands.com</a><br>
-Phone: (415) 284-6000</p>
+San Francisco, CA 94105</p>
+<p>If, at any time, you no longer wish to receive details of our offers, news and events, you can unsubscribe using the hypertext link provided for this purpose in each mail we send you. You can also telephone us at 1-855-440-7474 or send a letter to:</p>
+<p>Kendo Holdings, Inc.<br>
+Legal Department, Privacy<br>
+425 Market Street, 19th Floor<br>
+San Francisco, CA 94105</p>
+<p><strong>Your California Privacy Rights</strong></p>
+<p>California Civil Code Section 1798.83 permits customers of Kendo who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at the following address:</p>
+<p>Kendo Holdings, Inc.<br>
+Legal Department, Privacy<br>
+425 Market Street, 19th Floor<br>
+San Francisco, CA 94105</p>
+<p>California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for direct marketing. If you are a California resident and would like a copy of such notice, please submit a written request to us using the contact information listed above.</p>
+<p><strong>Online Tracking</strong></p>
+<p>We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions.</p>
+<p style="margin-left: 40px;"><strong>XI.&nbsp; &nbsp; &nbsp; Contact details of the Data Protection Officer (DPO) and your right to lodge a complaint </strong></p>
+<p>For all questions relating to the collection and processing of your data by Kendo, you can contact the Kendo Data Protection Officer at dpo@kendobrands.com. If you are not satisfied with our response and are in the European Union, you may have a right to lodge a complaint with your local supervisory authority.</p>
+<p style="margin-left: 40px;"><strong>XII.&nbsp; &nbsp; &nbsp; Information on Cookie Management </strong></p>
+<p>This section is dedicated to our policy for managing cookies on the website. It has been designed to provide you with information on the origin and use of browsing data processed when you use our website, together with your rights.</p>
+<p><u><strong>What is a cookie? </strong></u></p>
+<p>When you use our website, we may, depending on your choice, place a text file on your terminal (computer, smart phone or tablet) via the web browser. &nbsp; </p>
+<p>This text file is a cookie. Throughout the period of validity or registration, it will enable Kendo to identify your terminal during subsequent visits.&nbsp;&nbsp;</p>
+<p> Only the entity issuing the cookies is able to read or modify the information they contain.  </p>
+<p>Below you will find information about the cookies that may be placed on your terminal when you visit the pages of the website, either by Kendo, or by third parties, together with ways in which you can delete or refuse installation of these cookies.</p>
+<p><u><strong>What is the purpose of the cookies issued on the website? </strong></u></p>
+<p>There are several types of cookies, some of which are issued directly by Kendo and its service providers, while others may be issued by third parties.  &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="margin-left: 40px;"><strong>I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Cookies issued by Kendo and its service providers </u></strong></p>
+<p>Different types of cookies may be placed on your terminal while you are browsing on our website:</p>
+<p style="margin-left: 80px;"><em>(i)&nbsp; &nbsp; &nbsp;"Essential" cookies&nbsp; </em></p>
+<p>These cookies are <u>essential</u> for browsing on our website, especially for the functioning of the order process.&nbsp;  </p>
+<p>Deletion of these cookies may cause problems with browsing on our website and make it impossible for you to place an order.  </p>
+<p>These cookies are also necessary for tracking the activity of Kendo.  </p>
+<p>They may be installed on your terminal by Kendo or by its service providers.</p>
+<p style="margin-left: 80px;"><em>(ii)&nbsp; &nbsp; &nbsp;"Analysis and Customization" cookies </em></p>
+<p>These cookies are not essential to browsing on our website, but may help you, for example, to search more effectively and optimize your purchasing experience and help us better target your requirements, improve our offer and optimize the functioning of our website.</p>
+<p style="margin-left: 80px;"><em>(iii)&nbsp; &nbsp; &nbsp;"Advertising" cookies </em></p>
+<p>Cookies may also be used for advertising purposes. These cookies ensure that the advertisements you see are the most relevant to you.&nbsp;  </p>
+<p style="margin-left: 80px;"><u><strong>What is the benefit of seeing special offers and advertising tailored to your browsing preferences?</strong></u>&nbsp;&nbsp;</p>
+<p>The aim is to show you the most relevant offers and advertising. As such, cookie technology enables us to display content, in real-time, that is best suited to your fields of interest, as deduced from your browsing history on our website.&nbsp;</p>
+<p>The interest you show in content displayed on your terminal when you consult a website often determines the advertising resources of this site, enabling it to provide its services, which are often supplied free of charge to users. You likely prefer to see offers and advertising that are relevant to you, rather than content that is of no interest to you at all. Similarly, both Kendo and advertisers want their offers and advertising to be shown to Internet users that are likely to be interested in them.&nbsp;  </p>
+<p style="margin-left: 80px;"><u><strong>Important information if you share your terminal with other users  </strong></u></p>
+<p>If your terminal is used by several people or when a single terminal has more than one type of browser software, we cannot be sure that the services and advertising sent to your terminal will match your use of the terminal, rather than that of another user.&nbsp;</p>
+<p> In this case, sharing use of your terminal with others and deciding your browser cookie settings are your free choice and your responsibility.  &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="margin-left: 80px;"><strong>II.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Cookies issued by third-party companies&nbsp;</u> </strong></p>
+<p>Kendo participates in behavior-based advertising, and permits third parties to use cookies to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests on our website, or on other websites. The issue and use of cookies by third parties on our website are subject to privacy policies concerning these third parties.  </p>
+<p>These cookies are not essential to browsing on our website.</p>
+<p> On our website, we may include computer applications from third parties that enable you to share our website content with others, inform others that you have been consulting our website or notify them of your opinion concerning content on our site. This particularly concerns use of the "Share" and "Like" buttons featured on social networks such as Facebook, Twitter, Instagram, Pinterest, etc.&nbsp;  </p>
+<p>The social network providing these application buttons is likely to identify you via this button, even if you have not used it when browsing our website.</p>
+<p> Indeed, this type of application button can enable the social network concerned to track your browsing on our website, simply because your account on the social network in question is enabled on your terminal (a session is open) while you are browsing our website.&nbsp;</p>
+<p> We have no control over how social networks collect information regarding your browsing on our website and associated with the personal data they hold.  </p>
+<p>We encourage you to read the privacy policies of the social networks to learn about the purpose, especially advertising, of any browsing information they may collect via these application buttons. These privacy policies should enable you to exercise your choices with respect to these social networks, in particular by changing your account settings.</p>
+<p>Visit the websites of the aforementioned social networks for more information about their privacy policies. &nbsp;</p>
+<p style="margin-left: 80px;"><strong>III.&nbsp;&nbsp;&nbsp;&nbsp;<u>Managing the cookies placed in your web browser </u></strong></p>
+<p>You can decide whether to allow cookies to be installed on your terminal.</p>
+<p>By changing the settings of your browser software, you can choose whether to accept the installation of cookies on your terminal at any time, simply and free of charge.</p>
+<p style="margin-left: 80px;"><em>a.&nbsp; &nbsp;Agreeing to Cookies&nbsp;&nbsp; </em></p>
+<p>If your browser software is set to accept the registration of cookies on your terminal, the cookies embedded in the pages and content you have consulted will automatically be registered on your terminal.&nbsp;</p>
+<p style="margin-left: 40px;"><em>b.&nbsp; &nbsp;Refusing Cookies&nbsp;</em></p>
+<p>You can set your browser software so that:</p>
+<ul>
+<li style="margin-left: 40px;">
+<p>you are regularly asked if you wish to accept or refuse cookies before a cookie can be registered</p>
+</li>
+<li style="margin-left: 40px;">
+<p>you systematically refuse the registration of cookies on your terminal.&nbsp;&nbsp;  </p>
+</li>
+</ul>
+<p><strong>Important: Any adjustments you may make to the settings in your browser software concerning the acceptance or refusal of cookies may modify your browsing on the Internet and your terms of access to certain services requiring use of these cookies.&nbsp;&nbsp; </strong></p>
+<p>For example, by refusing certain essential cookies, you may no longer be able to place orders on our website.&nbsp;</p>
+<p>If you choose to refuse the registration of cookies on your terminal or if you delete cookies that are already registered, we decline all responsibility for any consequences relating to the degraded performance of our services resulting from the fact we are unable to register or consult the cookies required for their performance and which you have refused or deleted.&nbsp; &nbsp;</p>
+<p><em><u>How to exercise your choice, depending on your browser&nbsp; </u></em></p>
+<p>Settings vary from one type of browser software to another. Details can generally be found in your browser software help menu. We therefore encourage you to look at your settings to find out how you can make choices regarding cookies.&nbsp;</p>
+<ul>
+<li>For Internet Explorer:&nbsp;https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer</li>
+<li>For&nbsp;IOS: https://support.apple.com/en-us/ht201265</li>
+<li>For Safari/Mac: https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac</li>
+<li>For Chrome: https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&amp;hl=en</li>
+<li>For Firefox: &nbsp;https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored</li>
+</ul>
 </div>
 
 </section>
@@ -1737,12 +2061,51 @@ Phone: (415) 284-6000</p>
 <div class="newsletter-footer-signup">
 <form action="/on/demandware.store/Sites-FENTY-Site/default/Newsletter-FooterSubscribe" method="post">
 <input type="hidden" name="ltkSubscriptionCode" value="footersignup">
-<input data-required-text="* Please enter a valid email address." type="email" placeholder="Email Address" name="email" class="email required">
-<button type="submit" value="Sign Up" class="newsletter-submit" data-gtm-event="newsletter" data-gtm-info="footer">
+<input data-required-text="Please enter a valid email address" type="email" placeholder="Email Address" name="email" class="email required">
+<button type="submit" value="I WANT IN" class="newsletter-submit" data-gtm-event="newsletter" data-gtm-info="footer">
+<span>
 I WANT IN
+</span>
 </button>
 </form>
 </div>
+</div>
+</div>
+<div class="sms-footer-container">
+<div class="max-width-container">
+<div class="sms-footer-signup">
+<form action="/on/demandware.store/Sites-FENTY-Site/default/SMS-FooterSubscribe" method="post">
+<input type="hidden" name="ltkSMS" value="footersignup">
+<input data-required-text="Please enter a valid phone number" type="tel" placeholder="US PHONE NUMBER" name="phone" class="phone smsphone  required">
+<button type="submit" value="I WANT IN" class="sms-submit" data-gtm-event="sms" data-gtm-info="footer">
+<span>
+I WANT IN
+</span>
+</button>
+</form>
+</div>
+
+<style type="text/css">
+				
+				
+				
+				
+    			
+    					
+    			
+    			
+    			
+    			
+    			
+    			
+    			
+    					
+			</style>
+<div class="content-asset  ">
+
+<div class="subtext">By subscribing to Fenty Beauty Text Alerts you consent to receive a varying number of marketing messages via automated technology and agree to the <a href="https://www.fentybeauty.com/terms-of-use.html">terms and conditions</a>. Message and data rates may apply. Reply HELP for help or STOP to opt-out.</div>
+</div>
+
 </div>
 </div>
 <div class="footer-right hide-on-mobile">
@@ -1861,13 +2224,6 @@ I WANT IN
 </g>
 </g>
 </svg></a>
-<a class="googleplus" href="https://plus.google.com/u/0/b/101582926428465885452/101582926428465885452" target="_blank" data-gtm-event="socialClickFooter" data-gtm-info="googleplus">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.63 22">
-<defs>
-</defs>
-<title>Google Plus</title>
-<path class="goo-1" d="M0,10.45A11,11,0,0,1,11,0a11.15,11.15,0,0,1,7.35,2.72,39.16,39.16,0,0,1-2.79,2.89C13.06,3.89,9.5,3.39,7,5.39a7,7,0,0,0-.3,11c3.35,3,9.67,1.53,10.59-3.12-2.1,0-4.2,0-6.29-.07,0-1.25,0-2.5,0-3.75,3.5,0,7,0,10.51,0,.21,2.94-.18,6.07-2,8.5-2.74,3.85-8.23,5-12.52,3.32A11,11,0,0,1,0,10.45Z"></path><path class="cls-1" d="M28.35,6.27h3.12c0,1,0,2.1,0,3.14l3.14,0v3.12l-3.14,0q0,1.58,0,3.14H28.34c0-1,0-2.09,0-3.14l-3.14,0V9.43l3.14,0Q28.33,7.83,28.35,6.27Z"></path>
-</svg></a>
 </div>
 
 </div>
@@ -1888,7 +2244,9 @@ I WANT IN
 }
 
 
-
+div.level-2 div.level-3 {
+    margin-left: 0.9rem;
+}
 
 
 p.footersuccess {
@@ -1898,7 +2256,6 @@ p.footersuccess {
 @media screen and (max-width:960px) {
  .olapic .olapic-slider-copy { right: -12px; top: 90px;}
  .olapic .olapic-see-all {  padding-right: 0 !important; }
-
 }
 
 
@@ -2016,6 +2373,11 @@ display:none;
 body p{ margin-bottom:10px}
 
 }
+
+
+body #wrapper.pt_error {
+    display: none !important;
+}
 				
 				
 				
@@ -2047,13 +2409,19 @@ background-size: 120% auto;
 <div class="footer-bottom">
 <section class="footer-links max-width-container">
 <div class="menu-footer">
-<div class="footer-link-item"><a href="https://www.fentybeauty.com/help" data-gtm-event="footerClick" data-gtm-info="Customer Service">Customer Service</a></div>
-<div class="footer-link-item"><a href="https://www.fentybeauty.com/egift-cards" data-gtm-event="footerClick" data-gtm-info="eGift Card">eGift Card</a></div>
-<div class="footer-link-item"><a rel="nofollow" href="https://www.fentybeauty.com/account" data-gtm-event="footerClick" data-gtm-info="MyAccount">My Account</a></div>
-<div class="footer-link-item"><a rel="nofollow" href="https://www.fentybeauty.com/privacy-policy.html" data-gtm-event="footerClick" data-gtm-info="Privacy">Privacy</a></div>
-<div class="footer-link-item"><a rel="nofollow" href="https://www.fentybeauty.com/terms-of-use.html" data-gtm-event="footerClick" data-gtm-info="Legal">Legal</a></div>
 <div class="footer-link-item"><a href="https://www.fentybeauty.com/contact" data-gtm-event="footerClick" data-gtm-info="Contact Us">Contact Us</a></div>
+<div class="footer-link-item"><a href="https://www.fentybeauty.com/faq.html" data-gtm-event="footerClick" data-gtm-info="FAQs">FAQs</a></div>
 <div class="footer-link-item"><a href="https://www.fentybeauty.com/store-locator.html" data-gtm-event="footerClick" data-gtm-info="Store Locator">Store Locator</a></div>
+<div class="footer-link-item"><a rel="nofollow" href="https://kendobrands.com/careers/" target="_blank">Careers</a></div>
+<div class="footer-link-item"><a rel="nofollow" href="https://www.fentybeauty.com/account" data-gtm-event="footerClick" data-gtm-info="MyAccount">My Account</a></div>
+<div class="footer-link-item"><a href="https://www.fentybeauty.com/account" data-gtm-event="footerClick" data-gtm-info="Track Order">Track Order</a></div>
+</div> <div class="menu-footer" data-content="sitemap">
+<div class="footer-link-item"><a href="https://www.fentybeauty.com/shipping-info.html" data-gtm-event="footerClick" data-gtm-info="Shipping Info">Shipping Info</a></div>
+<div class="footer-link-item"><a href="https://www.fentybeauty.com/returns.html" data-gtm-event="footerClick" data-gtm-info="Returns">Returns + Exchanges</a></div>
+<div class="footer-link-item"><a href="https://www.fentybeauty.com/terms-of-use.html" data-gtm-event="footerClick" data-gtm-info="Terms of Use">Terms of Use</a></div>
+<div class="footer-link-item"><a rel="nofollow" href="https://www.fentybeauty.com/privacy-policy.html" data-gtm-event="footerClick" data-gtm-info="Privacy">Privacy</a></div>
+<div class="footer-link-item"><a rel="nofollow" href="https://www.fentybeauty.com/supply-chain-transparency.html" data-gtm-event="footerClick" data-gtm-info="CA Supply Chain Act">CA Supply Chain Act</a></div>
+<div class="footer-link-item"><a rel="nofollow" href="https://www.fentybeauty.com/sitemap.html" data-gtm-event="footerClick" data-gtm-info="Site Map">Site Map</a></div>
 </div>
 </section>
 </div>
@@ -2069,19 +2437,6 @@ background-size: 120% auto;
 </div>
 </div>
 </footer>
-<script type="text/javascript">
-	if(monetateData.setPageType == "unknown") {
-		monetateData.trackUnknownPage = function() {
-			window.monetateQ.push(["setPageType", monetateData.setPageType]);
-			
-			if(monetateData.addCartRows) window.monetateQ.push(["addCartRows", monetateData.addCartRows]);
-			if(monetateData.breadCrumbs) window.monetateQ.push(["addBreadcrumbs", monetateData.breadCrumbs]);
-	
-			window.monetateQ.push(["trackData"]);
-		};
-		monetateData.trackUnknownPage();
-	}
-</script>
 <script type="text/javascript">
 	var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
 	document.write(unescape("%3Cscript defer src='" + biJsHost + "cdn.listrakbi.com/scripts/script.js?m=wffVi3s8kRXI&v=1' type='text/javascript'%3E%3C/script%3E"));
@@ -2266,6 +2621,7 @@ $(".product-actions").find(".menu").append(injectLink);
 $("li.backinstock-new").remove();
 }
 }
+//This refers to the bundle WITH steps
 callbacks['ProductBundleSwatchClick'] = function(tthis) {
 var rreturn = {};
 var selected = tthis.closest('li').hasClass('selected');
@@ -2295,14 +2651,23 @@ rreturn.selected = selected;
 rreturn.target = tthis.closest('.product.step');
 return rreturn;
 }
+//This refers to the bundle WITHOUT steps
+callbacks['BundleAddToCart'] = function(tthis) {
+var rreturn = {};
+if ($('.bundle-qty').length > 0){
+$("input[name=Quantity]").val($(".bundle-qty").val());
+}
+return rreturn;
+}
 });
 (function(app){
-window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","PI_METHOD_GIFT_CERTIFICATE":"GIFT_CERTIFICATE","SITE_ID":"FENTY","flashMinicartTotal":false,"gridcontentBreakpoints":["0|2","768|3"],"hideOlapicTagsOnHover":false,"initNavStyle":false,"initShopThatLook":false,"initPDPTabs":false,"minicartForceDelay":null,"minicartLoadBonusOption":true,"minicartSelector":"div.mobile-right #mini-cart","minicartSlideDown":"slow","minicartSlideTimer":6000,"minicartTimer":800,"minicartTotalSelector":".mini-cart-total","mobileAccordianTabs":true,"mobileToggleWidthVar":960,"opScrollTopValues":[150,150,150,150,150,150],"pdpResponsiveTabsStartCollapsed":true,"qvWidth":920,"scrollSearchSuggestions":true,"selectricArrowButtonMarkup":"<svg class=\"down-arrow\" width=\"10px\" height=\"5px\" viewBox=\"0 0 10 5\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><g id=\"PLP\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"Desktop_PLP_Master\" transform=\"translate(-1303.000000, -198.000000)\" fill-rule=\"nonzero\" fill=\"#000000\"><g id=\"filter-/-sort\" transform=\"translate(900.000000, 177.000000)\"><g id=\"sort---collapsed\" transform=\"translate(230.000000, 14.000000)\"><path d=\"M179.911587,9.02332655 L176.671582,5.13657772 C176.53754,4.97551379 176.297781,4.95370675 176.136836,5.08822299 C175.975535,5.22297625 175.953728,5.46178701 176.088007,5.62296946 L179.125467,9.26664094 L176.088007,12.9100754 C175.953965,13.0716134 175.975772,13.3105427 176.136836,13.4450589 C176.297663,13.5795751 176.53754,13.5577681 176.671582,13.3967042 L179.911587,9.51019236 C179.970608,9.43955652 180,9.35303947 180,9.26664094 C180,9.18012389 179.970608,9.09372536 179.911587,9.02332655 Z\" id=\"Shape\" transform=\"translate(178.000000, 9.266641) rotate(90.000000) translate(-178.000000, -9.266641) \"></path></g></g></g></g></svg>","shadefinder":true,"shadefinderDialogClass":"fenty-shade-finder","shadefinderDialogMaxWidth":"100%","shadefinderDialogWidth":"100%","shadefinderSelector":".shadefinder a","shopthatlookNewWindow":false,"stickyAddHeight":45,"stickyPoint":60,"stickyRefinementVars":[85,800,500,320],"stickyUpdateMarginTop":true,"toggleWidthVar":959,"variantAppendVideos":false,"videoControl":".video-container .controls .video-step","videoDialogClass":"video-dialog","videoDialogWidth":1090,"videoStepsFO":50,"widthVari":768};
-window.Resources = {"device":"mobile","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Free Gift(s)","SELECT_BONUS_PRODUCT":"Select","SELECT_BONUS_NO_THANKS":"No Thanks","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","SIMPLE_SEARCH":"Enter Keyword or Item #","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","SIGNUP_FOOTER_INPUT":"Email Address","SIGNUP_FOOTER_INPUT_MOBILE":"Enter your email address","SIGNUP_FOOTER_BUTTON":"Sign Up","SIGNUP_FOOTER_BUTTON_MOBILE":"signup.footer.submit.mobile","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_TERMSCHECK":"Please accept the terms and conditions.","INVALID_PHONE":"Please use the specified format: 555-555-5555","INVALID_ZIPCODE":"Required","EMAIL_MISMATCH":"Your email addresses do not match.","PASSWORD_MISMATCH":"Your passwords do not match.","INSUFFICIENT_PASSWORD":"Please enter a valid password of at least 8 characters.","INVALID_EMAIL":"Please enter a valid email address.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart ","ADD_TO_CART_SUCCESS":"Added!","ADD_TO_CART":"Add to Bag","ADD_TO_BAG":"Add to Bag","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid E-Gift Card Information","GIFT_CERT_BALANCE":"Your current E-Gift Card balance is ","GIFT_CERT_AMOUNT_INVALID":"E-Gift Card can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a E-Gift Card code.","GIFT_CERT_PIN_MISSING":"Please enter a card pin.","COUPON_CODE_MISSING":"Please Enter a Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"{0} / {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"Ships {0}","INIFINITESCROLL":"Show All","QUICKVIEW":"QuickView","QUICKLOOK":"<span id=\"quickviewtext\"></span>","CREDIT_CARD_PAYMENT_PROCESSOR_ID":"CYBERSOURCE_CREDIT","USER_LOGGED_IN":false,"USER_LOGIN_FAIL":false,"NEWSLETTER_INVALID_EMAIL":"* Please enter a valid email address.","NEWSLETTER_INVALID_MOBILE_EMAIL":"* Please enter a valid email address.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"PRE-ORDER","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"BACKORDERED","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-FENTY-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-FENTY-Site/default/Page-Include","continueUrl":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/Page-Show/C2023752196","staticPath":"/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/","addGiftCert":"/egift-cards","minicartGC":"/on/demandware.store/Sites-FENTY-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-FENTY-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-FENTY-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.fentybeauty.com/wallet","addressesList":"https://www.fentybeauty.com/address-book","wishlistAddress":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-FENTY-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-FENTY-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-FENTY-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-FENTY-Site/default/Cart-AddBonusProduct","removeBonusBundle":"/on/demandware.store/Sites-FENTY-Site/default/Product-RemoveBonusBundle","getSetItem":"/on/demandware.store/Sites-FENTY-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-FENTY-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-FENTY-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-FENTY-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-FENTY-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-FENTY-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-FENTY-Site/default/COBilling-UpdateSummary","coSummaryStart":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COSummary-Start","coBillingStart":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COBilling-Start","coShippingStart":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COShipping-Start","billingSelectCC":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-FENTY-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-FENTY-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-FENTY-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-FENTY-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-FENTY-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COBilling-GetGiftCertificateBalance","addCoupon":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/Cart-AddCoupon","storeLocatorLoad":"/on/demandware.store/Sites-FENTY-Site/default/Stores-Load","storeLocatorPage":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/StoreInventory-Find","storesInventory":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/StoreInventory-Inventory","storesLookup":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-FENTY-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-FENTY-Site/default/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-FENTY-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-FENTY-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-FENTY-Site/default/COBilling-Start","currencyConverter":"/on/demandware.store/Sites-FENTY-Site/default/Currency-SetSessionCurrency","newsletterModal":"/on/demandware.store/Sites-FENTY-Site/default/Newsletter-Signup","updateSocialButtons":"/on/demandware.store/Sites-FENTY-Site/default/Product-UpdateSocialButtons","login":"/on/demandware.store/Sites-FENTY-Site/default/Account-Login","compareDialog":"/on/demandware.store/Sites-FENTY-Site/default/Product-Compare","videoDialog":"/on/demandware.store/Sites-FENTY-Site/default/Content-VideoDialog","imageDialog":"/on/demandware.store/Sites-FENTY-Site/default/Content-ImageDialog","mobileHeaderCustomerInfo":"/on/demandware.store/Sites-FENTY-Site/default/Account-MobileHeaderCustomerInfo","emailBackInStock":"/on/demandware.store/Sites-FENTY-Site/default/Product-EmailBackInStock","giftcertcouponsStart":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COBilling-GiftCertCoupon","searchShowContent":"/on/demandware.store/Sites-FENTY-Site/default/Search-ShowContent","fetchFolderContent":"/on/demandware.store/Sites-FENTY-Site/default/Search-ShowFolderContent","getFolderContent":"/on/demandware.store/Sites-FENTY-Site/default/Content-GetFolderContent","videoProduct":"/on/demandware.store/Sites-FENTY-Site/default/Content-GetVideoProduct","productClick":"/on/demandware.store/Sites-FENTY-Site/default/Product-ClickData","shippingNoticeEU":"/on/demandware.store/Sites-FENTY-Site/default/Page-Include?cid=shipping-notice-EU","reloadPaymentInstruments":"/on/demandware.store/Sites-FENTY-Site/default/COBilling-ReloadPaymentInstruments","hasOrderableVariants":"/on/demandware.store/Sites-FENTY-Site/default/Product-HasOrderableVariants"};
-window.ClientCache = {"ENABLE_ICHECK_SELECTION":true,"DISABLE_MOBILE_SORT_OVERLAP":true,"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":true,"SEARCHCATEGORIES":false,"SEARCHCONTENT":false,"SELECTRIC_BRAND_SETTINGS":"selectricFENTY","SELECTRIC_DISABLE_MOBILE":false,"MOBILENAV_BELOW_HEADER_ENABLED":true,"NEWSLETTER_HEADER_FORMAT":"Modal","NEWSLETTER_FOOTER_TARGET":".newsletter-footer-container .newsletter-footer-signup","NEWSLETTER_POPUP_ENABLED":false,"NEWSLETTER_POPUP_THRESHOLD":2,"NEWSLETTER_POPUP_SLIDEEFFECT":true,"NEWSLETTER_POPUP_SLIDEFOOTER":true,"NEWSLETTER_POPUP_SLIDEHEIGHT":198,"NEWSLETTER_COOKIE_DAYS":30,"SOCIAL_MEDIA_INTEGRATION":"AddThis","EXACTTARGET_CONVERSION":false,"HOMEPAGE_SLIDER_AUTOPLAY_ENABLED":true,"HOMEPAGE_SLIDER_AUTOPLAY_TIMER":5000,"STICKY_HEADER":true,"STICKY_REFINEMENTS":false,"HTTP_LOGIN_ENABLE":true,"GOOGLE_ANALYTICS_ENABLED":false,"GOOGLE_ANALYTICS_ID":"UA-100201053-1","GOOGLE_TAG_MANAGER_ENABLED":true,"GOOGLE_TAG_MANAGER_ID":"GTM-T9B39X7","ENABLE_EMAIL_BACK_IN_STOCK":true,"ENABLE_GRID_EXPAND_COLLAPSE":true,"FACEBOOK_APP_ID":"389910431020874","GRID_ROW_TILE_AMOUNT":"{\n\t\"mobile\": {\n\t\t\"tiles\": 2\n\t},\n        \"tablet\": {\n\t\t\"screenWidth\": 767,\n\t\t\"tiles\": 3\n\t},\n\t\"desktop\": {\n\t\t\"screenWidth\": 767,\n\t\t\"tiles\": 3\n\t}\n}","DISABLE_QV":false,"VIDEO_DIALOG_TOP":false,"TGCOMMERCE_SHIPPING_METHOD":"TGCommerce","TGCOMMERCE_HIDE_POSTAL_CODE":"AI,AG,AN,AW,BS,BH,BB,BZ,BM,VG,BI,CV,KY,CF,XC,DM,GQ,ER,FK,FJ,GI,GD,HT,HK,IE,JM,KW,MO,MS,NR,NO,NI,PA,WS,ST,SA,SB,XN,XS,SS,SR,TL,TO,TV,AE,VU,ZM,CD,CW,DJ,BO","JS_INIT_BUNDLE":true,"JS_ENABLE_QUANTITYCHANGER":true,"JS_ENABLE_COLORCOMPARE":true,"JS_ENABLE_VIDEOSTEPS":true,"JS_ENABLE_UPCLOSESWATCH":false,"JS_ENABLE_STICKYSUMMARY":false,"EU_COUNTRIES":["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","NL","PL","PT","RO","SK","SI","ES","SE","GB"]};
+window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","PI_METHOD_GIFT_CERTIFICATE":"GIFT_CERTIFICATE","SITE_ID":"FENTY","donationCOThr":250,"donationCOThrMin":1,"donationCOMsg":"We can’t accept that much, love! Amount exceeds limit.","donationCOMsgMin":"Uh oh! You entered an invalid amount!","flashMinicartTotal":false,"finderResultsTarget":"form#email-finder-results","gridcontentBreakpoints":["0|2","768|3"],"hideOlapicTagsOnHover":false,"initNavStyle":false,"initShopThatLook":false,"initPDPTabs":false,"minicartForceDelay":null,"minicartLoadBonusOption":true,"minicartSelector":"div.mobile-right #mini-cart","minicartSlideDown":"slow","minicartSlideTimer":6000,"minicartTimer":800,"minicartTotalSelector":".mini-cart-total","mobileAccordianTabs":true,"mobileToggleWidthVar":960,"myAccountBorderStretch":true,"opScrollTopValues":[150,150,150,150,150,150],"pdpResponsiveTabsStartCollapsed":true,"productTileSyncHeightSelectors":[".product-name"],"qvBlurOverlay":false,"qvWidth":920,"scrollSearchSuggestions":true,"selectricArrowButtonMarkup":"<svg class=\"down-arrow\" width=\"10px\" height=\"5px\" viewBox=\"0 0 10 5\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><g id=\"PLP\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g id=\"Desktop_PLP_Master\" transform=\"translate(-1303.000000, -198.000000)\" fill-rule=\"nonzero\" fill=\"#000000\"><g id=\"filter-/-sort\" transform=\"translate(900.000000, 177.000000)\"><g id=\"sort---collapsed\" transform=\"translate(230.000000, 14.000000)\"><path d=\"M179.911587,9.02332655 L176.671582,5.13657772 C176.53754,4.97551379 176.297781,4.95370675 176.136836,5.08822299 C175.975535,5.22297625 175.953728,5.46178701 176.088007,5.62296946 L179.125467,9.26664094 L176.088007,12.9100754 C175.953965,13.0716134 175.975772,13.3105427 176.136836,13.4450589 C176.297663,13.5795751 176.53754,13.5577681 176.671582,13.3967042 L179.911587,9.51019236 C179.970608,9.43955652 180,9.35303947 180,9.26664094 C180,9.18012389 179.970608,9.09372536 179.911587,9.02332655 Z\" id=\"Shape\" transform=\"translate(178.000000, 9.266641) rotate(90.000000) translate(-178.000000, -9.266641) \"></path></g></g></g></g></svg>","shadefinder":true,"shadefinderDialogClass":"fenty-shade-finder","shadefinderDialogMaxWidth":"100%","shadefinderDialogWidth":"100%","shadefinderSelector":".shadefinder a","shopthatlookNewWindow":false,"stickyAddHeight":45,"stickyPoint":60,"stickyRefinementVars":[85,800,500,320],"stickyUpdateMarginTop":true,"toggleWidthVar":959,"variantAppendVideos":false,"videoControl":".video-container .controls .video-step","videoDialogClass":"video-dialog","videoDialogWidth":1090,"videoStepsFO":50,"widthVari":768,"wholeNumberWithoutDecimal":"true"};
+window.Resources = {"device":"desktop","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Free Gift(s)","SELECT_BONUS_PRODUCT":"Select","SELECT_BONUS_NO_THANKS":"No Thanks","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","SIMPLE_SEARCH":"Enter Keyword or Item #","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","SIGNUP_FOOTER_INPUT":"Email Address","SIGNUP_FOOTER_INPUT_MOBILE":"Enter your email address","SIGNUP_FOOTER_BUTTON":"I WANT IN","SIGNUP_FOOTER_BUTTON_MOBILE":"signup.footer.submit.mobile","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_TERMSCHECK":"Please accept the terms and conditions.","INVALID_PHONE":"Please use the specified format: 555-555-5555","INVALID_ZIPCODE":"Required","EMAIL_MISMATCH":"Your email addresses do not match.","PASSWORD_MISMATCH":"Your passwords do not match.","INSUFFICIENT_PASSWORD":"Please enter a valid password of at least 8 characters.","INVALID_EMAIL":"Please enter a valid email address.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","STORENAME":"Fenty Beauty","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart ","ADD_TO_CART_SUCCESS":"Added!","ADD_TO_CART":"Add to Bag","ADD_TO_BAG":"Add to Bag","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid E-Gift Card Information","GIFT_CERT_BALANCE":"Your current E-Gift Card balance is ","GIFT_CERT_AMOUNT_INVALID":"E-Gift Card can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a E-Gift Card code.","GIFT_CERT_PIN_MISSING":"Please enter a card pin.","COUPON_CODE_MISSING":"Please Enter a Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"{0} / {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"Ships {0}","INIFINITESCROLL":"Show All","QUICKVIEW":"QuickView","QUICKLOOK":"<span id=\"quickviewtext\"></span>","VIEW_MORE_SWATCHES":"product.swatch.viewmore","VIEW_FEWER_SWATCHES":"product.swatch.viewfewer","CREDIT_CARD_PAYMENT_PROCESSOR_ID":"CYBERSOURCE_CREDIT","USER_LOGGED_IN":false,"USER_LOGIN_FAIL":false,"NEWSLETTER_INVALID_EMAIL":"* Please enter a valid email address.","SMS_INVALID_PHONE":"Please enter a valid phone number","NEWSLETTER_INVALID_MOBILE_EMAIL":"* Please enter a valid email address.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"PRE-ORDER","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"BACKORDERED","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-FENTY-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-FENTY-Site/default/Page-Include","continueUrl":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/Page-Show/C1231979306","staticPath":"/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/","addGiftCert":"/egift-cards","minicartGC":"/on/demandware.store/Sites-FENTY-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-FENTY-Site/default/Cart-AddProduct","minicartRefresh":"/on/demandware.store/Sites-FENTY-Site/default/Cart-MiniCart?minicart=true","minicart":"/on/demandware.store/Sites-FENTY-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.fentybeauty.com/wallet","addressesList":"https://www.fentybeauty.com/address-book","wishlistAddress":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-FENTY-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-FENTY-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-FENTY-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-FENTY-Site/default/Cart-AddBonusProduct","removeBonusBundle":"/on/demandware.store/Sites-FENTY-Site/default/Product-RemoveBonusBundle","getSetItem":"/on/demandware.store/Sites-FENTY-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-FENTY-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-FENTY-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-FENTY-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-FENTY-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-FENTY-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-FENTY-Site/default/COBilling-UpdateSummary","coSummaryStart":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COSummary-Start","coBillingStart":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COBilling-Start","coShippingStart":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COShipping-Start","billingSelectCC":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-FENTY-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-FENTY-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-FENTY-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-FENTY-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-FENTY-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COBilling-GetGiftCertificateBalance","addCoupon":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/Cart-AddCoupon","storeLocatorLoad":"/on/demandware.store/Sites-FENTY-Site/default/Stores-Load","storeLocatorPage":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/StoreInventory-Find","storesInventory":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/StoreInventory-Inventory","storesLookup":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-FENTY-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-FENTY-Site/default/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-FENTY-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-FENTY-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-FENTY-Site/default/COBilling-Start","currencyConverter":"/on/demandware.store/Sites-FENTY-Site/default/Currency-SetSessionCurrency","newsletterModal":"/on/demandware.store/Sites-FENTY-Site/default/Newsletter-Signup","updateSocialButtons":"/on/demandware.store/Sites-FENTY-Site/default/Product-UpdateSocialButtons","login":"/on/demandware.store/Sites-FENTY-Site/default/Account-Login","compareDialog":"/on/demandware.store/Sites-FENTY-Site/default/Product-Compare","videoDialog":"/on/demandware.store/Sites-FENTY-Site/default/Content-VideoDialog","imageDialog":"/on/demandware.store/Sites-FENTY-Site/default/Content-ImageDialog","mobileHeaderCustomerInfo":"/on/demandware.store/Sites-FENTY-Site/default/Account-MobileHeaderCustomerInfo","emailBackInStock":"/on/demandware.store/Sites-FENTY-Site/default/Product-EmailBackInStock","giftcertcouponsStart":"https://www.fentybeauty.com/on/demandware.store/Sites-FENTY-Site/default/COBilling-GiftCertCoupon","searchShowContent":"/on/demandware.store/Sites-FENTY-Site/default/Search-ShowContent","fetchFolderContent":"/on/demandware.store/Sites-FENTY-Site/default/Search-ShowFolderContent","getFolderContent":"/on/demandware.store/Sites-FENTY-Site/default/Content-GetFolderContent","videoProduct":"/on/demandware.store/Sites-FENTY-Site/default/Content-GetVideoProduct","productClick":"/on/demandware.store/Sites-FENTY-Site/default/Product-ClickData","shippingNoticeEU":"/on/demandware.store/Sites-FENTY-Site/default/Page-Include?cid=shipping-notice-EU","reloadPaymentInstruments":"/on/demandware.store/Sites-FENTY-Site/default/COBilling-ReloadPaymentInstruments","hasOrderableVariants":"/on/demandware.store/Sites-FENTY-Site/default/Product-HasOrderableVariants","DYGetAPIProperties":"/on/demandware.store/Sites-FENTY-Site/default/DynamicYield-GetAPIProperties"};
+window.ClientCache = {"ENABLE_ICHECK_SELECTION":true,"DISABLE_MOBILE_SORT_OVERLAP":true,"GOOGLE_MAPS_AUTO_ON":true,"GOOGLE_MAPS_LOCATION_MOBILE_ENABLED":false,"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":true,"MINICART_WINDOW_INNER_WIDTH":0,"MINICART_WINDOW_INNER_WIDTH_FLASH":0,"MINICART_WINDOW_WIDTH":0,"ENABLE_MOBILE_CART_OVERLAY":false,"MOBILE_CART_OVERLAYSPLIT_TEST":false,"SEARCHCATEGORIES":false,"SEARCHCONTENT":false,"SELECTRIC_BRAND_SETTINGS":"selectricFENTY","SELECTRIC_DISABLE_MOBILE":false,"MOBILENAV_BELOW_HEADER_ENABLED":true,"NEWSLETTER_HEADER_FORMAT":"Modal","NEWSLETTER_FOOTER_TARGET":".newsletter-footer-container .newsletter-footer-signup","SMS_FOOTER_TARGET":".sms-footer-container .sms-footer-signup","NEWSLETTER_POPUP_ENABLED":false,"NEWSLETTER_POPUP_THRESHOLD":2,"NEWSLETTER_POPUP_SLIDEEFFECT":true,"NEWSLETTER_POPUP_SLIDEFOOTER":true,"NEWSLETTER_POPUP_SLIDEHEIGHT":198,"NEWSLETTER_COOKIE_DAYS":30,"SOCIAL_MEDIA_INTEGRATION":"AddThis","EXACTTARGET_CONVERSION":false,"HOMEPAGE_SLIDER_AUTOPLAY_ENABLED":true,"HOMEPAGE_SLIDER_AUTOPLAY_TIMER":5000,"STICKY_HEADER":true,"STICKY_REFINEMENTS":false,"HTTP_LOGIN_ENABLE":true,"GOOGLE_ANALYTICS_ENABLED":false,"GOOGLE_ANALYTICS_ID":"UA-100201053-1","GOOGLE_TAG_MANAGER_ENABLED":true,"GOOGLE_TAG_MANAGER_ID":"GTM-T9B39X7","ENABLE_EMAIL_BACK_IN_STOCK":true,"ENABLE_GRID_EXPAND_COLLAPSE":true,"FACEBOOK_APP_ID":"389910431020874","GRID_ROW_TILE_AMOUNT":"{\n\t\"mobile\": {\n\t\t\"tiles\": 2\n\t},\n        \"tablet\": {\n\t\t\"screenWidth\": 767,\n\t\t\"tiles\": 3\n\t},\n\t\"desktop\": {\n\t\t\"screenWidth\": 767,\n\t\t\"tiles\": 3\n\t}\n}","DISABLE_QV":false,"DISABLE_PERSISTENT_QV":true,"QV_ALWAYS_VISIBLE":false,"VIDEO_DIALOG_TOP":false,"TGCOMMERCE_SHIPPING_METHOD":"TGCommerce","TGCOMMERCE_HIDE_POSTAL_CODE":"AI,AG,AN,AW,BS,BH,BB,BZ,BM,VG,BI,CV,KY,CF,XC,DM,GQ,ER,FK,FJ,GI,GD,HT,HK,IE,JM,KW,MO,MS,NR,NO,NI,PA,WS,ST,SA,SB,XN,XS,SS,SR,TL,TO,TV,AE,VU,ZM,CD,CW,DJ,BO","JS_INIT_BUNDLE":true,"JS_ENABLE_QUANTITYCHANGER":true,"JS_ENABLE_COLORCOMPARE":true,"JS_ENABLE_VIDEOSTEPS":true,"JS_ENABLE_UPCLOSESWATCH":false,"JS_ENABLE_STICKYSUMMARY":false,"JS_ENABLE_MOBILEMENU":false,"JS_ENABLE_ACCTOGGLEMENU":true,"JS_ENABLE_SEARCH_PLACEHOLDER":true,"JS_ENABLE_SEARCH_TOGGLE":false,"JS_ENABLE_DYNAMICYIELD":false,"JS_ENABLE_DYNAMICYIELD_EVENTS":false,"EU_COUNTRIES":["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","NL","PL","PT","RO","SK","SI","ES","SE","GB"]};
 window.Callbacks = callbacks;
 }(window.app = window.app || {}));
+
 	
 	pageContext = {"title":"Customer Service","type":"customerservice","ns":"account"};
 	app.page = pageContext;		
@@ -2323,177 +2688,14 @@ window.Callbacks = callbacks;
 
 
 	
-	<script defer src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/js/responsive.js"></script>
+	<script defer src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/js/responsive.js"></script>
 
 
 
 
-<script defer src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/compiled/vendor.min.js"></script>
 
 
-	<script defer src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/compiled/app.min.js"></script>
-
-
-
-
-<script>
-	(function(app){
-		app.tgresources = {"tgCommerceShippingMethodID":"TGCommerce","currencyConversionEnabled":null,"baseCurrency":"USD","tgCommerceWelcomeMat":"/on/demandware.store/Sites-FENTY-Site/default/TGCommerce-WelcomeMatStart","tgCommerceHidePostalCode":"AI,AG,AN,AW,BS,BH,BB,BZ,BM,VG,BI,CV,KY,CF,XC,DM,GQ,ER,FK,FJ,GI,GD,HT,HK,IE,JM,KW,MO,MS,NR,NO,NI,PA,WS,ST,SA,SB,XN,XS,SS,SR,TL,TO,TV,AE,VU,ZM,CD,CW,DJ,BO"};
-		app.tgresources.currencyRates = {"AED":4.3167,"ARS":9.4021,"AUD":1.1369,"BRL":2.6400,"CAD":1.1640,"CHF":1.0362,"CLP":663.5709,"CNY":7.3311,"CZK":23.3202,"DKK":5.6968,"EUR":0.7631,"GBP":0.6286,"HKD":9.1111,"HUF":261.4704,"ILS":4.0979,"INR":71.7813,"JPY":107.9692,"KWD":0.3305,"MXN":15.3646,"MYR":3.8377,"NOK":6.3183,"NZD":1.2301,"PHP":52.5668,"PLN":3.5607,"RUB":41.9759,"SEK":6.9348,"SGD":1.4770,"THB":38.0061,"TWD":35.6322,"USD":1.0000};
-	}(window.app = window.app || {}));
-</script>
-
-<script defer src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/js/tgcommerce.js" type="text/javascript"></script>
-
-
-	<script defer type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-4ea5d98601c1dc84"></script>
-
-
-
-<script>
-	// Google Maps Form Autocomplete API
-	
-		var placeSearch, autocomplete, autocomplete2, form1, form2;
-		var componentMapping = {
-			street_number: '.form-row.address1 input',
-			route: '.form-row.address1 input',
-			locality: '.form-row.city input',
-			administrative_area_level_1: '.form-row.states select,.form-row.state select',
-			administrative_area_level_3: '.form-row.city input',
-			country: '.form-row.country select',
-			postal_code: '.form-row.postal-code input,.form-row.zip input'
-		};
-
-		var componentForm = {
-			street_number: 'short_name',
-			route: 'long_name',
-			locality: 'long_name',
-			administrative_area_level_1: 'short_name',
-			administrative_area_level_3: 'short_name',
-			country: 'short_name',
-			postal_code: 'short_name'
-		};
-
-		function initAutocomplete() {
-			form1 = $($('.form-row.address1 input')[0]).closest('form');
-			form2 = $($('.form-row.address1 input')[1]).closest('form');
-			if (form1.length > 0) {
-				autocomplete = new google.maps.places.Autocomplete((form1.find('.form-row.address1 input')[0]), {
-					types: ['geocode']
-				});
-				autocomplete.addListener('place_changed', fillInAddress);
-			}
-			if (form2.length > 0) {
-				autocomplete2 = new google.maps.places.Autocomplete((form2.find('.form-row.address1 input')[0]), {
-					types: ['geocode']
-				});
-				autocomplete2.addListener('place_changed', fillInAddress2);
-			}
-
-			$('.form-row.address1 input').attr('autocomplete','on');
-		}
-
-		function fillInAddress() {
-			var street = '';
-			var place = autocomplete.getPlace();
-			for (var component in componentForm) {
-				form1.find(componentMapping[component]).val('')
-			}
-			for (var i = 0; i < place.address_components.length; i++) {
-				var addressType = place.address_components[i].types[0];
-				if (componentForm[addressType]) {
-					var val = place.address_components[i][componentForm[addressType]];
-					var theInput = form1.find(componentMapping[addressType]);
-					
-					if (addressType == 'street_number' || addressType == 'route') {
-						if (street != '') {
-							street = street + ' ';							
-						}
-						street = street + val;
-						if (addressType == 'route') {
-							theInput.val(street);
-						}
-					} else {
-						theInput.val(val);
-					}
-					
-					if (addressType != 'street_number') {
-						if( theInput.val().trim() !== '' ) { // foro yoshiko effect
-							$(theInput.parentNode).addClass( 'input--filled' );
-						}						
-					}
-				}
-			}
-
-			form1.find('select[name$="_addressFields_countries_country"]').trigger('change');
-			$('select').selectric('refresh');
-		}
-
-		function fillInAddress2() {
-			var street = '';
-			var place = autocomplete2.getPlace();
-			for (var component in componentForm) {
-				form2.find(componentMapping[component]).val('')
-			}
-			for (var i = 0; i < place.address_components.length; i++) {
-				var addressType = place.address_components[i].types[0];
-				if (componentForm[addressType]) {
-					var val = place.address_components[i][componentForm[addressType]];
-					var theInput = form2.find(componentMapping[addressType]);
-					
-					if (addressType == 'street_number' || addressType == 'route') {
-						if (street != '') {
-							street = street + ' ';							
-						}
-						street = street + val;
-						if (addressType == 'route') {
-							theInput.val(street);
-						}
-					} else {
-						theInput.val(val);
-					}
-					
-					if (addressType != 'street_number') {
-						if( theInput.val().trim() !== '' ) { // foro yoshiko effect
-							$(theInput.parentNode).addClass( 'input--filled' );
-						}						
-					}
-				}
-			}
-			form2.find('select[name$="_addressFields_countries_country"]').trigger('change');
-			$('select').selectric('refresh');
-		}
-
-		function geolocate() {
-			if (navigator.geolocation) {
-				navigator.geolocation.getCurrentPosition(function(position) {
-					var geolocation = {
-						lat: position.coords.latitude,
-						lng: position.coords.longitude
-					};
-					var circle = new google.maps.Circle({
-						center: geolocation,
-						radius: position.coords.accuracy
-					});
-					autocomplete.setBounds(circle.getBounds())
-				})
-			}
-		}
-		$(document).ready(function () {
-			$('.form-row.address1 input').on("focus", function() {
-				geolocate();
-				$(this).attr('autocomplete','off');
-				
-			}).on("blur", function() {
-				$(this).attr('autocomplete','on');
-			});
-		});
-
-	
-</script>
-
-
-	<script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCG4HcxDZPFhF1UOn3eCNTHT0qrYEMCQuU&libraries=places&callback=initAutocomplete" ></script>
+	<script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCG4HcxDZPFhF1UOn3eCNTHT0qrYEMCQuU&libraries=places" ></script>
 	<style>			
 	.pac-item {
 	    padding: 0 6px;
@@ -2536,9 +2738,32 @@ window.Callbacks = callbacks;
 	margin-left: 7px;
 }
 </style>
+
+
+<script defer src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/compiled/vendor.min.js"></script>
+
+
+	<script defer src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/compiled/app.min.js"></script>
+
+
+
+
+<script>
+	(function(app){
+		app.tgresources = {"tgCommerceShippingMethodID":"TGCommerce","currencyConversionEnabled":null,"baseCurrency":"USD","tgCommerceWelcomeMat":"/on/demandware.store/Sites-FENTY-Site/default/TGCommerce-WelcomeMatStart","tgCommerceHidePostalCode":"AI,AG,AN,AW,BS,BH,BB,BZ,BM,VG,BI,CV,KY,CF,XC,DM,GQ,ER,FK,FJ,GI,GD,HT,HK,IE,JM,KW,MO,MS,NR,NO,NI,PA,WS,ST,SA,SB,XN,XS,SS,SR,TL,TO,TV,AE,VU,ZM,CD,CW,DJ,BO"};
+		app.tgresources.currencyRates = {"AED":4.3167,"ARS":9.4021,"AUD":1.1369,"BRL":2.6400,"CAD":1.1640,"CHF":1.0362,"CLP":663.5709,"CNY":7.3311,"CZK":23.3202,"DKK":5.6968,"EUR":0.7631,"GBP":0.6286,"HKD":9.1111,"HUF":261.4704,"ILS":4.0979,"INR":71.7813,"JPY":107.9692,"KWD":0.3305,"MXN":15.3646,"MYR":3.8377,"NOK":6.3183,"NZD":1.2301,"PHP":52.5668,"PLN":3.5607,"RUB":41.9759,"SEK":6.9348,"SGD":1.4770,"THB":38.0061,"TWD":35.6322,"USD":1.0000};
+	}(window.app = window.app || {}));
+</script>
+
+<script defer src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/js/tgcommerce.js" type="text/javascript"></script>
+
+
+	<script defer type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-4ea5d98601c1dc84"></script>
+
+
 	
-	<script src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/lib/iecompat/matchMedia.js"></script>
-	<script src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/lib/iecompat/matchMedia.addListener.js"></script>
+	<script src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/lib/iecompat/matchMedia.js"></script>
+	<script src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/lib/iecompat/matchMedia.addListener.js"></script>
 <![endif]-->
 </div>
 
@@ -2558,9 +2783,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 <script type="text/javascript">//<!--
@@ -2570,6 +2795,6 @@ dw.applepay = {"action":{"cancel":"https:\/\/www.fentybeauty.com\/on\/demandware
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-FENTY-Site/-/default/v1529857117476/internal/jscript/applepay.js" async="true"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-FENTY-Site/-/default/v1546105004250/internal/jscript/applepay.js" async="true"></script>
 
 </body></html>
