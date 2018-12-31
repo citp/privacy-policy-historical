@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovelywholesale.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501082905id_/http%3A//www.lovelywholesale.com/article-9-Privacy%2BPolicy%2B.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelywholesale.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231070435id_/http%3A//www.lovelywholesale.com/article-9-Privacy%2BPolicy%2B.html) for the most accurate reproduction.*
 
 # Privacy Policy _Our Store_FAQ_Help Center_LovelyWholesale | Wholesale Shoes,Wholesale Clothing, Cheap Clothes,Cheap Shoes Online. - LovelyWholesale.com
 
@@ -8,7 +8,7 @@ Lily / 2011-07-14
 Privacy  
 Lovelywholesale.com is committed to protecting our customers privacy. Please rest assured that all information about customers will not be disclosed to any third parties except for those who fulfill the delivery or any necessary process to check the order or payment. By placing an order with us, you consent to us collecting and using personal data about you as specified below in accordance with this policy statement. Any changes made to these terms will be posted here so that you are always kept informed about the collection and use of your personal information.
 
-**Secure Socket Layer (SSL)** , to process securely online credit card transaction. Your payment details is encrypted and cannot be read as it travels over the internet. Credit card numbers are not held in clear text within our web site. 
+ **Secure Socket Layer (SSL)** , to process securely online credit card transaction. Your payment details is encrypted and cannot be read as it travels over the internet. Credit card numbers are not held in clear text within our web site. 
 
   
 Collection and Use of Personal Data
@@ -29,10 +29,4 @@ The details you provide to us will not be sold to third party organisations; the
 
   
 Inaccuracies and corrections  
-We aim to keep your personal data accurate and up to date. If you become aware of errors or inaccuracies, please contact us by clicking on the "[ _Contact Us_](http://www.lovelywholesale.com/article-7-Contact+Us.html)" link in the menu. Or through the following methods:
-
-Tel: 1-516-299-9077 or 1-619-828-3688
-
-Email: support@lovelywholesale.com
-
-ADD: Rm.19C Lockhart Ctr.,301-307 Lockhart Rd.,Wan Chai Hong Kong
+We aim to keep your personal data accurate and up to date. If you become aware of errors or inaccuracies, please contact us by clicking on the "[Contact Us](http://www.lovelywholesale.com/article-7-Contact+Us.html)" link in the menu. 
