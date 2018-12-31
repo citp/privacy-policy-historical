@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbubble.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629145249id_/https%3A//www.redbubble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbubble.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231195055id_/https%3A//www.redbubble.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Redbubble
 
@@ -8,11 +8,11 @@ This privacy policy explains what kind of personal data we collect when you use 
 
 ## 1\. DATA CONTROLLER, DATA PROTECTION OFFICER AND REPRESENTATIVE IN THE EUROPEAN UNION (EU)
 
-1.1 Joint data controllers within the meaning of the European General Data Protection Regulation (GDPR) are Redbubble Inc., 111 Sutter St., 17th Floor, San Francisco, CA 94104, USA, and Redbubble Ltd., Level 3, 271 Collins St., Melbourne, Victoria 3000, Australia; phone +49 (0) 30 5683 7185, e-mail [privacy@redbubble.com](mailto:legal@redbubble.com) (jointly hereinafter **“Redbubble”** , **“we”** , **“our”** , **“us”** etc.).
+1.1 Joint data controllers within the meaning of the European General Data Protection Regulation (GDPR) are Redbubble Inc., 111 Sutter St., 17th Floor, San Francisco, CA 94104, USA, and Redbubble Ltd., Level 3, 271 Collins St., Melbourne, Victoria 3000, Australia; phone +49 (0) 30 5683 7185, e-mail [privacy@redbubble.com](mailto:privacy@redbubble.com) (jointly hereinafter **“Redbubble”** , **“we”** , **“our”** , **“us”** etc.).
 
 1.2 Our data protection officer can be contacted under Data Protection Officer, Redbubble Ltd., Level 3, 271 Collins St., Melbourne, Victoria 3000, Australia, e-mail [dpo@redbubble.com](mailto:dpo@redbubble.com).
 
-1.3 Our representative in the European Union (EU) is Redbubble Europe GmbH at Neue Schônhauserstraße 3-5 Berlin Mitte, D-10178, Germany, email [privacy@redbubble.com](mailto:privacy@redbubble.com).
+1.3 Our representative in the European Union (EU) is Redbubble Europe GmbH at Krausenstraße 9-10, 10117 Berlin, Germany, email [privacy@redbubble.com](mailto:privacy@redbubble.com).
 
 ## 2\. WHAT IS PERSONAL DATA
 
@@ -718,7 +718,7 @@ Tumblr Inc., 35 E 21st St., 10th Floor, New York, NY 10010, USA
   
 ## 9\. YOUR RIGHTS UNDER DATA PROTECTION LEGISLATION
 
-In particular but without limitation, the following rights are vested in you by applicable data protection law:
+In particular, but without limitation, the following rights are vested in you by applicable data protection law:
 
 (a) Right of access, rectification, erasure and restriction of processing: You have the right to obtain at any time access to your personal data stored by us. If we process or use your personal data, we shall endeavor to ensure by implementing suitable measures that your personal data is accurate and up-to-date for the purposes for which they were collected. If your personal data is inaccurate or incomplete, you have the right to obtain the rectification of such personal data. Furthermore, you may have the right to obtain the erasure or restriction of processing of your personal data, for example if no legitimate business purpose exists anymore for the data processing under this privacy policy or applicable law and the further storage is not necessary under statutory storage obligations.
 
@@ -730,13 +730,24 @@ Your user account essentially shows the personal data you have stored with us. Y
 
 (d) Right to withdraw your consent: If you have given your consent to the collection or processing of your personal data, you have the right to withdraw your consent at any time on a prospective basis without affecting the lawfulness of processing based on the consent before its withdrawal. You may also object to use of your personal data for purposes of market research and public opinion polling as well as advertising and unsubscribe from our newsletter (please cf. under item 4.3 above). To exercise any of these rights you may at any time contact us as provided in item 1 above.
 
-(e) Supervisory authority competent for complaints: You have the right to lodge a complaint with the UK Information Commissioner’s Office which you can contact under [https://ico.org.uk/global/contact-us/](https://www.google.com/url?q=https://ico.org.uk/global/contact-us/&sa=D&ust=1527059895215000).
+## 10\. COMPLAINTS
 
-## 10\. CHANGES
+If you have any questions, concerns or complaints relating to this privacy policy or Redbubble’s privacy/data protection practices, you are welcome to contact the Redbubble Data Protection Officer at the contact details listed in Section 1.
+
+The relevant supervisory authority for the making of complaints depends on your location:
+
+  * in the United States you can contact the Federal Trade Commission and lodge a complaint through the process set out at: www.ftccomplaintassistant.gov
+  * in the European Union you can complain to the supervisory authority of the Member State where you reside, where you work, or where you believe a GDPR infringement occurred
+  * in Australia you can complain to the Office of the Australian Information Commissioner – see here: <https://www.oaic.gov.au/individuals/how-do-i-make-a-privacy-complaint>
+  * in the UK you have the right to lodge a complaint with the UK Information Commissioner’s Office which you can contact under <https://ico.org.uk/global/contact-us/>.
+
+
+
+## 11\. CHANGES
 
 Redbubble reserves the right to change this privacy policy from time to time in compliance with the legal requirements, for example to be compliant with new laws or to add new services.
 
-Date: 22 May 2018
+Date: 25 May 2018
 
 desktop tablet-landscape content-width tablet-portrait workstream-4-across phone-landscape phone-portrait
 
