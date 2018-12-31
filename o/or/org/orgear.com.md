@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the orgear.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206220654id_/https%3A//www.outdoorresearch.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orgear.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231034833id_/https%3A//www.outdoorresearch.com/us/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy US EN | Outdoor Research | Designed By Adventure | Outdoor Clothing & Gear
+# Privacy policy | Outdoor Research
 
-**Outdoor Research, Privacy Policy**
+* * *
 
 **Last Updated: September 10, 2013**
 
@@ -90,7 +90,7 @@ We may allow third parties to serve advertisements on our behalf across the Inte
 
 **Online Account Information:**
 
-You may access, update and correct your online account information at any time by logging into your online account and updating your preferences. If you wish to delete your online account, please email us at [info@outdoorresearch.com](mailto:info@outdoorresearch.com), but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your information for a certain period of time.
+You may access, update and correct your online account information at any time by logging into your online account and updating your preferences. If you wish to delete your online account, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1a73747c755a756f6e7e757568687f697f7b68797234797577), but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your information for a certain period of time.
 
 **Cookies:**
 
@@ -98,12 +98,12 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 
 **Promotional Communications:**
 
-You may opt out of receiving promotional emails from Outdoor Research by following the instructions in those emails or by emailing [info@outdoorresearch.com](mailto:info@outdoorresearch.com). If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing relations.
+You may opt out of receiving promotional emails from Outdoor Research by following the instructions in those emails or by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f59c9b939ab59a8081919a9a87879086909487969ddb969a98). If you opt out, we may still send you non-promotional emails, such as emails about your account or our ongoing relations.
 
 **_Your California Privacy Rights_**
 
-California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at [info@outdoorresearch.com](mailto:info@outdoorresearch.com) or Outdoor Research, Attn: Privacy Policy, 2203 1st Ave S; Seattle, WA 98134.
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cfa6a1a9a08fa0babbaba0a0bdbdaabcaaaebdaca7e1aca0a2) or Outdoor Research, Attn: Privacy Policy, 2203 1st Ave South; Seattle, WA 98134.
 
 **_Contact Us_**
 
-Outdoor Research welcomes your comments and questions about this Privacy Policy. Please address comments or questions to [info@outdoorresearch.com](mailto:info@outdoorresearch.com)or Outdoor Research, Attn: Privacy Policy, 2203 1st Ave S; Seattle, WA 98134.
+Outdoor Research welcomes your comments and questions about this Privacy Policy. Please address comments or questions to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0960676f6649667c7d6d66667b7b6c7a6c687b6a61276a6664)or Outdoor Research, Attn: Privacy Policy, 2203 1st Ave South; Seattle, WA 98134.
