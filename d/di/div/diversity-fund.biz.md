@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diversity-fund.biz privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625121832id_/http%3A//diversity-fund.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversity-fund.biz privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231114413id_/http%3A//www.diversity-fund.biz/privacy.php) for the most accurate reproduction.*
 
 # Diversity-Fund - Crowdfunding Website
 
@@ -193,7 +193,7 @@ We are in compliance with the requirements of COPPA (Children's Online Privacy P
 
 ### **TERMS AND CONDITIONS**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Services](https://web.archive.org/web/20180625121832id_/http%3A//diversity-fund.biz/terms.php)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Services](https://web.archive.org/web/20181231114413id_/http%3A//www.diversity-fund.biz/terms.php)
 
   
 
