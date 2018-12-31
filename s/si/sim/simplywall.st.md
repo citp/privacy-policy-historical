@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplywall.st privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618074146id_/https%3A//simplywall.st/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplywall.st privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231075309id_/https%3A//simplywall.st/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Simply Wall St
 
@@ -40,7 +40,7 @@ Personal Data means data about a living individual who can be identified from th
 
 ##### Privacy Act
 
-Privacy Act refers to the Australian Privacy (<https://www.oaic.gov.au/privacy-law/privacy-act/australian-privacy-principles>)
+Privacy Act refers to the Australian Privacy Principles (<https://www.oaic.gov.au/privacy-law/privacy-act/australian-privacy-principles>)
 
 ##### GDPR
 
