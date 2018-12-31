@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625193659id_/https%3A//doyouremember.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyouremember.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231183953id_/https%3A//doyouremember.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Do You Remember?
 
@@ -155,6 +155,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 Do You Remember, Inc.  
 36 Island Avenue #46  
 Miami Beach, FL  33139  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+info@doyouremember.com
 
 Last Edited on 10//30/17
