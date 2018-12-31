@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewirecutter.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527212309id_/https%3A//thewirecutter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewirecutter.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231204957id_/https%3A//thewirecutter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Reviews by Wirecutter | A New York Times Company
 
