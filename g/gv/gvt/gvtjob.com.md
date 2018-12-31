@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gvtjob.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120001737id_/http%3A//www.gvtjob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gvtjob.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231164454id_/https%3A//www.gvtjob.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Government Jobs & Sarkari Naukri 2016
+# Privacy Policy 31 December 2018
 
 gvtjob respects the privacy of it’s users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it’s users gvtjob offers a vast repository of Online Sites and variety of community services. You may read ‘About Us’ to know more about gvtjob. The information about the user as collected by gvtjob is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
