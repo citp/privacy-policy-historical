@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costa.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625222255id_/https%3A//www.costa.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costa.co.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231212127id_/https%3A//www.costa.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Costa Coffee
 
