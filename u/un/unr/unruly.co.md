@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unruly.co privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629113030id_/https%3A//unruly.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unruly.co privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224758id_/https%3A//unruly.co/privacy) for the most accurate reproduction.*
 
 # Unruly Privacy Policy
 
@@ -20,7 +20,7 @@ By using any Unruly Site, you acknowledge the transfer of your personal data to 
 
 By using any Unruly Site, you are consenting to the placing of cookies and other technologies on your devices which allow Unruly to collect certain information. We provide more detail on this below.
 
-If you have any queries about how we collect or use your personal data, please contact us at [dataprotection@news.co.uk](mailto:dataprotection@news.co.uk)
+If you have any queries about how we collect or use your personal data, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8aeeebfeebfaf8e5feefe9fee3e5e4cae4effdf9a4e9e5a4ffe1)
 
 This Privacy Policy will describe the kinds of information Unruly may collect from or use or disclose about you or your computer or device when you visit an Unruly Site or when you encounter Distributed Content served by Unruly at a Participant Site. All Participant Sites are operated or controlled by third parties, and the collection, use and disclosure of information collected by a Participant Site or other parties working with such site are governed its or their privacy policies. This Privacy Policy does not apply to Participant Sites or such other parties.
 
@@ -113,7 +113,7 @@ Personal Data is collected on the Unruly Sites in various instances including, w
 
 You may, of course, decline to share any or certain items of personally-identifiable information with Unruly, in which case we may be unable to provide you with the services or pay you any monies that might otherwise be payable to you. Unruly archives any and all information, including personally identifiable information, that may be input in any registration process even if the user refuses or is declined or fails to use or abandons the services provided by Unruly.
 
-**Note about Children’s Privacy** : Unruly is very sensitive to the issue of children’s privacy. Our websites, products, and services are neither developed for, nor directed at, children, and we do not knowingly collect personal information about children under 13. If you believe your child has provided Unruly with personally identifiable data by registering or using any offerings at any of our Unruly Sites (i.e., sites owned and operated by Unruly, as opposed to a Participant Site over which we have no control), and you would like to have us look into removing the data from our servers, please contact us at [dataprotection@news.co.uk](mailto:dataprotection@news.co.uk)
+**Note about Children’s Privacy** : Unruly is very sensitive to the issue of children’s privacy. Our websites, products, and services are neither developed for, nor directed at, children, and we do not knowingly collect personal information about children under 13. If you believe your child has provided Unruly with personally identifiable data by registering or using any offerings at any of our Unruly Sites (i.e., sites owned and operated by Unruly, as opposed to a Participant Site over which we have no control), and you would like to have us look into removing the data from our servers, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5b1b4a1b4a5a7baa1b0b6a1bcbabb95bbb0a2a6fbb6bafba0be)
 
 ### Where Unruly stores Personal Data
 
@@ -132,9 +132,9 @@ Unruly uses the personal data you provide to respond to your enquiries and reque
 
 ### Access and control of your information
 
-Where we rely on your consent to process personal information, you have the right to withdraw that consent at any time. Please contact us at [dataprotection@news.co.uk](mailto:dataprotection@news.co.uk) with details of your request. In some instances we may still have an alternative legal basis to continue to process that personal information and we will inform you of that. If you do withdraw consent we may not be able to provide the product or service you have requested. 
+Where we rely on your consent to process personal information, you have the right to withdraw that consent at any time. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#412520352031332e35242235282e2f012f2436326f222e6f342a) with details of your request. In some instances we may still have an alternative legal basis to continue to process that personal information and we will inform you of that. If you do withdraw consent we may not be able to provide the product or service you have requested. 
 
-If you have a comment, concern or suggestion, please contact us at [dataprotection@news.co.uk](mailto:dataprotection@news.co.uk). If you have a complaint and we cannot resolve the matter, you have the right to comply to the [Information Commissioner’s Office](https://ico.org.uk/) or the data protection regulator responsible for your country or region. 
+If you have a comment, concern or suggestion, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#036762776273716c776660776a6c6d436d6674702d606c2d7668). If you have a complaint and we cannot resolve the matter, you have the right to comply to the [Information Commissioner’s Office](https://ico.org.uk/) or the data protection regulator responsible for your country or region. 
 
 ### Retention of personal data
 
@@ -148,7 +148,7 @@ Unruly may update this Privacy Policy from time to time. This may be in relation
 
 In addition to any general data protection enquiries you may have, you can use the below details to contact our Group Data Protection Officer:
 
-By email: [dataprotection@news.co.uk](mailto:dataprotection@news.co.uk)
+By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec888d988d9c9e8398898f98858382ac82899b9fc28f83c29987)
 
 By mail: Unruly Group Limited, The White Chapel Building, 15 Whitechapel High Street, London, E1 8QS
 
