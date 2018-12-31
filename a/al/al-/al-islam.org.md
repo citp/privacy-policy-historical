@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the al-islam.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625112444id_/https%3A//www.al-islam.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the al-islam.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231080635id_/https%3A//www.al-islam.org/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Books on Islam and Muslims | Al-Islam.org
 
