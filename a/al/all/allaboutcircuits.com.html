@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allaboutcircuits.com privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625040810id_/https%3A//www.allaboutcircuits.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allaboutcircuits.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231032838id_/https%3A//www.allaboutcircuits.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 <meta charset="utf-8">
@@ -22,7 +22,7 @@
 
 <link href="/assets/library/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-<link href="/assets/css/combined.css?rob2018b" rel="stylesheet">
+<link href="/assets/css/combined.css?rob2018c" rel="stylesheet">
 <link href="/assets/css/main_site.css" rel="stylesheet">
 <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
 <link href="/assets/css/aac-parts.css" rel="stylesheet">
@@ -84,11 +84,10 @@
   googletag.cmd.push(function() {
 	var mappingLeaderboard = googletag.sizeMapping().
     	addSize([0,0], [[300, 50], [320, 50]]).
-        addSize([800, 600], [728,90]).
+        addSize([800, 600], [[728,90], [800, 250]]).
         build();  
   
-    googletag.defineSlot('/62616433/main_leaderboard', [[728, 90], [320,50], [300, 50]], 'div-gpt-ad-1430160961981-0').defineSizeMapping(mappingLeaderboard).addService(googletag.pubads());
-    googletag.pubads().enableSingleRequest();
+    googletag.defineSlot('/62616433/main_leaderboard', [[728, 90], [800, 250], [320,50], [300, 50]], 'div-gpt-ad-1430160961981-0').defineSizeMapping(mappingLeaderboard).addService(googletag.pubads());    googletag.pubads().enableSingleRequest();
     googletag.pubads().collapseEmptyDivs();
     googletag.enableServices();
   });
@@ -226,6 +225,7 @@
         if(jstz.determine().name().indexOf("Europe") === -1) {
             showSocialCode(); // NOT EU
         } else {
+            showSocialCode();
             window.addEventListener("load", function () {
                 window.cookieconsent.initialise({
                     "palette": {
@@ -245,18 +245,24 @@
                     onInitialise: function (status) {
                         var type = this.options.type;
                         var didConsent = this.hasConsented();
-                        if (type == 'opt-out' && didConsent) {showSocialCode();}
+                        if (type == 'opt-out' && didConsent) {
+                            console.log("eu"); //showSocialCode();
+                        }
                     },
 
                     onStatusChange: function (status, chosenBefore) {
                         var type = this.options.type;
                         var didConsent = this.hasConsented();
-                        if (type == 'opt-out' && didConsent) {showSocialCode();}
+                        if (type == 'opt-out' && didConsent) {
+                            console.log("eu"); //showSocialCode();
+                        }
                     },
 
                     onRevokeChoice: function () {
                         var type = this.options.type;
-                        if (type == 'opt-out') {showSocialCode();}
+                        if (type == 'opt-out') {
+                            console.log("eu"); //showSocialCode();
+                        }
                     },
 
                 })
@@ -409,7 +415,7 @@ Tools <i class="fa fa-chevron-down"></i>
 <li id="tools_part_search" itemprop="name"><a class="text-uppercase" href="/electronic-components/" itemprop="url">Part Search</a></li>
 <li id="tools_test_measurement" itemprop="name"><a class="text-uppercase" href="/test-measurement/" itemprop="url">Test Equipment DB</a></li>
 <li id="tools_bom" itemprop="name"><a class="text-uppercase" href="/bom/" itemprop="url">BOM Tool</a></li>
-<li id="tools_datasheet" itemprop="name"><a class="text-uppercase" href="/electronic-components/manufacturer/" itemprop="url">Datasheet Search</a></li>
+<li id="tools_reference" itemprop="name"><a class="text-uppercase" href="/industry-designs/" itemprop="url">Reference Designs</a></li>
 </ul>
 </div>
 <div id="tools_main" class="menu-articles col-sm-9 col-md-9 col-lg-10 match-dp-menu hidden-xs"></div>
@@ -418,14 +424,14 @@ Tools <i class="fa fa-chevron-down"></i>
 </div>
 </ul>
 </li>
-<li id="topics_giveaways_menu" class="cat-menu-item yamm-fw hidden-sm">
+<li id="topics_part_search_menu" class="cat-menu-item yamm-fw hidden-sm">
+<a href="/electronic-components/" class="dropdown-toggle dblclick nodropdown" data-toggle="dropdown" role="button" aria-expanded="false" title="Electronics Part Search">Datasheets</a>
+</li>
+<li id="topics_giveaways_menu" class="cat-menu-item hidden-sm  hidden-md yamm-fw">
 <a href="/giveaways/" class="dropdown-toggle dblclick nodropdown" data-toggle="dropdown" role="button" aria-expanded="false">Giveaways</a>
 </li>
 <li id="topics_iot_menu" class="cat-menu-item hidden-sm  hidden-md yamm-fw">
-<a href="/test-measurement/" class="dropdown-toggle dblclick nodropdown" data-toggle="dropdown" role="button" aria-expanded="false">Test Db <img src="/assets/images/beta.png" class="beta-search hidden-xs" alt="Test &amp; Measurement Db Beta"></a>
-</li>
- <li id="topics_part_search_menu" class="cat-menu-item hidden-sm  hidden-md yamm-fw">
-<a href="/electronic-components/" class="dropdown-toggle dblclick nodropdown" data-toggle="dropdown" role="button" aria-expanded="false" title="Electronics Part Search">Part Search</a>
+<a href="/test-measurement/" class="dropdown-toggle dblclick nodropdown" data-toggle="dropdown" role="button" aria-expanded="false">Test Db</a>
 </li>
 <li class="login-menu-item dropdown hidden-xs">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">LOG IN / JOIN</a>
@@ -444,7 +450,7 @@ Tools <i class="fa fa-chevron-down"></i>
 <li><a href="/login/">Log In</a></li>
 <li><a href="//forum.allaboutcircuits.com/register">Join AAC</a></li>
 <li><a href="/login/">Sign in with &nbsp;<i class="fa fa-facebook"></i>&nbsp;<i class="fa fa-linkedin"></i>&nbsp;<i class="fa fa-google-plus"></i></a></li>
- <li><a href="//forum.allaboutcircuits.com/register">Member Benefits</a></li>
+<li><a href="//forum.allaboutcircuits.com/register">Member Benefits</a></li>
 </ul>
 </div>
 </div>
@@ -490,9 +496,9 @@ Privacy
 <h3>Web browser cookies</h3>
 <p>Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. We use Facebook Pixel, Linkedin Pixel, and Google Analytics to gather and re-target to our audience.</p>
 <h3>How we use collected information</h3>
-<p>EETech Media may collect and use Users personal information for the following purposes:</p>
+ <p>EETech Media may collect and use Users personal information for the following purposes:</p>
 <ul>
- <li>
+<li>
 <i>To run and operate our Site</i><br>
 We may need your information display content on the Site correctly.
 </li>
@@ -572,7 +578,7 @@ We respect your privacy rights and provide you with reasonable access to the per
 <p>If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact our Data Protection Officer. They can be reached by email at privacy@eetech.com or at the following address:<br><br>
 EETech Media, LLC<br>
 ATTN: Data Protection Officer<br>
-404 S. 8th St., Ste. 203<br>
+850 W Main St.,<br>
 Boise, ID 83702<br>
 </p>
 <p>This document was last updated on May 24, 2018</p>
@@ -598,6 +604,7 @@ Boise, ID 83702<br>
 <div class="col-md-6 col-sm-12 footer-links">
 <ul class="list-unstyled">
 <li><a href="https://eepower.com" target="_blank">EEPower.com</a></li>
+<li><a href="https://www.electronicspoint.com" target="_blank">ElectronicsPoint.com</a></li>
 <li><a href="https://maker.pro/" target="_blank">Maker.Pro</a></li>
 <li><a href="https://www.mikrocontroller.net/" target="_blank">Mikrocontroller.net</a></li>
 </ul>
@@ -614,6 +621,7 @@ Boise, ID 83702<br>
 </li><li><a href="//forum.allaboutcircuits.com/">Forum</a></li>
 <li><a href="/giveaways/">Giveaways</a></li>
 <li><a href="/industry-articles/">Industry Articles</a></li>
+<li><a href="/industry-training/">Industry Training</a></li>
 </ul>
 </div>
 <div class="col-md-6 col-sm-12 footer-links">
@@ -621,6 +629,7 @@ Boise, ID 83702<br>
 <li><a href="/industry-webinars/">Industry Webinars</a></li>
 <li><a href="/news/">News</a></li>
 <li><a href="/projects/">Projects</a></li>
+<li><a href="/industry-designs/">Reference Designs</a></li>
 <li><a href="/technical-articles/">Technical Articles</a></li>
 <li><a href="/test-measurement/">Test Equipment</a></li>
 <li><a href="/textbook/">Textbook</a></li>
@@ -635,20 +644,22 @@ Boise, ID 83702<br>
 <ul class="list-unstyled">
 <li><a href="/latest/">Latest</a></li>
 <li><a href="/latest/analog/">Analog</a></li>
-<li><a href="/projects/category/arduino/">Arduino Projects</a></li>
+<li><a href="/latest/automation/">Automation</a></li>
 <li><a href="/latest/automotive/">Automotive</a></li>
 <li><a href="/latest/connectors/">Connectors</a></li>
 <li><a href="/latest/digital-ics/">Digital ICs</a>
 </li><li><a href="/latest/eda/">EDA Tools</a></li>
-<li><a href="/latest/electromechanical/">Electromechanical </a></li>
+<li><a href="/latest/electromechanical/">Electromechanical</a></li>
+<li><a href="/latest/embedded/">Embedded</a></li>
 </ul>
 </div>
 <div class="col-md-6 col-sm-12 footer-links">
 <ul class="list-unstyled">
-<li><a href="/latest/embedded/">Embedded</a></li>
+<li><a href="/latest/industrial/">Industrial</a></li>
 <li><a href="/latest/iot/">IoT</a></li>
 <li><a href="/latest/pcb/">PCB</a></li>
 <li><a href="/latest/power/">Power</a></li>
+<li><a href="/latest/risc-v/">RISC-V</a></li>
 <li><a href="/latest/sensors/">Sensors</a></li>
 <li><a href="/latest/test-and-measurement/">Test &amp; Measurement</a></li>
 <li><a href="/latest/wearables/">Wearables</a></li>
@@ -718,8 +729,8 @@ Boise, ID 83702<br>
 <script src="/assets/library/jquery.matchHeight/jquery.matchHeight.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.hoverintent/1.8.1/jquery.hoverIntent.min.js"></script>
 <script src="/assets/library/bootstrap-notify/bootstrap-notify.min.js"></script>
-<script src="/assets/js/main.js?2017b"></script>
-<script src="/assets/js/menu.js?2018a"></script>
+<script src="/assets/js/main.js?2018d"></script>
+<script src="/assets/js/menu.js?2018b"></script>
 
 <div id="div-gpt-ad-1430235245447-0" class="wallpaperadpixel">
 <script type="text/javascript">
