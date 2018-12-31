@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisfair.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123224137id_/http%3A//www.west.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisfair.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231120517id_/http%3A//www.west.com/privacy-policy) for the most accurate reproduction.*
 
 # Legal and Privacy Statement | West Corporation
 
@@ -59,7 +59,7 @@ West UC’s accountability for personal data it receives under the Privacy Shiel
 **European Union Transfers – EU-US Privacy Shield and Swiss-US Privacy Shield  
 **West UC complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively.  West Unified Communications Services and West IP Communications have certified to the Department of Commerce they adhere to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit [www.privacyshield.gov](http://www.privacyshield.gov/). **  West UC recognizes the Federal Trade Commission has jurisdiction over its compliance with the Privacy Shield.**
 
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, West UC commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact [privacy](http://www.intercall.com/l/privacy/index.php)@west.com through the directions at this link, or by mail, as directed in the “Contact Us” section, below.
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, West UC commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact [privacy@west.com](mailto:privacy@west.com) through the directions at this [link](https://l.westuc.com/privacy/index.php), or by mail, as directed in the “Contact Us” section, below.
 
 West UC has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
 
@@ -126,7 +126,7 @@ Legal Department
 Omaha, NE 68154
 
 **EMEA and APAC  
-**Steven Taylor, Regional Privacy & Security Manager and Counsel  
+**Steven Taylor, Regional Privacy Counsel  
 Legal Department  
 5 Arlington Square, Downshire Way  
 Bracknell, Berkshire RG12 1WA  
