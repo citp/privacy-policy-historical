@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the xhamster.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630020107id_/https%3A//xhamster.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xhamster.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231173007id_/https%3A//xhamster.com/info/privacy) for the most accurate reproduction.*
 
-# Privacybeleid
+# Privacy policy
+
+[
+
+__ Happy 2019! 🎄Get FREE tokens on xHamsterLive when buying a holiday package! Get it now! 
+
+](https://go.xhamsterlive.com/?path=%2F%3Faction%3DbuyTokensPromo%26channel%3Dxhamster_xhl_banner&userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop-new&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&widgetName=PromoBlock&widgetElement=PromoBlockText&isUserLogged=0&isUserRetargeted=0&utm_campaign=ny2019nonGold&utm_content=PromoBlock&campaignId=ny2019nonGold)
 
 for Hammy Media, Ltd. d/b/a [www.xhamster.com](https://www.xhamster.com/), [www.xhamsterlive.com](https://www.xhamsterlive.com/)
 
-Effective Date: June 30, 2018 
+Effective Date: December 31, 2018 
 
 Last Modified: May 24, 2018
 
@@ -43,7 +49,7 @@ We also use Your information for the obvious purpose of providing Your User prof
       6. Anyone who violates Our Anti-Spam Policy, if applicable, shall have their personal information made public. If there is any investigation on any unlawful spamming, or any use of bulk e-mail in order to promote Your User profile, or any use of bulk e-mail in any manner that leads back to Our Site, or any one of Our Sites, We will cooperate with any and all parties completely and freely in order to see that Your bulk e-mail activities stop.
   * ## VII. Transmittals from Us
 
-    1. We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by clicking <https://nl.xhamster.com/my/edit/profile?activeTab=privacy> or by clicking the opt-out link at the bottom of these emails. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account.
+    1. We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by clicking <https://xhamster.com/my/edit/profile?activeTab=privacy> or by clicking the opt-out link at the bottom of these emails. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account.
     2. If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law.
   * ## VIII. Public Areas
 
@@ -54,10 +60,10 @@ We also use Your information for the obvious purpose of providing Your User prof
   * ## X. How to Access or Modify Your Information
 
     1. We respect your privacy and data security while using xHamster and we acknowledge the fact the people may have various privacy concerns. We remain dedicated to the protection of our users’ data and we want to be clear about the type of information collected, helping you make choices about your privacy. You can: 
-      1. Access/modify the information provided during registration – please refer to the profile editing page <https://nl.xhamster.com/my/edit/profile>
-      2. Choose whether your profile / uploaded content is visible for everyone, or for registered users or for friends only <https://nl.xhamster.com/my/edit/profile?activeTab=privacy>
+      1. Access/modify the information provided during registration – please refer to the profile editing page <https://xhamster.com/my/edit/profile>
+      2. Choose whether your profile / uploaded content is visible for everyone, or for registered users or for friends only <https://xhamster.com/my/edit/profile?activeTab=privacy>
       3. Control who you disclose the information to through social networks, comments or PMs on xHamster
-      4. Review videos you’ve watched or paused watch history <https://nl.xhamster.com/my/watch-history>
+      4. Review videos you’ve watched or paused watch history <https://xhamster.com/my/watch-history>
       5. You may also block cookies (including cookies associated with our services or indicate when a cookies is set by us) by activating the related settings on your browser. However, please remember that if you use your browser settings to disable all cookies (including essential cookies) you may not be able to access all or part of our site (for example, your language preferences won’t be remembered).
   * ## XI. Where to Direct Questions About Our Privacy Policy
 
