@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625185353id_/http%3A//www.hotelnewsnow.com/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelnewsnow.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231180033id_/http%3A//www.hotelnewsnow.com/terms-of-use) for the most accurate reproduction.*
 
 # HNN
 
@@ -14,6 +14,12 @@ HNN and the STR Group are privacy conscious organizations. This means we are com
 **Privacy Shield**
 
 The STR Group has applied to participate in and has certified to the U.S. Department of Commerce, which has jurisdiction over us, that it will operate with the Department in compliance with the EU-US Privacy Shield Framework (the “Privacy Shield). STR Group has stated to the DOC that it is committed to ensuring that all personal information that is received or transferred to us from the member countries of the European Union and the European Economic Area is and will continue to be handled according to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+
+If you have any questions or complaints about our compliance with the Privacy Shield, please contact us at [legal@str.com](mailto:legal@str.com) or send a letter to our U.S. headquarters at STR, Inc., 735 East Main Street, Hendersonville, Tennessee, USA 37075, Attention: Legal).
+
+If we cannot resolve your complaint, or if you do not receive a timely acknowledgement of your complaint from us, you may submit the complaint at no-cost to the American Arbitration Association (AAA®) and its international division, the International Centre for Dispute Resolution (ICDR®) at <http://go.adr.org/privacyshield.html>.
+
+Under certain limited circumstances, if all other remedies have been exhausted to no avail, European Union individuals may invoke binding Privacy Shield arbitration as a last resort.  Please visit <https://www.privacyshield.gov/article?id=ANNEX-I-introduction> for information on when you may invoke binding arbitration.   To initiate binding arbitration, you must give notification of this decision to STR at legal@str.com or send a letter to our U.S. headquarters STR, Inc., 735 East Main Street, Hendersonville, Tennessee, USA 37075, Attention: Legal).
 
 General information about the Privacy Shield and the Privacy Shield Principles, as well as information about binding Privacy Shield arbitration, can be found at [www.privacyshield.gov](http://www.privacyshield.gov/).
 
