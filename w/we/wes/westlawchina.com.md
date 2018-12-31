@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the westlawchina.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630080105id_/https%3A//www.thomsonreuters.com/en/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlawchina.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231234141id_/https%3A//www.thomsonreuters.com/en/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement | Thomson Reuters
-
-##  **Who this statement applies to and what it covers**
 
 This Statement applies to individuals who use any website, application, including mobile application (“app”), product, software or service of ours that hyperlinks to this Statement (we call these our “ **Services** ”).
 
@@ -28,19 +26,15 @@ To learn more about the products in which we are a controller of personal inform
 | **Contact Address**  
   
 ---|---|---  
-Financial & Risk  
-| Reuters Limited  
-| Attention: Thomson Reuters Privacy Team, Legal Department, 30 South Colonnade-Canary Wharf, London E14 5EP, United Kingdom  
 Legal  
 | Thomson Reuters (Professional) UK Limited  
+| Attention: Thomson Reuters Privacy Team, Legal Department, 30 South Colonnade-Canary Wharf, London E14 5EP, United Kingdom  
   
 Tax & Accounting  
 | Thomson Reuters (Professional) UK Limited  
   
   
 Further information about when we act as a processor of personal information and business specific details can be found  _here_.
-
-###  **Sources of personal information**
 
 We collect personal information about you from your interactions with us and from certain third parties and other sources (such as your employer or the subscriber providing access to our Services or from publicly available sources where permissible).
 
@@ -61,8 +55,6 @@ We also collect personal information about you from **third parties** such as: *
 
 
 
-###  **What types of personal information we collect**
-
 The type of personal information we collect depends on how you are interacting with us and which Services you are purchasing or using.
 
 **In many cases, you can choose whether or not to provide us with personal information, but if you choose not to, you may not get full functionality from the Services.**
@@ -81,8 +73,6 @@ The personal information we collect consists of the following:
 
 
 
-###  **How we use personal information**
-
 This section includes details of the purposes for which we use personal information and also the different legal grounds upon which we process that personal information. We use personal information to provide and improve Services and for other purposes that are in our _legitimate interests_ , as well as for compliance purposes. Further information is set out below.
 
 Some laws require us to explain our lawful reason for processing your personal information. We process personal information about you on the basis that it is: ** __**
@@ -96,8 +86,6 @@ Some laws require us to explain our lawful reason for processing your personal i
 
 You are welcome to _contact us_ for further information on the legal grounds that we rely on in relation to any specific processing of your personal information.  
 
-
-###  **Legitimate interests for use**
 
 We use personal information for a number of legitimate interests, including to provide and improve Services, administer our relationship with you and our business, for marketing and in order to exercise our rights and responsibilities. More detailed information about these legitimate interests is set out below.
 
@@ -146,8 +134,6 @@ If you want to opt out of receiving interest-based advertising, it does not mean
 
 Mobile devices have an identifier that gives companies the ability to serve targeted ads to a specific mobile device. In many cases, you can turn off mobile device ad tracking or you can reset the advertising identifier at any time within your mobile device privacy settings. Another tool you can use to control advertising on your mobile device is the AppChoices App: <http://youradchoices.com/appchoices>. You may also choose to turn off location tracking on your mobile device. If you turn off ad tracking or location tracking, we will no longer use information collected from your device’s advertising identifier for the purposes of advertising. You may still see the same number of ads but they may be less relevant because they will not be based on your interests.  Where we need your consent to gather information about your location we will obtain this from you. 
 
-###  **How we share personal information**
-
 We share personal information within the Thomson Reuters group, with our business partners and third party service providers, the person providing for your access to our Services (if that is not you) and in accordance with law. Our third-party service providers are not permitted to share or use personal information we make available to them for any purpose other than to provide services to us.
 
 We share your information for the purposes set out in this Statement, with the following categories of recipients:
@@ -172,8 +158,6 @@ The areas in which these recipients are located will vary from time to time, but
 
 When we transfer personal information internationally, we put in place safeguards in accordance with applicable law (including Articles 44 to 50 of the EU General Data Protection Regulation).  If you would like to know more about our data transfer practices and obtain copies of any relevant safeguarding measures, please contact our _Privacy Team_. 
 
-##  **How we secure personal information**
-
 Thomson Reuters takes the security of personal information seriously and we use appropriate technologies and procedures to protect personal information (including administrative, technical and physical safeguards) according to the risk level and the service provided.
 
 We have in place a global Information Security and Risk Management team, led by our Chief Information Security Officer, which is responsible for implementing secure data handling practices at Thomson Reuters.  
@@ -182,8 +166,6 @@ We have in place a global Information Security and Risk Management team, led by 
 Our information security policies and procedures are closely aligned with widely accepted international standards and are reviewed regularly and updated as necessary to meet the sensitivity of the personal information we handle, our business needs, changes in technology and regulatory requirements. We have implemented appropriate information security controls.
 
 More information on the steps we have taken to ensure our information security practices meet the requirements of the EU General Data Protection Regulation can be accessed here: <https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/faqs/thomson-reuters-and-the-gdpr.pdf>.  
-
-###  **How long we keep personal information**
 
 We retain your information in accordance with our enterprise records retention schedule. You can find more information on the criteria used to calculate the retention periods set out below.
 
@@ -225,8 +207,6 @@ In order to exercise your rights please visit the following site: [http://thomso
 
 Legal Business Public Records Products: For requests related to PeopleMap, Public Records on Westlaw and CLEAR, please visit the following site: <https://legalsolutions.thomsonreuters.com/law-products/about/legal-notices/privacy/records?CID=TRSite>.
 
-###  **Cookies and similar technologies**
-
 Thomson Reuters and our third-party providers set and use cookies and similar technologies to store and manage user preferences, deliver targeted advertising, enable content, and gather analytic and usage data, for example. The use of cookies and other tracking technologies is standard across websites and apps through which information is collected about your online activities across applications, websites, or other services. More information about how we use cookies and similar technologies and how you can control and manage them is below.
 
 **What is a cookie?**  
@@ -253,7 +233,7 @@ We understand that you may want to know more about cookies. Here are some useful
   * [Mozilla Firefox®](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
   * [Microsoft® Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-11)
   * [Google Chrome™](https://support.google.com/accounts/answer/61416?hl=en)
-  * [](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)[Safari®](https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=en_US)
+  * [](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)[Safari®](https://support.apple.com/en-us/HT201265)
 
 
 
@@ -280,8 +260,6 @@ Some browsers transmit Do Not Track (DNT) signals to websites. Due to the lack o
 **Connecting via social networks**
 
 Some of our Services may include social networking features, such as the Facebook® “Like” button and widgets, “Share” buttons, and interactive mini-programs. Additionally, you may choose to use your own social networking logins from, for example, Facebook or LinkedIn®, to log into some of our Services. If you choose to connect using a social networking or similar service, we may receive and store authentication information from that service to enable you to log in and other information that you may choose to share when you connect with these Services. These Services may collect information such as the web pages you visited and IP addresses, and may set cookies to enable features to function properly. We are not responsible for the security or privacy of any information collected by these third parties. You should review the privacy statements or policies applicable to the third-party services you connect to, use, or access. If you do not want your personal information shared with your social media account provider or other users of the social media service, please do not connect your social media account with your account for the Services and do not participate in social sharing on the Services.
-
-###  **Where to find further privacy information on our products and services**
 
 This Statement generally relates to the personal information we collect about users in connection with the Services, where we make decisions about how that personal information is handled (Thomson Reuters as a controller). However, you can click on “Learn More” below for more information about how we process personal information that our customers input into our Services and for which Thomson Reuters does not make decisions about (Thomson Reuters as a processor). ** __**
 
@@ -311,16 +289,7 @@ We put in place appropriate measures to protect your information where it is _tr
 
 If you would like to make further enquiries about how personal information is used within a specific Service, please contact our _Privacy Team_. 
 
-To provide you with additional context on other products and services we offer, we have provided below more information regarding certain data protection practices in our Financial & Risk, Legal and Tax & Accounting businesses.
-
-**Financial & Risk Products and Services**
-
-Our global Financial & Risk business provides Services to financial industry, compliance and risk professionals, helping them with efficiency tools and data to assess and improve risk and compliance management, analyze and access financial transactions, generate better returns and create efficient, reliable business infrastructure. Such Services will process personal information entered by our customers as well as provide publicly available information about individuals to assist customers with governance, risk and compliance activities.  
-
-
-For example, Financial & Risk provides a Service called World-Check, which helps financial institutions, corporates, professional services firms, governments, law enforcement agencies, regulators and other World-Check customers to perform due diligence and other screening activities in accordance with their legal or regulatory obligations and risk management procedures carried out in the public interest. For this Service, Thomson Reuters may store personal data entered by a customer and also will make information about individuals available to such customer for use limited to compliance and other public interest purposes.  World-Check has its own privacy statement, which is available here: <https://risk.thomsonreuters.com/en/terms-of-business/world-check-privacy-statement.html>. ** __**
-
-For more information about how your bank, counterparty or finance or risk professional handles your personal information, please contact them directly.
+To provide you with additional context on other products and services we offer, we have provided below more information regarding certain data protection practices in our Legal and Tax & Accounting businesses.
 
 **Legal Products and Services**  
 
@@ -359,7 +328,5 @@ Additionally, if you wish to locate a Thomson Reuters office, please see <https:
 
 
 A list of National Data Protection Authorities in the European Economic Area can be found here: <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>.
-
-###  **Updates to this statement**
 
 This Statement may be subject to updates. Any material future changes or additions to the processing of personal information as described in this Statement affecting you will be communicated to you through an appropriate channel. For example, we may place a prominent notice on a product site or email you to let you know of an updated Statement.  
