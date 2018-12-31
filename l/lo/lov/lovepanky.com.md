@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovepanky.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625212554id_/https%3A//www.lovepanky.com/lovepanky-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovepanky.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231202512id_/https%3A//www.lovepanky.com/lovepanky-privacy-policy) for the most accurate reproduction.*
 
 # LovePanky Privacy Policy - LovePanky - Your Guide to Better Love and Relationships
 
@@ -46,6 +46,10 @@ Some of our affiliates or business partners may use cookies on our Website, such
 
 We may use third party cookies from parties such as advertising companies when you visit our Website. This information may be used to obtain information about your visits to this site.
 
+**Personalized Campaign’s Exclusion  **
+
+If you prefer not to be a part of Lovepanky’s ongoing digital/marketing campaigns with advertising, you can go ahead and exercise your choice of opting out using the tool provided by the DAA or Digital Advertising Alliance in this link [here](http://optout.aboutads.info/).
+
 **Children**
 
 LovePanky caters to individuals who can legally create binding contracts. We take the protection of children’s privacy very seriously and comply with the Children’s Online Privacy Protection Act of 1998 and its accompanying FTC regulations, and we do not knowingly allow anyone under the age of 15 to provide us with personal information.
@@ -66,4 +70,4 @@ If the privacy policy is changed, we will post the changes in this Privacy Polic
 
 If you have any questions or suggestions regarding our privacy policy, you can contact us via email at contact@lovepanky.com.
 
-Last Updated On: May 23, 2018
+Last Updated On: August 28, 2018
