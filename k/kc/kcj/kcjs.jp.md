@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcjs.jp privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506234926id_/http%3A//www.kcjs.jp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcjs.jp privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231235753id_/http%3A//www.kcjs.jp/privacy.html) for the most accurate reproduction.*
 
 # None
 
