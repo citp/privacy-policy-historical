@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the digitalmarketer.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625220917id_/https%3A//www.digitalmarketer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmarketer.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231210810id_/https%3A//www.digitalmarketer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DigitalMarketer
 
-Effective date: May 25, 2018
+Effective date: August 28, 2018
+
+**NOTICE CONCERNING TRAFFIC AND CONVERSION SUMMIT. Please be aware that Traffic & Conversion Summit (including related assets) will, effective from or about August 29, 2018, be transferred to a new entity named Traffic & Conversion Summit, LLC, a Delaware limited liability company (“T&C”). As a result of this transfer, all T&C related data, including personal data collected by us through the means described below, will be owned by T&C and may be shared with its affiliates. You can view Traffic & Conversion Summit, LLC’s privacy policy [here](http://trafficandconversionsummit.com/privacy-policy/).**
 
 DigitalMarketer.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
@@ -200,10 +202,7 @@ Digital Marketer Labs, LLC uses remarketing services to advertise on third party
 
   * **Google AdWords** Google AdWords remarketing service is provided by Google Inc.You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>Google also recommends installing the Google Analytics Opt-out Browser Add-on – <https://tools.google.com/dlpage/gaoptout> – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
   * **Twitter** Twitter remarketing service is provided by Twitter Inc.You can opt-out from Twitter’s interest-based ads by following their instructions: <https://support.twitter.com/articles/20170405>You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: <https://twitter.com/privacy>
-  * **Facebook** Facebook remarketing service is provided by Facebook Inc.You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings. 
-
-For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: <https://www.facebook.com/privacy/explanation>
-
+  * **Facebook** Facebook remarketing service is provided by Facebook Inc.You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings.For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: <https://www.facebook.com/privacy/explanation>
 
 
 
