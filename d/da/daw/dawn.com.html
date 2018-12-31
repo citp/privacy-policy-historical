@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dawn.com privacy policy that was archived on 2018-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626094749id_/https%3A//www.dawn.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dawn.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231111556id_/https%3A//www.dawn.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
   
@@ -14,7 +14,7 @@
      <meta property="og:locale" content="en_US">  
      <link rel="dns-prefetch" href="//i.dawn.com">
      <link rel="dns-prefetch" href="//ajax.googleapis.com">
-     <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">   
+     <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">    
      <meta property="og:image" content="http://www.dawn.com/_img/social-default.jpg">
      <meta name="twitter:image" content="http://www.dawn.com/_img/social-default.jpg">
      <script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">
@@ -22,11 +22,12 @@
      </script>
   
   
-    <link rel="preload" as="style" href="https://www.dawn.com/_css/all.20180621121610.css">
+    <link rel="preload" as="style" href="https://www.dawn.com/_css/all.20181228184911.css">
     <link rel="preload" as="script" href="https://code.jquery.com/jquery-3.2.1.min.js">
-    <link rel="preload" as="script" href="https://www.dawn.com/_js/all.20180620122209.js">
-    <link rel="stylesheet" href="https://www.dawn.com/_css/all.20180621121610.css" media="all">
+    <link rel="preload" as="script" href="https://www.dawn.com/_js/all.20181226114715.js">
+    <link rel="stylesheet" href="https://www.dawn.com/_css/all.20181228184911.css" media="all">
     
+  
 <!-- - - - - - - adsense:header start - - - - - - -->
 <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script type="text/javascript">
@@ -38,9 +39,11 @@ googletag.cmd.push(function() {
       
     googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-ASA-DESKTOP-TOP', [[728,90],[970,90],[970,250]], 'div-gpt-ad-1510380105517-0').addService(googletag.pubads()));
     googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-LB-728x90-BOTTOM', [728,90], 'div-gpt-ad-1509519280329-0').addService(googletag.pubads()));
-    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-DESKTOP-300x250-TOP', [300,250], 'div-gpt-ad-1455520357400-3').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-MREC-DESKTOP-300x250-TOP', [[300,250],[336,280]], 'div-gpt-ad-1455520357400-3').addService(googletag.pubads()));
     googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-FLIMSTRIP-300x600', [[300,250],[300,600],[160,600]], 'div-gpt-ad-1520840073529-0').addService(googletag.pubads()));
     googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-ASA-MOBILE-TOP', [[320,50],[728,90],[320,100]], 'div-gpt-ad-1518611317921-0').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-STICKY-DESKTOP-1x1', [1,1], 'div-gpt-ad-1535620321579-0').addService(googletag.pubads()));
+    googleAdsSlots.push(googletag.defineSlot('/1029551/DAWN-STICKY-MOBILE-1x1', [1,1], 'div-gpt-ad-1542969151399-0').addService(googletag.pubads()));
 
   googletag.pubads().set("document_language", "en");
   
@@ -48,6 +51,11 @@ googletag.cmd.push(function() {
   googletag.pubads().setTargeting('site', 'www.dawn.com');
   
   googletag.pubads().disableInitialLoad();
+  googletag.pubads().enableLazyLoad({
+                fetchMarginPercent: 300,
+                renderMarginPercent: 300,
+                mobileScaling: 2.0
+            })
   googletag.enableServices();
 });
 </script>
@@ -108,7 +116,7 @@ window.onload = function() {
         if (isMultidimensionalAd) {
           if (width && height) {
             $renderedSlot.css({width: width+'px', height: height+'px'});
-            $renderedSlot.closest('.js-ad').css({maxWidth: width+'px', maxHeight: height+'px'});
+            $renderedSlot.closest('.js-ad').css({maxWidth: width+'px', maxHeight: height+'px', paddingBottom: 0});
             $renderedSlot.rad({allowBiggerSizing:'true'});
           }
         }
@@ -124,6 +132,9 @@ window.onload = function() {
             $renderedSlot.parents('.js-ad').attr('onMouseOver', onMouseOver);
             $renderedSlot.parents('.js-ad').attr('onMouseOut', onMouseOut);
           }
+        }
+        if($renderedSlot.parents('.ad').hasClass('ad--closable')) {
+            $renderedSlot.parents('.ad').addClass('ad--closing');
         }
       }
     });
@@ -232,21 +243,21 @@ window.onload = function() {
 <header class="pb-2">
   
 <div class="container-fluid">
-  <div class="px-2  mb-2  d-none  d-sm-block">
+  <div class="px-2  mb-2  hidden  sm-block">
     <ul class="nav  nav--network  text-center  size-two">
-                <li class="nav__item  nav__item--epaper  text--400      "><a class="" href="https://epaper.dawn.com">EPAPER</a></li>
-                <li class="nav__item  nav__item--live-tv  text--400      "><a class="" href="https://www.dawnnews.tv/watch-live">LIVE TV</a></li>
-                <li class="nav__item  nav__item--dawnnews-urdu  text--400      "><a class="" href="https://www.dawnnews.tv">DAWNNEWS URDU</a></li>
-                <li class="nav__item  nav__item--images  text--400      "><a class="" href="https://images.dawn.com">Images</a></li>
-                <li class="nav__item  nav__item--herald  text--400      "><a class="" href="https://herald.dawn.com">Herald</a></li>
-                <li class="nav__item  nav__item--aurora  text--400      "><a class="" href="https://aurora.dawn.com">Aurora</a></li>
-                <li class="nav__item  nav__item--cityfm89  text--400      "><a target="_blank" class="" href="https://cityfm89.com">CityFM89</a></li>
-                <li class="nav__item  nav__item--teeli  text--400      "><a target="_blank" class="" href="https://www.youtube.com/channel/UCkMdI0K-74jAjOmh5J5H97Q">Teeli</a></li>
-                <li class="nav__item  nav__item--advertise  text--400      "><a target="_blank" class="" href="https://www.dawn.com/advertise">Advertise</a></li>
-                <li class="nav__item  nav__item--events  text--400      "><a target="_blank" class="" href="https://educationexpo.dawn.com">Events</a></li>
-                <li class="nav__item  nav__item--supplements  text--400      "><a class="" href="https://www.dawn.com/events/supplements">Supplements</a></li>
-                <li class="nav__item  nav__item--classifieds  text--400      "><a target="_blank" class="" href="http://classifieds.dawn.com/">Classifieds</a></li>
-                <li class="nav__item  nav__item--obituaries  text--400      "><a target="_blank" class="" href="https://obituary.dawn.com">Obituaries</a></li>
+                <li class="nav__item  nav__item--epaper  font-normal      "><a class="" href="https://epaper.dawn.com">EPAPER</a></li>
+                <li class="nav__item  nav__item--live-tv  font-normal      "><a class="" href="https://www.dawnnews.tv/watch-live">LIVE TV</a></li>
+                <li class="nav__item  nav__item--dawnnews-urdu  font-normal      "><a class="" href="https://www.dawnnews.tv">DAWNNEWS URDU</a></li>
+                <li class="nav__item  nav__item--images  font-normal      "><a class="" href="https://images.dawn.com">Images</a></li>
+                <li class="nav__item  nav__item--herald  font-normal      "><a class="" href="https://herald.dawn.com">Herald</a></li>
+                <li class="nav__item  nav__item--aurora  font-normal      "><a class="" href="https://aurora.dawn.com">Aurora</a></li>
+                <li class="nav__item  nav__item--cityfm89  font-normal      "><a target="_blank" class="" href="https://cityfm89.com">CityFM89</a></li>
+                <li class="nav__item  nav__item--teeli  font-normal      "><a target="_blank" class="" href="https://www.youtube.com/channel/UCkMdI0K-74jAjOmh5J5H97Q">Teeli</a></li>
+                <li class="nav__item  nav__item--advertise  font-normal      "><a target="_blank" class="" href="https://www.dawn.com/advertise">Advertise</a></li>
+                <li class="nav__item  nav__item--events  font-normal      "><a target="_blank" class="" href="https://educationexpo.dawn.com">Events</a></li>
+                <li class="nav__item  nav__item--supplements  font-normal      "><a class="" href="https://www.dawn.com/events/supplements">Supplements</a></li>
+                <li class="nav__item  nav__item--classifieds  font-normal      "><a target="_blank" class="" href="http://classifieds.dawn.com/">Classifieds</a></li>
+                <li class="nav__item  nav__item--obituaries  font-normal      "><a target="_blank" class="" href="https://obituary.dawn.com">Obituaries</a></li>
           </ul>
   </div>
 </div>
@@ -276,8 +287,7 @@ window.onload = function() {
 
 <div class="container-fluid  headroom">
   <div class="px-2  border--ends  clearfix">
-    
-<div class="float-left  col-12  col-md-11">
+    <div class="float-left  col-12  col-md-11">
   <ul class="nav  nav--primary  nav--responsive  nav--dawn-primary  ">
                 <li class="nav__item  nav__item--home  theme        "><a class="" href="/">Home</a></li>
                 <li class="nav__item  nav__item--latest-news  theme        "><a class="" href="/latest-news">Latest</a></li>
@@ -297,18 +307,21 @@ window.onload = function() {
                 <li class="nav__item  nav__item--in-depth  theme        "><a class="" href="/in-depth">In Depth</a></li>
           </ul>
 </div>
-<ul class="nav  nav--aside  float-left  py-1  col-1 d-none  d-md-block">
-  <li class="nav__item  col-12  text-right">
-    <button class="js-search  search  bald  size-two  text--gray  transparent  transparent--gray p-1">
-      <img src="https://www.dawn.com/_img/search.png" alt="Search Icon" title="Dawn Search"><span class="d-none  d-lg-inline-block">SEARCH</span>
+<ul class="nav  nav--aside  float-left  py-1  col-1 hidden  md-block">
+  <li class="nav__item  col-12  px-0  text-right">
+    <button class="js-search  search  border-none  size-two  text-grey  bg-transparent  hover-bg-grey-lighter p-1">
+      <img src="https://www.dawn.com/_img/search.png" alt="Search Icon" title="Dawn Search"><span class="align-middle  hidden  lg-inline-block">SEARCH</span>
     </button>
   </li>
 </ul>
 
 
 <div class="search-box  text-center  ">
-<form accept-charset="utf-8" class="form-vertical" method="GET" action="https://www.dawn.com/search">  <input class="form-control" type="hidden" name="cx" value="partner-pub-8258178831251847:5337004877">  <input class="form-control" type="hidden" name="cof" value="FORID:10">  <input class="form-control" type="hidden" name="ie" value="UTF-8">  <div class="form-group required"><input class="form-control search  col-offset-2  col-8  p-1  theme    mb-1" placeholder="Search" required="" id="q" type="text" name="q"></div></form></div>  </div>
+<form accept-charset="utf-8" class="form-vertical" method="GET" action="https://www.dawn.com/search">  <input class="form-control" type="hidden" name="cx" value="partner-pub-8258178831251847:5337004877">  <input class="form-control" type="hidden" name="cof" value="FORID:10">  <input class="form-control" type="hidden" name="ie" value="UTF-8">  <div class="form-group required"><input class="form-control search  col-offset-2  col-8  p-1  theme mb-1" placeholder="Search" required="" id="q" type="text" name="q"></div></form></div>  </div>
 </div></header>
+  
+
+
 <div class="aux-content" style="overflow: hidden;">
   <div class="adblocker-overlay" style="display: none;"></div>
 <div class="adblocker-modal" style="display: none;">
@@ -324,37 +337,61 @@ window.onload = function() {
   <a href="//www.dawn.com/news/1262907/adblock-instructions">turn off Adblock</a> on Dawn.com.
 </div><div class="col-12  text-center  ie-alert">
   <p><img src="//i.dawn.com/thumbnail/2016/06/5757a76ba0f4b.png" alt="Alert Sign" width="20"> Dear reader, please upgrade to the latest version of IE to have a better reading experience</p>.
-</div>      <div class="container-fluid  px-1  d-none  pb-2  mb-4  d-sm-block">
-              
+</div>  
+          
 <!-- - - adsense: start - - -->
-<div class="ad    ad--priority" aria-hidden="true">
+<div class="ad  hidden  sm-block" aria-hidden="true">
   
-  <div class="js-ad  clearfix" style="max-width:728px;max-height:90px;text-align:center;margin:0 auto;overflow:hidden;">
+  <div class="js-ad    clearfix" style="max-width:1px;max-height:1px;text-align:center;margin:0 auto;overflow:hidden;">
+    <div class="radWrapper  ad__wrapper">
+      <div id="div-gpt-ad-1535620321579-0" class="ad__wrapper__slot" style="width:1px;height:1px;">
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1535620321579-0'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+          
+<!-- - - adsense: start - - -->
+<div class="ad  block  sm-hidden" aria-hidden="true">
+  
+  <div class="js-ad    clearfix" style="max-width:1px;max-height:1px;text-align:center;margin:0 auto;overflow:hidden;">
+    <div class="radWrapper  ad__wrapper">
+      <div id="div-gpt-ad-1542969151399-0" class="ad__wrapper__slot" style="width:1px;height:1px;">
+        <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1542969151399-0'); });</script>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- - - adsense: end - - -->
+          
+<!-- - - adsense: start - - -->
+<div class="ad  px-1  hidden  pb-2  mb-4  sm-block  ad--priority" aria-hidden="true">
+  
+  <div class="js-ad    clearfix" style="max-width:728px;max-height:90px;text-align:center;margin:0 auto;overflow:hidden;">
     <div class="radWrapper  rad--multi  ad__wrapper">
-      <div id="div-gpt-ad-1510380105517-0" class="ad__wrapper__slot" style="width:728px;height:90px">
+      <div id="div-gpt-ad-1510380105517-0" class="ad__wrapper__slot" style="width:728px;height:90px;">
         <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1510380105517-0'); });</script>
       </div>
     </div>
   </div>
 </div>
 <!-- - - adsense: end - - -->
-    </div>
-        <div class="container-fluid  px-1  d-block  pb-2  border--bottom  mb-4  d-sm-none">
-              
+          
 <!-- - - adsense: start - - -->
-<div class="ad  " aria-hidden="true">
+<div class="ad  px-1  block  pb-2  border--bottom  mb-4  sm-hidden" aria-hidden="true">
   
-  <div class="js-ad  clearfix" style="max-width:728px;max-height:90px;text-align:center;margin:0 auto;overflow:hidden;">
+  <div class="js-ad  mobileleaderboard-height  clearfix" style="max-width:320px;text-align:center;margin:0 auto;overflow:hidden;">
     <div class="radWrapper  rad--multi  ad__wrapper">
-      <div id="div-gpt-ad-1518611317921-0" class="ad__wrapper__slot" style="width:728px;height:90px">
+      <div id="div-gpt-ad-1518611317921-0" class="ad__wrapper__slot" style="width:320px;position:absolute;">
         <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518611317921-0'); });</script>
       </div>
     </div>
   </div>
 </div>
 <!-- - - adsense: end - - -->
-    </div>
-  </div>
+
+</div>
 <div class="container-fluid  clearfix  pt-4">
   <div class="content">
     <main class="pb-2">
@@ -519,29 +556,18 @@ obtain your consent to make these changes.</p>
 </div>    </main>
     <aside class="pb-4">
 
-<!-- - - - - - - widget:start id: 1491 -  type: linkedimage -  object_id:  -  title:  - - - - - - -->
-<section class="widget  theme  widget-linkedimage    modifywidget--transparent" data-type="linkedimage" data-id="1491">
-<div class="widget__header">
-</div>
-<div class="widget__main  ">
-
-<a href="https://www.dawn.com/elections/blog/"><img width="100%" src="//i.dawn.com/widgets/upload-image-5b30d2c0bb57a.gif" alt=""></a>
-</div>
-</section>
-<!-- - - - - - - widget:end - - - - - - -->
-
 <!-- - - - - - - widget:start id: 1220 -  type: adsense -  object_id:  -  title:  - - - - - - -->
 <section class="widget  theme  widget-adsense    modifywidget--border-off  modifywidget--transparent" data-type="adsense" data-id="1220">
-<div class="widget__header">
+<div class="widget__header  ">
 </div>
 <div class="widget__main  ">
         
 <!-- - - adsense: start - - -->
 <div class="ad  " aria-hidden="true">
   
-  <div class="js-ad  clearfix" style="max-width:300px;max-height:250px;text-align:center;margin:0 auto;overflow:hidden;">
-    <div class="radWrapper  ad__wrapper">
-      <div id="div-gpt-ad-1455520357400-3" class="ad__wrapper__slot" style="width:300px;height:250px">
+  <div class="js-ad    clearfix" style="max-width:300px;max-height:250px;text-align:center;margin:0 auto;overflow:hidden;">
+    <div class="radWrapper  rad--multi  ad__wrapper">
+      <div id="div-gpt-ad-1455520357400-3" class="ad__wrapper__slot" style="width:300px;height:250px;">
         <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455520357400-3'); });</script>
       </div>
     </div>
@@ -552,34 +578,64 @@ obtain your consent to make these changes.</p>
 </section>
 <!-- - - - - - - widget:end - - - - - - -->
 
-<!-- - - - - - - widget:start id: 1391 -  type: linkedimage -  object_id:  -  title:  - - - - - - -->
-<section class="widget  theme  widget-linkedimage    modifywidget--border-black  modifywidget--border-thick  modifywidget--border-top  modifywidget--transparent" data-type="linkedimage" data-id="1391">
-<div class="widget__header">
+<!-- - - - - - - widget:start id: 1657 -  type: linkedimage -  object_id:  -  title: The seismic national events that rocked Pakistan in 2018 - - - - - - -->
+<section class="widget  theme  widget-linkedimage  " data-type="linkedimage" data-id="1657">
+<div class="widget__header  ">
+<h2 class="widget__title  "><span><a href="https://www.dawn.com/news/1451757/the-seismic-national-events-that-rocked-pakistan-in-2018">The seismic national events that rocked Pakistan in 2018</a></span></h2>
+<h3 class="widget__subtitle  "><span> </span></h3>
 </div>
 <div class="widget__main  ">
 
-<a href="contestwinners"><img width="100%" src="//i.dawn.com/widgets/upload-image-5b1ecf8562925.jpg" alt=""></a>
+<a href="https://www.dawn.com/news/1450617/darra-adamkhels-century-old-illegal-firearms-industry-is-slowly-dying"><img width="100%" src="//i.dawn.com/widgets/upload-image-5c29dd74cc3dd.png" alt="The seismic national events that rocked Pakistan in 2018"></a>
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 148 -  type: opedwriters -  object_id:  -  title: POPULAR OPED WRITERS - - - - - - -->
+<section class="widget  theme  widget-opedwriters    modifywidget--border-black  modifywidget--border-thick  modifywidget--border-top  modifywidget--transparent" data-type="opedwriters" data-id="148">
+<div class="widget__header  ">
+<h2 class="widget__title    modifywidget--title-darkred  modifywidget--title-normal  modifywidget--title-xsmall"><span>POPULAR OPED WRITERS</span></h2>
+<h3 class="widget__subtitle    modifywidget--subtitle-arial  modifywidget--subtitle-gray  modifywidget--subtitle-normal  modifywidget--subtitle-right  modifywidget--subtitle-xsmall"><span>OVER LAST 3 DAYS</span></h3>
+</div>
+<div class="widget__main  ">
+<ul class="nav  mt-2  ml-0">
+  <li class="mb-2  px-1  pb-2  border--bottom  col-12">
+              <span title="9643 Views">1. <a class="text-black" href="/authors/3/aasim-sajjad-akhtar">Aasim Sajjad Akhtar</a></span>
+              <span class="size-two"><a class="text-grey  uppercase" href="https://www.dawn.com/news/1454015/terrorism-bogey">Terrorism bogey</a></span>
+          </li><li class="mb-2  px-1  pb-2  border--bottom  col-12">
+              <span title="9189 Views">2. <a class="text-black" href="/authors/271/irfan-husain">Irfan Husain</a></span>
+              <span class="size-two"><a class="text-grey  uppercase" href="https://www.dawn.com/news/1454118/epicurious-colombos-finds">EPICURIOUS: COLOMBO’S FINDS</a></span>
+          </li><li class="mb-2  px-1  pb-2  border--bottom  col-12">
+              <span title="7902 Views">3. <a class="text-black" href="/authors/112/abbas-nasir">Abbas Nasir</a></span>
+              <span class="size-two"><a class="text-grey  uppercase" href="https://www.dawn.com/news/1454251/towards-one-party-rule">Towards one-party rule</a></span>
+          </li><li class="mb-2  px-1  pb-2  border--bottom  col-12">
+              <span title="6647 Views">4. <a class="text-black" href="/authors/165/ashaar-rehman">Asha’ar Rehman</a></span>
+              <span class="size-two"><a class="text-grey  uppercase" href="https://www.dawn.com/news/1454019/when-someone-calls-it-a-day">When someone calls it a day</a></span>
+          </li><li class="mb-2  px-1  pb-2  border--bottom  col-12">
+              <span title="6402 Views">5. <a class="text-black" href="/authors/6528/asad-rahim-khan">Asad Rahim Khan</a></span>
+              <span class="size-two"><a class="text-grey  uppercase" href="https://www.dawn.com/news/1454423/not-so-weak">Not so weak</a></span>
+          </li></ul>
 </div>
 </section>
 <!-- - - - - - - widget:end - - - - - - -->
 
 <!-- - - - - - - widget:start id: 1424 -  type: stories -  object_id:  -  title: Today's Toon - - - - - - -->
 <section class="widget  theme  widget-stories    modifywidget--transparent" data-type="stories" data-id="1424">
-<div class="widget__header">
+<div class="widget__header  ">
 <h2 class="widget__title    modifywidget--title-center  modifywidget--title-darkred  modifywidget--title-normal  modifywidget--title-small  modifywidget--title-uppercase"><span>Today's Toon</span></h2>
 </div>
 <div class="widget__main  ">
 
 
-<div class="slideshow      slideshow--main  " data-slick="{&quot;dots&quot;:true,&quot;dotsClass&quot;:&quot;slideshow__pager  &quot;,&quot;asNavFor&quot;:null,&quot;cssEase&quot;:&quot;ease&quot;,&quot;speed&quot;:250,&quot;autoplaySpeed&quot;:4000,&quot;slidesToScroll&quot;:1,&quot;slidesToShow&quot;:1,&quot;fade&quot;:false,&quot;autoplay&quot;:true,&quot;infinite&quot;:true,&quot;responsive&quot;: [{&quot;breakpoint&quot;: 720,&quot;settings&quot;: {&quot;slidesToShow&quot;: 1,&quot;slidesToScroll&quot;: 1}},{&quot;breakpoint&quot;: 480,&quot;settings&quot;: {&quot;slidesToShow&quot;: 1,&quot;slidesToScroll&quot;: 1}}]}">
+<div class="slideshow      slideshow--main  " data-slick="{&quot;dots&quot;:true,&quot;dotsClass&quot;:&quot;slideshow__pager  &quot;,&quot;asNavFor&quot;:null,&quot;cssEase&quot;:&quot;ease&quot;,&quot;speed&quot;:250,&quot;autoplaySpeed&quot;:4000,&quot;slidesToScroll&quot;:1,&quot;slidesToShow&quot;:1,&quot;fade&quot;:false,&quot;autoplay&quot;:true,&quot;infinite&quot;:true,&quot;responsive&quot;: [{&quot;breakpoint&quot;: 767,&quot;settings&quot;: {&quot;slidesToShow&quot;: 1,&quot;slidesToScroll&quot;: 1}},{&quot;breakpoint&quot;: 575,&quot;settings&quot;: {&quot;slidesToShow&quot;: 1,&quot;slidesToScroll&quot;: 1}}]}">
 <div class="slideshow__slide  slideshow__slide--first    slideshow__slide--horizontal" style="">
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416200" data-layout="slideshow">
+<article class="box  story    " data-id="1454639" data-layout="slideshow">
 
     <!-- box/image -->
-    <figure class="media          media--stretch  col-12        px-0  " data-focus-x="0%" data-focus-y="0%">
-        <div class="media__item          "><a title="" href="http://www.dawn.com/news/1416200/cartoon-26-june-2018"><img src="http://i.dawn.com/medium/2018/06/5b31afec227a0.jpg" alt="Cartoon: 26 June, 2018"></a></div>        
+    <figure class="media          media--stretch  col-12        px-0  ">
+        <div class="media__item          "><a title="" href="https://www.dawn.com/news/1454639/cartoon-31-december-2018"><img src="https://i.dawn.com/medium/2018/12/5c29837017002.jpg" alt="Cartoon: 31 December, 2018"></a></div>        
     </figure>
     <div class="clearfix"></div>
 </article>
@@ -594,7 +650,7 @@ obtain your consent to make these changes.</p>
 
 <!-- - - - - - - widget:start id: 1219 -  type: adsense -  object_id:  -  title: Filmstrip - - - - - - -->
 <section class="widget  theme  widget-adsense    modifywidget--border-black  modifywidget--border-thick  modifywidget--border-top  modifywidget--transparent" data-type="adsense" data-id="1219">
-<div class="widget__header">
+<div class="widget__header  ">
 <h2 class="widget__title    modifywidget--title-off"><span>Filmstrip</span></h2>
 </div>
 <div class="widget__main  ">
@@ -602,9 +658,9 @@ obtain your consent to make these changes.</p>
 <!-- - - adsense: start - - -->
 <div class="ad  " aria-hidden="true">
   
-  <div class="js-ad  clearfix" style="max-width:300px;max-height:250px;text-align:center;margin:0 auto;overflow:hidden;">
+  <div class="js-ad    clearfix" style="max-width:300px;max-height:250px;text-align:center;margin:0 auto;overflow:hidden;">
     <div class="radWrapper  rad--multi  ad__wrapper">
-      <div id="div-gpt-ad-1520840073529-0" class="ad__wrapper__slot" style="width:300px;height:250px">
+      <div id="div-gpt-ad-1520840073529-0" class="ad__wrapper__slot" style="width:300px;height:250px;">
         <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1520840073529-0'); });</script>
       </div>
     </div>
@@ -615,59 +671,82 @@ obtain your consent to make these changes.</p>
 </section>
 <!-- - - - - - - widget:end - - - - - - -->
 
+<!-- - - - - - - widget:start id: 415 -  type: linkedimage -  object_id:  -  title: Member - - - - - - -->
+<section class="widget  theme  widget-linkedimage    modifywidget--border-black  modifywidget--border-thick  modifywidget--border-top  modifywidget--transparent" data-type="linkedimage" data-id="415">
+<div class="widget__header  ">
+<h2 class="widget__title    modifywidget--title-uppercase"><span>Member</span></h2>
+</div>
+<div class="widget__main  ">
+
+<a href="http://www.asianews.network/"><img width="100%" src="//i.dawn.com/widgets/upload-image-04102efc1713110b3a24b16f10769bcf.png" alt="Member"></a>
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
+<!-- - - - - - - widget:start id: 402 -  type: linkedimage -  object_id:  -  title:  - - - - - - -->
+<section class="widget  theme  widget-linkedimage    modifywidget--border-black  modifywidget--border-thick  modifywidget--border-top  modifywidget--transparent" data-type="linkedimage" data-id="402">
+<div class="widget__header  ">
+</div>
+<div class="widget__main  ">
+
+<a href="https://drive.google.com/file/d/1pPz9S8-zoOOnvuAyIEvodqTVJVkUSISl/view"><img width="100%" src="//i.dawn.com/widgets/upload-image-5c29b31d7f9fb.jpg" alt=""></a>
+</div>
+</section>
+<!-- - - - - - - widget:end - - - - - - -->
+
 <!-- - - - - - - widget:start id: 1425 -  type: stories -  object_id:  -  title: Newspaper - - - - - - -->
 <section class="widget  theme  widget-stories    modifywidget--border-black  modifywidget--border-thick  modifywidget--border-top  modifywidget--transparent" data-type="stories" data-id="1425">
-<div class="widget__header">
-<h2 class="widget__title    modifywidget--title-center  modifywidget--title-darkred  modifywidget--title-normal  modifywidget--title-small  modifywidget--title-underline  modifywidget--title-uppercase"><span>Newspaper</span></h2>
+<div class="widget__header  ">
+<h2 class="widget__title    modifywidget--title-center  modifywidget--title-darkred  modifywidget--title-normal  modifywidget--title-small  modifywidget--title-uppercase"><span>Newspaper</span></h2>
 </div>
 <div class="widget__main  ">
 <div class="accordion  mt-1" role="tablist" aria-live="polite">    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">Front Page</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">Front Page</span>
 
-    <div class="accordion__content" id="panel-<?= front-page ?>">
+    <div class="accordion__content" id="panel-front-page">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416145" data-layout="story">
+<article class="box  story    " data-id="1454568" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416145" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416145/nab-references-in-mega-graft-cases-soon" class="story__link">NAB references in mega graft cases soon
+    <h2 data-layout="story" data-id="1454568" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454568/ppp-pti-trade-barbs-amid-moves-to-oust-sindh-govt" class="story__link">PPP, PTI trade barbs amid moves to oust Sindh govt
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416141" data-layout="story">
+<article class="box  story    " data-id="1454453" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416141" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416141/shahbaz-launches-pml-n-election-campaign-from-karachi" class="story__link">Shahbaz launches PML-N election campaign from Karachi
+    <h2 data-layout="story" data-id="1454453" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454453/fia-advises-apex-court-to-close-asghar-khan-case" class="story__link">FIA advises apex court to close Asghar Khan case
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416137" data-layout="story">
+<article class="box  story    " data-id="1454567" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416137" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416137/pak-afghan-track-ii-hails-move-to-end-blame-game" class="story__link">Pak-Afghan Track-II hails move to end blame game
+    <h2 data-layout="story" data-id="1454567" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454567/pak-qatar-coordination-to-help-stabilise-afghanistan-qureshi" class="story__link">Pak-Qatar coordination to help stabilise Afghanistan: Qureshi
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416134" data-layout="story">
+<article class="box  story    " data-id="1454451" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416134" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416134/polls-around-the-corner-where-are-party-manifestos" class="story__link">Polls around the corner, where are party manifestos?
+    <h2 data-layout="story" data-id="1454451" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454451/ppp-wants-names-of-imran-eight-others-on-ecl" class="story__link">PPP wants names of Imran, eight others on ECL
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415929" data-layout="story">
+<article class="box  story    " data-id="1454566" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415929" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415929/pml-n-govt-behind-countrys-bankruptcy-says-imran" class="story__link">PML-N govt behind country’s bankruptcy, says Imran
+    <h2 data-layout="story" data-id="1454566" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454566/imran-to-visit-turkey-on-jan-3" class="story__link">Imran to visit Turkey on Jan 3
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -675,56 +754,56 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/front-page" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/front-page" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">Back Page</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">Back Page</span>
 
-    <div class="accordion__content" id="panel-<?= back-page ?>">
+    <div class="accordion__content" id="panel-back-page">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416131" data-layout="story">
+<article class="box  story    " data-id="1454564" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416131" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416131/footprints-lets-talk-about-periods" class="story__link">Footprints: LET’S TALK ABOUT PERIODS
+    <h2 data-layout="story" data-id="1454564" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454564/hasina-set-for-landslide-win-as-opposition-rejects-vote" class="story__link">Hasina set for landslide win as opposition rejects vote
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416130" data-layout="story">
+<article class="box  story    " data-id="1454431" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416130" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416130/imran-takes-poll-drive-to-islamabad" class="story__link">Imran takes poll drive to Islamabad
+    <h2 data-layout="story" data-id="1454431" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454431/unwanted-lives" class="story__link">UNWANTED LIVES
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416129" data-layout="story">
+<article class="box  story    " data-id="1454563" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416129" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416129/spain-portugal-qualify-for-last-16" class="story__link">Spain, Portugal qualify for last 16
+    <h2 data-layout="story" data-id="1454563" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454563/people-crying-because-of-faulty-policies-of-pti-govt-bilawal" class="story__link">People crying because of ‘faulty’ policies of PTI govt: Bilawal
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415925" data-layout="story">
+<article class="box  story    " data-id="1454430" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415925" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415925/pml-n-fields-candidates-against-nisar" class="story__link">PML-N fields candidates against Nisar
+    <h2 data-layout="story" data-id="1454430" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454430/protests-erupt-in-held-kashmir-after-four-fighters-killed" class="story__link">Protests erupt in held Kashmir after four fighters killed
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415924" data-layout="story">
+<article class="box  story    " data-id="1454562" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415924" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415924/pakistan-to-launch-observatory-satellite-next-month" class="story__link">Pakistan to launch observatory satellite next month
+    <h2 data-layout="story" data-id="1454562" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454562/talks-move-to-saudi-arabia-as-us-taliban-mark-positions" class="story__link">Talks move to Saudi Arabia as US, Taliban mark positions
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -732,56 +811,56 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/back-page" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/back-page" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">National</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">National</span>
 
-    <div class="accordion__content" id="panel-<?= national ?>">
+    <div class="accordion__content" id="panel-national">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416189" data-layout="story">
+<article class="box  story    " data-id="1454579" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416189" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416189/in-mianwali-they-chant-prime-minister-imran-khan" class="story__link">In Mianwali, they chant ‘prime minister Imran Khan’
+    <h2 data-layout="story" data-id="1454579" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454579/anomaly-detected-in-polio-vaccination-data" class="story__link">Anomaly detected in polio vaccination data
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416188" data-layout="story">
+<article class="box  story    " data-id="1454638" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416188" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416188/old-faces-eye-the-prize-under-new-political-party" class="story__link">Old faces eye the prize under new political party
+    <h2 data-layout="story" data-id="1454638" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454638/gb-team-wins-naltar-ski-championship" class="story__link">GB team wins Naltar ski championship
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416187" data-layout="story">
+<article class="box  story    " data-id="1454419" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416187" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416187/where-the-workforce-stands" class="story__link">Where the workforce stands
+    <h2 data-layout="story" data-id="1454419" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454419/three-key-suspects-reject-jit-report-on-fake-accounts" class="story__link">Three key suspects reject JIT report on ‘fake accounts’
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416164" data-layout="story">
+<article class="box  story    " data-id="1454577" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416164" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416164/ecp-dismisses-pleas-seeking-postponement-of-polls" class="story__link">ECP dismisses pleas seeking postponement of polls
+    <h2 data-layout="story" data-id="1454577" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454577/by-poll-to-balochistan-assembly-seat-today" class="story__link">By-poll to Balochistan Assembly seat today
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416163" data-layout="story">
+<article class="box  story    " data-id="1454578" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416163" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416163/sc-takes-up-plea-today-against-allowing-dar-to-contest-senate-poll" class="story__link">SC takes up plea today against allowing Dar to contest Senate poll
+    <h2 data-layout="story" data-id="1454578" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454578/pac-to-get-briefing-by-auditor-general-today" class="story__link">PAC to get briefing by Auditor General today
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -789,56 +868,56 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/national" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/national" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">Karachi</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">Karachi</span>
 
-    <div class="accordion__content" id="panel-<?= karachi ?>">
+    <div class="accordion__content" id="panel-karachi">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416111" data-layout="story">
+<article class="box  story    " data-id="1454511" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416111" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416111/pqa-industrialists-given-three-months-to-install-treatment-plants" class="story__link">PQA industrialists given three months to install treatment plants
+    <h2 data-layout="story" data-id="1454511" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454511/seaview-to-remain-open-for-public-on-new-years-eve" class="story__link">Seaview to remain open for public on New Year’s Eve
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416110" data-layout="story">
+<article class="box  story    " data-id="1454510" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416110" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416110/protesters-demand-immediate-supply-of-water" class="story__link">Protesters demand immediate supply of water
+    <h2 data-layout="story" data-id="1454510" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454510/major-terrorism-plot-aimed-at-new-years-eve-foiled-in-karachi" class="story__link">Major terrorism plot aimed at New Year’s Eve foiled in Karachi
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416109" data-layout="story">
+<article class="box  story    " data-id="1454509" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416109" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416109/sindh-seeks-200m-loan-from-wb-for-karachis-municipal-infrastructure" class="story__link">Sindh seeks $200m loan from WB for Karachi’s municipal infrastructure
+    <h2 data-layout="story" data-id="1454509" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454509/president-alvi-urged-to-find-lasting-solution-for-missing-persons" class="story__link">President Alvi urged to find ‘lasting solution’ for missing persons
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416108" data-layout="story">
+<article class="box  story    " data-id="1454508" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416108" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416108/gda-seeks-posting-of-neutral-administration-in-sindh" class="story__link">GDA seeks posting of neutral administration in Sindh
+    <h2 data-layout="story" data-id="1454508" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454508/sunday-book-bazaar-at-frere-hall-revived" class="story__link">Sunday book bazaar at Frere Hall revived
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416107" data-layout="story">
+<article class="box  story    " data-id="1454507" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416107" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416107/court-allows-io-to-interrogate-mama-in-jail" class="story__link">Court allows IO to interrogate Mama in jail
+    <h2 data-layout="story" data-id="1454507" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454507/anti-ayub-movement-of-1968-remembered" class="story__link">Anti-Ayub movement of 1968 remembered
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -846,56 +925,56 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/karachi" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/karachi" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">Lahore</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">Lahore</span>
 
-    <div class="accordion__content" id="panel-<?= lahore ?>">
+    <div class="accordion__content" id="panel-lahore">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416128" data-layout="story">
+<article class="box  story    " data-id="1454617" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416128" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416128/nab-arrests-saaf-pani-ex-chairman-former-ceo-for-corruption" class="story__link">NAB arrests Saaf Pani ex-chairman, former CEO for corruption
+    <h2 data-layout="story" data-id="1454617" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454617/campaign-for-use-of-biodegradable-bags-pays-dividends-in-parts-of-city" class="story__link">Campaign for use of biodegradable bags pays dividends in parts of city
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416127" data-layout="story">
+<article class="box  story    " data-id="1454368" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416127" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416127/imrans-papers-for-na-95-accepted" class="story__link">Imran’s papers for NA-95 accepted
+    <h2 data-layout="story" data-id="1454368" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454368/lda-city-affectees-apex-court-asks-officials-to-submit-compensation-plan-in-10-days" class="story__link">LDA-City affectees: Apex court asks officials to submit compensation plan in 10 days
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416126" data-layout="story">
+<article class="box  story    " data-id="1454616" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416126" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416126/lhc-seeks-reply-on-ags-removal" class="story__link">LHC seeks reply on AG’s removal
+    <h2 data-layout="story" data-id="1454616" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454616/urdu-critic-writer-dr-saleem-akhtar-passes-away" class="story__link">Urdu critic, writer Dr Saleem Akhtar passes away
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416125" data-layout="story">
+<article class="box  story    " data-id="1454614" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416125" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416125/264-officials-sent-back-to-their-depts-from-cm-office" class="story__link">264 officials sent back to their depts from CM office
+    <h2 data-layout="story" data-id="1454614" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454614/nine-of-a-family-die-in-accident" class="story__link">Nine of a family die in accident
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416124" data-layout="story">
+<article class="box  story    " data-id="1454367" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416124" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416124/pti-seeks-iftikhars-arrest-action-against-abbasi" class="story__link">PTI seeks Iftikhar’s arrest, action against Abbasi
+    <h2 data-layout="story" data-id="1454367" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454367/sc-summons-health-top-brass-on-pkli-surgery-plan" class="story__link">SC summons health top brass on PKLI surgery plan
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -903,56 +982,56 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/lahore" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/lahore" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">Islamabad</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">Islamabad</span>
 
-    <div class="accordion__content" id="panel-<?= islamabad ?>">
+    <div class="accordion__content" id="panel-islamabad">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416077" data-layout="story">
+<article class="box  story    " data-id="1454542" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416077" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416077/aitzaz-ahsan-wants-dredging-of-dried-out-dams" class="story__link">Aitzaz Ahsan wants dredging of dried out dams
+    <h2 data-layout="story" data-id="1454542" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454542/audit-finds-irregularities-in-appointments-affiliations-in-public-sector-universities" class="story__link">Audit finds irregularities in appointments, affiliations in public-sector universities
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416076" data-layout="story">
+<article class="box  story    " data-id="1454541" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416076" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416076/cda-asked-to-explain-sources-of-contamination-in-rawal-lake" class="story__link">CDA asked to explain sources of contamination in Rawal Lake
+    <h2 data-layout="story" data-id="1454541" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454541/man-dies-of-swine-flu-at-bbh" class="story__link">Man dies of swine flu at BBH
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416075" data-layout="story">
+<article class="box  story    " data-id="1454540" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416075" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416075/burqa-clad-man-caught-in-dhq-hospital" class="story__link">Burqa-clad man caught in DHQ Hospital
+    <h2 data-layout="story" data-id="1454540" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454540/pm-visits-polyclinic" class="story__link">PM visits Polyclinic
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416074" data-layout="story">
+<article class="box  story    " data-id="1454539" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416074" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416074/woman-locks-in-staff-at-polyclinic-executive-block" class="story__link">Woman locks in staff at Polyclinic executive block
+    <h2 data-layout="story" data-id="1454539" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454539/fate-of-upcoming-cantonment-board-elections-remains-unclear" class="story__link">Fate of upcoming cantonment board elections remains unclear
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416073" data-layout="story">
+<article class="box  story    " data-id="1454538" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416073" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416073/poster-competition-held-to-mark-international-day-against-drug-abuse" class="story__link">Poster competition held to mark International Day against Drug Abuse
+    <h2 data-layout="story" data-id="1454538" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454538/concert-pays-tribute-to-nusrat-fateh-ali-khan" class="story__link">Concert pays tribute to Nusrat Fateh Ali Khan
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -960,56 +1039,56 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/islamabad" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/islamabad" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">Peshawar</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">Peshawar</span>
 
-    <div class="accordion__content" id="panel-<?= peshawar ?>">
+    <div class="accordion__content" id="panel-peshawar">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416096" data-layout="story">
+<article class="box  story    " data-id="1454561" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416096" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416096/tribunals-reject-ntc-pleas-against-poll-candidates-over-nonpayment" class="story__link">Tribunals reject NTC pleas against poll candidates over nonpayment
+    <h2 data-layout="story" data-id="1454561" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454561/govt-bigwigs-visit-north-waziristan-ignoring-other-tribal-districts" class="story__link">Govt bigwigs visit North Waziristan ignoring other tribal districts
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416094" data-layout="story">
+<article class="box  story    " data-id="1454560" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416094" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416094/phc-moved-for-removal-of-caretaker-pm" class="story__link">PHC moved for removal of caretaker PM
+    <h2 data-layout="story" data-id="1454560" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454560/ji-questions-disbanding-of-kpec" class="story__link">JI questions disbanding of KPEC
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416092" data-layout="story">
+<article class="box  story    " data-id="1454559" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416092" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416092/three-minor-girls-drown-in-bajaur" class="story__link">Three minor girls drown in Bajaur
+    <h2 data-layout="story" data-id="1454559" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454559/three-kidnappers-arrested-in-khyber-raid" class="story__link">Three kidnappers arrested in Khyber raid
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416091" data-layout="story">
+<article class="box  story    " data-id="1454558" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416091" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416091/official-machinery-in-peshawar-still-under-pti-influence" class="story__link">‘Official machinery in Peshawar still under PTI influence’
+    <h2 data-layout="story" data-id="1454558" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454558/single-pill-hepatitis-c-treatment-planned-for-four-districts" class="story__link">Single-pill hepatitis C treatment planned for four districts
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416090" data-layout="story">
+<article class="box  story    " data-id="1454557" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416090" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416090/influential-rich-pti-leaders-get-more-than-one-poll-ticket-in-kp" class="story__link">Influential, rich PTI leaders get more than one poll ticket in KP
+    <h2 data-layout="story" data-id="1454557" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454557/revenue-body-to-be-merged-with-excise-dept" class="story__link">Revenue body to be merged with excise dept
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -1017,56 +1096,56 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/peshawar" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/peshawar" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">Business</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">Business</span>
 
-    <div class="accordion__content" id="panel-<?= business ?>">
+    <div class="accordion__content" id="panel-business">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416150" data-layout="story">
+<article class="box  story    " data-id="1454497" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416150" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416150/high-loss-feeders-to-be-outsourced-for-billing-collection" class="story__link">High-loss feeders to be outsourced for billing, collection
+    <h2 data-layout="story" data-id="1454497" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454497/this-is-where-you-can-invest-your-money-in-2019" class="story__link">This is where you can invest your money in 2019
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416149" data-layout="story">
+<article class="box  story    " data-id="1454496" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416149" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416149/govt-responds-to-concerns-about-growing-external-deficit" class="story__link">Govt responds to concerns about growing external deficit
+    <h2 data-layout="story" data-id="1454496" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454496/orbit-of-external-influence-imf-or-no-imf" class="story__link">Orbit of external influence: IMF or no IMF?
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416148" data-layout="story">
+<article class="box  story    " data-id="1454495" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416148" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416148/abraaj-founder-facing-criminal-charges-in-uae" class="story__link">Abraaj founder facing criminal charges in UAE
+    <h2 data-layout="story" data-id="1454495" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454495/burgeoning-inflation-to-expose-dark-realities" class="story__link">Burgeoning inflation to expose dark realities
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415854" data-layout="story">
+<article class="box  story    " data-id="1454494" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415854" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415854/galloping-deficit" class="story__link">Galloping deficit
+    <h2 data-layout="story" data-id="1454494" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454494/views-from-the-market" class="story__link">Views from the market
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416147" data-layout="story">
+<article class="box  story    " data-id="1454493" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416147" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416147/govt-signs-financial-close-for-660mw-lucky-power" class="story__link">Govt signs financial close for 660MW Lucky Power
+    <h2 data-layout="story" data-id="1454493" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454493/with-elections-in-india-expect-last-minute-pro-poor-policies" class="story__link">With elections in India, expect last minute pro-poor policies
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -1074,56 +1153,56 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/business" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/business" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">Sport</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">Sport</span>
 
-    <div class="accordion__content" id="panel-<?= sport ?>">
+    <div class="accordion__content" id="panel-sport">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416057" data-layout="story">
+<article class="box  story    " data-id="1454526" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416057" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416057/group-standings" class="story__link">GROUP STANDINGS
+    <h2 data-layout="story" data-id="1454526" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454526/favourite-big-bravo-retains-quaid-i-azam-gold-cup" class="story__link">Favourite Big Bravo retains Quaid-i-Azam Gold Cup
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416056" data-layout="story">
+<article class="box  story    " data-id="1454525" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416056" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416056/player-to-watch" class="story__link">Player to watch
+    <h2 data-layout="story" data-id="1454525" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454525/jansher-urges-young-players-to-focus-on-fitness" class="story__link">Jansher urges young players to focus on fitness
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416055" data-layout="story">
+<article class="box  story    " data-id="1454524" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416055" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416055/uruguay-punish-sloppy-russia-to-top-pool-with-perfect-record" class="story__link">Uruguay punish sloppy Russia to top pool with perfect record
+    <h2 data-layout="story" data-id="1454524" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454524/bancroft-flops-on-return-from-ban" class="story__link">Bancroft flops on return from ban
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416054" data-layout="story">
+<article class="box  story    " data-id="1454523" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416054" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416054/it-is-now-or-never-as-messis-argentina-face-nigeria" class="story__link">It is now or never as Messi’s Argentina face Nigeria
+    <h2 data-layout="story" data-id="1454523" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454523/hamza-inspires-master-paints-to-glory" class="story__link">Hamza inspires Master Paints to glory
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416053" data-layout="story">
+<article class="box  story    " data-id="1454522" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416053" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416053/france-unwilling-to-offer-danes-helping-hand" class="story__link">France unwilling to offer Danes helping hand
+    <h2 data-layout="story" data-id="1454522" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454522/fawad-stars-in-over-60-super-clash" class="story__link">Fawad stars in Over-60 Super clash
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -1131,56 +1210,56 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/sport" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/sport" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">Editorial</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">Editorial</span>
 
-    <div class="accordion__content" id="panel-<?= editorial ?>">
+    <div class="accordion__content" id="panel-editorial">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416153" data-layout="story">
+<article class="box  story    " data-id="1454620" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416153" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416153/electoral-tensions" class="story__link">Electoral tensions
+    <h2 data-layout="story" data-id="1454620" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454620/fias-incredible-request" class="story__link">FIA’s incredible request
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416152" data-layout="story">
+<article class="box  story    " data-id="1454619" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416152" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416152/anguish-without-end" class="story__link">Anguish without end
+    <h2 data-layout="story" data-id="1454619" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454619/economic-direction" class="story__link">Economic direction?
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416151" data-layout="story">
+<article class="box  story    " data-id="1454618" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416151" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416151/behind-the-wheel-at-last" class="story__link">Behind the wheel, at last
+    <h2 data-layout="story" data-id="1454618" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454618/yemens-mass-misery" class="story__link">Yemen’s mass misery
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415943" data-layout="story">
+<article class="box  story    " data-id="1454455" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415943" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415943/the-militancy-threat" class="story__link">The militancy threat
+    <h2 data-layout="story" data-id="1454455" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454455/the-elephant-in-ppps-room" class="story__link">The elephant in PPP’s room
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415942" data-layout="story">
+<article class="box  story    " data-id="1454454" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415942" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415942/revisiting-peca" class="story__link">Revisiting Peca
+    <h2 data-layout="story" data-id="1454454" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454454/pressure-on-the-press" class="story__link">Pressure on the press
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -1188,56 +1267,56 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/editorial" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/editorial" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">Column</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">Column</span>
 
-    <div class="accordion__content" id="panel-<?= column ?>">
+    <div class="accordion__content" id="panel-column">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416166" data-layout="story">
+<article class="box  story    " data-id="1454624" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416166" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416166/chaudhry-nisars-exit-into-wilderness" class="story__link">Chaudhry Nisar’s exit into wilderness
+    <h2 data-layout="story" data-id="1454624" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454624/how-to-wreck-an-economy" class="story__link">How to wreck an economy
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416165" data-layout="story">
+<article class="box  story    " data-id="1454623" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416165" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416165/was-the-emergency-needed" class="story__link">Was the emergency needed?
+    <h2 data-layout="story" data-id="1454623" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454623/taking-stock-of-democracy" class="story__link">Taking stock of democracy
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416162" data-layout="story">
+<article class="box  story    " data-id="1454622" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416162" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416162/is-there-no-one" class="story__link">Is there no one?
+    <h2 data-layout="story" data-id="1454622" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454622/slow-progress" class="story__link">Slow progress
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416157" data-layout="story">
+<article class="box  story    " data-id="1454621" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416157" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416157/state-of-democracy" class="story__link">State of democracy
+    <h2 data-layout="story" data-id="1454621" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454621/what-once-was" class="story__link">What once was
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415947" data-layout="story">
+<article class="box  story    " data-id="1454426" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415947" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415947/a-class-act" class="story__link">A class act
+    <h2 data-layout="story" data-id="1454426" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454426/religion-in-nation-building" class="story__link">Religion in nation building
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -1245,56 +1324,56 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/column" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/column" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">International</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">International</span>
 
-    <div class="accordion__content" id="panel-<?= international ?>">
+    <div class="accordion__content" id="panel-international">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416183" data-layout="story">
+<article class="box  story    " data-id="1454595" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416183" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416183/latest-sign-of-us-political-divide-shaming-and-shunning-public-officials" class="story__link">Latest sign of US political divide: shaming and shunning public officials
+    <h2 data-layout="story" data-id="1454595" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454595/assad-authorises-iraqi-forces-to-strike-is-in-syria" class="story__link">Assad authorises Iraqi forces to strike IS in Syria
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416182" data-layout="story">
+<article class="box  story    " data-id="1454594" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416182" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416182/because-i-can-ride-hailing-app-welcomes-saudi-women-drivers" class="story__link">‘Because I can’: ride-hailing app welcomes Saudi women drivers
+    <h2 data-layout="story" data-id="1454594" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454594/netanyahu-says-hes-sure-brazil-will-move-embassy-to-jerusalem" class="story__link">Netanyahu says he’s sure Brazil will move embassy to Jerusalem
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416181" data-layout="story">
+<article class="box  story    " data-id="1454448" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416181" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416181/when-a-text-can-trigger-a-lynching-whatsapp-struggles-with-incendiary-messages-in-india" class="story__link">When a text can trigger a lynching: WhatsApp struggles with incendiary messages in India
+    <h2 data-layout="story" data-id="1454448" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454448/for-sheikh-hasina-authoritarian-tag-is-badge-of-honour-says-son-on-poll-eve" class="story__link">For Sheikh Hasina, authoritarian tag is ‘badge of honour’, says son on poll eve
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416180" data-layout="story">
+<article class="box  story    " data-id="1454592" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416180" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416180/italys-far-right-minister-in-libya-as-migrants-in-limbo-at-sea" class="story__link">Italy’s far-right minister in Libya as migrants in limbo at sea
+    <h2 data-layout="story" data-id="1454592" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454592/brexit-50-50-if-mays-deal-voted-down-warns-minister" class="story__link">Brexit ‘50-50’ if May’s deal voted down, warns minister
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1416179" data-layout="story">
+<article class="box  story    " data-id="1454447" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1416179" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1416179/ex-nato-chief-solana-denied-entry-to-us-over-iran-trips" class="story__link">Ex-Nato chief Solana denied entry to US over Iran trips
+    <h2 data-layout="story" data-id="1454447" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454447/egypt-kills-40-terrorists-after-tourist-bus-attack" class="story__link">Egypt kills 40 ‘terrorists’ after tourist bus attack
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -1302,20 +1381,21 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/international" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/international" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">Sunday Magazine</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">Sunday Magazine</span>
 
-    <div class="accordion__content" id="panel-<?= sunday-magazine ?>">
+    <div class="accordion__content" id="panel-sunday-magazine">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
 <article class="box  story    " data-id="1329822" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1329822" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1329822/smokers-corner-curbing-the-mullah" class="story__link">Smokers' corner: Curbing the mullah</a></h2>
+    <h2 data-layout="story" data-id="1329822" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1329822/smokers-corner-curbing-the-mullah" class="story__link">Smokers' corner: Curbing the mullah
+</a></h2>
 </article>
 <!-- - - - /article - - - -->
 
@@ -1323,7 +1403,8 @@ obtain your consent to make these changes.</p>
 <!-- - - - article - - - -->
 <article class="box  story    " data-id="1330106" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1330106" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1330106/fade-from-red-the-diamond-of-lahore-has-dulled" class="story__link">FADE FROM RED: THE DIAMOND OF LAHORE HAS DULLED</a></h2>
+    <h2 data-layout="story" data-id="1330106" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1330106/fade-from-red-the-diamond-of-lahore-has-dulled" class="story__link">FADE FROM RED: THE DIAMOND OF LAHORE HAS DULLED
+</a></h2>
 </article>
 <!-- - - - /article - - - -->
 
@@ -1331,7 +1412,7 @@ obtain your consent to make these changes.</p>
 <!-- - - - article - - - -->
 <article class="box  story    " data-id="1330100" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1330100" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1330100/canvas-the-reclusive-artist" class="story__link">CANVAS: THE RECLUSIVE ARTIST</a></h2>
+    <h2 data-layout="story" data-id="1330100" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1330100/canvas-the-reclusive-artist" class="story__link">CANVAS: THE RECLUSIVE ARTIST</a></h2>
 </article>
 <!-- - - - /article - - - -->
 
@@ -1339,7 +1420,7 @@ obtain your consent to make these changes.</p>
 <!-- - - - article - - - -->
 <article class="box  story    " data-id="1328744" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1328744" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1328744/mob-mentality-how-many-hands-is-mashals-blood-on" class="story__link">Mob mentality: How many hands is Mashal's blood on?</a></h2>
+    <h2 data-layout="story" data-id="1328744" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1328744/mob-mentality-how-many-hands-is-mashals-blood-on" class="story__link">Mob mentality: How many hands is Mashal's blood on?</a></h2>
 </article>
 <!-- - - - /article - - - -->
 
@@ -1347,63 +1428,63 @@ obtain your consent to make these changes.</p>
 <!-- - - - article - - - -->
 <article class="box  story    " data-id="1328402" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1328402" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1328402/smokers-corner-the-hordes-banquet" class="story__link">SMOKERS' CORNER: THE HORDE'S BANQUET</a></h2>
+    <h2 data-layout="story" data-id="1328402" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1328402/smokers-corner-the-hordes-banquet" class="story__link">SMOKERS' CORNER: THE HORDE'S BANQUET</a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/sunday-magazine" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/sunday-magazine" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">Books &amp; Authors</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">Books &amp; Authors</span>
 
-    <div class="accordion__content" id="panel-<?= books-authors ?>">
+    <div class="accordion__content" id="panel-books-authors">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415636" data-layout="story">
+<article class="box  story    " data-id="1454123" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415636" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415636/non-fiction-stepping-back-from-the-brink" class="story__link">NON-FICTION: STEPPING BACK FROM THE BRINK
+    <h2 data-layout="story" data-id="1454123" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454123/fiction-murakamis-blank-spaces" class="story__link">FICTION: MURAKAMI’S BLANK SPACES
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415635" data-layout="story">
+<article class="box  story    " data-id="1454121" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415635" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415635/fiction-daring-to-dream" class="story__link">FICTION: DARING TO DREAM
+    <h2 data-layout="story" data-id="1454121" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454121/non-fiction-the-women-of-empire" class="story__link">NON-FICTION: THE WOMEN OF EMPIRE
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415634" data-layout="story">
+<article class="box  story    " data-id="1454120" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415634" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415634/down-cricket-lane" class="story__link">DOWN CRICKET LANE
+    <h2 data-layout="story" data-id="1454120" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454120/interview-we-are-told-that-theres-nothing-on-women" class="story__link">INTERVIEW: ‘WE ARE TOLD THAT THERE’S NOTHING ON WOMEN...
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415633" data-layout="story">
+<article class="box  story    " data-id="1454119" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415633" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415633/non-fiction-mistress-of-herbs" class="story__link">NON-FICTION: MISTRESS OF HERBS
+    <h2 data-layout="story" data-id="1454119" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454119/column-poets-and-dreamers" class="story__link">COLUMN: POETS AND DREAMERS
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415632" data-layout="story">
+<article class="box  story    " data-id="1453000" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415632" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415632/non-fiction-no-more-handouts" class="story__link">NON-FICTION: NO MORE HANDOUTS
+    <h2 data-layout="story" data-id="1453000" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1453000/family-matters" class="story__link">FAMILY MATTERS
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -1411,56 +1492,56 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/books-authors" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/books-authors" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">Business &amp; Finance</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">Business &amp; Finance</span>
 
-    <div class="accordion__content" id="panel-<?= business-finance ?>">
+    <div class="accordion__content" id="panel-business-finance">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415854" data-layout="story">
+<article class="box  story    " data-id="1454497" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415854" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415854/galloping-deficit" class="story__link">Galloping deficit
+    <h2 data-layout="story" data-id="1454497" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454497/this-is-where-you-can-invest-your-money-in-2019" class="story__link">This is where you can invest your money in 2019
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415853" data-layout="story">
+<article class="box  story    " data-id="1454496" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415853" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415853/our-economy-the-troubles-are-real" class="story__link">Our economy: The troubles are real
+    <h2 data-layout="story" data-id="1454496" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454496/orbit-of-external-influence-imf-or-no-imf" class="story__link">Orbit of external influence: IMF or no IMF?
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415852" data-layout="story">
+<article class="box  story    " data-id="1454495" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415852" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415852/too-little-too-late-on-the-foreign-currency-front" class="story__link">Too little too late on the foreign currency front
+    <h2 data-layout="story" data-id="1454495" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454495/burgeoning-inflation-to-expose-dark-realities" class="story__link">Burgeoning inflation to expose dark realities
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415851" data-layout="story">
+<article class="box  story    " data-id="1454494" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415851" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415851/kse-100-share-index-fluctuations" class="story__link">KSE 100-share index fluctuations
+    <h2 data-layout="story" data-id="1454494" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454494/views-from-the-market" class="story__link">Views from the market
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415850" data-layout="story">
+<article class="box  story    " data-id="1454493" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415850" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415850/rupee-report-rupee-held-at-rs12450" class="story__link">Rupee report: Rupee held at Rs124.50
+    <h2 data-layout="story" data-id="1454493" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1454493/with-elections-in-india-expect-last-minute-pro-poor-policies" class="story__link">With elections in India, expect last minute pro-poor policies
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -1468,56 +1549,56 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/business-finance" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/business-finance" class="">Read More</a></span>
 
     </div>
   </div>    <div class="accordion__item" role="tab">
     
-    <span class="badge  size-three  caps  accordion__item__title  col-12  float-none    p-2">Young World</span>
+    <span class="badge  size-three  uppercase  accordion__item__title  col-12  float-none    p-2">Young World</span>
 
-    <div class="accordion__content" id="panel-<?= young-world ?>">
+    <div class="accordion__content" id="panel-young-world">
       <div class="accordion__content__item">
         
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415190" data-layout="story">
+<article class="box  story    " data-id="1453798" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415190" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415190/coming-soon-to-a-cinema-near-you" class="story__link">Coming soon to a cinema near you …
+    <h2 data-layout="story" data-id="1453798" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1453798/the-year-ahead" class="story__link">The year ahead
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415189" data-layout="story">
+<article class="box  story    " data-id="1453790" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415189" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415189/mailbox" class="story__link">Mailbox
+    <h2 data-layout="story" data-id="1453790" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1453790/mail-box" class="story__link">Mail box
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415188" data-layout="story">
+<article class="box  story    " data-id="1453789" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415188" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415188/poets-corner" class="story__link">Poet's Corner
+    <h2 data-layout="story" data-id="1453789" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1453789/poet-corner" class="story__link">Poet Corner
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415187" data-layout="story">
+<article class="box  story    " data-id="1453788" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415187" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415187/story-time-today-a-reader-tomorrow-a-leader" class="story__link">Story Time: Today a reader, tomorrow a leader
+    <h2 data-layout="story" data-id="1453788" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1453788/movie-review-spider-man-into-the-spider-verse" class="story__link">Movie review: Spider-Man: Into the Spider-Verse
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
 
 
 <!-- - - - article - - - -->
-<article class="box  story    " data-id="1415186" data-layout="story">
+<article class="box  story    " data-id="1453787" data-layout="story">
     <!-- box/title normal-xxsmall-py:2 -->
-    <h2 data-layout="story" data-id="1415186" class="story__title    size-three  text--400      py-2  "><a href="https://www.dawn.com/news/1415186/wonder-craft-rainbow-on-the-clouds" class="story__link">Wonder Craft: Rainbow on the clouds
+    <h2 data-layout="story" data-id="1453787" class="story__title    size-three  font-normal      py-2  "><a href="https://www.dawn.com/news/1453787/wonder-craft-new-years-card" class="story__link">Wonder Craft: New Year’s card
 </a></h2>
 </article>
 <!-- - - - /article - - - -->
@@ -1525,33 +1606,10 @@ obtain your consent to make these changes.</p>
 
       </div>
       
-    <span class="badge    caps  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/young-world" class="">Read More</a></span>
+    <span class="badge    uppercase  accordion__item__readmore  size-one  text-right    pr-0"><a title="Read More" href="/newspaper/young-world" class="">Read More</a></span>
 
     </div>
   </div></div></div>
-</section>
-<!-- - - - - - - widget:end - - - - - - -->
-
-<!-- - - - - - - widget:start id: 402 -  type: linkedimage -  object_id:  -  title:  - - - - - - -->
-<section class="widget  theme  widget-linkedimage    modifywidget--border-black  modifywidget--border-thick  modifywidget--border-top  modifywidget--transparent" data-type="linkedimage" data-id="402">
-<div class="widget__header">
-</div>
-<div class="widget__main  ">
-
-<a href="https://drive.google.com/file/d/18-QHpWZ-U9Gokne3oRGimBF0bnrlOTon/view"><img width="100%" src="//i.dawn.com/widgets/upload-image-5b0508ebee393.jpg" alt=""></a>
-</div>
-</section>
-<!-- - - - - - - widget:end - - - - - - -->
-
-<!-- - - - - - - widget:start id: 415 -  type: linkedimage -  object_id:  -  title: Member - - - - - - -->
-<section class="widget  theme  widget-linkedimage    modifywidget--border-black  modifywidget--border-thick  modifywidget--border-top  modifywidget--transparent" data-type="linkedimage" data-id="415">
-<div class="widget__header">
-<h2 class="widget__title    modifywidget--title-uppercase"><span>Member</span></h2>
-</div>
-<div class="widget__main  ">
-
-<a href="http://www.asianews.network/"><img width="100%" src="//i.dawn.com/widgets/upload-image-04102efc1713110b3a24b16f10769bcf.png" alt="Member"></a>
-</div>
 </section>
 <!-- - - - - - - widget:end - - - - - - -->
 </aside>
@@ -1563,11 +1621,11 @@ obtain your consent to make these changes.</p>
 	<div class="pt-2  px-2  mb-2  clearfix">
 		        
 <!-- - - adsense: start - - -->
-<div class="ad  " aria-hidden="true">
+<div class="ad  py-4  hidden  sm-block" aria-hidden="true">
   
-  <div class="js-ad  clearfix" style="max-width:728px;max-height:90px;text-align:center;margin:0 auto;overflow:hidden;">
+  <div class="js-ad    clearfix" style="max-width:728px;max-height:90px;text-align:center;margin:0 auto;overflow:hidden;">
     <div class="radWrapper  ad__wrapper">
-      <div id="div-gpt-ad-1509519280329-0" class="ad__wrapper__slot" style="width:728px;height:90px">
+      <div id="div-gpt-ad-1509519280329-0" class="ad__wrapper__slot" style="width:728px;height:90px;">
         <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1509519280329-0'); });</script>
       </div>
     </div>
@@ -1579,69 +1637,69 @@ obtain your consent to make these changes.</p>
 
 	
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" defer="true"></script>
-    <script src="https://www.dawn.com/_js/all.20180620122209.js" defer="true"></script><div class="px-2">
-  <div class="container-fluid  container--footer  border--top  border--thick  border--black">
+    <script src="https://www.dawn.com/_js/all.20181226114715.js" defer="true"></script><div class="px-2">
+  <div class="container-fluid  container--footer  border-3  border-r-0  border-b-0  border-l-0  border-solid  border-black">
     <div class="mt-2">
       <div class="pt-4">
         <div class="row  no-gutters">
           <div class="col-lg-2  col-12">
             <ul class="nav">
               <li class="nav__item  font--arial"><img style="height:28px;width:119px" alt="Dawn News" class="container--footer__logo--black" src="https://www.dawn.com/_img/logo.png"></li>
-              <li class="nav__item  font--arial"><img style="height:28px;width:119px" alt="Dawn News" class="container--footer__logo--white  d-none" src="https://www.dawn.com/_img/logo--white.png"></li>
-              <li class="nav__item  font--arial  d-block  text-left  mt-2"><p>Copyright © 2018</p></li>
-              <li class="nav__item  font--arial  text-left"><p class="d-none"> Compunode.com Pvt. Ltd. (<a class="px-0 px-sm-1  text--400" href="https://www.compunode.com/">www.compunode.com</a>).Designed for <a class="px-0 px-sm-1  text--400" href="https://www.dawn.com">Dawn</a>.</p></li>
-              <li class="nav__item  font--arial  d-block  text-left"><p>Scribe Publishing Platform</p></li>
+              <li class="nav__item  font--arial"><img style="height:28px;width:119px" alt="Dawn News" class="container--footer__logo--white  hidden" src="https://www.dawn.com/_img/logo--white.png"></li>
+              <li class="nav__item  font--arial  block  text-left  mt-2"><p>Copyright © 2018</p></li>
+              <li class="nav__item  font--arial  text-left"><p class="hidden"> Compunode.com Pvt. Ltd. (<a class="px-0 px-sm-1  font-normal" href="https://www.compunode.com/">www.compunode.com</a>).Designed for <a class="px-0 px-sm-1  font-normal" href="https://www.dawn.com">Dawn</a>.</p></li>
+              <li class="nav__item  font--arial  block  text-left"><p>Scribe Publishing Platform</p></li>
             </ul>
           </div>
 
           <div class="col-lg-10  col-12">
             <div class="row  no-gutters">
               <div class="col-sm-2  col-12">
-                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/contact">Contact Us</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://www.facebook.com/dawndotcom">Facebook</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://twitter.com/dawn_com">Twitter</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://play.google.com/store/apps/details?id=com.pepperpk.dawnnews">Android App</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://itunes.apple.com/pk/app/id935631940">iPhone App</a></li>
+                <ul class="nav  nav--dawn-sitemap  size-two  border-none  sm-border-l-1  sm-border-solid">
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="/contact">Contact Us</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="https://www.facebook.com/dawndotcom">Facebook</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="https://twitter.com/dawn_com">Twitter</a></li>
+                  <!-- <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="https://play.google.com/store/apps/details?id=com.pepperpk.dawnnews">Android App</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="https://itunes.apple.com/pk/app/id935631940">iPhone App</a></li> -->
                 </ul>
               </div>
 
               <div class="col-sm-2  col-12">
-                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/newsletters">Newsletters</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/prayers-timings">Prayer Timings</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/stocks">Stock Forex and Gold</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/weather">Weather</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/social-media-guidelines">Social Media Guidelines</a></li>
+                <ul class="nav  nav--dawn-sitemap  size-two  border-none  sm-border-l-1  sm-border-solid">
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="/newsletters">Newsletters</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="/prayers-timings">Prayer Timings</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="/stocks">Stock Forex and Gold</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="/weather">Weather</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="/social-media-guidelines">Social Media Guidelines</a></li>
                 </ul>
               </div>
 
               <div class="col-sm-2  col-12">
-                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/code-of-ethics">Code of Ethics</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/terms">Terms of Use</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/privacy">Privacy</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/reproduction-copyrights">Reproduction Copyrights</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/contribution-guidelines">Contribution Guidelines</a></li>
+                <ul class="nav  nav--dawn-sitemap  size-two  border-none  sm-border-l-1  sm-border-solid">
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="/code-of-ethics">Code of Ethics</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="/terms">Terms of Use</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="/privacy">Privacy</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="/reproduction-copyrights">Reproduction Copyrights</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="/contribution-guidelines">Contribution Guidelines</a></li>
                 </ul>
               </div>
 
               <div class="col-sm-2  col-12">
-                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="/advertise">Advertise in Dawn</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://dawnnationaladvertiser.com/">Place Classifieds Ad</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://obituary.dawn.com">Obituaries</a></li>
+                <ul class="nav  nav--dawn-sitemap  size-two  border-none  sm-border-l-1  sm-border-solid">
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="/advertise">Advertise in Dawn</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="https://dawnnationaladvertiser.com/">Place Classifieds Ad</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="https://obituary.dawn.com">Obituaries</a></li>
                   <!-- <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1" href="https://dawnclassified.com/">Ad Bookings/Publication</a></li> -->
                 </ul>
               </div>
 
               <div class="col-sm-2  col-12">
-                <ul class="nav  nav--dawn-sitemap  size-two  palm-bald--left">
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://www.dawn.com">Dawn.com</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://dawnnews.tv/">Dawnnews.tv</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://cityfm89.com">Cityfm 89</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://herald.dawn.com">HERALD</a></li>
-                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  text--400" href="https://aurora.dawn.com">Aurora</a></li>
+                <ul class="nav  nav--dawn-sitemap  size-two  border-none  sm-border-l-1  sm-border-solid">
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="https://www.dawn.com">Dawn.com</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="https://dawnnews.tv/">Dawnnews.tv</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="https://cityfm89.com">Cityfm 89</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="https://herald.dawn.com">HERALD</a></li>
+                  <li class="nav__item  font--arial  col-12  text-left"><a class="px-0 px-sm-1  font-normal" href="https://aurora.dawn.com">Aurora</a></li>
                 </ul>
               </div>
             </div>
@@ -1692,10 +1750,9 @@ obtain your consent to make these changes.</p>
             <!-- - - - - start:ga-events - - - - -->
             <script type="text/javascript">
             
-    if (typeof $ !== 'undefined') $('.widget-linkedimage a').click(function(){ga('send','event','linkedimage','click','https://www.dawn.com/elections/blog/');});
-    if (typeof $ !== 'undefined') $('.widget-linkedimage a').click(function(){ga('send','event','linkedimage','click','contestwinners');});
-    if (typeof $ !== 'undefined') $('.widget-linkedimage a').click(function(){ga('send','event','linkedimage','click','https://drive.google.com/file/d/18-QHpWZ-U9Gokne3oRGimBF0bnrlOTon/view');});
+    if (typeof $ !== 'undefined') $('.widget-linkedimage a').click(function(){ga('send','event','linkedimage','click','https://www.dawn.com/news/1450617/darra-adamkhels-century-old-illegal-firearms-industry-is-slowly-dying');});
     if (typeof $ !== 'undefined') $('.widget-linkedimage a').click(function(){ga('send','event','linkedimage','click','http://www.asianews.network/');});
+    if (typeof $ !== 'undefined') $('.widget-linkedimage a').click(function(){ga('send','event','linkedimage','click','https://drive.google.com/file/d/1pPz9S8-zoOOnvuAyIEvodqTVJVkUSISl/view');});
             </script>
             <!-- - - - - end:ga-events - - - - -->
 
@@ -1860,7 +1917,7 @@ obtain your consent to make these changes.</p>
 	</script>
 
 </footer>
-<!--2018-06-26 14:44:09-->
+<!--2018-12-31 16:01:11-->
 
 
 <script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
