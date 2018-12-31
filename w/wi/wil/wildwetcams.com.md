@@ -1,87 +1,128 @@
-> *The following text is extracted and transformed from the wildwetcams.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328200901id_/http%3A//wildwetcams.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildwetcams.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231220426id_/https%3A//chaturbate.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | WildWetCams.com
+# Privacy Policy - Chaturbate
 
-**PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY AND THE TERMS OF USE AGREEMENT ON THIS WEBSITE. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEBSITE. YOU SHOULD CHECK THIS POLICY REGULARLY TO SEE IF ANY CHANGES HAVE BEEN MADE.**
+This Privacy & Cookies Policy (the "Policy") dated May 22, 2018 replaces all previous policies. Please take the time to review before you continue to use our products and services.
 
-This Privacy Policy is effective as of: 02/01/2011.
+This Policy applies to any information you provide to us, including through this website, our mobile apps, communications by email and through social media, by telephone and in person. It also covers any information we receive from third parties.
 
-Your privacy is important, so WildWetCams has created the following Privacy Policy to let you know what information we collect when you visit our website, www.WildWetCams.com (“Site”), why we collect it and how it is used. This Privacy Policy explains the data collection and use practices of the Site; it does not apply to other online sites, products or services. The terms “you,” “your,” “yours,” and “user” refer to the user or visitor using, accessing, or viewing our Site. The terms “WildWetCams,” “we,” “us,” and “our” refer to WildWetCams
+By using our products and services, including browsing our websites, registering or logging in, you agree we may use your information as outlined in this Policy. If you do not wish to have your information used in line with this Policy, you must not use our products and services and not otherwise provide us with your information.
 
-By using the Site, you consent to the data collection and use practices prescribed in this Privacy Policy. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.
+## About us
 
-1.Personally Identifiable Information
+Multi Media, LLC operates the service located on Chaturbate.com (the "Site").
 
-“Personally Identifiable Information” means any information that may be used to identify an individual, such as, without limitation, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home. This Site may contain features that require registration. If registration is required to use this Site or portions of this Site, WildWetCams may collect Personally Identifiable Information from you when you register such as the following: first and last name, address (including zip code), email address, telephone number, authentication data, age, company, country, and such other information. WildWetCams also automatically receives and records information on our server logs from your browser, including your internet protocol (IP) address, cookie information and the page you request. We may collect and store Personally Identifiable Information when you register to use our Site, ask a question, complete a form, access certain areas of our site, or send us an email. You can choose not to provide us with certain information, but then you might not be able to take advantage of many of our features and we may not be able to provide you with certain services.
+## Information we may collect and process about you
 
-We may use your Personally Identifiable Information to complete transactions, respond to your requests, answer your questions, and notify you of promotions, updates, or special offers that we think may interest you. In addition, Personally Identifiable Information is used to optimize the operation of the Site, enhance our promotional and marketing activities, improve our products and services, to share with third parties as described in this Privacy Policy, trouble shoot, perform administrative tasks, handle disputes, enforce our agreements, comply with laws and regulations, cooperate with law enforcement activities, and other purposes that are necessary for us to provide services you requested from us. If you use our Site or a link to our Site to send information about a product or service to another person, we may collect and store your Personally Identifiable Information, and the Personally Identifiable Information of any recipient. We may use the recipient’s Personally Identifiable Information to allow him or her to view or access the information you requested we provide.
+  * Information you provide to us
+  * Your IP address
+  * Information about accounts you've visited, products and services you've clicked on or shown an interest
+  * Information provided by other companies who have obtained your permission through their own privacy policies to share information about you
+  * Information about your interaction with the Site including any advertisements
+  * Information we collect using cookies stored on your device about your use of the Site and/or selected third party websites.
+  * Information we collect or remember using technologies similar to cookies, such as device identifiers on your mobile device.
+  * Technical information from your device relating to the service you receive
+  * Information relating to the location of your device.
 
-For Personally Identifiable Information provided if and when applying for a job with us, we will use that information only to contact you regarding job opportunities that may be of interest. This information may also be used to contact you about announcements, administration, requests or inquires, your account, changes to our Site or policies, promotional offerings and other marketing activities, and requesting feedback through surveys and questionnaires.
 
-We may from time to time send you promotional emails relating to our product, promotional, and services offerings. You are given the opportunity to opt-out of receiving promotional e-mails by simply following the "unsubscribe" instructions that appear in every email from us.
 
-2.Non-Personally Identifiable Information
+## How we may use your information
 
-We, or our third party service providers, collect and store certain other information automatically whenever you interact with the Site. For example, we collect your internet protocol (IP) address, URL, browser information and reference site domain name every time you visit the Site. We also collect information regarding customer traffic patterns, site usage, hits to our server, Site, page views, date and time of your query, and navigational patterns. The information that is collected in this manner does not provide us with any Personally Identifiable Information about users. This non-personally identifiable information assists us in tracking the location of our users, helps determine high traffic areas and facilitates analysis of the most effective ways to communicate with our users. As part of that ongoing analysis, we may also use devices called “web beacons” to help us identify when emails sent to you have been received and read.
+By accessing the Site, you agree that we may collect, hold, use or otherwise process your information (including personal information) for the purpose of providing you with those products and services you request or access, and developing our business.
 
-Like many web sites, we also use standard technologies such as “cookies,” which are files placed on your computer’s hard drive by the sites you visit, including without limitation, local shared objects (also known as “ flash cookies”). Cookies are small text files stored by your browser in your computer when you visit our Site. Websites use temporary cookies called “session” cookies to ensure that you are recognized when you move from page to page within one site and that any information you have entered is remembered. Websites also use cookies called “persistent” cookies to enable a website to remember you on subsequent visits, speeding up or enhancing your experience of services or functions offered. We may install both persistent and session cookies when you visit our Site. We use cookies to improve our Site and make it easier to use. Cookies permit us to recognize users and avoid repetitive requests for the same information. Most browsers will accept cookies until you change your browser settings to refuse them. If you block or refuse to accept cookies, or delete cookies after visiting our Site, you may not be able to access or use certain features or functions of our Site.
+### Payment Processing
 
-We may use any combination of your IP address, cookies, and other information to identify you or your computer when you visit this Site and to allow us to, in our sole discretion, immediately and without notice, block, suspend, or terminate you, temporarily or permanently, from viewing, accessing, or using this Site, or its Content and Services (a) if you have violated or breached our Terms of Use found at [http://WildWetCams.com/terms/](http://wildwetcams.com/terms/); (b) if you have violated, infringed or misappropriated WildWetCams’s or any third party’s intellectual property, proprietary, privacy, contract rights, or other rights; or (c) for any other reason or no reason. You agree that WildWetCams shall not be liable to you or any third party for any such blocking, suspension, or termination. In the event of such violation, we reserve all of our rights and remedies under this Privacy Policy and Terms of Use, at law, and in equity.
+Please note that we contract with various third parties to carry out payment processing in connection with any purchases you may make through the Site. The processing and storage of any and all information you may provide to any such third-party payment processor, including information they may collect from you, is not governed by this Policy. You will need to review the Privacy and Cookie Policy for such third party on their website.
 
-The non-personally identifiable information we collect is also used to analyze and improve the Site and to help us provide our customers with a fulfilling and pleasant online experience. We may also use the non-personally identifiable information for trouble shooting, performing administrative tasks, managing the Site, complying with laws and regulations, and to cooperate with law enforcement activities. We also may use this information in the aggregate to analyze Site usage and to gather broad demographic information.
+### Two Factor Authentication
 
-3.Is The Information Shared or Disclosed?
+When you enable two factor authentication to protect your account, you may provide your phone number directly to a third party called Twilio. Their use of this information is outside of this Policy; however they do not receive any information regarding your account beyond the phone number you provide directly to them.
 
-WildWetCams does not rent or sell the Personally Identifiable Information it collects about you to or with third parties. WildWetCams may disclose Personally Identifiable Information if required to do so by law or in the belief that such action is necessary to: (a) comply with law or legal process, court order or a subpoena served on WildWetCams or the Site to cooperate with law enforcement authorities; (b) investigate, prevent or take action regarding suspected or actual illegal activity or fraud on the Site; (c) protect and defend the rights, property or safety of us or Service Providers (defined below), licensees, business partners, agents, customers, users, or others; or (d) act in situations involving actual or potential threats to the physical safety of any person, violations of our agreements, abuse of this Site, security breaches of this Site, or as necessary to protect our systems, business, users or others. We may disclose the information obtained from you through the Site, including Personally Identifiable Information, to a successor entity as part of a merger, acquisition, or other sale of our assets or business or should we file for bankruptcy.
+### Fraud Prevention Services
 
-In addition, we may disclose aggregated information to advertisers. In these situations, we do not disclose to these entities any information that could be used to personally identify you. We may disclose volume or usage statistical information as a representative audience to advertisers.
+We use third party services in connection with preventing fraud and other damage to our system. As such we may provide to such services with your IP and device data should your account be terminated for fraud or behavior which is damaging to our Site or service. This information will be retained indefinitely for the protection of our Site and users.
 
-We may contract with third-party providers, business partners or persons to provide certain products and services, including without limitation, operating, administering, maintaining or hosting the Site, payment processing, and authorization, distribution, data management, marketing and promotional support, trouble shooting, customer support, goods and services, or companies that offer affinity, frequent-user, and reward programs, etc., (“Service Providers”). We provide the Service Providers with the information needed for them to perform these services with the requirement that they use the information only in connection with their performance of these services for us. Our Service Providers may enlist third parties to perform services related to the operation of our business. Examples of these services include payment processing and authorization, order fulfillment and shipping, and Site hosting, marketing or evaluation. Our Service Providers may provide Personally Identifiable Information to these third parties, but we authorize them to use this information only in connection with the services the Service Providers perform for us. We disclaim all responsibility or liability for, and you hereby agree to hold us harmless from, the actions of such Service Providers. The use of your Personally Identifiable Information is subject to the privacy practices of such Service Providers, and their third parties, and the actions of such Service Providers, and their third parties, are outside of our control.
+## How we may use your information in specific products or services
 
-4.How You Can Access or Change Your Information
+### Registration
 
-If we offer an account registration process and you have signed up for an account with us on the Site, you can access or change your Personally Identifiable Information by logging into your account and editing your profile. You are responsible for maintaining the secrecy of your password and account information at all times.
+**General account registration:** You are not required to provide any information to use the Site. You may determine to create an account with the Site. In such event you will be required to provide a user name, birthdate to demonstrate you meet our minimum age requirements, and your gender. This information, together with any information you determine to provide in your account profile, will be publicly posted in connection with your username.
 
-If you do not have an account with us accessible on the Site, you can access or change your Personally Identifiable Information that we collect online and maintain by emailing us at info at WildWetCams dot com
+**Contributor registration:** Should you determine to create a "Contributor" account (which is an account that is permitted to receive digital currency from other users of the Site), you will be required to provide a color copy of your current government issued photo identification. This information is stored by us in compliance with United States Federal law. You will also be required to provide “pay to” information such as a bank account or home address. You may be required to provide certain taxpayer information. We report to the United States Internal Revenue Service all moneys paid by us to Contributors as required by law.
 
-We may retain original and updated information for reasons such as technical constraints, dispute resolution, troubleshooting, record retention, and enforcement of our agreements. For security purposes, we may request information to help verify your identity before granting access or making changes to your information.
+**Webmaster registration:** Should you determine to create a webmaster account with the Site, you will be required to provide "pay to" information such as a bank account or home address. You may be required to provide certain taxpayer information. We report to the United States Internal Revenue Service moneys paid by us to webmasters as required by law.
 
-5.Notice of Privacy Rights of California Residents
+### Message boards, blogs and other public forums
 
-California Civil Code Section 1798.83 (“Code”) permits users of our Site who are California residents from whom we have received Personally Identifiable Information to request from us certain information regarding our disclosure of Personally Identifiable Information to third parties for their direct marketing purposes.
+The Site may provide message boards, blogs and other user generated content facilities, in addition to user profiles. Anything that you share through any of these means is deemed public information. You should always be careful when deciding to disclose your personal information.
 
-As required by the Code, at your request we will provide you with the categories of Personally Identifiable Information that we collect through the Site and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes. California law requires us to inform you, at your request, of (a) the categories of Personally Identifiable Information we collect and the third parties with whom we share that information; (b) the names and addresses of those third parties; and (c) examples of the products marketed by those third parties. To make such a request, please send an e-mail to info at WildWetCams dot com or write us at: 244 5th Ave. #1835, New York, NY 10001, United States.
+### Location based services
 
-The Code allows you to control the parties with whom we share Personally Identifiable Information and the specific Personally Identifiable Information which you do not wish to be shared with those third parties. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with third parties for direct marketing purposes. The request should be emailed to the attention of our Legal Department, info at WildWetCams.com and labeled “California Customer Choice Notice.” Please allow 30 days for a response. Please note that there is no charge for controlling the sharing of your Personally Identifiable Information or for processing this request.
+Where we provide services that utilize your device's location, we may permit other users of the service to block individuals in certain locations, based upon their IP, from accessing such users' content.
 
-We are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through the above email address.]
+## Certain Information Use Out of Our Control
 
-6.The Security of Your Information.
+Should you determine to stream or upload any content to our Site, you understand that we cannot control the use of such content by any user/observer of our Site. Furthermore, we cannot control the use of any personal information you may determine to share with other users/observers of the Site. You should exercise caution in discussing your location, name, account information, and other identifying information. For privacy, we recommend using a unique username not in any way tied to any of your social media accounts or real name.
 
-To help protect the privacy of the personal information you transmit through use of the Site, we use commercially reasonable security practices that are technically feasible for us to protect the user data we collect against unauthorized access, including without limitation, physical, technical, and administrative safeguards.
+## How we may share your information
 
-Except as specified in this Privacy Policy, we use commercially reasonable efforts to limit access to your personal information to our employees, agents, and officers who need the information to perform their responsibilities. However, please be aware that the Site and our services are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond our control. We cannot guarantee the security of the information on and sent from our Site, and are not responsible for the acts and omissions of any third parties who receive the information. Please be aware that despite our best intentions and the guidelines outlined in this Privacy Policy, no data transmission over the internet can be guaranteed to be 100% secure.
+Your username will be associated with all activities you undertake on the Site including, without limitation, messages sent, content shared, and streamed content. Your gender information will be used to categorize your account and the content that you share so it is easier for site users to find. Your IP addresses, device data, and other use information is used by us in order to optimize our site for use. Your usage history may also be used to help our internal algorithm to recommend other Site users to you. Your "pay to" information, if provided to us, will be shared with third parties (such as, by way of example only, our bank) only as necessary to process payments to you using the "pay to" information you have provided to us. Your government identification, if provided to us, will be shared as required to comply with applicable law and as may be requested by you in writing. Notwithstanding the forgoing, we reserve the right to share any and all account information with law enforcement or agencies authorized by applicable governmental authorities either in response to their written request or should we believe, in our sole discretion, that you or your account may be involved with illegal activity, or if we determine in our sole discretion that such disclosure is necessary to protect the rights or property of Chaturbate, our users, or third parties.
 
-7.What Happens When You Link To or From Another Site.
+## Safeguards and security for your information
 
-The Site may contain links to other sites operated by Service Providers, our affiliates or other third parties. We are not responsible for the privacy policies, practices or contents of such other sites. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through other sites. When you leave the Site the privacy policies and practices of that other site apply; we encourage you to be aware of those privacy policies and practices when you are on those other sites and submitting Personally Identifiable Information. You are responsible for reviewing the privacy policies and practices of each and every site that you visit.
+We have measures in place to protect the security of your personal information from unauthorized access or use, such as by using encryption technology.
 
-8.International Transfers.
+## Information Deletion
 
-Personally Identifiable Information collected on the Site may be stored and processed in the United States or any other country in which WildWetCams or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country.
+Should you request your personal data be deleted, it will be deleted in compliance with our data retention policy and applicable law and rules. In order to avoid abuse of our system, we will retain device and IP data relating to your account for a period of time to prevent you from creating a new account.
 
-You agree to comply with all local laws, rules and regulations regarding online conduct and acceptable content. Without limiting the generality of the foregoing, you agree to comply with all applicable laws, rules and regulations regarding the transmission of data exported from the United States or the country in which you reside.
+You can request permanent deletion using our deletion tool [here](https://web.archive.org/security/privacy/delete/).
 
-9.Children.
+## Cookies Policy
 
-This Site is directed to persons 18 years of age or older (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for such jurisdiction). This Site and WildWetCams do not knowingly collect Personal Information from persons under age 18 (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for such jurisdiction) or children under age 13. Any person who provides their information to WildWetCams through the Site or any other part of the Site represents to WildWetCams that they are 18 years of age or older (or for jurisdictions in which 18 years old is not the age of majority, at least the age of majority for your jurisdiction). If you are under the age of 18 (or for jurisdictions in which 18 years old is not the age of majority, under the age of majority for your jurisdiction) you may not use, view, or access this Site and you must leave this Web site immediately by clicking [here](http://yahoo.com/). If you are under age 13, you are not permitted to use this Site or to submit any Personal Information to the Site and you must leave this Web site immediately by clicking [here](http://yahoo.com/).
+You should be aware that when you use the Site we may collect information using cookies or similar technologies.
 
-10.Your Consent To This Privacy Policy and Updates.
+### What are cookies and how do they work?
 
-By using the Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version.
+Cookies are small files that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognize you. This allows websites to tailor what you see on the screen.
 
-We may occasionally update this Privacy Policy. When we do, we will indicate the date that this Privacy Policy was last updated. Any changes we make will be effective immediately upon notice, which we may provide by one or more of the following means including, without limitation, posting a prominent notice on the Site or personal notice. We are not responsible for your failure to receive an email due to the actions of your ISP or any email filtering service. Consequently, you should add WildWetCams.com to the list of domains approved to send you email. Your continued use of the Site after such notice will be deemed acceptance of such changes. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so be sure to return to this page periodically to ensure familiarity with the most current version of this Privacy Policy. If we make changes to this Privacy Policy and you continue to use our Site, you are agreeing to this Privacy Policy and any updates. We will only use Personally Identifiable Information in accordance with the Privacy Policy that was in effect at the time the information was collected.
+### Do we use other technologies which are similar to cookies?
 
-11.Contacting WildWetCams.
+Our websites, apps and emails often contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used in a way similar to cookies, to understand when a particular part of a webpage is viewed. Our apps often use device identifiers in the same way as cookies. A device identifier is a unique number on your device which allow us to remember your device.
 
-If you have any questions regarding this Privacy Policy, please [contact us by clicking here](http://wildwetcams.com/contactus.php)
+### What do we use cookies for?
+
+Cookies make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups:
+
+  1. Cookies that are needed to provide the service you have asked for. Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies gather information about you that can be used for remembering your browsing history or allowing you to stay logged in during your visit.
+  2. Cookies used to improve your browsing experience. These cookies allow the website to remember choices you make, such as your language or region and they provide improved features such as content provider recommendations and limiting the number of times a particular advertisement is shown to you.
+  3. Cookies used to understand how people use our products and services. This allows us to keep track of what pages are popular to help other users find such pages.
+  4. Cookies used to show advertising that is relevant to you based upon your viewing history.
+
+
+
+We also use cookies in order to know how many advertisements we serve, how many times these are clicked or hovered over with a mouse cursor, how many advertisements we show to a given user and how many customer actions these generate.
+
+We may also use cookies on the Site and advertisers' sites to understand which customers reach a sale or other action page on an advertiser's site. This allows us to monitor how effective our advertising is.
+
+Some of our web pages will contain promotional links to other companies' sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. You will need to review the privacy policy of any website whose advertisement you click on as this Policy only applies to pages on our domain.
+
+## Contacting us and accessing your personal information
+
+If you have any queries or comments about this Privacy & Cookies Policy please contact us at:  
+[support@chaturbate.com](mailto:support@chaturbate.com)
+
+If you wish to review or receive a copy of the personal information we hold about you, we offer a self-serve tool [here](https://web.archive.org/security/privacy/data_export/), else please write to us at:
+
+> Attention: Data Protection Officer  
+>  Grizzly Empire Ltd  
+>  Unit 4 Studios  
+>  100 Bradford Road  
+>  Dewsbury, United Kingdom, WF13 2EF  
+>  [privacyquestions@chaturbate.com](mailto:privacyquestions@chaturbate.com)
+
+We reserve the right to charge an administration fee in relation to fulfilling a request for access to personal information which fee shall not exceed the maximum fee allowed by law.
+
+### Changes to this Privacy & Cookies Policy
+
+We reserve the right to make changes to our Privacy & Cookies Policy. Changes to this policy will be posted here and will become effective as of the updated effective date. Your continued use of our website or platform will signify your acceptance of these changes.
