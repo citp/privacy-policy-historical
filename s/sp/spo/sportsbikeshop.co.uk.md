@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625192044id_/http%3A//www.sportsbikeshop.co.uk/motorcycle_parts/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbikeshop.co.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231023420id_/https%3A//www.sportsbikeshop.co.uk/motorcycle_parts/info/privacy_policy) for the most accurate reproduction.*
 
 # SPORTSBIKESHOP - Privacy Policy
 
