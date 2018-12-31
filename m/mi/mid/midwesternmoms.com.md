@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwesternmoms.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625145836id_/https%3A//midwesternmoms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwesternmoms.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231141842id_/https%3A//midwesternmoms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ By using this Site, you consent to the use of such cookies and the sharing of da
 
 For European Economic Area Residents
 
-If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at [info@adthrive.com](mailto:info@adthrive.com). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e980878f86a9888d9d819b809f8cc78a8684). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
 
 **Retargeting Ads  
 **From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
@@ -96,13 +96,13 @@ On the Website, you may subscribe to our newsletter, which may be used for adver
 
 **_RIGHTS RELATED TO YOUR PERSONAL INFORMATION_**
 
-**Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at devon@midwesternmoms.com to be removed from our mailing list.
+**Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to be removed from our mailing list.
 
-**Access** – You may access the personal information we have about you by submitting a request to devon@midwesternmoms.com.
+**Access** – You may access the personal information we have about you by submitting a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-**Amend** – You may contact us at devon@midwesternmoms.com to amend or update your personal information.
+**Amend** – You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to amend or update your personal information.
 
-**Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to devon@midwesternmoms.com.
+**Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
 
@@ -112,10 +112,10 @@ At no time should you submit sensitive personal information to the Website. This
 
 **_CHILDREN’S INFORMATION_**
 
-The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at devon@midwesternmoms.com and we will use our best efforts to promptly remove such information from our records.
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will use our best efforts to promptly remove such information from our records.
 
 **_CONTACT INFORMATION_**
 
-At any time, please contact us at devon@midwesternmoms.com for questions related to this Privacy Policy.
+At any time, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for questions related to this Privacy Policy.
 
 Last updated: May 4, 2018
