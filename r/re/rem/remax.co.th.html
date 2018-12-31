@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the remax.co.th privacy policy that was archived on 2018-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626181926id_/http%3A//remax.co.th/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the remax.co.th privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231122005id_/http%3A//remax.co.th/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><!--<![endif]--><head>
+<!DOCTYPE html><html><head>
         <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500&amp;subset=latin-ext" rel="stylesheet" type="text/css" media="none" onload="if(media!=='all') media='all';">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
         <meta charset="UTF-8">
         
-		<meta property="og:locale" content="en-TH">
+		<meta property="fb:app_id" content="213981435691842">
+		<meta property="og:locale" content="en_TH">
 		<meta property="og:site_name" content="RE/MAX Thailand">
 		<meta name="format-detection" content="telephone=no">
 		
@@ -15,18 +16,14 @@
         <title>RE/MAX - Privacy Policy</title>
         <link rel="SHORTCUT ICON" href="/common/images/favicon.ico" type="image/x-icon">
         
-        <link href="/common/css/commoncss?v=LJzDVbAnTvuRk4rcFVIGoX_Iofm6o-wGkDwzBV1UqJI1" rel="stylesheet">
+        <link href="/common/css/commoncss?v=edeIna_V7b8PEm9cACKGuAuGFFDcJLHDD5oWuM9GA9w1" rel="stylesheet">
  
         
-        <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TLKJ7PF"></script><script src="/common/js/commonjs?v=z_9xOt-l9Nf99Zj0d2zIQGtN4wXhMv2iCIj5XoRHicM1"></script>
+        <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TLKJ7PF"></script><script src="/common/js/commonjs?v=Ehu9NbL1oBHWlZ6oOUAYSVEYruJ6TVFbHmdIDkvUANU1"></script>
 
         <script src="/common/bootstrap/js/bootstrap?v=UihKjhCeIOEpfM-q4caZz1NZMxGVTpMNo1GdBH0QQ781"></script>
 
-        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-        <!--[if lt IE 9]>
-          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-        <![endif]-->
+        
         
         
 <!-- Google Tag Manager -->
@@ -53,7 +50,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         
 		
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU3NTE0NjQ5MmRksaGgGNgEC0X0p0ZY5Fn3PEX6GsY=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTEwMzQxOTg5MWRkijGKoi80rQorxX5CT25GdCppsOE=">
 
 
  <script type="text/javascript">
@@ -69,9 +66,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  var breadCrumb = "<a href='/'></a><SEP>Privacy Policy";
  var subsiteRelativeRootUrl = "";
  var description = "Privacy Policy";
- //SERVERHOST = "WEB321";
+ //SERVERHOST = "WEB317";
  //PageID = "dbf59f2e-3a01-413a-96db-d9772fbbc5ad";
- //ApplicationInstanceId = "baae353f-1a5d-4be6-80ea-10c19118b0f6";
+ //ApplicationInstanceId = "46c4fd5b-9761-403a-87da-fc16f3b3d215";
  </script>
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F4C6E2F5">
 			<!-- page content starts -->
@@ -165,6 +162,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
     });
 
+    function cleanUrlAndReload() {
+
+        var uri = window.location.toString();
+        if (uri.indexOf("?") > 0 && (uri.indexOf("acAction") > 0 || uri.indexOf("sociallogin") > 0)) {
+            var clean_uri = removeURLParameter(uri, "u");
+            clean_uri = removeURLParameter(clean_uri, "acAction");
+            clean_uri = removeURLParameter(clean_uri, "sociallogin");
+            location.href = clean_uri;
+        } else {
+            window.location.reload(true);
+        }
+
+    }
 
     function AgentConnectGreetingRedirect(acAction, UserID) {
         
@@ -173,7 +183,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 .getAgentConnectGetConnectedScreen(UserID)
                 .done(function (html) {
                     $("#agentConnectGreeting").html(html.d);
-                    $('#getConnected').modal('show');
+                    $('#getConnected').on("hidden.bs.modal", function () {
+                        cleanUrlAndReload();
+                    }).modal('show');
                 })
                 .fail(function (xhr) {
                     HideWaitImg();
@@ -184,7 +196,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 .getAgentConnectConnectedScreen(UserID)
                 .done(function (html) {
                     $("#agentConnectGreeting").html(html.d);
-                    $('#areConnected').modal('show');
+                    $('#areConnected').on("hidden.bs.modal", function () {
+                        cleanUrlAndReload();
+                    }).modal('show');
                 })
                 .fail(function (xhr) {
                     HideWaitImg();
@@ -228,12 +242,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="container">
 <div class="navbar-header">
 <ul class="nav">
-<li class="dropdown"><a class="dropdown-toggle" role="button" aria-expanded="false" href="#" data-toggle="dropdown"></a><a class="dropdown-toggle" role="button" aria-expanded="false" href="#" data-toggle="dropdown">English <span class="caret"></span></a>
+<li class="dropdown"><a class="dropdown-toggle" role="button" aria-expanded="false" href="#" data-toggle="dropdown">English<span class="caret"></span></a>
 <ul class="dropdown-menu" role="menu">
-<li><a href="javascript:LangaugeChanged('th-TH');">Thai</a></li>
 <li><a href="javascript:LangaugeChanged('zh-TH');">Chinese</a></li>
-</ul>
-</li>
+<li><a href="javascript:LangaugeChanged('th-TH');">Thai</a></li>
+</ul></li>
 </ul>
 <a class="navbar-brand" href="#menu"> <button class="navbar-toggle" type="button"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> <span class="hidden-xs">MENU</span></a></div>
 <div class="nav-brand"><span class="nav-name">Thailand</span>
@@ -253,7 +266,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <li><a href="/Franchising/Broker.aspx?Lang=en-TH">Become a Broker/Owner</a></li>
 <li><a href="/franchising/Franchise-Business-The-Ideal-Owner.aspx?Lang=en-TH">Ideal Franchise Owner</a></li>
-<li><a href="/franchising/why-real-estate-franchise-business.aspx?Lang=en-TH">Why franchise</a></li><li><a data-cke-saved-href="http://www.remax.co.th/property-iconnect.aspx" href="http://www.remax.co.th/property-iconnect.aspx">Technology &amp; CRM System</a></li>
+<li><a href="/franchising/why-real-estate-franchise-business.aspx?Lang=en-TH">Why franchise</a></li><li><a data-cke-saved-href="http://www.remax.co.th/property-iconnect.aspx" href="http://www.remax.co.th/property-iconnect.aspx">Technology &amp; CRM System</a></li><li><a data-cke-saved-href="http://www.remax.co.th/Franchising/Property-3D-360-Scan-Matterport.aspx" href="http://www.remax.co.th/Franchising/Property-3D-360-Scan-Matterport.aspx">Property Scan 3D/360°</a><br></li>
 <li><a href="/Franchising/questions-answers-real-estate-business.aspx?Lang=en-TH">Question &amp; Answers</a></li>
 <li><a href="/Franchising/Contact.aspx?Lang=en-TH">Apply for a Franchise</a></li>
 </ul>
@@ -269,7 +282,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul>
 <li><a href="/News/real-estate-investment-flipping-property.aspx?Lang=en-TH">Property Investment &amp; Flipping</a></li>
 <li><a href="/News/Pet-Friendly-condo-apartments-Bangkok.aspx?Lang=en-TH">Pet Friendly Condo</a></li><li><a data-cke-saved-href="http://remax.co.th/News/Sole-Agent-Project-Marketing-New-Development.aspx" href="http://remax.co.th/News/Sole-Agent-Project-Marketing-New-Development.aspx">Sole Agency Service</a></li>
-<li><a href="/News/Brand-Refresh.aspx?Lang=en-TH">Brand Refresh</a></li>
+<li><a href="/News/Brand-Refresh.aspx?Lang=en-TH">Brand Refresh</a></li><li><a data-cke-saved-href="http://www.remax.co.th/Real-estate-information/Pre-Sale-Off-Plan-investment.aspx" href="http://www.remax.co.th/Real-estate-information/Pre-Sale-Off-Plan-investment.aspx">Pre-Sale &amp; Off Plan Investment</a></li>
 </ul>
 </li>
 <li><a href="/about-remax.aspx?Lang=en-TH" ssid="a2b033e3-b332-4a2c-aeee-22924ed25167">About Our Network</a></li>
@@ -290,7 +303,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="javascript:LangaugeChanged('th-TH');">Thai</a></li>
 <li><a href="javascript:LangaugeChanged('en-TH');">English</a></li>
 <li><a href="javascript:LangaugeChanged('zh-TH');">Chinese</a></li>
-</ul></li></ul></nav></div>
+</ul></li></ul></nav>
+</div>
                 <div id="TopNav" placeholderdisplaymode="Display">
 
 <script class="shape-tracing-wrapper" shape-id="9" shape-type="Element" shape-hint=""></script>
@@ -388,7 +402,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <h4>Home</h4>
 <hr>
 <ul>
-<li><a href="/about-remax.aspx?Lang=en-TH" ssid="a2b033e3-b332-4a2c-aeee-22924ed25167">About REMAX</a></li>
+<li><a href="/about-remax.aspx?Lang=en-TH" ssid="a2b033e3-b332-4a2c-aeee-22924ed25167">About REMAX</a></li><li><a data-cke-saved-href="http://www.remax.co.th/Franchising/What-is-Franchise-Business.aspx" href="http://www.remax.co.th/Franchising/What-is-Franchise-Business.aspx">What is a Franchise Business?</a></li>
 <li><a href="/franchising?Lang=en-TH">Real Estate Franchise Opportunities</a></li>
 <li><a href="http://global.remax.com" target="_blank">Worldwide Real Estate Network</a></li>
 <li><a href="/News/Post-property-sell-rent.aspx?Lang=en-TH">Post your property for sale or Rent</a></li>
@@ -401,7 +415,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul>
 <li><a href="/publiclistinglist.aspx?Lang=en-TH&amp;TransactionType=For%20Sale">Buy Property</a></li>
 <li><a href="/sellersportal.aspx?Lang=en-TH" ssid="f6f8741d-f512-48e1-a818-02a509c51ea7">Sell Property</a></li>
-<li><a href="/publiclistinglist.aspx?Lang=en-TH&amp;TransactionType=For%20Rent">Rent Property</a></li>
+<li><a href="/publiclistinglist.aspx?Lang=en-TH&amp;TransactionType=For%20Rent">Rent Property</a></li><li><a data-cke-saved-href="http://www.remax.co.th/developments.aspx" href="http://www.remax.co.th/developments.aspx">New Project Developments</a></li>
 <li><a href="http://properties.remax.co.th/" target="_blank">More Properties</a></li>
 </ul>
 </div>
@@ -444,7 +458,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="row"></div>
 <div class="row"><a href="http://www.remax.com/" target="_blank" rel="nofollow" class="seoquake-nofollow">RE/MAX International</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Copy rights REMAX Thailand 2018<br><a href="http://www.remax.eu/" target="_blank" rel="nofollow" class="seoquake-nofollow">RE/MAX Europe</a><br><a href="http://remax.co.th/privacy.aspx" rel="nofollow" class="seoquake-nofollow">Privacy</a><span><span>&nbsp;</span>|<span>&nbsp;</span></span><a href="http://remax.co.th/legal.aspx" rel="nofollow" class="seoquake-nofollow">Legal</a></div>
 </div>
-</div></div>
+</div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({ pageLanguage: 'en', includedLanguages: 'es' }, 'google_translate_element');
+var removePopup = document.getElementById('goog-gt-tt');
+removePopup.parentNode.removeChild(removePopup);
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
                     
 	            </footer> 
             </div>
@@ -470,6 +495,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     //    }
     //});
 </script>
-<input type="hidden" id="GTFLTCHK" name="GTFLTCHK" value="0)40)467>&amp;><7?<43&amp;VK">
+<input type="hidden" id="GTFLTCHK" name="GTFLTCHK" value="74)57)467>&amp;7<46<62&amp;VK">
 	
 </body></html>
