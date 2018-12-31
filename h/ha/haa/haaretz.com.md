@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haaretz.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618021405id_/http%3A//www.haaretz.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haaretz.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231122305id_/http%3A//www.haaretz.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy- Haaretz - Israel News | Haaretz.com
 
@@ -88,9 +88,15 @@ _**Third party advertisements**_
 
 Certain advertisements on the Company’s websites are in fact operated from the computers of the advertising companies and/or by someone on their behalf. We wish to inform you that for the purpose of the advertisements’ management, these companies place cookies on your computer and embed web beacons on the advertisements or the website’s pages. The information collected does not identify you but seeks to adapt the advertisements displayed to you to the subjects that interest you. The use that these companies make of the cookies and web beacons are subject to their privacy policy and not to that of the Company’s websites. 
 
-We would like to inform you that, to the best of our knowledge, browsing the site while you are logged in to your Google Account will allow Google to cross information about your browsing through other devices ("Cross-device controls"), such as browsing from a desktop computer and a mobile phone, but in a way that does not identify you personally. To cancel the above option in "Google Account" setting click here: 
+You can learn, manage, and/or opt out these cookies on desktop and mobile browsers using one of the following links:   
+[http://optout.aboutads.info/?c=2&lang=EN](http://optout.aboutads.info/?c=2&lang=EN)  
+[http://optout.networkadvertising.org/?c=1#!/. ](http://optout.networkadvertising.org/?c=1#!/.)
 
-[ https://www.google.com/settings/u/0/ads/authenticated ](https://www.google.com/settings/u/0/ads/authenticated)
+We would like to inform you that, to the best of our knowledge, browsing the site while you are logged in to your Google Account will allow Google to cross information about your browsing through other devices ("Cross-device controls"), such as browsing from a desktop computer and a mobile phone, but in a way that does not identify you personally. To cancel the above option in "Google Account" setting [click here](https://www.google.com/settings/u/0/ads/authenticated)
+
+In addition, Google allows the site to receive some of this information, in a way that does not identify you personally, for the purpose of analyzing users behavior and delivering relevant ads that are tailored to users’ interests . To cancel and/or manage this option in “Google My Activity” [click here](https://myaccount.google.com/activitycontrols?utm_source=my-activity&utm_medium=home&utm_campaign&continue=https://myactivity.google.com/myactivity?utm_campaign%3Dcontinue%26authuser%3D0)
+
+Please note that if you opt out of the use of some cookies, it may affect your activity in the site and prevent you from accessing certain parts of the site.
 
 _**Collection of information for statistical purposes**_
 
