@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakedapartments.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508093151id_/http%3A//www.zillow.com/corp/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedapartments.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231151810id_/http%3A//www.zillow.com/corp/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Zillow
 
