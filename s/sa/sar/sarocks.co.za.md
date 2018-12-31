@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarocks.co.za privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625234946id_/https%3A//buzzsouthafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarocks.co.za privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224216id_/https%3A//buzzsouthafrica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BuzzSouthAfrica - Famous People, Celebrity Bios, Updates, Trendy News
 
@@ -53,6 +53,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 ### Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us an email to  **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) **
+Should you have other questions or concerns about these privacy policies, please send us an email to  **info@alexmooremedia.com  **
 
 Effective Date: 14 November 2014
