@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianstt.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507024112id_/http%3A//cdn-2b1d.kxcdn.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianstt.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231222849id_/https%3A//cdn.christianstt.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ These third-party ad servers or ad networks use technology in their respective a
 
 christianstt.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-ï¿½
+�
 
  **Third Party Privacy Policies**  
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. christianstt.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
