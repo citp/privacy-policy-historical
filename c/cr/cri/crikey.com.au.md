@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crikey.com.au privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625030240id_/https%3A//www.crikey.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crikey.com.au privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231021838id_/https%3A//www.crikey.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Crikey
+# Privacy policy • Crikey
 
 The website www.crikey.com.au and the Crikey Daily Mail email alert are published by Private Media Pty Ltd (ACN 102 933 362) (Private Media). In this policy, “us” “we” or “our” means Private Media.
 
@@ -24,7 +24,7 @@ Private Media Pty Ltd
 Level 6, 22 William Street  
 MELBOURNE VIC 3000  
 Ph: 1800 985 502  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4f2d203c3c0f2c3d26242a36612c2022612e3a)
+Email: [boss@crikey.com.au](mailto:boss@crikey.com.au)
 
 You may use a pseudonym or not identify yourself when making such a request.
 
@@ -64,7 +64,7 @@ We will not need your consent to collect your sensitive information when:
 
 We will only collect your personal information by lawful and fair means.
 
-This includes through various browser tracking software such as “Cookies”. Cookies are small files that are transferred to your computer’s hard drive through your web browser and enable our site to recognise your browser and remember certain information. We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. You should be able to configure your computer so that it disables cookies or does not accept them. For example, some third party vendors including Google use cookies to deliver advertisements based on your prior visits to their website. You have the option to opt out of Google’s use of cookies by visiting the Google advertising opt out page [here](http://www.google.com/privacy_ads.html).
+This includes through various browser tracking software such as “Cookies”. Cookies are small files that are transferred to your computer’s hard drive through your web browser and enable our site to recognise your browser and remember certain information. We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. You should be able to configure your computer so that it disables cookies or does not accept them. For example, some third party vendors including Google use cookies to deliver advertisements based on your prior visits to their website. You have the option to opt out of Google’s use of cookies by visiting the Google advertising opt out page [here](https://www.google.com/privacy_ads.html).
 
 #### 3.6   Collection from you
 
@@ -146,7 +146,7 @@ Private Media Pty Ltd
 Level 6, 22 William Street  
 MELBOURNE VIC 3000  
 Ph: 1800 985 502  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4f2d203c3c0f2c3d26242a36612c2022612e3a)
+Email: [boss@crikey.com.au](mailto:boss@crikey.com.au)
 
 We will provide the details of that third party within a reasonable time and without charge.
 
@@ -166,7 +166,7 @@ Private Media Pty Ltd
 Level 6, 22 William Street  
 MELBOURNE VIC 3000  
 Ph: 1800 985 502  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4b292438380b283922202e3265282426652a3e)
+Email: [boss@crikey.com.au](mailto:boss@crikey.com.au)
 
 We will affect the change in a reasonable time and without charge.
 
@@ -271,7 +271,7 @@ Private Media Pty Ltd
 Level 6, 22 William Street  
 MELBOURNE VIC 3000  
 Ph: 1800 985 502  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d4f425e5e6d4e5f44464854034e4240034c58)
+Email: [boss@crikey.com.au](mailto:boss@crikey.com.au)
 
 We will endeavour to respond to your complaint within 30 days of receipt. If unresolved, the complaint may be referred to an external complaints resolution entity and finally, if necessary, taken to the Office of the Australian Information Commissioner.
 
