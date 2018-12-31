@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tabletoptactics.tv privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625104456id_/https%3A//www.tabletoptactics.tv/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabletoptactics.tv privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231101256id_/https%3A//www.tabletoptactics.tv/privacy-terms) for the most accurate reproduction.*
 
-# PRIVACY & TERMS | Tabletop Tactics
+# PRIVACY & TERMS – Tabletop Tactics
+
+* * *
 
 The following Privacy & Terms policies are in place here for users of our website.
 
