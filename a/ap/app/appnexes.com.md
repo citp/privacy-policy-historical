@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appnexes.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627001955id_/https%3A//www.appnexus.com/corporate-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appnexes.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231154244id_/https%3A//www.appnexus.com/corporate-privacy-policy) for the most accurate reproduction.*
 
 # Corporate Privacy Policy | AppNexus
 
@@ -68,6 +68,7 @@ Our cookies and web beacons are set and read for the following purposes:
 Third party cookies and web beacons may be placed on our website for the following purposes:
 
   * **Analysis of our website activity.  **We use Google Analytics cookies and web beacons to collect information related to our web traffic and to track the number of visitors visiting our website. These are tools that enable us to measure the performance of the navigation on our website and provide you with personalized marketing messages. Your interactions with these cookies and web beacons are governed by the privacy policy of the applicable third party. For more information on the cookies and web beacons used by these third parties, you can refer to their specific privacy statements listed here: <https://tools.google.com/dlpage/gaoptout>
+  * **Our Marketing Automation**. We use Marketo to collect information voluntarily provided to us by prospective clients on our site including through information requests forms and event and webinar sign-up forms.  You may request that we cease sending you any marketing communications (including by email) at any time by notifying us [here](https://www.appnexus.com/corporate-privacy-policy/form) or following any “unsubscribe” instructions included in any marketing communications which we send to you. 
 
 
 
