@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the jabong.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430153837id_/https%3A//www.jabong.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabong.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231213036id_/https%3A//www.jabong.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Jabong.com
+# Wear your style: Jabong.com
 
-[ about jabong ](https://web.archive.org/about)
+[ about jabong ](https://web.archive.org/sis/about)
 
 about jabong 
 
-[ contact ](https://web.archive.org/contact)
+[ contact ](https://web.archive.org/sis/contact)
 
 contact
 
-[ privacy policy ](https://web.archive.org/privacy_policy)
+[ privacy policy ](https://web.archive.org/sis/privacy_policy)
+
+## Privacy Policy
 
 ### 1\. Data Privacy Policy
 
@@ -67,14 +69,14 @@ contact
 
 1.24. We store small text files called Cookies in your device in order to enable various features of our apps. They are used to store user preferences and trends which can be used to improve user experience. Settings can be changed to accept or not accept Cookies in your browser settings. If you do accept a Cookie, you thereby agree to our use of any information collected by us through that Cookie. Any such information collected will only be used for improving the website experience.
 
-[ terms and conditions ](https://web.archive.org/terms_and_conditions)
+[ terms and conditions ](https://web.archive.org/sis/terms_and_conditions)
 
 terms and conditions
 
-[ vendors code of conduct ](https://web.archive.org/vendor-code-conduct)
+[ vendors code of conduct ](https://web.archive.org/sis/vendor-code-conduct)
 
 vendors code of conduct
 
-[ Offers Terms and Conditions ](https://web.archive.org/offers-terms-and-conditions)
+[ Offers Terms and Conditions ](https://web.archive.org/sis/offers-terms-and-conditions)
 
 Offers Terms and Conditions
