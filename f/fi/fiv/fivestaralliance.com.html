@@ -1,16 +1,286 @@
-<!--The following is the downloaded HTML source of the fivestaralliance.com privacy policy that was archived on 2017-10-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171002233755id_/https%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fivestaralliance.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231150223id_/https%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" class="js"><head profile="http://www.w3.org/1999/xhtml/vocab"><script async="" src="https://munchkin.marketo.net/munchkin.js"></script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" class="js"><head profile="http://www.w3.org/1999/xhtml/vocab">
+
+  <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://static.adzerk.net/ados.js" async=""></script><script type="text/javascript" async="" data-id="bec" org-id="f00000000025435" domain=".fivestaralliance.com" session-timeout="1800000" src="https://cdn.b0e8.com/conv_v3.js"></script><script type="text/javascript">
+    (function(){var gdprAppliesGlobally=false;function addFrame(){if(!window.frames['__cmpLocator']){if(document.body){var body=document.body,iframe=document.createElement('iframe');iframe.style='display:none';iframe.name='__cmpLocator';iframe.width=0;iframe.height=0;body.appendChild(iframe);}else{setTimeout(addFrame, 2);}}}addFrame();function stubCMP(){var b=arguments;__cmp.a=__cmp.a||[];if(!b.length)return __cmp.a;else if(b[0]==='ping'){b[2]({"gdprAppliesGlobally":gdprAppliesGlobally,"cmpLoaded":false},true);}else{__cmp.a.push([].slice.apply(b));}}function cmpMsgHandler(event){var msgIsString=typeof event.data==="string";var json=msgIsString?JSON.parse(event.data):event.data;if(json.__cmpCall){var i=json.__cmpCall;window.__cmp(i.command,i.parameter,function(retValue,success){var returnMsg={"__cmpReturn":{"returnValue":retValue,"success":success,"callId":i.callId}};event.source.postMessage(msgIsString?JSON.stringify(returnMsg):returnMsg,'*');});}}if(typeof(__cmp)!=='function'){window.__cmp=stubCMP;__cmp.msgHandler=cmpMsgHandler;if(window.addEventListener)window.addEventListener('message',cmpMsgHandler,false);else window.attachEvent('onmessage',cmpMsgHandler);}})();
+  </script>
+
+    <script type="text/javascript">
+if (window.BEJSSDKObserver === undefined) {
+(function(BEJSSDKObserver, $, undefined) {
+  var observer = void 0;
+  var listeners = [];
+  var doc = window.document;
+  var MutationObserver = window.MutationObserver || window.WebKitMutationObserver;
+
+  function checkSelector(selector, fn, indexList) {
+    var elements = doc.querySelectorAll(selector);
+    // issues on IE @see https://www.codesd.com/item/javascript-es6-not-a-function-error.html
+//    elements = Array.from(elements);
+    for (var i = 0, len = elements.length; i < len; i++) {
+      // -1 means all instances
+      if (indexList != -1 && !(i in indexList)) {
+        continue;
+      }
+      var element = elements[i];
+      if (!element.ready || MutationObserver==null) {
+        element.ready = true;
+         fn.call(element, element);
+      }
+    }
+  }
+
+  function checkListeners() {
+    listeners.forEach(function (listener) {
+        return checkSelector(listener.selector, listener.fn, listener.indexList);
+    });
+  }
+
+  function removeListener(selector, fn) {
+    var i = listeners.length;
+    while (i--) {
+      var listener = listeners[i];
+      if (listener.selector === selector && listener.fn === fn) {
+        listeners.splice(i, 1);
+        if (!listeners.length && observer) {
+          observer.disconnect();
+          observer = null;
+        }
+      }
+    }
+  }
+
+  /**
+   * Fire event on first js selector
+   * @param selector string to watch on
+   * @param fn       callback function
+   * @param index_list can be undefined which means only first one
+   *                   or -1 which means all
+   *                   or a list of allowable indexes
+   */
+  BEJSSDKObserver.jsElementReady = function(selector, fn, index_list) {
+    if (index_list === undefined) {
+        index_list = [];
+        index_list.push(0);
+    }
+
+    if (MutationObserver != null) {
+      if (!observer) {
+        observer = new MutationObserver(checkListeners);
+        observer.observe(doc.documentElement, {
+            childList: true,
+            subtree: true
+        });
+      }
+      listeners.push({ selector: selector, fn: fn, indexList: index_list });
+    } else {
+      // <= IE8
+      if (!document.addEventListener) {
+        // log("<=IE8 attachEvent assignment");
+        document.addEventListener = document.attachEvent;
+      }
+      document.addEventListener("DOMContentLoaded", function(event) {
+        var elements = doc.querySelectorAll(selector);
+//        elements = Array.from(elements);
+        for (var i = 0, len = elements.length; i < len; i++) {
+          // -1 means all instances
+          if (index_list != -1 && !(i in index_list)) {
+            continue;
+          }
+          var element = elements[i];
+          element.ready = true;
+          fn.call(element, element);
+        }
+      });
+    }
+
+    checkSelector(selector, fn, index_list);
+    return function () {
+      return removeListener(selector, fn);
+    };
+  }
+}(window.BEJSSDKObserver = window.BEJSSDKObserver || {}));
+}
+var jsElementReady = window.BEJSSDKObserver.jsElementReady;
+
+if (window.BELinkBlockGenerator === undefined) {
+(function(BELinkBlockGenerator, $, undefined) {
+  BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH = 100;
+  BELinkBlockGenerator.MAXIMUM_DESC_LENGTH = 200;
+
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_URL_TYPE = 0;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_HEADLINE_TYPE = 1;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_DESCRIPTION_TYPE = 2;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_IMAGE_TYPE = 3;
+
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_OVERWRITE = 0;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_POST_APPEND_ELEMENT = 1;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_ELEMENT = 2;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_PARENT = 3;
+					  
+  BELinkBlockGenerator.setMaximumHeadlineLength = function(length) {
+    BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH = length;
+  }
+
+  BELinkBlockGenerator.setMaximumDescriptionLength = function(length) {
+    BELinkBlockGenerator.MAXIMUM_DESC_LENGTH = length;
+  }
+  
+  BELinkBlockGenerator.generateIndividualLinks = function(parentElement, linkStructure, link) {
+  var link_level_element_tag = linkStructure[0];
+  var link_level_element = document.createElement(link_level_element_tag);
+  var link_attribute_dictionary = linkStructure[1];
+  var allowable_elements = linkStructure[2];
+  var children_link_structures = linkStructure[3];
+  for (var link_attribute_key in link_attribute_dictionary) {
+    link_level_element.setAttribute(link_attribute_key, link_attribute_dictionary[link_attribute_key]);
+  }
+  
+  var added_something = false;
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_URL_TYPE)>=0) {
+    link_level_element.setAttribute('href', link.url);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_HEADLINE_TYPE)>=0 && link.h1) {
+    var headline_text = link.h1;
+	if (headline_text.length > BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH) {
+      headline_text = headline_text.substring(0, BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH) + '...';
+    }						
+    var text_node = document.createTextNode(headline_text);
+	link_level_element.appendChild(text_node);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_DESCRIPTION_TYPE)>=0 && link.desc) {
+    var desc_text = link.desc;
+	if (desc_text.length > BELinkBlockGenerator.MAXIMUM_DESC_LENGTH) {
+      desc_text = desc_text.substring(0, BELinkBlockGenerator.MAXIMUM_DESC_LENGTH) + '...';
+    }
+//    console.log("Got text " + desc_text + ", max=" + BELinkBlockGenerator.MAXIMUM_DESC_LENGTH);
+    var text_node = document.createTextNode(desc_text);
+	link_level_element.appendChild(text_node);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_IMAGE_TYPE)>=0 && link.image) {
+//    console.log("added image " + JSON.stringify(allowable_elements) + " for " + link_level_element_tag);
+    link_level_element.setAttribute('src', link.image);
+	added_something = true;
+  }
+  // don't emit for empty links, desc, headline, image
+  // except for parent structures where allowable_length=0
+  if (!added_something && allowable_elements.length != 0) {
+//    console.log("did not added anything for " + link_level_element_tag);
+
+    return;
+  }
+  // go depth first
+  for (var childrenIndex=0; childrenIndex<children_link_structures.length; childrenIndex++) {
+    var childLinkStructure = children_link_structures[childrenIndex];
+    BELinkBlockGenerator.generateIndividualLinks(link_level_element, childLinkStructure, link);
+  }
+  parentElement.appendChild(link_level_element);	
+}
+
+ BELinkBlockGenerator.insertLinkBlocks = function(targetElement, replacementStrategy, overallStructure, linkStructure, links,
+                                                  titleStructure) {
+  if (targetElement == null) {
+    return;
+  }
+
+  if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_OVERWRITE) {
+    while (targetElement.firstChild) {
+      targetElement.removeChild(targetElement.firstChild);
+    }
+  }
+
+  var previousElement = targetElement;
+  for (var i=0;i<overallStructure.length;i++) {
+    var level_definition = overallStructure[i];
+    var level_element_tag = level_definition[0]
+	var level_element = document.createElement(level_element_tag);
+	var attribute_dictionary = level_definition[1]
+    for (var attribute_key in attribute_dictionary) {
+	  level_element.setAttribute(attribute_key, attribute_dictionary[attribute_key]);
+    }
+
+    // need to place title structure	
+	if (titleStructure && titleStructure[0] == i) {
+	  var title_element_tag = titleStructure[1];
+	  var title_element = document.createElement(title_element_tag);
+  	  var title_attribute_dictionary = titleStructure[2];
+	  var title_text_content = titleStructure[3];
+      for (var title_attribute_key in title_attribute_dictionary) {
+	    title_element.setAttribute(title_attribute_key, title_attribute_dictionary[title_attribute_key]);
+      }
+
+	  var title_text_node = document.createTextNode(title_text_content);
+   	  title_element.appendChild(title_text_node);
+
+	
+	  level_element.appendChild(title_element);
+    }
+	
+	// last level place links
+	if (i == overallStructure.length-1) {
+      for (var link_i=0; link_i<links.length; link_i++) {
+  	    var link = links[link_i];
+		for (var linkStructureIndex=0;linkStructureIndex<linkStructure.length; linkStructureIndex++) {
+		  BELinkBlockGenerator.generateIndividualLinks(level_element, linkStructure[linkStructureIndex], link)
+		}
+	  }
+	}
+
+	// first level child we need to check placement
+    if (previousElement == targetElement) {
+      if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_ELEMENT) {
+	    // 2 means insert right before
+  	    previousElement.insertBefore(level_element, targetElement.firstChild);
+      } else if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_PARENT) {
+	    // 3 means insert right before at parent level
+		var parentElement = previousElement.parentElement;
+  	    parentElement.insertBefore(level_element, previousElement);
+  	  } else {
+    	previousElement.appendChild(level_element);
+	  }
+    } else {
+  	  previousElement.appendChild(level_element);
+	}
+	previousElement = level_element;
+  }
+}
+}(window.BELinkBlockGenerator = window.BELinkBlockGenerator || {}));
+};
+
+</script>
+
+
+    <script>
+      (function() {
+      var bec = document.createElement('script');
+      bec.type = 'text/javascript';
+      bec.async = true;
+      bec.setAttribute("data-id", "bec");
+      bec.setAttribute("org-id", "f00000000025435");
+      bec.setAttribute("domain", ".fivestaralliance.com");
+      bec.setAttribute("session-timeout", 1800000);
+      bec.src = document.location.protocol + '//cdn.b0e8.com/conv_v3.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(bec, s);
+})();
+</script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <link rel="shortcut icon" href="/files/fivestaralliance.com/fsauitheme_favicon_0.gif" type="image/x-icon">
   <meta name="copyright" content="Five Star Alliance">
   <meta name="revisit-after" content="5">
-        <meta name="robots" content="index, follow, noodp">
-  
-  <!--[if IE]><![endif]-->
+
+      <meta name="robots" content="index, follow, noodp">
+          
+<!--[if IE]><![endif]-->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MFBR4F"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://static.adzerk.net/ados.js" async=""></script><script type="text/javascript"> var protocol = document.location.protocol == "https:" ? "https" : "http"; var z = document.createElement("script"); z.type = "text/javascript"; z.src = protocol + "://static.adzerk.net/ados.js"; z.async = true; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z,s);</script>
+    <script>
+      var protocol = document.location.protocol == "https:" ? "https" : "http"; var z = document.createElement("script"); z.type = "text/javascript"; z.src = protocol + "://static.adzerk.net/ados.js"; z.async = true; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z,s);
+    </script>
 
     <script type="text/javascript">
     var ados = ados || {};
@@ -26,95 +296,77 @@
     ados_setKeywords('Five-Star-Alliance,Five-Star-Alliance,privacy-policy,luxury-hotels,ritz,four-seasons,starwood,fairmont,london-hotels,paris-hotels,new-york-hotels,caribbean-resorts,luxury-resorts,luxury-spas,luxury-vacations,five-star-hotels,best-hotels,leading-hotels,small-luxury-hotels');
     ados_load();
     });</script>
+            <noscript>
+            <img src="//pixel.quantserve.com/pixel/p-ffPJlCfTuJiRQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+            </noscript>
 <meta name="description" content="Five Star Alliance: Search and Book Luxury Hotels Worldwide. Discover luxury, personalized recommendations, excellent rates. World class customer service, and our own satisfaction guarantee,Customer Service,In the Press,Hoteliers,Privacy Policy.">
 <meta name="keywords" content="Luxury Hotels, Ritz, Four Seasons, Starwood, Fairmont, London hotels, Paris hotels, New York hotels, Caribbean resorts, Luxury Resorts, Luxury Spas, Luxury Vacations, Five Star Hotels, Best Hotels, Leading Hotels, Small Luxury Hotels">
-<link rel="canonical" href="http://www.fivestaralliance.com/content/privacy-policy">
-<link rel="shortlink" href="http://www.fivestaralliance.com/node/27">
-<link rel="publisher" href="http://www.fivestaralliance.com/content/privacy-policy">
-  <title>Privacy Policy - Five Star Alliance</title>
-  <style type="text/css" media="all">
-@import url("/modules/system/system.base.css?ov8pwr");
-@import url("/modules/system/system.menus.css?ov8pwr");
-@import url("/modules/system/system.messages.css?ov8pwr");
-@import url("/modules/system/system.theme.css?ov8pwr");
-</style>
+<link rel="canonical" href="https://www.fivestaralliance.com/content/privacy-policy">
+<link rel="shortlink" href="https://www.fivestaralliance.com/node/27">
+<link rel="publisher" href="https://www.fivestaralliance.com/content/privacy-policy">
+  <title>Privacy Policy | Five Star Alliance</title>
+  <link type="text/css" rel="stylesheet" href="/files/fivestaralliance.com/advagg_css/css__CjqqjXlrw1_WtngbJ8zOI1dEBdV4cwlTCIe7pz84T0c__R6RyflQ6AgON4tCkYUygn3AyFO-8-Ap_6Qp6OBMrSM0__RVf53iJr76QNMo4pq8xoOw6quhQ-l_tBz0SuTeIXaVU.css" media="all">
 <style type="text/css" media="all">
-@import url("/sites/all/modules/addon/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?ov8pwr");
-@import url("/sites/all/modules/addon/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?ov8pwr");
-@import url("/sites/all/modules/addon/jquery_update/replace/ui/themes/base/minified/jquery.ui.datepicker.min.css?ov8pwr");
-@import url("/sites/all/modules/addon/date/date_popup/themes/jquery.timeentry.css?ov8pwr");
+/* <![CDATA[ */
+#sliding-popup.sliding-popup-bottom,#sliding-popup.sliding-popup-bottom .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#2c1210;}#sliding-popup.sliding-popup-bottom.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,.eu-cookie-compliance-more-button,.eu-cookie-compliance-secondary-button,.eu-cookie-withdraw-tab{color:#a2a2a2 !important;}.eu-cookie-withdraw-tab{border-color:#a2a2a2;}
+
+/* ]]> */
 </style>
-<style type="text/css" media="all">
-@import url("/sites/all/modules/addon/date/date_api/date.css?ov8pwr");
-@import url("/sites/all/modules/addon/date/date_popup/themes/datepicker.1.7.css?ov8pwr");
-@import url("/modules/field/theme/field.css?ov8pwr");
-@import url("/sites/all/modules/addon/field_hidden/field_hidden.css?ov8pwr");
-@import url("/sites/all/modules/addon/mollom/mollom.css?ov8pwr");
-@import url("/modules/node/node.css?ov8pwr");
-@import url("/modules/search/search.css?ov8pwr");
-@import url("/modules/user/user.css?ov8pwr");
-@import url("/sites/all/modules/addon/views/css/views.css?ov8pwr");
-@import url("/sites/all/modules/addon/ckeditor/css/ckeditor.css?ov8pwr");
-</style>
-<style type="text/css" media="all">
-@import url("/sites/all/themes/fsa_theme/css/admin_color.css?ov8pwr");
-@import url("/sites/all/modules/addon/ctools/css/ctools.css?ov8pwr");
-@import url("/sites/all/modules/custom/fsa_headerblock/css/headerblock.css?ov8pwr");
-@import url("/sites/all/modules/custom/fsa_checkrates/css/check_rates.css?ov8pwr");
-@import url("/sites/all/themes/fsa_theme/css/page-left189-middle-714.css?ov8pwr");
-@import url("/sites/all/modules/custom/fsa_hoteldetailblock/css/fsa_detail.css?ov8pwr");
-@import url("/sites/all/modules/addon/hide_submit/css/hide_submit.css?ov8pwr");
-</style>
-<style type="text/css" media="all">
-@import url("/sites/all/themes/fsa_theme/css/bootstrap.min.css?ov8pwr");
-@import url("/sites/all/themes/fsa_theme/css/fsa_theme.css?ov8pwr");
-@import url("/sites/all/themes/fsa_theme/css/fsa_responsive.css?ov8pwr");
-</style>
-  <script type="text/javascript" src="/files/fivestaralliance.com/advagg_js/js__lbbBxwbp9QNnXsXRnmg9agAFIaX83a0Ehir_zr7Lnac__2fby8KVQ3tGuKVnoOTYXTRKyP6IaWm_4Njl4vQ0R_vA__gL38Y3kmYJEB8Gz6YEpvgNB_R6wZLPdBf8BY6necGqI.js"></script>
-<script type="text/javascript" src="/files/fivestaralliance.com/advagg_js/js__3xIjsCS3r3uxK8wa_6S1E_QbzdiHU0izHrgdAo1rG-g__ED8LsWVycYnfggp5u3nPaLHYy7HAqLXKKwEKDoNLjiw__gL38Y3kmYJEB8Gz6YEpvgNB_R6wZLPdBf8BY6necGqI.js"></script>
-<script type="text/javascript" src="/files/fivestaralliance.com/advagg_js/js__DBgS_laTw9UrmCIIu4gUEkoKorulakbnAZuRStOmxU4__C2NxR9ODePNl-g2jEnSCrklZXub1Wzo7ndXCQumK_qY__gL38Y3kmYJEB8Gz6YEpvgNB_R6wZLPdBf8BY6necGqI.js"></script>
-<script type="text/javascript" src="/files/fivestaralliance.com/advagg_js/js__h0MK9HTp6-SAEve0arX2xg6JV6QPGVH78KSPm1x2tzU__IkCDcoUdYoRkj_WR1p3QBjzgOPOYzomkA9aOqBE0ses__gL38Y3kmYJEB8Gz6YEpvgNB_R6wZLPdBf8BY6necGqI.js"></script>
+<link type="text/css" rel="stylesheet" href="/files/fivestaralliance.com/advagg_css/css__Vzzly-6kylqRn3-FKmCXfJyEgqGqlrQOlUDsaw95vBU__VTCBW_DICIlJAHhFJMr-FcpcziGDvVpKLLE5NPBc-qw__RVf53iJr76QNMo4pq8xoOw6quhQ-l_tBz0SuTeIXaVU.css" media="all">
+  <script type="text/javascript" src="/files/fivestaralliance.com/advagg_js/js__lbbBxwbp9QNnXsXRnmg9agAFIaX83a0Ehir_zr7Lnac__RsKQwOA-5DxAjnV-TmZ9Q1C994-NpPBOwXajkxDmfSA__RVf53iJr76QNMo4pq8xoOw6quhQ-l_tBz0SuTeIXaVU.js"></script>
+<script type="text/javascript" src="/files/fivestaralliance.com/advagg_js/js__83KqQhf1KJrAJc8VYNu6eZgTMcm9d5gk32dvqZ57qhM___VKZphQ1g0R1q7NLg3c5j8TW51VAlZJ6OKVG4z51ylM__RVf53iJr76QNMo4pq8xoOw6quhQ-l_tBz0SuTeIXaVU.js"></script>
+<script type="text/javascript" src="/files/fivestaralliance.com/advagg_js/js__zT9aT6XXCWY8mAEfSk2WsOaUkl8IhgAtVTYXsfmSQSE__TOQrpciE8nC9_AAcKwWc4WItgPgfspctzGBPEzqCD6U__RVf53iJr76QNMo4pq8xoOw6quhQ-l_tBz0SuTeIXaVU.js"></script>
+<script type="text/javascript" src="/files/fivestaralliance.com/advagg_js/js__xQ1UFXCkj8XLBerVEaiyKf7td7_cvbuKJIW8vwHWyr8__db7bCTUPopLQtPh-2IL7rgkvSwofakN0weTRbaHW82Q__RVf53iJr76QNMo4pq8xoOw6quhQ-l_tBz0SuTeIXaVU.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"fsa_theme","theme_token":"CKpNdlcn6Gz77K9TY0arcbyjJd2xyQwT2rBZpcmodus","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"sites\/all\/modules\/addon\/date\/date_popup\/themes\/jquery.timeentry.css":1,"sites\/all\/modules\/addon\/date\/date_api\/date.css":1,"sites\/all\/modules\/addon\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/addon\/field_hidden\/field_hidden.css":1,"sites\/all\/modules\/addon\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/addon\/views\/css\/views.css":1,"sites\/all\/modules\/addon\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/fsa_theme\/css\/admin_color.css":1,"sites\/all\/modules\/addon\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/fsa_headerblock\/css\/headerblock.css":1,"sites\/all\/modules\/custom\/fsa_checkrates\/css\/check_rates.css":1,"sites\/all\/themes\/fsa_theme\/css\/page-left189-middle-714.css":1,"sites\/all\/modules\/custom\/fsa_hoteldetailblock\/css\/fsa_detail.css":1,"sites\/all\/modules\/addon\/hide_submit\/css\/hide_submit.css":1,"sites\/all\/themes\/fsa_theme\/css\/bootstrap.min.css":1,"sites\/all\/themes\/fsa_theme\/css\/fsa_theme.css":1,"sites\/all\/themes\/fsa_theme\/css\/fsa_responsive.css":1},"js":{"http:\/\/edge.quantserve.com\/quant.js":1,"\/\/assets.pinterest.com\/js\/pinit.js":1,"\/\/configusa.veinteractive.com\/tags\/47D9740A\/A1D0\/417E\/8425\/C41420235488\/tag.js":1,"https:\/\/app2.responseiq.com\/widgetsrc.php?widget=9YNX6ZWD6EDH\u0026widgetrnd=Math.random();":1,"sites\/all\/modules\/addon\/jquery_update\/replace\/jquery\/1.9\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/addon\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/addon\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"sites\/all\/modules\/addon\/date\/date_popup\/jquery.timeentry.pack.js":1,"sites\/all\/modules\/addon\/apachesolr_sort\/apachesolr_sort.js":1,"sites\/all\/modules\/custom\/fsa_headerblock\/js\/fsa_headerblock.js":1,"sites\/all\/modules\/addon\/date\/date_popup\/date_popup.js":1,"sites\/all\/modules\/custom\/fsa_hoteldetailblock\/js\/fsa_hoteldetailblock.js":1,"sites\/all\/modules\/addon\/hide_submit\/js\/hide_submit.js":1,"sites\/all\/modules\/custom\/fsa_checkrates\/js\/fsa_checkrates.js":1,"sites\/all\/themes\/fsa_theme\/js\/bootstrap.min.js":1,"sites\/all\/themes\/fsa_theme\/js\/fsa_theme.js":1}},"hide_submit":{"hide_submit_status":true,"hide_submit_method":"disable","hide_submit_css":"hide-submit-disable","hide_submit_abtext":"","hide_submit_atext":"","hide_submit_hide_css":"hide-submit-processing","hide_submit_hide_text":"Processing...","hide_submit_indicator_style":"expand-left","hide_submit_spinner_color":"#000","hide_submit_spinner_lines":12,"hide_submit_hide_fx":0,"hide_submit_reset_time":20000},"urlIsAjaxTrusted":{"":true},"datePopup":{"edit-re-checkin-date-datepicker-popup-0":{"func":"datepicker","settings":{"minDate":0,"changeMonth":true,"changeYear":true,"autoPopUp":"focus","closeAtTop":false,"speed":"immediate","firstDay":0,"dateFormat":"mm\/dd\/yy","yearRange":"+0:+0","fromTo":false,"defaultDate":"0y"}},"edit-re-checkout-date-datepicker-popup-0":{"func":"datepicker","settings":{"changeMonth":true,"changeYear":true,"autoPopUp":"focus","closeAtTop":false,"speed":"immediate","firstDay":0,"dateFormat":"mm\/dd\/yy","yearRange":"+0:+0","fromTo":false,"defaultDate":"0y"}}}});
-//--><!]]>
-</script>
-
-  <!-- Google Analytics Script Start -->
-    <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', "UA-215386-1", 'auto');
+  ga('create', 'UA-215386-1', 'auto');
   ga('send', 'pageview');
-  </script>
-  <!-- Google Analytics Script End -->
-<script src="https://c.compete.com/bootstrap/18c0032042ab25ca6a492989fda9220b/bootstrap.js" type="text/javascript" async=""></script><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=72984740"></script></head>
-<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-27 node-type-page">
+
+//--><!]]>
+</script>
+<script type="text/javascript" src="/files/fivestaralliance.com/advagg_js/js__nO3CW2nOUOvhijc76n94q5ZY9HDl6-CkQZ6mrp82w2M__abAE-m_fkcxsBbAE9SsK6sPCnBd2S7LRSA3uldvwZUk__RVf53iJr76QNMo4pq8xoOw6quhQ-l_tBz0SuTeIXaVU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"fsa_theme","theme_token":"zLSQsYlX3vtQ6PI3KgJV1dctWRpHrreV8rhGkYfeok8","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/addon\/date\/date_api\/date.css":1,"sites\/all\/modules\/addon\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/addon\/field_hidden\/field_hidden.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/addon\/views\/css\/views.css":1,"sites\/all\/modules\/addon\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/fsa_theme\/css\/admin_color.css":1,"sites\/all\/modules\/addon\/apachesolr_autocomplete\/apachesolr_autocomplete.css":1,"sites\/all\/modules\/addon\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/fsa_headerblock\/css\/headerblock.css":1,"sites\/all\/modules\/addon\/taxonomy_term_fields_manager\/css\/taxonomy_term_list_manager.css":1,"sites\/all\/modules\/addon\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/themes\/fsa_theme\/css\/page_common_redesign_static.css":1,"sites\/all\/modules\/custom\/fsa_hoteldetailblock\/css\/fsa_detail.css":1,"sites\/all\/modules\/addon\/hide_submit\/css\/hide_submit.css":1,"0":1,"sites\/all\/themes\/fsa_theme\/css\/bootstrap.min.css":1,"sites\/all\/themes\/fsa_theme\/css\/fsa_theme.css":1,"sites\/all\/themes\/fsa_theme\/css\/fsa_responsive.css":1},"js":{"\/\/edge.quantserve.com\/quant.js":1,"\/\/assets.pinterest.com\/js\/pinit.js":1,"sites\/all\/modules\/addon\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/modules\/addon\/jquery_update\/replace\/jquery\/1.9\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/addon\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/addon\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/addon\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/addon\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/addon\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/addon\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/addon\/ajax_error_behavior\/ajax_error_behavior.js":1,"sites\/all\/modules\/addon\/apachesolr_sort\/apachesolr_sort.js":1,"sites\/all\/modules\/addon\/apachesolr_autocomplete\/apachesolr_autocomplete_jqueryui.js":1,"sites\/all\/themes\/fsa_theme\/js\/fsa_terms_modal.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/custom\/fsa_hoteldetailblock\/js\/fsa_hoteldetailblock.js":1,"sites\/all\/modules\/addon\/hide_submit\/js\/hide_submit.js":1,"sites\/all\/themes\/fsa_theme\/js\/bootstrap.min.js":1,"sites\/all\/themes\/fsa_theme\/js\/fsa_theme.js":1}},"ajaxErrorBehavior":{"behavior":"console","error":"There was some error in the user interface, please contact the site administrator.","watchdog_url":"https:\/\/www.fivestaralliance.com\/ajax_error_behavior\/watchdog"},"apachesolr_autocomplete":{"forms":{"search-block-form":{"id":"search-block-form","path":"\/apachesolr_autocomplete_callback\/apachesolr_search_page%3Aluxury_hotels"}}},"hide_submit":{"hide_submit_status":true,"hide_submit_method":"disable","hide_submit_css":"hide-submit-disable","hide_submit_abtext":"","hide_submit_atext":"","hide_submit_hide_css":"hide-submit-processing","hide_submit_hide_text":"Processing...","hide_submit_indicator_style":"expand-left","hide_submit_spinner_color":"#000","hide_submit_spinner_lines":12,"hide_submit_hide_fx":0,"hide_submit_reset_time":20000},"urlIsAjaxTrusted":{"":true},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":1,"popup_hide_agreed":1,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EOK, I agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003EDecline\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n                    \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EOK, I agree\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003EDecline\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/content\/privacy-policy","popup_link_new_window":1,"popup_position":null,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","popup_eu_only_js":0,"cookie_lifetime":"2","cookie_session":false,"disagree_do_not_show_popup":0,"method":"opt_in","whitelisted_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":1}});
+//--><!]]>
+</script>
+
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-27 node-type-page eu-cookie-compliance-processed">
+
+<ul id="be_sdkms_capsule" style="display:none!important">
+    <li id="be_sdkms_sdk_version">be_ixf; php_sdk; php_sdk_1.4.11</li>
+    <li id="be_sdkms_capsule_connect_timer">29 ms</li>
+    <li id="be_sdkms_capsule_index_time">iy_2018; im_11; id_01; ih_05; imh_11; i_epoch:1541074266996</li>
+    <li id="be_sdkms_capsule_pub">ixf-compiler; ixf-compiler_1.0.0.0</li>
+    <li id="be_sdkms_capsule_date_modified">py_2018; pm_09; pd_10; ph_13; pmh_56; p_epoch:1536613005555</li>
+</ul>
+<ul id="be_sdkms_node" style="display:none!important">
+   <li id="be_sdkms_pub">link-block; link-block_link-block; bodystr</li>
+   <li id="be_sdkms_date_modified">pn_tstr:Mon Sep 10 13:56:45 PST 2018; pn_epoch:1536613005555</li>
+   <li id="be_sdkms_timer">0 ms</li>
+</ul>
+<!-- Start Popup Changes -->
+  <div style="clear:both;"></div>
+  <div id="custom_comman_model"></div>
+  <div style="clear:both;"></div>
+ <!-- End Popup Changes -->
+
   <div id="skip-link">
     <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
   </div>
-    <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MFBR4F"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MFBR4F');</script>
-<!-- End Google Tag Manager -->
-<!-- Quantcast and Compete removed for #967-->
-<header id="navbar" role="banner" class="col-md-12 col-sm-12 col-xs-12">
+    <header id="navbar" role="banner" class="col-md-12 col-sm-12 col-xs-12">
   <div>
     <div class="navbar-header">
       
-            
-    </div>
+          </div>
 
-          
-      <div class="col-md-12 col-sm-12 col-xs-12">        
+          <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="region region-navigation">
     <div id="block-fsa-headerblock-headerblock" class="block block-fsa-headerblock">
 
@@ -123,7 +375,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <img id="pinterest_image_pixel" height="1" width="1" alt="pinterest" src="https://ct.pinterest.com/?tid=UvmBv9cqwBC" style="display:none;"><div class="main-container container-header">
     <div id="header-left">
         <a href="/">
-                       <img class="site-logo" src="/files/fivestaralliance.com/fsaLogo.png" alt="Five Star Alliance" title="Five Star Alliance">
+                       <div class="sprite fsaLogo"></div>
                   </a>
     </div>
     <div id="header-right" class="col-xs-8">
@@ -146,31 +398,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </div>
             </div>
             <div class="header-search-box">
-                <form action="" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <h2 class="element-invisible">Search form</h2>
-    <div class="form-item form-type-textfield form-item-search-block-form">
-  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" placeholder="Search by Hotel Name or Location">
-</div>
-<div class="form-actions form-wrapper" id="edit-actions"><input class="header-search-button form-submit" type="submit" id="edit-submit" name="op" value="Search"></div><input type="hidden" name="form_build_id" value="form-W6YgdNo3Ka9tHAzCIZGNzzM6taZ3GmTPiC6itVcwz_0">
+                <form action="" method="post" id="search-block-form" accept-charset="UTF-8" class="hideSubmitButton-processed"><div><div class="container-inline">
+      <span class="element-invisible">Search form</span>
+    <div class="form-item form-type-textfield form-item-search-block-form" role="application">
+ <input placeholder="Search by Hotel Name or Location" class="edit-custom-search-block form-text form-autocomplete" type="text" id="edit-custom-search-block-id" name="search_block_form" value="" size="60" maxlength="128" autocomplete="OFF" aria-autocomplete="list"><input type="hidden" id="edit-custom-search-block-id-autocomplete" value="https://www.fivestaralliance.com/index.php?q=solr-search/autocomplete" disabled="disabled" class="autocomplete autocomplete-processed">
+<span class="element-invisible" aria-live="assertive" id="edit-custom-search-block-id-autocomplete-aria-live"></span></div>
+<div class="form-actions form-wrapper" id="edit-actions"><input class="header-search-button form-submit" type="submit" id="edit-submit" name="op" value="Search"></div><input type="hidden" name="form_build_id" value="form-RWhwC53zUwiRcEXXazAtaMw15KQFhoeW-LbR45PgnzU">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
 </div></form>            </div>
             <div class="header-social-icons">
-                 <img src="/sites/all/modules/custom/fsa_headerblock/image/header-social-icons.png" alt="header social icons" usemap="#social">
-                  <map name="social" id="social">
-                            <!--<span class="sprite logo-images-twitter"></span>-->
-                            <area alt="Twitter" title="Twitter" href="//twitter.com/#!/5StarAlliance" rel="nofollow" shape="rect" coords="1,0,20,16" target="_blank">
-                            <area alt="Facebook" title="Facebook" rel="nofollow" href="https://www.facebook.com/FiveStarAlliance" shape="rect" coords="24,0,41,16" target="_blank">
-                            <area alt="GooglePlus1" title="GooglePlus1" href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url=http://www.fivestaralliance.com' ,'' ,'');" shape="rect" coords="53,1,76,13" target="_blank">
-                </map>
+                 <ul>
+
+                 <li><a href="https://twitter.com/#!/5StarAlliance" rel="nofollow" target="_blank"><div class="sprite Twitter"></div></a></li>
+                 <li><a href="https://www.facebook.com/FiveStarAlliance" rel="nofollow" target="_blank"><div class="sprite Facebook"></div></a>
+                 </li>
+                <li><a href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url=https://www.fivestaralliance.com' ,'' ,'');" rel="nofollow"><div class="sprite google"></div></a></li>
+ </ul>
             </div>
             <div class="toggle-states header-myreservation-image text-right">
                 <a class="hoverhide" href="/luxury-hotels-reservation/show-reservation">
-                    <img src="/files/fivestaralliance.com/myreservationsUp.png" alt="My reservations">
+                    <div class="sprite myreservationsUp"></div> <!-- #1076 Sprite image changes -->
                 </a>
                 <a class="hovershow" href="/luxury-hotels-reservation/show-reservation">
-                    <img src="/files/fivestaralliance.com/myreservationsDn.png" alt="My reservations">
+                    <div class="sprite myreservationsDn"></div> <!-- #1076 Sprite image changes -->
                 </a>
             </div>
         </div>
@@ -185,29 +436,50 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div class="content">
     <div class="col-md-12 col-xs-12 col-xm-12" id="wrapper-headernav">
 <div class="desktop-menu">
-<ul class="menu-list"><li><span class="menu-item"><a href="/find-luxury-hotels" alt="Find a Hotel" title="Find a Hotel">Find a Hotel</a> </span></li>
-	<li><span class="menu-item"><a href="/content/worlds-best-luxury-hotel-home-page" alt="World's Best Hotels" title="World's Best Hotels">World's Best Hotels</a> </span></li>
-	<li><span class="menu-item"><a href="/Insider" alt="Insider Articles" title="Insider Articles">Insider Articles</a> </span></li>
-	<li><span class="menu-item"><a href="/luxury-travel-deals" alt="Luxury Travel Deals" title="Luxury Travel Deals">Luxury Travel Deals</a> </span></li>
-	<li><span class="menu-item"><a href="/luxuryvillas" alt="Find a Villa" title="Find a Villa">Find a Villa</a> </span></li>
-	<li><span class="menu-item"><a href="/#" onclick="javascript:window.open('/luxury-hotel-experts/why-reserve','luxuryhotelexperts','toolbar=no,width=720,height=500'); return false;" alt="Why Book with Us" title="Why Book with Us">Why Book with Us</a> </span></li>
-	<li><span class="menu-item"><a href="/luxury-hotel-experts/reservation-tips-faq" alt="FAQ" title="FAQ">FAQ </a> </span></li>
+<ul class="menu-list"><li>
+	<h2><span class="menu-item"><a alt="World's Best Hotels" href="/content/worlds-best-luxury-hotel-home-page" title="World's Best Hotels">World's Best Hotels</a></span></h2>
+	</li>
+	<li>
+	<h2><span class="menu-item"><a alt="Luxury Travel Deals" href="/luxury-travel-deals" title="Luxury Travel Deals">Luxury Travel Offers</a> </span></h2>
+	</li>
+	<li>
+	<h2><span class="menu-item"><a alt="Insider Articles" href="/Insider" title="Insider Articles">Insider Articles</a></span></h2>
+	</li>
+	<li>
+	<h2><span class="menu-item"><a alt="Why Book with Us" class="custom-comman-popup" href="javascript:void(0)" id="12033" title="Why Book with Us">Why Book with Us</a></span></h2>
+	</li>
+	<li>
+	<h2><span class="menu-item"><a alt="FAQ" href="/luxury-hotel-experts/reservation-tips-faq" title="FAQ">FAQ </a></span></h2>
+	</li>
+	<li>
+	<h2><span class="menu-item"><a alt="Find a Hotel" href="/find-luxury-hotels" title="Find a Luxury Hotel">Find a Luxury Hotel</a></span></h2>
+	</li>
 </ul></div>
 </div>
 
 <div class="responsive-menu">
-<ul class="menu-list"><li><span class="menu-item"><a href="/find-luxury-hotels">Find a Hotel</a> </span></li>
-	<li><span class="menu-item"><a href="/content/worlds-best-luxury-hotel-home-page">World's Best Hotels</a> </span></li>
-	<li><span class="menu-item"><a href="/Insider">Insiders Articles</a> </span></li>
-	<li><span class="menu-item"><a href="/luxury-travel-deals">Luxury Travel Deals</a> </span></li>
-	<li><span class="menu-item"><a href="/luxuryvillas">Find a Villa</a> </span></li>
-	<li><span class="menu-item"><a href="/#" onclick="javascript:window.open('/luxury-hotel-experts/why-reserve','luxuryhotelexperts','toolbar=no,width=720,height=500'); return false;" title="Why Book with Us">Why Book with Us</a></span></li>
-	<li><span class="menu-item"><a href="/luxury-hotel-experts/reservation-tips-faq">FAQ </a> </span></li>
+<ul class="menu-list"><li>
+	<h2><span class="menu-item"><a href="/content/worlds-best-luxury-hotel-home-page">World's Best Hotels</a></span></h2>
+	</li>
+	<li>
+	<h2><span class="menu-item"><a href="/luxury-travel-deals">Luxury Travel Offers</a></span></h2>
+	</li>
+	<li>
+	<h2><span class="menu-item"><a href="/Insider">Insiders Articles</a></span></h2>
+	</li>
+	<li>
+	<h2><span class="menu-item"><a class="custom-comman-popup" href="javascript:void(0)" id="12033" title="Why Book with Us">Why Book with Us</a></span></h2>
+	</li>
+	<li>
+	<h2><span class="menu-item"><a href="/luxury-hotel-experts/reservation-tips-faq">FAQ </a></span></h2>
+	</li>
+	<li>
+	<h2><span class="menu-item"><a href="/find-luxury-hotels">Find a Luxury Hotel</a></span></h2>
+	</li>
 </ul></div>
   </div>
 </div>
   </div>
-        
       </div>
       </div>
 </header>
@@ -220,40 +492,47 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           </header> <!-- /#page-header -->
 
     <div class="fsa-container">
+          <div class="basic-pages-title">
+        <div id="browse-breadcrumbs">Privacy Policy</div>        <h1>Privacy Policy</h1>
+      </div>
     
               <aside class="left-aside col-xs-12 col-sm-12" role="complementary">
             <div class="region region-sidebar-first">
-    <div id="block-block-15" class="block block-block">
+    <div id="block-block-37" class="block block-block">
 
     
   <div class="content">
-    <div class="fsahoteliersblock col-sm-12 col-xs-12 col-centered" id="popular-destination-shoulder"><!-- class = "titled-box" id="about" -->
-<h1>Five Star Alliance</h1>
+    <div class="leftitems col-sm-12 col-xs-12 col-centered">
+<div class="col-md-12 col-sm-6 col-xs-6">
+<div class="about_us_head"><img alt="" height="53" src="/files/fivestaralliance.com/header_fsa_0.JPG" width="300"></div>
 
-<div>
+<div class="about_us_links">
 <ul><li><a href="/luxury-hotel-experts/about-us">About Us</a></li>
 	<li><a href="/luxury-hotel-experts/contact-us">Contact Us</a></li>
 	<li><a href="/luxury-hotel-experts/our-team">Our Team</a></li>
 	<li><a href="/luxury-hotel-experts/press">In the Press</a></li>
-	<br><li><a href="/luxury-hotel-experts/customer-service">Customer Service</a></li>
+	<li><a href="/luxury-hotel-experts/customer-service">Customer Service</a></li>
 	<li><a href="/luxury-hotel-experts/reservation-faq">Reservation Tips/FAQ</a></li>
 	<li><a href="/luxury-hotel-perks">Complimentary Amenities</a></li>
 	<li><a href="/content/exclusive-offers">Unlock Exclusive Offers</a></li>
-	<br><li><a href="/luxury-hotel-experts/hoteliers">Hoteliers</a></li>
+	<li><a href="/luxury-hotel-experts/hoteliers">Hoteliers</a></li>
 	<li><a href="/luxury-hotel-experts/advertising">Advertising</a></li>
 	<li><a href="/luxury-hotel-experts/promote-your-hotel">Promote Your Hotel</a></li>
 	<li><a href="/luxury-hotels-worldwide/directory">Luxury Hotel Directory</a></li>
 </ul></div>
+
+<div class="about_us_bottom"><img alt="" height="20" src="/files/fivestaralliance.com/aboutus_bottom.JPG" width="300"></div>
+</div>
 </div>
 
 <div class="clear:both">&nbsp;</div>
   </div>
 </div>
   </div>
-        </aside>  <!-- /#sidebar-first -->
+           </aside>  <!-- /#sidebar-first -->
       
       <section class="middle-content col-xs-12 col-sm-12">
-                        <a id="main-content"></a>      
+                        <a id="main-content"></a>
                   <div class="region region-content">
     <div id="block-system-main" class="block block-system">
 
@@ -268,9 +547,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><div id="static-content">
 <h1>Five Star Alliance Privacy Policy</h1>
 
-<p>Last Updated 02/08/2017</p>
+<p>Last Updated 05/25/2018</p>
 
-<p><a href="//privacy.truste.com/privacy-seal/validation?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b" target="_blank"><img alt="TRUSTe" src="//privacy-policy.truste.com/privacy-seal/seal?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b" style="border: none"></a></p>
+<p><a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.fivestaralliance.com&amp;lang=en"><img src="https://seal.verisign.com/getseal?at=0&amp;sealid=2&amp;dn=www.fivestaralliance.com&amp;lang=en"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="//privacy.truste.com/privacy-seal/validation?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b" target="_blank"><img alt="TRUSTe" src="//privacy-policy.truste.com/privacy-seal/seal?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b" style="border: none"></a></p>
 
 <p>If you have questions or complaints regarding our privacy policy or practices&nbsp;you should first contact Five Star Alliance's privacy policy administrator, by phone at +1 (703) 836-0692.</p>
 
@@ -286,7 +565,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>The only personally identifiable information we collect is information that you voluntarily provide to us. This includes your email address and optional demographic information (such as zip code, gender and year of birth), collected when you sign up for our newsletter, and the information you provide to us when you book a hotel reservation. Booking information, required by hotels, includes name, address, contact information, and the credit card details used to hold a reservation.</p>
 
-<p>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputers, and enforce our agreements. If you wish to cancel your account or request that we no longer use or delete your information to provide you services <a href="http://www.fivestaralliance.com/luxury-hotel-experts/contact-us">contact us here</a>. We will respond to your request within a reasonable timeframe.</p>
+<p>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputers, and enforce our agreements. If you wish to cancel your account or request that we no longer use or delete your information to provide you services <a href="https://www.fivestaralliance.com/luxury-hotel-experts/contact-us">contact us here</a>. We will respond to your request within a reasonable timeframe.</p>
 
 <h3>How we use the information we collect</h3>
 
@@ -308,7 +587,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>The security of your personally identifiable information is important to us. When you enter sensitive information (such as your credit card number) on our reservation form, we encrypt that information using secure socket layer technology (SSL).</p>
 
-<p>Five Star Alliance uses the leading security technology available, including SSL, to protect and secure your information. We are certified by the industry-leading Verisign. To learn more about SSL, and for more information on our security certification, please click the Verisign logo.</p>
+<p>Five Star Alliance uses the leading security technology available, including SSL, to protect and secure your information. We are certified by the industry-leading TRUSTe and use the security services of <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.fivestaralliance.com&amp;lang=en" target="_blank">Norton Secured Powered by&nbsp;DigiCert</a>. DigiCert, Inc., with the acquisition of Symantec Website Security, is the leading global provider of digital certificates. To learn more about SSL, and for more information on our security certification, <a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.fivestaralliance.com&amp;lang=en" target="_blank">please click here</a> or on the Norton Secured logo.</p>
 
 <h3>Tracking Technologies</h3>
 
@@ -324,15 +603,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h3>Behavioral Targeting / Re-Targeting</h3>
 
-<p>We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our partner may use technologies such as cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by <a href="http://preferences-mgr.truste.com/">Clicking Here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p>
+<p>We partner with a third party to either display advertising on our web site or to manage our advertising on other sites. If you are outside of the EU, our partner may use technologies such as cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by <a href="http://preferences-mgr.truste.com/">CLICKING HERE</a>. Please note this does not opt you out of being served all advertising. You will still continue to receive generic ads.</p>
 
 <h3>How we share information</h3>
 
 <p>We do not share your profile with other third parties, other than the instances detailed in the following two paragraphs.</p>
 
-<p>The information you provide to us when you book a hotel reservation is delivered directly to the relevant hotel, and is not shared with any other party. This information includes your name, address, contact information, and credit card details.</p>
+<p>The information you provide to us when you book a travel reservation is delivered directly to the relevant travel supplier, and is not shared with any other party. This information includes what you've provided us when making your reservation, including your name, address, contact information, and credit card details.</p>
 
-<p>The information you provide when you sign up for our newsletter, including email address and optional demographic information (such as zip code, gender), is not shared with other parties unless you explicitly allow us to do so. All explicit agreements will be "opt-in", rather than "opt-out". This means that by default we will not share your information, unless you take an action that allows us to do so.</p>
+<p>The information you provide when you sign up for our newsletter, including email address and optional demographic information (such as zip code, gender, phone number), is not shared with other parties unless you explicitly allow us to do so. All explicit agreements will be "opt-in", rather than "opt-out". This means that by default we will not share your information, unless you take an action that allows us to do so.</p>
 
 <p>We may provide your personally identifiable information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.</p>
 
@@ -340,7 +619,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>We strive to give you full control over the information you provide to us. To unsubscribe from our newsletter and all promotional communications, we provide clear instructions on our web site (via the newsletter link found on every page). You may also unsubscribe via the link at the bottom of all emails delivered to you, or you may unsubscribe by sending us <a href="/luxury-hotel-experts/contact-us">by email</a>.</p>
 
-<p>Due to the nature of the hotel industry's Global Distribution System (GDS), it is not currently feasible to automatically update the details of a reservation over our web site. Thus, should you need to make an update to your booking information, we ask that you <a href="/luxury-hotel-experts/contact-us">contact us</a>. We will be happy to assist you. You may reach us by phone at +1 (703) 836-0692, and links to <a href="/luxury-hotel-experts/contact-us">our contact information</a>, are provided on every page of our site.</p>
+<p>Due to the nature of the travel industry's inventory systems, including the Global Distribution System (GDS), it is not currently feasible to automatically update the details of a reservation over our web site. Thus, should you need to make an update to your booking information, we ask that you <a href="/luxury-hotel-experts/contact-us">contact us</a>. We will be happy to assist you. You may reach us by phone at +1 (703) 836-0692, and links to <a href="/luxury-hotel-experts/contact-us">our contact information</a>, are provided on every page of our site.</p>
 
 <h3>Links to 3rd Party Sites</h3>
 
@@ -348,7 +627,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h3>Social Media Widgets</h3>
 
-<p>Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+<p>Our web site may include social media features such as the "share this button" or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social Media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.</p>
 
 <h3>Changes to this policy</h3>
 
@@ -361,13 +640,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>If you have any questions or suggestions regarding our privacy policy, please contact us at:</p>
 
 <p>Five Star Alliance<br>
-1900 L Street NW, 4th Floor<br>
+1050 Connecticut Avenue NW #65462<br>
 Washington, DC 20036 USA<br>
-+1 (703) 836-0692<br><a href="http://www.fivestaralliance.com/">http://www.fivestaralliance.com/</a></p>
++1 (703) 836-0692<br><a href="https://www.fivestaralliance.com/">https://www.fivestaralliance.com/</a></p>
 
 <p>&nbsp;</p>
 
 <p><a href="//privacy.truste.com/privacy-seal/validation?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b" target="_blank"><img alt="TRUSTe" src="//privacy-policy.truste.com/privacy-seal/seal?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b" style="border: none"></a></p>
+
+<p><a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.fivestaralliance.com&amp;lang=en"><img src="https://seal.verisign.com/getseal?at=0&amp;sealid=2&amp;dn=www.fivestaralliance.com&amp;lang=en"></a></p>
 </div>
 </div></div></div>    </div>
  </div>
@@ -376,7 +657,11 @@ Washington, DC 20036 USA<br>
   </div>
       </section>
 
-      
+
+                  <aside class="right-aside col-xs-12 col-sm-12" role="complementary">
+            
+          </aside>  <!-- /#sidebar-second -->
+        
     </div>
   </div>
 </div>
@@ -384,69 +669,22 @@ Washington, DC 20036 USA<br>
   <div class="site-footer col-md-12 col-sm-12 col-xs-12">
     <footer class="footer">
         <div class="region region-footer">
-    <div id="block-block-26" class="block block-block">
-
-    
-  <div class="content">
-    
-<!-- Marketo script Start --><script type="text/javascript">
-<!--//--><![CDATA[// ><!--
-
-(function ($) {
-$.ajax({
-  url: document.location.protocol + '//munchkin.marketo.net/munchkin.js',
-  dataType: 'script',
-  cache: true,
-  success: function() {
-    Munchkin.init('412-KMT-576');
-  }
-});
-})(jQuery);
-
-//--><!]]>
-</script><!-- Marketo script end --><script>
-<!--//--><![CDATA[// ><!--
-
-(function ($) {
-$(window).resize(function(){
-
-	if ($(window).width() <= 1280) {  
-		$(window).scroll(function(){
-		if ($(this).scrollTop() > 100) {
-			$('.scrollToTop').fadeIn();
-		} else {
-			$('.scrollToTop').fadeOut();
-		}
-		});
-
-		//Click event to scroll to top
-		$('.scrollToTop').click(function(){
-		$('html, body').animate({scrollTop : 0},800);
-		return false;
-		});
-
-	}
-  
-});
-})(jQuery);
-
-//--><!]]>
-</script>  </div>
-</div>
-<div id="block-block-4" class="block block-block">
+    <div id="block-block-4" class="block block-block">
 
     
   <div class="content">
     <div class="main-container">
-<div class="footer-left col-sm-12 col-xs-12" id="footer-content-left"><a href="/"><img alt="Five Star Alliance" src="/files/fivestaralliance.com/footerLogo.png" style="float: left; width: 197px; height: 123px;" title="Five Star Alliance"></a></div>
+<div class="footer-left col-sm-12 col-xs-12" id="footer-content-left">
+<div class="sprite footerLogo"><a href="/">&nbsp;</a></div>
+</div>
 
 <div class="footer-main col-sm-12 col-xs-12" id="footer-content-main">
-<ul><li><a href="/find-luxury-hotels" title="Find a Hotel">Find a Hotel</a></li>
-	<li><a href="/best/index" title="World's Best Hotels">World's Best Hotels</a></li>
+<ul><li><a href="/best/index" title="World's Best Hotels">World's Best Hotels</a></li>
+	<li><a href="/luxury-travel-deals" title="Luxury Travel Offers">Luxury Travel Offers</a></li>
 	<li><a href="/Insider" title="Insider Articles">Insider Articles</a></li>
-	<li><a href="/luxury-travel-deals" title="Luxury Travel Deals">Luxury Travel Deals</a></li>
-	<li><a href="/luxuryvillas" title="Find a Villa">Find a Villa</a></li>
 	<li><a href="/#" onclick="javascript:window.open('/luxury-hotel-experts/why-reserve','luxuryhotelexperts','toolbar=no,width=720,height=500'); return false;" title="Why Book with Us">Why Book with Us</a></li>
+	<li><a href="/find-luxury-hotels" title="Find a Luxury Hotel">Find a Luxury Hotel</a></li>
+	<li><a href="http://trending.fivestaralliance.com" target="_blank" title="Luxury Travel Trending Topics">Luxury Travel Stories</a></li>
 </ul></div>
 
 <div class="footer-main2 col-sm-12 col-xs-12" id="footer-content-main2">
@@ -461,12 +699,22 @@ $(window).resize(function(){
 <div class="footer-main1 col-sm-12 col-xs-12" id="footer-content-main1">
 <h3>Follow Us</h3>
 
-<ul><li><a href="http://twitter.com/#!/5StarAlliance" rel="nofollow" target="_blank"><img alt="Twitter" src="/files/fivestaralliance.com/Twitter.png" style="width: 19px; height: 19px;" title="Twitter"></a></li>
-	<li><a href="https://www.facebook.com/FiveStarAlliance" rel="nofollow" target="_blank"><img alt="Facebook" src="/files/fivestaralliance.com/Facebook.png" style="width: 19px; height: 19px;" title="Facebook"></a></li>
-	<li><a href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url=http://www.fivestaralliance.com' ,'' ,'');" rel="nofollow"><img alt="Goole+1" src="/files/fivestaralliance.com/google.png" style="width: 28px; height: 18px;" title="Google+1"></a></li>
-	<li id="pinterest_pinit"><a data-pin-do="buttonFollow" href="http://www.pinterest.com/5staralliance/">5StarAlliance</a></li>
-	<li><a href="http://instagram.com/fivestaralliance?ref=badge" rel="nofollow" target="_blank"><img alt="Instagram" src="/files/fivestaralliance.com/instagram.png" style="width: 20px; height: 20px;" title="Instagram"></a></li>
-	<li><a href="http://fivestaralliance.tumblr.com/" rel="nofollow" target="_blank"><img alt="tumblr" src="/files/fivestaralliance.com/tumblr.png" style="width: 20px; height: 20px;" title="tumblr"></a></li>
+<ul><li>
+  <a href="https://twitter.com/#!/5StarAlliance" rel="nofollow" target="_blank"><div class="sprite Twitter">&nbsp;</div></a>
+  </li>
+  <li>
+  <a href="https://www.facebook.com/FiveStarAlliance" rel="nofollow" target="_blank"><div class="sprite Facebook">&nbsp;</div></a>
+  </li>
+  <li>
+  <a href="javascript:void(0)" onclick="window.open('https://plus.google.com/share?url=https://www.fivestaralliance.com' ,'' ,'');" rel="nofollow"><div class="sprite google">&nbsp;</div></a>
+  </li>
+  <li id="pinterest_pinit"><a data-pin-do="buttonFollow" href="https://www.pinterest.com/5staralliance/">5StarAlliance</a></li>
+  <li>
+  <a href="https://instagram.com/fivestaralliance?ref=badge" rel="nofollow" target="_blank"><div class="sprite instagram">&nbsp;</div></a>
+  </li>
+  <li>
+  <a href="https://fivestaralliance.tumblr.com/" rel="nofollow" target="_blank"><div class="sprite tumblr">&nbsp;</div></a>
+  </li>
 </ul></div>
 
 <div class="footer-right col-sm-12 col-xs-12" id="footer-content-right"><span id="footer-content-right-span">24 HR SERVICE</span> <span id="footer-content-right-span1"> <a href="tel:+1-888-578-2711" id="bottom_tel_first" rel="nofollow">+1-(888)-578-2711</a> <span id="footer-content-right-span2"> or</span> </span><br><a href="tel:+1-703-836-0692" id="bottom_tel_second" rel="nofollow">+1-(703)-836-0692</a></div>
@@ -502,70 +750,63 @@ document.getElementById("copyrightyear").innerHTML = "© "+(dt.getFullYear())+" 
 </script></div>
 </div>
 </div>
-
-
   </div>
 </div>
   </div>
     </footer>
   </div>
-  <script type="text/javascript" async="async">
+  <!--
+   be_sdkms_pub: bec-built-in; bec-built-in_1.0.1; bodystr;
+   be_sdkms_date_modified: pn_tstr:Thu Nov 01 05:11:06 PST 2018; pn_epoch:1541074266996;
+   be_sdkms_timer: 0 ms;
+-->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function euCookieComplianceLoadScripts() {}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var eu_cookie_compliance_cookie_name = "";
+//--><!]]>
+</script>
+<script type="text/javascript" async="async">
 <!--//--><![CDATA[//><!--
             _qoptions={
             qacct:"p-ffPJlCfTuJiRQ"
             };
 //--><!]]>
 </script>
-<script type="text/javascript" src="//edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-            <noscript>
-            <img src="http://pixel.quantserve.com/pixel/p-ffPJlCfTuJiRQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-            </noscript>
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-    __compete_code = '18c0032042ab25ca6a492989fda9220b';
-    (function () {
-        var s = document.createElement('script'),
-            d = document.getElementsByTagName('head')[0] ||
-                document.getElementsByTagName('body')[0],
-            t = 'https:' == document.location.protocol ?
-                'https://c.compete.com/bootstrap/' :
-                'http://c.compete.com/bootstrap/';
-        s.src = t + __compete_code + '/bootstrap.js';
-        s.type = 'text/javascript';
-        s.async = 'async';
-        if (d) { d.appendChild(s); }
-    }());
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-    (function ($) {
-            window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'72984740'||'',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn);},0);},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json);},1);}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn);}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn);}else{this._defL=this._defL||[];this._defL.push(fn);}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id);},0);},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site;}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id);}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s);},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady');});}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady');},false);window.addEventListener('load',function(){that._domReady('domReady');},false);}if(typeof(window._lptStop)=='undefined'){this.load();}},start:function(){this.autoStart=true;},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n});}this._timing[n]=(new Date()).getTime();},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init();}else{window.lpTag._tagCount+=1;}
-    })(jQuery);
-//--><!]]>
-</script>
+<script type="text/javascript" async="async" src="//edge.quantserve.com/quant.js"></script>
 <script type="text/javascript" defer="defer" src="//assets.pinterest.com/js/pinit.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-    (function ($) {
-      (function ()
-      { var protocol = "https:" == document.location.protocol ? 'https:' : 'http:';
-      var pixelid;
-      if (protocol == 'https:')
-      { pixelid = "2541042    "; }
-      else pixelid = "2541043";
-      new Image().src = protocol + "//" + "ads.yahoo.com/pixel?id=" + pixelid + "&t=2"; }
-      )();
-  })(jQuery);
+<script type="text/javascript" src="/files/fivestaralliance.com/advagg_js/js__curigywfMBcPsW_lx5ISqRe4y-xHCOpuB_hcS1TPf88__lZX47qo3xH-JwRuccS_HU9-HkfCN7ryAJpl-9iFxwJY__RVf53iJr76QNMo4pq8xoOw6quhQ-l_tBz0SuTeIXaVU.js"></script>
+  
+<ul id="be_sdkms_capsule" style="display:none!important">
+    <ul id="be_sdkms_capsule_messages">
+    <!-- ixf_msg: CM headstr node, feature_group head_1 -->
+    <!-- ixf_msg: CM bodystr node, feature_group body_1 -->
+    </ul>
+    <li id="be_sdkms_sdk_version">be_ixf; php_sdk; php_sdk_1.4.11</li>
+    <li id="be_sdkms_original_url">https://www.fivestaralliance.com/content/privacy-policy</li>
+    <li id="be_sdkms_normalized_url">https://www.fivestaralliance.com/content/privacy-policy</li>
+</ul>
 
-//--><!]]>
-</script>
-<script type="text/javascript" src="//configusa.veinteractive.com/tags/47D9740A/A1D0/417E/8425/C41420235488/tag.js"></script>
-<script type="text/javascript" src="https://app2.responseiq.com/widgetsrc.php?widget=9YNX6ZWD6EDH&amp;widgetrnd=Math.random();"></script>
+    <script>
+    window.fcWidget.init({
+      token: "63a6d5cb-0fbe-4662-8eb6-123deeaa1545",
+      host: "https://wchat.freshchat.com"
+    });
+  </script>
+  
 
-
-</body></html>
+<div id="sliding-popup" class="sliding-popup-bottom" style="height: auto; width: 100%; bottom: -21.9339px;"><div>
+  <div class="popup-content info">
+    <div id="popup-text">
+      <h2>We use cookies on this site to enhance your user experience</h2><p>By clicking any link on this page you are giving your consent for us to set cookies.</p>              <button type="button" class="find-more-button eu-cookie-compliance-more-button find-more-button-processed">More info</button>
+          </div>
+    <div id="popup-buttons">
+      <button type="button" class="agree-button eu-cookie-compliance-default-button">OK, I agree</button>
+              <button type="button" class="decline-button eu-cookie-compliance-secondary-button">Decline</button>
+          </div>
+  </div>
+</div></div><iframe name="__cmpLocator" width="0" height="0" style="display: none;"></iframe></body></html>
