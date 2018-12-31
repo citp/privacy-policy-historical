@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flashtalking.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629113007id_/http%3A//www.flashtalking.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashtalking.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224647id_/http%3A//www.flashtalking.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - Flashtalking
 
-_Last Updated: June 22, 2018_
+_Last Updated: November 07, 2018_
 
 ## **Overview**
 
@@ -12,13 +12,15 @@ Flashtalking does not create consumer profiles or audiences, and never brokers o
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy. We encourage you to check back regularly to stay informed about our information practices and the choices available to you.
 
-To learn about how Flashtalking meets the requirements of the European Union’s General Data Privacy Regulation (GDPR), please visit https://www.flashtalking.com/gdpr/
+To learn about how Flashtalking meets the requirements of the European Union’s General Data Privacy Regulation (GDPR), please visit <https://www.flashtalking.com/gdpr/>
 
 Flashtalking is a member of the Network Advertising Initiative (NAI) and adheres to NAI Codes of Conduct as well as the Digital Advertising Alliance’s Self-Regulatory Principles.
 
+Flashtalking complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States.  Flashtalking has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
 ### **Cookies and Other Tracking Technologies used by the Flashtalking Platform**
 
-Flashtalking’s platform uses various technologies to collect information, including cookies, web beacons, web storage, advertising device identifiers, and similar technologies. Cookies are small data files stored on your hard drive or in device memory that help to recognize that the same device has been seen before, and where, in the context of a client’s ad campaign.  This helps indicate if an ad is effective for the advertiser, and helps the advertiser tailor messages, offers, recommendations, and promoted content to your preferences over time. For example, once and ad has been bought, a client may use our technology to show you ads that they think will be of particular interest based on your web browsing activity. The Flashtalking platform may also collect information using web beacons (also known as “tracking pixels”). Web beacons are electronic images that may be used in our Services and help perform a variety of functions, including delivering cookies, counting visits, and understanding usage.
+Flashtalking’s platform uses various technologies to collect information, including cookies, web beacons, web storage, advertising device identifiers, and similar technologies. Cookies are small data files stored on your hard drive or in device memory that help to recognize that the same device has been seen before, and where, in the context of a client’s ad campaign.  This helps indicate if an ad is effective for the advertiser, and helps the advertiser tailor messages, offers, recommendations, and promoted content to your preferences over time. For example, once and ad has been bought, a client may use our technology to show you ads that they think will be of particular interest based on your web browsing activity. The Flashtalking platform may also collect information using web beacons (also known as “tracking pixels”). Web beacons are electronic images that may be used in our Services and help perform a variety of functions, including delivering cookies, counting visits, and understanding usage.
 
 Non-cookie technologies can also be used to recognize your device in order to show you ads that are tailored to your interests and to understand how you interact with the ads we show. For example, your device might be identified through the IP address from which you interact with the Services and the user agent string broadcast by your browser or device. For more information about the choices available to you with respect to our use of information about your browser or device for interest-based advertising purposes, please see “Your Choices” below.
 
@@ -41,7 +43,7 @@ We take reasonable measures to help protect the information we collect from loss
 
 ## **Retention of Information**
 
-Flashtalking retains information for a period of time per type of data based on Legitimate business need, Contractual obligations, and Consent.  Please request a copy of our Information Retention Policy by emailing [privacy@flashtalking.com](mailto:privacy@flashtalking.com&subject=Privacy%20Policy).
+Flashtalking retains information for a period of up to 60 months per type of data based on Legitimate business need, Contractual obligations, and Consent. Please request a copy of our Information Retention Policy by emailing [privacy@flashtalking.com](mailto:privacy@flashtalking.com&subject=Privacy%20Policy).
 
 IP Addresses – the last octet is purged for DE residents prior to any collection.
 
@@ -63,11 +65,31 @@ You have the right to complain to a Data Protection Authority about our or our c
 
 http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm
 
-If you wish to have third party dispute resolution or binding arbitration, we utilize the service of JAMS – www.jamsadr.com.
+In compliance with the Privacy Shield Principles, Flashtalking commits to resolve complaints about our collection or use of your personal information.  Flashtalking is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).  Flashtalking may disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+In the cases of onward transfer to third parties, Flashtalking will remain liable under the Principals if its agents processes such personal information in a manner inconsistent with the Principals, unless Flashtalking proves that it is not responsible for the event giving rise to the damage.
+
+Flashtalking will either:
+
+Enter into a contract with the third-party controller that says data may only be processed for limited and specified purposes consistent with the consent provided by the individual, and that the recipient will provide the same level of protection as the Principles, or
+
+Transfer data only for limited and specific purpose, ascertain agent’s level of data protection is provided is at least at the same level of privacy protection, take reasonable and appropriate steps to ensure agent effectively processes the personal information transferred in a manner consistent with Flashtalking’s obligations, upon notice, take reasonable and appropriate steps to halt processing and provide a summary of relevant privacy provisions of the contract with that agent upon request.
+
+EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Flashtalking at:
+
+[DPO@flashtalking.com](mailto:DPO@flashtalking.com)
+
+Flashtalking has further committed to refer unresolved Privacy Shield complaints to:
+
+JAMS  –<https://www.jamsadr.com/eu-us-privacy-shield>, an alternative dispute resolution provider located in the United States.
+
+Under certain conditions, individuals may invoke binding arbitration through the Privacy Shield Panel.
+
+If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact [DPO@flashtalking.com](mailto:DPO@flashtalking.com) for more information or to file a complaint.  The services of JAMS and the Privacy Shield Panel are provided at no cost to you.
 
 **If you are an online consumer, please continue reading below.  
- **If you are a commercial visitor to our website, pleaseclick here **.**  
- **If you are an authorized user of our ad technology platform, pleaseclick here **.********
+**If you are a commercial visitor to our website, pleaseclick here **.**  
+**If you are an authorized user of our ad technology platform, pleaseclick here **.********
 
 ## **_Privacy Policies Pertaining to Online Consumers_**
 
@@ -102,7 +124,7 @@ When administering the website, Flashtalking acts as a data controller.  While 
 
 ## **Use of Information**
 
-We use the information we collect to help our clients understand how their ads are performing, to serve ads that are targeted to your interests, and to understand, measure, and report on how users interact with the Services. We also use the information we collect from the Service to maintain and constantly improve upon the Services.
+We use the information we collect to help our clients understand how their ads are performing, to serve ads that are targeted to your interests, and to understand, measure, and report on how users interact with the Services. We may engage in cross-device data collection for the purposes of measurement and/or personalization. We may also use the information we collect from the Service to maintain and constantly improve upon the Services.
 
 ## **Your Choices**
 
