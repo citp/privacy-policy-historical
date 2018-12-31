@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openx.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629112737id_/https%3A//www.openx.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openx.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224612id_/https%3A//www.openx.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenX
 
@@ -75,7 +75,7 @@ We will disclose contact and billing information to third parties only as descri
 
   * with your express permission;
   * with our affiliates, which include entities controlling, controlled by, or under common control with OpenX;
-  * where we contract with third parties to provide certain services, such as advertising, analytics, data management services, web hosting, and web development ( **“Service Providers”** ). We ask Service Providers to confirm that their privacy and security practices are consistent with ours, we provide our Service Providers with only the information necessary for them to perform the services we request, and Service Providers are prohibited from using such information for purposes other than as specified by OpenX. The following Service Providers are considered subprocessors for the OpenX website (the subprocessors for the Services are available in the [OpenX Community](https://community.openx.com/s/)): 
+  * where we contract with third parties to provide certain services, such as advertising, analytics, data management services, web hosting, and web development ( **“Service Providers”** ). We ask Service Providers to confirm that their privacy and security practices are consistent with ours, we provide our Service Providers with only the information necessary for them to perform the services we re-quest, and Service Providers are prohibited from using such information for purposes other than as specified by OpenX. The following Service Providers are considered processors for the OpenX website (the processors for the Services are available in the [OpenX Community](https://community.openx.com/s/)): 
 
 
 
