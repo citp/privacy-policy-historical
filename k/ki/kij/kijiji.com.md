@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the kijiji.com privacy policy that was archived on 2018-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180504102621id_/https%3A//help.kijiji.ca/helpdesk/policies/kijiji-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kijiji.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231134020id_/https%3A//help.kijiji.ca/helpdesk/policies/kijiji-privacy-policy) for the most accurate reproduction.*
 
 # Kijiji Privacy Policy | Kijiji Helpdesk
 
- 
-
 **Privacy Policy for Kijiji Canada**
 
- 
-
- **Updated: September 27, 2017**
+   
+ **Updated: November 26, 2018**
 
 Table of contents 
 
@@ -26,7 +23,7 @@ Table of contents
 
 **1.  General **
 
-This privacy policy describes the policy of Kijiji Canada regarding the collection, use, storage, sharing and protection of your personal information ("Privacy Policy"). This Privacy Policy applies to the www.kijiji.ca website ("Kijiji" or "Website") and all related websites, applications, services and tools where reference is made to this policy ("Services"), regardless of how you access the Services, including access through mobile devices. Kijiji Canada Ltd. is the data controller. 
+This privacy policy describes the policy of Kijiji Canada regarding the collection, use, storage, sharing and protection of your personal information ("Privacy Policy"). This Privacy Policy applies to the [www.kijiji.ca ](https://www.kijiji.ca/)and [www.kijijiautos.ca](https://www.kijijiautos.ca/) websites (together, "Kijiji" or "Website") and all related websites, applications, services and tools where reference is made to this policy ("Services"), regardless of how you access the Services, including access through mobile devices. Kijiji Canada Ltd. is the data controller.
 
 **Scope and consent:** By using Kijiji and related Services, you give explicit consent to Kijiji for the collection, use, disclosure and retention of your personal information by us, as described in this Privacy Policy and our Terms of Use. 
 
