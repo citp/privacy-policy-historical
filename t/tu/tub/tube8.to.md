@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tube8.to privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613002359id_/http%3A//www.tube8.to/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tube8.to privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231030651id_/http%3A//www.tube8.to/privacy) for the most accurate reproduction.*
 
 # tube8.to - free porn videos
 
@@ -52,4 +52,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 YOUR RIGHTS 
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at info[at]tube8.to 
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at admin@tube8.to 
