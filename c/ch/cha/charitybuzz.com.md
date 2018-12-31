@@ -1,125 +1,195 @@
-> *The following text is extracted and transformed from the charitybuzz.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625035003id_/https%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charitybuzz.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231030828id_/https%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.*
 
 # Charitybuzz: Privacy
 
-Your privacy is extremely important to Charitybuzz. We have developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information on this website www.charitybuzz.com. Please take a moment to familiarize yourself with our privacy practices and if you have any questions please direct them to [privacy@charitybuzz.com](mailto:privacy@charitybuzz.com)
+**Charitybuzz Privacy Policy**
 
-## COLLECTION AND USE OF PERSONAL INFORMATION (PI)
+**Last Updated: 6/27/2018**
 
-Personal Information (PI) is data that can be used to uniquely identify or contact a single person.
+Charitybuzz, LLC ("Company," “we,” or “us”) is committed to protecting the privacy of your personal data. It's yours, it matters to you, and we get that. This Privacy Policy lets you know what information we gather via charitybuzz.com (the “Site”) and the services available via the Site (“Services”), and how we use and share that information. If you disagree with anything in this Privacy Policy, you should not use the Site or Services.
 
-You may be asked to provide your personal information anytime you are in contact with Charitybuzz. Our company may share this personal information with affiliate or partnering non profits and corporations consistent with this Privacy Policy. Charitybuzz may also combine it with other information to provide and improve our products, advertisement services, content and customer service.
+**If you are located outside the US, you understand and agree that any personal data you submit is sent to our servers in the US.  See more details below under** **_Non-U.S. Users_**
 
-Here are some examples of the types of personal information Charitybuzz may collect and how we may use it.
+**LIST OF TOPICS WITH LINKS**
 
-## WHAT PERSONAL INFORMATION WE COLLECT
+1\.     INFORMATION WE COLLECT
 
-  * When you create a Charitybuzz account, register your credit card, apply for, purchase a product, register for an email newsletter at the Charitybuzz.com website, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences, and credit card information.
-  * When you share your content with family and friends using Charitybuzz products, send gift certificates and products, or invite others to join you on Charitybuzz, Charitybuzz may collect the information you provide about those people such as name, mailing address, email address, and phone number. Email addresses will be collected via forms on www.Charitybuzz.com; any other information will be collected via an offline manner. This information is only used to redeem auction lots and is then disposed of, beyond financial and shipping record keeping.
-  * In the US we may ask for your Social Security number (SSN) but only in limited circumstances such as when setting up a background check for the high profile celebrity experiences when determining and ensuring safety of our partnering celebrities. We do not store this information in our system but we may share this information with your written permit with a certified third party completing the background check. This information will be collected in an offline manner.
+2\.     HOW WE USE INFORMATION WE COLLECT
 
+3\.     COOKIES, WEB BEACONS AND INTEREST-BASED ADVERTISING
 
+4\.     HOW AND WITH WHOM WE SHARE INFORMATION
 
-## HOW WE USE YOUR PERSONAL INFORMATION
+5\.     LEGAL BASIS FOR PROCESSING PERSONAL DATA 
 
-  * The personal information we collect allows us to keep you posted on Charitybuzz's latest product announcements, software updates, and upcoming events. It also helps us to improve our services, content, and advertising. 
-  * From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with Charitybuzz, you may not opt out of receiving these communications.
-  * We may also use personal information for internal purposes such as auditing, data analysis, and research to improve Charitybuzz's products, services, and customer communications.
+6\.     CHILDREN
 
+7\.     SOCIAL NETWORKING AND THIRD-PARTY SITES
 
+8\.     SECURITY
 
-## COLLECTION AND USE OF NON-PERSONAL INFORMATION (NPI)
+9\.     NON-U.S.USERS
 
-We also collect non-personal information − data in a form that does not permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it:
+10\.  RETENTION OF INFORMATION
 
-  * We may collect information such as occupation, language, zip code, area code, unique device identifier, location, and the time zone where Charitybuzz services are used so that we can better understand customer needs, assist celebrities and improve our products, services, and advertising.
+11\.  YOUR RIGHTS AND CHOICES
 
+12\.  CONTACT US
 
+12\.  UPDATES TO THIS PRIVACY POLICY
 
-If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
+**1. INFORMATION WE COLLECT**
 
-## COOKIES AND OTHER TECHNOLOGIES
+a.      _Information You Provide:_  If you open an account, make a purchase, donate to a charity, take part in an auction or other offer, or otherwise communicate with us via the Site or Services, we collect the information you submit. To register to use the Services, you may be asked to provide personal data, such as name, email address, postal address, telephone number, or other similar information. You do not have to provide this data. But without it you may not be able to create an account or enter into transactions via the Site or Services. 
 
-Technologies such as: cookies, beacons, tags and scripts are used by Charitybuzz and our partners [marketing partners], affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+b.      _Information You Post:_ If you post information on public areas of the Services, that information may be collected and used by us, by other users of the Services, and by the public generally.  We suggest you avoid posting personal data in such areas.
 
-We use Cookies to help us understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of advertisements and web searches. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+c.      _Other Information_ : Your interactions with us may also include the following types of data:
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
+          i. If you contact us, we may keep a record of that correspondence.
 
-We do not link this automatically collected data to other information we collect about you.
+         ii.  We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-We use Local Storage Objects (LSOs) such as HTML5 to store your preferences such as volume control or high game score, etc. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5. To learn how to manage privacy and storage settings for Flash cookies [ click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+        iii.    Details of transactions you carry out through our Site and of the fulfilment of such transactions, including your credit/debit card details.
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union [click here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+        iv.   Details of your visits to our Site including, but not limited to, traffic data, location data, weblogs and other communication data.
 
-## DISCLOSURE TO THIRD PARTIES
+         v. We may collect information about your computer or mobile device, including, where available your IP address, device type/ID, operating system and browser type.
 
-At times Charitybuzz may make certain personal information available to strategic partners that work with Charitybuzz to provide products and services, or that help Charitybuzz market to customers. Charitybuzz shares personal information with companies who provide services such as information processing, shipping, fulfilling customer orders, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, and conducting customer research or satisfaction surveys. These companies are obligated to protect your information and may be located wherever Charitybuzz operates. We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+        vi.   Publicly available personal data, including data you have shared via a public platform such as Twitter or Facebook.
 
-## OTHERS
+       vii.      Our Site uses may use cookies, web beacons, pixel tags and other technologies to distinguish you from other users of our website, to help you have a good experience on our site, and for other purposes.  See more details under **_Cookies, Web Beacons and Interest-Based  Advertising_** below.
 
-It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Charitybuzz to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.
+**2. HOW WE USE INFORMATION WE COLLECT**. **** We use personal data and other information we receive to:
 
-We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our user agreement or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party. You will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices you may have regarding your personal information.
+a.     fulfill your requests for Services and validate your user rights;
 
-## PROTECTION OF PERSONAL INFORMATION
+b.     contact and communicate with you;
 
-Charitybuzz takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.
+c.     customize the content and advertising you see when using the Services;
 
-## INTEGRITY AND RETENTION OF PERSONAL INFORMATION
+d.     conduct research and analysis on the use of our Site and Services;
 
-Charitybuzz makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+e.     provide anonymous reporting for internal and external clients;
 
-## ACCESS TO PERSONAL INFORMATION
+f.      notify you about changes to our Site or Services;
 
-You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at www.Charitybuzz.com and click on the account login. For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if Charitybuzz is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made directly via email to [privacy@Charitybuzz.com](mailto:privacy@Charitybuzz.com). We will respond to your request to access within 30 days.
+g.     operate, evaluate and improve our business ( _e.g.,_ developing or improving new products and/or services; analyzing our customer base; and performing accounting, auditing and other internal functions);
 
-## CHILDREN
+h.     diagnose problems with our server, monitor visitor traffic patterns and site usage to help us develop and improve our site further;
 
-We do not knowingly collect personal information from children under 16. If we learn that we have collected the personal information of a child under 16 year of age we will take steps to delete the information as soon as possible.
+i.       comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations, and our policies; and
 
-## SECURITY
+j.       provide you with additional information we think is of interest to you.
 
-Charitybuzz.com is a Thawte® secured website and uses a Thawte® SSL Certificate for encryption. Customer data is securely transmitted by Charitybuzz.com to non-affiliated third-parties as permitted by this privacy policy or by law and to service providers through a combination of encryption techniques and other privacy protection measures. Selected NPI submitted through the Charitybuzz.com website such as your debit or credit card numbers, expiration dates are encrypted for security reasons. Charitybuzz also maintains and enforces strict internal policies to protect NPPI from unauthorized access by employees or third-parties.
+3\.      **COOKIES, WEB BEACONS AND INTEREST-BASED ADVERTISING**. We use data collected through cookies, web beacons, pixels, web server logs and other automated means to (a) customize your visits to our Site, (b) deliver advertisements to you on our Site and other sites, (c) deliver content tailored to your interests, and (d) manage our Site and Services. Here are additional details on those practices:
 
-## LOCATION-BASED SERVICES
+a.      _What Are Cookies_? We and our agents use small text files called cookies, (collectively, “Cookies”). Cookies are small pieces of data that we and our agents place in your computer’s browser to store your preferences. Cookies are not themselves personally identifiable, but may be linked to personal data that you provide to us through your online interaction with us.
 
-To provide location-based services on Charitybuzz products, Charitybuzz and our partners and licensees may collect, use, and share precise location data, including the real-time geographic location of your Charitybuzz computer or device. This location data is collected anonymously in a form that does not personally identify you and is used by Charitybuzz and our partners and licensees to provide and improve location-based products and services. For example, we may share geographic location with application providers when you opt in to their location services. 
+b.      _How We Use Cookies_.  We use Cookies so that we can improve your online experience – for example, by remembering you when you come back to visit us, and making the content you see more relevant to you. Cookies also enable us to track online purchases made through our website(s) or mobile app(s).
 
-## THIRD-PARTY SITES AND SERVICES
+c.      _Your Control of Cookies_. Web browsers allow some control of most Cookies through the browser settings. To find out more about Cookies, including how to see what Cookies have been set on your device and how to manage and delete them, visit http://www.allaboutcookies.org. Please understand, however, if you disable Cookies, some features of our Site and Services may not work as well (or at all) for you. 
 
-Charitybuzz websites, products, applications, and services may contain links to third-party websites, products, and services. Our products and services may also use or offer products or services from third parties − for example, a third-party iPhone app. Information collected by third parties, which may include such things as location data or contact details, is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties.
+d.      _Interest-Based Advertising_. We may use Cookies and other technologies, such as pixel tags, web beacons, and clear GIF files, to help manage our online advertising program. These technologies may enable us (or third party advertising services we work with) to learn which advertisements bring users to us online. They also may enable us (or third-party advertising services we work with) to track the actions of users online over time and across different web sites or platforms to measure statistics of our marketing efforts, and to deliver electronic advertisements that may be more relevant to individual consumers and that will improve the consumer experience. For information about how tracking works for online advertising purposes, and what happens when you elect a do-not-track option, visit http://www.aboutads.info/choices. In addition, some third-party businesses may provide a mechanism to opt-out of their technology. For more information about the opt-out process, visit the Network Advertising Initiative website, available at:[ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). At this time, our site is not able to respond to do-not-track requests from browsers.
 
-## NEWSLETTERS
+e.      _Analytics on the Site._  We also use third-party analytics such as Google Analytics to gather and analyze _anonymous_ user information. Google Analytics is a web analytics service provided by Google, Inc. ("Google"), to collect information about use of the Site and Services. Google may use cookies to collect information about your purchase history, the content you view, what websites you visit immediately prior to and after visiting the Site, and your system information and geographic information. The information generated by the Google cookies about your use of the Services will be transmitted to and stored by Google. The information collected by Google allows us to analyze the use of our Site and Services, but does not identify you.
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [unsubscribe@Charitybuzz.com](mailto:unsubscribe@Charitybuzz.com).
+**4.     HOW AND WITH WHOM WE SHARE INFORMATION**
 
-## WIDGETS
+a.      _Service Providers._ We may employ other companies or individuals ("Service Providers") to help us operate our Site and Services.  These Service Providers have access to information only to perform limited functions on our behalf. They are prohibited from using your information for any purpose.  
 
-Our website includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
+b.      _Third Party Marketing Partners._ We may, from time to time, share information you provide to us with trusted third-party marketing partners whose products or services we believe may be of interest to you.  If you want us to stop sharing your information with **** such third parties, you may opt-out by emailing us at privacy@charitybuzz.com or sending a letter to Charitybuzz, LLC, 437 Fifth Avenue, 11th Floor, New York, NY 10016.  If you are a resident of the EU or EEA, we will only share with third parties if you opt-in and agree to such sharing. ** ** See additional information under **_Your Rights and Choices below_**.  
 
-## FACEBOOK CONNECT OR OTHER OPENID PROVIDER
+c.      _Law Enforcement and Protection of Users._ To the extent permitted by law, we will disclose your information to government authorities or third parties pursuant to a legal request, subpoena or other legal process. We may also use or disclose your information as permitted by law to combat fraud or protect our rights or property as well as those of our affiliates or customers. You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
 
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.
+d.      _Business Transfer._ In the event that the Company is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any user information owned or under the control of the Company may be one of the transferred assets. We reserve the right, as part of this type of transaction, to transfer or assign your information and other information we have collected from users of the Services.
 
-## TESTIMONIALS/COMMENTS/REVIEWS
+e.      _Charities You Choose to Support via the Site or Services._ We may share your information with a Charity to whom you have made a voluntary donation via the Site or Services.
 
-We post customer testimonials/comments/reviews on our website which may con tain personal information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. [If a customer wishes to update or delete your testimonial, they can contact us at privacy@Charitybuzz.com.](mailto:privacy@Charitybuzz.com)
+**5. LEGAL BASIS FOR PROCESSING PERSONAL DATA**. ****
 
-## BLOGS/FORUMS
+Generally, we rely on the following standards to process your personal information lawfully:
 
-If you use our blog on this website, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. [You can request the removal of your personal information from our blog or community forum, by contacting us at privacy@Charitybuzz.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.](mailto:privacy@Charitybuzz.com)
+a.  _Consent_. When you give us consent to process your data in certain ways, we will rely on your consent for the stated purpose(s) of the consent. You have the right to withdraw consent at any time. See additional information below under **_Your Rights and Choices_**.
 
-## INTERNATIONAL USERS
+b.  _Contract fulfillment_.  We process personal data when it is necessary to perform a contractual obligation.  For example, when you make a purchase or a donation, we provide your billing information to a third-party payment processing vendor so that your transaction can be completed, and also to the charity you are supporting for the charity to acknowledge any gift for tax purposes. 
 
-Information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Charitybuzz abides by the international credit card merchant laws and complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively.[ Charitybuzz has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at: http://export.gov/safeharbor.](http://export.gov/safeharbor)
+c.  _Legitimate interests_.  We may process your personal data where necessary to fulfill our legitimate interests, where those interests are not overridden by your rights or interests.  These legitimate interests may include:
 
-## OUR COMPANYWIDE COMMITMENT TO YOUR PRIVACY
+·       Completing transactions for our users, and handling user contacts, queries, complaints or disputes.
 
-To make sure your personal information is secure, we communicate our privacy and security guidelines to Charitybuzz employees and strictly enforce privacy safeguards within the company.
+·       Protecting users, employees and other individuals and maintaining their safety, health and welfare.
 
-## NOTIFICATION OF PRIVACY STATEMENT CHANGES
+·       Promoting, marketing and advertising our products and services in ways consistent with reasonable expectations of our users. 
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+·       Sending promotional communications to existing users which are relevant to such users and related to their prior use of our Site and Services. 
 
-If you have questions or concerns regarding Charitybuzz's Privacy Policy or data processing, please contact us at 437 Fifth Avenue, 11th Floor New York, NY 10016, email us at [privacy@Charitybuzz](mailto:privacy@Charitybuzz.com).com, or you can call us at (212)243-3900.
+·       Understanding our users’ behavior, activities, preferences and needs.
+
+·       Improving existing products and services and developing new products and services.
+
+·       Complying with our legal and regulatory obligations.
+
+·       Preventing, investigating and detecting crime, fraud or anti-social behavior and prosecuting offenders, including working with law enforcement agencies, or taking other appropriate legal action against third parties who have committed criminal acts or are in breach of legal obligations.
+
+·       Effectively handling any legal claims or regulatory enforcement actions taken against us.
+
+·       Fulfilling our duties to our users, colleagues, and any other stakeholders.
+
+6\.      **CHILDREN**. 
+
+The Site and Services are not intended for children.  We do not knowingly collect or distribute information from or about children under age 13 (16 if you are in the EU/EEA). If we learn we have received personally identifiable information from a child under age 13 (16 if you are in the EU/EEA), we will delete that information. 
+
+7\.      **SOCIAL NETWORKING AND THIRD-PARTY SITES**   
+
+When you sign in or link to our Site or Services through any social networking service (such as Facebook or Twitter), you understand and agree that:
+
+a.     Any information you supply (or have supplied) to us becomes subject to the privacy policy of that social network/service, which may gain access to such information.  
+
+b.     We do not control, and are not responsible for, the privacy practices of such networks or services.  You should consult the privacy policy of such networks/services. 
+
+c.     We may access, store, and use any information per your privacy settings in that social media network or service.  We encourage you to review, and if necessary, adjust, such settings to control sharing as allowed by the social media network/service. 
+
+Our Site may include links to other websites.  We do not control, and are not responsible for, the privacy practices of any such sites.  You should always check the privacy terms of any site you visit. 
+
+8\.      **SECURITY**
+
+Any information collected by the Company is stored on servers that the Company manages, using security procedures and practices appropriate to the nature of the information. Please be aware that no data transmission over the Internet can be guaranteed to be 100% secure. As a result, the Company cannot guarantee or warrant the security of any information you transmit on or through the Site or Services and you do so at your own risk.
+
+9\.      **NON-U.S. USERS**
+
+If you are located outside of the United States and you choose to use the Site or Services, or provide your information to us, your information will be transferred to, processed and maintained on servers or databases located in the United States.  If you do not want your information transferred to or processed or maintained in the United States, you should not use the Site or Services.
+
+**10.  ** **RETENTION OF INFORMATION**
+
+We retain personal data for as long as reasonably needed for the purposes stated in this Privacy Policy.   You may request to have your information deleted at any time, though we may continue to retain any information as needed for backup, archival and audit purposes, and to comply with any legal obligations.   In addition, we may retain and continue to use indefinitely all information contained in your communications to other users of the Services posted to public or semi-public areas of the Services after termination or deactivation of your user account.
+
+11\.   **YOUR RIGHTS AND CHOICES**
+
+You have the right to ask us not to process your personal data for marketing purposes.  You can exercise that right at any time by emailing us at privacy@charitybuzz.com. You may also have options to agree (or decline) to be contacted for various marketing purposes at the point where you are submitting personal data to us.  For residents of the EU/EEA, the following additional rights apply:
+
+·       To ask what personal data we hold about you and to obtain a copy of your personal information in an easily accessible format and (for some data) also a right of portability.
+
+·       To ask us to update or correct the personal data we hold about you;
+
+·       To ask us to delete personal data we hold about you;
+
+·       To ask us to restrict or limit the ways in which we use your personal data;
+
+·       to lodge a complaint with a supervisory authority; and
+
+·       To opt out of any marketing messages we may send you.
+
+If you would like to exercise any of these rights or would like further information, please contact us at  GDPR@charitybuzz.com, or through any of the channels listed under “Contact Us” below. 
+
+12\.   **CONTACT US**
+
+If you have any questions about this Privacy Policy or the Company's privacy practices, please email us at privacy@charitybuzz.com, or you can contact us by mail at Charitybuzz, LLC, 437 Fifth Avenue, 11th Floor, New York, NY 10016. The Data Protection Officer for the Company is Richard O’Reilly, who can be contacted at GDPR@charitybuzz.com  or by mail at the Company address immediately above.
+
+13\.   **UPDATES TO THIS PRIVACY POLICY**.
+
+Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail if you are registered user or otherwise have given us your email address.  We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent. Notice may be by email to you at the last email address you provided us, by posting notice of such changes on our sites and applications, or by other means, consistent with applicable law.
+
+We encourage you to keep the email address you provide to us current, and to promptly notify us of any changes to your email address, so that you may receive any notices we send to you regarding any material changes to this Privacy Policy that affect your rights. 
+
+If you do not agree to the new terms, you should stop using the Site and Services, and if you are a registered user, you may cancel your account with us and request deletion of your personal data, consistent with our _Retention_ terms above by contacting us at [privacy@charitybuzz.com](mailto:privacy@charitybuzz.com).
