@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailybeast.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630100443id_/https%3A//www.thedailybeast.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailybeast.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231103546id_/https%3A//www.thedailybeast.com/company/privacy-policy) for the most accurate reproduction.*
 
 # The Daily Beast
 
@@ -134,9 +134,9 @@ We or our third-party partners also may use technologies called web beacons that
 
 ### What choices do I have regarding your use of information about me?
 
-Email messages. If you do not wish to receive emailed promotional material from us, you can opt out by clicking the unsubscribe mechanism in our promotional emails or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a9ddcccac1e9ddc1cccdc8c0c5d0cbccc8dadd87cac6c4). Please note that, even if you opt out of receiving promotional emails from us, we may still contact you to provide you with non-commercial messages, such as legal notices. Also, if you opt out, we may not provide to you non-promotional material, such as our emailed newsletters and other content.
+Email messages. If you do not wish to receive emailed promotional material from us, you can opt out by clicking the unsubscribe mechanism in our promotional emails or by emailing us at [tech@thedailybeast.com](mailto:tech@thedailybeast.com). Please note that, even if you opt out of receiving promotional emails from us, we may still contact you to provide you with non-commercial messages, such as legal notices. Also, if you opt out, we may not provide to you non-promotional material, such as our emailed newsletters and other content.
 
-Google Ads opt out. If you would prefer not to receive advertisements through the Services that are targeted to your interests, you can inform our advertising vendor, Google, Inc., of your preference by clicking the "Opt out" button at [www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html). You also can manage your advertising preferences at [www.google.com/ads/preferences/](https://www.google.com/ads/preferences).
+Google Ads opt out. If you would prefer not to receive advertisements through the Services that are targeted to your interests, you can inform our advertising vendor, Google, Inc., of your preference by clicking the "Opt out" button at [www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html). You also can manage your advertising preferences at [www.google.com/ads/preferences/](https://www.google.com/ads/preferences).
 
 Other targeted ads opt outs. In some cases, we and advertisers on the Services work with other third-party vendors to help deliver advertisements targeted to your interests. These vendors include ad networks and analytics providers, and they use cookies or other technologies to collect information about your online activity (e.g., the sites and pages you have visited) in order to help advertisers deliver particular ads that they believe you would find most relevant. Many third-party vendors that perform these functions are members of the Network Advertising Initiative, and you can opt out of those vendors’ delivery of targeted advertising to you by visiting [www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices/](http://www.aboutads.info/choices/). Some of our Services use technology for this purpose provided by Adobe. You can express your preferences regarding Adobe’s use of information about you [here](https://www.adobe.com/privacy/opt-out.html).
 
@@ -154,7 +154,7 @@ We may update this Privacy Policy in the future. We will notify you about materi
 
 ### Who should I contact if I have questions about this Privacy Policy?
 
-If you have any questions or concerns about this privacy policy, you may contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#89fdeceae1c9fde1ecede8e0e5f0ebece8fafda7eae6e4).
+If you have any questions or concerns about this privacy policy, you may contact us at: [tech@thedailybeast.com](mailto:tech@thedailybeast.com).
 
 If you are located in the EEA and have any questions or concerns about this Privacy Policy or the manner in which your information is processed or would like to submit a request to us, please contact:
 
@@ -162,10 +162,10 @@ The Daily Beast
 Privacy Officer  
 555 West 18th Street  
 New York, NY 11215  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9fd8dbcfcddfebf7fafbfef6f3e6fdfafeecebb1fcf0f2)  
+[GDPR@thedailybeast.com](mailto:GDPR@thedailybeast.com)  
 
 
-The Daily Beast Company LLC is the controller (as provided under laws applicable to EEA jurisdictions) responsible for the personal information we collect and process. We are represented in the EU by our subsidiary, IAC Search & Media UK, Ltd., which can be contacted at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#93c3e1fae5f2f0ead3f2e0f8bdf0fcbde6f8).
+The Daily Beast Company LLC is the controller (as provided under laws applicable to EEA jurisdictions) responsible for the personal information we collect and process. We are represented in the EU by our subsidiary, IAC Search & Media UK, Ltd., which can be contacted at [Privacy@ask.co.uk](mailto:Privacy@ask.co.uk).
 
 If you have questions or concerns regarding the way in which your personal information collected in the EEA is processed, please contact our Data Protection Officer at:
 
@@ -173,7 +173,7 @@ IAC Publishing, LLC
 Data Protection Officer  
 555 12th St, Suite 300  
 Oakland, CA 94607  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#224643564352504d564741564b4d4c4d44444b4147624b43415257404e4b514a4b4c450c414d4f)  
+[dataprotectionoffice@iacpublishing.com](mailto:dataprotectionoffice@iacpublishing.com)  
 
 
 We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you may have the right to make a complaint to the data protection authority of your country of residence.
