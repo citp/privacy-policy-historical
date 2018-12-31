@@ -1,159 +1,105 @@
-> *The following text is extracted and transformed from the aeaweb.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625054322id_/https%3A//www.aeaweb.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeaweb.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231050429id_/https%3A//www.aeaweb.org/privacypolicy) for the most accurate reproduction.*
 
 # American Economic Association
 
-### Introduction  
+The **American Economic Association** (the "Company" or "we" or "us") is committed to safeguarding the security and privacy of the information it collects on you ("Customer Information") through your use of the website at www.aeaweb.org (the "Website"). This Privacy Policy describes:
 
-The American Economic Association (collectively, **”Company”** or **“** **We** **”** ) respect your privacy and are committed to protecting it through our compliance with this policy. 
+  1. Who is covered by this Privacy Policy;
+  2. What Customer Information the Company collects from you;
+  3. How the Company collects that Customer Information;
+  4. For what purpose(s) the Company collects Customer Information (in other words, how the Company uses your Customer Information and what legal grounds it has for collecting and using your Customer Information);
+  5. How the Company stores and secures your Customer Information;
+  6. How long the Company will store your Customer Information;
+  7. Whether and with what categories of third parties the Company will share your Customer Information;
+  8. What rights you have to have your Customer Information changed, deleted, or moved, or to restrict how we may share your Customer Information; and
+  9. How you may file a complaint against us for violating the relevant data protection laws and regulations, or our own policy;
+  10. Our contact information; and
+  11. Our policy with respect to amendments to this Privacy Policy. 
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website [www.aeaweb.org](https://www.aeaweb.org/) (our " **Website"** ) and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-This policy applies to information we collect:
 
-On this Website.
+### 1\. WHO IS COVERED BY OUR PRIVACY POLICY?
 
-In email, text, and other electronic messages between you and this Website.
+    1. This privacy policy covers all persons who visit our Website, whether or not such persons order goods or services from us.
+    2. The foregoing notwithstanding, we do not direct our Website to children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at info@aeaweb.org.
 
- It does not apply to information collected by:
 
-us offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries); or
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+### 2\. WHAT INFORMATION DO WE COLLECT? We divide the Customer Information we collect into two categories:
 
-### Information We Collect About You and How We Collect It  
+    1. Personally Identifiable Information: This may include your name, physical address, e-mail address, telephone number, fax number, and credit card information.
+    2. Automatically Collected Information: This will include your computer’s IP address, the type of browser, operating system, and information about which parts of the Website you visit and how long you spend on the Website.
 
-We collect several types of information from and about users of our Website, including:
 
-information by which you may be personally identified, such as name and e-mail address (" **personal information"** );
 
-information that is about you but individually does not identify you, such as your location, age range and gender; and/or
+### 3\. HOW DO WE COLLECT CUSTOMER INFORMATION?
 
-information about your internet connection, the equipment you use to access our Website and usage details, including but not limited to IP addresses.
+    1. With respect to Personally Identifiable Information, we collect this information only with your consent, when you voluntarily provide the information to us in order to register for membership with the American Economic Association, to subscribe to receive journals from us, or to participate in services offered on the website.
+    2. With respect to Automatically Collected Information: we collect this information through:  
+ **Cookies:** A cookie is a small file placed on the hard drive of your computer. "Session" cookies are only stored during a web site visit and expire when the web browser is closed. "Persistent" cookies remain on your hard drive after a web session is over until a set expiry date, and allow a website to remember your login and preferences for your next visit.
 
-We collect this information:
 
-Directly from you when you provide it to us.
 
-Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies.
+### 4\. HOW DO WE USE YOUR CUSTOMER INFORMATION, AND WHAT ARE OUR GROUNDS FOR PROCESSING YOUR CUSTOMER INFORMATION?
 
-### Information You Provide to Us
+    1. We use your Personally Identifiable Information to fulfill your orders for journals, and to communicate with you regarding such orders or delivery of services, or about membership if you are a member of our organization, or to respond to communication from you. Our basis for processing information for this purpose is that when you subscribe to our journals, become a member of our organization, or participate in the JOE Network, conference submission and registration, or any other online services, we have a contract with you to provide those goods, services, and information.
+    2. We use your Personally Identifiable Information to send you informational news and surveys related to the economics profession when you provide such information to us voluntarily and subject to your rights set forth in Section 8.
+    3. We use Automatically Collected Information about you to enhance your experience on the Website by allowing you to customize your preferences and allowing the Website to remember those preferences and remember your login, but only with your consent, which you provide by opting in to those services when you visit the Website, and subject to your rights set forth in Section 8.
+    4. We store your Customer Information to be able to communicate with you as set forth in subsections (a) and (b) above, and to keep complete records about our members,  subscribers, and participants in online services for our legitimate internal business purposes, subject to your rights set forth in Section 8.
+    5. We may process your Customer Information where necessary for the establishment, exercise or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure. The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights, your legal rights and the legal rights of others.
+    6. We may process your Customer Information where necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, or obtaining professional advice. The legal basis for this processing is our legitimate interests, namely the proper protection of our business against risks.
+    7. In addition to the specific purposes for which we may process your personal data set out in this Section 3, we may also process your Customer Information where such processing is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
 
-The information we collect on or through our Website may include: 
 
-Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our service, or posting material. We may also ask you for information if you report a problem with our Website.
 
-Records and copies of your correspondence (including email addresses), if you contact us; and
+### 5\. HOW DOES THE COMPANY STORE YOUR CUSTOMER INFORMATION AND KEEP IT SECURE?
 
-Your responses to surveys that we might ask you to complete for research purposes.
+We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. We maintain appropriate administrative, technical and physical safeguards to protect Customer Information against accidental or unlawful destruction, accidental loss, unauthorized alteration, unauthorized disclosure or access, misuse, and any other unlawful form of processing of the Customer Information in our possession. This includes, for example, firewalls, password protection and other access and authentication controls. We use SSL technology to encrypt data during transmission through the public internet. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. We cannot ensure or warrant the security of any information you transmit to us or store on the Service, and you do so at your own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If you believe your Customer Information has been compromised, please contact us as set forth in the "How to Contact Us" section. If we learn of a security systems breach, we will inform you and the authorities of the occurrence of the breach in accordance with applicable law.
 
-You also may be permitted to provide information to be published or displayed (hereinafter, " **posted"** ) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, " **Submissions"** ). To the extent your Submissions are posted on the Website, they are posted and transmitted to others at your own risk. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your Submissions. Therefore, we cannot and do not guarantee that your Submissions will not be viewed by unauthorized persons.
+### 6\. HOW LONG DOES THE COMPANY RETAIN YOUR CUSTOMER INFORMATION?
 
-### Information We Collect Through Automatic Data Collection Technologies
+We retain Customer Information as long as deemed necessary in order to maintain order histories and membership records for our legitimate internal business purposes, and, subject to your rights as set forth in Section 8.
 
-As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including:
+### 7\. TO WHAT CATEGORIES OF THIRD PARTIES DO WE SHARE YOUR CUSTOMER INFORMATION?
 
-Details of your visits to our Website, including traffic data and other communication data and the resources that you access and use on the Website.
+    1. We do not sell, rent or lease Customer Information for marketing purposes.
+    2. We will transfer your Customer Information as needed to certain vendors who require the information to provide business support services to the Company, including our Website hosting company, and our journal printers and delivery partner (“Service Vendors”). A list of our Service Vendors is available [here](https://web.archive.org/privacypolicy/vendors). We will ensure that our Service Vendors are compliant with all relevant laws and regulations, and that they do not process your information in any way not set forth in this Privacy Policy without your consent.
+    3. We share your credit card or debit card information with Paypal and our merchant processors who are listed above as Service Vendors, to process your transactions. Your financial information is stored with [Paypal](https://www.paypal.com/us/webapps/mpp/paypal-safety-and-security) or our merchant processors.
+    4. We may share your information with third parties such as our attorneys or law enforcement agencies in order to defend against legal claims or comply with legal obligations, or in order to protect your vital interests or the interests of another person. If we are notified that we must share your Customer Information in such a circumstance, we will notify you first if possible and provide you with information, if available, as to how you may object to our sharing your Customer Information.
 
-Information about your computer and internet connection, including your IP address, operating system, and browser type.
 
-The information we collect automatically is statistical data and does not include personal information, but we may maintain it or associate it with personal information we collect in other ways in order to help us to improve our Website and to deliver a better and more personalized service, including by enabling us to:
 
-Estimate our audience size and usage patterns.
+### 8\. WHAT ARE YOUR RIGHTS WITH RESPECT TO YOUR CUSTOMER INFORMATION THAT WE POSSESS?
 
-Store information about your preferences, allowing us to customize our Website according to your individual interests.
+By contacting us at [info@aeaweb.org](mailto:info@aeaweb.org) you may
 
-Speed up your searches.
+    1. Request a copy of the Customer Information we have about you, including the categories of third parties with whom we have shared your Confidential Information. The first copy of this information will be provided free of charge each year. Subsequent copies will be subject to a reasonable fee for delivery and for our time in preparing the copies;
+    2. Request that your Customer Information be corrected or completed;
+    3. Request that we cease processing your Customer Information in certain ways (for example, sharing your Customer Information with our Service Vendors) if you believe your Customer Information is inaccurate;
+    4. Request that your Customer Information be transmitted to another data controller in a reasonably acceptable format. Your Customer Information will be transmitted under this request for a reasonable fee for delivery and for our time in preparing the Customer Information for delivery in the requested format; and/or
+    5. Request that your Customer Information be erased. 
 
-Recognize you when you return to our Website.
+For any requests of the nature set out in subsections 8(a) through 8(d), we will comply with your request without undue delay after verifying your identity, or inform you in writing as to why we cannot comply with your request and what alternatives, if any, may be available to you. 
 
-The technologies we use for this automatic data collection may include:
+For requests of the nature set out in subsection 8(e), we will comply with your request without undue delay unless your Customer Information is still necessary for the stated purpose for which it was collected, such as that we still have contractual obligations to you, unless we are required to erase your Customer Information for a legal or regulatory reason. If we are unable to erase your Customer Information, we will inform you in writing as to why we cannot comply with your request and what alternatives, if any, may be available to you.
 
-**Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. 
 
-### How We Use Your Information  
 
-We use information that we collect about you or that you provide to us, including any personal information: 
 
-To present our Website and its contents to you.
+### 9\. HOW CAN YOU MAKE A COMPLAINT IF WE BELIEVE WE HAVE PROCESSED YOUR CUSTOMER INFORMATION UNLAWFULLY OR IN VIOLATION OF THIS PRIVACY POLICY?
 
-To provide you with information, products, or services that you request from us.
+    1. You may notify us at [info@aeaweb.org](mailto:support@synexic.com).
 
-To fulfill any other purpose for which you provide it.
 
-To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
 
-To notify you about changes to our Website or any products or services we offer or provide though it.
+### 10\. OUR CONTACT INFORMATION:
 
-To allow you to participate in interactive features on our Website, and
+American Economic Association, a non-profit corporation incorporated in Washington, D.C.  
+2014 Broadway Suite 305  
+Nashville, TN 37203  
+615-322-2595  
+[info@aeaweb.org](mailto:%20info@aeaweb.org)
 
-For any other purpose with your consent.
+### 11\. AMENDMENTS TO THIS PRIVACY POLICY
 
-### Disclosure of Your Information  
-
-We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
-
-We may disclose personal information that we collect or you provide as described in this privacy policy: 
-
-To our subsidiaries and affiliates.
-
-To contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
-
-**To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of American Economic Association’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by American Economic Association, when information about our Website users is among the assets transferred.**
-
-For any other purpose disclosed by us when you provide the information.
-
-With your consent.
-
-We may also disclose your personal information:
-
-To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
-
-If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of American Economic Association our customers, or others.
-
-**We will not give, sell, or otherwise transfer addresses maintained on our Website to any other party for the purposes of initiating, or enabling others to initiate electronic mail messages without your consent.**
-
-### Choices About How We Use and Disclose Your Information  
-
-We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
-
-**Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-
-**Promotional Offers or Information from the Company.** If you do not wish to have your contact information used by the Company to promote our own or third parties’ products or services or information about events or programs which may be of interest to you, you can opt-out by checking or unchecking the relevant options or by sending us an email stating your request to [info@aeaweb.org](mailto:info@aeaweb.org).
-
-### Accessing and Correcting Your Information  
-
-You can review and change your personal information by logging into the Website and visiting your account profile page.
-
-You may also send us an email at info@aeaweb.org to request access to, or correction of, any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
-
-### Data Security  
-
-We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. We undergo annual penetration testing and remediate any issues revealed by such testing.
-
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website. The information you share in public areas may be viewed by any user of the Website.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
-
-### Your California Privacy Rights  
-
-    California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to info@aeaweb.org or write us at American Economic Association, Administrative Offices, 2014 Broadway, Suite 305, Nashville, Tennessee, 37205.
-
-### Children Under the Age of 13  
-
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. If you believe we might have any information from or about a child under 13, please contact us at [info@aeaweb.org](mailto:info@aeaweb.org).
-
-### Changes to Our Privacy Policy  
-
-It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website home page. If we make material changes to how we treat our users' personal information, we will notify you by email to the contact information specified in your account or through a notice on the Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable contact information for you, and for periodically visiting our Website and this privacy policy to check for any changes.
-
-### Contact Information  
-
-To ask questions or comment about this privacy policy and our privacy practices, contact us at:
-
-American Economic Association, Administrative Offices  
-2014 Broadway, Suite 305  
-Nashville, Tennessee, 37205.
-
-Or
-
-[info@aeaweb.org](mailto:info@aeaweb.org)
+We may make amendments to our Privacy Policy from time to time. If we do so, we will notify you by e-mail and on the home page of our Website. We may require you each time we make changes to acknowledge that you have reviewed the changes. Any amendment to our Privacy Policy will only affect the processing of Customer Information which takes place after such amendment.
