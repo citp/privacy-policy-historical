@@ -1,79 +1,65 @@
-> *The following text is extracted and transformed from the nighthelper.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018141335id_/http%3A//www.nighthelper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nighthelper.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231125645id_/https%3A//nighthelper.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy! - Night Helper
+# Privacy Policy - Night Helper
 
-**This privacy policy was last modified on December 30, 2013.**
+Welcome to **Night Helper** (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by [ **Night Helper** ] (collectively, “Services”) (“Authorized Customers”).
 
-Night Helper Blog (“Company,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Company when you use Night Helper Blog.com and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
+“Personally Identifiable Information” refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
-**Information We Collect**
+**What Personally Identifiable Information is collected?**
 
-User-Provided Information: You provide us information about yourself, such as your name and e-mail address when you register with the Service. If you correspond with us by e-mail, we may retain the content of your e-mail messages, your e-mail address, and our responses.
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
-Cookies Information: When you visit Night Helper Blog we may send one or more cookies (a small text file containing a string of alphanumeric characters) to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+**What organizations are collecting the information?**
 
-Log File Information: Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain and do not store, retain, or use the information given to them.
 
-Clear Gifs Information: When you use the Service, we may employ clear gifs (aka, Web Beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Company account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based e-mails sent to our users to track which e-mails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make us better for our users.
+**How does the Site use Personally Identifiable Information?**
 
-**How We Use Your Information**
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide the requested information.
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
+**With whom may the information be shared?**
 
-Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post) becomes available to the public. If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third-party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
-By providing Company your e-mail address you consent to our using the e-mail address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your e-mail address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such e-mail messages, you may opt out by sending an e-mail message to charlestondt@aol.com with the word “No e-mail” in the subject field. Opting out may prevent you from receiving e-mail messages regarding updates, improvements, or offers.
+**How is Personally Identifiable Information stored?**
 
-Company may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
+Personally Identifiable Information collected by **Night Helper** is securely stored and is not accessible to third parties or employees of **Night Helper** except for use as indicated above.
 
-Company reserves the right (but has no obligation) to monitor the User Content you post on the site. Company has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party. Company also reserves the right to remove information upon the request of any third party.
+**What choices are available to Visitors regarding collection, use, and distribution of the information?**
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at 30558 Sandhurst Dr. Roseville MI 48066.
 
-**How We Share Your Information**
+**Are Cookies Used on the Site?**
 
-Personally Identifiable Information: Company will not rent or sell your personally identifiable information to others. Company may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, e-mail, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
+**How does Night Helper use login information?**
 
-Except as otherwise described in this privacy statement, Company will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Company, our users, or others.
+Night Helper uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
-Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc. ) with interested third parties to help them understand the usage patterns for certain Company services.
+**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**
 
-Company allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Company site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Company. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+**Night Helper** has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  Such vendors may have access to certain Personally Identifiable Information on a need to know the basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information.
 
-Company does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Company to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+**Disclosure of Personally Identifiable Information to comply with the law.**
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. The Company privacy policy does not apply to, and we cannot control the activities of, such advertisers.
+We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
-**How We Protect Your Information**
+**How does the Site keep Personally Identifiable Information secure?**
 
-Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Company and you do so at your own risk. Once we receive your transmission of information, Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering, and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your e-mail communications from Company, at all times.
+**How can Visitors correct any inaccuracies in Personally Identifiable Information?**
 
-**Compromise of Personal Information**
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at lisa@nighthelper.com.
 
-In the event that personal information is compromised as a result of a breach of security, Company will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**
 
-**Your Choices About Your Information**
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting. However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.  **(this is only if you are to login to our site which at this time is not offered!)**
 
-You may, of course, decline to submit personally identifiable information through Company, in which case Company may not be able to provide certain services to you.
+**What happens if the Privacy Policy Changes?**
 
-**Children’s Privacy**
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
-Protecting the privacy of young children is especially important. For that reason, Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or e-mail address. No one under age 13 is allowed to provide any personal information to or on Company. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at charlestondt@.com
-
-**Links to Other WebSites**
-
-We are not responsible for the practices employed by Web sites linked to or from our website nor the information or content contained therein. Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
-
-**Notification Procedures**
-
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via e-mail notice, written (or hard copy notice), or through conspicuous posting of such notice on our Website page, as determined by Company in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
-
-**Changes to Our Privacy Policy**
-
-If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it, and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
-
-[](https://www.pinterest.com/pin/create/button/)
+Links: [ **https://nighthelper.com**](https://nighthelper.com/) contains links to other websites. Please note that when you click on one of these links, you are moving to another website. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
