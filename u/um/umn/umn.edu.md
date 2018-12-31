@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the umn.edu privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626170832id_/http%3A//privacy.umn.edu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umn.edu privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231160311id_/https%3A//twin-cities.umn.edu/privacy) for the most accurate reproduction.*
 
-# Online Privacy |
+# Privacy Statement
 
 The University of Minnesota respects the privacy of web site visitors to the extent permitted by law. The online privacy statement is intended to inform you of what information is collected by this web site and how the information is used. This is the standard University of Minnesota Online Privacy Statement.
 
@@ -34,5 +34,9 @@ Some University web sites use Google Analytics to gather statistics about web tr
 Our data gathering and dissemination are governed by state and federal laws, including the [Minnesota Government Data Practices Act, Minnesota Statutes, Chapter 13](https://www.revisor.mn.gov/statutes/?id=13). Personally identifiable information is not released to external parties without your consent unless required by law.
 
 This web site does not collect any Personally Identifiable Information.
+
+## Notification
+
+Cookies or tracking pixels are used for various purposes within websites to gather information and facilitate navigation. The twin-cities.umn.edu site uses cookies or tracking pixels for re-marketing.
 
 Effective: November 2017
