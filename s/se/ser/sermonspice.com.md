@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sermonspice.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120023122id_/https%3A//www.sermonspice.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermonspice.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231120924id_/https%3A//www.sermonspice.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | SermonSpice
 
