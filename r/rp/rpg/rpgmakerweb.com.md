@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rpgmakerweb.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625040041id_/http%3A//www.rpgmakerweb.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgmakerweb.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231032017id_/https%3A//www.rpgmakerweb.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | RPG Maker | How To Make A Video Game!
 
-Last updated: May 25, 2018
+Last updated: November 29, 2018
 
 ## Note for residents of member states of the European Economic Area (EEA)
 
@@ -92,5 +92,5 @@ If you have any questions or concerns regarding the contents of this Privacy Pol
 
 DEGICA Co., Ltd. / Personal information protection manager  
 PHONE: +81-50-6861-0240  
-e-mail: cs-jp@degica.com  
+e-mail: info@degica.com  
 Reception hours: 10:00am to 5:00pm, Monday to Friday (except Japan’s public holidays, the Year-End and New Year holidays) 
