@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625045121id_/https%3A//nonprofitquarterly.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231041140id_/https%3A//nonprofitquarterly.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Non Profit News | Nonprofit Quarterly
 
@@ -36,7 +36,7 @@ All computers that receive or store personal information are secured by firewall
 
 ### Conditions of Use and Revisions
 
-If you have any concern about privacy at nonprofitquarterly.org or any of our websites, please send us a description of your concern to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6f060109002f0100011f1d0009061b1e1a0e1d1b0a1d031641001d08), and we will try to resolve it. Changing business practices and circumstances may require that we make changes to this privacy policy from time to time. Any changes will be reflected on this website.
+If you have any concern about privacy at nonprofitquarterly.org or any of our websites, please send us a description of your concern to [info@nonprofitquarterly.org](mailto:info@nonprofitquarterly.org), and we will try to resolve it. Changing business practices and circumstances may require that we make changes to this privacy policy from time to time. Any changes will be reflected on this website.
 
 * * *
 
@@ -48,4 +48,4 @@ Attn: Website Privacy Request
 112 Water St Ste 400  
 Boston, MA 02109
 
-We can be reached via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#97fef9f1f8d7f9e7e6faf6f0b9f8e5f0).
+We can be reached via e-mail at [info@npqmag.org](mailto:info@npqmag.org).
