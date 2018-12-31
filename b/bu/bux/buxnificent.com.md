@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buxnificent.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627170518id_/http%3A//www.buxnificent.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buxnificent.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231201019id_/http%3A//www.buxnificent.com/policy.php) for the most accurate reproduction.*
 
 # Buxnificent - Magnificent Way To Earn
 
@@ -60,11 +60,11 @@
 
 
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from ALL correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at admin@culsunptc.com and we will promptly remove you from ALL correspondence.
 
   * Contacting Us
   * If there are any questions regarding this privacy policy you may contact us using the information below.
   * Buxnificent.com
-  * [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * admin@culsunptc.com
 
 
