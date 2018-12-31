@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elevatedfaith.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625055717id_/https%3A//elevatedfaith.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elevatedfaith.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231052019id_/https%3A//elevatedfaith.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy l Elevated Faith
 
@@ -65,7 +65,16 @@ _secure_session_id, unique token, sessional
 storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.  
 PREF, persistent for a very short period, Set by Google and tracks who visits the store and from where
 
- **SECTION 8 - AGE OF CONSENT**
+**We also use  cookies to:**
+
+  * ****Help remember and process the items in the shopping cart.
+  * ****Understand and save user's preferences for future visits.
+  * ****Keep track of and serve advertisement with a 3 rd party.
+  * ****Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+
+
+
+**SECTION 8 - AGE OF CONSENT**
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
