@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hockeydb.com privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625054918id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hockeydb.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231051120id_/http%3A//www.hockeydb.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta charset="UTF-8"><meta name="description" content="">
@@ -33,14 +33,19 @@
     node.parentNode.insertBefore(gads, node); 
   })();
 </script>
+
+<script src="https://storage.googleapis.com/didna_hb/hockeydb/prebid_config.js"></script>
 <script>
   googletag.cmd.push(function() {
-    var topAd = googletag.sizeMapping()
+    googletag.pubads().disableInitialLoad();
+  });
+
+  googletag.cmd.push(function() {    var topAd = googletag.sizeMapping()
       .addSize([761, 0], [728, 90])
       .addSize([320, 0], [320, 50])
       .addSize([0, 0], [])
         .build();
-    googletag.defineSlot('/170737076/hdb_728x90_1', [[728, 90], [320, 50]], 'top_leaderboard')
+    googletag.defineSlot('/170737076/hdb_728x90_1', [320, 50], 'top_leaderboard')
     .defineSizeMapping(topAd)
     .addService(googletag.pubads());
     googletag.pubads().enableSingleRequest();
@@ -61,7 +66,7 @@
 
 <div id="topad" style="float:left; text-align:center; width:728px; height:90px; padding-top:10px">
    <div id="top_leaderboard">
-   <script type="text/javascript" src="/common/ad_proxy.php"></script>
+   <script type="text/javascript" src="/proxy/ad_proxy.js"></script>
        <script>
            googletag.cmd.push(function() { googletag.display('top_leaderboard'); });
        </script>
@@ -182,7 +187,7 @@ more information about this practice and to know your choices about not having t
 in the form of IP address and cookie ID from users on our website in order to provide targeted online
 advertising and ad measurement. For more details including opt-out requests, access requests or
 complaints, please review their privacy policy or contact their data protection officer via
-<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="78080a110e191b01381d000817161d160c111914561b171556">[email&nbsp;protected]</a></p>
+privacy@exponential.com.</p>
 
 <address>
 If you have any questions about your privacy, please <a href="/feedback.html">contact us</a>
@@ -203,7 +208,7 @@ If you have any questions about your privacy, please <a href="/feedback.html">co
 
 
 <!-- Start Quantcast tag -->
-<script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <script type="text/javascript">_qacct="p-bf8ND2mCqtl_o";quantserve();</script>
 <noscript>
 <a href="http://www.quantcast.com/p-bf8ND2mCqtl_o" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bf8ND2mCqtl_o.gif" style="display: none; border:0;" height="1" width="1" alt="Quantcast"/></a>
