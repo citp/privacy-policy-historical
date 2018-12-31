@@ -1,167 +1,85 @@
-> *The following text is extracted and transformed from the vipze.com privacy policy that was archived on 2009-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090812192504id_/http%3A//www.vipze.com/LinkClick.aspx%3Flink%3D120%26tabid%3D125%26language%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipze.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231084630id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy
+# HugeDomains.com - Privacy Policy
 
-|  Sign Up | Login  
----  
-|  |  [](http://www.vipze.com/Default.aspx "ViPZE ..::  Monetize your Socializing  ::..") |   
----|---  
-|   
-|   
-|  |   
-|   
-  
-**Policy is effective as of January 23, 2009  
-ViPZE Principles  
-**
+HUGEDOMAINS.COM PRIVACY POLICY
 
-   
-**ViPZE follows two core principles:**
+HugeDomains's Privacy Policy describes how this site collects and uses the personally identifiable information provided by customers/consumers/users of this site. It also describes the choices available to customers regarding HugeDomains's use of customer's personally identifiable information and how that information may be accessed and updated by customers and how it may be provided to third-parties.
 
-  1\. **You should have control over your personal information.**  
-ViPZE helps you share information with your friends and people around you. You choose what information you put in your profile, including contact and personal information, pictures, interests and groups you join. And you control the users with whom you share that information through the privacy settings on the Privacy page.
+If you do not agree to HugeDomains's Privacy Policy and/or [Terms of Service](https://web.archive.org/terms.cfm), you must immediately cease use of HugeDomains.com. If you do not agree, do not use HugeDomains's website or services,  do not purchase domains and do not enter into payment plans with HugeDomains.com.
 
-  2\. **You should have access to the information others want to share.**  
-There is an increasing amount of information available out there, and you may want to know what relates to you, your friends, and people around you. We want to help you easily get that information.
+HugeDomains.com is a United States company, located in Denver, Colorado, USA. HugeDomains complies with the U.S-EU Safe Harbor framework which is dictated and set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. HugeDomains further complies with the California Online Privacy Protection Act and the Children's Online Privacy Protection Act (COPPA).
 
-  We built ViPZE to make it easy to share information with your friends and people around you. We understand you may not want everyone in the world to have the information you share on ViPZE; that is why we give you control of your information. Our default privacy settings limit the information displayed in your profile to your networks and other reasonable community limitations that we tell you about.
+**What Information HugeDomains Collects**
 
-  Sharing information should be easy. And we want to provide you with the privacy tools necessary to control how and with whom you share that information. If you have questions or ideas, please send them to
+HugeDomains must collect certain personal data in order to conduct business, provide customer service and provide a customer with relevant requested services. Personal information is collected from customers when  a customer contacts HugeDomains through the website, when a customer purchases a domain, whenever a customer fills out a contact form on the HugeDomains platform; when a customer submits payment to HugeDomains; and when a customer contacts HugeDomains via phone or chat. HugeDomains will further collect certain personal information from customers as needed in order to continue to provide services to its customers and as required by any relevant law, rule, regulation, and other method that ensures the safety of HugeDomains, its customers, and the general public.
 
-[privacy@vipzecorp.com](mailto:privacy@vipzecorp.com).   
- 
+HugeDomains collects customers' relevant personal information, including but not limited to: name, address, phone number, fax number (if applicable), email address and other data used to directly or indirectly to identify you in connection to your use of HugeDomains's services. Many products/services may require a customer to provide HugeDomains with additional information such as credit card information, associated billing information, or other financial and payment information. In order to protect HugeDomains and its customers, as well as intellectual property rights, HugeDomains may require customers to provide government identification and/or other documentation as proof of identity and physical address.
 
-**Safe Use of ViPZE**
+**Why HugeDomains Collects This Information**
 
-ViPZE will use a Rating for each page to comply with Web Safe Browsing Applications so that parents of users between the ages of 13 to 18 can have a point of reference for content that is displayed on our site. 
+HugeDomains collects customer information for several reasons, including but not limited to: following relevant and required ICANN data collection requirements, along with and to abide and comply with United States laws, rules, and regulations. Further, HugeDomains collects such information in order to allow HugeDomains to: 
 
-    **ViPZE's Privacy Policy**    
-   
-ViPZE's Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using ViPZE, located at 
+a. **To personalize customer experience**  \- customer information helps HugeDomains better respond to customer's individual needs.
 
-[www.vipze.com](http://www.vipze.com/) and its directly associated domains (collectively, "ViPZE" or "Website")
+b. **To improve the HugeDomains website and services** \- HugeDomains continually strives to improve its website offerings and services based on the information and feedback received from customers.
 
-  By using or accessing ViPZE, you are accepting the practices described in this Privacy Policy.
+c. **To improve customer service** \- customer information helps HugeDomains more effectively respond to specific customer service requests and support needs. Should a customer contact HugeDomains for service or support, it will keep an internal record of such correspondence, whether email or telephone call, along with an internal record of support given.
 
-  ViPZE is currently in the process of applying for a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site 
+d. **To process transactions**  \- other than specifically provided in this provision, or required by law, customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company without direct and express customer consent.
 
-[www.vipze.com](http://www.vipze.com/) and its directly associated domains. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+e. **To send periodic emails** \- customer email addresses provided for order processing, will be used to send customers relevant and pertinent information and updates pertaining to their HugeDomains account and registered domain names and/or other services. These communications include, but are not limited, to: HugeDomains updates and questions or concerns regarding the customer, their account, or specific services. If a customer chooses to opt-in to a mailing list, they will receive email communications that may include company news, updates, related product or service information, as set per email preferences which is customizable from within each users' account.
 
-  If you have questions or concerns regarding this statement, you should first contact our privacy staff at 
+f. **Domain ownership information**  \- HugeDomains.com sells domain names, and all domain name purchases require registrant information in order to complete the purchase and facilitate the transfer of the domain name. The information provided by a customer when purchasing a domain can and will be used to transfer ownership of said domain names. The registration information provided for a domain is recorded and shared with trusted parties in order to deliver such purchases to domain buyers. If a customer does not opt-in for privacy protection, the whois information provided when buying domain names may be shared via a public record called "whois".
 
-[privacy@vipzecorp.com](mailto:privacy@vipzecorp.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe Watchdog at [http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.  
-   
-**EU Safe Harbor Participation** **  
-**    
-We have applied to participate in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in the safe harbor, we will agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us at [privacy@vipzecorp.com](mailto:privacy@vipzecorp.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe at [http://www.truste.org/users/users_watchdog_intro.html](http://www.truste.org/users/users_watchdog_intro.html).  
- 
+**How HugeDomains Collects this Information**
 
-  **The Information We Collect** **  
-**    
-When you visit ViPZE you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site.
+HugeDomains utilizes a variety of security measures to maintain the safety of customers' personal information. All supplied financial information (including credit card data) is transmitted via Secure Socket Layer (SSL) technology and then encrypted into the company's payment gateway provider's database. This database and the sensitive information contained within are only accessible by those authorized with special access rights to such systems and are required to keep the information confidential. 
 
-  When you register with ViPZE, you provide us with certain personal information, such as your name, your email address, your telephone number, your address, your gender, schools attended and any other personal or preference information that you provide to us.
+HugeDomains uses cookies (and other technologies such as web beacons, pixels, tags, scrips) to identify you so you don't need to log in each time you visit a HugeDomains website or its mobile applications. The cookies are linked to your customer account, which is associated with the information in your account. HugeDomains uses cookies to help remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that it can offer better site experiences and tools in the future. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most modern websites, if you turn your cookies off, some of HugeDomains's services may not function properly or function at all. HugeDomains does not test its website for this and does not guarantee use of services with cookies disabled. 
 
-  When you enter ViPZE, we collect your browser type and IP address. This information is   
-Browser Type, IP, OS, Language, Location, CharSet gathered for all ViPZE visitors. In addition, we store certain information from your browser using "cookies." A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. By default, we use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to ViPZE. You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature, but it will severally affect the Web experience
+HugeDomains, like most companies, obtains information about its customers automatically and stores this information in its internal databases. This information may include but is not limited to: Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring entry/exit pages, operating system, date/time stamp and/or clickstream data, and other data that could directly or indirectly identify you. HugeDomains uses this information to help personalize your experience and search results, diagnose problems with its systems, to administer the services on this site, and for other corporate uses.
 
-  When you use ViPZE, you may set up your personal profile, form relationships, send messages, perform searches and queries, form groups, set up events, add applications, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
+**How HugeDomains Uses this Information**
 
-  You post User Content (as defined in the ViPZE Terms of Use) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
+HugeDomains must first and foremost abide by local law. As a US company, HugeDomains will first abide by US laws and regulations when two laws might differ and/or conflict with one another.
 
-   
+HugeDomains securely holds on to personal data internally. Such data can be held indefinitely in order to keep accurate records that may be required under local law and regulation. 
 
+HugeDomains uses customer information to communicate directly with their customers. It is important for customers to keep their email address up to date and check their email regularly for updates regarding a HugeDomains account. 
 
-Any improper collection or misuse of information provided on ViPZE is a violation of the ViPZE Terms of Service and should be reported to [privacy@vipzecorp.com](mailto:privacy@vipzecorp.com).ViPZE may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the ViPZE service through the operation of the service (e.g., photo tags) in order to provide you with more useful information and a more personalized experience.
+HugeDomains may have the need to provide customer information to third parties for certain services required by HugeDomains, including but not limited to, credit card processors, technical support services, shipping of goods or services, customer relationship management, SMS delivery, Collections Agencies,  registry compliance, law enforcement, among other third parties for other similar such reasons. When a domain is purchased which is managed at a partner registrar, HugeDomains reserves the right to automatically push said domain name(s) into an account at that domain name registrar in order to provide the relevant purchased product(s) to the customer. HugeDomains will only share information that is necessary for the third party to provide the required services. This information will not be sold nor voluntarily disseminated unless reasonably needed at HugeDomains's sole discretion. 
 
-  By using ViPZE, you are consenting to have your personal data transferred to and processed in the United States.
+When a HugeDomains account is cancelled/suspended/terminated, either voluntarily or involuntarily, this does not mean that the customer's personally identifiable information has been deleted entirely from HugeDomains's systems and databases. Some or all this information may be retained by HugeDomains, including but not limited, to comply with legal obligations, resolve disputes, prevent fraud and/or enforce company agreements.  In addition, you will not be able to submit a form on this website without providing the exact information required to complete that specific action. It is forbidden and against of ICANN's rules to provide false Registrant information about any domain name registration(s). Providing false or fake information may and will result in suspension of the customer's HugeDomains account and forfeiture of any related domain name(s) registered with HugeDomains or any of its affiliate companies or domain name registrars.
 
- 
+HugeDomains will cooperate with government, law enforcement officials and relevant private parties to enforce and comply with Unites States law and with applicable and mandatory regulations regarding the services it provides. If necessary, HugeDomains will disclose any customer information to the relevant officials or private parties when appropriate or deemed reasonably necessary. Further, if HugeDomains believes, in its sole discretion, (including without limitation to subpoenas), that the preservation of certain customer information is necessary to protect its rights or the property and/or the rights of a third party. HugeDomains may further maintain or share customer information in order to protect the safety of the public or any person, to prevent or stop activity HugeDomains considers to be illegal based on applicable laws, or to otherwise uphold the law.  By using HugeDomains's website and services, all customers expressly consent to this Privacy Policy. HugeDomains further reserves the right to modify this Policy at any time. If changes are made to this Policy, those changes will be publicly posted. HugeDomains is not required to directly notify its customers of changes made to this Policy, however, if material changes are made, HugeDomains will notify its customers by email or through a public notice on its website.
 
-  **Children Under Age 13  
-**   
-ViPZE does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for ViPZE or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on ViPZE. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will 
+**To Access, Update, or Delete Your Personal Information**
 
-delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@vipzecorp.com](mailto:privacy@vipzecorp.com) .  
- 
+You have the right to correct any personal information held about you that is inaccurate or incomplete. If there is information located on HugeDomains servers you wish to correct, you will be required to login to your account and update the appropriate information. This includes account owner information, information submitted for various products and services offered through this website, including but not limited to purchased domain names and payment methods linked to your account.
 
-  **Children Between the Ages of 13 and 18**
+You have the right issue a request that HugeDomains delete your personal data. HugeDomains will review your request and delete data if possible. HugeDomains reserves the right, in its sole discretion, to retain any personal data. Personal data may be retained for several reasons, including, but not limited to: fraud mitigation; preserving or enforcing legal and/or contractual rights; data retention mandated by local law,  domain registrars processing of your data, relevant domain registries, contracts, or reasons necessary to HugeDomains's business and operate such services. If you wish to have your data erased, you can use the contact details found on the bottom of this page, please provide as many details as possible as to your request, and the company will determine if you have a valid basis for the erasure of your data. If you have questions about data retention you may contact us with your questions or concerns. You have the right to lodge a complaint with a relevant supervisory authority.
 
-  We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.  
+**Third Parties**
 
+HugeDomains.com may share your personal information with affiliated companies within its corporate family and other third-parties that integrate with HugeDomains services, and to provide products and services, including but not limited to: Customer Relationship Management; processing payments; fraud prevention; management of domain names; and serving advertisements. Many of these third parties are affiliate companies, and work in conjunction with HugeDomains to provide customers the products and services provided by HugeDomains to HugeDomains's customers.
 
-  **Use of Information Obtained by ViPZE**
+Targeted ads may be provided to HugeDomains customers based upon their webpages and Internet activity. These ads and offers may be displayed as product banners provided while you are engaged in Internet browsing or using HugeDomains.com and its services. In some instances, HugeDomains partners with third parties to manage advertising, including targeted advertising on HugeDomains webpages and other websites. These third-party partners may use certain data collection tools such as cookies in order to collect information about customer activities to provide customers with customized advertisements. When possible, such providers will give ways to opt-out of any such advertisements.
 
-  When you register with ViPZE, you create your own profile and privacy settings. Your profile information, as well as your name, email and photo, are displayed to people in the networks specified in your privacy settings to enable you to connect with people on ViPZE. We may occasionally use your name and email address to send you notifications regarding new services offered by ViPZE that we think you may find valuable.
+HugeDomains's website may contain links to third party websites. HugeDomains is not responsible for the privacy policy and data collection of third-party sites. You are solely responsible for reviewing any third-party privacy practices on all such websites.
 
-  Profile information is used by ViPZE primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information by your privacy settings. In some cases where your privacy settings permit it (e.g., posting to your wall), other ViPZE users may be able to supplement your profile.
+Some Internet browsers may allow users to receive notifications when a website is utilizing tracking technology and may allow that user to use a "do not track" signal. There is no industry standard or agreement among industry participates as to what this "do not track" signal entails. As there is not set definition or regulation regarding this process, HugeDomains does not make any adjustments or alternations in its operating processes when a "do not track" signal is received from an Internet browser.
 
-  Profile information you submit to ViPZE will be available to users of ViPZE who belong to at least one of the networks you allow to access the information through your privacy settings (e.g., school, geography, friends of friends). Your name, network names, and profile picture thumbnail will be available in search results across the ViPZE network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you (friend, friend of friend, member of your networks, etc.) that allows such access based on your privacy settings.
+**Corporate Reorganization**
 
-   
-ViPZE may send you service-related announcements from time to time through the general operation of the service. For instance, if a friend sends you a new message, or someone posts on your wall, you may receive an email alerting you to that fact.
+If HugeDomains were to merge with another company or if HugeDomains is involved in an acquisition or sale of all a substantial portion of assets, or other similar sale transaction, your information will be transferred as part of that transaction and you will be notified by email and/or notice on HugeDomains website of any such transfer and any choices you may have regarding your information.
 
-  Generally, you may opt out of such emails from the Notifications page, though ViPZE reserves the right to send you notices about your account even if you opt out of all voluntary email notifications. 
+**Contact Information**
 
-  ViPZE may use information in your profile without identifying you as an individual to third parties. We do this for purposes such as aggregating how many people in a network like a band or movie and personalizing advertisements and promotions so that we can provide you ViPZE. We believe this benefits you. You can know more about the world around you and, where there are advertisements, they're more likely to be interesting to you. For example, if you put a favorite movie in your profile, we might serve you an advertisement highlighting a screening of a similar one in your town. But we don't tell the movie company who you are.
+If you have any other questions about this Privacy Policy, the practices of HugeDomains you may use the contact us form on this web site to request additional information, or you can reach us  by phone at +1 (303) 893-0552 or by email at sales@hugedomains.com 
 
-  We may use information about you that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services to supplement your profile.
+\---
 
- 
+Last Revised: July 05, 2018
 
-  **Sharing Your Information with Third Parties** **  
-**    
-ViPZE is about sharing information with others — friends and people in your networks — while providing you with privacy settings that restrict other users from accessing your information. We allow you to choose the information you provide to friends and networks through ViPZE. Our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We do not provide contact information to third party marketers without your permission. We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you. For example:
-
-  Third party search engine "crawlers" (e.g. Google, Yahoo, MSN, Ask) will only have access to site information as shown on www.vipze.com/username. 
-
-  We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about ViPZE, to remove repetitive information from our user lists, to process payments for products or services, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the ViPZE-specified purposes.
-
-  If you, your friends, or members of your network use any third-party applications developed using the ViPZE Platform ("Platform Applications"), those Platform Applications may access and share certain information about you with others in accordance with your privacy settings. You may opt-out of any sharing of certain or all information through Platform Applications on the Privacy Settings page. In addition, third party developers who have created and operate Platform Applications ("Platform Developers"), may also have access to your personal information (excluding your contact information) if you permit Platform Applications to access your data. Before allowing any Platform Developer to make any Platform Application available to you, VIPZE requires the Platform Developer to enter into an agreement which, among other things, requires them to respect your privacy settings and strictly limits their collection, use, and storage of your information. However, while we have undertaken contractual and technical steps to restrict possible misuse of such information by such Platform Developers, we of course cannot and do not guarantee that all Platform Developers will abide by such agreements. Please note that VIPZE does not screen or approve Platform Developers and cannot control how such Platform Developers use any personal information that they may obtain in connection with Platform Applications. In addition, Platform Developers may require you to sign up to their own terms of service, privacy policies or other policies, which may give them additional rights or impose additional obligations on you, so please make sure to review these terms and policies carefully before using any Platform Application. You can report any suspected misuse of information through the ViPZE Platform and we will investigate any such claim and take appropriate action against the Platform Developer up to and including terminating their participation in the ViPZE Platform and/or other formal legal action.
-
-We occasionally provide demonstration accounts that allow non-users a glimpse into the ViPZE world. Such accounts have only limited capabilities (e.g., messaging is disabled) and passwords are changed regularly to limit possible misuse.
-
-  We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the ViPZE service or using the ViPZE name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies.
-
-We let you choose to share information with marketers or electronic commerce providers through on-site offers.  
-We may offer stores or provide services jointly with other companies on ViPZE. You can tell when another company is involved in any store or service provided on ViPZE, and we may share customer information with that company in connection with your use of that store or service.
-
-  Like many other websites that interact with third party sites, we may receive some information even if you are logged out from ViPZE, or that pertains to non-ViPZE users, from those sites in conjunction with the technical operation of the system. In cases where ViPZE receives information on users that are not logged in, or on non-ViPZE users, we do not attempt to associate it with individual ViPZE accounts and will discard it.
-
-  If the ownership of all or substantially all of the ViPZE business, or individual business units owned by ViPZE were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.
-
-  When you use ViPZE, certain information you post or share with third parties (e.g., a friend or someone in your network), such as personal information, comments, messages, photos, videos, or other information, may be shared with other users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, photos, videos, or other items, this information may become publicly available.
-
-   
-**Links** **  
-**    
-ViPZE may contain links to other websites. We are not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by ViPZE.
-
-    **Third Party Advertising**  
-   
-Advertisements that appear on ViPZE are sometimes delivered (or "served") directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. ViPZE does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on ViPZE unless you choose to share it with them.
-
-  This privacy policy covers the use of cookies by ViPZE and does not cover the use of cookies or other tracking technologies by any of its advertisers.
-
-  **Changing or Removing Information**
-
-   
-Access and control over most personal information on ViPZE is readily available through the profile editing tools. ViPZE users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their ViPZE account may do so on Your Profile Page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of ViPZE.
-
-  Where you make use of the communication features of the service to share information with other individuals on ViPZE, however, (e.g., sending a personal message to another ViPZE user) you generally cannot remove such communications.
-
-    **Security** **  
-**
-
-ViPZE takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to [http://en.wikipedia.org/wiki/Secure_Sockets_Layer](http://en.wikipedia.org/wiki/Secure_Sockets_Layer)). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of ViPZE Web Site, please contact us at [privacy@vipzecorp.com](mailto:privacy@vipzecorp.com) .  
-  **Terms of Use, Notices and Revisions**
-
-  Your use of ViPZE, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time without notice and at our discretion.  Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.  
-
-
-**Contacting the Web Site**  
-If you have any questions about this privacy policy, please contact us at [privacy@vipzecorp.com](mailto:privacy@vipzecorp.com) . You may also contact us by mail at 100 Country Club Drive Suite #108, Hendersonville, TN 37075.   
-   
-  
-|  |   
-| 
+Copyright 2005-2018 HugeDomains.com. All Rights Reserved.
