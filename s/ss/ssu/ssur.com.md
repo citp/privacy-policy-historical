@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ssur.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423214851id_/https%3A//www.ssur.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssur.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231041009id_/https%3A//www.ssur.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – SSUR
-
-**PRIVACY POLICY**
 
 We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
 
