@@ -1,146 +1,209 @@
-> *The following text is extracted and transformed from the revolutiongolf.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222241id_/https%3A//www.revolutiongolf.com/%40rg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolutiongolf.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231223726id_/https%3A//www.nbcuniversal.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | NBCUniversal
 
-### _Last updated: May 9th, 2016_
+## Privacy Policy
 
-Thank you for visiting and using the RevolutionGolf.com website (hereinafter referred to as the "Site"). We sincerely respect your privacy and assure you we will take every measure to protect your privacy and personal information. We are here to serve you as highly valued members, so your peace of mind and confidence while using the Site are our highest concern.
+Last Updated: 25 May 2018
 
-This privacy policy applies to this Site only. It does not apply to other websites to which we link. Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You can rest assured that everything below accurately represents our policy regarding your privacy and personal information, so you can trust there is no mysterious "small print." By using the Site, you agree that your use signifies your assent to this privacy policy.
+This Privacy Policy explains how NBCUniversal and its affiliates collect, use, and share information from or about you when you use our websites, downloadable applications such as games, interactive TV mobile applications, and voice-activated assistants, and other services that link to this policy, as well as connected devices such as theme park devices (“NBCUniversal Services”).
 
-### Information Collection
+As one of the world’s leading media and entertainment companies, we offer NBCUniversal Services through a wide range of businesses and under many different brands. You can find out more information about NBCUniversal, including a list of our affiliates (“NBCUniversal Affiliates”), [here](https://web.archive.org/businesses). 
 
-We collect two types of information from you: i) information that you voluntarily provide to us (e.g. through a voluntary registration process, sign-ups or emails); and ii) information that is derived through automated mechanisms.
+When you use the NBCUniversal Services, you agree to the collection, use, and sharing of your information as described in this Privacy Policy.
 
-### Voluntary Registration Information.
+If you are using the NBCUniversal Services while in the European Economic Area, the United Kingdom or Switzerland, this policy does not apply.  Please refer to the NBCUniversal [European Privacy Policy.](https://web.archive.org/privacy/european)
 
-In order to fully access this Site, you must first complete the registration process, during which we will collect personal information about you. The information will include your name, physical or mailing address, and email address along with several optional fields to help us better service your needs. From time to time, for security or other purposes, we may also ask you to resubmit or reconfirm some or all of your personal information. We do not collect personally identifiable information about you except when you specifically provide or confirm such information to us on a voluntary basis.
-
-By registering with us, you consent to the use and method of disclosure as described in this privacy policy.
-
-### Information From and/or About Others
-
-We may also collect and store personally identifiable information about other people that you provide to us, as well as information about you provided by others.
-
-### Information You Upload or Distribute
-
-If you or other users use our Site to upload, share and/or distribute content (including videos, comments or other submissions), and such content contains personally identifiable information about you or others, such information may be stored in order to allow for such uploading, sharing and/or distribution. As a requirement to use our Site, you acknowledge that you have the appropriate consent(s) from any individual (or the parent of any child under the age of 13) to share their personally identifiable information with us.
-
-WE ARE NOT LIABLE OR RESPONSIBLE FOR THE PERSONALLY IDENTIFIABLE OR OTHER INFORMATION YOU CHOOSE TO SUBMIT IN ANY PUBLICLY ACCESSIBLE AREA OF THE SITE, SUCH AS BLOG THREADS, COMMENTS, FORUMS, BULLETIN BOARDS AND CHAT ROOMS.
-
-### Non-Personal Information
-
-RevolutionGolf.com collects information that is sent to us automatically by your web browser. RevolutionGolf.com may use this information to generate aggregate statistics about visitors to the Site. This information typically includes details about your:
-
-  * IP Address.
-  * Browser Type.
-  * Browser Plug-In Details.
-  * Operating System.
-  * Local Time Zone.
-  * Date and Time of Each Visitor Request (e.g. web pages selected and time spent on each page).
-  * Referring Site and/or Search Engine.
-  * Device Type (e.g. desktop, laptop, tablet, phone, etc.).
-  * Screen Size, Color, Depth, and System Fonts.
+  1. TYPES OF INFORMATION WE COLLECT
+  2. HOW WE USE YOUR INFORMATION
+  3. HOW WE SHARE YOUR INFORMATION
+  4. CHILDREN
+  5. YOUR RIGHTS AND CHOICES
+  6. LOCATION OF YOUR INFORMATION 
+  7. HOW WE PROTECT YOUR INFORMATION
+  8. IMPORTANT INFORMATION FOR CALIFORNIAN RESIDENTS
+  9. UPDATES TO OUR PRIVACY POLICY
+  10. CONTACT US 
 
 
 
-RevolutionGolf.com may use non-personal information for various business purposes such as providing customer service, fraud prevention, market research, and improving our Site. The information we receive depends on the settings on your browser. Please check your browser if you want to learn what information your browser sends or how to change your settings.
+**1\. TYPES OF INFORMATION WE COLLECT**
 
-### Voluntary Information for Services and Features
+We, or our service providers on our behalf, may collect the following information about you or your use of the NBCUniversal Services:
 
-We also collect personally identifiable information when you choose to use certain other features of the Site, including, for example: i) making purchases, ii) consenting to receive email or text alerts about upcoming promotions or events, iii) participating in our forum and blogs, and iv) commenting on articles. When you choose to use these additional features, we require you to provide your “Contact Information” in addition to other personal information that may be required to complete a transaction such as your phone number, billing and shipping addresses and credit card information. Occasionally, we may also request information such as your shopping preferences and demographics which will help us better serve you and our other users in the future.
+**Information You Provide to Us**
 
-### What are Cookies, Web Beacons and Other Tracking Technologies?
-
-As is common practice among major member services and information related websites (i.e. Amazon.com, USAtoday.com, ESPN.com, Zappos.com) our Site uses cookies and other similar technologies that help us better customize your experience. For example, cookies are that technology that enables a site to recognize you as soon as you visit the site, thus giving you immediate access without requiring you to sign in repeatedly. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. If a user's system is idle for a defined time, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorized access to the user's information while they are away from their computer. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Site every time you visit those pages.
-
-Other tracking technologies that we may use include web beacons and pixel tags. Web beacons are small pieces of data that are embedded in images on the pages of our Site. Web beacons may involve the transmission of information directly to us, to another party on our behalf, or to another party in accordance with its privacy policy. We may use web beacons to bring together information we collect about you. Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers.
-
-In the course of serving their own videos and advertisements to this site, our third-party affiliates and advertisers and may use cookies, web beacons, pixel tags or other tracking technologies for the same customer experience enhancing purposes outlined above and can be used to decide which ads you see on our Site, and on third-party sites and applications.
-
-### Referrals
-
-You may choose to invite friends to join the Site by sending invitation emails via our invite feature. The Site stores the email addresses you provide so that the respondents may be added to your social network, confirm orders/purchases and also to send reminders of the invitations. Recipients of invitations may contact us to request removal of their information from our database.
-
-### How We Use Your Information
-
-We use information that we collect about you or that you provide to us, including any personal information:
-
-  * To present the Site and its contents to you.
-  * To provide you with information, products, or services that you request from us, such as fulfilling product orders and providing customer service and support.
-  * To support your use of the Site, such as allowing you to participate in interactive features on the Site.
-  * To provide you with notices about your account, including expiration and renewal notices.
-  * To notify you about changes to the Site or any products or services we offer or provide through it.
-  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
-  * In any other way we may describe when you provide the information.
-  * For any other purpose with your consent.
+  * **Contact and registration information:** such as your name, address, telephone number, email address, username, and password.
+  * **Information about you or your friends and family** : such as demographic or biographical information, gender, interests, photos, videos, or any other information about you that you provide to us, including information about friends, contacts or referrals.
+  * **Transaction information** : payment information such as your credit/debit card details, purchase history, delivery address and other information related to your transaction.
+  * **Competition, sweepstakes and survey information** : any information provided when entering competitions, prize draws and sweepstakes we, or a third party on our behalf, may run. We may carry out surveys and panel discussions, which may request that you voluntarily provide additional information.
+  * **Customer care, technical support and other feedback:** questions and other messages you address to us directly through online forms and social media platforms. If you contact us by phone, we may record the conversation and/or keep a summary of the call.
+  * **Other information you provide:** any other information that you provide to us including, posts, date of birth, content, photos, booking times or biometric identifiers such as facial scans or fingerprints.
 
 
 
-The Site may use your personal information to deliver information and promotional offers based on data such as region, gender, interests, goals, habits, etc. Likewise, to enhance your experience, the Site may engage certain trusted third parties to track usage, analyze data such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. This is collected in order to better understand our Web site usage, and enhance the performance of services to maintain and operate the Site and certain features on the Site.
+**Information We Collect Automatically**
 
-### Disclosure of Your Information
-
-We may disclose personal information that we collect or you provide as described in this privacy policy:
-
-  * To our subsidiaries and affiliates.
-  * To contractors, service providers, and other third parties we use to support our delivery of products and services to you, or who otherwise support our business.
-  * To third parties who may use your personal information to market their products or services to you.
-  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of RevolutionGolf.com's assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by RevolutionGolf.com about our Site users is among the assets transferred.
-  * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply our Terms of Service (https://www.revolutiongolf.com/@rg/terms-of-service) and other agreements, including for billing and collection purposes.
-  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of RevolutionGolf.com, our customers, or others. This may include exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
-  * For any other purpose as may be disclosed by us when you provide the information.
-  * For any purpose with your consent.
+  * **Device Information:  **including your IP address, browser types, browser language, operating system, platform type, gaming platform, device types, and device IDs such as unique identifiers, advertising identifiers, or gaming platform identifiers.
+  * **Usage Information:  **including files you download, domain names, landing pages, your browsing activity, what you click, scrolling and keystroke activity, pages viewed, advertising viewed or visited, forms or fields you complete or partially complete, search terms, whether you open an email and your interaction with the content, access times, and error logs, and other similar information.
+  * **Game Information:** including the NBCUniversal games you own or play, play statistics, scores, replays, and achievements.
+  * **Location Information:** including the city, state and ZIP code associated with your IP address, information derived through WiFi triangulation, and precise location information from GPS-based functionality on your mobile devices or from your use of our Mobile Apps, and with your consent, your precise GPS information.
+  * **Viewing Behavior:** including the content you view, how long you watch each video, the quality of the service you receive (e.g. buffering, load times) as well as advertisements you have been shown or interacted with.
+  * **Offline Information.**   Certain information may also be stored while you are offline and transmitted to us when you next connect to the Internet, regardless of where you connect from or the device you use to connect.
 
 
 
-We may also disclose, without restriction, aggregated information about our users, and information that does not identify any individual.
+**Information from Third Party Sources**
 
-### How RevolutionGolf.com Protects Your Information
+We may receive information about you from third parties, partners or our service providers such as:
 
-We are committed to protecting the information we receive from you. We take appropriate security measures to protect your information against unauthorized access to or unauthorized alteration, disclosure or destruction of data. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we maintain appropriate physical, electronic, and managerial procedures to safeguard and secure the information and data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved.
+  * **Public Information:  **from publicly and commercially available online or offline sources, as permitted by law including demographic information, purchasing data, membership in loyalty programs or information about advertisements you have seen or acted upon, including your interaction with advertisers’ products and services.
+  * **Social Media Information:  **if you visit the NBCUniversal Services on a device on which you also use social networks or if you interact with us through a social media service or other platform, we may have access to some information you provide to that social network or platform such as your name, email address, friend list, photo, age, gender, location, birthday, social networking ID, current city, and the people/sites you follow.
 
-### Third Party Advertising
 
-Advertisements appearing on this Site may be delivered to you by RevolutionGolf.com or one of our Web advertising partners. As noted above, our Web advertising partners may use cookies to enhance your user experience by recognizing your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising partner to deliver targeted advertisements that they believe will be of most interest to you. RevolutionGolf.com does not have access to or control of the cookies that may be placed by the third party advertising servers of ad partners.
 
-This privacy policy covers the use of cookies by RevolutionGolf.com and does not cover the use of cookies by any of its advertisers
+**2\. HOW WE USE YOUR INFORMATION**
 
-### Links to Third-Party Sites
+Depending on the NBCUniversal Service you use, we, or our service providers, may use your information to:
 
-Our Site contains links to third party websites, applications and services not operated by us. These links are provided as a service and do not imply any endorsement by RevolutionGolf.com of the activities or content of these sites, applications or services nor any association with their operators. RevolutionGolf.com is not responsible for the privacy policies or practices of any third party including websites or services directly linked to our Site. We encourage you to review the privacy policies of any third party site that you link from our Site.
+**Provide the NBCUniversal Service including**
 
-### Social Media Features & Widgets
+  * responding to your requests or inquiries;
+  * providing technical support;
+  * sending you service-related communications, including announcements and administrative messages;
+  * displaying certain content, such as content you upload and make available, comments, and game statistics and rankings;
+  * generating suggestions on the type of video you might enjoy;
+  * understanding how you use the NBCUniversal services so we can improve them;
+  * processing your entries into sweepstakes, contests or promotions.
 
-Our Site may include social media features, such as the Facebook links, and widgets, such as the “Share This” button or interactive mini-programs that run on our Site. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policies of the third parties providing them.
 
-### Accessing and Updating Your Personal Information and Preferences
 
-We provide mechanisms for updating and correcting your personal information for many of our services. You may modify or remove any of your personal information at any time by logging into your account and accessing features such as edit and account.
+**Personalize your experience including**
 
-### Email Choice/Opt-out
+  * providing you with advertising based on your activities and interests;
+  * creating and updating audience segments that can be used for targeted advertising and marketing on the NBCUniversal services, television, third party services and platforms, mobile apps and/or websites, and offline;
+  * creating profiles about you, including adding information we obtain from third parties, which may be used for analytics, marketing and advertising;
+  * sending you newsletters, surveys and information about products, services and promotions offered by NBCUniversal, our partners, and other organizations with which we work.
 
-If you no longer wish to receive updates or notifications, you may opt-out of receiving these communications by changing your Alert settings and/or Preferences in your Account controls.
 
-### Children's Privacy and Parental Controls
 
-We do not request or accept any personal information from minor children. If you are not 18 or older, you are not authorized to register as a user/member of the Site without written permission from a parent or legal guardian. We take special precautions with regard to personally identifiable information of children under age 13. If we learn that personally identifiable information of a child under age 13 has been collected without parental consent through our Site, we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child or a minor under the age of 13 has posted, submitted or otherwise communicated Personal Information to our Site without your consent, then you may alert us at “legal@RevolutionGolf.com” so that we may take appropriate action to remove the minor's personally identifiable information from our systems. Please contact us for more information.
+**Recognize your devices and associate the information with your profile including**
 
-### The Obligatory Disclaimer
+  * using data collected or received from NBCUniversal Affiliates, service providers, advertisers, and other third parties, such as your device information, to match mobile advertising and cookie identifiers;
+  * matching your devices if you log into the same online service on multiple devices or web browsers or if your devices share similar attributes that support an inference that they are used by the same user or household;
+  * using this information to match your interests across devices, as well as for analytics, ad serving or reporting, or to improve the services;
+  * identifying you or your device or associated information with you, your device, or your profile whenever you visit the NBCUniversal Service, even if you do so when logged out or without intentionally identifying yourself.
 
-By consenting to the Terms and Conditions of the Site and thereby this privacy policy as well, you acknowledge that no data transmission over the Internet is completely secure. You acknowledge that we cannot guarantee or warrant the security of any information you provide to us and you transmit such information to us at your own risk.
 
-### Notification of Changes
 
-RevolutionGolf.com reserves the right to edit this privacy policy from time to time at its sole discretion. It is our policy to post any changes we make to our privacy policy on this page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Site and this privacy policy to check for any changes. Your continued use of the Site indicates your assent to the privacy policy as posted.
+**Provide Services for our Parks & Resorts**
 
-### CONTACT INFORMATION:
+  * such as ticketing and payment services, mapping guidance, offers, and ride and gaming features.
 
-If you have any questions or concerns regarding this privacy policy please contact: 
 
-RevolutionGolf.com  
-Maven Marketing, LLC  
-349 5th Ave, Suite 815  
-New York, NY 10016  
-legal@RevolutionGolf.com
+
+**Prevent fraud and defend our legal rights**
+
+  * protecting the safety of our users and others;
+  * enforcing our terms of service;
+  * preventing fraud or any other potentially illegal activities.
+
+
+
+We may combine all the information we collect from or receive about you for any of the foregoing purposes. Please see Your Rights and Choices section for further information.
+
+We may aggregate or de-identify your information and may use, share, rent or sell aggregated or de-identified information for any purpose and such information is not subject to this Privacy Policy.
+
+**3\. HOW WE SHARE YOUR INFORMATION**
+
+We may share your information with:
+
+  * **Related Companies:**  NBCUniversal Affiliates, as well as our parent company Comcast Corporation and its affiliate, Comcast Cable, to help better tailor services, products, marketing, and advertising to you.
+  * **Service providers that perform certain business-related functions on our behalf:**  including research and analytics, website hosting, transaction fulfillment, payment, processing database maintenance, contest, sweepstakes and promotion administration, fraud prevention, technology services and platforms, identity management and acquisition and conversion services.
+  * **Advertisers, Advertising Networks, and Other Third Parties:  **information about how you use the NBCUniversal Services and interact with content or ads to better tailor services, products, marketing and advertising on our service or on third party platforms. These third parties may use their own tracking technologies/cookies to collect or request information about you including through surveys. See our [Cookies and Tracking Technologies Policy](https://web.archive.org/privacy/cookies) for information.
+  * **Hashed/Masked Information**.  We may share information about you along with a hashed or masked identifier, with third parties so they may better personalize your experience with them and the offers they send you.
+  * **Social Networks:**  certain features in our NBCUniversal Services may be published to your social networks. For example, if you click on a Facebook “like” button on an NBCUniversal Service, the “like” may appear on your Facebook account. To control this sharing of information, please review the relevant social network’s privacy policy.
+  * **Other Users and Search Engines:**  depending on the NBCUniversal Service, you may provide certain information including your name, photo, and other information to create an account (“Account Profile”). Some information in your Account Profile may be available publicly to other members of that service, or the general public, and may be searchable by search engines.  When we display your user submissions, they will be identified by information in your Account Profile. We may distribute user submissions to third parties, and if we do, we may include any information in your Account Profile or submissions.
+  * **Research and Measurement Companies:** we share information about content you view on the NBCUniversal Services with video measurement services such as Nielsen TV Ratings, as well as other analytics providers. See Your Rights and Choices section for more information.
+  * **Law Enforcement Agencies, Regulators, Content Protection Organizations, Anti-fraud Coalitions and other groups to** : 
+    * protect our legal rights, privacy or safety, and that of NBCUniversal Affiliates, our employees, agents, contractors, or other individuals;
+    * protect the safety and security of visitors to the NBCUniversal Services or other properties;
+    * protect against fraud or other illegal activity or for risk management purposes;
+    * respond to inquiries or requests from government, regulatory, law enforcement, or public authorities;
+    * permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages that we may sustain;
+    * comply with the law including with subpoenas, search warrants, court orders, and other legal process; or
+    * enforce applicable terms of service.
+
+
+
+**Video Viewing Behavior**
+
+With your appropriate consent, and consistent with applicable law, we may share your video viewing behavior with third parties including advertising companies, analytic partners, and social media sites.
+
+**Sale or Transfer of all or Part of our Business or Assets**
+
+In the event that NBCUniversal or any NBCUniversal Affiliate is involved in a merger, acquisition, transfer of control, bankruptcy, reorganization or sale of assets, or diligence associated with such matters, we may sell or transfer the information described in this Privacy Policy as part of that transaction.
+
+**4\. CHILDREN**
+
+Most of the NBCUniversal Services are intended for users of all ages. Information about NBCUniversal Services directed to children under the age of 13 or where we have actual knowledge a child is under the age of 13 can be found in our [Children’s Privacy Policy](https://web.archive.org/privacy/Children). If you are a parent or guardian and believe your child under 13 has provided us with personal information without consent, please contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com).
+
+**Minors Under 18**
+
+Minors under 18 years old, or their parents, may request the removal of information that they posted to NBCUniversal sites by contacting [privacy@nbcuni.com](mailto:privacy@nbcuni.com). Upon such request, NBCUniversal will anonymize, or remove any content posted by a minor, unless required by law to retain such content or information.
+
+**Schools**
+
+Schools and other organizations that are covered by state student privacy laws will be able to control the collection and processing of student data when they create and utilize certain solutions we make available to them, such as sports team management solutions.
+
+**5\. YOUR RIGHTS AND CHOICES**
+
+**Communication Preferences and Opt-outs**
+
+You may unsubscribe from our email newsletters or promotional emails by following the opt-out instructions contained in the email. You cannot unsubscribe from service-related, transactional, or emails related to your NBCUniversal Service.
+
+**Cookies and Similar Technologies**
+
+We, and our service providers, advertisers, and other partners, use cookies and similar technologies (e.g., web beacons, pixels, ad tags and device identifiers) to recognize you and/or your device(s) on, off and across different NBCUniversal Services and devices. For more information about the use of cookies on the NBCUniversal Services (including your opt-out choices) please see the [Cookies and Tracking Technologies Policy](https://web.archive.org/privacy/cookies).
+
+Our Cookies and Tracking Technologies policy provides certain opt-out choices.  However, we may still allow collect usage data for certain other purposes (e.g., contextual advertising, research, analytics, and internal operations).
+
+**Mobile Apps**
+
+For information about Mobile Apps, including how to opt out of targeted advertising, video measurement and certain analytics, please visit [here](https://web.archive.org/privacy/mobile-apps).
+
+**Access, Correction and Deletion**
+
+Depending on the NBCUniversal Service you use you may be able to access and correct certain information through the features provided by the service. In addition, where legally required, we will provide users with access to their information and the ability to review, update, correct, and/or delete it. We will take reasonable steps to verify your identity, such as requiring a password and user ID, and possibly photo ID before granting access to your information. For more information please contact  [privacy@nbcuni.com](mailto:privacy@nbcuni.com).
+
+**Opt-out of Measurement Research by Nielsen**
+
+NBCUniversal video services may feature Nielsen proprietary measurement software that will allow you to contribute to market research, like Nielsen’s TV Ratings.
+
+To learn more about Nielsen digital measurement products and your choices in regard to them, please visit  <http://www.nielsen.com/digitalprivacy> for more information.
+
+**Other Online Services**
+
+NBCUniversal Services may contain links to third party websites and services. These other sites (even if branded as NBCUniversal) may collect information about you when you visit them and use this information in accordance with their own privacy policies and terms of use. We do not endorse or control those third parties’ policies or practices. In some circumstances, NBCUniversal may host some websites on behalf of others and those entities may place or permit the placement of cookies and other tracking technology. NBCUniversal is not responsible for these tracking practices.
+
+**6\. LOCATION OF YOUR INFORMATION**
+
+NBCUniversal is headquartered in the United States and may from time to time transfer your information to other countries and make it accessible to other NBCUniversal Affiliates and service providers and advertisers regardless of where they are located. We will take steps to ensure that your information receives an appropriate level of protection.
+
+**7\. HOW WE PROTECT YOUR INFORMATION**
+
+We maintain procedural, technical, and physical safeguards for the NBCUniversal Services to help protect against loss, misuse or unauthorized access, disclosure, alteration, or destruction of the information you provide via the NBCUniversal Services. These safeguards vary depending upon the sensitivity of the information we collect and store. Please be aware that no security solutions are infallible.
+
+**8**. **IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS  **
+
+If you are a resident of California, you can request a list of all the third parties to which we have disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ direct marketing purposes. California residents may contact us at Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US. Include the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. In the body of your request, please provide sufficient information for us to determine if this applies to you. You need to attest to the fact that you are a California resident and provide a current California address for our response. We will not accept requests by telephone, email, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+
+**9\. UPDATES TO OUR PRIVACY POLICY  **
+
+If we make material changes to the way we collect or use your information, we will notify you by posting a revised version of this Privacy Policy online, and we may also notify you by other means. You should check the NBCUniversal Services periodically for updates.
+
+The date at the top of the Privacy Policy tells you when it was last updated. Any changes to this Privacy Policy will become effective when the revised Privacy Policy is posted. If you use this online service after the changes are posted, you have agreed the changes. If you do not agree with this Privacy Policy or any changes we make, please do not continue to use the NBCUniversal Services.
+
+**10\. CONTACT US**
+
+For any questions or complaints about this Privacy Policy or our privacy practices, please contact us at  [privacy@nbcuni.com](mailto:privacy@nbcuni.com) or Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US.
