@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drive.com.au privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625104956id_/https%3A//www.drive.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drive.com.au privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231103338id_/https%3A//www.drive.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement Drive.com.au | Enquiries
 
@@ -142,7 +142,7 @@ Level 6
 Melbourne VIC 3004
 
 Tel:  1300 438 639  
-Email:  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email:  privacy@drivenetwork.com.au
 
 ## Disclosure of Personal Information Outside Australia
 
