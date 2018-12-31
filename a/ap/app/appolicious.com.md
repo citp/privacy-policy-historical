@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appolicious.com privacy policy that was archived on 2018-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180507105511id_/https%3A//appolicious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appolicious.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231091835id_/https%3A//appolicious.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Appolicious mobile apps
 
@@ -43,7 +43,7 @@ Except as set forth in this Privacy Policy, we will not share your personal info
 
 To facilitate and customize your experience with our Site, we may place cookies on your computer. A cookie is a small text file that is stored on a user’s computer that stores non-personal information about that user. We use cookies to save you time while using our Site and remind us who you are.  Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline or delete cookies.  Please note that if you decline or delete these cookies, some parts of our Site may not work properly.
 
-We may use a third-party analytic company to track and analyze non-personal usage information. In addition, we may use third-party advertising companies to serve ads when you visit our Site. These companies may place cookies on your computer in order to deliver targeted advertisements.  If you would like to opt-out of such collection by our third-party analytic contractor, please visit: <http://www.google.com/privacy_ads.html>.  If you would like to opt-out of such collection by third-party advertising servers that are members of the Network Advertising Initiative, please visit:  [http://www.networkadvertising.org/consumer/opt_out.asp](https://www.networkadvertising.org/consumer/opt_out.asp "http://www.networkadvertising.org/consumer/opt_out.asp").
+We may use a third-party analytic company to track and analyze non-personal usage information. In addition, we may use third-party advertising companies to serve ads when you visit our Site. These companies may place cookies on your computer in order to deliver targeted advertisements.  If you would like to opt-out of such collection by our third-party analytic contractor, please visit: [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html).  If you would like to opt-out of such collection by third-party advertising servers that are members of the Network Advertising Initiative, please visit:  [http://www.networkadvertising.org/consumer/opt_out.asp](https://www.networkadvertising.org/consumer/opt_out.asp "http://www.networkadvertising.org/consumer/opt_out.asp").
 
 We may use other industry-standard technologies like pixel tags and other web beacons to track your use of our Site.  Pixel tags and web beacons are tiny graphic images placed on certain pages on our Site or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action.  Pixel tags allow us to measure user volume and behavior, and permit us to measure the performance of our promotions.
 
@@ -71,4 +71,4 @@ We reserve the right to change this Privacy Policy from time to time by posting 
 
 9.  **Contacting Us**
 
-If you have questions or concerns about this Privacy Policy, please contact us via email at legal@appolicious.com.
+If you have questions or concerns about this Privacy Policy, please contact us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
