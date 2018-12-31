@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myschoolgist.com.ng privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625194336id_/https%3A//www.myschoolgist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschoolgist.com.ng privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231184547id_/https%3A//www.myschoolgist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Myschoolgist
+# Privacy Policy - Myschoolgist
 
 At [MySchoolGist](https://www.myschoolgist.com/ "MySchoolGist"), the privacy of our visitors is of _extreme importance_ to us. This Privacy Policy governs the manner in which MySchoolGist collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.myschoolgist.com](https://www.myschoolgist.com/ "MySchoolGist") website. This privacy policy applies to the Site and all products and services offered by MySchoolGist.
 
@@ -66,6 +66,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you require any more information or have any questions regarding our privacy policy, please feel free to contact us using the information below.
 
   * Contact Us [Page](https://www.myschoolgist.com/contact-us/ "Contact Us").
-  * Send mail directly [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4726232a2e29072a3e34242f28282b202e34336924282a)
+  * Send mail directly [admin@myschoolgist.com](mailto:admin@myschoolgist.com)
 
 
