@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tpnn.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625173152id_/https%3A//www.westernjournal.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpnn.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231165039id_/https%3A//www.westernjournal.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Western Journal
 
@@ -24,7 +24,7 @@ LMI does use cookies to store information about visitors’ preferences, record 
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on LMI.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/privacy_ads.html>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 **Third Party Advertisers**  
 Some of our advertising partners may use cookies and web beacons on our site.
