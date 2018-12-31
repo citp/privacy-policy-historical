@@ -1,142 +1,89 @@
-> *The following text is extracted and transformed from the thisoldhouse.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213092010id_/https%3A//www.thisoldhouse.com/old-house-terms-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisoldhouse.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231131034id_/https%3A//www.thisoldhouse.com/old-house-ventures-llc-privacy-policy) for the most accurate reproduction.*
 
-# This Old House Terms of Service & Privacy Policy | This Old House
+# THIS OLD HOUSE VENTURES, LLC PRIVACY POLICY | This Old House
 
-**Table of Contents**
+**THIS OLD HOUSE VENTURES, LLC** and its subsidiary and affiliates (collectively, “TOHV”) respects the privacy rights of our users and is strongly committed to protecting your privacy. This Privacy Policy applies to its Websites, magazine, any information collected and provided to TOHV when you subscribe digitally to [thisoldhouse.com](https://www.thisoldhouse.com/), [House.one](https://www.house.one/), [Newyankee.com](https://www.newyankee.com/) (“Website”) or the TOHV magazine and information collected offline when you subscribe to the print edition of the TOHV magazine, but does not apply to any other product or service of TOHV, unless otherwise expressly indicated by TOHV (such as by including a link to this Privacy Policy on other TOHV websites or on TOHV mobile applications).
 
-  * The Information We Collect
-  * How We Use the Information 
-  * Privacy Options
-  * Your California Privacy Rights: Notice to California Customers
-  * Collection of Information by Third-Party Sites and Sponsors
-  * Cookies
-  * Our Commitment to Security
-  * Accessing, Correcting, and Deleting Your Personal Information
-  * Retention of Personal Information
-  * Special Note for Parents
-  * Changes to this Privacy Policy
-  * How to Contact Us
+## **Collection and Use of Your Personal Information**
+
+TOHV, or where relevant a designated service provider, collects personal information that you voluntarily provide on this Website, on third-party websites and applications when subscribing digitally to the Website or TOHV Magazine, or offline in connection with your TOHV Magazine print edition subscription, which may include your name, address, email address, contact information, credit card number, billing information, password etc. For example, TOHV or a designated service provider collects personal information when you register on this Website, request certain TOHV services or products, or submit the information to enter a sweepstakes, contest, or other promotion. If you do not provide certain personal information, not all functionality on the site will be available. 
+
+Do not provide information about others unless you are authorized to do so and consent to have all information used, disclosed, and transferred in accordance with this Privacy Policy. By submitting the information about others, you represent and warrant that you are authorized to do so and that you have received authorization from the person about whom you are providing the information and that person has consented to have all information used, disclosed, and transferred in accordance with this Privacy Policy.
+
+We use this information for carefully considered business purposes which also benefit our customers, and which include some or all of the following:
+
+  * to provide our services and products 
+  * to communicate with you 
+  * to help TOHV improve our services and products and develop new services and products 
+  * to provide support for our services and products, and for TOHV internal quality control purposes 
+  * to provide you with offers and promotions about services and products of TOHV or of other parties that may be of interest to you 
+  * to enhance your experience with this Website, including to save your preference and login information 
+  * to analyze Website usage and analyze use of the Website 
+  * to protect the interests, rights, safety, or property of TOHV or others and to monitor compliance with and enforce the terms of any agreement with TOHV 
+  * to operate our services, products, and systems properly. 
 
 
 
-[Safe Harbor Privacy Policy](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/TI-SAFEHARBOR.html)
+We use any credit card or payment information we acquire from you to fulfill your order. You may instruct TOHV at any time not to use your personal information covered by this Privacy Policy to provide you with offers and promotions by clicking [here](http://www.pages04.net/toh/preferences/third-party). Please note that if you exercise choice in this manner, you will continue to receive communications concerning your account and products and services you requested, and in response to any requests for information by you. Please also note that this opt-out process may take some time to complete, consistent with applicable law.
 
-[European Union Privacy Information](https://subscription.timeinc.com/storefront/privacy/thisoldhouse/generic_privacy_new_eu.html?dnp-source=I)  
-For citizens of member countries of the European Union, and Switzerland, Norway, Lichtenstein, Iceland, Australia, and New Zealand
+TOHV or a designated service provider may takes photographs for security purposes which may available to TOHV users worldwide.
 
-[Canada Privacy Information](https://subscription.timeinc.com/storefront/privacy/thisoldhouse/generic_privacy_new_caneu.html?dnp-source=I)
+## **Use of Cookies And Other Electronic Tools**
 
-This is the Privacy Policy which applies to you if you live outside the [European Union](https://subscription.timeinc.com/storefront/privacy/thisoldhouse/generic_privacy_new_eu.html?dnp-source=I), Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and [Canada](https://subscription.timeinc.com/storefront/privacy/thisoldhouse/generic_privacy_new_caneu.html?dnp-source=I).
+TOHV and the parties with whom we work (e.g., service providers, business partners, advertisers and advertising servers) may place, view, and/or use “cookies”, Web server logs, Web beacons, or other electronic tools to collect statistical and other information about your use of this Website and other websites. This information may include information about the IP address of your computer, browser type, language, operating system, your mobile device, device ID, geo-location data, the state or country from which you accessed this Website, the Web pages visited, the date and the time of a visit, the websites you visited immediately before and after visiting this Website, the number of links you click within this Website, the functions you use on this Website, the databases you view and the searches you request on this Website, the data you save on or download from this Website and the number of times you view an advertisement.
 
-Thank you for visiting This Old House (“TOH”), or using our mobile device applications (the "Apps") or other services (together with the Apps, the "Services") within the network of TOH and its subsidiaries, each of which have adopted this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by TOH and its subsidiaries.
+TOHV and the parties with whom we work may use the information collected for various reasons, either on behalf of TOHV or for the other parties’ own purposes, including research, analysis, to better serve visitors to this Website (such as by enabling log-in, providing access to certain sections of this Website, providing customized content, or presenting online advertising on this Website or other websites tailored to your interests as described further below), to compile aggregate and anonymous information about usage of this Website and other websites, other statistics, etc. However, if you have deleted and disabled cookies, these uses will not be possible to the extent they are based on cookie information. To opt out of google analytics tracking, including Demographics and Interest Reporting, please click [here](https://tools.google.com/dlpage/gaoptout). 
 
-**The Information We Collect**
+To assist us with the uses described in this Privacy Policy, information collected about your use of this Website or other websites may be aggregated, analyzed or combined with personal or other information about you from other online or offline sources. If you prefer that we not combine non-personal information that has been collected, through cookies, about your use of this Website or other websites with personal or other information about you, then please delete and disable cookies for each browser, on each computer you use to surf the Web.
 
-Through TOH publications, websites, and other media, you can order publications and products; engage in various activities like entering contests or sweepstakes, playing games, taking quizzes, voting in polls or otherwise expressing an opinion; subscribe to one of our services, such as newsletters; or participate in one of our online forums or communities. Your personally identifiable information may be required to engage in these activities as well as to receive products and services that you may have requested. The types of personally identifiable information that may be collected at these pages and elsewhere include but are not limited to: name, address, gender, e-mail address, telephone number, fax number and credit or debit card information.
+Most browsers are set to accept cookies by default. If you prefer, you can usually set your browser to disable cookies, or to alert you when cookies are being sent. Likewise, most mobile devices allow you to disable the ability for geo-location information to be collected from your mobile device. The help function on most browsers and mobile devices contains instructions on how to set your browser to notify you before accepting cookies, disable cookies entirely, or disable the collection of geo-location data. You need to set each browser, on each device you use to surf the Web. Thus, if you use multiple browsers (e.g., Chrome, Safari, Internet Explorer, Firefox, etc.), you should repeat this procedure with each one. Similarly, if you connect to the Web from multiple devices (e.g., work and home), you need to set each browser on each device. Depending on your jurisdiction, you may be able to utilize additional cookie management tools. However, if you disable cookies or refuse to accept a request to place a cookie, it is possible that some parts of this Website, such as the polls, surveys, contests, and product sales, and certain areas of the Website for which you need to log in, will not function properly, and the advertising you receive when you visit this Website may not be advertisements tailored to your interests.
 
-We may also collect information about your personal or professional interests and use of or opinions about various products, programs and services. For instance, we may ask you to identify your job or industry to qualify you for free business magazines.
+## **Advertisements**
 
-At some TOH sites and through certain promotions, you can submit information about other people. For example, you might submit a person's name, mailing and/or e-mail address to send a gift or electronic greeting card. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address and telephone number.
+TOHV, its designated service providers, or third-party advertisers or their advertising servers may also place or recognize unique cookies on your computer or use other electronic tools in order to help display advertisements that you see on this Website or on other websites. Information about your visits to, and activity on, this Website and other websites, an IP address, the number of times you have viewed an advertisement, and other such usage information is used, alone or in combination with other information, to display on your device screen advertisements that may be of particular interest to you. We may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising and product performance. Web beacons enable us to recognize a browser’s cookie when a browser visits this Website, and to learn which banner ads bring users to this Website. The use and collection of your information by these third-party service providers, and third-party advertisers and their advertising servers is not covered by this Privacy Policy
 
-We may also collect certain non-personally identifiable information when you visit our web pages or use our applications, such as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, and location-based information.
+Service providers assist TOHV with advertisement display functions and related analytics for this Website. To opt out of or control Ad personalization based on Google’s data, please click [here](https://adssettings.google.com/authenticated). To opt out of Facebook advertising on OTT devices, please click [here](https://m.facebook.com/ads/preferences/settings).
 
-**How We Use the Information**
+Note that even if you exercise choice for targeted advertising, you will still receive online advertising.
 
-We may use the information you provide about yourself or others to fulfill requests for our publications, products or services, to respond to inquiries about offerings and to offer other products, programs or services that may be of interest.
+## **Disclosure of Your Personal Information**
 
-We may combine information we receive with outside records and share such information with third parties for use on our behalf to enhance our ability to market to you those products or services that may be of interest to you.
+TOHV may share your personal information with our affiliates (including affiliated websites under common ownership or control) and designated service providers, including for the purposes set out in this Privacy Policy. TOHV may share with other third parties information about our Website users, such as your use of this Website or other websites, and the services provided on this Website or other websites, but only on an unattributed and aggregate basis. TOHV may also share your personal information (excluding security photographs) with a sponsor or other third party (“Third-Party Provider”) that provides you with offers or promotions that may be of interest to you. You may instruct TOHV at any time not to share your personal information covered by this Privacy Policy with such Third-Party Providers by clicking [here](http://www.pages04.net/toh/preferences/third-party). Please note that (i) this opt-out process may take some time to complete, consistent with applicable law; and (ii) even after such opt-out process is completed, your personal information may continue to be shared with our affiliates (including affiliated websites under common ownership or control) and designated service providers.
 
-We may disclose personally identifiable information that we receive from you and from third party sources to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you.
+If you participate in certain features of this Website (e.g., sharing stories of interest), please note that any information you or others voluntarily disclose through use of these features, becomes available to the public and/or other users whom you have designated. If you choose to provide access to designated individuals, please be aware that any information you post will be visible to such individuals for their use. TOHV is not responsible for the information that you or others choose to disclose publicly on this Website, and neither TOHV’s nor others’ use of such information is subject to this Privacy Policy.
 
-When you request a magazine, service, or other product, we will forward the information you give us to the publisher or provider to the extent necessary to fulfill your request. They may contact you with special offers of possible interest.
+TOHV may also disclose your personal information to unaffiliated third parties if we believe in good faith that such disclosure is necessary to: (a) comply with any applicable law, rule, or regulation, or in response to a subpoena, court order, or other legal; (b) protect the interests, rights, safety, or property of TOHV or others; (c) monitor compliance with and enforce any terms of service on this Website; (d) provide our services and products (including allowing a purchaser of TOHV or a TOHV division to continue to serve you); (e) perform other activities related to such services and products, including billing and collection; (f) provide you with offers or promotions from TOHV; or (g) operate the systems that provide our services and products properly. 
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or sweepstakes, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account.
+The collection, further use, and/or disclosure of your information by Third-Party Providers or by other third parties is not the responsibility of TOHV. Rather, such collection, use, and/or disclosure is governed by the third parties’ privacy policies.
 
-If you choose to submit content (e.g., a "letter to our editors" or an online review), we may publish your name, screen name and other information you have provided to us. You hereby consent to this.
+## **Accuracy, Security, and Retention of Your Personal Information**
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
+Any personal information you provide to TOHV is kept on secure servers. TOHV uses security measures appropriate to the provision of the relevant product or service, such as reasonable administrative, technical, personnel, and physical measures (a) to safeguard personal information against loss, theft, unauthorized use, disclosure, or modification; and (b) to ensure the integrity of the personal information. To help us protect your privacy, you should maintain the secrecy of the logon ID and password you may have set up in connection with your participation in this Website’s service. Personal information is retained for as long as is necessary for the purpose for which it is collected, including legitimate business reasons, and/or legal and regulatory requirements. 
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites, and to enable us to customize your Internet experience. We also may use this information to analyze site usage, as well as to offer you products, programs, or services.
+## **Rights with Respect to Your Personal Information**
 
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+Depending on the jurisdiction, you may have the right to access, correct, delete, or restrict use of certain personal information covered by this Privacy Policy. Depending on the jurisdiction, you may also have the right to request that we refrain from processing personal information. Please bear in mind that if you exercise such rights this may affect our ability to provide our products and services. For inquiries about your personal information, please contact us by clicking [here](http://www.pages04.net/toh/preferences/third-party). While TOHV will make reasonable efforts to accommodate your request, we also reserve the right to impose certain restrictions and requirements on such requests, if allowed or required by applicable laws.
 
-Agents and contractors of TOH that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for TOH
+Please note that it may take some time to process your request, consistent with applicable law.
 
-We may transfer your personally identifiable information to other TOH offices for internal management and administrative purposes on our behalf. Your personal data will be transferred to other TOH offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. To the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of TOH, our agents, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
+## **Links to Third-Party Websites**
 
-Please note that if TOH or any of its subsidiaries or lines of business is merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
+TOHV may provide links to third-party websites, including social networking websites. Since we do not control third-party sites and are not responsible for any information you may provide while on such sites, we encourage you to read the privacy policies on those websites before providing any of your information on such sites.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
+## **Questions Regarding This Privacy Policy**
 
-**Privacy Options**
+If you have questions regarding this Privacy Policy, please contact us by [clicking here](mailto:slewis@imtnetwork.com?subject=Privacy&body=I%20have%20questions%20regarding%20the%20TOH%20Privacy%20Policy.). Please include “Privacy” in the Subject line of your inquiry. If you have complaints about TOHV’s processing of your personal information, you may have the right to contact the applicable supervisory authority.
 
-If you prefer not to receive traditional mail or other off-line promotions from this or any other TOH property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by TOH, please [click here](https://web.archive.org/web/20161213092010id_/https%3A//www.thisoldhouse.com/node/32246).
+## **Your California Privacy Rights**
 
-If you prefer not to receive e-mail marketing from this or any other TOH property, or if you want to opt-out of any sharing of your email address with third parties not owned by TOH, please [click here](https://web.archive.org/web/20161213092010id_/https%3A//www.thisoldhouse.com/node/32266).
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline, or for email please [click here](http://www.pages04.net/toh/preferences/third-party).
 
-TOH sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
-
-**Your California Privacy Rights: Notice to California Customers**
-
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: TOH sites do not recognize the “do not track signals” that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://web.archive.org/web/20161213092010id_/https%3A//www.thisoldhouse.com/node/32246), or for email please [click here](https://web.archive.org/web/20161213092010id_/https%3A//www.thisoldhouse.com/node/32266). To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
-
-**Collection of Information by Third-Party Sites and Sponsors**
-
-Some of our sites contain links to other sites whose information practices may be different than ours. TOH also allows you to connect with other sites and services in order to share content and information. You should consult the other sites' and services' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties or their use of your information.
-
-TOH sites sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the TOH site and the third parties. TOH has no control over the third parties' use of this information.
-
-TOH sites may use reputable third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
-
-For more information on advertisements and your behavioral advertising options, visit our [About Ads page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html) and our [Network Advertising Initiatives page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html).
-
-**Cookies**
-
-To enhance your experience on our Services, we may place "cookies" on your computer or device. Cookies are small text files that we place in your computer or device to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information unless you choose to provide this information to us by, for example, registering with one of our Services. Once you choose to provide us with personal information, this information may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device, and may enable us to recognize you as the same user who has used our Services, and relate your use of the Services to other information about you, such as your usage information and personal information.
-
-We use cookies (and Local Shared Objects, HTML5, cache cookies, web beacons, or clear gifs, all described further below) to understand usage of the Services and to improve our content and offerings and to deliver advertisements that you might be interested in. For example, we may use cookies to personalize your experience on our Services (e.g., to recognize you by name when you return to our site, to save your password in password-protected areas, to enable shopping carts, or to tailor content or product and service offerings).
-
-Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused cookies or similar tracking technologies and you should be aware that disabling cookies or similar tracking technologies might prevent you from accessing some of our content. However, your viewing of editorial content may be hampered. If you wish to block cookies, go to <http://www.allaboutcookies.org/> to find out how, or check your browser's instructions.
-
-_Local Shared Objects_ : Local shared objects, such as Flash cookies, also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
-
-_HTML 5_ : HTML5, the language some Web sites are coded in, may be used to store information on your computer or device about your Service usage activities. This information may be retrieved by us to help us manage our Services, such as by giving us information about how our Services are being used by our visitors, how they can be improved, and to customize them for our users.
-
-_Cache Cookies_ : Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited a Service or Services in the past.
-
-_Web Beacons_ : Our websites may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. A web beacon is an electronic image called a single-pixel or clear GIF. Web beacons can recognize certain types of information, such as a user's cookie number, time and date of a page view, and description of the page where the web beacon is placed. These web beacons may be used to deliver cookies that conform to our cookie policy above.
-
-These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Service usage information to other information about you, including your personal information. We may match information collected from you through different means or at different times, including both personal information and Service usage information, and use such information along with offline and online information obtained from other sources (including third parties) such as demographic information and updated contact information (where that information has been lawfully disclosed to us) for the purposes of learning more about you so we can provide you with relevant content.
-
-**Our Commitment to Security**
-
-We have put in place appropriate administrative, technical, and physical safeguards to help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen.
-
-**Accessing, Correcting, and Deleting Your Personal Information**
-
-We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates.
-
-We encourage you to review, update, and correct the personal information that we maintain about you, and you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirements, by contacting us as set out in the "How to Contact Us" section below. At our election, instead of deleting such information, we may retain it with your comment or correction noted in our records. By contacting us, you may also object to our further use of your personal information if you have compelling legitimate grounds (this may involve closing your account). We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to review, update, correct, and delete your personal information may be limited, subject to the law or your jurisdiction: (i) if your requests are abusive or unreasonably excessive, (ii) where the rights or safety of another person or persons would be encroached upon, or (iii) if the information or material you request relates to existing or anticipated legal proceedings between you and us, or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity. Your right to review, update, correct and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
-
-**Retention of Personal Information**
-
-We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your rights to request that we delete your personal information are set forth in the **"Accessing, Correcting, and Deleting Your Personal Information"** section above.
-
-**Special Note for Parents**
-
-The site you are visiting is one of the TOH general audience sites and is not intended for use by children. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
-
-**Changes to this Privacy Policy**
-
-This Privacy Policy may be changed from time to time by TOH The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
-
-**How to Contact Us**
-
-If you have any questions or concerns about the TOH Privacy Notice or its implementation please contact us via email by [clicking here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/load_email.jsp&MSRSMAG=TH) or by writing to:
-
-This Old House Ventures  
+You may also make such a request by writing to us at:  
+This Old House Ventures, LLC  
+Attn: Legal Department  
 262 Harbor Drive  
-Stamford, CT 06902  
-Attn: Customer Service
+Stamford, CT 06902
 
-This Privacy Policy was revised June 1, 2016.
+## Modifications to This Privacy Policy
+
+TOHV reserves the right to change this Privacy Policy at any time by posting revisions on this Web page. Such changes will be effective upon posting.
