@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocado.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625074156id_/https%3A//www.ocado.com/webshop/scontent/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocado.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231070910id_/https%3A//www.ocado.com/webshop/scontent/privacyPolicy) for the most accurate reproduction.*
 
 # Ocado: devoted to your shopping
 
@@ -6,28 +6,28 @@ Choosing to shop with the Ocado Group means you've placed a great deal of trust 
 
 You share and let us use personal information in order to enjoy a more streamlined and convenient shopping experience. Naturally, you want that personal information to be kept private as well as secure. 
 
-To reassure you that we take our responsibility very seriously, this Privacy & Cookies Policy explains how we will use the personal information you give us. It explains your data protection rights, including how you can opt-out of some uses of your personal information. For more information on your rights and how to exercise them, head straight to the Your choices and rights section. 
+To reassure you that we take our responsibility very seriously, this Privacy & Cookie Policy explains how we will use the personal information you give us. It explains your data protection rights, including how you can opt-out of some uses of your personal information. For more information on your rights and how to exercise them, head straight to the 'Your choices and rights' section. 
 
-This Privacy & Cookies Policy applies if you use any of our products and services. This includes shopping on any of the Ocado Group websites (such as ocado.com, fetch.co.uk, fabled.com or sizzle.co.uk), on our apps, or using voice-controlled services (such as Amazon's Alexa or Apple's Siri). This policy also applies if you contact us or we contact you about our services, whether by telephone, email, SMS, post, push notifications or via third party digital platforms (including websites or social media platforms). 
+This Privacy & Cookie Policy applies if you use any of our products and services. This includes shopping on any of the Ocado Group websites (such as ocado.com, fetch.co.uk, fabled.com or sizzle.co.uk), on our apps, or using voice-controlled services (such as Amazon's Alexa or Apple's Siri). This policy also applies if you contact us or we contact you about our services, whether by telephone, email, SMS, post, push notifications or via third party digital platforms (including websites or social media platforms). 
 
-Policy last updated on 23rd May 2018.
+Policy last updated on 14th September 2018.
 
-This section details what types of personal data we collect and who we are. The Ocado Group is made up of a number of separate legal entities, so when we say “us”, “our” or “we” in this policy we are generally referring to Ocado Retail Ltd, Specialty Stores Ltd and Marie-Claire Beauty Ltd. 
+This section details what types of personal data we collect and who we are. The Ocado Group is made up of a number of separate legal entities, so when we say "us", "our" or "we" in this policy we are generally referring to Ocado Retail Ltd, Specialty Stores Ltd and Marie-Claire Beauty Ltd. 
 
 We collect information from you when you visit and browse our websites, register for our services, use our apps, make purchases using our services, participate in prize draws and competitions, and when you communicate with us. 
 
-At times we also receive information from third parties to help us better understand our customers. However, this Privacy & Cookies Policy does not cover any third-party websites, apps or services you use or access from our websites, apps or services. 
+At times we also receive information from third parties to help us better understand our customers. However, this Privacy & Cookie Policy does not cover any third-party websites, apps or services you use or access from our websites, apps or services. 
 
 ### Who we are   
 The Ocado Group 
 
 When you shop with ocado.com you submit your personal information to Ocado Retail Ltd. When you shop with fetch.co.uk and sizzle.co.uk you submit your personal information to Speciality Stores Ltd. When you shop with fabled.com you submit your personal information to Marie-Claire Beauty Ltd. These companies are known as the data controllers, and all are 100% owned subsidiaries of Ocado Group plc, which is listed on the London Stock Exchange. 
 
-We will treat all information submitted by you in accordance with the terms of this Privacy & Cookies Policy (as updated and amended from time to time) and in strict compliance with UK and EU data protection legislation. We respect your privacy and will always work to keep your data safe and private. 
+We will treat all information submitted by you in accordance with the terms of this Privacy & Cookie Policy (as updated and amended from time to time) and in strict compliance with UK and EU data protection legislation. We respect your privacy and will always work to keep your data safe and private. 
 
 ### Third-party apps, websites and services 
 
-If you use any third-party apps, websites or services to access our services, your usage is subject to the relevant third party's terms and conditions, cookies policy, and privacy policy. For example, if you interact with us on social media, your use is subject to the terms and conditions and privacy policies of the relevant social media platform (Facebook, Google, Twitter etc). The same stands if you use third-party services, like Amazon's Alexa, as your use of the service is subject to their applicable terms and conditions. We may be required to share customer information relating to transactions and use of such third party services with that third party, as described in more detail within this Privacy & Cookies Policy.
+If you use any third-party apps, websites or services to access our services, your usage is subject to the relevant third party's terms and conditions, cookie policy, and privacy policy. For example, if you interact with us on social media, your use is subject to the terms and conditions and privacy policies of the relevant social media platform (Facebook, Google, Twitter etc). The same stands if you use third-party services, like Amazon's Alexa, as your use of the service is subject to their applicable terms and conditions. We may be required to share customer information relating to transactions and use of such third party services with that third party, as described in more detail within this Privacy & Cookie Policy.
 
 ### What we collect   
 Improving our services 
@@ -42,8 +42,8 @@ We gather that useful information in several key ways:
   4. When we contact you or you take part in competitions, surveys or questionnaires about our products and services, we may collect your feedback and contributions. This includes direct messages you may send us through social media channels.
   5. We keep a record of your purchases with us (for example, what you bought and when) and how you browse and engage with our websites and apps. This helps us decide which products, services and promotions may be relevant for you. It also helps us to improve your experience, assist you more efficiently if you have any questions or concerns about your order, and promote certain products, services and offers.
   6. If Ocado Reserved or Ocado Smart Pass are available and you choose to subscribe, we record information about the choices you make in relation to such services, like the delivery slots you choose and the price you paid on purchasing your Ocado Smart Pass. This helps us better plan delivery slot availability and service fulfilment requirements. 
-  7. We will keep a record of any email correspondence you send us. This helps us provide you with better customer service, and to improve the experience of our customers overall. Telephone calls made to the Ocado Contact Centre will be recorded for monitoring and quality control purposes. 
-  8. When you visit and use any of the Ocado Group websites, or when you interact with our adverts and content on third-party websites and social media platforms (such as Google or Facebook), we use cookies, other tracking technologies and third party services so that we can better understand your online experience. This helps us to improve improve our services and offer a personalised experience. We may do this by recording the way you use, navigate, browse and search our websites, our apps, use voice controlled services (such as Amazon's Alexa or Apple's Siri), or other websites and platforms. For more information on our use of these technologies, see the Cookies and similar technologies section below.
+  7. We will keep a record of any email correspondence you send us. This helps us provide you with better customer service, and to improve the experience of our customers overall. Telephone calls made to and from the Ocado Contact Centre will be recorded for quality and monitoring purposes. 
+  8. When you visit and use any of the Ocado Group websites, or when you interact with our adverts and content on third-party websites and social media platforms (such as Google or Facebook), we use cookies, other tracking technologies and third party services so that we can better understand your online experience. This helps us to improve our services and offer a personalised experience. We may do this by recording the way you use, navigate, browse and search our websites, our apps, use voice controlled services (such as Amazon's Alexa or Apple's Siri), or other websites and platforms. For more information on our use of these technologies, see the Cookies and similar technologies section below.
 
 
 
@@ -55,7 +55,7 @@ We do not intentionally collect or store data that could reveal your racial or e
 
 We receive information from third parties that may relate to you. This includes: 
 
-  * Information providers that specialise in consumer profiling, such as Experian. These organisations provide demographic or other data to help better understand customers demographics, lifestyles or shopping behaviours, usually linked to where people live. 
+  * Information providers that specialise in consumer profiling, such as Experian. These organisations provide demographic or other data to help better understand customers' demographics, lifestyles or shopping behaviours, usually linked to where people live. 
   * Personal assistant services, such as Amazon's Alexa or Apple's Siri, provide us with details of the voice requests you have made in connection with your Ocado account. This is so we can fulfil the orders you place with us, understand your shopping experience and improve our related services. 
 
 
@@ -90,9 +90,9 @@ This means:
   * To develop new products and services. 
     * We use the information collected about how people use our services. This is alongside feedback provided directly to us to troubleshoot and identify trends, usage, activity patterns, and to help us improve the quality of our service. For example, we may analyse customer shopping habits to determine how best to offer relevant product pairing. 
     * We also test and analyse certain new features with some users before rolling them out to all users. 
-    * We use personal data (which may be in an anonymised and aggregated format in some instances) to help plan and manage our business activities  such as deciding when to promote different products and services, or selecting which products to range.
+    * We use personal data (which may be in an anonymised and aggregated format in some instances) to help plan and manage our business activities such as deciding when to promote different products and services, or selecting which products to range.
   * To inform you about products and services that may interest you. 
-    * We may use shopping history and preferences to develop and serve you relevant advertising on our websites, our apps and on third-party platforms (such as Facebook and Google), and also by post. At the same time, we analyse how customers engage with our marketing and our products so we can understand whether our campaigns are effective. We conduct market research to help us understand industry trends. 
+    * We may use shopping history and preferences to develop and serve you relevant advertising on our websites, our apps and on third-party platforms (such as Facebook and Google), and also by post or by email. At the same time, we analyse how customers engage with our marketing and our products so we can understand whether our campaigns are effective. We conduct market research to help us understand industry trends. 
     * We share insights about our customers (in an anonymised and aggregated format) with the companies whose products we sell. This helps them better understand the different profiles of our customers, focusing on those who buy their products or are interested in them. 
     * We advertise our services on other third-party websites and use personal data to help provide advertising that is most relevant to you. For example, we share information about the customer segments we are interested in reaching with advertising partners (such as Google, Facebook and Bing), so they can focus on showing ads to those who are most likely to be interested in our services. 
     * We also share certain information with our selected suppliers to enable them to identify new prospective customers on our behalf and not to target advertise to individuals who are already customers. 
@@ -106,9 +106,9 @@ This means:
 
 This means: 
 
-  * To send you electronic marketing. By electronic marketing' we mean marketing by email, telephone, SMS, push notifications and web advertising to inform you about the products and services we offer. This includes events, prize draws, competitions, gifts, vouchers, coupons, surveys, special offers and promotions (from specially selected partners and the Ocado Group if appropriate). 
-  * To show you web advertising. By 'web advertising' we mean digital marketing that we intentionally send or display to you on third-party online platforms or websites. For example, you may see advertising for Ocado Group products and services on other websites you visit, or social media and other platforms you use (eg, Facebook and Google). These have been shown to you because we believed it would be relevant to your interests. Web advertising' does not include advertising we have not intentionally targeted to you (such as banner ads that are randomly shown to any visitor of a third-party website), or any personalisation or recommendations we show on our own websites, apps and services. 
-  * To use User Generated Content. By User Generated Content' we mean content created by you, and shared publicly (on social media for example) and which may showcase our brand or products. 
+  * To send you electronic marketing (except where we rely on legitimate interests for this). By 'electronic marketing' we mean marketing by email, telephone, SMS, push notifications and web advertising to inform you about the products and services we offer. This includes events, prize draws, competitions, gifts, vouchers, coupons, surveys, special offers and promotions (from specially selected partners and the Ocado Group if appropriate). 
+  * To show you web advertising. By 'web advertising' we mean digital marketing that we intentionally send or display to you on third-party online platforms or websites. For example, you may see advertising for Ocado Group products and services on other websites you visit, or social media and other platforms you use (eg, Facebook and Google). These have been shown to you because we believed it would be relevant to your interests. 'Web advertising' does not include advertising we have not intentionally targeted to you (such as banner ads that are randomly shown to any visitor of a third-party website), or any personalisation or recommendations we show on our own websites, apps and services. 
+  * To use User Generated Content. By 'User Generated Content' we mean content created by you, and shared publicly (on social media for example) and which may showcase our brand or products. 
 
 
 
@@ -126,7 +126,7 @@ This means:
 
 
 
-Understand how and why we share personal data with other companies within the Ocado Group, third-party service providers and other organisations. We only share your personal data as required for the purposes set out in this Privacy & Cookies Policy  to third parties who assist us with the provision of our services, to send related promotional communications to you, and to assist us in preventing the fraudulent use of our services. 
+Understand how and why we share personal data with other companies within the Ocado Group, third-party service providers and other organisations. We only share your personal data as required for the purposes set out in this Privacy & Cookie Policy - to third parties who assist us with the provision of our services, to send related promotional communications to you, and to assist us in preventing the fraudulent use of our services. 
 
 Information about our customers is an important part of our business. However, there are circumstances where it is necessary for us to share personal information, for example, in order for us to provide our customers with our superior delivery service. Whenever we use or disclose your information, we put in place measures to keep it secure. We make sure it is protected as far as reasonably possible. 
 
@@ -134,7 +134,8 @@ The circumstances where we share some of your information with others are:
 
 ### 1\. Other Ocado Group companies 
 
-  * We share personal data with other companies within the Ocado Group: 
+We share personal data with other companies within the Ocado Group:
+
   * In connection with legal claims, compliance, regulatory and audit functions. 
   * For disclosures in connection with the acquisition, merger or sale of a business. 
   * To support and better understand customers that use our services, websites and apps. 
@@ -144,7 +145,7 @@ The circumstances where we share some of your information with others are:
 
 ### 2\. Third-party service providers 
 
-We employ other companies or individuals and may work in partnership with selected third parties to perform any of the functions listed above (under the How we use your Personal Information' section) on our behalf. We only share information that allows them to provide their services to us or to facilitate them providing their services to you. 
+We employ other companies or individuals and may work in partnership with selected third parties to perform any of the functions listed above (under the 'How we use your Personal Information' section) on our behalf. We only share information that allows them to provide their services to us or to facilitate them providing their services to you. 
 
   * Companies to analyse customer information to help us better understand how you use our services. Also to tailor products, services and offers that may be relevant for you. 
   * Companies to provide marketing and advertising assistance (including management of email marketing operations, mobile messaging services such as SMS, and services that deploy advertising on the internet or social media platforms, such as Facebook and Google) as well as analysis of the effectiveness of our advertising campaigns.
@@ -163,7 +164,7 @@ Sometimes we send communications (including offers) on behalf of, or in partners
 
 ### 4\. Business transfer 
 
-If any Ocado Group company is ever sold or its assets are purchased by another company it would typically be part of such a transaction for customer information to form part of the business assets being transferred. However, the information will remain subject to the obligations as outlined in this Privacy & Cookies Policy.
+If any Ocado Group company is ever sold or its assets are purchased by another company it would typically be part of such a transaction for customer information to form part of the business assets being transferred. However, the information will remain subject to the obligations as outlined in this Privacy & Cookie Policy.
 
 ### 5\. Research companies 
 
@@ -189,7 +190,7 @@ Our security procedures mean that we may occasionally request proof of identity 
 
 ### Payment security 
 
-We are committed to ensuring the protection of your payment card details and are compliant with the Payment Card Industry's Data Security Standard (PCI-DSS).. Payments made via our sites are processed and managed by specialist payment card companies which are not part of the Ocado Group. We only store and display the first six and last four digits of your payment card number, the card type and the card expiry date. The full payment card number is never stored on any of our systems and is only stored and processed by one of our payment card processing companies.
+We are committed to ensuring the protection of your payment card details and are compliant with the Payment Card Industry's Data Security Standard (PCI-DSS). Payments made via our sites are processed and managed by specialist payment card companies which are not part of the Ocado Group. We only store and display the first six and last four digits of your payment card number, the card type and the card expiry date. The full payment card number is never stored on any of our systems and is only stored and processed by one of our payment card processing companies.
 
 We keep an encrypted token to represent your card and this token is transmitted to the relevant payment card processing company during the order processing. 
 
@@ -197,9 +198,9 @@ We use 3D Secure to provide additional fraud protection and to protect your paym
 
 ### Password security 
 
-It is important to keep your password secure to prevent fraudulent use of your account. Never disclose your password to anyone else, and especially to anyone who requests it from you by telephone or email  we will never do this (more information below). You should avoid using the same password for other websites, because if their systems are hacked, the hackers will also be able to access your account. 
+It is important to keep your password secure to prevent fraudulent use of your account. Never disclose your password to anyone else, and especially to anyone who requests it from you by telephone or email ?? we will never do this (more information below). You should avoid using the same password for other websites, because if their systems are hacked, the hackers will also be able to access your account. 
 
-Avoid using common terms for your password such as “password” or “123456”; hackers know the most popular passwords and will try to access accounts using these. Instead, try to use a combination of letters and numbers that means something to you so it's easy to remember but difficult to guess. 
+Avoid using common terms for your password such as "password" or "123456"; hackers know the most popular passwords and will try to access accounts using these. Instead, try to use a combination of letters and numbers that means something to you so it's easy to remember but difficult to guess. 
 
 ### Personal security and identity fraud 
 
@@ -244,9 +245,9 @@ This includes it going through one of these safeguards:
 
 
 
-You can find out more about the above data protection safeguards on the [European Commission Justice website.](https://web.archive.org/web/20180625074156id_/https%3A//www.ocado.com/webshop/scontent/privacyPolicy?ad=79372%7C1340639%7C%7C)
+You can find out more about the above data protection safeguards on the [European Commission Justice website.](https://web.archive.org/webshop/redirectFromWebshop.do?REDIRECT_URL=https%3A%2F%2Fec.europa.eu%2Finfo%2Flaw%2Flaw-topic%2Fdata-protection_en%26sa%3DD%26ust%3D1536839742816000%26usg%3DAFQjCNFPsXNVQWeJSFrg2nuu2HVqM-_hLg&pageId=402266a911e54e26402d15e30e65e6ee&ad=79372%7C1383794%7C%7C)
 
-For more information on how we safeguard transfers of your personal information, please contact us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1340639%7C%7C)
+For more information on how we safeguard transfers of your personal information, please contact us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1340639%7C%7C&ad=79372%7C1383794%7C%7C)
 
 This section explains the choices you have when it comes to receiving marketing communications and how you can exercise your individual rights in relation to your personal data. 
 
@@ -263,7 +264,7 @@ You have the right to access a copy of the personal information we hold about yo
 
 ### What if you want us to stop using your personal information? 
 
-You can also object to certain processing activities which use your personal information, in particular where the processing is based on our legitimate interests. You can ask us to delete, remove, or stop using your personal information if there is no need for us to keep it. You can also ask us to restrict the use of your personal information in certain circumstances. These rights are known as the right to erasure' and the right to restrict processing'. We will keep a note of your name if you ask for your personal data to be erased. You will also need to use a different email address if you decide to re-register as a customer with us as your old email address will no longer be valid. 
+You can also object to certain processing activities which use your personal information, in particular where the processing is based on our legitimate interests. You can ask us to delete, remove, or stop using your personal information if there is no need for us to keep it. You can also ask us to restrict the use of your personal information in certain circumstances. These rights are known as the 'right to erasure' and the 'right to restrict processing'. We will keep a note of your name if you ask for your personal data to be erased. You will also need to use a different email address if you decide to re-register as a customer with us as your old email address will no longer be valid. 
 
 There may be reasons why the above rights may be limited in some circumstances. For example, we can refuse to provide information if fulfilling your request would reveal personal information about another person, if you ask us to delete information which we are required to have by law, have compelling legitimate interests to keep, or need to access in order to exercise our legal obligations. In such situations, we would only use your information for these purposes and not use or share your information in other ways. We will always ensure your privacy is protected and data will always be retained in accordance with the Data retention section of this policy.
 
@@ -273,29 +274,31 @@ You may be unable to continue using our services if you require us to stop using
 
 Where we have asked for your consent, you may withdraw consent at any time, but this will not affect any processing that has already taken place. If you would like to see what consent preferences we hold for you, we would suggest that you first visit your marketing preferences page on the relevant Ocado Group website.
 
-### You're in control of your data  unsubscribing from our marketing communications
+### You're in control of your data - unsubscribing from our marketing communications
 
 You can ask us to stop sending you marketing messages by contacting us at any time. You may limit the types of marketing you receive, or you can opt out of receiving our marketing communications. This is an option when you first open your account or at any time after that simply by doing one of the following: 
 
 1\. Going to the marketing preferences page on the relevant website and ticking or unticking the appropriate boxes. 
 
-2\. Clicking on the unsubscribe link contained in marketing emails. 3. Emailing us at privacy@ocado.com if you wish to opt out of any postal marketing or other electronic marketing. 
+2\. Clicking on the unsubscribe link contained in marketing emails.
 
-If you decide to opt out or unsubscribe it could take up to 72 hours to process the update through our systems. Whatever you choose, you will still receive messages and other important service information such as changes to your existing products and services, our Low Price Promise emails, the cut-off time to edit your order, as well as “rate your first shop” and “rate your driver” surveys. You can always unsubscribe from these emails by clicking on the unsubscribe link in each email. 
+3\. Emailing us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1383794%7C%7C) if you wish to opt out of any postal marketing or other electronic marketing.
+
+If you decide to opt out or unsubscribe it could take up to 72 hours to process the update through our systems. Whatever you choose, you will still receive messages and other important service information such as changes to your existing products and services, our Low Price Promise emails, the cut-off time to edit your order, as well as "rate your first shop" and "rate your driver" surveys. You can always unsubscribe from these emails by clicking on the unsubscribe link in each email (except this does not apply to first registration emails and order confirmation and receipt emails). 
 
 We may also ask you to confirm or update your marketing preferences, if there are changes in the law, regulation, or the structure of our business. 
 
 ### Letting us know if your personal information is incorrect 
 
-If the information we hold on you is wrong or incomplete, then let us know what needs updating and we'll correct it. This is your right. Email us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1340639%7C%7C)
+If the information we hold on you is wrong or incomplete, then let us know what needs updating and we'll correct it. This is your right. Email us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1383794%7C%7C)
 
 Learn about cookies, including how we use them and how you can exercise your choices about our use of cookies. 
 
-When you use any of the Ocado Group websites (ocado.com, fetch.co.uk, sizzle.co.uk and fabled.com) or our related apps, we use our own and third-party cookies and similar technologies (such as pixels and tracking URLs) to identify your device. This enables us to personalise and improve your customer experience and, where appropriate, serve you relevant advertisements. All these technologies are together referred to in this policy as “cookies”. 
+When you use any of the Ocado Group websites (ocado.com, fetch.co.uk, sizzle.co.uk and fabled.com) or our related apps, we use our own and third-party cookies and similar technologies (such as pixels and tracking URLs) to identify your device. This enables us to personalise and improve your customer experience and, where appropriate, serve you relevant advertisements. All these technologies are together referred to in this policy as "cookies". 
 
 Without certain cookies, it would be very difficult for a website to allow a visitor to fill up a shopping trolley or to remember the user's preferences or registration details for a future visit. 
 
-### How we use cookies? 
+### How we use cookies
 
 Here are the types of cookies we use on our website, and the purposes for which they are used: 
 
@@ -303,7 +306,7 @@ Here are the types of cookies we use on our website, and the purposes for which 
   * Analytical/performance cookies. These cookies collect information about how you and other visitors use our websites. This can be anything like which pages you go to most often, and if you get error messages from web pages. We use data from these cookies to help test designs and to ensure a consistent look and feel is maintained on your visit to our websites. We also use third-party web analytics software on our websites and apps (such as Google Analytics).
   * Functionality cookies. These cookies allow our website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember settings such as changes you have made to text size, fonts and other parts of web pages that you can customise. 
   * Targeting cookies. These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement, as well as help measure the effectiveness of an advertising campaign. They are usually placed by third parties (such as advertising networks or platforms) with the website operator's permission. They remember that you have visited a website and this information is shared with the advertiser. We have enabled Google Analytics Data Collection for Advertising Features, including Remarketing and Advertising Reporting Features. These features enable us to make use of data from users who have chosen to allow Google to associate their web and app browsing history with their Google account in order to personalise the ads we may show in Google Search and Display Advertising. This helps us provide more relevant messaging to our users. This also provides us with demographic and interest information at an aggregate level that helps us to understand our users better. 
-  * Social media extensions: These technologies allow you to share what you've been doing on our websites on social media, such as Facebook and Twitter. For example, by clicking the Facebook Like' icons that may appear on our product pages. Although we enable these tools to be displayed on our websites so that you may interact with them, if you choose to do so, they are not within our control. Please refer to the relevant third party privacy policies for how these functionalities work. 
+  * Social media extensions: These technologies allow you to share what you've been doing on our websites on social media, such as Facebook and Twitter. For example, by clicking the 'Facebook Like' icons that may appear on our product pages. Although we enable these tools to be displayed on our websites so that you may interact with them, if you choose to do so, they are not within our control. Please refer to the relevant third party privacy policies for how these functionalities work. 
 
 
 
@@ -317,21 +320,21 @@ To find out more about cookies please visit: www.allaboutcookies.org or see www.
 
 To opt-out of Google Analytics for Display Advertising and customize Google Display Network ads please go to https://www.google.com/settings/ads or Google Analytics' currently available opt-outs for the web. 
 
-If you have any questions about this Privacy & Cookies Policy, would like to make a complaint, or find out how we notify you of any changes to the Privacy & Cookies Policy, further details can be found in this section. 
+If you have any questions about this Privacy & Cookie Policy, would like to make a complaint, or find out how we notify you of any changes to the Privacy & Cookie Policy, further details can be found in this section. 
 
-### Updates and changes to the Privacy & Cookies Policy
+### Updates and changes to the Privacy & Cookie Policy
 
 You may change your personal information retained by us at any time. Simply access your user profile on the relevant Ocado Group website.
 
-We may change the terms of this Privacy & Cookies Policy from time to time and you should check it regularly. The date on which the Privacy & Cookies Policy was most recently amended will be displayed at the beginning of the policy. If we make any material changes to this Privacy & Cookies Policy we will take steps to call it to your attention. 
+We may change the terms of this Privacy & Cookie Policy from time to time and you should check it regularly. The date on which the Privacy & Cookie Policy was most recently amended will be displayed at the beginning of the policy. If we make any material changes to this Privacy & Cookie Policy we will take steps to call it to your attention. 
 
 ###  Contact us 
 
-If you have questions about your personal information and our Privacy & Cookies Policy, or wish to exercise any of your rights described in this policy, please email us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1340639%7C%7C)
+If you have questions about your personal information and our Privacy & Cookie Policy, or wish to exercise any of your rights described in this policy, please email us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372%7C1340639%7C%7C&ad=79372%7C1383794%7C%7C). 
 
 ### HOW TO COMPLAIN 
 
-If you are not satisfied in the way we have dealt with your concerns, you have the right to complain to the Information Commissioner's Office. Please go to [https://ico.org.uk/concerns/](https://web.archive.org/webshop/redirectFromWebshop.do?REDIRECT_URL=https%3A%2F%2Fico.org.uk%2Fconcerns%2F&pageId=b1d5910314ad311e4355977656cd5eb4&ad=79372%7C1340639%7C%7C) to find out more or write to: 
+If you are not satisfied in the way we have dealt with your concerns, you have the right to complain to the Information Commissioner's Office. Please go to [https://ico.org.uk/concerns/](https://web.archive.org/webshop/redirectFromWebshop.do?REDIRECT_URL=https%3A%2F%2Fico.org.uk%2Fmake-a-complaint%2F&pageId=2e5bc30205aa730410a31d7de7868a75&ad=79372%7C1383794%7C%7C) to find out more or write to: 
 
 Information Commissioner's Office   
 Wycliffe House   
