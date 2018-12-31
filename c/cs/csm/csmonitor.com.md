@@ -1,20 +1,21 @@
-> *The following text is extracted and transformed from the csmonitor.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630231401id_/http%3A//www.csmonitor.com/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csmonitor.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231212053id_/https%3A//www.csmonitor.com/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Christian Science Monitor - CSMonitor.com
 
-Last updated: May 23, 2017
+Last updated: May 22, 2018
 
 The Christian Science Monitor (“Monitor”) is a globally-focused news organization headquartered in Boston, Massachusetts, USA and operated by The Christian Science Publishing Society, an activity of The First Church of Christ, Scientist. The Monitor publishes a daily digital edition, a print weekly magazine and tablet edition, as well as this daily news website and related mobile applications. In addition, the Monitor sponsors various events, such as the Monitor Breakfast series in Washington, D.C.
 
 This Privacy Policy (“Policy”) applies to the information the Monitor collects through its websites, mobile applications, subscriptions and all other interactive services that involve the transmission of data (“the Services”) operated by the Monitor (“we,” or “us”) regardless of how you access the Services, unless such website, mobile application, or other interactive service has a separate Privacy Policy specific to such website, application, or interactive service. This Policy describes:
 
+  * Who we are and how you can contact us
   * The information we collect and how we collect it;
     * Cookies and other site technologies
     * Third-party advertising and your choices
     * Device location information
   * What we do with the information we collect;
+    * Duration of processing of personal data
   * Information sharing and disclosure;
-  * How you can access and update your information;
   * How we protect information;
   * Linked sites and advertisements;
   * Users from outside the United States;
@@ -23,6 +24,28 @@ This Privacy Policy (“Policy”) applies to the information the Monitor collec
   * Your California privacy rights;
   * No rights of third parties; and
   * Changes to this Policy.
+
+
+
+##  Who we are and how you can contact us.
+
+The data controller for the websites listed below is The First Church of Christ, Scientist (TFCCS) and its affiliate The Christian Science Publishing Society, 210 Massachusetts Ave., Boston MA 02115.
+
+If you have any questions about this Privacy Statement, including any requests to exercise you legal rights, please contact the DPO at:  
+Email: dataprotection@csps.com.  
+Mail: Data Protection Officer  
+           The First Church of Christ, Scientist  
+           210 Masssachusetts Avenue, P9  
+           Boston MA 02115
+
+Under certain circumstances you have rights under data protection laws in relation to your personal data. You may request us to:
+
+  * Correct the personal data we hold about you,
+  * Erase your personal data, 
+  * Cease the processing of your personal data, 
+  * Restrict the processing of your personal data,
+  * Transfer your personal data to you or a third party, or
+  * Change your consent at any time.
 
 
 
@@ -50,15 +73,68 @@ Please be careful and responsible whenever you are online. Should you choose to 
 
 **Cookies and other electronic technologies.**
 
-When you use the Services, we, or a data provider we have engaged, may place or access  persistent and session cookies, browser storage, and other tracking technologies to: (a) store your username, name, e-mail address, and other profile information; (b) analyze the usage of our sites and Services; (c) customize the Services to your preferences; and (d) control the advertising displayed by the Services.  Cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your e-mail address, in hashed, non-human readable form. We and our vendors may also use other Internet technologies, such as Flash technologies, web beacons or pixel tags, and other similar technologies, to deliver or communicate with cookies and track your use of the Services (including to serve you ads when you are on other websites or the Internet when we can access those cookies). We also may include web beacons in e-mail messages or newsletters to determine whether the message has been opened. Web beacons allow us to understand the time and date of when a user has opened an e-mail and when he/she has utilized a link within the e-mail to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable web beacons should do so by turning images "off" in their e-mail client (e.g., Outlook, Outlook Express). Please see your e-mail client for more information. As we adopt additional technology, we may also gather additional information through other methods.
+A cookie is a small file of letters and numbers that is placed on your browser, hard drive, or memory of your device when you use the Services. We, or a data provider we have engaged, may place access cookies, browser storage, and other tracking technologies that are:
+
+  * **Strictly necessary cookies.**  These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website.
+  * **Analytical/Performance cookies.**  They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+  * **Functionality cookies.**  These are used to recognize you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preference (for example, your username)
+  * **Targeting cookies.**  These cookies record your visit to our website, the page you have visited and the links you have followed. We will use this information to make our website and any advertising displayed on it more relevant to your interest. We may also share this information with third parties for this purpose.
+
+
+
+We use these technologies for the following purposes (a) store your username, name, e-mail address, and other profile information; (b) analyze the usage of our sites and Services; (c) customize the Services to your preferences; and (d) control the advertising displayed by the Services.  Cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your e-mail address, in hashed, non-human readable form. We and our vendors may also use other Internet technologies, such as Flash technologies, web beacons or pixel tags, and other similar technologies, to deliver or communicate with cookies and track your use of the Services (including to serve you ads when you are on other websites or the Internet when we can access those cookies). We also may include web beacons in e-mail messages or newsletters to determine whether the message has been opened. Web beacons allow us to understand the time and date of when a user has opened an e-mail and when he/she has utilized a link within the e-mail to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable web beacons should do so by turning images "off" in their e-mail client (e.g., Outlook, Outlook Express). Please see your e-mail client for more information. As we adopt additional technology, we may also gather additional information through other methods.
 
 We use these automated technologies to collect and analyze certain types of information we consider to be non-personal information, including: (a) information related to the devices you use to access or interact with our Services, such as: IP addresses, geolocation information (as described further below), unique device identifiers and other information about your mobile phone or other mobile device(s), browser type, browser language; and (b) information related to the ways in which you interact with the Services, such as: referring and exit pages and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services, and other similar information. We may also capture other data, such as search criteria and results. In some cases, we will associate this information with a unique Monitor identifier (that cannot be used by itself to identify you) for our internal use, in which case your Monitor identifier will be considered Monitor information and nothing in this Privacy Policy restricts how the Monitor may use this information.
 
 Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies by visiting the Help portion of your browser’s toolbar. If you choose to decline cookies, please note that you may not be able to sign in, customize, or use some of the interactive features of the Services. Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit the [Adobe website](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) and make changes at the [Global Privacy Settings Panel.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html)
 
+Here are cookies that are placed on your device when you visit our Service:
+
+  * Adobe Marketing Cloud
+  * DFP
+  * Facebook
+  * Google Analytics
+  * Instagram
+  * KeyWee
+  * Linkedin
+  * Nielsen
+  * Quantcast and Quantcast Audience Segments
+  * Twitter
+  * Youtube
+
+
+
+**Adobe Marketing Cloud**  
+Measuring your use of Adobe websites so that we can improve them, tailor our websites to your likely interests, and conduct market research (https://www.adobe.com/privacy/opt-out.html#2)  
+Running the Adobe Experience Cloud solutions that help our business customers personalize and improve the performance of their websites, apps, and marketing messages (https://www.adobe.com/privacy/opt-out.html#5).
+
+**Facebook pixel**  
+With your consent, we use the “Facebook pixel” (from Facebook Inc.) in our Internet presence. This helps us to track the actions of users after they have seen or clicked on a Facebook advert. In this way, we can determine the effectiveness of the Facebook adverts for statistical and economical purposes. The data gathered here are anonymous to us, which means that we do not see the personal data of individual users. However, these data are stored and processed by Facebook. Facebook can link these data to your Facebook account and use them for advertising purposes in accordance with Facebook’s data usage guidelines https://www.facebook.com/about/privacy/. You can enable Facebook and its partners to place adverts on and outside of Facebook. Furthermore, a cookie may be stored on your computer for this purpose.
+
+**Google Analytics**   
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf.  
+You can prevent cookies from being stored via the relevant setting in your browser software; however, we must point out that this setting may prevent you from utilizing the full scope of functionalities on this website. Furthermore, you can prevent the data created by the cookie based on your use of the website (incl. your IP address) from being collected by Google and such data from being processed by Google by downloading and installing the browser plugin that is available via the following link: https://tools.google.com/dlpage/gaoptout?hl=en.
+
+Data capture opt-out - Google Analytics You can prevent your data from being collected by Google Analytics by clicking the following link. An opt-out cookie will be stored, which will prevent your data from being collected on future visits to this website: Deactivating Google Analytics. Further information about the handling of user information by Google Analytics can be found in Google’s Privacy Policy: https://support.google.com/analytics/answer/6004245?hl=en
+
+**Instagram**  
+Our pages include Instagram service functionalities. These functionalities are provided by Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA. Clicking the Instagram button on our pages will link the page content to your Instagram profile, provided you are currently logged in to your Instagram account. Instagram will then be able to attribute your visit to our pages to your user account. Please note that as provider of these pages, we are not privy to the content of the data transmitted or their use by Instagram. Please read the Instagram privacy policy for more information: https://instagram.com/about/legal/privacy/
+
+**Quantcast and Quantcast Audience Segments**  
+If you prefer not to receive interest-based content and ads enabled by Quantcast, you can opt-out by clicking on the Quantcast “Opt Out” link here. Additionally, we are a member of the Network Advertising Initiative (NAI) and participate in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program. Each of these programs provides an opt-out feature where consumers can choose not to receive targeted advertising from any NAI or DAA affiliate. These links will take you to the NAI opt out and the DAA opt out. If you are located in the European Union, you may prefer to use the EDAA opt out. After you opt-out, we will place a cookie on your browser that identifies you as having opted out. Then you will not receive interest-based content or advertisements enabled by Quantcast and we will not log your pattern of website visits or other online media consumption. Because our opt-out is cookie-based, your browser must be set to accept third party cookies. If you use multiple devices or browsers, you’ll have to opt out on each. If you delete the cookie, you will need to opt-out again.
+
+**Twitter**  
+Features of the service Twitter are integrated in this website. These features are provided by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. By using Twitter and the “Retweet” function, the websites that you visit are linked to your Twitter account and shared with other users. Data is also transferred to Twitter in the process. We would like to advise that we as the provider of the TFCCS website do not obtain any knowledge of the content of the transferred data or their usage by Twitter. Further information can be found in Twitter’s privacy policy:http://twitter.com/privacy. You can modify your privacy settings for Twitter in your account settings:http://twitter.com/account/settings.
+
+**YouTube**  
+Our website uses plugins provided by the Google-operated website YouTube. The pages are operated by YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA. A connection to YouTube servers is established when you visit one of our pages containing the YouTube plugin. The YouTube server receives information about which of our pages you have visited. YouTube will be able to directly attribute your surfing behavior to your personal profile if you are logged in to your YouTube account while visiting our pages.  
+You can prevent this by logging out of your YouTube account before visiting our website. Please read the YouTube privacy policy for more information about their handling of user data: https://www.google.com/intl/en/policies/privacy
+
 **Third party advertising and your choices.**
 
-Third parties whose products or services are accessible or advertised via the Services may also place cookies or other tracking technologies on your computer, mobile phone, or other device to collect non-personal information about your use of the Services. We also allow other third parties (e.g., ad networks and ad servers or other non-affiliated third parties) to serve tailored ads to you on the Services, and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the Services. We neither have access to, nor does this Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device you use to access the Services by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. Those parties that use these technologies may offer you a way to opt out of ad targeting as described below. You may receive tailored advertising on your computer through a web browser. If you are interested in more information about tailored browser advertising and how you control cookies from being put on your computer to deliver tailored advertising, you may visit the [Network Advertising Initiative’s website](http://www.networkadvertising.org/choices) and/or the [Digital Advertising Alliance’s website](http://www.aboutads.info/choices/). You also can control advertising cookies from Google, by using its [Ads Preference Manager](https://www.google.com/settings/ads/onweb/?sig=ACi0TChRwpbntAMM2njihdXfozJJeFxAHpjCee18n5ZUFrx0f8Ag81ZmI54vN5AJDgezZbJiXkYJzMoIPZZ5IrzDPFotiE02HNJqcwNz6mqlWRRkiULVCbvp_56vm0MKiu_uNlIoIfHLZNZk4nM3PMRYKe24CwR6JlanqGrd1kJrWrKSpv82qlzOgEH_yTJ2vTcw2LO912QV&hl=e). Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out of tailored advertising.
+Please note that third parties (such as advertising networks and providers of external services, like web traffic analysis services) may also use cookies, over which we have no control.  These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+We also allow other third parties (e.g., ad networks and ad servers or other non-affiliated third parties) to serve tailored ads to you on the Services, and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the Services. We neither have access to, nor does this Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device you use to access the Services by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. Those parties that use these technologies may offer you a way to opt out of ad targeting as described below. You may receive tailored advertising on your computer through a web browser. If you are interested in more information about tailored browser advertising and how you control cookies from being put on your computer to deliver tailored advertising, you may visit the [Network Advertising Initiative’s website](http://www.networkadvertising.org/choices) and/or the [Digital Advertising Alliance’s website](http://www.aboutads.info/choices/). You also can control advertising cookies from Google, by using its [Ads Preference Manager](https://www.google.com/settings/ads/onweb/?sig=ACi0TChRwpbntAMM2njihdXfozJJeFxAHpjCee18n5ZUFrx0f8Ag81ZmI54vN5AJDgezZbJiXkYJzMoIPZZ5IrzDPFotiE02HNJqcwNz6mqlWRRkiULVCbvp_56vm0MKiu_uNlIoIfHLZNZk4nM3PMRYKe24CwR6JlanqGrd1kJrWrKSpv82qlzOgEH_yTJ2vTcw2LO912QV&hl=e). Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out of tailored advertising.
 
 When using a mobile application you may receive tailored in-application advertisements. Each operating system, iOS for Apple phones, Android for Android devices and Windows for Microsoft devices provides its own instructions on how to prevent the delivery of tailored in-application advertisements. You may review the support materials and/or the privacy settings for the respective operating systems in order to opt-out of tailored in-application advertisements. For any other devices and/or operating systems, please visit the privacy settings for the applicable device or contact the applicable platform operator.
 
@@ -79,6 +155,7 @@ We use the information that we collect for the following purposes:
   * To contact you with information that we believe will be of interest to you;
   * To attribute content that you make available through the Services;
   * To generate and review reports and data about our user base and Service usage patterns;
+  * To request your feedback or input about the Services through surveys, user testing, or focus groups;
   * To analyze the accuracy, effectiveness, usability, or popularity of the Services;
   * To improve the content and features of the Services or develop new Services;
   * To allow us to personalize the content and advertising that you see on the Services;
@@ -93,12 +170,14 @@ We may aggregate and/or anonymize information collected by the Services or via o
 
 Regardless of anything else in this Privacy Policy to the contrary, we may also combine information, including personal information, that we collect from you during your use of the Services with information obtained from your other interactions with us (The Christian Science Publishing Society and our affiliate The First Church of Christ, Scientist) and our service providers, including your subscriptions, product purchases, website visits, or other communications. We may use this combined information, and share it with our affiliates or service providers, in order to personalize the content and advertising that you see on the Services or our other sites.
 
+ **Duration of processing of Personal Data.** Where we are  processing and using your Personal Data as permitted by law or under your consent, we will store your Personal Data (i) only for as long as is required to fulfil the purposes, or (ii) until you object to our use of your Personal Data (except where we have a legitimate interest in using your Personal Data), or (iii) until you withdraw your consent. However, where we is required by mandatory law to retain your Personal Data longer or where your Personal Data is required for us to assert or defend against legal claims, we will retain your Personal Data until the end of the relevant retention period or until the claims in question have been settled.
+
 ##  Information sharing and disclosure.
 
 We will make your information available to other companies, websites, applications or people in the circumstances described below:
 
   * We may rent, sell, or share your information with nonaffiliated third parties: (a) in order to provide Services or products that you have requested; (b) when we have your permission; or (c) as described in this Privacy Policy.
-  * We may share your information with any affiliate or agent of the Monitor in order to provide the Services or advertising or to communicate with you on our behalf.
+  * We may share your information with any affiliate, agent, or service provider of the Monitor in order to provide the Services or advertising or to conduct surveys, user testing, or focus groups, or to otherwise communicate with you on our behalf.
   * When you sign up to participate in a contest, your information may also be provided to our contest advertisers, operators, or sponsors and the use of that information will be also governed by those advertisers’, operators’, or sponsors’ privacy policies or practices.
   * We may disclose your information in response to any subpoenas, court orders, or other legal process we receive, or to establish or exercise our legal rights or to defend against legal claims.
   * We may share your information with third-party advertisers and advertising networks or others with which we have a contractual relationship.
@@ -110,10 +189,6 @@ We will make your information available to other companies, websites, applicatio
 The Monitor supplies some of its subscriptions and content, such as the Digital Edition and the Historic Archive 1901 - 1980, through third parties. These Services and purchases are processed by third-parties on behalf of Monitor, and such third-parties collect and store billing and credit card information solely to process these purchases. This information will not be used for any other reason except as instructed by the Monitor.
 
 As we continue to develop our business, we may partner with other companies or businesses. In such transactions, user information may be among the shared assets.
-
-##  How you can access and update your information.
-
-To ensure that you have some control over the information we have about you, you may review and update certain user profile information by logging in to the relevant portions of the Services where such information may be updated (may be available on some Services and not others) or by contacting us at [service@csmonitor.com](mailto:service@csmonitor.com).
 
 ##  How we protect information.
 
@@ -149,4 +224,4 @@ This Privacy Policy does not create rights enforceable by third parties.
 
 ##  Changes to this Privacy Policy.
 
-The Christian Science Monitor reserves the right to change this Privacy Policy at any time. Please check this page periodically for changes. Your continued use of the Services following the posting of changes to this Privacy Policy will mean you accept those changes. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here and notify you by e-mail or by means of a notice on our website.
+The Christian Science Monitor reserves the right to change this Privacy Policy at any time. If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here and notify you by e-mail or by means of a notice on our website. Please check this page periodically for changes. Your continued use of the Services following the posting of changes to this Privacy Policy will mean you accept those changes.
