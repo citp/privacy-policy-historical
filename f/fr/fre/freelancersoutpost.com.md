@@ -1,61 +1,85 @@
-> *The following text is extracted and transformed from the freelancersoutpost.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330140309id_/http%3A//www.freelancersoutpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancersoutpost.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231084630id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - Freelancers Outpost
+# HugeDomains.com - Privacy Policy
 
-### Privacy Policy
+HUGEDOMAINS.COM PRIVACY POLICY
 
-This Privacy Policy ("Privacy Policy") applies to Freelancers Outpost
+HugeDomains's Privacy Policy describes how this site collects and uses the personally identifiable information provided by customers/consumers/users of this site. It also describes the choices available to customers regarding HugeDomains's use of customer's personally identifiable information and how that information may be accessed and updated by customers and how it may be provided to third-parties.
 
-As revised on: February 20, 2011
+If you do not agree to HugeDomains's Privacy Policy and/or [Terms of Service](https://web.archive.org/terms.cfm), you must immediately cease use of HugeDomains.com. If you do not agree, do not use HugeDomains's website or services,  do not purchase domains and do not enter into payment plans with HugeDomains.com.
 
-At Freelancers Outpost, we recognize the privacy needs of our Customers. You should be able to choose what information you want to share and decide what will happen to that information once it has been shared. Protecting your personal information is vitally important. Please read the following Privacy Policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time without notice so please check back periodically. We hope this will increase your awareness about online privacy.
+HugeDomains.com is a United States company, located in Denver, Colorado, USA. HugeDomains complies with the U.S-EU Safe Harbor framework which is dictated and set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. HugeDomains further complies with the California Online Privacy Protection Act and the Children's Online Privacy Protection Act (COPPA).
 
-##### Collected Information
+**What Information HugeDomains Collects**
 
-If you choose to use and or purchase a Freelancers Outpost product or place an order with us, we may ask you to provide us with certain personal information, such as your name, physical and electronic mail ("e-mail") addresses, phone number, domain name and other information that by itself, or in combination with other information, may be identifiable to you as a specific individual. We may also ask for financial information, such as account or credit card numbers, and demographic information, such as your zip code.
+HugeDomains must collect certain personal data in order to conduct business, provide customer service and provide a customer with relevant requested services. Personal information is collected from customers when  a customer contacts HugeDomains through the website, when a customer purchases a domain, whenever a customer fills out a contact form on the HugeDomains platform; when a customer submits payment to HugeDomains; and when a customer contacts HugeDomains via phone or chat. HugeDomains will further collect certain personal information from customers as needed in order to continue to provide services to its customers and as required by any relevant law, rule, regulation, and other method that ensures the safety of HugeDomains, its customers, and the general public.
 
-Please be aware that Freelancers Outpost advertisers, and web sites that have links on our sites, and provider/distributor partners may also collect personally identifiable information about you. The information practices of these Internet access partners, advertisers, and web sites linked to Freelancers Outpost and provider/distributor partners, are not governed by this Privacy Policy. What these other sites do with that information is governed by the privacy policy for that site and not this policy. You are encouraged to review the privacy policy on any site you visit.
+HugeDomains collects customers' relevant personal information, including but not limited to: name, address, phone number, fax number (if applicable), email address and other data used to directly or indirectly to identify you in connection to your use of HugeDomains's services. Many products/services may require a customer to provide HugeDomains with additional information such as credit card information, associated billing information, or other financial and payment information. In order to protect HugeDomains and its customers, as well as intellectual property rights, HugeDomains may require customers to provide government identification and/or other documentation as proof of identity and physical address.
 
-##### Information Requests
+**Why HugeDomains Collects This Information**
 
-You may be able to request information on our sites regarding products and Services, including technical support and customer Service, by using online forms. We may ask that you provide certain contact information to allow us to fulfill your request and to send you information about Freelancers Outpost's products and Services.
+HugeDomains collects customer information for several reasons, including but not limited to: following relevant and required ICANN data collection requirements, along with and to abide and comply with United States laws, rules, and regulations. Further, HugeDomains collects such information in order to allow HugeDomains to: 
 
-##### Security
+a. **To personalize customer experience**  \- customer information helps HugeDomains better respond to customer's individual needs.
 
-Ordering online for a Freelancers Outpost product or service is secure and convenient. Our ordering process is protected by the Secure Sockets Layer ("SSL") protocol, which encrypts your information and confirms the identity of the Freelancers Outpost server before completing your transaction. Netscape Navigator 2.0 + (or better) and Internet Explorer 3.0+ (or better) support the SSL protocol. We recommend you use the latest browsers to ensure that you are protected by advances in security technology.
+b. **To improve the HugeDomains website and services** \- HugeDomains continually strives to improve its website offerings and services based on the information and feedback received from customers.
 
-##### Children's Guidelines
+c. **To improve customer service** \- customer information helps HugeDomains more effectively respond to specific customer service requests and support needs. Should a customer contact HugeDomains for service or support, it will keep an internal record of such correspondence, whether email or telephone call, along with an internal record of support given.
 
-Although some of Freelancers Outpost's sites are not geared towards children, Freelancers Outpost nonetheless attempts to protect children. Freelancers Outpost must, however, rely on the information provided to us by visitors to our sites. As a result, it is impossible for us to guarantee with absolute certainty that the information collected and utilized by Freelancers Outpost is not derived from a child.
+d. **To process transactions**  \- other than specifically provided in this provision, or required by law, customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company without direct and express customer consent.
 
-##### Disclosure
+e. **To send periodic emails** \- customer email addresses provided for order processing, will be used to send customers relevant and pertinent information and updates pertaining to their HugeDomains account and registered domain names and/or other services. These communications include, but are not limited, to: HugeDomains updates and questions or concerns regarding the customer, their account, or specific services. If a customer chooses to opt-in to a mailing list, they will receive email communications that may include company news, updates, related product or service information, as set per email preferences which is customizable from within each users' account.
 
-**Freelancers Outpost will not sell, rent, trade, or disclose individual Customer information to any third parties or outside companies** who will use the information to contact you or who will share the information with others without your permission. It may be necessary to disclose information in special cases when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be violating Freelancers Outpost's policies or may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of Freelancers Outpost, other Freelancers Outpost users, or anyone else that could be harmed by such activities. Freelancers Outpost may disclose or access account information when we believe in good faith that the law requires it or for administrative and other purposes that we deem necessary to maintain, service, and improve our products and Services.
+f. **Domain ownership information**  \- HugeDomains.com sells domain names, and all domain name purchases require registrant information in order to complete the purchase and facilitate the transfer of the domain name. The information provided by a customer when purchasing a domain can and will be used to transfer ownership of said domain names. The registration information provided for a domain is recorded and shared with trusted parties in order to deliver such purchases to domain buyers. If a customer does not opt-in for privacy protection, the whois information provided when buying domain names may be shared via a public record called "whois".
 
-##### Use of Information
+**How HugeDomains Collects this Information**
 
-The use of an individual's e-mail address is necessary to keep our Customers well informed of maintenance issues, escalated critical issues and problem resolutions that may arise with your Freelancers Outpost Service. We may also use e-mail addresses to provide our Customers with informative newsletters.
+HugeDomains utilizes a variety of security measures to maintain the safety of customers' personal information. All supplied financial information (including credit card data) is transmitted via Secure Socket Layer (SSL) technology and then encrypted into the company's payment gateway provider's database. This database and the sensitive information contained within are only accessible by those authorized with special access rights to such systems and are required to keep the information confidential. 
 
-We like to keep our Customers informed via e-mail and other means. Sometimes Freelancers Outpost uses personal and demographic information to help us determine which Freelancers Outpost products and Services are most likely to be of interest to you or help diagnose problems with our servers or administration of our sites. We also use demographic information to gather general interest in our products, to help in the analysis of product usage, purchasing, and target markets.
+HugeDomains uses cookies (and other technologies such as web beacons, pixels, tags, scrips) to identify you so you don't need to log in each time you visit a HugeDomains website or its mobile applications. The cookies are linked to your customer account, which is associated with the information in your account. HugeDomains uses cookies to help remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that it can offer better site experiences and tools in the future. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most modern websites, if you turn your cookies off, some of HugeDomains's services may not function properly or function at all. HugeDomains does not test its website for this and does not guarantee use of services with cookies disabled. 
 
-Please note that Freelancers Outpost does provide information to outside companies (such as a credit card processing company) who perform certain functions on our behalf for billing purposes. We will not permit those companies to use the gathered information for other than the stated purpose.
+HugeDomains, like most companies, obtains information about its customers automatically and stores this information in its internal databases. This information may include but is not limited to: Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring entry/exit pages, operating system, date/time stamp and/or clickstream data, and other data that could directly or indirectly identify you. HugeDomains uses this information to help personalize your experience and search results, diagnose problems with its systems, to administer the services on this site, and for other corporate uses.
 
-##### Correct/Update
+**How HugeDomains Uses this Information**
 
-If you would like to change or modify information you have previously provided to us, please contact us.
+HugeDomains must first and foremost abide by local law. As a US company, HugeDomains will first abide by US laws and regulations when two laws might differ and/or conflict with one another.
 
-##### Cookies
+HugeDomains securely holds on to personal data internally. Such data can be held indefinitely in order to keep accurate records that may be required under local law and regulation. 
 
-Some of the websites we host place small bits of text or "cookies" onto your computer's hard drive. Cookies enable us to deliver content specific to your interests and keep track of your password so you do not have to re-enter it each time you visit our web sites. After you accept a cookie, it is passed from your browser to our servers each time you request a page. This cookie consists of a unique token that anonymously identifies to the server so that you can more easily access the features of the Freelancers Outpost Service. Please note that you may configure your web browser to warn you before you accept a cookie.
+HugeDomains uses customer information to communicate directly with their customers. It is important for customers to keep their email address up to date and check their email regularly for updates regarding a HugeDomains account. 
 
-##### Customer E-mails
+HugeDomains may have the need to provide customer information to third parties for certain services required by HugeDomains, including but not limited to, credit card processors, technical support services, shipping of goods or services, customer relationship management, SMS delivery, Collections Agencies,  registry compliance, law enforcement, among other third parties for other similar such reasons. When a domain is purchased which is managed at a partner registrar, HugeDomains reserves the right to automatically push said domain name(s) into an account at that domain name registrar in order to provide the relevant purchased product(s) to the customer. HugeDomains will only share information that is necessary for the third party to provide the required services. This information will not be sold nor voluntarily disseminated unless reasonably needed at HugeDomains's sole discretion. 
 
-Freelancers Outpost will not read or disclose e-mail content to others unless required by law or deemed necessary to operate our services.
+When a HugeDomains account is cancelled/suspended/terminated, either voluntarily or involuntarily, this does not mean that the customer's personally identifiable information has been deleted entirely from HugeDomains's systems and databases. Some or all this information may be retained by HugeDomains, including but not limited, to comply with legal obligations, resolve disputes, prevent fraud and/or enforce company agreements.  In addition, you will not be able to submit a form on this website without providing the exact information required to complete that specific action. It is forbidden and against of ICANN's rules to provide false Registrant information about any domain name registration(s). Providing false or fake information may and will result in suspension of the customer's HugeDomains account and forfeiture of any related domain name(s) registered with HugeDomains or any of its affiliate companies or domain name registrars.
 
-##### Contacting the Web Site
+HugeDomains will cooperate with government, law enforcement officials and relevant private parties to enforce and comply with Unites States law and with applicable and mandatory regulations regarding the services it provides. If necessary, HugeDomains will disclose any customer information to the relevant officials or private parties when appropriate or deemed reasonably necessary. Further, if HugeDomains believes, in its sole discretion, (including without limitation to subpoenas), that the preservation of certain customer information is necessary to protect its rights or the property and/or the rights of a third party. HugeDomains may further maintain or share customer information in order to protect the safety of the public or any person, to prevent or stop activity HugeDomains considers to be illegal based on applicable laws, or to otherwise uphold the law.  By using HugeDomains's website and services, all customers expressly consent to this Privacy Policy. HugeDomains further reserves the right to modify this Policy at any time. If changes are made to this Policy, those changes will be publicly posted. HugeDomains is not required to directly notify its customers of changes made to this Policy, however, if material changes are made, HugeDomains will notify its customers by email or through a public notice on its website.
 
-If you have any questions about Freelancers Outpost's privacy policy or the privacy practices of our web sites, please contact us
+**To Access, Update, or Delete Your Personal Information**
 
-##### Changes to the Privacy Policy
+You have the right to correct any personal information held about you that is inaccurate or incomplete. If there is information located on HugeDomains servers you wish to correct, you will be required to login to your account and update the appropriate information. This includes account owner information, information submitted for various products and services offered through this website, including but not limited to purchased domain names and payment methods linked to your account.
 
-In the event our Privacy Policy needs to be modified, those changes will be reflected in the next revision of this Privacy Policy which will be posted on the Freelancers Outpost web site. Please check back often to review any revisions. 
+You have the right issue a request that HugeDomains delete your personal data. HugeDomains will review your request and delete data if possible. HugeDomains reserves the right, in its sole discretion, to retain any personal data. Personal data may be retained for several reasons, including, but not limited to: fraud mitigation; preserving or enforcing legal and/or contractual rights; data retention mandated by local law,  domain registrars processing of your data, relevant domain registries, contracts, or reasons necessary to HugeDomains's business and operate such services. If you wish to have your data erased, you can use the contact details found on the bottom of this page, please provide as many details as possible as to your request, and the company will determine if you have a valid basis for the erasure of your data. If you have questions about data retention you may contact us with your questions or concerns. You have the right to lodge a complaint with a relevant supervisory authority.
+
+**Third Parties**
+
+HugeDomains.com may share your personal information with affiliated companies within its corporate family and other third-parties that integrate with HugeDomains services, and to provide products and services, including but not limited to: Customer Relationship Management; processing payments; fraud prevention; management of domain names; and serving advertisements. Many of these third parties are affiliate companies, and work in conjunction with HugeDomains to provide customers the products and services provided by HugeDomains to HugeDomains's customers.
+
+Targeted ads may be provided to HugeDomains customers based upon their webpages and Internet activity. These ads and offers may be displayed as product banners provided while you are engaged in Internet browsing or using HugeDomains.com and its services. In some instances, HugeDomains partners with third parties to manage advertising, including targeted advertising on HugeDomains webpages and other websites. These third-party partners may use certain data collection tools such as cookies in order to collect information about customer activities to provide customers with customized advertisements. When possible, such providers will give ways to opt-out of any such advertisements.
+
+HugeDomains's website may contain links to third party websites. HugeDomains is not responsible for the privacy policy and data collection of third-party sites. You are solely responsible for reviewing any third-party privacy practices on all such websites.
+
+Some Internet browsers may allow users to receive notifications when a website is utilizing tracking technology and may allow that user to use a "do not track" signal. There is no industry standard or agreement among industry participates as to what this "do not track" signal entails. As there is not set definition or regulation regarding this process, HugeDomains does not make any adjustments or alternations in its operating processes when a "do not track" signal is received from an Internet browser.
+
+**Corporate Reorganization**
+
+If HugeDomains were to merge with another company or if HugeDomains is involved in an acquisition or sale of all a substantial portion of assets, or other similar sale transaction, your information will be transferred as part of that transaction and you will be notified by email and/or notice on HugeDomains website of any such transfer and any choices you may have regarding your information.
+
+**Contact Information**
+
+If you have any other questions about this Privacy Policy, the practices of HugeDomains you may use the contact us form on this web site to request additional information, or you can reach us  by phone at +1 (303) 893-0552 or by email at sales@hugedomains.com 
+
+\---
+
+Last Revised: July 05, 2018
+
+Copyright 2005-2018 HugeDomains.com. All Rights Reserved.
