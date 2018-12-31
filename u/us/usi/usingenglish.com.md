@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625131318id_/https%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231123921id_/https%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - UsingEnglish.com
-
-  1. [Home](https://www.usingenglish.com/)
-  2. [About Us](https://web.archive.org/about/)
-  3. Privacy Notice
-
-
 
   * [About Us ](https://web.archive.org/about/)
   * [Advertising ](https://web.archive.org/about/advertising/)
