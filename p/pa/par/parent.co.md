@@ -1,55 +1,68 @@
-> *The following text is extracted and transformed from the parent.co privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015115539id_/http%3A//www.notabli.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parent.co privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231123138id_/https%3A//www.mother.ly/privacy-policy) for the most accurate reproduction.*
 
-# Notabli Privacy Policy — Notabli - Where Childhood Lives
+# PRIVACY POLICY - Motherly
 
-_Notabli was designed and built for private, kid-related content, with the option to selectively share individual moments publicly._
+Hello and welcome to Motherly, Inc.! We will use a few terms in this Privacy Policy: "Privacy Policy" or "Policy": This Privacy Policy, which is a part of our Terms of Service. We also may use terms from our[Terms of Service](http://staging.mother.ly/terms-and-conditions) in this Privacy Policy. 
 
-### OWNERSHIP OF DATA
+* * *
 
-You have complete control over the information and content you provide to Notabli. You retain ownership of all intellectual property rights for content you add to Notabli. You can modify, export, or delete any content you have added. You can also delete your entire account at any time - though we’d love for you to stay.
+"Motherly", "we", "us" or "our": Motherly Media, Inc. 
 
-### INFORMATION ABOUT YOUR ACCOUNT
+"you" or "your": you 
 
-When you create an account we may collect specific personal information, like your name, picture, email address and phone number, as well as non-personally identifying information like gender. We use this information to allow you to use Notabli, and to send you updates and information about our products and services.
+"Site": [www.mother.ly](http://www.mother.ly/) and its subdomains 
 
-### INFORMATION OBTAINED FROM THIRD-PARTY SERVICES
+"App": any downloadable applications we make available to you, 
 
-When you link a third-party service, like Facebook, we may collect and store personally identifying information and data that you have provided to that third-party service, and consented to having shared with services like Notabli. We may use this third-party information to help you easily connect with friends and family. In order to backup your content and make it available to those people and networks you choose to share with, we store the content you share on Notabli.
+"Services": any software or services we make available to you, including the Site and/or App. 
 
-### ANALYTICS AND COOKIES
+This Privacy Policy describes how Motherly treats information collected or provided in connection with your use of Motherly's Services. 
 
-Like many services, we use analytics and cookies to improve our services. We use third-party tools, like Google Analytics and Flurry, to automatically record information about your browser and device type. We also use cookies, snippets of code that are stored by your browser, to enable us to recognize your browser on return visits and to help us better understand how and when users interact with Notabli services.
+**NOTE:** Motherly does not knowingly collect information from children under 13. If you are a parent and believe that your child under the age of 13 has used our Services and provided personally identifiable information to us through our Services, please contact us at [hello@mother.ly](mailto:hello@mother.ly) (include "Child Information" in the subject line) or the mailing address below and we will work to delete that account and any such personally identifiable information. 
 
-### TRANSFER OF DATA
+  1. **Effective Date; Changes.** This Policy applies to all information collected by or provided to us on and after the Effective Date. When we make any material changes to this Policy, we will change the Effective Date above and will inform you by e-mail sent to the address associated with your account and/or through our Services the next time you login. We will treat your continued use of our Services following such notice as your acceptance of the changes. However, we will seek your affirmative consent prior to applying any material change to this Policy on how we use or disclose personally identifiable information to information we collected or received prior to the date of the change.
+  2. **Third Parties.** We may offer through our Services or send to registered users links to or offers from third parties. This Policy does not apply to information that you may provide to or that may be collected by third parties. We encourage you to request such third parties to provide you with their applicable privacy policies and other terms and conditions before participating or making a purchase.
+  3. **Collected Information**
+    1. **Information You Submit.** When you create an account with our Services, we collect the personally identifiable information you provide in the registration form. This information may include your name, e-mail address, picture, due date, child's name, child's birthdate, payment information (if applicable) and other information.
+    2. **Social Networking Information.** You may share content created on our Services through a social networking site such as Twitter or Facebook ("Social Services"). Integration with Social Services allows us to offer a more personalized experience to you when you use our Services. If you share information on the Social Services, the Social Service may provide us with access to certain information that you have provided to that Social Service (such as your profile picture, interests, and connections), and we will use, store and disclose such information in accordance with this Policy. Please remember that the manner in which Social Services use, store and disclose your information is governed by the terms and conditions and privacy policies of each Social Service, and not the Motherly.
+    3.  **Measurement Software**. Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html>.
+  4. **Information Collected When You Use our Services.** When you use our Services, we gather certain non-personally identifiable information from you, and this information can be associated with the personally identifiable information that you provide. This includes usage information, such as information on when, how often and for how long you use our Services, how you use our Services and server log data such as a device's IP address, MAC address and operating system version. If you choose to provide it, this will also include crash log data consisting of status and debugging information for our Services.
+  5. **Cookies, Web Beacons, and Advertising.**
+    1. We also use cookies on our Services. Cookies are small files that are stored on your computer by your web browser. A cookie allows our Services to recognize whether you have visited before and may store user preferences and other information. For example, cookies can be used to collect information about your use of our Site during your current session and over time (including the pages you view and the files you download), your computer's operating system and browser type, your Internet service provider, your domain name and IP address, your general geographic location, the website that you visited before the Site, and the link you used to leave the Site. If you are concerned about having cookies on your computer, you can set your browser to refuse all cookies or to indicate when a cookie is being set, allowing you to decide whether to accept it. You can also delete cookies from your computer. However, if you choose to block or delete cookies, certain features of our Services may not operate correctly.
+    2. Our Services or the emails that you receive from Motherly may use an application known as a "web beacon" (also known as a "clear gif"). A web beacon is an electronic file that usually consists of a single-pixel image. It can be embedded in a web page or in an email to transmit information, which could include personal information. For example, it allows an email sender to determine whether a user has opened a particular email.
+    3. We also may partner with certain third parties to collect, analyze and use some of the personal and non-personal information described in this section. For example, we may allow third parties to set cookies or use web beacons on our Services or in email communications from us. This information may be used for a variety of purposes, including online behavioral advertising, as discussed below.
+  6. **Recommending to Contacts.** If you use our Services to send invitations to your contacts to recommend they use our Services, their names and e-mail addresses of the contacts you select will be collected by our servers so we can send them invitations.
+  7. **Location-Based Information.** If you allow location-based tracking through your mobile device, we will receive information regarding your precise location (using the GPS antenna within your device) when you use our Services with your device. We also receive information from the compass on your mobile device, including course, velocity and altitude. This allows your posts within our Services to be tagged with your location, and may also post when you are in transit or your location has changed. Location and compass information is used to ascertain where you are located when you capture videos and photos or check in, allowing us to associate your videos, photos and location with that of other users in close proximity to you to create compilations. We may use location information to incorporate your photos or videos with those of your friends who are nearby, or to suggest friends to you who are nearby and/or are in your friend network. We may also use the location of a video, photo or check in to determine what advertising should be shown in connection with that posting.
+  8. **Use & Disclosure of Information**
+    1. We internally use the information we maintain about you as follows: 
+      1. By using our Services, you agree to receive emails and push notifications (if you use our App) from us regarding our Services. We may from time to time send you push notifications or email messages with information about your use of our Services. You agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing. You may opt-out of receiving our newsletter by emailing hello@mother.ly with "Opt-out" in the subject line or by selecting to unsubscribe as may be provided in the applicable email correspondence.
+      2. We may use submitted information for the purposes for which you provided the information, such as to post comments and create and maintain an account for you.
+      3. We may use submitted information and collected information to provide the features and functionality of our Services to you.
+      4. We may use submitted information and collected information to personalize the content (including advertising) that you and others see based on personal characteristics or preferences. This includes without limitation the information you submit when registering for an account, information we collect when you use our Services under Section 4, information pertaining to content you submit to Motherly, and other information we may collect pursuant to our [Terms of Service](http://staging.mother.ly/terms-and-conditions) or this Policy.
+      5. We may analyze collected information relating to your use of our Services in order to help us improve our Services and develop and improve other products and services.
+      6. We may use User Content for any purpose permissible under the [Terms of Service](http://staging.mother.ly/terms-and-conditions) or under this Policy.
+      7. We may use submitted information and collected information to help troubleshoot problems, provide you with required notices, enforce our [Terms of Service](http://staging.mother.ly/terms-and-conditions) (for example, when necessary to protect our or a third party's intellectual property or proprietary rights), or to alert you to changes in our policies or agreements that may affect your use of the Services.
+    2. We use and disclose the information we maintain about you as follows: 
+      1. Your name login and photo will be disclosed to other users as part of your profile. You can see this information by viewing your own profile. Other users to whom you are connected will also see your posts in association with your profile information.
+      2. If we collect payment information from you as part of the Services, we may disclose that information and your personal information to outside payment processing companies for the purposes of billing or processing payments.
+      3. If you share information through a Social Service, we will use the information we receive from that Social Service to populate your profile. We may also use such information to connect you to your friends and contacts through the Services.
+      4. If you use a Social Service or other external source to publish or share media created on the Services, you should check the privacy policy of such external source, as it is set by that external source. You understand that information might be re-shared or copied by other users of the Services or the Social Service.
+      5. If you invite your contacts to use the Services, we retain their contact information and device identification number on our servers so that we can recognize them as your contacts and connect you to them if and when they sign up to use the Services.
+      6. We may disclose non-personally identifiable information to third party partners in furtherance of our business arrangements with them, including without limitation to jointly offer a product or service to you or create interoperability between our products and services and the products and services of such partners.
+      7. We may provide advertisers and other third parties with aggregated, non-identifiable information about our user base and its usage patterns.
+      8. We will use and disclose your location information as described above under the heading "Location-Based Information."
+      9. We may use contractors and third party service providers to provide the Services to our users. When our contractors or service provider obtain access to your information, they are required to protect this information in a manner that is consistent with this Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for Motherly.
+    3. We partner with certain third parties to collect the non-personal information discussed above and to engage in analysis, auditing, research, and reporting. These third parties may use web logs or web beacons, and they may set and access cookies on your computer or other device. In particular, we use Google Analytics to help collect and analyze certain information for the purposes discussed above. You may opt out of the use of cookies by Google Analytics here.
+    4. Our Services also enable third party tracking mechanisms to collect your non-personal information for use in online behavioral advertising. For example, third parties may use the fact that you visited the Site to target online ads for Motherly services to you on non-Motherly websites. In addition, our third-party advertising networks might use information about your use of the Site to help target non-Motherly advertisements based on your online behavior in general. For information about behavioral advertising practices, including privacy and confidentiality, visit the Network Advertising Initiative website or the Digital Advertising Alliance website.
+    5. The use of online tracking mechanisms by third parties is subject to those third parties' own privacy policies, and not this Privacy Policy. If you prefer to prevent third parties from setting and accessing cookies on your computer, you may set your browser to block cookies. Additionally, you may remove yourself from the targeted advertising of companies within the Network Advertising Initiative by opting out here, or of companies participating in the Digital Advertising Alliance program by opting out here. Although our website currently may not respond to "do not track" browser headers you can limit tracking through these third party programs and by taking the other steps discussed above.
+    6. Our Services integrate certain third party plug-ins (such as a Facebook "like" button). Even if you do not click on these plug-ins, they may collect information about you, such as your IP address and the pages that you view. They also may set and/or access a cookie. These plugins are governed by the privacy policy of the company providing them.
+    7. We will use and disclose information where we, in good faith, believe that the law or legal process (such as a court order, search warrant or subpoena) requires us to do so or in other circumstances when necessary either to protect the rights or property of Motherly, our users, and third parties.
+  9. **Viewing and Amending Information.** You can log into your account and view and change your user account information at any time.
+  10. **Deleting Your Information.** You may at any time cancel your account and request that we delete from our servers all of your account information and the media you have posted through our Services. Such requests will be honored within a reasonable time period after they have been received provided that you give us all reasonably necessary information and cooperation. Certain data may continue to be stored in our backup systems until regularly scheduled deletions occur.
+  11. **Choices Regarding Third Party Offers.** To the extent that we send you commercial e-mails regarding third party marketing or promotional materials, we will give you the ability to opt out of receiving such e-mails in accordance with applicable law. We will not provide your personally identifiable information to third parties for their own marketing purposes without your consent.
+  12. **Security.** The personally identifiable information we collect about you is stored in limited access servers. We will maintain reasonable safeguards to protect the security of these servers and your personally identifiable information. However, no security measures are 100 percent effective, and we cannot guarantee the security of your personally identifiable information.
+  13. **Transfer As Corporate Asset.** In the event of a merger, sale of capital stock or assets, reorganization, consolidation or similar transaction involving Motherly, the information we possess (including personally identifiable information) shall be transferred as a corporate asset to the acquiring entity, provided that such entity will continue to handle such information in accordance with this Policy.
+  14. **Transfer to the U.S. or other Countries.** Motherly is established in and uses facilities in the United States. Your information will be stored and processed in the United States or other countries where Motherly has facilities. By using our Services, you consent to the transfer of information outside of your country, even if your country has more rigorous data protection standards.
+  15. **Contacting Us.** If you have any questions about this Policy, please contact us at [hello@mother.ly](mailto:hello@mother.ly) with "Privacy Policy" in the subject line or at P.O. Box 7734 Menlo Park, CA 94026, USA.
 
-To the best of our ability, this data is transferred over a secure connection and stored redundantly on multiple servers across multiple facilities.
 
-### SHARING OF INFORMATION
-
-We share your content when you give us permission to do so by inviting viewers, making a moment public, or sharing to a third-party service, like Facebook or Twitter. Please keep in mind that once content is shared publicly or to a third-party service, we no longer have any control over who can view the shared content or what information is gathered by other people or services.
-
-### LOCATION INFORMATION
-
-To add more context to your content, you may choose to add your geo-location. Notabli will request access to your location information, and if approved, you can toggle location on or off for individual moments you post.
-
-### CONTACTS AND ADDRESS BOOK
-
-To help you invite family & friends to keep up with your kids, Notabli will request access to your Contacts. We transmit this information securely and it is not stored.
-
-### CHILDREN’S PRIVACY
-
-All content provided to Notabli about children under the age of 13 is provided with parental consent, to comply with The Children’s Online Privacy Protection Act (COPPA) and because it’s the right thing to do. We do not knowingly collect personal information from children under 13.
-
-### LEGAL COMPLIANCE
-
-If we are required by law, it may be necessary to provide access to your information and content. This rare circumstance is the only time we will share information or content you have shared, without your explicit permission.
-
-### UPDATES TO THIS POLICY
-
-When we update this document, we will make the newest version available at [notabli.com/privacy](http://notabli.com/privacy) and in the most recent release of our mobile applications.
-
-### FEEDBACK
-
-If you have any questions, please contact us at [hello@notabli.com](mailto:hello@notabli.com)
-
- _Updated on 10/19/13 by the folks responsible for Notabli, Inc._
