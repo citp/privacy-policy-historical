@@ -1,239 +1,2228 @@
-<!--The following is the downloaded HTML source of the americaslibrary.gov privacy policy that was archived on 2018-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180603031417id_/http%3A//americaslibrary.gov/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the americaslibrary.gov privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231215651id_/https%3A//www.loc.gov/legal%23privacy_publicity) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-	<title>Privacy &amp; Security</title>
-<meta name="viewport" content="width=600">
-<!--%%meta_tags%%-->
-<script language="JavaScript">
-<!--
+<!DOCTYPE html><html lang="en" class="no-js" prefix="lc: http://loc.gov/#"><head>
 
-function imgInit() {
+    
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="version" content="$Revision: 77985 $">
+<meta name="msvalidate.01" content="5C89FB9D99590AB2F55BD95C3A59BD81">
+<link title="schema(DC)" rel="schema.dc" href="http://purl.org/dc/elements/1.1/">
+<meta name="dc.language" content="eng">
+<meta name="dc.source" content="Library of Congress, Washington, D.C. 20540 USA">
 
-	var roll_imgs = new Object;
-	var i = 0;
 
-	if (document.images) {
+    <link rel="alternate" type="application/json" href="https://www.loc.gov/legal/?fo=json">
 
-		for (i = 0; i < arguments.length; i++) {
-			var on_name = arguments[i] + '_on';
-			var off_name = arguments[i] + '_off';
-			var on_img = new Image();
-			var off_img = new Image();
-			on_img.src= '/assets/common/' + on_name + '.gif';
-			off_img.src= '/assets/common/' + off_name + '.gif';
-			roll_imgs[on_name] = on_img;
-			roll_imgs[off_name] = off_img;
-		}
-	}
 
-	return roll_imgs;
-}
+<meta property="fb:admins" content="libraryofcongress">
+<meta property="og:site_name" content="The Library of Congress">
+<meta property="twitter:site" content="librarycongress">
+<meta property="og:type" content="article">
 
-function imgAct(imgName) {
-	if (document.images) {
-		document[imgName].src= roll_imgs[imgName + '_on'].src;
-	}
-}
 
-function imgInact(imgName) {
-	if (document.images) {
-		document[imgName].src= roll_imgs[imgName + '_off'].src;
-	}
-}
+ 
 
-var roll_imgs = imgInit(
-	'aa',
-	'jb',
-	'es',
-	'jp',
-	'sh');
-// -->
+    <meta property="twitter:card" content="summary">
+
+    <title>
+    
+        Legal &nbsp;|&nbsp;
+    
+        Library of Congress 
+    
+    </title>
+    <meta name="dc.title" content="Legal &nbsp;|&nbsp;Library of Congress ">
+    <meta property="og:title" content="Legal &nbsp;|&nbsp;Library of Congress ">
+    <meta property="twitter:title" content="Legal &nbsp;|&nbsp;Library of Congress ">
+
+    
+        <meta name="description" content="
+
+The Library of Congress's mission is to engage, inspire, and inform Congress and the American people with a universal and enduring source of knowledge and creativity. Our vision is that all Americans are connected to the Library of Congress. Our websites offer public access to a wide range of information, including historical materials that are products of their particular times, and may contain offensive language or negative stereotypes.">
+        <meta property="og:description" content="
+
+The Library of Congress's mission is to engage, inspire, and inform Congress and the American people with a universal and enduring source of knowledge and creativity. Our vision is that all Americans are connected to the Library of Congress. Our websites offer public access to a wide range of information, including historical materials that are products of their particular times, and may contain offensive language or negative stereotypes.">
+        <meta property="twitter:description" content="
+
+The Library of Congress's mission is to engage, inspire, and inform Congress and the American people with a universal and enduring source of knowledge and creativity. Our vision is that all Americans are connected to the Library of Congress. Our websites offer public access to a wide range of information, including historical materials that are products of their particular times, and may contain offensive language or negative stereotypes.">
+    
+
+    <meta name="dc.rights" content="Text is U.S. Government Work">
+    <link rel="dc.rights" title="Rights Restriction" href="http://www.loc.gov/text-us-government-work">
+
+    
+        <meta name="dc.type" content="web page">
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<!-- final fallback for pages with no media -->
+<meta property="og:image" href="http://www.loc.gov/static/images/apple-touch-icon.png?77985.79268">
+<meta property="og:image:secure_url" content="https://www.loc.gov/static/images/apple-touch-icon.png?77985.79268">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="194">
+<meta property="og:image:height" content="187">
+<meta property="twitter:image" href="https://www.loc.gov/static/images/apple-touch-icon.png?77985.79268">
+
+
+
+    
+
+
+
+
+
+<link href="/static/stylesheets/base.css?77985.79268" type="text/css" rel="stylesheet">
+
+
+
+
+
+
+
+<script src="https://assets.adobedtm.com/dac62e20b491e735c6b56e64c39134d8ee93f9cf/satelliteLib-6b47f831c184878d7338d4683ecf773a17973bb9.js"></script>
+
+
+
+<script type="text/javascript" src="https://www.loc.gov/static/js/lib/jquery-1.8.2.js"></script>
+
+
+    
+
+<script type="text/javascript">
+/**
+ * Timing.js 1.0.4
+ * Copyright 2015 Addy Osmani
+ */
+(function(window) {
+    'use strict';
+
+    /**
+     * Navigation Timing API helpers
+     * timing.getTimes();
+     **/
+    window.timing = window.timing || {
+        /**
+         * Outputs extended measurements using Navigation Timing API
+         * @param  Object opts Options (simple (bool) - opts out of full data view)
+         * @return Object      measurements
+         */
+        getTimes: function(opts) {
+            var performance = window.performance || window.webkitPerformance || window.msPerformance || window.mozPerformance;
+
+            if (performance === undefined) {
+                return false;
+            }
+
+            var timing = performance.timing;
+            var api = {};
+            opts = opts || {};
+
+            if (timing) {
+                if(opts && !opts.simple) {
+                    for (var k in timing) {
+                        // hasOwnProperty does not work because properties are
+                        // added by modifying the object prototype
+                        if(isNumeric(timing[k])) {
+                            api[k] = parseFloat(timing[k]);
+                        }
+                    }
+                }
+
+
+                // Time to first paint
+                if (api.firstPaint === undefined) {
+                    // All times are relative times to the start time within the
+                    // same objects
+                    var firstPaint = 0;
+
+                    // Chrome
+                    if (window.chrome && window.chrome.loadTimes) {
+                        // Convert to ms
+                        firstPaint = window.chrome.loadTimes().firstPaintTime * 1000;
+                        api.firstPaintTime = firstPaint - (window.chrome.loadTimes().startLoadTime*1000);
+                    }
+                    // IE
+                    else if (typeof window.performance.timing.msFirstPaint === 'number') {
+                        firstPaint = window.performance.timing.msFirstPaint;
+                        api.firstPaintTime = firstPaint - window.performance.timing.navigationStart;
+                    }
+                    // Firefox
+                    // This will use the first times after MozAfterPaint fires
+                    //else if (window.performance.timing.navigationStart && typeof InstallTrigger !== 'undefined') {
+                    //    api.firstPaint = window.performance.timing.navigationStart;
+                    //    api.firstPaintTime = mozFirstPaintTime - window.performance.timing.navigationStart;
+                    //}
+                    if (opts && !opts.simple) {
+                        api.firstPaint = firstPaint;
+                    }
+                }
+
+                // Total time from start to load
+                api.loadTime = timing.loadEventEnd - timing.fetchStart;
+                // Time spent constructing the DOM tree
+                api.domReadyTime = timing.domComplete - timing.domInteractive;
+                // Time consumed preparing the new page
+                api.readyStart = timing.fetchStart - timing.navigationStart;
+                // Time spent during redirection
+                api.redirectTime = timing.redirectEnd - timing.redirectStart;
+                // AppCache
+                api.appcacheTime = timing.domainLookupStart - timing.fetchStart;
+                // Time spent unloading documents
+                api.unloadEventTime = timing.unloadEventEnd - timing.unloadEventStart;
+                // DNS query time
+                api.lookupDomainTime = timing.domainLookupEnd - timing.domainLookupStart;
+                // TCP connection time
+                api.connectTime = timing.connectEnd - timing.connectStart;
+                // Time spent during the request
+                api.requestTime = timing.responseEnd - timing.requestStart;
+                // Request to completion of the DOM loading
+                api.initDomTreeTime = timing.domInteractive - timing.responseEnd;
+                // Load event time
+                api.loadEventTime = timing.loadEventEnd - timing.loadEventStart;
+            }
+
+            return api;
+        },
+        /**
+         * Uses console.table() to print a complete table of timing information
+         * @param  Object opts Options (simple (bool) - opts out of full data view)
+         */
+        printTable: function(opts) {
+            var table = {};
+            var data  = this.getTimes(opts) || {};
+            Object.keys(data).sort().forEach(function(k) {
+                table[k] = {
+                    ms: data[k],
+                    s: +((data[k] / 1000).toFixed(2))
+                };
+            });
+            console.table(table);
+        },
+        /**
+         * Uses console.table() to print a summary table of timing information
+         */
+        printSimpleTable: function() {
+            this.printTable({simple: true});
+        }
+    };
+
+    function isNumeric(n) {
+        return !isNaN(parseFloat(n)) && isFinite(n);
+    }
+
+    // Expose as a commonjs module
+    if (typeof module !== 'undefined' && module.exports) {
+        module.exports = window.timing;
+    }
+
+})(typeof window !== 'undefined' ? window : {});
+;;
 </script>
+<script type="text/javascript">
+// Stub window.loc_ux_tracking so we dont have to riddle the pages
+// with if(window.loc_ux_tracking) everywhere.  Also create an alias
+// `UX`
+jQuery(function($){
+    if(!window.loc_ux_tracking){
+        window.loc_ux_tracking = {
+            trackFileDownloadEvent: function(){},
+            trackUserInteractionEvent: function(){},
+            trackUserInterfaceAction: function(){},
+        }
+    }
+    window.UX = window.loc_ux_tracking;
+    UX.download = UX.trackFileDownloadEvent;
+    UX.interaction = UX.trackUserInteractionEvent;
+    UX.interface = UX.trackUserInterfaceAction;
+
+    // Register calls to Adobe for metrics tracking
+    $.omniture = UX.track_player = function(player, shortName, is_video) {
+        var eventData = {
+            player: player,
+            shortName: shortName
+        };
+
+        eventData.mediaType = is_video ? 'video' : 'audio';
+
+        player.on('pause', function(event) {handleMediaEvent(event, eventData)}, this);
+        player.on('buffer', function(event) {handleMediaEvent(event, eventData)}, this);
+        player.on('idle', function(event) {handleMediaEvent(event, eventData)}, this);
+        player.on('complete', function(event) {handleMediaEvent(event, eventData)}, this);
+        player.on('play', function(event) {handleMediaEvent(event, eventData)}, this);
+        player.on('seeked', function(event) {handleMediaEvent(event, eventData)}, this);
+        player.on('seeking', function(event) {handleMediaEvent(event, eventData)}, this);
+    };
+
+    //Handle various media events and send data to Adobe. This also sends data to the legacy locjukebox reporting suite
+    function handleMediaEvent(event, eventData) {
+        if (typeof s != "undefined") {
+            var player = eventData.player;
+            var mediaName = eventData.shortName;
+            var mediaType = eventData.mediaType;
+            var mediaPlayerName = "LOC JW Player";
+            var mediaOffset = 0;
+            var legacyTracking = s_gi('locjukebox');
+
+            legacyTracking.trackingServer = s.trackingServer;
+            legacyTracking.prop4 = mediaName;
+
+            if (player.getPosition() > 0) {
+                mediaOffset = Math.floor(player.getPosition());
+            }
+
+            switch (event.type) {
+                case 'play':
+                    if (mediaOffset == 0) {
+                        setTimeout(function() {
+                            s.Media.open(mediaName, player.getDuration(), mediaPlayerName);
+                            s.Media.play(mediaName, mediaOffset);
+                            legacyTracking.prop8 = "[Button Click] - Start " + mediaType;
+                            legacyTracking.tl();
+                        }, 500);
+                    }
+                    else {
+                        s.Media.play(mediaName, mediaOffset);
+                        legacyTracking.prop8 = "[Button Click] - Resume " + mediaType;
+                        legacyTracking.tl();
+                    }
+                    break;
+
+                case 'seeked':
+                    s.Media.stop(mediaName, mediaOffset);
+                    s.Media.play(mediaName, mediaOffset);
+                    legacyTracking.prop8 = "[Scrub] - Specific Point in " + mediaType + " Clip";
+                    legacyTracking.tl();
+                    break;
+
+                case 'pause':
+                    s.Media.stop(mediaName, mediaOffset);
+                    legacyTracking.prop8 = "[Button Click] - Pause " + mediaType;
+                    legacyTracking.tl();
+                case 'seeking':
+                    s.Media.stop(mediaName, mediaOffset);
+                case 'buffer':
+                case 'idle':
+                    break;
+
+                case 'complete':
+                    s.Media.stop(mediaName, mediaOffset);
+                    s.Media.close(mediaName);
+                    mediaOffset = 0;
+                    legacyTracking.prop8 = "[End Clip] - " + mediaType;
+                    legacyTracking.tl();
+                    break;
+            }
+        }
+    }
+});
+
+// General analytics properties.  Adobe will inspect the global scope
+// and execute this function if it finds it.
+var doPageMetricsPlugin = function(s){
+
+    window.UX = window.loc_ux_tracking;
+    UX.download = UX.trackFileDownloadEvent;
+    UX.interaction = UX.trackUserInteractionEvent;
+    UX.interface = UX.trackUserInterfaceAction;
+
+    /* application title: prop10 */
+    s.prop10 = "Project One";
+
+    /* error page report */
+    
+
+    s.prop15 = "";
+    s.prop16 = "";
+    s.prop18 = ""; // Start Date
+    s.prop19 = ""; // End Date
+    s.prop20 = false; // Front page only
+    /* page title: prop21 */
+    
+    //Managed content page/article title
+        s.prop21 = 'Legal';
+    
+    // Basic or Advanced
+    
+        s.prop15 = 'basic';
+    
+    //Start date
+    
+    //End Date
+    
+    //Front page only
+    
+        s.prop20 = false;
+    
+    /* system identifier: prop20 */
+    /*
+    
+    */
+    /* page identifier: prop11 */
+    // metrics item page identifier is unique id plus readable title.  This
+    // needs help getting cleaned up using site_type/site_id/resource/title?
+    // - from item/metrics.html
+    // - from managed_content/metrics.html
+    
+        s.prop11 = '/legal/ - Legal';
+    
+
+    //Set title, same across supporting material like about-this-thing, search
+    //results within the set as the content, articles and essays etc.
+    
+    s.prop12 = 'Legal';
+    
+
+    s.prop22 = 0.0114569664001;//backend duration
+
+
+    // Assigning specific search options for selected search facets
+    s.prop23 = "";// suggested
+    s.prop24 = "";// digitized
+    s.prop25 = "";// original format
+    s.prop26 = "";// online format
+    s.prop27 = "";// date
+    s.prop28 = "";// part of
+    s.prop29 = "";// contributor
+    s.prop30 = "";// subject
+    s.prop31 = "";// site_id -> picked up by prop62
+    s.prop32 = "";// location
+    s.prop33 = "legal";// site_type -> picked up by prop61
+    s.prop34 = "";// site_path (options.resource) can be longer than 2 segments
+    s.prop35 = "";// language
+    s.prop36 = "";// results view type
+    
+    s.prop37 = '';// searchIn
+    s.prop38 = "/legal/";// path_info
+    s.prop39 = "";//truncated query string
+    s.prop40 = '';// count
+    s.prop41 = "";// sort
+    s.prop44 = "";// searchTerms
+    s.prop45 = "";
+    s.prop46 = "";// qs-adv-search-kw
+    s.prop47 = '';// startPage
+    s.prop67 = "";// access condition
+
+    /* original format: prop49 */
+    
+    s.prop49 = 'Web Pages';
+    
+    s.prop50 = "";
+    // The following two props aren't needed currently
+    //s.prop51 = "";// facetLimits
+    //s.prop52 = "";// field
+    s.prop53 = "";// facetPrefix
+    s.prop54 = "";// fullText
+    s.prop55 = "";// download
+    s.prop56 = ""; // partof_collection
+    s.prop57 = ""; // number_page
+    s.prop60 = 77985;//release_id
+    s.prop69 = ""; // location_state
+    s.prop70 = ""; //location_county
+    s.prop71 = ""; //language
+    // Combined Facets - yuck, should be deprecated soon
+    // TODO: This means we need a s.prop for "digitized"
+    //       aka "available online".
+    s.prop48 = "Facet[Digitized]-(false) ";
+    /*
+    /* Advanced Search display level */
+    
+        s.prop16 = "None";
+    
+
+    /* Advanced Search Parameter */
+    
+    /* Query String */
+    
+
+    /* Partof Title */
+    
+
+    /* Partof_Division */
+    
+    /* Partof_Collection */
+    
+    /* number_page */
+    
+
+    /* Location country */
+    
+
+    /* Location state */
+    
+
+    /* Language */
+    
+
+    
+
+
+    return s;
+};
+</script>
+
+
+
+
+    
+<link rel="shortcut icon" href="https://www.loc.gov/static/images/fav.ico?77985.79268">
+
+<link rel="apple-touch-icon" href="https://www.loc.gov/static/images/apple-touch-icon.png?77985.79268">
+     
+
+<link rel="alternate" type="text/html" href="https://www.loc.gov/legal/">
+
+
+
+<link rel="alternate" type="application/json" href="https://www.loc.gov/legal/?fo=json">
+
+	  
+<link title="Library of Congress Search" href="https://www.loc.gov/search/opensearch.xml" rel="search" type="application/opensearchdescription+xml">
 
 
 </head>
-<body bgcolor="#ffffff" text="#330066" link="#330066" alink="#330066" vlink="#666699" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
-<div style="line-height:1px;color:#ffffff"><a href="#skipnav"><img src="../assets/common/trans.gif" border="0" width="1" height="1" alt="Skip to Content"></a></div>
+<body>
+<div id="body">
+<a class="skip-nav" href="#skip-to-content">Skip to main content</a>
 
 
 
 
-<table border="0" width="600" cellspacing="0" cellpadding="0">
-<tbody><tr bgcolor="#330066">
-	<td><a href="/index.html"><img src="/assets/common/home.gif" alt="Home" width="55" height="17" border="0"></a><a href="/about/welcome.html"><img src="/assets/common/about.gif" alt="About this site" width="115" height="17" border="0"></a><a href="/help/overview.html"><img src="/assets/common/help.gif" alt="Help" width="56" height="17" border="0"></a><a href="/search/search.html"><img src="/assets/common/search.gif" alt="Search this site" width="71" height="17" border="0"></a></td>
-	<td align="right"><a href="http://www.loc.gov/"><img src="/assets/common/libraryofcongress2.gif" alt="The Library of Congress" width="194" height="17" border="0"></a></td>
-</tr>
-<tr><td colspan="2"><a href="/index.html"><img src="/assets/common/americastory.gif" alt="America's Story from America's Library" width="197" height="85" border="0"></a><a href="/aa/index.php" onmouseover="" onmouseout=""><img src="/assets/common/aa_off.gif" name="aa" alt="Meet Amazing Americans" width="90" height="85" border="0"></a><a href="/jb/index.php" onmouseover="imgAct('jb');" onmouseout="imgInact('jb');"><img src="/assets/common/jb_off.gif" name="jb" alt="Jump Back in Time" width="77" height="85" border="0"></a><a href="/es/index.php" onmouseover="imgAct('es');" onmouseout="imgInact('es');"><img src="/assets/common/es_off.gif" name="es" alt="Explore the States" width="77" height="85" border="0"></a><a href="/jp/index.php" onmouseover="imgAct('jp');" onmouseout="imgInact('jp');"><img src="/assets/common/jp_off.gif" name="jp" alt="Join America at Play" width="83" height="85" border="0"></a><a href="/sh/index.php" onmouseover="imgAct('sh');" onmouseout="imgInact('sh');"><img src="/assets/common/sh_off.gif" name="sh" alt="See, Hear and Sing" width="76" height="85" border="0"></a></td>
-</tr>
-</tbody></table><script language="JavaScript">
 
-<!--
-
-if (document.images) {
-        star_on = new Image();
-        star_on.src= "../assets/about/star_on.gif";
-        star_off = new Image();
-        star_off.src= "../assets/about/star_off.gif";
+<style>.skip-nav {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
 }
+.header-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 998;
+  background-color: #000000;
+  /* fallback */
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.header {
+  background-color: #fff;
+  border-top: 4px solid #FC4C02;
+  border-bottom: 1px solid #bfbfbf;
+  padding: 26px 0 25px;
+  position: relative;
+  z-index: 999;
+}
+@media (max-width: 992px) {
+  .header {
+    padding: 14px 0 13px;
+  }
+}
+.header-container {
+  max-width: 85.71428571rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 2rem;
+  background-color: #fff;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+@media (max-width: 768px) {
+  .header-container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+.header-row {
+  display: -webkit-box;
+  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+  display: -ms-flexbox;
+  /* TWEENER - IE 10 */
+  display: -webkit-flex;
+  /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: -moz-box;
+  display: flex;
+  /* NEW, Spec - Firefox, Chrome, Opera */
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-flex-align: flex-end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: flex-end;
+  align-items: flex-end;
+  margin: 0 -1rem;
+}
+.header-row .header-menu {
+  -webkit-box-flex: 0 0 auto;
+  /* OLD - iOS 6-, Safari 3.1-6 */
+  -webkit-flex: 0 0 auto;
+  /* Safari 6.1+. iOS 7.1+, BB10 */
+  -ms-flex: 0 0 auto;
+  /* IE 10 */
+  -moz-box-flex: 0 0 auto;
+  flex: 0 0 auto;
+  /* NEW, Spec - Firefox, Chrome, Opera */
+  min-width: 0;
+  /* firefox fix */
+  margin: 0 1rem;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0 0 -13px;
+  padding: 0 1rem 13px;
+  position: relative;
+}
+.header-row .header-menu.header-menu-active {
+  background: #efefef;
+}
+.header-row .header-menu.header-menu-active::before {
+  content: '';
+  width: 100%;
+  height: 10px;
+  position: absolute;
+  top: -10px;
+  left: 0;
+  background: #efefef;
+}
+@media (min-width: 993px) {
+  .header-row .header-menu {
+    margin: 0 0 -25px;
+    padding: 0 1rem 25px;
+  }
+}
+@media (max-width: 480px) {
+  .header-row .header-menu {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 0;
+  }
+}
+.header-row .header-menu .header-menu-button {
+  color: #000;
+  border: 0;
+  background: none;
+  font-size: 36px;
+  width: 31px;
+  height: 34px;
+  line-height: 1;
+  padding: 0;
+}
+.header-row .header-menu .header-menu-button .icon-times {
+  color: #FC4C02;
+}
+.header-row .header-menu .header-menu-button > span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+.header-row .header-menu .header-menu-container {
+  display: none;
+  background: #efefef;
+  position: absolute;
+  top: 47px;
+  right: 0;
+  z-index: 999;
+}
+@media (min-width: 993px) {
+  .header-row .header-menu .header-menu-container {
+    top: 59px;
+  }
+}
+.header-row .header-menu .header-menu-container.header-menu-container-active {
+  display: block;
+  height: auto;
+  overflow: auto;
+  opacity: 1;
+}
+.header-row .header-menu .header-menu-container > ul {
+  padding-left: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0 53px 0 2rem;
+}
+@media (min-width: 481px) {
+  .header-row .header-menu .header-menu-container > ul {
+    padding: 0 153px 0 2rem;
+  }
+}
+.header-row .header-menu .header-menu-container > ul a {
+  color: #333;
+}
+.header-row .header-menu .header-menu-container > ul > li {
+  padding: 0.5rem 50px 0.5rem 0;
+  white-space: nowrap;
+}
+.header-row .header-menu .header-menu-container > ul > li:first-child {
+  padding-top: 1rem;
+}
+.header-row .header-menu .header-menu-container > ul > li:last-child {
+  padding-bottom: 1rem;
+}
+.header-row .header-menu .header-menu-container > ul.header-menu-tertiary > li:first-child,
+.header-row .header-menu .header-menu-container > ul.header-menu-external > li:first-child {
+  border-top: 1px solid #999;
+}
+@media print {
+  .header-row .header-menu {
+    display: none;
+  }
+}
+.header-row .header-logo {
+  -webkit-box-flex: 0 0 auto;
+  /* OLD - iOS 6-, Safari 3.1-6 */
+  -webkit-flex: 0 0 auto;
+  /* Safari 6.1+. iOS 7.1+, BB10 */
+  -ms-flex: 0 0 auto;
+  /* IE 10 */
+  -moz-box-flex: 0 0 auto;
+  flex: 0 0 auto;
+  /* NEW, Spec - Firefox, Chrome, Opera */
+  min-width: 0;
+  /* firefox fix */
+  margin: 0 1rem;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0 2rem;
+  width: 363px;
+  padding: 0;
+}
+@media (max-width: 992px) {
+  .header-row .header-logo {
+    width: 161px;
+  }
+}
+.header-row .header-logo > a {
+  display: block;
+  width: 363px;
+  height: 90px;
+}
+.header-row .header-logo > a > img {
+  width: 100%;
+  height: auto;
+}
+.header-row .header-logo > a > span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+@media (max-width: 992px) {
+  .header-row .header-logo > a {
+    width: 161px;
+    height: 40px;
+  }
+}
+@media print {
+  .header-row .header-logo > a {
+    display: none;
+  }
+}
+@media (max-width: 992px) {
+  .header-row .header-logo {
+    padding: 0;
+  }
+}
+@media print {
+  .header-row .header-logo {
+    padding: 1rem 0;
+    height: 68px;
+    display: block;
+  }
+  .header-row .header-logo:after {
+    content: url("/static/images/logo-loc-new-branding.svg?72026");
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+}
+.header-row .header-search {
+  -webkit-box-flex: 1;
+  /* OLD - iOS 6-, Safari 3.1-6 */
+  -webkit-flex: 1;
+  /* Safari 6.1+. iOS 7.1+, BB10 */
+  -ms-flex: 1;
+  /* IE 10 */
+  -moz-box-flex: 1;
+  flex: 1;
+  /* NEW, Spec - Firefox, Chrome, Opera */
+  min-width: 0;
+  /* firefox fix */
+  margin: 0 1rem;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+@media (min-width: 1201px) {
+  .header-row .header-search {
+    padding-left: 210px;
+  }
+}
+.header-row .header-search > form {
+  display: -webkit-box;
+  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+  display: -ms-flexbox;
+  /* TWEENER - IE 10 */
+  display: -webkit-flex;
+  /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: -moz-box;
+  display: flex;
+  /* NEW, Spec - Firefox, Chrome, Opera */
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-flex-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: 0 0;
+  flex-wrap: nowrap;
+  border: 1px solid #000;
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  -ms-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+.header-row .header-search > form .header-search-formats {
+  position: relative;
+  color: #000;
+}
+@media (max-width: 992px) {
+  .header-row .header-search > form .header-search-formats {
+    -webkit-box-flex: 1;
+    /* OLD - iOS 6-, Safari 3.1-6 */
+    -webkit-flex: 1;
+    /* Safari 6.1+. iOS 7.1+, BB10 */
+    -ms-flex: 1;
+    /* IE 10 */
+    -moz-box-flex: 1;
+    flex: 1;
+    /* NEW, Spec - Firefox, Chrome, Opera */
+    min-width: 0;
+    /* firefox fix */
+    margin: 0 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-box-flex: 0 0 calc(33.33333333% - 2rem) !important;
+    -webkit-flex: 0 0 calc(33.33333333% - 2rem) !important;
+    flex: 0 0 calc(33.33333333% - 2rem) !important;
+    -ms-flex: 0 1 auto;
+    /* ie fix */
+    width: calc(33.33333333% - 2rem);
+    /* ie fix */
+    max-width: calc(33.33333333% - 2rem);
+    /* moz fix */
+  }
+}
+.header-row .header-search > form .header-search-formats:after {
+  content: "\f107";
+  font-family: FontAwesome;
+  position: absolute;
+  right: 0;
+  top: 0;
+  pointer-events: none;
+  height: 30px;
+  line-height: 30px;
+  padding: 0 6px;
+  font-size: 12px;
+}
+.header-row .header-search > form .header-search-formats .header-search-format-select {
+  border: none;
+  height: 30px;
+  width: 100%;
+  padding-right: 20px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 12px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -o-appearance: none;
+  appearance: none;
+}
+@media (max-width: 480px) {
+  .header-row .header-search > form .header-search-formats .header-search-format-select {
+    font-size: 16px;
+  }
+}
+.header-row .header-search > form .header-search-formats .header-search-format-select::-ms-expand {
+  display: none;
+}
+.header-row .header-search > form .header-search-formats .header-search-format-select:hover,
+.header-row .header-search > form .header-search-formats .header-search-format-select:focus {
+  box-shadow: inset 0 0 3px #000 !important;
+}
+.header-row .header-search > form .header-search-input-wrapper {
+  -webkit-box-flex: 1;
+  /* OLD - iOS 6-, Safari 3.1-6 */
+  -webkit-flex: 1;
+  /* Safari 6.1+. iOS 7.1+, BB10 */
+  -ms-flex: 1;
+  /* IE 10 */
+  -moz-box-flex: 1;
+  flex: 1;
+  /* NEW, Spec - Firefox, Chrome, Opera */
+  min-width: 0;
+  /* firefox fix */
+  margin: 0 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+  position: relative;
+}
+.header-row .header-search > form .header-search-input-wrapper .header-search-input {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  border: none;
+  border-left: 1px solid #000;
+  height: 30px;
+  line-height: 30px;
+}
+@media (max-width: 480px) {
+  .header-row .header-search > form .header-search-input-wrapper .header-search-input {
+    font-size: 16px;
+  }
+}
+.header-row .header-search > form .header-search-input-wrapper .header-search-input:focus {
+  box-shadow: inset 0 0 3px #999 !important;
+}
+.header-row .header-search > form .header-search-button {
+  height: 30px;
+  font-size: 18px;
+  padding: 0 10px;
+  background-color: #000;
+  border-color: #000;
+}
+.header-row .header-search > form .header-search-button > span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+.header-row .header-search > form .header-search-button .icon {
+  line-height: inherit;
+}
+@media (max-width: 480px) {
+  .header-row .header-search > form {
+    display: none;
+  }
+  .header-row .header-search > form.header-search-form-active {
+    display: flex;
+  }
+}
+.header-row .header-search .header-search-toggle {
+  display: none;
+  height: 32px;
+  font-size: 1.25rem;
+  padding: 0 10px;
+  background-color: #000;
+  border-color: #000;
+}
+.header-row .header-search .header-search-toggle span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+@media (max-width: 480px) {
+  .header-row .header-search .header-search-toggle {
+    display: inline-block;
+    position: absolute;
+    right: 60px;
+    bottom: 0;
+  }
+  .header-row .header-search .header-search-toggle.header-search-toggle-close {
+    background-color: transparent;
+    border-color: transparent;
+    color: #00618e;
+    padding-right: 0;
+    right: 1rem;
+    font-size: 36px;
+    color: #FC4C02;
+    line-height: 1;
+    bottom: auto;
+    top: -4px;
+  }
+  .header-row .header-search .header-search-toggle.header-search-toggle-close:hover,
+  .header-row .header-search .header-search-toggle.header-search-toggle-close:focus {
+    background-color: transparent;
+    border-color: transparent;
+    color: #002347;
+  }
+}
+@media (max-width: 480px) {
+  .header-row .header-search {
+    position: absolute;
+    right: 0;
+    bottom: 13px;
+    width: 100%;
+    min-height: 32px;
+    display: block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 !important;
+    padding: 0 55px 0 1rem !important;
+  }
+  .header-row .header-search.header-search-close {
+    outline: 8px solid #fff;
+    z-index: 2;
+    background: #fff;
+    overflow: hidden;
+  }
+}
+@media print {
+  .header-row .header-search {
+    display: none;
+  }
+}
+/* autocomplete */
+.autocomplete-w1 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  margin: 0;
+  width: 100% !important;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.autocomplete {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 1px solid #999;
+  border-top-color: transparent;
+  background-color: #fff;
+  cursor: default;
+  text-align: left;
+  max-height: 350px;
+  overflow: auto;
+  margin: 0;
+}
+.autocomplete .selected {
+  background: #efefef;
+}
+.autocomplete div {
+  padding: 2px 5px;
+  white-space: nowrap;
+}
+.autocomplete strong {
+  font-weight: normal;
+  color: #00618e;
+}
+.autocomplete-status {
+  font-weight: normal;
+  font-size: 10px;
+  float: right;
+  text-align: right;
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+</style>
+<script>jQuery(function($) {
+    $('.header-menu-link a.menu-link').live('click', function () {
+        $('.header-submenu, .header-menu, .header-menu-link').toggleClass('on-off');
+    });
+    var delay = 800,
+        global_nav_header_timeout;
+    $('.header-menu li').live('hover', function(event) {
+        $('.header-dropdown img').each(function(index, image){
+            var data_source = $(image).attr('data-src');
+            if(data_source){
+                $(image).attr({src: data_source, 'data-src': null});
+            }
+        });
 
-function doRollover(imgName, newImg) {
-
-        if (document.images) {
-                document[imgName].src= newImg.src;
+        if( $(event.target).parents('.hover').length ){
+            return;
         }
 
+        $('.header-menu li.hover').removeClass('hover');
+        $(event.target).closest('li').addClass('hover');
+        global_nav_header_timeout = setTimeout(function(){
+            $('.header-dropdown').hide();
+            $('.header-dropdown', $(event.target).closest('li')).show();
+        }, delay);
+    }, function(event){
+        clearTimeout( global_nav_header_timeout );
+        $(event.target).closest('li').removeClass('hover');
+        $('.header-dropdown', $(event.target).closest('li')).hide();
+    });
+
+    $('.header-menu').live('hover',  function(event) {/*
+        do nothing on hover over, only on hover out
+    */}, function(event){
+        $('.header-menu li.hover').removeClass('hover');
+        $(event.target).parents('.header-dropdown').hide();
+    });
+
+    //Metrics tracking how users are using the new header
+    $('.header-menu a, .intersite-navigation a, .locfoot a').live('click', function(event){
+        s.linkTrackVars = s.linkTrackVar + ",prop57";
+        var label = $(this).attr('name');
+        if ( !label ){
+            label = $(this).text().trim();
+        }
+        s.prop57 = label;
+        s.tl(this,'o',label);
+    });
+
+    function headerMenuActive() {
+        $('.header-menu-container').removeClass('header-menu-container-active').attr('aria-hidden', 'true');
+        $('.header-menu').removeClass('header-menu-active');
+        $('.header-menu-button').attr('aria-expanded', 'false');
+        $('.header-menu-button i').switchClass('icon-times', 'icon-bars', 50);
+        $('.header-overlay').hide();
+    };
+    function headerMenuInactive() {
+        $('.header-menu-container').addClass('header-menu-container-active').attr('aria-hidden', 'false');
+        $('.header-menu').addClass('header-menu-active');
+        $('.header-menu-button').attr('aria-expanded', 'true');
+        $('.header-menu-button i').switchClass('icon-bars', 'icon-times', 50);
+        $('.header-overlay').show();
+    };
+    $('.header-menu-button').live('click', function() {
+        if ($('.header-menu-container').hasClass('header-menu-container-active')) {
+            headerMenuActive();
+            //UX Interaction Tracking
+            UX.interaction($(this), 'Hamburger Menu', 'Close', '');
+        } else {
+            headerMenuInactive();
+            //UX Interaction Tracking
+            UX.interaction($(this), 'Hamburger Menu', 'Open', '');
+        }
+    });
+    $("html").live("click touchstart keydown",function(event) {
+        headerMenuActive();
+    });
+    $(".header-menu").live("click touchstart keydown",function(event) {
+        event.stopPropagation();
+        // allow escape key to close for accessibility
+        if (event.which == 27) {
+            headerMenuActive();
+        }
+    });
+    // menu position and height
+    $(window).live("load resize scroll",function(e){
+        var headerHeight = $('.header-menu').outerHeight();
+        $('.header-menu-container').css({"top": headerHeight});
+    });
+
+    // UX Interaction Tracking - Logo, Menu, Search, Breadcrumbs
+    $('.header-menu-container ul li').live('click', function() {
+        var label = $(this).text().trim();
+        UX.interaction($(this), 'Hamburger Menu', 'Click', label);
+    });
+
+    $('.header-logo a').live('click', function() {
+        UX.interaction($(this), 'LC Logo', 'Click', '');
+    });
+
+    $('.header-search-format-select').change(function() {
+        var label;
+        $('.header-search-format-select option:selected').each(function() {
+            label = $(this).text().trim();
+        });
+        UX.interaction($(this), 'Search', 'Select Format', label);
+    });
+
+    $('.header-breadcrumbs a').live('click', function(event){
+        var label = $(this).attr('name');
+        if ( !label ){
+            label = $(this).text().trim();
+        }
+        UX.interaction($(this), 'Breadcrumbs', 'click', label);
+    });
+
+    // search toggle
+    function searchActive() {
+        $('.header-search > form').addClass('header-search-form-active');
+        $('.header-search .header-search-input').focus();
+        $('.header-search-toggle i').switchClass('icon-search', 'icon-times', 50);
+        $('.header-search-toggle').addClass('header-search-toggle-close');
+        $('.header-search').addClass('header-search-close');
+    };
+    function searchInactive() {
+        $('.header-search > form').removeClass('header-search-form-active');
+        $('.header-search-toggle i').switchClass('icon-times', 'icon-search', 50);
+        $('.header-search-toggle').removeClass('header-search-toggle-close');
+        $('.header-search').removeClass('header-search-close');
+    };
+
+    $('.header-search-toggle').live('click', function() {
+        if ($('.header-search > form').hasClass('header-search-form-active')) {
+            searchInactive();
+            //UX Interaction Tracking
+            UX.interaction($(this), 'Search', 'Hide', '');
+        } else {
+            searchActive();
+            //UX Interaction Tracking
+            UX.interaction($(this), 'Search', 'Show', '');
+        }
+    });
+
+    $(window).on("load resize",function(e){
+        $('.autocomplete-w1').parent().css('width', '100%');
+    });
+});
+</script>
+
+
+<header class="header" role="banner">
+<div class="header-container">
+<div class="header-row">
+    <div class="header-logo">
+        <a href="/">
+            <img src="/static/images/logo-loc-new-branding.svg" alt="">
+            <span>Library of Congress</span>
+        </a>
+    </div>
+    
+    <div class="header-search">
+        <label for="search" class="test screen-readers-only">Search</label>
+        
+<form role="search" method="get" action="/search/">
+    <div class="header-search-formats">
+        <select name="in" id="searchFormat" aria-label="search" class="header-search-format-select">
+            <option value="">Everything</option>
+
+            
+            <option value="original-format:sound recording">Audio Recordings</option>
+            
+            <option value="original-format:book">Books/Printed Material</option>
+            
+            <option value="original-format:film, video">Films, Videos</option>
+            
+            <option value="original-format:legislation">Legislation</option>
+            
+            <option value="original-format:manuscript/mixed material">Manuscripts/Mixed Material</option>
+            
+            <option value="original-format:map">Maps</option>
+            
+            <option value="original-format:notated music">Notated Music</option>
+            
+            <option value="original-format:newspaper">Newspapers</option>
+            
+            <option value="original-format:periodical">Periodicals</option>
+            
+            <option value="original-format:personal narrative">Personal Narratives</option>
+            
+            <option value="original-format:photo, print, drawing">Photos, Prints, Drawings</option>
+            
+            <option value="original-format:software, e-resource">Software, E-Resources</option>
+            
+            <option value="original-format:archived web site">Archived Web Sites</option>
+            
+            <option value="original-format:web page">Web Pages</option>
+            
+            <option value="original-format:3d object">3D Objects</option>
+            
+
+            
+        </select>
+    </div>
+    <div class="header-search-input-wrapper">
+        <input type="search" title="Search the Library of Congress" placeholder="Search Loc.gov" name="q" id="search" class="locsuggest header-search-input" maxlength="250" value="" onfocus="this.select();" accesskey="/">
+        <div class="searchtarget">
+            <input id="search_within_default" type="hidden" name="new" value="true">
+        </div>
+    </div>
+    <button class="header-search-button" type="submit" value="submit"><span>Search</span><i class="icon icon-search"></i></button>
+
+    
+    <input type="hidden" name="st" value="">
+    
+    
+</form>
+
+        <button class="header-search-toggle"><span>Search toggle</span><i class="icon icon-search"></i></button>
+    </div>
+    
+    <div class="header-menu">
+        <button class="header-menu-button" id="header-menu-button" aria-controls="header-menu-container"><span>menu </span><i class="icon icon-bars"></i></button>
+        <nav class="header-menu-container" id="header-menu-container" aria-labelledby="header-menu-button">
+            <ul class="">
+                <li class=""><a href="/discover/">Discover</a></li>
+                <li class=""><a href="/services-and-programs/">Services</a></li>
+                <li class=""><a href="/visit/">Visit</a></li>
+                <li class=""><a href="/education/">Education</a></li>
+                <li class=""><a href="/connect/">Connect</a></li>
+                <li class=""><a href="/about/">About</a></li>
+            </ul>
+            <ul class="header-menu-tertiary">
+                <li class=""><a href="http://www.loc.gov/rr/askalib/">Ask a Librarian</a></li>
+                <li class=""><a href="/help/">Help</a></li>
+                <li class=""><a href="/contact/">Contact</a></li>
+            </ul>
+            <ul class="header-menu-external">
+                <li class=""><a href="https://catalog.loc.gov/">Search Online Catalog</a></li>
+                <li class=""><a href="http://copyright.gov/">Copyright.gov</a></li>
+                <li class=""><a href="https://www.congress.gov/">Congress.gov</a></li>
+            </ul>
+        </nav>
+    </div>
+</div>
+</div>
+</header>
+
+
+
+<div class="breadcrumbs-wrapper">
+    <div class="breadcrumbs-container">
+        <div class="breadcrumbs-row">
+            
+            
+            <div id="header-breadcrumbs" class="header-breadcrumbs">
+                <nav>
+                
+                
+                    
+                    <a href="https://www.loc.gov">Library of Congress</a> &gt;
+                    
+                
+                
+                
+                    
+                    Legal
+                    
+                
+                
+                </nav>
+            </div>
+            
+            
+            
+<div class="sharetool_wrapper h_adjust">
+    <div id="share-this" class="locshare-this"></div>
+</div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="header-overlay"><!-- --></div>
+
+
+
+
+
+<div class="content
+    legal-content
+    ">
+    <a name="skip-to-content" id="skip-to-content"></a>
+    
+    
+    
+
+
+    
+
+
+
+
+
+
+
+
+    
+    
+    
+
+<div class="managed-content-container">
+<div class="managed-content-row">
+
+
+
+    
+
+
+<div class="managed-content-content">
+    
+
+    
+        
+        
+
+
+        
+    
+
+    <article id="article">
+        
+            
+                <h1>Legal</h1>
+            
+        
+        
+
+        
+
+        
+
+
+
+        
+<blockquote>
+<p>The Library of Congress's mission is to engage, inspire, and inform Congress and the American people with a universal and enduring source of knowledge and creativity. Our vision is that all Americans are connected to the Library of Congress. Our websites offer public access to a wide range of information, including historical materials that are products of their particular times, and may contain offensive language or negative stereotypes.</p>
+</blockquote>
+<h2><a name="disclaimer" id="disclaimer"></a>General Disclaimer</h2>
+<p>Materials displayed on our websites are intended for reference use only. Our websites link to other federal agencies’ and  other organizations’ websites when there is a business reason to do so. The links are not endorsements of the content of the websites, or of their policies or products.</p>
+<p><a class="ar-more" href="/legal/standard-disclaimer-for-external-links/">View the standard disclaimer for external links</a></p>
+<h2><a name="security" id="security"></a>Security</h2>
+<p>To maintain the security of our websites, and to ensure that they remain available to you, we use software programs to monitor network traffic. The programs identify unauthorized attempts to upload or change information, deny service, or otherwise cause damage or access non-public information. Unauthorized attempts to upload or change information are strictly prohibited and may be punishable under the United States criminal code (18 U.S.C. 1030). We may provide information about possible violations of the law to law enforcement officials.</p>
+<p>We reserve the right to block IP addresses that fail to honor our websites’ robot.txt files, or submit requests at a rate that negatively impacts service delivery to patrons. Current guidelines recommend that software programs submit a total of no more than 10 requests per minute to our applications, regardless of the number of machines used to submit requests. We also reserve the right to terminate programs that require more than 24 hours to complete. </p>
+
+
+<h2><a name="copyright" id="copyright"></a>About Copyright and the Collections</h2>
+<p>Whenever possible, we provide information that we have about copyright owners and related matters in the catalog records, finding aids and other texts that accompany collections. However, the information we have may not be accurate or complete. As a publicly supported institution, we generally do not own the rights to materials in our collections. You should determine for yourself whether or not an item is protected by copyright or in the public domain, and then satisfy any copyright or use restrictions when publishing or distributing materials from our collections. Transmission or reproduction of protected items beyond what is allowed by fair use or other exemptions requires written permission from the copyright holder. </p>
+
+<p>We do not charge permission fees for using any materials, and generally do not grant or deny permission to publish or otherwise distribute them. We do request that anyone linking to our websites present the link in a manner that does not imply that we are making an express or implied endorsement of any good or service provided, and that the link clearly indicates that the user is leaving one site and going to another.</p>
+<p>Items created by Library of Congress employees in the scope of their employment are U.S. Government works not subject to copyright in the United States (17 U.S.C. §105). Unless otherwise indicated on this site, the Library of Congress has no objection to the international use and reuse of Library U.S. Government works on loc.gov. These works are also available for worldwide use and reuse under CC0 1.0 Universal.</p>
+
+<p>If you have more information about material on our websites, or if you are the copyright holder and believe our websites have not properly attributed your work or have used it without permission, please contact <a href="/cdn-cgi/l/email-protection#93fcf4f0d3fffcf0bdf4fce5"><span class="__cf_email__" data-cfemail="751a121635191a165b121a03">[email&nbsp;protected]</span></a> with your contact information and a link to the relevant content.</p>
+<p><a class="ar-more" href="http://www.copyright.gov/">View more information about copyright law from the U.S. Copyright Office</a></p>
+
+<h2><a name="privacy_publicity" id="privacy_publicity"></a>Privacy and Publicity Rights</h2>
+<p>Privacy and publicity rights are separate and distinct from copyright. Copyright is protected by federal law under the United States Copyright Act, whereas privacy and publicity rights are primarily governed by state law. What is allowed in one state may not be allowed in another. </p>
+<p>If you use materials from our websites, then you are responsible for determining whether there are privacy and publicity rights considerations. Factors to consider include the type of materials and their intended use.</p>
+
+<h2><a name="privacy_policy" id="privacy_policy"></a>Privacy Policy </h2>
+<p>Protecting our patrons’ personal information is important. We collect, use, and share information obtained from online visitors only in the following ways: </p>
+<ul class="bullet">
+<li>Personal information is used only when you voluntarily provide it directly to the Library or when you grant third parties permission to allow the Library's uses of your personal information</li>
+<li>Personal information is used only for its intended purpose</li>
+<li>Personal information is disclosed to contractors or associates only to carry out your requests. Third parties either follow our privacy policy or prominently display their own</li>
+<li>Personal information is not disclosed to outside parties, including other government agencies, without first obtaining permission from you, unless disclosure is required by law or court order</li>
+<li>We provide a safe online environment for children in accordance with Children's Online Privacy Protection Act (COPPA) principles</li>
+<li>We have safeguards to protect all information collected</li>
+</ul>
+
+<p>For more information follow these links:</p>
+<ul class="bullet">
+<li><a href="#collected">Types of Information Collected</a></li>
+<li><a href="#automatic">Automatically Collected Information</a></li>
+<li><a href="#cookies">Information Collected for Measurement and Customization (Cookies)</a></li>
+<li><a href="#personal">Personal Information</a></li>
+<li><a href="#children">Children’s Privacy Policy</a></li>
+</ul>
+
+<h3><a name="collected" id="collected"></a>Types of Information Collected</h3>
+<p>We collect several types of information, although never for commercial marketing:  </p>
+<ol>
+    <li><a href="#automatic">Automatically Collected Information</a></li>
+    <li><a href="#cookies">Information  Collected for Measurement and Customization (Cookies)</a></li>
+    <li><a href="#personal">Personal  Information</a></li>
+</ol>
+<p>We have safeguards in place to protect all this information, including only allowing access by designated staff that require access in order to perform their duties.</p>
+
+<h3><a name="automatic" id="automatic"></a>Automatically  Collected Information</h3>
+<p>We strive to provide the best experience for you. We automatically collect and store the following non-personally identifiable information: </p>
+<ul class="bullet">
+<li>The name of the domain from which you accessed the internet</li>
+<li>The internet protocol address of your Internet providers’ gateways, or in some cases, your computer</li> 
+<li>The date and time you accessed our websites</li> 
+<li>The URL of the pages visited and files downloaded</li>
+<li>The internet address of the website that brought you directly to our websites</li>
+<li>Characteristics of your computer system and</li>
+<li>Search terms used to come to the websites and while on the websites (in aggregate only).</li>
+</ul>
+
+<p>This information allows us to improve website design, presentation and system performance. We collect this information from anyone who reads, browses, or downloads information from our websites.  </p>
+
+
+<h3><a name="cookies" id="cookies"></a>Information Collected for Measurement and  Customization (Cookies)</h3>
+<p>To help provide website visitors with the best experience possible, we use commercial software to report and analyze aggregated web metrics data. The data is generally retained indefinitely to help improve website performance. </p>
+<p>Our sites use three types of tools: <a href="#session">session cookies</a>, <a href="#persistent">persistent cookies</a> and <a href="#other">other customization tools</a>. “Cookies” are small files that websites transfer to visitors’ computers to allow the site to remember specific information. If you do not want cookies transferred to your computer, you may <a href="https://www.usa.gov/optout-instructions">opt out</a> by changing your browser options. Without cookies, most of our websites will continue to display normally, but certain features may not work as well or may be unavailable.</p>
+
+<p><a name="session" id="session"></a>Session cookies do not contain personal information and disappear once the browser window is closed. We use session cookies for technical purposes such as to enable you to more easily navigate throughout the websites. Session cookies only collect non-personally identifiable data.</p>
+
+<p><a name="persistent" id="persistent"></a>Persistent cookies store information on your computers for longer periods of time and across multiple visits. We do not use persistent cookies to collect personal identifiable information about visitors. However, we do use persistent cookies to improve web metrics by distinguishing between new and returning visitors, to anonymously aggregate data on how visitors use our websites, and to remember your voluntarily-provided preferences to create a smoother browsing experience.</p>
+
+<p><a name="other" id="other"></a>Customization tools allow you to voluntarily provide information to personalize and improve your online experience. Information from customization tools is saved on our servers. </p>
+
+<h3><a name="personal" id="other"></a>Personal  Information</h3>
+<p>Personal information may be required to use certain features of our websites, such as making a purchase from our online shop, submitting a request to the Ask a Librarian service, responding to a feedback form, or participating in blog discussions. We always inform you what information is required, and only use that information for its stated purpose. If you provide the information requested, then you consent to our using the information for the stated purpose. If you do not provide the information then some website features may be unavailable.</p>
+
+<p>Occasionally, we work with third party applications that are not exclusively operated or controlled by the Library of Congress, to provide a better web presentation or user experience, such as for fulfilling online orders, emailing updates or collecting voluntarily-provided feedback. These third-party sites and applications will either follow our privacy policy, or prominently display their own. The Library does not have access to any information collected by third–party cookies or similar technologies on its sites. Other than these exceptions, and for authorized government law enforcement activities, we do not provide personal information to outside organizations without first obtaining your consent.</p>
+
+
+<h3><a name="children" id="children"></a>Children’s Privacy Policy</h3>
+<p>Part of our mission is reaching out to children in creative and educationally beneficial ways while still protecting their privacy. Our websites offering educational content to children under the age of 13 have links to their own privacy policies that comply with the Children’s Online Privacy Protection Act (COPPA). </p>
+
+<p>Some websites may include games or activities that require personally identifiable information. We do not use the information for any purpose other than the game or activity, and delete the information as soon as practical. </p>
+
+<p>If we become aware that a child under the age of 13 has made a request for information (such as through the <em>Ask a Librarian</em> service), we will respond to the request and then delete any identifying information. Similarly, if we learn that a child under 13 has posted personally identifiable information on any of our websites, we will delete the information.</p>
+
+<p>We will disclose information about a child  under the age of 13 if it is necessary to protect the child, the website itself,  or to respond to a law enforcement inquiry. </p>
+
+<p>We take children’s privacy seriously, and encourage parents to contact us with any questions or concerns via the form at <a href="http://www.loc.gov/contact/web-site-comments">www.loc.gov/contact/web-site-comments</a>. Similarly, parents who would like to notify us of personally identifiable information collected from a child under the age of 13 that should be deleted should contact us at the above address.</p>
+
+
+<h2><a name="survey" id="survey"></a>About Our Web Surveys</h2>
+<p>We use various types of online forms, including third-party forms and surveys, to collect opinions and feedback. Submitting information is voluntary.</p>
+
+<p>We appreciate all comments and feedback from our visitors.</p>
+
+<p>October 29, 2018</p>
+
+
+
+        
+
+        
+
+    </article>
+    <div class="clear"></div>
+
+</div>
+
+
+
+
+    
+    
+    <div class="managed-content-navigation">
+
+        
+<div class="articles-menu page-menu">
+    <nav>
+        <h2>Sections Menu</h2>
+        <ul>
+		
+		
+			
+			<li class="selected 
+			     ">
+				
+                <a href="https://www.loc.gov/legal/">
+					Legal
+				</a>
+                
+			
+			</li><li class="
+			     ">
+				
+                <a href="https://www.loc.gov/legal/comment-and-posting-policy/">
+					Comment &amp; Posting Policy
+				</a>
+                
+			
+			</li><li class="
+			     ">
+				
+                <a href="https://www.loc.gov/legal/standard-disclaimer-for-external-links/">
+					Standard Disclaimer for External Links
+				</a>
+                
+			
+        </li>
+		
+		
+        </ul>
+    </nav>
+</div>
+
+
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+
+        
+
+        
+    </div>
+    
+    
+
+
+</div>
+</div><!-- end class="managed-content-container" -->
+
+
+
+
+</div>
+
+
+    
+
+
+<style>.footer {
+  background-color: #f5f5f5;
+  border-top: 1px solid #999;
+  padding-top: 35px;
 }
+.footer a {
+  color: #666;
+}
+@media print {
+  .footer {
+    display: none;
+  }
+}
+.footer-container {
+  max-width: 85.71428571rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 2rem;
+  background-color: transparent;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+}
+@media (max-width: 768px) {
+  .footer-container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+.footer-social-links-wrapper {
+  border-bottom: 1px solid #999;
+  padding-bottom: 21px;
+  margin-bottom: 21px;
+  text-align: center;
+}
+.footer-social-title {
+  font-size: 18px;
+  font-weight: normal;
+  color: #666;
+  display: inline-block;
+  margin: 0 28px 0 0;
+}
+@media (max-width: 992px) {
+  .footer-social-title {
+    display: block;
+    margin: 0 0 7px;
+  }
+}
+.footer-social-links {
+  padding-left: 0;
+  list-style: none;
+  margin: 0 -7px;
+  display: inline-block;
+  margin-bottom: 0;
+}
+.footer-social-links > li {
+  display: inline-block;
+  margin: 0 7px;
+}
+.footer-social-links > li i {
+  font-size: 17.5px;
+}
+.footer-social-links > li span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+.footer-social-links > li a .icon-external-link {
+  font-size: 12.6px;
+  color: #666;
+}
+.footer-social-links > li.footer-social-link-rss a {
+  color: #f47f65;
+}
+.footer-social-links > li.footer-social-link-email a {
+  color: #00618e;
+}
+.footer-social-links > li.footer-social-link-survey {
+  border-left: 1px solid #999;
+  padding-left: 28px;
+  margin-left: 14px;
+  font-size: 13px;
+}
+.footer-social-links > li.footer-social-link-survey a {
+  color: #00618e;
+}
+@media (max-width: 992px) {
+  .footer-social-links > li.footer-social-link-survey {
+    border: none;
+    padding: 0;
+    display: block;
+    margin-top: 10.5px;
+  }
+}
+.footer-social-links > li.footer-social-link-itunesu {
+  font-size: 13px;
+}
+.footer-social-links > li.footer-social-link-itunesu a {
+  color: #00618e;
+}
+@media (max-width: 992px) {
+  .footer-social-links {
+    display: block;
+  }
+}
+@media (min-width: 993px) {
+  .footer-row {
+    display: -webkit-box;
+    /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+    display: -ms-flexbox;
+    /* TWEENER - IE 10 */
+    display: -webkit-flex;
+    /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+    display: -moz-box;
+    display: flex;
+    /* NEW, Spec - Firefox, Chrome, Opera */
+    -webkit-flex-flow: row wrap;
+    flex-flow: row wrap;
+    -webkit-flex-align: flex-start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: flex-start;
+    align-items: flex-start;
+    margin: 0 -1rem;
+  }
+}
+.footer-links-wrapper .footer-links {
+  padding-left: 0;
+  list-style: none;
+  margin: 0 -8.75px;
+  margin-bottom: 0;
+  font-size: 12px;
+}
+.footer-links-wrapper .footer-links > li {
+  display: inline-block;
+  margin: 0 8.75px;
+}
+.footer-links-wrapper .footer-links > li {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+@media (max-width: 992px) {
+  .footer-links-wrapper {
+    text-align: center;
+    margin-bottom: 21px;
+  }
+}
+@media (min-width: 993px) {
+  .footer-links-wrapper {
+    -webkit-box-flex: 1;
+    /* OLD - iOS 6-, Safari 3.1-6 */
+    -webkit-flex: 1;
+    /* Safari 6.1+. iOS 7.1+, BB10 */
+    -ms-flex: 1;
+    /* IE 10 */
+    -moz-box-flex: 1;
+    flex: 1;
+    /* NEW, Spec - Firefox, Chrome, Opera */
+    min-width: 0;
+    /* firefox fix */
+    margin: 0 1rem;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+}
+.intersites-links-wrapper {
+  margin: 0 14px;
+}
+@media (max-width: 992px) {
+  .intersites-links-wrapper {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    padding: 0 28px;
+  }
+}
+.intersites-links {
+  padding-left: 0;
+  list-style: none;
+  margin: 0 -1rem;
+}
+.intersites-links > li {
+  display: inline-block;
+  margin: 0 1rem;
+}
+.intersites-links > li > a {
+  display: block;
+}
+.intersites-links > li > a span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+@media (max-width: 992px) {
+  .intersites-links > li > a {
+    margin: 5px 0;
+  }
+}
+.intersites-links > li.intersites-link-congress > a {
+  width: 125px;
+  height: 30px;
+  background-size: 125px 30px;
+  background: url("/static/images/congress-gov.svg?72026") no-repeat;
+}
+.intersites-links > li.intersites-link-copyright > a {
+  width: 175px;
+  height: 30px;
+  background-size: 175px 30px;
+  background: url("/static/images/copyright-gov.svg?72026") no-repeat;
+}
+@media (max-width: 992px) {
+  .intersites-links {
+    text-align: center;
+  }
+}
+</style>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>//UX Interaction Tracking
+jQuery(function($){
+    $('.footer-social-links li a').click(function(e){
+        var label = $(this).text().trim();
+        UX.interaction($(this), 'Follow', 'Click', label);
+    });
+    $('.footer-links li a').click(function(e){
+        var label = $(this).text().trim();
+        UX.interaction($(this), 'Footer', 'Click', label);
+    });
+});
+</script>
 
 
-// -->
+<footer class="footer" role="contentinfo">
+    <div class="footer-container">
+        
+            <div class="footer-social-links-wrapper">
+                <span class="footer-social-title"><a href="/connect/">Follow Us</a></span>
+                <ul class="footer-social-links">
+
+                    <li class="footer-social-link-email"><a href="//loc.gov/subscribe/" title="Email"><i class="icon icon-envelope-square"></i><span> Email</span></a></li>
+                    <li class="footer-social-link-facebook"><a href="https://www.facebook.com/libraryofcongress/" title="Facebook"><i class="image-icon facebook"></i><span> Facebook</span></a></li>
+                    <li class="footer-social-link-twitter"><a href="https://www.twitter.com/librarycongress" title="Twitter"><i class="image-icon twitter"></i><span> Twitter</span></a></li>
+                    <li class="footer-social-link-youtube"><a href="https://www.youtube.com/libraryofcongress/" title="Youtube"><i class="image-icon youtube"></i><span> Youtube</span></a></li>
+                    <li class="footer-social-link-pinterest"><a href="https://www.pinterest.com/LibraryCongress/" title="Pinterest"><i class="image-icon pinterest"></i><span> Pinterest</span></a></li>
+                    <li class="footer-social-link-flickr"><a href="https://www.flickr.com/photos/library_of_congress/" title="Flickr"><i class="image-icon flickr"></i><span> Flickr</span></a></li>
+                    <li class="footer-social-link-instagram"><a href="https://instagram.com/librarycongress/" title="Instagram"><i class="image-icon instagram"></i><span> Instagram</span></a></li>
+                    <li class="footer-social-link-itunes"><a href="https://itunes.apple.com/us/artist/library-of-congress/id1280713133?mt=2" title="iTunes"> <i class="image-icon itunes"></i><span> iTunes</span></a></li>
+                    <li class="footer-social-link-survey"><a href="https://www.research.net/r/libraryofcongress" title="Take our survey">Take our survey <i class="icon icon-external-link"><span>External</span></i></a></li>
+                </ul>
+            </div>
+        <div class="footer-row">
+            <div class="footer-links-wrapper">
+                <ul class="footer-links">
+                    <li><a href="/accessibility/">Accessibility</a></li>
+                    <li><a href="/legal/">Legal</a></li>
+                    <li><a href="/about/office-of-the-inspector-general/">Inspector General</a></li>
+                    <li><a href="/legal/standard-disclaimer-for-external-links/">External Link Disclaimer</a></li>
+                    <li><a href="//www.usa.gov/">USA.gov</a></li>
+                    <li><a href="/careers/">Careers</a></li>
+                    <li><a href="/contact/">Contact</a></li>
+                    <li><a href="http://www.loc.gov/pressroom/">Media</a></li>
+                    <li><a href="http://www.loc.gov/philanthropy/index.php">Donate</a></li>
+                    <li><a href="http://library-of-congress-shop.myshopify.com/">Shop</a></li>
+                </ul>
+            </div>
+            <div class="intersites-links-wrapper">
+                <ul class="intersites-links">
+                    <li class="intersites-link-congress"><a href="//www.congress.gov/"><span>Congress.gov</span></a></li>
+                    <li class="intersites-link-copyright"><a href="http://copyright.gov"><span>United States Copyright Office</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    
+
+<style></style>
+<script>jQuery(function ($) {
+    var scroll_timer,
+        displayed = false,
+        $message = $('.back-to-top a').hide(),
+        $window = $(window),
+        top = $(document.body).children(0).position().top;
+
+    $("#back-to-top").click(function(event){
+        $window.scrollTop(0);
+        event.preventDefault();
+        return false;
+    });
+
+    $window.scroll(function () {
+        window.clearTimeout(scroll_timer);
+        scroll_timer = window.setTimeout(function () {
+            if($window.scrollTop() <= top){
+                displayed = false;
+                $message.fadeOut(800);
+            }else if(!displayed){
+                displayed = true;
+                $message.stop(true, true).show().click(function(){
+                    $message.fadeOut(800);
+                });
+            }
+        }, 100);
+    });
+
+    $("#back-to-top").click(function(e){
+        UX.interaction($(this), 'Footer', 'click', 'Back to top');
+    });
+});
 
 </script>
 
 
-
-<br><br>
-<table border="0" width="600" cellspacing="0" cellpadding="0">
-<tbody><tr><td width="203" valign="top">
-<table border="0" cellspacing="0" cellpadding="0">
-
-	<tbody><tr><td><img src="/assets/common/t_aboutsite.gif" alt="About" width="203" height="49" border="0"></td>
-	</tr>
-	<tr><td>
-	    <!--START list table-->	
-		<table border="0" width="203" cellspacing="0" cellpadding="2" bgcolor="#FF9900">
-
-                <tbody><tr><td valign="top" width="20"><img alt="" src="/assets/common/star_off.gif" name="welcome" width="20" height="12" border="0"></td>
-                        <td width="178"><a href="welcome.html" onmouseover="doRollover('welcome', star_on);" onmouseout="doRollover('welcome', star_off);"><font face="arial, helvetica"><b>Welcome</b></font></a></td>
-                </tr>
-                <tr><td valign="top" width="20"><img alt="" src="/assets/common/star_off.gif" name="purpose" width="20" height="12" border="0"></td>
-                        <td width="178"><a href="purpose.html" onmouseover="doRollover('purpose', star_on);" onmouseout="doRollover('purpose', star_off);"><font face="arial, helvetica"><b>Purpose</b></font></a></td>
-                </tr>
-                <tr><td valign="top" width="20"><img alt="" src="/assets/common/star_off.gif" name="notice" width="20" height="12" border="0"></td>
-                        <td width="178"><a href="notice.html" onmouseover="doRollover('notice', star_on);" onmouseout="doRollover('notice', star_off);"><font face="arial, helvetica"><b>Legal Notices</b></font></a></td>
-                </tr>
-                <tr><td valign="top" width="20"><img alt="" src="/assets/common/star_off.gif" name="contact" width="20" height="12" border="0"></td>
-                        <td width="178"><a href="contact.html" onmouseover="doRollover('contact', star_on);" onmouseout="doRollover('contact', star_off);"><font face="arial, helvetica"><b>Contact Us</b></font></a></td>
-                </tr>
-                <tr><td valign="top" width="20"><img alt="" src="/assets/common/star_on.gif" name="privacy" width="20" height="12" border="0"></td>
-                        <td width="178"><a href="privacy.html" onmouseover="doRollover('privacy', star_on);" onmouseout="doRollover('privacy', star_on);"><font face="arial, helvetica"><b>Privacy &amp; Security</b></font></a></td>
-                </tr>
-                <tr><td valign="top" width="20"><img alt="" src="/assets/common/star_off.gif" name="copyright" width="20" height="12" border="0"></td>
-                        <td width="178"><a href="copyright.html" onmouseover="doRollover('copyright', star_on);" onmouseout="doRollover('copyright', star_off);"><font face="arial, helvetica"><b>Copyrights</b></font></a></td>
-                </tr>
-                <tr><td valign="top" width="20"><img alt="" src="/assets/common/star_off.gif" name="legacies" width="20" height="12" border="0"></td>
-                        <td width="178"><a href="legacies.html" onmouseover="doRollover('legacies', star_on);" onmouseout="doRollover('legacies', star_off);"><font face="arial, helvetica"><b>Local Legacies</b></font></a></td>
-                </tr>
-                <tr><td valign="top" width="20"><img alt="" src="/assets/common/star_off.gif" name="site_credit" width="20" height="12" border="0"></td>
-                        <td width="178"><a href="site_credit.html" onmouseover="doRollover('site_credit', star_on);" onmouseout="doRollover('site_credit', star_off);"><font face="arial, helvetica"><b>Site Credit</b></font></a></td>
-</tr>
-</tbody></table>
-	<!--END list table-->
-</td>
-	</tr>
-	<tr><td colspan="2"><img alt="" src="/assets/common/bottom.gif" width="203" height="18" border="0"></td>
-</tr>
-</tbody></table>
-	
-
-</td>
-	<td width="10"><img src="/assets/common/trans.gif" alt="" width="10" height="1"></td>	
-	
-	
-	
-<td width="387" valign="top"><a name="skipnav">
-	<table cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr><td><!--START the content area--> <font face="arial, helvetica"> 
-        <table width="387" border="0" cellpadding="0">
-          <tbody><tr><td><font face="arial, helvetica" size="5"><b>Privacy &amp; Security</b></font></td>
-            <td align="right"></td>
-</tr>
-</tbody></table>
-	        <p> For site management, this computer system uses software programs to 
-          create summary statistics that are used for such purposes as assessing 
-          what information is of most or least interest, determining technical 
-          design specifications, and identifying system performance areas. The 
-          Library of Congress collects and stores the following information: </p>
-        <ul>
-          <li>The name of the domain from which you access the Internet 
-          </li><li>The date and time you access our site 
-          </li><li>The pages you peruse and files you access 
-          </li><li>The Internet address of the Web site from which you linked directly 
-            to our site 
-        </li></ul>
-        <p> If you choose to provide us with personal information, as in an e-mail 
-          message, the Library of Congress will use this information to respond 
-          to your request. There are times when your e-mail is forwarded within 
-          the Library to employees who are better able to assist you. The Library 
-          may also forward requests for assistance to another appropriate institution 
-          for response. Except for the foregoing exceptions and for authorized 
-          law enforcement activities, the Library does not share e-mail with outside 
-          organizations without obtaining your permission. </p>
-        <p> <font face="arial, helvetica" size="5"><b>Security</b></font> </p>
-        <p> For site security and to ensure that this service remains available 
-          to all users, this government computer system employs software programs 
-          to monitor network traffic to identify unauthorized attempts to upload 
-          or change information, deny service, otherwise cause damage, or access 
-          non-public information. Unauthorized attempts to upload information 
-          or change information are strictly prohibited and may be punishable 
-          under the Computer Fraud and Abuse Act of 1986 and the National Infrastructure 
-          Protection Act of 1996. Information regarding possible violations of 
-          law may be provided to law enforcement officials. </p>
-		<!--<p>Session-based cookies are used by the Scavenger Hunt and Treasure Hunt
-		  games on this site. The "cookies" are used to temporarily remember which
-		  items you find as you play the games. This information is stored on your
-		  machine, it is deleted when the session expires (typically after 20
-		  minutes), and it is used only for these games; it is not collected or
-		  saved. </p>-->
-
-
-
-	</font></td>
-</tr>
-</tbody></table>	
-	</a></td>
-</tr>
-</tbody></table>
-
-<table border="0" width="585" cellspacing="10" cellpadding="0">
-<tbody><tr><td><center>
+<div class="back-to-top">
+    <a id="back-to-top" href="#"><i class="icon icon-arrow-up"></i>&nbsp;<span>Back to top</span></a>
+</div>
 
 
 
 
-<br>
-
-<img alt="" src="/assets/common/sp_lghtpurp.gif" width="585" height="1" border="0"><br>
-<font face="arial, helvetica" size="2" color="#330066">
-
-<a href="http://www.loc.gov">Library Of Congress</a> |
-<a href="/about/notice.html">Legal Notices</a> |
-<a href="/about/privacy.html">Privacy</a> |
-<a href="/help/sitemap.html">Site Map</a> |
-<a href="/about/contact.html">Contact Us</a>
+    
 
 
-<br><br>
-</font><br><br><br>
+<script defer="defer">
+LOCSuggest = {
+	serviceUrl: 'https://www.loc.gov/search/suggest/'
+};
+MEDIA_URL = 'https://media.loc.gov';
+</script>
 
+<script defer="defer" type="text/javascript" src="https://www.loc.gov/static/javascript/base.js?77985.79268"></script>
 
+<script defer="defer" type="text/javascript" src="https://www.loc.gov/static/javascript/share.js?77985.79268"></script>
 
-</center></td>
-</tr>
-</tbody></table>
+<!--[if lt IE 9]>
+    <script src='https://www.loc.gov/static/js/lib/html5shiv.js?77985.79268'></script>
+    <script src='https://www.loc.gov/static/js/lib/selectivizr.js?77985.79268'></script>
+<![endif]-->
 
 
 
 
 
 
+    <script defer="defer">
+
+jQuery(function($) {
+    /*
+        Grid and gallery layouts
+     */
+
+    var isotope_options = {
+        itemSelector: '.item'
+    };
+    // If in the grid or gallery style then make sure the
+    // pages are in order and there are no blank spaces
+    
+    
+
+    
+    $('.search-results.grid-view').isotope(isotope_options);
+    imagesLoaded( $('#results'), function() {
+        $('.search-results.grid-view').isotope(isotope_options);
+    });
+    
+
+    var $iconic = $(".iconic");
+    if ($iconic.length > 0) {
+        var loaded_count = 0;
+        $iconic.on("load", function() {
+            loaded_count++;
+            // trigger isotope every once in a while as the images are loading:
+            if (loaded_count % 5 === 0) {
+                $('.search-results.grid-view').isotope(isotope_options);
+            }
+        });
+    }
+});
+
+jQuery(function($) {
+    
+    
+    var slider;
+    function create_slideshow($selector) {
+        slider = $selector.royalSlider({
+            fullscreen: {
+                enabled: true,
+                nativeFS: true
+            },
+            controlNavigation: 'thumbnails',
+            imageAlignCenter: true,
+            autoScaleSlider: false,
+            //autoScaleSliderHeight: 800,
+            loop: false,
+            navigateByClick: false,
+            numImagesToPreload: 2,
+            arrowsNav: true,
+            arrowsNavAutoHide: true,
+            arrowsNavHideOnTouch: true,
+            keyboardNavEnabled: true,
+            fadeinLoadedSlide: true,
+            //globalCaption: false,
+            //globalCaptionInside: true,
+            thumbs: {
+                appendSpan: true,
+                firstMargin: true,
+                spacing: 10
+            },
+            deeplinking: {
+                // deep linking options go here
+                enabled: true,
+                change: true,
+                prefix: 'slide-'
+            }
+        }).data("royalSlider");
+
+        $('.royalSlider').royalSlider("updateSliderSize", true);
+
+        
+        slider.ev.on('rsAfterContentSet', function (e, slideObject) {
+            var img = slideObject.holder.find('img').eq(0);
+            if (img && img.length && slideObject.caption) {
+                img.attr('alt', slideObject.caption.text());
+            }
+        });
+        return slider;
+    }
+
+    function create_overlay(highlight_id, left, top, width, height) {
+        return $('<div id="' + highlight_id + '" class="hit-highlight image-highlight" />')
+        .css({
+            'left': left + '%',
+            'top': top + '%',
+            'width': width + '%',
+            'height': height + '%',
+            'position': 'absolute',
+            'z-index': 10
+        });
+    }
+
+    function position_overlays(page_id, page_width, page_height, coords_list, 
+            $image, $container, fudge) {
+        if (!($container.length)) {
+            // no actual search result for this page -- exit this function
+            return true;
+        }
+        $container.find('div.image-highlight').remove();
+        if (!coords_list) {
+            // coords data doesn't exist -- exit this function
+            return true;
+        }
+        var container_width = $container.width();
+        var container_height = $container.height();
+        
+        var image_marginLeft = $image[0].offsetLeft;
+        var image_marginTop = $image[0].offsetTop;
+        var image_width = $image.width();
+        var image_height = $image.height();
+
+        // The overlays are positioned relative to their parent, the
+        // $container, but they need to show up in the right place relative
+        // to the image.
+        // The $container can be larger than the image,
+        // so we take the ratio of the sizes and use it to scale the
+        // positions, widths, and heights of the highlight overlays.
+        // We also make the overlays a little larger so they're more visible
+        // and we shift them a little using the "fudge" numbers.
+        var marginLeft = image_marginLeft / container_width;
+        var marginTop = image_marginTop / container_height;
+        var scaleWidth = image_width / container_width;
+        var scaleHeight = image_height / container_height;
+
+        $.each(coords_list, function (index, coords) {
+            // word coordinates: [left, top, width, height]
+            var highlight_id = "highlight-" + page_id + '-' + index;
+
+            var overlay_left = 100 * (marginLeft + scaleWidth * coords[0] / page_width) + fudge.left;
+            var overlay_top = 100 * (marginTop + scaleHeight * coords[1] / page_height) + fudge.top;
+            var overlay_width = 100 * coords[2] / page_width * scaleWidth + fudge.width;
+            var overlay_height = 100 * coords[3] / page_height * scaleHeight + fudge.height;
+
+            var $highlight_overlay = create_overlay(highlight_id,
+                overlay_left, overlay_top, overlay_width, overlay_height);
+
+            $container.append($highlight_overlay);
+        });
+    }
+
+    var word_coordinates_pages;
+    
+    word_coordinates_pages = {};
+    
+
+    var get_$container;
+    var get_$image;
+    var fudge_numbers;
+
+    
+    
+    get_$container = function(page_id) {
+        return $("#highlights-container-" + page_id);
+    };
+    get_$image = function(page_id) {
+        return $("#iconic-segment-image-" + page_id);
+    };
+    fudge_numbers = {
+        left: -1.3,
+        top: -0.5,
+        width: 2.5,
+        height: 1.3
+    };
+    
+    
+        if (!$.isEmptyObject(word_coordinates_pages)) {
+            var $iconic = $(".iconic");
+            var loaded = 0;
+            var loaded_total = $iconic.length;
+            // make sure we wait til all the images are loaded before we try to position the highlights on them:
+            $iconic.one("load", function() {
+                loaded++;
+                if (loaded === loaded_total) {
+                    $.each(word_coordinates_pages, function(page_id, page) {
+                        var $image = get_$image(page_id);
+                        var $container = get_$container(page_id);
+                        position_overlays(page_id, page.width, page.height, page.coords_list,
+                            $image, $container, fudge_numbers);
+                    });
+                }
+            }).each(function() {
+                // to make sure the "on load" event occurs even if the
+                // images are already cached:
+                if (this.complete) {
+                    $(this).load();
+                }
+            });
+        }
+        
+     
+
+
+    
+    $(window).resize(function() {
+        setTimeout(function() {
+            $.each(word_coordinates_pages, function(page_id, page) {
+                var $container = get_$container(page_id);
+                var $image = get_$image(page_id, $container);
+                position_overlays(page_id, page.width, page.height, page.coords_list,
+                    $image, $container, fudge_numbers);
+            });
+        }, 300);
+    });
+});
+</script>
+
+</div>
 
 
 
-<script type="text/javascript" src="//cdn.loc.gov/js/global/metrics/sc/s_code.js"></script>
 
 
 
+
+
+<script type="text/javascript">
+if(window['_satellite']){
+    _satellite.pageBottom();
+}
+</script>
 
 
 </body></html>
