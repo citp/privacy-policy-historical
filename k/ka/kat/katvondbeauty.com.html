@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the katvondbeauty.com privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625223405id_/https%3A//www.katvondbeauty.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the katvondbeauty.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231213137id_/https%3A//www.katvondbeauty.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta charset="UTF-8">
+<meta name="format-detection" content="telephone=no">
 <link rel="dns-prefetch" href="//se.monetate.net">
 <link rel="dns-prefetch" href="//use.typekit.net">
 <link rel="dns-prefetch" href="//fast.fonts.net">
@@ -66,159 +67,8 @@
 <script>var app={};</script>
 <!--[if gt IE 9]><!-->
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
-<script defer="" src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/js/responsive.js"></script>
-<script defer="" src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/compiled/vendor.min.js"></script>
-<script defer="" src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/compiled/app.min.js"></script>
-<script>
-	(function(app){
-		app.tgresources = {"tgCommerceShippingMethodID":"TGCommerce","currencyConversionEnabled":null,"baseCurrency":"USD","tgCommerceWelcomeMat":"/on/demandware.store/Sites-KVD-Site/default/TGCommerce-WelcomeMatStart","tgCommerceHidePostalCode":"AI,AG,AN,AW,BS,BH,BB,BZ,BM,VG,BI,CV,KY,CF,XC,DM,GQ,ER,FK,FJ,GI,GD,HT,HK,IE,JM,KW,MO,MS,NR,NO,NI,PA,WS,ST,SA,SB,XN,XS,SS,SR,TL,TO,TV,AE,VU,ZM,CD,CW,DJ"};
-		app.tgresources.currencyRates = {"AED":4.3167,"ARS":9.4021,"AUD":1.1369,"BRL":2.6400,"CAD":1.1640,"CHF":1.0362,"CLP":663.5709,"CNY":7.3311,"CZK":23.3202,"DKK":5.6968,"EUR":0.7631,"GBP":0.6286,"HKD":9.1111,"HUF":261.4704,"ILS":4.0979,"INR":71.7813,"JPY":107.9692,"KWD":0.3305,"MXN":15.3646,"MYR":3.8377,"NOK":6.3183,"NZD":1.2301,"PHP":52.5668,"PLN":3.5607,"RUB":41.9759,"SEK":6.9348,"SGD":1.4770,"THB":38.0061,"TWD":35.6322,"USD":1.0000};
-	}(window.app = window.app || {}));
-</script>
-<script defer="" src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/js/tgcommerce.js" type="text/javascript"></script>
-<script defer="" type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-4ea5d98601c1dc84"></script>
-<script>
-	// Google Maps Form Autocomplete API
-	
-		var placeSearch, autocomplete, autocomplete2, form1, form2;
-		var componentMapping = {
-			street_number: '.form-row.address1 input',
-			route: '.form-row.address1 input',
-			locality: '.form-row.city input',
-			administrative_area_level_1: '.form-row.states select,.form-row.state select',
-			administrative_area_level_3: '.form-row.city input',
-			country: '.form-row.country select',
-			postal_code: '.form-row.postal-code input,.form-row.zip input'
-		};
-
-		var componentForm = {
-			street_number: 'short_name',
-			route: 'long_name',
-			locality: 'long_name',
-			administrative_area_level_1: 'short_name',
-			administrative_area_level_3: 'short_name',
-			country: 'short_name',
-			postal_code: 'short_name'
-		};
-
-		function initAutocomplete() {
-			form1 = $($('.form-row.address1 input')[0]).closest('form');
-			form2 = $($('.form-row.address1 input')[1]).closest('form');
-			if (form1.length > 0) {
-				autocomplete = new google.maps.places.Autocomplete((form1.find('.form-row.address1 input')[0]), {
-					types: ['geocode']
-				});
-				autocomplete.addListener('place_changed', fillInAddress);
-			}
-			if (form2.length > 0) {
-				autocomplete2 = new google.maps.places.Autocomplete((form2.find('.form-row.address1 input')[0]), {
-					types: ['geocode']
-				});
-				autocomplete2.addListener('place_changed', fillInAddress2);
-			}
-
-			$('.form-row.address1 input').attr('autocomplete','on');
-		}
-
-		function fillInAddress() {
-			var street = '';
-			var place = autocomplete.getPlace();
-			for (var component in componentForm) {
-				form1.find(componentMapping[component]).val('')
-			}
-			for (var i = 0; i < place.address_components.length; i++) {
-				var addressType = place.address_components[i].types[0];
-				if (componentForm[addressType]) {
-					var val = place.address_components[i][componentForm[addressType]];
-					var theInput = form1.find(componentMapping[addressType]);
-					
-					if (addressType == 'street_number' || addressType == 'route') {
-						if (street != '') {
-							street = street + ' ';							
-						}
-						street = street + val;
-						if (addressType == 'route') {
-							theInput.val(street);
-						}
-					} else {
-						theInput.val(val);
-					}
-					
-					if (addressType != 'street_number') {
-						if( theInput.val().trim() !== '' ) { // foro yoshiko effect
-							$(theInput.parentNode).addClass( 'input--filled' );
-						}						
-					}
-				}
-			}
-
-			form1.find('select[name$="_addressFields_countries_country"]').trigger('change');
-			$('select').selectric('refresh');
-		}
-
-		function fillInAddress2() {
-			var street = '';
-			var place = autocomplete2.getPlace();
-			for (var component in componentForm) {
-				form2.find(componentMapping[component]).val('')
-			}
-			for (var i = 0; i < place.address_components.length; i++) {
-				var addressType = place.address_components[i].types[0];
-				if (componentForm[addressType]) {
-					var val = place.address_components[i][componentForm[addressType]];
-					var theInput = form2.find(componentMapping[addressType]);
-					
-					if (addressType == 'street_number' || addressType == 'route') {
-						if (street != '') {
-							street = street + ' ';							
-						}
-						street = street + val;
-						if (addressType == 'route') {
-							theInput.val(street);
-						}
-					} else {
-						theInput.val(val);
-					}
-					
-					if (addressType != 'street_number') {
-						if( theInput.val().trim() !== '' ) { // foro yoshiko effect
-							$(theInput.parentNode).addClass( 'input--filled' );
-						}						
-					}
-				}
-			}
-			form2.find('select[name$="_addressFields_countries_country"]').trigger('change');
-			$('select').selectric('refresh');
-		}
-
-		function geolocate() {
-			if (navigator.geolocation) {
-				navigator.geolocation.getCurrentPosition(function(position) {
-					var geolocation = {
-						lat: position.coords.latitude,
-						lng: position.coords.longitude
-					};
-					var circle = new google.maps.Circle({
-						center: geolocation,
-						radius: position.coords.accuracy
-					});
-					autocomplete.setBounds(circle.getBounds())
-				})
-			}
-		}
-		$(document).ready(function () {
-			$('.form-row.address1 input').on("focus", function() {
-				geolocate();
-				$(this).attr('autocomplete','off');
-				
-			}).on("blur", function() {
-				$(this).attr('autocomplete','on');
-			});
-		});
-
-	
-</script>
-<script defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFOUIcZ-qOBTWN7hqEbbYilXOiYQApALI&amp;libraries=places&amp;callback=initAutocomplete"></script>
+<script defer="" src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/js/responsive.js"></script>
+<script defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFOUIcZ-qOBTWN7hqEbbYilXOiYQApALI&amp;libraries=places"></script>
 <style>			
 	.pac-item {
 	    padding: 0 6px;
@@ -260,14 +110,24 @@
 	margin-left: 7px;
 }
 </style>
+<script defer="" src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/compiled/vendor.min.js"></script>
+<script defer="" src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/compiled/app.min.js"></script>
+<script>
+	(function(app){
+		app.tgresources = {"tgCommerceShippingMethodID":"TGCommerce","currencyConversionEnabled":null,"baseCurrency":"USD","tgCommerceWelcomeMat":"/on/demandware.store/Sites-KVD-Site/default/TGCommerce-WelcomeMatStart","tgCommerceHidePostalCode":"AI,AG,AN,AW,BS,BH,BB,BZ,BM,VG,BI,CV,KY,CF,XC,DM,GQ,ER,FK,FJ,GI,GD,HT,HK,IE,JM,KW,MO,MS,NR,NO,NI,PA,WS,ST,SA,SB,XN,XS,SS,SR,TL,TO,TV,AE,VU,ZM,CD,CW,DJ"};
+		app.tgresources.currencyRates = {"AED":4.3167,"ARS":9.4021,"AUD":1.1369,"BRL":2.6400,"CAD":1.1640,"CHF":1.0362,"CLP":663.5709,"CNY":7.3311,"CZK":23.3202,"DKK":5.6968,"EUR":0.7631,"GBP":0.6286,"HKD":9.1111,"HUF":261.4704,"ILS":4.0979,"INR":71.7813,"JPY":107.9692,"KWD":0.3305,"MXN":15.3646,"MYR":3.8377,"NOK":6.3183,"NZD":1.2301,"PHP":52.5668,"PLN":3.5607,"RUB":41.9759,"SEK":6.9348,"SGD":1.4770,"THB":38.0061,"TWD":35.6322,"USD":1.0000};
+	}(window.app = window.app || {}));
+</script>
+<script defer="" src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/js/tgcommerce.js" type="text/javascript"></script>
+<script defer="" type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-4ea5d98601c1dc84"></script>
 <!--<![endif]-->
 <!--[if lt IE 9]>
 <script>
 // Picture element HTML5 shiv
 document.createElement( "picture" );
 </script>
-<script src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/lib/iecompat/html5.js"></script>
-<script src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/lib/jquery/modernizr-2.7.1.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/lib/iecompat/html5.js"></script>
+<script src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/lib/jquery/modernizr-2.7.1.js" type="text/javascript"></script>
 <![endif]-->
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
@@ -283,7 +143,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -329,6 +195,33 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
@@ -337,81 +230,100 @@ CQuotient.getCQUserId = function () {
 .dw-apple-pay-button:after{content:'Apple Pay';visibility:hidden;}.dw-apple-pay-button.dw-apple-pay-logo-white{background-color:white;border-color:white;background-image:-webkit-named-image(apple-pay-logo-black);color:black;}.dw-apple-pay-button.dw-apple-pay-logo-white.dw-apple-pay-border{border-color:black;}</style>
 <script>
 		var dataLayer = [];
+
 		
-	
-		
-		
+
 		
 		dataLayer.push ({
-			'gaID': 'UA-55932707-3',
+			"gaID": "UA-55932707-3",
+		});
+		
+		
+		var pageType = 'account';
+		var pageContextGTM = "";
+		
+		if (pageType.toLowerCase() == 'search') {
+			pageContextGTM = "Category";
+		}else if (pageType.toLowerCase() == 'product') {
+			pageContextGTM = "Product";
+		}else if (pageType.toLowerCase() == 'storefront') {
+			pageContextGTM = "Homepage";
+		}else if (pageType.toLowerCase() == 'cart') {
+			pageContextGTM = "Cart";
+		}else if (pageType.toLowerCase() == 'checkout') {
+			pageContextGTM = "Checkout";
+		}else if (pageType.toLowerCase() == 'orderconfirmation') {
+			pageContextGTM = "Confirmation";
+		}else if (pageType.toLowerCase() == 'videos') {
+			pageContextGTM = "Video";
+		}else if (pageType.toLowerCase() == 'blog' || pageType.toLowerCase() == 'magazine') {
+			pageContextGTM = "Content";
+		}else if (pageType.toLowerCase() == 'customerservice' || pageType.toLowerCase() == 'storelocator' || pageType.toLowerCase() == 'storelocatorresult') {				
+			pageContextGTM = "Information";
+		}else {
+			pageContextGTM = "Other";
+		}			
+		
+		dataLayer.push({ 'pageType' : pageContextGTM });
 
-		});	
-		
-		
-		
 		
 			dataLayer.push ({
 				'CurrentCustomerAuthenticated':'false',
 				'CurrentCustomerRegistered':'false',
-				'CurrentCustomerID':'bcAetrgIoMEa7qmNvYY5AbvDRL',
-				'UserId': 'bcAetrgIoMEa7qmNvYY5AbvDRL',
+				'CurrentCustomerID':'degUbIRd32QKIMfrIveziacWkm',
+				'UserId': 'degUbIRd32QKIMfrIveziacWkm',
 				'LoggedIn': false,
-				
-			});	
+			});
 			
-		
-		
-		
-			dataLayer.push ({
-				'CurrentRequestHttpUserAgent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:52.0) Gecko/20100101 Firefox/52.0',
-				'CurrentRequestDevice':'desktop'				
-			});				
-		
-	
-		
+
 		
 			dataLayer.push ({
-				'geoIPcity':'null',
-				'geoIPcountryCode':'null',
-				'geoIPpostalCode':'null',
-				'geoIPregionName':'null'
-			});				
-				
+				'CurrentRequestHttpUserAgent':'Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16C101 Instagram 75.0.0.23.99 (iPhone9,3; iOS 12_1_2; en_GB; en-GB; scale=2.00; gamut=wide; 750x1334; 135054585)',
+				'CurrentRequestDevice':'mobile'
+			});
 		
-		
+
 		
 			dataLayer.push ({
-				'CurrentRequestUserAgent':'null',
-				'geoIPcountryCode':'null',
-				'geoIPpostalCode':'null',
-				'geoIPregionName':'null'
-			});				
-				
+				'geoIPcity':'Wolverhampton',
+				'geoIPcountryCode':'GB',
+				'geoIPpostalCode':'WV13',
+				'geoIPregionName':'WLV'
+			});
+		
+
+		
+			dataLayer.push ({
+				'CurrentRequestUserAgent':'Wolverhampton',
+				'geoIPcountryCode':'GB',
+				'geoIPpostalCode':'WV13',
+				'geoIPregionName':'WLV'
+			});
 		
 		
 		
 		
 		
 		
+
 		
-		
-			
 		dataLayer.push ({
-			'ecommerce': {
+			"ecommerce": {
 				
-				
-				
-				'currencyCode': 'USD', // Local currency is optional.
+
+				"currencyCode": "USD", // Local currency is optional.
 				
 				
 				
 				
 		}
 		});
-			
+		
+
+		
 	</script>
 <script>
-	var cdnUrlVar = 'https://www.katvondbeauty.com/dw/image/v2/AAXW_PRD/on/demandware.static/-/Sites-KVD-Library/default/v1529711492366/';
+	var cdnUrlVar = 'https://www.katvondbeauty.com/dw/image/v2/AAXW_PRD/on/demandware.static/-/Sites-KVD-Library/default/v1546101382875/';
 	function cdnUrl(){
 		$('*[background-cdn]').each(function() {$(this).css('background-image',('url("'+cdnUrlVar + $(this).attr('background-cdn')+'")'));});	
 		$('img[src-cdn]').each(function() {
@@ -419,27 +331,11 @@ CQuotient.getCQUserId = function () {
 			else {$(this).attr('data-src',(cdnUrlVar + $(this).attr('src-cdn'))).removeAttr("src-cdn").addClass('lazyload');}
 		});}	
 </script>
-<link rel="stylesheet" href="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/css/compiled/application_kvd.min.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/css/compiled/application_kvd.min.css">
 <title>Kat Von D Beauty Privacy Policy</title>
 <link href="/on/demandware.static/Sites-KVD-Site/-/default/dw77e90013/images/favicon.ico" rel="shortcut icon">
 <meta name="description" content="  Kat Von D">
 <meta name="keywords" content="  Kat Von D">
-
-<script type="text/javascript">var monetateT = new Date().getTime();</script>
-<script type="text/javascript" src="//se.monetate.net/js/2/a-31ae7a07/p/katvondbeauty.com/entry.js"></script>
-
-<script type="text/javascript">
-	/*
-	*	Global Monetate array for tracking
-	*/
-	window.monetateQ = window.monetateQ || [];
-	
-	/*
-	*	Temporary storage for data: cartrows, breadcrumbs, products on the plp/clp/search pages
-	*/
-	window.monetateData = window.monetateData || {};
-	window.monetateData.setPageType = "unknown";
-</script>
 
 <meta property="og:type" content="website">
 <meta property="og:title" content="Kat Von D Beauty Privacy Policy">
@@ -451,6 +347,12 @@ CQuotient.getCQUserId = function () {
 <script src="https://use.typekit.net/vqv4kfv.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 <script async="async" src="https://www.google.com/recaptcha/api.js"></script>
+
+<script src="https://cdn.cookielaw.org/consent/226c12fd-5bdd-4618-8d23-2c6fd9800fc8.js">" type="text/javascript" charset="UTF-8"></script>
+<script type="text/javascript">
+	function OptanonWrapper() { }
+	</script>
+
 <script type="text/javascript">
 $(document).ready(function(){
 	var $nav = $("ul.active-links");
@@ -576,126 +478,114 @@ New
 <div class="level-2 mobile-toggle-content ">
 <div class="menu-wrapper">
 <ul class="level-2">
-<li id="bestselling-nudes-lipstick-set" class="
+<li id="lolita-eyeshadow-palette" class="
 							first  
 							 
 							
 						">
-<a href="https://www.katvondbeauty.com/shop-all-products/sets-and-palettes/bestselling-nudes-lipstick-set/bestselling-nudes-lipstick-master.html" class="level-2 
+<a href="https://www.katvondbeauty.com/shop-all-products/sets-and-palettes/lolita-eyeshadow-palette/32374.html" class="level-2 
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Bestselling Nudes Lipstick Set">Bestselling Nudes Lipstick Set
+						" data-gtm-event="utilityNavigation" data-gtm-info="Lolita Eyeshadow Palette">Lolita Eyeshadow Palette
 </a>
 </li>
-<li id="flawless-face-4-piece-brush-set" class="
+<li id="lolita-ink-well" class="
 							  
 							 
 							
 						">
-<a href="https://www.katvondbeauty.com/brushes/face-brushes/flawless-face-4-piece-brush-set/flawless-face-4-piece-brush-set.html" class="level-2 
+<a href="https://www.katvondbeauty.com/shop-all-products/eye/ink-well-long-wear-matte-eyeliner/29703V1.html" class="level-2 
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Flawless Face 4-Piece Brush Set">Flawless Face 4-Piece Brush Set
+						" data-gtm-event="utilityNavigation" data-gtm-info="Ink Well Long-Wear Matte Eyeliner in &quot;Lolita&quot;">Ink Well Long-Wear Matte Eyeliner in "Lolita"
 </a>
 </li>
-<li id="flawless-face-3-piece-brush-set" class="
+<li id="lolita-glimmer-veil" class="
 							  
 							 
 							
 						">
-<a href="https://www.katvondbeauty.com/brushes/face-brushes/flawless-face-3-piece-brush-set/flawless-face-3-piece-brush-set.html" class="level-2 
+<a href="https://www.katvondbeauty.com/lip/glimmer-veil/everlasting-glimmer-veil-liquid-lipstick-in-lolita/40013.html" class="level-2 
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Flawless Face 3-Piece Brush Set">Flawless Face 3-Piece Brush Set
+						" data-gtm-event="utilityNavigation" data-gtm-info="Everlasting Glimmer Veil Liquid Lipstick in &quot;Lolita&quot;">Everlasting Glimmer Veil Liquid Lipstick in "Lolita"
 </a>
 </li>
-<li id="foundation-power-pair-set" class="
+<li id="saint-scented-candle" class="
 							  
 							 
 							
 						">
-<a href="https://www.katvondbeauty.com/shop-all-products/sets-and-palettes/foundation-power-pair-set/foundation-power-pair-set.html" class="level-2 
+<a href="https://www.katvondbeauty.com/shop-all-products/fragrance/saint-scented-candle/30776.html" class="level-2 
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Foundation Power Pair Set">Foundation Power Pair Set
+						" data-gtm-event="utilityNavigation" data-gtm-info="Saint Scented Candle">Saint Scented Candle
 </a>
-
 </li>
-<li id="perfect-couple-concealer-set" class="
+<li id="sinner-scented-candle" class="
 							  
 							 
 							
 						">
-<a href="https://www.katvondbeauty.com/shop-all-products/sets-and-palettes/perfect-couple-concealer-set/perfect-couple-concealer-set.html" class="level-2 
+<a href="https://www.katvondbeauty.com/shop-all-products/fragrance/sinner-scented-candle/30783.html" class="level-2 
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Perfect Couple Concealer Set">Perfect Couple Concealer Set
+						" data-gtm-event="utilityNavigation" data-gtm-info="Sinner Scented Candle">Sinner Scented Candle
 </a>
 </li>
-<li id="10-year-anniversary" class="
+<li id="current-crush-glitter-gel" class="
 							  
 							 
 							
 						">
-<a href="https://www.katvondbeauty.com/shop-all-products/10-year-anniversary-collection" class="level-2 
+<a href="https://www.katvondbeauty.com/face/highlighter/current-crush-glitter-gel/20040.html" class="level-2 
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="10-Year Anniversary Collection">10-Year Anniversary Collection
+						" data-gtm-event="utilityNavigation" data-gtm-info="Current Crush: Glitter Gel">Current Crush: Glitter Gel
 </a>
 </li>
-<li id="new-brow-collection" class="
+<li id="lock-it-foundation-15-mL" class="
 							  
 							 
 							
 						">
-<a href="https://www.katvondbeauty.com/eye/brow" class="level-2 
+<a href="https://www.katvondbeauty.com/face/foundation/mini-lock-it-foundation/20039.html" class="level-2 
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Brow Collection">Brow Collection
+						" data-gtm-event="utilityNavigation" data-gtm-info="New Size! Lock-It Foundation 15 mL">New Size! Lock-It Foundation 15 mL
 </a>
 </li>
-<li id="everlasting-liquid-lipstick-tank-girl" class="
+<li id="everlasting-liquid-lipstick-madrid" class="
 							  
 							 
 							
 						">
-<a href="https://www.katvondbeauty.com/new/everlasting-liquid-lipstick/30721v1.html" class="level-2 
+<a href="https://www.katvondbeauty.com/lip/lipstick/everlasting-liquid-lipstick/28362V1.html" class="level-2 
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Everlasting Liquid Lipstick in Tank Girl">Everlasting Liquid Lipstick in Tank Girl
+						" data-gtm-event="utilityNavigation" data-gtm-info="Everlasting Liquid Lipstick in &quot;Madrid&quot;">Everlasting Liquid Lipstick in "Madrid"
 </a>
 </li>
-<li id="lolita-eyeshadow" class="
+<li id="bloodmilk-eyeshadow" class="
 							  
 							 
 							
 						">
-<a href="https://www.katvondbeauty.com/eye/eyeshadow/lolita-eyeshadow/23886V1.html" class="level-2 
+<a href="https://www.katvondbeauty.com/eye/eyeshadow/bloodmilk-eyeshadow/29369V1.html" class="level-2 
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Lolita Eyeshadow">Lolita Eyeshadow
+						" data-gtm-event="utilityNavigation" data-gtm-info="Bloodmilk Eyeshadow">Bloodmilk Eyeshadow
 </a>
 </li>
-<li id="everlasting-liquid-lipstick-project-chimps" class="
-							  
-							 
-							
-						">
-<a href="https://www.katvondbeauty.com/lip/liquid-lipstick/everlasting-liquid-lipstick-in-project-chimps/40010.html" class="level-2 
-						
-						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Everlasting Liquid Lipstick in Project Chimps">Everlasting Liquid Lipstick in Project Chimps
-</a>
-</li>
-<li id="artistry-collective-face-chart-book" class="
+<li id="swoon-eyeshadow" class="
 							  
 							last 
 							
 						">
-<a href="https://www.katvondbeauty.com/shop-all-products/accessories/artistry-collective-face-chart-book/31117V1.html" class="level-2 
+<a href="https://www.katvondbeauty.com/eye/eyeshadow/swoon-eyeshadow/29352V1.html" class="level-2 
 						
 						
-						" data-gtm-event="utilityNavigation" data-gtm-info="Artistry Collective Face Chart Book">Artistry Collective Face Chart Book
+						" data-gtm-event="utilityNavigation" data-gtm-info="Swoon Eyeshadow">Swoon Eyeshadow
 </a>
 </li>
 </ul>
@@ -711,6 +601,7 @@ Shop
 						  ">
 Shop
 </a>
+
 <div class="level-2 mobile-toggle-content ">
 <div class="menu-wrapper">
 <ul class="level-2">
@@ -782,7 +673,6 @@ Eyeliner
 Brow
 </a>
 </li>
-
 </ul>
 </div>
 <li id="sets">
@@ -879,21 +769,6 @@ E-Gift Cards
 Sale
 </a>
 </li>
-<li id="travel-size">
-<a href="https://www.katvondbeauty.com/shop-all-products/travel-size" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Travel Size">
-Travel Size
-</a>
-</li>
-<li id="bestsellers">
-<a href="https://www.katvondbeauty.com/shop-all-products/bestsellers" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Bestsellers">
-Bestsellers
-</a>
-</li>
-<li id="exclusives">
-<a href="https://www.katvondbeauty.com/shop-all-products/exclusives" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Exclusives">
-Exclusives
-</a>
-</li>
 <li id="products-vegan-alert">
 <a href="https://www.katvondbeauty.com/shop-all-products/vegan" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="#Vegan">
 #Vegan
@@ -901,34 +776,34 @@ Exclusives
 </li>
 
 </ul><ul class="level-3 menu-newcol">
-<li id="brow-collection">
-<a href="https://www.katvondbeauty.com/eye/brow" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Brow Collection">
-Brow Collection
+<li id="bestsellers">
+<a href="https://www.katvondbeauty.com/shop-all-products/bestsellers" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Bestsellers">
+Bestsellers
 </a>
 </li>
-<li id="studded-kiss-creme-collection">
-<a href="https://www.katvondbeauty.com/shop-all-products/studded-kiss-creme-collection" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Studded Kiss Crème Collection">
-Studded Kiss Crème Collection
+<li id="gifts-2018">
+<a href="https://www.katvondbeauty.com/gifts-2018" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Gifts">
+Gifts
+</a>
+</li>
+<li id="value-sets">
+<a href="https://www.katvondbeauty.com/shop-all-products/value-sets" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Value Sets">
+Value Sets
+</a>
+</li>
+<li id="exclusives">
+<a href="https://www.katvondbeauty.com/shop-all-products/online-exclusives" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Online Exclusives">
+Online Exclusives
+</a>
+</li>
+<li id="travel-size">
+<a href="https://www.katvondbeauty.com/shop-all-products/travel-size" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Travel Size">
+Travel Size
 </a>
 </li>
 <li id="lolita-collection">
 <a href="https://www.katvondbeauty.com/shop-all-products/lolita-collection" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Lolita Collection">
 Lolita Collection
-</a>
-</li>
-<li id="lock-it-franchise">
-<a href="https://www.katvondbeauty.com/shop-all-products/lock-it-collection" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Lock-It Collection">
-Lock-It Collection
-</a>
-</li>
-<li id="everlasting-collection">
-<a href="https://www.katvondbeauty.com/shop-all-products/everlasting-collection" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Everlasting Collection">
-Everlasting Collection
-</a>
-</li>
-<li id="shade-light-contour-collection">
-<a href="https://www.katvondbeauty.com/shop-all-products/shade-light-contour-collection" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Shade + Light Contour Collection">
-Shade + Light Contour Collection
 </a>
 </li>
 </ul><ul class="level-3 menu-newcol">
@@ -958,14 +833,14 @@ img.category-flyout { max-width: 100% }
     					
 			</style>
 <div class="content-asset  ">
- 
-<div class="category-flyout"><a class="category-flyout" href="https://www.katvondbeauty.com/brow-finder"><img alt="Have you tried our brow finder?" class="category-flyout" src="https://www.katvondbeauty.com/on/demandware.static/-/Sites-KVD-Library/default/dw979f3e81/flyout/2018-04-20_flyout_brow-finder.jpg"></a></div>
+
+<div class="category-flyout"><a class="category-flyout" href="https://www.katvondbeauty.com/brow-finder"><img alt="Have you tried our brow finder?" class="category-flyout" src="https://www.katvondbeauty.com/on/demandware.static/-/Sites-KVD-Library/default/dwadab8fd1/flyout/2018-04-20_flyout_brow-collection.jpg"></a></div>
 </div>
 
 </li>
-<li id="10-year-collection">
-<a href="https://www.katvondbeauty.com/shop-all-products/10-year-anniversary-collection" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="10-Year Anniversary Collection">
-10-Year Anniversary Collection
+<li id="gift-card-flyout">
+<a href="https://www.katvondbeauty.com/egift-cards" class="level-3" data-gtm-event="utilityNavigation" data-gtm-info="Shop E-Gift Cards">
+Shop E-Gift Cards
 </a>
 <style type="text/css">
 				
@@ -990,7 +865,7 @@ img.category-flyout { max-width: 100% }
 			</style>
 <div class="content-asset  ">
 
-<div class="category-flyout"><a class="category-flyout" href="https://www.katvondbeauty.com/shop-all-products/10-year-anniversary-collection"><img alt="10-Year Anniversary Collection" class="category-flyout" src="https://www.katvondbeauty.com/on/demandware.static/-/Sites-KVD-Library/default/dw7da4df42/flyout/2018-05-05_flyout_10-year.jpg"></a></div>
+<div class="category-flyout"><a class="category-flyout" href="https://www.katvondbeauty.com/egift-cards"><img alt="Shop E-Gift Cards" class="category-flyout" src="https://www.katvondbeauty.com/on/demandware.static/-/Sites-KVD-Library/default/dw1061d02a/flyout/2018-11-16_flyout_holiday-e-gift-cards.jpg"></a></div>
 </div>
 
 </li>
@@ -1040,18 +915,18 @@ About
 						" data-gtm-event="utilityNavigation" data-gtm-info="@katvondbeauty">@katvondbeauty
 </a>
 </li>
-
 <li id="customer-service" class="
 							  
 							 
 							
 						">
-<a href="https://www.katvondbeauty.com/help" class="level-2 
+<a href="https://www.katvondbeauty.com/contact" class="level-2 
 						
 						
 						" data-gtm-event="utilityNavigation" data-gtm-info="Customer Service">Customer Service
 </a>
 </li>
+
 <li id="FAQs" class="
 							  
 							 
@@ -1173,7 +1048,7 @@ Pro
 <g>
 <g id="KVD_logo_white" transform="translate(172.000000, 68.000000)">
 <image x="0" y="0" width="170" height="45.4037267" xlink:href="data:image/png;base64,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"></image>
-</g>
+ </g>
 </g>
 </g>
 </g>
@@ -1196,7 +1071,7 @@ Pro
 <fieldset>
 <legend class="visually-hidden">Search Catalog</legend>
 <label class="visually-hidden" for="q">Search</label>
-<a class="hide-on-fenty hide-on-bite hide-on-ole search-icon desktop" data-gtm-event="utilityNavigation" data-gtm-info="search">
+<a class="hide-on-fenty hide-on-ole search-icon desktop" data-gtm-event="utilityNavigation" data-gtm-info="search">
 <svg class="search" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>Search Icon</title>
 <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -1209,13 +1084,13 @@ Pro
 </g>
 </g>
 </g>
- </g>
+</g>
 </g>
 </g>
 </svg>
 <div class="show-on-kvd">search</div>
 </a>
-<button type="submit" class="hide-on-fenty hide-on-bite search mobile">
+<button type="submit" class="hide-on-fenty search mobile">
 <svg class="search" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>Search Icon</title>
 <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -1265,7 +1140,7 @@ Pro
 </button>
 <input type="text" id="q" name="q" value="" placeholder="Search"></fieldset>
 </form>
- </div>
+</div>
 <div class="mobile-right">
 
 
@@ -1304,24 +1179,18 @@ Pro
 Need Help? Call 1-844-500-5832
 </span>
 <a href="/cart" class="checkout-link-home">
-Back To Kat Von D Beauty
+Back to site
 </a>
 </div>
 </div>
 </header>
 <div class="breadcrumb">
 <ol class="breadcrumb max-width-container">
-<li><a href="https://www.katvondbeauty.com" title="Home">Home</a></li>
+<li><a href="https://www.katvondbeauty.com/" title="Home">Home</a></li>
 <li><a href="/help" title="Customer Service">Customer Service</a></li>
 <li><span class="breadcrumb-last">Kat Von D Beauty Privacy Policy</span></li>
 </ol>
 </div>
-<script type="text/javascript">
-	/*
-	*	Writing breadcrumbs to the temporary storage
-	*/
-	monetateData.breadCrumbs = ["Home","Customer Service","Kat Von D Beauty Privacy Policy"];
-</script>
 
 <main class="clearfix">
 <div class="content-title-container desktop">
@@ -1353,6 +1222,7 @@ Back To Kat Von D Beauty
 <h3 class="mobile-toggle mobile-closed mobile-plus10">Customer Service <span class="show-on-mobile">Quicklinks</span></h3>
 <ul class="mobile-toggle-content">
 <li><a href="https://www.katvondbeauty.com/contact">Contact Us</a></li>
+
 <li><a href="https://www.katvondbeauty.com/returns.html">Returns + Exchanges</a></li>
 <li><a href="https://www.katvondbeauty.com/shipping-info.html">Shipping Information</a></li>
 <li><a href="https://www.katvondbeauty.com/email_preferences.html">Email Preferences</a></li>
@@ -1361,7 +1231,7 @@ Back To Kat Von D Beauty
 <li><a href="https://www.katvondbeauty.com/pro-program-requirements.html">Pro Requirements</a></li>
 
 <li><a href="https://www.katvondbeauty.com/privacy-policy.html">Privacy</a></li>
-<li><a href="https://www.katvondbeauty.com/terms-of-use.html">Legal</a></li>
+<li><a href="https://www.katvondbeauty.com/terms-of-use.html">Terms of Use</a></li>
 <br>
 <li><a href="https://www.katvondbeauty.com/account">My Account</a></li>
 <li><a href="https://www.katvondbeauty.com/orders">Check Order</a></li>
@@ -1410,7 +1280,6 @@ Monday to Friday<br>
 	</div>
 </noscript>
 </div>
-
 <style type="text/css">
 				
 				
@@ -1429,46 +1298,199 @@ Monday to Friday<br>
 			</style>
 <div class="content-asset  ">
 
-<p>Thank you for visiting KatVonDBeauty.com (the “Site”). This website is operated by Kendo Holdings Inc. (“We” or “Us”), a wholly owned subsidiary of Sephora USA, Inc., under license from Kat Von D. This Site is not affiliated with any other website operated or controlled by Kat Von D (including www.wonderlandla.com), any other website operated or controlled by Sephora USA, Inc., or any other website operated or controlled by Us.</p>
-<p>This policy describes what information we may collect from you or obtain about you when you use the services or features of the Site (including by making purchases) and how that information may be used and shared. You may be accessing our Site from a computer, tablet or mobile phone device and this policy governs your use of our Site regardless of the means of access.</p>
-<p>We may, from time to time, modify this Privacy Policy and we invite you to check back periodically to see if we have made any changes. If We make any material changes, We will post a notice on our home page and will obtain your consent if the material changes affect the way We use the information We have already collected from you. Your continued use of this Site constitutes your agreement to abide by this Privacy Policy as changed from time to time. For more information about the terms of use for this Site, please visit our Terms of Use page.</p>
-<p>We like to interact with you on third party sites where We may post content and invite your feedback or contributions, such as Facebook, Twitter, Instagram or YouTube ("Third Party Sites"). </p>
-<p>This policy applies only to information collected by Us when you use this Site and does not apply to information collected on any other Third Party Site that may link to or be accessible from this Site. Except as otherwise described below, this policy does not cover the privacy practices of any Third Party Sites or other companies that We do not own or control, or the actions of people that We do not employ or manage. You should check the privacy policies of all Third Party Sites before providing personal information to or through those Third Party Sites. Please see our Terms of Use for more information about how We can interact with you via Third Party Sites.</p>
-<p>This Site is directed to viewers in the United States only and information collected on the Site goes directly to servers housed in the United States. Your privacy is important to Us and this policy has been developed as an extension of our commitment to combine the finest quality products and services with the highest level of integrity in dealing with our customers. This Privacy Policy guides how We collect, store, and use information, and it will be periodically assessed against new technologies, business practices, and our customers' changing needs.</p>
-<h2>COLLECTION AND USE OF PERSONAL INFORMATION</h2>
-<p>We take your concerns about privacy seriously and our Privacy Policy recognizes that personal information deserves protection. Our Privacy Policy describes the personal information We collect from you and why; how We use this information; when We share this information with third parties; the choices you can make about how your personal information is collected, used, or shared; and the data security, accuracy, and access measures We have adopted to protect your information under our control from unauthorized access, destruction, use, modification, or disclosure.</p>
-<p>Collection:<br>Personal information will only be collected to the extent that We deem it to be reasonably necessary to serve a legitimate business or marketing purpose. In general, we will collect personal information from you when you make a purchase, if you request services from Us that require information, registration, or subscription, or when you register as a user on our Site and create an account with Us. The type of personal information that We collect will depend on the circumstances but may include your name, e-mail address, telephone number, shipping address, billing address and credit card information.</p>
-<p>If you access our Site with your log-in credentials from a social networking site (e.g., Facebook or Twitter) or if you otherwise agree to associate your account with Us with a social networking site, We may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of that social networking site. We may add this information to the information We have already collected from you via our own Site. We call this process “Social Log-In.”</p>
-<p>We may also run sweepstakes and promotions in collaboration with Kat Von D, either directly from our Site or through her own social media channels on Twitter, Instagram or Facebook. All sweepstakes and promotions will have their own official rules which will address the ownership of information, photos or videos collected during those sweepstakes and promotions. Personal information submitted by you in connection with a sweepstakes or promotion will be collected and used by Us in accordance with this Privacy Policy and the official rules. We also may combine personal information We collect with publicly available information to enhance and personalize your shopping experience with Us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.</p>
-<p>If you choose not to provide personal information We request, you may be unable to make a purchase, access certain services and content on our Site or participate in sweepstakes and promotions.</p>
-<p>Our Site, in coordination with Third Party Sites, offers a number of ways for you to contribute content and show Us your favorite products and inspirations and provide ratings and reviews. For example, user generated content on Twitter, YouTube or Instagram that uses a unique hashtag promoted by our Site or by Kat Von D through her social media channels will be pulled through to and posted on our Site. We view this user generated content as public information and not personal information. Our Site may offer other interactive services in the future and this Privacy Policy will govern your use of those services as they evolve. If you want to use any of these interactive services, you may have to provide personal information (including some demographic information like your age) and any personal information you submit will become part of your profile, as maintained by Us. Please review our Terms of Use for the Site because they explain the way you can participate in our interactive services in more detail.</p>
-<p>Like most websites, our Site automatically collects and uses the data contained in log files generated when you navigate through the Site. The information in the log files may include your IP (Internet Protocol) address, your ISP (Internet Service Provider), the Web browser you used to visit the Site, the time you visited the Site, which Web pages you visited on the Site, and other anonymous website usage data. As noted above, our Site also collects information from you when you use a Third Party Site to post content to our Site. Please be aware that if you disclose personal information by submitting content to the Site, that information may be collected and used by third parties without our knowledge and may result in unsolicited communications from third parties. Such activities are beyond our control. Please review our Terms of Use for the Site regarding creating and submitting user-generated content to the Site.</p>
-<p>Please note that if you choose to share personal information about yourself in an open format, such as through a Third Party Site like Facebook, Instagram or Twitter, We consider that information to be public information - and not personal information.</p>
-<p>Where Information is Stored and Security<br>Information collected by Us from you will be maintained on servers protected by security features located in the U.S. and access to the information stored on those servers is limited to authorized persons. We use industry-standard Secure Sockets Layer (“SSL”) authentication to guarantee the confidentiality of online transactions made on our Site. SSL authentication and encryption of the information that you send to us over the Internet help protect your online transaction information from third party interception. We may use third parties to design and host the Site and to initiate communications with you. As a result, personal information may be stored on servers owned by other companies. Except as otherwise described herein, only We have the right to access this information.</p>
-<p>We ensure our Site uses physical, electronic and procedural safeguards to protect your personal information. For example, we never display your full credit card number once it has been entered. We will only reveal the last four digits of your credit card for verification purposes. However, we urge you to protect your own privacy by not sharing account information or passwords with anyone including in an unsolicited phone call or e-mail. You should keep your registration with Us current and complete. You are responsible for maintaining the confidentiality of your account and password. Please notify Us if there is any unauthorized use or your account or password. We recommend that you always log out from your account at the end of a session with us to prevent other people from accessing your account without your permission.</p>
-<p>Unfortunately, despite all of our efforts, there is always a risk that third parties may unlawfully intercept transmissions. For example, We cannot ensure the security of your data during transmission to Us or the security of your data on any mobile device or on a computer. This reality is true of all Internet or data transmission use. As a result, We cannot ensure the security of any information during transmission, and you transmit all information at your own risk.</p>
-<p>Use:<br>We will collect personal information from users resident in the United States primarily to make our Site and our services more rewarding for you to use. We usually will use this information for internal purposes, such as studying our customers' preferences or to send out announcements or communications with information about new products and special features. We may also use your information to track your product interests, purchase history, and to contact you for account and promotional purposes. We may also share personal information with third parties for analytical purposes and in order to help us notify you of products or services that We think may be of interest to you. We may also share your information with outside third party service providers who are authorized to use this information solely to perform services on our behalf. Finally, we may collect and use personal information for other purposes as required or permitted by applicable law including to enforce our rights or carry out our obligations.</p>
-<p>If you receive an e-mail from Us and want to avoid further messages, look at the end of the e-mail for instructions on how to remove yourself (or “unsubscribe”) from the mailing list. You can also update your communication preferences in your account settings on the Site.</p>
-<p>Our collection and use of personal information is based on the fact that our Site is directed to residents of the United States only and we do not intend to collect information from users who reside in other countries. The laws of other countries may differ regarding what personal information may be collected and how it may be used by Us.</p>
-<p>Cookies, Pixel Tags and Tracking:<br>We want to give you the best possible experience when you visit the Site. So We like to constantly update and improve the features on our Site, We like to personalize your browsing experience and We like to recognize you when you return. We have a variety of ways of doing this.</p>
-<p>The Site uses "cookies." We may also use cookies and other tracking code if we send emails to you. A cookie or other tracking code is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. Generally, We use cookies to remind Us of who you are, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online service providers to track visits to our Site, and to track your status in our promotions, and/or analyze your visiting patterns. Certain of our service providers may use cookies and collect information on our behalf. They are prohibited by our contract with them from sharing that information with anyone other than Us or our other service providers. In addition, in connection with the services that they provide to Us, certain of our service providers may work with third parties who may use cookies to collect anonymous information to tailor advertising for you and others elsewhere on the Web. These third parties do not have access to any personal information about you. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of the Site or our services may not work if you delete or disable cookies.</p>
-<p>We also use pixel tags (also called Web beacons or "clear" gifs) on our Site. They help Us analyze what our clients like to do on our Site and the effectiveness of our features and advertising. They can also help Us customize your browsing and shopping experience. We may use information collected through pixel tags or tracked links in combination with your personal information. We may also combine personal information you provide to Us with other personal information (such as purchase history and demographic information). We often work with other companies to help Us track, collect and analyze this information but they are prohibited from using this information for any other purpose.</p>
-<p>We may also work with advertising partners (like Google and Mediaforge) that use cookies, pixel tags and other tracking technologies to serve advertisements on behalf of their retail clients, including Us, across the Internet, including to you after you have visited our Site. These advertising partners may change from time to time. These advertising partners engage in remarketing, online behavioral advertising and ad delivery and reporting. With respect to Us, these advertising partners may collect anonymous information about your browser as it makes visits to websites across the Internet (including our Sites) and your interaction with our advertising and e-mail communications. This anonymous information may also be used to tailor advertising for you and others elsewhere on the Internet. We will have access to the information collected by these advertising partners and We can then use it in combination with personal information provided by you to Us to enhance your experience on our Site. We will not share your personal information with these advertising partners. If you would like more information about this practice or would like to know your choices about not having your information used by these companies, please visit http://www.networkadvertising.org/choices/</p>
-<p>Access to Your Information by Third Parties:<br>Whenever We permit a third party to access personal information, commercially appropriate procedures will be followed to help ensure that such information is used only by authorized persons for authorized purposes in a manner consistent with the choices you have made under this Privacy Policy, and that the security, integrity, and privacy of the information is maintained. As described above, from time to time, We may share your information with outside third party service providers authorized to use this information solely to perform services on our behalf. We may also share aggregate information about our customers with advertisers and marketing partners. This information does not identify individual users or use personal information. In certain limited circumstances We may disclose personal information when We believe it is necessary to identify, contact, or bring legal action against persons or entities in order to protect Us or our customers or when We believe that the law or legal process requires such disclosure.</p>
-<p>Any personal information that you include in any content submitted by you when using Our interactive services (including photographs or other user generated content) or through Third Party Sites may be displayed on our Site, so please consider this before submitting any such content. Please don't submit any information that you don't want the whole world to know!</p>
-<p>We do not currently sell or license personal information to unaffiliated third parties. Before selling or licensing your personal information, We will post a notice in this Privacy Policy and on the home page of the Site. However, We may share personal information with our parent company, Sephora USA, Inc. or our other affiliates. In the event that another company buys the assets or stock of Kendo Holdings Inc., your personal information may be shared with the other company who may then use and disclose your personal information for substantially similar purposes as described in this Privacy Policy. We may also share this information with prospective purchasers so that they may determine whether to proceed with the transaction.</p>
-<h2>CHILDREN’S PRIVACY STATEMENT</h2>
-<p>We comply with the Children's Online Privacy Protection Act of 1998. If you are under the age of 13, you can look at our Site, but you cannot make a purchase, use any service on our Site that asks for personal information and you cannot use Social Log-In. Our Site is not designed for children. We do not wish to collect any information from children under 13. If We become aware that we have inadvertently received personal information from a child under the age of 13, We will delete such information from our records. This policy is designed to protect children. Federal law requires Us to take special steps to safeguard children's privacy. For more information about this federal law and about children’s privacy, click here.</p>
-<h2>SOCIAL MEDIA AND OTHER THIRD PARTIES</h2>
-<p>In the future, We may work with application developers who specialize in social media so We can connect to your social networks like Twitter, Instagram and YouTube. All of these companies operate Third Party Sites. We may provide access to our Site by third parties and business partners so We can generate interest in our products among members of your social networks and to allow you to share product interests with friends in your network.</p>
-<p>The use of any features made available to you on our Site by a third party may result in information being collected or shared about you by Us or by the third party. Information collected or shared through any such third party features is considered "public information" by Us because the Third Party Sites made it publicly available (except where applicable privacy laws where you reside consider that information to be personal information). If you do not want Us to be able to access information about you from Third Party Sites, you must instruct Third Party Sites not to share the information (for example, by adjusting your privacy settings in your account with such Third Party Site). We cannot control how your data is collected, stored, used or shared by Third Party Sites or to whom it is disclosed. Please be sure to review the privacy policies and privacy settings on your social networking sites to make sure you understand the information they are sharing. If you do not want a Third Party Site to share information about you, you must contact that site and determine whether it gives you the opportunity to opt out of sharing such information. We are not responsible for how these third parties may use information collected from or about you.</p>
-<h2>QUESTIONS AND COMMENTS?</h2>
-<p>This Privacy Policy has been developed out of respect for the privacy preferences and choices of customers of and visitors to our Site. We have established procedures to ensure that reasonable effort is made to address your concerns. Questions or comments may be directed to:</p>
-<p>information@KatVonDBeauty.com or</p>
-<p>Kat Von D Beauty<br>Attn: Privacy Officer<br>c/o Kendo Holdings Inc.<br>425 Market Street, 19th Floor<br>San Francisco, CA 94105</p>
-<h2>YOUR CALIFORNIA RIGHTS</h2>
-<p>Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. In particular, the law provides that companies must inform consumers about the categories of personal information that have been shared with third parties, the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. To request a copy of the information disclosure provided by Kendo Holdings, Inc. pursuant to Section 1798.83 of the California Civil Code, please contact us via email or at the address stated above. Please allow 30 days for a response.</p>
-<p>If you wish to request access to or correction of your personal information in our custody or control, you may write to the above address. Your right to access or correct your personal information is subject to applicable legal restrictions. We may take reasonable steps to verify your identity before granting access or making corrections. You may withdraw your consent to our collection, use and disclosure of personal information at any time, subject to contractual and legal restrictions and reasonable notice. Note that if you withdraw your consent to certain uses of your personal information, We may no longer be able to provide certain of our products or services to you.</p>
+<p><em><strong>Effective Date: September 19, 2018</strong></em></p>
+<p><strong>Kendo Holdings, Inc. and our affiliates (hereinafter “Kendo” or “Company”) care about the processing, confidentiality and safety of your personal data.</strong></p>
+<p><strong>This policy applies to KVD Beauty, LLC, a subsidiary of Kendo, located at www.katvondbeauty.com. We refer to Kendo and the website together as "Kendo", "we", "us" or "our."</strong></p>
+<p><strong>The aim of this privacy policy is to provide you with clear, simple and complete information about how we process the personal data you give us or the data we may collect while you are browsing all websites operated by us, including other media forms, media channels, mobile website or mobile application related or connected thereto (hereinafter collectively, the “website”), how it may be transferred to third parties and your rights and options to control your personal information and protect your privacy.</strong></p>
+<p>&nbsp;</p>
+<p><strong>I. What is personal data? </strong></p>
+<p>Personal data is any information about an identified physical person or a physical person that may be directly or indirectly identified via an identification number or one or more elements particular to them, such as their last name, first name, date of birth, customer number, order number, photo, etc.</p>
+<p>&nbsp;</p>
+<p><strong>II. When do we collect your personal data?</strong></p>
+<p>We may collect your personal data when you:</p>
+<ul>
+<li>create a customer account on our website, apps, or in our stores</li>
+<li>order goods from our website</li>
+<li>make purchases in stores</li>
+<li>agree to receive marketing communications from us by email, telephone, SMS or post, depending on your selection</li>
+<li>answer surveys or satisfaction questionnaires based on your customer experience</li>
+<li>interact with our Company via its official page on social networks or when we suggest re-use of content that you have published on a social network</li>
+<li>contact our customer service</li>
+<li>send requests for information to our Company</li>
+<li>take part in an event we organize</li>
+<li>browse on the Internet using cookies or similar technology or when you click on advertisements for our products</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>III. What personal data might we collect?</strong></p>
+<p>(i) As part of the services we provide, we may need to collect certain data directly from you using electronic forms on our website, mobile apps or in selected stores, or in paper form, for a range of purposes (see Section IV for a list of processing purposes).</p>
+<p>Information we might collect includes:</p>
+<ul>
+<li>Your identity (e.g. first name, last name, date of birth</li>
+<li>Your contact details (e.g. email address, mailing address)</li>
+<li>Your personal preferences in relation to the products we market or to our website (language)</li>
+<li>Information relating to your orders, their tracking and your purchase invoices</li>
+<li>Information you may provide to our customer service center</li>
+<li>Specific health data if you notify us of any undesirable side-effects concerning any of our products</li>
+<li>Your credit card information if you place an order via our website</li>
+<br>
+</ul>
+<p>Important: your credit card information is encrypted on Kendo servers. Payments are processed via a secured payment platform, involving additional verifications, in order to guarantee the security of purchases made on the Website, and combat fraud. The details you provide of your Payment Card when placing an order are always encrypted prior to transit using an SSL (Secure Socket Layer) protocol.</p>
+<p>Personal data essential to Kendo is marked with an asterisk on all personal data collection forms on our website, in electronic form at some of our counters and stores, as well as off-line in paper form. If you do not fill in these compulsory fields, Kendo will probably be unable to respond to your request and/or provide you with the requested services. Other information is optional and enables us to get to know you better and improve our communications and services with respect to you.</p>
+<p>(ii) We may also collect certain data generated by your purchases of products or services, online or in stores, particularly information regarding the amount and type of your purchases.</p>
+<p>(iii) We may collect information regarding the use of our website, especially with respect to your browsing (pages visited, links clicked, etc.). Some of this information may be collected using cookies placed in your web browser when you browse our website. For more information about cookies, read Section XI of this policy.</p>
+<p>(iv) If you apply for a job with our Company via our website, we may collect the following information:</p>
+<ul>
+<li>Your identity</li>
+<li>Your contact details</li>
+<li>Your resume</li>
+<li>Your cover letter</li>
+<br>
+</ul>
+<p>As this data concerns your application, please inform us in writing of any changes to your contact details or, more generally, to your career and employment situation, to help us to manage your application efficiently.</p>
+<p>&nbsp;</p>
+<p><strong>IV. For what purpose is your personal data collected and used?</strong></p>
+<p>Kendo processes your data to:</p>
+<ul>
+<li>enable you to create a customer account on our website, at our counters and in our stores</li>
+<li>manage your access to your customer account</li>
+<li>process and manage your online orders and their delivery</li>
+<li>record purchases made at our counters or in our stores</li>
+<li>secure online transactions, prevent fraud and manage debt collection (see our terms and conditions for more details)</li>
+<li>manage customer relations with respect to any requests for information or complaints you may send us via our website, customer service or social network pages</li>
+<li>trace and manage any alerts you may send us as part of our cosmetic vigilance obligations</li>
+<li>manage and optimise your customer experience by improving our knowledge of our customers</li>
+<li>propose appropriate, tailored services, particularly when we enhance our products and services</li>
+<li>conduct statistical analyses to develop management, measuring and reporting tools in order to adjust and improve our sales, marketing and product manufacturing</li>
+<li>subject to your consent, send you information on our offers, news and events on your chosen communication media</li>
+<li>manage your participation in any events to which you have signed up</li>
+<li>manage any online job applications</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>V. What legal grounds legitimize the processing of your data?</strong></p>
+<p>Kendo processes your personal information:</p>
+<ul>
+<li>to perform the contract agreed between yourself and Kendo, to manage your access to your customer account and to process and track your orders</li>
+<li>within the framework of its legitimate interest for the purposes of marketing management, securing its digital media (websites, applications, etc.) and preventing fraud</li>
+<li>when you have given your consent for the processing of your data, especially for the purposes of managing our sales prospection, and in connection with your browsing data via cookies, etc.</li>
+<li>to comply with our legal and regulatory obligations</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>VI. Who are the recipients of your personal data?</strong></p>
+<p>Your personal data is processed by the personnel of Kendo. We ensure that only authorized persons within Kendo have access to your personal data and that such access is granted only as necessary for managing our commercial relations or meeting our legal obligations.</p>
+<p>We may also share your personal data with:</p>
+<ul>
+<li>our corporate affiliates, including across Brands, and other entities in the LVMH Moët Hennessy-Louis Vuitton Group, with some of these entities acting as data processors</li>
+<li>the acquiring company in the event another company acquires our company, business, or our assets</li>
+<li>subcontractors, such as:
+<ul>
+<li>site hosting and maintenance service providers and the providers of our electronic personal data collection solutions at counters and in stores</li>
+<li>payment service providers</li>
+<li>anti-fraud service providers</li>
+<li>logistic service providers</li>
+<li>marketing solution service providers</li>
+<li>sales prospection and social network communication service providers</li>
+<li>customer service providers</li>
+<li>service providers for managing regulatory alerts or notifications</li>
+<li>event organization service providers</li>
+<br>
+</ul>
+</li>
+</ul>
+<p>Lastly, Kendo may need to share your personal data with third parties to meet its legal, regulatory or treaty obligations, or to respond to requests from authorized legal authorities.</p>
+<p>&nbsp;</p>
+<p><strong>VII. Security Measures</strong></p>
+<p>No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal data from unauthorized access, use, or disclosure, we cannot guarantee the security of your personal data. In the event that we are required by law to inform you of any unauthorized access to your personal data we may notify you electronically, in writing, or by telephone, if permitted to do so by law.</p>
+<p>&nbsp;</p>
+<p><strong>VIII. International Transfer of Personal Data</strong></p>
+<p>With respect to personal data collected on the website, Kendo is the data controller for purposes of the Regulation (EU) 2016/679 on the protection of natural persons with regard to the processing of personal data and the free movement of such data (hereinafter the "GDPR").</p>
+<p>We store personal data about our website visitors and subscribers within the United States. If you are visiting our website from the European Economic Area or other regions with laws governing data collection and use, you are agreeing to the transfer of your personal information to the United States. By providing us your personal information, you consent to any transfer and processing in accordance with this Policy.</p>
+<p>All data transfers are subject to appropriate guarantees, especially contractual, technical and organizational guarantees, that comply with applicable regulations relating to the protection of personal data.</p>
+<p>&nbsp;</p>
+<p><strong>IX. How long do we keep your data?</strong></p>
+<p>We keep and process your personal data for as long as it is required in order to fulfil the purposes described in this Privacy Policy and as long as it may be required by law such as for regulatory, tax and accounting purposes.</p>
+<p>&nbsp;</p>
+<p><strong>X. What are your rights and how can you exercise them?</strong></p>
+<p>Under current regulations, including the GDPR, you may have the right to access and correct your personal data, request erasure, object to processing on legitimate grounds and obtain limitation or portability, where applicable.</p>
+<p>You can exercise these rights directly with Kendo by sending an email to <a href="mailto:kvdprivacy@kendobrands.com">kvdprivacy@kendobrands.com</a> or by mailing a non-registered letter with a document proving your identity to the below address:</p>
+<p>Kendo Holdings, Inc.<br>
+Legal Department, Privacy<br>
+425 Market Street, 19th Floor<br>
+San Francisco, CA 94105</p>
+<p>If, at any time, you no longer wish to receive details of our offers, news and events, you can unsubscribe using the hypertext link provided for this purpose in each mail we send you. You can also telephone us at 1-844-500-5832 or send a letter to:</p>
+<p>Kendo Holdings, Inc.<br>
+Legal Department, Privacy<br>
+425 Market Street, 19th Floor<br>
+San Francisco, CA 94105</p>
+<p><strong>Your California Privacy Rights</strong></p>
+<p>California Civil Code Section 1798.83 permits customers of Kendo who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at the following address:</p>
+<p>Kendo Holdings, Inc.<br>
+Legal Department, Privacy<br>
+425 Market Street, 19th Floor<br>
+San Francisco, CA 94105</p>
+<p>California residents may be entitled to ask us for a notice describing what categories of personal information (if any) we share with third parties or affiliates for direct marketing. If you are a California resident and would like a copy of such notice, please submit a written request using the contact information provided above.</p>
+<p><strong>Online Tracking</strong></p>
+<p>We do not currently recognize automated browser signals regarding tracking mechanisms, which may include "Do Not Track" instructions.</p>
+<p style="margin-left: 40px;"><strong>XI. Contact details of the Data Protection Officer (DPO) and your right to lodge a complaint</strong></p>
+<p>For all questions relating to the collection and processing of your data by Kendo, you can contact the Kendo Data Protection Officer at <a href="mailto:dpo@kendobrands.com">dpo@kendobrands.com</a>. If you are not satisfied with our response and are in the European Union, you may have a right to lodge a complaint with your local supervisory authority.</p>
+<p style="margin-left: 40px;"><strong>XII. Information on Cookie Management</strong></p>
+<p>This section is dedicated to our policy for managing cookies on the website. It has been designed to provide you with information on the origin and use of browsing data processed when you use our website, together with your rights.</p>
+<p><u><strong>What is a Cookie?</strong></u></p>
+<p>When you use our website, we may, depending on your choice, place a text file on your terminal (computer, smart phone or tablet) via the web browser.</p>
+<p>This text file is a cookie. Throughout the period of validity or registration, it will enable Kendo to identify your terminal during subsequent visits.</p>
+<p>Only the entity issuing the cookies is able to read or modify the information they contain.</p>
+<p>Below you will find information about the cookies that may be placed on your terminal when you visit the pages of the website, either by Kendo, or by third parties, together with ways in which you can delete or refuse installation of these cookies.</p>
+<p><u><strong>What is the purpose of the cookies issued on the website?</strong></u></p>
+<p>There are several types of cookies, some of which are issued directly by Kendo and its service providers, while others may be issued by third parties.</p>
+<p><strong>I. </strong><u><strong>Cookies issued by Kendo and its service providers</strong></u></p>
+<p>Different types of cookies may be placed on your terminal while you are browsing on our website:</p>
+<p style="margin-left: 40px;"><em>(i) "Essential" cookies</em></p>
+<p>These cookies are <u>essential</u> for browsing on our website, especially for the functioning of the order process.</p>
+<p>Deletion of these cookies may cause problems with browsing on our website and make it impossible for you to place an order.</p>
+<p>These cookies are also necessary for tracking the activity of Kendo.</p>
+<p>They may be installed on your terminal by Kendo or by its service providers.</p>
+<p style="margin-left: 40px;"><em>(ii) "Analysis and Customization" cookies</em></p>
+<p>These cookies are not essential to browsing on our website, but may help you, for example, to search more effectively and optimize your purchasing experience and help us better target your requirements, improve our offer and optimize the functioning of our website.</p>
+<p style="margin-left: 40px;"><em>(iii) "Advertising" cookies</em></p>
+<p>Cookies may also be used for advertising purposes. These cookies ensure that the advertisements you see are the most relevant to you.</p>
+<p><u><strong>What is the benefit of seeing special offers and advertising tailored to your browsing preferences?</strong></u></p>
+<p>The aim is to show you the most relevant offers and advertising. As such, cookie technology enables us to display content, in real-time, that is best suited to your fields of interest, as deduced from your browsing history on our website.</p>
+<p>The interest you show in content displayed on your terminal when you consult a website often determines the advertising resources of this site, enabling it to provide its services, which are often supplied free of charge to users. You likely prefer to see offers and advertising that are relevant to you, rather than content that is of no interest to you at all. Similarly, both Kendo and advertisers want their offers and advertising to be shown to Internet users that are likely to be interested in them.</p>
+<p><u><strong>Important information if you share your terminal with other users</strong></u></p>
+<p>If your terminal is used by several people or when a single terminal has more than one type of browser software, we cannot be sure that the services and advertising sent to your terminal will match your use of the terminal, rather than that of another user.</p>
+<p>In this case, sharing use of your terminal with others and deciding your browser cookie settings are your free choice and your responsibility.</p>
+<p><strong>II. <u>Cookies issued by third-party companies</u></strong></p>
+<p>Kendo participates in behavior-based advertising and permits third parties to use cookies to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests on our website, or on other websites. The issue and use of cookies by third parties on our website are subject to privacy policies concerning these third parties.</p>
+<p>These cookies are not essential to browsing on our website.</p>
+<p>On our website, we may include computer applications from third parties that enable you to share our website content with others, inform others that you have been consulting our website or notify them of your opinion concerning content on our site. This particularly concerns use of the "Share" and "Like" buttons featured on social networks such as Facebook, Twitter, Instagram, Pinterest, etc.</p>
+<p>The social network providing these application buttons is likely to identify you via this button, even if you have not used it when browsing our website.</p>
+<p>Indeed, this type of application button can enable the social network concerned to track your browsing on our website, simply because your account on the social network in question is enabled on your terminal (a session is open) while you are browsing our website.</p>
+<p>We have no control over how social networks collect information regarding your browsing on our website and associated with the personal data they hold.</p>
+<p>We encourage you to read the privacy policies of the social networks to learn about the purpose, especially advertising, of any browsing information they may collect via these application buttons. These privacy policies should enable you to exercise your choices with respect to these social networks, in particular by changing your account settings.</p>
+<p>Visit the websites of the aforementioned social networks for more information about their privacy policies.</p>
+<p><strong>III. </strong><u><strong>Managing the cookies placed in your web browser</strong></u></p>
+<p><strong>You can decide whether to allow cookies to be installed on your terminal.</strong></p>
+<p>By changing the settings of your browser software, you can choose whether to accept the installation of cookies on your terminal at any time, simply and free of charge.</p>
+<p><em>a. Agreeing to Cookies</em></p>
+<p>If your browser software is set to accept the registration of cookies on your terminal, the cookies embedded in the pages and content you have consulted will automatically be registered on your terminal.</p>
+<p><em>b. Refusing Cookies</em></p>
+<p>You can set your browser software so that:</p>
+<ul>
+<li>you are regularly asked if you wish to accept or refuse cookies before a cookie can be registered</li>
+<li>you systematically refuse the registration of cookies on your terminal.</li>
+<br>
+</ul>
+<p><strong>Important: Any adjustments you may make to the settings in your browser software concerning the acceptance or refusal of cookies may modify your browsing on the Internet and your terms of access to certain services requiring use of these cookies.</strong></p>
+<p>For example, by refusing certain essential cookies, you may no longer be able to place orders on our website.</p>
+<p>If you choose to refuse the registration of cookies on your terminal or if you delete cookies that are already registered, we decline all responsibility for any consequences relating to the degraded performance of our services resulting from the fact we are unable to register or consult the cookies required for their performance and which you have refused or deleted.</p>
+<p><em><u>How to exercise your choice, depending on your browser</u></em></p>
+<p>Settings vary from one type of browser software to another. Details can generally be found in your browser software help menu. We therefore encourage you to look at your settings to find out how you can make choices regarding cookies.</p>
+<ul>
+<li>For Internet Explorer: https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer</li>
+<li>For IOS: https://support.apple.com/en-us/ht201265</li>
+<li>For Safari/Mac: https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac</li>
+<li>For Chrome: https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&amp;hl=en</li>
+<li>For Firefox: https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored</li>
+</ul>
 </div>
 
 </section>
@@ -1488,7 +1510,6 @@ Monday to Friday<br>
 </main>
 <footer>
 <div class="center-content">
-<div class="newsletter-footer-container">
 <div class="max-width-container">
 <style type="text/css">
 				
@@ -1508,19 +1529,17 @@ Monday to Friday<br>
 			</style>
 <div class="content-asset  ">
 
-<img alt="Vegan: Made with love, not animals #crueltyfree" src-cdn="homepage/vegan-logo-black.jpg" style="width:100%; height:auto; max-width: 25rem;">
-<span class="serif">Be A Part Of <span class="show-on-mobile"><br></span>The Community</span>
-<span class="description">
-<span class="text">Sign up now and never miss a thing</span>
-</span>
-<a id="EmailSignup" title="EmailSignup"></a>
+<img alt="Vegan: Makeup made with love, not animals #crueltyfree" src-cdn="homepage/vegan-logo-black-new.jpg" style="width:100%; height:auto; max-width: 25rem;" class="footerVeganImage">
 </div>
+
+</div>
+<div class="newsletter-footer-container">
+<div class="max-width-container">
 
 <div class="newsletter-footer-signup">
 <form action="/on/demandware.store/Sites-KVD-Site/default/Newsletter-FooterSubscribe" method="post">
 <input type="hidden" name="ltkSubscriptionCode" value="footersignup">
-<input data-required-text="Please enter a valid email address" type="email" placeholder="enter your email address" name="email" class="email required">
-
+<input data-required-text="Please enter a valid email address" type="email" placeholder="Enter your email address to subscribe" name="email" class="email required">
 <button type="submit" value="submit" class="newsletter-submit" data-gtm-event="newsletter" data-gtm-info="footer">
 <span>
 submit
@@ -1528,6 +1547,42 @@ submit
 </button>
 </form>
 </div>
+</div>
+</div>
+<div class="sms-footer-container">
+<div class="max-width-container">
+<div class="sms-footer-signup">
+<form action="/on/demandware.store/Sites-KVD-Site/default/SMS-FooterSubscribe" method="post">
+<input type="hidden" name="ltkSMS" value="footersignup">
+<input data-required-text="Please enter a valid phone number" type="tel" placeholder="Enter Your US Phone Number for Text Alerts" name="phone" class="phone smsphone  required">
+<button type="submit" value="submit" class="sms-submit" data-gtm-event="sms" data-gtm-info="footer">
+<span>
+submit
+</span>
+</button>
+</form>
+</div>
+<style type="text/css">
+				
+				
+				
+				
+    			
+    					
+    			
+    			
+    			
+    			
+    			
+    			
+    			
+    					
+			</style>
+<div class="content-asset  ">
+
+<div class="subtext">By subscribing to Kat Von D Beauty Text Alerts I agree to receive up to [X] marketing messages/month from KVD Beauty, LLC via automated technology to this number and agree to the program terms and conditions available at <a href="https://www.katvondbeauty.com/terms-of-use.html">terms and conditions</a>. Message and data rates may apply. Consent is not required to make a purchase. Reply HELP for help or STOP to opt-out.</div>
+</div>
+
 </div>
 </div>
 <div class="site-footer-links checkout">
@@ -1579,6 +1634,10 @@ div.level-3 { padding-left:0}
     					
     			
     			
+					@media screen and (min-width: 768px) {
+	    				.pt_product-details .product-col-2 #product-set-list div.add-all { float: none; }
+	    			}
+    			
     			
     			
     			
@@ -1592,10 +1651,6 @@ div.level-3 { padding-left:0}
 <div class="max-width-container">
 <ul class="menu-footer">
 <li><a data-gtm-event="footerClick" data-gtm-info="Contact Us" href="https://www.katvondbeauty.com/contact">Customer Service</a></li>
-<li><span class="diamond-after">&nbsp;</span><a data-gtm-event="footerClick" data-gtm-info="eGift Card" href="https://www.katvondbeauty.com/egift-cards">E-Gift Cards</a></li>
-<li><span class="diamond-after">&nbsp;</span><a data-gtm-event="footerClick" data-gtm-info="My Account" href="https://www.katvondbeauty.com/account">My Account</a></li>
-<li><span class="diamond-after">&nbsp;</span><a data-gtm-event="footerClick" data-gtm-info="Shipping Information" href="https://www.katvondbeauty.com/shipping-info.html">Shipping Information</a></li>
-<li><span class="diamond-after">&nbsp;</span><a data-gtm-event="footerClick" data-gtm-info="Wish List" href="https://www.katvondbeauty.com/wish-list">Wish List</a></li>
 <li><span class="diamond-after">&nbsp;</span>
 <svg class="mobile-phone" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>telephone@2x</title>
@@ -1612,13 +1667,17 @@ div.level-3 { padding-left:0}
 </g>
 </g>
 </svg> 1-844-500-5832</li>
+<li><span class="diamond-after">&nbsp;</span><a data-gtm-event="footerClick" data-gtm-info="eGift Card" href="https://www.katvondbeauty.com/egift-cards">E-Gift Cards</a></li>
+<li><span class="diamond-after">&nbsp;</span><a data-gtm-event="footerClick" data-gtm-info="My Account" href="https://www.katvondbeauty.com/account">My Account</a></li>
+<li><span class="diamond-after">&nbsp;</span><a data-gtm-event="footerClick" data-gtm-info="Shipping Information" href="https://www.katvondbeauty.com/shipping-info.html">Shipping Information</a></li>
+<li><span class="diamond-after">&nbsp;</span><a data-gtm-event="footerClick" data-gtm-info="Wish List" href="https://www.katvondbeauty.com/wish-list">Wish List</a></li>
+<li><span class="diamond-after">&nbsp;</span><a data-gtm-event="footerClick" href="https://www.kendobrands.com/careers" target="_blank">Careers</a></li>
 </ul>
 </div>
 </div>
 
 </div>
 <div class="footer-icons">
-
 <style type="text/css">
 				
 				
@@ -1700,6 +1759,30 @@ div.level-3 { padding-left:0}
 				
 				
 					a {color:#fff}
+[data-vv-id="the-fawn-set-1"] { opacity: 1 !important; }
+[data-vv-id="bestselling-nudes"] { opacity: 1 !important;}
+[data-vv-id="tara-bridal"] { opacity: 1 !important; }
+[data-vv-id="leah-brow-bundle"] { opacity: 1 !important; }
+[data-vv-id="steffanie-bundle"] { opacity: 1 !important; }
+[data-vv-id="kelseyanna-bundle"] { opacity: 1 !important; }
+[data-vv-id="leah-bundle"] { opacity: 1 !important; }
+[data-vv-id="tara-bundle"] { opacity: 1 !important; }
+[data-vv-id="volume-1"] { opacity: 1 !important; }
+[data-vv-id="volume-2"] { opacity: 1 !important; }
+[data-vv-id="volume-3"] { opacity: 1 !important; }
+[data-vv-id="volume-4"] { opacity: 1 !important; }
+[data-vv-id="the-fawn-set-1"] span.x.variant { display: none; }
+[data-vv-id="bestselling-nudes"] span.x.variant { display: none;}
+[data-vv-id="tara-bridal"] span.x.variant { display: none; }
+[data-vv-id="leah-brow-bundle"] span.x.variant { display: none; }
+[data-vv-id="steffanie-bundle"] span.x.variant { display: none; }
+[data-vv-id="kelseyanna-bundle"] span.x.variant { display: none; }
+[data-vv-id="leah-bundle"] span.x.variant { display: none; }
+[data-vv-id="tara-bundle"] span.x.variant { display: none; }
+[data-vv-id="volume-1"] span.x.variant { display: none; }
+[data-vv-id="volume-2"] span.x.variant { display: none; }
+[data-vv-id="volume-3"] span.x.variant { display: none; }
+[data-vv-id="volume-4"] span.x.variant { display: none; }
 				
 				
 				
@@ -1716,7 +1799,7 @@ div.level-3 { padding-left:0}
 			</style>
 <div class="content-asset  ">
 
-<p><span class="bold">ABOUT US</span> If you wanna know who Kat Von D Beauty is, all you gotta do is look in the mirror. We’re artistry for the people, by the people, powered by long lasting, high pigment, cruelty free makeup. Born from Kat’s relentless pursuit of product perfection, our mission is to create hyper-performance <a href="https://www.katvondbeauty.com/shop-all-products/vegan">vegan makeup</a> so everyone can make compassionate choices without sacrificing bold, beautiful color and everlasting wear. Fuel your self expression with an award-winning lineup of <a href="https://www.katvondbeauty.com/eye/eyeliner">waterproof liners</a>, <a href="https://www.katvondbeauty.com/shop-all-products/eye">eye makeup</a>, prismatic highlighters, <a href="https://www.katvondbeauty.com/search?cgid=tools">vegan makeup brushes</a>, and the iconic <a href="https://www.katvondbeauty.com/shop-all-products/lip">liquid lipsticks</a> that started the craze. Kat Von D Beauty has rocked the beauty world with artistry-inspired <a href="https://www.katvondbeauty.com/shop-all-products/face">makeup products</a> that empower you to unleash your boldest self. Go ahead and break the beauty rules—we can’t wait to see what you create!</p>
+<p><span class="bold">ABOUT US</span> If you wanna know who <a href="https://www.katvondbeauty.com/">Kat Von D Beauty</a> is, all you gotta do is look in the mirror. We’re artistry for the people, by the people, powered by long lasting, high pigment, cruelty free makeup. Born from Kat’s relentless pursuit of product perfection, our mission is to create hyper-performance <a href="https://www.katvondbeauty.com/shop-all-products/vegan">vegan makeup</a> so everyone can make compassionate choices without sacrificing bold, beautiful color and everlasting wear. Fuel your self expression with an award-winning lineup of <a href="https://www.katvondbeauty.com/eye/eyeliner">waterproof liners</a>, <a href="https://www.katvondbeauty.com/shop-all-products/eye">eye makeup</a>, prismatic <a href="https://www.katvondbeauty.com/face/highlighter">highlighters</a>, <a href="https://www.katvondbeauty.com/shop-all-products/brushes">vegan makeup brushes</a>, and the iconic <a href="https://www.katvondbeauty.com/shop-all-products/lip">liquid lipsticks</a> that started the craze. Kat Von D Beauty has rocked the beauty world with artistry-inspired <a href="https://www.katvondbeauty.com/shop-all-products/shop-all">makeup products</a> that empower you to unleash your boldest self. Go ahead and break the beauty rules—we can’t wait to see what you create!</p>
 </div>
 
 </div>
@@ -1746,8 +1829,9 @@ header nav div.level-2 {
 			</style>
 <div class="content-asset  ">
 
-<span class="uppercase"><a href="https://www.katvondbeauty.com/terms-of-use.html" data-gtm-event="footerClick" data-gtm-info="Legal">Legal</a></span>
+<span class="uppercase"><a href="https://www.katvondbeauty.com/terms-of-use.html" data-gtm-event="footerClick" data-gtm-info="Legal">Terms of Use</a></span>
 <span class="uppercase"><a href="https://www.katvondbeauty.com/privacy-policy.html" data-gtm-event="footerClick" data-gtm-info="Privacy">Privacy</a></span>
+<span class="uppercase"><a href="https://www.katvondbeauty.com/supply-chain-transparency.html" data-gtm-event="footerClick" data-gtm-info="">CA Supply Chain Act</a></span>
 <span class="copyright">
 <span class="copyright">© <script type="text/javascript">
   var theDate=new Date()
@@ -1767,19 +1851,6 @@ header nav div.level-2 {
 </div>
 </div>
 </footer>
-<script type="text/javascript">
-	if(monetateData.setPageType == "unknown") {
-		monetateData.trackUnknownPage = function() {
-			window.monetateQ.push(["setPageType", monetateData.setPageType]);
-			
-			if(monetateData.addCartRows) window.monetateQ.push(["addCartRows", monetateData.addCartRows]);
-			if(monetateData.breadCrumbs) window.monetateQ.push(["addBreadcrumbs", monetateData.breadCrumbs]);
-	
-			window.monetateQ.push(["trackData"]);
-		};
-		monetateData.trackUnknownPage();
-	}
-</script>
 <script type="text/javascript">
 	var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
 	document.write(unescape("%3Cscript defer src='" + biJsHost + "cdn.listrakbi.com/scripts/script.js?m=hWeOkMupOsKa&v=1' type='text/javascript'%3E%3C/script%3E"));
@@ -1956,13 +2027,24 @@ var callbacks = {};
 
 
 
+$(document).ready(function() { //load on ready to prevent early firing
+//This refers to the bundle WITHOUT steps
+callbacks['BundleAddToCart'] = function(tthis) {
+var rreturn = {};
+if ($('.bundle-qty').length > 0){
+$("input[name=Quantity]").val($(".bundle-qty").val());
+}
+return rreturn;
+}
+});
 (function(app){
-window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","PI_METHOD_GIFT_CERTIFICATE":"GIFT_CERTIFICATE","SITE_ID":"KVD","flashMinicartTotal":false,"gridcontentBreakpoints":["0|2","768|3","769|4"],"hideOlapicTagsOnHover":false,"initNavStyle":false,"initShopThatLook":false,"initPDPTabs":false,"minicartForceDelay":null,"minicartLoadBonusOption":true,"minicartSelector":"div.mobile-right #mini-cart","minicartSlideDown":"slow","minicartSlideTimer":6000,"minicartTimer":800,"minicartTotalSelector":".mini-cart-total","mobileAccordianTabs":true,"mobileToggleWidthVar":1100,"opScrollTopValues":[150,150,150,150,150,150],"pdpResponsiveTabsStartCollapsed":true,"qvWidth":920,"scrollSearchSuggestions":false,"selectricArrowButtonMarkup":"<div class=\"select-dropdown-button\"><svg version=\"1.1\" xmlns:x=\"&ns_extend;\" xmlns:i=\"&ns_ai;\" xmlns:graph=\"&ns_graphs;\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 17 13\" style=\"enable-background:new 0 0 17 13;\" xml:space=\"preserve\"><metadata><sfw xmlns=\"&ns_sfw;\"><slices></slices><sliceSourceBounds x=\"0\" y=\"0\" bottomLeftOrigin=\"true\"></sliceSourceBounds></sfw></metadata><path d=\"M0.3,0.1l7.9,12.5l7.9-12.5\"/></svg></div>","shadefinder":false,"shadefinderDialogClass":"mjb-compare-dialog","shadefinderDialogMaxWidth":"100%","shadefinderDialogWidth":"100%","shadefinderSelector":".color-compare a","shopthatlookNewWindow":false,"stickyAddHeight":20,"stickyPoint":60,"stickyRefinementVars":[85,800,500,320],"stickyUpdateMarginTop":false,"toggleWidthVar":1099,"variantAppendVideos":false,"videoControl":".video-container .controls button:not(.slick-arrow)","videoDialogClass":"video-dialog","videoDialogWidth":1200,"videoStepsFO":50,"widthVari":769};
-window.Resources = {"device":"desktop","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Free Gift(s)","SELECT_BONUS_PRODUCT":"Select","SELECT_BONUS_NO_THANKS":"No Thanks","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","SIMPLE_SEARCH":"Enter Keyword or Item #","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","SIGNUP_FOOTER_INPUT":"enter your email address","SIGNUP_FOOTER_INPUT_MOBILE":"Enter your email address","SIGNUP_FOOTER_BUTTON":"submit","SIGNUP_FOOTER_BUTTON_MOBILE":"signup.footer.submit.mobile","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_TERMSCHECK":"Please accept the terms and conditions.","INVALID_PHONE":"Please use the specified format: 555-555-5555","INVALID_ZIPCODE":"Required","EMAIL_MISMATCH":"Your email addresses do not match.","PASSWORD_MISMATCH":"Your passwords do not match.","INSUFFICIENT_PASSWORD":"Please enter a valid password of at least 8 characters.","INVALID_EMAIL":"Please enter a valid email address.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart ","ADD_TO_CART_SUCCESS":"Added!","ADD_TO_CART":"Add to Cart","ADD_TO_BAG":"global.addtobag","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid E-Gift Card Information","GIFT_CERT_BALANCE":"Your current E-Gift Card balance is ","GIFT_CERT_AMOUNT_INVALID":"E-Gift Card can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a E-Gift Card code.","GIFT_CERT_PIN_MISSING":"Please enter a card pin.","COUPON_CODE_MISSING":"Please Enter a Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"{0} / {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"Expected To Ship {0}","INIFINITESCROLL":"Show All","QUICKVIEW":"QuickView","QUICKLOOK":"Quickview","CREDIT_CARD_PAYMENT_PROCESSOR_ID":"CYBERSOURCE_CREDIT","USER_LOGGED_IN":false,"USER_LOGIN_FAIL":false,"NEWSLETTER_INVALID_EMAIL":"enter a valid email","NEWSLETTER_INVALID_MOBILE_EMAIL":"newsletter.error.mobile.invalid-email","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"PRE-ORDER","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"BACKORDERED","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-KVD-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-KVD-Site/default/Page-Include","continueUrl":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/Page-Show/C432906893","staticPath":"/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/","addGiftCert":"/egift-cards","minicartGC":"/on/demandware.store/Sites-KVD-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-KVD-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-KVD-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.katvondbeauty.com/wallet","addressesList":"https://www.katvondbeauty.com/address-book","wishlistAddress":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-KVD-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-KVD-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-KVD-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-KVD-Site/default/Cart-AddBonusProduct","removeBonusBundle":"/on/demandware.store/Sites-KVD-Site/default/Product-RemoveBonusBundle","getSetItem":"/on/demandware.store/Sites-KVD-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-KVD-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-KVD-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-KVD-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-KVD-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-KVD-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-KVD-Site/default/COBilling-UpdateSummary","coSummaryStart":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COSummary-Start","coBillingStart":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COBilling-Start","coShippingStart":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COShipping-Start","billingSelectCC":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-KVD-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-KVD-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-KVD-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-KVD-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-KVD-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COBilling-GetGiftCertificateBalance","addCoupon":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/Cart-AddCoupon","storeLocatorLoad":"/on/demandware.store/Sites-KVD-Site/default/Stores-Load","storeLocatorPage":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/StoreInventory-Find","storesInventory":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/StoreInventory-Inventory","storesLookup":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-KVD-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-KVD-Site/default/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-KVD-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-KVD-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-KVD-Site/default/COBilling-Start","currencyConverter":"/on/demandware.store/Sites-KVD-Site/default/Currency-SetSessionCurrency","newsletterModal":"/on/demandware.store/Sites-KVD-Site/default/Newsletter-Signup","updateSocialButtons":"/on/demandware.store/Sites-KVD-Site/default/Product-UpdateSocialButtons","login":"/on/demandware.store/Sites-KVD-Site/default/Account-Login","compareDialog":"/on/demandware.store/Sites-KVD-Site/default/Product-Compare","videoDialog":"/on/demandware.store/Sites-KVD-Site/default/Content-VideoDialog","imageDialog":"/on/demandware.store/Sites-KVD-Site/default/Content-ImageDialog","mobileHeaderCustomerInfo":"/on/demandware.store/Sites-KVD-Site/default/Account-MobileHeaderCustomerInfo","emailBackInStock":"/on/demandware.store/Sites-KVD-Site/default/Product-EmailBackInStock","giftcertcouponsStart":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COBilling-GiftCertCoupon","searchShowContent":"/on/demandware.store/Sites-KVD-Site/default/Search-ShowContent","fetchFolderContent":"/on/demandware.store/Sites-KVD-Site/default/Search-ShowFolderContent","getFolderContent":"/on/demandware.store/Sites-KVD-Site/default/Content-GetFolderContent","videoProduct":"/on/demandware.store/Sites-KVD-Site/default/Content-GetVideoProduct","productClick":"/on/demandware.store/Sites-KVD-Site/default/Product-ClickData","shippingNoticeEU":"/on/demandware.store/Sites-KVD-Site/default/Page-Include?cid=shipping-notice-EU","reloadPaymentInstruments":"/on/demandware.store/Sites-KVD-Site/default/COBilling-ReloadPaymentInstruments","hasOrderableVariants":"/on/demandware.store/Sites-KVD-Site/default/Product-HasOrderableVariants"};
-window.ClientCache = {"ENABLE_ICHECK_SELECTION":false,"DISABLE_MOBILE_SORT_OVERLAP":false,"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":true,"SEARCHCATEGORIES":false,"SEARCHCONTENT":false,"SELECTRIC_BRAND_SETTINGS":"selectric","SELECTRIC_DISABLE_MOBILE":false,"MOBILENAV_BELOW_HEADER_ENABLED":true,"NEWSLETTER_HEADER_FORMAT":"Flyout","NEWSLETTER_FOOTER_TARGET":".newsletter-footer-container .newsletter-footer-signup","NEWSLETTER_POPUP_ENABLED":false,"NEWSLETTER_POPUP_THRESHOLD":1,"NEWSLETTER_POPUP_SLIDEEFFECT":false,"NEWSLETTER_POPUP_SLIDEFOOTER":false,"NEWSLETTER_POPUP_SLIDEHEIGHT":0,"NEWSLETTER_COOKIE_DAYS":30,"SOCIAL_MEDIA_INTEGRATION":"AddThis","EXACTTARGET_CONVERSION":false,"HOMEPAGE_SLIDER_AUTOPLAY_ENABLED":true,"HOMEPAGE_SLIDER_AUTOPLAY_TIMER":5000,"STICKY_HEADER":true,"STICKY_REFINEMENTS":true,"HTTP_LOGIN_ENABLE":true,"GOOGLE_ANALYTICS_ENABLED":false,"GOOGLE_ANALYTICS_ID":"UA-55932707-3","GOOGLE_TAG_MANAGER_ENABLED":true,"GOOGLE_TAG_MANAGER_ID":"GTM-K4ZZT5","ENABLE_EMAIL_BACK_IN_STOCK":true,"ENABLE_GRID_EXPAND_COLLAPSE":false,"FACEBOOK_APP_ID":"959144497495591","GRID_ROW_TILE_AMOUNT":"{\n\t\"mobile\": {\n\t\t\"tiles\": 2\n\t},\n        \"tablet\": {\n\t\t\"screenWidth\": 767,\n\t\t\"tiles\": 3\n\t},\n\t\"desktop\": {\n\t\t\"screenWidth\": 768,\n\t\t\"tiles\": 4\n\t}\n}","DISABLE_QV":false,"VIDEO_DIALOG_TOP":true,"TGCOMMERCE_SHIPPING_METHOD":"TGCommerce","TGCOMMERCE_HIDE_POSTAL_CODE":"AI,AG,AN,AW,BS,BH,BB,BZ,BM,VG,BI,CV,KY,CF,XC,DM,GQ,ER,FK,FJ,GI,GD,HT,HK,IE,JM,KW,MO,MS,NR,NO,NI,PA,WS,ST,SA,SB,XN,XS,SS,SR,TL,TO,TV,AE,VU,ZM,CD,CW,DJ","JS_INIT_BUNDLE":true,"JS_ENABLE_QUANTITYCHANGER":true,"JS_ENABLE_COLORCOMPARE":true,"JS_ENABLE_VIDEOSTEPS":false,"JS_ENABLE_UPCLOSESWATCH":false,"JS_ENABLE_STICKYSUMMARY":false,"EU_COUNTRIES":["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","NL","PL","PT","RO","SK","SI","ES","SE","GB"]};
+window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE","PI_METHOD_GIFT_CERTIFICATE":"GIFT_CERTIFICATE","SITE_ID":"KVD","donationCOThr":500,"donationCOThrMin":0,"donationCOMsg":"","donationCOMsgMin":"","flashMinicartTotal":false,"finderResultsTarget":"form#email-finder-results","gridcontentBreakpoints":["0|2","768|3","769|4"],"hideOlapicTagsOnHover":false,"initNavStyle":false,"initShopThatLook":false,"initPDPTabs":false,"minicartForceDelay":null,"minicartLoadBonusOption":true,"minicartSelector":"div.mobile-right #mini-cart","minicartSlideDown":"slow","minicartSlideTimer":6000,"minicartTimer":800,"minicartTotalSelector":".mini-cart-total","mobileAccordianTabs":true,"mobileToggleWidthVar":1100,"myAccountBorderStretch":true,"opScrollTopValues":[150,150,150,150,150,150],"pdpResponsiveTabsStartCollapsed":true,"productTileSyncHeightSelectors":[".product-tile-badges",".product-name"],"qvBlurOverlay":false,"qvWidth":920,"scrollSearchSuggestions":false,"selectricArrowButtonMarkup":"<div class=\"select-dropdown-button\"><svg version=\"1.1\" xmlns:x=\"&ns_extend;\" xmlns:i=\"&ns_ai;\" xmlns:graph=\"&ns_graphs;\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 17 13\" style=\"enable-background:new 0 0 17 13;\" xml:space=\"preserve\"><metadata><sfw xmlns=\"&ns_sfw;\"><slices></slices><sliceSourceBounds x=\"0\" y=\"0\" bottomLeftOrigin=\"true\"></sliceSourceBounds></sfw></metadata><path d=\"M0.3,0.1l7.9,12.5l7.9-12.5\"/></svg></div>","shadefinder":false,"shadefinderDialogClass":"mjb-compare-dialog","shadefinderDialogMaxWidth":"100%","shadefinderDialogWidth":"100%","shadefinderSelector":".color-compare a","shopthatlookNewWindow":false,"stickyAddHeight":20,"stickyPoint":60,"stickyRefinementVars":[85,800,500,320],"stickyUpdateMarginTop":false,"toggleWidthVar":1099,"variantAppendVideos":false,"videoControl":".video-container .controls button:not(.slick-arrow)","videoDialogClass":"video-dialog","videoDialogWidth":1200,"videoStepsFO":50,"widthVari":769};
+window.Resources = {"device":"mobile","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","REG_ADDR_ERROR":"Couldn't Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Product(s)","SELECT_BONUS_PRODUCTS":"Select Free Gift(s)","SELECT_BONUS_PRODUCT":"Select","SELECT_BONUS_NO_THANKS":"No Thanks","BONUS_PRODUCT_MAX":"The maximum number of bonus products have been selected.  Please remove one in order to add additional bonus products.","SIMPLE_SEARCH":"Enter Keyword or Item #","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","SIGNUP_FOOTER_INPUT":"Enter your email address to subscribe","SIGNUP_FOOTER_INPUT_MOBILE":"Enter your email address","SIGNUP_FOOTER_BUTTON":"submit","SIGNUP_FOOTER_BUTTON_MOBILE":"signup.footer.submit.mobile","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please Enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response, Parser error","INVALID_TERMSCHECK":"Please accept the terms and conditions.","INVALID_PHONE":"Please use the specified format: 555-555-5555","INVALID_ZIPCODE":"Required","EMAIL_MISMATCH":"Your email addresses do not match.","PASSWORD_MISMATCH":"Your passwords do not match.","INSUFFICIENT_PASSWORD":"Please enter a valid password of at least 8 characters.","INVALID_EMAIL":"Please enter a valid email address.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","STORENAME":"Kat Von D","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added to compare.  Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart ","ADD_TO_CART_SUCCESS":"Added!","ADD_TO_CART":"Add to Cart","ADD_TO_BAG":"global.addtobag","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid E-Gift Card Information","GIFT_CERT_BALANCE":"Your current E-Gift Card balance is ","GIFT_CERT_AMOUNT_INVALID":"E-Gift Card can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a E-Gift Card code.","GIFT_CERT_PIN_MISSING":"Please enter a card pin.","COUPON_CODE_MISSING":"Please Enter a Code","COOKIES_DISABLED":"Your browser currently is not set to accept Cookies. Please turn it on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"{0} / {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"Expected To Ship {0}","INIFINITESCROLL":"Show All","QUICKVIEW":"QuickView","QUICKLOOK":"Quickview","VIEW_MORE_SWATCHES":"View More Colors","VIEW_FEWER_SWATCHES":"View Fewer Colors","CREDIT_CARD_PAYMENT_PROCESSOR_ID":"CYBERSOURCE_CREDIT","USER_LOGGED_IN":false,"USER_LOGIN_FAIL":false,"NEWSLETTER_INVALID_EMAIL":"enter a valid email","SMS_INVALID_PHONE":"Please enter a valid phone number","NEWSLETTER_INVALID_MOBILE_EMAIL":"newsletter.error.mobile.invalid-email","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) In Stock","PREORDER":"PRE-ORDER","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"BACKORDERED","QTY_BACKORDER":"Back Order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-KVD-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-KVD-Site/default/Page-Include","continueUrl":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/Page-Show/C1747286400","staticPath":"/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/","addGiftCert":"/egift-cards","minicartGC":"/on/demandware.store/Sites-KVD-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-KVD-Site/default/Cart-AddProduct","minicartRefresh":"/on/demandware.store/Sites-KVD-Site/default/Cart-MiniCart?minicart=true","minicart":"/on/demandware.store/Sites-KVD-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.katvondbeauty.com/wallet","addressesList":"https://www.katvondbeauty.com/address-book","wishlistAddress":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-KVD-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-KVD-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-KVD-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-KVD-Site/default/Cart-AddBonusProduct","removeBonusBundle":"/on/demandware.store/Sites-KVD-Site/default/Product-RemoveBonusBundle","getSetItem":"/on/demandware.store/Sites-KVD-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-KVD-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-KVD-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-KVD-Site/-/default/dwc8e53f09/images/interface/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-KVD-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-KVD-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-KVD-Site/default/COBilling-UpdateSummary","coSummaryStart":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COSummary-Start","coBillingStart":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COBilling-Start","coShippingStart":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COShipping-Start","billingSelectCC":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-KVD-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-KVD-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-KVD-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-KVD-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-KVD-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COBilling-GetGiftCertificateBalance","addCoupon":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/Cart-AddCoupon","storeLocatorLoad":"/on/demandware.store/Sites-KVD-Site/default/Stores-Load","storeLocatorPage":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/StoreInventory-Find","storesInventory":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/StoreInventory-Inventory","storesLookup":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/StoreInventory-Lookup","setPreferredStore":"/on/demandware.store/Sites-KVD-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-KVD-Site/default/StoreInventory-GetPreferredStore","setZipCode":"/on/demandware.store/Sites-KVD-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-KVD-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-KVD-Site/default/COBilling-Start","currencyConverter":"/on/demandware.store/Sites-KVD-Site/default/Currency-SetSessionCurrency","newsletterModal":"/on/demandware.store/Sites-KVD-Site/default/Newsletter-Signup","updateSocialButtons":"/on/demandware.store/Sites-KVD-Site/default/Product-UpdateSocialButtons","login":"/on/demandware.store/Sites-KVD-Site/default/Account-Login","compareDialog":"/on/demandware.store/Sites-KVD-Site/default/Product-Compare","videoDialog":"/on/demandware.store/Sites-KVD-Site/default/Content-VideoDialog","imageDialog":"/on/demandware.store/Sites-KVD-Site/default/Content-ImageDialog","mobileHeaderCustomerInfo":"/on/demandware.store/Sites-KVD-Site/default/Account-MobileHeaderCustomerInfo","emailBackInStock":"/on/demandware.store/Sites-KVD-Site/default/Product-EmailBackInStock","giftcertcouponsStart":"https://www.katvondbeauty.com/on/demandware.store/Sites-KVD-Site/default/COBilling-GiftCertCoupon","searchShowContent":"/on/demandware.store/Sites-KVD-Site/default/Search-ShowContent","fetchFolderContent":"/on/demandware.store/Sites-KVD-Site/default/Search-ShowFolderContent","getFolderContent":"/on/demandware.store/Sites-KVD-Site/default/Content-GetFolderContent","videoProduct":"/on/demandware.store/Sites-KVD-Site/default/Content-GetVideoProduct","productClick":"/on/demandware.store/Sites-KVD-Site/default/Product-ClickData","shippingNoticeEU":"/on/demandware.store/Sites-KVD-Site/default/Page-Include?cid=shipping-notice-EU","reloadPaymentInstruments":"/on/demandware.store/Sites-KVD-Site/default/COBilling-ReloadPaymentInstruments","hasOrderableVariants":"/on/demandware.store/Sites-KVD-Site/default/Product-HasOrderableVariants","DYGetAPIProperties":"/on/demandware.store/Sites-KVD-Site/default/DynamicYield-GetAPIProperties"};
+window.ClientCache = {"ENABLE_ICHECK_SELECTION":false,"DISABLE_MOBILE_SORT_OVERLAP":false,"GOOGLE_MAPS_AUTO_ON":true,"GOOGLE_MAPS_LOCATION_MOBILE_ENABLED":false,"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"LISTING_SEARCHSUGGEST_LEGACY":true,"MINICART_WINDOW_INNER_WIDTH":0,"MINICART_WINDOW_INNER_WIDTH_FLASH":0,"MINICART_WINDOW_WIDTH":0,"ENABLE_MOBILE_CART_OVERLAY":false,"MOBILE_CART_OVERLAYSPLIT_TEST":false,"SEARCHCATEGORIES":false,"SEARCHCONTENT":false,"SELECTRIC_BRAND_SETTINGS":"selectric","SELECTRIC_DISABLE_MOBILE":false,"MOBILENAV_BELOW_HEADER_ENABLED":true,"NEWSLETTER_HEADER_FORMAT":"Flyout","NEWSLETTER_FOOTER_TARGET":".newsletter-footer-container .newsletter-footer-signup","SMS_FOOTER_TARGET":".sms-footer-container .sms-footer-signup","NEWSLETTER_POPUP_ENABLED":false,"NEWSLETTER_POPUP_THRESHOLD":1,"NEWSLETTER_POPUP_SLIDEEFFECT":false,"NEWSLETTER_POPUP_SLIDEFOOTER":false,"NEWSLETTER_POPUP_SLIDEHEIGHT":0,"NEWSLETTER_COOKIE_DAYS":30,"SOCIAL_MEDIA_INTEGRATION":"AddThis","EXACTTARGET_CONVERSION":false,"HOMEPAGE_SLIDER_AUTOPLAY_ENABLED":true,"HOMEPAGE_SLIDER_AUTOPLAY_TIMER":5000,"STICKY_HEADER":true,"STICKY_REFINEMENTS":true,"HTTP_LOGIN_ENABLE":true,"GOOGLE_ANALYTICS_ENABLED":false,"GOOGLE_ANALYTICS_ID":"UA-55932707-3","GOOGLE_TAG_MANAGER_ENABLED":true,"GOOGLE_TAG_MANAGER_ID":"GTM-K4ZZT5","ENABLE_EMAIL_BACK_IN_STOCK":true,"ENABLE_GRID_EXPAND_COLLAPSE":false,"FACEBOOK_APP_ID":"959144497495591","GRID_ROW_TILE_AMOUNT":"{\n\t\"mobile\": {\n\t\t\"tiles\": 2\n\t},\n        \"tablet\": {\n\t\t\"screenWidth\": 767,\n\t\t\"tiles\": 3\n\t},\n\t\"desktop\": {\n\t\t\"screenWidth\": 768,\n\t\t\"tiles\": 4\n\t}\n}","DISABLE_QV":false,"DISABLE_PERSISTENT_QV":true,"QV_ALWAYS_VISIBLE":false,"VIDEO_DIALOG_TOP":true,"TGCOMMERCE_SHIPPING_METHOD":"TGCommerce","TGCOMMERCE_HIDE_POSTAL_CODE":"AI,AG,AN,AW,BS,BH,BB,BZ,BM,VG,BI,CV,KY,CF,XC,DM,GQ,ER,FK,FJ,GI,GD,HT,HK,IE,JM,KW,MO,MS,NR,NO,NI,PA,WS,ST,SA,SB,XN,XS,SS,SR,TL,TO,TV,AE,VU,ZM,CD,CW,DJ","JS_INIT_BUNDLE":true,"JS_ENABLE_QUANTITYCHANGER":true,"JS_ENABLE_COLORCOMPARE":true,"JS_ENABLE_VIDEOSTEPS":false,"JS_ENABLE_UPCLOSESWATCH":false,"JS_ENABLE_STICKYSUMMARY":false,"JS_ENABLE_MOBILEMENU":false,"JS_ENABLE_ACCTOGGLEMENU":true,"JS_ENABLE_SEARCH_PLACEHOLDER":true,"JS_ENABLE_SEARCH_TOGGLE":false,"JS_ENABLE_DYNAMICYIELD":false,"JS_ENABLE_DYNAMICYIELD_EVENTS":false,"EU_COUNTRIES":["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","NL","PL","PT","RO","SK","SI","ES","SE","GB"]};
 window.Callbacks = callbacks;
 }(window.app = window.app || {}));
+
 
 	pageContext = {"title":"Customer Service","type":"customerservice","ns":"account"};
 	app.page = pageContext;
@@ -1983,177 +2065,14 @@ window.Callbacks = callbacks;
 
 
 	
-	<script defer src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/js/responsive.js"></script>
+	<script defer src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/js/responsive.js"></script>
 
 
 
 
-<script defer src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/compiled/vendor.min.js"></script>
 
 
-	<script defer src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/compiled/app.min.js"></script>
-
-
-
-
-<script>
-	(function(app){
-		app.tgresources = {"tgCommerceShippingMethodID":"TGCommerce","currencyConversionEnabled":null,"baseCurrency":"USD","tgCommerceWelcomeMat":"/on/demandware.store/Sites-KVD-Site/default/TGCommerce-WelcomeMatStart","tgCommerceHidePostalCode":"AI,AG,AN,AW,BS,BH,BB,BZ,BM,VG,BI,CV,KY,CF,XC,DM,GQ,ER,FK,FJ,GI,GD,HT,HK,IE,JM,KW,MO,MS,NR,NO,NI,PA,WS,ST,SA,SB,XN,XS,SS,SR,TL,TO,TV,AE,VU,ZM,CD,CW,DJ"};
-		app.tgresources.currencyRates = {"AED":4.3167,"ARS":9.4021,"AUD":1.1369,"BRL":2.6400,"CAD":1.1640,"CHF":1.0362,"CLP":663.5709,"CNY":7.3311,"CZK":23.3202,"DKK":5.6968,"EUR":0.7631,"GBP":0.6286,"HKD":9.1111,"HUF":261.4704,"ILS":4.0979,"INR":71.7813,"JPY":107.9692,"KWD":0.3305,"MXN":15.3646,"MYR":3.8377,"NOK":6.3183,"NZD":1.2301,"PHP":52.5668,"PLN":3.5607,"RUB":41.9759,"SEK":6.9348,"SGD":1.4770,"THB":38.0061,"TWD":35.6322,"USD":1.0000};
-	}(window.app = window.app || {}));
-</script>
-
-<script defer src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/js/tgcommerce.js" type="text/javascript"></script>
-
-
-	<script defer type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-4ea5d98601c1dc84"></script>
-
-
-
-<script>
-	// Google Maps Form Autocomplete API
-	
-		var placeSearch, autocomplete, autocomplete2, form1, form2;
-		var componentMapping = {
-			street_number: '.form-row.address1 input',
-			route: '.form-row.address1 input',
-			locality: '.form-row.city input',
-			administrative_area_level_1: '.form-row.states select,.form-row.state select',
-			administrative_area_level_3: '.form-row.city input',
-			country: '.form-row.country select',
-			postal_code: '.form-row.postal-code input,.form-row.zip input'
-		};
-
-		var componentForm = {
-			street_number: 'short_name',
-			route: 'long_name',
-			locality: 'long_name',
-			administrative_area_level_1: 'short_name',
-			administrative_area_level_3: 'short_name',
-			country: 'short_name',
-			postal_code: 'short_name'
-		};
-
-		function initAutocomplete() {
-			form1 = $($('.form-row.address1 input')[0]).closest('form');
-			form2 = $($('.form-row.address1 input')[1]).closest('form');
-			if (form1.length > 0) {
-				autocomplete = new google.maps.places.Autocomplete((form1.find('.form-row.address1 input')[0]), {
-					types: ['geocode']
-				});
-				autocomplete.addListener('place_changed', fillInAddress);
-			}
-			if (form2.length > 0) {
-				autocomplete2 = new google.maps.places.Autocomplete((form2.find('.form-row.address1 input')[0]), {
-					types: ['geocode']
-				});
-				autocomplete2.addListener('place_changed', fillInAddress2);
-			}
-
-			$('.form-row.address1 input').attr('autocomplete','on');
-		}
-
-		function fillInAddress() {
-			var street = '';
-			var place = autocomplete.getPlace();
-			for (var component in componentForm) {
-				form1.find(componentMapping[component]).val('')
-			}
-			for (var i = 0; i < place.address_components.length; i++) {
-				var addressType = place.address_components[i].types[0];
-				if (componentForm[addressType]) {
-					var val = place.address_components[i][componentForm[addressType]];
-					var theInput = form1.find(componentMapping[addressType]);
-					
-					if (addressType == 'street_number' || addressType == 'route') {
-						if (street != '') {
-							street = street + ' ';							
-						}
-						street = street + val;
-						if (addressType == 'route') {
-							theInput.val(street);
-						}
-					} else {
-						theInput.val(val);
-					}
-					
-					if (addressType != 'street_number') {
-						if( theInput.val().trim() !== '' ) { // foro yoshiko effect
-							$(theInput.parentNode).addClass( 'input--filled' );
-						}						
-					}
-				}
-			}
-
-			form1.find('select[name$="_addressFields_countries_country"]').trigger('change');
-			$('select').selectric('refresh');
-		}
-
-		function fillInAddress2() {
-			var street = '';
-			var place = autocomplete2.getPlace();
-			for (var component in componentForm) {
-				form2.find(componentMapping[component]).val('')
-			}
-			for (var i = 0; i < place.address_components.length; i++) {
-				var addressType = place.address_components[i].types[0];
-				if (componentForm[addressType]) {
-					var val = place.address_components[i][componentForm[addressType]];
-					var theInput = form2.find(componentMapping[addressType]);
-					
-					if (addressType == 'street_number' || addressType == 'route') {
-						if (street != '') {
-							street = street + ' ';							
-						}
-						street = street + val;
-						if (addressType == 'route') {
-							theInput.val(street);
-						}
-					} else {
-						theInput.val(val);
-					}
-					
-					if (addressType != 'street_number') {
-						if( theInput.val().trim() !== '' ) { // foro yoshiko effect
-							$(theInput.parentNode).addClass( 'input--filled' );
-						}						
-					}
-				}
-			}
-			form2.find('select[name$="_addressFields_countries_country"]').trigger('change');
-			$('select').selectric('refresh');
-		}
-
-		function geolocate() {
-			if (navigator.geolocation) {
-				navigator.geolocation.getCurrentPosition(function(position) {
-					var geolocation = {
-						lat: position.coords.latitude,
-						lng: position.coords.longitude
-					};
-					var circle = new google.maps.Circle({
-						center: geolocation,
-						radius: position.coords.accuracy
-					});
-					autocomplete.setBounds(circle.getBounds())
-				})
-			}
-		}
-		$(document).ready(function () {
-			$('.form-row.address1 input').on("focus", function() {
-				geolocate();
-				$(this).attr('autocomplete','off');
-				
-			}).on("blur", function() {
-				$(this).attr('autocomplete','on');
-			});
-		});
-
-	
-</script>
-
-
-	<script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFOUIcZ-qOBTWN7hqEbbYilXOiYQApALI&libraries=places&callback=initAutocomplete" ></script>
+	<script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFOUIcZ-qOBTWN7hqEbbYilXOiYQApALI&libraries=places" ></script>
 	<style>			
 	.pac-item {
 	    padding: 0 6px;
@@ -2196,9 +2115,32 @@ window.Callbacks = callbacks;
 	margin-left: 7px;
 }
 </style>
+
+
+<script defer src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/compiled/vendor.min.js"></script>
+
+
+	<script defer src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/compiled/app.min.js"></script>
+
+
+
+
+<script>
+	(function(app){
+		app.tgresources = {"tgCommerceShippingMethodID":"TGCommerce","currencyConversionEnabled":null,"baseCurrency":"USD","tgCommerceWelcomeMat":"/on/demandware.store/Sites-KVD-Site/default/TGCommerce-WelcomeMatStart","tgCommerceHidePostalCode":"AI,AG,AN,AW,BS,BH,BB,BZ,BM,VG,BI,CV,KY,CF,XC,DM,GQ,ER,FK,FJ,GI,GD,HT,HK,IE,JM,KW,MO,MS,NR,NO,NI,PA,WS,ST,SA,SB,XN,XS,SS,SR,TL,TO,TV,AE,VU,ZM,CD,CW,DJ"};
+		app.tgresources.currencyRates = {"AED":4.3167,"ARS":9.4021,"AUD":1.1369,"BRL":2.6400,"CAD":1.1640,"CHF":1.0362,"CLP":663.5709,"CNY":7.3311,"CZK":23.3202,"DKK":5.6968,"EUR":0.7631,"GBP":0.6286,"HKD":9.1111,"HUF":261.4704,"ILS":4.0979,"INR":71.7813,"JPY":107.9692,"KWD":0.3305,"MXN":15.3646,"MYR":3.8377,"NOK":6.3183,"NZD":1.2301,"PHP":52.5668,"PLN":3.5607,"RUB":41.9759,"SEK":6.9348,"SGD":1.4770,"THB":38.0061,"TWD":35.6322,"USD":1.0000};
+	}(window.app = window.app || {}));
+</script>
+
+<script defer src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/js/tgcommerce.js" type="text/javascript"></script>
+
+
+	<script defer type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-4ea5d98601c1dc84"></script>
+
+
 	
-	<script src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/lib/iecompat/matchMedia.js"></script>
-	<script src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/lib/iecompat/matchMedia.addListener.js"></script>
+	<script src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/lib/iecompat/matchMedia.js"></script>
+	<script src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/lib/iecompat/matchMedia.addListener.js"></script>
 <![endif]-->
 </div>
 
@@ -2218,9 +2160,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/internal/jscript/dwac-18.10.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 <script type="text/javascript">//<!--
@@ -2230,6 +2172,6 @@ dw.applepay = {"action":{"cancel":"https:\/\/www.katvondbeauty.com\/on\/demandwa
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-KVD-Site/-/default/v1529711492366/internal/jscript/applepay.js" async="true"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-KVD-Site/-/default/v1546101382875/internal/jscript/applepay.js" async="true"></script>
 
 </body></html>
