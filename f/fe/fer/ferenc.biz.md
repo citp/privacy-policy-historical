@@ -1,176 +1,205 @@
-> *The following text is extracted and transformed from the ferenc.biz privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623003556id_/https%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
-
-# Zazzle Privacy Policy
-
-This Privacy Policy was published on May 17, 2018 and will take effect on May 25, 2018. View our previous policy [here](https://www.zazzle.com/mk/policy/old%202017/privacy_policy). 
-
-Thanks for using <https://www.zazzle.com/> ("Site"). At Zazzle Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy ("Privacy Policy") to make sure you know what information we collect and how we use it. By using the Site, you expressly consent to the collection, storage, disclosure and use of your information as we have outlined in this Privacy Policy and you agree to the terms and conditions of this Privacy Policy. 
-
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we make any changes to this Privacy Policy, we will notify you in accordance with our User Agreement. If we make any material changes we will notify you by email or by means of a notice on this Site prior to the change becoming effective. We also encourage you to check back, from time to time, and review this Privacy Policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Site will be subject to the then current Privacy Policy. 
-
-**EU — U.S. Privacy Shield & the General Data Protection Regulation ("GDPR"). **
-
-Zazzle participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and, as a Data Controller, complies with the GDPR. GDPR provides EU residents with certain rights to their data and questions should be sent to [privacy@zazzle.com](mailto:privacy@zazzle.com). For purposes of Article 14(2) of the GDPR, Zazzle relies on the following lawful basis for processing Personal Data: consent, compliance with law and legitimate interest. 
-
-Information about the Privacy Shield Framework can be found at the U.S. Department of Commerce's Privacy Shield List. <https://www.privacyshield.gov/list>
-
-Zazzle complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
-
-Zazzle is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission regarding personal data received or transferred pursuant to the Privacy Shield Framework. 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our third party dispute resolution provider, JAMS. More information can be found [here](https://www.jamsadr.com/eu-us-privacy-shield). 
-
-If JAMS does not resolve the matter, you may be able to invoke binding arbitration when other dispute resolution procedures have been exhausted. For more information: [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint). 
-
-In addition, you can contact the European Data Supervisory Authority with supervision over Zazzle — The Ireland Data Protection Commissioner; Canal House, Station Road, Portarlington. R32 AP23. [www.dataprotection.ie](https://www.dataprotection.ie/).
-
-**But first, a note about uploading and posting information on the Site:**
-
-At the time you register for a Zazzle account, you will choose and provide us with an email address and password. When you upload a design, post a comment or message on the Site, provide information in connection with features such as fan clubs, wish lists, forums, member profiles, reviews and recommendation your user name may be visible to other users.
-
-Additionally, if your comment or message contains personally identifiable information and is posted by you in a page that is accessible to the public, third parties may make note of the information and you may receive unsolicited messages from other parties as a result. Any content or information you upload that is visible to third parties may be read, collected, and used by others who access them. Our blog is managed by a third party application, [WordPress](https://wordpress.com/), and does not require you to register to post a comment to a post. Commenting is moderated by Zazzle blog administrators and is subject to approval before appearing on the site. You will need to contact Zazzle if you want the personal information that was posted to the comments section removed. To learn how WordPress uses your information, please review their [privacy policy](https://automattic.com/privacy/).
-
-**What information do we collect?** **Information provided by you:**
-
-You may provide us with certain personally identifiable information when you: 
-
-  * register for a Zazzle account;
-  * order products or gift certificates;
-  * request customer support or send us any other communication;
-  * sign up for newsletters, email alerts, and special offers;
-  * enter sweepstakes or contests;
-  * sign up for, or redeem, special offers; 
-  * respond to surveys; and
-  * use our Email-to-a-Friend or Refer-A-Friend features.
-
-
-
-Such information may include your name, email address, billing address, shipping address, and credit card number. You may also provide us with information about other people, such as their email addresses, if you email a product to a friend or refer a friend to the Site or our promotions. 
-
-If you are under 13, you may not use the Site. 
-
-**Information collected by Cookies:**
-
-Zazzle uses cookies on the Site to improve the quality of our Site and services to you. A cookie is a small text file on your computer which a website sends to your computer to allow the website to store information which uniquely identifies our users. Zazzle's cookies do not collect or store personally identifiable information. Rather, the cookie stores a token which uniquely identifies a particular user at a particular time. That token is then linked to the user information in our secured databases. You can always delete the cookies and reset your browser to refuse all cookies or to display a message when a cookie is being sent. If you reset your browser, some of the Site features and functionality may not be available to you and you may not be able to take advantage of all the features on the Site. 
-
-We may work with other companies who place cookies or web beacons on our Site. We do not have access or control over these cookies. These companies help operate our websites and provide you with additional products and services. They are subject to confidentiality agreements with Zazzle and other legal restrictions. Zazzle does not permit any of these companies to collect personally identifiable information using cookies or web beacons on our websites. Certain functionalities related to the provision of additional products and services require marketers to share website usage information about visitors to the Site, who have received a targeted promotional campaign, with a reputable third-party advertising company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. To this end, Zazzle's third-party advertising company makes a note of some of the pages you visit on the Site through the use of pixel tags. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](https://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
-
-**Information collected by Web Beacons and Log Files:**
-
-Zazzle collects certain non-personally identifiable information through the use of web beacons and log files. Such information may include your IP address, browser type, Site usage, and whether you opened emails you received from us. 
-
-**Information collected through Product Reviews:**
-
-You may choose to submit a product review. If you post a review, we may ask for certain information to validate your review such as email address, photo, and your city/state/country of residence. If you submit a review, we may publish your geographic location or other anonymous information but your email address will be kept private. Additionally, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personally identifiable information. If you wish to update or delete your testimonial, you can contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com). 
-
-**How do we secure your information?**
-
-When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The secure server software ("SSL") we use encrypts all information you input before it is sent to us. In addition, your Zazzle account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when you finish using a shared computer. 
-
-We operate internationally and many of our computer systems are currently based in the United States. As a result, your personal data will be processed by us in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with us, you agree to this Privacy Policy and you consent to the transfer of all information you provide to us in the United States. 
-
-You may also choose not to provide us with certain information, but that may result in you being unable to use certain features of our Site because such information may be required in order for you to: register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our Site. 
-
-We work very hard to protect your privacy, but we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. While we use industry-standard precautions to safeguard your personally identifiable information, we cannot guarantee complete security. If you have any questions about security on our Site, you can contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com). 
-
-**How do we use your information?**
-
-We use the personally identifiable information you provide to: 
-
-  * provide the features and functionality of the Site;
-  * fulfill your requests for our products and services;
-  * pay earnings;
-  * communicate with you about the status of your orders and other inquiries about our products and services;
-  * send you information about our products and services; 
-  * for our internal business purposes, such as data analysis, audits and so forth; 
-  * help us create content that is most relevant to you; and
-  * provide notices about the results of sweepstakes, contest, and other promotions.
-
-
-
-We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails in your Zazzle account settings. 
-
-When you purchase products from the Site, we may use your email address or other personally identifiable information to send marketing messages and notifications from time-to-time whether or not you created an account with us. You may unsubscribe or change the frequency of email notifications on the Account Settings page in "MyAccount." If you email a product to a friend or refer a friend to the Site or our promotions, we will use your friend's email to send them the e-mail you requested. Your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted. Zazzle does not store this information. Your friend may contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com) to request that we remove this information from our database. 
-
-We use non-personally identifiable information to monitor the use and performance of the Site so that we can learn more about how people use the Site which helps us improve our products and services and significantly enhance your experience on our Site. 
-
-**Does Zazzle disclose the information it collects to outside parties?**
-
-We will share your personally identifiable information with third parties only in the ways that are described in this Privacy Policy. We do not sell your personally identifiable information to third parties. Generally, Zazzle does not share personally identifiable information about you with other people or nonaffiliated companies without your consent except that: 
-
-  1. Zazzle provides information to its agents and trusted service providers and contractors for limited purposes, such as fulfilling customer orders and processing credit card transactions; offering certain products and services; communicating with customers; providing customer service; managing information on our behalf; and enhancing the Site features and functionality. In such cases, we require that these parties agree to use the information solely for the purpose for which we provided it to them and in accordance with our Privacy Policy. 
-  2. If you sign up for a promotion (e.g., a contest or sweepstakes offer) or enroll in a service we offer in partnership with a third party, we may provide information (such as your name, email address, and account activity) to such third parties. 
-  3. Zazzle provides its Designers with the first name and city/state/country of residence of Zazzle customers who have purchased such Designer's products. Zazzle may also release information (including your name, addresses, telephone number, and account activity) when we, in our sole discretion believe that such release is necessary or appropriate to: 
-
-
-  * comply with law;
-  * comply with subpoenas, warrants, court orders, government investigations, or other legal process;
-  * enforce or apply the terms of any of our user or license agreements; 
-  * investigate or respond to allegations of fraud, intellectual property infringement, or other unlawful activity
-  * investigate fraud or similar claims; 
-  * protect the rights, property or safety of Zazzle, our users, or others. 
-  * protect our operations; or
-  * permit us to pursue available remedies or limit the damages that we may sustain.
-
-
-
-Additionally, Zazzle releases certain information, including personally identifiable information, to report the sale of custom postage to the United States Postal Service ("USPS"). As part of our relationship with the USPS, we collect and may disclose information about purchasers of our Zazzle Custom Postage products to the USPS at the request of USPS. To learn more about the USPS's privacy policy, please visit the [Privacy Policy](https://about.usps.com/who-we-are/privacy-policy/welcome.htm). 
-
-In the event that Zazzle is acquired by or merges with another company, Zazzle reserves the right to transfer, in connection with such acquisition or merger, all information we have collected from our users. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information. 
-
-Zazzle may disclose non-personally-identifiable information to third parties in aggregate form or to potential business partners and investors, in each instance in accordance with GDPR. 
-
-Zazzle will obtain assurances from its agents that they will only process the data for the limited and specified purposes consistent with the consent provided by the individual and will safeguard personal information consistently with this Policy. The assurance may include: a contract binding the agent to provide at least the same level of protection as is required by the relevant Privacy Shield Principles, being subject to GDPR, or Privacy Shield certification by the agent. 
-
-**Advertising**
-
-Zazzle may use third party service providers to place ads on our behalf across the internet and sometimes on the Site. They may collect anonymous information about your visits to our Site, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a web beacon, which is industry standard technology used by most major sites. If you would like more information about this practice and to know your choices about not having this anonymous information about you used by our third party service providers, please contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com). 
-
-Name of Third Party Partner | What info is shared with or collected by this partner | Partner's purpose | Link to Partner's privacy policy  
----|---|---|---  
-Google Adservices | Anonymous order information, IP, and URL clickstream | Ad network | [google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)  
-Doubleclick | Anonymous order information, IP, and URL clickstream | Ad network | [.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)  
-Google-analytics | Anonymous IP, URL clickstream related to viewing specific designer's products and stores. | Analytics | [.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)  
-Facebook | Anonymous order information, IP, and URL clickstream | Social/sharing tools | [.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)  
-Bing | Anonymous order information, IP. | Ad network | [Privacy and data protection policies](https://advertise.bingads.microsoft.com/en-us/resources/policies/privacy-and-data-protection-policies)  
-  
-If you have any inquiries regarding our partner's privacy practices or how they use your personal information, please contact us directly at [privacy@zazzle.com](mailto:privacy@zazzle.com)
-
-In addition, Zazzle is a dynamic marketplace with a great number of branded products and content. We will offer our users the opportunity to opt-in to receive from our partners emails, notifications of promotions and the like offered by such partners. You have the right to decline to opt-in to take advantage of this service. 
-
-**Social Media Features and Widgets**
-
-Our Site includes social media features, such as the Facebook Like button, and widgets, such as the "ShareThis" button or interactive mini-programs that run on our Site. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it. 
-
-**Facebook Connect or other OpenID provider**
-
-You can log in to our Site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Site to your profile page to share with others within your network. 
-
-**Does this Privacy Policy apply when I access third party websites?**
-
-You may be able to access third party websites directly from the Site. However, this Privacy Policy does not apply when you access third party websites. We cannot control how third parties may use personally identifiable information you disclose to them, so you should carefully review the privacy policy of any third party website you visit before using it or disclosing your personally identifiable information to its provider. 
-
-**What about children's privacy?**
-
-Children under the age of 13 may not use the Site. 
-
-**How can I change, delete, or update my information?**
-
-Most of your account information can be changed in the "MyAccount" section of the Site. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com) or Privacy c/o Zazzle Inc., 1800 Seaport Blvd., Redwood City, CA 94063. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information. We will respond to your request to access within thirty (30) days of receipt. 
-
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
-
-Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. 
-
-  * Policies
-  * [User Agreement](https://www.zazzle.com/mk/policy/user_agreement)
-  * [Privacy Policy](https://www.zazzle.com/mk/policy/privacy_policy)
-  * [Designer License Agreement](https://www.zazzle.com/mk/policy/designer_license_agreement)
-  * [Zazzle Custom Stamps™ Agreement](https://www.zazzle.com/mk/policy/zazzle_custom_stamps_agreement)
-  * [Volume Bonus Agreement](https://www.zazzle.com/mk/policy/volume_bonus_agreement)
-  * [Associates Agreement](https://www.zazzle.com/mk/policy/associates_agreement)
-  * [Shipping & Returns](https://www.zazzle.com/mk/policy/shippingreturns)
-  * [Zazzle Black™ Terms & Conditions](https://www.zazzle.com/mk/policy/zazzle_black)
-  * [Purchase Order Terms](https://www.zazzle.com/mk/policy/terms)
-
+> *The following text is extracted and transformed from the ferenc.biz privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231235502id_/https%3A//www.instagram.com/legal/privacy) for the most accurate reproduction.*
+
+# Data Policy | Instagram Help Center
+
+This policy describes the information we process to support Facebook, Instagram, Messenger and other products and features offered by Facebook ([Facebook Products](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1561485474074139%3Fref%3Ddp&h=AT1Xai5kK8HwfNwBV_kdrXEJRZQMoK00APW-s05nHBlNuOIiHQiMV1IrR215eS_rcH7DwNKMXBg7w8aVwZmIWBXaeZS-flNMhbv9RGauUsFlUTrMKtH4IPuBngbbYcLkzxSlzX3yTpzNKf5i8jLxy9NfoPg) or Products). You can find additional tools and information in the [Facebook Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fsettings&h=AT2vX4jge8smYjdCjlVGC98IhNds1tfSaCwkuxn1zl2SLv9udHIT-rw53V2SoeBa2rEPIvfdKE5xd4BtWDRgRy5Xdt-XZfEH_tiinujTmVrGJbl9Unpp9VfRUkUfPlw_fDPuX9wVCFC6hZBFG-p3NjmvnvA) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT1aYrq5EgEHtZJ4IYc9hhoD-vJtAQEGqfxh-VlDX7JEVA6OOa4KI8QxvE9vqFvIk1MWm5YsWed-HY3LVPsGvDZ5tucci1lneQQAUfNQhbbJyAsN_Ti3xwoyeG6Gq-WuSTVVILoBEUwZKu8iryPF5Wm5b_I). 
+
+## **I. What kinds of information do we collect?**
+
+To provide the Facebook Products, we must process information about you. The types of information we collect depend on how you use our Products. You can learn how to access and delete information we collect by visiting the [Facebook Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fsettings&h=AT0-YLSjvZl_qcDftio9Tg0Ifi2FRD-rrYQAF-MaOuLnHQxQDZzOtK_Icd4TI5u4rb10uoOuPpbbxSXg18QS9dQDq3efHRxPi_-Gg782M3pX7qvKFfK2mJwviTm588qIoQCSXQT1G37O_R_2UbZFC6oSpl0) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT20ERxYO4P_GI2o7xG0U5HcDFq0CkNNtPCMTJgIgPh_QxzwScQbKjXiHwO2QN5VlcunzVLtPzJ9DH6mPGdS7i8l23AwSKmKIJFXrVmDHUTUtPFZcX0HlsTfAR0Fp3t9SHMTbuyxWrgRknHMtePFiaWWByM). 
+
+> **Things you and others do and provide.**
+> 
+>   *  **Information and content you provide.** We collect the content, communications and other information you provide when you use our Products, including when you sign up for an account, create or share content, and message or communicate with others. This can include information in or about the content you provide (like metadata), such as the location of a photo or the date a file was created. It can also include what you see through features we provide, such as our [camera](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F162347444215311&h=AT1wT832D9_0TyjVr1EHylFboaSFShMOPsmVq_th5ozXjNJ8D0msorkZfdV86gF7TCXbAW5Bwotb0nWLFRc-vhWWypgpN_YqfzlzuCvEuFlJUkf65E3xnblDZ2ynz-U3DocotiYbf0pGu_lUy2Mhf2mN57Q), so we can do things like suggest masks and filters that you might like, or give you tips on using camera formats. Our systems automatically process content and communications you and others provide to analyze context and what's in them for the purposes described below. Learn more about how you can control who can see the things you [share](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1297502253597210%3Fref%3Ddp&h=AT2V1GDDnAQC_KZHpMjAC6MvcuTahP_YEj5cAdf9PZWpzJnZxInSJuOntKu5w-wqSfvN5zqYtQ45w34rh09eT_vtAoHpkJ_XT3zgpyzr72xECdzAVyGwMmgEnQC8PtUMgqM-vjDmgJahP5bZq6jSmzPKOPw). 
+> 
+>     * Data with special protections: You can choose to provide information in your Facebook [profile fields](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F353111348061173%3Fref%3Ddp&h=AT2whw6P99Zr3e9wIIApFW_ZKi8zWqBVAhLMe1RQyUzNciZBGKEXSfmG6akfJFqS2od_cpvJ-qgIgqwFEmx1XL-sDAcojGfhyB57xlH_FaD47Wd-y0i8FiH74v-s2UglEN5_O4nh_KF8XiH_6DPGR4THLC8) or Life Events about your religious views, political views, who you are "interested in," or your health. This and other information (such as racial or ethnic origin, philosophical beliefs or trade union membership) could be subject to special protections under the laws of your country.
+> 
+>   *  **Networks and connections.** We collect information about the people, [Pages](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F282489752085908%3Fref%3Ddp&h=AT3VbNiXHWv3Kn-PKhi-1b74jR0JAjCvTvQXh-kSxgDbTk3eO9SBwWPvJf8dZcz1sB2ti-ygen3qG2NZDxI4e9qmQanjzWeKTIXYiuu5TidUXL_6znZiq4TdLVHUTBSkyz7n9-82pbjHsoJD44HGrh_YejM), accounts, [hashtags](https://help.instagram.com/351460621611097?ref=dp) and groups you are connected to and how you interact with them across our Products, such as people you communicate with the most or groups you are part of. We also collect contact information if you [choose to upload, sync or import it from a device](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F561688620598358%3Fref%3Ddp&h=AT1gZLfi2Jx8-JHPMSgayh8kNiwr7wnnsAEhKoktDT-EBL67DIpp2qh2CWlzoinWXmht38dxzafG9If8XC2TSyw93_Nx9RdNK6uYOAibVOSVhKCDPd-NbsyRRAQ5l4xnxDeE_v4Z_D_hTUIK_KztdP_2Xrg) (such as an address book or call log or SMS log history), which we use for things like helping you and others find people you may know and for the other purposes listed below.
+> 
+>   *  **Your usage.** We collect information about how you use our Products, such as the types of content you view or engage with; the features you use; the actions you take; the people or accounts you interact with; and the time, frequency and duration of your activities. For example, we log when you're using and have last used our Products, and what posts, videos and other content you view on our Products. We also collect information about how you use features like our camera.
+> 
+>   *  **Information about transactions made on our Products.** If you use our Products for [purchases](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1434403039959381%3Fref%3Ddp&h=AT2-pxseiCtPaBAfGu0Y74QNshkjsLMMo83ZPRXKjLIjkDB_TjpUypVvnce0Ybya1zSUDZFbrFC7DFjlzzMqlFxgEnBCPpFA356eN8HVgtFtiTJjkW_SwHYlM9FkvTEqqtTnfiq6wb0lFmJRym9RGcU2_eM) or other financial transactions (such as when you make a purchase in a game or make a [donation](https://l.facebook.com/l.php?u=https%3A%2F%2Fdonations.fb.com%2F&h=AT1K-D5ypwwZ8F79xrkNEZm89pxds8-V6I4Ikp7fv9mVi9OPizX-FNam5a9O2r5QK44IK7RDfLViHhfLb6IqjJKzhcewxLEzkEaTMyGYCn9V2ovEkMATexKUkn566PyQ35F4vX_Ll7aUZxWRU-ASENMSCfQ)), we collect information about the purchase or transaction. This includes payment information, such as your credit or debit card number and other card information; other account and authentication information; and billing, shipping and contact details.
+> 
+>   *  **Things others do and information they provide about you.** We also receive and analyze content, communications and information that other people provide when they use our Products. This can include information about you, such as when others share or comment on a photo of you, send a message to you, or upload, sync or import your contact information.
+> 
+> 
+
+> 
+>  **Device Information**
+> 
+> As described below, we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalize the content (including [ads](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F119468292028768%3Fref%3Ddp&h=AT1mjzeNsOKk-XndTDAn60hjKIas3dAc5KyJU4TAE-_pSeeMUqAz9jbaas244kJa_eLc9njc0W_0vofZ5kxeIjW5qxSmLudM6tX7TjVVjAaRdYwgff4QRQUvd2EDFlMmA2r1Wn-HeKL9KK5QIiEJmRZMjd4)) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device.
+> 
+> Information we obtain from these devices includes: 
+> 
+>   * **Device attributes:** information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
+> 
+>   *  **Device operations:** information about operations and behaviors performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements (which can help distinguish humans from bots).
+> 
+>   *  **Identifiers:** unique identifiers, device IDs, and other identifiers, such as from games, apps or accounts you use, and Family Device IDs (or other identifiers unique to [Facebook Company Products](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F195227921252400%3Fref%3Ddp&h=AT3YmdYA-u6mL5h5UpYLzpkEAWbYD6XTD93TmMcFU_kf6hmNxCAtLHn0JIuBcSBFEzFMqYCpCXSMQKeUG6Bkxu_sIV_Ijtbxb9iKiNB9SVJzWPh8CJgVCaS_FMkZx6E3L6Hg1Xru8r4OczhiWW02_jkJTZE) associated with the same device or account).
+> 
+>   *  **Device signals:** Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers.
+> 
+>   *  **Data from device settings:** information you allow us to receive through device settings you turn on, such as access to your GPS location, camera or photos.
+> 
+>   *  **Network and connections:** information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network, so we can do things like help you [stream a video from your phone to your TV](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F276515126152168%3Fref%3Ddp&h=AT32XWl92HDzURP-abtr7XOOqzvppUmgS-hygWdmgHMJ6B5jiUEZe82Rh_WPjRmrOvi2aTl0EKoEEFjARI84ibGewM09HaOKFIbIEhAUCjl0MFZat8YzypNQSpwDbX9yNk2mln6VL-mofQlmZPrr6s_HOd4).
+> 
+>   * 
+
+> 
+>  **Information from partners.**
+> 
+> Advertisers, [app](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1642635852727373%3Fref%3Ddp&h=AT1kiUdIurkTj-dEqTJniwZgJdxk1YXbcrVE9qrPM0P0sooI2AHY2Tzvurf2LapxAUtFw2VnCNM6-js7O42ZKPgg-esPHB81N2chiJD0-K49Umo3CPvAWcyd4ra7-VJz25AM5KCYPKhTxKmdBTu__dctRy8) developers, and publishers can send us information through [Facebook Business Tools](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F331509497253087&h=AT2NhwXLg63hrozB_OlAmV4-SjlkI3MuXX1kPbPvLGfuSGLdwUMZ62aAPQxho6mXdN5AKpvruTxKwDo6JY4nybo5qZFv51w8RzSMVOYg4KLHanhLQLZ1tFZ6UJJ1xgCa4DPGI4xZWh8DG2-Cr5T4INMntjpPz6CYo0-PraO1) they use, including our social plug-ins (such as the Like button), Facebook Login, our [APIs and SDKs](https://l.facebook.com/l.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fapis-and-sdks&h=AT0g-16adGlU3Q5rZtwZe9CB3kdwUQqXZqKeh-uJ4hQPlZwfmZ0muLwSmUNRV9DS28BhCQUKKFoNWSxzdkKn_mjtoTHt0dx5enxSKbsKzROT-yTZTR51xLUGptv2D4rR9_Fsa1fwOJAbKQ_P1sjuIc6xwHU), or the Facebook [pixel](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fbusiness%2Fa%2Ffacebook-pixel&h=AT29ggWG_KA0LMlWWFWsUQRHswtjchTox70xA94HMdJplezzSogVlgKwUKrlzXFiC49Qd80P-L-4Szcm4YQjAIKSJbmcnWIovBDtQ-iQa01ZAPBpyh9uZBZ5wnYxn9aJDC-tnncSCIUYK_Q5BahTDKLAm4A). These partners provide information about your activities off Facebook—including information about your device, websites you visit, purchases you make, the ads you see, and how you use their services—whether or not you have a Facebook account or are logged into Facebook. For example, a game developer could use our API to tell us what games you play, or a business could tell us about a purchase you made in its store. We also receive information about your online and offline actions and purchases from third-party data providers who have the rights to provide us with your information.
+> 
+> Partners receive your data when you visit or use their services or through third parties they work with. We require each of these partners to have lawful rights to collect, use and share your data before providing any data to us. [Learn more](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F494750870625830%3Fref%3Ddp&h=AT3pDb9vgEkQg-eW8iDkqAmitgPfjqVgy0VVtPSZUJMXFEGD8UHr1xyHbM6Ga8tiSla5i04Mk_E4M-NRmi-JqCJu7l8VP-YLF2uKmI5dabc-8oKG4t0dcYV3UcIXzgLKMtkFQOWh74ldhjQFFf6kvLQO3FA) about the types of partners we receive data from.
+
+##  **II. How do we use this information?**
+
+We use the information we have (subject to choices you make) as described below and to provide and support the Facebook Products and related services described in the [Facebook Terms](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Flegal%2Fterms%2Fupdate&h=AT0w0OTdyUNs55_cUN3kzX5HFY2R3HO6jw5cuIXuB1Z4T42BbcoFFUjuC3iNzchDQv0NaasK0ReHpeZdROhzuZWLvaO6MOe_6b8DJ2F_TlD2oVFRZXaujD6G-Rq6Avv-LFbbVT--78DHhhyIvusLH5GrK2M) and [Instagram Terms](https://help.instagram.com/581066165581870?ref=dp). Here's how: 
+
+> **Provide, personalize and improve our Products.**
+> 
+> We use the information we have to deliver our Products, including to personalize features and content (including your [News Feed](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F166738576721085%3Fref%3Ddp&h=AT0vgYBgUkQG9UX-ZwVJP4M1jAL1Drm-Z_lj8tH068ts5MXAEAVjNt2GdfNx-7ZT9ZTZf6J3O4YcQLPNqov0DrvuVu7KBNqJ9PYFHgoAwedm7Fju07wa01bUeMz3ruPuGB3NpOqXT3B_viS-slX2NkdrFek), [Instagram Feed](https://help.instagram.com/1986234648360433?ref=dp), Instagram Stories and ads) and make suggestions for you (such as groups or [events](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1076296042409786%3Fref%3Ddp&h=AT3lJXvBZ63WZNDxQ4t7q7OKcIy-1m-jYT37a3ZK7CyhDTINQZyTIQI-ceAtLzWnwbJcUkoJz6HHObskAA_j3o6T5SkcMU8xAl9kjHb4vSMF-TlIwXb_9r5xxWwkeZpW-LAtMH8ci0ndzc419TJs3fUK6Gc) you may be interested in or topics you may want to follow) on and off our Products. To create personalized Products that are unique and relevant to you, we use your connections, preferences, interests and activities based on the data we collect and learn from you and others (including any data with special protections you choose to provide); how you use and interact with our Products; and the people, places, or things you're connected to and interested in on and off our Products. Learn more about how we use information about you to personalize your Facebook and Instagram experience, including features, content and recommendations in Facebook Products; you can also learn more about how we choose the [ads](https://l.facebook.com/l.php?u=AT3m2aeaqvFqHncnlY1AWS9nUNajuf1dFYuTr5ajfi-SpS4IfjVvw1TDYfoX-1OiHiEAg-nV8CWm8ltgBuEr84YAT9HvD0IGUunspA&h=AT3rITh0k4TeOOYsTSwNyeJsFMXZtV3ncxdAVgYELoXvacmlqkmUq_bfrXjmenccXUWI61RR8E-wCuXwglRDsfXL_OBMUsMmuMg03RsKJDxqlDtozOdSqFa9pGGJlYdGMiSPcR7SHdn68O-hh3lPSouj-1kG) that you see. 
+> 
+>   * **Information across Facebook Products and devices:** We connect information about your activities on different Facebook Products and devices to provide a more tailored and consistent experience on all Facebook Products you use, wherever you use them. For example, we can suggest that you join a group on Facebook that includes people you follow on Instagram or communicate with using Messenger. We can also make your experience more seamless, for example, by automatically filling in your registration information (such as your phone number) from one Facebook Product when you sign up for an account on a different Product.
+> 
+>   *  **Location-related information:** We use [location-related information](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fabout%2Fbasics%2Fmanage-your-privacy%2Flocation&h=AT2sD6CSUl29qlknX5pYBhKHGZWUlweMIEv7_RhqqhSZCluGw4UYzISWhkMp0-LV_HsDOiaNjRIBS5ZIx9Cq4pZ9oMi89FcBipZZkyvuQu8skXny3s8BTKHoznQ2sMBsK0_RjRZF9mn60okSi1coYRCZ7pc)-such as your current location, where you live, the places you like to go, and the businesses and people you're near-to provide, personalize and improve our Products, [including ads](https://l.facebook.com/l.php?u=AT1qEFrJ8YeZzh5Ti2AvqWz2gs728hn-NSFHj__dhTdSZ3xQ0ifhwoi9ikeKRTKd8DKwoo3gIdk7jCHh_9Ugs4ec6egvB0lngDswIA&h=AT2mxjPMjXbStfZo8O2B27pmVKf1cSoZh7GmqWximPnXEuOgbHSz1nqVjjoh3Q3xTbzQCDMGDP8CZDidU2UAkkAXDJG77sz4UJQcyiHW4M-QxFQUFsvNI_wqwkK_zdIdIKDMY5afcFrD9heJ3MpCpasmBLnX), for you and others. Location-related information can be based on things like precise device location (if you've allowed us to collect it), IP addresses, and information from your and others' use of Facebook Products (such as check-ins or events you attend).
+> 
+>   *  **Product research and development:** We use the information we have to develop, test and improve our Products, including by conducting surveys and research, and testing and troubleshooting new products and features.
+> 
+>   *  **Face recognition:** If you have it turned on, we use face recognition technology to recognize you in photos, videos and camera experiences. The face-recognition templates we create may constitute data with special protections under the laws of your country. Learn more about [how we use face recognition technology](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F218540514842030%3Fref%3Ddp&h=AT2wcXGnHcWvgqgLj_nrebKNKXIVb0jEN8r4yzuK4fFIUAfLENoESXydsAZqOVhZPLhDjOk7c9o2KYNIi71idUsKBLKm9RdtBGdZRojzaDKOE65_ICtV1MDLys3gHtEjHGvs5b6SgSQvmcpnU9OH-o_pJxA), or control our use of this technology in [Facebook Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fsettings%2Ffacerec&h=AT0DnXDuc-S7PedQK9Cseqphr_3MkZ3JrG4aTO9DdL5yuzd2DeEjHSoQjjeu0d7xRthfJohbVK3PgvNVlbT2csZi2GwYoJnlrDT_9pCOM1B98no0dybVFBImSKWNI1bX1yG8ht1kKwWcyypu9xEgYtjHflE). If we introduce face-recognition technology to your Instagram experience, we will let you know first, and you will have control over whether we use this technology for you.
+> 
+>   *  **Ads and other sponsored content:** We use the information we have about you-including information about your interests, actions and connections-to select and personalize ads, offers and other sponsored content that we show you. Learn more about how we [select and personalize ads](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fads%2Fpreferences&h=AT03N70Dz2xIO_H_PKnIBXpXKFFob0Nl2RWUnP3vfW3Bp1dHiu7AXKXseotlztpUyCJss8AL3odVfzHQp4JPIlT7tFhELM-89mrJvBqdtMYwINWNsFOzZ9SIzHsnZ9S9s748AzCi2_SFhOCSp2-BGqcjYCTTDVzv9eG3NcAb), and your choices over the data we use to select ads and other sponsored content for you in the [Facebook Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fsettings&h=AT1o-7pQWTSdzSJL2NPsABu5tCnNvMaGTggURRVzDbsgJMces4pNwzN9ql9aMqty0jKWzN4gQns1VFJQRMJwNoOX2ymrs134RYEZd982czxnp1EwcXKCbPGN8m1LFOXf9fhfG6u7uGzwT6A9WyKRrJJoTLU) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT0-bGD045Ni3u23AK3LqQcc3gmerJ5kHCr_Ft2oL3a5shLCAOfinSoE0tGwXQXaPfS7CaCn_9QU6AjgsjqYp5B3NM0NXsnvz4F4xKh7JkwquhfpBWgp2V8mX5Yjlvykon6XnhprNC5ph13hfGMB2l87VjY).
+> 
+> 
+
+> 
+>  **Provide measurement, analytics, and other business services.**
+> 
+> We use the information we have (including your activity off our Products, such as the websites you visit and ads you see) to help advertisers and other partners measure the effectiveness and distribution of their ads and services, and understand the types of people who use their services and how people interact with their websites, apps, and services. Learn how we share information with these partners.
+> 
+>  **Promote safety, integrity and security.**
+> 
+> We use the information we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off of Facebook Products. For example, we use data we have to investigate suspicious activity or violations of our terms or policies, or to [detect when someone needs help](https://l.facebook.com/l.php?u=https%3A%2F%2Fcode.facebook.com%2Fposts%2F286893341840510%2Funder-the-hood-suicide-prevention-tools-powered-by-ai%2F&h=AT0Gaz1NWSFsWGXB-grNz2LsXRsCSLTlhD4jUiWx_WXVR-ssMlPB7ew1v5afj0-DQbFcrZnKoee5mIrDrHkk6KcT3p5uBgQmcvPxVejCV8tk-v5lgjrPzPkKyUnCtFfVh8MWKmObMu6j4Wi0eje47KtxSyI). To learn more, visit the [Facebook Security Help Center](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F379220725465972%3Fref%3Ddp&h=AT0mvhWWD_WR3xClmR_TTxw114rp2wJ-sdyN9f-NTbcpl15JTlEbPqbU3Wc6sA9AacpneJ3IX6BzsrCG5edNOR18iQ8bgIdb-T35u3NdfQiIwltR8_IfGSrKSsLAsNcde9fqwT534VloFtt3JWMoaSDE2Is) and [Instagram Security Tips](https://help.instagram.com/369001149843369).
+> 
+>  **Communicate with you.**
+> 
+> We use the information we have to send you marketing communications, communicate with you about our Products, and let you know about our policies and terms. We also use your information to respond to you when you contact us.
+> 
+>  **Research and innovate for social good.**
+> 
+> We use the information we have (including from research partners we collaborate with) to conduct and support [research](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2F&h=AT3YgzqHF3zyGte5DRGouq_tjC5shy64PdtXytw4oceSrZf1Hcu73kKZVoQ8IPosv-OM5Ylwr1MAiBvf1rYlmjyxX3GR8XYpix2L-zmrr0XpD0DcrTLh-2FvZNDn6scwiLyr3L6O1YnN9RNz3YMrDd_guJg) and innovation on topics of general social welfare, technological advancement, public interest, health and well-being. For example, [we analyze information we have about migration patterns during crises](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2Ffacebook-disaster-maps-methodology%2F&h=AT1rHCazE2-7wrJfAQXZi9GcI1bVcsN2_OJrPYGFPtYi5TiZYSEatNfSABYuvNFcNQR7CehR0qejtn3r9z_2uyAkI3h0sa37aaKKQzp-giJBUnShf2uXVGlgrNASDo7KMBDJ0rbEEGRe8_In38O25jkVpKQ) to aid relief efforts. [Learn more](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2F&h=AT1UfdE_rwTUcYtxg9owG3NDjVpWdY1LuTNmCmSybkwOyBqw0Ihuknw1CLYdApYS9v0poI2laqQJSA3omdIiZ4YK0nOxVMShof1LgtXTQ7iOBJxIQEOX2m48SiAVHKny241Mrsd_KcljATngrt-NBL-S5CE) about our research programs.
+
+##  **III. How is this information shared?**
+
+Your information is shared with others in the following ways:
+
+ **Sharing on Facebook Products**
+
+>  **People and accounts you share and communicate with**
+> 
+> When you share and communicate using our Products, [you choose the audience for what you share](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F120939471321735%3Fref%3Ddp&h=AT2P9HXD-zZbFXeiw5IsNRXUk0Mf8jCZqPNGuxnhNVM-0VZhwzs1rUZ8a2Fqp1sY6nGY2beInktGA_iLBR6VvS-1YNFzLdjXQ-3KQWimYOj4zCbsLYFSS7TVik2q5IPI8egtT1NtE_vXkE3W4QCt46uxLPo). For example, when you post on Facebook, you select the audience for the post, such as a group, all of your friends, the public, or a customized list of people. Similarly, when you use Messenger or Instagram to communicate with people or businesses, those people and businesses can see the content you send. Your network can also see actions you have taken on our Products, including engagement with ads and sponsored content. We also let other accounts see who has viewed their Facebook or Instagram Stories.
+> 
+>  **[Public information](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F203805466323736%3Fref%3Ddp&h=AT2SSIEB_BfFTzGwQwkaX5Lq-jz4ThS27v_snBfHjX0LxcR-rTg-3Xdc-oFjUJYPQEoF_Vx_V3lP1ql1Tc1yab7uA8SWSyDyo57rkurn0OX7uzKAAl-hugy31pzALWvfqhFHpf96jpCPArODHrqPKaI2VeM)** can be seen by anyone, on or off our Products, including if they don't have an account. This includes your Instagram username; any information you share with a public audience; information in your [public profile on Facebook](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F203805466323736%3Fref%3Ddp&h=AT1uuPqeCPb_oDWQK-wVOZwuEn_ITb_urrG8cHBbg5TX0oJ8xN8oJfzRgxH060ZUu8G26PchoSB2K3Rw5s5d-cpppcj7mgGD0-h4NHH1MTfEeoGSK2_J5-lX8yVFkT3MhxjORMLWleA8UGT70LNju4TNaiA); and content you share on a Facebook Page, [public Instagram account](https://help.instagram.com/448523408565555?ref=dp) or any other public forum, such as [Facebook Marketplace](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fmarketplace&h=AT3Oebqm-a_Q5RUXEXMMrsv-FGX258K8L5S9wIhSj0l0x7I_rXLYl9ygbVAcbE-iDjmxn-pC8JDpBbs0Yrc6VwW8KHOY_ZGrmJt4UdotOOtKOjJSFU5GDLl3xPpIfVk32n3myetOLysrx57W4YnwfvgjD3k). You, other people using Facebook and Instagram, and we can provide access to or send public information to anyone on or off our Products, including in other Facebook Company Products, in search results, or through tools and APIs. Public information can also be seen, accessed, reshared or downloaded through third-party services such as search engines, APIs, and offline media such as TV, and by apps, websites and other services that integrate with our Products.
+> 
+> Learn more about what information is public and how to control your visibility on [Facebook](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F203805466323736%3Fref%3Ddp&h=AT1Wq3igtKjnYIMi8FdvGQ-y-7MmmwAgJxTGJcU4Cvf-8VZYCFEnjpdWPVt3DVdRC4cO_-qtHXcJpW5bTdhoItpfeNLrz5gB8l9JUR_hWQtvMYSw-4HNCEMUun_cAu2W6owggbmlMJKt13TYrEnLPoDDMSo) and [Instagram](https://help.instagram.com/243810329323104?ref=dp).
+> 
+>  **Content others share or reshare about you**
+> 
+> You should consider who you choose to share with, because people who can see your activity on our Products can choose to share it with others on and off our Products, including people and businesses outside the audience you shared with. For example, when you share a post or send a message to specific friends or accounts, they can download, screenshot, or reshare that content to others across or off our Products, in person or in virtual reality experiences such as [Facebook Spaces](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F241256606347754%3Fref%3Ddp&h=AT19WQUpx9idxtfN2bhWhuk-CD3k-PksvcqmY90Zdnz3oa5Jsb5BR4rl-xYytLy9jvkm1GChkIfn2d5FT1eUOyv776SwXr1jjNb9w0_OimkuaWDWzW4u6Rlw6flfuS9bJ5K6JhY9oEONS82v2AKdUq8K9Ww). Also, when you comment on someone else's post or react to their content, your comment or reaction is visible to anyone who can see the other person's content, and that person can change the audience later.
+> 
+> People can also use our Products to create and share content about you with the audience they choose. For example, people can share a photo of you in a Story, mention or tag you at a location in a post, or share information about you in their posts or messages. If you are uncomfortable with what others have shared about you on our Products, you can learn how to [report the content](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F181495968648557%3Fref%3Ddp&h=AT1pEqFVHl_aMAeazxCxxMFWdVbDnlf8NX1w8-P8k552NnzsYcSjsY8evF1DbS90t6N_RgNpuj_Teaj3qi9GWmgodMWkQLGuU36-iKW49gWpCD2VHWMA7UeIWntxz72jsZPCfeKCiOoUDt_XDFCc5-hr2xo).
+> 
+>  **Information about your active status or presence on our Products.**
+> 
+> People in your networks can see signals telling them whether you are active on our Products, including whether you are currently active on [Instagram](https://help.instagram.com/906123729538696?ref=dp), [Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F149081061827062%3Fref%3Ddp&h=AT3KZuEgVqp6KKLgfy8teGT6majtRM0cZd--1S8nJrkZqRdtbWMIYzeTnv7EQgn3NADkpaKkQ9kf5TR-py6bIyaxSTEPN9abaun5-5ZQdOxktlIcBsAR5Kp3q6zVRSl7k1h_REThar6Q-5bTBe1OkAoitjY) or Facebook, or when you last used our Products.
+> 
+>  **Apps, websites, and third-party integrations on or using our Products.**
+> 
+> When you choose to use third-party apps, websites, or other services that use, or are integrated with, our Products, they can receive information about what you post or share. For example, when you play a game with your Facebook friends or use a Facebook Comment or Share button on a website, the game developer or website can receive information about your activities in the game or receive a comment or link that you share from the website on Facebook. Also, when you download or use such third-party services, they can access your public profile on Facebook, and any information that you share with them. Apps and websites you use may receive your list of Facebook friends if you choose to share it with them. But apps and websites you use will not be able to receive any other information about your Facebook friends from you, or information about any of your Instagram followers (although your friends and followers may, of course, choose to share this information themselves). Information collected by these third-party services is subject to their own terms and policies, not this one.
+> 
+> Devices and operating systems providing native versions of Facebook and Instagram (i.e. where we have not developed our own first-party apps) will have access to all information you choose to share with them, including information your friends share with you, so they can provide our core functionality to you.
+> 
+>  _Note: We are in the process of restricting developers’ data access even further to help prevent abuse. For example, we will remove developers' access to your Facebook and Instagram data if you haven't used their app in 3 months, and we are changing Login, so that in the next version, we will reduce the data that an app can request without app review to include only name, Instagram username and bio, profile photo and email address. Requesting any other data will require our approval._
+> 
+>  **New owner.**
+> 
+> If the ownership or control of all or part of our Products or their assets changes, we may transfer your information to the new owner.
+
+ **Sharing with Third-Party Partners**
+
+> We work with third-party partners who help us provide and improve our Products or who use Facebook Business Tools to grow their businesses, which makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone, and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide. Here are the types of third parties we share information with:
+> 
+>  **Partners who use our analytics services.**
+> 
+> We provide aggregated statistics and insights that help people and businesses understand how people are engaging with their posts, listings, Pages, videos and other content on and off the Facebook Products. For example, Page admins and Instagram business profiles receive information about the number of people or accounts who viewed, reacted to, or commented on their posts, as well as aggregate demographic and other information that helps them understand interactions with their Page or account.
+> 
+>  **Advertisers.**
+> 
+> We provide advertisers with reports about the kinds of people seeing their ads and how their ads are performing, but we don't share information that personally identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us permission. For example, we provide general demographic and interest information to advertisers (for example, that an ad was seen by a woman between the ages of 25 and 34 who lives in Madrid and likes software engineering) to help them better understand their audience. We also confirm which Facebook ads led you to make a purchase or take an action with an advertiser.
+> 
+>  **Measurement partners.**
+> 
+> We share information about you with companies that aggregate it to provide analytics and measurement reports to our partners.
+> 
+>  **Partners offering goods and services in our Products.**
+> 
+> When you subscribe to receive premium content, or buy something from a seller in our Products, the content creator or seller can receive your public information and other information you share with them, as well as the information needed to complete the transaction, including shipping and contact details.
+> 
+>  **Vendors and service providers.**
+> 
+> We provide information and content to vendors and service providers who support our business, such as by providing technical infrastructure services, analyzing how our Products are used, providing customer service, facilitating payments or conducting surveys.
+> 
+>  **Researchers and academics.**
+> 
+> We also provide information and content to research partners and [academics](https://l.facebook.com/l.php?u=https%3A%2F%2Fresearch.fb.com%2Fprograms%2F&h=AT2k5b64NEqgtb_Ge9pJWP9BtsDBCQX6C51giRYTUQHOeCDe5j7NCROcKg4Y7Hp57fvC4D4Ig0sL_APiSnftab_ci7o02fwUhz4Hv7Pgk0_52vANVBYcEYAPbIWjlwC5e-wNsyy8PsPVku_fjC86nfWK1Ak) to conduct research that advances scholarship and innovation that support our business or mission, and enhances discovery and innovation on topics of general social welfare, technological advancement, public interest, health and well-being.
+> 
+>  **Law enforcement or legal requests.**
+> 
+> We share information with law enforcement or in response to legal requests in the circumstances outlined below.
+> 
+> Learn more about how you can control the information about you that you or others share with third-party partners in the [Facebook Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fsettings&h=AT0A0h1wKYGlAGrW2n-XuAIRga4AxbFY69Nr4BDHnZQ88FvQb2XII5qzupWPzMtjlLMTINN6BVjRLKN8pTJLS8l8yWW_HAdHD3QNkirNrr9pBsFbLycfM4Fg9dQl0PU2PKoiq4d7dxiddBmC7qz8VVnp_3Q) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT20C7UVo15iA1jzcBRcAfMnJ3FbmuFVgk24OhoS77vCJX4RlSkUpDfjuBB5QM4xfkyzqde9zcTO2vSnz00BfkBoaKYsrnWoU4KIOYwqEUSS2jZDeCFwqh2fOQ7tz1e2ovU_iCFPHRGn-2VVY6o41kUaXXI).
+
+##  **IV. How do the Facebook Companies work together?**
+
+Facebook and Instagram share infrastructure, systems and technology with other [Facebook Companies](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F111814505650678%3Fref%3Ddp&h=AT3urnJqxxOs3poe2tc6u18_rxrmq0bt2OFuKi1E8HkdXioJtudTpTiyEXouLbLQ00lNO9wLhHe1kFNo6FNuSFGWOPzcC5OyorCIhBvIbAMgbYKhApD6JGEr2PjNqo4S73MgbL49pSYcXYNv1PTTuOUHM_I) (which include WhatsApp and Oculus) to provide an innovative, relevant, consistent and safe experience across all [Facebook Company Products](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F195227921252400ref%3Ddp&h=AT2zgBqAPPscDQECWnRG9zUpcvwdKMBZx6GuKF-dcjICw0wiyS9Fw1KA9YvFZbf7RhMm1kH8i236Dp6oR8uIPTctrCpsfGMSKQvL_gZkttroIuSbA5bfEq0OjDvMJh7fC0j06mjT2_oPMjeaBw8_GMakBs4) you use. We also process information about you across the Facebook Companies for these purposes, as permitted by applicable law and in accordance with their terms and policies. For example, we process information from WhatsApp about accounts sending spam on its service so we can take appropriate action against those accounts on Facebook, Instagram or Messenger. We also work to understand how people use and interact with Facebook Company Products, such as understanding the number of unique users on different Facebook Company Products.
+
+##  **V. How can I manage or delete information about me?**
+
+We store data until it is no longer necessary to provide our services and Facebook Products, or until your account is deleted - whichever comes first. This is a case-by-case determination that depends on things like the nature of the data, why it is collected and processed, and relevant legal or operational retention needs. For example, when you search for something on Facebook, you can access and delete that query from within your search history at any time, but the log of that search is deleted after 6 months. If you submit a copy of your government-issued ID for account verification purposes, we delete that copy 30 days after submission. Learn more about deletion of [content you have shared](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F356107851084108%3Fref%3Ddp&h=AT1O8Sw7aLVDqgFgRUu9rKXrZ_L3ohO1x2rYAs0WQvWcNnl12auXg9SJZ19bULPjUNcRxik5CHnzxlaMIiivg1j5OcXxGucIxgFJ9hZhQ3h0ZsNuBHNGSCWRZQna4oN_EXpiIGgV3PuvTGvXazM5MhwR5go) and [cookie data obtained through social plugins](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F206635839404055%3Fref%3Ddp&h=AT3fr7W_nSVJtBbUIRyGJKbCfbrju2ngyYEOPW6if5eFIjocydy9NJyOtXUhIG44MjzmV6A95UoAFp0_Ptl6H_T11gXtBp6RewmLxYrD9qGqv_U5tJXoZMt-qAKpytCVkloaYg4H6DL7zk-HVi9Ft9oy278).
+
+When you delete your account, we [delete things](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F356107851084108%3Fref%3Ddp&h=AT3aLHafJAg2YBmgR2_ZzRUpstQLqUruYavSoTjSJ6bJSssGAi44-z6lAaMrda4sRiB1YzzFmRXPCFvqy4GxedbHnmQ9ozb2GqDaYPWbwicMxraVPf3owmxru6EhsleHzturYB_F1Xcy_NLM8vnKzUKfq08) you have posted, such as your photos and status updates, and you won't be able to recover that information later. Information that others have shared about you isn't part of your account and won't be deleted. If you don't want to delete your account but want to temporarily stop using the Products, you can deactivate your account instead. To delete your account at any time, please visit the [Facebook Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fsettings&h=AT1Ivun6U9NpdXkRA9AInUu32ePz1JG0_-EWQV8z-yPV8LBlsNu-1DCGq1RMo3K2TVngaM8beoy80tuDH2MMDHC8m6YLH6jvvHJkK93jJVhG7uRXb_XpDHugolZHLzaxgahLRAgIUfmCOYq7K5XJ1JKpCUo) and [Instagram Settings](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fprivacy_and_security%2F&h=AT1gMO-OfcIO6stcaYaTtECtoGBHvJ4P-sbnEeweF8fX6rk6viZxCpyRMvn6vikeYeyeMs4TeDkngEKFO_O1Upxim_FgsKVId7hIXAensTuEygG4LT6dLq0uMMM9_7cqaYGrah_uJHdKkt1DWnuy_Fqb_GM).
+
+##  **VI. How do we respond to legal requests or prevent harm?**
+
+We access, preserve and share your information with regulators, law enforcement or others: 
+
+  * In response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States when we have a good-faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards.
+
+  * When we have a good-faith belief it is necessary to: detect, prevent and address fraud, unauthorized use of the Products, violations of our terms or policies, or other harmful or illegal activity; to protect ourselves (including our rights, property or Products), you or others, including as part of investigations or regulatory inquiries; or to prevent death or imminent bodily harm. For example, if relevant, we provide information to and receive information from third-party partners about the reliability of your account to prevent fraud, abuse and other harmful activity on and off our Products.
+
+
+
+
+Information we receive about you (including financial transaction data related to purchases made with Facebook) can be accessed and preserved for an extended period when it is the subject of a legal request or obligation, governmental investigation, or investigations of possible violations of our terms or policies, or otherwise to prevent harm. We also retain information from accounts disabled for terms violations for at least a year to prevent repeat abuse or other term violations. 
+
+## **VII. How do we operate and transfer data as part of our global services?**
+
+We share information globally, both internally within the Facebook Companies, and externally with our partners and with those you connect and share with around the world in accordance with this policy. Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this policy. These data transfers are necessary to provide the services set forth in the [Facebook Terms](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Flegal%2Fterms%2F&h=AT2HQ_q-NAsWNqgyB6Q8gr0Jqg9dDAZcknKj7CcOY8mQseY9HIGRNharz5Yh51X_t3xtkaK5Fmu9VjuBNWahM7nhissLOV9_nu3m35QO3pVGmh1A8mc8MzK_xdQX86mQM9iLIsUiib53MlBzvD_XoRQp9ds) and [Instagram Terms](https://help.instagram.com/581066165581870?ref=dp) and to globally operate and provide our Products to you. We utilize [standard contract clauses](https://l.facebook.com/l.php?u=http%3A%2F%2Feur-lex.europa.eu%2Flegal-content%2FEN%2FTXT%2FPDF%2F%3Furi%3DCELEX%3A32010D0087&h=AT0UTEOFc9tuLspt1HoR-CXm9ZjZEVNnQBh9WxPpayetGmcrIba22mjpGHcbvn3vj5TN_nOvr2DGHBRLaa5eNJFikhFsqbUklO9aJ7exZGcIsAW5L7lYifHdAU9blHn2HupzQhBWjLNXYp4w_Fy5m8802KU), rely on the European Commission's [adequacy decisions](https://l.facebook.com/l.php?u=https%3A%2F%2Fec.europa.eu%2Finfo%2Flaw%2Flaw-topic%2Fdata-protection%2Fdata-transfers-outside-eu%2Fadequacy-protection-personal-data-non-eu-countries_en&h=AT1j9SxRBlISzh_GiuY8sb-fwU7-7BJsIaDpmLJ4kgKzByTcLLveuhKZa4vDgUc09zO1Kq94GRRrYzzhgbdvuCzclqPvy5bnGc406O59OZV7aFNmJsW7X9dGKevMW3CJpgLU_vx0IbdCtJY-ehgVQX_3AY0) about certain countries, as applicable, and obtain your consent for these data transfers to the United States and other countries. 
+
+## **VIII. How will we notify you of changes to this policy?**
+
+We'll notify you before we make changes to this policy and give you the opportunity to review the revised policy before you choose to continue using our Products. 
+
+## **IX. How to contact Facebook with questions**
+
+You can learn more about how privacy works [on Facebook](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebook.com%2Fabout%2Fbasics&h=AT09NezFvjkotFgAQb1YNOgYF4MKOT2YQmGDLPHxxXIpr8IksE_86vnpjgMA8wYqGrBnCp2KwlXr-h41J0ff3D-RQoaMMfnoR9HnG6-qDA8xIwZbBXrUJAkAbspH_TOnQVYoOYSIQ8Yr6iIL4D3i1_GGE0s) and on [Instagram](https://help.instagram.com/196883487377501?ref=dp). If you have questions about this policy, you can contact us as described below. We may resolve disputes you have with us in connection with our privacy policies and practices through TrustArc. You can contact TrustArc through its [website](https://l.facebook.com/l.php?u=https%3A%2F%2Ffeedback-form.truste.com%2Fwatchdog%2Frequest&h=AT05_Of7dOpofyeKKR9HpAXojKxTWej5ezXqN_i-UOZH-PovK5CWmEOUR48V6iSQOz1NT_1io-iykjrwWXxSVgw778etPALIHIKZzfNpB7VfU-1s6L-b7k1temIjU_kTqNYJtF2R3HoKggqL_2TKkJibWUU). 
+
+You can contact us [online](https://help.instagram.com/contact/599419887064581) or by mail at: 
+
+Facebook, Inc.  
+ATTN: Privacy Operations  
+1601 Willow Road  
+Menlo Park, CA 94025 
+
+Date of Last Revision: April 19, 2018   
 
