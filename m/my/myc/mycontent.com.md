@@ -1,127 +1,247 @@
-> *The following text is extracted and transformed from the mycontent.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629234802id_/https%3A//vimeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycontent.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231235658id_/https%3A//vimeo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Vimeo
 
-Last Updated: May 23, 2018
+Last Updated: August 30, 2018
 
-Vimeo, Inc. respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. These privacy policies (the "Privacy Policy") are intended to describe for you, as an individual who is a user of [Vimeo.com](https://web.archive.org/) or any of our related sites, mobile and connected TV applications, or other online services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
+This Privacy Policy explains the information that Vimeo collects when you use its products and services, how that information is used, with whom it may be shared, and your privacy choices.
 
-We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our websites or any of our applications, you are accepting the practices described in this Privacy Policy. Vimeo, Inc. is a part of the IAC family of businesses ([www.iac.com](http://www.iac.com/)).
-
-If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
-
-## Information We Collect About You
-
-_In General_. We may collect personal information that can identify you, such as your name and email address, and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
-
-  * **Information you provide.** We may collect and store any personal information you enter on our website or provide to us in some other manner, including personal information that may be contained in any video, comment or other submission you upload or post to the website. This includes identifying information, such as your name, address, e-mail address, and telephone number; your likeness; and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender and age, and other demographic information.
-  * **Information from other sources.** We may also periodically obtain both personal and non-personal information about you from other IAC businesses, business partners, contractors and other third parties. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information.
-  * **Information about others.** We may also collect and store personal information about other people that you provide to us. If you use our website to send others (friends, relatives, colleagues, etc.) a product as a gift, information that may interest them or messages (such as invitations) through our system, we may store your personal information, and the personal information of each such recipient. Similarly, if you use our website to upload, share and/or distribute content (including videos, comments or other submissions), and such content contains personal information about others, such information may be stored in order to allow for such uploading, sharing and/or distribution.
-
-
-
-_Use of cookies and other technologies to collect information._ We use various technologies to collect information from your computer and about your activities on our site and third party sites on which we display ads or serve our video player. For more information on Cookies, please see our [Cookie Policy](https://web.archive.org/cookie_policy).
-
-  * **Information collected automatically.** We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
-  * **Cookies.** When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website. You may also clear or delete existing cookies from standard internet browsers.
-  * **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
-  * **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Unless expressly stated otherwise, our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+  1. Introduction
+  2. Children's Privacy
+  3. Data We Collect About You
+  4. How We Use Your Data
+  5. With Whom We Share Your Data
+  6. Legal and Safety-Related Disclosures
+  7. Data Retention
+  8. Your Privacy Choices
+  9. Account and Video Privacy Settings
+  10. Communications from Us
+  11. Protecting Your Information
+  12. Your Responsibilities
+  13. Third-Party Services
+  14. International Data Transfers and Certain User Rights
+  15. How to Contact Us
 
 
 
-## How We Use the Information We Collect
+## 1\. Introduction
 
-_In General._ We may use information that we collect about you to:
+##### Who we are and what we do
 
-  * deliver the products and services that you have requested;
-  * manage your account and provide you with customer support;
-  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
-  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our sister IAC companies or other third parties;
-  * develop and display content and advertising tailored to your interests on our site and other sites;
-  * verify your eligibility and deliver prizes in connection with contests and sweepstakes;
-  * enforce our terms and conditions;
-  * manage our business and
-  * perform functions as otherwise described to you at the time of collection.
+This Privacy Policy covers Vimeo, Inc. and its subsidiaries including Livestream LLC (collectively, **"Vimeo," "we" "us"** or **"our"** ). We provide online video sharing and related services through our websites, including Vimeo.com and Livestream.com, our branded applications for mobile and connected devices, and our embeddable video players. We also offer video-related devices, such as Mevo cameras and accessories. 
+
+##### Acceptance and Changes
+
+By registering for, downloading, or using our services, you accept this Privacy Policy, which is part of our [Terms of Service](https://web.archive.org/terms). We may modify this Privacy Policy from time to time. We will post any modified version of our Privacy Policy at [https://vimeo.com/privacy](https://web.archive.org/privacy). If we change the Privacy Policy in a way that materially lessens our commitments to you, we will provide notice to registered users by email or other methods. 
+
+## 2\. Children's Privacy
+
+We do not knowingly collect information of persons who are under the minimum required ages specified herein. Residents of the European Union must be at least 16. Persons outside of the EU must be at least 13. Persons who are under 18 must obtain parental consent to use our services. 
+
+## 3\. Data We Collect About You
+
+We collect information about you when you use our services. In addition, third parties may collect information about you when you use our services. Collected information may include or reflect personal information that could identify you, as well as non-personal information. We refer to your information as **"your data"** for short. 
+
+##### Account Information
+
+To create an account, you must provide a valid email address and password. If you choose to sign-up and/or authenticate using a third-party account (e.g., Facebook, Twitter), you authorize us to obtain account information from the third-party platform. 
+
+##### Financial Information
+
+To buy an item, you may need to provide a valid payment method (e.g., credit card or PayPal account). Your payment information will be collected and processed by our authorized payment vendors. We do not directly collect or store credit or debit card numbers ourselves in the ordinary course of processing transactions. If we allow purchase through a third-party platform (i.e., in-app purchase), the payment method stored with the third-party platform will be charged. 
+
+If you wish to sell items or earn money from advertising through our services, you must provide an account to receive funds and tax information, which may include your name, address, and taxpayer identification number. 
+
+##### Content
+
+Accountholders may create a profile and upload content such as videos, text, photographs, and artwork. Your profile may display information about you and your activities. This information may be accessed by others. Your videos may be viewed and otherwise accessed by others, and associated metadata (e.g., titles, descriptions, tags, etc.) are viewable by others. Your interactions with other users (e.g., comments, "likes," private messages) may be seen by others. You may choose to limit the availability of your profile and videos. For more details, see **Section 9**. 
+
+##### Other Information You May Submit
+
+You may submit data to us for limited purposes such as requesting customer support; answering a questionnaire; participating in a study; entering contests or sweepstakes; or signing up to receive communications from us or another user. 
+
+##### Automatically-Collected Information
+
+We automatically collect certain types of data when you use our services, regardless of whether you have an account. This data includes your IP address, technical information about your device (e.g., browser type, operating system, basic device information), the web page you visited or search query you entered before reaching us, and your activities. We may track your activities using cookies and similar technologies. By using our services, you agree to our use of these methods as set forth in our [Cookie Policy](https://web.archive.org/cookie_policy). 
+
+##### Physical Products
+
+We collect your shipping address to send you products you have ordered. We may automatically collect data concerning your use of our video devices. 
+
+##### Information Collected by Third Parties
+
+Some third parties may collect data about you when you use our services. This may include data you submit (such as payment information) or automatically-collected information (in the case of third-party analytics providers and advertisers). 
+
+We may obtain data from third parties about you. We may combine that data with information that we have collected. For example, some advertisers or advertising platforms may allow us to determine what other online services you might use so that we may place relevant ads on those services. 
+
+## 4\. How We Use Your Data
+
+We may use your data for the following purposes:
+
+  * **Identification and authentication:** We use your data to verify you when you access your account.
+  * **Operating our services:** We use your data to provide our services, process and fulfill orders, provide customer support, and to otherwise comply with our contractual obligations to you. We (and/or our third-party vendors) use your financial information to process purchases made by you and to pay you amounts you have earned.
+  * **Communicating with you:** We use your data when we communicate with you (e.g., when we respond to a customer support or other inquiry).
+  * **Improving our services:** We use your data to understand how our services are being used and how we can improve them. In general, we analyze aggregated data, rather than specific user data. We may, however, need to analyze a specific case to address a specific problem (e.g., a bug that affects only a few accounts).
+  * **Customizing your experience:** We use your data to personalize the service to you. This may include remembering your preferences for language or volume or displaying videos that you might enjoy, based upon your viewing choices.
+  * **Marketing and advertising:** We use your data to display ads and send you offers. We may also use your data in delivering third-party advertisements to you. This may include "targeted ads" based upon your activities.
+  * **Exercising our rights:** Where reasonably necessary, we use your data to exercise our legal rights and prevent abuse of our service. For example, we may use your data to detect and prevent fraud, spam, or content that violates our Terms of Service.
+  * **Legal compliance:** We use your data where we are legally required to do so. For example, we may need to gather your data to respond to a subpoena or court order.
+  * **Protecting your information:** Where appropriate, we may anonymize, backup, and delete certain data.
 
 
 
-_Financial information._ We may use financial information or payment method to process payment for any purchases, subscriptions or sales made on our website, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
+We may use algorithms and other automated means to implement any of the above.
 
-Please review "Your Choices About Collection and Use of Your Information" below.
+## 5\. With Whom We Share Your Data
 
-## With Whom We Share Your Information
+We share data with third parties as follows:
 
-We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our website or while using our services.
-
-_Personal information._ We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to [opt out](https://web.archive.org/opt_out) of having your personal information shared. We may share personal information with:
-
-  * **Authorized service providers:** We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
-  * **Seat Access.** If you are a PRO or Business subscriber, you may grant access to your account to others subject to a seat limit. By doing so, you will be sharing all information related to the content and settings of your account except for your account credentials.
-  * **Business partners:** When you make purchases, reservations or engage in promotions offered through our website or our services, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant’s offer or program, you authorize us to provide your email address and other information to that merchant.
-  * **Direct mail partners.** From time to time we may share our postal mailing list with selected providers of goods and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by [clicking here](https://web.archive.org/opt_out).
-  * **Other IAC businesses.** We are part of the IAC family of businesses (go to www.iac.com for a listing of these businesses). We may share information we collect, including personal information, with the IAC companies. Sharing information with our IAC companies enables us to provide you with information about a variety of products and services that might interest you.
-  * **Other Situations.** We also may disclose your information: 
-    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
-    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, report or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
-    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+  * **As you instruct:** We may make your profile and videos available to others as you instruct in using our services. We may share your data with persons to whom you have granted account-level access.
+  * **With your consent:** We may share your data with third parties where we have obtained your express consent to do so. You may revoke these consents.
+  * **Authorized vendors:** We may share your data with third-party vendors that help us operate our services, process orders, and comply with your instructions and our contractual obligations. This includes payment processors, content delivery networks (CDNs), cloud-based hosting services, monitoring services, email service providers, quality assurance and testing vendors, fraud and abuse prevention vendors, customer relations management (CRM) vendors, and shipment vendors.
+  * **Advertising:** We may share your data with advertising companies to display relevant ads to you. Unless you expressly agree, we will not share or sell your name, email address, or physical address with such persons.
+  * **Analytics:** We may share your data with persons who provide analytics showing how customers are using our services. 
+  * **Affiliates and advisors:** We may share your data with our parent company, IAC/InterActiveCorp, and our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. Unless you expressly agree, we will not share your data with our parent or any affiliate for other purposes, such as direct marketing.
+  * **Certain legal situations:** We may share your data where we believe disclosure is necessary to comply with a legal obligation or in connection with a corporate transaction as discussed in Section 6.
+  * **Aggregated or anonymized information:** We may publicly disclose non-personal aggregated or anonymized information such as our number of visitors and registered users.
 
 
 
-Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
+We use reasonable efforts to vet vendors for their privacy and data security practices. We require that such vendors agree to protect the data we share. 
 
-_Aggregated and non-personal information._ We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties and our IAC sister companies to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
+## 6\. Legal and Safety-Related Disclosures
 
-## Third-Party Websites
+We may disclose your data in response to official requests (e.g., court orders, subpoenas, search warrants, national security requests, etc.) ("requests") that we receive from government authorities or parties to legal proceedings. We direct law enforcement agencies to our [Law Enforcement Guidelines](https://web.archive.org/leo/guidelines) page.
 
-There are a number of places on our website or through our services where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement or a search result on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting.
+We handle U.S. requests in accordance with U.S. law. If the request originates from a foreign jurisdiction, we will typically disclose information where we in good faith believe that disclosure is permitted by both U.S. law and local law. In all cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
 
-## How You Can Access Your Information
+We may disclose user data where we reasonably believe that someone's life is at risk. For example, if we become aware of a person threatening to commit suicide, we may share that person's data with appropriate entities that may have the ability to help.
 
-If you have an online account with us, you have the ability to review and update your personal information online by logging into your account. You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
+We may disclose user data to report suspected crimes. We report content suspected of exploiting minors to the National Center for Missing and Exploited Children (NCMEC) along with the data identifying the uploading user.
 
-If you have an account with us, you also may choose to close your account (and remove any of your content) at any time by following the directions provided [here](https://help.vimeo.com/hc/en-us/sections/203915068-Account-Settings) or contacting customer support at: [support@vimeo.com](mailto:support@vimeo.com). After you close your account, you will not be able to sign in to our website or access any of your personal information. However, you can open a new account at any time. If you close your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our website or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.
+We may disclose user data in situations involving legal claims against us or one of our users. If you submit a [Digital Millennium Copyright Act (DMCA)](https://web.archive.org/dmca) or other takedown notice, we may share that notice with the affected user. If you challenge such a notice, we may share your response with the complainant. 
 
-## Your Choices About Collection and Use of Your Information
+We may share your data with potential transaction partners, advisors, and others in the event our company is, in whole or part, acquired by a third party. In such case, we will use reasonable efforts to require the acquiring entity to comply with this Privacy Policy.
 
-  * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our website.
-  * When you register on our website you may be given a choice as to whether you want to receive email messages and/or newsletters about product updates, improvements, special offers, or containing special distributions of content by us. At any time you can choose to no longer receive commercial or promotional emails or newsletters from us by clicking on the following link and entering the email address associated with your account: [click here](https://web.archive.org/opt_out). You also will be given the opportunity, in any commercial e-mail that we send to you, to [opt out](https://web.archive.org/opt_out) of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that, changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as a credit card processing partner or an event provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
-  * You may tell us not to share your personal information with third parties or the IAC family of companies for direct marketing purposes by clicking on the following link and entering the email address associated with your account: [click here](https://web.archive.org/opt_out).
+## 7\. Data Retention
+
+We retain your data for as long as you have an account. When you close an account, we will delete its content, including its videos. We may retain logs of automatically collected information (for internal analytics); your email address; your tax information; communications with you; and your transactional information (for auditing, tax, and financial purposes). When we no longer have a business reason for retaining data, we will delete or anonymize it.
+
+We retain deleted videos on our servers for a short period in case you wish to reverse deletion. Once we delete a video, we may not be able to recover it. If you have previously made a video public, the video or its thumbnail may be discoverable in a search engine's cache for a time. We have no control over search engines; however, we will, upon request, send a request for deletion to major search engines.
+
+If we receive legal process pertaining to your account, we will retain your data for as long as we in good faith believe is necessary to comply with the legal process. Similarly, if we believe that your account has been involved in wrongdoing, we may preserve your data to defend or assert our rights.
+
+## 8\. Your Privacy Choices
+
+We enable you to make numerous choices about your data:
+
+  * You may choose not to provide us with certain information. For example, you may choose not to create an account or not to provide optional account information. 
+  * You may change your account and video privacy settings. See **Section 9** for more details.
+  * You may change or correct information voluntarily submitted to us. We encourage you to keep your data current by viewing your settings page. 
+  * You may opt out of receiving commercial emails from us. See **Section 10** for more details. 
+  * You may limit the use of cookies. See our [](https://web.archive.org/cookie_policy)Cookie Policy for options. 
+  * You may backup your videos.
+  * You may close your account (which will delete all videos) or delete certain videos. 
 
 
 
-## How We Protect Your Personal Information
+Users from certain countries may have additional rights. See **Section 14** for more details.
 
-We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
+## 9\. Account and Video Privacy Settings
 
-We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission’s website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
+Our video hosting and sharing tools offer the ability to limit the distribution of your content, including your videos. This section explains some of your choices.
 
-## User Submissions
+##### Profile
 
-We may provide areas on our websites where you can post information about yourself and others and communicate with others; upload content (e.g. pictures, videos, audio files, etc.); and post comments or reviews of content found on the Website. Such postings are governed by our [Terms and Conditions of Use](https://web.archive.org/terms). In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address or share it with another user, you may receive unsolicited messages. We cannot control who reads your postings or what other users may do with the information you post or otherwise share with other users, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information.
+Some of our online subscription plans enable you to "hide" your profile or otherwise make it inaccessible on our website. Your profile will, however, remain accessible to persons who have access to your account or content.
 
-## Children’s Privacy
+##### Team Members
 
-Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13.
+Some of our subscription plans enable you to grant account-level access rights to others. Persons with such access (" **Team Members** ") may be able to see and potentially alter your data. You may revoke or downgrade Team Member access at any time.
 
-## No Rights of Third Parties
+##### Videos
 
-This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
+We enable you to manage the privacy settings of your videos. Your options, which depend on your subscription plan, may include:
 
-## Data Transfer
+  * **Public (or "anyone"):** Your video will be publicly-available.
+  * **Just you (i.e., "only me"):** Your video will be available to you and authorized Team Members.
+  * **Selected people:** Your video will be available to users you select (such as users you follow or specifically-designated users).
+  * **Password-protected:** Your video may be accessed by anyone who enters the password you have set.
+  * **Private link:** Your video may be accessed by anyone who enters the link assigned to it.
 
-Vimeo is headquartered in the United States and uses computer systems, servers, and databases located in the U.S. If you reside outside the U.S., your data will be transferred to, stored in, and processed in the U.S. To facilitate the transfer of data from certain countries in Europe to the U.S., we adhere to the self-regulatory regulatory EU-US and Swiss-US Privacy Shield frameworks and comply with the EU General Data Protection Regulation (GDPR). Please read our [Data Transfer Statement](https://web.archive.org/transfer_statement) for more information about these frameworks and laws, your rights, and how you may resolve complaints with us.
 
-## Changes to This Privacy Policy
 
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "Last Updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an email to the email address you most recently provided us in your account, profile or registration (unless we do not have such an email address), and/or by prominently posting notice of the changes on our website. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+You may change these settings at any time. Changes will be applied on a go-forward basis. You should exercise caution in granting access to others. Once you have granted access to someone else, you lose a degree of control over the distribution of your video as those persons may share the password and/or link with other people. Regardless of your profile or video privacy settings, Vimeo reserves the right to inspect them for compliance with its [Terms of Service](https://web.archive.org/terms), to provide customer support, or to address technical issues.
 
-## How to Contact Us 
+## 10\. Communications from Us
 
-If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by [email](https://web.archive.org/help/contact) or postal mail as follows:
+##### Emails
+
+By creating an account, you consent to receive commercial emails from us. This includes newsletters and offers. Users from certain countries may have the ability to opt out or opt in at the time of account creation. All users may decline to receive commercial messages in their account settings. Please note that any opt-out request may take several days to process and you will continue to receive transactional emails from us (e.g., emails confirming transactions and/or providing information about your account).
+
+##### Mobile Device Communications
+
+We may, with your consent, send push notifications in our apps. You may disable these by declining them or changing the app's settings. To the extent provided, we may, with your consent, send SMS messages to your mobile telephone for authentication and security purposes. You may opt out of receiving such messages at any time.
+
+## 11\. Protecting Your Information
+
+We use physical, technical, and organizational security measures to safeguard your data from unauthorized or accidental disclosure. Despite these efforts, no information system can be 100% secure, so we cannot guarantee the absolute security of your information. Users also have a role to play in keeping their data safe. We encourage you to use a unique and hard-to-guess password for your account and to not share it with others. You should only grant access rights to people who you know and trust, and, even then, you should be careful in granting all access rights. You should monitor your account regularly. If you believe that someone has gained access to your account without your permission, please contact us immediately so that we can investigate.
+
+## 12\. Your Responsibilities
+
+You may receive other people's data in using our service. If you receive information from other users, you must comply with all laws, including those concerning privacy, data security, and online marketing.
+
+## 13\. Third-Party Services
+
+We may provide links to online services that we do not own or operate. These services fall outside of this Privacy Policy and we have no control over the data they collect. For example, if you click on an advertisement, you may be taken to the advertiser's website. Once on a third-party site, your data may be collected by others. We encourage you to read the privacy policies of such services before using them. 
+
+You may use our service through third-party sites. For example, you may watch a video that is embedded on a third-party site or use one of our apps on a third-party platform. This Privacy Policy covers our apps and video players, but does not cover any third-party site or any third-party video player. 
+
+## 14\. International Data Transfers and Certain User Rights
+
+##### 14.1 Location of Data
+
+Vimeo is based in the United States. We provide services globally using computer systems, servers, and databases located in the U.S. and other countries. When you use our services from outside of the U.S., your information will be transferred to, stored in, and processed in the U.S. and other countries. Please note that U.S. data and privacy laws may not be as comprehensive as those in your country. Residents of certain countries may be subject to additional protections as set forth in **Sections 14.2** and **14.3** below.
+
+##### 14.2 GDPR (EEA Users)
+
+This **Section 14.2** applies only to natural persons residing in the European Economic Area (for the purpose of this section only, "you" or "your" shall be limited accordingly). It is Vimeo's policy to comply with the EU's General Data Protection Regulation (GDPR). In accordance with the GDPR, we may transfer your personal information from your home country to the U.S. (or other countries) based upon the following legal frameworks:
+
+  * Legitimate business interests: We could not provide our services or comply with our obligations to you without transferring your personal information to the U.S.
+  * Consent: We may transfer your personal information when we receive your express, revocable consent.
+  * Our use of Standard Contractual Clauses (also known as "Model Clauses") where appropriate.
+  * The EU-U.S. and Swiss-U.S. Privacy Shield frameworks, as described further below.
+
+
+
+You have the right to: opt out of non-essential cookies (see our [Cookie Policy](https://web.archive.org/cookie_policy)); access, correct, delete, restrict, or object to our use of your personal information; be forgotten; port your data; and withdraw consents. We enable exercise of these rights primarily through our services (which we reserve the right to modify). For example, we allow users to change their information, download their videos, and close their accounts. We also fulfil our obligations in response to direct requests. We will endeavor to process requests within one month. Please note that we may not be able to comply with requests to the extent that they would cause us to violate any law or infringe any other person's rights. We reserve the right to request appropriate identification. We will process requests free of charge unless they would impose an unreasonable cost on us.
+
+If you have a request, complaint or inquiry, please contact our Data Protection Officer at the address listed in **Section 15**. We are committed to working with you to obtain a fair resolution of any issue. You also have the right to file a complaint with the supervisory data protection authority of your jurisdiction.
+
+##### 14.3 Privacy Shield (EU and Swiss Users)
+
+This **Section 14.3** applies only to natural persons residing in the European Union and Switzerland (for the purpose of this section only, "you" or "your" shall be limited accordingly). Vimeo complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework (collectively, **"Privacy Shield"** ) regarding the collection, use, and retention of personal information transferred from the EU to the U.S.
+
+Vimeo adheres to the Privacy Shield principles of notice, choice, onward transfer, security, data integrity, access, and enforcement (the **"Privacy Shield Principles"** ). Vimeo has established policies and procedures to ensure compliance with the Privacy Shield Principles and will conduct an annual internal assessment to ensure such compliance. If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+
+Vimeo has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view Vimeo's certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). By making this certification, Vimeo is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+
+Where Vimeo has transferred personal information of EU or Swiss residents to third parties, Vimeo shall be liable if those third parties do not process personal information in compliance with the Privacy Shield Principles. This shall not be the case where Vimeo establishes that it is not responsible for the damage caused by the third party.
+
+In accordance with Privacy Shield Principles, Vimeo commits to resolve complaints about our collection or use of your personal information. If you have inquiries or complaints regarding our Privacy Shield policy, you should first contact Vimeo at the address listed in **Section 15**. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact our independent recourse mechanism provider, JAMS, at <https://www.jamsadr.com/eu-us-privacy-shield>, to file a complaint. JAMS' services are provided at no cost to you.
+
+If you have an unresolved complaint after contacting both Vimeo and JAMS, you may elect to arbitrate your Privacy Shield claims against Vimeo pursuant to Annex I of the Privacy Shield Principles, which provides for binding arbitration administered by the American Arbitration Association. Such arbitration will be binding upon you and Vimeo.
+
+##### 14.4 California User Rights
+
+California residents have the right to opt out of disclosing information to third parties for the purpose of allowing such third parties to directly market their products and services. At this time, we do not engage in this type of disclosure. If you have questions, please contact us.
+
+## 15\. How to Contact Us
+
+For any questions, inquiries, or complaints relating to your privacy, please contact us at:
 
 > **Vimeo, Inc.**  
 >  555 West 18th Street  
 >  New York, New York 10011  
-> 
-
-©2018 Vimeo, Inc. All rights reserved.
+>  Attention: Data Protection Officer  
+>  [Privacy@vimeo.com](mailto:privacy@vimeo.com)
