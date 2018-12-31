@@ -1,17 +1,26 @@
-> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627030824id_/https%3A//www.irs.gov/privacy-disclosure/irs-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231104720id_/https%3A//www.irs.gov/privacy-disclosure/irs-privacy-policy) for the most accurate reproduction.*
 
 # IRS Privacy Policy | Internal Revenue Service
 
-**[Access to privacy impact assessments](https://web.archive.org/privacy-disclosure/access-to-privacy-impact-assessments "Access to Privacy Impact Assessments")  
-[Information Automatically Collected and Stored](https://web.archive.org/privacy-disclosure/information-automatically-collected-and-stored "Information Automatically Collected and Stored")  
-[Security at IRS.gov](https://web.archive.org/privacy-disclosure/security-on-the-irsgov-website "Security on the IRS.gov Website")**  
- **[Email](https://web.archive.org/privacy-disclosure/irs-privacy-guidance-about-email-contact "IRS Privacy Guidance About Email Contact")  
-[If you send us information online](https://web.archive.org/privacy-disclosure/if-you-send-us-information-online "If You Send Us Information Online")  
-[Customer Satisfaction Surveys](https://web.archive.org/privacy-disclosure/customer-satisfaction-surveys "Customer Satisfaction Surveys")  
-[Cookies](https://web.archive.org/privacy-disclosure/cookies-on-irsgov "Cookies on IRS.gov")  
-[Computer Matching Programs](https://www.treasury.gov/privacy/Computer-Matching-Programs/Pages/default.aspx "Computer Matching Programs")  
-[System of Records Notices](https://www.treasury.gov/privacy/issuances/Pages/default.aspx "System of Records Notices")  
-[Using Links to other sites](https://web.archive.org/privacy-disclosure/links-to-other-websites "Links to Other Websites")**
+[Access to Privacy Impact Assessments](https://web.archive.org/privacy-disclosure/privacy-impact-assessments-pia "Privacy Impact Assessments - PIA")
+
+[Information Automatically Collected and Stored](https://web.archive.org/privacy-disclosure/information-automatically-collected-and-stored "Information Automatically Collected and Stored")
+
+[Security at IRS.gov](https://web.archive.org/privacy-disclosure/security-on-the-irsgov-website "Security on the IRS.gov Website")
+
+[Email](https://web.archive.org/privacy-disclosure/irs-privacy-guidance-about-email-contact "IRS Privacy Guidance About Email Contact")
+
+[Reporting Phishing and Online Scams](https://web.archive.org/privacy-disclosure/report-phishing "Report Phishing")
+
+[Customer Satisfaction Surveys](https://web.archive.org/privacy-disclosure/customer-satisfaction-surveys "Customer Satisfaction Surveys")
+
+[Cookies](https://web.archive.org/privacy-disclosure/cookies-on-irsgov "Cookies on IRS.gov")
+
+[Computer Matching Programs](https://www.treasury.gov/privacy/Computer-Matching-Programs/Pages/default.aspx "Computer Matching Programs")
+
+[System of Records Notices](https://www.treasury.gov/privacy/issuances/Pages/default.aspx "System of Records Notices")
+
+[Using Links to Other Sites](https://web.archive.org/privacy-disclosure/links-to-other-websites "Links to Other Websites")
 
 * * *
 
