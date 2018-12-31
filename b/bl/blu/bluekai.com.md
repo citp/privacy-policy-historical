@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluekai.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616000543id_/http%3A//www.oracle.com/us/legal/privacy/marketing-cloud-data-cloud-privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluekai.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224956id_/https%3A//www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html) for the most accurate reproduction.*
 
 # Oracle Data Cloud Privacy Policy | Oracle
 
@@ -26,7 +26,7 @@ This type of personal information is referred to as **third-party information**.
 
 The Privacy Policy does not apply to our customers’ own personal information collection practices or their use of your personal information for marketing and other purposes, including when they use the Oracle Marketing or Data Cloud to send you online advertising. This type of personal information is referred to as **first-party information**. To find out more about our customers’ use of first-party information about you, you are encouraged to review the relevant privacy policy of the company who collected your information from you or is sending you advertising. Please consult that company if you have any further questions about its use of information about you.
 
-For information about Oracle’s processing activities with regard your personal information that is outside the scope of this Privacy Policy, for example any personal information collected on Oracle websites and applications and used for Oracle’s own direct marketing purposes, please refer to [https://www.oracle.com/legal/privacy/index.html](https://web.archive.org/legal/privacy/index.html).
+For information about Oracle’s processing activities with regard your personal information that is outside the scope of this Privacy Policy, for example any personal information collected on Oracle websites and applications and used for Oracle’s own direct marketing purposes, please refer to [https://www.oracle.com/legal/privacy/](https://web.archive.org/legal/privacy/).
 
 ### 3\. WHO IS RESPONSIBLE FOR PROCESSING YOUR PERSONAL INFORMATION?
 
@@ -215,7 +215,7 @@ Please note that if you use this opt-out tool, Oracle will opt you out of Oracle
 
   * **AdTech Industry Opt Out.** You may also opt out of our processing of your personal information for Oracle Marketing & Data Cloud services by using the opt-out tools provided by the following industry groups: 
     * Digital Advertising Alliance (DAA): <http://www.aboutads.info/choices/>
-    * Network Advertising Initiative (NAI): [http://www.optout.networkadvertising.org](http://www.optout.networkadvertising.org/)
+    * Network Advertising Initiative (NAI): <http://www.networkadvertising.org/choices/>
     * European Interactive Digital Adverting Alliance (EDAA): <http://www.youronlinechoices.eu/> and <http://www.edaa.eu/>
 Oracle’s participation in these organizations may appear under the “BlueKai” or “Datalogix” names.
   * **Mobile Opt Out.** While the opt out methods described above often work for mobile web browsing, mobile ‘app’ environments do not accept cookies. You may want to consider installing the AppChoices App provided by the Digital Advertising Alliance (DAA)to exercise opt-out control for specific companies, including Oracle, when in a mobile app environment. More information on how to download and configure the AppChoices App relevant for your mobile platform is available [here](http://youradchoices.com/appchoices).
@@ -276,15 +276,21 @@ The NAI has created a compliance program that incorporates attestation reviews, 
 
 ### 16\. HOW TO CONTACT ORACLE IF YOU HAVE QUESTIONS, COMMENTS OR COMPLAINTS?
 
-Oracle has appointed a **Global Data Protection Officer**. If you believe your personal information has been used in a way that is not consistent with the Privacy Policy or your choices, or if you have further questions, comments or suggestions related to this Privacy Policy, or if you wish to exercise your right to access to your offline personal information as described in Section 12 above, please contact the Global Data Protection Officer by filling out an [inquiry form](https://oracle.ethicspointvp.com/custom/oracle/dp/form_data.asp).
+Oracle has appointed a Data Protection Officer. If you believe your personal information has been used in a way that is not consistent with the Privacy Policy or your choices, or if you have further questions, comments or suggestions related to this Privacy Policy, or if you wish to exercise your right to access to your offline personal information as described in Section 12 above, please contact the Data Protection Officer by filling out an [inquiry form](https://oracle.ethicspointvp.com/custom/oracle/dp/form_data.asp).
 
-Written inquiries to the Global Data Protection Officer may be addressed to:
+Written inquiries to the Data Protection Officer may be addressed to:
 
 Oracle Corporation  
 Global Data Protection Officer  
 10 Van de Graaff Drive  
 Burlington, MA 01803  
-U.S.A.
+U.S.A. 
+
+Robert Niedermeier  
+Hauptstraße 4  
+D-85579 Neubiberg / München  
+Germany  
+Email: [mail@legislator.de](mailto:mail@legislator.de)
 
 ### 17\. DISPUTE RESOLUTION OR FILING A COMPLAINT
 
@@ -302,3 +308,5 @@ Redwood Shores, CA
 
 Tel: +1.650.506.7000  
 Fax: +1.650.506.7200
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=c3494dad-9836-48cf-9d86-0f36fc9a04c6 "TRUSTe")
