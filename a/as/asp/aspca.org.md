@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspca.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625134852id_/https%3A//www.aspca.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspca.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231131316id_/https%3A//www.aspca.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ASPCA
 
@@ -38,7 +38,7 @@ When you access an ASPCA Website by or through a mobile device, the ASPCA may re
 
 We may use the data collected through cookies, log file, device identifiers, location data and clear gifs information to:  (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information, including advertising; (c) provide and monitor the effectiveness of our ASPCA Websites; (d) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our ASPCA Websites; (e) diagnose or fix technology problems; and (f) otherwise to plan for and enhance our service.
 
- _Third Party Tracking and Online Advertising_ : We may permit third party ad networks, social media companies, and other third party services to collect information about browsing behavior from visitors to our Service through third-party cookies, social plug-ins, or other tracking technology.  We may permit third party online advertising networks to collect information about your use of our ASPCA Websites over time so that they may play or display ads that may be relevant to your interests on our ASPCA Websites as well as on other websites or services.  Typically, the information is collected through cookies or similar tracking technologies.  The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device.  Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools.  (To learn more about cookies, clear gifs/web beacons and related technologies and how you may opt-out of some of this tracking, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](https://www.networkadvertising.org/)).  Depending on your mobile device, you may not be able to control tracking technologies through settings.  If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8afdefe8f9e3feefcaebf9fae9eba4e5f8ed).
+ _Third Party Tracking and Online Advertising_ : We may permit third party ad networks, social media companies, and other third party services to collect information about browsing behavior from visitors to our Service through third-party cookies, social plug-ins, or other tracking technology.  We may permit third party online advertising networks to collect information about your use of our ASPCA Websites over time so that they may play or display ads that may be relevant to your interests on our ASPCA Websites as well as on other websites or services.  Typically, the information is collected through cookies or similar tracking technologies.  The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device.  Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools.  (To learn more about cookies, clear gifs/web beacons and related technologies and how you may opt-out of some of this tracking, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](https://www.networkadvertising.org/)).  Depending on your mobile device, you may not be able to control tracking technologies through settings.  If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [website@aspca.org](mailto:website@aspca.org).
 
 3.               _SHARING OF YOUR INFORMATION_
 
@@ -64,7 +64,7 @@ Any information or content that you voluntarily disclose for posting to the ASPC
 
 4.               _YOUR CHOICES ABOUT YOUR INFORMATION_
 
-How to control your communications preferences: We always honor our members’ requests to modify their communication preferences.  You may (a) opt-out of receiving communications from us, and/or (b) have your name and contact information removed from mailing lists that we share or sell by sending an email to us at [[email protected]pca.org](https://web.archive.org/cdn-cgi/l/email-protection#0e796b6c7d677a6b4e6f7d7e6d6f20617c69) with your complete name, address and email address. The ASPCA assumes no responsibility for the data collection and use practices of third parties that process online payment transactions.  You may request a record of your information by calling the Development Department at (212) 876-7700 during normal business hours, Monday-Friday, 9:00am-5:00pm or by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2b5844474248425f4a5f424445586b4a585b484a0544594c).  If you would like to speak with someone about your communication preferences, including removal from donor lists, please contact us at:
+How to control your communications preferences: We always honor our members’ requests to modify their communication preferences.  You may (a) opt-out of receiving communications from us, and/or (b) have your name and contact information removed from mailing lists that we share or sell by sending an email to us at [website@aspca.org](mailto:website@aspca.org) with your complete name, address and email address. The ASPCA assumes no responsibility for the data collection and use practices of third parties that process online payment transactions.  You may request a record of your information by calling the Development Department at (212) 876-7700 during normal business hours, Monday-Friday, 9:00am-5:00pm or by e-mail at [solicitations@aspca.org](mailto:solicitations@aspca.org).  If you would like to speak with someone about your communication preferences, including removal from donor lists, please contact us at:
 
 Via Regular Mail:   
 ASPCA   
@@ -73,12 +73,12 @@ Attn.: Donor Stewardship 
 New York, NY 10128
 
 Via email:   
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b5c6dad9dcd6dcc1d4c1dcdadbc6f5d4c6c5d6d49bdac7d2)
+[solicitations@aspca.org](mailto:solicitations@aspca.org)
 
 Via Telephone:   
 (800) 628-0028
 
-Modifying or deleting your information: If you have any questions about reviewing, modifying or deleting your information, you can contact us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#780f1d1a0b110c1d38190b081b1956170a1f).
+Modifying or deleting your information: If you have any questions about reviewing, modifying or deleting your information, you can contact us directly at [website@aspca.org](mailto:website@aspca.org).
 
 5.               _DONOR PRIVACY_
 
@@ -91,7 +91,7 @@ Attn.: Donor Stewardship 
 New York, NY 10128
 
 Via email:   
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6714080b0e040e1306130e08091427061417040649081500)
+[solicitations@aspca.org](mailto:solicitations@aspca.org)
 
 Via Telephone:   
 (800) 628-0028
@@ -106,7 +106,7 @@ Keeping your information safe: The ASPCA cares about the security of your inform
 
 7.               _CHILDREN’S PRIVACY_
 
-The ASPCA is committed to safeguarding our users' online privacy and recognizes the importance of protecting the privacy of personal information, particularly that of children.  The ASPCA takes all required steps to protect the privacy and safety of children in accordance with the Children's Online Privacy Protection Act ("COPPA").  The ASPCA does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as users.  In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any information from a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e99e8c8b9a809d8ca9889a998a88c7869b8e).  You can find out more about online privacy for children from the Federal Trade Commission at <https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy>. 
+The ASPCA is committed to safeguarding our users' online privacy and recognizes the importance of protecting the privacy of personal information, particularly that of children.  The ASPCA takes all required steps to protect the privacy and safety of children in accordance with the Children's Online Privacy Protection Act ("COPPA").  The ASPCA does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as users.  In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any information from a child under 13, please contact us at [website@aspca.org](mailto:website@aspca.org).  You can find out more about online privacy for children from the Federal Trade Commission at <https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy>. 
 
 8.               _LINKS TO OTHER WEB SITES AND SERVICES_
 
@@ -123,7 +123,7 @@ Attn.: Legal Department 
 New York, NY 10128
 
 Via email:   
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8ae6efedebe6caebf9fae9eba4e5f8ed)
+[legal@aspca.org](mailto:legal@aspca.org)
 
 Via Fax:   
 (212) 860-3560
