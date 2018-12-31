@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipteez.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630060406id_/https%3A//clipteez.com/info.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipteez.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231020145id_/https%3A//clipteez.com/info.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # None
 
