@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trustarc.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629092805id_/https%3A//www.trustarc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustarc.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231114515id_/https%3A//www.trustarc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrustArc
 
-This Privacy and Data Processing Policy reflects our TrustArc global privacy practices and standards as of the effective date.
+This Privacy and Data Processing Policy reflects our TrustArc global privacy practices and standards as of the effective date. 
 
 ## Who we are
 
@@ -31,8 +31,6 @@ Return to Top ↑
 
 ## Your Rights
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=61551b7b-fa07-4c55-abb0-b97b34ae8614)
-
 You have six basic rights under privacy and data protection laws related to the data we process about you. You do not have to pay a fee, and we will aim to respond to your request within 30 days. We will honor the requests you make related to your rights as the law allows, which means in some cases there may be legal or other official reasons that we may not be able to address the specific request you make related to your rights. You may:
 
 **request access** to the personal information we process about you;
@@ -57,7 +55,7 @@ The data we process about you depends on who you are and how we interact with yo
   
 If you are a customer, business partner, or express interest in our solutions:
 
-**Learning about our company and our solutions** : If you request information about our solutions or partnership opportunities, we process your name, email address, phone number, job title, information about the company where you work, and any comments you provide. We append business information related to the company where you work you from third party sources, such as business intelligence providers. We also may append information from publicly available sources, such as LinkedIn.
+**Learning about our company and our solutions** : If you request or indicate an interest in information about our solutions or partnership opportunities, we process your name, email address, phone number, job title, information about the company where you work, including its website address, and any comments you provide. We append business information related to the company where you work from third party sources, such as business intelligence providers, information from publicly available sources, such as LinkedIn, as well as information about the number and frequency of your interactions with us online and offline, such as at events, webinars, via email and our website. We maintain and update this information as we continue to engage with you and use it as described under the **Legitimate Interests** processing purposes described below.
 
 **Using the TrustArc Privacy Platform** : If you are a licensed or other authorized user of our privacy technology platform, we process your name, email address, username, password, IP address, job title, phone number, information about the company where you work, actions you have taken in the applications on the platform, such as record creation, changes, input, responses, analysis, and approvals, and tickets filed on your behalf related to our platform.
 
@@ -150,7 +148,7 @@ If you are a customer, business partner, or express interest in our solutions:
 
   * To renew subscription-based solutions you have licensed based on our legitimate business interest in retaining you as a customer or partner;
   * To provide additional solutions you request based on our legitimate business interest to respond to your reasonable requests and to retain you as a customer or partner;
-  * To analyze the effectiveness of our interactions with you based on our legitimate interests to continue and to improve upon our engagement with you;
+  * To better understand the needs of the privacy and business communities we aim to serve, we analyze our interactions with you online and offline and store that information in a quantitative way. This helps us continue to improve how we provide information and engage specifically with you, including to help us determine when you might be ready to make a purchase based on repeated interactions with TrustArc. We do not make any automated decisions about you that would result in legal or other similarly significant effects on you;
   * To determine whether, when, and the IP address and associated city of, a marketing, sales, or business development email communication we sent was viewed based on our legitimate interest to effectively manage and improve upon such communications with you;
   * To understand the business that you work for and your prior experience based on our legitimate interest to tailor our communications with you to improve our engagement with you;
   * To understand your business and privacy-related needs based on our legitimate interest to develop and enhance our solutions to address your needs and to make them more relevant to you; and
@@ -294,29 +292,3 @@ Return to Top ↑
 We may make changes to this Policy from time to time based on changes to applicable laws and regulations or other requirements applicable to us, changes in technology, or changes to our business. Any changes we make to the Policy in the future will be posted on this page, and where we change this Policy in ways that also affect how we process personal information about you, where appropriate, we will notify you directly via email or other direct contact with you, and we also will post a notice on our home page that this Policy has changed.
 
 Return to Top ↑
-
-## Questions about TrustArc's Privacy Practices?
-
-If you have questions about a site that participates in TrustArc's program, rather than about TrustArc's own privacy policy or practices, please [click here](https://feedback-form.truste.com/watchdog/request) instead
-
-  
-
-
-Name:  
-
-
-Email:   
-
-
-Verify Email:   
-
-
-Country:   
-
-
-Please indicate the website about which you are submitting your question or comment:  
- 
-
-Please provide a detailed description of your question or concern:  
-(minimum 25 characters)  
-
