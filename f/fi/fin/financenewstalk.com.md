@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financenewstalk.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629044525id_/http%3A//financenewstalk.com/privacy/%23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financenewstalk.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231041031id_/http%3A//financenewstalk.com/privacy/%23) for the most accurate reproduction.*
 
 # Privacy | A Financial Inform Ation Release Platform
 
@@ -34,7 +34,7 @@ Possible rights disputes;
 Our Site may contain links to other sites. Other sites may also reference or link to our site. We are not responsible for the privacy practices or the content of such other sites.
 
 7\. Commitment  
-We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and Seeking Alpha’s Sites are constantly evolving to meet these demands. If you have any comments or questions regarding our Privacy Policy, please contact us at support@financenewstalk.com While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
+We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and Seeking Alpha’s Sites are constantly evolving to meet these demands. If you have any comments or questions regarding our Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
 
 8\. Your Consent  
 By using this Site, you consent to the terms of our Privacy Policy and to Seeking Alpha’s processing of Personal Information for the purposes given above. If you do not agree to this Privacy Policy, please do not use our Site. We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Policy at any time. Your continued use of our Site following the posting of changes to these terms means you accept these changes.
