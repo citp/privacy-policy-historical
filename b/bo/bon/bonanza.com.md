@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonanza.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625210612id_/https%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonanza.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231200603id_/https%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bonanza
 
@@ -50,7 +50,7 @@ Bonanza will disclose your personal information to others under the following ci
   * To law enforcement where a formal request has been made such as in responding to subpoenas, court orders or legal process;
   * Your actions on our Site are, or appear to be, in violation of the Terms of Service and disclosure of this information will assist in efforts to enforce the Terms of Service;
   * You post a listing, which Bonanza believes in its sole discretion, may create liability for Bonanza and disclosure of this personal information may minimize or eliminate its liability.
-  * To our service providers: we employ the services of a third party payment processor on the Site to fulfill payment when a purchase is executed. This third party isn't authorized to utilize your personal information for any other purposes. We also employ the services of a third party shipping agent.
+  * To our service providers: we employ the services of a third party payment processor on the Site to fulfill payment when a purchase is executed. Messages sent between buyers and sellers on Bonanza may be shared with the third party payment processor in the event of a purchase dispute. This third party isn’t authorized to utilize your personal information for any other purposes.
 
 
 
@@ -110,4 +110,6 @@ Your opinion truly counts. Our Site was designed to serve the needs of our Membe
 
 Or by mail: 3131 Western Ave #428, Seattle, WA 98121
 
-Statement last updated: May 21, 2018
+Statement last updated: November 28, 2018
+
+[View previous privacy policy](https://www.bonanza.com/site_help/privacy_policy?version=2018_05_21)
