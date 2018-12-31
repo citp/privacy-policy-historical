@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliceandolivia.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128173641id_/https%3A//www.aliceandolivia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliceandolivia.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231200426id_/https%3A//www.aliceandolivia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alice + Olivia
 
@@ -97,6 +97,10 @@ We make no representations or warranties of any kind, whether express or implied
 ###  Your Consent 
 
 You acknowledge that using our web site signifies your assent to Alice and Olivia Privacy Policy and Terms of Use and is undertaken at your own risk. We reserve the right to change this Privacy Policy and Terms of Use at any time, without advanced notice. If we decide to change our Privacy and Usage Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. 
+
+###  ADA Compliance 
+
+We monitor and test for ADA accessibility issues. If you are using a screen reader and are having problems using this website, please call 1.800.401.8211 or email customercare@aliceandolivia.com for assistance. 
 
 ###  Applicable Law 
 
