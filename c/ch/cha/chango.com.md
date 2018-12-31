@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chango.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231012806id_/http%3A//rubiconproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chango.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231220835id_/https%3A//rubiconproject.com/privacy) for the most accurate reproduction.*
 
 # Rubicon Project Privacy Dashboard And Opt-out - Rubicon Project
 
@@ -14,12 +14,12 @@ Like any summary, however, the Privacy Dashboard is not an exhaustive descriptio
 
 To read the full privacy policy governing:
 
-how we collect and use data on this corporate website, [click here](http://rubiconproject.com///privacy-policy/).  
-how we collect and use data through our advertising technology, [click here](http://rubiconproject.com///rubicon-project-yield-optimization-privacy-policy/).
+how we collect and use data on this corporate website, [click here](https://rubiconproject.com///privacy-policy/).  
+how we collect and use data through our advertising technology, [click here](https://rubiconproject.com///rubicon-project-yield-optimization-privacy-policy/).
 
 **Rubicon Project Opt-Out**
 
-To opt-out of the use of our technology to deliver you targeted advertisements based on your interests, [click here](http://rubiconproject.com//privacy/consumer-online-profile-and-opt-out/).
+To opt-out of the use of our technology to deliver you targeted advertisements based on your interests, [click here](https://rubiconproject.com//privacy/consumer-online-profile-and-opt-out/).
 
 **Data We Collect**
 
