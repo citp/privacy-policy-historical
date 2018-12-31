@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jmbullion.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625132402id_/https%3A//www.jmbullion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jmbullion.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231124934id_/https%3A//www.jmbullion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Customer Security - JM Bullion
 
@@ -59,11 +59,7 @@ The following are examples of the type of information that may be collected by J
 
 
 **Cookies**  
-JM Bullion uses so-called “Cookies,” which are files that are stored on your computer that can be retrieved to assist in customizing your experience with our Website. A “Cookie” is a string of information that a Website stores on a user’s computer, and that the user’s browser provides to the Website each time the user submits a query to the Website. The purpose of a “Cookie” is to support the functionality of the Website, for example by keeping track of your visual preferences or controlling the frequency of “pop-up” windows, and identify the user as a unique user of the Website.
-
-JM Bullion may use “Cookies” to customize your experience on the Website to your interests, to ensure that you do not repeatedly see content or informational messages that may be of no interest to you, and to store your password so you do not have to re-enter it each time you visit the Website.  If you want to disable “Cookies”, there is a simple procedure in most Internet browsers that allows you to turn-off “Cookies.” Please remember, however, that “Cookies” may be required to allow you to use certain features of the Website.  JM Bullion ignores any and all Do Not Track requests and signals.
-
-IF YOU DO NOT WISH TO HAVE “COOKIES” PLACED ON YOUR COMPUTER, YOU SHOULD ADJUST THE CORRESPONDING SETTING IN YOUR BROWSER TO REFUSE “COOKIES” BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN OF THE SERVICES AND CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF “COOKIES.” IF YOU REFUSE “COOKIES,” YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. 
+Please read our Cookie Policy [here](https://web.archive.org/cookie-policy/).
 
 **Web Beacons/Web Bugs**  
 JM Bullion may utilize a software technology called “clear gifs” (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to “Cookies,” and are used to track the online movements of users. In contrast to “Cookies,” which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customer’s personal information. Rather, we may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
