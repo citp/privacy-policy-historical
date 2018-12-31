@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gifs.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830201456id_/https%3A//gifs.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifs.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231111718id_/https%3A//gifs.com/policies/privacy) for the most accurate reproduction.*
 
 # gifs.com Privacy Policy
 
