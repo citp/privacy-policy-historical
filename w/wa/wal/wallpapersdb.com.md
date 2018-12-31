@@ -1,145 +1,85 @@
-> *The following text is extracted and transformed from the wallpapersdb.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231060445id_/http%3A//themeforest.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapersdb.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231084630id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy | ThemeForest
+# HugeDomains.com - Privacy Policy
 
-Envato Pty Ltd ( **Envato** ) has developed this Privacy Policy (“Policy”) to inform you about how we deal with privacy issues in relation to our website. Your privacy is very important to us and you must agree to the terms of this Policy before becoming an Envato Market member and/or using the Envato Market sites ( **Sites** ), included but not limited to
+HUGEDOMAINS.COM PRIVACY POLICY
 
-Site Name: | Accessible at:  
----|---  
-ActiveDen | [www.activeden.net](http://www.activeden.net/)  
-AudioJungle | [www.audiojungle.net](http://www.audiojungle.net/)  
-CodeCanyon | [www.codecanyon.net](http://www.codecanyon.net/)  
-GraphicRiver | [www.graphicriver.net](http://www.graphicriver.net/)  
-ThemeForest | [www.themeforest.net](http://www.themeforest.net/)  
-VideoHive | [www.videohive.net](http://www.videohive.net/)  
-3DOcean | [www.3docean.net](http://www.3docean.net/)  
-PhotoDune | [www.photodune.net](http://photodune.net/)  
-  
-This Policy governs the information we collect about you and your use of information we provide to you. By accepting this Policy and the Envato Market Terms Agreement, you expressly consent to our use and disclosure of your personal information in a manner prescribed in this Policy. You acknowledge this by using the Site. 
+HugeDomains's Privacy Policy describes how this site collects and uses the personally identifiable information provided by customers/consumers/users of this site. It also describes the choices available to customers regarding HugeDomains's use of customer's personally identifiable information and how that information may be accessed and updated by customers and how it may be provided to third-parties.
 
-## Information About Children
+If you do not agree to HugeDomains's Privacy Policy and/or [Terms of Service](https://web.archive.org/terms.cfm), you must immediately cease use of HugeDomains.com. If you do not agree, do not use HugeDomains's website or services,  do not purchase domains and do not enter into payment plans with HugeDomains.com.
 
-Children (persons under the age of 18 years) are not eligible to use our services unsupervised and we ask that children not submit any personal information to us. If you are under the age of 18 years, you can browse the Site only in conjunction with and under the supervision of your parents or guardians. If you are under 18 years of age you cannot use the Membership Section of the Site.
+HugeDomains.com is a United States company, located in Denver, Colorado, USA. HugeDomains complies with the U.S-EU Safe Harbor framework which is dictated and set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries. HugeDomains further complies with the California Online Privacy Protection Act and the Children's Online Privacy Protection Act (COPPA).
 
-It is the responsibility of parents to monitor their children’s use of our Site.
+**What Information HugeDomains Collects**
 
-## Information Collection
+HugeDomains must collect certain personal data in order to conduct business, provide customer service and provide a customer with relevant requested services. Personal information is collected from customers when  a customer contacts HugeDomains through the website, when a customer purchases a domain, whenever a customer fills out a contact form on the HugeDomains platform; when a customer submits payment to HugeDomains; and when a customer contacts HugeDomains via phone or chat. HugeDomains will further collect certain personal information from customers as needed in order to continue to provide services to its customers and as required by any relevant law, rule, regulation, and other method that ensures the safety of HugeDomains, its customers, and the general public.
 
-### PART A – The Public Generally
+HugeDomains collects customers' relevant personal information, including but not limited to: name, address, phone number, fax number (if applicable), email address and other data used to directly or indirectly to identify you in connection to your use of HugeDomains's services. Many products/services may require a customer to provide HugeDomains with additional information such as credit card information, associated billing information, or other financial and payment information. In order to protect HugeDomains and its customers, as well as intellectual property rights, HugeDomains may require customers to provide government identification and/or other documentation as proof of identity and physical address.
 
-Our primary purpose in collecting personal information is to provide you with a safer trading experience and encourage commerce between buyers and sellers using the Site as a venue. We only collect personal information about you that we consider necessary for this purpose and to achieve this goal.
+**Why HugeDomains Collects This Information**
 
-You are under no obligation to provide us with this information and can access many aspects of the Site without providing us any personal information.
+HugeDomains collects customer information for several reasons, including but not limited to: following relevant and required ICANN data collection requirements, along with and to abide and comply with United States laws, rules, and regulations. Further, HugeDomains collects such information in order to allow HugeDomains to: 
 
-When you visit this website, we can record certain information in relation to your visit such as:
+a. **To personalize customer experience**  \- customer information helps HugeDomains better respond to customer's individual needs.
 
-  * Your IP or proxy server IP;
-  * Basic domain information;
-  * Your Internet service provider is sometimes captured depending on the configuration of your ISP connection;
-  * The date and time of your visit to the website;
-  * The length of your session;
-  * The pages which you have accessed;
-  * The number of times you access our site within any month;
-  * The size of file you look at;
-  * The website which referred you to our website; and
-  * The operating system which your computer uses.
+b. **To improve the HugeDomains website and services** \- HugeDomains continually strives to improve its website offerings and services based on the information and feedback received from customers.
 
+c. **To improve customer service** \- customer information helps HugeDomains more effectively respond to specific customer service requests and support needs. Should a customer contact HugeDomains for service or support, it will keep an internal record of such correspondence, whether email or telephone call, along with an internal record of support given.
 
+d. **To process transactions**  \- other than specifically provided in this provision, or required by law, customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company without direct and express customer consent.
 
-This information is only used for statistical and website development purposes.
+e. **To send periodic emails** \- customer email addresses provided for order processing, will be used to send customers relevant and pertinent information and updates pertaining to their HugeDomains account and registered domain names and/or other services. These communications include, but are not limited, to: HugeDomains updates and questions or concerns regarding the customer, their account, or specific services. If a customer chooses to opt-in to a mailing list, they will receive email communications that may include company news, updates, related product or service information, as set per email preferences which is customizable from within each users' account.
 
-Various pages on this Site invite you to provide us your name and contact details, for example, to go onto our mailing list for our newsletter, enter competitions, or to enable us to provide you with web site related services such as notifications.
+f. **Domain ownership information**  \- HugeDomains.com sells domain names, and all domain name purchases require registrant information in order to complete the purchase and facilitate the transfer of the domain name. The information provided by a customer when purchasing a domain can and will be used to transfer ownership of said domain names. The registration information provided for a domain is recorded and shared with trusted parties in order to deliver such purchases to domain buyers. If a customer does not opt-in for privacy protection, the whois information provided when buying domain names may be shared via a public record called "whois".
 
-If you use our Site’s feedback and support forms, you are asked to provide your name, organisation, title, address, email address and telephone number. Envato will not otherwise collect information from you through this Site unless you knowingly provide it to us.
+**How HugeDomains Collects this Information**
 
-By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us.
+HugeDomains utilizes a variety of security measures to maintain the safety of customers' personal information. All supplied financial information (including credit card data) is transmitted via Secure Socket Layer (SSL) technology and then encrypted into the company's payment gateway provider's database. This database and the sensitive information contained within are only accessible by those authorized with special access rights to such systems and are required to keep the information confidential. 
 
-The Site uses session cookies, which are used only during a browsing session, and expire when you quit your browser. Upon closing your browser, the session cookie set by this Site is destroyed and no personal information is maintained which might identify you should you visit our Site at a later date.
+HugeDomains uses cookies (and other technologies such as web beacons, pixels, tags, scrips) to identify you so you don't need to log in each time you visit a HugeDomains website or its mobile applications. The cookies are linked to your customer account, which is associated with the information in your account. HugeDomains uses cookies to help remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that it can offer better site experiences and tools in the future. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most modern websites, if you turn your cookies off, some of HugeDomains's services may not function properly or function at all. HugeDomains does not test its website for this and does not guarantee use of services with cookies disabled. 
 
-If you choose to buy or sell on our Site, we collect information about your buying and selling behaviour. This information is only used for statistical and website development purposes.
+HugeDomains, like most companies, obtains information about its customers automatically and stores this information in its internal databases. This information may include but is not limited to: Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring entry/exit pages, operating system, date/time stamp and/or clickstream data, and other data that could directly or indirectly identify you. HugeDomains uses this information to help personalize your experience and search results, diagnose problems with its systems, to administer the services on this site, and for other corporate uses.
 
-Please note that when you voluntarily disclose information on the bulletin boards or in the forums or in the chat areas of the Site or in member profile pages, your personal and other information disclosed in your communication shall become public information and can be collected and used by other parties. We cannot control what third parties in the bulletin board, forums, chat room or member profile pages do with your personal information.
+**How HugeDomains Uses this Information**
 
-### PART B – Members
+HugeDomains must first and foremost abide by local law. As a US company, HugeDomains will first abide by US laws and regulations when two laws might differ and/or conflict with one another.
 
-We collect information from people who use the Membership Section of our Site (“Members”). This information may be used:
+HugeDomains securely holds on to personal data internally. Such data can be held indefinitely in order to keep accurate records that may be required under local law and regulation. 
 
-  1. to send news, information about our activities and general promotional material which we believe may be useful to you or us; 
-  2. to monitor who is accessing the membership section of the Site or using services offered on the Site; and
-  3. to profile the type of people accessing the Site.
+HugeDomains uses customer information to communicate directly with their customers. It is important for customers to keep their email address up to date and check their email regularly for updates regarding a HugeDomains account. 
 
+HugeDomains may have the need to provide customer information to third parties for certain services required by HugeDomains, including but not limited to, credit card processors, technical support services, shipping of goods or services, customer relationship management, SMS delivery, Collections Agencies,  registry compliance, law enforcement, among other third parties for other similar such reasons. When a domain is purchased which is managed at a partner registrar, HugeDomains reserves the right to automatically push said domain name(s) into an account at that domain name registrar in order to provide the relevant purchased product(s) to the customer. HugeDomains will only share information that is necessary for the third party to provide the required services. This information will not be sold nor voluntarily disseminated unless reasonably needed at HugeDomains's sole discretion. 
 
+When a HugeDomains account is cancelled/suspended/terminated, either voluntarily or involuntarily, this does not mean that the customer's personally identifiable information has been deleted entirely from HugeDomains's systems and databases. Some or all this information may be retained by HugeDomains, including but not limited, to comply with legal obligations, resolve disputes, prevent fraud and/or enforce company agreements.  In addition, you will not be able to submit a form on this website without providing the exact information required to complete that specific action. It is forbidden and against of ICANN's rules to provide false Registrant information about any domain name registration(s). Providing false or fake information may and will result in suspension of the customer's HugeDomains account and forfeiture of any related domain name(s) registered with HugeDomains or any of its affiliate companies or domain name registrars.
 
-If you choose to buy or sell on our Site we collect information about your buying and selling behaviour.
+HugeDomains will cooperate with government, law enforcement officials and relevant private parties to enforce and comply with Unites States law and with applicable and mandatory regulations regarding the services it provides. If necessary, HugeDomains will disclose any customer information to the relevant officials or private parties when appropriate or deemed reasonably necessary. Further, if HugeDomains believes, in its sole discretion, (including without limitation to subpoenas), that the preservation of certain customer information is necessary to protect its rights or the property and/or the rights of a third party. HugeDomains may further maintain or share customer information in order to protect the safety of the public or any person, to prevent or stop activity HugeDomains considers to be illegal based on applicable laws, or to otherwise uphold the law.  By using HugeDomains's website and services, all customers expressly consent to this Privacy Policy. HugeDomains further reserves the right to modify this Policy at any time. If changes are made to this Policy, those changes will be publicly posted. HugeDomains is not required to directly notify its customers of changes made to this Policy, however, if material changes are made, HugeDomains will notify its customers by email or through a public notice on its website.
 
-If you use a payment facilitator on the Site, we collect additional necessary information, including but not limited to billing address, credit card number and credit card expiry date.
+**To Access, Update, or Delete Your Personal Information**
 
-#### USE OF INFORMATION AND DISCLOSURE
+You have the right to correct any personal information held about you that is inaccurate or incomplete. If there is information located on HugeDomains servers you wish to correct, you will be required to login to your account and update the appropriate information. This includes account owner information, information submitted for various products and services offered through this website, including but not limited to purchased domain names and payment methods linked to your account.
 
-Envato will only use the information it collects through the Site for the following purposes:
+You have the right issue a request that HugeDomains delete your personal data. HugeDomains will review your request and delete data if possible. HugeDomains reserves the right, in its sole discretion, to retain any personal data. Personal data may be retained for several reasons, including, but not limited to: fraud mitigation; preserving or enforcing legal and/or contractual rights; data retention mandated by local law,  domain registrars processing of your data, relevant domain registries, contracts, or reasons necessary to HugeDomains's business and operate such services. If you wish to have your data erased, you can use the contact details found on the bottom of this page, please provide as many details as possible as to your request, and the company will determine if you have a valid basis for the erasure of your data. If you have questions about data retention you may contact us with your questions or concerns. You have the right to lodge a complaint with a relevant supervisory authority.
 
-  1. Forwarding important information relating to Envato activities and other requested information;
-  2. Contacting you in response to your feedback or query to discuss our services;
-  3. Monitoring Site performance;
-  4. Improving our Site and services to you;
-  5. Internal administration; and
-  6. Other purposes that are in accordance with your instructions.
+**Third Parties**
 
+HugeDomains.com may share your personal information with affiliated companies within its corporate family and other third-parties that integrate with HugeDomains services, and to provide products and services, including but not limited to: Customer Relationship Management; processing payments; fraud prevention; management of domain names; and serving advertisements. Many of these third parties are affiliate companies, and work in conjunction with HugeDomains to provide customers the products and services provided by HugeDomains to HugeDomains's customers.
 
+Targeted ads may be provided to HugeDomains customers based upon their webpages and Internet activity. These ads and offers may be displayed as product banners provided while you are engaged in Internet browsing or using HugeDomains.com and its services. In some instances, HugeDomains partners with third parties to manage advertising, including targeted advertising on HugeDomains webpages and other websites. These third-party partners may use certain data collection tools such as cookies in order to collect information about customer activities to provide customers with customized advertisements. When possible, such providers will give ways to opt-out of any such advertisements.
 
-Envato will not give, sell, trade or otherwise disclose any personal information about you to a third party unless:
+HugeDomains's website may contain links to third party websites. HugeDomains is not responsible for the privacy policy and data collection of third-party sites. You are solely responsible for reviewing any third-party privacy practices on all such websites.
 
-  * You have provided us with your consent; or
-  * We are required to do so by law.
+Some Internet browsers may allow users to receive notifications when a website is utilizing tracking technology and may allow that user to use a "do not track" signal. There is no industry standard or agreement among industry participates as to what this "do not track" signal entails. As there is not set definition or regulation regarding this process, HugeDomains does not make any adjustments or alternations in its operating processes when a "do not track" signal is received from an Internet browser.
 
+**Corporate Reorganization**
 
+If HugeDomains were to merge with another company or if HugeDomains is involved in an acquisition or sale of all a substantial portion of assets, or other similar sale transaction, your information will be transferred as part of that transaction and you will be notified by email and/or notice on HugeDomains website of any such transfer and any choices you may have regarding your information.
 
-#### COOKIES AND ADVERTISING
+**Contact Information**
 
-Occasionally, we may use third party advertising companies to serve ads based on prior visits to the Site. These advertising companies use cookies to anonymously collect data.
+If you have any other questions about this Privacy Policy, the practices of HugeDomains you may use the contact us form on this web site to request additional information, or you can reach us  by phone at +1 (303) 893-0552 or by email at sales@hugedomains.com 
 
-No personally identifiable information is collected by these cookies. The anonymous data they collect is kept separate from the personal information in your Member account.
+\---
 
-You can opt out of third party advertising cookies at any time by visiting this page: <http://www.networkadvertising.org/managing/opt_out.asp>
+Last Revised: July 05, 2018
 
-We (and authors who sell items on any of our Envato Market sites) use third party analytics services that use cookies to record general site usage information - like page visits and the way users move between pages on the Site. This general site analytics information is not matched to your user account.
-
-Other cookies are used to enhance your use of the Site, such as remembering that you are logged in. You are able to minimise or block cookies using the privacy settings in your internet browser, but this may restrict your use of the Site. For general information on cookies, see <http://www.allaboutcookies.org/>.
-
-#### ACCESS AND / OR CORRECTION OF YOUR DETAILS
-
-You may request access to your personal information and can ask us to correct your personal information.
-
-You can do this by emailing [legal@envato.com](mailto:legal@envato.com)
-
-#### DISCLAIMER
-
-This Site contains links to other sites. Envato is not responsible for the privacy practices of linked sites. Underlined words and phrases are click-through links or hyperlinks to pages and websites. Envato strongly recommends that you read the Privacy Policy of the linked websites as they may contain further terms and conditions which apply to you
-
-#### SECURITY
-
-This Site has security measures in place to protect the loss or misuse of, or alteration or unauthorised access to, information under our control. However, if you send information from this Site, it will not be encrypted unless we expressly tell you it is.
-
-#### AMENDMENTS TO THE PRIVACY POLICY
-
-We may change this Policy. Such changes will be effective when a notice of the change is made available on the Site. We will provide you with thirty (30) days notice to allow you the opportunity to notify Envato if you do not agree to such changes.
-
-#### OPT – OUT PROVISION
-
-To protect you from unwanted email communications, Envato adopts an opt-out facility for marketing communication. If you decide you no longer would like to receive marketing communications from us, please advise us by [contacting support](https://help.market.envato.com/) or follow the instructions in the “Opt-Out” section of the email you have received.
-
-If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:
-
-  1. we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure; 
-  2. we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for governmental or public security in the performance of their functions; or 
-  3. we are required by law to disclose the information.
-
-
-
-#### INTERNATIONAL TRANSFER OF INFORMATION
-
-Our servers and information processing equipment are located in a number of countries around the world, thus the information collected from you will be stored in these countries. By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us, including the transfer to another jurisdiction other than Australia.
-
-#### FURTHER INFORMATION
-
-For further information about Envato’s privacy policy, please [contact support](https://help.market.envato.com/).
+Copyright 2005-2018 HugeDomains.com. All Rights Reserved.
