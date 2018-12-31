@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the playbuzz.com privacy policy that was archived on 2018-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180627165437id_/https%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playbuzz.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231225045id_/https%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en"><head>        
-<!-- New Relic Header -->
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en" class=" async-hide"><head>        
 
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/aquant.js?a=p-CpsJA1RVGY0Bm" async="" type="text/javascript"></script><script type="text/javascript">
-    window.displayCmpWindow = Math.random() * 100 < 15;
+
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/aquant.js?a=p-CpsJA1RVGY0Bm" async="" type="text/javascript"></script><script async="" src="https://unarmedindustry.com/v2/0/trbQYZenCRjcMZJ6qle9KEc_hHvBPevsUl-PTiwLa2z0sCKluXzMuBVw6yUqDU4sDdQ"></script><script type="text/javascript">
+    window.displayCmpWindow = true;
     if (window.displayCmpWindow === true) {
         ! function (t, o, e) {
             e = t.createElement(o), t = t.getElementsByTagName(o)[0], e.async = 1, e.src = "https://unarmedindustry.com/v2/0/trbQYZenCRjcMZJ6qle9KEc_hHvBPevsUl-PTiwLa2z0sCKluXzMuBVw6yUqDU4sDdQ", t.parentNode.insertBefore(e, t)
@@ -78,6 +78,7 @@
         }(document, window, "__cmp", "__cmpLocator");;
     }
 </script>
+
     <script>
 
         //Define googletags on first steps of the page
@@ -136,15 +137,15 @@ var ezt = ezt ||[];
         <!--Favicon for apple touch device-->
         <link rel="apple-touch-icon-precomposed" href="//cdn.playbuzz.com/content/images/apple-touch-icon-new.png">
 
-<link href="//cdn.playbuzz.com/content/bundles/production/1119a40/libs/css" rel="stylesheet">
-<link href="//cdn.playbuzz.com/content/bundles/production/1119a40/pages/privacypolicy/css" rel="stylesheet">
+<link href="//cdn.playbuzz.com/content/bundles/production/3d5907a/libs/css" rel="stylesheet">
+<link href="//cdn.playbuzz.com/content/bundles/production/3d5907a/pages/privacypolicy/css" rel="stylesheet">
 
     
 
     
     
 
-<script src="//cdn.playbuzz.com/content/bundles/production/1119a40/libs/infra/js"></script>
+<script src="//cdn.playbuzz.com/content/bundles/production/3d5907a/libs/infra/js"></script>
     
 
     
@@ -248,6 +249,9 @@ var ezt = ezt ||[];
             else { return null; }
         }
 
+        //this is duplicate code (awsEventsSdk.js, coreAnalyticsData.js, CookieAndCooladataSetup.cshtml)
+        //First one to run this line will set the cookie, so everyone works against the same id in the cookie
+        //ToDo: resolve this nicely in a central location in future refactor
         function createAnonymousCookie() {
             if (canSaveCookie && !getAnonymousCookie()) { // create anonymous track cookie
                 var id = generateAnonymousId();
@@ -364,22 +368,41 @@ var ezt = ezt ||[];
 
 
     
+
+    <style>
+        .async-hide {
+            opacity: 0 !important;
+        }
+    </style>
+    <script>
+    (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+    {'GTM-MCHSPN3':true});</script>
 <script type="text/javascript">
     (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
             (i[r].q = i[r].q || []).push(arguments)
         }, i[r].l = 1 * new Date(); a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-    ga('create', 'UA-34510589-6');
+    var gaGuid = (window !== window.parent || 'False'.toLowerCase() === 'true') ? 'UA-34510589-30' : 'UA-34510589-6';
+
+    ga('create', gaGuid, 'auto');
+
+        
+        ga('require', 'GTM-MCHSPN3');
+        
     ga('set', 'anonymizeIp', true);
     ga('require', 'displayfeatures');
 
         
-            ga('send', 'pageview');
+        ga('send', 'pageview');
         
 </script>
+
 
     <script type="text/javascript">
         (function () {
@@ -448,7 +471,9 @@ var ezt = ezt ||[];
 <script>var PBS_Templates = JSON.parse("{\n\t\"flipCard\": \"3eb6e350-8ec6-4c48-9219-e1070fb726ad\",\n\t\"convo\": \"5be4f0ae-b5cf-4100-ad53-3c874a36dea5\",\n\t\"poll\": \"aa6cd7fd-831d-47a7-a44f-4c815bdc99d4\",\n\t\"list\": \"ca71e085-ed0f-4f3f-af5c-f0d1a2ea04e8\",\n\t\"rankedList\": \"ef5de415-c8c4-4fb5-b5ad-427aab447724\",\n        \"videoCreator\":\"5b2950a0-ff28-47bf-a106-c46a67af24f0\",\n        \"quiz\": \"10bd5a26-9cd9-420d-96c7-f964f9a9f03c\",\n        \"trivia\": \"4504dd97-318b-49ee-ba3e-1daf46853e9d\"\n}");</script>
 
 <div id="pb-page-container">
-    <nav class="navbar navbar-fixed-top pb-navbar pb-navbar-black" role="navigation">
+
+
+    <nav class="navbar pb-navbar navbar-fixed-top pb-navbar-black" role="navigation">
         <div class="container-fluid">
             <!--content push wrapper-->
             <div class="navbar-header">
@@ -702,7 +727,6 @@ var ezt = ezt ||[];
                     </li>
                 </ul>
                 <!-- nav bar left -->
-
                 <!-- nav bar right -->
                 <ul class="list-unstyled pull-right hidden-sm">
 
@@ -745,124 +769,14 @@ var ezt = ezt ||[];
                         </ul>
                     </li>
                     <li id="pb-navbar-not-logged-in-btn" class="hidden">
-                        <a href="/create?pb_event_pageActionLabel=createarticle" class="btn pb-navbar-btn-create" tabindex="0" role="button">
+                        <a href="/create?pageSource=create_button_nav_bar" class="btn pb-navbar-btn-create" tabindex="0" role="button">
                             CREATE
                         </a>
                     </li>
-                    <li id="pb-navbar-dropdown-create" class="pb-dropdown-nav-hide dropdown hidden">
-                        <a id="pb-navbar-dropdown-create-btn" href="/create?pb_event_pageActionLabel=createarticle" class="btn pb-navbar-btn-create" tabindex="0" role="button" aria-label="we are sorry, articles creation is still not accessible">
+                    <li id="pb-navbar-dropdown-create" class="pb-dropdown-nav-hide hidden">
+                        <a id="pb-navbar-dropdown-create-btn" href="/create?pageSource=create_button_nav_bar" class="btn pb-navbar-btn-create" tabindex="0" role="button" aria-label="we are sorry, articles creation is still not accessible">
                             CREATE
                         </a>
-                        <ul class="media-list pb-dropdown-menu-create dropdown-menu">
-                            <li class="media pb-navbar-formats-media ">
-                                <a class="pb-navbar-formats-link" href="/Create/Story?pb_event_pageActionLabel=Story" appendformatguid="false">
-                                    <div class="media-left">
-                                        <svg class="pb-navbar-icon-formats-create" fill="url(#blueToPurple)">
-                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-format-story-md"></use>
-                                        </svg>
-                                    </div>
-                                    <div class="media-body media-middle pb-navbar-formats-media-body">
-                                        <span>Story</span>
-                                    </div>
-                                    <div class="media-right pb-media-right" style="-webkit-box-sizing:border-box;">
-                                        <svg class="pb-navbar-formats-plus-icon">
-                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-plus"></use>
-                                        </svg>
-                                    </div>
-                                </a>
-                            </li>
-                            <li class="media pb-navbar-formats-media ">
-                                <a class="pb-navbar-formats-link" onclick="pb.openFormatWithStory('videoCreator')" href="#">
-                                    <div class="media-left">
-                                        <svg class="pb-navbar-icon-formats-create" fill="url(#blueToPurple)">
-                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-format-videocreator-md"></use>
-                                        </svg>
-                                    </div>
-                                    <div class="media-body media-middle pb-navbar-formats-media-body">
-                                        <span>Video</span>
-                                    </div>
-                                    <div class="media-right pb-media-right" style="-webkit-box-sizing:border-box;">
-                                        <svg class="pb-navbar-formats-plus-icon">
-                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-plus"></use>
-                                        </svg>
-                                    </div>
-                                </a>
-                            </li>
-
-                            <li class="media pb-navbar-formats-media ">
-                                <a class="pb-navbar-formats-link" onclick="pb.openFormatWithStory('convo')" href="#">
-                                    <div class="media-left">
-                                        <svg class="pb-navbar-icon-formats-create" fill="url(#blueToPurple)">
-                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-format-convo-md"></use>
-                                        </svg>
-                                    </div>
-                                    <div class="media-body media-middle pb-navbar-formats-media-body">
-                                        <span>Convo</span>
-                                    </div>
-                                    <div class="media-right pb-media-right" style="-webkit-box-sizing:border-box;">
-                                        <svg class="pb-navbar-formats-plus-icon">
-                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-plus"></use>
-                                        </svg>
-                                    </div>
-                                </a>
-                            </li>
-                            <li class="media pb-navbar-formats-media ">
-                                <a class="pb-navbar-formats-link" onclick="pb.openFormatWithStory('quiz')" href="#">
-                                    <div class="media-left">
-                                        <svg class="pb-navbar-icon-formats-create" fill="url(#blueToPurple)">
-                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-format-personality-quiz-md"></use>
-                                        </svg>
-                                    </div>
-                                    <div class="media-body media-middle pb-navbar-formats-media-body">
-                                        <span>Personality Quiz</span>
-                                    </div>
-                                    <div class="media-right pb-media-right" style="-webkit-box-sizing:border-box;">
-                                        <svg class="pb-navbar-formats-plus-icon">
-                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-plus"></use>
-                                        </svg>
-                                    </div>
-                                </a>
-                            </li>
-                            <li class="media pb-navbar-formats-media ">
-                                <a class="pb-navbar-formats-link" onclick="pb.openFormatWithStory('trivia')" href="#">
-                                    <div class="media-left">
-                                        <svg class="pb-navbar-icon-formats-create" fill="url(#blueToPurple)">
-                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-format-trivia-md"></use>
-                                        </svg>
-                                    </div>
-                                    <div class="media-body media-middle pb-navbar-formats-media-body">
-                                        <span>Trivia</span>
-                                    </div>
-                                    <div class="media-right pb-media-right" style="-webkit-box-sizing:border-box;">
-                                        <svg class="pb-navbar-formats-plus-icon">
-                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-plus"></use>
-                                        </svg>
-                                    </div>
-                                </a>
-                            </li>
-                            <li class="media pb-navbar-formats-media ">
-                                <a class="pb-navbar-formats-link" onclick="pb.openFormatWithStory('poll')" href="#">
-                                    <div class="media-left">
-                                        <svg class="pb-navbar-icon-formats-create" fill="url(#blueToPurple)">
-                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-format-poll-md"></use>
-                                        </svg>
-                                    </div>
-                                    <div class="media-body media-middle pb-navbar-formats-media-body">
-                                        <span>Poll</span>
-                                    </div>
-                                    <div class="media-right pb-media-right" style="-webkit-box-sizing:border-box;">
-                                        <svg class="pb-navbar-formats-plus-icon">
-                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-plus"></use>
-                                        </svg>
-                                    </div>
-                                </a>
-                            </li>
-                            <li class="media pb-navbar-formats-media">
-                                <a id="pb-navbar-dropdown-formatall-btn" href="/create?pb_event_pageActionLabel=seeallformats" class="pb-navbar-formats-link pb-navbar-formats-all">
-                                    See All
-                                </a>
-                            </li>
-                        </ul>
                     </li>
                 </ul>
                 <!-- nav bar right -->
@@ -1195,8 +1109,8 @@ var ezt = ezt ||[];
 <!--googleon: index-->
 
 
-<script src="//cdn.playbuzz.com/content/bundles/production/1119a40/libs/js"></script>
-<script src="/bundles/Pages/PrivacyPolicy/js"></script>
+<script src="//cdn.playbuzz.com/content/bundles/production/3d5907a/libs/js"></script>
+<script src="/bundles/Pages/PrivacyPolicy/js"></script><iframe name="__cmpLocator" style="display: none;"></iframe>
 
 
 
@@ -1425,7 +1339,7 @@ var ezt = ezt ||[];
     
 
 </script>
-<script src="//cdn.playbuzz.com/content/bundles/production/1119a40/pbads/dfp/js" async=""></script>
+<script src="//cdn.playbuzz.com/content/bundles/production/3d5907a/pbads/dfp/js" async=""></script>
 
 
 
@@ -1536,43 +1450,69 @@ var ezt = ezt ||[];
 <script>
 
     var enableAds = true;    
+    var useSdkPercent = 0;
+    var useSdk = false;
+    if(useSdkPercent) {
+        useSdk= Math.random()*100 <= useSdkPercent;
+    }
 
+    try {
+        if(!window.isFeed){ //playbuzz.com
+
+            var regex = new RegExp('[\\?&]' + "utm_medium" + '=([^&#]*)');
+            var results = regex.exec(window.location.search);
+            var url_medium = results !== null ? decodeURIComponent(results[1].replace(/\+/g, ' ')) : ' ';
+            var cookie_medium = utmCookie.getMedium() ? utmCookie.getMedium() : ' ';
+
+            ga('send', 'event', 'plbz - legacy', cookie_medium, location.protocol + '//' + location.host + location.pathname , {
+                nonInteraction: true
+            });
+            ga('send', 'event', 'pbPageLoad_URL', url_medium, location.protocol + '//' + location.host + location.pathname, {
+                nonInteraction: true
+            } );
+            ga('send', 'event', 'pbPageLoad_Cookie', cookie_medium, location.protocol + '//' + location.host + location.pathname, {
+                nonInteraction: true
+            } );
+        }
+    } catch (e) {
+        console.log('mon-oo analytics failed', (e));
+    }
 
     $(document).on('pbads.dfp.ready',function() {
 
         // initiating dfp
         try {
             var dfpUnitsConfig= "{\"path\":\"pages_privacypolicy\",\"config\":{\"ad-bottom-1\":{\"adunit\":\"PlayBuzz_Quote_Default_BTF_W300X250\",\"dimensions\":\"300x250\"},\"ad-footer-1\":{\"adunit\":\"PlayBuzz_Quote_Default_W728x90\",\"dimensions\":\"728x90\"},\"ad-top-1\":{\"adunit\":\"PlayBuzz_Quote_Default_W300X250\",\"dimensions\":\"300x250\"}}}";
-            pbads.dfp.init('94166617', dfpTargeting, dfpUnitsConfig);
+            pbads.dfp.init('94166617', dfpTargeting, dfpUnitsConfig, useSdk);
 
         } catch (e) {
             // log to console --> we need alert if we get this error
             console.error("FATAL: failed to load dfp module", e);
+            if (window.Rollbar) {
+                window.Rollbar.error('_DFPBootstrap: failed to load dfp module', { error: e });
+            }
         }
 
         // fetch dfp ads
         try {
 
             if (enableAds) {
-                    
+
                 // fetch units
-                pbads.dfp.fetch();          
+                pbads.dfp.fetch();   
+
                 if (!IsPBFeed) {
                     pbads.dfp.brealtimeConfig = brealtimeConfig;
-                }
-
-                if(window.handleAdRefreshRate){
-                    window.handleAdRefreshRate();
-                } else{
-                    window.adRefreshRate = true;
-                }
-
+                }           
                 
-
-
-            }// else {   //TODO: better handling for hiding empty ads             
-                //$(".adunit-wrapper").hide();                
-            //}
+                if(!useSdk) {
+                    if(window.handleAdRefreshRate){
+                        window.handleAdRefreshRate();
+                    } else{
+                        window.adRefreshRate = true;
+                    }
+                }                   
+            }
 
         } catch (e) {
             // log to console --> we need alert if we get this error
@@ -1656,7 +1596,7 @@ el.parentNode.insertBefore(s, el);
         'nonInteraction': 1
     });
 </script>            <!-- PBADS: NO ADS : Not Item page -->
-                <script type="text/javascript" src="//cdn.playbuzz.com/content/monetization/ads-module/production/4f74dfd8c2bf6b5fd198bb72e332f200ab7de541/ads-module.min.js" async=""></script>
+                <script type="text/javascript" src="//cdn.playbuzz.com/content/monetization/ads-module/production/17dd09f36ed6369d89a16ed0244b32f4b5e71ccf/ads-module.min.js" async=""></script>
 
 
 
