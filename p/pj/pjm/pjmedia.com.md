@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the pjmedia.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625035045id_/https%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pjmedia.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231030928id_/https%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PJ Media
 
-06-24-2018 07:05:35 PM -0700
+12-30-2019 04:04:43 PM -0800
 
-06-24-2018 01:33:26 PM -0700
+12-30-2019 07:38:47 AM -0800
 
-06-23-2018 11:28:09 AM -0700
+12-28-2018 03:44:59 PM -0800
 
-06-22-2018 05:46:20 PM -0700
+12-27-2018 11:35:50 AM -0800
 
-06-22-2018 09:10:32 AM -0700
+12-26-2018 12:46:36 PM -0800
 
 It looks like you've previously blocked notifications. If you'd like to receive them, please update your browser permissions. 
 
@@ -154,7 +154,7 @@ PJM is hosted in the United States.  If you are a member or user accessing PJM 
 
 In the event that PJM is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our members and users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how your personal information is treated, transferred, or used.
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [support@pjmedia.com](mailto:support@pjmedia.com).
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [support@pjmedia.com](mailto:support@pjmedia.com).
 
  **COOKIE DISCLOSURE STATEMENT**
 
