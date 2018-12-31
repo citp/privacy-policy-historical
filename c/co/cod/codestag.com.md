@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codestag.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625081344id_/https%3A//codestag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codestag.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231074131id_/https%3A//codestag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Codestag
 
@@ -11,9 +11,7 @@ This Privacy Policy (“ **Privacy Policy** “) applies to Codestag (the “ **
     4. “ **Collected Data** ” means, collectively, Personal Information, Potentially Identifying Information and Non-Personal Data;
     5. “ **We** “, “ **us** ” and “ **our** ” refer to the Website Owner; and
     6. “ **You** ” and “ **your** ” refer to visitors of the Website.
-
 By accessing the Website, you are agreeing to the practices described in this Privacy Policy.
-
 
 
 
@@ -31,9 +29,7 @@ By accessing the Website, you are agreeing to the practices described in this Pr
     2.  **[Potentially Identifying Information,](https://codestag.com/privacy-policy/#potentially_identifying_information)**
     3.  **[Non-Personal Data, and](https://codestag.com/privacy-policy/#non_personal_data)**
     4.  **[Other Provisions.](https://codestag.com/privacy-policy/#other_provisions)**
-
 These provisions set out specific details about how we handle your Collected Data, in keeping with the Principles. If a situation arises that is not covered by the specific provisions below, then we use the Principles to guide us in dealing with that situation.
-
 
 
 
@@ -49,8 +45,10 @@ These provisions set out specific details about how we handle your Collected Dat
     5. when you comment on the Website (including on a blog provided on the Website).
   2. We collect information about you during the checkout process on our store. This information may include, but is not limited to, your name, billing address, shipping address, email address, phone number, credit card/payment details and any other details that might be requested from you for the purpose of processing your orders.
     1. Send you important account/order/service information.
-    2. Respond to your queries, refund requests, or complaints.
-    3. Process payments and to prevent fraudulent transactions. We do this on the basis of our legitimate business interests.
+    2. Respond to your queries, refund requests, or complaints.  
+
+    3. Process payments and to prevent fraudulent transactions. We do this on the basis of our legitimate business interests.  
+
     4. Set up and administer your account, provide technical and/or customer support, and to verify your identity.
   3. Additionally we may also collect the following information:
     1. Location and traffic data (including IP address and browser type) if you place an order, or if we need to estimate taxes and shipping costs based on your location.
