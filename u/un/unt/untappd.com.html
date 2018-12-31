@@ -1,7 +1,15 @@
-<!--The following is the downloaded HTML source of the untappd.com privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625064037id_/https%3A//untappd.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the untappd.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231060504id_/https%3A//untappd.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://cdn.jsdelivr.net/npm/search-insights@0.0.14"></script><script async="" src="https://cdn.branch.io/branch-latest.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg4HVFBADQoFVFZbAAI="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script> <title>Terms of Use | Untappd</title> <meta property="og:site_name" content="Untappd">  <meta name="description" content="Untappd is a new mobile web app that allows you to socially share the brew you're currently enjoying, as well as where you're enjoying it, with your friends!">  <script type="text/javascript">
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy Policy | Untappd</title>
+<meta property="og:site_name" content="Untappd">
+
+<meta name="description" content="Untappd is a new mobile web app that allows you to socially share the brew you're currently enjoying, as well as where you're enjoying it, with your friends!">
+<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://cdn.jsdelivr.net/npm/search-insights@0.0.14"></script><script async="" src="https://cdn.branch.io/branch-latest.min.js"></script><script type="text/javascript">
 			(function(b,r,a,n,c,h,_,s,d,k){if(!b[n]||!b[n]._q){for(;s<_.length;)c(h,_[s++]);d=r.createElement(a);d.async=1;d.src="https://cdn.branch.io/branch-latest.min.js";k=r.getElementsByTagName(a)[0];k.parentNode.insertBefore(d,k);b[n]=h}})(window,document,"script","branch",function(b,r){b[r]=function(){b._q.push([r,arguments])}},{_q:[],_v:1},"addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setIdentity track validateCode".split(" "), 0);
 			branch.init('key_live_dkd8Nr651lqTGtpGipS2Bijfxrc1L2Mk');
 
@@ -11,7 +19,30 @@
 			    description: 'Download the Untappd app today!',
 			    position: 'bottom'
 			}, {});
-			</script> <meta name="author" content="The Untappd Team"> <meta name="Copyright" content="Copyright Untappd 2018. All Rights Reserved."> <meta name="DC.title" content="Untappd"> <meta name="DC.subject" content="Untappd is a new mobile web app that allows you to socially share the brew you're currently enjoying, as well as where you're enjoying it, with your friends!"> <meta name="DC.creator" content="The Untappd Team"> <meta name="google-site-verification" content="EnR7QavTgiLCzZCCOv_OARCHsHhFwkwnJdG0Sti9Amg"> <meta name="bitly-verification" content="b3080898518a">  <link rel="apple-touch-icon" sizes="144x144" href="https://untappd.akamaized.net/assets/apple-touch-icon.png"> <link rel="icon" type="image/png" href="https://untappd.akamaized.net/assets/favicon-32x32.png" sizes="32x32"> <link rel="icon" type="image/png" href="https://untappd.akamaized.net/assets/favicon-16x16.png" sizes="16x16"> <link rel="manifest" href="https://untappd.akamaized.net/assets/manifest.json"> <link rel="mask-icon" href="https://untappd.akamaized.net/assets/safari-pinned-tab.svg" color="#5bbad5"> <link id="canonical" rel="canonical" href="https://untappd.comprivacy"> <link rel="apple-touch-icon" href="https://untappd.akamaized.net/assets/images/ut-touch-icon.png"> <link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/master.min.css?v=3.4.1"> <link rel="stylesheet" href="https://untappd.akamaized.net/assets/v3/css/style.css?v=3.4.1"> <script src="https://untappd.akamaized.net/assets/v3/js/common/min/site_common_min.js?v=2.2.9"></script> <!--[if lte IE 7]><script src="https://untappd.akamaized.net/assets/js/ie6.js?v=2.2.9"></script><![endif]--> <link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/facybox.min.css?v=3.4.1"> <link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/jquery.notifyBar.min.css?v=3.4.1"> <link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/tipsy.min.css?v=3.4.1" type="text/css" media="screen" title="no title" charset="utf-8"> <script type="text/javascript" language="Javascript">
+			</script>
+<meta name="author" content="The Untappd Team">
+<meta name="Copyright" content="Copyright Untappd 2018. All Rights Reserved.">
+<meta name="DC.title" content="Untappd">
+<meta name="DC.subject" content="Untappd is a new mobile web app that allows you to socially share the brew you're currently enjoying, as well as where you're enjoying it, with your friends!">
+<meta name="DC.creator" content="The Untappd Team">
+<meta name="google-site-verification" content="EnR7QavTgiLCzZCCOv_OARCHsHhFwkwnJdG0Sti9Amg">
+<meta name="bitly-verification" content="b3080898518a">
+
+<link rel="apple-touch-icon" sizes="144x144" href="https://untappd.akamaized.net/assets/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://untappd.akamaized.net/assets/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://untappd.akamaized.net/assets/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="https://untappd.akamaized.net/assets/manifest.json">
+<link rel="mask-icon" href="https://untappd.akamaized.net/assets/safari-pinned-tab.svg" color="#5bbad5">
+<link id="canonical" rel="canonical" href="https://untappd.com/privacy">
+<link rel="apple-touch-icon" href="https://untappd.akamaized.net/assets/images/ut-touch-icon.png">
+<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/master.min.css?v=3.5.5">
+<link rel="stylesheet" href="https://untappd.akamaized.net/assets/v3/css/style.css?v=3.5.5">
+<script src="https://untappd.akamaized.net/assets/v3/js/common/min/site_common_min.js?v=2.3.4"></script>
+<!--[if lte IE 7]><script src="https://untappd.akamaized.net/assets/js/ie6.js?v=2.3.4"></script><![endif]-->
+<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/facybox.min.css?v=3.5.5">
+<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/jquery.notifyBar.min.css?v=3.5.5">
+<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/tipsy.min.css?v=3.5.5" type="text/css" media="screen" title="no title" charset="utf-8">
+<script type="text/javascript" language="Javascript">
 			$(document).ready(function(){
 				$(".tip").tipsy({fade: true});
 				$('.badge_hint').tipsy({gravity: 's', fade: true});
@@ -28,7 +59,9 @@
 				});
 			});
 
-			</script>  <script type="text/javascript" language="Javascript">
+			</script>
+
+<script type="text/javascript" language="Javascript">
 	onChangeInterval = "";
 	if(!(window.console && console.log)) {
 	  console = {
@@ -39,7 +72,13 @@
 	    error: function(){}
 	  };
 	}
-	</script>  <script type="text/javascript" src="https://untappd.akamaized.net/assets/libs/js/algoliasearch.min.js?v2.2.9"></script> <script type="text/javascript" src="https://untappd.akamaized.net/assets/libs/js/autocomplete.min.js?v2.2.9"></script> <script type="text/javascript" src="https://untappd.akamaized.net/assets/libs/js/lodash.min.js?v2.2.9"></script> <script type="text/javascript" src="https://untappd.akamaized.net/assets/js/global/autosearch_tracking.min.js?v2.2.9"></script> <script>
+	</script>
+
+<script type="text/javascript" src="https://untappd.akamaized.net/assets/libs/js/algoliasearch.min.js?v2.3.4"></script>
+<script type="text/javascript" src="https://untappd.akamaized.net/assets/libs/js/autocomplete.min.js?v2.3.4"></script>
+<script type="text/javascript" src="https://untappd.akamaized.net/assets/libs/js/lodash.min.js?v2.3.4"></script>
+<script type="text/javascript" src="https://untappd.akamaized.net/assets/js/global/autosearch_tracking.min.js?v2.3.4"></script>
+<script>
      !function(e,a,t,n,s,i,c){e.AlgoliaAnalyticsObject=s,e.aa=e.aa||function(){(e.aa.queue=e.aa.queue||[]).push(arguments)},i=a.createElement(t),c=a.getElementsByTagName(t)[0],i.async=1,i.src="https://cdn.jsdelivr.net/npm/search-insights@0.0.14",c.parentNode.insertBefore(i,c)}(window,document,"script",0,"aa");
 
     // Initialize library
@@ -47,16 +86,353 @@
       applicationID: '9WBO4RQ3HO',
       apiKey: '1d347324d67ec472bb7132c66aead485',
     })
-  </script> <style type="text/css"> .hidden {display: none;} </style></head>  <body onunload=""> <div id="mobile_nav_user"> </div> <div id="mobile_nav_site"> <form class="search_box" method="get" action="/search"> <input type="text" class="track-focus search-input-desktop" autocomplete="off" data-track="desktop_search" placeholder="Find a beer, brewery or bar..." name="q"> <input type="submit" value="Submit the form!" style="position: absolute; top: 0; left: 0; z-index: 0; width: 1px; height: 1px; visibility: hidden;"> <div class="autocomplete"> </div> </form> <ul> <li><a class="track-click" data-track="mobile_menu" data-href=":thepub" href="/thepub">The Pub</a></li> <li><a class="track-click" data-track="mobile_menu" data-href=":beer/top_rated" href="/beer/top_rated">Top Rated</a></li> <li><a class="track-click" data-track="mobile_menu" data-href=":supporter" href="/supporter">Supporter</a></li> <li><a class="track-click" data-track="mobile_menu" data-href=":external/help" target="_blank" href="http://help.untappd.com">Help</a></li> <li><a class="track-click" data-track="mobile_menu" data-href=":sidebar/login" href="/login">Login</a></li> <li><a class="track-click" data-track="mobile_menu" data-href=":sidebar/create" href="/create?source=mobilemenu">Sign Up</a></li> </ul> </div> <header> <div class="inner"> <p class="logo"><a class="track-click" data-track="desktop_header" data-href=":root" href="/">Untappd</a></p> <div class="get_user_desktop"> <a class="sign_in track-click" data-track="mobile_header" data-href=":login" href="/login?go_to=https://untappd.com/privacy">Sign In</a> <a href="/create" class="join track_click" data-track="mobile_header" data-href=":create">Join Now</a> </div> <div onclick="trackMobileEvent('menu');" class="mobile_menu_btn">Menu</div> <div id="nav_site"> <ul> <li><a class="track-click" data-track="desktop_menu" data-href=":thepub" href="/thepub">The Pub</a></li> <li><a class="track-click" data-track="desktop_menu" data-href=":beer/top_rated" href="/beer/top_rated">Top Rated</a></li> <li><a class="track-click" data-track="desktop_menu" data-href=":supporter" href="/supporter">Supporter</a></li> <li><a class="track-click" data-track="desktop_menu" data-href=":external/help" target="_blank" href="http://help.untappd.com">Help</a></li> </ul> <form class="search_box" method="get" action="/search"> <input type="text" class="track-focus search-input-desktop" autocomplete="off" data-track="desktop_search" placeholder="Find a beer, brewery or bar..." name="q"> <input type="submit" value="Submit the form!" style="position: absolute; top: 0; left: 0; z-index: 0; width: 1px; height: 1px; visibility: hidden;"> <div class="autocomplete"> </div> </form> </div> </div> </header> <style type="text/css"> .ac-selected { background-color: #f8f8f8; } </style> <div class="nav_open_overlay"></div> <div id="slide"> <div id="container"> <div class="top"></div> <div class="content"> <div id="body">  <div class="right-side"> <div class="help"> <h3>Help and Support</h3> <ul> <li> <p><strong><a href="http://help.untappd.com/faqs/getting-started">How to Use Untappd</a></strong></p> <span>First time? Not sure what you’re doing? Check out our FAQ for help!</span> </li> <li> <p><strong><a href="http://help.untappd.com/discussions">Report a Bug</a></strong></p> <span>Find a bug or something wrong? Report it to us and we’ll get it fixed!</span> </li> <li class="last"> <p><strong><a href="http://help.untappd.com/discussions/feature-requests">Comments &amp; Requests</a></strong></p> <span>Have an idea for an awesome feature?<br>Or a comment on an existing one?</span> </li> </ul> </div> <div class="business"> <h3>For Businesses</h3> <p>Increase awareness of your brand and reward your loyal fans. <a href="/business">Find out how Untappd can help.</a></p> </div> </div>   <div class="main"> <div class="feed-header"><strong>PRIVACY POLICY</strong></div>  <div id="terms"> <p>When accessing our Website, Untappd will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.</p> <p>If you visit our site to read or download information on our pages, we collect and store only the following information about you:</p> <p>1. The name of the domain from which you access the Internet<br>2. The date and time you access our site<br>3. The Internet address of the website you used to link directly to our site. <br>4. The location where to you access the website from.</p> <p>If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message.</p> <p>The information collected is for statistical purposes. Untappd may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.</p> <p>For site security purposes and to ensure that this service remains available to all users, Untappd uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.</p> <p>Untappd will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.</p> </div> </div>  <div class="clear"></div> </div> </div> <div class="bottom"></div> <div id="footer"> <p class="copyright">© 2018 Untappd, Inc.<br><br></p> <ul> <li><a class="track-click" data-track="footer" data-href=":footer" href="/about">About Us</a></li> <li><a class="track-click" data-track="footer" data-href=":api" href="/api">API</a></li> <li><a class="track-click" data-track="footer" data-href=":business" href="http://untappd.com/business/breweries">Breweries</a></li> <li><a class="track-click" data-track="footer" data-href=":store" href="http://untpd.it/store" target="_blank">Untappd Store</a></li> <li><a class="track-click" data-track="footer" data-href=":help" href="http://help.untappd.com" target="_blank">Support</a></li> <li><a class="track-click" data-track="footer" data-href=":blog" href="http://blog.untappd.com" target="_blank">Blog</a></li> <li><a class="track-click" data-track="footer" data-href=":twitter" href="http://twitter.com/untappd" target="_blank">Twitter</a></li> <li><a class="track-click" data-track="footer" data-href=":facebook" href="http://facebook.com/untappd" target="_blank">Facebook</a></li> <li><a class="track-click" data-track="footer" data-href=":badgevoting" href="/uservote/badges">Badge Voting</a></li> <li><a class="track-click" data-track="footer" data-href=":terms" href="/terms">Terms</a></li> <li><a class="track-click" data-track="footer" data-href=":privacy" href="/privacy">Privacy</a></li> <li><a class="track-click" data-track="footer" data-href=":contact_email" href="/cdn-cgi/l/email-protection#fd94939b92bd8893899c8d8d99d39e9290">Contact Untappd</a></li> </ul> </div> <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+  </script>
+<style type="text/css">
+	.hidden {display: none;}
+</style></head>
+
+<body onunload="">
+<div id="mobile_nav_user">
+</div>
+<div id="mobile_nav_site">
+<form class="search_box" method="get" action="/search">
+<input type="text" class="track-focus search-input-desktop" autocomplete="off" data-track="desktop_search" placeholder="Find a beer, brewery or bar..." name="q">
+<input type="submit" value="Submit the form!" style="position: absolute; top: 0; left: 0; z-index: 0; width: 1px; height: 1px; visibility: hidden;">
+<div class="autocomplete">
+</div>
+</form>
+<ul>
+<li><a class="track-click" data-track="mobile_menu" data-href=":thepub" href="/thepub">The Pub</a></li>
+<li><a class="track-click" data-track="mobile_menu" data-href=":beer/top_rated" href="/beer/top_rated">Top Rated</a></li>
+<li><a class="track-click" data-track="mobile_menu" data-href=":supporter" href="/supporter">Supporter</a></li>
+<li><a class="track-click" data-track="mobile_menu" data-href=":external/help" target="_blank" href="http://help.untappd.com">Help</a></li>
+<li><a class="track-click" data-track="mobile_menu" data-href=":sidebar/login" href="/login">Login</a></li>
+<li><a class="track-click" data-track="mobile_menu" data-href=":sidebar/create" href="/create?source=mobilemenu">Sign Up</a></li>
+</ul>
+</div>
+<header>
+<div class="inner">
+<p class="logo"><a class="track-click" data-track="desktop_header" data-href=":root" href="/">Untappd</a></p>
+<div class="get_user_desktop">
+<a class="sign_in track-click" data-track="mobile_header" data-href=":login" href="/login?go_to=https://untappd.com/privacy">Sign In</a>
+<a href="/create" class="join track_click" data-track="mobile_header" data-href=":create">Join Now</a>
+</div>
+<div onclick="trackMobileEvent('menu');" class="mobile_menu_btn">Menu</div>
+<div id="nav_site">
+<ul>
+<li><a class="track-click" data-track="desktop_menu" data-href=":thepub" href="/thepub">The Pub</a></li>
+<li><a class="track-click" data-track="desktop_menu" data-href=":beer/top_rated" href="/beer/top_rated">Top Rated</a></li>
+<li><a class="track-click" data-track="desktop_menu" data-href=":supporter" href="/supporter">Supporter</a></li>
+<li><a class="track-click" data-track="desktop_menu" data-href=":external/help" target="_blank" href="http://help.untappd.com">Help</a></li>
+</ul>
+<form class="search_box" method="get" action="/search">
+<input type="text" class="track-focus search-input-desktop" autocomplete="off" data-track="desktop_search" placeholder="Find a beer, brewery or bar..." name="q">
+<input type="submit" value="Submit the form!" style="position: absolute; top: 0; left: 0; z-index: 0; width: 1px; height: 1px; visibility: hidden;">
+<div class="autocomplete">
+</div>
+</form>
+</div>
+</div>
+</header>
+<style type="text/css">
+    .ac-selected {
+        background-color: #f8f8f8;
+    }
+</style>
+<div class="nav_open_overlay"></div>
+<div id="slide">
+<style type="text/css" media="screen">
+			.link-it {
+				color: #fff;
+				text-decoration: underline;
+				font-weight: 800;
+			}
+
+			.link-it:hover {
+				color: #fff;
+				font-weight: 800;
+			}
+
+			.main-banner {
+				float: left;
+	    		text-align: left;
+	    		width: 80%;
+			}
+
+			.action-btn {
+				float: right;
+	    		text-align: right;
+	    		display: block;
+	    		margin-right: 12px;
+	    		margin-top: 7px;
+			}
+		</style>
+<div class="notice_banner tos-banner" data-banner="true">
+<p class="main-banner">Our <a class="link-it" href="/cookie">Cookie Policy</a>, <a class="link-it" href="/terms">Terms of Service</a>, and <a class="link-it" href="/privacy">Privacy Policy</a> have been updated. By continuing to browse our site you agree to these updates. For additonal information or feedback, visit <a class="link-it" href="https://help.untappd.com">help.untappd.com</a></p>
+<a href="javascript:void(0);" onclick="Notice.hide();" class="track-click link-it action-btn" style="text-decoration: none;" data-track="header" data-href=":/priavcy">I AGREE</a><p></p>
+<div style="clear: both;"></div>
+</div>
+<script>
+		var Notice = {
+			hide: function(a){
+
+				$(".tos-banner").slideUp();
+
+				$.ajax({
+					url: "/account/hide_notice?messageId=4",
+					type: "GET",
+					dataType: "json",
+				    error: function(html)
+					{
+
+					},
+					success: function(html)
+					{
+
+					}
+				});
+
+				return false;
+			}
+		}
+		</script>
+<style type="text/css">
+	.terms-page #terms p {font-size: 14px;}
+	.terms-page #terms {margin: 15px;}
+	.terms-page .sidebar .box .content h3 {margin-bottom: 15px;}
+	.terms-page .sidebar a p {font-size: 17px; margin-bottom: 15px;}
+	#terms ul { margin-left: 25px; margin-bottom: 10px; }
+	#terms ul li { list-style-type: circle;
+    font-size: 14px;
+    margin-bottom: 5px }
+</style>
+<div class="cont account-settings terms-page">
+<div class="main">
+<div class="box">
+<div class="content">
+<div class="top-header">
+<h3>Privacy Policy</h3>
+</div>
+<div id="terms">
+<p>Last Updated: October 15, 2018</p>
+<p><strong>I. Scope of this Privacy Policy</strong></p>
+<p>This Privacy Policy describes the types of personal information Untappd (“Untappd,” “us,” “we” or “our”) collects through https://untappd.com, https://business.untappd.com, https://store.untappd.com, the Untappd mobile applications and various related services (the “Site”), and how we collect, use, and share that information. This Privacy Policy does not govern our collection of personal information through any other website or other means, other than through the Site.</p>
+<p>Our processing of personal data, such as your name, address, e-mail address, or telephone number, shall be undertaken consistent with the requirements of applicable privacy laws, including, but not limited to, the General Data Protection Regulation (“GDPR”). The purpose of this Privacy Policy is to provide to users and potential users of our website information about the nature, scope, and purpose of the personal data we collect, use and process and to advise data subjects of their rights. Whether we serve as the data controller or processor, Untappd has implemented numerous technical and organizational measures to ensure the protection of personal data processed through the Site. However, Internet-based data transmissions may in principle have security gaps, so please understand that absolute protection is not assured.</p>
+<p>By using the Site, you accept and expressly agree to our practices surrounding the collection, use, and sharing of personal information provided by you in the manner described in this Privacy Policy. If you do not agree with the terms of this Privacy Policy, you cannot, and we do not authorize you to, access, browse, or use the Site.</p>
+<p><strong>II. Personal Information We Collect</strong></p>
+<p><strong>A. Information You Give Us</strong></p>
+<p>Except for physical location information and tracking technologies (as described below), you do not have to give us any personal information to browse this Site. However, you may be asked to provide personal information to submit or request information from us, or to use the services offered through this Site. Once you provide us with your personal information, you are no longer anonymous to us. This information may include:</p>
+<p><strong>Registration Information</strong>: When you sign up for the Site, you are required to provide information such as your name, username, password, email address, and date of birth. In addition, you may be asked to provide optional information, including gender and location to enhance the Site experience.</p>
+<p><strong>Additional Information</strong>: Additional information that you provide to us, including through feedback, pictures you upload, comments, ratings, reviews, messages, emails, posts to public discussion boards, event registrations, answers to surveys or questionnaires that you may submit. </p>
+<p><strong>Payment Information</strong>: If you choose to purchase any Untappd products or services, you will be required to provide information such as your name, username, email address, company name, address, phone number, and credit card information. </p>
+<p><strong>Business Information</strong>: When you sign up for the Site as a business, you are required to provide information such as your business name, business type, address, time zone, currency, Untappd Venue ID, contact name, contact email, contact phone number, primary user name, primary user email address, subscription plan, and credit card information.</p>
+<p><strong>B. Location Information.</strong>
+In order to access and use certain areas or features of the Site, you consent to our collection and use of your physical location information if you use the Site on a location-enabled device (including GPS, cellular, and Wi-Fi networks) or from your browser.</p>
+<p><strong>C. Automated Information Collection</strong>
+In order to access and use certain areas or features of the Site, you consent to our collection and use of certain information about your use of the Site through the use of tracking technologies or by other passive means. Your consent to our access and use of this “passively collected” information includes, but is not limited to, the domain name of the website that allowed you to navigate to the Site, search engines used, the internet protocol (IP) address used, the length of time spent on the Site, the pages you looked at on the Site, other webpages you visited before and after visiting the Site, the type of internet browser you have, the frequency of your visits to the Site, and other relevant statistics, including the following:</p>
+<p><strong>Log Information:</strong> When you access the Site, you also consent to our servers automatically recording information that your browser sends whenever you visit a website. These server logs may include information such as your web request, IP address, browser type, browser language, the date and time of your request, your computer operating system, mobile device and mobile operating system, name of your internet service provider or your mobile carrier, and one or more cookies (small text files containing a string of characters) that may uniquely identify your browser. Our servers also automatically record what you click on while visiting the Site.</p>
+<p><strong>Location Information:</strong> You consent to our receipt of location data passed to us from location-enabled devices or that you have enabled, from your browser, or from third-party services. </p>
+<p><strong>Links:</strong> The Site may include links in a format that enables us to keep track of the IP addresses from which these links have been followed. You further consent to our collection and use this information to improve the quality of our Site, product(s) and Untappd business operations.</p>
+<p><strong>URLs:</strong> When you visit or access the Site, you consent to our receipt of the URL of the site from which you came and links you click on to leave the site. Additionally, advertisers receive the URL of the page you were on when you click on an ad on the Site.</p>
+<p><strong>Cookies:</strong> When you visit or access the Site, you consent to our use of one or more cookies (small text files containing a string of characters) to your computer that uniquely identifies your browser. We use cookies to improve the quality of the Site by storing user preferences, tracking user trends, and providing personalized content and ads. Most web browsers accept cookies automatically, but can be configured not to do so or to notify the user when a cookie is being sent. If you wish to disable cookies, refer to your browser help menu to learn how to disable cookies. Please note that if you disable cookies, you may not be able to use some customized features available through the Site. For more information on our Cookie Policy, including an opt-out, please visit https://untappd.com/cookies.</p>
+<p><strong>Web Beacons:</strong> Our Site may contain electronic images known as web beacons (also called single-pixel gifs and transparent graphic images) that we use to help deliver cookies on our sites, count users who have visited those sites, deliver services, and analyze the effectiveness of our promotional campaigns, for example. We may also include web beacons in our marketing email messages or newsletters to determine whether an email is opened or if links are clicked. You consent to our use of web beacons to facilitate Site administration and navigation, to track the actions of users of the Site, to compile aggregate statistics about Site usage and response rates, and to provide an enhanced online experience for visitors to the Site.</p>
+<p><strong>Aggregate Information:</strong> We may compile certain personal information and other information collected through the Site on an aggregate basis. This information may include, without limitation, the number of people who have visited the Site and other user demographics. Such aggregate information does not identify you individually.</p>
+<p><strong>III. How We Use Personal Information</strong></p>
+<p>Untappd complies with its obligations under applicable privacy laws by: keeping personal data up to date where needed based on the purposes for which the personal data is being processed; by not collecting or retaining excessive amounts of data; by ensuring that appropriate technical measures are in place that are designed to protect personal data from loss, alteration, misuse, unauthorized access and disclosure as it is transmitted, stored, or otherwise processed, and by using appropriate measures to securely destroy personal data when it is no longer needed by Untappd.</p>
+<p>Personal information collected through the Site may be used by us and our affiliates for purposes of: </p>
+<ul>
+<li>Responding to your questions and feedback;</li>
+<li>Providing the services you select through this Site;</li>
+<li>Tailoring advertisements to you;</li>
+<li>Contacting you, whether by email, postal mail, or telephone with information about this Site, our products, or our services;</li>
+<li>For such purposes as you may authorize at the time you submit the information;</li>
+<li>Auditing, research, and analysis to maintain, protect, and improve this Site and our services;</li>
+<li>Ensuring the technical functions of our network;</li>
+<li>Improving and customizing the content and layout of the Site;</li>
+<li>Developing new products and services; or</li>
+<li>Compiling personal information and other information collected through the Site on an aggregate basis.</li>
+</ul>
+<p><strong>IV. Personal Information We Share</strong></p>
+<p>We do not sell, rent, trade, or otherwise share personal information collected through the Site, except as described below: </p>
+<p><strong>In Connection with our Offerings</strong>. The Site involves the sharing of certain personal information collected through the Site with (i) other users of the Site, and (ii) as you otherwise provide your consent. Information which you upload, post, e-mail, submit or otherwise transmit in connection with the Site to a public message board, chat area or other public area of the Site will be made public to users of the Site, including certain metadata related to such activities (such as timestamps). You are solely responsible for any such information you choose to post on or through the Site. All information that is posted to a message board, chat area, or other public area of the Site may be shared by us with (i) other users of the Site, and (ii) as you otherwise provide your consent. Please be aware that anything you share publically may be further shared by other users of the Site (for example, by emailing a screenshot of your post to non-users). We are not responsible for any such sharing of information you have shared publically on the Site.</p>
+<p><strong>Subsidiaries and Affiliates.</strong> We may share personal information with our subsidiaries and affiliates for the purposes for which you provided the information or as reasonably necessary for our internal administrative and business purposes.</p>
+<p><strong>Service Providers.</strong> We work with third parties that provide services on our behalf. Such services may include website hosting, marketing, and website usage analytics. We may share personal information and non-personal information with these third parties for the purpose of enabling them to provide these services. </p>
+<p><strong>Business Customers.</strong> We provide businesses with services and data reports. Such services and data reports may include item, style and venue trends and analyses, item performance benchmarks and quality assurance information. We will not share personally identifiable information with these Business Customers.</p>
+<p><strong>Menu and Event Services.</strong> We publish menus and events on behalf of our customers. The menus and events that you submit on https://business.untappd.com may be shared on the Site and on other Social Media platforms such as Facebook and Twitter. </p>
+<p><strong>Consent.</strong> We may share personal information in accordance with any consent you provide.</p>
+<p><strong>Required by Law.</strong> We may disclose personal information or any information collected through this Site if we are required to do so by law or pursuant to legal process, in response to a request from government officials or law enforcement authorities, or as necessary or appropriate in connection with an investigation of illegal activity.</p>
+<p><strong>Certain Transactions.</strong> We may disclose or transfer personal information or any information collected through this Site to third parties who acquire all or a portion of our business, whether such acquisition is by way of merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us. </p>
+<p><strong>Interest-Based Advertising.</strong> We may participate in Interest-based advertising. This means that you may see advertising on the Site tailored to how you engage or browse, or you may see advertising for us on other websites, applications and social media based on your behavior across websites, applications and social media. We may target ads based on data we have collected, or data provided by third parties alone or in combination with the data we collect ourselves. If you choose to interact with specific third parties who advertise through the Site, the information you provide to them is subject to the conditions of their specific privacy policies. </p>
+<p>In connection with the foregoing activities, third parties, often called “ad servers” or “ad networks,” may place and access cookies, web beacons, or other tracking technology on your device to collect information about your use of the Site and your use of third-party sites. The information about your use of the Site may be combined with information about your use of third-party websites to provide targeted advertisements and content that may be of interest to you (this is known as “interest-based advertising”). The information they collect from the Site may identify you personally, or they may associate it with personal information collected in other ways or received from other third parties. We do not control these third parties or their use of cookies, web beacons, or other tracking technology.</p>
+<p>By using the Site you agree to usage tracking and targeted interest-based advertising. If you do not wish to have cookies track your usage for these purposes, please visit our Cookie Policy at https://untappd.com/cookies for information regarding how to refuse all or some browser cookies, or do not use the Site.</p>
+<p>Some advertisers may provide you with the choice to opt-out of having your information used for interest-based advertising. If you would like more information about interest-based advertising, or for information about how to opt-out of interest-based advertising, please visit the Network Advertising Initiative's (“NAI”) consumer website at http://www.networkadvertising.org/understanding-online-advertising, and in particular, NAI’s Ad Network “Opt-Out” page at http://www.networkadvertising.org/choices/. Even if you opt-out of interest-based advertising, we may still collect and use information about your use of the Site to the extent otherwise permitted by this Privacy Policy (such as to analyze Site traffic and usage, conduct website analytics, administer the Site, etc.). In addition, if you opt-out of receiving interest-based advertising from a particular advertiser, the advertiser may still provide advertisements to you, but the ad will not be targeted to you based on your online activities. For additional assistance with opting-out, please contact us directly at <a href="mailto:supporot@untappd.com">support@untappd.com</a>. </p>
+<p><strong>V. Aggregate Information</strong></p>
+<p>We may compile de-identified personal information and other information collected through the Site on an aggregate basis. This information may include, without limitation, the number of users who have registered for the Site and demographic information about users and usage of the Site. Such aggregate information does not identify you individually. We may use aggregate information and share aggregate information with third parties for any of the purposes specified in this Privacy Policy, and for any other lawful purpose.</p>
+<p><strong>VI. Your Choices</strong> </p>
+<p><strong>A. Information You Provide</strong>
+You can always choose whether or not to provide information on the Site. However, if you choose not to disclose certain information, you may not be able to register as a user of the Site, which may limit your access to certain portions of the Site.</p>
+<p><strong>B. Privacy Settings</strong>
+By default, certain types of information you choose to submit will be made public to users of the Site. This includes your account username, profile picture, and any comments or posts you make to public posts or discussion boards. You can control whether other profile and activity information as described in Section II will be shared publicly with all users of the Site, or limited to users that you have friended.</p>
+<p><strong>C. Communications From Us</strong>
+If at any time you decide that you no longer wish to receive notices from us regarding the Site, you may indicate this preference by contacting us at <a href="mailto:supporot@untappd.com">support@untappd.com</a>. </p>
+<p><strong>D. Do Not Track</strong>
+As described in more in our Cookie Policy located at https://untappd.com/cookies, you can configure your browser not to accept cookies or to notify you when a cookie is being sent. </p>
+<p><strong>E. Your Rights and Your Personal Data</strong>
+Unless subject to an exemption under the GDPR, if your personal data is subject to the GDPR, you have the following rights with respect to your personal data: </p>
+<ul>
+<li>The right to request a copy of your personal data which Untappd holds about you;</li>
+<li>The right to request that Untappd correct any personal data if it is found to be inaccurate or out of date;</li>
+<li>The right to request your personal data be erased where it is no longer necessary for Untappd to retain such data;</li>
+<li>The right to withdraw your consent at any time to the processing of personal data to which you provided consent for processing;</li>
+<li>The right to request that Untappd provide you with a copy of your personal data and where possible, to transmit that data directly to another data controller (known as the right to data portability);</li>
+<li>The right, where there is a dispute in relation to the accuracy or processing of your personal data, to request a restriction be placed on further processing;</li>
+<li>The right to object to the processing of personal data (where applicable); and</li>
+<li>The right to lodge a complaint with a data supervisory authority.</li>
+</ul>
+<p><strong>F. Transfer of Data Abroad</strong>
+If your personal data is subject to the GDPR, Untappd will transfer personal data from the European Economic Area (EEA) to a location outside the EEA only when there has been a documented adequacy determination, or where Untappd has confirmed adequate privacy protections. If Untappd transfers personal data to a third party acting as an agent of Untappd, we will also obligate the third party to have adequate privacy protections in place.</p>
+<p>Untappd may transfer personal data to and on behalf of clients and third parties with whom Untappd has an existing service agreement or as part of our legal obligations, each of which shall be subject to Untappd policies, and only to the extent necessary for purposes of legitimate interests pursued by the data controller (or by a third party).</p>
+<p><strong>G. Automated Decision Making</strong>
+Under the GDPR, data subjects have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her, or similarly significantly affects him or her, as long as the decision (1) is not is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) is not authorized by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the data subject’s rights and freedoms and legitimate interests, or (3) is not based on the data subject’s explicit consent. We do not engage in automated decision making.</p>
+<p><strong>H. Further processing</strong>
+If we wish to use your personal data for a new purpose, not covered by this Privacy Policy, then we will provide you with a new notice explaining this new use prior to commencing the processing and setting out the relevant purposes and processing conditions. Where and whenever necessary, we will seek your prior consent to the new processing.</p>
+<p><strong>VII. Information Storage and Security</strong></p>
+<p>We employ reasonable security precautions to help protect against the loss, misuse, and alteration of personal information provided on or through the Site. These security measures include: : storing passwords in hashed form, anticross-site-request forgery measures, SSL encryption of CMS communications, and a monitoring system to actively screen for unwanted behaviors. However, no method of transmitting or storing data is completely secure. As a result, although we strive to protect personal information about you, we cannot guarantee the security of any information you transmit to us through or in connection with the Site. If you have reason to believe that personal information is no longer secure, please notify us immediately by contacting us in accordance with the last section below.</p>
+<p><strong>VIII. Special Notes about Children and California Privacy Rights</strong></p>
+<p>Children are not eligible to use the Site, and we ask that minors (children under the age of 16) not submit any personal information to us. If you are a minor, you can use the Site only in conjunction with your parents or guardians. </p>
+<p>Under California’s "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2018 will receive information regarding 2017 sharing activities).</p>
+<p>To obtain this information on behalf of Untappd, please send an email message to <a href="mailto:supporot@untappd.com">support@untappd.com</a> with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.</p>
+<p><strong>IX. External Links</strong></p>
+<p>The Site may contain links to various websites that we do not control. When you click on one of these links, you will no longer be transacting business through the Site. Third party websites maintain their own privacy policies, and we do not exercise any control over any of the third party websites that may be linked to the Site. If you visit a website that is linked to the Site, you should consult that website’s privacy policy before providing any personal information. Please be aware that we are not responsible for the privacy practices of such other websites, and we are not liable for their misuse of personal information about you.</p>
+<p><strong>X. Special Admonitions for International Use</strong></p>
+<p>The Site is hosted in the United States. All matters relating to the Site are governed exclusively by the laws of the State of North Carolina in the United States of America and not the jurisdiction in which you are located. If you are located outside of the United States of America and you contact us, please be advised that any information you provide to us will be transferred to the United States of America and that by submitting information, you explicitly authorize such transfer. </p>
+<p><strong>XI. Updates to this Privacy Policy</strong></p>
+<p>We may change or update the Site or any of our policies and procedures without prior notice, except that if any changes are likely to have an adverse impact on your rights under data protection law, we will use reasonable efforts to notify you of the changes in advance in writing or by post mail, and, where required, obtain your consent to our activities. We will post a notice on this Site to advise you of any significant changes to this Privacy Policy and indicate via the “Last Updated” legend in this Privacy Policy when it was most recently updated. Except to the extent that your express consent to any change or update is required under data protection law, your continued use of the Site signifies your continued assent to the terms of this Privacy Policy, as updated or amended at that time.</p>
+<p><strong>XII. Questions Regarding this Privacy Policy</strong></p>
+<p>If you have any questions or comments regarding this Privacy Policy, please send us an email at <a href="mailto:supporot@untappd.com">support@untappd.com</a></p>
+<p>If your personal data is subject to the GDPR, the data controller for the purposes of GDPR or other data protection laws applicable in Member states of the European Union and other provisions related to data protection is:</p>
+<p>Untappd, Inc.</p>
+<p>Kurt Taylor</p>
+<p>CEO</p>
+<p>Email: <a href="mailto:gdpr@untappd.com">gdpr@untappd.com</a></p>
+<p>Any data subject may, at any time, contact us directly with any questions and suggestions concerning data protection. We encourage interested persons to raise any concerns about the collection, use, or processing of personal data using the contact information provided above. In the event of a privacy related issue or complaint, we will investigate and attempt to promptly resolve any complaints and disputes regarding use and disclosure of personal data.</p>
+<p>For complaints that cannot be resolved, if your personal data is subject to the GDPR, we commit to cooperating with the panel established by the EU data protection authorities (DPAs) or the Swiss Federal Data Protection and Information Commissioner (FDPIC), as applicable, and comply with the advice given by the DPAs or FDPIC about personal data transferred from the EU or Switzerland.</p>
+<p>In order to facilitate the handling of complaints, individuals in the EU can choose to contact their national DPA or use the form located at this link: http://ec.europa.eu/newsroom/document.cfm?doc_id=42962 </p>
+<p>Individuals in Switzerland can contact the Swiss FDPIC by visiting: https://www.edoeb.admin.ch/edoeb/de/home.html </p>
+<p>This independent dispute resolution process is provided at no cost to the individual.</p>
+</div>
+</div>
+</div>
+<div class="sidebar">
+<div class="box">
+<div class="content">
+<h3>Resources</h3>
+<a href="/supporter">
+<p><span class="name">Supporter Account</span></p>
+</a>
+<a href="http://store.untappd.com" target="_blank">
+<p><span class="name">Store</span></p>
+</a>
+<a href="/api">
+<p><span class="name">API</span></p>
+</a>
+<a href="/create">
+<p><span class="name">Sign-up</span></p>
+</a>
+<a href="http://untpd.it/PRKit" target="_blank">
+<p><span class="name">PR Kit</span></p>
+</a>
+</div>
+</div>
+<div class="box">
+<div class="content">
+<h3>Contact</h3>
+<a href="/help">
+<p><span class="name">Help &amp; Support</span></p>
+</a>
+<a href="mailto:info@untappd.com">
+<p><span class="name">Email</span></p>
+</a>
+<a href="http://twitter.com/untappd" target="_blank">
+<p><span class="name">Twitter</span></p>
+</a>
+<a href="http://facebook.com/untappd" target="_blank">
+<p><span class="name">Facebook</span></p>
+</a>
+<a href="https://plus.google.com/b/103401171303190831498/+Untappd/posts" target="_blank">
+<p><span class="name">Google+</span></p>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="footer-nav">
+<div class="footer-inner">
+<ul>
+<li>
+<a class="track-click" data-track="footer" data-href=":footer/businesses" href="https://untappd.com/business">Untappd for Business</a>
+</li><li>
+<a class="track-click" data-track="footer" data-href=":footer/breweries" href="https://untappd.com/breweries">Breweries</a>
+</li><li>
+<a class="track-click" data-track="footer" data-href=":footer/store" href="https://store.untappd.com/">Store</a>
+</li><li>
+<a class="track-click" data-track="footer" data-href=":footer/support" href="http://help.untappd.com/">Support</a>
+</li><li>
+<a class="track-click" data-track="footer" data-href=":footer/blog" href="http://blog.untappd.com/">Blog</a>
+</li><li>
+<a class="track-click" data-track="footer" data-href=":footer/podcast" href="http://podcast.untappd.com/">Podcast</a>
+</li><li>
+<a class="track-click" data-track="footer" data-href=":footer/badgevote" href="https://untappd.com/uservote/badges">Badge Voting</a>
+</li><li>
+<a class="track-click" data-track="footer" data-href=":footer/careers" href="https://untappd.recruiterbox.com/">Careers</a>
+</li><li>
+<a class="track-click" data-track="footer" data-href=":footer/api" href="/api/">API</a>
+</li><li>
+<a class="track-click" data-track="footer" data-href=":footer/terms" href="/terms">Terms</a>
+</li><li>
+<a class="track-click" data-track="footer" data-href=":footer/privacy" href="/privacy">Privacy</a>
+</li>
+</ul>
+</div>
+</div>
+<ul class="social">
+<li><a class="track-click" data-track="footer" data-href=":footer/social/twitter" href="https://twitter.com/untappd" target="_blank"><img src="https://untappd.akamaized.net/assets/custom/homepage/images/icon-twitter.svg" alt="Icon twitter"></a></li>
+<li><a class="track-click" data-track="footer" data-href=":footer/social/facebook" href="https://www.facebook.com/untappd/" target="_blank"><img src="https://untappd.akamaized.net/assets/custom/homepage/images/icon-facebook.svg" alt="Icon facebook"></a></li>
+<li><a class="track-click" data-track="home" data-href=":footer/social/instagram" href="https://www.instagram.com/untappd/" target="_blank"><img src="https://untappd.akamaized.net/assets/custom/homepage/images/icon-instagram.svg" alt="Icon instagram"></a></li>
+</ul>
+</footer>
+<script type="text/javascript">
+
+	// polyfill for ie11
+	function getUrlParameter(name) {
+	    name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+	    var regex = new RegExp('[\\?&]' + name + '=([^&#]*)');
+	    var results = regex.exec(location.search);
+	    return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+	};
+
 	$(document).ready(function() {
-		// remove any query strings or access tokens
+		// remove any access tokens, perseve other elements
 		if (history.replaceState) {
 			if (location.href.indexOf("access_token=") >= 0) {
-				history.replaceState(null, "", location.href.split("?")[0]);		
+				const accessTokenURL = getUrlParameter("access_token");
+				let currentURL = location.href;
+				let finalURL = currentURL.replace(`access_token=${accessTokenURL}`, '');
+
+				// if the url has a "&" already in it, then remove the "?" and replace the first "&" with an "?"
+				if (finalURL.indexOf("&") >= 0) {
+					finalURL = finalURL.replace("?", "").replace("&", "?");
+				} else {
+					finalURL = finalURL.split("?")[0];
+				}
+
+				history.replaceState(null, "", finalURL);
 			}
 		}
 	})
-</script> <script type="text/javascript">
+</script>
+<script type="text/javascript">
 	   // Clear Text Feild
 	function clearText(thefield){
 		if (thefield.defaultValue==thefield.value)
@@ -74,4 +450,7 @@
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 
-	</script> <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9cfba25275","applicationID":"59507973","transactionName":"NAdTZEZUChUFW0JdVg1NcFNAXAsIS2hEXU8CAUgfXVsAAxw=","queueTime":0,"applicationTime":18,"atts":"GEBEEg5OGUpGWRQOQh4f","errorBeacon":"bam.nr-data.net","agent":""}</script>  </div></div></body></html>
+	</script>
+
+
+</div></div></body></html>
