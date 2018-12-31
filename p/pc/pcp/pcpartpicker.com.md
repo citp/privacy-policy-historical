@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcpartpicker.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625101446id_/https%3A//pcpartpicker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpartpicker.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231094004id_/https%3A//pcpartpicker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PCPartPicker
 
@@ -136,7 +136,7 @@ Your principal rights under data protection law are:
 
 
 
-You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee. You can request your personal data by emailing [dpo@pcpartpicker.com](https://web.archive.org/web/20180625101446id_/https://pcpartpicker.com/privacy/dpo@pcpartpicker.com).
+You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee. You can request your personal data by emailing [dpo@pcpartpicker.com](https://web.archive.org/web/20181231094004id_/https://pcpartpicker.com/privacy/dpo@pcpartpicker.com).
 
 You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.
 
@@ -214,7 +214,7 @@ Most browsers allow you to refuse to accept cookies and to delete cookies. The m
 
   * https://support.google.com/chrome/answer/95647?hl=en (Chrome);
   * https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox);
-  * http://www.opera.com/help/tutorials/security/cookies/ (Opera);
+  * https://www.opera.com/help/tutorials/security/cookies/ (Opera);
   * https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies (Internet Explorer);
   * https://support.apple.com/kb/PH21411 (Safari); and
   * https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge).
