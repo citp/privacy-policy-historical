@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepostmansknock.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625034120id_/https%3A//thepostmansknock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepostmansknock.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231025802id_/https%3A//thepostmansknock.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Postman's Knock
+# Privacy Policy – The Postman's Knock
 
 ## Personal Identification Information
 
@@ -75,4 +75,4 @@ The Postman’s Knock
 [lindsey@thepostmansknock.com](mailto:lindsey@thepostmansknock.com)  
 +1 (785) 443-0354
 
-This article was last modified on March 9, 2017
+This article was last modified on December 13, 2018
