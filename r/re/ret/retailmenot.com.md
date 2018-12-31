@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailmenot.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628210633id_/https%3A//www.retailmenot.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailmenot.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231053130id_/https%3A//www.retailmenot.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -218,5 +218,3 @@ Please allow 30 days for a response.
 
 
 
-
-airplanealertapp-downloadarrow-downarrow-expandarrow-leftarrow-right-alternatearrow-rightarrow-upbadgeballoonsbarcodebellbookbuildingcalendarcameracarShopping Cartcash-backcastlechairchat-dotschatcheck-circlecheckcheckboxclockclosecomputercreatedetect-locationenvelope-open-outlineenvelope-openenvelopefacebookfingerflowerfoodfrowngeargift-cardgiftglittersgridgroceriesguitarhealthheart-outlinehearthome-gardenhomeinfojewellifetime-cashbacklightninglipsticklistlocationlockmapminus-circlemoneynewspacifierpaperclippawphoneplayplugplusprintprofilepromotedquestion-markrebatermn-rsearchshirtshoeslidersspadessparkles-threesparkles-twostar-outlinestarstopwatchstoretag-addtagthumbs-downthumbs-uptoytrash-bintrophyuserwatchx
