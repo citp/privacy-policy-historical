@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barbican.org.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625142019id_/https%3A//www.barbican.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbican.org.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231134301id_/https%3A//www.barbican.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Barbican
 
@@ -209,7 +209,7 @@ We may redact data transfer agreements to protect commercial terms.
 
 The Information Commissioner is the UK's independent authority set up to uphold information rights and data privacy for individuals.  You have the right to lodge a complaint with the Information Commissioner if you are dissatisfied with any aspect of the way that we collect and use your personal information.
 
-The Information Commissioner's website can be found at [www.ico.org.uk](http://www.ico.org.uk/) or you can call their helpline on 0303 123 1113.
+The Information Commissioner's website can be found at [www.ico.org.uk](https://ico.org.uk/) or you can call their helpline on 0303 123 1113.
 
 We ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time.
 
