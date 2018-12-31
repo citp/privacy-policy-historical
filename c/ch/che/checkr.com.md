@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the checkr.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018171254id_/https%3A//checkr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkr.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231173513id_/http%3A//checkr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Checkr
 
 #### CHECKR, INC PRIVACY POLICY
 
-**Effective Date** : May 16, 2017
+**Effective Date:** May 16, 2018
 
-This Privacy Policy (“Policy”) describes how Checkr, Inc. (“Checkr” or “we” or “our”) treats information collected or provided in connection with an end user’s (“you” or “user”) visit to or use of the website located at [https://checkr.com](https://checkr.com/) and Checkr’s products and services (the “ **Services** “). Please note that your use of the Site constitutes your acceptance of and consent to this Policy. When you sign up to use the Services, you also consent to receive electronic notices and disclosures, as set forth in Section 5 below.
+This Privacy Policy (“Policy”) describes how Checkr, Inc. (“Checkr” or “we” or “our”) treats information collected or provided in connection with an end user’s (“you” or “user”) visit to or use of the website located at https://checkr.com and Checkr’s products and services (the **“Services“** ). Please note that your use of the Site constitutes your acceptance of and consent to this Policy. When you sign up to use the Services, you also consent to receive electronic notices and disclosures, as set forth in Section 5 below.
 
 Checkr reserves the right to change this Policy at any time. Please check this page periodically for changes. Your continued use of the Services following the posting of changes to this Policy will mean you accept those changes.
 
@@ -26,19 +26,22 @@ This Policy seeks to answer questions you may have about the Services and Checkr
 
 
 
+See also: **Additional Information for Canadian Users.**
+
 ##### 1\. What information does Checkr collect through the Services?
 
 _**Information Provided Directly To Us**_
 
 We may collect information you provide directly through the Services. For example, we may collect your name, email address, or other contact information when you access certain Checkr content available through the Services such as whitepapers, videos, webinars, and other materials, or request additional information about Checkr or the Services. Checkr also collects information from you when you fill out any form in the Services such as when you submit questions or comments.
 
-_1\. Customers_
+_A. Customers_
 
 If you want to use the Services to screen applicants (“Customers”), Checkr may collect the following information (collectively, the “Customer Information”), including, but not limited to:
 
   * Account creation information, including your name, email address, and a custom password;
   * Contact information such as address and phone number;
   * Corporate and license information;
+  * Hiring practice information such as employee work location and salary necessary for the application of state and federal consumer reporting laws
   * If you are an employer, employer identification number; and  
 Payment information, including credit card and/or bank account information and billing address. 
     * Please note: We do not store the credit card or bank account numbers you may use to make payments in the Services. Such information is passed on to our third-party payment processor, Stripe. You can review information on Stripe’s privacy practices at [https://www.stripe.com](https://www.stripe.com/).
@@ -51,7 +54,7 @@ If you are an applicant who will be the subject of a screening or background che
 
   * Account creation information, including your full name, e-mail address, and custom password;
   * Contact information, including phone number and address;
-  * Identity verification information, including Social Security Number and date of birth; and
+  * Identity verification information, including Social Security Number (or Social Insurance Number) and date of birth; and
   * Additional information or supporting documentation you submit or upload regarding identity, background, evidence of rehabilitation, or a dispute. 
     * Examples include an uploaded picture, a driver’s license, or court records.
 
@@ -67,7 +70,8 @@ Third-party web analytics services providers we engage, such as Google Analytics
 
 ##### 2\. How does Checkr use the collected information?
 
-Checkr uses the **information it maintains about you (including information you provide, Customer Information, Background Check Information, and Technical Information):**
+Checkr uses the **information it maintains about you (including information you provide, Customer Information, Background Check Information, and Technical Information):  
+**
 
   * For the purposes for which you provided it;
   * To create your account and enable you to use the Services;
@@ -83,7 +87,7 @@ Checkr uses the **information it maintains about you (including information you 
 
 
 
-Checkr uses the **contact information** that you provide to access Checkr content available in the Services (such as whitepapers) or to obtain more information about Checkr or its Services to provide such content and information. Checkr may also use this information to provide you with additional information regarding products and services from Checkr or our business partners that may be of interest to you. Checkr does not use Background Check Information for this purpose. If you do not wish to receive such communications, please see Section 7 below.
+Checkr uses the **contact information** that you provide to access Checkr content available in the Services (such as whitepapers) or to obtain more information about Checkr or its Services to provide such content and information. Checkr may also use this information to provide you with additional information regarding products and services from Checkr or our business partners that may be of interest to you. Checkr does not use **Background Check Information** for this purpose. If you do not wish to receive such communications, please see Section 7 below.
 
 Checkr uses **Background Check Information** as reasonably necessary to:
 
@@ -121,13 +125,13 @@ We may share the information we collect from and maintain about you as follows:
 
   * _Employers or Other Customers Requesting Background Reports_. We provide background reports, which may include Background Check Information, about Applicants to the requesting employer or Customer. We may also provide an employer or Customer other communications related to background reports such as notification of a dispute.
   * _Furnishers and Researchers_. We provide Background Check Information to entities that research and furnish data contained in background reports.
-  * _Service Providers_. We may provide access to your information to select third parties who perform services on our behalf. These third parties provide a variety of services to us, including without limitation conducting components of background checks, billing, fulfillment, data storage, analysis and processing, identity verification, fraud, accounting, auditing, and legal services.
+  * _Service Providers_.We may provide access to your information to select third parties who perform services on our behalf. These third parties provide a variety of services to us, including without limitation conducting components of background checks, billing, fulfillment, data storage, analysis and processing, identity verification, fraud, accounting, auditing, and legal services.
   * _Affiliates_. We may share information with our affiliates for use as described in this Policy.
   * _Legal Requirements_. We will use and disclose information where we, in good faith, believe that the law or legal process (such as a court order, search warrant or subpoena) requires us to do so or in other circumstances where we believe is necessary to protect the rights or property of Checkr, our users, or third parties.
   * _De-identified information_. We may share de-identified information with third parties, including without limitation: (1) sharing aggregated, de-identified information about our user base and its interests and usage patterns and (2) providing de-identified information to third-party partners for our business arrangements, including without limitation to jointly offer a product or service to you or create interoperability between our products and services and theirs.
   * _Consent_. We may disclose your information to nonaffiliated third parties based on your consent to do so.
   * _Business Transfer_. In the event of a merger, sale of capital stock or assets, reorganization, consolidation or similar transaction involving Checkr, or in contemplation of such a transaction (e.g., due diligence), the information we possess may be transferred as a corporate asset to the acquiring entity.
-  * _Analytics_. We use Google Analytics for purposes of analyzing usage of the Services. You can find more information about Google privacy practices [here](https://www.google.com/policies/privacy/partners/).
+  * _Analytics_. We use Google Analytics for purposes of analyzing usage of the Services. You can find more information about Google privacy practices here. [here](https://www.google.com/policies/privacy/partners/).
 
 
 
@@ -168,7 +172,7 @@ All Communications that we provide to you in electronic form will be provided ei
 
 _**How to Withdraw Consent**_
 
-You may at any time withdraw your consent to receive Communications in electronic form. To begin receiving Communications in paper form, please contact us at the following address: One Montgomery Street, Suite 2000, San Francisco, CA 94108. Please specify the information you wish to receive in paper form. Be sure to state that you are requesting a copy of the disclosures, notices, etc., and include your name and mailing address. Your request will apply only to those specific items you designate. We will not impose any fee to process the withdrawal of your consent to receive electronic Communications. Any withdrawal of your consent to receive electronic Communications will be effective only after we have a reasonable period of time to process your withdrawal.
+You may at any time withdraw your consent to receive Communications in electronic form. To begin receiving Communications in paper form, please contact us at the following address: One Montgomery Street, Suite 2000, San Francisco, CA 94104. Please specify the information you wish to receive in paper form. Be sure to state that you are requesting a copy of the disclosures, notices, etc., and include your name and mailing address. Your request will apply only to those specific items you designate. We will not impose any fee to process the withdrawal of your consent to receive electronic Communications. Any withdrawal of your consent to receive electronic Communications will be effective only after we have a reasonable period of time to process your withdrawal.
 
 _**How to Update Your Records**_
 
@@ -188,9 +192,10 @@ No. The Services may contain links to third-party websites, but this Policy does
 
 ##### 7\. What are your choices regarding online tracking, analytics and certain email communications from Checkr?
 
-  * _Online Tracking and Cookies_. Like many websites, the Services does not currently respond to “do not track” browser headers. But you can take steps to limit tracking by erasing cookies from your computer’s hard drive and by setting your browser to block all cookies or warn you before a cookie is stored. If you disable cookies, you may be prevented from taking full advantage of the Services because they may not function properly without cookies.
-  * _Analytics_. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by clicking [here](https://www.google.com/policies/privacy/partners/).
-  * _Promotional Emails_. As discussed in this Policy, we may send periodic promotional or informational emails to you. You may opt out of such communications by clicking unsubscribe in the email. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt out of receiving emails about recommendations or other information we think may interest you, we may still send you emails about your account or any services you have requested or received from us.
+  * _Online Tracking and Cookies_. Like many websites, the Services do not currently respond to “do not track” browser headers. But you can take steps to limit tracking by erasing cookies from your computer’s hard drive and by setting your browser to block all cookies or warn you before a cookie is stored. If you disable cookies, you may be prevented from taking full advantage of the Services because they may not function properly without cookies.
+  * _Analytics_. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by clicking here. [here](https://www.google.com/policies/privacy/partners/).
+  * _Promotional Emails_. As discussed in this Policy, subject to any restrictions under applicable laws, we may send periodic promotional or informational emails to you. You may opt-out of such communications by clicking unsubscribe in the email. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt out of receiving emails about recommendations or other information we think may interest you, we may still send you emails about your account or any services you have requested or received from us.
+  * _Opting Out of Checkr Text Messages_. The number of text messages you receive may depend upon factors including how you use our services and whether you take steps to generate additional text messages from us (such as by sending a  **HELP**  request). If you no longer want to receive Checkr text messages, you may text  **STOP**  at any time. After doing so, we will send you confirmation of your opt-out via text message. If you have revoked consent and want to re-enroll in our text message program, you can re-enroll by emailing us at [support@checkr.com](mailto:support@checkr.com).
 
 
 
@@ -204,13 +209,60 @@ Checkr uses servers located in the United States. Checkr may also use partners o
 
 ##### 10\. Who can use the Services?
 
-You must be 18 years of age or older to use the Services. If you are a parent or guardian and believe that your child under the age of 13 has provided personally identifiable information to us through the Services, please contact us at the contact information listed below. If we discover that an individual under 13 has provided us with personal information, we will take steps to delete the account and any such personally identifiable information to the extent required by applicable law.
+YYou must be 18 years of age or older to use the Services. If you are a parent or guardian and believe that your child under the age of 13 has provided personally identifiable information to us through the Services, please contact us at the contact information listed below. If we discover that an individual under 13 has provided us with personal information, we will take steps to delete the account and any such personally identifiable information to the extent required by applicable law.
 
 ##### 11\. How can I contact you with more questions?
 
-If you have any questions about this Policy, please contact us at [legal@checkr.com](mailto:legal@checkr.com) or at:
+If you have any questions, concerns or complaints about this Policy or Checkr’s handling of your personal information, or if you would like to access or update personal information that is not available via the applicant portal, please contact us at  
+[legal@checkr.com](mailto:legal@checkr.com) or at:
 
 Checkr, Inc.  
 Attn: Privacy Questions  
 One Montgomery Street, Suite 2000  
-San Francisco, CA 94108
+San Francisco, CA 94104
+
+##### _Additional Information for Canadian Users_
+
+This Policy applies to customers, users and applicants in both Canada and the United States. However, to the extent that this Policy is inconsistent with any applicable Canadian laws, Checkr will comply with the applicable law for customers, users and applicants in Canada. For example, Checkr will only send commercial electronic messages to persons located in Canada with explicit, opt-in consent, unless otherwise permitted pursuant to Canadian legislation that is applicable to such activities.
+
+Applicants who are located in Canada should also understand that the nature of the Services will involve Checkr obtaining potentially sensitive personal information about them, including consumer reports, criminal record, driving record, as well as education and employment records, from third parties such as consumer reporting agencies, police services and government agencies (e.g., provincial transportation ministries).
+
+Checkr will also share Applicants’ personal information with a third party service provider in Canada, for the purpose of completing or facilitating the background checks described in this Policy.
+
+In addition, as indicated under Question #9 above, personal information that is collected in the course of providing the Services will be transferred outside Canada. Therefore, such information may be accessible to law enforcement and national security authorities in the jurisdiction(s) where it is stored or processed.
+
+Canadian customers, users and applicants will be notified of any material changes to this Policy, where such change would result in use or disclosure of their personal information by Checkr in a manner not contemplated by this Policy or reasonably expected by the individual.
+
+##### _Additional Information for European Users_
+
+European Union data protection laws make a distinction between organizations that process personal data for their own purposes (known as “data controllers”) and organizations that process personal data on behalf of other organizations (known as “data processors”)
+
+Under applicable law, Checkr is considered the “data controller” of the personal data we handle under this Privacy Policy. We retain the personal data for as long as necessary to provide the Services, or for other important purposes such as complying with legal obligations, resolving disputes, and enforcing our agreements.
+
+_Our legal grounds for using personal data are as follows:_
+
+  * _Contractual Commitments_ : We may use, share, or disclose information to honor our contractual commitments to you. For example, to comply with our Terms, which you by using our Service.
+  * _With Your Consent_ : Where required by law, and in some other cases, we use, share, or disclose information on the basis of your consent.
+  * _Legitimate Interests_ : In many cases, we use, share, or disclose information on the ground that it furthers our legitimate business interests in ways that are not overridden by the interests or fundamental rights and freedoms of the affected individuals, such as customer service, analyzing and improving our business, providing security for our Services, preventing fraud, and managing legal issues.
+  * _Legal Compliance_ : We need to use, share, and disclose information in certain ways to comply with our legal obligations.
+
+
+
+_Your Legal Rights Under Local Law:_  
+Your local laws (e.g., laws of the E.U.) may permit you to request that we:
+
+  * provide access to and/or a copy of certain information we hold about you;
+  * prevent the processing of your information for direct-marketing purposes; (including any direct marketing processing based on profiling)
+  * update information which is out of date or incorrect;
+  * delete certain information that we are holding about you;
+  * restrict the way that we process and disclose certain of your information;
+  * transfer your information to a third party provider of services; and
+  * revoke your consent for the processing of your information.
+
+
+
+Please note, however, that certain information may be exempt from such requests in some circumstances, which may include needing to continue processing your information for our legitimate interests or to comply with a legal obligation. We may request you provide us with information necessary to confirm your identity before responding to your request.
+
+To exercise any of these rights, you may review the information provided in Sections 4, 5, and 7, or contact us as described in the _“How can I contact you with more questions?”_ section above. In addition to those rights, you have the right to lodge a complaint with the relevant supervisory authority. However, we encourage you to contact us first, and we will do our very best to resolve your concern.
+
+As described above, Checkr uses servers located in the United States. Checkr may also use partners or affiliates located in other countries besides the US to store and process your information. By providing us with your information, you acknowledge any such transfer, storage or use. If we provide any information about you to any such non-EU third party information processors, we will take appropriate measures to ensure such companies protect your information adequately in accordance with this Privacy Policy and applicable law.
