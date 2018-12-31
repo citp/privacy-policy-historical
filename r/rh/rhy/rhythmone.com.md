@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhythmone.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629112800id_/https%3A//www.rhythmone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhythmone.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231180241id_/https%3A//www.rhythmone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RhythmOne
 
@@ -10,7 +10,7 @@ For the Privacy Policy relating to YuMe Product and Services - [click here.](htt
 
 **RhythmOne Privacy Policy**
 
-**LAST UPDATED May 23, 2018**
+**LAST UPDATED November 16, 2018**
 
 Unless otherwise indicated below, this privacy policy applies to any RhythmOne website, any RhythmOne service as well as any personal information RhythmOne may collect across partnered and unaffiliated sites.
 
@@ -40,7 +40,7 @@ If you have questions about or need further information concerning the legal bas
 
 **Opting Out of Cookies**
 
-Opting Out of Cookies RhythmOne is a member of the Digital Advertising Alliance (DAA), a cooperative of companies committed to building responsible advertising policies across the Internet, and adheres to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising. RhythmOne is also a member of the Network Advertising Imitative (NAI) and we adhere to NAI’s 2013 Code of Conduct. To learn more about interest-based or online behavioral advertising, and other advertising companies’ privacy policies and opt-out, please visit the DAA Website - <http://www.aboutads.info/>. You can opt-out of receiving RhythmOne cookies. Persistent Cookies can be removed by following your Internet browser help file directions. If you choose to disable Cookies, some areas of the website may not work properly. If you opt out, your web browser will be associated with a generic "opt-out" cookie, which will prevent us from associating any non-personally identifiable information with your browser. Our "opt-out" cookie has a five-year expiration date. Keep in mind that participating in our opt-out program does not prevent you from seeing ads served by us, instead, the ads we serve to you will be generic and not be targeted to you based on your web surfing experiences. If you would like to opt out, please visit our Opt-Out page - <http://www.rhythmone.com/opt-out>. Alternatively, you may also choose not to use our website, you may also Opt-Out through the NAI’s Consumer Opt-Out Page - <http://www.networkadvertising.org/choices/>. These Opt-Outs are cookie-based, so you may need to opt out again (and set a new "opt-out" cookie) if you delete your cookies, lock cookies (including third party cookies), switch internet browsers, change computers or upgrade your web browser.
+Opting Out of Cookies RhythmOne is a member of the Digital Advertising Alliance (DAA), a cooperative of companies committed to building responsible advertising policies across the Internet, and adheres to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising. RhythmOne is also a member of the Network Advertising Imitative (NAI) and we adhere to NAI’s Code of Conduct. To learn more about interest-based or online behavioral advertising, and other advertising companies’ privacy policies and opt-out, please visit the DAA Website - <http://www.aboutads.info/>. You can opt-out of receiving RhythmOne cookies. Persistent Cookies can be removed by following your Internet browser help file directions. If you choose to disable Cookies, some areas of the website may not work properly. If you opt out, your web browser will be associated with a generic "opt-out" cookie, which will prevent us from associating any non-personally identifiable information with your browser. Our "opt-out" cookie has a five-year expiration date. Keep in mind that participating in our opt-out program does not prevent you from seeing ads served by us, instead, the ads we serve to you will be generic and not be targeted to you based on your web surfing experiences. If you would like to opt out, please visit our Opt-Out page - <http://www.rhythmone.com/opt-out>. Alternatively, you may also choose not to use our website, you may also Opt-Out through the NAI’s Consumer Opt-Out Page - <http://www.networkadvertising.org/choices/>. These Opt-Outs are cookie-based, so you may need to opt out again (and set a new "opt-out" cookie) if you delete your cookies, lock cookies (including third party cookies), switch internet browsers, change computers or upgrade your web browser.
 
 **Sensitive Health Information**
 
@@ -55,6 +55,8 @@ The Platform for Privacy Preferences (P3P) provides a way for ad networks and we
 RhythmOne uses cookies to improve your web browsing experience. A cookie is a small text file that is stored on your computer for the purpose of identifying your web browser. We use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on tour computer until you delete them) to provide you with a more personal and interactive experience with the website. When you are served a RhythmOne ad, RhythmOne assigns various information in a cookie on ads you've seen, information on sites you've visited and activities performed to your computer browser. We do this to understand the way a user responds to the ads we deliver. For example, this information lets us keep track of how many times you view an ad we distribute. Likewise, the cookie can help make sure you do not see the same ad over and over - thus enhancing your online Web viewing experience.
 
 RhythmOne collects this information via our technology and it may be stored for up to 2 years for the purpose of analyzing campaign results, ensuring that our technology is functioning properly, and preventing fraud across our sites. We do not link the information we store in cookies to any personal information you submit while on our website or our member sites. You can set or amend your web browser controls to accept or refuse cookies. If you choose to reject cookies, you may still use our website / service though your access to some functionality and areas of our website / service may be restricted. As the means by which you can refuse cookies through your web browser controls vary from browser-to-browser, you should visit your browser's help menu for more information.
+
+**Non-Cookie Technologies.  ** In providing our services, we, our marketing partners, or our customers, may work with third-party companies that use techniques other than conventional HTTP cookies to recognize your computer or device and/or to collect and record information about your web surfing activity, including those integrated with our services. These technologies may not respond to browser settings that block conventional cookies, particular if you are using a Safari browser.  You may opt out of some of these technologies by visiting the NAI’s opt out page at [http://www.networkadvertising.org](http://www.networkadvertising.org/); however, if your browser is set to immediately delete or refuse opt-out cookies, or if you use a Safari browser, you may not receive the benefit of this opt-out, or your opt out cookies may be immediately deleted.
 
 **Disclosure**
 
@@ -112,9 +114,9 @@ Our Standard Contractual Clauses can be provided on request. We have implemented
 
 **Retention**
 
-We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements). When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+We use Browser-Based Data and Mobile App-Based Data for Targeted Advertising for no more than 13 months. We maintain ad server log data and stored data for a period of up to 18 months in order to comply with audits, court order or law enforcement inquiries. After 18 months, all of the stored data is destroyed. Summarized data is kept indefinitely.
 
 **Your data protection rights**
 
@@ -141,7 +143,7 @@ The data controller of your personal information is RhythmOne, LLC.
 
 **RadiumOne Privacy Policy**
 
-**Last updated:** May 24, 2018
+**Last updated:** October 25, 2018
 
 RadiumOne is a digital advertising company and a wholly-owned subsidiary of RhythmOne plc. We value the privacy of consumers (“ **Users** ”, “ **you** ”, “ **your** ”) who visit our websites at [https://po.st](https://po.st/), or [http://radiumone.co.uk](http://radiumone.co.uk/) (the “ **Sites** ”) as well as other websites and mobile applications where our technology is enabled (together, the “ **Platform** ”). In this Privacy Notice we use the terms “ **RadiumOne** ”, “ **our** ”, “ **us** ”, and “ **we** ” to refer to R1Demand, LLC; RadiumOne UK Ltd.; and our affiliates.
 
@@ -223,7 +225,7 @@ You can opt out from receiving RadiumOne Targeted Advertising based on data coll
 
 ·       Visiting our Opt Out page by clicking [here](https://radiumone.com/opt/). Please note that if you disable all cookies via your browser settings (see below), change the browser on the device from which you opted out of RadiumOne Targeted Advertising, or use a different device, you will need to opt out again from receiving cookies.
 
-·       Visiting opt outs of standards bodies. RadiumOne is a member of the Network Advertising Initiative (“ **NAI** ”), the Digital Advertising Alliance (“ **DAA** ”), the Digital Advertising Alliance of Canada (“ **DAAC** ”), the European Interactive Digital Advertising Alliance (“ **EDAA** ”), the Internet Advertising Bureau (“ **IAB** ”), and JICWEBS DTSG and adheres to each organization’s principles (the NAI Codes of Conduct, the DAA Self-Regulatory Program for Online Behavioral Advertising, the Canadian Self-Regulatory Principles for Online Behavioural Advertising, the EDAA Principles, IAB Europe’s Self-Regulatory Principles for Online Behavioral Advertising, and the JICWEBS DTSG Good Practice Principles, respectively). You can opt-out of RadiumOne Targeted Advertising based on data collected via your browser by using (a) the NAI’s opt-out tool, which can be found [here](http://www.networkadvertising.org/choices/); (b) the DAA’s opt-out tool, which can be found [here](http://www.aboutads.info/choices/); (c) the DAAC’s opt-out tool, which can be found [here](http://youradchoices.ca/choices/); or (d) the EDAA’s opt-out tool, which can be found [here](http://youronlinechoices.eu/).
+·       Visiting opt outs of standards bodies. RadiumOne is a member of the Digital Advertising Alliance (“ **DAA** ”), the Digital Advertising Alliance of Canada (“ **DAAC** ”), the European Interactive Digital Advertising Alliance (“ **EDAA** ”), the Internet Advertising Bureau (“ **IAB** ”), and JICWEBS DTSG and adheres to each organization’s principles (the NAI Codes of Conduct, the DAA Self-Regulatory Program for Online Behavioral Advertising, the Canadian Self-Regulatory Principles for Online Behavioural Advertising, the EDAA Principles, IAB Europe’s Self-Regulatory Principles for Online Behavioral Advertising, and the JICWEBS DTSG Good Practice Principles, respectively). You can opt-out of RadiumOne Targeted Advertising based on data collected via your browser by using (a) the NAI’s opt-out tool, which can be found [here](http://www.networkadvertising.org/choices/); (b) the DAA’s opt-out tool, which can be found [here](http://www.aboutads.info/choices/); (c) the DAAC’s opt-out tool, which can be found [here](http://youradchoices.ca/choices/); or (d) the EDAA’s opt-out tool, which can be found [here](http://youronlinechoices.eu/).
 
 When you opt out, we will stop (a) collecting information about your interests via your browser and (b) serving you Targeted Ads based on the data collected via your browser.
 
@@ -258,7 +260,7 @@ RadiumOne uses Browser-Based Data and Mobile App-Based Data for Targeted Adverti
 
 **International Transfers**
 
-Where it is transferred internationally, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Policy. These include implementing the European Commission’s Standard Contractual Clauses for transfers of personal information between our group companies, which require all group companies to protect personal information they process from the EEA in accordance with European Union data protection law and self-certifying to the EU-US Privacy Shield as explained below.
+Where it is transferred internationally, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Policy.
 
 Our Standard Contractual Clauses can be provided on request. We have implemented similar appropriate safeguards with our third party service providers and partners and further details can be provided upon request.
 
@@ -339,25 +341,7 @@ RadiumOne may disclose your personal information if: (i) required by law, lawful
 
 **Data Transfer**
 
-The Site is hosted in the United States of America. If you choose to use the Site from other regions of the world, then please note that if you provide to us personal information when using the Site, you are transferring your personal information outside of those regions to the United States. We may also transfer to the United States of America, Singapore and Australia information collected in connection with our advertising services. We will protect personal information in all such transfers as described in this Privacy Policy. If you are located in the European Union, we will take reasonable steps to comply with applicable legal requirements to ensure an adequate level of protection of personal information that we transfer to countries outside of the European Union such as entering into Standard Contractual Clauses or relying upon the EU-US Privacy Shield.
-
-**EU-U.S. Privacy Shield**
-
-When we process any personal information originating from the European Union (EU) in the USA, RadiumOne participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from EU member countries. RadiumOne has certified that for all personal information received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, it will adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfers, Security, Data Integrity & Purpose Limitation, Access, and Recourse, Enforcement and Liability.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
-
-RadiumOne is responsible for the processing of personal information it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf, such as a service provider. Under the Privacy Shield, RadiumOne will remain liable if its third-party service providers process your personal information in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage.
-
-With respect to personal information received or transferred pursuant to the Privacy Shield Framework, RadiumOne is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
-
-Residents of the EU who believe that their personal information has not been processed in compliance with the Privacy Shield Principles may raise their complaint in the following ways:
-
-1.     You can contact RadiumOne directly using the details in the “Contact Us” section below. We will respond to your complaint within 45 days of receipt.
-
-2.    We have further committed to refer unresolved privacy complaints under the Privacy Shield via TRUSTe, an alternative dispute resolution provider located in the United States. If you do not receive a timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please contact TRUSTe (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
-
-3.     Further, your complaint can be made or referred to the U.S. Department of Commerce or the Federal Trade Commission for further investigation.
-
-4.    For residual disputes that cannot be resolved by the methods above, you may be able to invoke a binding arbitration process under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration. To find out more about the Privacy Shield’s binding arbitration scheme, please see <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
+The Site is hosted in the United States of America. If you choose to use the Site from other regions of the world, then please note that if you provide to us personal information when using the Site, you are transferring your personal information outside of those regions to the United States. We may also transfer to the United States of America, Singapore and Australia information collected in connection with our advertising services. We will protect personal information in all such transfers as described in this Privacy Policy. If you are located in the European Union, we will take reasonable steps to comply with applicable legal requirements to ensure an adequate level of protection of personal information that we transfer to countries outside of the European Union such as entering into Standard Contractual Clauses.
 
 **Links to Other Websites**
 
@@ -379,18 +363,12 @@ If you believe that we hold inaccurate personal information about you, please em
 
 **Contact Us**
 
-If you want to write to us regarding your privacy rights or have any questions, comments or complaints about our Privacy Policy, please contact us via [privacy@radiumone.com](mailto:privacy@radiumone.com) or write to us to one of the following addresses:
+If you want to write to us regarding your privacy rights or have any questions, comments or complaints about our Privacy Policy, please contact us via [privacy@radiumone.com](mailto:privacy@radiumone.com) or write to us at the following address:
 
-**If you are based in the United States or a country outside Europe:**  
-R1Demand, LLC  
-601 Montgomery St.  
-16th Floor  
-San Francisco, CA 94111  
+RhythmOne  
+3600 136th Pl SE  
+Suite 400  
+Bellevue, WA 98006  
 USA
 
-**If you are based in Europe or Australia:**  
-RadiumOne UK Ltd.  
-20 Garrick Street  
-Covent Garden  
-London, WC2E 9BT  
-UK
+Use of ad blockers may result in some of the images on our site being blocked. This site does not serve ads. We recommend you disable ad blockers for an optimal site viewing experience.
