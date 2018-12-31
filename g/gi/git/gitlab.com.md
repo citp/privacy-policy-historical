@@ -1,31 +1,137 @@
-> *The following text is extracted and transformed from the gitlab.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331112107id_/https%3A//www.gitlab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gitlab.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231221724id_/https%3A//about.gitlab.com/privacy) for the most accurate reproduction.*
 
-# GitLab.com | Privacy Policy
+# GitLab Privacy Policy | GitLab
 
-### Website Visitors
+## Introduction
 
-Like most website operators, GitLab.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. GitLab.com’s purpose in collecting non-personally identifying information is to better understand how GitLab.com’s visitors use its website. From time to time, GitLab.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+This privacy policy (“Privacy Policy”) applies to all visitors and users of the GitLab.com hosted services and websites (collectively, the “Website” or “Websites”), which are offered by GitLab B.V. and/or any of its affiliates (“GitLab” or “we” or “us”). Self-managed GitLab instances are not included in the definition of Website. Please read this Privacy Policy carefully. By accessing or using any part of the Websites, you acknowledge you have been informed of and consent to our practices with regard to your personal information and data.
 
-GitLab.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses. GitLab.com does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+GitLab is an open source project and collaborative community, as well as a company. This means that many portions of our Websites, including information you voluntarily provide, will be public-facing for the open sharing of innovative developments, ideas, and information that makes our collaborative community so great. While we are committed to open sharing, we strive to respect the privacy of individual community members and will minimize the information we collect and share. If you do not want to share your information, including personally identifiable information, with other community members and the public, please be thoughtful as to how you interact with our Websites and what information you provide through the Websites (for example, through creating a public profile, project contributions, comments, and blog posts).
 
-### Gathering of Personally-Identifying Information
+## What Information GitLab Collects and Why
 
-Certain visitors to GitLab.com’s websites choose to interact with GitLab.com in ways that require GitLab.com to gather personally-identifying information. The amount and type of information that GitLab.com gathers depends on the nature of the interaction. For example, we ask visitors who use our forums to provide a username and email address. In each case, GitLab.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with GitLab.com. GitLab.com does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+### Information from Website Visitors
 
-### Aggregated Statistics
+Like most website operators, GitLab collects basic non-personally-identifying information from Website visitors of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. We collect this information to better understand how visitors use the Website, to improve our Websites and experience for visitors, and to monitor security of the Websites. From time to time, GitLab may publicly release non-personally-identifying information collected from Website visitors in the aggregate, e.g., by publishing a report on trends in the usage of the Website.
 
-GitLab.com may collect statistics about the behavior of visitors to its websites. For instance, GitLab.com may reveal how many downloads a particular version got. However, GitLab.com does not disclose personally-identifying information other than as described below.
+GitLab also collects potentially personally-identifying information like Internet Protocol (IP) addresses from visitors. GitLab does not use such information to identify or track individual visitors, however. We collect this information to understand how visitors use the Websites, to improve performance and content, and to monitor security of the Websites.
 
-### Protection of Certain Personally-Identifying Information
+GitLab may collect statistics about the behavior of visitors to our Websites. For instance, GitLab may reveal how many downloads a particular version got using aggregated statistics that contain anonymous user information only.
 
-GitLab.com discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on GitLab.com’s behalf or to provide services available at GitLab.com’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using GitLab.com’s websites, you consent to the transfer of such information to them. GitLab.com will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors, and affiliated organizations, as described above, GitLab.com discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when GitLab.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of GitLab.com, third parties, or the public at large. If you are a registered user of a GitLab.com website and have supplied your email address, GitLab.com may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with GitLab.com and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. GitLab.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
+### Usage Data Information from Self-managed GitLab Instances
+
+GitLab collects information about usage from each self-managed GitLab instance (Community Edition and Enterprise Edition) through a usage ping. The usage ping sends a payload containing data such as total number of projects and pipelines, as well as license information and hostname to GitLab. Only aggregates of usage data is sent: no project names or other content is sent to GitLab. You can view the exact payload of the usage ping in the administration panel in GitLab. Here you can also opt-out of the usage ping. You can read more about the usage ping in the documentation.
+
+### Personally-Identifying Information
+
+Users of the Websites may choose to interact with GitLab in ways that provide us with their personally-identifying information. The amount and type of information that GitLab gathers depends on the nature of your interaction with us, as well as the amount of information you choose to share. For example, we ask visitors who use our blog forums to provide a username and email address to identify them on the Website. We will also collect the information you provide with us in connection with creating an account on the Website. Profile information is shared publicly, as well as activity under your profile and the date your profile was created. If you report a security vulnerability to GitLab and request public acknowledgement, then we may publicly disclose the personal information you provided to us in connection with the report, including your name to fulfill your request for acknowledgement. In each case, GitLab collects such personally-identifiable information only insofar as is necessary or appropriate to fulfill the purpose of the user’s interaction with or request of GitLab. We will not disclose personally-identifying information other than as described in this Privacy Policy.
+
+Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent you from engaging in certain Website-related activities or being able to access and use certain features and services.
+
+### Information GitLab Does Not Collect
+
+GitLab does not intentionally collect sensitive personal information, such as social security numbers, genetic data, health information, or religious information. Although GitLab does not request or intentionally collect any sensitive personal information, we realize that users might store this kind of information in a Gitlab repository. If you store any sensitive personal information on GitLab’s servers, you are consenting to our storage of that information on our servers, which are located in the United States.
+
+If you're a child under the age of 13, you may not have an account on the Website. GitLab does not knowingly collect information from or direct any of our Website or content specifically to children under 13. If we learn or have reason to suspect that a user is under the age of 13, we will close the child’s account.
+
+### Basis for Processing Your Information
+
+Performance of a contract. The use of your information may be necessary to perform the contract that you have with us. For example, if you use our Websites to purchase GitLab product subscriptions or services, contribute to a project, create a profile, post and comment through our Websites, or request information through our Websites, we will use your information to carry out our obligation to complete and administer that contract or request.
+
+Legitimate interests. We use your information for our legitimate interests, such as to provide you with the best content through our Websites and communications with users and the public, to improve and promote our products and services, and for administrative, security, fraud prevention and legal purposes.
+
+Consent. We may rely on your consent to use your personal information for certain direct marketing purposes, such as sending you newsletter updates about GitLab products. You may withdraw your consent at any time through the unsubscribe feature provided with each marketing email or by contacting us at the addresses given at the end of this Privacy Policy.
+
+## How GitLab Uses and Protects Personally-Identifying Information
+
+### Sharing Your Information
+
+GitLab only discloses potentially personally-identifying and personally-identifying information to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on GitLab's behalf or to provide services available on the Website, and (ii) that have agreed not to disclose it to others.
+
+GitLab will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors, and affiliated organizations, as described above, GitLab discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when GitLab believes in good faith that disclosure is reasonably necessary to protect the property or rights of GitLab, third parties, or the public at large.
+
+GitLab takes measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
+
+### International Transfer of Information
+
+The Website is hosted in the United States and information we collect will be stored and processed on our servers in the United States. Our employees, contractors and affiliated organizations that process information for us as described above may be located in the United States or in other countries outside of your home country; by using the Website, you consent to the international transfer of your information by GitLab.
+
+### GitLab Communications with You
+
+If you are a registered user of the Websites and have supplied your email address, GitLab may occasionally send you an email to tell you about security, system information, new features, solicit your feedback, or just keep you up to date with what's going on with GitLab and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. There's an unsubscribe link located at the bottom of each of the marketing emails we send you so you can stop receiving such emails at any time.
+
+If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish your request in order to help us clarify or respond to your request or to help us support other users. We will not publish your personally-identifiable information in connection with your request.
+
+## Cookies, Tracking Technologies and Do Not Track
 
 ### Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. GitLab.com uses cookies to help GitLab.com identify and track visitors, their usage of GitLab.com website, and their website access preferences. GitLab.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using GitLab.com’s websites, with the drawback that certain features of GitLab.com’s websites may not function properly without the aid of cookies.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. GitLab uses cookies to help GitLab identify and track visitors, their usage of the Websites, and their Website access preferences. GitLab visitors who do not wish to have cookies placed on their computers may set their browsers to refuse cookies before using the Websites. Disabling browser cookies may cause certain features of GitLab's websites to not function properly.
 
-### Privacy Policy Changes
+Certain pages on the Website may set other third party cookies. For example, we may embed content, such as videos, from another site that sets a cookie. These sites set their own cookies and we do not have access or control over these cookies. The use of cookies by third parties is not covered by our Privacy Policy.
 
-Although most changes are likely to be minor, GitLab.com may change its Privacy Policy from time to time, and in GitLab.com’s sole discretion. GitLab.com encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+For more information on what cookies are used, visit our [Cookies Policy](https://web.archive.org/privacy/cookies/). 
 
-[](http://creativecommons.org/licenses/by-sa/3.0/) **Creative Commons Sharealike** license, parts taken from [WordPress.com](http://www.wordpress.com/) Privacy Policy
+### Tracking Technologies
+
+We use third party tracking services, but we don’t use these services to track you individually or collect your personally identifiable-information. We use these services to collect information about how the Website performs and how users navigate through and use the Website so we can monitor and improve our content and Website performance.
+
+Third party tracking services gather certain simple, non-personally identifying information over time, such as your IP address, browser type, internet service provider, referring and exit pages, timestamp, and similar data about your use of the Website. We do not link this information to any of your personal information such as your user name.
+
+### Do Not Track
+
+"Do Not Track" is a privacy preference you can set in your browser if you do not want online services to collect and share certain kinds of information about your online activity from third party tracking services. GitLab does not track your online browsing activity on other online services over time and we do not permit third-party services to track your activity on our site beyond our basic tracking, which you may opt out of. Because we do not share this kind of data with third party services or permit this kind of third party data collection for any of our users, and we do not track our users on third-party websites ourselves, we do not need to respond differently to an individual browser's Do Not Track setting.
+
+## Global Privacy Practices
+
+Information we collect will be stored and processed in the United States in accordance with this Privacy Policy but we understand that users from other countries may have different expectations and rights with regard to their privacy. For all Website visitors and users, no matter their country of location, we will:
+
+  * provide clear methods of unambiguous, informed consent when we do collect your personal information;
+  * only collect the minimum amount of personal data necessary for the purpose it is collected for, unless you choose to provide us more;
+  * offer you simple methods of accessing, correcting, or deleting your information that we have collected, with the exception of information you voluntarily provide that is necessary to retain as is for the integrity of our project code as described further below; and
+  * provide Website users notice, choice, accountability, security, and access, and we limit the purpose for processing. We also provide our users a method of recourse and enforcement.
+
+
+
+If you are located in the European Union, you are entitled to the following rights with regard to your personal information and data:
+
+  * Right of access to your personal data, to know what information about you we hold
+  * Right to correct any incorrect or incomplete personal data about yourself that we hold
+  * Right to restrict/suspend our processing of your personal data
+  * Right to complain to a supervisory authority if you believe your privacy rights are being violated
+
+
+
+Additional rights that may apply to you in certain instances:
+
+  * Right of data portability (if our processing is based on consent and automated means)
+  * Right to withdraw consent at any time (if processing is based on consent)
+  * Right to object to processing (if processing is based on legitimate interests)
+  * Right to object to processing of personal data for direct marketing purposes
+  * Right of erasure of your personal data from our system (“right to be forgotten”) if certain grounds are met
+
+
+
+To exercise your privacy rights, you can email us at the address given below in the ‘Contacting GitLab About Your Privacy’ section of this Privacy Policy.
+
+## Data Retention and Deletion
+
+If you already have an account on the Websites, you may access, update, alter, or delete your basic user profile information by logging into your account and updating profile settings.
+
+GitLab will retain your information for as long as your account is active or as needed to perform our contractual obligations, provide you services through the Website, to comply with legal obligations, resolve disputes, preserve legal rights, or enforce our agreements.
+
+We will delete inactive accounts after a period of twelve (12) months. We will also erase information once it is no longer necessary to fulfill the purposes for which it was collected and processed.
+
+Please note that due to the open source nature of our products, services, and community, we may retain limited personally-identifiable information indefinitely. For example, if you provide your information in connection with a blog post or comment, we may display that information even if you have deleted your account as we do not automatically delete community posts. Also, as described in our Terms of Use, if you contribute to a GitLab project and provide your personal information in connection with that contribution, that information (including your name) will be embedded and publicly displayed with your contribution and we will not be able to delete or erase it because doing so would break the project code.
+
+## Contacting GitLab About Your Privacy
+
+If you have questions or concerns about the way we are handling your information, or would like to exercise your privacy rights, please email us with the subject line "Privacy Concern" at [GitLab Legal](mailto:legal@gitlab.com). 
+
+We will respond within 30 days of receiving your message at the latest but please note for promptest response, we recommend emailing us.
+
+## Privacy Policy Changes
+
+Although most changes are likely to be minor, GitLab may change its privacy policy from time to time, and in GitLab's sole discretion. We will provide notification to users who have provided us email addresses of material changes to this Privacy Policy through our Website prior to the change taking effect by posting a notice on our home page or sending email to the email address specified in your account. GitLab encourages visitors to frequently check this page for any minor changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+[Privacy policy change history](https://gitlab.com/gitlab-com/www-gitlab-com/commits/master/source/privacy/index.html.haml)
