@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhermes.co.uk privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529095002id_/https%3A//www.myhermes.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhermes.co.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231201436id_/https%3A//www.myhermes.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # myHermes - Privacy policy
 
@@ -14,7 +14,7 @@ For all our services, the data controller — the company that’s responsible f
 
 We have appointed a data protection officer (DPO), Hugo Martin, who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the DPO via [data.protection@hermes-europe.co.uk](mailto:data.protection@hermes-europe.co.uk) or by using the company’s address above.
 
-You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ( [www.ico.org.uk](https://web.archive.org/web/20180529095002id_/https%3A//www.myhermes.co.uk/www.ico.org.uk)). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
+You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ( [www.ico.org.uk](https://web.archive.org/web/20181231201436id_/https%3A//www.myhermes.co.uk/www.ico.org.uk)). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
