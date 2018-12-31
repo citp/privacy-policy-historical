@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomsitpro.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630215756id_/http%3A//purch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomsitpro.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231180238id_/http%3A//purch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Purch
 
