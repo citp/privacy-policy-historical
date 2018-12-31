@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friv.rest privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609060116id_/http%3A//friv.rest/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friv.rest privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231054833id_/http%3A//friv.rest/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Friv Games - Juegos Friv , Jogos Friv , Jeux de Friv
 
