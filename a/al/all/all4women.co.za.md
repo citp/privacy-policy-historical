@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all4women.co.za privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625165221id_/https%3A//www.all4women.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all4women.co.za privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231170339id_/https%3A//www.all4women.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All 4 Women
 
@@ -106,7 +106,7 @@ To be in accordance with CANSPAM we agree to the following:
 
 
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) – OR follow the instructions at the bottom of each emailed newsletter – and we will promptly remove you from **ALL** correspondence.
+If at any time you would like to unsubscribe from receiving future emails, you can email us at admin@all4women.co.za – OR follow the instructions at the bottom of each emailed newsletter – and we will promptly remove you from **ALL** correspondence.
 
 ### Contacting Us
 
@@ -117,4 +117,4 @@ Durban
 KZN  
 4001  
 South Africa  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+admin@all4women.co.za
