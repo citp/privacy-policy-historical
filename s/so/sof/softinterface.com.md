@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softinterface.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620052103id_/http%3A//www.softinterface.com/SII_PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softinterface.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231133411id_/http%3A//www.softinterface.com/SII_PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Softinterface Privacy Policy Explained in detail.
 
@@ -31,7 +31,7 @@ NOTE:  This site does not collect financial information such as credit card numb
 #### Your Access to and Control Over Information   
 
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us at via the email address or phone number provided on our [website](https://web.archive.org/web/20180620052103id_/http%3A//www.softinterface.com/SII_AboutUs.htm):
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us at via the email address or phone number provided on our [website](https://web.archive.org/web/20181231133411id_/http%3A//www.softinterface.com/SII_AboutUs.htm):
 
   * See what data we have about you, if any
   * Change/correct any data we have about you
