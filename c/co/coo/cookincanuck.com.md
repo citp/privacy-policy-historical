@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookincanuck.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625180720id_/https%3A//www.cookincanuck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookincanuck.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231171915id_/https%3A//www.cookincanuck.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cookin Canuck
 
@@ -66,7 +66,7 @@ We collect several different types of information for various purposes to provid
 
 ### Types of Data Collected
 
-**Personal Data**
+ **Personal Data**
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
@@ -78,11 +78,11 @@ While using our Service, we may ask you to provide us with certain personally id
 
 We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us.
 
-**Usage Data**
+ **Usage Data**
 
 We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-**Tracking & Cookies Data**
+ **Tracking & Cookies Data**
 
 We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
@@ -179,12 +179,12 @@ If you wish to be informed what Personal Data we hold about you and if you want 
 
 In certain circumstances, you have the following data protection rights:
 
-  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
-  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
-  * **The right to object.** You have the right to object to our processing of your Personal Data.
-  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
-  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
-  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where Cookin’ Canuck relied on your consent to process your personal information.
+  *  **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you.
+  *  **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete.
+  *  **The right to object.** You have the right to object to our processing of your Personal Data.
+  *  **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
+  *  **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+  *  **The right to withdraw consent.** You also have the right to withdraw your consent at any time where Cookin’ Canuck relied on your consent to process your personal information.
 
 
 
@@ -202,7 +202,7 @@ These third parties have access to your Personal Data only to perform these task
 
 We may use third-party Service Providers to monitor and analyze the use of our Service.
 
-  * **Google Analytics**
+  *  **Google Analytics**
 
 
 
@@ -216,7 +216,7 @@ For more information on the privacy practices of Google, please visit the Google
 
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
 
-  * **Google AdSense & DoubleClick Cookie**
+  *  **Google AdSense & DoubleClick Cookie**
 
 
 
