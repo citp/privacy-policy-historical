@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggingspell.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625180312id_/https%3A//bloggingwizard.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingspell.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231171456id_/https%3A//bloggingwizard.com/privacy-and-cookies) for the most accurate reproduction.*
 
-# Website Privacy Policy - Blogging Wizard
+# Website Privacy Policy | Blogging Wizard
 
   1. **INTRODUCTION**
 
