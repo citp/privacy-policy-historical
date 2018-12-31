@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dupont.com privacy policy that was archived on 2018-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180614182624id_/http%3A//www.dupont.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dupont.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231204024id_/http%3A//www.dupont.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js no-touch rgba borderradius boxshadow csscolumns cssgradients wf-inactive" style=""><head>
 
@@ -60,12 +60,12 @@
 
 
 <link rel="stylesheet" href="/etc/designs/dupont/phoenix/s7sdk/2.9.min.css" type="text/css">
-<link rel="stylesheet" href="/etc/designs/dupont/phoenix/responsiveclientlib.min.4.5.0.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/dupont/phoenix/responsiveclientlib.min.4.12.0.css" type="text/css">
 <link rel="stylesheet" href="/etc/designs/dupont/phoenix/responsiveclientlib2.min.css" type="text/css">
 
 
 
-<link rel="stylesheet" href="/etc/designs/dupont/phoenix/print.4.5.0.css" type="text/css" media="print">
+<link rel="stylesheet" href="/etc/designs/dupont/phoenix/print.4.12.0.css" type="text/css" media="print">
 
 
 
@@ -133,42 +133,68 @@ digitalData.page = {};
     digitalData.user={};
     digitalData.tool={};
     digitalData.user.profile={};
+    digitalData.video={};
           if('en_US'!="null")
     {
         digitalData.page.pageLanguage="English";
         digitalData.page.pageLocation="United States";
     }
-  
+     if(location.href !="null")
+     {
+         digitalData.page.locationURL = location.href;
+     }
    digitalData.page.aemPageurl="/content/en_us/home/global-links/utility-links/privacy";
    digitalData.page.pageName = "dp:global-links:utility-links:privacy";
-    if('null' != "null" && 'null' != "")
     digitalData.page.pageClassification="null";
-    if('null' != "null" && 'null' != "")
-    digitalData.page.pageContent="null:Privacy";
+    if('null' != "NA"){
+        digitalData.page.pageContent="null:Privacy";}
+    else{
+        digitalData.page.pageContent="NA";}
       digitalData.category={};
-         if('' != "")
-         digitalData.category.businessUnit="";
-         if('' != "")
-        digitalData.category.subBusinessunit="";
-          if('' != "")
-        digitalData.category.industry="";
-          if('' != "")
-        digitalData.category.subIndustry="";
-          if('' != "")
-        digitalData.category.brand="";
-        if('' != "")
-        digitalData.category.subBrand="";
-        	if('' != "")
-        	 digitalData.product.categoryPage="";
-         if('' != "")
-         digitalData.product.categorygroupPage="";
-         if('' != "")
-            digitalData.product.productName="";
+        if('' != ""){
+        digitalData.category.businessUnit="";}
+    else{
+        digitalData.category.businessUnit="NA";}
+    if('' != ""){
+      digitalData.category.subBusinessunit="";}
+    else{
+      digitalData.category.subBusinessunit="NA";
+    }
+    if('' != ""){
+        digitalData.category.industry="";}
+    else{
+        digitalData.category.industry="NA";}
+    if('' != ""){
+        digitalData.category.subIndustry="";}
+    else{
+        digitalData.category.subIndustry="NA";}
+    if('' != ""){
+        digitalData.category.brand="";}
+    else{
+        digitalData.category.brand="NA";}
+    if('' != ""){
+        digitalData.category.subBrand="";}
+    else{
+        digitalData.category.subBrand="NA";}
+    if('' != ""){
+        digitalData.product.categoryPage="";}
+    else{
+        digitalData.product.categoryPage="NA";}
+    if('' != ""){
+        digitalData.product.categorygroupPage="";}
+    else{
+        digitalData.product.categorygroupPage="NA";}
+    if('' != ""){
+        digitalData.product.productName="";}
+    else{
+        digitalData.product.productName="NA";}
+
 </script>
 
 
-<script type="text/javascript">console.log("All Switch");</script>
-<script src="//assets.adobedtm.com/fd51374b36be48f9c2897a26af3e246a9b2bd29e/satelliteLib-639a302fc7aa5a5c00cbff0d99a624ea81224af4.js"></script>
+
+<script type="text/javascript">console.log("LIVE");</script>   
+<script src="//assets.adobedtm.com/fd51374b36be48f9c2897a26af3e246a9b2bd29e/satelliteLib-5fc53e4175296e50b244adfdcdef175de0c7ffc8.js"></script>
 
    
 
@@ -225,6 +251,7 @@ $(document).ready(function(){if(!$(".nav-carousel").text().trim()){$(".nav-carou
 	</script>
 
 </head>
+
 
 
 
@@ -528,8 +555,7 @@ $(document).ready(function(){if(!$(".nav-carousel").text().trim()){$(".nav-carou
                                                                     <p>DuPont offers high quality, productivity and sustainable solutions for the printing and package printing industry.</p></li>
                                                                 <li>
                                                                     <h4><a href="/products-and-services/solar-photovoltaic-materials.html">&gt; <span>Solar / Photovoltaic Materials</span></a></h4>
-                                                                    <p>For over 40 years our innovations in PV materials have led the photovoltaics industry forward.
-</p></li>
+                                                                    </li>
                                                                 <!-- Last item closes the list and draws image-->
                                                                     </ul>
                                                                     <span src="//eidupont.scene7.com/is/image/eidupont/global-nav-advanced-materials-492x582" alt="Solar Array at Sunset" data-preset-d="glb_nav_ind" title="Solar Array at Sunset"></span></div>
@@ -694,6 +720,13 @@ $(document).ready(function(){if(!$(".nav-carousel").text().trim()){$(".nav-carou
                                                         </li>
                                                         <li>
                                                           <h4>
+                                                              <a href="/industries/water.html">&gt; <span>Water Solutions</span></a>
+                                                          </h4>
+                                                          <div class="description">
+                                                              <span src="//eidupont.scene7.com/is/image/eidupont/markets-6-energy-water" alt="markets-6-energy-water" data-preset-d="glb_nav_ind" title="markets-6-energy-water"></span><h4>Water Solutions</h4></div>
+                                                        </li>
+                                                        <li>
+                                                          <h4>
                                                               <a href="/industries/chemicals.html">&gt; <span>chemicals</span></a>
                                                           </h4>
                                                           <div class="description">
@@ -791,13 +824,6 @@ $(document).ready(function(){if(!$(".nav-carousel").text().trim()){$(".nav-carou
 </div>
 
 <script>
-
-function trackPagePod(URL)
-{
-     digitalData.page.pagepod=URL;
-     return true;
-}
-</script><script>
 
 function trackPagePod(URL)
 {
@@ -1341,19 +1367,21 @@ function trackPagePod(URL)
 		 		         
             </ul>
     	</div>              
-
+ 
  
 
 
     <script type="text/javascript">
     function trackFollow( val )
     {
-        _satellite.track("Social_button");
+
         digitalData.user.profile.socialButton = val;
+        _satellite.track("Social_button");
         return true ;
 
     }
 </script>
+
 
 </div>
 
@@ -1417,160 +1445,15 @@ $(".agnostic-footer-corporate-links li").click(function() {
 	
 	<script type="text/javascript" src="/etc/designs/dupont/phoenix/s7sdk/2.9.min.js"></script>
 <script type="text/javascript" src="/etc/designs/dupont/tools/s7viewers.min.js"></script>
-<script type="text/javascript" src="/etc/designs/dupont/phoenix/responsiveclientlib.min.4.5.0.js"></script>
+<script type="text/javascript" src="/etc/designs/dupont/phoenix/responsiveclientlib.min.4.12.0.js"></script>
 
-	<div class="cloudservices servicecomponents"><div class="cloudservice sitecatalyst"><script type="text/javascript" src="/etc/clientlibs/foundation/personalization/integrations/commons.min.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/sitecatalyst/tracking.min.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/sitecatalyst/sitecatalyst.min.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/sitecatalyst/util.min.js"></script>
-<script type="text/javascript" src="/content/en_us/_jcr_content/analytics.sitecatalyst.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/sitecatalyst/plugins.min.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/mac/mac-sc.min.js"></script>
-<script type="text/javascript" src="/content/en_us/_jcr_content/analytics.config.js"></script><span data-tracking="{event:'pageView', values:{}, componentPath:'foundation/components/page'}"></span><script type="text/javascript">
-CQ_Analytics.Sitecatalyst.frameworkComponents = ['dupont/phoenix/components/tools/wizardproductselector','dupont/phoenix/components/productinformation','dupont/phoenix/components/tools/productadvisor','dupont/phoenix/components/responsive/searchpromo/searchbox','dupont/phoenix/components/responsive/searchpromo/searchresults','dupont/phoenix/components/tools/value-proposition','dupont/phoenix/components/viewall','dupont/phoenix/components/tools/energy-hub','dupont/phoenix/components/responsive/productinformation','foundation/components/page','foundation/components/form/start','foundation/components/form/formanalytics','dupont/phoenix/components/responsive/techlibrary'];
-/**
- * Sets SiteCatalyst variables accordingly to mapped components. If <code>options</code>
- * object is provided only variables matching the options.componentPath are set.
- *
- * @param {Object} options Parameter object from CQ_Analytics.record() call. Optional.
- */
-CQ_Analytics.Sitecatalyst.updateEvars = function(options) {
-    this.frameworkMappings = [];
-    this.frameworkMappings.push({scVar:"eVar12",cqVar:"eventdata.assetName",resourceType:"dupont/phoenix/components/productinformation"});
-    this.frameworkMappings.push({scVar:"eVar20",cqVar:"eventdata.assetName",resourceType:"dupont/phoenix/components/productinformation"});
-    this.frameworkMappings.push({scVar:"event12",cqVar:"eventdata.events.assetSelected",resourceType:"dupont/phoenix/components/productinformation"});
-    this.frameworkMappings.push({scVar:"eVar56",cqVar:"eventdata.events.ProductAdvisorToolResultClick",resourceType:"dupont/phoenix/components/tools/productadvisor"});
-    this.frameworkMappings.push({scVar:"eVar26",cqVar:"eventdata.slideruse",resourceType:"dupont/phoenix/components/tools/productadvisor"});
-    this.frameworkMappings.push({scVar:"eVar25",cqVar:"eventdata.clickresult",resourceType:"dupont/phoenix/components/tools/productadvisor"});
-    this.frameworkMappings.push({scVar:"event8",cqVar:"eventdata.events.ShareClick",resourceType:"dupont/phoenix/components/tools/productadvisor"});
-    this.frameworkMappings.push({scVar:"event38",cqVar:"eventdata.events.FirstTimeInteraction",resourceType:"dupont/phoenix/components/tools/productadvisor"});
-    this.frameworkMappings.push({scVar:"eVar39",cqVar:"eventdata.firsttime",resourceType:"dupont/phoenix/components/tools/productadvisor"});
-    this.frameworkMappings.push({scVar:"eVar33",cqVar:"eventdata.spResults",resourceType:"dupont/phoenix/components/responsive/searchpromo/searchbox"});
-    this.frameworkMappings.push({scVar:"prop16",cqVar:"eventdata.spKeyword",resourceType:"dupont/phoenix/components/responsive/searchpromo/searchbox"});
-    this.frameworkMappings.push({scVar:"prop27",cqVar:"eventdata.spResults",resourceType:"dupont/phoenix/components/responsive/searchpromo/searchbox"});
-    this.frameworkMappings.push({scVar:"eVar16",cqVar:"eventdata.spKeyword",resourceType:"dupont/phoenix/components/responsive/searchpromo/searchbox"});
-    this.frameworkMappings.push({scVar:"event19",cqVar:"eventdata.events.spSearch",resourceType:"dupont/phoenix/components/responsive/searchpromo/searchbox"});
-    this.frameworkMappings.push({scVar:"event45",cqVar:"eventdata.events.spNoresults",resourceType:"dupont/phoenix/components/responsive/searchpromo/searchbox"});
-    this.frameworkMappings.push({scVar:"prop28",cqVar:"eventdata.spPosition",resourceType:"dupont/phoenix/components/responsive/searchpromo/searchresults"});
-    this.frameworkMappings.push({scVar:"eVar32",cqVar:"eventdata.spProductName",resourceType:"dupont/phoenix/components/responsive/searchpromo/searchresults"});
-    this.frameworkMappings.push({scVar:"eVar59",cqVar:"eventdata.spPosition",resourceType:"dupont/phoenix/components/responsive/searchpromo/searchresults"});
-    this.frameworkMappings.push({scVar:"event18",cqVar:"eventdata.events.spResultclicked",resourceType:"dupont/phoenix/components/responsive/searchpromo/searchresults"});
-    this.frameworkMappings.push({scVar:"eVar56",cqVar:"eventdata.facetTemplateContentType",resourceType:"dupont/phoenix/components/viewall"});
-    this.frameworkMappings.push({scVar:"event61",cqVar:"eventdata.events.contenItemClicked",resourceType:"dupont/phoenix/components/viewall"});
-    this.frameworkMappings.push({scVar:"eVar55",cqVar:"eventdata.contTypeTemplateContentype",resourceType:"dupont/phoenix/components/viewall"});
-    this.frameworkMappings.push({scVar:"eVar54",cqVar:"eventdata.contentTypeFacetName",resourceType:"dupont/phoenix/components/viewall"});
-    this.frameworkMappings.push({scVar:"eVar53",cqVar:"eventdata.selectedFacetName",resourceType:"dupont/phoenix/components/viewall"});
-    this.frameworkMappings.push({scVar:"eVar57",cqVar:"eventdata.contentItemTemplateContentType",resourceType:"dupont/phoenix/components/viewall"});
-    this.frameworkMappings.push({scVar:"event46",cqVar:"eventdata.events.contentTypeFacetSelected",resourceType:"dupont/phoenix/components/viewall"});
-    this.frameworkMappings.push({scVar:"event48",cqVar:"eventdata.events.facetRemoved",resourceType:"dupont/phoenix/components/viewall"});
-    this.frameworkMappings.push({scVar:"event44",cqVar:"eventdata.events.taxonomyFacetSelected",resourceType:"dupont/phoenix/components/viewall"});
-    this.frameworkMappings.push({scVar:"eVar63",cqVar:"eventdata.contentItemURL",resourceType:"dupont/phoenix/components/viewall"});
-    this.frameworkMappings.push({scVar:"eVar62",cqVar:"eventdata.selectedFacets",resourceType:"dupont/phoenix/components/viewall"});
-    this.frameworkMappings.push({scVar:"eVar61",cqVar:"eventdata.templateContentType",resourceType:"dupont/phoenix/components/viewall"});
-    this.frameworkMappings.push({scVar:"eVar60",cqVar:"eventdata.removedFacetName",resourceType:"dupont/phoenix/components/viewall"});
-    this.frameworkMappings.push({scVar:"event50",cqVar:"eventdata.events.energyHubPanelClickPlay",resourceType:"dupont/phoenix/components/tools/energy-hub"});
-    this.frameworkMappings.push({scVar:"eVar49",cqVar:"eventdata.selectedpanel",resourceType:"dupont/phoenix/components/tools/energy-hub"});
-    this.frameworkMappings.push({scVar:"event48",cqVar:"eventdata.events.genericToolLink",resourceType:"dupont/phoenix/components/tools/energy-hub"});
-    this.frameworkMappings.push({scVar:"eVar12",cqVar:"eventdata.assetName",resourceType:"dupont/phoenix/components/responsive/productinformation"});
-    this.frameworkMappings.push({scVar:"eVar20",cqVar:"eventdata.assetName",resourceType:"dupont/phoenix/components/responsive/productinformation"});
-    this.frameworkMappings.push({scVar:"event12",cqVar:"eventdata.events.assetSelected",resourceType:"dupont/phoenix/components/responsive/productinformation"});
-    this.frameworkMappings.push({scVar:"eVar67",cqVar:"pagedata.pageNameAnalytics255",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar69",cqVar:"pagedata.countryCode",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar68",cqVar:"pagedata.languageCode",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"pageName",cqVar:"pagedata.pageNameAnalytics100",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop32",cqVar:"pagedata.title",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar30",cqVar:"pagedata.subBrand",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar31",cqVar:"pagedata.title",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar36",cqVar:"pagedata.subIndustry",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar35",cqVar:"pagedata.pageNameAnalytics255",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar9",cqVar:"pagedata.language",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar8",cqVar:"pagedata.industry",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar6",cqVar:"pagedata.country",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar5",cqVar:"pagedata.contentTypeAndTitle",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar4",cqVar:"pagedata.contentType",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar3",cqVar:"pagedata.businessUnit",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar2",cqVar:"pagedata.brand",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop11",cqVar:"pagedata.megatrends",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop10",cqVar:"pagedata.loginStatus",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop13",cqVar:"pagedata.productCategory",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar50",cqVar:"pagedata.subBusinessUnit",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop15",cqVar:"pagedata.product",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop14",cqVar:"pagedata.productCategoryGroup",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar11",cqVar:"pagedata.megatrends",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar15",cqVar:"pagedata.product",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop70",cqVar:"D=User-Agent",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar14",cqVar:"pagedata.productCategoryGroup",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar13",cqVar:"pagedata.productCategory",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"hier1",cqVar:"pagedata.pageNameAnalytics",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop9",cqVar:"pagedata.language",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar18",cqVar:"pagedata.titleOfForm",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop8",cqVar:"pagedata.industry",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop6",cqVar:"pagedata.country",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop5",cqVar:"pagedata.contentTypeAndTitle",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop4",cqVar:"pagedata.contentType",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop3",cqVar:"pagedata.businessUnit",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop2",cqVar:"pagedata.brand",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop20",cqVar:"pagedata.subIndustry",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop22",cqVar:"pagedata.subBrand",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop21",cqVar:"pagedata.subBusinessUnit",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop68",cqVar:"pagedata.languageCode",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop67",cqVar:"pagedata.pageNameAnalytics100",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"prop69",cqVar:"pagedata.countryCode",resourceType:"foundation/components/page"});
-    this.frameworkMappings.push({scVar:"eVar18",cqVar:"eventdata.formName",resourceType:"foundation/components/form/start"});
-    this.frameworkMappings.push({scVar:"event6",cqVar:"eventdata.events.formPageView",resourceType:"foundation/components/form/start"});
-    this.frameworkMappings.push({scVar:"eVar18",cqVar:"eventdata.formName",resourceType:"foundation/components/form/formanalytics"});
-    this.frameworkMappings.push({scVar:"event7",cqVar:"eventdata.events.formRecord",resourceType:"foundation/components/form/formanalytics"});
-    this.frameworkMappings.push({scVar:"event61",cqVar:"eventdata.events.contenItemClicked",resourceType:"dupont/phoenix/components/responsive/techlibrary"});
-    this.frameworkMappings.push({scVar:"eVar53",cqVar:"eventdata.selectedFacetName",resourceType:"dupont/phoenix/components/responsive/techlibrary"});
-    this.frameworkMappings.push({scVar:"event46",cqVar:"eventdata.events.contentTypeFacetSelected",resourceType:"dupont/phoenix/components/responsive/techlibrary"});
-    this.frameworkMappings.push({scVar:"event48",cqVar:"eventdata.events.facetRemoved",resourceType:"dupont/phoenix/components/responsive/techlibrary"});
-    this.frameworkMappings.push({scVar:"eVar63",cqVar:"eventdata.contentItemURL",resourceType:"dupont/phoenix/components/responsive/techlibrary"});
-    this.frameworkMappings.push({scVar:"eVar62",cqVar:"eventdata.selectedFacets",resourceType:"dupont/phoenix/components/responsive/techlibrary"});
-    this.frameworkMappings.push({scVar:"event44",cqVar:"eventdata.events.taxonomyFacetSelected",resourceType:"dupont/phoenix/components/responsive/techlibrary"});
-    this.frameworkMappings.push({scVar:"eVar61",cqVar:"eventdata.contentType",resourceType:"dupont/phoenix/components/responsive/techlibrary"});
-    this.frameworkMappings.push({scVar:"eVar60",cqVar:"eventdata.removedFacetName",resourceType:"dupont/phoenix/components/responsive/techlibrary"});
-    for (var i=0; i<this.frameworkMappings.length; i++){
-        var m = this.frameworkMappings[i];
-        if (!options || options.compatibility || (options.componentPath == m.resourceType)) {
-            CQ_Analytics.Sitecatalyst.setEvar(m);
-        }
-    }
-}
-
-
-                
-
-  CQ_Analytics.CCM.addListener("storesinitialize", function(e) {
-	var collect = true;
-    var lte = s.linkTrackEvents;
-    s.pageName="content:en_us:home:global-links:utility-links:privacy";
-    CQ_Analytics.Sitecatalyst.collect(collect);
-    if (collect) {
-		CQ_Analytics.Sitecatalyst.updateEvars();
-        // Adding a page view custom metric: 
-        s.events = ((s.events?s.events+",":"")+"event90");
-	    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-	    var s_code=s.t();if(s_code)document.write(s_code);
-	    s.linkTrackEvents = lte;
-	    if(s.linkTrackVars.indexOf('events')==-1){delete s.events};
-	    $CQ(document).trigger("sitecatalystAfterCollect");
-    }
-        }); 
-
-
-
-
-</script>
-<noscript><img src="http://dupont.d2.sc.omtrdc.net/b/ss/dupontphoenixglobal/1/H.26.2--NS/1528998282412?cdp=2&amp;gn=dp%3Aglobal-links%3Autility-links%3Aprivacy" height="1" width="1" border="0" alt=""/></noscript><!--/DO NOT REMOVE/-->
-<span data-tracking="{event:'pageView', values:{}, componentPath:'foundation/components/page'}"></span>
-</div>
-
+	<div class="cloudservices servicecomponents">
 </div>
 
 
 
 
-	<script type="text/javascript" src="/etc/designs/dupont/phoenix/sitecatalystlibs.min.4.5.0.js"></script>
+	<script type="text/javascript" src="/etc/designs/dupont/phoenix/sitecatalystlibs.min.4.12.0.js"></script>
 
 
 
