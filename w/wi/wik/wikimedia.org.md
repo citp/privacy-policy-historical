@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wikimedia.org privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630160401id_/https%3A//wikimediafoundation.org/wiki/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikimedia.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231013440id_/https%3A//foundation.wikimedia.org/wiki/Privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy - Wikimedia Foundation
+# Privacy policy - Wikimedia Foundation Governance Wiki
 
 This policy is approved by the Wikimedia Foundation [Board of Trustees](https://web.archive.org/wiki/Board_of_Trustees "Board of Trustees") to apply to all [Wikimedia projects](https://web.archive.org/wiki/Our_projects "Our projects").  
 It may not be circumvented, eroded, or ignored by local policies. 
@@ -163,8 +163,6 @@ For the sake of clarity, this Privacy Policy covers, regardless of language:
   
   
 This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, some uses may be covered by separate privacy policies (like those of the [Wikimedia Shop](https://shop.wikimedia.org/)) or sites or services run by third parties (such as third-party developer projects on [Wikimedia Cloud Services](https://labs.wikimedia.org/)). To understand more about what this Privacy Policy does not cover, please see below. 
-
-</noinclude>
 
 More on what this Privacy Policy doesn’t cover  
   
