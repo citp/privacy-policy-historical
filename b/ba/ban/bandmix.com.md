@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandmix.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625020510id_/https%3A//www.bandmix.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandmix.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231011915id_/https%3A//www.bandmix.com/support/privacy) for the most accurate reproduction.*
 
 # BandMix.com privacy policy
 
