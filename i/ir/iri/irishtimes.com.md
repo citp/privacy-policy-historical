@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the irishtimes.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629131318id_/https%3A//www.irishtimes.com/policy-and-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishtimes.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231025036id_/https%3A//www.irishtimes.com/policy-and-terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Irish Times
 
-#### This privacy policy is effective as and from May 25th, 2018
+#### This privacy policy is effective as and from Dec 03rd, 2018
 
-Your privacy is important to The Irish Times and maintaining your trust is paramount to us. We are fully committed to keeping your personal information safe. This privacy policy is intended to provide you with information about the personal information we collect and how that information is used and shared. We collect personal information about you when you access this website or other websites controlled by us or by a company within our group (including but not limited to irishtimes.com, newsdelivery.ie, rewardingtimes.ie, myhome.ie, irishracing.com, top1000.ie and myantiques.ie) or when you use any of our products, applications or services (collectively our “Services”).
+Your privacy is important to The Irish Times and maintaining your trust is paramount to us. We are fully committed to keeping your personal information safe. This privacy policy is intended to provide you with information about the personal information we collect and how that information is used and shared.  We collect personal information about you when you access this website or other websites controlled by us or by a company within our group (including but not limited to irishtimes.com, newsdelivery.ie, rewardingtimes.ie, myhome.ie, irishracing.com, top1000.ie, myantiques.ie, Landmark Media Limited, The Irish Examiner. irishexaminer.com the Evening Echo, eveningecho.ie. breakingnews.ie, recruitIreland.ie, benchwarmers.ie, the Laois Nationalist, Kildare Nationalist, Carlow Nationalist, Western People; Waterford News and Star, the Roscommon Herald, and radio stations Beat 102-103 and WLR FM) or when you use any of our products, applications or services (collectively our “Services”).
 
 This document outlines our approach to compliance with the General Data Protection Regulation (GDPR) and all other relevant data-protection legislation. It also sets forth your privacy rights. Please take a moment to familiarise yourself with our privacy practices.
 
@@ -12,7 +12,7 @@ It is important that you read this privacy policy together with any other privac
 
 We value your opinions. Should you have any questions or comments related to this privacy policy, please contact us at [dataprotection@irishtimes.com](mailto:dataprotection@irishtimes.com).
 
-We may update this privacy policy from time to time. If we make changes, we will notify you prior to the changes taking effect by posting a notice on our websites and, where appropriate, sending you a notification.
+We may update this privacy policy from time to time. If we make any material changes, we will notify you prior to the changes taking effect by posting a notice on our websites and, where appropriate, sending you a notification.
 
 Throughout this privacy policy, “we” “us” and “ours” refers to The Irish Times DAC and The Irish Times Group. The Irish Times DAC is a registered company with an address at of 24-28 Tara Street, Dublin 2, Ireland. We are the company that controls your data known as the “ data controller” under data protection law. The Irish Times Group means all fully consolidated subsidiaries under the management control of The Irish Times DAC. We can be contacted by email at [services@irishtimes.com](mailto:services@irishtimes.com) or by phone at +353-1-675 8000.
 
@@ -26,15 +26,14 @@ We have appointed an internal data protection officer (DPO) for you to contact i
 
 To become a subscriber to _The Irish Times_ or to purchase or subscribe to one of our other Services, you will need to create an account with us.
 
+Read More 
+
 We will use your personal information to carry out our obligations arising from any contract you as our customer have entered into with us, including sending important notices such as communications relating to payment, delivery services, changes to our terms, conditions, and policies and to notify you about changes to our service. We may notify you by phone, post, email, SMS text or through other digital media depending on the content of the notification and your preferred contact mechanism.
 
 We will also use your personal information to provide you **welcome emails** to help you get the most out of your subscription, **subscriber-only content** (e.g. specially selected articles and subscriber-only newsletters) and **subscriber rewards** which may include competitions, events and offers that are available exclusively to our subscribers.   
 
-If you cancel your subscription with us, we may use your personal information for direct marketing (provided you have not objected to us using your details in this way). We will generally send you direct marketing by email.  We will use your information for a reasonable period of time after your relationship with us has ended. Specifically, we will send you a short series of emails to remind you of the benefits of a subscription with us.  You have the right to unsubscribe to receipt of these emails at any time. We rely on the lawful processing ground of our legitimate interests which are:
+If you cancel your subscription with us, we may use your personal information for direct marketing. **We will only do so with your consent**.  We will generally send you direct marketing by email.  We will use your information for a reasonable period of time, not exceeding five months, after your relationship with us has ended. Specifically, we will send you a short series of emails to remind you of the benefits of a subscription with us.  You have the right to unsubscribe from receiving such communications from us by following the unsubscribe instructions included at the end of each email communication.  
 
-    * To keep you informed of the benefits of a subscription.
-    * To develop and maintain relationships with our customers
-    * To implement customer-retention and win-back strategies
   * ### To pay for the Services you have requested from us
 
 We will collect your payment information to pay for any Services you have requested from us. Credit and debit card information is processed directly by PCI-compliant payment providers who perform payment services on our behalf. Occasionally, our employees receive payment information from customers over the phone. When this occurs, the payment information is entered as instructed into the relevant payment system and all other copies are deleted or destroyed immediately. 
@@ -107,11 +106,12 @@ The Irish Times offers a number of email alert services.  With your consent, we
 
 We collect information relating to your use of our services to track how you gain access to or read our content.  We use log-in information, cookies and similar technologies, device information and internet protocol (“IP”) addresses to log your use of our services as follows:
 
+Read More 
+
     * When you sign up for or subscribe to one of our services, we will track and aggregate non-personal information previously collected about you through our services with the personal information provided when you register or subscribe. If we link other data with your personal information we will treat that linked data as personal information for as long as it remains combined. We use this information to evaluate your personal preferences and interests, which under the GDPR may constitute as customer profiling. We do so in pursuit of our legitimate interests which are: 
       * To research and improve The Irish Times’ products, services, and customer communications
       * To understand which content you find useful or interesting
       * To develop and maintain relationships with our customers and readers
-      * To implement customer-retention and win-back strategies
       * To deliver relevant content to our readers
       * To understand the demographics of our customers and readers
 
@@ -136,6 +136,8 @@ We use such technologies to determine whether you’ve opened an email communica
 
 Third-party vendors, including Google, display advertising on our Services. Some of the ads you see are targeted based on interests that have been inferred from the type of content you view when visiting our site. This type of behavioral advertising is targeted towards groups of users in an anonymous and aggregated manner as opposed to you as an individual. Such online advertising helps support the content, products and services we provide.
 
+Read More __
+
 We and third-party vendors use first-party cookies and third-party cookies together to inform, optimise and serve ads based on your browsing activities and interests. Any information we disclose to advertisers and advertising networks is non-personally identifiable.
 
 Advertising networks may use cookies and similar technologies track you in order to measure the effectiveness of the ads they serve, detect fraudulent traffic, or to create a browsing profile that is used to deliver more relevant ads. For more information on how to manage advertising cookies please visit our [cookie policy](https://www.irishtimes.com/policy-and-terms/cookie-policy).
@@ -144,7 +146,11 @@ Advertising networks may use cookies and similar technologies track you in order
 
   * ### To use our recruitment services
 
-We may invite you to submit your personal information by applying for a job or becoming a candidate on our “Executive Jobs” website. Your personal information is used by us to provide our recruitment services to you. Where you consent, we will provide information on job opportunities and match your profile with suitable job vacancies. If you apply for a job posting, or if you explicitly enable recruiters to see your profile and CV in your candidate account settings, the personal information you provide to us (including sensitive information) may be shared with third-party recruiters and clients. In this circumstance, these third parties may contact you for the purposes of processing your job application and use your personal information to assess your suitability as a candidate. By sending us your personal information or by making a job application on our site, you agree to our [recruitment terms and conditions](https://execjobs.irishtimes.com/terms-and-conditions/). You may delete your candidate profile entirely if you wish by logging into your account and selecting the delete account option.
+We may invite you to submit your personal information by applying for a job or becoming a candidate on our “Executive Jobs” website. Your personal information is used by us to provide our recruitment services to you. 
+
+Read More __
+
+Where you consent, we will provide information on job opportunities and match your profile with suitable job vacancies. If you apply for a job posting, or if you explicitly enable recruiters to see your profile and CV in your candidate account settings, the personal information you provide to us (including sensitive information) may be shared with third-party recruiters and clients. In this circumstance, these third parties may contact you for the purposes of processing your job application and use your personal information to assess your suitability as a candidate. By sending us your personal information or by making a job application on our site, you agree to our [recruitment terms and conditions](https://execjobs.irishtimes.com/terms-and-conditions/). You may delete your candidate profile entirely if you wish by logging into your account and selecting the delete account option.
 
   * ### To apply for a job with us
 
@@ -155,13 +161,21 @@ If you apply for a job within The Irish Times Group, you may provide us with cer
 
 ## To attend one of our events
 
-We host many events throughout the year. These include but are not limited to breakfast briefings, live content events, live lectures, podcast recordings, training, conferences and seminars. If you register for one of our events, we will collect personal information from you. We will use your information to register for the event, process your payment and provide you with information and services associated with the event. In some cases, we make audio or video recordings of these events and we may record information about you as a consequence. We will always inform you in advance if the event is being recorded so that you can choose not to participate if wish. Registration for our events is voluntary. Once you register, however, we process your personal information as per the terms and conditions of that specific event and on the lawful processing ground of contract.
+We host many events throughout the year. These include but are not limited to breakfast briefings, live content events, live lectures, podcast recordings, training, conferences and seminars.
+
+Read More __
+
+If you register for one of our events, we will collect personal information from you. We will use your information to register for the event, process your payment and provide you with information and services associated with the event. In some cases, we make audio or video recordings of these events and we may record information about you as a consequence. We will always inform you in advance if the event is being recorded so that you can choose not to participate if wish. Registration for our events is voluntary. Once you register, however, we process your personal information as per the terms and conditions of that specific event and on the lawful processing ground of contract.
 
 ## Other
 
   * ### To monitor our premises with CCTV camera surveillance
 
-Our premises at 24-28 Tara Street, Dublin 2, are monitored by CCTV security cameras. We may record personal information about you if visit our offices or walk in close proximity to our business premises. CCTV notices are on display outside our building to inform you of our practices and to give you advance notice of any recording. 
+Our premises at 24-28 Tara Street, Dublin 2, are monitored by CCTV security cameras. We may record personal information about you if visit our offices or walk in close proximity to our business premises.
+
+CCTV notices are on display outside our building to inform you of our practices and to give you advance notice of any recording. 
+
+Read More __
 
 We are processing CCTV video surveillance data generally without your consent in pursuit of our legitimate interests to protect the rights, property and safety of The Irish Times DAC and the rights, property and safety of our employees or others.
 
@@ -232,6 +246,8 @@ We may be required to process your personal information to comply with certain l
 
 We process your personal information for carefully considered and specific purposes which are in our legitimate interests and enable us to enhance the services we provide, but which we also believe benefit our customers. Our legitimate business interests do not automatically override your interests. You have the right, free of charge, to object to our use of your personal information for our legitimate interests. If you wish to do so contact us at [dataprotection@irishtimes.com](mailto:dataprotection@irishtimes.com). Please bear in mind that if you do object, this may affect our ability to carry out certain tasks for your benefit.
 
+Read More 
+
 Where you object to our use of your personal information for our legitimate interests, we may continue to process your personal data, despite your objection, where there are compelling legitimate grounds to do so. We will always ensure there is a fair balance between our legitimate interests and your fundamental right and freedoms.
 
 We process personal information for the following legitimate business purposes:
@@ -244,7 +260,6 @@ We process personal information for the following legitimate business purposes:
   * To research and improve The Irish Times’ products, services, and customer communications
   * To ensure content from our site and mobile applications is presented in the most effective manner for you and for your device
   * To develop and maintain relationships with our customers and readers
-  * To implement customer-retention and win-back strategies
   * To better understand and improve the usability, performance, and effectiveness of our Services
   * To protect you against fraud and to detect, prevent, investigate security or technical issues to ensure our Services are secure
   * To protect the rights, property and safety of The Irish Times DAC or the rights, property or safety of our employees or others
@@ -258,6 +273,10 @@ We process personal information for the following legitimate business purposes:
 
 We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries and use it in a manner that is consistent with this privacy policy. 
 
+### Bundle subscriptions
+
+We may share your personal information with any member of our group if the service you have requested is fulfilled by them. For example, where subscriptions are offered as part of a bundle, if the digital access is provided by a member of our group, we will share your personal information to fulfil the services you have requested. 
+
 ## With third parties
 
 We may share your personal information with third parties for a number of reasons as outlined below. We do not sell your personal information to anyone and only share it with third parties who are facilitating the delivery or fulfilment of our services and or are working on our behalf. We contractually require that our suppliers protect such information from unauthorised access, use, and disclosure.
@@ -269,6 +288,10 @@ We may share your personal information with third-party service providers which 
 ### Third-party service partners
 
 We provide certain services and run promotions in conjunction with third parties and we may share your personal information if the service you have requested is fulfilled by them.  These third parties have their own security and privacy policies. You are advised to review these separately.
+
+### Third-party data controllers
+
+We may share your personal information with third parties that may receive and process your personal information as a data controller in their own right. In the context of delivering an order or product to your address, we will share your shipping information with our delivery partners who will use it for the purposes of picking up, delivering and tracking your shipment. Our delivery partners may further use this information to plan delivery routes, to optimise and improve transportation operations and to enhance route and network planning tools such as maps, etc. As such, these third parties act as a data controller in their own right in respect of any shipping information that they hold. You can obtain more information about the delivery partners we use, how they process and treat your personal information and how to exercise your data rights by contacting us at [dataprotection@irishtimes.com](mailto:dataprotection@irishtimes.com)
 
 ### Third-party advertisers
 
