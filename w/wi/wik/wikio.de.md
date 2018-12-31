@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wikio.de privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629112913id_/https%3A//teads.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikio.de privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231230146id_/https%3A//teads.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Teads
-
-## About Teads Service
+# Teads Advertising Service Policy | Teads.tv
 
 Teads is an advertising marketplace that proposes innovative advertising solutions to Publishers and Advertisers all over Europe, USA, Latin America and Asia.
 
@@ -17,8 +15,6 @@ Teads advertising technology collects and uses data to help make online advertis
 Teads SA., together with its affiliates (“Teads”, “we”, “us”, or “our”) recognizes the importance of privacy and is committed to providing transparency and control over the use of the data in online advertising.
 
 This privacy policy details Teads data practices on how we collect, use, process and share the data we may collect through our advertising services as well as the ways in which individuals may exercise control over the use of information collected by us.
-
-## 1\. User identification
 
 Teads does not collect or process any information that allows identifying a particular individual directly.
 
@@ -38,7 +34,7 @@ For some environments – for example, Apple devices using Safari browser – Te
 
 ### Advertising ID
 
-Teads uses its SDK technology for mobile applications. For Google Android operating system, we use the [Google Advertising ID](https://support.google.com/googleplay/android-developer/answer/6048248) and for [Apple iOS the IDFA](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Chapters/SubmittingTheApp.html#//apple_ref/doc/uid/TP40011225-CH33-SW8).
+Teads uses its SDK technology for mobile applications. For Google Android operating system, we use the [Google Advertising ID](https://support.google.com/googleplay/android-developer/answer/6048248) and for [Apple iOS the IDFA](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Chapters/SubmittingTheApp.html#//apple_ref/doc/uid/TP40011225-CH33-SW8).
 
 ## 2\. Information we collect
 
@@ -47,28 +43,26 @@ We collect data through our web tags on publisher web pages, or through our Soft
 Collected data are :
 
   *  **Page URL**
-  *  **Browser Information** (eg: Browser name and version)
-  *  **Device Information** (eg: Device type, OS)
-  *  **Network carrier information** (eg: Wifi, 4G or Wired connection)
-  *  **Non-precise Location information** (eg: Country and City, derived from user IP)
-  *  **Mobile application information** (eg: Application name or IDFA)
-  *  **User Interactions with Teads Ad** (eg: clicks or video views)
+  *  **Browser Information**  (eg: Browser name and version)
+  *  **Device Information**  (eg: Device type, OS)
+  *  **Network carrier information**  (eg: Wifi, 4G or Wired connection)
+  *  **Non-precise Location information**  (eg: Country and City, derived from user IP)
+  *  **Mobile application information**  (eg: Application name or IDFA)
+  *  **User Interactions with Teads Ad**  (eg: clicks or video views)
   *  **IP address**
 
 
 
 To improve advertising relevance for users, Teads uses other data coming from trusted providers in order to infer general users interests (eg. socio-demographic, brand affinity).
 
-## 3\. Data use
-
 We use the information we collect to deliver our services:
 
-  *  **Targeting:** We use data to filter the ad delivery according to user interests, user location, device used or page content.
-  *  **User frequency Capping:** We use data to prevent displaying too many times the same ad to the same user.
-  *  **Analytics:** We use collected data for monitoring and reporting the campaign delivery for advertisers and publishers and for internal business analysis.
-  *  **Ad Delivery:** We transmit collected data to to programmatic buyers so that they can deliver their campaigns.
-  *  **Delivery Algorithm training:** We use collected data in order to improve our service and technology.
-  *  **Cross device experience:** To provide a consolidated experience through the different device or browser environments, we may link the Teads identifiers on the different browsers and environments the user is using.
+  *  **Targeting:**  We use data to filter the ad delivery according to user interests, user location, device used or page content.
+  *  **User frequency Capping:**  We use data to prevent displaying too many times the same ad to the same user.
+  *  **Analytics:**  We use collected data for monitoring and reporting the campaign delivery for advertisers and publishers and for internal business analysis.
+  *  **Ad Delivery:**  We transmit collected data to to programmatic buyers so that they can deliver their campaigns.
+  *  **Delivery Algorithm training:**  We use collected data in order to improve our service and technology.
+  *  **Cross device experience:**  To provide a consolidated experience through the different device or browser environments, we may link the Teads identifiers on the different browsers and environments the user is using.
 
 
 
@@ -76,14 +70,14 @@ We use the information we collect to deliver our services:
 
 In order to be able to deliver an ad and measure its performance, we need to share data with our different partners. These companies are authorized to use the information we provide only as necessary to provide these services.
 
-  *  **Viewability measurement.** We transmit data to companies specialized in campaign measurement such as MOAT or IAS in order to verify that our ads are viewable.
-  *  **Fraud detection.** We transmit data to companies such as DoubleVerify in order to prevent delivering our ads on fraudulent traffic, such as non-human traffic.
-  *  **Brand Safety.** We transmit data to companies such as Grapeshot in order to prevent displaying our Ads on content that can damage an advertiser’s Brand.
-  *  **Analytics and Audience measurement.** We transmit data to companies such as Nielsen, ComScore or Mediametrie in order to measure the demographics of our audience.
+  *  **Viewability measurement.**  We transmit data to companies specialized in campaign measurement such as MOAT or IAS in order to verify that our ads are viewable.
+  *  **Fraud detection.**  We transmit data to companies such as DoubleVerify in order to prevent delivering our ads on fraudulent traffic, such as non-human traffic.
+  *  **Brand Safety.**  We transmit data to companies such as Grapeshot in order to prevent displaying our Ads on content that can damage an advertiser’s Brand.
+  *  **Analytics and Audience measurement.**  We transmit data to companies such as Nielsen, ComScore or Mediametrie in order to measure the demographics of our audience.
 
 
 
-We do also send data to **Programmatic Buyers** using Demand Side Platforms such as Google DoubleClick Bid Manager, who buy our ad placements through programmatic auctions.
+We do also send data to  **Programmatic Buyers**  using Demand Side Platforms such as Google DoubleClick Bid Manager, who buy our ad placements through programmatic auctions.
 
 ## 5\. Data retention and storage
 
@@ -121,8 +115,6 @@ Please note that this is a device setting which will disable personalized ads fr
 
 If your device’s advertising identifier is reset, you will need to renew your opt-out choice for that device.
 
-## 7\. Miscellaneous
-
 ### Legal notification
 
 Teads may be required to disclose data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
@@ -133,13 +125,17 @@ We may also disclose your information as required by law, such as to comply with
 
 Please note that we may update or change this privacy policy. If we revise our privacy policy, we will post those changes to this privacy statement, and to other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any we disclose it. If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective.
 
-### Contact Us
+Contact Us
 
 Upon request, Teads will provide you with information about whether we hold any of your personal information. You may access or request deletion of your personal information by contacting us as described below. We will respond to your request within a reasonable timeframe.
 
 For any questions about this Privacy Policy or our data practices, you can contact Teads:
 
-– By email: dpo@teads.tv.  
-– By mail: Legal Department (DPO) -Teads – 97 rue du Cherche midi – 75006 Paris – France
+  * By email: dpo@teads.tv.
+  * By mail: Legal Department (DPO) -Teads – 97 rue du Cherche midi – 75006 Paris – France
+
+
 
 Last updated: May 8th 2018
+
+This website uses cookies to improve your browsing experience and may also use third party cookies which collect information about visitors online activities. To review the cookie used and adjust your cookie setting please click on Read More. By continuing to use our website or click on the OK button below, you agree to the use of cookies according to our [Website Privacy Policy](https://web.archive.org/teads-website-privacy-policy/)Ok[Read more](https://www.teads.tv/teads-website-privacy-policy/)
