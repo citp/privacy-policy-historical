@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igate.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625191405id_/https%3A//www.capgemini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igate.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231181801id_/https%3A//www.capgemini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Capgemini Worldwide
 
@@ -70,7 +70,7 @@ In any case, you have the right to access your personal data.
 
 You can also request that your personal data be rectified or deleted. You are entitled as well to object to the processing of your personal data or to request restriction thereof. In addition, you have the right to ask for receiving your personal data in a structured and standard format.
 
-In case of any such request or complaint, please send an email to [dpocapgemini.global@capgemini.com](mailto:dpocapgemini.global@capgemini.com). You can also contact our Data Protection Officer by sending an email to the following address:  [emmanuelle.bartoli@capgemini.com](mailto:emmanuelle.bartoli@capgemini.com).
+In case of any such request or complaint, please send an email to [dpocapgemini.global@capgemini.com](mailto:dpocapgemini.global@capgemini.com). You can also contact our Data Protection Officer by sending an email to the following address:  [dpocapgemini.global@capgemini.com](mailto:dpocapgemini.global@capgemini.com).
 
 In any case, you also have the right to lodge a complaint with the competent data protection authority.
 
