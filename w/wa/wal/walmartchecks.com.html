@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the walmartchecks.com privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625055852id_/http%3A//corporate.walmart.com/privacy-security/walmart-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the walmartchecks.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231052206id_/http%3A//corporate.walmart.com/privacy-security/walmart-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" wf-loading"><!--<![endif]--><head prefix="og: http://ogp.me/ns#">
 
@@ -79,11 +79,11 @@
 
 <link href="https://fonts.googleapis.com/css?family=Amatic+SC:700" rel="stylesheet" type="text/css">
 
-    <link rel="stylesheet" type="text/css" href="https://cdn.corporate.walmart.com/resource/assets-bsp3/less/wmt2018-headerfooter.min.0f626dd22c85936e2ec32ae944ae5fbd.css">
-                    <link rel="stylesheet" type="text/css" href="https://cdn.corporate.walmart.com/resource/assets-bsp3/less/corp.min.926e194eacae0e06381de4ea79a694d1.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.corporate.walmart.com/resource/assets-bsp3/less/wmt2018-headerfooter.min.98c01a09f5aebeb26fbe0b1c689e7c0f.css">
+                    <link rel="stylesheet" type="text/css" href="https://cdn.corporate.walmart.com/resource/assets-bsp3/less/corp.min.c4f54106f4d2856419f0132dbd14b7dd.css">
                 <!-- JAVASCRIPT / REQUIRE JS -->
     <script src="https://cdn.corporate.walmart.com/resource/assets-bsp3/js.min/require.aac3c6350808cbd0da3a596473e6ca14.js"></script>
-            <script src="https://cdn.corporate.walmart.com/resource/assets-bsp3/js.min/corp.3fc76aaf74f0e7c475c1e67db57d3acf.js"></script>
+            <script src="https://cdn.corporate.walmart.com/resource/assets-bsp3/js.min/corp.d3fbab94de83b35571e6bfa952223720.js"></script>
                 <script type="text/javascript">
         var config = {
         kitId: 'qrp0dgf',
@@ -199,6 +199,9 @@
         else if(window.location.href  == 'https://giving.walmart.com/') {
            window.location.href = 'https://giving.walmart.com/foundation';
         }
+       else if(window.location.href  == 'https://corporate.walmart.com/20l8grr') {
+           window.location.href = 'https://corporate.walmart.com/2018grr';
+        }
         else if(window.location.href  == 'https://giving.walmart.com/opportunity') {
            window.location.href = 'https://giving.walmart.com/walmart-foundation/opportunity';
         }else if(window.location.href  == 'https://giving.walmart.com/sustainability') {
@@ -210,6 +213,29 @@
 </script>
 
 <style> 
+
+.article-header-event .article-lead-media-block-inner .btn-future {
+    display: inline-block !important;
+}
+
+@media (max-height: 768px) and (min-width: 768px) {
+    
+   .PodcastV2Intro-body,
+   .PodcastV2Episode-description {
+        display: block !important;
+    }
+   .PodcastV2Intro .PodcastV2Intro-media img {
+        max-height: 140px;
+    }
+}
+
+.PodcastV2Episode {
+    margin-top: -100px;
+}
+
+.PodcastV2Episode-media iframe {
+    height: 150px;
+}
 
 .Podcast .wmt-lead.lead-full-img.bsp-lead-img-item {
     padding-top: 0;
@@ -727,27 +753,17 @@ display:none;
 }
 
 
-/* WMT-409 */
-
-.press-release__content__regular__centerwell ul {
-    list-style-type: disc;
-    list-style-position: inside;
+.article-body .article-content ul:not([class])>li:before,
+.faq-article article ul:not([class])>li:before,
+article.faq-tabbed-article ul:not([class])>li:before,
+.package-article-body .article-content ul:not([class])>li:before,
+.package-article-content ul:not([class])>li:before,
+.special-page-content .special-page-content-body .article-content ul:not([class])>li:before,
+.grr-article-body .article-content ul:not([class])>li:before,
+.grr-article-content ul:not([class])>li:before,
+.article-aside .article-related ul:not([class])>li:before {
+   padding-right: 0; 
 }
-.press-release__content__regular__centerwell ol {
-    list-style-type: decimal;
-}
-
-.press-release__content__regular__centerwell ol li, 
-.press-release__content__regular__centerwell ul li {
-    list-style-type: inherit;
-}
-
-
-.press-release__content__regular__centerwell ol li {
-  padding-left: 5px;
-}
-/* ends WMT-409 */
-
 
 
 .press-release__content__regular__centerwell .gallery { width: auto; }
@@ -757,7 +773,23 @@ display:none;
 .press-release__content__regular__centerwell .gallery .gallery-toolbar-control-next i {
     line-height: inherit;
 }
+
+/* Aug 16 2018 - max width on table in press release */
+/*.press-release__content__regular__centerwell li {max-width: 500px}*/
+
+
+
+/* JS: Jul 26 - Map CSS & JS changes to hide the map */
+.map-container .map-module { display: none;} 
+.map-container .map-controls {display:none;}
+/* JS: Jul 26 - End - Map changes */
+
+/* JS: Aug 16 - hide all event Buttons - */
+.article-lead-media-block-inner a.btn {display: none}
+
+
 </style>
+
 
 <!-- z New Corporate Head --><!--  End of Custom Head End Analytics -->
 
@@ -824,6 +856,14 @@ display:none;
 
 </script>
 
+<script>
+ //13th August 2018
+if(window.location.href.indexOf("https://corporate.walmart.com/our-story/our-locations") > -1) {
+	setInterval(function(){ 
+            if($(".map-content-stats-title") != undefined && $(".map-content-stats-title").html() === "Brazil at a glance") { $(".map-content-stats").hide(); }
+ 	}, 250);
+}
+</script>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -872,11 +912,11 @@ display:none;
                                                     <button type="button" data-role="none" data-subnav="#00000163-966b-d248-adf3-967b1b8b0000" class="wmt2018-header__nav__sublist__trigger"><img class="on" src="/assets-bsp3/images/wmt2018/icon-plus.svg"><img class="off" src="/assets-bsp3/images/wmt2018/icon-minus.svg"></button>
                                                         <ul class="wmt2018-header__nav__sublist" id="00000163-966b-d248-adf3-967b1b8b0000">
                                                             <li class="wmt2018-header__nav__sublist__item"><a href="https://corporate.walmart.com/our-story/our-business" target="" title="Our Business" data-cms-ai="0">Our Business</a></li>
-                                                            <li class="wmt2018-header__nav__sublist__item"><a href="https://corporate.walmart.com/our-story/our-locations" target="" title="Our Locations" data-cms-ai="0">Our Locations</a></li>
+                                                            <li class="wmt2018-header__nav__sublist__item"><a href="https://corporate.walmart.com/our-story/our-locations" target="" title="Locations Facts" data-cms-ai="0">Locations Facts</a></li>
                                                             <li class="wmt2018-header__nav__sublist__item"><a href="https://corporate.walmart.com/our-story/leadership" target="" title="Leadership" data-cms-ai="0">Leadership</a></li>
                                                             <li class="wmt2018-header__nav__sublist__item"><a href="https://corporate.walmart.com/our-story/our-history" target="" title="Our History" data-cms-ai="0">Our History</a></li>
                                                             <li class="wmt2018-header__nav__sublist__item"><a href="https://corporate.walmart.com/our-story/working-at-walmart" target="" title="Working at Walmart" data-cms-ai="0">Working at Walmart</a></li>
-                                                            <li class="wmt2018-header__nav__sublist__item"><a href="http://corporate.walmart.com/our-story/ethics-integrity" target="" title="Ethics &amp; Integrity" data-cms-ai="0">Ethics &amp; Integrity</a></li>
+                                                            <li class="wmt2018-header__nav__sublist__item"><a href="https://corporate.walmart.com/our-story/global-ethics-compliance" target="" title="Global Ethics &amp; Compliance" data-cms-ai="0">Global Ethics &amp; Compliance</a></li>
                                                             </ul>
                                                 </li>
 
@@ -885,7 +925,7 @@ display:none;
 
                                                     <button type="button" data-role="none" data-subnav="#00000163-966f-d248-adf3-967fb6520000" class="wmt2018-header__nav__sublist__trigger"><img class="on" src="/assets-bsp3/images/wmt2018/icon-plus.svg"><img class="off" src="/assets-bsp3/images/wmt2018/icon-minus.svg"></button>
                                                         <ul class="wmt2018-header__nav__sublist" id="00000163-966f-d248-adf3-967fb6520000">
-                                                            <li class="wmt2018-header__nav__sublist__item"><a href="https://corporate.walmart.com/newsroom/company-news" target="" title="Company News" data-cms-ai="0">Company News</a></li>
+                                                            <li class="wmt2018-header__nav__sublist__item"><a href="https://corporate.walmart.com/newsroom/company-news" target="" title="Company News Archive" data-cms-ai="0">Company News Archive</a></li>
                                                             <li class="wmt2018-header__nav__sublist__item"><a href="https://corporate.walmart.com/newsroom/media-library" target="" title="Media Library" data-cms-ai="0">Media Library</a></li>
                                                             <li class="wmt2018-header__nav__sublist__item"><a href="https://corporate.walmart.com/newsroom/events" target="" title="Events &amp; Webcasts" data-cms-ai="0">Events &amp; Webcasts</a></li>
                                                             <li class="wmt2018-header__nav__sublist__item"><a href="https://corporate.walmart.com/newsroom/company-facts" target="" title="Walmart Facts" data-cms-ai="0">Walmart Facts</a></li>
@@ -1101,7 +1141,10 @@ background: url(https://cdn.corporate.walmart.com/ab/2e/1665c45f462a849acf664cd3
 background-size: 1em 1em;*/}.cms-rte_colors-rte_orange{	color: #f47321;}.cms-rte_colors-rte_blue{	color: #1a75cf;	}.cms-rte_colors-rte_green{	color: #76c043;	}.cms-rte_colors-grr_red{	color: #ee0000;}.cms-rte_colors-grr_white{	color: #ffffff;}.cms-rte_colors-grr_yellow{	color: #ffc220;	}.cms-rte_jump-blue-btn{display:inline-block; text-decoration:none !important; background:steelblue; padding:10px 20px; border-radius:4px; color:white !important;  margin:0 0 10px 0 !important; font-size: 15px !important;}.cms-rte_jump-disclaimer{font-size: 12px; line-height:14px; color:gray; margin:20px 0 30px;}.cms-rte_jump-hr{border: 0; height: 1px; width: 90%; background: #666666; margin: 20px 0;}.cms-rte_grr2018-cms-super{color: #fff;
 font-family: BogleWeb-Bold;
 font-size: 20px;
-line-height: 22px;}</style><p><b>Does the updated Privacy Policy apply to me?</b><br>If you register for your Walmart.com account or make a purchase from Walmart.com on or after 11pm PST November 28, 2017, you will, upon registration or at the time of purchase, agree to our new Privacy Policy below.</p><p>If you registered for your Walmart.com account or made a purchase from walmart.com before November 28, 2017, our <a href="https://corporate.walmart.com/article/walmart-privacy-policy" data-cms-ai="0">previous Privacy Policy</a> will apply to you until you make a new purchase from Walmart.com.</p><p>If you have not registered for a Walmart.com account and only shop with us in store, this policy will apply to any transactions in store on or after 11pm PST November 28, 2017.</p><p>Learn more about what changed.</p><input type="checkbox" name="more-privacy-policy-update" id="more-privacy-policy-update" class="faq-tabbed-article-more-cb">
+line-height: 22px;}.cms-rte_grr2018-grr-large-font{font-size: 30px;
+line-height: inherit;}.cms-rte_grr2018-cms-grr-section-heading{color: inherit;
+font-size: 30px;
+line-height: 1.2;}</style><p><b>Does the updated Privacy Policy apply to me?</b><br>If you register for your Walmart.com account or make a purchase from Walmart.com on or after 11pm PST November 28, 2017, you will, upon registration or at the time of purchase, agree to our new Privacy Policy below.</p><p>If you registered for your Walmart.com account or made a purchase from walmart.com before November 28, 2017, our <a href="https://corporate.walmart.com/article/walmart-privacy-policy" data-cms-ai="0">previous Privacy Policy</a> will apply to you until you make a new purchase from Walmart.com.</p><p>If you have not registered for a Walmart.com account and only shop with us in store, this policy will apply to any transactions in store on or after 11pm PST November 28, 2017.</p><p>Learn more about what changed.</p><input type="checkbox" name="more-privacy-policy-update" id="more-privacy-policy-update" class="faq-tabbed-article-more-cb">
                                     <label for="more-privacy-policy-update" class="faq-tabbed-article-more-label"><i class="ico ico-plus-circle"></i> More</label>
                                     <div class="faq-tabbed-article-more-content">
                                         <p><br><b>What changed in the Privacy Policy? </b><br>Updates to our Privacy Policy include:</p><ul><li>We updated our terms related to sharing of information between Walmart and our co-branded partners</li></ul><p><b>Who do I contact for more information?</b><br>If you have any questions, please see the "Who Can I Contact at Walmart About the Privacy Policy?" section of our Privacy Policy.</p></div>
@@ -1255,9 +1298,9 @@ line-height: 22px;}</style><p><b>Does the updated Privacy Policy apply to me?</b
         <form action="#" class="newsletter-banner__form" data-bsp-corpsubscribe="" method="post" id="footer-subscribe">
             <input type="hidden" id="type" name="type" value="CORPORATE">
             <input type="hidden" id="site" name="site" value="0000014f-b7c4-d55e-a3ff-ffd6e2520000">
-            <input type="hidden" id="section" name="section" value="search">
-            <input type="hidden" id="subSection" name="subSection" value="n/a">
-            <input type="hidden" id="tags" name="tags" value="n/a">
+            <input type="hidden" id="section" name="section" value="our-story">
+            <input type="hidden" id="subSection" name="subSection" value="our-history">
+            <input type="hidden" id="tags" name="tags" value="">
 
             <input class="newsletter-banner__form-input" type="text" name="email" placeholder="Enter email address" data-invalid-email-error="Invalid email address" data-internal-server-error="Internal server error">
             <button class="newsletter-banner__form-btn" type="submit">Sign Up</button>
@@ -1410,6 +1453,13 @@ line-height: 22px;}</style><p><b>Does the updated Privacy Policy apply to me?</b
 <!--  Start of Custom Body End Analytics -->
 <script type="text/javascript">
 
+/* JS: Jul 26 - Map CSS & JS changes to hide the map */
+$('.map-controls-country label[for="country"]').empty().text("Select a location from the list :");
+$('.map-controls-state label[for="state"]').empty().text("Choose a state from the list :");
+$('.map-controls').fadeIn();
+
+/* JS: Jul 26 - End - Map changes */
+
 $('.episode-link').on('click', function(e){ 
                     var div = $(this).attr('href');
                     $('html, body').animate({
@@ -1450,6 +1500,8 @@ require(['/assets-bsp3/js/config.js'], function() {
     require(['jquery'], function($) {
        $(document).ready(function() {
 
+     
+   
           // fixes WAL-2955 and WAL-2954
           if($('.package-grid').length){
 	     var el = $('.package-grid'),
@@ -1602,6 +1654,19 @@ if($('.map-controls-country label[for="country"]').length) {
    $('.map-controls-country label[for="country"]').text(text);
 }
 
+//fixes modal on GRR
+$('#grrModal').on('show.bs.modal', function () {
+  $('html, body').removeClass('modal-open')
+});
+
+$('#grrModal').on('hide.bs.modal', function () {
+  $('html, body').removeClass('modal-open')
+});
+
+/* Aug 16 - hide watch live event button */
+if ($('h1.article-header-title').text() !== "FY2019 Q2 Earnings Release") {
+    $('.article-lead-media-block-inner a.btn').show();
+}
 
        });
       });
