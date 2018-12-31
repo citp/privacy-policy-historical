@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ere.net privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626005401id_/https%3A//www.eremedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ere.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231234445id_/https%3A//www.eremedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ERE Media
 
@@ -10,7 +10,7 @@ Last updated: May 16, 2018
 
 At ERE Media, Inc. we take your privacy rights, and your expectation of privacy, very seriously.  Our Privacy Policy has changed significantly, and we strongly encourage you to read the policy and to let us know if you have any questions
 
-This Privacy Policy describes ERE Media’s policies and procedures regarding the collection, use and disclosure of information which you provide when you use ERE Media’s [_eretraining.com_](http://www.eretraining.com/) _,_[ _ere.net_](http://www.ere.net/) _,_[ _sourcecon.com_](http://www.sourcecon.com/) _._[ _tlnt.com_](http://www.tlnt.com/) _,_[ _eremedia.com_](http://www.eremedia.com/), and ERE Media conference-related web sites (the “Web Sites”), when you use the related services and features offered on the Web Sites, and when you subscribe to, register for ERE Media’s conferences and webinars (the Web Sites, the related services and features, including ERE Media’s mobile and digital applications, the conferences and webinars, and any other products and/or services offered by ERE Media are collectively referred to as the “ERE Media Products”).
+This Privacy Policy describes ERE Media’s policies and procedures regarding the collection, use and disclosure of information which you provide when you use ERE Media’s [_eretraining.com_](http://www.eretraining.com/) _,_[ _ere.net_](https://www.ere.net/) _,_[ _sourcecon.com_](https://www.sourcecon.com/) _._[ _tlnt.com_](https://www.tlnt.com/) _,_[ _eremedia.com_](https://www.eremedia.com/), and ERE Media conference-related web sites (the “Web Sites”), when you use the related services and features offered on the Web Sites, and when you subscribe to, register for ERE Media’s conferences and webinars (the Web Sites, the related services and features, including ERE Media’s mobile and digital applications, the conferences and webinars, and any other products and/or services offered by ERE Media are collectively referred to as the “ERE Media Products”).
 
 ERE Media will not use or share your information obtained through your use of the ERE Media Products for any purpose or with anyone except as described in this Privacy Policy.  However, please note that this Privacy Policy does not apply to information we collect by other means or from other sources.
 
