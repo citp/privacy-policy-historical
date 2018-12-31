@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the legalporn.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623161859id_/https%3A//account.legalporno.com/docs/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalporn.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231012257id_/https%3A//account.legalporno.com/docs/privacy-statement) for the most accurate reproduction.*
 
 # 
 
 Last Updated: May 25, 2018 
 
-We, **GTFLIX TV, s.r.o.** , a company registered and existing under the laws of the Czech Republic, having its registered seat at Krakovska 1366/25, 110 00 Prague 1, Czech Republic, the provider of the website gtfcharge.com/ , www.legalporno.com/ , pornbox.com (hereinafter referred to as the “ **Website** ”). The provider of the Website is the responsible data controller in the sense of Article 4 (7) of European Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (hereinafter referred to as the „ **GDPR** “). 
+We, **GTFLIX TV, s.r.o.** , a company registered and existing under the laws of the Czech Republic, having its registered seat at Krakovska 1366/25, 110 00 Prague 1, Czech Republic, the provider of the website gtfcharge.com/ , pornbox.com (hereinafter referred to as the “ **Website** ”). The provider of the Website is the responsible data controller in the sense of Article 4 (7) of European Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (hereinafter referred to as the „ **GDPR** “). 
 
 This Privacy Policy describes how we collect, use, process, and disclose your information, including personal information, in conjunction with your access to and use of the Website. We are processing personal data only in accordance with this Privacy Policy. 
 
