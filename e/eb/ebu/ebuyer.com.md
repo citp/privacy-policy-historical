@@ -1,241 +1,179 @@
-> *The following text is extracted and transformed from the ebuyer.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225235341id_/http%3A//www.ebuyer.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuyer.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231151137id_/https%3A//www.ebuyer.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Ebuyer.com
 
-  * [](https://web.archive.org/finance)
+## 1\. GENERAL
 
+Ebuyer (UK) Limited together with any group companies (“we” “us” “our”) are committed to protecting and respecting your privacy. For the purposes of data protection legislation, we are the data controller and we will process your personal data in accordance with the General Data Protection Regulation (EU) 2016/679 and national laws which relate to the processing of personal data. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
+## 2\. VISITORS TO OUR WEBSITE 
 
-Cookies help us deliver the best experience on our website. By using our website, you agree to our use of cookies. [Learn More](https://web.archive.org/privacy-and-cookies#tab3 "Learn more about cookies") Continue
+2.1 We may collect and process personal data about you in the following circumstances: 
 
-Privacy & Cookies | Ebuyer.com
+2.1.1 when you complete forms on our website (“Site”). This includes your name, address, email and telephone number, which is provided at the time of registering to use our Site, where you ask us to contact you about our goods or services, subscribe to our mailing list, or subscribe/request our goods and services;
 
-Ebuyer (UK) Ltd ("Ebuyer", "us", "we") takes the protection of your online privacy seriously and this Privacy Policy sets out how we use and protect any personal information we obtain from dealings which arise from you using this website. Ebuyer is not responsible for the privacy practices of any websites which may be linked from the Ebuyer website, so please check these separately.
+2.1.2 whenever you provide information to us when reporting a problem with our Site, making a complaint, making an enquiry or contacting us for any other reason. If you contact us, we may keep a record of that correspondence;
 
-We may change this Privacy Policy from time to time by updating this page so please check our Privacy Policy for any changes when you revisit our website. By using the Ebuyer.com website you are consenting to the use of cookies outlined in this privacy policy.
+2.1.3 details of your visits to our Site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise, and the resources that you access (see section 2.2.2 on Cookies below); and
 
-## What personal information do we collect?
+2.1.4 whenever you disclose your information to us, or we collect information from you in any other way, through our Site. 
 
-We ask for your personal information when you make a purchase, register, sign up for promotions, offers or competitions, or to receive news. Depending on which of these services you use, we may collect:
+2.2 We may also collect data in the following ways:
 
-  * your name and contact information including postal address, e-mail address and telephone number, even if you do not complete your purchase;
-  * details of any purchase orders that you place through the website, and any details we need for delivery;
-  * card payment details if making a purchase;
-  * details you provide when you contact us or make enquiries either generally or about any purchases you make with us;
-  * details of your visits to the website and the resources that you access; and
-  * information you provide if you report a problem with our website;
+### IP Address
 
+2.2.1 We may collect information about your device, including where available your Internet Protocol address, for reasons of fraud protection. We may also collect information about your device’s operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
+### Cookies
 
-Even if you do not use these services, or for example, do not proceed with a purchase, we will still gather any personal details entered and information about your activity on the website to understand what parts of the website and what products you are interested in, so that we can improve our website and tailor our services to you. Further details can be found in the Cookies section of this Privacy Policy.
+2.2.2 Our Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy.
 
-## What we do with the personal information we collect?
+2.3 We may use your personal data for our legitimate interests in order to: 
 
-Depending on how you engage with us, we may use your information:
+2.3.1 provide you with information, or services that you requested from us;
 
-  * to facilitate your use of this website and the services available through it;
-  * when you purchase from us, to process your order, collect payment, enable you to track you order online, arrange delivery and for other purchase related services (this may include contacting you by telephone, email or SMS to arrange, confirm or upgrade your delivery) and for ongoing customer service dealings including any faults or repairs or refunds;
-  * for internal accounting and regulatory purposes;
-  * for statistical analysis to assess our business performance and to improve our products and services;
-  * to improve and personalise your experience when you visit the website (See the cookies section), and to keep you informed about other products and services you might be interested in (See Keeping You Informed); and
-  * to ask you from time to time if you would like to provide feedback on or participate in market research on our products and services. You do not have to participate in these if you do not wish.
+2.3.2 allow you to participate in interactive features of our Site, when you choose to do so; 
 
+2.3.3 ensure that content from our Site is presented in the most effective manner for you and for your device;
 
+2.3.4 improve our Site and services;
 
-## Who do we share it with?
+2.3.5 process and deal with any complaints or enquiries made by you; and
 
-We do not share your data with any third parties except as provided in this policy or as required by law. We will not share personal data with third parties for Direct Marketing by those parties without your consent. We may sell or otherwise supply Corporate Data to third parties including other companies in our group.
+2.3.6 contact you for marketing purposes where you have signed up for these (see section 6 for further details).
 
-Please note that Ebuyer is legally required to notify the TV Licensing Authority of any purchase you make of television receiving equipment. Please see [tvlicensing.co.uk](http://www.tvlicensing.co.uk/) for more details.
+### Website Links 
 
-If you take out an additional service plan with your purchase, Ebuyer will share limited personal information with the service plan provider.
+Our Site may, from time to time, contain links to and from the websites of third parties. Please note that if you follow a link to any of these websites, such websites will apply different terms to the collection and privacy of your personal data and we do not accept any responsibility or liability for these policies. When you leave our Site, we encourage you to read the privacy notice/policy of every website you visit.
 
-Ebuyer may also disclose your personal information:
+## 3\. CUSTOMERS
 
-  * We may provide aggregated statistics (including information derived from your data) about our sales, traffic patterns, and related website information to trustworthy third parties.We will do this for the purpose of carrying out assessments, analysis and research in relation to our business, products, services and customers. This is to assist in the provision of services and products to you, and to facilitate reviews, developments and improvements to our web site and the services and products offered to you. The statistics we disclose to those third parties will not include personally identifying information.
-  * to the police, regulators, law enforcement or other government agency where the law requires this, where appropriate to prevent or detect criminal activity, or in connection with product safety, and otherwise to relevant third parties to protect Ebuyer, its business, staff and customers; and
-  * to prospective or actual buyers in the event that Ebuyer sells any of its business or assets so help ensure continuity of your customer relationship.
+3.1 We will collect details such as your name, address, phone number and email address when you order goods or services from us either via our Site or linked social media sites / other third party partner sites. We will use this information to process your order and comply with our contractual obligations. 
 
+3.2 In order to perform our contract with you, we may also need to share personal data with third parties such as payment providers and postal service organisations to assist in the delivery of goods or services you have ordered; this could include third party couriers or warranty providers.
 
+3.3 We may also advertise your feedback on our website and marketing materials (subject to obtaining your prior consent where necessary);
 
-## Keeping You Informed
+3.4 We will retain your information as long as we require this to provide you with the goods or services ordered from us and for a period of 6 years afterwards. Where you have subscribed to receive marketing correspondence from us we will keep your personal data for the period of time described in section 6 below. 
 
-We may from time to time contact or update you about products, services or offers that may be relevant to you.
+## 4\. SUPPLIERS
 
-This may include delivery, reviews, lists and extended warranties, and other products and services related to your Ebuyer purchases, some of which are provided by Ebuyer and some by our trusted partners to whom we may pass on your details.
+We will collect details such as your employee names, telephone numbers and email addresses in order to contact you about goods or services ordered with you, to place further orders and to pay you for the goods and/or services supplied. We will keep the personal data for 6 years further to being provided with the goods/services.
 
-They or we may contact you about these by telephone, mail, email and SMS, using the contact details you provide and update us with, which we obtain or update with you in our dealings, or which we obtain or update from external sources. This may include telephone numbers that are registered by you or others unless you have told us directly that you do not wish to be contacted for this purpose on a particular telephone number. By providing your details through the website, you are agreeing to this.
+## 5\. IF YOU FAIL TO PROVIDE PERSONAL DATA
 
-If you don't want to be contacted by post or telephone you can email us at [dataremoval@ebuyer.com](mailto:dataremoval@ebuyer.com), call us on 0871 521 3300* or write to us at: Data Removal, Ebuyer (UK) Limited, Howden, East Yorkshire, DN14 7UW. If you do so, please bear with us for a short time whilst we adjust our records. This usually takes up to 10 days.  
-_* Calls cost 10p per minute plus network extras. Lines open: Monday-Friday 9am-6pm (excluding bank holidays). Please remember to use the international dialing code (+44) when calling from outside the UK_
+Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide the data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example to provide you with our goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
 
-If you don't want to be contacted by email, please unsubscribe from the Ebuyer marketing emails that contain an easy means for you to unsubscribe.
+## 6\. MARKETING
 
-Please note that Ebuyer would not necessarily remove all your details from its records but would note and respect your changed marketing preferences.
+6.1 In addition to the uses described in sections 2-4 above, where you indicate you would like to receive marketing correspondence from us, subscribe to our mailing lists or newsletters, enter into any of our competitions or provide us with your details at networking events, we may use your personal data for our legitimate interests in order to provide you with details about our goods, services, business updates and events, which we think may be of interest. 
 
-## Security and Storage
+6.2 You have the right to opt-out of receiving the information detailed in section 6.1 at any time. To opt-out of receiving such information you can:
 
-Whilst we have policies, rules and measures in place and try to take all reasonable steps to safeguard your personal information, Ebuyer cannot guarantee the security of any information you provide online.
+6.2.1 tick the relevant box situated in the form on which we collect your information;
 
-## Computing Cookies
+6.2.2 clicking the unsubscribe button contained in any such communication received; or
 
-Cookies are tiny files that help track the use of the site and to personalise your journey. These cookies can be stored so that if you return to a website, that website server can call the information from the cookies stored on your computer to tailor your experience of the site.
+6.2.3 email us at DPO@ebuyer.com or call us on ext. 5032 providing us with your name and contact details.
 
-Ebuyer are no different; we use cookies to help you shop our website more effectively and to place online orders - we do not store personally identifiable information in our cookie data. We also use some carefully selected 3rd party suppliers to enhance your online experience and they will place cookies on your computer for use on our website too.
+6.3 Where you have subscribed to receive marketing correspondence from us we will keep personal data 3 years from when you last interacted with us.
 
-Cookies are perfectly safe to be stored on your computer and almost all web browsers have cookie storing enabled as default. However, all browsers have the option of disabling cookies being stored on your computer if you wish to do this.
+6.4 From time to time we may market on behalf of other companies, for example by adding banners to our website pages. Clicking on these links will direct you to a third-party site, where you should consult their privacy policy. We will not share your personal data with any third parties without your prior consent. 
 
-Please be aware that disabling cookies on your browser will reduce your ability to shop online with Ebuyer. We use cookies to process products in your basket and orders. Disabling your cookies will mean you cannot purchase through our website.
+## 7\. MONITORING AND RECORDING 
 
-This would also be a common experience of reduced functionality across many websites.
+We may monitor and record communications with you (such as telephone communications and emails) for the purpose of training, fraud prevention and compliance. We also have CCTV cameras installed in our premises for the purpose of crime prevention and for health and safety reasons. Please contact [dpo@ebuyer.com](mailto:dpo@ebuyer.com) for details on how long we store this information for.
 
-To learn about how change the cookie settings for your browser please see our 'Managing Cookies' section.
+## 8\. AUTOMATED PROCESSING
 
-To make full use of the online shopping and personalised features on Ebuyer your computer, tablet or mobile phone will need to accept cookies, as we can only provide you with certain personalised features of this website by using them.
+8.1 We may occasionally consult with third party marketing organisations who use automated processing of anonymised personal data to make recommendations on economic or predictable consumer purchasing behaviours. We do not make decisions which affect an individual based purely on automated processing activities. 
 
-Our cookies don't store sensitive information such as your name, address or payment details: they simply hold the 'key' that, once you're signed in, is associated with this information. However, if you'd prefer to restrict, block or delete cookies from Ebuyer, or any other website, you can use your browser to do this. Each browser is different, so check the 'Help' menu of your particular browser (or your mobile phone's handset manual) to learn how to change your cookie preferences.
+8.2 We occasionally carry out a credit checks on customers:
 
-By using the Ebuyer.com website you are consenting to the use of cookies outlined in this privacy policy.
+8.2.1 so that we can make credit decisions about you; and
 
-Below is a list of the main cookies we use, and what we use them for. You'll find information about 3rd party cookies in the following dropdown.
+8.2.2 to prevent fraud and money laundering.
 
-## AdTrack, Affiliate, TD cookies
+8.3 Our search may be recorded on the files of the credit reference agency.
 
-These cookies show us how you found our website and which website you came from. This helps us know which of our online marketing channels is most effective. They also allow us to reward some external websites for directing you to us.
+8.4 If further to undertaking a credit check you receive a low credit score, we reserve the right not to supply you with goods or services on credit and/or require upfront payment for the goods or services you wish to purchase. In this case a member of our team will notify you. 
 
-## AJAXA cookie
+8.5 If you provide false or inaccurate information and we suspect fraud, we will record this. if you want to see your credit file, please contact our Customer Services team who will provide you with contact details for the Credit Agency used. 
 
-We use this to determine if your web browser supports some of the features of our checkout that make checkout quicker and easier to complete.
+## 9\. LEGAL BASIS FOR PROCESSING YOUR PERSONAL DATA
 
-## ASP.NET_SessionId cookie
+9.1 We will only use your personal data where the law allows us to. Most commonly, we will use your personal data in the following circumstances: 
 
-This cookie allows our web servers to respond to your actions on the website such as "Add to basket" or browsing the website. The website wouldn't work for you without it.
+9.1.1 for performance of a contract we enter into with you;
 
-## BasketXML and CookieID cookies
+9.1.2 where necessary for compliance with a legal or regulatory obligation we are subject to; 
 
-The items that are in your shopping basket on the website are stored in this cookie. Your shopping basket wouldn't work without it.
+9.1.3 where necessary to protect your vital interests; and
 
-## fromAd cookie
+9.1.4 for our legitimate interests (as described within this policy) and your interests and fundamental rights do not override these interests.
 
-We use this to determine if you arrived at Ebuyer by clicking on an advertising link, and allows us to reward some external websites for directing visitors to us.
+## 10\. DISCLOSURE OF PERSONAL DATA TO THIRD PARTIES
 
-## JSE
+10.1 In addition to the third parties mentioned above, we may disclose your information to third parties for our following legitimate interests as follows: 
 
-We use this cookie to remember if you have JavaScript enabled on your web browser. Without it the website can't do things like display videos, so we hide this content if JavaScript is disabled.
+10.1.1 to staff members in order to facilitate the provision of goods or services to you;
 
-## rrSessionId, m, n, uc cookies
+10.1.2 to our affiliated entities to support internal administration; 
 
-We use these cookies to make recommendations of products that we think might be of interest to you, based on what you and other visitors have viewed on Ebuyer.
+10.1.3 IT software providers that host our website and store data on our behalf; 
 
-## Reevoo cookie (reevoo_utmb, reevoo_utmc, reevoo_utmz, reevoomark_bh_session, reevoomark_marker, reevoomark_selected_for_b_branch, reevoomark_viewed_products cookies)
+10.1.4 professional advisers including consultants, lawyers, bankers and insurers who provide us with consultancy, banking, legal, insurance and accounting services;
 
-These cookies enable the function of our customer review partner Reevoo. Reevoo collect and deliver impartial customer reviews on our website. This information is used to help improve the website and your shopping experience giving independent buying advice. The data stored by these cookies can be seen only by the relevant teams at Ebuyer and Reevoo.
+10.1.5 HM Revenue and Customs, regulators and other authorities who require reporting of processing activities in certain circumstances; and 
 
-## _utma, _utmz
+10.1.6 third parties who we may choose to sell, transfer or merge parts of our business or assets. Alternatively, we may seek to acquire other business or merge with them. If a change happens to our business then the new owners my use your personal data in the same way as set out in this privacy policy. 
 
-These cookies enable the function of Google Analytics for Ebuyer and its subsidiaries. Software, this software helps us take and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and shopping times. That information helps us to improve the website and your shopping experience, and to make our marketing campaigns relevant. The data stored by these cookies can be seen only by the relevant teams at Ebuyer and Google and never shows any confidential information.
+10.2 We may disclose personal data to the police, regulatory bodies, legal advisors or similar third parties where we are under a legal duty to disclose or share personal data in order to comply with any legal obligation, or in order to enforce or apply our website terms and conditions and other agreements; or to protect our rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
-When you visit Ebuyer you may notice some cookies that aren't related to Ebuyer. If you go on to a web page that contains embedded content, for example from YouTube, you may be sent cookies from these websites. We don't control the setting of these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.
+10.3 We will not sell or distribute personal data to other organisations without your approval.
 
-Some of the business partners that may set cookies on Ebuyer can be seen in the table opposite.
+## 11\. CROSS-BORDER DATA TRANSFERS 
 
-## Ebuyer 'share' tools
+11.1 Where permitted by applicable law, we may transfer your personal data to the United States and other jurisdictions outside the European Economic Area (‘EEA’) for the purposes set out in this privacy policy. We have implemented standard contractual clauses approved by the European Commission with those organisations along with using companies who are participants in the EU-US Privacy Shield. 
 
-If you take the opportunity to 'share' Ebuyer content with friends through social networks - such as Facebook and Twitter - you may be sent cookies from these websites. We don't control the setting of these cookies, so please check the third-party websites for more information about their cookies and how to manage them.
+## 12\. DATA SECURITY
 
-## Further information about cookies
+12.1 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-If you'd like to learn more about cookies in general and how to manage them, visit [aboutcookies.org](https://www.aboutcookies.org/). If you'd like to opt out of cookies, please go to the [Network Advertising Initiative website](https://www.networkadvertising.org/).
+12.2 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your information transmitted to our Site; any transmission is at your own risk. 
 
-_Please note that we're not responsible for the content of external websites._
+12.3 Information you provide to us is shared on our secure servers. We have implemented appropriate physical, technical and organisational measures designed to secure your information against accidental loss and unauthorised access, use, alteration or disclosure. In addition, we limit access to personal data to those employees, agents, contractors and other third parties that have a legitimate business need for such access.
 
-## Partner name: Criteo
+## 13\. ACCESS TO, UPDATING, DELETING AND RESTRICTING USE OF PERSONAL DATA 
 
-Criteo uses cookies to provide you with personalised adverts when you visit other selected websites. To learn more about these cookies, please see our guide to banner advertising on the following dropdown.
+13.1 It is important that the personal data we hold about you is accurate and current. Please keep us informed if the personal data we hold about you changes. 
 
-## Partner name: TagMan / Affiliate Window / Doubleclick / Google / Reevoo / CheetahMail / Pricerunner / Leadback / Right Media / Twitter / Facebook / IMRG cookie
+13.2 Data protection legislation gives you the right to object to the processing of your personal data in certain circumstances or withdraw your consent to the processing of your personal data where this has been provided. You also have the right to access information held about you and for this to be provided in an intelligible form. If you would like a copy of some or all of your personal information, please send an email to DPO@ebuyer.com. In certain circumstances we reserve the right to charge a reasonable fee to comply with your request. 
 
-Sometimes we'll advertise on 3rd party websites. TagMan cookies are used to help us and our advertisers see which advertisements you click on and interact with. Each individual advertiser uses its own tracking cookies and the data taken is not confidential or interchangeable.
+13.3 You can also ask us to undertake the following:
 
-Examples of these advertisers include Google (including Google-owned DoubleClick for paid advertising on Google.com) and Affiliate Window.
+13.3.1 update or amend your personal data if you feel this is inaccurate;
 
-TagMan provide a global Opt-Out function, whereby a user can go to their website and switch off TagMan tracking: http://eu.tagman.com/index.php/consumerprivacy.html. If you opt out in this way for Ebuyer, you'll also be opting out from any other companies that use TagMan.
+13.3.2 remove your personal data from our database entirely;
 
-## How do I opt out of cookies?
+13.3.3 send you copies of your personal data in a commonly used format and transfer your information to another entity where you have supplied this to us, and we process this electronically with your consent or where necessary for the performance of a contract; or
 
-You can manage the cookies that you allow on your computer through the internet browser that you use. You can also ask to be alerted every time a cookie is offered. There are instructions on how to manage your cookies using the most popular internet browsers below:
+13.3.4 restrict the use of your personal data.
 
-**Find out which internet browser you use**
+13.4 We may request specific information from you to help us confirm your identity and your right to access, and to provide you with the personal data that we hold about you or make your requested changes. Data protection legislation may allow or require us to refuse to provide you with access to some or all the personal data that we hold about you or to comply with any requests made in accordance with your rights referred to above. If we cannot provide you with access to your personal data, or process any other request we receive, we will inform you of the reasons why, subject to any legal or regulatory restrictions.
 
-  1. On a PC: click on 'Help' at the top of your browser window and select 'About'
-  2. On an Apple Mac: click on the Apple menu and select 'About' (make sure the browser is open)
+13.5 Please send any requests relating to the above to our Data Protection Officer at DPO@ebuyer.com specifying your name and the action you would like us to undertake.
 
+## 14\. RIGHT TO WITHDRAW CONSENT
 
+Where you have provided your consent to the collection, processing and transfer of your personal data, you have the legal right to withdraw your consent under certain circumstances. To withdraw your consent, if applicable, please contact us at DPO@Ebuyer.com
 
-**Opting out of cookies in Internet Explorer**
+## 15\. CHANGES TO OUR PRIVACY POLICY
 
-Internet Explorer allows you to select the level of cookie filter on the basis of the source of the cookie and whether the source has a privacy policy.
+We reserve the right to update this privacy policy at any time, and any changes we make to our privacy policy will be posted on this page. We will notify you if there are any changes to this policy that materially affect how we collect, store or process your personal data. If we would like to use your previously collected personal data for different purposes than those we notified you about at the time of collection, we will provide you with notice and, where required by law, seek your consent, before using your personal data for a new or unrelated purpose. We may process your personal without your knowledge or consent where required by applicable law or regulation.
 
-  1. Choose 'Tools'
-  2. Click on 'Internet Options'
-  3. Click the 'Privacy' tab
-  4. Move the slider to choose your settings
-  5. For more detailed privacy settings click on 'Advanced'
+## 16\. CONTACT US
 
+We have appointed a Data Protection Officer to oversee compliance with this privacy policy. If you have any questions, comments or requests regarding this policy or how we use your personal data please contact our Data Protection Officer at DPO@Ebuyer.com. This is in addition to your right to contact the Information Commissioners Office if you are unsatisfied with our response to any issues you raise at <https://ico.org.uk/global/contact-us/>
 
-
-**Opting out of cookies in Safari**
-
-  1. Choose 'Preferences' from Safari menu
-  2. Select 'Security'
-  3. Cookie settings are shown
-  4. Choose your settings
-
-
-
-**Opting out of cookies in Google Chrome**
-
-As a default, Google Chrome allows all cookies. You can manage the behaviour of first-party and third-party cookies or even block them completely.
-
-  1. Click on the 'Tools' menu
-  2. Select 'Options'
-  3. Click the 'Under the Bonnet' tab
-  4. Find the 'Privacy' section
-  5. Click 'Content settings'
-  6. Click the 'Cookie settings' tab and choose your settings
-
-
-
-**Opting out of cookies in Mozilla Firefox**
-
-You can configure which sites are allowed to set cookies, how long to keep them for, and view and manage your existing cookies.
-
-  1. Click on 'Menu', then 'Options'
-  2. Select 'Privacy'
-  3. Select 'Cookies'
-  4. Choose your settings
-
-
-
-**Opting out of Flash Cookies**
-
-If you'd like to control the use of Flash Cookies on your computer, [Adobe's website](http://www.adobe.com/uk/privacy/opt-out.html) offers tools to do this.
-
-## Contacting us
-
-Ebuyer (UK) Ltd (at the address below) is the data controller for the purpose of the Data Protection Act 1998 (the Act).
-
-You have the right to access the information that Ebuyer (UK) Ltd holds about you and your right of access can be exercised in accordance with the Act. You may lodge an access request for free, but depending upon the personal information you request, we may impose a charge to recover our costs in providing you with details of the information we hold about you. We will notify you of any such change upon receiving your access request, and confirm whether you wish to proceed and pay such charge.
-
-We are always pleased to hear from our customers (even if it is a complaint!). We are always grateful for any time you spend providing us with the knowledge we need to ensure our customers are completely satisfied - we want you to return to the site and to recommend us to your friends and family. If you have any questions or feedback about this statement, or if you would like us to stop processing your information, please do not hesitate to contact a customer service member of the Ebuyer team, who will be delighted to answer any questions you may have.
-
-You can either contact **0871 521 33 00**  
-_Calls cost 10p per minute plus network extras._
-
-Lines open: **Monday-Friday 9am-6pm** (excluding bank holidays).
-
-Or, write to us at:  
-Ebuyer (UK) Limited  
-Howden  
-East Yorkshire  
-DN14 7UW UK
+Last updated: 17th May 2018. 
