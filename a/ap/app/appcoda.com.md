@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appcoda.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625143412id_/https%3A//www.appcoda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcoda.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231135536id_/https%3A//www.appcoda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AppCoda
 
@@ -223,7 +223,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-  * By email: support@appcoda.com
+  * By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
   * By visiting this page on our website: http://www.appcoda.com/contact
 
 
