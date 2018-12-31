@@ -1,96 +1,66 @@
-> *The following text is extracted and transformed from the windowsforum.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620135941id_/http%3A//windows7forums.com/articles/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsforum.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231222648id_/https%3A//windowsforum.com/help/privacy-policy) for the most accurate reproduction.*
 
-# - Privacy Policy
+# Privacy policy | Windows Forum
 
-**Windows7Forums.com Values Your Privacy**
+We are Windows Forum ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://windowsforum.com/misc/contact/).
 
-The privacy policy described within helps protect all website visitors from the worrisome situation of being concerned of spam or privacy violations. We here at Windows7Forums.com take our visitors privacy very seriously. We will never sell your information to third parties, and many privacy options exist in your Control Panel. For more information about your privacy, please see below:
+## What information we hold about you
 
-  
+The type of data that we collect and process includes:
+
+  * Your name or username.
+  * Your email address.
+  * Your IP address.
 
 
-**What information do we collect?**
 
-We collect information from you when you register on our site, fill out a form or agree to receive e-mails. 
+Further data may be collected if you choose to share it, such as if you fill out fields on your profile.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+We collect some or all of this information in the following cases:
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+  * You register as a member on this site.
+  * You fill out our contact form.
+  * You browse this site. See "Cookie policy" below.
+  * You fill out fields on your profile.
 
-**What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+## How your personal information is used
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+We may use your personal information in the following ways:
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+  * For the purposes of making you a registered member of our site, in order for you to contribute content to this site.
+  * We may use your email address to inform you of activity on our site.
+  * Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.
 
-• To process transactions
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-• To administer a contest, promotion, survey or other site feature
+## Other ways we may use your personal information.
 
-• To send periodic emails
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+## Keeping your data secure
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
 
- **How do we protect your information?**
+## Cookie policy
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
 
-**Do we use cookies?**
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://windowsforum.com/help/cookies).
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+## Rights
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://windowsforum.com/misc/contact/). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://windowsforum.com/misc/contact/) to ask us to complete or correct that information.
 
- **Do we disclose any information to outside parties?**
+You also have the right to request the erasure of your personal data. Please [contact us](https://windowsforum.com/misc/contact/) if you would like us to remove your personal data.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+## Acceptance of this policy
 
- **Third party links**
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+## Changes to this policy
 
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
-
- **Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://windows7forums.com/tos/>
-
-**Your Consent**
-
-By using our site, you consent to our online privacy policy.
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
-
-This policy was last modified on 23rd of June, 2010
-
- **Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://windows7forums.com/sendmessage.php  
-admin@windows7forums.com  
-+19145954455  
-
+We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
