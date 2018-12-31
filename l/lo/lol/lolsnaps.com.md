@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lolsnaps.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629091631id_/https%3A//lolsnaps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolsnaps.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231052704id_/https%3A//lolsnaps.com/privacy) for the most accurate reproduction.*
 
-# Privacy | LolSnaps.com
+# LolSnaps.com | Constant updates of the best funny pictures and memes on the internet.
 
 LolSnaps is a media company and the services that link to this Privacy Policy provide fun ways for you to create, share, and discover the best content from around the internet. When you use these services, you’ll share some information with us. We want to explain clearly what information we collect, why we collect it, how we use it, whom we share it with, and the controls we give you to access, update, and delete your information. That’s why we’ve written this Privacy Policy. We tried to write it in simple language with minimal legalese so it’s easy for you to understand. If you have any questions about anything in our Privacy Policy, please [contact us](https://lolsnaps.com/contact).
 
@@ -170,5 +170,6 @@ Our services are not intended for anyone under 13. We don’t direct our service
 ##### Revisions and Changes to the Privacy Policy
 
 We may change this Privacy Policy from time to time. When we do, we will let you know by notifying you one way or another. We may let you know by revising the date at the bottom of this privacy policy, which is available on our website and mobile applications. We may also provide additional notice, such as adding a statement to our homepage, or providing you with an in-app notification.
-
-###### _Last Modified: May 25, 2018_
+    
+    
+    Last Modified on:  **May 25, 2018**
