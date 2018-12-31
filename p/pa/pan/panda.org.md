@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the panda.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627190239id_/http%3A//wwf.panda.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panda.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231130909id_/http%3A//wwf.panda.org/privacy) for the most accurate reproduction.*
 
 # WWF Online Privacy Policy | WWF
 
-At **WWF-WORLD WIDE FUND FOR NATURE (FORMERLY WORLD WILDLIFE FUND)** (hereinafter: “ **WWF-International** ”) we rely on the support of individuals like you to carry out our vital conservation work. That is why we want to be completely transparent about why we need the personal data we request when you engage with us and how we will use them.  
+At **WWF - WORLD WIDE FUND FOR NATURE (FORMERLY WORLD WILDLIFE FUND)** (hereinafter: “ **WWF International** ”) we rely on the support of individuals like you to carry out our vital conservation work. That is why we want to be completely transparent about why we need the personal data we request when you engage with us and how we will use them.  
 As you browse our website and whenever you communicate with us, we collect data. Collecting these data helps to make our communications more effective and to achieve our goals. The more data we have, the more efficiently we are able to operate and the more funds we can direct into conservation. In this privacy policy we explain why and how we process your personal data.  
 We take protecting your privacy very seriously and will always take all reasonable steps within our power to make sure your information is safe.  
 This privacy policy applies to all personal information we collect or process about you.  
@@ -11,7 +11,7 @@ We may update this policy from time to time without notice to you, so please che
 We do not have a Data Protection Officer, but we are happy to help you with your questions. For this you can contact our Supporter Care team by email at: supportercare@wwfint.org.
 
 **1\. WHO WE ARE**  
-WWF-International, with its offices at Rue Mauverney 28, Gland, Switzerland, is the secretariat for WWF's global organization. The role of the secretariat is to lead and coordinate the WWF Network of offices around the world. This privacy statement relates to the data which is obtained and processed by WWF-International only. For the privacy statement of the respective independent WWF offices, please refer to the respective WWF office’s privacy statements on their respective websites.   
+WWF International, with its offices at Rue Mauverney 28, 1196 Gland, Switzerland, is the secretariat for WWF's global organization. The role of the secretariat is to lead and coordinate the WWF Network of offices around the world. This privacy statement relates to the data which is obtained and processed by WWF-International only. For the privacy statement of the respective independent WWF offices, please refer to the respective WWF office’s privacy statements on their respective websites.   
 
 **2\. WHY WE COLLECT PERSONAL DATA**  
 We process personal data for our supporter administration, fundraising programs and to inform about actions and campaigns. We do not provide personal data to third parties for commercial purposes.  
@@ -228,4 +228,4 @@ We may amend or update this policy at any time to take account of any changes to
 **16\. CONTACT US**  
 If you have any questions please contact our Supporter Care team using the details below:  
 Email: supportercare@wwfint.org  
-Post: Rue Mauverney 28, Gland, Switzerland
+Post: Rue Mauverney 28, 1196 Gland, Switzerland
