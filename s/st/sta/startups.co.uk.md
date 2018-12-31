@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625211813id_/https%3A//startups.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231201725id_/https%3A//startups.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Startups.co.uk: Starting a business advice and business ideas
 
