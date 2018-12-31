@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saharareporters.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625033315id_/http%3A//saharareporters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saharareporters.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231024920id_/http%3A//saharareporters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sahara Reporters
 
@@ -32,8 +32,8 @@ SaharaReporters.com does not control the privacy policies of third party sites o
 
 ##  Changes to the SaharaReporters.com Privacy Policy 
 
-You agree that SaharaReporters.com may amend this policy from time to time by posting the revised Privacy Policy on this Website. You may review our Privacy Policy at any time by submitting a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8be8fef8ffe4e6eef9f8eef9fde2e8eecbf8eae3eaf9eaf9eefbe4f9ffeef9f8a5e8e4e6). Your continued use of any portion of the Website or SaharaReporters.com service following the posting of the revised policy will constitute your acceptance of the changes. 
+You agree that SaharaReporters.com may amend this policy from time to time by posting the revised Privacy Policy on this Website. You may review our Privacy Policy at any time by submitting a request to [customerservice@saharareporters.com](mailto:customerservice@saharareporters.com). Your continued use of any portion of the Website or SaharaReporters.com service following the posting of the revised policy will constitute your acceptance of the changes. 
 
 ##  How to contact us if you believe your privacy has been violated 
 
-If you suspect that your privacy has been violated or that SaharaReporters.com has not abided by the terms set forth in this policy, contact SaharaReporters.com by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0d6e787e796260687f7e687f7b646e684d7e6c656c7f6c7f687d627f79687f7e236e6260)
+If you suspect that your privacy has been violated or that SaharaReporters.com has not abided by the terms set forth in this policy, contact SaharaReporters.com by emailing [customerservice@saharareporters.com](mailto:customerservice@saharareporters.com)
