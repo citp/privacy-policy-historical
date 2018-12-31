@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangahome.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517180102id_/http%3A//www.mangahome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangahome.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231182641id_/http%3A//mangahome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Manga Home
 
