@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kyliecosmetics.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625072417id_/https%3A//www.kyliecosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyliecosmetics.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231064759id_/https%3A//www.kyliecosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Kylie Cosmetics℠ by Kylie Jenner
+# PRIVACY POLICY | Kylie Cosmetics by Kylie Jenner
 
 This Privacy Policy sets out how we, Kylie Cosmetics collect, store and use information about you when you use or interact with our website, kyliecosmetics.com (our **website** ) and where we otherwise obtain or collect information about you. This Privacy Policy is effective from May 24, 2018.
 
