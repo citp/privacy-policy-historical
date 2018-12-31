@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the topfamousquotes.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616194804id_/http%3A//topfamousquotes.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topfamousquotes.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231051745id_/http%3A//topfamousquotes.com/policy.php) for the most accurate reproduction.*
 
-# Privacy Poicy - TopFamousQuotes.com
+# Privacy Policy - TopFamousQuotes.com
 
-## Our Privacy Poicy
+## Our Privacy Policy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this privacy policy easy to find for every one, we place it in the footer of website and at every pages where personally identifiable information may be requested.
 
