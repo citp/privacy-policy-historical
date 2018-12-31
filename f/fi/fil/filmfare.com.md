@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmfare.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625113016id_/https%3A//www.filmfare.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmfare.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231105745id_/https%3A//www.filmfare.com/privacypolicy) for the most accurate reproduction.*
 
 # Bollywood News, Filmfare Awards, Movie Reviews, Celebrity Photos & Updates | filmfare.com
 
