@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thestar.co.za privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625075818id_/https%3A//www.iol.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestar.co.za privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231160648id_/https%3A//www.iol.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy | IOL
 
 For your added protection this web site subscribes to and complies with the voluntary privacy principles contained in the Electronic Communications and Transactions Act 25 of 2002. We will not disclose personal information in any manner not set out in this policy.
 
