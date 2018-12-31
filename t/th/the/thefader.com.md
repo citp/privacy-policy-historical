@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thefader.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623130037id_/http%3A//www.thefader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefader.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231234500id_/http%3A//www.thefader.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The FADER
 
 ### Effective Date: 11/10/2015
 
-This Privacy Policy explains how The FADER, Inc., our affiliates, partners and service providers (individually and/or collectively, “The FADER” or “we” or “us” or “our”) collect, use, secure, store and share the personal information we obtain when you (“you” and/or “your”) access, visit or use The FADER Websites (as defined in the Terms of Use). You must read this Privacy Policy and the Terms of Use ([www.thefader.com/terms-of-use](http://www.thefader.com/terms-of-use)) carefully before accessing, visiting or using any of The FADER Websites. By accessing, visiting or using The FADER Websites, you agree to be bound by this Privacy Policy and the Terms of Use. If you do not agree to be bound by this Privacy Policy or the Terms of Use, you may not access, visit or use The FADER Websites. 
+This Privacy Policy explains how The FADER, Inc., our affiliates, partners and service providers (individually and/or collectively, “The FADER” or “we” or “us” or “our”) collect, use, secure, store and share the personal information we obtain when you (“you” and/or “your”) access, visit or use The FADER Websites (as defined in the Terms of Use). You must read this Privacy Policy and the Terms of Use ([www.thefader.com/terms-of-use](https://web.archive.org/terms-of-use)) carefully before accessing, visiting or using any of The FADER Websites. By accessing, visiting or using The FADER Websites, you agree to be bound by this Privacy Policy and the Terms of Use. If you do not agree to be bound by this Privacy Policy or the Terms of Use, you may not access, visit or use The FADER Websites. 
 
 ### 1\. Information We Collect Automatically
 
