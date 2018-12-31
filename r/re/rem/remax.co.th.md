@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remax.co.th privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626181926id_/http%3A//remax.co.th/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remax.co.th privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231122005id_/http%3A//remax.co.th/privacy.aspx) for the most accurate reproduction.*
 
 # RE/MAX - Privacy Policy
 
