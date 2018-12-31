@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qrcargo.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630134702id_/http%3A//www.qrcargo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qrcargo.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231115218id_/http%3A//qrcargo.com/privacy) for the most accurate reproduction.*
 
-# Privacy | QR-Cargo
+# Qatar Airways Cargo - Privacy
 
 Your privacy is very important to Qatar Airways and we understand how important it is to you. This Privacy Policy applies to all information gathered by Qatar Airways when you are on the Qatar Airways site and when you utilise any services provided by Qatar Airways, including the Qatar Airways Privilege Club. Once you choose to provide us with any information by which you can be identified, we will only use your information in accordance with this Privacy Policy. Please review this Privacy Policy carefully. 
 
