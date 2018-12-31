@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartoq.com privacy policy that was archived on 2018-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180417035047id_/http%3A//www.cartoq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoq.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231231333id_/https%3A//www.cartoq.com/privacy-policy) for the most accurate reproduction.*
 
-# Cartoq.com Privacy Policy | CarToq - India's #1 auto content site
+# Cartoq.com Privacy Policy | Cartoq
 
 This Privacy Policy was last updated on November 4, 2017.
 
