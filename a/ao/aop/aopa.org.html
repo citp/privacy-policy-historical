@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aopa.org privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625220957id_/https%3A//www.aopa.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aopa.org privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231210842id_/http%3A//aopa.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="UTF-8">
@@ -22,14 +22,21 @@
 <meta name="dcterms.type" content="Text">
 <meta name="dcterms.format" content="text/html">
 <meta name="dcterms.identifier" content="https://www.aopa.org/privacy-policy">
-<link href="/bundles/styles/aopa/site.css?v=5BIAVgPFAxZJKZpZCxYawnodA9FnG1Qxe36Do0XzSyA1" rel="stylesheet">
+<link href="/bundles/styles/aopa/site.css?v=-K4ru02DAUmbp7kgMCZxz1xb5kZ7EDTyElrAjZxzGrU1" rel="stylesheet">
 <link rel="canonical" href="https://www.aopa.org/privacy-policy">
+<script>
+            var Aopa = {
+                AIRPORTS_API_URL: "https://webapp.aopa.org/AirportsAPI",
+                GOOGLE_MAPS_API_KEY: "AIzaSyDZDcKf_bdy492OuqusX-rrFLGGIgERPeI",
+                AERIUM_API_URL: "https://webapp.aopa.org/aerium"
+            };
+        </script>
 <style>
 			    
-			    </style>
-<script async="" charset="utf-8" src="https://static.zdassets.com/ekr/asset_composer.js?key=e87da84d-0266-4de2-88b6-5fdd90a889db" type="text/javascript"></script><script type="text/javascript">
+        </style>
+<script type="text/javascript">
 			    
-		    </script>
+        </script>
 <script type="text/javascript" src="https://aopa-d.openx.net/w/1.0/jstag"></script>
 <script type="text/javascript">
 var OX_ad = new OX();
@@ -56,11 +63,11 @@ OX_ad.addVariable('pilottype','');
 
 OX_ad.fetchAds();
 </script>
-<meta name="VIcurrentDateTime" content="636655613973694591">
+<meta name="VIcurrentDateTime" content="636818873230883318">
 <script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
 </head>
 <body class="">
-<script type="text/javascript"> author=''; topic='AOPA'; mem=''; </script>
+<script type="text/javascript"> author=''; topic='AOPA'; mem=''; memtype='';acttype=''; </script>
 
 <noscript>
   
@@ -192,6 +199,26 @@ function myFunction(){
     //]]>
 </script>
 <style>
+a[href*="tel:"] { 
+    color: #004c97;
+    font-weight: 700;
+    text-decoration: none;
+  
+}
+a[href*="tel:"]:after {
+    background-image: url('https://download.aopa.org/global/noun_Phone.png');
+    background-repeat:no-repeat;
+    background-size:14px 14px;
+    display: inline-block;
+    height: 14px;
+    width:14px;
+    content:"";
+    margin-bottom:-2px;
+    margin-left:5px;
+}
+
+
+
 .header__aopa-links ul li:first-child a, .header__aopa-links ul li:first-child a svg{color:#00a3e0;fill:#00a3e0;}
 .header__aopa-links ul li:first-child a:hover{color:#004c97;}
 .header__aopa-links ul li:first-child a:hover svg{fill:#004c97;}
@@ -211,7 +238,11 @@ background-color:transparent;
 .header__links ul li:first-child a:hover{
 background-color:#00a3e0;
 }
-
+@media (min-width: 1111px){
+.header__links a {
+    padding: 0.3125rem 1.425rem;
+}
+}
 
 // temporary gated content styles, pending merge into master
 
@@ -233,6 +264,215 @@ background-color:#00a3e0;
     padding: 0 0;
   }
 }
+
+
+
+
+
+
+
+/* Join Now header button */
+@media screen and (min-width: 761px) {
+	
+	.header__aopa-links ul li:first-child a {
+		cursor: pointer;
+		padding: 16px 20px;
+		/*margin-right: 30px!important;*/
+		margin-top: 46px!important;
+		line-height: 0rem;
+		background-color: #FF6501;
+		color: #fff;
+		font-size: 0.8rem;
+		font-weight: 700;
+		text-decoration: none;
+		text-transform: uppercase;
+		letter-spacing: 1.5px;
+                white-space: nowrap;
+	}
+
+	.header__aopa-links ul li:first-child a:hover {
+	  -webkit-filter: grayscale(100%)!important; 
+		filter: grayscale(100%)!important;
+		color: #fff!important;
+		box-shadow: none!important;
+	}
+
+	.header__aopa-links ul li:first-child svg {
+		display: none!important;
+	}
+	
+	.sticky-header-wrapper.is-sticky .header__aopa-links ul li:first-child a {
+		margin-top: 11px!important;
+		margin-right: 10px!important;
+		padding: 16px 8px;
+		font-size: 0.7em;
+	}
+	
+}
+
+@media screen and (min-width: 881px) {
+	.header__aopa-links ul li:first-child a {
+		margin-top: 28px!important;
+	}
+}
+
+/* end of Join Now header button */
+/* credit card header button */
+@media screen and (min-width: 761px) {
+	
+	.header__aopa-links ul li:nth-child(2) a {
+		cursor: pointer;
+
+                padding: 15px 9px 17px;
+                margin-right: 20px!important;
+                margin-left: 20px !important;
+                margin-top: 26px!important;
+		line-height: 0rem;
+		background-color: #00a3e0;
+		color: #fff;
+		font-size: 0.8rem;
+		font-weight: 700;
+		text-decoration: none;
+		text-transform: uppercase;
+		letter-spacing: 1.5px;
+                white-space: nowrap;
+	}
+
+	.header__aopa-links ul li:nth-child(2) a:hover {
+	  -webkit-filter: grayscale(100%)!important; 
+		filter: grayscale(100%)!important;
+		color: #fff!important;
+		box-shadow: none!important;
+	}
+
+	.header__aopa-links ul li:nth-child(2) svg {
+                height:15px;
+                fill:#ffffff;
+                top:3px;
+	}
+	
+	.sticky-header-wrapper.is-sticky .header__aopa-links ul li:nth-child(2) a {
+		margin-top: 11px!important;
+		margin-right: 10px!important;
+		padding: 16px 8px;
+		font-size: 0.7em;
+	}
+        .sticky-header-wrapper.is-sticky .header__aopa-links ul li:nth-child(2) a svg{
+                display:none;
+        }
+	
+}
+
+@media screen and (min-width: 881px) {
+	.header__aopa-links ul li:nth-child(2) a {
+		margin: 28px 0 0 10px !important;
+                padding: 6px 9px 11px;
+	}
+}
+
+/* end of credit card header button */
+
+
+/* Header links alignment for tablet */
+@media screen and (min-width: 761px) and (max-width: 1200px) {
+
+	.header__aopa-links ul li a {
+		white-space: nowrap;
+		font-size: 0.8em!important;
+		padding: 20px .4125rem 0;
+	}
+	
+	.header__aopa-links .header__search a {
+		padding-right: 0;
+		padding-left: 5px;
+	}
+
+	
+	.header__aopa-links ul li:first-child a {
+		margin-right: 10px!important;
+		padding: 16px 15px;
+	}
+
+	.header__aopa-links ul li.header__user {
+		width: 100%;
+		background-color: transparent;
+	}
+	
+	.header__aopa-links ul li.header__user > a {
+		background-color: #E2E4E4;
+	}
+	
+	.header__aopa-links ul li.header__user > a {
+		padding: 20px .8125rem 0;
+	}
+	
+	.header__aopa-links ul li:nth-child(1) a {
+		margin-top: 25px!important;
+	}
+	
+	
+}
+
+@media screen and (min-width: 761px) and (max-width: 900px) {	
+	.header__aopa-links ul li:not(.header__search):not(.header__user) a svg {
+		display: none;
+	}
+	
+	
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1200px) {
+	
+	.header__aopa-links ul li a {
+		padding: 20px 22px 0;
+	}
+	
+}
+
+.header__aopa-links ul {
+	align-items: flex-start!important;
+}
+
+.header__aopa-links ul li.header__user {
+	max-width: 200px;
+        min-width: 80px;
+	padding-top: 0.75em;
+	line-height: 1.2em;
+}
+
+.header__aopa-links ul li.header__user span {
+	max-width: 90%;
+	flex-shrink: 1;
+	width: auto;
+	white-space: normal;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.header__aopa-links ul li.header__user > a {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	line-height: 1.5em;
+	padding-bottom: 1em;
+}
+
+.header__aopa-links ul li.header__user a svg {
+	flex-shrink: 0;
+	margin-top: 2px;
+}
+
+@media screen and (min-width: 1201px) {
+	.header__aopa-links ul li.header__user a svg {
+		flex-shrink: 0;
+		margin-top: 3px;
+	}
+}
+
+/* End of Header links alignment for tablet */
+
+
 
 .app *, .app *:after, .app *:before { box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box; }
     
@@ -360,10 +600,17 @@ background-color:#00a3e0;
         .app {
             padding: 15px 10px;
         }
+
+}
+
+
 </style>
 
-<script>/*<![CDATA[*/window.zE||(function(e,t,s){var n=window.zE=window.zEmbed=function(){n._.push(arguments)}, a=n.s=e.createElement(t),r=e.getElementsByTagName(t)[0];n.set=function(e){ n.set._.push(e)},n._=[],n.set._=[],a.async=true,a.setAttribute("charset","utf-8"), a.src="https://static.zdassets.com/ekr/asset_composer.js?key="+s, n.t=+new Date,a.type="text/javascript",r.parentNode.insertBefore(a,r)})(document,"script","e87da84d-0266-4de2-88b6-5fdd90a889db");/*]]>*/</script>
-
+<script type="text/javascript">
+    if(window.location.href.indexOf("https://www.aopa.org/account/aopajoinform") == -1) {
+        document.write('<scri'+'pt src="https://download.aopa.org/zopim/zopim1.js"></'+'script>');
+    }
+</script><script src="https://download.aopa.org/zopim/zopim1.js"></script>
 
 
 <div class="advertisement">
@@ -378,6 +625,19 @@ background-color:#00a3e0;
 </div>
 </div>
 <div class="alerts">
+<div class="alert alert--notice">
+<div class="l-wrapper">
+<div class="alert__icon">
+<svg><use xlink:href="/dist/assets/svg-sprite.svg#"></use></svg>
+</div>
+<div class="alert__text">
+AOPA will be closed on December 31 and January 1. We will reopen at 8:30 a.m. EST on Wednesday, January 2.
+</div>
+<div class="alert__close" data="8a08b562-54a7-4c22-ac57-912b8c82e206">
+<svg><use xlink:href="/dist/assets/svg-sprite.svg#x"></use></svg>
+</div>
+</div>
+</div>
 <div class="alert alert--notice">
 <div class="l-wrapper">
 <div class="alert__icon">
@@ -404,11 +664,11 @@ FBO Fees
 </a>
 </li>
 <li>
-<a href="/advocacy/pilots/medical/fit-to-fly-pilots" class="">
-BasicMed
+<a href="http://foundation.aopa.org" class="">
+AOPA Foundation
 </a>
 </li>
-<li>
+ <li>
 <a href="https://youcanfly.aopa.org/" class="">
 You Can Fly
 </a>
@@ -430,7 +690,7 @@ Insurance
 </li>
 <li>
 <a href="https://pilot-protection-services.aopa.org/" class="">
- Legal &amp; Medical
+Legal &amp; Medical
 </a>
 </li>
 <li>
@@ -439,8 +699,8 @@ AOPA Hangar
 </a>
 </li>
 <li>
-<a href="https://aopa.mybrightsites.com" class="">
-Store
+<a href="https://pilotgear.aopa.org/" class="">
+Pilot Gear Store
 </a>
 </li>
 </ul>
@@ -450,51 +710,38 @@ Store
 <div class="l-wrapper">
 <div class="header__logo">
 <a href="/">
-<img src="/-/media/images/aopa-main/aopa-logo_primary.png?h=97&amp;w=160&amp;la=en&amp;hash=F60E140F9A5451D30F07ED2F1319AAE02320F4CF" alt="AOPA Logo">
+<img src="/-/media/images/aopa-main/aopa-logo_primary.png?h=97&amp;w=160&amp;la=en&amp;hash=722CB1A30EB54574742FFF63654AE172EC5DCA2D" alt="AOPA Logo">
 </a>
 </div>
 <div class="header__logo--sticky">
 <a href="/">
-<img src="/-/media/images/aopa-main/aopa-special-use-logo_wings-only.png?h=32&amp;w=160&amp;la=en&amp;hash=9B770512863D6E3568567883A5087DB11851DAB8">
+<img src="/-/media/images/aopa-main/aopa-special-use-logo_wings-only.png?h=32&amp;w=160&amp;la=en&amp;hash=4C67E38E7EEED07C8E62128B2BFC5B9BC441E038" alt="">
 </a>
 </div>
 <div class="header__aopa-links">
 <ul>
 <li class="">
-<a href="https://www.aopa.org/account/aopajoinform?pid=108967&amp;keycode=M1509WJREG">
+<a href="https://www.aopa.org/account/multipagejoin?pid=108967&amp;keycode=M1807W03&amp;promo=bbun">
 <svg>
 <use xlink:href="/dist/assets/svg-sprite.svg#membership"></use>
 </svg>
-Join
+Join Now
 </a>
 </li>
-<li class="header__spacer">
-<a href="https://www.aopa.org/account/aoparenewform?keycode=M1701WR">
-<svg>
-<use xlink:href="/dist/assets/svg-sprite.svg#membership"></use>
-</svg>
-Renew
-</a>
-</li>
-<li class="header__spacer">
+<li class="">
 <a href="/membership/aopa-credit-cards">
 <svg>
 <use xlink:href="/dist/assets/svg-sprite.svg#creditcard"></use>
 </svg>
-AOPA Credit Card
+ AOPA Credit Card
 </a>
 </li>
-<li class="header__spacer">
-<a href="https://www.aopa.org/donation/oneclickdonation?keycode=R1612WP01&amp;_ga=1.262431182.310185605.1455221345">
+<li class="">
+<a href="https://www.aopa.org/donation/oneclickdonation?keycode=R1812WP01HP">
 <svg>
 <use xlink:href="/dist/assets/svg-sprite.svg#donate"></use>
 </svg>
 Donate
-</a>
-</li>
-<li class="header__spacer">
-<a href="http://foundation.aopa.org">
- Foundation
 </a>
 </li>
 <li class="header__user" id="header__user">
@@ -550,12 +797,15 @@ Travel
 </li>
 <li>
 <a href="/go-fly">
-PILOT RESOURCES
+Pilot Resources
 </a>
 <ul class="header__nav-sub-list">
 <li class="header__nav-sub-list-close">Close <svg><use xlink:href="/dist/assets/svg-sprite.svg#x"></use></svg></li>
 <li>
 <a href="/go-fly/view-all-go-fly">View all Pilot Resources</a>
+</li>
+<li>
+<a href="/go-fly/basicmed">BasicMed</a>
 </li>
 <li>
 <a href="/go-fly/medical-resources">Medical Resources</a>
@@ -566,8 +816,11 @@ PILOT RESOURCES
 <li>
 <a href="/go-fly/tfrs">TFRs</a>
 </li>
- <li>
+<li>
 <a href="/go-fly/airport-directory">Airport Directory</a>
+</li>
+<li>
+<a href="/go-fly/drones">Drone Pilot Resources</a>
 </li>
 </ul>
 </li>
@@ -592,6 +845,12 @@ News &amp; Videos
 <li>
 <a href="/news-and-media/flyby">AOPA FlyBy</a>
 </li>
+<li>
+<a href="/news-and-media/aopa-drone-gallery">AOPA Drone Gallery</a>
+</li>
+<li>
+<a href="/news-and-media/podcasts-redirect">Podcasts</a>
+</li>
 </ul>
 </li>
 <li>
@@ -611,10 +870,7 @@ Training &amp; Safety
 </li>
 <li>
 <a href="/training-and-safety/flight-schools">Flight Schools</a>
-</li>
-<li>
-<a href="/training-and-safety/drone-pilots">Drone Pilots</a>
-</li>
+ </li>
 <li>
 <a href="/training-and-safety/students">Students</a>
 </li>
@@ -633,7 +889,10 @@ Training &amp; Safety
 <li>
 <a href="/training-and-safety/air-safety-institute">Air Safety Institute</a>
 </li>
- </ul>
+<li>
+<a href="/training-and-safety/drone-pilots">Drone Pilot Resources</a>
+</li>
+</ul>
 </li>
 <li>
 <a href="/advocacy">
@@ -657,6 +916,9 @@ Advocacy
 <a href="/advocacy/state-advocacy">State Advocacy</a>
 </li>
 <li>
+<a href="/advocacy/basicmed">BasicMed</a>
+</li>
+<li>
 <a href="/advocacy/airports-and-airspace/airport-advocacy/oppose-atc-privatization">Oppose ATC "Privatization"</a>
 </li>
 <li>
@@ -675,7 +937,7 @@ Advocacy
 </li>
 <li>
 <a href="/community">
-Community
+ Community
 </a>
 <ul class="header__nav-sub-list">
 <li class="header__nav-sub-list-close">Close <svg><use xlink:href="/dist/assets/svg-sprite.svg#x"></use></svg></li>
@@ -699,7 +961,7 @@ Community
 </li>
 <li>
 <a href="/community/red-bull-air-race">Red Bull Air Race</a>
- </li>
+</li>
 <li>
 <a href="/community/aopa-hangar">AOPA Hangar</a>
 </li>
@@ -711,6 +973,9 @@ Community
 </li>
 <li>
 <a href="/community/airventure">AOPA at EAA AirVenture</a>
+</li>
+<li>
+<a href="/community/flyby-crew">FlyBy Crew</a>
 </li>
 </ul>
 </li>
@@ -737,6 +1002,9 @@ Membership
 </li>
 <li>
 <a href="/membership/sweeps">AOPA Super Cub Sweepstakes</a>
+</li>
+<li>
+<a href="/membership/personal">Personal Insurance</a>
 </li>
 </ul>
 </li>
@@ -773,7 +1041,7 @@ Travel
 <a href="/travel/explore-airports">Explore Airports</a>
 </li>
 <li>
- <a href="/travel/destinations">Travel Stories</a>
+<a href="/travel/destinations">Travel Stories</a>
 </li>
 <li>
 <a href="/travel/cars">Book and Save on Car Rentals</a>
@@ -785,7 +1053,7 @@ Travel
 <a href="/travel/airport-directory">Airport Directory</a>
 </li>
 <li>
-<a href="/travel/aopa-flight-planner">AOPA Flight Planner</a>
+ <a href="/travel/aopa-flight-planner">AOPA Flight Planner</a>
 </li>
 <li>
 <a href="/travel/aopa-weather">AOPA Weather</a>
@@ -800,12 +1068,15 @@ Travel
 </li>
 <li>
 <a href="/go-fly">
-PILOT RESOURCES
+Pilot Resources
 <span><svg><use xlink:href="/dist/assets/svg-sprite.svg#downarrow"></use></svg></span>
 </a>
 <ul class="header__nav-sub-list">
 <li>
 <a href="/go-fly/view-all-go-fly">View all Pilot Resources</a>
+</li>
+<li>
+<a href="/go-fly/basicmed">BasicMed</a>
 </li>
 <li>
 <a href="/go-fly/medical-resources">Medical Resources</a>
@@ -818,6 +1089,9 @@ PILOT RESOURCES
 </li>
 <li>
 <a href="/go-fly/airport-directory">Airport Directory</a>
+</li>
+<li>
+<a href="/go-fly/drones">Drone Pilot Resources</a>
 </li>
 </ul>
 </li>
@@ -842,8 +1116,14 @@ News &amp; Videos
 <li>
 <a href="/news-and-media/flyby">AOPA FlyBy</a>
 </li>
- </ul>
+<li>
+<a href="/news-and-media/aopa-drone-gallery">AOPA Drone Gallery</a>
 </li>
+<li>
+<a href="/news-and-media/podcasts-redirect">Podcasts</a>
+</li>
+</ul>
+ </li>
 <li>
 <a href="/training-and-safety">
 Training &amp; Safety
@@ -863,9 +1143,6 @@ Training &amp; Safety
 <a href="/training-and-safety/flight-schools">Flight Schools</a>
 </li>
 <li>
-<a href="/training-and-safety/drone-pilots">Drone Pilots</a>
-</li>
-<li>
 <a href="/training-and-safety/students">Students</a>
 </li>
 <li>
@@ -882,6 +1159,9 @@ Training &amp; Safety
 </li>
 <li>
 <a href="/training-and-safety/air-safety-institute">Air Safety Institute</a>
+</li>
+<li>
+<a href="/training-and-safety/drone-pilots">Drone Pilot Resources</a>
 </li>
 </ul>
 </li>
@@ -907,9 +1187,12 @@ Advocacy
 <a href="/advocacy/state-advocacy">State Advocacy</a>
 </li>
 <li>
+<a href="/advocacy/basicmed">BasicMed</a>
+</li>
+<li>
 <a href="/advocacy/airports-and-airspace/airport-advocacy/oppose-atc-privatization">Oppose ATC "Privatization"</a>
 </li>
- <li>
+<li>
 <a href="/advocacy/airports-and-airspace/airport-advocacy/egregious-fbo-pricing">Egregious FBO pricing</a>
 </li>
 <li>
@@ -962,6 +1245,9 @@ Community
 <li>
 <a href="/community/airventure">AOPA at EAA AirVenture</a>
 </li>
+<li>
+<a href="/community/flyby-crew">FlyBy Crew</a>
+</li>
 </ul>
 </li>
 <li>
@@ -988,6 +1274,9 @@ Membership
 <li>
 <a href="/membership/sweeps">AOPA Super Cub Sweepstakes</a>
 </li>
+<li>
+<a href="/membership/personal">Personal Insurance</a>
+</li>
 </ul>
 </li>
 </ul>
@@ -1007,8 +1296,8 @@ Membership
 FBO Fees
 </a>
 </li> <li>
-<a href="/advocacy/pilots/medical/fit-to-fly-pilots">
-BasicMed
+<a href="http://foundation.aopa.org">
+AOPA Foundation
 </a>
 </li> <li>
 <a href="https://youcanfly.aopa.org/">
@@ -1035,8 +1324,8 @@ Legal &amp; Medical
 AOPA Hangar
 </a>
 </li> <li>
-<a href="https://aopa.mybrightsites.com">
-Store
+<a href="https://pilotgear.aopa.org/">
+Pilot Gear Store
 </a>
 </li> </ul>
 </div>
@@ -1044,33 +1333,23 @@ Store
 </div>
 <ul class="header__ctas">
 <li class="">
-<a href="https://www.aopa.org/account/aopajoinform?pid=108967&amp;keycode=M1509WJREG">
+<a href="https://www.aopa.org/account/multipagejoin?pid=108967&amp;keycode=M1807W03&amp;promo=bbun">
 <svg>
 <use xlink:href="/dist/assets/svg-sprite.svg#membership"></use>
-</svg> Join
+</svg>  Join Now
 </a>
-</li> <li class="header__spacer">
-<a href="https://www.aopa.org/account/aoparenewform?keycode=M1701WR">
-<svg>
-<use xlink:href="/dist/assets/svg-sprite.svg#membership"></use>
-</svg> Renew
-</a>
-</li> <li class="header__spacer">
-<a href="https://www.aopa.org/donation/oneclickdonation?keycode=R1612WP01&amp;_ga=1.262431182.310185605.1455221345">
+</li> <li class="">
+<a href="https://www.aopa.org/donation/oneclickdonation?keycode=R1812WP01HP">
 <svg>
 <use xlink:href="/dist/assets/svg-sprite.svg#donate"></use>
 </svg> Donate
-</a>
-</li> <li class="header__spacer">
-<a href="http://foundation.aopa.org">
-Foundation
 </a>
 </li> </ul>
 </div>
 <div class="header__toggle">
 <div class="header__logo">
 <a href="/">
-<img src="/-/media/images/aopa-main/aopa-special-use-logo_wings-only.png?h=32&amp;w=160&amp;la=en&amp;hash=9B770512863D6E3568567883A5087DB11851DAB8">
+<img src="/-/media/images/aopa-main/aopa-special-use-logo_wings-only.png?h=32&amp;w=160&amp;la=en&amp;hash=4C67E38E7EEED07C8E62128B2BFC5B9BC441E038" alt="">
 </a>
 </div>
 <div class="header__burger"><svg><use xlink:href="/dist/assets/svg-sprite.svg#hamburger"></use></svg> Menu</div>
@@ -1103,7 +1382,7 @@ Foundation
 <h4>Our Commitment</h4>
 <p><strong>AOPA is committed to maintaining your privacy and providing you with options regarding the use of your personal information. </strong></p>
 <h4>Privacy Officer</h4>
-<p>AOPA has a dedicated Privacy Officer. If you ever have a question about this Privacy Policy or how your personal information is handled please contact our Privacy Officer by calling 800/USA-AOPA or email <a href="mailto:memberservices@aopa.org">memberservices@AOPA.org</a>.</p>
+<p>AOPA has a dedicated Privacy Officer. If you ever have a question about this Privacy Policy or how your personal information is handled please contact our Privacy Officer by calling 800/USA-AOPA or email <a href="/cdn-cgi/l/email-protection#a0cdc5cdc2c5d2d3c5d2d6c9c3c5d3e0c1cfd0c18ecfd2c7"><span class="__cf_email__" data-cfemail="e18c848c8384939284939788828492a1a0aeb1a0cf8e9386">[email&nbsp;protected]</span></a>.</p>
 <h4>What information do we collect?</h4>
 <ul class="list">
 <li>We collect information you provide such as your name, address, email address, contact information, and date of birth, to complete the transaction you request. </li>
@@ -1218,7 +1497,7 @@ Foundation
 <li>You can request that we only contact you through one of those methods of communication, or even specify what types of contacts you do not desire. </li>
 <li>For individual email solicitations pertaining to a specific product or offering, you may elect to unsubscribe.&nbsp; A link is located prominently in all of our email solicitations. </li>
 </ul>
-<p>Please let us know your preferences by calling us at 800/USA-AOPA (872-2672), <a href="/account/aopaaccount">updating your account information online</a>,&nbsp;or emailing us at PrivacyOfficer@AOPA.org. </p>
+<p>Please let us know your preferences by calling us at 800/USA-AOPA (872-2672), <a href="/account/aopaaccount">updating your account information online</a>,&nbsp;or emailing us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="fcac8e958a9d9f85b39a9a959f998ebcbdb3acbdd2938e9bd2">[email&nbsp;protected]</a> </p>
 <h2>Definitions</h2>
 <h4>Affiliated companies<sup>1</sup></h4>
 <ul class="list">
@@ -1227,7 +1506,7 @@ Foundation
 <ul><a href="http://insurance.aopa.org/about/legal" target="_blank">
 <li>AOPA Insurance Agency, Inc. privacy policy »</li>
 </a>
-<li><a href="/-/media/files/finance/aopaaviationfinanceprivacypolicy.pdf?la=en">AOPA Aviation Finance Company, LLC privacy policy&nbsp;»</a></li>
+<li><a href="/-/media/files/finance/aopaaviationfinanceprivacypolicy.pdf?la=en&amp;hash=1A8B9ECE94E8797494F6AA1FF4C762446B343DBF">AOPA Aviation Finance Company, LLC privacy policy&nbsp;»</a></li>
 </ul>
 </li>
 </ul>
@@ -1253,9 +1532,9 @@ Foundation
 <div class="promo-block nocontent">
 <a href="/community/events/aopa-fly-ins/2016-aopa-fly-ins" target="_self" class="promo-block__full-wrap-link">
 <picture>
-<source srcset="/-/media/images/aopa-main/community/events/flyins/2016/battle-creek/register-banner.jpg?mw=600&amp;mh=600&amp;as=1&amp;hash=A14720E3501B5121C089D030FFC74D6FFFDC03E2" media="(min-width: 881px)">
-<source srcset="/-/media/images/aopa-main/community/events/flyins/2016/battle-creek/register-banner.jpg?mw=880&amp;mh=495&amp;as=1&amp;hash=54D00A222A257B11F65836966F4D9C35E300DDEA" media="(min-width: 651px)">
-<img src="/-/media/images/aopa-main/community/events/flyins/2016/battle-creek/register-banner.jpg?mw=650&amp;mh=866&amp;as=1&amp;hash=D75CAF7657E160A00F296EFBF05F8EE5452B6AF6" alt="register for battle creek" class="promo-grid__image">
+<source srcset="/-/media/images/aopa-main/community/events/flyins/2016/battle-creek/register-banner.jpg?mw=600&amp;mh=600&amp;as=1&amp;hash=A8B8C374AEE4CE5D41E1FF8A1CC10AF6288A03FB" media="(min-width: 881px)">
+<source srcset="/-/media/images/aopa-main/community/events/flyins/2016/battle-creek/register-banner.jpg?mw=880&amp;mh=495&amp;as=1&amp;hash=D8F8F6952FC61A3C4A4A0B3722F405367D756078" media="(min-width: 651px)">
+<img src="/-/media/images/aopa-main/community/events/flyins/2016/battle-creek/register-banner.jpg?mw=650&amp;mh=866&amp;as=1&amp;hash=B8B9DC5504F86A1FE33D8C291D83AAD588B13622" alt="register for battle creek" class="promo-grid__image">
 </picture>
 </a><div class="promo-block__text"><a href="/community/events/aopa-fly-ins/2016-aopa-fly-ins" target="_self" class="promo-block__full-wrap-link">
 <h2 class="promo-block__title">
@@ -1278,7 +1557,7 @@ Check Out Our Other AOPA Fly-Ins
 <div class="l-wrapper">
 <div class="l-column">
 
-<script type="text/javascript">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
     OX_ad.showAdUnit("538287657");
 </script>
 </div>
@@ -1334,21 +1613,40 @@ Check Out Our Other AOPA Fly-Ins
 <li>
 <a href="/external-redirects-and-vanity-urls/aopa-job-board" class="footer__large-link">Aviation Jobs</a>
 </li>
+<li>
+<a href="/aopa-pilot-gear-store" class="footer__large-link">AOPA Pilot Gear Store</a>
+</li>
 </ul>
 </div>
 <div class="l-column column-270 footer__brand">
 <div class="footer__logo">
- <a href="/">
-<img src="/-/media/images/aopa-main/aopa-logo_primary.png?h=548&amp;w=900&amp;la=en&amp;hash=DCD3EDBCA927AD57E34922317511F7B1A1A8CD50" alt="AOPA Logo">
+<a href="/">
+<img src="/-/media/images/aopa-main/aopa-logo_primary.png?h=548&amp;w=900&amp;la=en&amp;hash=E456E6EF47E70650E42D050EB59E38A900C9D086" alt="AOPA Logo">
 </a>
 </div>
 <div class="footer__copyright">©2018 Aircraft Owners and Pilots Association</div>
-<div class="footer__info">
+ <div class="footer__info">
 <p>421 Aviation Way Frederick, MD, 21701</p>
-<p><strong style="font-weight:600;">800.872.2672</strong></p>
+<p><strong style="font-weight:600;"><a href="tel:800.872.2672">800.872.2672</a></strong></p>
 <style> 
 #back-to-top { display:none; }
 </style>
+<script language="JavaScript">
+// ========= Set up A/B testing for the join button
+var Quotation=new Array() // do not change this!
+
+Quotation[0] = "https://www.aopa.org/account/multipagejoin?pid=108967&keycode=M1807W03";
+//Quotation[1] = "https://www.aopa.org/account/aopajoinform?pid=108967&keycode=M1807W04";
+
+// ======================================
+// Do not change anything below this line
+// ======================================
+var Q = Quotation.length;
+var whichQuotation=Math.round(Math.random()*(Q-1));
+//function showQuotation(){document.write(Quotation[whichQuotation]);}
+//showQuotation();
+//var myListItems = document.querySelector(".header__aopa-links ul li:first-child a").href = (Quotation[whichQuotation]);
+</script>
 </div>
 </div>
 <div class="l-column column-270 footer__social">
@@ -1381,10 +1679,9 @@ Check Out Our Other AOPA Fly-Ins
 </svg>
 </a>
 </div>
-<script src="/bundles/scripts/aopa/footer.js?v=SziWZ_mq2V_6CHKV54mFmRF5WbzRMAdDH5MItTvjHjE1"></script>
+<script src="/bundles/scripts/aopa/footer.js?v=E9OPQEemEpamB3chw8wSq-lOVhTZNt85v4sMzvusL5I1"></script>
 <script src="/dist/js/aopa.js"></script>
 <script id="dsq-count-scr" src="//aopa.disqus.com/count.js" async=""></script>
 
-<input id="MediaFramework_ItemId" name="MediaFramework_ItemId" type="hidden" value="E47F8B652726456EA97ADBCE59A8C9EB">
 
 <script src="//browser-update.org/update.min.js"></script></body></html>
