@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laredoute.co.uk privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625045740id_/https%3A//www.laredoute.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laredoute.co.uk privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231041711id_/https%3A//www.laredoute.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # La Redoute Privacy Policy | La Redoute
 
@@ -415,7 +415,7 @@ In relation to marketing profiling (selecting you for specific promotions and ma
 
 ### 5.4 Withdrawal of consent
 
-Where we are processing your data based on your consent (see section 2 above), you may withdraw your consent at any time by contacting us at the above address or by informing us by phone or other means we may provide (e.g. by clicking “unsubscribe” at the bottom of an email or replying “STOP” to an SMS).
+Where we are processing your data based on your consent (see section 2 above), you may withdraw your consent at any time by contacting us at the above address or by informing us by phone or other means we may provide (e.g. by clicking “unsubscribe” at the bottom of an email or replying “BLOCK” to an SMS).
 
 ### 5.5 What if you are not satisfied with the response you receive from us?
 
@@ -503,7 +503,7 @@ We use your contact details to send targeted marketing by email, post, text (SMS
 
 ### 11.2 Electronic marketing (by email, sms, & phone)
 
-EU Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 (as implemented in the UK by the Privacy & Electronic Communications Regulations 2003) permits electronic marketing (email, SMS, phone) to existing customers for similar products and services without consent as long as customers are given an easy means to refuse (opt-out), e.g. by clicking an “unsubscribe” link or texting “STOP”.
+EU Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 (as implemented in the UK by the Privacy & Electronic Communications Regulations 2003) permits electronic marketing (email, SMS, phone) to existing customers for similar products and services without consent as long as customers are given an easy means to refuse (opt-out), e.g. by clicking an “unsubscribe” link or texting “BLOCK”.
 
 Otherwise, your consent is required before we can market to you by electronic means. We seek your consent at various points, e.g. our online banners asking if you would like to sign up to newsletters.
 
@@ -515,18 +515,17 @@ We may ask you to consent to the following:
 
 
 
-You can opt-out of marketing easily at any time as follows:
+You can opt-out of marketing easily at any time e.g. :
 
-  * When creating an account, tick "no" (or similar) in boxes related to marketing
-  * Email: by clicking the “unsubscribe” link on each email or through My Account
-  * Texts (SMS): by replying “STOP” or through My Account
+  * Email: by clicking the “unsubscribe” link on each email
+  * Texts (SMS): by replying “BLOCK”
   * All: By speaking with a customer services adviser or by contacting us at the address in section 5.2.
 
 
 
 ### 11.3 Marketing by post
 
-We have a legitimate interest (see section 2) in sending you marketing by post but, if you ask us not to, we won’t. You can opt-out of marketing by post at any time through My Account, by speaking with our customer services team or writing to us at the address in section 5.2.
+We have a legitimate interest (see section 2) in sending you marketing by post but, if you ask us not to, we won’t. You can opt-out of marketing by post at any time by speaking with our customer services team or writing to us at the address in section 5.2.
 
 Please note that, if you have been pre-selected to receive a marketing publication by post before you opt-out, you may still receive that publication. It can take a few weeks for an opt-out request to be effective.
 
