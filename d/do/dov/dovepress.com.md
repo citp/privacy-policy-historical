@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dovepress.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626002045id_/https%3A//www.dovepress.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dovepress.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231231406id_/https%3A//www.dovepress.com/privacy.php) for the most accurate reproduction.*
 
 # Dove Medical Press Privacy Policy
 
@@ -235,13 +235,13 @@ In the event that you wish to exercise your Right to be Forgotten we can delete 
 
 **Data Capture Information**
 
-We will send you information according to the preferences you submitted via our online registration form. If you would like to change these preferences at any point you can log in to your secure user account [here ](https://web.archive.org/web/20180626002045id_/https%3A//login.php) then click on "Manage email alerts" to the left. Alternatively you can [email us](mailto:privacy@dovepress.com?subject=Dove%20Medical%20Press%20Privacy%20Policy%20change%20my%20preferences).
+We will send you information according to the preferences you submitted via our online registration form. If you would like to change these preferences at any point you can log in to your secure user account [here ](https://web.archive.org/web/20181231231406id_/https%3A//login.php) then click on "Manage email alerts" to the left. Alternatively you can [email us](mailto:privacy@dovepress.com?subject=Dove%20Medical%20Press%20Privacy%20Policy%20change%20my%20preferences).
 
 **Internal Marketing**
 
 Please note that your information may be used to send you details of our journals and services that we have identified as likely to be of interest to you. This will be in accordance with the preferences that you indicated when you completed the online form.
 
-If, at any point, you would like to opt-out of receiving communications from us please contact our [Data Protection Officer](mailto:privacy@dovepress.com?subject=Dove%20Medical%20Press%20Privacy%20Policy%20opt-out), or you can amend your preferences by logging in to your secure user account [here](https://web.archive.org/web/20180626002045id_/https%3A//login.php) and clicking on "Manage email alerts" in the left column.
+If, at any point, you would like to opt-out of receiving communications from us please contact our [Data Protection Officer](mailto:privacy@dovepress.com?subject=Dove%20Medical%20Press%20Privacy%20Policy%20opt-out), or you can amend your preferences by logging in to your secure user account [here](https://web.archive.org/web/20181231231406id_/https%3A//login.php) and clicking on "Manage email alerts" in the left column.
 
 **Other websites**
 
