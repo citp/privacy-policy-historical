@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blastingnews.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223224429id_/http%3A//www.blastingnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastingnews.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231102956id_/https%3A//www.blastingnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Blasting News
 
@@ -131,9 +131,14 @@ For further information on third parties installing cookies on our websites, wit
   * [Facebook](https://www.facebook.com/policy.php)
   * [Youtube](https://www.youtube.com/static?template=privacy_guidelines)
   * [IOL](http://privacy.italiaonline.it/common/cookie/privacy_tal.php)
+  * [Nielsen](https://priv-policy.imrworldwide.com/priv/browser/it/it/optout.html)
 
 
 
 In order to delete cookies stored on your computer, please refer to the guide of your browser and follow the instructions. 
 
 **Please note that by disabling “first party” cookies, you will not be able to navigate our website.**
+
+## Copyright Transfer Agreement
+
+Please [click here for your copy of the Copyright Transfer Agreement](https://static.blastingnews.com/media/pdf/Blasting_News_Contratto.pdf). Acceptance of the terms and conditions set out in said document are an obligatory condition for usage of the Blasting News platform. 
