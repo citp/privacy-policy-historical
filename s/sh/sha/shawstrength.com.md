@@ -1,87 +1,100 @@
-> *The following text is extracted and transformed from the shawstrength.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826023133id_/http%3A//www.shawstrength.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawstrength.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231040428id_/http%3A//shawstrength.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Shaw Strength
+# Privacy Policy - SHAWSTRENGTH
 
-ONLINE PRIVACY POLICY AGREEMENT
+This Privacy Policy discloses the privacy practices for the www.shawstrength.com site and various related services (together referred to as the “site”).  Shaw Strength Inc., the provider of the site (referred to as “us” or “we”), is committed to protecting your privacy online.  Please read the information below to learn the following regarding your use of this site.This Privacy Policy discloses the privacy practices for the www.shawstrength.com site and various related services (together referred to as the “site”).  Shaw Strength Inc., the provider of the site (referred to as “us” or “we”), is committed to protecting your privacy online.  Please read the information below to learn the following regarding your use of this site.
 
-Shaw Strength is committed to keeping any and all personal information collected of those individuals that visit our website and make use of our online facilities and services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with Shaw Strength of our commitment and realization of our obligation not only to meet but to exceed most existing privacy standards.
+You acknowledge that this Privacy Policy is part of our Site Terms of Use, and by accessing or using our site, you agree to be bound by all of its terms and conditions.  If you do not agree to these terms, please do not access or use this site.
 
-**_THEREFORE_** , this Privacy Policy Agreement shall apply to Shaw Strength and thus it shall govern any and all data collection and usage thereof. Through the use of [www.shawstrength.com](http://www.shawstrength.com/) you are herein consenting to the following data procedures expressed within this agreement. 
+We reserve the right to change this Privacy Policy at any time.  Such changes, modifications, additions or deletions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to issuing an E-mail to the E-mail address listed by registered users and posting the revised Policy on this page.  You acknowledge and agree that it is your responsibility to maintain a valid E-mail address as a registered user, review this site and this Policy periodically and to be aware of any modifications.  Your continued use of the site after such modifications will constitute your:  (a) acknowledgment of the modified Policy; and (b) agreement to abide and be bound by the modified Policy.
 
-                **Collection of Information**
+**1\. Types of Information Collected**
 
-**                 **This website collects various types of information, such as:
+In order to better provide you with our numerous services, we collect two types of information about our users:  Personally Identifiable Information and Non-Personally Identifiable Information.  Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site.
 
-  * Voluntarily provided information which may include your name, address, email address, billing and/or credit card information etc., which may be used when you purchase products and/or services and to deliver the services you have requested.
+**In compliance with the U.S. Children’s Online Privacy Protection Act (COPPA), our services and products are not directed to users under 18 years of age unless accessed under the careful supervision and consent of a parent or legal guardian.  Any use by someone under this age is strictly prohibited and will be terminated immediately upon discovery. Further, any personally identifiable information provided by someone under 13 or that identifies someone under this age, will be deleted immediately upon discovery if in violation of this restriction.**
 
-  * Information automatically collected when visiting our website, which may include cookies, third party tracking technologies and server logs.
+Personally Identifiable Information:  This refers to information that lets us know the specifics of who you are.  When you engage in certain activities on this site, such as registering for a membership, ordering a product or service, submitting content and/or posting content in discussion forums or other public areas, entering a contest or sweepstakes, filling out a survey, or sending us feedback, we may ask you to provide certain information about yourself by filling out and submitting an online form.  It is completely optional for you to elect to engage in these activities, however, we may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), E-mail address, exercise goals, current workouts, health limitations, telephone and facsimile numbers, and other personal identifying information.  When ordering products or services on the site, you may be asked to provide a credit card number.  Depending upon the activity, some of the information we ask you to provide is identified as mandatory and some as voluntary.  If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
 
+Non-Personally Identifiable Information:  This refers to information that does not by itself identify a specific individual.  We gather certain information about you based upon where you visit on our site in several ways.  This information is compiled and analyzed on both a personal and an aggregated basis.  This information may include the Web site’s Uniform Resource Locator (“URL”) that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol (“IP”) address.  A URL is the global address of documents and other resources on the World Wide Web.  An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol (“TCP/IP”) network, such as the World Wide Web.  Networks like the Web use the TCP/IP protocol to route information based on the IP address of the destination.  In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer.  Computers require IP addresses in order for users to communicate on the Internet.
 
+**2\. Collection Methods and Use of Information**
 
+We do not collect any Personally Identifiable Information about you unless you voluntarily provide it to us.  You provide certain Personally Identifiable Information to us when you (a) register for our services and register your E-mail address with us; (b) enter sweepstakes or contests sponsored by us or one of our partners; (c) sign up for special offers from selected third parties; (d) send E-mail messages, submit forms or transmit other information by telephone or letter; or (e) submit your credit card or other payment information when ordering and purchasing products and services on our site.  We may also collect information from you at other points on our site that state that such information is being collected.
 
-Please rest assured that this site shall only collect personal information that you knowingly and willingly provide by way of surveys, completed membership forms, and emails. It is the intent of this site to use personal information only for the purpose for which it was requested and any additional uses specifically provided on this site.
+In addition, we may also collect, or our third party ad server and/or content server may collect, certain Non-Personally Identifiable Information.  This information is ultimately stored in the form of store categories, and, in some cases, specific URLs.  We use your IP address to diagnose problems with our servers, software, to administer our site and to gather demographic information.  Our third party ad servers will also provide us with summary, but not individual, reports that will tell us how many ads were presented and clicked upon at our site.
 
-We may also gather information about the type of browser you are using, IP address or type of operating system to assist us in providing and maintain superior quality service.
+We will primarily use your Personally Identifiable Information to provide our services to you, as required by our agreements with you.  We will also use Personally Identifiable Information to enhance the operation of our site, fill orders, improve our marketing and promotional efforts, statistically analyze site use, improve our product and service offerings, and customize our site’s content, layout, and services.  We may use Personally Identifiable Information to deliver information to you and to contact you regarding administrative notices.  We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems and enforce our agreements with you, including our Site Terms of Use, and this Privacy Policy.
 
-It is highly recommended and suggested that you review the privacy policies and statements of any website you choose to use or frequent as a means to better understand the way in which other websites garner, make use of and share information collected.
+**3\. Release of Information**
 
-**Use of Information Collected**
+We do not sell, trade, or rent your Personally Identifiable Information to others.  We do provide some of our services through contractual arrangements with affiliates, services providers, partners and other third parties.  We and our service partners use your Personally Identifiable Information to operate our sites and to deliver their services.  For example, we must release your credit card information to the card-issuing bank to confirm payment for products and services purchased on this site; release your address information to the delivery service to deliver products that you ordered; and provide order information to third parties that help us provide customer service.
 
-Shaw Strength may collect and may make use of personal information to assist in the operation of our website and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from [www.shawstrength.com](http://www.shawstrength.com/) . Shaw Strength may also be in contact with you with regards to completing surveys and/or research questionnaires related to your opinion of current or potential future services that may be offered. 
+We will encourage our service partners to adopt and post privacy policies.  However, the use of your Personally Identifiable Information by our service partners is governed by the privacy policies of those service partners, and is not subject to our control.
 
-Shaw Strength does not now, nor will it in the future, sell, rent or lease any of our customer lists and/or names to any third parties.
+Occasionally we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities.  We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation.  We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities.  We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
 
-Shaw Strength may deem it necessary to follow websites and/or pages that our users may frequent in an effort to gleam what types of services and/or products may be the most popular to customers or the general public.
+We may also provide Non-Personally Identifiable Information about our customers’ sales, traffic patterns, and related site information to third party advertisers, but these statistics do not include any Personally Identifiable Information.
 
-Shaw Strength may disclose your personal information, without prior notice to you, only if required to do so in accordance with applicable laws and/or in a good faith belief that such action is deemed necessary or is required in an effort to:
+**4\. Updating and Correcting Information**
 
-  * Remain in conformance with an decrees, laws and/or statutes or in an effort to comply with any process which may be served upon Shaw Strength and/or our website;
+We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us.  You may change any of your Personally Identifiable Information in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this site.  You may also access and correct your personal information and privacy preferences by writing us at:
 
-  * Maintain, safeguard and/or preserve all the rights and/or property of Shaw Strength; and
+Shaw Strength Inc.  
+P.O. Box 322  
+Brighton, CO 80601
 
-  * Perform under demanding conditions in an effort to safeguard the personal safety of users of [www.shawstrength.com](http://www.shawstrength.com/) and/or the general public. 
+Please include your name, address, and/or E-mail address when you contact us.
 
+We encourage you to promptly update your Personally Identifiable Information if it changes.  You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on this site.  In addition, it may be impossible to completely delete your information without some residual information because of backups.
 
+**5\. User Choices on Collection and Use of Information**
 
+We may, from time to time, send you E-mail regarding our products and services.  In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you.  Only Shaw Strength Inc. (or agents working on behalf of Shaw Strength Inc. and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers.  If you do not want to receive such mailings, simply tell us when you give us your personal information.  Or, at any time you can easily edit your account information to no longer receive such offers and mailings.
 
-**Children Under Age of 13**
+You also have choices with respect to cookies, as described below.  By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies.  If you choose to reject all cookies some parts of our site may not work properly in your case.
 
-Shaw Strength does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system’s database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use this website. 
+**6\. Security of Information**
 
-**Unsubscribe or Opt-Out**
+At our site you can be assured that your Personally Identifiable Information is secure, consistent with current industry standards.  The importance of security for all Personally Identifiable Information associated with our user is of utmost concern to us.  Your Personally Identifiable Information is protected in several ways.  Access by you to your Personally Identifiable Information is available through a password and unique customer ID selected by you.  This password is encrypted.  We recommend that you do not divulge your password to anyone.  In addition, your Personally Identifiable Information resides on a secure server that only selected Shaw Strength Inc. personnel and contractors have access to via password.  We encrypt your Personally Identifiable Information and thereby prevent unauthorized parties from viewing such information when it is transmitted to us.
 
-All users and/or visitors to our website have the options to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website please send an email that you wish to unsubscribe to [info@shawstrength.com](mailto:info@shawstrength.com). If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out. 
+Personal information that you provide that is not Personally Identifiable Information also resides on a secure server and is only accessible via password.  Since this information is not accessible from outside Shaw Strength Inc. you will not be asked to select a password in order to view or modify such information.
 
-**Links to Other Web Sites**
+In order to most efficiently serve you, credit card transactions and order fulfillment are handled by established third party banking, processing agents and distribution institutions.  They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order.
 
-Our website does contain links to affiliate and other websites. Shaw Strength does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website.
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure.  As a result, while we strive to protect your Personally Identifiable Information, you acknowledge that:  (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party.
 
-**Security**
+**7\. Cookies**
 
-Shaw Strength shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to our offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user’s personal information under our control. 
+When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site.  A cookie is a small data text file, which a Web site stores on your computer’s hard drive (if your Web browser permits) that can later be retrieved to identify you to us.  Our cookies store randomly assigned user identification numbers, the country where you are located, and your first name to welcome you back to our site.  The cookies make your use of the site easier, make the site run more smoothly and help us to maintain a secure site.  You are always free to decline our cookies if your browser permits, but some parts of our site may not work properly in that case.
 
-The company also uses Secure Socket Layer (SSL) for authentication and private communications in an effort build user’s trust and confidence in the internet and website use by providing simple and secure access and communication of credit card and personal information.
+We may use an outside ad serving company to display banner advertisements on our site.  As part of their service, they will place a separate cookie on your computer.  We will not provide any third-party ad server with any of your Personally Identifiable Information or information about your purchases.  We and our third party ad server will collect and use Non-Personally Identifiable Information about you, such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server and whether you responded to a particular ad.  Other advertisers may also place banner ads on our site in the same manner as above, but we will not disclose any Personally Identifiable Information to them.
 
-**Changes to Privacy Policy Agreement**
+**8\. Google Analytics (Only use if it applies to the site)**
 
-Shaw Strength reserves the right to update and/or change the terms of our privacy policy, and as such we will post those changes to our website homepage at [www.shawsterngth.com](http://www.shawsterngth.com/), so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time Shaw Strength decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email. Users at that time shall have the option as to whether or not to permit the use of their information in the separate manner. 
+Google Analytics is a program used to track visitors to this Site, and it primarily helps measure how users interact with the Site content. Google Analytics stores information about what pages you visit, how long you are on the Site, how you got here and what links you click on. This analytics data is collected via a JavaScript tag in the pages of this Site and is not tied in any way to any Personally Identifiable Information.
 
-**Acceptance of Terms**
+The information generated about your use of the Site including your IP address is transmitted to Google. The information is then used to evaluate visitor interactions with this Site and to compile reports on website traffic activity for www.shawstrength.com. Neither Shaw Strength Inc. nor Google will ever link or seek to link Personally Identifiable Information provided by you to the Site to the data collected by Google Analytics.
 
-Through the use of this website, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further sue or our sites. In addition, your continued use of our website following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes. 
+If you would like to opt out of Google Analytics, Google has developed a tool that works with major internet browsers to permit you to opt-out.  For more information and to install their opt-out tool, please click here: <https://tools.google.com/dlpage/gaoptout>.
 
-**How to Contact Us**
+**9\. Privacy Policies of Third Party Sites**
 
-If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email or mailing address.
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you.  Other sites accessible through our site have their own privacy policies and data collection, use and disclosure practices.  Please consult each site’s privacy policy.  We are not responsible for the policies or practices of third parties.  Additionally, other companies which place advertising on our site may collect information about you when you view or click on their advertising through the use of cookies.  We cannot control this collection of information.  You should contact these advertisers directly if you have any questions about their use of the information that they collect.
 
-**Email:   **[info@shawstrength.com](mailto:info@shawstrength.com)
+**10\. Miscellaneous Privacy Issues**
 
-**Mailing Address:**
+You must be at least 18 years old to have our permission to use this site.  Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors that are under 18 years of age.
 
-                                Shaw Strength
+At www.shawstrength.com, we  **DO NOT**  respond to Do Not Track signals.
 
-                                P.O. Box 322
+You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. your name, E-mail address, etc.) in the discussion forums or other public areas on this site, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages from third parties.  Such activities are beyond our control and this Policy does not apply to such information.  Any submissions to chat rooms or other public areas on this site are accepted with the understanding that they are accessible to all third parties.  If you do not want your comments to be viewed by third parties, you are advised not to make any submissions.  Ultimately, you are solely responsible for maintaining the secrecy of your password and/or account information.  Please be careful and responsible whenever you’re online.
 
-                                Brighton, Colorado 80601
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to:
 
-12/12/2016
+Shaw Strength Inc.  
+Attn:  Privacy Compliance Officer  
+P.O. Box 322  
+Brighton, CO 80601
+
+You may also contact us by E-mail at shawstrength@yahoo.com.
