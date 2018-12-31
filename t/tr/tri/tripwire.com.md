@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625120216id_/https%3A//www.tripwire.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231113007id_/https%3A//www.tripwire.com/legal/privacy) for the most accurate reproduction.*
 
 # Tripwire Privacy Policy
 
@@ -136,24 +136,18 @@ Tripwire does not publish text, images, or multimedia content that portray nudit
 
 If you have any further questions or concerns about Tripwire's Privacy Notice, please contact us at [privacy@tripwire.com](mailto:privacy@tripwire.com) with the subject line heading of “Privacy Notice.” You can also call us at [503.276.7500](tel:+15032767500) or send mail directed to:
 
-Tripwire Inc. 
-
-ATTN: Legal Department 
-
-101 SW Main St., Ste. 1500 
-
-Portland, OR 97204 
-
-U.S.A. 
+Tripwire Inc.  
+ATTN: Legal Department  
+308 SW Second Ave, Suite 400  
+Portland, OR 97204  
+U.S.A.
 
 ###### Tripwire Contact
 
 This is the Website for Tripwire, Inc. Our postal address is:
 
-Tripwire Headquarters
-
-101 SW Main St., Ste. 1500
-
+Tripwire Headquarters  
+308 SW Second Ave, Suite 400  
 Portland, OR 97204
 
 We can be reached via e-mail at [webmaster@tripwire.com](mailto:webmaster@tripwire.com) or you can reach us by telephone at [503.276.7500](tel:+15032767500).
