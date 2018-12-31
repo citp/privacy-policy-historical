@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pubmatic.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629125553id_/https%3A//pubmatic.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubmatic.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231180242id_/https%3A//pubmatic.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PubMatic
 
-**Last Updated: May 18, 2018; Effective: May 25, 2018.   **Please read our [summary of changes](https://pubmatic.com/legal/summary-of-changes/) to this Privacy Policy.
+**Last Updated: October 19, 2018.   **Please read our [summary of changes](https://pubmatic.com/legal/summary-of-changes/) to this Privacy Policy.
 
 PubMatic is an advertising technology company that provides a variety of online advertising-related services (see “ **Who We Are**“). We are concerned about privacy issues and want you to be familiar with how we collect, use, and share information and how you can exercise the privacy rights available to you.  This Privacy Policy (“ **Policy** ”) covers the information that we may process:
 
@@ -129,7 +129,7 @@ The personal information we collect may include contact information (such as nam
 
 When using the PubMatic Properties, we or our third-party partners may automatically collect certain information from an individual’s device.  In some countries, including countries in the EU, this information may be considered personal data under applicable data protection laws.
 
-Specifically, the information we collect automatically may include IP address, operating system type and version, browser type and version, cookie ID, an individual’s activities on the PubMatic Properties, and other information about the individual’s system and connection and how the individual interacts with the PubMatic Properties and other websites.  We and our third-party partners may collect this information as a part of log files and through the use of cookies or other tracking technologies, as explained further under the heading “Cookies and Similar Tracking Technology“.
+Specifically, the information we collect automatically may include IP address, operating system type and version, browser type and version, cookie ID, an individual’s activities on the PubMatic Properties, and other information about the individual’s system and connection and how the individual interacts with the PubMatic Properties and other websites.  We and our third-party partners may collect this information as a part of log files and through the use of cookies or other tracking technologies, as explained further in our [Website Cookie Policy](https://pubmatic.com/legal/website-cookie-policy/).
 
 **3.2       HOW DO WE USE YOUR INFORMATION?**
 
@@ -178,7 +178,7 @@ Information collected from our Ad Services and PubMatic Properties may be disclo
 
 **Opting out of receiving electronic communications from us   **
 
-If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt out of receiving these marketing-related emails by contacting us at [privacy@pubmatic.com](mailto:privacy@pubmatic.com) or by clicking on the opt-out link within the email message that you receive from us.  Please also note that if you do opt out of receiving marketing-related emails from us, we may still be required to send you administrative messages relating to the our services from time to time.
+If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt out of receiving these marketing-related emails by contacting us at [privacy@pubmatic.com](mailto:privacy@pubmatic.com) or by clicking on the opt-out link within the email message that you receive from us.  Please also note that if you do opt out of receiving marketing-related emails from us, we may still be required to send you administrative messages relating to our services from time to time.
 
 **Opting out of our sharing of your personal information with affiliates for their direct marketing purposes   **
 
@@ -226,7 +226,7 @@ You have the following data protection rights:
 
 Please note that because most of the information we store can only identify a particular browser or device, and cannot directly identify you personally, you may need to provide us with some additional information to enable us to identify the personal information we hold about you and ensure that we accurately fulfil your request and do not infringe on the privacy rights of other individuals.
 
-You can exercise your rights at any time by contacting us at [privacy@pubmatic.com](mailto:privacy@pubmatic.com). Please review our [Data Subject Rights Notice](https://pubmatic.com/legal/eea-data-subject-rights-notice/) for further information and instructions on how to exercise your rights.
+You can exercise your rights at any time by contacting us at [privacy@pubmatic.com](mailto:privacy@pubmatic.com). We will respond to your request in accordance with our obligations under applicable privacy laws. Please review our [Data Subject Rights Notice](https://pubmatic.com/legal/eea-data-subject-rights-notice/) for further information and instructions on how to exercise your rights.
 
 **4.4        LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION (EEA END USERS AND VISITORS ONLY) **
 
@@ -238,7 +238,7 @@ If you have questions about or need further information concerning the legal bas
 
 **4.5        THIRD PARTIES **
 
-This Policy does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including our vendors or any other third party operating any site or service to which the Ad Services or PubMatic Properties link.  The inclusion of a link through the Ad Services or Online Property does not imply endorsement of the linked site or service by us or by our affiliates.
+This Policy does not address, and except as otherwise described in this Policy, we are not responsible for, the privacy, information, or other practices of any third parties, including our vendors or any other third party operating any site or service to which the Ad Services or PubMatic Properties link.  The inclusion of a link through the Ad Services or Online Property does not imply endorsement of the linked site or service by us or by our affiliates.
 
 Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any personal information you disclose to other organizations through or in connection with the Ad Services or PubMatic Properties.
 
