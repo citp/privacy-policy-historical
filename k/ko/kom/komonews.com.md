@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komonews.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620015913id_/http%3A//komonews.com/station/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komonews.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231235206id_/https%3A//komonews.com/station/privacy) for the most accurate reproduction.*
 
 # Seattle Privacy | News, Weather, Sports, Breaking News | KOMO
 
