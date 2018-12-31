@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localytics.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625154018id_/https%3A//www.localytics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localytics.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231235232id_/https%3A//www.localytics.com/privacy-policy) for the most accurate reproduction.*
 
 # Localytics Privacy Policy | Localytics
 
@@ -36,7 +36,7 @@ This Privacy Policy is provided in a layered format so you can click through to 
 
 #### **Minors**
 
-Our Sites are not intended for children under 16 years of age. No one under age 16 may provide any information to or on our Sites. We do not knowingly collect personal information from children under 16. If you are under 16, do not use or provide any information on our Sites or on or through any of their features, use any of the interactive or public comment features of our Sites or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us.
+Our Sites are not intended for children under 16 years of age. No one under age 16 may provide any information to or on our Sites. We do not knowingly collect personal information from children under 16. If you are under 16, do not use or provide any information on our Sites or on or through any of their features, use any of the interactive or public comment features of our Sites or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please [contact us](mailto:privacy@localytics.com).
 
 #### **Other Privacy Notices**
 
@@ -78,11 +78,11 @@ Email address:  | **[privacy@localytics.com](mailto:privacy@localytics.com)**
 Postal address:  | **2 Center Plaza, 3 rd Floor, Boston, MA 02108, USA**  
 Telephone number:  | **1-800-418-0746 or 1-617-418-4422**  
   
-If you are based in the European Union, you also have the right to make a complaint at any time to your local supervisory authority for data protection issues. We would, however, appreciate the chance to deal with your concerns before you approach the regulator so please contact us in the first instance.
+If you are based in the European Union, you also have the right to make a complaint at any time to your local supervisory authority for data protection issues. We would, however, appreciate the chance to deal with your concerns before you approach the regulator so please [contact us](mailto:privacy@localytics.com) in the first instance.
 
 #### Changes to the Privacy Policy and your duty to inform us of changes
 
-This version was last updated on May 23, 2018 and historic versions can be obtained by contacting us.
+This version was last updated on May 23, 2018 and historic versions can be obtained by [contacting us](mailto:privacy@localytics.com).
 
 We reserve the right to change the terms of this Privacy Policy at any time. We will notify you of any material changes by way of a visual alert on the Site announcing that the Privacy Policy has changed, and/or by way of email to those who have provided an email address to us.
 
@@ -158,13 +158,13 @@ We will only use your personal information when the law allows us to. Most commo
 • | Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.  
 • |  Where we need to comply with a legal or regulatory obligation  
   
-Generally, we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by contacting us.
+Generally, we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by [contacting us](mailto:privacy@localytics.com).
 
 Purposes for which we will use your personal information
 
 We have set out below, in a table format, a description of all the ways we plan to use your personal information, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
 
-Note that we may process your personal information for more than one lawful ground depending on the specific purpose for which we are using your information. Please contact us if you need details about the specific legal ground we are relying on to process your personal information where more than one ground has been set out in the table below.
+Note that we may process your personal information for more than one lawful ground depending on the specific purpose for which we are using your information. Please [contact us](mailto:privacy@localytics.com) if you need details about the specific legal ground we are relying on to process your personal information where more than one ground has been set out in the table below.
 
 Purpose/Activity
 
@@ -338,7 +338,7 @@ You will receive marketing communications from us if you have requested informat
 We will get your express opt-in consent before we share your personal data with any company outside Localytics for marketing purposes.
 
 **Opting out  
-**You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by contacting us at any time.
+**You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by [contacting us](mailto:privacy@localytics.com) at any time.
 
 Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a service purchase, service experience or other transactions.
 
@@ -349,7 +349,7 @@ Where you opt out of receiving these marketing messages, this will not apply to 
 **You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this Site may become inaccessible or not function properly. For more information about the cookies we use, please see our [cookie policy](https://web.archive.org/cookies).
 
 **Change of purpose**  
-We will only use your personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us.
+We will only use your personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [contact us](mailto:privacy@localytics.com).
 
 If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
@@ -373,11 +373,11 @@ Many of our external third parties are also based outside the European Economic 
 
 Whenever we transfer your personal information out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented :
 
-• We may transfer your personal information to countries that have been deemed to provide an adequate level of protection for personal information by the European Commission. For further details, click [here](https://www.google.com/url?q=https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en&sa=D&ust=1527028843881000).
+• We may transfer your personal information to countries that have been deemed to provide an adequate level of protection for personal information by the European Commission. For further details, click [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
 
-• Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal information the same protection it has in Europe. For further details, click [here](https://www.google.com/url?q=https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en&sa=D&ust=1527028843882000).  
+• Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal information the same protection it has in Europe. For further details, click [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en).  
 
-• Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal information shared between the Europe and the US. For further details, click [here](https://www.google.com/url?q=https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en&sa=D&ust=1527028843883000). Please contact us if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA.
+• Where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal information shared between the Europe and the US. For further details, click [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en). Please contact us if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA.
 
 ## 7\.  Data security
 
@@ -395,7 +395,7 @@ We will only retain your personal information for as long as necessary to fulfil
 
 To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-Details of retention periods for different aspects of your personal information are available in our retention policy which you can request from us by contacting us.
+Details of retention periods for different aspects of your personal information are available in our retention policy which you can request from us by [contacting us](mailto:privacy@localytics.com).
 
 In some circumstances you can ask us to delete your information: see request erasure below for further information.
 
@@ -403,11 +403,11 @@ In some circumstances we may anonymize your personal data (so that it can no lon
 
 ## 9\.  Accessing, Correcting and Deleting Your Information
 
-You have the right to request access to your personal information or to request that your personal data be rectified, or updated. If you are a registered user of our Site, you are also able to delete the information you have included in your profile by logging in and accessing your Localytics account. To request removal of your personal information from our blogs, community forum, or from testimonials, please contact us.
+You have the right to request access to your personal information or to request that your personal data be rectified, or updated. If you are a registered user of our Site, you are also able to delete the information you have included in your profile by logging in and accessing your Localytics account. To request removal of your personal information from our blogs, community forum, or from testimonials, please [contact us](mailto:privacy@localytics.com).
 
-In the event your login or other personal information has been lost, stolen, or used without permission, you must promptly notify us (contact us)to remove that personal information from your account and update our records accordingly.
+In the event your login or other personal information has been lost, stolen, or used without permission, you must promptly notify us ([contact us](mailto:privacy@localytics.com))to remove that personal information from your account and update our records accordingly.
 
-California residents: Under California Civil Code sections 1798.83-1798.84, you are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you would like a copy of this notice, please contact us.
+California residents: Under California Civil Code sections 1798.83-1798.84, you are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you would like a copy of this notice, please [contact us](mailto:privacy@localytics.com).
 
 EU residents: Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to find out more about these rights:
 
@@ -425,7 +425,7 @@ EU residents: Under certain circumstances, you have rights under data protection
 
 • Right to withdraw consent.
 
-If you wish to exercise any of the rights set out above, please contact us.
+If you wish to exercise any of the rights set out above, please [contact us](mailto:privacy@localytics.com).
 
 • No fee usually required
 
@@ -443,7 +443,7 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 Localytics is a provider of services for mobile device analytics and user engagement. Our Service helps our Customers make better mobile applications and tailor mobile experiences for their End Users.  In the course of our business, Localytics processes certain data when our Customers use our Service to collect data from their End Users.
 
-When our Customers use our Service to collect their End Users’ data for application analytics and engagement, Localytics will receive and process End User data as instructed by our Customers, and in accordance with our [Terms of Service](https://www.google.com/url?q=https://www.localytics.com/terms-of-service/&sa=D&ust=1527028843893000) or any other applicable contract between Localytics and our Customer (together, “Applicable Terms”). Our Customers implement our Service by installing and configuring software provided by Localytics to collect information to analyze End User in-application activity for analysis and targeted, personalized messaging. Our Customers, the application owners, control if our software will collect any data at all, as well as what data is collected for processing. Localytics processes the data as directed by our Customers solely for their use and consumption.
+When our Customers use our Service to collect their End Users’ data for application analytics and engagement, Localytics will receive and process End User data as instructed by our Customers, and in accordance with our [Terms of Service](https://www.localytics.com/terms-of-service) or any other applicable contract between Localytics and our Customer (together, “Applicable Terms”). Our Customers implement our Service by installing and configuring software provided by Localytics to collect information to analyze End User in-application activity for analysis and targeted, personalized messaging. Our Customers, the application owners, control if our software will collect any data at all, as well as what data is collected for processing. Localytics processes the data in our systems with certain [sub-processors](https://www.localytics.com/authorized-sub-processors-for-localytics-services/) as directed by our Customers solely for their use and consumption.
 
 Localytics supports our Customers’ obligations to accommodate End User privacy rights in accordance with Applicable Terms.  Our Customers are responsible for determining if any data collected or processed through our Service is considered personal data, and providing appropriate transparency and privacy controls for the End User.  As such, any solicitation of consent to collect data, as well as any requests to access, review, modify or delete personal data that Localytics is processing on our Customers’s behalf must be handled by our Customers.  Localytics will refer any direct requests or inquiries from End Users to our Customers, the data controller, and End Users should reach out directly to those application owners as needed with any inquiries.
 
@@ -451,7 +451,7 @@ Localytics supports our Customers’ obligations to accommodate End User privac
 
 **A. EU LAWFUL BASES**
 
-**Legitimate Interest** ** ** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal information for our legitimate interests. We do not use your personal information for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us.
+**Legitimate Interest** ** ** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal information for our legitimate interests. We do not use your personal information for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by [contacting us](mailto:privacy@localytics.com).
 
 **Performance of Contract** ** ** means processing your information where it is necessary for the performance of a contract to which we and you are parties or to take steps at your request before entering into such a contract.
 
@@ -477,7 +477,7 @@ External Third Parties
 
 If you are accessing this Site from the European Union, please note that under EU data protection laws you have the right to:
 
-**Request access  **to your personal information (commonly known as a “data subject access request”). This enables you to receive a copy of the personal information we hold about you and to check that we are lawfully processing it.
+**Request access **to your personal information (commonly known as a “data subject access request”). This enables you to receive a copy of the personal information we hold about you and to check that we are lawfully processing it.
 
 **Request correction**  of the personal information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected, though we may need to verify the accuracy of the new information you provide to us.
 
@@ -508,11 +508,11 @@ If you are accessing this Site from the European Union, please note that under E
 
 
 
-  11. **“Site”** means any websites operated by Localytics that are made available to our customers, prospective clients or other interested parties, which may include [https://localytics.com](https://www.google.com/url?q=https://localytics.com&sa=D&ust=1527028843902000), [https://docs.localytics.com](https://www.google.com/url?q=https://docs.localytics.com&sa=D&ust=1527028843902000), [https://help.localytics.com](https://www.google.com/url?q=https://help.localytics.com&sa=D&ust=1527028843902000), [https://info.localytics.com](https://www.google.com/url?q=https://info.localytics.com&sa=D&ust=1527028843902000), or any other successor sites.
+  11. **“Site”** means any websites operated by Localytics that are made available to our customers, prospective clients or other interested parties, which may include [https://localytics.com](https://localytics.com/), [https://docs.localytics.com](https://docs.localytics.com/), [https://help.localytics.com](https://help.localytics.com/), [https://info.localytics.com](https://info.localytics.com/), or any other successor sites.
 
 
 
 
 ## Contact Information
 
-If you have any comments, concerns or questions about this Privacy Policy, please contact us.  
+If you have any comments, concerns or questions about this Privacy Policy, please [contact us](mailto:privacy@localytics.com).  
