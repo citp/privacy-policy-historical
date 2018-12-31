@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs-boeing.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627023238id_/http%3A//www.boeing.com/privacy-and-cookie-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs-boeing.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231022921id_/http%3A//www.boeing.com/privacy-and-cookie-policy.page) for the most accurate reproduction.*
 
 # Boeing: Privacy and Cookie Policy
 
