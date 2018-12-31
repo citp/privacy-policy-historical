@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the namechk.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910152702id_/http%3A//namechk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namechk.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231140947id_/https%3A//namechk.com/privacy) for the most accurate reproduction.*
 
-# Namechk | Username & Domain Search
+# Namechk | Username, Domain, and Trademark Search | Username Registration
 
 Namechk.com is committed to respecting and protecting your privacy. Should you choose to provide your Email address or any other personal information on any of the forms found on our site, you can be assured that it will only be used to support your relationship with Namechk.com. This privacy policy is intended for all users of Namechk.com.
 
@@ -38,7 +38,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 Namechk uses cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Namechk uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+Namechk uses third-party advertising companies to serve ads when you visit our website. These third party ad service providers may use cookies, web beacons, or similar technologies in connection with advertisements offered through Namechk, including helping to operate ad networks. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the Network Advertising Initiative here: http://www.networkadvertising.org/choices/. 
 
 Namechk chooses to include information about Google and the DoubleClick DART cookie in its privacy policy. Google, as a third party vendor, uses cookies to serve ads on our site http://namechk.com. Google's use of the DART cookie enables it to serve ads to our users based on their visit to namechk.com and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
@@ -46,9 +46,17 @@ Namechk chooses to include information about Google and the DoubleClick DART coo
 
 Namechk does not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-#### 6\. THIRD PARTY LINKS
+#### 6\. THIRD PARTY SITES
 
-Occasionally, at our discretion, Namechk may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Links to Products or Services: Occasionally, at our discretion, Namechk may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+Ad Services and Providers: Namechk uses third party online behavioral advertising networks which include members of the Network Advertising Initiative. To learn more about their practices, and the choices they provide to you, including the option to opt out of behavioral advertising from advertising networks, please visit:
+
+  * Digital Advertising Alliance – http://www.aboutads.info/choices 
+  * NAI Participating Networks – http://www.networkadvertising.org/participating
+  * Opt Out of Behavioral Advertising – http://www.networkadvertising.org/managing/opt_out.asp
+
+
 
 #### 7\. CHILDREN’S ONLINE PRIVACY PROTECTION ACT COMPLIANCE
 
@@ -70,7 +78,7 @@ By using http://namechk.com, you consent to our web site privacy policy.
 
 If Namechk decides to change its privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 6/15/2009
+This policy was last modified on 1/12/18.
 
 #### 12\. CONTACTING NAMECHK
 
