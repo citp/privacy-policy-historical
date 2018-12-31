@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishwrapper.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530085721id_/http%3A//www.warnerbros.com/privacy-center-wb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishwrapper.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231210206id_/http%3A//www.warnerbros.com/privacy-center-wb-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Warner Bros. - The Studio
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 Updated: December 8, 2017
 
-Thank you for visiting a [Warner Bros. Entertainment Group](https://web.archive.org/affiliates) ("we" or "us") offering. This Privacy Policy explains our online information practices and the choices you can make about information collected through our websites, services, and applications (each a “Site” or collectively, the “Sites”). This Privacy Policy applies to any Site that links directly to this policy. For certain offerings on our Sites, there may be additional notices about our information practices and choices. Please read those additional privacy disclosures to understand how they apply to you.
+Thank you for visiting a [Warner Bros. Entertainment Group](https://www.warnerbros.com/affiliates) ("we" or "us") offering. This Privacy Policy explains our online information practices and the choices you can make about information collected through our websites, services, and applications (each a “Site” or collectively, the “Sites”). This Privacy Policy applies to any Site that links directly to this policy. For certain offerings on our Sites, there may be additional notices about our information practices and choices. Please read those additional privacy disclosures to understand how they apply to you.
 
 **TABLE OF CONTENTS**
 
@@ -21,7 +21,7 @@ Thank you for visiting a [Warner Bros. Entertainment Group](https://web.archive
   * INTERNATIONAL TRANSFER
   * NOTIFICATION REGARDING UPDATES
   * HOW TO CONTACT US
-  * [AFFILIATES](https://web.archive.org/affiliates)
+  * [AFFILIATES](https://www.warnerbros.com/affiliates)
 
 
 
@@ -67,7 +67,7 @@ We may share and disclose Information in the following ways or for any other pur
 
  **Service providers.**  Our agents and contractors may have access to Information to help carry out the services they are performing for us, such as, but not limited to, creation, maintenance, hosting, and delivery of our Sites, products, and services, conduct marketing, handle payments, email and order fulfillment, administer contests, conduct research and analytics, or customer service.
 
-**Affiliates and other third parties.  **We may disclose Information to companies whose practices are not covered by this Privacy Policy. For example, we may share Information we collect with our [affiliates](https://web.archive.org/affiliates) to provide, improve, offer, market, and otherwise communicate with you about their own products and services.
+**Affiliates and other third parties.  **We may disclose Information to companies whose practices are not covered by this Privacy Policy. For example, we may share Information we collect with our [affiliates](https://www.warnerbros.com/affiliates) to provide, improve, offer, market, and otherwise communicate with you about their own products and services.
 
 We may also share Information with business partners and third parties (e.g., other companies, retailers, research organizations, advertisers, ad agencies, advertising networks and platforms, participatory databases, publishers, and non-profit organizations) that may want to market products or services to you. If we share personal information with such unaffiliated third parties for their own marketing purposes, we provide you with an opportunity to opt out of such uses either at the point of collection or through the choice mechanisms set forth in this Privacy Policy. To learn more about your choices, please see Your Choices below.
 
