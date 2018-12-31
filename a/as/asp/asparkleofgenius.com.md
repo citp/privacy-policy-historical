@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asparkleofgenius.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625154909id_/https%3A//www.asparkleofgenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asparkleofgenius.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231150705id_/https%3A//www.asparkleofgenius.com/privacy-policy) for the most accurate reproduction.*
 
 # A Sparkle of Genius Website Privacy Policy
 
@@ -65,11 +65,13 @@ http://momsreview4you.blogspot.com/
 
 Redondo Beach, CA 90278
 
+momsreview4you@gmail.com
+
 Disclosure Policy
 
 This policy is valid from 16 June 2011
 
-This blog is a personal blog written and edited by three moms at Moms Review 4 You. I own this website and own/control all content herein For questions about this blog, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+This blog is a personal blog written and edited by three moms at Moms Review 4 You. I own this website and own/control all content herein For questions about this blog, please contact momsreview4you@gmail.com.
 
 This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
@@ -80,3 +82,5 @@ This blog accepts forms of cash advertising, sponsorship, paid insertions or oth
  This blog does not contain any content which might present a conflict of interest.
 
 To get your own policy, go to http://www.disclosurepolicy.org
+
+2014-03-05
