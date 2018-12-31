@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ohmyrockness.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625094013id_/https%3A//www.ohmyrockness.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohmyrockness.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231090351id_/https%3A//www.ohmyrockness.com/pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Oh My Rockness
 
-This Privacy Policy governs the manner in which Oh My Rockness collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.ohmyrockness.com](http://www.ohmyrockness.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Oh My Rockness.
+This Privacy Policy governs the manner in which Oh My Rockness collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.ohmyrockness.com](https://www.ohmyrockness.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Oh My Rockness.
 
  **Personal identification information**
 
@@ -52,9 +52,9 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
  **Google Adsense**
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
-**Compliance with children's online privacy protection act**
+ **Compliance with children's online privacy protection act**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
@@ -64,17 +64,17 @@ Oh My Rockness has the discretion to update this privacy policy at any time. Whe
 
  **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.ohmyrockness.com/info/terms.cfm). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://www.ohmyrockness.com/info/terms.cfm). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 
 
-[Oh My Rockness](http://www.ohmyrockness.com/)  
+[Oh My Rockness](https://www.ohmyrockness.com/)  
 
 
-[www.ohmyrockness.com](http://www.ohmyrockness.com/)  
+[www.ohmyrockness.com](https://www.ohmyrockness.com/)  
 
 
 Oh My Rockness  
