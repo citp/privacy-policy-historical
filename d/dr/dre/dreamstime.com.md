@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamstime.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612003428id_/https%3A//www.dreamstime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamstime.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231012138id_/https%3A//www.dreamstime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dreamstime
 
@@ -135,7 +135,7 @@ If you have any queries or comments about this Privacy Policy please contact us 
 
 Dreamstime.com, LLC  
 Attn: Data Protection Officer  
-privacy@dreamstime.com  
+  
 1616 Westgate Circle  
 Brentwood, Tennessee 37027  
 United States  
@@ -146,7 +146,7 @@ If you wish to review or receive a copy of the personal information we hold abou
 
 Dreamstime.com, LLC  
 Attn: Data Protection Officer  
-privacy@dreamstime.com  
+  
 1616 Westgate Circle  
 Brentwood, Tennessee 37027  
 United States  
