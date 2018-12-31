@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mother.ly privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625130508id_/https%3A//www.mother.ly/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mother.ly privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231123138id_/https%3A//www.mother.ly/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Motherly
 
-Hello and welcome to Motherly Media, Inc.! We will use a few terms in this Privacy Policy: "Privacy Policy" or "Policy": This Privacy Policy, which is a part of our Terms of Service. We also may use terms from our[Terms of Service](http://staging.mother.ly/terms-and-conditions) in this Privacy Policy. 
+Hello and welcome to Motherly, Inc.! We will use a few terms in this Privacy Policy: "Privacy Policy" or "Policy": This Privacy Policy, which is a part of our Terms of Service. We also may use terms from our[Terms of Service](http://staging.mother.ly/terms-and-conditions) in this Privacy Policy. 
 
 * * *
 
@@ -10,7 +10,7 @@ Hello and welcome to Motherly Media, Inc.! We will use a few terms in this Priva
 
 "you" or "your": you 
 
-"Site": www.mother.ly and its subdomains 
+"Site": [www.mother.ly](http://www.mother.ly/) and its subdomains 
 
 "App": any downloadable applications we make available to you, 
 
@@ -25,6 +25,7 @@ This Privacy Policy describes how Motherly treats information collected or provi
   3. **Collected Information**
     1. **Information You Submit.** When you create an account with our Services, we collect the personally identifiable information you provide in the registration form. This information may include your name, e-mail address, picture, due date, child's name, child's birthdate, payment information (if applicable) and other information.
     2. **Social Networking Information.** You may share content created on our Services through a social networking site such as Twitter or Facebook ("Social Services"). Integration with Social Services allows us to offer a more personalized experience to you when you use our Services. If you share information on the Social Services, the Social Service may provide us with access to certain information that you have provided to that Social Service (such as your profile picture, interests, and connections), and we will use, store and disclose such information in accordance with this Policy. Please remember that the manner in which Social Services use, store and disclose your information is governed by the terms and conditions and privacy policies of each Social Service, and not the Motherly.
+    3.  **Measurement Software**. Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html>.
   4. **Information Collected When You Use our Services.** When you use our Services, we gather certain non-personally identifiable information from you, and this information can be associated with the personally identifiable information that you provide. This includes usage information, such as information on when, how often and for how long you use our Services, how you use our Services and server log data such as a device's IP address, MAC address and operating system version. If you choose to provide it, this will also include crash log data consisting of status and debugging information for our Services.
   5. **Cookies, Web Beacons, and Advertising.**
     1. We also use cookies on our Services. Cookies are small files that are stored on your computer by your web browser. A cookie allows our Services to recognize whether you have visited before and may store user preferences and other information. For example, cookies can be used to collect information about your use of our Site during your current session and over time (including the pages you view and the files you download), your computer's operating system and browser type, your Internet service provider, your domain name and IP address, your general geographic location, the website that you visited before the Site, and the link you used to leave the Site. If you are concerned about having cookies on your computer, you can set your browser to refuse all cookies or to indicate when a cookie is being set, allowing you to decide whether to accept it. You can also delete cookies from your computer. However, if you choose to block or delete cookies, certain features of our Services may not operate correctly.
