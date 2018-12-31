@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemake.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626115246id_/http%3A//www.freemake.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemake.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231071717id_/http%3A//freemake.com/privacy_policy) for the most accurate reproduction.*
 
 # Freemake.com privacy policy - Read our privacy statement
 
@@ -6,7 +6,7 @@
 
 We at Freemake are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Freemake has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. For the purposes of this statement, "Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. 
 
-The following discloses our information gathering and dissemination practices for Freemake website [www.freemake.com](http://www.freemake.com/)
+The following discloses our information gathering and dissemination practices for Freemake website [www.freemake.com](https://web.archive.org/)
 
 ## Information Collection
 
@@ -34,13 +34,13 @@ Freemake software does not intend to transfer Personal Information without your 
 
 ## Links to other sites
 
-This site contains links to other sites. Please be aware that Freemake is not responsible for the privacy practices or the content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware when you leave our site and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to [www.freemake.com](http://www.freemake.com/)
+This site contains links to other sites. Please be aware that Freemake is not responsible for the privacy practices or the content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware when you leave our site and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to [www.freemake.com](https://web.archive.org/)
 
 ## Third-party ads
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [www.networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp/)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [www.networkadvertising.org](https://www.networkadvertising.org/managing/opt_out.asp/)
 
-We may use [third-party advertising companies](http://d1yfi78xmq69ay.cloudfront.net/pp.html) to serve ads when you visit our website.
+We may use [third-party advertising companies](https://d1yfi78xmq69ay.cloudfront.net/pp.html) to serve ads when you visit our website.
 
 ## About the use of cookies and personal data
 
@@ -62,4 +62,4 @@ Freemake website is not structured to attract children. Accordingly, we do not i
 
 By using this Web site, you consent to the terms of our Online Privacy Policy and to Freemake's processing of Personal Information for the purposes given above. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
 
-If you have any comments or questions regarding our Online Privacy Policy, please [contact us](mailto:%22freemake@freemake.com%22). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
+If you have any comments or questions regarding our Online Privacy Policy, please [contact us](mailto:freemake@freemake.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
