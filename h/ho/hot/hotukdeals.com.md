@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotukdeals.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626001339id_/https%3A//www.hotukdeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotukdeals.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231230558id_/https%3A//www.hotukdeals.com/privacy-policy) for the most accurate reproduction.*
 
-# Data Protection and Privacy Policy - HotUKDeals
+# Data Protection and Privacy Policy - hotukdeals
 
 HotUKDeals.com is committed to protecting and respecting your privacy. Although we will do our utmost to protect your information, we cannot guarantee the security of the data you submit to our website or our app; any transmission is at your own risk. Once we have received your information, we will use strict procedures to try to prevent unauthorised access.
 
