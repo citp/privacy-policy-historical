@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rover.com privacy policy that was archived on 2017-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170602185831id_/https%3A//www.rover.com/privacy/%3Fref%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rover.com privacy policy that was archived on 2018-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231183630id_/https%3A//www.rover.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en"><head>
         <meta charset="utf-8">
@@ -28,6 +28,10 @@
 
 
         
+            
+        
+
+        
             <link rel="canonical" href="https://www.rover.com/privacy/">
         
 
@@ -40,7 +44,7 @@
         
 
         
-            <meta property="og:image" content="https://www.rover.com/static/new_design/images/logo@200x200.ce2f57dbe3e4.png">
+            <meta property="og:image" content="https://www.rover.com/static/new_design/images/logo@12x.daa960bb9755.png">
             <meta name="twitter:image" content="https://www.rover.com/static/new_design/images/logo@200x200.ce2f57dbe3e4.png">
         
 
@@ -56,19 +60,21 @@
 
         <!-- The purpose of this block is to be overridden in files that have phased out use of these monolithic globals. -->
         
-            <link type="text/css" href="/static/dist/vendor.8760f1ef27cd384e34491236f417a9a6.css" rel="stylesheet">
-            <link type="text/css" href="/static/dist/application.80d41e0a79487b1409d43c9548c9701c.css" rel="stylesheet">
-        
-
-        <link type="text/css" href="/static/dist/global.644525598497a62c46449bea80392303.css" rel="stylesheet">
-
-        
-
-        
+            
+            <link type="text/css" href="/static/dist/header.ecbbd3e763dc461af74271f8572cd043.css" rel="stylesheet">
+            <link type="text/css" href="/static/dist/application.ebda1452aa9df9b0ac49dbd8986439b7.css" rel="stylesheet">
+            <link type="text/css" href="/static/dist/vendor.8dec7f3d30588307b2b21c0ed2f86566.css" rel="stylesheet">
+            <link type="text/css" href="/static/dist/common.e9ad6f411dd8836b7e226673de589d34.css" rel="stylesheet">
         
 
         
-        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7QFMT"></script><script type="text/javascript" async="" src="//cdn.alooma.com/libs/alooma-latest.min.js"></script><script>
+
+        
+            
+        
+
+        
+        <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T7QFMT"></script><script type="text/javascript" async="" src="//cdn.alooma.com/libs/alooma-latest.min.js"></script><script>
             var Rover = Rover || {};
             Rover.perf = {
                 start: Date.now()
@@ -96,11 +102,11 @@
                 Rover.context.branchKey = 'key_live_aimy7xWhcDz0GVxOIYoBTmilvybwmZNx';
             
 
-
             var next_url = encodeURIComponent(window.location.pathname + window.location.search);
             Rover.urls = {
                 appInstallSMS: '/marketing/app-install-sms/',
                 base: 'https://www.rover.com/',
+                help: '/help/',
                 currentPerson: '/people/current/',
                 currentPersonExtraData: '/people/currentExtraData/',
                 dashboard: '/account/',
@@ -109,18 +115,24 @@
                 inbox: '/account/inbox/',
                 calendar: '/account/calendar/',
                 settings: '/account/profile/settings/',
+                configuration: '/api/v3/configuration/',
                 logout: '/logout/?next=' + next_url,
                 signin: '/account/continue/?action=sign_in&next=' + next_url,
                 signup: '/account/continue/?next=' + next_url,
                 signinRaw: '/account/continue/?action=sign_in',
                 signupRaw: '/account/continue/',
-                homepageGeoPopupUrl: '/homepage_geo_popup/',
                 analyticsTrackShare: '/analytics/track-share/',
                 trackTestimonialRequest: '/account/track-testimonial-request/',
                 validateEmail: '/ajax/auth/validate-email/',
                 validateZipcode: '/ajax/auth/validate-zipcode/',
+                validatePassword: '/ajax/auth/validate-password/',
                 hidePhotoUrl: '/members/toggle-stay-image-public/api/',
                 petListAPI: '/api/v3/pets/',
+                breedList: '/api/v3/breeds/',
+                assignmentPricing: '/api/v3/assignment/pricing/',
+                assignmentConfiguration: '/api/v3/assignment/configuration/',
+                inquiries: '/api/v3/assignment/inquiries/',
+                recurringInquiries: '/api/v3/assignment/recurring-inquiries/',
                 rebook: '/account/?rebook=1#rebook',
                 search: '/search/',
                 hasDogs: '/account/edit/has-dogs/',
@@ -128,14 +140,15 @@
                 recurringBillingCreationUrl: '/api/v3/recurring-relationships/',
                 contactConfirmationFromConversationUrl: '/services/contact-confirmation/',
                 accountProfileRates: '/account/profile/rates/',
-                phoneVerify: '/people/phone/',
-                insurance: '/insurance/',
+                guarantee: '/guarantee/',
                 phoneListAPI: '/api/v3/phones/',
                 imageUploadAuthorize: '/api/v3/images/upload/authorize/',
                 blockingModalAPI: '/api/v3/blocking-modal/',
                 app: '/app/',
                 referAFriend: '/refer/' ,
-                providerArchivedReasons: '/api/v3/conversations/provider-archived-reasons/'
+                becomeASitter: '/become-a-sitter/',
+                providerArchivedReasons: '/api/v3/conversations/provider-archived-reasons/',
+                notificationsList: '/api/v3/announcements/notifications/'
             };
 
             Rover.settings = Rover.settings || {};
@@ -149,9 +162,23 @@
 
         
 
-        // TODO: remove this once contact page checkbox experiment is over
-        // (see https://roverdotcom.atlassian.net/browse/FE-742)
+        Rover.context.staticSvgPresent = '/static/new_design/images/icons/present.df32e19ac684.svg';
+
+        // TODO figure out a better solution in https://roverdotcom.atlassian.net/browse/DEV-21088
+        Rover.context.countryCode = 'US';
+        Rover.context.ccTLD       = 'US';
+        Rover.context.language = 'en\u002Dus';
+        Rover.context.supportsMobileApp = true;
+        Rover.context.supportsReferral = true;
+        Rover.context.weight_unit = 'lbs';
         
+        Rover.context.weight_conversion_enabled = false;
+        Rover.context.weightConversion = false;
+        
+        Rover.context.frontendTranslationEnabled = false
+        Rover.context.personReferralCampaign = '';
+
+        Rover.context.appInstallBannerUpdates = false
 
         Rover.facebook = {
                 appId: '268750723145812',
@@ -164,12 +191,19 @@
 
             
 
+            
+
             Rover.userAgent.isMobile = false;
             Rover.userAgent.isTablet = false;
             Rover.userAgent.isTouchCapable = false;
             Rover.userAgent.isPC = false;
             Rover.userAgent.isBot = true;
             
+
+            Rover.flags = Rover.flags || {};
+            Rover.flags.repeatSearchExperiment = JSON.parse('\u0022\u0022');
+            Rover.flags.rolloutRepeatSitterRates = JSON.parse('\u0022\u0022');
+            Rover.flags.basDiscoverabilityExperiment = JSON.parse('false');
         </script>
         
 
@@ -179,26 +213,65 @@
 
 
     
+      <script type="text/javascript">
+  window.addEventListener("load", function(event) {
+    setTimeout(function() {
+      var data = { event: "pageview-performance" },
+        timing = window.performance && window.performance.timing,
+        start = 0,
+        keys = [
+          "unloadEventStart", "unloadEventEnd", "redirectStart", "redirectEnd",
+          "fetchStart", "domainLookupStart", "domainLookupEnd", "connectStart",
+          "connectEnd", "secureConnectionStart", "requestStart", "responseStart",
+          "responseEnd", "domLoading", "domInteractive", "domContentLoadedEventStart",
+          "domContentLoadedEventEnd", "domComplete", "loadEventStart", "loadEventEnd"
+        ];
+      if (!timing) {
+        return;
+      }
+      start = timing.navigationStart;
+      keys.forEach(function(k) {
+        var time = timing[k];
+        if (time > 0) {
+          data[k] = time - start;
+        }
+      });
+      dataLayer.push(data);
+    }, 0);
+  });
+</script>
+
+    
+    
 <!-- start Alooma --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.alooma=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="alooma";c.people=c.people||[];c.toString=function(b){var a="alooma";"alooma"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_custom_event track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" "); for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof ALOOMA_CUSTOM_LIB_URL?ALOOMA_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.alooma.com/libs/alooma-latest.min.js".match(/^\/\//)?"https://cdn.alooma.com/libs/alooma-latest.min.js":"//cdn.alooma.com/libs/alooma-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.alooma||[]);alooma.init("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnROYW1lIjoicm92ZXIiLCJpbnB1dExhYmVsIjoiV2ViQXBwX0pTIiwiaW5wdXRUeXBlIjoiSlNTREsifQ.ftZKM9hqSsOM4gchkmUUZeasTbULCnkZT8o_IZzk2t0", {"cookie_name": "rover_alooma", "api_host":"https://inputs.alooma.com"});</script><!-- end Alooma -->
 
 <script type="text/javascript">
    (function() {
-        var d = new Date();
-        alooma.register({timezone_offset: d.getTimezoneOffset()});
-        alooma.register(JSON.parse('{\u0022environment\u0022: \u0022production\u0022, \u0022common_identifier\u0022: \u0022c033d52f\u002Dd83f\u002D4440\u002Db198\u002D07d7580777fc\u0022, \u0022is_bot\u0022: true, \u0022user_agent\u0022: \u0022Mozilla/5.0 (compatible\u003B archive.org_bot +http://www.archive.org/details/archive.org_bot)\u0022, \u0022session_id\u0022: \u0022cmeq2keBjPffmJc55Jn5o4\u0022}'));
-        
-            alooma.register({pageCategory: "uncategorized"});
-        
+       window.Rover = window.Rover || {};
+       window.Rover.alooma = window.Rover.alooma || {};
+       window.Rover.gtm = window.Rover.gtm || {};
+
+       window.Rover.alooma.json = JSON.parse('{\u0022environment\u0022: \u0022production\u0022, \u0022common_identifier\u0022: \u002223c87984\u002Df70e\u002D420a\u002Dad83\u002D0d1b25ebb6f2\u0022, \u0022is_bot\u0022: true, \u0022user_agent\u0022: \u0022Mozilla/5.0 (compatible\u003B archive.org_bot +http://archive.org/details/archive.org_bot)\u0022, \u0022session_id\u0022: \u00227KcTp7CWfMubUEBS9vc7UB\u0022}');
+
+       var d = new Date();
+       alooma.register({timezone_offset: d.getTimezoneOffset()});
+       alooma.register(JSON.parse('{\u0022environment\u0022: \u0022production\u0022, \u0022common_identifier\u0022: \u002223c87984\u002Df70e\u002D420a\u002Dad83\u002D0d1b25ebb6f2\u0022, \u0022is_bot\u0022: true, \u0022user_agent\u0022: \u0022Mozilla/5.0 (compatible\u003B archive.org_bot +http://archive.org/details/archive.org_bot)\u0022, \u0022session_id\u0022: \u00227KcTp7CWfMubUEBS9vc7UB\u0022}'));
+
+       
+           alooma.register({pageCategory: "uncategorized"});
+       
+
+       alooma.unregister('funnelVersion'); // Clear this from the cookie so we can set it only for pages that need it
+       alooma.unregister('isQuickMatchRebook'); // Clear this from the cookie so we can set it only for pages that need it
+       alooma.unregister('isRoverGoMarket'); // Clear this from the cookie so we can set it only for pages that need it
     })();
 </script>
 
     
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T7QFMT"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-T7QFMT');</script>
 
 
@@ -207,6 +280,7 @@
 <script>
     window._gaq = window._gaq || [];
     window.dataLayer = window.dataLayer || [];
+    window._kiq = window._kiq || [];
     window.dataLayer.push({
         
             'loggedIn': 'logged out',
@@ -227,13 +301,16 @@
         
     });
 
-    dataLayer.push({
-        event: 'mobile-session-check'
-    });
+    
 
     dataLayer.push({
-        event: 'browser-detection-check'
+        event: 'load-impact-js',
+        
+            emailSha: ''
+        
     });
+
+    
 
     
 
@@ -252,7 +329,17 @@
     </head>
 
     <body class="  body-dark   static-navbars  ">
+        
+          
+          <noscript>
+            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-T7QFMT"
+                    height="0" width="0" style="display:none;visibility:hidden">
+            </iframe>
+          </noscript>
+        
         <div id="fb-root"></div>
+
+        
 
         
             
@@ -262,12 +349,22 @@
 
             
                 
-<div class="new-design js-new-design" itemscope="" itemtype="http://schema.org/Organization">
+<script>
+    (function(R) {
+        R.context = R.context || {};
+        R.context.header = {
+            showReactNotificationsCenter:  true ,
+            notificationsCenterIconsEnabled:  true 
+        }
+    })(window.Rover = window.Rover || {})
+</script>
+
+<div class="new-design js-new-design navbar-container js-navbar-container" itemscope="" itemtype="http://schema.org/Organization">
     
     <meta content="Rover.com" itemprop="name">
     <link href="https://www.rover.com/" itemprop="url">
     <link href="http://en.wikipedia.org/wiki/Rover.com" itemprop="sameas">
-    <header class="navbar navbar-default header js-header-navbar" role="navigation">
+    <header class="navbar navbar-default header js-header-navbar" data-qa-id="home-header-navbar" role="navigation">
         <div class="navbar-wrapper">
             <div class="container navbar-container">
                 <div class="navbar-header">
@@ -277,156 +374,158 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
+                    <div class="mobile-notifications-center" id="mobile-react-notifications-center">
+                    </div>
                     <a class="navbar-brand" href="/?ref=header">
                         <i class="rover-icon rover-icon-logo-rover link-icon"></i>
                     </a>
+                    
                 </div>
 
                 
                 <div class="collapse navbar-collapse" id="collapsible-nav">
                     <ul class="nav navbar-nav">
                         
-    <li><a href="/search/?ref=search-header"><i class="rover-icon rover-icon-in-search link-icon"></i> Search Sitters</a></li>
-
-
-                        <li class="hide js-become-a-sitter js-anonymous-user"><a href="/become-a-sitter/?bep=event%3Dnavigation-become-a-sitter&amp;ref=header"><i class="rover-icon rover-icon-in-heart link-icon"></i>Become a Sitter</a></li>
-
-                        <li class="hide js-list-more-services"><a href="/account/profile/services/?bep=event%3Dnavigation-list-more-services&amp;ref=header"><i class="rover-icon rover-icon-in-heart link-icon"></i>List More Services</a></li>
+    <li><a data-qa-id="home-navbar-links-search-sitter" href="/search/?ref=search-header"><i class="rover-icon rover-icon-in-search link-icon"></i> Search Sitters </a></li>
 
                         
-                            <li class="js-authenticated-user authenticated-user hide visible-lg visible-md">
-                                <a href="/refer/?bep=event%3Dnavigation-give-20-get-20&amp;source=header_feb"><i class="rover-icon rover-icon-in-chat link-icon"></i>Give $20, Get $20</a>
-                            </li>
-                        
+
+<li class="hide js-become-a-sitter js-anonymous-user">
+  <a class="" href="/become-a-sitter/?bep=event%3D%2Bnavigation-become-a-sitter%2B&amp;ref=header" data-qa-id="home-navbar-links-become-a-sitter">
+    <i class="rover-icon rover-icon-in-heart link-icon"></i>Become a Sitter
+  </a>
+</li>
+
 
                         
-                            <li class="js-anonymous-user show-our-services-trigger">
-                                <a href="#" class="js-show-our-services" data-track-event="" data-event="navigation-our-services" data-event-type="click"><i class="rover-icon rover-icon-in-paw link-icon"></i>Our Services</a>
+                        <li class="hide js-list-more-services">
+                            <a href="/account/profile/services/?bep=event%3D%2Bnavigation-list-more-services%2B&amp;ref=header"><i class="rover-icon rover-icon-in-heart link-icon"></i>List More Services</a>
+                        </li>
+                         
+                        <li class="js-give-twenty-get-twenty js-header-referral authenticated-user hide visible-lg visible-md">
+                            <a class="js-referral-cta" id="owner-referral-header" href="/refer/?bep=event%3D%2Bnavigation-give-20-get-20%2B&amp;source=header_feb"><i class="rover-icon rover-icon-in-chat link-icon"></i>Give $20, Get $20</a>
+                        </li>
+                        <li class="js-invite-a-friend js-header-referral authenticated-user hide visible-lg visible-md">
+                            <a class="js-referral-cta" id="sitter-referral-header" href="/refer/?bep=event%3D%2Bnavigation-give-20-get-20%2B&amp;source=header_feb"><i class="rover-icon rover-icon-in-chat link-icon"></i>Invite a Friend</a>
+                        </li>
+                          
+                        <li class="js-anonymous-user show-our-services-trigger">
+                            <a href="#" class="js-show-our-services" data-track-event="" data-event="navigation-our-services" data-qa-id="home-navbar-links-our-services" data-event-type="click"><i class="rover-icon rover-icon-in-paw link-icon"></i>Our Services</a>
 
-                                <div class="our-services--list visible-xs">
-                                    
+                            <div class="our-services--list visible-xs">
+                                
 <ul class="row">
-    <li class="col-sm-3 col-md-2 col-sm-offset-1 col-md-offset-1 col-lg-offset-1 our-services-item padding-top-x4 padding-bottom-x4 text-center">
-        <a href="/dog-boarding/" target="_blank" class="our-services-item-link">
-            <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-sitter-home link-icon"></i></span>
-            Dog Boarding
-        </a>
-    </li>
+    
 
-    <li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center">
-        <a href="/house-sitting/" target="_blank" class="our-services-item-link">
-            <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-sitter-traveling link-icon"></i></span>
-            House Sitting
-        </a>
-    </li>
+<li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center col-sm-offset-1 col-md-offset-1 col-lg-offset-1">
+    <a href="/dog-boarding/" target="_blank" class="our-services-item-link">
+        <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-sitter-home link-icon"></i></span>
+        Dog Boarding
+    </a>
+</li>
+    
 
-    <li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center">
-        <a href="/pet-sitting/" target="_blank" class="our-services-item-link">
-            <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-homevists link-icon"></i></span>
-            Drop-In Visits
-        </a>
-    </li>
+<li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center ">
+    <a href="/house-sitting/" target="_blank" class="our-services-item-link">
+        <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-sitter-traveling link-icon"></i></span>
+        House Sitting
+    </a>
+</li>
+    
 
-    <li class="col-sm-3 col-md-2 col-sm-offset-3 col-md-offset-0 our-services-item padding-top-x4 padding-bottom-x4 text-center">
-        <a href="/doggy-day-care/" target="_blank" class="our-services-item-link">
-            <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-daycare link-icon"></i></span>
-            Doggy Day Care
-        </a>
-    </li>
+<li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center ">
+    <a href="/pet-sitting/" target="_blank" class="our-services-item-link">
+        <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-homevists link-icon"></i></span>
+        Drop-In Visits
+    </a>
+</li>
+    
 
-    <li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center">
-        <a href="/dog-walking/" target="_blank" class="our-services-item-link">
-            <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-walking link-icon"></i></span>
-            Dog Walking
-        </a>
-    </li>
+<li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center col-sm-offset-3 col-md-offset-0">
+    <a href="/doggy-day-care/" target="_blank" class="our-services-item-link">
+        <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-daycare link-icon"></i></span>
+        Doggy Day Care
+    </a>
+</li>
+    
+
+<li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center ">
+    <a href="/dog-walking/" target="_blank" class="our-services-item-link">
+        <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-walking link-icon"></i></span>
+        Dog Walking
+    </a>
+</li>
 </ul>
 
-                                </div>
-                            </li>
-                        
-
+                            </div>
+                        </li>
+                         
                     </ul>
-
+                    
                     
                         <ul class="nav navbar-nav navbar-right js-anonymous-header">
-                            <li><a href="/account/continue/?bep=event%3Dnavigation-sign-up&amp;ref=header&amp;next=/privacy/%3Fref%3Dfooter">Sign Up</a></li>
-                            <li><a href="/account/continue/?bep=event%3Dnavigation-sign-in&amp;ref=header&amp;action=sign_in&amp;next=/privacy/%3Fref%3Dfooter">Sign In</a></li>
-                            <li><a href="https://support.rover.com/hc/en-us?ref=header" target="_blank" data-track-event="" data-event-type="click" data-event="navigation-help"><i class="rover-icon rover-icon-in-question-circle link-icon"></i>Help</a></li>
+                            <li><a href="/account/continue/?bep=event%3Dnavigation-sign-up&amp;ref=header&amp;next=/privacy/" data-qa-id="home-navbar-links-sign-up">Sign Up</a></li>
+                            <li><a href="/account/continue/?bep=event%3Dnavigation-sign-in&amp;ref=header&amp;action=sign_in&amp;next=/privacy/" data-qa-id="home-navbar-links-sign-in">Sign In</a></li>
+                            <li><a href="/help/?ref=header" target="_blank" data-track-event="" data-event-type="click" data-event="navigation-help" data-qa-id="home-navbar-links-help"><i class="rover-icon rover-icon-in-question-circle link-icon"></i>Help</a></li>
+                        
                         </ul>
                     
+                    
                 </div>
             </div>
         </div>
 
-        
-            <div class="our-services--dropdown hidden-xs">
-                <div class="container">
-                    
+         
+        <div class="our-services--dropdown js-our-services--dropdown hidden-xs" data-qa-id="home-services-bar">
+            <div class="container">
+                
 <ul class="row">
-    <li class="col-sm-3 col-md-2 col-sm-offset-1 col-md-offset-1 col-lg-offset-1 our-services-item padding-top-x4 padding-bottom-x4 text-center">
-        <a href="/dog-boarding/" target="_blank" class="our-services-item-link">
-            <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-sitter-home link-icon"></i></span>
-            Dog Boarding
-        </a>
-    </li>
+    
 
-    <li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center">
-        <a href="/house-sitting/" target="_blank" class="our-services-item-link">
-            <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-sitter-traveling link-icon"></i></span>
-            House Sitting
-        </a>
-    </li>
+<li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center col-sm-offset-1 col-md-offset-1 col-lg-offset-1">
+    <a href="/dog-boarding/" target="_blank" class="our-services-item-link" data-qa-id="home-services-bar-links-dog-boarding">
+        <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-sitter-home link-icon"></i></span>
+        Dog Boarding
+    </a>
+</li>
+    
 
-    <li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center">
-        <a href="/pet-sitting/" target="_blank" class="our-services-item-link">
-            <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-homevists link-icon"></i></span>
-            Drop-In Visits
-        </a>
-    </li>
+<li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center ">
+    <a href="/house-sitting/" target="_blank" class="our-services-item-link">
+        <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-sitter-traveling link-icon"></i></span>
+        House Sitting
+    </a>
+</li>
+    
 
-    <li class="col-sm-3 col-md-2 col-sm-offset-3 col-md-offset-0 our-services-item padding-top-x4 padding-bottom-x4 text-center">
-        <a href="/doggy-day-care/" target="_blank" class="our-services-item-link">
-            <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-daycare link-icon"></i></span>
-            Doggy Day Care
-        </a>
-    </li>
+<li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center ">
+    <a href="/pet-sitting/" target="_blank" class="our-services-item-link">
+        <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-homevists link-icon"></i></span>
+        Drop-In Visits
+    </a>
+</li>
+    
 
-    <li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center">
-        <a href="/dog-walking/" target="_blank" class="our-services-item-link">
-            <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-walking link-icon"></i></span>
-            Dog Walking
-        </a>
-    </li>
+<li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center col-sm-offset-3 col-md-offset-0">
+    <a href="/doggy-day-care/" target="_blank" class="our-services-item-link">
+        <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-daycare link-icon"></i></span>
+        Doggy Day Care
+    </a>
+</li>
+    
+
+<li class="col-sm-3 col-md-2 our-services-item padding-top-x4 padding-bottom-x4 text-center ">
+    <a href="/dog-walking/" target="_blank" class="our-services-item-link">
+        <span class="our-services-item-link__icon"><i class="rover-icon rover-icon-walking link-icon"></i></span>
+        Dog Walking
+    </a>
+</li>
 </ul>
 
-                </div>
             </div>
-        
-
-        
-
-        
-
-
-<div class="global-announcement-bar js-global-announcement-bar bg-dark ">
-    <div class="container">
-        <div class="cycle prevent-break js-cycle text-muted margin-right-x4 hidden">
-            <i class="rover-icon rover-icon-in-left js-previous-announcement"></i>
-            <i class="rover-icon rover-icon-in-right js-next-announcement"></i>
         </div>
-        <div class="announcements">
-            
-            <div class="js-announcement " data-css-classes="" data-is-dismissable="true" data-show-once-cookie="gdx-3613bee8" data-show-once-requires-dismiss="true">
-                <strong>DogVacay has joined the Rover pack!</strong> If you have a DogVacay account, it's easy to move over to Rover.&nbsp;&nbsp;<div class="migrate-btn"><a href="https://www.rover.com/joining-forces/" class="rover-btn rover-btn-primary btn-sm">Migrate Your Account</a></div>
-            </div>
-            
-        </div>
-        <div class="dismiss js-dismiss margin-left-x4 ">
-            <i class="rover-icon rover-icon-in-times text-muted"></i>
-        </div>
-    </div>
-</div>
+             
+
 
 
 
@@ -436,7 +535,7 @@
             
         
 
-        <div class="rover-main-content-wrap js-rover-main-content-wrap content ">
+        <div class="rover-main-content-wrap js-rover-main-content-wrap content " data-qa-id="base-content">
             
             
 
@@ -466,7 +565,7 @@
                         
                             <header class="rover-page-header">
                                 
-                                    <h1 class="rover-header-title">Learn About Rover.com's Privacy Policy</h1>
+                                    <h1 class="rover-header-title">Rover Privacy Policy</h1>
                                 
                                 
                                     <h3 class="rover-header-subtitle"></h3>
@@ -474,357 +573,350 @@
                             </header>
                         
                         
-        <p class="small-text">
-            Updated March 28, 2014 [Previous versions: April 20, 2012; July 21, 
-            2011; November 14th, 2011].
-        </p>
+
+<p class="small-text">
+    Last Updated: June 4, 2018<br>
+    [Previous versions:
+    <a href="/privacy/04-06-2018/">April 6, 2018</a>;
+    <a href="/privacy/01-25-2018/">January 25, 2018</a>;
+    <a href="/privacy/12-01-2017/">December 1, 2017</a>;
+    March 28, 2014; April 20, 2012; November 14th, 2011; July 21, 2011]
+</p>
+
+<section class="rover-content-group">
+    <p class="large-text">
+        This Privacy Statement explains how information about you is collected, used and disclosed by A Place for Rover, Inc. and our affiliate Rover Europe GmbH (collectively, “Rover,” “we” or “us”). This Privacy Statement applies to information we collect when you use our websites, mobile applications and other online products and services (collectively, the “Services”) or when you otherwise interact with us.
+
+        This Privacy Statement does not apply to websites, applications, or services that display or link to different privacy statements.
+    </p>
+
+    <p class="large-text">
+        We may change this Privacy Statement from time to time. If we make changes, we will notify you by revising the date at the top of the Privacy Statement. If we make material changes to this statement, we will provide you with notice or obtain consent regarding such changes as may be required by applicable law. We encourage you to review the Privacy Statement whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.  Capitalized terms used but not defined in this Privacy Statement have the meanings given to them in the Terms of Service applicable to your location.
+    </p>
+</section>
+
+<section class="rover-content-section">
+    <h4 class="rover-content-section-title">Collection of Information</h4>
+    <p>
+        Information we collect depends on how you interact with us, the Services you use, and the choices you make. We collect and process information about you with your consent and/or as necessary to provide the products and services you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfil other legitimate interests.
+    </p>
+
+    <p>
+        We collect information about you in various ways when you use our Services, including information you provide directly, information collected automatically, and third-party data sources.
+    </p>
+    <h5>Information You Provide to Us</h5>
+
+    <p>
+        We collect information you provide directly to us. For example, we collect information when you create an account, post or reserve a listing, make a payment, write a review, communicate with other users through our Services or participate in any other interactive features of the Services. We also collect information when you participate in a contest, promotion or survey, apply for a job, communicate with us via third party social media sites, request customer support, or otherwise communicate with us. The types of information we may collect include basic user information (such as your name, email address, postal address, phone number, photos, gender, and date of birth); pet information (such as breed, age, photos, veterinarian, and immunization status); tax information (including social security or other tax identification number for Service Providers) and any other information you choose to provide (including the content of any communications you send and receive through the Services).
+    </p>
+
+    <p>
+        We may also collect and store limited payment information from you, such as payment card type, expiration date and a portion of your payment card number; however, we do not store or have access to full payment card numbers as all transactions are processed by our third-party payment processors. If you are a Service Provider, we and our third-party payment processors may also collect certain payment disbursement information to pay you for the Pet Care Services you provide via the Rover Service.
+    </p>
+
+    <p>
+        If you are a Service Provider, we and our third-party service providers may also collect certain personal information from you for purposes of verifying your identity or conducting a background check.  In the U.S., in addition to the information we collect to set up your account, our third-party service provider collects your social security number in order to conduct a background check.  In the U.K., in addition to the information we collect to set up your account, our third-party service provider collects your photo and an image of your passport, government identity card, or driver’s license in order to verify your identity.
+    </p>
+
+    <p>
+        In some cases, we may also collect information you provide about others, such as when you send an email to one of your personal contacts using our Services. In such case, we will use this information solely to fulfill your request, and not to otherwise send promotional communications to those contacts.
+    </p>
+
+    <p>
+        When you are asked to provide information, you may decline. But if you choose not to provide information that is necessary for certain products or features, those products or features may not be available or function correctly.
+    </p>
+
+    <h5>Information We Collect Automatically When You Use the Services</h5>
+
+    <p>
+        When you access or use our Services, we automatically collect information about you, including:
+    </p>
+
+    <ul>
+        <li>
+            <strong>Log Information:</strong>
+            We collect log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
+
+        </li>
+
+        <li>
+            <strong>Device Information:</strong>
+            We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers and mobile network information
+        </li>
+
+        <li>
+            <strong>Location Information:</strong>
+            We may collect information about the location of your device each time you access or use certain features of our mobile applications or otherwise consent to the collection of this information. For more details, please see “Your Choices” below.
+        </li>
+
+        <li>
+            
+            <strong>Information Collected by Cookies and Other Tracking Technologies:</strong>
+            We use various technologies to operate our Services and collect information, including cookies and web beacons (collectively, “Cookies”).  Most browsers are set to accept cookies. To learn more about how we use Cookies and how to manage your preferences, please read our <a href="/tos/cookies/" target="_blank"> Cookie Policy</a>.
+        </li>
+    </ul>
+
+    <h5>Information We Collect from Other Sources</h5>
+
+    <p>
+        We may also obtain information from other sources and combine that with information we collect through our Services. For example, we may collect information about you from third parties, including but not limited to mailing list providers, partners with whom we offer co-branded services or engage in joint marketing activities, agencies that conduct background checks and publicly available sources. Additionally, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
+    </p>
+</section>
+
+<section class="rover-content-section">
+    <h4 class="rover-content-section-title">Use of Information</h4>
+
+    <p>
+        We may use information about you for various purposes as described in this Privacy Statement or disclosed to you in connection with our Services, including to:
+    </p>
+
+    <ul>
+        <li>
+            Provide, maintain and improve our Services;
+        </li>
+
+        <li>
+            Facilitate and process transactions and send you related information, including booking and payment confirmations and tax documentation (where required);
+        </li>
+
+        <li>
+            Enable communications between you and other users of the Services;
+        </li>
+
+        <li>
+            Send you technical notices, updates, security alerts and support and administrative messages;
+        </li>
+
+        <li>
+            Respond to your comments, questions and requests and provide customer service;
+        </li>
+
+        <li>
+            Enable the mediation of disputes between users of the Services;
+        </li>
+
+        <li>
+            Communicate with you about products, services, offers, promotions, rewards, and events offered by Rover and others, and provide news and information we think will be of interest to you;
+        </li>
+
+        <li>
+            Monitor and analyze trends, usage and activities in connection with our Services;
+        </li>
+
+        <li>
+            Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Rover and others;
+        </li>
+
+        <li>
+            Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests;
+        </li>
+
+        <li>
+            Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards;
+        </li>
+
+        <li>
+            Link or combine with information we get from others to help understand your needs and provide you with better service; and
+        </li>
+
+        <li>
+            Carry out any other purpose described to you at the time the information is collected.
+        </li>
+    </ul>
+</section>
+
+<section class="rover-content-section">
+    <h4 class="rover-content-section-title">Sharing of Information</h4>
+
+    <p>
+        We may share with third parties information about you, including your personal data and communications, as follows or as otherwise described in this Privacy Statement:
+    </p>
+
+    <ul>
+        <li>
+            When you make or accept a booking, certain information is shared between the pet owner and pet sitter, including names, the pet owner’s address, pet information and any other information you choose to share through the Services;
+        </li>
+
+        <li>
+            When you sign up for and participate in the interactive areas of our Services (such as when you create a user profile or write a review), certain information about you may be displayed publicly, such as your name, photo, availability (if you are a Service Provider), and location;
+        </li>
+
+        <li>
+            With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+        </li>
+
+        <li>
+            In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
+        </li>
+
+        <li>
+            If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property or safety of Rover, its employees, its users (including their pets), or the public;
+        </li>
+
+        <li>
+            In connection with, or during negotiations of, any merger, sale of company assets, financing, acquisition, divestiture, bankruptcy, dissolution, or other transaction or proceeding involving sale, transfer or divestiture of all or a portion of our business or assets to another company;
+        </li>
+
+        <li>
+            Between and among Rover and our current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and
+        </li>
+
+        <li>
+            With your consent or at your direction.
+        </li>
+    </ul>
+
+    <p>
+        We may also share aggregated or de-identified information.
+    </p>
+</section>
+
+<section class="rover-content-section">
+    <h4 class="rover-content-section-title">Social Sharing Features</h4>
+
+    <p>
+        The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of information collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+    </p>
+</section>
+
+<section class="rover-content-section">
+    <h4 class="rover-content-section-title" id="advertising-and-analytics-services">Advertising and Analytics Services Provided by Others</h4>
+
+    <p>
         
-        <p class="large-text">
-        A Place for Rover, Inc. ("Rover.com," "we," "our,” or "us") provides this Privacy Policy to
-        inform you of our policies and procedures regarding the collection, use and disclosure of
-        Personal Information (as defined below) we receive from users of www.rover.com (this "Site"). At Rover.com,
-        we understand that you value your privacy, and we want to help make your experience
-        with our Site and other services we may offer (referred to in this policy collectively as
-        our “Service”) satisfying and safe. This Privacy Policy applies only to information that you
-        provide to us through this Site. This Privacy Policy may be updated from time to time. We
-        may update this privacy statement to reflect changes to our information practices. If we
-        make any material changes we will notify you by email (sent to the e-mail address specified
-        in your account) or by posting the revised policy on this Site prior to the change becoming
-        effective. We encourage you to periodically review this page for the latest information on our
-        privacy practices. Unless otherwise defined in this Privacy Policy, terms used in this Privacy
-        Policy have the same meanings as in our <a href="/tos/">Terms of Service</a>.</p>
+        We may allow others to provide analytics services and/or serve advertisements on our behalf across the Internet. These entities may use Cookies to collect information about your use of our websites and third-party websites. To learn more about how these third parties use Cookies and how to manage your preferences, please read our <a href="/tos/cookies/" target="_blank">Cookie Policy</a>. Note that if you opt-out of third-party advertising Cookies, you will still see online ads, but they will not be personalized.
+    </p>
+</section>
 
-        <p class="large-text">As used in this policy, the terms "using" and "processing" information include using cookies
-        on a computer, subjecting the information to statistical or other analysis and using or
-        handling information in any way, including, but not limited to collecting, storing, evaluating,
-        modifying, deleting, using, combining, disclosing and transferring information within our
-        organization or among our affiliates within the United States.</p>
+<section class="rover-content-section">
+    <h4 class="rover-content-section-title">Security</h4>
 
-        <section class="rover-content-section">
-            <h2 class="rover-content-section-title">1. Information Collection and Use</h2>
+    <p>
+        Rover takes reasonable measures designed to help protect information about you from loss, theft, misuse and unauthorized access, use, disclosure, alteration and destruction.
+    </p>
+</section>
 
-            <p>Our primary goals in collecting information are to provide and improve our Site, our
-            Services, features and content, and to enable users to enjoy and easily navigate the Site.</p>
-        </section>
+<section class="rover-content-section">
+    <h4 class="rover-content-section-title">Transfer and Location of Information</h4>
 
-        <section class="rover-content-section">
-            <h2 class="rover-content-section-title">2. Personally Identifiable Information</h2>
+    <p>
+        The information we collect may be stored and processed in your region, in the United States, or in any other country where we or our affiliates, subsidiaries, or service providers maintain facilities. The processing locations are chosen in order to operate efficiently, to improve performance, and to create redundancies in order to protect information in the event of an outage or other problem. We take steps designed to ensure that the information we collect under this statement is processed according to the provisions of this statement and applicable law wherever the information is located.
+    </p>
 
-        <p>When you register with us through the Site and become a Rover.com Member, when
-        you choose to post or reserve a listing, or when you contact a Rover.com Member using
-        the “Contact” feature of the Site, we will collect personally identifiable information. This
-        refers to information about you that can be used to contact or identify you ("Identity
-        Information"). Identity Information includes, but is not limited to, your name, phone number,
-        email address and home postal address, but does not include your credit card number or
-        billing information. In order to process some of your transactions through the Site, we may
-        also ask for your credit card number and billing information ("Billing Information") (Identity
-        Information and Billing Information together, "Personal Information"). However, if the
-        address of a listing you post matches that of your credit card billing address, that address
-        would be considered Identity Information.</p>
+    <p>
+        We transfer information from the European Economic Area and Switzerland to other countries, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do so, we use a variety of legal mechanisms, including contracts, to help ensure your rights and protections. To learn more about the European Commission’s decisions on the adequacy of information protections, please click <a href="https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en" target="_blank">here</a>.
+    </p>
+</section>
 
-        <p>We also collect the other information that you provide as part of registration and the
-        administration and personalization of your profile webpage (e.g., without limitation, zip
-        code (on its own) and individual preferences or demographic information) ("Non-Identifying
-        Information"). Non-Identifying Information includes Personal Information that we aggregate
-        or otherwise render anonymous.</p>
+<section class="rover-content-section">
+    <h4 class="rover-content-section-title">Retention of Information</h4>
 
-        <p>We use your Personal Information (in some cases, in conjunction with your Non-Identifying
-        Information) mainly to provide the Service, complete your transactions, and administer your
-        inquiries. We may use your Personal Information (and disclose it to third parties) to verify
-        your identity, derive other information about you, for fraud prevention, to enforce the terms
-        of the <a href="/tos/">Terms of Service</a>
-        and otherwise protect the integrity of our Site or Service, or to verify
-        other information you provided to us or included in your profile, including for example any
-        associations, certifications, or other attributes of your profile. We may also verify your profile
-        information through other means.</p>
+    <p>
+        We retain information for as long as necessary to provide the products and fulfill the transactions you have requested, or for other essential purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements. Because these needs can vary for different information types in the context of different products, actual retention periods can vary significantly based on criteria such as user expectations or consent, the sensitivity of the information, the availability of automated controls that enable users to delete information, and our legal or contractual obligations.
+    </p>
+</section>
 
-        <p>We also use your Personal Information to contact you with Rover.com newsletters,
-        marketing or promotional materials and other information that may be of interest to you. If
-        you decide at any time that you no longer wish to receive such communications from us,
-        please follow the unsubscribe instructions provided in any of the communications or update
-        your "user preferences" information. (See "Changing or Deleting Information," below.)
-        Please note that we may also use your Personal Information to contact you with information
-        related to your use of the Service; you may not opt out of these notifications.</p>
+<section class="rover-content-section">
+    <h4 class="rover-content-section-title">Your Choices</h4>
 
-        <p>We may use and disclose your Identity Information to third parties for
-        advertising and promotional purposes, but never for directing marketing
-        purposes without your consent. (See Section 11, below, for more
-        information regarding such use and disclosures to third parties.)</p>
-        </section>
+    <h5>Account Information</h5>
 
-        <section class="rover-content-section">
-            <h2 class="rover-content-section-title">3. Log Data</h2>
+    <p>
+        You may request to update, correct or delete information about you at any time by logging into your online account. If you cannot do so from your account, you may visit our <a href="https://support.rover.com/">US Help Center</a> or our <a href="https://support-uk.rover.com/">UK Help Center</a>, or call us at 1-888-453-7889 (U.S.) or +44 808 281 2524 (U.K.). If you wish to deactivate your account, please call us at 1-888-453-7889 (U.S) or +44 808 281 2524 (U.K.). We may decline requests that are unreasonable, excessive, prohibited by law, could adversely affect the privacy or other rights of another person, where we are unable to authenticate you as the person to whom the information relates, or are not required to be honored by applicable law. We may also retain cached or archived copies of information about you for a certain period of time.
+    </p>
 
-        <p>When you visit the Site, whether as Rover.com Member or a non-registered user just
-        browsing (any of these, a "Rover.com User"), our servers automatically record information
-        that your browser sends whenever you visit a website ("Log Data"). This Log Data may
-        include information such as your computer's Internet Protocol ("IP") address, browser type
-        or the webpage you were visiting before you came to our Site, pages of our Site that you
-        visit, the time spent on those pages, information you search for on our Site, access times
-        and dates, and other statistics. We use this information to monitor and analyze use of
-        the Site and the Service and for the Site's technical administration, to increase our Site's
-        functionality and user-friendliness, and to better tailor it to our visitors' needs. We also
-        use this information to verify that visitors to the Site meet the criteria required to process
-        their requests. We do not treat Log Data as Personal Information or use it in association
-        with other Personal Information, though we may aggregate, analyze and evaluate such
-        information for the same purposes as stated above regarding other Non-Identifying
-        Information.</p>
-        </section>
+    <h5>Location Information</h5>
 
-        <section class="rover-content-section">
-            <h2 class="rover-content-section-title">4. Cookies</h2>
+    <p>
+        When you first install or launch any of our mobile applications that collect location information, you will be asked to consent to the application’s collection of this information. We require location information to use certain features of our Services, so if you do not consent to this collection, you cannot use those features. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device. If you do so, certain features of our mobile applications will no longer function. You may also stop our collection of location information by following the standard uninstall process to remove all of our mobile applications from your device.
+    </p>
 
-        <p>Like many websites, we use "cookies" to collect information. A cookie is a small data file
-        that we transfer to your computer's hard disk for record-keeping purposes. We use cookies
-        for two purposes. First, we utilize persistent cookies to save your registration ID and login
-        password for future logins to the Site. Second, we utilize session ID cookies to enable
-        certain features of the Site, to better understand how you interact with the Site and to
-        monitor aggregate usage by Rover.com Users and web traffic routing on the Site. Unlike
-        persistent cookies, session cookies are deleted from your computer when you log off from
-        the Site and Service and then close your browser. Third party advertisers on the Site may
-        also place or read cookies on your browser. You can instruct your browser, by changing
-        its options, to stop accepting cookies or to prompt you before accepting a cookie from the
-        websites you visit. If you do not accept cookies, however, you may not be able to use all
-        portions of the Site or all functionality of the Service.</p>
-        </section>
+    <h5>Emails</h5>
 
-        <section class="rover-content-section">
-            <h2 class="rover-content-section-title">DISCLOSURE SPECIFIC TO GOOGLE</h2>
+    <p>
+        You may choose whether you wish to receive marketing emails from Rover by
+        updating your “Notifications” preferences under “Account Settings” in your
+        online Rover profile (these settings are not available in-app).  If you receive
+        marketing emails and you wish to opt-out, you may also do so by clicking
+        “Unsubscribe” in those emails. If you opt out of receiving marketing emails, we
+        may still send you Service-related emails, such as those about your account or
+        our ongoing business relations, and surveys or other informational
+        communications that may have their own unsubscribe method.
+    </p>
 
-        <p>Rover uses Google Analytics Demographics and Interest Reporting, which is based on Google Display Advertising.
-        Google Analytics Demographics and Interest Reporting uses cookies.
-        You can choose to opt-out of Google Analytics for Display Advertising and manage
-        Google Display Network ads using Google Ads Settings.&nbsp;We use the
-        information provided by this service (such as age, gender and interests)
-        to improve the usability of the Site and Service, and to deliver more relevant content.</p>
-        </section>
+    <h5>Mobile Push Notifications/Alerts</h5>
 
-        <section class="rover-content-section">
-            <h2 class="rover-content-section-title">5. Web Beacons</h2>
+    <p>
+        With your consent, we may send push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.  If you are a Service Provider, however, certain Pet Care Services or features may require that you accept mobile app push notifications or alerts.  If you do not want to receive these push notifications or alerts, then, in addition to adjusting the notifications in your mobile device, you must withdraw from providing such services or using such features. Further information about required acceptance of push notifications and alerts by Service Providers can be found in  the Terms of Service applicable to your location (or as communicated to you elsewhere via the Rover Service).
+    </p>
 
-        <p>Our Web pages contain electronic images known as Web beacons (sometimes called
-        single-pixel gifs) and are used along with cookies to compile aggregated statistics to
-        analyze how our site is used and may be used in some of our emails to let us know which
-        emails and links have been opened by recipients. This allows us to gauge the effectiveness
-        of our customer communications and marketing campaigns.</p>
-        </section>
+    <h5>Text Messages</h5>
 
-        <section class="rover-content-section">
-            <h2 class="rover-content-section-title">6. Messages Sent Via a Rover.com Account</h2>
+    <p>
+        As permitted by applicable law, we may send marketing and/or service-related text messages to your mobile device. You may opt out of receiving some or all of these messages by updating your “Notifications” preferences under “Account Settings” in your online Rover profile (these settings are not available in-app).  If you are a Service Provider, however, certain Pet Care Services or features may require you to receive service-related messages by text.  If you do not want to receive these service-related text messages, then, in addition to adjusting your Notifications preferences, you must withdraw from providing such services or using such features.   Further information about required acceptance of text messages by Service Providers can be found in the Terms of Service applicable to your location (or as notified to you elsewhere via the Rover Service).
+    </p>
+</section>
 
-        <p>As part of the Service, Rover.com Users may communicate with Rover.com Members
-        through use of the "Contact" feature on the site. Where Rover.com Users have selected the
-        option of adding one or more email addresses to an online form, the message they create
-        in the corresponding template will be sent from Rover.com to those email addresses on
-        their behalf. These email addresses will be used only for the purpose of sending the email
-        communication to the addressee.</p>
+<section class="rover-content-section">
+    <h4 class="rover-content-section-title">European Data Protection Rights</h4>
 
-        <p>Your friend may visit our <a href="https://support.rover.com/">Help Center</a> to request that we remove this
-        information from our database, and we will use reasonable efforts to remove the
-        information.</p>
+    <p>
+        If the processing of information about you is subject to European Union data protection law, you have certain rights with respect to that information:
+    </p>
 
-        <p>You can import contacts from your email account address book to invite them to send you
-        a recommendation. We collect the username and password for the email account you wish
-        to import your contacts from and will only use it for that purpose only. By choosing to import
-        your contacts, you consent to our access of your email address book.
-        Your use of the “Contact” feature (or any other messaging feature) of the Site is subject
-        to the <a href="/tos/">Terms of Service</a>.
-        We have the right, but not the obligation, to review, save, edit,
-        decline to transmit, and otherwise use such messages, including their contents, in our sole
-        discretion. YOUR USE OF THE “CONTACT” OR ANY OTHER MESSAGING FEATURE
-        OF THE SITE CONSTITUTES BOTH YOUR ACKNOWLEDGEMENT THAT MESSAGES
-        SENT USING THESE FEATURES ARE NOT PRIVATE, AND YOUR CONSENT FOR
-        US TO REVIEW, SAVE, EDIT, DECLINE TO TRANSMIT, AND OTHERWISE USE THE
-        MESSAGES OR THEIR CONTENTS OR DISCLOSE THEIR CONTENTS TO THIRD
-        PARTIES, IN OUR SOLE DISCRETION. </p>
-        </section>
+    <ul>
+        <li>
+            You can request access to, and rectification or erasure of, information;
+        </li>
 
-        <section class="rover-content-section">
-            <h2 class="rover-content-section-title">7. Phishing</h2>
+        <li>
+            If any automated processing of information is based on your consent or a contract with you, you have a right to transfer or receive a copy of your information in a usable and portable format;
+        </li>
 
-        <p>Identity theft and the practice currently known as "phishing" are of great concern to
-        Rover.com. Safeguarding information to help protect you from identity theft is a priority.
-        We do not and will not, at any time, request your credit card information, your account ID,
-        login password, or national identification numbers in a non-secure or unsolicited e-mail or
-        telephone communication. For more information about phishing, visit the Federal Trade
-        Commission's website at <a href="http://www.ftc.gov">http://www.ftc.gov</a>.</p>
-        </section>
+        <li>
+            If the processing of information is based on your consent, you can withdraw consent at any time for future processing;
+        </li>
 
-        <section class="rover-content-section">
-            <h2 class="rover-content-section-title">8. Information Sharing and Disclosure</h2>
+        <li>
+            You can to object to, or obtain a restriction of, the processing of information under certain circumstances; and
+        </li>
 
-        <p>Rover.com is designed to allow Members who have a home to host dogs ("Hosts"),
-        Members who will travel to another Members home to watch pets ("Sitters"), and Members
-        who wish to find care for their pets ("Pet Owners") to share information with one another in
-        order to facilitate arranging stays and sittings. Listings posted by Hosts and Sitters, ratings
-        and reviews of Hosts, Sitters and Pet Owners, and the Profile Information (as defined
-        below) of Hosts and Pet Owners, are visible to any visitor to the site. If a Host or a Sitter
-        and a Pet Owner enter into a confirmed transaction with one another (the Host accepts the
-        Pet Owner's request, and the Pet Owner's payment details are collected and processed),
-        then the Pet Owner and the Host's Identity Information are shared with each other in order
-        to facilitate the reservation. In no event is a Pet Owner's Billing Information shared with their
-        Host or Sitter.</p>
+        <li>
+            For residents of France, you can send us specific instructions regarding the use of your information after your death.
+        </li>
+    </ul>
 
-        <p><strong>If you post any of your information to a public area of our Service, please be aware
-        that it is no longer Personal Information for the purposes of this policy, and we or
-        anyone else may use such information without restriction. If you provide access to
-        Personal Information or other information, including your email address or name,
-        to a limited set of other users through any of our privacy controls or other settings,
-        please understand that Rover.com has no control over how others may collect, use,
-        or disclose such information.</strong></p>
-        </section>
+</section>
 
-        <section class="rover-content-group">
-            <h2 class="rover-content-section-title">9. Rover.com Members and Users</h2>
+<section class="rover-content-section">
+    <h4 class="rover-content-section-title">Contact Us</h4>
 
-        <p>When you register through the Site and submit your Personal Information to create a profile
-        webpage, Rover.com Users will see your first name and last initial ("Required Member
-        Identifiers"). You can choose what other Personal Information you provide as part of your
-        profile ("Other Member Information") (together, your "Profile Information"). We will display
-        your Profile Information in your profile page, elsewhere on the Site, and on third party
-        sites (e.g., through the use of a Rover.com HTML "widget" or API). Any information you
-        choose to provide as part of your profile should reflect how much you want other Rover.com
-        Users to know about you. We recommend that you guard your anonymity and sensitive
-        information and we encourage members to think carefully about what information about
-        themselves they disclose in their profile pages. You can review and revise your profile
-        information at any time.</p>
+    <p>
+        If you have any questions, concerns, or complaints about this Privacy Statement,please contact us:
+    </p>
 
-        <p>If you post a listing, we may publish that listing anywhere on the Site and may enable
-        third parties to publish your listing on their site through the use of an HTML "widget".
-        We may also display the geographical location of your listing in the form of a map so
-        that potential guests can see the general area and neighborhood of your listing, but your
-        actual street address will not be disclosed until you enter into a confirmed transaction
-        with another Rover.com Member. If you enter into a confirmed transaction with another
-        Rover.com Member (that is, you request hosting or sitting from another Member, the other
-        Member confirms your reservation, and your payment is processed, you will have access
-        to that Member's Identity Information, and that Member will have access to your Identity
-        Information. Note that Members will never have access to your Billing Information.</p>
-        </section>
+    <ul>
+        <li>
+            By phone: 1-888-453-7889 (U.S.) or +44 808 281 2524 (U.K.)
+        </li>
 
-        <section class="rover-content-group">
-            <h2 class="rover-content-section-title">10. Aggregate Information and Non-Identifying Information</h2>
+        <li>
+            By e-mail: <a href="mailto:privacy@rover.com">privacy@rover.com</a>
+        </li>
 
-        <p>We may share aggregated information that does not include Personal Information and we
-        may otherwise share disclose Non-Identifying Information and Log Data with third parties for
-        industry analysis, demographic profiling and other purposes. Any aggregated information
-        shared in these contexts will not contain your Personal Information, unless such Personal
-        Information is Non-Identifying Information.</p>
-        </section>
+        <li>
+            By mail:  2101 4th Avenue, Suite 400, Attn: Privacy, Seattle, WA 98121, U.S.A.
+        </li>
+    </ul>
 
-        <section class="rover-content-group">
-            <h2 class="rover-content-section-title">11. Third Party Service Providers</h2>
-
-        <p>We may employ third party companies and individuals to facilitate, advertise and promote our Service, to provide
-        the Service on our behalf, to perform Site-related services (e.g., without limitation,
-        maintenance services, database management, web analytics and improvement of the
-        Site's features) or to assist us in analyzing how our Site and Service are used. These third
-        parties may have access to your Personal Information; if they do, this access is only so
-        that they may perform these tasks on our behalf and they are obligated not to disclose or
-        use it for any other purpose. We may also provide Personal Information to our business
-        partners or other trusted entities for the purpose of providing you with information on goods
-        or services we believe will be of interest to you. You can, at any time, opt out of receiving
-        such communications. We may use your Identity Information, alone or in conjunction with any
-        content you submit to the Site, to advertise and promote the Service and the pet care services you provide
-        (including without limitation, any photograph, words, pictures, or symbols),
-        and may provide your Identity Information and/or your submitted content to
-        third party service providers in connection with such advertising and promotion.
-        For example, we may ask advertisers to display ads on third party websites which
-        promote the pet care services you provide through Rover.
-        With your consent, ads which we request such third parties to display
-        may contain your name and contact information.</p>
-        </section>
-
-        <section class="rover-content-group">
-            <h2 class="rover-content-section-title">12. Compliance with Laws and Law Enforcement</h2>
-
-        <p>Rover.com cooperates with government and law enforcement officials and private parties to
-        enforce and comply with the law. We will disclose any information about you to government
-        or law enforcement officials or private parties as we, in our sole discretion, believe
-        necessary or appropriate to respond to claims and legal process (including but not limited to
-        subpoenas), to protect the property and rights of Rover.com or a third party, to protect the
-        safety of the public or any person, in the event of a dispute, or to prevent or stop
-        activity we may consider to be, or to pose a risk of being, any illegal,
-        unethical or legally actionable activity.</p>
-        </section>
-
-        <section class="rover-content-group">
-            <h2 class="rover-content-section-title">13. Business Transfers</h2>
-
-        <p>Rover.com may sell, transfer or otherwise share some or all of its assets, including your
-        Personal Information, in connection with a merger, acquisition, reorganization or sale of
-        assets or in the event of bankruptcy.</p>
-        </section>
-
-        <section class="rover-content-group">
-            <h2 class="rover-content-section-title">14. Changing or Deleting Your Information</h2>
-
-        <p>All Members may review, update, or correct the Personal Information in their registration
-        profile by visiting our <a href="https://support.rover.com/">Help Center</a> or editing the relevant part of their profile.
-            If you contact us, we will attempt to accommodate your request, including any request to
-            deactivate your record in our system. See below for privacy contact information.</p>
-        </section>
-
-        <section class="rover-content-group">
-            <h2 class="rover-content-section-title">15. Security</h2>
-
-        <p>We have put in place physical, electronic, and managerial procedures to safeguard and
-        secure the information we collect online to protect the Personal Information submitted to
-        us, both during transmission and once we receive it. No method of transmission over the
-        Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot
-        guarantee its absolute security. If you have any questions about security on our Web site,
-        you can visit our <a href="https://support.rover.com/">Help Center</a>.</p>
-
-        <p>We will attempt to make any legally required disclosures of any breach of the security,
-        confidentiality, or integrity of your unencrypted electronically stored "personal data" (as
-        defined in applicable state statutes on security breach notification) to you via email or
-        conspicuous posting on this Site, insofar as consistent with (i) the legitimate needs of law
-        enforcement or (ii) any measures necessary to determine the scope of the breach and
-        restore the reasonable integrity of the data system.</p>
-        </section>
-
-        <section class="rover-content-group">
-            <h2 class="rover-content-section-title">16. Links to Other Sites</h2>
-
-        <p>Our Site contains links to other websites. If you choose to visit an advertiser by "clicking on"
-        a banner ad or other type of advertisement, or click on another third party link, you will be
-        directed to that third party's website. The fact that we link to a website or present a banner
-        ad or other type of advertisement is not an endorsement, authorization or representation
-        of our affiliation with that third party, nor is it an endorsement of their privacy or information
-        security policies or practices. We do not exercise control over third party websites. These
-        other websites may place their own cookies or other files on your computer, collect data or
-        solicit personal information from you. Other sites follow different rules regarding the use or
-        disclosure of the personal information you submit to them. We encourage you to read the
-        privacy policies or statements of the other websites you visit.</p>
-        </section>
-
-        <section class="rover-content-group">
-            <h2 class="rover-content-section-title">17. Our Policy Toward Children</h2>
-
-        <p>We do not knowingly collect personally identifiable information from children under 18;
-        nor do we allow such persons to use our Site or Services.
-        If a parent or guardian becomes aware that his or her child has provided us with Personal
-        Information without their consent, he or she should visit our <a href="https://support.rover.com/">Help Center</a>. If we
-        become aware that a child under 18 has provided us with Personal Information, we will
-        delete such information from our files.</p>
-        </section>
-
-        <section class="rover-content-group">
-            <h2 class="rover-content-section-title">18. International Visitors</h2>
-
-        <p>The Service is hosted in and provided from the United States. If you use our Service from
-        the European Union or other regions with laws governing data collection and use that may
-        differ from U.S. law, please note that you are transferring your personal data to the United
-        States. The United States does not have the same data protection laws as the EU and
-        some other regions. By providing your personal information, you consent to the transfer
-        of your personal data to the United States and the use of your personal information in
-        accordance with this policy.</p>
-        </section>
-
-        <section class="rover-content-group">
-            <h2 class="rover-content-section-title">19. Contacting Us</h2>
-
-            <p>If you have any questions about this Privacy Policy, please visit our <a href="https://support.rover.com/">Help Center</a>.</p>
-        </section>
+    <p>
+        
+            Our data protection representative for the European Economic Area and
+            Switzerland is: Rover Europe GmbH, WeWork Atrium Tower, Eichhornstraße 3,
+            10785 Berlin, Germany.
+        
+    </p>
+</section>
 
 
                     </div>
@@ -844,112 +936,139 @@
 <div class="new-design js-new-design">
     <div class="footer">
         <div class="container">
-            <hr class="margin-bottom-x12 visible-xs">
+            <hr class="margin-bottom-x8 visible-xs">
 
+            
+            <div class="row">
+                <div class="col-xs-12">
+                    <ul class="search-breadcrumbs list-inline" itemprop="breadcrumb">
+                        <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                            <a href="/" itemprop="url"><span itemprop="title">Home</span></a>
+                        </li>
+                        
+                        <li class="nopadding">»</li>
+                        <li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                            <a href="/privacy/" itemprop="url"><span itemprop="title">Privacy Policy</span></a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
             
 
             <div class="row visible-xs margin-bottom-x8">
-                <ul class="xs-footer-links">
-                    <li><a href="https://support.rover.com/hc/en-us?ref=footer" target="_blank">Help Center</a></li>
-                    <li><a href="/about-us/?ref=footer">About Us</a></li>
-                    <li><a href="/joining-forces/?ref=footer">Joining Forces</a></li>
-                    <li><a href="/privacy/?ref=footer">Privacy Policy</a></li>
-                    <li><a href="/tos/?ref=footer">Terms of Service</a></li>
-                </ul>
-            </div>
-
-            <div class="row hidden-xs">
-                <div class="col-lg-6 col-md-6 col-sm-6">
+                
+                <div class="col-xs-12">
                     <div class="row">
-                        <div class="col-lg-4 col-md-4 col-sm-4">
+                        <div class="col-xs-6">
                             <h4>Learn More</h4>
                             <ul class="footer-list">
                                 <li><a href="https://www.rover.com/blog/?ref=footer">Read Our Blog</a></li>
                                 <li><a href="/community/questions/">Rover Q&amp;A Community</a></li>
                                 <li><a href="https://store.rover.com/?ref=footer">Rover Store</a></li>
-                                <li><a href="/insurance/">Premium Insurance</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-xs-6">
+                            <h4>&nbsp;</h4>
+                            <ul class="footer-list">
+                                <li><a href="/guarantee/">Rover Guarantee</a></li>
                                 <li><a href="/safety/">Safety</a></li>
                                 <li><a href="/sit-a-dog-save-a-life/?ref=footer">Sit a Dog, Save a Life</a></li>
+                                <li><a href="/help/?ref=footer" target="_blank">Help Center</a></li>
                                 
                             </ul>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-sm-4">
-                            <h4>Need Help?</h4>
-                            <ul class="footer-list">
-                                <li><a href="https://support.rover.com/hc/en-us?ref=footer" target="_blank">Help Center</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-4">
+                        <div class="col-xs-6">
                             <h4>About Rover</h4>
                             <ul class="footer-list">
                                 <li><a href="/about-us/?ref=footer">About Us</a></li>
-                                <li><a href="https://support.rover.com/hc/en-us/requests/new?ref=footer">Contact Us</a></li>
+                                <li><a href="/help/?ref=footer">Contact Us</a></li>
                                 <li><a href="/joining-forces/?ref=footer">Joining Forces</a></li>
                                 <li><a href="/app/?ref=footer">Get the App</a></li>
                                 <li><a href="https://www.rover.com/blog/press?ref=footer">Press</a></li>
                                 <li><a href="/rover-cam/?ref=footer">RoverCam</a></li>
-                                <li><a href="/jobs/?ref=footer">Jobs</a></li>
+                                <li><a href="/careers/?ref=footer&amp;lever-origin=applied&amp;lever-source=Site_Footer">Careers</a></li>                            </ul>
+                        </div>
+                        <div class="col-xs-6">
+                            <h4>&nbsp;</h4>
+                            <ul class="footer-list">
                                 <li><a href="/partners/?ref=footer">Partners</a></li>
                                 <li><a href="/privacy/?ref=footer">Privacy Policy</a></li>
+                                <li><a href="/tos/cookies/?ref=footer">Cookie Policy</a></li>
                                 <li><a href="/tos/?ref=footer">Terms of Service</a></li>
+                                <li><a href="/privacy/?ref=footer#advertising-and-analytics-services">Interest-Based Ads</a></li>
+                                <li><a href="/uk/">Rover UK</a></li>
                             </ul>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-lg-12 col-md-12 col-sm-12">
-                            <h4>Get cute puppies in your inbox</h4>
-                            <div class="js-email-capture-footer-form-failure hidden">
-                                <p class="margin-top-x1 margin-bottom-x1 text-tertiary">
-                                    Please enter a vaild email address.
-                                </p>
-                            </div>
-                            <div class="js-email-capture-footer-form-initial">
-                                <form class="js-email-capture-form form-inline" action="/newsletter-signup/" method="POST">
-                                    <label for="email" class="sr-only">Email: </label>
-                                    <input class="form-control email-capture-popup-input" type="email" name="email" placeholder="Email Address" data-track-event="" data-event-type="click" data-event="newsletter-submit" required="">
-                                    <button class="rover-btn rover-btn-primary margin-left-2x" type="submit">Submit</button>
-                                </form>
-                            </div>
-                            <div class="js-email-capture-footer-form-thanks hidden">
-                                <p class="margin-top-x5 margin-bottom-x1 text-primary">
-                                    <i class="rover-icon rover-icon-checked rover-icon-lg"></i>
-                                    Success!  Thanks for subscribing!
-                                </p>
-                            </div>
-                            <div class="social-footer-links margin-top-x4 padding-right-x2">
-                                <a target="_blank" class="margin-right-x1" href="https://www.facebook.com/RoverDotCom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;facebook&quot; }">
-                                    <div class="social-footer-sprite social-footer-sprite-facebook sprite img-circle"></div>
-                                </a>
-                                <a target="_blank" class="margin-right-x1" href="https://www.instagram.com/roverdotcom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;instagram&quot; }">
-                                    <div class="social-footer-sprite social-footer-sprite-instagram sprite img-circle"></div>
-                                </a>
-                                <a target="_blank" class="margin-right-x1" href="https://twitter.com/RoverDotCom" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;twitter&quot; }">
-                                    <div class="social-footer-sprite social-footer-sprite-twitter sprite img-circle"></div>
-                                </a>
-                                <a target="_blank" class="margin-right-x1" href="https://www.pinterest.com/roverdotcom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;pinterest&quot; }">
-                                    <div class="social-footer-sprite social-footer-sprite-pinterest sprite img-circle"></div>
-                                </a>
-                            </div>
-                            <div class="blog-footer-links margin-left-x2 margin-bottom-x4">
-                                <span class="our-blog small-text text-muted margin-v-x1 margin-right-x2">Our Blog</span>
-                                <a target="_blank" href="https://www.rover.com/blog/?ref=footer">
-                                    <div class="blog-footer-sprite blog-footer-sprite-daily-treat sprite"></div>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6">
-                    <h4>Top Rover Cities</h4>
-                    <div class="row">
-                        
+                    
+
+<div class="row padding-h-x0">
+    <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+        <h5 class="email-footer-text">Get cute puppies in your inbox</h5>
+        <div class="js-email-capture-footer-form-failure hidden">
+            <p class="margin-top-x1 margin-bottom-x1 text-tertiary">
+                Please enter a valid email address.
+            </p>
+        </div>
+        <div class="js-email-capture-footer-form-initial">
+            <form class="js-email-capture-form form-inline" action="/newsletter-signup/" method="POST">
+                <label for="email" class="sr-only">Email: </label>
+                <input class="form-control footer-email-input" type="email" name="email" placeholder="Email Address" data-track-event="" data-event-type="click" data-event="newsletter-submit" required="">
+                <button class="rover-btn rover-btn-primary margin-left-x2 float-right" type="submit">Submit</button>
+                
+                <p class="help-text emphasis text-left small-text padding-left-x1 margin-top-x2">
+                    By providing my e-mail address, I consent to receive marketing communications from Rover.com and its affiliates. <a href="/privacy/" class="text-nowrap">Privacy Policy</a>
+                </p>
+            </form>
+            
+        </div>
+        <div class="js-email-capture-footer-form-thanks hidden">
+            <p class="margin-top-x5 margin-bottom-x1 text-primary">
+                <i class="rover-icon rover-icon-checked rover-icon-lg"></i>
+                Success! Thanks for subscribing!
+            </p>
+        </div>
+        <div class="footer-links-wrapper margin-top-x5">
+        <div class="social-footer-links padding-right-x2">
+            <a target="_blank" class="margin-right-x1" href="https://www.facebook.com/RoverDotCom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;facebook&quot; }">
+                <div class="social-footer-sprite social-footer-sprite-facebook sprite img-circle"></div>
+            </a>
+            <a target="_blank" class="margin-right-x1" href="https://www.instagram.com/roverdotcom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;instagram&quot; }">
+                <div class="social-footer-sprite social-footer-sprite-instagram sprite img-circle"></div>
+            </a>
+            <a target="_blank" class="margin-right-x1" href="https://twitter.com/RoverDotCom" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;twitter&quot; }">
+                <div class="social-footer-sprite social-footer-sprite-twitter sprite img-circle"></div>
+            </a>
+            <a target="_blank" class="margin-right-x1" href="https://www.pinterest.com/roverdotcom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;pinterest&quot; }">
+                <div class="social-footer-sprite social-footer-sprite-pinterest sprite img-circle"></div>
+            </a>
+        </div>
+        <div class="blog-footer-links text-center margin-left-x2">
+            <div class="our-blog small-text text-muted margin-v-x1">visit our blog</div>
+            <a target="_blank" href="https://www.rover.com/blog/?ref=footer">
+                <div class="blog-footer-sprite blog-footer-sprite-daily-treat sprite"></div>
+            </a>
+        </div>
+        </div>
+    </div>
+</div>
+
+                    <div class="row visible-xs col-xs-12 margin-bottom-x2 margin-top-x4">
                         
                             
 
+<h4>Top Rover Cities</h4>
+<div class="row city-footer">
+    
+    
+        
+            
 
 
-    <div class="col-lg-4 col-md-4 col-sm-4">
-        <ul class="footer-list">
+
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-5">
+        <ul class="footer-list footer-cities">
             
                 <li><a href="/atlanta--ga--dog-boarding/">Atlanta</a></li>
             
@@ -983,12 +1102,237 @@
             
                 <li><a href="/indianapolis--in--dog-boarding/">Indianapolis</a></li>
             
+                <li><a href="/jacksonville--fl--dog-boarding/">Jacksonville</a></li>
+            
+                <li><a href="/kansas-city--mo--dog-boarding/">Kansas City</a></li>
+            
+                <li><a href="/las-vegas--nv--dog-boarding/">Las Vegas</a></li>
+            
+                <li><a href="/lexington--ky--dog-boarding/">Lexington</a></li>
+            
+                <li><a href="/los-angeles--ca--dog-boarding/">Los Angeles</a></li>
+            
+                <li><a href="/madison--al--dog-boarding/">Madison</a></li>
+            
+                <li><a href="/miami--fl--dog-boarding/">Miami</a></li>
+            
+                <li><a href="/milwaukee--wi--dog-boarding/">Milwaukee</a></li>
             
         </ul>
     </div>
 
-    <div class="col-lg-4 col-md-4 col-sm-4">
-        <ul class="footer-list">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-5">
+        <ul class="footer-list footer-cities">
+            
+                <li><a href="/minneapolis--mn--dog-boarding/">Minneapolis</a></li>
+            
+                <li><a href="/ca/mississauga--on--dog-boarding/">Mississauga</a></li>
+            
+                <li><a href="/new-york-city--ny--dog-boarding/">New York City</a></li>
+            
+                <li><a href="/oakland--ca--dog-boarding/">Oakland</a></li>
+            
+                <li><a href="/orlando--fl--dog-boarding/">Orlando</a></li>
+            
+                <li><a href="/ca/ottawa--on--dog-boarding/">Ottawa</a></li>
+            
+                <li><a href="/philadelphia--pa--dog-boarding/">Philadelphia</a></li>
+            
+                <li><a href="/phoenix--az--dog-boarding/">Phoenix</a></li>
+            
+                <li><a href="/portland--or--dog-boarding/">Portland</a></li>
+            
+                <li><a href="/richmond--va--dog-boarding/">Richmond</a></li>
+            
+                <li><a href="/sacramento--ca--dog-boarding/">Sacramento</a></li>
+            
+                <li><a href="/st-louis--mo--dog-boarding/">Saint Louis</a></li>
+            
+                <li><a href="/salt-lake-city--ut--dog-boarding/">Salt Lake City</a></li>
+            
+                <li><a href="/san-antonio--tx--dog-boarding/">San Antonio</a></li>
+            
+                <li><a href="/san-diego--ca--dog-boarding/">San Diego</a></li>
+            
+                <li><a href="/san-jose--ca--dog-boarding/">San Jose</a></li>
+            
+                <li><a href="/seattle--wa--dog-boarding/">Seattle</a></li>
+            
+                <li><a href="/tampa--fl--dog-boarding/">Tampa</a></li>
+            
+                <li><a href="/ca/toronto--on--dog-boarding/">Toronto</a></li>
+            
+                <li><a href="/tucson--az--dog-boarding/">Tucson</a></li>
+            
+                <li><a href="/washington--dc--dog-boarding/">Washington, D.C.</a></li>
+            
+                <li><a href="/ca/winnipeg--mb--dog-boarding/">Winnipeg</a></li>
+            
+                <li><a href="/us/top-dog-boarding-cities/">More cities</a></li>
+            
+                <li><a href="/us/top-dog-boarding-neighborhoods/">Neighborhoods</a></li>
+            
+        </ul>
+    </div>
+
+
+        
+    
+</div>
+
+                        
+                    </div>
+                </div>
+                
+            </div>
+
+            <div class="row hidden-xs">
+                
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-sm-4">
+                            <h4>Learn More</h4>
+                            <ul class="footer-list">
+                                <li><a href="https://www.rover.com/blog/?ref=footer">Read Our Blog</a></li>
+                                <li><a href="/community/questions/">Rover Q&amp;A Community</a></li>
+                                <li><a href="https://store.rover.com/?ref=footer">Rover Store</a></li>
+                                <li><a href="/guarantee/">Rover Guarantee</a></li>
+                                <li><a href="/safety/">Safety</a></li>
+                                <li><a href="/sit-a-dog-save-a-life/?ref=footer">Sit a Dog, Save a Life</a></li>
+                                
+                            </ul>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4">
+                            <h4>Need Help?</h4>
+                            <ul class="footer-list">
+                                <li><a href="/help/?ref=footer" target="_blank">Help Center</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4">
+                            <h4>About Rover</h4>
+                            <ul class="footer-list">
+                                <li><a href="/about-us/?ref=footer">About Us</a></li>
+                                <li><a href="/help/?ref=footer">Contact Us</a></li>
+                                <li><a href="/joining-forces/?ref=footer">Joining Forces</a></li>
+                                <li><a href="/app/?ref=footer">Get the App</a></li>
+                                <li><a href="https://www.rover.com/blog/press?ref=footer">Press</a></li>
+                                <li><a href="/rover-cam/?ref=footer">RoverCam</a></li>
+                                <li><a href="/careers/?ref=footer&amp;lever-origin=applied&amp;lever-source=Site_Footer">Careers</a></li>
+                                <li><a href="/partners/?ref=footer">Partners</a></li>
+                                <li><a href="/privacy/?ref=footer">Privacy Policy</a></li>
+                                <li><a href="/tos/cookies/?ref=footer">Cookie Policy</a></li>
+                                <li><a href="/tos/?ref=footer">Terms of Service</a></li>
+                                <li><a href="/privacy/?ref=footer#advertising-and-analytics-services">Interest-Based Ads</a></li>
+                                <li><a href="/uk/">Rover UK</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+
+<div class="row padding-h-x0">
+    <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+        <h5 class="email-footer-text">Get cute puppies in your inbox</h5>
+        <div class="js-email-capture-footer-form-failure hidden">
+            <p class="margin-top-x1 margin-bottom-x1 text-tertiary">
+                Please enter a valid email address.
+            </p>
+        </div>
+        <div class="js-email-capture-footer-form-initial">
+            <form class="js-email-capture-form form-inline" action="/newsletter-signup/" method="POST">
+                <label for="email" class="sr-only">Email: </label>
+                <input class="form-control footer-email-input" type="email" name="email" placeholder="Email Address" data-track-event="" data-event-type="click" data-event="newsletter-submit" required="">
+                <button class="rover-btn rover-btn-primary margin-left-x2 float-right" type="submit">Submit</button>
+                
+                <p class="help-text emphasis text-left small-text padding-left-x1 margin-top-x2">
+                    By providing my e-mail address, I consent to receive marketing communications from Rover.com and its affiliates. <a href="/privacy/" class="text-nowrap">Privacy Policy</a>
+                </p>
+            </form>
+            
+        </div>
+        <div class="js-email-capture-footer-form-thanks hidden">
+            <p class="margin-top-x5 margin-bottom-x1 text-primary">
+                <i class="rover-icon rover-icon-checked rover-icon-lg"></i>
+                Success! Thanks for subscribing!
+            </p>
+        </div>
+        <div class="footer-links-wrapper margin-top-x5">
+        <div class="social-footer-links padding-right-x2">
+            <a target="_blank" class="margin-right-x1" href="https://www.facebook.com/RoverDotCom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;facebook&quot; }">
+                <div class="social-footer-sprite social-footer-sprite-facebook sprite img-circle"></div>
+            </a>
+            <a target="_blank" class="margin-right-x1" href="https://www.instagram.com/roverdotcom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;instagram&quot; }">
+                <div class="social-footer-sprite social-footer-sprite-instagram sprite img-circle"></div>
+            </a>
+            <a target="_blank" class="margin-right-x1" href="https://twitter.com/RoverDotCom" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;twitter&quot; }">
+                <div class="social-footer-sprite social-footer-sprite-twitter sprite img-circle"></div>
+            </a>
+            <a target="_blank" class="margin-right-x1" href="https://www.pinterest.com/roverdotcom/" data-track-event="" data-event-type="click" data-event="social-outbound-click" data-event-merge="{ &quot;socialNetwork&quot;: &quot;pinterest&quot; }">
+                <div class="social-footer-sprite social-footer-sprite-pinterest sprite img-circle"></div>
+            </a>
+        </div>
+        <div class="blog-footer-links text-center margin-left-x2">
+            <div class="our-blog small-text text-muted margin-v-x1">visit our blog</div>
+            <a target="_blank" href="https://www.rover.com/blog/?ref=footer">
+                <div class="blog-footer-sprite blog-footer-sprite-daily-treat sprite"></div>
+            </a>
+        </div>
+        </div>
+    </div>
+</div>
+
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    
+
+<h4>Top Rover Cities</h4>
+<div class="row city-footer">
+    
+    
+        
+            
+
+
+
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-5">
+        <ul class="footer-list footer-cities">
+            
+                <li><a href="/atlanta--ga--dog-boarding/">Atlanta</a></li>
+            
+                <li><a href="/austin--tx--dog-boarding/">Austin</a></li>
+            
+                <li><a href="/baltimore--md--dog-boarding/">Baltimore</a></li>
+            
+                <li><a href="/boston--ma--dog-boarding/">Boston</a></li>
+            
+                <li><a href="/ca/calgary--ab--dog-boarding/">Calgary</a></li>
+            
+                <li><a href="/charlotte--nc--dog-boarding/">Charlotte</a></li>
+            
+                <li><a href="/chicago--il--dog-boarding/">Chicago</a></li>
+            
+                <li><a href="/cincinnati--oh--dog-boarding/">Cincinnati</a></li>
+            
+                <li><a href="/cleveland--oh--dog-boarding/">Cleveland</a></li>
+            
+                <li><a href="/columbus--oh--dog-boarding/">Columbus</a></li>
+            
+                <li><a href="/dallas--tx--dog-boarding/">Dallas</a></li>
+            
+                <li><a href="/denver--co--dog-boarding/">Denver</a></li>
+            
+                <li><a href="/ca/edmonton--ab--dog-boarding/">Edmonton</a></li>
+            
+                <li><a href="/fort-worth--tx--dog-boarding/">Fort Worth</a></li>
+            
+                <li><a href="/houston--tx--dog-boarding/">Houston</a></li>
+            
+                <li><a href="/indianapolis--in--dog-boarding/">Indianapolis</a></li>
+            
+        </ul>
+    </div>
+
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-5">
+        <ul class="footer-list footer-cities">
             
                 <li><a href="/jacksonville--fl--dog-boarding/">Jacksonville</a></li>
             
@@ -1022,12 +1366,11 @@
             
                 <li><a href="/phoenix--az--dog-boarding/">Phoenix</a></li>
             
-            
         </ul>
     </div>
 
-    <div class="col-lg-4 col-md-4 col-sm-4">
-        <ul class="footer-list">
+    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-5">
+        <ul class="footer-list footer-cities">
             
                 <li><a href="/portland--or--dog-boarding/">Portland</a></li>
             
@@ -1057,22 +1400,29 @@
             
                 <li><a href="/ca/winnipeg--mb--dog-boarding/">Winnipeg</a></li>
             
+                <li><a href="/us/top-dog-boarding-cities/">More cities</a></li>
             
-                <li><a href="/top-dog-boarding-cities/">See more cities</a></li>
-                <li><a href="/top-dog-boarding-neighborhoods/">See neighborhoods</a></li>
+                <li><a href="/us/top-dog-boarding-neighborhoods/">Neighborhoods</a></li>
             
         </ul>
     </div>
 
 
-                        
-                    </div>
+        
+    
+</div>
+
                 </div>
+            
             </div>
+
+        </div>
+        <div class="footer-copyright-and-address">
+            
             <p class="copyright">
-                © 2017 Rover.com. All Rights Reserved.
+                © 2018 Rover.com. All Rights Reserved.
             </p>
-            <p class="small-text text-center text-muted">2101 4th Ave #400 | Seattle, WA | 98121</p>
+            <p class="small-text text-center">2101 4th Ave #400 | Seattle, WA | 98121</p>
         </div>
     </div>
 </div>
@@ -1087,85 +1437,102 @@
 
 
         
-            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/header/logged_in_user']='<li class="visible-xs"><a href="{{urlInbox}}">Inbox</a>\n<li class="visible-xs"><a href="{{urlDashboard}}">Dashboard</a></li>\n{{#isSitter}}\n    <li class="visible-xs"><a href="{{urlProfile}}">Profile</a></li>\n    <li class="visible-xs"><a href="{{urlCalendar}}">Calendar</a></li>\n{{/isSitter}}\n{{#hasDog}}\n    <li class="visible-xs"><a href="{{urlDogPhotos}}">Photos</a></li>\n{{/hasDog}}\n{{^isSitter}}\n    <li class="visible-xs"><a href="{{urlProfile}}">Profile</a></li>\n    <li class="visible-xs"><a href="{{urlNotifications}}">Settings</a></li>\n{{/isSitter}}\n\n<li class="dropdown hidden-xs">\n    <a href="#" class="dropdown-toggle dropdown-with-avatar" data-toggle="dropdown">\n        <img src="{{smallPhotoUrl}}" class="avatar js-rover-avatar link-icon"> {{firstName}} <b class="caret"></b>\n    </a>\n\n    <ul class="dropdown-menu no-round">\n        <li data-view="performance-metrics__glanceview" class="performance-metrics performance-metrics__glanceview flex flex-dir-column flex-just-between padding-top-x4 padding-bottom-x2 rover-loading pointer"></li>\n\n        <li><a href="{{urlDashboard}}">Dashboard</a></li>\n\n        {{#performanceMetricsEnabled}}\n            <li>\n                <a href="{{urlProfile}}"\n                    data-track-event  data-event-type="click" data-event="sitterscores-glance-view-scores-displayed" data-event-merge=\'{"origin": "profile-link"}\'>\n                Profile\n                </a>\n            </li>\n        {{/performanceMetricsEnabled}}\n        {{^performanceMetricsEnabled}}\n            <li><a href="{{urlProfile}}">Profile</a></li>\n        {{/performanceMetricsEnabled}}\n\n        <li><a href="{{urlInbox}}">Inbox</a></li>\n        {{#isSitter}}\n            <li><a href="{{urlCalendar}}">Calendar</a></li>\n        {{/isSitter}}\n        {{#urlNotifications}}\n            <li><a href="{{urlNotifications}}">Settings</a></li>\n        {{/urlNotifications}}\n        {{#hasDog}}\n            <li><a href="{{urlDogPhotos}}">Photos</a></li>\n        {{/hasDog}}\n        <li class="divider"></li>\n        <li><a href="{{urlLogout}}">Log out</a></li>\n    </ul>\n</li>\n\n<li class="hidden-xs"><a href="{{urlInbox}}"><span class="rover-icon rover-icon-in-envelope link-icon"></span>({{unreadMessageCount}})</a></li>\n\n<li><a href="https://support.rover.com/hc/en-us?ref=header" target="_blank" data-track-event data-event-type="click" data-event="navigation-help"><span class="rover-icon rover-icon-in-question-circle link-icon"></span>Help</a></li>\n\n<li class="divider visible-xs"></li>\n<li class="visible-xs"><a href="{{urlLogout}}">Log out</a></li>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/header/logged_in_user']='<li class="visible-xs"><a href="{{urlInbox}}">Inbox</a>\n<li class="visible-xs"><a href="{{urlDashboard}}">Dashboard</a></li>\n{{#isSitter}}\n    <li class="visible-xs"><a href="{{urlProfile}}">Profile</a></li>\n    <li class="visible-xs"><a href="{{urlCalendar}}">Calendar</a></li>\n{{/isSitter}}\n{{#hasDog}}\n    <li class="visible-xs"><a href="{{urlDogPhotos}}">Photos</a></li>\n{{/hasDog}}\n{{^isSitter}}\n    <li class="visible-xs"><a href="{{urlProfile}}">Profile</a></li>\n{{/isSitter}}\n{{#urlNotifications}}\n    <li class="visible-xs"><a href="{{urlNotifications}}">Settings</a></li>\n{{/urlNotifications}}\n\n<li class="dropdown hidden-xs">\n    <a href="#" class="dropdown-toggle dropdown-with-avatar" data-toggle="dropdown" data-qa-id="home-buttons-user-dropdown">\n        <img src="{{smallPhotoUrl}}" class="avatar js-rover-avatar link-icon"> {{firstName}} <b class="caret"></b>\n    </a>\n\n    <ul class="dropdown-menu no-round" data-qa-id="home-dropdowns-user-pages">\n        <li data-view="performance-metrics__glanceview" class="performance-metrics performance-metrics__glanceview flex flex-dir-column flex-just-between padding-top-x4 padding-bottom-x2 rover-loading pointer"></li>\n\n        <li><a href="{{urlDashboard}}" data-qa-id="home-buttons-user-menu-dashboard">Dashboard</a></li>\n\n        {{#performanceMetricsEnabled}}\n            <li>\n                <a href="{{urlProfile}}"\n                    data-track-event  data-event-type="click" data-event="sitterscores-glance-view-scores-displayed" data-event-merge=\'{"origin": "profile-link"}\'>\n                Profile\n                </a>\n            </li>\n        {{/performanceMetricsEnabled}}\n        {{^performanceMetricsEnabled}}\n            <li><a href="{{urlProfile}}" data-qa-id="home-buttons-user-menu-profile">Profile</a></li>\n        {{/performanceMetricsEnabled}}\n\n        <li><a href="{{urlInbox}}" data-qa-id="home-buttons-user-menu-inbox">Inbox</a></li>\n\n        {{#isSitter}}\n            <li><a href="{{urlCalendar}}">Calendar</a></li>\n        {{/isSitter}}\n\n        {{#urlNotifications}}\n            <li><a href="{{urlNotifications}}" data-qa-id="home-buttons-user-menu-settings">Settings</a></li>\n        {{/urlNotifications}}\n\n        {{#hasDog}}\n            <li><a href="{{urlDogPhotos}}" data-qa-id="home-buttons-user-menu-photos">Photos</a></li>\n        {{/hasDog}}\n        <li class="divider"></li>\n        <li><a href="{{urlLogout}}">Log out</a></li>\n    </ul>\n</li>\n\n{{#showReactNotificationsCenter}}\n    <li id="react-notifications-center"></li>\n{{/showReactNotificationsCenter}}\n\n<li class="hidden-xs"><a href="{{urlInbox}}" data-qa-id="home-buttons-inbox"><span class="rover-icon rover-icon-in-envelope link-icon"></span>({{unreadMessageCount}})</a></li>\n\n<li><a href="{{urlHelp}}" target="_blank" data-track-event data-event-type="click" data-event="navigation-help"><span class="rover-icon rover-icon-in-question-circle link-icon"></span>Help</a></li>\n\n{{#showBecomeASitter}}\n<li>\n    <a\n        class="js-become-a-sitter js-anonymous-user{{^isMobile}} rover-btn rover-btn-primary become-a-sitter-cta{{/isMobile}}"\n        href="{{urlBecomeASitter}}"\n        data-qa-id="home-navbar-links-become-a-sitter"\n    >\n    Become a Sitter\n    </a>\n</li>\n{{/showBecomeASitter}}\n\n<li class="visible-xs"><a href="{{urlLogout}}">Log out</a></li>\n\n{{#showReferralLink}}\n    <li class="divider visible-xs"></li>\n    <li class="visible-xs padding-x2">\n        <a class="js-referral-cta" id="owner-mobile-web-referral" href="{{urlReferAFriend}}">\n        <span class="padding-h-x2 text-primary">\n            <img class="padding-right-x4 vertical-align-bottom" src="{{staticSvgPresent}}"/>\n            <span class="heavy-text large-text">Give $20, Get $20</span>\n            <i class="rover-icon rover-icon-2x rover-icon-in-right pull-right menu-in-right"></i>\n        </span>\n        </a>\n    </li>\n{{/showReferralLink}}\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/alert']='<div class="alert alert-{{severity}} padded fade in js-alert">{{#showHideButton}}<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>{{/showHideButton}}{{message}}</div>\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/modal_sharing_buttons']='<div class="pull-left margin-left-x4 margin-bottom-x2 clearfix">\n    <div class="mfp-caption-display js-caption-display">{{caption}}</div>\n</div>\n\n<div class="text-right pull-left margin-left-x4 clearfix">\n    <div class="js-sharing-wrapper" data-image-to-share="{{imageToShare}}" data-image-thumbnail="{{imageThumbnail}}" data-url-to-share="{{urlToShare}}" data-content-type="{{contentType}}" data-object-id="{{objectId}}" data-campaign="{{campaign}}" data-share-location="{{shareLocation}}" data-tracking-content="{{trackingContent}}">\n\n        {{#hideable}}\n            <button class="btn btn-default btn-sm hide-photo-button js-hide-photo" data-object-id="{{objectId}}" data-hidden="{{hidden}}" data-loading-text="Loading..." data-hide-text="Hide photo" data-unhide-text="Unhide photo">\n                {{^hidden}}Hide photo{{/hidden}}{{#hidden}}Unhide photo{{/hidden}}\n            </button>\n        {{/hideable}}\n\n        <button class="button-as-link js-social-share-photo-button" data-network="facebook" title="Share on Facebook">\n            <span class="social-share-icon-wrapper facebook-share-outer">\n                <span class="table-row auto-centered">\n                    <span class="table-cell rover-icon rover-icon-in-facebook text-contrast rover-icon-2x"></span>\n                </span>\n            </span>\n        </button>\n\n        <button class="button-as-link js-social-share-photo-button" data-network="pinterest" title="Share on Pinterest">\n            <span class="social-share-icon-wrapper pinterest-share-outer">\n                <span class="table-row auto-centered">\n                    <span class="table-cell rover-icon rover-icon-in-pinterest text-contrast rover-icon-2x"></span>\n                </span>\n            </span>\n        </button>\n    </div>\n</div>\n';</script>
-            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/facebook_share_form']='<input type="hidden" name="imageToShare" value="{{imageToShare}}"/>\n<input type="hidden" name="urlToShare" value="{{urlToShare}}"/>\n<input type="hidden" name="contentType" value="{{contentType}}"/>\n<input type="hidden" name="objectId" value="{{objectId}}"/>\n<input type="hidden" name="shareLocation" value="{{shareLocation}}"/>\n\n<div class="row">\n    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">\n        <div class="alert alert-danger js-need-connect-to-share hide">\n            In order to share this photo on Facebook, we need permission to post it on your behalf. Please <button class="rover-btn rover-btn-facebook js-connect-facebook" data-loading-text="<span class="rover-icon rover-icon-in-facebook rover-icon-lg btn-left-icon"></span> Connecting..." data-connect-location="photo_share"><span class="rover-icon rover-icon-in-facebook rover-icon-lg btn-left-icon"></span> Connect with Facebook</button>\n        </div>\n        <div class="alert alert-danger js-need-to-log-in hide">\n            In order to share this photo on Facebook, please <a href="{{signinUrl}}" class="alert-link">log in</a> to your Rover account\n        </div>\n    </div>\n</div>\n\n<div class="form-group">\n    <div class="row">\n        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">\n            <img src="{{imageThumb}}" class="js-share-image-thumb" height="80" width="80"/>\n        </div>\n        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-8">\n            <textarea class="form-control js-sharing-copy" rows="4" placeholder="Caption"></textarea>\n        </div>\n    </div>\n</div>\n';</script>
-            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/pinterest_share_link']='http://www.pinterest.com/pin/create/button/?url={{url}}&amp;media={{imageUrl}}\n';</script>
-            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/modal']='<div class="new-design">\n    <div class="js-rover-modal rover-modal {{#animate}}fade{{/animate}} {{classes}}" tabindex="-1" role="dialog" aria-hidden="true" {{&attrs}}>\n        <div class="js-modal-dialog modal-dialog {{ dialogClasses }}">\n            <div class="modal-content js-modal-content">\n                {{#title}}\n                    <div class="modal-header js-modal-header">\n                        {{^disableCancel}}\n                            <button type="button" class="close js-modal-close" data-dismiss="modal">\n                                <span aria-hidden="true">\n                                    <span class="rover-icon rover-icon-generic-none rover-icon-lg"></span>\n                                </span>\n                                <span class="sr-only">Close</span>\n                            </button>\n                        {{/disableCancel}}\n                        <h3 class="modal-title js-modal-title">{{title}}</h3>\n                    </div>\n                {{/title}}\n                <div class="modal-body {{^padding}}no-padding{{/padding}} js-modal-body">\n                    {{^title}}\n                        {{^disableCancel}}\n                            <button type="button" class="close js-modal-close" data-dismiss="modal">\n                                <span aria-hidden="true">\n                                    <span class="rover-icon rover-icon-generic-none rover-icon-lg"></span>\n                                </span>\n                                <span class="sr-only">Close</span>\n                            </button>\n                        {{/disableCancel}}\n                    {{/title}}\n                    <div class="modal-inner-body js-modal-inner-body">\n                        {{&content}}\n                    </div>\n                </div>\n                {{#showFooter}}\n                    <div class="modal-footer js-modal-footer">\n                        {{#showExtraButton}}\n                        <button type="button" class="rover-btn rover-btn-{{extraType}} pull-left js-modal-extra-action">\n                            {{#extraIcon}}<i class="fa {{extraIcon}}"></i>{{/extraIcon}}\n                            {{extraText}}\n                        </button>\n                        {{/showExtraButton}}\n\n                        {{^disableCancel}}\n                            {{#cancelText}}\n                                <button type="button" class="button-as-link js-modal-cancel margin-right-x2 text-muted" data-dismiss="modal">{{cancelText}}</button>\n                            {{/cancelText}}\n                        {{/disableCancel}}\n                        <button type="button" class="rover-btn rover-btn-{{okType}} js-modal-primary-action">\n                            {{#okIcon}}<i class="fa {{okIcon}}"></i>{{/okIcon}}\n                            {{okText}}\n                        </button>\n                    </div>\n                {{/showFooter}}\n            </div>\n        </div>\n    </div>\n</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/facebook_share_form']='<input type="hidden" name="imageToShare" value="{{imageToShare}}"/>\n<input type="hidden" name="urlToShare" value="{{urlToShare}}"/>\n<input type="hidden" name="contentType" value="{{contentType}}"/>\n<input type="hidden" name="objectId" value="{{objectId}}"/>\n<input type="hidden" name="shareLocation" value="{{shareLocation}}"/>\n\n<div class="row js-connect-facebook-wrapper">\n    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">\n        <div class="alert alert-danger js-need-connect-to-share hide">\n            In order to share this photo on Facebook, <br/> we need permission to post it on your behalf. <br/> <button class="rover-btn rover-btn-facebook js-connect-facebook" data-loading-text="Connecting..." data-hide-on-success="true" data-connect-location="photo_share"><span class="rover-icon rover-icon-in-facebook rover-icon-lg btn-left-icon"></span> Connect with Facebook</button>\n        </div>\n        <div class="alert alert-danger js-need-to-log-in hide">\n            In order to share this photo on Facebook, please <a href="{{signinUrl}}" class="alert-link">log in</a> to your Rover account\n        </div>\n    </div>\n</div>\n\n<div class="form-group">\n    <div class="row">\n        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">\n            <img src="{{imageThumb}}" class="js-share-image-thumb" height="80" width="80"/>\n        </div>\n        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-8">\n            <textarea class="form-control js-sharing-copy" rows="4" placeholder="Caption"></textarea>\n        </div>\n    </div>\n</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/social/pinterest_share_link']='https://www.pinterest.com/pin/create/button/?url={{url}}&media={{imageUrl}}\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/modal']='<div class="new-design">\n    <div class="js-rover-modal rover-modal {{#animate}}fade{{/animate}} {{classes}}" tabindex="-1" role="dialog" aria-hidden="true" {{&attrs}} data-qa-id="modal-element-modal">\n        <div class="js-modal-dialog modal-dialog {{ dialogClasses }}">\n            <div class="modal-content js-modal-content">\n                {{#title}}\n                    <div class="modal-header js-modal-header">\n                        {{^disableCancel}}\n                            <button type="button" class="close js-modal-close" data-dismiss="modal" data-qa-id="modal-button-close">\n                                <span aria-hidden="true">\n                                    <span class="rover-icon rover-icon-times-close rover-icon-lg"></span>\n                                </span>\n                                <span class="sr-only">Close</span>\n                            </button>\n                        {{/disableCancel}}\n                        <h3 class="modal-title js-modal-title" data-qa-id="title-search-modal">{{title}}</h3>\n                    </div>\n                {{/title}}\n                <div class="modal-body {{^padding}}no-padding{{/padding}} js-modal-body">\n                    {{^title}}\n                        {{^disableCancel}}\n                            <button type="button" class="close js-modal-close" data-dismiss="modal">\n                                <span aria-hidden="true">\n                                    <span class="rover-icon rover-icon-times-close rover-icon-lg"></span>\n                                </span>\n                                <span class="sr-only">Close</span>\n                            </button>\n                        {{/disableCancel}}\n                    {{/title}}\n                    <div class="modal-inner-body js-modal-inner-body">\n                        {{&content}}\n                    </div>\n                </div>\n                {{#showFooter}}\n                    <div class="modal-footer js-modal-footer">\n                        {{#showExtraButton}}\n                        <button type="button" class="rover-btn rover-btn-{{extraType}} pull-left js-modal-extra-action">\n                            {{#extraIcon}}<i class="fa {{extraIcon}}"></i>{{/extraIcon}}\n                            {{extraText}}\n                        </button>\n                        {{/showExtraButton}}\n\n                        {{^disableCancel}}\n                            {{#cancelText}}\n                                <button type="button" class="button-as-link js-modal-cancel margin-right-x2 text-muted" data-dismiss="modal">{{cancelText}}</button>\n                            {{/cancelText}}\n                        {{/disableCancel}}\n                        <button type="button" class="rover-btn rover-btn-{{okType}} js-modal-primary-action" data-qa-id="modal-button-submit">\n                            {{#okIcon}}<i class="fa {{okIcon}}"></i>{{/okIcon}}\n                            {{okText}}\n                        </button>\n                    </div>\n                {{/showFooter}}\n            </div>\n        </div>\n    </div>\n</div>\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/cta_popover']='<div class="popover rover-popover rover-popover-{{ popoverId }}" role="tooltip">\n    <div class="arrow"></div>\n    <div class="popover-content"></div>\n</div>\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/cta_popover_content']='<div>\n    {{#headerButtonLabel}}\n    <div class="header">\n        <button class="rover-btn rover-btn-primary btn-block header-btn">\n            {{#headerButtonIcon}}\n            <i class="rover-icon rover-icon-{{ headerButtonIcon }}"></i>\n            {{/headerButtonIcon}}\n            {{ headerButtonLabel }}\n        </button>\n    </div>\n    {{/headerButtonLabel}}\n    <div class="content">\n        <p class="title">\n          {{ title }}\n        </p>\n        <p class="text">\n            {{ text }}\n        </p>\n    </div>\n    <div class="footer">\n        <button class="rover-btn footer-btn">\n           {{ footerButtonLabel }}\n        </button>\n    </div>\n</div>\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/media_gallery/image']='<div class="rover-gallery-slide">\n    <a class="rsImg" href="{{src}}"></a>\n    {{#caption}}\n        <div class="rsCaption">\n            {{.}}\n        </div>\n    {{/caption}}\n    {{#unsafeHtmlCaption}}\n        {{! Only use unsafeHtmlCaption if you KNOW any user input in the caption has been escaped. }}\n        {{! See initializeGalleries in application.js for correct usage - note that it renders HTML via another Mustache template, with the user-entered caption in double brackets. }}\n        <div class="rsCaption">\n            {{{.}}}\n        </div>\n    {{/unsafeHtmlCaption}}\n</div>\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/common/media_gallery/video']='<div class="rover-gallery-slide video" data-video-backup-src="{{ backupSrc }}">\n    <a class="rsImg" data-rsVideo="{{ src }}" href="{{ thumbnail }}"></a>\n    {{#caption}}\n        <div class="rsCaption">\n            {{{caption}}}\n        </div>\n    {{/caption}}\n</div>\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/account_profile/performance_metrics/performance_metrics_glanceview']='{{#activePerformanceMetric}}\n<p class="margin-x0 text-center">{{ service_type.name }}</p>\n\n\n<div class="performance-metrics__glanceview__cards flex flex-dir-column flex-align-start margin-v-x1">\n    {{#activePerformanceMetric.bookingScoreBlocked}}\n    <!-- Locked State -->\n    <div class="performance-metrics__glanceview__card__blocked margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text text-muted margin-x0 margin-right-x2">\n            <h4 class="performance-metrics__glanceview__card__score-num overall-performance heavy-text padding-x2 margin-x0">\n                NA<i class="rover-icon rover-icon-lock"></i>\n            </h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">Booking Score</p>\n        </aside>\n    </div>\n    {{/activePerformanceMetric.bookingScoreBlocked}}\n\n    {{^activePerformanceMetric.bookingScoreBlocked}}\n    {{#booking_score}}\n    <div class="performance-metrics__glanceview__card margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text margin-x0 margin-right-x2 margin-bottom-x1">\n            <h4 class="\n                performance-metrics__glanceview__card__score-num overall-performance semibold-text padding-x2 margin-x0\n                {{^conditionalType.med_low}}{{performance_level}}-score{{/conditionalType.med_low}}\n                {{#conditionalType.med_low}}med-low-score{{/conditionalType.med_low}}\n            ">{{ value }}</h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">{{ title }}</p>\n            <p class="margin-x0">{{ caption }}</p>\n        </aside>\n    </div>\n    {{/booking_score}}\n    {{/activePerformanceMetric.bookingScoreBlocked}}\n\n    {{#activePerformanceMetric.repeatScoreBlocked}}\n    <!-- Locked State -->\n    <div class="performance-metrics__glanceview__card__blocked margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text text-muted margin-x0 margin-right-x2">\n            <h4 class="performance-metrics__glanceview__card__score-num overall-performance heavy-text padding-x2 margin-x0">\n                NA<i class="rover-icon rover-icon-lock"></i>\n            </h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">Repeat Score</p>\n        </aside>\n    </div>\n    {{/activePerformanceMetric.repeatScoreBlocked}}\n\n    {{^activePerformanceMetric.repeatScoreBlocked}}\n    {{#repeat_score}}\n    <div class="performance-metrics__glanceview__card margin-bottom-x2 padding-h-x5 flex flex-dir-row flex-just-start flex-align-center">\n        <aside class="performance-metrics__glanceview__card__score semibold-text margin-x0 margin-right-x2 margin-bottom-x1">\n            <h4 class="\n                performance-metrics__glanceview__card__score-num overall-performance semibold-text padding-x2 margin-x0\n                {{^conditionalType.med_low}}{{performance_level}}-score{{/conditionalType.med_low}}\n                {{#conditionalType.med_low}}med-low-score{{/conditionalType.med_low}}\n            ">{{ value }}</h4>\n        </aside>\n\n        <aside class="performance-metrics__glanceview__card-title flex flex-dir-column flex-just-center">\n            <p class="heavy-text margin-x0">{{ title }}</p>\n            <p class="margin-x0">{{ caption }}</p>\n        </aside>\n    </div>\n    {{/repeat_score}}\n    {{/activePerformanceMetric.repeatScoreBlocked}}\n</div>\n\n<a class="margin-x0 padding-x0 text-center" href="{{performanceMetricsUrl}}"\n    data-track-event  data-event-type="click" data-event="sitterscores-navigate-to-scores" data-event-merge=\'{"origin": "glanceview-link"}\'>\n    View Performance Scores\n</a>\n{{/activePerformanceMetric}}\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['js/app/services/pricing_field']='{{#proposedStay.total_price}}\nPrice:\n<span>\n   ${{proposedStay.total_price}}\n</span>\n{{/proposedStay.total_price}}\n{{^proposedStay.total_price}}\n<i class="rover-icon rover-icon-in-spinner fr-spin"></i> <em>calculating...</em>\n{{/proposedStay.total_price}}\n';</script>
-            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['js/app/stays/rebook']='<div class="rover-modal js-rebook-modal rebook-modal">\n    <div class="modal-dialog">\n        <div class="modal-content">\n            <div class="modal-body" style="max-height: none">\n                <h3 class="margin-top-x0">\n                    New Stay for {{requester.short_name}}\n                </h3>\n                <p class="nopadding">\n                    Use this feature to book with past customers or providers when they contact you outside of Rover.\n                    Please do not send unsolicited requests.\n                </p>\n                <div class="row js-service-selection service-select-buttons">\n                    {{#services}}\n                        <div class="col-xs-6 col-sm-{{col_sm}} padding-bottom-x5 col-lopad-xs col-lopad-sm col-lopad-md col-lopad-lg">\n                            <div class="rover-button text-center js-stay-type-btn js-stickit-data-value padding-x1" data-slug="{{slug}}">\n                                <a>\n                                    <div class="hidden-xs">\n                                        <i class="rover-icon rover-icon-{{service_type.icon}} rover-icon-2x"></i>\n                                    </div>\n                                    <div>\n                                        <div>\n                                            {{top_name}}<br />\n                                            {{bottom_name}}\n                                        </div>\n                                    </div>\n                                </a>\n                            </div>\n                        </div>\n                    {{/services}}\n                </div>\n                <form class="rebook-form js-rebook-form" action="{{action}}" role="form" method="POST">\n                    <ul class="pet-list list-inline margin-bottom-x4">\n                        <li>Dog(s):</li>\n                        {{#pets}}\n                            <li class="pet">\n                                <label class="checkbox-inline">\n                                    <input class="js-dog-checkbox js-checkbox-bind-to-list js-validate-element" type="checkbox" name="pets" value="{{url}}" checked="checked" data-rule-required="true" data-msg-required="Please include at least one pet in the conversation.">{{name}}{{^last}}, {{/last}}\n                                </label>\n                            </li>\n                        {{/pets}}\n                    </ul>\n\n                    <div class="form-group stay-duration margined">\n                        <div class="js-dates-for-service"></div>\n                    </div>\n                    <div class="js-pricing margin-bottom-x4 form-group hidden">\n                        Price: <em>Select dates to calculate price</em>\n                    </div>\n                    <div class="form-group">\n                        <label class="control-label">Message</label>\n                        <textarea name="content" class="form-control content" rows="3">\nHi {{receiver.first_name}},\nI\'ve created a new stay for the dates we discussed. Looking forward to it!\n-{{sender.first_name}}</textarea>\n                    </div>\n                    {{#needsPhoneNumber}}\n                    <div class="form-group">\n                        <label class="control-label">Phone Number</label>\n                        <input type="text" pattern="\\d*" name="phone_number" class="phone-number-input form-control js-phone-number-input" placeholder="555-555-5555" data-rule-required="true" data-rule-phoneus="true">\n                    </div>\n                    {{/needsPhoneNumber}}\n                    <input type="hidden" name="provider" value="{{provider.url}}">\n                    <input type="hidden" name="service" value="{{service_url}}">\n                    <input type="hidden" name="requester" value="{{requester.url}}">\n                    <input type="hidden" name="sender" value="{{sender.url}}">\n                    <div class="form-group">\n                        <button class="rover-btn rover-btn-primary margin-right-x2 pull-left js-submit-rebook-request"\n                                data-loading-text="Creating request...">Create stay request</button>\n                        <span>You can adjust the dates, dogs, and price on the Message page before you finalize your booking</span>\n                    </div>\n                    <div class="form-group">\n                        <button type="button" class="rover-btn rover-btn-default js-cancel">Cancel</button>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</div>\n';</script>
+            <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['js/app/stays/rebook']='<div class="rover-modal js-rebook-modal rebook-modal">\n    <div class="modal-dialog">\n        <div class="modal-content">\n            <div class="modal-body" style="max-height: none">\n                <h3 class="margin-top-x0">\n                    New Stay for {{requester.short_name}}\n                </h3>\n                <p class="nopadding">\n                    Use this feature to book with past customers or providers when they contact you outside of Rover.\n                    Please do not send unsolicited requests.\n                </p>\n                <div class="row js-service-selection service-select-buttons">\n                    {{#services}}\n                        <div class="col-xs-6 col-sm-{{col_sm}} padding-bottom-x5 col-lopad-xs col-lopad-sm col-lopad-md col-lopad-lg">\n                            <div class="rover-button text-center js-stay-type-btn js-stickit-data-value padding-x1" data-slug="{{slug}}">\n                                <a>\n                                    <div class="hidden-xs">\n                                        <i class="rover-icon rover-icon-{{service_type.icon}} rover-icon-2x"></i>\n                                    </div>\n                                    <div>\n                                        <div>\n                                            {{top_name}}<br />\n                                            {{bottom_name}}\n                                        </div>\n                                    </div>\n                                </a>\n                            </div>\n                        </div>\n                    {{/services}}\n                </div>\n                <form class="rebook-form js-rebook-form" action="{{action}}" role="form" method="POST">\n                    <ul class="pet-list list-inline margin-bottom-x4">\n                        <li>Dog(s):</li>\n                        {{#pets}}\n                            <li class="pet">\n                                <label class="checkbox-inline">\n                                    <input class="js-dog-checkbox js-checkbox-bind-to-list js-validate-element" type="checkbox" name="pets" value="{{url}}" checked="checked" data-rule-required="true" data-msg-required="Please include at least one pet in the conversation.">{{name}}{{^last}}, {{/last}}\n                                </label>\n                            </li>\n                        {{/pets}}\n                    </ul>\n\n                    <div class="form-group stay-duration margined">\n                        <div class="js-dates-for-service"></div>\n                    </div>\n                    <div class="js-pricing margin-bottom-x4 form-group hidden">\n                        Price: <em>Select dates to calculate price</em>\n                    </div>\n                    <div class="form-group">\n                        <label class="control-label">Message</label>\n                        <textarea name="content" class="form-control content" rows="3">\nHi {{receiver.first_name}},\nI\'ve created a new stay for the dates we discussed. Looking forward to it!\n-{{sender.first_name}}</textarea>\n                    </div>\n                    {{#needsPhoneNumber}}\n                    <div class="form-group">\n                        <label class="control-label">Phone Number</label>\n                        <input type="text" name="phone_number" class="phone-number-input form-control js-phone-number-input" data-rule-required="true">\n                    </div>\n                    {{/needsPhoneNumber}}\n                    <input type="hidden" name="provider" value="{{provider.url}}">\n                    <input type="hidden" name="service" value="{{service_url}}">\n                    <input type="hidden" name="requester" value="{{requester.url}}">\n                    <input type="hidden" name="sender" value="{{sender.url}}">\n                    <div class="form-group">\n                        <button class="rover-btn rover-btn-primary margin-right-x2 pull-left js-submit-rebook-request"\n                                data-loading-text="Creating request...">Create stay request</button>\n                        <span>You can adjust the dates, dogs, and price on the Message page before you finalize your booking</span>\n                    </div>\n                    <div class="form-group">\n                        <button type="button" class="rover-btn rover-btn-default js-cancel">Cancel</button>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</div>\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['js/app/stays/extend']='<div class="rover-modal js-rebook-modal rebook-modal">\n    <div class="modal-dialog">\n        <div class="modal-content">\n            <div class="modal-body" style="max-height: none">\n                <h3 class="margin-top-x0">\n                    Extend stay with {{provider.short_name}}\n                </h3>\n                <p class="nopadding">\n                    Use this feature to extend the dates of this Rover stay. Once you create the request the booking process is the same as the original request\n                </p>\n                <div class="row js-service-selection service-select-buttons">\n                    {{#services}}\n                        <div class="col-xs-6 col-sm-{{col_sm}} padding-bottom-x5 col-lopad-xs col-lopad-sm col-lopad-md col-lopad-lg">\n                            <div class="rover-button text-center js-stay-type-btn js-stickit-data-value padding-x1" data-slug="{{slug}}">\n                                <a>\n                                    <div class="hidden-xs">\n                                        <i class="rover-icon rover-icon-{{service_type.icon}} rover-icon-2x"></i>\n                                    </div>\n                                    <div>\n                                        <div>\n                                            {{top_name}}<br />\n                                            {{bottom_name}}\n                                        </div>\n                                    </div>\n                                </a>\n                            </div>\n                        </div>\n                    {{/services}}\n                </div>\n                <form class="js-auto-disable-form rebook-form js-rebook-form" action="{{action}}" role="form" method="POST">\n                    <ul class="pet-list list-inline margin-bottom-x4">\n                        <li>Dog(s):</li>\n                        {{#pets}}\n                            <li class="pet">\n                                {{name}}{{^last}}, {{/last}}\n                                <input type="hidden" name="pets" value="{{url}}" />\n                            </li>\n                        {{/pets}}\n                    </ul>\n\n                    <div class="form-group stay-duration margined">\n                        <div class="js-dates-for-service"></div>\n                    </div>\n                    <div class="js-pricing margin-bottom-x4 form-group hidden">\n                        Price: <em>Select dates to calculate price</em>\n                    </div>\n                    <div class="form-group">\n                        <label class="control-label">Message</label>\n                        <textarea name="content" class="form-control content" rows="3">\nHi {{receiver.first_name}},\nI\'ve extended this stay for the dates we discussed. Looking forward to it!\n-{{sender.first_name}}</textarea>\n                    </div>\n                    <input type="hidden" name="provider" value="{{provider.url}}">\n                    <input type="hidden" name="service" value="{{service_url}}">\n                    <input type="hidden" name="requester" value="{{requester.url}}">\n                    <input type="hidden" name="sender" value="{{sender.url}}">\n                    <input type="hidden" name="extended_stay_conversation" value="1">\n                    <input type="hidden" name="original_conversation" value="{{conversation.url}}">\n                    <div class="form-group">\n                        <button class="rover-btn rover-btn-primary margin-right-x2 pull-left js-submit-rebook-request" data-loading-text="Creating request...">Extend stay request</button>\n                        <span>You can adjust the dates, dogs, and price on the Message page before you finalize your booking</span>\n                    </div>\n                    <div class="form-group">\n                        <button type="button" class="rover-btn rover-btn-default js-cancel">Cancel</button>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</div>\n';</script>
             <script>Mustache.TEMPLATES=Mustache.TEMPLATES||{};Mustache.TEMPLATES['new_design/dogs']='{{#dogs}}\n    <div class="col-lg-3 col-md-4 col-sm-4 col-xs-4">\n        <label for="dog-{{id}}" class="dog-label checkbox-inline"><input type="checkbox" value="{{id}}" name="pet" id="dog-{{id}}" checked="checked"> {{name}}</label>\n    </div>\n{{/dogs}}\n';</script>
         
 
         
-
         <script>
     // Save a reference to Mustache.TEMPLATES so can reconstitute it after Mustache clobbers it
     Rover.mustacheTemplates = Mustache.TEMPLATES;
 </script>
 
+        <script type="text/javascript" src="/static/dist/manifest.1b6ef08c473121cf.js"></script>
+        
+            <script type="text/javascript" src="/static/dist/jquery.82dd60a4bc2b4933.js"></script>
+            <script type="text/javascript" src="/static/dist/header.40a208c02678f303.js"></script>
+            <script type="text/javascript" src="/static/dist/vendor.6b45d0a29ab90e47.js"></script>
+            <script type="text/javascript" src="/static/dist/application_js.1478ce78c3a0c101.js"></script>
+        
+
+        <!-- polyfills:
+         has to stay after common_chunk_js and manifest since webpack bootstrap code seems to live in those bundle -->
+        
+
+<script>
+  // careful about using new browser feature here. Some might not exist yet
+  if (!(
+      window.Intl &&
+      Intl.NumberFormat && Intl.NumberFormat.prototype.formatToParts &&
+      Intl.DateTimeFormat && Intl.DateTimeFormat.prototype.formatToParts
+  )) {
+    window.Intl = undefined; // disable the potential partial built-in Intl
+    // this is the only way to load and run this script synchronously
+    // Chrome will block loading script through document.write on slow network but we would not run this code in Chrome
+    document.write('<script src="/static/dist/polyfills/intl/en_US.2d654c1ffd0db9e4.js"><\/script>');
+  }
+</script>
+
 
         
-            <script type="text/javascript" src="/static/dist/vendor.682b0abc83cb3aa5.js"></script>
-            <script type="text/javascript" src="/static/dist/common.a7a152b200578459.js"></script>
-            <script type="text/javascript" src="/static/dist/js/utils.4ed683c0a0a3c2b2.js"></script>
-            <script type="text/javascript" src="/static/dist/js/search-to-request.3bc94851727b33e0.js"></script>
+            <script type="text/javascript" src="/static/dist/jobs_blurb.f585313c4e056030.js"></script>
         
 
+
         
+            <script type="text/javascript" src="/static/dist/common.a0aa90e2abb620a0.js"></script>
+            <script type="text/javascript" src="/static/dist/application.0e6c2587ce5bcbb6.js"></script>
+        
+
         
 
         
             
-
-    <div class="js-app-banner app-banner hidden">
-        <div class="banner-wrapper">
-            <div class="close-column">
-                <button type="button" class="js-close-app-banner close" aria-label="Close">
-                    <span aria-hidden="true">×</span>
-                </button>
+<div class="js-app-banner app-banner hidden">
+    <div class="banner-wrapper">
+        <div class="close-column">
+            <button type="button" class="js-close-app-banner close" aria-label="Close">
+                <span aria-hidden="true">×</span>
+            </button>
+        </div>
+        <div class="icon-column">
+            <img src="/static/icons/rover-favicon.47651b11d3be.png" class="icon">
+        </div>
+        <div class="info-column">
+            <div class="name-column">
+                <strong>Rover App</strong>
             </div>
-            <div class="icon-column">
-                <img src="/static/icons/rover-favicon.47651b11d3be.png" class="icon">
+            <div class="review-stars">
+                <i class="rover-icon rover-icon-in-star"></i>
+                <i class="rover-icon rover-icon-in-star"></i>
+                <i class="rover-icon rover-icon-in-star"></i>
+                <i class="rover-icon rover-icon-in-star"></i>
+                <i class="rover-icon rover-icon-in-star-half"></i>
             </div>
-            <div class="info-column">
-                <div class="container">
-                    <div class="row">
-                        <div class="name-column">
-                            <strong>Rover App</strong>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="review-stars">
-                            <i class="rover-icon rover-icon-in-star"></i>
-                            <i class="rover-icon rover-icon-in-star"></i>
-                            <i class="rover-icon rover-icon-in-star"></i>
-                            <i class="rover-icon rover-icon-in-star"></i>
-                            <i class="rover-icon rover-icon-in-star-half"></i>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="review-column text-muted">
-                            <span class="js-review-count"></span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="button-column">
-                <a href="" class="js-app-install-link rover-btn rover-btn-primary btn-sm" target="_parent">
-                    Open
-                </a>
+            <div class="review-column text-muted">
+                <span class="js-review-count"></span>
             </div>
         </div>
+        <div class="button-column">
+            <a href="" class="js-app-install-link rover-btn rover-btn-primary btn-sm" target="_parent">
+                Open
+            </a>
+        </div>
     </div>
-
+</div>
 
         
 
@@ -1206,44 +1573,7 @@
     </div>
 </div>
 
-            
-
-<div class="modal fade js-have-dog-prompt" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-dialog new-design">
-        <div class="modal-content">
-            <div class="modal-body text-center js-prompt">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="rover-icon rover-icon-generic-none rover-icon-x3"></i><span class="sr-only">Close</span></button>
-                <h3 class="modal-title">Have a dog? Owners want to know!</h3>
-                <p class="super-margined no-top-margin">Help Rover send you better matches by adding this info to your profile.</p>
-                <div class="row">
-                    <div class="col-xs-12">
-                        <a href="/account/profile/your-dogs/" class="rover-btn rover-btn-primary margin-right-x3"><i class="rover-icon rover-icon-in-paw margin-right-x1"></i>Add my dog</a>
-                        <button type="button" class="rover-btn rover-btn-secondary js-no-dog-link"><i class="rover-icon rover-icon-in-ban margin-right-x1"></i>I don't have a dog</button>
-                    </div>
-                </div>
-            </div>
-            <div class="modal-body text-center hidden js-thanks">
-                <h3 class="modal-title">Thanks!</h3>
-                <p class="super-margined no-top-margin">Planning to adopt a dog in the future? Be sure to add them to your sitter profile.</p>
-
-            </div>
-        </div>
-    </div>
-</div>
-
         
-
-        <div class="hide">
-    <form class="js-facebook-register" method="POST" action="/facebook/connect/">
-        <input type="hidden" name="csrfmiddlewaretoken" value="J6Zyi8k7N9b608RtS7KTLtBarvBMCTwh">
-        <input type="hidden" name="access_token" value="">
-        <input type="hidden" name="signed_request" value="">
-        <input type="hidden" name="facebook_id" value="">
-        <input type="hidden" name="promo_code" value="">
-        <input type="hidden" name="next" value="">
-    </form>
-</div>
-
     
 
 </body></html>
