@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toofab.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530085721id_/http%3A//www.warnerbros.com/privacy-center-wb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toofab.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231210206id_/http%3A//www.warnerbros.com/privacy-center-wb-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Warner Bros. - The Studio
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 Updated: December 8, 2017
 
-Thank you for visiting a [Warner Bros. Entertainment Group](https://web.archive.org/affiliates) ("we" or "us") offering. This Privacy Policy explains our online information practices and the choices you can make about information collected through our websites, services, and applications (each a “Site” or collectively, the “Sites”). This Privacy Policy applies to any Site that links directly to this policy. For certain offerings on our Sites, there may be additional notices about our information practices and choices. Please read those additional privacy disclosures to understand how they apply to you.
+Thank you for visiting a [Warner Bros. Entertainment Group](https://www.warnerbros.com/affiliates) ("we" or "us") offering. This Privacy Policy explains our online information practices and the choices you can make about information collected through our websites, services, and applications (each a “Site” or collectively, the “Sites”). This Privacy Policy applies to any Site that links directly to this policy. For certain offerings on our Sites, there may be additional notices about our information practices and choices. Please read those additional privacy disclosures to understand how they apply to you.
 
 **TABLE OF CONTENTS**
 
@@ -21,7 +21,7 @@ Thank you for visiting a [Warner Bros. Entertainment Group](https://web.archive
   * INTERNATIONAL TRANSFER
   * NOTIFICATION REGARDING UPDATES
   * HOW TO CONTACT US
-  * [AFFILIATES](https://web.archive.org/affiliates)
+  * [AFFILIATES](https://www.warnerbros.com/affiliates)
 
 
 
@@ -67,7 +67,7 @@ We may share and disclose Information in the following ways or for any other pur
 
  **Service providers.**  Our agents and contractors may have access to Information to help carry out the services they are performing for us, such as, but not limited to, creation, maintenance, hosting, and delivery of our Sites, products, and services, conduct marketing, handle payments, email and order fulfillment, administer contests, conduct research and analytics, or customer service.
 
-**Affiliates and other third parties.  **We may disclose Information to companies whose practices are not covered by this Privacy Policy. For example, we may share Information we collect with our [affiliates](https://web.archive.org/affiliates) to provide, improve, offer, market, and otherwise communicate with you about their own products and services.
+**Affiliates and other third parties.  **We may disclose Information to companies whose practices are not covered by this Privacy Policy. For example, we may share Information we collect with our [affiliates](https://www.warnerbros.com/affiliates) to provide, improve, offer, market, and otherwise communicate with you about their own products and services.
 
 We may also share Information with business partners and third parties (e.g., other companies, retailers, research organizations, advertisers, ad agencies, advertising networks and platforms, participatory databases, publishers, and non-profit organizations) that may want to market products or services to you. If we share personal information with such unaffiliated third parties for their own marketing purposes, we provide you with an opportunity to opt out of such uses either at the point of collection or through the choice mechanisms set forth in this Privacy Policy. To learn more about your choices, please see Your Choices below.
 
@@ -79,7 +79,7 @@ We may also share Information with business partners and third parties (e.g., ot
 
 **YOUR CHOICES**
 
-**Marketing communications and sharing with third parties.**  We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us, and our sharing of personal information with unaffiliated third parties for their direct marketing purposes. If you ever decide in the future that you would like to update these preferences, you may (i) log in to an account you have created with us at one of our Sites to adjust your settings, or (ii) send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7505071c0314160c3502175b161a18). To opt out of receiving our email marketing communications, you can also follow the "unsubscribe" instructions provided in any marketing email you receive from us. If you previously chose to receive push notifications on your mobile device from us, but no longer wish to receive them, you can manage your preferences through your device or app settings, depending on the type of device. For California residents, please see below for additional information on the choices we provide to you.
+**Marketing communications and sharing with third parties.**  We provide you with an opportunity to express your preferences with respect to receiving certain marketing communications from us, and our sharing of personal information with unaffiliated third parties for their direct marketing purposes. If you ever decide in the future that you would like to update these preferences, you may (i) log in to an account you have created with us at one of our Sites to adjust your settings, or (ii) send us an email at [privacy@wb.com](mailto:privacy@wb.com). To opt out of receiving our email marketing communications, you can also follow the "unsubscribe" instructions provided in any marketing email you receive from us. If you previously chose to receive push notifications on your mobile device from us, but no longer wish to receive them, you can manage your preferences through your device or app settings, depending on the type of device. For California residents, please see below for additional information on the choices we provide to you.
 
 **Ad Choices.  **We may work with reputable third parties to present advertisements, and engage in data collection, reporting, ad delivery and response measurement, and site analytics on our Sites and on third party websites across the Internet and applications over time. These third parties may use cookies, web beacons, pixels, or similar technologies to perform this activity. They may also obtain information about applications you use, websites you visit, and other information from across your devices and browsers in order to help serve advertising that may be more relevant to your interests on and off our Sites and across your devices and browsers. This type of advertising is known as interest-based advertising. They may also use this information to associate various browsers and devices together for the purpose of interest-based advertising and other purposes like analytics.
 
@@ -93,7 +93,7 @@ See also Cookies and Other Technical Information for more choices about managing
 
  
 
-**California residents**  \- your California privacy rights.  If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, email address, postal address, and the subject line labeled “Your California Privacy Rights”) by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2454564d5245475d6453460a474b49).
+**California residents**  \- your California privacy rights.  If you are a California resident, you may request information about our practices related to disclosing your personal information to certain third parties and/or opt-out of our sharing of your personal information with unaffiliated third parties for the third parties’ direct marketing purposes. Please send your request (along with your full name, email address, postal address, and the subject line labeled “Your California Privacy Rights”) by email at [privacy@wb.com](mailto:privacy@wb.com).
 
 **COOKIES AND OTHER TECHNICAL INFORMATION**
 
@@ -123,11 +123,11 @@ We have put in place reasonable controls designed to help safeguard the personal
 
 **HOW YOU CAN ACCESS OR CORRECT INFORMATION**
 
-To access the personal information that we have collected about you online from Sites on which this Privacy Policy is posted or to update your user profile, please log into your account if you have created one with us or send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#01717368776062784176632f626e6c).
+To access the personal information that we have collected about you online from Sites on which this Privacy Policy is posted or to update your user profile, please log into your account if you have created one with us or send an email to [privacy@wb.com](mailto:privacy@wb.com).
 
 **ADDITIONAL INFORMATION REGARDING CHILDREN'S PRIVACY**
 
-Visitors to this Site may participate in many activities without providing any personal information. However, in some cases if a user wants to participate in certain of our interactive features, we may ask the user to register and/or provide us with the user's age information and, in some cases, email address. If the person who registers indicates that he or she is under 13 years old, as permitted by law we will (i) collect no or limited personal information (e.g. email address only) from that individual, (ii) inform the child that a parent's verifiable consent is required, and/or (iii) collect the email address of the user's parent in addition to the user's email address. We use the parent's email address to seek the parent's verifiable consent or notify the parent of his/her child's online activities and enable the parent to unsubscribe his/her child from a newsletter or other similar activity. Once a parent provides consent, we may use any information from the child consistent with the rest of this Privacy Policy and/or the terms of the consent provided by the parent. If a user is under 13, we will not condition his/her participation in an online activity on the disclosure of more personal information than is reasonably necessary to participate in the activity. If you would like to review any personal information that we have collected online from your child, have this personal information deleted from our active servers, and/or request that there be no further collection or use of your child's personal information, or if you have questions about these information practices, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1b6b69726d7a78625b6c7935787476), or at Warner Bros. Privacy Office, 4000 Warner Blvd., Bldg. 3, Burbank, CA 91522.
+Visitors to this Site may participate in many activities without providing any personal information. However, in some cases if a user wants to participate in certain of our interactive features, we may ask the user to register and/or provide us with the user's age information and, in some cases, email address. If the person who registers indicates that he or she is under 13 years old, as permitted by law we will (i) collect no or limited personal information (e.g. email address only) from that individual, (ii) inform the child that a parent's verifiable consent is required, and/or (iii) collect the email address of the user's parent in addition to the user's email address. We use the parent's email address to seek the parent's verifiable consent or notify the parent of his/her child's online activities and enable the parent to unsubscribe his/her child from a newsletter or other similar activity. Once a parent provides consent, we may use any information from the child consistent with the rest of this Privacy Policy and/or the terms of the consent provided by the parent. If a user is under 13, we will not condition his/her participation in an online activity on the disclosure of more personal information than is reasonably necessary to participate in the activity. If you would like to review any personal information that we have collected online from your child, have this personal information deleted from our active servers, and/or request that there be no further collection or use of your child's personal information, or if you have questions about these information practices, you may contact us at [privacy@wb.com](mailto:privacy@wb.com), or at Warner Bros. Privacy Office, 4000 Warner Blvd., Bldg. 3, Burbank, CA 91522.
 
 **INTERNATIONAL TRANSFER**
 
@@ -139,4 +139,4 @@ From time to time, we may update this Privacy Policy. We will notify you about c
 
 **HOW TO CONTACT US**
 
-If you have any questions about this Privacy Policy you may contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cbbbb9a2bdaaa8b28bbca9e5a8a4a6) or at Warner Bros. Privacy Office, 4000 Warner Blvd., Bldg. 3, Burbank, CA 91522.
+If you have any questions about this Privacy Policy you may contact us at: [privacy@wb.com](mailto:privacy@wb.com) or at Warner Bros. Privacy Office, 4000 Warner Blvd., Bldg. 3, Burbank, CA 91522.
