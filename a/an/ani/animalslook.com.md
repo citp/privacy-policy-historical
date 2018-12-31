@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the animalslook.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628184257id_/http%3A//www.animalslook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalslook.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231081743id_/http%3A//www.animalslook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Animal's Look
 
-The privacy of our visitors to www.animalslook.com is important to us. At www.animalslook.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit www.animalslook.com, and how we safeguard your information. We never sell your personal information to third parties.  
-We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](http://g.ezoic.net/privacy/animalslook.com).  
-
+The privacy of our visitors to www.animalslook.com is important to us. At www.animalslook.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit www.animalslook.com, and how we safeguard your information. We never sell your personal information to third parties.
 
 ### Log Files
 
