@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newidea.com.au privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625105629id_/https%3A//www.newidea.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newidea.com.au privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231102528id_/https%3A//www.newidea.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Seven West Media Privacy Policy (Updated August 2017) » Sevenwest
 
