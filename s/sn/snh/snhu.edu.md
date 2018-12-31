@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snhu.edu privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624195205id_/https%3A//www.snhu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snhu.edu privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231033022id_/https%3A//www.snhu.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SNHU
 
@@ -32,6 +32,8 @@ Aggregate information is automatically provided by your computer and can be tied
 
 
 
+Southern New Hampshire University and/or it’s vendors may record web session activity for the purposes of experience optimization and performance.
+
 ## How do we use the personal information that you provide to us?
 
 Broadly speaking, your personal information is used to contact you regarding educational opportunities and products offered by our school. We may store your information for the purpose of communicating with you about the programs and services offered by our school and send you updates if and when they become available. We also use personal information for purposes of administering our business activities, providing customer service, and making other products and services available to our customers and prospective customers. If we receive your consent, we may also contact you using automated technology including through text messages (SMS) to your mobile phone. Occasionally, we may also use the information we collect to notify you about important changes to the web site, new services and special offers we think you will find valuable.
@@ -40,7 +42,7 @@ Broadly speaking, your personal information is used to contact you regarding edu
 
 We may share your information with third-party service providers for the limited purposes of communicating with you regarding the educational programs and services offered by our company, or to facilitate data-gathering to improve our educational services, our website, and our marketing efforts. We cannot and do not make any representations about the practices and policies of these companies, and they are not subject to our Privacy Policy.
 
-## How do we protect your **  personal **information?
+## How do we protect your personal information?
 
 We utilize encryption/security software to safeguard the confidentiality of personal information we collect. This software provides a limited degree of protection against unauthorized access or disclosure, as well as accidental loss, alteration or destruction.
 
