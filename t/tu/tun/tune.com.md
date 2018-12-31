@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tune.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625031325id_/https%3A//www.tune.com/resources/data-and-privacy/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tune.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231022844id_/https%3A//www.tune.com/resources/data-and-privacy/privacy-policies) for the most accurate reproduction.*
 
 # Our privacy policy and your privacy rights | TUNE
 
-**Effective Date: June 21, 2018**
+**Effective Date: August 17, 2018**
 
 TUNE, Inc. provides solutions for mobile and performance marketers.
 
@@ -12,7 +12,7 @@ For the HasOffers privacy policy, [CLICK HERE](https://www.hasoffers.com/privacy
 
 For the TMC privacy policy, please [CLICK HERE](https://www.tune.com/resources/data-and-privacy/privacy-policies/tmc-privacy-policy/).
 
-**U.S.—E.U.  Data Transfers**
+**U.S.—EU   Data Transfers**
 
 TUNE has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. See TUNE’s Privacy Shield Statement [here](https://web.archive.org/privacy-shield-statement/). To learn more about Privacy Shield, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).
 
@@ -45,7 +45,7 @@ We use the information we collect on the Websites for various purposes, includin
   * Providing confirmations, invoices, technical notices, updates, security alerts, as well as all other support and administrative messages involved in your request or purchase of TUNE products and services.
   * Alerting you to new products, special offers and promotions that may be offered by TUNE and our selected partners.
   * Processing your payment for enrolled TUNE products and services.
-  * Keeping you informed about TUNE promotional events, like [Postback](http://postback.tune.com/)
+  * Keeping you informed about TUNE promotional events, like [Postback](http://postback.tune.com/).
   * Registering your progress on courses taken at TUNE Academy.
   * Contacting you regarding an open position at TUNE for which you had previously applied. If you wish to share a TUNE job post with your friend, we will collect their name and email address to send them a one-time email inviting them to view the invite. We do not store this information for any reason.
 
@@ -65,7 +65,7 @@ Except as described in this Privacy Policy, TUNE will not share personally iden
 
 We may also share aggregated or anonymized information in a form that does not directly identify you or any end users with any third parties.
 
-**End User Choice & Opt-Out on the Websites**
+**End User Choice and Opt-Out on the Websites**
 
 **_TUNE Publications  
 _**If you no longer wish to receive TUNE publications (e.g. newsletters, blog digests), you may opt out using the unsubscribe link located at the bottom of each communication or by updating your preferences [here](https://mkt.tune.com/email-preference-center.html). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations. We will respond to your opt out request to access within a reasonable timeframe.
@@ -98,7 +98,7 @@ You may opt-out by visiting the website of that specific partner:
 We use reasonable efforts including a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [security@tune.com](mailto:security@tune.com).
 
 **Data Retention, Use, Access, Corrections and Removal**  
-We will retain your information for as long as your account is active or as needed to provide you TUNE services. If you wish to access, amend, correct, remove, or limit use of your information, contact us at [legal@tune.com](mailto:legal@tune.com) or by updating your preferences [here](https://mkt.tune.com/email-preference-center.html). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, unless a longer retention period is required or permitted by law. 
+We will retain your information for as long as your account is active or as needed to provide you TUNE services. If you wish to access, amend, correct, remove, or limit use of your information, contact us at [legal@tune.com](mailto:legal@tune.com) or by updating your preferences [here](https://mkt.tune.com/email-preference-center.html). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, unless a longer retention period is required or permitted by law.
 
 **Changes to This Policy**  
 We may update this privacy policy from time to time. We encourage you to periodically review this page for the latest information on our privacy practices. We will indicate the last date of material revisions at the top of the policy.
@@ -111,4 +111,12 @@ If you have any questions regarding this Privacy Policy, or would like more info
 
 TUNE, Inc.  
 2200 Western Ave., Suite 200  
-Seattle WA, 98121
+Seattle WA, 98121  
+CEO: Peter Hamilton
+
+TUNE has also appointed an external ePrivacy GmbH as its external Data Protection Officer. For all requests concerning the security of your data, you can contact our data protection officer at “[privacy@tune.com](mailto:privacy@tune.com).” If you have a particularly sensitive request, please contact our data protection officer by postal mail (available below).
+
+External Data Protection Officer  
+ePrivacy GmbH  
+represented by Prof. Dr. Christoph Bauer  
+Große Bleichen 21, 20354 Hamburg
