@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biolayne.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626010435id_/https%3A//www.biolayne.com/legal-docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biolayne.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231234020id_/https%3A//www.biolayne.com/legal-docs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Biolayne
 
@@ -10,7 +10,7 @@ This page informs you of our policies regarding the collection, use and disclosu
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://www.biolayne.com. In the event that any terms, conditions, and/or provisions of the Private Policy conflict with the Terms and Conditions, the Terms and Conditions shall control. 
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://www.biolayne.com. In the event that any terms, conditions, and/or provisions of the Private Policy conflict with the Terms and Conditions, the Terms and Conditions shall control.
 
 ### Information Collection And Use
 
@@ -54,7 +54,7 @@ We will disclose your Personal Information where required to do so by law or sub
 
 The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
 
-**HOWEVER, PLEASE BE AWARE THAT NO METHOD OF TRANSMISSION OVER THE INTERNET, OR METHOD OF ELECTRONIC STORAGE IS 100% SECURE AND WE ARE UNABLE TO GUARANTEE THE ABSOLUTE SECURITY OF THE PERSONAL INFORMATION WE HAVE COLLECTED FROM YOU. AS SUCH, YOU FULLY ACKNOWLEDGE AND UNDERSTAND ANY AND ALL POTENTIAL RISKS INVOVLED IN USING THE SERVICE. IN ADDITION, YOU HEREBY WAIVE US FROM ANY AND ALL, CAUSES OF ACTIONS, CLAIMS, COMPLAINTS, CONTROVERSIES, DAMAGES, DEBTS, SUITS, SUMS OF MONEY, AND/OR VARIANCES WHATSOEVER, IN LAW, EQUITY, AND/OR ADMIRALTY, WHICH YOU MAY HAVE AGAINST US, AS A RESULT OF YOUR PERSONAL INFORMATION NOT BEING 100% SECURE AND BEING DISCLOSED TO THIRD-PARTIES.**
+ **HOWEVER, PLEASE BE AWARE THAT NO METHOD OF TRANSMISSION OVER THE INTERNET, OR METHOD OF ELECTRONIC STORAGE IS 100% SECURE AND WE ARE UNABLE TO GUARANTEE THE ABSOLUTE SECURITY OF THE PERSONAL INFORMATION WE HAVE COLLECTED FROM YOU. AS SUCH, YOU FULLY ACKNOWLEDGE AND UNDERSTAND ANY AND ALL POTENTIAL RISKS INVOVLED IN USING THE SERVICE. IN ADDITION, YOU HEREBY WAIVE US FROM ANY AND ALL, CAUSES OF ACTIONS, CLAIMS, COMPLAINTS, CONTROVERSIES, DAMAGES, DEBTS, SUITS, SUMS OF MONEY, AND/OR VARIANCES WHATSOEVER, IN LAW, EQUITY, AND/OR ADMIRALTY, WHICH YOU MAY HAVE AGAINST US, AS A RESULT OF YOUR PERSONAL INFORMATION NOT BEING 100% SECURE AND BEING DISCLOSED TO THIRD-PARTIES.**
 
 ### International Transfer
 
@@ -86,4 +86,4 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20180626010435id_/https://www.biolayne.com/contact/).
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20181231234020id_/https://www.biolayne.com/contact/).
