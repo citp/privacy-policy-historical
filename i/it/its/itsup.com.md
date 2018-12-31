@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsup.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801162657id_/https%3A//www.itsup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsup.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231135507id_/https%3A//www.itsup.com/privacy) for the most accurate reproduction.*
 
 # ItsUp.com Privacy Policy / itsup.com
 
