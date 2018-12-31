@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the philips.ca privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722122525id_/https%3A//www.philips.ca/a-w/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philips.ca privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231114215id_/https%3A//www.philips.ca/a-w/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy notice | Philips
 
-#### Introduction
+## Philips privacy notice ****
+
+**  
+Last updated on October 1, 2018**
+
+### Purpose
+
+Privacy Notices inform you as to how we will collect and use your personal data. By using this website, you agree and consent to the terms of this Privacy Notice. If you do not understand, you can contact Philips@Privacy.com. 
+
+### Introduction ****
 
 This privacy notice applies to the personal data of consumers that is collected or used by Koninklijke Philips N.V. or its affiliates or subsidiaries (Philips). Philips appreciates the interest you have shown in our company, products and services by visiting our websites, [www.philips.com](https://www.philips.com/) or related communication channels, including, but not limited to, our social media pages and/or channels and blogs (together "Philips pages"). This privacy notice applies to all the personal data that Philips collects when you interact with Philips, such as when you visit our websites, when you use the products or services offered by Philips, when you purchase Philips products or services, when you subscribe to newsletters, when you contact customer support, and when you interact with Philips as a business customer, supplier or business partner, etc.
 
@@ -10,10 +19,10 @@ This includes, without limitation, all online and offline collections of all typ
 
 To create a global approach on the protection of privacy and to allow internal data transfers between Philips companies worldwide, Philips has adopted Binding Corporate Rules called the Philips Privacy Rules. You can find more information on the Philips Privacy Rules on the Philips privacy website ([www.philips.com/privacy](https://www.philips.com/a-w/privacy/introduction.html))
 
-## Why we ask you to share your Personal Data  
+### Why we ask you to share your Personal Data ****
 
-
-We ask you to share your personal data with us for purposes that include, but are not limited to:
+**  
+We ask you to share your personal data with us for purposes that include, but are not limited to:**
 
   * Buying Philips products and services online;
   * Activating or registering certain products and services or enhancing functionality;
@@ -27,7 +36,7 @@ We ask you to share your personal data with us for purposes that include, but ar
 
 
 
-When you deal with Philips on behalf of a business customer, supplier, or business partner, we ask you to provide us with personal data for purposes that include, but are not limited to:
+**When you deal with Philips on behalf of a business customer, supplier, or business partner, we ask you to provide us with personal data for purposes that include, but are not limited to:**
 
   * Managing customer relationships
   * Facilitating information access
@@ -42,9 +51,10 @@ When you deal with Philips on behalf of a business customer, supplier, or busine
 
 We generally process your personal data only for those purposes that we have communicated with you. If we use it for other (closely related) purposes, additional data protection measures will be implemented if required by law.
 
-## Type of Personal Data we may collect
+### Type of Personal Data we may collect ****
 
-When you interact with Philips, for instance by registering at My Philips, purchasing a product or interacting with Philips via our Philips pages, e.g. "like us on Facebook", we may ask for or receive certain data, such as:
+**  
+When you interact with Philips, for instance by registering at My Philips, purchasing a product or interacting with Philips via our Philips pages, e.g. "like us on Facebook", we may ask for or receive certain data, such as, but not limited to:**
 
   * Your name;
   * Your email address;
@@ -54,8 +64,9 @@ When you interact with Philips, for instance by registering at My Philips, purch
   * Your age;
   * Information about the products and services you have purchased;
   * Your usage of and activities on our Philips pages;
-  * Your interests; and
-  * Other information related to your online behavior.
+  * Your interests;
+  * Other information related to your online behavior; and
+  * If you are a Philips’ employee, your Philips Employee ID Number and Philips’ email.
 
 
 
@@ -69,11 +80,10 @@ In addition, we may collect personal data via cookies or similar techniques, inc
   * Your location;
   * The web pages you visit on our websites;
   * The advertisements you've viewed or clicked through;
-  * etc.
 
 
 
-When you interact with Philips on behalf of a business customer, supplier or business partner of Philips, we may collect:
+**When you interact with Philips on behalf of a business customer, supplier or business partner of Philips, we may collect information such as, but not limited to:**
 
   * Your name
   * Your email address
@@ -82,19 +92,18 @@ When you interact with Philips on behalf of a business customer, supplier or bus
   * Your IP address
   * Your business address
   * Name and address of the company you work for
-  * [personal details that may come up in the scope of the business relationship, e.g. your hobbies, age)
+  * Personal details that may come up in the scope of the business relationship, e.g. your hobbies, age
 
 
 
-## Different ways we collect your Personal Data  
+### Different ways we collect your Personal Data ****
 
-
-You can share your personal data with Philips in several ways, including, but not limited to:
+**You can share your personal data with Philips in several ways, including, but not limited to:**
 
   * Registering as a member of My Philips;
   * Registering a purchase or service;
   * Your communications with Philips. These can be product- or service-related, and may include the contents of your questions to us, or requests that you addressed to us;
-  * Communicating with one of our Philips Customer Care representatives by email, phone or in writing;
+  * Communicating with one of our Philips Customer Care representatives (which may include third parties located in Canada or elsewhere in the world) by email, phone or in writing;
   * Ordering a product or service;
   * Participating in a promotion, game or competition;
   * Participating in a social media activity related to a Philips promotion, e.g. clicking "like" or "share";
@@ -109,7 +118,7 @@ You can share your personal data with Philips in several ways, including, but no
 
 
 
-When you interact with Philips as a business customer, supplier or business partner:
+**When you interact with Philips as a business customer, supplier or business partner:**
 
   * Registering purchases
   * Provisions of services with Philips
@@ -124,8 +133,7 @@ When you interact with Philips as a business customer, supplier or business part
 
 Personal data may also reach us when we purchase another company of which you are a customer. If you do not want Philips to use your personal data that has not been provided by you, you may let us know at any time by contacting us at the Philips privacy website ([www.philips.com/privacy](https://www.philips.com/privacy)).
 
-## Sharing your Personal Data with others  
-
+### Sharing your Personal Data with others ****
 
 We may share your personal data with service providers, business partners and other third parties, in accordance with applicable law.
 
@@ -135,14 +143,15 @@ Philips may also disclose your data to other companies such as IT and communicat
 
 When you interact with Philips as a business customer, supplier or business partner, Philips may disclose personal data available in reports and other materials provided by you and/or your company pursuant to an engagement with another business partner and/or a supplier.
 
-If we are required by law to obtain your consent, or otherwise believe that your consent is appropriate in the circumstances, we will obtain your consent before we share your personal data.
+If we are required by law to obtain your consent, or otherwise believe that your consent is appropriate in the circumstances, we will obtain your consent before we share your personal data. We may do this by noting that the use of this website constitutes your consent to the processing of your personal data.
+
+Personal Data may be transferred out of and external to your geographic region, including possible transfers to the Netherlands, United States, European Union or the United Kingdom. If your personal data is transferred outside of your geographic region, we will take steps to protect your Privacy Rights and provide a comparable level of protection to your current geographic region’s legal requirements. Please note that your use of this website will serve as your consent for this transfer.
 
 Philips will disclose personal data only in conformance with this privacy notice and/or when required by law.
 
 From time to time, Philips may sell a business or a part of a business to another company. Such a transfer of ownership could include the transfer of your personal data directly related to that business to the purchasing company.
 
-## Your rights  
-
+### Your rights ****
 
 Once you have provided us with your personal data, you have reasonable access to that information so that you can update, modify or, if legally possible, delete it. For this purpose, we refer you to the Philips privacy website ([www.philips.com/privacy](https://www.philips.com/privacy)) where you can exercise your rights. On this website you can also pose other privacy questions or file your privacy complaints.
 
@@ -152,8 +161,7 @@ You will also be provided with an opt-out opportunity in our commercial messages
 
 We encourage you to keep your personal settings and personal data complete and current.
 
-#### Your choices  
-
+### Your choices ****
 
 We want to know you better so that we can serve you better while at the same time respecting your choices about how we use your personal data.
 
@@ -165,8 +173,7 @@ Where local law requires it, we will ask you to "opt-in" or affirmatively consen
 
 Because Philips sells thousands of products and services in hundreds of countries, you may have previously provided us with your personal data through reply cards, via our call centers or in some other manner. Your decision not to register now will not affect the personal data you have already provided to Philips. Of course, you will always have the option to unsubscribe from any targeted communication from Philips or change your personal profile information as described under "Your Rights".
 
-#### Do Not Track Signals  
-
+### Do Not Track Signals ****
 
 Philips takes privacy and security very seriously, and strives to put our website users first in all aspects of our business. Philips utilizes cookies to help you to get the most out of the Philips pages.
 
@@ -184,8 +191,7 @@ You can find further information on how to alter your cookie settings for the br
 
 On the Philips pages, Flash cookies are also used. Flash cookies may be removed by managing your Flash Player settings. Depending on the version of Internet Explorer (or other browser) and media player you use, you may be able to manage Flash cookies with your browser. You may manage Flash Cookies by visiting the [Adobe website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Please be aware that restricting the use of Flash Cookies may affect the features available to you.
 
-#### Social media  
-
+### Social media ****
 
 When you participate in various social media forums like Facebook, Twitter, Yammer, Pinterest, Instagram, LinkedIn, etc., you should be familiar with and understand the tools provided by those sites that allow you to make choices about how you share the personal data in your social media profile(s).
 
@@ -193,30 +199,25 @@ Philips is bound by the privacy practices or policies of these third parties, as
 
 Also, depending on the choices you have made regarding your settings on various social media sites (and/or in combination with your settings on the Philips pages), certain personal data may be shared with Philips about your online activities and social media profiles, e.g. interests, marital status, gender, user name, photos, comments and content you have posted/shared, etc.
 
-#### Linking to other websites  
-
+### Linking to other websites ****
 
 During your online journey across Philips websites, you may encounter links to other websites for your convenience and information. These websites may operate independently from Philips, and may have their own privacy notices, statements or policies. We strongly suggest that you review them to understand how your personal data may be processed in connection with those sites, as we are not responsible for the content of non-Philips-owned or managed sites, or the use or privacy practices of those sites. 
 
-#### Cloud  
-
+### Cloud ****
 
 Philips may store your personal data in a cloud. This means that your personal data may be processed on behalf of Philips by a cloud service provider and could be stored in different locations around the world. Philips makes use of organizational and contractual measures to protect your personal data and to impose similar but in no way less restrictive requirements on our cloud services providers, including requirements that your personal data be processed exclusively for the purposes mentioned above. 
 
-#### How we protect your personal data  
-
+### How we protect your personal data ****
 
 We recognize and take seriously our responsibility to protect the personal data you entrust to Philips from loss, misuse or unauthorized access. Philips uses a variety of security technologies and organizational procedures to help protect your personal data. For example, we implement access controls, use firewalls and secure servers, and we encrypt certain types of data, such as financial information and other sensitive data. 
 
-#### Special information for parents  
-
+### Special information for parents ****
 
 While Philips websites are not generally targeted at children under the age of 16, it is Philips' policy to comply with the law when it requires parent or guardian permission before children's information is collected, used or disclosed.
 
 Philips strongly recommends that parents take an active role in supervising the online activities of their children. If you believe we have collected personal data from a person who is under the age of 16, please contact us at the Philips privacy website ([www.philips.com/privacy](https://www.philips.com/privacy)).
 
-#### Changes to this privacy notice  
-
+### Changes to this privacy notice ****
 
 The services that Philips provides are always evolving and the form and nature of the services that Philips provides may change from time to time without prior notice to you. For this reason, we reserve the right to change or add to this privacy notice from time to time and will post any material revisions on our websites.
 
