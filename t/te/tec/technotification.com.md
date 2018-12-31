@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the technotification.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623163208id_/https%3A//www.technotification.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technotification.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231013615id_/https%3A//www.technotification.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policies
 
-Technotification.com respects the privacy concerns of the users of its Internet Sites (“Sites”), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used.
+[vc_row][vc_column width=”1/6″][/vc_column][vc_column width=”2/3″][vc_column_text]Technotification.com respects the privacy concerns of the users of its Internet Sites (“Sites”), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used.
 
 ## Use of Information
 
@@ -42,4 +42,4 @@ You can contact us by clicking here
 
 ## Your Acceptance of These Terms
 
-By using technotification.com and its Sites, you signify your acceptance of the technotification.com Privacy Policy. If you do not agree to this policy, please do not use our Sites. technotification.com reserves the right to modify, alter or otherwise update this policy at any time. We encourage visitors to review this policy from time to time. Your continued use of the technotification.com Sites following the posting of changes to these terms indicates your acceptance of these changes
+By using technotification.com and its Sites, you signify your acceptance of the technotification.com Privacy Policy. If you do not agree to this policy, please do not use our Sites. technotification.com reserves the right to modify, alter or otherwise update this policy at any time. We encourage visitors to review this policy from time to time. Your continued use of the technotification.com Sites following the posting of changes to these terms indicates your acceptance of these changes[/vc_column_text][/vc_column][vc_column width=”1/6″][/vc_column][/vc_row]
