@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewfortune.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626084724id_/http%3A//reviewfortune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewfortune.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231125612id_/http%3A//reviewfortune.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ReviewFortune.com
 
