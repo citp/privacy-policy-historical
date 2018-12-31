@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amsoil.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625061025id_/https%3A//www.amsoil.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsoil.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231053448id_/https%3A//www.amsoil.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AMSOIL Online Privacy Policy
 
 ### Effective May 25, 2018
 
-AMSOIL INC. ("AMSOIL") and its associated brands are committed to protecting the privacy and security of the information provided by our customers. Your privacy is important to us, and we make every effort to safeguard the information you provide when interacting with our websites, contests and communications with our employees. Our Privacy Policy was developed to help you understand the types of information we might collect when you visit our websites, including AMSOIL.com, or interact with us in other ways. It also explains how we may use that information, whether we disclose it to anyone and the choices you have regarding our use of, and your ability to review, correct, object to, or erase that information. If you have questions or concerns regarding this statement, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0d9ded6dff0ddd1c2dbd5c4d9ded79ed1ddc3dfd9dc9ed3dfdd). 
+AMSOIL INC. ("AMSOIL") and its associated brands are committed to protecting the privacy and security of the information provided by our customers. Your privacy is important to us, and we make every effort to safeguard the information you provide when interacting with our websites, contests and communications with our employees. Our Privacy Policy was developed to help you understand the types of information we might collect when you visit our websites, including AMSOIL.com, or interact with us in other ways. It also explains how we may use that information, whether we disclose it to anyone and the choices you have regarding our use of, and your ability to review, correct, object to, or erase that information. If you have questions or concerns regarding this statement, please contact [info@marketing.amsoil.com](mailto:info@marketing.amsoil.com). 
 
 ### Changes to this Privacy Policy
 
@@ -51,7 +51,7 @@ Examples of information we receive from other sources include updated delivery a
   * **Offerings from Authorized Vendors**  
 Examples of businesses with which we offer services or products include data supplied for Oil Analyzers Inc., the AMSOIL Dealer Print Center® and the Lowen™ Custom Vehicle Wraps portal for AMSOIL Dealers. Information shared with, and obtained from, these vendors is used only for the purpose of assisting in transactions and analyzing product offerings. 
   * **Account Information**  
-Examples of account information you can access easily at AMSOIL.com include up-to-date information regarding recent orders; personally identifiable information (including name, email, password, account communications and personalized setting preferences for services and address book entries); payment settings (credit card numbers and CSV numbers are not stored with your account and need to be entered at each transaction, unless otherwise noted); email notification settings (which can be controlled from individual email updates and newsletters by opting out at any time or by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9cf5f2faf3dcf1fdeef7f9e8f5f2fbb2fdf1eff3f5f0b2fff3f1) and requesting that their information be changed or removed from our records); and any order details which have been saved in EZ Online Order Forms or wish lists. 
+Examples of account information you can access easily at AMSOIL.com include up-to-date information regarding recent orders; personally identifiable information (including name, email, password, account communications and personalized setting preferences for services and address book entries); payment settings (credit card numbers and CSV numbers are not stored with your account and need to be entered at each transaction, unless otherwise noted); email notification settings (which can be controlled from individual email updates and newsletters by opting out at any time or by contacting [info@marketing.amsoil.com](mailto:info@marketing.amsoil.com) and requesting that their information be changed or removed from our records); and any order details which have been saved in EZ Online Order Forms or wish lists. 
 
 
 
@@ -84,7 +84,7 @@ The use of cookies and web beacons by any tracking utility company is not covere
   
 
   * **Advertising**   
-We partner with a third-party ad network to either display advertising on our website or manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect various specific information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you do not want this information used for the purpose of serving you targeted ads, you may opt out by clicking here: http://preferences.truste.com/, or by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#335a5d555c735e52415856475a5d541d525e405c5a5f1d505c5e) and requesting that your information be changed or removed from our records. Please note this does not opt you out of being served all advertising. You will continue to receive generic ads delivered by other websites' cookies. 
+We partner with a third-party ad network to either display advertising on our website or manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect various specific information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you do not want this information used for the purpose of serving you targeted ads, you may opt out by clicking here: http://preferences.truste.com/, or by contacting [info@marketing.amsoil.com](mailto:info@marketing.amsoil.com) and requesting that your information be changed or removed from our records. Please note this does not opt you out of being served all advertising. You will continue to receive generic ads delivered by other websites' cookies. 
   
 
 
@@ -135,7 +135,7 @@ AMSOIL may occasionally use a third-party provider to manage a promotional conte
 
 
 
-Ordering online with AMSOIL or engaging in other activities with our digital properties can result in small amounts of personally identifiable information (email, phone number or name) being encrypted and shared anonymously with social and search networks such as Facebook™, Google and Twitter™. You may opt out of any information sharing of this nature by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7811161e173815190a131d0c11161f5619150b171114561b1715) and requesting that your information be changed or removed from our records.   
+Ordering online with AMSOIL or engaging in other activities with our digital properties can result in small amounts of personally identifiable information (email, phone number or name) being encrypted and shared anonymously with social and search networks such as Facebook™, Google and Twitter™. You may opt out of any information sharing of this nature by contacting [info@marketing.amsoil.com](mailto:info@marketing.amsoil.com) and requesting that your information be changed or removed from our records.   
 In all cases where we share your information with other parties, we explicitly require that party to acknowledge and adhere to our privacy and customer data handling policies. AMSOIL may access, transfer, disclose and/or preserve personal data when doing so is required in order to (1) comply with applicable law or respond to legal inquiries from governmental bodies; (2) protect AMSOIL's customers from harassment or fraud; (3) block or halt attempts at the intrusion of our computer systems or networks; or, (4) protect the property or safety of AMSOIL, its users, or others. 
 
 ##### back to top __
@@ -200,7 +200,7 @@ If you provide us with your personal information, you have the following rights 
 
 
 
-**Accessing and Correcting Personal Information:** Please contact the AMSOIL Data Protection Officer to make any requests related to your personal data. The Data Protection Officer can be reached at AMSOIL INC., ATTN: Data Privacy, 925 Tower Avenue, Superior, Wisconsin 54880 USA, or via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6f060109002f020e1d040a1b060108410e021c000603410c0002). 
+**Accessing and Correcting Personal Information:** Please contact the AMSOIL Data Protection Officer to make any requests related to your personal data. The Data Protection Officer can be reached at AMSOIL INC., ATTN: Data Privacy, 925 Tower Avenue, Superior, Wisconsin 54880 USA, or via email at [info@marketing.amsoil.com](mailto:info@marketing.amsoil.com). 
 
 If you have a registered account on AMSOIL.com, you are free to amend any information contained in your account profile at any time by logging into your account and amending your account settings. 
 
@@ -224,11 +224,4 @@ If you have any questions or concerns regarding this Privacy Policy or AMSOIL’
 
 Regardless of your country of residence, the Data Controller responsible for your personal data is AMSOIL INC., which can be contacted at: 
 
-Via email:  |  | [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#91f8fff7fed1fcf0e3faf4e5f8fff6bff0fce2fef8fdbff2fefc)  
----|---|---  
-Via mail:  |  | AMSOIL INC.  
-Attn: Data Privacy  
-925 Tower Avenue  
-Superior, Wisconsin 54880   
-  
 ##### back to top __
