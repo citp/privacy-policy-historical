@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the box.net privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628203749id_/https%3A//www.box.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the box.net privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231011925id_/https%3A//www.box.com/legal/privacypolicy) for the most accurate reproduction.*
 
-# legal-privacy policy | Box
+# Box Privacy Notice | Box
 
 We're sorry, but Box doesn't work properly without JavaScript enabled.
 
@@ -147,6 +147,8 @@ Box’s Processor BCRs enable Box to transfer personal data that Box processes o
 Box, Inc.’s privacy practices, described in this Privacy Notice, comply with the APEC Cross Border Privacy Rules System.  The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies.  More information about the APEC framework can be found at: <http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx>.
 
  ** **[](https://privacy.truste.com/privacy-seal/validation?rid=1a315149-a1a4-4308-95f6-1e85d3625fa4)****
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=1ece3b60-9914-47d4-bab6-7dbdfa5a335a)
 
 ###  **EU-U.S. Privacy Shield** **and Swiss-U.S. Privacy Shield**
 
