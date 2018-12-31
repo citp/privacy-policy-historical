@@ -1,144 +1,171 @@
-> *The following text is extracted and transformed from the pcauthority.com.au privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008022539id_/http%3A//www.nextmedia.com.au/next-media-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcauthority.com.au privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231230512id_/http%3A//www.nextmedia.com.au/next-media-privacy-statement.html) for the most accurate reproduction.*
 
-# nextmedia-Privacy Statement
+# Privacy Policy | nextmedia - A Forum Media Company
 
-Nextmedia Holdings Pty Limited and its affiliated companies ("we") are committed to protecting your privacy. Please read this policy carefully as it describes the way in which we handle and collect your personal information. This applies to all personally identifiable information we receive, such as your name, address and telephone number.
+_Effective Date: 19 July 2018_
 
-We take this stance not just to fulfill our legislative obligations under the Privacy Act 1988 ("the Act"), but also because we value your trust and our ongoing relationship. You have no obligation to provide any personal information however if you choose to withhold your personal information we may not be able to provide the products or services that depend on the collection and use of your information.  
-This policy describes how we will abide by the Australian Privacy Principles ("APPs") that form part of the Act.  
-These principles relate to:
+Nextmedia Holdings Pty Limited and its affiliated companies and [websites](https://www.nextmedia.com.au/brands/) (“nextmedia”, “our”, “we”, ”us”) are committed to protecting your privacy. Please read this policy carefully as it describes the way in which we handle and collect your personal information. This applies to all personally identifiable information we receive, such as your name, address and telephone number.
 
-**Collection and Management of Personal Information**
+We take this stance not just to fulfil our legislative obligations under the Privacy Act 1988 (“the Act”), but also because we value your trust and our ongoing relationship. You have no obligation to provide any personal information however if you choose to withhold your personal information we may not be able to provide the products or services that depend on the collection and use of your information.
 
-The type of information we collect depends upon the product or services we are providing and generally can include name, address, phone number, fax, email address, birthdate, gender, job title, company, bank account / credit card and relevant details to enable processing of payments, IP address, as well as interests and details about your transactions. For employment we will collect additional personal information including educational and employment history and references. On occasion some of this personal information may be sensitive. We will only collect it with your consent or when required or authorised to by law.
+This policy describes how we will abide by the Australian Privacy Principles (“APPs”) that form part of the Act. If you are part of the EEA (European Economic Area) this policy is also applicable.
 
-Where possible, we collect your personal information directly from you. In some circumstances, however, we may also collect your personal information from third parties or public agencies where it is unreasonable or impracticable for us to collect the personal information directly from you.  
+When you use nextmedia Services by, among other actions, ordering a subscription or other product, providing registration details, setting newsletter preferences, browsing our sites, completing a survey, entering a contest or otherwise interacting with nextmedia Services, we gather personal information. Personal information is information that identifies you as an individual or relates to an identifiable individual. Several different types of personal information can be gathered when you interact with nextmedia Services, depending on the type of product or service being used. Collection of personal information is necessary to delivering you the nextmedia Services or to enhance your customer experience.
 
-Collection includes through :
+If you disclose any personal information relating to other people to us or to our service providers in connection with the nextmedia Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
 
-  1. registration when you purchase a magazine or digital subscription;
+We and our service providers collect personal information in a variety of ways, including:
 
-  2. registration to websites and  social media accounts ;
+## A) Through nextmedia Services
 
-  3. entry into promotions or competitions and answers to surveys ;
+i. **Registration** : When you register for a nextmedia Service, we collect personal information. For example, registration on our websites can be done by supplying a unique email address and password, or by linking your Facebook or Google accounts. See below “From Other Sources” for more information about linking your Facebook or Google Accounts. Registration to an event, conference or digital resources requires that you complete a form that will include, at a minimum, your name and email address. Registration when you purchase a magazine or digital subscription.
 
-  4. signing up to newsletters , email,  direct marketing and other notifications from our magazines, websites and other brands;
+ii. **Billing** : To subscribe to a nextmedia Service or enable payment via the nextmedia Services, we collect and use your name, address, telephone number, email address, credit or debit card information and other billing information.
 
-  5. registration to attend events and functions;
+iii. **User-Generated Content and Public Activities (Including Comments and Reader Reviews):** We offer you opportunities to engage in public activities on our websites and other nextmedia Services. “Public activities” are any actions you take on nextmedia Services that are designed to be visible to other users, including comments, recommendations, reader reviews, ratings or any other items that you submit. If you choose to engage in public activities, you should be aware that any personal information you submit can be read, collected and used by other users of these services. We are not responsible for the personal information you choose to submit in the course of your public activities and we have no responsibility to publish, take down, remove or edit any of your public activities or submissions (except as required by applicable laws). For more information, read the “Use of the Nextmedia sites and the Community Areas” section of the [Terms & Conditions](https://www.nextmedia.com.au/terms-conditions/).
 
-  6. application for employment with us;
+iv. **Competitions, Promotions and Special Offers** : We collect personal information, such as your name, address, age and email, from you when you participate in competitions, promotions or special offers.
 
-  7. communications with us such as telephone calls, faxes and emails regarding products and services;
+v. **Reader Surveys and Market Research** : We and our service providers collect personal information from you through voluntary surveys or feedback programs conducted via the nextmedia Services, through our service providers’ platforms, by phone, by mail or during in-person interviews or events. We will ask you for your consent to the processing of information at the point of collection. We also conduct similar research for advertisers.
 
-  8. registration for our loyalty programs; 
+vi. **Loyalty Programs** : When you interact with our loyalty programs and answer questionnaires, we collect personal information about you.
 
-  9. download and use of our digital publications and mobile applications (“apps”).
+vii. **Contact With Our Call Centres**. We collect personal information from you in non-digital contexts, including, for example, when you place an order over the phone or contact customer service.
 
-  10.  subscription to one of our magazines through a third party that is authorised to take subscriptions for us, we will collect your personal information from that third party. 
+viii. **Application for Employment and Internship**. We collect personal information from you such as your name, date of birth, address, and email.
 
+## B) From Other Sources
 
+i. Publicly available databases, including privately-held marketing and data analytics resources. For example, we may receive demographic information (age, sex, household income, job industry and job title) from these sources.
 
+ii. Joint marketing and third-parties, when they share the information with us.
 
-We will always undertake such collection by lawful and fair means and not in an unreasonably intrusive way. If we collect personal information about you from someone else, we will take reasonable steps to ensure that it is in accordance with the provisions of the APPs.
+iii. Social-media platforms or other third-party services (such as Google Play Store or Apple App Store). If you choose to link your social-media account or account relating to other third-party services to nextmedia Services, you may be asking third-parties to send us certain information from those social media accounts or services accounts, and you are authorising us to collect, store, and use what they send us in accordance with this Privacy Policy.
 
-**Use and Disclosure**  
-We may use and disclose your personal information for the purpose for which it was initially collected, namely to arrange, conduct and promote our media activities and provide you with requested products and services (and renewals thereof), as well as all purposes necessary and incidental to the provision of goods or services by us or by anyone on behalf of us. Some of these include;
+We collect, use or otherwise process personal information as allowed under applicable law, including where based on one or more of the following:
 
-  1. registration ,delivery, renewal, payment  for magazine subscriptions;
+  * The consent you provide to us at the point of collection of your personal information;
+  * The performance of the contract we have with you;
+  * The compliance of a legal obligation to which we are subject; or
+  * The legitimate interests of nextmedia, a third-party or yourself. It means that there are good reasons for the processing of your personal information and measures are taken to minimise the impact on your privacy rights and interests. Legitimate interest also references our use of your data in ways you would reasonably expect and that have a minimal privacy impact. We have a legitimate interest in collecting and processing personal information, for example: (1) to ensure that our networks and information are secure; (2) to administer and generally conduct business within nextmedia; and (3) to prevent fraud.
 
-  2. registration and delivery  for newsletters and communications;
 
-  3. offers to participate in promotions, competitions, surveys, events, functions;
 
-  4. offers that we believe will be of interest to you ; 
+**A) Provide the nextmedia Services You Request.** We use the information we gather about you to enable your use of nextmedia Services and fulfil your requests for certain products and services, such as providing the nextmedia Services’ functionality to you, arranging access to your registered account, providing you with customer service, responding to your inquiries, requests, questions, suggestions, compliments or complaints, completing your transactions, sending you administrative information (such as change of our terms, conditions, or policies) and enabling you to participate in and renew paid services, polls, promotions, surveys, research, events, digital resources and message boards (forums). We will engage in these activities to manage our contractual relationship with you or comply with a legal obligation.
 
+**B) Analysis and Development of New Products and Services.** We perform statistical, demographic and marketing analyses of users of the nextmedia Services, and their subscribing, purchasing, browsing and reading patterns, so we can analyse or predict our users’ preferences for product and services development purposes, to determine our promotional campaign effectiveness so we can adapt our campaign to the needs and interests of our users, and to generally inform advertisers about the nature of our subscriber base. We use this information for analytical purposes, including analysis to improve customer relationships, to support strategic business decisions and our marketing tactics and to measure and track our brand health. We will engage in these activities to manage our contractual relationship with you, to comply with a legal obligation, or because we have a legitimate interest in doing so.
 
+**C) Customising Your Experience.** We use the information that we have to better understand you and customise certain features of nextmedia Services to provide you with an enhanced experience including to show you offerings, promotions or products that may be of interest to you, based on the demographic information, type of device you are using to access the nextmedia Services, your usage of the nextmedia Services and your browsing and reading history. We will provide personalised services because we have a legitimate interest.
 
+**D) Email Newsletters and Other Marketing Activities as well as Facilitating Social Sharing.** nextmedia will send you email newsletters or promotional emails about services offered by nextmedia and its advertisers. To opt out of these emails, please see the section labelled “How do I opt out of receiving emails and promotions?“. We will use the information we have about you to advertise our services to you on our Services but also on other platforms. If you choose to use social-sharing functionalities, we will use your information to facilitate such action, and such action — along with any information you share — will be covered by the social-media platform’s privacy policy. We will engage in these activities with your consent or where we have a legitimate interest.
 
-In certain circumstances, we will use or disclose your personal information for a purpose other than the main reason it was collected (i.e. a secondary purpose). These circumstances are when:
+**E) Administrative Purposes.** We and our service providers use the information we have about you for the following legitimate business purposes:
 
-  1. the secondary purpose is related to the primary purpose of collection and you would reasonably expect us to use or disclose the information for that secondary purpose; or
+  * For auditing purposes, to verify that our internal processes function as intended and comply with legal, regulatory and contractual requirements;
+  * For fraud and security monitoring purposes, including, for example, to detect and prevent cyberattacks; and
+  * To understand and assess satisfaction with our Services or our customer care team.
 
-  2. you have consented to the use or disclosure; or
 
-  3. the information is not sensitive information and the secondary purpose is direct marketing and: 
 
-  4. it is impracticable for us to seek your consent before that particular use; and
+We engage in these activities to manage our contractual relationship with you, to comply with a legal obligation, or because we have a legitimate interest.
 
-  5. you have not requested that we do not send you direct marketing communications;
+**F) Allowing you to participate in Competitions, Promotions and Special Offers.** Some of these promotions have additional rules containing information about how we will use and disclose your personal information. We use this information to manage our contractual relationship with you.
 
-  6. we provide you with the express opportunity to decline any further direct marketing communications at the time of first communication is sent and thereafter upon request, and at no cost to you; or
+**G) Aggregating and/or Anonymising Personal Information.** We aggregate and/or anonymise personal information so that it will no longer be considered personally identifying. We do so periodically to generate other data for our use, which we may use and disclose for any purpose.
 
-  7. we reasonably believe that the use and/or disclosure is necessary to lessen or prevent a serious and imminent threat to an individual's life or health; or
+**H) User Generated Content and Public Activities.** When you share or recommend links to content on a social-media platform (such as Facebook, Google+ and Twitter), that action and any information you share will be covered by that platform’s privacy policy. Any information you disclose in your public activities, along with your screen name or ID, or any image or photo, becomes public.
 
-  8. we have reason to suspect that unlawful activity has been, is being or may be engaged in, and we use the personal information as a necessary part of our investigation of the matter or in reporting our concerns to relevant persons or authorities; or
+**A) Sharing Within nextmedia.** We share your personal information with our affiliates for the purposes listed in this Privacy Policy.
 
-  9. it is required or specifically authorised by law; or
+**B) Sharing With Service Providers.** We contract with other companies, agents or contractors (“service providers”) to provide services on our behalf. These services are, for example, credit-card, payment and billing processing, fulfillment of subscriptions, orders and prizes, information technology and related infrastructure provision, customer service, ad serving, shipping, email distribution, lead generation, list processing and analytics, research surveys, interviews, event management and analysis, or promotions management. In the course of performing these services, our service providers have access to your information including your personal information.
 
-  10. it is reasonably necessary for the enforcement of the criminal law, a law imposing a pecuniary penalty, or for the protection of the public revenue.
+**C) Sharing With Other Third-Parties.** We will not knowingly sell, rent, swap or authorise any third-party other than in the ordinary course of business with our service providers and clients to use your details without your permission. Nothing in this Privacy Policy is intended to restrict our use or sharing of aggregated or de-identified information in any way.
 
+i. We may share personal information, such as name, email, company and title, about attendees to our live events and conferences with sponsors; if we do, we will notify you when you provide us the information.
 
+ii. We may also share personal information to third-party sponsors of competitions, promotions and special offers and will let you know at the point of collection of your information if we do.
 
+iii. We may use a third-party payment service to process payments made through the nextmedia Services. If you wish to make a payment through the nextmedia Services, your personal information will be collected by such third-party and not by us, and will be subject to the third-party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third-party’s collection, use and disclosure of your personal information.
 
-We disclose your personal information offshore to our owners, joint venture partners, service providers and agents. It is not practicable to specify all countries to which we may disclose your personal information as, among other things, we are part of a global organisation. The countries and regions your personal information will be disclosed to include New Zealand, the USA and Europe.  
-We ensure that any organisation which we disclose your personal information to is subject to reasonable obligations to safeguard and protect your personal information and comply with Australian Privacy Laws.
+iv. We share in aggregate results from research surveys or events with advertisers and clients.
 
-**Websites, Apps, Cookies – non personal identifiable information**  
-In order to properly manage our websites and digital properties we may anonymously log information on our operational systems, and identify categories of visitors by items such as domains,  user's IP address, browser version or type, device name or type, operating system, service provider, and local time. This is to ensure that our websites and digital applications present the best  experience for visitors, measure your use of our products and services, show you relevant advertising. We have contracted with DoubleClick, Google and other advertising serving technology providers to serve all advertising on our Web sites, digital executions and direct marketing programs are also used in our environment - including various  analytic  programs ;  Google analytics , Adobe DPS, Apple and other electronic delivery systems . Aggregated data may be collected by us so that we may better provide our services to you. Aggregated data may be provided to third parties. Aggregated data includes information that relates purely to generic statistics such as demographics and traffic flow on our website and which does not personally identify you. Cookies may be used on some areas of our websites. A cookie is generated by a software application on a website's server, which enables it to improve your navigational experience through customisation enabled by tracking your navigation through a small text file on your hard drive. If you are concerned about cookies, most browsers now recognise when a cookie is offered, and permit you to opt-out of receiving them in the Options tab of your browser.
+v. We have a legitimate interest in disclosing or transferring your personal information to a third-party in the event of any reorganisation, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings). Such third-parties may include, for example, an acquiring entity and its advisors.
 
-**Direct Marketing**  
-From time to time we may use your personal information to identify  products and services that may be of interest to you.  We may use your personal information to send you information regarding our  products and services, and those available through our business partners.
+**D) Compliance With Legal Process.** We may access, preserve and disclose personal information if we are required to do so by law or we have a good faith belief that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorised use of nextmedia Services; (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions); and (5) cooperate with public and government authorities (which may be outside your country of residence).
 
-From time to time, with your consent, we may also provide your personal information to carefully selected third parties for the purpose of them providing you with information regarding products and services specific to your needs, and to help us conduct product enhancement activities.
+**E) By Using nextmedia Services, You May Elect to Disclose Personal Information.**
 
-If you do not wish to receive direct marketing information from us  or third parties (as applicable) as outlined in this section, please let us know by using the unsubscribe function in the communication you receive, or alternatively by contacting  [privacyofficer@nextmedia.com.au](mailto:privacyofficer@nextmedia.com.au).   We will take appropriate steps to ensure that you do not receive any such direct marketing information in future. 
+i. Public Activities: see above for more details on such activities. Public activities may be included in our RSS feeds, APIs and other distribution formats. As a result, your public activities may appear on other websites, blogs, or feeds.
 
-From time-to-time we may run promotions which require you to provide personal information directly to a third-party to redeem the promotional offer. In this instance, it is your responsibility to review the third-party's terms and conditions and privacy statement relating to data use, prior to redeeming the promotional offer. 
+ii. Through Your Social Sharing Activity: When you connect your nextmedia Services account with your social media account, you will share information with your friends associated with your social media account, with other users, and with your social media account provider. By doing so, you authorise us to facilitate this sharing of information, and you understand that the use of shared information will be governed by the social media provider’s privacy policy.
 
-**Data Quality**  
-Our objective is to ensure that the personal information we collect, use or disclose is accurate, complete and up-to-date and we will take reasonable steps to ensure this. Please contact the Privacy Officer at [privacyofficer@nextmedia.com.au](mailto:privacyofficer@nextmedia.com.au) or provided in the Contact Details in order to have any information corrected.  
-**  
-**Data security****  
-We will take reasonable steps to protect the personal information we hold from misuse and loss and from unauthorised access, modification or disclosure. Your personal information may be stored in hard copy documents but is generally stored electronically. We store information securely  \-  this includes onsite secure servers and trusted third party storage providers. 
+Other information does not specifically identify you and are collected through technology. It includes tracking information collected by us as well as third-parties.
 
-**Access and Correction**  
-You can access or correct your personal information by contacting us [privacyofficer@nextmedia.com.au](mailto:privacyofficer@nextmedia.com.au) or provided in the Contact Details. In certain circumstances we may refuse your request to access, or correct, your personal information.  
-The following are permissible exceptions under the Act:
+We use various internet technologies to manage, and track the use of, the nextmedia Services. We use and disclose this information for any purpose, except where we are required to do otherwise under applicable law. Information that we collect using these technologies is combined with personal information about you. If we combine information with personal information, we will treat the combined information as personal information.
 
-  1. providing access would pose a serious and imminent threat to the life or health of any individual; or
+**A) Device Information.** We collect information about the computer, mobile device or other device you use to access the nextmedia Services, such as Internet protocol (IP) addresses (the region or general location where your computer or device is accessing the Internet), geolocation information, unique device identifiers, browser type, browser language and other transactional information.
 
-  2. providing access would have an unreasonable impact upon the privacy of other individuals; or
+**B) Cookies, Beacons, Local Storage and Other Similar Technologies.** We use “cookies,” Web beacons, tags and scripts, and other similar technologies including local storage objects such as HTML5. These technologies allow us to manage access to and use of the nextmedia Services, recognise you and provide personalisation, and help us understand how people use the nextmedia Services. You will not be able to access certain areas of our websites, if your computer does not accept cookies from us. Because there is no accepted standard on how to respond to “do not track” browser-based signals, we do not respond to such signals. For more detailed information about our use of cookies and local storage, see the Cookie Policy [here](https://www.nextmedia.com.au/cookie-policy/).
 
-  3. the request for access is frivolous or vexatious; or
+We transmit website usage information to third-parties in order to show you advertising for nextmedia and affiliated brands when you visit other sites. For more information about our third-party ad servers, or to learn about your choices about not having this information used to target ads to you, please click [here](https://policies.google.com/technologies/ads) (for Google).
 
-  4. the information relates to existing or anticipated legal proceedings between us and yourself, and the information would not be accessible by the process of discovery in those proceedings; or
+**C) Analytics, Log Files and Reading History.** We gather certain information automatically and store it in log files. This information includes IP address, browser type, operating system and other usage information about the use of nextmedia Services, including a history of the pages you view.
 
-  5. providing access would reveal our intentions in relation to negotiations with you in such a way as to prejudice those negotiations; or
+We automatically combine this collected log-information with other information we collect about you. We do this to improve services we offer you, including customised recommendations, advertising to improve marketing, and to track access and use of nextmedia Services across the devices that you use to access us.
 
-  6. providing access would be unlawful; or
+One of the analytics service providers we use is Google Analytics. To learn more about how Google use data, visit <https://policies.google.com/privacy/partners>. For opt-out options specific to Google Analytics, please visit <https://tools.google.com/dlpage/gaoptout>.
 
-  7. denying access is required or authorised by or under law; or
+Some of the services and advertisements included in nextmedia Services, are delivered or served by third-party companies, which may collect information about your use of nextmedia Services.
 
-  8. providing access would be likely to prejudice an investigation of possible unlawful activity; or
+These companies place or recognise cookies, pixel tags, web beacons or other technology to track certain information about nextmedia Services website users. For example, in the course of serving certain advertisements, an advertiser may place or recognise a unique cookie on your browser in order to collect certain information about your use of nextmedia Services. For another example, an advertiser or ad server may also be able to collect your device’s unique identifier in the course of serving an ad. In many cases, this information could be used to show you ads on other websites based on your interests.
 
-  9. the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law; or
+We do not have access to, nor control over, these third-parties’ use of cookies or other tracking technologies or how they may be used.
 
-  10. the enforcement of laws relating to the confiscation of the proceeds of crime; or
+For example, we use Google to serve advertisements on nextmedia Services, which use the Google Ad Manager cookie, and in some cases, a unique device identifier, to show you ads based on your visit to our sites and other sites on the Internet. You may opt out of the use of the Google Ad Manager cookie by visiting the Google ad and content network privacy policy. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <http://www.youronlinechoices.com.au/>. You may also view more information [here](https://www.nextmedia.com.au/cookie-policy/).
 
-  11. the protection of the public revenue; or
+Your access to our websites should not be affected if you do not accept cookies served by third-parties.  
 
-  12. the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct; or
 
-  13. the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of its orders; by or on behalf of an enforcement body; or
+You can choose not to receive commercial email messages in the future by either (1) following the “unsubscribe” instructions located near the bottom of each email, or (2) you can email us at [support@nextmedia.com.au](mailto:support@nextmedia.com.au). It is important to note that this request does not prohibit us from sending you important administrative disclosures for non-marketing purposes.
 
-  14. an enforcement body performing a lawful security function asks the organisation not to provide access to the information on the basis that providing access would be likely to cause damage to the security of Australia..
+**A) Email Newsletters.** nextmedia and its affiliated websites offers email newsletters. If you no longer wish to receive a specific newsletter, follow the “unsubscribe” instructions located near the bottom of each newsletter. If you experience difficulty with the “unsubscribe” process, please contact us at [support@nextmedia.com.au](mailto:support@nextmedia.com.au) and provide your email address along with the name of the newsletter from which you would like to unsubscribe.
 
+**B) Mail or Telephone Promotions.** If, at any time, you prefer not to receive mail or telephone solicitations originated by nextmedia Services or if you prefer that we do not share this information with third-parties for marketing purposes, please email us at [privacyofficer@nextmedia.com.au](mailto:privacyofficer@nextmedia.com.au) or write to us at The Privacy Officer, Nextmedia Holdings Pty Ltd, Locked Bag 5555, St Leonards NSW 1590. Please include your name and phone number in the body of your email or letter, and put “Opt-out” in the subject line.
 
+If you would like to request to review, correct, restrict or delete personal information that you have previously provided to us, object to the processing of personal information, or if you would like to request to receive an electronic copy of your personal information for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us here.
 
+In your request, please state what personal information you would like to have changed, whether you would like to have your personal information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your personal information. For your protection, we only implement requests with respect to the personal information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request.
 
-If we hold personal information about you and you are able to establish that the information is not accurate, complete and up to date, we will take reasonable steps to correct the information so that it is accurate, complete and up to date.    Depending on the circumstances, you may be forwarded the information by mail or email, or you may be required to personally inspect your records at the appropriate place. A fee may apply to such access in the event that a request for access is onerous or time consuming. Such a fee will cover staff costs involved in locating and collating information, and reproduction costs. 
+We will respond to your request consistent with applicable law.  A fee may apply to such access in the event that a request for access is excessive.
 
-**Contact Details**  
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion).
+
+Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user.
+
+You may lodge a complaint with a data protection authority for your country or region or where an alleged infringement of applicable data protection law occurs. Australian privacy complaints are available [here](https://www.oaic.gov.au/individuals/how-do-i-make-a-privacy-complaint).
+
+**Manage Your Magazine Delivery Account in the Account Area.** You may review and update your magazine delivery account in the _My Account_ area for print subscribers at [www.mymagazines.com.au](http://www.mymagazines.com.au/). Should you require assistance, please call our toll-free number 1300 361 146 (click [here](https://www.mymagazines.com.au/page/contact-us) for a list of your local telephone numbers). If you have subscribed to our digital publications via another third-party platform, please direct your query to the appropriate third-party vendor.
+
+Unless specifically requested (for example, in connection with a particular survey), we ask that you not send us, and you not disclose, any sensitive personal information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or membership of a professional or trade association or union) on or through nextmedia Services or otherwise to us. Any requested information that includes sensitive information about health, political opinions, ethnicity, race, religion, sex life or sexual orientation can be left unanswered.
+
+We retain personal information for as long as needed or permitted in light of the purpose(s) for which it was obtained and consistent with applicable law. The criteria used to determine our retention periods include:
+
+  * The length of time we have an ongoing relationship with you, provide nextmedia Services to you and to support strategic business decisions for nextmedia Services;
+  * Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); or
+  * Whether retention is advisable in light of our legal position (for example, in light of applicable statutes of limitations, litigation or regulatory investigations).
+
+
+
+We seek to protect personal information with reasonable organisational, technological and physical safeguards commensurate to the sensitivity of the personal information.   Although we take appropriate measures to safeguard your information, we cannot guarantee its absolute security.  To further protect your data, we recommend that you use complex passwords for your accounts with us and for accounts with third-parties that you link to any of your accounts with us. Please do not use the same passwords you use for nextmedia Services for other services or share your password with unauthorised people. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contact Details” section below.
+
+We do not knowingly collect or store any personal information from children except as permitted by applicable law or unless otherwise stated (for example, as per the specific competition entry terms and conditions).
+
+nextmedia Pty Ltd is headquartered in Australia. The information you provide to us or that we obtain as a result of your use of nextmedia Services is collected in your country and subsequently transferred to Australia, New Zealand or to another country in which we have facilities or our affiliates operate or in which we engage service providers.
+
+We have in place adequate measures to ensure that any organisation which we disclose your personal information to is bound by obligations to safeguard and protect your personal information and comply with Australian Privacy Laws and The EU General Data Protection Regulation (GDPR).
+
+In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal information.
+
 Should you wish to contact us in relation to any of the information contained within this Privacy Policy, or to seek access to information we may hold on you, you may do so by writing to:
 
 The Privacy Officer  
@@ -146,12 +173,10 @@ Nextmedia Holdings Pty Ltd
 Locked bag 5555  
 St Leonards NSW 1590
 
-Please enclose a stamped self-addressed envelope in which we will send copies of any personal information held on you.    
-Or   
-Email to : [privacyofficer@nextmedia.com.au](mailto:privacyofficer@nextmedia.com.au?subject=Next-Media-Privacy-Request)
+Please enclose a stamped self-addressed envelope in which we will send copies of any personal information held on you.
+
+Alternatively, you may email: [privacyofficer@nextmedia.com.au](mailto:privacyofficer@nextmedia.com.au)
 
 You may be required to provide identification prior to us releasing personal information.
 
-Privacy policy last updated on 3 November 2014
-
-.
+We evaluate this privacy policy periodically in light of changing business practices, technology and legal requirements. As a result, it is updated from time to time. Any such changes will be posted on this page.
