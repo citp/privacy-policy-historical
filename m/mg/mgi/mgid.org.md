@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mgid.org privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231035807id_/https%3A//www.mgid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgid.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224935id_/https%3A//www.mgid.com/privacy-policy) for the most accurate reproduction.*
 
 # MGID: Native Advertising Marketplace
 
-This policy governs only [mgid.com](https://mgid.com/) (hereinafter may referred to as 'MGID', 'We' or 'Us') use and disclosure of information we collect when users elect to use the MGID widget, visit a publisher web site that includes the MGID widget or uses MGID Services, or view advertisements we serve. This policy does not otherwise apply to the practices of other web sites, third-party advertisers or advertising networks, or other services or companies that we do not own, manage or control. We do not control the privacy practices of such third parties, and you are subject to the privacy policies of those third parties when you use their services.
+This policy governs only [MGID](https://mgid.com/) (hereinafter may referred to as 'MGID', 'We' or 'Us') use and disclosure of information we collect when users elect to use the MGID widget, visit a publisher web site that includes the MGID widget or uses MGID Services, or view advertisements we serve. This policy does not otherwise apply to the practices of other web sites, third-party advertisers or advertising networks, or other services or companies that we do not own, manage or control. We do not control the privacy practices of such third parties, and you are subject to the privacy policies of those third parties when you use their services.
 
 As we explain in more detail below, we may collect information about you through the following means: 
   * when you complete a MGID registration, 
@@ -67,7 +67,7 @@ Following termination or deactivation of your MGID account, MGID may retain your
 
 **How We Use and Share Non-Personally Identifiable Information**
 
-**Use:** We will use your Registration Information: 
+**Use:** By using the our services, or providing us with any information, you consent to the collection, processing, maintenance and transfer of your Non-Personally Identifiable Information . We will use your Non-Personally Identifiable Information: 
   * to fulfill requests for our services; 
   * to communicate with you and respond to your inquiries; 
   * to conduct research about the use of the MGID services; 
@@ -101,15 +101,29 @@ The MGID Privacy Policy does not apply to, and we cannot control the activities 
 
 ### Changing or Deleting Your Information
 
-All registered users may review, update or correct the Personally Identifiable Information provided in their registration or account profile by changing their "user preferences" in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account entirely, please email us at privacy@mgid.com. However, you understand and agree that we are not able to remove your Personally Identifiable Information from the records of any third party who has been provided with your information in compliance with the use and sharing policy outlined above.
+All registered users may review, update or correct the Personally Identifiable Information provided in their registration or account profile by changing their "user preferences" in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account and information entirely or to prevent MGID from processing your data please email our Data Protection Compliance Officer at privacy@mgid.com. However, you understand and agree that we are not able to remove your Personally Identifiable Information from the records of any third party who has been provided with your information in compliance with the use and sharing policy outlined above.
 
 ### Security
 
 MGID is very concerned with safeguarding your information. MGID uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from MGID, at all times. Notwithstanding the foregoing measures, MGID cannot ensure or warrant the security of any information you transmit to MGID or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Your privacy settings may also be affected by changes to the functionality of MGID' distributors, such as social networks. MGID is not responsible for the functionality or security measures of any third party.
 
-### Policy Toward Children
+### Policy Towards Children
 
 This Site is not directed to children under 16. We do not knowingly collect or solicit personal information from children under 16 or knowingly allow such persons to register for an account. If you are under 16, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 16 is allowed to provide any personal information to or on MGID. In the event that we learn that we have collected personal information from a child under age 16 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 16, please contact us at [privacy@mgid.com](mailto:privacy@mgid.com).
+
+### Data Protection Terms for European Economic Area
+
+If your agreement with MGID incorporates this policy, or you otherwise use a MGID product that incorporates this policy, you must ensure that necessary disclosures are given to, and consents obtained from, end users in the European Economic Area. If you fail to comply with this policy, we may limit or suspend your use of the MGID’s services and/or terminate your agreement.
+
+Properties under your control. For MGID services used on any site, app or other property that is under your control, or that of your affiliate or your client, the following duties apply for end users in the European Economic Area.
+
+You must obtain end users’ legally valid consent to the use of cookies or other local storage where legally required and the collection, sharing, and use of personal data for personalization of ads.
+
+When seeking consent you must retain records of consent given by end users; and provide end users with clear instructions for revocation of consent. You must clearly identify each party that may collect, receive, or use end users’ personal data as a consequence of your use of MGID Services. You must also provide end users with easily accessible information about that party’s use of end users’ personal data.
+
+Properties under a third party's control. If personal data of end users of a third party property is shared with MGID due to your use of, or integration with, MGID services, then you must use commercially reasonable efforts to ensure the operator of the third party property complies with the above stated duties.
+
+Protection of Data Provider Personal Data. If you are accepting these Privacy Policy on behalf of your customer, you warrant that: (a) you have full legal authority to bind Customer to these Privacy Policy; (b) you have read and understand these Privacy Policy; and (c) you agree, on behalf of Customer, to these Privacy Policy. If you do not have the legal authority to bind Customer or your level of protection is not at least equivalent to that required under this Privacy Policy you should either cease processing the personal data or take reasonable and appropriate steps to remedy such non-compliance
 
 ### Links to Other Web Sites
 
@@ -122,4 +136,4 @@ We reserve the right to transfer your personal information in the event of a tra
 From time to time we may update this Privacy Policy. You should visit this page periodically to review any such changes to the privacy policy. In such cases, your continued use of this website or our service means that the provision of personally identifiable information to us after such material changes will be subject to the new terms. If we make material changes to this Privacy Policy that expand our rights to use your personal information that we have collected, we will notify you to seek your consent through email or a prominent posting on the site.  
 You always have the option to cancel your account with us at any time. Simply de-install the widget from your site. If you have any questions or need some clarification on our privacy policy, please do not hesitate to email us at support@mgid.com.
 
-This Privacy Policy was first published and made effective on June 01, 2014
+This Privacy Policy was last updated on May 24, 2018
