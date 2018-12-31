@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625220957id_/https%3A//www.aopa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231210842id_/http%3A//aopa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AOPA
 
@@ -11,7 +11,7 @@
 
 #### Privacy Officer
 
-AOPA has a dedicated Privacy Officer. If you ever have a question about this Privacy Policy or how your personal information is handled please contact our Privacy Officer by calling 800/USA-AOPA or email [memberservices@AOPA.org](mailto:memberservices@aopa.org).
+AOPA has a dedicated Privacy Officer. If you ever have a question about this Privacy Policy or how your personal information is handled please contact our Privacy Officer by calling 800/USA-AOPA or email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a0cdc5cdc2c5d2d3c5d2d6c9c3c5d3e0c1cfd0c18ecfd2c7).
 
 #### What information do we collect?
 
@@ -132,7 +132,7 @@ You may opt out of AOPA's use of your personal information.
 
 
 
-Please let us know your preferences by calling us at 800/USA-AOPA (872-2672), [updating your account information online](https://web.archive.org/account/aopaaccount), or emailing us at PrivacyOfficer@AOPA.org. 
+Please let us know your preferences by calling us at 800/USA-AOPA (872-2672), [updating your account information online](https://web.archive.org/account/aopaaccount), or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ## Definitions
 
@@ -142,7 +142,7 @@ Please let us know your preferences by calling us at 800/USA-AOPA (872-2672), [u
   * AOPA has two other Affiliated Companies that are required by law to have their own privacy policies. They are the AOPA Insurance Agency, Inc., an insurance brokerage company (not an insurance carrier) and the AOPA Aviation Finance Company, LLC, an aviation loan broker (not a lender).  You may view their privacy policies on their websites: [
     * AOPA Insurance Agency, Inc. privacy policy »
 ](http://insurance.aopa.org/about/legal)
-    * [AOPA Aviation Finance Company, LLC privacy policy »](https://web.archive.org/-/media/files/finance/aopaaviationfinanceprivacypolicy.pdf?la=en)
+    * [AOPA Aviation Finance Company, LLC privacy policy »](https://web.archive.org/-/media/files/finance/aopaaviationfinanceprivacypolicy.pdf?la=en&hash=1A8B9ECE94E8797494F6AA1FF4C762446B343DBF)
 
 
 
