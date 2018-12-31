@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobile88.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623163634id_/http%3A//www.mobile88.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile88.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231014050id_/http%3A//www.mobile88.com/privacy.asp) for the most accurate reproduction.*
 
 # Mobile88: Privacy Policy
 
