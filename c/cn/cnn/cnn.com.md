@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cnn.com privacy policy that was archived on 2018-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180517081332id_/https%3A//www.cnn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnn.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231214332id_/https%3A//www.cnn.com/privacy) for the most accurate reproduction.*
 
 # CNN Privacy Statement - CNN
 
-(CNN) **What's New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Turner, its affiliates and unaffiliated third parties. Please take the time to read the full privacy policy. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
+(CNN) **What's New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Turner, its affiliates, including AT &T, Inc. and Warner Media, LLC, and unaffiliated third parties. Please take the time to read the full privacy policy. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
 
 Thank you for visiting this website, a digital service presented to you by Turner Broadcasting System, Inc. ("Turner", "we" or "us"). Your privacy is important to us. As such, we provide this privacy policy ("Privacy Policy") explaining our online information practices and the choices you can make about the way your information is collected and used by this digital service and among Turner's network of affiliated and operated digital services ("Turner Network"), which includes any online or mobile websites, applications or digital services owned, operated or offered by, on behalf of, or in conjunction with Turner or its Affiliates, including any online or mobile website, application or digital service installation through which this Privacy Policy appears (each a "Service," collectively the "Services"). "Users" are persons that use the Services.
 
@@ -14,7 +14,7 @@ We receive both information that is directly provided to us, such as personal in
 
 At some Services, you may also be able to submit Information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. This Information may include, for instance, a recipient's name, address, e-mail address, and telephone number.
 
-2\. _Information That is Passively or Automatically Collected._ We, and our "Partners" who include Turner Affiliates, third party service providers, advertisers, advertising networks and platforms, agencies, and distribution or other partners may use automated means to collect various types of Information about you, your computer or other device used to access our Services. A representative, non-exhaustive list of the types of automatically collected information may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the name of your Internet service provider (e.g., Comcast, Verizon or AT&T) and domains used by such providers, mobile network, device identifiers (such as an Apple IDFA or an Android Advertising ID), device settings, browser settings, the web pages of the Services you have visited, Services visited before and after you visit a Service, the type of handheld or mobile device used to view the Service (e.g., iOS, Android), location information, and the content and advertisements you have accessed, seen, forwarded and/or clicked on. Please see our Section titled Cookies, and Other User and Ad-Targeting Technologies for more information about how the foregoing Information may be collected and used.
+2\. _Information That is Passively or Automatically Collected._ We, and our "Partners" who include Turner Affiliates, third party service providers, advertisers, advertising networks and platforms, agencies, and distribution or other partners may use automated means to collect various types of Information about you, your computer or other device used to access, or in connection with, our Services. A representative, non-exhaustive list of the types of automatically collected information may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the name of your Internet service provider (e.g., Comcast, Verizon or AT&T) and domains used by such providers, mobile network, device identifiers (such as an Apple IDFA or an Android Advertising ID), device settings, device attributes, browser settings, the web pages of the Services you have visited, Services visited before and after you visit a Service, the type of handheld or mobile device used to view the Service (e.g., iOS, Android), location information, and the content and advertisements you have accessed, seen, forwarded and/or clicked on. Please see our Section titled Cookies, and Other User and Ad-Targeting Technologies for more information about how the foregoing Information may be collected and used.
 
 3\. _Geo-location Information._ If you are accessing a Service from a mobile device or through a mobile application, you may be asked to share your precise (GPS level) geo-location information with us so we can customize your experience on our Services or on other Services, when we work with a Partner such as a third party mobile ad platform. If you agree to such collection, in most cases, you will be able to turn off such data collection at any time by accessing the privacy settings of your mobile device and/or through the settings in the applicable mobile application. 
 
@@ -162,78 +162,12 @@ If you have signed up to receive our e-mails and prefer not to receive marketing
 
 California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place.
 
- **VII. List of Turner Affiliates.**
+ **VII. Turner Affiliates.**
 
-Below is a representative list of some of the Turner companies that currently may have access to the Information collected from Users on our Services as set forth in this Privacy Policy. We may update this list from time-to-time, so please check back periodically to keep up-to-date. 
-
-BLEACHER REPORT, INC.
-
-CABLE NEWS INTERNATIONAL, INC.
-
-CABLE NEWS NETWORK, INC.
-
-CARTOON INTERACTIVE GROUP, INC.
-
-CARTOON NETWORK ENTERPRISES, INC.
-
-CNE TOURS, INC. (F/K/A CARTOON NETWORK SHOP, INC.)
-
-CNN INTERACTIVE GROUP, INC.
-
-COURT TV DIGITAL LLC
-
-COURTROOM TELEVISION NETWORK LLC
-
-GREAT BIG STORY, LLC 
-
-RETRO, INC.
-
-SUPERSTATION, INC.
-
-TBS INTERACTIVE GROUP, INC.
-
-TCM INTERACTIVE GROUP, INC.
-
-THE CARTOON NETWORK, INC.
-
-TNT INTERACTIVE GROUP, INC.
-
-TNT ORIGINALS, INC.
-
-TURNER BROADCASTING SALES, INC.
-
-TURNER CLASSIC MOVIES, INC.
-
-TURNER DIGITAL BASKETBALL SERVICES, INC.
-
-TURNER DIGITAL ENTERTAINMENT, LLC
-
-TURNER ENTERTAINMENT NETWORKS, INC.
-
-TURNER FESTIVALS, INC. (F/K/A TURNER DIRECT RETAILING, INC.)
-
-TURNER MEDIA VENTURES, INC.
-
-TURNER NETWORK SALES, INC.
-
-TURNER NETWORK TELEVISION, INC.
-
-TURNER PAGES, INC.
-
-TURNER SPORTS INTERACTIVE, INC.
-
-TURNER SPORTS, INC.
-
-Below is a list of some of the Time Warner companies that are affiliated with the Turner group companies and with whom we may share Information we collect at our Services. We may update this list from time-to-time with additional Time Warner companies, so please check back periodically to keep up-to-date.
-
-Warner Bros. Entertainment, Inc.
-
-Home Box Office, Inc.
-
-Time Warner, Inc.
+Please click[ here](https://turneraffiliates.turner.com/Affiliates/Turner-Affiliates-English) to see a representative list of Turner companies that currently may have access to the Information collected from Users on our Services as set forth in this Privacy Policy. This list also includes companies that are affiliated with the Turner group companies and their affiliates, with whom we may share Information we collect on our Services. We may update this list from time-to-time, so please check back periodically to keep up-to-date.
 
  **VIII. Updates & Effective Date**
 
 From time to time, we may update this Privacy Policy. We will notify you about material changes by either sending an email message to the email address you most recently provided to us or by prominently posting a notice on our Service. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and with whom we share it.
 
- _The Privacy Policy posted on this Service was updated on July 31, 2015._
+ _The Privacy Policy posted on this Service was updated on October 11, 2018._
