@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revcontent.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629113036id_/http%3A//faq.revcontent.com/customer/en/portal/articles/2703838-revcontent-s-privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revcontent.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231224820id_/http%3A//faq.revcontent.com/customer/en/portal/articles/2703838-revcontent-s-privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Revcontent | Revcontent's Privacy Policy
 
