@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldnetdaily.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630220818id_/http%3A//www.wnd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnetdaily.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231230945id_/https%3A//www.wnd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - WND
 
 [View printer-friendly version](https://web.archive.org/privacy-policy-print-version/)
 
@@ -41,10 +41,10 @@ We use clear gifs in our HTML-based emails to let us know which emails have been
 **LSOs**  
 We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs. Third Parties, with whom we partner to display advertising based upon your Web browsing activity, use HTML5 and Flash cookies to collect and store information.
 
-Flash cookies are different from browser cookies because of the amount of, type of, and manner in which data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+Flash cookies are different from browser cookies because of the amount of, type of, and manner in which data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here.](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
 
 **Behavioral Targeting**  
-We partner with a third party ad network to display advertising on our Web site. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish not to have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to display advertising on our Web site. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish not to have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](https://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 **WND News Alert feature**  
 After signing up to receive a WND News Alert by e-mail, users will begin to receive a brief synopsis of current news events available on the WND site, delivered on a daily or weekly basis. Additionally users may receive other announcements from WND. We collect subscriber’s e-mail addresses in order to distribute the News Alerts and announcements and do not otherwise share them with other companies or partners. 
@@ -56,11 +56,11 @@ Users can choose to unsubscribe from WND News Alerts at any time by following th
 **Changing User Information**  
 To update an e-mail address on the WND News Alerts list, follow the unsubscribe procedures found on the bottom of any WND e-mail.
 
-We will retain your information for as long as your account is active or as long as needed to provide you services. If you wish to cancel your account or request that we no longer use your information contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as long as needed to provide you services. If you wish to cancel your account or request that we no longer use your information contact us at privacy@wnd.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Security**  
 The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).  
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at privacy@wnd.com.
 
 **Promotions**  
 From time to time, WND may sponsor contests or other events that require the collection, processing and storage of individual contact and demographic information (e.g., email address, state of residence) to be used for the event. WND may also co-sponsor these events along with other companies, in which case the user’s individual contact and demographic information is likely to be shared with these other participating sponsors. A registrant’s personal contact and demographic information will not be disclosed to third-party or non-participating organizations without the user’s prior consent, and WND will request that co-sponsors of such events uphold the privacy of the registrant’s information.
@@ -76,10 +76,10 @@ WND will not otherwise use or disclose your personal information without your co
 
 Our blog is managed by a third party application that may require you to register to post a comment.  We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact by visiting <http://www.wnd.com/contact-wnd/?subject=testimonial>.
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact by visiting [http://www.wnd.com/contact-wnd/?subject=testimonial](https://www.wnd.com/contact-wnd/?subject=testimonial).
 
 **Unsubscribe and data removal policies**  
-To unsubscribe from any of our email lists, please follow the procedures at the bottom of any WND email. To request the deletion of your personally identifiable information please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+To unsubscribe from any of our email lists, please follow the procedures at the bottom of any WND email. To request the deletion of your personally identifiable information please email us at privacy@wnd.com.
 
 **Other sites**  
 WND contains many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other websites. We encourage you to read the privacy policies of these linked sites, because their privacy practices may differ from ours. This privacy statement applies only to information collected by this Web site.
@@ -88,7 +88,7 @@ WND contains many links to other sites on the Web. We cannot control and are not
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. WND may also generate leads from Facebook, the terms of service governing this procedure can be found here: https://www.facebook.com/ads/leadgen/tos 
 
 **Who can I ask if I have any additional questions?**  
-If you have questions or concerns regarding this statement, you should contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have questions or concerns regarding this statement, you should contact privacy@wnd.com.
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
@@ -99,7 +99,7 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 I.T. Dept   
 541-474-1776  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+privacy@wnd.com  
 WorldNetDaily.com, Inc.  
 2020 Pennsylvania Ave NW, #351   
 Washington, DC 20006
