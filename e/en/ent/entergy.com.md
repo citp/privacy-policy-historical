@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704165916id_/http%3A//www.entergy.com/privacy_legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entergy.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231061605id_/http%3A//www.entergy.com/privacy_legal/privacy.aspx) for the most accurate reproduction.*
 
 # Entergy - Legal
 
 **Privacy Policy**
 
-_Last Updated:  June 22, 2016_
+_Last Updated:  December 1, 2018_
 
 Entergy Corporation is a holding company for individual public utility companies, among other affiliates. Each of these public utility companies and other affiliates is a separate and distinct legal entity. Each public utility subsidiary of Entergy Corporation has its own service territory, federal and/or state utility regulatory regime(s), rate structure(s), and customers. Neither Entergy Corporation nor any subsidiary or other affiliate of Entergy Corporation shall be liable for the obligations, or entitled to the benefits of, any other subsidiary or affiliate of Entergy Corporation, except as may be expressly provided by a duly authorized and executed, legally enforceable written agreement. The public utility subsidiaries of Entergy Corporation that provide retail electric and/or gas utility services are the following:
 
-• Entergy Arkansas, Inc.  
+• Entergy Arkansas, LLC  
 • Entergy Louisiana, LLC  
-• Entergy Mississippi, Inc.  
-• Entergy New Orleans, Inc.  
+• Entergy Mississippi, LLC  
+• Entergy New Orleans, LLC  
 • Entergy Texas, Inc.
 
 Solely for reasons of convenience, the term “Entergy” is used herein to refer individually and collectively to Entergy Corporation and its affiliates, including, but not limited to, the public utility companies named above.
@@ -23,9 +23,9 @@ L-ENT-6H
 New Orleans, LA 70161  
 Attention: Web Communications Manager
 
-Entergy can also be reached via email by [clicking here](https://secure.entergy.com/forms/Simple.aspx?FormId=232&RegionId=CORP).
+Entergy can also be reached via email by [clicking here](https://secure.entergy.com/forms/Simple.aspx?FormId=232&RegionId=CORP).
 
-The term “Website” refers to this Entergy website, and the term “Web Services” refers to any and all services of any kind available through this Website, including but not limited to account access services, paperless bill delivery services, and one-time and repetitive bill payment services.   You can learn more about the terms, conditions, and policies for the use of the Website and Web Services by [clicking here](https://web.archive.org/privacy_legal/legal.aspx).
+The term “Website” refers to this Entergy website, and the term “Web Services” refers to any and all services of any kind available through this Website, including but not limited to account access services, paperless bill delivery services, and one-time and repetitive bill payment services.   You can learn more about the terms, conditions, and policies for the use of the Website and Web Services by [clicking here](http://www.entergy.com/privacy_legal/legal.aspx).
 
 We understand how important privacy is to you. We hope this Privacy Policy will answer your privacy questions.
 
@@ -39,7 +39,7 @@ As a general matter, we may disclose Personal Information:
 
 • when authorized by you or when necessary to provide a service you have requested;  
 • to communicate with you about issues related to your application, account, or request for service;  
-• when necessary to comply with an order of a government agency or court, when requested by a government regulator, or as otherwise required by law;  
+• when necessary to comply with an order of a government agency or court, when requested by a government regulator, or as otherwise required by law, or requested in writing by law enforcement;  
 • to investigate and address system problems and to protect the security of the Website; or  
 • to a purchaser in connection with the sale, assignment, or other transfer of all or part of our business or company.
 
@@ -87,7 +87,7 @@ We may engage third parties to assist us in providing you with service.  For ex
 
 As a job applicant, we will collect the information that we need to evaluate your application, such as your resume and job application information.   
 
-We endeavor not to disclose information contained in resumes or job applications (which may include Personal Information) to third parties, except as provided below.  We endeavor to limit internal access to resumes and job applications to those individuals who need to know this information.
+We endeavor not to disclose information contained in resumes or job applications (which may include Personal Information) to third parties, except as provided below. We endeavor to limit internal access to resumes and job applications to those individuals who need to know this information.
 
 We will use the information you provide as necessary to evaluate your job application.  In connection with your job application, we may provide your information to third parties (subject to appropriate confidentiality agreements), including for the purpose of administering and processing your application, and performing background checks and drug screenings.
 
@@ -107,7 +107,7 @@ In connection with your use of Web Services, you may be asked to create an accou
 
 **9\. Email Addresses, Postal Mail Addresses, and Phone Numbers**
 
-Individuals who supply their addresses (email or postal mail) or phone numbers (land-line or cell) may receive periodic messages from Entergy with information on new products and services, upcoming events or news that may be of interest, account-related information, information about your job or vendor application, information on your job-related activities (if employed by Entergy), or opportunities to donate to Entergy’s charitable funds such as the Power to Care Fund.  If you do not want to receive such communications from Entergy in the future (except with respect to communications in connection with your Entergy account, your request for service, your job or vendor application, or your job-related activities, if employed by Entergy), please let us know by [clicking here](https://secure.entergy.com/forms/Simple.aspx?FormId=229&RegionId=CORP) and telling us that you do not want to receive these types of communications. We will comply with such requests as required by law.
+Individuals who supply their addresses (email or postal mail) or phone numbers (land-line or cell) may receive periodic messages from Entergy with information on new products and services, upcoming events or news that may be of interest, account-related information, information about your job or vendor application, information on your job-related activities (if employed by Entergy), or opportunities to donate to Entergy’s charitable funds such as the Power to Care Fund.  If you do not want to receive such communications from Entergy in the future (except with respect to communications in connection with your Entergy account, your request for service, your job or vendor application, or your job-related activities, if employed by Entergy), please let us know by [clicking here](https://secure.entergy.com/forms/Simple.aspx?FormId=229&RegionId=CORP) and telling us that you do not want to receive these types of communications. We will comply with such requests as required by law, or requested in writing by law enforcement.
 
 **10\. Unsolicited Material Not Confidential**
 
@@ -125,7 +125,7 @@ We maintain administrative, technical and physical safeguards designed to protec
 
 On our Websites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests.  You can choose whether to have your information collected for this purpose.  This section of our Privacy Policy provides details and explains how to exercise your choices.
 
-You may see certain ads on other Websites because we participate in advertising networks administered by vendors such as Quantcast and Google Adwords.  Ad networks allow us to target our messaging to users through demographic, behavioral and contextual means.  These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs, and web beacons.  The networks use this information to show you advertisements that are tailored to your individual interests.  The information our ad network vendors collect includes information about your visits to Websites that participate in the vendors’ advertising networks, such as the pages or advertisements you view and the actions you take on the Websites.  This data collection and ad-targeting takes place both on our Websites and on third-party Websites that participate in the ad networks, such as Websites that feature advertisements delivered by the ad networks.  This process also helps us track the effectiveness of our marketing efforts.  To learn more about Quantcast, including how to opt out of its collection of information for targeted advertising purposes, visit its privacy policy at <https://www.quantcast.com/privacy/>.  For more information on Google’s remarketing process, including how you can opt-out of Google’s use of cookies for ad targeting, visit Google’s Ad Settings at <https://www.google.com/ads/preferences/>.  To opt-out of Google Analytics’ use of cookies to tailor ads based on your activity on our website, visit <https://tools.google.com/dlpage/gaoptout/>.  Alternatively, you can learn how to opt-out of third-party vendors’ use of cookies at Network Advertising Initiative’s opt-out page: <http://www.networkadvertising.org/choices/>.
+You may see certain ads on other Websites because we participate in advertising networks administered by vendors such as Quantcast and Google Adwords.  Ad networks allow us to target our messaging to users through demographic, behavioral and contextual means.  These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs, and web beacons.  The networks use this information to show you advertisements that are tailored to your individual interests.  The information our ad network vendors collect includes information about your visits to Websites that participate in the vendors’ advertising networks, such as the pages or advertisements you view and the actions you take on the Websites.  This data collection and ad-targeting takes place both on our Websites and on third-party Websites that participate in the ad networks, such as Websites that feature advertisements delivered by the ad networks.  This process also helps us track the effectiveness of our marketing efforts.  To learn more about Quantcast, including how to opt out of its collection of information for targeted advertising purposes, visit its privacy policy at <https://www.quantcast.com/privacy/>.  For more information on Google’s remarketing process, including how you can opt-out of Google’s use of cookies for ad targeting, visit Google’s Ad Settings at<https://www.google.com/ads/preferences/>.  To opt-out of Google Analytics’ use of cookies to tailor ads based on your activity on our website, visit<https://tools.google.com/dlpage/gaoptout/>.  Alternatively, you can learn how to opt-out of third-party vendors’ use of cookies at Network Advertising Initiative’s opt-out page: <http://www.networkadvertising.org/choices/>.
 
 **14.  Links to Other Websites**
 
