@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkbroadband.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626004444id_/https%3A//www.thinkbroadband.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbroadband.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231233549id_/https%3A//www.thinkbroadband.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | thinkbroadband
 
@@ -92,11 +92,11 @@ We will only use the information that we collect about you lawfully and in accor
 
 ### Posting personal information to public areas
 
-Please bear in mind that any personal information that you submit through forums, comments on news articles, etc. are published on our site and may be collected by others. If you are unsure about how any information you submit is used, please e-mail [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0f7b6a6e624f7b676661646d7d606e6b6d6e616b216c6062) before submitting anything and we can clarify.
+Please bear in mind that any personal information that you submit through forums, comments on news articles, etc. are published on our site and may be collected by others. If you are unsure about how any information you submit is used, please e-mail [team@thinkbroadband.com](mailto:team@thinkbroadband.com) before submitting anything and we can clarify.
 
 ### E-mail
 
-We may send e-mails to users who have registered with us, and we use this and other information you provide for demographic purposes. We do not give our user list out to other parties and we only e-mail registered users. We do not approve of unsolicited e-mail and do not believe e-mailing users against their wishes is respectable. To that end we keep all e-mails to a minimum, unless a regular update is specifically and explicitly requested by the user. You can remove yourself from all our lists automatically by following instructions at our [unsubscribe page](http://www.thinkbroadband.com/unsubscribe.html) (if you are having difficulty, [drop us an e-mail](https://web.archive.org/cdn-cgi/l/email-protection#562233373b16223e3f383d3424393732343738327835393b690523343c3335226b123f30303f35233a222f0903382523342535243f343f3831)). To cancel your forum account, please [contact us](https://web.archive.org/cdn-cgi/l/email-protection#700415111d300418191e1b12021f111412111e145e131f1d4f2305121a1513044d34151c1504152f361f02051d2f3113131f051e04) and we'll sort it out.
+We may send e-mails to users who have registered with us, and we use this and other information you provide for demographic purposes. We do not give our user list out to other parties and we only e-mail registered users. We do not approve of unsolicited e-mail and do not believe e-mailing users against their wishes is respectable. To that end we keep all e-mails to a minimum, unless a regular update is specifically and explicitly requested by the user. You can remove yourself from all our lists automatically by following instructions at our [unsubscribe page](http://www.thinkbroadband.com/unsubscribe.html) (if you are having difficulty, [drop us an e-mail](mailto:team@thinkbroadband.com?Subject=Difficulty_Unsubscribing)). To cancel your forum account, please [contact us](mailto:team@thinkbroadband.com?Subject=Delete_Forum_Account) and we'll sort it out.
 
 We request that any information you provide us is kept up-to-date so that if you fill in any of our surveys, we may contact you to gather more information.
 
@@ -106,7 +106,7 @@ Our site allows (but does not require) you to register with us if you wish to us
 
 ### Cookies & IP Addresses
 
-Virtually all websites use cookies which are small files stored on your computer when you visit a site. The data stored in them is used to enable features on a site, such as keeping you logged in, or remembering your preferences. Please visit our cookies page find out more information our [cookie policy](https://web.archive.org/web/20180626004444id_/cookies).We may use cookies that are necessary for the operation of our site, analytics/performance cookies tghat help us understand how many of our visitors are new and what they are doing on the site, and functional cookies that allow us to manage login systems, etc.
+Virtually all websites use cookies which are small files stored on your computer when you visit a site. The data stored in them is used to enable features on a site, such as keeping you logged in, or remembering your preferences. Please visit our cookies page find out more information our [cookie policy](https://web.archive.org/web/20181231233549id_/cookies).We may use cookies that are necessary for the operation of our site, analytics/performance cookies tghat help us understand how many of our visitors are new and what they are doing on the site, and functional cookies that allow us to manage login systems, etc.
 
 ### Surveys
 
@@ -130,7 +130,7 @@ We may co-operate with any local or national government or law enforcement autho
 
 We use the services of a number of third party agencies including Google AdSense and affiliate marketing companies. When you view an advert, your browser will make a connection to such ad servers which may have their own policies; you can control settings through your browser and/or via advertising network opt-out page.
 
-We do manually block advertisers who design ads to appear in a way that implies they are part of our website however we do not routinely approve individual adverts. If you see an advert that concerns you, please do not hesitate to [e-mail us](https://web.archive.org/cdn-cgi/l/email-protection#c6b2a3a7ab86b2aeafa8ada4b4a9a7a2a4a7a8a2e8a5a9abf995b3a4aca3a5b2fb87a2b0a3b4b2afb5afa8a19985a9a8a5a3b4a8) with a screenshot and a capture of the URL the ad links to. This maximises the chances we can block it. We also strongly advise you to contact us if you see malware or similar content served from our site (but do check you do not have viruses/trojans which may cause these too). We do recommend you have Anti-virus software (yes—even if you use a Mac!)
+We do manually block advertisers who design ads to appear in a way that implies they are part of our website however we do not routinely approve individual adverts. If you see an advert that concerns you, please do not hesitate to [e-mail us](mailto:team@thinkbroadband.com?Subject=Advertising_Concern) with a screenshot and a capture of the URL the ad links to. This maximises the chances we can block it. We also strongly advise you to contact us if you see malware or similar content served from our site (but do check you do not have viruses/trojans which may cause these too). We do recommend you have Anti-virus software (yes—even if you use a Mac!)
 
 You can opt out of online behavioural advertising for many companies via [Your Choices Online](http://www.youronlinechoices.com/uk/your-ad-choices "Your Ad Choices Online") (note this affects advertising across many networks and not limited to our website, nor does it guarantee that all ad networks are listed).
 
@@ -152,6 +152,6 @@ By using our site you agree to accept this privacy policy and are aware that our
 
 ## Who we are
 
-thinkbroadband® is a trading name of NetConnex Ltd. Registered in England (No: 3416805) at 5 Fleet Place, London. EC4M 7RD. VAT 797995328. This address is provided for legal purposes only. Please do not send press releases, marketing materials, invitations or any general business correspondence to this address or add it to any mailing list as any such material sent to this address will be discarded on receipt. Data Protection registration number Z9551528. For privacy queries - please e-mail [[email protected]](https://www.thinkbroadband.com/aalogin.php/pages/edit/)
+thinkbroadband® is a trading name of NetConnex Ltd. Registered in England (No: 3416805) at 5 Fleet Place, London. EC4M 7RD. VAT 797995328. This address is provided for legal purposes only. Please do not send press releases, marketing materials, invitations or any general business correspondence to this address or add it to any mailing list as any such material sent to this address will be discarded on receipt. Data Protection registration number Z9551528. For privacy queries - please e-mail [privacy@thinkbroadband.com](https://www.thinkbroadband.com/aalogin.php/pages/edit/)
 
 _Updated 22/05/2018_
