@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crazyegg.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626193634id_/https%3A//www.crazyegg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyegg.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231220835id_/https%3A//www.crazyegg.com/privacy) for the most accurate reproduction.*
 
-# A/B Testing & Heatmaps - Crazy Egg Website Optimization Software
+# Crazy Egg | Privacy Policy
 
 Last Updated: May 24, 2018
 
