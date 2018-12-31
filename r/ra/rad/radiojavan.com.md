@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiojavan.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625194353id_/https%3A//www.radiojavan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiojavan.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231184600id_/https%3A//www.radiojavan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RadioJavan.com
 
@@ -131,7 +131,7 @@ When you have clicked on a third party logo or URL displayed on our Service whic
 
 **Control of Your Information**
 
-If you wish to have your information associated with your account or email address, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) but it may not be possible for you to delete all information we have stored. We cannot delete information in connection with tickets you have purchased for at least seven years as we must retain it for accounting and legal purposes; and we reserve the right to institute account confirmation procedures and processes to maintain integrity of the Service. If for any reason you terminate your user account with us, we will destroy active records containing your PII as soon as reasonably possible; however, we may have to retain some information, such as ticket purchase information for a longer period as legal records or for auditing purposes. Further, information may be retained by third parties like Facebook, as well as entities to whom we have provided information while you were a user of the Services. If we terminate your service, we may retain enough information to prevent you from signing up for the service in the future.
+If you wish to have your information associated with your account or email address, you may contact us at privacy@radiojavan.com but it may not be possible for you to delete all information we have stored. We cannot delete information in connection with tickets you have purchased for at least seven years as we must retain it for accounting and legal purposes; and we reserve the right to institute account confirmation procedures and processes to maintain integrity of the Service. If for any reason you terminate your user account with us, we will destroy active records containing your PII as soon as reasonably possible; however, we may have to retain some information, such as ticket purchase information for a longer period as legal records or for auditing purposes. Further, information may be retained by third parties like Facebook, as well as entities to whom we have provided information while you were a user of the Services. If we terminate your service, we may retain enough information to prevent you from signing up for the service in the future.
 
 **Suspending Your Account**
 
@@ -139,15 +139,15 @@ You can suspend your account by visiting your Profile page and clicking on "Deac
 
 **Access to Your Information and Correction**
 
-You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We may make a small charge for this service. We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email us at privacy@radiojavan.com. We may make a small charge for this service. We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.
 
 **Opting Out of Receiving Communications from Us**
 
-If you no longer want to receive our newsletter, emails or other announcements, you may unsubscribe or modify your setting by: 1) going to the Profile page on the RJ website 2) going to Settings on the RJ mobile app 3) emailing RJ at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or 4) clicking on the unsubscribe link at the bottom of our emails. Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your transactions.
+If you no longer want to receive our newsletter, emails or other announcements, you may unsubscribe or modify your setting by: 1) going to the Profile page on the RJ website 2) going to Settings on the RJ mobile app 3) emailing RJ at privacy@radiojavan.com or 4) clicking on the unsubscribe link at the bottom of our emails. Please note that you cannot unsubscribe from certain correspondence from us, including messages relating to your transactions.
 
 **Marketing**
 
-We would like to send you information about products and services of ours and other companies in our group which may be of interest to you. If you have consented to receive marketing, you may opt out at a later date, at which point we will remove you from our promotional mailing lists within a reasonable time. You have a right at any time to stop us from contacting you for marketing purposes or giving your information to others, by clicking on the links in the emails you receive from us. You may also contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), if you no longer wish to be contacted for marketing purposes.
+We would like to send you information about products and services of ours and other companies in our group which may be of interest to you. If you have consented to receive marketing, you may opt out at a later date, at which point we will remove you from our promotional mailing lists within a reasonable time. You have a right at any time to stop us from contacting you for marketing purposes or giving your information to others, by clicking on the links in the emails you receive from us. You may also contact us at privacy@radiojavan.com, if you no longer wish to be contacted for marketing purposes.
 
 **5\. HOW DO WE PROECT YOUR PERSONAL INFORMATION?**
 
@@ -165,7 +165,7 @@ This Privacy Policy may change from time to time and we will post all changes on
 
 **8\. QUESTIONS? CONTACT US**
 
-If you have any questions about our privacy practices or this Privacy Policy, please contact us by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about our privacy practices or this Privacy Policy, please contact us by emailing us at privacy@radiojavan.com
 
 **9\. TERMS OF USE**
 
