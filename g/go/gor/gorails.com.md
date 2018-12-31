@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gorails.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625034800id_/https%3A//gorails.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorails.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231030553id_/https%3A//gorails.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - GoRails
+# Privacy Policy | GoRails
 
 This policy was last modified on May 23, 2018.
 
@@ -116,7 +116,7 @@ California Privacy Rights: Under California Civil Code sections 1798.83-1798.84
 
 ### How Can I Delete My Account?
 
-Should you ever decide to delete your Account, you may do so by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9af9f2e8f3e9dafdf5e8fbf3f6e9b4f9f5f7)
+Should you ever decide to delete your Account, you may do so by emailing [chris@gorails.com](mailto:chris@gorails.com)
 
 If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. However, given the nature of sharing on the Services, any public activity on your Account prior to deletion will remain stored on our servers and will remain accessible to the public.
 
@@ -132,6 +132,6 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ### What If I Have Questions or Concerns?
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d7b4bfa5bea497b0b8a5b6bebba4f9b4b8ba)
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [chris@gorails.com](mailto:chris@gorails.com)
 
 We will make every effort to resolve your concerns.
