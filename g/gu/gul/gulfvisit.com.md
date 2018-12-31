@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the gulfvisit.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627171117id_/http%3A//gulfvisit.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfvisit.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231150948id_/http%3A//gulfvisit.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Gulf Visit
+# Gulf Visit | Privacy Policy
 
 The privacy of our Jobs Seekers and Jobs Advertisers is important to us.  
 At [http://www.gulfvist.com](http://www.gulfvist.com/) we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit our site, and how we safeguard your information. We never sell your personal information to third parties.
-
-**Cookies**
 
 We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.  
 **  
@@ -17,5 +15,3 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 We are in compliance with the requirements of COPPA (Children Online Privacy Protection Act), our policy is located at.  
 We enabled advertiser features for Demographics and Interest reporting, Remarketing, GDN Impression Reporting, and the DoubleClick Campaign Manager integration.  
 The contents of this statement may be altered at any time, at our discretion and you can find the altered content on this page.
-
-Please fill atleast keywords or location.
