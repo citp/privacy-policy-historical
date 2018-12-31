@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artsmia.org privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627122342id_/https%3A//new.artsmia.org/about/privacy-policy-and-website-info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsmia.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231025334id_/https%3A//new.artsmia.org/about/privacy-policy-and-website-info) for the most accurate reproduction.*
 
-# Privacy Policy and Website Info –– Mineapolis Institute of Art
+# Privacy Policy and Website Info –– Minneapolis Institute of Art
 
 ### Privacy Statement
 
@@ -27,6 +27,8 @@ We use cookies, and other website use-tracking technologies (collectively, “co
 #### Links to Third Party Sites and Services
 
 The Site may provide links to third party websites. These websites are not covered by this Privacy Statement. These links are provided solely for your convenience. We do not review these third party websites and we assume no liability arising from your use of them.
+
+Client uses Plaid Technologies, Inc. (“Plaid”) to gather End User’s data from financial institutions. By using our service, you grant Client and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution. You agree to your personal and financial information being transferred, stored, and processed by Plaid in accordance with the [Plaid Privacy Policy](https://plaid.com/legal).
 
 #### Security
 
