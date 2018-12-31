@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627191523id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231011721id_/https%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Charisma Magazine
 
@@ -11,6 +11,8 @@ When you sign up for our newsletters, we need to know your e-mail address, first
 When you sign up for a web-based (online) or print subscription online, we collect your name, address, phone number, payment information and e-mail address. This is done so we can send the issues to you by mail or grant you access to our online subscriber's area. Us or our partners may also use the information collected to occasionally notify you about special promotions, events and products updates, services and special offers you may find valuable.
 
 We do not sell your personal information to others. However, we do rent our customer list of subscribers from our print magazine versions and offer our email lists available to our partners of those subscribers who have "opt-in." We may provide aggregate statistics about our customers, traffic patterns, and related demographic information to our partners, but these statistics will include no personally identifying information.
+
+Get Spirit-filled content delivered right to your inbox! [Click here to subscribe to our newsletter](https://www.charismamag.com/newsletters/?utm_source=charismamag.com&utm_medium=mid-article%20text&utm_campaign=plg_cm_midarticletextinjector).
 
 Our site's registration, order and survey forms require users to give us contact information (like their name, email, and postal address), financial information (like their bank account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the these forms are used to ship purchases and information about our company. The customer's contact information is also used to get in touch with the you when necessary.
 
@@ -63,16 +65,16 @@ Charisma Media
 600 Rinehart Rd.  
 Lake Mary, FL 32746  
 (407) 333-0600  
-[[email protected]](https://www.charismamag.com/cdn-cgi/l/email-protection#accfd9dfd8dfdacfeccfc4cddec5dfc1cdc1c9c8c5cd82cfc3c1)
+[[email protected]](https://www.charismamag.com/cdn-cgi/l/email-protection#442731373037322704272c25362d3729252921202d256a272b29)
 
 ### Your consent
 
 By using our website, you consent to the collection and use of this information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You will not receive these updates by snail mail or email.
 
-_Deborah, Esther and Anna carried a profound anointing. Become a Godly woman of boldness, power and strength.[Get the Anointing Bundle](https://shop.charismamag.com/products/charisma-subscription-anna-anointing-deborah-anointing-esther-anointing?utm_source=charismanews.com&utm_medium=article%20end%20text)._
+Get Spirit-filled content delivered right to your inbox! [Click here to subscribe to our newsletter](https://www.charismamag.com/newsletters/?utm_source=charismamag.com&utm_medium=mid-article%20text&utm_campaign=plg_cm_midarticletextinjector).
 
-_The Holy Spirit wants to lead you into a deeper, more intimate experience with God. Everything changes in His presence.[Enter His Presence](https://shop.charismamag.com/collections/life-in-the-spirit/products/copy-of-life-in-the-spirit-holy-spirit-series-solid-rock-series?utm_source=charismanews.com&utm_medium=article%20end%20text)._
+AMAZING CHRISTMAS DEALS: (1) Buy A Set, Get A Set FREE on all [Life in the Spirit Bundles](https://shop.charismamag.com/collections/life-in-the-spirit?utm_source=charismamag.com&utm_medium=end-of-article%20text%20links&utm_campaign=Amazing%20Christmas%20Deals). (2) Save 30%-60% on all [Tote Bag plus Book Bundles](https://shop.charismamag.com/search?type=product&q=tote&utm_source=charismamag.com&utm_medium=end-of-article%20text%20links&utm_campaign=Amazing%20Christmas%20Deals). (3) [Save 50% off Select Bibles](https://shop.charismamag.com/collections/select-bibles-50-off?utm_source=charismamag.com&utm_medium=end-of-article%20text%20links&utm_campaign=Amazing%20Christmas%20Deals) plus receive a Free Gift. Visit the [Charisma Store](https://shop.charismamag.com/?utm_source=charismamag.com&utm_medium=end-of-article%20text%20links&utm_campaign=Amazing%20Christmas%20Deals) to view all our specials. U.S Residents always get FREE Shipping!
 
-_Summer Reading Bundles + FREE GIFTS! These bundles include prophecy, health, prayer, and the supernatural.[Grab your Favorite](https://shop.charismamag.com/collections/christmas-bundles?utm_source=charismanews.com&utm_medium=article%20end%20text)._
+Help Charisma stay strong for years to come as we report on life in the Spirit. Become an integral part of Charisma’s work by joining Charisma Media Partners. [Click here](https://www.charismamediapartners.com/?utm_source=charismamag.com&utm_medium=endOfArticle) to keep us strong!
 
 Comment Guidelines
