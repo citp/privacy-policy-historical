@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinterviewguys.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117190511id_/https%3A//theinterviewguys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinterviewguys.com privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102001748id_/https%3A//theinterviewguys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
