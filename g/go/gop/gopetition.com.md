@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopetition.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226195605id_/https%3A//www.gopetition.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopetition.com privacy policy that was archived on 2019-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190101102700id_/https%3A//www.gopetition.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GoPetition
 
