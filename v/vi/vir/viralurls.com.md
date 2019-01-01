@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viralurls.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817084814id_/https%3A//viralurls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralurls.com privacy policy that was archived on 2019-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190101204052id_/https%3A//viralurls.com/privacy-policy) for the most accurate reproduction.*
 
-# Official ViralURL Blog » Privacy Policy
+# Privacy Policy | Official ViralURL Blog
 
 **[Add2it.com](http://add2it.com/) Marketing Pty Ltd Privacy Policy**
 
