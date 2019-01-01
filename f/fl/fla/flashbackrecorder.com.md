@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashbackrecorder.com privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318151056id_/https%3A//www.flashbackrecorder.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashbackrecorder.com privacy policy that was archived on 2019-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190101025649id_/https%3A//www.flashbackrecorder.com/privacypolicy) for the most accurate reproduction.*
 
 # FlashBack privacy policy
 
