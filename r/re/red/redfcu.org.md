@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redfcu.org privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417084803id_/https%3A//www.redfcu.org/Assets/uploads/www.redfcu.org/import/www.redfcu.org/pdfs/AnnualPrivacyNotice_web.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redfcu.org privacy policy that was archived on 2019-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190101180255id_/https%3A//www.redfcu.org/Assets/uploads/pdfs/AnnualPrivacyNotice_web.pdf) for the most accurate reproduction.*
 
 # FACTS
 
