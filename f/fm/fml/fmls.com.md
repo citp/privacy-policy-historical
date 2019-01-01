@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fmls.com privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723011429id_/https%3A//fmls.com/pub/PrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmls.com privacy policy that was archived on 2019-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190101114134id_/https%3A//fmls.com/privacypolicy) for the most accurate reproduction.*
 
 # FMLS Privacy Policy
 
-### Privacy Policy
+Privacy Policy
 
-In order to operate First Multiple Listing Service, Inc., 5457 Roswell Road, Atlanta, GA 30342, [www.fmls.com](http://www.fmls.com/) and www.fmlsstores.com (our “websites”), (“FMLS” or “we”), must ask you to provide us personally identifiable information about yourself. 
+In order to operate First Multiple Listing Service, Inc., 5457 Roswell Road, Atlanta, GA 30342, [www.fmls.com](http://www.fmls.com/) and www.fmlsstores.com (our "websites"), ("FMLS" or "we"), must ask you to provide us personally identifiable information about yourself. 
 
 This Privacy Policy describes the personally identifiable information we collect, use, disclose and protect. FMLS takes the privacy of your personally identifiable information very seriously and will use it only in accordance with the terms of this Privacy Policy. 
 
@@ -20,29 +20,29 @@ Additionally, in order to enhance the protection of your privacy and our complia
 
 If you have questions or concerns regarding this Privacy Policy, you should first contact [support@fmls.com](mailto:support@fmls.com).
 
-By obtaining a User Id and Password and using FMLS’ services and website, you agree to the terms contained in this Policy. 
+By obtaining a User Id and Password and using FMLS' services and website, you agree to the terms contained in this Policy. 
 
 This Policy notifies you of:
 
->   * Personal Information Collected Through our Website 
->   * Our Use and Disclosure of Your Personal Information 
->   * Choices You Have Regarding Our Collection and Use of your Personal Information 
->   * Security Procedures 
->   * How You Can Contact Us 
+>   * Personal Information Collected Through our Website
+>   * Our Use and Disclosure of Your Personal Information
+>   * Choices You Have Regarding Our Collection and Use of your Personal Information
+>   * Security Procedures
+>   * How You Can Contact Us
 > 
 
 
 #### A. INTRODUCTION
 
- **Definitions**  
+**Definitions**   
 "Personally identifiable information" is information, that is not otherwise publicly available, which can be used to distinguish or trace your identity, such as your name, phone number, e-mail address, Georgia Real Estate License Number, credit card number, etc. alone, or when combined with other personal or identifying information which is linked or linkable to you, such as date and place of birth, mother's maiden name, etc.
 
-"FMLS’ websites" includes all areas (public and private) of FMLS’s website, www.fmls.com, www.fmlsstores.com, www.georgiaopenhouses.com and all areas of our Membership and MLS databases.
+"FMLS' websites" includes all areas (public and private) of FMLS's website, www.fmls.com, www.fmlsstores.com, www.georgiaopenhouses.com and all areas of our Membership and MLS databases.
 
 "Cookie" is a small amount of data, often including an anonymous unique identifier, transmitted to your browser from a website, which includes electronic data about you and your computer. "Cookies" are stored on your computer's hard drive.
 
  **Notification of Changes**  
-This policy may be revised over time as new features are added to FMLS’ products and services, FMLS websites, or as we incorporate suggestions from you.
+This policy may be revised over time as new features are added to FMLS' products and services, FMLS websites, or as we incorporate suggestions from you.
 
 As we may make changes to this Policy, we will post the amended Privacy Policy prominently on our website so that you can always review it. By continuing to use the Website, you agree to this Policy and any updates. 
 
@@ -50,7 +50,7 @@ The FMLS websites includes links to some third party websites. These sites are g
 
 #### B. INFORMATION WE COLLECT
 
- **Listing Data and Images**  
+**Listing Data and Images**  
 The nature of FMLS's business is the gathering and sharing of data to facilitate real estate transactions, between member real estate professionals. When you enter a listing into the MLS system, the content and images associated with that listing become part of the copyrighted MLS listing database compilation. The use of the content and images is governed by FMLS's Terms of Use. Use the link below for a copy of FMLS's Terms of Use.  
  **  
 Required Information ("My Profile")**  
@@ -61,7 +61,7 @@ If you choose to purchase optional products, you may be asked to provide additio
 
 In order to pay for your store purchases, you may provide a credit card or debit card. FMLS will not store your credit card information and it is only used for that one transaction.
 
-There are certain circumstances where FMLS will allow the use of a credit card or debit card with Administrative Services. FMLS will not store your credit card information and it is only used for that one transaction.
+There are certain circumstances where FMLS will allow the use of a credit card or debit card with the Finance Department. FMLS will not store your credit card information and it is only used for that one transaction.
 
  **Transaction Information**  
 When you pay for products and services, we ask you to provide information related to each transaction, including the amount of the transaction, the particular invoice you wish to apply payment to, and your e-mail address. We retain this information for each of your transactions through FMLS. We also collect the Internet address (IP address) of the computer or device you use to access your FMLS account.
@@ -75,7 +75,7 @@ FMLS does not share information transferred through cookies with any third parti
 **Support Center Correspondence**  
 If you send us correspondence, including e-mails and faxes, we may retain such correspondence in the records of your account. We may also retain Support Center correspondence and other correspondence from FMLS to you. We may retain some of these records in order to measure and improve our member services, and to investigate violations of our Rules and Regulations. We may, over time, delete these records.
 
- **Questionnaires and Surveys**  
+**Questionnaires and Surveys**  
 From time to time, we may offer optional questionnaires and surveys to you for such purposes as collecting demographic statistics or assessing your interests and needs. The use of the data collected will be explained in detail in the survey itself. If we collect personally identifiable information from our members in these questionnaires and surveys, the members will be given notice of how the personally identifiable information will be used prior to their participation in the survey or questionnaire.
 
  **Non-member Communications and Personally Identifiable Information**  
@@ -87,12 +87,12 @@ When you send an e-mail through FMLS's MLS system to a customer or client, that 
 
 #### C. OUR USE AND DISCLOSURE OF PERSONALLY IDENTIFIABLE INFORMATION
 
- **Listing Data and Images**  
+**Listing Data and Images**  
 When you enter a listing into the MLS system, the content and images associated with that listing become part of the copyrighted MLS listing database compilation. Ownership of FMLS's MLS database compilation and each FMLS member's "fair use" thereof is governed by FMLS's Rules and Regulations. Use the link below for a copy of FMLS's Rules and Regulations.
 
-The property owner’s personally identifiable information included in a listing is not used by FMLS or disclosed to any third party.
+The property owner's personally identifiable information included in a listing is not used by FMLS or disclosed to any third party.
 
- **Internal Uses**  
+**Internal Uses**  
 We use the personally identifiable information we collect about you in order 1) to provide our services and process your transactions, 2) to provide member service, 3) to determine your eligibility to receive offers for special features, products, and personally tailored communications and 4) to improve our products, services , and security.
 
 We give access to personally identifiable information about you to our employees who we believe reasonably need to come into contact with that personally identifiable information to provide products or services to you, or in order to do their jobs, such as fulfill customer service requests. We require our employees to protect the privacy of personally identifiable information about our members.
@@ -124,7 +124,7 @@ As with any other business, it is possible that FMLS in the future could merge w
  **Our Contacts with FMLS Members**  
 We communicate with you on a regular basis via e-mail to provide requested services, and we also communicate by phone to resolve complaints or investigate suspicious transactions. We use your e-mail address to send you invoices and notices of due dates, to send notices about important changes to our products and services, service announcements, confirmations of orders placed online, responses to member requests and to send notices and other disclosures required by law. Generally, you should not opt out of these communications as they will be primarily educational in nature rather than promotional.
 
-We also use your e-mail address to send you other types of promotional communications, including the FMLS e-newsletter, member surveys and notices of special third-party promotions. You can opt out of these types of promotional emails by clicking on the “opt out” link at the bottom of your email from us. 
+We also use your e-mail address to send you other types of promotional communications, including the FMLS e-newsletter, member surveys and notices of special third-party promotions. You can opt out of these types of promotional emails by clicking on the "opt out" link at the bottom of your email from us. 
 
 In connection with independent audits of our financial statements and operations, the auditors may seek to contact a sample of our members to confirm that our records are accurate. However, these auditors cannot use personally identifiable information for any secondary purposes.
 
@@ -134,13 +134,13 @@ We use IP addresses, browser types and access times to analyze FMLSs, administer
 
  **Consent to Processing and Transfers of Information.**
 
-The servers that make our Web Site available and that store the information that is collected are located in the United States of America (“USA”). This Web Site is intended only for use in the USA. If you are located outside the USA, please note that the information you provide will be transferred to the USA which may not provide the same level of legal data protection as the country from which you access our Web Site. By using our Web Site and submitting personally identifiable information to FMLS, you consent to such transfers and the processing by FMLS of information as described in this Policy and authorize this practice. 
+The servers that make our Web Site available and that store the information that is collected are located in the United States of America ("USA"). This Web Site is intended only for use in the USA. If you are located outside the USA, please note that the information you provide will be transferred to the USA which may not provide the same level of legal data protection as the country from which you access our Web Site. By using our Web Site and submitting personally identifiable information to FMLS, you consent to such transfers and the processing by FMLS of information as described in this Policy and authorize this practice.
 
 #### D. INFORMATION SECURITY
 
 FMLS is committed to handling your personally identifiable information with high standards of security. We restrict access to your personally identifiable information to employees who need to know that personally identifiable information in order to provide products or services to you or to perform their jobs. We enforce physical and electronic measures to guard your non-public personally identifiable information.
 
-The security of your FMLS account also relies on your protection of your FMLS password. We require that you never share your FMLS password with anyone. If you do share your FMLS password with a third party for any reason, (other than by someone authorized by FMLS's rules) you will be in violation of FMLS's Rules and Regulations; the third party will have access to your account and your personally identifiable information, and you may be responsible for actions taken using your password. If you believe someone else has obtained access to your password, please log in to www.fmls.com and change your password in “My FMLS” and contact us right away as described below.
+The security of your FMLS account also relies on your protection of your FMLS password. We require that you never share your FMLS password with anyone. If you do share your FMLS password with a third party for any reason, (other than by someone authorized by FMLS's rules) you will be in violation of FMLS's Rules and Regulations; the third party will have access to your account and your personally identifiable information, and you may be responsible for actions taken using your password. If you believe someone else has obtained access to your password, please log in to www.fmls.com and change your password in "My FMLS" and contact us right away as described below.
 
 FMLS collects forensic access data on login sessions including, but not limited to, keystroke dynamics, locations, time of day, devices, browsers, operating systems, and networks in order to further protect your password, ensure that your login credentials are validated, and secure your sensitive information.
 
