@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardwalkbuy.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107015557id_/https%3A//www.boardwalkbuy.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardwalkbuy.com privacy policy that was archived on 2019-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190101065045id_/https%3A//boardwalkbuy.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Boardwalkbuy
 
@@ -21,7 +21,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 How do I withdraw my consent?  
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@boardwalkbuy.com or mailing us at:  
 BoardwalkBuy  
-2740 Sough Street Toronto Ontario CA L4T1G3
+3200 North America Drive, West Seneca, NY, 14224 US
 
 SECTION 3 - DISCLOSURE
 
@@ -77,5 +77,4 @@ QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@boardwalkbuy.com or by mail at   
 BoardwalkBuy  
-[Re: Privacy Compliance Officer]   
-[2740 Sough Street Toronto Ontario CA L4T1G3
+[Re: Privacy Compliance Officer] 3200 North America Drive, West Seneca, NY, 14224 US
