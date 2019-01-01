@@ -1,243 +1,113 @@
-> *The following text is extracted and transformed from the dealextreme.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041900id_/http%3A//www.dx.com/page-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealextreme.com privacy policy that was archived on 2019-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190101101507id_/https%3A//help.dx.com/about/index/aid/C6EHPtbSrarkkwU/cid/CvBXPICEr6jkkw.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy-Help Center
 
-**Data Collection**
+  * ****
 
-DX undertakes to collect Your Data by means that are:
 
-· Fair
 
-· Legal
+**Privacy Policy**
 
-· Transparent
+Dx.com is electronic commerce platforms predominantly used by business entities to facilitate electronic commerce and such business use does not generally involve the collection of personal information of individuals. Dx recognizes the importance of privacy as well as the importance of maintaining the confidentiality of personal information. This Privacy Policy applies to all products and services provided by us and sets out how we may collect, use and disclose information in relation to users of the Sites.
 
-**If you visit DX's web-site** , your web-browser automatically discloses, and DX's web-server automatically logs, the following information: the date and time, the IP address from which you issued the request, the type of browser and operating system you are using, the URL of any page that referred you to the page, the URL you requested, and whether your request was successful. This data may or may not be sufficient to identify you.
+You may use our services and products via a mobile device either through mobile applications or mobile optimized websites. This Privacy Policy also applies to such use of our services and products.
 
-**Any additional data that you provide, e.g. in a web-form** , may also be logged. This data may or may not be sufficient to identify you.
+All capitalized terms not defined in this document shall have the meanings ascribed to them in the Terms of Use of the Site, which can be found _here_. If you are a user from mainland China, the Dx entity that you are contracting with is Dx Advertising Co., Ltd.
 
-**Any additional data that your web-browser automatically provides** may also be logged. This will be the case, for example, if your browser has previously been requested to store data on your computer in **'cookies'** and submits them each time you request a web-page within a particular domain (such as DX.com). This data may or may not be sufficient to identify you.
+**A. COLLECTION OF INFORMATION**
 
-**If you disclose personal data to DX in conjunction with an identifier such as your name or your contact details (such as your e-mail address)** , DX will collect Your Data. Moreover, any data that becomes available to DX through any of the means described in the preceding paragraphs may be able to be associated with that identifier, and hence become Your Data.
+1\. Your privacy is important to us and we have taken steps to ensure that we do not collect more information from you than is necessary for us to provide you with our services and to protect your account.
 
-Subject to the qualifications immediately below, DX undertakes to collect Your Data **from you** and not from other parties. This undertaking is qualified as follows:
+2\. Information including, but not limited to, user name, address, phone number, fax number, email address, gender, date and/or year of birth and user preferences ("Registration Information") may be collected at the time of user registration on the Sites.
 
-· Where DX reasonably considers that the protection of its financial interests requires that it gather Your Data from other sources, or from additional sources. This applies in particular where DX has a lending exposure to you, and seeks information about your creditworthiness;
+3\. In connection with any transaction and payment services or services under our buyer protection schemes we provide on the Sites, information, including but not limited to, bank account numbers, billing and delivery information, credit/debit card numbers and expiration dates and tracking information from cheques or money orders ("Account Information") may be collected to, among other things, facilitate the sale and purchase as well as the settlement of purchase price of the products or services transacted on or procured through the Sites.
 
-· Where DX reasonably considers that its capability to deliver quality services to you will be materially enhanced by gathering Your Data from other sources. This applies in particular to consumer profile data.
+4\. We record and retain details of users’ activities on the Sites. Information relating to such transactions including, but not limited to, the types and specifications of the goods, pricing and delivery information, any trade dispute records and any information disclosed in any discussion forum provided by us and/or other affiliated companies of the Dx Group (“Activities Information”) may be collected when sale and purchase transactions are conducted on or facilitated through the Sites
 
-**Where DX collects Your Data from sources other than you** , it undertakes:
+5\. From time to time, we collect information about our users and prospective users during trade shows, industry events and other functions. The information we may collect at these locations may include, but is not limited to, user name, address, phone number, fax number and email address ("Event Information").
 
-· To do so only by legal means;
+6\. We record and retain records of users' buying and browsing activities on our platform including but not limited to IP addresses, browsing patterns and buyer behavioral patterns. In addition, we gather statistical information about the Sites and visitors to the Sites including, but not limited to, IP addresses, browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors (together "Browsing Information").
 
-· To do so only with your Consent; and
+7\. Registration Information, Account Information, Activities Information, Event Information and Browsing Information generally relate to business entities and are together referred to as business data (“Business Data”). Insofar and only insofar as they constitute personally identifiable data of living individuals, such information are together referred to as personal data (“Personal Data”).
 
-· To declare to you what sources it uses, and under what circumstances.
+8\. It is mandatory for users of the Sites to provide certain categories of Business Data and Personal Data (as specified at the time of collection). In the event that users do not provide any or sufficient Business Data and/or Personal Data marked as mandatory, we may not be able to complete the registration process or provide such users with our products or services.
 
-DX undertakes to declare the **purpose of collection** in a manner which is clear and meaningful, and to avoid vague, highly inclusive statements such as 'to support our operations'.
+**B. USE OF PERSONAL DATA**
 
-**Data Security**
+If you provide any Personal Data to us, you are deemed to have authorized us to collect, retain and use that Personal Data for the following purposes:
 
-DX undertakes to **store** Your Data in a manner that ensures security against unauthorized access, alteration or deletion, at a level commensurate with its sensitivity.
+1\. verifying your identity;
 
-DX undertakes to store Your Data only in **jurisdictions** where data protections are at least equivalent to those required under the OECD Guidelines.
+2\. verifying your eligibility to register as a user of the Sites;
 
-DX undertakes to **transmit** Your Data in a manner that ensures security against unauthorized access, alteration or deletion, at a level commensurate with its sensitivity.
+3\. processing your registration as a user, providing you with a log-in ID for the Sites and maintaining and managing your registration;
 
-DX undertakes to implement appropriate **measures to ensure security of Your Data against inappropriate behavior by DX's staff-members and contractors**. These include:
+4\. providing you with customer service and responding to your queries, feedback, claims or disputes;
 
-· Training for staff in relation to privacy;
+5\. to facilitate communication between buyers and sellers on the Sites and processing your transactions on the Sites;
 
-· Access control, to limit access to Your Data to those staff and contractors who have legitimate reasons to access it;
+6\. performing research or statistical analysis in order to improve the content and layout of the Sites, to improve our product offerings and services and for marketing and promotional purposes;
 
-· Particularly in the case of sensitive data, audit trails of accesses, including the identities of staff and contractors accessing the data;
+7\. subject to obtaining your consent in such form as may be required under the applicable law, we (including our affiliated companies and their designated Service Providers (as defined in C.1 below)) may use your name, phone number, residential address, email address, fax number and other data ("Marketing Data") to provide notices, surveys, product alerts, communications and other marketing materials to you relating to goods and services offered by us on the Sites including but not limited to Gold Suppliers membership, Verified Members membership, Free Members membership (each of Gold Suppliers membership, Verified Members membership, and Free Members membership, a “Membership” and collectively, the “Memberships”) the value added services ancillary to the Memberships, and other products and services offered by us and/or our affiliated companies and their designated Service Providers from time to time to members of the Sites;
 
-· Reminders to staff and contractors from time to time about the importance of data privacy, and the consequences of inappropriate behavior;
+8\. if you voluntarily submit any information to the Sites for publication on the Sites through the publishing tools, including but not limited to, Company or Business Profile, Product Catalog, Trade Leads, TrustPass Profile, Business Trust System and any discussion forum, then you are deemed to have given consent to the publication of such information on the Sites ("Voluntary Information"); 
 
-· Declaration of appropriately strong sanctions that are to be applied in the event of inappropriate behavior
+9\. making such disclosures as may be required for any of the above purposes or as required by law, regulations and guidelines or in respect of any investigations, claims or potential claims brought on or against us.
 
-· Clear communication of policies and sanctions; and
+**C. DISCLOSURE OF PERSONAL DATA**
 
-· Processes to audit, to investigate and to impose sanctions.
+1\. You further agree that we may disclose and transfer (whether within or outside the jurisdiction of the Dx entity that you are contracting with) your Personal Data to service providers engaged by us and/or other affiliated companies of the Dx Group to assist us with providing you with our services (including but not limited to data entry, database management, promotions, products and services alerts, delivery services, payment extension services, membership authentication and verification services and logistics services) ("Service Providers"). These Service Providers are under a duty of confidentiality to us and are only permitted to use your Personal Data in connection with the purposes specified at B.1 to B.9 above, and not for their own purposes.
 
-**Data Use**
+2\. You agree that we may disclose and transfer (whether within or outside the jurisdiction of the Dx entity that you are contracting with), for the purposes specified at B.1 to B.9 above, your Personal Data to other affiliated companies and/or their designated Service Providers of the Dx Group, which comprises a group of companies operating leading online and mobile marketplaces in consumer and business-to-business commerce, as well as cloud computing and other services. 
 
-Use refers to the application of Your Data by any part of DX, or any staff-member or contractor of DX in the course of their work.
+3\. When necessary we may also disclose and transfer (whether within or outside the jurisdiction of the Dx entity that you are contracting with) your Personal Data to our professional advisers, law enforcement agencies, insurers, government and regulatory and other organizations for the purposes specified at B.9 above.
 
-DX undertakes to use Your Data only for:
+4\. Any Personal Data supplied by you will be retained by us and will be accessible by our employees, any Service Providers engaged by us and third parties referred to at C.2 and C.3 above, for or in relation to any of the purposes stated in B.1 to B.9 above.
 
-· **The purposes for which it was collected** ;
+5\. All Voluntary Information may be made publicly available on the Sites and therefore accessible by any internet user. Any Voluntary Information that you disclose to us becomes public information and you relinquish any proprietary rights (including but not limited to the rights of confidentiality and copyright) in such information. You should exercise caution when deciding to include personal or proprietary information in the Voluntary Information that you submit to us.
 
-· Such other purposes as are **subsequently agreed** between DX and You;
+6\. We may share your Account Information with banks or vendors to enable your transactions on the Sites to be completed. In addition, we may use your Account Information to determine your credit-worthiness and, in the process of such determination, we may need to make such Account Information available to banks or credit agencies. While we have in place up-to-date technology and internal procedures to keep your Account Information and other Personal Data secure from intruders, there is no guarantee that such technology or procedures can eliminate all of the risks of theft, loss or misuse.
 
-· Such additional purposes as may be **required by law**. In these circumstances, DX will take any reasonable steps available to it to communicate to You that the use has occurred, unless it is precluded from doing so by law; and
+7\. We may provide statistical information to third parties, but when we do so, we do not provide personally-identifying information without your permission.
 
-· Such additional purposes as are **authorized by law** (in particular to protect DX's interests, e.g. if it believes on reasonable grounds that You have failed to fulfill your undertakings to DX or have committed a breach of the criminal law).
+8\. We have established relationships with other parties and websites to offer you the benefit of products and services which we do not offer. We offer you access to these other parties and their websites either through the use of hyperlinks to these sites from the Sites or through offering "co-branded" sites in which both we and other parties share the same uniform resource locator, domain name or pages within a domain name on the Internet. In some cases you may be required to submit personal information to register or apply for products or services provided by such third parties or co-branded partners. This Privacy Policy does not apply to these third party sites or co-branded sites. The privacy policies of those other parties may differ from ours, and we have no control over the information that you submit to those third parties. You should read the relevant privacy policy for those third party sites and co-branded sites before responding to any offers, products or services advertised by those parties
 
-At all times, we will offer you opportunities to **unsubscribe** out of any service or update to which you have subscribed, if you changed your mind. Any email we send you will contain an easy automate Unsubscribe link: <http://dx.com/newsletters/Unsubscribe> at the bottom, so that you can opt-out of that subscription. Simply follow the indication in the email.
+**D. RIGHT TO ACCESS/CORRECT PERSONAL DATA**
 
-When you register on DX.com and subscribe to the categories you prefer, you will also be given the option of opt-out of subscribing to our regular updates. Once you subscribe, we’ll send you a mail alerts for **featured offers, deals, new arrivals, contests, events of interest, system enhancement, and marketing promotions**. Such alerts may include information about DX.com, subsidiaries, or partners.
+Under the applicable laws, you have the right of access to personal information held by us and to request correction of the information.
 
-DX undertakes to use Your Data only if it has **demonstrable relevance** to the particular use to which it is being put.
+  
+If you have any questions regarding this Privacy Policy or if you wish to access or correct your Personal Data, you may send your request in writing to the following address:  
+Legal Counsel, The Legal Department
 
-DX undertakes to use Your Data in such a manner as to take into account the possibility that it is not of **sufficient quality for the purpose** , e.g. because it is inaccurate, out-of-date, incomplete, or out-of-context.
+3rd floor,Bd8, yungu 2nd zone ,Pingshan Road 1,Taoyuan avenue,Nanshan District,Shenzhen,China
 
-**Data Disclosure**
+**E. COOKIES**
 
-Disclosure refers to making Your Data available to any party other than DX and You. The term disclosure may include many different conditions of data transfer, including selling, renting, trading, sharing and giving.
+We use "cookies" to store specific information about you and track your visits to the Sites. It is not uncommon for websites to use cookies to enhance identification of their users.
 
-DX undertakes to disclose Your Data only under the following circumstances:
+A "cookie" is a small amount of data that is sent to your browser and stored on your computer's hard drive. A cookie can be sent to your computer's hard drive only if you access the Sites using a computer. If you do not de-activate or erase the cookie, each time you use the same computer to access the Sites, our web servers will be notified of your visit to the Sites and in turn we may have knowledge of your visit and the pattern of your usage.
 
-· **In the course of business being conducted between You and DX** , where disclosure is necessary to a contractor, such as payment processors like PayPal and transportation companies. Where Your Data is disclosed in this way, DX undertakes to exercise control over DX's contractors to ensure that their actions are compliant with these Terms;
+Generally, we use cookies to identify you and enable us to i) access your Registration Information or Account Information so you do not have to re-enter it; ii) gather statistical information about usage by users; iii) research visiting patterns and help target advertisements based on user interests; iv) assist our partners to track user visits to the Sites and process orders; and v) track progress and participation in promotions.
 
-· **In other circumstances that are directly implied by the purpose agreed between You and DX** at the time of data collection or subsequently. Where Your Data is disclosed in this way, DX undertakes to exercise control over DX's contractors to ensure that their actions are compliant with these Terms;
+You can determine if and how a cookie will be accepted by configuring the browser which is installed in the computer you are using to access the Sites. If you choose, you can change those configurations. By setting your preferences in the browser, you can accept all cookies or you can choose to be notified when a cookie is sent or you can choose to reject all cookies. If you reject all cookies by choosing the cookie-disabling function in your browser, you may be required to re-enter information on the Sites more often and certain features of the Sites may be unavailable.
 
-· **With your consent** , or at your request;
+**F. MINORS**
 
-· **Where required by law** , such as a provision of a statute, or a court order such as a search warrant or subpoena. In these circumstances, DX will take any reasonable steps available to it to communicate to You that the disclosure has occurred, unless it is precluded from doing so by law;
+The Sites and their contents are not targeted to minors (those under the age of 18) and we do not intend to sell any of our products or services to minors. However, we have no way of distinguishing the age of individuals who access our Site. If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact our Legal Department at the address set out in paragraph D above to remove the information.
 
-· **Where permitted by law** (e.g. the reporting of suspected breach of the criminal law to a law enforcement agency; and in an emergency, where DX believes on reasonable grounds that the disclosure of Your Data will materially assist in the protection of the life of health of some person), provided that DX will apply due diligence to ensure that the exercise of the permission is justifiable.
+**G. SECURITY MEASURES**
 
-In all cases, DX undertakes to disclose only such of Your Data as is necessary in the particular circumstances.
+We employ commercially reasonable security methods to prevent unauthorized access to the Sites, to maintain data accuracy and to ensure the correct use of the information we hold.
 
-**Data Retention and Destruction**
+For registered users of the Sites, your Registration Information and Account Information (if any) can be viewed and edited through your account, which is protected by a password. We recommend that you do not divulge your password to anyone. Our personnel will never ask you for your password in an unsolicited phone call or in an unsolicited email. If you share a computer with others, you should not choose to save your log-in information (e.g., user ID and password) on that shared computer. Remember to sign out of your account and close your browser window when you have finished your session.
 
-Subject to the qualifications immediately below, DX undertakes:
+No data transmission over the internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect the information we hold for you, we cannot guarantee the security of any information you transmit to us and you do so at your own risk.
 
-· To **retain** Your Data only as long as is consistent with its purpose; and
+**H. CHANGES TO THIS PRIVACY POLICY**
 
-· To **destroy** Your Data when its purpose has expired, and to do so in such a manner that Your Data is not subsequently capable of being recovered.
+Any changes to this Privacy Policy will be communicated by us posting an amended and restated Privacy Policy on the Sites. Once posted on the Sites the new Privacy Policy will be effective immediately. You agree that any information we hold about you (as described in this Privacy Policy and whether or not collected prior to or after the new Privacy Policy became effective) will be governed by the latest version of the Privacy Policy.
 
-This undertaking is qualified as follows:
+**I. YOUR FEEDBACK**
 
-· Your Data may be retained in DX's **logs, backups and audit trails** within short-term retention cycles that are devised to protect the company's operations. In such cases, Your Data will be destroyed in accordance with those cycles;
-
-· Your Data may be retained beyond the expiry of its purpose if that is **required by law** , such as a provision of a statute, or a court order such as a search warrant or subpoena, or a warning by a law enforcement agency that delivery of a court order is imminent. In these circumstances DX:
-
-· Will take any reasonable steps available to it to communicate to You that Your Data is being retained, unless it is precluded from doing so by law; and
-
-· Will only retain Your Data while that provision is current, and will then destroy Your Data;
-
-· DX follows all of the existing Google's Remarketing Privacy Guidelines, Policies, and Restrictions. 
-
-· DX uses Analytics data and the DoubleClick cookie to serve ads based on your prior visits to DX.com. 
-
-· You may opt out of the DoubleClick cookie by visiting the Google advertising opt-out page or you may opt out of Google Analytics by visiting the Google Analytics Opt-out page. 
-
-· Your Data may be retained beyond the expiry of its purpose if it is **authorized by law** (in particular to protect DX's interests, e.g. if it believes on reasonable grounds that You have failed to fulfill your undertakings to DX or have committed a breach of the criminal law). In these circumstances, DX will only retain Your Data while that situation is current and will then destroy Your Data.
-
-**Access by You to Your Personal Data**
-
-DX undertakes to provide you with **access** to Your Data, subject to only such conditions and processes as are reasonable in the circumstances. In particular, DX undertakes to enable access:
-
-· Conveniently
-
-· Without unreasonable delay
-
-· Without cost
-
-DX undertakes to establish and operate **identity authentication protections for access to Your Data** that are appropriate to its sensitivity, but practical. This may involve some inconvenience; for example, relatively straightforward procedures may be involved in order to provide you with access through a channel that you have previously registered with DX (such as a particular email-address), but may impose more onerous procedures if you wish to use some other channel.
-
-In the event that you dispute some aspect of Your Data, DX undertakes to take reasonable steps in relation to the **amendment, supplementation or deletion** of Your Data.
-
-You undertake:
-
-· Not to seek access for frivolous purposes, or unreasonably frequently;
-
-· To accept that deletion of some data may not be consistent with the provision of particular services by DX to you.
-
-**Information about Data-Handling Practices**
-
-DX undertakes to make information available to you about the manner in which DX handles your data:
-
-· In general terms, in a readily accessible manner
-
-· In more specific terms, on request
-
-Where Your Data is disclosed to a contractor, DX undertakes to make information available to you on request about the manner in which DX's contractors handle your data.
-
-DX undertakes to ensure that the information provided is meaningful and addresses your concerns.
-
-You undertake:
-
-· Not to seek such information for frivolous purposes, or unreasonably frequently
-
-· To accept that the disclosure of excessive detail may harm the security of Your Data and DX's business processes, and may harm DX's commercial interests.
-
-**Handling of Enquiries, General Concerns and Complaints**
-
-If you have enquiries, general concerns, or complaints about these Terms, or about DX's behavior in relation to these Terms, you undertake:
-
-To **communicate them in the first instance:**
-
-· To DX only
-
-· In sufficient detail
-
-· Through a channel made available by DX for that purpose
-
-DX undertakes:
-
-· To provide one or more **channels for communications** to DX, which are convenient to users
-
-· To promptly provide **acknowledgement** of the receipt of communications, including the provision of a copy of the communication, the date and time it was registered, and DX's reference-code for the communication;
-
-· To promptly provide **a response** to the communication, in an appropriate and meaningful manner.
-
-You further undertake to not pursue DX through any **Regulator or the media** :
-
-· Until and unless DX has had a reasonable opportunity to respond to the initial communication; and
-
-· While DX and you remain are conducting a meaningful dialogue about the matter.
-
-**Enforcement**
-
-DX declares that its undertakings in these Terms are intended to create **legal obligations,** and that those obligations are intended to be **enforceable** under appropriate laws in appropriate jurisdictions. These include laws relating to data protection, privacy, fair trading, corporations and criminal laws.
-
-You undertake to seek enforcement only in a **jurisdiction** that is relevant to the transactions that have taken place between You and DX, in particular the jurisdiction in which you live or in which you performed the relevant acts, and the jurisdiction in which DX is domiciled or performed the relevant acts.
-
-If you wish to discover the **relevant laws** in any particular jurisdiction, DX draws your attention to the following resources:
-
-· [World LII Privacy Links](http://www.worldlii.org/catalog/273.html)
-
-· [Compilation of [U.S.] State and Federal Privacy Laws](http://www.privacyjournal.net/work1.htm), Privacy Journal, Providence RI
-
-· [Privacy Law Sourcebook 2004, EPIC](http://www.epic.org/bookstore/pls2004/), Washington DC
-
-· the Australian Privacy Foundation's pages:
-
-· [International Instruments Relating to Privacy Law](http://www.privacy.org.au/Resources/PLawsIntl.html)
-
-· [Privacy Laws of Countries of the World](http://www.privacy.org.au/Resources/PLawsWorld.html)
-
-· [Privacy Laws of the Commonwealth of Australia](http://www.privacy.org.au/Resources/PLawsClth.html)
-
-· [Privacy Laws of the States and Territories of Australia](http://www.privacy.org.au/Resources/PLawsST.html)
-
-[Privacy International](http://www.privacyinternational.org/index.shtml?cmd%5b342%5d%5b%5d=c-1-Data+Protection+and+Privacy+Laws&als%5btheme%5d=Data%20Protection%20and%20Privacy%20Laws&conds%5b1%5d%5bcategory........%5d=Data%20Protection%20and%20Privacy%20Laws)
-
-**Changes to These Privacy Undertakings**
-
-DX undertakes:
-
-· Not to materially change these Terms in a manner that reduces the protections for Your Data;
-
-· To take all possible steps to prevent any company that acquires this company or any of its relevant assets from materially changing the Terms applicable to Your Data in a manner that reduces the protections for Your Data;
-
-· Where it is considering making changes to these Terms, or creating more specific Terms relating to specific services, to consult with appropriate representative and advocacy organizations;
-
-· Where it makes changes to these Terms, to ensure that the differences between successive versions are readily accessible;
-
-· To maintain all prior versions of these Terms in such a manner that they are dated, and readily accessible.
-
-**Definitions**
-
-**DX** means DX.com.
-
-**Your Data** means data that is capable of being associated with you, whether or not it includes an explicit identifier such as your name or customer number. In particular, it encompasses all data that DX is capable of correlating with you, using such means as server-logs and cookie-contents.
-
-Your Data does _not_ refer to data that can no longer be associated with you. This includes aggregated data that does not and cannot identify the individuals whose data are included in the aggregation.
-
-**Consent** means your concurrence with an action to be taken by DX. Consent may be express or implicit, but in either case must be informed and freely-given.
-
-If you wish to talk to DX.com customer service staff please call 0755-33022388-8118 or open a ticket at <https://cs.dx.com/Ticket/Index>. If you would like to pay a visit to DX.com please visit Epro E-Commerce Ltd, Room 301, Town Health Technology Centre, 10-12 Yuen Shun Circuit, Siu Lek Yuen, Shatin, N.T. ,Hong Kong. You can also email us to [ppsupport@mail.dealextreme.com](mailto:ppsupport@mail.dealextreme.com).
+We welcome your input regarding our Privacy Policy and any comments on the services we provide to you. You may send us your comments and responses by post to: 3rd floor,Bd8, yungu 2nd zone , Pingshan Road 1,Taoyuan avenue, Nanshan District, Shenzhen, China
