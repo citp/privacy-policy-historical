@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galleryroulette.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920124206id_/https%3A//galleryroulette.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galleryroulette.com privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102224851id_/https%3A//galleryroulette.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
