@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the grafolio.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606025755id_/http%3A//www.grafolio.com/privacy.grfl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grafolio.com privacy policy that was archived on 2019-01-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190102181708id_/https%3A//www.grafolio.com/privacy.grfl) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en_US"><head>
 	
@@ -23,23 +23,31 @@
 	
 	
 	
-		<meta property="og:image" content="http://img.grafolio.net/social/og_image_v2.png">
-		<meta property="og:description" content="We hope artworks on Grafolio will function beyond that of a simple portfolio and garner respect as a culture which can be enjoyed by everyone.">
+	
+	
+	
+	
+		<meta property="og:image" content="https://ssl.pstatic.net/static/grafolio/common/img/og_image_v4.png">
+		<meta property="og:description" content="Life is short, art is long! Create, discover and share amazing artworks what you love.">
 	
 
 <meta property="wb:webmaster" content="680b77eb597632ac">
 
 
+
 <script async="" src="//web.archive.org/web/20190701080624/https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+var global_autoCompleteUrl = "https://ac.grafolio.com/ac/ac?st=11&r_format=json&q_enc=UTF-8&r_enc=UTF-8&r_unicode=0&r_escape=1&t_koreng=1&r_lt=11";
 var global_likeDomain='https://common.like.naver.com';
-var global_likeauth_apiurl='http://apis.naver.com/grafolio_like/like_neoid';
+var global_likeauth_apiurl='https://apis.naver.com/grafolio_like/like_neoid';
 var global_neoid_consumerKey='VIm1HsfRs8';
-var global_photoDomain='http://img.phinf.grafolio.net';
-var global_photoSecureDomain='https://grafolio.ssl.phinf.net';
+var global_photoDomain='https://g-grafolio.pstatic.net';
+var global_photoSecureDomain='https://g-grafolio.pstatic.net';
 var global_audioInfraDomain='http://audioapi.nmv.naver.com';
-var global_grafolioDomain='http://www.grafolio.com/';
-var global_spluginUrl='http://spi.naver.net/js/release/ko_KR/splugin.js';
+var global_audioInfraStaticDomain = 'https://static-audiop.pstatic.net';
+var global_grafolioDomain='https://www.grafolio.com/';
+var global_spluginUrl='https://ssl.pstatic.net/spi/js/release/ko_KR/splugin.js';
 var global_spluginSecureUrl='https://ssl.pstatic.net/spi/js/release/ko_KR/splugin.js';
+var global_patronUrl='https://patron.naver.com';
 var global_android='Android';
 var global_androidWide='Android Wide';
 var global_iPhone='iPhone';
@@ -52,7 +60,7 @@ var global_searchWords='Search for titles or creators';
 var global_max='Less than ';
 var global_wordSizeMsg=' characters.';
 var global_blockAdmin='Blocked by administrator.';
-var global_challengeJoin='Participating in challenge';
+var global_challengeJoin='Participating in collaboration';
 var global_read='Views';
 var global_like='React';
 var global_like_btn='React';
@@ -73,6 +81,7 @@ var global_login='Log In';
 var global_cancel='Unfollow';
 var global_regist='Follow';
 var global_curation='Curations';
+var global_edit='Edit';
 var global_modify='Edit';
 var global_delete='Delete';
 var global_loginCheckMsg='You need to log in first.';
@@ -155,17 +164,39 @@ var global_add_story_member_first='invited you as a member of';
 var global_add_story_member_end='s story.';
 var global_del_story_member_first='You have withdrawn as a member from';
 var global_del_story_member_end='s story.';
-var global_add_like_works_generate=function(name, title) {
-	return '\u003Cem\u003E{0}\u003C\/em\u003E reacted to \u003Cem\u003E{1}\u003C\/em\u003E artwork.'.replace("{0}", name).replace("{1}", title);
-}
-var global_allView='View All';
+var global_mention_works_coment = function(name, title) {
+	return '\u003Cem class=\'nickname\'\u003E{0}\u003C\/em\u003E mentioned you in \u003Cstrong class=\'title\'\u003E{1}\u003C\/strong\u003E\'\'s comment.'.replace("{0}", name).replace("{1}", title).replace("''", "'");
+};
+var global_react_works = function(name, title) {
+	return '\u003Cem class=\'nickname\'\u003E{0}\u003C\/em\u003E reacted to \u003Cstrong class=\'title\'\u003E{1}\u003C\/strong\u003E artwork.'.replace("{0}", name).replace("{1}", title);
+};
+var global_multiple_react_works = function(name, count, title) {
+	return '\u003Cem class=\'nickname\'\u003E{0}\u003C\/em\u003E and {1} others reacted to \u003Cstrong class=\'title\'\u003E{2}\u003C\/strong\u003E artwork.'.replace("{0}", name).replace("{1}", count).replace("{2}", title);
+};
+var global_comment_works = function(name, title) {
+	return '\u003Cem class=\'nickname\'\u003E{0}\u003C\/em\u003E commented on \u003Cstrong class=\'title\'\u003E{1}\u003C\/strong\u003E.'.replace("{0}", name).replace("{1}", title);
+};
+var global_multiple_comment_works = function(name, count, title) {
+	return '\u003Cem class=\'nickname\'\u003E{0}\u003C\/em\u003E and {1} others commented on \u003Cstrong class=\'title\'\u003E{2}\u003C\/strong\u003E.'.replace("{0}", name).replace("{1}", count).replace("{2}", title);
+};
+var global_new_works = function(name, storyName) {
+	return '\u003Cem class=\'nickname\'\u003E{0}\u003C\/em\u003E\'\'s \u003Cstrong class=\'title\'\u003E{1}\u003C\/strong\u003E has been newly uploaded. Take a look!'.replace("{0}", name).replace("{1}", storyName).replace("''", "'");
+};
+var global_multiple_new_works = function(storyName, count) {
+	return '\u003Cstrong class=\'title\'\u003E{0}\u003C\/strong\u003E and {1} other artworks have been newly uploaded. Take a look!'.replace("{0}", storyName).replace("{1}", count);
+};
+var global_follow_creator = function(name) {
+	return '\u003Cem class=\'nickname\'\u003E{0}\u003C\/em\u003E started following you.'.replace("{0}", name);
+};
+var global_notify_namecard = 'You can now have your Grafolio Profile appear in NAVER search results.';
+var global_allView='View All \'My Notifications\'';
 var global_buttonUnfollow = 'Following';
 var global_buttonFollw = 'Follow';
 var global_interestStr = 'Follow';
 var global_releaseStr = 'Unfollow';
 var global_registStr = 'Follow';
 var globalCommonMenuGrafolio = 'Grafolio';
-var globalcontestMobileDetailGrafoliochallenge = 'Grafolio Challenge';
+var globalcontestMobileDetailGrafoliochallenge = 'Grafolio Collaboration';
 var global_reprotFormCheck='Less than 1,000 characters. ';
 var global_commentFormCheck='Please enter your comment.';
 var global_wordStr1 = 'Prohibited words are included.';
@@ -179,10 +210,12 @@ var global_newpwdconfirm = 'Confirm New Password';
 var global_locale="en_US";
 var global_folder_formcheck='Enter a title';
 var global_folder_imagecheck='Image must be at least 224 x 318pixel.';
+var global_folder_desccheck='설명을 입력해 주세요.';
+var global_folder_categorycheck='Please select the theme. (Max. of 2)';
 var global_folder_deletemsg='Are you sure you want to delete this folder?';
-var global_folder_delete_membermsg='Do you want to withdraw this member from this Story?';
-var global_folder_leavemsg='Do you want to withdraw from this Story?';
-var global_folder_limitmsg='The maximum number of folders is 20.';
+var global_folder_delete_membermsg='Do you wish to withdraw this member?';
+var global_folder_leavemsg='Do you wish to withdraw from the story?';
+var global_folder_limitmsg='You can create up to 20 Stories.';
 var global_storypic_daycheck='Please select a date after today.';
 var global_storypic_reservationCheck='Please specify the date you want to expose the artworks you\'ve uploaded.';
 var global_storypic_notcheck='Please select the day of the week to publish your series.';
@@ -209,7 +242,7 @@ var global_bgm_compisition='Tonality';
 var global_bgm_instrument='Instrument';
 var global_bgm_tempo='Tempo';
 var global_bgm_property='Property';
-var global_commonUploadDomain='http://upload.gfmarket.naver.com';
+var global_commonUploadDomain='https://upload.gfmarket.naver.com';
 var global_common_confirm_msg='OK';
 var global_common_cancel_msg='Cancel';
 var global_upload_category_reservationCheck='Select Category';
@@ -219,23 +252,31 @@ var global_upload_bookcategory_nocontents='You should add a Picture Book first b
 var global_upload_soundcategory_nobgm='You must attach a Background Music file in order to select a music category. ';
 var global_storypic_main_noMoreExhibitionAlert='Oops! There is no more~';
 var global_grafolioSecurePCDomain='https://www.grafolio.com';
+var global_upload_occurError_doRetry ='';
+var global_closed = 'Closed';
+var global_react_button = 'React';
+var global_comment_button = 'Comments';
+var global_zero_comment_text = 'No comments. \u003Cbr\u003EEnter the first comment.';
+var global_creator_text = 'Creator';
 </script>
 
 <title>Creator's Playground: Grafolio</title>
 
-    
-    
-        <link id="_css" rel="stylesheet" type="text/css" href="http://static.naver.net/grafolio/pc/0602/grafolio.css?_1580506546368">
-		<link rel="shortcut icon" href="http://static.naver.net/grafolio/m/img/favicon.ico">
-    
+	
+		<link id="_css" rel="stylesheet" type="text/css" href="https://ssl.pstatic.net/static/grafolio/pc/1227/grafolio.css?20181227062843">
+		<link id="_css" rel="stylesheet" type="text/css" href="https://ssl.pstatic.net/static/grafolio/pc/1227/grafolio_content.css?20181227062843">
+		<link rel="shortcut icon" href="https://ssl.pstatic.net/static/grafolio/m/img/favicon2.ico">
+	
+	
 
 
 
-<script language="javascript" type="text/javascript" src="/js/etc/jquery-latest.js?20170602091757"></script>
-<script language="javascript" type="text/javascript" src="/js/jindo/jindo.desktop.min.ns.js?20170602091757"></script>
-<script language="javascript" type="text/javascript" src="/js/jindo/jindo.component.min.js?20170602091757"></script>
+<script language="javascript" type="text/javascript" src="/js/etc/jquery-latest.js?20181227062843"></script>
+<script language="javascript" type="text/javascript" src="/js/jindo/jindo.desktop.min.ns.js?20181227062843"></script>
+<script language="javascript" type="text/javascript" src="/js/jindo/jindo.component.min.js?20181227062843"></script>
+<script type="text/javascript" src="/js/etc/handlebars.min.js?20181227062843"></script>
 <script type="text/javascript">
-	// document.domain = "grafolio.com";
+	//document.domain = "grafolio.com";
 	var likeProject = false;
 	var oLikeAnimation = null;
 	var photoImageServerDomain = global_photoDomain;
@@ -244,8 +285,6 @@ var global_grafolioSecurePCDomain='https://www.grafolio.com';
 			return "illustration";
 		} else if("false" == "true") {
 			return "illustration";
-		} else if("false" == "true") {
-			return "curation";
 		} else if("false" == "true") {
 			return "challenge";
 		}
@@ -258,15 +297,8 @@ var global_grafolioSecurePCDomain='https://www.grafolio.com';
 
 
 <script type="text/javascript">
-var nsc = "grafolio";
+var nsc = "grafolio.home";
 var ccsrv = "cc.naver.com";
-
-	
-	
-
-
-
-
 </script>
 	<!-- naver analytics -->
 	
@@ -274,9 +306,11 @@ var ccsrv = "cc.naver.com";
 
 
 <script type="text/javascript">
-"undefined"==typeof nil&&(nil={}),function(){function n(n){x&&x(n);var e;if("http:"!=T.protocol&&"https:"!=T.protocol)return!1;e=T.protocol;var t=R?E:A,r=new Image(1,1);return r.src=e+"//"+t+n,!0}function e(){var n=[],e=-1;for(var t in h)n[++e]=t+"="+I(h[t]);for(t in k)n[++e]=t+"="+I(k[t]);return n[++e]="t="+(new Date).getTime(),n.join("&")}function t(n){var e=n.length;if(e<1)return 0;var t=n[0];switch(t){case"cv":B=(new Date).getTime(),r("cv",n[1],"","",""),m(n[2],n[3]);break;case"leave":var o=i();if(o<=0)return 0;r("event","action","leave","",""+o),m(n[5],n[6]),B=null;break;case"event":r("event",n[1],n[2],n[3],n[4]),m(n[5],n[6])}return 1}function r(n,e,t,r,i){k.h=n||"",k.ec=e||"",k.ea=t||"",k.el=r||"",k.ev=i||""}function i(){return null===B?0:(new Date).getTime()-B}function o(n){return"object"==typeof n}function c(n){return"string"==typeof n}function a(){h={},k={}}function u(n,e){var t=D.referrer?D.referrer:"";h.s=n,h.c=e,h.r=t}function f(){var n;try{n=j.userLanguage||j.language||""}catch(e){}h.l=n,h.v=b}function l(){var n=s("og:url","content");n||(n=T.href?T.href:""),h.u=n,d()}function v(n){var e={};return n.replace(new RegExp("([^?=&]+)(=([^&]*))?","g"),function(n,t,r,i){e[t]=i}),e}function d(){var n=window.location.search,e=v(n),t=["cd_source","cd_type","cd_contents","cd_value"];for(var r in t){var i=t[r];i in e&&e[i]&&p(h,i,e[i])}}function s(n,e){for(var t=document.getElementsByTagName("meta"),r=0;r<t.length;r++)if(t[r].getAttribute("property")===n)return t[r].getAttribute(e)}function g(r){t(r)&&(n(e()),k={})}function m(n,e){if(o(n))for(var t in n)c(n[t])?p(h,t,n[t]):C[t]&&typeof n[t]==C[t]&&p(h,t,n[t].toString());c(n)&&c(e)&&p(h,n,e)}function p(n,e,t){var r={referrer:"r",gdid:"m",uri:"u",user_type:"f",cd_source:"cds",cd_type:"cdt",cd_contents:"cdc",cd_value:"cdv"};if(e in r)n[r[e]]=t;else{var i=e.split("_"),o=i.pop();if(!o.search(/0-9+/))return;var c=i.join("_"),a={dimension:{limit:10,key:"d"},metric:{limit:10,key:"m"},optional:{limit:10,key:"o"}};if(!(c in a))return;var u=parseInt(o);if(u>a[c].limit)return;n[a[c].key+o]=t}}function w(n,e){a(),u(n,e),f(),l()}function y(n){x=n}function _(n){R=n}var h={},k={},b="1.0.6",j=window.navigator,T=window.location,D=document,I=(D.referrer,encodeURIComponent),A=(window.java||self.java?java.awt.Toolkit.getDefaultToolkit():null,"nil.grafolio.com/m?"),E="dev.nil.naver.com/m?",R=!1,x=null,B=null,C={cd_value:"number"};nil.init=function(n,e){w(n,e)},nil.add=function(n,e){m(n,e)},nil.send=function(){g(arguments)},nil.callback=function(n){y(n)},nil.setDevMode=function(n){_(n)}}();
+!function(){function e(e){L&&L(e);var n;if("http:"!=A.protocol&&"https:"!=A.protocol)return!1;n=A.protocol;var t=C?"dev."+R:R,r=new Image(1,1);return r.src=n+"//"+t+e,!0}function n(){var e=[],n=-1;for(var t in T)e[++n]=t+"="+E(T[t]);for(t in D)e[++n]=t+"="+E(D[t]);return e[++n]="t="+(new Date).getTime(),e.join("&")}function t(e){var n=e.length;if(n<1)return 0;var t=e[0];switch(t){case"cv":M=(new Date).getTime(),r("cv",e[1],"","",""),p(e[2],e[3]);break;case"leave":var c=i();if(c<=0)return 0;r("event","action","leave","",""+c),p(e[5],e[6]),M=null;break;case"event":r("event",e[1],e[2],e[3],e[4]),p(e[5],e[6]);break;case"relay":r("relay",e[1],e[2],e[3],e[4]),p(e[5],e[6])}return 1}function r(e,n,t,r,i){D.h=e||"",D.ec=n||"",D.ea=t||"",D.el=r||"",D.ev=i||""}function i(){return null===M?0:(new Date).getTime()-M}function c(e){return"object"==typeof e}function o(e){return"string"==typeof e}function a(){T={},D={}}function u(e,n){var t=B.referrer?B.referrer:"";T.s=e,T.c=n,T.r=t}function f(){var e;try{e=x.userLanguage||x.language||""}catch(n){}T.l=e,T.v=I}function l(){var e=m("og:url","content");e||(e=A.href?A.href:""),T.u=e,d()}function v(e){var n={};return e.replace(new RegExp("([^?=&]+)(=([^&]*))?","g"),function(e,t,r,i){n[t]=i}),n}function d(){var e=window.location.search,n=v(e),t={cds:"cd_source",cdt:"cd_type",cdc:"cd_contents",cdv:"cd_value"};for(var r in t){var i=t[r];r in n&&n[r]&&_(T,i,n[r])}}function m(e,n){for(var t=document.getElementsByTagName("meta"),r=0;r<t.length;r++)if(t[r].getAttribute("property")===e)return t[r].getAttribute(n)}function s(r){t(r)&&(e(n()),D={})}function p(e,n){if(c(e))for(var t in e)g(t,e[t])&&_(T,t,e[t]);g(e,n)&&_(T,e,n)}function g(e,n){var t=["cd_value","metric_1","metric_2","metric_3","metric_4","metric_5","metric_6","metric_7","metric_8","metric_9","metric_10"];if(o(e)){if(o(n))return!0;if("number"==typeof n&&t.indexOf(e)!==-1)return!0}return!1}function _(e,n,t){var r=t.toString();if(n in N)e[N[n]]=r;else{var i=n.split("_"),c=i.pop();if(!c.search(/0-9+/))return;var o=i.join("_");if(!(o in O))return;var a=parseInt(c);if(a>O[o].limit)return;e[O[o].key+c]=r}}function y(e){if(e in N)delete T[N[e]];else{var n=e.split("_"),t=n.pop();if(!t.search(/0-9+/))return;var r=n.join("_");if(!(r in O))return;var i=parseInt(t);if(i>O[r].limit)return;delete T[O[r].key+t]}}function h(){for(var e=0;e<arguments.length;e++){var n=arguments[e];y(n)}}function w(e,n){a(),u(e,n),f(),l()}function k(e){L=e}function b(e){C=e}function j(e){R=e+"/m?"}var T={},D={},I="1.0.7",x=window.navigator,A=window.location,B=document,E=(B.referrer,encodeURIComponent),R=(window.java||self.java?java.awt.Toolkit.getDefaultToolkit():null,"nil.grafolio.com/m?"),C=!1,L=null,M=null,N={channel_id:"c",referrer:"r",gdid:"m",uri:"u",user_type:"f",cd_source:"cds",cd_type:"cdt",cd_contents:"cdc",cd_value:"cdv"},O={dimension:{limit:10,key:"d"},metric:{limit:10,key:"m"},optional:{limit:10,key:"o"},extra:{limit:10,key:"e"}};"undefined"==typeof nil&&(nil={}),nil.init=function(e,n){w(e,n)},nil.add=function(e,n){p(e,n)},nil.deleteBuf=function(){h.apply(this,arguments)},nil.send=function(){s(arguments)},nil.callback=function(e){k(e)},nil.setDevMode=function(e){b(e)},nil.setTargetDomain=function(e){j(e)}}();
 </script>
-<script id="naver-splugin-sdk" type="text/javascript" charset="utf-8" src="https://ssl.pstatic.net/spi/js/release/ko_KR/splugin.js?20200131"></script></head>
+	
+	<meta name="format-detection" content="telephone=no">
+</head>
 
 
 
@@ -297,11 +331,6 @@ var ccsrv = "cc.naver.com";
 	
 	
 	
-	<!-- 스킵네비게이션 -->
-	<div id="u_skip">
-		<a href="#lnb"><span>Go To Main Menu</span></a>
-		<a href="#content"><span>Go To Body</span></a>
-	</div>
 		<!-- header -->
 		
 
@@ -311,46 +340,126 @@ var ccsrv = "cc.naver.com";
 <div id="header">
 	<div class="header_wrap">
 		<h1>
-			<a href="http://www.grafolio.com/main.grfl"><span class="logo">Grafolio</span></a>
+			<a href="https://www.grafolio.com" class="logo" onclick="clickcr(this, 'gnb.grafolio', '', '', event);"><span class="blind">Grafolio</span></a>
 		</h1>
-
-		<ul id="lnb" class="lnb">
+		
+		<div class="float_lft">
+		
+			<ul id="lnb" role="menubar" class="lnb">
+				
+				<li role="presentation" class="list" style="display:none"><a href="https://www.grafolio.com/feeds/list.grfl" onclick="clickcr(this, 'gnb_lgn.feed', '', '', event);" role="menuitem" class="item"><span class="menu">Feed</span></a></li>
+				<li role="presentation" class="list"><a href="https://www.grafolio.com/works/list.grfl" onclick="clickcr(this, 'gnb.work', '', '', event);" role="menuitem" class="item"><span class="menu">Works</span></a></li>
+				<li role="presentation" class="list"><a href="https://www.grafolio.com/story/list.grfl" onclick="clickcr(this, 'gnb.story', '', '', event);" role="menuitem" class="item"><span class="menu">Story</span></a></li>
+				<li role="presentation" class="list"><a href="https://www.grafolio.com/collaboration/list.grfl" onclick="clickcr(this, 'gnb.collabo', '', '', event);" role="menuitem" class="item"><span class="menu">Collaboration</span></a></li>
+				<li role="presentation" class="list"><a href="https://www.grafolio.com/patron/creatorList.grfl" onclick="clickcr(this, 'gnb.patron', '', '', event);" role="menuitem" class="item"><span class="menu"><span class="menu">Patron</span></span></a></li>
+			</ul>
 			
-			<li id="subscriptionMenu" style="display:none" class="subscribe"><a href="http://www.grafolio.com/subscription/list.grfl">Feed</a></li>
-			<li class="storypic"><a href="http://www.grafolio.com/story/list.grfl">Stories</a></li>
-			<li class="crea_illust"><a href="http://www.grafolio.com/works/list.grfl">Gallery</a></li>
-			<li class="open_gall"><a href="http://www.grafolio.com/creator/list.grfl">Creators</a></li>
+			<div class="more_area">
+				<a href="#" role="button" class="btn_more" onclick="toggleGnbMoreMenu();clickcr(this, 'gnb.etc', '', '', event);return false;"><i class="ico" aria-label="메뉴 더보기"></i></a>
+				
+				<div id="gnb_more_area" class="ly_area hide">
+					<span class="ic"></span>
+					<ul class="lst_profile">
+						<li><a href="https://www.grafolio.com/about.grfl" onclick="clickcr(this, 'gne.about', '', '', event);">About Grafolio</a></li>
+						<li><a href="https://www.grafolio.com/wallpaper.grfl" onclick="clickcr(this, 'gne.wallpaper', '', '', event);">Wallpaper</a></li>
+						<li><a href="http://ogqmarket.naver.com" onclick="clickcr(this, 'gne.ogq', '', '', event);">Naver OGQ Market</a></li>
+						<li><a href="https://swindow.naver.com/living/external/store" onclick="clickcr(this, 'gne.art', '', '', event);">Art Products Store</a></li>
+						<li><a id="creator_center_link" href="http://hello.grafolio.net" onclick="clickcr(this, 'gne.center', '', '', event);">Official Blog</a></li>
+						<li><a href="https://www.grafolio.com/contactus.grfl" onclick="clickcr(this, 'gne.contact', '', '', event);">Contact Us</a></li>
+						<li id="notice"><a href="https://www.grafolio.com/notice/list.grfl" onclick="clickcr(this, 'gne.notice', '', '', event);">Notice</a></li>
+						<li id="help"><a href="https://www.grafolio.com/help.grfl" target="_blank" onclick="clickcr(this, 'gne.help', '', '', event);">Help</a></li>
+						<li id="gnb_lang_menu" class="type_lang">
+							<strong class="blind">언어설정</strong>
+							<a id="current_locale" href="javascript:toggleLangMore();" role="combobox" onclick="clickcr(this, 'gne.language', '', '', event);">한국어 <i class="ico_arr"></i></a>
+							<ul id="lang_list" role="listbox" class="list_lang">
+								<li id="ko_KR" role="option"><a href="javascript:selectLocale('ko_KR');" onclick="clickcr(this, 'gne.korean', '', '', event);">한국어</a></li>
+								<li id="en_US" role="option"><a href="javascript:selectLocale('en_US');" onclick="clickcr(this, 'gne.english', '', '', event);">English(US)</a></li>
+								<li id="es_MX" role="option"><a href="javascript:selectLocale('es_MX');" onclick="clickcr(this, 'gne.espanol', '', '', event);">Español</a></li>
+								<li id="es_ES" role="option"><a href="javascript:selectLocale('es_ES');" onclick="clickcr(this, 'gne.espana', '', '', event);">Español (España)</a></li>
+								<li id="fr_FR" role="option"><a href="javascript:selectLocale('fr_FR');" onclick="clickcr(this, 'gne.french', '', '', event);">Français (France)</a></li>
+								<li id="ja_JP" role="option"><a href="javascript:selectLocale('ja_JP');" onclick="clickcr(this, 'gne.japanese', '', '', event);">日本語</a></li>
+								<li id="zh_CN" role="option"><a href="javascript:selectLocale('zh_CN');" onclick="clickcr(this, 'gne.simplech', '', '', event);">中文(简体)</a></li>
+								<li id="zh_TW" role="option"><a href="javascript:selectLocale('zh_TW');" onclick="clickcr(this, 'gne.chinese', '', '', event);">中文(繁體)</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+		
 			
-			<li class="challenge"><a href="http://www.grafolio.com/challenge/list.grfl">Challenges</a></li>
 			
-		</ul>
+		</div>
 		
-		
-		
-		
-		<div id="gnb_user_info" class="info" style="display:none;">
+		<div id="gnb_user_info" class="float_rgt" style="display:none;">
 			
 			
 			<div id="gnb_search_area" class="search">
-				<input type="text" id="search" name="search" value="" title="Search for titles or creators" style="color: rgb(160, 160, 160);" onfocus="checkSearchAreaOnFocus(this);" onkeypress="checkSearchQuery(event, this.value);">
-				<a href="#" onclick="toggleGnbSearch();return false;" title="Search" class="btn">Search</a>
+				<input type="text" id="search" name="search" value="" title="Search for titles or creators" style="color: rgb(160, 160, 160);" onfocus="checkSearchAreaOnFocus(this);" onkeypress="checkSearchQuery(event, this.value);" onclick="clickcr(this, 'gnb.search', '', '', event);">
+				<a href="#" role="button" onclick="toggleGnbSearch();return false;" class="btn"><i class="ico"></i><span class="blind">Search</span></a>
 			</div>
 			
 			
-			<div id="cmt_noti" class="cmtnoti_info" sylte="display:none;"></div>
-			<div class="user_info none" id="loginInfoEl">
-				<a href="javascript:member.login();" class="login">Log In / Sign Up</a>
+			<a id="gnb_login_btn" href="#" onclick="member.login();clickcr(this, 'gnb_lof.login', '', '', event);return false;" role="button" class="btn_login">
+				<span>Log In</span>
+			</a>
+
+			
+			<a id="gnb_upload_btn" href="https://www.grafolio.com/upload/form.grfl" role="button" class="btn_upload" onclick="clickcr(this, 'gnb_lgn.upload', '', '', event);">
+				<span class="ico_upload"></span>
+				<span>Upload</span>
+			</a>
+
+			
+			<div id="gnb_alarm_area" class="alarm_area">
+				<a href="#" onclick="openCommentAlertLayer();clickcr(this, 'gnb_lgn.alarm', '', '', event);return false;" role="button" title="Notifications" class="btn_alarm">
+					<i class="ico"></i><span class="blind">댓글 알림</span>
+					
+					<em id="new_alarm_icon" class="mark"><span class="blind">안읽은 댓글 알림이 있습니다.</span></em>
+				</a>
+				
+				<div id="alarm_layer" class="ly_alarm hide">
+					<iframe title="내용 없음" hspace="0" vspace="0" border="0" marginheight="0" marginwidth="0" width="100%" height="100%" style="position:absolute;left:0;top:0;filter:alpha(opacity:0);opacity:0;z-index:-1" wmode="opaque"></iframe>
+					<div class="group_alarm">
+						<div class="tab_area">
+							<ul role="tablist" class="tablist">
+								<li id="tab_news" role="tab" aria-controls="ly_news" class="tab"><a href="javascript:enableNotifyTab(gnbNotify.NEWS);" class="link" onclick="clickcr(this, 'alt.my', '', '', event);"><span class="menu">My News <em class="num">0</em></span></a></li>
+								<li id="tab_newWorks" role="tab" aria-controls="ly_collection" class="tab"><a href="javascript:enableNotifyTab(gnbNotify.NEW_WORKS);" class="link" onclick="clickcr(this, 'alt.new', '', '', event);"><span class="menu">New Artworks</span></a></li>
+							</ul>
+						</div>
+						<div class="list_area">
+							<div id="ly_news" role="tabpanel" class="inner">
+							</div>
+							<div id="ly_collection" role="tabpanel" class="inner hide">
+							</div>
+							<a id="showAllNotifyLink" href="/activity.grfl" target="_self" class="btn_more">View All 'My Notifications'</a>
+						</div>
+					</div>
+				</div>
 			</div>
+
 			
-				<a href="http://www.grafolio.com/upload/form.grfl" class="btn_upload"><span class="ico_upload"></span> <span>Upload</span></a>
-			
+			<div id="gnb_user_menu" class="user_info">
+				
+				<a id="profile_link" href="#" title="My Profile" class="profile" onclick="clickcr(this, 'gnb_lgn.profile', '', '', event);">
+					
+					<span id="profile_image_span" class="thumb"></span>
+				</a>
+				
+				<div id="user_menu" class="ly_area hide">
+					<span class="ic"></span>
+					<ul class="lst_profile">
+						<li><a href="https://www.grafolio.com/account/info.grfl" onclick="clickcr(this, 'gnp.grafoliomy', '', '', event);">My GRAFOLIO</a></li>
+						<li><a href="https://www.grafolio.com/account/analytics/detail.grfl" onclick="clickcr(this, 'gnp.analytics', '', '', event);">Analytics</a></li>
+						<li id="patron_manage_btn" class="hide"><a href="https://patron.naver.com/manage/home">Manage Support</a></li>
+						<li><a href="javascript:member.logout();" onclick="clickcr(this, 'gnp.logout', '', '', event);">Log Out</a></li>
+					</ul>
+				</div>
+			</div>
 		</div>
 	</div>
-	<span class="bdr"></span>
 </div>
 
 		<!-- //header -->
-		
 		
 		
 		
@@ -392,20 +501,8 @@ var ccsrv = "cc.naver.com";
 					- Email login: Email address, name, user name (URL)
 				</p>
 				<p>
-					Second, we additionally collect the following personal information from Grafolio users that are registering for the Creator Factory’s seller account.
-				</p>
-				<p>
-					- Individual Seller Account: Name, Date of Birth, Encrypted Same Person Identification Information, Email Address, Cell Phone Number, Resident Registration Number (For Tax Invoice), Bank Account Information (Name of the account holder, Bank, and Account Number), Copy of Bank Book
-				</p>
-				<p>
-					- Corporate Seller Account: Name of the Representative, Cell Phone Number, Email Address, Company Address, Account Information (Name of the account holder, Bank, Account Number), Documentary Evidence (Copy of Business Registration, Copy of Certificate of a Registered Seal, Copy of Bank Book, Deposit Account Report Form)
-				</p>
-				<p>
-					- Overseas Corporate Seller Account: Name, Email Address, Cell Phone Number, Documentary Evidence (Copy of Bank Book, Registration Form)
-				</p>
-				<p>
-					Third, by user’s choice, profile information (profile image, country, gender, age, website, public email address, area of activity, social media service, history) can be collected. Also, while using the services, IP Address, cookie, date of visit, service usage information, bad usage record, device information, and payment information can be collected. Email address and phone number may be collected while receiving and processing customer inquiry.
-				</p>
+					Second, by user’s choice, profile information (profile image, country, gender, age, website, public email address, area of activity, social media service, history) can be collected. Also, while using the services, IP Address, cookie, date of visit, service usage information, bad usage record, device information, and payment information can be collected. Email address and phone number may be collected while receiving and processing customer inquiry.
+   				</p>
 			</div>
 			<h4>B. How personal information is collected</h4>
 			<p>
@@ -468,7 +565,7 @@ var ccsrv = "cc.naver.com";
 					<td>Customer support, Service operation</td>
 				</tr>
 				<tr>
-					<td>Danal Co., Ltd., KSNET INC., KG Inicis Co., Ltd., NHN KCP Corp., HYOSUNG FMS INC, LG Uplus Corp., Allat. Corp., KG Mobilians Co., Ltd., Korea Information&amp;Communication Co., Ltd., Settlebank INC, VP Inc, SOFTFAMILY INC, Galaxia Communications Co., Ltd., A1N, Inc, Credit-card companies (HYUNDAI CARD Corp., LOTTECARD CO., LTD, KB KOOkmin Card Co. LTD., BC Card Co., Samsung Card CO., LTD., Shinhan Card Co., Ltd., KEB Hana Card Co., Citigroup Inc., NH BANK, KWANGJU BANK, JB Bank, JEJUBANK, Suhyup Bank), Paypal, Shinhan Bank, and all other banks registered for Naver Pay Easy Payment Services account.</td>
+					<td>Danal Co., Ltd., KSNET INC., KG Inicis Co., Ltd., NHN KCP Corp., HYOSUNG FMS INC, LG Uplus Corp., Allat. Corp., KG Mobilians Co., Ltd., Korea Information&amp;Communication Co., Ltd., Settlebank INC, VP Inc, Galaxia Communications Co., Ltd., Credit-card companies (HYUNDAI CARD Corp., LOTTECARD CO., LTD, KB KOOkmin Card Co. LTD., BC Card Co., Samsung Card CO., LTD., Shinhan Card Co., Ltd., KEB Hana Card Co., Citigroup Inc., NH BANK, KWANGJU BANK, JB Bank, JEJUBANK, Suhyup Bank), Shinhan Bank, and all other banks registered for Naver Pay Easy Payment Services account.</td>
 					<td>Payment processing (Verifying cell phone, payment without a bankbook, bank transfer, credit card, gift certificate, and other means of payment and refund account)  and preventing payment embezzlement</td>
 				</tr>
 				<tr>
@@ -503,7 +600,7 @@ var ccsrv = "cc.naver.com";
 				</tr>
 				<tr>
 					<th scope="row">Data management manager's contact info</th>
-					<td><a href="mailto:npbcc@naver.com">npbcc@naver.com</a></td>
+					<td><a href="mailto:nbpcc@naver.com">nbpcc@naver.com</a></td>
 				</tr>
 				<tr>
 					<th scope="row">Consignor's personal info field</th>
@@ -657,41 +754,15 @@ var ccsrv = "cc.naver.com";
 
 
 
+
+<div id="previewAudioPlayer" style="position:absolute; bottom:0;"></div>
+
 <div id="footer">
 	<div class="footer_wrap">
-		<address>ⓒ Grafolio.</address>
 		<ul>
-			<li><a href="/about.grfl">About Grafolio</a></li>
-			<li><a href="/creatorcenter.grfl">Creator Center</a></li>
-			<li><a href="/help.grfl" target="_blank">Help</a></li>
-			<li><a href="/contactus.grfl">Contact Us</a></li>
-			<li><a href="/notice/list.grfl">Notice</a></li>
-			<li><a href="/terms.grfl">Terms of Use</a></li>
-			<li><a href="/privacy.grfl"><strong>Privacy Policy</strong></a></li>
-			<li class="lang">
-				<a id="current_locale" href="javascript:showSelectLocale();" class="cur_lang">English(US)<span class="lang_arr"></span></a>
-				
-				<ul id="locale_list" class="ly_lang" style="">
-					<li><a id="en_US" href="javascript:selectLocale('en_US');" class="sel_lang">English(US)</a></li>
-					<li><a id="es_MX" href="javascript:selectLocale('es_MX');" class="sel_lang">Español</a></li>
-					<li><a id="es_ES" href="javascript:selectLocale('es_ES');" class="sel_lang">Español (España)</a></li>
-					<li><a id="fr_FR" href="javascript:selectLocale('fr_FR');" class="sel_lang">Français (France)</a></li>
-					<li><a id="ko_KR" href="javascript:selectLocale('ko_KR');" class="sel_lang">한국어</a></li>
-					<li><a id="ja_JP" href="javascript:selectLocale('ja_JP');" class="sel_lang">日本語</a></li>
-					<li><a id="zh_CN" href="javascript:selectLocale('zh_CN');" class="sel_lang">中文(简体)</a></li>
-					<li><a id="zh_TW" href="javascript:selectLocale('zh_TW');" class="sel_lang">中文(繁體)</a></li>
-				</ul>
-			</li>
-			<li class="share">
-				<a href="http://www.facebook.com/grafol" class="facebook" target="_blank">facebook</a>
-				<a href="http://twitter.com/grafolio" class="twitter" target="_blank">twitter</a>
-		
-			
-			
-				<a href="http://blog.grafolio.com" class="blog" target="_blank">blog</a>
-			
-		
-			</li>
+			<li><a href="https://www.grafolio.com/terms.grfl" onclick="clickcr(this, 'fot.termsofuse', '', '', event);">Terms of Use</a></li>
+			<li><a href="https://www.grafolio.com/privacy.grfl" onclick="clickcr(this, 'fot.privacy', '', '', event);"><strong>Privacy Policy</strong></a></li>
+			<li><address>ⓒ Grafolio.</address></li>
 		</ul>
 	</div>
 </div>
@@ -716,11 +787,10 @@ var ccsrv = "cc.naver.com";
     <span class="dimmed"></span>
 </div>
 
-<div id="_cssLoadingCheck1" class="main_contents" style="display:none;"><div id="_cssLoadingCheck2" class="bg_wrap_sound" style="display:none;"></div></div>
-<script type="text/javascript" charset="utf-8" src="/js/min/grafolio_20170602091757.js"></script>
-<script type="text/javascript" src="https://common.like.naver.com/js/reaction/dist/reaction.js?20170602091757"></script>
-<script language="javascript" type="text/javascript" src="/js/etc/lcslog.min.js?20170602091757"></script>
-<script language="javascript" type="text/javascript" src="/js/etc/clickcr.js?20170602091757"></script>
+<div id="_cssLoadingCheck1" class="main_contents" style="display:none;"><div id="_cssLoadingCheck2" class="dev_check_css" style="display:none;"></div></div>
+<script type="text/javascript" charset="utf-8" src="/js/min/grafolio_20181227062843.js"></script>
+<script language="javascript" type="text/javascript" src="/js/etc/lcslog.js?20181227062843"></script>
+<script language="javascript" type="text/javascript" src="/js/etc/clickcr.js?20181227062843"></script>
 <script type="text/javascript">
 jQuery(document).ready(function(){
 	var currentUri = location.href;	
@@ -738,7 +808,7 @@ jQuery(document).ready(function(){
 
 jindo.$Fn(function(e){
 	if(typeof _resourceLoadingCheck == "undefined") {
-		jQuery.getScript("/js/min/grafolio_20170602091757.js")
+		jQuery.getScript("/js/min/grafolio_20181227062843.js")
 			.done(function(script, textStatus) {
 				if(_resourceLoadingCheck) {
 					alertResourceLoadingResult("js", "success");
@@ -750,21 +820,25 @@ jindo.$Fn(function(e){
 				alertResourceLoadingResult("js", "error");
 			});
 	}
-	if(jQuery("#_cssLoadingCheck2").css("background-color") === "rgba(0, 0, 0, 0)") {
+	if(jQuery("#_cssLoadingCheck2").css("left") !== "-30px") {
 		alertResourceLoadingResult("css", "reload");
 		var _css_href = jQuery("#_css").attr('href') + "?_" + Date.now();
 		jQuery("#_css").attr('href', _css_href);
 	}
 	callOnloadJson();
 	initSelectLocale();
-	lcs_do();
-	}).attach(window,"load");
 	
+	}).attach(window,"load");
+
+jindo.$Fn(function(e){	
+	lcs_do();
+}).attach(window,"pageshow");
+
 function alertResourceLoadingResult(type, result) {
 	jQuery.ajax({
 		type : "get",
 		url : "/onload/ajax/alertResourceReload.json",
-		data : "type=" + type + "&result=" + result + "&version=20170602091757"
+		data : "type=" + type + "&result=" + result + "&version=20181227062843"
 	});
 }
 </script>
@@ -772,11 +846,15 @@ function alertResourceLoadingResult(type, result) {
 
 <script type="text/javascript" src="/js/etc/google.analytics.pcweb.js"></script>
 		<!-- //footer -->
+		
+		
+		<div class="dimmed_transparent hide"></div>
+		
 	</div>
+	<script type="text/javascript">
+		
+		var WWW_HOST = 'https://www.grafolio.com';
+	</script>
 
-<script type="text/javascript">
-	
-	var WWW_HOST = 'http://www.grafolio.com';
-</script>
 
 </body></html>
