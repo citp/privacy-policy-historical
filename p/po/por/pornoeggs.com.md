@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornoeggs.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312083248id_/https%3A//www.pornoeggs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornoeggs.com privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102052110id_/https%3A//www.pornoeggs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pornoeggs
 
