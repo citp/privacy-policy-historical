@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelden.co.uk privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202153841id_/http%3A//www.travelden.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelden.co.uk privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102183502id_/https%3A//www.travelden.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Travel Den
 
@@ -71,7 +71,7 @@ If you withdraw your consent to us processing your Personal Information, we will
 If the law applicable to you grants you such rights, you may ask to access, correct, or delete your Personal Information that is stored in our systems. You may also ask for our confirmation as to whether or not we process your Personal Information.  
 Subject to the limitations in law, you may request that we update, correct, or delete inaccurate or outdated information. You may also request that we suspend the use of any Personal Information whose accuracy you contest while we verify the status of that data.  
 Subject the limitations in law, you may also be entitled to obtain the Personal Information you directly provided us (excluding data we obtained from other sources) in a structured, commonly used, and machine-readable format and may have the right to transmit such data to another party.  
-If you wish to exercise any of these rights, contact us at: [[email protected]](http://www.travelden.co.uk/cdn-cgi/l/email-protection) When handling these requests we may ask for additional information to confirm your identity and your request. Please note, upon request to delete your Personal Information, we may retain such data in whole or in part to comply with any applicable rule or regulation and/or response or defend against legal proceedings versus us or our affiliates  
+If you wish to exercise any of these rights, contact us at: info@travelden.co.uk. When handling these requests we may ask for additional information to confirm your identity and your request. Please note, upon request to delete your Personal Information, we may retain such data in whole or in part to comply with any applicable rule or regulation and/or response or defend against legal proceedings versus us or our affiliates  
 To find out whether these rights apply to you and on any other privacy related matter, you can contact your local data protection authority if you have concerns regarding your rights under local law.
 
 **13\. UPDATES TO THIS PRIVACY POLICY**  
@@ -82,4 +82,4 @@ This Privacy Policy, its interpretation, and any claims and disputes related her
 This Privacy Policy was written in English, and may be translated into other languages for your convenience. If a translated (non-English) version of this Privacy Policy conflicts in any way with the English version, the provisions of the English version shall prevail.
 
 **15\. HAVE ANY QUESTIONS?**  
-If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email at: [[email protected]](http://www.travelden.co.uk/cdn-cgi/l/email-protection) and we will make an effort to reply within a reasonable timeframe.
+If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email at: info@travelden.co.uk and we will make an effort to reply within a reasonable timeframe.
