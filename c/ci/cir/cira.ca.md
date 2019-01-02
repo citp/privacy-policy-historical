@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cira.ca privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226074331id_/https%3A//cira.ca/cira-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cira.ca privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102070504id_/https%3A//cira.ca/cira-privacy-policy) for the most accurate reproduction.*
 
 # CIRA Privacy Policy
 
