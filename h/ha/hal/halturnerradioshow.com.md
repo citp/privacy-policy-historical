@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halturnerradioshow.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227200510id_/http%3A//halturnerradioshow.com/index.php/privacy-policy-power-of-attorney) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halturnerradioshow.com privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102124125id_/http%3A//halturnerradioshow.com/index.php/privacy-policy-power-of-attorney) for the most accurate reproduction.*
 
 # Privacy Policy & Power of Attorney
 
