@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mlab.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825163907id_/https%3A//mlab.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlab.com privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102061311id_/https%3A//mlab.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | mLab Cloud MongoDB Hosting
 
-Last Updated: May 22, 2018
+Last Updated: September 25, 2018
 
 ObjectLabs Corporation (henceforward **"mLab"** , **"we"** or **"us"** ) understands that Users care about their privacy and how their personally identifiable information is used and shared. As such, we at mLab have a firm commitment to the privacy and protection of our Users.
 
@@ -11,6 +11,12 @@ This Privacy Policy applies to the information we collect via our Service and ou
 All individuals whose responsibilities include the processing of personally identifiable information on our behalf are expected to protect that data by adherence to this Privacy Policy. This Privacy Policy is intended to meet requirements globally, including those in North America, Europe, APAC, and other jurisdictions.
 
 Capitalized terms that are not defined in this Privacy Policy have been defined in our Terms of Service (available at <https://mlab.com/company/legal/tos/>). Therefore, please make sure you have read and understand our Terms of Service.
+
+### Privacy Shield
+
+mLab complies with the requirements of the EU-U.S. Privacy Shield Framework and the Swiss- U.S. Privacy Shield Framework, as set forth by the U.S. Department of Commerce and the Federal Trade Commission ( **"FTC"** ), regarding the collection, use and retention of personal information from the European Union and Switzerland to the United States, respectively (collectively **"Privacy Shield"** ). mLab has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. The **"Privacy Shield Principles"** collectively means the 7 privacy principles and the 16 supplemental principles described in the Privacy Shield. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view mLab's certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+
+Additionally, mLab may protect your data through other legally-valid methods, including international data transfer agreements. Adherence to the Privacy Shield Principles for personally identifiable information covered by the Privacy Shield may be limited (i) to the extent required or allowed by applicable law, rule or regulation; (ii) to the extent necessary to respond to lawful requests by public authorities, including to meet national security, law enforcement, legal or governmental requirements; and/or (iii) to protect the health or safety of an individual.
 
 ### Our guiding principles
 
@@ -46,6 +52,8 @@ We use your personally identifiable information only for the following purposes:
 
 mLab does not sell, trade, rent or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating or analyzing our Site or Service, conducting our business, or servicing you (e.g. to process your credit card transactions, to provide IT and related services or provide customer support services). These companies are authorized to use your personally identifiable information only as necessary to provide these services to us or to comply with applicable legal requirements. 
 
+With respect to onward transfers to any third party Agent (as such term is defined in the Privacy Shield Principles), Privacy Shield requires that mLab should remain liable should its Agents process personally identifiable information in a manner inconsistent with the Privacy Shield Principles.
+
 We may also share your anonymous and aggregated information as described above with our third-party service providers for research, product improvement, analytics and any other legally permissible purposes.
 
 We may store personally identifiable information in locations outside the direct control of mLab (e.g. on servers at hosting providers).
@@ -64,7 +72,7 @@ We may also disclose your personally identifiable information:
 
 #### Rights of Access, Rectification, Erasure, and Restriction
 
-If you are an EU-based user, you may seek confirmation regarding whether we are processing personally identifiable information about you, request access to personally identifiable information, and ask that we correct, amend or delete your personally identifiable information where it is inaccurate. Where otherwise permitted by applicable law, you may contact us at the contact information under the "Contact Us" section below to request access to, receive (port), restrict processing, seek rectification or request erasure of personally identifiable information held about you by mLab. Such requests will be processed in accordance with local laws. Although mLab makes good faith efforts to provide individuals with access to their personally identifiable information, there may be circumstances in which mLab is unable to provide access, including but not limited to: where the information contains legal privilege, would compromise others' privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy in the case in question, or where it is commercially proprietary. If mLab determines that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries. To protect your privacy, mLab will take commercially reasonable steps to verify your identity before granting access to or making any changes to your personally identifiable information. 
+If you are an EU-based user, you may seek confirmation regarding whether we are processing personally identifiable information about you, request access to personally identifiable information, and ask that we correct, amend or delete your personally identifiable information where it is inaccurate or has been processed in violation of the Privacy Shield Principles. Where otherwise permitted by applicable law, you may contact us at the contact information under the "Contact Us" section below to request access to, receive (port), restrict processing, seek rectification or request erasure of personally identifiable information held about you by mLab. Such requests will be processed in accordance with local laws. Although mLab makes good faith efforts to provide individuals with access to their personally identifiable information, there may be circumstances in which mLab is unable to provide access, including but not limited to: where the information contains legal privilege, would compromise others' privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy in the case in question, or where it is commercially proprietary. If mLab determines that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries. To protect your privacy, mLab will take commercially reasonable steps to verify your identity before granting access to or making any changes to your personally identifiable information. 
 
 #### Data Retention
 
@@ -76,11 +84,11 @@ We will retain your information for as long as your Account is active or as need
 
 Where you have consented to mLab's processing of your personally identifiable information, you may withdraw that consent at any time and opt out by following the instructions in this section. Additionally, before we use personally identifiable information for any new purpose not originally authorized by you, we will provide information regarding the new purpose. Where your consent for the processing of personally identifiable information is otherwise required by law or contract, we will comply with the law or contract.
 
-#### Email Communications
+#### Opt Out from Email Communications
 
 Out of respect for your privacy, you may choose to stop receiving email messages from us by following the unsubscribe instructions included in these emails or you can email us at [support@mlab.com](mailto:support@mlab.com). We do need to send you certain communications regarding the Service and you will not be able to opt out of those communications - e.g., communications regarding important Service notifications, updates to our Terms of Service or this Privacy Policy or information about billing.
 
-#### Advertising
+#### Advertising Choices
 
 For information on how to opt out of the collection and use of your information for targeted interest-based advertising on other sites, please refer to the description in the "What tracking technologies do we utilize?" section below.
 
@@ -118,14 +126,6 @@ If you have any questions about security of our Site or Service, you can email u
 
 Our Site includes links to other web sites whose privacy practices may differ from those of mLab. If you submit personally identifiable information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit.
 
-#### International Data Transfers
-
-Your personally identifiable information may be transferred to, and maintained on computers or servers, that are located outside of your state, province or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the US and choose to provide your personally identifiable information to us, you agree that we may transfer your personally identifiable information to the United States and process it there and consent to such transfer. We work with our customers and vendors with regard to legal compliance pertaining to data transfers.
-
-#### Your California Privacy Rights
-
-California residents may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed their personally identifiable information for direct marketing purposes during the preceding calendar year and the categories of personally identifiable information shared with those third parties. If you are a California resident and wish to obtain that information, please submit your request by sending us an email at [support@mlab.com](mailto:support@mlab.com) with "California Privacy Rights" in the subject line.
-
 #### Testimonials
 
 We display personal testimonials of satisfied customers on our Site in addition to other endorsements. We may repost testimonials that are publicly available on social media networks (like Twitter) without your consent. However, if the testimonial is obtained from any non-public source, we will obtain your consent before posting it on our Site. If you wish to update or delete your testimonial, you can contact us at [support@mlab.com](mailto:support@mlab.com).
@@ -142,13 +142,43 @@ Certain portions of our Site, such as the blog, include Social Media Features, s
 
 Due to the nature of mLab's business, our Service, Site and products and services are not marketed to minors. We do not knowingly solicit or collect personally identifiable information from children under the age of 13 (and in certain jurisdictions under the age of 16). If we learn that we have collected personally identifiable information from a child under the age of 13 (and in certain jurisdictions under the age of 16), we will promptly delete that information.
 
-#### Changes to our Privacy Policy
+### Redress/Compliance and Accountability
+
+If you are an EU or Swiss citizen and feel that we are not abiding by the terms of this Privacy Policy, or we are not in compliance with the Privacy Shield Principles, please contact us at the contact information provided in the "Contact Us" section below.
+
+In compliance with the Privacy Shield Principles, mLab commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at the contact information provided in the "Contact Us" section below.
+
+mLab has further committed to refer unresolved Privacy Shield complaints to the JAMS Privacy Shield Dispute Resolution Program an alternate dispute resolution provider located in the United States and the EU.
+
+If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim> for more information or to file a complaint. The services of JAMS are provided at no cost to you.
+
+If any request remains unresolved, you may contact the national data protection authority for your EU Member State.
+
+You may also have a right, under certain conditions, to invoke binding arbitration under Privacy Shield; for additional information, see [Annex 1 of the Privacy Shield Framework](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). The FTC has jurisdiction over mLab's compliance with the Privacy Shield.
+
+### International Data Transfers
+
+Your personally identifiable information may be transferred to, and maintained on computers or servers, that are located outside of your state, province or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the US and choose to provide your personally identifiable information to us, you agree that we may transfer your personally identifiable information to the United States and process it there and consent to such transfer. We work with our customers and vendors with regard to legal compliance pertaining to data transfers. For a description of our data transfers from the EU and Switzerland, which are handled through the Privacy Shield, please refer to the "Privacy Shield" section.
+
+### Your California Privacy Rights
+
+California residents may request and obtain from us, once a year, free of charge, a list of third parties, if any, to which we disclosed their personally identifiable information for direct marketing purposes during the preceding calendar year and the categories of personally identifiable information shared with those third parties. If you are a California resident and wish to obtain that information, please submit your request by sending us an email at [support@mlab.com](mailto:support@mlab.com) with "California Privacy Rights" in the subject line.
+
+### Compliance
+
+This Privacy Policy shall be implemented by mLab and all its operating divisions, subsidiaries and affiliates. mLab has put in place mechanisms to verify ongoing compliance with the Privacy Shield Principles and this Privacy Policy.
+
+### Changes to our Privacy Policy
 
 We may update this Privacy Policy at any time to reflect changes to our information collection, use or disclosure practices. If we make any material changes we will notify you of those changes by posting them on this Site, and we will update the "Last Updated" date above to indicate when those changes became effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
+### Questions or comments?
+
+If you have any questions, concerns or comments regarding this Privacy Policy, please do not hesitate to contact us. We're serious about making you feel comfortable about your security and privacy with us.
+
 ### Contact us
 
-If after reviewing this Privacy Policy, you would like to submit a request or you have any questions or privacy concerns, please contact us at [support@mlab.com](mailto:support@mlab.com). We're serious about making you feel comfortable about your security and privacy with us.
+If after reviewing this Privacy Policy, you would like to submit a request or you have any questions or privacy concerns, please contact us at [support@mlab.com](mailto:support@mlab.com).
 
 If email is not an option, you can write or call us using this contact info:
 
