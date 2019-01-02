@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grafolio.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025755id_/http%3A//www.grafolio.com/privacy.grfl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grafolio.com privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102181708id_/https%3A//www.grafolio.com/privacy.grfl) for the most accurate reproduction.*
 
 # Creator's Playground: Grafolio
 
@@ -19,15 +19,7 @@ First, The company supports various SNS logins for convenient member registratio
 
 \- Email login: Email address, name, user name (URL) 
 
-Second, we additionally collect the following personal information from Grafolio users that are registering for the Creator Factory’s seller account. 
-
-\- Individual Seller Account: Name, Date of Birth, Encrypted Same Person Identification Information, Email Address, Cell Phone Number, Resident Registration Number (For Tax Invoice), Bank Account Information (Name of the account holder, Bank, and Account Number), Copy of Bank Book 
-
-\- Corporate Seller Account: Name of the Representative, Cell Phone Number, Email Address, Company Address, Account Information (Name of the account holder, Bank, Account Number), Documentary Evidence (Copy of Business Registration, Copy of Certificate of a Registered Seal, Copy of Bank Book, Deposit Account Report Form) 
-
-\- Overseas Corporate Seller Account: Name, Email Address, Cell Phone Number, Documentary Evidence (Copy of Bank Book, Registration Form) 
-
-Third, by user’s choice, profile information (profile image, country, gender, age, website, public email address, area of activity, social media service, history) can be collected. Also, while using the services, IP Address, cookie, date of visit, service usage information, bad usage record, device information, and payment information can be collected. Email address and phone number may be collected while receiving and processing customer inquiry. 
+Second, by user’s choice, profile information (profile image, country, gender, age, website, public email address, area of activity, social media service, history) can be collected. Also, while using the services, IP Address, cookie, date of visit, service usage information, bad usage record, device information, and payment information can be collected. Email address and phone number may be collected while receiving and processing customer inquiry. 
 
 #### B. How personal information is collected
 
@@ -66,7 +58,7 @@ NAVER BUSINESS PLATFORM ASIA PACIFIC PTE. LTD | Data Storage
 NIT Service Corporation | Operation of infrastructure  
 NAVER I&S Corporation | Purchase and delivery of giveaways for events, Service operation, Customer support.  
 inComms Co., Ltd, Greenweb Service., Ltd | Customer support, Service operation  
-Danal Co., Ltd., KSNET INC., KG Inicis Co., Ltd., NHN KCP Corp., HYOSUNG FMS INC, LG Uplus Corp., Allat. Corp., KG Mobilians Co., Ltd., Korea Information&Communication Co., Ltd., Settlebank INC, VP Inc, SOFTFAMILY INC, Galaxia Communications Co., Ltd., A1N, Inc, Credit-card companies (HYUNDAI CARD Corp., LOTTECARD CO., LTD, KB KOOkmin Card Co. LTD., BC Card Co., Samsung Card CO., LTD., Shinhan Card Co., Ltd., KEB Hana Card Co., Citigroup Inc., NH BANK, KWANGJU BANK, JB Bank, JEJUBANK, Suhyup Bank), Paypal, Shinhan Bank, and all other banks registered for Naver Pay Easy Payment Services account. | Payment processing (Verifying cell phone, payment without a bankbook, bank transfer, credit card, gift certificate, and other means of payment and refund account) and preventing payment embezzlement  
+Danal Co., Ltd., KSNET INC., KG Inicis Co., Ltd., NHN KCP Corp., HYOSUNG FMS INC, LG Uplus Corp., Allat. Corp., KG Mobilians Co., Ltd., Korea Information&Communication Co., Ltd., Settlebank INC, VP Inc, Galaxia Communications Co., Ltd., Credit-card companies (HYUNDAI CARD Corp., LOTTECARD CO., LTD, KB KOOkmin Card Co. LTD., BC Card Co., Samsung Card CO., LTD., Shinhan Card Co., Ltd., KEB Hana Card Co., Citigroup Inc., NH BANK, KWANGJU BANK, JB Bank, JEJUBANK, Suhyup Bank), Shinhan Bank, and all other banks registered for Naver Pay Easy Payment Services account. | Payment processing (Verifying cell phone, payment without a bankbook, bank transfer, credit card, gift certificate, and other means of payment and refund account) and preventing payment embezzlement  
 NICE Information Service Co., LTD, Seoul Credit Rating and Information Inc., KGMobilians Co., LTD, and Dreamsecurity Co., LTD. | Identification  
   
 _The personal data consignments handled by overseas corporates are as follows._
@@ -78,7 +70,7 @@ The personal data consignments handled by overseas corporates Consignment Compan
 Location of Consignment Company | Hong Kong (RM 1808. 18/F HARCOURT RD ADMIRALTY HONG KONG)  
 Consignment date and way | October 13, 2016  
 Remote transmission using private network  
-Data management manager's contact info | [npbcc@naver.com](mailto:npbcc@naver.com)  
+Data management manager's contact info | [nbpcc@naver.com](mailto:nbpcc@naver.com)  
 Consignor's personal info field | Matches the data, including personal information collected and stored by NAVER  
 Consignment business details | National data backup (storage) for the protection of user data from disasters, catastrophes, etc.  
 Privacy Policy and Terms of Use | Matches the retention period outlined in this Privacy Policy  
