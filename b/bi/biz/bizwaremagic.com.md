@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2018-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180702212923id_/http%3A//www.bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2019-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190102205323id_/https%3A//bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ Also note Google Adsense does use the DoubleClick DART cookie:
 
 "We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go here: <https://www.doubleclickbygoogle.com/>"
 
-For more information on Cookies - Please view our [Affiliate Disclaimer](http://www.bizwaremagic.com/Disclaimer.htm). 
+For more information on Cookies - Please view our [Affiliate Disclaimer](https://www.bizwaremagic.com/Disclaimer.htm). 
 
 **Opt-In**
 
@@ -40,4 +40,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 **contact (at) bizwaremagic.com**
 
-[www.bizwaremagic.com](http://www.bizwaremagic.com/)
+[www.bizwaremagic.com](https://www.bizwaremagic.com/)
