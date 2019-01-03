@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedailyposh.net privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203212959id_/http%3A//www.thedailyposh.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailyposh.net privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103203726id_/http%3A//www.thedailyposh.net/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - The Daily Posh | Travel & Leisure Blog
+# Privacy Policy - The Daily Posh | A lifestyle and travel blog.
 
 PRIVACY STATEMENT
 
