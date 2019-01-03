@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reusablebags.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214220348id_/https%3A//www.vivaterra.com/who-we-are/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reusablebags.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103144249id_/https%3A//www.vivaterra.com/who-we-are/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy From VivaTerra For Customers | VivaTerra
 
