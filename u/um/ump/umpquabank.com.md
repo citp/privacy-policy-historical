@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umpquabank.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231133412id_/https%3A//www.umpquabank.com/help-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umpquabank.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103123220id_/https%3A//www.umpquabank.com/help-center/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
