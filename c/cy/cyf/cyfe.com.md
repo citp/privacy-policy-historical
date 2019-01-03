@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyfe.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022082530id_/https%3A//www.cyfe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyfe.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103113505id_/https%3A//www.cyfe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cyfe
 
