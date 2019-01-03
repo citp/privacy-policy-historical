@@ -1,20 +1,8 @@
-> *The following text is extracted and transformed from the doba.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604080033id_/https%3A//www.doba.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doba.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103092946id_/https%3A//www.doba.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Doba
 
 Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. If you use any of Doba's services, you agree to these terms. 
-
-  * Our commitment to privacy 
-  * The information we collect 
-  * How we use information 
-  * Communications from Doba 
-  * Sharing–Third parties 
-  * Our commitment to data security 
-  * Our commitment to children's privacy 
-  * How to access or correct your information 
-  * How to contact us 
-
-
 
 ###  Our commitment to privacy 
 
@@ -30,7 +18,10 @@ This notice applies to all information collected or submitted on the Doba websit
   * State driver's license number 
   * Phone number 
   * Credit/debit card information 
+  * Alternative payment information (Wire, PrePay, PayPal, etc.) 
   * Unique identifiers (such as username and password) 
+  * Retail site URL or marketplace name 
+  * Shipping account information 
   * Federal EIN 
   * State sales tax ID 
 
@@ -82,7 +73,7 @@ We communicate with users on a regular basis to provide requested services and i
 
   * Other 
 
-During the registration process, we collect phone information so that we may call you for the purpose of preventing fraud during the ordering process of Doba products. We also will call you during the first several weeks of your trial or service to provide answers to any questions as well as to offer additional promotions only available via phone. After the first several weeks of your trial or service, we, or our authorized marketing partners, may periodically contact you for the purposes of improving our services by asking you to answer questions or complete surveys or by offering you other services that we feel you may benefit from. 
+During the registration process, we collect phone information so that we may call you for account management purposes. We also will call you during the first several weeks of your trial or service to provide answers to any questions, as well as to offer additional promotions only available via phone. After the first several weeks of your trial or service, we, or our authorized marketing partners, may periodically contact you for the purposes of improving our services by asking you to answer questions or complete surveys or by offering you other services that we feel you may benefit from. 
 
 
 
@@ -105,7 +96,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked cage in a locked facility. 
 
-Doba reserves the right to make any amendments, modifications or changes to this Privacy Policy at any time. If any material change is made to this Privacy Policy, we will notify our users about those changes via email. If you do not agree to such changes, you can modify your notification settings to opt out of certain notices from Doba or its marketing partners. If users have any questions about the security at our website, users can send an email to support@doba.com. 
+Doba reserves the right to make any amendments, modifications or changes to this Privacy Policy at any time. If any material change is made to this Privacy Policy, we will notify our users about those changes via email. If you do not agree to such changes, you can modify your notification settings to opt out of certain notices from Doba or its marketing partners. If users have any questions about the security at our website, please [contact](https://web.archive.org/contact-us/) Customer Support. 
 
 ###  Our commitment to children's privacy 
 
@@ -117,6 +108,6 @@ You can access your personally identifiable information collected by Doba by log
 
 ###  How to contact us 
 
-Should you have other questions or concerns about these privacy policies, please send us an email at support@doba.com. 
+Should you have other questions or concerns about these privacy policies, please [contact](https://web.archive.org/contact-us/) Customer Support. 
 
-Last updated on May 27, 2008. 
+Last updated on July, 2016. 
