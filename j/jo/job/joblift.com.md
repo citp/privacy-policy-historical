@@ -1,133 +1,277 @@
-> *The following text is extracted and transformed from the joblift.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025004545id_/http%3A//www.lifttemp.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joblift.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103022248id_/https%3A//joblift.com/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mississauga Forklift Operator Staffing Agency
+# Privacy policy
 
-_Last Updated: February 26, 2014_
+### General information
 
-This privacy policy (the "Policy") is intended to inform you of the types of information, including information about you ("Personal Information"), _Lift Temp Inc._ ("we" or "us") collects, as well as our policies and practices regarding the collection, use, and disclosure of that information through the web pages at [_www.lifttemp.com_](http://www.lifttemp.com/) (the "Site"). 
+Users are free to disclose personal information. However, it is not necessary in order to navigate the website. Joblift abides by regulatory privacy policies. This privacy policy also comprises social media and related analysis tools. The purpose of this policy statement is to fulfil the requirements for art. 13 & 14 GDPR (information obligation). This only concerns the data processing processes associated with visiting the website.
 
-Please read this Policy carefully. BY USING THE SITE, YOU ARE ACKNOWLEDGING THAT YOU UNDERSTAND AND AGREE TO THE TERMS OF THIS POLICY, AND CONSENT TO THE MANNER IN WHICH WE MAY COLLECT, USE AND DISCLOSE YOUR PERSONAL INFORMATION.
+### 1\. Name and contact details of the responsible person for the data processing and the data protection officer.
 
-IF YOU DO NOT AGREE TO THE TERMS OF THIS POLICY, PLEASE DO NOT USE THE SITE.
+This data protection related information applies for data processing by:  
+Responsible for data processing:   
+Lukas Erlebach, Große Reichenstraße 27, D-20457 Hamburg, Germany, e-mail: [impressum@joblift.de](mailto:impressum@joblift.de "impressum@joblift.de") Phone: +49 (0) 40 211 078 462  
+Data protection officer:   
+Joblift’s data protection officer, Maximilian Hartung, can be contacted via the following e-mail address: [epost@datenschutz-agentur.de](mailto:epost@datenschutz-agentur.de "epost@datenschutz-agentur.de") .
 
-We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was updated. Your continued use of this Site following the posting of changes to this Policy will mean that you accept those changes. We encourage you to review this Policy from time to time to make sure that you understand how any Personal Information you provide will be collected, used and disclosed.
+### 2\. Collection and storage of personal data and information on the purpose and type of use.
 
-This Policy applies solely to information collected by us through the Site. It notifies you of the following:
+#### 1. Visit of our website
 
-[_What Information Do We Collect?_](https://web.archive.org/privacy-policy.aspx#1)
+When visiting our website(s) [https://www.joblift.de](https://www.joblift.de/ "https://www.joblift.de") , [https://www.joblift.nl](https://www.joblift.nl/ "https://www.joblift.nl") , [https://www.joblift.fr](https://www.joblift.fr/ "https://www.joblift.fr") , [https://www.joblift.co.uk](https://www.joblift.co.uk/ "https://www.joblift.co.uk") , [https://www.joblift.com](https://www.joblift.com/ "https://www.joblift.com") the browser on your device automatically sends information to the server of our website. This information is temporarily stored in a so called ‘log file’.   
+The following information is captured without any further action from your side. This information is saved until it is automatically deleted.   
+• IP-address of the information-requesting computer (or device)   
+• Date and time of access
 
-[_How Do We Use Personal Information That You Voluntarily Provide?_](https://web.archive.org/privacy-policy.aspx#2)
+• Name and URL of the requested file  
+• Website, from which our website is accessed (referrer-URL)  
+• Browser and operating system of your computer (or device)  
+• Name of access-providers  
+The listed information is processed for the following reasons:  
+• Ensuring a smooth connection of the website  
+• Ensuring comfortable use of our website  
+• Evaluation of system security and stability as well as…  
+• for other administrative purposes.  
+The legal basis for data processing is Art. 6 para. 1 S.1 lit. f GDPR. Our legitimate interest follows from the purposes listed above for data collection. Under no circumstances do we use the data collected for the purpose of drawing conclusions about you personally.  
+In addition, we use cookies and analysis services when you visit our website. You will find more detailed explanations under sections 4 and 5 of this data protection declaration.
 
-[_Do We Share Your Information?_](https://web.archive.org/privacy-policy.aspx#3)
+#### 2. When registering for our newsletter
 
-[_Your Privacy Rights -- Access to and Control Over Your Personal Information_](https://web.archive.org/privacy-policy.aspx#4)
+If you have expressly consented according to Art. 6 section 1 s. 1 a GDPR, we will use your e-mail address to send you our newsletter on a regular basis. To receive the newsletter it is sufficient to provide an e-mail address.  
+You can unsubscribe at any time, for example via a link at the end of each newsletter. Alternatively, you can send your unsubscription request at any time to [privacy@joblift.com](mailto:privacy@joblift.com "privacy@joblift.com") by e-mail.
 
-[_How to Opt-Out of Targeted Advertising_](https://web.archive.org/privacy-policy.aspx#5)
+#### 3. When using our contact form
 
-[_Does This Policy Apply to Other Websites Linked To Or From the Site?_](https://web.archive.org/privacy-policy.aspx#6)
+If you have any questions, we offer you the opportunity to contact us via mail ([privacy@joblift.com](mailto:privacy@joblift.com "privacy@joblift.com")). A valid e-mail address is required so that we know who sent the request and can respond to it. Further information can be provided voluntarily.  
+The data will be processed for the purpose of contacting us in accordance with Art. 6 section 1 s. 1 lit. a GDPR on the basis of your voluntary consent.  
+The personal data collected by us will be automatically deleted after your request has been processed.
 
-[_Do We Collect Information From Children?_](https://web.archive.org/privacy-policy.aspx#7)
+### 3\. Information disclosure
 
-[_What Steps Do We Take To Protect Your Information?_](https://web.archive.org/privacy-policy.aspx#8)
+Your personal data will not be transmitted to third parties for purposes other than those listed below.   
+We will only pass on your personal data to third parties if…   
+• you have given your express consent pursuant to Art. 6 section 1 s. 1 lit. a GDPR,   
+• the disclosure pursuant to Art. 6 section 1 s. 1 f GDPR is necessary to assert, exercise or defend legal claims and there is no reason to assume that you have an overriding interest worthy of protection in not disclosing your data,   
+• there is a legal obligation for the transfer pursuant to Art. 6 section 1 s. 1 lit. c GDPR, and   
+• this is legally permissible and necessary for the processing of contractual relationships with you pursuant to Art. 6 section 1 s. 1 lit. b GDPR.
 
-[_How Is Your Personal Information Transferred and Stored?_](https://web.archive.org/privacy-policy.aspx#9)
+### 4\. Cookies
 
-**_What Information Do We Collect? _ **
+We use cookies on our site. These are small files that your browser automatically creates and that are stored on your device (laptop, tablet, smartphone, etc.) when you visit our site. Cookies do no damage to your end device, do not contain viruses, trojans or other malware.   
+Information is stored in the cookie that results in each case in connection with the specifically used terminal device. However, this does not mean that we immediately become aware of your identity.   
+The use of cookies serves on the one hand to make the use of our offer more pleasant for you. For example, we use so-called session cookies to recognize that you have already visited individual pages of our website. These will be deleted automatically after leaving our site.   
+In addition, we also use temporary cookies that are stored on your end device for a specific time period to optimize user-friendliness. If you visit our site again to use our services, it will automatically recognize that you have already been with us and what entries and settings you have made so that you do not have to enter them again.   
+On the other hand, we use cookies to statistically record the use of our website and to evaluate it for you amid the goal to optimise our services for you (see Section 5). These cookies enable us to automatically recognize when you return to our site that you have already been with us. These cookies are automatically deleted after a defined time period.   
+The data processed by cookies is required for the aforementioned purposes in order to protect our legitimate interests and those of third parties pursuant to Art. 6 Section 1 S. 1 lit. f GDPR.   
+Most browsers automatically accept cookies. However, you can configure your browser so that no cookies are stored on your computer or a message always appears before a new cookie is created. However, the complete deactivation of cookies can lead to the fact that you cannot use all functions of our website.
 
-  * _Personal Information You Voluntarily Provide to Us -_ We only have access to and collect Personal Information (such as your name, mailing or billing address, telephone number, email address, and email preferences) that you voluntarily give us via email or through other direct contact from you, such as when you register to use the Site, when you complete a survey or enter a contest on the Site, or when you use any chat room functionality of the Site. This Personal Information is collected for the purpose of providing you with the services you request and responding to inquiries you make through the Site. We use this Personal Information as described below under the heading "How Do We Use Personal Information That You Voluntarily Provide". We will use certain information collected from your device that is not Personal Information in order to send you information about our products and those of certain third parties, as explained below. When we collect Personal Information from you, we will provide you with the opportunity to refuse to receive product information from (i) us or (ii) third parties. Should you opt to receive this product information, you may change your mind for the future. For example, each message you receive about a product will contain and easy to use "unsubscribe" hyperlink. 
-  * _Information Collected by Automated Means -_ Whenever you use the Site, we, as well as any of our third-party advertisers and/or service providers, may use a variety of technologies that automatically collect information about how you access and use the Site ("Usage Information"). Usage Information may include, in part, your browser type, your operating system, the time you spend on the Site, how many times you visit the Site, and the website you visited immediately before the Site. This Usage Information is collected for the purpose of providing us with information about the use of the Site by you and other users, such as how many visitors visit a specific page on the Site, how long they stay on that page, and which hyperlinks, if any, they "click" on. We use Usage Information to help us to keep the Site fresh and interesting to visitors like you and to tailor content of the Site to your interests. Usage Information is generally non-identifying, but if we associate it with you as a specific and identifiable person, we will treat it as Personal Information. By using the Site, you consent to our collection of Usage Information from you. 
-  * _Device Identifiers -_ In the course of collecting Usage Information we may also collect your IP address, MAC Address or other unique identifier (each a "Device Identifier") for the computer, mobile device, Wi-Fi card, or other technology (collectively, "Devices") you use to access the Site. A Device Identifier is a number that is automatically assigned to your Device when you access a web site or its servers. Our computers identify your Device by its Device Identifier. When you visit the Sites, we may view your Device Identifier. We use your Device Identifier to identify you when you visit our Site so that we can help ensure you have the best possible experience in using our Site. We also may use your Device Identifier to send you advertisements from third parties targeted to your interests. If you want us to stop using your Device Identifiers to send you targeted advertising, please follow the steps in the section below titled "How to Opt-Out of Targeted Advertising." We may associate your Device Identifier with your other Personal Information that you voluntarily provide or that is automatically collected when you visit the Site. By using the Site, you consent to our collection of your Device Identifier. 
-  * _Site Cookies_ _-_ The technologies used on the Site, including Device Identifiers, to collect Usage Information may include, without limitation: 
-    * _Cookies_ _-_ "Cookies" are data files placed on a Device when it is used to visit the Site. We may use cookies to collect and store certain information about you. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them). 
-    * _Web Beacons_ _-_ We may also include web beacons (also known as web bugs, Internet tags, pixel tags, tracking pixels and clear GIFs) with the content and advertisements that we deliver to you, which we will use to collect information regarding your interaction with our content and advertisements appearing on our Site. A "web beacon" is a transparent graphic image placed on a web page or in an email, which indicates that a page or email has been viewed or that an email has been forwarded. In addition, a web beacon allows third parties to obtain information, such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party. A web beacon may also tell your browser to get content from another server. 
+### 5\. Analysis- and tracking tools
 
+The tracking measures listed below and used by us are carried out on the basis of Art. 6 section 1 s. 1 f GDPR. With the tracking measures used, we want to ensure that our website is designed to meet requirements and is continually optimised. On the other hand, we use the tracking measures to statistically record the use of our website and to evaluate it for the purpose of optimising our offer. These interests are to be regarded as legitimate within the meaning of the aforementioned provision.   
+The respective data processing purposes and data categories can be found in the corresponding tracking tools.
 
+#### 1. Google Analytics
 
-We use cookies and web beacons (together, "Site Cookies") to gather information about how you use our Site. Information gathered through Site Cookies may be considered Personal Information. We use this information to track your interests in order to enhance your experience on our Site, understand your interests and how you use our Site, and track the effectiveness of advertisements on our Site. By using the Site, you consent to our collection of your Personal Information using Site Cookies.
+For the purpose of demand-oriented design and continuous optimization of our pages, we use Google Analytics, a web analysis service provided by Google Inc. (<https://www.google.com/intl/us/about/>) (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; hereinafter "Google"). In this context, pseudonymised user profiles are created and cookies (see point 4) are used. The information generated by the cookie about your use of this website such as  
+• Type and version of browser  
+• Operating system in use  
+• referrer-URL (previously visited page),  
+• host name of the accessing computer (IP-address)  
+• Time of the server request  
+are transferred to a Google server in the USA and stored there. The information is used to evaluate the use of the website, to compile reports on the website activities and to provide further services associated with the use of the website and the Internet for the purposes of market research and demand-oriented design of these Internet pages. This information may also be transferred to third parties if this is required by law or if third parties process this data on behalf of the company. Under no circumstances will your IP address be merged with other data from Google. The IP addresses are anonymized so that an assignment is not possible (IP masking).  
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  
+You can also prevent the collection of data generated by the cookie and related to your use of the website (including your IP address) and the processing of this data by Google by downloading and installing a browser add-on (<https://tools.google.com/dlpage/gaoptout?hl=en>).  
+As an alternative to the browser add-on, especially for browsers on mobile devices, you can also prevent Google Analytics from collecting data by clicking on this link. An opt-out cookie is set to prevent future collection of your data when you visit this website. The opt-out cookie is only valid in this browser and only for our website and is stored on your device. If you delete the cookies in this browser, you must set the opt-out cookie again.  
+Further information on data protection in connection with Google Analytics can be found in the Google Analytics Help (<https://support.google.com/analytics/answer/6004245?hl=en>).  
+Data protection authorities require the conclusion of an order data processing agreement for the permissible use of Google Analytics. A template is available at <https://www.google.com/analytics/terms/us.html> von Google.
 
-_ReachLocal_
+#### 2. Google Adwords Conversion Tracking
 
-We also work with a company called ReachLocal Canada, Inc. and its affiliates and parent company in the United States of America (collectively, "ReachLocal"), which assists us in advertising our products and/or services. One of the products that we may purchase from ReachLocal is a retargeting product, which enables ReachLocal to show you advertisements for our Site when you visit other sites in the ReachLocal network or in third-party networks. ReachLocal is able to do this through the use of cookies that are provided by ReachLocal through its third-party partners ("Advertising Cookies"). The sole use of the Advertising Cookies is to show you advertisements for our Site; they are not being used to target you or collect information from you, including Personal Information, in any other way. Moreover, ReachLocal does not link or otherwise connect the information in the Advertising Cookies to any Personal Information that you may have provided to us. Please note that ReachLocal retains the information on the ReachLocal platform for purposes of quality assurance and campaign assessment.
+We also use Google Conversion Tracking to statistically record and evaluate the use of our website for the purpose of optimising it for you. Google Adwords will set a cookie (see sectiongraph 4) on your computer if you have accessed our website via a Google ad.  
+These cookies expire after 30 days and are not used for personal identification. If the user visits certain pages of the Adwords customer's website and the cookie has not yet expired, Google and the customer can recognize that the user has clicked on the ad and has been redirected to this page.  
+Each Adwords customer receives a different cookie. Cookies cannot therefore be traced via the websites of Adwords customers. The information collected using the conversion cookie is used to generate conversion statistics for Adwords customers who have opted for conversion tracking. Adwords customers see the total number of users who clicked on their ad and were redirected to a page with a conversion tracking tag. However, you will not receive any information that personally identifies users.  
+If you do not wish to participate in the tracking process, you can also reject the setting of a cookie required for this - for example using a browser setting that generally deactivates the automatic setting of cookies. You can also deactivate cookies for conversion tracking by setting your browser to block cookies from the "www.googleadservices.com" domain. Google's privacy policy for conversion tracking can be found here (<https://services.google.com/sitestats/en.html>).
 
-If you have any questions regarding ReachLocal and/or the Advertising Cookies, you are encouraged to contact ReachLocal at [privacy@reachlocal.com](mailto:privacy@reachlocal.com). 
+#### 3. Google Tag Manager
 
-_Analytics_
+This website uses Google Tag Manager. This service allows website tags to be managed via an interface. Google Tag Manager only implements tags. This means that no cookies are set and no personal data is recorded. Google Tag Manager triggers other tags which, in turn, may record data. However, Google Tag Manager does not access this data. If tags have been disabled at the domain or cookie level, this remains in place for all tracking tags if these are implemented with Google Tag Manager. You can find out more about Google Tag Manager by clicking the following link: <http://www.google.com/tagmanager/use-policy.html>  
+In case you want to opt-out look see the description and link in 1). However please note that if you do this you may not be able to use the full functionality of this website.
 
-We may use two products to analyze activity on our Site. We use ReachLocal's tracking technology and/or Google Analytics to understand how you use our Site so that we can enhance your experience on our Site. In each case, we provide your Personal Information to ReachLocal and your Device Identifiers to Google for processing and analysis. By using the Site, you consent to our transfer of your Personal Information and/or Device Identifiers to, and the use of such information by, these third parties. If you wish to opt-out of ReachLocal's tracking technologies, go to http://www.reachlocal.ca/trackingopt-out, and if you wish to opt-out of Google Analytics, go to <https://tools.google.com/dlpage/gaoptout?hl=en-GB>. 
+#### 4. Matomo
 
-### _How Do We Use Personal Information That You Voluntarily Provide? _
+We use the open source software Matomo to analyze and statistically evaluate the use of the website. Cookies are used for this purpose (see section 4). The information generated by the cookie about website usage is transmitted to our servers and combined in pseudonymous user profiles. The information is used to evaluate the use of the website and to enable a demand-oriented design of our website. The information is not passed on to third parties.  
+Under no circumstances will the IP address be linked to other data relating to the user. The IP addresses are anonymized so that an assignment is not possible (IP masking).  
+Your visit to this website is currently recorded by Matomo Webanalyse. Click here (<https://matomo.org/privacy/>), so that your visit is no longer recorded
 
-We will use Personal Information you voluntarily provide to provide you with information requested when you contacted us. We will also use your information as follows:
+#### 5. Usabilla
 
-  * _Registration -_ You may need to first complete a registration form in order to use the Site. During registration, you may be required to provide us with certain Personal Information (such as your name and email address). This Personal Information is used to contact you about the products/services on our Site in which you have expressed interest and to contact you by email about changes to this Policy. 
-  * _Surveys and contests -_ From time to time, our Site may request information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore provide us with Personal Information. Information requested may include contact information (such as your name and shipping address), and demographic information (such as your postal code and age). Contact information will be used to notify the winners and award prizes, while demographic information will be used to confirm your contest and survey eligibility. Information gathered through a survey will be used by us for purposes of monitoring or improving the use and satisfaction of this Site. 
-  * _Customer Service -_ With your express consent only, we may contact you via email in the future to tell you about specials, new products or services, or changes to this Policy. 
-  * _Chat -_ Our Site may use chat functionality to enable us to directly communicate with you through our Site. We will primarily use such information collected through chat functions to assess your needs regarding our products or services and to collect your contact information so that we may contact you to further discuss our products or services. 
+We use the feedback service "Usabilla for Websites" from Usabilla B.V. (Netherlands) ("Usabila") to collect feedback from Users and to improve the website. When a User utilizes the feedback button, a cookie will be placed on the computer and the User's browser establishes a direct link to Usabilla's server and the User's IP address, as well as other device-related information are communicated. Further details can be found Usabilla's privacy policy under: <https://usabilla.com/privacy>
 
+#### 6. Criteo
 
+The Joblift website also uses the services of Criteo SA. By the use of retargeting technologies, such as Ad-IDs or Cookies Criteo can show visitors of our site our offered jobs also on Criteo partner websites, partner apps or even in emails. These targeted product recommendations are played out as personalised advertising banners. The information collected is not used to personally identify site visitors. The data collected will be used to improve and customize the offer.  
+For more information about the usage and privacy policies for this product, please visit: <http://www.criteo.com/privacy>
 
-### _Do We Share Your Information? _
+#### 7. Facebook Pixel
 
-As described above, we share your Personal Information and Device Identifiers with Google and ReachLocal for processing and analysis so that they can help us understand how you use our Site so that we can enhance your experience on our Site. We may also share your Device Identifiers with third parties which will allow those third parties to send you advertisements targeted to your interests.
+This Cookie is placed by Facebook. It enables Joblift to measure, optimize and build audiences for advertising campaigns served on Facebook. It enables us to see how users move between devices when accessing our web site and Facebook, to ensure that Joblift’s Facebook advertising is seen by our users most likely to be interested in such advertising by analysing which content a user has viewed and interacted with on the Joblift web site. For further information about the Facebook Pixel please see:  
+<https://en-gb.facebook.com/business/help/651294705016616>
 
-Except as described in the paragraph above, unless you ask or provide your consent to do so, we will not share your Personal Information with any third party outside of our organization, other than with our service providers and then only as is necessary to fulfill your request (e.g., to ship an order). Only employees of our organization and our service providers who need access to your Personal Information to perform a specific job (for example, billing or customer service) are granted access to your Personal Information. We make our employee aware of the importance of protecting your Personal Information.
+#### 8. Taboola
 
-We may share anonymous, aggregated, demographic information about Site users with our partners and advertisers. This is not linked, and cannot be linked, to any Personal Information that can identify any individual person.
+Taboola uses cookies to recognize which websites you visit frequently and to show how you navigate on the Joblift website. For this purpose, device-related data and protocol data is collected and anonymized user profiles are generated. Your anonymized IP address is shared with Taboola.  
+You can deactivate tracking at any time under the following link in the "User Choices" section.  
+<https://www.taboola.com/privacy-policy>
 
-We will disclose Personal Information to a third party when we believe in good faith that such disclosures (a) are required by law, including, for example, to allow us comply with a court order or subpoena, or (b) is necessary, in our opinion, to: enforce our policies; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; investigate improper use of the site; and/or, protect the safety and security of our Site or sites of third parties.
+#### 9. Tradetracker
 
-In addition, if Lift Temp Inc. is to be sold, merged or amalgamated or is to sell or dispose of substantially all of its assets, your Personal Information may be transferred to a potential purchaser if, and to the extent, necessary for the purposes of deciding whether to proceed with the sale and completing the sale. If such a sale, merger, acquisition or disposal is completed, the purchaser may use and disclose your Personal Information only to the extent described in this Policy if the information relates solely to the carrying on of the business or activity or the carrying out of the objectives for which the sale, merger or acquisition took place.
+Joblift uses a service provided by the Tradetracker Deutschland GmbH (“Tradetracker”) on its web pages. Tradetracker is an affiliate network, which offers affiliate marketing. The objective is to enable Joblift to advertise on third party websites via this web-based distribution system, which is paid according to a sale or click commission. Joblift provides various advertising media for this purpose, which can be used by the participants of this affiliate network.  
+The operating company of Tradetracker is the Tradetracker Deutschland GmbH, Eiffestraße 426, 20537 Hamburg, Germany.  
+For this, Tradetracker places a cookie, in which the affiliate partner’s identification number, a reference number of the visitor as well as the advertising media is stored. This tracking cookie does not store any personal data in the process. The storage of this data has the purpose of processing commission payments between Joblift and the affiliate partner, which takes place via Tradetracker.  
+The data subject can prevent the placement of cookies on his/her computer by our website at any time by means of the appropriate setting in the web browser being used and in doing so, permanently object to the placement of cookies. Furthermore, cookies, which were already placed, can be deleted at any time via a web browser or other software. This is possible with all standard web browsers. If the data subject deactivates the placement of cookies in the web browser being used, the full range of all functions on our website or the affiliate system may not be able to be used.  
+The applicable privacy policies of Tradetracker can be accessed at <https://tradetracker.com/privacy-policy/>.
 
-### _Your Privacy Rights -- Access to and Control Over Your Personal Information _
+#### 10. Bing Ads & Remarketing for Search
 
-We offer you choices regarding our collection, use, and sharing of your Personal Information.
+The Bing service “Bing Ads” & “Bing Remarketing for Search” is used on the Joblift website, services of the Microsoft Corporation (“Microsoft”) (Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA). The application involves the operating mode “Universal Event Tracking”. This enables allocating data, sessions and interactions to a pseudonymous user ID across multiple devices and therefore, to analyse the activities of a user across all devices.  
+On behalf of the operator of this website, Microsoft will use this information, to analyse your use of the website, to compile reports on the website activities and to provide the website operator with other services associated with the use of the website and the Internet. Furthermore, these purposes constitute our legitimate interest in data processing. The legal basis for the application of Bing Ads is § 15 sec. 3 of the German Telemedia Act (TMG) or art. 6 sec. 1 lit. f of the GDPR. Sessions and campaigns are terminated after a specified period of time. By default, sessions are terminated after 30 minutes without any activity and campaigns after six months. The time limit for campaigns can be a maximum of two years. You can find more detailed information regarding the terms of use and data privacy at <https://advertise.bingads.microsoft.com/en-us/resources/policies/traffic-quality>.  
+If you access one of the web pages of Joblift via a Bing advertisement, a so-called conversion cookie is stored on your end device. The conversion cookie loses its validity after thirty days and does not serve the identification of the data subject. Provided that the cookie has not yet expired, the conversion cookie is used to determine whether certain sub-pages were accessed on our website. The conversion cookie allows Joblift as well as Microsoft to determine whether a data subject, who accessed our website via a Bing Ads ad, generated revenue; i.e. made or aborted a purchase. Neither Joblift or other advertisers of Bing Ads obtain information from Microsoft, with which the data subject can be identified.  
+“Cookies” are used in the process. The information created in this manner on the use of this website is transmitted to a Microsoft server, among others in the USA and stored there. In the process, the complete IP address is transmitted to a Microsoft server outside the member states of the European Union or to other states party to the Agreement on the European Economic Area. The IP address transmitted by your browser in line with Bing Ads is not consolidated with other data from Bing. Furthermore, Bing complies with the privacy policies of the “EU-U.S. Privacy Shield” agreement. Bing uses this information on behalf of Joblift to analyse the use of the website, to compile reports on website activities for Joblift and to provide other services associated with the use of the website and Internet. Bing only forwards this information to third parties if this is required by law or insofar as third parties process this data on behalf of Bing. Third-party providers, including Bing, use stored cookies to place advertisements based on the previous visits of a user to this website. Under no circumstances will Bing link your IP address to other data. The collection and storage of data can be objected to at any time effective for the future.
 
-If you receive promotional electronic communications, including emails, from us, you may indicate a preference to stop receiving further promotional communications from us by contacting us directly at the mailing address or at the email address or phone number provided on the electronic communication, or at the email address or phone number given on our Site or as set out below.
+#### 11. Recruitics
 
-As well, you will have the opportunity to "opt-out" of receiving future electronic messages, including promotional messages, by following the unsubscribe instructions provided in the promotional electronic communication you receive or by contacting us directly as set out in the communication, or at the email address or telephone number given on our Site or as set out below. We do not charge for this service, and your unsubscribe request will be processed within 10 days of the date on which we receive it.
+Recruitics helps us to reach a wider audience for the jobs we offer.   
+Please visit Recruitics' website to learn more about their privacy policies, possible opt-outs and security measures.   
+<https://recruitics.com/privacy-policy.html>
 
-You can do the following at any time by contacting us via the email address or phone number given on our Site or via the contact information provided below:
+#### 12. Spoteffects
 
-  * See what Personal Information we have about you, if any;
-  * Request that we change or correct any Personal Information we have about you;
-  * Request that we delete any Personal Information we have about you;
-  * See what Personal Information, if any, has been made available by us to our affiliates, subsidiaries, related organizations, ReachLocal, Google, or any other third parties;
-  * Tell us to stop using your Device Identifiers to send you advertisements targeted to your interests;
-  * Notify us if you do not want us to contact you for marketing and promotional purposes or for any purposes; or
-  * Opt-out of allowing the Site to use ReachLocal's tracking or Google's analytical technologies.
+To measure the performance of our TV advertising we use the service provider Spoteffects, which is operated by Webeffects GmbH in Munich. Spoteffects works with the Matomo software and places a cookie on your computer, which Spoteffecs can use to collect the following information:  
+\- Your IP address  
+\- The website you click out to   
+\- The website from which you accessed our site  
+\- The sub-pages that you continue to visit in our offer  
+\- The duration of your visit to our website  
+\- The frequency with which you visit our website  
+Your IP address will be anonymized, i.e. the last digits will be made unrecognisable. It is therefore not possible to subsequently recreate the user journey for Spoteffects.  
+We have signed an order processing agreement with Spoteffects to protect your information. The data collected in this way will not be passed on to third parties. It is deleted after 14 months.  
+If you wish to prevent this data collection, you have the option of blocking cookies in your browser settings and deleting existing cookies. You can then visit our website anonymously.  
+You can find the opt-out here: trck.spoteffects.net/analytics/  
+Privacy policy: <https://www.spoteffects.com/footer/impressum/#c730>
 
+#### 13. Belboon
 
+On our website we use services of the German affiliate marketing network Belboon. Affiliate marketing is an Internet-based sales form that enables commercial operators of Internet sites, the so-called merchants or advertisers, to place advertising that is usually paid via click or sale commissions on third-party websites, e.g. sales partners, also called affiliates or publishers. The merchant provides, through the affiliate network, an advertising medium, e.g. an advertising banner or other suitable means of Internet advertising, which is subsequently integrated by an affiliate on their own Internet pages or promoted via other channels, such as keyword advertising or e-marketing.  
+Belboon sets a cookie on the information technology system of the data subject. The tracking cookie by Belboon stores no personal data. Only the identification number of the affiliate, that is, the partner mediating the potential customer, as well as the ordinal number of the visitor of a website and the clicked advertising medium are stored. The purpose of storing this data is the processing of commission payments between a merchant and affiliate, which are processed via the affiliate network, that is Belboon  
+The data subject may, as stated above, prevent the setting of cookies through our website at any time by means of a corresponding adjustment of the web browser used and thus permanently deny the setting of cookies. Such an adjustment to the Internet browser used would also prevent Belboon from setting a cookie on the information technology system of the data subject. In addition, cookies already in use by Belboon may be deleted at any time via a web browser or other software programs.  
+The applicable data protection provisions of Belboon may be retrieved under <https://www.belboon.com/en/about-us/privacy/>.
 
-If you contact us to do any of the things listed above, we may require you to provide sufficient Personal Information to allow us to identify you and tell you about the existence, use, and disclosure of your Personal Information and this Personal Information will only be used for this purpose. If you contact us about your Personal Information, we will respond to your request within a reasonable time and at no cost to you.
+#### 14. Affilinet
 
-### _How to Opt-Out of Targeted Advertising _
+On our homepage we also make use of the German affiliate marketing network Affilinet.  
+Affilinet sets a cookie on the information technology system of the data subject. The definition of cookies is explained above. The tracking cookie by Affilinet stores no personal data. Only the identification number of the affiliate, that is, the partner mediating the potential customer, as well as the ordinal number of the visitor of a website and the clicked advertising medium are stored. The purpose of this data storage is the processing of commission payments between a merchant and affiliate, which are processed through the affiliate network, that is Affilinet.  
+The data subject may, as stated above, prevent the setting of cookies through our website at any time by means of a corresponding adjustment of the Internet browser used and, thus, permanently deny the setting of cookies. Such an adjustment to the Internet browser used would also prevent Affilinet from setting a cookie on the information technology system of the data subject. In addition, cookies already in use by Affilinet may be deleted at any time via a web browser or other software programs.  
+The applicable data protection provisions of Affilinet may be accessed under <https://www.affili.net/uk/footeritem/privacy-policy>.
 
-You can set most web browsers to notify you if you receive a cookie, or you may choose to block cookies, though either of those actions may affect your use of our Site. If you prefer to not receive targeted advertising, you can opt out of some network advertising programs that use your information. For example, by visiting the Digital Advertising Alliance (DAA) Opt-Out Page at <http://www.aboutads.info/choices/>, you can opt-out of some or all of the ads sponsored by some or all of the Alliance members. Please note that even if you choose to remove your information (via opting out), you will still see advertisements while you are browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The DAA Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies' pages where you can opt-out of receiving targeted advertisements from those companies. 
+#### 15. RTB House
 
-In addition, if you wish to opt out of any of the Advertising Cookies, you can do this simply by navigating to <http://www.reachlocal.ca/opt-out>, which will take you to a web page where you will be able to opt out of the Advertising Cookies currently used in connection with ReachLocal's remarketing product and our Site. 
+On our website we make use of the technology of RTB House. This technology operates with cookies and tracking pixels and enables us to recommend you further content - either on our website or on a third party website. These recommendations by RTB House are derived from your interests and your online behaviour. The content is then automatically delivered by RTB House.   
+The information generated by the cookie about your use of this website, such as browser type/version, your operating system, referrer URL (the previously visited page) and the time of the server request is transmitted to the server of RTB House and stored there.  
+For more information about RTB House's privacy policy, please visit: <https://www.rtbhouse.com/privacy/>.   
+You can deny the tracking of interest-based recommendations by RTB House at any time via the "Opt-out" field within RTB House's privacy policy. Please note that you must de-activate the cookie separately in each device you use to access our website. In case you opted out, RTB House will still offer you content that is tailored to your interests; however, this content will no longer be derived from your use of our website.
 
-### _Does This Policy Apply to Other Websites Linked To Or From the Site? _
+#### 16. Ad2Games
 
-The Site may contain links to other websites. Any Personal Information you provide on linked pages or other sites is provided directly to that third party and is subject to that third party's privacy policy. This Policy does not apply to such linked pages or other sites, and we are not responsible for the content or privacy and security practices and policies of these other websites or any other sites that are linked to or from our Site. We encourage you to learn about the privacy and security practices and policies of these other websites before providing them with Personal Information.
+In order to advertise the jobs offered on the Joblift website, Joblift rents advertising space on various websites via platforms such as Ad2Games.   
+Within our partnership with Ad2Games, we have integrated an external tracking pixel from Ad2Games on the Joblift website. This enables us to receive an overview of the performance of Ad2Games' advertising services.  
+You can find out more about the data protection guidelines of Ad2Games here: <http://www.ad2games.com/privacy-policy/>   
+If you wish to opt out of this tracking, please click on this link and follow the instructions: <http://ib.adnxs.com/optout>
 
-### _Do We Collect Information From Children? _
+#### 17. Mcanism
 
-The Site is not intended for use by children under the age of 18. [ _Lift Temp Inc._ ] does not knowingly collect or use any Personal Information from any children under the age of 13. If we become aware that we have unknowingly collected Personal Information from a child under the age of 13, we will make commercially reasonable efforts to delete such Personal Information from our database. 
+In order to advertise the jobs offered on the Joblift website, Joblift rents advertising space on various websites via platforms such as Mcanism.   
+Within our partnership with Mcanism, we have integrated an external tracking pixel from Mcanism on the Joblift website. This enables us to receive an overview of the performance of Mcanisms' advertising services.  
+You can read more about Mcanism's privacy policy here:  
+<https://mcanism.com/en/datenschutz/>
 
-### _What Steps Do We Take To Protect Your Information? _
+#### 18. Twiago
 
-We take measures designed to protect your Personal Information in an effort to prevent loss, theft, misuse, unauthorized access, disclosure, alteration, copying, modification and destruction of your Personal Information. We provide physical, organizational, technological, electronic, and procedural safeguards to protect Personal Information we process and maintain. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse. To protect the confidentiality of Personal Information maintained in your account, if any, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Site by any person using your password. Please advise us immediately if you believe your password has been misused.
+Twiago (https://www.twiago.com) uses technologies, to show interest-based advertising to you. Provider of Twiago is Twiago located in Köln – Gustav-Heinemann-Ufer 72b, 50968 Köln. In case you would like to prevent Twiago from gathering anonymised data you can do so by using the opt-out link below. This Opt-out cookie deletes all gathered information until now and prevents it from collecting any information in the future.
 
-### _How Is Your Personal Information Transferred and Stored? _
+Privacy policy: <http://www.twiago.com/datenschutz/>
 
-Personal Information collected when you use the Site may be transferred, processed and used outside of Canada, including in the United States of America, although we remain responsible for your Personal Information. The computers and servers in which we store and process your Personal Information are kept in a secure environment. These computers and servers may be located in countries outside of Canada, including the United States, and may therefore be subject to different laws than those applicable in Canada. While we aim to protect your Personal Information when it is transferred outside of Canada, the laws of other jurisdictions may require the disclosure of your Personal Information to governmental authorities under circumstances that are different than those that apply in Canada and are contemplated under this Policy.
+Opt-out: <http://control.twiago.com/privacy.php>
 
-We will store and retain your Personal Information only for as a long as is necessary to fulfill the purpose for which it was collected. If we have disclosed your Personal Information to a third party in accordance with this Policy, we will ensure that it is only retained by that third party for as long as is necessary for that third party to complete the purpose for which we provided it to them.
+#### 19. LinkedIn Insight Tag
 
-**_Laws_ **
+We use the LinkedIn Insight Conversion Tool of LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA, which allows us to obtain information about the use of our website and to present advertising content to you on other websites that is tailored to your interests. A cookie with a validity of 120 days is set in your browser, which enables LinkedIn to recognize when you visit a website. LinkedIN uses this information to create anonymous reports for us about ad activity and information about how you interact with our website.
 
-This Policy and the privacy practices of _Lift Temp Inc._ will be subject to the laws of the jurisdiction in Canada in which you reside. _Lift Temp Inc._ makes no representation that this Policy and our practices comply with the laws of any other country or jurisdiction. 
+You can deactivate the LinkedIN Insight Conversion Tool and interest-based advertising by opting out at the following link: <https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out>
 
-### _Questions?_
+If you are a LinkedIN member, click on "Opt-out on LinkedIn". Other visitors click on "Opt-out".
 
-If you have any questions about this Policy, please contact our Privacy Officer at 33 City Centre Drive, Suite 551, Mississauga, ON L5B 2N5, (905) 949-2929. If you contact us about your Personal Information, we will respond to your request within a reasonable time and at no cost to you.
+Further information on data protection at LinkedIn can be found here: <https://www.linkedin.com/legal/privacy-policy#choices-oblig>
+
+#### 20. Global Wide Media
+
+Globalwide Media uses cookies to track the actions of any user which we have driven to the Joblift sites. We use three types of cookies the first is an offer cookie - This is an offer specific cookie. It lives as long as the offer's click lifespan and includes the user's transaction_id and IP address for tracking conversions. The second is a hash cookie - This is a hash of the user's device/connection information. This hash is used for offer targeting. The third is the offer id - This cookie stores the offer_id of all offers that the user has converted for on our network.
+
+You can find more details about the Privacy Policy here: <https://globalwidemedia.com/legal/privacy-policy/>  
+To opt out, you can visit this page: <https://globalwidemedia.com/legal/opt-out/>
+
+### 6\. Social Media Plug-ins
+
+We use social plug-ins of the social networks Facebook, Twitter and Instagram on our website on the basis of Art. 6 par. 1 p. 1 lit. f GDPR in order to make our company better known. The underlying advertising purpose is to be regarded as a legitimate interest within the meaning of the GDPR. Responsibility for data protection-compliant operation must be guaranteed by the respective provider. The integration of these plug-ins by us takes place in the way of the so-called two-click method around visitors of our web page in the best possible way to protect.
+
+#### 1. Facebook
+
+Our website uses social media plugins from Facebook to personalize their use. For this we use the "LIKE" or "SHARE"-button. This is an offer from Facebook.  
+When you access a page of our website that contains such a plugin, your browser establishes a direct connection to the Facebook servers. The content of the plugin is transmitted directly from Facebook to your browser and integrated into the website.  
+By integrating the plugins, Facebook receives the information that your browser has called up the corresponding page of our website, even if you do not have a Facebook account or are not currently logged on to Facebook. This information (including your IP address) is transmitted directly from your browser to a Facebook server in the USA and stored there.  
+If you are logged in to Facebook, Facebook can directly associate your visit to our website with your Facebook account. If you interact with the plugins, for example by pressing the "LIKE" or "SHARE" button, the corresponding information is also transmitted directly to a Facebook server and stored there. The information is also published on Facebook and displayed to your Facebook friends.  
+Facebook may use this information for the purposes of advertising, market research and demand-oriented design of Facebook pages. To this end, Facebook creates usage, interest and relationship profiles, e.g. to evaluate your use of our website with regard to the advertisements displayed to you on Facebook, to inform other Facebook users about your activities on our website and to provide other services associated with the use of Facebook.  
+If you do not want Facebook to associate the information collected through our website with your Facebook account, you must log out of Facebook before visiting our website.  
+The purpose and scope of the data collection and the further processing and use of the data by Facebook as well as your rights and setting options for the protection of your privacy can be found in the data protection information (<https://www.facebook.com/about/privacy/>) of Facebook.
+
+#### 2. Twitter
+
+Our website contains plugins of the short message network of Twitter Inc. (Twitter) integrated. You can recognize the Twitter plugins (tweet button) by the Twitter logo on our site. An overview of tweet buttons can be found here [(https://about.twitter.com/resources/buttons)](https://about.twitter.com/resources/buttons "\(https://about.twitter.com/resources/buttons\)").  
+When you access a page of our website that contains such a plugin, a direct connection is established between your browser and the Twitter server. Twitter receives the information that you have visited our site with your IP address. If you click the Twitter "tweet button" while logged into your Twitter account, you can link the contents of our pages on your Twitter profile. This allows Twitter to associate the visit of our pages with your user account. We would like to point out that, as the provider of the pages, we are not aware of the content of the data transmitted or how it is used by Twitter.  
+If you do not want Twitter to associate your visit to our pages, please log out of your Twitter account.  
+For more information, please see Twitter's privacy policy (<https://twitter.com/privacy>).
+
+#### 3. Instagram
+
+Our website also uses so-called Social Plugins ("Plugins") from Instagram, which is operated by Instagram LLC, 1601 Willow Road, Menlo Park, CA 94025, USA ("Instagram").  
+The plug-ins are marked with an Instagram logo, for example in the form of an "Instagram camera".  
+When you access a page of our website that contains such a plugin, your browser establishes a direct connection to Instagram's servers. Instagram transfers the content of the plugin directly to your browser and integrates it into the page. This integration informs Instagram that your browser has called up the corresponding page of our website, even if you do not have an Instagram profile or are not currently logged in to Instagram.  
+This information (including your IP address) is transmitted directly from your browser to an Instagram server in the USA and stored there. If you are logged in to Instagram, Instagram can immediately associate your visit to our website with your Instagram account. If you interact with the plugins, for example by pressing the "Instagram" button, this information is also transmitted directly to an Instagram server and stored there.  
+The information is also published on your Instagram account and displayed to your contacts.  
+If you do not want Instagram to associate the information collected through our website directly with your Instagram account, you must log out of Instagram before visiting our website.  
+Please refer to Instagram's privacy policy (<https://help.instagram.com/155833707900388>) for more information.
+
+### 7\. Rights of Persons Concerned
+
+You have the right:  
+• to request information about your personal data processed by us in accordance with Art. 15 GDPR. In particular, you may request information about the purposes of processing, the category of personal data, the categories of recipients to whom your data have been or will be disclosed, the planned storage period, the existence of a right to rectification, deletion, restriction of processing or objection, the existence of a right of appeal, the origin of your data, if these have not been collected by us, and the existence of automated decision-making including profiling and, if applicable, meaningful information on their details;  
+• in accordance with Art. 16 GDPR, to demand without delay the correction of incorrect or complete personal data stored by us;  
+• to request the deletion of your personal data stored with us in accordance with Art. 17 GDPR, unless the processing is necessary to exercise the right to freedom of expression and information, to fulfil a legal obligation, for reasons of public interest or to assert, exercise or defend legal claims;  
+• in accordance with Art. 18 GDPR, to restrict the processing of your personal data if you dispute the accuracy of the data, or if the processing is unlawful but you refuse to delete the data, or if we no longer need the data but you need the data to assert, exercise or defend legal claims, or if you have filed an objection to the processing in accordance with Art. 21 GDPR;  
+• in accordance with Art. 20 GDPR, to receive your personal data that you have provided to us in a structured, current and machine-readable format or to request its transfer to another person responsible;  
+• in accordance with Art. 7 section 3 GDPR, to revoke your consent to us at any time. As a result, we are no longer allowed to continue processing data based on this consent in the future and  
+• to complain to a supervisory authority pursuant to Art. 77 GDPR. In general, you can contact the supervisory authority of either your place of residence or your workplace or of our our office.
+
+### 8\. Right of Objection
+
+If your personal data are processed on the basis of legitimate interests pursuant to Art. 6 section 1 s. 1 letter f GDPR, you have the right to object to the processing of your personal data pursuant to Art. 21 GDPR, provided that there are reasons for this which arise from your particular situation or the objection is directed against direct advertising. In the latter case, you have a general right of objection, which we will implement without specifying a particular situation.  
+If you would like to make use of your right of withdrawal or objection, simply send an e-mail to [privacy@joblift.com](mailto:privacy@joblift.com "privacy@joblift.com").
+
+### 9\. Data Integrity
+
+We use the most common SSL (Secure Socket Layer) method in connection with the highest level of encryption supported by your browser. Usually this is a 256 bit encryption. If your browser does not support 256-bit encryption, we use 128-bit v3 technology instead. Whether a single page of our website is transmitted in encrypted form is indicated by the closed display of the key or lock symbol in the lower status bar of your browser.   
+We also use suitable technical and organisational security measures to protect your data against accidental or intentional manipulation, partial or complete loss, destruction or unauthorised access by third parties. Our security measures are continuously improved in line with technological developments.
+
+### 10\. Up-to-dateness and amendment of this data protection regulation
+
+This data protection declaration is currently valid and has the status as of May 2018.  
+Due to the further development of our website and offers above or due to changed legal or official requirements, it may become necessary to change this data protection declaration. These Terms of Use are available in their current form at the URL <https://joblift.com/Terms-and-conditions> (privacy information at <https://joblift.com/Privacy-policy>). Old versions are not saved.
