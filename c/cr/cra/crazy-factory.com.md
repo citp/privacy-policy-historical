@@ -1,38 +1,122 @@
-> *The following text is extracted and transformed from the crazy-factory.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303133854id_/https%3A//www.crazy-factory.com/en-GB/i/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazy-factory.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103030745id_/https%3A//www.crazy-factory.com/en-GB/i/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crazy Factory online piercing shop
 
-To honour your confidence in us, we are committed to protecting your privacy. When shopping at Crazy Factory, rest assured that all your data is protected from access by third parties. Any data transferred to us is stored solely for the purpose of processing your orders.
+## Privacy Policy
 
-Any storage and processing of customer data is effected in compliance with the pertinent regulations. Your personal data is registered only to fulfil the contractual obligations between Crazy Factory and you as customers and stored no longer than necessary. Your personal data, including your postal address and e-mail address, will not be passed on to third parties with the exception of our service partners to whom data must be transferred so as to process your orders. In these cases, the scope of the data transferred will be limited to the necessary minimum.
+Your privacy is important to us. It is Crazy Factory's policy to respect your privacy regarding any information we may collect from you across our website, [http://www.crazy-factory.com](http://www.crazy-factory.com/), and other sites we own and operate.
 
-You are at all times entitled to request information on the data stored and may request for it to be corrected, blocked and deleted. To do so, please e-mail our support at ([info.en@crazy-factory.com](mailto:info.en@crazy-factory.com)) or write to (Crazy Factory GmbH, Quaderstrasse 18, CH-7000 Chur, Switzerland).
+### 1\. Information we collect
 
-#### Privacy policy for use of additional services
+#### Log data
 
-In registering to use additional services such as our newsletter or other information services, you consent to your data being used for internal purposes of market research and marketing. If you no longer wish to use the services, you can deactivate the relevant check box in your customer account and your data will be removed from the mailing list.
+When you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your computer’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, and other details.
 
-#### Privacy policy for newsletter subscriptions
+#### Personal information
 
-If you subscribe to our newsletter, your e-mail address will be stored. You are of course free to unsubscribe from the newsletter at any time. To do so, just use the link provided at the end of each newsletter or e-mail us to be removed from the mailing list.
+We may ask for personal information, such as your:
 
-#### Privacy policy for customer accounts
-
-To shop at Crazy Factory, you will set up a customer account protected by a password (upon registration, you will have a customer number assigned). Whenever you place a new order, the data stored here will automatically be entered in the order form to save you having to enter it manually every time. You may delete your customer account at any time. To do so, just e-mail us at [info.en@crazy-factory.com](mailto:info.en@crazy-factory.com) or write to Crazy Factory GmbH, Quaderstrasse 18, CH-7000 Chur, Switzerland.
-
-#### Privacy policy for the creation and storage of cookies
-
-Crazy Factory Inc. saves and uses cookies indefinitely, to ensure smooth page functionality and to deliver an optimal shopping experience. 
-
-The following data will be stored each time the web page is accessed:
-
-  * name of the accessed file
-  * date and time of access
-  * volume of data transferred
-  * notification on whether access was successful or not
-  * description of the type of web browser used
-  * operating system used
+  * Name
+  * Email
+  * Date of birth
+  * Home/Mailing address
+  * Work address
+  * Payment information
 
 
 
-No IP-addresses are stored and no personalised user profiles are created. Retained data can be used for the purposes of optimisation of the shop or the product range, for marketing purposes or market research or the needs-based creation of pseudonymous usage-profiles. You may revoke this permission to create cookies at any time via email to info@crazy-factory.com. 
+### 2\. Legal bases for processing
+
+We will process your personal information lawfully, fairly and in a transparent manner. We collect and process information about you only where we have legal bases for doing so.
+
+These legal bases depend on the services you use and how you use them, meaning we collect and use your information only where:
+
+  * it’s necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract (for example, when we provide a service you request from us);
+  * it satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote our services, and to protect our legal rights and interests;
+  * you give us consent to do so for a specific purpose (for example, you might consent to us sending you our newsletter); or
+  * we need to process your data to comply with a legal obligation.
+
+
+
+Where you consent to our use of information about you for a specific purpose, you have the right to change your mind at any time (but this will not affect any processing that has already taken place).
+
+We don’t keep personal information for longer than is necessary. While we retain this information, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure and cannot guarantee absolute data security. If necessary, we may retain your personal information for our compliance with a legal obligation or in order to protect your vital interests or the vital interests of another natural person.
+
+### 3\. Collection and use of information
+
+We may collect, hold, use and disclose information for the following purposes and personal information will not be further processed in a manner that is incompatible with these purposes:
+
+  * to enable you to customise or personalise your experience of our website;
+  * to enable you to access and use our website, associated applications and associated social media platforms;
+  * to contact and communicate with you;
+  * for internal record keeping and administrative purposes;
+  * for analytics, market research and business development, including to operate and improve our website, associated applications and associated social media platforms;
+  * to run competitions and/or offer additional benefits to you;
+  * for advertising and marketing, including to send you promotional information about our products and services and information about third parties that we consider may be of interest to you; and
+  * to comply with our legal obligations and resolve any disputes that we may have.
+
+
+
+### 4\. Disclosure of personal information to third parties
+
+We may disclose personal information to:
+
+  * third party service providers for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, hosting and server providers, ad networks, analytics, error loggers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators;
+  * our employees, contractors and/or related entities;
+  * sponsors or promoters of any competition we run;
+  * credit reporting agencies, courts, tribunals and regulatory authorities, in the event you fail to pay for goods or services we have provided to you;
+  * courts, tribunals, regulatory authorities and law enforcement officers, as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights;
+  * third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you; and
+  * third parties to collect and process data.
+
+
+
+### 5\. International transfers of personal information
+
+The personal information we collect is stored and processed in Switzerland, Germany and Thailand, or where we or our partners, affiliates and third-party providers maintain facilities. By providing us with your personal information, you consent to the disclosure to these overseas third parties.
+
+We will ensure that any transfer of personal information from countries in the European Economic Area (EEA) to countries outside the EEA will be protected by appropriate safeguards, for example by using standard data protection clauses approved by the European Commission, or the use of binding corporate rules or other legally accepted means.
+
+Where we transfer personal information from a non-EEA country to another country, you acknowledge that third parties in other jurisdictions may not be subject to similar data protection laws to the ones in our jurisdiction. There are risks if any such third party engages in any act or practice that would contravene the data privacy laws in our jurisdiction and this might mean that you will not be able to seek redress under our jurisdiction’s privacy laws.
+
+### 6\. Your rights and controlling your personal information
+
+**Choice and consent:** By providing personal information to us, you consent to us collecting, holding, using and disclosing your personal information in accordance with this privacy policy. If you are under 16 years of age, you must have, and warrant to the extent permitted by law to us, that you have your parent or legal guardian’s permission to access and use the website and they (your parents or guardian) have consented to you providing us with your personal information. You do not have to provide personal information to us, however, if you do not, it may affect your use of this website or the products and/or services offered on or through it.
+
+**Information from third parties:** If we receive personal information about you from a third party, we will protect it as set out in this privacy policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person’s consent to provide the personal information to us.
+
+**Restrict:** You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us using the details below. If you ask us to restrict or limit how we process your personal information, we will let you know how the restriction affects your use of our website or products and services.
+
+**Access and data portability:** You may request details of the personal information that we hold about you. You may request a copy of the personal information we hold about you. Where possible, we will provide this information in CSV format or other easily readable machine format. You may request that we erase the personal information we hold about you at any time. You may also request that we transfer this personal information to another third party.
+
+**Correction:** If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us using the details below. We will take reasonable steps to correct any information found to be inaccurate, incomplete, misleading or out of date.
+
+**Notification of data breaches:** We will comply laws applicable to us in respect of any data breach.
+
+**Complaints:** If you believe that we have breached a relevant data protection law and wish to make a complaint, please contact us using the details below and provide us with full details of the alleged breach. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint.
+
+**Unsubscribe:** To unsubscribe from our e-mail database or opt-out of communications (including marketing communications), please contact us using the details below or opt-out using the opt-out facilities provided in the communication.
+
+### 7\. Cookies
+
+We use “cookies” to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our Cookie Policy for more information.
+
+### 8\. Limits of our policy
+
+Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.
+
+### 9\. Changes to this policy
+
+At our discretion, we may change our privacy policy to reflect current acceptable practices. We will take reasonable steps to let users know about changes via our website. Your continued use of this site after any changes to this policy will be regarded as acceptance of our practices around privacy and personal information. 
+
+If we make a significant change to this privacy policy, for example changing a lawful basis on which we process your personal information, we will ask you to re-consent to the amended privacy policy.
+
+**Crazy Factory Data Controller**  
+Jan Urban  
+info@crazy-factory.com
+
+**Crazy Factory Data Protection Officer**  
+Jan Urban  
+info@crazy-factory.com
+
+This policy is effective as of 20 December 2018.
