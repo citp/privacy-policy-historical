@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halstead.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122052115id_/https%3A//www.halstead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halstead.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103044106id_/https%3A//www.halstead.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Halstead Real Estate
 
