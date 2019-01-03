@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the learntotradethemarket.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606143142id_/http%3A//www.learntotradethemarket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learntotradethemarket.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103080606id_/https%3A//www.learntotradethemarket.com/privacy) for the most accurate reproduction.*
 
-# Privacy » Learn To Trade
+# Privacy Policy » Learn To Trade The Market
 
-**Privacy Policy**  
+Effective date: May 24, 2018
+
+**Privacy Policies**
+
+[**Our EU GDPR Privacy Policy  Is Available Here.**](http://www.learntotradethemarket.com/privacy/privacy-policy-europe-gdpr)
+
+[**Our Cookie Policy & EU GDPR Cookie Policy Is Here.**](http://www.learntotradethemarket.com/privacy/cookie-policy)
+
+**Global Privacy Policy For Clients, Free Subscribers & Website Visitors**
+
 This Policy applies to Learn to trade the Market Pty Ltd (ABN: 68 137 007 062 ) and any holding companies, other subsidiaries or related entities of Learn To Trade The Market, all of which are referred to as ” LTTTM”, “we”, “our”, or “us”. The Policy extends to and covers all operations and functions of LTTTM.
 
 At LTTTM, we are committed to ensuring the confidentiality and security of the personal information supplied by individuals. LTTTM is bound by the Australian Privacy Principles (‘APPs’) contained in the Privacy Act 1988 (Cth) (‘Privacy Act’). LTTTM has appointed a Privacy Officer, who oversees the Privacy Policy, and ensures that LTTTM’s management of personal information is in accordance with this Policy and with the Privacy Act.
@@ -15,11 +24,12 @@ The word “individual” refers to a customer, client, trustee or any other per
 
 1\. How we collect personal information
 
-As the provider of financial services, including stock market and options trading education, we may collect sensitive information about an individual’s personal circumstances and financial details such as their bank account details, and credit history, which may potentially identify the individual and/or contains an opinion about the individual.
+As the provider of financial services, including trading education, we may collect sensitive information about an individual’s personal circumstances and financial details, which may potentially identify the individual and/or contains an opinion about the individual.
 
 Our ability to provide individuals with our products and services is sometimes dependent on us obtaining certain personal information about the individual. Typically, the type of personal information we collect about the individual includes his or her name, age, date of birth, occupation, mailing address, phone numbers, email address and other information that is relevant to the products and services we provide.
 
-The personal information may also include information about the form of identification used in relation to an individual to send or receive a transaction (required by law in some instances), and information about a transaction in relation to an individual, including details of the amounts paid in or out of an individual’s account as well as delivery instructions.  
+The personal information may also include information about the form of identification used in relation to an individual to send or receive a transaction (required by law in some instances), and information about a transaction in relation to an individual, including details of the amounts paid in or out of an individual’s account as well as delivery instructions.
+
 We generally collect personal and/or sensitive information from individuals by the following methods:  
 1.1 directly from applications, questionnaires and/or forms completed by individuals (via our websites), which include surveys or special offers, when individuals wish to use our services, purchase our products or apply for a position in our organisation;  
 1.2 from information disclosed to us by an individual on the phone, or by sending us correspondence (by letter, fax or email) or contact us in person; and  
@@ -90,7 +100,7 @@ newsletters, emails or brochures;
 * to help us manage and enhance our services.  
 When you enter provide your contact details as part of a survey or market research questionnaire, we may ask for your name, address, and e-mail address so we can conduct the survey and thereby enhance our services. We may ask for other information to enable us to improve our websites or to send you special offers. In these instances we will usually provide you with an opportunity to opt out from receiving any information after providing your details.
 
-We do not disclose personal information we collect to others for the purpose of allowing them to direct market their products and services. We do not use or disclose sensitive information for direct marketing purposes.
+Unless a client agrees and consents, we do not disclose personal information we collect to others for the purpose of allowing them to direct market their products and services. We do not use or disclose sensitive personal or contact information for direct marketing purposes without the consent of clients or users.
 
 We may engage other people to perform services for us, this may involve those people handling personal information that we possess. In these situations, we prohibit that person from using personal information about you except for the specific purpose for which we supply it.
 
@@ -123,7 +133,20 @@ Direct marketing means that we should use your personal information to provide y
 
 If you wish to opt-out of receiving marketing information altogether, you can:  
 * call us on +61 0401 840 083; or  
-* write to us at support (@) learntotradethemarket.com
+* write to us at support (@) learntotradethemarket.com  
+   
+**Information Submitted To 3rd Party Technology & Service Providers (eg: Trading Platforms)**
+
+  * [AXITrader.com](https://www.axitrader.com/demo?promocode=430845) (AXICorp Pty Ltd [AXI] ) is the provider of the online trading platform and financial services you request via the opt-in forms and application forms on our website.
+  * With your express consent and permission via online forms or applications, we will share information with a 3rd party platform provider (ie: [AXITrader.com](https://www.axitrader.com/demo?promocode=430845)).
+  * Once you submit a form or complete an application form and your information has been handshaked to AXI you are also agreeing to their privacy policy, terms of service, consenting to their cookie policy and marketing policy.  [You can read these documents and policies here](https://www.axitrader.com/?page=A000016&promocode=430845).
+  * We are not responsible for your data once the information is passed to these 3rd parties or technology providers.
+  * You may receive marketing and promotional emails, as well as targetted ads from these 3rd parties
+  * You may have cookies and tracking scripts (beacons) placed in your browser by these 3rd parties websites and software, beyond our control. You are subject to the providers’ cookie policy.
+  * You may contact AXI to request what information they have on record about you by [contacting them here](https://www.axitrader.com/au/contact-us?promocode=430845).
+  * European clients under GDPR law should [refer to our EU GDPR Privacy Policy Here](http://www.learntotradethemarket.com/privacy/privacy-policy-europe-gdpr).
+
+
 
 8\. Sending information overseas?  
 We will only disclose your personal information to a recipient who is not in Australia and who is not our entity after we ensure that:
