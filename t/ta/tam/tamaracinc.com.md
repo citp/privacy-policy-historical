@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721112114id_/https%3A//www.tamaracinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103232155id_/https%3A//www.tamaracinc.com/privacy) for the most accurate reproduction.*
 
-# Envestnet | Tamarac - The most comprehensive technology solution for RIAs
+# Tamarac - Legal Notice
 
 ## Privacy Policy
 
