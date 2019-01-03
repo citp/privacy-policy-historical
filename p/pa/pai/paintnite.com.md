@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paintnite.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015085015id_/https%3A//www.paintnite.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paintnite.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103041914id_/https%3A//www.paintnite.com/about-us/privacy) for the most accurate reproduction.*
 
 # Paint Nite Privacy Policy | About Us
 
