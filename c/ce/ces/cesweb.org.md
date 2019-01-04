@@ -1,61 +1,118 @@
-> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2018-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180102044926id_/https%3A//www.ces.tech/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104025721id_/http%3A//www.ces.tech/Navigation/Utility/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# CES.tech Privacy Statement - CES 2018
+# CES.tech Privacy Statement - CES 2019
 
-### Please Read Carefully Prior to Using This Website
+_Last Modified: August 6, 2018 ([View Archived Versions](https://www.ces.tech/Privacy/Privacy-Policy-Archive.aspx)) _
 
-The Consumer Technology Association ("CTA") is committed to protecting the privacy and security of your personal information. We want  to share with you how we treat personal information about you that we receive in connection with this Website.
+  
+At the Consumer Technology Association (CTA)™, we respect your privacy and are committed to protecting your data. This Privacy Policy describes how CTA collects and uses your personal data, and sets forth your privacy rights.
 
-Also, please bear in mind that use of this Website is governed by the [Terms of Use](http://www.cta.tech/Contact-Us/Terms-of-Use) posted on the Website. As noted in those Terms of Use, although we operate internationally, CTA is a corporation organized under the laws of the Commonwealth of Virginia, in which CTA has its headquarters.  The servers that host this Website are located in the United States, and any personal details you provide us will be processed by CTA in the United States. CTA expressly excludes any representation or warranty, express or implied, with respect to the information available on this Website. CTA makes no representation about any third-party websites that may be accessed via links from this Website.  By using this Website, you agree that the laws of the Commonwealth of Virginia, without regard to its conflict of laws principles, will govern all matters between you and CTA with respect to your use of this Website.
+## When This Privacy Policy Applies
 
-### Information We Collect
+This Privacy Policy applies to websites and applications (“Services”) offered by CTA including CTA.TECH, CES.TECH, MECP.ORG, CTA-branded apps, CTA events, and CES® events but excludes services that have separate privacy policies that do not incorporate this Privacy Policy or to information that we collect by other means (including offline) or from other sources.
 
-In general, you can visit our Website without telling us who you are or revealing any personal information about yourself. However, you should be aware that sections of this Website (including restricted portions of this Website) allow for the submission of personal information (referred to for convenience as "Registration Pages") including your  **[name, address, email address, phone number, facsimile number, credit card or account information, and information about your interests in and use of various products, programs, and services]**. We only collect your personal information if you voluntarily submit the information to us for such purposes as event registrations, contest submissions, or requests for information, products, or services. Through certain technologies employed by this Website we also collect non-personally identifiable information about you. For more details about this type of data collection, please refer to the section below on cookies.
+Our Services may contain features or links to websites and services provided by third parties. Our Privacy Policy does not apply to services and products offered by other companies and individuals. Any information you provide through third-party sites or services is provided directly to the operators of such services and is subject to those operators’ policies, if any, governing privacy and security, even if accessed through our Services. We are not responsible for the privacy policies and practices of other websites, even if you access those links from a CTA Service. We encourage you to learn about third parties’ privacy and security policies before providing them with information.
 
-To protect your security and privacy, we require that you enter the personal information that we collect and that the information be current, although CTA disclaims any legal duty to verify the accuracy of any personal data that you provide to CTA. You are free to access the personal information we have on file by contacting our Customer Service department by email at [CTA@CTA.tech](mailto:CTA@CTA.tech) or by phone at 1-866-858-1555.  In addition, at any time you can request that we modify or delete your personal information by sending an email to us at [CTA@CTA.tech](mailto:CTA@CTA.tech) with the words "UPDATE MY INFORMATION" in the subject line or by calling us at 1-866-858-1555. Please be aware that, to protect your security and privacy, CTA will take reasonable steps to verify your identity prior to making changes to your personal information.
+## Updates to This Privacy Policy
 
-### How We Use the Information We Collect and Who We Share It With
+We may update this Privacy Policy when necessary to reflect changes in our Services, to implement changes required by applicable law, or as we may otherwise deem necessary or appropriate. If you continue to use our Services after those changes are in effect, you agree to the revised policy. If the changes are significant, we will notify you either by prominently posting a notice of such changes before they take effect. We encourage you to periodically review the Privacy Policy to learn how CTA is protecting your information. We will also keep prior versions of this Privacy Policy in an archive for your review.
 
-CTA has a policy of not disclosing the personal information of our Website visitors to third parties for direct marketing purposes in cases where our Website users have exercised their option to prevent that information from being disclosed to third parties for such purposes.  Please note, however, that unless you indicate to us that you do not want your personal information used or shared for promotional or marketing purposes, we may provide, rent and sell lists containing your name, company, title, address, phone number and/or e-mail address to third parties and our affiliates for their direct and indirect marketing purposes, and we may use your personal information for the same purposes. When we do provide mailing lists to third parties, we enter into agreements with such parties requiring them to comply with all applicable laws, prohibiting further distribution or disclosure of the lists to other parties, and limiting use of the lists to a limited number of mailings or communications, after which the lists may not be further used for such purposes. If you do not want your personal information used by us or shared with affiliates or third parties for promotional or marketing purposes, you may opt out of having this information shared or used for such purposes by some or all parties. In such case, please refer to the section below entitled Opting Out.
+## Collection and Use of Information
 
-CTA also reserves the right to compile, save, use within the scope of our activities, and analyze any and all data (contact and personal data, use history, etc.) that we collect from you through the Website. We use the personal information that you provide to us for our internal purposes such as responding to your requests for information, contacting you, conducting internal analyses, and processing and completing orders and event registrations. We also use your personal information to communicate with you, such as, for example, to provide you with newsletters, press releases, membership information, or information relating to programs or grassroots activities that may be of interest to you.
+You may access and use many of our Services without telling us who you are or revealing any personal information about yourself. However, some Services may require you to provide us with personal information (referred to for convenience as "Submission Pages").
 
-We may share the personal information you provide to us with other companies we have hired to provide services for us. These companies \- our vendors \- are contractually bound to use personal information that we share with them only to perform the services we have hired them to provide.
+These Submission Pages collect information that you give us, for example, when you create an account with us; register for one of our events, such as CES or Innovate Celebrate (and these events will each have specific and additional terms and conditions that each attendee will be required to accept as part of the registration process); download one of our publications; purchase a product; complete a form on the website; or subscribe to our publications and newsletters like  _i3_  or Tech5. The information collected includes (but is not limited to) your name, job title, employer name, address, email address, phone number, credit card or account information, photos, and information about your interests in and use of various products. In these situations, if you choose to withhold any personal data requested by us, it may not be possible for you to gain access to certain Services and for us to respond to you.
 
-We may also collect and group demographic and preferences information, responses to surveys and other personal information that we collect from you into an aggregate, non-personally identifiable form for disclosure to our existing or potential business partners, affiliates, sponsors or other third parties. However, please be assured that this aggregate data will in no way personally identify you or any other visitors to the Website.
+We also collect information about you when you use our Service, for example, when you visit our websites, or view and interact with our ads and content. This information may include internet protocol (IP) addresses, the region or general location where your computer or device is accessing the internet, browser type, operating system, other information that is provided by the end user device and information about the use of the CTA’s services, including a history of the pages you view. We also use cookies and similar technologies, and you may view our [Cookie Policy](https://www.ces.tech/Privacy/Cookie-Policy.aspx).
 
-We may also collect general, non-personal, statistical information about the use of the Website, such as how many visitors visit a specific page on the Website, how long they stay on that page and which hyperlinks, if any, they "click" on. We collect this information through the use of "web beacons" or other tracking technologies, which are discussed in greater detail below. We collect this information in order to determine which areas of the Website are most popular and to enhance the Website for visitors. As with other aggregated data, we may disclose such data to our existing or potential business partners, affiliates, sponsors or other third parties, but this aggregate data will in no way personally identify you or any other visitors to the Website.
+Additionally, we may use third-party service providers to include social media features and widgets, analytic tools, or targeted advertising in our Services. These service providers operate independently and may collect your IP address and use cookies. Interactions with these features are governed by the service providers’ own privacy policies. More information on this is outlined in our [Cookie Policy](https://www.ces.tech/Privacy/Cookie-Policy.aspx).
 
-### Use of Cookies and Web Beacons
+From time to time, CTA receives personal information about individuals from authorized third parties and sources other than through a CTA Service, such as our partners. This may happen, for example, if:
 
-A "cookie" is a piece of data stored on your hard drive containing non-personally identifiable information about you. We may use cookies in order to collect certain information about you, such as IP addresses (e.g., whether you are logged on from a .com, .gov, or .edu domain), domain names (the Internet address of a computer), and the type of computer and operating system being used. We may also use cookies to identify your computer when you revisit our Website, to recall your authentication information, or to track statistical information related to navigation throughout the Website. We may collect such information in order to better operate the Website so as to enhance your experience while using the Website, and to share with advertisers to provide you with a more personalized visit to the Website. Usage of a cookie is in no way linked to any personal information while on our Website. 
+  * Your employer is a member of CTA and signs you up for an event.
 
-Depending on the type of browser you are using, your browser may be set to alert you of cookies. You do not have to accept all cookies sent to you by this Website; however, depending on the particular cookie you reject, you may not be able to use some of the features of this Website. To disable all cookies, follow these instructions for the type of browser you are using.
+  * Your employer is an exhibitor at a CTA event and signs you up for the event.
 
-We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting the Website. Yahoo! may also use anonymous information about your visits to this Website in order to improve its products and services. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, please [click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com).
+  * You choose to participate in a CES Delegation and provide authorization to your delegate coordinator to sign you up for the event.
 
-### Opting Out
+  * You participate in an event which is co-sponsored or co-hosted by CTA.
 
-When you submit personal information to us through the Registration Pages on this Website, you will be given an opportunity to opt out at the time of submitting your personal information to us. Unless you opt out, you may be added to our list of users who will receive promotional and marketing communications from us and our partners and other third parties. You may also [opt out of receiving promotional and marketing communications from us and/or our partners and other third parties](https://cea.formstack.com/forms/optout).
+  * Instead of registering directly on our website, you choose to register with LinkedIn, which authorizes LinkedIn to share information that includes (but is not limited to) your name, your profile picture, your company name, your email address, and your LinkedIn ID number.
 
-If you initially elect not to opt out and later decide that you would like to opt out, you may follow the opt-out procedures outlined above.  Please keep in mind that although CTA strives to update our mailing list database as frequently as possible, it may take up to ten days to process e-mail requests and four to six weeks to process postal mail requests, during which time your information might be communicated to another party in connection with a mailing list. Additionally, you should be aware that any mailing lists that have been provided to third parties prior to your election to opt out cannot be retrieved by CTA, and you cannot retroactively opt out with respect to such third parties.  As noted above, however, when we do provide mailing lists to third parties, we enter into agreements with such parties limiting use of the lists to a limited number of mailings or communications, after which the lists may not be further used for such purposes.
+If you give us information about another person, you confirm that the other person has appointed you to act on their behalf and agreed that you may consent to the processing of their personal data. 
 
-### Links to Other Sites
+We use the information we collect in a variety of ways in providing the Services and operating our business. We process your personal information for account administration, to deliver the products and services you require, and to inform you of CTA-related events, meetings, content, initiatives and other benefits or opportunities associated with CTA and the industry. We may also use this information to help understand your needs and interests to better tailor our products and services to meet your needs. We will use your information to respond to your questions. If we get personal information from a source outside of CTA Services, we will treat the personal information in accordance with this Policy.
 
-For your convenience, this Website may from time to time include links to third-party sites whose information practices may be different than ours. Visitors should consult the other sites' privacy policies, as we have no control over information that is submitted to, or collected by, these third parties.
 
-### Security of Information and Disclosures
 
-CTA uses reasonable security measures to safeguard information concerning, and submitted by, users like you. Despite the security measures employed by CTA, you should be aware that it is impossible to guarantee absolute security with respect to information sent through the Internet.
 
-CTA will, to the extent possible, control your personal information, and, except as otherwise set forth in this Privacy Policy, we will not disclose your personal information to third parties. Although we are committed to maintaining the confidentiality of your personal information, if required by law, we reserve the right to disclose such information without first obtaining your consent.
+## When Do We Disclose Your Data to Third Parties?
 
-### Changes to the Privacy Policy
+We do not share your personal information with others except as indicated within this Policy or when we inform you. We do not sell personal information to anyone and only share your personal data with third parties for their use in authorized and necessary instances:  
+You authorize the sharing of your data by registering to an event or conference where we share data with event co-sponsors. In these instances, you will be asked to review specific and additional terms and conditions as part of the registration process.
 
-We reserve the right to modify this Privacy Policy at any time without prior notice. In the event that we update or modify this Privacy Policy, we will strive to post such updates or modifications on this Website for a period of thirty days following any such modifications, and the last date this Privacy Policy was updated will be indicated as the latest Effective Date at the top of this Privacy Policy.  Therefore, you are advised to review this Privacy Policy occasionally, or at least every thirty days. Your continued use of this Website shall constitute your acceptance of the modified Privacy Policy.
+  * You authorize the sharing of data by allowing exhibitors to scan your attendee badge at events. Again, in these instances, the event terms and conditions will outline this as part of the registration process.
 
-### Contacting Us
+  * You request a special service with us. This typically relates to conference attendees who request additional services like accessibility or transportation services.
 
-If you have any questions or concerns relating to this Privacy Policy, please contact us by email at [CTA@CTA.tech](mailto:CTA@CTA.tech) or by phone at 1-866-858-1555.
+  * You are the contact person for your company that registers for an event. We will share your information with third-party service providers, agents or contractors to perform services on our behalf or to assist us with providing services to you. This relates to exhibition coordinators whose contact information is shared with companies that provide show services for services such as booth setup, transportation, electricity and similar exhibition services.
 
-The 2017 International CES (Consumer Electronics Show®) will take place January 5-8, 2017, in Las Vegas, Nev.
+  * The information is provided to third-party service providers and Data Processors who perform functions on our behalf to process your data for one of the above services. These third parties may have access to or process your personal information as part of providing those services for us. Examples include companies that provide registration services for our events and companies that help to send our marketing email messages.
+
+  * Any personally identifiable information that you elect to make publically available through our Services, will be available to others.
+
+  * If you consent to CTA sharing your personal information.
+
+  * The information is provided in good faith to: comply with the law and the reasonable requests of law enforcement or government agencies; to enforce our Terms of Service or an agreement we have with you; to take precautions against liability; and/or to protect our rights, property or safety, or the rights, property or safety of our employees or others.
+
+
+
+
+When we share information with third parties, we limit the information provided to what is reasonably necessary for them to perform their functions, and our contracts require them to maintain the confidentiality of such information.
+
+## Legal Basis
+
+As stated above, we collect different types of information from or through our Services. The legal bases for processing of personal data are primarily to enable us to provide our services to you.
+
+_Legitimate Business Interests_ : To provide you with information relating to our Services. To notify you about any changes to our website, such as improvements or service changes, that may affect our Services. If you are an existing member or customer, we may contact you with information about services similar to those provided to you by us in the past. 
+
+_Performance of Contract_ : To meet our contractual commitments to you and in performance of contractual obligations to you.
+
+_User Consent_ : We may use your data so that you can be provided with information about services that may be of interest to you. We will follow applicable laws and regulations regarding consent to receive this information.
+
+## Your Choices and Control
+
+Under privacy laws, data subjects have certain rights. This Privacy Policy is intended to give transparency about what personal data CTA collects and how it is used, enabling you to make meaningful choices.  
+Please contact us by using the details set out at the Contact Us section below if you wish to do any of the following:
+
+  * Confirm that CTA is processing your personal data, or to have access to the personal data CTA may have about you. Reasonable access to your personal data will be provided at no cost upon request.
+
+  * Correct any personal data that CTA has that is inaccurate.
+
+  * Request that CTA erase your personal data or stop processing it. Please note that in some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+  * Assert a complaint.
+
+
+
+
+We provide many choices in relation to our marketing communications via an unsubscribe option on every marketing email, but you may also request that CTA stop using your data for direct marketing purposes by using our [Email Opt-Out Form](https://cea.formstack.com/forms/optout). If you opt-out of marketing emails, we may still send you transactional and administrative emails about the Services you use.  
+CTA retains personal data for the duration of the customer’s or member’s business relationship with CTA and up to five years after the relationship ends. Subsequently, the data is stored for archival uses only.
+
+CTA’s headquarters, servers, this website and the majority of CTA Services are located and operated in the United States. If you are using the Services from outside the US, please be aware that your information will be transferred to, stored, and processed in the United States unless otherwise stated. By using our Services and providing us with information, you consent to this transfer, processing and storage of your information in the United States. It is important to note that data privacy laws vary worldwide and some may not be as comprehensive as others. When personal data is transferred to the US, we will adequately protect it as described in this Privacy Policy.
+
+## Security
+
+We are committed to protecting the security of your personal information. We have implemented appropriate physical, technical and administrative safeguards. We train our employees about the importance of confidentiality and maintaining the privacy and security of your information. We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. We cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. If you believe your Personal Data has been compromised, please contact us. In the event that personal information is compromised, we will promptly notify our customers in compliance with applicable law.
+
+## Sensitive Data
+
+We request that you do not send us any sensitive data such as social security or national identification numbers, information related to racial or ethnic origin, political opinions, religious beliefs, health data, biometrics or genetic, criminal background or trade union membership information. If you do send us this information, then you are consenting to its processing in accordance with this Privacy Policy.  To avoid processing of sensitive data, do not submit it.
+
+## Children's Privacy
+
+Protecting the privacy of minors is especially important. Our site is not directed towards minors and CTA does not knowingly collect or solicit personal information from minors. If you believe that we might have any information from or about a minor, please contact us and we will delete that information.
+
+## Contact Us
+
+If at any time you would like to contact us with your views about our privacy practices, or with any inquiry relating to your personal information, please send an e-mail to [dataprivacy@cta.tech](mailto:dataprivacy@cta.tech) or write to Data Privacy – Legal, CTA, 1919 S. Eads Street, Arlington, VA 22202, United States.
