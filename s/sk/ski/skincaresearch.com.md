@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skincaresearch.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023102743id_/http%3A//www.skincaresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skincaresearch.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104145137id_/http%3A//www.skincaresearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « SkincaResearch
 
