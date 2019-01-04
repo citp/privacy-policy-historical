@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-onsoftware.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223202228id_/https%3A//www.bentley.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-onsoftware.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104081007id_/https%3A//www.bentley.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
