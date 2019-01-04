@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtdc.in privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106110203id_/http%3A//www.dtdc.in/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtdc.in privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104192410id_/http%3A//www.dtdc.in/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to DTDC
 
