@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gudsen.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104035622id_/https%3A//www.gudsen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gudsen.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104104629id_/https%3A//www.gudsen.com/privacy-policy) for the most accurate reproduction.*
 
 # Gudsen MOZA Privacy Policy
 
