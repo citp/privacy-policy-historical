@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the safeanal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034021id_/http%3A//www.safeanal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeanal.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104024649id_/http%3A//www.safeanal.com/privacy) for the most accurate reproduction.*
 
 # Safe Anal Porn Videos
 
-Effective Date: Tuesday 6th of June 2017 05:40:21 AM  
+Effective Date: Friday 4th of January 2019 03:46:49 AM  
 Sites Covered: www.safeanal.com 
 
 Pursuant to our [Terms of Use](http://www.safeanal.com/terms/), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
