@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the schneider.com privacy policy that was archived on 2018-08-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180824110734id_/https%3A//schneider.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schneider.com privacy policy that was archived on 2019-01-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190104093430id_/https%3A//schneider.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-us" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<!DOCTYPE html><html lang="en-us" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths async-hide"><head>
 				
 			
  <meta charset="utf-8"> 
@@ -18,7 +18,7 @@
 <meta property="og:site_name" content="Schneider, Inc.">
 <meta name="pageId" content="1444335193975">
 	<meta property="PageType" content="SDC_LandingPage">
-<meta name="hostgenId" content="uxprd672.schneider.com-20171013:051036">
+<meta name="hostgenId" content="uxprd673.schneider.com-20181125:024653">
 <meta http-equiv="X-UA-Compatible" content="IE=7, IE=8, IE=9, IE=edge">
 <script type="text/javascript" async="" src="//img04.en25.com/i/elqCfg.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NDZ6F6Z"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -84,11 +84,11 @@ _elqQ.push(['elqTrackPageView']);
              if ($.trim(emailField.val().length) != 0) {
                 form = emailField.closest("form");
 console.log(form.attr("id"));
-                /*validator = form.validate();
+                validator = form.validate();
                 validator.showErrors({
                     Email: null,
                     UserEmail: null
-                });*/
+                });
                 var emailVal = emailField.val();
                 emailField.closest("label[for='Email'].error, label[for='UserEmail'].error").remove();
                 emailField.removeClass("input-validation-error").removeClass("text-danger");
@@ -98,11 +98,11 @@ console.log(form.attr("id"));
                             var responseString = JSON.stringify(responseObject);
                             var parsedJson = $.parseJSON(responseString.substring(1, responseString.length - 1));
                             if (parsedJson.EmailVerificationResponse !== "OK") {
-                                /*validator = form.validate();
+                                validator = form.validate();
                                 validator.showErrors({
                                     Email: parsedJson.EmailVerificationResponse,
                                     UserEmail: parsedJson.EmailVerificationResponse
-                                });*/
+                                });
                             }
                         }
                     }
@@ -111,6 +111,12 @@ console.log(form.attr("id"));
         });
     });
 </script>
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-NDZ6F6Z':true});</script>
 </head><!--[if lt IE 9]> 
 		<body id="ie-doc" onload="post_analytics()">
 		<![endif]-->
@@ -446,14 +452,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 </div>
 <div class="module-email-signup" sni-override="">
-		<img src="/image/01_final_right_bluesky.jpg" alt="Global Email Signup" class="">
+		<img src="/image/01_final-right_bluesky.jpg" alt="Global Email Signup" class="">
 	    <div class="form-content">
 	    	<h2 class="title">KEEP ME INFORMED.</h2>
 	        <p class="sub-title">I'd like to know about future posts to the Knowledge Hub.</p>
 	        <div class="form-group">
-                <input class="form-control" type="text" id="UserEmailContinue" name="UserEmailContinue" value="" placeholder="Email"><br>
+                <form>
+                <input class="form-control" type="email" id="UserEmailContinue" name="UserEmailContinue" value="" placeholder="E-mail"><br>
+                 <label for="email" class="error"></label>
+		<span class="field-validation-error" data-valmsg-for="email" data-valmsg-replace="true"><span for="email" class="text-danger"></span></span>
                 <input type="hidden" id="post_url" name="post_url" value="/process_knowledgehub_signup">
-                <a id="kh-signup-continue" href="/" class="btn btn-bordered btn-primary">Continue</a>
+                <input type="submit" value="Continue" id="kh-signup-continue" href="/" class="btn btn-bordered btn-primary"></form>
             </div>
 	    </div>
 	</div></div>
