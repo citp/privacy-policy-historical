@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12radio.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206024133id_/http%3A//www.12radio.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12radio.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104140005id_/http%3A//www.12radio.com/privacy.cfm) for the most accurate reproduction.*
 
 # 12Radio: Privacy Policy
 
@@ -10,9 +10,9 @@ As has always been the case, your e-mail address is protected and will **_not_**
 
 We collect only the minimum information necessary to keep in touch with you; this is the only information required to notify you via e-mail of our products, announcing periodic sales, and offering other special limited-time discounts such as free offers that may be used by online customers.
 
-[ Home](https://web.archive.org/web/20181206024133id_/http%3A//www.12radio.com/index.cfm) Listen Now [ Chat](https://www.facebook.com/groups/12radio) [ Schedule](https://web.archive.org/web/20181206024133id_/http%3A//www.12radio.com/calendar.cfm) [ Hosts](https://web.archive.org/web/20181206024133id_/http%3A//www.12radio.com/hoststhisweek.cfm?show=hostgenre) [ On Demand](https://web.archive.org/web/20181206024133id_/http%3A//www.12radio.com/archives.cfm) About Us 
+[ Home](https://web.archive.org/web/20190104140005id_/http%3A//www.12radio.com/index.cfm) Listen Now [ Chat](https://www.facebook.com/groups/12radio) [ Schedule](https://web.archive.org/web/20190104140005id_/http%3A//www.12radio.com/calendar.cfm) [ Hosts](https://web.archive.org/web/20190104140005id_/http%3A//www.12radio.com/hoststhisweek.cfm?show=hostgenre) [ On Demand](https://web.archive.org/web/20190104140005id_/http%3A//www.12radio.com/archives.cfm) About Us 
 
-[ Welcome](https://web.archive.org/web/20181206024133id_/http%3A//www.12radio.com/welcome.cfm) [ Contact Us](https://web.archive.org/web/20181206024133id_/http%3A//www.12radio.com/contact.cfm) [ Mailing List](https://web.archive.org/web/20181206024133id_/http%3A//www.12radio.com/mailing_list.cfm) [ Privacy](https://web.archive.org/web/20181206024133id_/http%3A//www.12radio.com/privacy.cfm)
+[ Welcome](https://web.archive.org/web/20190104140005id_/http%3A//www.12radio.com/welcome.cfm) [ Contact Us](https://web.archive.org/web/20190104140005id_/http%3A//www.12radio.com/contact.cfm) [ Mailing List](https://web.archive.org/web/20190104140005id_/http%3A//www.12radio.com/mailing_list.cfm) [ Privacy](https://web.archive.org/web/20190104140005id_/http%3A//www.12radio.com/privacy.cfm)
 
 hide
 
@@ -22,4 +22,4 @@ hide
 
 hide
 
-©2018 12Radio.com 
+©2019 12Radio.com 
