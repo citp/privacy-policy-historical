@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eddyarticles.com privacy policy that was archived on 2018-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180226002515id_/http%3A//www.eddyarticles.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eddyarticles.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104024416id_/http%3A//www.eddyarticles.com/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to eddyarticles.com - Privacy Policy
 
