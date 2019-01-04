@@ -1,59 +1,63 @@
-> *The following text is extracted and transformed from the ohmycoupon.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211131527id_/http%3A//www.ohmycoupon.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohmycoupon.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104172952id_/https%3A//ohmycoupon.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy › Oh My Coupon
+# Privacy Policy
 
-**Our Commitment to Privacy**
+OhMyCoupon Inc (“OhMyCoupon“) operates OhMyCoupon.com and may operate other websites. It is OhMyCoupon’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-Our Privacy Policy was developed as an extension of our commitment to combine quality coupons and deals for products and services with integrity in dealing with our users. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
-
- **What Information Do We Collect?**
-
-When you visit our site you may provide us with two types of information: personal information you actively choose to disclose ("Active Information") and use information collected, in a way not visible to you, on an aggregate anonymous basis as you and others browse our site ("Passive Information").
-
- **No Use of Our Site by Persons Under 13**
-
-No person under 13 should disclose information on this site. You may learn more about protecting children's privacy online by visiting www.ftc.gov/kidzprivacy.
-
- **Active Information You Choose to Provide**
-
-In order to receive coupons via email (become a "user"), we require you to disclose the following information:
-
-  * Your email address
+  
 
 
+#### Website Visitors
 
- **Passive Information Collected**
+Like most website operators, OhMyCoupon collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. OhMyCoupon’s purpose in collecting non-personally identifying information is to better understand how OhMyCoupon’s visitors use its website. From time to time, OhMyCoupon may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Our site utilizes a standard technology called "cookies" to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site. Passive Information is collected on an aggregate basis without any association to your personal information so that you remain anonymous. If you do not wish to transmit "cookie" information about yourself, you may turn off the cookie function in your web browser; please consult the "Help" section of your browser to correctly do so.
+OhMyCoupon also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on OhMyCoupon.com blogs/sites. OhMyCoupon only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
- **What is a Cookie?**
+  
 
-Cookies are a feature of web browser (Internet Explorer, Netscape Navigator, etc.) software that allows web servers to recognize the computer used to access a site. They are small pieces of data that are stored by a user's web browser on one site to simplify subsequent interactions with that site by the same user or to use the information to streamline the user's transaction on related web pages. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
 
- **How Do We Use the Information Collected?**
+#### Gathering of Personally-Identifying Information
 
-Broadly speaking, persons we employ directly, or as contractors or agents at our direction, use Active Information for purposes of administering our business activities, providing customer services such as support, and making available other product or service coupons or deals we think may be of interest to our users. We may use the Active Information or Passive Information you provide to us to contact you about changes to our site, new services, features or products we offer, or other information we think you shall find valuable. If at any time you do not wish to receive such information, please send us an email at webmaster@ohmycoupon.com.
+Certain visitors to OhMyCoupon’s websites choose to interact with OhMyCoupon in ways that require OhMyCoupon to gather personally-identifying information. The amount and type of information that OhMyCoupon gathers depends on the nature of the interaction. For example, we ask visitors who sign up at OhMyCoupon.com to provide a username and email address. Those who engage in transactions with OhMyCoupon are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, OhMyCoupon collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with OhMyCoupon. OhMyCoupon does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-We use Passive Information to gather information about our users and to enhance and design our site to make it easier, faster and friendlier to use. Additionally, cookies help us know information about how many people visit our site, when they visit and how they use our service. We do not connect any of this information to your personal information or email address. However, Passive Information may result in your viewing of particular advertising based on your user habits for your viewing on our site.
+  
 
- **Your Information In Relation to Others We Link To**
 
-You are be able to access other websites through ohmycoupon.com. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those sites' privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
+#### Aggregated Statistics
 
- **Sharing Information with Advertisers or Other Third Parties**
+OhMyCoupon may collect statistics about the behavior of visitors to its websites. OhMyCoupon may display this information publicly or provide it to others. However, OhMyCoupon does not disclose personally-identifying information other than as described below.
 
-We may disclose anonymous information about user habits, characteristics and user patterns, based on aggregate user statistics to advertisers on our site.
+  
 
- **Sharing Information with the Government or As Otherwise Required by Law**
 
-We may be required by law or government agency to disclose both Active and Passive Information you have provided to us.
+#### Protection of Certain Personally-Identifying Information
 
- **How Do We Secure Active Information and Passive Information?**
+OhMyCoupon discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on OhMyCoupon’s behalf or to provide services available at OhMyCoupon’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using OhMyCoupon’s websites, you consent to the transfer of such information to them. OhMyCoupon will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, OhMyCoupon discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when OhMyCoupon believes in good faith that disclosure is reasonably necessary to protect the property or rights of OhMyCoupon, third parties or the public at large. If you are a registered user of an OhMyCoupon website and have supplied your email address, OhMyCoupon may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with OhMyCoupon and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. OhMyCoupon takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss or destruction of Active Information and Passive Information. Communications you may have with us via email or U.S. Mail may not be secure unless we advise you that security measures are in place prior to your sending information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we request that you do not send or post sensitive information through these means.
+#### Cookies
 
- **How Can You Choose Not to Receive Information About Products or Services By Us or to Correct, Delete or Access Your Information**
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. OhMyCoupon uses cookies to help OhMyCoupon identify and track visitors, their usage of OhMyCoupon website, and their website access preferences. OhMyCoupon visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using OhMyCoupon’s websites, with the drawback that certain features of OhMyCoupon’s websites may not function properly without the aid of cookies.
 
-If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email to webmaster@ohmycoupon.com.
+  
 
- _We reserve the right to revise this policy at our discretion. Please check back on this site as this policy may be revised from time to time without notice to you._
+
+#### Business Transfers
+
+If OhMyCoupon, or substantially all of its assets, were acquired, or in the unlikely event that OhMyCoupon goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of OhMyCoupon may continue to use your personal information as set forth in this policy.
+
+  
+
+
+#### Ads
+
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by OhMyCoupon and does not cover the use of cookies by any advertisers.
+
+  
+
+
+#### Privacy Policy Changes
+
+Although most changes are likely to be minor, OhMyCoupon may change its Privacy Policy from time to time, and in OhMyCoupon’s sole discretion. OhMyCoupon encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a OhMyCoupon.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+  
+
