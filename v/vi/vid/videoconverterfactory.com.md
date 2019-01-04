@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoconverterfactory.com privacy policy that was archived on 2018-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180215020230id_/https%3A//www.videoconverterfactory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoconverterfactory.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104013628id_/https%3A//www.videoconverterfactory.com/privacy.html) for the most accurate reproduction.*
 
 # WonderFox Privacy Policy
 
