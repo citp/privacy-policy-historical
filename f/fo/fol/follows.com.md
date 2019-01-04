@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the follows.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223150707id_/https%3A//follows.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the follows.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104095337id_/https%3A//follows.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Follows.com
 
