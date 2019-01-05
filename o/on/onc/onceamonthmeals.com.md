@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onceamonthmeals.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929134842id_/https%3A//onceamonthmeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onceamonthmeals.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105022829id_/https%3A//onceamonthmeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Once A Month Meals
 
