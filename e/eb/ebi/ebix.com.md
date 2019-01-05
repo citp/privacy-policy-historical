@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebix.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195835id_/http%3A//www.ebix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebix.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105022027id_/https%3A//www.ebix.com/privacy) for the most accurate reproduction.*
 
 # None
 
@@ -19,5 +19,17 @@ Using our site does not require registration of any kind other than voluntary re
 A "cookie" is a small piece of data that a website can send to your browser, which may then be stored on your system. Currently, the site uses session cookies in a select few pages. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or not. 
 
 Ebix reserves the right to modify or update our Privacy Policy at any time without notice, so we encourage you to review this policy from time to time. 
+
+##  GDPR 
+
+#### What are your rights?
+
+You have a number of rights in relation to your personal data which should be exercised by contacting Ebix Inc. who is the 'controller' of this data. In summary, you may request us to ensure you can access your data, request the rectification of any mistakes relating to your data, request the erasure of records which are no longer required, request the restriction on the processing of your data, object to the processing of your data, or request to exercise your right of data portability. 
+
+#### Contact and Complaints
+
+You can contact us with any queries or concerns at the following email address _GDPR.Ebix[@]ebix.com_
+
+If you have a complaint or concern about how we use your personal data, please contact us in the first instance and we will attempt to resolve the issue as soon as possible. You also have a right to lodge a complaint with your national data protection supervisory authority at any time. In the UK, the supervisory authority for data protection is the ICO (https://ico.org.uk/). We do ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time. 
 
 This website is best viewed in ie9+, Firefox, Google Chrome, Opera and on all latest browsers.
