@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cherrypimps.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822020950id_/https%3A//cherrypimps.com/assets/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cherrypimps.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105034113id_/https%3A//cherrypimps.com/assets/privacy.php) for the most accurate reproduction.*
 
 # CHERRYPIMPS.COM - Privacy Notice
 
@@ -26,7 +26,7 @@ Please read this Privacy Notice carefully to understand our policies and procedu
 
 #### Minors under the Age of 18
 
-Our websites are not intended for and shall not be used by anyone under the age of 18 years old or 21 years old, whichever is applicable by law in your jurisdiction. No one under 18 may provide any information to or on this website and should not knowingly access any of our websites. Company does not knowingly collect personal identifiable information from persons under 18. Member areas of site may contain content considered offensive to some and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. t is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this and it is verified, we will immediately delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [cs@support.xxx](mailto:cs@support.xxx)
+Our websites are not intended for and shall not be used by anyone under the age of 18 years old or 21 years old, whichever is applicable by law in your jurisdiction. No one under 18 may provide any information to or on this website and should not knowingly access any of our websites. Company does not knowingly collect personal identifiable information from persons under 18. Member areas of site may contain content considered offensive to some and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. t is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this and it is verified, we will immediately delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6c0f1f2c1f191c1c031e1842141414)
 
 #### Law Enforcement
 
@@ -126,7 +126,7 @@ We use information that we collect about you or that you provide to us, includin
 
 **If your IP address indicates you are in the European Union or the European Economic Area, we do not use your email address or other personal information to send commercial or marketing messages without your consent.**
 
-But if you chose to opt-in to receive marketing materials from us, possibly when you created your account, be aware that we may use your information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box to opt-out located on the account creation form on our websites or at the bottom of any marketing emails you may receive from us. You can also opt-out by sending an email to [compliance@support.xxx](mailto:compliance@support.xxx). 
+But if you chose to opt-in to receive marketing materials from us, possibly when you created your account, be aware that we may use your information to contact you about our own and third-parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box to opt-out located on the account creation form on our websites or at the bottom of any marketing emails you may receive from us. You can also opt-out by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9dad6d4c9d5d0d8d7dadcf9caccc9c9d6cbcd97c1c1c1). 
 
 You expressly and specifically acknowledge and agree that your email address or other means of communicating with you may be used to send you offers, information or any other commercially oriented emails or other means of communications. You may remove yourself from such mailing lists at any time by following the instructions that shall be sent as part of any such mailings. 
 
@@ -180,7 +180,7 @@ We strive to provide you with choices regarding the personal information you pro
 
   1. _Marketing Emails_. You can review and change your personal information in our marketing systems by using the unsubscribe function on our marketing emails.
   2. _Tracking Technologies and Advertising._ You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of our websites may then be inaccessible or not function properly.
-  3. _Promotional Offers from the Company_. If you do not wish to have your contact information used by the Company to promote our services, you can opt out by un-checking the relevant box located on the form on which we collect your data (the order/registration form) or at any other time by sending us an email stating your request to compliance@support.xxx. If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions or use the opt-out feature on the email.
+  3. _Promotional Offers from the Company_. If you do not wish to have your contact information used by the Company to promote our services, you can opt out by un-checking the relevant box located on the form on which we collect your data (the order/registration form) or at any other time by sending us an email stating your request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions or use the opt-out feature on the email.
 
 
 
@@ -188,7 +188,7 @@ We strive to provide you with choices regarding the personal information you pro
 
 You are legally entitled to request details of the personal data we are holding about you. The company provides you the ability to keep your personal data accurate and up-to-date. If at any time you would like company to rectify, erase or restrict the processing of your personal information, or you would like to obtain confirmation whether or not your personal information is processed by the company, access your personal information, exercise your right to data portability or withdraw your consent to processing, please contact us. 
 
-We do our best to respect your privacy rights and provide you access and control over your data. You may make any of the following requests regarding your data by contacting us at [compliance@support.xxx](mailto:compliance@support.xxx): 
+We do our best to respect your privacy rights and provide you access and control over your data. You may make any of the following requests regarding your data by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6704080a170b0e060904022714121717081513491f1f1f): 
 
   1. Access and review your data.
   2. Correct your data or request that we delete some or all of it.
@@ -203,7 +203,7 @@ Be advised that we use a differential backup system; this means that we cannot d
 
 In compliance with the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles, we are committed to investigate and expeditiously resolve complaints about your privacy and our collection or use of your Personal Information. The Company uses the self-assessment method of verification of compliance and is subject to the enforcement authority of the US Federal Trade Commission. 
 
-European Union and Swiss individuals with inquiries or complaints regarding this Privacy Notice should first contact us at compliance@support. 
+European Union and Swiss individuals with inquiries or complaints regarding this Privacy Notice should first contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles and Swiss-US Privacy Shield Principles to JAMS, an independent dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint regarding our compliance with the EU-US Privacy Shield Principles or Swiss-US Privacy Shield Principles or if your complaint is not satisfactorily addressed, please visit https://www.jamsadr.com/eu-us-privacy-shield to file a complaint. 
 
@@ -240,13 +240,13 @@ You also have choices with respect to cookies. By modifying your browser prefere
 
 #### Unsolicited Email Received by You
 
-Company does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from the company, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed [cs@support.xxx](mailto:cs@support.xxx). 
+Company does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from the company, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#30534370434540405f42441e484848). 
 
 The company also does not condone spam by affiliates or chat hosts advertising our websites. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if the company becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, the company reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the site's program, termination of site services, and forfeiture of all commissions. 
 
 #### Contact
 
-If you have any questions about this Privacy Notice, please contact our data protection officer at [dpo@support.xxx](mailto:dpo@support.xxx) and provide us with your name, the site name of your membership, your login name, and any information you feel is important. 
+If you have any questions about this Privacy Notice, please contact our data protection officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#573327381724222727382523792f2f2f) and provide us with your name, the site name of your membership, your login name, and any information you feel is important. 
 
 #### Complaints
 
@@ -258,6 +258,6 @@ If you are not satisfied with the way in which the company has resolved your com
 
 Company reserves the right to change this Privacy Notice from time to time. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the corporate website home page, via email, or when you log in to use our portal. Please check the Privacy Notice frequently and particularly before you submit additional personal information via our websites. All revisions to this Privacy Notice will be posted on our websites via a link from the homepage. We also display the effective date of the Privacy Notice on the bottom of this page. 
 
-Last updated: 2018-08-21
+Last updated: 2019-01-04
 
 All images, content & intellectual materials are Copyright © 2020 BLT Innovations, LLC. All Rights Reserved. 
