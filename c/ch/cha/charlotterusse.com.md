@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlotterusse.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624065932id_/http%3A//www.charlotterusse.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlotterusse.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105203139id_/https%3A//www.charlotterusse.com/privacy-policy.html%3Fxid%3Dfooter_privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Charlotte Russe
 
@@ -69,7 +69,7 @@ Please note that when you make an online purchase from us, we will continue to c
 
 #### How does Charlotte Russe protect kids' privacy?
 
-Charlotte Russe is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request or collect personal information online from anyone under the age of 13 without prior verifiable parental consent. Our website is a general audience site and is not targeted to or intended for use by children. If you are a parent and believe we may have inadvertently collected such information from your child, please notify us immediately by sending an e-mail to [Customer.Service@charlotterusse.com](mailto:Customer.Service@charlotterusse.com)  
+Charlotte Russe is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request or collect personal information online from anyone under the age of 13 without prior verifiable parental consent. Our website is a general audience site and is not targeted to or intended for use by children. If you are a parent and believe we may have inadvertently collected such information from your child, please notify us immediately by sending an e-mail to [customerservicecr@charlotterusse.com](mailto:customerservicecr@charlotterusse.com)  
 or phoning us toll free at 1-888-211-7271. 
 
 #### Third Party Ads
@@ -143,5 +143,5 @@ For questions about our privacy policy, to make choices about receiving promotio
 Charlotte Russe, Inc.  
 5910 Pacific Center Blvd. Suite 120  
 San Diego, CA 92121  
-[Customer.Service@charlotterusse.com](mailto:Customer.Service@charlotterusse.com)  
+[customerservicecr@charlotterusse.com](mailto:customerservicecr@charlotterusse.com)  
 1-888-211-7271 
