@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clk.im privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028021129id_/https%3A//clkim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clk.im privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105013136id_/https%3A//clkim.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
