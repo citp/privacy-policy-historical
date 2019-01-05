@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click.org privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430190905id_/http%3A//click.org/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click.org privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105084749id_/https%3A//click.org/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,11 +10,11 @@ Click.org has established this Privacy Policy to explain how it protects and man
 
 Your use of the Click.org site and/or your registration for Click.org products and services constitute your consent to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Click.org site. 
 
-Click.org may occasionally update this Privacy Policy. When it does, Click.org will also revise the "last update" date at the top of this Privacy Policy. In addition, Click.org will seek a customer’s prior consent, by email, for any new uses or proposed disclosures of information collected from the customer prior to the change. Click.org will notify customers by email of changes to this policy that will affect information collected from them in the future. In certain circumstances, however, Click.org will not inform and obtain the consent of the customer, such as in connection with an investigation of a breach of an agreement, contravention of laws, an emergency where the life, health or security of an individual is threatened, the collection of a debt or in compliance with the request of a law enforcement agency or a court order.
+Click.org may occasionally update this Privacy Policy. When it does, Click.org will also revise the "last update" date at the top of this Privacy Policy. In addition, Click.org will seek a customer�s prior consent, by email, for any new uses or proposed disclosures of information collected from the customer prior to the change. Click.org will notify customers by email of changes to this policy that will affect information collected from them in the future. In certain circumstances, however, Click.org will not inform and obtain the consent of the customer, such as in connection with an investigation of a breach of an agreement, contravention of laws, an emergency where the life, health or security of an individual is threatened, the collection of a debt or in compliance with the request of a law enforcement agency or a court order.
 
 A customer may withdraw his or her consent for collection, use and disclosure at any time by contacting us 
 
-[_here_](http://click.org/contact-us)
+[_here_](http://click.org/contact-us.htm)
 
 . Please note that if you do, Click.org may suspend its provision of products and services to you. 
 
@@ -78,16 +78,16 @@ After your account becomes inactive (that is, if you request to be removed from 
 
 6\. Accuracy of Personal Information
 
-Click.org will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information. Customers are responsible for informing Click.org about changes to their personal information. You can do this by [contacting us](http://click.org/contact-us). Click.org will use new or updated personal information it receives from customers to update its own records. 
+Click.org will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information. Customers are responsible for informing Click.org about changes to their personal information. You can do this by [contacting us](http://click.org/contact-us.htm). Click.org will use new or updated personal information it receives from customers to update its own records. 
 
 7\. Security Safeguards
 
-Click.org will use reasonable efforts to protect customers’ personal information.
+Click.org will use reasonable efforts to protect customers� personal information.
 
 8\. Access to Personal Information
 
 Click.org will afford you a reasonable opportunity to review the personal information in your file, if you so request by faxing 480-393-5100.
 
-If Click.org is not able to provide access to some aspect of a customer’s personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney–client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
+If Click.org is not able to provide access to some aspect of a customer�s personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney�client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
 
 Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting Click.org or as described above. Click.org will promptly correct such personal information.
