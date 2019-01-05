@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenbriercountyschools.org privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831005624id_/https%3A//www.schoolblocks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenbriercountyschools.org privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105015211id_/https%3A//www.schoolblocks.com/privacy.html) for the most accurate reproduction.*
 
 # SchoolBlocks
 
@@ -11,6 +11,8 @@ This website takes every precaution to protect our users’ information. When us
 ### Use of Personal Information
 
 We do not collect any personal information unless you voluntarily provide it by sending us email, participating in a survey, or completing an online form. Personal information submitted will not be transferred to any non-affiliated third parties unless otherwise stated at the time of collection. When a user submits personally identifiable information it is used only for the purpose stated at the time of collection. 
+
+Users who login via Google, Office365, Facebook, or any other identity provider, automatically share their first name, last name, and email address with our system. Our system saves this information and displays it to the user and, if specified by the school district, in a profile card that is publicly available in an official staff directory. No other personal information from Google, Office365, or Facebook is saved in our system.
 
 ### Consent
 
