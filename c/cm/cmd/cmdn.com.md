@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmdn.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610143213id_/https%3A//www.camdenmarket.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmdn.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105165052id_/http%3A//www.camdenmarket.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Camden Market
 
