@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeemarathi.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205044306id_/http%3A//www.zeemarathi.com/zee-marathi-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeemarathi.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105224011id_/http%3A//www.zeemarathi.com/zee-marathi-privacy-policy) for the most accurate reproduction.*
 
 # Zee Marathi Privacy Policy - Zee Marathi Official Website: Zee Marathi Shows & Serials, Watch Full Episodes, Videos, Promos online at http://www.zeemarathi.com/
 
@@ -103,4 +103,4 @@ State: Maharashtra,
 
 Country: India,
 
-Website URL: [www.zeetelevision.com](https://web.archive.org/web/20181205044306id_/http%3A//www.zeemarathi.com/www.zeetelevision.com)
+Website URL: [www.zeetelevision.com](https://web.archive.org/web/20190105224011id_/http%3A//www.zeemarathi.com/www.zeetelevision.com)
