@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildoncam.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822020950id_/https%3A//cherrypimps.com/assets/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildoncam.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105034113id_/https%3A//cherrypimps.com/assets/privacy.php) for the most accurate reproduction.*
 
 # CHERRYPIMPS.COM - Privacy Notice
 
@@ -258,6 +258,6 @@ If you are not satisfied with the way in which the company has resolved your com
 
 Company reserves the right to change this Privacy Notice from time to time. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the corporate website home page, via email, or when you log in to use our portal. Please check the Privacy Notice frequently and particularly before you submit additional personal information via our websites. All revisions to this Privacy Notice will be posted on our websites via a link from the homepage. We also display the effective date of the Privacy Notice on the bottom of this page. 
 
-Last updated: 2018-08-21
+Last updated: 2019-01-04
 
 All images, content & intellectual materials are Copyright © 2020 BLT Innovations, LLC. All Rights Reserved. 
