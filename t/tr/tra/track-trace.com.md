@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120173847id_/https%3A//www.track-trace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the track-trace.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106001356id_/https%3A//www.track-trace.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement - track-trace
 
@@ -8,7 +8,7 @@ Webfokus is the sole owner of the information collected on this site. We will no
 
 **Cookies**
 
-See the dedicated page on our use of cookies [here](https://web.archive.org/web/20181120173847id_/https%3A//www.track-trace.com/cookies). 
+See the dedicated page on our use of cookies [here](https://web.archive.org/web/20190106001356id_/https%3A//www.track-trace.com/cookies). 
 
 **Advertising**
 
@@ -16,13 +16,13 @@ We use Google Adsense to serve ads when you visit our website. Depending on the 
 
 For more information see [Google's privacy pages](https://policies.google.com/technologies/partner-sites). There you can also find information on how to influence which data are stored.
 
-Also see the dedicated page on our use of cookies [here](https://web.archive.org/web/20181120173847id_/https%3A//www.track-trace.com/cookies).
+Also see the dedicated page on our use of cookies [here](https://web.archive.org/web/20190106001356id_/https%3A//www.track-trace.com/cookies).
 
 **Analytics**
 
 We use Google Analytics to store anonymized and aggregated statistics to analyse trends, administer the site, track user movement, and gather broad demographic information for aggregate use. IP addresses are anonymized by only storing the first three groups of the address. 
 
-Also see the dedicated page on our use of cookies [here](https://web.archive.org/web/20181120173847id_/https%3A//www.track-trace.com/cookies).
+Also see the dedicated page on our use of cookies [here](https://web.archive.org/web/20190106001356id_/https%3A//www.track-trace.com/cookies).
 
 **Log files**
 
