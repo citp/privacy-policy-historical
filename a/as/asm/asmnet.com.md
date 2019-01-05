@@ -1,141 +1,123 @@
-> *The following text is extracted and transformed from the asmnet.com privacy policy that was archived on 2018-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180605143558id_/http%3A//advantagesolutions.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmnet.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105213310id_/https%3A//www.advantagesolutions.net/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-[Effective Date: March 13, 2006, as amended on January 17, 2011]  
-At Advantage Sales & Marketing LLC ("ASM"), we respect and value your privacy. This privacy statement describes and applies to the information we collect from you when you visit any ASM website (which shall include [www.asmnet.com](https://web.archive.org/) and [www.asmconnects.com](http://www.asmconnects.com/), as well as the websites of any ASM divisions or subsidiaries) (hereinafter collectively referred to as "Website" or "ASM Website"), how we use that information, and under what circumstances we disclose it. It will also give you more information about how to manage the personal information that you provide to us through the ASM Website. This statement applies only to information you provide to us online while visiting or using our website. It does not apply to information we have obtained or may obtain offline through other traditional means. 
+#### EEA Supplement to Privacy Policy
 
-  1. **_The Information We Collect_**
+Advantage provides to residents of the European Economic Area (“EEA”) this supplement (“supplement”) to our privacy policy, which contains additional information for such residents. This supplement applies only to those individuals who are residents of the EEA. Any terms not specifically defined in this supplement have the meaning set forth in our privacy policy. 
 
-When you use our website, we receive and collect certain information. The information that we receive and collect depends on what you do when you visit the ASM Website.
+We are a corporation registered in California, United States of America, with a principal address of 18100 Von Karman Avenue, Irvine, California 92612 
 
-    1. **Automatically Collected Information**
+  1. **_For Visitors to Our Website_**
 
-Some information is automatically received and sometimes collected from you when you visit the ASM Website. This information may include some or all of the following items: the name of the domain and host from which you access the Internet, including the Internet Protocol (IP) address of the computer you are using and the IP address of your Internet Service Provider; the type and version of Internet browser software you use and your operating system; the date and time you access our site, the length of your stay and the specific pages, images, video or forms that you access while visiting the site; the Internet address of the website from which you linked directly to our website, and if applicable, the search engine that referred you and any search strings or phrases that you entered into the search engine to find this site; and demographic information concerning the country of origin of your computer and the language(s) used by it. 
+When you use our website, we receive and collect certain information. The information that we receive and collect depends on what you do when you visit the Advantage Website.
 
-We use this information to monitor the usage of our website, assess its performance, ensure technological compatibility with your computer, and understand the relative importance of the information provided on our website. We may also use this data to conduct statistical analyses on visitors' usage patterns and other aggregated data.   
+We are a data controller of your personal data collected through your visit to our website, such as when you submit queries through a “contact us” feature, to track web traffic, or as otherwise described in our privacy policy or this supplement. For purposes of this supplement, “personal data” means any information relating to an identified or identifiable natural person. A list of the types of personal data that we process, and how that data is collected, can be found in our privacy policy. This portion of the supplement is only applicable for visitors to our website. If you are a customer of a client using our services, please scroll to the section titled “for customers of our clients.” 
 
-
-    2. **Information Collected via Cookies**
-
-"Cookies" are small files or records that are placed on your computer's hard drive to distinguish you from other visitors to the Website. The use of cookies is a standard practice among websites to collect or track information about your activities while using the website. A cookie may enable the website holder to track how a visitor navigates through its website and the areas in which they show interest. This is similar to a traffic report: it tracks trends and behaviors, but does not identify individuals. Information gathered may include date and time of visits, pages viewed, time spent at the site, and the website visited just before and just after the ASM Website. 
-
-Cookies can be set to expire: (1) on a specified date; (2) after a specific period of time; (3) when a transaction has been completed; or (4) when a user turns off his/her Internet browser. A cookie that is erased from memory when a visitor's Internet browser closes is called a "session" cookie. Cookies that expire based on a time set by the Web server are called "persistent" cookies.   
-Persistent cookies may be used in some cases, for example, to recognize when a visitor returns to a web site. The web browser will send the cookie information from the initial visit back to the web site. This is useful to the visitor if he or she has established a password at a particular web site and wants to be identified by that site to perform a function or transaction. 
-
-The ASM Website uses persistent cookies on its website. If you refuse cookies, you can still browse the ASM Website.   
+We process your personal data on several different legal bases, as follows:  
 
 
-    3. **Information Collected Using Pixel Tags or Clear GIFs**
-
-Pixel Tags or Clear GIFs, also known as Web Beacons or Web Bugs, are transparent graphical images placed on a website. ASM does not currently use these items on its Website. 
-
-    4. **Information You Actively Submit**
-
-For most of the browsing on our website, we neither require nor collect "User Information." User Information is information that could personally identify you, for example, your name, address, phone number, e-mail address, and information contained on your resume. You can browse the ASM Website and take as much time as you want to review our services without having to submit such User Information. 
-
-We do need you to actively submit User Information in certain circumstances, for example, when you want to contact ASM via electronic means or website submission. It is possible that you may also submit personal information when you use the search functions on the ASM Website. Furthermore, we collect any User Information that you submit on our "Career Opportunities" webpage (whether via our online "Employment Application" form, resume submission, or additional submission method); on ASM's internal website available to ASM employees (www.asmconnects.com); and on other sites made available to applicants and employees for purposes related to one's application for employment or employment with ASM.
-
-E-mail or other forms of electronic communication, including Website submission, are not necessarily secure and/or confidential means of communication. Information you provide may not be protected under confidentiality laws. Please carefully select what you choose to disclose. While ASM diligently attempts to prevent unauthorized access to our website files, your User Information, or other information you submit; such inadvertent access may occur.   Please be advised, however, that ASM is committed to safeguarding the privacy interests and confidential information of its employment applicants as well as its current and former employees and comply with applicable privacy laws.
-
-    5. **Personal Information About Children**
-
-The ASM Website is targeted primarily for use by adults. We do not currently market to or create special areas for use by children. Accordingly, we do not knowingly collect age identifying information (other than from employment candidates post-offer of employment for legitimate business reasons) nor do we knowingly collect any personal information from children under the age of 13 years. However, we hereby advise all unsolicited visitors to our site under the age of 13 not to disclose or provide any personally identifiable information on our website. In the event that we discover that a child under the age of 13 has provided personally identifiable information to us, in accordance with the Children's Online Privacy Protection Act (Please see the Federal Trade Commission's website at www.ftc.gov/kidzprivacy for more information about this Act), we will delete the child's personally identifiable information from our files to the extent technologically possible. 
-
-  2. **_E-Mail Communications_**
-
-When you send an e-mail to us, you are communicating with us electronically and consent to receive communication from us electronically. We may retain the content of the e-mail, your e-mail address, and our response in order to service your needs. We may use the data that you provide to send you e-mail.
-
-If you no longer wish to receive marketing e-mail from ASM, you may unsubscribe by doing any one of the following actions:
-
-Send an e-mail with your request and current information to [corp.comm@asmnet.com](mailto:corp.comm@asmnet.com); or 
-
-Send a request in writing with your current information to:
-
-Advantage Sales and Marketing, LLC  
-Attn: Corporate Communications  
-18100 Von Karman Avenue, Suite 900   
-Irvine, CA 92612   
-Phone: (949) 797-2900  
-Fax: (949) 797-9112 
+    * • _Our legal obligations_ – we may need to process your personal data to comply with relevant laws, regulatory requirements and to respond to lawful requests, court orders and legal process.
+    * • _Your prior consent_ – for placing cookies on your device (subject to certain exceptions) or sending marketing communications to you. Information on cookies and marketing communications can be found below.
+    * • _Our legitimate interests_ – we process your personal data: 
+      * • for the security and safety of our website, our technology connected to the website and the users of the website;
+      * • to detect and prevent fraud;
+      * • to protect and defend the rights or property or others, or our own rights and interests;
+      * • to manage and administer the website, including analyzing web traffic and utilizing web analytics solutions. Details of such solutions that we use are in the next section.
 
 
 
+**_Cookies used on our website_**
 
-If you send an e-mail or letter request, please be sure to include your full name, address, phone number and e-mail address and indicate specifically what type of marketing communication(s) (e.g., e-mail, direct mail and/or phone) you wish to receive or stop receiving. This will ensure we identify you correctly in our systems and accurately process your request.
+The website makes use of cookies and other tracking technologies. Cookies are small text files downloaded by your internet browser and stored on the device you use to access the website (e.g., your desktop computer, laptop, tablet or smartphone). For more information, please visit our [Cookie Policy](https://web.archive.org/pages/cookie).
 
-ASM will take appropriate steps to implement your request to opt-out of receiving marketing communications. Please note that due to production, mailing and system timelines, in order to remove you from our marketing lists, it may take up to: 10 business days for e-mails or 30 days for mail. Until that change takes effect, you may still receive marketing communications from us.
+**_Marketing Communications_**
 
-Also, please note that even though you may have opted out of receiving marketing communications, you may still receive business-related communications. Please be aware that opting-out of certain third party use may prevent us from providing certain services or products that you request.  
+On our website, you can register to receive newsletters or similar information on our products or services or the products or services of our affiliated companies. As part of the registration process, we may ask you to provide us with certain mandatory information. Such information may include:
 
-
-**_How We Use and Share User Information_**
-
-Our view on using User Information is simple. We do not sell User Information to third parties outside of ASM or share such information to third parties except as noted below. Except where we otherwise obtain your express permission, we share your personally identifiable information with third parties only under the limited circumstances stated below: 
-
-  1. a. User Information is subject to disclosure in response to judicial or other governmental subpoenas, warrants and court orders served on ASM in accordance with their terms; governmental inquiries; or as otherwise required by applicable law; 
-
-  2. b. User Information is subject to disclosure to protect our rights or property, to enforce the provisions of our Privacy Statement and Terms of Use, and/or to prevent harm to you or others; or 
-
-  3. c. User Information may be disclosed and transferred if ASM or its business is sold or offered for sale to another company or person(s), if a petition for relief under the United States Bankruptcy Laws is filed by or against ASM, or if ASM becomes subject to an order of appointment of a trustee or receiver. 
-
-  4. User Information may disclosed for legitimate business purposes in accordance with ASM's Personal Information Protection Policy, including to an approved vendor of ASM, in connection with legal proceedings, and/or to other third parties.  For example, if and as applicable, relevant personal information pertaining to you will be made known to vendors who require such information to provide services to ASM and its associates, such as vendors who provide and/or administer the systems and processes pertaining to the on-line application, timekeeping, payroll, and benefits 
+    * • First and last name;
+    * • Email address;
+    * • Company name; and
+    * • Phone number
 
 
 
+When receiving a registration, we log and store the date/time of registration and the IP address the registration was received from. This solely serves evidentiary purposes in case your contact details are used by an unauthorized party.
 
-We believe that, except where we are compelled by law to disclose your personally identifiable information or required to do so for legitimate business purposes pertaining to one's application for employment or employment (as set forth in paragraph (d) directly above), you should have a right to choose (opt-out) whether we disclose your personally identifiable information to a third party or use your personally identifiable information for a purpose incompatible with the purpose(s) for which it was originally provided or subsequently authorized by you. 
+When registering to receive newsletters or similar information, you need to provide your consent in our processing of your personal data for this purpose. You are under no obligation to provide such consent and, if you choose to do so nonetheless, you may withdraw your consent at any time with future effect for any or no reason by following the unsubscribe link contained in any email communication to you or by sending us an email at [Privacy@advantagesolutions.net](mailto:Privacy@advantagesolutions.net).
 
-**_Linking to Third-Party Websites_**
+##### Recipients of your personal data
 
-When you click on links on our website that take you to third-party websites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, ASM cannot be responsible for the actions of any third-party websites. We encourage you to read the posted privacy statement of any and every website you visit, whether you are linking from the ASM Website or browsing on your own. 
+For the following purposes, we disclose your personal data to the following third parties, as required or permitted by applicable law:
 
-You should carefully review the privacy policy and terms of use for ALL THIRD-PARTY websites before submitting any personal USER information.
+Who Is your Personal Data Disclosed To? | What Is the Purpose Underlying the Disclosure?  
+---|---  
+Companies affiliated with or owned by Advantage. | Our legitimate business interests or to fulfill a request by you.   
+Third-party suppliers and service providers including suppliers utilized to analyze web traffic and website usage. | To assist us in the operation or improvement of the website and to enhance our products and services;  
+To other third parties in line with applicable legal requirements (where applicable). | To comply with legal obligations that we are subject to.  
+  
 
-**_Access to and Managing Your User Information_**
 
-We believe it is important for you to be able to find out what personally identifiable information you have provided to us through the ASM Website. If you have provided us with personally identifiable information, you can contact us to request that we provide you with the personally identifiable information we have in our records about you. We reserve the right to limit the number of times such a request can be made and to charge you for responding to such requests if this process is misused or abused. 
+##### How long we keep your personal data
 
-We know you want the personally identifiable information we have on record about you to be as complete and accurate as possible. We feel the same way. If you become aware that personally identifiable information or sensitive information you may have provided that we have in our records about you is inaccurate, incomplete, or incompatible with the purposes for which it was provided or subsequently authorized by you, please notify us using the contact information provided below. To inquire about your personally identifiable or sensitive information, and to correct, amend, or delete such information please:  
+We have implemented appropriate retention periods for your personal data collected or otherwise processed on or through the website as set forth in our records management policy. Where our processing of your personal data is based on legitimate interests or compliance with legal obligations, it will be deleted as soon as the underlying purpose has expired. Personal data processed based on your consent will be deleted if and when you withdraw such consent.
 
+##### The following rights are provided to residents of the European Economic Area under the General Data Protection Regulation (GDPR)
 
-a. Submit an inquiry or report with your request and current information to ASM's Ethics Line  online at www.ethicspoint.com or by phone at 1-888-325-7882; or 
+Subject to the conditions set out in applicable laws, you have the following rights, without limitation, regarding the processing of your personal data:
 
-b. Send a request in writing with your current information to:
+(i) inquire whether and what kind of personal data we hold about you and how it is processed, and to access or request copies of such personal data
 
-Advantage Sales and Marketing, LLC  
+(ii) request the correction or supplementation of personal data about you that is inaccurate, incomplete or out-of-date in light of the purposes underlying the processing, or to
+
+(iii) obtain the erasure of personal data no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, processed for legitimate interests that, in the context of your objection, do not prove to be compelling, or processed in non compliance with applicable legal requirements
+
+(iv) file a complaint with your applicable data protection authority, which can be located here: <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm>.
+
+In addition, you have, subject to the conditions set out in the applicable law and without limitation, the rights to:
+
+(v) request us to restrict the processing of personal data in certain situations where you feel its processing is inappropriate,
+
+(vi) object, in certain circumstances, to the processing of personal data for legitimate interests, and to
+
+(vii) request portability of personal data that you have actively or passively provided to us (which does not include data derived or inferred from the collected data), where the processing of such personal Data is based on consent or a contract with you and is carried out by automated means.
+
+If you desire to exercise any of the rights indicated above, you must provide the requested information in the attached [Access Request Form](https://web.archive.org/Content/pdfs/subject-access-request-form.pdf). Complete the form and return it with your identification information to us using one of the below methods:
+
+[privacy@advantagesolutions.net](mailto:privacy@advantagesolutions.net)
+
+or 
+
+Advantage Solutions  
 Attn: General Counsel  
 18100 Von Karman Avenue, Suite 900   
 Irvine, CA 92612   
 Phone: (949) 797-2900  
-Fax: (949) 797-9112 
+Fax: (949) 797-9112
 
-**_What You Need to Do to Protect Your Personally Identifiable Information_**
+##### Your provision of personal data to us
 
-You have several options when deciding how you can best protect your personally identifiable information. One option is simply not to volunteer it. As stated above, this approach would allow you to still visit our website - although it will prevent you, for example, from taking advantage of some of our site's features. 
+Your use of the website and your provision of personal data to us in the process is purely voluntary on your part. Subject to your sole discretion, you can, at any point, stop suing the website or, where applicable, opt out of certain data processing operations while on the website as described in this policy. An exception applies if and to the extent that you want to enter into or perform a contract with us on or through the website. In this event, providing us with your related personal data is necessary for us to be able to enter into the contract with or provide any contractual services to you.
 
-The Federal Trade Commission's website, www.ftc.gov, also offers useful information about how to protect personally identifiable information provided to a website.   
+##### Changes to this notice
 
+We reserve the right in its sole discretion to amend this supplement from time to time. In this event, we will post the revised supplement on the website. We encourage you to periodically view this supplement so that you remain informed as to how we are protecting users’ personal data and about what cookies are used on the website. We may, where necessary, notify users of any modified version of this supplement that might materially affect the way we use, disclose or otherwise process users’ personal data or otherwise affect their privacy rights. We may do this by posting an update on the website which users will see at their next visit.
 
-**_What to Do About Suspected Violations of This Privacy Statement_**
+##### Contact us
 
-If at any time you believe ASM has not adhered to the policies and principles set forth in this Privacy Statement, please notify us using the contact information provided below. We will make all commercially reasonable efforts to promptly address your concerns. 
+If you have any questions, concerns or complaints with respect to this supplement, the way we handle your privacy or you wish to exercise your rights, please contact us using the following information:
 
-**_Changes to Privacy Policies_**
+[privacy@advantagesolutions.net](mailto:privacy@advantagesolutions.net)
 
-This privacy statement was last modified on January 17, 2011. If we change our Privacy Policy, we will post those changes on our website so you are always aware of what information we collect, how we use it, how we protect it and under what circumstances, if any, we disclose it. If we make material changes, we will also post a notice on our home page, which notice will run for seven (7) consecutive days following the effective date of the modified privacy statement. Unless we clearly express otherwise, we will use information in accordance with the Privacy Policy under which the information was collected. YOU ARE HEREBY ADVISED THAT YOUR CONTINUED USE OF OUR WEBSITE CONSTITUTES YOUR ACCEPTANCE OF ANY AMENDMENTS TO AND THE MOST RECENT VERSION OF THIS PRIVACY STATEMENT. 
+or 
 
-**_Questions or Comments_**
-
-If you have any questions or comments concerning our privacy policy, please contact us: 
-
-a. Submit an inquiry or report with your questions or comments and current information to ASM's Ethics Line online at www.ethicspoint.com or by phone at 1-888-325-7882; or 
-
-b. Send a request in writing with your current information to:
-
-Advantage Sales and Marketing, LLC  
+Advantage Solutions  
 Attn: General Counsel  
 18100 Von Karman Avenue, Suite 900   
 Irvine, CA 92612   
 Phone: (949) 797-2900  
-Fax: (949) 797-9112 
+Fax: (949) 797-9112
+
+**2. _For Customers of Our Clients._**
+
+We collect and process information for the above services at the direction of our clients, and have no direct relationship with the individuals whose personal data we collect or process on our client’s behalf. If you are a customer of one of our clients and would like to exercise any of your rights under applicable data privacy laws, please contact our client directly.
