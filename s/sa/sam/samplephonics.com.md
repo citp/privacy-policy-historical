@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samplephonics.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210162203id_/https%3A//www.samplephonics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplephonics.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105092639id_/https%3A//www.samplephonics.com/privacy-policy) for the most accurate reproduction.*
 
 # Samplephonics Privacy Policy | Info For Music Producers
 
