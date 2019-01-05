@@ -1,21 +1,80 @@
-> *The following text is extracted and transformed from the commercegurus.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106153353id_/http%3A//www.commercegurus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercegurus.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105110737id_/https%3A//www.commercegurus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CommerceGurus
 
-Thanks for your interest in CommerceGurus. Please read this Privacy Policy and the Terms of Service as you must agree to both documents in order to have permission to use our service (including our WordPress themes). This privacy policy describes how www.commercegurus.com and other related pages collect and use your personal information. We reserve the right to change and modify the privacy policy at any time without any prior notice. Please review this policy periodically.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from [https://www.commercegurus.com](https://www.commercegurus.com/) (the “Site”).
 
-#### Data
+#### Personal information we collect
 
-You can visit visit www.commercegurus.com or other pages related to this website without voluntarily sharing personal information. However, if you want to communicate with us or subscribe to newsletter, you will need to reveal certain personal information.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-We collect contact information such as name, email addresses of those who communicate with us via email, purchase code or user name, preferences information (i.e product interests), information shared voluntarily by clients such as survey information or personal messages sent by clients (such as ratings, reviews and feedback), usage activity (what pages users visit, purchase history). We also collect non-identifying information such as IP address, referring URL, browser type, operating system etc, but we do not connect any of the personal information with the non-personal data.
+We collect Device Information using the following technologies:
 
-We use the information we collect in order to respond to user requests, improve user experience and our products, the content of our websites, our marketing efforts and generally, the quality of our service. We do not sell this data to other companies for commercial purposes unless we have reasons to believe release is appropriate to comply with the law or information is needed to investigate or take action regarding illegal activities such as fraud, potential threats to the physical safety of any person and violations of the Terms and Conditions.
+  * “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+  * “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+  * “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-#### Cookies
 
-We use cookies to identify and track visitors, their usage of the site and their site access preferences. In addition, we use cookies to help run online marketing campaigns and track ads. Users who do not wish to have cookies placed on their computers should disable cookies in their browsers. However, some features of the site may not function properly without the aid of cookies.
 
-#### Consent
+Additionally, when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and a phone number. We refer to this information as “Order Information.”
 
-If you do not agree with the collection or use of your personal information as outlined in this policy, please do not provide any personal information to CommerceGurus.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
+
+#### How do we use your personal information?
+
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations).
+
+Additionally, we use this Order Information to:
+
+  * Communicate with you;
+  * Screen our orders for potential risk or fraud; and
+  * When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
+
+
+
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
+
+#### Sharing your personal information
+
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use WooCommerce to power our online store–you can read more about how WooCommerce uses your Personal Information here: <https://woocommerce.com/privacy-policy>.
+
+We also use Google Analytics to help us understand how our customers use the Site – you can read more about how Google uses your Personal Information here: [https://www.google.com/intl/en/policies/privacy](https://www.google.com/intl/en/policies/privacy/).
+
+You can also opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
+
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+#### Behavioral advertising
+
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
+
+You can opt out of targeted advertising by visiting:
+
+Facebook – <https://www.facebook.com/settings/?tab=ads>  
+Google – <https://www.google.com/settings/ads/anonymous>
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: [http://optout.aboutads.info](http://optout.aboutads.info/).
+
+#### Do not track
+
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+#### Your Rights
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+#### Data Retention
+
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+#### Changes
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+#### Contact Us
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [support@commercegurus.com](mailto:support@commercegurus.com) or by mail using the details provided below:
+
+MadeInContext Ltd., 20 Camden Row, Dublin 8, Ireland
