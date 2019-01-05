@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the varian.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105092120id_/https%3A//www.varian.com/about-varian/legal-information/varian-medical-systems-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varian.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105034412id_/https%3A//www.varian.com/about-varian/legal-information/varian-medical-systems-privacy-statement) for the most accurate reproduction.*
 
 # Varian Medical Systems Privacy Statement | Varian Medical Systems
 
