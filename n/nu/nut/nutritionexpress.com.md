@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionexpress.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812054202id_/https%3A//www.nutritionexpress.com/Policy/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionexpress.com privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105062115id_/https%3A//www.nutritionexpress.com/Policy/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
