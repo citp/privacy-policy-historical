@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdftop.net privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105152226id_/http%3A//pdftop.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdftop.net privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105092110id_/http%3A//pdftop.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pdftop.net
 
