@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingchicks.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629064148id_/https%3A//www.weddingchicks.com/9_privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingchicks.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106201643id_/https%3A//www.weddingchicks.com/9_privacy-policyaffiliate-disclosure.html) for the most accurate reproduction.*
 
 # Privacy Policy/Affiliate Disclosure
 
