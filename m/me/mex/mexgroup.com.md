@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the mexgroup.com privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708150102id_/https%3A//www.mexgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexgroup.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106201915id_/https%3A//www.mexgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Introduction**
 
-MultiBank Exchange Group needs to collect personal information from our clients and prospective clients in order to provide them with our products, services and any relevant information.
+MultiBank Group needs to collect personal information from our clients and prospective clients in order to provide them with our products, services and any relevant information.
 
-Your privacy is very important to us and we make it our priority to safeguard and secure any and all confidential information relating to individuals. 
+Your privacy is very important to us and we make it our priority to safeguard and secure any and all confidential information relating to individuals.
 
-This Privacy Policy will go through what measures MultiBank Exchange Group (the “Company” or “MultiBank” or “MEX”) takes to collects, uses and manages the personal information we receive from you or a third party in relation to the products and services we provide. This Privacy Policy also outlines your rights relating to the processing of your personal information.
+This Privacy Policy will go through what measures MultiBank Group (the “Company” or “MultiBank” ) takes to collects, uses and manages the personal information we receive from you or a third party in relation to the products and services we provide. This Privacy Policy also outlines your rights relating to the processing of your personal information.
 
 Our Privacy Policy is reviewed and updated regularly in order to be compliant with data protection laws and other privacy regulations.
 
-**MultiBank Exchange Group**
+**MultiBank Group**
 
-MultiBank Exchange Group is a Group of companies, with each subsidiary licensed and/or regulated by the relevant local financial authorities.
+MultiBank Group is a Group of companies, with each subsidiary licensed and/or regulated by the relevant local financial authorities.
 
-MultiBank Exchange is the trading name of MultiBank Forex Exchange Corporation incorporated in California, USA with Company No. 3918038. 
+MultiBank is the trading name of MultiBank Forex Exchange Corporation incorporated in California, USA with Company No. 3918038.
 
 MultiBank FX is the trading name of Multibank FX International Corporation (BVI) with Company No. 1377324.
 
@@ -24,9 +24,9 @@ MultiBank FX is the trading name of Multibank FX International Corporation (BVI)
 
 MultiBank respects the privacy of any users who access its website(s), and therefore is committed to taking all reasonable steps to safeguard the privacy and confidential information of all clients and visitors of our website, in accordance with the applicable data protection laws and regulations.
 
-To ensure this, we have trained our staff on the importance protecting and respecting your personal information and privacy. We have also appointed a Data Protection Officer to ensure that our Company manages/processes your personal information in compliance with the applicable data protection laws and regulations and in accordance with this Privacy Policy. 
+To ensure this, we have trained our staff on the importance protecting and respecting your personal information and privacy. We have also appointed a Data Protection Officer to ensure that our Company manages/processes your personal information in compliance with the applicable data protection laws and regulations and in accordance with this Privacy Policy.
 
-The personal information you provide us with when registering yourself as a user of the Company’s website(s) or of its services is classified as registered information, which is protected in several different ways. You can access your registered information after logging in to MyMEX. 
+The personal information you provide us with when registering yourself as a user of the Company’s website(s) or of its services is classified as registered information, which is protected in several different ways. You can access your registered information after logging in to My MultiBank.
 
 It is your responsibility to make sure that your password is only known to you and not disclosed to anyone else. Your registered information is securely stored with us, and only authorized staff have access to this information. Please also note that transfer of information via the internet is not always entirely secure, but we have taken significant precautions to assure that your personal data is being protected.
 
@@ -84,7 +84,7 @@ We process personal data so as to safeguard the legitimate interests pursued by 
   * risk management
   * measures to manage business and for further developing products and services
   * measures to ensure IT and system security, preventing potential crime, asset security, admittance controls and anti-trespassing measures
-  * sharing your personal data within MultiBank Exchange Group for the purpose of updating/verifying your personal data in accordance with the relevant anti-money laundering compliance framework
+  * sharing your personal data within MultiBank Group for the purpose of updating/verifying your personal data in accordance with the relevant anti-money laundering compliance framework
 
 
 
@@ -120,7 +120,7 @@ If you enter any of our premises we may record your image on our CCTV for securi
 The Company will not disclose any of its clients’ confidential information to a third party, except: (a) to the extent that it is required to do so pursuant to any applicable laws, rules or regulations; (b) if there is a duty to disclose; (c) if our legitimate business interests require disclosure; or (d) at your request or with your consent or to Persons described in this policy. The Company will endeavor to make such disclosures on a ‘need-to-know’ basis, unless otherwise instructed by a regulatory authority. Under such circumstances, the Company will notify the third party regarding the confidential nature of any such information.  
 As part of using your personal data for the purposes set out above, the Company may disclose your personal information to the following:
 
-  * any companies under MultiBank Exchange Group, meaning any of our ultimate holding companies and their respective subsidiaries may receive such information;
+  * any companies under MultiBank Group, meaning any of our ultimate holding companies and their respective subsidiaries may receive such information;
   * our associates and service providers, for business purposes, including third parties such as business service providers and specialist advisers who have been contracted to provide us with administrative, financial, legal, tax, compliance, insurance, research or other services;
   * business introducers with whom we have a mutual business relationship;
   * business parties, credit providers, courts, tribunals and regulatory authorities as agreed or authorised by law; and
@@ -134,9 +134,9 @@ Clients accept and consent that the Company may, from time to time, analyze the 
 
 **Transfers outside of the European Economic Area**
 
-We may transfer your personal information outside the European Economic Area (EEA) to other MultiBank Exchange Group companies as well as service providers (i.e. processors) who are engaged on our behalf. To the extent we transfer your information outside the EEA, we will ensure that the transfer is lawful and that processors in third countries are obliged to comply with the European data protection laws or other countries’ laws which are comparable and to provide appropriate safeguards in relation to the transfer of your data in accordance with GDPR Article 46. 
+We may transfer your personal information outside the European Economic Area (EEA) to other MultiBank Group companies as well as service providers (i.e. processors) who are engaged on our behalf. To the extent we transfer your information outside the EEA, we will ensure that the transfer is lawful and that processors in third countries are obliged to comply with the European data protection laws or other countries’ laws which are comparable and to provide appropriate safeguards in relation to the transfer of your data in accordance with GDPR Article 46.
 
-By submitting your personal data, you consent to your personal information being processed by staff of MultiBank Exchange Group operating outside the EEA who work for us. Such staff may be, among others, engaged in the fulfilment of your requests, the processing of your payment details and the provision of support services. The Company will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+By submitting your personal data, you consent to your personal information being processed by staff of MultiBank Group operating outside the EEA who work for us. Such staff may be, among others, engaged in the fulfilment of your requests, the processing of your payment details and the provision of support services. The Company will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
 **Your collected information**
 
@@ -162,7 +162,7 @@ Cookies are text files with a small amount of data sent from our website(s) to y
 
 Cookies are small pieces of data sent from our website(s) to your browser and stored on your computer’s hard drive when using our site(s), and they may include a unique identification number. The purpose of collecting this information is to provide you with a more relevant and effective experience on our website(s), including the presentation of our web pages according to your needs or preferences.
 
-Cookies are frequently used on many websites on the internet, and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of our website(s) if you choose to disable the cookie acceptance in your browser, particularly in your MyMEX account panel and other secure parts of our website(s). We therefore recommend you to enable cookie acceptance in order to benefit from all our online services.
+Cookies are frequently used on many websites on the internet, and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of our website(s) if you choose to disable the cookie acceptance in your browser, particularly in your MyMultiBank account panel and other secure parts of our website(s). We therefore recommend you to enable cookie acceptance in order to benefit from all our online services.
 
 Furthermore, we use cookies for re-marketing features in order to allow us to reach out to users who have previously visited our website(s) and have shown an interest in our products and services. Periodically, we may use third party vendors to display our ads over the internet to you, based on your previous use of our website(s). You can opt out this particular use of cookies at any time by visiting [Google’s Ads Settings](http://www.google.com/settings/ads) page and the [DoubleClick opt-out](https://www.google.com/settings/ads/onweb#display_optout) page or as they later update those facilities.
 
@@ -198,7 +198,7 @@ You have the right to request what information we process, along with a copy of 
 
 **Rectification**
 
-We will take all reasonable steps to make sure that your personal information remains accurate, complete and up-to-date. If the personal information we hold about you is inaccurate or incomplete, you are entitled to have it rectified. If we have disclosed your personal information to others, we will let them know about the rectification where possible. You may inform us at any time that your personal details have changed by e-mailing us at [ics@mexgroup.com](mailto:ics@mexgroup.com) . The Company will change your personal information in accordance with your instructions. To proceed with such requests, in some cases we may need supporting documents from you as proof, i.e. personal information that we are required to keep for regulatory or other legal purposes.
+We will take all reasonable steps to make sure that your personal information remains accurate, complete and up-to-date. If the personal information we hold about you is inaccurate or incomplete, you are entitled to have it rectified. If we have disclosed your personal information to others, we will let them know about the rectification where possible. You may inform us at any time that your personal details have changed by e-mailing us at [cs@multibankfx.com](mailto:cs@multibankfx.com) . The Company will change your personal information in accordance with your instructions. To proceed with such requests, in some cases we may need supporting documents from you as proof, i.e. personal information that we are required to keep for regulatory or other legal purposes.
 
 **Erasure**
 
@@ -206,7 +206,7 @@ You can ask us to delete or remove your personal information in certain circumst
 
 **Processing restrictions**
 
-You can ask us to ‘block’ or suppress the processing of your personal data in certain circumstances such as if you contest the accuracy of that personal information or object to us processing it. It will not stop us from storing your personal information. We will inform you before we decide not to agree with any requested restriction. If we have disclosed your personal information to others, we will inform about the restriction if possible.
+You can ask us to ‘block’ or suppress the processing of your personal data in certain circumstances such as if you contest the accuracy of that personal information or object to us processing it. It will not stop us from storing your personal information. We will inform you before we decide not to agree with any requested restriction. If we have disclosed your personal information to others, we will inform about the restriction if possible. 
 
 **Data portability**
 
@@ -224,7 +224,7 @@ You can ask us to stop processing your personal information, and we will do so, 
 
 **Opt-out of submitting your personal information**
 
-If you do not want us to use your personal information, you must inform the Company by sending an email to [ics@mexgroup.com](mailto:ics@mexgroup.com) . If you decide to do so, we may not be able to continue to provide information, services and/or products requested by you and we will have no liability to you in this respect.
+If you do not want us to use your personal information, you must inform the Company by sending an email to [cs@multibankfx.com](mailto:cs@multibankfx.com) . If you decide to do so, we may not be able to continue to provide information, services and/or products requested by you and we will have no liability to you in this respect.
 
 **Legal disclaimer**
 
@@ -232,4 +232,4 @@ The Company may disclose your personally identifiable information as required by
 
 **How to contact us**
 
-If you have any questions or concerns regarding this Privacy Policy, please e-mail us at [cs@mexgroup.com](mailto:cs@mexgroup.com) . 
+If you have any questions or concerns regarding this Privacy Policy, please e-mail us at [cs@mexgroup.com](mailto:cs@mexgroup.com) .
