@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shape5.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103041049id_/https%3A//www.shape5.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shape5.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106174744id_/https%3A//www.shape5.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
