@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautynetkorea.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204000247id_/http%3A//www.beautynetkorea.com/member/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautynetkorea.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106171515id_/https%3A//beautynetkorea.com/member/privacy.html) for the most accurate reproduction.*
 
 # K-Beauty & Korean Cosmetics Shop No.1 Website - Beautynetkorea
 
