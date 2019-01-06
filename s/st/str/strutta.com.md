@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the strutta.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022053541id_/http%3A//www.strutta.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strutta.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106184511id_/https%3A//www.strutta.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Strutta Social Marketing
+# Privacy Policy for Strutta Social Promotions
 
 Last Updated: April, 2012
 
@@ -57,7 +57,7 @@ We may occasionally communicate with you regarding products, services, news and 
 
 ## Applications on Facebook
 
-A Contest or Activity enabled through the Site may be displayed as an application on Facebook. If you are accessing the Site through an application on Facebook or logging in to the Site using Facebook, you are providing your information to Strutta in accordance with this Privacy Policy, and not to Facebook. Any information collected through an application on Facebook will also be subject to Facebook's [Data Use Policy](http://www.facebook.com/about/privacy/). More information about how to control information shared with applications on Facebook is available [here](http://www.facebook.com/about/privacy/your-info-on-other#applications).
+A Contest or Activity enabled through the Site may be displayed as an application on Facebook. If you are accessing the Site through an application on Facebook or logging in to the Site using Facebook, you are providing your information to Strutta in accordance with this Privacy Policy, and not to Facebook. Any information collected through an application on Facebook will also be subject to Facebook's [Data Use Policy](https://www.facebook.com/about/privacy/). More information about how to control information shared with applications on Facebook is available [here](https://www.facebook.com/about/privacy/your-info-on-other#applications).
 
 ## Fees and Payment Information
 
