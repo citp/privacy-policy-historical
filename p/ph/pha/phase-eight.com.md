@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phase-eight.com privacy policy that was archived on 2018-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180810110118id_/http%3A//www.phase-eight.com/fcp/content/PrivacyPolicy/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phase-eight.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106194232id_/https%3A//www.phase-eight.com/fcp/content/PrivacyPolicy/content) for the most accurate reproduction.*
 
 # Privacy Policy | Phase Eight
 
@@ -21,7 +21,7 @@ We will collect personal information that you provide to us when you:
 
 We will also collect certain information automatically when you visit our Site, in particular:
 
-  * when you access our Site, we use “cookies” to make it easier for you to use our Site. These cookies record data about the pages you browse and the activities you carried out during your visit. Further details about our use of cookies is set out in our Cookie Policy [here;](http://www.phase-eight.com/fcp/content/Cookies/content)
+  * when you access our Site, we use “cookies” to make it easier for you to use our Site. These cookies record data about the pages you browse and the activities you carried out during your visit. Further details about our use of cookies is set out in our Cookie Policy [here;](https://www.phase-eight.com/fcp/content/Cookies/content)
   * we record details of the resources that you access to visit our Site (for example, URL addresses, traffic data etc.);
   * we record information about the type of device you have used to visit our Site, your device settings, and the cause of any system errors. Your device manufacturer or operating system provider will have further details on what information your device makes available.
 
@@ -69,7 +69,7 @@ You may be able to apply for a job with us through our Site, in-store or through
 
 3\. Where you have provided your consent to our use of cookies:
 
-  * Further details about our use of cookies is set out in our Cookie Policy [here;](http://www.phase-eight.com/fcp/content/Cookies/content)
+  * Further details about our use of cookies is set out in our Cookie Policy [here;](https://www.phase-eight.com/fcp/content/Cookies/content)
 
 
 
@@ -81,25 +81,29 @@ You may be able to apply for a job with us through our Site, in-store or through
 
 
 
-You have the option to unsubscribe from our e-mails through a link at the bottom of every e-mail we send to you. You have the option to unsubscribe from our text messages by following the instructions in the text message or contacting the [ Customer Services team](http://www.phase-eight.com/fcp/content/Contactus/content).
+You have the option to unsubscribe from our e-mails through a link at the bottom of every e-mail we send to you. You have the option to unsubscribe from our text messages by following the instructions in the text message or contacting the [ Customer Services team](https://www.phase-eight.com/fcp/content/Contactus/content).
 
-If you want to change the details that you have registered with us, or would like to amend your subscription preferences or unsubscribe altogether, this can be changed in the “My Account” section of our Site or by contacting our [ Customer Services team](http://www.phase-eight.com/fcp/content/Contactus/content).
+If you want to change the details that you have registered with us, or would like to amend your subscription preferences or unsubscribe altogether, this can be changed in the “My Account” section of our Site or by contacting our [ Customer Services team](https://www.phase-eight.com/fcp/content/Contactus/content).
 
 ## How we share your information
 
   * We share your information with our core service providers and third party platforms as required for our business to function; for example, picking, packaging and processing orders, fulfilling deliveries, customer support, fraud detection, credit risk reduction checks, IT systems support, and internal audits.
   * If you choose to provide feedback on your transaction, we will share your information with Feefo, a third party feedback site who will capture your feedback on transactions which we use to enhance our customer service.
+  * If you have indicated that you are happy to receive catalogues from like-minded brands, we will also share your information with data co-operatives. We work with Epsilon Abacus (registered as Epsilon International UK Ltd), a company that manages the Abacus Alliance on behalf of UK retailers. The participating retailers are active in the clothing, collectables, food & wine, gardening, gadgets & entertainment, health & beauty, household goods, and home interiors categories. They share information on what their customers buy. Epsilon Abacus analyses this pooled information to help the retailers understand consumers’ wider buying patterns. From this information, retailers can tailor their communications, sending people suitable offers that should be of interest to them, based on what they like to buy.
+  * If you would prefer us not use your information, please contact the[ Customer Services team ](https://www.phase-eight.com/fcp/content/Contactus/content) at [info@phase-eight.co.uk.](mailto:info@phase-eight.co.uk)
+  * We operate a refer-a-friend programme to enable our customers to recommend us to their friends and family. Our refer-a-friend programme is operated on our behalf by Mention Me Limited as our data processor. You can find more details of the data Mention Me processes for us in their privacy policy which can be viewed [here ](https://mention-me.com/help/privacy_policy_s). You can object to us processing your data in connection with our refer-a-friend programme at any time by contacting us.
   * Your information may be processed by a third party in order to maintain the functionality of our Site and database.
-  * In the event that you add items to your basket but do not complete a transaction, Salescycle will automatically send you an e-mail to remind you that there are items in your basket.
   * Whilst you are a member of our mailing list we may share your information with trusted non-core service providers, such as marketing partners we have carefully selected to deliver incentives to participate in offers, polls, surveys, analysis or research, all of which assist us in enhancing our services. They are not permitted to use your information after you unsubscribe. 
 
 
 
-We also use services offered by Google, Facebook, Instagram and other similar social media platforms to better tailor our marketing communications and for targeted advertising. As part of this process, some personal information, such as your e-mail address, is provided to the relevant third party, however for security purposes this data is “hashed” prior to being shared. Hashing is a process of identity masking or “pseudonymisation” which means we do not disclose your e-mail but still enables linking between your social media presence and our Site. Your personal information will be transmitted to countries outside of the EEA, including the United States. If you would like more information about how your personal information may be transmitted, and the safeguards applied, please contact [ info@phase-eight.co.uk](mailto:info@phase-eight.co.uk). You may have the right to object to your personal information being used in this way (see “Rights you may have” below).
+We also use services offered by Google, Facebook, Instagram and other similar social media platforms to better tailor our marketing communications and for targeted advertising. As part of this process, some personal information, such as your e-mail address, is provided to the relevant third party, however for security purposes this data is “hashed” prior to being shared. Hashing is a process of identity masking or “pseudonymisation” which means we do not disclose your e-mail but still enables linking between your social media presence and our Site.
 
 We receive insights from Facebook about the effectiveness of our advertising campaigns which you experience on our Site and social channels, helps to better target our advertising.
 
 Every external company we work with has a contract with us which clearly sets out our expectations and requirements in handling personal information and obligates them to meet these standards and those contained in the GDPR.
+
+Your personal information will be transmitted to countries outside of the EEA, including the United States. If you would like more information about how your personal information may be transmitted, and the safeguards applied, please contact [info@phase-eight.co.uk](mailto:info@phase-eight.co.uk). You may have the right to object to your personal information being used in this way (see “Rights you may have” below).
 
 ## How long we keep your information
 
