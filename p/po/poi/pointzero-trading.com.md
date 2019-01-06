@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pointzero-trading.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612145722id_/http%3A//www.pointzero-trading.com/Terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointzero-trading.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106064634id_/https%3A//www.pointzero-trading.com/Terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-In compliance with applicable law and GDPR regarding protection of personal data, property of PZ Trading Ltd., hereinafter referred to as the COMPANY, advises that any information of this type, provided by customers or users of the website http://www.pointzero-trading.com/, hereinafter referred to as the WEBSITE, through software license acquisition request forms or e-mails sent to the different mailboxes that the COMPANY has available in its website, implies that they accept and expressly authorize THE COMPANY, the database owner, to transfer and communicate these personal data to other services in charge of their processing and/or third service providers with the following purposes and objectives: (i) for the proper management of purchases made via the website, (ii) to send e-mails or regular mail with information about the products marketed on the website, (iii) to request information regarding the operation of the website and the products marketed on it, in order to improve the services and customize the experience of customers and/or users and (iiii) to offer new products and especial offers from time to time.
+In compliance with applicable law and GDPR regarding protection of personal data, property of PZ Trading Ltd., hereinafter referred to as the COMPANY, advises that any information of this type, provided by customers or users of the website https://www.pointzero-trading.com/, hereinafter referred to as the WEBSITE, through software license acquisition request forms or e-mails sent to the different mailboxes that the COMPANY has available in its website, implies that they accept and expressly authorize THE COMPANY, the database owner, to transfer and communicate these personal data to other services in charge of their processing and/or third service providers with the following purposes and objectives: (i) for the proper management of purchases made via the website, (ii) to send e-mails or regular mail with information about the products marketed on the website, (iii) to request information regarding the operation of the website and the products marketed on it, in order to improve the services and customize the experience of customers and/or users and (iiii) to offer new products and especial offers from time to time.
 
 The COMPANY advises that such data will be included in its database, which is the COMPANY's property. Customers and users also agree to the use, by the data manager and service providers, of personal data, always under the direction and supervision of the database COMPANY, and with the only purpose for which they have been given. Contact details, for information purposes, of the data manager and service are given below:
 
@@ -67,7 +67,7 @@ In compliance with applicable law and GDPR regarding protection of personal data
 
 
 
-If you do not want to receive email from us, please click the “unsubscribe” link which is included at the bottom of any email you receive from us. You can exercise your rights regarding any of the points listed above by [opening a support ticket](http://www.pointzero-trading.com/Contact) or notifying us in accordance with the “Contacting Us” section below 
+If you do not want to receive email from us, please click the “unsubscribe” link which is included at the bottom of any email you receive from us. You can exercise your rights regarding any of the points listed above by [opening a support ticket](https://www.pointzero-trading.com/Contact) or notifying us in accordance with the “Contacting Us” section below 
 
 ### Data security and integrity
 
@@ -83,6 +83,6 @@ The products and the WEBSITE are not directed to individuals under the age of ei
 
 ### Contacting us
 
-For questions or requests about privacy policy, please [open a support ticket](http://www.pointzero-trading.com/Contact) or contact the helpdesk by mailing help[at]pointzero-trading.com. All requests must include "Privacy Policy" in the subject line.
+For questions or requests about privacy policy, please [open a support ticket](https://www.pointzero-trading.com/Contact) or contact the helpdesk by mailing help[at]pointzero-trading.com. All requests must include "Privacy Policy" in the subject line.
 
 **Last Updated: 25th May 2018**
