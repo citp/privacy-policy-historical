@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thevore.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618164656id_/http%3A//thevore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevore.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106191441id_/https%3A//thevore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | • The Vore
 
-This Privacy Policy governs the manner in which The Vore collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://thevore.com](https://thevore.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Vore.
+This Privacy Policy governs the manner in which The Vore collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://104.248.59.221](http://104.248.59.221/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Vore.
 
  **Personal identification information**
 
@@ -35,9 +35,9 @@ We do not sell, trade, or rent Users personal identification information to othe
 
  **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
-**Changes to this privacy policy**
+ **Changes to this privacy policy**
 
 The Vore has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
@@ -49,8 +49,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[The Vore](https://thevore.com/)
+[The Vore](http://104.248.59.221/)
 
-[https://thevore.com](https://thevore.com/)
+[http://104.248.59.221](http://104.248.59.221/)
 
 This document was last updated on December 2, 2016
