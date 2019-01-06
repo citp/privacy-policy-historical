@@ -1,8 +1,13 @@
-<!--The following is the downloaded HTML source of the schooloutfitters.com privacy policy that was archived on 2018-01-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180120080836id_/https%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schooloutfitters.com privacy policy that was archived on 2019-01-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190106020835id_/https%3A//www.schooloutfitters.com/catalog/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <link href="/RequestReduceContent/985c841acdb9ccc391ab26dcd650e48f-675f919dc02f9879149b0d98e1e12781-RequestReducedStyle.css" rel="Stylesheet" type="text/css"><script type="text/javascript" async="" src="https://js.bronto.com/s/b.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" src="//115744772-prod.rfksrv.com/rfk/js/11228-115744772/init.js" async="true"></script>
+        
+        <!-- Google Tag Manager -->
+        <script type="text/javascript" async="" src="https://js.bronto.com/s/b.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KSF5DGF"></script><script type="text/javascript">            (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-KSF5DGF');</script>
+        <!-- End Google Tag Manager -->
+        
+        <script type="text/javascript" src="//115744772-prod.rfksrv.com/rfk/js/11228-115744772/init.js" async="true"></script>
 
     <!-- Dang Le - 8/29/2016 - 48099 - LivePerson LiveEngage Upgrade --> 
     <!-- BEGIN LivePerson Monitor. -->
@@ -14,7 +19,12 @@
     <title>
         Privacy Policy at School Outfitters
     </title>
-    <link rel="shortcut icon" href="/Content/Images/favicon.ico" type="image/x-icon">
+    
+    
+    
+    
+
+
     
     
     
@@ -23,11 +33,6 @@
     
     
     
-
-
-    
-    
-    
     
     
     
@@ -36,28 +41,53 @@
     
 
 
-            <script src="/RequestReduceContent/7e5e2a5e3137831f71027e2435112256-57c40fd60d80a87bf46a35c574efadfb-RequestReducedScript.js" type="text/javascript"></script><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=22194973"></script>    <!-- A/B test product page redesign-->
-    
-                <!-- End - A/B test product page redesign-->
+    <link href="/resource/stylesheet/v20190104/popup_callme.css" rel="stylesheet" type="text/css">
+    <link href="/resource/stylesheet/v20190104/print.css" rel="stylesheet" type="text/css" media="print,screen">
+    <script type="text/javascript" src="/resource/script/v20190104/general.js"></script><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=22194973"></script>
+    <!-- A/B test product page redesign-->
+    <link href="/resource/stylesheet/v20190104/common.css" rel="stylesheet" type="text/css">
+    <link href="/resource/stylesheet/v20190104/header-b.css" rel="stylesheet" type="text/css">
+    <link href="/resource/stylesheet/v20190104/footer.css" rel="stylesheet" type="text/css">
+    <!-- End - A/B test product page redesign-->
 
-            
+    <link href="/resource/stylesheet/v20190104/subscription.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="/resource/script/v20190104/bsite/modernizr-2.8.3.min.js"></script>
     
-            <style type="text/css">
+    
+        <link href="/resource/stylesheet/v20190104/left.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
         div[id^="LP_DIV"] * { outline: 0; }
     </style>
     
 
 
-        <!--[if IE 7]>
-	<link href="/resource/stylesheet/v20180118/ie7.css" rel="stylesheet" type="text/css" media="print,screen" />
+    <link href="/resource/stylesheet/v20190104/none_ie7.css" rel="stylesheet" type="text/css" media="print,screen">
+    <!--[if IE 7]>
+	<link href="/resource/stylesheet/v20190104/ie7.css" rel="stylesheet" type="text/css" media="print,screen" />
 	<![endif]-->
-    <!--Dang Le - 8/29/2016 - 48099 - LivePerson LiveEngage Upgrade - Remove the old code -->
+<script type="text/javascript" src="/resource/script/v20190104/jquery-3.1.1.min.js"></script>
+    <!--Dang Le - 8/29/2016 - 48099 - LivePerson LiveEngage Upgrade - Remove old code -->
     
     <script type="text/javascript">
-        var s_account = 'socom'; //using on general.js 
-        var rfk = rfk || [];
+        var s_account = 'socom';//using on general.js 
+       
+        function CallMe(target) {
+            var $position = $(target).offset();
+            $("#popupContact").css({
+                top: $position.top + 'px'
+            });
+            $('div[class="container"]').css('min-height', '0px');
+            $("#loadContent").html('<div style="text-align:center"><img src="https://soimagescdn.azureedge.net/solayoutimages/SubcatRedesign/loading_32.gif" width="24px" height="24px" /></div>');
+            $("#popupContact").show();
+            $.get("/catalog/call_me.php", function (data) {
+                $("#loadContent").html(data);
+            });
+        }
 	    
-    rfk.push({ "product_ids" : [] });
+        
+            var rfk = rfk || [];
+            rfk.push({ "product_ids" : [] });
+        
 
     
     function imageHandler(element)
@@ -68,25 +98,25 @@
 	    }
 	    else
 	    {
-            element.src = "/Content/Images/noimage.jpg";       
+            element.src = "https://soimagescdn.azureedge.net/solayoutimages/noimage.jpg";       
                  
-            $("a[id='imgDetail']").attr("rev", "/Content/Images/noimage.jpg");
-            $("img[id='imgDefault']").attr("rev", "/Content/Images/noimage.jpg");
+            $("a[id='imgDetail']").attr("rev", "https://soimagescdn.azureedge.net/solayoutimages/noimage.jpg");
+            $("img[id='imgDefault']").attr("rev", "https://soimagescdn.azureedge.net/solayoutimages/noimage.jpg");
 
 		    if($("img[id='" + element.id + "']").attr('rel') == "enlarge")
 		    {				
-			    $("a[rel='lightbox']").attr("href", "/Content/Images/noimage.jpg");
+			    $("a[rel='lightbox']").attr("href", "https://soimagescdn.azureedge.net/solayoutimages/noimage.jpg");
 			    $("div#lbBottomContainer").css("opacity", "0");
 		    }
 	    }
     }
     function imageHandler100x100(element)
     {
-       element.src = "https:/soimagescdn.azureedge.net/productimage/noimage.jpg?width=100&amp;height=100&amp;version=v20171222";	
+       element.src = "https://soimagescdn.azureedge.net/productimage//noimage.jpg?width=100&amp;height=100&amp;version=v20171222";	
     }
     function imageHandler144x144(element)
     {
-       element.src = "https:/soimagescdn.azureedge.net/productimage/noimage.jpg?width=144&amp;height=144&amp;version=v20171222";	
+       element.src = "https://soimagescdn.azureedge.net/productimage//noimage.jpg?width=144&amp;height=144&amp;version=v20171222";	
     }
     <!-- Tu Nguyen - 1/11/2017 - #62066 Incorrect Subcat Image Size on Brand Pages -->
     function imageHandler150x150(element)
@@ -110,20 +140,51 @@
     <!--Trang Nguyen 56650 - Bing UET Tag. -->
     <script>(function (w, d, t, r, u) { var f, n, i; w[u] = w[u] || [], f = function () { var o = { ti: "5663900" }; o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad") }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function () { var s = this.readyState; s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null) }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i) })(window, document, "script", "//bat.bing.com/bat.js", "uetq");</script>
     <noscript><img src="//bat.bing.com/action/0?ti=5663900&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
-</head>
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCaptchaCallback" async="" defer=""></script>
+	
+	<!-- 
+    To collect end-user usage analytics about your application, 
+    insert the following script into each page you want to track.
+    Place this code immediately before the closing </head> tag,
+    and before any other scripts. Your first data will appear 
+    automatically in just a few seconds.
+    -->
+    <script type="text/javascript">
+      var appInsights=window.appInsights||function(a){
+        function b(a){c[a]=function(){var b=arguments;c.queue.push(function(){c[a].apply(c,b)})}}var c={config:a},d=document,e=window;setTimeout(function(){var b=d.createElement("script");b.src=a.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js",d.getElementsByTagName("script")[0].parentNode.appendChild(b)});try{c.cookie=d.cookie}catch(a){}c.queue=[];for(var f=["Event","Exception","Metric","PageView","Trace","Dependency"];f.length;)b("track"+f.pop());if(b("setAuthenticatedUserContext"),b("clearAuthenticatedUserContext"),b("startTrackEvent"),b("stopTrackEvent"),b("startTrackPage"),b("stopTrackPage"),b("flush"),!a.disableExceptionTracking){f="onerror",b("_"+f);var g=e[f];e[f]=function(a,b,d,e,h){var i=g&&g(a,b,d,e,h);return!0!==i&&c["_"+f](a,b,d,e,h),i}}return c
+        }({
+            instrumentationKey:"e57c031e-4134-415b-8975-6fb9cd0cfda7"
+        });
+        
+      window.appInsights=appInsights,appInsights.queue&&0===appInsights.queue.length&&appInsights.trackPageView();
+    </script>
+	
+    <script type="text/javascript">
+        var UnbxdSiteName =  "www-schooloutfitters-com-catalog-index803501535664052";
+        var UnbxdApiKey = "249164226d09e6e8dd1569b3735a9074";
+        (function () {
+            var ubx = document.createElement('script'); ubx.type = 'text/javascript'; ubx.async = true;
+            ubx.src = '//d21gpk1vhmjuf5.cloudfront.net/unbxdAnalytics.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ubx);
+        })();
+    </script><script type="text/javascript" async="" src="//d21gpk1vhmjuf5.cloudfront.net/unbxdAnalytics.js"></script>
+<script src="https://az416426.vo.msecnd.net/scripts/a/ai.0.js"></script></head>
 <body>
-    <!--Dang Le - 8/29/2016 - 48099 - LivePerson LiveEngage Upgrade - Remove the old code -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KSF5DGF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 
-    <!--Dang Le - 8/29/2016 - 48099 - LivePerson LiveEngage Upgrade -->
+    <!-- Dang Le - 8/29/2016 - 48099 - LivePerson LiveEngage Upgrade --> 
+        <!-- This is the new code of upgrading on #48099  - ShippingReview page would be tracked differently inside itself -->
         <script type="text/javascript">
             lpTag.sdes = lpTag.sdes || [];
             lpTag.sdes.push(
                {
                    "type": "ctmrinfo",
                    "info": {
-                       "ctype": "A",
-                       "imei": "1180120A680384"
+                       "ctype": "B",
+                       "imei": "1190105B800441"
                    }
                },
 		       {
@@ -141,20 +202,23 @@
     lpTag.sdes.push({"type":"cart","total":0.0,"numItems":0,"products":[]});
 </script>
     
-    <script src="/RequestReduceContent/62ab3bf01e09096d5d3fecc0208bb397-dd62d88ad386f93697e30f9b55cd308d-RequestReducedScript.js" type="text/javascript"></script>    <script type="text/javascript">
+    <script type="text/javascript" src="/resource/script/v20190104/s_code.js"></script>
+    <script type="text/javascript">
     
     
     
                     
 /* Traffic variables */
 s.prop1="Privacy Policy";
-s.prop3="";
+s.prop3="https://www.schooloutfitters.com/catalog/?sc_cid=buyingguide_fasa";
 s.prop18="/catalog/privacy.php";
+s.prop29="none";
 s.pageName="Privacy Policy";
 /* Commerce variables */
-s.eVar20="1180120A680384";
-s.eVar15="A";
-s.eVar19="289025984";
+s.eVar20="1190105B800441";
+s.eVar15="B";
+s.eVar19="342665025";
+s.eVar59="none";
                     s.events = getEventsValue(s.events);
                     
 
@@ -163,41 +227,61 @@ s.eVar19="289025984";
 
     <div class="qv_bg">
     </div>
+    <!--Cuong Vu - 8/23/2018 - #72981 - A/B test: Brands and About Us page links-->
     <div class="header-container">
-        <span style="display:none" class="OmnitureTransactionId">1180120A680384</span>
-        <span style="display:none" class="OmnitureSessionId">A680384</span>
+        <span style="display:none" class="OmnitureTransactionId">1190105B800441</span>
+        <span style="display:none" class="OmnitureSessionId">B800441</span>
+        <div class="contact-bg"></div>
     	<div id="top_nav">
             <header class="header-top_nav">
                 <div id="contact">
-                	<div>
-                        <p style="margin:0px;"><span class="need_help">Need help?</span></p>
-                        <img class="phone" alt="1-800-260-2776" src="/Content/Images/B_Site_Redesign/btn_phone.png">
+                    <div>
+                        <!--Tu Nguyen - #70917 Change to text in header by Phone Number -->
+                        <p style="margin:0px;"><span class="need_help">Need help? Call us.</span></p>
+                        <img class="phone" alt="1-800-260-2776" src="https://soimagescdn.azureedge.net/solayoutimages/B_Site_Redesign/btn_phone.png">
                         <p>/</p>
-                        <div id="LP_DIV_1432095865943" style="width:92px;height:23px; float:left; padding-top: 0px; margin: 0 5px 0 6px; z-index: 1060;"></div>
+                        <div id="LP_DIV_1432095865943" style="width:92px;height:23px; float:left; padding-top: 0px; margin: 0 5px 0 6px; z-index: 1060;" onclick="sendInfoToOmnitureForPersistHeader('headerChat')"></div>
                         <p>/</p>
                         <a class="icon-email" href="mailto:sales@schooloutfitters.com" onclick="sendInfoToOmnitureForPersistHeader('headerEmailSales')">
-                            <img alt="Email Us" src="/Content/Images/B_Site_Redesign/btn_email.png">
+                            <img alt="Email Us" src="https://soimagescdn.azureedge.net/solayoutimages/B_Site_Redesign/btn_email.png">
                         </a>
-                        <p style="margin-top:0px;" class="hours">( M-F: 8-8 Eastern )</p>
+                        <p style="margin-top:0px;" class="hours">( M-F: 8-7 Eastern )</p>
                     </div>
                 </div>
                 <div id="header-so-logo">
                     <a href="/catalog/" onclick="sendInfoToOmnitureForPersistHeader('headerLogo')">
-                        <img src="/Content/Images/B_Site_Redesign/blank.png" alt="School Outfitters Homepage">
+                        <img src="https://soimagescdn.azureedge.net/solayoutimages/B_Site_Redesign/blank.png" alt="School Outfitters Homepage">
                     </a>
                 </div>
                 <nav id="header-main">
                     
     <form id="search" method="get" action="/catalog/search_results.php" name="smSearch">
     <input class="search_box" id="searchbox" name="keywords" type="text" placeholder="Search..." required="" data-rfkid="rfkid_6">
-    <input type="submit" value="" alt="Search...">
+    <input id="submit" type="submit" value="" alt="Search...">
 </form>
-<script src="/RequestReduceContent/ac7f0378deac98ab771439a1e2e24070-cde5cc4a65d4503f04944d1f532d882f-RequestReducedScript.js" type="text/javascript"></script><script type="text/javascript">
+<script type="text/javascript" src="/resource/script/v20190104/jquery.placeholder.min.js"></script>
+<script type="text/javascript">
     $(document).ready(function () {
         $("form[name='smSearch']").submit(function () {
             keyword = $("input[id='searchbox']").val();
             keyword = keyword.replace(/"/gi, "”");
             $("input[id='searchbox']").attr("value", keyword);
+
+            if (keyword != '') {
+                Unbxd.track("search", { "query": keyword })
+            }
+
+        });
+
+        $("#searchbox").keyup(function (event) {
+            if (event.keyCode === 13) {
+                keyword = $("input[id='searchbox']").val();
+                if (keyword != '') {
+                    Unbxd.track("search", { "query": keyword })
+                    var formAction = $("#search").attr('action') + "?keywords=" + encodeURIComponent(keyword);
+                    window.location.href = formAction;
+                }
+            }
         });
 
         $("input[rel='Search']").mousedown(function () {
@@ -216,103 +300,16 @@ s.eVar19="289025984";
 </script>
 
 
-                    
-    <ul id="text_links">
-    <li><a href="/brands" onclick="sendInfoToOmniture('headerBrands')">Brands</a></li>
-    <li class="header-dropdown">
-        <a onmouseover="sendInfoToOmniture('headerResourcesHover')" id="blue-link-a">Resources</a>
-         
-
-<ul id="resources">
-        <li>
-            <a href="/room-layouts">
-                <img class="icon_learning_spaces" src="/Content/Images/B_Site_Redesign/blank.png" onclick="sendOmnitureForLearningSpace('headerResourcesLearningSpacesImage')">
-                <p onclick="sendOmnitureForLearningSpace('headerResourcesLearningSpacesText')">
-                    <span class="link">Learning Spaces</span>
-                    <span class="desc">Explore customized recommendations for your school environment.</span>
-                </p>
-            </a>
-        </li>
-    <li>
-        <a onclick="return gttkPopupWindow('/catalog/goodthingstoknow.html')">
-            <img class="icon_buying_guides" src="/Content/Images/B_Site_Redesign/blank.png" onclick="sendInfoToOmniture('headerResourcesBuyingGuidesImage')">
-            <p onclick="sendInfoToOmniture('headerResourcesBuyingGuidesText')">
-                <span class="link">Buying Guides</span>
-                <span class="desc">Make your shopping experience easier with helpful information on dozens of topics.</span>
-            </p>
-        </a>
-    </li>
-    <li>
-        <a href="/inspiration-gallery">
-            <img src="/Content/Images/B_Site_Redesign/blank.png" class="icon_inspiration" onclick="sendInfoToOmniture('headerResourcesInspirationGalleryImage')">
-            <p onclick="sendInfoToOmniture('headerResourcesInspirationGalleryText')">
-                <span class="link">Inspiration Gallery</span>
-                <span class="desc">Check out our image collection to brainstorm creative ideas for your own school.</span> 
-            </p>
-        </a>
-    </li>
-    <li>
-        <a href="/catalog/faq.php">
-            <img class="icon_faqs" src="/Content/Images/B_Site_Redesign/blank.png" onclick="sendInfoToOmniture('headerResourcesFAQsImage')">
-            <p onclick="sendInfoToOmniture('headerResourcesFAQsText')">
-                <span class="link">FAQs</span>
-                <span class="desc">Looking for more information? See a list of our most frequently asked questions.</span>
-            </p>
-        </a>
-    </li>
-    <li>
-        <a href="/Leap">
-            <img class="icon_leap" src="/Content/Images/B_Site_Redesign/blank.png" onclick="sendInfoToOmniture('headerResourcesLEAPImage')">
-            <p onclick="sendInfoToOmniture('headerResourcesLEAPText')">
-                <span class="link">LEAP</span>
-                <span class="desc">Browse our practical, five step process for turning classroom visions into reality.</span>
-            </p>
-        </a>
-    </li>
-</ul>
-
-<script type="text/javascript">
-   function saveSessionForBackToShopping() {
-        var applicationSellingProcess = getApplicationSellingProcess();
-        applicationSellingProcess.PreviousShoppingPageURL = window.location.href
-        setApplicationSellingProcess(applicationSellingProcess);
-    };
-
-    function sendOmnitureForLearningSpace(name) {
-        sendInfoToOmniture(name);
-        saveSessionForBackToShopping();
-    }
-</script>
-    </li>
-    <li><a id="blue-link-a" href="/catalog/coops_contracts" onclick="sendInfoToOmniture('headerCoopsContracts')">Co-ops &amp; Contracts</a></li>
-</ul>
-
                 </nav>
                 <section id="account_cart">
                     <section id="account">
-                        <div id="account_links">
-                            
-    <style>
-    #user-name {
-        width: 90px;
-        overflow:hidden; 
-        white-space:nowrap; 
-        text-overflow: ellipsis;
-    }
-</style>
-
-<ul>
-        <li><a id="blue-link-a" href="/catalog/login.php" onclick="sendInfoToOmniture('headerLogIn')">Log In</a></li>
-        <li><a id="blue-link-a" href="/catalog/create_account.php" onclick="sendInfoToOmniture('headerRegister')">Register</a></li>
-    <li><a id="blue-link-a" href="/catalog/order_status.php" onclick="sendInfoToOmniture('headerTrackOrder')">Track Order</a></li>
-</ul>
-        
-                        </div>
                         <div id="account_menu">
-                            <a onmouseover="sendInfoToOmnitureForPersistHeader('headerMyAccountHover')" onclick="myAccountImageLink()" href="/catalog/login.php"><p style="margin:0px; cursor:pointer;">My Account</p></a>
-                            
-    <ul>
-        <li><a id="blue-link-a" href="/catalog/login.php" onclick="sendInfoToOmnitureForPersistHeader('headerMyAccountMenuLogIn')">Log In</a><br><p class="header-desc">View my account</p></li>
+                            <div id="txt_img">
+                                <a onmouseover="sendInfoToOmnitureForPersistHeader('headerMyAccountHover')" onclick="myAccountImageLink()" href="/catalog/login.php">
+                                    <img src="https://soimagescdn.azureedge.net/solayoutimages/headerredesign/icons/account_icon.png" width="30" height="30">
+                                        <p>Account</p>                                     
+    </a><ul><a onmouseover="sendInfoToOmnitureForPersistHeader('headerMyAccountHover')" onclick="myAccountImageLink()" href="/catalog/login.php">
+        </a><li><a onmouseover="sendInfoToOmnitureForPersistHeader('headerMyAccountHover')" onclick="myAccountImageLink()" href="/catalog/login.php"></a><a id="blue-link-a" href="/catalog/login.php" onclick="sendInfoToOmnitureForPersistHeader('headerMyAccountMenuLogIn')">Log In</a><br><p class="header-desc">View my account</p></li>
         <li><a id="blue-link-a" href="/catalog/create_account.php" onclick="sendInfoToOmnitureForPersistHeader('headerMyAccountMenuRegister')">Register</a><br> <p class="header-desc">Create a new account</p></li>
 </ul>
 
@@ -320,24 +317,63 @@ s.eVar19="289025984";
     $(document).ready(function () {
     });
 </script>
-        
+
+                                
+                            </div>
+                        </div>
+                        <div id="account_links">
+                            
+    <style>
+    #user-name {
+        width: 90px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+</style>
+
+<ul>
+    <li>
+        <a id="blue-link-a" href="/catalog/order_status.php" onclick="sendInfoToOmniture('headerTrackOrder')">
+            <img src="https://soimagescdn.azureedge.net/solayoutimages/headerredesign/icons/trackorder_icon.png" width="20" height="30">
+            <p style="margin:0px; cursor:pointer; font-size: 14px !important; line-height: 35px !important; color:#2196f3 !important">Track Order</p>
+        </a>
+    </li>
+</ul>
+
                         </div>
                     </section>
                     <section id="cart">
                         <p id="amount"></p>
-                        <a href="/catalog/shopping_cart" onclick="sendInfoToOmnitureForPersistHeader('headerShoppingCartLink')"><img src="/Content/Images/B_Site_Redesign/blank.png" alt="My Shopping Cart"></a>
+                        <a href="/catalog/shopping_cart" onclick="sendInfoToOmnitureForPersistHeader('headerShoppingCartLink')">
+                            <img src="https://soimagescdn.azureedge.net/solayoutimages/headerredesign/icons/cart_icon.png" width="30" height="30" alt="My Shopping Cart">
+                            <p id="cardText">Cart</p>
+                        </a>
                         <div class="minicart_dropdown">
                             <div id="img-loader">
-                                <img src="/Content/Images/SubcatRedesign/loading_32.gif" style="margin: 0 auto; display:block;">
+                                <img src="https://soimagescdn.azureedge.net/solayoutimages/SubcatRedesign/loading_32.gif" style="margin: 0 auto; display:block;">
                             </div>
                         </div>
                     </section>
                 </section>
+
+                <section id="header-menu">
+                    
+    <ul id="text_links">
+    <li><a href="/collection/complete-learning-spaces" onclick="sendInfoToOmniture('headerShopByRoom')">Shop by Room</a></li>
+    <li><a href="/brands" onclick="sendInfoToOmniture('headerBrand')">Shop by Brand</a></li>
+    <li><a href="/catalog/aboutus.php" onclick="sendInfoToOmniture('headerExpertHelp')">Expert Help &amp; Turnkey Solutions</a></li>
+    <li><a href="/resources" onclick="sendInfoToOmniture('headerArticlesHover')" id="blue-link-a" style="font-family:Arial; font-size:14px;padding-left:5px; text-align: center; height:30px;">Articles &amp; Information</a></li>
+    <li><a id="blue-link-a" href="/catalog/coops_contracts" onclick="sendInfoToOmniture('headerCoOpsContracts')">Pre-approved for Buying</a></li>
+</ul>
+
+                </section>
             </header>
         </div>
-        <main>
-             <section id="content">
-                 
+    </div>
+     <main>
+            <section id="content">
+                
 
 
 
@@ -365,195 +401,126 @@ s.eVar19="289025984";
         <td valign="top" style="width: 180px;">
             <div id="left_nav">
     
-    <ul id="cat_nav">
-<!--Vu Nguyen 7/7/2017 #58035 - 21st Century Learning Category Icon-->
-<div id="cat" class="21st" style="background: url('/Content/Images/B_Site_Redesign/21c-Icons_Blue 34x34.png') no-repeat 10px 14px; background-color:#FAFAFA; cursor:pointer;">
-    <span class="navsection header-collapse" style="margin: 0px 0px 0px 33px; border-bottom: 0px solid #E0E0E0;"> 
-        21st Century Learning
-    </span>
-    <ul style="border-top: 1px solid #E0E0E0;">
-            <li>
-            <a onclick="sendInfoToOmniture('LeftNav_21st_LearningStrategies');" style="font-size: 12px;" href="/learning-environment/21st-century-learning-strategies">Learning Strategies</a>
-            </li>
-            <li>
-            <a onclick="sendInfoToOmniture('LeftNav_21st_LearningSpaces');" style="font-size: 12px;" href="/learning-environment/21st-century-learning-spaces">Learning Spaces</a>
-            </li>
-            <li>
-            <a onclick="sendInfoToOmniture('LeftNav_21st_CaseStudies');" style="font-size: 12px;" href="/learning-environment/21st-century-learning-case-studies">Case Studies</a>
-            </li>
-            <li>
-            <a onclick="sendInfoToOmniture('LeftNav_21st_Bringing21stCenturySpacestoYourSchool');" style="font-size: 12px;" href="/learning-environment/bringing-21st-century-spaces">Bringing 21st Century Spaces to Your School</a>
-            </li>
-    </ul>
-</div>
-
-<script type="text/javascript">
-    $(document).ready(function () {
-        if ($('.header-collapse').length) {
-            $('.header-collapse').siblings('ul').hide();
-            if ($('.learning-subcat').length) {
-                $('.header-collapse').siblings('ul').show();
-                $('.header-collapse').addClass('header-expand');
-                $('.header-collapse').removeClass('header-collapse');
-            }
-        }
-        //        $('.header-collapse').live('click', function () {
-        //            $(this).siblings('ul').show();
-        //            $(this).removeClass('header-collapse');
-        //            $(this).addClass('header-expand');
-
-        //            /*Omniture tagging*/
-        //            var taggingValue = "21st_mainmenu_open";
-        //            sendInfoToOmniture(taggingValue);
-        //        });
-        //        $('.header-expand').live('click', function () {
-        //            $(this).siblings('ul').hide();
-        //            $(this).removeClass('header-expand');
-        //            $(this).addClass('header-collapse');
-
-        //            /*Omniture tagging*/
-        //            var taggingValue = "21st_mainmenu_close";
-        //            sendInfoToOmniture(taggingValue);
-        //        });
-
-        //Vu Nguyen - 8/10/2017 - #58923 - 21st Century not Clickable on LEAP page
-        $('.21st').click(function () {
-            var taggingValue = "21st_mainmenu_";
-            if ($(".21st").children(".navsection").hasClass("header-expand")) {
-                $(".21st").children(".navsection").removeClass('header-expand');
-                $(".21st").children(".navsection").addClass('header-collapse');
-                taggingValue += "close";
-                $(".21st").children("ul").hide();
-            }
-            else {
-                $(".21st").children(".navsection").removeClass('header-collapse');
-                $(".21st").children(".navsection").addClass('header-expand');
-                taggingValue += "open";
-                $(".21st").children("ul").show();
-            }
-
-            sendInfoToOmniture(taggingValue);
-        });
-    });
-</script><div id="cat">
+   <ul id="cat_nav">
+<div id="cat">
     <span class="navsection" style="margin: 0px">Promotions</span>
     <ul>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavOnSale');" style="color: #F4911E; font-size: 12px;" href="/catalog/default/cPath/CAT1164"><strong>On Sale</strong></a>
-            </li>            
                 <li>
-                    <a onclick="sendInfoToOmniture('LeftNavShipsin24');" style="color: #F4911E; font-size: 12px;" href="/browseby/ships-in-24"><strong>Ships in 24</strong></a>
+                    <a onclick="sendInfoToOmniture('LeftNavOnSale');" style="color: #F4911E;" href="/catalog/default/cPath/CAT1164"><strong>On Sale</strong></a>
+                </li>            
+                <li>
+                        <a onclick="sendInfoToOmniture('LeftNavShipsin24');" style="color: #F4911E; font-size: 12px;" href="/browseby/ships-in-24"><strong>Ships in 24</strong></a>
                 </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavClearance');" style="color: #F4911E; font-size: 12px;" href="/catalog/default/cPath/CAT408"><strong>Clearance</strong></a>
-            </li>            
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavClearance');" style="color: #F4911E;" href="/catalog/default/cPath/CAT408"><strong>Clearance</strong></a>
+                </li>            
     </ul>
 
     <span class="navsection" style="margin: 20px 0px 0px 0px;">Top Categories</span>
     <ul>
                 <li>
-                <a onclick="sendInfoToOmniture('LeftNavAVEquipment');" style="font-size: 12px;" href="/catalog/default/cPath/CAT1">AV Equipment</a>
+                <a onclick="sendInfoToOmniture('LeftNavAVEquipment');" href="/catalog/default/cPath/CAT1">AV Equipment</a>
                 </li>
                 <li>
-                <a onclick="sendInfoToOmniture('LeftNavChairs');" style="font-size: 12px;" href="/catalog/default/cPath/CAT2">Chairs</a>
+                <a onclick="sendInfoToOmniture('LeftNavChairs');" href="/catalog/default/cPath/CAT2">Chairs</a>
                 </li>
                 <li>
-                <a onclick="sendInfoToOmniture('LeftNavDesks');" style="font-size: 12px;" href="/catalog/default/cPath/CAT202">Desks</a>
+                <a onclick="sendInfoToOmniture('LeftNavDesks');" href="/catalog/default/cPath/CAT202">Desks</a>
                 </li>
                 <li>
-                <a onclick="sendInfoToOmniture('LeftNavPreschoolFurniture&amp;Equipment');" style="font-size: 12px;" href="/catalog/default/cPath/CAT5">Preschool Furniture &amp; Equipment</a>
+                <a onclick="sendInfoToOmniture('LeftNavPreschoolFurniture&amp;Equipment');" href="/catalog/default/cPath/CAT5">Preschool Furniture &amp; Equipment</a>
                 </li>
                 <li>
-                <a onclick="sendInfoToOmniture('LeftNavTables');" style="font-size: 12px;" href="/catalog/default/cPath/CAT10">Tables</a>
+                <a onclick="sendInfoToOmniture('LeftNavTables');" href="/catalog/default/cPath/CAT10">Tables</a>
                 </li>
     </ul>
 
     <span class="navsection" style="margin: 20px 0px 0px 0px;">Categories</span>
     <ul>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavArt&amp;CraftSupplies');" style="font-size: 12px;" href="/catalog/default/cPath/CAT1995">Art &amp; Craft Supplies</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavBulletinBoards&amp;LetterBoards');" style="font-size: 12px;" href="/catalog/default/cPath/CAT385">Bulletin Boards &amp; Letter Boards</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavCafeteria&amp;FoodService');" style="font-size: 12px;" href="/catalog/default/cPath/CAT583">Cafeteria &amp; Food Service</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavCarts');" style="font-size: 12px;" href="/catalog/default/cPath/CAT467">Carts</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavClassroomRugs');" style="font-size: 12px;" href="/catalog/default/cPath/CAT435">Classroom Rugs</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavComputerFurniture');" style="font-size: 12px;" href="/catalog/default/cPath/CAT11">Computer Furniture</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavDrafting&amp;ArtFurniture');" style="font-size: 12px;" href="/catalog/default/cPath/CAT605">Drafting &amp; Art Furniture</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavDryErase&amp;GlassBoards');" style="font-size: 12px;" href="/catalog/default/cPath/CAT384">Dry Erase &amp; Glass Boards</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavEducationalTechnology');" style="font-size: 12px;" href="/catalog/default/cPath/CAT726">Educational Technology</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavFacilityEquipment');" style="font-size: 12px;" href="/catalog/default/cPath/CAT1902">Facility Equipment</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavGym&amp;SportsEquipment');" style="font-size: 12px;" href="/catalog/default/cPath/CAT2269">Gym &amp; Sports Equipment</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavIndustrial&amp;VocationalArtsFurniture');" style="font-size: 12px;" href="/catalog/default/cPath/CAT617">Industrial &amp; Vocational Arts Furniture</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavLibrary&amp;MediaCenterFurniture');" style="font-size: 12px;" href="/catalog/default/cPath/CAT6">Library &amp; Media Center Furniture</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavLockers');" style="font-size: 12px;" href="/catalog/default/cPath/CAT195">Lockers</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavMakerspace');" style="font-size: 12px;" href="/catalog/default/cPath/CAT2690">Makerspace</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavMedicalFurniture&amp;Equipment');" style="font-size: 12px;" href="/catalog/default/cPath/CAT906">Medical Furniture &amp; Equipment</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavMusicFurniture&amp;Equipment');" style="font-size: 12px;" href="/catalog/default/cPath/CAT792">Music Furniture &amp; Equipment</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavOfficeFurniture');" style="font-size: 12px;" href="/catalog/default/cPath/CAT424">Office Furniture</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavOutdoorClassroom');" style="font-size: 12px;" href="/catalog/default/cPath/CAT2703">Outdoor Classroom</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavOutdoorFurniture&amp;ParkEquipment');" style="font-size: 12px;" href="/catalog/default/cPath/CAT2287">Outdoor Furniture &amp; Park Equipment </a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavPlaygroundEquipment');" style="font-size: 12px;" href="/catalog/default/cPath/CAT563">Playground Equipment</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavPortableStages&amp;Risers');" style="font-size: 12px;" href="/catalog/default/cPath/CAT8">Portable Stages &amp; Risers </a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavRoomDividers&amp;Partitions');" style="font-size: 12px;" href="/catalog/default/cPath/CAT189">Room Dividers &amp; Partitions</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavScienceFurniture&amp;LabEquipment');" style="font-size: 12px;" href="/catalog/default/cPath/CAT530">Science Furniture &amp; Lab Equipment</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavStorageCabinets&amp;Shelving');" style="font-size: 12px;" href="/catalog/default/cPath/CAT9">Storage Cabinets &amp; Shelving</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavTeacherClassroomSupplies');" style="font-size: 12px;" href="/catalog/default/cPath/CAT1681">Teacher Classroom Supplies</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavTrophy&amp;DisplayCases');" style="font-size: 12px;" href="/catalog/default/cPath/CAT4">Trophy &amp; Display Cases</a>
-            </li>
-            <li>
-                <a onclick="sendInfoToOmniture('LeftNavWheelchair&amp;ADA');" style="font-size: 12px;" href="/catalog/default/cPath/CAT1639">Wheelchair &amp; ADA </a>
-            </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavArt&amp;CraftSupplies');" href="/catalog/default/cPath/CAT1995">Art &amp; Craft Supplies</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavBulletinBoards&amp;LetterBoards');" href="/catalog/default/cPath/CAT385">Bulletin Boards &amp; Letter Boards</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavCafeteria&amp;FoodService');" href="/catalog/default/cPath/CAT583">Cafeteria &amp; Food Service</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavCarts');" href="/catalog/default/cPath/CAT467">Carts</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavClassroomRugs');" href="/catalog/default/cPath/CAT435">Classroom Rugs</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavComputerFurniture');" href="/catalog/default/cPath/CAT11">Computer Furniture</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavDrafting&amp;ArtFurniture');" href="/catalog/default/cPath/CAT605">Drafting &amp; Art Furniture</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavDryErase&amp;GlassBoards');" href="/catalog/default/cPath/CAT384">Dry Erase &amp; Glass Boards</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavEducationalTechnology');" href="/catalog/default/cPath/CAT726">Educational Technology</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavFacilityEquipment');" href="/catalog/default/cPath/CAT1902">Facility Equipment</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavGym&amp;SportsEquipment');" href="/catalog/default/cPath/CAT2269">Gym &amp; Sports Equipment</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavIndustrial&amp;VocationalArtsFurniture');" href="/catalog/default/cPath/CAT617">Industrial &amp; Vocational Arts Furniture</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavLibrary&amp;MediaCenterFurniture');" href="/catalog/default/cPath/CAT6">Library &amp; Media Center Furniture</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavLockers');" href="/catalog/default/cPath/CAT195">Lockers</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavMakerspace');" href="/catalog/default/cPath/CAT2690">Makerspace</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavMedicalFurniture&amp;Equipment');" href="/catalog/default/cPath/CAT906">Medical Furniture &amp; Equipment</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavMusicFurniture&amp;Equipment');" href="/catalog/default/cPath/CAT792">Music Furniture &amp; Equipment</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavOfficeFurniture');" href="/catalog/default/cPath/CAT424">Office Furniture</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavOutdoorClassroom');" href="/catalog/default/cPath/CAT2703">Outdoor Classroom</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavOutdoorFurniture&amp;ParkEquipment');" href="/catalog/default/cPath/CAT2287">Outdoor Furniture &amp; Park Equipment </a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavPlaygroundEquipment');" href="/catalog/default/cPath/CAT563">Playground Equipment</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavPortableStages&amp;Risers');" href="/catalog/default/cPath/CAT8">Portable Stages &amp; Risers </a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavRoomDividers&amp;Partitions');" href="/catalog/default/cPath/CAT189">Room Dividers &amp; Partitions</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavScienceFurniture&amp;LabEquipment');" href="/catalog/default/cPath/CAT530">Science Furniture &amp; Lab Equipment</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavStorageCabinets&amp;Shelving');" href="/catalog/default/cPath/CAT9">Storage Cabinets &amp; Shelving</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavTeacherClassroomSupplies');" href="/catalog/default/cPath/CAT1681">Teacher Classroom Supplies</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavTrophy&amp;DisplayCases');" href="/catalog/default/cPath/CAT4">Trophy &amp; Display Cases</a>
+                </li>
+                <li>
+                    <a onclick="sendInfoToOmniture('LeftNavWheelchair&amp;ADA');" href="/catalog/default/cPath/CAT1639">Wheelchair &amp; ADA </a>
+                </li>
     </ul>
 </div>    </ul>
 
@@ -681,6 +648,8 @@ s.eVar19="289025984";
 
 
 
+
+
 <script type="text/javascript">
 
     $("#btn_app_selling").click(function () {
@@ -691,11 +660,272 @@ s.eVar19="289025984";
 
 </script>
 
-             </section>
-        </main>
+
+
+            </section>
+    </main> 
+    <style type="text/css">
+    .so-modal-container
+    {
+        font-family: Arial, Helvetica, Helvetica Neue, sans-serif;
+        font-size: 16px;
+    }
+    .so-modal-container .show {
+	    opacity: 1;
+	    visibility: visible;
+	    z-index: 999;
+    }
+    .so-modal-container .hide {
+	    opacity: 0;
+	    overflow: hidden;
+	    height: 0px;
+	    margin: 0px;
+	    padding: 0px;
+    }
+    .so-modal_bg {
+	    opacity: 0;
+	    visibility: hidden;
+	    position: fixed;
+	    top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+	    width: 100%;
+	    height: 100%;
+	    background-color: rgba(0,0,0,0.50);
+	    transition: opacity .5s;
+	    text-align: center;
+    }
+    .so-modal_window {
+	    padding: 20px;
+	    border-radius: 5px;
+	    background-color: rgba(255,255,255,1.00);
+	    box-shadow: 0 0 4px 0 rgba(0,0,0,.5);
+	    font-size: 16px;
+	    display: inline-block;
+	    margin-top: 25px;
+    }
+
+    .so-modal_window .close > img {
+	    width: 16px;
+	    height: 16px;
+	    background-image: url(https://soimagescdn.azureedge.net/solayoutimages/modal-window/btn_close.png);
+    }
+    .so-modal_window .close > img:hover {
+	    background-image: url(https://soimagescdn.azureedge.net/solayoutimages/modal-window/btn_close_hover.png);
+    }
+    
+    .so-modal_content {text-align: center}
+    
+
+</style>
+
+<div class="so-modal-container">
+    <div class="so-modal_bg">
+	    <div class="so-modal_window">
+            <div id="so-modal_window-close" style="position: relative">
+                <div style="position: absolute; width: 100%; text-align: right; right: -44px; top: -21px">
+		        <a href="javascript:void()" class="close"><img src="https://soimagescdn.azureedge.net/solayoutimages/modal-window/blank.gif" alt="close"></a>
+                </div>
+            </div>
+		    <div class="so-modal_content" id="so-modal_content">
+			    <img class="swars_loading" src="https://soimagescdn.azureedge.net/solayoutimages/modal-window/ajax-loader.gif" width="24px" height="24px" alt="loading...">
+            </div>
+        </div>
     </div>
+</div>
+
+<script type="text/javascript">
+    function ini(onclickEventTagging, closeEventTagging) {
+        $('.so-modal-container > .so-modal_bg').addClass('show');
+        $("#so-modal_window-close").show();
+
+        if (onclickEventTagging !== 'undefined' && onclickEventTagging !== '') {
+            sendInfoToOmniture(onclickEventTagging);
+        }
+
+        $('.so-modal_window').off('click', '.close, .close-button').on('click', '.close, .close-button', function (event) {
+            $('.so-modal_bg').removeClass('show');
+            if ($('.so-modal_content').hasClass('hide')) {
+                $('.so-modal_window').addClass('hide');
+                $('.so-modal_content').removeClass('hide');
+            }
+            $('.so-modal_content').html('<img class="swars_loading" src="https://soimagescdn.azureedge.net/solayoutimages/modal-window/ajax-loader.gif" width="24px" height="24px" alt="loading..." />');
+
+            if (closeEventTagging !== "undefined" && closeEventTagging !== "" && $(this).hasClass("close")) {
+                sendInfoToOmniture(closeEventTagging);
+            }
+        });
+
+        $(document).on('click', '.so-modal_bg', function (event) {
+            if (!$(event.target).closest('.so-modal_window').length) {
+                $('.so-modal_bg').removeClass('show');
+                $('.so-modal_content').html('<img class="swars_loading" src="https://soimagescdn.azureedge.net/solayoutimages/modal-window/ajax-loader.gif" width="24px" height="24px" alt="loading..." />');
+            }
+        });
+    }
+
+    function OpenModalWindowWithoutCloseEvent(url, onclickEventTagging) {
+        //validation
+        if (url === 'undefined' || url === '')
+            return false;
+
+        $('.so-modal-container > .so-modal_bg').addClass('show');
+
+        if (onclickEventTagging !== 'undefined' && onclickEventTagging !== '') {
+            sendInfoToOmniture(onclickEventTagging);
+        }
+
+        $.ajax({
+            type: "GET",
+            cache: true,
+            url: url,
+            beforeSend: function (xhr) {
+                $('.swars_loading').show();
+                xhr.setRequestHeader('X-Client', 'jQuery');
+            },
+            success: function (data) {
+                $("#so-modal_window-close").hide();
+                $("#so-modal_content").html(data);
+            },
+            complete: function () {
+                $('.swars_loading').hide();
+                $('.so-modal_content').removeClass('hide');
+            }
+        });
+    }
+
+    function OpenModalWindowWithCustomCloseUrl(url, onclickEventTagging, closeEventTagging, openURLAfterClose) {
+        //validation
+        if (url === 'undefined' || url === '' || openURLAfterClose === 'undefined' || openURLAfterClose === '')
+            return false;
+
+        $('.so-modal-container > .so-modal_bg').addClass('show');
+
+        if (onclickEventTagging !== 'undefined' && onclickEventTagging !== '') {
+            sendInfoToOmniture(onclickEventTagging);
+        }
+
+        $('.so-modal_window').off('click', '.close, .close-button').on('click', '.close, .close-button', function (event) {
+            if (closeEventTagging !== "undefined" && closeEventTagging !== "" && $(this).hasClass("close")) {
+                sendInfoToOmniture(closeEventTagging);
+            }
+
+            window.location = openURLAfterClose;
+        });
+
+        $(document).on('click', '.so-modal_bg', function (event) {
+            if (!$(event.target).closest('.so-modal_window').length) {
+                window.location = openURLAfterClose;
+            }
+        });
+
+        $.ajax({
+            type: "GET",
+            cache: true,
+            url: url,
+            beforeSend: function (xhr) {
+                $('.swars_loading').show();
+                xhr.setRequestHeader('X-Client', 'jQuery');
+            },
+            success: function (data) {
+                $("#so-modal_content").html(data);
+            },
+            complete: function () {
+                $('.swars_loading').hide();
+                $('.so-modal_content').removeClass('hide');
+            }
+        });
+    }
+
+    function OpenModalWindow(url, onclickEventTagging, closeEventTagging) {
+        //validation
+        if (url === 'undefined' || url === '')
+            return false;
+
+        ini(onclickEventTagging, closeEventTagging);
+
+        $('.swars_loading').show();
+
+        $("#so-modal_content").load(url, function () {
+            $('.swars_loading').hide();
+            $('.so-modal_content').removeClass('hide');
+        });
+
+//        $.ajax({
+//            url: url,
+//            contentType: "application/html; charset=utf-8",
+//            type: "GET",
+//            cache: false,
+//            datatype: "html",  
+//            success: function (data) {
+//                $("#so-modal_content").html(data);
+//            },
+//            complete: function () {
+//                $('.swars_loading').hide();
+//                $('.so-modal_content').removeClass('hide');
+//            }
+//        });
+    }
+
+    function OpenModalWindowWithForgeryToken(url, onclickEventTagging, closeEventTagging, token) {
+
+        //validation
+        if (url === 'undefined' || url === '' || token === 'undefined' || token === '')
+            return false;
+
+        ini(onclickEventTagging, closeEventTagging);
+
+        var data = {
+            __RequestVerificationToken: token
+        };
+
+        $.ajax({
+            type: "POST",
+            url: url,
+            data: data,
+            beforeSend: function (xhr) {
+                $('.swars_loading').show();
+                xhr.setRequestHeader('X-Client', 'jQuery');
+            },
+            success: function (data) {
+                $("#so-modal_content").html(data);
+            },
+            complete: function () {
+                $('.swars_loading').hide();
+                $('.so-modal_content').removeClass('hide');
+            }
+        });
+    }
+
+    function PopupHtmlContent(content, onclickEventTagging, closeEventTagging) {
+
+        //validation
+        if (url === 'undefined' || url === '')
+            return false;
+
+        ini(onclickEventTagging, closeEventTagging);
+        $('.swars_loading').show();
+
+        $("#so-modal_content").html(content);
+
+        $('.swars_loading').hide();
+        $('.so-modal_content').removeClass('hide');
+    }
+
+    function EnlargeImage(imageUrl, onclickEventTagging, closeEventTagging) {
+
+        //validation
+        if (imageUrl === 'undefined' || imageUrl === '')
+            return false;
+
+        ini(onclickEventTagging, closeEventTagging);
+
+        $("#so-modal_content").html('<img src="' + imageUrl + '" />');
+    }
+</script>
     <div style="clear: both; margin: 0 auto; padding-top: 14px;">
-    <p style="font-family: Arial,Verdana,Helvetica,sans-serif;text-align: center; margin: 19px 0px; font-size: 11px">
+    <p style="font-family: Arial,Verdana,Helvetica,sans-serif;text-align: center; margin: 19px 0px; font-size: 12px">
         <a class="a_link_b" href="#">Back to top</a>
     </p>
 </div>
@@ -706,7 +936,7 @@ s.eVar19="289025984";
 				<h4>Sales</h4>
 				<p>
 					<span class="phone_number">1-800-260-2776</span><br>
-					M-F: 8-8 Eastern
+                    M-F: 8-7 Eastern
 				</p>
 				<ul>
 					<li>Fax: 1-800-494-1036</li>
@@ -718,7 +948,7 @@ s.eVar19="289025984";
 				<h4>Customer Care</h4>
 				<p>
 					<span class="phone_number">1-866-619-1776</span><br>
-					M-F: 8-8 Eastern
+                    M-F: 8-7 Eastern
 				</p>
 				<ul>
 					<li><a onclick="sendInfoToOmniture('footerEmailCustomerService');" href="mailto:customerservice@schooloutfitters.com">Email <span itemprop="name">Customer Service</span></a></li>
@@ -732,6 +962,7 @@ s.eVar19="289025984";
 			<section>
 				<h4>Resources</h4>
 				<ul>
+                    <li><a href="/brochures">Brochures &amp; Catalogs</a></li>
 					<li><a href="/catalog/goodthingstoknow.html">Buying Guides</a></li>
 					<li><a href="/catalog/coops_contracts">Co-ops &amp; Contracts</a></li>
 					<li><a href="/catalog/faq.php">Frequently Asked Questions</a></li>
@@ -754,7 +985,9 @@ s.eVar19="289025984";
 				</span></strong></p>
 				<ul>
 					<li><a href="/catalog/aboutus.php">About Us</a></li>
-					<li><a onclick="sendInfoToOmniture('FooterCareers');" href="http://newton.newtonsoftware.com/career/CareerHome.action?clientId=8acf1691467adae2014687993d761179" target="_blank" rel="nofollow">Careers</a></li>
+                    <!-- Tu Nguyen - #71585 Redirect URL-->
+					<li><a onclick="sendInfoToOmniture('FooterCareers');" href="/careers" target="_blank" rel="nofollow">Careers</a></li>
+                    <!--End #71585-->
 					<li><a href="/catalog/privacy.php">Privacy Policy</a></li>
 				</ul>
 			</section>
@@ -771,29 +1004,30 @@ s.eVar19="289025984";
 			</div>
 			<div class="credit_card">
 				<p>Accepted Payment Types:</p>
-				<ul>
-					<li><img src="/Content/Images/ProductPageRedesign/icon_cc_visa.png" alt="Visa" title="Visa"></li>
-					<li><img src="/Content/Images/ProductPageRedesign/icon_cc_mastercard.png" alt="Mastercard" title="MasterCard"></li>
-					<li><img src="/Content/Images/ProductPageRedesign/icon_cc_amex.png" alt="America Express" title="American Express"></li>
-					<li><img src="/Content/Images/ProductPageRedesign/icon_cc_discover.png" alt="Discover" title="Discover"></li>
-					<li><img src="/Content/Images/ProductPageRedesign/icon_cc_check.png" alt="Check" title="Check"></li>
-					<li><a href="/catalog/help.php#PurchaseOrders" title="Purchase Order"><img src="/Content/Images/ProductPageRedesign/icon_cc_po.png" alt="Purchase Order"></a></li>
+				<ul style="width: 371px">
+					<li><img src="https://soimagescdn.azureedge.net/solayoutimages/ProductPageRedesign/icon_cc_visa.png" alt="Visa" title="Visa"></li>
+					<li><img src="https://soimagescdn.azureedge.net/solayoutimages/ProductPageRedesign/icon_cc_mastercard.png" alt="Mastercard" title="MasterCard"></li>
+					<li><img src="https://soimagescdn.azureedge.net/solayoutimages/ProductPageRedesign/icon_cc_amex.png" alt="America Express" title="American Express"></li>
+					<li><img src="https://soimagescdn.azureedge.net/solayoutimages/ProductPageRedesign/icon_cc_discover.png" alt="Discover" title="Discover"></li>
+					<li><img src="https://soimagescdn.azureedge.net/solayoutimages/ProductPageRedesign/icon_cc_check.png" alt="Check" title="Check"></li>
+					<li><a href="/catalog/help.php#PurchaseOrders" title="Purchase Order"><img src="https://soimagescdn.azureedge.net/solayoutimages/ProductPageRedesign/icon_cc_po.png" alt="Purchase Order"></a></li>
+                        <li><img src="https://soimagescdn.azureedge.net/solayoutimages/amazonpay/amazon_payments_footer_3272018.png" style="border-radius: 2px" alt="Amazon Pay" title="Amazon Pay"></li>
 				</ul>
 			</div>
 			<div class="social_media">
 				<p>Join the Conversation:</p>
 				<ul>
-					<li><a onclick="return sendInfoToOmniture('footerFacebookButton');" itemprop="sameAs" href="http://www.facebook.com/SchoolOutfitters" rev="external" target="_blank" rel="http://www.facebook.com/SchoolOutfitters nofollow" title="School Outfitters Facebook"><img src="/Content/Images/ProductPageRedesign/icon_facebook.png" alt="Facebook" style="width: 30px; height: 30px;"></a></li>
-					<li><a onclick="return sendInfoToOmniture('footerPinterestButton');" itemprop="sameAs" href="http://pinterest.com/schooloutfitter" rev="external" target="_blank" rel="http://pinterest.com/schooloutfitter nofollow" title="School Outfitters Pinterest"><img src="/Content/Images/ProductPageRedesign/icon_pinterest.png" alt="Pinterest" style="width: 30px; height: 30px;"></a></li>
+					<li><a onclick="return sendInfoToOmniture('footerFacebookButton');" itemprop="sameAs" href="http://www.facebook.com/SchoolOutfitters" rev="external" target="_blank" rel="http://www.facebook.com/SchoolOutfitters nofollow" title="School Outfitters Facebook"><img src="https://soimagescdn.azureedge.net/solayoutimages/ProductPageRedesign/icon_facebook.png" alt="Facebook" style="width: 30px; height: 30px;"></a></li>
+					<li><a onclick="return sendInfoToOmniture('footerPinterestButton');" itemprop="sameAs" href="http://pinterest.com/schooloutfitter" rev="external" target="_blank" rel="http://pinterest.com/schooloutfitter nofollow" title="School Outfitters Pinterest"><img src="https://soimagescdn.azureedge.net/solayoutimages/ProductPageRedesign/icon_pinterest.png" alt="Pinterest" style="width: 30px; height: 30px;"></a></li>
 				</ul>
 			</div>
 			<div class="bbb">
 				<p>Shop with Confidence:</p>
 				<ul>
 					<li><a href="javascript:newwindow('https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.SCHOOLOUTFITTERS.COM&amp;lang=en','verisign',540,480)" rel="nofollow" title="Norton Secured">
-                    <img src="/Content/Images/ProductPageRedesign/trust_norton.png" alt="Norton Secured">
+                    <img src="https://soimagescdn.azureedge.net/solayoutimages/ProductPageRedesign/trust_norton.png" alt="Norton Secured">
                     </a></li>
-					<li><a href="http://www.bbb.org/cincinnati/business-reviews/school-furniture-and-equipment/schooloutfitters-com-in-cincinnati-oh-11004218/" title="Better Business Bureau Accredited Business"><img src="/Content/Images/ProductPageRedesign/trust_bbb.png" alt="Better Business Bureau"></a></li>
+					<li><a href="http://www.bbb.org/cincinnati/business-reviews/school-furniture-and-equipment/schooloutfitters-com-in-cincinnati-oh-11004218/" title="Better Business Bureau Accredited Business"><img src="https://soimagescdn.azureedge.net/solayoutimages/ProductPageRedesign/trust_bbb.png" alt="Better Business Bureau"></a></li>
 				</ul>
 			</div>
 		</div>
@@ -803,7 +1037,7 @@ s.eVar19="289025984";
 <div class="subscription-container">
     <div class="modal_bg">
 	    <div class="modal_window">
-		    <a href="javascript:void()" onclick="sendInfoToOmniture('Email Subscribe:Modal Window Cancel Button');" class="close"><img src="/Content/Images/subscription/blank.gif" alt="close"></a>
+		    <a href="javascript:void()" onclick="sendInfoToOmniture('Email Subscribe:Modal Window Cancel Button');" class="close"><img src="https://soimagescdn.azureedge.net/solayoutimages/subscription/blank.gif" alt="close"></a>
 		    <div class="thank_you hide">
 			    <h3 style="text-align: center;">Thank you for signing up! Watch your inbox for exclusive coupon offers, sales alerts, and updates about new products.</h3>
 			    <div class="field_block">
@@ -982,7 +1216,7 @@ s.eVar19="289025984";
         </ul>
     </div>
 </div>
-<div id="modal_captcha" class="g-recaptcha field_block" style="margin: 10px 0px 0px 0px;"></div>
+<div id="modal_captcha" data-sitekey="6LciFUkUAAAAAEkEfESvcTIo2LIQbRHnb9kKS7fg" data-size="invisible"></div>
 <p id="modal_captcha_error" class="error"></p>
 <div class="field_block">
     <a href="javascript:void()" class="subscribe-button">Subscribe</a>
@@ -1030,13 +1264,18 @@ s.eVar19="289025984";
         if (typeof PageIntroCopy === "undefined") PageIntroCopy = "";
 
         $('a[id=email_this_page]').click(function () {
-            postwith('/catalog/EmailThisPage_B', { PageTitle: PageTitle, PageHeader: PageHeader, PageIntroCopy: PageIntroCopy, PageUrl: PageUrl })
+            var emailthispageproductfamily = $("#email_this_page_for_productfamily");
+            if (emailthispageproductfamily != undefined && emailthispageproductfamily.length > 0) {
+                emailthispageproductfamily.trigger("click");
+            } else {
+                postwith('/catalog/EmailThisPage_B', { PageTitle: PageTitle, PageHeader: PageHeader, PageIntroCopy: PageIntroCopy, PageUrl: PageUrl })                
+            }
             sendInfoToOmniture('footerEmailThisPage');
             return false;
         });
     });
     //End - Email this page function
-</script>
+</script> 
    
     
     
@@ -1047,16 +1286,20 @@ s.eVar19="289025984";
     <div id="tipDiv" style="position: absolute; z-index: 1000; display: none"> </div>
     <div id="tipDivPromo" style="position: absolute; z-index: 1000; display: none">
     </div>
-<script src="/RequestReduceContent/31edc966913a6a73dc2ca4c4fd24ab4b-2863f48cb7de720bccfa4e0416a8c712-RequestReducedScript.js" type="text/javascript"></script>        
-        
-            
+<script type="text/javascript" src="/resource/script/v20190104/jquery-ui-1.12.1.min.js"></script>
+    <script type="text/javascript" src="/resource/script/v20190104/jquery.validate.min.js"></script>
+    
+    <script type="text/javascript" src="/resource/script/v20190104/jquery.cookie.js"></script>
+    
+    <script type="text/javascript" src="/resource/script/v20190104/product_b.js"></script>
+    <script type="text/javascript" src="/resource/script/v20190104/jquery.cookie.js"></script>
+    
 
 
     
     <!--Dang Le - 8/29/2016 - 48099 - LivePerson LiveEngage Upgrade - Remove old code -->
-
+    
     <script type="text/javascript">
-
         $(document).ready(function () {
             $("#popupContactClose").click(function () {
                 $("#popupContact").hide();
@@ -1066,44 +1309,44 @@ s.eVar19="289025984";
     var timeOutDuration = null;
     var envOmnitureTrackingTimer = 0;
     $("li[id='headerFlyMenu']").mouseover(function () {
-        var $evar51Value = $(this).attr('rev');
-        envOmnitureTrackingTimer = 1;
-        timeOutDuration = setTimeout(function () {
-            if (envOmnitureTrackingTimer > 0) {
-                trackHoverMenu($evar51Value);
-            }
-        }, 1000);
+    var $evar51Value = $(this).attr('rev');
+    envOmnitureTrackingTimer = 1;
+    timeOutDuration = setTimeout(function () {
+    if (envOmnitureTrackingTimer > 0) {
+    trackHoverMenu($evar51Value);
+    }
+    }, 1000);
     }).mouseout(function () {
-        if (timeOutDuration != null) {
-            clearTimeout(timeOutDuration);
-            timeOutDuration = null;
-        }
-        envOmnitureTrackingTimer = 0;
+    if (timeOutDuration != null) {
+    clearTimeout(timeOutDuration);
+    timeOutDuration = null;
+    }
+    envOmnitureTrackingTimer = 0;
     });
     //Co-cop contract
     $("li[id='coopContract']").mouseover(function () {
-        var check_exitCoopContract_tooltip = 0;
-        $('ul').each(function () {
-            if ($(this).attr('id') == 'email_this_page') {
-                $("div[id='CoopContract_tooltip']").css("left", "536px");
-                $("div[id='CoopContract_tooltip']").css("display", "block");
-                check_exitCoopContract_tooltip = 1;
-            }
-        });
-        if (check_exitCoopContract_tooltip == 0) {
-            $("div[id='CoopContract_tooltip']").css("left", "403px");
-            $("div[id='CoopContract_tooltip']").css("display", "block");
-        }
+    var check_exitCoopContract_tooltip = 0;
+    $('ul').each(function () {
+    if ($(this).attr('id') == 'email_this_page') {
+    $("div[id='CoopContract_tooltip']").css("left", "536px");
+    $("div[id='CoopContract_tooltip']").css("display", "block");
+    check_exitCoopContract_tooltip = 1;
+    }
+    });
+    if (check_exitCoopContract_tooltip == 0) {
+    $("div[id='CoopContract_tooltip']").css("left", "403px");
+    $("div[id='CoopContract_tooltip']").css("display", "block");
+    }
     }).mouseout(function () {
-        $("div[id='CoopContract_tooltip']").css("display", "none");
+    $("div[id='CoopContract_tooltip']").css("display", "none");
     });
     $("div[id='CoopContract_tooltip']").mouseover(function () {
-        $(this).css("display", "block");
-        $(this).css("cursor", "pointer");
-        $("img[id='Button_Coop_Contract']").attr("src", "/Content/images/Co-opsContracts/Contracts_on.png");
+    $(this).css("display", "block");
+    $(this).css("cursor", "pointer");
+    $("img[id='Button_Coop_Contract']").attr("src", "https://soimagescdn.azureedge.net/solayoutimages/Co-opsContracts/Contracts_on.png");
     }).mouseout(function () {
-        $(this).css("display", "none");
-        $("img[id='Button_Coop_Contract']").attr("src", "/Content/images/Co-opsContracts/Contracts.png");
+    $(this).css("display", "none");
+    $("img[id='Button_Coop_Contract']").attr("src", "https://soimagescdn.azureedge.net/solayoutimages/Co-opsContracts/Contracts.png");
     });
     
     $("a[rev='externalLink']").click(function() { window.open($(this).attr("rel"));
@@ -1111,11 +1354,23 @@ s.eVar19="289025984";
     
 
 
+
+            // VB - 63988 - Open video on Modal Window
+		    $(document).on("click", "*[id^='PlayVideo']" , function(event) {
+                event.preventDefault();
+                var videoSrc = $(this).attr('data-video');
+                var videoPoster = $(this).attr('data-coverimage');
+                var autoPlay = !!+($(this).attr('data-aut_play'));
+                var omnitureTag = 'Video'
+                omnitureTag += '_' + getVideoName(videoSrc)
+                omnitureTag += '_' + "Privacy Policy";
+                OpenModalWindow('/partialview/VideoPlayer?source=' + videoSrc + '&poster=' + videoPoster + '&autoplay=' + autoPlay, omnitureTag, '');
+            });
         });
         
         $(document).ready(function () {
-            trackingVisitor('/Home/aSyncJobs','currentUrl=http://www.schooloutfitters.com/catalog/privacy.php');
-        });
+            trackingVisitor('/Home/aSyncJobs','currentUrl=https://www.schooloutfitters.com/catalog/privacy.php');
+        });   
 
         // Tan Tran - May 19th,2015 - New behavior for adding item to cart
         $(document).ready(function ()
@@ -1129,54 +1384,78 @@ s.eVar19="289025984";
             var miniCart = $("div.minicart_dropdown");
 
             cartBtn.mouseenter(function () {
-                showMiniCart(miniCart, "false");
+                showMiniCart(miniCart);
             });
 
             cartBtn.mouseleave(function () {
                 hideMiniCart(miniCart);
             });
 
-            showMiniCartWhenRefrestPage(miniCart, "false");
+            showMiniCartWhenRefrestPage(miniCart);
         });
 
-        function showMiniCart($miniCart, $newItemAdded) {
+        var addNewItem = false;
+        function showMiniCartContent($miniCart, $content) {
             $miniCart.css("opacity", "1");
             $miniCart.css("display", "block");
 
-            var miniCartActionUrl = "/Cart/MiniCart?newAddedItem=false".replace("false", $newItemAdded);
-            $miniCart.load
-            (
-                miniCartActionUrl,
-                {},
-                function () {
-                    // Make mini cart appear
-                    displayMiniCart($miniCart);
+            $miniCart.html($content);
+            // Make mini cart appear
+            displayMiniCart($miniCart);
+            $("p#amount").text(getCartCount());
 
-                    if ($newItemAdded == "true")
-                    {
-                        var s = s_gi('socom');
-                        s.pageName = "Mini Cart";
-                        s.tl();
-                    }
-                    $("p#amount").text(getCartCount());
-                }
-            );
+            addNewItem = true;
+
+            var s = s_gi('socom');
+            s.pageName = "Mini Cart";
+            s.tl();
         }
 
-        function showMiniCartWhenRefrestPage($miniCart, $newItemAdded) {
-            var miniCartActionUrl = "/Cart/MiniCart?newAddedItem=false".replace("false", $newItemAdded);
-            $miniCart.load
-            (
-                miniCartActionUrl,
-                {},
-                function () {
+        function showMiniCart($miniCart) {
+            if(addNewItem === true)
+            {
+                displayMiniCart($miniCart);
+            }
+            else {
+                var miniCartActionUrl = "/Cart/MiniCart";
+                $.ajax({
+                    type: 'GET',
+                    url: miniCartActionUrl,
+                    async: true,
+                    cache: false,
+                    beforeSend: function() {
+                        $miniCart.html('<div id="img-loader"><img src="https://soimagescdn.azureedge.net/solayoutimages/SubcatRedesign/loading_32.gif" style="margin: 0 auto; display:block;" /></div>');
+                        $miniCart.css("opacity", "1");
+                        $miniCart.css("display", "block");
+                    },
+                    success: function (data) {
+                        $miniCart.html(data);
+                    },
+                    complete: function() {
+                        // Make mini cart appear
+                        displayMiniCart($miniCart);
+                        $("p#amount").text(getCartCount());
+                    }
+                });
+            }
+        }
+
+        function showMiniCartWhenRefrestPage($miniCart) {
+            var miniCartActionUrl = "/Cart/MiniCart";
+            $.ajax({
+                type: 'GET',
+                url: miniCartActionUrl,
+                async: true,
+                cache: false,
+                success: function (data) {
+                    $miniCart.html(data);
                     $miniCart.css("opacity", "0");
                     $miniCart.css("display", "none");
                     $("div#cart-info").css("display", "none");
                     $("#img-loader").css("display", "none");
                     $("p#amount").text(getCartCount());
                 }
-            );
+            });
         }
 
         function displayMiniCart($miniCart) {
@@ -1188,6 +1467,7 @@ s.eVar19="289025984";
             $miniCart.css("opacity", "0");
             $miniCart.css("display", "none");
             $("div#cart-info").css("display", "none");
+            addNewItem = false;
         }
 
         function myAccountImageLink() {
@@ -1200,7 +1480,7 @@ s.eVar19="289025984";
                 sendInfoToOmnitureForPersistHeader('headerMyAccountLogIn');
                 window.location = '/catalog/login.php';
             }
-        }
+        }        
     </script>
     
     
@@ -1237,15 +1517,34 @@ s.eVar19="289025984";
                  bsw.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.bronto.com/s/b.min.js';
                  var t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(bsw, t);
              })();
-            
-            var brontoJSON = "";
+
+             var brontoJSON = "";
        }
     </script>
 
-    <script type="text/javascript" src="/resource/script/v20180118/bsite/plugins.js"></script>
-    <script type="text/javascript" src="/resource/script/v20180118/bsite/main.js"></script>
-    <script type="text/javascript" src="/resource/script/v20180118/parsley.min.js"></script>
-    <script type="text/javascript" src="/resource/script/v20180118/subscription.js"></script>
-    <script src="//www.google.com/recaptcha/api.js?onload=onloadCaptchaCallback&amp;render=explicit" async="" defer=""></script>
+    <script type="text/javascript" src="/resource/script/v20190104/bsite/plugins.js"></script>
+    <script type="text/javascript" src="/resource/script/v20190104/bsite/main.js"></script>
+    <script type="text/javascript" src="/resource/script/v20190104/parsley.min.js"></script>
+    <script type="text/javascript" src="/resource/script/v20190104/subscription.js"></script>
+    <div id="loadingOmniture" style="display: none"></div>
+    
+    <script type="text/javascript">
+        jQuery.browser = {};
+        (function () {
+            jQuery.browser.msie = false;
+            jQuery.browser.version = 0;
+            if (navigator.userAgent.match(/MSIE ([0-9]+)\./)) {
+                jQuery.browser.msie = true;
+                jQuery.browser.version = RegExp.$1;
+            }
+        })();
+    </script>
+    
+    
+    
+    
+
+
+
 
 </body></html>
