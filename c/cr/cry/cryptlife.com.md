@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryptlife.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311024243id_/https%3A//www.cryptlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptlife.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106033540id_/https%3A//www.cryptlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Crypt Life
 
@@ -6,7 +6,10 @@ We collect information from you when you register on our site.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
 
- **What do we use your information for?**
+ADVERTISEMENT  
+
+
+**What do we use your information for?**
 
 Any of the information we collect from you may be used to improve our website
 
