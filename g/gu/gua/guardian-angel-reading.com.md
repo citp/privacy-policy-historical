@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardian-angel-reading.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901145711id_/https%3A//www.guardian-angel-reading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian-angel-reading.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106072804id_/https%3A//www.guardian-angel-reading.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Padre, medium and online Reading of the Angels
 
