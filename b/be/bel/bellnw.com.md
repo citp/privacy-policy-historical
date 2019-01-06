@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellnw.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813220124id_/http%3A//www.bellnw.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellnw.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106065904id_/https%3A//www.bellnw.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Bell Electronics Privacy Policy
 
@@ -46,8 +46,8 @@ If you have any questions about this privacy statement, the practices of this si
 Security Administrator
 
 Bell Electronics NW  
-19725 Russell Road  
-Kent, WA 98032 USA  
+1150 Raymond Road SW  
+Renton, WA 98057 USA  
 [eprivacy@bellnw.com ](mailto:eprivacy@bellnw.com)
 
 **Changes to This Policy**
