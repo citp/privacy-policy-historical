@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bonchon.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929024306id_/https%3A//bonchon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonchon.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106114827id_/https%3A//bonchon.com/privacy) for the most accurate reproduction.*
 
-# Privacy - BonChon
+# Privacy - Bonchon
 
 BONCHON CHICKEN (hereinafter referred to as either, “The Company”, “We”, “Us” or “Our”) is committed to protecting the privacy of personal information you may provide Us on this website (the “Site”). We believe it is important for you to know how We treat your personal information. If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of the Site.
 
