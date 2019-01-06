@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinedataentryjob.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003222911id_/http%3A//onlinedataentryjob.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinedataentryjob.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106030005id_/http%3A//onlinedataentryjob.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Online Data Entry Job | Online Jobs | Earn Money Online | Work from home
 
