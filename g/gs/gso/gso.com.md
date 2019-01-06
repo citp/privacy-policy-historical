@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gso.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002014925id_/https%3A//www.gso.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gso.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106211641id_/https%3A//www.gso.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
