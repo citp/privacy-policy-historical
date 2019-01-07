@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prosource.net privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213031403id_/http%3A//www.prosource.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosource.net privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107141353id_/https%3A//www.prosource.net/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ProSource.Net
+# Privacy Policy – Prosource
 
 ProSource respects the privacy of every visitor to our website. Any information that has been submitted will not be made available to any other source other than for shipping purposes. Our site uses IP information solely for the identification of our customers and account information. We will never sell or allow this information to be used by other companies for soliciting purposes. This site contains links to other sites. ProSource is not responsible for the privacy practices, representations, or the content of such third party websites.
 
