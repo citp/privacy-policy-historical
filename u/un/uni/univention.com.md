@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the univention.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612155250id_/https%3A//www.univention.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the univention.com privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107010826id_/https%3A//www.univention.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Univention Univention
 
@@ -28,6 +28,17 @@ Attention: If you delete your cookies, this means that the opt-out cookie will a
 ### 4\. Data Security
 
 We use technical and organisational security measures to guarantee that your personal details are protected from loss, incorrect modifications and unauthorised access by third parties. Moreover, we only allow authorised people to gain access to your personal details and only to the degree necessary as part of the contractual purposes.
+
+#### Online Application
+
+You have the possibility to apply via our website for advertised positions. You determine yourself the scope of the data that you wish to transmit to us as part of your online application.  
+We process your personal data in accordance with the applicable data protection regulations on the basis of § 26 BDSG. We process the data that you disclose to us within the scope of your online application exclusively for the purpose of applicant selection. Data will not be processed for any other purpose.
+
+Online applications will be forwarded to our personnel department and the respective heads of the relevant departments. The transmission is encrypted. Of course, we treat your data as confidential. We use strictly instruction-bound service providers who support us in the areas of EDP and with whom separate contracts for order processing have been concluded. Beyond that, a passing on of your data does not take place. If your application is unsuccessful, your documents will be deleted after 6 months.
+
+In individual cases, individual data may be stored for a longer period of time (for example, as to travel expense settlement). In these cases, the duration of the storage depends on the legal storage obligations, e.g., defined by the German Tax Code (6 years) or the German Commercial Code (10 years).
+
+If you have not been hired, but your application is still of interest to us, we will ask you whether we may retain your application for future vacancies. We will then process your data on the basis of Art. 6 Para. 1 lit. a DSGVO.
 
 ### 5\. Right to Information
 
@@ -71,7 +82,7 @@ According to Art. 77 DSGVO, you have the right to complain to a supervisory auth
 
 For information or suggestions on the subject of data protection, you can always consult our privacy officer:
 
-Dr. Uwe Racket  
+Dr. Uwe Schläger  
 datenschutz nord GmbH
 
 Web: [www.datenschutz-nord-gruppe.de](https://www.datenschutz-nord-gruppe.de/)  
