@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidice.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027021446id_/http%3A//www.solidice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidice.com privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107200928id_/http%3A//www.solidice.com/privacy-policy) for the most accurate reproduction.*
 
 # SolidICE
 
@@ -43,7 +43,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
   * Understand and save user's preferences for future visits.
   * Keep track of advertisements.
-  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf. 
 
 
 
