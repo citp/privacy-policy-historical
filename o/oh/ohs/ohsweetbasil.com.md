@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ohsweetbasil.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814163119id_/http%3A//ohsweetbasil.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohsweetbasil.com privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107135111id_/https%3A//ohsweetbasil.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Oh Sweet Basil
 
 ### _don’t miss a recipe!_ subscribe via email:
+
+[Privacy Tools »](https://ohsweetbasil.com/privacy-policy/privacy-tools/)
 
 We have this Privacy Policy to let you know how we at _Oh Sweet Basil_ collect and use your personal information, and to assure you that we treat that information with great care.  We may update this Privacy Policy as our site is revised or adds new features, so please check back regularly for changes.
 
@@ -73,7 +75,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 #### Questions?
 
-If you have questions about this Privacy Policy, please contact us using the [Contact page](http://ohsweetbasil.com/contact "Contact") on our website.
+If you have questions about this Privacy Policy, please contact us using the [Contact page](https://ohsweetbasil.com/contact "Contact") on our website.
 
 For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
 
