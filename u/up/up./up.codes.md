@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the up.codes privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914112538id_/https%3A//up.codes/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up.codes privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107022128id_/https%3A//up.codes/privacy) for the most accurate reproduction.*
 
 # UpCodes: Privacy
 
