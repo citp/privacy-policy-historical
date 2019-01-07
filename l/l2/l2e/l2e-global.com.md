@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the l2e-global.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627164159id_/http%3A//l2e-global.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l2e-global.com privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107060500id_/http%3A//l2e-global.com/policy) for the most accurate reproduction.*
 
 # E-Global - worldwide Lineage 2 project. Off-like sources - Interlude, Gracia Final, High Five, Classic.
 
