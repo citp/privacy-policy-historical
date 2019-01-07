@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zillakgames.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207223822id_/http%3A//www.zillakgames.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zillakgames.com privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107110302id_/http%3A//www.zillakgames.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zillak Games
 
