@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the up.codes privacy policy that was archived on 2018-09-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180914112538id_/https%3A//up.codes/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the up.codes privacy policy that was archived on 2019-01-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190107022128id_/https%3A//up.codes/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8">
 <title>UpCodes: Privacy</title>
 <meta name="description" content="UpCodes offers a consolidated resource of construction and building code grouped by jurisdiction.">
@@ -11,7 +11,7 @@
 
 
 
-<script async="" src="//web.archive.org/web/20170603214758/https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-3.0.1-min.gz.js"></script><script>   
+<script async="" src="//web.archive.org/web/20170603214758/https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://cdn.amplitude.com/libs/amplitude-4.5.0-min.gz.js"></script><script>   
 
 let GLOBALS = {
     is_premium: 'False' === 'True',
@@ -27,11 +27,11 @@ GLOBALS.user_email = null;
 
 
 
-<link rel="stylesheet" href="/stylesheets/global.css?v=02acb9c" type="text/css">
+<link rel="stylesheet" href="/stylesheets/global.css?v=e0d9d47" type="text/css">
 <link rel="shortcut icon" type="image/png" href="/favicon.png">
 
 
-<link rel="stylesheet" href="/stylesheets/open_sans_fonts.css?v=02acb9c" type="text/css">
+<link rel="stylesheet" href="/stylesheets/open_sans_fonts.css?v=e0d9d47" type="text/css">
 <script src="/plugins/jquery-3.2.1.min.js"></script>
 
 
@@ -55,9 +55,7 @@ function redirectObsoleteBrowser() {
 
 <script src="/plugins/jquery.toast.min.js"></script>
 <link rel="stylesheet" href="/plugins/jquery.toast.css" type="text/css">
-<script src="/javascripts/global.js?v=02acb9c"></script>
-
-
+<script src="/javascripts/global.js?v=e0d9d47"></script>
 
 <script src="/plugins/analytics.js" async=""></script>
 
@@ -70,33 +68,31 @@ function redirectObsoleteBrowser() {
 
 
 <script type="text/javascript">
-  (function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script");r.type="text/javascript";
-  r.async=true;r.src="https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-3.0.1-min.gz.js";
-  r.onload=function(){e.amplitude.runQueuedFunctions()};var i=t.getElementsByTagName("script")[0];
-  i.parentNode.insertBefore(r,i);function s(e,t){e.prototype[t]=function(){this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));
-  return this}}var o=function(){this._q=[];return this};var a=["add","append","clearAll","prepend","set","setOnce","unset"];
-  for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[];return this;
-  };var p=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"];
-  for(var l=0;l<p.length;l++){s(c,p[l])}n.Revenue=c;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId"];
-  function v(e){function t(t){e[t]=function(){e._q.push([t].concat(Array.prototype.slice.call(arguments,0)));
-  }}for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){e=(!e||e.length===0?"$default_instance":e).toLowerCase();
-  if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]};e.amplitude=n;
-  })(window,document);
+(function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script")
+;r.type="text/javascript";r.async=true
+;r.src="https://cdn.amplitude.com/libs/amplitude-4.5.0-min.gz.js"
+;r.onload=function(){if(e.amplitude.runQueuedFunctions){
+e.amplitude.runQueuedFunctions()}else{
+console.log("[Amplitude] Error: could not load SDK")}}
+;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)
+;function s(e,t){e.prototype[t]=function(){
+this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
+var o=function(){this._q=[];return this}
+;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
+;for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[]
+;return this}
+;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
+;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
+;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","groupIdentify","logEventWithTimestamp","logEventWithGroups","setSessionId","resetSessionId"]
+;function v(e){function t(t){e[t]=function(){
+e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
+for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
+e=(!e||e.length===0?"$default_instance":e).toLowerCase()
+;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
+;e.amplitude=n})(window,document);
 
   amplitude.getInstance().init("dc017ce4585cd2e6720c8a3044a2abb0");
 </script>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -122,7 +118,7 @@ function redirectObsoleteBrowser() {
 
 
 
-<link rel="stylesheet" href="/stylesheets/auxiliary_content.css?v=02acb9c" type="text/css">
+<link rel="stylesheet" href="/stylesheets/auxiliary_content.css?v=e0d9d47" type="text/css">
 
 </head>
 
@@ -250,21 +246,21 @@ Effective date: September 22, 2017
 
 <br><br>
 
-We at UpCodes know you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our Privacy Policy.  <strong>By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.</strong> 
+We at UpCodes know you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our Privacy Policy.  <strong>By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.</strong>
 
 <br><br>
 
-Remember that your use of UpCodes’s Services is at all times subject to the <a class="blue_link" href="/terms">Terms of Use</a>, which incorporates this Privacy Policy.  Any terms we use in this Policy without defining them have the definitions given to them in the <a class="blue_link" href="/terms">Terms of Use</a>.  
+Remember that your use of UpCodes’s Services is at all times subject to the <a class="blue_link" href="/terms">Terms of Use</a>, which incorporates this Privacy Policy.  Any terms we use in this Policy without defining them have the definitions given to them in the <a class="blue_link" href="/terms">Terms of Use</a>.
 
 <br><br><br>
 <h2 class="font_2800">What does this Privacy Policy cover?</h2>
 
-This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Services, but not to the practices of companies we don’t own or control, or people that we don’t manage.  We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below. 
+This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Services, but not to the practices of companies we don’t own or control, or people that we don’t manage.  We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
 
 <br><br><br>
 <h2 class="font_2800">Will UpCodes ever change this Privacy Policy?</h2>
 
-We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on the Services, by sending you an email, and/or by some other means.  Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them.  If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. 
+We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on the Services, by sending you an email, and/or by some other means.  Please note that if you’ve opted not to receive legal notice emails from us (or you haven’t provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them.  If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes.
 
 <br><br><br>
 <h2 class="font_2800">What information does UpCodes collect?</h2>
@@ -275,7 +271,7 @@ We’re constantly trying to improve our Services, so we may need to change this
 <br>
 We receive and store any information you knowingly provide to us.  For example, through the registration process and/or through your account settings, we may collect Personal Information such as your name, email address, IP address, and credit card information.  Certain information may be required to register with us or to take advantage of some of our features.
 <br><br>
-We may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may email you about your use of the Services.  
+We may communicate with you if you’ve provided us the means to do so. For example, if you’ve given us your email address, we may email you about your use of the Services.
 
 <br><br>
 <h3>Information Collected Automatically</h3>
@@ -298,7 +294,7 @@ Through cookies we place on your browser or device, we may collect information a
 
 We do not rent or sell your Personal Information in personally identifiable form to anyone.  We may share your Personal Information with third parties as described below:
 <br><br>
-<strong>Information That’s Been De-Identified:</strong>  We may de-identify your Personal Information so that you are not identified as an individual, and provide that information to our partners. We may also provide aggregate usage information to our partners (or allow partners to collect that information from you), who may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal online experience. We may also include de-identified Personal Information or aggregate usage information in our blog posts or other marketing or promotional materials we provide to third parties.  In any of these situations, we will never disclose aggregate usage or de-identified information to a third party in a manner that would identify you as an individual. 
+<strong>Information That’s Been De-Identified:</strong>  We may de-identify your Personal Information so that you are not identified as an individual, and provide that information to our partners. We may also provide aggregate usage information to our partners (or allow partners to collect that information from you), who may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal online experience. We may also include de-identified Personal Information or aggregate usage information in our blog posts or other marketing or promotional materials we provide to third parties.  In any of these situations, we will never disclose aggregate usage or de-identified information to a third party in a manner that would identify you as an individual.
 <br><br>
 <strong>Affiliated Businesses:</strong> In certain situations, businesses or third party websites we’re affiliated with may sell or provide products or services to you through or in connection with the Services (either alone or jointly with us).  You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service.  We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business’ or websites’ policies.
 <br><br>
@@ -306,9 +302,9 @@ We do not rent or sell your Personal Information in personally identifiable form
 <br><br>
 <strong>User Profiles and Submissions:</strong> Certain user profile information, including your name, location, and any video or image content that such user has uploaded to the Services, may be displayed to other users to facilitate user interaction within the Services or address your request for our services.  Please remember that any content you upload to your public user profile, along with any Personal Information or content that you voluntarily disclose online in a manner other users can view (on discussion boards, in messages and chat areas, etc.) becomes publicly available, and can be collected and used by anyone.  Your user name may also be displayed to other users if and when you send messages or comments or upload images or videos through the Services and other users can contact you through messages and comments.
 <br><br>
-<strong>Business Transfers:</strong> We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions.  Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party. 
+<strong>Business Transfers:</strong> We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions.  Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
 <br><br>
-<strong>Protection of UpCodes and Others:</strong> We reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our <a class="blue_link" href="/terms">Terms of Use</a> and other agreements; or protect the rights, property, or safety of UpCodes, our employees, our users, or others.  
+<strong>Protection of UpCodes and Others:</strong> We reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our <a class="blue_link" href="/terms">Terms of Use</a> and other agreements; or protect the rights, property, or safety of UpCodes, our employees, our users, or others.
 
 
 
@@ -317,7 +313,7 @@ We do not rent or sell your Personal Information in personally identifiable form
 
 Your account is protected by a password for your privacy and security.  You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
 <br><br>
-We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but unfortunately, we cannot guarantee complete security.  Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
+We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but unfortunately, we cannot guarantee complete security.  Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
 
 
 
@@ -336,7 +332,7 @@ Through your account settings, you may access, and, in some cases, edit or delet
 </ul>
 <br>
 
-The information you can view, update, and delete may change as the Services change.  If you have any questions about viewing or updating information we have on file about you, please contact us at contact@up.codes. 
+The information you can view, update, and delete may change as the Services change.  If you have any questions about viewing or updating information we have on file about you, please contact us at contact@up.codes.
 
 
 
@@ -371,7 +367,6 @@ If you have any questions or concerns regarding our privacy policies, please sen
             <div class="tile_one_fourth">
                 <span class="text_footer_header font_1200">COMPANY INFO</span>
                 <a class="text_footer_link font_2000 font_platinum" href="/about">About</a>
-                <a class="text_footer_link font_2000 font_platinum" href="http://resources.up.codes/">Resources</a>
                 <a class="text_footer_link font_2000 font_platinum" href="/contact">Contact</a>
                 <a class="text_footer_link font_2000 font_platinum" href="/careers">Careers</a>
                 <a class="text_footer_link font_2000 font_platinum" href="/terms">Terms</a>
