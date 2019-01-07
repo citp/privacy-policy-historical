@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebuddyxms.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106045705id_/http%3A//ebuddyxms.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuddyxms.com privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107024926id_/http%3A//www.ebuddyxms.com/privacy.html) for the most accurate reproduction.*
 
 # XMS. Unlimited messaging. Better. Free.
 
