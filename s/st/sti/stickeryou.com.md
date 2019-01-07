@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stickeryou.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129214101id_/https%3A//www.stickeryou.com/about-stickeryou/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickeryou.com privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107221955id_/https%3A//www.stickeryou.com/about-stickeryou/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - StickerYou
 
