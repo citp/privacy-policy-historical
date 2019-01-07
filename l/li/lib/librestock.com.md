@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the librestock.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004112352id_/https%3A//librestock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the librestock.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108001110id_/https%3A//librestock.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Librestock Free Photos & Video
 
