@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbleaks.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622144730id_/https%3A//n4bb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbleaks.com privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107054732id_/https%3A//n4bb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | N4BB
 
