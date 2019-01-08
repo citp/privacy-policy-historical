@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clutchprep.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171728id_/https%3A//www.clutchprep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clutchprep.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108110057id_/https%3A//www.clutchprep.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clutch Prep
 
