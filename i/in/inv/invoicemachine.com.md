@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invoicemachine.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107005816id_/http%3A//invoicemachine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invoicemachine.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108052914id_/http%3A//invoicemachine.com/privacy) for the most accurate reproduction.*
 
 # The Invoice Machine | Privacy Policy
 
