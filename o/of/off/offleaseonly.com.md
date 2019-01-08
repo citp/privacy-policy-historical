@@ -1,30 +1,86 @@
-> *The following text is extracted and transformed from the offleaseonly.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919063936id_/http%3A//www.offleaseonly.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offleaseonly.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108025710id_/https%3A//offleaseonly.net/-legal) for the most accurate reproduction.*
 
-# Privacy Policy | Offleaseonly.com
+# Off Lease Only Inc, Terms and Conditions
 
-Your privacy rights are important to us. Please read this notice carefully to help us protect your privacy.
-
-You are hereby notified that this organization in connection with your transaction(s), may obtain information about you as described in this notice. We will handle this informaton privately, but in order to process your transaction(s) this information may be disclosed to third parties as provided by law.
-
-  * We collect non-public personal information about you from the following sources;
-
-    * Information we receive from you on credit, insurance or other type applications, from our website(s) and other forms, such as (but not limited to) your name, address, social security number, assets and income.
-
-    * Information about your transaction(s) with us, our affiliates, or others such as your account balances, payment history, banking accounts, credit record; and
-
-    * Information about you we may receive from credit reporting agencies, credit references and employers.
-
-  * **We may disclose** all of the information we collect, as described above, to companies and others that perform marketing services on our behalf or to other financial institutions with which we have join marketing agreements. We may make such disclosures about you as a consumer, a customer, or as a former customer.
-
-  * **We may also disclose** non-public personal information about you as a consumer, customer, or as a former customer to non-affiliated third parties as permitted by law. We may disclose non-public personal information about our customers to the manufacturer of the vehicle so that they may use that information to better serve you.
-
-  * **We restrict access** to non-public personal information about you only to those employees, agents and subcontractors who need to know that information in order to provide products or services to you or our organization. In accord with this policy, we maintain physical, electronic, and other procedural safeguards that comply with federal regulations to guard your non-public personal information inside our organization and protect its confidentiality. We require that any third party who receives information about you from us to agree to keep that information confidential and to use the information only for the purposes for which it was disclosed.
+  * OFF LEASE ONLY, INC.  
+Last Updated: 3-15-2018
 
 
 
 
-OFF LEASE ONLY, INC. does its best to ensure that the information it gives to its customers is accurate. All information supplied is "as is" without any formal or implied guarantees regarding the history of the vehicle.
+[ ](https://offleaseonly.com/)
 
-OFF LEASE ONLY, INC. is not affiliated with, nor does it affirm the accuracy of vehicle history reports from third party vendors. Any representations made by OFF LEASE ONLY, INC, its owners, officers, employees or agents, either orally or in writing that a particular vehicle has not been in an accident has been made in good faith, garnered from the information provided to OFF LEASE ONLY, INC. at the time it acquired the vehicle, and based upon a visual inspection by the dealership. 
+#### **OFF LEASE ONLY, INC.**
 
-Consequently, OFF LEASE ONLY, INC. advises its buyers to check the accuracy the information they are given by all the means at their disposal prior to purchasing the vehicle. 
+CONTACT INFORMATION
+
+ATTN: Legal Department  
+827 South State Road 7  
+North Lauderdale, FL 33068 
+
+[legal@offleaseonly.com](mailto:legal@offleaseonly.com)
+
+## PRIVACY POLICY
+
+**Social Principles**
+
+Our services are not intended for people under 18. Therefore, we do not knowingly collect information from people under 18 without parental consent.   
+We share information we collect from or about you in accordance with our Consumer Privacy Notice, if you have a financial product or service with us. 
+
+**Agreements to Privacy Options**
+
+By using a Site or engaging with an Off Lease Only Inc. advertisement or page or account on a third party site, you consent to these Privacy Options, which includes your consent to our use and disclosure of information about you in the manner described in the Privacy Options. 
+
+**Personal Information collected online by Off Lease Only Inc.**
+
+When you visit our Sites, we collect personal information about you, from the information you provide us. The information will vary depend on the Off Lease Only Inc. Site you visit, and may include, but is not limited to: 
+
+  * Name
+  * Date of birth
+  * Address
+  * Phone numbers (including mobile)
+  * Email address
+  * Account number
+  * Social Security number in whole or in part
+  * Residential information
+  * Employment information
+  * Income information
+
+
+
+In addition to the information described above, we may collect behavioral information, when you use our online services. When you connect to our online Sites, we may capture the IP address and device information, the type of operating system and browser you use, site you came from, your activity with our online services, and the site you visit next. We or our third-party partners may use cookies, web beacons or other technologies to collect and store information about your visit and use of our online services. When you visit our website or use our online services, we may collect personal information that you voluntarily provide us through forms on our website, or in our mobile applications. Off Lease Only Inc. may also use cookies and other online tracking options like pixel tags and clear GIFs. Cookies are text files that are placed on your computer by the website's server. Cookies enable websites to track browsing activity conducted on your computer. Clear GIFs, pixel tags or web beacons are typically one pixel, transparent images on a webpage or email or other message, used to help recognize users, determine traffic patterns, and measure Site engagement. 
+
+**Our Social Media Pages**
+
+Off Lease Only Inc. has official pages on social media websites such as Facebook®, Google+, Twitter®, Pinterest, LinkedIn, Instagram, and YouTube. When you interact with us on social media websites, we may collect behavioral information such as your likes, interests, feedback and preferences. 
+
+**How information is used**
+
+To enable you to apply for Off Lease Only Inc. services   
+To enable you to perform online transactions   
+To offer special services and products using advertisements in the form of banner ads, splash ads or location based promotions Verification purposes that will allow access to your accounts and prevent/detect fraud   
+For business purposes such as data analysis and optimizing Sites to improve your online experience   
+In order to comply with federal, state or local laws   
+To share with entities that are within the Off Lease Only Inc. family, and with trusted parties who are contractually obligated to keep such information confidential and only provide services that we have requested them to provide. 
+
+**Disclosure of Information**
+
+We may share information about you with our affiliates and other third parties:   
+Third-party service providers   
+When laws and regulations permit, with affiliated websites and businesses   
+Other companies bringing you co-branded services   
+Other third parties, to comply with legal requirements 
+
+**Online Advertising**
+
+Depending on the information, we or our affiliates, service providers and other companies that we work with have about you, you will see advertisements when you are using our online services (including pre-screened offers of credit). Online behavioral advertising (OBA or "interested-based advertising") is practiced by collecting information about how visitors interact with our Sites over time, in order to deliver advertisements that may interest visitors based on their browsing history. 
+
+**Changes to Privacy Options**
+
+Off Lease Only Inc. reserves the right to make changes to this document from time to time. Changes made to this document will become effective when they are posted, unless indicated otherwise. 
+
+## TCPA Disclosure
+
+Off Lease Only Inc. takes your online privacy seriously. We are committed to protect your personal information when visiting and using our website and social media. Off Lease Only Inc. Privacy Options applies to your interaction with Off Lease Only Inc. or any of its subsidiaries (collectively, "Off Lease Only Inc., "we," "us," "our"), at any online or mobile site or application that we own or control ("Site"). According to the U.S. Online & Mobile Privacy Practices Statement, Off Lease Only Inc.'s online and mobile privacy practices are applicable to Off Lease Only Inc. websites, Off Lease Only Inc. mobile sites, and Off Lease Only Inc. branded social media sites or pages, as well as interactions you may have while viewing content provided by Off Lease Only Inc.'s digital advertising campaigns.
+
+© 2018 Off Lease Only, Inc. All Rights Reserved.
