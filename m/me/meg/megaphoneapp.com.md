@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaphoneapp.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812063439id_/https%3A//www.megaphoneapp.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaphoneapp.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108034305id_/https%3A//www.megaphoneapp.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Megaphone - Use Megaphone To Create Better Marketing Pages.
 
