@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasroadhouse.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003172330id_/https%3A//www.texasroadhouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasroadhouse.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108092158id_/https%3A//www.texasroadhouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Steak Restaurant | Texas Roadhouse
 
