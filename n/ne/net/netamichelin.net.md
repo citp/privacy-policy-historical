@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netamichelin.net privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108093745id_/http%3A//netamichelin.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netamichelin.net privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108111450id_/http%3A//netamichelin.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Neta Michelin
 
