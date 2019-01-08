@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mrbutton.in privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721222228id_/https%3A//www.mrbutton.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrbutton.in privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108034601id_/https%3A//www.mrbutton.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MR BUTTON
+
+**
 
 We value the trust you hold in MR BUTTON. Please read the following privacy policy carefully. While using and/or accessing our website you acknowledge that you read, understand and agree to be bound to all the terms mentioned in this privacy policy and other pages of this website.  
 Note: Our privacy policy is subject to change at any time without/with notice. The revised privacy policy is effective immediately when posted on the website. To make sure you are aware of any changes, please review this privacy policy periodically for your reference.
@@ -25,3 +27,5 @@ Our site has stringent security measures in place to protect the loss, misuse an
 
 **6\. Advertising**  
 We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, email address or any personally identifying information about the user.
+
+**
