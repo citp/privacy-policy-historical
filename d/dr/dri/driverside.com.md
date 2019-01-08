@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverside.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609112028id_/http%3A//www.driverside.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverside.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108013147id_/https%3A//www.driverside.com/privacy) for the most accurate reproduction.*
 
 # DriverSide Privacy Statement
 
