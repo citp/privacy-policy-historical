@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the water4.org privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005045531id_/https%3A//water4.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the water4.org privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108031220id_/https%3A//water4.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Water4
 
