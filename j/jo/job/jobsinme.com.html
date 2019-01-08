@@ -1,1214 +1,436 @@
-<!--The following is the downloaded HTML source of the jobsinme.com privacy policy that was archived on 2014-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141222200826id_/http%3A//www.jobsinme.com/misc/page.aspx%3Fpagenum%3D44) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="/Scripts/jquery.js"></script>
-
-
-<title>Privacy Statement | JobsInME.com</title>
-
-
-    <!--[if lt IE 7.]>
-    <script defer type="text/javascript" src="/media/graphics/IE_PNG_fix/pngfix.js"></script>
-    <![endif]-->
-
-    <!--begin section-specific js functions -->
-    
-    <script src="/js/browserDetect.js" type="text/javascript"></script>
-    
-    <script type="text/javascript">
-        BrowserDetect.init();
-
-        //Uncomment below to enable iPhone redirect to mobile site "Choice"
-        //if(BrowserDetect.OS.indexOf('iPhone') != -1){
-        //    var cookie = readCookie('jiusmobile')
-        //    if(cookie != 'false'){
-        //        window.location = "/mobile/choice.aspx";
-        //    }
-        //}
-
-        function createCookie(name, value, days) {
-            if (days) {
-                var date = new Date();
-                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-                var expires = "; expires=" + date.toGMTString();
-            }
-            else var expires = "";
-            document.cookie = name + "=" + value + expires + "; path=/";
-        }
-
-        function readCookie(name) {
-            var nameEQ = name + "=";
-            var ca = document.cookie.split(';');
-            for (var i = 0; i < ca.length; i++) {
-                var c = ca[i];
-                while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
-            }
-            return null;
-        }
-
-        function eraseCookie(name) {
-            createCookie(name, "", -1);
-        }
-
-        //document.body.style.width = window.innerWidth
-        //document.body.style.height = window.innerHeight
-        </script>
-    
-    
-
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-46199794-1']);
-        var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-        _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-    </script>
-
-    <script src="//hwscdn.com/analytics/jobsintheus.com/main_analytics.js"></script>
-    <script type="text/javascript">
-      if (typeof AlternateTrackPageview == "undefined") {
-          _gaq.push(['_trackPageview']);
-      } else {
-          _gaq.push(['_trackPageview', AlternateTrackPageview]);
-      }
-      (function () {
-          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-          ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script>
-
-
-    
-
-    <!-- begin SocialWire Cube Ad Tag -->
-    <script type="text/javascript">
-        (function () {
-            var useSSL = 'https:' == document.location.protocol;
-            var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-            document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-        })();
-    </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-    
-    <!-- end SocialWire Cube -->
-    
-    
-    
-    <script type="text/javascript" language="javascript">
-
-        function getAjaxHandler() {
-            var ajaxHandler;
-            if (window.XMLHttpRequest) {
-                ajaxHandler = new XMLHttpRequest();
-            } else {
-                ajaxHandler = new ActiveXObject("Microsoft.XMLHTTP");
-            }
-            return ajaxHandler;
-        }
-
-        function showOverlay() {
-            var scnWid, scnHei;
-            if (self.innerHeight) // all except Explorer
-            {
-                scnWid = self.innerWidth;
-                scnHei = self.innerHeight;
-            }
-            else if (document.documentElement && document.documentElement.clientHeight) // Explorer 6 Strict Mode
-            {
-                scnWid = document.documentElement.clientWidth;
-                scnHei = document.documentElement.clientHeight;
-            }
-            else if (document.body) // other Explorers
-            {
-                scnWid = document.body.clientWidth;
-                scnHei = document.body.clientHeight;
-            }
-
-            //document.write("width: " + scnWid + "<br />");
-            //document.write("height: " + scnHei);
-        }
-
-        showOverlay();
-
-        function runSavedSearch(form) {
-            var formToSubmit = document.getElementById(form);
-            formToSubmit.submit();
-        }
-
-        function clearLocation() {
-            var o = document.getElementById('ssLocation');
-            if (o.value == "City or Zip") {
-                o.value = "";
-            }
-        }
-
-        function clearKeywords() {
-            var o = document.getElementById('ssKeywords');
-            if (o.value == "Keywords") {
-                o.value = "";
-            }
-        }
-
-        function clearAdvLocation() {
-            var o = document.getElementById('headLocation');
-            if (o.value == "City or Zip") {
-                o.value = "";
-            }
-        }
-
-        function clearAdvKeywords() {
-            var o = document.getElementById('headKeywords');
-            if (o.value == "Keywords") {
-                o.value = "";
-            }
-        }
-
-        function clearCompanyKeywords() {
-            var o = document.getElementById('coKeywords');
-            if (o.value == "Keywords") {
-                o.value = "";
-            }
-        }
-
-        function showAdvancedSearch() {
-            //var o = document.getElementById('overlay');
-            //o.style.visibility = 'visible';
-            var as = document.getElementById('advancedSearch');
-            as.style.visibility = 'visible';
-
-            // This is becuase IE6 is aweful...
-            var ssRadius = document.getElementById('ssRadius');
-            ssRadius.style.visibility = 'hidden';
-
-            var radius = document.getElementById("radius");
-            if (radius.value == "0") {
-                var locSpan = document.getElementById("advLocSpan");
-                locSpan.style.visibility = "hidden";
-                locSpan.style.display = "none";
-                var loc = document.getElementById("headLocation");
-                loc.style.visibility = "hidden";
-                loc.style.display = "none";
-                loc.disabled = true;
-            } else {
-                var locSpan = document.getElementById("advLocSpan");
-                locSpan.style.visibility = "visible";
-                locSpan.style.display = "inline";
-                var loc = document.getElementById("headLocation");
-                loc.style.visibility = "visible";
-                loc.style.display = "inline";
-                loc.disabled = false;
-            }
-            //fireEvent(document.getElementById("basicOptions"),'click');  
-        }
-
-        function hideAdvancedSearch() {
-            var o = document.getElementById('overlay');
-            o.style.visibility = 'hidden';
-            var as = document.getElementById('advancedSearch');
-            as.style.visibility = 'hidden';
-
-            var locSpan = document.getElementById("advLocSpan");
-            locSpan.style.visibility = "hidden";
-            locSpan.style.display = "none";
-            var loc = document.getElementById("headLocation");
-            loc.style.visibility = "hidden";
-            loc.style.display = "none";
-            loc.disabled = true;
-
-            if (window.location.toString().indexOf('searchJobs.aspx') == -1) {
-                var ssRadius = document.getElementById('ssRadius');
-                ssRadius.style.visibility = 'visible';
-            }
-        }
-
-        function showCompanySearch() {
-            //var o = document.getElementById('overlay');
-            //o.style.visibility = 'visible';
-            var as = document.getElementById('companySearch');
-            as.style.visibility = 'visible';
-        }
-        function hideCompanySearch() {
-            var o = document.getElementById('overlay');
-            o.style.visibility = 'hidden';
-            var as = document.getElementById('companySearch');
-            as.style.visibility = 'hidden';
-        }
-
-
-        function trim(stringToTrim) {
-            return stringToTrim.replace(/^\s+|\s+$/g, '').replace(/\s+/g, ' ');
-        }
-
-        function siteSelectorRedirect(selector) {
-            if (!(selector.value == "NONE")) {
-                window.location = "http://www.jobsin" + selector.options[selector.selectedIndex].value + ".com";
-            }
-        }
-
-        function checkEnter(e) { //e is event object passed from function invocation
-            var characterCode; //literal character code will be stored in this variable
-
-            if (e && e.which) { //if which property of event object is supported (NN)
-                e = e;
-                characterCode = e.which; //character code is contained in NN4's which property
-                if (characterCode == 13) {
-                    e.preventDefault();
-                    e.stopPropagation();
-                }
-            } else {
-                e = event;
-                characterCode = e.keyCode; //character code is contained in IE's keyCode property
-            }
-
-            if (characterCode == 13) { //if generated character code is equal to ascii 13 (if enter key)
-                submitSimpleSearch(); //submit the form
-                return false;
-            } else {
-                return false;
-            }
-        }
-
-        function checkEnterAdv(e) { //e is event object passed from function invocation
-            var characterCode; //literal character code will be stored in this variable
-
-            if (e && e.which) { //if which property of event object is supported (NN)
-                e = e;
-                characterCode = e.which; //character code is contained in NN4's which property
-                if (characterCode == 13) {
-                    e.preventDefault();
-                    e.stopPropagation();
-                }
-            } else {
-                e = event;
-                characterCode = e.keyCode; //character code is contained in IE's keyCode property
-            }
-
-            if (characterCode == 13) { //if generated character code is equal to ascii 13 (if enter key)
-                submitAdvancedSearch(); //submit the form
-                return false;
-            } else {
-                return true;
-            }
-        }
-
-        // ============ ADVANCED SEARCH JS FUNCTIONS ============
-
-        function submitAdvancedSearch() {
-            cleanAdvSearchInput();
-
-            var radius = document.getElementById("radius");
-            if (radius.value == "0") {
-                var loc = document.getElementById("headLocation");
-                loc.value = "0";
-                document.advSearchForm.submit();
-            } else {
-                validateAdvLocationField("headLocation");
-            }
-        }
-
-        function cleanAdvSearchInput() {
-            var keywords = document.getElementById("headKeywords");
-            var kValue = keywords.value;
-            var logic = document.getElementById("searchLogic");
-
-            if (keywords.value == "Keywords") {
-                kValue = "";
-            }
-
-            var finalString = "";
-
-            if (logic.value == "EXACT") {
-                var cleanedString = kValue.replace(/["]/g, '');
-
-                var trimmedString = trim(cleanedString);
-
-                var escapedString = escapeSpecialCharacters(trimmedString);
-
-                finalString = escapedString.replace(/\s/g, ",");
-            } else {
-
-                var re = new RegExp("[^a-z0-9+#]", "gi");
-
-                var cleanString = kValue.replace(re, " ");
-
-                var trimmedString = trim(cleanString);
-
-                finalString = escapeSpecialCharacters(trimmedString);
-
-                finalString = finalString.replace(/\s/g, ",");
-
-            }
-
-            keywords.value = finalString;
-        }
-
-
-        function validateAdvLocationField(loc) {
-            var locField = document.getElementById(loc);
-            var errorField = document.getElementById("advErrorMessages");
-
-            var url = "/misc/LocationAjaxProxy.aspx?loc=" + locField.value + "&state=" + "ME";
-
-            if (locField.value == "" || locField.value == "City or Zip") {
-                var errorField = document.getElementById("advErrorMessages");
-
-                errorField.innerHTML = "Please enter a zip code or city.";
-
-                locField.focus();
-            } else {
-                var ajaxHandler = getAjaxHandler();
-
-                ajaxHandler.onreadystatechange = function () {
-                    if (ajaxHandler.readyState == 4 && ajaxHandler.status == 200) {
-                        var responseText = ajaxHandler.responseText;
-                        //alert(responseText);
-
-                        var zipIndex = responseText.indexOf("<Zip>");
-
-                        if (zipIndex == -1) {
-                            var errorIndex = responseText.indexOf("<Error>");
-                            if (errorIndex == -1) {
-                                errorField.innerHTML = "There was a problem completing your search, please try again.";
-                            } else {
-                                var start = errorIndex + 7;
-                                var end = responseText.indexOf("</Error>");
-                                var error = responseText.substring(start, end);
-                                errorField.innerHTML = error;
-                            }
-                        } else {
-                            var start = zipIndex + 5;
-                            var end = responseText.indexOf("</Zip>");
-                            var zip = responseText.substring(start, end);
-                            locField.value = zip;
-                            document.advSearchForm.submit();
-                        }
-                    }
-                }
-
-                ajaxHandler.open("GET", url, true);
-                ajaxHandler.send();
-
-                //alert(returnedVal);
-            }
-        }
-
-        // ============ SIMPLE SEARCH JS FUNCTIONS ============
-
-        function submitSimpleSearch() {
-            clearKeywords();
-
-            cleanSimpleSearchInput();
-
-            var radius = document.getElementById("ssRadius");
-            if (radius.value == "0") {
-                var loc = document.getElementById("ssLocation");
-                loc.value = "0";
-                document.searchForm.submit();
-            } else {
-                validateLocationField("ssLocation");
-            }
-        }
-
-        function cleanSimpleSearchInput() {
-
-            var re = new RegExp("[^a-z0-9+#]", "gi");
-
-            var keywords = document.getElementById("ssKeywords");
-            var kValue = keywords.value;
-
-            if (keywords.value == "Keywords") {
-                kValue = "";
-            }
-
-            var cleanKeywords = kValue.replace(re, " ");
-
-            var trimmedKeywords = trim(cleanKeywords);
-
-            var finalKeywords = trimmedKeywords.replace(/\s/g, ",");
-
-            keywords.value = finalKeywords;
-
-
-            var location = document.getElementById("ssLocation");
-            var lValue = location.value;
-
-            var cleanLocation = lValue.replace(re, " ");
-
-            var trimmedLocation = trim(cleanLocation);
-
-            location.value = trimmedLocation;
-        }
-
-
-        function validateLocationField(loc) {
-
-
-            var locField = document.getElementById(loc);
-            var errorField = document.getElementById("errorMessages");
-
-            var url = "/misc/LocationAjaxProxy.aspx?loc=" + locField.value + "&state=" + "ME";
-
-            if (locField.value == "" || locField.value == "City or Zip") {
-                var errorField = document.getElementById("errorMessages");
-
-                errorField.innerHTML = "Please enter a zip code or city.";
-
-                locField.focus();
-            } else {
-                var ajaxHandler = getAjaxHandler();
-
-                ajaxHandler.onreadystatechange = function () {
-                    if (ajaxHandler.readyState == 4 && ajaxHandler.status == 200) {
-                        var responseText = ajaxHandler.responseText;
-                        //alert(responseText);
-
-                        var zipIndex = responseText.indexOf("<Zip>");
-
-                        if (zipIndex == -1) {
-                            var errorIndex = responseText.indexOf("<Error>");
-                            if (errorIndex == -1) {
-                                errorField.innerHTML = "There was a problem completing your search, please try again.";
-                            } else {
-                                var start = errorIndex + 7;
-                                var end = responseText.indexOf("</Error>");
-                                var error = responseText.substring(start, end);
-                                errorField.innerHTML = error;
-                            }
-                        } else {
-                            var start = zipIndex + 5;
-                            var end = responseText.indexOf("</Zip>");
-                            var zip = responseText.substring(start, end);
-                            locField.value = zip;
-                            document.searchForm.submit();
-                        }
-                    }
-                }
-
-                ajaxHandler.open("GET", url, true);
-                ajaxHandler.send();
-
-                //alert(returnedVal);
-            }
-        }
-
-        function submitCompanySearch() {
-            var keywords = document.getElementById("coKeywords");
-            var errorField = document.getElementById("coErrors");
-
-            if ((trim(keywords.value) == "") || (trim(keywords.value) == "Keywords")) {
-                errorField.innerHTML = "<br />Please enter one or more keywords to search for.<br /><br />";
-            } else {
-                //keywords.value = escape(keywords.value);
-                document.companySearchForm.method = "POST";
-                document.companySearchForm.submit();
-            }
-        }
-
-        function checkEntireStateSelected(radius) {
-            var whichRadiusControl = radius.getAttribute("id");
-
-            if (radius.value == "0") {
-                if (whichRadiusControl == "ssRadius") {
-                    var locSpan = document.getElementById("ssLocSpan");
-                    locSpan.style.visibility = "hidden";
-                    locSpan.style.display = "none";
-                    var loc = document.getElementById("ssLocation");
-                    loc.style.visibility = "hidden";
-                    loc.style.display = "none";
-                    var exLocationless = document.getElementById("ssExLocationless");
-                    exLocationless.value = "";
-                }
-                if (whichRadiusControl == "radius") {
-                    var locSpan = document.getElementById("advLocSpan");
-                    locSpan.style.visibility = "hidden";
-                    locSpan.style.display = "none";
-                    var loc = document.getElementById("headLocation");
-                    loc.style.visibility = "hidden";
-                    loc.style.display = "none";
-                    var exLocationless = document.getElementById("headExLocationless");
-                    exLocationless.checked = "";
-                }
-                if (whichRadiusControl == "hdnRadius") {
-                    var locSpan = document.getElementById("hdnLocSpan");
-                    locSpan.style.visibility = "hidden";
-                    locSpan.style.display = "none";
-                    var loc = document.getElementById("hdnZipCode");
-                    loc.style.visibility = "hidden";
-                    loc.style.display = "none";
-                    var exLocationless = document.getElementById("hdnExcludeLocationless");
-                    exLocationless.checked = "";
-                }
-                if (whichRadiusControl == "savedRadius") {
-                    var locSpan = document.getElementById("savedLocSpan");
-                    locSpan.style.visibility = "hidden";
-                    locSpan.style.display = "none";
-                    var loc = document.getElementById("savedLocation");
-                    loc.style.visibility = "hidden";
-                    loc.style.display = "none";
-                    var exLocationless = document.getElementById("savedExLocationless");
-                    exLocationless.checked = "";
-                }
-            } else {
-                if (whichRadiusControl == "ssRadius") {
-                    var locSpan = document.getElementById("ssLocSpan");
-                    locSpan.style.visibility = "visible";
-                    locSpan.style.display = "inline";
-                    var loc = document.getElementById("ssLocation");
-                    if (loc.value == "0") {
-                        loc.value = "City or Zip";
-                    }
-                    loc.style.visibility = "visible";
-                    loc.style.display = "inline";
-                    var exLocationless = document.getElementById("ssExLocationless");
-                    exLocationless.value = "Y";
-                }
-                if (whichRadiusControl == "radius") {
-                    var locSpan = document.getElementById("advLocSpan");
-                    locSpan.style.visibility = "visible";
-                    locSpan.style.display = "inline";
-                    var loc = document.getElementById("headLocation");
-                    if (loc.value == "0") {
-                        loc.value = "City or Zip";
-                    }
-                    loc.style.visibility = "visible";
-                    loc.style.display = "inline";
-                    var exLocationless = document.getElementById("headExLocationless");
-                    exLocationless.checked = "checked";
-                }
-                if (whichRadiusControl == "hdnRadius") {
-                    var locSpan = document.getElementById("hdnLocSpan");
-                    locSpan.style.visibility = "visible";
-                    locSpan.style.display = "inline";
-                    var loc = document.getElementById("hdnZipCode");
-                    if (loc.value == "0") {
-                        loc.value = "City or Zip";
-                    }
-                    loc.style.visibility = "visible";
-                    loc.style.display = "inline";
-                    var exLocationless = document.getElementById("hdnExcludeLocationless");
-                    exLocationless.checked = "checked";
-                }
-                if (whichRadiusControl == "savedRadius") {
-                    var locSpan = document.getElementById("savedLocSpan");
-                    locSpan.style.visibility = "visible";
-                    locSpan.style.display = "inline";
-                    var loc = document.getElementById("savedLocation");
-                    if (loc.value == "0") {
-                        loc.value = "City or Zip";
-                    }
-                    loc.style.visibility = "visible";
-                    loc.style.display = "inline";
-                    var exLocationless = document.getElementById("savedExLocationless");
-                    exLocationless.checked = "checked";
-                }
-            }
-        }
-
-        var moveCounter = 45;
-        var topM = 0;
-        var displayed = true;
-
-        function toggleTopAd() {
-            var controlImage = document.getElementById("adControlImage");
-            if (displayed) {
-                displayed = false;
-                adControlImage.src = "/media/graphics/tabs/Hide_Show_Ads/Show_Ads_tab-UN3-16h.png";
-                hideTopAd();
-            } else {
-                displayed = true;
-                adControlImage.src = "/media/graphics/tabs/Hide_Show_Ads/Hide_Ads_tab-UN3-16h.png";
-                showTopAd();
-            }
-        }
-
-        function hideTopAd() {
-            var topAd = document.getElementById("everything");
-            if (document.layers) {
-                //topAd.position = "relative";
-                if (moveCounter > 0) {
-                    topM = topM + 2;
-                    topAd.top = (topM * -1);
-                    setTimeout("hideTopAd()", 5);
-                    moveCounter--;
-                } else {
-                    moveCounter = 45;
-                }
-
-            } else {
-                //topAd.style.position = "relative";
-                if (moveCounter > 0) {
-                    topM = topM + 2;
-                    topAd.style.top = (topM * -1);
-                    setTimeout("hideTopAd()", 5);
-                    moveCounter--;
-                } else {
-                    moveCounter = 45;
-                }
-            }
-        }
-
-        function showTopAd() {
-            var topAd = document.getElementById("everything");
-            if (document.layers) {
-                //topAd.position = "relative";
-                if (moveCounter > 0) {
-                    topM = topM - 2;
-                    topAd.top = (topM * -1);
-                    setTimeout("showTopAd()", 5);
-                    moveCounter--;
-                } else {
-                    moveCounter = 45;
-                }
-
-            } else {
-                //topAd.style.position = "relative";
-                if (moveCounter > 0) {
-                    topM = topM - 2;
-                    topAd.style.top = (topM * -1);
-                    setTimeout("showTopAd()", 5);
-                    moveCounter--;
-                } else {
-                    moveCounter = 45;
-                }
-            }
-        }
-
-        function overAdControlImage() {
-            if (displayed) {
-                adControlImage.src = "/media/graphics/tabs/Hide_Show_Ads/Hide_Ads_tab-16h.png";
-            } else {
-                adControlImage.src = "/media/graphics/tabs/Hide_Show_Ads/Show_Ads_tab-16h.png";
-            }
-            document.body.style.cursor = "pointer";
-        }
-        function outAdControlImage() {
-            if (displayed) {
-                adControlImage.src = "/media/graphics/tabs/Hide_Show_Ads/Hide_Ads_tab-UN3-16h.png";
-            } else {
-                adControlImage.src = "/media/graphics/tabs/Hide_Show_Ads/Show_Ads_tab-UN3-16h.png";
-            }
-            document.body.style.cursor = "auto";
-        }
-
-        function gup(name) {
-            name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
-            var regexS = "[\\?&]" + name + "=([^&#]*)";
-            var regex = new RegExp(regexS);
-            var results = regex.exec(window.location.href);
-            if (results == null)
-                return "";
-            else
-                return results[1];
-        }
-
-        function showSearch() {
-            var searchType = gup("searchType");
-
-            if (searchType == "companySearch") {
-                showCompanySearch();
-            } else {
-                showAdvancedSearch();
-            }
-        }
-    
-    </script>
-
-
-    
-    <!--end section-specific js functions -->
-    <script src="/js/default.js" type="text/javascript"></script>
-    
-    <!--begin style -->
-    <style type="text/css">
-
-        @import url(/media/stylesheets/HeaderAndFooter.css);
-        @import url(/style/jobsinmaine.css);
-        @import url(/media/stylesheets/_base_styles/base_styles.css);
-        @import url(/media/stylesheets/search/Search.css);
-        @import url(/media/stylesheets/saved_search/SavedSearch.css);
-        
-        A{color:#0f4aa2;}
-
-        A:active{color:#0f4aa2;}
-
-        A:hover{color: #FD8D37;}
-        
-        A:visited{color:gray;}
-                
-    </style>
-    <!-- end style -->
- 
- 
- <link rel="shortcut icon" href="http://www.jobsinme.com/media/graphics/Favicons/favicon-ME.ico" type="image/vnd.microsoft.icon">
- <link rel="icon" href="http://www.jobsinme.com/media/graphics/Favicons/favicon-ME.ico" type="image/vnd.microsoft.icon">
-<title>
-
-</title></head>
-
-<body><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: 0px; left: 0px; top: 0px;"></div>
-
-
-<!-- SiteCatalyst code version: H.8. 
-	Copyright 1997-2006 Omniture, Inc. More info available at
-	http://www.omniture.com -->
-
- <script src="/omniture/ME_s_code.js" language="JavaScript"></script><img name="s_i_jrcjobsinme" height="1" width="1" border="0" alt="" style="float:right;" src="https://journalregistercompany.122.2O7.net/b/ss/jrcjobsinme/1/H.8-pdv-2/s72901376362356?[AQB]&amp;ndh=1&amp;t=31/0/2020%204%3A46%3A23%205%200&amp;ce=ISO-8859-1&amp;ns=journalregistercompany&amp;pageName=Privacy%20Statement%20%7C%20JobsInME.com&amp;g=https%3A//web.archive.org/web/20141222200826id_/http%253A//www.jobsinme.com/misc/page.aspx%253Fpagenum%253D44&amp;cc=USD&amp;server=www.jobsinme.com&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"> 
-
-
-<!-- SiteCatalyst code version: H.23.3.
-Copyright 1996-2011 Adobe, Inc. All Rights Reserved
-More info available at http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName=document.title
-s.server="www.jobsinme.com"
-s.channel=""
-s.referrer=""
-s.pageType=""
-s.prop1=""
-s.prop2=""
-s.prop3=""
-s.prop4=""
-s.prop5=""
-/* Conversion Variables */
-s.campaign=gup('cid');
-s.state=""
-s.zip=""
-s.events=gup('e');
-s.products=""
-s.purchaseID=""
-s.eVar1=gup('eVar1');
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
-//--></script><noscript>
-
- <img src='http://journalregistercompany.122.2o7.net/b/ss/jrcjobsinme/1/H.23.3--NS/0' height='1' width='1' border='0' alt='' />
-</noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.23.3. -->
-
-
-<script type="text/javascript" src="/js/wz_tooltip.js"></script>
-
-<script type="text/javascript">
-    if (!document.layers)
-        document.write('<div id="overlay">')
-</script><div id="overlay" style="left: 0px; top: 0px;">
-
-<layer id="overlay">
-
-</layer>
-
-<script type="text/javascript">
-    if (!document.layers)
-        document.write('</div>')
-
-    JSFX_FloatTopDiv();
-</script></div>
-    <input name="hdnLocation" type="hidden" id="hdnLocation">
-    
-    <div id="advancedSearch">
-    <center>
-    <form action="../seek/searchJobs.aspx" method="post" name="advSearchForm" id="advSearchForm">
-    <div id="advancedSearchWrapper">
-    <table style="padding:0px;margin:0px;" cellpadding="0" cellspacing="0" border="0">
-    <tbody><tr style="padding:0px;margin:0px;">
-        <td style="width:8px;height:8px;text-align:left;font-size:2pt;padding:0px;margin:0px;">
-                <img src="/media/graphics/corners/white_corners-TL-rev.png" style="padding:0px;margin:0px;border:none;vertical-align:top;">
-        </td>
-        <td style="width:584px;height:8px;background-color:#FFF;font-size:2pt;padding:0px;margin:0px;">&nbsp;</td>
-        <td style="width:8px;height:8px;text-align:right;font-size:2pt;padding:0px;margin:0px;">
-                <img src="/media/graphics/corners/white_corners-TR-rev.png" style="padding:0px;margin:0px;border:none;vertical-align:top;">
-        </td>
-    </tr>
-    <tr style="padding:0px;margin:0px;">
-        <td style="width:600px;text-align:center;background-color:#FFF;padding:0px;margin:0px;" colspan="3">
-        
-    <a href="#" onclick="hideAdvancedSearch();"><img src="/media/graphics/buttons/Close/Close_button-20x20.png" border="0" style="float:right;padding-right:5px;"></a>
-    <a href="/misc/page.aspx?pagenum=JSHelpSearch"><img src="/media/graphics/buttons/Help/Help_button-20x20.png" border="0" style="float:right;padding-right:5px;"></a>
-    <br>
-    <center>
-        <ul id="tablist">
-            <li><a href="" class="current" onclick="return expandcontent('sc1', this)" id="basicOptions" style="background-color: rgb(210, 226, 251);">Basic Options</a></li>
-            <li><a href="" onclick="return expandcontent('sc2', this)" theme="#d2e2fb" style="background-color: rgb(255, 255, 255);">Categories</a></li>
-            <li><a href="" onclick="return expandcontent('sc3', this)" theme="#d2e2fb" style="background-color: rgb(255, 255, 255);">More</a></li>
-        </ul>
-
-        <div id="tabcontentcontainer" style="background-color: rgb(210, 226, 251);">
-
-            <div id="sc1" class="tabcontent" style="display: block;">
-                <table>
-                           
-                            <tbody><tr>
-                                <td style="font-weight:bold;font-family:Verdana;font-size:9pt;text-align:center;">
-                                <br>
-                                Search Jobs for <input type="text" name="keywords" id="headKeywords" onkeydown="checkEnterAdv(event)" onfocus="clearAdvKeywords()" value="Keywords" onmouseover="Tip('<ul><li>Separate keywords with a space or comma</li><li>Use variations such as: accounting, accountant</li><li>Check your spelling</li></ul>',TITLE,'Tips:')" onmouseout="UnTip()">
-                                within <select name="radius" id="radius" onkeydown="checkEnterAdv(event)" onchange="checkEntireStateSelected(this)"><option value="5">5 mi</option><option value="10">10 mi</option><option value="15">15 mi</option><option value="25" selected="selected">25 mi</option><option value="50">50 mi</option><option value="75">75 mi</option><option value="100">100 mi</option><option value="0">Entire State</option></select>
-                                <br><br>
-                                <span id="advLocSpan">of </span><input type="text" name="location" id="headLocation" onkeydown="checkEnterAdv(event)" size="15" onfocus="clearAdvLocation()" value="City or Zip">
-                                using <select name="searchLogic" id="searchLogic" onkeydown="checkEnterAdv(event)" onmouseover="Tip('These Search Logic options are very powerful tools... <br /> Learn how to use them by clicking the <img src=\'/media/graphics/buttons/Help/Help_button-20x20.png\' width=\'10px\' height=\'10px\' /> Look for the Search <br /> Help Topic: <i>Search Logic: Any Words, All Words and Exact Phrase</i>',TITLE,'Tip:')" onmouseout="UnTip()"><option value="ANY">any words</option><option value="ALL">all words</option><option value="EXACT">exact phrase</option></select>
-                                <br><br>
-                                <span onmouseover="Tip('A favorite option for those who typically <br />have the same job title no matter what <br />company they work for.')" onmouseout="UnTip()"><input name="titleOnly" id="titleOnly" type="checkbox" value="Y" onkeydown="checkEnterAdv(event)">Search Job Titles Only</span>
-                                <br><br>
-                                </td>
-                            </tr>
-                           
-                </tbody></table>
-            </div>
-
-            <div id="sc2" class="tabcontent" style="display: none;">
-                <select name="lbCategory" id="lbCategory" size="10" multiple=""><option value="" selected="">-- select all --</option><option value="acctng">Accounting</option><option value="clerical">Administrative, Office Support</option><option value="pubrelat">Advertising, Marketing, Public Relations</option><option value="agri">Agriculture, Forestry, Fishing</option><option value="arch">Architectural Service</option><option value="arts">Arts, Entertainment, Media</option><option value="automotive">Automotive</option><option value="invest">Banking, Finance</option><option value="biotech">Biotechnology, Pharmaceutical</option><option value="grounds">Building, Grounds Maintenance</option><option value="care">Care Giving</option><option value="childcare">Childcare Services</option><option value="const">Construction</option><option value="custodial">Custodial, Janitorial Services</option><option value="custsupp">Customer Service</option><option value="dental">Dental</option><option value="drivers">Drivers</option><option value="edu">Education</option><option value="engine">Engineering</option><option value="enviro">Environmental</option><option value="exmgmt">Executive, Management</option><option value="sports">Fitness, Recreation, Sports</option><option value="food">Food Industries, Restaurant</option><option value="government">Government</option><option value="healthadmn">Healthcare - Administrative</option><option value="healthaide">Healthcare - Aide, Assistant</option><option value="medhc">Healthcare - General</option><option value="healthhome">Healthcare - Home Healthcare</option><option value="healthlab">Healthcare - Laboratory, Radiology</option><option value="healthnurs">Healthcare - Nursing</option><option value="healthphar">Healthcare - Pharmacy</option><option value="healthprac">Healthcare - Practitioner</option><option value="healthsoc">Healthcare - Social Services, Mental Health</option><option value="healthtech">Healthcare - Technician</option><option value="healthther">Healthcare - Therapy, Rehabilitation</option><option value="hotelrest">Hospitality - Hotel</option><option value="hr">Human Resources</option><option value="insur">Insurance</option><option value="internet">Internet, E-Commerce</option><option value="dpis">IT, Computers</option><option value="news">Journalism, News, Publishing, Editing</option><option value="landscape">Landscaping Services</option><option value="lawenforce">Law Enforcement, Security</option><option value="legal">Legal</option><option value="mfring">Manufacturing</option><option value="marine">Marine Industries</option><option value="municipal">Municipal</option><option value="nonprofit">Nonprofit</option><option value="other">Other</option><option value="profes">Professional</option><option value="realestate">Real Estate</option><option value="resdev">Research, Development</option><option value="retail">Retail</option><option value="slsmkt">Sales</option><option value="perscare">Salons, Personal Care</option><option value="science">Science</option><option value="hsvcs">Social Services</option><option value="supply">Supply Chain</option><option value="technical">Technical</option><option value="telecom">Telecommunications</option><option value="telemark">Telemarketing</option><option value="textile">Textile Industries</option><option value="tourism">Tourism</option><option value="trades">Trades</option><option value="train">Training</option><option value="transport">Transportation, Logistics</option><option value="vet">Veterinary Services</option><option value="warehouse">Warehouse</option><option value="wholesale">Wholesale</option></select><br>
-				Hold CTRL key or Apple key and click to select multiple categories.
-            </div>
-
-            <div id="sc3" class="tabcontent" style="display: none;">
-                <table>
-                    <tbody><tr>
-                        <td style="vertical-align:top;">
-                            <span style="font-weight:bold;">Wage Types:</span><br>
-                            <fieldset><input type="checkbox" value="salary" name="lbWage" id="lbWage">Annual Salary<br><input type="checkbox" value="hourly" name="lbWage" id="lbWage">Hourly Wage<br><input type="checkbox" value="commsal" name="lbWage" id="lbWage">Salary Plus Commission<br><input type="checkbox" value="commdraw" name="lbWage" id="lbWage">Draw Plus Commission<br><input type="checkbox" value="commission" name="lbWage" id="lbWage">Commission Only<br><input type="checkbox" value="volunteer" name="lbWage" id="lbWage">Volunteer<br><input type="checkbox" value="subcont" name="lbWage" id="lbWage">Contract<br><input type="checkbox" value="perdiem" name="lbWage" id="lbWage">Per Diem<br><input type="checkbox" value="permile" name="lbWage" id="lbWage">Per Mile<br><input type="checkbox" value="other" name="lbWage" id="lbWage">Other Wage Type<br><input type="checkbox" value="futuredraw" name="lbWage" id="lbWage">Draw on Future Comm<br><input type="checkbox" value="unspec" name="lbWage" id="lbWage">Unspecified<br></fieldset>
-                        </td>
-                        <td style="vertical-align:top;">
-                            <span style="font-weight:bold;">Job Durations:</span><br>
-                            <fieldset><input type="checkbox" value="intern" name="lbDuration" id="lbDuration">Internship<br><input type="checkbox" value="perm" name="lbDuration" id="lbDuration">Regular<br><input type="checkbox" value="schoolyear" name="lbDuration" id="lbDuration">School Year<br><input type="checkbox" value="seasonal" name="lbDuration" id="lbDuration">Seasonal<br><input type="checkbox" value="domestic" name="lbDuration" id="lbDuration">Services - Domestic<br><input type="checkbox" value="templt" name="lbDuration" id="lbDuration">Temp<br><input type="checkbox" value="tempperm" name="lbDuration" id="lbDuration">Temp to Hire<br><input type="checkbox" value="medtrials" name="lbDuration" id="lbDuration">Trials - Medical, Clinical<br><input type="checkbox" value="unspec" name="lbDuration" id="lbDuration">Unspecified<br><input type="checkbox" value="volunteer" name="lbDuration" id="lbDuration">Volunteer<br></fieldset>
-                        </td>
-                        <td style="vertical-align:top;">
-                            <span style="font-weight:bold;">Job Types:</span><br>
-                            <fieldset><input type="checkbox" value="contract" name="lbFte" id="lbFte">Contract<br><input type="checkbox" value="full" name="lbFte" id="lbFte">Full Time<br><input type="checkbox" value="part" name="lbFte" id="lbFte">Part Time - All<br><input type="checkbox" value="partlt20" name="lbFte" id="lbFte">Part Time - less than 20 hours<br><input type="checkbox" value="perdiem" name="lbFte" id="lbFte">Per Diem<br><input type="checkbox" value="unspec" name="lbFte" id="lbFte">Unspecified<br></fieldset>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="3">
-                            <span style="font-weight:bold;">Other:</span><br>
-                            <input name="exLocationless" id="headExLocationless" type="checkbox" value="Y" onkeydown="checkEnterAdv(event)" checked="checked">Exclude locationless jobs
-                            <input name="exAgency" id="headExAgency" type="checkbox" value="Y" onkeydown="checkEnterAdv(event)">Exclude agency listings
-                        </td>
-                    </tr>
-                </tbody></table>
-            </div>
-        </div>
-    <br>
-    <div id="advErrorMessages">
-        
-            <span style="color:Black;">Did you know that you can Save your Searches? <br>Before you begin, <a href="/reguser/login.aspx?redir=/seek/searchJobs.aspx">Log in</a> or <a href="/reguser/register.aspx">Register</a> for a free account.</span>
-        
-    </div>
-    <br>
-        <a onclick="submitAdvancedSearch();"><img src="/media/graphics/buttons/Search/Search_button-20h.png" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="hideAdvancedSearch();"><img src="/media/graphics/buttons/Cancel/Cancel_button-20h.png" border="0"></a>
-    </center>
-    </td>
-        </tr>
-        <tr style="padding:0px;margin:0px;">
-            <td style="width:8px;height:8px;text-align:left;font-size:2pt;padding:0px;margin:0px;">
-                <img src="/media/graphics/corners/white_corners-BL-rev.png" style="padding:0px;margin:0px;border:none;vertical-align:bottom;">
-            </td>
-            <td style="width:584px;height:8px;background-color:#FFF;font-size:2pt;padding:0px;margin:0px;"></td>
-            <td style="width:8px;height:8px;text-align:right;font-size:2pt;padding:0px;margin:0px;">
-                <img src="/media/graphics/corners/white_corners-BR-rev.png" style="padding:0px;margin:0px;border:none;vertical-align:bottom;">
-            </td>
-        </tr>
-        </tbody></table>
-    
-    </div>
-    </form>
-	</center>
-	</div>
-	
-	 <div id="companySearch">
-	 
-	 <center>
-	 
-	 <div id="companySearchWrapper">
-	 <table style="padding:0px;margin:0px;" cellpadding="0" cellspacing="0" border="0">
-        <tbody><tr style="padding:0px;margin:0px;">
-        <td style="width:8px;height:8px;text-align:left;font-size:2pt;padding:0px;margin:0px;">
-                <img src="/media/graphics/corners/white_corners-TL-rev.png" style="padding:0px;margin:0px;border:none;vertical-align:top;">
-        </td>
-        <td style="width:484px;height:8px;background-color:#FFF;font-size:2pt;padding:0px;margin:0px;">&nbsp;</td>
-        <td style="width:8px;height:8px;text-align:right;font-size:2pt;padding:0px;margin:0px;">
-                <img src="/media/graphics/corners/white_corners-TR-rev.png" style="padding:0px;margin:0px;border:none;vertical-align:top;">
-        </td>
-    </tr>
-    <tr style="padding:0px;margin:0px;">
-        <td style="width:500px;text-align:center;background-color:#FFF;padding:0px;margin:0px;" colspan="3">
-	    
-	    <a href="#" onclick="hideCompanySearch();"><img src="/media/graphics/buttons/Close/Close_button-20x20.png" border="0" style="float:right;padding-right:5px;"></a>
-	    <a href="/misc/page.aspx?pagenum=JSHelpSearch"><img src="/media/graphics/buttons/Help/Help_button-20x20.png" border="0" style="float:right;padding-right:5px;"></a>
-	    
-	    <form action="../seek/searchCompanies.aspx" method="post" name="companySearchForm" id="companySearchForm" class="companySearchForm">
-	        <br><br>
-	        Search Company Profiles for <input type="text" name="keywords" id="coKeywords" value="Keywords" onfocus="clearCompanyKeywords();" onmouseover="Tip('<ul><li>Separate keywords with a space or comma</li><li>Use variations such as: Hospital, Lab, Laboratory</li><li>Check your spelling</li></ul>',TITLE,'Tips:')" onmouseout="UnTip()"><br><br>
-	        using <select name="coSearchLogic" value="ALL" id="coSearchLogic" onmouseover="Tip('These Search Logic options are very powerful tools... <br /> Learn how to use them by clicking the <img src=\'/media/graphics/buttons/Help/Help_button-20x20.png\' width=\'10px\' height=\'10px\' /> Look for the Search <br /> Help Topic: <i>Search Logic: Any Words, All Words and Exact Phrase</i>',TITLE,'Tip:')" onmouseout="UnTip()"><option value="ANY">any words</option><option value="ALL" selected="selected">all words</option><option value="EXACT">exact phrase</option></select><br><br>
-	        <input name="titleOnly" id="coTitleOnly" type="checkbox" value="Y">Search Company Names Only<br><br>
-	        <div id="coErrors" style="color:Red;"></div>
-	        <a onclick="submitCompanySearch();"><img src="/media/graphics/buttons/Search/Search_button-20h.png" border="0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" onclick="hideCompanySearch();"><img src="/media/graphics/buttons/Cancel/Cancel_button-20h.png" border="0"></a>
-	        <br>
-	    </form>
-	    </td>
-        </tr>
-        <tr style="padding:0px;margin:0px;">
-            <td style="width:8px;height:8px;text-align:left;font-size:2pt;padding:0px;margin:0px;" "="">
-                <img src="/media/graphics/corners/white_corners-BL-rev.png" style="padding:0px;margin:0px;border:none;vertical-align:bottom;">
-            </td>
-            <td style="width:484px;height:8px;background-color:#FFF;font-size:2pt;padding:0px;margin:0px;" "=""></td>
-            <td style="width:8px;height:8px;text-align:right;font-size:2pt;padding:0px;margin:0px;" "="">
-                <img src="/media/graphics/corners/white_corners-BR-rev.png" style="padding:0px;margin:0px;border:none;vertical-align:bottom;">
-            </td>
-        </tr>
-        </tbody></table>
-	    
-	    </div>
-	 </center>
-	 
-	 
-	 
-	 </div>
-
-    <center>
-    <div id="everything" style="position:relative;width:100%;">
-<div id="TestAdSpace" style="height:90px;width:728px;background-color:#FFFFFF;margin-top:0px;overflow:hidden;">
-
-    
-                <div id="div_jobs">
-                    <script type="text/javascript">
-                        googletag.defineSlot('/8013/JobsintheUS.com', [728, 90], 'div_jobs').setTargeting('pos', ['top_leaderboard']).setTargeting('kv', 'jobsinME').addService(googletag.pubads());
-                        googletag.pubads().enableSyncRendering();
-                        googletag.enableServices();
-                        googletag.display('div_jobs');
-                    </script>
-                </div>
-            
-</div>
-<a onclick="toggleTopAd();" onmouseover="overAdControlImage();" onmouseout="outAdControlImage();"><img src="/media/graphics/tabs/Hide_Show_Ads/Hide_Ads_tab-UN3-16h.png" style="position:relative;left:423px;margin-bottom:10px;" id="adControlImage"></a>
-	
-	
-    
-        <div class="headerHeader" style="background:url(../media/graphics/background_images/site_header/site_header-background-ME.png) no-repeat;width:908;height:90;padding:0px;margin:0px;">
-        
-        <a href="/home/home.aspx" id="homeLink">
-            <div class="logoLink" id="logoLink" style="cursor:hand;"></div>
-        </a>
-        
-        <div class="userNav">
-            
-	            <a href="/reguser/register.aspx" class="userNavLink">Register</a> | <a href="/reguser/login.aspx" class="userNavLink">Log In</a> | <a href="../misc/page.aspx?pagenum=13" class="userNavLink">Help</a>
-	        
-        </div>
-		
-        </div>
-		
-        <div id="contentBackground">
-            <table class="searchBar">
-                <tbody><tr>
-                <td>
-                <form action="../seek/searchJobs.aspx" method="post" name="searchForm" id="searchForm" class="searchForm">
-                    &nbsp;&nbsp;<img src="/media/graphics/icons/16x16/icon-search-wht.png">
-                    <span class="formText"> Search Jobs for </span><input size="26" type="text" name="keywords" id="ssKeywords" value="Keywords" onfocus="clearKeywords();" onkeydown="checkEnter(event)" onmouseover="Tip('<ul><li>Separate keywords with a space or comma</li><li>Use variations such as: accounting, accountant</li><li>Check your spelling</li></ul>',TITLE,'Tips:')" onmouseout="UnTip()" tabindex="1">
-                    <span class="formText"> within </span><select name="radius" id="ssRadius" width="30px" onkeydown="checkEnter(event)" onchange="checkEntireStateSelected(this)" tabindex="2"><option value="5">5 mi</option><option value="10">10 mi</option><option value="15">15 mi</option><option value="25" selected="">25 mi</option><option value="50">50 mi</option><option value="75">75 mi</option><option value="100">100 mi</option><option value="0">Entire State</option></select>
-                    <span id="ssLocSpan" class="formText"> of </span><input name="ssLocation" type="text" id="ssLocation" size="15" value="City or Zip" onfocus="clearLocation()" onkeydown="checkEnter(event)" tabindex="3">
-                    <input type="hidden" name="searchLogic" value="ANY" tabindex="4">
-                    <input type="hidden" name="exLocationless" id="ssExLocationless" value="Y">
-                    &nbsp;<a onclick="submitSimpleSearch();" onkeydown="checkEnter(event)" tabindex="5"><img src="/media/graphics/buttons/Search/Search_button-20h.png" border="0" style="position:relative;top:4px;"></a>
-                </form>
-                
-                </td>
-                <td style="padding:0px;margin:0px;border-left-color:#5B5B5B;border-left-width:1px;border-left-style:solid;">
-                      
-                <!-- drop down menu -->  
-                <div class="chromestyle" id="chromemenu">
-                    <ul>
-                        <li><a href="#" rel="dropmenu1">Other Search Options <img src="/media/chromemenu/down.gif" border="0"></a></li>
-                    </ul>
-                </div>
-
-                <!-- drop down menu options -->                                                   
-                <div id="dropmenu1" class="dropmenudiv">
-                    <a href="#" onclick="showAdvancedSearch()">Advanced Job Search</a>
-                    <a href="http://www.jobsinme.com/jobs_category/ME_Maine_Statewide.html">Browse Jobs by Category</a>
-                    <a href="http://www.jobsinme.com/jobs_city/ME_Maine_Statewide.html" style="border-bottom:solid 1px #BBBBBB;">Browse Jobs by City</a>
-                    <a href="#" onclick="showCompanySearch()">Company Search</a>
-                    <a href="/seek/coprofilelist.aspx">Browse Companies</a>
-                </div>
-
-
-                <script type="text/javascript">
-                    cssdropdown.startchrome("chromemenu")
-                </script>
-                </td>
-                </tr>
-            </tbody></table>
-   
-        <div id="statBar" class="statBar">
-      
-        
-        <table width="888px" style="padding:0px;margin:0px;">
-                <tbody><tr width="888px">
-                    <td width="365px" align="right">
-                        <img src="/media/graphics/icons/16x16/icon-home-gry.png">
-                        <span style="position:relative;top:-2px;">
-                        <a href="/home/home.aspx" class="statLink" target="_parent">Home</a> | 
-                        <a href="/CareerCentral/main.aspx" class="statLink" target="_parent">Job Seekers</a> | 
-                        <a href="/misc/page.aspx?pagenum=993" class="statLink" target="_parent">Employers</a> | 
-                        
-                        <a href="http://business-news.thestreet.com/jobsinME" class="statLink" target="_parent">News</a> |
-                        
-                        <a href="/misc/page.aspx?pagenum=Job_Search_Widget" class="statLink" target="_parent">More</a>
-                        
-                        </span>
-                    </td>
-                    <td width="368px" align="center">
-                        &nbsp;<span class="stats"><span class="stat" onmouseover="Tip(&quot;Total number of job openings <br \> (jobs can have multiple openings).&quot;)" onmouseout="UnTip()">12783</span> Job Openings <span class="stat" onmouseover="Tip(&quot;Total number of active companies.&quot;)" onmouseout="UnTip()">2670</span> Companies <span class="stat" onmouseover="Tip(&quot;Total number of active resumes.&quot;)" onmouseout="UnTip()">36082</span> Resumes  </span>
-                    </td>
-                    <td width="155px" align="right" style="padding-top:3px;">
-                    
-                    
-                    <link href="/media/stylesheets/social_media_nav/social_media_nav.css" rel="stylesheet" type="text/css">
-
-<div class="social_media_nav" id="ME">
-	<h1 class="hide">Follow Us on</h1>
-	<ul>
-		<li id="nav-twitter"><a href="http://www.twitter.com/JobsInME" title="Follow JobsInME.com on Twitter" target="_blank"><span class="hide">Twitter</span></a></li>
-		<li id="nav-facebook"><a href="http://www.facebook.com/JobsInME" title="Follow JobsInME.com on Facebook" target="_blank"><span class="hide">Facebook</span></a></li>
-		<li id="nav-linkedin"><a href="http://www.linkedin.com/company/JobsInTheUS.com" title="Follow JobsInTheUS.com on LinkedIn" target="_blank"><span class="hide">LinkedIn</span></a></li>
-		<li id="nav-youtube"><a href="http://www.youtube.com/view_play_list?p=36C1F6B5ABE795B8" title="Follow JobsInME.com on YouTube" target="_blank"><span class="hide">YouTube</span></a></li>
-	</ul>
-</div>
-
-                    
-                    </td>
-                </tr>
-            </tbody></table>
-        
-        </div>
-        
-        <div id="mainContent">
-        <div id="errorMessages"></div>
-
-<script language="javascript">
-function popUp(url){
-popup = window.open(url,"popup","height=335,width=400,left=100,top=100,scrollbars=1")
-	}
+<!--The following is the downloaded HTML source of the jobsinme.com privacy policy that was archived on 2019-01-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190108155056id_/https%3A//www.jobsinme.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<!-- BEGIN Main HEAD -->
+<!-- Google Tag Manager -->
+<script async="" src="//s.btstatic.com/tag.js#site=t4tmU86"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T7BLJN"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T7BLJN');</script>
+<!-- End Google Tag Manager -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="/css/vendor/normalize.css">
+<link rel="stylesheet" href="/css/vendor/jquery-ui.css">
+<link rel="stylesheet" href="/css/vendor/slick.css">
+<link rel="stylesheet" href="/css/vendor/select2.min.css">
+<link rel="stylesheet" href="/css/vendor/data-table.css">
+<link rel="stylesheet" href="/css/style.css?a=57">
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1802205300104481'); // Insert your pixel ID here.
+fbq('track', 'PageView');
 </script>
-<table width="750" height="0" border="0" align="center">
-  <tbody><tr>
-    <td height="97" valign="top">
-      <span class="Header">Privacy Statement for JobsInME.com</span>
-<p>
-JobsInME.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: JobsInME.com
-</p><p>
-<b>Cookies</b><br> 
-Our Site uses cookies to deliver content specific to your interests. A "cookie" is a small piece of information sent by a web server to store on a web browser so it can later be read back from that browser. This is useful for having the browser remember specific information so that your experience is customized. This allows us to store preferences of start pages.
-</p><p>
+<noscript><img height="1" width="1" style="display:none" 
+src="https://www.facebook.com/tr?id=1802205300104481&ev=PageView&noscript=1" 
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<!-- PushNami -->
+<link rel="manifest" href="/pushnami/jobsinme-manifest.json">
+<script type="text/javascript" src="https://api.pushnami.com/scripts/v1/push/596e56cf48aecb5e77ee17a6"></script>
+<!-- END PushNami -->
+<!--6.92 MB-->
+<script type="text/javascript" src="/includes/skins/js.tpl.php?action=privacy&amp;type="></script>
+<meta name="description" content="Real, local Maine jobs on JobsInME.com. Find employment or work in ME. Start exploring career opportunities today. Post a resume in 4 steps.">
+<link rel="SHORTCUT ICON" href="/favicon.ico">
+<title>Privacy Policy | Jobs In ME</title>
 
-<b>Registration Forms</b><br>
-Our site's registration form requires users to give us contact information (such as their name, email, and postal address). Contact information from the registration forms is used to get in touch with our users when necessary. Users may opt-out of receiving mailings; see the choice/opt-out section below. 
-</p><p>
-<b>Email addresses</b><br>
-An email address is required to register for our site. JobsInME.com will never sell or share your email address to a third party vendor. However, if you choose to publish your email address in a job or in a resume stored in our database, this information becomes public, and there is a possibility this information can be copied by our customers site visitors. 
-</p><p>
-<b>External Links</b><br> 
-This site contains links to other sites. JobsInME.com is not responsible for the privacy practices or the content of such Web sites. 
-</p><p>
-<b>Security</b><br> 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control, which includes the creation of unique user Id's and passwords. However, we are not responsible if any third party evades our security procedures and gains access to your file and your contact information. You must also be aware of the possibility that your resume and file information will be copied into hiring authority and recruiter databases. JobsInME.com has no control nor will assume any liability for the actions of any third party.
-</p><p>
-As an Applicant, you can decide not to post your resume and still establish an Account. By completing a Qualifications Summary, you can maintain your confidentiality while being made aware of career opportunities. The text of your Qualifications Summary is keyword searchable. If registered hiring authorities or recruiters want to contact you they can send an Inquiry to you. You then have the option of responding to their Inquiry or not. 
-</p><p>
-You can post your resume but omit your name and contact information. Because your resume can be keyword searched, your file is more likely to be retrieved by hiring managers when they are conducting a search. Keeping a resume on file also allows you to respond quickly to interested recruiters who have sent an Inquiry to your "My Home" page on JobsInME.com. 
-</p><p>
-If confidentiality is not important to you, you can post your resume including your name and contact information. All hiring authorities and recruiters who are Registered Users of the JobsInME.com Applicant Database will have access to your file including your name and all contact detail as supplied by you. They will have the option of contacting you directly or sending an Inquiry through JobsInME.com. 
-</p><p>
-<b>Choice/Opt-Out</b><br> 
-Our site provides users the opportunity to opt-out of our mailing list. Users can log into their account and uncheck  "I want to be on the JobsInME.com mailing list." 
-</p><p>
-<b>Acceptable Use</b><br>
-By using our site, you agree to our acceptable use policy.
-</p><p>
-<b>Contacting the Web Site</b><br> 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: <a href="mailto:info@jobsinme.com">info@jobsinme.com.</a>
-<!-- 
-Generated by <a href="http://privacy.bcentral.com">Privacy Wizard</a> -->
-</p></td>
-  </tr>
-</tbody></table>
+<meta property="og:url" content="https://www.jobsinme.com/index.php?action=privacy">
+<meta property="og:image" content="https://www.jobsinme.com/images/facebook-share/11.png">
+<style>
+</style>
+<script>
+</script>
+<!-- END Main HEAD -->
+<style type="text/css">  .JColResizer{table-layout:fixed;} .JColResizer td, .JColResizer th{overflow:hidden;padding-left:0!important; padding-right:0!important;}  .JCLRgrips{ height:0px; position:relative;} .JCLRgrip{margin-left:-5px; position:absolute; z-index:5; } .JCLRgrip .JColResizer{position:absolute;background-color:red;filter:alpha(opacity=1);opacity:0;width:10px;height:100%;cursor: e-resize;top:0px} .JCLRLastGrip{position:absolute; width:1px; } .JCLRgripDrag{ border-left:1px dotted black;	} .JCLRFlex{width:auto!important;}</style></head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T7BLJN" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+<div class="hide-mobile" style="position:absolute; top:0; left:50%; transform: translate(-50%, 0); height:35px; line-height:31px; z-index:1000;"><a href="http://blog.jobsintheus.com/" target="_blank" class="special-message">Read the Hire Local Blog</a></div><script src="/js/vendor/jquery-1.12.3.min.js"></script>
+<script src="/js/vendor/jquery-ui.min.js"></script>
+<script src="/js/vendor/jquery.cookie.js"></script>
+<div id="page">
+        <header class="main-header header-home">
+      <div class="header-top">
+          <div class="container">
+              <div class="align-left">
+                  <div class="dropdown-menu">
+                      <a href="" class="menu-trigger">Job Seekers</a>
+                      <div class="dropdown-content">
+                          <ul>
+                              <li><a href="/index.php?action=quick_register">Register</a></li>
+                              <li><a href="/index.php?action=browse_jobs">Browse Jobs</a></li>
+                              <li><a href="/seeker_faq.php">FAQs</a></li>
+                          </ul>
+                      </div>
+                  </div>
+                  <div class="dropdown-menu">
+                      <a href="" class="menu-trigger">Employers</a>
+                      <div class="dropdown-content">
+                          <ul>
+                              <li><a href="/register.php?action=company">Register</a></li>
+                              <li><a href="/quickpost">QuickPost</a></li>
+                              <li><a href="/index.php?action=pricing">Pricing</a></li>
+                              <li><a href="/index.php?action=view_testimonials">Testimonials</a></li>
+                              <li><a href="/employer_faq.php">FAQs</a></li>
+                          </ul>
+                      </div>
+                  </div>
+<span style="color:white;">Call 877-374-1088</span>
+              </div>
+              <div class="align-right">
+                  <a href="/login.php" class="sign-in">Sign in</a>
+              </div>
+          </div>
+      </div>
+            <div class="header-logo-wrapper">
+                <div class="container">
+</div>
+<a href="/" class="main-logo ">
+  <img src="/images/logos/11.png?t=1" alt="Logo">
+  <span class="logo-caption">A JobsInTheUS.com Site</span>
+</a><div class="hide-mobile" style="margin:10px 0 -20px 0;"><a href="https://www.eventbrite.com/e/me-career-fair-tickets-52311694687" target="_blank" style="text-decoration:underline; color: #18065b;">JOB SEEKERS! Join Us on January 31st for the JobsInME Career Fair! Click for Details</a></div>
+                    <div class="mobile-menu-trigger-wrapper">
+                        <a class="mobile-menu-trigger" href="#"></a>
+                    </div>
+                </div>
+            </header></div>
+            <div class="header-mobile-menu">
 
-<br>
-<table width="750" height="0" border="0" align="center">
-  <tbody><tr>
-    <td height="97" valign="top"><span class="Header">Recruiters/Employers</span><br>
-      <br>
-JobsInME.com Maine's premier job search and recruitment site.  Our goal is to develop an Applicant database of active and passive job seekers who currently live in Maine or are interested in relocating to the state. 
-<p>
-While many people who register with us are actively seeking another job, a large percentage of people are happily employed and have registered as an Applicant at JobsInME.com so they can confidentially be made aware of exceptional career opportunities when they become available.  These "passive" job seekers see JobsInME.com as a highly effective way of proactively managing their careers.   
-</p><p>
-For recruiters and hiring authorities, access to this unique database provides an effective way to identify and attract the human resource talent so vital in today's competitive marketplace. Only Registered Users will have access to the JobsInME.com Applicant Database.  Registered Users have the ability to perform key word searches for qualified candidates.  They can then send an Inquiry to any Applicant's "My Home" Page right on the JobsInME.com site, introducing the Applicant to their company and the job opportunity they represent.</p></td>
-  </tr>
-</tbody></table>
+                <ul class="mobile-menu">
+                    <li>
+                        <a href="/index.php?action=do_search">Search Jobs</a>
+                    </li>
+                    <li>
+                        <a href="/login.php">Sign In</a>
+                    </li>
+                    <li class="mobile-submenu">
+                        <a href="#">Employers</a>
 
-    <br>
-    </div>
-    </div>
-    <div id="footer" style="background:url(../media/graphics/background_images/site_footer/site_footer-background-ME.png) no-repeat;width:908;height:100;padding:0px;margin:0px;">
-        <div id="linksAndNetwork">
-            <br>
-            <a href="http://www.jobsinme.com" class="whiteLink">Home</a> | 
-            <!-- <a href="http://www.jobsinme.com/seek/jobcriteria.aspx" class="whiteLink">Search Jobs</a> |  -->
-            <a href="#" onclick="showAdvancedSearch();" class="whiteLink">Search Jobs</a>  | 
-            <!-- <a href="http://www.jobsinme.com" class="whiteLink">New Jobs</a> | -->
-            <a href="http://www.jobsinme.com/seek/coprofilelist.aspx" class="whiteLink">Company Profiles</a> | 
-            <a href="http://www.jobsinme.com/CareerCentral/main.aspx" class="whiteLink">Career Central</a> | 
-            <a href="http://www.jobsinme.com/misc/page.aspx?pagenum=993" class="whiteLink">Recruitment Resources</a>
-            <br>
-            
-            <a href="http://www.jobsinme.com/reguser/login.aspx" class="whiteLink">Register/Log In</a> | 
-            <a href="http://www.jobsinme.com/misc/page.aspx?pagenum=691" class="whiteLink">About Us</a> | 
-            <a href="http://www.jobsinme.com/misc/page.aspx?pagenum=281" class="whiteLink">Products</a> | 
-            <a href="http://www.jobsinme.com/misc/page.aspx?pagenum=13" class="whiteLink">Help</a> | 
-            <a href="http://www.jobsinme.com/misc/sitemap.aspx" class="whiteLink">Site Map</a> | 
-            <a href="http://www.jobsinme.com/misc/contactus.aspx" class="whiteLink">Contact Us</a>
+                        <ul>
+                            <li><a href="/register.php?action=company">Register</a></li>
+                            <li><a href="/quickpost">QuickPost</a></li>
+                            <li><a href="/index.php?action=pricing">Pricing</a></li>
+                            <li><a href="/index.php?action=view_testimonials">Testimonials</a></li>
+                        </ul>
+                    </li>
+                    <li class="mobile-submenu">
+                        <a href="#">Job Seekers</a>
 
-            <br><br>
-            Copyright © 2014 JobsInTheUS.com - All rights reserved
-            <br>
-            <a href="http://www.jobsinme.com/misc/page.aspx?pagenum=43" class="whiteLink">Acceptable Use Policy</a> |
-            <a href="http://www.jobsinme.com/misc/page.aspx?pagenum=44" class="whiteLink">Privacy Statement</a>
-        </div>
-        <div id="siteSelector">
-            <form id="siteSelectorForm">
-                <select name="siteSelect" id="siteSelect" onchange="siteSelectorRedirect(this)" value="NONE">
-                    <option value="NONE">Select Another State...</option>
-                    <option value="ME">JobsInME.com</option>
-                    <option value="NH">JobsInNH.com</option>
-                    <option value="VT">JobsInVT.com</option>
-                    <option value="RI">JobsInRI.com</option>
-                    <option value="MA">JobsInMA.com</option>
-                </select>
-            </form>
-        </div>
-    </div>
-    <div id="missionStatement">
-    <br>
+                        <ul>
+                            <li><a href="/index.php?action=quick_register">Register</a></li>
+                            <li><a href="/index.php?action=browse_jobs">Browse Jobs</a></li>
+                            <li><a href="/seeker_faq.php">FAQs</a></li>
+                            <li><a href="/job-fairs">Job Fairs</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/index.php?action=about_us">About</a>
+                    </li>
+                    <li>
+                        <a href="/contact.php">Contact</a>
+                    </li>
+                </ul>
 
-    JobsInME.com's mission is to help job seekers find real, local, jobs in Maine and reach their career goals.
-    <br><br>
-    With JobsInME.com, job seekers can conveniently search jobs by location, category, duration, and more. Users can also browse jobs by category and/or city. All employment opportunities are conveniently organized to facilitate the search of jobs - including full-time, part-time and temporary positions, as well as seasonal and volunteer work. Job seekers can save their custom search preferences, and even choose to receive automated Job Alert emails on a daily or weekly basis.
-    <br><br>
-    JobsInME.com is Maine's number one resource for job seekers and employers, offering insightful advice and articles through our award-winning newsletters and social media channels. JobsInME.com is actively involved in the communities we serve, partnering with local chambers of commerce, sports teams, trade associations and career centers, and attending local career fairs and business-to-business events.
-    <br><br>
-    JobsInME.com: How Maine Gets to Work.
-    <br><br>
-    <br>
-    </div>
-    </div>
-    </center>
+            </div>
+        
+<center>
+<div style="width: 700px; text-align: left; font-family: 'Open Sans', sans-serif;">
+<h1 style="color: #f05a28;">Privacy Policy</h1>
+<p>We know that you care how information about you is used and shared.  JobsInTheUS.com has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for the online, website and/or mobile platform products related to the JobsInTheUS.com network of sites (the "Products"). We will not use or share your information with anyone except as described in this Privacy Policy.  This Privacy Policy does not apply to information that we collect by other means (including offline) or from other sources. </p>
+
+<p>Cookies</p>
+<p> We use cookies to deliver content specific to your interests. A "cookie" is a small piece of information sent by a web server to store on a web browser so it can later be read back from that browser. This is useful for having the browser remember specific information so that your experience is customized. This allows us to store preferences of start pages.</p>
+
+<p>Registration Forms</p>
+<p>Our registration form requires users to give us contact information (such as their name, email, and postal address). Contact information from the registration forms is used to get in touch with our users when necessary. Users may opt-out of receiving mailings; see the choice/opt-out section below.</p>
+
+<p>Email addresses</p>
+<p> An email address is required to register. JobsInTheUS.com will never sell or share your email address to a third party vendor without your permission. However, if you choose to publish your email address in a job or in a resume stored in our database, or accessible from our Products, this information becomes public, and there is a possibility this information can then be copied by visitors to our Products.</p>
+
+<p>Content And Access</p>
+<p>If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through the Products. You may provide us information in user content you post to the Products.</p>
+
+<p>When you download and use our Products, we automatically collect information on the type of device you use, operating system version, and the device identifier.</p>
+
+<p>We collect your location based information for the purpose of setting up your phone and search preferences. We will not share this information with any third party. If you no longer wish to allow us to track your geo-location information in the mobile application you may turn this off at the device level.</p>
+
+<p>Log File Information</p>
+
+<p>Log file information is automatically reported by your browser each time you access a web page.  When you use the Products, our servers automatically records certain log file information.  These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.</p>
+
+<p>Mobile Analytics</p>
+
+<p>We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.</p>
+
+<p>External Links</p>
+<p> The Products contain links to other websites managed by third parties. JobsInTheUS.com is not responsible for the privacy practices or the content of such third party websites.</p>
+
+<p>Internal Review</p>
+
+<p>JobsInTheUS.com may use certain information about you and/or your user content internally for purposes such as analyzing how the Products are used, diagnosing service or technical problems, maintaining security, and personalizing content.</p>
+
+<p>We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Products; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems reported by our Users or engineers that are associated with certain IP addresses; (f) help you efficiently access your information after you sign in; and (g) automatically update the JobsInTheUS.com application on your devices.</p>
+
+<p>Security</p>
+<p> Our Products have security measures in place designed to seek to protect against the loss, misuse, and alteration of the information under our control, which includes the creation of unique user Id's and passwords. However, we are not responsible if any third party evades our security procedures and gains access to your file and your contact information in violation of our rules and security measures. You must also be aware of the possibility that your resume and file information will be copied into hiring authority and recruiter databases. JobsInTheUS.com has no control over, nor will assume any liability for, the actions of any third parties in these contexts.</p>
+
+<p>Non-Personally Identifiable Information</p>
+
+<p>We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain JobsInTheUS.com services.</p>
+
+<p>JobsInTheUS.com may allow third-party ad servers or ad networks to serve advertisements on the Products. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on JobsInTheUS.com. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. JobsInTheUS.com does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks JobsInTheUS.com to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. In addition, third-party advertisers may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, see http://www.networkadvertising.org/choices. The JobsInTheUS.com Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.</p>
+</div>
+</center>
+        <footer class="footer-main">
+            <div class="container-footer">
+                <div class="footer-col-left">
+                    <div class="footer-col-single">
+                        <h4>Job Seekers</h4>
+                        <ul>
+                            <li><a href="/index.php?action=browse_jobs">Browse Jobs</a></li>
+                            <li><a href="/index.php?action=quick_register">Post your resume</a></li>
+                            <li><a href="/index.php?action=quick_register">Create a job alert</a></li>
+                            <li><a href="/seeker_faq.php">FAQs</a></li>
+                            <li><a href="/in_the_news.php?cat_type=seeker">Articles</a></li>
+                            <li><a href="/index.php?action=quick_register">Register</a></li>
+                            <li><a href="/job-fairs">Job Fairs</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col-single">
+                        <h4>Employers</h4>
+                        <ul>
+                            <li><a href="/register.php?action=company">Post a job</a></li>
+                            <li><a href="/register.php?action=company">Search resumes</a></li>
+                            <li><a href="/index.php?action=pricing">Pricing</a></li>
+                            <li><a href="/employer_faq.php">FAQs</a></li>
+                            <li><a href="/in_the_news.php?cat_type=employer">Articles</a></li>
+                            <li><a href="/register.php?action=company">Register</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col-single">
+                        <h4>About us</h4>
+                        <ul>
+                            <li><a href="/contact.php">Contact us</a></li>
+                            <li><a href="/index.php?action=about_us">About Us</a></li>
+                            <li><a href="/index.php?action=view_testimonials">Testimonials</a></li>
+                            <li><a href="http://blog.jobsintheus.com" target="_blank">Hire Local Blog</a></li>
+                            <li><a href="/our_network.php">Our Network</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col-single">
+                        <h4>More info</h4>
+                        <ul>
+                            <li><a href="/index.php?action=legal">Terms of use</a></li>
+                            <li><a href="/index.php?action=privacy">Privacy policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-col-right">
+                    <div class="footer-col-right-top">
+                        <a href="#" class="footer-logo">
+                            <img src="/images/footer-logo.png" alt="JobsInTheUS Logo">
+                        </a>
+<div style="margin-top:-35px; margin-bottom:35px;">
+<select id="site_selector">
+<option value="">Select Another State</option>
+<option value="https://www.jobsinak.com">JobsInAK.com</option>
+<option value="https://www.jobsinal.com">JobsInAL.com</option>
+<option value="https://www.jobsinar.com">JobsinAR.com</option>
+<option value="https://www.jobsinariz.com">JobsinARIZ.com</option>
+<option value="https://www.jobsincal.com">JobsinCAL.com</option>
+<option value="https://www.jobsinco.com">JobsinCO.com</option>
+<option value="https://www.jobsinct.com">JobsInCT.com</option>
+<option value="https://www.jobsindc.com">JobsInDC.com</option>
+<option value="https://www.jobsinde.com">JobsInDE.com</option>
+<option value="https://www.jobsinfl.com">JobsInFL.com</option>
+<option value="https://www.jobsinga.com">JobsinGA.com</option>
+<option value="https://www.jobsinhi.com">JobsinHI.com</option>
+<option value="https://www.jobsinia.com">JobsinIA.com</option>
+<option value="https://www.jobsinid.com">JobsinID.com</option>
+<option value="https://www.jobsinil.com">JobsInIL.com</option>
+<option value="https://www.jobsinin.com">JobsinIN.com</option>
+<option value="https://www.jobsinks.com">JobsInKS.com</option>
+<option value="https://www.jobsinky.com">JobsinKY.com</option>
+<option value="https://www.jobsinlouisiana.com">JobsInLouisiana.com</option>
+<option value="https://www.jobsinma.com">JobsInMA.com</option>
+<option value="https://www.jobsinmd.com">JobsInMD.com</option>
+<option value="https://www.jobsinme.com">JobsInME.com</option>
+<option value="https://www.jobsinmi.com">JobsinMI.com</option>
+<option value="https://www.jobsinmn.com">JobsinMN.com</option>
+<option value="https://www.jobsinmo.com">JobsinMO.com</option>
+<option value="https://www.jobsinms.com">JobsInMS.com</option>
+<option value="https://www.jobsinmt.com">JobsinMT.com</option>
+<option value="https://www.jobsinnc.com">JobsinNC.com</option>
+<option value="https://www.jobsinnd.com">JobsinND.com</option>
+<option value="https://www.jobsinne.com">JobsinNE.com</option>
+<option value="https://www.jobsinnewyork.com">JobsInNewYork.com</option>
+<option value="https://www.jobsinnh.com">JobsInNH.com</option>
+<option value="https://www.jobsinnj.com">JobsInNJ.com</option>
+<option value="https://www.jobsinnm.com">JobsinNM.com</option>
+<option value="https://www.jobsinnv.com">JobsinNV.com</option>
+<option value="https://www.jobsinoh.com">JobsinOH.com</option>
+<option value="https://www.jobsinok.com">JobsinOK.com</option>
+<option value="https://www.jobsinor.com">JobsinOR.com</option>
+<option value="https://www.jobsinpa.com">JobsInPA.com</option>
+<option value="https://www.jobsinri.com">JobsInRI.com</option>
+<option value="https://www.jobsinsc.com">JobsinSC.com</option>
+<option value="https://www.jobsinsd.com">JobsinSD.com</option>
+<option value="https://www.jobsintex.com">JobsInTEX.com</option>
+<option value="https://www.jobsintheus.com">JobsInTheUS.com</option>
+<option value="https://www.jobsintn.com">JobsinTN.com</option>
+<option value="https://www.jobsinut.com">JobsinUT.com</option>
+<option value="https://www.jobsinva.com">JobsInVA.com</option>
+<option value="https://www.jobsinvt.com">JobsInVT.com</option>
+<option value="https://www.jobsinwa.com">JobsinWA.com</option>
+<option value="https://www.jobsinwi.com">JobsinWI.com</option>
+<option value="https://www.jobsinwv.com">JobsInWV.com</option>
+<option value="https://www.jobsinwy.com">JobsinWY.com</option>
+</select>
+<script>
+$(document).ready(function() {
+  $('#site_selector').change(function() {
+    var site = $('#site_selector').val();
+    if (site.length)
+      window.location.href = site;
+  });
+});
+</script>
+</div>
+                        <div class="footer-social">
+                            <h6>Find us on:</h6>
+                            <a target="_blank" href="https://www.twitter.com/JobsInME" class="social social-twitter"></a>
+                            <a target="_blank" href="https://www.facebook.com/JobsInME" class="social social-facebook"></a>
+                        </div>
+                    </div>
+                    <div class="footer-col-right-bottom">
+                        <small class="footer-legal">© 2019 <a href="https://www.jobsintheus.com">JobsInTheUS.com</a> - All rights reserved</small>
+                        <small class="footer-legal">JobsInME.com, part of the JobsInTheUS.com network, is your trusted local source for finding the most relevant jobs quickly and easily. We help local employers and qualified job seekers in  to find the perfect fit.</small>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <footer class="footer-mobile">
+            <div class="footer-mobile-top">
+                <a href="#" class="footer-logo">
+                    <img src="/images/footer-logo-mobile.png" alt="JobsInTheUS Mobile Logo">
+                </a>
+                <small class="footer-legal">© 2019 JobsInTheUS.com - All rights reserved</small>
+            </div>
+            <div class="footer-social no-print">
+                <h6>Find us on:</h6>
+                <a target="_blank" href="https://www.twitter.com/JobsInME" class="social social-twitter"></a>
+                <a target="_blank" href="https://www.facebook.com/JobsInME" class="social social-facebook"></a>
+            </div>
+            <div class="footer-mobile-bottom no-print">
+                <a href="#">To Top</a>
+                <a href="/index.php?action=pricing">Pricing</a>
+                <a href="/index.php?action=about_us">About Us</a>
+                <a href="/index.php?action=browse_jobs">Browse Jobs</a>
+            </div>
+            <div class="mobile-check"></div>
+<div style="height:10px;"></div>
+<select id="site_selector_mobile" class="no-print">
+<option value="">Select Another State</option>
+<option value="https://www.jobsinak.com">JobsInAK.com</option>
+<option value="https://www.jobsinal.com">JobsInAL.com</option>
+<option value="https://www.jobsinar.com">JobsinAR.com</option>
+<option value="https://www.jobsinariz.com">JobsinARIZ.com</option>
+<option value="https://www.jobsincal.com">JobsinCAL.com</option>
+<option value="https://www.jobsinco.com">JobsinCO.com</option>
+<option value="https://www.jobsinct.com">JobsInCT.com</option>
+<option value="https://www.jobsindc.com">JobsInDC.com</option>
+<option value="https://www.jobsinde.com">JobsInDE.com</option>
+<option value="https://www.jobsinfl.com">JobsInFL.com</option>
+<option value="https://www.jobsinga.com">JobsinGA.com</option>
+<option value="https://www.jobsinhi.com">JobsinHI.com</option>
+<option value="https://www.jobsinia.com">JobsinIA.com</option>
+<option value="https://www.jobsinid.com">JobsinID.com</option>
+<option value="https://www.jobsinil.com">JobsInIL.com</option>
+<option value="https://www.jobsinin.com">JobsinIN.com</option>
+<option value="https://www.jobsinks.com">JobsInKS.com</option>
+<option value="https://www.jobsinky.com">JobsinKY.com</option>
+<option value="https://www.jobsinlouisiana.com">JobsInLouisiana.com</option>
+<option value="https://www.jobsinma.com">JobsInMA.com</option>
+<option value="https://www.jobsinmd.com">JobsInMD.com</option>
+<option value="https://www.jobsinme.com">JobsInME.com</option>
+<option value="https://www.jobsinmi.com">JobsinMI.com</option>
+<option value="https://www.jobsinmn.com">JobsinMN.com</option>
+<option value="https://www.jobsinmo.com">JobsinMO.com</option>
+<option value="https://www.jobsinms.com">JobsInMS.com</option>
+<option value="https://www.jobsinmt.com">JobsinMT.com</option>
+<option value="https://www.jobsinnc.com">JobsinNC.com</option>
+<option value="https://www.jobsinnd.com">JobsinND.com</option>
+<option value="https://www.jobsinne.com">JobsinNE.com</option>
+<option value="https://www.jobsinnewyork.com">JobsInNewYork.com</option>
+<option value="https://www.jobsinnh.com">JobsInNH.com</option>
+<option value="https://www.jobsinnj.com">JobsInNJ.com</option>
+<option value="https://www.jobsinnm.com">JobsinNM.com</option>
+<option value="https://www.jobsinnv.com">JobsinNV.com</option>
+<option value="https://www.jobsinoh.com">JobsinOH.com</option>
+<option value="https://www.jobsinok.com">JobsinOK.com</option>
+<option value="https://www.jobsinor.com">JobsinOR.com</option>
+<option value="https://www.jobsinpa.com">JobsInPA.com</option>
+<option value="https://www.jobsinri.com">JobsInRI.com</option>
+<option value="https://www.jobsinsc.com">JobsinSC.com</option>
+<option value="https://www.jobsinsd.com">JobsinSD.com</option>
+<option value="https://www.jobsintex.com">JobsInTEX.com</option>
+<option value="https://www.jobsintheus.com">JobsInTheUS.com</option>
+<option value="https://www.jobsintn.com">JobsinTN.com</option>
+<option value="https://www.jobsinut.com">JobsinUT.com</option>
+<option value="https://www.jobsinva.com">JobsInVA.com</option>
+<option value="https://www.jobsinvt.com">JobsInVT.com</option>
+<option value="https://www.jobsinwa.com">JobsinWA.com</option>
+<option value="https://www.jobsinwi.com">JobsinWI.com</option>
+<option value="https://www.jobsinwv.com">JobsInWV.com</option>
+<option value="https://www.jobsinwy.com">JobsinWY.com</option>
+</select>
+<script>
+$(document).ready(function() {
+  $('#site_selector_mobile').change(function() {
+    var site = $('#site_selector_mobile').val();
+    if (site.length)
+      window.location.href = site;
+  });
+});
+</script>
+        </footer>
+
+<!-- #page -->
+<script src="/js/vendor/slick.min.js"></script>
+<script src="/js/vendor/moment.min.js"></script>
+<script src="/js/vendor/datatables.min.js"></script>
+<script src="/js/vendor/colResizable.min.js"></script>
+<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/buttons/1.2.2/css/buttons.dataTables.min.css">
+<script type="text/javascript" language="javascript" src="//cdn.datatables.net/buttons/1.2.2/js/dataTables.buttons.min.js"></script>
+<script type="text/javascript" language="javascript" src="//cdn.datatables.net/buttons/1.2.2/js/buttons.flash.min.js"></script>
+<script type="text/javascript" language="javascript" src="//cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js"></script>
+<script type="text/javascript" language="javascript" src="//cdn.datatables.net/buttons/1.2.2/js/buttons.html5.min.js"></script>
+<script type="text/javascript" language="javascript" src="//cdn.datatables.net/buttons/1.2.2/js/buttons.print.min.js"></script>
+<script src="/js/vendor/datetime-moment.js"></script>
+<script src="/js/vendor/select2.full.min.js"></script>
+<script src="/js/script.js?t=5"></script>
+<script type="text/javascript">
+(function () {
+var tagjs = document.createElement("script");
+var s = document.getElementsByTagName("script")[0];
+tagjs.async = true;
+tagjs.src = "//s.btstatic.com/tag.js#site=t4tmU86";
+s.parentNode.insertBefore(tagjs, s);
+}());
+</script>
+<noscript>
+<iframe src="//s.thebrighttag.com/iframe?c=t4tmU86" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
 
 
 </body></html>
