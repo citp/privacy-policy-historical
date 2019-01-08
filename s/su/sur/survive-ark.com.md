@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the survive-ark.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235417id_/http%3A//www.survive-ark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survive-ark.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108224232id_/http%3A//www.survive-ark.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Survive ARK
+# Cookie and Privacy Policy - Survive ARK
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@survive-ark.com](mailto:info@survive-ark.com).
 
@@ -10,7 +10,7 @@ At www.survive-ark.com we consider the privacy of our visitors to be extremely i
 Like many other Web sites, www.survive-ark.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 **Cookies and Web Beacons**  
-www.survive-ark.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
+www.survive-ark.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser. We also make use of third-party cookies, for which you can find more information below:
 
 **DoubleClick DART Cookie**
 
