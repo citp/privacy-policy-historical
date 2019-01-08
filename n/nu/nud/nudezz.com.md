@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nudezz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606000546id_/http%3A//www.nudezz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nudezz.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108091951id_/http%3A//nudezz.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Nudezz.com
+# Privacy Policy - Nude Girls
 
   * This is the web site of Limedia Enterprise inc.
   * We can be reached via e-mail at nudezz.com@gmail.com
