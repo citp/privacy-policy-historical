@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edensgarden.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004230458id_/https%3A//www.edensgarden.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edensgarden.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108125403id_/https%3A//www.edensgarden.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Edens Garden
 
@@ -19,5 +19,7 @@ We may also use the information we collect to notify you about important changes
 The Edens Garden website utilizes various security measures, including encryption technologies and password protection, to protect the security of your information. This ensures that only you and Edens Garden see any of your personal information.
 
 At Edens Garden we respect your privacy, If you have any questions about this privacy policy, the practices of this site, or your dealings with this website, you can contact us by sending an email to [info@edensgarden.com](mailto:info@edensgarden.com) or fill out our [contact form](https://web.archive.org/pages/contact-us).
+
+_By using our website, you (the visitor) agree to allow third parties to process your IP address, in order to determine your location for the purpose of currency conversion. You also agree to have that currency stored in a session cookie in your browser (a temporary cookie which gets automatically removed when you close your browser). We do this in order for the selected currency to remain selected and consistent when browsing our website so that the prices can convert to your (the visitor) local currency._
 
 This privacy policy is subject to change at any time.
