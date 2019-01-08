@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leviathyn.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807163952id_/https%3A//www.leviathyn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leviathyn.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108195259id_/https%3A//leviathyn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Leviathyn
+# Privacy Policy
 
 ### PRIVACY POLICY:
 
@@ -14,7 +14,7 @@ Leviathyn also collects potentially personally-identifying information like Inte
 
 ### GATHERING OF PERSONALLY-IDENTIFYING INFORMATION
 
-Certain visitors to Leviathyn’s websites choose to interact with Leviathyn in ways that require Leviathyn to gather personally-identifying information. The amount and type of information that Leviathyn gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [leviathyn.com](http://leviathyn.com/) to provide a username and email address. Those who engage in transactions with Leviathyn are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Leviathyn collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Leviathyn. Leviathyn does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Leviathyn’s websites choose to interact with Leviathyn in ways that require Leviathyn to gather personally-identifying information. The amount and type of information that Leviathyn gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [leviathyn.com](https://web.archive.org/) to provide a username and email address. Those who engage in transactions with Leviathyn are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Leviathyn collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Leviathyn. Leviathyn does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### AGGREGATED STATISTICS
 
