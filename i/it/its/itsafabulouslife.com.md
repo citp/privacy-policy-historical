@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsafabulouslife.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109052941id_/http%3A//itsafabulouslife.com/about-me/privacy-policy-disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsafabulouslife.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108211213id_/http%3A//itsafabulouslife.com/about-me/privacy-policy-disclosure-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure Policy - It's A Fabulous Life
 
