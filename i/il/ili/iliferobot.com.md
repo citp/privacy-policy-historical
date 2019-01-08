@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iliferobot.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326172946id_/http%3A//www.iliferobot.com/en/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iliferobot.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108105009id_/https%3A//www.iliferobot.com/AboutSt_CustomerService.html) for the most accurate reproduction.*
 
-# Privacy - ILIFE Automatic Vacuums Cleaner,ILIFE Robot Vacuum Cleaner
+# Privacy Policy - ILIFE ROBOT - ILIFE Robot Vacuum Cleaners
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
  **What personal information do we collect from the people that visit our website?**
 
@@ -10,7 +10,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
  **When do we collect information?**
 
-We collect information from you when you place an order, subscribe to a newsletter, respond to a survey, fill out a form, use live Chat, open a support ticket or enter information on our site.
+We collect information from you when you place an order, subscribe to a newsletter, respond to a survey, fill out a form, use live Chat, open a support ticket or enter information on our site.
 
 Provide us with feedback on our products or services.
 
@@ -18,8 +18,7 @@ Provide us with feedback on our products or services.
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
- **•**  To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
-
+• To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
  **•**  To improve our website in order to better serve you.
 
@@ -27,7 +26,7 @@ We may use the information we collect from you when you register, make a purchas
 
  **•**  To administer a contest, promotion, survey or other site feature. 
 
-To marketing and advertising products and services.
+ **•  **To marketing and advertising products and services.
 
  **•**  To quickly process your transactions.
 
@@ -39,9 +38,9 @@ To marketing and advertising products and services.
 
 We use a variety of information security measures to protect your online transactions with us.
 
- **•** We use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it.
+ **•** ** ** We use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it.
 
- **•** Our digital properties use encryption technology to protect your personal information.
+ **•** ** ** Our digital properties use encryption technology to protect your personal information.
 
  **Do we use 'cookies'?**
 
@@ -59,17 +58,17 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
   
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
 
-If you turn cookies off, some features will be disabled. It won't affect the user's experience that make your site experience more efficient and may not function properly.
+If you turn cookies off, some features will may be disabled. It won't affect the user's experience that make your site experience more efficient and may not function properly.
 
- **Third-party disclosure**
+ **Third-party** ** ** **  disclosure**
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety.   
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice and your Consent. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety.   
   
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+However, anonymous visitors information may be provided to other parties for marketing, advertising, or other uses.
 
  **Third-party links**
 
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third-party hyperlink on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
  **Google**
 
@@ -102,7 +101,7 @@ We, along with third-party vendors such as Google use first-party cookies (such 
 
  **•**  On our Privacy Policy Page
 
-Can change your personal information:
+ **•  **Can change your personal information:
 
  **•**  By emailing us
 
@@ -116,7 +115,7 @@ Can change your personal information:
 We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
  **  
-** **Does our site allow third-party behavioral tracking?**
+** **Does our site allow third-party** ** ** **behavioral tracking?**
 
 It's also important to note that we allow third-party behavioral tracking.
 
@@ -132,13 +131,11 @@ The Fair Information Practices Principles form the backbone of privacy law in th
 
  **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
-We will notify you via email
+ **•**  We will notify you via email within 7 business days.
 
- **•**  Within 7 business days
+Or
 
-We will notify the users via in-site notification
-
- **•**  Within 7 business days
+• We will notify you via in-site notification, the official website or related media release within 7 business days.
 
  **  
 **We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
@@ -155,7 +152,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
  **•**  Send you additional information related to your product and/or service.
 
- **•**  Market to our mailing list or continue to send weekly newsletters to our clients after the original transaction has occurred.
+ **•**  Market to our mailing list or continue to send weekly newsletters to our clients after the original transaction has occurred.
 
  **  
 ** **To be in accordance with CANSPAM, we agree to the following:**
@@ -175,7 +172,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
  **  
 ** **If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
-[privacy@iliferobot.com](mailto:privacy@iliferobot.com) and we will promptly remove you from  **ALL**  correspondence.
+[ privacy@iliferobot.com](mailto:privacy@iliferobot.com) and we will promptly remove you from  **ALL**  correspondence.
 
  **Contacting Us**
 
@@ -188,3 +185,9 @@ http://www.iliferobot.com/
 China
 
 [privacy@iliferobot.com](mailto:privacy@iliferobot.com)
+
+DPR：Florian Zumbusch，E-mail:fzumbusch@robovox.eu
+
+DPO: Baron Ning,E-mail:baron@iliferobot.com（ILIFE Brand）
+
+Amanda Xu，E-mail:sales10@china-ilife.com（ODM Business）
