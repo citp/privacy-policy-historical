@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the captainu.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213185809id_/https%3A//www.captainu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captainu.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108195249id_/https%3A//www.captainu.com/privacy) for the most accurate reproduction.*
 
 # About CaptainU
 
