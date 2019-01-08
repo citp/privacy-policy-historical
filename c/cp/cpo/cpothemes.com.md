@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpothemes.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220152435id_/https%3A//cpothemes.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpothemes.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108211953id_/https%3A//cpothemes.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
