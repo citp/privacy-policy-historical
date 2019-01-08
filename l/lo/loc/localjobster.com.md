@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localjobster.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906124350id_/http%3A//localjobster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localjobster.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108025231id_/https%3A//www.localjobster.com/privacy) for the most accurate reproduction.*
 
 # Local Jobster - Find Local Jobs Online
 
