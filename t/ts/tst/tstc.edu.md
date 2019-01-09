@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tstc.edu privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207120342id_/http%3A//tstc.edu/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tstc.edu privacy policy that was archived on 2019-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190109180906id_/https%3A//www.tstc.edu/footer/privacy) for the most accurate reproduction.*
 
 # Texas State Technical College | Footer | Texas State Technical College Privacy and Security
 
@@ -18,7 +18,7 @@ If you wish to block, erase, or be warned of cookies, please refer to your brows
 
 ## Web analytics
 
-You can browse our website without giving us any personal information. We use web analytics technology, including specifically Google Analytics and Google Analytics Demographics and Interest Reporting, to help us analyze traffic to the Sites in order to understand visitors’ interests and to continually update our Site to improve a user’s experience. [Visit Google’s Privacy Policy](http://www.google.com/policies/privacy/partners/ "Google Privacy Policy") to learn how Google Analytics collects and processes data. You may choose to engage Google Analytics’ currently available [opt-outs for the web](https://tools.google.com/dlpage/gaoptout/ "opt-outs for the web").
+You can browse our website without giving us any personal information. We use web analytics technology, including specifically Google Analytics and Google Analytics Demographics and Interest Reporting, to help us analyze traffic to the Sites in order to understand visitors’ interests and to continually update our Site to improve a user’s experience. [Visit Google’s Privacy Policy](https://www.google.com/policies/privacy/partners/ "Google Privacy Policy") to learn how Google Analytics collects and processes data. You may choose to engage Google Analytics’ currently available [opt-outs for the web](https://tools.google.com/dlpage/gaoptout/ "opt-outs for the web").
 
 If you choose to enter a contest or giveaway, make a donation, fill out a form or subscribe to emails, you give the Foundation consent to monitor your browsing patterns in order to provide you with a better browsing experience for future visits and additional information on topics that you find of interest.
 
@@ -51,7 +51,7 @@ Extensive security measures consistent with the Texas Administrative Code (TAC) 
 
 ## Questions
 
-TSTC complies with the [State Website Linking and Privacy Policy (PDF)](http://publishingext.dir.texas.gov/portal/internal/resources/DocumentLibrary/State%20Website%20Linking%20and%20Privacy%20Policy.pdf "State Website Linking Privacy Policy"). If you have any questions about the practices of this site or your use of this website, please contact the webmaster or through regular mail at:
+TSTC complies with the [State Website Linking and Privacy Policy (PDF)](https://publishingext.dir.texas.gov/portal/internal/resources/DocumentLibrary/State%20Website%20Linking%20and%20Privacy%20Policy.pdf "State Website Linking Privacy Policy"). If you have any questions about the practices of this site or your use of this website, please contact the webmaster or through regular mail at:
 
   
 Texas State Technical College  
