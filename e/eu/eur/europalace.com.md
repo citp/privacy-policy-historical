@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europalace.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111113328id_/https%3A//www.europalace.com/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europalace.com privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110004247id_/https%3A//www.europalace.com/security-privacy) for the most accurate reproduction.*
 
 # Security Policy |Euro Palace Online Casino
 
