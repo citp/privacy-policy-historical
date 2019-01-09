@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oneliker.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630012620id_/http%3A//oneliker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneliker.com privacy policy that was archived on 2019-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190109010358id_/https%3A//oneliker.com/privacy-policy) for the most accurate reproduction.*
 
 # One Liker - Facebook Auto Liker - Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact](https://web.archive.org/cdn-cgi/l/email-protection#adcec2c3d9ccced9ede2c3c8e1c4c6c8df83cec2c0).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact](mailto:contact@OneLiker.com).
 
 At OneLiker.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by OneLiker.com and how we use it. 
 
@@ -15,7 +15,7 @@ OneLiker.com uses cookies to store information about visitors' preferences, to r
 **DoubleClick DART Cookie**  
 → Google, as a third party vendor, uses cookies to serve ads on OneLiker.com.  
 → Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to OneLiker.com and other sites on the Internet.   
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <https://www.google.com/privacy_ads.html>
 
 **Our Advertising Partners**  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
