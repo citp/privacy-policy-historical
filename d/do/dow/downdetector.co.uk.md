@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the downdetector.co.uk privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901094804id_/http%3A//downdetector.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downdetector.co.uk privacy policy that was archived on 2019-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190109204215id_/https%3A//downdetector.co.uk/privacy-statement) for the most accurate reproduction.*
 
-# Privacy and cookie statement Down Detector
+# Privacy and cookie statement Downdetector
 
 #### Privacy and Cookie Statement
 
