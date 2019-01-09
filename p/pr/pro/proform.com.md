@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proform.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001163025id_/https%3A//www.proform.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proform.com privacy policy that was archived on 2019-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190109153037id_/https%3A//www.proform.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Page | ProForm
 
