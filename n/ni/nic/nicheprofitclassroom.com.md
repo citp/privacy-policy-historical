@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicheprofitclassroom.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623172251id_/http%3A//www.nicheprofitclassroom.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicheprofitclassroom.com privacy policy that was archived on 2019-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190109104018id_/https%3A//www.nicheprofitclassroom.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,6 +46,6 @@ Niche Profit Classroom will occasionally update this Statement of Privacy to ref
 
 **Contact Information**
 
-Niche Profit Classroom welcomes your comments regarding this Statement of Privacy. If you believe that Niche Profit Classroom has not adhered to this Statement, please contact Niche Profit Classroom at the following web page: <http://www.nicheprofitclassroom.com/support.html>
+Niche Profit Classroom welcomes your comments regarding this Statement of Privacy. If you believe that Niche Profit Classroom has not adhered to this Statement, please contact Niche Profit Classroom at the following web page: [https://yellowbird.freshdesk.com](https://yellowbird.freshdesk.com/)
 
 We will use commercially reasonable efforts to promptly determine and remedy the problem.
