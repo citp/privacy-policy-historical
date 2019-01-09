@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marquette.edu privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930132036id_/http%3A//marquette.edu/tools/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marquette.edu privacy policy that was archived on 2019-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190109214846id_/https%3A//www.marquette.edu/tools/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy // Marquette Tools // Marquette University
 
