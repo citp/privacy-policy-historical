@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorsure.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201021418id_/http%3A//www.authorsure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorsure.com privacy policy that was archived on 2019-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190109080732id_/http%3A//www.authorsure.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,8 +16,7 @@ A cookie is a piece of data stored on the user’s hard drive containing informa
 
 ### External Links
 
-This web site may contain links to other sites. Please be aware that AuthorSure.com are not responsible for the privacy policies of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies only to information collected by this web site.  
-
+This web site may contain links to other sites. Please be aware that AuthorSure.com are not responsible for the privacy policies of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies only to information collected by this web site.
 
 ## How to Contact Us
 
