@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localfrog.in privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117191701id_/https%3A//www.localfrog.in/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localfrog.in privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110164346id_/https%3A//www.localfrog.in/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - localFROG
 
