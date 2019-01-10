@@ -1,100 +1,156 @@
-> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221150321id_/http%3A//www.looksmart.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looksmart.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111004153id_/http%3A//www.looksmart.com/privacy-policy.php) for the most accurate reproduction.*
 
 # LookSmart - Web Search
 
-**Last revised August 13th 2014**
+**Last revised May 25th 2018**
 
-LookSmart.com, a service of LookSmart, Ltd., has created this privacy statement to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the [www.LookSmart.com](http://www.looksmart.com/) site.
+The purpose of this Privacy Policy (this "Policy") is to inform you of regarding the use of data within the LookSmart Ad Network as well as those affiliated with us, including data processors, sub-processors and third-party partners. This Policy shall also provide you information regarding how to manage certain data collected about you.
 
-The following questions are answered below:
+If you have any questions about this privacy statement, please submit them by emailing us at support@looksmart.net.
 
-1\. What information does LookSmart.com collect?   
-2\. What organization is collecting the information?   
-3\. What does LookSmart.com do with the data it collects?   
-4\. With whom does LookSmart.com share data?   
-5\. What choices are available regarding collection, use and distribution of the information? (Opt-Out Policy)   
-6\. How can I update or correct my information?   
-7\. How can I delete my information?   
-8\. What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart.com's control?   
-9\. What about privacy policies for sites to which LookSmart.com links?   
-10\. What happens to my information if LookSmart.com merges with or is sold to another company?   
-11\. Notification of Changes   
-12\. Contact Information
+**Definitions**
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this site, please submit them by clicking on the "Questions" tab at the left edge of the window.
+Company - LookSmart Group, Inc., a company registered in Henderson, Nevada, United States
 
-**1\. What information does LookSmart.com collect?**
+Platform - The services provided by Company to Clients
 
-At different times, LookSmart.com may collect several types of information about you. Except as otherwise stated in this privacy policy, we do not provide this information to third parties, except in aggregate form.
+Client - Our primary clients are Advertisers and Publishers who utilize the Platform to create, edit and maintain advertising campaigns or to sell advertising placements.
 
-First, we or our partners or advertisers may use a feature of your browser called a cookie to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer - but not you - to our servers every time you visit our site. Cookies by themselves cannot be used to find out the identity of any user. You can turn the cookies feature off by using your browser's preference options, but if you do so you may not be able to utilize some services properly.
+User - An individual who receives or otherwise interacts with an advertisement, or an individual who visits looksmart.com or its subdomains
 
-Second, we keep track of your IP address to help diagnose problems with our servers and to administer our site. Your IP address is a number that identifies a computer which accesses the Internet. This address is used to gather broad demographic information about you, such as your Internet service provider and the geographic location of your IP address. LookSmart.com may also collect aggregate information on how our users are utilizing the site. This might include information regarding traffic patterns through the site and search queries.
+Data Subject - The person about whom personal data relates. This could be a Client or a User.
 
-Third, we log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site. Again, LookSmart.com uses this information on an aggregate basis, in this case making sure we can support overall visitor traffic and service performance.
+Processor - The technology providers or sub processors who maintain a data processing agreement with the Company.
 
-Fourth, at specific times we may ask you to provide us with personal information to enable you to register for a service or to enter a sweepstakes. You may also provide personal information if you write us feedback email. This information may include but is not limited to your name and email address. You may always choose not to provide us with this information; however, this may limit our ability to provide you with a specific service, offer you personalized content, or respond to your feedback.
+**Personally Identifiable Information**
 
-Fifth, our service partners may collect information on our behalf about our users' visiting behaviors in several ways, including through the use of cookies or pixel tags. We use these service partners to understand what is popular and useful for visitors. Our service partners are contractually prohibited from disclosing this information to any third party.
+Personally Identifiable Information (“PII”) is information about you that can be used to contact you or identify you as an individual. PII may include: your name, username, phone number, email address, and physical address. To the extent we obtain PII about you, such information shall be held for no more than one (1) year before it is deleted.
 
-**2\. What organization is collecting the information?**
+**Personal Data**
 
-LookSmart.com usually collects the requested information. However, LookSmart.com has chosen select partners to provide certain services. To use certain services on the site, it may be necessary to enter information that then goes to our partner and is not kept by LookSmart.com. The areas of our site in which partners are collecting information may be cobranded with our partners' logos. If you have questions regarding the privacy policy or data collection practices of one of our content partners, please contact that partner directly.
+Personal Data is information that is associated with an individual and enables that individual User to be singled out. Through the use of ad tags and cookies we collect information about you. Typically, the information obtained does not identify you directly (i.e. by name or email address), however, the information may indirectly identify your device or geolocate you for purposes of delivering targeted advertisements.
 
-**3\. What does LookSmart.com do with the data it collects?**
+Under European privacy law, some information transmitted by Cookies and Tags including Log Data are considered personal information. To the extent we obtain Personal Data about you, such information shall be held for no more than one (1) year before it is deleted.
 
-Whenever LookSmart.com collects data, the data is intended to tailor or improve the experience of visitors to our site. From the data collected we can customize content and advertising based on the user's preferences. We may use information from cookies to differentiate between unique users, personalize the site for each unique user, to control the frequency of individual advertisements directed to individual computers, and other purposes. In all cases, personally identifiable information is not shared with our advertisers, except as otherwise stated in this privacy policy.
+**What Information We Collect for Client's Accounts**
 
-We use IP addresses to help diagnose problems with our server and to administer our site. It's the way we can make sure our service is consistently available to you.
+Registration information - Your first and last name, mailing address, phone number, email address, Skype contact and other similar contact details
 
-If you register for a service or to enter a sweepstakes, we may use the information we collect to provide the service to you or send communications regarding the sweepstakes. We may also send a newsletter by email to our users who opt to receive such emails. It is our policy to send these emails only to users who give us permission to do so. In every such email, we will also have instructions on how to unsubscribe to avoid receiving any future emails from us. LookSmart.com also may contact you by email to respond to feedback you have submitted.
+Technical / Access information - Details including your IP (Internet Protocol) Address, User-Agent and activity including pages accessed, information entered are stored for fraud prevention and security auditing.
 
-**4\. With whom does LookSmart.com share data?**
+The information we collect and log, as outlined above, is necessary for secure account access and for securing the data systems of the platform. This information will not be sold or otherwise transmitted for commercial usage.
 
-LookSmart.com may disclose your personal information to our business partners to provide you with the services you have requested, or to companies that offer a cobranded version of our site. If you have questions regarding the privacy policy or data-collection practices of one of our business partners, please contact that partner directly. LookSmart.com does not have control over and is not responsible for the data collection and use practices of our business partners. LookSmart.com may also disclose your personal information to other members of the LookSmart.com family of businesses.
+**Information Collected Relating to Users and Advertising**
 
-We also may disclose your personal information (including without limitation IP addresses) to a third party if the law or legal process requires it, to protect the rights or property of LookSmart.com or others, or as otherwise described in this privacy policy.
+Device and Connection Information - Details including your IP (Internet Protocol) Address, User-Agent and activity including URLs of websites or names of applications accessed. The details of a User’s device and the context of where it is seen, as it related to URLs and applications is important for general ad targeting. These elements of a User’s browser or device are available for targeting, but are not made available to target a User individually.
 
-We may disclose certain non-personally identifiable information about you to advertisers or other third parties to present you with targeted advertisements. We may share aggregate demographic information with our advertisers or information collection companies, but will not reveal any personally identifiable information in these instances.
+Where ads may be targeted directly to a user - commonly called "retargeting", in service of an advertiser or merchant whose website or app a User may have interacted with previously, clear and informed consent will be collected before such retargeting techniques will be activated.
 
-**5\. What choices are available regarding collection, use and distribution of the information? (Opt-Out Policy)**
+**Your Rights as a Resident of the European Economic Area**
 
-As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content.
+If you are located in the European Economic Area ("EEA"), you have certain rights with respect to your personal data, including the right to request access to, correct, amend, delete, port to another service provider, or object to certain uses of your personal data.
 
-To learn more about the collection of information by third party advertising networks, including how to opt out of such collection, see the links below.
+Your data may be obtained to pursue the following legitimate interests, either for ourselves, our Clients, or other third parties.
 
-We use the Captify, Chango and Magnetic platforms for search and display advertising.  For more information regarding opt-out for data collection and ad targeting for search and display, please visit the relevant pages for each platform.  
-Captify: <http://www.captify.co.uk/privacy.php>  
-Chango: <http://www.chango.com/privacy/opt-out/>  
-Magnetic: <http://www.magnetic.com/privacy/corporate-privacy-policy/>
+To provide Clients with services related to our Platform;  
 
-We use the DataXu platform for our display and video advertising.  For more information regarding opt-out for data collection and ad targeting for display and video, please visit:  
-<http://www.networkadvertising.org/managing/opt_out.asp>
 
-**6\. How can I update or correct my information?**
+To prevent risk and fraud on our Platform;  
 
-LookSmart.com does not currently have a method for users to change their user information. In the case of personalized services, you will be able to modify your user information through personalization links on those pages.
 
-**7\. How can I delete my information?**
+To provide communications, marketing, and advertising via the Platform;  
 
-LookSmart.com currently does not have a method for completely deleting user information from our database. However, deleting the cookie stored on your computer will cause you to be perceived as a new user with no known user data. You may also change a setting in your browser, instructing it not to accept cookies, but this could prevent you from receiving some LookSmart.com services.
 
-**8\. What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart.com's control?**
+To provide reporting and analytics;  
 
-Except as otherwise stated in this privacy policy, LookSmart.com has taken measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at LookSmart.com or its partners, and only after a password has been entered. In the unlikely event of a security breach for which we provide notice under Cal. Civ. Code § 1798.82, LookSmart.com will send a notification to the email address on file (if any) for each relevant user informing him or her of the security breach.
 
-**9\. What about privacy policies for sites to which LookSmart.com links?**
+To help Clients integrate with third party publishers and advertiser platforms via the Platform;  
 
-LookSmart.com contains many links to Web sites not controlled by LookSmart.com. These sites have their own policies and practices with respect to online privacy, and LookSmart.com cannot be responsible for the privacy practices or the content of these Web sites.
 
-**10\. What happens to my information if LookSmart.com merges with or its assets are sold to another company?**
+To provide troubleshooting, support services, or to answer questions;  
 
-It is possible that LookSmart.com and/or any of our assets may be acquired. In such a transaction, user information may be transferred to the acquiring entity. While we will endeavor to require the successor company to maintain this privacy policy, we cannot guarantee that our policy will remain in effect.
 
-**11\. Notification of Changes**
+To test out features or additional services; and  
 
-This policy may be revised over time as new features are added to the site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this page for information about revisions to our privacy policy.
 
-**12\. Contact Information**
+To improve our services, applications, and websites.
 
-If you have any questions about this privacy policy or about LookSmart.com's information collection practices, please submit them by clicking on the "Questions" tab at the left edge of the window.
+When we process personal information to pursue these legitimate interests, we do so where we believe the nature of the processing, the information being processed, and the technical and organizational measures employed to protect that information can help mitigate the risks to the data subject.
+
+**Consent, Data Subject Requests, Opting-Out and Right of Access**
+
+If you are a Client, at any time, you may request closure of your account and revoke our permission by emailing us at support@looksmart.net, or request logs based on your personal access.
+
+If you are a User and a resident of the EEA who believes they may have PII recorded, please use the Contact section, at the bottom of the document, to direct your inquiries or requests based on your rights outlined above.
+
+**Children's Online Privacy Protection Act Compliance (COPPA)**
+
+The Platform and services are intended for general audiences and are not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us by emailing us at support@looksmart.net.
+
+If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate any account linked to such underage minor.
+
+**Data Retention**
+
+If you are using the Platform as a Client, we will maintain your registration information for our records unless and until you ask us to delete this information, or otherwise update said information.
+
+**Data Related to Advertisements**
+
+We may retain other data within our databases, related to your connection, advertisements served or other related information that we process on behalf of our Clients for a period of up to six (6) months unless otherwise required specific legal obligations, dispute settlements or contract enforcement.
+
+After this period, The Company and its Processors may maintain and use such data in an aggregated format, as necessary for internal analytical purposes, to comply with its legal obligations, settle disputes and enforce contracts.
+
+**How do we protect your information?**
+
+The Company and its Processor(s) uses both physical and technical security measures to maintain an accepted industry security standard to protect all data on the Platform from misuse and/or unauthorized access.
+
+**Physical Measures of Data Security**
+
+The Company and its Processor maintains a private, physical “cloud” infrastructure of hardware to provide the Platform services.
+
+Access to this hardware is secured by twenty-four (24) hour, seven (7) days a week on site guards. Building access is secured by keycard entry into the rooms that store the infrastructure.
+
+Access to logs and other sensitive data is controlled and monitored to ensure employees of the Company and its Processors have a legitimate basis for accessing the data.
+
+**Technical Measures**
+
+Data sent between Company and its Processors are encrypted using the HTTPS protocol.
+
+The Company and its Processors also encrypt any sensitive stored information, and all Client passwords are salted and hashed using state-of-the-art encryption methods.
+
+**Data Breach**
+
+While we cannot guarantee misuse of data and or unauthorized access will not occur; we make good faith efforts to prevent such occurrences. We do not warrant or represent that your account or any of your information will be protected against any misuse by third parties.
+
+In the case of a breach which we determine may have involved your personal information, there will be timely efforts to contact you and also alerts to the relevant local authorities.
+
+**Do we disclose any information to third parties?**
+
+We may also share your information in the following circumstances:  
+To prevent, investigate, or take action regarding illegal activities, suspected fraud, violations of Terms of Service or any other agreement related to the Platform, or as otherwise required by law.  
+To conform to legal requirements, or to respond to lawful court orders, subpoenas, warrants, or other requests by public authorities (including to meet national security or law enforcement requirements).  
+Personal information may also be shared with a company that acquires our business, whether through merger, acquisition, bankruptcy, dissolution, reorganization, or other similar transaction or proceeding. If this happens, we will post a notice on our home page.  
+
+
+**Cookies**
+
+We, and third parties with whom we partner, may use cookies, web beacons, tags, scripts, advertising identifiers (including mobile identifiers such as Apple’s IDFA or Google’s Advertising ID) and similar technology (​"Cookies") in connection with your use of the Platform, third partywebsite, and mobile applications. Cookies may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our web pages. Cookies may transmit information about you and your use of the Platform, such as your browser type, search preferences, IP address, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use. Cookies may be persistent or stored only during an individual session.
+
+The purposes for which we use Cookies in the Service include:
+
+Purpose| Explanation  
+---|---  
+Processes| Intended to make the service work in the way you expect. For example, we use a Cookie that tells us whether you have already signed up for an account.  
+Authentication, Security, and Compliance| Intended to prevent fraud, protect your data from unauthorized parties, and comply with legal requirements. For example, we use Cookies to determine if you are logged in.  
+Preferences| Intended to remember information about how you prefer the service over our Platform to behave and look. For example, we use a Cookie that tells us whether you have declined to allow us to send push notifications.  
+Advertising| Intended to make advertising more relevant to users and more valuable to advertisers. For example, we may use Cookies to serve you interest-based ads, such as ads that are displayed to you based on your visits to other websites, or to tell us if you have recently clicked on an ad.  
+Analytics| Intended to help us understand how visitors use the Platform. For example, we use a Cookie that tells us how our search suggestions correlate to your interactions with the search page.  
+  
+You can set some Cookie preferences through your device or browser settings, but doing so may affect the functionality of the service over the Platform. The method for disabling Cookies may vary by device and browser, but can usually be found in your device or browser preferences or security settings. For example, iOS and Android devices each have settings which are designed to limit forms of ad tracking. Please note that changing any of these settings does not prevent the display of certain advertisements to you.
+
+**Changes to the Privacy Policy**
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons. The most current version of our privacy policy shall govern how we collect, use and disclose information about you. By continuing to use our services after changes to the privacy policy become effective, you acknowledge any such revised privacy policy.
+
+**How to Contact Us**
+
+If you have any questions about this Privacy Policy, you may contact us by email at support@looksmart.net.
