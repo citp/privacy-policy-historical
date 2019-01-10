@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimblecommerce.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322220250id_/http%3A//www.nimblecommerce.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimblecommerce.com privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110170739id_/http%3A//www.nimblecommerce.com/privacyPolicy) for the most accurate reproduction.*
 
 # NimbleCommerce - Group Buying and Local Commerce Platform
 
@@ -50,7 +50,7 @@ NimbleCommerce offers you a means to choose how we may use information you provi
 
 ### Correcting and Updating Your Information
 
-To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a NimbleCommerce Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [support@nimblecommerce.com](mailto:support@nimblecommerce.com). 
+To update or change registration information, to update billing information, or to discontinue the Services, log on to the Services at a NimbleCommerce Web site, click the Setup tab, and click links to these tasks. You can also correct and update information by e-mailing [DL-HawkCommerceProdErrors@bhnetwork.com](mailto:DL-HawkCommerceProdErrors@bhnetwork.com). 
 
 ###  Additional Information 
 
