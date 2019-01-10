@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realitytvrevisited.com privacy policy that was archived on 2018-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180918162605id_/http%3A//www.realitytvrevisited.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitytvrevisited.com privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110221750id_/https%3A//www.realitytvrevisited.com/p/privacy.html) for the most accurate reproduction.*
 
 # Reality Tv Revisited: Privacy Policy
 
@@ -12,7 +12,7 @@ We use **Google Adsense** and **Taboola** as advertisers and  **Google Analytic
 **  
 You can opt out of personalised advertising [here](https://adssettings.google.com/) and for third party ads [here](http://www.aboutads.info/choices/)**  
 **  
-You can disable all Doubleclick cookies [here](http://www.google.com/settings/ads/onweb/optout)**  
+You can disable all Doubleclick cookies [here](https://www.google.com/settings/ads/onweb/optout)**  
 **  
 ****You can opt out of all DAA Ad Services  [here.](http://optout.aboutads.info/?c=2#!/)**  
 **  
