@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digilocker.gov.in privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129170409id_/https%3A//digilocker.gov.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digilocker.gov.in privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110092859id_/https%3A//digilocker.gov.in/privacypolicy.php) for the most accurate reproduction.*
 
 # DigiLocker | Privacy Policy
 
