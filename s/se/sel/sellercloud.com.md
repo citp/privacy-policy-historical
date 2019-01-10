@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sellercloud.com privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101125849id_/https%3A//www.sellercloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellercloud.com privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110221701id_/https%3A//www.sellercloud.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : SellerCloud - A single-source management solution
+# Privacy Policy: Multi Channel Ecommerce Software | Inventory Management Solution - SellerCloud
 
 Privacy Policy
 
