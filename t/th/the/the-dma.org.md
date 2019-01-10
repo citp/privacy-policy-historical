@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-dma.org privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004153805id_/https%3A//thedma.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-dma.org privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110045423id_/https%3A//thedma.org/privacy-policy) for the most accurate reproduction.*
 
 # Data & Marketing Association Privacy Policy - DMA Privacy Policy | thedma.org
 
@@ -71,8 +71,8 @@ Please note that DMA members who opt-out of promotional DMA communications will 
 You may also contact us to indicate your preferences by mail or phone:
 
 DMA  
-1333 Broadway Suite 301  
-New York, NY 10018  
+225 Reinekers Lane, Suite 325  
+Alexandria, VA 22314  
 (212) 768-7277 Extension 1500
 
 Registered users of this site may update their information by logging in to this site and changing their information.
@@ -91,7 +91,7 @@ If you have questions about this Privacy Policy, please contact us at:
 
 Attention: Privacy Policy  
 DMA  
-1333 Broadway Suite 301  
-New York, NY 10018
+225 Reinekers Lane, Suite 325  
+Alexandria, VA 22314
 
 Or via email: [ethics@thedma.org](mailto:ethics@thedma.org)
