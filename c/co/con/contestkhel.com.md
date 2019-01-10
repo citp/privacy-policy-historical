@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contestkhel.com privacy policy that was archived on 2018-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180211215512id_/http%3A//www.contestkhel.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contestkhel.com privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110203538id_/http%3A//www.contestkhel.com/page/privacy) for the most accurate reproduction.*
 
 # ContestKhel
 
