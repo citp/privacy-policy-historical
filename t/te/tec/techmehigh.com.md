@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techmehigh.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031152800id_/http%3A//techmehigh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmehigh.com privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110112004id_/http%3A//techmehigh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tech Me High
 
