@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nativo.net privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625165630id_/https%3A//www.nativo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativo.net privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110172108id_/https%3A//www.nativo.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy — Nativo Native Platform
 
