@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sport-fitness-advisor.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908040300id_/https%3A//www.jenreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sport-fitness-advisor.com privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110141208id_/https%3A//www.jenreviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Disclaimer, Privacy Policy and Terms of Use - Jen Reviews
+# Disclaimer, Privacy Policy and Terms of Use | Jen Reviews
 
 Jen Reviews is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
