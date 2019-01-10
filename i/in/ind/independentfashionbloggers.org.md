@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independentfashionbloggers.org privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509105858id_/http%3A//independentfashionbloggers.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentfashionbloggers.org privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110072736id_/https%3A//independentfashionbloggers.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Independent Fashion Bloggers
 
