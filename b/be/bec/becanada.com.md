@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the becanada.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812002208id_/http%3A//www.becanada.com/internet/internet_marketing_resources/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becanada.com privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110165828id_/https%3A//www.becanada.com/internet/internet_marketing_resources/privacy.html) for the most accurate reproduction.*
 
 # Becanada : Privacy Policy
 
 **Becanada Privacy Policy: **
 
-Becanada has been in business now for over 15 years and has 1000s of clients worldwide. Becanada is committed to creating and selling quality products and services and supporting said products and services with prompt support service. These policies apply to ALL Becanada products and services; including all sites/services owned by or sold by Becanada directly. If you have ANY questions about these policies and/or any other questions ; including questions about our products/services - please [contact us](http://www.becanada.com/internet/internet_marketing_resources/email.htm). 
+Becanada has been in business now for over 15 years and has 1000s of clients worldwide. Becanada is committed to creating and selling quality products and services and supporting said products and services with prompt support service. These policies apply to ALL Becanada products and services; including all sites/services owned by or sold by Becanada directly. If you have ANY questions about these policies and/or any other questions ; including questions about our products/services - please [contact us](https://www.becanada.com/internet/internet_marketing_resources/email.htm). 
 
 **What information do we collect?**
 
@@ -72,7 +72,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms of service](http://www.becanada.com/internet/internet_marketing_resources/tos.html)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms of service](https://www.becanada.com/internet/internet_marketing_resources/tos.html)
 
 **Your Consent**
 
