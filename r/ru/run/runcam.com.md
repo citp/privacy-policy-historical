@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runcam.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203081658id_/http%3A//runcam.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runcam.com privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110040154id_/https%3A//runcam.com/support/privacy) for the most accurate reproduction.*
 
 # RunCam
 
