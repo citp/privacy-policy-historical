@@ -1,127 +1,125 @@
-> *The following text is extracted and transformed from the makeuprevolutionstore.com privacy policy that was archived on 2016-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160725100535id_/http%3A//www.makeuprevolutionstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeuprevolutionstore.com privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110165506id_/https%3A//www.revolutionbeauty.com/en/Privacy-Policy/cc-4.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Revolution Beauty
 
-**Key details**
+**1\. Who are we?**
 
-This website privacy policy describes how TAM BEAUTY (DISTRIBUTION) LTD protects and makes use of the information you give the company when you use this website.
+1.1 We are Revolution Beauty Limited trading as “Revolution Beauty”. For privacy queries, you can contact us at [Help@revolutionbeauty.com](mailto:help@revolutionbeauty.com). Other contact details are on our website.
 
-If you are asked to provide information when using this website, it will only be used in the ways described in this privacy policy. This policy is updated from time to time. The latest version is published on this page.
+**2\. What’s the point of this policy?**
 
-This website privacy policy was updated on: **08/01/2016**
+2.1 It tells you what to expect when we collect your personal information via our website or social media (together referred to below as “our service”).
 
-If you have any questions about this policy, please [contact us here](https://www.makeuprevolutionstore.com/contacts/) or write to: TAM Beauty (Distribution) Ltd, Units 4-5 Sheet Glass Road, Cullet Drive, Queenborough, Kent, ME11 5JS.
+2.2 Generally, the policy covers only information provided to us. If you give personal information to other people, such as payment providers or other websites, please check their privacy policies.
 
-Our VAT number is GB230737426.
+**3\. Might the policy change?**
 
-Introduction
+3.1 Yes. Please check whenever you visit our website. We will assume you agree to the new version of the policy if you use the site after its effective date.
 
-We gather and use certain information about individuals in order to provide products and services and to enable certain functions on this website.
+**4\. What do we collect?**
 
-We also collect information to better understand how visitors use this website and to present timely, relevant information to them.
+4.1 Information which you upload to our service or otherwise give us such as
 
-What data we gather
+  * your name and contact details;
+  * other information provided when you register with us;
+  * details about your transactions on our service;
+  * information included in your reviews or which your otherwise provide for display on our service;
+  * contact or other information which you give or allow us to use for newsletters or other marketing; and
+  * your communications with us.
 
-We may collect the following information:
 
-    Name and job title
 
-    Date of birth
+4.2 Limited billing information sent to us by our payment provider for verification purposes e.g., your name, email address and billing / delivery addresses.
 
-    Contact information including email address
+4.3 Information collected on our behalf by Olapic Inc, via our website or social media sites, potentially including your publicly-posted images relating to our products as well as your name and contact details, order information and automated information such as IP address and geo-location – to enable us to use it for social media and other marketing. Please see Olapic’s privacy policy [here](http://www.olapic.com/privacy-policy/ "Olapic Privacy Policy") for more information including how to access and delete your personal information (sections 2-4).
 
-    Demographic information, such as postcode, preferences and interests
+4.4 Automated information such as the internet protocol (IP) address used to connect your device to the internet, connection information such as browser type and version, information about your device including device-type and device identifier, operating system and platform, mobile network data, a unique reference number linked to the data you enter on our system, login details, the site from which you arrived at our service, details of your activity with date / time stamps including pages you visited and your searches / transactions.
 
-    Website usage data
+**5\. What’s our reason / legal basis for collecting the information?**
 
-    Other information relevant to client enquiries
+5.1 Because it’s necessary to perform our contract with you and/or to take steps at your request to enter into such a contract, e.g., send service messages, process payments and fulfil orders. This applies typically to initial enquiries, contact and transaction details.
 
-    Other information pertaining to special offers and surveys
+5.2 Because it’s in our “legitimate interests”, e.g., to manage and improve our service including tracking usage patterns and preventing or detecting fraud or abuse. This applies typically to automated usage data and may also include reviews and similar information which you provide for public display on our service.
 
-How we use this data
+5.3 Because you’ve agreed. This applies to contact or other information which you give or allow us to use for newsletters or other marketing. You can withdraw permission at any time as explained on our service or by emailing us at the above email address.
 
-Collecting this data helps us understand what you are looking from the company, enabling us to deliver improved products and services.
+**6\. What about cookies?**
 
-Specifically, we may use data:
+6.1 We and/or third parties use cookies and other tracking technologies on our website. A cookie is an identifier (a small file of letters and numbers) that is sent to your computer. Our website’s functionality will be limited if you configure your browser to reject cookies.
 
-    For our own internal records
+6.2 Cookies are widely used to make websites work, or work more efficiently, as well as to provide information to the website owner or others. Session cookies are temporary cookies that remain in the cookie file of your browser only until your browser is closed. They allow websites to link your actions during a browser session. Persistent cookies stay in the cookie file of your browser for longer (how long will depend on the lifetime of the specific cookie). For further information on cookies, including how to use your browser to block them and how to delete cookies already stored on your device, visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/ "All About Cookies").
 
-    To improve the products and services we provide
+6.3 The following kinds of cookies may be used on this website:
 
-    To contact you in response to a specific enquiry
+  1. **_Session cookie:_** These are essential for our service and enable us to keep track of your movement from page to page and store your selections so you do not get asked repeatedly for the same information. They allow you to proceed through many pages of the site quickly and easily without having to authenticate or reprocess each new area you visit. For example, a session cookie remembers your shopping cart selection so you will have the items you selected when you are ready to check out.
+  2. **_Affiliate cookies:_** Persistent cookies (up to 60 days) are placed by affiliate websites or advertising providers such as Google and Bing so that we can track if users have visited us via such affiliates / advertising and assess the effectiveness of these activities.
+  3. **_CDN cookies:_** Our website provider CDN places persistent cookies (up to 3 years) to remember your settings such as country, language, currency and basket items so these are available when you return to our website.
+  4. **_Cookie-warning cookie:_** This cookie takes note of whether you are happy to accept cookies on this website based on your response to the message which appeared when you first visited the website. This persistent cookie will remember your preference for up to 365 days.
 
-    To customise the website for you
 
-    To send you promotional emails about products, services, offers and other things we think might be relevant to you
 
-    To send you promotional mailings or to call you about products, services, offers and other things we think might be relevant to you
+6.4 Other companies which provide us with a service also place cookies. Some of these cookies (e.g. from Google) may involve certain information, such as your IP address and web address of the page you’re visiting, being sent to the company concerned. Below is a summary of the kinds of cookies used together with details about who places them and where you can go to get more information and to opt out (where possible):
 
-    To contact you via email, telephone or mail for market research reasons
+  * **_Analytics cookie:_** These kinds of cookies recognise and count the number of website visitors as well as providing other information about the visit such as duration, route through the website and where the visitor came from. This information helps us to improve the way our website works, for example by making sure users find what they need easily. These cookies are provided by:
+  * _Google Analytics (“GA”). More:_
+    * \- general information about the [types of cookies](https://policies.google.com/technologies/types?hl=en-GB&gl=uk "GA cookies") placed by Google including analytics  
+\- a [technical explanation](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=en "GA technical explanation") of GA cookies  
+\- Google’s [use of its partners' data](https://policies.google.com/technologies/partner-sites "GA partner data use") including how to control information collected by Google  
+\- how to specifically [opt out from GA cookies](https://tools.google.com/dlpage/gaoptout/ "GA opt out")  
+\- Google's [privacy policy](https://policies.google.com/privacy/update?hl=en-GB&gl=uk "GA privacy policy")
+  * **_Advertising cookies:_** These kinds of cookies are typically used to personalise ads on this or other sites based on your use of our site, to measure ad effectiveness (for example, how often you click on or view ads and whether you go on to buy something from the advertiser) and to stop you being shown the same ad repeatedly. These cookies are provided by:
+  * _Google (including Analytics Ad Features / AdSense / Doubleclick)_
+    * \- general information about the [types of cookies](https://policies.google.com/technologies/types?hl=en-GB&gl=uk "GA cookies") placed by Google including advertising  
+\- [how Google uses cookies and other technologies in advertising](https://policies.google.com/technologies/ads "Google Privacy Terms") including how to opt out of advertising cookies (this explains how ad personalisation works)  
+\- Google’s [use of its partners' data](https://policies.google.com/technologies/partner-sites "GA partner data use") including how to control information collected by Google  
+\- Google's [privacy policy](https://policies.google.com/privacy/update?hl=en-GB&gl=uk "GA privacy policy")
+  * _Facebook (including “Facebook Pixel”)_
+    * \- Facebook’s [cookies policy](https://www.facebook.com/policies/cookies/ "Facebook Cookies") (see especially under “Advertising, recommendations, insights and measurement”) including how to control Facebook’s use of cookies  
+\- Facebook's [privacy policy](https://www.facebook.com/policy.php "Facebook Policy")
+  * _Microsoft's Bing_
+    * \- Microsoft's [privacy policy](https://privacy.microsoft.com/en-gb/privacystatement "Microsoft Policy") including how to control Microsoft’s use of cookies
+  * Note that there are various places where you can go to opt out of many companies’ advertising cookies in one go including some or all of the above:  
+\- [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices)  
+\- [www.youronlinechoices.com](http://www.youronlinechoices.com/)  
+\- [http://optout.aboutads.info](http://optout.aboutads.info/)
+  * **_Social Media cookies:_** These kinds of cookies are placed by social media companies when you use their features on another site, for example if you play embedded audio or video, click a Facebook “like” or sent a tweet. These features may involve the relevant companies using cookies to collect information relating to your visit to our website or your interaction with their services or otherwise. Click the following links for further information including how to opt out where this is possible:[Facebook](http://www.facebook.com/help/cookies "Facebook Cookies"), [Twitter](https://help.twitter.com/en/rules-and-policies/twitter-cookies "Twitter Cookies"), [Google Plus](https://policies.google.com/technologies/cookies "Google Plus Cookies"), [LinkedIn](https://www.linkedin.com/legal/cookie-policy "LinkedIn Cookies"), [Pinterest](https://policy.pinterest.com/en-gb/cookies "Pinterest Cookies"), [Instagram](https://help.instagram.com/1896641480634370?ref=ig "Instagram Cookies"), [Youtube](https://policies.google.com/technologies/cookies "Youtube Cookies")
+  * **_Payment Provider cookies:_** Our payment provider may place cookies if you use their payment services on our site:  
+\- Paypal’s [privacy policy](https://www.paypal.com/uk/webapps/mpp/ua/privacy-full "PayPal Privacy Policy")
 
-Cookies and how we use them
 
-What is a cookie?
 
-A cookie is a small file placed on your computer's hard drive. It enables our website to identify your computer as you view different pages on our website. Cookies allow websites and applications to store your preferences in order to present content, options or functions that are specific to you. They also enable us to see information like how many people use the website and what pages they tend to visit.
+**7\. How long do we keep it?**
 
-How we use cookies
+7.1 We will generally keep your information for up to six years after your order - for tax reasons and/or to help deal with any disputes. If you open an account but do not make an order, we will keep your information for up to two years. These timeframes may vary if we are legally required to keep information for a particular period. If you consent to us using your personal information for marketing, we will keep your contact details which we use for marketing until you tell us to stop sending you marketing messages. Reviews will remain on our site until you ask us to archive or delete them by email to [Help@revolutionbeauty.com](mailto:help@revolutionbeauty.com).
 
-We may use cookies to:
+**8\. To whom do we send or make available your personal information?**
 
-    Analyse our web traffic using an analytics package. Aggregated usage data helps us improve the website structure, design, content and functions.
+8.1 To other people who supply us with a service, e.g. couriers (to enable delivery of goods), e-commerce platform providers, website hosts, content delivery networks and businesses which help us send communications or monitor our website.
 
-    Identify whether you are signed in to our website. A cookie allows us to check whether you are signed in to the site.
+8.2 To other users of our service, if you include personal information in a review, post, comment or other public action on our service.
 
-    Test content on our website. For example, 50% of our users might see one piece of content, the other 50% a different piece of content..
+8.3 To credit reference agencies, regulators and the police and other law enforcement authorities to help deal with fraud and abuse and/or comply with legal requirements.
 
-    Store information about your preferences. The website can then present you with information you will find more relevant and interesting.
+8.4 To insurers and professional advisers in connection with our insurance cover or to deal with legal claims.
 
-    To recognise when you return to our website. We may show your relevant content, or provide functionality you used previously.
+8.5 To potential buyers so far as reasonably necessary, in the case of an actual or proposed (including negotiations for a) sale or merger or business combination involving all or the relevant part of our business.
 
-Cookies do not provide us with access to your computer or any information about you, other than that which you choose to share with us.
+**9\. What happens to your payment details?**
 
-Controlling cookies
+9.1 These go direct to our payment partners. We do not receive such information except as stated above. To ensure your details are not being used without consent, our payment partners may send your personal information to relevant third parties including credit reference and fraud prevention agencies, who may keep a record of that information.
 
-You can use your web browser’s cookie settings to determine how our website uses cookies. If you do not want our website to store cookies on your computer or device, you should set your web browser to refuse cookies.
+**10\. Do we send your information outside the European Union?**
 
-However, please note that doing this may affect how our website functions.
+10.1 Your personal information which we collect is stored within the EU and is not transferred to any third countries except for the following.
 
-Some pages and services may become unavailable to you.
+10.2 Your personal information may be transferred to the US by the following companies certified under the [EU-US Privacy Shield Framework](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en "EU-US Privacy Shield Framework"), which provides certain safeguards for your personal information: Google (analytics / advertising). Facebook (analytics / advertising).
 
-Unless you have changed your browser to refuse cookies, our website will issue cookies when you visit it.
+10.3 Your personal information may also be transferred to the US by the following, with whom we have entered into a contract which contains certain EU-adopted standard transfer clauses (see [here](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32010D0087)) designed to provide adequate safeguards for your personal information: Olapic, Inc.
 
-Controlling information about you
+**11\. What rights do you have?**
 
-When you fill in a form or provide your details on our website, you will see one or more tick boxes allowing you to:
+11.1 11.1 If the legal requirements are met: To ask us for access to your personal information, to rectify it if there are mistakes, to delete or restrict or object to its use in certain circumstances or to “data portability” or to withdraw any consent you’ve given (e.g. marketing).
 
-    Opt-in to receive marketing communications from us by email, telephone, text message or post.
+11.2 If you have a complaint about how we are dealing with your personal information, please contact us via the email address above. If you are not happy with our response or think we are not handling your personal information in accordance with the law, you can complain to the Information Commissioner’s Office (ICO).
 
-    Opt-in to receive marketing communications from our third-party partners by email, telephone, text message or post.
-
-If you have agreed that we can use your information for marketing purposes, you can change your mind easily, via one of these methods:
-
-    Sign in to our website and change your opt-in settings.
-
-    [Contact us here.](https://www.makeuprevolutionstore.com/contacts/)
-
-    Write to us at: TAM Beauty (Distribution) Ltd, Units 4-5 Sheet Glass Road, Cullet Drive, Queenborough, Kent, ME11 5JS.
-
-We will never lease, distribute or sell your personal information to third parties unless we have your permission or the law requires us to.
-
-Any personal information we hold about you is stored and processed under our data protection policy, in line with the Data Protection Act 1998.
-
-Security
-
-We will always hold your information securely.
-
-To prevent unauthorised disclosure or access to your information, we have implemented strong physical and electronic security safeguards.
-
-We also follow stringent procedures to ensure we work with all personal data in line with the Data Protection Act 1998.
-
-Links from our site
-
-Our website may contain links to other websites.
-
-Please note that we have no control of websites outside the www.makeuprevolutionstore.com domain. If you provide information to a website to which we link, we are not responsible for its protection and privacy.
-
-Always be wary when submitting data to websites. Read the site’s data protection and privacy policies fully.
+12.3 For more information about your rights, visit the ICO’s website: [www.ico.org.uk](http://www.ico.org.uk/).
