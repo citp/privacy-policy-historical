@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ondeck.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924060410id_/https%3A//www.ondeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondeck.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111003049id_/https%3A//www.ondeck.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OnDeck
 
-This Privacy Policy has been updated effective June 29, 2018.
+This Privacy Policy has been updated effective January 2nd, 2019.
 
 * * *
 
@@ -33,8 +33,8 @@ In addition to collecting information via our Website and Mobile App, we may als
 
 We use the information we collect to:
 
-  * Compile, save, use and analyze your Personal Information in both a personally-identifiable form and an aggregated,
-  * Operate, maintain, improve, and provide to you the Service and to conduct our business;
+  * Compile, save, use and analyze your Personal Information in both a personally-identifiable form and as part of an aggregated data;
+  * Operate, maintain, improve, and provide to you the Service and to conduct our business, including our own lending and referring you to third party small business lenders;
   * Verify your identity and conduct appropriate diligence;
   * Register you as a user and identify you when you sign in to your account;
   * Process your application and determine whether or not your business qualifies for one of our loan products;
@@ -66,9 +66,9 @@ We may also disclose your Personal Information:
 
 If your Personal Information changes, or if you no longer desire our Service, you may correct, update, amend, delete/remove, ask to have it removed from a public forum or testimonial on our Website or deactivate it by emailing our Customer Support at marketing@ondeck.com or by contacting us by postal mail at the contact information listed below. We will respond to your request within 30 days. 
 
-We will retain your information for as long as your account is active or as long as reasonably useful for commercial purposes. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as long as reasonably useful for commercial purposes. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-_Opt-Out Policy_
+ _Opt-Out Policy_
 
 OnDeck and our business partners may contact you to offer you products and services that may be of interest to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails, telephone solicitations or other forms of contact from OnDeck and our trusted business partners by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or by contacting us by email at [marketing@ondeck.com](mailto:marketing@ondeck.com) or by postal mail at the contact information listed below.
 
