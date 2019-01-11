@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegudda.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909055148id_/http%3A//thegudda.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegudda.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111044502id_/https%3A//www.thegudda.com/privacy) for the most accurate reproduction.*
 
 # Privacy - TheGudda.com
 
