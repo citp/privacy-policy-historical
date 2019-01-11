@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedssouthafrica.co.za privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111091039id_/http%3A//classifiedssouthafrica.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedssouthafrica.co.za privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111103816id_/http%3A//classifiedssouthafrica.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy
 
