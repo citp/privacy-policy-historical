@@ -1,12 +1,23 @@
-> *The following text is extracted and transformed from the portraitprofessional.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619063728id_/http%3A//www.portraitprofessional.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portraitprofessional.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111145004id_/https%3A//www.portraitprofessional.com/privacy) for the most accurate reproduction.*
 
 # PortraitPro - Privacy Policy
+
+####  Get great results in minutes with this new  
+A.I. powered software. 
+
+[Buy Now](https://web.archive.org/web/20190111145004id_/https://www.portraitprofessional.com/buy)
+
+### We're so sure you'll love PortraitPro that we offer a 30-day money-back guarantee on all purchases.
+
+[Buy Now](https://web.archive.org/web/20190111145004id_/https://www.portraitprofessional.com/buy)
+
+[](https://web.archive.org/web/20190111145004id_/https://www.portraitprofessional.com/)
 
 Your privacy and the security of your personal data is important to us. This policy sets out how we handle your personal data. 
 
 We are Anthropics Technology Limited, based at A16 Block A, 56 Wood Lane, London W12 7SB. 
 
-#### Your rights
+###### Your rights
 
 Your privacy is protected by law. We are only allowed to use personal data if we have a lawful reason to do so. We must have one or more of the following reasons: 
 
@@ -25,7 +36,7 @@ You have various rights in relation to our use of your data:
 
 If you want to exercise any of these rights, please contact us. 
 
-#### The personal data we collect
+###### The personal data we collect
 
 The types of personal data that may be collected include: name, address, e-mail address, payment information, IP address and information about your interests in and use of our products, programs, and services. We may also have other personal data if you submit it to us, for example via support messages, forums or surveys. 
 
@@ -33,7 +44,7 @@ We also may collect certain non-personally identifiable information when you vis
 
 * * *
 
-#### Cookies and similar technologies
+###### Cookies and similar technologies
 
 Our websites may use cookies and other technologies such as pixel tags and web beacons. These technologies allow our websites to function and help us understand user behaviour, track which parts of our website have been visited, and facilitate and measure the effectiveness of advertising on third party websites. 
 
@@ -48,7 +59,7 @@ To opt out of being tracked by Google Analytics across all websites, visit
 
 * * *
 
-#### Where we collect personal data
+###### Where we collect personal data
 
 Personal data may be collected:
 
@@ -59,7 +70,7 @@ Personal data may be collected:
 
 * * *
 
-#### How we process your data
+###### How we process your data
 
 This table sets out how we process personal data, and our basis for processing in each case.
 
@@ -142,7 +153,7 @@ Fulfill contract.
   
 * * *
 
-#### Who we share personal data with
+###### Who we share personal data with
 
 We use external companies to process personal data. This includes:
 
@@ -155,7 +166,7 @@ If you would prefer us not to share your personal data for these purposes, pleas
 
 * * *
 
-#### Sending data outside the EEA
+###### Sending data outside the EEA
 
 We will only transfer your data outside the EEA where there are adequate safeguards for your personal data, such as: 
 
@@ -163,11 +174,11 @@ We will only transfer your data outside the EEA where there are adequate safegua
 * We have a contract with the recipient that means they must protect personal data to the same standard as in the EEA.
 * The recipient is certified under the Privacy Shield, which sets privacy standards for data sent between the US and EU.
 
-#### If you decide not to give personal data
+###### If you decide not to give personal data
 
 We may not be able to provide you with our products and services if you choose not to provide your personal data. For example, we require an email address in order to provide you with the details of a purchase, or your payment details to process a payment. 
 
-#### Marketing
+###### Marketing
 
 We may use your personal data to tell you about product updates or promotions, target advertisements or send newsletters. 
 
@@ -179,21 +190,23 @@ We only use your personal data for marketing with your consent or if we have a l
 
 Please contact us if you do not want us to market to you in future. 
 
-#### How long we keep your personal data
+###### How long we keep your personal data
 
 We hold different personal data for different lengths of time. For example: 
 
 * Data relating to a purchase may be held indefinitely unless you tell us you want us to delete it. If we delete the data, we would be unable to provide any further support for your purchase.
 * Marketing lists on third party platforms built using information about use of our sites may persist for up to 540 days.
 
-#### How to contact us or complain
+###### How to contact us or complain
 
 If you have any questions or concerns about this policy, the best way to contact us to message us via our [support website](http://support.anthropics.com/). We will do our best to help you. 
 
 If you are unhappy with our response, you have the right to complain to a supervisory authority. As a UK company, our supervisory authority is the Information Commissioner’s Office. 
 
-#### Updates and effective date
+###### Updates and effective date
 
 From time to time we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
 
 The Privacy Notice posted on this site was updated on or about May 9, 2018 
+
+Back to Top
