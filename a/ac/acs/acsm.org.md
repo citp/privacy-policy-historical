@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acsm.org privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213123854id_/https%3A//www.acsm.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acsm.org privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111220443id_/https%3A//www.acsm.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
