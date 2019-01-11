@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rapsio.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221150417id_/https%3A//www.rapsio.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapsio.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111092035id_/https%3A//www.rapsio.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy - Rapsio AdPortal
 
-This Privacy Policy (“Privacy Policy”) explains what information Pelican Software SRL, the owner of Rapsio (“Rapsio,” also referred to herein as “us,” “we,” or “our”) collects from individuals who visit the Rapsio.com website (the “Site”), and it explains how Rapsio uses and maintains this information. 
+This Privacy Policy (“Privacy Policy”) explains what information Mako Labs LLC, the owner of Rapsio (“Rapsio,” also referred to herein as “us,” “we,” or “our”) collects from individuals who visit the Rapsio.com website (the “Site”), and it explains how Rapsio uses and maintains this information. 
 
 ## Privacy Policy Changes
 
@@ -78,4 +78,4 @@ We have implemented physical, technical and administrative security measures to 
 
 If you have any questions or concerns about the Site or the Privacy Policy or its implementation, please email us at [support@rapsio.com](mailto:support@rapsio.com).
 
-Effective: July 23, 2014
+Effective: July 23, 2014, as amended December 10, 2018
