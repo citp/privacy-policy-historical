@@ -1,102 +1,97 @@
-> *The following text is extracted and transformed from the callfire.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607003251id_/https%3A//www.callfire.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callfire.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111185507id_/https%3A//www.callfire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CallFire
+# Website Privacy Policy | CallFire
 
-Privacy Statement Effective as of January 26, 2008 
+CallFire Inc. ("CallFire") is committed to protecting the privacy of your information. This Privacy Statement describes our information practices for our publicly-accessible websites, including our use of cookies to collect data about your use of our websites. For information about our privacy policies governing your use of CallFire’s account portal and associated platform services (“Services”), please consult our separate CallFire Services Privacy Policy. 
 
-CallFire Inc. (DBA "CallFire" or the "Company") is committed to protecting the privacy of your information. This Privacy Statement describes CallFire's information practices
+**1\. Websites Covered**
 
-  1\. Web Sites Covered
+In this Privacy Statement, “we,” “us,” “our,” or “CallFire” refers to CallFire and our affiliates, which includes any person or entity that controls CallFire, is controlled by CallFire, or is under common control with CallFire (such as a subsidiary, parent company, or employee).
 
-This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement: [http://www.CallFire.com](http://www.callfire.com/)
+This Privacy Statement covers CallFire’s information practices for our family of websites (collectively, “CallFire Sites”). In addition to CallFire.com, CallFire operates other websites like MoboMix.com, EZTexting.com, GroupTexting.com, TellMyCell.com, NightLifeTexting.com, and ClubTexting.com. This Privacy Statement applies equally to any rebranded or white label version of CallFire’s platform services. 
 
-CallFire's Web sites may contain links to other Web sites. CallFire is not responsible for the information practices or the content of such other Web sites. The Company encourages you to review the privacy statements of other Web sites to understand their information practices.
+**2\. Information CallFire Collects From You**
 
-2\. Personal Information Collected
+CallFire collects information from individuals who visit any of our Sites ("Visitors"), as, well as from individuals who have registered to use our platform services (“Customers”).
 
-CallFire offers a variety of services that are collectively referred to as the "Service." CallFire collects information from individuals who visit the Company's Web sites ("Visitors") and individuals who register to use the Service ("Customers").
+Some information is collected from both Visitors and Customers using commonly-used information-gathering tools. It includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol ("IP") address, and the actions you take on the CallFire Sites (such as the Web pages viewed and the links clicked). This information is collectively called “Website Navigational Information.”
 
-When expressing an interest in obtaining additional information about the Service or registering to use the Service, CallFire requires you to provide the Company with contact information, such as name, company name, address, phone number, and email address ("Required Contact Information"). When purchasing the Service, CallFire requires you to provide the Company with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the Service (" Billing Information"). CallFire may also ask you to provide additional information, such as company annual revenues, number of employees, or industry ("Optional Information"). Required Contact Information, Billing Information, and Optional Information are referred to collectively as "Data About CallFire Customers."
-
-As you navigate the Company's Web sites, CallFire may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons ("Web Site Navigational Information"). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol ("IP") address, and the actions you take on the Company's Web sites (such as the Web pages viewed and the links clicked). For additional information about CallFire's collection of Web Site Navigational Information, please click here.
-
-3\. Use of Information Collected
-
-The Company uses Data About CallFire Customers to perform the services requested. For example, if you fill out a "Contact Me" Web form, the Company will use the information provided to contact you about your interest in the Service.
-
-The Company may also use Data About CallFire Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in CallFire, the Service, and to send you information regarding the Company and its partners, such as information about promotions or events.
-
-CallFire uses Web Site Navigational Information to operate and improve the Company's Web sites. The Company may also use Web Site Navigational Information in combination with Data About CallFire Customers to provide personalized information about the Company.
-
-4\. Web Site Navigational Information
-
-CallFire uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company's Web sites ("Web Site Navigational Information") . This section describes the types of Web Site Navigational Information the Company may collect and how the Company may use this information.
+CallFire collects your Website Navigational Information using these methods: 
 
 **Cookies**
 
-CallFire uses cookies to make interactions with the Company's Web sites easy and meaningful. When you visit one of the Company's Web sites, CallFire's servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to CallFire, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a "Contact Me" or a "30 Day Free Trial" Web form), you remain anonymous to the Company.
+CallFire uses cookies to make your interactions with our Sites easy and meaningful. When you visit one of our Sites, CallFire's servers send a cookie to your computer. Standing alone, cookies do not personally identify you; they merely recognize your Web browser. Unless you choose to identify yourself to CallFire by, for example, responding to a promotional offer, opening an account, or filling out a Web form (like a "Contact Me" or a "30-Day Free Trial" Web form), you remain anonymous when visiting our Sites. 
 
-There are two types of cookies: session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer.
+There are two types of cookies: session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. 
 
-If you have chosen to identify yourself to CallFire, the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Service, a session cookie containing an encrypted, unique identifier that is tied to your account is placed on your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Service and to process your online transactions and requests. Session cookies are required to use the Service  **and the Company does not recognize do-not-track requests with respect to Session cookies**.
+If you have chosen to identify yourself to CallFire, we can uniquely identify you as you navigate our Sites by using session cookies containing encrypted information. For example, each time you request a free trial or promotion by providing your contact information or each time you login to your account portal, a session cookie containing an encrypted, unique identifier that is tied to you is placed on your browser. It enables us to process your online requests and to uniquely identify who is logged into the Service. Session cookies are required to use our Services,  **and we do not recognize do-not-track requests for them.**
 
-CallFire uses persistent cookies that only the Company can read and use to identify browsers that have previously visited the Company's Web sites. ** **  When you purchase the Service or provide the Company with personal information, however, a unique identifier is assigned you. This unique identifier is associated with a persistent cookie that the Company places on your Web browser  **and this cookie does not respond to do-not-track requests**. The Company is especially careful about the security and confidentiality of the information stored in persistent cookies. For example, the Company does not store account numbers or passwords in persistent cookies. 
+CallFire uses persistent cookies that only we can read and use to identify browsers that have previously visited the CallFire Sites. When you purchase our Services or otherwise provide us with your personal information, a unique identifier associated with a persistent cookie placed on your Web browser is assigned to you. **We do not respond to do-not-track requests with respect to persistent cookies.**
 
-CallFire may use information from session and persistent cookies in combination with data about CallFire Customers to provide you with information about the Company and the Service.  
- 
+We are especially careful about the security and confidentiality of the information stored in persistent cookies. For example, we do not store account numbers or passwords in persistent cookies. 
 
-**_Third Party Cookies_**
+**Third Party Cookies**
 
-From time-to-time, CallFire engages third parties to track and analyze non-personally identifiable usage and volume statistical information from individuals who visit the Company's Web sites. CallFire may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it. This Privacy Statement does not cover the use of third party cookies,  **as CallFire does not control the cookies potentially used by third parties.**
+From time-to-time, CallFire engages third parties to track and analyze nonpersonally identifiable usage and volume statistical information from Visitors and Customers who visit our Sites. CallFire also uses other third-party cookies to track the performance of our advertisements. 
 
-Web Beacons
+**Web Beacons**
 
-CallFire uses Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors' usage of the Company's Web sites and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Web site tied to the Web beacon, and a description of a Web site tied to the Web beacon. For example, CallFire may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company's Web sites. CallFire uses Web beacons to operate and improve the Company's Web sites and email communications. CallFire may use information from Web beacons in combination with Data About CallFire Customers to provide you with information about the Company and the Service.
+CallFire uses Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors' usage of our Sites and your interactions with emails that we have sent you. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you have viewed a particular Website tied to the Web beacon. For example, CallFire sometimes places Web beacons in marketing emails that notify us when you click on the link in the email that directs you to one of our CallFire Sites. CallFire uses Web beacons to operate and improve our Sites and email communications. 
 
-IP Addresses
+**IP Addresses**
 
-When you visit CallFire's Web sites, the Company collects your Internet Protocol ("IP") addresses to track and aggregate non-personally identifiable information. For example, CallFire uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company's Web sites.
+When you visit our Sites, we collect your Internet Protocol ("IP") address to track and aggregate your non-personally identifiable information. For example, we use IP addresses to monitor the regions from which Customers and Visitors navigate our Sites. 
 
-CallFire also collects IP addresses from Customers whey they log into the Service as part of the Company's "Identity Confirmation" and "IP Range Restrictions" security features.
+The Website Navigational Information of Visitors and Customers, along with the information covered in our separate CallFire Services Privacy Policy, are collectively referred to as “User Data.”
 
-5\. Public Forums, Refer a Friend, and Customer Testimonials
+We do not knowingly collect any personal information directly from children under the age of 13. 
 
-CallFire may provide bulletin boards, blogs, or chat rooms on the Company's Web sites. Any personally identifiable information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. CallFire is not responsible for the personally identifiable information you choose to submit in these forums.
+**3\. How CallFire Uses the Information It Collects**
 
-Customers and Visitors may elect to use the Company's referral service to inform friends about the Company's Web sites. When using the referral service, the Company requests the friend's name and email address. CallFire will automatically send the friend a one-time email inviting him or her to visit the Company's Web sites. CallFire does not store this information.
+CallFire uses Website Navigational Information to operate and improve our Sites and Services. Moreover, we use User Data in a number of different ways to improve our Services, develop new features, and to market and promote our Services. We use User Data 
 
-CallFire posts a list of Customers and testimonials on the Company's Web sites that contain information such as Customer names and titles. CallFire obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
+to perform the services requested. For example, if you fill out a "Contact Me" form on our Sites, we will use the information provided to contact you about your interest in our Services. 
 
-6\. Sharing of Information Collected
+for marketing purposes. For example, we may use information you provide to contact you to further discuss your interest in our Services or to send you information about us and our partners, promotions, and events. 
 
-CallFire may share Data About CallFire Customers with the Company's agents so that these agents can contact Customers and Visitors who have provided contact information on our behalf. CallFire may also share Data About CallFire Customers with the Company's agents to ensure the quality of information provided. CallFire does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes.
+to connect our Customers with one another. For example, we may use your Customer Data to offer you the opportunity to connect with other Customers who you might know or who might share similar characteristics, such as location or industry. We may also suggest connections between Customers whose calls, messages, broadcasts, or campaigns target similar Contacts based on analyses of Customers’ Contact Data or other anonymized aggregated data. 
 
-CallFire uses a third-party intermediary to manage credit card processing. This intermediary is not permitted to store, retain, or use Billing Information except for the sole purpose of credit card processing on the Company's behalf.
+to allow Customers to engage, interact, and communicate with one another about their uses of our Services. For example, we may give you the opportunity to notify Customers that you have connected with about your uses of our Services, and you may receive similar notifications from other Customers. These notifications may be initiated by you or by CallFire. 
 
-CallFire reserves the right to disclose personally identifiable information of the Company's Customers or Visitors if required by law or if the Company reasonably believes that disclosure is necessary to protect the Company's rights and/or to comply with a judicial proceeding, court order, or legal process.
+We may use anonymized aggregated data from any source for targeted advertising purposes, including in conjunction with third parties. 
 
-7\. Communications Preferences
+The information provided to third parties does not include your personal information, but this information may be linked to your personal information after we receive it. This Privacy Statement  **does not**  cover the use of the cookies by third parties, however,  **as CallFire does not control the cookies potentially used by third parties.**
 
-CallFire offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking here or by clicking on the "unsubscribe" link located on the bottom of the Company's marketing emails. Additionally, you may send a request specifying your communications preferences to [support@CallFire.com](mailto:support@CallFire.com). Customers cannot opt out of receiving transactional emails related to their account with CallFire or the Service.
+**4\. Security**
 
-8\. Correcting and Updating Your Information
+CallFire uses robust security measures to protect User Data from unauthorized access and maintain data accuracy. While CallFire utilizes electronic and physical security to reduce the risk of improper access to or manipulation of data, we cannot guarantee the security or integrity of the data and shall not be liable for breaches of security or integrity, third-party interception in transit, or any damage caused to your computer or other property by visiting CallFire Sites. 
 
-Customers may update or change their registration information by editing their user or organization record. To update a user profile, please login to [http://www.CallFire.com](http://www.callfire.com/) and click "Account".  To discontinue your account and to have information you maintained in the Service returned to you, please email [support@CallFire.com](mailto:support@CallFire.com).   Requests to access, change, or delete your information will be handled within 30 days.
+**5\. Public Forums**
 
-9\. Customer Data
+CallFire may provide bulletin boards, blogs, or chat rooms on our Sites. Any personally identifiable information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and they may use that information to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
 
-CallFire Customers use the Service to host data and information ("Customer Data"). CallFire will not review, share, distribute, or reference any such Customer Data except as may be required by law. Individual records of Customer Data may be viewed or accessed only for the purpose of resolving a problem, support issues, or suspected violation of the CallFire Terms of Service, or as may be required by law. Customers are responsible for maintaining the security and confidentiality of their CallFire usernames and passwords.
+**6\. Sharing of Information Collected**
 
-10\. Security
+We may share User Data with third-party service providers or others who need access to the data to perform their work on our behalf. For example, we may store User Data on third-party servers. Additionally, CallFire may share contact information that Visitors and Customers have provided to our agents so that these agents can contact you on our behalf. We do not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes.
 
-CallFire uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. When the Service is accessed using Internet Explorer version 6.0 or later, Firefox version 2.0 or later, or Safari version 3.0 or later, Secure Socket Layer ("SSL") technology protects Customer Data using both server authentication and data encryption. These technologies help ensure that Customer Data is safe, secure, and only available to the Customer to whom the information belongs and those to whom the Customer has granted access. CallFire also implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its Web sites in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. CallFire also offers enhanced security features within the Service that permit Customers to configure security settings to the level they deem necessary.
+CallFire reserves the right to disclose personally identifiable information of our Customers or Visitors if required by law, if we reasonably believe that disclosure is necessary to protect our rights, and/or to comply with a judicial proceeding, court order, or legal process. We also reserve the right to disclose this information if we believe that disclosure is reasonably necessary to protect the public from harm.
 
-Because the Company uses the Service to maintain Data About CallFire Customers, this information is secured in the same manner as described above for Customer Data.
+If we go through a corporate sale, merger, reorganization, dissolution, or similar event, the User Data that we gather from you may be part of the assets transferred or shared in connection with the due diligence for any such transaction. Any acquirer or successor of CallFire may continue to use your data as set forth in this Privacy Statement. 
 
-11\. Changes to this Privacy Statement
+**7\. Communications Preferences**
 
-CallFire reserves the right to change this Privacy Statement. CallFire will provide notification of the material changes to this Privacy Statement through the Company's Web sites at least thirty (30) business days prior to the change taking effect.
+CallFire offers Customers and Visitors who provide contact information a way to choose how we communicate with them. You may manage your receipt of marketing and nontransactional communications by clicking here or by clicking on the "unsubscribe" link located on the bottom of our marketing emails. Additionally, you may send a request specifying your communications preferences to [support@CallFire.com](mailto:support@CallFire.com).
 
-12\. Contacting Us
+Customers cannot opt out of receiving transactional emails related to their account with us or our Services. 
 
-Questions regarding this Privacy Statement or the information practices of the Company's Web sites should be directed to CallFire Privacy by emailing [support@callfire.com](mailto:support@callfire.com) or by mailing CallFire Privacy, 1335 4th ST FL 2, Santa Monica, CA 90401 
+**8\. Links to Third Party Websites**
+
+CallFire Sites may contain links to other Websites. We are not responsible for the information practices or the content of such other Websites. We encourage you to review the privacy statements of other Websites to understand their information practices. 
+
+**9\. Changes to this Privacy Statement**
+
+CallFire reserves the right to change this Privacy Statement. CallFire will provide notification of the material changes to this Privacy Statement through our Sites at least thirty (30) days prior to the change taking effect. 
+
+**Contacting Us**
+
+Questions regarding this Privacy Statement or the information practices of our Sites should be directed to CallFire Privacy by emailing [support@CallFire.com](mailto:support@CallFire.com) or by mailing CallFire Privacy, 1410 2nd Street Suite 200, Santa Monica, CA 90401. 
