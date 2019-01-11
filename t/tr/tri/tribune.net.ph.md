@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tribune.net.ph privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111080043id_/http%3A//tribune.net.ph/index.php/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribune.net.ph privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111205825id_/https%3A//tribune.net.ph/index.php/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Tribune
 
