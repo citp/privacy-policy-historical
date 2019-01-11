@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theblogstarter.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118070858id_/https%3A//www.theblogstarter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogstarter.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111080000id_/https%3A//www.theblogstarter.com/privacy) for the most accurate reproduction.*
 
-# Privacy · The Blog Starter The Blog Starter
+# Privacy · The Blog Starter
 
 Privacy Policy:
 
