@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotclips24.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815120456id_/https%3A//hotclips24.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotclips24.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111201918id_/https%3A//hotclips24.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Porn | Sexvideos | Porn Sites | HotClips24.com
 
