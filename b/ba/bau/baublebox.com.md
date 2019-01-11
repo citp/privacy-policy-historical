@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the baublebox.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625164056id_/http%3A//www.baublebox.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baublebox.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111034656id_/https%3A//www.baublebox.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – BaubleBox
+# Privacy Policy - BaubleBox Fashion Jewelry Store
 
 Effective Date: January 13, 2013
 
@@ -126,7 +126,7 @@ XVI. Contact Us Regarding Privacy
 
 Bauble Box is dedicated to protecting your personally identifiable information and welcomes comments and questions on this Privacy Policy. You may fax, email or mail us your questions or comments to:  
 Bauble Box Customer Service  
-903 Mariner St. Brea CA, 92821  
+576 Explorer St. Brea CA, 92821  
 Fax: (855) 965-4663  
 info@BaubleBox.com
 
