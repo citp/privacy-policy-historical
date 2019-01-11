@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i9sports.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109150640id_/https%3A//www.i9sports.com/FooterLinks/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i9sports.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111135550id_/https%3A//www.i9sports.com/footerlinks/privacypolicy) for the most accurate reproduction.*
 
 # i9 Sports Privacy Policy
 
