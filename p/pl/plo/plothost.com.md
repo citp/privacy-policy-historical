@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plothost.com privacy policy that was archived on 2018-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180728235028id_/https%3A//www.plothost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plothost.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111160628id_/https%3A//www.plothost.com/privacy) for the most accurate reproduction.*
 
 # PlotHost - Site Privacy Policy(SPP)
 
