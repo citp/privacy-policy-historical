@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011192030id_/https%3A//www.fi.com/legal/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111042920id_/https%3A//www.fisherinvestments.com/en-us/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security Policy | Fisher Investments
 
@@ -31,7 +31,7 @@ To ensure consumer privacy laws are not violated, Fisher Investments has adopted
 
 **Privacy Notice**
 
-This U.S. Privacy Notice describes how we collects, uses and shares information from or about you. We are committed to protecting your privacy and your non-public personal information. Please click here for Fisher Investments’ U.S. Privacy Notice: [https://www.fisherinvestments.com/-/media/Files/Privacy_Notice.pdf](https://web.archive.org/-/media/Files/Privacy_Notice.ashx?la=en-US)
+This U.S. Privacy Notice describes how we collects, uses and shares information from or about you. We are committed to protecting your privacy and your non-public personal information. Please click here for Fisher Investments’ U.S. Privacy Notice: [https://www.fisherinvestments.com/-/media/Files/Privacy_Notice.pdf](https://web.archive.org/-/media/Files/Privacy_Notice.ashx?la=en-US&hash=DA46F9299171E8C9FA16B4B6D416BAE5E68D19EE)
 
 ## What information Fisher Investments collects
 
