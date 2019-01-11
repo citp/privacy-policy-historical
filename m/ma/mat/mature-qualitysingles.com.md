@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mature-qualitysingles.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515224738id_/http%3A//mature-qualitysingles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mature-qualitysingles.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111174821id_/https%3A//www.mature-qualitysingles.com/privacy.php) for the most accurate reproduction.*
 
 # Mature Quality Singles - Privacy Policy
 
-### Effective Date: June 28, 2013
+### Effective Date: May 24, 2018
 
 Our postal address is   
 **Mature-QualitySingles.com  
