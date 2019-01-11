@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supplementreviews.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130231003id_/https%3A//supplementreviews.com/articles/sr-help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplementreviews.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111160043id_/https%3A//supplementreviews.com/articles/sr-help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SupplementReviews.com
 
