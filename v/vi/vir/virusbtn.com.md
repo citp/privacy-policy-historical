@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the virusbtn.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221081648id_/https%3A//www.virusbulletin.com/about-vb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virusbtn.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111075030id_/https%3A//www.virusbulletin.com/about-vb/privacy-policy) for the most accurate reproduction.*
 
 # Virus Bulletin :: Privacy Policy
 
-_This document was last updated on 02 May 2018._
+_This document was last updated on 07 January 2019._
 
 ## Virus Bulletin's commitment to privacy
 
@@ -33,7 +33,9 @@ United Kingdom
 
 Both when you visit our main website and when you visit our extranet site, we only collect your IP address and information provided by your browser. These details are recorded temporarily in our webserver logs, but the logs are deleted after 4 weeks.
 
-However, if you want to use any of the extranet site's features, you must register as a user of the extranet, at which point we collect the following personal data:
+If you subscribe to our newsletter we will collect your email address.
+
+If you want to use any of the extranet site's features, you must register as a user of the extranet, at which point we collect the following personal data:
 
   * your name
   * your email address
@@ -157,7 +159,7 @@ Other than the instances listed below, Virus Bulletin will not pass your persona
 
 If you do not wish us to pass your information to any other companies, please let us know by emailing us at [privacy@virusbulletin.com](mailto:privacy@virusbulletin.com).
 
-  * **Email service provider:** We may use your name and email address to contact you about Virus Bulletin services that you may be interested in. When we do this we use a third-party email service provider to send the emails on our behalf. We will therefore pass your name and email address to the email service provider. Currently, our email service provider is [sendinblue](https://www.sendinblue.com/).
+  * **Email service provider:** We may use your name and email address to contact you about Virus Bulletin services that you may be interested in and/or to send you our newsletter (if you have subscribed to it). When we do this we use a third-party email service provider to send the emails on our behalf. We will therefore pass your name and email address to the email service provider. Currently, our email service provider is [sendinblue](https://www.sendinblue.com/).
   * **Printing company:** When you have registered to attend a Virus Bulletin conference, your name and company name (and your partner's name, if applicable) will be used to produce a name badge to be worn at the event. We will therefore pass your name and company to the printing company we use to produce the badges.
   * **Other conference attendees & potential customers:** When you have registered to attend a Virus Bulletin conference, your name, company name and country are included on a list of delegates ("delegate list"). This list is made available (in PDF format) to all attendees of the event in question, and may also be shared (after the event, also in PDF format) with future potential customers. You may opt out of having your details included on this list.
   * **Google:** Virus Bulletin uses the G Suite service provided by Google, which means that all emails are handled via Google's servers and in stored in Google's cloud, and in some cases data will be stored (usually on a temporary basis) in apps that are hosted in Google's cloud.
