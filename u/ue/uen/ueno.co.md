@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ueno.co privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812162123id_/https%3A//ueno.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ueno.co privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112121622id_/https%3A//ueno.co/privacy) for the most accurate reproduction.*
 
-# Ueno Privacy policy - Ueno. Digital agency.
+# Privacy. By your friends at Ueno.
 
 ### Whoa, what’s this?
 
