@@ -1,101 +1,124 @@
-> *The following text is extracted and transformed from the ticketmonster.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203202543id_/http%3A//www.ticketmonster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmonster.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112172344id_/https%3A//ticketmonster.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Here at Ticket Monster, we are committed to our fans. We are passionate about the game, but even more obsessed with providing you the most reliable purchasing experience on the market. In short, this boils down to one thing: protecting your privacy. Allow us to explain:
+This Privacy Policy discloses the privacy practices for the website, www.ticketmonster.com, and various related services (together referred to as the "Website"). Ticket Monster, the provider of the Website (referred to as "we", "us" or "our"), is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this Website.
 
-This privacy policy describes our practices regarding personal and account information that is collected through our Website, located at www.ticketmonster.com In this policy, "personal and account information" is referring to your name, company name, account information, address, telephone number, e-mail address, and any other identification which may identify you (i.e.: industry, profession, size of company, past purchase history).
+This Privacy Policy describes:
 
-Please rest assured that if at any moment in time, we decide to change any detail of our privacy policy, we will alert you. The homepage of Ticket Monster, as well as any other pages we deem appropriate will be updated accordingly. You are our top priority and we guarantee that you will always know what information is collected and how it is used, if at all. We are committed to 100% transparency.
+  * What information we collect;
+  * When we collect certain information;
+  * Why we collect certain information;
+  * How your information is used and protected;
+  * When and with whom your information is shared; and
+  * What you should do if you feel your information has become compromised.
 
-Keep in mind that we have the legal right to modify our privacy policy as needed at any time, so please be sure to review it frequently, and always before making your next purchase. If ever material changes are made, we will communicate that to all of our customers.
 
-### When you are on the site:
 
-In order to make a purchase through our Web Site, you must provide us with your name, billing address, and credit card number, expiration of the card, and security code.
+This Privacy Policy applies to all of the services and websites offered by Ticket Monster. You may be reaching this website through the URL first mentioned above or through one of our co-branded or white-page initiatives with one of our many partners. You acknowledge that this Privacy Policy is part of Ticket Monster’s Terms and Conditions of Use, and by accessing or using our Website, you agree to be bound by all of its terms and conditions. If you do not agree to these terms, please do not access or use this Website. If any of the terms of this Privacy Policy directly conflict with the Terms and Conditions of Use, the terms of this Privacy Policy will apply.
 
-If you are simply browsing our site and do not go through with buying any of our unbelievably priced tickets, we still collect your IP address, in an effort to measure our site traffic and help provide a relevant shopping experience.
+If you have any questions about this Privacy Policy or the practices of this Website, or if you need to send us a notice regarding your privacy, please contact us by sending a letter to:
 
-If you come to our site through an intermediary, we track the location of the link that referred you. 
+_Ticket Monster  
+Attn: Privacy and Compliance, Legal Department  
+5551 Vanguard Street, Orlando, FL 32819_
 
-In any situation, we observe what kind of browser you use so that we can optimize our website for future visitors. We also follow what pages you visit once on the site to better understand navigation habits.
+You may also contact us by E-mail at:
 
-### For Frequent Fans & Buyers:
+[privacyissues@ticketmonster.com](mailto:privacyissues@ticketmonster.com)
 
-Once you create an account on Ticket Monster, we will need access to your name, e-mail address, home address, phone number, zip code and password. Please keep in mind, protecting your privacy is crucial to us, so do not give out your account password to anyone. No, not even to your best friend or puppy.
+**1\. Types of Information We Collect.**
 
-If you choose to subscribe to our newsletter (which you should, it's awesome), we store both your e-mail and home address so that we can send you all kinds of promotional offers. You may unsubscribe at any time by clicking the "unsubscribe" link located at the bottom of every e-mail.
+We generally receive both information that you directly provide to us, and information that is passively or automatically collected from you, such as anonymous information collected from your browser or device. This information may be categorized further into Personally Identifiable Information and Non-Personally Identifiable Information.
 
-When you chat with a representative online, we collect your e-mail address and any other order information that might be needed to respond to your question/concern and provide a hassle-free shopping experience. 
+**a. Personally Identifiable Information.**
 
-If any of your personal information changes, or if you no longer require our services, you can correct or update what is in the system by e-mailing our customer support at service@ticketmonster.com, or calling us at 1-866-217-4777
+Personally Identifiable Information refers to information that allows us to identify you. When you engage in certain activities on this Website, such as registering an account with the Website, ordering a product or service, returning an order, inquiring about our products or services, contacting customer service, signing up for email updates or other promotional materials, submitting content and/or posting content in any public areas of the Website, entering a contest or sweepstakes, participating in a marketing survey, promotion or event, or sending us feedback, we may ask you to provide certain Personally Identifiable Information by filling out and submitting an online form.
 
-Please note that that for legal obligations, we retain all personal information as long as your account is active or needed to provide you services. In the event of a dispute or to enforce our agreements, we may need client information, which is never shared with third parties.
+It is completely optional for you to elect to engage in these activities; however, through your participation, and in order to provide you with our full range of services, we may ask that you provide us Personally Identifiable Information. Depending upon the activity, some of the information we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory information, you will not be able to engage in that activity.
 
-### Personal and Account Information:
+**b. NonPersonally Identifiable Information.**
 
-We use 128-bit encryption technology and Secure Socket Layers ("SSL") in all areas where your personal and account information is required. Our Web site is certified by VeriSign, which verifies that our Web site is authentic and that we use SSL security. To view our VeriSign certificate, click on the image of the closed lock or the solid key at the bottom of your browser window. Our Web site security information will appear.
+Non-Personally Identifiable Information refers to information that does not by itself identify a specific individual. A representative, non-exhaustive list of the types of Non-Personally Identifiable Information may include: network or Internet protocol address and type of browser you are using (e.g., Chrome, Safari, Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the name of your Internet service provider (e.g., Comcast, Verizon or AT&T) and domains used by such providers, mobile network, device identifiers (such as an Apple IDFA or an Android Advertising ID), device settings, browser settings, the Website pages you have visited, the website visited before and after you visit the Website, the type of handheld or mobile device used to view the Website (e.g., iOS, Android), location information, and the content and advertisements you have accessed, seen, forwarded and/or clicked on. Please see our Section titled Cookies for more information about how the foregoing information may be collected and used.
 
-In addition, your personal and account information and transaction history are kept behind our firewall on separate servers. All transaction information is processed under encrypted channels.
+**2\. Collection Methods and Use of Information.**
 
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+We do not collect any Personally Identifiable Information about you unless you voluntarily provide it to us. You provide certain Personally Identifiable Information to us when you (a) register for our services and register your E-mail address with us; (b) enter sweepstakes or contests sponsored by us or one of our partners; (c) sign up for special offers from selected third parties; (d) send E-mail messages, submit forms, or transmit other information by telephone or letter; or (e) submit your credit card or other payment information when using, ordering or purchasing products or services on our Website. We may also collect information from you at other points on our Website that state that such information is being collected.
 
-### Cookies + Third Party Cookies
+In addition, we may collect, or our third party ad server and/or content server may collect, certain NonPersonally Identifiable Information. This information is ultimately stored in the form of store categories, and, in some cases, specific URLs. We may use your IP address to diagnose problems with our servers, software, to administer our Website and to gather demographic information. Our third party ad servers will also provide us with summary, but not individual, reports that will tell us how many ads were presented and clicked upon at our Website.
 
-A cookie is a small text file that computer's store for record keeping. Almost every retail website makes use of cookies, as does Ticket Monster. We do not share any information that is stored in cookies with anyone. Our website uses BOTH session and persistent cookies. Session cookies expire once you close the browser, and make it easier to steer through the site. Persistent cookies remain on your hard drive even after you have closed down the browser. We use them to store your e-mail address, which saves you time next time you shop on the site. In addition, persistent cookies help us track and target user interests in order to enhance the shopping experience in the future.
+We will primarily use your Personally Identifiable Information to provide our services to you. We will also use Personally Identifiable Information to enhance the operation of our Website, fulfill orders, improve our marketing and promotional efforts, analyze Website use, improve our product and service offerings, detect and prevent fraudulent transactions, and customize our Websites' content, layout, and services. We may use Personally Identifiable Information to deliver information to you and to contact you regarding administrative notices. We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems, and enforce our agreements with you, including but not limited to our Terms of Use, Terms of Sale, and this Privacy Policy.
 
-Each browser has a different method for persistent cookie removal, all of which are very simple. Please look at the "help" file on your browser for more instruction.
+**3\. Sharing of Information.**
 
-Our privacy statement does not include any third parties; we do not have access or control over these cookies whatsoever.
+We do not share, sell, trade, license, or rent your Personally Identifiable Information to others, except in certain circumstances and as set forth herein. In the normal course of business we may share Personally Identifiable Information with third-parties in the following, limited circumstances:
 
-### Gifs (Web Beacons/Web Bugs)
+  * Personally Identifiable Information is provided to our parent companies, subsidiaries or affiliated companies for the purpose of processing the information or conducting business on our behalf. We require that these parties agree to process this information based on our instructions and requirements consistent with this Privacy Policy.
+  * If you are accessing this Website through a co-branded or white-page version of this Website established for a third-party, or some other referring business, we may share your name, physical address and email address with such third-party. We do not provide credit card or other financial information to these third-parties.
+  * We may share your name, phone number, physical address, email address, financial information and/or order information to select third-party service providers for purposes of operating our business, including credit card processing, business analytics, customer service, marketing, distribution of surveys or sweepstakes programs, and fraud prevention. For example, we must share your credit card information to the card-issuing bank and certain fraud prevention companies to analyze risk and confirm payment for products and services purchased by you on this Website; or share your address to a courier service to deliver products that you ordered; or share your contact information with email service providers so that they may notify you of offers or services of ours that may be of interest to you. Such information may only be used by service providers on our behalf and we only share such information that is absolutely necessary.
+  * We may share your Personally Identifiable Information with those third-party product or service suppliers sold or advertised through this Website, such as hotels, car rental companies, travel providers, activity providers, entertainment providers, producers, and box offices. By making a purchase or reservation through this Website, you are authorizing us to disclose to suppliers your Personally Identifiable Information, except that we will not disclose financial information unless absolutely necessary. You also agree that such suppliers may contact you for marketing purposes. Please note, however, these suppliers are not controlled by us and that any Personally Identifiable Information shared with them is subject to the applicable supplier's privacy policy and data security practices. Therefore, we encourage you to review the privacy policies and security practices of any supplier whose products or services you purchase through this Website.
+  * Occasionally we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, to cooperate with a law enforcement investigation, or to otherwise satisfy applicable laws, regulations, legal process or enforceable governmental requests. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+  * We may disclose and/or share Personally Identifiable Information as may be necessary to enforce applicable terms of service, including investigation of potential violations thereof, to detect, prevent or otherwise address fraud, security or technical issues, or to protect against imminent harm to the rights, property or safety of Ticket Monster, its affiliates, its suppliers, their customers, or the public, as required or permitted by law.
+  * We may share certain information about our customers' purchases, traffic patterns, demographics, and related Website information with third-party vendors and advertisers, but these statistics are anonymized and do not include any Personally Identifiable Information.
 
-We use a third party advertising partner who may choose to employ software called clear gifs. These help us manage content on our site by informing us what is most effective. Clear gifs are tiny graphics with a unique identifier that are used to track online movements of site users. Unlike cookies, gifs are embedded invisibly on web pages. Personally identifiable information is not tied to any gifs.
 
-### Agents/Service Providers/Third Parties:
 
-We use suppliers such as a shipping company to fulfill our orders, in addition to a credit card processing company for billing. Live Chat, another third party, will assist you if you have questions regarding your order. If Live Chat is offline, we will need your name and email address, in order to answer any questions. We share your name, email address, billing and shipping address with a third party only when necessary for order completion. These third parties are prohibited from using any identifiable information for promotional purposes.
+**4\. Transfer of Information.**
 
-We restrict access to your personal and account information to those who need access to use it as set forth in this policy. Your personal and account information will never be sold, shared, rented or traded to third parties except under the following circumstances:
+We may transfer Personally Identifiable Information to a third party in connection with a merger, acquisition or sale (including any transfers made as part of insolvency or bankruptcy proceedings) involving us or our affiliated companies, or as part of a corporate reorganization, stock or asset sale, or other change in corporate control.
 
-We may disclose your personal and account information to respond to subpoenas, court orders, or other legal process, as required by law, or to establish or exercise our legal rights or defend against legal claims.
+**5\. EEA and Switzerland Residents.**
 
-Your personal and account information may also be disclosed in connection with a sale of some or all of our business or a merger with another company.
+When you use this Website and/or provide information to us through the Website, your information may be transferred to a destination outside your jurisdiction, including to the United States. The United States has not received a finding of "adequacy" from the European Union under Article 45 of the GDPR. We rely on derogations for specific situations set forth in Article 49 of the GDPR in order to transfer personal information across international borders outside of Ticket Monster, its affiliates and subsidiaries. In particular, we transfer personal information across international borders only: with your consent; to perform a contract with you; or to fulfill a compelling legitimate interest in a manner that does not outweigh your rights and freedoms.
 
-### Social Media (Features) and Widgets:
+**6\. Updating and Correcting Information.**
 
-Our website includes social media features: twitter, Google+ the Facebook Like button and widgets ("share this" button or interactive mini-programs that run on our site). All of these may collect your IP address, which pages you visit on Ticket monster and may set a cookie to enable the feature to function properly. All social media features and widgets are either hosted by a third party or hosted directly on our website. Each interaction with each different feature or widget is governed by individual privacy policies, which are set by the company providing it.
+We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by accessing your account preferences. You may also access and correct your personal information and privacy preferences by writing us at the address or email address first listed above. Please include your name, address, and/or E-mail address, and any other information pertinent to your request, when you contact us.
 
-### Contests/Surveys:
+We encourage you to promptly update your Personally Identifiable Information if it changes. While you may ask to have the information on your account deleted or removed, because we keep track of past transactions, you cannot delete information associated with past transactions on this Website. In addition, it may be impossible for us to completely delete your information without retaining some residual information because of temporary backups or legal requirements.
 
-If you enter a contest or survey on our site, we collect information that is necessary for entry or participation, such as name, address, e-mail, telephone number,
+**7\. User Choices on Collection and Use of Information.**
 
-### Other Purposes:
+We may, from time-to-time, send you E-mail regarding our products and services. In addition, if you indicated that you are interested in receiving offers or information from us, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only Ticket Monster (or agents working on our behalf and subject to confidentiality agreements) will send you these direct mailings but only if you indicated that you do not object to these offers. If you do not want to receive E-mail from us, either you should not opt into having E-mail sent to you, or you may unsubscribe from any such E-mails.
 
-Your personal and account information may be used to:
+You also have choices with respect to cookies, as described below. By modifying your browser preferences, you may have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our Website and our services may not work properly in your case.
 
-Provide products or services which you have requested
+**8\. Security of Information.**
 
-Respond to a communication or contact you
+At our Website you can be assured that your Personally Identifiable Information is secure, consistent with recognized industry standards. The importance of security for all Personally Identifiable Information associated with our users is of utmost concern to us. Your Personally Identifiable Information is protected in several ways. Access by you to your Personally Identifiable Information is available through a unique customer ID that is either issued to you or selected by you, and a password that is selected by you. We recommend that you do not divulge your password to anyone. Further, all transmissions that include Personally Identifiable Information are encrypted in transit using industry standard Secure Socket Layer (SSL) encryption.
 
-Send you promotional or product info
+When you enter Personally Identifiable Information, such as credit card or debit card and billing information, on applicable sections of our Website, the information will be encrypted or encoded before it is sent over the Internet. In addition, such Personally Identifiable Information resides on a secure server that only selected personnel or independent contractors under strict confidentiality requirements have access to. We truncate, encrypt and/or tokenize credit card or debit card numbers, and thereby prevent unauthorized parties from viewing such information when it is transmitted to us or stored on our servers.
 
-Analyze and act upon your personal and account information as part of our standard business practices
+Additionally, in order to most efficiently serve you, credit card and debit card transactions and order fulfillment are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information.
 
-Send you updates on important information about our company and services
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personally Identifiable Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this Website cannot be guaranteed; and (c) any such information and data may be viewed or tampered by a third party while in transit.
 
-### Public Forums/Blogs
+**9\. Cookies.**
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas might be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at service@ticketmonster.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+When you use our Website we may store cookies on your computer in order to facilitate and customize your use of our Website. A cookie is a small data text file, which a website stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to us. For example, we may use cookies to understand which web pages are visited, how often they are visited, to remember you when you return to the Website, to help maintain a secure Website, or to generally make the Website function or more user-friendly.
 
-### Behavioral Targeting / Re-Targeting
+We may use an outside ad-serving company to display advertisements on our Website. As part of their service, they will place a separate cookie on your computer. We will not provide any third-party ad server with any of your Personally Identifiable Information or information about your purchases. We and our third party ad server will collect and use Non-Personally Identifiable Information about you, such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server and whether you responded to a particular ad. Other advertisers may also place banner ads on our Website in the same manner as above, but we will not disclose any Personally Identifiable Information to them.
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and gifs to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish not to have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](mailto:service@ticketmonster.com?subject=Opt+Out). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+Most browsers are initially set up to accept cookies. Depending on your browser, you may decide to change the settings in your browser to refuse all cookies or even to notify you when a cookie is being sent. However, if you decide to refuse all cookies from this Website, please be aware that some Website features or some of our services may be unavailable or may not function properly.
 
-### Questions/Comments/Concerns/Feedback:
+**10\. Privacy Policies of Third Party Sites.**
 
-You can reach us by email service@ticketmonster.com or you can call us toll-free at 1-866-217-4777. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other websites that may be accessible by or through our Website have their own privacy policies and data collection, use and disclosure practices. Please consult each website's privacy policy. We are not responsible for the policies or practices of third parties. We cannot control a third-party’s collection or use of any information. You should contact these third parties directly if you have any questions about their use of the information that they collect.
 
-Ticket Monster Inc. - www.ticketmonster.com
+**11\. Miscellaneous Privacy Issues.**
 
-Email: service@ticketmonster.com
+You must be at least eighteen (18) years old to have our permission to use this Website. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors that are under eighteen (18) years of age. Additionally, our Website is not intended for nor targeted towards children. We do not knowingly collect Personally Identifiable Information from children. If you are younger than the age of consent in your jurisdiction, do not use or provide any information on this Website or on or through any of its features, or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If you believe we might have any information from or about a child under the applicable age of consent, please contact us.
+
+You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. your name, E-mail address, etc.) in any public areas on this Website, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond our control and this Privacy Policy does not apply to such information. If you do not want this information to be viewed by third parties, you are advised not to make any submissions.
+
+The Website and associated services are hosted in the United States. If you are outside of the United States, your information will be processed and stored in the United States and you are consenting to such processing and storage.
+
+**12\. California Residents - Your California Privacy Rights.**
+
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes.
+
+**13\. Changes to this Privacy Policy.**
+
+We reserve the right to change this Privacy Policy at any time. Such changes, modifications, additions or deletions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to, issuing an E-mail to the E-mail address listed by registered users, if any such change is significant, or by posting the revised Privacy Policy on this page. Each version of this Privacy Policy will be identified by its effective date found below. You acknowledge and agree that it is your responsibility to maintain a valid E-mail address as a registered user, review this Website and this Privacy Policy periodically and to be aware of any modifications. Your continued use of the Website after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by the modified Privacy Policy.
+
+This Privacy Policy was last updated on June 4, 2018.
