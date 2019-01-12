@@ -1,78 +1,111 @@
-<!--The following is the downloaded HTML source of the kenpom.com privacy policy that was archived on 2017-07-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170729093229id_/https%3A//kenpom.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kenpom.com privacy policy that was archived on 2019-01-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190112032647id_/https%3A//kenpom.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" type="text/css" href="css/rate.css?1475471833">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><link rel="stylesheet" type="text/css" href="css/terms.css?1526189254">
 <title>kenpom.com privacy policy</title>
- 
-<!-- try to use css link for google fonts --> 
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Signika:600,400&amp;text=1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz%20%26%2B%2D%2C%2E%25%27%28%29%7C%95%A9%3F">
-<link rel="Shortcut Icon" type="image/ico" href="assets/favicon.ico">
-<link rel="stylesheet" type="text/css" href="css/master.css?1500523941">
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-11558853-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-11558853-1');
+</script>
+
+<!-- try to use css link for google fonts -->
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Signika:600,400&amp;text=1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz:%c3%97%C3%A9%c2%b7%C2%A9%20%26%2B%2D%2C%2E%25%27%28%29%2a%7C%95%3F">
+<link rel="Shortcut Icon" type="image/ico" href="assets/favicon.ico?1537487670">
+
+<link rel="stylesheet" type="text/css" href="css/master2.css?1545003840">
+
+<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="menu.js?1531617418"></script>
 
 </head>
- 
+
 <body>
 <div id="wrapper">
 <div id="container">
 
 <div id="logged-in">
 <div id="login-box">
-<div id="subscribe">
+<span class="mobileHide"><div id="subscribe">
 <a href="register.php"><img src="assets/subscribe.png" alt="Subscribe!"></a>
 </div>
-<form id="login" method="POST" action="handlers/login_handler.php">
-<label>E-mail </label><input type="text" name="email">
-<label>Password </label><input type="password" name="password">
+</span><form id="login" method="POST" action="handlers/login_handler.php">
+<input type="email" name="email" placeholder="E-mail">
+<input type="password" name="password" placeholder="Password">
 <input type="submit" name="submit" value="Login!">
-<input type="checkbox" name="remember">Remember me &nbsp;&nbsp;
+<span class="desktopHide"><br></span><input type="checkbox" name="remember">Remember me &nbsp;&nbsp;
 <a href="forgotpassword.php">Forgot password?</a>
+<span class="desktopHide"><a href="register.php"><b> | SUBSCRIBE!</b></a></span>
 </form>
 </div>
-<!-- 
-<div id="logo-header">
- <img name="header" src="assets/header.png" width="1000" height="35" border="0" usemap="#header" />
- <map name="header">
- <area shape="rect" coords="811,0,968,32" href="http://thecourtguru.com" target="_blank" title="CourtIntelligence powered by kenpom.com" alt="CourtIntelligence powered by kenpom.com" />
- </map>
-</div> <!-- end logo-header div -->
+    <!--
+    <div id="logo-header">
+     <img name="header" src="assets/header.png" width="1000" height="35" border="0" usemap="#header" />
+     <map name="header">
+     <area shape="rect" coords="811,0,968,32" href="http://thecourtguru.com" target="_blank" title="CourtIntelligence powered by kenpom.com" alt="CourtIntelligence powered by kenpom.com" />
+     </map>
+    </div> <!-- end logo-header div -->
 
- 
-<!-- new navigation bar -->
-<div id="logo-header">
- <img name="header" src="assets/header3.png" border="0" style="padding-top:10px">
-</div> <!-- end logo-header div -->
 
-<div id="nav2">
- <ul>
-  <li class="kenpom"><a href="/"><img src="assets/kenpom.png"></a></li>
- <li class="stats"><a href="#">Stats</a>
- 	<ul>
- 	<li><a href="summary.php">Efficiency</a></li>
- 	<li><a href="stats.php">Four Factors</a></li>
- 	<li><a href="playerstats.php">Player Stats</a></li>
- 	<li><a href="pointdist.php">Point Distribution</a></li> 	
- 	<li><a href="height.php">Height/Experience</a></li>
- 	<li><a href="teamstats.php">Misc. Team Stats</a></li>
- 	</ul>
- </li>
- <li class="stats"><a href="blog" title="Blog">Blog</a></li>		   
- <li><a href="fanmatch.php" title="FanMatch">FanMatch</a></li>
- <li class="search">
-  <form action="team.php">
-  <input id="teams" name="team" placeholder="Search teams">
-  </form>
-  <form action="history.php">
-  <input id="coaches" name="c" placeholder="Search coaches">
-  </form>
-<!--   <form action="getplayer.php">
-  <input id="players2" name="x" placeholder="Search players"/>
-  </form>  -->
- </li>
- <li><a href="contact.php" title="Contact">Contact</a></li>		   
- </ul>
-</div>
-<img name="header" src="assets/header4.png" border="0">
+    <!-- new navigation bar -->
+    <div id="logo-header">
+        <h3>ADVANCED ANALYSIS OF COLLEGE BASKETBALL</h3>
+        <hr>
+        <hr>
+        <!--<img name="header" src="assets/header3.png" border="0" style="padding-top:10px" />-->
+    </div> <!-- end logo-header div -->
+
+    <div id="nav2">
+                <h1 class="logo"><a href="/"><img src="assets/kenpom_new.png"></a></h1>
+        <nav>
+            <a class="burger-nav"><span class="burger-span">≡</span></a>
+            <ul id="main-menu">
+                <li id="stats-menu" class="stats"><a href="#">Stats</a>
+                    <ul>
+                        <li><a href="summary.php">Efficiency</a></li>
+                        <li><a href="stats.php">Four Factors</a></li>
+                        <li><a href="playerstats.php">Player Stats</a></li>
+                        <li><a href="pointdist.php">Point Distribution</a></li>
+                        <li><a href="height.php">Height/Experience</a></li>
+                        <li><a href="teamstats.php">Misc. Team Stats</a></li>
+                    </ul>
+                </li>
+                <li class="fanmatch"><a href="fanmatch.php" title="FanMatch">FanMatch</a></li>
+                <li class="universe"><a href="universe.php" title="D-I Universe">D-I Universe</a></li>
+                <li id="misc-menu" class="misc"><a href="#">Miscellany</a>
+                    <ul>
+                        <li><a href="blog">Blog</a></li>
+                        <li><a href="game_attrs.php">Game Rankings</a></li>
+                        <li><a href="trends.php">D-I Stats Trends</a></li>
+                        <li><a href="officials.php">Ref Ratings</a></li>
+                        <li><a href="hca.php">Home Court Ratings</a></li>
+                        <li><a href="arenas.php">Arena Capacity</a></li>
+                    </ul>
+                </li>
+                <li class="search">
+                    <form action="team.php">
+                        <input id="teams" name="team" placeholder="Search teams">
+                    </form>
+                    <form action="history.php">
+                        <input id="coaches" name="c" placeholder="Search coaches">
+                    </form>
+                    <!--   <form action="getplayer.php">
+                      <input id="players2" name="x" placeholder="Search players"/>
+                      </form>  -->
+                </li>
+                <li class="contact"><a href="contact.php" title="Contact">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+    <hr>
+    <hr>
+    <!--<img name="header" src="assets/header4.png" border="0" />-->
 </div>
 
 <!-- The content header -->
@@ -82,556 +115,571 @@
 
 <h2>Privacy Policy</h2>
 
-<div id="half-column-left">
+<div class="half-column-left">
 
-The website located at https://www.kenpom.com ("Website") is owned and operated by Ken Pomeroy (the "Company").  We created this Privacy Policy ("Policy") to demonstrate our commitment to protecting your privacy and your personally identifiable information on our Website.
-<br><br>
-This Policy is based on the principles of notice/awareness, choice/consent, access/participation and integrity/security in the collection and use of all information regarding our users and their activities on the Website.  In this document "You" shall refer to you, the end user of this site, whether as an individual, entity, company, organization or related.  "We", the "Website", and/or the "Company", refers to the information, services, and other provisions by the Company, or located at the Website, or by individuals and entities associated with the Website.
-<br><br>
-<b><u>I. NOTICE OF OUR POLICY</u></b>
-<br><br>
-This Policy notifies you of, among other things: (i) what information we gather from you, (ii) how we may use or disclose that information, (iii) with whom the information may be shared, (iv) what choices are available to you regarding collection, use and distribution of the information, (v) our efforts to protect the information, and (vi) how you can correct any inaccuracies in the information you provide to us. Please read this Policy carefully.
-<br><br>
-<b><u>II. WHAT TYPES OF INFORMATION ARE COLLECTED AND WHY</u></b>
-<br><br>
-a. <u>Information Submitted by You</u><br>
+<p>The website located at https://www.kenpom.com ("Website") is owned and operated by The Forecast Factory LLC (the "Company").
+We created this Privacy Policy ("Policy") to demonstrate our commitment to protecting your privacy and your personally identifiable information on our Website.</p>
 
-We do not request you to submit any information to the Website.  Any communications, emails, or other information submitted by You to the website, or individuals related to the site is solely at your own election.  The website has no responsibility or other obligation to store, maintain, respond or otherwise with respect to the information transmitted to the Website by you.  You will be contacted by us only if you have expressly requested us to do so. 
-<br><br>
-b. <u>Information Collected by Cookies</u><br>
+<p>This Policy is based on the principles of notice/awareness, choice/consent, access/participation and integrity/security in the collection and use of all information
+regarding our users and their activities on the Website.  In this document "You" shall refer to you, the end user of this site, whether as an individual, entity,
+company, organization or related.  "We", the "Website", and/or the "Company", refers to the information, services, and other provisions by the Company, or located
+at the Website, or by individuals and entities associated with the Website.</p>
 
-Currently the Website does not use "cookies", however we may, at some time either now or in the future, make use of website "cookies" to help you use our services more easily, specifically to collect information such as IP addresses, time spent on our Website (for software application specific web pages), and to help us continuously improve our Website and our services to you ("Data"). A "cookie" is a small data file that a website can send to your browser, which may then be stored on your computer to help our Website "remember" information about you to make it easier and more efficient for you to use our Website.  
-Our Website may employ session cookies. A session cookie does not remain on your computer after you close your web browser window. Our session cookies contain none of your personal information and cannot be used to track you around the Internet. Our session cookies can only be used by this Website and they only exist for the duration of your visit. Depending on the settings in your browser, you may have the option to deny the session cookie; however, doing so may negatively impact upon the performance of the Website or restrict us in better serving your needs and interests. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
-<br><br> 
-<b><u>III. HOW DOES THE COMPANY USE MY INFORMATION?</u></b>
-<br><br>
-a. <u>Use of Your Information</u><br>
+<h5>I. Notice of our policy</h5>
 
-Any information supplied by you is used to improve your experience, process and personalize your requests, improve the Website, develop new features, for support, and may be used for other purposes as stated herein. 
-We may also use the information to show you a history of your activity, to provide you with statistics about you or your use of our product or service, or to provide you with a better user experience. 
+<p>This Policy notifies you of, among other things: (i) what information we gather from you, (ii) how we may use or disclose that information, (iii) with whom the
+information may be shared, (iv) what choices are available to you regarding collection, use and distribution of the information, (v) our efforts to protect the
+information, and (vi) how you can correct any inaccuracies in the information you provide to us. Please read this Policy carefully.</p>
 
-The information collected may also be used to provide relevant advertisements, promotional messages and materials, or any other way as the Company deems fit. 
-We may also retain your Data on a secure server and use this information in an aggregated form to measure number of visits, average time spent on the Website, pages viewed, and other relevant statistics. The Company also collects this information to measure the use of the Website and to improve the content of the Website.  
-<br><br>
-b. <u>Disclosure of Your Information</u><br>
+    <h5>II. What types of information are collected and why</h5>
 
-The information we collect will only be collected upon your consent to this privacy policy.   
+<p>a. Information Submitted by You</p>
 
-We may share your information with certain third parties. These third parties will be contractually bound to treat your information in accordance with this privacy policy. 
+<p>We do not request you to submit any information to the Website.  Any communications, emails, or other information submitted by You to the website, or
+individuals related to the site is solely at your own election.  The website has no responsibility or other obligation to store, maintain, respond or
+otherwise with respect to the information transmitted to the Website by you.  You will be contacted by us only if you have expressly requested us to do so.</p>
 
-The Company reserves the right to disclose your personally identifiable information as required by law and when the Company believes that disclosure is necessary to protect the rights of the Company, and/or to comply with any judicial proceeding, court order, subpoena, or legal process served upon the Company. 
-<br><br>
-c. <u>Managing Your Information</u><br>
+<p>b. Information Collected by Cookies</p>
 
-You are entitled to removal of your Data from our database upon request. You may request us to correct, modify or delete all of your Data collected by us through the Website, by making such a request or a related inquiry by sending an email to ratings at kenpom.com. Unless you require us to delete your Data, we will keep your information for as long as reasonably necessary for the purposes described in this Policy and for us to keep appropriate archives for our business operations. 
-<br><br>
-d. <u>Anonymous Data Collection</u><br>
+<p>The Website uses "cookies" to help you use our
+services more easily. A "cookie" is a small data file that a website can send to your browser,
+which may then be stored on your computer to help our Website "remember" information about you to make it easier and more efficient for you to use our Website.</p>
 
-We may anonymize and aggregate data from your usage of the Website to obtain or provide general statistics regarding the use of the Website and its specific features and functionalities that you use.  
-<br><br>
-<b><u>IV. WHAT THE COMPANY DOES TO KEEP THE WEBSITE SECURE?</u></b>
-<br><br>
-a. <u>Security</u><br>
+<p>Our Website also employs session cookies. A session cookie does not remain on your computer after you close your web browser window. Our session cookies contain
+none of your personal information and cannot be used to track you around the Internet. Our session cookies can only be used by this Website and they only exist
+for the duration of your visit.</p>
+<p>Depending on the settings in your browser, you may have the option to deny the use of cookies; however, doing so may negatively
+impact upon the performance of the Website or restrict us in better serving your needs and interests. The "help" portion of the toolbar on most browsers will tell
+you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.</p>
 
-The Company employs procedural and technical safeguards to secure the Website against misuse. Regardless of the precautions taken by us we cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk.  
-<br><br>
-<b><u>V. ACCEPTANCE OF THIS PRIVACY POLICY</u></b>
-<br><br>
-By using this Website, you agree to this Website Privacy Policy. We reserve the right, at our discretion, to change, modify, add, and or remove portions of this Privacy Policy at any time. All changes shall take effect immediately upon their posting on our Website. Your continued use of Website or acceptance of emails following the posting of changes to this Privacy Policy shall mean that you accept any and all such changes.
+<h5>III. How does the Company use my information?</h5>
+
+    <p>a. Use of Your Information</p>
+
+<p>Any information supplied by you is used to improve your experience, process and personalize your requests, improve the Website, develop new features, for support,
+    and may be used for other purposes as stated herein.</p>
+<p>We may also use the information to show you a history of your activity, to provide you with statistics about you or your use of our product or service, or to
+    provide you with a better user experience.</p>
+    <p>The information collected may also be used to provide relevant advertisements, promotional messages and materials, or any other way as the Company deems fit.</p>
+<p>Currently, the only information stores by the Website is your email and encrypted password (for subscribers) and your favorite team, if supplied. Your unencrypted
+    password is not stored by the Website.</p>
+<p>We may also retain your Data on a secure server and use this information in an aggregated form to measure number of visits, average time spent on the Website,
+    pages viewed, and other relevant statistics.</p>
+
+<p>b. Disclosure of Your Information</p>
+
+    <p>The information we collect will only be collected upon your consent to this privacy policy.</p>
+
+<p>We will not share your information with third parties. However, the Company reserves the right to disclose your personally identifiable information as required
+    by law and when the Company believes that disclosure is
+    necessary to protect the rights of the Company, and/or to comply with any judicial proceeding, court order, subpoena, or legal process served upon the Company.</p>
+
+<p>c. Managing Your Information</p>
+
+<p>You are entitled to removal of your Data from our database upon request. You may request us to correct, modify or delete all of your Data collected by us
+through the Website, by making such a request or a related inquiry by sending an email to ratings at kenpom.com. Unless you require us to delete your Data,
+we will keep your information for as long as reasonably necessary for the purposes described in this Policy and for us to keep appropriate archives for our
+business operations.</p>
+
+<p>d. Anonymous Data Collection</p>
+
+<p>We may anonymize and aggregate data from your usage of the Website to obtain or provide general statistics regarding the use of the Website and its specific
+    features and functionalities that you use.</p>
+
+<h5>IV. What does the Company do to keep the Website secure?</h5>
+
+<p>The Company employs procedural and technical safeguards to secure the Website against misuse. Regardless of the precautions taken by us we cannot ensure or
+warrant the security of any information you transmit to us, and you transmit such information at your own risk.</p>
+
+<h5>V. Acceptance of this Privacy Policy</h5>
+
+<p>By using this Website, you agree to this Website Privacy Policy. We reserve the right, at our discretion, to change, modify, add, and or remove portions
+of this Privacy Policy at any time. All changes shall take effect immediately upon their posting on our Website. Your continued use of Website or acceptance
+of emails following the posting of changes to this Privacy Policy shall mean that you accept any and all such changes.</p>
 </div>
 
 </div> <!-- end data-area div -->
 </div>
 <div id="team-footer">
-© 1999-2017 The Forecast Factory LLC. All rights reserved.
-	
-	| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
-	| Stats provided by <a href="https://www.stats.com">STATS LLC</a><br>
+© 1999-2018 The Forecast Factory LLC. All rights reserved.
+<!--<span class="desktopHide"><br/></span>--><span class="mobileHide">| <a href="terms.php">Terms of Use</a> | <a href="privacy.php">Privacy Policy</a>
+	| Stats provided by <a href="https://stats.com">STATS LLC</a><br></span>
 </div></div>
-	
-   <!-- end wrapper div -->
+<!-- end wrapper div -->
 
 
-   
+
 <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.0/themes/smoothness/jquery-ui.min.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
 <script type="text/javascript" src="https://code.jquery.com/ui/1.11.0/jquery-ui.min.js"></script>
 <script>
-  $(function() {
-    var availableTags = [
-"Abilene Christian","Air Force","Akron","Alabama","Alabama A&M","Alabama St.","Albany","Alcorn St.","American","Appalachian St.",
-"Arizona","Arizona St.","Arkansas","Little Rock","Arkansas Pine Bluff","Arkansas St.","Army","Auburn","Austin Peay",
-"Ball St.","Baylor","Belmont","Bethune Cookman","Binghamton","Boise St.","Boston College","Boston University","Bowling Green",
-"Bradley","Brown","Bryant","Bucknell","Buffalo","Butler","BYU","Cal Poly","Cal St. Bakersfield","Cal St. Fullerton",
-"Cal St. Northridge","California","Campbell","Canisius","Central Arkansas","Central Connecticut","Central Michigan",
-"Charleston Southern","Charlotte","Chattanooga","Chicago St.","Cincinnati","Clemson","Cleveland St.","Coastal Carolina",
-"Colgate","College of Charleston","Colorado","Colorado St.","Columbia","Connecticut","Coppin St.","Cornell","Creighton",
-"Dartmouth","Davidson","Dayton","Delaware","Delaware St.","Denver","DePaul","Detroit","Drake","Drexel","Duke","Duquesne",
-"East Carolina","East Tennessee St.","Eastern Illinois","Eastern Kentucky","Eastern Michigan","Eastern Washington","Elon",
-"Evansville","Fairfield","Fairleigh Dickinson","FIU","Florida","Florida A&M","Florida Atlantic","Florida Gulf Coast","Florida St.",
-"Fordham","Fresno St.","Furman","Gardner Webb","George Mason","George Washington","Georgetown","Georgia","Georgia Southern",
-"Georgia St.","Georgia Tech","Gonzaga","Grambling St.","Grand Canyon","Green Bay","Hampton","Hartford","Harvard","Hawaii",
-"High Point","Hofstra","Holy Cross","Houston","Houston Baptist","Howard","Idaho","Idaho St.","Illinois","Illinois Chicago",
-"Illinois St.","Incarnate Word","Indiana","Indiana St.","Iona","Iowa","Iowa St.","Fort Wayne","IUPUI","Jackson St.","Jacksonville",
-"Jacksonville St.","James Madison","Kansas","Kansas St.","Kennesaw St.","Kent St.","Kentucky","La Salle","Lafayette","Lamar",
-"Lehigh","Liberty","Lipscomb","LIU Brooklyn","Long Beach St.","Longwood","Louisiana Lafayette","Louisiana Monroe","Louisiana Tech",
-"Louisville","Loyola Chicago","Loyola Marymount","Loyola MD","LSU","Maine","Manhattan","Marist","Marquette","Marshall","Maryland",
-"Maryland Eastern Shore","Massachusetts","McNeese St.","Memphis","Mercer","Miami FL","Miami OH","Michigan","Michigan St.",
-"Middle Tennessee","Milwaukee","Minnesota","Mississippi","Mississippi St.","Mississippi Valley St.","Missouri","Missouri St.",
-"Monmouth","Montana","Montana St.","Morehead St.","Morgan St.","Mount St. Mary's","Murray St.","Navy","Nebraska","Nebraska Omaha",
-"Nevada","New Hampshire","New Mexico","New Mexico St.","New Orleans","Niagara","Nicholls St.","NJIT","Norfolk St.",
-"North Carolina","North Carolina A&T","North Carolina Central","North Carolina St.","North Dakota","North Dakota St.",
-"North Florida","North Texas","Northeastern","Northern Arizona","Northern Colorado","Northern Illinois","Northern Iowa",
-"Northern Kentucky","Northwestern","Northwestern St.","Notre Dame","Oakland","Ohio","Ohio St.","Oklahoma","Oklahoma St.",
-"Old Dominion","Oral Roberts","Oregon","Oregon St.","Pacific","Penn","Penn St.","Pepperdine","Pittsburgh","Portland",
-"Portland St.","Prairie View A&M","Presbyterian","Princeton","Providence","Purdue","Quinnipiac","Radford","Rhode Island",
-"Rice","Richmond","Rider","Robert Morris","Rutgers","Sacramento St.","Sacred Heart","Saint Joseph's","Saint Louis",
-"Saint Mary's","Saint Peter's","Sam Houston St.","Samford","San Diego","San Diego St.","San Francisco","San Jose St.",
-"Santa Clara","Savannah St.","Seattle","Seton Hall","Siena","SIU Edwardsville","SMU","South Alabama","South Carolina",
-"South Carolina St.","South Dakota","South Dakota St.","South Florida","Southeast Missouri St.","Southeastern Louisiana",
-"Southern","Southern Illinois","Southern Miss","Southern Utah","St. Bonaventure","St. Francis NY","St. Francis PA","St. John's",
-"Stanford","Stephen F. Austin","Stetson","Stony Brook","Syracuse","TCU","Temple","Tennessee","Tennessee Martin","Tennessee St.",
-"Tennessee Tech","Texas","Texas A&M","Texas A&M Corpus Chris","UT Rio Grande Valley","Texas Southern","Texas St.","Texas Tech",
-"The Citadel","Toledo","Towson","Troy","Tulane","Tulsa","UAB","UC Davis","UC Irvine","UC Riverside","UC Santa Barbara","UCF",
-"UCLA","UMass Lowell","UMBC","UMKC","UNC Asheville","UNC Greensboro","UNC Wilmington","UNLV","USC","USC Upstate","UT Arlington",
-"Utah","Utah St.","Utah Valley","UTEP","UTSA","Valparaiso","Vanderbilt","VCU","Vermont","Villanova","Virginia","Virginia Tech",
-"VMI","Wagner","Wake Forest","Washington","Washington St.","Weber St.","West Virginia","Western Carolina","Western Illinois",
-"Western Kentucky","Western Michigan","Wichita St.","William & Mary","Winthrop","Wisconsin","Wofford","Wright St.","Wyoming",
-"Xavier","Yale","Youngstown St."
-    ];
-    $( "#teams" ).autocomplete({
-	  minLength: 2,
-      source: availableTags,
-      select: function(event, ui) {
-          location.href = '/team.php?team=' + ui.item.value.replace("&","%26");
-      }
-    
+    $(function() {
+        var availableTags = [
+            "Abilene Christian","Air Force","Akron","Alabama","Alabama A&M","Alabama St.","Albany","Alcorn St.","American","Appalachian St.",
+            "Arizona","Arizona St.","Arkansas","Little Rock","Arkansas Pine Bluff","Arkansas St.","Army","Auburn","Austin Peay",
+            "Ball St.","Baylor","Belmont","Bethune Cookman","Binghamton","Boise St.","Boston College","Boston University","Bowling Green",
+            "Bradley","Brown","Bryant","Bucknell","Buffalo","Butler","BYU","Cal Baptist","Cal Poly","Cal St. Bakersfield","Cal St. Fullerton",
+            "Cal St. Northridge","California","Campbell","Canisius","Central Arkansas","Central Connecticut","Central Michigan","Charleston",
+            "Charleston Southern","Charlotte","Chattanooga","Chicago St.","Cincinnati","Clemson","Cleveland St.","Coastal Carolina",
+            "Colgate","Colorado","Colorado St.","Columbia","Connecticut","Coppin St.","Cornell","Creighton",
+            "Dartmouth","Davidson","Dayton","Delaware","Delaware St.","Denver","DePaul","Detroit","Drake","Drexel","Duke","Duquesne",
+            "East Carolina","East Tennessee St.","Eastern Illinois","Eastern Kentucky","Eastern Michigan","Eastern Washington","Elon",
+            "Evansville","Fairfield","Fairleigh Dickinson","FIU","Florida","Florida A&M","Florida Atlantic","Florida Gulf Coast","Florida St.",
+            "Fordham","Fresno St.","Furman","Gardner Webb","George Mason","George Washington","Georgetown","Georgia","Georgia Southern",
+            "Georgia St.","Georgia Tech","Gonzaga","Grambling St.","Grand Canyon","Green Bay","Hampton","Hartford","Harvard","Hawaii",
+            "High Point","Hofstra","Holy Cross","Houston","Houston Baptist","Howard","Idaho","Idaho St.","Illinois","Illinois Chicago",
+            "Illinois St.","Incarnate Word","Indiana","Indiana St.","Iona","Iowa","Iowa St.","IUPUI","Jackson St.","Jacksonville",
+            "Jacksonville St.","James Madison","Kansas","Kansas St.","Kennesaw St.","Kent St.","Kentucky","La Salle","Lafayette","Lamar",
+            "Lehigh","Liberty","Lipscomb","LIU Brooklyn","Long Beach St.","Longwood","Louisiana","Louisiana Monroe","Louisiana Tech",
+            "Louisville","Loyola Chicago","Loyola Marymount","Loyola MD","LSU","Maine","Manhattan","Marist","Marquette","Marshall","Maryland",
+            "Maryland Eastern Shore","Massachusetts","McNeese St.","Memphis","Mercer","Miami FL","Miami OH","Michigan","Michigan St.",
+            "Middle Tennessee","Milwaukee","Minnesota","Mississippi","Mississippi St.","Mississippi Valley St.","Missouri","Missouri St.",
+            "Monmouth","Montana","Montana St.","Morehead St.","Morgan St.","Mount St. Mary's","Murray St.","Navy","Nebraska","Nebraska Omaha",
+            "Nevada","New Hampshire","New Mexico","New Mexico St.","New Orleans","Niagara","Nicholls St.","NJIT","Norfolk St.","North Alabama",
+            "North Carolina","North Carolina A&T","North Carolina Central","North Carolina St.","North Dakota","North Dakota St.",
+            "North Florida","North Texas","Northeastern","Northern Arizona","Northern Colorado","Northern Illinois","Northern Iowa",
+            "Northern Kentucky","Northwestern","Northwestern St.","Notre Dame","Oakland","Ohio","Ohio St.","Oklahoma","Oklahoma St.",
+            "Old Dominion","Oral Roberts","Oregon","Oregon St.","Pacific","Penn","Penn St.","Pepperdine","Pittsburgh","Portland",
+            "Portland St.","Prairie View A&M","Presbyterian","Princeton","Providence","Purdue","Purdue Fort Wayne","Quinnipiac","Radford",
+            "Rhode Island","Rice","Richmond","Rider","Robert Morris","Rutgers","Sacramento St.","Sacred Heart","Saint Joseph's","Saint Louis",
+            "Saint Mary's","Saint Peter's","Sam Houston St.","Samford","San Diego","San Diego St.","San Francisco","San Jose St.",
+            "Santa Clara","Savannah St.","Seattle","Seton Hall","Siena","SIU Edwardsville","SMU","South Alabama","South Carolina",
+            "South Carolina St.","South Dakota","South Dakota St.","South Florida","Southeast Missouri St.","Southeastern Louisiana",
+            "Southern","Southern Illinois","Southern Miss","Southern Utah","St. Bonaventure","St. Francis NY","St. Francis PA","St. John's",
+            "Stanford","Stephen F. Austin","Stetson","Stony Brook","Syracuse","TCU","Temple","Tennessee","Tennessee Martin","Tennessee St.",
+            "Tennessee Tech","Texas","Texas A&M","Texas A&M Corpus Chris","UT Rio Grande Valley","Texas Southern","Texas St.","Texas Tech",
+            "The Citadel","Toledo","Towson","Troy","Tulane","Tulsa","UAB","UC Davis","UC Irvine","UC Riverside","UC Santa Barbara","UCF",
+            "UCLA","UMass Lowell","UMBC","UMKC","UNC Asheville","UNC Greensboro","UNC Wilmington","UNLV","USC","USC Upstate","UT Arlington",
+            "Utah","Utah St.","Utah Valley","UTEP","UTSA","Valparaiso","Vanderbilt","VCU","Vermont","Villanova","Virginia","Virginia Tech",
+            "VMI","Wagner","Wake Forest","Washington","Washington St.","Weber St.","West Virginia","Western Carolina","Western Illinois",
+            "Western Kentucky","Western Michigan","Wichita St.","William & Mary","Winthrop","Wisconsin","Wofford","Wright St.","Wyoming",
+            "Xavier","Yale","Youngstown St."
+        ];
+        $( "#teams" ).autocomplete({
+            minLength: 2,
+            source: availableTags,
+            select: function(event, ui) {
+                location.href = '/team.php?team=' + ui.item.value.replace("&","%26");
+            }
+
+        });
     });
-  });
-$(function() {
-    var availableTags = ["Joe Scott","Dan Hipsher","Mark Gottfried","Vann Pettaway","Rob Spivery","Will Brown","Davey Whitney",
-"Jeff Jones","Houston Fancher","Lute Olson","Rob Evans","Nolan Richardson","Porter Moser","Harold Blevins","Dickey Nutt",
-"Pat Harris","Cliff Ellis","Dave Loos","Tim Buckley","Dave Bliss","Rick Byrd","Clifford Reed Jr","Al Walker","Duane Reboul",
-"Rod Jensen","Al Skinner","Dennis Wolff","Dan Dakich","Jim Molinari","Glen Miller","Pat Flannery","Reggie Witherspoon","Todd Lickliter",
-"Steve Cleveland","Kevin Bromley","Donny Daniels","Bobby Braswell","Ben Braun","Billy Lee","Mike MacDonald","Kevin Johnson",
-"Howie Dickenman","Jay Smith","Jim Platt","Bobby Lutz","Henry Dickerson","Bo Ellis","Bob Huggins","Larry Shyatt","Rollie Massimino",
-"Pete Strickland","Emmett Davis","John Kresse","Ricardo Patton","Dale Layer","Armond Hill","Jim Calhoun","Ron Mitchell",
-"Steve Donahue","Dana Altman","Dave Faucher","Bob McKillop","Oliver Purnell","David Henderson","Greg Jackson","Terry Carroll",
-"Pat Kennedy","Perry Watson","Kurt Kanaskie","Bruiser Flint","Mike Krzyzewski","Danny Nee","Bill Herrion","Ed DeChellis","Rick Samuels",
-"Travis Ford","Jim Boone","Ray Giacoletti","Mark Simons","Jim Crews","Tim O'Toole","Tom Green","Donnie Marsh","Billy Donovan",
-"Mike Gillespie","Sidney Green","Steve Robinson","Bob Hill","Jerry Tarkanian","Larry Davis","Rick Scruggs","Jim Larranaga","Karl Hobbs",
-"Craig Esherick","Jim Harrick","Jeff Price","Lefty Driesell","Paul Hewitt","Mark Few","Larry Wright","Mike Heideman","Steve Merfeld",
-"Larry Harrison","Frank Sullivan","Riley Wallace","Jerry Steele","Tom Pecora","Ralph Willard","Ray McCallum","Frankie Allen",
-"Leonard Perry","Doug Oliver","Bill Self","Jimmy Collins","Tom Richardson","Mike Davis","Royce Waltman","Jeff Ruland","Steve Alford",
-"Larry Eustachy","Doug Noll","Ron Hunter","Andy Stoglin","Hugh Durham","Mike LaPlante","Sherman Dillard","Roy Williams","Jim Wooldridge",
-"Stan Heath","Tubby Smith","Billy Hahn","Fran O'Hanlon","Mike Deane","Sal Mentesana","Mel Hankinson","Scott Sanderson","Ray Martin",
-"Wayne Morgan","Jessie Evans","Mike Vining","Keith Richard","Rick Pitino","Larry Farmer","Steve Aggers","Scott Hicks","John Brady",
-"John Giannini","Bobby Gonzalez","Dave Magarity","Tom Crean","Greg White","Gary Williams","Thomas Trotter","Steve Lappas","Tic Price",
-"John Calipari","Mark Slonaker","Perry Clark","Charlie Coles","Tommy Amaker","Tom Izzo","Randy Wiel","Bruce Pearl","Dan Monson","Rod Barnes",
-"Rick Stansbury","Lafayette Stribling","Quin Snyder","Dave Calloway","Don Holst","Mick Durham","Kyle Macy","Butch Beard","Derek Thompson",
-"Jim Phelan","Tevester Anderson","Don DeVoe","Barry Collier","Trent Johnson","Phil Rowe","Fran Fraschilla","Lou Henson","Monte Towe",
-"Joe Mihalich","Rickey Broussard","Wil Jones","Matt Doherty","Curtis Hunter","Herb Sendek","Johnny Jones","Ron Everhart","Mike Adras",
-"Rob Judson","Greg McDermott","Bill Carmody","Mike McConathy","Mike Brey","Greg Kampe","Tim O'Shea",
-"Jim O'Brien","Kelvin Sampson","Eddie Sutton","Blaine Taylor","Scott Sutton","Ernie Kent","Ritchie McKay","Bob Thomason",
-"Fran Dunphy","Jerry Dunn","Paul Westphal","Ben Howland","Michael Holton","Joel Sobotka","Elwood Plummer","John Thompson III",
-"Tim Welsh","Gene Keady","Joe DeSantis","Ron Bradley","Jim Baron","Willis Wilson","John Beilein","Don Harnum","Mark Schmidt",
-"Gary Waters","Jerome Jenkins","Dave Bike","Phil Martelli","Lorenzo Romar","Randy Bennett","Bob Leckie","Bob Marlin",
-"Jimmy Tillette","Brad Holland","Steve Fisher","Phillip Matthews","Phil Johnson","Dick Davey","Jack Grant","Louis Orr",
-"Rob Lanier","Mike Dement","John Pelphrey","Dave Odom","Cy Alexander","Seth Greenberg","Gary Garner","Billy Kennedy",
-"Ben Jobe","Bruce Weber","James Green","Bill Evans","Barry Hinson","Dennis Nutt","Jan van Breda Kolff","Ron Ganulin",
-"Bobby Jones","Mike Jarvis","Mike Montgomery","Danny Kaspar","Derek Waugh","Nick Macarchuk","Jim Boeheim","Billy Tubbs",
-"John Chaney","Buzz Peterson","Bret Campbell","Nolan Richardson III","Jeff Lebo","Rick Barnes","Melvin Watkins","Ronnie Arrow",
-"Bob Hoffman","Ronnie Courtney","Bob Knight","Pat Dennis","Stan Joplin","Michael Hunt","Don Maestri","Shawn Finney",
-"John Phillips","Murray Bartow","Pat Douglass","John Masi","Bob Williams","Kirk Speraw","Steve Lavin","Tom Sullivan",
-"Rich Zvosec","Eddie Biedenbach","Eddie Payne","Jerry Wainwright","Charlie Spoonhour","Henry Bibby","Eddie McCarter",
-"Rick Majerus","Stew Morrill","Jason Rabedeaux","Tim Carter","Homer Drew","Kevin Stallings","Mack McCarthy","Tom Brennan",
-"Jay Wright","Pete Gillen","Ricky Stokes","Bart Bellairs","Dereck Whittenburg","Skip Prosser","Bob Bender","Paul Graham",
-"Joe Cravens","Gale Catlett","Steve Shurina","Jim Kerwin","Dennis Felton","Robert McCullum","Mark Turgeon","Rick Boyages",
-"Gregg Marshall","Bo Ryan","Richard Johnson","Ed Schilling","Steve McClain","Thad Matta","James Jones","John Robic","Van Holt",
-"Greg Graham","Jim Les","Tom Herrion","Dave Leitao","Leonard Hamilton","Ray Lopes","Bobby Collins","Jim Christian","Billy Taylor",
-"Randy Dunton","Larry Reynolds","Jim Ferry","Kermit Davis Jr","Lynn Ramage","Brad Brownell","Ricky Blanton","Dwight Freeman",
-"Jay John","Heath Schroyer","Jerry Francis","Byron Samuels","Ed Daniels Jr","Brad Soderberg","Mike Sutton","Neil Dougherty",
-"Billy Gillispie","Mike Anderson","Scott Drew","Jeff Capel","Tod Kowalczyk","Mike Young","Samuel West","Steve Shields",
-"Bob Burton","Robbie Laing","Kevin Jones","Mike Garland","Joe Jones","Brian Gregory","Tom Davis","Murry Bartow","Ernie Nestor",
-"Michael Perry","Bart Lundy","Ted Woodward","Ron Jirsa","Milan Brown","Mick Cronin","Jerry Eaves","Jamie Dixon","Ben Betts",
-"Michael Grant","Matt Painter","Anthony Solomon","Kevin Clark","Dick Bennett","Derek Thomas","Darrin Horn","Steve Hawkins",
-"Tony Shaver","Paul Biancardi","Chris Mooney","Keith Dambrot","Gary Stewart","John Shulman","Terry Dunn","Mike Burns",
-"Sergio Rouco","Tom Penders","Dean Keener","Mike Gillian","Robert Lee","Jim Whitesell","Jimmy Patsos","Matt Brady",
-"Larry Lessett","Randy Monroe","Frank Haith","Larry Krystkowiak","Billy Lange","Fran McCaffery","Mark Fox","Lon Kruger",
-"JP Piper","Craig Rasmuson","Jim Saia","Chris Lowery","Jimmy Tubbs","Norm Roberts","Doc Sadler","Robert Davenport",
-"Dick Hunsaker","Sean Miller","Jeff Bzdelik","Lewis Jackson","Dave Rose","Rob Flaska","Barclay Radebaugh","Andy Kennedy",
-"Mike Miller","Jeff Neubauer","Charles Ramsey","Gil Jackson","Cliff Warren","Tony Ingle","Orlando Early","Rodney Tention",
-"Reggie Theus","Tim Miles","Matt Kilcullen","Ken Bone","Darrell Hawkins","Tommy Dempsey","George Nessman","Horace Broadnax",
-"Scott Nagy","Jim Yarbrough","Tim Floyd","Brian Nash","Steve Pikiell","Dave Dickerson","Doug Wojcik","David Spencer",
-"Mike Lonergan","Duggar Baucom","Larry Hunter","Rob Jeter","Jerry Slocum","Ronny Thompson","Craig Robinson","Tom Parrotta",
-"Ernie Zeigler","Bobby Cremins","Monte Ross","Ed Cooley","Rex Walters","Jeff Jackson","Kevin Nickelberry","Dan Leibovitz",
-"George Pfeifer","Joe O'Brien","Steve Roccaforte","Barry Rohrssen","Dave Simmons","Wayne Tinkle","Brad Huse","Donnie Tyndall",
-"Todd Bozeman","Benny Moss","Buzz Williams","Sidney Lowe","Bill Coen","Tad Boyle","Ben Jacobson","Sean Sutton","Vance Walberg",
-"Eric Reveno","Byron Rimm II","Fred Hill","Jamal Brown","Scott Edgar","John Dunne","Scott Cross","Tony Barbee","Tom Schuberth",
-"Brooks Thompson","Doug Davalos","Ed Conroy","Vonn Webb","Anthony Grant","Tony Bennett","Randy Rahe","James Paul Casciano",
-"Rand Chappell","Jeff Reynolds","Kevin O'Neill","Kevin Broadus","Brad Stevens","Keith Brown","Benjy Taylor","Keno Davis",
-"Kirk Earlywine","Marty Simmons","Eugene Harris","Dave Balza","Bob Nash","Tim Jankovich","Kevin McKenna","Kevin Willard",
-"Dane Fife","Frank Martin","Brett Reed","Kerry Rupp","Donnie Jones","Meredith Smith","Matt Brown","Marvin Menzies",
-"Joe Pasternack","Anthony Evans","Saul Phillips","Gregg Nibert","Sydney Johnson","Tom Moore","Brad Greenberg","Mike Rice",
-"Bill Grier","Kerry Keating","Roger Reid","Robert Moreland","Jim Boylen","Dino Gaudio","Randy Peele","Larry Smith",
-"Russ Pennell","George Ivory","Jesse Agel","Dave Paulsen","Greg Gary","Mark Phelps","Ricky Duckett","Don Verlin",
-"Geno Ford","Max Good","Chuck Martin","Derek Kellogg","Sean Woods","Cuonzo Martin","Jim Engles","John Groce","Tom Asbury",
-"Brian Katz","Zac Roman","Don Friday","Johnny Dawkins","Tony Harvey","Pat Knight","Gene Cross","Ken McDonald","Ron Cottrell",
-"Lennox Forrester","Zach Spiker","Mark Macon","Pat Chambers","Joe Callero","Matt Matheny","Greg Vetrone","Isiah Thomas",
-"Charlton Young","Bobby Washington","Edward Joyner Jr","Scott Cherry","Sean Kearney","Josh Pastner","David Carter",
-"LeVelle Moton","Brian Jones","Matthew Driscoll","Tyler Geving","Cameron Dollar","Dave Boots","Jason James","John Cooper",
-"Ryan Marks","Shaka Smart","Chris Mack","Jason Capel","Leon Rice","Adam Walsh","Corliss Williamson","Alan Major","Tracy Dildy",
-"Kyle Smith","Bill Courtney","Paul Cormier","Chris Holtmann","John Gallagher","Gib Arnold","Mo Cassara","James Dickey",
-"Howard Moore","Greg Lansing","Tim Cluess","Fred Hoiberg","Robert Burke","BJ Hill","Jerome Allen","Andrew Toole","Jason Hooten",
-"Mitch Buonaguro","Glenn Braica","Chuck Driesell","Russell Turner","Dan Hurley","Brian Wardle","Billy Donlon","Willie Hayes",
-"Luther Riley","Gravelle Craig","Matt Langel","Archie Miller","Rob Murphy","Jim Hayford","Clemon Johnson","Andy Enfield",
-"Rodney Terry","Deane Martin","Tony Jasick","Todd Howard","Lewis Preston","Rob Senderoff","Michael White","Steve Masiello",
-"Paul Lusk","King Rice","Steve Prohm","Wes Miller","Derrin Hansen","Dave Rice","Mark Montgomery","Marty Wilson","Mitch Henderson",
-"Mike Jones","Roman Banks","Casey Alexander","Steve Payne","Pat Skerry","Bryce Drew","John Becker","Ray Harper","Dave Pilipovich",
-"Mike Martin","Andy Newman","Kevin Ollie","Jay Spoonhour","Richard Pitino","Joseph Price","Dan Muller","Jack Perri","Aki Thomas",
-"Rick Ray","Chico Potts","Jamion Christian","Mark Slessinger","Tony Benford","Jack Murphy","Dave Bezold","Kevin Baggett",
-"Bennie Seltzer","Larry Brown","Nick Robinson","Rob Krimmel","Travis Williams","Chris Walker","Danny Manning","Jerod Haase",
-"James Johnson","Bashir Mason","Pat Kelsey","Mike Brennan","James Whitford","Bobby Hurley","Brandon Miller","Dedrique Taylor",
-"Kevin McGeehan","Clarence Finley","Will Wade","Greg Herenda","Joe Dooley","Niko Medved","Tim Craft","Mark Byington",
-"Wayne Brent","Jayson Gee","G.G. Smith","Jeff Bower","Kareem Richardson","Nicholas McDevitt","Craig Neal","Chris Casey",
-"Robert Jones","Chris Collins","Ron Verlin","Eddie Jordan","Anthony Latina","Dave Wojcik","Matthew Graves","Murray Garvin",
-"Joey James","Brad Underwood","Corey Williams","Phil Cunningham","Dennis Cutts","Joe Golding","Ken Burmeister","Dan Majerle",
-"Pat Duquette","Jim Fox","Chris Jans","Earl Grant","Keith Walker","Michael Curry","Shawn Walker","Jon Coffman","Jason Gardner",
-"Jimmy Lallathin","Mike Dunlap","Bob Walsh","Mike Maker","Steve Wojciechowski","Dan D'Antoni","Andre Payne","Kim Anderson",
-"Travis DeCuire","Brian Fish","Kevin Keatts","Dave Richman","Mike Rhoades","Scott Padgett","Craig Smith","Orlando Antigua",
-"Jay Ladner","Dana Ford","Billy Wright","Avery Johnson","Montez Robinson","Chris Beard","Michael Huger","Nathan Davis",
-"Nate Oats","Mark Price","Matt McCall","Steve Forbes","Dan McHale","Linc Darner","Eran Ganot","Eric Konkol","Matt McMahon",
-"Eric Musselman","John Brannen","Lamont Smith","Jon Harris","Chris Mullin","Tim Duryea","Mark Pope","Dan Earl","Richie Riley",
-"LaVall Jordan","Jeff Linder","Terry Porter","T.J. Otzelberger","Bacari Alexander","Lew Hill","Martin Inglesby","Byron Smith",
-"Allen Edwards","Jay Joyner","Mike Dunleavy","Donyell Marshall","Paul Weir","Dave McLaughlin","Rob Ehsan","Brian Kennedy",
-"Wes Flanagan","Matt Lottich","Brian Earl","Damon Stoudamire","Grant McCasland","Steve Henson","Maurice Joseph","Rodney Billups",
-"Jimmy Allen","Anthony Stewart","Ryan Odom","Jeff Boals","Kyle Keller","Louis Rowe"];
-                         
-    $( "#coaches" ).autocomplete({
-      minLength: 3,
-      source: availableTags,
-      select: function(event, ui) {
-          location.href = '/history.php?c=' + ui.item.value;
-      }
+        $(function() {
+        var availableTags = ["Champions","Top Offenses","Top Defenses","Joe Scott","Dan Hipsher","Mark Gottfried","Vann Pettaway","Rob Spivery",
+            "Will Brown","Davey Whitney",
+            "Jeff Jones","Houston Fancher","Lute Olson","Rob Evans","Nolan Richardson","Porter Moser","Harold Blevins","Dickey Nutt",
+            "Pat Harris","Cliff Ellis","Dave Loos","Tim Buckley","Dave Bliss","Rick Byrd","Clifford Reed Jr","Al Walker","Duane Reboul",
+            "Rod Jensen","Al Skinner","Dennis Wolff","Dan Dakich","Jim Molinari","Glen Miller","Pat Flannery","Reggie Witherspoon","Todd Lickliter",
+            "Steve Cleveland","Kevin Bromley","Donny Daniels","Bobby Braswell","Ben Braun","Billy Lee","Mike MacDonald","Kevin Johnson",
+            "Howie Dickenman","Jay Smith","Jim Platt","Bobby Lutz","Henry Dickerson","Bo Ellis","Bob Huggins","Larry Shyatt","Rollie Massimino",
+            "Pete Strickland","Emmett Davis","John Kresse","Ricardo Patton","Dale Layer","Armond Hill","Jim Calhoun","Ron Mitchell",
+            "Steve Donahue","Dana Altman","Dave Faucher","Bob McKillop","Oliver Purnell","David Henderson","Greg Jackson","Terry Carroll",
+            "Pat Kennedy","Perry Watson","Kurt Kanaskie","Bruiser Flint","Mike Krzyzewski","Danny Nee","Bill Herrion","Ed DeChellis","Rick Samuels",
+            "Travis Ford","Jim Boone","Ray Giacoletti","Mark Simons","Jim Crews","Tim O'Toole","Tom Green","Donnie Marsh","Billy Donovan",
+            "Mike Gillespie","Sidney Green","Steve Robinson","Bob Hill","Jerry Tarkanian","Larry Davis","Rick Scruggs","Jim Larranaga","Karl Hobbs",
+            "Craig Esherick","Jim Harrick","Jeff Price","Lefty Driesell","Paul Hewitt","Mark Few","Larry Wright","Mike Heideman","Steve Merfeld",
+            "Larry Harrison","Frank Sullivan","Riley Wallace","Jerry Steele","Tom Pecora","Ralph Willard","Ray McCallum","Frankie Allen",
+            "Leonard Perry","Doug Oliver","Bill Self","Jimmy Collins","Tom Richardson","Mike Davis","Royce Waltman","Jeff Ruland","Steve Alford",
+            "Larry Eustachy","Doug Noll","Ron Hunter","Andy Stoglin","Hugh Durham","Mike LaPlante","Sherman Dillard","Roy Williams","Jim Wooldridge",
+            "Stan Heath","Tubby Smith","Billy Hahn","Fran O'Hanlon","Mike Deane","Sal Mentesana","Mel Hankinson","Scott Sanderson","Ray Martin",
+            "Wayne Morgan","Jessie Evans","Mike Vining","Keith Richard","Rick Pitino","Larry Farmer","Steve Aggers","Scott Hicks","John Brady",
+            "John Giannini","Bobby Gonzalez","Dave Magarity","Tom Crean","Greg White","Gary Williams","Thomas Trotter","Steve Lappas","Tic Price",
+            "John Calipari","Mark Slonaker","Perry Clark","Charlie Coles","Tommy Amaker","Tom Izzo","Randy Wiel","Bruce Pearl","Dan Monson","Rod Barnes",
+            "Rick Stansbury","Lafayette Stribling","Quin Snyder","Dave Calloway","Don Holst","Mick Durham","Kyle Macy","Butch Beard","Derek Thompson",
+            "Jim Phelan","Tevester Anderson","Don DeVoe","Barry Collier","Trent Johnson","Phil Rowe","Fran Fraschilla","Lou Henson","Monte Towe",
+            "Joe Mihalich","Rickey Broussard","Wil Jones","Matt Doherty","Curtis Hunter","Herb Sendek","Johnny Jones","Ron Everhart","Mike Adras",
+            "Rob Judson","Greg McDermott","Bill Carmody","Mike McConathy","Mike Brey","Greg Kampe","Tim O'Shea",
+            "Jim O'Brien","Kelvin Sampson","Eddie Sutton","Blaine Taylor","Scott Sutton","Ernie Kent","Ritchie McKay","Bob Thomason",
+            "Fran Dunphy","Jerry Dunn","Paul Westphal","Ben Howland","Michael Holton","Joel Sobotka","Elwood Plummer","John Thompson III",
+            "Tim Welsh","Gene Keady","Joe DeSantis","Ron Bradley","Jim Baron","Willis Wilson","John Beilein","Don Harnum","Mark Schmidt",
+            "Gary Waters","Jerome Jenkins","Dave Bike","Phil Martelli","Lorenzo Romar","Randy Bennett","Bob Leckie","Bob Marlin",
+            "Jimmy Tillette","Brad Holland","Steve Fisher","Phillip Matthews","Phil Johnson","Dick Davey","Jack Grant","Louis Orr",
+            "Rob Lanier","Mike Dement","John Pelphrey","Dave Odom","Cy Alexander","Seth Greenberg","Gary Garner","Billy Kennedy",
+            "Ben Jobe","Bruce Weber","James Green","Bill Evans","Barry Hinson","Dennis Nutt","Jan van Breda Kolff","Ron Ganulin",
+            "Bobby Jones","Mike Jarvis","Mike Montgomery","Danny Kaspar","Derek Waugh","Nick Macarchuk","Jim Boeheim","Billy Tubbs",
+            "John Chaney","Buzz Peterson","Bret Campbell","Nolan Richardson III","Jeff Lebo","Rick Barnes","Melvin Watkins","Ronnie Arrow",
+            "Bob Hoffman","Ronnie Courtney","Bob Knight","Pat Dennis","Stan Joplin","Michael Hunt","Don Maestri","Shawn Finney",
+            "John Phillips","Murray Bartow","Pat Douglass","John Masi","Bob Williams","Kirk Speraw","Steve Lavin","Tom Sullivan",
+            "Rich Zvosec","Eddie Biedenbach","Eddie Payne","Jerry Wainwright","Charlie Spoonhour","Henry Bibby","Eddie McCarter",
+            "Rick Majerus","Stew Morrill","Jason Rabedeaux","Tim Carter","Homer Drew","Kevin Stallings","Mack McCarthy","Tom Brennan",
+            "Jay Wright","Pete Gillen","Ricky Stokes","Bart Bellairs","Dereck Whittenburg","Skip Prosser","Bob Bender","Paul Graham",
+            "Joe Cravens","Gale Catlett","Steve Shurina","Jim Kerwin","Dennis Felton","Robert McCullum","Mark Turgeon","Rick Boyages",
+            "Gregg Marshall","Bo Ryan","Richard Johnson","Ed Schilling","Steve McClain","Thad Matta","James Jones","John Robic","Van Holt",
+            "Greg Graham","Jim Les","Tom Herrion","Dave Leitao","Leonard Hamilton","Ray Lopes","Bobby Collins","Jim Christian","Billy Taylor",
+            "Randy Dunton","Larry Reynolds","Jim Ferry","Kermit Davis Jr","Lynn Ramage","Brad Brownell","Ricky Blanton","Dwight Freeman",
+            "Jay John","Heath Schroyer","Jerry Francis","Byron Samuels","Ed Daniels Jr","Brad Soderberg","Mike Sutton","Neil Dougherty",
+            "Billy Gillispie","Mike Anderson","Scott Drew","Jeff Capel","Tod Kowalczyk","Mike Young","Samuel West","Steve Shields",
+            "Bob Burton","Robbie Laing","Kevin Jones","Mike Garland","Joe Jones","Brian Gregory","Tom Davis","Murry Bartow","Ernie Nestor",
+            "Michael Perry","Bart Lundy","Ted Woodward","Ron Jirsa","Milan Brown","Mick Cronin","Jerry Eaves","Jamie Dixon","Ben Betts",
+            "Michael Grant","Matt Painter","Anthony Solomon","Kevin Clark","Dick Bennett","Derek Thomas","Darrin Horn","Steve Hawkins",
+            "Tony Shaver","Paul Biancardi","Chris Mooney","Keith Dambrot","Gary Stewart","John Shulman","Terry Dunn","Mike Burns",
+            "Sergio Rouco","Tom Penders","Dean Keener","Mike Gillian","Robert Lee","Jim Whitesell","Jimmy Patsos","Matt Brady",
+            "Larry Lessett","Randy Monroe","Frank Haith","Larry Krystkowiak","Billy Lange","Fran McCaffery","Mark Fox","Lon Kruger",
+            "JP Piper","Craig Rasmuson","Jim Saia","Chris Lowery","Jimmy Tubbs","Norm Roberts","Doc Sadler","Robert Davenport",
+            "Dick Hunsaker","Sean Miller","Jeff Bzdelik","Lewis Jackson","Dave Rose","Rob Flaska","Barclay Radebaugh","Andy Kennedy",
+            "Mike Miller","Jeff Neubauer","Charles Ramsey","Gil Jackson","Cliff Warren","Tony Ingle","Orlando Early","Rodney Tention",
+            "Reggie Theus","Tim Miles","Matt Kilcullen","Ken Bone","Darrell Hawkins","Tommy Dempsey","George Nessman","Horace Broadnax",
+            "Scott Nagy","Jim Yarbrough","Tim Floyd","Brian Nash","Steve Pikiell","Dave Dickerson","Doug Wojcik","David Spencer",
+            "Mike Lonergan","Duggar Baucom","Larry Hunter","Rob Jeter","Jerry Slocum","Ronny Thompson","Craig Robinson","Tom Parrotta",
+            "Ernie Zeigler","Bobby Cremins","Monte Ross","Ed Cooley","Rex Walters","Jeff Jackson","Kevin Nickelberry","Dan Leibovitz",
+            "George Pfeifer","Joe O'Brien","Steve Roccaforte","Barry Rohrssen","Dave Simmons","Wayne Tinkle","Brad Huse","Donnie Tyndall",
+            "Todd Bozeman","Benny Moss","Buzz Williams","Sidney Lowe","Bill Coen","Tad Boyle","Ben Jacobson","Sean Sutton","Vance Walberg",
+            "Eric Reveno","Byron Rimm II","Fred Hill","Jamal Brown","Scott Edgar","John Dunne","Scott Cross","Tony Barbee","Tom Schuberth",
+            "Brooks Thompson","Doug Davalos","Ed Conroy","Vonn Webb","Anthony Grant","Tony Bennett","Randy Rahe","James Paul Casciano",
+            "Rand Chappell","Jeff Reynolds","Kevin O'Neill","Kevin Broadus","Brad Stevens","Keith Brown","Benjy Taylor","Keno Davis",
+            "Kirk Earlywine","Marty Simmons","Eugene Harris","Dave Balza","Bob Nash","Tim Jankovich","Kevin McKenna","Kevin Willard",
+            "Dane Fife","Frank Martin","Brett Reed","Kerry Rupp","Donnie Jones","Meredith Smith","Matt Brown","Marvin Menzies",
+            "Joe Pasternack","Anthony Evans","Saul Phillips","Gregg Nibert","Sydney Johnson","Tom Moore","Brad Greenberg","Mike Rice",
+            "Bill Grier","Kerry Keating","Roger Reid","Robert Moreland","Jim Boylen","Dino Gaudio","Randy Peele","Larry Smith",
+            "Russ Pennell","George Ivory","Jesse Agel","Dave Paulsen","Greg Gary","Mark Phelps","Ricky Duckett","Don Verlin",
+            "Geno Ford","Max Good","Chuck Martin","Derek Kellogg","Sean Woods","Cuonzo Martin","Jim Engles","John Groce","Tom Asbury",
+            "Brian Katz","Zac Roman","Don Friday","Johnny Dawkins","Tony Harvey","Pat Knight","Gene Cross","Ken McDonald","Ron Cottrell",
+            "Lennox Forrester","Zach Spiker","Mark Macon","Pat Chambers","Joe Callero","Matt Matheny","Greg Vetrone","Isiah Thomas",
+            "Charlton Young","Bobby Washington","Edward Joyner Jr","Scott Cherry","Sean Kearney","Josh Pastner","David Carter",
+            "LeVelle Moton","Brian Jones","Matthew Driscoll","Tyler Geving","Cameron Dollar","Dave Boots","Jason James","John Cooper",
+            "Ryan Marks","Shaka Smart","Chris Mack","Jason Capel","Leon Rice","Adam Walsh","Corliss Williamson","Alan Major","Tracy Dildy",
+            "Kyle Smith","Bill Courtney","Paul Cormier","Chris Holtmann","John Gallagher","Gib Arnold","Mo Cassara","James Dickey",
+            "Howard Moore","Greg Lansing","Tim Cluess","Fred Hoiberg","Robert Burke","BJ Hill","Jerome Allen","Andrew Toole","Jason Hooten",
+            "Mitch Buonaguro","Glenn Braica","Chuck Driesell","Russell Turner","Dan Hurley","Brian Wardle","Billy Donlon","Willie Hayes",
+            "Luther Riley","Gravelle Craig","Matt Langel","Archie Miller","Rob Murphy","Jim Hayford","Clemon Johnson","Andy Enfield",
+            "Rodney Terry","Deane Martin","Tony Jasick","Todd Howard","Lewis Preston","Rob Senderoff","Michael White","Steve Masiello",
+            "Paul Lusk","King Rice","Steve Prohm","Wes Miller","Derrin Hansen","Dave Rice","Mark Montgomery","Marty Wilson","Mitch Henderson",
+            "Mike Jones","Roman Banks","Casey Alexander","Steve Payne","Pat Skerry","Bryce Drew","John Becker","Ray Harper","Dave Pilipovich",
+            "Mike Martin","Andy Newman","Kevin Ollie","Jay Spoonhour","Richard Pitino","Joseph Price","Dan Muller","Jack Perri","Aki Thomas",
+            "Rick Ray","Chico Potts","Jamion Christian","Mark Slessinger","Tony Benford","Jack Murphy","Dave Bezold","Kevin Baggett",
+            "Bennie Seltzer","Larry Brown","Nick Robinson","Rob Krimmel","Travis Williams","Chris Walker","Danny Manning","Jerod Haase",
+            "James Johnson","Bashir Mason","Pat Kelsey","Mike Brennan","James Whitford","Bobby Hurley","Brandon Miller","Dedrique Taylor",
+            "Kevin McGeehan","Clarence Finley","Will Wade","Greg Herenda","Joe Dooley","Niko Medved","Tim Craft","Mark Byington",
+            "Wayne Brent","Jayson Gee","G.G. Smith","Jeff Bower","Kareem Richardson","Nicholas McDevitt","Craig Neal","Chris Casey",
+            "Robert Jones","Chris Collins","Ron Verlin","Eddie Jordan","Anthony Latina","Dave Wojcik","Matthew Graves","Murray Garvin",
+            "Joey James","Brad Underwood","Corey Williams","Phil Cunningham","Dennis Cutts","Joe Golding","Ken Burmeister","Dan Majerle",
+            "Pat Duquette","Jim Fox","Chris Jans","Earl Grant","Keith Walker","Michael Curry","Shawn Walker","Jon Coffman","Jason Gardner",
+            "Jimmy Lallathin","Mike Dunlap","Bob Walsh","Mike Maker","Steve Wojciechowski","Dan D'Antoni","Andre Payne","Kim Anderson",
+            "Travis DeCuire","Brian Fish","Kevin Keatts","Dave Richman","Mike Rhoades","Scott Padgett","Craig Smith","Orlando Antigua",
+            "Jay Ladner","Dana Ford","Billy Wright","Avery Johnson","Montez Robinson","Chris Beard","Michael Huger","Nathan Davis",
+            "Nate Oats","Mark Price","Matt McCall","Steve Forbes","Dan McHale","Linc Darner","Eran Ganot","Eric Konkol","Matt McMahon",
+            "Eric Musselman","John Brannen","Lamont Smith","Jon Harris","Chris Mullin","Tim Duryea","Mark Pope","Dan Earl","Richie Riley",
+            "LaVall Jordan","Jeff Linder","Terry Porter","T.J. Otzelberger","Bacari Alexander","Lew Hill","Martin Inglesby","Byron Smith",
+            "Allen Edwards","Jay Joyner","Mike Dunleavy","Donyell Marshall","Paul Weir","Dave McLaughlin","Rob Ehsan","Brian Kennedy",
+            "Wes Flanagan","Matt Lottich","Brian Earl","Damon Stoudamire","Grant McCasland","Steve Henson","Maurice Joseph","Rodney Billups",
+            "Jimmy Allen","Anthony Stewart","Ryan Odom","Jeff Boals","Kyle Keller","Louis Rowe","Dylan Howard","Jared Grasso","Rick Croy",
+            "Ron Sanchez","Lance Irvin","Eric Skeeters","Darian DeVries","A.W. Hamilton","Walter McCarty","Jeremy Ballard","Dusty May",
+            "Michael Fly","Justin Hutson","Carson Cunningham","Ashley Howard","Darrell Walker","Griff Aldrich","Tavaras Hardy", "Richard Barron",
+            "Clifford Reed","Penny Hardaway","Dan Engelstad","Austin Claunch","Tony Pujol","David Cox","Shaheen Holloway","Sam Scholl",
+            "Todd Lee", "Penny Collins", "David Patrick", "Mike Morrell","Chris Ogden", "Scott Prosser", "Travis Steele"
+        ];
+
+                $( "#coaches" ).autocomplete({
+            minLength: 3,
+            source: availableTags,
+            select: function(event, ui) {
+                location.href = '/history.php?c=' + ui.item.value;
+            }
+        });
     });
-  });  
-	$(function() {
-	    var availableTags = [
-];
-   $( "#players2" ).autocomplete({
-	 minLength: 4,
-     source: availableTags,
-     select: function(event, ui) {
-         location.href = '/getplayer.php?x=' + ui.item.value;
-     }
-   });
- });  
+        $(function() {
+        var availableTags = [
+                    ];
+        $( "#players2" ).autocomplete({
+            minLength: 4,
+            source: availableTags,
+            select: function(event, ui) {
+                location.href = '/getplayer.php?x=' + ui.item.value;
+            }
+        });
+    });
 
-	// This adds 'placeholder' to the items listed in the jQuery .support object. 
-	jQuery(function() {
-	   jQuery.support.placeholder = false;
-	   test = document.createElement('input');
-	   if('placeholder' in test) jQuery.support.placeholder = true;
-	});
-	/*!
-	 * jQuery Placeholder Plugin v2.1.3
-	 * https://github.com/mathiasbynens/jquery-placeholder
-	 *
-	 * Copyright 2011, 2015 Mathias Bynens
-	 * Released under the MIT license
-	 */
-	(function(factory) {
-	    if (typeof define === 'function' && define.amd) {
-	        // AMD
-	        define(['jquery'], factory);
-	    } else if (typeof module === 'object' && module.exports) {
-	        factory(require('jquery'));
-	    } else {
-	        // Browser globals
-	        factory(jQuery);
-	    }
-	}(function($) {
+    // This adds 'placeholder' to the items listed in the jQuery .support object.
+    jQuery(function() {
+        jQuery.support.placeholder = false;
+        test = document.createElement('input');
+        if('placeholder' in test) jQuery.support.placeholder = true;
+    });
+    /*!
+     * jQuery Placeholder Plugin v2.1.3
+     * https://github.com/mathiasbynens/jquery-placeholder
+     *
+     * Copyright 2011, 2015 Mathias Bynens
+     * Released under the MIT license
+     */
+    (function(factory) {
+        if (typeof define === 'function' && define.amd) {
+            // AMD
+            define(['jquery'], factory);
+        } else if (typeof module === 'object' && module.exports) {
+            factory(require('jquery'));
+        } else {
+            // Browser globals
+            factory(jQuery);
+        }
+    }(function($) {
 
-	    /****
-	     * Allows plugin behavior simulation in modern browsers for easier debugging. 
-	     * When setting to true, use attribute "placeholder-x" rather than the usual "placeholder" in your inputs/textareas 
-	     * i.e. <input type="text" placeholder-x="my placeholder text" />
-	     */
-	    var debugMode = false; 
+        /****
+         * Allows plugin behavior simulation in modern browsers for easier debugging.
+         * When setting to true, use attribute "placeholder-x" rather than the usual "placeholder" in your inputs/textareas
+         * i.e. <input type="text" placeholder-x="my placeholder text" />
+         */
+        var debugMode = false;
 
-	    // Opera Mini v7 doesn't support placeholder although its DOM seems to indicate so
-	    var isOperaMini = Object.prototype.toString.call(window.operamini) === '[object OperaMini]';
-	    var isInputSupported = 'placeholder' in document.createElement('input') && !isOperaMini && !debugMode;
-	    var isTextareaSupported = 'placeholder' in document.createElement('textarea') && !isOperaMini && !debugMode;
-	    var valHooks = $.valHooks;
-	    var propHooks = $.propHooks;
-	    var hooks;
-	    var placeholder;
-	    var settings = {};
+        // Opera Mini v7 doesn't support placeholder although its DOM seems to indicate so
+        var isOperaMini = Object.prototype.toString.call(window.operamini) === '[object OperaMini]';
+        var isInputSupported = 'placeholder' in document.createElement('input') && !isOperaMini && !debugMode;
+        var isTextareaSupported = 'placeholder' in document.createElement('textarea') && !isOperaMini && !debugMode;
+        var valHooks = $.valHooks;
+        var propHooks = $.propHooks;
+        var hooks;
+        var placeholder;
+        var settings = {};
 
-	    if (isInputSupported && isTextareaSupported) {
+        if (isInputSupported && isTextareaSupported) {
 
-	        placeholder = $.fn.placeholder = function() {
-	            return this;
-	        };
+            placeholder = $.fn.placeholder = function() {
+                return this;
+            };
 
-	        placeholder.input = true;
-	        placeholder.textarea = true;
+            placeholder.input = true;
+            placeholder.textarea = true;
 
-	    } else {
+        } else {
 
-	        placeholder = $.fn.placeholder = function(options) {
+            placeholder = $.fn.placeholder = function(options) {
 
-	            var defaults = {customClass: 'placeholder'};
-	            settings = $.extend({}, defaults, options);
+                var defaults = {customClass: 'placeholder'};
+                settings = $.extend({}, defaults, options);
 
-	            return this.filter((isInputSupported ? 'textarea' : ':input') + '[' + (debugMode ? 'placeholder-x' : 'placeholder') + ']')
-	                .not('.'+settings.customClass)
-	                .not(':radio, :checkbox, :hidden')
-	                .bind({
-	                    'focus.placeholder': clearPlaceholder,
-	                    'blur.placeholder': setPlaceholder
-	                })
-	                .data('placeholder-enabled', true)
-	                .trigger('blur.placeholder');
-	        };
+                return this.filter((isInputSupported ? 'textarea' : ':input') + '[' + (debugMode ? 'placeholder-x' : 'placeholder') + ']')
+                    .not('.'+settings.customClass)
+                    .not(':radio, :checkbox, :hidden')
+                    .bind({
+                        'focus.placeholder': clearPlaceholder,
+                        'blur.placeholder': setPlaceholder
+                    })
+                    .data('placeholder-enabled', true)
+                    .trigger('blur.placeholder');
+            };
 
-	        placeholder.input = isInputSupported;
-	        placeholder.textarea = isTextareaSupported;
+            placeholder.input = isInputSupported;
+            placeholder.textarea = isTextareaSupported;
 
-	        hooks = {
-	            'get': function(element) {
+            hooks = {
+                'get': function(element) {
 
-	                var $element = $(element);
-	                var $passwordInput = $element.data('placeholder-password');
+                    var $element = $(element);
+                    var $passwordInput = $element.data('placeholder-password');
 
-	                if ($passwordInput) {
-	                    return $passwordInput[0].value;
-	                }
+                    if ($passwordInput) {
+                        return $passwordInput[0].value;
+                    }
 
-	                return $element.data('placeholder-enabled') && $element.hasClass(settings.customClass) ? '' : element.value;
-	            },
-	            'set': function(element, value) {
+                    return $element.data('placeholder-enabled') && $element.hasClass(settings.customClass) ? '' : element.value;
+                },
+                'set': function(element, value) {
 
-	                var $element = $(element);
-	                var $replacement;
-	                var $passwordInput;
+                    var $element = $(element);
+                    var $replacement;
+                    var $passwordInput;
 
-	                if (value !== '') {
+                    if (value !== '') {
 
-	                    $replacement = $element.data('placeholder-textinput');
-	                    $passwordInput = $element.data('placeholder-password');
+                        $replacement = $element.data('placeholder-textinput');
+                        $passwordInput = $element.data('placeholder-password');
 
-	                    if ($replacement) {
-	                        clearPlaceholder.call($replacement[0], true, value) || (element.value = value);
-	                        $replacement[0].value = value;
+                        if ($replacement) {
+                            clearPlaceholder.call($replacement[0], true, value) || (element.value = value);
+                            $replacement[0].value = value;
 
-	                    } else if ($passwordInput) {
-	                        clearPlaceholder.call(element, true, value) || ($passwordInput[0].value = value);
-	                        element.value = value;
-	                    }
-	                }
+                        } else if ($passwordInput) {
+                            clearPlaceholder.call(element, true, value) || ($passwordInput[0].value = value);
+                            element.value = value;
+                        }
+                    }
 
-	                if (!$element.data('placeholder-enabled')) {
-	                    element.value = value;
-	                    return $element;
-	                }
+                    if (!$element.data('placeholder-enabled')) {
+                        element.value = value;
+                        return $element;
+                    }
 
-	                if (value === '') {
-	                    
-	                    element.value = value;
-	                    
-	                    // Setting the placeholder causes problems if the element continues to have focus.
-	                    if (element != safeActiveElement()) {
-	                        // We can't use `triggerHandler` here because of dummy text/password inputs :(
-	                        setPlaceholder.call(element);
-	                    }
+                    if (value === '') {
 
-	                } else {
-	                    
-	                    if ($element.hasClass(settings.customClass)) {
-	                        clearPlaceholder.call(element);
-	                    }
+                        element.value = value;
 
-	                    element.value = value;
-	                }
-	                // `set` can not return `undefined`; see http://jsapi.info/jquery/1.7.1/val#L2363
-	                return $element;
-	            }
-	        };
+                        // Setting the placeholder causes problems if the element continues to have focus.
+                        if (element != safeActiveElement()) {
+                            // We can't use `triggerHandler` here because of dummy text/password inputs :(
+                            setPlaceholder.call(element);
+                        }
 
-	        if (!isInputSupported) {
-	            valHooks.input = hooks;
-	            propHooks.value = hooks;
-	        }
+                    } else {
 
-	        if (!isTextareaSupported) {
-	            valHooks.textarea = hooks;
-	            propHooks.value = hooks;
-	        }
+                        if ($element.hasClass(settings.customClass)) {
+                            clearPlaceholder.call(element);
+                        }
 
-	        $(function() {
-	            // Look for forms
-	            $(document).delegate('form', 'submit.placeholder', function() {
-	                
-	                // Clear the placeholder values so they don't get submitted
-	                var $inputs = $('.'+settings.customClass, this).each(function() {
-	                    clearPlaceholder.call(this, true, '');
-	                });
+                        element.value = value;
+                    }
+                    // `set` can not return `undefined`; see http://jsapi.info/jquery/1.7.1/val#L2363
+                    return $element;
+                }
+            };
 
-	                setTimeout(function() {
-	                    $inputs.each(setPlaceholder);
-	                }, 10);
-	            });
-	        });
+            if (!isInputSupported) {
+                valHooks.input = hooks;
+                propHooks.value = hooks;
+            }
 
-	        // Clear placeholder values upon page reload
-	        $(window).bind('beforeunload.placeholder', function() {
-	            $('.'+settings.customClass).each(function() {
-	                this.value = '';
-	            });
-	        });
-	    }
+            if (!isTextareaSupported) {
+                valHooks.textarea = hooks;
+                propHooks.value = hooks;
+            }
 
-	    function args(elem) {
-	        // Return an object of element attributes
-	        var newAttrs = {};
-	        var rinlinejQuery = /^jQuery\d+$/;
+            $(function() {
+                // Look for forms
+                $(document).delegate('form', 'submit.placeholder', function() {
 
-	        $.each(elem.attributes, function(i, attr) {
-	            if (attr.specified && !rinlinejQuery.test(attr.name)) {
-	                newAttrs[attr.name] = attr.value;
-	            }
-	        });
+                    // Clear the placeholder values so they don't get submitted
+                    var $inputs = $('.'+settings.customClass, this).each(function() {
+                        clearPlaceholder.call(this, true, '');
+                    });
 
-	        return newAttrs;
-	    }
+                    setTimeout(function() {
+                        $inputs.each(setPlaceholder);
+                    }, 10);
+                });
+            });
 
-	    function clearPlaceholder(event, value) {
-	        
-	        var input = this;
-	        var $input = $(this);
-	        
-	        if (input.value === $input.attr((debugMode ? 'placeholder-x' : 'placeholder')) && $input.hasClass(settings.customClass)) {
-	            
-	            input.value = '';
-	            $input.removeClass(settings.customClass);
+            // Clear placeholder values upon page reload
+            $(window).bind('beforeunload.placeholder', function() {
+                $('.'+settings.customClass).each(function() {
+                    this.value = '';
+                });
+            });
+        }
 
-	            if ($input.data('placeholder-password')) {
+        function args(elem) {
+            // Return an object of element attributes
+            var newAttrs = {};
+            var rinlinejQuery = /^jQuery\d+$/;
 
-	                $input = $input.hide().nextAll('input[type="password"]:first').show().attr('id', $input.removeAttr('id').data('placeholder-id'));
-	                
-	                // If `clearPlaceholder` was called from `$.valHooks.input.set`
-	                if (event === true) {
-	                    $input[0].value = value;
+            $.each(elem.attributes, function(i, attr) {
+                if (attr.specified && !rinlinejQuery.test(attr.name)) {
+                    newAttrs[attr.name] = attr.value;
+                }
+            });
 
-	                    return value;
-	                }
+            return newAttrs;
+        }
 
-	                $input.focus();
+        function clearPlaceholder(event, value) {
 
-	            } else {
-	                input == safeActiveElement() && input.select();
-	            }
-	        }
-	    }
+            var input = this;
+            var $input = $(this);
 
-	    function setPlaceholder(event) {
-	        var $replacement;
-	        var input = this;
-	        var $input = $(this);
-	        var id = input.id;
+            if (input.value === $input.attr((debugMode ? 'placeholder-x' : 'placeholder')) && $input.hasClass(settings.customClass)) {
 
-	        // If the placeholder is activated, triggering blur event (`$input.trigger('blur')`) should do nothing.
-	        if (event && event.type === 'blur' && $input.hasClass(settings.customClass)) {
-	            return;
-	        }
+                input.value = '';
+                $input.removeClass(settings.customClass);
 
-	        if (input.value === '') {
-	            if (input.type === 'password') {
-	                if (!$input.data('placeholder-textinput')) {
-	                    
-	                    try {
-	                        $replacement = $input.clone().prop({ 'type': 'text' });
-	                    } catch(e) {
-	                        $replacement = $('<input>').attr($.extend(args(this), { 'type': 'text' }));
-	                    }
+                if ($input.data('placeholder-password')) {
 
-	                    $replacement
-	                        .removeAttr('name')
-	                        .data({
-	                            'placeholder-enabled': true,
-	                            'placeholder-password': $input,
-	                            'placeholder-id': id
-	                        })
-	                        .bind('focus.placeholder', clearPlaceholder);
+                    $input = $input.hide().nextAll('input[type="password"]:first').show().attr('id', $input.removeAttr('id').data('placeholder-id'));
 
-	                    $input
-	                        .data({
-	                            'placeholder-textinput': $replacement,
-	                            'placeholder-id': id
-	                        })
-	                        .before($replacement);
-	                }
+                    // If `clearPlaceholder` was called from `$.valHooks.input.set`
+                    if (event === true) {
+                        $input[0].value = value;
 
-	                input.value = '';
-	                $input = $input.removeAttr('id').hide().prevAll('input[type="text"]:first').attr('id', $input.data('placeholder-id')).show();
+                        return value;
+                    }
 
-	            } else {
-	                
-	                var $passwordInput = $input.data('placeholder-password');
+                    $input.focus();
 
-	                if ($passwordInput) {
-	                    $passwordInput[0].value = '';
-	                    $input.attr('id', $input.data('placeholder-id')).show().nextAll('input[type="password"]:last').hide().removeAttr('id');
-	                }
-	            }
+                } else {
+                    input == safeActiveElement() && input.select();
+                }
+            }
+        }
 
-	            $input.addClass(settings.customClass);
-	            $input[0].value = $input.attr((debugMode ? 'placeholder-x' : 'placeholder'));
+        function setPlaceholder(event) {
+            var $replacement;
+            var input = this;
+            var $input = $(this);
+            var id = input.id;
 
-	        } else {
-	            $input.removeClass(settings.customClass);
-	        }
-	    }
+            // If the placeholder is activated, triggering blur event (`$input.trigger('blur')`) should do nothing.
+            if (event && event.type === 'blur' && $input.hasClass(settings.customClass)) {
+                return;
+            }
 
-	    function safeActiveElement() {
-	        // Avoid IE9 `document.activeElement` of death
-	        try {
-	            return document.activeElement;
-	        } catch (exception) {}
-	    }
-	}));
-	$('input, textarea').placeholder();
+            if (input.value === '') {
+                if (input.type === 'password') {
+                    if (!$input.data('placeholder-textinput')) {
+
+                        try {
+                            $replacement = $input.clone().prop({ 'type': 'text' });
+                        } catch(e) {
+                            $replacement = $('<input>').attr($.extend(args(this), { 'type': 'text' }));
+                        }
+
+                        $replacement
+                            .removeAttr('name')
+                            .data({
+                                'placeholder-enabled': true,
+                                'placeholder-password': $input,
+                                'placeholder-id': id
+                            })
+                            .bind('focus.placeholder', clearPlaceholder);
+
+                        $input
+                            .data({
+                                'placeholder-textinput': $replacement,
+                                'placeholder-id': id
+                            })
+                            .before($replacement);
+                    }
+
+                    input.value = '';
+                    $input = $input.removeAttr('id').hide().prevAll('input[type="text"]:first').attr('id', $input.data('placeholder-id')).show();
+
+                } else {
+
+                    var $passwordInput = $input.data('placeholder-password');
+
+                    if ($passwordInput) {
+                        $passwordInput[0].value = '';
+                        $input.attr('id', $input.data('placeholder-id')).show().nextAll('input[type="password"]:last').hide().removeAttr('id');
+                    }
+                }
+
+                $input.addClass(settings.customClass);
+                $input[0].value = $input.attr((debugMode ? 'placeholder-x' : 'placeholder'));
+
+            } else {
+                $input.removeClass(settings.customClass);
+            }
+        }
+
+        function safeActiveElement() {
+            // Avoid IE9 `document.activeElement` of death
+            try {
+                return document.activeElement;
+            } catch (exception) {}
+        }
+    }));
+    $('input, textarea').placeholder();
 </script>
 
 <script type="text/javascript">
-$(function() {
-	$( 'th' ).tooltip({    
-		position: {
-        	  my: "center bottom-10",
-        	  at: "center"
-    	},
-    	content: function() {
-        	return $(this).attr('title');
-    	}
-	});
-});
-</script>
+    $(function() {
+        $( 'th' ).tooltip({
+            position: {
+                my: "center bottom-10",
+                at: "center"
+            },
+            content: function() {
+                return $(this).attr('title');
+            }
+        });
+    });
 
-<script type="text/javascript">
+    </html>
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-11558853-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-
-
-
-</div></body></html>
+</script></div></body></html>
