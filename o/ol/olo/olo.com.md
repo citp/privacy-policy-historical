@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olo.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919115056id_/https%3A//www.olo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olo.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112091809id_/https%3A//www.olo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Olo
 
