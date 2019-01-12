@@ -1,47 +1,117 @@
-> *The following text is extracted and transformed from the asspig.com privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312012346id_/http%3A//www.asspig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asspig.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112080710id_/https%3A//www.asspig.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This site is owned and operated by Sharyland Internet Partners, Inc. Your privacy and ours on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe. 
+The following Privacy Policy will apply to the use of all Sharyland Internet Partner, Inc. websites beginning on May 25, 2018, though you are invited to review and accept its terms at any time before such date.
 
-Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
+Sharyland Internet Partners, Inc. ("Sharyland," "we," "us," or "our") respects your privacy and is committed to protecting the Personal Data it collects. The purpose of this Privacy Policy is to inform you of how we protect your privacy when accessing or using a Sharyland website.
 
-**1\. Information Sharyland Internet Partners, Inc. gathers and tracks.** Sharyland Internet Partners, Inc. gathers two types of information about users: 
+This Privacy Policy applies to Sharyland websites that link to, or reference, this Privacy Policy, and describes the ways Sharyland collects and uses your personal information and the choices you have regarding collection, use, maintenance, access of your personal information. By joining a Sharyland website you ("you" or "your") accept and consent to the rights, obligations and practices described in this Privacy Policy.
 
-1.1. Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys. 
+**1\. Who does the Privacy Policy apply to?**  
+This Privacy Policy applies to all members of every Sharyland website.
 
-1.2. Information Sharyland Internet Partners, Inc. gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to members' needs and to help our advertisers and sponsors better understand the demographics of our audience. Sharyland Internet Partners, Inc. does not divulge any information about individual users to a third party. 
+**2\. What Personal Data is collected by Sharyland?**  
+The only personal data required to join a Sharyland website is your email address. We do not share, publish or sell your email address to other members or businesses. You should consider your privacy whenever you post additional material including, text, pictures or video to a Sharyland website. Payment details like credit card transactions and member names are never stored on any Sharyland website.
 
-Sharyland Internet Partners, Inc. gathers user information in the following processes: 
+  
 
-**2\. Optional Voluntary Information.** We offer the following free services, which require some type of voluntary submission of personal information by users: 
 
-2.1. Message boards/forums. Users of the site's Message Boards and Forums must be registered members (both are free of charge) in order to post messages and to visit the site. During registration the user is required to supply a username, password and email address. 
+**3\. How is Personal Data collected by Sharyland?**
 
-2.2. Polling. We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Sharyland Internet Partners, Inc. may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users. 
+Most personal data collected by Sharyland is posted by members to profiles and message boards.   
+Sharyland also logs your IP address, the time and duration of your visit, the time and duration of the pages on Sharyland’s websites that you view (where applicable) and information about your computer system, such as your browser type and operating system, whenever a Sharyland website is accessed or used by you.
 
-2.3. Surveys. Sharyland Internet Partners, Inc. may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. 
+Sharyland also collects anonymous usage information on Visitors to its website through use of Google Analytics. Google Analytics may employ third party tracking cookies to gather anonymous browser, operating system, geographic, and website navigation information. Use of any Sharyland website requires the acceptance of cookies for login session management purposes.
 
-**3\. Children.** Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent. 
+Sharyland will likely place a cookie on your hard drive during the web visit. A cookie is a unique alphanumeric identifier that Sharyland uses to determine the number of unique Visitors that view its website, whether or not those Visitors are repeat Visitors, and the source of the visits. Cookies cannot be executed as code or used to deliver a virus. Other servers cannot read cookies and personal information cannot be gathered from cookies. Cookies are simply an identifier shared between you and Sharyland to allow Sharyland to improve the services offered to you through its websites. If you do not wish cookies to be placed on your computer, then they can be disabled in your web browser. The option to do so is normally found in your browser's "security settings" section. However, please note, permanently disabling cookies in your browser may hinder your access to Sharyland’s websites.
 
-**4\. Usage Tracking.** Sharyland Internet Partners, Inc. tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Sharyland Internet Partners, Inc. does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).  
-Sharyland Internet Partners, Inc. sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. 
+Sharyland does not collect personal information about you as part of a web visit, but web visit information may be tied to other information (including personal information) that Sharyland collects from you through support tickets, and the other means.
 
-**5\. Cookies.** We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Asspig uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.  
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. 
+  
 
-**6\. Use of Information.** Sharyland Internet Partners, Inc. uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.  
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Sharyland Internet Partners, Inc. never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
 
-When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas we do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters.  
-Sharyland Internet Partners, Inc. creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
+**4\. Why Does Sharyland Collect Personal Data?**
 
-**7\. Sharing of the Information.** Sharyland Internet Partners, Inc. uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
+For Members  
+Sharyland uses personal data to connect members with similar interests 
 
-**8\. Security.** Sharyland Internet Partners, Inc. operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. 
+For Financial Information  
+Sharyland members may choose to purchase a membership upgrade via credit card or personal check/money order. Credit card payment information is collected by and processed through our payment processing gateways at CCBill (CCBill.com) and Verotel (Verotel.com). Financial information provided is collected via a secure connection through our payment processing services referenced above. Sharyland does not collect this information and will not authorize the release of the information to anyone not directly involved in processing the transaction. This information may be encrypted and stored for logging purposes by CCBill or Verotel. 
 
-**9\. Opt-Out Policy.** We give users options wherever necessary and practical. Such choices include:   
-\- opting not to register to receive our electronic newsletters;   
-\- opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users. 
+Credit card numbers are used by CCBill or Verotel only for processing payments and are not used for any other purposes. Sharyland entered into written agreements with CCBill and Verotel and will continue to enter into written agreements with third parties that provide credit card processing services. 
 
-**10\. Your Consent.** By using this site, you consent to the collection and use of this information by Sharyland Internet Partners, Inc. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+For Use Information  
+Sharyland uses website use information to measure interest in and develop its websites and marketing plans and tailor the content you view on your web visits based on your activity during past visits 
+
+In addition:  
+Sharyland uses a Visitor's IP address to help diagnose problems with its servers, and to administer its websites. 
+
+Sharyland uses cookies to help it recognize Visitors as unique Visitors when they return to Sharyland’s websites. Sharyland also uses cookies to tailor content to match your preferred interest; compile anonymous, aggregated statistics that allow Sharyland to understand how users use its websites and to help it improve the structure of its websites (Sharyland cannot identify Visitors personally in this way); and count the number of anonymous users of its websites. 
+
+For Support Information  
+Sharyland uses information that you provide to it via email, support tickets and other communications to correspond with you about services you may be interested in purchasing. If you elect to purchase a membership upgrade online using a web form, Sharyland will use the information to establish your account. Information you submit in writing, such as e-mail, and web form information is archived and may be tied to information that Sharyland collects about your membership. 
+
+Special Category Data  
+When a profile is created or edited on a Sharyland website, we ask you to disclose some special category personal data about your sexual orientation and your sex life so that you, and other members, can find people with similar interests. 
+
+You also have the option to disclose your ethnicity and your attitude to safer sex, however these are optional fields. If you choose not to disclose your ethnicity or your attitude to safer sex, your profile will not display them, and you won’t appear in searches where specific attributes of these categories of data are specified. 
+
+The special category data on your profile is visible to every member who views your profile. This data can’t be hidden once you’ve posted it to your profile. You can delete any special category data from your profile at any time.
+
+  
+
+
+**5\. Sharyland’s Disclosure of Personal Data to Regulatory Agencies**  
+From time to time, Sharyland transfers Personal Data to third parties, including without limitation, law enforcement agencies and consumer reporting agencies, under the following normal business procedures: 
+
+Sharyland uses a Visitor's IP address to help diagnose problems with its servers, and to administer its website. 
+
+Sharyland uses cookies to help it recognize Visitors as unique Visitors when they return to Sharyland’s website. Sharyland also uses cookies to tailor content to match your preferred interest; compile anonymous, aggregated statistics that allow Shryland to understand how Members use its sites and to help it improve the structure of its websites (Sharyland cannot identify Visitors personally in this way); and count the number of anonymous users of its websites. 
+
+If you breach the User Agreement or Terms of Service, or if Sharyland is under a duty to disclose or share your personal data in order to comply with any legal obligation, Sharyland may disclose your information to a relevant authority. In particular, Sharyland may release the information it collects to third parties when Sharyland believes that it is appropriate to comply with the law, to enforce its legal rights, to protect the rights and safety of others, or to assist with efforts to control fraud, spam or other undesirable conduct.
+
+**6\. User Choice**  
+Subject to applicable law, you have the choice to and right to limit, restrict or deny Sharyland’s ability to share your Personal Data with third parties or use of your Personal Data for a purpose that is materially different from the purpose for which it was originally collected or authorized by you. In order to exercise your right to choose, please click the Contact Us link at the bottom of the site or via postal mail to Sharyland Internet Partners, Inc., P.O. Box 2752, Addison, TX 75001. Please note, in the absence of any notice to the contrary, you expressly grant Sharyland permission to share your Personal Data at Sharyland’s discretion.
+
+**7\. Security and Integrity of your Personal Data**  
+Sharyland uses reasonable and appropriate measures to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration, and destruction, taking into account the risks involved in the processing and the nature of the personal information. Your personal data can only be accessed by other members of the sites you belong to. You can control what data is posted and visible on your profile. Pictures can be posted as private and shared only with members you expressly grant access to. Sharyland restricts access to members only and blocks the copy / capture of images, text and video from the site. We cannot block members from screen captures of the site and your data. You should consider this in determining what you post to your profile.
+
+  
+
+
+**8\. Access to your Personal Data**  
+You control access to Personal Data maintained or stored by you via Sharyland’s websites for your profile and account management. You may update your information at any time. You may cancel your account at any time. You can delete your own personal data from your profile at any time. You may also request that your personal information be deleted from Sharyland’s databases, with the exception of: network access logs, which may be stored for any duration of time at Sharyland’s discretion, cases where financially fraudulent or otherwise illegal activity is deemed to have occurred (as determined by Sharyland management or law enforcement officials), in which case personal information may be retained indefinitely for purposes of ongoing investigation and prevention of fraud recurrence, or cases where a violation of the Customer Agreement and applicable Terms of Service has resulted in cancellation of your account (as defined by revocation of your permission to utilize Sharyland’s website), in which case personal information may be retained indefinitely for purposes of prevention of further use of Sharyland’s services in the future by the offending individual. Requests to delete your Personal Data will result in your loss of access to Sharyland’s websites and you will be blocked from rejoining with the same data. 
+
+Upon request, Sharyland will grant you reasonable access to Personal Data maintained by Sharyland about you. In addition, we will take reasonable steps to correct, amend or delete information that is demonstrated by you to be inaccurate, incomplete or processed in violation of applicable law. Unless required by law, Sharyland will not permit you to access the Personal Data of any Data Subject other than yourself.
+
+  
+
+
+**9\. International Transfers of Personal Data**
+
+Sharyland is an international organization headquartered in the United States of America (the "US"). By utilizing a Sharyland website, you expressly consent to Sharyland’s access, maintenance, transmission and/or use of your Personal Data outside of your country of residence, regardless of location or jurisdiction. 
+
+In addition to its obligations under US law, Sharyland supplements the protection of the international transfer of your Personal Data by observing industry best practices.
+
+  
+
+
+**10\. Children's Online Privacy Protection**
+
+Sharyland’s websites are strictly adult and not designed for or directed to children under eighteen (18) years of age and Sharyland will not intentionally collect or maintain information about anyone under thirteen (18) years of age.   
+Should we have reason to believe that you are too young to join the site, we shall immediately suspend your account and contact you to request further proof of age. Until you provide proof to satisfy us that you are indeed aged 18 years or over, you will not be able to use the non-public areas of the site. If you do not provide proof of age within the required timeframe, your data will be permanently deleted apart from the minimum required for safeguarding purposes.
+
+**11\. Changes**  
+Sharyland may update this Privacy Policy from time to time, so you should check it periodically.  If we make changes that are material we will provide you with appropriate notice before such changes take effect.
+
+  
+
+
+**12\. Questions & Suggestions**  
+If you have questions, suggestions, or wish to make a complaint, please click the Contact US link at the bottom of the site to submit a ticket, or you can write us at:
+
+Sharyland Internet Partners, Inc.  
+Privacy Policy Issues  
+P.O. Box 2752  
+Addison, TX 75001
