@@ -1,82 +1,102 @@
-> *The following text is extracted and transformed from the boutiquejapan.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725043153id_/https%3A//boutiquejapan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boutiquejapan.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112100225id_/https%3A//boutiquejapan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Boutique Japan
 
-This privacy policy governs the manner in which Boutique Japan Travel Company LLC (“Boutique Japan”) collects, uses, maintains and discloses information collected from users (each, a “User”) of its website [www.boutiquejapan.com](http://www.boutiquejapan.com/) (“Site”). This privacy policy applies to the Site and all products and services offered by Boutique Japan.
+Boutique Japan Travel Company (“Boutique Japan,” “we,” “us”) is a Texas limited liability company that sells travel and tours to clients throughout the world.
 
-**Personal identification information**
+Your privacy is very important to us, and this privacy policy sets out how we use information that you give us when you use this website or our services.
 
-We may collect and use personal identification information that Users provide to us, including, but not limited to, when you register on the site, place an order, subscribe to our newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, and credit card information. You may refuse to supply this information; however, refusal may prevent you from engaging in certain Site-related activities.
+Our website address is: [https://boutiquejapan.com](https://boutiquejapan.com/). You may contact us at:
 
-We may also automatically collect certain information when Users visit our site. This information may include IP addresses.
+Boutique Japan Travel Company LLC  
+142 Rainbow Drive #4240  
+Livingston, TX 77399, USA  
+info [at] boutiquejapan [dot] com
 
-**Non-personal identification information**
+We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website or our services, then you can be assured that it will only be used in accordance with this privacy policy.
 
-We automatically collect non-personal identification information from Users whenever they access our Site. This may include, but is not limited to, your browser type and version, operating system, device, and service provider.
+### Privacy Policy Updates
 
-**Web browser cookies**
+We may change this policy from time to time by updating this page. When we do, we will revise the updated date at the bottom of this page. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Our Site may use “cookies” to enhance User experience. Your web browser places cookies on your hard drive for record-keeping purposes and sometimes to track information. You may choose to set your web browser to refuse cookies, or to alert you when cookies are being sent. If you do so, note that some parts of the Site may not function properly.
+### Information We Collect
 
-**Third-party cookies**
+Information that you provide to us when using our website, completing a form, filling out a questionnaire, placing an order, subscribing to email or mailing lists, participating in surveys, and when contacting us both on and offline:
 
-We use Google Analytics, which is a web analytics tools that helps us understand how visitors use our website. Google Analytics collects our visitors’ IP addresses to give us a sense of where in the world our visitors come from. If you wish not to have send information about your website visit to Google Analytics, download and install the [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout/) for your current web browser. The add-on communicates with the Google Analytics JavaScript (ga.js) to indicate that information about your website visit should not be sent to Google Analytics. The Google Analytics Opt-out Browser Add-on does not prevent information from being sent to our website or to other web analytics services.
-
-**How we respond to “Do Not Track” signals**
-
-We do not track our Users over time and across third party websites to provide targeted advertising and therefore we do not respond to Do Not Track (DNT) signals. Some third party sites do keep track of your browsing activities when you access them in order to tailor what they present to you. If you are visiting such sites, your browser may allow you to set the DNT signal so that third parties know you do not want to be tracked.
-
-**How we use collected information**
-
-Boutique Japan may collect and use Users’ personal information for the following purposes:
-
-  * To improve customer service. Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * To personalize user experience. We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * To improve our Site. We may use feedback you provide to improve our products and services.
-  * To process payments. We use the information you provide when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * To run a promotion, contest, survey or other Site feature. To send Users information they agreed to receive about topics we think will be of interest to them.
-  * To send periodic emails. We may use the email address you provide to send you information and updates pertaining to your order. It may also be used to respond to your inquiries, questions, and/or other requests. If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or you may contact us via our Site.
+  * Name, contact information (such as phone and email), address.
+  * Information relating to your trip, including details regarding family and travel companion(s), such as names, ages and dates of birth, nationality, country of residence, passport information, special service needs (such as any disability or medical or dietary restrictions), emergency contacts, preferences, interests, and more.
+  * We use Google Analytics to measure and collect session information, length of visits to certain pages, and help us understand how visitors use our website. This information may include IP addresses, browser type and version, operating system, device, and service provider, and more. If you wish not to have information about your website visit sent to Google Analytics, you may wish to download and install the [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout/). The Google Analytics Opt-out Browser Add-on does not prevent information from being sent to our website or to other web analytics services.
 
 
 
-**How we protect your information**
+### How We Use Information We Collect
 
-We adopt reasonable data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We use the information we collect to provide you with the best possible service, and in particular for the following reasons:
 
-**Sharing your personal information**
+  * To respond to your inquiries, questions, and other requests.
+  * To communicate with you (such as by phone or email) relating to your trip.
+  * To plan your trip.
+  * To improve our products and services.
+  * If you subscribe to our email or mailing lists, we may send you company news, product or service information, and promotional materials. You can at any time easily unsubscribe from any list to which you have subscribed.
 
-We do not sell, trade, or rent Users’ personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers, including payment gateways and payment processors, to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-In the event of a sale, acquisition or sale of all or a portion of our assets, we may be required to transfer business assets, including information that has been collected from Users. We will notify Users by email if they have provided it to us and/or a notice on our website.
 
-We may disclose your information if required to do so pursuant to judicial or governmental subpoenas, warrants, and orders, or as otherwise required by law. In addition, we retain the right to use, disclose and/or share your personal and non-personal information to investigate, prevent or take action regarding illegal activities, suspected fraud, and situations involving potential threats to the physical safety of any person whether or not there is a subpoena, court order or substantially similar legal procedure.
+### Data Security
 
-**Payment processing**
+Data security is of the utmost importance to us and we are committed to ensuring information we collect from you is secure. In order to prevent unauthorized access or disclosure, we have put in place procedures to safeguard and secure the information we collect online and offline.
 
-We use a third-party online payment gateway provider, Wufoo, to process credit card payments made on the Site. You will be providing credit or debit card information directly to Wufoo and not to us. Information that you supply to Wufoo in making a credit card payment is not within our control and is subject to Wufoo’s own privacy policy and terms and conditions, which are available on the [Wufoo site here](https://www.wufoo.com/payments/).
+### About Cookies
 
-**Third party websites**
+A cookie is a small text file that is stored on your computer or other device when you visit a website. They are very widely used in order to make websites function properly, or more efficiently, as well as provide information to the owners of the site.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. A cookie in no way gives us access to your computer or any personal information about you, other than the data you choose to share with us. If you wish to opt out of Google’s use of cookies, you may wish to visit the [Google Advertising Settings Page](https://adssettings.google.com/authenticated).
 
-**Notice to international users**
+By using our website, you imply consent to the use of cookies. However, if you do not consent to the use of cookies, please ensure that your browser or computer/device is set to reject or prompt before accepting third party cookies. This may prevent you from taking full advantage of the website.
 
-Our Site is hosted in the United States and the data we collect is stored in the United States.  Users accessing our website from the European Union (“EU”) or elsewhere should be aware that they are transferring personal data to the United States, which does not have the same personal data protection laws as the EU and other regions. That being said, we take steps to ensure that Users’ privacy is protected as described in this policy. By using our website, Users consent to have their personal information used and transferred to the United States as set forth in this policy.
+### Who Else May See Your Data
 
-**Changes to this privacy policy**
+In order to respond to your trip request or booking we may need to disclose some of your information to our partners, such as travel suppliers including accommodations, guides, tour operators, transport providers, ground handlers, and airlines.
 
-Boutique Japan has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+We only pass on information that is required in order to fulfill the booking or enhance your experiences.
 
-**Applicable law and choice of forum**
+Please be aware that due to the nature of our business and of the internet, information and data you provide may be transferred outside the country where it is submitted to us. If you are submitting information or data from a country within the European Economic Area (EEA) it is possible that it may be transferred outside the EEA, where data privacy regulations may differ from within the EEA.
+
+### Controlling Your Personal Information
+
+We will not sell, distribute or lease your personal information to third parties.
+
+In the event of a sale or acquisition of all or a portion of our assets, we may be required to transfer business assets, including information that we have collected. We will notify you by email and/or place a notice on our website.
+
+We may disclose your information if required to do so pursuant to judicial or governmental subpoenas, warrants, and orders, or as otherwise required by law. In addition, we retain the right to use, disclose and/or share your information to investigate, prevent or take action regarding illegal activities, suspected fraud, and situations involving potential threats to the physical safety of any person whether or not there is a subpoena, court order or substantially similar legal procedure.
+
+You may choose to restrict the collection or use of your personal information, and/or update and request details of any personal information we hold about you. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+### Third Party Service Providers
+
+We use a third-party online payment gateway provider to process credit card payments. You will be providing credit or debit card information directly to the provider and not to us. Information that you supply to the provider in making a payment is not within our control and is subject to its own terms and policies.
+
+We may also use other third party service providers to help us operate our business and our website, or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+### Third Party Websites
+
+Our website may contain links to the sites and services of partners, suppliers, advertisers, sponsors, licensors, and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by sites linked to or from our website. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy and other policies.
+
+Browsing and interaction on any other website, including websites linked to our website, is subject to that website’s own terms and policies. We cannot be responsible for the protection and privacy of any information which you provide while visiting third party sites, and such sites are not governed by this privacy policy.
+
+### Embedded Content From Other Websites
+
+This site may include embedded content (e.g., videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Applicable Law and Choice of Forum
 
 This privacy policy is governed by the laws of the State of Texas, USA. All matters arising out of these terms shall be resolved exclusively by the state and federal courts located in Austin, Texas. For this purpose, each party consents to personal jurisdiction in such state or federal court and waives any right to dismiss or transfer such action or proceeding because of the inconvenience of the forum. Nothing in this section shall prevent enforcement in another forum of any judgment obtained in a court identified in this paragraph.
 
-**Your acceptance of these terms**
+### Your Acceptance of These Terms
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this website, you accept this privacy policy. By providing your personal data, you consent to the use, processing, storing, transferring and disclosing of your information and data referred to in this policy statement for the purposes set out in this privacy policy statement.
 
-**Contacting us**
+If you do not agree to this policy, please do not use our website. Your continued use of the website following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, [please contact us here](http://boutiquejapan.com/contact-us/).
-
-_This document was last updated on March 18,  2017_
+ _This document was last updated on May 24, 2018_
