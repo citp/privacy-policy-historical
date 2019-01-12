@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securitykiss.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115180956id_/https%3A//www.securitykiss.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securitykiss.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112044335id_/https%3A//www.securitykiss.com/about/privacypolicy) for the most accurate reproduction.*
 
 # SecurityKISS - Free VPN Service
 
