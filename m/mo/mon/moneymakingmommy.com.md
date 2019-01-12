@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005140058id_/https%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112175517id_/https%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
-**Privacy Policy for moneymakingmommy.com**  
+**Privacy Policy for www.moneymakingmommy.com**  
 **What Personal Information Does the Website Collect and How Is This Personal Information Used?**
 
 The Website may receive and store information that you voluntarily submit through the Website for the purpose of subscribing to the Website to receive newsletters or for the purpose of leaving comments on blog posts.
@@ -37,9 +37,9 @@ Except when required by law, the Website will not sell, distribute, or reveal us
 MoneyMakingMommy.com, INC. may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
  **Modification or Deletion of Personal Information**  
-You can decline to submit personal information at any time. If you decline, MoneyMakingMommy.com, INC. may not be able to continue to provide service to you. You may request deletion of your personal information by sending an email to kelly@moneymakingmommy.com​, but in some cases, we may be required to keep your information by law. In such a case, it would no longer be active and would be kept separately in an archive.
+You can decline to submit personal information at any time. If you decline, MoneyMakingMommy.com, INC. may not be able to continue to provide service to you. You may request deletion of your personal information by sending an email to kelly@www.moneymakingmommy.com​, but in some cases, we may be required to keep your information by law. In such a case, it would no longer be active and would be kept separately in an archive.
 
  **CHILDREN'S INFORMATION**  
-The Website does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that the Website has personally-identifiable information of a child under the age of 13 in its database the, please contact us immediately kelly@moneymakingmommy.com​ and MoneyMakingMommy.com, INC. will use its best efforts to promptly remove such information from our records.
+The Website does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that the Website has personally-identifiable information of a child under the age of 13 in its database the, please contact us immediately kelly@www.moneymakingmommy.com​ and MoneyMakingMommy.com, INC. will use its best efforts to promptly remove such information from our records.
 
 ###  _Related_
