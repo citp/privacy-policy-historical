@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marico.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127023427id_/http%3A//marico.com/other/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marico.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112224143id_/https%3A//marico.com/other/privacy-policy) for the most accurate reproduction.*
 
 # Marico – make a difference
 
@@ -8,7 +8,7 @@ We value and respect your Privacy. This Marico Privacy Policy (Privacy Policy) d
 
 **Terms of Use**
 
-Your use of this portal is also subject to the [Terms of Use ](http://marico.com/other/terms-of-use) posted on this web-portal. 
+Your use of this portal is also subject to the [Terms of Use ](https://marico.com/other/terms-of-use) posted on this web-portal. 
 
 **Information Covered by this Privacy Policy**
 
