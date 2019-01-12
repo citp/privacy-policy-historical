@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academicearth.org privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322171959id_/http%3A//academicearth.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicearth.org privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112050435id_/https%3A//academicearth.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Academic Earth
 
@@ -38,7 +38,7 @@ Automatic information is data collected and stored whenever visitors interact wi
 
 This anonymous information is used to help us to improve the website and create a more tailored user experience. “Cookies” are utilized to collect this automatic data, which is utilized for analytics, site optimization, and for advertising and marketing purposes. 
 
-Cookies are small pieces of data sent from a website and stored in the user’s web browser. These are used for technical purposes, such as web analytics. AcademicEarth.org’s web analytics are primarily run using Google Analytics, a tool provided by Google, Inc. These advertising cookies, which are sometimes referred to as third-party cookies because they track navigation and publish ads on behalf of third parties, do not contain personally identifiable information. They do, however, enable advertisers to make ads more relevant to the user’s interests. For more information about Google Analytics, check [Google’s privacy policy](http://www.google.com/intl/en/analytics/privacyoverview.html).
+Cookies are small pieces of data sent from a website and stored in the user’s web browser. These are used for technical purposes, such as web analytics. AcademicEarth.org’s web analytics are primarily run using Google Analytics, a tool provided by Google, Inc. These advertising cookies, which are sometimes referred to as third-party cookies because they track navigation and publish ads on behalf of third parties, do not contain personally identifiable information. They do, however, enable advertisers to make ads more relevant to the user’s interests. For more information about Google Analytics, check [Google’s privacy policy](https://www.google.com/intl/en/analytics/privacyoverview.html).
 
 By using this website, you acknowledge that AcademicEarth.org uses cookies and consent to our use of cookies. 
 
