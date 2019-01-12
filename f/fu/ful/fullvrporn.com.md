@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fullvrporn.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115043859id_/https%3A//www.fullvrporn.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullvrporn.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112174741id_/https%3A//www.fullvrporn.com/pages/privacy) for the most accurate reproduction.*
 
 # Full length 360 VR porn tube Oculus Rift, Vive, GearVR
 
 **Privacy Policy**
 
-                  Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of the Website, including information you provide when using it.
+            Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of the Website, including information you provide when using it.
 
-                  We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
+            We expressly and strictly limit use of the Website to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
 **Data Collected**
 
@@ -24,7 +24,7 @@ _Correspondences._ We may keep a record of any correspondence between you and us
 
 _Cookies._ When you use the Website, we may send cookies to your computer to uniquely identify your browser session. We may use both session cookies and persistent cookies.
 
-_Payment Information_.  If you provide us payment information we will keep this in our system for the purposes of taking payments from you or making payments to you as appropriate.  This information may also be provided to our third party payment processors and affiliates in order to assist with the taking or making of payments.  Credit cards, debit cards or bank account information are not stored by our website, but third party payment processors.
+_Payment Information_.  If you purchase anything from us, you must provide payment information, including credit card, debit cards or bank account information directly to our third-party payment processors and their affiliates.  We do not ourselves keep your payment information in connection with your purchases.  All transactions processed by our third-party payment processors and their affiliates are subject to their respective privacy policies.  We recommend that you review such privacy policies before using and of their services.
 
 **Data Usage**
 
