@@ -1,89 +1,67 @@
-> *The following text is extracted and transformed from the cwsellors.co.uk privacy policy that was archived on 2017-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170719194959id_/https%3A//www.cwsellors.co.uk/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwsellors.co.uk privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112070802id_/https%3A//www.cwsellors.co.uk/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | C W Sellors Fine Jewellery
 
-C W Sellors (Gold & Silversmiths) Limited ( **We** ) are committed to protecting and respecting your privacy.
+### **Privacy Policy**
 
-This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+C W Sellors (Gold & Silversmiths) Ltd is a family owned and operated business established in 1989.  Our Company registered address is King Street, Ashbourne, Derbyshire, DE6 1EA and our registered company number is 2284689.  We specialise in the Manufacture and Wholesale of our own unique range of Jewellery along with being a retailer of our own brand along with pre-eminent world-wide brands of fine jewellery and luxury watches.  We operate through our 14 boutiques in Ashbourne, Bakewell, Buxton, Chesterfield, Ludlow, Leeds, Matlock, York and Whitby.  We own and operate the websites; **cwsellors.co.uk** , whamond.com, jurawatches.co.uk, mylastrolo.com and loveheartsjewellery.com.  We trade under the names **C W Sellors Fine Jewellery** , W Hamond Jewellers, The Original Whitby Jet Shop, Jura Watches, The British Diamond Company, My Last Rolo Jewellery (under licence of Societe des Produits Nestle S.A.) and Love Hearts Jewellery (under licence of Swizzels Matlow Limited.)  We are a Data Controller for the purposes of General Data Protection Regulation GDPR (EU).
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is C W Sellors (Gold & Silversmiths) Limited of King Street, Ashbourne, Derbyshire, DE6 1EA.
+You can contact the Data Controller by writing to our registered Company Address or by emailing us at  **m** **[artynw@cwsellors.com](mailto:MartynW@CWSellors.com)**.
 
-Our nominated representative for the purpose of the Act is Martyn Wright.
+**Data Collection:**
 
-Information we may collect from you
+When you purchase goods or services from one of our boutiques or at one of our Events we collect the following information from you; Title, Name, Address, Telephone Numbers, and email Addresses and store this in encrypted form along with details of the items or services purchased, the dates the items or services were purchased, and the method of payment used in the transaction (i.e. Cash, Cheque, Gift Certificate, Credit Card, Debit Card, Finance, Part Exchange).  We store these details under the GDPR covering, **  “Processing is necessary for compliance with a legal obligation to which we are subject”** **.   **We do not retain credit card or debit card details. 
 
-We may collect and process the following data about you:
+In the case of goods or services purchased in whole or in part by way of Finance (Hitachi or Barclays) where we are the Credit Broker in addition to the above we also obtain, Date of Birth, Employer, Bank Account Details and other financial data as required by the Lender.  We obtain, use and store these details under the GDPR covering,  **“** **Processing is necessary for the performance of a contract to which the data subject is party or to take steps at the request of the data subject prior to entering into a contract”**.
 
-  * Information that you provide by filling in forms on our site www.cwsellors.co.uk. This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us and when you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through our site and of the fulfilment of your orders.
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+In the case of visiting one of our websites we collect the website and the URL that you used to link to our websites, your IP Address, the pages you viewed, the information you requested, your browser version and the date and time of your visit.
 
+We use a third-party provider to host our websites who log this information.
 
+We obtain, use and store these details under the GDPR covering,  **Processing is necessary for the purposes of the legitimate interests pursued by the controller or by the third-party host provider**  to ensure security of our sites and your information as required by GDPR obligations for the technical security of individuals data that we process.
 
-**IP ADDRESSES**
+In the case of contacting us by email, web contact forms, telephone or mail, we collect and retain your email address, and other contact information you provide in the email (i.e. your name, telephone numbers, etc) for the purposes of communicating with you.
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+For the purposes of marketing, and only with your  ** _explicit consent,_**  we obtain, retain and use the above data to invite you to events, inform you of promotions and new product launches and offer exclusive discounts to customers that are subscribed to receive such content.  You can opt out of any or all these communications at any time.
 
-**COOKIES  **
+**Data Retention:**
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy <http://www.cwsellors.co.uk/pages/cookie-policy> 
+We retain Sales data for at least six years in line with our legal obligations under the Value Added Tax Act.  We retain communication data for at least six months after the enquire, complaint and matter that gave rise to the initial contact has been settled.  We retain data for marketing purposes that you have consented to until you ask us to no longer contact you.
 
-**Where We Store Your Personal Data  **
+**Data Sharing:**
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ( **EEA** ). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+Except where you have  **explicitly consented**  (i.e. to assist you in obtaining finance) we do not divulge or share any data about you unless required by the GDPR (i.e. for National Security, to the Police etc.)
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+**Security of your information:**
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+We use technical solutions such as encryption and SSL to protect your data.  We always verify the identity of individuals who request access to information we hold.  We only data to our trusted partners and suppliers that have confirmed they are GDPR compliant and only provide the minimum data they require.  For example, we will only name and contact information to our trusted watch suppliers for purposes of registering a warranty on a watch.
 
-Uses made of the information
+**Transfers of data outside the EEA:**
 
-We use information held about you in the following ways:
+Some of our trusted partners and suppliers reside outside the European Economic Area or store information on servers outside the EEA.  Our email provider maintains data centres globally.  Whilst the main country of storage is England, it is possible that data maybe stored in the USA which is covered by the E.U.-U.S. Privacy Shield and is permitted under the GDPR and is also compliant with storage in Switzerland under their data protection laws which are again compliant with GDPR.  Our mailing list support is handled by MailChimp and their storage resides in the USA and is covered by the E.U.-U.S. Privacy Shield and is permitted under GDPR.  Our payment processing is handled by Shopify which has offices in Canada and Eire.  Their activity is covered under the E.U.-U.S. Privacy Shield or directly under GDPR.  Stripe maintains servers in the USA and is covered by the E.U-U.S. Privacy Shield.  PayPal certify they operate to GDPR standards for operations outside the EEA. 
 
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-  * To carry out our obligations arising from any contracts entered into between you and us.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about changes to our service.
+**Your Rights:**
 
+**Right of Access:**
 
+You have the right to know what data we hold on you or your children under the age of 16 and can obtain this by writing to us by mail as listed above or by emailing  **m** **[artynw@cwsellors.com](mailto:MartynW@cwsellors.com)**.
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
+**Right to Erasure:**
 
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+You have the right to ask us to delete, safely and securely, all or certain data we hold about you.  Your rights are covered in the GDPR on the grounds of fundamental rights and freedoms of data subjects (you).  Where ever possible we will let you know what data we hold what we can and cannot delete and upon your directions safely and securely delete the data we are legally able to delete. ** **
 
-If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this.
+**Rights to Corrections, withdrawing your consent, transferring your data or making a complaint:**
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the order form or registration form).
+You have the right to request corrections to your data. To withdraw your consent to us using your data. To have your data transferred in an automated way to another data controller.  To make a complaint about how we handle, store, protect and use your data to The Information Commissioner’s Office who can provide details of making a complaint at ico.org.uk.  You can write to us at our registered office address or by email.
 
-Disclosure of your information
+We will always attempt to comply with your request regarding your data subject to proper identification and legal requirements as to retention periods.
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+**_Very important_**   **email is not always secure via the internet and if you send us information via this method we cannot be responsible for losses or damages however suffered.   You do so entirely at your own risk.**
 
-We may disclose your personal information to third parties:
+**Sensitive Information:**
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If C W Sellors (Gold & Silversmiths) Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of C W Sellors (Gold & Silversmiths) Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+We do not request and do not store data that would identify your race, origin, religion, sexual orientation etc.  If you send us this information, then we presume that it has been done so with your explicit consent and we will securely destroy it once we become aware of it.
 
+**Young People:**
 
-
-**Your Rights**
-
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at sales@cwsellors.com
-
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-**Access to Information**
-
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-**Changes to our Privacy Policy**
-
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
-
-**Contact**
-
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to sales@cwsellors.com
+It is not our intention to send marketing information to people under the age of 16.  People under the age of 16 can make purchases from our shops and we will record and hold basic information such as name and contact information if provided but we will require specific parental consent for any marketing activities.  Our websites require payments by methods that may permit young people to make a purchase (i.e. by using a debit card).  We do not sell age restricted items but are limited to the honesty and integrity of our clients in verifying their age and the age of their children for marketing purposes and in complying with your rights.
