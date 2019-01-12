@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synthasite.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903205347id_/https%3A//www.yola.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synthasite.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112115810id_/https%3A//www.yola.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yola.com
 
