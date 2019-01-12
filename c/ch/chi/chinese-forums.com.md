@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinese-forums.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109015310id_/https%3A//www.chinese-forums.com/forums/topic/20491-site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinese-forums.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112023432id_/https%3A//www.chinese-forums.com/forums/topic/20491-site-privacy-policy) for the most accurate reproduction.*
 
 # Site privacy policy - Forums Usage and Help - Chinese-forums.com
 
