@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautyhealthcom.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922025902id_/http%3A//www.beautyhealthcom.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyhealthcom.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112160638id_/http%3A//www.beautyhealthcom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Beauty Health
 
 Privacy of our visitors to beautyhealthcom.com (currently known as beautyhealthcom.com) is very important to us. In my blog, we recognize that the privacy of your personal information is important. Here is information about what types of personal information we obtain and collect when you use and visit the blog, and how we relentlessly guard your information.
 
