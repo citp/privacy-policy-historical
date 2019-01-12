@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whodoyou.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009164933id_/https%3A//www.whodoyou.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whodoyou.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112231742id_/https%3A//www.whodoyou.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy: WhoDoYou – Local businesses recommended on social media
 
