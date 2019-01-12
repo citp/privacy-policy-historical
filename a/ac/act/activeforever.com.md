@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the activeforever.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820122546id_/https%3A//www.activeforever.com/t/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeforever.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112030857id_/https%3A//www.activeforever.com/t/privacys) for the most accurate reproduction.*
 
-# ActiveForever.com | Privacy policy
+# ActiveForever.com | ActiveForever Privacy Policy
 
 #### Our Commitment to Privacy
 
