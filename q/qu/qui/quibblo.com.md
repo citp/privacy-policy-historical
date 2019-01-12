@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quibblo.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222053218id_/https%3A//www.quibblo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quibblo.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112041917id_/https%3A//www.quibblo.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
