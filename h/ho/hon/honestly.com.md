@@ -1,106 +1,179 @@
-> *The following text is extracted and transformed from the honestly.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508024207id_/http%3A//www.honestly.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honestly.com privacy policy that was archived on 2019-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190113203001id_/https%3A//www.honestly.com/privacy) for the most accurate reproduction.*
 
-# Honestly.com (formerly Unvarnished) - Community-contributed reviews for business professionals
+# Privacy | Honestly
 
-Unvarnished, Inc.( "Company") knows that you care about how your personal information is used and shared, and we take your privacy extremely seriously. 
+Honestly MT GmbH  
+Hansaring 68-70  
+50670 Köln  
+Telefonnummer: [+49 221 6430 7890 ](tel://+4922164307890)  
+E-Mail-Adresse: [kontakt@honestly.de](mailto:kontakt@honestly.de)  
+Faxnummer: [+49 221 6430 7899](tel://+4922164307899)  
+Vertretungsberechtigte Geschäftsführer: Sven Bläse, Mateo Freudenthal
 
-Central to the goal of open and honest community-surfaced professional reputation is the candor enabled by sharing your opinions about other professionals, without your name being publicly associated with reviews you author. To defend that candor, we are seriously committed to protecting the privacy of our users, and will never share personal information except as governed by this privacy policy or required by law. 
+Registergericht: Amtsgericht Köln Registernummer: HRB 84298 USt-IdNr.: DE284320814
 
-Please read the following to learn more about our privacy policy. By visiting the http://www.honestly.com website and domain name, and any other linked pages, features, content, or application services offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV:  
+Sven Bläse (Anschrift wie oben)
 
-## WHAT DOES THIS PRIVACY POLICY COVER?
+Haftungshinweis:  
+Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
-This Privacy Policy covers Company’s treatment of personally identifiable information ("Personal Information") that Company gathers when you access the Website and when you use Company’s services. This policy does not apply to the practices of companies that Company does not own or control, or to individuals that Company does not employ or manage.
+## Data privacy policy
 
-## WHAT PERSONAL INFORMATION DOES COMPANY COLLECT?
+Honestly offers companies software solutions for customer and employee surveys. We would like to inform you about the handling of your personal data below. We comply with the EU General Data Protection Regulation (GDPR) as well as the German data protection regulations defined in the Teleservices Act (TMG) and the Federal Data Protection Act (BDSG). The safe handling of our customer’s data is a basic building block of our company and is of the highest priority to us.
 
-The information we gather from customers enables us to personalize and improve our services. We collect the following types of information from our customers:
+Information, deletion, blocking  
+You can receive information about the personal data we have stored about you as well as the origin, the recipient, and the purpose of data collection and data processing, at any time and free of charge. In addition, you have the right to request the correction, blocking, or deletion of your data. This does not apply to data that are stored due to legal regulations or required for the proper conduct of business. For data blocking to be realised at any time, data are kept in a lock file for control purposes. For all questions and concerns regarding the correction, blocking, or deletion of personal data, please contact our data protection officer using the contact details stated at the end of this privacy policy or at the address stated in the imprint. You also have the right to withdraw your consent to the processing of your data.
 
-## Personal Information You Provide to Us:
+###  For everyone
 
-We receive and store any information you enter on our Website or provide to us in any other way. The types of Personal Information collected include your full name, email address, IP address, browser information, username, reviews, review votes public profile information, and any other information necessary for us to provide our services. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as answering questions, sending product updates, and communicating with you about Company’s products and services, including specials and new features.
-
-## Personal Information Collected Automatically:
-
-  * We receive and store certain types of information whenever you interact with our Website or use our services. Company automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested.
-  * Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our Website and its components, similar to TV ratings that indicate how many people watched a particular show. Company only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Website or services so that we can make the Website appealing to as many customers as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our Website or services. We share this type of statistical data so that our partners also understand how often people use the Website or services, so that they, too, may provide you with an optimal online experience. Again, Company never discloses aggregate information to a partner in a manner that would identify you personally.
-
-
-
-## E-mail Communications:
-
-We often receive a confirmation when you open an email from Company if your computer supports this type of program. Company uses this confirmation to help us make emails more interesting and helpful. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. When you receive e-mail from Company, you can opt out of receiving further e-mails by following the included instructions to unsubscribe.
-
-## What About Cookies?
-
-  * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors’ experiences, to learn more about their use of the Website and to improve quality.
-  * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website’s most attractive features.
-  * Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Company and does not cover the use of cookies by any advertisers.
+  
 
 
+####  Our website
 
-## WILL COMPANY SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?
+We get in touch with customers and interested parties through our website. We only store access data such as the name of your internet service provider, the website from which you visited us, or the name of the requested file. These data are evaluated solely for the purpose of improving our offer and do not allow any inference to your person.
 
-Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone, nor expose it publicly. We share your Personal Information only as described below.
+Personal data will be collected if you voluntarily provide this to us as part of a registration for our newsletter, a registration for a trial version, or a registration for a demo. Without your explicit consent, we only use the information you have provided to host our software and to contact you. When registering for the newsletter, your e-mail address will be used exclusively for advertising purposes until you unsubscribe from the newsletter. Unsubscribing is possible at any time. You will also find a corresponding link in each newsletter.
 
-_Agents:_ We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Company’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
+Employee engagement test account or customer experience demo  
+When you sign up for a trial account for our Honestly Engage App, your name, e-mail address, as well as the name and size of your business will be stored in our CRM system (Hubspot). These data refer exclusively to the contact person. No data of other employees or customers are requested or collected.
 
-_User Accounts:_ User account information including users’ name, email address, and other information you enter ("User Account Submissions") will never be displayed to other users on the website, in order to guard the privacy of User Submissions. Email addresses are used to communicate through User Submissions. Users’name, email address, will not be directly revealed to other users on the website by Company.
+These data are used exclusively to establish contact and assign orders. In addition, they will be forwarded to Pandadoc to create an offer for you. The data will only be forwarded to carefully selected companies with whom we have a data processing agreement (DPA). It is of great importance to us that our subcontractors also handle your data conscientiously. The data are not resold.
 
-_User Submissions:_ User content information including reviews, votes, public profile and other information you enter ("User Submissions") may be displayed to other users within the Website. Email addresses are used to communicate through User Submissions. 
+For more information about HubSpot's privacy policy, please see:  
+<https://legal.hubspot.com/privacy-policy>  
+Address: 25 First Street, 2nd Floor, Cambridge, MA 02141, United States
 
-_Communication in response to User Submissions:_ As part of the Website and services, you will receive from Company email and other communication relating to your User Submissions. You acknowledge and agree that by posting such User Submissions, Company may send you email and other communication that it determines in its sole discretion relate to your User Submissions. 
+For more information about Pandadoc’s Privacy Policy, please see:  
+<https://www.pandadoc.com/privacy-policy/>  
+Address: 153 Kearny St 94108, San Francisco, United States
 
-_Promotional Offers:_ We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send an email with your request to support@honestly.com.
+By creating a trial account (for customer experience or employee engagement), you consent to Honestly using the data described above for the purposes of providing the service.
 
-_Business Transfers:_ In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Company may continue to use your Personal Information as set forth in this policy.
+##### Use of cookies
 
-_Protection of Company and Others:_ We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+We use cookies on our website. These small text files are stored on the browser of your PC on request. They help us to customize the content and the format of our website to your needs for the future. We do not use cookies to place damaging programs or spyware onto your computer. You can also use our website without the use of cookies, which may limit or affect some presentations and features of our offer. If you wish to deactivate the cookies, you can do this through special settings for your browser. Please use help functions to make the appropriate changes. You can manage online advertisement cookies through the following links: <http://www.aboutads.info/choices> for the USA and [http://www.youronlinechoices.com/uk/your-ad-choices ](http://www.youronlinechoices.com/uk/your-ad-choices) for Europe.  
+Of course, if you have activated the Do-Not-Track function on your browser, we will not store any data. However, with your permission to place cookies, you help us to continuously improve our website and our offer.
 
-_Legally Required Disclosure:_ We may be legally compelled in the future to disclose personally identifiable information about you to satisfy a court order, subpoena, government request, law, regulation or other legal process. We will use reasonable and lawful efforts to limit the scope of any such legally required disclosure, and we will make every attempt to notify you in advance insofar as we are legally permitted to do so.
+##### SSL encryption
 
-_With Your Consent:_ Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+Our website uses SSL encryption when it comes to the transmission of all data and content of our users. This encryption is activated, for example, in the processing of payments and requests that you make to us through our website. Please make sure that the SSL encryption is activated on your side during activities. The use of encryption is easy to recognize: The display in your browser line changes from "http: //" to "https: //". SSL-encrypted data cannot be read by third parties. Only submit your confidential information when SSL encryption is activated and contact us in case of doubt.
 
-## IS PERSONAL INFORMATION ABOUT ME SECURE?
+##### Google Analytics
 
-Your Company account Personal Information is protected for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+We use the web analytics service Google Analytics from Google Inc. on our website, which uses cookies. These text files allow an analysis of your user behaviour regarding our website. The cookies generate information that is transmitted to a Google server. These servers are typically located in the USA, but they are based on usage agreements with the European Economic Area and truncate your IP address before it is sent to the USA. Only in exceptional cases is the IP address truncated after transfer to the USA. Google evaluates the information and provides other services in this context for us as website operators. The IP address is not combined with other Google services. By changing your browser settings, you can prevent the storage of cookies on your computer; however, this may be associated with display and functional restrictions when using our website. A browser plugin also prevents the collection and use of the data generated by the cookies. You can download it underthe following link: [https://tools.google.com/dlpage/gaoptout?hl=de](http://www.youronlinechoices.com/uk/your-ad-choices)  
+Learn more about the privacy policies of Google and Google Analytics here: <http://www.google.com/analytics/terms/de.html>[<](http://www.google.com/analytics/terms/de.html)  
+or <https://www.google.com/intl/en/policies/>.
 
-Company endeavors to protect user information to ensure that user account information is kept private, however, Company cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+##### Google AdWords
 
-The Website contains links to other sites. Company is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website. 
+With Google AdWords, we use an online advertising program provided by Google Inc. on our website. This also includes conversion tracking. With this tool, Google AdWords places a cookie on your PC if you visit our website through a Google ad. The cookie is invalid after 30 days. It has no personal traceability. If you visit our website as a user and the cookie is still working, we, together with Google, become aware that you have clicked on the corresponding advertisement and have been redirected to our website. Each Google AdWords customer is assigned a different cookie. Cookies are thus not traceable via the websites of the advertisers. Data gathered through conversion cookies are used to generate conversion statistics for advertisers. We, as customers, find out the total number of users who engaged with our advertisement and were then diverted to a web page that was tagged with a conversion tracking tag. We do not receive any information in this process that could personally identify you as a user. If you object to the tracking process, you can deactivate the cookie of the Google conversion tracking system on your browser. If you need to, use the help function of the browser for further information. For more information about Google's privacy policy, please visit <http://www.google.com/policies/privacy/>.
 
-## WHAT PERSONAL INFORMATION CAN I ACCESS?
+##### Further service providers
 
-Company allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Website changes.
+In addition, we forward your first name and surname, your e-mail address, and, if applicable, your IP address to the following service providers for statistical purposes in regular intervals:  
+Intercom, Inc.  
+If you voluntarily give your contact information to us through our chat operator Intercom, it will be stored in both Intercom and Hubspot. This serves to contact customers or prospective customers and allows us to respond to customer requests or problems.  
+For more information about the privacy policy of Intercom, Inc., see:  
+<https://www.intercom.com/terms-and-policies#privacy>  
+Address: 55 2nd St, San Francisco, CA 94105, USA
 
-  * Real name
-  * Account and user profile information
-  * User e-mail address
-  * User preferences
+HubSpot, Inc.  
+If you register for an employee engagement test access or customer experience demo through our website, your name, e-mail address, as well as the size and name of your company will be stored in Hubspot. This serves for communication, consultation, and cooperation with customers and prospective customers, and allows us to respond to their needs individually.  
+For more information about the privacy policy of HubSpot, see:  
+<https://legal.hubspot.com/privacy-policy>  
+Address: 25 First Street, 2nd Floor, Cambridge, MA 02141, United States
+
+Pandadoc, Inc.  
+If we send you an offer at your request, your data will automatically be forwarded from HubSpot to Pandadoc, in order to create an offer.  
+For more information about the privacy policy of Pandadoc, see: <https://www.pandadoc.com/privacy-policy/>[<](https://www.pandadoc.com/privacy-policy/)  
+Address: 153 Kearny St 94108, San Francisco, United States
+
+We these services to improve our service and to process your support requests faster and more efficiently. The three companies listed above have joined the "EU-US Privacy Shield", which is reviewed annually by the EU and aims to provide a higher level of data protection for non-EU companies. We have signeda dataprocessing agreement (DPA) with these foreign-based companies. This is based on the highest standard of data protection.
+
+By using the Honestly website, you consent to the transfer and storage of your data to these companies, and the use thereof in the manner described.
+
+####  Our blog
+
+Twitter Plugin  
+Exclusively for our blog, we use functions of the microblogging service Twitter on our website. The operator of Twitter is Twitter Inc. The company is based in the United States, San Francisco, CA 94103, 1355 Market St, Suite 900. The main function of Twitter is the "Tweet function". If you use this function via our website, it will be linked to your Twitter account. Data exchange with other users and the transfer of data to Twitter is possible. We are not aware of the content of the data sent to Twitter, nor are we informed about its utilization. Find out more about this at <http://twitter.com/privacy>. You can find Twitter’s detailed privacy policy there. Furthermore, the platform offers you the opportunity to create your own privacy settings via [http ://twitter.com/account/settings.](http://twitter.com/account/settings).
+
+Facebook Plugin  
+Exclusively for our blog, you will find plugins of the social network Facebook on our website. Its provider is Facebook Inc. It is based in the USA, California 94025, 1 Hacker Way, Menlo Park. The Facebook logo or the "Like-Button" on our site make the Facebook plug-ins recognizable for you. There is an overview of the Facebook plugins at <http://developers.facebook.com/docs/plugins/>.  
+When you visit our website and click on the Facebook icon, we connect directly to the Facebook server via the plugin. You are then redirected there via your browser. Facebook then knows that you have visited our website with your IP address. With a click on the Facebook "Like-Button" you link content of our website to your Facebook profile. Facebook can connect the visit to our page with your user account. We are not aware of the nature of the content that is transmitted to Facebook and how Facebook uses it. For more information about data collection and use, see the Facebook privacy policy at <http://www.facebook.com/policy.php>. You can prevent the connection of your visit on our website with your Facebook profile by simply logging out of your Facebook account.
+
+LinkedIn Plugin  
+Exclusively for our blog, you will find plugins of the social network LinkedIn on our website. Its provider is LinkedIn Inc. It is in 2029 Stierlin Ct. Ste. 200 Mountain View, CA 94043, United States. The LinkedIn logo is clearly recognizable as such. When you share an article on our blog on LinkedIn, you link content from our website to your profile on LinkedIn. LinkedIn can connect the visit to our page with your user account. We are not aware of the nature of the content that is transmitted to LinkedIn and how LinkedIn uses it. For more information about data collection and use, see the LinkedIn privacy policy: <https://www.linkedin.com/legal/privacy-policy>
+
+Disqus Plugin  
+Exclusively for our blog, you will find plugins from Disqus on our website. Its provider is Disqus, Inc., headquarters: 717 Market St., San Francisco, CA 94103, United States. Disqus makes it possible to leave comments on our blogs and positively rate articles. If you comment on or post an article on our blog, Disqus may store information such as your IP address. For more information about data collection and use, see the Disqus privacy policy: [https://help.disqus.com/terms-and-policies/disqus-privacy-policy"](https://help.disqus.com/terms-and-policies/disqus-privacy-policy)
+
+###  For companies, their employees and customers
+
+  
 
 
+#### General Information
 
-## WHAT CHOICES DO I HAVE?
+Feedback terminals and web feedback form  
+Our terminals serve for the easy collection of feedback. Personal data are collected if you provide them in the feedback form. Filling in these data is voluntary. If, for example, you provide a mobile phone number or e-mail address, this will be used by our customers to contact you. This is for the purpose of providing more details about your feedback to better meet your needs. The precise purpose of the data collection is specified in the respective contact form.
 
-  * As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain features of the Website and services.
-  * You are able to add or update certain information on pages, such as those listed in the "What Personal Information Can I Access" section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
-  * You may request deletion of your Company account by sending an e-mail to support@honestly.com. Please note that some information may remain in our records after deletion of your account.
-  * If you do not wish to receive email or other mail from us, please indicate this preference in your User Preferences. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
+If you order an Honestly terminal, your data will be forwarded to the freight company commissioned with the delivery, insofar as this is necessary for the delivery of the goods. To process payments, we pass on your payment data to the bank responsible for the payment.
 
+If you voluntarily enter your contact data into a feedback form, you consent to Honestly forwarding this information to the company to which you have provided feedback.
 
+Manager app  
+No personal data are collected via our Manager app. Only the results of the collected feedback are shown. To log into your Manager app account, you need your e-mail address and the password of your web account.
 
-## CHANGES TO THIS PRIVACY POLICY
+Deletion of personal data  
+Upon complete processing of the contract and full payment of the purchase price, your data will be blocked for further use and deleted after expiry of the tax and commercial retention periods, unless you have deliberately consented to the further use of your data.
 
-Company may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
+Data security  
+After you have logged into our website with your access data, into our app or with a terminal, you can access the collected data. Communication and transmission of data via our server is always encrypted. Particularly all payment data is encrypted between you and us. Please note that access by third parties cannot be excluded to one hundred per cent. For your own safety, we recommend that you log out before leaving the website and close the browser window. Please also ensure that no third parties are aware of your login credentials.
 
-## CHANGES TO THIS PRIVACY POLICY
+#### Employee Engagement
 
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at legal@honestly.com. We will make every effort to resolve your concerns.
+Honestly always enters into a data processing agreement (DPA) with participating companies to ensure that both parties securely handle employee feedback. Feedback from company employees is encrypted and transmitted to our servers and made available to the company. Honestly ensures that companies can no longer link this feedback with individual employees.
 
-Effective Date: January 1, 2010
+Personal data provided to us by participating companies  
+To participate as an active user in Honestly surveys, the company provides a list of employee names and e-mail addresses to Honestly. Optionally, additional metadata such as department, gender, or location are provided. Through this information, the employees are registered into the feedback system as users. The data are only used to send surveys to employees to ensure that each user only participates in each survey once, and to allow analysis of the collected metadata. The collected data are processed internally for analysis purposes. Employee data of our customers are never passed on to third parties by Honestly.
 
-Unvarnished, Inc.
+Engage app  
+With the Honestly Engage app, companies can easily conduct continuous pulse surveys and/or one-time surveys among their employees. This feedback can be evaluated in real-time via the Honestly Manager app and the Honestly web application.
 
-520 S. El Camino Real
+The Engage app can be downloaded from the Google Play Store or the Apple Store. To log into the network of your own company, users must previously have been entered (as described above) into the system. Then, by logging in once, they can easily take part in surveys with their company e-mail via their smartphone. Feedback via mobile phones will not save any other personal data. We do not access any other services on your private device. If you voluntarily enter personal information into a feedback form, you consent to Honestly passing this information on to the company to which you provided feedback.
 
-San Mateo, CA 94402
+The Engage App's anonymized usage data and error logs are sent to Fabric.io (belonging to Google LLC) on a regular basis to continually improve the app and identify and fix potential errors. Employee data or feedback data from the employees are not transferred.
+
+For more information about the privacy policy of Fabric.io, see:  
+<https://docs.fabric.io/apple/fabric/data-privacy.html>  
+Address: Google LLC. Headquarters: 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+By submitting feedback through the engage app, feedback terminal, or through our web feedback form (e-mail link), you consent to Honestly anonymously collecting, storing, and forwarding your feedback to your company.
+
+####  Customer experience
+
+Customer surveys are usually anonymous. Every customer can take part in surveys via the terminal or link. Data is only collected if the customer voluntarily enters them into the feedback form (for example, to contact them).
+
+If you voluntarily enter your contact data into a feedback form, you consent to Honestly forwarding this information to the company to which you have provided feedback.
+
+###  Contact information
+
+Regulating authority
+
+The regulating authority responsible for Honestly is:
+
+State Representative for Data Protection and Freedom of Information North Rhine-Westphalia  
+PO Box 20 04 44  
+40102 Dusseldorf, Germany
+
+Tel.: +49 211 384 240  
+Fax: +49 211 384 241 0  
+E-mail: poststelle@ldi.nrw.de
+
+It informs and monitors compliance with data protection regulations in North Rhine-Westphalia (NRW). Honestly customers have the right to contact this authority directly if they suspect a privacy breach or have questions regarding information access.
+
+Contact person for data protection
+
+For questions about the collection, processing, or use of your personal data, information, correction, blocking, or deletion of data, and revocation of granted consent, please contact our data protection officer, Dominik Fünkner, at the following e-mail address: datenschutzbeauftragter@datenschutzexperte.de.
