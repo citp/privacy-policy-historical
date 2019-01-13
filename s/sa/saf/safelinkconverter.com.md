@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safelinkconverter.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003073220id_/http%3A//safelinkconverter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safelinkconverter.com privacy policy that was archived on 2019-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190113205145id_/https%3A//safelinkconverter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -100,4 +100,4 @@ http://safelinkconverter.com/contact-us/
 364, Sector 18-A, Dwarka, New Delhi -110078  
 New Delhi, Delhi 110078  
 India  
-safelinkconverter@gmail.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
