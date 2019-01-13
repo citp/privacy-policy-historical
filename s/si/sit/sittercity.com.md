@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sittercity.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006132528id_/https%3A//www.sittercity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sittercity.com privacy policy that was archived on 2019-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190113160133id_/https%3A//www.sittercity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sittercity.com
 
@@ -141,5 +141,5 @@ Sittercity reserves the right to retain the information it collects for a certai
 If you have any questions about this Privacy Policy, please contact us at:
 
 By email: [support@sittercity.com](mailto:support@sittercity.com)  
-By phone: 1-888-SIT-CITY   
+By phone: 888.748.2489  
 By mail: 20 West Kinzie Street #1500, Chicago, Illinois 60654. 
