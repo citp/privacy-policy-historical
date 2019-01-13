@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mappingyourfuture.org privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816043059id_/https%3A//mappingyourfuture.org/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mappingyourfuture.org privacy policy that was archived on 2019-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190113111429id_/http%3A//www.mappingyourfuture.org/about/privacy.cfm) for the most accurate reproduction.*
 
 # Mapping Your Future: Site map
 
@@ -95,7 +95,9 @@ Your choice will apply to everyone on your account.
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-Mapping Your Future is an affiliate of MMI.
+  * Mapping Your Future is an affiliate of MMI.
+
+
 
 **Nonaffiliates**
 
@@ -105,7 +107,9 @@ Companies not related by common ownership or control. They can be government age
 
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-Our joint marketing partners may include other nonprofit organizations and trade groups for our service sector.
+  * Our joint marketing partners may include other nonprofit organizations and trade groups for our service sector.
+
+
 
 ### Other important information
 
