@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the garyjwolff.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915094828id_/http%3A//www.garyjwolff.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garyjwolff.com privacy policy that was archived on 2019-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190113235915id_/https%3A//www.garyjwolff.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for garyjwolff.com
 
-[Home](http://www.garyjwolff.com/index.html): Privacy Policy
+[Home](https://www.garyjwolff.com/index.html): Privacy Policy
 
 ## Privacy Policy for  
 www.garyjwolff.com
@@ -57,7 +57,7 @@ If this website is sold, the information obtained from you through your volunta
 ### How You Can Correct or Remove Information
 
   
-This privacy policy is provided as a statement to you of my commitment to protect your personal information. If you have submitted personal information through this website and would like that information deleted from my records or would like to update or correct that information, please use my [Contact Me](http://www.garyjwolff.com/contact-me-form.html) page.
+This privacy policy is provided as a statement to you of my commitment to protect your personal information. If you have submitted personal information through this website and would like that information deleted from my records or would like to update or correct that information, please use my [Contact Me](https://www.garyjwolff.com/contact-me-form.html) page.
 
 ### Google Search Box
 
