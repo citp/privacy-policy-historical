@@ -1,213 +1,136 @@
-> *The following text is extracted and transformed from the luckybitch.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608043243id_/http%3A//www.luckybitch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckybitch.com privacy policy that was archived on 2019-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190113222215id_/https%3A//denisedt.com/privacy-policy) for the most accurate reproduction.*
 
-# Lucky Bitch Privacy Policy | Denise Duffield-Thomas - Money Mindset Mentor for Women | Lucky Bitch
+# Privacy Policy - Denise Duffield-Thomas
 
-### 1\. Our commitment to your privacy
+## Privacy Policy
 
-1.1 Lucky B Pty Limited ABN 62 166 316 534 ( **we/us/our** ) respects **your** privacy. So that you may understand how we deal with your Personal Information, we have set out how and why we collect, hold, use, manage and disclose Personal Information in this Privacy Policy. You may print a copy of this Privacy Policy.
+Lucky B Pty Limited ABN 62 166 316 534  (“Company,” “we,” or “us”) respects your privacy and is committed to protecting it through this Privacy Policy.
 
-1.2 We will update this Privacy Policy from time to time at our discretion. The latest version will be available on this website.
+This Privacy Policy governs your access to and use of luckybitch.com, including any content, functionality and services offered on or through luckybitch.com (the " **Website** "), whether as a guest or a registered user.
 
-1.3 This Privacy Policy binds our trading entities, related and affiliated companies:
+When accessing the Website, the Company will learn certain information about you, both automatically and through voluntary actions you may take, during your visit. This policy applies to information we collect on the Website and in email, text, or other electronic messages between you and the Website.
 
-(a) if they are subject to the Privacy Act as a result of a “link” to Australia (as defined in the _Privacy Act 1988_ );
+Please read the Privacy Policy carefully before you start to use the Website.  **By using the Website or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound and abide by the Privacy Policy.  **If you do not want to agree to the Privacy Policy, you must not access or use the Website.
 
-(b) where we provide Personal Information to them to assist us in our business; or
+**Children Under The Age Of 13**
 
-(c) the _Privacy Act 1988_ otherwise binds them.
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use.
 
-1.4 Our business activities and functions include:
+If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [admin@denisedt.com](mailto:admin@denisedt.com).
 
-(a) Providing motivation for personal improvement;
+**Information We Collect About You**
 
-(b) Selling audio and video products that contain our content; and
+When you access the Website, the Company will learn certain information about you during your visit.
 
-(c) any business activities related to any of these activities.
+_Information You Provide To Us_. The Website provides various places for users to provide information. We collect information that users provide by filling out forms on the Website, communicating with us via contact forms, responding to surveys, search queries on our search feature, providing comments or other feedback, and providing information when ordering a product or service via the Website.
 
-1.5 This Privacy Policy relates to how we collect, hold, use, manage and disclose Personal Information that we and our trading entities, related and affiliated companies collect in our own name. Where we are sell goods to you, our systems are used to hold and process Personal Information, and our merchant service providers (such as PayPal) will also hold and process Personal Information. This information is subject to the privacy policies of our service providers (and not us), and our service providers are responsible for its collection, storage, use, management and disclose.
+We use information you provide to us to deliver the requested product and/or service, to improve our overall performance, and to provide you with offers, promotions, and information.
 
-1.6 Some of the key phrases that are used in the Privacy Policy include “Personal Information” and “Sensitive Information”. Both of these terms are defined in the _Privacy Act 1998_ (Commonwealth).
+_Information We Collect Through Automatic Data Collection Technology_. As you navigate through our Website, we may use automatic data collection technologies including Google Analytics to collect certain information about your equipment, browsing actions, and patterns. This will generally include information about your location, your traffic pattern through our website, and any communications between your computer and our Website.  Among other things, we will collect data about the type of computer you use, your Internet connection, your IP address, your operating system, and your browser type.
 
-1.7 “Personal Information” is defined to mean information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion.
+The information we collect automatically is used for statistical data and will not include personal information. We use this data to improve our Website and our service offerings. To the extent that you voluntarily provide personal information to us, our systems will associate the automatically collected information with your personal information.
 
-1.8 “Sensitive Information” is defined to mean information or an opinion about an individual’s:
+**Use of Cookies And Pixels**
 
-(a) racial or ethnic origin;
+Similar to other commercial websites, our website utilizes a standard technology called “cookies” and server logs to collect information about how our site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our site, and the websites visited just before and just after our own, as well as your IP address.
 
-(b) political opinions;
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-(c) membership of a political association;
+The Company reserves the right to use technological equivalents of cookies, including social media pixels. These pixels allow social media sites to track visitors to outside websites so as to tailor advertising messages users see while visiting that social media website. The Company reserves the right to use these pixels in compliance with the policies of the various social media sites.​
 
-(d) religious beliefs or affiliations;
+**Third Party Use Of Cookies**
 
-(e) philosophical beliefs;
+Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-(f) membership of a professional or trade association;
+We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-(g) membership of a trade union;
+**Email Information**
 
-(h) sexual preferences or practices;
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail, and telephone. This also applies when you register for our website, sign up through any of our forms using your email address or make a purchase on this site. For further information see the email policies below.
 
-(i) criminal record;
+**Email Policies**
 
-(j) health information;
+We are committed to keeping your e-mail address confidential. We do not sell, rent, or lease our subscription lists to third parties, and will not disclose your email address to any third parties except as allowed in the section titled Disclosure of Your Information.
 
-(k) genetic information about an individual that is not otherwise health information.
+We will maintain the information you send via e-mail in accordance with applicable federal law.
 
-### 2\. What Personal Information do we Collect and Hold?
+In compliance with the CAN-SPAM Act, all e-mails sent from our organization will clearly state who the e-mail is from and provide clear information on how to contact the sender. In addition, all e-mail messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further e-mail communication from us.
 
-2.1 We may collect and hold the following types of Personal Information:
+Our emails provide users the opportunity to opt-out of receiving communications from us and our partners by reading the unsubscribe instructions located at the bottom of any e-mail they receive from us at anytime.
 
-(a) name, date of birth and relationship to other individuals (e.g. records of next of kin or contact person for employees);
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by clicking on the unsubscribe link in the e-mail.
 
-(b) address, phone number, fax number, email address, Skype address and other addresses/contact details/identifiers used in electronic communications;
+​ **How And Why We Collect Information**
 
-(c) voicemails that are left on our telephony system;
+The Company collects your information in order to record and support your participation in the activities you select. If you register to download a book or resources, sign up for our newsletter, and/or purchase a product from us, we collect your information. We use this information to track your preferences and to keep you informed about the products and services you have selected to receive and any related products and/or services. As a visitor to this Website, you can engage in most activities without providing any personal information. It is only when you seek to download resources and/or register for services that you are required to provide information.
 
-(d) information submitted through our website;
+If you are outside the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will automatically enroll ​you to receive our free email newsletter. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to [admin@denisedt.com](mailto:admin@denisedt.com) requesting to unsubscribe from future emails.
 
-(e) data referred to under the heading Cookies, Metadata and Site Data Activity in this Privacy Policy;
+If you are in the European Union and opt to receive any free resources, participate in any free training programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will only enroll ​you to receive our free email newsletter if you affirmatively consent to it. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to [admin@denisedt.com](mailto:admin@denisedt.com) requesting to unsubscribe from future emails.
 
-(f) credit card or details of other payment methods used on our website or to purchase our products and services;
+**How Do We Use the Information That You Provide to Us?**
 
-(g) information supplied to us via surveys, competition entry forms, and data collection supplied via websites,;
+We use personal information for purposes of presenting our Website and its contents to you, providing you with information, providing you with offers for products and services, providing you with information about your subscriptions and products, carrying out any contract between you and the Company, administering our business activities, providing customer service, and making available other items and services to our customers and prospective customers.
 
-(h) photographic images of staff, clients and of individuals supplied to us for use in connection with our business activities;
+From time-to-time, we may use the information you provide to us to make you offers to purchase products and services provided by third parties in exchange for a commission to be paid to us by such third parties. Should you opt to take part in such promotions, the third parties will receive your information.
 
-(i) information about enquiries made to us, our suppliers or business associates;
+From time-to-time, we may use the information you provide to us to display advertisements to you that are tailored to your personal characteristics, interests, and activities.
 
-(j) information provided when you raise a support enquiry or when we are working with you to resolve a technical or administrative query;
+**Disclosure Of Your Information**
 
-(k) the content of letters and emails you send to us
+As a general rule, we do not sell, rent, lease or otherwise transfer any information collected whether automatically or through your voluntary action.
 
-2.2 It is not common for us to collect or hold Sensitive Information. The only exceptions to this rule are:
+We may disclose your personal information to our subsidiaries, affiliates, and service providers for the purpose of providing our services to you.
 
-(a) where you voluntarily provide Sensitive Information to us;
+We may disclose your personal information to a third party, including a lawyer or collection agency, when necessary to enforce our terms of service or any other agreement between you and the Company.
 
-(b) where the Sensitive Information is directly linked to the individual’s employment records and our collection, holding and use is permitted by the Privacy Act for the purpose managing the individual’s employment record;
+We may provide your information to any successor in interest in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company’s assets and/or business.
 
-(c) where Sensitive Information is provided to us in connection with the individual seeking employment, contract work, work experience or similar, whether solicited or unsolicited.
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights or when compelled by a court or other governmental entity to do so.
 
-### 3\. How do we Collect and Hold Personal Information?
+**How Do We Protect Your Information and Secure Information Transmissions?**
 
-3.1 We collect Personal Information in a number of ways, including:
+We employ commercially reasonable methods to ensure the security of the information you provide to us and the information we collect automatically. This includes using standard security protocols and working only with reputable third-party vendors.
 
-(a) through our website;
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our website may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information and other sensitive information is never transmitted via email.
 
-(b) through communications with you, including letters, emails, telephone calls, facsimiles, surveys, competitions and via social media applications;
+The Company may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
-(c) through communications with others;
+For site security purposes and to ensure that this service remains available to all users, the Company uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-(d) in the course of providing our products and services to you, including providing support through our support service;
+**Policy Changes**
 
-(e) in the course of our business functions and activities;
+It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users' personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
 
-(f) through communication which we conduct such as email, microsites, surveys, competitions and customer feedback.
+**Visitors’ GDPR Rights**
 
-3.2 We hold Personal Information:
+If you are within the European Union, you are entitled to certain information and have certain rights under the General Data Protection Regulation. Those rights include:
 
-(a) in our hard copy files;
+We will retain the any information you choose to provide to us until the earlier of: (a) you asking us to delete the information, (b) our decision to cease using our existing data providers, or (c) the Company decides that the value in retaining the data is outweighed by the costs of retaining it.
 
-(b) in other systems that we use in connection with our business, some of which may be owned and operated by our suppliers;
+You have the right to request access to your data that the Company stores and the rights to either rectify or erase your personal data.
 
-(c) in the database associated with our website.
+You have the right to seek restrictions on the processing of your data.
 
-3.3 Providing it is lawful and practical, we will give you the option of not identifying yourself, using a pseudonym, or not providing Personal Information when you enter into a transaction or deal with us.
+You have the right to object to the processing of your data and the right to the portability of your data.
 
-3.4 If you elect not to provide us with Personal Information then we may not be able to provide you with the information, products, services or support that you may want.
+To the extent that you provided consent to the Company’s processing of your personal data, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent.
 
-3.5 We may receive other unsolicited Personal Information in the course of our business. We will deal with this unsolicited Personal Information in accordance with the _Privacy Act 1988_.
+You have the right to lodge a complaint with a supervisory authority that has jurisdiction over issues related to the General Data Protection Regulation.
 
-### 4\. The Purposes for which we use Personal Information
+We require only the information that is reasonably required to enter into a contract with you. We will not require you to provide consent for any unnecessary processing as a condition of entering into a contract with us.
 
-4.1 We collect, hold, use and disclose Personal Information for the following purposes:
+**Contact Us**
 
-(a) pursuing our business activities and functions;
+The Company welcomes your questions or comments regarding the Privacy Policy:
 
-(b) allowing the technical support personnel to provide assistance to you if needed;
+Lucky B Pty Ltd.  
+PO Box 3559  
+Merewether, NSW, 2291  
+Australia
 
-(c) facilitating transactions between you (or other people who you are acting for) and us or between you (or other people who you are acting for) and other people and organisations who are accessible via our website or any other electronic means;
+Email Address: [admin@denisedt.com](mailto:admin@denisedt.com)
 
-(d) facilitating payment for the purchase of products or services through our website or otherwise. In this case you will be directed to (or we may use to facilitate the transaction) a third party website (a secure internet payment gateway) approved by the relevant financial institution to enter your credit/debit/charge card or other payment mechanism details. This third party may in turn integrate the payment software with a third party payment application provider who assists in managing the payment transaction;
+Any complaint of breach of privacy may be made via email to [admin@denisedt.com](mailto:admin@denisedt.com). We will use our best efforts to respond to any complaint within 10 business days of the date of receipt. We will attempt to resolve your complaint to your satisfaction. If you are not satisfied with how we deal with your complaint you may contact the Australian Information Commissioner, whose contact details can be found at <http://www.oaic.gov.au/>.
 
-(e) performing any of the features on our website, e.g. contact us or any other data collection form, conducting surveys, competition forms, mail outs, using social media;
-
-(f) statistical analysis of the usage of our website or applications or tools that are accessed via the website;
-
-(g) improving the quality or user experience of our website and our products and services;
-
-(h) direct marketing;
-
-(i) developing or adding additional products and services from us or existing or new people and organisations that are accessible via our website;
-
-(j) training and quality assurance purposes;
-
-(k) administrative purposes;
-
-(l) allowing the technical support personnel to manage our infrastructure, systems, databases other applications or tools;
-
-(m) complying with the law, including privacy legislation.
-
-4.2 We do not provide Personal Information to third parties except as in accordance with this Privacy Policy, any agreement we have with you or as required by law.
-
-4.3 If you have given us your consent to provide you with direct marketing communications we may collect, hold, use and disclose Personal Information in accordance with that consent to enable us to provide you (or other people who you are acting for) information about, and offer you (or other people who you are acting for), products and services.
-
-4.4 If you give us consent to provide you with direct marketing communications we will provide a simple means where you can request not to receive direct marketing communications. You may also request that we do not provide your Personal Information to any of our suppliers or business associates in order for them to provide you with direct marketing communications. If we use a third party source to obtain Personal Information about you for the purpose of direct marketing to you, you may request that we disclose the source of that information. We will respond to any request made under this clause within a reasonable period and at no cost to you.
-
-4.5 You consent to us using any Personal Information that we collect for any one of the purposes in this Privacy Policy for any of the other purposes stated in this Privacy Policy, other than for direct marketing.
-
-4.6 If we sell some or all of our business or its assets then we will transfer any Personal Information to the acquirer as part of that transaction.
-
-### 5\. Disclosure of the Personal Information Overseas
-
-5.1 We may send Personal Information overseas in the following circumstances:
-
-(a) where one of our trading entities, or related and affiliated contractors assists us with our business activities and functions;
-
-(1) where we have a supplier assisting us with providing assistance with our business activities and functions. We have no control over where these suppliers hold or process their data and it is impractical for us to be able to advise you of the countries where the Personal Information may be held or processed.
-
-(2) where our website, or any hosting service we use to support our managed services, software or software as a service, is hosted by us or a third party, and the hosting facilities and/or the back-up/disaster recovery sites are located overseas. We have no control over where these third party providers host the website and it is impractical for us to be able to advise you of the countries where the Personal Information may be held or processed.
-
-(3) where a third party application is being used in connection with our interactions with you, e.g. when we use email or Skype the third party providers of the relevant application have their applications hosted overseas. We have no control over where these third party providers host their applications and it is impractical for us to be able to advise you of the countries where the Personal Information may be held or processed.
-
-5.2 The countries to which we know the Personal Information may be sent include
-
-(a) countries where our website and supporting databases are hosted.
-
-### 6\. Use of Social Media
-
-6.1 Our website uses social media including blogs, Twitter feeds, and links to other social media, including Facebook, LinkedIn, Twitter, Pinterest and similar sites. The nature of social media is that these applications actively enable exchange and disclosure of any information, whether personal or otherwise, that is included within those applications. All information, including Personal Information that you enter in those applications may be used, stored, handled and disclosed in any way that is consistent with the privacy policies of the relevant applications, if any. All information that is posted in a blog, twitter feed or other social media in connection with the website should be considered as public information that may be used, copied and adapted by any person for any means and should not be posted unless you are prepared to specifically state what restrictions on use there may be with that information or are prepared to accept that it may be used, copied, adapted, stored, handled and disclosed to any other person in any way.
-
-### 7\. Cookies, Metadata and Site Data Activity
-
-7.1 A cookie is a small piece of computer code which remains on your computer and contains information which helps us identify your browser.
-
-7.2 When you visit our website and applications and tools on it, a cookie may record the authentication to allow your user id to login. We use the information gathered by cookies to identify your web browser so that when you log in on the next occasion your use of the website and other applications and tools on it is easier and faster because the website has remembered your details.
-
-7.3 We also use Google Analytics (from Google Inc) to analyse the use of our website, and Google Analytics places cookies on your computer in order to perform its functions.
-
-7.4 If you do not want us to use cookies then you can easily stop them, or be notified when they are being used, by adopting the appropriate settings on your browser. If you do not allow cookies to be used some or all of the website or other applications or tools on it might not be accessible to you. You may also delete cookies that have been stored onto your computer using the functions in your browser.
-
-7.5 Sometimes information that you upload is provided with associated metadata. If you do not want us to use the metadata you must remove it before uploading it onto the website and other applications and tools.
-
-7.6 We may collect data that is associated with your visit, including the pages your visit, the activities you do, the preferences you make, the applications and tools you use and the purchases you make and the competitions you enter etc. We may also collect information relating to the computer, mobile phone or other device including the device type, the browser, location, IP address and search words used. We may collect, use, disclose and store this information in any of the ways set out in this Privacy Policy.
-
-### 8\. Links to other websites and applications
-
-8.1 Our website includes links to other websites, applications and tools that are not owned or operated by us. We not responsible for the content of those websites, applications or tools, nor for any products, services or information contained in them or offered through them. You should review the privacy policies and terms and conditions of use of those websites, applications and tools when you visit them. We do not endorse, sponsor, condone or represent the companies or content that is contained in any linked website, and reserve the right to terminate any link or linking program at any time.
-
-### 9\. How to access and seek correction of your personal information or complain
-
-9.1 If you want to find out what Personal Information we hold on you or you believe any of your Personal Information that is held by us is inaccurate, out of date, incomplete, irrelevant or misleading or it is not necessary for us to continue to hold it, you can contact us, and we will either provide you with access to the Personal Information (in so far as we are required to do so by law,) or we will correct it, as applicable, within a reasonable period. We may make a reasonable charge for giving you access to your Personal Information, but we will not charge for you making the request, correcting Personal Information or making a statement as to why we are not correcting your Personal Information. you can contact us by:
-
-(a) email at the following email address: denise@luckybitch.com;
-
-(b) using the contact us webform on our website.
-
-9.2 If you wish to complain about a breach of any Australian Privacy Principle that binds us, a registered privacy code that binds us or this Privacy Policy you should contact us by:
-
-(a) email at the following email address denise@luckybitch.com; or
-
-(b) using the contact us webform on our website at http://www.luckybitch.com/contact.
-
-9.3 Any complaint of breach of privacy may be made to: The Privacy Officer, Amber Kinney or via email denise@luckybitch.com. We will use our best efforts to respond to any complaint within 10 business days of the date of receipt. we will attempt to resolve your complaint to your satisfaction. If you are not satisfied with how we deal with your complaint you may contact the Australian Information Commissioner, whose contact details can be found at <http://www.oaic.gov.au/>.
+Effective as of 21-May-2018
