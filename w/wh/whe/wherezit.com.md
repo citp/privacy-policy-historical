@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wherezit.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125030226id_/http%3A//www.wherezit.com/faq/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wherezit.com privacy policy that was archived on 2019-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190113050055id_/http%3A//www.wherezit.com/faq/privacypolicy.php) for the most accurate reproduction.*
 
 # Wherezit.com - Privacy Policy
 
