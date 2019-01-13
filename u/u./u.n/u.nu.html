@@ -1,0 +1,205 @@
+<!--The following is the downloaded HTML source of the u.nu privacy policy that was archived on 2019-01-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190113225916id_/https%3A//u.nu/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+		<title>U.NU - URL shortener</title> <!-- Site title defined in theme settings -->
+		<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+*{box-sizing:border-box}html{font-size:62.5%}body{background:#F3F3F3;color:#393939;font-size:1.6rem;-webkit-font-smoothing:antialiased;overflow-x:hidden}body,input{font-family:'Open Sans', 'Trebuchet MS', Helvetica, sans-serif;margin:0}a,a:visited{color:#393939;border-bottom:1px solid #393939;transition:color 0.3s, border-color 0.3s;text-decoration:none}a:hover{color:#1E1E1E;border-color:#1E1E1E}::-moz-selection{background:#B41D1F;color:white}::selection{background:#B41D1F;color:white}.container{width:95%;margin:0 auto;max-width:1000px}.content{background:white;padding:15px;margin-top:15px;border:1px solid #D8D8D8;box-shadow:0 0 3px 0 #CCC}.hidden{display:none}@media screen and (min-width: 720px){.container{width:90%}}@media screen and (min-width: 1024px){.container{width:80%}}.site-header{margin:0 auto;padding:0;background:#1F1F1F}.site-header .container{display:-ms-flexbox;display:flex;-ms-flex-pack:justify;justify-content:space-between;-ms-flex-align:center;align-items:center;padding:20px 0}.site-header .site-logo{border:none}.site-header .site-logo .logo-image{max-height:80px}.site-header .menu{width:calc( 50% - 50px )}.site-header .menu a{color:white;text-transform:uppercase;font-weight:bold;border-bottom:none}.site-header .menu-right{text-align:right}.site-header .menu-left a{margin-right:30px}.site-header .menu-left a:last-child{margin-right:0}.site-header .menu-right a{margin-left:30px}.site-header .menu-right a:first-child{margin-left:0}main,section{display:-ms-flexbox;display:flex}main .container,section .container{padding:50px 0}main:not(.page){background-image:linear-gradient(-180deg, #D64237 0%, #C31D01 100%);padding:5px 0;color:white}main:not(.page) a,main:not(.page) a:visited{color:white;border-color:white}main:not(.page) a:hover,main:not(.page) a:visited:hover{color:#dadada;border-color:#dadada}.form-item{padding:15px 0}.form-item p{margin:0}.full-width{width:100%}.half-width{width:49%}.halves{display:-ms-flexbox;display:flex;display:-moz-flex;-ms-flex-pack:justify;justify-content:space-between;-webkit-justify-content:space-between;-moz-justify-content:space-between;-ms-flex-align:end;align-items:flex-end;-webkit-align-items:flex-end;-moz-align-items:flex-end}label{display:inline-block;padding-bottom:5px;font-size:1.8rem}input:not([type=submit]):not([type=file]){width:100%;padding:13px;font-size:2rem;transition:background 0.3s;-webkit-appearance:none;border-radius:8px;background:#B41D1F;border:none;color:white}input:not([type=submit]):not([type=file])::-webkit-input-placeholder{color:white;opacity:0.6;transition:opacity 0.3s}input:not([type=submit]):not([type=file])::-moz-placeholder{color:white;opacity:0.6;transition:opacity 0.3s}input:not([type=submit]):not([type=file]):-ms-input-placeholder{color:white;opacity:0.6;transition:opacity 0.3s}input:not([type=submit]):not([type=file])::placeholder{color:white;opacity:0.6;transition:opacity 0.3s}.form-item.full-width input:not([type=submit]):not([type=file])::-webkit-input-placeholder{opacity:0.75}.form-item.full-width input:not([type=submit]):not([type=file])::-moz-placeholder{opacity:0.75}.form-item.full-width input:not([type=submit]):not([type=file]):-ms-input-placeholder{opacity:0.75}.form-item.full-width input:not([type=submit]):not([type=file])::placeholder{opacity:0.75}input:not([type=submit]):not([type=file])::-moz-selection{background:white;color:#D22417}input:not([type=submit]):not([type=file])::selection{background:white;color:#D22417}.g-recaptcha{margin:5px}input:not([type=submit]):not([type=file]):focus{outline:none;background:#A50F11}.form-item.full-width input:not([type=submit]):not([type=file]):focus::-webkit-input-placeholder,input:not([type=submit]):not([type=file]):focus::-webkit-input-placeholder{opacity:1}.form-item.full-width input:not([type=submit]):not([type=file]):focus::-moz-placeholder,input:not([type=submit]):not([type=file]):focus::-moz-placeholder{opacity:1}.form-item.full-width input:not([type=submit]):not([type=file]):focus:-ms-input-placeholder,input:not([type=submit]):not([type=file]):focus:-ms-input-placeholder{opacity:1}.form-item.full-width input:not([type=submit]):not([type=file]):focus::placeholder,input:not([type=submit]):not([type=file]):focus::placeholder{opacity:1}input[type=submit],.button{font-size:1.8rem;padding:10px;border-radius:0;outline:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;background:#B41D1F;border:1px solid rgba(244,244,244,0.70);border-radius:7px;color:white;transition:background 0.3s, opacity 0.3s;opacity:0.85;font-weight:bold}input[type=submit]:hover,.button:hover{background:#A50F11;opacity:1}.submit-container{text-align:right}.error{text-align:center}.error p.message{margin-bottom:30px}.error p .key{font-weight:bold}.input-with-copy{position:relative}.input-with-copy input:not([type=submit]):not([type=file]){width:100%}.input-with-copy .copy-button{position:absolute;height:100%;right:5px;top:0;border-left:0;-webkit-appearance:none;background:none;border:none}.input-with-copy .copy-button svg{opacity:0.8;transition:opacity 0.3s}.input-with-copy .copy-button:hover svg{opacity:1}.copy-message{position:absolute;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-pack:center;justify-content:center;top:0;left:0;height:100%;width:100%;text-align:center;background:#B41D1F;transition:opacity 0.3s, visibility 0.3s;color:white;opacity:0;visibility:hidden;-webkit-transform:translate3d(0, 0, 0);border-radius:8px}.copy-message.visible{opacity:1;visibility:visible}.copy-message .os{display:none}.copy-message.error.macos .macos{display:block}.copy-message.error.pc .pc{display:block}.copy-message.error.mobile .mobile{display:block}.copy-message.error.other .other{display:block}.extra{display:-ms-flexbox;display:flex;-ms-flex-pack:justify;justify-content:space-between}.extra .social-sharing{width:50%}.extra .qr{width:50%}.social-sharing p{font-size:1.8rem}.social-button{display:inline-block;font-size:0;margin-right:5px}.social-button svg{width:40px;height:40px;padding:6px;fill:white;opacity:0.8;transition:opacity 0.3s}.social-button:hover svg{opacity:1}.qr{text-align:center}.qr p{text-align:left}svg#url-qr-code{display:inline-block;width:300px;height:300px}svg#url-qr-code path{fill:white !important;opacity:0.8}main.page + section.bookmarklet{display:none}.bookmark{text-align:center}.bookmark a{display:inline-block;border:1px solid #B41D1F;border-radius:8px;padding:10px;color:#B41D1F;transition:color 0.3s, border-color 0.3s}.bookmark a svg{fill:#B41D1F;vertical-align:-3px;height:1.8rem;width:1.8rem;margin-right:10px;transition:fill 0.3s}.bookmark a:hover{color:#A50F11}.bookmark a:hover svg{fill:#A50F11}.site-footer{text-align:center;font-size:1.6rem;color:#979797}.site-footer .container{display:-ms-flexbox;display:flex;-ms-flex-pack:justify;justify-content:space-between}.site-footer a{color:#979797;border-color:#979797}.site-footer a:hover{color:#3e3e3e;border-color:#3e3e3e}.site-footer .menu-footer{margin:1em 0}.site-footer .menu-footer a{margin-right:30px}@media screen and (max-width: 640px){.site-footer .container{display:block}}@media screen and (max-width: 720px){.halves{display:block}.half-width{width:100%}}#wrap > h1 > a{display:none}#wrap > h2,#wrap > p{color:red}code,pre{color:#333333;background-color:#cccccc;border-radius:4px}code{padding:5px}pre{padding:10px}.link-preview + .bookmarklet{display:none}.link-preview .halves{align-items:flex-start;-webkit-align-items:flex-start;-moz-align-items:flex-start}.link-preview h2{text-align:left}.button-container{margin:40px 0}.bookmarklet.button {background: transparent;}
+</style>
+		
+		<!-- App icons generated using http://realfavicongenerator.net -->
+		<link rel="apple-touch-icon" sizes="180x180" href="https://u.nu/public/images/app-icons/apple-touch-icon.png?v=7kn6rlWNkK">
+		<link rel="icon" type="image/png" href="https://u.nu/public/images/app-icons/favicon-32x32.png?v=7kn6rlWNkK" sizes="32x32">
+		<link rel="icon" type="image/png" href="https://u.nu/public/images/app-icons/favicon-16x16.png?v=7kn6rlWNkK" sizes="16x16">
+		<link rel="manifest" href="https://u.nu/public/images/app-icons/manifest.json?v=7kn6rlWNkK">
+		<link rel="mask-icon" href="https://u.nu/public/images/app-icons/safari-pinned-tab.svg?v=7kn6rlWNkK" color="#b41d1f">
+		<link rel="shortcut icon" href="https://u.nu/public/images/app-icons/favicon.ico?v=7kn6rlWNkK">
+		<meta name="apple-mobile-web-app-title" content="U.NU">
+		<meta name="application-name" content="U.NU">
+		<meta name="msapplication-config" content="https://u.nu/public/images/app-icons/browserconfig.xml?v=7kn6rlWNkK">
+		<meta name="theme-color" content="#ffffff">
+	</head>
+
+	<body class="load">
+		<header class="site-header">
+			<div class="container">
+				<nav class="menu menu-left">
+					<a href="https://u.nu/about/">About</a><a href="https://u.nu/api/">API</a>				</nav>
+
+				<a href="https://u.nu" class="site-logo">
+					<img class="logo-image" src="https://u.nu/public/images/logo.png">
+				</a>
+
+				<nav class="menu menu-right">
+					<a href="https://u.nu/contact/">Contact</a><a href="https://u.nu/faq/">FAQ</a>				</nav>
+			</div>
+		</header>
+
+<main class="page">
+	<div class="container">
+		<p>This Privacy Policy describes the policies and procedures of UNU (“UNU”, “we” or “us”) on the collection, use and disclosure of information about you on https://u.nu/ (the “Site”) and the services, features, content or applications offered by UNU (collectively with the Site, the “Services”). UNU receives information about you from various sources, such as: (i) when you register for the Site and the Services, through your user account with UNU (your “Account”); (ii) when you use the Services; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, storage, disclosure and other uses of your information as described in this Privacy Policy. The information you provide may be transferred, processed and/or accessed by us in the United States or another country where we (or our service providers) operate.</p>
+
+		<h2>What Does This Privacy Policy Cover?</h2>
+		<p>
+
+		This Privacy Policy covers the treatment of the information gathered by UNU when you are using or accessing the Services. This Privacy Policy also covers UNU’s treatment of any information about you that UNU’s business partners share with UNU or that UNU shares with its business partners.
+
+		This Privacy Policy does not apply to the practices of other businesses that UNU does not own or control, including other companies’ websites, services and applications (“Third Party Services”) that you can access through the Services, such as Facebook or Twitter, or to individuals that UNU does not manage or employ. While we attempt to partner with only those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to review the privacy policies of any Third Party Services you access.</p>
+
+		<h2>What Information Does UNU Collect and How is it Used?</h2>
+		<p>The information we collect is primarily used to provide the Services, to process and complete any transactions, to respond to inquiries, to personalize and improve the Services, to monitor and analyze usage and trends of the Services, to provide you with related, relevant information, and for any other purpose for which the information was collected. In connection with certain aspects of the Services, we may request, collect and/or display some information about you. We collect the following types of information from our users.</p>
+
+		<h2>User Information:</h2>
+		<p>
+
+		When you create an Account, we will collect personal information from you, such as your name and email address. If you create an Account using your login from another account, such as Facebook or Twitter, we will access and collect the personal information about you that the account provides (which is based on your privacy settings), so that you can create your Account with us. We use your contact information to send you information about our Services. You may unsubscribe from receiving certain types of these messages through your Account settings, although UNU reserves the right to contact you when we believe it is necessary, such as for administrative and account management purposes.
+
+		Note regarding children: We do not knowingly collect personal information from children. If we learn that we have collected personal information of a child under 13, we will take steps to delete such information from our files as soon as possible.</p>
+
+		<h2>URL Information:</h2>
+		<p>
+
+		One feature of the Services is the ability to create shortened uniform resource locators (URLs) of websites (“UNU Links”). UNU collects and stores both the original URL and the shortened URL and, if you are logged in to your Account, we will associate that information with your Account. UNU also collects and stores the time and date on which you shortened the original URL and when you share the UNU Link, information on the channels through which the UNU Link was shared.</p>
+
+		<h2>Metrics and Analytics:</h2>
+		<p>UNU collects information about accesses (such as clicks) of every UNU Link created through the Services. This information includes, but is not limited to: (i) the IP address and physical location of the devices accessing the UNU Link; (ii) the referring websites or services; (iii) the time and date of each access; and (iv) information about sharing of the UNU Link on Third Party Services such as Twitter and Facebook. These metrics and analytics are used by UNU and its partners to improve their websites and services by, for example, providing value-added features.</p>
+
+		<h2>User Content:</h2>
+		<p>
+
+		Some features of the Services allow you to provide content to the Services, such as written descriptions of URLs, comments, images and video. For example, using the Bundles feature, UNU users can curate and “bundle together” a set of links, and can add content to those Bundles, such as comments and videos. All content submitted by you to the Services may be retained by UNU, even after you terminate your account, and may continue to be shared by third parties, as described in this Privacy Policy.</p>
+
+		<h2>Information Collected From Third Party Services:</h2>
+		<p>
+
+		Some features of the Services allow you to share your content and UNU Links through your accounts with other companies such as Facebook and Twitter. If you choose to connect UNU to such Third Party Services, we may collect information related to your use of those Third Party Services, such as authentication tokens that allow us to connect to your Third Party Service accounts or the contact information of your friends (if you choose to connect your friends, followers, or contacts from your account) so that you can contact these people when you use the Services. We may also collect information about how you are using the Services to interact with those connected Third Party Services. Note that Third Party Services may have the ability to restrict the information that is provided to us based on your privacy settings of that account.</p>
+
+		<h2>Information Collected Automatically:</h2>
+		<p>
+
+		    UNU automatically receives and records information from your web browser when you interact with the Services, such as your IP address, browser type, your general location and cookie information. This information may be used to help us understand how users transit a website, to fight spam/malware, to facilitate collection of data concerning your interaction with the Services (e.g., what UNU Links you have clicked on) and for other similar purposes.
+		    UNU also automatically receives and records information that your mobile device transmits when you access the Services, like a device identifier, device settings, and operating system. This information is used to facilitate your access and use of the Services, to access and use other Third Party Services, and for other similar purposes.
+		    Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. UNU may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
+		    We will collect information about your general location (such as your city and state) when you visit the Site (which is derived from your IP address) and we may use various technologies to determine your location (if you enable this feature), when you access and use the Services through a mobile device.
+		    We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.
+		</p>
+
+		<h2>Cookie Policy:</h2>
+		<p>Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit our Site and use the Services through the web.
+		UNU cookies also allow UNU to track when you have clicked on a UNU Link. Each click of a UNU Link is tracked using a unique identifier assigned to you in one or more cookies stored by your web browser and associated with UNU.
+		UNU cookies do not, by themselves, contain any personal information about you, and we do not combine the general information collected through cookies with your personal information to tell us who you are. We do, however, use cookies to identify that your web browser has accessed a UNU Link and may associate that information with your Account if you have one.
+		Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. If you disable cookies, you will not be able use most features of the Services. UNU cookies are set to automatically expire after 6 months from when they are set.
+		</p>
+
+		<h2>What Information Is Shared?</h2>
+		<p>The Services are designed to help you share information with others. As a result, much of the information generated through the Services is shared publicly or with third parties.</p>
+
+		<h2>UNU Links and Usage Information:</h2>
+		<p>
+
+		Much of your activity on and through the Services is public by default. This includes, but is not limited to:
+
+		    The original URLs you have shortened, their corresponding UNU Links, the time and date those URLs were shortened, and metrics and analytics information for your UNU Links, as described above;
+		    Aggregate non-personal information about what UNU Links you have clicked on and associated metrics and analytics information, as described above; and
+		    Any Bundles you have created, along with content added to those Bundles, if you have elected to make those Bundles public.
+
+		Registered users may have some of this information associated with their Accounts. Unregistered users will not have this association, but information concerning their use of the Services (such as what UNU Links they click on, when they clicked, from where they clicked, etc.) is tracked anonymously through the use of cookies and stored by UNU.
+
+		For registered users, some of this information is publicly accessible through a unique URL, which you can make non-public through your Account settings when you are logged in. Removing access to the unique URL does not, however, make this information non-public, and it may still be accessible through other means, such as UNU’s API services.
+
+		UNU Links and the general use of the Services may be shared in anonymized and/or aggregated form (in other words, non-personally identifiable) with our customers and business partners, like with the owners of the URLs that are shared through the Services. This information enables them to do things like better understand how people use their products and services and other products and services, to learn about the interests their users have and how our Services interoperate with their services, to do product development, marketing optimization and research, and to improve the relevancy of any online advertisements or marketing that is displayed through their services (or to tailor it to your interests).
+
+		Please also remember that if you choose to provide information about you using certain features of the Services, then that information is governed by the privacy settings of those particular features and may be publicly available to others.</p>
+
+		<h2>IP Address Information:</h2>
+		<p>
+
+		While we collect and store IP address information, that information is not shared publicly. We do at times, however, share IP address information with our partners, service providers and other companies with whom we conduct business. In most cases, when we share your IP address with other third parties, we will use a cryptographic hash of the IP address, which cannot feasibly be reversed into the actual IP addresses themselves or linked to you individually.</p>
+
+		<h2>Information You Elect to Share:</h2>
+		<p>
+
+		When creating a UNU Link, you can share that UNU Link through Third Party Services. Any information that you elect to distribute through Third Party Services is provided to them and may then become accessible to users of those services. You can also access other Third Party Services through the Services, for example by clicking on links in the Statistics page for a UNU Link. We recommend that you review the terms of services and privacy policies of such Third Party Services that you access through the Services, since UNU does not control and is not responsible for the privacy practices of these Third Party Services.</p>
+
+		<h2>User Profile Information:</h2>
+		<p>User profile information including your username, Twitter handle and Facebook account name (to the extent you have linked your Account with those services), and other information you enter may be displayed to other users to facilitate user interaction within the Services. Users’ email addresses will not be directly revealed to other users by UNU.</p>
+
+		<h2>Information Shared with Service Providers of UNU:</h2>
+		<p>
+
+		We may employ and contract with people and other entities to perform certain tasks on our behalf and under our direction (our “Service Providers”). We may need to share information about you with our Service Providers in order to provide products or services to you. Unless we tell you differently, our Service Providers do not have any right to use the information we share with them beyond what is necessary to assist us.</p>
+
+		<h2>Information Disclosed Pursuant to Business Transfers:</h2>
+		<p>
+
+		We may transfer and/or provide information about our users in connection with an acquisition, sale of company assets, or other situation where user information would be transferred as one of our business assets. In such a case, the acquirer of UNU may continue to use your information as set forth in this policy.</p>
+
+		<h2>Information Disclosed for the Protection of UNU and Others:</h2>
+		<p>
+
+		UNU also reserves the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce these Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety of UNU, its users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.</p>
+
+		<h2>Information We Share With Your Consent:</h2>
+		<p>
+		We will share information about you when you instruct us to do so, such as when you share UNU Links or content with others through the Services or if we notify you that the information you provide will be shared in a particular manner and you provide such information (like sharing/posting it with a Third Party Service).</p>
+
+		<h2>How Is My Information Protected?</h2>
+		<p>
+
+		Your Account information is protected by a password for your privacy and security. You can prevent unauthorized access to your account by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+
+		UNU endeavors to protect the information it collects about its users using industry-standard security processes and controls, however, despite these efforts, no security measure is perfect or impenetrable and UNU does not guarantee or warrant that such measures will prevent unauthorized access to the information about you that is stored by UNU. In the event we experience a breach of security, we will promptly notify you if your personal information has been compromised, in accordance with applicable law.</p>
+
+		<h2>What Choices Do I Have and What Information of Mine Can I Access?</h2>
+		<p>
+
+		You don’t need an account to create UNU Links and you can use many of the features of the Services without registering, thereby limiting the type of information that is collected about you individually.
+
+		If you are a registered user, you can access information associated with your Account by logging into the Site. This information includes a history of the URLs you have shortened, and access to the metrics pages for those URLs. You can deactivate your Account at any time through your Account settings page. If you deactivate your Account, you will no longer be able to access or use the Services.
+
+		Please note that in the interest of ensuring that existing UNU Links continue to function for all of our users, the UNU Links that you have created and shared cannot be deleted or disabled (even if your Account is deactivated), and any shortening and sharing activity that has already occurred on your Account also cannot be deleted (but your user history can be set to private from within your Account settings). If you have concerns about any unauthorized usage of your Account, please contact us at admin@u.nu and we will disable future shortening activity on your Account.
+
+		If you are not a registered user, you can access the metrics pages for your UNU Links by adding the “+” symbol to the end of the URL.</p>
+
+		<h2>What Happens When There Are Changes to this Privacy Policy?</h2>
+		<p>
+
+		UNU may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email and we will indicate when those changes will become effective. You are agreeing to be bound by any changes to the Privacy Policy when you use the Services after those changes become effective.</p>
+
+		<h2>What If I Have Questions or Concerns?</h2>
+		<p>
+
+		If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to: admin@u.nu We will make every effort to resolve your concerns.</p>
+	</div>
+</main>
+
+
+<section class="bookmarklet">
+	<div class="container">
+		<h2>The bookmarklet</h2>
+
+				<p>Add this to your bookmarks or drag it to your bookmarks bar to quickly access shortening functions. </p>
+		<p class="bookmark"><a href="javascript:(function()%7Bvar%20d=document,w=window,enc=encodeURIComponent,e=w.getSelection,k=d.getSelection,x=d.selection,s=(e?e():(k)?k():(x?x.createRange().text:0)),s2=((s.toString()=='')?s:enc(s)),f='https://u.nu/index.php',l=d.location,p='?url='+enc(l.href)+'&amp;title='+enc(d.title)+'&amp;keyword='+s2,u=f+p;try%7Bthrow('ozhismygod');%7Dcatch(z)%7Ba=function()%7Bif(!w.open(u))l.href=u;%7D;if(/Firefox/.test(navigator.userAgent))setTimeout(a,0);else%20a();%7Dvoid(0);%7D)();" onclick="alert('Save this as a bookmark.'); return false;" class="bookmarklet button"><span class="icon-move"><svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><path d="M17.854 8.647l-3-3c-.195-.195-.512-.195-.707 0-.195.195-.195.512 0 .707L16.293 8.5H9.5V1.707l2.146 2.146c.098.098.226.146.354.146.128 0 .256-.05.354-.148.195-.195.195-.512 0-.707l-3-3c-.195-.195-.512-.195-.707 0l-3 3c-.195.195-.195.512 0 .707.195.195.512.195.707 0L8.5 1.707V8.5H1.707l2.146-2.146c.195-.195.195-.512 0-.707-.195-.195-.512-.195-.707 0l-3 3c-.195.195-.195.512 0 .707l3 3c.098.098.226.146.354.146.128 0 .256-.05.354-.146.195-.195.195-.512 0-.707L1.708 9.5H8.5v6.794l-2.145-2.146c-.195-.195-.512-.195-.707 0-.195.195-.195.512 0 .707l3 3c.098.098.226.146.354.146.128 0 .256-.047.354-.144l3-3c.195-.195.195-.512 0-.707-.195-.196-.512-.196-.707 0L9.5 16.294V9.5h6.793l-2.146 2.147c-.196.195-.196.512 0 .707.097.098.225.146.353.146.128 0 .256-.05.354-.146l3-3c.195-.195.195-.512 0-.707h-.004z"></path></svg></span>Shorten</a></p>
+		<p>This bookmarklet takes the page URL and title and opens a new tab, where you can fill out a CAPTCHA. If you have selected text before using the bookmarklet, that will be used as the keyword.</p>
+		<p>Support for bookmarklets on mobile varies. For example, they work on Chrome for Android but you have to add and sync them from your desktop.</p>
+	</div>
+</section>
+
+<footer class="site-footer">
+	<div class="container">
+		<nav class="menu menu-footer">
+			<a href="https://u.nu/privacy/">Privacy</a><a href="https://u.nu/tos/">Terms of Service</a>		</nav>
+
+		<p class="copyright">Powered by <a href="http://yourls.org/">YOURLS</a>. Designed by <a href="#">Tom Slominski</a>.</p>
+	</div>
+</footer>
+
+
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0f82f76dc2","applicationID":"180363053","transactionName":"YVFaYhFRCBUEUhYKCVgbbUQKHx8JEEMOEEtaW1lSBkJIFg1B","queueTime":0,"applicationTime":7,"atts":"TRZZFFlLGxs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
