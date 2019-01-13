@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ckbproducts.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831035751id_/http%3A//www.ckbproducts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ckbproducts.com privacy policy that was archived on 2019-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190113225449id_/https%3A//www.ckbproducts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
