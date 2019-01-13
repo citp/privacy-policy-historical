@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merchantwords.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213122431id_/https%3A//www.merchantwords.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantwords.com privacy policy that was archived on 2019-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190113231628id_/https%3A//www.merchantwords.com/privacy) for the most accurate reproduction.*
 
 # MerchantWords: Privacy
 
@@ -141,7 +141,7 @@ We will retain your personal information for the period necessary to fulfill the
 
 We give you choices regarding our use and disclosure of your personal information for marketing purposes.
 
-You may opt-out from receiving electronic communications from us. If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing related emails by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#29595b405f484a5069444c5b4a4148475d5e465b4d5a074a4644) or by clicking on the opt-out link within the email message that you receive from us.
+You may opt-out from receiving electronic communications from us. If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing related emails by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9dedeff4ebfcfee4ddf0f8effef5fcf3e9eaf2eff9eeb3fef2f0) or by clicking on the opt-out link within the email message that you receive from us.
 
 Please also note that if you do opt-out of receiving marketing-related emails from us, we may still be required to send you administrative messages relating to the Services from time to time. 
 
@@ -167,9 +167,9 @@ iOS:   In iOS you can modify privacy settings in Settings > Privacy. You can s
 
 **ACCESS AND RIGHTS REGARDING PERSONAL INFORMATION**
 
-Any registered user of our Services can access and modify their profile information in their account settings in our Services. In addition, any registered user can also permanently delete their MerchantWords account by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a3d3d1cad5c2c0dae3cec6d1c0cbc2cdd7d4ccd1c7d08dc0ccce).
+Any registered user of our Services can access and modify their profile information in their account settings in our Services. In addition, any registered user can also permanently delete their MerchantWords account by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1b6b69726d7a78625b767e6978737a756f6c74697f6835787476).
 
-If you reside outside the European Economic Area and Switzerland, you may also contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7101031807101208311c14031219101f05061e0315025f121e1c) if you would like to review, correct, update, suppress, or delete the personal information that MerchantWords maintains about you, or you would like to request a copy of your personal information held by us. 
+If you reside outside the European Economic Area and Switzerland, you may also contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3747455e4156544e775a5245545f56594340584553441954585a) if you would like to review, correct, update, suppress, or delete the personal information that MerchantWords maintains about you, or you would like to request a copy of your personal information held by us. 
 
 If you are a resident of the European Economic Area, including Switzerland, you are provided specific legal rights in regard to the handling of your information. You have the following rights with respect to your personal information:   
   
@@ -182,7 +182,7 @@ If you are a resident of the European Economic Area, including Switzerland, you 
 • The right to object, and  
 • Rights in relation to automated decision making and profiling.
 
-To exercise these rights as a resident of the European Economic Area, including Switzerland, email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7303011a0512100a331e1601101b121d07041c0117005d101c1e). 
+To exercise these rights as a resident of the European Economic Area, including Switzerland, email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2454564d5245475d64494156474c454a50534b5640570a474b49). 
 
 To opt out of receiving marketing communications from us, please see “ **Choices**.” 
 
@@ -222,7 +222,7 @@ We reserve the right to make changes to our Privacy Policy. Please look at the d
 
 **CONTACTING US**
 
-For any questions about this Privacy Policy or MerchantWords’s privacy practices, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6414160d1205071d24090116070c050a10130b1600174a070b09), or by mail at:
+For any questions about this Privacy Policy or MerchantWords’s privacy practices, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3444465d4255574d74595146575c555a40435b4650471a575b59), or by mail at:
 
 Merchant Words, LLC  
 Attn: Privacy  
