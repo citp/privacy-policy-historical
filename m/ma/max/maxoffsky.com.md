@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maxoffsky.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712121952id_/https%3A//maxoffsky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxoffsky.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114003705id_/https%3A//maxoffsky.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Maks Surguy's blog on PHP and Laravel
+# Privacy Policy - Maks Surguy's blog on Technology Innovation, IoT, Design and Code
 
 This application (hereinafter “Application”) collects some Personal Data from its Users.
 
