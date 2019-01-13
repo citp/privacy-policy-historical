@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auditmypc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093012id_/http%3A//www.auditmypc.com/auditmypc/audit-my-pc-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auditmypc.com privacy policy that was archived on 2019-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190113071655id_/https%3A//www.auditmypc.com/auditmypc/audit-my-pc-privacy-statement) for the most accurate reproduction.*
 
 # Audit My PC Privacy Statement
 
@@ -34,3 +34,5 @@ Questions
 If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, please feel free to contact us.
 
 Thank you.
+
+## Reader Interactions
