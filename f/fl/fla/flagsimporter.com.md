@@ -1,80 +1,77 @@
-> *The following text is extracted and transformed from the flagsimporter.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731142318id_/https%3A//www.flagsimporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagsimporter.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114080014id_/https%3A//www.flagsimporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Flags Importer Privacy Policy
 
-This Privacy Policy governs the manner in which Flags Importer Corporation collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.flagsimporter.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Flags Importer Corporation.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.flagsimporter.com (the “Site”).
 
-## Personal identification information
+### PERSONAL INFORMATION WE COLLECT
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the siteplace an orderfill out a formsubscribe to the newsletter and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information, 
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-Users may, however, visit our Site anonymously.
+We collect Device Information using the following technologies:
 
-We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+\- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
 
-## Non-personal identification information
+\- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.  
+\- “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. We refer to this information as “Order Information.”
 
-## Web browser cookies
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+### HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-## How we use collected information
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:  
+Communicate with you;  
+Screen our orders for potential risk or fraud; and  
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.  
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).  
+Flagsimporter.com also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.  
+The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
 
-Flags Importer Corporation collects and uses Users personal information for the following purposes:
+### SHARING YOUR PERSONAL INFORMATION
 
-  * _To improve customer service_  
-Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _To improve our Site_  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _To process transactions_  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _To share your information with third parties_  
-We may share or sell information with third parties for marketing or other purposes.
-  * _To send periodic emails_
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: <https://www.google.com/intl/en/policies/privacy/>. You can also opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
 
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
+### BEHAVIOURAL ADVERTISING
 
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
+You can opt out of targeted advertising by:  
+FACEBOOK - <https://www.facebook.com/settings/?tab=ads>  
+GOOGLE - <https://www.google.com/settings/ads/anonymous>  
+BING - <https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads>
 
-## How we protect your information
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: <http://optout.aboutads.info/>.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+### DO NOT TRACK
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-## Sharing your personal information
+### YOUR RIGHTS
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-## Third party websites
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website\'s own terms and policies.
+### DATA RETENTION
 
-## Changes to this privacy policy
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
-Flags Importer Corporation has the discretion to update this privacy policy at any time. When we do, revise the updated date at the bottom of this page,. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+### MINORS
 
-## Your acceptance of these terms
+The Site is not intended for individuals under the age of 18.
 
-By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+### CHANGES
 
-## Contacting us
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+### CONTACT US
 
-Flags Importer Corporation
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at sales@flagsimporter.com or by mail using the details provided below: 
 
-http://www.flagsimporter.com
+2080 S Cucamonga Ave, Ontario, CA, 91761, United States
 
-Flags Importer 2080 S Cucamonga Ave Ontario CA 91761
-
-909-605-2968
-
-sales@flagsimporter.com
-
-Updated as of October 28, 2016
+Updated as of May 29, 2018
