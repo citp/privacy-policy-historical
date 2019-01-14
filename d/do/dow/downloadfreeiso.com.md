@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadfreeiso.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115003908id_/http%3A//www.downloadfreeios.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadfreeiso.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114224613id_/http%3A//www.downloadfreeios.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -130,6 +130,6 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-  * By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * By email: nonusoft@outlook.com
 
 
