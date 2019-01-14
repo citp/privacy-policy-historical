@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdrsoft.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124224323id_/https%3A//www.hdrsoft.com/support/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdrsoft.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114120933id_/https%3A//www.hdrsoft.com/support/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # HDRsoft Privacy Policy
 
