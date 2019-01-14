@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthspiritbody.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315175858id_/https%3A//www.healthspiritbody.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthspiritbody.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114160652id_/https%3A//www.healthspiritbody.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
