@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alliancebank.com.my privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115012710id_/http%3A//www.alliancebank.com.my/WebsitePrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliancebank.com.my privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115003501id_/http%3A//www.alliancebank.com.my/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Alliance Bank Malaysia Berhad
-
-_GENERAL_
+# Alliance One Account, Alliance Saveplus Account, SME, Credit Card, Loan | Alliance Bank Malaysia
 
 ### Privacy Policy
 
