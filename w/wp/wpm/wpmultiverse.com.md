@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpmultiverse.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903141848id_/https%3A//www.wpmultiverse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmultiverse.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114124705id_/https%3A//www.wpmultiverse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
