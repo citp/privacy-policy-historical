@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swat.io privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528234258id_/https%3A//swat.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swat.io privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114191511id_/https%3A//swat.io/privacy) for the most accurate reproduction.*
 
 # Easy to Use Social Media Management Tool for Teams – Swat.io
 
