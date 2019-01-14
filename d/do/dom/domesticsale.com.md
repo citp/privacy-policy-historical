@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024033119id_/https%3A//www.domesticsale.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114024049id_/https%3A//www.domesticsale.com/help-privacy.html) for the most accurate reproduction.*
 
 # DomesticSale.com - Privacy Policy
 
@@ -8,15 +8,13 @@ DomesticSale has established its privacy policy to explain how your information 
 
 **PRIVACY PROTECTION**
 
-DomesticSale does not share your information with third parties for marketing purposes, or engage in cross-marketing or link-referral programs with other similar sites. DomesticSale recommends its customers to keep their password safe and do not remember it on public (shared) computers (Internet-cafe, college, library, family computer etc). DomesticSale does not knowingly collect any information from persons under the age of 13. If DomesticSale learns that a posting is by a person under the age of 13, DomesticSale will remove that posting. DomesticSale, or persons who post on DomesticSale, may provide links to third party websites, with different privacy policies. DomesticSale is not responsible for, nor have any control over, those third party websites. 
+DomesticSale does not share your personal information with third parties. DomesticSale recommends its customers to keep their password safe and do not remember it on public (shared) computers (Internet-cafe, college, library, family computer etc). DomesticSale does not knowingly collect any information from persons under the age of 13. If DomesticSale learns that a posting is by a person under the age of 13, DomesticSale will remove that posting. DomesticSale, or persons who post on DomesticSale, may provide links to third party websites, with different privacy policies. DomesticSale is not responsible for, nor have any control over, those third party websites. 
 
 **INFORMATION COLLECTION AND USE**
 
-DomesticSale collect traditional contact information such as your name, mailing and/or billing address, phone number and email address for few purposes: to send selfpublishing and confirmation emails, to authenticate user accounts, to provide subscription email services, to register for forums, to process any credit card charges, etc.
+DomesticSale does not collect any financial information such as credit card number, etc.
 
-DomesticSale does not store full credit card information but DomesticSale may store the information partially, such as only last 4 digits of your credit card number for transactions authenticating, monitoring and fraud prevention purpose. All credit card transactions initiated by DomesticSale are transmitted through a financial gateway using encrypted Secure Socket Layer (SSL) protocol.
-
-Your personal information may be collected by DomesticSale if you provide it in the feedback or comments, post it on our classifieds, forums, guestbook or other publishing areas of the website.
+DomesticSale store contact information such as your name, mailing address, phone number and email address for few purposes: to send selfpublishing and confirmation emails, to authenticate user accounts, etc.
 
 Should you expect your personal information to be private please do not post any personal information on DomesticSale site. Standard web log entries for each page served, including visitor’s IP address, page URL, and timestamp are collected by DomesticSale web logs in order to help diagnose problem with DomesticSale servers, to administer DomesticSale site, and to otherwise enhance visitor’s use of DomesticSale sites and services. 
 
@@ -38,16 +36,12 @@ Member area
 
 Testimonials
 
-Bravo Domestic sale team! The **best website** for free ads i ever seen(and i have seen some)! Excellent job! Keep it up!  
-Best Regards, Melania  
-_Santiago, Chile_
+Thank you very much! I sold **all my pups** in week. Remove my ad ASAP, please ...  
+Sincerely, Jeff. 
 
-**This site is fantastic.** Placed an ad to sell an antique 55 gal. aquarium and was **sold within two days**. Talk about results! Thanks!  
-Perry Pono  
-_Rhode Island_
+I love this site..I have **used DomesticSale for many years** ... I hope you stay for many more years!!!  
+Chon32  
+_Arlington, Texas_
 
-I love your site, **the best** FREE classified site I've come accross EVER!!!  
-Regards, Kerry *pinkbike* 
-
-This is a very nice site, I **sold my car** in few days!!!  
-Thank You. Steve. 
+My ad was on less than a week and I had a couple take both of my Beagles to their forever homes. Thanks for having **such a great place to sell stuff** You get 10 stars **********  
+_Dublin, GA_
