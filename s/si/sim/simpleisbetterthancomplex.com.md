@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleisbetterthancomplex.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910034435id_/https%3A//simpleisbetterthancomplex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleisbetterthancomplex.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114143213id_/https%3A//simpleisbetterthancomplex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Simple is Better Than Complex
 
