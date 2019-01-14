@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chocotemplates.com privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308124837id_/http%3A//chocotemplates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chocotemplates.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114151353id_/https%3A//chocotemplates.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ChocoTemplates
+# Privacy Policy - ChocoTemplates
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
