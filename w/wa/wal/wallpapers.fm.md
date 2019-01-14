@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpapers.fm privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207085042id_/http%3A//www.wallpapers.fm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapers.fm privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114110932id_/http%3A//www.wallpapers.fm/privacy-policy) for the most accurate reproduction.*
 
 # Free Computer Wallpapers
 
