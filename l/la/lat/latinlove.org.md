@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the latinlove.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014253id_/http%3A//www.latinlove.org/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinlove.org privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114022217id_/https%3A//www.latinlove.org/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
 
 # Latin Love
 
   1. [ Home ](https://web.archive.org/)
-  2. [ About us ](https://web.archive.org/impressum.php)
+  2. [ Contact us ](https://web.archive.org/impressum.php)
   3. Privacy Policy
 
 |    
