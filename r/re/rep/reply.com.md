@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reply.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820092104id_/http%3A//www.reply.com/en/Shared%2520Documents/Privacy/Privacy_Policy_eng.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reply.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114191822id_/https%3A//www.reply.com/en/Shared%2520Documents/Privacy/Privacy_Policy_eng.pdf) for the most accurate reproduction.*
 
 # Reply S.p.A. website Privacy Policy
 
