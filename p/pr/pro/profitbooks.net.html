@@ -1,37 +1,41 @@
-<!--The following is the downloaded HTML source of the profitbooks.net privacy policy that was archived on 2018-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180512185136id_/https%3A//www.profitbooks.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the profitbooks.net privacy policy that was archived on 2019-01-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190114133746id_/https%3A//www.profitbooks.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]--><head>
 	<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-	    <meta name="theme-color" content="#5dd130">	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="pingback" href="http://www.profitbooks.net/xmlrpc.php">
-            <script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://a.quora.com/qevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-            var originalAddEventListener, oldWidth;
-
+	    <meta name="theme-color" content="#0caa41">	<link rel="profile" href="http://gmpg.org/xfn/11">
+            <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://a.quora.com/qevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
             if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-                originalAddEventListener = EventTarget.prototype.addEventListener;
-                oldWidth = window.innerWidth;
+                var originalAddEventListener = EventTarget.prototype.addEventListener,
+                    oldWidth = window.innerWidth;
 
-                EventTarget.prototype.addEventListener = function (eventName, eventHandler) {
-                    originalAddEventListener.call(this, eventName, function (event) {
-                        if (event.type === "resize" && oldWidth === window.innerWidth) {
-                            return;
-                        }
-                        else if (event.type === "resize" && oldWidth !== window.innerWidth) {
-                            oldWidth = window.innerWidth;
-                        }
-                        eventHandler(event);
-                    });
+                EventTarget.prototype.addEventListener = function (eventName, eventHandler, useCapture) {
+                    if (eventName === "resize") {
+                        originalAddEventListener.call(this, eventName, function (event) {
+                            if (oldWidth === window.innerWidth) {
+                                return;
+                            }
+                            else if (oldWidth !== window.innerWidth) {
+                                oldWidth = window.innerWidth;
+                            }
+                            if (eventHandler.handleEvent) {
+                                eventHandler.handleEvent.call(this, event);
+                            }
+                            else {
+                                eventHandler.call(this, event);
+                            };
+                        }, useCapture);
+                    }
+                    else {
+                        originalAddEventListener.call(this, eventName, eventHandler, useCapture);
+                    };
                 };
-            }
+            };
         </script>
 		<title>Privacy Policy - ProfitBooks.net</title>
-<script type="text/javascript">
-function createCookie(a,d,b){if(b){var c=new Date;c.setTime(c.getTime()+864E5*b);b="; expires="+c.toGMTString()}else b="";document.cookie=a+"="+d+b+"; path=/"}function readCookie(a){a+="=";for(var d=document.cookie.split(";"),b=0;b<d.length;b++){for(var c=d[b];" "==c.charAt(0);)c=c.substring(1,c.length);if(0==c.indexOf(a))return c.substring(a.length,c.length)}return null}function eraseCookie(a){createCookie(a,"",-1)}
-function areCookiesEnabled(){var a=!1;createCookie("testing","Hello",1);null!=readCookie("testing")&&(a=!0,eraseCookie("testing"));return a}(function(a){var d=readCookie("devicePixelRatio"),b=void 0===a.devicePixelRatio?1:a.devicePixelRatio;areCookiesEnabled()&&null==d&&(createCookie("devicePixelRatio",b,7),1!=b&&a.location.reload(!0))})(window);
-</script>
-<!-- This site is optimized with the Yoast SEO plugin v7.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+
+<!-- This site is optimized with the Yoast SEO plugin v9.4 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="https://www.profitbooks.net/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -45,7 +49,7 @@ function areCookiesEnabled(){var a=!1;createCookie("testing","Hello",1);null!=re
 <meta name="twitter:title" content="Privacy Policy - ProfitBooks.net">
 <meta name="twitter:site" content="@profitbookslive">
 <meta name="twitter:creator" content="@harshalkatre">
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.profitbooks.net\/","sameAs":["https:\/\/www.facebook.com\/profitbooks","https:\/\/www.youtube.com\/user\/ProfitBooks","https:\/\/twitter.com\/profitbookslive"],"@id":"https:\/\/www.profitbooks.net\/#organization","name":"ProfitBooks.net","logo":"https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo.png"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://www.profitbooks.net/","sameAs":["https://www.facebook.com/profitbooks","https://www.youtube.com/user/ProfitBooks","https://twitter.com/profitbookslive"],"@id":"https://www.profitbooks.net/#organization","name":"ProfitBooks.net","logo":"https://www.profitbooks.net/wp-content/uploads/2014/05/logo.png"}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//s0.wp.com">
@@ -55,7 +59,7 @@ function areCookiesEnabled(){var a=!1;createCookie("testing","Hello",1);null!=re
 <link rel="alternate" type="application/rss+xml" title="ProfitBooks.net » Comments Feed" href="https://www.profitbooks.net/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="ProfitBooks.net » Privacy Policy Comments Feed" href="https://www.profitbooks.net/privacy-policy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.profitbooks.net\/wp-includes\/js\/wp-emoji.js?ver=4.9.5","twemoji":"http:\/\/www.profitbooks.net\/wp-includes\/js\/twemoji.js?ver=4.9.5"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.profitbooks.net\/wp-includes\/js\/wp-emoji.js?ver=3abfe314e83ab0c1f6ebdbff1ee0869d","twemoji":"http:\/\/www.profitbooks.net\/wp-includes\/js\/twemoji.js?ver=3abfe314e83ab0c1f6ebdbff1ee0869d"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
 
@@ -146,15 +150,15 @@ function areCookiesEnabled(){var a=!1;createCookie("testing","Hello",1);null!=re
 				return ! isIdentical;
 			case 'emoji':
 				/*
-				 * Emoji allows people of all gender levitate and so does WordPress.
+				 * She's the hero Emoji deserves, but not the one it needs right now.
 				 *
-				 * To test for support, try to render a new emoji (woman in business suit levitating),
+				 * To test for support, try to render a new emoji (female superhero),
 				 * then compare it to how it would look if the browser doesn't render it correctly
-				 * (person in business suit levitating + female sign).
+				 * (superhero + female sign).
 				 */
 				isIdentical = emojiSetsRenderIdentically(
-					[55357, 56692, 8205, 9792, 65039],
-					[55357, 56692, 8203, 9792, 65039]
+					[55358, 56760, 9792, 65039],
+					[55358, 56760, 8203, 9792, 65039]
 				);
 				return ! isIdentical;
 		}
@@ -222,7 +226,7 @@ function areCookiesEnabled(){var a=!1;createCookie("testing","Hello",1);null!=re
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://www.profitbooks.net/wp-includes/js/twemoji.js?ver=4.9.5" type="text/javascript" defer=""></script><script src="http://www.profitbooks.net/wp-includes/js/wp-emoji.js?ver=4.9.5" type="text/javascript" defer=""></script>
+		</script><script src="http://www.profitbooks.net/wp-includes/js/twemoji.js?ver=3abfe314e83ab0c1f6ebdbff1ee0869d" type="text/javascript" defer=""></script><script src="http://www.profitbooks.net/wp-includes/js/wp-emoji.js?ver=3abfe314e83ab0c1f6ebdbff1ee0869d" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -237,83 +241,50 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.profitbooks.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="rs-plugin-settings-css" href="http://www.profitbooks.net/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="http://www.profitbooks.net/wp-includes/css/dist/block-library/style.css?ver=3abfe314e83ab0c1f6ebdbff1ee0869d" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-theme-css" href="http://www.profitbooks.net/wp-includes/css/dist/block-library/theme.css?ver=3abfe314e83ab0c1f6ebdbff1ee0869d" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack-email-subscribe-css" href="http://www.profitbooks.net/wp-content/plugins/jetpack/modules/shortcodes/css/jetpack-email-subscribe.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.profitbooks.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="http://www.profitbooks.net/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.1" type="text/css" media="all">
 <style id="rs-plugin-settings-inline-css" type="text/css">
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,700);.tp-caption.thin_OS_66{position:absolute; color:#fff; text-shadow:none; font-weight:300; font-size:66px; line-height:70px; font-family:'Open Sans',sans-serif;padding:0px 4px; padding-top:0px;margin:0px; border-width:2px; border-style:none; background-color:transparent}.tp-caption.normal_OS_22{position:absolute; color:#fff; text-shadow:none; font-weight:400; font-size:22px; line-height:28px; font-family:'Open Sans',sans-serif;padding-top:6px;padding-bottom:8px;padding-right:12px;padding-left:12px;border-radius:8px; border-style:none; background-color:rgba(255,255,255,0.1)}.tp-caption.header{position:absolute; color:#2c3641; text-shadow:none; font-weight:300; font-size:52px; line-height:56px; font-family:'Open Sans',sans-serif;padding:0px 4px; padding-top:4px;margin:0px; border-width:10px; border-style:none;   background-color:transparent}.tp-caption.normal_OS_20{position:absolute; color:#fff; text-shadow:none; font-weight:400; font-size:20px; line-height:28px; font-family:'Open Sans',sans-serif;padding:0px 4px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:transparent}.tp-caption.normal_OS_16{position:absolute; color:#fff; text-shadow:none; font-weight:400; font-size:16px; line-height:26px; font-family:'Open Sans',sans-serif;padding:0px 4px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:transparent}.tp-caption.thin_OS_56{position:absolute; color:#fff; text-shadow:none; font-weight:300; font-size:52px; line-height:56px; font-family:'Open Sans',sans-serif;padding:0px 4px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:transparent}.tp-caption.thin_OS_40{position:absolute; color:#fff; text-shadow:none; font-weight:300; font-size:40px; line-height:44px; font-family:'Open Sans',sans-serif;padding:0px 4px; padding-top:1px;margin:0px; border-width:0px; border-style:none; background-color:transparent}
 </style>
-<link rel="stylesheet" id="jetpack_likes-css" href="http://www.profitbooks.net/wp-content/plugins/jetpack/modules/likes/style.css?ver=6.1" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack-widget-social-icons-styles-css" href="http://www.profitbooks.net/wp-content/plugins/jetpack/modules/widgets/social-icons/social-icons.css?ver=20170506" type="text/css" media="all">
-<link rel="stylesheet" id="dt-web-fonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C600%2C700&amp;ver=4.9.5" type="text/css" media="all">
-<link rel="stylesheet" id="dt-main-css" href="http://www.profitbooks.net/wp-content/themes/dt-the7/css/main.css?ver=6.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="dt-awsome-fonts-back-css" href="http://www.profitbooks.net/wp-content/themes/dt-the7/fonts/FontAwesome/back-compat.css?ver=6.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="dt-awsome-fonts-css" href="http://www.profitbooks.net/wp-content/themes/dt-the7/fonts/FontAwesome/css/fontawesome-all.css?ver=6.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="dt-fontello-css" href="http://www.profitbooks.net/wp-content/themes/dt-the7/fonts/fontello/css/fontello.css?ver=6.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="dt-arrow-icons-css" href="http://www.profitbooks.net/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/style.css?ver=6.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="the7pt-static-css" href="http://www.profitbooks.net/wp-content/themes/dt-the7/css/post-type.css?ver=6.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="dt-custom-css" href="http://www.profitbooks.net/wp-content/uploads/the7-css/custom.css?ver=24a72b3446c1" type="text/css" media="all">
-<link rel="stylesheet" id="dt-media-css" href="http://www.profitbooks.net/wp-content/uploads/the7-css/media.css?ver=24a72b3446c1" type="text/css" media="all">
-<link rel="stylesheet" id="dt-legacy-css" href="http://www.profitbooks.net/wp-content/uploads/the7-css/legacy.css?ver=24a72b3446c1" type="text/css" media="all">
-<link rel="stylesheet" id="the7pt.less-css" href="http://www.profitbooks.net/wp-content/uploads/the7-css/post-type-dynamic.css?ver=24a72b3446c1" type="text/css" media="all">
-<link rel="stylesheet" id="style-css" href="http://www.profitbooks.net/wp-content/themes/dt-the7/style.css?ver=6.2.2" type="text/css" media="all">
-<style id="style-inline-css" type="text/css">
-.mybtn a .menu-text {
-    color: #f8f8f8 !important;
-    background-color: #5dd130 !important;
-    padding: 9px 0px 9px 12px;
-   border-radius: 5px;
-   font-size: 20px;
-}
-
-.mybtn a:hover {
-    text-decoration: none;
-}
-
-.mybtn2 a .menu-text {
-    border-color: #5dd130 !important;
-    padding: 9px;
-   border-radius: 5px;
-   border-style: solid;
-    border-width: 1px;
-}
-
-.mini-widgets .text-area a {
-    text-decoration: none;
-}
-
-.main-nav > .menu-item > a .fa {
-    font-size: 20px;
-}
-
-blockquote.shortcode-blockquote {
-    background-color: #ebf9ff;
-  border: 0px solid;
-    box-shadow: 10px 10px 20px #888888;
-}
-</style>
-<link rel="stylesheet" id="bsf-Defaults-css" href="http://www.profitbooks.net/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=4.9.5" type="text/css" media="all">
-<link rel="stylesheet" id="cp-module-main-style-css" href="http://www.profitbooks.net/wp-content/plugins/convertplug/modules/assets/css/cp-module-main.css?ver=4.9.5" type="text/css" media="all">
-<link rel="stylesheet" id="smile-modal-style-css" href="http://www.profitbooks.net/wp-content/plugins/convertplug/modules/modal/assets/css/modal.min.css?ver=4.9.5" type="text/css" media="all">
-<script type="text/javascript">
+<!-- `jetpack_likes` is included in the concatenated jetpack.css -->
+<link rel="stylesheet" id="the7-Defaults-css" href="http://www.profitbooks.net/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=3abfe314e83ab0c1f6ebdbff1ee0869d" type="text/css" media="all">
+<link crossorigin="anonymous" rel="stylesheet" id="dt-web-fonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C600%2C700%7CRoboto%3A400%2C600%2C700%7CRubik%3A400%2C500%2C600%2C700&amp;ver=7.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="dt-main-css" href="http://www.profitbooks.net/wp-content/themes/dt-the7/css/main.min.css?ver=7.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="dt-awsome-fonts-back-css" href="http://www.profitbooks.net/wp-content/themes/dt-the7/fonts/FontAwesome/back-compat.min.css?ver=7.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="dt-awsome-fonts-css" href="http://www.profitbooks.net/wp-content/themes/dt-the7/fonts/FontAwesome/css/all.min.css?ver=7.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="dt-fontello-css" href="http://www.profitbooks.net/wp-content/themes/dt-the7/fonts/fontello/css/fontello.min.css?ver=7.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="the7pt-static-css" href="http://www.profitbooks.net/wp-content/plugins/dt-the7-core/assets/css/post-type.css?ver=7.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="dt-custom-css" href="http://www.profitbooks.net/wp-content/uploads/the7-css/custom.css?ver=362909177970" type="text/css" media="all">
+<link rel="stylesheet" id="dt-media-css" href="http://www.profitbooks.net/wp-content/uploads/the7-css/media.css?ver=362909177970" type="text/css" media="all">
+<link rel="stylesheet" id="dt-legacy-css" href="http://www.profitbooks.net/wp-content/uploads/the7-css/legacy.css?ver=362909177970" type="text/css" media="all">
+<link rel="stylesheet" id="the7pt.less-css" href="http://www.profitbooks.net/wp-content/uploads/the7-css/post-type-dynamic.css?ver=362909177970" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="http://www.profitbooks.net/wp-content/themes/dt-the7/style.css?ver=7.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="cp-module-main-style-css" href="http://www.profitbooks.net/wp-content/plugins/convertplug/modules/assets/css/cp-module-main.css?ver=3.3.6" type="text/css" media="all">
+<link rel="stylesheet" id="smile-modal-style-css" href="http://www.profitbooks.net/wp-content/plugins/convertplug/modules/modal/assets/css/modal.min.css?ver=3.3.6" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://www.profitbooks.net/wp-content/plugins/jetpack/css/jetpack.css?ver=6.9" type="text/css" media="all">
+<!--n2css--><script type="text/javascript">
 /* <![CDATA[ */
 var slide_in = {"demo_dir":"http:\/\/www.profitbooks.net\/wp-content\/plugins\/convertplug\/modules\/slide_in\/assets\/demos"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.profitbooks.net/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://www.profitbooks.net/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://www.profitbooks.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.7.3"></script>
-<script type="text/javascript" src="http://www.profitbooks.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.7.3"></script>
+<script type="text/javascript" src="http://www.profitbooks.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.1"></script>
+<script type="text/javascript" src="http://www.profitbooks.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var dtLocal = {"themeUrl":"http:\/\/www.profitbooks.net\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"13558","ajaxurl":"https:\/\/www.profitbooks.net\/wp-admin\/admin-ajax.php","contactMessages":{"required":"One or more fields have an error. Please check and try again."},"ajaxNonce":"43cd83e1a3","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"solid","color":"#5dd130"},"desktopHeader":{"height":110},"floatingHeader":{"showAfter":240,"showMenu":true,"height":80,"logo":{"showLogo":true,"html":"<img class=\" preload-me\" src=\"https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo-support-float.png\" srcset=\"https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo-support-float.png 248w\" width=\"248\" height=\"57\"   sizes=\"248px\" alt=\"ProfitBooks.net\" \/>","url":"https:\/\/www.profitbooks.net\/"}},"mobileHeader":{"firstSwitchPoint":900,"secondSwitchPoint":400,"firstSwitchPointHeight":60,"secondSwitchPointHeight":60},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo.png\" srcset=\"https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo.png 280w, https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo.png 280w\" width=\"280\" height=\"57\"   sizes=\"280px\" alt=\"ProfitBooks.net\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo.png\" srcset=\"https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo.png 280w, https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo.png 280w\" width=\"280\" height=\"57\"   sizes=\"280px\" alt=\"ProfitBooks.net\" \/>"}},"content":{"textColor":"#636363","headerColor":"#3a3a3a"},"stripes":{"stripe1":{"textColor":"#888888","headerColor":"#3a3a3a"},"stripe2":{"textColor":"#b8b8b8","headerColor":"#f9f9f9"},"stripe3":{"textColor":"#ffffff","headerColor":"#ffffff"}}},"VCMobileScreenWidth":"768"};
+var dtLocal = {"themeUrl":"http:\/\/www.profitbooks.net\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"13558","ajaxurl":"https:\/\/www.profitbooks.net\/wp-admin\/admin-ajax.php","contactMessages":{"required":"One or more fields have an error. Please check and try again.","terms":"Please accept the privacy policy."},"ajaxNonce":"cb51a77710","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"solid","color":"#0caa41"},"desktopHeader":{"height":80},"floatingHeader":{"showAfter":240,"showMenu":true,"height":80,"logo":{"showLogo":true,"html":"<img class=\" preload-me\" src=\"https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo-support-float.png\" srcset=\"https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo-support-float.png 248w\" width=\"248\" height=\"57\"   sizes=\"248px\" alt=\"ProfitBooks.net\" \/>","url":"https:\/\/www.profitbooks.net\/"}},"mobileHeader":{"firstSwitchPoint":900,"secondSwitchPoint":400,"firstSwitchPointHeight":60,"secondSwitchPointHeight":60},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo.png\" srcset=\"https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo.png 280w, https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo.png 280w\" width=\"280\" height=\"57\"   sizes=\"280px\" alt=\"ProfitBooks.net\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo.png\" srcset=\"https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo.png 280w, https:\/\/www.profitbooks.net\/wp-content\/uploads\/2014\/05\/logo.png 280w\" width=\"280\" height=\"57\"   sizes=\"280px\" alt=\"ProfitBooks.net\" \/>"}},"content":{"textColor":"#212529","headerColor":"#212529"},"boxedWidth":"1280px","stripes":{"stripe1":{"textColor":"#888888","headerColor":"#3a3a3a"},"stripe2":{"textColor":"#b8b8b8","headerColor":"#f9f9f9"},"stripe3":{"textColor":"#ffffff","headerColor":"#ffffff"}}},"VCMobileScreenWidth":"768"};
 var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Tweet","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp","google":"Share on Google Plus","download":"Download image"},"overlayOpacity":"85"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.profitbooks.net/wp-content/themes/dt-the7/js/above-the-fold.js?ver=6.2.2"></script>
+<script type="text/javascript" src="http://www.profitbooks.net/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=7.3.2"></script>
 <link rel="https://api.w.org/" href="https://www.profitbooks.net/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.profitbooks.net/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.profitbooks.net/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.5">
+
 <link rel="shortlink" href="https://www.profitbooks.net/?p=13558">
 <link rel="alternate" type="application/json+oembed" href="https://www.profitbooks.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.profitbooks.net%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.profitbooks.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.profitbooks.net%2Fprivacy-policy%2F&amp;format=xml">
@@ -331,12 +302,10 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <link rel="dns-prefetch" href="//s1.wp.com">
 <link rel="dns-prefetch" href="//s2.wp.com">
 <link rel="dns-prefetch" href="//public-api.wordpress.com">
-<style type="text/css">img#wpstats{display:none}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.profitbooks.net/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.7.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
-<!-- icon -->
-<link rel="icon" href="http://www.profitbooks.net/wp-content/uploads/2014/01/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.profitbooks.net/wp-content/uploads/2014/01/favicon.ico" type="image/x-icon">
-<script type="text/javascript">function setREVStartSize(e){									
+<style type="text/css">img#wpstats{display:none}</style><link rel="pingback" href="http://www.profitbooks.net/xmlrpc.php">
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.profitbooks.net/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="amphtml" href="https://www.profitbooks.net/privacy-policy/?amp"><meta name="generator" content="Powered by Slider Revolution 5.4.8.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<link rel="icon" href="http://www.profitbooks.net/wp-content/uploads/2014/01/favicon.ico" type="image/x-icon" sizes="16x16"><script type="text/javascript">function setREVStartSize(e){									
 						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
 							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
 						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
@@ -357,7 +326,7 @@ length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
 '&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
 valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
 '" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
-</script><script src="https://ssl.google-analytics.com/ga_exp.js?utmxkey=52756367-0&amp;utmx=&amp;utmxx=&amp;utmxtime=1580386159924" type="text/javascript" charset="utf-8"></script><script>utmx('url','A/B');</script>
+</script><script src="https://ssl.google-analytics.com/ga_exp.js?utmxkey=52756367-0&amp;utmx=&amp;utmxx=&amp;utmxtime=1580386165250" type="text/javascript" charset="utf-8"></script><script>utmx('url','A/B');</script>
 <!-- End of Google Analytics Content Experiment code -->
 
 <script>
@@ -372,7 +341,7 @@ ga('require', 'displayfeatures');
 
 </script>
 
-<!-- Begin Inspectlet Embed Code -->
+<!-- Begin Inspectlet Embed Code  
 <script type="text/javascript" id="inspectletjs">
 	window.__insp = window.__insp || [];
 	__insp.push(['wid', 851463056]);
@@ -403,9 +372,50 @@ qp('track', 'ViewContent');
 
 <script type="text/javascript" async="" src="https://ssl.widgets.webengage.com/js/widget/webengage-min-v-5.0.js"></script><script id="_webengage_script_tag" type="text/javascript">var webengage; !function(e,t,n){function o(e,t){e[t[t.length-1]]=function(){r.__queue.push([t.join("."),arguments])}}var i,s,r=e[n],g=" ",l="init options track screen onReady".split(g),a="feedback survey notification".split(g),c="options render clear abort".split(g),p="Open Close Submit Complete View Click".split(g),u="identify login logout setAttribute".split(g);if(!r||!r.__v){for(e[n]=r={__queue:[],__v:"5.0",user:{}},i=0;i<l.length;i++)o(r,[l[i]]);for(i=0;i<a.length;i++){for(r[a[i]]={},s=0;s<c.length;s++)o(r[a[i]],[a[i],c[s]]);for(s=0;s<p.length;s++)o(r[a[i]],[a[i],"on"+p[s]])}for(i=0;i<u.length;i++)o(r.user,["user",u[i]]);setTimeout(function(){var f=t.createElement("script"),d=t.getElementById("_webengage_script_tag");f.type="text/javascript",f.async=!0,f.src=("https:"==t.location.protocol?"https://ssl.widgets.webengage.com":"http://cdn.widgets.webengage.com")+"/js/widget/webengage-min-v-5.0.js",d.parentNode.insertBefore(f,d)})}}(window,document,"webengage");webengage.init("82618057");</script><!-- Facebook Conversion Code for Pricing Page Visits --><script>(function() {var _fbq = window._fbq || (window._fbq = []);if (!_fbq.loaded) {var fbds = document.createElement('script');fbds.async = true;fbds.src = '//connect.facebook.net/en_US/fbds.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(fbds, s);_fbq.loaded = true;}})();window._fbq = window._fbq || [];window._fbq.push(['track', '6026521891496', {'value':'0.00','currency':'INR'}]);</script><noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6026521891496&cd[value]=0.00&cd[currency]=INR&noscript=1" /></noscript>
 
+<style id="the7-custom-inline-css" type="text/css">
+.mybtn a .menu-text {
+    color: #f8f8f8 !important;
+    background-color: #0caa41 !important;
+    padding: 9px 0px 9px 12px;
+   border-radius: 5px;
+   font-size: 20px;
+}
+
+.mybtn a:hover {
+    text-decoration: none;
+}
+
+.mybtn2 a .menu-text {
+    border-color: #0caa41 !important;
+    padding: 9px;
+   border-radius: 5px;
+   border-style: solid;
+    border-width: 1px;
+}
+
+.mini-widgets .text-area a {
+    text-decoration: none;
+}
+
+.main-nav > .menu-item > a .fa {
+    font-size: 20px;
+}
+
+blockquote.shortcode-blockquote {
+    background-color: #ebf9ff;
+  border: 0px solid;
+    box-shadow: 10px 10px 20px #888888;
+}
+
+.branding a img, 
+.branding img {
+    max-width: 69%;
+    height: auto;
+}
+</style>
 </head>
-<body class="page-template-default page page-id-13558 transparent large-hover-icons dt-responsive-on srcset-enabled btn-flat custom-btn-color custom-btn-hover-color shadow-element-decoration bold-icons phantom-sticky phantom-shadow-decoration phantom-custom-logo-on floating-mobile-menu-icon top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right layzr-loading-on popup-message-style dt-fa-compatibility the7-ver-6.2.2 wpb-js-composer js-comp-ver-5.4.7 vc_responsive">
-<!-- The7 6.2.2 -->
+<body class="page-template-default page page-id-13558 wp-embed-responsive the7-core-ver-1.16.0 transparent large-hover-icons dt-responsive-on srcset-enabled btn-flat custom-btn-color custom-btn-hover-color shadow-element-decoration phantom-sticky phantom-shadow-decoration phantom-custom-logo-on floating-mobile-menu-icon top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right layzr-loading-on popup-message-style dt-fa-compatibility the7-ver-7.3.2 wpb-js-composer js-comp-ver-5.4.7 vc_responsive">
+<!-- The7 7.3.2 -->
 
 <div id="page">
 	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
@@ -422,14 +432,14 @@ qp('track', 'ViewContent');
 					<div id="site-title" class="assistive-text">ProfitBooks.net</div>
 					<div id="site-description" class="assistive-text">Online Accounting Software for small business</div>
 					<a href="https://www.profitbooks.net/"><img class=" preload-me" src="https://www.profitbooks.net/wp-content/uploads/2014/05/logo.png" srcset="https://www.profitbooks.net/wp-content/uploads/2014/05/logo.png 280w" width="280" height="57" sizes="280px" alt="ProfitBooks.net"></a>				</div>
-		<ul id="primary-menu" class="main-nav underline-decoration from-centre-line outside-item-remove-margin" role="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13659 first"><a href="https://www.profitbooks.net/online-accounting-software/" data-level="1"><span class="menu-item-text"><span class="menu-text">Features</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13607"><a href="https://www.profitbooks.net/pricing/" data-level="1"><span class="menu-item-text"><span class="menu-text">Pricing</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15711"><a href="https://www.profitbooks.net/gst/" data-level="1"><span class="menu-item-text"><span class="menu-text">GST Guides</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14889 has-children"><a href="#" class="not-clickable-item" data-level="1"><span class="menu-item-text"><span class="menu-text">More</span></span></a><ul class="sub-nav hover-style-click-bg"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16268 first"><a href="https://www.bigmarker.com/profitbooks/ProfitBooks-Product-Demo" data-level="2"><span class="menu-item-text"><span class="menu-text">Product Demo</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13608"><a href="https://www.profitbooks.net/resources/" data-level="2"><span class="menu-item-text"><span class="menu-text">Blog &amp; Resources</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14891"><a href="https://www.profitbooks.net/support/" data-level="2"><span class="menu-item-text"><span class="menu-text">Help Docs</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13616"><a href="https://www.profitbooks.net/contact-profitbooks/" data-level="2"><span class="menu-item-text"><span class="menu-text">Contact Us</span></span></a></li> </ul></li> <li class="mybtn2 menu-item menu-item-type-custom menu-item-object-custom menu-item-13335"><a href="https://www.profitbookshq.com/login/index" data-level="1"><span class="menu-item-text"><span class="menu-text">Login</span></span></a></li> <li class="mybtn menu-item menu-item-type-custom menu-item-object-custom menu-item-15328"><a href="https://profitbookshq.com/signup/new?plan=Trial&amp;utm_source=profitbooksHome&amp;utm_medium=MenuButton&amp;utm_campaign=Homepage" data-level="1"><span class="menu-item-text"><span class="menu-text">Try It Free <i class="fa icon-right-circled"></i></span></span></a></li> </ul>
+		<ul id="primary-menu" class="main-nav underline-decoration from-centre-line outside-item-remove-margin" role="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17307 first has-children"><a href="#" class="not-clickable-item" data-level="1"><span class="menu-item-text"><span class="menu-text">Benefits</span></span></a><ul class="sub-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17323 first"><a href="https://www.profitbooks.net/invoicing-software/" data-level="2"><span class="menu-item-text"><span class="menu-text"><b>For Service Providers</b><br><p><font color="black" size="2">Invoicing Solution For Service Industry </font></p></span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17308"><a href="https://www.profitbooks.net/inventory-management-software/" title="For Traders" data-level="2"><span class="menu-item-text"><span class="menu-text"><b>For Traders</b><br><p><font color="black" size="2">Inventory Management System For Traders </font></p></span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17310"><a href="https://www.profitbooks.net/accounting-software/" data-level="2"><span class="menu-item-text"><span class="menu-text"><b>For SMBs</b><br><p><font color="black" size="2">Financial Accounting Solution For SMBs </font></p></span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14889 has-children"><a href="#" class="not-clickable-item" data-level="1"><span class="menu-item-text"><span class="menu-text">More</span></span></a><ul class="sub-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13608 first"><a href="https://www.profitbooks.net/resources/" data-level="2"><span class="menu-item-text"><span class="menu-text">Blog &amp; Resources</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15711"><a href="https://www.profitbooks.net/gst/" data-level="2"><span class="menu-item-text"><span class="menu-text">GST Guides</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14891"><a href="https://www.profitbooks.net/support/" data-level="2"><span class="menu-item-text"><span class="menu-text">Help Docs</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16989"><a href="https://www.profitbooks.net/partners/" data-level="2"><span class="menu-item-text"><span class="menu-text">Become A Reseller</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13616"><a href="https://www.profitbooks.net/contact-profitbooks/" data-level="2"><span class="menu-item-text"><span class="menu-text">Contact Us</span></span></a></li> </ul></li> <li class="mybtn2 menu-item menu-item-type-custom menu-item-object-custom menu-item-13335"><a href="https://www.profitbookshq.com/login/index" data-level="1"><span class="menu-item-text"><span class="menu-text">Login</span></span></a></li> <li class="mybtn menu-item menu-item-type-custom menu-item-object-custom menu-item-15328"><a href="https://www.profitbooks.net/schedule-demo/" data-level="1"><span class="menu-item-text"><span class="menu-text">Schedule A Demo <i class="fa icon-right-circled"></i></span></span></a></li> </ul>
 		
 	</header>
 
 </div><div class="dt-close-mobile-menu-icon"><span></span></div>
 <div class="dt-mobile-header">
 	<ul id="mobile-menu" class="mobile-main-nav" role="menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13659 first"><a href="https://www.profitbooks.net/online-accounting-software/" data-level="1"><span class="menu-item-text"><span class="menu-text">Features</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13607"><a href="https://www.profitbooks.net/pricing/" data-level="1"><span class="menu-item-text"><span class="menu-text">Pricing</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15711"><a href="https://www.profitbooks.net/gst/" data-level="1"><span class="menu-item-text"><span class="menu-text">GST Guides</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14889 has-children"><a href="#" class="not-clickable-item" data-level="1"><span class="menu-item-text"><span class="menu-text">More</span></span></a><ul class="sub-nav hover-style-click-bg"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16268 first"><a href="https://www.bigmarker.com/profitbooks/ProfitBooks-Product-Demo" data-level="2"><span class="menu-item-text"><span class="menu-text">Product Demo</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13608"><a href="https://www.profitbooks.net/resources/" data-level="2"><span class="menu-item-text"><span class="menu-text">Blog &amp; Resources</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14891"><a href="https://www.profitbooks.net/support/" data-level="2"><span class="menu-item-text"><span class="menu-text">Help Docs</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13616"><a href="https://www.profitbooks.net/contact-profitbooks/" data-level="2"><span class="menu-item-text"><span class="menu-text">Contact Us</span></span></a></li> </ul></li> <li class="mybtn2 menu-item menu-item-type-custom menu-item-object-custom menu-item-13335"><a href="https://www.profitbookshq.com/login/index" data-level="1"><span class="menu-item-text"><span class="menu-text">Login</span></span></a></li> <li class="mybtn menu-item menu-item-type-custom menu-item-object-custom menu-item-15328"><a href="https://profitbookshq.com/signup/new?plan=Trial&amp;utm_source=profitbooksHome&amp;utm_medium=MenuButton&amp;utm_campaign=Homepage" data-level="1"><span class="menu-item-text"><span class="menu-text">Try It Free <i class="fa icon-right-circled"></i></span></span></a></li> 	</ul>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17307 first has-children"><a href="#" class="not-clickable-item" data-level="1"><span class="menu-item-text"><span class="menu-text">Benefits</span></span></a><ul class="sub-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17323 first"><a href="https://www.profitbooks.net/invoicing-software/" data-level="2"><span class="menu-item-text"><span class="menu-text"><b>For Service Providers</b><br><p><font color="black" size="2">Invoicing Solution For Service Industry </font></p></span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17308"><a href="https://www.profitbooks.net/inventory-management-software/" title="For Traders" data-level="2"><span class="menu-item-text"><span class="menu-text"><b>For Traders</b><br><p><font color="black" size="2">Inventory Management System For Traders </font></p></span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17310"><a href="https://www.profitbooks.net/accounting-software/" data-level="2"><span class="menu-item-text"><span class="menu-text"><b>For SMBs</b><br><p><font color="black" size="2">Financial Accounting Solution For SMBs </font></p></span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14889 has-children"><a href="#" class="not-clickable-item" data-level="1"><span class="menu-item-text"><span class="menu-text">More</span></span></a><ul class="sub-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13608 first"><a href="https://www.profitbooks.net/resources/" data-level="2"><span class="menu-item-text"><span class="menu-text">Blog &amp; Resources</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15711"><a href="https://www.profitbooks.net/gst/" data-level="2"><span class="menu-item-text"><span class="menu-text">GST Guides</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14891"><a href="https://www.profitbooks.net/support/" data-level="2"><span class="menu-item-text"><span class="menu-text">Help Docs</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16989"><a href="https://www.profitbooks.net/partners/" data-level="2"><span class="menu-item-text"><span class="menu-text">Become A Reseller</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13616"><a href="https://www.profitbooks.net/contact-profitbooks/" data-level="2"><span class="menu-item-text"><span class="menu-text">Contact Us</span></span></a></li> </ul></li> <li class="mybtn2 menu-item menu-item-type-custom menu-item-object-custom menu-item-13335"><a href="https://www.profitbookshq.com/login/index" data-level="1"><span class="menu-item-text"><span class="menu-text">Login</span></span></a></li> <li class="mybtn menu-item menu-item-type-custom menu-item-object-custom menu-item-15328"><a href="https://www.profitbooks.net/schedule-demo/" data-level="1"><span class="menu-item-text"><span class="menu-text">Schedule A Demo <i class="fa icon-right-circled"></i></span></span></a></li> 	</ul>
 	<div class="mobile-mini-widgets-in-menu"></div>
 </div>
 		<div class="page-title title-left solid-bg breadcrumbs-off page-title-responsive-enabled title-outline-decoration">
@@ -479,7 +489,11 @@ If you are not satisfied with our services, within 30 days from the purchase dat
 
 			</div><!-- .wf-container -->
 		</div><!-- .wf-wrap -->
+
+	
 	</div><!-- #main -->
+
+	
 
 	
 	<!-- !Footer -->
@@ -488,29 +502,25 @@ If you are not satisfied with our services, within 30 days from the purchase dat
 		
 <!-- !Bottom-bar -->
 <div id="bottom-bar" class="full-width-line logo-left" role="contentinfo">
-	<div class="wf-wrap">
-		<div class="wf-container-bottom">
+    <div class="wf-wrap">
+        <div class="wf-container-bottom">
 
-				
-					<div class="wf-float-left">
+			
+                <div class="wf-float-left">
 
-						© ProfitBooks Solutions Pvt Ltd. All rights reserved. Made In India.
+					© ProfitBooks. All rights reserved. 
+                </div>
 
-					</div>
+			
+            <div class="wf-float-right">
 
-				
-				<div class="wf-float-right">
+				<div class="mini-nav"><ul id="bottom-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14829 first"><a href="https://twitter.com/profitbookslive" data-level="1"><i class="fa fa-twitter"></i><span class="menu-item-text"><span class="menu-text">Follow us on Twitter</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14830"><a href="https://www.facebook.com/profitbooks" data-level="1"><i class="fa fa-facebook-square"></i><span class="menu-item-text"><span class="menu-text">Like us on Facebook</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14978"><a href="https://cutshort.io/company/profitbooks-cloud-accounting-software" data-level="1"><i class="fa fa-user"></i><span class="menu-item-text"><span class="menu-text">Apply For A Job</span></span></a></li> </ul><div class="menu-select"><span class="customSelect1"><span class="customSelectInner icon-dropdown-menu-bold">Social Links</span></span></div></div>
+            </div>
 
-					<div class="mini-nav"><ul id="bottom-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14888 first"><a href="#" data-level="1"><i class="fa fa-phone"></i><span class="menu-item-text"><span class="menu-text">+91 848586 3000</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14829"><a href="https://twitter.com/profitbookslive" data-level="1"><i class="fa fa-twitter"></i><span class="menu-item-text"><span class="menu-text">Follow us on Twitter</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14830"><a href="https://www.facebook.com/profitbooks" data-level="1"><i class="fa fa-facebook-square"></i><span class="menu-item-text"><span class="menu-text">Like us on Facebook</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14978"><a href="https://cutshort.io/company/profitbooks-cloud-accounting-software" data-level="1"><i class="fa fa-user"></i><span class="menu-item-text"><span class="menu-text">Apply For A Job</span></span></a></li> </ul><div class="menu-select"><span class="customSelect1"><span class="customSelectInner">Social Links</span></span></div></div>
-				
-
-								</div>
-
-		</div><!-- .wf-container-bottom -->
-	</div><!-- .wf-wrap -->
+        </div><!-- .wf-container-bottom -->
+    </div><!-- .wf-wrap -->
 </div><!-- #bottom-bar -->
 	</footer><!-- #footer -->
-
 
 
 	<a href="#" class="scroll-top"><span class="screen-reader-text">Go to Top</span></a>
@@ -524,13 +534,13 @@ If you are not satisfied with our services, within 30 days from the purchase dat
 					function stopclock (){
 						if(timerRunning) clearTimeout(timerID);
 						timerRunning = false;
-						document.cookie="time=0";
+						//document.cookie="time=0";
 					}
 					function showtime () {
 						var now = new Date();
 						var my = now.getTime() ;
 						now = new Date(my-diffms) ;
-						document.cookie="time="+now.toLocaleString();
+						//document.cookie="time="+now.toLocaleString();
 						timerID = setTimeout('showtime()',10000);
 						timerRunning = true;
 					}
@@ -542,7 +552,7 @@ If you are not satisfied with our services, within 30 days from the purchase dat
 					var timerRunning = false;
 					var x = new Date() ;
 					var now = x.getTime() ;
-					var gmt = 1526151095 * 1000 ;
+					var gmt = 1547473066 * 1000 ;
 					var diffms = (now - gmt) ;
 				</script>
 								<script type="text/javascript" id="info-bar">
@@ -552,13 +562,13 @@ If you are not satisfied with our services, within 30 days from the purchase dat
 					function stopclock (){
 						if(timerRunning) clearTimeout(timerID);
 						timerRunning = false;
-						document.cookie="time=0";
+						//document.cookie="time=0";
 					}
 					function showtime () {
 						var now = new Date();
 						var my = now.getTime() ;
 						now = new Date(my-diffms) ;
-						document.cookie="time="+now.toLocaleString();
+						//document.cookie="time="+now.toLocaleString();
 						timerID = setTimeout('showtime()',10000);
 						timerRunning = true;
 					}
@@ -570,7 +580,7 @@ If you are not satisfied with our services, within 30 days from the purchase dat
 					var timerRunning = false;
 					var x = new Date() ;
 					var now = x.getTime() ;
-					var gmt = 1526151095 * 1000 ;
+					var gmt = 1547473066 * 1000 ;
 					var diffms = (now - gmt) ;
 				</script>
 								<script type="text/javascript" id="slidein">
@@ -580,14 +590,14 @@ If you are not satisfied with our services, within 30 days from the purchase dat
 					function stopclock (){
 						if(timerRunning) clearTimeout(timerID);
 						timerRunning = false;
-						document.cookie="time=0";
+						//document.cookie="time=0";
 					}
 
 					function showtime () {
 						var now = new Date();
 						var my = now.getTime() ;
 						now = new Date(my-diffms) ;
-						document.cookie="time="+now.toLocaleString();
+						//document.cookie="time="+now.toLocaleString();
 						timerID = setTimeout('showtime()',10000);
 						timerRunning = true;
 					}
@@ -600,64 +610,31 @@ If you are not satisfied with our services, within 30 days from the purchase dat
 					var timerRunning = false;
 					var x = new Date() ;
 					var now = x.getTime() ;
-					var gmt = 1526151095 * 1000 ;
+					var gmt = 1547473066 * 1000 ;
 					var diffms = (now - gmt) ;
 				</script>
-				        <meta http-equiv="imagetoolbar" content="no"><!-- disable image toolbar (if any) -->
-        <script type="text/javascript">
-            /*<![CDATA[*/
-            document.oncontextmenu = function() {
-                return false;
-            };
-            document.onselectstart = function() {
-                if (event.srcElement.type != "text" && event.srcElement.type != "textarea" && event.srcElement.type != "password") {
-                    return false;
-                }
-                else {
-                    return true;
-                }
-            };
-            if (window.sidebar) {
-                document.onmousedown = function(e) {
-                    var obj = e.target;
-                    if (obj.tagName.toUpperCase() == 'SELECT'
-                            || obj.tagName.toUpperCase() == "INPUT"
-                            || obj.tagName.toUpperCase() == "TEXTAREA"
-                            || obj.tagName.toUpperCase() == "PASSWORD") {
-                        return true;
-                    }
-                    else {
-                        return false;
-                    }
-                };
-            }
-            document.ondragstart = function() {
-                return false;
-            };
-            /*]]>*/
-        </script>
-        <script type="text/javascript" src="http://www.profitbooks.net/wp-content/themes/dt-the7/js/main.js?ver=6.2.2"></script>
+				<script type="text/javascript" src="http://www.profitbooks.net/wp-content/themes/dt-the7/js/main.min.js?ver=7.3.2"></script>
 <script type="text/javascript" src="http://www.profitbooks.net/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"https:\/\/www.profitbooks.net\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.profitbooks.net\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.profitbooks.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1"></script>
-<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201819"></script>
+<script type="text/javascript" src="http://www.profitbooks.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201903"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var q2w3_sidebar_options = [{"sidebar":"sidebar_1","margin_top":80,"margin_bottom":0,"stop_id":"","screen_max_width":300,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["text-3"]},{"sidebar":"sidebar_5","margin_top":80,"margin_bottom":0,"stop_id":"","screen_max_width":300,"screen_max_height":0,"width_inherit":false,"refresh_interval":1500,"window_load_hook":false,"disable_mo_api":false,"widgets":["text-5"]}];
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.profitbooks.net/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.1.4"></script>
-<script type="text/javascript" src="http://www.profitbooks.net/wp-content/themes/dt-the7/js/legacy.js?ver=6.2.2"></script>
-<script type="text/javascript" src="http://www.profitbooks.net/wp-content/themes/dt-the7/js/post-type.js?ver=6.2.2"></script>
-<script type="text/javascript" src="http://www.profitbooks.net/wp-includes/js/wp-embed.js?ver=4.9.5"></script>
-<script type="text/javascript" src="https://stats.wp.com/e-201819.js" async="async" defer="defer"></script>
+<script type="text/javascript" src="http://www.profitbooks.net/wp-content/themes/dt-the7/js/legacy.min.js?ver=7.3.2"></script>
+<script type="text/javascript" src="http://www.profitbooks.net/wp-content/plugins/dt-the7-core/assets/js/post-type.js?ver=7.3.2"></script>
+<script type="text/javascript" src="http://www.profitbooks.net/wp-includes/js/wp-embed.js?ver=3abfe314e83ab0c1f6ebdbff1ee0869d"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201903.js" async="async" defer="defer"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:6.1',blog:'85494340',post:'13558',tz:'0',srv:'www.profitbooks.net'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:6.9',blog:'85494340',post:'13558',tz:'0',srv:'www.profitbooks.net'} ]);
 	_stq.push([ 'clickTrackerInit', '85494340', '13558' ]);
 </script>
 
