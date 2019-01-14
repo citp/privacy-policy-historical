@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frame-store.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929014347id_/https%3A//frame-store.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frame-store.com privacy policy that was archived on 2019-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190114190746id_/https%3A//frame-store.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – FRAME
 
@@ -8,7 +8,7 @@ Welcome to the FRAME website located at [www.frame-store.com](https://frame-stor
 
 If you reside in the United States or do not purchase goods through the Borderfree platform, there are two types of Information that may be collected through our Website: (1) “Personal Information” such as your name, e-mail address, physical address, phone number, credit card number, information about your computer and other information that may be used to directly identify you, and (2) “Usage Data” which is anonymous data about your use of the Website that is not linked to you personally. 
 
-You may enter the Website and browse its contents without submitting any Personal Information. However, if you wish to establish an account, make a purchase, contact us, subscribe to our newsletter or other mailings, post any comments, or otherwise communicate with us, we may at that time require that you provide Personal Information. When you submit Personal Information on the Website, you are giving your consent to the collection, use and disclosure of your Personal Information as set forth in this Privacy Policy. 
+You may enter the Website and browse its contents without submitting any Personal Information. However, if you wish to establish an account, make a purchase, participate in a contest, promotion or casting call, contact us, subscribe to our newsletter or other mailings, post any comments, or otherwise communicate with us, we may at that time require that you provide Personal Information. When you submit Personal Information on the Website, you are giving your consent to the collection, use and disclosure of your Personal Information as set forth in this Privacy Policy.
 
 If you choose to connect to our Website through a third-party social network such as Facebook (each, a “Social Network”), we may collect Personal Information from your profile on such Social Network, such as your name, username, and e-mail address, and we may publish your activity on our Website through such Social Network. In addition, our Website may offer social sharing features which will allow you to “Share” or “Like” on a Social Network. If you decide to use such features, it may allow the sharing and collection of Information both to and from such Social Network so you should check the privacy policy of each Social Network before using such features. 
 
@@ -20,13 +20,14 @@ Please note that we will only collect your credit card information if you choose
 
 **Uses and Sharing of Information**
 
-We use your Personal Information that we collect directly to process your requests, fulfill your orders, authenticate website visits/usage, inform users of relevant products and specials through promotional e-mails, maintain and develop our Website, and communicate with you. You always will be given the opportunity to unsubscribe from further emails in any promotional messages we send you. 
+We use your Personal Information that we collect directly to process your requests, fulfill your orders, run our contests, promotions and casting calls, authenticate website visits/usage, inform users of relevant products and specials through promotional e-mails, maintain and develop our Website, and communicate with you. You always will be given the opportunity to unsubscribe from further emails in any promotional messages we send you.
+
+  
+Except as described above, we will not disclose, rent, sell or share any Personal Information to unaffiliated third parties for marketing purposes.
+
+We do contract with companies or individuals to provide certain services including email and hosting services, software development, administration of contests, promotions and casting calls, credit card processing, shipping, data management, surveys and marketing, promotional services, etc. We call them our “Service Providers.” Such Service Providers include Borderfree, which processes certain orders for residents outside the United States. We may share both your Personal Information and Usage Data with Service Providers solely as appropriate for them to perform their functions. We do not share your credit card or other account information with third parties unless you authorize us to do so, or if it is necessary to fulfill our responsibilities including, but not limited to, delivering a product or service that you order.
 
 We may share your Personal Information (other than credit card information) with our affiliates and related companies. Our affiliates and related companies may contact you directly regarding certain promotions. If you would like to opt out of having us share your Personal Information with our affiliates and related companies, please e-mail us at dataprivacy@frame-denim.com and include “Opt Out” in the subject line. 
-
-Except as described above, we will not disclose, rent, sell or share any Personal Information to unaffiliated third parties for marketing purposes. 
-
-We do contract with companies or individuals to provide certain services including email and hosting services, software development, credit card processing, shipping, data management, surveys and marketing, promotional services, etc. We call them our “Service Providers.” Such Service Providers include Borderfree, which processes certain orders for residents outside the United States.  We may share both your Personal Information and Usage Data with Service Providers solely as appropriate for them to perform their functions. We do not share your credit card or other account information with third parties unless you authorize us to do so, or if it is necessary to fulfill our responsibilities including, but not limited to, delivering a product or service that you order. 
 
 Usage Data may be used in aggregate form for internal business purposes, such as generating statistics and developing marketing plans. We may share or transfer such aggregate, non-personally identifiable Usage Data with or to our affiliates, licensees and partners for administrative, analytical, research, optimization, security and other purposes, but no such information will be linked with your Personal Information or be used to identify or contact you. 
 
