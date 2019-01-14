@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mohegansun.com privacy policy that was archived on 2018-09-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180928001457id_/https%3A//mohegansun.com/about-mohegan-sun/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mohegansun.com privacy policy that was archived on 2019-01-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190114173337id_/https%3A//mohegansun.com/about-mohegan-sun/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 	
@@ -60,18 +60,19 @@ var brandName = 'mohegansun';
   	
     	
 	    	
-	        	<script type="text/javascript">CQURLInfo={"requestPath":"/content/mohegansun/en/about-mohegan-sun/privacy-policy","extension":"html","selectors":[],"systemId":"6e0d5635-f5ff-4375-b95a-e8a885d607e8","runModes":"crx3,nosamplecontent,publish,crx3tar"};</script>
+	        	<script type="text/javascript">CQURLInfo={"requestPath":"/content/mohegansun/en/about-mohegan-sun/privacy-policy","extension":"html","selectors":[],"systemId":"0f71c334-4a54-4479-8001-f15177f56f07","runModes":"crx3tar-nofds,s7connect,crx3,nosamplecontent,publish"};</script>
 <link rel="stylesheet" href="/etc/designs/mohegansun/clientlibs/publish/themes/default.min.css" type="text/css">
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/shared.min.js"></script>
-
-	        	<script type="text/javascript" src="/etc/designs/mohegansun/clientlibs/publish.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/foundation/clientlibs/jquery.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/foundation/clientlibs/shared.min.js"></script>
+<script type="text/javascript" src="/etc/designs/mohegansun/clientlibs/publish.min.js"></script>
 
 	    	
 	    	
+
 		
 	
 
@@ -129,10 +130,8 @@ var brandName = 'mohegansun';
 		<!-- End Google Tag Manager (noscript) -->
 	
 
- 
- 	
- 		<div id="wrapper" class="resp">
-			
+<div id="wrapper" class="resp">
+	
 
 
 
@@ -161,7 +160,27 @@ var brandName = 'mohegansun';
 
 
 
+
+<script>
+	function flyoverLoginOnSubmit(token) {
+		var frm=$("#login_form_mymohegan_top");
+		if(frm.valid()) {
+			$("INPUT[name=recaptchaResponse]", frm).val(token);
+			frm.submit();
+		}
+	}
+	
+	($)(function() {
+		$("#login_form_mymohegan_top INPUT").on('keyup', function(e){
+			if(e.keyCode==13 && $("#login_form_mymohegan_top").valid()) {
+				$("#login_form_mymohegan_top .formButtonSubmit").click();
+			}
+		})
+	})
+
+</script>
  
+<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
 
 
 
@@ -199,9 +218,10 @@ var brandName = 'mohegansun';
 	<div class="loginFlyout">
 		<div class="loginForm generic_form"> 
                                 
-               <form id="login_form_mymohegan" name="login_form" method="POST" enctype="multipart/form-data" action="/bin/mohegansun/servlet/loginservlet.html">
+               <form id="login_form_mymohegan_top" name="login_form" method="POST" enctype="multipart/form-data" action="/bin/mohegansun/servlet/loginservlet.html">
               
              
+                <input name="recaptchaResponse" class="recaptchaResponse" style="display:none">
                 <fieldset>
                     <h3 class="signInLabel">Sign In To My Mohegan Sun</h3>
 
@@ -222,8 +242,8 @@ var brandName = 'mohegansun';
                         	<a class="close_pop_up" href="javascript:void(0)"></a>
                         	<div class="inner_text">For help signing into My Mohegan Sun or questions about your account, please call 1.888.226.7711 or visit a Player's Club booth.</div>
                         </div>
-                        <div class="submitButtonWrapper icon_sprite">
-							<input type="submit" class="formButtonSubmit" name="Submit" value="Login">
+                        <div class="submitButtonWrapper">
+                            <input type="button" value="Login" class="formButtonSubmit g-recaptcha" data-sitekey="6Le1gXIUAAAAAAeHyga_pHGyaUDMwCcGOBAG0M0D" data-callback="flyoverLoginOnSubmit" name="Submit">
 						</div>
 
                         <input type="hidden" name="pagePath" value="/content/mohegansun/en/about-mohegan-sun/privacy-policy">
@@ -240,7 +260,24 @@ var brandName = 'mohegansun';
 
 
 
+<script>
+	function flyoverLoginBookOnSubmit(token) {
+		var frm=$("#visit_form_mymohegan");
+		if(frm.valid()) {
+			$("INPUT[name=recaptchaResponse]", frm).val(token);
+			frm.submit();
+		}
+	}
 
+	($)(function() {
+		$("#visit_form_mymohegan INPUT").on('keyup', function(e){
+			if(e.keyCode==13 && $("#visit_form_mymohegan").valid()) {
+				$("#visit_form_mymohegan .formButtonSubmit").click();
+			}
+		})
+	})
+
+</script>
 <div class="bookVisitLoggedIn">
 	<a href="/my-mohegan-sun/select-a-date.html">
 		<div class="desktopVisit">
@@ -280,6 +317,7 @@ var brandName = 'mohegansun';
 		<form id="visit_form_mymohegan" name="visit_form" method="POST" enctype="multipart/form-data" action="/bin/mohegansun/servlet/loginservlet.html">
 
 	
+			<input name="recaptchaResponse" class="recaptchaResponse" style="display:none">
 			<fieldset>
 				<h3 class="signInLabel">Log in to Book a Room</h3>
 
@@ -300,11 +338,11 @@ var brandName = 'mohegansun';
 						<a class="close_pop_up" href="javascript:void(0)"></a>
 						<div class="inner_text">For help signing into My Mohegan Sun or questions about your account, please call 1.888.226.7711 or visit a Player's Club booth.</div>
 					</div>
-					<div class="submitButtonWrapper icon_sprite">
-						<input type="submit" class="formButtonSubmit" name="Submit" value="Login">
+					<div class="submitButtonWrapper">
+					 	<input type="button" value="Login" class="formButtonSubmit g-recaptcha" data-sitekey="6Le1gXIUAAAAAAeHyga_pHGyaUDMwCcGOBAG0M0D" data-callback="flyoverLoginBookOnSubmit" name="Submit">
 					</div>
 					<div class="continueAsGuest">
-						<a href="https://reservations.travelclick.com/103061#/guestsandrooms" class="event_button" title="BOOK AS A GUEST" target="_blank">
+						<a href="https://mohegansun.com/hotel-spa-and-golf/choose-a-hotel.html" class="event_button" title="BOOK AS A GUEST" target="_blank">
 							<span>BOOK AS A GUEST</span>
 						</a>
 					</div>
@@ -332,7 +370,7 @@ var brandName = 'mohegansun';
 				</div>
 			</div>
 		</div>
-		<div class="alertBanner clearfix" data-start="2018/03/12 03:30:00" data-stop="2018/03/22 00:00:00">
+		<div class="alertBanner clearfix" data-start="2018/11/15 03:30:00" data-stop="2018/11/15 13:00:00">
 			<span class="alertDismiss"><!--Dismiss--></span>
 			
 			
@@ -384,6 +422,15 @@ var brandName = 'mohegansun';
 				</div>
 			</div>
 			<ul class="primaryNav">
+			
+				<li class="primaryNavItem">
+					<a href="/sun-wine-and-food-fest.html" target="">
+				 <span>SUN WINE &amp; FOOD FEST</span> 
+					</a>
+				
+				<ul class="secondaryNav">
+					
+				</ul></li>
 			
 				<li class="primaryNavItem"> <span>GAMING &amp; PROMOS</span> 
 				<ul class="secondaryNav">
@@ -473,7 +520,7 @@ var brandName = 'mohegansun';
 								<li class="tertiaryNavItem"><a href="/momentum/momentum-partnerships.html" target="">Momentum Partnerships</a>
 								</li>
 							
-								<li class="tertiaryNavItem"><a href="http://engage.mohegansun.com/mohegan-sun-september-hotlist/0653852001535646761" target="_blank">September HotList</a>
+								<li class="tertiaryNavItem"><a href="http://engage.mohegansun.com/mohegan-sun-january-hotlist/0264254001545840155" target="_blank">January HotList</a>
 								</li>
 							
 						</ul></li>
@@ -553,10 +600,10 @@ var brandName = 'mohegansun';
 								<li class="tertiaryNavItem"><a href="/poi/dining/comix-mohegan-sun.html" target="">About Comix Mohegan Sun</a>
 								</li>
 							
-								<li class="tertiaryNavItem"><a href="http://comixcomedy.com/calendar.cfm" target="_blank">Calendar</a>
+								<li class="tertiaryNavItem"><a href="https://www.comixmohegansun.com/calendar" target="_blank">Calendar</a>
 								</li>
 							
-								<li class="tertiaryNavItem"><a href="http://comixcomedy.com/eventList.cfm" target="_blank">Tickets</a>
+								<li class="tertiaryNavItem"><a href="https://www.comixmohegansun.com/calendar" target="_blank">Tickets</a>
 								</li>
 							
 						</ul></li>
@@ -572,15 +619,15 @@ var brandName = 'mohegansun';
 								<li class="tertiaryNavItem"><a href="/events-and-promotions/schedule-of-events.mohegansun@event_entertaintment_nightlife.html" target="">Calendar</a>
 								</li>
 							
+								<li class="tertiaryNavItem"><a href="/nightlife/plan-your-party.html" target="">Plan Your Event</a>
+								</li>
+							
 						</ul></li>
 					
 						<li class="secondaryNavItem"> <span>Tastings &amp; Festivals</span> 
 						<ul class="tertiaryNav">
 							<li class="tertiaryNavHeadline"><span>Tastings &amp; Festivals</span>
 							</li>
-							
-								<li class="tertiaryNavItem"><a href="/sun-brewfest.html" target="">Sun BrewFest</a>
-								</li>
 							
 								<li class="tertiaryNavItem"><a href="/sun-wine-and-food-fest.html" target="">Sun Wine &amp; Food Fest</a>
 								</li>
@@ -599,6 +646,20 @@ var brandName = 'mohegansun';
 							
 								<li class="tertiaryNavItem"><a href="/new-england-food-truck-festival.html" target="">New England Food Truck Festival</a>
 								</li>
+							
+								<li class="tertiaryNavItem"><a href="/sun-brewfest.html" target="">Sun BrewFest</a>
+								</li>
+							
+						</ul></li>
+					
+						<li class="secondaryNavItem">
+								<a href="/events-and-promotions/schedule-of-events.mohegansun@event_entertaintment_conventions.html" target="">
+						 <span>Convention &amp; Expo Events</span> 
+								</a>
+						
+						<ul class="tertiaryNav">
+							<li class="tertiaryNavHeadline"><span>Convention &amp; Expo Events</span>
+							</li>
 							
 						</ul></li>
 					
@@ -764,22 +825,13 @@ var brandName = 'mohegansun';
 								<li class="tertiaryNavItem"><a href="/hotel-spa-and-golf/aspire.html" target="">Aspire &amp; Thirty Three</a>
 								</li>
 							
-								<li class="tertiaryNavItem"><a href="/hotel-spa-and-golf/premium-suites.html" target="">Premium Suites</a>
-								</li>
-							
 								<li class="tertiaryNavItem"><a href="/hotel-spa-and-golf/special-packages.html" target="">Special Packages</a>
 								</li>
 							
 								<li class="tertiaryNavItem"><a href="/hotel-spa-and-golf/amenities.html" target="">Amenities</a>
 								</li>
 							
-								<li class="tertiaryNavItem"><a href="/poi/venues/kids-quest-cyber-quest.html" target="">Kids Quest &amp; Cyber Quest</a>
-								</li>
-							
 								<li class="tertiaryNavItem"><a href="/hotel-spa-and-golf/plan-an-event.html" target="">Plan An Event</a>
-								</li>
-							
-								<li class="tertiaryNavItem"><a href="/hotel-spa-and-golf/local-attractions.html" target="">Local Attractions</a>
 								</li>
 							
 								<li class="tertiaryNavItem"><a href="/hotel-spa-and-golf/area-hotels.html" target="">Area Hotels</a>
@@ -802,7 +854,7 @@ var brandName = 'mohegansun';
 						</ul></li>
 					
 						<li class="secondaryNavItem">
-								<a href="http://www.mohegansungolfclub.com" target="_blank">
+								<a href="https://mohegansungolfclub.com/" target="_blank">
 						 <span>Mohegan Sun Golf Club</span> 
 								</a>
 						
@@ -1115,7 +1167,6 @@ if ($.cookie("user_temp")) {
 </header>
 
 
-	 		
 
 
 
@@ -1129,12 +1180,12 @@ if ($.cookie("user_temp")) {
 	<section id="content" class="t02">
 		<!-- Everything in the content ID is for login template page -->
 		<section class="landing_main_content loginTemplate">
-				<div class="parsys hero_title">
+				<div class="hero_title parsys">
 </div>
 
 			<div style="background: url('/content/dam/mohegansun/Template-Assets/Backgrounds/Background-Website_2016-1440x1440.jpg') no-repeat center top; background-size: cover">
 				<div class="main_content_wrap">
-					<div class="parsys main_content"><div class="col_1_full section">
+					<div class="main_content parsys"><div class="col_1_full section">
 
 
 
@@ -1149,7 +1200,7 @@ if ($.cookie("user_temp")) {
 		<div class="bg left" style=" background-color: #0B2031;">
 			<div class="compwrap">
 				<div class="wrap">
-					<div class="cell c1"><div class="parsys par_col_1"><div class="image parbase section cnt_img_1">
+					<div class="cell c1"><div class="par_col_1 parsys"><div class="cnt_img_1 image parbase section">
 
 
 
@@ -1202,7 +1253,7 @@ if ($.cookie("user_temp")) {
 		<div class="bg center">
 			<div class="compwrap">
 				<div class="wrap">
-					<div class="cell c1"><div class="parsys par_col_1"><div class="plainrichtext parbase section text">
+					<div class="cell c1"><div class="par_col_1 parsys"><div class="plainrichtext text parbase section">
 
 
 
@@ -1254,7 +1305,7 @@ if ($.cookie("user_temp")) {
 		<div class="bg left">
 			<div class="compwrap">
 				<div class="wrap">
-					<div class="cell c1"><div class="parsys par_col_1"><div class="plainrichtext parbase section text">
+					<div class="cell c1"><div class="par_col_1 parsys"><div class="plainrichtext text parbase section">
 
 
 
@@ -1291,7 +1342,7 @@ if ($.cookie("user_temp")) {
 		<div class="bg center ">
 			<div class="compwrap">
 				<div class="wrap">
-					<div class="cell c1"><div class="parsys par_col_1"><div class="plainrichtext parbase section text">
+					<div class="cell c1"><div class="par_col_1 parsys"><div class="plainrichtext text parbase section">
 
 
 
@@ -1317,7 +1368,7 @@ if ($.cookie("user_temp")) {
 
 </div>
 </div>
-					<div class="cell c2"><div class="parsys par_col_2"><div class="plainrichtext parbase section text">
+					<div class="cell c2"><div class="par_col_2 parsys"><div class="plainrichtext text parbase section">
 
 
 
@@ -1347,7 +1398,7 @@ if ($.cookie("user_temp")) {
 		</div>
     
 </div>
-<div class="divider section">
+<div class="divider parbase section">
 
 
 
@@ -1368,7 +1419,7 @@ if ($.cookie("user_temp")) {
 		<div class="bg center ">
 			<div class="compwrap">
 				<div class="wrap">
-					<div class="cell c1"><div class="parsys par_col_1"><div class="plainrichtext parbase section text">
+					<div class="cell c1"><div class="par_col_1 parsys"><div class="plainrichtext text parbase section">
 
 
 
@@ -1393,7 +1444,7 @@ if ($.cookie("user_temp")) {
 
 </div>
 </div>
-					<div class="cell c2"><div class="parsys par_col_2"><div class="plainrichtext parbase section text">
+					<div class="cell c2"><div class="par_col_2 parsys"><div class="plainrichtext text parbase section">
 
 
 
@@ -1423,7 +1474,7 @@ if ($.cookie("user_temp")) {
 		</div>
     
 </div>
-<div class="divider section">
+<div class="divider parbase section">
 
 
 
@@ -1445,7 +1496,7 @@ if ($.cookie("user_temp")) {
 		<div class="bg center">
 			<div class="compwrap">
 				<div class="wrap">
-					<div class="cell c1"><div class="parsys par_col_1"><div class="plainrichtext parbase section text">
+					<div class="cell c1"><div class="par_col_1 parsys"><div class="plainrichtext text parbase section">
 
 
 
@@ -1490,7 +1541,7 @@ if ($.cookie("user_temp")) {
 		</div>
     
 </div>
-<div class="parbase section addsource">
+<div class="addsource parbase section">
 
 
 
@@ -1531,17 +1582,11 @@ margin: 1em 0px;
 
 
 
-	 		<div style="height: 0px;"><div class="contentBottomShadow"></div></div>
-	 	</section></div>
- 	
- 	
- 	
- 
+	<div style="height: 0px;"><div class="contentBottomShadow"></div></div>
+</section></div>
  
 
-	
-		
-		
+
 
 
 <footer class="responsive">
@@ -1580,13 +1625,13 @@ margin: 1em 0px;
 			<div class="general_links_col2">
 				<ul>
 				  
-					<li><a href="http://mohegangaming.com/" target="_blank" title="Mohegan Gaming &amp; Entertainment">Mohegan Gaming &amp; Entertainment</a></li>
+					<li><a href="https://mohegangaming.com/" target="_blank" title="Mohegan Gaming &amp; Entertainment">Mohegan Gaming &amp; Entertainment</a></li>
 				  
-					<li><a href="http://www.mohegan.nsn.us/" target="_blank" title="The Mohegan Indian Tribe">The Mohegan Indian Tribe</a></li>
+					<li><a href="https://www.mohegan.nsn.us/" target="_blank" title="The Mohegan Indian Tribe">The Mohegan Indian Tribe</a></li>
 				  
 					<li><a href="https://www.mohegansunpocono.com" target="_blank" title="Mohegan Sun Pocono">Mohegan Sun Pocono</a></li>
 				  
-					<li><a href="http://resortsac.com/" target="_blank" title="Resorts Casino Hotel">Resorts Casino Hotel</a></li>
+					<li><a href="https://resortsac.com/" target="_blank" title="Resorts Casino Hotel">Resorts Casino Hotel</a></li>
 				  
 					<li><a href="https://mohegansun.com/connecticut-sun.html" target="_blank" title="Connecticut Sun">Connecticut Sun</a></li>
 				  
@@ -1671,17 +1716,14 @@ margin: 1em 0px;
 			</ul>
 		</div>
 		<div class="copyright">
-			<small>Copyright © 2018 Mohegan Sun, Inc. All rights Reserved. <a href="/about-mohegan-sun/privacy-policy.html" target="" title="Copyright © 2018 Mohegan Sun, Inc. All rights Reserved.">Privacy Policy.</a></small>
+			<small>Copyright © 2019 Mohegan Sun, Inc. All rights Reserved. <a href="/about-mohegan-sun/privacy-policy.html" target="" title="Copyright © 2019 Mohegan Sun, Inc. All rights Reserved.">Privacy Policy.</a></small>
 		</div>
 	</div>
 </div>
 
 </footer>
-	
-	
-
  
- <div class="servicecomponents cloudservices"><div class="cloudservice generictracker">
+ <div class="cloudservices servicecomponents"><div class="cloudservice generictracker">
 </div>
 
 </div>
