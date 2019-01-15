@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the propertyware.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606104954id_/http%3A//www.propertyware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyware.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115222727id_/https%3A//www.propertyware.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy by Propertyware
-
-### RealPage, Inc. Corporate Privacy Policy
+# Privacy Policy | Propertyware Property Management Software
 
 Last updated January 13, 2016
 
@@ -14,8 +12,7 @@ RealPage may collect various types of information, both personal and anonymous, 
 
 Personal information is information that can be used to uniquely identify you as an individual or contact you directly. This may include contact information such as your name, address, telephone number, and email address. For certain financial, health, or credit-based products and services, personal information may also include sensitive data such as payment data, credit records, social security numbers, date of birth, and account numbers. Personal information is only collected based upon your choice to provide it to RealPage through our products, services, and websites. You have the option to choose not to provide personal information to us; however, the lack of such personal information will typically prevent RealPage from providing the requested products or services to you.
 
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.  
-Non-personal information is general information that does not permit direct association with you as an individual. When you browse RealPage websites, we may automatically collect non-personal information such as your IP address, device information, browser, internet connection speed, past web pages visited, and your link selections on our various website pages. This information may be used to: (1) manage and protect our websites, products, services, and users from fraudulent, abusive, or unlawful uses; and (2) help us research, develop, and improve our websites, products, and services. This type of information may also be aggregated or otherwise rendered anonymous for business and marketing uses by us or by third parties.
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. Non-personal information is general information that does not permit direct association with you as an individual. When you browse RealPage websites, we may automatically collect non-personal information such as your IP address, device information, browser, internet connection speed, past web pages visited, and your link selections on our various website pages. This information may be used to: (1) manage and protect our websites, products, services, and users from fraudulent, abusive, or unlawful uses; and (2) help us research, develop, and improve our websites, products, and services. This type of information may also be aggregated or otherwise rendered anonymous for business and marketing uses by us or by third parties.
 
 **Information Disclosure**
 
@@ -45,7 +42,8 @@ Most internet browsers provide controls that allow users to manage or disable th
 
 Certain RealPage websites may include third party advertisements and links to other websites. These linked websites are operated by unaffiliated third parties that have separate and independent privacy statements, terms of use, and related notices or disclosures regarding information handling practices. Third party advertisers may also utilize cookies, web beacons, and similar technologies to collect information regarding your website interactions and activities. These third party technologies may be utilized by those entities to provided targeted advertising and web links based upon your activities and preferences. If you choose to interact with specific advertisers who advertise on our sites, the information you provide to them is subject to the conditions of their specific privacy policies and in no way covered by the practices described in this policy. RealPage cannot be responsible for the information handling practices of independent parties and encourages you to review their practices prior to information disclosure.
 
-**Social Media Integration**  
+**Social Media Integration**
+
 RealPage websites, products, and services may include the option of integration through third party social networking sites and related social media plug-ins or applications. When you integrate or link our websites, products, and services with your social media applications (e.g., Facebook, LinkedIn, MySpace, Google+, etc.), you authorize RealPage to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, comments, etc.) to deliver the content or as part of the operation of the integrated application. We may also obtain non-personally identifiable information (e.g., content viewed, advertising viewed, etc.) from your interaction with our integrated content.
 
 By choosing to integrate RealPage websites, product, and services with social media applications, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an integrated application, it may be publicly viewed by other members of these sites and RealPage cannot prevent further use of the information by independent third parties. For more information about how social networking sites handle your personal information and available privacy settings, please refer to their privacy policies and terms of use.
