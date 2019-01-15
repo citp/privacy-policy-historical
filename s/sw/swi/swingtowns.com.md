@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the swingtowns.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216081141id_/http%3A//www.swingtowns.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingtowns.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116003206id_/https%3A//www.swingtowns.com/privacy.html) for the most accurate reproduction.*
 
 # Swingtowns.com
 
 Privacy Policy for _[www.SWINGTOWNS.com](http://www.swingtowns.com/)_
 
-Last Updated: December 17, 2007
+Last Updated: December 27, 2016
 
 **I. General**
 
@@ -46,7 +46,7 @@ A. **We collect information on the following pages:**
 
 3\. Login Page
 
-4\. _Member_ Profile
+4\. Member Profile
 
 5\. Affiliate Registration Page
 
@@ -78,7 +78,7 @@ It is Our policy not to use or share the personal information about Visitors or 
 
 **VII.** **Transmittals from Us**
 
-We may send You periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting _[swingtownscs@gmail.com](mailto:swingtownscs@gmail.com)_. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account. 
+We may send You periodic announcements including the details of our existing and new programs. You may opt out of these announcements by contacting _[support@swingtowns.com](mailto:support@swingtowns.com)_. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account. 
 
 If You provide Your information to Us, use the Website, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law. 
 
@@ -98,10 +98,10 @@ We take measures, including data encryption, to protect the transmission of all 
 
 **X.** **How to Access or Modify Your Information**. 
 
-We offer Our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact Our Customer Service Department at _[swingtownscs@gmail.com](mailto:swingtownscs@gmail.com)_.
+We offer Our Members the opportunity to access or modify information provided during registration. To access or modify such information, contact Our Customer Service Department at _[support@swingtowns.com](mailto:support@swingtowns.com)_.
 
 **XI.** **Where to Direct Questions About Our Privacy Policy**.
 
-If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at _[swingtownscs@gmail.com](mailto:swingtownscs@gmail.com)_.
+If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at _[support@swingtowns.com](mailto:support@swingtowns.com)_.
 
 **\- End -**
