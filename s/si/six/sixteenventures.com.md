@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixteenventures.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001213021id_/http%3A//sixteenventures.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixteenventures.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115120035id_/https%3A//sixteenventures.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Success-driven Growth
 
