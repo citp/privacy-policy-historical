@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftphp.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829230125id_/http%3A//swiftphp.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftphp.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115085805id_/http%3A//swiftphp.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
