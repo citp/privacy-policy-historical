@@ -1,263 +1,182 @@
-> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703090756id_/https%3A//www.quickquid.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115120746id_/https%3A//www.quickquid.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # QuickQuid - Privacy Policy
 
-QuickQuid is the trading name of CashEuroNetUK, LLC. CashEuroNetUK, LLC is authorised and regulated by the Financial Conduct Authority, firm registration number 673738. Information Commissioner’s Office Data Protection registration number: Z9919587. This Privacy Policy describes the privacy practices of CashEuroNetUK, LLC and its affiliated companies with respect to individually identifiable information relating to you ("Personal Data") that you or third parties provide to Quick Quid, including Personal Data collected or provided on the CashEuroNetUK websites at [www.quickquid.co.uk](http://www.quickquid.co.uk/) ("Website"). "You" or "Your" means you as a participant in, or as a user of, the Website or a customer of CashEuroNetUK. "We" or "our" or "us" means CashEuroNetUK and its affiliates. 
+**Who we are**
 
-For the purposes of the Data Protection Act 1998, the data controller is CashEuroNetUK, LLC 
+QuickQuid is a trading name of CashEuroNet UK, LLC. CashEuroNet UK, LLC is authorised and regulated by the Financial Conduct Authority, firm registration number 673738. Information Commissioner’s Office Data Protection registration number: Z9919587.
 
-By visiting and using our Website, you are consenting to the practices described in this Privacy Policy. 
+This Privacy Policy describes the privacy practices of CashEuroNet UK, LLC and its affiliated companies with respect to individually identifiable information relating to you ("Personal Data") that you or third parties provide to QuickQuid, including Personal Data collected or provided on the CashEuroNet UK, LLC websites at [www.quickquid.co.uk](https://www.quickquid.co.uk/) ("Website"). "You" or "Your" means you as a participant in, or as a user of, the Website or a customer of CashEuroNet UK, LLC. "We" or "our" or "us" means CashEuroNet UK, LLC and its affiliated companies.
 
-**EU Safe Harbor**
+For the purposes of the General Data Privacy Regulation, the data controller is CashEuroNet UK, LLC. CashEuroNet UK, LLC’s data protection officer can be reached via [DPO@CashEuroNetuk.co.uk](mailto:DPO@CashEuroNetuk.co.uk). Questions on this privacy policy or general privacy related questions should be sent to [GDPR@quickquid.co.uk](mailto:GDPR@quickquid.co.uk).
 
-The website servers that support the Website, as well as many of our operations, are located in the United States. In order to properly protect Personal Data that we receive in the United States about EU residents, we adhere to the US-EU Safe Harbor Privacy Principles with respect to the use and processing of such data in the United States ("EU Safe Harbor"). For further background about the EU Safe Harbor, please refer to the U.S. Department of Commerce's website at <http://www.export.gov/safeharbor>, or contact us as described at the end of this Privacy Policy. 
+**Data Location**
 
-By providing us with your personal information on our Website or in the course of using our services, you consent to the transfer of your Personal Data to companies outside the EU, including CashEuroNetUK, its affiliates, and authorised third parties, in accordance with this Privacy Policy. 
+CashEuroNet UK, LLC is a United States based firm operating in the UK. Our employees, operations, and servers are located primarily in the United States. Accordingly, in order to provide our services to you, any Personal Data which you enter on our Website, or any Personal Data we obtain either during the application process or in the course of providing our services, will be transferred to or otherwise processed by us in the United States and may be transferred to other third parties outside the European Union in accordance with this Privacy Policy.
 
-**What Information We Collect**
+We maintain appropriate safeguards to ensure we properly protect your Personal Data when it is transferred to the United States, sent to us in the United States or that we otherwise obtain. These safeguards are set forth in agreements that include EU-approved standard contractual clauses and in other binding instruments that include equivalent data subject rights and remedies. For more information about data transfer safeguards, please reach out to us at [GDPR@quickquid.co.uk](mailto:GDPR@quickquid.co.uk).
 
-You are free to browse the Website without providing any personal data (although, please see the "Cookies" section below). Our primary goal in collecting Personal Data is to provide you with an accurate, customised loan transaction. The information we collect about our customers helps us personalise and continually improve our customers' experience at our Website and their experience of services provided by us and our affiliates. We collect the following types of information: 
+**Use of Personal Data**
 
-  * Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser). 
-  * Information provided by you through on-line forms, loan applications, surveys, and/or other entries, such as names, email addresses, home addresses, date of birth, personal, financial (bank account details) or demographic information. 
-  * Information, user specific or aggregate, on what pages our visitors access. 
-  * Automatic information and cookies (See also the "Cookies" section below). 
-  * Information about your transactions with us, such as payment history and loan balances, and information you provide when you contact our customer service department. 
-  * Information we receive from our affiliates, and from third parties, such as credit reference agencies, consumer reporting agencies and other lenders, regarding creditworthiness, credit history, and loan repayment history. 
-  * The email addresses of visitors that communicate with CashEuroNetUK via email. 
-  * To ensure that we are providing materials of interest to you, we may monitor whether you have clicked on the images and/or links therein. Our email communications may include HTML-based email messages, which includes a coded sensor that is activated when the email message is opened. This sensor communicates to us the date and time the message was opened and, more importantly, whether your computer is capable of receiving HTML-based email. You will receive a functioning sensor only if your computer is enabled to accept HTML email. 
+You are free to browse the Website without providing any personal data (although, please see the "Cookies" section below). We use your personal data to provide you with an accurate, customised loan contract. Without this data, we may not be able to offer you a loan. Once you submit an application on our website, we gather data from credit reference agencies and other vendors to confirm identity, check for fraud and evaluate creditworthiness.
 
+In certain circumstances, we may request bank statements as part of the loan decision process. If you choose to log onto your bank account as part of this application process, we will be provided with 60 days of transactions from your bank.
 
+We may also receive your information from third party credit brokers. As part of your application through any of our partners, you should be informed which companies your data will be shared with.
 
-**How We Use and Disclose Personal Data**
+CashEuroNet UK, LLC uses automated decision making as part of our fraud prevention and underwriting process. This process takes into account customer stated data such as income, expenses, employment information (e.g., information you provide us on your application) as well as 3rd party data such as credit reference data or published national household income and expense averages to judge creditworthiness of an applicant and the affordability of the requested loan. Such automation ensures that each customer is treated consistently and is evaluated objectively, and allows us to make fair and responsible lending decisions. For more information about your rights as it relates to automated processing, please see the section on Objection to Automated Decision Making, below.
 
-We use your Personal Data to process your loan transaction such as verifying your identity and credit standing to enable us to consider and process your application, to assess your credit history and the validity of your debit card details by processing one or more test transactions which shall not result in any money being taken from your account and will not affect your credit history, confirm your employment details, enhance your experience of our Website and of our services, and (as described in the next section below) to transmit marketing communications. We may also use your Personal Data for such purposes as processing payments, updating and maintaining our records, of your dealings and relationship with us, conducting statistical analysis and for editorial or feedback purposes for our advertisers. 
+**What personal data we use and why**
 
-We may store and use your Personal Data for our own business or operational purposes, for example to ensure that we do not collect inaccurate or duplicate information about you. We may also process your Personal Data for the purposes of complying with legal obligations. 
+The basis on which we process your data will depend on the category of data and the purpose for which the processing is necessary. We process your data in accordance with applicable privacy laws, and as follows:
 
-When you provide your Personal Data to us, you are consenting to sharing it with our agents and other parties as further described herein: 
+Data Category | Purpose | Legal Basis  
+---|---|---  
+Website Browsing Data (e.g. Cookies) | Improving site functionality, Marketing, Account Security | Consent, legitimate business interests, entering into or performance of a contract, compliance with a legal obligation  
+Application Data (including information you provide us and information we gather from Credit Reference Agencies, and information you provide to third party websites commonly called “credit brokers”) | Verifying & evaluating applicants’ creditworthiness, fraud prevention and identity verification, servicing the contract, creating underwriting & affordability models, marketing to existing customers, storing data in accordance with our retention policy for legal or compliance claims/requests | Entering into or performance of a contract, legitimate business interests, compliance with a legal obligation  
+Loan History/ Payment Data | Servicing the contract, creating underwriting & affordability models, storing data in accordance with our retention policy for legal or compliance claims/requests | Entering into or performance of a contract, legitimate business interests, compliance with a legal obligation  
+Communication History | Servicing the contract, storing data up to retention policy for legal or compliance claims/requests | Entering into or performance of a contract, compliance with a legal obligation  
+  
+More specifically, “legitimate business interests” includes, but is not limited to the following:
 
-  * Service Providers: We contract with service providers to perform certain functions on our behalf. Examples include database providers who assist in identity verification, magazine publishers, retailers, direct marketers, and site analysis providers such as ClickTale (for further details of ClickTale please see above). Their access is limited only to the Personal Data needed to perform the functions carried out on our behalf as our agent, and only for the purpose of performing those functions, and they are prohibited from using or disclosing the Personal Data for other purposes. 
-  * Credit Reference Agencies: We use credit reference agencies (CRAs) to assess your application for credit and verify your identity to prevent crime and money laundering. We may also, make periodic searches at CRA’s in order to refresh our records and manage your account with us. Information on applications will be sent to CRAs and will be recorded by them. When CRAs receive a search from us they will place a search footprint on your credit file that may be seen by other lenders. They supply to us both public (including the electoral register) and shared credit and fraud prevention information. Where you borrow from us, we will give details of your account(s) and how you manage it/them to CRAs. If you borrow and do not repay in full and on time, CRA’s will record the outstanding debt. This information may be supplied to other organisations by CRAs to perform similar checks and to trace your whereabouts and recover debts that you owe. Records remain on file for 6 years after they are closed, whether settled by you or defaulted. You can contact the CRAs currently operating in the UK; the information they hold may not be the same so it is worth contacting them all. They will charge you a small statutory fee for the provision of information. 
-
-
-
-o CallCredit, Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 0601414 
-
-o Equifax PLC, Credit File Advice Centre, PO Box 3001, Bradford, BD1 5US or call 0870 010 0583 or log on to [www.myequifax.co.uk](http://www.myequifax.co.uk/)
-
-o Experian, Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0844 4818000 or log on to [www.experian.co.uk](http://www.experian.co.uk/). 
-
-  * Fraud Prevention: If false or inaccurate information is provided, including in relation to a person's identity and fraud is suspected or identified, details about this information, including customer Personal Data, will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent and detect crime, fraud and money laundering, for example when: checking details on applications for credit and credit related and other facilities; managing credit and credit related accounts or other facilities; recovering debt; checking details on proposals and claims for all types of insurance; and checking details of job applicants and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. For further details of the relevant fraud prevention agencies please contact us as described at the end of this Privacy Policy. 
-  * Other Disclosures: In accordance with our customary practices and those in our industry, we disclose information about you, your transactions with us, and how you manage your borrowing to our affiliates and to credit reference agencies. If necessary in connection with the sale or transfer of the loans or all or part of the business, we disclose relevant Personal Data to third party purchasers or transferees. We also release Personal Data if it becomes necessary for compliance with law or to protect the rights, property, or safety of our Website, our users, or third parties. We reserve the right to release such Personal Data to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law. 
-  * With Your Consent: Other than as set out above, you will receive notice when Personal Data about you may be shared with third parties not described above, and you will have an opportunity to choose not to share the Personal Data. 
+  * To make lending decisions should you apply for a loan with us in the near future:
+  *     * We utilise customers’ personal data, including information concerning fraudulent activity, loan performance, current loan status, and conversion history in order to make lending decisions.
+  * To create, improve and monitor our products and services
+  *     * To build loan affordability, credit and fraud models in order to fulfil our obligation as a responsible member of the credit community
+    * To monitor business performance including website functionality, product performance, or aggregate trends
+  * To send you marketing information about similar products or services
+  * To comply with our legal obligations where we do business outside of the UK (for example, compliance with US anti-bribery/money laundering, securities and other laws, as applicable).
 
 
 
-If you have any questions or concerns about the sharing of your Personal Data as described above, please contact us as described at the end of this Privacy Policy. Depending on the nature of your request, you may have the opportunity to opt-out of these sharing practices in limited circumstances. In addition, we reserve the right to use and disclose all information that is not in individually identifiable form as we deem appropriate in our sole discretion. 
+**Where we have your consent**
 
-Subject to certain exceptions, you have the right of access to your personal records and information that we hold about you, upon written request and payment of a charge of up to £10. You will need to make a separate request and pay a separate fee for each company within our group of affiliated companies whose records you wish to access. 
+You have the right to withdraw consent previously given to us at any time. If you withdraw your consent this will not impact the legality of our prior processing of your personal data. For more information, contact us at [GDPR@quickquid.co.uk](mailto:GDPR@quickquid.co.uk).
 
-**Marketing and Opt-Out Rights**
+**Who we share your data with**
 
-By submitting Personal Data on our Website, you understand and agree that we may use your Personal Data, including the phone number, email address, or postal address you provide to us to contact you by post, telephone, email or SMS (Short Message Service) i.e., text message to assist you with your loan or to discuss other products and services that we may provide. If you have opted-in to receive marketing communications via our application, we will allow you to opt-out of the use of your Personal Data for marketing purposes by us at any time by one of the following methods: 
+In order to provide you with your requested service, we generally will share Personal Data for four primary purposes:
 
-  * Via email: Click the "Unsubscribe" link in any email communication and submit your email address on the next screen. 
-  * Via the web: Update your contact preferences in your customer account at [www.quickquid.co.uk](http://www.quickquid.co.uk/). 
+  1. with service providers, to process your data on our behalf for things like: 
+    * Database storage
+    * Marketing communications
+    * Debt placement
+    * Website analysis
+
+Their access is limited only to the Personal Data needed to perform the functions carried out on our behalf as our processor, and only for the purpose of performing those functions. Service providers are prohibited from using or disclosing your Personal Data for other purposes.
+
+  2. with regulatory, fraud prevention and law enforcement authorities to comply with our obligations under the law; 
+    * If false or inaccurate information is provided, including in relation to a person's identity and fraud is suspected or identified, details about this information, including customer Personal Data, will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information.
+    * We and other organisations may also access and use this information to: prevent and detect crime, fraud and money laundering, for example when: checking details on applications for credit and credit related and other facilities; managing credit and credit related accounts or other facilities; recovering debt; checking details on proposals and claims for all types of insurance; and checking details of job applicants and employees.
+    * We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. For further details of the relevant fraud prevention agencies please contact us as described at the end of this Privacy Policy.
+  3. with credit reference agencies and other vendors to assess creditworthiness, verify your identity and report back on loan performance 
+    * We use credit reference agencies (CRAs) to assess your application for credit and verify your identity to prevent crime and money laundering.
+    * We also use other vendors for purposes of verifying your identity and preventing fraud.
+    * We may also, make periodic searches at CRA’s in order to refresh our records and manage your account with us. Information on applications will be sent to CRAs and will be recorded by them.
+    * When CRAs receive a search from us they will place a search footprint on your credit file that may be seen by other lenders. They supply to us both public (including the electoral register) and shared credit and fraud prevention information.
+    * Where you borrow from us, we will give details of your account(s) and how you manage it/them to CRAs. If you borrow and do not repay in full and on time, CRA’s will record the outstanding debt. This information may be supplied to other organisations by CRAs to perform similar checks and to trace your whereabouts and recover debts that you owe.
+    * Records remain on file for 6 years after they are closed, whether settled by you or defaulted. You can contact the CRAs currently operating in the UK; the information they hold may not be the same so it is worth contacting them all. They may charge you a small statutory fee for the provision of information.
+    *       * CallCredit, Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 0601414
+      * Equifax PLC, Credit File Advice Centre, PO Box 3001, Bradford, BD1 5US or call 0870 010 0583 or log on to [www.myequifax.co.uk](https://www.myequifax.co.uk/)
+      * Experian, Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0844 4818000 or log on to [www.experian.co.uk](https://www.experian.co.uk/)
+
+The Credit Reference Agencies have jointly drafted a Credit Reference Agency Information Notice (“CRAIN”) which provides detailed information about how CRA’s use and share data they receive about you. You may view the CRAIN by clicking [here](https://www.callcredit.co.uk/crain):
+
+  4. to provide to debt purchasers for the purposes of the collection of an outstanding loan 
+    * We may use third party firms in connection with the sale or placement of the loans that have not been fully repaid, or in a sale of all or part of the business.
+
+Other than as set out above, you will receive notice when Personal Data about you may be shared with third parties not described above, and you will have an opportunity prior to such sharing to choose not to allow us to share the Personal Data if your consent is required for us to do so.
 
 
 
-If you opt-out of our use of your Personal Data for marketing purposes, we will honour such choice once we have had a reasonable opportunity to process your request. We reserve the right to take reasonable steps to authenticate your identity with respect to any such request or other inquiry. We will only transfer your Personal Data to 3rdparties for marketing purposes with your express opt-in consent to do so. 
+
+**Data Subject Rights**
+
+You have the following rights as a data subject as it relates to our processing of your Personal Data.
+
+ **Access**
+
+You have the right to access your personal records and information that we hold about you. For access to information provided by you or generated by your activities you may log into your account and choose to download this data. This information will be downloaded in a secure format and be available shortly after download. For a more complete list of data held about you including data obtained from third parties, please email [GDPR@quickquid.co.uk](mailto:GDPR@quickquid.co.uk) with your request. Please note that this request may take up to 30 days to complete. In limited instances, certain data may not be provided upon request if that personal data concerns other individuals or if providing it would result in a release of information covered by our trade secrets or intellectual property rights.
+
+ **Portability**
+
+You have the right to access and download (port) your personal records and information. This information is limited to information you have provided to us and certain information generated by your activities with us. To request your data be ported, you may log into your account and choose to download and send this data. This information will be downloaded in a secure format and be available shortly after download. In limited instances, certain data may not be ported upon request if that personal data concerns other individuals or if porting would result in a release of information covered by our trade secrets or intellectual property rights.
+
+ **Rectification**
+
+You have the right to update any outdated or inaccurate data held about you, and to complete any incomplete data held by us. You may update personal details, banking information and employment data by logging into your account or by calling 0800 056 1515.
+
+ **Objection to Processing**
+
+You have the right to object to processing where processing is based solely on our legitimate business interests.
+
+If you are currently receiving marketing communications, you are able to change your preferences at any time by one of the following methods:
+
+  * Via email: Click the "Unsubscribe" link in any email communication and submit your email address on the next screen.
+  * Via the web: Update your contact preferences in your account.
+  * Via SMS: By following the unsubscribe link in your SMS communication.
+
+
+
+If you object to our processing based on our legitimate business interests, please note that the processing shall cease only where your rights outweigh our compelling legitimate grounds for processing. You may request this right by emailing [GDPR@quickquid.co.uk](mailto:GDPR@quickquid.co.uk).
+
+ **Objection to Automated Decision Making**
+
+As noted above, we use automated decision making as part of our fraud prevention, identity verification and underwriting process. You may: request our team manually evaluate your loan application; provide your opinion; or, contest the decision made by this automated processing. You also have the right to object to the automated processing for direct marketing purposes. For automated processing requests, please contact us at [Privacy@quickquid.co.uk](mailto:Privacy@quickquid.co.uk).
+
+ **Erasure**
+
+We will delete or anonymise data when, in accordance with our Data Retention Policy, we no longer need to process it. If we anonymise data, we may continue to use it (in anonymised form) beyond periods specified in our Data Retention Policy. You have the right to request us to delete your data sooner for a number of different reasons, for instance, if it was unlawfully processed and you may do so by sending your request to [GDPR@quickquid.co.uk](mailto:GDPR@quickquid.co.uk). We will review your request and respond within one month.
+
+ **Restriction of Processing**
+
+You have the right to request us to limit the use your data for a number of reasons, including if you have requested we correct data about you, you have objected to our use of your data, and if you believe your data was processed unlawfully, or if you need us continue to store your data for legal reasons related to you. Please note that in the event you request restriction, we will continue to store it according to our Data Retention Policy. If you would like to request restriction please email [GDPR@quickquid.co.uk](mailto:GDPR@quickquid.co.uk).
+
+You also have the right to lodge a complaint with the data protection supervisory authority, the Information Commissioner’s Office (“ICO”). ICO may be reached by visiting [https://ico.org.uk](https://ico.org.uk/).
+
+If you have specific concerns about your rights as they pertain to our processing of your Personal Data, you may contact us at [GDPR@quickquid.co.uk](mailto:GDPR@quickquid.co.uk).
 
 **Cookies**
 
-We receive and store certain types of information whenever you interact with our Website. For example, like many websites, we use "cookies" to obtain certain types of information when your Web browser accesses our Website and when you login, such as: your name and your email address. Cookies are pieces of information that are transferred to your computer's hard drive via your Web browser. They allow us to provide you with a more convenient and personalised experience by recording information about your preferences. 
+We receive and store certain types of information whenever you interact with our Website. For example, like many websites, we use "cookies" to obtain certain types of information when your Web browser accesses our Website and when you login, such as: your name and your email address. Cookies are pieces of information that are transferred to your computer's hard drive via your Web browser. They allow us to provide you with a more convenient and personalised experience by recording information about your preferences.
 
-A web browser is usually set to accept cookies automatically but can be changed to decline them. The Help section of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. In most cases, a visitor may refuse a cookie and still fully navigate our Website. 
-
-We do not store passwords or any other information about a visitor in a cookie that could identify them, their location, their preferences or their financial activity. 
-
-We use aggregated customer information to help us understand how our website is performing commercially and what we can do to improve performance. We may provide this information to other companies, such as third party advertisers. This information does NOT include any personal details that can be used to identify individuals. 
-
-If you do not want to receive cookies from us, please follow the procedures below. These procedures do not apply to cookies sent by our business partners. 
-
-**Cookies Used by QuickQuid**
-
-  * Security Cookies – Session cookies used to support security measures within the site. 
-  * Yield Manager – This is a tracking pixel that records traffic coming from 3rd party sources. 
-  * QuickQuid – Contains a session cookie recognizing applicant to process loan application through completion 
-  * Iovation – Contains a cookie to identify applicants electronic device 
-  * DoubleClick – This is a tracking pixel that records traffic coming from 3rd party sources. 
-  * Google Analytics – Web analytics tracking 
-  * Google Adwords – Conversion tracking 
-  * AdRoll – Marketing analytics 
-  * Commission Junction – Marketing analytics 
-  * Adobe Analytics – Web analytics tracking 
-  * Crazy Egg – Web analytics tracking 
-  * Optimizely – Marketing analytics 
-  * [24]7 – A tracking pixel used to track web session for customer service web chat 
-
-
-
-**How to Find and Control Your Cookies**
-
-If you're using Internet Explorer 6.0 or 7.0: 
-
-1\. Choose Tools, then: 
-
-2\. Internet Options 
-
-3\. Click the Privacy tab 
-
-4\. Click on the 'Advanced' button 
-
-5\. Check the 'Override automatic cookie handing' box and select Accept, Block or Prompt for action as appropriate. 
-
-If you're using Mozilla Firefox: 
-
-1\. Choose Tools, then: 
-
-2\. Options... 
-
-3\. Privacy 
-
-4\. Cookies 
-
-5\. Set your options as required. 
-
-If you're using Opera 8+: 
-
-1\. Choose Tools, then 
-
-2\. Preferences 
-
-3\. Advanced 
-
-4\. Select Cookies 
-
-5\. Select your settings using the available options. 
-
-If you're using Safari: 
-
-1\. Choose Safari, then 
-
-2\. Preferences 
-
-3\. Security 
-
-4\. Select options by Accept Cookies as required. 
-
-If you're using Google Chrome: 
-
-1\. Choose Chrome, then 
-
-2\. Preferences 
-
-3\. Under the Hood 
-
-4\. Content Settings 
-
-5\. Set your options within the Cookies section. 
-
-**How do you know which of the sites you've visited use cookies?**
-
-If you're using Internet Explorer: 
-
-1\. Choose Tools, then 
-
-2\. Internet Options 
-
-3\. Click the General tab 
-
-4\. Click Settings 
-
-5\. View Files 
-
-If you're using Mozilla Firefox: 
-
-1\. Choose Tools, then 
-
-2\. Options... 
-
-3\. Privacy 
-
-4\. Cookies 
-
-5\. Click the Show Cookies button. 
-
-If you're using Opera 8+: 
-
-1\. Choose Tools, then 
-
-2\. Advanced 
-
-3\. Click Cookies. 
-
-If you're using Safari: 
-
-1\. Choose Safari, then 
-
-2\. Preferences 
-
-3\. Security 
-
-4\. Click Show Cookies button. 
-
-**How to See Your Cookie Code**
-
-1\. Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie. 
+For information on what cookies we use and how to disable them, please visit our cookie policy found [here](https://web.archive.org/cookies.html).
 
 **How We Protect the Security of Your Personal Data**
 
-We maintain reasonable measures to protect the security and confidentiality of your Personal Data, and strive to keep it accurate, and only for as long as is necessary. Some of the specific security measures we maintain include: 
+We receive and store certain types of information whenever you interact with our Website. For example, like many websites, we use "cookies" to obtain certain types of information when your Web browser accesses our Website and when you login, such as: your name and your email address. Cookies are pieces of information that are transferred to your computer's hard drive via your Web browser. They allow us to provide you with a more convenient and personalised experience by recording information about your preferences.
 
-  * We work to protect the security of your Personal Data during transmission by using Secure Sockets Layer (SSL) software, which encrypts Personal Data you input. 
-  * We store Personal Data in a restricted access format. 
-  * We transmit Personal Data in an encrypted format 
-  * Our networks are secured with certified firewalls in a multi-layered fashion with redundancy. 
-  * Our network related equipments (e.g., firewalls, routers, switches, etc) are secured with a password, and access is limited to authorized network engineers. 
-  * We restrict the access of customer service support staff so that certain Personal Data cannot be viewed (e.g. full bank account Personal Data is not revealed, but only a partial number of digits to allow verification). 
-  * It is important for you to protect against unauthorised access to your User ID and to your computer. Be sure to sign off when finished using a shared computer. 
+  * We work to protect the security of your Personal Data during transmission by using Secure Sockets Layer (SSL) software, which encrypts Personal Data you input.
+  * We store Personal Data in a restricted access format.
+  * We transmit Personal Data in an encrypted format.
+  * Our networks are secured with certified firewalls in a multi-layered fashion with back-up systems in place.
+  * Our network related equipments (e.g., firewalls, routers, switches, etc) are secured with a password, and access is limited to authorised network engineers.
+  * We restrict the access of customer service support staff so that certain Personal Data cannot be viewed (e.g. full bank account number is not revealed, but only a partial number of digits to allow verification).
+  * It is important for you to protect against unauthorised access to your User ID and to your computer. Be sure to sign off when finished, especially if using a shared computer.
 
 
 
 **How Long Do We Keep Your Information?**
 
-  * We will keep the information that is necessary to enable us to provide you with a service that you have requested through this website for as long as it takes us to provide that service. 
-  * If you have asked that we do not use your details for marketing purposes, we may still need to keep them to ensure our systems reflect your preferences. 
-  * We will generally keep records of any transactions you enter into on this website for a minimum of six years from the end of the relationship. 
-  * We will keep other information about you if it is necessary for us to do so to comply with the law, or where appropriate for legitimate business needs. 
+We will only keep the information that is necessary to enable us to provide you with a service that you have requested through this website for as long as it takes us to provide that service and as otherwise described below:
+
+  * If you have asked that we do not use your details for marketing purposes, we may still need to keep them to ensure our systems reflect your preferences.
+  * We will keep other information about you where it is necessary for us to do so to comply with the law, for the defence and/or establishment of legal claims, or where appropriate for legitimate business needs for up to ten years from the end of the relationship.
+  * Where data is no longer necessary for the above mentioned purposes, we will delete it sooner than ten years, for instance records to payment instruments and communication data.
 
 
-
-**You May Access your Personal Data About Your Accounts**
-
-We believe that you should have the ability to review and update your account Personal Data. We give you access to Personal Data about your account and your interactions with us for the purpose of viewing and updating that Personal Data. Account Personal Data can be accessed and updated by you at your password-protected access portal at [www.quickquid.co.uk](http://www.quickquid.co.uk/). 
-
-For information about your rights to access other Personal Data that we hold, please contact us at the address or phone number below. 
 
 **Children**
 
-We do not seek or knowingly collect any Personal Data about children under 18 years of age. 
+We do not seek or knowingly collect any Personal Data about children under 18 years of age.
 
-**How to Find Out More**
+**Revisions**
 
-This is a condensed version and if you would like to read the full details of how your data may be used please visit email us at support@quickquid.co.uk and request the Full Data Protection guide. 
+We may change this Privacy Policy by notifying you of the existence and location of the new or revised privacy policy and by posting the changes online at our Website.
 
-**Conditions of Use and Revisions**
+Privacy Policy last amended 10 May 2018.
 
-If you choose to visit our Website, your visit and any dispute over privacy is subject to this Privacy Policy. 
+For further questions on your rights, how we process data, or what measures we take to secure your data, please email [GDPR@quickquid.co.uk](mailto:GDPR@quickquid.co.uk).
 
-If you have any concern about privacy or have any questions or comments, please send them to: 
-
-QuickQuid 
-
-PO Box 74347 
-
-London 
-
-EC1P 1YZ 
-
-We reserve the right to change this Privacy Policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our Website. 
-
-Privacy Policy last amended 19 February 2016 
+Warning: Late repayment can cause you serious money problems. For help, go to [moneyadviceservice.org.uk.](http://www.moneyadviceservice.org.uk/)   
+**Representative Example: Amount of credit: £300 for 65 days with one repayment of £78.00 and one repayment of £378.00. Total repayment: £456.00. Interest: £156.00. Interest rate: 292% pa (fixed). 1294.1% APR Representative.**
