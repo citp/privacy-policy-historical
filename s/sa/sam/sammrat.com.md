@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sammrat.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116112618id_/http%3A//www.sammrat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammrat.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115235935id_/http%3A//www.sammrat.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Sammrat
 
@@ -69,6 +69,6 @@ From time-to-time our site may request information from users via surveys or con
 
 By using our Web site, you consent to the collection and use of information by Sammrat.com as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-Copyright 2009-2018 Sammrat Ventures.
+Copyright 2009-2019 Sammrat Ventures.
 
 All Rights Reserved. Privacy Policy.
