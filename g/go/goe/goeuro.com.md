@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goeuro.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012143448id_/https%3A//www.goeuro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goeuro.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115180115id_/https%3A//www.goeuro.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | GoEuro
+# Privacy Policy | GoEuro
 
 The operator of the GoEuro websites and mobile apps as well as the “controller” in terms of the data protection legislation is the GoEuro Corp., registered in Delaware, USA, under No. 4973690. GoEuro Corp. has its operational headquarters at Schönhauser Allee 180, in 10119 Berlin. You can contact us at info@goeuro.com and our data protection officer at privacy@goeuro.com.
 
@@ -69,18 +69,6 @@ A retargeting tag is the name for a JavaScript element that is placed in our web
 
 We use the following retargeting providers: 
 
-Provider | Contact | Further information  
----|---|---  
-Facebook Retargeting | Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA | Your IP address and the pages visited on the GoEuro website will be transferred to Facebook. You can find additional information regarding data processing by Facebook and your rights and options with regard to protecting your personal data here:   
-<http://de-de.facebook.com/about/privacy/>  
-If you want to prevent Facebook from relating the information gathered to your Facebook account, you can disable the retargeting functionality here:  
-<https://www.facebook.com/settings/?tab=ads> This requires a Facebook account. Facebook is subject to the EU-US Privacy Shield, <https://www.privacyshield.gov/EU-US-Framework>  
-Google Remarketing (DoubleClick) | Google LLC, 1600 Amphitheater Parkway, Mountainview, California 94043, USA | You can deactivate the use of cookies by Google and the retargeting by using “Google Ad Preferences”:  
-<http://www.google.com/ads/preferences/>  
-You can find additional information about data processing by Google here: <https://www.google.com/intl/en/policies/technologies/ads/> and <https://policies.google.com/privacy/partners> Google is subject to the EU-US Privacy Shield, <https://www.privacyshield.gov/EU-US-Framework>.  
-Quantcast | Quantcast Corp., 795 Folsom Street, San Francisco, CA 94107 | You can deactivate the use of cookies by Quantcast and retargeting by following the steps described at <https://www.quantcast.com/opt-out/> You can find additional information about data processing by Quantcast here: <https://www.quantcast.com/privacy/>  
-Microsoft Bing Ads | Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA) | You can find additional information about data processing by Microsoft and the use of cookies here: <https://privacy.microsoft.com/de-de/privacystatement>  
-  
 To learn more about this type of targeted advertising and your options for preventing it, follow this link: [youronlinechoices.com](http://www.youronlinechoices.com/)
 
 You can object to usage-based online advertising by all or some providers on the same website. To access the preferences manager, click here: <http://www.youronlinechoices.com/de/praferenzmanagement>
@@ -101,19 +89,6 @@ Due to the conversion tracking tools your browser automatically connects to the 
 
 We use conversion tracking with the following advertising partners:
 
-Provider | Contact | Further information  
----|---|---  
-Google Adwords | Google Inc., 1600 Amphitheater Parkway, Mountainview, California 94043, USA | You can find additional information about data processing by Google here: <http://www.google.com/intl/de/policies/privacy> and <https://services.google.com/sitestats/de.html>. Alternatively you can visit the website of the Network Advertising Initiative (NAI) at [http://www.networkadvertising.org](http://www.networkadvertising.org/). Google is subject to the EU-US Privacy Shield, <https://www.privacyshield.gov/EU-US-Framework>. You can deactivate the use of cookies by Google and conversion tracking by using “Google Ad Preferences”: <http://www.google.com/ads/preferences/> or by deactivating Google cookies in your browser at <http://www.google.com/settings/ads/plugin>  
-Facebook | Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA | You can find additional information regarding data processing by Facebook and your rights and options with regard to protecting your personal data here: <http://de-de.facebook.com/about/privacy/> If you want to prevent Facebook from relating the information gathered to your Facebook account, you can disable the functionality here: <https://www.facebook.com/settings/?tab=ads> This requires a Facebook account. Facebook is subject to the EU-US Privacy Shield, <https://www.privacyshield.gov/EU-US-Framework>  
-Microsoft Bing Ads | Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA) | You can find additional information about data processing by Microsoft and the use of cookies here: <https://privacy.microsoft.com/de-de/privacystatement>  
-Quantcast | Quantcast Corp., 795 Folsom Street, San Francisco, CA 94107  | You can deactivate the use of cookies by Quantcast and retargeting by following the steps described at <https://www.quantcast.com/opt-out/> You can find additional information about data processing by Quantcast here: <https://www.quantcast.com/privacy/>  
-Yandex.Metrica | Yandex, Ulitsa Lva Tolstogo 16, Moscow, Russia 119021  | You can deactivate the use of cookies by YandexMetrica and retargeting by following the steps described at <https://yandex.com/support/metrica/general/opt-out.html> You can find additional information about data processing by Quantcast here: <https://metrica.yandex.com/about/info/gdpr>  
-Impact Radius | Impact Radius inc. 10E, Figeroa St., Santa Barbara, CA 93101, USA  | You can find additional information about the data processing by Impact Radius and the use of cookies here: <https://impact.com/privacy-policy/>  
-Conversant Europe  | Conversant Europe Ltd. 40 Dukes Place, London EC3A 7NH, UK  | You can find additional information about the data processing by Conversant Europe and the use of cookies here: <https://www.conversantmedia.com/legal/privacy>  
-AWIN  | AWIN AG Eichhornstrasse 3, 10785 Berlin, Germany  | You can find additional information about the data processing by AWIN and the use of cookies here: <https://www.awin.com/gb/legal/privacy-policy>  
-Admitad | Admitad GmbH 8 Lise-Meitner Strasse, Heilbronn, Germany  | You can find additional information about the data processing by Admitad and the use of cookies here: <https://www.admitad.com/en/privacy/>  
-PepperJam | PepperJam 935 First Avenue King of Prussia, PA 19406  | You can find additional information about the data processing by PepperJam and the use of cookies here: <https://www.pepperjam.com/legal>  
-  
 To learn more about this type of targeted advertising and your options for preventing it, follow this link: [youronlinechoices.com](http://www.youronlinechoices.com/)
 
 You can object to usage-based online advertising by all or some providers on the same website. To access the preferences manager, click here: <http://www.youronlinechoices.com/de/praferenzmanagement>
@@ -145,12 +120,6 @@ Google is subject to the EU-US Privacy Shield, <https://www.privacyshield.gov/EU
 
 Our website uses what are referred to as social plugins by the following social media providers:
 
-Provider | Contact | Additional information  
----|---|---  
-Facebook | Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA | <http://de-de.facebook.com/about/privacy/> Additional information: <http://www.facebook.com/about/privacy/your-info-on-other#applications> and <http://www.facebook.com/about/privacy/your-info#everyoneinfo>. Facebook is subject to the EU-US Privacy Shield, <https://www.privacyshield.gov/EU-US-Framework>  
-Twitter | Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA | <https://twitter.com/privacy> Twitter is subject to the EU-US Privacy Shield, <https://www.privacyshield.gov/EU-US-Framework>  
-Google+ | Google Inc., 1600 Amphitheater Parkway, Mountainview, California 94043, USA | <https://www.google.com/policies/privacy/partners/?hl=de> Google is subject to the EU-US Privacy Shield, <https://www.privacyshield.gov/EU-US-Framework>  
-  
 We use the so-called 2-click solution. If you visit our website, no personal data is transferred to the plugin provider. You can recognize the plugin provider by the label or logo on the button. We permit you to communicate directly with the plugin provider via the button.
 
 Only if you click the button and activate the plugin, the plugin provider receives the information that you have visited the respective page of our website. In addition, the information mentioned under Sec. 1 above is transferred by your browser to the plugin provider. If you have an account with the plugin provider, and are logged in, the provider may relate your visit to our website and your additional interaction with the social plugin (e.g. clicking on the “Like” button) to your user account (e.g. your Facebook account).
