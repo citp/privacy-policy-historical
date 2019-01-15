@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rodanandfields.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311151158id_/https%3A//www.rodanandfields.com/Pages/Company/About/More/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodanandfields.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115025702id_/https%3A//www.rodanandfields.com/Pages/Company/About/More/Privacy) for the most accurate reproduction.*
 
-# Rodan + Fields
+# Our Privacy Policy | Rodan + Fields®
 
 Rodan & Fields, LLC, including all its subsidiaries and affiliates, ("Rodan + Fields," "we," "our," and "us") is concerned about privacy issues and wants you to be familiar with how we collect, use, disclose, share and protect your personal information. 
 
