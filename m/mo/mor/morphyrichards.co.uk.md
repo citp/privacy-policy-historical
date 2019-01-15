@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901085753id_/https%3A//www.morphyrichards.co.uk/support/morphy-richards-support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115124025id_/https%3A//www.morphyrichards.co.uk/support/morphy-richards-support/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
-Updated: 21st August 2018
+Updated: 23rd October 2018
 
 At Morphy Richards we believe that your personal data is very important and we are committed to protecting and respecting your privacy. 
 
@@ -100,6 +100,7 @@ In order to perform our contact with you, we may also need to share personal dat
   * **Emarsys** To send email marketing when explicit consent is given 
   * **Emarsys** To store product registration data
   * **Red Technology** To manage all website services including sales and product registration
+  * **VE Global** To advertise relevant products to you. (please see more in our marketing section).
 
 
 
@@ -180,7 +181,21 @@ You have the right to opt-out of receiving the information detailed in the secti
 
 Where you have subscribed to receive marketing correspondence from us we will keep personal data for 5 years after the expiration of the guarantee date of your last registered product.
 
-We do not share with or sell your data to 3rd parties. 
+We do not share with or sell your email address to 3rd parties. 
+
+Bazaarvoice (our review collecting partners) will collect data for use in interest-based advertising and personalisation
+
+We also use a company called VE Global to serve adverts online based on items you have viewed on our website. This is done by dropping a cookie onto your computer
+
+The data VE Global may collect from you is
+
+  * data relating to your browsing activity through the use of cookies, web beacons and pixel tags and similar technologies (“Tags”) deployed on Our Site or emails sent by us to you, (“Behavioural Data”), including:  
+IP (internet protocol) address; referring site URL (website address) where your session started, and details about your device, including type (e.g. mobile or tablet), brand, model, operating system name and version, browser name, version, language and protocol, and other unique numbers assigned to a device (e.g. IDFA on iPhone, Google adID on Android); 
+  * details about the pages and activities (e.g. products viewed or purchased, including details of purchases made and the time and duration of visits to pages of the Client’s Site), page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page using your IP address, your approximate geolocation (e.g. postcode);
+
+
+
+You can opt out or both Bazaarvoice and VE Global advertising but going to <https://youradchoices.com/>
 
 We may monitor and record communications with you (such as telephone communications and emails) for the purpose of quality assurance and training. As of the 1st May 2018 we will retain these recordings for 2 years. We also have CCTV cameras installed in our premises for the purpose of crime prevention and for health and safety reasons. We retain such information for 30 days, however if an incident occurs the footage will be kept for 3 years from the date of the incident.
 
