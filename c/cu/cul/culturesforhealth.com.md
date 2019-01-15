@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culturesforhealth.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928062125id_/https%3A//www.culturesforhealth.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturesforhealth.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115120534id_/https%3A//www.culturesforhealth.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Cultures for Health Privacy Policy | Customer Privacy
 
