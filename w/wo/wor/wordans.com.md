@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordans.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826074344id_/https%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordans.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115025135id_/https%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.*
 
-# Best Price Guarantee | Wholesale blank apparel | Wordans USA
+# Privacy Policy
 
 ##  Wordans.com ("Wordans") is committed to protecting your online privacy
 
