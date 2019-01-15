@@ -1,119 +1,275 @@
-> *The following text is extracted and transformed from the fuzemeeting.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905212436id_/https%3A//www.fuze.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzemeeting.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115014554id_/https%3A//www.fuze.com/fuze-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fuze.com
+# Fuze Privacy Policy I Fuze
 
-Welcome to Fuze, the website and mobile service of FuzeBox Software Corporation ("FuzeBox," "we", or "us"). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
+Effective as of 21 May 2018.
 
-Last modified on: August 15, 2014
+This “Privacy Policy” describes the privacy practices of Fuze, Inc. and our subsidiaries and affiliates (collectively, “Fuze”, “we”, “us”, or “our”). This Privacy Policy describes how we collect, use, disclose and otherwise process personal information in connection with our websites, mobile apps, and other services, and explains the rights and choices available to individuals with respect to their information. For convenience, our websites are referred to as the “Sites.” The Sites, together with our mobile apps and other services, are collectively referred to as the “Services.” This Privacy Policy applies to any of the Services on which the Privacy Policy is posted or linked. 
 
-Click on the links below to jump to each section:
+Individuals located in the European Economic Area should be sure to read the important information provided here. 
 
-  1. How We Collect and Use Information
-  2. Sharing of Your Information
-  3. How We Store and Protect Your Information
-  4. Your Choices about Your Information
-  5. Children’s Privacy
-  6. Links to Other Web Sites and Services
-  7. California Disclosures
-  8. Disputes
-  9. Safe Harbor
-  10. How to Contact Us
-  11. Changes to Our Privacy Policy
+## Fuze’s Platform, Applications, and Customer Data
+
+Fuze provides enterprise global voice, video, messaging, and collaboration software and applications that our customers use to communicate more effectively and efficiently (collectively, the “Fuze Platform”). This Privacy Policy does not apply to information processed during use of the Fuze Platform. Fuze customers have their own policies regarding the collection, use and disclosure of their authorized users’ personal information, and Fuze is not responsible for our customers’ handling of such information. Our use of information processed during use of the Fuze Platform is restricted by our customer agreements. To learn about how a particular customer handles your personal information, we encourage you to read the customer’s privacy statement or contact the customer directly. 
+
+## Personal Information We Collect
+
+We collect personal information about you in the following ways: 
+
+**Information you give us**
+
+Personal information that you may provide through the Services or otherwise communicate with us includes: 
+
+  * **Personal and business contact information,** such as your first name, last name, postal address, email address, telephone number, and company name; 
+  * **Registration information,** such as your username and password;
+  * **Feedback and correspondence,** such as information you provide in your responses to surveys and when you participate in market research activities, report a problem with the Sites, receive customer support or otherwise correspond with us; 
+  * **Usage information,** such as information about how you use the Sites and interact with us; 
+  * **Marketing information,** such as your preferences for receiving marketing communications and details about how you engage with them; and 
+  * **Resume or CV information,** such as work experience, educational history, salary, and languages spoken. 
 
 
 
-## 1\. How We Collect And Use Information
+We may combine other publicly available information, such as information related to the organization for which you work, with the personal information that you provide to us through the Services. 
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service <https://www.fuze.com/extras/legal>. We collect the following types of information about you:
+| 
 
-**Information you provide us directly:  **We ask for certain information such as your username, first and last name, phone number, company and e-mail address when you register for a FuzeBox account, or if you correspond with us. We may also retain any messages you send through the Service, and may collect information you provide in User Content you post to the Service. We use this information to operate, maintain, and provide to you the features and functionality of the Service. Information we may receive from third parties: We may receive information about you from third parties. For example, if you access our websites or Service through a third-party connection or log-in, for example, through LinkedIn or Facebook Connect, by “following,” “liking,” adding the FuzeBox application, linking your account to the FuzeBox Service, etc., that third party may pass certain information about your use of its service to FuzeBox. This information could include, but is not limited to, the user ID associated with your account (for example, your LinkedIn UID), an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that service. If you allow us access to your colleagues list, your colleagues’ user IDs, and your connection to those colleagues, may be used and stored to make your experience more social, and to allow you to invite your colleagues to use our Service as well as provide you with updates if and when your colleagues join FuzeBox. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the FuzeBox Service. You may also unlink your third party account from the Service by adjusting your settings on the third party service. If you unlink your third party account, we will remove the information collected about you in connection with that service.
+## Information automatically collected
 
-**Inviting a friend to use FuzeBox from the “Invite colleagues” feature:**  If we provide and you choose to use our invitation service to invite a third party to the Service through our “Invite colleagues” feature, you may directly choose a friend to invite through your mobile device’s native contact list – but we do not require that you import your contacts list to the Service, and we do not retain the information contained in your contacts list. You understand that by inviting a friend to FuzeBox through the “Invite colleagues” feature, you are directly sending a text or email from your personal accounts and that we are not storing your contact list. In addition, you understand and agree that normal carrier charges apply to communications sent from your phone. Since this invitation is coming directly from your email or phone, we do not have access to or control this communication.
+We may automatically log information about you and your computer or mobile device when you access our Sites. For example, we may log your computer or mobile device operating system name and version, manufacturer and model, browser type, browser language, screen resolution, information relating to how the Services function, your general geographic location derived through your IP address (e.g., your city, state, or metropolitan region), and the physical location of a device at the time of a crash, the website you visited before browsing to our Sites, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our Sites. We collect this information about you using cookies. Please refer to the Cookies and Similar Technologies section for more details. 
 
-**Finding your colleagues on the Service:**  If we provide and you choose, you can locate your colleagues with FuzeBox accounts through our “Find colleagues” feature. The “Find colleagues” feature allows you to choose to locate colleagues either through (i) your contact list, (ii) social media sites (such as LinkedIn) or (iii) through a search of names and usernames on FuzeBox. If you choose to find your colleagues through your contact list, then you agree to provide FuzeBox access to your contact list such that we can perform the search necessary to determine whether or not someone associated with the information you provide is using FuzeBox. If you choose to find your colleagues through social media sites, then you understand that the information these sites provide to use to conduct this type of search is governed by their privacy policies and your account settings on those sites. If you choose to find your colleagues through a search of names or usernames then simply type a name to search and see if that name or username appears on our Service. Note that we do not retain any information contained in your contacts list, or information from social media sites about your contacts, and we do not use such information for any purpose other than to help you find your colleagues on FuzeBox.
+Our mobile app also includes various location-based features, such as connecting to the nearest Fuze data center to provide the highest quality of service. To provide location-based features, Fuze may collect, use, and disclose information about your general geographic location (e.g., your city, state, or metropolitan region). 
 
-**Analytics information:  **We may directly collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit and other information that assists us in improving the Service. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user.
+**Information from Social Networking Sites.** Our Site includes interfaces that allow you to connect with social networking sites (each a “ **SNS** ”). If you connect to a SNS through our Site you authorise us to access, use and store the information that you agreed the SNS could provide to us based on your settings on that SNS. We will access, use and store that information in accordance with this Notice. You can revoke our access to the information you provide in this way at any time by amending the appropriate settings from within your account settings on the applicable SNS. 
 
-**Cookies information:**  When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets FuzeBox help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us or our business partners to track your usage of the Service over time. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+## Cookies and Similar Technologies 
 
-**Log file information:  **Log file information is automatically reported by your browser or mobile device each time you access the Service. When you use our Service, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information.
+**What are cookies?**
 
-**Clear gifs/web beacons information:**  When you use the Service, we may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service.
+We may collect information using “cookies.” Cookies are small data files stored on the hard drive of your computer or mobile device by a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer or mobile device until you delete them) to provide you with a more personal and interactive experience on our Site. 
 
-**Device identifiers:**  When you access the Service by or through a mobile device (including but not limited to smart-phones or tablets), we may access, collect, monitor and/or remotely store one or more “device identifiers,” such as a universally unique identifier (“UUID”). Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by FuzeBox. A device identifier may convey information to us about how you browse and use the Service. A device identifier may remain persistently on your device, to help you log in faster and enhance your navigation through the Service. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
+We use two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, which we use to recognize your computer or mobile device when it revisits our Site; and (2) third party cookies, which are served by service providers on our Site, and can be used by such service providers to recognise your computer or mobile device when it visits other websites.
 
-**Location data:**  When you access the Service by or through a mobile device, we may access, collect, monitor and/or remotely store “location data,” which may include GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device. Location data may convey to us information about how you browse and use the Service. Some features of the Service, particularly location-based services, may not function properly if use or availability of location data is impaired or disabled.
+**Cookies we use**
 
-**Commercial and marketing communications:**  We use the information we collect or receive to communicate directly with you. We may send you emails containing newsletters, promotions and special offers. If you do not want to receive such email messages, you will be given the option to opt out or change your preferences. We also use your information to send you Service-related emails (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). You may not opt out of Service-related e-mails. You will also be able to be “found” on FuzeBox based on information that you provide (see “Find colleagues on FuzeBox”) above.
+Our Site uses the following types of cookies for the purposes set out below: 
 
-**Use of certain service type information we collect about you:**  We use or may use cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) help you efficiently access your information after you sign in; (g) to provide advertising to your browser or device, and (h) automatically update the FuzeBox application on your mobile devices.
+Type of cookie | Purpose  
+---|---  
+Essential Cookies | These cookies are essential to provide you with services available through our Site and to enable you to use some of its features. Without these cookies, the services that you have asked for cannot be provided, and we only use these cookies to provide you with those services.   
+Functionality Cookies | These cookies allow our Site to remember choices you make when you use our Site. The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-select your preferences every time you visit our Site.   
+Analytics and Performance Cookies | These cookies are used to collect information about traffic to our Site and how users use our Site. The information gathered may include the number of visitors to our Site, the websites that referred them to our Site, the pages they visited on our Site, what time of day they visited our Site, whether they have visited our Site before, and other similar information. We use this information to help operate our Site more efficiently, to gather broad demographic information and to monitor the level of activity on our Site. We use Google Analytics for this purpose. Google Analytics uses its own cookies. It is only used to improve how our Site works. You can find out more information about Google Analytics cookies [here](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies) and about how Google protects your data [here](https://support.google.com/analytics/answer/6004245). You can prevent the use of Google Analytics relating to your use of our Site by downloading and installing the browser plugin available [here](https://tools.google.com/dlpage/gaoptout?hl=en-GB).   
+Targeted and advertising cookies | 
 
-## 2\. Sharing Of Your Information
+These cookies track your browsing habits to enable us to show advertising which is more likely to be of interest to you. These cookies use information about your browsing history to group you with other users who have similar interests. Based on that information, and with our permission, third party advertisers can place cookies to enable them to show advertisements which we think will be relevant to your interests while you are on third party websites. 
 
-We will not rent or sell your information to third parties outside FuzeBox and its group companies (including any parent, subsidiaries and affiliates) without your consent, except as noted below:
+You can disable certain cookies which remember your browsing habits and target advertising at you by visiting: 
 
-**Who we may share your information with:**  We may share your information with third-party business partners for the purpose of providing the Service to you. Those business partners will be given limited access to your information as is reasonably necessary to deliver the Service, and we will require that such third parties comply with this Privacy Policy.
+  * [Network Advertising Initiative (NAI) Consumer Opt-Out Page ](http://optout.networkadvertising.org/?c=1#!/)
+  * [Digital Advertising Alliance (DAA) WebChoices](http://optout.aboutads.info/?c=2#!/)
+  * [Digital Advertising Alliance of Canada (DAAC) Consumer Choice ](http://www.youradchoices.ca/choices)(for Canadian users) 
+  * [European Interactive Digital Advertising Alliance (EDAA) Choice ](http://www.youronlinechoices.eu/)(for EU users) 
 
-**Who you may choose to share your User Content with:**  Any information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings. To change your privacy settings on the Service, please change your profile settings. Subject to your profile and privacy settings, any User Content that you make public is searchable by other Users and subject to use under our FuzeBox API. Any party that uses the FuzeBox API is subject to the API Terms of Service <https://www.fuze.com/extras/legal> which incorporates the terms of this Privacy Policy. If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users have copied or saved that information.
 
-**What happens in the event of a change of control:**  We may buy or sell/divest/transfer FuzeBox (including any shares in the FuzeBox), or any combination of its products, services, assets and/or businesses. Your information such as customer names and email addresses, User Content and other user information related to the Service may be among the items sold or otherwise transferred in these types of transactions. We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of FuzeBox.
 
-**Instances where we are required to share your information:**  FuzeBox will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Service <https://www.fuze.com/extras/legal> or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of FuzeBox, our Users or others.
+If you choose to remove targeted or advertising cookies, you will still see advertisements but they may not be relevant to you. Even if you do choose to remove cookies by the companies listed at the above link, not all companies that serve online behavioural advertising are included in this list, and so you may still receive some cookies and tailored adverts from companies that are not listed.  
+  
+**Disabling cookies**
 
-**Sharing certain service type information we collect about you:**  We may share certain service type information, including information obtained through tools such as cookies, log files, device identifiers, location data and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) with our third-party business partners for the purposes described in the section above on “How We Collect and Use Information.” We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
+You can typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the “settings,” “help” “tools” or “edit” facility). Many browsers are set to accept cookies until you change your settings. 
 
-## 3\. How We Store And Protect Your Information
+Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org.](http://www.allaboutcookies.org/)
 
-**Storage and Processing:**  Your information collected through the Service may be stored and processed in the United States or any other country in which FuzeBox or its subsidiaries, affiliates or service providers maintain facilities. FuzeBox may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which FuzeBox or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+If you do not accept our cookies, you may experience some inconvenience in your use of our Site. For example, we may not be able to recognize your computer or mobile device and you may need to log in every time you visit our Site. 
 
-**Keeping your information safe:**  FuzeBox cares about the security of your information, and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from FuzeBox, at all times. However, FuzeBox cannot ensure or warrant the security of any information you transmit to FuzeBox or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Your privacy settings may also be affected by changes to the functionality of third party sites and services that you add to the FuzeBox Service, such as social networks. FuzeBox is not responsible for the functionality or security measures of any third party.
+**Pixel tags**
 
-**Compromise of information:**  In the event that any information under our control is compromised as a result of a breach of security, FuzeBox will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
+We may also use pixel tags (which are also known as web beacons and clear GIFs) on our Site to track the actions of users on our Site. Unlike cookies, which are stored on the hard drive of your computer or mobile device by a website, pixel tags are embedded invisibly on webpages. Pixel tags measure the success of our marketing campaigns and compile statistics about usage of the Site, so that we can manage our content more effectively. The information we collect using pixel tags is not linked to our users’ personal data. 
 
-## 4\. Your Choices About Your Information
+**Do Not Track Signals**
 
-**You control your account information and settings:**  You may update your account information and email-communication preferences at any time by logging into your account and changing your profile settings. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at [care@Fuze.com](mailto:care@Fuze.com).
+Some Internet browsers may be configured to send "Do Not Track" signals to the online services that you visit. We currently do not respond to “do not track” signals. To find out more about "Do Not Track," please visit [http://www.allaboutdnt.com.](https://allaboutdnt.com/)
 
-**Opting out of collection of your information for Tracking / Advertising:  **Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents FuzeBox or its business partners from tracking your browser’s activities in relation to the Service, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Service. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [care@Fuze.com](mailto:care@Fuze.com).
+## How We Use Your Personal Information 
 
-**How long we keep your User Content:**  Following termination or deactivation of your User account, FuzeBox may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes.
+**To provide our Services and operate the Sites**
 
-## 5\. Children’s Privacy
+We use your personal information to: 
 
-FuzeBox does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [care@Fuze.com](mailto:care@Fuze.com).
+  * operate, maintain, administer, improve, and secure the Sites; 
+  * study how the Sites are used and to improve the Sites and our other products and services; 
+  * manage and communicate with you regarding your Fuze account, if you have one, including by sending you service announcements, technical notices, updates, security alerts, and support and administrative messages; 
+  * better understand your needs and interests, and personalize your experience with the Sites; 
+  * provide support and maintenance for the Sites and our services; and 
+  * respond to your service-related requests, questions and feedback. 
 
-## 6\. Links To Other Web Sites And Services
 
-We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible for and we do not have control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service (like LinkedIn) and you allow such a third-party access to your User Content you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Service.
 
-## 7\. California Disclosures
+**To communicate with you**
 
-**Do Not Track Policy.**  Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the website or online service that a user visits, indicating that the user does not wish to be tracked. Because there is not yet a common understanding of how to interpret Do Not Track signals, we do not currently respond to Do Not Track signal. We continue to work with the online industry to define a common understanding of how to treat Do Not Track signals.
+If you request information from us, register on the Sites, or participate in our surveys, promotions or events, we will provide any requested information and may send you Fuze-related marketing communications as permitted by law. You will have the ability to opt out of such communications. 
 
-If you want to prevent Fuzebox from tracking your use of the fuze.com website and service not to be tracked so that we can send you targeted advertisements, please contact us as indicated in the “How to Contact Us” section below. 
+**To comply with law**
 
- **Third Party Cookies.  **We allow third parties with which we have a separate agreement to use cookies and other technologies to collect information about the use of our website. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on fuze.com; and (2) advertising networks, which collect information about your interests when you view or interact with one of their advertisements. The information gathered by these third parties is used to make predictions about your interests or preferences so that they can display advertisements or promotional material on fuze.com and on other sites across the Internet tailored to your apparent interests. We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.
+We use your personal information as we believe necessary or appropriate to comply with applicable laws, lawful requests and legal process, such as to respond to subpoenas or requests from government authorities. 
 
- **Your California Privacy Rights:**  California Civil Code Section 1798.83 grants California residents the right to request in writing (a) a list of the categories of personal information that we have disclosed to third parties during the immediately preceding calendar year, for the third parties’ direct marketing purpose; and (b) the names and addresses of all such third parties. To request the above information, please write to us at 150 Spear Street, Suite 900, San Francisco, CA 94105 or email us at [care@fuze.com](mailto:care@Fuze.com) with a reference to California Shine the Light Law. We will respond to such requests as required by California law. Please note that we are only required to respond to each individual once per calendar year.
+**With your consent**
 
-## 8\. Disputes
+We may use or share your personal information with your consent, such as when you consent to let us post your testimonials or endorsements on our Sites, you instruct us to take a specific action with respect to your personal information, or you opt into third party marketing communications. 
 
-If you have any concerns or claims with respect to our Privacy Policy, please contact us as indicated in the “How to Contact Us” section. We will investigate and attempt to resolve any complaints and disputes regarding our use and disclosure of our customers’ personal information. 
+**To create anonymous data for analytics**
 
-If the complaint or dispute cannot be resolved through our internal process, and Fuzebox does not adequately respond to your question, please contact the San Francisco office of the JAMS International, which will serve as a liaison with Fuzebox to resolve your concerns. 
+We may create anonymous data from your personal information and other individuals whose personal information we collect. We make personal information into anonymous data by excluding information that makes the data personally identifiable to you, and use that anonymous data for our lawful business purposes. 
 
-If arbitration is necessary, it will be conducted by telephone and email, and if it must be done in person, it will be conducted in a location mutually agreeable to both parties. The arbitration will be conducted by one arbitrator member of the JAMS International, and under the rules of commercial arbitration of the JAMS International. All decisions of the arbitrator(s) will be final and binding on both parties and enforceable in any court of competent jurisdiction.
+**For compliance, fraud prevention and safety**
 
-## 9\. Safe Harbor
+We use your personal information as we believe necessary or appropriate to (a) enforce the terms and conditions that govern the Service; (b) protect our rights, privacy, safety or property, and/or that of you or others; and (c) protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity. 
 
-Fuzebox complies with the US – EU and US – Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Fuzebox has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Fuzebox’s certification, please visit  **[http://www.export.gov/safeharbor/.](http://www.export.gov/safeharbor/)**
+## How We Share your Personal Information 
 
-## 10\. How To Contact Us
+Except as described in this Privacy Policy, we do not share the personal information that you provide to us with other organizations. We disclose personal information to third parties under the following circumstances: 
 
-If you have any questions about this Privacy Policy or the Service, please contact us at [care@Fuze.com](mailto:care@Fuze.com).
+  * **Affiliates.** We may disclose your personal information to our subsidiaries and corporate affiliates for purposes consistent with this Privacy Policy. 
+  * **Service Providers.** We may employ third party companies and individuals to administer and provide the Services on our behalf (such as customer support, hosting, email delivery and database management services). These third parties may use your information only as directed by Fuze and in a manner consistent with this Privacy Policy, and are prohibited from using or disclosing your information for any other purpose. 
+  * **Professional advisors.** We may disclose your personal information to professional advisors, such as lawyers, bankers, auditors and insurers, where necessary in the course of the professional services that they render to us. 
+  * **Compliance with Laws and Law Enforcement; Protection and Safety.  **Fuze may disclose information about you to government or law enforcement officials or private parties as required by law, and disclose and use such information as we believe necessary or appropriate to (a) comply with applicable laws and lawful requests and legal process, such as to respond to subpoenas or requests from government authorities; (b) enforce the terms and conditions that govern the Service; (d) protect our rights, privacy, safety or property, and/or that of you or others; and (e) protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity. 
+  * **Business Transfers.** Fuze may sell, transfer or otherwise share some or all of its business or assets, including your personal information, in connection with a business deal (or potential business deal) such as a merger, consolidation, acquisition, reorganization or sale of assets or in the event of bankruptcy, in which case we will make reasonable efforts to require the recipient to honor this Privacy Policy. 
 
-## 11\. Changes To Our Privacy Policy
 
-FuzeBox may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page.
 
-This Privacy Policy was last modified on 08/15/2014.
+## Your Choices 
+
+**Access, Update or Correct Your Information**
+
+You may contact us at [privacy@fuze.com](mailto:privacy@fuze.com) to review, update or correct the personal information Fuze maintains about you in connection with your use of the Sites. 
+
+**Marketing communications**
+
+You may opt out of marketing-related emails by clicking on a link at the bottom of each such email, or by contacting us at [marketingreplies@fuze.com](mailto:marketingreplies@fuze.com). You may continue to receive service-related and other non-marketing emails. 
+
+**Testimonials**
+
+If you gave us consent to post a testimonial on our Sites, but wish to update or delete it, please [contact us.](https://www.fuze.com/contact)
+
+## Choosing not to share your personal information 
+
+Where we are required by law to collect your personal information, or where we need your personal information in order to provide the Services to you, if you do not provide this information when requested (or you later ask to delete it), we may not be able to provide you with the Services. We will tell you what information you must provide to receive the Services by designating it as required in the Services or through other appropriate means. 
+
+## Security 
+
+The security of your personal information is very important to us. We take a number of organizational, technical and physical measures designed to protect the personal information we collect, both during transmission and once we receive it. However, no security safeguards are 100% secure and we cannot guarantee the security of your information. 
+
+## International Transfer 
+
+Fuze is headquartered in the United States and has affiliates and service providers in other countries, and your personal information may be transferred to the United States or other locations outside of your state, province, country or other governmental jurisdiction where privacy laws may not be as protective as those in your jurisdiction. 
+
+European Union users should read the important information provided here about transfer of personal information outside of the European Economic Area. 
+
+## Other Sites and Services 
+
+The Sites may contain links to other websites and services. These links are not an endorsement, authorization or representation that we are affiliated with that third party. We do not exercise control over third party websites or services, and are not responsible for their actions. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies of the other websites you visit and services you use. 
+
+## User Generated Content 
+
+We may make available on our Sites, or link to, features that allow you to share information online (e.g., on message boards, in chat areas, in file uploads, through events, etc.). Please be aware that whenever you voluntarily disclose personal information online, that information becomes public and can be collected and used by others. We have no control over, and take no responsibility for, the use, storage or dissemination of such publicly-disclosed personal information. By posting personal information online in public forums, you may receive unsolicited messages from other parties. 
+
+## Changes to this Privacy Policy 
+
+We reserve the right to modify this Privacy Policy at any time. We encourage you to periodically review this page for the latest information on our privacy practices. If we make material changes to this Privacy Policy you will be notified via e-mail (where we have your contact information) or another manner through the Services that we believe reasonably likely to reach you (which may include posting a new privacy policy or a specific announcement on our Sites). 
+
+Any modifications to this Privacy Policy will be effective upon our posting of the new terms and/or upon implementation of the new changes on the Service (or as otherwise indicated at the time of posting). In all cases, your continued use of the Services after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy. 
+
+## Contact Us 
+
+Email:
+
+[privacy@fuze.com ](mailto:privacy@fuze.com)
+
+Address:
+
+Fuze Privacy
+
+2 Copley Place, Suite 7000
+
+Boston, Massachusetts 02116 USA
+
+If you live in the EU, you can contact our Data Protection Officer at: 
+
+Email:
+
+[dpo@fuze.com ](mailto:dpo@fuze.com)
+
+Address:
+
+Fuze DPO c/o Yung Shin Van Der Sype, time.lex,
+
+Joseph Stevensstraat 7 rue Joseph Stevens,
+
+1000 Brussels, Belgium
+
+## Additional Information for European Economic Area Users
+
+**Personal information**
+
+References to “personal information” in this Privacy Policy are equivalent to “personal data” governed by European data protection legislation. 
+
+**Controller and Data Protection Officer**
+
+Fuze, Inc. is generally the controller of your personal information for purposes of European data protection legislation. In some cases, the local affiliate with which you interact will be a data controller, either on its own or jointly with Fuze, Inc. Fuze’s EU representative for purposes of European data protection legislation is Fuze Europe B.V. For a list and contact information of local data controllers in the EU, including Fuze’s EU representative, click here. Our Data Protection Officer can be reached at [dpo@fuze.com](mailto:dpo@fuze.com). See the [Contact Us](https://www.fuze.com/contact) section above for additional contact details. 
+
+**Legal bases for processing**
+
+We only use your personal information as permitted by law. We are required to inform you of the legal bases of our processing of your personal information, which are described in the table below. If you have questions about the legal basis of how we process your personal information, contact us at [privacy@fuze.com](mailto:privacy@fuze.com). 
+
+Processing purpose (click link for details) | Legal basis  
+---|---  
+To provide the Services | Processing is necessary to perform the contract governing our provision of the Services or to take steps that you request prior to signing up for the Services.   
+To operate the Sites To communicate with you To create anonymous data for analytics For compliance, fraud prevention and safety To share your personal information (except where necessary to comply with law) | These processing activities constitute our legitimate interests. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal information for our legitimate interests. We do not use your personal information for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).   
+To comply with law (including disclosure to third parties where legally required) | Processing is necessary to comply with our legal obligations.  
+With your consent | Processing is based on your consent. Where we rely on your consent you have the right to withdraw it anytime in the manner indicated at the time we request your consent or by contacting us at [privacy@fuze.com.](mailto:privacy@fuze.com)  
+  
+**Retention**
+
+We will only retain your personal information for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. 
+
+To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements. 
+
+Fuze retains information associated with an account for as long the account is active, or as long as the information is required to (a) provide you with the Services; (b) comply with our legal obligations; (c) resolve disputes; or (d) enforce our agreements. 
+
+In some circumstances we may anonymize your personal information (so that it can no longer be associated with you) in which case we may use this information indefinitely without further notice to you. 
+
+**Your rights**
+
+European data protection laws give you certain rights regarding your personal information. You may ask us to take the following actions in relation to your personal information that we hold: 
+
+  * **Opt-out.** Stop sending you direct marketing communications. You may continue to receive service-related and other non-marketing emails. 
+  * **Access.** Provide you with information about our processing of your personal information and give you access to your personal information. 
+  * **Correct.** Update or correct inaccuracies in your personal information.
+  * **Delete.** Delete your personal information.
+  * **Transfer.** Transfer a machine-readable copy of your personal information to you or a third party of your choice. 
+  * **Restrict.** Restrict the processing of your personal information.
+  * **Object.** Object to our reliance on our legitimate interests as the basis of our processing of your personal information that impacts your rights. 
+
+
+
+You can submit these requests by email to [dpo@fuze.com](mailto:dpo@fuze.com) or our postal address provided above. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us as described above or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). 
+
+**Cross-Border Data Transfer**
+
+Whenever we transfer your personal information out of the EEA to countries not deemed by the European Commission to provide an adequate level of personal information protection, the transfer will be based on one of the following safeguards recognized by the European Commission as providing adequate protection for personal information, where required by EU data protection legislation: 
+
+  * Contracts approved by the European Commission which impose data protection obligations on the parties to the transfer. For further details, see European Commission Model contracts for the transfer of personal information to third countries. 
+  * For transfers to recipients in the United States, ensuring they participate in the EU-US Privacy Shield Framework 
+
+
+
+Please [contact us](https://www.fuze.com/contact) if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA. 
+
+## Fuze Corporate Entities / Data Controllers Covered by This Notice
+
+Last Updated: 21 May 2018
+
+1\. **United States:** Fuze, Inc., located at 2 Copley Place, Floor 7, Boston, MA 02116
+
+2\. **Netherlands:** Fuze Europe B.V., located at Barbara Strozzilaan 201, Floor 5, 1083 HN Amsterdam
+
+3\. **United Kingdom:** Fuze Europe (UK) Limited, located at One Valpy, 20 Valpy Street, Reading RG1 1AR
