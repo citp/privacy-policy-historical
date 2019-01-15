@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the coolmath4kids.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222021225id_/http%3A//coolmath4kids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmath4kids.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115185101id_/https%3A//www.coolmath4kids.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CoolMath4Kids
 
 Effective Date: January 18, 2017
 
-This Policy describes how we treat personal information on the websites where it is located. This Policy does not apply to other Coolmath.com, LLC websites or apps, such as Coolmath.com or Coolmath-Games.com.
+This Policy describes how we treat personal information on the websites where it is located. This Policy does not apply to other Coolmath.com, LLC websites or apps, such as Coolmath.com or CoolmathGames.com.
 
 Collection or Use of Personal Information
 
