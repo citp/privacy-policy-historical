@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holtrenfrew.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811013554id_/http%3A//www.holtrenfrew.com/store/holt/pages/customer-care/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holtrenfrew.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115023446id_/https%3A//www.holtrenfrew.com/en/customer-care/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Holt Renfrew
 
@@ -35,7 +35,7 @@ Protecting your Privacy Means:
 
 
 
-**Back to Top**
+Back to Top
 
 ****B. The Collection Of Personal Information****
 
@@ -52,7 +52,7 @@ Holt Renfrew collects Personal Information and uses it in order to:
   * provide ongoing service;
   * improve service delivery;
   * respond to your questions, enquiries or complaints or verify instructions from you;
-  * review and evaluate job applications filed online through [www.holtrenfrew.com](http://www.holtrenfrew.com/);
+  * review and evaluate job applications filed online through [www.holtrenfrew.com](https://www.holtrenfrew.com/);
   * provide you with information (e.g. through direct mail, eNewsletters and other communication channels);
   * verify some of the information you give us;
   * avoid spam on our Blog;
@@ -137,7 +137,7 @@ Your implied consent may be obtained through your purchase of a product or use o
 You May Withdraw your Consent at Any Time.  
 The protection of your Personal Information is of the utmost importance to us. If you don't want Holt Renfrew to use Personal Information collected about you for marketing or publicity purposes, please tell us at the time the information is collected.
 
-You can withdraw your consent any time after you have given it to us, provided there are no legal or regulatory requirements to prevent this. For information on how to proceed, you can call or email our Chief Privacy Officer at 416-960-2860 or[privacy.office@holtrenfrew.com](mailto:privacy.office@holtrenfrew.com). You can also complete the [PRIVACY INQUIRY AND INFORMATION CHANGE FORM](http://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing/2015/corporate/documents/Privacy%20Statement/final/Holt%20Renfrew%20Privacy%20Change%20Form%20%28fillable%29%20-%20EN.pdf) and present it for processing to any sales associate or concierge (where available) at any Holt Renfrew Store, mail or using a secure email address, scan and email a completed signed copy to the Chief Privacy Officer. Please note that you will be required to provide valid photo ID to verify your identity.
+You can withdraw your consent any time after you have given it to us, provided there are no legal or regulatory requirements to prevent this. For information on how to proceed, you can call or email our Chief Privacy Officer at 416-960-2860 or[privacy.office@holtrenfrew.com](mailto:privacy.office@holtrenfrew.com). You can also complete the [PRIVACY INQUIRY AND INFORMATION CHANGE FORM](https://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing/2018/corporate/customer-care/privacy-policy/may-07-2018/Privacy-Inquiry-Information-Change-Form-2018-EN.pdf) and present it for processing to any sales associate or concierge (where available) at any Holt Renfrew Store, mail or using a secure email address, scan and email a completed signed copy to the Chief Privacy Officer. Please note that you will be required to provide valid photo ID to verify your identity.
 
 Please note if you don't consent to certain uses of information, or if you withdraw your consent, we may not be able to provide you with a particular product or service. If so, we will explain the situation to you to help you with your decision. It is also important to note that it may take some time for all of our records to reflect changes in your contact and consent preferences. For example, if you request that you do not want to receive personalized marketing communications from Holt Renfrew your preference may not be captured for a promotion that is already in progress.
 
@@ -150,7 +150,7 @@ Back to Top
 You Can Access and Verify the Accuracy of your Personal Information.  
 Holt Renfrew provides a right of access and review of Personal Information in accordance with applicable laws, and will endeavour to provide you with the Personal Information requested within a reasonable time.
 
-You can request to verify, update and correct Personal Information, and have any obsolete information removed. We will ask you to put your request in writing by completing a [PRIVACY INQUIRY AND INFORMATION CHANGE FORM](http://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing/2018/corporate/customer-care/privacy-policy/may-07-2018/Privacy-Inquiry-Information-Change-Form-2018-EN.pdf). You can print the form by [clicking here](http://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing/2018/corporate/customer-care/privacy-policy/may-07-2018/Privacy-Inquiry-Information-Change-Form-2018-EN.pdf) or request one from any sales associate or concierge (where available) the next time you are in a Holt Renfrew Store. Once the form has been completed, it can be given to any sales associate or concierge (where available) for processing. Please note that you will be asked for valid photo ID to verify your identity.
+You can request to verify, update and correct Personal Information, and have any obsolete information removed. We will ask you to put your request in writing by completing a [PRIVACY INQUIRY AND INFORMATION CHANGE FORM](https://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing/2018/corporate/customer-care/privacy-policy/may-07-2018/Privacy-Inquiry-Information-Change-Form-2018-EN.pdf). You can print the form by [clicking here](https://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing/2018/corporate/customer-care/privacy-policy/may-07-2018/Privacy-Inquiry-Information-Change-Form-2018-EN.pdf) or request one from any sales associate or concierge (where available) the next time you are in a Holt Renfrew Store. Once the form has been completed, it can be given to any sales associate or concierge (where available) for processing. Please note that you will be asked for valid photo ID to verify your identity.
 
 There is no charge for verifying or correcting your information. Depending on the circumstances, there may be a charge if you want a copy of records, which we have already given you. We will let you know in advance if there is a charge.
 
@@ -168,9 +168,9 @@ If any employee of Holt Renfrew or personnel of our Leased Partners misuses Pers
 
 Our computer security specialists build security into all our computer systems. This protects your information at all times, when it is stored in data files or handled by our employees. Our systems also protect your information when it is transmitted, for example, between our data processing centers, our Stores and corporate offices.
 
-Holt Renfrew has taken steps to protect the confidentiality of your online viewing. When you visit [www.holtrenfrew.com](http://www.holtrenfrew.com/) or  [www.ogilvycanada.com](http://www.ogilvycanada.com/)  or our Sites are able to recognize your Internet service provider, but does not identify you as an individual. Holt Renfrew has also taken steps to ensure that any service providers and suppliers with whom we share any information are committed to maintaining the privacy of your Personal Information, as outlined in this Privacy Policy, and refraining from making any independent or unauthorized use of such Personal Information.
+Holt Renfrew has taken steps to protect the confidentiality of your online viewing. When you visit [www.holtrenfrew.com](https://www.holtrenfrew.com/) or  [www.ogilvycanada.com](http://www.ogilvycanada.com/)  or our Sites are able to recognize your Internet service provider, but does not identify you as an individual. Holt Renfrew has also taken steps to ensure that any service providers and suppliers with whom we share any information are committed to maintaining the privacy of your Personal Information, as outlined in this Privacy Policy, and refraining from making any independent or unauthorized use of such Personal Information.
 
-We note that, in some of our Stores, customers can connect to [www.holtrenfrew.com](http://www.holtrenfrew.com/) or [www.ogilvycanada.com](http://www.ogilvycanada.com/) through our Internet service provider. While we take great care in maintaining the security of your Personal Information and in preventing unauthorized access to it through the use of appropriate technology and internal procedures, we cannot guarantee that any information that you may choose to disclose via the Internet will not be intercepted by third parties or that unauthorized disclosure will not occur. We assume no responsibility for Personal Information disclosed through the Internet, which is intercepted, diverted or otherwise accessed.
+We note that, in some of our Stores, customers can connect to [www.holtrenfrew.com](https://www.holtrenfrew.com/) or [www.ogilvycanada.com](http://www.ogilvycanada.com/) through our Internet service provider. While we take great care in maintaining the security of your Personal Information and in preventing unauthorized access to it through the use of appropriate technology and internal procedures, we cannot guarantee that any information that you may choose to disclose via the Internet will not be intercepted by third parties or that unauthorized disclosure will not occur. We assume no responsibility for Personal Information disclosed through the Internet, which is intercepted, diverted or otherwise accessed.
 
 Back to Top
 
@@ -187,7 +187,7 @@ Back to Top
 **G. How We Ensure Compliance With Our Privacy Policy**
 
 We are Committed to Upholding the Holt Renfrew Privacy Policies.  
-Our Privacy Policy can be found on the Sites at [www.holtrenfrew.com](http://www.holtrenfrew.com/) and [www.ogilvycanada.com](http://www.ogilvycanada.com/) or by visiting any Store. If you have any questions or complaints about this Privacy Policy or how we treat your Personal Information, please let us know right away by contacting the Chief Privacy Officer using the contact information set out below under “Resolving Your Concerns”.
+Our Privacy Policy can be found on the Sites at [www.holtrenfrew.com](https://www.holtrenfrew.com/) and [www.ogilvycanada.com](http://www.ogilvycanada.com/) or by visiting any Store. If you have any questions or complaints about this Privacy Policy or how we treat your Personal Information, please let us know right away by contacting the Chief Privacy Officer using the contact information set out below under “Resolving Your Concerns”.
 
 We Monitor our Compliance with the Holt Renfrew Privacy Policies.  
 We have procedures in place to assist our employees and Leased Partners personnel in the practice of the Holt Renfrew privacy policies and procedures. Our practices will be reviewed on a regular basis and their findings will be reported to the Chief Privacy Officer.
@@ -203,7 +203,7 @@ Resolving your Concerns is Important to us.
 Holt Renfrew is committed to treating you with the greatest respect and consideration, and providing the highest level of service. Please let us know about your questions or concerns and we will do our best to help you. Whatever the circumstances, resolving the problem for you is our primary concern.
 
 How to Resolve Concerns and Complaints at Holt Renfrew:  
-Talk to Us. In most cases completing a [PRIVACY INQUIRY AND INFORMATION CHANGE FORM](http://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing/2015/corporate/documents/Privacy%20Statement/final/Holt%20Renfrew%20Privacy%20Change%20Form%20%28fillable%29%20-%20EN.pdf) will lead to the resolution of your concern. This form can be printed by [clicking here](http://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing/2015/corporate/documents/Privacy%20Statement/final/Holt%20Renfrew%20Privacy%20Change%20Form%20%28fillable%29%20-%20EN.pdf) or one can be obtained through any sales associate or concierge (where available) at your nearest Holt Renfrew Store.
+Talk to Us. In most cases completing a [PRIVACY INQUIRY AND INFORMATION CHANGE FORM](https://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing-hybris/2018/corporate/customer-care/privacy-policy/sep-28-2018/privacy-inquiry-information-change-form-2018-en.pdf) will lead to the resolution of your concern. This form can be printed by [clicking here](https://s7d2.scene7.com/is/content/HoltRenfrewNewProd/marketing-hybris/2018/corporate/customer-care/privacy-policy/sep-28-2018/privacy-inquiry-information-change-form-2018-en.pdf) or one can be obtained through any sales associate or concierge (where available) at your nearest Holt Renfrew Store.
 
 The Holt Renfrew Chief Privacy Officer Acts on your Behalf. If your concerns have not been resolved to your satisfaction, feel free to contact the Chief Privacy Officer for Holt Renfrew as follows:
 
@@ -213,13 +213,21 @@ Toronto, ON M4W 3B8
 Facsimile: 416-922-3826  
 Email: [privacy.office@holtrenfrew.com](mailto:privacy.office@holtrenfrew.com)
 
-If you are Not Satisfied with the Decision of Holt Renfrew's Chief Privacy Officer regarding your Complaint: Should you not be able to accept the conclusion of Holt Renfrew's Chief Privacy Officer, you can ask how your complaint can be further escalated.
+If you are Not Satisfied with the resolution offered by Holt Renfrew's Privacy Office, you can ask how your complaint can be further escalated.
+
+If the above steps fail to resolve your concern you may also contact the Office of the Privacy Commissioner of Canada:
+
+30 Victoria Street  
+Gatineau Qc  
+K1A 1H3  
+Toll Free: 1-800-282-1376  
+[www.priv.gc.ca](https://www.priv.gc.ca/)
 
 Back to Top
 
 **I. Anti-Spam Policy**
 
-Holt Renfrew maintains a strict [no-spam policy](http://www.holtrenfrew.com/store/holt/pages/customer-care/anti-spam-legislation-policy)
+Holt Renfrew maintains a strict [no-spam policy](https://web.archive.org/en/customer-care/anti-spam-legislation-policy)
 
 Back to Top
 
@@ -227,6 +235,6 @@ Back to Top
 
 As Holt Renfrew regularly reviews all policies and procedures, we may change our Privacy Policy from time to time. These changes will be posted on our websites as soon as is practical. This Privacy Policy was last updated on January 3, 2018. It replaces the Privacy Policy that was dated January 16, 2017.
 
-Date of Last Update: May 7, 2018
+Date of Last Update: Oct 4, 2018
 
 Back to Top
