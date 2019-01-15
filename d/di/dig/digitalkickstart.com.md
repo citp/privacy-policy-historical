@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the digitalkickstart.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110112153id_/https%3A//digitalkickstart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalkickstart.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115230339id_/https%3A//digitalkickstart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Kickstart
 
 **PRIVACY POLICY**  
-Effective Date: November 15th, 2013
+Effective Date: May 25th, 2018
 
 To review material modifications and their effective dates scroll to the bottom of the page.
 
@@ -99,15 +99,22 @@ This site may contain links to other websites with whom we have a business relat
 
 We are committed to preserving online privacy for all of its website visitors, including children. This site is a general audience site.  Consistent with the Children’s Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13.  If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child’s information, please contact our site as provided below under “Contact Us”, and be sure to include in your message the same login information that your child submitted.
 
+**DATA TRANSFERS AND PRIVACY SHIELD FRAMEWORKS**
+
+Digital Kickstart, LLC may transfer your personal information to other entities such as joint venture partners and other marketing partners located in the United States and elsewhere. The United States and other countries may not have the same data protection laws as the country from which you initially provided the information. By accessing the Digital Kickstart, LLC website, registering for an account or service, or otherwise providing Digital Kickstart, LLC with your personal information, you consent to this transfer of your personal information. When transferring your personal information internationally, Digital Kickstart, LLC will protect your personal information as provided in this Privacy Statement.
+
+If you are located in the European Economic Area (“EEA”) or Switzerland, Digital Kickstart, LLC and its controlled United States subsidiaries have certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks for the transfer of Personal Information from the EEA and Switzerland to the United States, as described in our [Privacy Shield Notice.](https://digitalkickstart.com/privacy-shield/) To learn more about the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks and to view our certification, please visit [www.privacyshield.gov.](https://www.privacyshield.gov/)
+
 **CONTACT US**
 
 If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business at:
 
 Digital Kickstart  
 Attn: Privacy Policy Officer  
-PO Box 58033  
-Raleigh, NC 27658 USA  
+550 Congressional Blvd, Suite 125  
+Carmel, IN 46032
+
 Email:  support[at]digitalkickstart.com  
 Telephone: 919-339-1667  
 —  
-Material Modifications Since December 15th, 2014:  none.
+Last Updated May 11, 2018.
