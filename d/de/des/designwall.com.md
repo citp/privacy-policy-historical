@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designwall.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002195032id_/https%3A//www.designwall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designwall.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115144522id_/https%3A//www.designwall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DesignWall
 
