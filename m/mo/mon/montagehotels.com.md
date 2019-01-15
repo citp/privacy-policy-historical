@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montagehotels.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908065306id_/https%3A//www.montagehotels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montagehotels.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115042334id_/https%3A//www.montagehotels.com/privacy-policy) for the most accurate reproduction.*
 
 # Montage Corporate Private Policy | Montage Hotels & Resorts
 
