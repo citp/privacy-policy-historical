@@ -1,63 +1,237 @@
-> *The following text is extracted and transformed from the lytics.io privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427032623id_/https%3A//www.lytics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lytics.io privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115191837id_/https%3A//learn.lytics.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Personalized Marketing and Customer Data Platform | Lytics
+# Learn Lytics | Privacy Policy
 
-_Last Updated September 8, 2017_
+**Effective as of May 14, 2018**
 
-Lytics, Inc. (“Lytics,” “we,” “us,” or “our”) is a marketing technology company. We have created this privacy policy (this “Privacy Policy”) to inform you how our proprietary data service (the “Service”) gathers, uses, and processes information on behalf of online marketers, website owners, leading brands, and other businesses that use our services (collectively, our “Clients”).
+ _Lytics is committed to transparent privacy practices.  This “Privacy Policy” explains how Lytics, Inc. (collectively “Lytics” or “we” or “us”) collects, uses and shares your information in connection with your use of www.lytics.com (the “Site”) and our products and services, and explains your choices for how we manage your personal information. For convenience, the Site and our products and services are collectively referred to as the “Service.” This Privacy Policy applies only to personal information of users of the Site or Service._
 
-## The Information We Collect
+ _We understand that when you use our Service, you trust us with your information. We understand this is a big responsibility and we work hard to protect your information and put you in control.  Our commitment to transparent privacy practices means that we want to do everything we can to help you understand in plain English how we are collecting and managing your personal information._
 
-In the course of operating the Service and providing our services, collects the following types of information (collectively, the “Information”).
+ _We’ve tried to make this easy, but we understand that there are many terms that may be unfamiliar. Please feel free to email us at privacy@lytics.com for any questions or concerns. Your privacy and your ability to understand your rights and how we are collecting and managing your personal information are important to us._
 
-  1. Information From Your Activity. Information that we or our technology providers may automatically collect when you visit, access, and/or use our Clients ’ websites, mobile sites or mobile applications (the “Websites”), include your IP address; referring URL; time stamp; browser type and language; operating system; screen height; screen width; color depth; whether your computer is Java enabled; Internet connection type; whether or not your browser accepts cookies; pages viewed on the Websites; products viewed, content viewed, and purchases on Websites; products viewed or purchased on the Websites; and any other custom page data, as defined by our Clients.
-  2. Inferred Information. Based on the Information we collect from your Website activity, search terms entered through your browser, and information gleaned from previous Lytics cookies, we may infer other information, such as zip code, country, state, time zone, weather and other information.
-  3. From Cookies and JavaScript Tags. We collect Information using “cookie” technology and JavaScript tags. Cookies are small packets of data that a website stores on your computer ’s hard drive so that your computer will “remember” information about your visit. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to help us collect Information and to enhance your experience using the Websites. If you do not want us to place a cookie on your hard drive, you may be able to turn that feature off on your computer. Please consult your Internet browser ’s documentation for information on how to do this and how to delete persistent cookies. However, if you decide not to accept cookies from us, the Websites may not function properly. We use JavaScript tags to trigger a sequence of events that includes viewing a first-party cookie (or setting that cookie if it does not already exist) and to help us and our Clients tailor, analyze, manage, report, and optimize your experience.
-  4. From API Services. We collect information from other marketing services and social networks via API. We may collect personal information about yourself, such as your name, company, title, address, e-mail address, and phone number from these different API services. We do not collect any personal information from you when you access and use the Website unless you provide such information voluntarily.
-  5. Log File Information. We may collect log file information, which is automatically reported by your browser each time you access a Website. When you access a Website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+ _Any users from the European Union should be sure to read the information provided below under “Additional Information for European Union Users”.  You can find more information about European data protection laws [here](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-data-portability/)._
+
+## What does Lytics do?
+
+Lytics is a software company that provides customer data; analytics and marketing intelligence software to help customers of our Service (“Clients”) better understand their consumers so they can deliver relevant marketing communications and campaigns.
+
+Our Service aims to help our Client’s marketing communications and campaigns be more useful and relevant to consumers by showing them content and messages that are best tied to their specific interests and needs.
+
+To do this, when people interact with our Client’s websites, applications or campaigns (collectively “Client Services”) and related third-party applications (“Client User Data”), we may collect some or all of the data described in this Privacy Policy on behalf of Client. Our platform uses that data, as well as other data described below, to help Clients deliver marketing communications that are more relevant. Client User Data may include information about the identity of Client Users (such as name, postal address, email-address, IP address and phone number), as well as information about the content that users interact with, including web pages they visit and features they use and the actions that they take while using the Client Services.
+
+This Privacy Policy does not apply to Client User Data or to Client Services, and we are not responsible for our Clients’ handling of Client User Data. Our Clients have their own policies regarding the collection, use and disclosure of your personal information. To learn about how a particular Client handles your personal information, we encourage you to read Client’s privacy statement. Our use of Client User Data provided by our Clients in connection with our Services is subject to the written agreement between Lytics and Client. This Privacy Policy also does not apply to websites; applications or services operated by other parties or that display or link to different privacy statements.
+
+## Personal Information We Collect
+
+In the course of operating the Service and providing our services, we may collect the following types of information (collectively, the “Information”).
+
+## Information you give us
+
+Personal information you may provide through the Service or otherwise communicate with us:
+
+  * Identity information, such as your first name, last name, user name or similar identifier, title, date of birth and gender;
+  * Contact information, such as your postal address, email address and telephone number;
+  * Profile information, such as your username an password, interests, preferences, feedback and survey responses;
+  * Feedback and correspondence, such as information you provide in survey responses, when you participate in market research, report a problem, receive customer support or otherwise correspond with us;
+  * Transaction information, such as your credit card or other payment and billing details;
+  * Usage information, such as information about how you use the Service and interact with us; and
+  * Marketing information, such as your preferences for receiving marketing communications and details about how you engage with them.
 
 
 
-## How We Use and Share the Information
+## Information we collect
 
-### Lytics uses and shares the Information only as follows.
+### Apps, browsers and devices
 
-  * Personally Identifiable Information: Lytics will not rent or sell your personally identifiable information to others. We may store personal information in locations outside the direct control of Lytics (for instance, on servers or databases co-located with hosting providers). Any personally identifiable information you elect to make available publicly on Websites will be available to other Users. If you remove information that you have made public on Websites, copies may remain viewable in cached and archived pages, or if other Users have copied or saved that information.We will access, use, and share the Information as required to fulfill our contractual obligations to our Clients or subsequent requests for service and/or support by our Clients.
-  * Our technical staff may require periodic access to Information to monitor system performance and network capacity, test and fix systems, and develop and implement upgrades to systems.
-  * We may employ other companies and individuals to perform functions on our behalf. Examples may include providing technical assistance and customer service. These other companies will have access to the Information only as necessary to perform their functions and to the extent permitted by law.
-  * In an ongoing effort to better understand visitors to the Websites and other activities, the Service, and our products and services, we may analyze the Information in aggregate form in order to operate, maintain, manage, and improve the Service and/or our products and services and provide suggestions and/or benchmarking to customers.
+Our servers may automatically record certain information about how you use our Site (we refer to this information as “Activity Data“), including both Clients and casual visitors.
+
+Activity Data may include information such as a user’s Internet Protocol (IP) address, device and browser type, operating system, the pages or features of our Site to which a user browsed and the time spent on those pages or features, the frequency with which the Site is used by a user, search terms, the links on our Site that a user clicked on or used, and other statistics. We use this information to administer the Service and we analyze (and may engage third parties to analyze) this information to improve and enhance the Service by expanding its features and functionality and tailoring it to our users’ needs and preferences.
+
+Lytics and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level.
+
+### Sensitive personal information
+
+Subject to the following paragraph, we ask that you not send or disclose to us any sensitive personal information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or union membership) on or through the Service or otherwise.
+
+If you send or disclose any sensitive personal information to us (such as when you submit user generated content to the Site), you must consent to our processing and use of such sensitive personal information in accordance with this Privacy Policy. If you do not consent to our processing and use of such sensitive personal information, you must not provide it.
+
+### Information we get from others
+
+We may obtain additional information about you from third party sources to enrich your experience on the www.lytics.com website and provide you with more relevant information related to our service offerings.
+
+### Changes to your personal information
+
+It is important that the personal information we hold about you is accurate and current. Please let us know if your personal information changes during your relationship with us by updating your registration profile or emailing us at privacy@lytics.com.
+
+## How We Use Your Personal Information
+
+### To provide the Service
+
+If you have a Lytics account, we use your personal information:
+
+  * To operate, maintain, administer and improve the Service;
+  * To manage and communicate with you regarding your Service account, if you have one, including by sending you Service announcements, technical notices, updates, security alerts, and support and administrative messages;
+  * To process payments you make through the Service;
+  * To better understand your needs and interests, and personalize your experience with the Service; and
+  * To respond to your Service-related requests, questions and feedback.
 
 
 
-As we develop our businesses, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event, the Information may be part of the transferred assets.
+### To communicate with you
 
-## Behavioral Targeting
+If you request information from us, register for the Service or participate in our surveys, promotions or events, we may send you Lytics-related marketing communications if permitted by law, but will provide you with the ability to opt out.
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by notifying us at [support@lytics.io](mailto:support@lytics.io). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+### To comply with law
 
-The Lytics Privacy Policy does not apply to, and we cannot control the activities of, third-party ad servers and ad networks. Please contact or consult the respective privacy policies of such ad servers or ad networks for more information.
+We use your personal information, as we believe necessary or appropriate to comply with applicable laws, lawful requests and legal process, such as to respond to subpoenas or requests from government authorities.
 
-To the extent permitted by law, we may also disclose the Information: (i) when required by law, court order, or other government or law enforcement authority or regulatory agency; or (ii) whenever we believe that disclosing such Information is necessary or advisable, for example, to protect the rights, property, or safety of Lytics or others.
+### With your consent
 
-## Accessing and Modifying Information and Communication Preferences
+We may use or share your personal information with your consent, such as when you consent to let us post your testimonials or endorsements on our Site, you instruct us to take a specific action with respect to your personal information or you opt into third party marketing communications.
 
-If you would like to opt-out of Lytics collection of Information about you using cookies or JavaScript tags, please follow the instructions found on our Clients’ Websites. We will use commercially reasonable efforts to process such requests in a timely manner.
+### To create anonymous data for analytics
 
-## How We Protect the Information
+We may create anonymous data from your personal information and other individuals whose personal information we collect. We make personal information into anonymous data by excluding information that makes the data personally identifiable to you, and use that anonymous data for our lawful business purposes.
 
-We take commercially reasonable steps to protect the Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction.
+### For compliance, fraud prevention and safety
 
-Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the Information that you supply will not be intercepted while being transmitted to and from us over the Internet.
+We use your personal information as we believe necessary or appropriate to (a) enforce the terms and conditions that govern the Service; (b) protect our rights, privacy, safety or property, and/or that of you or others; and (c) protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity.
 
-## Privacy Shield Frameworks
+We do not share or sell the personal information that you provide us with other organizations without your express consent, except as described in this Privacy Policy. We disclose personal information to third parties under the following circumstances:
 
-Lytics complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Lytics has certified that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
+  * Affiliates. We may disclose your personal information to our subsidiaries and corporate affiliates for purposes consistent with this Privacy Policy.
+  * Service Providers. We may employ third party companies and individuals to administer and provide the Service on our behalf (such as bill and credit card payment processing, customer support, hosting, email delivery and database management services). These third parties are permitted to use your personal information only to perform these tasks in a manner consistent with this Privacy Policy and are obligated not to disclose or use it for any other purpose.
+  * Professional advisors. We may disclose your personal information to professional advisors, such as lawyers, bankers, auditors and insurers, where necessary in the course of the professional services that they render to us.
+  * Compliance with Laws and Law Enforcement; Protection and Safety. Lytics may disclose information about you to government or law enforcement officials or private parties as required by law, and disclose and use such information as we believe necessary or appropriate to (a) comply with applicable laws and lawful requests and legal process, such as to respond to subpoenas or requests from government authorities; (b) enforce the terms and conditions that govern the Service; (d) protect our rights, privacy, safety or property, and/or that of you or others; and (e) protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity.
+  * Business Transfers. Lytics may sell, transfer or otherwise share some or all of its business or assets, including your personal information, in connection with a business deal (or potential business deal) such as a merger, consolidation, acquisition, reorganization or sale of assets or in the event of bankruptcy, in which case we will make reasonable efforts to require the recipient to honor this Privacy Policy.
 
-In compliance with the Privacy Shield Principles, Lytics commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Lytics at: [privacy@lytics.io](mailto:privacy@lytics.io)
 
-Lytics has further committed to refer unresolved privacy complaints under the Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
 
-For complaints left unresolved by all other available channels, individuals may invoke binding arbitration before a Privacy Shield Panel.
+## Your Choices
+
+Access, Update, Correct or Delete Your Information All Lytics account holders may review, update, correct or delete the personal information in their registration profile by logging into their account. Lytics account holders may also contact us at privacy@lytics.com to accomplish the foregoing or if you have additional requests or questions.
+
+### Access to Data Controlled by our Clients
+
+Lytics has no direct relationship with the individuals whose personal information is contained within the Client User Data processed by our Service. An individual who seeks access, or who seeks to correct, amend, or delete personal information provided by our Clients should direct their request the Client. You may also contact us at privacy@lytics.com if you have additional questions or concerns.
+
+### Marketing communications
+
+You may opt out of marketing-related emails by logging in and changing your account settings or by clicking on a link at the bottom of each such email. You may continue to receive Service-related and other non-marketing emails.
+
+### Reference/Testimonials
+
+If you gave us consent to post a testimonial to our site, but wish to update or delete it, please contact us.
+
+## Tracking and Targeted Advertising
+
+We may allow service providers and other third parties to use cookies and other tracking technologies to track your browsing activity over time and across our Site and third party websites. We may also partner with a third party ad network to either display advertising on our Site, to manage our advertising on other sites, or to provide you targeted advertisements based upon your interests on our Site or on third party sites. **You may opt out of having your personal information used for targeted ads by clicking[here](http://preferences-mgr.truste.com/) (or if you are in the European Union, [here](http://www.youronlinechoices.com/uk/your-ad-choices))**, but you may still receive generic ads. Other companies’ use of their tracking technologies is subject to their own privacy policies. Some Internet browsers may be configured to send “Do Not Track” signals to the online services that you visit. We currently do not respond to do not track or similar signals. To find out more about “Do Not Track,” please visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).  In some of our communications, we use tracking means, such as a “click-through URL” linked to content on the Site. We track this data to help us measure the effectiveness of our customer communications.
+
+Where we need to collect your personal information by law, or to be able to provide the Service to you and you do not provide that information when requested (or you later ask to delete it), we may not be able to provide you with the Service and may need to close your account. We will tell you what information you must provide to receive the Service by designating it as required in the Service or through other appropriate means.
+
+## Security
+
+The security of your personal information important to us. We take a number of organizational, technical and physical measures designed to protect the personal information we collect, both during transmission and once we receive it. However, no security safeguards are 100% secure and we cannot guarantee the security of your information.
+
+## International Transfer
+
+Lytics is headquartered in the United States and has affiliates and service providers in other countries, and your personal information may be transferred to the United States or other locations outside of your state, province, country or other governmental jurisdiction where privacy laws may not be as protective as those in your jurisdiction.  European Union users should read the important information provided further below under Cross Border Transfer Section about transfer of personal information outside of the European Economic Area.
+
+## Other Sites and Services
+
+The Service may contain links to other websites and services. These links are not an endorsement, authorization or representation that we are affiliated with that third party. We do not exercise control over third party websites or services, and are not responsible for their actions. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies of the other websites you visit and services you use.
+
+## Social Media Widgets
+
+Our Site may include social media features, such as the Facebook “like” button and widgets, such as the “share this” button. These features may collect your personal information and track your use of the Site. These social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing such functionality.
+
+## User Generated Content
+
+We may make available on our Site, or link to, features that allow you to share information online (e.g., on message boards, in chat areas, in file uploads, through events, etc.). Please be aware that whenever you voluntarily disclose personal information online, that information becomes public and can be collected and used by others. We have no control over, and take no responsibility for, the use; storage or dissemination of such publicly disclosed personal information. By posting personal information online in public forums, you may receive unsolicited messages from other parties.
+
+## Children
+
+Lytics does not knowingly acquire or receive personal information from children under 13. If we later learn that any user of our Service is under the age of 13, we will take appropriate steps to remove that user’s information from our account database and will restrict that individual from future access to the Service.
+
+## Changes to this Privacy Policy
+
+We reserve the right to modify this Privacy Policy at any time. We encourage you to periodically review this page for the latest information on our privacy practices. If we make material changes to this Privacy Policy you will be notified via e-mail (if you have an account where we have your contact information) or another manner through the Service that we believe reasonably likely to reach you (which may include posting a new privacy policy on our Site – or a specific announcement on this page or on our blog).
+
+Any modifications to this Privacy Policy will be effective upon our posting of the new terms and/or upon implementation of the new changes on the Service (or as otherwise indicated at the time of posting). In all cases, your continued use of the Service after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.
+
+## Questions?
+
+If you have any questions or concerns about our Privacy Policy, please feel free to email us at privacy@lytics.com or mail us directly at: Lytics, Inc. 811 6th Avenue, Suite 700 Portland, Oregon 97204, USA Attention: Data Protection Officer
+
+## Additional Information for European Union Users
+
+### Personal information
+
+References to “personal information” in this Privacy Policy are equivalent to “personal data” governed by European data protection legislation.
+
+### Controller and Data Protection Officer
+
+Lytics, Inc. is the controller of your personal information for purposes of European data protection legislation. Our Data Protection Officer can be reached at privacy@lytics.com. See the “Questions” section above for additional contact details.
+
+### Legal bases for processing
+
+We only use your personal information as permitted by law. We are required to inform you of the legal bases of our processing of your personal information, which are described in the table below. If you have questions about the legal basis of how we process your personal information, contact us at privacy@lytics.com.
+
+### Processing purpose
+
+Processing Purpose| Legal Basis  
+---|---  
+To provide the Service| Processing is necessary to perform the contract governing our provision of the Service or to take steps that you request prior to signing up for the Service  
+To maintain and improve the Service| Processing is necessary to ensure that our Service is working as intended and to make improvements to the Service  
+Provide personalized services, including content and ads| Processing is necessary to customize our services for you, including providing recommendations and personalized content  
+Develop new services| Processing is necessary to help us develop new services  
+To communicate with you To measure performance with anonymous data for analytics For compliance, fraud prevention and safety| These processing activities constitute our legitimate interests. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal information for our legitimate interests. We do not use your personal information for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).  
+To comply with law| Processing is necessary to comply with our legal obligations  
+With your consent| Processing is based on your consent. Where we rely on your consent you have the right to withdraw it anytime in the manner indicated in the Service or by contacting us at privacy@lytics.com  
+  
+### Use for new purposes
+
+We may use your personal information for reasons not described in this Privacy Policy where permitted by law and the reason is compatible with the purpose for which we collected it. If we need to use your personal information for an unrelated purpose, we will notify you and explain the applicable legal basis.
+
+### Retention
+
+We will only retain your personal information for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+By law we have to keep basic information about our customers (including contact, identity, financial and transaction Information) for six years after they cease being customers for tax purposes.
+
+In some circumstances we may anonymize your personal information (so that it can no longer be associated with you) in which case we may use this information indefinitely without further notice to you.
+
+### Your rights
+
+European data protection laws give you certain rights regarding your personal information. You may ask us to take the following actions in relation to your personal information that we hold:
+
+  * Opt-out. Stop sending you direct marketing communications. You may continue to receive Service-related and other non-marketing emails.
+  * Access. Provide you with information about our processing of your personal information and give you access to your personal information.
+  * Correct. Update or correct inaccuracies in your personal information.
+  * Delete. Delete your personal information.
+  * Transfer. Transfer a machine-readable copy of your personal information to you or a third party of your choice.
+  * Restrict. Restrict the processing of your personal information.
+  * Object. Object to our reliance on our legitimate interests as the basis of our processing of your personal information that impacts your rights.
+
+
+
+You can submit these requests by email to privacy@lytics.com or our postal address provided above. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us at privacy@lytics.com or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
+
+### Cross-Border Data Transfer
+
+Whenever we transfer your personal information out of the EEA to countries not deemed by the European Commission to provide an adequate level of personal information protection, the transfer will be based on one of the following safeguards recognized by the European Commission as providing adequate protection for personal information, where required by EU data protection legislation:
+
+  * Contracts approved by the European Commission, which impose data protection obligations on the parties to the transfer. For further details, see European Commission Model contracts for the transfer of personal information to third countries.
+  * For transfers to third parties in the United States, ensuring they participate in the E.U.-U.S. Privacy Shield Framework Please contact us if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA.
+
+
+
+### Privacy Shield Frameworks
+
+Lytics complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Lytics has certified that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/> Lytics complies with the Privacy Shield Principles for onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. In compliance with the Privacy Shield Principles, Lytics commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union individuals or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Lytics at: privacy@lytics.com Lytics has further committed to refer unresolved privacy complaints under the Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint. For complaints left unresolved by all other available channels, individuals may invoke binding arbitration before a Privacy Shield Panel.
 
 ### Definitions
 
@@ -77,88 +251,6 @@ The privacy principles in this Policy have been developed based on the EU-U.S. P
 
 ### Notice
 
-Lytics is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Should an EU or Swiss individual be unable to resolve a complaint through the Council of Better Business Bureau's complaint process, they may contact the FTC at the following address:
+Lytics is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Should a EU or Swiss individual be unable to resolve a complaint through the Council of Better Business Bureau's complaint process, they may contact the FTC at the following address:
 
-Federal Trade Commission   
-Attn: Consumer Response Center   
-600 Pennsylvania Avenue NW   
-Washington, DC 20580   
-[www.ftc.gov](https://www.ftc.gov/)
-
-Lytics may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
-
-Where Lytics collects personal information directly from individuals in the EU or Switzerland, it will inform them about the purposes for which it collects and uses personal information about them, the types of non–agent third parties to which Lytics discloses that information, the choices and means, if any, Lytics offers individuals for limiting the use and disclosure of personal information about them, and how to contact Lytics. Notice will be provided in clear and conspicuous language when individuals are first asked to provide personal information to Lytics, or as soon as practicable thereafter, and in any event before Lytics uses or discloses the information for a purpose other than that for which it was originally collected.
-
-Where Lytics receives personal information from its subsidiaries, affiliates or other entities, it will use and disclose such information in accordance with the notices provided by such entities and the choices made by the individuals to whom such personal information relates.
-
-### Choice
-
-Lytics will offer individuals the opportunity to choose (opt-out) whether their personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
-
-For sensitive personal information, Lytics will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
-
-Lytics will provide individuals with reasonable mechanisms to exercise their choices. Please contact [privacy@lytics.io](mailto:privacy@lytics.io) for more information.
-
-### Data Integrity
-
-Lytics will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. Lytics will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current.
-
-### Transfers To Agents
-
-Lytics will obtain assurances from its agents that they will safeguard personal information consistently with this Policy. Examples of appropriate assurances that may be provided by agents include: a contract obligating the agent to provide at least the same level of protection as is required by the relevant Privacy Principles, certification by an agent, or being subject to another European Commission or Swiss FDPIC adequacy finding (e.g., companies located in Canada). Where Lytics has knowledge that an agent is using or disclosing personal information in a manner contrary to this Policy, Lytics will take reasonable steps to prevent or stop the use or disclosure.
-
-In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the Privacy Shield Frameworks, Lytics is potentially liable.
-
-### Access and Correction
-
-Lytics provides individuals the right to access personal information that it holds about them. In addition, Lytics will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query [privacy@lytics.io](mailto:privacy@lytics.io). If requested to remove data, we will respond within a reasonable timeframe.
-
-### Security
-
-Lytics will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction.
-
-### Enforcement
-
-Lytics will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that Lytics determines is in violation of this policy will be subject to disciplinary action up to and including termination of employment.
-
-### Limitation on Application of Principles
-
-Adherence by Lytics to these privacy principles may be limited (a) to the extent required to respond to a legal or ethical obligation; (b) to the extent necessary to meet national security, public interest or law enforcement obligations; and (c) to the extent expressly permitted by an applicable law, rule or regulation.
-
-### Contact Information
-
-Questions or comments regarding this Policy should be submitted to the Lytics Privacy Office by mail to:
-
-Lytics   
-1000 SW Broadway, Suite 1800  
-Portland, Oregon 97205
-
-Or by e-mail to [privacy@lytics.io](mailto:privacy@lytics.io)
-
-### Changes to Privacy Policy
-
-This Policy may be amended from time to time, consistent with the requirements of the Privacy Shield Frameworks.
-
-## Protecting the privacy of young children is important.
-
-For that reason, Lytics does not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to access or use the Service or to provide any personal information to Lytics. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@lytics.io](mailto:support@lytics.io).
-
-## Notification Procedures
-
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Service, as determined by Lytics in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
-
-## Links to Other Web Sites
-
-We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies.
-
-## Social Media Features
-
-Our Web site includes Social Media features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
-## Changes to This Privacy Policy
-
-This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time. By accessing and/or using the Websites after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please be aware that, to the extent permitted by applicable law, our use of the Information is governed by the Privacy Policy in effect at the time we collect the Information. Please refer back to this Privacy Policy on a regular basis.
-
-## How to Contact Us
-
-If you have questions about this Privacy Policy, please contact Lytics via e-mail at [support@lytics.io](mailto:support@lytics.io) with “PRIVACY POLICY” in the subject line or at the contact information on our Contact Us page.
+Federal Trade Commission Attn: Consumer Response Center 600 Pennsylvania Avenue NW Washington, DC 20580 www.ftc.gov
