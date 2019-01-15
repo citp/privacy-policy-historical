@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the photojoiner.net privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923200252id_/https%3A//www.photojoiner.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photojoiner.net privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115143154id_/https%3A//www.photojoiner.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Photojoiner.net adhere to respect each individual user’s privacy. Following document outlines means in which we collect, use, disclose, transfer and store your information. You may request clarification or question regarding our privacy policy at support@photojoiner.net 
+Photojoiner.net adhere to respect each individual user’s privacy. Following document outlines means in which we collect, use, disclose, transfer and store your information. You may request clarification or question regarding our privacy policy at support@photojoiner.net
 
 ## COLLECTION AND USE OF NON-PERSONAL INFORMATION
 
