@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overplay.net privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822232057id_/https%3A//www.overplay.net/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overplay.net privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116082116id_/https%3A//www.overplay.net/en/privacy-policy) for the most accurate reproduction.*
 
 # The Best SmartDNS and High Speed VPN Service - OverPlay
 
