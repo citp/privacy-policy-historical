@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the 34-menopause-symptoms.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040527id_/http%3A//www.34-menopause-symptoms.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 34-menopause-symptoms.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117005127id_/https%3A//www.34-menopause-symptoms.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# 34-Menopause-Symptoms.com Privacy Policy | 34-menopause-symptoms.com
+# 34-Menopause-Symptoms.com Privacy Policy | 34 Menopause Symptoms
 
-This Privacy Policy discloses 34-Menopause-Symptoms.com information gathering and use practices for personal information of each visitor to and user of ("you" or a "user") its website http://www.34-menopause-symptoms.com (the "site").
+This Privacy Policy discloses 34-Menopause-Symptoms.com information gathering and use practices for personal information of each visitor to and user of ("you" or a "user") its website https://www.34-menopause-symptoms.com (the "site").
 
 ## The Information 34-Menopause-Symptoms.com Collects
 
 User-provided information: 34-Menopause-Symptoms.com receives and stores any information you enter on our site, or provide to 34-Menopause-Symptoms.com in any other way, such as e-mail communication through the site.
 
   *  **Cookie Information.** When you visit the site, 34-Menopause-Symptoms.com may send one or more cookies-a small text file containing a string of alphanumeric characters-to your computer that uniquely identifies your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the site may not function properly if the ability to accept cookies is disabled.
-
-
   *  **Log file information.** When you use the site, 34-Menopause-Symptoms.com servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
 
 
@@ -58,4 +56,4 @@ If you want to update or delete your personal information from 34-Menopause-Symp
 
 ## Contact Information
 
-Please contact 34-Menopause-Symptoms.com through the following [contact form](http://www.34-menopause-symptoms.com/contact-us.htm) with any questions or comments about this Privacy Policy.
+Please contact 34-Menopause-Symptoms.com through the following [contact form](https://www.34-menopause-symptoms.com/contact-us.htm) with any questions or comments about this Privacy Policy.
