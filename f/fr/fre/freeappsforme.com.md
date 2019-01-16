@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeappsforme.com privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816142936id_/http%3A//freeappsforme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeappsforme.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116065733id_/https%3A//freeappsforme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Free apps for android, IOS, Windows and Mac
 
@@ -46,4 +46,4 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-If you need to contact us for some reason – feel free to use our [contact page](http://freeappsforme.com/contact-us/).
+If you need to contact us for some reason – feel free to use our [contact page](https://freeappsforme.com/contact-us/).
