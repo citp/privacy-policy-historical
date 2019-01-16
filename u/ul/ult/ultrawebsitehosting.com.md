@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ultrawebsitehosting.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322043447id_/https%3A//www.ultrawebhosting.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrawebsitehosting.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116162559id_/https%3A//www.ultrawebhosting.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement : ULTRA Web Hosting
+# Privacy Statement : Ultra Web Hosting
 
 This is the web site of www.ultrawebhosting.com.
 
