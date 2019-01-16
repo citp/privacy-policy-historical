@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stakeholdermap.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907132259id_/https%3A//stakeholdermap.com/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stakeholdermap.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117003534id_/https%3A//www.stakeholdermap.com/privacypolicy.pdf) for the most accurate reproduction.*
 
 # 
 
