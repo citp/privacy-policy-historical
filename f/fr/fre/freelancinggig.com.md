@@ -1,43 +1,143 @@
-> *The following text is extracted and transformed from the freelancinggig.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180522id_/https%3A//www.freelancinggig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancinggig.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116102829id_/https%3A//www.freelancinggig.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FreelancingGig.com
 
-[ ](https://www.freelancinggig.com/)
+## Welcome to FreelancingGig
 
-##  **Privacy Policy**
+#### Modified 24 May 2018
 
-### The foregoing policies are effective as of February 3, 2016.
+#### Our privacy obligations
 
-  * This Privacy Policy is applicable to any and all online services and web sites operated under, through and in direct association with the "www.FreelancingGig.com" domain name and forms part of the User Agreement [Note: capitalized terms contained herein have the meaning given to them in the User Agreement].
-  * Provider and the FreelancingGig team believe in providing to our users the best possible experience while using our Web and Internet services. While we believe in tailoring each user experience to best serve your needs, we are also committed to the important goal of protecting your privacy and personally identifiable information. It is our goal to balance our legitimate business interests with your reasonable expectation of privacy in using this service.
-  * Provider does not collect personal information about individual users, except where users are voluntarily provide such information. Such information might be solicited during registration or might be necessary in order to participate in community activities on a Site. When Provider partners with outside content providers to bring you additional features, we expect those providers to adhere to their own privacy standards.
+  * 'Personal information' means information or an opinion about an identified individual, or an individual who is reasonably identifiable. FreelancingGig's Privacy Policy applies to personal information collected and/or held by FreelancingGig.
+  * This Privacy Policy also explains how we process 'personal data' about people in the European Union (EU), as required under the General Data Protection Regulation (GDPR).
+  * We will review this policy regularly, and we may update it from time to time.
 
 
 
-* * *
+#### The types of personal information we collect and hold
 
-Any personal information collected about users will not be sold to third parties without the express consent of those users at the time the information is solicited.
+We collect personal information about our users in order provide our products, services, and customer support. Our products, services, and customer support are provided through many platforms including but not limited to: websites, phone apps, email, and telephone. The specific platform and product, service, or support you interact with may affect the personal data we collect. Not all information requested, collected, and processed by us is "Personal Information" as it does not identify you as a specific natural person. This will include majority of "User Generated Content" that you provide us with the intention of sharing with other users. Such "Non-Personal Information" is not covered by this privacy policy. However, as non-personal information may be used in aggregate or be linked with existing personal information; when in this form it will be treated as personal information. As such, this privacy policy will list both types of information for the sake of transparency. In some situation users may provide us with personal information without us asking for it, or through means not intended for the collection of particular types of information. Whilst we may take reasonable steps to protect this data, the user will have bypassed our systems, processes, and control and thus the information provided will not be governed by this privacy policy. In some situations users may provide us personal information over platforms that are outside our control; for example through social media or forums. Whilst any information collected by us is governed by this Privacy Policy, the platform by which it was communicated will be governed by its own Privacy Policy. 
 
-However, for any accounts established with respect to any Site, Provider reserves the right to contact a User regarding account status, changes to the Agreement and other matters relevant to the underlying service and/or the information collected. Provider reserves the right to perform statistical analyses of user behavior and characteristics in order to measure site performance and traffic in specific content areas; to gauge interest in specific content on a Site; to provide third parties with information about the usage behavior of our aggregate user base; or to provide advertisers with information about how many users have viewed or selected links associated with their advertisements, you should be aware that any personally identifying information (e.g., user name, e-mail address) publicly posted in the interactive sections of the site may be collected by third parties for unsolicited purposes. Provider does not take responsibility or liability for such actions, as they are beyond our control.
+####  **How we collect personal information Information that you specifically give us**
 
-Provider may also choose to send a text file known as a "cookie" to our users. The cookie does not contain any personal identifying information. It can be used, for example, to tell how recently you have contacted our site, and it can retain information specific to your actions and selections on our site. (While it can retain information specific to your use of the site, it cannot retain information that can be used to specifically identify you.) We may choose to use this technology in order to provide for a more personal experience on the Site, to check whether you have visited our site before or for other purposes, such as ad delivery, so we can tailor your experience without violating your privacy. Our cookies are stored within users' Web browsers and will not damage your computer system. Provider cannot, however, control the use of cookies or the resulting information by advertisers or third parties hosting data for Provider. If you do not want to have cookies sent to you, your Web browser software should contain a feature that allows you to accept or decline them. However, if you opt to decline them, we cannot guarantee we will be able to provide the same user experience we would if you were to accept them.
+While you use our products and services you may be asked to provide certain types of personal information. This might happen through our website, applications, online chat systems, telephone, paper forms, or in-person meetings. We will give you a Collection Notice at the time, to explain how we will use the personal information we are asking for. The notice may be written or verbal. We may request, collect, or process the following information: 
 
-On request, Provider will make all reasonable efforts to delete a user from any databases operated by Provider that may contain personal identifying information.
+  * Account Details - username, password, profile picture.
+  * Contact Details - email address, phone number.
+  * Location Details - physical address, billing address, timezone.
+  * Identity Details - full name, proof of identity (e.g. drivers licence, passport), proof of address (e.g. utility bill), photograph of the user.
+  * Financial Information - credit card details, wire transfer details, payment processor details (e.g. skrill, paypal), tax numbers.
+  * User Generated Content - project descriptions and attachments, bid description, user profiles, user reviews, contest descriptions and attachment, user messages etc.
 
-Children must be over the age of thirteen in order to use and access the Sites and Services. For children over the age of thirteen, Provider asks that these children receive their parents' permission before submitting any personal information, such as name, address or e-mail address to us or anyone else and before registering for an Account. We encourage parents to get involved with their children's online activities.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-The foregoing policies are effective as of February 1, 2016.
+####  **Information that we collect from others**
 
-Provider reserves the right to change this privacy policy at any time with reasonable notice to users of the existence of a new privacy policy.
+Users can give permission for us to connect to their account on other platforms to collect personal information. This includes but is not limited to Facebook, LinkedIn, and Google. Information collected will be governed by this Privacy Policy. Users can stop us from collecting data from other platforms by removing our access on the other platform or by contacting our support team. Users have the ability to invite non-users to our platform by providing contact details such as email address. In these situations, the information will be collected and stored by us to contact the non-user and to prevent abuse of the invite systems. Your payment provider may transmit information about the payment that we may collect or process. In some situations, personal information of users may be collected from public sources. We may collect or process the following information: 
 
-* * *
+  * Basic Details - username, profile picture.
+  * Contact Details - email address, phone number.
+  * Location Details - Physical Address, billing address, timezone.
+  * Financial Information - payment account details (e.g. paypal email address and physical address), and wire transfer details.
+  * List of contacts - email provider address book.
+  * User Generated Content - user profile.
 
-## Updates
 
-Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via email[info@freelancinggig.com](mailto:info@freelancinggig.com).**
+####  **Information we collect as you use our service**
 
-* * *
+We maintain records of the interactions we have with our users, including the products, services and customer support we have provided. This includes the interactions our users have with our platform such as when a user has viewed a page or clicked a button. In order to deliver certain products or services we may passively collect your GPS coordinates, where available from your device. Most modern devices such as smartphones will display a permission request when our platform requests this data. When we are contacted we may collect personal information that is intrinsic to the communication. For example, if we are contacted via email, we will collect the email address used. We may collect or process the following information: 
+
+  * Metadata - IP address, computer and connection information, referring web page, standard web log information, language settings, timezone, etc.
+  * Device Information - device identifier, device type, device plugins, hardware capabilities, etc.
+  * Location - GPS position.
+  * Actions - pages viewed, buttons clicked, time spent viewing, search keywords, etc.
+
+
+
+####  **Links to other sites**
+
+On our website, you will encounter links to third party websites. These links may be from us, or they may appear as content generated by other users. These linked sites are not under our control and thus we are not responsible for their actions. Before providing your personal information via any other website, we advise you to examine the terms and conditions of using that website and its privacy policy. 
+
+####  **How we use personal information**
+
+The information we request, collect, and process is primarily used to provide users with the product or service they have requested. More specifically, we may use your personal information for the following purposes: 
+
+  * to provide the service or product you have requested;
+  * to facilitate the creation of a User Contract (see Terms of Service for more information);
+  * to provide technical or other support to you;
+  * to answer enquiries about our services, or to respond to a complaint;
+  * to promote our other programs, products or services which may be of interest to you (unless you have opted out from such communications);
+  * to allow for debugging, testing and otherwise operate our platforms;
+  * to conduct data analysis, research and otherwise build and improve our platforms;
+  * to comply with legal and regulatory obligations;
+  * if otherwise permitted or required by law; or
+  * for other purposes with your consent, unless you withdraw your consent for these purposes.
+The 'lawful processing' grounds on which we will use personal information about our users are (but are not limited to): 
+  * when a user has given consent;
+  * when necessary for the performance of a contract to which the user is party;
+  * processing is necessary for compliance with our legal obligations;
+  * processing is necessary in order to protect the vital interests of our users or of another natural person.
+  * processing is done in pursuing our legitimate interests, where these interests do not infringe on the rights of our users.
+
+
+
+We use automated decision when helping matching users to jobs. The primary way this occurs is through how we rank users. These rankings are produced by analyzing user generated content, user activity and the outcome of jobs; in this context, user generated content will include reviews that users receive when completing jobs. More information on these ranking guides can be found in our community articles. Automated decision making is also used to recommend potential jobs to our users and as a part of our marketplace security systems.
+
+####  **When we disclose personal information Our third party service providers**
+
+The personal information of users may be held or processed on our behalf outside Australia, including 'in the cloud', by our third party service providers. Our third party service providers are bound by contract to only use your personal information on our behalf, under our instructions. Our third party service providers include: 
+
+  * Cloud hosting, storage, networking and related providers
+  * SMS providers
+  * Payment and banking providers
+  * Marketing and analytics providers
+  * Security providers
+
+
+
+####  **Third party applications**
+
+Through the FreelancingGig API it is possible for users to grant third party applications access to their FreelancingGig account. Depending on the permissions that are granted, these applications may be able to access some personal information or do actions on the users' behalf. These third party applications are not controlled by us and will be governed by their own privacy policy. Users are able to remove third party applications from access their data through their settings. 
+
+####  **Other disclosures and transfers**
+
+We may also disclose your personal information to third parties for the following purposes: 
+
+  * if necessary to provide the service or product you have requested;
+  * we receive court orders, subpoenas or other requests for information by law enforcement;
+  * if otherwise permitted or required by law; or
+  * for other purposes with your consent.
+
+
+
+We are a U.S. based company, with offices around the world, your personal information may be processed by staff in any of our offices. FreelancingGig currently has offices in the United States and India. 
+
+Accessing, correcting, or downloading your personal information You have the right to request access to the personal information FreelancingGig holds about you. Unless an exception applies, we must allow you to see the personal information we hold about you, within a reasonable time period, and without unreasonable expense for no charge. Most personal information can be accessed by logging into your account. If you wish to access information that is not accessible through the platform, or wish to download all personal information we hold on you in a portable data format, please contact our Privacy Officer. You also have the right to request the correction of the personal information we hold about you. All your personal information can be updated through the user settings pages. If you require assistance please contact our customer support. 
+
+####  **Exercising your other rights**
+
+You have a number of other rights in relation to the personal data FreelancingGig holds about you, however, there may be restrictions on how you may exercise the rights. This is largely due to the nature of the products and services we provide. Much of the data we collect is in order to facilitate contracts between users, facilitate payments, and provide protection for the legitimate users of our marketplace - these data uses are protected against the below rights. You have the right to: 
+
+  * seek human review of automated decision-making or profiling
+  * opt-out of direct marketing, and profiling for marketing
+  * erasure
+  * temporary restriction of processing.
+
+
+
+Human review of automated decision making / profiling - In the case of our ranking algorithms, it is not possible to exercise this right as this ranking is a fundamental part of the marketplace that users participate in, opting out would mean not being able to participate in the marketplace. Decisions affecting marketplace security are already reviewed by humans.
+
+Direct marketing and profiling - users can control what emails they receive through their settings page. Erasure - Most personal information and user generated content cannot be deleted as they are used to support contracts between users, document financial transactions, and are used in providing protecting other legitimate users of the marketplace. In the case of non-personal data that can be linked with personal data, it will either be erased or otherwise anonymized from the personal data.
+
+Temporary restriction to processing - under certain circumstances you may exercise this right, in particular if you believe that the personal data we have is not accurate, or you believe that we do not have legitimate grounds for processing your information. In either case you may exercise this right by contacting our privacy officer. Unless stated above, users may exercise any of the above rights by contacting our Privacy Officer. 
+
+####  **To contact our Privacy Officer**
+
+If you have an enquiry or a complaint about the way we handle your personal information, or to seek to exercise your privacy rights in relation to the personal information we hold about you, you may contact our Privacy Officer as follows: 
+
+By Email: privacy-officer@freelancinggig.com 
+
+By Mail: Attn: Privacy Officer 8270 Woodland Center Blvd, Tampa FL 33614 USA For the purposes of the GDPR, our Privacy Officer is also our Data Protection Officer (DPO). 
+
+While we endeavor to resolve complaints quickly and informally, if you wish to proceed to a formal privacy complaint, we request that you make your complaint in writing to our Privacy Officer, by mail or email as above. We will acknowledge your formal complaint within 10 working days of receipt. If you are in the European Union, you can choose to instead lodge a complaint with your local Data Protection Authority (DPA). The list of DPAs is at http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm.
