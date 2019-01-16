@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the readingplus.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118222244id_/http%3A//readingplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingplus.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116193210id_/https%3A//www.readingplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reading Plus
 
-Revised on May 24, 2018
+_Revised on May 24, 2018_
 
 We at Taylor Associates Communications, Inc. (“Taylor Associates” or “we”) respect your privacy and are committed to protecting your privacy through our compliance with this policy.
 
