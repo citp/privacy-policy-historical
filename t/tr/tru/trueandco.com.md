@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueandco.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906173339id_/https%3A//trueandco.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueandco.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116132346id_/https%3A//trueandco.com/privacy_policy) for the most accurate reproduction.*
 
 # Read our Privacy Policy | True&Co.
 
