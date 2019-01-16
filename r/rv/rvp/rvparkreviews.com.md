@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rvparkreviews.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216021118id_/http%3A//www.rvparkreviews.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvparkreviews.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116095903id_/http%3A//www.rvparkreviews.com/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RV Park Reviews
 
