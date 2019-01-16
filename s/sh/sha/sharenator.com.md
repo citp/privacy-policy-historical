@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharenator.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115193011id_/https%3A//sharenator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharenator.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116123148id_/https%3A//sharenator.com/privacy.html) for the most accurate reproduction.*
 
 # Sharenator - It's Human Nature To Share
 
@@ -46,7 +46,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.sharenator.com/SHARENATOR_TERMS_OF_SERVICE/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://sharenator.com/SHARENATOR_TERMS_OF_SERVICE/>
 
 **Your Consent**
 
@@ -58,6 +58,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 This policy was last modified on 09 Sep 2010 
 
-<http://www.sharenator.com/contacts.html>
+<https://sharenator.com/contacts.html>
 
 Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
