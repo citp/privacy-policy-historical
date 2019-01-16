@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the wonga.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830113937id_/https%3A//www.wonga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonga.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117003534id_/https%3A//www.wonga.com/privacy-policy) for the most accurate reproduction.*
 
 # Data protection & Privacy policy | Wonga
 
-Any reference to we or us in this Privacy Policy is to WDFC UK Limited (trading as Wonga). We are the data controller of any personal data we collect, which means we are responsible for complying with data protection laws. 
+Any reference to we or us in this Privacy Policy is to WDFC UK Limited (in administration) (trading as Wonga). We are the data controller of any personal data we collect, which means we are responsible for complying with data protection laws. 
 
 We believe you deserve respect when it comes to the security and use of your personal data, so this Privacy Policy sets out details of the personal data we collect, why we use your personal data and, more generally, the ways in which we use your personal data, including how we look after your personal data. Please take your time to read this Privacy Policy carefully. When using our website this Privacy Policy should be read alongside our cookies policy at [www.wonga.com/cookie-policy](https://web.archive.org/cookie-policy "Cookie Policy"). 
 
 When we need to update this Privacy Policy to reflect any changes in how we use your personal data or where, from time to time, we need to make changes, for example as the result of new regulation, new technologies or other developments in data protection laws or privacy generally, we may provide you with an updated version of this Privacy Policy. You should also periodically check our website at [www.wonga.com](https://web.archive.org/ "wonga.com") to view the most up-to-date version of this Privacy Policy. We provide you with the ability to opt-in or opt-out of marketing when we collect your personal data and while you have a relationship with us. 
 
-If you have any questions regarding our Privacy Policy or how we collect, store or use your personal data please contact us by email at [customercare@wonga.com](mailto:customercare@wonga.com), by phone [020 7138 8330](tel:02071388330) or by letter for the attention of the Data Protection Officer, WDFC UK Limited, The Harlequin Building, 65 Southwark Street, London, SE1 0HR. 
+If you have any questions regarding our Privacy Policy or how we collect, store or use your personal data please contact us by email at [customercare@wonga.com](mailto:customercare@wonga.com), by phone [020 7138 8330](tel:02071388330) or by letter for the attention of the Data Protection Officer, WDFC UK Limited (in administration), The Harlequin Building, 65 Southwark Street, London, SE1 0HR. 
 
 ##  1\. Who do we collect information about? 
 
@@ -225,7 +225,7 @@ Additional legal ground for special categories of personal data or personal data
 
 ##  6\. Who do we share your personal data with? 
 
-We will share your personal data with Wonga employees, some of whom are based in the Republic of South Africa. We may also share your personal data with other companies in the Wonga Group for general business administration purposes or, where you have provided your consent, for the provision of products and services offered by the Wonga Group, further details of which can be found in section 8 of this Privacy Policy. We may also disclose your personal data to the third parties listed below. 
+We will share your personal data with Wonga employees, some of whom are based in the Republic of South Africa. We may also share your personal data with other companies in the Wonga Group (in administration) for general business administration purposes or, where you have provided your consent, for the provision of products and services offered by the Wonga Group (in administration), further details of which can be found in section 8 of this Privacy Policy. We may also disclose your personal data to the third parties listed below. 
 
 If you have a question about disclosure of your personal data, please see section 15 of this Privacy Policy for our contact details. We will share your personal data with the categories of third parties listed below either for the purposes explained in section 5 of this Privacy Policy or where you have provided your consent. Where appropriate, we take the required steps to ensure that your personal data is protected by placing the party we are transferring information to under contractual obligations to protect it and to use it only as permitted by us. 
 
@@ -288,7 +288,7 @@ If you have any further questions about our use of CRAs or FPAs please contact u
 
 ##  8\. What marketing activities do we carry out? 
 
-We may share information within the Wonga Group to inform you of other products and services that might be of interest to you, but we will only do this where you have provided your consent. 
+We may share information within the Wonga Group (in administration) to inform you of other products and services that might be of interest to you, but we will only do this where you have provided your consent. 
 
 We are committed to only sending you marketing communications that you would like to receive. If you wish to unsubscribe from emails sent by us, you may do so at any time by clicking on the 'unsubscribe' link that appears in all emails. Otherwise you can update your preferences in the 'My account' section of your online account or by contacting us using the details set out in section 15 of this Privacy Policy. 
 
@@ -387,7 +387,7 @@ You can find more information about this in our [Cookies Policy](https://web.arc
 
 ##  15\. Contact Us 
 
-If you have any questions about how we collect, store or use your personal data, you may contact us by email at [customercare@wonga.com](mailto:customercare@wonga.com), by phone [020 7138 8330](tel:02071388330) or by letter for the attention of the Data Protection Officer, WDFC UK Limited, The Harlequin Building, 65 Southwark Street, London, SE1 0HR 
+If you have any questions about how we collect, store or use your personal data, you may contact us by email at [customercare@wonga.com](mailto:customercare@wonga.com), by phone [020 7138 8330](tel:02071388330) or by letter for the attention of the Data Protection Officer, WDFC UK Limited (in administration), The Harlequin Building, 65 Southwark Street, London, SE1 0HR 
 
 ##  16\. Updates to this Privacy Policy 
 
