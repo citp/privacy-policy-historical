@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imanila.ph privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923043429id_/https%3A//imanila.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imanila.ph privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116202423id_/https%3A//imanila.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iManila
 
