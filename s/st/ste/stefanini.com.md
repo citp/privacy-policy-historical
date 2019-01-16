@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stefanini.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107201033id_/http%3A//www.stefanini.com/en/stefanini/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stefanini.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116215859id_/https%3A//stefanini.com/en/stefanini/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
