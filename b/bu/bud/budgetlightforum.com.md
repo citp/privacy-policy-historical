@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetlightforum.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127141422id_/http%3A//budgetlightforum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetlightforum.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116222336id_/http%3A//budgetlightforum.com/privacy-policy) for the most accurate reproduction.*
 
 # BudgetLightForum.com Privacy Policy | BudgetLightForum.com
 
@@ -6,13 +6,13 @@ Fri, 05/25/2018 - 20:39
 
 [#1](https://web.archive.org/privacy-policy)
 
-Offline 
+Online 
 
-Last seen: 1 hour 55 min ago 
+Last seen: 1 min 21 sec ago 
 
 Joined: 01/08/2010 - 09:29 
 
-Posts: 6221 
+Posts: 6276 
 
 Location: The Light 
 
