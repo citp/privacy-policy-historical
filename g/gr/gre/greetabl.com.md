@@ -1,92 +1,88 @@
-> *The following text is extracted and transformed from the greetabl.com privacy policy that was archived on 2015-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150923123549id_/http%3A//greetabl.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greetabl.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116093040id_/https%3A//greetabl.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | greetabl
+# Privacy Policy - Greetabl
 
-PRIVACY STATEMENT
+**_Greetabl Privacy Policy_**   
+Effective Date: 8/31/2018 
 
-\----
+This Privacy Policy describes the practices that GREETINGQUBE, LLC d/b/a Greetabl (referred to as “Greetabl” or “we”) follows with respect to the collection, use, maintenance and disclosure of information collected through the website located at greetabl.com (the “Site”). This Privacy Policy applies only to information we collect from this Site, and does not apply to any other website or business activity of greetabl. By using our Site, you consent to the collection, use, maintenance and disclosure of this information by us. 
 
-SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
+If you want to know what information we collect, why we collect it, and how it impacts you, then please take some time to read through our privacy policy: 
 
-When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.   
-When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.  
-Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates. 
+**_What Information Do We Collect?_**
 
-SECTION 2 - CONSENT
+a. **Personal Information** – Personal information is any information that is considered personally identifiable, like your name, email address, phone number, mailing address or payment information, that allows us to identify or contact you. When you create an account with us, edit or update your account information, upload images or other content to our Site, or order or use any of our products or services, we may collect personal information. 
 
-How do you get my consent?  
-When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.  
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
+We collect additional personal information when volunteered by you, such as information provided in surveys, blog comments, and emails. 
 
-How do I withdraw my consent?  
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at jf@greetabl.com or mailing us at:  
-greetabl  
-1165 Clock Tower Plaza #124 Washington Missouri US 63090
+You can choose not to provide personal information to us. However, if you do not provide such information, you may not be able to make a purchase or create an account, so your ability to use the Site will be limited. 
 
-SECTION 3 - DISCLOSURE
+b. **Uploaded Images & Content** – **** We may collect additional information that you submit to the Site when designing a mailer or other packaging, including text, photographs and other images. We may collect technical information about those photographs and images (such as the file size and aspect ratio). ****
 
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. 
+c. **Usage Information & Cookies **– We may also collect “usage information”. It is information automatically collected by our web server (which may be hosted by a third-party) that your web browser makes available whenever you visit or use our Site. For example, we may collect your IP address, browser type, operating system version, and information regarding your browsing activities (e.g., information about the websites that you visit before or after visiting the Site) and geographic location. ****
 
-SECTION 4 - SHOPIFY
+We may also use cookies to collect information. Cookies are tiny text files that are stored on your computer or mobile device. Cookies help us to facilitate your shopping process, including making it possible for us to store information regarding your design, image, text and other selections for a mailer or packaging that you are designing, and the contents of your shopping cart. By doing this, we can personalize your experience and save you time during checkout. 
 
-Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.   
-Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
+It is possible to prevent cookies from being used by your browser. If you refuse to accept cookies, however, some portions of the Site may not function as intended. 
 
-Payment:  
-If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.  
-All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.   
-PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.  
-For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
+d. **Information Collected by Authorized Third Parties -** We work with third parties to monitor our website for the purposes of obtaining information regarding website traffic and other statistics. Where authorized by us, these third parties may use cookies and/or other monitoring technologies to compile anonymous statistics about our website visitors. For example, this may include information regarding a visitor’s browsing activities, the pages and content viewed, the user’s geographic location, and the time and duration of visits **.** ****
 
-SECTION 5 - THIRD-PARTY SERVICES
+**_California Do Not Track Disclosures_** **__** **__**
 
-In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.   
-However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.  
-For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.   
-In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.  
-As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.  
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service. 
+Greetabl does not respond to “do not track” signals. 
 
-Links  
-When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.  
-SECTION 6 - SECURITY
+**_Use & Disclosure of Information_**
 
-To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.  
-If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+a. **General Use of Personal Information** – **** We use your personal information for the purpose that it was collected and for other purposes described in this Privacy Policy. For example, we may use personal information to fulfill your requests for products and services, to process payments, to improve our services, to customize the content you see, to contact you, and for business/administrative and marketing/promotional purposes. 
 
-SECTION 7 - COOKIES
+b. **Uploaded Images & Content** – We may store photographs, images and other content uploaded or submitted to the Site - and information about any such photographs and images - in order to provide products and services, improve our products and services, garner insights and information about our users, and to fulfill orders. Our printing and assembly process requires human involvement, so greetabl employees and vendors will see your photographs, images and other content that you submit to the Site. We do not otherwise use the photographs, images or content in a manner that would identify you personally. 
 
-Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.  
-_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).  
-_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits  
-_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.  
-cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.  
-_secure_session_id, unique token, sessional  
-storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.  
-n  
-SECTION 8 - AGE OF CONSENT
+c. **Usage Information** – We may use usage information in order to analyze trends, generally learn about usage of the Site, help us run and maintain our Site, and provide a better, more customized experience. 
 
-By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+d. **Referrals** – If you use our referral program to refer your friends to our Site, we will use the information you provide about your friends to contact them regarding your referral. We will retain such information in our systems and may use such information to verify whether such person ordered a product or visited the Site or to contact such persons to follow up on your referral. 
 
-SECTION 9 - CHANGES TO THIS PRIVACY POLICY
+e. **Promotions & Surveys** – Every now and then, greetabl may invite customers to take part in surveys, promotions, contests and sweepstakes. The information we collect from these surveys, promotions, contests, and sweepstakes may be matched with individual customer accounts and used by Greetabl to contact you regarding our surveys, promotions, contests and sweepstakes and to improve your overall customer experience, and may be shared with third parties who provide services to us or on our behalf. 
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.  
-If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+f. **General Disclosure of Information** \- We may provide your personally identifiable information and usage information to third parties who provide services to us or on our behalf (e.g., those who help us fulfill or deliver your order, process payments, etc.). We may also disclose usage information to our affiliates and third parties, including, but not limited to, our advertisers. We may disclose your first name, last name and company name to recipients who have received a Greetabl that was sent by you. 
 
-ADDITIONAL NOTES  
-Personal Information  
-When you interact with us, we automatically receive and store certain types of information, such as the content you view, the date and time that you view this content, the products you purchase, or your location information associated with your IP address. We use the information we collect to serve you more relevant advertisements (referred to as “Retargeting”). This is statistical information used to monitor the usage of our website and for advertising purposes. This information does not include personal information.
+g. **Business Transfers** – We might sell or buy subsidiaries, or business units. In such transactions, personal information and usage information are generally some of the transferred business assets. Also, in the event that our assets are sold, personal information and usage information may be one of the transferred assets. We may disclose personal information and usage information to affiliated companies, our parent company and sister companies. 
 
-Cookies  
-As you visit Greetabl.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with Greetabl.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit the page http://www.adroll.com/about/privacy to opt out of AdRoll and their partners' targeted advertising.
+h. **Compliance with Laws and Law Enforcement** – We may use and disclose your personal information and usage information when we have reason to believe that using and/or disclosing this information is necessary to investigate, identify, contact, or take action against someone who may have engaged in illegal or unethical activities or breached our Terms of Use or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our Site, or anyone else who could be harmed by such activities. We may also disclose personal information when we reasonably believe that the law requires it. 
 
-Security  
-We implement a secure processing server on our site when collecting information to ensure a high level of security for your personal information entered such as bank details and credit card information.
+**_Storage of Information_**
 
-QUESTIONS AND CONTACT INFORMATION
+a. **Location of Storage** – Any information, photographs, images or other content we collect may be transferred to and stored in our servers or those of third parties that act on our behalf (such as hosting providers) in the USA or elsewhere. By using our services you agree to such collection, transfer and storage. 
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at jf@greetabl.com or by mail at   
-greetabl   
-911 Washington Ave, Suite 656  
-St. Louis, MO 63101  
-\---- 
+b. **Duration of Storage** – We may store any of your information, photographs, images and content for whatever duration we deem necessary to ensure that our records are accurate and complete. Such information, photographs, images and content may persist even after you delete your account. However, Greetabl does not operate as storage repository for your images or other content. If desired, you should make your own back-up and archival copies of any content, including images, that you upload or otherwise submit to the Site. We will not be liable to you for any loss of images or content. 
+
+**_Access to Account Information and Preferences_**
+
+a. **Changing Your Account Preferences** – You can opt in or out of our marketing communications and newsletter through your account preferences, or you can unsubscribe by following instructions contained in the messages you receive. We do reserve the right to send you certain communications relating to the goods and services greetabl provides, such as updates to our Terms of Service or Privacy Policy, service/product announcements, administrative messages, or messages regarding any order you placed, which are considered part of your account membership. We do not offer you the opportunity to opt-out of receiving certain messages, including order confirmations and shipping notifications. 
+
+b. **Modifying/Deleting Your Account** – If you have created an account, you may review, update, or correct personal information submitted in connection with that account by logging into your greetabl account and visiting the account preferences page. If you request that greetabl delete your account, we will use reasonable efforts to deactivate your account and delete your personal information in a timely manner, unless we are required to retain such information by law, or we reasonably believe we need to retain such information for business purposes. 
+
+**_Privacy of Children_**
+
+The Site is a general audience website. We do not intentionally collect personal information from users of this Site who are under the age of thirteen. ****
+
+If we become aware that a user of our Site is under the age of 13 and has placed an order using our Site, we will remove that child’s personal information from our files. ****
+
+**_Security_** ****
+
+Information transmitted on the Internet and/or stored on systems attached to the Internet is not 100% secure. As a result, we do not ensure, warrant or guarantee the security or integrity of such information. We will not be responsible for disclosure of any information due to errors in transmission or the unauthorized acts of third parties. 
+
+You help to maintain the security of your personal information stored in our systems by keeping your username and password confidential and protecting against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+
+**_Third Party Sites_**
+
+Our Site may contain links to other websites for news and other information. Our Privacy Policy only applies to our Site, and we are not responsible for the privacy practices or the content of other websites which are linked to or integrated with our Site. You should check the privacy policies of those sites before providing your personal information to them. 
+
+**_Changes/Updates to the Privacy Policy_**
+
+We reserve the right to revise this policy at any time. When we do, we will give you notice of the revised Privacy Policy by posting the revised Privacy Policy on the Site and by revising the “effective date” at the top of this Privacy Policy. You are responsible for regularly reviewing the current privacy policy. 
+
+**_Questions and Suggestions_**
+
+If you have any questions about this Privacy Policy, you can contact us at [hello@greetabl.com](mailto:hello@greetabl.com) with “Privacy Policy” in the subject line. ** __**
+
+**greetabl** is a registered trademark of GREETINGQUBE, LLC, a corporation registered under the laws of the state of Missouri in the United States with our principal place of business at 1006 Olive St, Suite 2E, St. Louis, MO 63101. 
