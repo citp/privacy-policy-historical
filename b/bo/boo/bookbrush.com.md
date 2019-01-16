@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookbrush.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116055145id_/http%3A//bookbrush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbrush.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116154916id_/https%3A//bookbrush.com/privacy-policy) for the most accurate reproduction.*
 
 # Book Brush Privacy Policy - Book Brush
 
