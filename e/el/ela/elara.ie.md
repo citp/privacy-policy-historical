@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elara.ie privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223044048id_/https%3A//www.elara.ie/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elara.ie privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117004553id_/https%3A//www.elara.ie/privacy.aspx) for the most accurate reproduction.*
 
 # Elara Online Ireland - Buy Laptops, Tablets, Computers ,Printers, Monitors, Hard Disks Drives, Memory, Projectors, Motherboards, Routers, HP Store and more
 
@@ -25,7 +25,7 @@ Elara Online
 Parkwest  
 Dublin 12  
 Ireland  
-Email: [info [at] elara.ie](https://web.archive.org/web/20181223044048id_/https%3A//www.elara.ie/info%20\[at\]%20elara.ie)  
+Email: [info [at] elara.ie](https://web.archive.org/web/20190117004553id_/https%3A//www.elara.ie/info%20\[at\]%20elara.ie)  
 Tel: 01-6251320
 
 (Registered company number in Ireland: 413151) 
