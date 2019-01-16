@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogdum.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115031829id_/http%3A//blogdum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogdum.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116120730id_/http%3A//blogdum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BlogDum
 
