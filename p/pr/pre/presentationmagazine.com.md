@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presentationmagazine.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314030100id_/https%3A//www.presentationmagazine.com/privacy-policy-16928.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentationmagazine.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116045337id_/https%3A//www.presentationmagazine.com/privacy-policy-16928.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,5 +73,5 @@ We may update this privacy policy from time-to-time, particularly as technology 
 Published On: 1st Jan 2015 
 
 Read more about -   
-[Privacy](https://www.presentationmagazine.com/privacy)   
+[Media Info](https://www.presentationmagazine.com/media-info)   
 
