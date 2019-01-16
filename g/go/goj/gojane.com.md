@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gojane.com privacy policy that was archived on 2017-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170808014605id_/https%3A//www.gojane.com/gojane-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gojane.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116231047id_/https%3A//www.gojane.com/gojane-privacy-policy.html) for the most accurate reproduction.*
 
 # GoJane Privacy Policy
 
