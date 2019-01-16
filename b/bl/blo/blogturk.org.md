@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogturk.org privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116132530id_/http%3A//blogturk.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogturk.org privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116133016id_/http%3A//blogturk.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BLOG TURK
 
