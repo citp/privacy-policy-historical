@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4-you.net privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221013839id_/http%3A//4-you.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4-you.net privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116132422id_/http%3A//4-you.net/privacy.html) for the most accurate reproduction.*
 
 # 4 you
 
