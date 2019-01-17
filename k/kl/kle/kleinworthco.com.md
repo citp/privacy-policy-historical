@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kleinworthco.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916085009id_/https%3A//www.kleinworthco.com/work-with-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kleinworthco.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117054800id_/https%3A//www.kleinworthco.com/work-with-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kleinworth & Co
 
@@ -6,57 +6,113 @@
 
 **Welcome to Kleinworth & Co.**
 
-Kleinworth & Co. has created this Privacy Policy in order to set forth the principles governing our information-gathering and dissemination practices, including but not limited to such activities as forums, chat rooms, personal profile pages, product reviews, article commentary, blogs, RSS feeds and newsletters, among other offerings. Kleinworth & Co. has a strong commitment to the privacy of our users. Please note that this Privacy Policy applies only to information collected through Kleinworth & Co. and not to information collected offline or to information you may provide to any third-party sites to which Kleinworth & Co. may link, except as expressly provided herein.
+Kleinworth & Co. has created this Privacy Policy in order to set forth the principles governing our information-gathering and dissemination practices, including but not limited to such activities as forums, chat rooms, personal profile pages, product reviews, article commentary, blogs, RSS feeds and newsletters, among other offerings. Kleinworth & Co. has a strong commitment to the privacy of our users. Please note that this Privacy Policy applies only to information collected through Kleinworth & Co. and not to information collected offline or to the information you may provide to any third-party sites to which Kleinworth & Co. may link, except as expressly provided herein.
 
-**Information We Collect**
+Kleinworth & Co. found at https://www.kleinworthco.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
-There are two kinds of information that Kleinworth & Co. can obtain about you: “Anonymous Information” and “Personally Identifiable Information.”  
-“Anonymous Information” consists of non-personally-identifiable data, such as your Internet Protocol (“IP”) address or domain, or information about your usage on Kleinworth & Co. that is used for administrative purposes only. For example, an IP address is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We may collect our users’ IP addresses for such purposes as to help diagnose problems with our servers and to report aggregate information to our advertisers, corporate affiliates and consultants, and to third parties that perform particular services on our behalf.
+**We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.**
 
-We may also use the information linked to IP addresses to ban users who violate our Terms and Conditions of use.
+**WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**
 
-“Personally Identifiable Information” is any information that personally identifies you, such as your name, street address, email address, or telephone number. We collect such information when, for example, you enter a contest, subscribe to our email newsletter, and participate in other interactive online activities such as forums.
+**Information You Voluntarily Submit to the Website:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
 
-When we collect Personally Identifiable Information from you, you will have the opportunity to “opt in” to receive email or other digital communications from us and/or our business partners.
+**Information We Collect from Others:** We may receive information about you from other sources. You may link your Facebook, Instagram, and/or Google accounts to your user profile. If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account. The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
 
-If you have submitted your personal information to Kleinworth & Co., you may correct, amend or delete the Personally Identifiable Information maintained on file about you if it is incorrect.
+**Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-In all cases, we will only use your information as permitted by law. Notwithstanding any other provision of this Privacy Policy, however, we may disclose Personally Identifiable Information to others if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with the law or with legal process; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or property of our users or the public. Please note that we may not provide you with notice prior to disclosure in such cases.  
-Use of “Cookies”
+**Cookies:** We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-Kleinworth & Co. uses “cookies” – data that is transferred from Kleinworth & Co. to your hard drive for record-keeping purposes. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit Kleinworth & Co.. Some of the advertisements appearing on Kleinworth & Co. are delivered by our third-party ad network, DoubleClick. In the course of serving advertisements, DoubleClick may place or recognize a unique “cookie” in your browser’s cache, and may use Anonymous Information (including date/time of the banner ad displayed, the ad that was displayed and the IP address of the visitor) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you and to collect statistical information. For more information about DoubleClick’s privacy policy, please click here. If you would like to “opt out” of having a unique cookie placed on your hard drive by DoubleClick, please click here or here.
+**HOW YOUR INFORMATION MAY BE USED**
 
-**Disclosure of Information through Business Transfers**
+We may use the information collected in the following ways:
 
-As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information. In such transactions, user information may be among the transferred assets. Similarly, in the event that a portion or all of Kleinworth & Co.’s assets are sold or transferred to a third party, customer information (including your email address) would likely be one of the transferred business assets.
+To operate and maintain the Website;  
+To create your account, identify you as a user of the Website, and customize the Website for your account;  
+To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;  
+To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;  
+To respond to your comments or inquiries;  
+To provide you with user support;  
+To track and measure advertising on the Website;  
+To protect, investigate, and deter against any unauthorized or illegal activity.
 
-**Third Party Web Sites**
+**THIRD-PARTY USE OF PERSONAL INFORMATION**
 
-Kleinworth & Co. contains links to third-party Web sites not owned or controlled by Kleinworth & Co.. Kleinworth & Co. is not responsible for the privacy practices or the content of such third-party Web sites. Inclusion of any linked Web site on Kleinworth & Co. does not imply or express an approval or endorsement of the linked Web site by us, or of any of the content, opinions, products or services provided on these Web sites. Even if an affiliation exists between Kleinworth & Co. and a third-party Web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site via a link from one of our Sites, we encourage you to consult that Web site’s privacy policy before providing any personal information, and whenever interacting with any such Web site.
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-**Public Forums**
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-Kleinworth & Co. may make chat rooms, forums, blogs, article commenting, and personal profile pages available to users. Please remember that any such information that you may choose to provide in these areas becomes accessible to the public, and also becomes the property of Kleinworth & Co. in accordance with our Terms and Conditions, and we may use such information in any way that we see fit. Consequently, you should exercise caution when deciding to disclose your personal information or to upload material of any kind.
+The Website currently uses the following third-party service providers:
 
-**Security**
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-Kleinworth & Co. has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control. Security of information communicated by or to us over the Internet is of utmost concern to us; however, no data transmission over the Internet can be guaranteed to be 100% secure. Please note that your email, like most, if not all, unencrypted Internet communications, may potentially be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use email to communicate information to us that you consider confidential. While we strive to protect your personal information, Kleinworth & Co. cannot ensure or warrant the security of any information you transmit to us. Once we receive your transmission, we will use reasonable efforts to ensure its security on our internal systems. Depending on the nature of the inquiry, your communication may be discarded or archived.
+Mailerlite – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications. Please refer to Mailerlite’s privacy policy for further information.
 
-**Policy Regarding Minors**
+One Signal – this service is used to send you push-notifications through your web browser, should you choose. Please refer to One Signal’s privacy policy for further information.
 
-Children should always ask parents before providing any personal information online. No information should be submitted to or posted on Kleinworth & Co. by any minor (a person under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed during collection, we do not knowingly provide any Personally Identifiable Information about minors, regardless of its source, nor is this information knowingly used by Kleinworth & Co. for any marketing or promotional purposes. Minors are not eligible to participate in contests.
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
-Kleinworth & Co. abides by the Children’s Online Privacy Protection Act. In the event that we learn that we have collected information from any child under the age of 13 without verification of parental consent, we will delete this information from our database as quickly as reasonably possible. If you believe that any Site has collected any information about anyone under 13, please contact Kleinworth & Co.’s Site Administrator via postal mail or email at one of the addresses listed below.
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-**Financial Relationships**
+**ANONYMOUS DATA**
 
-Please note that Kleinworth & Co. may have financial relationships with some of the merchants/vendors mentioned on this website. In some instances, Kleinworth & Co. may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for said merchant/vendor.
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-**Limitation of Liability**
+**PUBLICLY VISIBLE INFORMATION**
 
-Kleinworth & Co. PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS WEB SITES “AS IS” WITHOUT WARRANTIES OF ANY KIND. YOU AGREE THAT Kleinworth & Co. SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON OUR FORUMS THAT ANY DOWNLOADING OF MATERIALS FOUND ON OR THROUGH Kleinworth & Co. FORUMS IS DONE AT YOUR OWN RISK, AND THAT Kleinworth & Co. IS NOT RESPONSIBLE FOR UNSOLICITED COMMUNICATIONS THAT ARISE FROM YOUR POSTINGS. Kleinworth & Co. SHALL NOT BE RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING WITOUT LIMITATION, ANY THIRD PARTY AD NETWORK.
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible. To create a user profile, you must choose a username and password and input your email address for profile confirmation. Your email address will never be available publicly. At your option, you may also add an avatar, a profile description, and a link to your website.
 
-**Consent and Modifications to this Privacy Statement**
+You may also choose to link your Facebook, Instagram, and Google Account.
 
-Kleinworth & Co. is controlled, operated and administered entirely within the United States. By using Kleinworth & Co. and/or participating in the activities of Kleinworth & Co. Community, you signify your agreement to the terms of this Privacy Statement. If you do not agree with this Privacy Statement, please do not disclose any personal information through our site. Kleinworth & Co. may modify this Privacy Statement at any time, at its discretion, and modifications are effective upon being posted on this the applicable Site. You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it.  
-This Privacy Policy is effective as of December 2013 and supersedes all earlier versions of our Privacy Policy
+Users may see your username, avatar, profile description and website information.
+
+COOKIES
+
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
+
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+**ADVERTISING**
+
+**Display Ads**
+
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
+
+**Retargeting Ads**
+
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+**Affiliate Program Participation**
+
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link to an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+Kleinworth & Co. is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+**Newsletters**
+
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+**RIGHTS RELATED TO YOUR PERSONAL INFORMATION**
+
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at gina@kleinworthco.com to be removed from our mailing list.
+
+Access – You may access the personal information we have about you by submitting a request to gina@kleinworthco.com.
+
+Amend – You may contact us at gina@kleinworthco.com to amend or update your personal information.
+
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to gina@kleinworthco.com.
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+**SENSITIVE PERSONAL INFORMATION**
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+**CHILDREN’S INFORMATION**
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at gina@kleinworthco.com and we will use our best efforts to promptly remove such information from our records.
+
+**CONTACT INFORMATION**
+
+At any time, please contact us at gina@kleinworthco.com for questions related to this Privacy Policy. 
+
+This Privacy Policy is effective as of May 2018 and supersedes all earlier versions of our Privacy Policy
