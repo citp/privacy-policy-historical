@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the elegislation.gov.hk privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929194426id_/https%3A//www.elegislation.gov.hk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elegislation.gov.hk privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117015416id_/https%3A//www.elegislation.gov.hk/privacy) for the most accurate reproduction.*
 
 # Hong Kong e-Legislation - Privacy Policy
 
 ##### **Privacy Policy**  
  
 
-  1. The Department of Justice (DOJ) handles all personal data submitted through the Hong Kong e-Legislation website in accordance with the [Personal Data (Privacy) Ordinance (Cap. 486)](https://web.archive.org/web/20180929194426id_/https%3A//www.elegislation.gov.hk/hk/cap486).  
+  1. The Department of Justice (DOJ) handles all personal data submitted through the Hong Kong e-Legislation website in accordance with the [Personal Data (Privacy) Ordinance (Cap. 486)](https://web.archive.org/web/20190117015416id_/https%3A//www.elegislation.gov.hk/hk/cap486).  
  
   2. DOJ records visits to this website without collecting any personal identifiable information of users. Such general statistics are collected for the compilation of statistical reports and the diagnosis of problems with or concerning computer systems to help DOJ improve this website.  
  
