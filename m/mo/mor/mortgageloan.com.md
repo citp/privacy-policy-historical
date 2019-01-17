@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mortgageloan.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112161933id_/https%3A//www.mortgageloan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgageloan.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118004217id_/https%3A//www.mortgageloan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MortgageLoan.com
 
 Last updated: July 26, 2016
 
-Thank you for visiting Mortgage Loan Directory and Information LLC's ("Mortgageloan.com") forge Internet web site located at the URL[https//www.mortgageloan.com](https://www.mortgageloan.com/) ("Site"). This Privacy Policy details certain policies implemented throughout Mortgageloan.com governing Mortgageloan.com's use of personally identifiable information about users of our Site and users of services available through this Site (the “Services”).
+Thank you for visiting [Mortgage Loan](https://www.mortgageloan.com/) Directory and Information LLC's ("Mortgageloan.com") forge Internet website located at the URL [https//www.mortgageloan.com](https://www.mortgageloan.com/) ("Site"). This Privacy Policy details certain policies implemented throughout Mortgageloan.com governing Mortgageloan.com's use of personally identifiable information about users of our Site and users of services available through this Site (the “Services”).
 
 ### Privacy Policy Updates
 
@@ -14,7 +14,7 @@ Due to the Internet's rapidly evolving nature, Mortgageloan.com may need to upda
 
 You can generally visit our Site without revealing any personally identifiable information about yourself. However, in certain sections of this Site and when you use our Services, we may invite you to contact us with questions or comments, request quotes or information, post content and other materials, participate in a user forum or blog, or complete a registration form. Due to the nature of some of these activities, we may collect personally identifiable information that you submit such as your name, contact data (address, email address, phone number), gender, social security number, driver’s license number, income level and other financial information, license information, username, password, age or date of birth and employment information. We may also collect additional personally identifiable information that you voluntarily include in your postings or transmit with your communications to us. Other users will be able to view who has posted certain content or documents.
 
-We may use your personally identifiable information to deliver requested services or information, provide you, or have our third party service partners (as described in the Disclosure Section below) provide you, with notices regarding goods or services you may be interested in purchasing in the future, register you to use our Site and Services, verify your authority to enter our Site and to improve the content and general administration of the Site and our Services.
+We may use your personally identifiable information to deliver requested services or information, provide you, or have our third-party service partners (as described in the Disclosure Section below) provide you, with notices regarding goods or services you may be interested in purchasing in the future, register you to use our Site and Services, verify your authority to enter our Site and to improve the content and general administration of the Site and our Services.
 
 ### Method of Information Collection
 
@@ -36,7 +36,7 @@ We employ [or our third party advertising partner employs] a software technology
 
 #### Aggregate Information
 
-The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, browser type, and IP addresses, and we may analyse this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyse trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use.
+The Site may track the total number of visitors to our Site, the number of visitors to each page of our Site, browser type, and IP addresses, and we may analyse this data for trends and statistics in the aggregate, but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users' movement, and gather broad demographic information for aggregate use.
 
 ### Disclosure
 
@@ -46,7 +46,7 @@ As stated above, we may share your information with third party service partners
 
 If you are matched with third party service partners, you expressly consent to such third party service partners conducting any research necessary to provide you with quotes for your Request. Such third party service partners may need to share your information to conduct such research.
 
- **If you do not want** third party service partners **to conduct necessary research to provide you with a quote for your Request, then you should not submit a Request.**
+ **If you do not want** third party service partners **to conduct the necessary research to provide you with a quote for your Request, then you should not submit a Request.**
 
  **Please note that if you submit a Request through our Services and we share your information as described above in connection with your Request, you will NOT have the opportunity to opt out of the disclosure of your information in connection with that Request.**
 
@@ -76,7 +76,7 @@ Additionally, Mortgageloan.com’s web servers support the Secure Socket Layer (
 
 #### Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <https://www.mortgageloan.com/contact>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [/contact](https://www.mortgageloan.com/about-us#contact). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 #### Users Outside of the United States
 
@@ -88,7 +88,7 @@ Mortgageloan.com provides you with the ability to review, correct and delete any
 
 ####  **Special Notification for California Residents -- Your California Privacy Rights**
 
-Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at [webmaster@mortgageloan.com](mailto:webmaster@mortgageloan.com) or in writing at:
+Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at [webmaster@mortgageloan.com](mailto:webmaster@mortgageloan.com) or in writing at:
 
 Mortgage Loan Directory & Information LLC
 
