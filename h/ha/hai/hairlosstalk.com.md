@@ -1,48 +1,143 @@
-> *The following text is extracted and transformed from the hairlosstalk.com privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828080428id_/http%3A//www.hairlosstalk.com/resources/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairlosstalk.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117203559id_/https%3A//www.hairlosstalk.com/privacy) for the most accurate reproduction.*
 
-# Hair Loss Talk - Privacy Policy
+# Privacy Policy
 
-Hair loss talk is dedicated to maintaining your privacy. Review all the details on what we stand for and our commitments to your privacy here.
+We take privacy very serious.  The short version of this privacy policy is that we do not sell your personal information (email, name, address, etc) to any third party to garner income for ourselves, at the expense of your privacy.  Your information when purchasing, registering, or signing up for our newsletter remains under lock and key.
 
-* * *
+Now the Long Version….
 
-[Contacting Us](https://web.archive.org/web/20160828080428id_/http%3A//www.hairlosstalk.com/resources/contact.php) | Need to get in touch with us for any reason? Here is where to do it.  
----|---  
-[Advertising Inquiries](https://web.archive.org/web/20160828080428id_/http%3A//www.hairlosstalk.com/resources/advertise.php) | Interested in advertising on HairLossTalk? View our Terms here.  
-[Terms of Use](https://web.archive.org/web/20160828080428id_/http%3A//www.hairlosstalk.com/resources/terms-of-use.php) | The assumed Legal agreement you have with us as a site visitor.  
-[Subscriptions](https://web.archive.org/web/20160828080428id_/http%3A//www.hairlosstalk.com/resources/subscriptions.php) | Numerous services you can register for here on our site.  
-  
-## The HairLossTalk Privacy Policy
+ _Last Updated:  03-05-2017_
 
-HairLossTalk is committed to respecting and protecting your privacy. Should you choose to provide your Email address or any other personal information on any of the forms found on our site, you can be assured that it will only be used to support your relationship with HairLossTalk. This means it will only be used to facilitate communication with you or resolve issues with you on that specific topic.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-As you may have read on the [About Us](https://web.archive.org/web/20160828080428id_/http%3A//www.hairlosstalk.com/about.php) page, HairLossTalk is a one-person operation. Simply put, I hate spam more than you do. As a result, it has been a policy of mine since 1999 to never share any of my members or visitors email or personal information with any third party, with only one exception: our shipping warehouse. I am extremely adamant about this issue, and your privacy and security will always be 100% protected.
+## What personal information do we collect from the people that visit our website?
 
-HairLossTalk provides personal information only to our shippers who use it to ship products to those who order from our [Online Product Center](https://web.archive.org/web/20160828080428id_/http%3A//www.hairlosstalk.com/shop/catalog/). They are prohibited from redistributing that information to anyone. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
 
-## Six Principles of Fair Information
+## When do we collect information?
 
-This statement regarding the privacy of the personally identifiable information you provide online covers the six foundation principles of fair information: Awareness, Collection, Use, Sharing, Children, and Security.
+We collect information from you when you register on our site, place an order, subscribe to a newsletter or enter information on our site.
 
-Awareness: HairLossTalk provides this Online Privacy Statement to make you aware of our privacy policy, practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available at the bottom of every page on the site, with exception of the Discussion Forums.
+## How do we use your information?
 
-Collection: We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you fill out a form to request more information, register a profile in our Discussion Forums, register for one of our many Email notification lists, or establishing an account with us in our [Online Product Center](https://web.archive.org/web/20160828080428id_/http%3A//www.hairlosstalk.com/shop/catalog/). Personal information collected by HairLossTalk.com often is limited to e-mail address, but may include other information when needed to provide a service you requested.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-Use: All information collected is used solely for the purpose announced on the page where the form resides, and to support your relationship with HairLossTalk.com. We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, and answering customer questions about products or services. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose. In the event a legal issue arises, HairLossTalk.com will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on HairLossTalk.com web site; (b) Protect and defend the rights or property of HairLossTalk.com, HLT Group Inc., and its family of Web sites, and, (c) Act in urgent circumstances to protect the personal safety of users of HairLossTalk.com, its affiliate Web sites, or the public.
+• To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
+• To quickly process your transactions.  
+• To send periodic emails regarding your order or other products and services.  
+• To follow up with them after correspondence (live chat, email or phone inquiries)
 
-Sharing: HairLossTalk will not sell, rent, or lease your personally identifiable information to others without your knowledge. Your personal information is provided to our shipping service and product affiliates who process your orders on our Online Product Center, but this is only to ensure safe delivery and billing of your products. These entities and/or business partners whom we work with, including those in the United States and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements. 
+## How do we protect your information?
 
-Children: HairLossTalk takes special care to protect the privacy needs of children under the age of 13 and encourages parents to be active participants in their child's online activities and interests. We abide by the Children's Online Privacy Protection Act (COPPA) requirements. Our web site is not intended for children under the age of 13 typically, and we will not knowingly collect data from them.
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-Security: HairLossTalk is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use strong security encryption when collecting or transferring sensitive data such as credit card information. 
+## We use regular Malware Scanning.
 
-## Links to other Web Sites
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.  We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information. All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-Links to third party web sites found on this site, are provided solely as a convenience to you. If you use these links, you will leave the HairLossTalk site. HairLossTalk has not reviewed all of these third party sites and does not control and is not responsible for any of these sites, their content or their privacy policies. Thus, HairLossTalk does not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do so at your own risk.
+## Do we use ‘cookies’?
 
-HLT
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-© **HairLossTalk.com** \- All Rights Reserved.  
-The content found here is not intended as a substitute for professional medical advice.  
-For permission to duplicate any content, please [Contact Us](https://web.archive.org/web/20160828080428id_/http%3A//www.hairlosstalk.com/resources/contact.php).   
-Make sure you're [Subscribed](https://web.archive.org/web/20160828080428id_/http%3A//www.hairlosstalk.com/resources/subscriptions.php) to the Newsletter! We never share your info.
+We use cookies to:  
+• Help remember and process the items in the shopping cart.  
+• Keep track of advertisements.  
+• Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.  If you turn cookies off, some features will be disabled. It won’t affect the user’s experience that make your site experience more efficient and may not function properly. However, you will still be able to place orders .
+
+## Third-party disclosure
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## Third-party links
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+## Google
+
+We use Google Analytics code to track our traffic flows and demographics.
+
+## California Online Privacy Protection Act
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: <https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/#sthash.0FdRbT51.dpuf>
+
+According to CalOPPA, we agree to the following:  Users can visit our site anonymously.  Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.  Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
+
+## You will be notified of any Privacy Policy changes:
+
+• On our Privacy Policy Page
+
+## Can change your personal information:
+
+• By emailing us  
+• By calling us  
+• By logging in to your account
+
+## How does our site handle Do Not Track signals?
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+## Does our site allow third-party behavioral tracking?
+
+It’s also important to note that we allow third-party behavioral tracking.
+
+## COPPA (Children Online Privacy Protection Act)
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+## Fair Information Practices
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+We will notify you via email:  
+• Within 7 business days
+
+We will notify the users via in-site notification:  
+• Within 7 business days
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+## CAN SPAM Act
+
+The CAN-SPAM Act (aside from being a terrible name) is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+We collect your email address in order to:
+
+• Send information, respond to inquiries, and/or other requests or questions  
+• Process orders and to send information and updates pertaining to orders.  
+• Send you additional information related to your product and/or service
+
+To be in accordance with CANSPAM, we agree to the following:
+
+• Not use false or misleading subjects or email addresses.  
+• Identify the message as an advertisement in some reasonable way.  
+• Include the physical address of our business or site headquarters.  
+• Monitor third-party email marketing services for compliance, if one is used.  
+• Honor opt-out/unsubscribe requests quickly.  
+• Allow users to unsubscribe by using the link at the bottom of each email.
+
+If at any time you would like to unsubscribe from receiving future emails, you can email us at
+
+• Follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+Online Health Networks Inc.  
+HairLossTalk.com  
+247 SW 8TH ST 862  
+Miami, FL 33130 USA  
+inquiries@hairlosstalk.com  
+877-642-3177
+
+## How to Contact Us
+
+Questions about this statement or about our handling of your information may be sent by email to [inquiries@hairlosstalk.com](mailto:inquiries@hairlosstalk.com), or by post to Online Health Networks, Inc. Privacy Office, 936 SW 1ST AVE #862 MIAMI, FL 33130 United States.
