@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huge-it.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926145513id_/https%3A//huge-it.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huge-it.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117220738id_/https%3A//huge-it.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
