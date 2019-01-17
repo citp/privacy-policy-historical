@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyexpert.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814181148id_/https%3A//www.moneyexpert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyexpert.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117183427id_/https%3A//www.moneyexpert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ This Privacy Policy explains the steps we take to ensure information about you i
 
 ### Who are we?
 
-We are ME Expert (company number 10120411). ME Expert complies with the Data Protection Act, the General Data Protection Regulation (as of 25 May 2018), and are registered as a Data Controller with the Information Commissioner’s Office.  Money Expert is an accredited all of market comparison, who’d goal is to help all of our customer save up to a thousand pounds.
+We are ME Expert (company number 10120411). ME Expert complies with the Data Protection Act, the General Data Protection Regulation (as of 25 May 2018), and are registered as a Data Controller with the Information Commissioner’s Office.  Money Expert is an accredited all of market comparison website, who’d goal is to help all of our customer save up to a thousand pounds where possible.
 
 If you have any queries about this Privacy Policy or any requests concerning your Personal Data, please write to our address below or email us at:
 
@@ -57,7 +57,7 @@ ME Expert collects data to operate effectively and provide you the best experien
 
 The Personal Data we collect to provide our services and enhance your experience (your “ **Personal Data** ”) is used in accordance with the terms of this privacy policy and related policies (marketing policy, cookie policy) and data protection regulations including the GDPR.
 
-For the use of our price comparison service, we might ask you Sensitive Personal Data when it is needed to provide you with the most accurate quotes from our partners. For this purpose, our explicit consent will be required each time such data is collected and processed in accordance with this policy.
+For the use of our price comparison service, we might ask you Sensitive Personal Data when it is needed to provide you with the most accurate quotes from our partners. For this purpose, your explicit consent will be required each time such data is collected and processed in accordance with this policy.
 
 Why we collect and use your Personal Data
 
@@ -123,11 +123,11 @@ View our Marketing Policy [here](https://web.archive.org/marketing-policy)
 
 ### Your rights to your Personal Data
 
-You have the right to know what Personal Data we hold about you, to whom it has been disclosed, to correct any information which may be incorrect, and to be forgotten, you are under no contractual obligation to complete any service application on the ME Expert or Simply Switch website.
+You have the right to know what Personal Data we hold about you, to whom it has been disclosed, to correct any information which may be incorrect, and the right to be forgotten, you are under no contractual obligation to complete any service application on the ME Expert or Simply Switch website.
 
 Please write to the address above, confirming that you are making a request for your Personal Data under the General Data Protection Regulation, or simply email Privacy@MoneyExpert.com.
 
-ME Expert aims to comply with requests for access to Personal Data as quickly as possible, but within 30 days. Please understand that this request is regularly formed at no cost to yourself; however, should the request manifest unfounded or excessive ME Expert Ltd may charge a reasonable fee.  You also acknowledge that ME Expert Ltd retains the right to refuse such a request as dictated solely within the body of the General Data Protection Regulation.  This data will be erased or delivered to you as per your request, and to the minimum standard dictated by law, a copy of the Data Subject Access Request will be stored in a registry, and held for a minimum of 5 years from the date on which the request is submitted, you may also object the processing of Personal Data on a number of levels including direct marketing and market profiling.
+ME Expert must comply with requests for access to Personal Data as quickly as possible, but within 30 days. Please understand that this request is regularly formed at no cost to yourself; however, should their be multiple requests ME Expert Ltd may charge a reasonable fee.  You also acknowledge that ME Expert Ltd retains the right to refuse such a request as dictated solely within the body of the General Data Protection Regulation for legal or regulatory reasons. This data will be erased or delivered to you as per your request, and to the minimum standard dictated by law, a copy of the Data Subject Access Request will be stored in a register, and held for a minimum of 6 years from the date on which the request is submitted, you may also object to the processing of Personal Data on a number of levels including direct marketing and market profiling.
 
 ### Automated decision making
 
@@ -135,9 +135,9 @@ Please be aware that automated decision making processes may be utilised to bett
 
 If any information we hold is inaccurate, we will make the necessary amendments and confirm to you have that these have been made.
 
- We may be required to restrict the processing of Personal Data in the following circumstances:
+ We are required to restrict the processing of Personal Data in the following circumstances:
 
-  * Where an individual contests the accuracy of the Personal Data, ME should restrict the processing until ME have verified the accuracy of the Personal Data.
+  * Where an individual contests the accuracy of the Personal Data, ME must restrict the processing until ME have verified the accuracy of the Personal Data.
   * Where an individual has objected to the processing (where it was necessary for the performance of a public interest task or purpose of legitimate interests), and ME are considering whether ME’s legitimate grounds override those of the individual.
   * When processing is unlawful and the individual opposes erasure and requests restriction instead.
   * If we no longer need the Personal Data but the individual requires the data to establish, exercise or defend a legal claim.
@@ -148,7 +148,7 @@ You have the right to ask us not to process your Personal Data for marketing pur
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any Personal Data to these websites.
 
-You do have the right to object to our processing of your Personal Data including where we have legitimate interests or where we use your information to carry out profiling to our customer demographics and market research.
+You do have the right to object to our processing your Personal Data including where we have legitimate interests or where we use your information to carry out profiling to our customer demographics and market research.
 
 You have the right to raise a formal complaint with the Information Commissioner’s Office, details on how to do so are found on the ICO website, you can reach them by following this [link.](https://ico.org.uk/)
 
@@ -172,4 +172,4 @@ For more information about how we use cookies, please read our cookie policy [he
 
 Changes to the Policy
 
-We may need to amend the Privacy Policy from time to time. Any such amendment will take effect as soon as it is posted on the website. You are therefore encouraged to familiarise yourself with the Privacy Policy on a regular basis.
+We may need to amend this Privacy Policy from time to time. Any such amendment will take effect as soon as it is posted on the website. You are therefore encouraged to familiarise yourself with the Privacy Policy on a regular basis.
