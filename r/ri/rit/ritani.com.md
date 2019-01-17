@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritani.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926223030id_/https%3A//www.ritani.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritani.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117100220id_/https%3A//www.ritani.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ritani
 
