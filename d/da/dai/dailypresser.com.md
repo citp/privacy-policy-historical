@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailypresser.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224160239id_/http%3A//www.dailypresser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypresser.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117153536id_/http%3A//www.dailypresser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Presser
 
