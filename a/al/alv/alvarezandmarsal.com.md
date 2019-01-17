@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alvarezandmarsal.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816032431id_/https%3A//www.alvarezandmarsal.com/terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alvarezandmarsal.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117104128id_/https%3A//www.alvarezandmarsal.com/terms-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms and Conditions for Use of this Website | Alvarez & Marsal
 
