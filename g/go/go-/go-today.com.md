@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-today.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706100143id_/https%3A//www.go-today.com/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-today.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117044508id_/https%3A//www.go-today.com/security.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for go-today | Vacation Packages
 
@@ -60,7 +60,7 @@ The Company collects and analyzes traffic on the Sites by keeping track of the I
 
 ### USE OF TECHNOLOGY TOOLS
 
-If our contact and dealing with you is via our Sites, cookiesthe above mentioned technology tools may be used. To find out more specific information about the types of Technology Tools used on our Sites, how we use them, how to disable them or how to change your preferences and more, please see our [Cookies Policy](https://web.archive.org/web/20170706100143id_/https%3A//www.go-today.com/cookies_policy.aspx). **_By using our Sites, you consent to our use of cookies._**
+If our contact and dealing with you is via our Sites, cookiesthe above mentioned technology tools may be used. To find out more specific information about the types of Technology Tools used on our Sites, how we use them, how to disable them or how to change your preferences and more, please see our [Cookies Policy](https://web.archive.org/web/20190117044508id_/https%3A//www.go-today.com/cookies_policy.aspx). **_By using our Sites, you consent to our use of cookies._**
 
 ### LINKS TO OTHER WEBSITES
 
