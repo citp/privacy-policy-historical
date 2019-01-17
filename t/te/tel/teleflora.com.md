@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teleflora.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113124007id_/http%3A//www.teleflora.com/info/securityprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teleflora.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117174718id_/https%3A//www.teleflora.com/info/securityprivacy) for the most accurate reproduction.*
 
 # Security & Privacy Policy | Teleflora
 
@@ -86,4 +86,4 @@ Los Angeles, California 90064
 Attention: Chief Legal Officer  
 Telephone: (310) 231-9199   
 [E-mail](https://web.archive.org/aboutUs/order_inquiry.jsp)  
-© 2016 Teleflora LLC. All rights reserved. 
+© 2018 Teleflora LLC. All rights reserved. 
