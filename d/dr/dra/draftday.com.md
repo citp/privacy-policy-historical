@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the draftday.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222073803id_/https%3A//www.draftday.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draftday.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117224500id_/https%3A//www.draftday.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy, Frequently Asked Questions
 
