@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the tmzvps.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203104518id_/https%3A//www.tmzvps.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmzvps.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117142322id_/https%3A//www.tmzvps.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - tmzVPS
 
 **Introduction**
 
-We are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. We are committed to protecting your privacy We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information.  
+We are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. We are committed to protecting your privacy We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information.
 
+Note: For EU-based customers, please refer to our [GDPR compliance document](https://www.tmzvps.com/legal/privacy-policy/gdpr-compliance.php). 
 
   
 **Information Collected**
@@ -41,3 +42,6 @@ tmzVPS may disclose any subscriber information to law enforcement agencies witho
 **Changes to This Policy**
 
 Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
+
+  
+
