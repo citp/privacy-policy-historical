@@ -1,271 +1,255 @@
-<!--The following is the downloaded HTML source of the elyricsworld.com privacy policy that was archived on 2017-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170609060049id_/http%3A//www.elyricsworld.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the elyricsworld.com privacy policy that was archived on 2019-01-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190117084658id_/https%3A//www.elyricsworld.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		<title>Privacy Policy</title>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf8">
-		<link rel="shortcut icon" href="http://www.elyricsworld.com/favicon.ico">		
-		<link rel="alternate" href="http://www.elyricsworld.com/rss/latest_music_lyrics.xml" type="application/rss+xml" title="Latest Music Lyrics RSS">
-		<link rel="alternate" href="http://www.elyricsworld.com/rss/latest_news.xml" type="application/rss+xml" title="Latest News RSS">
-		<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
-		<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="/images/jquery-1.7.1.min.js"></script>
-		<link href="/css/styles.css?4" type="text/css" rel="stylesheet">
-				
-		<script type="text/javascript">
-		  (function() {
-			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-			po.src = 'https://apis.google.com/js/plusone.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-		  })();
-		</script>
-		<script>
-			$(document).ready(function() {
-			
-      function monkeyPatchAutocomplete() {
+        <title>Privacy Policy</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+        <link rel="shortcut icon" href="http://www.elyricsworld.com/favicon.ico">		
+        <link rel="alternate" href="http://www.elyricsworld.com/rss/latest_music_lyrics.xml" type="application/rss+xml" title="Latest Music Lyrics RSS">
+        <link rel="alternate" href="http://www.elyricsworld.com/rss/latest_news.xml" type="application/rss+xml" title="Latest News RSS">
 
-          // Don't really need to save the old fn, 
-          // but I could chain if I wanted to
-          var oldFn = $.ui.autocomplete.prototype._renderItem;
+        <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+        <script src="/bower_components/owl.carousel/dist/owl.carousel.min.js"></script>
 
-          $.ui.autocomplete.prototype._renderItem = function( ul, item) {
-              var re = new RegExp("^" + this.term, "i") ;
-              var t = item.label.replace(re,"<b>" + this.term + "</b>");
-              return $( "<li></li>" )
-                  .data( "item.autocomplete", item )
-                  .append( "<a>" + t + "</a>" )
-                  .appendTo( ul );
-          };
-      }
-	  
-	  //monkeyPatchAutocomplete();
-							
-			var work = 0;
-			$("#news").mouseenter(function() {
-				work = 1;
-			  }).mouseleave(function() {
-			  work = 0;
-			  });
-			  
-			window.setInterval(function(){
-			if(work == 0){
-				var n = $("#n").val();
-				if(n == 'no')
-				{
-				}
-				else
-				{
-				  $(".single_new").removeClass('active');
-				  $('.nn'+n).toggleClass('active');
-				  var vv = $('.nn'+n).attr('news');
-				  $('.news_number:visible').fadeOut(200,  function () { $('#n'+vv).fadeIn(200) });
-				  if(n == 3)
-				  {
-					var n = $("#n").val(0);
-				  }
-				  else
-				  {
-					var n = $("#n").val(parseInt($("#n").val())+1);
-				  }
-				  }
-			  }
-			}, 5000);
+        <link rel="stylesheet" href="/bower_components/owl.carousel/dist/assets/owl.carousel.min.css">
+        <link rel="stylesheet" href="/bower_components/owl.carousel/dist/assets/owl.theme.default.min.css">
 
-				$("#bio_more").click(function() {
-				  $('.bio_summary').fadeOut(100, function() { $('.bio_full').fadeIn(200); });
-				});
-				
-				$("#bio_hide").click(function() {
-				  $('.bio_full').fadeOut(100, function() { $('.bio_summary').fadeIn(200); });
-				});
-				
-			
-			//index news click
-				$(".single_new").click(function() {
-				  if($(this).hasClass('active'))
-				  {
-				  }
-				  else
-				  {
-					  $(".single_new").removeClass('active');
-					  $(this).toggleClass('active');
-					  var vv = $(this).attr('news');
-					  $('.news_number:visible').fadeOut(200,  function () { $('#n'+vv).fadeIn(200) });
-					  if(vv == 3)
-					  {
-						var n = $("#n").val(0);
-					  }
-					  else
-					  {
-						var n = $("#n").val(parseInt(vv)+1);
-					  }
-				  }
-				});
-				
-				function __highlight(s, t) {
-				  var matcher = new RegExp("("+$.ui.autocomplete.escapeRegex(t)+")", "ig" );
-				  return s.replace(matcher, "<strong>$1</strong>");
-				}
-				
-				var ac_config = {
-					source: "/js/autocomplete.php",
-					noCache: true, //default is false, set to true to disable caching
-					minLength: 2,
-					select: function(event, ui) 
-					{ 
-						var url = ui.item.url;
-						//$('#sform').submit(); 
-						document.location.href = url;
-					},
-				};
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-				$("#sfield").autocomplete(ac_config)
+        <script src="/bower_components/raty/lib/jquery.raty.js"></script>
+        <link rel="stylesheet" src="/bower_components/raty/lib/jquery.raty.css">
 
-			});
-		</script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+          (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-1846302739725601",
+            enable_page_level_ads: true
+          });
+        </script>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+
+	<script src="//defpush.com/ntfc.php?p=1538398" data-cfasync="false" async=""></script> 
+
+
+        <!-- this is for 970x250 banner -->
+        <script type="text/javascript">
+        function crto_ShorterThan(widthMax){return screen.width < widthMax;}
+        var LimitWidth = 728;
+        </script>
+        <!-- /this is for 970x250 banner -->
+
+                                <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+        <!--
+        <script src="/images/jquery-1.7.1.min.js"></script>
+        -->
+        <link href="/css/styles.css?8" type="text/css" rel="stylesheet">
+                        
+        <script type="text/javascript">
+            (function() {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+            })();
+        </script>
+
+        <script>
+            $(function() {
+                $('#alphabet.mobile').owlCarousel({
+                    loop:false,
+                    margin:10,
+                    navigation:false,
+                    nav:false,
+                    //itemElement:'a',
+                    items:9,
+                    //responsive:{
+                    //    0:{
+                    //        items:1
+                    //    },
+                    //    600:{
+                    //        items:3
+                    //    },
+                    //    1000:{
+                    //        items:5
+                    //    }
+                    //}
+                })
+            });
+        </script>
+
         
-          ga('create', 'UA-83321510-1', 'auto');
-            ga('send', 'pageview');
-            </script>
-            
-		<script type="text/javascript">
-			function myevup(ar) {
-				if (window.XMLHttpRequest) {
-					xmlhttp=new XMLHttpRequest()
-				} else {
-					xmlhttp=new ActiveXObject("Microsoft.XMLHTTP")
-				}
-				xmlhttp.open("GET", "http://www.elyricsworld.com/songkick/test.php?artist=" + ar);
-				xmlhttp.send(null);
-			}
-		</script>
-		<!-- BEGIN ADREACTOR CODE -->
-		<script src="http://adserver.adreactor.com/js/libcode1_noajax.js" type="text/javascript"></script>
-		<script type="text/javascript">
-		var count = readCookie('AVPWCAP') || 0;
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-		if (document.avp_ready && count < 2) {
-		  avp_zone({ base: 'adserver.adreactor.com', type: 'window', zid: 23, pid: 28, custom1: '', custom2: '', custom3: '', exclude: 'no_popup', exit: 'true' });
-		  createCookie('AVPWCAP', ++count, 1);
-		}
+	ga('create', 'UA-104201348-1', 'auto');
+	ga('send', 'pageview');
 
-		function createCookie (name, value, hours) {
-		  var expires = "";
+	</script>
 
-		  if (hours) {
-			var date = new Date();
-			date.setTime(date.getTime()+(hours*60*60*1000));
-			expires = "; expires="+date.toGMTString();
-		  }
 
-		  document.cookie = name+"="+value+expires+"; path=/";
-		}
+        <script type="text/javascript">
+            function myevup(ar) {
+if (window.XMLHttpRequest) {
+xmlhttp=new XMLHttpRequest()
+} else {
+xmlhttp=new ActiveXObject("Microsoft.XMLHTTP")
+}
+xmlhttp.open("GET", "/songkick/test.php?artist=" + ar);
+xmlhttp.send(null);
+}
+        </script>
 
-		function readCookie (name) {
-		  if (!document.cookie) return null;
-		  var nameEQ = name + "=";
-		  var ca = document.cookie.split(';');
-		  for (var i = 0; i < ca.length; i++) {
-			var c = ca[i];
-			while (c.charAt(0)==' ') {
-			  c = c.substring(1,c.length);
-			}
-			if (c.indexOf(nameEQ) == 0) {
-			  return c.substring(nameEQ.length, c.length);
-			}
-		  }
-		  return null;
-		}
-		</script>
-		<!-- END ADREACTOR CODE -->		
-	</head>
-	<body>
-		<div id="main">
-			<div id="topnav">
-				<a href="/">HOME</a>
-				<a href="/toplyrics.html">TOPLYRICS</a>
-				<a href="/newestlyrics_1-50.html">NEWEST LYRICS</a>
-				<a href="/submit.html">SUBMIT LYRICS</a>
-				<a href="/latest_news.html" class="br">NEWS</a>
-				<a href="/calendar.html" class="br">CALENDAR</a>
-				<div id="social_top"></div>
-				<div style="clear:both;"></div>
-			</div>
-			<div id="logo_search">
-				<div id="logo">
-					<a href="http://www.elyricsworld.com/"><img alt="Lyrics" src="/images/logo.png" style="border:0;"></a>
-				</div>
-				<div id="search_b">
-					<form action="/search.php" method="GET" id="sform">
-						<input type="text" name="search" id="sfield" value="Search for lyrics" onclick="if(this.value=='Search for lyrics'){this.value=''}" onblur="if(this.value==''){this.value='Search for lyrics'}" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"><input type="submit" value="" id="sbutton">
-					</form>
-					<div id="alphabet">
-						<a href="http://www.elyricsworld.com/a_artists.html">A</a>
-						<a href="http://www.elyricsworld.com/b_artists.html">B</a>
-						<a href="http://www.elyricsworld.com/c_artists.html">C</a>
-						<a href="http://www.elyricsworld.com/d_artists.html">D</a>
-						<a href="http://www.elyricsworld.com/e_artists.html">E</a>
-						<a href="http://www.elyricsworld.com/f_artists.html">F</a>
-						<a href="http://www.elyricsworld.com/g_artists.html">G</a>
-						<a href="http://www.elyricsworld.com/h_artists.html">H</a>
-						<a href="http://www.elyricsworld.com/i_artists.html">I</a>
-						<a href="http://www.elyricsworld.com/j_artists.html">J</a>
-						<a href="http://www.elyricsworld.com/k_artists.html">K</a>
-						<a href="http://www.elyricsworld.com/l_artists.html">L</a>
-						<a href="http://www.elyricsworld.com/m_artists.html">M</a>
-						<a href="http://www.elyricsworld.com/n_artists.html">N</a>
-						<a href="http://www.elyricsworld.com/o_artists.html">O</a>
-						<a href="http://www.elyricsworld.com/p_artists.html">P</a>
-						<a href="http://www.elyricsworld.com/q_artists.html">Q</a>
-						<a href="http://www.elyricsworld.com/r_artists.html">R</a>
-						<a href="http://www.elyricsworld.com/s_artists.html">S</a>
-						<a href="http://www.elyricsworld.com/t_artists.html">T</a>
-						<a href="http://www.elyricsworld.com/u_artists.html">U</a>
-						<a href="http://www.elyricsworld.com/v_artists.html">V</a>
-						<a href="http://www.elyricsworld.com/w_artists.html">W</a>
-						<a href="http://www.elyricsworld.com/x_artists.html">X</a>
-						<a href="http://www.elyricsworld.com/y_artists.html">Y</a>
-						<a href="http://www.elyricsworld.com/z_artists.html">Z</a>
-						<a href="http://www.elyricsworld.com/0-9_artists.html">#</a>
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-113147542-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-113147542-1');
+</script>
+
+    </head>
+    <body>
+        <nav class="navbar navbar-default spacer-bottom-0">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand hidden-sm hidden-md hidden-lg" href="/"><img alt="Lyrics" src="/images/logo.png" class="img-responsive"></a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+
+                        <li><a href="/">HOME</a></li>
+                        <li><a href="/toplyrics.html">TOP LYRICS</a></li>
+                        <li><a href="/newestlyrics_1-50.html">NEWEST LYRICS</a></li>
+                        <li><a href="/submit.html">SUBMIT LYRICS</a></li>
+                        <li><a href="/latest_news.html">LYRICS NEWS</a></li>
+                        <li><a href="/calendar.html">CALENDAR</a></li>
+
+                                            </ul>
+                </div><!--/.nav-collapse -->
+            </div>
+        </nav>
+        <div class="container">
+            <div id="logo_search">
+                <div id="logo" class="hidden-xs">
+                    <a href="https://www.elyricsworld.com/"><img alt="Lyrics" src="/images/logo.png"></a>
+                </div>
+                <div id="search_b">
+                    <form action="/search.php" method="GET" id="sform" style="width:100%;">
+                        <input type="text" name="search" value="" id="sfield" placeholder="Search for lyrics"><input type="submit" value="" id="sbutton">
+                    </form>
+                    <div id="alphabet" class="hidden-xs">
+                                                    <a href="/a_artists.html">A</a>
+                                                    <a href="/b_artists.html">B</a>
+                                                    <a href="/c_artists.html">C</a>
+                                                    <a href="/d_artists.html">D</a>
+                                                    <a href="/e_artists.html">E</a>
+                                                    <a href="/f_artists.html">F</a>
+                                                    <a href="/g_artists.html">G</a>
+                                                    <a href="/h_artists.html">H</a>
+                                                    <a href="/i_artists.html">I</a>
+                                                    <a href="/j_artists.html">J</a>
+                                                    <a href="/k_artists.html">K</a>
+                                                    <a href="/l_artists.html">L</a>
+                                                    <a href="/m_artists.html">M</a>
+                                                    <a href="/n_artists.html">N</a>
+                                                    <a href="/o_artists.html">O</a>
+                                                    <a href="/p_artists.html">P</a>
+                                                    <a href="/q_artists.html">Q</a>
+                                                    <a href="/r_artists.html">R</a>
+                                                    <a href="/s_artists.html">S</a>
+                                                    <a href="/t_artists.html">T</a>
+                                                    <a href="/u_artists.html">U</a>
+                                                    <a href="/v_artists.html">V</a>
+                                                    <a href="/w_artists.html">W</a>
+                                                    <a href="/x_artists.html">X</a>
+                                                    <a href="/y_artists.html">Y</a>
+                                                    <a href="/z_artists.html">Z</a>
+                                                <a href="/0-9_artists.html">#</a>
+                    </div>
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+
+            <div class="mobile-alphabet-container hidden-sm hidden-md hidden-lg">
+                <div class="row">
+                    <div class="col-xs-3">
+                        Browse
+                    </div>
+                    <div class="col-xs-9">
+                        <div id="alphabet" class="mobile owl-carousel">
+                                                            <a class="link" href="/a_artists.html">A</a>
+                                                            <a class="link" href="/b_artists.html">B</a>
+                                                            <a class="link" href="/c_artists.html">C</a>
+                                                            <a class="link" href="/d_artists.html">D</a>
+                                                            <a class="link" href="/e_artists.html">E</a>
+                                                            <a class="link" href="/f_artists.html">F</a>
+                                                            <a class="link" href="/g_artists.html">G</a>
+                                                            <a class="link" href="/h_artists.html">H</a>
+                                                            <a class="link" href="/i_artists.html">I</a>
+                                                            <a class="link" href="/j_artists.html">J</a>
+                                                            <a class="link" href="/k_artists.html">K</a>
+                                                            <a class="link" href="/l_artists.html">L</a>
+                                                            <a class="link" href="/m_artists.html">M</a>
+                                                            <a class="link" href="/n_artists.html">N</a>
+                                                            <a class="link" href="/o_artists.html">O</a>
+                                                            <a class="link" href="/p_artists.html">P</a>
+                                                            <a class="link" href="/q_artists.html">Q</a>
+                                                            <a class="link" href="/r_artists.html">R</a>
+                                                            <a class="link" href="/s_artists.html">S</a>
+                                                            <a class="link" href="/t_artists.html">T</a>
+                                                            <a class="link" href="/u_artists.html">U</a>
+                                                            <a class="link" href="/v_artists.html">V</a>
+                                                            <a class="link" href="/w_artists.html">W</a>
+                                                            <a class="link" href="/x_artists.html">X</a>
+                                                            <a class="link" href="/y_artists.html">Y</a>
+                                                            <a class="link" href="/z_artists.html">Z</a>
+                                                        <a href="/0-9_artists.html" class="link">#</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			<div id="pod_header" class="row">
+				<div class="col-md-2 hidden-xs">
+<div class="text-left">
+    <div class="spacer-bottom-5"><a href="https://plus.google.com/b/114922196798796614096/" target="_blank"><img src="/images/gplus.png" border="0"></a> <span><a target="_blank" href="https://plus.google.com/b/114922196798796614096/">Google+ page</a></span></div>
+    <div class="spacer-bottom-5"><a href="http://www.facebook.com/music.lyrics.world" rel="nofollow" target="_blank"><img src="/images/fb.png" border="0"></a> <span><a target="_blank" href="http://www.facebook.com/music.lyrics.world" rel="nofollow">Facebook</a></span></div>
+    <div class="spacer-bottom-5"><a href="https://twitter.com/#!/elyricsworldcom" rel="nofollow" target="_blank"><img src="/images/twit.png" border="0"></a> <span><a target="_blank" href="https://twitter.com/#!/elyricsworldcom" rel="nofollow">Twitter</a></span></div>
+    </div>
+					<div class="banner">
+						<!-- Composite Start --> <div id="M272474ScriptRootC149961"> <div id="M272474PreloadC149961"> Loading... </div> <script> (function(){ var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById'; var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M272474ScriptRootC149961")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];} catch(e){var iw=d;var c=d[gi]("M272474ScriptRootC149961");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=149961;c[ac](dv); var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/e/l/elyricsworld.com.149961.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})(); </script><iframe style="display: none;"></iframe> </div> <!-- Composite End -->
+
+
 					</div>
 				</div>
-				<div style="clear:both;"></div>
-			</div>			<div id="pod_header">
-				<div id="pleft">
-					<div class="bb"><a href="https://plus.google.com/b/114922196798796614096/" target="_blank"><img src="/images/gplus.png" border="0"></a> <span><a target="_blank" href="https://plus.google.com/b/114922196798796614096/">Google+ page</a></span></div>
-					<div class="bb"><a href="http://www.facebook.com/music.lyrics.world" rel="nofollow" target="_blank"><img src="/images/fb.png" border="0"></a> <span><a target="_blank" href="http://www.facebook.com/music.lyrics.world" rel="nofollow">Facebook</a></span></div>
-					<div class="bb"><a href="https://twitter.com/#!/elyricsworldcom" rel="nofollow" target="_blank"><img src="/images/twit.png" border="0"></a> <span><a target="_blank" href="https://twitter.com/#!/elyricsworldcom" rel="nofollow">Twitter</a></span></div>
-                    					<div class="banner">
-												<script type="text/javascript"><!--
-						google_ad_client = "pub-9143916203605768";
-						google_alternate_ad_url = "http://www.elyricsworld.com/banners/120x600.html";
-						google_ad_width = 120;
-						google_ad_height = 600;
-						google_ad_format = "120x600_as";
-						google_ad_type = "text_image";
-						google_ad_channel ="8936596857";
-						google_color_border = "FFFFFF";
-						google_color_bg = "FFFFFF";
-						google_color_link = "6699FF";
-						google_color_url = "6699FF";
-						google_color_text = "000000";
-						//--></script>
-						<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-						</script>					</div>
-				</div>
-				<div id="pright">
+				<div class="col-md-10">
 										<div id="top_banner">
-					<!-- BEGIN ADREACTOR CODE -->
-					<script src="http://adserver.adreactor.com/js/libcode1_noajax.js" type="text/javascript"></script>
-					<script type="text/javascript">
-					if (document.avp_ready) { avp_zone({ base: 'adserver.adreactor.com', type: 'banner', zid: 9, pid: 28, custom1: '', custom2: '', custom3: '' }); }
-					</script>
+
+
+<style>#M272474ScriptRootC149959 {min-height: 300px;}</style> <!-- Composite Start --> <div id="M272474ScriptRootC149959"> <div id="M272474PreloadC149959"> Loading... </div> <script> (function(){ var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById'; var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M272474ScriptRootC149959")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];} catch(e){var iw=d;var c=d[gi]("M272474ScriptRootC149959");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=149959;c[ac](dv); var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/e/l/elyricsworld.com.149959.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})(); </script><iframe style="display: none;"></iframe> </div> <!-- Composite End -->
+
+
+
 					<!-- END ADREACTOR CODE -->
-					</div>					<div style="clear:both;"></div>
+					</div>
+					<div style="clear:both;"></div>
 					<div id="correct_div">
 						<div id="add_comment">
 							<div id="leave_a_comment">
@@ -290,17 +274,17 @@
 				<div style="clear:both;"></div>
 			</div>
 		</div>
-				
+		
 		<div id="footer">
-			<div id="fin">
+			<div class="container">
 				<div class="fleft">
-					<a href="http://www.elyricsworld.com/">Lyrics</a> | 
+					<a href="/">Lyrics</a> | 
 					<a href="/privacy_policy.html">Privacy Policy</a> | 
 					<a href="/rss_feeds.html">RSS Feeds</a> | 
 					<a href="/contact.html">Contacts</a>
 				</div>
 				<div class="fright">
-					©2004-2012 elyricsworld.com
+                    ©2004-2019 elyricsworld.com
 				</div>
 			</div>
 		</div>
@@ -323,6 +307,11 @@
 		<noscript>
 			<img src="http://b.scorecardresearch.com/p?c1=2&c2=6772046&c3=&c4=www.elyricsworld.com/privacy_policy.html&c5=&c6=&c15=&cj=1" />
 		</noscript>
-		<!-- End comScore Tag -->		
+		<!-- End comScore Tag -->
+<script src="//t1.extreme-dm.com/f.js" id="eXF-elyrw-0" async="" defer=""></script>
+
 	
-<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
+
+<!-- count ok -->
+
+</body></html>
