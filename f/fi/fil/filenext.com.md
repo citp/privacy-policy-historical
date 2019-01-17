@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filenext.com privacy policy that was archived on 2018-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180719233619id_/https%3A//www.filenext.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filenext.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117104434id_/https%3A//www.filenext.com/privacy.html) for the most accurate reproduction.*
 
-# FileNext - Easy way to share your files
+# FileNext - Der einfache Weg Dateien zu teilen
 
 The website located at https://www.filenext.com (including any and all sub-domains) and any and all services and software provided through or by such websites (whether over the Internet, by mobile platform or otherwise) or otherwise in connection with filenext ("Company").  For the purposes hereof, the users of the Site (including anyone that accesses, browses or uses the Site) are referred to as "you," "your," or "User," and Company is referred to as the "Company," "we," "us," or "our".  The Site can be accessed, browsed or used through a variety of online, mobile or other platforms as Company decides to make available (in its sole and absolute discretion) from time to time.
 
