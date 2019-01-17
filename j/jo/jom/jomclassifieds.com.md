@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jomclassifieds.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130005321id_/https%3A//jomclassifieds.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jomclassifieds.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117125753id_/https%3A//jomclassifieds.com/privacy-policy.html) for the most accurate reproduction.*
 
 # License of Jom Classifieds, Joomla Classifieds
-
-### Privacy Policy 
 
 #### Summary
 
@@ -53,6 +51,32 @@ We do not send unsolicited (or even opt-in) email messages for marketing purpose
 #### Information sharing with third parties
 
 Information collected by jomclassifieds.com will not be shared with any third parties. Not in their raw form, not in a processed or aggregate form. We do not share personal information with third parties except as stated in the "Use of collected information" article above.
+
+#### Analytics
+
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+
+We use Google Analytics to help us understand how our customers use the site — you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
+
+#### Who we share your data with
+
+We do not and will never sell or transfer your data for reasons other than providing you with a better service on our own websites. All third party services have their own privacy policies in accordance to European GDPR laws. We use various services in order to achieve this including:
+
+PayPal – We also use PayPal for payment processing, you must have a PayPal account to use their service, who have their own privacy policy and terms of service.
+
+Stripe – We use Stripe to process credit card payments and store payment information securely. During checkout, payment information is transferred to Stripe and not stored on our site.
+
+Membership Pro - We use Membership Pro for subscription store information securely.
+
+Simple Ajax Contact Form - We use Simple Ajax Contact Form, who have their own privacy policy and terms of service
+
+AcyMailing - We use AcyMailing for Newsletter, who have their own privacy policy and terms of service
+
+#### How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website, we also store the personal information they provide in their user profile, including name, email, billing address and any websites to use our software. All users can see, edit, or delete ( By sending request to site admin ) their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
 #### Contact information
 
