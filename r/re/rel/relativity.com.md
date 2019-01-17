@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relativity.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821114418id_/https%3A//www.relativity.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relativity.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117221103id_/https%3A//www.relativity.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Relativity
 
@@ -51,6 +51,6 @@ Cookies are small files that a site transfers to your computer’s hard drive th
 
 Relativity uses cookies to compile aggregate data about website traffic and interaction so that we can offer better site experiences and content in the future. We use third-party companies, such as Google Analytics, to assist us in understanding our site visitors.
 
-As part of AdWords remarketing, we use the Google Analytics cookie and the DoubleClick cookie together to inform, optimize, and serve ads based on someone’s past visits to our website. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Preferences Manager](https://www.google.com/ads/preferences).
+As part of AdWords remarketing, we use the Google Analytics cookie and the DoubleClick cookie together to inform, optimize, and serve ads based on someone’s past visits to our website. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Preferences Manager](https://www.google.com/ads/preferences/).
 
 Google has additional information available about their [Remarketing Privacy Guidelines, Policies, and Restrictions](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746).
