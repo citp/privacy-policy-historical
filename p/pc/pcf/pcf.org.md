@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcf.org privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903195729id_/https%3A//www.pcf.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcf.org privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117114351id_/https%3A//www.pcf.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PCF
+# Privacy Policy | Prostate Cancer Foundation
 
 The Prostate Cancer Foundation respects your privacy and is committed to protecting it. We provide this statement to inform you of our privacy policy and practices. 
 
@@ -76,11 +76,14 @@ While we use SSL encryption to protect sensitive information online, we also do 
 
 Our website uses “cookies.” A “cookie” is a small data file transferred by our website to your computer’s hard drive containing information that helps us make your experience of using our website more individualized and convenient. We send cookies when you surf our site, make purchases, request information, or register yourself or for certain services. Accepting the cookies used on our site does not give us access to your personally identifiable information, but we may use the cookies to identify your computer. Some cookies are “session” cookies, meaning the cookie is removed from your computer after you leave our website or quit your browser. The aggregate information collected by cookies also helps us to analyze traffic patterns at our site. This can enable us over time to provide a better experience on our site by improving content or personalization and make it easier to use. Cookies that remain on your computer are often called “permanent” cookies. These types of cookies are used to facilitate shopping, personalization and registration services. 
 
-Most web browsers automatically accept cookies, but you can usually adjust the preferences on your browser to refuse cookies, selectively accept certain cookies or notify you each time a website attempts to place a cookie on your computer. If you refuse to accept cookies, there may be certain features of our site that will not be available to you and some web pages may not display properly. You can find information on how to adjust your cookie preferences on two of the most popular web browsers by visiting the following websites: 
+Most web browsers automatically accept cookies, but you can usually adjust the preferences on your browser to refuse cookies, selectively accept certain cookies or notify you each time a website attempts to place a cookie on your computer. If you refuse to accept cookies, there may be certain features of our site that will not be available to you and some web pages may not display properly. You can find information on how to adjust your cookie preferences on some of the most popular web browsers by visiting the following websites: 
 
-Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.mspx>
+  * Google Chrome: <https://policies.google.com/technologies/managing>
+  * Apple Safari: <https://support.apple.com/kb/PH21411?locale=en_US>
+  * Microsoft Edge: <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy>
+  * Mozilla Firefox: <http://support.mozilla.com/en-US/kb/Cookies>
 
-Mozilla Firefox: <http://support.mozilla.com/en-US/kb/Cookies>
+
 
 Another good resource for information about cookies is<http://www.cookiecentral.com/faq>. 
 
