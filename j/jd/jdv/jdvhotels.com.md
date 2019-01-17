@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jdvhotels.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904021928id_/https%3A//www.jdvhotels.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdvhotels.com privacy policy that was archived on 2019-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190117204916id_/https%3A//www.jdvhotels.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Boutique Hotel Lodging | Joie de Vivre – Privacy Policy
+# Privacy Policy | Joie de Vivre Hotels
 
 This Privacy & Cookies Policy applies to your interactions with Two Roads Hospitality LLC or with any of its respective subsidiary companies whose websites you access and which cause this Privacy & Cookies Policy to be displayed (respectively referred to as “we”, “us” or the “Company” in this policy), including, without limitation, your interaction with us at [http://www.TwoRoadsHotels.com](http://www.tworoadshotels.com/) or any other websites, applications, online services, or interactive features or downloads that post a link to this Privacy & Cookies Policy, however accessed (the “Services”). This Privacy & Cookies Policy explains our information collection practices, such as the types of information we collect and how we may use that information. Please review this Privacy & Cookies Policy carefully. In addition, please review the Terms and Conditions, which governs your use of the Services.
 
