@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21usdeal.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202071533id_/https%3A//www.21usdeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21usdeal.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118020222id_/https%3A//www.21usdeal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy 21usDeal.com
 
@@ -8,7 +8,7 @@ This web site is owned and operated by 21usDeal.com (21usDeal or we). 21usDeal t
 
 For questions or concerns relating to privacy, we can be contacted:
 
-through our [Online Support System](http://www.21usdeal.com/contact-us/)
+through our [Online Support System](https://www.21usdeal.com/contact-us/)
 
 **Collection of Personally Identifiable Information**  
 In order to use certain portions of the Service, you may be asked for, or you may choose to provide, certain personally identifiable information (PII) such as name, email address, postal address, PayPal account and similar information. We will not collect PII from you while you use the Service unless you voluntarily provide it to us or authorize us to collection such information.
@@ -40,7 +40,7 @@ We have no intention of collecting PII from children under the age of 13. When w
 This Privacy Policy may change from time to time. 21usDeal will post those changes on this page.
 
 **User Agreement**  
-Use of this Service is subject to the 21usDeal User Agreement located at[ http://www.21usdeal.com/terms-conditions/](http://www.21usdeal.com/terms-conditions/).
+Use of this Service is subject to the 21usDeal User Agreement located at[ https://www.21usdeal.com/terms-conditions/](https://www.21usdeal.com/terms-conditions/).
 
 **United States**  
 Our Service is maintained from within the United States of America. If you are located outside of the United States, by using the Service, you authorize the export of PII to the United States and its storage and use as specified in this policy.
