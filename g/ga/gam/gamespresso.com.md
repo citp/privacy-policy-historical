@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamespresso.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921042127id_/https%3A//www.gamespresso.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamespresso.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118184834id_/https%3A//www.gamespresso.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gamespresso
 
