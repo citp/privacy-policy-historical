@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallstarter.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018053614id_/http%3A//www.smallstarter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallstarter.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118190448id_/http%3A//www.smallstarter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Smallstarter Africa
 
