@@ -1,206 +1,212 @@
-> *The following text is extracted and transformed from the webuyanycar.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402094911id_/https%3A//www.webuyanycar.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuyanycar.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118114125id_/https%3A//www.webuyanycar.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - webuyanycar.com
 
-webuyanycar.com
+### Introduction
 
-The UK
+We are committed to protecting and respecting your privacy.
 
+Everyone has rights with regard to the way in which their personal information is handled. During the course of our activities we will collect, store and process personal information about our customers, suppliers and other third parties, and we recognise that the correct and lawful treatment of this data will maintain confidence in the organisation and will provide for successful business operations.
+
+This policy sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it.
+
+For the purpose of UK data protection laws, the data controller is We Buy Any Car Limited of Headway House, Crosby Way, Farnham, Surrey, GU9 7XG.
+
+### Data protection principles
+
+When processing your information, we must comply with the six enforceable principles of good practice. These provide that your personal information must be:
+
+  * processed lawfully, fairly and in a transparent manner,
+  * processed for specified, explicit and legitimate purposes,
+  * adequate, relevant and limited to what is necessary,
+  * accurate and kept up-to-date,
+  * kept for no longer than is necessary, and
+  * processed in a manner than ensures appropriate security.
+
+
+
+### Information you give to us
+
+We may collect, use, store and transfer different kinds of personal information about you, including:
+
+  * **Identity Data** , such as your name, marital status, title, date of birth, gender, National Insurance Number.
+  * **Contact Data** , such as your home address, email address and telephone numbers,
+  * **Financial Data** , such as bank account details, and details of any finance agreements you wish to settle as part of a transaction with us.
+  * **Document Data** , such as your V5 vehicle registration document, and copies of your driving licence, passport, utility bill and other documents that verify your identity,
+  * **Transaction Data** , including details about payments to and from you, and other details of products and services we may supply, including payment made on your behalf to your finance company to settle a finance agreement.
+  * **Where You Represent A Business Entity** , the name of the organisation you represent, that organisation’s Contact Data, Financial Data and Transaction Data
+  * **Technical Data** , including IP addresses, your log-in data, browser type and version, time-zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access our website,
+  * **Profile Data** , which can compiled from valuations made by you, feedback and survey responses,
+  * **Usage Data** , including information about how you use our website
+  * **Marketing Data** , such as your preferences in receiving communications from us
+
+
+
+### ‘Special category’ data
+
+Information relating to your racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, criminal convictions, sex life or sexual orientation, or certain types of genetic or biometric data is known as ‘special category’ data.
+
+During the course of dealing with you, we do not expect to collect any ‘special category’ data about you.
+
+### How we collect your personal information
+
+We may obtain personal information by directly interacting with you, such as:
+
+  * when you use the valuation tool or appointment booking tool available on our website,
+  * entering into an agreement with us to sell your vehicle,
+  * participate with our social media team through an online platform,
+  * enter a competition, promotion or survey organised by us, or otherwise providing us with feedback,
+  * corresponding with us by phone, email, letters or otherwise.
+
+
+
+We may obtain personal information via automated technology when you interact with our website by using cookies, server logs and other similar technologies (such as recognising you as a returning visitor so we can show you your last valuation).
+
+We may also collect personal information about you from third parties or publicly-available sources, such as:
+
+  * providers of technical, payment and delivery services,
+  * Companies House, or other open-source websites that enable us to validate information to satisfy terms of our contract, for example, confirmation of business/asset ownership, where we suspect or reasonably believe an individual is not acting in accordance with the terms of our contract.
+
+
+
+### How we use your personal information
+
+We will only use your personal information when the law allows us to. Most commonly, we will use your personal information in the following circumstances:
+
+  * you have given us consent,
+  * we need to perform a contract we are about to enter into, or have entered into, with you,
+  * where it is necessary for our or a third party’s legitimate interests, and your interests and rights do not override those interests, or
+  * where we need to comply with a legal or regulatory obligation.
+
+
+
+We will only use ‘special category’ information where the law allows us to do so.
+
+### Purposes for which we will use your personal information
+
+We may use your personal information for a number of different purposes. For each purpose, we are required to confirm the ‘legal basis’ that allows us to use your information, as follows:
+
+Purposes for which we will use the information you give to us| Legal basis  
+---|---  
+When you obtain a valuation from us, you provide your name, postcode & contact details | It is necessary for you to provide this information to enable us to provide our service subject to our terms and conditions.  
+To purchase your vehicle and, if accepted, to take possession of your vehicle and deliver the payment to you and/or your finance provider | It will be necessary for the performance of the contract between you and us  
+Where you are acting as a representative of an organisation, to process the organisations instructions and, if accepted, to provide our services to your organisation | It will be necessary for our legitimate business interests, namely to with a view to providing our service to your organisation, and for performance of contract where a sale is agreed.  
+To record the transfer of ownership of your vehicle with the DVLA via DVLA’s online portal | It will be necessary for the performance of the contract between you and us  
+To obtain further information about you and/or your organisation | It will be necessary for our legitimate business interests, namely to ensure we are fully aware of all issues relating to our services we are providing, and to the performance of our contract.  
+To validate information to satisfy our contract using open source websites such as Companies House. For example, confirming of business/asset ownership for the purpose of due diligence, validating suspicions an individual is not acting in accordance with the terms of our contract | It will be necessary for our legitimate business interests, namely to ensure we are fully aware of all issues relating to our services we are providing, and to the performance of our contract.  
+Post-Sale contact where issues have been identified in accordance with our contract | It will be necessary for our legitimate business interests, and in accordance with our contract  
+Where you have contacted us with a query or concern via our Customer Service Team | It will be necessary for our legitimate business interest to enable us to address your query.  
+To notify you about changes to our website terms, our terms of sale or this privacy policy | It will be necessary for our legitimate business interests, namely to ensure you are aware of our current terms and conditions  
+To administer our website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes, to allow you to participate in interactive features of our service, when you choose to do so, to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you | It will be necessary for our legitimate business interests to ensure you receive the best experience possible when accessing and using our website. We will comply with our cookie policy when processing this information  
+To enable you to participate in a prize draw, competition or complete a survey | It will be necessary for our legitimate business interests, namely to study how customers use our service, to develop them and help grow our business  
+To provide you with significant updates or special offers concerning your vehicle. | It will be necessary for us to provide you with these as legitimate business interests, namely to ensure you continue to receive communications that you have previously agreed to receive as part of our service (until you tell us you no longer wish to receive them)  
   
-PRIVACY POLICY
+We will only use your personal information for the purpose(s) for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
+Please note that we may process your personal information without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+### What if you cannot or will not provide us with your personal information
+
+It is a requirement for you to provide use with your name, contact details & postcode for the purpose of us providing you with your valuation. If you wish to sell your vehicle to us, is a contractual requirement for you to provide us with certain information, namely your name, address, email address, vehicle registration details and bank account information, and other proofs we may request to satisfy our contract.
+
+If you do not provide us with information required to obtain a valuation or to enter into contract with us to sell your vehicle, we will be unable to provide you with our service.
+
+### Disclosure of your information
+
+We may share your personal information with the parties set out below:
+
+  * the DVLA,
+  * other personnel within your organisation, or any other organisation that is party to or otherwise has a legitimate interest in the agreement between us and your organisation,
+  * providers of IT and system administration services to our business,
+  * our professional advisers (including solicitors, bankers, auditors and insurers),
+  * HM Revenue & Customs, the Information Commissioner’s Office, Trading Standards, Law enforcement, regulators and other authorities who require reporting of processing activities in certain circumstances,
+  * analytics and search engine providers that assist us in the improvement and optimisation of our website.
+  * third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal information in the same way as set out in this policy.
+
+
+
+We require all third parties to respect the security of your personal information and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal information for their own purposes and only permit them to process your personal information for specified purposes and in accordance with our instructions.
+
+### Where we store your personal information
+
+All information you provide to us is stored on our secure servers in the United Kingdom.
+
+We will take all steps reasonably necessary to ensure that your data is treated securely, including taking the following safeguards:
+
+  * **PCI DSS standards.** We never request or hold your credit card or debit card details. Where you need to make a payment to a finance company using your credit card, we use the secure WorldPay portal which is fully compliant with PCI DSS standards. Our systems do not record any of the information entered into this portal.
+  * **Building entry controls & secure storage.** Our data is held at a Tier II data centre with secure access controlled via 24 hr security, biometric access, internal & external CCTV & security breach alarms. Our Central Support team operate in a building with secure access & alarmed entry controlled by allocated swipe card access internal & external CCTV, with visitors access logged via reception, & escorted entry once in the building.
+  * **Secure lockable desks and cupboards.** Where documents containing personal information are in paper form for an interim period, they are stored in secure Desks and cupboards.
+  * **Methods of disposal.** Paper documents are disposed of by shredding in a manner that ensures confidentiality.
+  * **Firewalls and Encryption.** We use up-to-date and industry-standard firewall and encryption software technology.
+  * **Overseas transfers.** Whenever we transfer your personal information outside the United Kingdom, we ensure a similar degree of protection is afforded to it by ensuring that we apply appropriate safeguards (either by transferring data only to recipients in the European Union, to recipients in countries approved by the European Commission, to recipients that are party to the EU-US Privacy Shield, or by using specific contracts approved by the European Commission).
+
+
+
+If you are concerned about the levels of data security in any of those countries, please let us know and we will endeavour to advise what steps will be taken to protect your data when stored overseas.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+### How long we will store your personal information
+
+The length of time that we will store your data will depend on the ‘legal basis’ for why we are using that data, as follows:
+
+Legal basis| Length of time  
+---|---  
+Where we use/store your data because it is necessary for the performance of the contract between you and us | We will use/store your data for as long as it is necessary for the performance of the contract between you and us  
+Where we use/store your data because it is necessary for us to comply with a legal obligation to which we are subject | We will use/store your data for as long as it is necessary for us to comply with our legal obligations  
+Where we use/store your data because it is necessary for our legitimate business interests | We will use/store your data until you ask us to stop. However, if we can demonstrate the reason why we are using/storing your data overrides your interests, rights and freedoms, then we will continue to use and store your data for as long as it is necessary for the performance of the contract between you and us (or, if earlier, we no longer have a legitimate interest in using/storing your data)  
+Where we use/store your data because you have given us your specific, informed and unambiguous consent | We will use/store your data until you ask us to stop  
   
-This Privacy Policy is designed to inform you about our practices regarding the collection, use, and disclosure of information that you may provide to us, We Buy Any Car Ltd (" **we** " or " **us** "), via webuyanycar.com (" **our Website** "). Together with our [Website terms](https://web.archive.org/terms-and-conditions/),  (and any other documents referred to in it or in this policy) and any relevant prize draw terms, this Privacy Policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
+To determine the appropriate retention period for personal information, we consider the amount, nature and sensitive of the personal information, the potential risk of harm from unauthorised use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-  
-Please be sure to read this Privacy Policy before using, or submitting information to us via, our Website. By using our Website, you agree to the terms of this Privacy Policy. Whenever you submit information via our Website, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.
+### Your rights
 
-  
-For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is [We Buy Any Car Limited, Headway House, Crosby Way, Farnham, Surrey, GU9 7XG].
+You have various legal rights in relation to the information you give us, or which we collect about you, as follows:
 
-###   
-**1\. DATA WE COLLECT AND HOW WE USE IT**
+  * You have a **right to access the information** we hold about you free-of-charge, together with various information about why and how we are using your information, to whom we may have disclosed that information, from where we originally obtained the information and for how long we will use your information.
+  * You have the **right to ask us to rectify any information** we hold about you that is inaccurate or incomplete.
+  * You have the **right to ask us to erase the information** we hold about you (the ‘right to be forgotten’). Please note that this right can only be exercised in certain circumstances and, if you ask us to erase your information and we are unable to do so, we will explain why not.
+  * You have the **right to ask us to stop using your information** where: (i) the information we hold about you is inaccurate; (ii) we are unlawfully using your information; (iii) we no longer need to use the information; or (iv) we do not have a legitimate reason to use the information. Please note that we may continue to store your information, or use your information for the purpose of legal proceedings or for protecting the rights of any other person.
+  * You have the **right to ask us to transmit the information** we hold about you to another person or company in a structured, commonly-used and machine-readable format. Please note that this right can only be exercised in certain circumstances and, if you ask us to transmit your information and we are unable to do so, we will explain why not.
+  * Where we use/store your information because it is necessary for our legitimate business interests, **you have the right to object to us using/storing your information**. We will stop using/storing your information unless we can demonstrate why we believe we have a legitimate business interest which overrides your interests, rights and freedoms.
+  * Where we use/store your data because you have given us your specific, informed and unambiguous consent, **you have the right to withdraw your consent at any time.**
+  * You have the **right to object to us using/storing your information for the purpose of contacting you regarding your valuation**.
 
-  
-If you use the valuation tool or the appointment booking tool available on our Website or enter any of our promotional prize draws, we will ask you to provide us with some personal information, including your name, email address, postcode and telephone number. This information allows us to provide you with a valuation for your car, details of your nearest webuyanycar.com branch, reminders of any appointments you may book with us, and allows us to contact you in the event that you are selected as a Winner of one of our prize draws.   
-We may also use your information to send you marketing material such as SMS messages and email newsletters that we think may be of interest to you. If you do not wish to receive this information from us then please ensure you indicate your preference on the application screen by opting out of receiving marketing information. You may also opt-out of such marketing at any point using the methods detailed in the 'Opting out' section below.
 
-###   
-**2\. COOKIES**
 
-  
-We also collect anonymous information from you, such as your IP address and browser information, automatically via the use of 'cookies'. You can find detailed information about the cookies used to collect such data in our Cookie Policy.
+If you wish to exercise any of your legal rights, please contact our Customer Service Team by writing to the address at the top of this policy, or by emailing us at [talktousnow@webuyanycar.com](mailto:talktousnow@webuyanycar.com).
 
-###   
-3\. SHARING YOUR DATA
+Should you wish to receive no further contact from us concerning a valuation, you can request this by updating your contact preferences via our Contact Preference Centre, or emailing us at [unsubscribe@webuyanycar.com](mailto:%20unsubscribe@webuyanycar.com).
 
-  
-Your personal information will be held and used in accordance with the Act.
+You also have the right, at any time, to lodge a complaint with the Information Commissioner’s Office if you believe we are not complying with the laws and regulations relating to the use/storage of the information you give us, or that we collect about you.
 
-  
-We have partnerships with third parties (such as Feefo) who provide us with independent review and feedback services, and marketing services. We use these services both to monitor customer satisfaction as a way to improve our service, and to help us to improve and deliver our marketing campaigns.
+### Opting out of receiving our communications
 
-  
-If you sell a car to us, or use our Website, you may be contacted by one of our third party partners requesting feedback or comments on your customer experience. These third parties will pass this information on to us, which will allow us to respond to your feedback if you have raised concerns about our service. These partners will not use your personal information for any other purpose.
+You can ask us to stop sending you our communications at any time by;
 
-Unless you opt-out of such marketing, you may also be contacted by one of our third party partners in relation to our offers or services that we think may be of interest to you.
+  * Selecting the “unsubscribe” feature contained within each of our communications
+  * Accessing our website to update your communication preferences in our Contact Preference Centre.
+  * Sending an email to [unsubscribe@webuyanycar.com](mailto:%20unsubscribe@webuyanycar.com)
+  * Contacting our Customer Service Team by emailing us at [talktousnow@webuyanycar.com](mailto:talktousnow@webuyanycar.com).
 
-We may provide your personal information to our associated companies for research and analysis purposes so that we can monitor and improve the services we provide. We and our associated companies may also wish to provide you with information concerning services or products which we think may be of interest to you. We may also want to provide you with related information from third parties whose products or services may be of interest to you unless you opt-out of this marketing.
 
-Except as set out in this Privacy Policy and our Cookie Policy, we will not disclose your personal information to any third party.
 
-###   
-4\. STORING YOUR DATA
+### Automated decision-making
 
-  
-The data that we collect from you may be transferred to, and stored at, a destination outside the EEA.
+We do not use automated decision-making processes using, or in respect of, personal data.
 
-  
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect the information we store about you, we cannot guarantee the security of any information transmitted via our Website; any transmission is at your own risk.
+### Third party links
 
-###   
-5\. OPTING OUT
+Our website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
-  
-You have the right at any time to stop us from contacting you. If you want us to stop contacting you at any time please write to Customer Services, webuyanycar.com, Pennine House, Zebra Court, White Moss View, Middleton, Manchester M24 1UN and we will add your details to our suppression list.
+### Third party links
 
-  
-To opt-out of email communications you can click the unsubscribe link within the email you have received.
+Calls to and from our branches are recorded for training & monitoring purposes. This is to ensure that our staff provide our customers with good customer service, in accordance with company policy and practice. Recordings are held for a limited period of time to fulful this purpose before being erased.
 
-  
-To opt-out of SMS communications you can reply to the message received with the word ‘STOP’.
+### Changes to our policy
 
-  
-Alternatively you can visit our [unsubscribe page](https://web.archive.org/unsubscribe/) where after entering the email address used to obtain your valuation you will be given the option to opt-out of some or all email and SMS communications.  
-If you have any questions or difficulties unsubscribing from email or SMS communications you can contact us at [talktous@webuyanycar.com](mailto:talktous@webuyanycar.com).
+Any changes we make to our policy in the future will be posted on our website and, where appropriate, notified to you by email. Please check our website frequently to see any updates or changes to our policy.
 
-###   
-6\. CONTACT
+### Contact
 
-  
-You have the right to obtain a copy of the information that we hold about you. Any information request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. Information requests should be made in writing to Customer Services, webuyanycar.com, Pennine House, Zebra Court, White Moss View, Middleton, Manchester M24 1UN.
-
-  
-You may also request correction or removal of any information that you believe to be inaccurate. Any such request should be made in writing to Customer Services, webuyanycar.com, Pennine House, Zebra Court, White Moss View, Middleton, Manchester M24 1UN.
-
-###   
-7\. CHANGES
-
-  
-We will make sure to tell you about any changes to this Privacy Policy, by posting them on this page. This Privacy Policy was last updated on 20/03/2015.
-
-##    
-WEBUYANYCAR.COM
-
-##   
-COOKIES POLICY
-
-  
-Like most websites, [www.webuyanycar.com](https://web.archive.org/) uses 'cookies' to help us, We Buy Any Car Ltd (" **we** " or " **us** "), to collect information that makes our Website easier to use and helps us to improve our services. This policy is designed to tell you about the cookies we use on our Website.
-
-  
-When you visit our Website we collect standard internet log information and details of visitor behaviour patterns through the use of these cookies. We do this to find out things such as the number of visitors to the various parts of the Website.
-
-  
-**By using our Website, and if the settings on your browser are adjusted to accept cookies, you are agreeing to the use of cookies by us and our selected third-party partners.**
-
-  
-If you have any questions or concerns about our Cookie Policy then please feel free to get in touch with a member of our customer service team by contacting them at [talktous@webuyanycar.com](mailto:talktous@webuyanycar.com).
-
-##### 1\. WHAT ARE COOKIES?
-
-  
-A cookie is a small text file that can be stored by your computer's hard drive that will then allow the site you are visiting to work, or work more efficiently, as well as provide information to the owner of the site.
-
-  
-For more information on cookies please visit [allaboutcookies.org](http://allaboutcookies.org/).
-
-#####   
-2\. HOW DO WE USE COOKIES?
-
-  
-We use the following types of cookies on our Website:
-
-  * **Strictly necessary cookies:** These are required for the operation of our Website. They include, for example, cookies that enable you to log into secure areas of our Website.
-  * **Analytical/performance cookies:** These allow us to recognise and count the number of visitors and to see how visitors move around our Website when they are using it. This helps us to improve the way our Website works, for example, by ensuring that users are finding what they are looking for easily.
-  * **Functionality cookies:** These are used to recognise you when you return to our Website. This enables us to personalise our content for you, greet you by name and remember your preferences.
-  * **Third-party targeted cookies:** We may sometimes use cookies stored on your computer after visiting our Website to deliver personalised adverts while you browse the internet.
-
-
-
-  
-We collect this information in a way which does not identify anyone personally, and we will not associate any data gathered from this site with any personally identifying information from any source.
-
-  
-To get the most from our Website, you will need to have cookies enabled on your browser. If cookies aren't enabled on your computer, it will mean that your experience on our Website will be limited and you may not be able to use certain sections, such as our valuation tool, as they were intended to be used.
-
-  
-Different browsers have different methods of managing cookies, and you can find instructions on how to manage cookies on your browser [here](http://www.allaboutcookies.org/manage-cookies/).
-
-#####   
-3\. COOKIES AND THIRD PARTIES
-
-  
-We also have relationships with carefully-selected and monitored third party suppliers, some of which are listed below, who may also set cookies during your visit to be used for remarketing purposes – in other words to show you different products and services based on what you appear to be interested in.
-
-  
-These third party suppliers may use details of your valuation (as stored in the cookie) in order to serve relevant targeted advertisements from selected third party remarketing suppliers when visiting other websites.
-
-###   
-4\. WHICH COOKIES DO WE USE AND HOW DO WE USE THEM?
-
-  
-To understand more about which cookies we use and why we use them, please see the list below that describes a number of the cookies we use on the website and explains why we use them.
-
-#####   
-4.1 FIRST PARTY COOKIES
-
-  
-Our own cookies record details of your:
-
-  * online valuation reference;
-  * online valuation;
-  * vehicle manufacturer;
-  * vehicle model;
-  * vehicle colour;
-  * vehicle transmission;
-  * vehicle engine size;
-  * vehicle sample image;
-  * closest branches and distances.
-
-
-
-Below is a list of the first party cookies (i.e. cookies dropped onto your browser by us) we use:
-
-  * **Google Analytics:** We use Google Analytics to better understand how our customers navigate to and through our Website, how long customers spend visiting our content items and how often they return to visit our Website. Google Analytics also assists our marketing colleagues to track the effectiveness of the money we spend on our digital marketing campaigns. Where a customer chooses to try our services, we keep an aggregate record of how long this takes. Google Analytics cookies are completely anonymous, no personally identifiable information is passed to Google, and they are used only to better understand site interaction and improve overall user experience. You can find out more about Google Analytics Cookies here.
-  * **Tradedoubler:** TradeDoubler is an affiliate network which allows us to build relationships with multiple sites. They use cookies to track the number of appointments booked across webuyanycar.com. When a user clicks on an affiliate link a small text file is written, a cookie, to the user's browser. This cookie holds your affiliate ID, which can be identified at the confirmation page when booking your appointment. Tradedoubler does not access unique information on our customers or Website visitors.
-  * **WBACAffiliateCookie:** This cookie helps us record traffic from our affiliate network. The cookie records details of Affiliate ID & Advertisement ID.
-  * **WBACTryCookie:** This cookie is used to detect whether a user has cookie support, and to display an alert, as cookies are required to obtain an online valuation.
-  * **WBACsitecountrycode:** This cookie is used to determine if a visitor visits our UK Website from the US and then selects which version of the website they will be redirected to automatically in the future.
-  * **DCStorm:** We use DCStorm cookies to identify how users interact with our Website, so we can monitor things like the most popular pages and the journey that users take though the Website. The full list of DC Storm cookies can be found here.
-  * **Monetate:** We use Monetate cookies to help us tailor, analyse, manage, report, and optimise your experience on our Website. More information on Monetate cookies can be found here.
-
-
-
-##### 4.2 THIRD PARTY COOKIES
-
-  
-When you visit webuyanycar.com you may notice some cookies that aren't related to us and carry a different name. If you visit a web page that contains embedded content, for example from YouTube, you may be sent cookies from these websites, in this example, a YouTube cookie. We don't control the setting of these cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.
-
-  
-The business partners that may set third party cookies on our Website are detailed below:
-
-  * **YouTube:** We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode.
-  * **Decibel Insight:** This is a website analytics tools which helps us better understand who is visiting our Website and how our Website is being used. This service uses cookies to identify a visitor's browser and track usage on our Website. You can find more information on Decibel Insight cookies and opt-out of this services cookie [here](https://www.decibelinsight.com/OptOut/).
-  * **Double Click:** Google's DoubleClick products provide advertisement management and advertisement serving solutions to companies that buy, create or sell online advertising. You can find out more about Double Click [here](https://www.google.com/policies/technologies/types/).
-  * **Google Adwords:** Google also uses various conversion cookies to help advertisers determine how many times people who click on their ads end up purchasing their products. These cookies allow Google and the advertiser to tell that you clicked the ad and later visited the advertiser site. Conversion cookies are not used by Google for interest-based ad targeting and persist for a limited time only. These cookies are generally set in the googleadservices.com domain, but may also be set in the google.com/ads domain. Conversion cookie data may also be used in combination with your Google account to link conversion events across different devices that you use. Only anonymous conversion cookie data is shared with advertisers. Sometimes a cookie may be set on the domain of the site that you are visiting. In the case of our DoubleClick product, a cookie called ‘__gads’ may be set on the domain of the site that you are visiting. You can find out more about Google Cookies [here](https://support.google.com/analytics/answer/6004245).
-  * **Criteo:** These cookies enable us to re-engage with potential customers who have left the Website via dynamic banners containing the most relevant product specific recommendations that are generated in real-time for each individual. You can find out more about Criteo Cookies [here](http://www.criteo.com/privacy/full-privacy-text/).
-  * **Bing Ads** (Adcenter): We use Bing Ads conversion tracking and an adcenter cookie, an anonymous, consistent, identifying number which is used to match the clicks on advertisements to the resulting thank-you pages.
-  * **VE INTERACTIVE** : We use VE INTERACTIVE to collect users email addresses when they drop out of the website while in the journey pages. These email addresses are then used to encourage users to return to the site and complete their valuation. These cookies also re-engage with potential customer who have left the website via dynamic banners and text adverts. Full details of VE INTERACTIVE’s cookie policy can be found [here](http://www.veinteractive.com/legal-policies/cookies).
-
-
-
-##### 5\. CHANGES
-
-  
-We will make sure to tell you about any changes to this Cookie Policy, by posting them on this page. This Cookie Policy was last updated on 20/03/2015.
+Questions, comments and requests regarding this policy are welcomed and should be addressed to our Customer Services Team by writing to the address at the top of this policy, or by emailing us at [talktousnow@webuyanycar.com](mailto:talktousnow@webuyanycar.com).
