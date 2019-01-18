@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the tableclothsfactory.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205044146id_/http%3A//www.tableclothsfactory.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tableclothsfactory.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118041951id_/http%3A//tableclothsfactory.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Tablecloths, Chair Covers, Table Cloths, Linens, Runners, Tablecloth
-
-**
-
-**
+# Privacy Policy – tableclothsfactory.com
 
 **What information do we collect?**
 
@@ -15,7 +11,7 @@
 
 
 
- **How do we use your information?**
+**How do we use your information?**
 
 We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
@@ -27,7 +23,7 @@ We may use the information we collect from you when you register, purchase produ
 
 
 
- **How do we protect visitor information?**
+**How do we protect visitor information?**
 
 We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
@@ -37,7 +33,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Microsoft Internet Explorer, Google Chrome, and Mozilla Firefox) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
  **Do we disclose the information we collect to outside parties?**
 
@@ -69,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20171205044146id_/http%3A//www.tableclothsfactory.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](http://www.tableclothsfactory.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
