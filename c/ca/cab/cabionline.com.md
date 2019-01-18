@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cabionline.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206153156id_/http%3A//www.cabionline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabionline.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118202803id_/https%3A//www.cabionline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Cabi Fall 2015 Collection
+# Privacy Policy | Cabi Clothing
 
 ## Privacy Policy _Last Updated: June 1, 2009_
 
