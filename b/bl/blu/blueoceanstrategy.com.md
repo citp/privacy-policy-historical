@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueoceanstrategy.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911051129id_/https%3A//www.blueoceanstrategy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueoceanstrategy.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118044039id_/https%3A//www.blueoceanstrategy.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Blue Ocean Strategy
 
