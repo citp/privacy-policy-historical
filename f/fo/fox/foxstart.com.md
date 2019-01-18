@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxstart.com privacy policy that was archived on 2018-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180806112658id_/http%3A//us.foxstart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxstart.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118131103id_/http%3A//us.foxstart.com/privacy.html) for the most accurate reproduction.*
 
 # Foxstart - Privacy Policy
 
