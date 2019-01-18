@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countryoutfitter.life privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002024153id_/http%3A//countryoutfitter.life/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryoutfitter.life privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118023910id_/http%3A//countryoutfitter.life/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All About Country
 
