@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615023844id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118223946id_/https%3A//www.directstartv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - DirectStarTV
 
 **EFFECTIVE DATE: 11/16/15**
 
@@ -23,7 +23,7 @@ In order to better help you understand this Privacy Policy, here are definitions
 
 Reviews and Other Submissions
 
-You may post reviews, comments, and other content to our website; send communications; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, damaging to third parties, or otherwise objectionable, and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of "spam." You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of a submission. We reserve the right (but are not obligated) to remove or edit such content, but do not regularly review posted content.
+You may post reviews, comments, and other content to our website; send communications; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, damaging to third parties, or otherwise objectionable, and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of “spam.” You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of a submission. We reserve the right (but are not obligated) to remove or edit such content, but do not regularly review posted content.
 
 If you do post content or submit material, and unless we indicate otherwise, you grant the operator of this website and its designees a nonexclusive, royalty-free, perpetual, irrevocable, and fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display any and all such submissions throughout the world in any media now known or hereafter developed. You grant the operator of this website and its designees the right to use the name you submit in connection with such submission, at their election, but you acknowledge there is no obligation to do so. You represent and warrant that you own or otherwise control all of the rights to the submission; that the submission is accurate; that use of the submission does not violate this policy and will not cause injury to any person or entity; and that you will indemnify the operator of this website and its designees for all claims resulting from your submissions. We have the right but not the obligation to monitor and edit or remove any activity or content. The operator of this website takes no responsibility and assumes no liability for any content submitted or posted by you or any third party.
 
@@ -89,141 +89,3 @@ If you have any questions about this Privacy Policy or the practices described h
 **Revisions to This Statement**
 
 We reserve the right to revise this Privacy Policy at any time. Please check back from time to time so you are aware of any changes or updates to the policy. We will indicate the policy’s effective date on the first page.
-
-x
-
-  * TV + Internet Packages
-  * TV Packages
-
-
-  *     * SELECT™
-    * INTERNET
-    * $ 89
-
-99 /mo. For  
-12 mos.  
-Plus Taxes.
-
-    * SELECT™ ALL Included TV Package. w/24 mo. TV agmt*. Separate HSI agreement may be required. Internet speed may vary. 
-    * **150+** Digital Channels
-    * Speeds up to **500 Mbps**
-    * View Package Channels »
-[See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
-  *     * Entertainment
-    * INTERNET
-    * $ 94
-
-99 /mo. For  
-12 mos.  
-Plus Taxes.
-
-    * ENTERTAINMENT ALL Included TV Package. w/24 mo. TV agmt* Separate HSI agreement may be required. Internet speed may vary. 
-    * **155+** Digital Channels
-    * Speeds up to **500 Mbps**
-    * View Package Channels »
-[See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
-  *     * CHOICE™
-    * INTERNET
-    * $ 99
-
-99 /mo. For  
-12 mos.  
-Plus Taxes.
-
-    * CHOICE™ ALL Included TV Package. w/24 mo. TV agmt* Regional sports fee applies in certain markets. Separate HSI agreement may be required. Internet speed may vary. 
-    * **185+** Digital Channels
-    * Speeds up to **500 Mbps**
-    * View Package Channels »
-[See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
-  *     * XTRA
-    * INTERNET
-    * $ 109
-
-99 /mo. For  
-12 mos.  
-Plus Taxes.
-
-    * XTRA ALL Included TV Package. w/24 mo. TV agmt* Regional sports fee applies in certain markets. Separate HSI agreement may be required. Internet speed may vary. 
-    * **230+** Digital Channels
-    * Speeds up to **500 Mbps**
-    * View Package Channels »
-[See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
-  *     * Ultimate
-    * INTERNET
-    * $ 114
-
-99 /mo. For  
-12 mos.  
-Plus Taxes.
-
-    * ULTIMATE ALL Included TV Package. w/24 mo. TV agmt* Regional sports fee applies in certain markets. Separate HSI agreement may be required. Internet speed may vary. 
-    * **245+** Digital Channels
-    * Speeds up to **500 Mbps**
-    * View Package Channels »
-[See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
-  *     * Premier™
-    * INTERNET
-    * $ 164
-
-99 /mo. For  
-12 mos.  
-Plus Taxes.
-
-    * PREMIER™ ALL Included TV Package. w/24 mo. TV agmt* Regional sports fee applies in certain markets. Separate HSI agreement may be required. Internet speed may vary. 
-    * **325+** Digital Channels
-    * Speeds up to **500 Mbps**
-    * View Package Channels »
-[See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
-
-
-
-*BUNDLE OFFER REQUIRES 24-MO TV & 12-MO INTERNET AGREEMENTS. ALL OTHER DIRECTV OFFERS REQUIRE 24-MO. AGREEMENT. EARLY TERMINATION FEES ($20/MO. FOR TV; $15/MO. FOR INTERNET) FOR EACH MONTH REMAINING ON AGMT., $35 ACTIVATION, EQUIPMENT NON-RETURN & ADD’L FEES APPLY. *New approved residential customers only (equipment lease req'd). Credit card req'd (except MA & PA). Offer Details
-
-*ALL DIRECTV OFFERS REQUIRE 24-MO TV AGREEMENT. EARLY TERMINATION FEE OF $20/MO. FOR EACH MONTH REMAINING ON AGMT., $35 ACTIVATION, EQUIPMENT NON-RETURN & ADD’L FEES APPLY. *New approved residential customers only (equipment lease req'd). Credit card req'd (except MA & PA). Offer Details
-
-For 12 months after instant TV savings with 24-month agreement. 
-
-Pricing for zip code 20147 | Change
-
-x
-
-### Order DIRECTV Now.
-
-Schedule **FREE** installation today and start watching!
-
-Call now to order
-
-1-888-662-8395
-
-Promo Code: 073-651
-
-or **_CHAT WITH US LIVE!_**
-
-Chat Now
-
- _We're here to help._
-
-x
-
-### DIRECTV Existing Customer Support
-
-Existing customers can call DIRECTV Customer Service for questions, technical support or billing. Visit the Customer Account page to manage your account online.
-
-**Customer Service:** 1-800-531-5000
-
-**General Support Hours:** 8 a.m. — 1 a.m. EST, 7 days a week
-
-**Technical Support Hours:** 24 hours a day, 7 days week
-
-### Order DIRECTV
-
-Call **1-888-662-8395** to order new DIRECTV service.
-
-Speak with a customer service representative to schedule free installation today!
-
-Ask me about special offers for new customers. I’m here to help.
-
-Or call to speak with   
-a DIRECTV specialist.
-
-1-888-662-8395
