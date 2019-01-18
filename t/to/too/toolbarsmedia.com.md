@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolbarsmedia.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930032948id_/http%3A//toolbarsmedia.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolbarsmedia.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118021442id_/http%3A//toolbarsmedia.com/terms) for the most accurate reproduction.*
 
 # ToolbarsMedia :: About Us
 
