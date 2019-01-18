@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codecogs.com privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025165712id_/http%3A//codecogs.com/pages/agreements/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codecogs.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118045148id_/https%3A//www.codecogs.com/pages/agreements/privacy_policy.php) for the most accurate reproduction.*
 
 # CodeCogs Privacy Policy
 
