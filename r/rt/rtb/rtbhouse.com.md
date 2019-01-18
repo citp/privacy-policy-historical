@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtbhouse.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230181725id_/https%3A//www.rtbhouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtbhouse.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118152528id_/https%3A//www.rtbhouse.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RTB House | High Tech Retargeter That Makes Digital Advertising Campaigns Perform Better
 
@@ -28,7 +28,7 @@ Please bear in mind that if you use several browsers or different computers, you
 Data Subject Access Requests**
 
 Under the GDPR, you are able to exercise various rights related to your personal data such as right to request access to their data or to request that the data be corrected or deleted.  
-If you would like to exercise any of your data subject rights under the GDPR please contact our Data Protection Officer at: [dpo@rtbhouse.com](https://web.archive.org/web/20181230181725id_/https://www.rtbhouse.com/privacy/dpo@rtbhouse.com) who will provide you with detailed information on specific procedure related to this issue.
+If you would like to exercise any of your data subject rights under the GDPR please contact our Data Protection Officer at: [dpo@rtbhouse.com](https://web.archive.org/web/20190118152528id_/https://www.rtbhouse.com/privacy/dpo@rtbhouse.com) who will provide you with detailed information on specific procedure related to this issue.
 
 ## **Privacy Changes**
 
@@ -36,4 +36,4 @@ Please be aware that RTB House may deem it fit or necessary to update this Priva
 
 ## **Privacy Contact**
 
-If you have any questions or concerns regarding RTB House’s Privacy Policy, write to our Data Protection Officer at: [dpo@rtbhouse.com](https://web.archive.org/web/20181230181725id_/https://www.rtbhouse.com/privacy/dpo@rtbhouse.com)
+If you have any questions or concerns regarding RTB House’s Privacy Policy, write to our Data Protection Officer at: [dpo@rtbhouse.com](https://web.archive.org/web/20190118152528id_/https://www.rtbhouse.com/privacy/dpo@rtbhouse.com)
