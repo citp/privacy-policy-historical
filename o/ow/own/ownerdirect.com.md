@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ownerdirect.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120153706id_/https%3A//www.ownerdirect.com/Documents/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownerdirect.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118230421id_/https%3A//www.ownerdirect.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Owner Direct Vacation Rentals Inc.
+# Privacy Policy | Owner Direct Rentals Inc.
 
-**Our Commitment to Protecting the Privacy of Personal Information**   
+**Owner Direct Rentals Inc's Commitment to Protecting the Privacy of Personal Information**   
 Technological growth has revolutionized the way businesses gather, use and disclose information. Emerging technologies require heightened vigilance in the collection, use and disclosure of personal information. We are committed to protecting the confidentiality and privacy of personal information we hold about our customers. This Policy reflects that commitment.
 
 **What is Personal Information?**   
@@ -39,6 +39,9 @@ Some examples are:
 
 
 
+**Personal Data Breaches** Owner Direct Rentals shall notify it's customers without undue delay and, in any case, within 72 hours upon becoming aware of or reasonably suspecting a Personal Data Breach. Such notification shall as a minimum: Describe the nature of the Personal Data Breach, the categories and numbers of Data Subjects concerned, and the categories and numbers of Personal Data records concerned; Communicate the name and contact details of the Privacy Officer or other relevant contact from whom more information may be obtained; Describe the estimated risk and the likely consequences of the Personal Data Breach; and Describe the measures taken or proposed to be taken to address the Personal Data Breach.   
+At the customer's request, Owner Direct will provide reasonable assistance and cooperation with respect to any notifications made to that customer.   
+**Erasure of Personal Data** Upon termination of the Customer Account, the Processor will return or destroy Personal Data at the Customer's request. Owner Direct may retain Personal Data to the extent required by Union or Member State law, and only to the extent and for such period as required by Union or Member State law.   
 **Your Options Regarding Personal Information**   
 Please note that you may withdraw or limit your consent to our collection, use, or disclosure of your personal information at any time, subject to any legal or contractual restrictions. We will process and implement such requests within a reasonable amount of time. Please note that such requests may limit our ability to provide you with the optimal level of service or any service.   
 To opt out of Google Analytics for Display Advertisers and customized Google Display Network ads, visit the Ads Preferences Manager (http://www.google.com/settings/ads/onweb/) and the Google Analytics Opt-out Browser Add-on (http://tools.google.com/dlpage/gaoptout/). 
