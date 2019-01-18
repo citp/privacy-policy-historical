@@ -1,64 +1,65 @@
-> *The following text is extracted and transformed from the thedetoxproject.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922153945id_/http%3A//thedetoxproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedetoxproject.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118184247id_/https%3A//maxliving.com/security-privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Detox Project
+# Security And Privacy Policies
 
-Disclosure Regarding Collection and Use of Personal Information  
-Last Updated April 8, 2015
+MaxLiving is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site. 
 
-Thank you for visiting thedetoxproject.com. This notice explains our online information collection and use practices and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information.
+## Information Collected
 
-**The Information We Collect.  
-**  
-thedetoxproject.com collects the following information:
+In general, you can visit this Web site without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. Our web servers also seek (as many Web sites do) to place a "cookie" (a small data file) on your computer's hard drive which allows the server to determine the computer when it visits again, in order to track statistical information about navigation to and throughout certain areas of our site, and to MaxLiving promotions on other sites. This cookie is not used to obtain your name or any personal data, and the information that is tracked is used only for internal purposes, such as to improve site navigation and to measure the effectiveness of our promotional placements, and is not shared with anyone other than MaxLiving affiliates and contractors who assist MaxLiving in these efforts and are bound to confidentiality. However, if you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed. 
 
-First Name and Email Address
+In addition, there are portions of this Web site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address. For electronic access to annual reports and proxy statements, we collect your tax identification number to verify your shareholder status. For our supplier diversity site, we necessarily collect information about gender and ethnicity, such as whether your business is female-owned. 
 
-We also may collect certain non-personally identifiable information (i.e. generic information that does not identify you personally) when you visit any of our web pages such as the type of browser you are using (e.g., Internet Explorer, Safari, Firefox), the type of operating system you are using, (e.g., Windows or Mac), your geolocation and the domain name of your Internet service provider.
+This Web site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children. 
 
-**How We Use and Disclose the Information.**
+## Use of Collected Information
 
-We will use the personal information you provide online for the purpose(s) you have submitted. Your First Name and Email Address will be used to send you the summit related content that you request. In addition, we may send you e-mails offering products or services which we think you may be interested in. If you want us to stop using the personal information you provided in these ways, please click the unsubscribe link on the bottom of any of our communications. PLEASE NOTE: By opting out you WILL NOT receive any notifications from us including purchase confirmations, daily presenter notifications, or any other correspondence.
+Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site. 
 
-We may disclose your personally identifiable information in response to subpoenas, court orders, or other legal process, or to establish or exercise our legal rights or to defend against legal claims. We may also disclose your personally identifiable information when we believe it is necessary or desirable in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, and/or to protect our rights and property.
+When other information is collected from you, such as your name and e-mail address, we generally let you know at the time of collection how we will use the personal information. Usually, we use the personal information you provide only to respond to your inquiry or to process your request (such as to receive electronic annual reports or to be added to our supplier diversity database). This information 
 
-**How We Share Your Personal Information.**
+may be shared with other Maximized Living businesses, but only if necessary to fulfill your request or for related purposes. 
 
-The host of thedetoxproject.com and Health Talks Online retains explicit rights to this information and will NOT share the personal information you provide except with your explicit permission.
+We may share the personal information you provide with other companies we have hired to provide services for us. These companies - our vendors - are contractually bound to use personal information we share with them only to perform the services we have hired them to provide. We do not share, sell, or lease personal information about you to any third-parties for their marketing use. We will release information about you if you direct us to do so, if we are required by law to do so, or in other legally limited circumstances (for example, to protect your account from fraud). 
 
-Our business needs may change from time to time and we reserve the right to make changes to our Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We will not materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+If you register with one of Maximized Living business units online, they may use this information to provide you with custom information about MaxLiving offerings in support of your business needs. They may also seek to place a "cookie" (small data file) as discussed above in order to provide you with tailored information. You should review the privacy policy associated with that Maximized Living business' Web site for further information about that Maximized Living business' privacy practices. 
 
-Our operations and maintenance contractors sometimes have limited access to your personally identifiable information in the course of providing products or services to thedetoxproject.com. These contractors include vendors and suppliers that provide us with credit card processing, e-mail distribution technology, services, and/or content for the operation and maintenance of our Web site. Access to your personally identifiable information by these contractors is limited to the information reasonably necessary for the contractor to perform its limited function. We also contractually require that our operations and maintenance contractors 1) protect the privacy of your personally identifiable information consistent with this Privacy Policy, and 2) not use or disclose your personally identifiable information for any purpose other than providing us with products and services as required by law.
+## Links to Other Sites
 
-thedetoxproject.com is committed to handling your customer information with high standards of information security. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+MaxLiving web site may contain links to other sites such as MaxLiving distributors and sales affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites. 
 
-**Use and Disclosure of Anonymous Information.**
+## Security of Collected Information
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how our site is used, as well as to offer you products, programs or services. We may also share aggregate information with others, including affiliated companies and non-affiliated companies.
+We maintain strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. We restrict access to information about you to those MaxLiving workers who need to know the information to respond to your inquiry or request. Workers who misuse personal information are subject to disciplinary action. 
 
-**Collection of Information by Others.**
+## Access to Collected Information
 
-Our site may contain links to other sites whose information practices may be different than ours. You should check the other sites’ privacy notices since we have no control over information that is submitted to or collected by them.
+You may review and update the information that you provide to us through this Web site by contacting us as described below. 
 
-**Cookies.**
+## Contacting Us
 
-To enhance your online experience with us, many of our web pages use “cookies.” Cookies are text files placed on your hard disk by our web server to store your preferences. Cookies, by themselves, do not tell us your email address or other personally identifiable information unless you choose to provide this information to us. However, once you choose to provide the personally identifiable information, this information may be linked to the data stored in the cookie. Cookies cannot be used to run programs or deliver viruses to your computer.
+If you have any questions about this privacy policy, please Contact Us at any time. We welcome your questions and suggestions about our privacy policy. 
 
-We use cookies as a convenience feature to save you time, to understand how our site is used, and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages or recall your specific information on subsequent visits (e.g. to recognize you by name when you return to our site). You can opt to have your browser reject cookies without any effect on your use of our site. If you do that, you may need to re-register with us every time you visit our site in order to participate in certain promotions. You should also know that companies that advertise on our web site (and their agents) might use their own cookies. This policy does not cover how these companies use their cookies.
+## Phishing / Fraudulent Transactions
 
-**Web Beacons.**
+Internet fraudsters and scam artists are increasingly targeting unsuspecting people by a method called PHISHING. This involves illegitimate third parties using the name of legitimate companies like MaxLiving to obtain private information from online customers, such as financial details (e.g. credit card numbers or passwords). This practice is carried out either by sending a phony e-mail directed to the victims or by directing them to a website where information is requested. Please be aware that this unscrupulous people may suggest that bad things will happen if you do not immediately provide or verify your financial information. 
 
-Some of our Web pages may contain electronic images known as Web beacons, which are also called single-pixel gifs. These images allow us to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personally identifiable information but they are a technique we use to compile aggregated statistics about our website usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. Some of our Web pages may also contain Web beacons placed there to help us determine the effectiveness of our advertising campaigns.
+### How to protect yourself from such scams:
 
-**Discussions, Community Tools and Testimonials.**
+  * MaxLiving's official communications are never sent from personal email addresses hosted on domains such as yahoo, hotmail, gmail etc. Please verify the sender email address carefully. 
+  * If you are unsure whether a contact is legitimate, go to the company’s web site by typing in the site address or using a page you have previously book marked, instead of using a link provided by the e-mail. 
+  * Please treat any notification of having to login to your account via email or to go to another site to login with extreme caution. 
 
-You agree that any information you submit to us through thedetoxproject.com may be used for promotional purposes. Because of the public nature of some of our services, you should exercise caution when deciding to disclose any personal information. We may also use a limited amount of information, such as first name, last initial and your town and state in marketing materials on the website. Your registration constitutes consent to this use.
 
-**International Users.**
 
-If you are visiting thedetoxproject.com from a location outside of the United States, your connection will be through and to servers located in the United States, and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. By using How 2 Publishing you authorize and specifically consent to the transfer of your personal information to the USA and its storage and use as specified above when you provide such information to us.
+### What to do if you suspect a phishing email:
 
-**How You Can Access or Correct Your Personal Information.**
+Do not reply. 
 
-For instructions on how you can access the personally identifiable information that we have collected about you online, or how to correct any errors in such information, please contact us at thedetoxproject.com/contact-us
+Do not open any attachments. Attachments may contain malicious code that will infect your computer. 
 
-To protect your privacy and security, we may take reasonable steps to help verify your identity before granting access or making corrections.
+Do not click on any links included in the email. 
+
+If you still feel it is a phishing / scam email, please forward the suspect email to abuse@maxliving.com for us to take necessary action. Alternately, you may report it immediately to our helpline at [(321) 939-3030](tel:3219393030). 
+
+For more valuable information and recommendations on how to avoid "Phishing" Fraud, please visit <http://www.sec.gov/investor/pubs/phishing.htm>
