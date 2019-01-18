@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hellointern.com privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213003439id_/https%3A//www.hellointern.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellointern.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118221637id_/https%3A//www.hellointern.com/privacy-policy) for the most accurate reproduction.*
 
-# HelloIntern | Student Internship Program, International Internships, Find Interns
+# Student Internship Program, International Internships, Find Interns | HelloIntern
 
 **Privacy Policy**
 
