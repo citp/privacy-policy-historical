@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficgenesis.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118175549id_/http%3A//trafficgenesis.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficgenesis.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118081151id_/http%3A//trafficgenesis.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Traffic Genesis
 
