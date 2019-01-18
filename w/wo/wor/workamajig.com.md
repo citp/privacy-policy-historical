@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workamajig.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224042823id_/https%3A//www.workamajig.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workamajig.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118091744id_/https%3A//www.workamajig.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Workamajig Privacy Policy
 
