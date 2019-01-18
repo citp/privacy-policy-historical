@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techcocktail.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906133055id_/https%3A//www2.tech.co/en__privacy_policy__techco/a9417) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcocktail.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119005703id_/https%3A//www2.tech.co/en__privacy_policy__techco/a9417) for the most accurate reproduction.*
 
-# Expert Market
+# MVF Global Ltd
 
 You have certain rights in relation to your data, including the right to object to processing based on legitimate interests, and direct marketing. At any time, you can exercise your rights by emailing us at [dataprotection@mvfglobal.com](mailto:dataprotection@mvfglobal.com). For further details about our processing and your rights, please see below.
 
@@ -29,7 +29,7 @@ TechCo is a brand of Marketing VF Limited (" **MVF** ", " **we** ", " **us** ", 
 
 MVF is a company registered in England and Wales (company number: 06951544), whose registered office address is at Imperial Works, Perren Street, London NW5 3ED, United Kingdom.
 
-For the purposes of the General Data Protection Regulation (the " **GDPR** "), Marketing VF Limited is the controller in relation to your data. We are registered as a controller with the UK Information Commissioner’s Office (ICO) under registration number Z1995728. You can confirm our registration here: [www.ico.org.uk](https://web.archive.org/web/20180906133055id_/https%3A//www2.tech.co/en__privacy_policy__techco/www.ico.org.uk)
+For the purposes of the General Data Protection Regulation (the " **GDPR** "), Marketing VF Limited is the controller in relation to your data. We are registered as a controller with the UK Information Commissioner’s Office (ICO) under registration number Z1995728. You can confirm our registration here: [www.ico.org.uk](https://web.archive.org/web/20190119005703id_/https%3A//www2.tech.co/en__privacy_policy__techco/www.ico.org.uk)
 
 ### What Data We Collect, And How We Use It
 
@@ -48,6 +48,12 @@ If you contact us, we will use your information to handle your enquiry and corre
 **Working with suppliers:**
 
 We work with a number of suppliers, who process data on our behalf. These include cloud storage providers, email service providers, and cloud telephony providers. We have appropriate contracts in place with such suppliers to ensure the protection and confidentiality of data.
+
+**To run our competitions and prize draws:**
+
+If you enter a competition or prize draw on our site, we will use the information that you provide to run the competition or prize draw, or contact you regarding your entry.
+
+Where we are running a competition or prize draw jointly with another party, or promoting one of behalf of another party, we may share your entry details with that party, but only for the purposes of managing the competition or prize draw.
 
 ### Requesting Quotes
 
@@ -110,7 +116,7 @@ From time to time, Suppliers may return data to us. They may do this if they hav
 
 Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. At the bottom of this policy, we have included a table, setting out what cookies we use, and the purposes for which we use them.
 
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](https://web.archive.org/web/20180906133055id_/https%3A//www2.tech.co/en__privacy_policy__techco/www.aboutcookies.org) or [www.allaboutcookies.org](https://web.archive.org/web/20180906133055id_/https%3A//www2.tech.co/en__privacy_policy__techco/www.allaboutcookies.org).
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.org](https://web.archive.org/web/20190119005703id_/https%3A//www2.tech.co/en__privacy_policy__techco/www.aboutcookies.org) or [www.allaboutcookies.org](https://web.archive.org/web/20190119005703id_/https%3A//www2.tech.co/en__privacy_policy__techco/www.allaboutcookies.org).
 
 To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
 
@@ -135,6 +141,7 @@ This notice sets out (above) how we use your data. Under the GDPR, controllers m
 **Activity** | **Lawful Basis under the GDPR**  
 ---|---  
 Sending our newsletters to you | Consent  
+Running competitions, prize draws, surveys, etc | Legitimate interests  
 Handling enquiries received from you | Legitimate interests  
 Connecting you with Suppliers | Consent  
 Automated decision-making (as explained above) | Legitimate interests  
@@ -210,4 +217,4 @@ Tubemogul |  | This is used by our video player technology, Brightcove, to allow
 Dianomioffers |  | This cookie tracks which of our reports and guides are of interest to our users.   
 Infusionsoft |  | This cookie tracks when a user has completed a form on site. When the user revisits the site, this information will be pre-populated.   
   
-**Last reviewed: 05 June 2018**
+**Last reviewed: 12 November 2018**
