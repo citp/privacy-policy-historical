@@ -1,104 +1,134 @@
-> *The following text is extracted and transformed from the thoughtspot.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725003748id_/https%3A//thoughtspot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtspot.com privacy policy that was archived on 2019-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190118193655id_/https%3A//www.thoughtspot.com/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy | ThoughtSpot
+# Privacy Statement | ThoughtSpot
 
-Welcome to ThoughtSpot, the online and mobile web sites and other interactive features (collectively, “ThoughtSpot Web Sites” or “Web Sites”) of ThoughtSpot, Inc. (“ThoughtSpot,” “we,” or “us”). ThoughtSpot is committed to protecting your privacy. Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Web Sites, and your choices about the collection and use of your information.
+######    
+Effective as of August 16, 2018
 
-#### 1\. How We Collect and Use Information
+  
+ThoughtSpot, Inc. and its subsidiaries (collectively “ThoughtSpot”, “we” or “us”) is committed to protecting your privacy and providing you with a positive experience on our websites and in using our products and services.
 
-We collect the following types of information about you: 
+This Privacy Statement only covers our privacy practices with respect to the collection, use, and disclosure of personal information obtained: (i) through the ThoughtSpot websites that link to this Privacy Statement ("Website"); (ii) in connection with your purchase of our products and services (“Solutions”); and (iii) in connection with events hosted by us where we collect information from registrants and attendees (“Events”).
 
-**Information you provide us directly:** You are not required to provide information about yourself when you visit a ThoughtSpot Web Site. ThoughtSpot Web Sites may ask you for different types of information when you register for certain services, access various content or features, or directly contact the Web Site including: contact information, such as name, email address, postal address, phone number, facsimile number, and mobile number; user name, password, and password reminder questions and answers; age and date of birth; other demographic information, such as gender, job information, and zip code; information for a public profile, such as your interests and the address of your web site; communications preferences, such as which newsletters you would like to receive; search queries; in limited circumstances, payment and identity verification information, such as credit card number, social security number or comparable national identifiers, and driver's license number where needed for payment, to complete a particular transaction, or to access a particular service (e.g., paid subscriptions); information posted in community discussions and other interactive online features; and correspondence you send to us. We may also retain any messages you send through the Web Sites, and may collect information you provide in User Content you post to the Web Sites.  We use this information to operate, maintain, and provide to you the features and functionality of the Web Sites.
+If you have any questions or concerns about our use of your personal information, please contact us using the contact details provided at the bottom of this Privacy Statement.
 
-**Information we collect automatically on ThoughtSpot Web Sites:** ThoughtSpot Web Sites may collect certain information automatically, including: your browser type and operating system; your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area; sites you visited before and after visiting a ThoughtSpot Web Site; web pages and advertisements you view and links you click on within ThoughtSpot Web Sites; unique identifiers, including mobile device identification numbers that can identify the physical location of such devices in accordance with applicable law; information collected through cookies (described below), web beacons, and other technologies; information about your interactions with audio and video content, such as the type of content listened to and viewed, and information about your interactions with email messages, such as the links clicked on and whether the messages were opened or forwarded; upon request, your bandwidth speed and information about the software programs installed on your computer; and standard server log information.
+####  Collection of Your Personal Information
 
-**Information we may receive from third parties** : We may also use third parties to provide certain services, such as collecting, tracking and analyzing non-personally identifiable usage and statistical information from users, such as the user's browser type, operating system, browsing behavior and demographic information. These third parties may place cookies, web beacons or other devices on your computer or device to collect non-personal information which may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties. We will not allow such third parties to capture your personally identifying information unless you approve of such data gathering.
+The types of personal information we collect will depend upon your interactions with ThoughtSpot.  We may collect information directly from you when you use our Websites and purchase our Solutions.  We may also collect information from trusted third-party sources and engage third parties to collect personal information to assist us.  The types of information we collect from you may include the following:
 
-We use this information to operate, maintain, and provide to you the features and functionality of the Web Sites, as well as to communicate directly with you, such as to send you email messages and push notifications. We may use this information for retargeting. We may also send you ThoughtSpot-related emails or messages (e.g., account verification, order confirmations, change or updates to features of the Web Sites, technical and security notices).  For more information about your communication preferences, see “Your Choices Regarding Your Information” below.
-
-**Use of cookies and other technology to collect information:**
-
-We automatically collect certain types of usage information when you visit or use our Web Sites.  When you visit the Web Sites, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site.  A cookie may also convey information to us about how you use the Web Sites (e.g., the pages you view, the links you click, how frequently you access the Web Sites, and other actions you take on the Web Sites), and allow us to track your usage of the Web Sites over time. We may collect log file information from your browser or mobile device each time you access the Web Sites.  Log file information may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, information about your mobile device, referring / exit pages and URLs, number of clicks and how you interact with links on the Web Sites, domain names, landing pages, pages viewed, and other such information. We may employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients.  The information allows for more accurate reporting and improvement of the Web Sites. We may also collect analytics data, or use third-party analytics tools (such as Google Analytics), to help us measure traffic and usage trends for the Web Sites.  These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Web Sites.
-
-When you access our Web Sites by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device (“Device ID”), mobile carrier, device type and manufacturer, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device.
-
-We use or may use the data collected through cookies, log file, device identifiers, location data and clear gifs information to:  (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information, including advertising; (c) provide and monitor the effectiveness of our Web Sites; (d) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Web Sites; (e) diagnose or fix technology problems; (f) otherwise plan for and enhance our service; and (g) automatically update the ThoughtSpot application on your mobile devices.
-
-#### 2\. Sharing of Your Information
-
-We may share your personal information in the instances described below. For further information on your choices regarding your information, see the section below called, “Your Choices Regarding Your Information.”
-
-We may share your personal information with: 
-
-  * Other companies owned by or under common ownership as ThoughtSpot, which also includes our subsidiaries (i.e., any organization we own or control) or our ultimate holding company (i.e., any organization that owns or controls us) and any subsidiaries it owns.  These companies will use your personal information in the same way as we can under this Policy;
-  * Third party vendors, consultants and other service providers that perform services on our behalf, in order to carry out their work for us, which may include identifying and serving targeted advertisements, content or service fulfillment, or providing analytics services; additionally, we may use credit card processing or verification service companies to verify credit card information and process payments. We will require any such processing or verification services to comply with PCI privacy and security requirements.
-  * Third parties who we think may offer you products or services you may enjoy, if you have indicated to us that you wish to receive information from such parties; 
-  * Other parties in connection with any company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy or related or similar proceedings; and
-  * Third parties as required to (i) satisfy any applicable law, regulation, subpoena/court order, legal process or other government request, (ii) enforce our Terms of Use Agreement, including the investigation of potential violations thereof, (iii) investigate and defend ourselves against any third party claims or allegations, (iv) protect against harm to the rights, property or safety of Go OUt, its users or the public as required or permitted by law and (v) detect, prevent or otherwise address criminal (including fraud or stalking), security or technical issues.
+  * **Contact Information and User Credentials.** Name, employer, title, email address, physical address, phone number, and other contact information].
+  * **Payment and Billing Information.** Credit card number, banking information and billing and shipping addresses.
+  * **Demographic Information.** Employment status, occupation and region. On occasion, ThoughtSpot may collect other demographic information, such as gender, race, ethnicity, veteran status and age.
+  * **Event Information.  ** Registration information related to your attendance at Events, including travel and contact information, scheduling information, food preferences or allergies and accessibility requests.
 
 
 
-**Use of Google Analytics:**
+In some instances, ThoughtSpot and the third parties we engage may automatically collect data through cookies, web logs, web beacons, and other similar applications.  For detailed information, please see our [Cookies Policy](https://web.archive.org/legal/cookie-policy).
 
-ThoughtSpot may use any of the following services from Google Analytics:
+####  Uses of Your Personal Information
 
-  * Remarketing with Google Analytics
-  * Google Display Network Impression Reporting
-  * DoubleClick Platform integrations
-  * Google Analytics Demographics and Interest Reporting
+We may use your personal information for the purposes of operating our business, delivering, improving, and customizing our Websites, selling our Solutions, sending marketing and other communications related to our business, and for other legitimate purposes permitted by applicable law.  Some of the ways we may use personal information include:
+
+  * Understand you and your preferences to enhance your Website experience;
+  * Send you ThoughtSpot-related information, including confirmations, account verification, invoices, technical notices, updates, security alerts, and support and administrative messages;
+  * Communicate with you about promotions, upcoming vents, and news about products and services offered by ThoughtSpot and our selected partners;
+  * Link or combine information about you with other personal information we get from third parties, to help understand your needs and provide you with better and more personalized Website experience;
+  * Enforce our terms and conditions or protect our business, partners, or users; 
+  * To operate, maintain, and provide to you the features and functionality of the Websites;
+  * In connection with your application for employment with ThoughtSpot;
+  * To register you for Events you sign up for with us and populate profiles for you in our records; or
+  * For industry analysis, benchmarking, analytics, marketing, and other business purposes. 
 
 
 
-We will not facilitate the merging of personally-identifiable information with non-personally identifiable information collected through any Google advertising product or feature unless we have robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that merger.
+If you are from the European Economic Area, our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
 
-To see how Google uses your information, review [How Google uses data when you use Google's partners' sites or apps](http://www.google.com/policies/privacy/partners/). 
+However, we will normally collect personal information from you only where we have your consent to do so, where we need the personal information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal information from you.
 
-**Ads on ThoughtSpot:  **We may also share certain information such as your location, browser and cookie data and other data relating to your use of our Web Sites with our business partners to deliver advertisements (“ads”) that may be of interest to you.  ThoughtSpot may allow third-party ad servers or ad networks to serve advertisements on the Web Sites.  These third-party ad servers or ad networks use technology to send, directly to your browser or mobile device, the ads and ad links that appear on the Web Sites, and will automatically receive your IP address when they do so.  They may also use other technologies (such as cookies, JavaScript, device identifiers, location data, and clear gifs, see above) to compile information about your browser’s or device’s visits and usage patterns on the Web Sites, and to measure the effectiveness of their ads and to personalize the advertising content.  ThoughtSpot does not sell, rent, or share the information we collect directly from you or about you from third parties with these third-party ad servers or ad networks for such parties’ own marketing purposes.  
+You can edit your communication preferences at any time. See Controlling Your Personal Information below.
 
-Please note that an advertiser may ask ThoughtSpot to show an ad to a certain audience of Users (e.g., based on demographics or other interests).  In that situation, ThoughtSpot determines the target audience and ThoughtSpot serves the advertising to that audience and only provides anonymous aggregated data to the advertiser.  If you respond to such an ad, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach.  
+####  Sharing Your Personal Information
 
-The ThoughtSpot Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers.  Please consult the respective privacy policies of such advertisers or contact such advertisers for more information.
+We may share your personal information with third parties for the purposes of operating our business, selling, delivering and improving our Solutions, sending marketing and other communications related to our business, and for other legitimate purposes permitted by applicable law or otherwise with your consent.
 
-#### 3\. How We Store and Protect Your Information
+We may share personal information in the following ways:
 
-**Storage and Processing** : Your information collected through the Web Sites may be stored and processed in the United States or any other country in which ThoughtSpot or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which ThoughtSpot or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.  
+  * Within ThoughtSpot and any of our global subsidiaries. These companies will use your personal information in the same way as we can under this Statement.
+  * With third party vendors, consultants and other service providers that perform services on our behalf.  Examples include, but are not limited to: processing of orders and credit card transactions, hosting websites, hosting Event registration, assisting with sales-related efforts or post-sales support, recruitment and human resources, and providing customer support.
+  * In connection with, or during negotiations of, any merger, sale of company assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or to another company.
+  * In response to a request for information by a competent authority if we believe disclosure is in accordance with, or is otherwise required by, any applicable law, regulation or legal process.
+  * With law enforcement officials, government authorities, or other third parties as necessary to comply with legal process or meet national security requirements; protect the rights, property, or safety of ThoughtSpot, its business partners, you, or others; or as otherwise required by applicable law.
+  * In aggregated, anonymized, or de-identified form which cannot reasonably be used to identify you.
 
-**Keeping your information safe** : ThoughtSpot cares about the security of your information, and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Web Sites.  To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account.  You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from ThoughtSpot, at all times.  However, ThoughtSpot cannot ensure or warrant the security of any information you transmit to ThoughtSpot or guarantee that information on the Web Sites may not be accessed, disclosed, altered, or destroyed.  Your privacy settings may also be affected by changes to the functionality of third party sites and services that you add to the ThoughtSpot Web Sites, such as social networks.  ThoughtSpot is not responsible for the functionality or security measures of any third party.
 
-**Compromise of information** : In the event that any information under our control is compromised as a result of a breach of security, ThoughtSpot will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-#### 4\. Your Choices About Your Information
+####  Security of Your Personal Information
 
-**Commercial and marketing communications:** We use the information we collect or receive to communicate directly with you.  We may send you emails containing newsletters, promotions and special offers.  If you do not want to receive such email messages, you will be given the option to opt out or change your preferences.  We also use your information to send you Web Sites-related emails (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Web Sites, technical and security notices).  You may not opt out of Web Sites-related e-mails. You will also be able to be “found” on ThoughtSpot based on information that you provide (see “Find friends on ThoughtSpot”) above.
+We implement physical, administrative, and technical safeguards designed to protect your personal information from unauthorized access, use, or disclosure.  We also contractually require that our suppliers protect such information from unauthorized access, use, and disclosure.  However, you should know that no company, including ThoughtSpot, can fully eliminate security risks associated with personal information.  Further, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any personal information you provide to us.
 
-**You control your account information and settings:**  You may update your account information and email-communication preferences at any time by logging into your account and changing your profile settings.  You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications.  We make every effort to promptly process all unsubscribe requests.  As noted above, you may not opt out of Web Sites-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Web Sites, technical and security notices).  If you have any questions about reviewing or modifying your account information, you can contact us directly at [support@thoughtspot.com](mailto:support@thoughtspot.com).
+####  Retention of Your Personal Information
 
-**Online Advertising:  **We may permit third party online advertising networks to collect information about your use of our website over time so that they may display ads that may be relevant to your interests on our Web Sites as well as on other websites or apps.  Typically, the information collected for this purpose is collected through cookies or similar tracking technology.  The only way to completely opt out of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device.  Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools.  (To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative’s online resources, located at [http://www.networkadvertising.org](http://www.networkadvertising.org/)). Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents ThoughtSpot or its business partners from tracking your browser’s activities in relation to the Web Sites, and for use in targeted advertising activities by third parties.  However, doing so may disable many of the features available through the Web Sites.  If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at [support@thoughtspot.com](mailto:support@thoughtspot.com).
+We will retain your personal information as needed to fulfill the purposes for which it was collected.  We will retain and use your personal information as necessary to comply with our business requirements, legal obligations, resolve disputes, protect our assets, and enforce our agreements.
 
-**How long we keep your User Content:**  Following termination or deactivation of your User account, ThoughtSpot may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes.  
+####  Controlling Your Personal Information
 
-**California Visitors to ThoughtSpot Web Sites:** Residents of the State of California may request a list of all third parties to which a ThoughtSpot Web Site has disclosed certain information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and want such a list, please contact us. For all requests, you must put the statement "Your California Privacy Rights" in the body of your request and include the name of the ThoughtSpot Web Site with respect to which you are requesting the information, as well as your name, street address, city, state, and zip code. Please note that we will not accept requests via the telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+Our marketing emails permit you to "opt-out" of or “unsubscribe” from receiving further marketing emails.  Certain jurisdictions, for example the European Economic Area, provide their residents certain privacy rights under applicable law, including the right to object to or restrict the processing of personal information, to transfer  personal information (data portability), or to request that we correct any inaccuracies or otherwise update your personal information.
 
-#### 5\. "Do Not Track" and Opting Out
+You may send us an e mail at [legal@thoughtspot.com](mailto:legal@thoughtspot.com?subject=ThoughtSpot%20Privacy%20Policy) to exercise your rights.  We will respond to such requests in accordance with the requirements of applicable data protection laws. Please note that in order to fulfil your request, we may need you to provide certain information to verify your identity.
 
-Although we do our best to honor the privacy preferences of our customers, we are not able to respond to Do-Not-Track signals from your browser at this time.  As discussed above, we track website usage information through the use of cookies for analytic and internal purposes only.  Because we do not collect this information to track you across websites over time, your selection of the “Do Not Track” option provided by your browser will not have any effect on our collection of cookie information for analytics or internal purposes. 
+These choices do not apply to service notifications or other required communications that are considered part of the Solutions, which you may receive periodically unless you stop using or cancel the Solution in accordance with its terms and conditions.  Moreover, certain personal information may be exempt from such requests in certain circumstances, which may include circumstances where we need to keep processing your personal information for our legitimate interests or to comply with a legal obligation.
 
-To opt out of cookies and other tracking tools, please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. To opt out of information collected by Google Analytics, see [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/) for the web. Information about opting out of Google's use of cookies is available by visiting Google's [Ads Settings](http://www.google.com/settings/ads). You can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). To opt out of DoubleClick's remarketing pixels and use of cookies, visit the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). You can opt out of being solicited by ThoughtSpot by email, by using the unsubscribe link in the bottom of emails you receive from us.
+####  Cookies and Web Beacons
 
-#### 6\. Children's Privacy
+Like many websites, ThoughtSpot uses automatic data collection tools, such as cookies, embedded web links, and web beacons.  “Cookies” are small text files that we and others may place in users' computer browsers to store their preferences. "Web beacons" or “pixel tags” are small pieces of code placed on a web page or within the body of an email to monitor the behavior and collect data about the users viewing a web page or viewing or opening an email.
 
-ThoughtSpot does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users.  The Web Sites and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.  If you believe that we might have any information from or about a child under 13, please contact us at [support@thoughtspot.com](mailto:support@thoughtspot.com).  
+While ThoughtSpot attempts to honor do not track (“DNT”) instructions we receive from a user’s browser, we cannot guarantee that ThoughtSpot will always respond to such signals, in part, because of the lack of common industry standard for DNT technology. We continue to monitor developments in DNT technology and stay apprised of DNT industry standards as they evolve.
 
-#### 7\. Links to Other Web Sites and Services
+For more information about the cookies and related technology we use on our Websites, please refer to our [Cookie Policy](https://web.archive.org/legal/cookie-policy).
 
-We are not responsible for the practices employed by websites or services linked to or from the Web Sites, including the information or content contained therein.  Please remember that when you use a link to go from the Web Sites to another website, our Privacy Policy does not apply to third-party websites or services.  Your browsing and interaction on any third-party website or service, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies.  In addition, you agree that we are not responsible for and we do not have any control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service (like Facebook) and you allow such a third-party access to your User Content you do so at your own risk.  This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Web Sites.  
+####  International Data Transfer
 
-#### 8\. How to Contact Us
+ThoughtSpot stores and processes any information collected in: (i) any country where we have facilities, (ii) any country in which we engage service providers; or (iii) any country where Events are held. A list of ThoughtSpot global offices is available [here](https://web.archive.org/contact).
 
-If you have any questions about this Privacy Policy or the Web Sites, please contact us at [support@thoughtspot.com](mailto:support@thoughtspot.com).
+If you are a user from the European Economic Area (" **EEA** "), we will protect your personal information when it is transferred outside of the EEA by:
 
-#### 9\. Changes to Our Privacy Policy
+  * Processing it in a territory which the European Commission has determined provides an adequate level of protection for personal information; or
+  * Otherwise implementing appropriate safeguards to protect your personal information, including through the use of Standard Contractual Clauses or another lawful transfer mechanism approved by the European Commission.
 
-ThoughtSpot may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically.  When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page.   
 
-_This privacy policy was last modified on October 16, 2014.  _
+
+If you require further information about our international transfers of personal information, please contact us using the contract details in the “How to Contact Us” section below.
+
+####  General
+
+**Linked Websites**
+
+We may provide links to other third-party websites and services that are outside our control and not covered by this Privacy Statement. We encourage you to review the privacy statements posted on those websites (and all websites) you visit.
+
+**Forums and Chat Rooms**
+
+We offer you the ability to post information and exchange ideas through our websites and other services such as ThoughtSpot Community.
+
+If you participate in the ThoughtSpot Community or other discussion forum or chat room on a ThoughtSpot Website, you should be aware that the information you provide there (i.e. your public profile) will be made broadly available to others, and could be used to contact you, send you unsolicited messages, or for purposes neither ThoughtSpot nor you have control over.  ThoughtSpot will not be responsible in the event that you disclose personal information in your posts, through our public services or during any other communication with other Website users.
+
+**Children's Privacy**
+
+ThoughtSpot does not knowingly collect personal information from children without appropriate parental or guardian consent. If you believe that we may have collected personal information from someone under the applicable age of consent in your country without proper consent, please let us know using the methods described in the How to Contact Us section and we will take appropriate measures to investigate and address the issue promptly.
+
+**Changes to this Privacy Statement**
+
+ThoughtSpot may modify or update this Privacy Statement from time to time to reflect the changes in our business and practices, and so you should review this page periodically.  When we change the Statement in a material manner we will let you know and update the ‘effective date’ at the top of this page. 
+
+**How to Contact Us**
+
+If you have any questions about this Privacy Statement or our privacy practices, please contact us at [legal@thoughtspot.com](mailto:legal@thoughtspot.com?subject=ThoughtSpot%20Privacy%20Policy).
+
+Or, you may write to us at:
+
+ThoughtSpot, Inc.
+
+Attn: General Counsel
+
+3000 El Camino Real, Building 1 Ste. 200
+
+Palo Alto, CA 94306
