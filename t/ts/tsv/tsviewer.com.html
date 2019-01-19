@@ -1,0 +1,183 @@
+<!--The following is the downloaded HTML source of the tsviewer.com privacy policy that was archived on 2019-01-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190119092817id_/https%3A//www.tsviewer.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<link href="https://static.tsviewer.com/css/design_20180513.css" rel="stylesheet" type="text/css" crossorigin="anonymous">
+<link href="https://static.tsviewer.com/flaticon/flaticon.css" rel="stylesheet" type="text/css" crossorigin="anonymous">
+<link href="https://static.tsviewer.com/css/isotip.css" rel="stylesheet" type="text/css" crossorigin="anonymous">
+<link href="https://static.tsviewer.com/fonts/roboto/stylesheet.css" rel="stylesheet" type="text/css" crossorigin="anonymous">
+<meta charset="utf-8">
+<meta name="description" content="How your data is being used">
+<meta name="keywords" content="tsviewer,teamspeak viewer,ts viewer,teamspeak 3,ts3,teamspeak server,clan,community,gaming">
+<meta name="google-site-verification" content="nGdfbThauwdhjn2YCO6mQum8PBbsPKxlB0cn6JFAjIU">
+<meta name="theme-color" content="#000000">
+<meta name="msapplication-navbutton-color" content="#000000">
+<meta name="apple-mobile-web-app-status-bar-style" content="#000000">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="mobile-web-app-capable" content="yes">
+<link href="https://static.tsviewer.com/css/page/privacy.css" rel="stylesheet" type="text/css" crossorigin="anonymous">
+<link rel="alternate" href="https://www.tsviewer.com/index.php?page=privacy&amp;newlanguage=de" hreflang="de">
+<link rel="alternate" href="https://www.tsviewer.com/index.php?page=privacy&amp;newlanguage=en" hreflang="en">
+<link rel="alternate" href="https://www.tsviewer.com/index.php?page=privacy" hreflang="x-default">
+<link rel="icon" href="https://static.tsviewer.com/images/app_logo_48.png" crossorigin="anonymous">
+<link rel="icon" sizes="256x256" href="https://static.tsviewer.com/images/app_logo_256.png" crossorigin="anonymous">
+<link rel="apple-touch-icon" href="https://static.tsviewer.com/images/app_logo_256.png" crossorigin="anonymous">
+<link type="application/opensearchdescription+xml" rel="search" href="https://static.tsviewer.com/opensearch.xml" crossorigin="anonymous">
+<script>
+        if(typeof WebApp != 'undefined')
+        {
+            WebApp.onHeadReady();
+        }
+        var TSV = TSV || {};
+        TSV.Inline =
+        {
+            executeArray: [],
+            isExecuted: false,
+            addExecute: function(method)
+            {
+                this.executeArray.push(method);
+                if(this.isExecuted)
+                {
+                    TSV.Executor.execute();
+                }
+            },
+            availableModules: [],
+            availableModulesNotified: false,
+            addAvailableModule: function(moduleName)
+            {
+                if(this.availableModules.indexOf(moduleName) == -1)
+                {
+                    this.availableModules.push(moduleName);
+                    if(this.availableModulesNotified)
+                    {
+                        TSV.Modules.notifyForModule(moduleName);
+                    }
+                }
+            }
+        };
+
+            </script>
+<script src="https://static.tsviewer.com/javascript/tsv.js" async="" onload="TSV.Index.watchDOMContentLoaded()"></script>
+<script src="https://static.tsviewer.com/javascript/isotip.js" async="" onload="isotip.init()"></script>
+<script src="https://static.tsviewer.com/javascript/velocity.min.js" async=""></script>
+<script src="https://static.tsviewer.com/javascript/cookieconsent2_1.0.9.min.js" async=""></script>
+<title>Privacy Policy - TSViewer.com [en]</title>
+</head>
+<body>
+<div id="overlay"></div>
+<header>
+<div id="headerWrapper">
+<button class="flaticon-icon-59165 smallIcon navToggle" onclick="TSV.Navigation.toggle()"></button>
+<a href="https://www.tsviewer.com/" id="logo"><i class="flaticon-headphones42"></i><span id="logoName">TSViewer</span><span id="logoTld">.com</span></a>
+<div id="language">
+<a href="index.php?page=privacy&amp;newlanguage=de" title="Deutsch"><img src="https://static.tsviewer.com/images/flags/de.gif"></a><a href="index.php?page=privacy&amp;newlanguage=en" title="English"><img src="https://static.tsviewer.com/images/flags/uk.gif" class="active"></a>
+</div>
+<a id="mobileSearchIcon" class="flaticon-search" href="index.php?page=search"></a>
+<div id="server-search">
+<label class="hoverWithLabel" data-label-normal="" data-label-hover="online" data-value-normal="10.330" data-value-hover="10.130"><i class="flaticon-database21" title="server"></i></label>
+<input id="headerServerSearchInput" onkeydown="if (event.keyCode == 13) { TSV.Index.searchExecute(this); return false; }" oninput="TSV.Index.searchOnInput(this)" placeholder="search ..." class="headerInput tooltip-hover" data-tooltip-content="Server Search<br>You can enter a name, homepage, IP:port, etc." type="text">
+<button class="flaticon-enter5 smallIcon" onclick="TSV.Index.searchExecute(this)"></button>
+</div>
+<div id="user-search">
+<label class="hoverWithLabel" data-label-normal="" data-label-hover="online" data-value-normal="486.900" data-value-hover="23.480"><i class="flaticon-social-network15" title="user"></i></label>
+<input id="headerUserSearchInput" onkeydown="if (event.keyCode == 13) { TSV.Index.searchExecute(this); return false; }" oninput="TSV.Index.searchOnInput(this)" placeholder="search ..." class="headerInput tooltip-hover" data-tooltip-content="User Search<br>You can either enter a nickname or an Unique Identifier." type="text">
+<button class="flaticon-enter5 smallIcon" onclick="TSV.Index.searchExecute(this)"></button>
+</div>
+<div id="headerG2a">
+<a id="g2a" href="g2a.php?coupon" rel="nofollow"><img src="https://static.tsviewer.com/images/g2a.png"></a>
+<div class="coupon">
+<div class="title">
+<div class="percentage">3% off</div>
+<div class="code">code</div>
+</div>
+<a class="code button green" href="g2a.php?coupon" rel="nofollow">TSV</a>
+</div>
+</div>
+</div>
+</header>
+<div id="hintArea">
+<div id="hintAreaContainer">
+<div id="hintAreaClose" onclick="TSV.Index.Hint.toggle(false)">X</div>
+<div id="hintAreaContent"></div>
+</div>
+</div>
+<div id="contentWrapper">
+<nav>
+<a href="index.php?page=serverreg" class="button flaticon-add182 smallIcon withIconAndText tooltip-hover orange" id="nav_serverreg" data-tooltip-content="Here you can register your TS3 with TSViewer.com" data-tooltip-placement="bottom">add your Server</a>
+<div class="section withUsersOnline">
+<p>Favorites &amp; Buddies</p>
+<div class="links">
+<a href="index.php?page=favorites" class="flaticon-chevron18 exception">Your Server Favorites</a>
+<a href="index.php?page=buddies" class="flaticon-chevron18">Your Buddies<div class=""></div></a>
+</div>
+</div>
+<div class="section"><p>TeamSpeak 3 Server List</p><div class="links"><a href="index.php?page=list&amp;listtype=all" class="flaticon-chevron18 ">full List</a><a href="index.php?page=list&amp;category=138" class="flaticon-chevron18 tooltip-hover " data-tooltip-content="On this servers you can create own channels.">public Server</a><a href="index.php?page=lists_categories" class="flaticon-chevron18 ">by Categories</a><a href="index.php?page=lists_countries" class="flaticon-chevron18 ">by Countries</a></div><a href="index.php?page=search" class="button">search Server</a></div>
+<div class="section">
+<p>TS3 Top Categories</p>
+<div class="links"><a href="index.php?page=list&amp;category=3"><img src="https://static.tsviewer.com/images/games/arma.gif" class="category">ArmA Series</a><a href="index.php?page=list&amp;category=120"><img src="https://static.tsviewer.com/images/games/csgo.gif" class="category">Counter-Strike: GO</a><a href="index.php?page=list&amp;category=91"><img src="https://static.tsviewer.com/images/games/lol.gif" class="category">League of Legends</a><a href="index.php?page=list&amp;category=97"><img src="https://static.tsviewer.com/images/games/mc.gif" class="category">Minecraft</a><a href="index.php?page=list&amp;category=48"><img src="https://static.tsviewer.com/images/games/wow.gif" class="category">World of Warcraft</a>
+</div>
+<a href="index.php?page=lists_categories" class="button">display all</a>
+</div>
+<div class="section">
+<p>TS3 Top Countries</p>
+<div class="links"><a href="index.php?page=list&amp;listtype=country&amp;country=de"><img src="https://static.tsviewer.com/images/flags/de.gif" class="flag">Germany</a><a href="index.php?page=list&amp;listtype=country&amp;country=fr"><img src="https://static.tsviewer.com/images/flags/fr.gif" class="flag">France</a><a href="index.php?page=list&amp;listtype=country&amp;country=pl"><img src="https://static.tsviewer.com/images/flags/pl.gif" class="flag">Poland</a><a href="index.php?page=list&amp;listtype=country&amp;country=uk"><img src="https://static.tsviewer.com/images/flags/uk.gif" class="flag">United Kingdom</a><a href="index.php?page=list&amp;listtype=country&amp;country=us"><img src="https://static.tsviewer.com/images/flags/us.gif" class="flag">United States</a>
+</div>
+<a href="index.php?page=lists_countries" class="button">display all</a>
+</div>
+<div class="section"><p>Dynamic Banners</p><div class="links"><a href="index.php?page=dynamic_sigs" class="flaticon-chevron18 ">Server Banners</a><a href="index.php?page=userbanners" class="flaticon-chevron18 ">User Banners</a></div></div><div class="section"><p>Help ?</p><div class="links"><a href="index.php?page=faq" class="flaticon-chevron18 tooltip-hover " data-tooltip-content="Frequently asked questions ">F.A.Q.</a><a href="index.php?page=feedback" class="flaticon-chevron18 ">Contact/Legal Notice</a><a href="index.php?page=serverblacklist" class="flaticon-chevron18 ">TS3 Server Blacklist</a></div></div><div class="section"><p>Info</p><div class="links"><a href="index.php?page=news" class="flaticon-chevron18 ">News</a><a href="index.php?page=about" class="flaticon-chevron18 ">About TSViewer.com</a><a href="index.php?page=comments&amp;section=gb&amp;id=1" class="flaticon-chevron18 ">Guestbook</a><a href="index.php?page=teamspeak_statistics" class="flaticon-chevron18 ">TeamSpeak 3 Statistics</a></div></div>
+
+<a href="https://play.google.com/store/apps/details?id=com.tsviewer.webapp" class="play_store_badge"><img src="https://static.tsviewer.com/images/play_store_badge.png"></a>
+<a href="http://www.planetteamspeak.com" target="_blank" id="navPts" rel="noopener">Supported by</a>
+</nav><main>
+<div class="innerWrapper">
+<div class="cont_head"><h1>Privacy Policy</h1> <div class="subHeading">How your data is being used</div></div><div class="cont_separator"></div><div class="cont_content "><div class="contentImage"><img src="https://static.tsviewer.com/images/content/locks.freeimages.com.marc.and.cristina.palmer.and.burke.jpg"><small>FreeImages.com/Marc and Cristina Palmer and Burke</small></div>
+<h2>1. An overview of data protection</h2>
+<h3>General</h3> <p>The following gives a simple overview of what happens to your personal information when you visit our website. Personal information is any data with which you could be personally identified. Detailed information on the subject of data protection can be found in our privacy policy found below.</p>
+<h3>Data collection on our website</h3> <p><strong>Who is responsible for the data collection on this website?</strong></p> <p>The data collected on this website are processed by the website operator. The operator's contact details can be found in the website's required legal notice.</p> <p><strong>How do we collect your data?</strong></p> <p>Some data are collected when you provide it to us. This could, for example, be data you enter on a form.</p> <p>Other data are collected automatically by our IT systems when you visit the website. These data are primarily technical data such as the browser and operating system you are using or when you accessed the page. These data are collected automatically as soon as you enter our website.</p> <p><strong>What do we use your data for?</strong></p> <p>Part of the data is collected to ensure the proper functioning of the website. Other data can be used to analyze how visitors use the site.</p> <p><strong>What rights do you have regarding your data?</strong></p> <p>You always have the right to request information about your stored data, its origin, its recipients, and the purpose of its collection at no charge. You also have the right to request that it be corrected, blocked, or deleted. You can contact us at any time using the address given in the legal notice if you have further questions about the issue of privacy and data protection. You may also, of course, file a complaint with the competent regulatory authorities.</p>
+<h3>Analytics and third-party tools</h3> <p>When visiting our website, statistical analyses may be made of your surfing behavior. This happens primarily using cookies and analytics. The analysis of your surfing behavior is usually anonymous, i.e. we will not be able to identify you from this data. You can object to this analysis or prevent it by not using certain tools. Detailed information can be found in the following privacy policy.</p> <p>You can object to this analysis. We will inform you below about how to exercise your options in this regard.</p>
+<h2>2. General information and mandatory information</h2>
+<h3>Notice concerning the party responsible for this website</h3> <p>The party responsible for processing data on this website is:</p> <p> Mariusz Bieniek<br>
+Jakobstr. 2<br>
+38100 Braunschweig<br>
+Germany</p>
+<p>Telephone: +49-531-2086271<br>
+Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8fe6e1e9e0cffbfcf9e6eaf8eafda1ece0e2">[email&nbsp;protected]</a></p>
+<p>The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (names, email addresses, etc.).</p>
+<h3>Revocation of your consent to the processing of your data</h3> <p>Many data processing operations are only possible with your express consent. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.</p>
+<h3>Right to file complaints with regulatory authorities</h3> <p>If there has been a breach of data protection legislation, the person affected may file a complaint with the competent regulatory authorities. The competent regulatory authority for matters related to data protection legislation is the data protection officer of the German state in which our company is headquartered. A list of data protection officers and their contact details can be found at the following link: <a href="https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html" target="_blank">https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html</a>.</p>
+<h3>Right to data portability</h3> <p>You have the right to have data which we process based on your consent or in fulfillment of a contract automatically delivered to yourself or to a third party in a standard, machine-readable format. If you require the direct transfer of data to another responsible party, this will only be done to the extent technically feasible.</p>
+<h3>SSL or TLS encryption</h3> <p>This site uses SSL or TLS encryption for security reasons and for the protection of the transmission of confidential content, such as the inquiries you send to us as the site operator. You can recognize an encrypted connection in your browser's address line when it changes from "http://" to "https://" and the lock icon is displayed in your browser's address bar.</p> <p>If SSL or TLS encryption is activated, the data you transfer to us cannot be read by third parties.</p>
+<h3>Information, blocking, deletion</h3> <p>As permitted by law, you have the right to be provided at any time with information free of charge about any of your personal data that is stored as well as its origin, the recipient and the purpose for which it has been processed. You also have the right to have this data corrected, blocked or deleted. You can contact us at any time using the address given in our legal notice if you have further questions on the topic of personal data.</p>
+<h2>3. Data collection on our website</h2>
+<h3>Cookies</h3> <p>Some of our web pages use cookies. Cookies do not harm your computer and do not contain any viruses. Cookies help make our website more user-friendly, efficient, and secure. Cookies are small text files that are stored on your computer and saved by your browser.</p> <p>Most of the cookies we use are so-called "session cookies." They are automatically deleted after your visit. Other cookies remain in your device's memory until you delete them. These cookies make it possible to recognize your browser when you next visit the site.</p> <p>You can configure your browser to inform you about the use of cookies so that you can decide on a case-by-case basis whether to accept or reject a cookie. Alternatively, your browser can be configured to automatically accept cookies under certain conditions or to always reject them, or to automatically delete cookies when closing your browser. Disabling cookies may limit the functionality of this website.</p> <p>Cookies which are necessary to allow electronic communications or to provide certain functions you wish to use (such as the TSViewer) are stored pursuant to Art. 6 paragraph 1, letter f of DSGVO. The website operator has a legitimate interest in the storage of cookies to ensure an optimized service provided free of technical errors. If other cookies (such as those used to analyze your surfing behavior) are also stored, they will be treated separately in this privacy policy and our <a href="index.php?page=cookies">cookie policy</a>.</p>
+<h3>Server log files</h3> <p>The website provider automatically collects and stores information that your browser automatically transmits to us in "server log files". These are:</p> <ul> <li>Browser type and browser version</li> <li>Operating system used</li> <li>Referrer URL</li> <li>Host name of the accessing computer</li> <li>Time of the server request</li> <li>IP address</li> </ul> <p>These data will not be combined with data from other sources.</p> <p>The basis for data processing is Art. 6 (1) (f) DSGVO. The website operator has a legitimate interest in detecting and preventing fraud and unauthorized system access, and ensuring the security of the system.</p>
+<h3>Registration of TeamSpeak 3 servers on this website</h3>
+<p>You can register your TeamSpeak 3 servers on our website in order to allow additional functions offered here. We only use the input data entered for the purpose of offering this service.</p>
+<p>TSViewer.com is a server list for TeamSpeak 3 servers. All visible information is queried and evaluated via the TCP Query interface of the TeamSpeak 3 server. Of course, we can only evaluate the data that any visitor on the TeamSpeak 3 server can also see. The owner of the TeamSpeak 3 server decides for himself whether he makes this information available to the public. If we have the opportunity, it is also possible for third parties to query this data directly from the TeamSpeak 3 server. In the standard installation of a TeamSpeak 3 server, the necessary rights are not granted.</p>
+<p>IP addresses or other personal data (address, phone number, bank details, etc.) of the users are not transmitted to us.</p>
+<p>The registrant / owner of the TeamSpeak 3 server can remove the registration and all associated information from the server list at any time. Upon deletion, all data will be permanently removed.</p>
+<p>To inform you about important changes such as those within the scope of our site or technical changes, we will use the email address specified during registration.</p> <p>We will process the data provided during registration only based on your consent per Art. 6 (1)(a) DSGVO. You may revoke your consent at any time with future effect. An informal email making this request is sufficient, alternatively you can delete the server yourself, as mentioned before. The data processed before we receive your request may still be legally processed.</p> <p>We will continue to store the data collected during registration for as long as the server remains registered on our website. Statutory retention periods remain unaffected.</p>
+<h3>Leaving comments on this website</h3> <p>If you use the comment function on this site, the time at which you created the comment will be stored along with your comment, as well as your username, unless you are posting anonymously.</p>
+<p><strong>Storage of the IP address</strong></p> <p>Our comment function stores the IP addresses of those users who post comments. Since we do not check comments on our site before they go live, we need this information to be able to pursue action for illegal or slanderous content.</p>
+<p><strong>How long comments are stored</strong></p> <p>The comments and the associated data (e.g. IP address) are stored and remain on our website until the content commented upon has been completely deleted or the comments are required to be removed for legal reasons (slander, etc.).</p>
+<p><strong>Legal basis</strong></p> <p>The comments are stored based on your consent per Art. 6 (1) (a) DSGVO. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.</p>
+<h2>4. Analytics, site access acceleration and advertising</h2>
+<h3>Google Analytics</h3> <p>This website uses Google Analytics, a web analytics service. It is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.</p> <p>Google Analytics uses so-called "cookies". These are text files that are stored on your computer and that allow an analysis of the use of the website by you. The information generated by the cookie about your use of this website is usually transmitted to a Google server in the USA and stored there.</p> <p>Google Analytics cookies are stored based on Art. 6 (1) (f) DSGVO. The website operator has a legitimate interest in analyzing user behavior to optimize both its website and its advertising.</p> <p><strong>IP anonymization</strong></p> <p>We have activated the IP anonymization feature on this website. Your IP address will be shortened by Google within the European Union or other parties to the Agreement on the European Economic Area prior to transmission to the United States. Only in exceptional cases is the full IP address sent to a Google server in the US and shortened there. Google will use this information on behalf of the operator of this website to evaluate your use of the website, to compile reports on website activity, and to provide other services regarding website activity and Internet usage for the website operator. The IP address transmitted by your browser as part of Google Analytics will not be merged with any other data held by Google.</p>
+<p><strong>Browser plugin</strong></p> <p>You can prevent these cookies being stored by selecting the appropriate settings in your browser. However, we wish to point out that doing so may mean you will not be able to enjoy the full functionality of this website. You can also prevent the data generated by cookies about your use of the website (incl. your IP address) from being passed to Google, and the processing of these data by Google, by downloading and installing the browser plugin available at the following link: <a href="https://tools.google.com/dlpage/gaoptout?hl=en" target="_blank">https://tools.google.com/dlpage/gaoptout?hl=en</a>.</p> <p><strong>Objecting to the collection of data</strong></p> <p>You can prevent the collection of your data by Google Analytics by clicking on the following link. An opt-out cookie will be set to prevent your data from being collected on future visits to this site: <button onclick="TSV.Analytics.optout()">Disable Google Analytics</button></p> <p>For more information about how Google Analytics handles user data, see Google's privacy policy: <a href="https://support.google.com/analytics/answer/6004245?hl=en" target="_blank">https://support.google.com/analytics/answer/6004245?hl=en</a>.</p><p><strong>Outsourced data processing</strong></p> <p>We have entered into an agreement with Google for the outsourcing of our data processing and fully implement the strict requirements of the German data protection authorities when using Google Analytics.</p>
+<h3>Google AdSense</h3> <p>This website uses Google AdSense, a service for including advertisements from Google Inc. ("Google"). It is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.</p> <p>Google AdSense uses so-called "cookies", which are text files stored in your computer that enable an analysis of the way you use the website. Google AdSense also uses so-called web beacons (invisible graphics). Through these web beacons, information such as the visitor traffic on these pages can be evaluated.</p> <p>The information generated by cookies and web beacons relating to your use of this website (including your IP address), and delivery of advertising formats, is transmitted to a Google server in the US and stored there. This information can be passed on from Google to contracting parties of Google. However, Google will not merge your IP address with other data you have stored.</p> <p>AdSense cookies are stored based on Art. 6 (1) (f) DSGVO. The website operator has a legitimate interest in analyzing user behavior to optimize both its website and its advertising.</p> <p>You can prevent the installation of cookies by setting your browser software accordingly. Please be aware that in this case, you may not be able to make full use of all the features of this website. By using this website, you agree to the processing of data relating to you and collected by Google as described and for the purposes set out above.</p>
+<h3>Google reCAPTCHA</h3> <p>We use "Google reCAPTCHA" (hereinafter "reCAPTCHA") on our websites. This service is provided by Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043, USA ("Google").</p> <p>reCAPTCHA is used to check whether the data entered on our website (such as on a comment form) has been entered by a human or by an automated program. To do this, reCAPTCHA analyzes the behavior of the website visitor based on various characteristics. This analysis starts automatically as soon as the website visitor enters the website. For the analysis, reCAPTCHA evaluates various information (e.g. IP address, how long the visitor has been on the website, or mouse movements made by the user). The data collected during the analysis will be forwarded to Google.</p> <p>The reCAPTCHA analyses take place completely in the background. Website visitors are not advised that such an analysis is taking place.</p> <p>Data processing is based on Art. 6 (1) (f) DSGVO. The website operator has a legitimate interest in protecting its site from abusive automated crawling and spam.</p> <p>For more information about Google reCAPTCHA and Google's privacy policy, please visit the following links: <a href="https://www.google.com/intl/de/policies/privacy/" target="_blank">https://www.google.com/intl/de/policies/privacy/</a> and <a href="https://www.google.com/recaptcha/intro/android.html" target="_blank">https://www.google.com/recaptcha/intro/android.html</a>.</p>
+<h3>CloudFlare.com</h3><p>This website can be provided by the technology partner CloudFlare Inc., based in the USA. All data that gets transmitted to and from this website passes the global network of CloudFlare. The static data is cached and all access is logged. Here, the closest data center is used regularly. CloudFlare also operates data centers within the European Union. For more information check out the privacy policy of CloudFlare <a href="https://www.cloudflare.com/security-policy">here</a>.</p>
+<h2>Children</h2><p>The Site is not for use by children under the age of 16 years and we do not knowingly collect, store, share or use the personal data of children under 16 years. If you are under the age of 16 years, please do not provide any personal data, even if prompted by the Site to do so. If you are under the age of 16 years and you have provided personal data, please ask your parent(s) or guardian(s) to notify us and we will delete all such personal data.</p></div>
+</div>
+</main>
+</div>
+
+<footer>
+<a href="index.php?page=feedback">Contact/Legal Notice</a>
+<a href="index.php?page=privacy">Privacy Policy</a>
+<a href="index.php?page=cookies">Cookie policy</a>
+</footer>
+<ins id="server-data" data-execution-time="0.005" data-index-url-page="https://www.tsviewer.com/" data-index-url-static="https://static.tsviewer.com/" data-index-url-user-banner="https://userb.tsviewer.com/" data-index-cookie-consent-message="We use cookies to personalise content/ads and to analyse our traffic. We also share information about your use of our site with our advertising and analytics partners." data-index-cookie-expire-days="713" data-buddies-cookie-name="tsv_buddies_new" data-favorites-cookie-name="tsviewer_favs" data-ads-div-id="ODYzNA" data-ads-adblock-hint-title="You support my cost-free site by disabling your AdBlocker." data-ads-adblock-hint-message="I deploy advertising gently and that does finance the continuous developement, deployment and support."></ins>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+
+</body></html>
