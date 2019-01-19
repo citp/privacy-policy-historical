@@ -1,92 +1,227 @@
-> *The following text is extracted and transformed from the ego.co.uk privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315051653id_/https%3A//ego.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ego.co.uk privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119080931id_/https%3A//ego.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Protecting Your Privacy | EGO
 
-This privacy policy sets out how Ego uses and protects any information that you give Ego when you use this website. Ego is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Ego may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+## Protecting Your Privacy
 
-## What we collect
+At EGO, we are 100% committed to protecting the privacy and security of our customers and site visitors. The EGO team members are customers themselves, of both EGO and other internet sites – so we totally appreciate and respect how important privacy is. If you have any questions about how we Protect Your Privacy, drop us a line at **help@ego.co.uk**
 
-We may collect the following information:
+For all our services, the data controller - the company that’s responsible for your privacy - is EGO Shoes Ltd.
 
-  * name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+## How we use your information
 
+We use your information in a number of different ways - what we do depends on the information. The sections below set this out in detail, showing what we do, and why we do it.
 
+## Your name and contact details
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section.
+For customers and all others who have [consented for us to hold your information](https://web.archive.org/gdpr-form) this is how we use your name and contact details.
 
-## What we do with the information we gather
+Deliver your purchases to you - we’ve got to do this to perform our contract with you (it’s a bit hard to send your order if we don’t use your name and contact details!).
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+Send you service messages by text or email such as order updates - we’ve got to do this to perform our contract with you (so you can tell when your order is coming).
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+Sending you information by email, SMS, or post, about our new products and services - to keep you up to date.
 
+Fraud prevention and detection - To prevent and detect fraud against either you or EGO - unfortunate, but absolutely essential.
 
+Showing you EGO adverts as your browse the web - So you can see our latest products and deals.
 
-## Security
+Finding out what you, and other customers, like - To ensure we are giving you what you want, and to stay ahead of the competition.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+## Your date of birth information
 
-## How we use cookies
+### How we use your date of birth
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+Send you information by email, SMS, or post on your birthday - to give you a birthday treat.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+## Your gender information
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+### How we use your gender information
 
-## Links to other websites
+To direct you to the right part of our website - to get you to the products that you want faster.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+## Your payment information
 
-## Controlling your personal information
+This means your card’s security/CVV code, don’t worry, we don’t keep these details ourselves, we use a trusted and secure payment processor.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+### How we use your payment information
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at mail@ego.co.uk
+We use this to take payment, and give refunds - we’ve got to do this to perform our contract with you - we’re not giving all our stuff away!
 
+Fraud prevention and detection - to prevent and detect fraud against either you or EGO - unfortunate, but absolutely essential.
 
+## Your contact history with us
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+What you’ve said to us - for example, over the phone, on instant chat, or on social media.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Unit 4, Longford Trading Estate, Thomas Street, Stretford, Manchester, M32, 0JT.
+### How we use your contact history
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+Provide customer service and support - we’ve got to do this to perform our contract with you, after all, you expect the best service from us.
 
-## List of cookies we collect
+Train our staff - so that, when you contact us, you get the best possible customer service.
 
-The table below lists the cookies we collect and what information they store.
+## Purchase history and saved items
 
-COOKIE name| COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+What you’ve bought and what you’ve stored in your basket for another time.
+
+### How we use your purchase history and saved items
+
+To sell you things - we’ve got to do this to perform our contract with you - if you can’t put stuff into a basket, you can’t buy it!
+
+Provide customer service and support, and handle returns - we’ve got to do this to perform our contract with you.
+
+Finding out what you, and other customers, like - to ensure we are giving you what you want, and to stay ahead of the competition.
+
+To send you information and offers from time to time that you may well be interested in.
+
+## Information about your phone or laptop, and how you use our website
+
+Information you give us when you browse our site, including your IP address and device type and, if you choose to share it with us, your location data, as well as how you use our website and app.
+
+### How we use information about your phone or laptop, and how you use our website
+
+Improve our website and set default options for you (such as language and currency) - to give you the best possible shopping experience.
+
+Protect our website - to prevent and detect fraud against either you or EGO – unfortunate, but absolutely essential - and to meet our legal obligations about looking after your data.
+
+## Your responses to surveys, competitions and promotions
+
+### How we use your responses to surveys, competitions and promotions
+
+We use your responses to run the survey, competition or promotion - we’ve got to do this to perform our contract with you - if we can’t use your entry, you can’t possibly win!
+
+You don’t have to give us any of this personal information but if you don’t, you may not be able to buy from the site, and you are unlikely to receive our optimal overall customer experience. But that is your choice - and we respect that.
+
+We also anonymise and aggregate personal information (so that it does not identify you) and use it for purposes including testing our IT systems, research, data analysis, improving our site and app, and developing new products and services. We occasionally use external analytical Companies to analyse this information for us.
+
+## Sharing your information
+
+We do not, and will not, sell any of your personal data to any third party - including your name, address, email address or credit card information. We want to earn and maintain your trust, and we believe this is absolutely essential in order do that.
+
+However, we share your data with the following categories of Companies as an essential part of being able to provide our services to you. These Companies are data processors who will only use your data as instructed by the data controller - EGO. When they no longer need your data to undertake the immediate tasks we have asked them to undertake, your details will be deleted by them. The statement below states how your data is shared:
+
+Companies that do things to get your purchases to you, such as payment service providers, warehouses, order packers, and delivery Companies.
+
+Professional service providers, such as marketing agencies, advertising partners and website hosts who help us to run our business.
+
+Credit reference agencies, law enforcement and fraud prevention agencies, so we can help tackle fraud.
+
+Companies approved by you where you choose to use their payment service.
+
+We may provide data analytic Companies with aggregated but anonymised information and analytics about our customers and, before we do so, we will make sure that it does not identify you.
+
+## Marketing messages
+
+As a customer of EGO or someone else who has consented receive them, we may send you from time to time marketing messages by email, SMS or post, to keep you aware of what we’re up to and to help you see and find our products.
+
+### How to stop marketing messages from EGO
+
+You can stop receiving marketing messages from us at any time.
+
+### You can do this:
+
+By clicking on the ‘unsubscribe’ link in any email.
+
+By replying to the SMS and following the instructions stated.
+
+By writing to the address listed below.
+
+EGO Shoes Ltd  
+Unit E4  
+Longford Trading Estate  
+Stretford  
+Manchester  
+M32 0JT  
+UK
+
+By contacting our Customer Care team at **help@ego.co.uk**.
+
+Once you do this, we will update your profile to ensure that you don’t receive further marketing messages.
+
+Please note that, as EGO comprises a complex web of many inter-connecting services, it might take a few days for all our systems to be updated, so you might get messages from us while we process your request.
+
+Stopping marketing messages will not stop service communications such as order updates.
+
+## Seeing adverts for EGO online
+
+We also engage in online advertising, also to keep you aware of what we’re up to and to help you see and find our products.
+
+Like many Companies, we target EGO banners and ads to you when you are on other websites and apps. We do this using a variety of digital marketing networks and ad exchanges, and we use a range of advertising technologies like web beacons, pixels, ad tags, cookies, and mobile identifiers, as well as specific services offered by some sites and social networks, such as Facebook’s Custom Audience service.
+
+The banners and ads you see will be based on information we hold about you, or your previous use of EGO (for example, your EGO search history, and the content you read on EGO) or on EGO banners or ads you have previously clicked on.
+
+## Your information and countries outside Europe
+
+We protect your privacy and your rights through the use of the European Commission’s standard data protection clauses.
+
+## Keeping your information
+
+We’ll hold on to your information for as long as you have your account, or as long as is needed to be able to provide the services to you, or (in the case of any contact you may have with our Customer Care team) for as long as is necessary to provide support-related marketing and trend analysis only – this will be no longer than 2 years after your last purchased date.
+
+If required to meet legal or regulatory requirements, resolve disputes, prevent fraud and abuse, or enforce our terms and conditions, we may also keep hold of some of your information as required, even after you have closed your account or it is no longer needed to provide the services to you.
+
+## Your rights
+
+You have a lot of rights relating to your personal information:
+
+The right to be informed about how your personal information is being used
+
+The right to access the personal information we hold about you
+
+The right to request the correction of inaccurate personal information we hold about you (although you can probably do most of this through My Account
+
+The right to request that we delete your data, or stop processing it or collecting it, in some circumstances
+
+The right to stop direct marketing messages and to withdraw consent for other consent-based processing at any time
+
+The right to request that we transfer or port elements of your data either to you or another service provider
+
+The right to complain to your data protection regulator - in the UK, the Information Commissioner’s Office
+
+If you want to exercise your rights, have a complaint, or just have questions, please contact us at **help@ego.co.uk** or pop your request **[here](https://ego.co.uk/gdpr-form/)**.
+
+## Changes to how we protect your privacy
+
+We may change this page from time to time, to reflect how we are processing your data.
+
+If we make significant changes, we will make that clear on the EGO website or by some other means of contact such as email, so that you are able to review the changes before you continue to use EGO.
+
+## Cookies
+
+### What about cookies?
+
+We use cookies when you visit our site. There are four main types of cookies – here’s how and why we use them.
+
+1\. Site functionality cookies - these cookies allow you to navigate the site and use our features, such as “Add to Bag” and “Save for Later”.
+
+2\. Site analytics cookies - these cookies allow us to measure and analyse how our customers use the site, to improve both its functionality and your shopping experience.
+
+3\. Customer preference cookies - when you are browsing or shopping on EGO, these cookies will remember your preferences (like your language or location), so we can make your shopping experience as seamless as possible, and more personal to you.
+
+4\. Targeting or advertising cookies - these cookies are used to deliver ads relevant to you. They also limit the number of times that you see an ad and help us measure the effectiveness of our marketing campaigns.
+
+By using our site, you agree to us placing these sorts of cookies on your device and accessing them when you visit the site in the future. If you want to delete any cookies that are already on your computer, the “help” section in your browser should provide instructions on how to locate the file or directory that stores cookies. Further information about cookies can be found **[here](https://ico.org.uk/for-organisations/guide-to-pecr/cookies-and-similar-technologies/)** . Please note that by deleting or disabling future cookies, your user experience may be affected and you might not be able to take advantage of certain functions of our site, and the complete EGO user experience that we pride ourselves on providing our customers.”
+
+## How to contact us
+
+We always want to hear from our customers (especially if you feel we’ve let you down or could do better).
+
+### If you:
+
+Have any questions or feedback about this notice
+
+Would like us to stop using your information
+
+Want to exercise any of your rights as set out above, or have a complaint
+
+Please don’t hesitate to contact our Customer Care team, who will be happy to answer any questions you may have.
+
+You can contact our privacy team by dropping us a line at **help@ego.co.uk**. Or if you’d like to, you can write to us at:
+
+EGO Shoes Ltd  
+Unit A1  
+Longford Trading Estate  
+Stretford  
+Manchester  
+M32 0JT  
+UK
