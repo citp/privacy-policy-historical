@@ -1,60 +1,65 @@
-> *The following text is extracted and transformed from the mahealthconnector.org privacy policy that was archived on 2017-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170821105634id_/https%3A//www.mahealthconnector.org/site-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mahealthconnector.org privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119233037id_/https%3A//www.mahealthconnector.org/site-policies/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy and Notice of Privacy Practices – Massachusetts Health Connector
 
-#### _Last modified May 15, 2015_
+#### _Last modified April 11, 2018_
 
 Welcome to the Massachusetts Health Connector website. Your privacy is one of our top priorities. The following policy applies only to the use of this website. As you navigate this website, you may see links that will take you to websites external to the Massachusetts Health Connector. We strongly suggest that you read the privacy policies for each website that you visit, and any external site that you visit through a link appearing at this site.
 
-**Contents:**
+## Contents:
 
   * A Privacy Partnership
   * Personally Identifiable Information
+  * IRS Authorization
   * Information Voluntarily Provided by You
   * Survey and E-mail
   * Information Automatically Collected and Stored by this Site
 
 
 
-## A Privacy Partnership
+### A Privacy Partnership
 
 Your privacy with respect to the use of this site results from a partnership between the Massachusetts Health Connector and you, the user. At this website, we attempt to protect your privacy to the maximum extent possible. However, because some of the information that we receive through this website is subject to the [Public Records Law, Massachusetts General Laws Chapter 66, Section 10](http://www.mass.gov/legis/laws/mgl/66-10.htm), and other federal laws we cannot ensure absolute privacy. Information that you provide to us through this site may be made available to members of the public under that law. This page informs you of the information that we collect from you at this site, what we do with it, to whom it may be disseminated, and how you can access it. Based on this information, you can make an informed decision about your use of this site. You can maximize the benefits of your privacy partnership with the Commonwealth by making informed decisions about whether to share personally identifiable information with us through this site. Please review the information on this page about how the Health Connector collects your personal information, and please review the Health Connector’s Notice of Privacy Practices, which describes how we use and disclose that information.
 
-## Personally Identifiable Information (PII)
+### Personally Identifiable Information (PII)
 
 We use the term “personally identifiable information” to mean any information that could reasonably be used to identify you, including your name, address, telephone number, e-mail address, Social Security number, birth date, bank account information, credit card information, or any combination of information that could be used to identify you.
 
-## Information Voluntarily Provided by You
+### IRS Authorization
+
+By requesting financial assistance to help pay for health insurance—such as Advance Premium Tax Credits (APTC), ConnectorCare, or MassHealth—you have authorized the Health Connector to use tax return information from the Internal Revenue Service (IRS) to determine your eligibility for financial assistance in future years. If you do not want the Health Connector to use your tax return information to complete your eligibility determinations in future years, you can cancel that authorization at any time. However, doing so will mean that you and the people on your application will not be eligible for financial assistance and will have to pay full price for any insurance you receive through the Health Connector. [Click here to learn more and to request cancellation of IRS authorization](https://web.archive.org/wp-content/uploads/IRS-Authorization-Revocation-Request-Form.pdf).
+
+### Information Voluntarily Provided by You
 
 This site collects voluntary information from you through surveys and e-mails.
 
-## Survey and E-mail
+### Survey and E-mail
 
 This site collects voluntary information from you through surveys posted at this website and through any e-mail messages you choose to send to the Massachusetts Health Connector. Surveys may collect personally identifiable information you voluntarily submit, such as name, e-mail address or phone number, so that we may contact you for follow-up to your question, concern or recommendation. Any e-mail messages sent by you to this site will contain personally identifiable information such as your e-mail address and any other information you choose to give us to help us answer your inquiry.
 
-## Information Automatically Collected and Stored by this Site
+### Information Automatically Collected and Stored by this Site
 
 This website does not use permanent “cookies”. However, the site uses temporary “session cookies” to allow visitors to interact with the Massachusetts Health Connector and to use online applications. “Session cookies” do not allow us to personally identify a visitor. These cookies are stored only in memory and are deleted when the user’s browser is shut down.
 
 This site does collect and store your “Internet Protocol (“IP”) address,” (which does not identify you as an individual) indefinitely, as well as information about the date and time of your visit, whether a file you have requested exists, and how many “bytes” of information were transmitted to you over the Web from this site. We use your IP address to access the frequency of visits to this site and the popularity of its various pages and functions. We will not attempt to match any personally identifiable information that you provide to us with your IP address, unless there are reasonable grounds to believe that doing so would provide information that is relevant and material to a criminal investigation.
 
-## Public Records Law and the Dissemination of Your Personally Identifiable Information
+### Public Records Law and the Dissemination of Your Personally Identifiable Information
 
 We do not sell any personally identifiable information collected through this website or submitted to the Commonwealth in conjunction with using functions on the website, and there is no direct or online public access to the information. However, once you voluntarily submit personally identifiable information to us related to your use of the Portal, its dissemination is governed by the [“Public Records Law](http://www.mass.gov/legis/laws/mgl/66-10.htm),” the [“Fair Information Practices Act (Massachusetts General Laws Chapter 66A),](http://www.mass.gov/legis/laws/mgl/gl-66a-toc.htm) “[Executive Order 504](http://www.mass.gov/courts/docs/lawlib/eo500-599/eo504.pdf),” and other applicable laws and regulations. For this reason, part or all of the information you send us may be provided to a member of the public in response to a public records request. There are pieces of information, such as credit card numbers, TIN, username, or password that are not considered public for the purposes of a public records request. For more information on types of data exempted from disclosure under the Public Records Law, please read the [Secretary of the Commonwealth’s Public Records Law.](http://www.sec.state.ma.us/pre/preidx.htm)
 
-## Security
+### Security
 
 Because e-mail sent to the Commonwealth is not encrypted, you should not send messages containing information that you consider highly sensitive to this website. We use standard security measures to ensure that information provided by you, including your personally identifiable information, is not lost, misused, altered, or unintentionally destroyed. We also use software to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations, no attempts are made to identify individual users or their usage habits.
 
-## Policy changes
+### Policy changes
 
 We will post substantive changes to this policy at least 30 days before they take effect. Any information we collect under the current privacy policy will remain subject to the terms of this policy. After any changes take effect, all new information we collect, if any, will be subject to the new policy.
 
-## Contact Information
+### Contact Information
 
 For questions about your privacy while using this website please contact the Health Connector’s privacy and security officer at [ConnectorPrivacy@state.ma.us](mailto:ConnectorPrivacy@state.ma.us).
 
-## Definitions:
+### Definitions:
 
   * **Cookies**  are files that a website can place on your computer. A cookie file contains unique information that a website can use to track such things as your password, lists of Web pages you have visited, and the date when you last looked at a specific Web page, or to identify your session at a particular website. A cookie file allows the website to recognize you as you click through pages on the site and when you later revisit the site. A website can use cookies to “remember” your preferences, and to record your browsing behavior on the Web. Although you can prevent websites from placing cookies on your computer by using your browser’s preference menu, disabling cookies may affect your ability to view or interact with some websites.
   * **An “Internet Protocol Address” or “IP Address”**  is a series of numbers that identifies each computer and machine connected to the Internet. An IP address enables a server on a computer network to send you the file that you have requested on the Internet. The IP address disclosed to us may identify the computer from which you are accessing the Internet, or a server owned by your Internet Service Provider. Because it is machine-specific, rather than person-specific, an IP address is not, in and of itself, personally identifiable information.
