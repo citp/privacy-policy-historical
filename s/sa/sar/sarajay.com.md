@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarajay.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028172905id_/https%3A//www.vnagirls.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarajay.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119132652id_/https%3A//www.vnagirls.com/privacypolicy.html) for the most accurate reproduction.*
 
 # VNA Privacy Policy
 
@@ -25,7 +25,6 @@
   * juliaannlive.com
   * kimberleelive.com
   * kink305.com
-  * laurenphillips.com
   * maxinex.com/
   * maggiegreenlive.com
   * nikkibenz.com
@@ -43,6 +42,8 @@
   * sunnylanelive.com
   * tashareign.com
   * vickyathome.com
+  * sexmywife.com
+  * POVMania.com
 
 
 
