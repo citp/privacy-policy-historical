@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenshoo.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214095642id_/https%3A//kenshoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenshoo.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119023945id_/https%3A//kenshoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Kenshoo Web Privacy Policy
 
