@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logodesignteam.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002003145id_/https%3A//www.logodesignteam.com//privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodesignteam.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119171714id_/https%3A//www.logodesignteam.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Logo Design by Logo Design Team - Custom Logo Design and Graphic Design Services
 
@@ -101,13 +101,13 @@ Cookies and Other Tracking Technologies
 We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. 
 
 Cookies set by the A1 Future are called “first party cookies”. Cookies set by parties other than the website owner are called “ third party cookies ” . Some cookies are required for technical reasons in order for our Websites and Services to function correctly, we refer to these as “ essential ” or “ strictly necessary ” cookies. Other cookies enable us and the third parties we work with to track and target the interests of visitors to our Websites, and we refer to these as “ Preferences ” or “ Statistics & Analytics” or “Marketing” cookies.   
-The details of the cookies we use can be found in our [Cookie Statement](https://web.archive.org/web/20181002003145id_/https%3A//www.logodesignteam.com//cookie-policy.php). 
+The details of the cookies we use can be found in our [Cookie Statement](https://web.archive.org/web/20190119171714id_/https%3A//www.logodesignteam.com/cookie-policy.php). 
 
 Web beacons  
 Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. 
 
 Third Party Tracking  
-The use of cookies by our tracking utility company or service providers is not covered by our privacy statement. We do/do not have access or control over these tracking technologies cookies. You can read more about them in our [Cookie Statement](https://web.archive.org/web/20181002003145id_/https%3A//www.logodesignteam.com//cookie-policy.php). 
+The use of cookies by our tracking utility company or service providers is not covered by our privacy statement. We do/do not have access or control over these tracking technologies cookies. You can read more about them in our [Cookie Statement](https://web.archive.org/web/20190119171714id_/https%3A//www.logodesignteam.com/cookie-policy.php). 
 
 Links to Other Web Sites  
 Our Site includes links to other Web sites whose privacy practices may differ from those of Logo Design Team. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
@@ -124,7 +124,7 @@ To review and update your personal information to ensure it is accurate, contact
 Notification of Privacy Statement Changes  
 We may update this privacy statement to reflect changes to our information practices.If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
-Whenever you are asked to fill in a form on the website, look for the box that says “I Accept Privacy Policy & Cookie Policy ” . If you want to customize your cookie preference, you may contact us at [dp@a1future.com](mailto:dp@a1future.com) or follow the steps given in our [Cookie Statement](https://web.archive.org/web/20181002003145id_/https%3A//www.logodesignteam.com//cookie-policy.php). 
+Whenever you are asked to fill in a form on the website, look for the box that says “I Accept Privacy Policy & Cookie Policy ” . If you want to customize your cookie preference, you may contact us at [dp@a1future.com](mailto:dp@a1future.com) or follow the steps given in our [Cookie Statement](https://web.archive.org/web/20190119171714id_/https%3A//www.logodesignteam.com/cookie-policy.php). 
 
 If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [dp@a1future.com](mailto:dp@a1future.com). 
 
