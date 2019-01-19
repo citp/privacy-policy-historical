@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the demio.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627015825id_/https%3A//demio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demio.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119110747id_/https%3A//demio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hassle-free Webinar Software for Marketers
 
 **Last Updated on May 10, 2018**
 
-###  **Introduction**
+### Introduction
 
 1.1 Demio, Inc., (“Demio,” or “we,” or “us,” or “our”) is committed to safeguarding the privacy of our website and service users (“users,” or “you”).
 
@@ -18,7 +18,7 @@
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE COMPANY SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY ALL THE TERMS OF THIS PRIVACY POLICY AND OUR TERMS OF SERVICE. IF YOU DO NOT AGREE TO SUCH TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE COMPANY SERVICE.
 
-###  **2\. How we use your personal data**
+### 2\. How we use your personal data
 
 2.1 In this Section 2 we have set out:
 
@@ -30,9 +30,9 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE COMPANY SER
 
 2.2 We may process data about your use of our website and services (" **usage data** "). The usage data may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. The source of the usage data is our analytics tracking system. This usage data may be processed for the purposes of analyzing the use of the website and services. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
 
-2.3 We may process your account data (" **account data** ").  The account data may include your name and email address. The source of the account data is you. The account data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
+2.3 We may process your account data (" **account data** ").  The account data may include your name and email address. The source of the account data is you. The account data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
 
-2.4 We may process your information included in your personal profile on our website (" **profile data** ").  The profile data may include your name, address, telephone number, email address, profile pictures, and company name.  The profile data may be processed for the purposes of enabling and monitoring your use of our website and services. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
+2.4 We may process your information included in your personal profile on our website (" **profile data** ").  The profile data may include your name, address, telephone number, email address, profile pictures, and company name.  The profile data may be processed for the purposes of enabling and monitoring your use of our website and services. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
 
 2.5 We may process information that you post for publication on our website or through our services (" **publication data** "). The publication data may be processed for the purposes of enabling such publication and administering our website and services. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
 
@@ -42,29 +42,34 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE COMPANY SER
 
 2.9 We may process information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (" **notification data** "). The notification data may be processed [for the purposes of sending you the relevant notifications and/or newsletters. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
 
-2.10 We may process information contained in or relating to any communication that you send to us (" **correspondence data** "). The correspondence data may include the communication content and metadata associated with the communication.  Our website will generate the metadata associated with communications made using the website contact forms. The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
+2.10 We may process information contained in or relating to any communication that you send to us (" **correspondence data** "). The correspondence data may include the communication content and metadata associated with the communication.  Our website will generate the metadata associated with communications made using the website contact forms. The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is your consent or our legitimate interests, namely monitoring and improving our website and services.
 
 2.11 We may process any of your personal data identified in this policy where necessary for the establishment, exercise or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure. The legal basis for this processing is our legitimate interests, namely the protection and assertion of our legal rights, your legal rights and the legal rights of others.
 
-2.13 In addition to the specific purposes for which we may process your personal data set out in this Section 2, we may also process any of your personal data where such processing is necessary[ for compliance with a legal obligation to which we are subject, or] in order to protect your vital interests or the vital interests of another natural person.
+2.13 In addition to the specific purposes for which we may process your personal data set out in this Section 2, we may also process any of your personal data where such processing is necessary for compliance with a legal obligation to which we are subject, or] in order to protect your vital interests or the vital interests of another natural person.
 
 2.15 Please do not supply any other person's personal data to us unless we prompt you to do so.
 
-2.16    BUSINESS INFORMATION: Information that is collected by webinar coordinators or moderators is considered confidential. We will not view Business Information except as necessary to appropriately support the service or as required by law. (Business Information includes schedules, attendee lists, subject names, email addresses, names, session records, and any other business information used while in session) When an attendee registers with one of our customers for an online meeting, webinar or training, that information is provided to the organizer of the session. Demio may store that information to fulfill our obligation to our customers, but we will not use the information to send marketing communications for Demio services or third party offers to attendees. You should be aware that any personally identifiable information you submit while in session and utilizing the chat feature can be read, collected or used by the meeting organizer and other meeting participants. Chat logs and meeting recordings are not stored or viewable by Demio and are only available locally to meeting coordinators and moderators. We will not view business information, except as necessary to appropriately support the service and for the purpose of anticipating, diagnosing, supporting or resolving any problems that might limit or disrupt the quality of our customers’ service experience or as required by law.
+2.16    BUSINESS INFORMATION: Information that is collected by webinar coordinators or moderators is considered confidential. We will not view Business Information except as necessary to appropriately support the service or as required by law. (Business Information includes schedules, attendee lists, subject names, email addresses, names, session records, and any other business information used while in session) When an attendee registers with one of our customers for an online meeting, webinar or training, that information is provided to the organizer of the session. Demio may store that information to fulfill our obligation to our customers, but we will not use the information to send marketing communications for Demio services or third party offers to attendees. You should be aware that any personally identifiable information you submit while in session and utilizing the chat feature can be read, collected or used by the meeting organizer and other meeting participants. Chat logs and meeting recordings are not stored or viewable by Demio and are only available locally to meeting coordinators and moderators. We will not view business information, except as necessary to appropriately support the service and for the purpose of anticipating, diagnosing, supporting or resolving any problems that might limit or disrupt the quality of our customers’ service experience or as required by law.
 
-2.17 In-session information collected during meeting, webinar and training sessions is protected by the use of https encrypted connections and encrypted disk storage and is only accessible by the authorized users, organizers and participants. “In-session information” includes all screen sharing data, keyboard/mouse control data and text chat information. This information is never exposed in unencrypted form while temporarily resident within Demio’s communication infrastructure servers or during  transmission across public or private networks. Information about scheduled and prior meetings,  webinars and/or trainings is stored on our website and is available to our customers and their authenticated users that have received an invitation from the organizer via email, instant message, phone or other communication method.
+2.17 In-session information collected during meeting, webinar and training sessions is protected by the use of https encrypted connections and encrypted disk storage and is only accessible by the authorized users, organizers and participants. “In-session information” includes all screen sharing data, keyboard/mouse control data and text chat information. This information is never exposed in unencrypted form while temporarily resident within Demio’s communication infrastructure servers or during  transmission across public or private networks. Information about scheduled and prior meetings,  webinars and/or trainings is stored on our website and is available to our customers and their authenticated users that have received an invitation from the organizer via email, instant message, phone or other communication method.  
 
-###  **3\. Providing your personal data to others**
+
+### 3\. Providing your personal data to other **s**
 
 3.1 We may disclose your personal data to any member of our group of companies, this means our subsidiaries, our ultimate holding company and all its subsidiaries insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy.
 
-3.2 Financial transactions relating to our website and services may be handled by our payment services providers. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. 
+3.2 Financial transactions relating to our website and services may be handled by our payment services providers. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. 
 
-3.3 We may disclose your inquiry data to one or more of those selected third-party suppliers of services via APIs identified on our website for the purpose of enabling them to connect your account with their Services. Each such third party will act as a data controller in relation to the inquiry data that we supply to it.  Each such third party will supply to you a copy of its own privacy policy, which will govern that third party's use of your personal data.
+3.3 We may disclose your inquiry data to one or more of those selected third-party suppliers of services via APIs identified on our website for the purpose of enabling them to connect your account with their Services. Each such third party will act as a data controller in relation to the inquiry data that we supply to it.  Each such third party will supply to you a copy of its own privacy policy, which will govern that third party's use of your personal data.
 
-3.4 In addition to the specific disclosures of personal data set out in this Section 3, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+3.4 Demio has an obligation when providing any and all of your data to any third party is to ensure that the third party effectively processes the personal data in a manner consistent with our own policies.  In the event of a compliance failure by such third party Demio may be liable for the third-party lack of compliance and shall take appropriate steps to remedy the situation including, but not limited to, ensuring that processing by the third party shall cease and taking steps to remediate unauthorized processing.
 
-###  **4\. About cookies**
+3.5 In addition to the specific disclosures of personal data set out in this Section 3, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defense of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+
+3.6 We do disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so.
+
+### 4\. About cookies
 
 4.1 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
 
@@ -72,7 +77,7 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE COMPANY SER
 
 4.3 Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-###  **5\. Cookies that we use**
+### 5\. Cookies that we use
 
 5.1 We use cookies for the following purposes:
 
@@ -82,13 +87,13 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE COMPANY SER
 
 (c) analysis - we use cookies to help us to analyze the use and performance of our website and services; and
 
-###  **6\. Cookies used by our service providers**
+### 6\. Cookies used by our service providers
 
 6.1 Our service providers use cookies and those cookies may be stored on your computer when you visit our website.
 
-6.2 We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: https://www.google.com/policies/privacy/.
+6.2 We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: <https://www.google.com/policies/privacy/>.
 
-###  **7\. Managing cookies**
+### 7\. Managing cookies
 
 7.1 Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
 
@@ -108,15 +113,18 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE COMPANY SER
 
 7.3 If you block cookies, you will not be able to use all the features on our website.
 
-###  **8\. Analytics**
+### 8\. Analytics  
+
 
 We continuously improve our websites and our products, and we utilize different third-party web analytics tools to help us do so. We are interested in how visitors use our websites, our desktop tools, our mobile applications, what they like and dislike, and where they have problems. Our products, desktop tools and mobile applications use analytical tools to understand feature usage patterns, to enhance and improve your product experience and offer you specific usage tips and guidance. In connection with normal business operations, as well as to increase functionality and enhance your user experience, this usage information may be linked to personal information that we have about individual users. We maintain ownership of this data and we do not share this type of data about individual users with third parties.
 
-Our mobile applications will also use analytical tools to help gather non-personally identifiable data about download and application usage. We may use information such as IP addresses to determine the general geographic locations areas of our visitors, but this information is not correlated to personal information about individual users. The web beacons used in conjunction with these tools may gather data such as what browser a person uses, what operating systems are used, domain names, MIME types, what is downloaded, and what content, products and services are reviewed when visiting or registering for services at one of our websites or using one of our mobile applications.
+Our mobile applications will also use analytical tools to help gather non-personally identifiable data about download and application usage. We may use information such as IP addresses to determine the general geographic locations areas of our visitors, but this information is not correlated to personal information about individual users. The web beacons used in conjunction with these tools may gather data such as what browser a person uses, what operating systems are used, domain names, MIME types, what is downloaded, and what content, products and services are reviewed when visiting or registering for services at one of our websites or using one of our mobile applications.  
 
-This information is used solely to assist us in maintaining a more effective and useful websites and products for our customers. This data will not be shared with third parties without your prior consent or unless required by law.
 
-###  **9\. Your rights**
+This information is used solely to assist us in maintaining a more effective and useful websites and products for our customers. This data will not be shared with third parties without your prior consent or unless required by law.  
+
+
+### 9\. Your rights
 
 9.1 In this Section 9, we have summarized the rights that you have under data protection law. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.
 
@@ -138,11 +146,11 @@ This information is used solely to assist us in maintaining a more effective and
 
 (h) the right to withdraw consent.
 
-9.3 You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee. You can access your personal data by visiting <https://my.demio.com/manage/settings/profile>
+9.3 You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee. You can access your personal data by visiting https://my.demio.com/manage/settings/profile
 
 9.4 You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.
 
-9.5 In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully process.. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defense of legal claims.
+9.5 In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully process. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defense of legal claims.
 
 9.6 In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defense of legal claims; and you have objected to processing, pending the verification of that objection. Where processing has been restricted on this basis, we may continue to store your personal data. However, we will only otherwise process it: with your consent; for the establishment, exercise or defense of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.
 
@@ -156,39 +164,34 @@ This information is used solely to assist us in maintaining a more effective and
 
 (a) consent; or
 
-(b) that the processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract,
-
-and such processing is carried out by automated means, you have the right to receive your personal data from us in a structured, commonly used and machine-readable format. However, this right does not apply where it would adversely affect the rights and freedoms of others.
+(b) that the processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract, and such processing is carried out by automated means, you have the right to receive your personal data from us in a structured, commonly used and machine-readable format. However, this right does not apply where it would adversely affect the rights and freedoms of others.
 
 9.11 If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.
 
-9.12 To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.
+9.12 Under certain limited conditions you may have the right to invoke binding arbitration before the Privacy Shield Panel as created by the U.S. Department of Commerce and the European Commission.
 
-###  **10\. Retaining and deleting personal data**
+9.13 To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.
+
+### 10\. Retaining and deleting personal data
 
 10.1 This Section 10 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.
 
 10.2 Personal data that we process for any purpose or purposes shall be kept until such time as we receive a request for deletion from you.
 
-10.3 Notwithstanding the other provisions of this Section 10, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person **  
-**
+10.3 Notwithstanding the other provisions of this Section 10, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
 
-### 11\. Who can I ask if I have additional questions? **  
-**
+### 11\. Who can I ask if I have additional questions?  
 
-For additional inquiries about the privacy of your information, you can contact Demio by emailing us at  [support@demio.com](mailto:support@demio.com). **  
-**
 
-### 12\. Dispute Resolution **  
-**
+For additional inquiries about the privacy of your information, you can contact Demio by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-In compliance with the Privacy Shield Principles, if a privacy complaint or dispute cannot be resolved through Demio, Inc’s internal processes, Demio Inc. has agreed to participate in the  [VeraSafe Privacy Shield Dispute Resolution Procedure](https://www.verasafe.com/privacy-services/dispute-resolution/privacy-shield-dispute-procedure/).  **  
-**
+### 12\. Dispute Resolution
 
-Subject to the terms of the VeraSafe Privacy Shield Dispute Resolution Procedure, VeraSafe will provide appropriate recourse free of charge to you. To file a complaint with VeraSafe under the Privacy Shield Dispute Resolution Procedure, please submit the required information to VeraSafe here:   <https://www.verasafe.com/privacy-services/dispute-resolution/submit-dispute/>[  
-](https://www.verasafe.com/privacy-services/dispute-resolution/submit-dispute/)
+In compliance with the Privacy Shield Principles, if a privacy complaint or dispute cannot be resolved through Demio, Inc’s internal processes, Demio Inc. has agreed to participate in the [VeraSafe Privacy Shield Dispute Resolution Procedure](https://www.verasafe.com/privacy-services/dispute-resolution/privacy-shield-dispute-procedure/). 
 
-### 13\. Privacy Shield Compliance **  
-**
+Subject to the terms of the VeraSafe Privacy Shield Dispute Resolution Procedure, VeraSafe will provide appropriate recourse free of charge to you. To file a complaint with VeraSafe under the Privacy Shield Dispute Resolution Procedure, please submit the required information to VeraSafe here:  <https://www.verasafe.com/privacy-services/dispute-resolution/submit-dispute/>‍
 
-Demio complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.   Demio has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. Furthermore, Demio is subject to the investigatory and enforcement powers of the Federal Trade Commission.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+### 13\. Privacy Shield Compliance
+
+Demio complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.  Demio has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. Furthermore, Demio is subject to the investigatory and enforcement powers of the Federal Trade Commission.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>  
+
