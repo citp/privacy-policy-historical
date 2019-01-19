@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingdollarsandsense.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001075955id_/https%3A//savingdollarsandsense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingdollarsandsense.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119070104id_/https%3A//savingdollarsandsense.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Saving Dollars & Sense
 
