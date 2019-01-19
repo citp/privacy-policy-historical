@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaper-house.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216140743id_/https%3A//wallpaper-house.com/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaper-house.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119032658id_/https%3A//wallpaper-house.com/%23privacy) for the most accurate reproduction.*
 
 # Wallpapers groups presented by Wallpaper-House.com
 
