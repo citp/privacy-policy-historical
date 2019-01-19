@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guess.ca privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130005348id_/https%3A//www.guess.ca/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guess.ca privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119013644id_/https%3A//www.guess.ca/en/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 | 
 
@@ -204,9 +204,9 @@ Call Toll Free Monday through Friday 6:00 a.m. - 5:00 p.m., Saturday 7 a.m. - 4 
 
 | GUESS or GUESS KIDS: | 1-877-44-GUESS (1-877-444-8377).  
 ---|---  
-MARCIANO: | 1-866-44-MARCIANO (1-866-446-2724).  
-G BY GUESS: | 1-877-GbyGUESS (1-877-429-4837).  
-GUESS FACTORY: | 1-877-GUESSFactory (1-877-483-7732)  
+MARCIANO: | 1-877-44-GUESS (1-877-444-8377).  
+G BY GUESS: | 1-877-44-GUESS (1-877-444-8377).  
+GUESS FACTORY: | 1-877-44-GUESS (1-877-444-8377).  
   
 **By e-mail:**
 
@@ -214,15 +214,6 @@ GUESS FACTORY: | 1-877-GUESSFactory (1-877-483-7732)
 
   12. **Opt Outs**
 
-If you would like to unsubscribe or cancel your memberships with Guess at any time, you can contact us using the following methods:
-
-To unsubscribe from mobile alerts from:
-
-GUESS: | text STOP to GUESS (48377)  
----|---  
-MARCIANO: | text STOP to SHOPM (74676)  
-G BY GUESS: | text STOP to GPULSE (478573)  
-  
 To opt out of e-mail marketing communications for:
 
 To opt out of direct mail marketing communications, please write to GUESS at the mailing address above, be sure to include your name and address as it appears on any marketing materials received from GUESS.
