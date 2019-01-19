@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teach.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028015959id_/https%3A//teach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teach.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119235553id_/https%3A//teach.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
