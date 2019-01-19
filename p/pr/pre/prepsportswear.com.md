@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prepsportswear.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911210543id_/https%3A//www.prepsportswear.com/customerservice/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepsportswear.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119140550id_/https%3A//prepsportswear.com/customerservice/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Prep Sportswear
 
