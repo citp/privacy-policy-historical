@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hughhewitt.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821142530id_/http%3A//www.hughhewitt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hughhewitt.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119203035id_/http%3A//www.hughhewitt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Hugh Hewitt Show
 
-[ ](https://www.patriotmobile.com/hugh) Advertisement
+[ ](https://shopedenpure.com/sales-pagedc6141355) Advertisement
 
 [
 
@@ -131,13 +131,7 @@ Listen Commercial FREE  |  On-Demand
 
 [Login](https://www.hughniverse.com/member/login/?utm_source=hewitt-website&utm_campaign=login-link&utm_medium=sidebar-box) [Join](https://www.hughniverse.com/member/signup/?utm_source=hewitt-website&utm_campaign=join-link&utm_medium=sidebar-box)
 
-[ ](http://amac.us/join-amac/?campaign=HewittBanner011217)
-
-Advertisement
-
-[ ](http://www.adflegal.org/barronelle-stutzmans-story2?sourcecode=10000827)
-
-Advertisement
+[ ](https://pro.oxfordclub.com/p/EMPLANTO99OXFLTOXFDSMALAGBBRK/POXFUB46/?h=true)
 
 Advertisement
 
@@ -174,3 +168,7 @@ Friends and Allies of Rome
   * [GetFoundFast.com](https://getfoundfast.com/)
 
 
+
+[ ](https://www.penguinrandomhouse.com/books/13134/presidents-of-war-by-michael-beschloss/9780307409607?ref=PRHA10D4E875C&aid=randohouseinc8263-20&linkid=PRHA10D4E875C)
+
+Advertisement
