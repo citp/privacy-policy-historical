@@ -1,45 +1,61 @@
-> *The following text is extracted and transformed from the trex.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917120556id_/https%3A//www.trex.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trex.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119113158id_/https%3A//www.trex.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trex
 
-## Trex Company, Inc. Website Privacy Policy
+## Trex Privacy Policy
 
-Trex Company, Inc. ("Trex") is committed to protecting the privacy of Trex users’ personal information. This privacy policy applies with respect to the information that Trex collects from its Trex website ("Website"), located at [www.trex.com](https://web.archive.org/), and all web pages accessible through the Website. Amendments to this privacy policy will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance of the terms thereof.
+Trex respects your privacy and strives to help you protect your personal information. This Privacy Policy is intended to inform you of how we use the information you provide to us and with whom it is shared.
 
-###### INFORMATION COLLECTED
+###### Use of Personal Information
 
-We collect non-personally identifiable information about you in a number of ways, including tracking your activities through your IP (Internet Protocol) address, computer settings, most-recently visited URL, or through cookies (described below). We may also ask you to provide certain non-personally identifiable information about yourself, such as your age, your occupation, buying preferences, interest in Trex, etc. We do not collect personally identifiable information about you unless you voluntarily submit such information to the Trex Website by, for example, filling out a survey or registration form, requesting literature or creating an account to design a deck. The types of information that may be requested include your name, address, e-mail address, and telephone number.
+We use the information you give us to perform the services you request. For example, if you fill out a form requesting more information about Trex, we will use the information you provide us to contact you about Trex products. We may also use information you provide us or information we collect to help us improve your experience on our website, or to process a warranty claim.
 
-###### USE OF INFORMATION
+###### Your Consent
 
-Trex may use the information to tell you about Trex® products and services that we feel may be of interest to you. Personally identifiable information may be used to contact you again either by online electronic communication (such as e-mail), or by regular mail or telephone. Trex users may opt-out of receiving future mailings from Trex by unsubscribing from Trex emails or other contacts by emailing [ customercare@trex.com](mailto:customercare@trex.com?subject=Attention:%20Privacy%20Policy). Trex has the right to monitor the Trex Website electronically, from time to time, and to disclose any information necessary to satisfy any law, regulation, or other government request, to operate the Trex Website properly, or to protect itself. Non-personal demographic and profile data is used to tailor your experience at the Trex Website, showing you content we think you might be interested in. This information may also be shared with Trex’s dealers, distributors or contractors on an aggregate, non-personal basis. When Trex shares such information with dealers, distributors or contractors, it is not traceable to any particular user and will not be used to contact you again.
+By using our website and specifically by filling out one of the Trex online forms or tools, you consent to our collection and use of your personal information as is described in this Privacy Policy. If we change our Privacy Policy, we will post those changes to this website. This Privacy Policy was last updated May 1, 2018.
 
-###### USE OF IP ADDRESSES
+###### Use of Information
 
-We use your IP address to help diagnose problems with our server and to administer the quality of the Trex Website. We do not use IP addresses to personally identify users. We do not track the usage patterns of individual users, but rather how well each page on our site performs overall.
+We collect information to provide you with services, deliver products to you, and to keep you informed about our products.
 
-###### USE OF COOKIES
+For example, if you provide your information to us, we may use it in the following ways:
 
-When you view the Trex Website we may store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on the Trex Website. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a website as easily as possible. We use cookies to deliver content specific to your interests. Cookies can allow the Trex Website to remember you when you return so you do not have to enter your registration data at each connection.
+  * To provide you special offers, news, updates, and promotions;
+  * To deliver sample materials or orders; or
+  * To register or process warranty claims.
 
-###### SECURITY
 
-The Trex Website uses industry standard security measures to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, Trex will take reasonable steps to protect the safety of your personal information.
 
-If you have created an account with us, we urge you to keep your password in a safe place and not to divulge it to anyone. Also, remember to sign off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a library or Internet café.
+Your information may also be shared with Trex’s dealers, distributors or contractors on an aggregated, non-personal basis. When Trex shares such information with dealers, distributors or contractors, it is not traceable to any particular user and will not be used to contact you again.
 
-###### OTHER WEBSITES AND LINKS
+We will not sell, rent, exchange or share your personal information with any third parties without permission or except as described in this Privacy Policy.
 
-The Trex Website contains links to other websites. Trex is not responsible for the privacy practices or the content of such websites, and does not warrant the accuracy or completeness of any other website that the user may access through the Trex Website or which provides links to the Trex Website. Trex authorized dealers, distributors or contractors are independently owned and operated, and are neither affiliated with nor agents or representatives of Trex. Trex makes no representations or warranties as to, and accepts no duty or responsibility for, the performance, acts or omissions of such parties.
+###### The Type of Information We May Collect
 
-###### CORRECTION AND UPDATE OF INFORMATION
+If you fill out a form with Trex online, we may collect your contact information, such as name, address, email, and telephone number. We may also collect your payment information.
 
-Trex allows its users the option to change or modify information previously provided. This may be done through e-mailing the changed or modified information to [ customercare@trex.com](mailto:customercare@trex.com?subject=Attention:%20Privacy%20Policy). Trex will use reasonable efforts to ensure that your information is removed from or corrected in our records.
+When you visit our website, we may also collect your internet protocol (IP) address, browser type, operating system, computer or mobile device type, or navigation and clickstream information. This information is used to help us improve users' experience our website.
 
-###### CHILDREN'S PRIVACY (UNDER THE AGE OF 13)
+###### Cookies
 
-Trex takes children's privacy seriously and wants children and parents to understand that the Website is not intended for children under the age of 13. If you are under the age of 13, please do not use this Website. We do not permit anyone under the age of 13 to open an account with us. We do not seek to collect personal information about children through our Website. If we become aware that a person submitting personal information to us through any part of our Website is a child under the age of 13, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties. Since we do not seek to collect any personal information about children, and we delete information collected inadvertently as soon as we discover that a child has submitted it, we typically retain no information about children that could be reviewed or deleted. If a parent requests review or deletion of information about their child before we have discovered and deleted the information, we will of course honor that request. Please contact us at [customercare@trex.com](mailto:customercare@trex.com?subject=Attention:%20Privacy%20Policy)
+We use cookies and similar technologies (e.g., web beacons, pixels, ad tags) to recognize you and/or your devices on, off, and across our different websites. You can control how cookies are used through your browser settings and other tools.
 
-###### CONTACTING US
+###### Lawful Bases for Processing Information
 
-If you have any questions about this privacy policy, the practices of this site, or your dealings with the Trex Website, you can contact us at [ customercare@trex.com](mailto:customercare@trex.com?subject=Attention:%20Privacy%20Policy). The Terms of Use of the Trex Website can be found at [www.trex.com/terms](https://web.archive.org/footer/terms-of-use/).
+We will only collect and process personal data about you where we have lawful bases. Our lawful bases for processing your information could include where you give us consent (for example: when you sign up for our mailing lists), contract (for example: when you have registered your Trex warranty with us), and other legitimate interests. These other legitimate interests include but are not limited to complying with laws that apply to Trex and enabling us to administer our business (for example: quality control, consolidated reporting, or customer service).
+
+###### Correcting and Updating Your Information
+
+We retain the information you share with us for as long as we need to in order to provide you the services you request. For example, if you register a warranty with Trex, we will keep your personal information on file in order to help us process your warranty. We also retain other data generated by you (i.e., data generated when you browse our website) in a depersonalized or aggregated form in order to help us improve users’ experience on our website. We may also retain your information for a reasonable period of time for Trex to conduct audits, comply with our legal obligations, resolve disputes, or other legitimate business interests.
+
+If you believe any personal data we maintain about you is incorrect or incomplete, you may ask us to correct it. In addition, you may ask for a copy of it, or you may ask us to delete it. If you have a request about your data or any concerns about the information you provide to us, please contact us at [customercare@trex.com](mailto:customercare@trex.com). You may also contact the Data Protection Authority in your country.
+
+###### Where Your Data May Be Sent
+
+If you are located outside of the United States, we may transfer the personal data you provide to us to the United States. By sharing your data with us, you consent to the transfer of your data to the United States.
+
+###### Other Important Privacy Information
+
+Children's Privacy. We do not knowingly collect any personal information from children under the age of 13 without parental consent, unless permitted by law. If we learn that a child under the age of 13 has provided us with personal information, we will delete it in accordance with applicable law.
+
+Your California Privacy Rights. (a) California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. We do not share personal information with third parties for their own direct marketing purposes. (b) California residents who are registered users may also request and obtain removal of content. You may request such removal by emailing us at [customercare@trex.com](mailto:customercare@trex.com). In your request, please provide a description of the material that you want removed and information reasonably sufficient to permit us to locate the material, and include your name, email address and the subject line "California Removal Request" so that we can process your request.
