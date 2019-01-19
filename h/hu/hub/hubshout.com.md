@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hubshout.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514100432id_/http%3A//hubshout.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubshout.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119040738id_/https%3A//hubshout.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# SEO Reseller | Outsource SEO | White Label SEO | Private Label SEO | SEO Reseller Program | HubShout
+# HubShout
 
 **What information do we collect?**
 
@@ -54,7 +54,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://hubshout.com/](https://web.archive.org/).
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://hubshout.com/](https://web.archive.org/).
 
 **Your Consent**
 
