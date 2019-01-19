@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntotank.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407082515id_/https%3A//www.ntotank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntotank.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119053847id_/https%3A//www.ntotank.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,17 +6,17 @@ _Last updated: December 06, 2015_
 
 ## Foreword Statement
 
-  * We _do not_ keep credit card, debit, or bank account numbers on our server.
-  * We _do not_ sell your information to other companies.
-  * We _are happy_ to assist you over the phone at [(888) 686-8265](tel:8886868265).
+  * We _do not_ keep credit card, debit, or bank account numbers on our server. 
+  * We _do not_ sell your information to other companies. 
+  * We _are happy_ to assist you over the phone at [(888) 686-8265](tel:8886868265). 
 
 
 
-National Tank Outlet, LLC ("us", "we", or "our") operates the [NTOTank.com](https://web.archive.org/) e-commerce store and website (the "E-commerce Site").
+National Tank Outlet, LLC ("us", "we", or "our") operates the [NTOTank.com](https://www.ntotank.com/) e-commerce store and website (the "E-commerce Site").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our E-commerce Site.
 
-We use your Personal Information for providing and improving the E-commerce Site. By using the E-commerce Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Service](https://web.archive.org/tos-policy).
+We use your Personal Information for providing and improving the E-commerce Site. By using the E-commerce Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Service](https://www.ntotank.com/tos-policy).
 
 ## Security
 
