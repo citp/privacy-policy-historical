@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weirdasianews.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323030823id_/https%3A//www.weirdasianews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weirdasianews.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119101309id_/https%3A//www.weirdasianews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
