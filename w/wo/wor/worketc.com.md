@@ -1,23 +1,25 @@
-> *The following text is extracted and transformed from the worketc.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184522id_/https%3A//www.worketc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worketc.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119135909id_/https%3A//www.worketc.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - we hate spam too.
+# Privacy Policy – we hate spam too. : WORKetc Business Management Software | CRM, Project Management, Billing
 
 PRIVACY POLICY
 
-Effective Date: May 18th 2012
+Effective Date: May 25th 2018
 
 To review material modifications and their effective dates scroll to the bottom of the page.
 
-WORKETC PTY LTD (“WORK[etc]”) owns and operates this worketc.com website business. All references to “we”, “us”, this “website” or this “site” shall be construed to mean WORK[etc]. We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including Personal Information, that we collect through this website. By using this website you are accepting the practices described in this Privacy Policy.
+WORKETC PTY LTD (“WORKetc”) owns and operates this worketc.com website business. All references to “we”, “us”, this “website” or this “site” shall be construed to mean WORKetc. We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including Personal Information, that we collect through this website. By using this website you are accepting the practices described in this Privacy Policy.
 
-This Privacy Policy covers our collection, use and disclosure of information we collect through our website www.worketc.com and WORK[etc] service. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged WORK[etc].
+This Privacy Policy covers our collection, use and disclosure of information we collect through our website www.worketc.com and WORKetc service. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged WORKetc.
+
+Together with our Customer Terms and any other documents referred within, this Privacy Policy sets out the basis on which any personally identifiable information (“Personal Data”) we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your Personal Data and how we will treat it in respect of your use of capsulecrm.com (“the Service”).
 
 If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
-WORK[etc] Pty Ltd  
+WORKetc Pty Ltd  
 Attn: Privacy Policy Officer  
-2/672 Old South Head Road  
-ROSE BAY NSW AUSTRALIA  
+Level 8, 99 Elizabeth St  
+SYDNEY NSW AUSTRALIA  
 Email: support@worketc.com
 
 THE TYPES OF INFORMATION WE COLLECT
@@ -25,6 +27,8 @@ THE TYPES OF INFORMATION WE COLLECT
 Personal Information.  We collect Personal Information that you provide to us and that may be used to identify you (“Personal Information”).  Personal Information that we collect may vary with each separate purpose for which you provide it, and it may include one or more of the following categories: name, physical address, an email address, phone number, and credit card information including credit card number, expiration date, and billing address.
 
 Non-Personal Information.  We reserve the right to collect anonymous information such as your browser type, the URL of the previous website you visited, your computer’s operating system and Internet protocol (IP) Address, Internet domain and host name, your Internet Service provider, your clickstream data, and the dates and times that you may access this site and specific pages (Non-Personal Information”).  Non-Personal Information is essentially anonymous when collected; however, it’s possible that Non-Personal Information could be used to identify you.
+
+For EU domiciled Customers, or Customers with operation activities within the EU, a GDPR-compliant data flow map is available [by request](https://www.worketc.com/worketc-gdpr/#MAPDOC).
 
 HOW AND WHEN WE COLLECT INFORMATION
 
@@ -42,18 +46,6 @@ We do NOT tie or link your Personal Information to Non-Personal Information with
 
 We reserve the right to make full use of Non-Personal Information.  For example, we may use Non-Personal Information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends about the use of this site, and otherwise administer and improve this site for your use.
 
-US-EU Safe Harbor & US-Swiss Safe Harbor Self Certification
-
-We adhere to the requirements of the US-EU Safe Harbor Framework:
-
-**Notice** – we notify individuals about the information we collect and provide contact details for individuals to request or limit that information.  
----  
-**Choice** – we provide individuals and organizations the choice to opt out of any disclosure to third parties, although WORK[etc] never discloses or shares information with third parties.  
-**Onward Transfer** – we do not disclose information to third parties  
-**Access** – we provide contact details for individuals wishing to access any personal information  
-**Security  **– we take all reasonable precautions to protect information from loss, misuse and unauthorized access, disclosure, alteration and destruction, including highly secure data centers, encrypted transmission and encrypted archival storage.  
-**Data Integrity** – we take all reasonable steps to ensure that data is reliable for its intended use, accurate, complete, and current.  
-  
 HOW WE DISCLOSE YOUR INFORMATION
 
 General Disclosure Policy.   Our general policy is that we will not share, sell, or rent your Personal Information to others.  The only exceptions to this general policy: (i) are described in the subsections below, and (ii) if you explicitly approve through our site. We reserve the right to disclose Non-Personal Information without restriction.
@@ -66,17 +58,19 @@ Disclosure to Successors.   If we are acquired by or merged with a third party
 
 Disclosure Incident to Legal Process and Enforcement.  We reserve the right to disclose your Personal Information if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary (i) to satisfy any applicable law, regulation, legal process or enforceable governmental request (such as for example, to comply with a subpoena or court order), or (ii) to investigate or enforce violations of our rights or the security of this site.
 
-INFORMATION RELATED TO DATA COLLECTED THROUGH THE WORK[etc] SERVICE
+For EU Customers, or Customers with operation activity within the EU, additional information on how we address GDPR Information Disclosure Regulations can be accessed within our [GDPR compliance FAQ](https://www.worketc.com/worketc-gdpr/#GDPRFAQ).
 
-WORK[etc] collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. WORK[etc] works with its Clients to help them provide notice to their customers concerning, the purpose for which personal information is collected.
+INFORMATION RELATED TO DATA COLLECTED THROUGH THE WORKetc SERVICE
 
-We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly.
+WORKetc collects information under the direction of its Customers, and has no direct relationship with the individuals whose personal data it processes. WORKetcworks with its Customers to help them provide notice to their customers concerning, the purpose for which personal information is collected.
 
-WORK[etc] may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
+We collect information for our Customers, if you are a customer of one of our Customers and would no longer like to be contacted by one of our Customers that use our service, please contact the client that you interact with directly.
 
-WORK[etc] has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the WORK[etc]’s Client (the data controller). If the Client requests COMPANY to remove the data, we will respond to their request within 30 days.
+WORKetc may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Customers.
 
-WORK[etc] will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. WORK[etc] will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+WORKetc has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the WORKetc’s Customer (the data controller). If the Customers requests COMPANY to remove the data, we will respond to their request within 30 days.
+
+WORKetc will retain personal data we process on behalf of Customers for as long as needed to provide services to our Customer. WORKetc will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 SPECIFIC INFORMATION ABOUT COOKIES AND WEB BEACONS
 
@@ -110,11 +104,11 @@ Unfortunately, no data transmission over the Internet or method of data storage 
 
 When you transmit Personal Information through our registration process or if you purchase products or services, we encrypt that information in transit using secure socket layer technology (SSL).
 
-After the secure transfer of your Personal Information, the information is maintained and stored with 128-bit encryption.
+After the secure transfer of your Personal Information, the information is maintained and stored with 256-bit encryption.
 
 ONWARD TRANSFER OUTSIDE YOUR COUNTRY OF RESIDENCE
 
-Any Personal Information which we may collect on this site may be stored and processed in our servers located in the United States, United Kingdom or EU nations.
+Any Personal Information which we may collect on this site may be stored and processed within our Amazon Web Services infrastructure limited to locations in soley the EU, USA or AUSTRALIA.
 
 UPDATING PERSONAL INFORMATION
 
@@ -130,13 +124,26 @@ This site treats email messages and other electronic messages that are sent thro
 
 If you supply us with your e-mail address you may receive periodic messages from us with information specific to the site and required for the normal functioning of the site as well as for new products or services or upcoming events. If you prefer not to receive periodic email messages, you may opt-out by following the instructions on the email or by emailing us. Please see “Contact Us” below.
 
-LINKS TO OTHER SITES; ONLINE ADS
+YOUR RIGHTS  
+CONSENT: If you wish to subscribe to our marketing or any other communications, we will use your name and email address to send communications to you. Where applicable we will use best endeavor to inform you (before collecting your data) if we intend to use your data for such purposes or if we ever intend disclose your information to any third party for data processing we will make this known via the WORKetc list of [Data Sub Processors.](https://www.worketc.com/privacy_policy/gdpr/)  You may elect to stop receiving our marketing emails by following the unsubscribe instructions included in such emails.
 
-This site may contain links to other websites with whom we have a business relationship.  These links may include online advertisements that we deem to be appropriate.  Any information that you provide in the process of registration or purchase will be transferred to these sites.  We have no responsibility or liability for the policies and practices of these sites.  You should be careful to review any privacy policies posted on any of these sites before providing information to them.
+We send push notifications from time to time in order to update you about any Customer Account Issues, Service updates, events and promotions we may be running. If you no longer wish to receive these communications, simply elect to opt out.
 
-CHILDREN’S ONLINE POLICY
+ACCESS TO INFORMATION: You have the right to access information held about you.
 
-We are committed to preserving online privacy for all of its website visitors, including children. This site is a general audience site.  Consistent with the Children’s Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13.  If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child’s information, please contact our site as provided below under “Contact Us”, and be sure to include in your message the same login information that your child submitted.
+RIGHT TO DELETION, CORRECTION AND RETRIEVAL We permit you to delete, correct and export information you have provided to us, subject to the conditions of our [Customer Service Agreement](https://www.worketc.com/service_agreement/) and the relevant Data Protection Laws (EU) as set out in our [GDPR Guidelines.](https://www.worketc.com/privacy_policy/gdpr/)
+
+RETENTION. We retain Personal Data for as long as we provide the Services to you or your account remains open. However, we may keep some data after your account is closed or you cease using the Service, as required by law, audit compliance, regulatory requirements, security protocols where used to help prevent abuse or fraud, resolve disputes, enforce our Customer Terms, inform about WORKetc changes or updates you may be interested in or to fulfil future requests from you.  Where none of the above obligations no longer apply, your data will be securely destroyed within 12 months of your account being closed.
+
+We may retain de-personalised/anonymized information after your account has been closed.
+
+APPLICABLE DATA PROTECTION LAW  
+For the purpose of the General Data Protection Regulation (EU) 2016/679, the data controller is WORKetc Pty Ltd, a proprietary limited company registered in Australia with number 06418281 whose registered office is at Level 8, 99 Elizabeth St, SYDNEY NSW.  For more information on GDPR and how WORKetc addresses these regulations, [read here](https://www.worketc.com/privacy_policy/gdpr/).
+
+EU CUSTOMERS / CUSTOMERS WITH EU OPERATIONS ONLY – WHERE WE STORE YOUR DATA  
+By default, all Customer Data, from Customers located in the EU, is stored within the EU or UK via our service provider, Amazon Web Services.  From time to time, the Personal Data that we collect from you may be transferred to, and stored at, a destination outside the European Union and European Economic Zone. It may also be processed by staff operating outside the EU who work for us or for one of partner providers. Such staff may be engaged in providing customer support services, or engaged in other related activities. When you accept the [Terms of Service](https://www.worketc.com/service_agreement/) and complete the action of submitting your Personal Data, you agree to this transfer, storing or processing outside of the EU. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and the guidelines set out by GDPR where applicable.
+
+When your personal data is moved or accessed outside of the EU, we take all reasonable measures to help ensure your information is only transferred in full accordance with the GDPR applicable EU data protection law. Note that this will mean your information will only be transferred to a country that provides an adequate level of protection, currently being United States, United Kingdom or Australia or where WORKetc maintains operations and only where the recipient is bound by standard contractual clause according to conditions provided by the European Commission within its stated model clauses.
 
 HOW WE MODIFY THIS PRIVACY POLICY
 
@@ -150,21 +157,22 @@ CONTACT US
 If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business at:
 
 Australia – Asia – Pacific – Rest of World  
-WORK[etc] Pty Ltd  
-2/672 Old South Head Road  
-ROSE BAY NSW AUSTRALIA  
-Email:  support-at-worketc.com  
-Telephone: +1 949 470-1430  (USA)  
-Facsimile:  +61 2 8088 1293 (AUS)
+WORKetc Pty Ltd  
+Level 8, 99 Elizabeth St  
+SYDNEY NSW 2000  
+Email:  support@worketc.com  
+Telephone: 1300 857 860  (aus)
 
 USA – Canada  
-WORK[etc]  
+WORKetc  
 One Embarcadero Center  
 Suite# 500,  
-San Francisco, 94111
+San Francisco, 94111  
+Telephone:  (800) 322 7860 (usa)
 
 UK & Europe  
-WORK[etc]  
+WORKetc  
 86-90 Paul Street,  
 London EC2A 4NE  
-United Kingdom
+United Kingdom  
+Telephone: (0)20 3332 0860
