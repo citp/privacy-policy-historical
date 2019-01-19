@@ -1,80 +1,81 @@
-> *The following text is extracted and transformed from the labelsfashion.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labelsfashion.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119161012id_/https%3A//labelsfashion.com/privacy-policy) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Privacy Policy | LABELS
 
-[Home](https://www.hugedomains.com/) _ _ Privacy Policy
+###  Your privacy matters to us
 
-**What information do we collect?**
+The protection of your personal privacy is one of our highest priorities. In the following, we will provide you with detailed information on how we handle your data.
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+###  Collection, processing and use of personal data
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+You can visit our site without providing any personal details. Even when you visit us via newsletter links, we only store access data without any personal references such as:
 
-**What do we use your information for?**
+  * the name of your Internet service provider
+  * the site from which you visited us
+  * the name of the requested file
 
-Any of the information we collect from you may be used in one of the following ways: 
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+This data is analyzed solely for the purpose of improving our services and does not allow any conclusion as to your identity.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+We collect, store and process your data for the purpose of processing your order and for the possible subsequent processing of a warranty, as well as for promotional purposes.
 
-• To process transactions
+Personal data is collected if you notify us that you are willing for it to be collected during your order, when opening a customer account or when you register for the Newsletter. We pass on your personal data to service providers used by us to assist in fulfilling your order (haulage contractors, logistics experts, payment providers).
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+###  Email Marketing
 
-• To send periodic emails
+If you have subscribed separately for the Newsletter, your e-mail address will be used by our company for promotion purposes, until you unsubscribe. It is possible to cancel your registration at any time, without incurring any costs other than the transmission costs at your access provider's basic rates.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+If you subscribe to our newsletter we will require you to confirm this subscription by clicking a confirmation link, after which your subscription is acknowledged (double opt-in). You can unsubscribe at any time by clicking a link at the bottom of an email campaign.  
+We will delete all customer data of unconfirmed or unsubscribed subscriptions after keeping them for one month in retention.
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+###  Data Security
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+During the ordering process your payment data is transferred in encrypted form over the Internet. By means of technical and organisational procedures we secure our website and other systems against loss, destruction, amendment and dissemination of your data by unauthorised third parties. You should always keep your access data secret and close the browser window once you have ended your communication with us, in particular if you use your computer jointly with other users.
 
-**How do we protect your information?**
+###  Data privacy contact person
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+If you have any queries about the collection, processing or use of your personal data, would like information about your data, wish for your data to be corrected , blocked or deleted, or if you wish to revoke any consent granted to us, please contact our Data Protection Officer:
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+Labels BV  
+Mr Karl Dreissen
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+Putstraat 10-12  
+6131HL Sittard  
+The Netherlands  
+T: +31 (0)46 - 888 1237
 
-**Do we use cookies?**
+###  Data encryption
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+One of our highest priorities at Labels is the protection of personal data. Labels BV is committed to always to handling your personal data in accordance with the provisions of European Data Protection Law (GDPR).
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+Thanks to modern SSL (Secure Socket Layer) encryption technology, your personal data from the order form, such as name, address etc. can be stored safely on our secure server.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+SSL encryption is one of the safest and most modern processes anywhere on the Web and therefore meets the highest security requirements, such as in the case of online banking.SSL offers triple protection:
 
-**Do we disclose any information to outside parties?**
+  * your data is transferred in an encrypted form;
+  * the form can only be returned to the server it was opened from;
+  * checks are carried out to ensure that the data reaches the recipient complete and without alteration.
 
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
 
-**Online Privacy Policy Only**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+  
+Your data is therefore kept secure from access by outsiders. This is how you can be sure that your data is safe with us:
 
-**Terms and Conditions**
+  * with the locked key symbol in the browser bar
+  * with the additional "s" (for secure) at the start of the URL (address) in https://
 
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
 
-**Your Consent**
 
-By using our site, you consent to our web site privacy policy. 
+  
+With SSL our website offers the best possible protection from all types of access to your personal data. Click on the certificate logo, to see the validity of the security certificate for yourself.
 
-**Changes to our Privacy Policy**
+###  Use of Google Analytics
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+This website uses Google Analytics, a web analysis service of Google Inc. (Google). Google Analytics uses what are known as cookies; text files, which are stored on your computer and facilitate the analysis of your use of this website. The data generated by the cookie concerning your use of this website is generally transmitted to a Google server in the USA and stored there. In the event that IP anonymization is activated on this website, your IP address will, however, within European Union Member States or in other states which are contracting parties to the Agreement on the European Economic Area, be compressed by Google prior to this. Only in exceptional cases will the full IP address be transmitted to a Google server in the USA and compressed there.
 
-This policy was last modified on 1/10/2012 
+Google will use this data on behalf of the operator of this website to assess your use of the website, to collate reports on website activity and to perform further services connected to the use of the website and of the Internet with regard to the website operator. The IP address transmitted from your browser for the purposes of Google Analytics will not be merged by Google with any other data.
 
-**Contacting Us**
+Your browser settings allow you to prevent the use of cookies, however, we would advise you that this could result in your being unable to access the range of functions on this website in full. In addition, you can prevent Google from logging the data generated by the cookie and related to your use of the website (including your IP address) and from processing this data by downloading and installing the browser plug-in available at http://tools.google.com/dlpage/gaoptout?hl=de
 
-If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
-
-HugeDomains.com
+We use Google Analytics with the extension, _anonymizeIp(). This compresses the IP addresses collected by Google. These procedures are intended to prevent the merging of Google IP addresses with personal data.
