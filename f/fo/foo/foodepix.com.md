@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodepix.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119094325id_/http%3A//www.foodepix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodepix.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119102754id_/http%3A//www.foodepix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FoodEpix
 
