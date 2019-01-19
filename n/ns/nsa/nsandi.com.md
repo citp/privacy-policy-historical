@@ -1,253 +1,214 @@
-> *The following text is extracted and transformed from the nsandi.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206010623id_/https%3A//www.nsandi.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsandi.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119122237id_/https%3A//www.nsandi.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | NS&I
 
-When you apply to save or invest with us, we ask you to give us some of your personal details so that we can open and administer your account. We also collect your personal details at other times, for example when you contact us. We are committed to keeping all the information we hold about you secure, private and confidential. 
+Here we summarise the lawful basis on which we collect and use your information and outline the rights you have under current data protection legislation. 
 
-This page explains why we need to collect your personal details and what we do with them. It also sets out the legal basis on which we collect and use your information and outlines the rights you have under current data protection legislation. 
+* You have a range of data protection rights in relation to the information we hold about you. You can exercise any of these rights by contacting us. Note that not all of the rights are absolute – some of them depend on which lawful basis we are using to process your information. 
 
-If you are a financial adviser please go to: 
+####  Right to be informed 
 
-[Adviser privacy notice](https://www.nsandi-adviser.com/privacy-notice)
+You have the ’right to be informed’ about the processing of your personal data, in addition to other information necessary for how we process your data in a fair and transparent way. We use this privacy notice, as the main way of providing you with ‘privacy information’. We provide you with this information at the time we collect your data or, if we obtain your data from another source (for example where a grandparent completes a Premium Bonds application form for a child and gives details of the child’s parent), then we will provide this privacy information within one month, usually as part of a ‘welcome pack’. You can contact us if you need further information. This right to be informed applies to data processing for any of the purposes listed in the lawful bases section. 
 
-If you are a prospective NS&I employee please go to: 
+In some circumstances, we do not have to provide this information. For example where: 
 
-[Prospective NS&I employee privacy notice](https://nsandi-corporate.com/about-nsi/fuelling-finance-with-purpose/current-vacancies/)
+  * you already have the privacy information and nothing has changed 
+  * giving you the privacy information is impossible or would require ‘disproportionate effort’, or 
+  * giving you the privacy information would make it impossible to use your data or seriously damage the reasons for its use. 
 
-We’ll ask for your full name (title, forename(s) and surname), date of birth, postal address, phone number, email address and nominated bank account details. We ask for your bank details so that we can make payments to you, for example when you make a withdrawal or win a Premium Bonds prize. When you’re making a deposit by debit card, we’ll need your card details. And when making a cheque deposit to open an account, we’ll ask for details of the account on which the cheque is drawn. 
 
-We need this personal information so that we can provide you with the accounts or services that you have asked for. We also need some of this information to meet our legal obligation to check your identity, address and source of funds. If you don't provide it, then we won't be able to provide you with our accounts or services. 
 
-  * We’ll collect them when you apply to open an account through our website, by phone or by completing a form and posting it to us. We’ll also collect some of your details whenever you make a transaction or contact us about your accounts. This can be online (including live chat), by phone, by post, by email or secure message, through social media, or when you use our apps or an Open Banking service. 
+#### Right of access 
 
+You have a right to receive a copy of your personal information, this is known as a ‘right of access’. If you are concerned about the way NS&I collects and uses your personal data, you can make a data subject access request and we will send you a copy of the information we hold about you. This is another way for you to be informed of which personal data we hold and how we use it, in addition to this privacy notice. 
 
+When we reply, you will receive: 
 
-  * Our website, and the emails we send out, use cookies and other tracking technologies to collect information. When you visit our website, you can choose to decline cookies, but our online application forms and other processes need to use cookies to work properly. You can find out more about our cookie policy at nsandi.com/cookies 
+  * confirmation that we are processing your personal data; 
+  * a copy of your personal data; and 
+  * other supplementary information (largely corresponding to the information that you may find in our privacy notice). 
 
-[nsandi.com/cookies](https://web.archive.org/cookies)
 
-When you use our website or apps, we collect information such as the browser you are using and the date, time and your IP address (a label used to identify your device on the internet). 
 
-We may use social media, for example Twitter and Facebook, to communicate with you. We may also use posts on social media to find out how people view our products and services. 
+You can make a subject access request verbally or in writing. The Information Commissioner’s Office recommends that if you make your request verbally, you should follow it up in writing to provide a clear trail of correspondence and help explain what information you are asking for. 
 
+If you want to make a subject access request another way, for example, through web chat or secure message, and do not use the form, you will need to give us the same details. 
 
+If you want to make a subject access request via social media your request will be public and we do not recommend its use. If we are unable to identify you in this way, you will still need to send us the same details that the form requires, preferably by a more secure channel. 
 
-  * When you give us details about someone else, for example when you apply to open a joint account, you must have their agreement to do so. 
+This right applies to data processing for any of the purposes listed in the lawful bases section, but in some cases (for example market research or statistical data) where we are not able to identify you, we would not be able to provide you with that information. 
 
+You can download and print a data subject access request form or contact us with all the information we ask for on the form. 
 
-
-  * The main reasons we use your information are to open and administer your account(s), process your deposits and withdrawals, and keep you up to date with information about your account(s). 
-
-We may also use your information to: 
-
-    * meet our legal obligation to check your identity, address and source of funds 
-    * prevent or detect fraud or other crime 
-    * develop, test and improve our products, systems and services 
-    * invite you to take part in market research and surveys 
-    * carry out anonymous statistical analysis (we won’t be able to identify individuals when we do this) 
-    * create customer-type profiles to help us improve existing products and services, and develop new ones 
-    * send you marketing messages about NS&I accounts which may be tailored to your circumstances (unless you have opted out) 
-    * run competitions, events and promotional activities 
-
-When you call us, we may monitor or record your call for training or quality assurance. We also record calls so that we have a record of your consent in certain circumstances, for example when you agree to allow us to talk to a member of your family on your behalf. 
-
-
-
-  * We use selected organisations to help us deliver the service we provide to you. We may share your personal information with: 
-
-    * **our service providers** who provide data processing services to us, for example helping to administer your account and investments, printing and sending warrants and statements to you, and sending you emails about your accounts. We only share the information that's necessary for them to provide their services 
-    * **credit reference agencies** to check your identity, address and source of funds, and to prevent fraud 
-
-We may also share your information with **government bodies, law enforcement agencies, courts or other third parties** to comply with our legal obligations or lawful disclosure requests, for example. 
-
-You can also ask us to share your information with anyone else, for example a financial adviser. 
-
-
-
-  * We keep your personal information where we have an ongoing legitimate or lawful need to do so. For example, we keep some records for audit purposes for up to seven years after you have closed an account with us. 
-
-When we no longer have a legitimate or lawful need to keep your personal information, we will delete it. 
-
-
-
-  * We keep records of Premium Bonds holdings for longer than seven years. This is to allow us to reallocate prizes where we discover that one or more prizes paid out were not valid. This can happen, for example, when a Bond holder dies but no one tells us. 
-
-Each month we publish the winning Premium Bonds numbers on our website, together with the value of the prize, the value of the holding, the date the Bond was bought and the area where the Bond holder lives. We do not publish the names or other details of Premium Bonds winners. 
-
-
-
-  * We may sometimes send your information outside Europe to process transactions or correspondence. These countries may have data protection laws that are different to those in Europe, which may be less protective. In these cases we will ensure that your information is processed in line with data protection law in Europe. 
-
-For example, our operational partner carries out some processing for us in India. They have in place ‘Binding Corporate Rules’ (contractual obligations) which require them to process your information in line with European data protection law. If you want to see these rules, please contact us. 
-
-
-
-  * We will give you information about your accounts and provide regular statements. If we need to get in touch, we will call you, write to you by email or letter, send you a text message, or contact you through our online service. 
-
-In the event of a data breach that could lead to a high risk to your rights and freedoms, for example the risk of financial loss, we will let you know as soon as we reasonably can. 
-
-To make sure you can receive information and communications from us, please make sure you tell us whenever you change your name, address, phone number, email address or nominated bank account. Giving us your most up to date details will also help protect your account(s) by making sure any information we send you doesn’t fall into the wrong hands. 
-
-You can update your details online or by contacting us. 
-
-
-
-  * From time to time we may update this privacy notice. If we make a significant change to how we use your information, we will let you know in advance. 
-
-
-
-  * If you have a question, sometimes it’s not convenient to call. That’s one reason we’ve introduced web chat – our online instant chat service. When using our web chat, we may ask you to provide personal information such as your name, address, date of birth, email address and other information such as the reason for the chat. We will also collect your IP address automatically. We ask for this information to help us identify you and give you the best service, and for training and quality purposes. We may also invite you to take part in an optional short survey after your web chat has finished. 
-
-We are committed to keeping your personal information secure and confidential. We won’t share your personal information from web chat with any third parties or use it for marketing purposes. We will not transfer any of your personal information from web chat outside the European Economic Area. 
-
-A transcript of each chat session is created automatically. You can download a copy of the transcript at any time during the chat. We keep a copy of the transcript for up to seven years, in line with our data retention policy. 
-
-
-
-
-Here we summarise the lawful basis on which we collect and use your information and outline the rights you have under current data protection legislation 
-
-  * We are allowed to use your personal information for a range of reasons, called ‘lawful bases’. These are: 
-
-####  Contract 
-
-We need to collect and use your personal information to be able to provide you with the savings account(s) that you want to open and use. We cannot provide the service if you don’t give us the information we ask for. 
-
-####  Legal obligation 
-
-We may need to use your personal information to meet our legal obligations, for example if we need to check your identity, address and source of funds to comply with the Money Laundering Regulations. 
-
-####  Legitimate interests 
-
-We have a legitimate interest in promoting our accounts and services. For this reason, we may use your personal details to, for example, send you marketing information about our own accounts or services that we think you may be interested in. We may also invite you to take part in research or surveys to help us improve the products and services that we offer. You can ask us to stop sending you marketing and/or research invitations at any time. 
-
-####  Consent 
-
-We only rely on consent as a lawful basis for using your personal information in a few limited circumstances, for example if you ask us to share your account information with an authorised third party who offers an Open Banking service; or if you want us to share information with your financial adviser or nominated representative. You can withdraw your consent at any time, and we make it as easy to withdraw consent as it is to give it. 
-
-####  Public task 
-
-There are times when we need to share information with other government bodies to allow them to meet their legal obligations, for example where HM Revenue & Customs need to know how much gross interest you have earned during a tax year. 
-
-
-
-  * You have a range of data protection rights in relation to the information we hold about you. You can exercise any of these rights by contacting us. Note that not all of the rights are absolute – some of them depend on which lawful basis we are using to process your information. 
-
-####  Right of access 
-
-You can ask us to provide you with a copy of the information we hold about you by making a ‘Data Subject Access Request’. You can download and print a form from nsandi.com/data-request or contact us with all information asked for on the form. 
-
-[nsandi.com/data-request](https://web.archive.org/data-request)
+[Download a data subject access request form](https://web.archive.org/data-request)
 
 [ Call us ](https://web.archive.org/how-do-i-get-touch)
 
 ####  Right to data portability 
 
+Where we process your personal information by automated means for contractual purposes, or with your consent, you can ask us to provide a copy of the information we hold about you in a structured, machine readable format (for example a CSV file). You also have the right to ask us to transfer your data to another organisation but only where this is ‘technically feasible’. This is known as the ‘right to data portability’. 
+
+This right only applies to personal data:
+
+  * held electronically, and 
+  * that you have provided to us. 
+
+
+
+Data you have provided does not just mean information you have typed in, such as a username or email address, but may also include data we hold in relation to your use of an account or service. This may include: 
+
+  * website or search usage history 
+  * payments in or out of a savings account. 
+
+
+
+Also, under ‘Open Banking’ you may choose to share some of the transaction data relating to some of our accounts with another banking service provider. 
+
+[Open Banking](https://www.openbanking.org.uk/)
+
 Where we process your personal information by automated means for contractual purposes, or with your consent, you can ask us to provide the information we hold about you in a structured, machine readable format (for example a CSV file). 
 
 ####  Right to rectification 
 
-If the information we hold about you is incorrect, out of date or incomplete, please let us know and we will put it right. 
+You have the ‘right to rectification’ of your personal information. You have the right to have information we hold about you corrected where it is incorrect or out of date, and completed where it is incomplete. We occasionally contact customers to improve the quality and completeness of the data we hold, but we rely on you to let us know if your circumstances or details have changed (for example if you change your name or address). 
 
-####  Right to restrict processing 
+If the information we hold about you is incorrect, out of date or incomplete, please let us know and we will put it right. You should: 
 
-If you think the information we hold about you isn’t accurate, you can ask us not to process it until we have corrected any errors or verified that the information is accurate. 
+  * state clearly what you believe is inaccurate or incomplete 
+  * explain how we should correct it, and 
+  * where available, provide evidence of the inaccuracies. 
+
+
+
+While this right applies to data processing for any of the purposes listed in the lawful bases section, there may be some cases where we would not need to rectify your data (for example if we test our systems or services using ‘scrambled’ data to partially obscure your identity, that scrambling is intentional and will not affect the data we hold as part of your customer record). If we are satisfied that the personal data we hold are accurate, we will tell you that we will not be amending the data. We will explain our decision, and let you know of your right to make a complaint to us. You may then complain to the ICO or to seek to enforce your right through a judicial remedy. 
+
+There are some cases where rectification would not be possible, for example where we have anonymised your personal data for market research purposes or statistical analysis. In these cases it would not be possible to identify your data, so it would be impossible to verify its accuracy or restrict its use or delete it. 
+
+You also have the ‘right to be notified‘ about any rectification of your personal data or restriction of its processing with regard to any organisations if and when we have shared your information with them. You also have the right to be informed of who we share your information with and why. Much of this information is provided in this privacy notice and is again available through a data subject access request (see ‘Right of access’, above) 
+
+#### Right to restrict processing 
+
+You can limit the way NS&I uses your personal data if you are concerned about the accuracy of the data or how it is being used. If necessary, you can also stop NS&I deleting your data. Together, these opportunities are known as your ‘right to restriction’. 
+
+Like the right to rectification, this right applies to data processing for any of the purposes listed in the lawful bases section, unless we have anonymised your personal data (for example, for market research purposes or statistical analysis). In these cases it would not be possible to identify your data in order to restrict its use. 
+
+You can ask us to temporarily restrict the use of your data when we are considering: 
+
+  * a challenge you have made concerning the accuracy of the data we hold, or 
+  * an objection you have made to the use of your data. 
+
+
+
+You may also ask us to restrict the use of your data rather than delete it if: 
+
+  * we have processed your data unfairly or unlawfully but you do not want it deleted, or 
+  * we no longer need your data but you want us to keep it to create, exercise or defend a legal claim. 
+
+
+
+There are some cases where rectification would not be necessary, for example: 
+
+  * we have your consent to continue processing your data 
+  * the data are needed for legal claims 
+  * the data are needed to protect another person’s rights, or 
+  * its use is for reasons of important public interest. 
+
+
 
 ####  Right to erasure 
 
-You can ask us to delete your personal information when: 
+You can, in some circumstances, ask us to delete personal data that we hold about you. This is known as the ‘right to erasure’, also known as the ‘right to be forgotten’. 
 
-    * we no longer need it 
-    * you have given us consent and you later withdraw it 
-    * you have objected to us processing your information and we have no lawful basis to do so 
-    * we are legally obliged to delete it 
+This right applies to data processing for any of the purposes listed in the lawful bases section, where: 
 
-####  Right to object 
+  * we no longer need the personal data for the purposes for which we originally collected it, or 
+  * the processing is based on your consent and you have withdrawn your consent, or 
+  * you have objected to the processing and we do not have any overriding legitimate reason to continue the processing, or 
+  * we are processing your personal data for direct marketing purposes and you object to that processing, or 
+  * we have unlawfully processed the personal data, or 
+  * we have to erase the personal data to comply with a legal obligation in UK law. 
 
-Where we have a legitimate interest or a public interest in processing your personal information (see Lawful bases), you can object to this. 
 
-####  Right not to be subject to automated decision-making 
+
+Most of our processing is governed by contractual, statutory or regulatory purposes, and these purposes often dictate how long we need to keep your personal data for. Please see our ‘How long do you keep my information for’ section of this privacy notice. 
+
+The right to erasure does not apply if we need to process your data for one of the following reasons: 
+
+  * to comply with the Freedom of Information Act 2000; 
+  * when we are legally obliged to keep hold of your data; 
+  * for the performance of a task carried out in the public interest or in the exercise of official authority; 
+  * when erasing your data would prejudice scientific or historical research, or archiving that is in the public interest; or 
+  * when keeping your data is necessary for establishing, exercising or defending legal claims. 
+
+
+
+There are some cases where we would be unable to comply with your erasure request, for example, where we have anonymised your personal data for market research or statistical analysis. In these cases, it would not be possible to identify your data, and therefore impossible to comply with your right to erasure. 
+
+If, having considered your request, we decide not to erase your data, we will still reply to you and explain why not, and let you know about your right to make a complaint to us. You may then complain to the ICO or seek to enforce your right through a judicial remedy. 
+
+#### Right to object 
+
+Where we are processing your personal information for the performance of a task carried out in the public interest or in the exercise of our official authority or where we have a legitimate interest in doing so, you can object to the processing, based on your particular situation, on the grounds that it is causing you damage or distress (for example financial loss), or where it impacts on your fundamental rights and freedoms, and you’d like us to stop. You must clearly state the specific reasons for your objection, based on your particular situation. 
+
+If we agree to your objection, we will stop using your data for that purpose unless we can give strong and legitimate reasons to continue using your data despite your objections. You have an absolute right to object to us using your data for direct marketing (in other words, trying to sell things to you). This means we will stop using the data for this purpose without seeking a legitimate reason to continue. 
+
+Before objecting you will need to know which lawful basis we are relying on (see the lawful bases section). This is because you can only object to processing when we are using your data: 
+
+  * for a task carried out in the public interest 
+  * for a task carried out in the exercise of our official authority 
+  * for our legitimate interests 
+  * for scientific or historical research, or statistical purposes, or 
+  * for direct marketing. 
+
+
+
+Generally, the reason we process your personal data will determine whether or not you can object. However, there are some cases where we would be unable to comply with your objection, for example where we have anonymised your personal data for market research or statistical analysis. In these cases it would not be possible to identify your data, so it would be impossible to comply with your right to object. 
+
+We can refuse to comply with your objection if we can prove we have a strong reason to continue processing your data that overrides your objection, or where the use of your data is for a legal claim. 
+
+#### Right not to be subject to automated decision-making 
 
 Some of our processes are partly or wholly automated, but we don’t make decisions that have a significant or legal effect without human involvement. For example, we may check your evidence of identity electronically, but if this is unsuccessful we will write to you to ask for documentary evidence instead. 
 
-####  Right to lodge a complaint with a supervisory authority 
+When decisions are made about you without people being involved, this is called ‘automated individual decision-making or ‘automated processing’ for short and includes some profiling. 
 
-If you have a complaint about the way we have used your information, please contact us first and we will do our best to put things right for you. If you’re not happy with our response, you can escalate your complaint to the Information Commissioner’s Office (ICO) – see Useful contacts for their contact details. 
+You have the right not to be subject to a decision that is based solely on automated processing if the decision affects your legal rights or other equally important matters (for example automatic refusal of an online credit application, and e-recruiting practices without human intervention). 
 
+We do not make decisions based solely on automated processing. Where automated decisions may be made, these are usually: 
 
-
-
-NS&I is the data controller of the information we hold about you. If you have any questions or concerns about how we process your information, you can [contact us](https://web.archive.org/how-do-i-get-touch) or write to: 
-
-Data Protection Officer   
-NS&I   
-1 Drummond Gate   
-London   
-SW1V 2QX 
-
-  * You can find out more about data protection and the rights you have by contacting the independent Information Commissioner’s Office: 
-
-[Information Commissioner’s Office](https://ico.org.uk/)
-
-Wycliffe House   
-Water Lane   
-Wilmslow   
-SK9 5AF 
-
-0303 123 1113 
+  * necessary for the purposes of a contract between you and NS&I 
+  * authorised by law (for example to prevent fraud or tax evasion), or 
+  * based on your explicit consent. 
 
 
 
+In these cases, there is always some form of human intervention at the decision stage and we offer the following additional rights: 
 
-  * The General Data Protection Regulations (GDPR) is a set of regulations that changes how your personal information can be used, giving you more control over your data. It also ensures that organisations protect your personal information better. GDPR replaces the existing Data Protection Act, and came into force in the UK on 25 May 2018. 
-
-
-
-  * Yes, it was. We have always been committed to keeping your personal information safe, secure and confidential, and we have complied with the Data Protection Act 1998. We now comply with the new GDPR, which gives you even more control over your information. 
+  * to understand the reasons behind decisions made about you and the possible consequences of the decisions, and 
+  * to object to profiling in certain situations, including for direct marketing. 
 
 
 
-  * You already have a number of rights relating to the information we hold about you. The GDPR is designed to enhance those rights and make it easier for you to access your data and exercise your rights. 
+Nevertheless, we still comply with the GDPR principles and we have explained our lawful bases for processing your personal data. We also have processes in place so that you can exercise your rights, as explained in this privacy notice. 
 
+#### Right to lodge a complaint with a supervisory authority 
 
+If you have a complaint about the way we have used your information, please contact us first and we will do our best to put things right for you. If you’re not happy with our response, you can escalate your complaint to the Information Commissioner’s Office (ICO) – see the end of this privacy notice for their contact details. 
 
-  * Even though the UK is planning to leave the EU, the GDPR rules are being written into UK law. This will allow UK companies to continue to do business within the EU. 
+#### Additional rights 
 
+You also have the right to a judicial review where you consider that your rights under the data protection legislation have been infringed, or as a result of us processing your personal data in non-compliance with the legislation. 
 
+Where you have suffered material or non-material damage as a result of an infringement of the data protection legislation, you have the right to receive compensation from us for the damage suffered. 
 
-  * No, you will continue to receive all your statements and other communications about your account(s) in the same way. 
+Additionally, you have the right to representation, to mandate a not-for-profit body, organisation or association to lodge a complaint with NS&I, or with the ICO, to seek a judicial review and receive compensation on your behalf where allowed for by the Data Protection Act 2018. 
 
+#### Where we can refuse 
 
+We can refuse to comply with your data subject rights request if we can prove we have a strong reason to continue processing your data that overrides your objection, or where the use of your data is for a legal claim, or where the data has been anonymised or scrambled and we are not be able to identify it as your data. We can also refuse to comply if we believe that your request is ‘manifestly unfounded or excessive’ or repetitive in nature. In all these cases, we will explain our decision, and let you know of your right to make a complaint to us. You may then complain to the ICO or to seek to enforce your right through a judicial remedy. 
 
-  * The printed/downloadable version gives customers the essential information whereas the online version goes into more detail with some additional information for those customers who want to know more about the changes. 
+Of course, we cannot refuse your request to stop sending you marketing communications. 
 
+#### How to exercise your rights 
 
-
-  * We may occasionally contact you to send you marketing information about own accounts or investments that we think you may be interested in. We may send this to you by post, by phone, by email and online. By providing us with your marketing preferences we will know how best to send this information to you. Or you can choose to receive no marketing from us at all. You can change your marketing preferences at any time online or by contacting us. 
-
-
-
-  * Online marketing means we may show you promotional messages that are tailored to you when you are logged in to our website. You can opt out of online marketing, but please note that you may still see online marketing messages – they just won’t be tailored to you specifically. 
-
-
-
-  * No. If you have already told us about your preferences, you don’t have to do anything. You can always change them later if you want to at any time, either online or by contacting us. 
-
-
-
-  * If you are registered for our online and phone service, you can amend your marketing preferences by logging in and going to the ‘Your details’ section. You can also do it by calling us. If you’re not registered, you’ll need to write to us – please make sure you include your name, address, NS&I number and/or account number. 
-
-
-
-  * We use information about our customers and how they use our accounts and services to create profiles of different types of customers. This helps us to better understand our customers and their savings needs. 
-
-
-
-  * We may sometimes use your personal details to test our systems, for example when we carry out a change or upgrade to our systems and processes. This testing is to make sure the change works as it should. 
-
-
-
-  * From time to time we may invite customers to take part in surveys and other research to help us understand how best to meet our customers’ needs, and to find out what our customers think about our accounts and services. If you don’t want to receive any market research invitations, or you only want to receive them a certain way (e.g. email), just let us know. 
-
-
-
+You can do so at any time by contacting us using the details shown below. 
