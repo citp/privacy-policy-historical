@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bangladeshresult.com privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823020023id_/https%3A//bangladeshresult.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangladeshresult.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119090337id_/https%3A//bangladeshresult.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bangladesh Result
+# Privacy Policy | Bangladesh Result
 
 Updated on: 25-August-2014
 
@@ -10,7 +10,7 @@ Updated on: 25-August-2014
 
   * Google Analytics  
 Personal Data: Cookie and Usage Data  
-Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of [Bangladeshresult.com](http://bangladeshresult.com/ "bangladeshresult.com"), to prepare reports on its activities and share them with other Google services.  
+Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of [Bangladeshresult.com](https://bangladeshresult.com/ "bangladeshresult.com"), to prepare reports on its activities and share them with other Google services.  
 Google may use the data collected to contextualize and personalize the ads of its own advertising network.Personal data collected: Cookie and Usage Data. Place of processing: USA. Find Google’s [privacy policy here](http://www.google.com/intl/en/policies/privacy/ "privacy").
   * You can opt out by clicking [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
 
@@ -18,7 +18,7 @@ Google may use the data collected to contextualize and personalize the ads of it
 
 ## Adsense
 
-  * Google AdSense is an advertising service provided by Google. [Bangladeshresult.com](http://bangladeshresult.com/ "bangladeshresult") uses the “Doubleclick” Cookie, which tracks the use of [Bangladeshresult.com](http://bangladeshresult.com/ "bangladeshresult") and user behavior concerning ads, products and the services we offer.  
+  * Google AdSense is an advertising service provided by Google. [Bangladeshresult.com](https://bangladeshresult.com/ "bangladeshresult") uses the “Doubleclick” Cookie, which tracks the use of [Bangladeshresult.com](https://bangladeshresult.com/ "bangladeshresult") and user behavior concerning ads, products and the services we offer.  
 Personal Data collected: Cookie and Usage Data. Place of processing: USA. You can find Adsense [Privacy Policy](http://www.google.com/policies/privacy/ads/) here.
   * You may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout?hl=en](http://www.google.com/ads/preferences/html/blocked-cookies.html).
 
@@ -54,11 +54,11 @@ This online privacy policy applies only to information collected through our web
 
 ## **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms and Conditions](http://bangladeshresult.com/terms-and-conditions/ "terms-and-conditions")
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms and Conditions](https://bangladeshresult.com/terms-and-conditions/ "terms-and-conditions")
 
 ### **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://bangladeshresult.com/privacy-policy/ "privacy-policy").
+By using our site, you consent to our [websites privacy policy](https://bangladeshresult.com/privacy-policy/ "privacy-policy").
 
 ### **Changes to our Privacy Policy**
 
@@ -66,4 +66,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ## **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](http://bangladeshresult.com/contact/ "Contact").
+If there are any questions regarding this privacy policy you may [contact us](https://bangladeshresult.com/contact/ "Contact").
