@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templateflip.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623205112id_/https%3A//templateflip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templateflip.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119121432id_/https%3A//templateflip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TemplateFlip
 
@@ -20,7 +20,7 @@ We use cookies and web storage to store information about visitors preferences, 
 
 ### DoubleClick DART Cookie
 
-Google, as a third party vendor, uses cookies to serve ads to users on TemplateFlip.com based on their visit to TemplateFlip.com and other sites on the Internet. You may opt out of these cookies by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+Google, as a third party vendor, uses cookies to serve ads to users on TemplateFlip.com based on their visit to TemplateFlip.com and other sites on the Internet. You may opt out of these cookies by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: [Google AdSense](https://www.google.com/policies/technologies/partner-sites/)
 
