@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedity.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812044558id_/https%3A//feedity.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedity.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119032316id_/https%3A//feedity.com/privacy.aspx) for the most accurate reproduction.*
 
 # Feedity Privacy Policy - RSS Feed Data and Security Policy
 
@@ -110,4 +110,4 @@ We may update this privacy policy from time to time in order to reflect, for exa
 
 **Contact Us**
 
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [info@feedity.com](mailto:info@feedity.com) or through our online [contact form](https://web.archive.org/web/20180812044558id_/https%3A//feedity.com/contact.aspx).
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [info@feedity.com](mailto:info@feedity.com) or through our online [contact form](https://web.archive.org/web/20190119032316id_/https%3A//feedity.com/contact.aspx).
