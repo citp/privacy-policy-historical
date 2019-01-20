@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startfitness.co.uk privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713120635id_/https%3A//www.startfitness.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startfitness.co.uk privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120064315id_/https%3A//www.startfitness.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | Start Fitness
 
@@ -15,7 +15,7 @@ NE23 1WG
 **Vat No:** GB157110927
 
 Telephone: 08448488803  
-Email: customerservices@startfitness.co.uk
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Our trading styles are:
 
@@ -77,7 +77,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at customerservices@startfitness.co.uk
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 
 
