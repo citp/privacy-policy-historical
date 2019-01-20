@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arvig.com privacy policy that was archived on 2018-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180726132534id_/https%3A//www.arvigbusiness.com/wp-content/uploads/Arvig_PrivacyPolicy2018.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvig.com privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120061947id_/https%3A//www.arvigbusiness.com/wp-content/uploads/Arvig_PrivacyPolicy2018.pdf) for the most accurate reproduction.*
 
 # Arvig
 
