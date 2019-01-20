@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winkgo.com privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015192913id_/http%3A//winkgo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winkgo.com privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120011456id_/https%3A//winkgo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Winkgo
 
@@ -136,6 +136,6 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please [contact us](mailto:contact@winkgo.com)
+If you have any questions about this Privacy Policy, please [contact us](https://winkgo.com/cdn-cgi/l/email-protection#4b2824253f2a283f0b3c2225202c2465282426)
 
 _Effective August 30, 2014_
