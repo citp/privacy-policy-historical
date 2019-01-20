@@ -1,36 +1,66 @@
-> *The following text is extracted and transformed from the livspace.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119110145id_/http%3A//www.livspace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livspace.com privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120013156id_/https%3A//www.livspace.com/privacy) for the most accurate reproduction.*
 
 # Livspace.com
 
-### 1\. WE TAKE PRIVACY SERIOUSLY
+#### Personal information
 
-We at livspace.com ("livspace," "we," "us," or "our") know that our customers ("you," "your," or "yourself") care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the www.livspace.com website and domain name, any other linked pages, content and any other services we offer from time to time in connection with any of the foregoing (collectively, the "Website"), you agree to the practices and policies set forth in this Privacy Policy, and you hereby acknowledge and consent to our collection and use of your information as described in this Privacy Policy. 
+“Personal information” is defined to include information that may be used to readily identify or contact you such as: name, address, PIN code, email address, phone number, order details, user records etc. that is otherwise not publicly available. 
 
-Our first promise to you is that we will not collect any information about you that we do not need to make your experience at livspace delightful and will always protect all information about you. We comply with the privacy laws in all regions that we operate in and do more to keep your information confidential. We do everything we reasonably can to protect your rights of privacy on systems and the Website controlled by us, but we are not liable for any unauthorised or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Website. You should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be different from ours. This privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this document periodically. 
+When you sign up on the Platform we collect personal information from (i) users who are interested in availing our services, (ii) design partners who offer their design services to Livspace customers (“ **Design Partners** ”), and (iii) service partners offering their services (“ **Service Partners** ”). 
 
-### 2\. WHAT WE COLLECT
+Personal information collected from Design Partners and Service Partners may be partially or completely accessible to users on of the Platform or those availing our services. Personal information from users availing our services is partially or completely available to relevant Design Partner(s), Service Partner(s) and employee(s) of Livspace on a need to know basis.
 
-When you register on livspace, we collect some information about you, to complete your profile on livspace. This may include some or all of the following: 
+All information disclosed by you shall be deemed to be disclosed willingly and without any coercion. No liability pertaining to the authenticity/ genuineness/ misrepresentation/ fraud/ negligence, etc. of the information disclosed shall lie on Livspace nor will Livspace in any way be responsible to verify any information obtained from you.
 
-  * Information about your personal identity such as gender, marital status, age, preferences, likes and dislikes etc.
-  * Your financial information such as your banking details and any information relating to your income and lifestyle levels.
-  * Your contact details such as your physical addresses, postal addresses, telephone numbers etc.
-  * In the case you connect with facebook (if so opted by you)  (a) publicly available information of you, likes and dislikes, etc. (b) Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history etc. We maintain this in encrypted form on secure servers. (c) Service Usage: Information about your navigation using our Services, for example the URLs of websites, which you visit and from which you request downloads. (d) Log information:Information such as your web request, IP address, browser type, browser language, date and time of request. (e) Transactional Information: Transactional history (other than banking details) about your e-commerce activities. (f) Correspondence Information: Content, information about your correspondents, and the destination/origin of communications between you and any other person using our Services, which include email communications, blog, chat room and discussion board communications, instant message communications, experts forum communications, faxmail communications, membership of mailing lists etc. (g) User IDs: Your usernames, passwords, email addresses and other security-related information used by you in relation to our Services. (h) Stored Information: Data either created by you or by a third party and which you wish to store on our servers such as image files, documents etc. 
+#### Personal information from social networking sites
+
+You may log into our Platform through your Facebook or Google account. If you do so, you must enter the email address and password that you use for your account. We will ask that you grant us permission to access and collect your Facebook basic information (this includes your name, profile picture, gender, networks, user IDs, list of friends, date of birth, email address, and any other information you have set to public on your Facebook account). If you allow us to have access to this information, then we will have access to this information even if you have chosen not to make that information public.
+
+We store the information that we receive from Facebook with other information that we collect from you or receive about you. Facebook controls the information it collects from you. For information about how Facebook may use and disclose your information, including any information you make public, please consult Facebook's privacy policy. We have no control over how any third party site uses or discloses the personal information it collects about you.
+
+#### Calls and text messages
+
+Livspace enables users to call and chat with the Design Partners, Service Partners through the Platform. As otherwise described in this policy, your contact information may be accessible to a Design Partner or Service Partner for the sole purpose of providing services. In addition, regarding the calls or chats, we collect information including the date and time of the call/chat message(s), and the content of the calls and chat messages in order to improve our customer service and quality of services. Livspace may also use this information for resolving disputes between you and Design Partners or Service Partners or other users, or for safety and security purposes, and for analytics.
+
+#### Age
+
+We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. By accessing and/or registering on the Platform, you have represented and warranted that you are either 18 years of age or using the Platform with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
+
+#### Refer a friend
+
+Livspace offers the opportunity to any user to share details of anyone who they think may be interested in Livspace or our services. This information is recorded and used only to communicate with the referee using mediums including phone calls and email, based on the details provided to Livspace. We believe that it is within the purview of the referrer to seek authorization to share the personal information of the referee. When the information is shared with Livspace, it is deemed that the authorization has already been obtained by the referrer.
+
+#### Communications
+
+During your interaction with Livspace, you may also participate in polls, surveys and feedback and personal information including call logs during such interactions will be collected. Further, when you communicate with us (via email, phone, texts, through the Platform or otherwise), we may maintain a record of your communication. When you use the Platform to communicate with others, we may collect and maintain a copy of those communications, in accordance with applicable law. Such information obtained from a user is gathered and utilized to ensure a greater experience for users and partners.
+
+#### Payment, billing and financial information
+
+When you create an account with Livspace and start (i) availing services from us, our Design Partners and or Service Partners (ii) offer your services as a Design Partner or Service Partner, you may be required to disclose information such as bank details, PAN card, Aadhaar card, credit card details, etc. in order for us to process your request.
+
+Additionally, Livspace may also collect information related to the manner and mode of payments usually adopted by you on the Platform, including details of your bank account, credit card and debit card. The financial information collected may vary in accordance to your interaction with the Platform and our Partners.
+
+#### Device and location information
+
+We collect information from your devices (computers, mobile phones, tablets, etc.), including information about how you interact with our services and information that allows us to recognize and associate your activity across devices and services. This information includes device specific identifiers and information such as location, IP address, cookie information, mobile device and advertising identifiers, browser version, operating system type and version, mobile network information, device settings, and software data. We may recognize your devices to provide you with personalized experiences and advertising across the devices you use. In addition, the information may also include your location. 
+
+#### Information from cookies and other tracking methods
+
+This Platform employs cookies, web beacons and other tracking technologies to speed your navigation of the Platform, recognize you and your access privileges, and track your Platform usage. These help us in Platform analytics to give you a better experience. The same may be used to evaluate the success of our advertising campaigns. This includes information, but is not limited to, tracking how frequently you visit our Platform and use our services, time spent on the Platform, pages visited, links clicked, etc.
+
+We may use third-party advertising companies to help us tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.
+
+#### Information from other sources
+
+These may include:
+
+  * Feedback including surveys and ratings
+  * Livspace business partners through which you create or access your Livspace account, such as payment providers, social media services, or apps or websites who use Livspace's APIs or whose API Livspace uses
+  * Financial services providers
+  * Marketing service providers
 
 
 
-We only collect your Personal Information to conduct our business and to enable us to deliver and improve our Services. We do not for any reason whatsoever sell your Personal Information to any third party or otherwise trade on it. 
+Livspace may combine the information collected from these sources with other information in its possession.
 
-### 3\. WE DO NOT SHARE YOUR INFORMATION
-
-We will only disclose your Personal Information in accordance with this Privacy Policy. If we want to use it for any other purpose, we will obtain your prior written consent. If you decline to submit personal information to us, then we will unfortunately not be in a position to provide the Services to you. Any of your information which you provide when you use certain Services and are to an open, public environment or forum including (without limitation) any blog, community or discussion board, is not confidential, does not constitute Personal Information, and is not subject to protection under Privacy Policy. Since such public environments are accessible by third parties, it is possible that third parties may collect and collate and use such information for their own purposes. You should accordingly be careful when deciding to share any of your Personal Information in such public environments. Information, which is disclosed publicly, is also shared with our affiliates, third party service providers, sponsors of competitions etc. unless expressly stated otherwise. We are not liable to you or any third party for any damages that you or any third party may suffer howsoever arising from your disclosure of Personal Information in any public environment. You accordingly disclose information in a public environment at your own risk. 
-
-### 4\. WHY WE NEED WHAT WE COLLECT
-
-We collect your Profiling and Account Information for the following reasons: (a) We need your identity details, contact details, banking information and account history to manage our relationship with you and provide Services to you. We may use this information for suggesting products and promotional offers and schemes. We will only disclose this information as provided below. (b) We use certain of your information in an aggregated form to compile statistical and demographical profiles for our business and marketing activities. We may disclose such information about you, provided that the information is in an aggregated form that is not capable of being used or interpreted in such a manner as to identify you. We collect and store your Service Usage and Transactional Information to: (a) determine and verify the Service Charges payable by you and to administer our relationship with you. (b) comply with any statutory or regulatory requirement. (c) compile statistical and demographical profiles about you for our business and marketing activities and to customise our Services to you. While we are entitled to use such information about you for our own internal business purposes without limitation, we will only disclose it in an aggregated form which is not capable of being used or interpreted in such a manner as to identify you; and (d) monitor your use of our Services for the purposes of ensuring compliance with our Terms of Service. We collect and store your Correspondence Information and Personal Identifiers to: (a) comply with our obligations under law; and (b) monitor your use of our Services in order to ensure your compliance with our Terms of Service. 
-
-### 5\. WHEN WE MAY NEED TO DISCLOSE YOUR INFORMATION
-
-If we are required to intercept, disclose, monitor and/or store your Personal Information: (a) by law (b) to conduct our business (c) to secure our systems and ensure the privacy of our users (d) to enforce our own rights, we will do so in the manner as prescribed by law. 
-
-Such interception, disclosure, monitoring and storage may take place without your knowledge. In that case, we will not be liable to you or any third party for any damages howsoever arising from such interception, disclosure, monitoring and storage. In order to ensure that all our Users comply with the Terms of Service, we may monitor your Personal Information to the extent that this may be required to determine compliance and/or to identify instances of non-compliance. To ensure that the security and integrity of our Services are safeguarded, we may monitor your Personal Information. This monitoring may include (without limitation) the filtering of incoming and outgoing electronic data messages to identify, limit and/or prevent the transmission of spam, viruses and/or unlawful, defamatory, obscene or otherwise undesirable material or content. We may under certain circumstances procure an element of the Services from a third party service provider. To the extent that it may be necessary, and solely for the purposes of providing the Service to you, you agree that we may disclose to such third party any of your Personal Information that may be necessary for the procurement of services from the third party. 
+By choosing to provide any and all of the aforesaid information to Us, you are giving Livspace permission to use and/or store such information consistent with this Privacy Policy. Further, Livspace shall be entitled to retain your Personal information for such duration as may be required for the purposes specified hereunder and shall be used us only in accordance with this Privacy Policy.
