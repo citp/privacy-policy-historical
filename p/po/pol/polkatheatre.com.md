@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polkatheatre.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910202356id_/https%3A//polkatheatre.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polkatheatre.com privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120040753id_/https%3A//polkatheatre.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Polka Theatre
 
