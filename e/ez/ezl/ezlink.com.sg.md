@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezlink.com.sg privacy policy that was archived on 2018-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180603024433id_/http%3A//www.ezlink.com.sg/contact-us/personal-data-protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezlink.com.sg privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120205215id_/https%3A//www.ezlink.com.sg/contact-us/personal-data-protection) for the most accurate reproduction.*
 
 # EZ-Link – Personal Data Protection
 
@@ -8,7 +8,7 @@
 
 This Privacy Policy serves to inform you of our practices on Personal Data management. You should read this Privacy Policy to know and understand the purposes for which we collect, use and disclose your Personal Data. It supplements any other consents which you may have previously provided to us on your Personal Data.
 
-From time to time, we may update this Privacy Policy to be consistent with our internal practices and to stay abreast with future developments in the industry and/ or changes in legal and regulatory requirements and as such through your interactions with us, you agree to be bound by the updated Privacy Policy, which is available on our website [http://www.ezlink.com.sg](http://www.ezlink.com.sg/)
+From time to time, we may update this Privacy Policy to be consistent with our internal practices and to stay abreast with future developments in the industry and/ or changes in legal and regulatory requirements and as such through your interactions with us, you agree to be bound by the updated Privacy Policy, which is available on our website [https://www.ezlink.com.sg](https://www.ezlink.com.sg/)
 
 _____________________________
 
