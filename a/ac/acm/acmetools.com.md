@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acmetools.com privacy policy that was archived on 2018-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180613010120id_/http%3A//www.acmetools.com/shop/tools/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acmetools.com privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120044154id_/https%3A//www.acmetools.com/shop/tools/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy │ Acme Tools
 
-Acme Tools respects your right to privacy and is committed to protecting our customer's personal information. This Privacy Policy details the following practices regarding information collection, use and disclosure practices for this Website (http://www.acmetools.com): 
+Acme Tools respects your right to privacy and is committed to protecting our customer's personal information. This Privacy Policy details the following practices regarding information collection, use and disclosure practices for this Website (https://www.acmetools.com): 
 
   1. What information does acmetools.com collect from you, where do we collect information from you and how do we use it?
   2. With whom do we share your information?
