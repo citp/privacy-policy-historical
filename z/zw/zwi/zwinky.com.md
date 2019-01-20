@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zwinky.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220111518id_/http%3A//info.zwinky.com/zwinkyinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zwinky.com privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120090839id_/http%3A//info.zwinky.com/zwinkyinfo/privacy.html) for the most accurate reproduction.*
 
 # Zwinky Privacy Policy
 
