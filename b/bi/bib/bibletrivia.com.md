@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bibletrivia.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119095410id_/http%3A//bibletrivia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bibletrivia.com privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120025445id_/http%3A//www.bibletrivia.com/privacy-policy) for the most accurate reproduction.*
 
 # Bible Trivia
 
@@ -116,5 +116,5 @@ If there are any questions regarding this privacy policy, you may contact us usi
 Bible Trivia  
 10428 Bluegrass Parkway, Suite 539  
 Louisville, KY 40299  
-[hello@bibletrivia.com](mailto:hello@bibletrivia.com)  
+[trivia@bibletrivia.com](mailto:trivia@bibletrivia.com)  
 
