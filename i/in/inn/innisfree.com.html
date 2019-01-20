@@ -1,42 +1,20 @@
-<!--The following is the downloaded HTML source of the innisfree.com privacy policy that was archived on 2017-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171214102440id_/http%3A//us.innisfree.com/innisfree-privacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the innisfree.com privacy policy that was archived on 2019-01-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190121000245id_/https%3A//us.innisfree.com/innisfree-privacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta charset="UTF-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://staticw2.yotpo.com/jROwHOHkMYUW9SFOSShJEtkr68XYxqirufTf8Eie/widget.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-99978313-1', 'auto');
-ga('send', 'pageview');
-</script>
-<script type="text/javascript">
-WebFontConfig = {
-google: { families: [ 'Lato:100,300,700,100italic,300italic:latin', 'Crete+Round:400,400italic:latin' ] }
-};
-(function() {
-var wf = document.createElement('script');
-wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-wf.type = 'text/javascript';
-wf.async = 'true';
-var s = document.getElementsByTagName('script')[0];
-s.parentNode.insertBefore(wf, s);
-})();
-</script>
 <title>Sites-InnisfreeUS-Site</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="/on/demandware.static/Sites-InnisfreeUS-Site/-/default/dw9ace4736/images/innisfree_favicon.png" rel="shortcut icon">
 <meta name="description" content="  Salesforce Commerce Cloud SiteGenesis">
 <meta name="keywords" content="  Salesforce Commerce Cloud SiteGenesis">
-<link href="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1513181376476/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1547842888582/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1513181376476/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1547842888582/js/lib/html5.js"></script>
 <![endif]-->
-<script type="text/javascript">//<!--
+<script type="text/javascript" async="" src="https://staticw2.yotpo.com/jROwHOHkMYUW9SFOSShJEtkr68XYxqirufTf8Eie/widget.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WZSRW73"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
 var dw = (window.dw || {});
 dw.ac = {
@@ -50,7 +28,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -96,23 +80,88 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
 
 <!--[if gt IE 9]><!-->
-<link rel="stylesheet" href="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1513181376476/css/style.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1547842888582/css/style.css">
 <!--
 <![endif]
 <!-->
 <!--[if lt IE 6]> force above endif <![endif]-->
 <!--[if lte IE 9]>
-<link rel="stylesheet" href="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1513181376476/css/style.ie.css" />
+<link rel="stylesheet" href="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1547842888582/css/style.ie.css" />
 <![endif]-->
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
 <![endif]-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-99978313-1');
+ga('send', 'pageview');
+</script>
+<script>
+var gtmID = 'GTM-WZSRW73';
+var gtmCall = function(w,d,s,l,i){
+w[l]=w[l]||[];
+w[l].push({'gtm.start': new Date().getTime(),
+event:'gtm.js'
+});
+var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),
+dl=l!='dataLayer'?'&l='+l:'';
+j.async=true;
+j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;
+f.parentNode.insertBefore(j,f);
+};
+gtmCall(window,document,'script','dataLayer','GTM-WZSRW73');
+</script>
+<script type="text/javascript">
+WebFontConfig = {
+google: { families: [ 'Lato:100,300,700,100italic,300italic:latin', 'Crete+Round:400,400italic:latin' ] }
+};
+(function() {
+var wf = document.createElement('script');
+wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+wf.type = 'text/javascript';
+wf.async = 'true';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(wf, s);
+})();
+</script>
 <meta name="google-site-verification" content="aaa">
 <script type="text/javascript">
 if (window.jQuery) {
@@ -136,11 +185,9 @@ window.location.reload();
 }
 </script>
 <script type="text/javascript">
-		var url = window.location.href;
-		var protocol = url.split("/")[0];
 		var yotpoAppKey = 'jROwHOHkMYUW9SFOSShJEtkr68XYxqirufTf8Eie';
-		var yotpoStaticContentURL = "staticw2.yotpo.com/";
-		var yotpoURL = protocol + '//' + yotpoStaticContentURL + yotpoAppKey + "/widget.js";
+		var yotpoStaticContentURL = "https://staticw2.yotpo.com/";
+		var yotpoURL = yotpoStaticContentURL + yotpoAppKey + "/widget.js";
 		(function e() {
 			var e = document.createElement("script");
 					e.type = "text/javascript",
@@ -150,27 +197,11 @@ window.location.reload();
 			t.parentNode.insertBefore(e, t)
 		})();
 	</script>
-
-<script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function()
-{n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}
-;if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '329818077446231'); // Insert your pixel ID here.
-fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=329818077446231&ev=PageView&noscript=1"
-/></noscript>
-
-
-</head>
+<script async="" src="https://static.hotjar.com/c/hotjar-1035418.js?sv=6"></script></head>
 <body>
 <div id="wrapper" class="pt_content">
 <div class="header-banner hide" role="banner">
-<div class="brand-banner-container hide">
+<div class="brand-banner-container ">
 <div class="brand-story">
 <div class="bs-con">
 <style>
@@ -220,26 +251,26 @@ src="https://www.facebook.com/tr?id=329818077446231&ev=PageView&noscript=1"
 <div class="con">
 <div class="active">
 <span class="img">
-<img src="http://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dw670e90eb/topbanner/bs_brand.jpg" alt="">
-<img src="http://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dw928e7abc/topbanner/bs_brand_m.jpg" alt="">
+<img src="https://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dw670e90eb/topbanner/bs_brand.jpg" alt="">
+<img src="https://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dw928e7abc/topbanner/bs_brand_m.jpg" alt="">
 </span>
 <div class="inner">
 <div class="info">
 <p class="d">
 At the heart of <i>innisfree</i><br>
 is the wish to provide healthy beauty<br>
-through high-quality natural ingredients,<br>
+ through high-quality natural ingredients,<br>
 trustworthy research and<br>
 sustainable green life.
 </p>
-<p class="btn"><a href="http://us.innisfree.com/about-innisfree-concept.html" class="link-line">LEARN MORE</a></p>
+<p class="btn"><a href="https://us.innisfree.com/about-innisfree-concept.html" class="link-line">LEARN MORE</a></p>
 </div>
 </div>
 </div>
 <div>
 <span class="img">
-<img src="http://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dwe4ae5624/topbanner/bs_con01.jpg" alt="">
-<img src="http://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dw18e8129d/topbanner/bs_con01_m.jpg" alt="">
+<img src="https://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dwe4ae5624/topbanner/bs_con01.jpg" alt="">
+<img src="https://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dw18e8129d/topbanner/bs_con01_m.jpg" alt="">
 </span>
 <div class="inner">
 <div class="info">
@@ -252,14 +283,14 @@ Millions of years ago,
 <br>in the middle of the ocean,
 <br>known today as Jeju Island.
 </p>
-<p class="btn"><a href="http://us.innisfree.com/about-innisfree-history.html">LEARN MORE</a></p>
+<p class="btn"><a href="https://us.innisfree.com/about-innisfree-history.html">LEARN MORE</a></p>
 </div>
 </div>
 </div>
 <div>
 <span class="img">
-<img src="http://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dw6ff66ffc/topbanner/bs_con02.jpg" alt="">
-<img src="http://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dwbb605708/topbanner/bs_con02_m.jpg" alt="">
+<img src="https://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dw6ff66ffc/topbanner/bs_con02.jpg" alt="">
+<img src="https://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dwbb605708/topbanner/bs_con02_m.jpg" alt="">
 </span>
 <div class="inner">
 <div class="info">
@@ -273,14 +304,14 @@ the island’s volcanic soil makes the<br>
 land exceptionally fertile to yield<br>
 superior natural ingredients.
 </p>
-<p class="btn"><a href="http://us.innisfree.com/about-innisfree-jeju.html">LEARN MORE</a></p>
+<p class="btn"><a href="https://us.innisfree.com/about-innisfree-jeju.html">LEARN MORE</a></p>
 </div>
 </div>
 </div>
 <div>
 <span class="img">
-<img src="http://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dwb5efbf20/topbanner/bs_con03.jpg" alt="">
-<img src="http://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dw7dff5901/topbanner/bs_con03_m.jpg" alt="">
+<img src="https://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dwb5efbf20/topbanner/bs_con03.jpg" alt="">
+<img src="https://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dw7dff5901/topbanner/bs_con03_m.jpg" alt="">
 </span>
 <div class="inner">
 <div class="info">
@@ -288,34 +319,34 @@ superior natural ingredients.
 <p class="d">
 We are passionate about preserving the purity of <br>Jeju Island and are committed to replicating our <br>sustainability and philanthropic efforts there <br>around the globe.
 </p>
-<p class="btn"><a href="http://us.innisfree.com/about-innisfree-share-promise.html" class="link-line">LEARN MORE</a></p>
+<p class="btn"><a href="https://us.innisfree.com/about-innisfree-share-promise.html" class="link-line">LEARN MORE</a></p>
 </div>
 </div>
 </div>
 </div>
 <div class="content-asset">
-<a href="#" class="bs-close"><img src="http://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dwcf8d8584/icons/bs_close.png" alt="" title=""></a>
+<a href="#" class="bs-close"><img src="https://us.innisfree.com/on/demandware.static/-/Sites-InnisfreeUS-Library/default/dwcf8d8584/icons/bs_close.png" alt="" title=""></a>
 </div> 
 </div>
 </div>
 <div class="brand-bg" style=""></div>
 </div>
 <div class="top-brand-story">
-<a href="#" class="bs-show active">About innisfree </a>
+<a href="#" class="bs-show ">About innisfree </a>
 <div class="content-asset">
 <div class="vertical-promotion" style="height: 30px">
 <div class="vertical-promotion-inner">
 <div class="v-item">
-<span><a href="http://us.innisfree.com/todays-offers.html" class="underline">SPECIAL - FREE SHIPPING OVER $35</a></span>
+<span><a href="https://us.innisfree.com/toy-story-collection/" class="underline">SHOP TOY STORY COLLECTION</a></span>
 </div>
 <div class="v-item">
-<span><a href="http://us.innisfree.com/gifts/limited-edition/" class="underline">XMAS FREE SHIP CUTOFF 12/14 12pm EST</a></span>
+<span><a href="https://us.innisfree.com/jeju-ingredients/green-tea/" class="underline">20% OFF GREEN TEA!</a></span>
 </div>
 <div class="v-item">
-<span><a href="http://us.innisfree.com/benefits-loyaltyProgram.html" class="underline">FREE WELCOME KIT FOR MEMBERS</a></span>
+<span><a href="https://us.innisfree.com/benefits-loyaltyProgram.html" class="underline">FREE WELCOME KIT FOR MEMBERS</a></span>
 </div>
 <div class="v-item">
-<span><a href="http://us.innisfree.com/todays-offers.html" class="underline">DELUXE SAMPLE WITH $30 PURCHASE</a></span>
+<span><a href="https://us.innisfree.com/best-sellers-1/" class="underline">SAMPLES INCLUDED IN EVERY ORDER</a></span>
 </div>
 </div>
 </div>
@@ -323,12 +354,12 @@ We are passionate about preserving the purity of <br>Jeju Island and are committ
 </div>
 </div>
 <div id="m-header" class="">
-<a href="" class="open-sidemenu">
+<div class="open-sidemenu">
 <span></span> <span></span> <span></span>
-</a>
+</div>
 <h1 class="header-cat">
 <a href="/homepage" title="Salesforce Commerce Cloud SiteGenesis Home">
-<img src="/on/demandware.static/Sites-InnisfreeUS-Site/-/default/dw77f446ce/images/logo.png" alt="Salesforce Commerce Cloud SiteGenesis">
+<img src="/on/demandware.static/Sites-InnisfreeUS-Site/-/default/dwe8df4e44/images/logo.png" alt="Salesforce Commerce Cloud SiteGenesis">
 </a>
 </h1>
 <div class="util">
@@ -336,6 +367,8 @@ We are passionate about preserving the purity of <br>Jeju Island and are committ
 <div class="mini-cart">
 
 
+<div class="mini-cart-label visible-desktop">BAG</div>
+<div class="mini-cart-icon">
 <div class="mini-cart-total">
 <a class="mini-cart-link mini-cart-empty" href="https://us.innisfree.com/cart" title="View Cart">
 <span class="count">0</span>
@@ -357,6 +390,7 @@ We are passionate about preserving the purity of <br>Jeju Island and are committ
 </div>
 </div>
 </div>
+</div>
 <div class="search-form1">
 <div class="header-search">
 <div class="search-layer">
@@ -364,10 +398,14 @@ We are passionate about preserving the purity of <br>Jeju Island and are committ
 <form role="search" action="/search" method="get" name="simpleSearch">
 <div class="close"></div>
 <fieldset>
+<legend class="visually-hidden">Search Catalog</legend>
 <label class="visually-hidden" for="q">Search Catalog</label>
-<input type="text" id="q" name="q" value="" placeholder="What are you looking for?">
+<input type="text" class="search-field" name="q" value="" title="What are you looking for?" placeholder="What are you looking for?">
+<div class="close-button">
+<span class="close-background"></span>
+<span class="close-icon"></span>
+</div>
 <input type="hidden" name="lang" value="en">
-<button type="submit"><span class="visually-hidden">Search</span></button>
 </fieldset>
 </form>
 </div>
@@ -382,21 +420,23 @@ We are passionate about preserving the purity of <br>Jeju Island and are committ
 <div class="header-wrap">
 <h1>
 <a href="/homepage" title="Salesforce Commerce Cloud SiteGenesis Home">
-<img src="/on/demandware.static/Sites-InnisfreeUS-Site/-/default/dw77f446ce/images/logo.png" alt="Salesforce Commerce Cloud SiteGenesis">
+<img src="/on/demandware.static/Sites-InnisfreeUS-Site/-/default/dwe8df4e44/images/logo.png">
 <span class="visually-hidden">Salesforce Commerce Cloud SiteGenesis</span>
 </a>
 </h1>
 <div class="login-mobile">
-<a class="user-account2" href="https://us.innisfree.com/account" title="User: undefined">
-<span>have an account</span>
+<a class="user-account2 login" href="https://us.innisfree.com/login" title="User">
 <span class="login-title2 btn-type white-line size-r">sign in</span>
+</a>
+<a class="user-account2" href="https://us.innisfree.com/register" title="User">
+<span class="login-title2 btn-type white-line size-r">create account</span>
 </a>
 </div>
 <div id="gnb" role="navigation">
 <ul>
-<li class="g-default has-sub-menu">
+<li class="g-default has-sub-menu primary">
 <p>
-<a href="http://us.innisfree.com/best-sellers/">
+<a class=" blog-category" href="https://us.innisfree.com/best-sellers-1/">
 Best Sellers
 </a>
 <span></span>
@@ -404,65 +444,25 @@ Best Sellers
 <div class="sc-wrap clear">
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/best-sellers/best-sellers/">
-Best Sellers
+<a href="https://us.innisfree.com/best-sellers/skincare/">
+Skincare
 </a>
 </p>
 <p class="title none-sub">
-<a href="http://us.innisfree.com/best-sellers/gifts/">
-Gifts
+<a href="https://us.innisfree.com/best-sellers/makeup/">
+Makeup
 </a>
 </p>
 <p class="title none-sub">
-<a href="/s/InnisfreeUS/washoffteaon.html">
-Intensive Hydrating Serum with Green Tea Seed
+<a href="https://us.innisfree.com/best-sellers/body-and-hair/">
+Body &amp; Hair
 </a>
 </p>
 <p class="title none-sub">
-<a href="/s/InnisfreeUS/pore-clearing-clay-mousse-mask-with-super-volcanic-cluster%E2%84%A2/270670058.html">
-Pore Clearing Clay Mousse Mask with Super Volcanic Cluster™
+<a href="https://us.innisfree.com/best-sellers/sets/">
+Sets
 </a>
 </p>
-<p class="title none-sub">
-<a href="http://us.innisfree.com/discover-sheet.html">
-Sheet Masks 101
-</a>
-</p>
-<p class="title none-sub">
-<a href="http://us.innisfree.com/best-sellers/discovery-kits/">
-Discovery Kits
-</a>
-</p>
-<p class="title none-sub">
-<a href="http://us.innisfree.com/benefits-loyaltyProgram.html?cache=false">
-My Innisfree Rewards
-</a>
-</p>
-</div>
-<div class="fl">
-<div class="banner"><style type="text/css">
-.category-slot .cat-banner .cat-banner-description .inBox {
-    width: 100%;
-    text-align: center;
-    margin-top: 15%;
-}
-
-@media (max-width: 767px) {
-
-.category-slot .cat-banner .cat-banner-description  .btn-type.dark-line { 
-    margin-top: 0%;
-    font-size: 10px;
-    padding: 0;
-    width: 83px;
-    display: inline-block;
-    min-width: 73px;
-    height: 23px;
-    line-height: 22px;
-}
-
-}
-</style>
-</div>
 </div>
 </div>
 </div>
@@ -470,50 +470,29 @@ My Innisfree Rewards
 <div class="sc-wrap clear">
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/best-sellers/best-sellers/">
-Best Sellers
+<a href="https://us.innisfree.com/best-sellers/skincare/">
+Skincare
 </a>
 </p>
 </div>
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/best-sellers/gifts/">
-Gifts
+<a href="https://us.innisfree.com/best-sellers/makeup/">
+Makeup
 </a>
 </p>
 </div>
 <div class="fl">
 <p class="title none-sub">
-<a href="/s/InnisfreeUS/washoffteaon.html">
-Intensive Hydrating Serum with Green Tea Seed
+<a href="https://us.innisfree.com/best-sellers/body-and-hair/">
+Body &amp; Hair
 </a>
 </p>
 </div>
 <div class="fl">
 <p class="title none-sub">
-<a href="/s/InnisfreeUS/pore-clearing-clay-mousse-mask-with-super-volcanic-cluster%E2%84%A2/270670058.html">
-Pore Clearing Clay Mousse Mask with Super Volcanic Cluster™
-</a>
-</p>
-</div>
-<div class="fl">
-<p class="title none-sub">
-<a href="http://us.innisfree.com/discover-sheet.html">
-Sheet Masks 101
-</a>
-</p>
-</div>
-<div class="fl">
-<p class="title none-sub">
-<a href="http://us.innisfree.com/best-sellers/discovery-kits/">
-Discovery Kits
-</a>
-</p>
-</div>
-<div class="fl">
-<p class="title none-sub">
-<a href="http://us.innisfree.com/benefits-loyaltyProgram.html?cache=false">
-My Innisfree Rewards
+<a href="https://us.innisfree.com/best-sellers/sets/">
+Sets
 </a>
 </p>
 </div>
@@ -521,567 +500,367 @@ My Innisfree Rewards
 </div>
 <p></p>
 </li>
-<li class="g-skincare has-sub-menu">
+<li class="g-default has-sub-menu primary">
 <p>
-<a href="http://us.innisfree.com/skin-care/">
+<a class=" " href="https://us.innisfree.com/jeju-ingredients/">
+Jeju Ingredients
+</a>
+<span></span>
+</p><div class="sub-category" style="left:auto; ">
+<div class="sc-wrap clear">
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/green-tea/">
+Green Tea
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/volcanic-cluster/">
+Volcanic Cluster
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/orchid/">
+Orchid
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/bija-tree/">
+Bija Tree
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/tangerine/">
+Tangerine
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/soybean/">
+Soybean
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/lava-seawater/">
+Lava Seawater
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/canola-honey/">
+Canola Honey
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/green-barley/">
+Green Barley
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/green-persimmon/">
+Green Persimmon
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/sparkling-mineral-water/">
+Sparkling Mineral Water
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/marine-seaweed/">
+Marine Seaweed
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/apple-seed/">
+Apple Seed
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/aloe/">
+Aloe
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/sea-salt/">
+Sea Salt
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/camellia/">
+Camellia
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/olive/">
+Olive
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/yeongjucho-mushroom/">
+Yeongjucho Mushroom
+</a>
+</p>
+</div>
+</div>
+</div>
+<div class="sub-category mobile" style="left:auto">
+<div class="sc-wrap clear">
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/green-tea/">
+Green Tea
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/volcanic-cluster/">
+Volcanic Cluster
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/orchid/">
+Orchid
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/bija-tree/">
+Bija Tree
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/tangerine/">
+Tangerine
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/soybean/">
+Soybean
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/lava-seawater/">
+Lava Seawater
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/canola-honey/">
+Canola Honey
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/green-barley/">
+Green Barley
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/green-persimmon/">
+Green Persimmon
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/sparkling-mineral-water/">
+Sparkling Mineral Water
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/marine-seaweed/">
+Marine Seaweed
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/apple-seed/">
+Apple Seed
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/aloe/">
+Aloe
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/sea-salt/">
+Sea Salt
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/camellia/">
+Camellia
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/olive/">
+Olive
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/jeju-ingredients/yeongjucho-mushroom/">
+Yeongjucho Mushroom
+</a>
+</p>
+</div>
+</div>
+</div>
+<p></p>
+</li>
+<li class="g-2-col-right-banner has-sub-menu primary">
+<p>
+<a class=" " href="https://us.innisfree.com/skin-care/">
 Skin Care
 </a>
 <span></span>
-</p><div class="sub-category" style="left:0px; ">
-<div class="sc-wrap clear">
-<div class="fl ">
-<p class="title none-sub">
-<a href="javascript:;">
-By Category
-</a>
-</p>
-<ul>
-<li>
-<a href="http://us.innisfree.com/by-category/moisturizer/">
-Moisturizer
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/masks-and-sheet-masks/">
-Masks &amp; Sheet Masks
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/serum-and-essence/">
-Serum &amp; Essence
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/makeup-remover/">
-Makeup Remover
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/face-wash-and-cleanser/">
-Face Wash &amp; Cleanser
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/toner/">
-Toner
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/eye-care/">
-Eye Care
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/targeted-solutions/">
-Targeted Solutions
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/daily-uv-protection/">
-Daily UV Protection
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/face-oil/">
-Face Oil
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/face-mist/">
-Face Mist
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/lip-care/">
-Lip Care
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/for-men/">
-For Men
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/sets-and-gifts/">
-Sets &amp; Gifts
-</a>
-</li>
-</ul>
-</div>
-<div class="fl ">
-<p class="title none-sub">
-<a href="javascript:;">
-By Concern
-</a>
-</p>
-<ul>
-<li>
-<a href="http://us.innisfree.com/by-concern/hydration/">
-Hydration
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/nourishing-hydration/">
-Nourishing Hydration
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/deep-hydration/">
-Deep Hydration
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/pore-solutions/">
-Pore Solutions
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/troubled-skin/">
-Troubled Skin
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/brightening/">
-Brightening
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/sensitive-skin/">
-Sensitive Skin
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/early-signs-of-aging/">
-Early Signs of Aging
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/plumped-hydration/">
-Plumped Hydration
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/lines-and-wrinkles/">
-Lines &amp; Wrinkles
-</a>
-</li>
-</ul>
-</div>
-<div class="fl line-2">
-<p class="title none-sub">
-<a href="javascript:;">
-Jeju Island Ingredients
-</a>
-</p>
-<ul>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/green-tea/">
-Green Tea
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/volcanic-cluster/">
-Volcanic Cluster
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/orchid/">
-Orchid
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/bija-tree/">
-Bija Tree
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/lava-seawater/">
-Lava Seawater
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/sparkling-mineral-water/">
-Sparkling Mineral Water
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/canola-honey/">
-Canola Honey
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/tangerine/">
-Tangerine
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/marine-seaweed/">
-Marine Seaweed
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/green-persimmon/">
-Green Persimmon
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/green-barley/">
-Green Barley
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/sea-salt/">
-Sea Salt
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/aloe/">
-Aloe
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="sub-category mobile" style="left:0px">
-<div class="sc-wrap clear">
-<div class="fl">
-<p class="title ">
-<a href="http://us.innisfree.com/skin-care/by-category/">
-By Category
-</a>
-</p>
-<ul>
-<li>
-<a href="http://us.innisfree.com/by-category/moisturizer/">
-Moisturizer
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/masks-and-sheet-masks/">
-Masks &amp; Sheet Masks
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/serum-and-essence/">
-Serum &amp; Essence
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/makeup-remover/">
-Makeup Remover
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/face-wash-and-cleanser/">
-Face Wash &amp; Cleanser
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/toner/">
-Toner
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/eye-care/">
-Eye Care
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/targeted-solutions/">
-Targeted Solutions
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/daily-uv-protection/">
-Daily UV Protection
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/face-oil/">
-Face Oil
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/face-mist/">
-Face Mist
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/lip-care/">
-Lip Care
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/for-men/">
-For Men
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-category/sets-and-gifts/">
-Sets &amp; Gifts
-</a>
-</li>
-</ul>
-</div>
-<div class="fl">
-<p class="title ">
-<a href="http://us.innisfree.com/skin-care/by-concern/">
-By Concern
-</a>
-</p>
-<ul>
-<li>
-<a href="http://us.innisfree.com/by-concern/hydration/">
-Hydration
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/nourishing-hydration/">
-Nourishing Hydration
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/deep-hydration/">
-Deep Hydration
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/pore-solutions/">
-Pore Solutions
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/troubled-skin/">
-Troubled Skin
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/brightening/">
-Brightening
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/sensitive-skin/">
-Sensitive Skin
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/early-signs-of-aging/">
-Early Signs of Aging
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/plumped-hydration/">
-Plumped Hydration
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/by-concern/lines-and-wrinkles/">
-Lines &amp; Wrinkles
-</a>
-</li>
-</ul>
-</div>
-<div class="fl">
-<p class="title ">
-<a href="http://us.innisfree.com/skin-care/jeju-island-ingredients/">
-Jeju Island Ingredients
-</a>
-</p>
-<ul>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/green-tea/">
-Green Tea
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/volcanic-cluster/">
-Volcanic Cluster
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/orchid/">
-Orchid
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/bija-tree/">
-Bija Tree
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/lava-seawater/">
-Lava Seawater
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/sparkling-mineral-water/">
-Sparkling Mineral Water
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/canola-honey/">
-Canola Honey
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/tangerine/">
-Tangerine
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/marine-seaweed/">
-Marine Seaweed
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/green-persimmon/">
-Green Persimmon
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/green-barley/">
-Green Barley
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/sea-salt/">
-Sea Salt
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/jeju-island-ingredients/aloe/">
-Aloe
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<p></p>
-</li>
-<li class="g-2-col-right-banner has-sub-menu">
-<p>
-<a href="http://us.innisfree.com/make-up/">
-Make-Up
-</a>
-<span></span>
 </p><div class="sub-category" style="left:auto; ">
 <div class="sc-wrap clear">
 <div class="fl">
 <p class="title none-sub">
-<a href="/search?cgid=my-diy-compact">
-Build My Cushion
-</a>
-</p>
-<p class="title none-sub">
-<a href="http://us.innisfree.com/make-up/my-palette/">
-My Palette
-</a>
-</p>
-<p class="title none-sub">
-<a href="http://us.innisfree.com/make-up/face/">
-Face
+<a href="https://us.innisfree.com/skin-care/by-category/">
+By Category
 </a>
 </p>
 <ul>
 <li>
-<a href="http://us.innisfree.com/face/cushion/">
-Cushion
+<a href="https://us.innisfree.com/by-category/moisturizer/">
+Moisturizer
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/face/compact-case/">
-Compact Case
+<a href="https://us.innisfree.com/by-category/masks/">
+Masks
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/face/foundation/">
-Foundation
+<a href="https://us.innisfree.com/by-category/serum-and-essence/">
+Serum &amp; Essence
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/face/primer-and-base/">
-Primer &amp; Base
+<a href="https://us.innisfree.com/by-category/cleanser/">
+Cleanser
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/face/concealer/">
-Concealer
+<a href="https://us.innisfree.com/by-category/toner/">
+Toner
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/face/powder/">
-Powder
+<a href="https://us.innisfree.com/by-category/eye-care/">
+Eye Care
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/targeted-treatments/">
+Targeted Treatments
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/uv-protection/">
+UV Protection
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/face-mist/">
+Face Mist
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/lip-care/">
+Lip Care
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/men/">
+Men
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/sets-and-gifts/">
+Sets &amp; Gifts
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/travel-size/">
+Travel Size
 </a>
 </li>
 </ul>
 </div>
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/make-up/lips/">
-Lips
+<a href="https://us.innisfree.com/skin-care/by-benefit/">
+By Benefit
 </a>
 </p>
 <ul>
 <li>
-<a href="http://us.innisfree.com/lips/lipstick-and-gloss/">
-Lipstick &amp; Gloss
+<a href="https://us.innisfree.com/by-benefit/hydration/">
+Hydration
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/lips/lip-balm-and-treatment/">
-Lip Balm &amp; Treatment
-</a>
-</li>
-</ul>
-<p class="title none-sub">
-<a href="http://us.innisfree.com/make-up/eye/">
-Eye
-</a>
-</p>
-<ul>
-<li>
-<a href="http://us.innisfree.com/eye/mascara/">
-Mascara
+<a href="https://us.innisfree.com/by-benefit/pore-solutions/">
+Pore Solutions
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/eye/eye-shadow/">
-Eye Shadow
+<a href="https://us.innisfree.com/by-benefit/troubled-skin/">
+Troubled Skin
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/eye/eye-liner/">
-Eye Liner
+<a href="https://us.innisfree.com/by-benefit/dullness-and-uneven-skin-tone/">
+Dullness and Uneven Skin Tone
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/eye/eye-brows/">
-Eye Brows
-</a>
-</li>
-</ul>
-<p class="title none-sub">
-<a href="http://us.innisfree.com/make-up/cheeks/">
-Cheeks
-</a>
-</p>
-<ul>
-<li>
-<a href="http://us.innisfree.com/cheeks/blush-and-highlighter/">
-Blush &amp; Highlighter
+<a href="https://us.innisfree.com/by-benefit/sensitive-skin/">
+Sensitive Skin
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/cheeks/highlighter/">
-Highlighter
+<a href="https://us.innisfree.com/by-benefit/age-prevention/">
+Age Prevention
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/cheeks/contour-and-bronzer/">
-Contour &amp; Bronzer
+<a href="https://us.innisfree.com/by-benefit/uv-protection/">
+UV Protection
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-benefit/lifting-and-firming/">
+Lifting &amp; Firming
 </a>
 </li>
 </ul>
@@ -1091,125 +870,443 @@ Contour &amp; Bronzer
 <div class="sub-category mobile" style="left:auto">
 <div class="sc-wrap clear">
 <div class="fl">
-<p class="title none-sub">
-<a href="/search?cgid=my-diy-compact">
-Build My Cushion
+<p class="title ">
+<a href="https://us.innisfree.com/skin-care/by-category/">
+By Category
 </a>
 </p>
-</div>
-<div class="fl">
-<p class="title none-sub">
-<a href="http://us.innisfree.com/make-up/my-palette/">
-My Palette
+<ul>
+<li>
+<a href="https://us.innisfree.com/by-category/moisturizer/">
+Moisturizer
 </a>
-</p>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/masks/">
+Masks
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/serum-and-essence/">
+Serum &amp; Essence
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/cleanser/">
+Cleanser
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/toner/">
+Toner
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/eye-care/">
+Eye Care
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/targeted-treatments/">
+Targeted Treatments
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/uv-protection/">
+UV Protection
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/face-mist/">
+Face Mist
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/lip-care/">
+Lip Care
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/men/">
+Men
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/sets-and-gifts/">
+Sets &amp; Gifts
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-category/travel-size/">
+Travel Size
+</a>
+</li>
+</ul>
 </div>
 <div class="fl">
 <p class="title ">
-<a href="http://us.innisfree.com/make-up/face/">
+<a href="https://us.innisfree.com/skin-care/by-benefit/">
+By Benefit
+</a>
+</p>
+<ul>
+<li>
+<a href="https://us.innisfree.com/by-benefit/hydration/">
+Hydration
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-benefit/pore-solutions/">
+Pore Solutions
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-benefit/troubled-skin/">
+Troubled Skin
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-benefit/dullness-and-uneven-skin-tone/">
+Dullness and Uneven Skin Tone
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-benefit/sensitive-skin/">
+Sensitive Skin
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-benefit/age-prevention/">
+Age Prevention
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-benefit/uv-protection/">
+UV Protection
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/by-benefit/lifting-and-firming/">
+Lifting &amp; Firming
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<p></p>
+</li>
+<li class="g-2-col-right-banner has-sub-menu primary">
+<p>
+<a class=" " href="https://us.innisfree.com/makeup/">
+Makeup
+</a>
+
+<span></span>
+</p><div class="sub-category" style="left:auto; width: 710px">
+<div class="sc-wrap clear">
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/build-my-cushion/">
+Build My Cushion
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/my-palette/">
+My Palette
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/shop-holiday-looks/">
+Shop Holiday Looks
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/shop-daytime-looks/">
+Shop Daytime Looks
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/face/">
 Face
 </a>
 </p>
 <ul>
 <li>
-<a href="http://us.innisfree.com/face/cushion/">
+<a href="https://us.innisfree.com/face/cushion/">
 Cushion
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/face/compact-case/">
-Compact Case
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/face/foundation/">
+<a href="https://us.innisfree.com/face/foundation/">
 Foundation
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/face/primer-and-base/">
-Primer &amp; Base
+<a href="https://us.innisfree.com/face/conceal-and-correct/">
+Conceal &amp; Correct
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/face/concealer/">
-Concealer
+<a href="https://us.innisfree.com/face/primer/">
+Primer
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/face/powder/">
+<a href="https://us.innisfree.com/face/powder/">
 Powder
 </a>
 </li>
 </ul>
 </div>
 <div class="fl">
-<p class="title ">
-<a href="http://us.innisfree.com/make-up/lips/">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/tools/">
+Tools
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/my-compact/">
+My Compact
+</a>
+</p>
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/lips/">
 Lips
 </a>
 </p>
 <ul>
 <li>
-<a href="http://us.innisfree.com/lips/lipstick-and-gloss/">
-Lipstick &amp; Gloss
+<a href="https://us.innisfree.com/lips/lipstick/">
+Lipstick
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/lips/lip-balm-and-treatment/">
+<a href="https://us.innisfree.com/lips/lip-gloss/">
+Lip Gloss
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/lips/lip-balm-and-treatment/">
 Lip Balm &amp; Treatment
 </a>
 </li>
+<li>
+<a href="https://us.innisfree.com/lips/lip-liner/">
+Lip Liner
+</a>
+</li>
 </ul>
-</div>
-<div class="fl">
-<p class="title ">
-<a href="http://us.innisfree.com/make-up/eye/">
-Eye
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/eyes/">
+Eyes
 </a>
 </p>
 <ul>
 <li>
-<a href="http://us.innisfree.com/eye/mascara/">
+<a href="https://us.innisfree.com/eyes/mascara/">
 Mascara
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/eye/eye-shadow/">
-Eye Shadow
+<a href="https://us.innisfree.com/eyes/eyeshadow/">
+Eyeshadow
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/eye/eye-liner/">
-Eye Liner
+<a href="https://us.innisfree.com/eyes/eyeliner/">
+Eyeliner
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/eye/eye-brows/">
-Eye Brows
+<a href="https://us.innisfree.com/eyes/eyebrows/">
+Eyebrows
 </a>
 </li>
 </ul>
-</div>
-<div class="fl">
-<p class="title ">
-<a href="http://us.innisfree.com/make-up/cheeks/">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/cheeks/">
 Cheeks
 </a>
 </p>
 <ul>
 <li>
-<a href="http://us.innisfree.com/cheeks/blush-and-highlighter/">
-Blush &amp; Highlighter
+<a href="https://us.innisfree.com/cheeks/blush/">
+Blush
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/cheeks/highlighter/">
+<a href="https://us.innisfree.com/cheeks/highlighter/">
 Highlighter
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/cheeks/contour-and-bronzer/">
+<a href="https://us.innisfree.com/cheeks/contour-and-bronzer/">
+Contour &amp; Bronzer
+</a>
+</li>
+</ul>
+</div>
+<div class="fl">
+<div class="banner"><a href="/s/InnisfreeUS/holidayLooks2018.html"><img style="max-width: 216px;" alt="" src="https://us.innisfree.com/on/demandware.static/-/Sites-innisfree-new/default/dwa7197c65/navigation-banner/Glow-looks-nav-banner-v1a.jpg" title=""></a></div>
+</div>
+</div>
+</div>
+<div class="sub-category mobile" style="left:auto">
+<div class="sc-wrap clear">
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/build-my-cushion/">
+Build My Cushion
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/my-palette/">
+My Palette
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/shop-holiday-looks/">
+Shop Holiday Looks
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/shop-daytime-looks/">
+Shop Daytime Looks
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title ">
+<a href="https://us.innisfree.com/makeup/face/">
+Face
+</a>
+</p>
+<ul>
+<li>
+<a href="https://us.innisfree.com/face/cushion/">
+Cushion
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/face/foundation/">
+Foundation
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/face/conceal-and-correct/">
+Conceal &amp; Correct
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/face/primer/">
+Primer
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/face/powder/">
+Powder
+</a>
+</li>
+</ul>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/tools/">
+Tools
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title none-sub">
+<a href="https://us.innisfree.com/makeup/my-compact/">
+My Compact
+</a>
+</p>
+</div>
+<div class="fl">
+<p class="title ">
+<a href="https://us.innisfree.com/makeup/lips/">
+Lips
+</a>
+</p>
+<ul>
+<li>
+<a href="https://us.innisfree.com/lips/lipstick/">
+Lipstick
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/lips/lip-gloss/">
+Lip Gloss
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/lips/lip-balm-and-treatment/">
+Lip Balm &amp; Treatment
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/lips/lip-liner/">
+Lip Liner
+</a>
+</li>
+</ul>
+</div>
+<div class="fl">
+<p class="title ">
+<a href="https://us.innisfree.com/makeup/eyes/">
+Eyes
+</a>
+</p>
+<ul>
+<li>
+<a href="https://us.innisfree.com/eyes/mascara/">
+Mascara
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/eyes/eyeshadow/">
+Eyeshadow
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/eyes/eyeliner/">
+Eyeliner
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/eyes/eyebrows/">
+Eyebrows
+</a>
+</li>
+</ul>
+</div>
+<div class="fl">
+<p class="title ">
+<a href="https://us.innisfree.com/makeup/cheeks/">
+Cheeks
+</a>
+</p>
+<ul>
+<li>
+<a href="https://us.innisfree.com/cheeks/blush/">
+Blush
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/cheeks/highlighter/">
+Highlighter
+</a>
+</li>
+<li>
+<a href="https://us.innisfree.com/cheeks/contour-and-bronzer/">
 Contour &amp; Bronzer
 </a>
 </li>
@@ -1219,9 +1316,9 @@ Contour &amp; Bronzer
 </div>
 <p></p>
 </li>
-<li class="g-2-col-right-banner has-sub-menu">
+<li class="g-2-col-right-banner has-sub-menu primary">
 <p>
-<a href="http://us.innisfree.com/body-and-hair/">
+<a class=" " href="https://us.innisfree.com/body-and-hair/">
 Body &amp; Hair
 </a>
 <span></span>
@@ -1229,62 +1326,47 @@ Body &amp; Hair
 <div class="sc-wrap clear">
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/body-and-hair/body-care/">
+<a href="https://us.innisfree.com/body-and-hair/body-care/">
 Body Care
 </a>
 </p>
 <ul>
 <li>
-<a href="http://us.innisfree.com/body-care/hand-cream%3A-3-for-%2412/">
-Hand Cream: 3 For $12
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/body-care/body-set%3A-2-for-%2420/">
-Body Set: 2 For $20
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/body-care/hand-lotion/">
+<a href="https://us.innisfree.com/body-care/hand-lotion/">
 Hand Lotion
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/body-care/body-wash-and-scrub/">
+<a href="https://us.innisfree.com/body-care/body-wash-and-scrub/">
 Body Wash &amp; Scrub
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/body-care/body-lotion-and-oil/">
+<a href="https://us.innisfree.com/body-care/body-lotion-and-oil/">
 Body Lotion &amp; Oil
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/body-care/deodorant-and-body-care/">
-Deodorant &amp; Body Care
 </a>
 </li>
 </ul>
 </div>
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/body-and-hair/hair-care/">
+<a href="https://us.innisfree.com/body-and-hair/hair-care/">
 Hair Care
 </a>
 </p>
 <ul>
 <li>
-<a href="http://us.innisfree.com/hair-care/shampoo-and-conditioner/">
+<a href="https://us.innisfree.com/hair-care/shampoo-and-conditioner/">
 Shampoo &amp; Conditioner
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/hair-care/hair-and-scalp-treatment/">
+<a href="https://us.innisfree.com/hair-care/hair-and-scalp-treatment/">
 Hair &amp; Scalp Treatment
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/hair-care/styling-products/">
+<a href="https://us.innisfree.com/hair-care/styling-products/">
 Styling Products
 </a>
 </li>
@@ -1296,62 +1378,47 @@ Styling Products
 <div class="sc-wrap clear">
 <div class="fl">
 <p class="title ">
-<a href="http://us.innisfree.com/body-and-hair/body-care/">
+<a href="https://us.innisfree.com/body-and-hair/body-care/">
 Body Care
 </a>
 </p>
 <ul>
 <li>
-<a href="http://us.innisfree.com/body-care/hand-cream%3A-3-for-%2412/">
-Hand Cream: 3 For $12
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/body-care/body-set%3A-2-for-%2420/">
-Body Set: 2 For $20
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/body-care/hand-lotion/">
+<a href="https://us.innisfree.com/body-care/hand-lotion/">
 Hand Lotion
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/body-care/body-wash-and-scrub/">
+<a href="https://us.innisfree.com/body-care/body-wash-and-scrub/">
 Body Wash &amp; Scrub
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/body-care/body-lotion-and-oil/">
+<a href="https://us.innisfree.com/body-care/body-lotion-and-oil/">
 Body Lotion &amp; Oil
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/body-care/deodorant-and-body-care/">
-Deodorant &amp; Body Care
 </a>
 </li>
 </ul>
 </div>
 <div class="fl">
 <p class="title ">
-<a href="http://us.innisfree.com/body-and-hair/hair-care/">
+<a href="https://us.innisfree.com/body-and-hair/hair-care/">
 Hair Care
 </a>
 </p>
 <ul>
 <li>
-<a href="http://us.innisfree.com/hair-care/shampoo-and-conditioner/">
+<a href="https://us.innisfree.com/hair-care/shampoo-and-conditioner/">
 Shampoo &amp; Conditioner
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/hair-care/hair-and-scalp-treatment/">
+<a href="https://us.innisfree.com/hair-care/hair-and-scalp-treatment/">
 Hair &amp; Scalp Treatment
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/hair-care/styling-products/">
+<a href="https://us.innisfree.com/hair-care/styling-products/">
 Styling Products
 </a>
 </li>
@@ -1361,9 +1428,9 @@ Styling Products
 </div>
 <p></p>
 </li>
-<li class="g-default has-sub-menu">
+<li class="g-default has-sub-menu primary">
 <p>
-<a href="http://us.innisfree.com/tools/">
+<a class=" " href="https://us.innisfree.com/tools/">
 Tools
 </a>
 <span></span>
@@ -1371,38 +1438,18 @@ Tools
 <div class="sc-wrap clear">
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/tools/brushes/">
-Brushes
+<a href="https://us.innisfree.com/tools/makeup/">
+Makeup
 </a>
 </p>
 <p class="title none-sub">
-<a href="http://us.innisfree.com/tools/sponges-and-puff/">
-Sponges &amp; puff
+<a href="https://us.innisfree.com/tools/skincare/">
+Skincare
 </a>
 </p>
 <p class="title none-sub">
-<a href="http://us.innisfree.com/tools/makeup-tools/">
-Makeup tools
-</a>
-</p>
-<p class="title none-sub">
-<a href="http://us.innisfree.com/tools/skincare-tools/">
-Skincare tools
-</a>
-</p>
-<p class="title none-sub">
-<a href="http://us.innisfree.com/tools/nail-tools/">
-Nail tools
-</a>
-</p>
-<p class="title none-sub">
-<a href="http://us.innisfree.com/tools/body-and-hair-tools/">
-Body &amp; Hair tools
-</a>
-</p>
-<p class="title none-sub">
-<a href="http://us.innisfree.com/tools/compact-case/">
-Compact Case
+<a href="https://us.innisfree.com/tools/body-and-hair/">
+Body &amp; Hair
 </a>
 </p>
 </div>
@@ -1412,50 +1459,22 @@ Compact Case
 <div class="sc-wrap clear">
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/tools/brushes/">
-Brushes
+<a href="https://us.innisfree.com/tools/makeup/">
+Makeup
 </a>
 </p>
 </div>
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/tools/sponges-and-puff/">
-Sponges &amp; puff
+<a href="https://us.innisfree.com/tools/skincare/">
+Skincare
 </a>
 </p>
 </div>
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/tools/makeup-tools/">
-Makeup tools
-</a>
-</p>
-</div>
-<div class="fl">
-<p class="title none-sub">
-<a href="http://us.innisfree.com/tools/skincare-tools/">
-Skincare tools
-</a>
-</p>
-</div>
-<div class="fl">
-<p class="title none-sub">
-<a href="http://us.innisfree.com/tools/nail-tools/">
-Nail tools
-</a>
-</p>
-</div>
-<div class="fl">
-<p class="title none-sub">
-<a href="http://us.innisfree.com/tools/body-and-hair-tools/">
-Body &amp; Hair tools
-</a>
-</p>
-</div>
-<div class="fl">
-<p class="title none-sub">
-<a href="http://us.innisfree.com/tools/compact-case/">
-Compact Case
+<a href="https://us.innisfree.com/tools/body-and-hair/">
+Body &amp; Hair
 </a>
 </p>
 </div>
@@ -1463,88 +1482,92 @@ Compact Case
 </div>
 <p></p>
 </li>
-<li class="g-2-col-right-banner has-sub-menu">
+<li class="g-default none-sub primary">
 <p>
-<a href="http://us.innisfree.com/about-innisfree-concept.html">
-About innisfree
+<a class="sale-category " href="https://us.innisfree.com/toy-story-2019.html">
+Limited Edition
 </a>
 <span></span>
-</p><div class="sub-category" style="left:auto; width: 600px">
+</p>
+</li>
+<li class="categpry-separator">
+</li><li class="g-2-col-right-banner has-sub-menu non-primary">
+<p>
+<a class=" blog-category" href="https://us.innisfree.com/about-innisfree-concept.html">
+About
+</a>
+<span></span>
+</p><div class="sub-category" style="left:auto; width: 400px">
 <div class="sc-wrap clear">
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/about-innisfree-concept.html">
-NATURAL BENEFITS FROM JEJU ISLAND
+<a href="https://us.innisfree.com/about-innisfree-concept.html">
+JEJU HERITAGE
 </a>
 </p>
 <ul>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-concept.html">
-Our Brand
+<a href="https://us.innisfree.com/about-innisfree-concept.html">
+Brand
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-history.html">
-Our History
+<a href="https://us.innisfree.com/about-innisfree-history.html">
+History
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-jeju.html">
+<a href="https://us.innisfree.com/about-innisfree-jeju.html">
 Jeju Island
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-ingredient.html">
-Natural Ingredients
+<a href="https://us.innisfree.com/about-innisfree-ingredient.html">
+Ingredients
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-byNum.html">
-innisfree by the Numbers
+<a href="https://us.innisfree.com/about-innisfree-byNum.html">
+Key Numbers
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-btPhy.html">
-Our Beauty Philosophy
+<a href="https://us.innisfree.com/about-innisfree-btPhy.html">
+Beauty Philosophy
 </a>
 </li>
 </ul>
 </div>
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/about-innisfree-share-promise.html">
+<a href="https://us.innisfree.com/about-innisfree-share-promise.html">
 GREEN LIFE
 </a>
 </p>
 <ul>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-share-promise.html">
-Our Green Promise
+<a href="https://us.innisfree.com/about-innisfree-share-promise.html">
+Green Promise
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-share-campaign.html">
+<a href="https://us.innisfree.com/about-innisfree-share-campaign.html">
 Forest Campaign
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-share-rescycling.html">
+<a href="https://us.innisfree.com/about-innisfree-share-rescycling.html">
 Eco-Recycling
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-share-green.html">
+<a href="https://us.innisfree.com/about-innisfree-share-green.html">
 PlayGreen
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-share-hankie.html">
+<a href="https://us.innisfree.com/about-innisfree-share-hankie.html">
 Eco-Hankie
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/about-innisfree-share-holiday.html">
-Green Holidays
 </a>
 </li>
 </ul>
@@ -1555,78 +1578,73 @@ Green Holidays
 <div class="sc-wrap clear">
 <div class="fl">
 <p class="title ">
-<a href="http://us.innisfree.com/about-innisfree-concept.html">
-NATURAL BENEFITS FROM JEJU ISLAND
+<a href="https://us.innisfree.com/about-innisfree-concept.html">
+JEJU HERITAGE
 </a>
 </p>
 <ul>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-concept.html">
-Our Brand
+<a href="https://us.innisfree.com/about-innisfree-concept.html">
+Brand
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-history.html">
-Our History
+<a href="https://us.innisfree.com/about-innisfree-history.html">
+History
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-jeju.html">
+<a href="https://us.innisfree.com/about-innisfree-jeju.html">
 Jeju Island
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-ingredient.html">
-Natural Ingredients
+<a href="https://us.innisfree.com/about-innisfree-ingredient.html">
+Ingredients
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-byNum.html">
-innisfree by the Numbers
+<a href="https://us.innisfree.com/about-innisfree-byNum.html">
+Key Numbers
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-btPhy.html">
-Our Beauty Philosophy
+<a href="https://us.innisfree.com/about-innisfree-btPhy.html">
+Beauty Philosophy
 </a>
 </li>
 </ul>
 </div>
 <div class="fl">
 <p class="title ">
-<a href="http://us.innisfree.com/about-innisfree-share-promise.html">
+<a href="https://us.innisfree.com/about-innisfree-share-promise.html">
 GREEN LIFE
 </a>
 </p>
 <ul>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-share-promise.html">
-Our Green Promise
+<a href="https://us.innisfree.com/about-innisfree-share-promise.html">
+Green Promise
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-share-campaign.html">
+<a href="https://us.innisfree.com/about-innisfree-share-campaign.html">
 Forest Campaign
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-share-rescycling.html">
+<a href="https://us.innisfree.com/about-innisfree-share-rescycling.html">
 Eco-Recycling
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-share-green.html">
+<a href="https://us.innisfree.com/about-innisfree-share-green.html">
 PlayGreen
 </a>
 </li>
 <li>
-<a href="http://us.innisfree.com/about-innisfree-share-hankie.html">
+<a href="https://us.innisfree.com/about-innisfree-share-hankie.html">
 Eco-Hankie
-</a>
-</li>
-<li>
-<a href="http://us.innisfree.com/about-innisfree-share-holiday.html">
-Green Holidays
 </a>
 </li>
 </ul>
@@ -1635,44 +1653,33 @@ Green Holidays
 </div>
 <p></p>
 </li>
-<li class="g-default none-sub">
+<li class="g-default has-sub-menu non-primary">
 <p>
-<a href="http://us.innisfree.com/todays-offers.html">
-Today’s Offers
+<a class=" " href="https://us.innisfree.com/k-beauty-101/">
+K-Beauty 101
 </a>
-<span></span>
-</p>
-</li>
-<li class="g-default has-sub-menu">
-<p>
-<a href="http://us.innisfree.com/gifts/" style="color: rgb(204, 9, 9);"><i class="fa fa-gift" aria-hidden="true"></i> Gifts</a>
 <span></span>
 </p><div class="sub-category" style="left:auto; ">
 <div class="sc-wrap clear">
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/gifts/limited-edition/">
-Limited Edition
+<a href="https://us.innisfree.com/discover-sheet.html">
+Sheet Masks 101
 </a>
 </p>
 <p class="title none-sub">
-<a href="http://us.innisfree.com/gifts/stocking-stuffers/">
-Stocking Stuffers
+<a href="https://us.innisfree.com/essence-101.html">
+Essence 101
 </a>
 </p>
 <p class="title none-sub">
-<a href="http://us.innisfree.com/gifts/diy-string-art-kit/">
-DIY String Art Kit
+<a href="https://us.innisfree.com/k-beauty-101/sleeping-beauty/">
+Sleeping Beauty
 </a>
 </p>
 <p class="title none-sub">
-<a href="http://us.innisfree.com/gifts/gifts-under-%2415/">
-Gifts Under $15
-</a>
-</p>
-<p class="title none-sub">
-<a href="http://us.innisfree.com/gifts/gifts-under-%2430/">
-Gifts Under $30
+<a href="https://us.innisfree.com/orchid-2019.html">
+Winter Skincare
 </a>
 </p>
 </div>
@@ -1682,66 +1689,63 @@ Gifts Under $30
 <div class="sc-wrap clear">
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/gifts/limited-edition/">
-Limited Edition
+<a href="https://us.innisfree.com/discover-sheet.html">
+Sheet Masks 101
 </a>
 </p>
 </div>
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/gifts/stocking-stuffers/">
-Stocking Stuffers
+<a href="https://us.innisfree.com/essence-101.html">
+Essence 101
 </a>
 </p>
 </div>
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/gifts/diy-string-art-kit/">
-DIY String Art Kit
+<a href="https://us.innisfree.com/k-beauty-101/sleeping-beauty/">
+Sleeping Beauty
 </a>
 </p>
 </div>
 <div class="fl">
 <p class="title none-sub">
-<a href="http://us.innisfree.com/gifts/gifts-under-%2415/">
-Gifts Under $15
-</a>
-</p>
-</div>
-<div class="fl">
-<p class="title none-sub">
-<a href="http://us.innisfree.com/gifts/gifts-under-%2430/">
-Gifts Under $30
+<a href="https://us.innisfree.com/orchid-2019.html">
+Winter Skincare
 </a>
 </p>
 </div>
 </div>
 </div>
 <p></p>
+</li>
+<li class="g-default none-sub non-primary">
+<p>
+<a class="sale-category " href="https://us.innisfree.com/todays-offers.html">
+Offers
+</a>
+<span></span>
+</p>
 </li>
 </ul>
 </div>
 <div class="header-util-mobile">
 <div class="content-asset">
 <ul>
-<li><a href="http://us.innisfree.com/discover-sheet.html" style="color:#222;">SHEET MASKS</a></li>
-<li><a href="http://us.innisfree.com/benefits-loyaltyProgram.html?cache=false">MY INNISFREE REWARDS</a></li>
-<li><a href="http://us.innisfree.com/about-innisfree-ingredient.html">OUR INGREDIENTS</a></li>
-<li><a href="http://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Stores-Locator">FLAGSHIP STORE</a></li>
-<li class="m-display m-discover">
-<a href="#" class="">HELP</a>
+<li><a href="https://us.innisfree.com/benefits-loyaltyProgram.html?cache=false">MY INNISFREE REWARDS</a></li>
+<li><a href="https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Stores-Locator">STORES &amp; EVENTS</a></li>
+<li class="m-display m-discover"><a href="#">HELP</a>
 <div class="sub-category">
 <div class="sc-wrap">
-<div class="">
-<p class="title"><a href="http://us.innisfree.com/contactus" class="none-sub"><span class="sp-icons i-call"></span> CONTACT US</a></p>
-<p class="title"><a href="http://us.innisfree.com/faq.html" class="none-sub"><span class="sp-icons i-faq"></span> FREQUENTLY ASKED</a></p>
-<p class="title"><a href="http://us.innisfree.com/cstm-return.html" class="none-sub"><span class="sp-icons i-shipping"></span> SHIPPING &amp; RETURNS</a></p>
+<div>
+<p class="title"><a class="none-sub" href="https://us.innisfree.com/contactus"><span class="sp-icons i-call"></span> CONTACT US</a></p>
+<p class="title"><a class="none-sub" href="https://us.innisfree.com/faq.html"><span class="sp-icons i-faq"></span> FREQUENTLY ASKED</a></p>
+<p class="title"><a class="none-sub" href="https://us.innisfree.com/cstm-return.html"><span class="sp-icons i-shipping"></span> SHIPPING &amp; RETURNS</a></p>
 </div>
 </div>
 </div>
 </li>
-<li class="message w-display">
-<a href="#"><span class="sp-icons i-message"></span></a>
+<li class="message w-display"><a href="#"><span class="sp-icons i-message"></span></a>
 <p class="msg-layer">Sign Up For Email</p>
 </li>
 <li class="account"><a href="#">MY ACCOUNT</a></li>
@@ -1756,122 +1760,34 @@ Gifts Under $30
 <div class="header-util-desktop">
 <div class="content-asset">
 <ul>
-<li><a href="http://us.innisfree.com/discover-sheet.html">SHEET MASKS 101</a></li>
-<li><a href="http://us.innisfree.com/benefits-loyaltyProgram.html?cache=false">MY INNISFREE REWARDS</a></li>
-<li><a href="http://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Stores-Locator">FLAGSHIP STORE</a></li>
+<li><a href="https://us.innisfree.com/benefits-loyaltyProgram.html?cache=false">MY INNISFREE REWARDS</a></li>
+<li><a href="https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Stores-Locator">STORES &amp; EVENTS</a></li>
 </ul>
 </div> 
 </div>
 <ul>
-<li class="message">
-<a class="msg-layer">Sign Up For Email</a>
-<a href="#"><span class="sp-icons i-message"></span></a>
-<div class="email-subject">
-<div class="from-dialog">
-<div class="wrap-form">
-<div class="sign-up-now">
-<h3 class="title">sign up now!</h3>
-<h2 class="title">Subscribe</h2>
-<p>Receive the latest news, exclusive offers, inspiration, upcoming events and more.</p>
-</div>
-<form class="email optinheader" method="post" action="/on/demandware.store/Sites-InnisfreeUS-Site/en/BrontoOptIn-Header">
-<input class="optInEmailHeader subscribe-email" type="email" name="email" value="" placeholder="Email Address">
-<div class="optinheader-guest">
-<button class="btn-type dark size-s optinheaderbutton" type="submit" disabled="">Submit</button>
-<a class="btn-type dark-line size-s" href="/login">sign up</a>
-</div>
-</form>
-<p class="success-message success-message-block visually-hidden">Thanks for subscribing!
-<a class="btn-type dark size-s c-account" href="/register">Create your account</a>
-</p>
-<div class="optin_message_header"></div>
-</div>
-</div>
-</div>
-</li>
 <li class="help">
 <div class="content-asset">
-<a href="http://us.innisfree.com/customerservice?cid=cs-contactUs" class="link">HELP</a>
+<a href="https://us.innisfree.com/customerservice?cid=cs-contactUs" class="link">HELP</a>
 <a href="#" class="help-arr"></a>
 <div class="help-layer">
 <ul>
-<li class="call"><a href="http://us.innisfree.com/contactus"><span class="sp-icons i-mail"></span>CONTACT US</a></li>
-<li class="faq"><a href="http://us.innisfree.com/customerservice?cid=cs-faq"><span class="sp-icons i-faq"></span>FREQUENTLY ASKED</a></li>
-<li class="ship"><a href="http://us.innisfree.com/customerservice?cid=cs-shippingInfo"><span class="sp-icons i-shipping"></span>SHIPPING &amp; RETURNS</a></li>
+<li class="call"><a href="https://us.innisfree.com/contactus"><span class="sp-icons i-mail"></span>CONTACT US</a></li>
+<li class="faq"><a href="https://us.innisfree.com/customerservice?cid=cs-faq"><span class="sp-icons i-faq"></span>FREQUENTLY ASKED</a></li>
+<li class="ship"><a href="https://us.innisfree.com/customerservice?cid=cs-shippingInfo"><span class="sp-icons i-shipping"></span>SHIPPING &amp; RETURNS</a></li>
 </ul>
 </div>
 </div> 
 </li>
 <li class="account-logged">
-<a class="user-account" href="https://us.innisfree.com/account" title="User: Login /  Register">Login / Register</a>
-<div class="user-panel">
-<h3>sign in</h3>
-<div class="login-box login-account">
-<div class="login-box-content returning-customers clearfix">
-<form action="https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Login-LoginForm" method="post" class="clearfix" id="dwfrm_login">
-<fieldset>
-<div class="form-row username required">
-<label for="dwfrm_login_username_d0zyhvcoffqw" class="text"><span class="required-indicator">• </span><span>Email Address</span></label>
-<div class="field-wrapper select-type">
-<input class="input-text email required" regexp="" type="text" id="dwfrm_login_username_d0zyhvcoffqw" name="dwfrm_login_username_d0zyhvcoffqw" value="" placeholder="Email Address">
-</div>
-<div class="form-caption"></div>
-</div>
-<div class="form-row password required">
-<label for="dwfrm_login_password_d0whxlxnmtjj" class="password"><span class="required-indicator">• </span><span>Password</span></label>
-<div class="field-wrapper select-type">
-<input class="input-text  required" regexp="" type="password" id="dwfrm_login_password_d0whxlxnmtjj" name="dwfrm_login_password_d0whxlxnmtjj" value="" placeholder="Password">
-</div>
-<div class="form-caption"></div>
-</div>
-<p>8 or more characters, must contain a number and special character</p>
-<div class="form-row form-row-button">
-<button type="submit" class="button-login btn-type dark size-s" value="Login" name="dwfrm_login_login">
-sign in
-</button>
-<div class="form-row label-inline login-rememberme label-inline form-indent">
-<div class="field-wrapper select-type">
-<span class="checkbox-group"><input name1="second" class="input-checkbox " regexp="" type="checkbox" id="dwfrm_login_rememberme2" name="dwfrm_login_rememberme2" value="true"><label for="dwfrm_login_rememberme2" class="checkbox"><span>Remember Me</span></label></span>
-</div>
-<div class="form-caption"></div>
-</div>
-<a class="password-reset" href="/on/demandware.store/Sites-InnisfreeUS-Site/en/Account-PasswordResetDialog" title="Request to reset your password">
-Forgot Your Password?
-</a>
-</div>
-<input type="hidden" name="csrf_token" value="-AEjEzMjwHk-nu-1n9yhiQ4XCE8yivB47iFknqPBUSdHPJJKcwt4ewBDv5jwaEx28rkb4l4navsxryw-iKb14HQOPn24CgYyWFAXnfRP_TOo6m4k9uUCbo-iHlYspPAUbDzmgHzIoXHq8SLDnl36JYNuKkaxPSMNzEf_2DoCq7fuVmU24z8">
-</fieldset>
-</form>
-</div>
-<div class="or-login">
-<p>or</p>
-</div>
-<div class="social-login">
-<form action="https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Login-LoginForm" method="post" class="clearfix" id="dwfrm_oauthlogin">
-<fieldset>
-<div class="wrap-facebook btn-type dark">
-<i class="fa fa-facebook" aria-hidden="true"></i> <input type="submit" class="oAuthIcon" id="Facebook" name="dwfrm_oauthlogin_login" value="Facebook">
-</div>
-<div class="wrap-google btn-type dark">
-<i class="fa fa-google-plus" aria-hidden="true"></i> <input type="submit" class="oAuthIcon" id="GooglePlus" name="dwfrm_oauthlogin_login" value="Google+">
-</div>
-<input type="hidden" name="rememberme" id="rememberme" value="">
-<input type="hidden" name="csrf_token" value="60_PGNcbUfGnN1y4HyPWoZWmeVVlQjeomnS_Ls6dKiz4euCrAE2Gt9MPw9u4roBEErdNFIeQMfA5lDyjGX8xXUth7lxzafBlR6P8gMNgniGcNRtSk4bqtqq6aArJ3cRUxx12YXK-0rZv5_CszrgnS6sQiTnS-8XQNfM5B2jtua72vNJL4E8">
-<input type="hidden" name="OAuthProvider" id="OAuthProvider" value="">
-</fieldset>
-</form>
-</div>
-</div>
-<div class="create-new-account">
-<p>Don't have an account?</p>
-<a class="btn-type dark size-s" href="https://us.innisfree.com/register">Create Account</a>
-</div>
-</div>
+<a class="user-account" href="https://us.innisfree.com/login" title="User: Sign-in /  Register">Sign-in / Register <span class="fa fa-user"></span></a>
 </li>
 <li class="search"><span></span></li>
 <li class="mini-cart">
 
 
+<div class="mini-cart-label visible-desktop">BAG</div>
+<div class="mini-cart-icon">
 <div class="mini-cart-total">
 <a class="mini-cart-link mini-cart-empty" href="https://us.innisfree.com/cart" title="View Cart">
 <span class="count">0</span>
@@ -1891,8 +1807,12 @@ Forgot Your Password?
 </div>
 </div>
 </div>
+</div>
 </li>
 </ul>
+</div>
+<div class="search">
+<div id="search-label">Search</div>
 </div>
 </div>
 </div>
@@ -1903,10 +1823,14 @@ Forgot Your Password?
 <form role="search" action="/search" method="get" name="simpleSearch">
 <div class="close"></div>
 <fieldset>
+<legend class="visually-hidden">Search Catalog</legend>
 <label class="visually-hidden" for="q">Search Catalog</label>
-<input type="text" id="q" name="q" value="" placeholder="What are you looking for?">
+<input type="text" class="search-field" name="q" value="" title="What are you looking for?" placeholder="What are you looking for?">
+<div class="close-button">
+<span class="close-background"></span>
+<span class="close-icon"></span>
+</div>
 <input type="hidden" name="lang" value="en">
-<button type="submit"><span class="visually-hidden">Search</span></button>
 </fieldset>
 </form>
 </div>
@@ -1914,7 +1838,7 @@ Forgot Your Password?
 </div>
 </div>
 </div>
-<a href="#" class="snb-close"><span></span><span></span></a>
+<div href="#" class="snb-close"><span></span><span></span></div>
 <div id="main" role="main" class="full-width clearfix">
 <div id="browser-check">
 <noscript>
@@ -2008,7 +1932,7 @@ We may share your personal information with our corporate affiliates, such as Am
 <br>In addition, we may share de-identified, aggregated information (i.e., the information that is not directly connected to your identity) about our customers with advertisers and marketing partners in order to gain insights about the market and improve our business performance. We may also contract with third party companies to collect information about your use of our website and other websites through technologies such as cookies, so that we may provide advertisements that are more relevant to your needs and interests based on your internet activity history. Those advertisements may appear either on our website, or on other websites.
 <br>
 <br>We may disclose your personal information to law enforcement or other government authorities when required by law or when we believe such disclosure is necessary to prevent physical harm or financial loss or to assist an investigation of any illegal activity, suspected or actual.
- <br>
+<br>
 <br>We will always take steps to ensure that any of your information used by all third parties is properly protected in accordance with this policy and applicable laws. We will not otherwise share, sell or distribute any of the information you provide to us outside the scope described herein without your consent.
 </div>
 </div>
@@ -2085,6 +2009,20 @@ We may revise this policy periodically and without prior notice to you. You shou
 <div class="footer-item">
 <div class="content-asset">
 <style>
+/*
+#gnb ul li:nth-child(7) p:first-child a:first-child:before {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\f06b";
+}
+#gnb ul li:nth-child(7) p.none-sub a:first-child:before {
+    content: "";
+}
+*/
 footer .footer-container h3.title {position: inherit;}
 @media only screen and (max-width: 1024px){
 	footer .footer-container h3.title {position: relative;}
@@ -2093,11 +2031,11 @@ footer .footer-container h3.title {position: inherit;}
 <div class="footer-custom-service footer-slide-parent">
 <h3 class="title"><a href="#none">customer service</a><span class="icon-desktop"><i class="fa fa-plus" aria-hidden="true"></i></span><span class="icon-mobile"><i class="fa fa-minus" aria-hidden="true"></i></span></h3>
 <ul>
-<li><a href="http://us.innisfree.com/customerservice?cid=cs-return">Return Policy</a></li>
-<li><a href="http://us.innisfree.com/customerservice?cid=cs-shippingInfo">Shipping Information</a></li>
-<li><a href="http://us.innisfree.com/customerservice?cid=cs-membershipProgram">Membership Program</a></li>
-<li><a href="http://us.innisfree.com/contactus">Contact Us</a></li>
-<li><a href="http://us.innisfree.com/customerservice?cid=cs-faq">FAQs</a></li>
+<li><a href="https://us.innisfree.com/customerservice?cid=cs-return">Return Policy</a></li>
+<li><a href="https://us.innisfree.com/customerservice?cid=cs-shippingInfo">Shipping Information</a></li>
+<li><a href="https://us.innisfree.com/customerservice?cid=cs-membershipProgram">Membership Program</a></li>
+<li><a href="https://us.innisfree.com/contactus">Contact Us</a></li>
+<li><a href="https://us.innisfree.com/customerservice?cid=cs-faq">FAQs</a></li>
 </ul>
 </div>
 </div> 
@@ -2107,7 +2045,7 @@ footer .footer-container h3.title {position: inherit;}
 <div class="footer-discovery footer-slide-parent">
 <h3 class="title"><a href="#none">discover</a> <span class="icon-desktop"><i class="fa fa-plus" aria-hidden="true"></i></span><span class="icon-mobile"><i class="fa fa-minus" aria-hidden="true"></i></span></h3>
 <ul>
-<li><a href="http://us.innisfree.com/discover-sheet.html">Sheet Masks 101</a></li>
+<li><a href="https://us.innisfree.com/discover-sheet.html">Sheet Masks 101</a></li>
 
 </ul>
 </div>
@@ -2118,14 +2056,10 @@ footer .footer-container h3.title {position: inherit;}
 <div class="footer-our-stories footer-slide-parent">
 <h3 class="title"><a href="#none">about innisfree</a> <span class="icon-desktop"><i class="fa fa-plus" aria-hidden="true"></i></span><span class="icon-mobile"><i class="fa fa-minus" aria-hidden="true"></i></span></h3>
 <ul>
-<li><a href="http://us.innisfree.com/about-innisfree-concept.html">Natural Benefits from Jeju Island</a></li>
-<li><a href="http://us.innisfree.com/about-innisfree-share-promise.html">Green Life</a></li>
+<li><a href="https://us.innisfree.com/about-innisfree-concept.html">Natural Benefits from Jeju Island</a></li>
+<li><a href="https://us.innisfree.com/about-innisfree-share-promise.html">Green Life</a></li>
 </ul>
 </div>
-<style>
-
-#d-header #gnb ul li .sub-category .sc-wrap .fl .banner { display:none;}
-</style>
 </div> 
 </div>
 </div>
@@ -2135,7 +2069,7 @@ footer .footer-container h3.title {position: inherit;}
 <h3 class="title">Sign Up For Email</h3>
 <p>Receive exclusive online offers, news about our latest products and more!</p>
 <form class="email optinfooter" method="post" action="/on/demandware.store/Sites-InnisfreeUS-Site/en/BrontoOptIn-Footer">
-<input class="optInEmailFooter subscribe-email" type="email" name="email" value="" placeholder="Email Address">
+<input class="optInEmailFooter subscribe-email" type="email" name="email" value="" title="Subscribe" placeholder="Email Address">
 <button type="submit" class="btn-type dark size-b optinfooterbutton" disabled="">go</button>
 </form>
 <div class="optin_message_footer"></div>
@@ -2155,14 +2089,12 @@ footer .footer-container h3.title {position: inherit;}
 <div class="footer-container2 clearfix">
 <div class="footer-item copyright">
 <div class="content-asset">
-<div>Copyright ⓒ 2017 innisfree Inc. All rights reserved.</div>
+<div>Copyright ⓒ 2018 innisfree Inc. All rights reserved.</div>
 <style type="text/css">
-.sub-category .banner {display:none;}
-
 @media only screen and (max-width: 768px){
 
 div[aria-describedby="slick-slide22"] img { 
-    margin-left:-15% !important;
+    margin-left:0% !important;
 }
 div[aria-describedby="slick-slide20"] img { 
     margin-left:0% !important;
@@ -2175,8 +2107,9 @@ div[aria-describedby="slick-slide20"] img {
 <div class="content-asset">
 <div class="footer-terms-menu">
 <ul>
-<li><a href="http://us.innisfree.com/innisfree-termsConditions.html">Terms of Use</a></li>
-<li><a href="http://us.innisfree.com/innisfree-privacyPolicy.html">Privacy Policy</a></li>
+<li><a href="https://us.innisfree.com/innisfree-accessibility.html">Accessibility</a></li>
+<li><a href="https://us.innisfree.com/innisfree-termsConditions.html">Terms of Use</a></li>
+<li><a href="https://us.innisfree.com/innisfree-privacyPolicy.html">Privacy Policy</a></li>
 <li class="select-country"><a>CHANGE COUNTRY <span class="ico-flag us"></span></a>
 <div class="country-layer">
 <ul>
@@ -2199,25 +2132,42 @@ div[aria-describedby="slick-slide20"] img {
 </ul>
 </div>
 <script type="text/javascript">
-var elem = document.getElementsByClassName('has-sub-menu');
+
+var elem = document.getElementsByClassName('title');
 for(var i = 0; i < elem.length; i++)
 {
-   if(elem.item(i).childNodes[1].childNodes[1].innerHTML.indexOf("Gift") != -1){
-        elem.item(i).childNodes[1].childNodes[1].innerHTML = '<i class="fa fa-gift" aria-hidden="true"></i> Gifts';
-        elem.item(i).childNodes[1].childNodes[1].style.color = '#cc0909';
+   if(elem.item(i).childNodes[1].innerHTML.indexOf("Last Chance!") != -1){
+       elem.item(i).childNodes[1].style.color = '#cc0909';
     }
 }
            
   </script>
+
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1035418,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
 </div> 
 </div>
 </div>
 </footer>
+<script type="text/javascript" src="//p.bm23.com/bta.js"></script>
+<script type="text/javascript">
+	var bta = new __bta("u78O84wzwUATAhQiNzpEhg");
+	bta.setHost("app.bronto.com");
+</script>
+<script bronto-popup-id="7ee8bbdb-9728-4709-a743-8970a9e0144e" src="https://cdn.bronto.com/popup/delivery.js"></script>
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1513181376476/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1547842888582/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1513181376476/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1547842888582/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -2225,15 +2175,15 @@ for(var i = 0; i < elem.length; i++)
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
-<script src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1513181376476/lib/jquery/vendor.min.js"></script>
-<script src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1513181376476/lib/jquery/jquery.touchwipe.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1547842888582/lib/jquery/vendor.min.js"></script>
+<script src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1547842888582/lib/jquery/jquery.touchwipe.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","CHECK_YOUR_ID_OR_PASSWORD_AGAIN":"Please check your ID or password again","DASH":"-","USING":"Using","APPLIED":"Applied","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"What are you looking for?","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","CONFIRMATION_YES":"Yes","CONFIRMATION_NO":"No","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","IN_WISHLIST":"In My Favorite","MESSAGE_IN_WISHLIST":"This item has been added to my favorite.","VALIDATE_REQUIRED":"<span class=\"validate-error\"></span>This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"<span class=\"validate-error\"></span>The Email address is invalid.","VALIDATE_PASSWORD":"8 or more characters, must contain a number and special character","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","VALIDATE_PASSWORD_MATCH":"Your passwords do not match","VALIDATE_POSTAL":"Please enter valid ZIP Code.","REGEX_EMAIL":"^([\\w\\.\\-\\+])+\\@(([\\w\\-])+\\.)+([a-zA-Z0-9]{2,6})$","MESSAGE_COUPONAPPLIED":"has been added to your order and was applied.","COUPONCODE":"Coupon code","INVALID_ADDRESS":"Invalid Address Provided","CHECK_PAYMENTSETTINGS":"Your payment information is invalid, please check again.","SAMPLE_ADD":"Add","SAMPLE_REMOVE":"Remove","REWARDPOINT_MISSING":"Please enter reward points","ZERO_REDEEM":"Can't apply zero points","MORE_THAN_TOTAL_REDEEM":"Insufficient points","REDEEMPOINTSUCCESS":"Applied","COUPONCODEUNKNOWN":"The code is invalid.","Bronto_EMAILBLANK":"Email field blank","Bronto_INTERNALERROR":"Internal Error","Bronto_SUCCESSMESSAGE":"Successfull","Bronto_AJAXDECLINED":"Ajax call failed","SIGNUPEMAILSUCCESSFULLY":"Sign up successfully!","BIRHTDAYINVALID":"Please select correct date.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Available Quantity","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Resources-Load","pageInclude":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Page-Include","continueUrl":"http://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Page-Show","staticPath":"/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1513181376476/","addGiftCert":"/on/demandware.store/Sites-InnisfreeUS-Site/en/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-InnisfreeUS-Site/en/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Cart-AddProduct","addSample":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Sample-AddProduct","removeSample":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Sample-RemoveProduct","minicart":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-GetAddressDetails?addressID=","paymentsList":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/PaymentInstruments-List","addressesList":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-List","wishlistAddress":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-Delete","getProductUrl":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Product-Show","getBonusProducts":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Product-Detail","getAvailability":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-InnisfreeUS-Site/-/default/dwe7095cfc/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Search-GetSuggestions","searchShow":"/search","productNav":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-UpdateSummary","billingSelectCC":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-SelectCreditCard","updateAddressDetails":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COShipping-UpdateShippingMethodList","handleShippingMethod":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COShipping-HandleShippingMethod","handleSPBillingPage":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COShipping-HandleSPBilling","handleSPOrderReview":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-HandleSPOrderReview","handleSPCouponRemove":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Cart-SPRemoveCoupon","handleSPRegisteredAddress":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-GetAddressDetails","handleSPDelete":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-SPDelete","handleSPSetDefault":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-SPSetDefault","handleSPCreditCard":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-SelectCreditCard","handleSPAddressDelete":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-Delete","handleSPAddressSetDefault":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-SetDefault","handleSPAddressEdit":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-SPAddressEdit","handleSPCardDelete":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/PaymentInstruments-SPCardDelete","optInFooter":"/on/demandware.store/Sites-InnisfreeUS-Site/en/BrontoOptIn-Footer","optInHeader":"/on/demandware.store/Sites-InnisfreeUS-Site/en/BrontoOptIn-Header","selectShippingMethodsList":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Compare-Show","compareAdd":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-InnisfreeUS-Site/-/default/dw2432207a/images/comparewidgetempty.png","giftCardCheckBalance":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-RedeemGiftCertificateJson","redeemRewardPoints":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-RedeemRewardPointsJson","addCoupon":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-InnisfreeUS-Site/en/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-InnisfreeUS-Site/en/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-InnisfreeUS-Site/en/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-InnisfreeUS-Site/en/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-InnisfreeUS-Site/en/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-InnisfreeUS-Site/en/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-Start","setSessionCurrency":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-InnisfreeUS-Site/en/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Page-Show?cid=cookie_hint","rateLimiterReset":"/on/demandware.store/Sites-InnisfreeUS-Site/en/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-InnisfreeUS-Site/en/CSRF-Failed","returnRequest":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Order-ReturnRequest","posAccountCreateUpdate":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/POSAccount-UpdateCustomerInfo","confirmPasswordDialog":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Account-ConfirmPasswordDialog","confirmBirthdayDialog":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Account-ConfirmBirthdayDialog","dialogAccountBarcode":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Account-ShowPopupBarcode","checkBirthday":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Account-CheckBirthday","resetPoints":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-ResetPoints","populatePoints":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-PopulatePoints","sendOrderReturnEmail":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Order-SendReturnOrderEmail","requestPointHistory":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Account-PointHistory","orderPurchaseHistory":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Order-PurchaseHistory","orderHistory":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Order-History","myCuishonShowShades":"/on/demandware.store/Sites-InnisfreeUS-Site/en/MyCuishon-ShowShades","myCuishonShowApplicator":"/on/demandware.store/Sites-InnisfreeUS-Site/en/MyCuishon-ShowApplicator","myCuishonShowCase":"/on/demandware.store/Sites-InnisfreeUS-Site/en/MyCuishon-ShowCase","myCuishonShowFinish":"/on/demandware.store/Sites-InnisfreeUS-Site/en/MyCuishon-ShowFinish","myCuishonAddAllToCart":"/on/demandware.store/Sites-InnisfreeUS-Site/en/MyCuishon-AddAllToCart","myCuishonRemoveMcLineItem":"/on/demandware.store/Sites-InnisfreeUS-Site/en/MyCuishon-RemoveMcLineItem","myCuishonShowMcLanding":"/on/demandware.store/Sites-InnisfreeUS-Site/en/MyCuishon-ShowMcLanding"};
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"STORE_PICKUP":false,"COOKIE_HINT":false,"CHECK_TLS":false};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","CHECK_YOUR_ID_OR_PASSWORD_AGAIN":"Please check your ID or password again","DASH":"-","USING":"Using","APPLIED":"Applied","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"What are you looking for?","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a coupon code.","CONFIRMATION_YES":"Yes","CONFIRMATION_NO":"No","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","IN_WISHLIST":"In My Favorite","MESSAGE_IN_WISHLIST":"This item has been added to my favorite.","VALIDATE_REQUIRED":"<span class=\"validate-error\"></span>This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"<span class=\"validate-error\"></span>The Email address is invalid.","VALIDATE_PASSWORD":"6 or more characters, must contain a number or a special character","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","VALIDATE_PASSWORD_MATCH":"Your passwords do not match","VALIDATE_POSTAL":"Please enter valid ZIP Code.","REGEX_EMAIL":"^([\\w\\.\\-\\+])+\\@(([\\w\\-])+\\.)+([a-zA-Z0-9]{2,6})$","MESSAGE_COUPONAPPLIED":"has been added to your order and was applied.","COUPONCODE":"Coupon code","INVALID_ADDRESS":"Invalid Address Provided","CHECK_PAYMENTSETTINGS":"Your payment information is invalid, please check again.","SAMPLE_ADD":"Add","SAMPLE_REMOVE":"Remove","REWARDPOINT_MISSING":"Please enter reward points","ZERO_REDEEM":"Can't apply zero points","MORE_THAN_TOTAL_REDEEM":"Insufficient points","REDEEMPOINTSUCCESS":"Applied","COUPONCODEUNKNOWN":"The code is invalid.","Bronto_EMAILBLANK":"Email field blank","Bronto_INTERNALERROR":"Internal Error","Bronto_SUCCESSMESSAGE":"Successfull","Bronto_AJAXDECLINED":"Ajax call failed","SIGNUPEMAILSUCCESSFULLY":"Sign up successfully!","BIRHTDAYINVALID":"Please select correct date.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Available Quantity","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Resources-Load","pageInclude":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Page-Include","pageShow":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Page-Show","continueUrl":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Page-Show","staticPath":"/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1547842888582/","addGiftCert":"/on/demandware.store/Sites-InnisfreeUS-Site/en/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-InnisfreeUS-Site/en/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Cart-AddProduct","addSample":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Sample-AddProduct","removeSample":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Sample-RemoveProduct","minicart":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-GetAddressDetails?addressID=","paymentsList":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/PaymentInstruments-List","addressesList":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-List","wishlistAddress":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-Delete","getProductUrl":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Product-Show","getBonusProducts":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Product-Detail","getAvailability":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-InnisfreeUS-Site/-/default/dwe7095cfc/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Search-GetSuggestions","searchShow":"/search","productNav":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-UpdateSummary","billingSelectCC":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-SelectCreditCard","updateAddressDetails":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COShipping-UpdateShippingMethodList","handleShippingMethod":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COShipping-HandleShippingMethod","handleSPBillingPage":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COShipping-HandleSPBilling","handleSPOrderReview":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-HandleSPOrderReview","handleSPCouponRemove":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Cart-SPRemoveCoupon","handleSPRegisteredAddress":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-GetAddressDetails","handleSPDelete":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-SPDelete","handleSPSetDefault":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-SPSetDefault","handleSPCreditCard":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-SelectCreditCard","handleSPAddressDelete":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-Delete","handleSPAddressSetDefault":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-SetDefault","handleSPAddressEdit":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Address-SPAddressEdit","handleSPCardDelete":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/PaymentInstruments-SPCardDelete","optInFooter":"/on/demandware.store/Sites-InnisfreeUS-Site/en/BrontoOptIn-Footer","optInHeader":"/on/demandware.store/Sites-InnisfreeUS-Site/en/BrontoOptIn-Header","selectShippingMethodsList":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Compare-Show","compareAdd":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-InnisfreeUS-Site/-/default/dw2432207a/images/comparewidgetempty.png","giftCardCheckBalance":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-RedeemGiftCertificateJson","redeemRewardPoints":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-RedeemRewardPointsJson","addCoupon":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-InnisfreeUS-Site/en/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-InnisfreeUS-Site/en/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-InnisfreeUS-Site/en/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-InnisfreeUS-Site/en/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-InnisfreeUS-Site/en/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-InnisfreeUS-Site/en/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-Start","setSessionCurrency":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-InnisfreeUS-Site/en/COShippingMultiple-AddEditAddressJSON","cookieHint":"/on/demandware.store/Sites-InnisfreeUS-Site/en/Page-Show?cid=cookie_hint","rateLimiterReset":"/on/demandware.store/Sites-InnisfreeUS-Site/en/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-InnisfreeUS-Site/en/CSRF-Failed","returnRequest":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Order-ReturnRequest","posAccountCreateUpdate":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/POSAccount-UpdateCustomerInfo","confirmPasswordDialog":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Account-ConfirmPasswordDialog","confirmBirthdayDialog":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Account-ConfirmBirthdayDialog","dialogAccountBarcode":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Account-ShowPopupBarcode","checkBirthday":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Account-CheckBirthday","resetPoints":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-ResetPoints","populatePoints":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/COBilling-PopulatePoints","sendOrderReturnEmail":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Order-SendReturnOrderEmail","requestPointHistory":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Account-PointHistory","orderPurchaseHistory":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Order-PurchaseHistory","orderHistory":"https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/Order-History","myCuishonShowShades":"/on/demandware.store/Sites-InnisfreeUS-Site/en/MyCuishon-ShowShades","myCuishonShowApplicator":"/on/demandware.store/Sites-InnisfreeUS-Site/en/MyCuishon-ShowApplicator","myCuishonShowCase":"/on/demandware.store/Sites-InnisfreeUS-Site/en/MyCuishon-ShowCase","myCuishonShowFinish":"/on/demandware.store/Sites-InnisfreeUS-Site/en/MyCuishon-ShowFinish","myCuishonAddAllToCart":"/on/demandware.store/Sites-InnisfreeUS-Site/en/MyCuishon-AddAllToCart","myCuishonRemoveMcLineItem":"/on/demandware.store/Sites-InnisfreeUS-Site/en/MyCuishon-RemoveMcLineItem","myCuishonShowMcLanding":"/on/demandware.store/Sites-InnisfreeUS-Site/en/MyCuishon-ShowMcLanding"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"STORE_PICKUP":false,"COOKIE_HINT":false,"CHECK_TLS":false,"DIALOG_DOMAINS":"{}"};
 }());
 </script>
 <script type="text/javascript">
@@ -2243,7 +2193,7 @@ window.SessionAttributes = {"SHOW_CAPTCHA":null};
 window.User = {"zip":null,"storeId":null};
 }());
 </script>
-<script src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1513181376476/js/app.js"></script>
+<script src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1547842888582/js/app.js"></script>
 <script>pageContext = {};</script>
 <script>
 var meta = "";
@@ -2255,7 +2205,7 @@ var keywords = "";
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/__Analytics-Tracking";
+        var trackingUrl = "https://us.innisfree.com/on/demandware.store/Sites-InnisfreeUS-Site/en/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -2267,9 +2217,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1513181376476/internal/jscript/dwanalytics-16.9.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1547842888582/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1513181376476/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-InnisfreeUS-Site/-/en/v1547842888582/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
