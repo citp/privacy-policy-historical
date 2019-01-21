@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotradergroup.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215182128id_/https%3A//www.coxautoinc.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotradergroup.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121193119id_/https%3A//www.coxautoinc.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Cox Automotive
 
