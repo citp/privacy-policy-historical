@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clio.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023172133id_/https%3A//www.clio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clio.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121235839id_/https%3A//www.clio.com/privacy) for the most accurate reproduction.*
 
 # Clio | Privacy Policy
 
@@ -84,11 +84,11 @@
 
 8.1 In accordance with applicable privacy law, you have the following rights in respect of your personal information that we hold:
 
-  *  **Right of access and portability**. The right to obtain access to your personal information along with certain information, and to receive that personal information in a commonly used format and to have it ported to another data controller.
-  *  **Right to rectification**. The right to obtain rectification of your personal information without undue delay where that personal information is inaccurate or incomplete.
-  *  **Right to erasure**. The right to obtain the erasure of your personal information without undue delay in certain circumstances, such as where the personal information is no longer necessary in relation to the purposes for which it was collected or processed.
-  *  **Right to restriction**. The right to obtain the restriction of the processing undertaken by us on your personal information in certain circumstances, such as where the accuracy of the personal information is contested by you, for a period enabling us to verify the accuracy of that personal information.
-  *  **Right to object**. The right to object, on grounds relating to your particular situation, to the processing of your personal information, and to object to processing of your personal information for direct marketing purposes, to the extent it is related to such direct marketing.
+  * **Right of access and portability**. The right to obtain access to your personal information along with certain information, and to receive that personal information in a commonly used format and to have it ported to another data controller.
+  * **Right to rectification**. The right to obtain rectification of your personal information without undue delay where that personal information is inaccurate or incomplete.
+  * **Right to erasure**. The right to obtain the erasure of your personal information without undue delay in certain circumstances, such as where the personal information is no longer necessary in relation to the purposes for which it was collected or processed.
+  * **Right to restriction**. The right to obtain the restriction of the processing undertaken by us on your personal information in certain circumstances, such as where the accuracy of the personal information is contested by you, for a period enabling us to verify the accuracy of that personal information.
+  * **Right to object**. The right to object, on grounds relating to your particular situation, to the processing of your personal information, and to object to processing of your personal information for direct marketing purposes, to the extent it is related to such direct marketing.
 
 
 
@@ -102,10 +102,10 @@
 
 9.2 We use the following types of cookies:
 
-  *  **Strictly necessary cookies**. These cookies are required for the essential operation of our Service such as to authenticate you and prevent fraudulent use.
-  *  **Analytical/performance cookies**. These cookies allow us to recognise and count the number of visitors and to see how visitors move around our Service when they are using it. This helps us to improve the way our Service works, for example, by ensuring that you can find information easily.
-  *  **Functionality cookies**. These cookies are used to recognise you when you return to our Service. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
-  *  **Targeting cookies**. These cookies record your visit to our Service, the pages you have visited and the links you have followed. We will use this information to make our Service and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+  * **Strictly necessary cookies**. These cookies are required for the essential operation of our Service such as to authenticate you and prevent fraudulent use.
+  * **Analytical/performance cookies**. These cookies allow us to recognise and count the number of visitors and to see how visitors move around our Service when they are using it. This helps us to improve the way our Service works, for example, by ensuring that you can find information easily.
+  * **Functionality cookies**. These cookies are used to recognise you when you return to our Service. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+  * **Targeting cookies**. These cookies record your visit to our Service, the pages you have visited and the links you have followed. We will use this information to make our Service and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
 
 
 
@@ -152,26 +152,26 @@ V5G 2M6
 
 ### ANNEX 1 – PERSONAL INFORMATION WE COLLECT
 
- **Category of personal information**|  **How we use it**|  **Legal basis for the processing**  
+**Category of personal information** | **How we use it** | **Legal basis for the processing**  
 ---|---|---  
- **Contact information and basic personal details.** Such as your name, phone number, address, location, IP address, e-mail address and where applicable, professional details such as your bar membership number.| We use this information to communicate with you, including sending statements, news, alerts and marketing communications.| The processing is necessary for our legitimate interests, namely for marketing purposes, and for communicating with you effectively and responding to your queries.  
+**Contact information and basic personal details.** Such as your name, phone number, address, location, IP address, e-mail address and where applicable, professional details such as your bar membership number. | We use this information to communicate with you, including sending statements, news, alerts and marketing communications. | The processing is necessary for our legitimate interests, namely for marketing purposes, and for communicating with you effectively and responding to your queries.  
 We use this information to deal with enquiries and other requests made by or about you, including customer service issues, relating to the Clio Service.  
-We use this information to operate, maintain and provide to you the features and functionality of the Clio Service.| The processing is necessary for the performance of a contract and to take steps prior to entering into a contract (namely our Terms of Service).  
- **Email account username and password.**|  Where you have chosen to import contacts from your Outlook or other email account address book to invite them to become members of our Website, we collect the username and password for the email account you wish to import your contacts from.| The processing is necessary for the performance of a contract and to take steps prior to entering into a contract (namely our Terms of Service).  
- **Correspondence and comments.** When you contact us directly, e.g. by email, phone, mail, or when you interact with customer service, we will record your comments and opinions.| To address your questions, issues and concerns and resolve your customer service issues.| The processing is necessary for our legitimate interests, namely communicating with you effectively for the purposes of resolving your issues.  
- **Payment information.**  
+We use this information to operate, maintain and provide to you the features and functionality of the Clio Service. | The processing is necessary for the performance of a contract and to take steps prior to entering into a contract (namely our Terms of Service).  
+**Email account username and password.** | Where you have chosen to import contacts from your Outlook or other email account address book to invite them to become members of our Website, we collect the username and password for the email account you wish to import your contacts from. | The processing is necessary for the performance of a contract and to take steps prior to entering into a contract (namely our Terms of Service).  
+**Correspondence and comments.** When you contact us directly, e.g. by email, phone, mail, or when you interact with customer service, we will record your comments and opinions. | To address your questions, issues and concerns and resolve your customer service issues. | The processing is necessary for our legitimate interests, namely communicating with you effectively for the purposes of resolving your issues.  
+**Payment information.**  
 Details such as your credit card or other financial information including credit scores obtained from credit reference agencies.  
-| We use this information to facilitate payment for use of the Clio Service, to assess your credit score and to detect and prevent fraud.| The processing for assessing your credit score and facilitating payment is necessary for the performance of our contract with you (namely our Terms of Service).  
+| We use this information to facilitate payment for use of the Clio Service, to assess your credit score and to detect and prevent fraud. | The processing for assessing your credit score and facilitating payment is necessary for the performance of our contract with you (namely our Terms of Service).  
 The processing is necessary for our legitimate interests, namely the detection and prevention of fraud.  
   
-**Recruiting details.** Contact information and basic personal details (as set out above); professional details and employment information such as resume, references, LinkedIn profile.| We use this information to facilitate recruiting.| The processing is necessary for our legitimate interests, namely assessing your suitability for a role with Clio.  
- **All personal information set out above.**|  We will use all the personal information we collect to operate, maintain and provide to you the features and functionality of the Clio Service, to monitor and improve the Clio Service, our Website and business, for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes, to keep the Website safe and secure and to help us develop new products and services.| The processing is necessary for our legitimate interest, namely to administer and improve the Clio Service, our business and develop new services.  
+**Recruiting details.** Contact information and basic personal details (as set out above); professional details and employment information such as resume, references, LinkedIn profile. | We use this information to facilitate recruiting. | The processing is necessary for our legitimate interests, namely assessing your suitability for a role with Clio.  
+**All personal information set out above.** | We will use all the personal information we collect to operate, maintain and provide to you the features and functionality of the Clio Service, to monitor and improve the Clio Service, our Website and business, for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes, to keep the Website safe and secure and to help us develop new products and services. | The processing is necessary for our legitimate interest, namely to administer and improve the Clio Service, our business and develop new services.  
   
 ### ANNEX 2 – PERSONAL INFORMATION COLLECTED AUTOMATICALLY
 
- **Category of personal information**|  **How we use it**|  **Legal basis for the processing**  
+**Category of personal information** | **How we use it** | **Legal basis for the processing**  
 ---|---|---  
- **Information about how you access and use the Clio Service.** For example, the website from which you came and the website to which you are going when you leave our Website, your social media profiles, how frequently you access the Clio Service, the time you access the Clio Service and how long you use it for, whether you open emails or click the links contained in emails, whether you access the Clio Service from multiple devices, and other actions you take on the Clio Service.
+**Information about how you access and use the Clio Service.** For example, the website from which you came and the website to which you are going when you leave our Website, your social media profiles, how frequently you access the Clio Service, the time you access the Clio Service and how long you use it for, whether you open emails or click the links contained in emails, whether you access the Clio Service from multiple devices, and other actions you take on the Clio Service.
 
 We also gather information, which may include Internet protocol (IP) addresses,\ browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
@@ -182,7 +182,7 @@ We also gather information, which may include Internet protocol (IP) addresses,\
 
 | The processing is necessary for our legitimate interests, namely: to conduct relevant analysis to improve the Clio Service generally and for marketing purposes.  
 |   
- **Information about your device**. We also collect information about the computer, tablet, smartphone or other electronic device you use to connect to the Clio Service. This information can include details about the type of device, unique device identifying numbers, operating systems, browsers and applications connected to the Clio Service through the device, your Internet service provider or mobile network, your IP address.| We use this information to:
+**Information about your device**. We also collect information about the computer, tablet, smartphone or other electronic device you use to connect to the Clio Service. This information can include details about the type of device, unique device identifying numbers, operating systems, browsers and applications connected to the Clio Service through the device, your Internet service provider or mobile network, your IP address. | We use this information to:
 
   * enable the Clio Service to be presented to you on your device; and
   * operate, maintain and provide to you the features and functionality of the Clio Service.
