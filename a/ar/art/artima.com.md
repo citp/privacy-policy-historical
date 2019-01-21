@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the artima.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123040751id_/https%3A//www.artima.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artima.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121064948id_/https%3A//www.artima.com/privacy) for the most accurate reproduction.*
 
-# Artima Network Privacy Policy
-
-Artima Network Privacy Policy  
-
+# artima - Artima Network Privacy Policy
 
 Artima, Inc. (“Artima” or “we”) believes your privacy is tremendously important. We have created this privacy statement in order to demonstrate our firm commitment to privacy. Below is our privacy policy spelled out in the necessary legal language. It describes how we collect and use your personal data. If you have any questions or comments regarding Artima's privacy policy or its enforcement, please contact us at privacy AT artima DOT com. 
 
-1\. ABOUT THE ARTIMA NETWORK. The Artima Network, which consists of the Artima Developer (http://www.artima.com) and other Web sites and email mailing lists (hosted at lists.artima.com), is owned and operated by Artima. 
+1\. ABOUT THE ARTIMA NETWORK. The Artima Network, which consists of Artima.com (http://www.artima.com) and other Web sites and email mailing lists (hosted at lists.artima.com), is owned and operated by Artima. 
 
 2\. INFORMATION WE COLLECT. Artima collects personal information when you register or edit your user account and when you use certain Artima Network products or services. From time to time, we may collect personal information on behalf of partners for the purpose of later delivering the information to the partner, such as providing a form you must fill in to download a white paper or trial software package from the partner or enter a contest; see the “Use of Information” section below. If you contact Artima, we may keep record of that correspondence. We use such personal information to identify our users, perform analysis, improve our services, contact you, allow you to join email lists, and fulfill your requests for products and services. 
 
@@ -22,12 +19,12 @@ By modifying your browser preferences, you have the choice to accept all cookies
 4\. USE OF INFORMATION. Of the personal information we collect, we consider any email addresses, physical addresses, phone numbers, passwords, and credit card numbers you submit to use to be highly private (the "Private Data"). We will not sell, lease or exchange your Private Data to third parties except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
   * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Artima's [Terms of Use](http://www.artima.com/termsofuse.html), or as otherwise required by law. 
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Artima's [Terms of Use](https://web.archive.org/terms-of-use), or as otherwise required by law. 
   * We transfer information about you if Artima is acquired by or merged with another company. 
 
 
 
-Only the personal information listed above is considered Private Data. Other personal information, such as your real name, username, website URL, and short bio, is considered simply Content, for which you grant Artima a license to share in the [Terms of Use](http://www.artima.com/termsofuse.html). For example, we place your username and real name next to any posts you make in discussion forums to enable other users to know that you are the author of the posts, and show your Website URL and bio on your profile page, to enable other users to learn more about you. We may also share non-personal demographic and profile data with advertisers or partners on an aggregated basis. 
+Only the personal information listed above is considered Private Data. Other personal information, such as your real name, username, website URL, and short bio, is considered simply Content, for which you grant Artima a license to share in the [Terms of Use](https://web.archive.org/terms-of-use). For example, we place your username and real name next to any posts you make in discussion forums to enable other users to know that you are the author of the posts, and show your Website URL and bio on your profile page, to enable other users to learn more about you. We may also share non-personal demographic and profile data with advertisers or partners on an aggregated basis. 
 
 From time to time we will send out email to our subscribers for third parties. You may opt out of receiving communications from us below. Pages containing forms with which we collect information on behalf of partners, as described in the “Information We Collect” section above, will contain a notice similar to: “The information you submit with this form will be shared with <partner name>.” By submitting data via a form contained on a page with such a notice, you give us permission to share the submitted data with that partner. 
 
@@ -53,15 +50,16 @@ We will use all reasonable efforts to ensure that your information is corrected 
 
 10\. SECURITY PROCEDURES. Artima has implemented security measures to protect member information from loss, misuse and alteration. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
 
-11\. CONSENT. This Privacy Policy is a part of the Artima Network’s [Terms of Use Agreement](http://www.artima.com/termsofuse.html). By using the Artima Network, users are using a service provided by Artima and they agree to be bound by the [Terms of Use Agreement](http://www.artima.com/termsofuse.html) and this Privacy Policy. Some terms may be defined in the [Terms of Use Agreement](http://www.artima.com/termsofuse.html). This Privacy Policy only addresses activities from our servers. 
+11\. CONSENT. This Privacy Policy is a part of the Artima Network’s [Terms of Use Agreement](https://web.archive.org/terms-of-use). By using the Artima Network, users are using a service provided by Artima and they agree to be bound by the [Terms of Use Agreement](https://web.archive.org/terms-of-use) and this Privacy Policy. Some terms may be defined in the [Terms of Use Agreement](https://web.archive.org/terms-of-use). This Privacy Policy only addresses activities from our servers. 
 
 12\. NOTIFICATION OF CHANGES. If Artima changes its policy and seeks to use your personally identifiable information in a manner different from that stated at the time of collection, you will be notified via email or a system message visible on the Artima Network Web sites. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a notice on our Web site notifying users of the change. In some cases where we post the notice, we will also email users who have opted to receive communications from us to notify them of the changes in our privacy practices. Your continued use of the Artima Network following the posting of any amendment, modification or change shall constitute your acceptance thereof. 
 
 13\. ORGANIZATION COLLECTING INFORMATION. Artima owns and operates the artima.com domain. You may contact Artima at: 
 
-Artima, Inc.  
-PO Box 390122  
-Mountain View, CA 94039  
+**Artima, Inc.**  
+2070 N Broadway Unit 305  
+Walnut Creek CA 94597  
+USA  
 privacy AT artima DOT com   
 
 
