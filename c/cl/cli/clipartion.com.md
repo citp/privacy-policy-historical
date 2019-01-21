@@ -1,40 +1,44 @@
-> *The following text is extracted and transformed from the clipartion.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510192609id_/http%3A//clipartion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipartion.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121172018id_/https%3A//clipartion.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Clipartion.com
 
 ## Privacy 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact page](http://clipartion.com/contact-us/).  
-At clipartion.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by clipartion.com and how we use it.
+The owners and operators of Clipartion.com take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.
 
-**Log Files**  
-Like many other Web sites, clipartion.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+**User Accounts**  
+Membership is an optional part of the Clipartion.com web site. No user account is required in order to browse or download the content we provide. However, creating an account enables extra features such as (but not limitted to) the ability to submit content, create a list of your own images, or post comments.
 
-**Cookies and Web Beacons**  
-clipartion.com uses cookies to store information about visitor’s preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitor’s browser type or other information that the visitor sends via their browser.
+By creating an account, you are volunteering certain information about yourself that will be stored on our servers. This data includes at a minimum a username, password, and valid email address. Additional information may optionally be added by you to your account profile. Your profile information is public and may appear on our web site, with the exception of your email address and password.
 
-DoubleClick DART Cookie
+**Personally Identified Data**  
+We strongly discourage users from entering their full name, phone number, physical address, or other sensitive information in user profiles, comments, or other areas of the site. Furthermore, we request that minors and any individuals with limited decision making ability not create an account on this site without the approval and supervision of a guardian.
 
-  * Google, as a third party vendor, uses cookies to serve ads on clipartion.com
-  * Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to clipartion.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+We make a reasonable attempt to monitor for cases where users post personally identifiable information about other individuals to public portions of the web site and remove the offending material.
 
+**Server Logs**  
+Like most web sites, Clipartion.com logs web-, database-, and other server-software usage and access information. This information may include your internet protocal (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
 
+**Cookies**  
+While browsing Clipartion.com, a small number of text files referred to as “cookies” may be created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not promise that every feature of Clipartion.com will function as expected without cookies enabled.
 
-Our Advertising Partners  
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
+**Third-Party Advertisers**  
+In order to cover the costs of providing Clipartion.com as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by Clipartion.com’s privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
 
-[Google Adsense:](https://www.google.com/adsense)  
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on clipartion.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. clipartion.com has no access to or control over these cookies that are used by third-party advertisers.
+**Google Adsense:**  
+We present you the following information about Google and the DoubleClick DART cookie:
 
-**Third Party Privacy Policies**  
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. clipartion.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browser’s respective websites.
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**Children’s Information**  
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. clipartion.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that clipartion.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+**Sharing/Selling of Data**  
+Clipartion.com does not share or sell personally identifiable data to third parties such as spammers or direct marketers. We respect your privacy.
 
-**Online Privacy Policy Only**  
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+**Account Cancellation**  
+Upon request, your Clipartion.com account can be canceled. Your user profile will no longer appear on the web site and your submissions will no longer be listed publicly for download. Any comments you have posted will still appear and include your username, but will not be linked to your profile. After cancellation, you will be not be available for log-in.
 
-By using our website, you hereby consent to our privacy policy and agree to its terms.
+**Data Retention**  
+The data submitted to and generated by this web site may be copied to additional machines for redundancy and backup purposes.
+
+For any problems or questions don’t hesitate to contact us.
