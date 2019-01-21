@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcarthurglen.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904011441id_/https%3A//www.mcarthurglen.com/en/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcarthurglen.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121072705id_/https%3A//www.mcarthurglen.com/en/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | McArthurGlen Designer Outlets
 
@@ -371,9 +371,12 @@ _ga | This cookie is used to distinguish users | .mcarthurglen.com
 _gid | This cookie is used to distinguish users | .mcarthurglen.com  
 _gat | Used to throttle request rate. If Google Analytics is deployed via Google Tag Manager, this cookie will be named _dc_gtm_<property-id> | .mcarthurglen.com  
 Mcd:Consent | This cookie records whether you have seen and dismissed our cookie consent notification. We use the data to prevent the notification being shown to you again. | .mcarthurglen.com  
+Mcd-EntryUrl | This cookie is used to store your entry point (url) to our site. This cookie allows us to identify if you have visited the site from one of our digital campaigns (email / advert etc). We use this data to personalise content for you on the site.  | mcarthurglen.com  
+Epi:StateMarker | This cookie is requires to tell our website whether it can use session functionality to identify request coming from the same browser during a limited session window. This cookie will be deleted when you close your browser  | .mcarthurglen.com  
+Mcd:SavedOffers  | This cookie records the offers you have chosen as your favourites. We use the data to remember your favourite offers across website sessions / visits | .mcarthurglen.com  
+Mcd:MappedInIntroDismiss | This cookie records whether you have dismissed a pop ul window explaining how to use our online store map. We use this data to stop you seeing the pop up on your next visit to the online map | .mcarthurglen.com  
 Name | Description | Sent From (URL)  
 ---|---|---  
-Mcd-EntryUrl | This cookie is used to store your entry point (url) to our site. This cookie allows us to identify if you have visited the site from one of our digital campaigns (email / advert etc). We use this data to personalise content for you on the site.  | .mcarthurglen.com  
 Mcd:Status | This cookie is used to personalise content after you have opted in to our privilege club programme, based on whether you have signed up previously | .mcarthurglen.com  
 Mcd:SignUpDismiss | This cookie records whether you have dismissed an on-page notification that we wish to show you. We use the data to prevent the notification being shown to you again.  | .mcarthurglen.com  
 Mcd:PopupDismiss-{xxxxx} | This cookie records whether you have dismissed an on-page notification that we wish to show you. We use the data to prevent the notification being shown to you again.  | .mcarthurglen.com  
