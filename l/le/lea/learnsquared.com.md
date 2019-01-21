@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnsquared.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413191315id_/https%3A//www.learnsquared.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnsquared.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121214630id_/http%3A//www.learnsquared.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Learn Squared
 
