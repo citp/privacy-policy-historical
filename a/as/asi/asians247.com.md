@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asians247.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120234621id_/http%3A//asians247.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asians247.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121092800id_/https%3A//www.asians247.com/support.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Asians247.com - Free Live Asian Sex Shows - Live Asian Chat Girls 24/7!
 
