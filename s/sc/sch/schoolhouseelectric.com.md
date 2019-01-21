@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolhouseelectric.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925071912id_/https%3A//www.schoolhouse.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolhouseelectric.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121122340id_/https%3A//www.schoolhouse.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Schoolhouse
 
@@ -30,4 +30,4 @@ This Privacy Policy applies only to Schoolhouse Electric & Supply Co., and not t
 
 ### CONTROLLING YOU PERSONAL INFORMATION
 
-If you have previously agreed to Schoolhouse using your personal information for marketing purposes, you may change your mind at any time and opt out through your options in your [My Account](https://www.schoolhouse.com/account/login) section when logged in, unsubscribe link within our marketing emails or contacting us at [customersupport@schoolhouse.com](mailto:customersupport@schoolhouse.com)
+If you have previously agreed to Schoolhouse using your personal information for marketing purposes, you may change your mind at any time and opt out through your options in your [My Account](https://www.schoolhouse.com/account/login) section when logged in, unsubscribe link within our marketing emails or contacting us at [customersupport@schoolhouse.com](mailto:customersupport@schoolhouse.com). You can also opt-out of cookie use below.
