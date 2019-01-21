@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grouponnz.co.nz privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025082117id_/https%3A//www.grouponnz.co.nz/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grouponnz.co.nz privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121064129id_/https%3A//www.grouponnz.co.nz/legal/privacypolicy) for the most accurate reproduction.*
 
 # Groupon - Local Deals, Goods, and Getaways
 
