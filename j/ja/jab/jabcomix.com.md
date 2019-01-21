@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jabcomix.com privacy policy that was archived on 2016-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160117042007id_/https%3A//www.jabcomix.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabcomix.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121233416id_/https%3A//www.jabcomix.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # JABcomix :: Privacy Policy
 
