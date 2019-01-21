@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calgarypuck.com privacy policy that was archived on 2017-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170807220606id_/https%3A//www.calgarypuck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calgarypuck.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121082258id_/https%3A//www.calgarypuck.com/privacy) for the most accurate reproduction.*
 
 # Calgarypuck.com » Privacy
 
