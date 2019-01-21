@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecoursesite.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522163751id_/https%3A//freecoursesite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecoursesite.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121123411id_/https%3A//freecoursesite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,7 +54,7 @@ From time-to-time, the Site may contain links to other websites. If you choose t
 
  **6.1. CONTACTING US**
 
-If you have any questions about this Policy or our practices related to this Site, please feel contact us on **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
+If you have any questions about this Policy or our practices related to this Site, please feel contact us
 
  **6.2. UPDATES AND CHANGES**
 
