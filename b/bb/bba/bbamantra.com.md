@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbamantra.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604192754id_/http%3A//www.bbamantra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbamantra.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121091354id_/https%3A//bbamantra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BBA|mantra
 
@@ -28,7 +28,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browser’s respective websites.
 
-In order to avail the services of [bbamantra.com](http://www.bbamantra.com/), users are required to provide certain information for the registration purposes like: name and e-mail.
+In order to avail the services of [bbamantra.com](https://www.bbamantra.com/), users are required to provide certain information for the registration purposes like: name and e-mail.
 
 The information given enables us to further update our website with an aim to provide the most user-friendly services.
 
@@ -50,7 +50,7 @@ If you have questions, queries or clarifications with respect to our privacy pol
 
 Or send postal mail addressed to:
 
-[www.bbamantra.com](http://www.bbamantra.com/)
+[www.bbamantra.com](https://www.bbamantra.com/)
 
 Block-A, Top Floor, Arif Apartment,
 
