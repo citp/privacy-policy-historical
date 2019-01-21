@@ -1,0 +1,501 @@
+<!--The following is the downloaded HTML source of the run-mizumushi-kun.com privacy policy that was archived on 2019-01-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190121202857id_/http%3A//www.run-mizumushi-kun.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en" class="no-fouc"><head>
+  <meta charset="utf-8">
+  <title>Privacy Notice</title>
+  <meta name="keywords" content="Men Clothings Women Clothings ecommerce, shop, online shopping, store Privacy Notice">
+  <meta name="description" content="Privacy Notice - Men Clothings Women Clothings ecommerce, shop, online shopping, store">
+  <meta name="author" content="run-mizumushi-kun.com">
+  <meta name="generator" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+  <base href="http://www.run-mizumushi-kun.com/">
+  <link rel="canonical" href="http://www.run-mizumushi-kun.com/privacy.html">
+<link rel="stylesheet" type="text/css" href="includes/templates/responsive_classic/css/stylesheet.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/responsive_classic/css/stylesheet_colors.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/responsive_classic/css/stylesheet_css_buttons.css">
+<link rel="stylesheet" type="text/css" href="includes/templates/responsive_classic/css/stylesheet_random.css">
+<link rel="stylesheet" type="text/css" media="print" href="includes/templates/responsive_classic/css/print_stylesheet.css">
+<script type="text/javascript">window.jQuery || document.write(unescape('%3Cscript type="text/javascript" src="//code.jquery.com/jquery-1.12.0.min.js"%3E%3C/script%3E'));</script><script type="text/javascript" src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write(unescape('%3Cscript type="text/javascript" src="includes/templates/responsive_classic/jscript/jquery.min.js"%3E%3C/script%3E'));</script><script type="text/javascript" src="includes/templates/responsive_classic/jscript/jquery.min.js"></script>
+<script type="text/javascript" src="includes/templates/responsive_classic/jscript/jscript_matchHeight-min.js"></script>
+<script type="text/javascript"><!--//<![CDATA[
+if (typeof zcJS == "undefined" || !zcJS) {
+  window.zcJS = { name: 'zcJS', version: '0.1.0.0' };
+};
+
+zcJS.ajax = function (options) {
+  options.url = options.url.replace("&amp;", "&");
+  var deferred = $.Deferred(function (d) {
+      var securityToken = '10d231db7b26dcc333cdc569d2ec6fb3';
+      var defaults = {
+          cache: false,
+          type: 'POST',
+          traditional: true,
+          dataType: 'json',
+          timeout: 5000,
+          data: $.extend(true,{
+            securityToken: securityToken
+        }, options.data)
+      },
+      settings = $.extend(true, {}, defaults, options);
+
+      d.done(settings.success);
+      d.fail(settings.error);
+      d.done(settings.complete);
+      var jqXHRSettings = $.extend(true, {}, settings, {
+          success: function (response, textStatus, jqXHR) {
+            d.resolve(response, textStatus, jqXHR);
+          },
+          error: function (jqXHR, textStatus, errorThrown) {
+              console.log(jqXHR);
+              d.reject(jqXHR, textStatus, errorThrown);
+          },
+          complete: d.resolve
+      });
+      $.ajax(jqXHRSettings);
+   }).fail(function(jqXHR, textStatus, errorThrown) {
+   var response = jqXHR.getResponseHeader('status');
+   var responseHtml = jqXHR.responseText;
+   var contentType = jqXHR.getResponseHeader("content-type");
+   switch (response)
+     {
+       case '403 Forbidden':
+         var jsonResponse = JSON.parse(jqXHR.responseText);
+         var errorType = jsonResponse.errorType;
+         switch (errorType)
+         {
+           case 'ADMIN_BLOCK_WARNING':
+           break;
+           case 'AUTH_ERROR':
+           break;
+           case 'SECURITY_TOKEN':
+           break;
+
+           default:
+             alert('An Internal Error of type '+errorType+' was received while processing an ajax call. The action you requested could not be completed.');
+         }
+       break;
+       default:
+        if (jqXHR.status === 200 && contentType.toLowerCase().indexOf("text/html") >= 0) {
+         document.open();
+         document.write(responseHtml);
+         document.close();
+         }
+     }
+   });
+
+  var promise = deferred.promise();
+  return promise;
+};
+zcJS.timer = function (options) {
+  var defaults = {
+    interval: 10000,
+    startEvent: null,
+    intervalEvent: null,
+    stopEvent: null
+
+},
+  settings = $.extend(true, {}, defaults, options);
+
+  var enabled = new Boolean(false);
+  var timerId = 0;
+  var mySelf;
+  this.Start = function()
+  {
+      this.enabled = new Boolean(true);
+
+      mySelf = this;
+      mySelf.settings = settings;
+      if (mySelf.enabled)
+      {
+          mySelf.timerId = setInterval(
+          function()
+          {
+              if (mySelf.settings.intervalEvent)
+              {
+                mySelf.settings.intervalEvent(mySelf);
+              }
+          }, mySelf.settings.interval);
+          if (mySelf.settings.startEvent)
+          {
+            mySelf.settings.startEvent(mySelf);
+          }
+      }
+  };
+  this.Stop = function()
+  {
+    mySelf.enabled = new Boolean(false);
+    clearInterval(mySelf.timerId);
+    if (mySelf.settings.stopEvent)
+    {
+      mySelf.settings.stopEvent(mySelf);
+    }
+  };
+};
+//]] --></script>
+
+
+<script type="text/javascript"><!--//
+
+(function($) {
+$(document).ready(function() {
+
+$('#contentMainWrapper').addClass('onerow-fluid');
+ $('#mainWrapper').css({
+     'max-width': '100%',
+     'margin': 'auto'
+ });
+ $('#headerWrapper').css({
+     'max-width': '100%',
+     'margin': 'auto'
+ });
+ $('#navSuppWrapper').css({
+     'max-width': '100%',
+     'margin': 'auto'
+ });
+
+
+$('.leftBoxContainer').css('width', '');
+$('.rightBoxContainer').css('width', '');
+$('#mainWrapper').css('margin', 'auto');
+
+$('a[href="#top"]').click(function(){
+$('html, body').animate({scrollTop:0}, 'slow');
+return false;
+});
+
+$(".categoryListBoxContents").click(function() {
+window.location = $(this).find("a").attr("href"); 
+return false;
+});
+
+$('.proimg').matchHeight();
+$('.centeredContent').matchHeight();
+$('.specialsListBoxContents').matchHeight();
+$('.centerBoxContentsAlsoPurch').matchHeight();
+$('.categoryListBoxContents').matchHeight();
+
+$('.no-fouc').removeClass('no-fouc');
+});
+
+}) (jQuery);
+
+//--></script>
+
+<link rel="stylesheet" type="text/css" href="includes/templates/responsive_classic/css/zen_lightbox.css"><script type="text/javascript">
+        if (typeof jQuery == 'undefined') {  
+  document.write("<scr" + "ipt type=\"text/javascript\" src=\"//code.jquery.com/jquery-1.11.3.min.js\"></scr" + "ipt>");
+  }
+</script><script type="text/javascript" src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script language="javascript" type="text/javascript"><!--
+/*
+	Slimbox v2.04 - The ultimate lightweight Lightbox clone for jQuery
+	(c) 2007-2010 Christophe Beyls <http://www.digitalia.be>
+	MIT-style license.
+*/
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('(3(w){5 E=w(18),u,f,F=-1,n,x,D,v,y,L,r,m=!18.23,s=[],l=1r.24,k={},t=1f 19(),J=1f 19(),H,a,g,p,I,d,G,c,A,K;w(3(){w("25").1a(w([H=w(\'<Z 9="26" />\').12(C)[0],a=w(\'<Z 9="28" />\')[0],G=w(\'<Z 9="29" />\')[0]]).6("16","1s"));g=w(\'<Z 9="1t" />\').1u(a).1a(p=w(\'<Z 11="1g: 2a;" />\').1a([I=w(\'<a 9="2b" 1b="#" />\').12(B)[0],d=w(\'<a 9="2c" 1b="#" />\').12(e)[0]])[0])[0];c=w(\'<Z 9="2d" />\').1u(G).1a([w(\'<a 9="2e" 1b="#" />\').12(C)[0],A=w(\'<Z 9="2f" />\')[0],K=w(\'<Z 9="2g" />\')[0],w(\'<Z 11="2h: 2i;" />\')[0]])[0]});w.1h=3(O,N,M){u=w.2j({17:1i,1v:0.8,1j:1c,1k:1c,1l:"2k",1w:1x,1y:1x,1z:1c,1A:1c,1B:"19 {x} 2l {y}",1C:[27,2m,2n],1D:[2o,2p],1E:[2q,2r]},M);4(2s O=="2t"){O=[[O,N]];N=0}y=E.1F()+(E.X()/2);L=u.1w;r=u.1y;w(a).6({1d:1G.1H(0,y-(r/2)),Y:L,X:r,1m:-L/2}).1n();v=m||(H.1I&&(H.1I.1g!="2u"));4(v){H.11.1g="2v"}w(H).6("1J",u.1v).1K(u.1j);z();j(1);f=O;u.17=u.17&&(f.13>1);7 b(N)};w.2w.1h=3(M,P,O){P=P||3(Q){7[Q.1b,Q.2x]};O=O||3(){7 1L};5 N=1M;7 N.1N("12").12(3(){5 S=1M,U=0,T,Q=0,R;T=w.2y(N,3(W,V){7 O.2z(S,W,V)});2A(R=T.13;Q<R;++Q){4(T[Q]==S){U=Q}T[Q]=P(T[Q],Q)}7 w.1h(T,U,M)})};3 z(){5 N=E.2B(),M=E.Y();w([a,G]).6("1O",N+(M/2));4(v){w(H).6({1O:N,1d:E.1F(),Y:M,X:E.X()})}}3 j(M){4(M){w("2C").2D(m?"2E":"2F").1P(3(O,P){s[O]=[P,P.11.10];P.11.10="1e"})}1o{w.1P(s,3(O,P){P[0].11.10=P[1]});s=[]}5 N=M?"2G":"1N";E[N]("2H 2I",z);w(1r)[N]("2J",o)}3 o(O){5 N=O.2K,M=w.2L;7(M(N,u.1C)>=0)?C():(M(N,u.1E)>=0)?e():(M(N,u.1D)>=0)?B():1Q}3 B(){7 b(x)}3 e(){7 b(D)}3 b(M){4(M>=0){F=M;n=f[F][0];x=(F||(u.17?f.13:0))-1;D=((F+1)%f.13)||(u.17?0:-1);q();a.1R="2M";k=1f 19();k.1S=i;k.14=n}7 1i}3 i(){a.1R="";5 b=18.2N-15;5 c=18.2O-20;5 e=(b>c)?c:b;5 j=k.Y;5 l=k.X;4(j>l){l=e*l/j;j=e}1o{j=e*j/l;l=e}4(k.Y>j||k.X>l){$(g).6({1T:"1U("+n+")",2P:""+j+"1V "+l+"1V",10:"1e",16:"2Q"});$(p).Y(j);$([p,I,d]).X(l)}1o{$(g).6({1T:"1U("+n+")",10:"1e",16:""});$(p).Y(k.Y);$([p,I,d]).X(k.X)}$(\'#1t\').6(\'2R-2S\',\'2T\');w(A).1W(f[F][1]||"");w(K).1W((((f.13>1)&&u.1B)||"").1X(/{x}/,F+1).1X(/{y}/,f.13));4(x>=0){t.14=f[x][0]}4(D>=0){J.14=f[D][0]}L=g.1Y;r=g.1p;5 M=1G.1H(0,y-(r/2));4(a.1p!=r){w(a).1q({X:r,1d:M},u.1k,u.1l)}4(a.1Y!=L){w(a).1q({Y:L,1m:-L/2},u.1k,u.1l)}w(a).2U(3(){w(G).6({Y:L,1d:M+r,1m:-L/2,10:"1e",16:""});w(g).6({16:"1s",10:"",1J:""}).1K(u.1z,h)})}3 h(){4(x>=0){w(I).1n()}4(D>=0){w(d).1n()}w(c).6("1Z",-c.1p).1q({1Z:0},u.1A);G.11.10=""}3 q(){k.1S=1Q;k.14=t.14=J.14=n;w([a,g,c]).21(1L);w([I,d,g,G]).22()}3 C(){4(F>=0){q();F=x=D=-1;w(a).22();w(H).21().2V(u.1j,j)}7 1i}})(2W);',62,183,'|||function|if|var|css|return||id||||||||||||||||||||||||||||||||||||||||||||||||||height|width|div|visibility|style|click|length|src||display|loop|window|Image|append|href|400|top|hidden|new|position|slimbox|false|overlayFadeDuration|resizeDuration|resizeEasing|marginLeft|show|else|offsetHeight|animate|document|none|lbImage|appendTo|overlayOpacity|initialWidth|250|initialHeight|imageFadeDuration|captionAnimationDuration|counterText|closeKeys|previousKeys|nextKeys|scrollTop|Math|max|currentStyle|opacity|fadeIn|true|this|unbind|left|each|null|className|onload|backgroundImage|url|px|html|replace|offsetWidth|marginTop||stop|hide|XMLHttpRequest|documentElement|body|lbOverlay||lbCenter|lbBottomContainer|relative|lbPrevLink|lbNextLink|lbBottom|lbCloseLink|lbCaption|lbNumber|clear|both|extend|swing|of|88|67|37|80|39|78|typeof|string|fixed|absolute|fn|title|grep|call|for|scrollLeft|object|add|select|embed|bind|scroll|resize|keydown|which|inArray|lbLoading|innerWidth|innerHeight|backgroundSize|block|background|size|contain|queue|fadeOut|jQuery'.split('|'),0,{}))
+// AUTOLOAD CODE BLOCK (MAY BE CHANGED OR REMOVED)
+if (!/android|iphone|ipod|series60|symbian|windows ce|blackberry/i.test(navigator.userAgent)) {
+	jQuery(function($) {
+		$("a[rel^='lightbox']").slimbox({/* Put custom options here */
+		
+				loop: false,
+				initialWidth: 100, //1024
+				initialHeight: 100, //768
+				overlayOpacity: 0.8,
+				overlayFadeDuration: 800,
+				resizeDuration: 400,
+				resizeEasing: "easeOutElastic",
+				imageFadeDuration: 400,
+				counterText: "<strong>{x}</strong> of <strong>{y}</strong>",
+				previousKeys: [37, 80, 16],
+				nextKeys: [39, 78, 17],
+				closeKeys: [27, 70],
+				captionAnimationDuration: 0,
+		
+		}, null, function(el) {
+			return (this == el) || ((this.rel.length > 8) && (this.rel == el.rel));
+		});
+	});
+}
+jQuery(function($) {
+        $("a[rel^='lightbox']").slimbox({overlayOpacity:0.8,overlayFadeDuration:400,resizeDuration:400,resizeTransition:false,initialWidth:250,initialHeight:250,imageFadeDuration:400,captionAnimationDuration:400,counterText:"Image {x} of {y}",closeKeys:[27,88,67],previousKeys:[37,80],nextKeys:[39,78]}, function(el) 
+        {
+                return [el.href, el.title /* + '<br /><a href="' + el.href + '">Download this image</a>'*/];
+        }, function(el) {
+                return (this == el) || ((this.rel.length > 8) && (this.rel == el.rel));
+        });
+        });
+//--></script>
+<link rel="stylesheet" type="text/css" href="includes/templates/responsive_classic/css/responsive.css"><link rel="stylesheet" type="text/css" href="includes/templates/responsive_classic/css/responsive_default.css">  <script type="text/javascript">document.documentElement.className = 'no-fouc';</script>
+  <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link href="includes/templates/responsive_classic/css/bootstrap.min.css" rel="stylesheet">
+
+<link rel="stylesheet" href="includes/templates/responsive_classic/css/header5.css ">
+<link rel="stylesheet" href="includes/templates/responsive_classic/css/footer5.css ">
+<script src="includes/templates/responsive_classic/jscript/jquery.js"></script>
+<script src="includes/templates/responsive_classic/jscript/bootstrap.min.js"></script>
+<script src="includes/templates/responsive_classic/jscript/m-jquery.js"></script>
+<script type="text/javascript">
+    $(function(){
+        var $ul = $('.index_bottom_con ul');
+        var $li = $('.index_bottom_con ul li');
+        var len=$li.length;
+        var page=1;
+        var i=4;
+        var $ulWidth = ($li.width()+6)*len;
+        $ul.css('width',$ulWidth + 'px');
+        var page_count=Math.ceil(len/i)-1;//4
+         $('.index_bottom_con .pre').click(function(){
+             if(!$ul.is(':animated')){
+                if(page==2){
+                    $('.index_bottom_con .pre').css('display','none');
+                    $ul.animate({left:'0'},'slow');
+                    page --;
+                }else{
+                    $('.index_bottom_con .pre').css('display','block');
+                    $('.index_bottom_con .next').css('display','block');
+                    $ul.animate({left:'+='+(($li.width()+6)*i)},'slow');
+                    page --;
+                }
+             }
+        })
+         $('.index_bottom_con .next').click(function(){
+            if(!$ul.is(':animated')){
+                if(page==page_count){
+                    $('.index_bottom_con .next').css('display','none');
+                    $ul.animate({left:'-='+(($li.width()+6)*i)},'slow');
+                    page ++;
+                }
+                else{
+                    $('.index_bottom_con .next').css('display','block');
+                    $('.index_bottom_con .pre').css('display','block');
+                    $ul.animate({left:'-='+(($li.width()+6)*i)},'slow');
+                    page ++;
+                    
+                }
+            }
+         })
+       
+        $li.mouseover(function(){
+            $(this).find('.img_black').css('display','block');
+            $(this).find('.hover_txt').css('display','block');
+         })
+        $li.mouseout(function(){
+            $(this).find('.img_black').css('display','none');
+            $(this).find('.hover_txt').css('display','none');
+         })
+    })
+    
+    </script>
+    <script type="text/javascript">
+    
+    $(function(){
+        var $ul = $('.cate_products_list');
+        var $li = $('.box-product-list');
+        var len=$li.length;
+        var i=4;
+        var $ulWidth = ($li.width()+26)*len;
+        $ul.css('width',$ulWidth + 'px');
+        var page_count=Math.ceil(len/i)-1;//1
+        if(len<5){$('.index_top .next').css('display','none');}
+        $('.index_top .pre').click(function(){
+            $('.index_top .pre').css('display','none');
+            $('.index_top .next').css('display','block');
+            $ul.animate({left:'+='+(($li.width()+26)*i)},'slow');
+        })
+        $('.index_top .next').click(function(){
+            $('.index_top .next').css('display','none');
+            $('.index_top .pre').css('display','block');
+            $ul.animate({left:'-='+(($li.width()+26)*i)},'slow');
+        })
+    })
+    
+    </script>
+<script src="includes/templates/responsive_classic/jscript/banner_change.js"></script>    
+    <script type="text/javascript">
+        
+            $("#banner .bannerList li").soChange({
+                thumbObj:"#banner .SnumList span",
+                thumbNowClass:'on',
+                changeTime:4000
+            });
+            $(".i-list li").hover(function(){$(this).addClass("on")}, function(){$(this).removeClass("on")});
+        
+    </script>
+    <script type="text/javascript">
+
+    function Double(num){
+        if(num<10){
+            return '0'+num;
+        }
+        else{
+            return ''+num;
+        }
+    }       
+    </script>
+</head>
+
+<body id="privacyBody">
+<div id="mainWrapper">
+<header id="headerWrapper">
+<div id="navMainWrapper" class="group onerow-fluid">
+<div class="framework-component">
+	<div class="top-currency">
+	  <div class="currency">
+	  	<div id="Content" class="sideBoxContent centeredContent"><form name="currencies_form" action="http://www.run-mizumushi-kun.com/" method="get"><select name="currency" onchange="this.form.submit();">
+  <option value="USD" selected="selected">US Dollar</option>
+  <option value="EUR">Euro</option>
+  <option value="GBP">GB Pound</option>
+  <option value="CAD">Canadian Dollar</option>
+  <option value="AUD">Australian Dollar</option>
+  <option value="DKK">Danish Krone</option>
+  <option value="NOK">Norwegian Krone</option>
+  <option value="PLN">Polish Zloty</option>
+  <option value="SEK">Swedish Krona</option>
+  <option value="CHF">Swiss Franc</option>
+</select>
+<input type="hidden" name="main_page" value="privacy"></form></div>	  </div>
+	</div>
+</div>
+<div class="header-sticky">
+	<div class="header-top">
+		<div class="container">
+		  <div class="header-top__logo-container">
+		  	<a class="header-top__logo" href=""><img src="images/s-logo-h5.png" alt="Allude turtleneck Sweater,DGK Bomber Jacket,PU Leather Waistcoat" title="Allude turtleneck Sweater,DGK Bomber Jacket,PU Leather Waistcoat"></a>
+		  </div>
+		  <ul id="toolbar">
+		  	<li id="user-login">
+		  		          <a href="http://www.run-mizumushi-kun.com/login.html" rel="nofollow">Log In</a>/<a href="http://www.run-mizumushi-kun.com/create_account.html" rel="nofollow">Create Account</a>  
+           
+		  	</li>
+		  	<li id="list-search">
+		  	  <form action="index.php?main_page=advanced_search_result" method="get">
+              <button type="submit"> <span class="fa fa-search"></span></button>
+              <input type="hidden" name="main_page" value="advanced_search_result">     
+              <input type="hidden" name="search_in_description" value="1"> 
+              <input id="input-group" type="text" required="" name="keyword" placeholder="Enter search keywords here">
+               </form>
+		  	</li>
+		  	<li id="list-bag">
+		  		<a class="glyphicon glyphicon-lock" href="http://www.run-mizumushi-kun.com/shopping_cart.html" rel="nofollow" title="Shopping Cart"><span class="cart-num">0</span></a>
+		  	</li>
+		  </ul>
+		</div>
+	</div>
+	<div class="clear-both"></div>
+	<div class="header-nav">
+	  <nav class="header-nav-menu">
+	  	<li id="nav-list">
+            <a rel="nofollow" href="http://www.run-mizumushi-kun.com/">Home            </a>
+          </li>
+          <li id="nav-list"><a href="http://www.run-mizumushi-kun.com/men-clothings-c-1/">Men Clothings</a><ul class="nav-list-menu"><li><a href="http://www.run-mizumushi-kun.com/coats-jackets-c-1_2/">Coats &amp; Jackets</a></li><li><a href="http://www.run-mizumushi-kun.com/shirts-c-1_3/">Shirts</a></li><li><a href="http://www.run-mizumushi-kun.com/shirts-blouses-c-1_4/">Shirts &amp; Blouses</a></li><li><a href="http://www.run-mizumushi-kun.com/sweatshirts-c-1_5/">Sweatshirts</a></li><li><a href="http://www.run-mizumushi-kun.com/hooded-coats-c-1_9/">Hooded Coats</a></li><li><a href="http://www.run-mizumushi-kun.com/jackets---c-1_14/">Jackets
+</a></li><li><a href="http://www.run-mizumushi-kun.com/hoodies-sweatshirts-c-1_15/">Hoodies &amp; Sweatshirts</a></li><li><a href="http://www.run-mizumushi-kun.com/knitwear-c-1_20/">Knitwear</a></li></ul></li><li id="nav-list"><a href="http://www.run-mizumushi-kun.com/women-clothings-c-6/">Women Clothings</a><ul class="nav-list-menu"><li><a href="http://www.run-mizumushi-kun.com/fur-shearling-coats-c-6_8/">Fur &amp; Shearling Coats</a></li><li><a href="http://www.run-mizumushi-kun.com/knitwear-c-6_11/">Knitwear</a></li><li><a href="http://www.run-mizumushi-kun.com/hoodies-sweatshirts-c-6_12/">Hoodies &amp; Sweatshirts</a></li><li><a href="http://www.run-mizumushi-kun.com/jackets-c-6_13/">Jackets</a></li><li><a href="http://www.run-mizumushi-kun.com/long-sleeve-dresses-c-6_16/">Long Sleeve Dresses</a></li><li><a href="http://www.run-mizumushi-kun.com/sweater-dresses-c-6_17/">Sweater Dresses</a></li><li><a href="http://www.run-mizumushi-kun.com/blazers-c-6_18/">Blazers</a></li><li><a href="http://www.run-mizumushi-kun.com/waistcoat-c-6_19/">Waistcoat</a></li><li><a href="http://www.run-mizumushi-kun.com/sweater-c-6_21/">Sweater</a></li></ul></li>  
+	  </nav>
+	</div>
+</div>
+
+
+</div></header>
+
+
+<div class="clearfix"></div>
+
+<div id="contentMainWrapper">
+
+  <div class="col670">
+
+    <div id="navBreadCrumb">  <a href="http://www.run-mizumushi-kun.com/">Home</a>&nbsp;&gt;&gt;&nbsp;
+Privacy Notice
+</div>
+
+
+
+<div class="centerColumn" id="privacy">
+<h1 id="privacyDefaultHeading">Privacy Notice</h1>
+
+<div id="privacyDefaultMainContent" class="content">
+<div id="privacyDefaultMainContent" class="content">
+<p>At www.run-mizumushi-kun.com,your privacy is our priority.We are committed to protecting your privacy at all times,in all situations.The information we collect about you when you become a member is used to process your orders and to provide a more personalized experience on our site.Our site uses a 128 bit encrypted SSL to increase the security of our customer’s information.However,we are not guarantee complete security on stored information,however,we have installed and applied our encrypted pages and installed our SSL certificate to prevent stolen information.
+</p><p>
+How Do We Use the Information We Collect?</p><p>
+When you become a www.run-mizumushi-kun.com member,we ask you to fill out a form that requests your name,address and e-mail address as well as some demographic information such as gender and date of birth.www.run-mizumushi-kun.com will not share data with trusted partners to help us perform statistical analysis.</p><p>
+Your name and address information is used solely to process orders unless your prior consent is given.Without your consent, this information will NEVER be sold,given,rented or traded to others for purposes other than order fulfillment.</p><p>
+Your demographic information (gender, date of birth, etc.) will be used for several security purposes,to ensure you are who you say you are and in fact you are paying with your credit cards and not someone using your stolen credit cards.</p><p>
+Refer-A-Friend</p><p>
+If you choose to use our referral service to tell a friend about our site,we will ask you for your friend's name and email address.We will automatically send your friend a one-time email inviting him or her to visit the site.www.run-mizumushi-kun.com does not store this information and uses it for the sole purpose of sending this one-time email.</p><p>
+Our Use of Log Files</p><p>
+When you visit our site we automatically log your IP address,your browser type and your access times.We utilize this information to conduct site performance evaluations,to see where visitors are coming from and to keep track of click stream data (the screens our users visit on our site).This data helps us to determine what content our members find most appealing so that we can maximize your enjoyment of the site.Log files are not tied to personally identifiable information.</p><p>
+Site Security</p><p>
+All www.run-mizumushi-kun.com employees take your personal information very seriously.All employees must learn and obey our security policies.Access to member personal information is limited to key management personnel and our member services department.The information is ID and password protected and our Web security is reviewed on a monthly basis.We have also installed and implied our site with a 128 bit encryption SSL.</p><p>
+Correcting/Updating Your Personal Information</p><p>
+After becoming a www.run-mizumushi-kun.com subscriber you may correct/update your personal information by clicking on the'My Account'link at the top of any page,entering your ID,password and birth date when prompted and clicking the Edit Information button.The changes you make will be reflected in our databases instantly.If you wish to deactivate your account,you may contact our member services group through the'My Account'section,or the'Contact Us'section.</p><p>
+Links To Other Sites</p><p>
+This Web site contains links to other Web sites.Please note that when you click on one of these links, you may be leaving the www.run-mizumushi-kun.com site and entering another Web site.These sites may independently collect or request information about you and we encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.</p><p>
+Communication</p><p>
+From time to time we may send out email messages alerting you that products are available,to remind you about providing feedback or for promotional offers.In addition,you will receive communication from us 1) if you contact us for a particular reason, 2) to receive your orders, or 3) we need to contact you for administrative purposes such as winning a contest.Administrative e-mails will not contain promotional materials.If you choose to receive our News Letters, they will contain promotional materials from www.run-mizumushi-kun.com</p><p>
+Legal Disclaimer</p><p>
+Though we make every effort to preserve user privacy,we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding,a court order or legal process served on our Web site</p><p>
+Supplementation</p><p>
+We may correct or supplement your address information with standardized postal representation in order to ensure that your orders are delivered.We do this since we want to make sure that our members receive the order and to lower costs associated with our programs.</p><p>
+Contests</p><p>
+Periodically,contests are run on our site. Sometimes contests are sponsored by our customers.To enter these contests you need only to enter your ID and password and your guess.At the time of entry, you may decide if you wish to have your first name and state posted on our site if you are the winner.Winner’s names are NEVER shared with our customers without their consent.</p><p>
+Our Use of Cookies</p><p>
+Cookies are pieces of information that your browser stores on your computer's hard drive which identify you when you enter.The ability to select samples on our site is not cookie-driven.We may use session cookies to provide a seamless experience on the site and to combine with our log files so that we can understand our site traffic and analyze our demographic information in aggregate form.If you have set your browser to reject cookies,our site will not identify you when you enter and you will need to manually type in your ID and password.</p>
+<p>
+Your Feedback is Always Welcome</p><p>
+We welcome your comments and questions about our privacy policy - or anything else you might want to talk about.You can email to us!</p>
+<p>Images for reference only.</p>
+</div>
+</div>
+
+<div class="buttonRow back"><a href="http://www.run-mizumushi-kun.com/"><span class="cssButton normal_button button  button_back" onmouseover="this.className='cssButtonHover normal_button button  button_back button_backHover'" onmouseout="this.className='cssButton normal_button button  button_back'">&nbsp;Back&nbsp;</span></a></div>
+</div>  </div>
+
+</div>
+
+
+<footer>
+  <div class="footer">
+    <div class="page-footer">
+      <div><img src="includes/templates/responsive_classic/images/footer-images.png"></div>
+    	<ul class="footer-list">
+        <h3>My Account</h3>    
+                     <li><a rel="nofollow" href="http://www.run-mizumushi-kun.com/login.html">Log In</a></li>
+               <li><a rel="nofollow" href="http://www.run-mizumushi-kun.com/create_account.html">Create Account</a></li>  
+             <li><a rel="nofollow" href="http://www.run-mizumushi-kun.com/shopping_cart.html">Shopping Cart</a></li>                      
+             
+        </ul>
+      <ul class="footer-list">
+        <h3>ABOUT</h3>
+          <li><a rel="nofollow" href="http://www.run-mizumushi-kun.com/shippinginfo.html">Shipping &amp; Returns</a></li>          
+        <li><a rel="nofollow" href="http://www.run-mizumushi-kun.com/privacy.html">Privacy Notice</a></li>
+        <li><a rel="nofollow" href="http://www.run-mizumushi-kun.com/site_map.html">Site Map</a></li>
+        </ul>    
+      <ul class="footer-list">
+        <h3>HELP</h3>
+                   <li><a href="http://www.run-mizumushi-kun.com/contact_us.html" rel="nofollow">Contact Us</a></li>
+                   <li><a rel="nofollow" href="http://www.run-mizumushi-kun.com/site_map.html">Site Map</a></li>         
+        </ul>
+
+  <div class="clear-both"></div>
+  <div class="footer-wrap">Copyright © 2019 <a href="http://www.run-mizumushi-kun.com/index.php?main_page=index" target="_blank">www.run-mizumushi-kun.com</a>. All Rights Reserved.</div>
+    </div>  
+  </div>
+</footer>
+
+
+
+
+    
+
+</div>
+  <div class="scrollTop">
+  <a href="javascript:void(0);" rel="nofollow">
+    <img src="images/top.png">
+    </a>
+  </div>
+ 
+
+</body></html>
