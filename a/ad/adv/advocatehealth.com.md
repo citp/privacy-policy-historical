@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advocatehealth.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027174240id_/https%3A//www.advocatehealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advocatehealth.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122114224id_/https%3A//www.advocatehealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Advocate Health Care | Chicago Illinois (IL)
 
