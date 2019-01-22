@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organicandhealthy.org privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122142952id_/http%3A//www.organicandhealthy.org/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicandhealthy.org privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122095529id_/http%3A//www.organicandhealthy.org/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy - ORGANIC AND HEALTHYORGANIC AND HEALTHY
 
