@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hokkfabrica.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201202448id_/http%3A//hokkfabrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hokkfabrica.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122222210id_/https%3A//hokkfabrica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HOKK fabrica
 
@@ -15,7 +15,7 @@ We may collect the following information:
 
 
 
-For the exhaustive list of cookies we collect see the [List of cookies we collect](http://http//hokkfabrica.com/default/privacy-policy#list) section.
+For the exhaustive list of cookies we collect see the [List of cookies we collect](http://https//hokkfabrica.com/default/privacy-policy#list) section.
 
 WHAT WE DO WITH THE INFORMATION WE GATHER
 
@@ -55,6 +55,6 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Unit 8 & 10, 3/F, Phase 1, Chai Wan Industrial City, 60 Wing Tai Road, Siu Sai Wan, Hong Kong.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Unit 4 & 5, 20/F, Phase 2, Chai Wan Industrial City, 70 Wing Tai Road, Chai Wan, Hong Kong.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
