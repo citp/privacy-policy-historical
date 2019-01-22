@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tradablebits.com privacy policy that was archived on 2017-07-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170713214331id_/https%3A//tradablebits.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tradablebits.com privacy policy that was archived on 2019-01-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190122132023id_/https%3A//tradablebits.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns# fb: http://www.facebook.com/2008/fbml"><head itemscope="" itemtype="http://schema.org/WebPage">
     <meta charset="UTF-8">
@@ -12,7 +12,7 @@
     
         <meta itemprop="name" content="Tradable Bits Privacy Policy">
         <meta itemprop="image" content="https://tradablebits.com/static/images/tbits-share.png">
-        <meta itemprop="url" content="https://tradablebits.com/">
+
         <meta itemprop="description" content="Keep your business, your customers and your data secure with the Tradable Bits privacy policy.">
     
 
@@ -21,13 +21,13 @@
         <meta property="og:title" content="Tradable Bits Privacy Policy">
         <meta property="og:type" content="website">
         <meta property="og:site_name" content="One platform for digital marketing">
-        <meta property="og:image" content="https://tradablebits.com//static/images/tbits-share.png">
-        <meta property="og:url" content="https://tradablebits.com/">
+        <meta property="og:image" content="https://tradablebits.com/static/images/tbits-share.png">
+
         <meta property="og:description" content="Keep your business, your customers and your data secure with the Tradable Bits privacy policy.">
     
 
     
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,300,600" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600" rel="stylesheet">
     <link rel="shortcut icon" href="/static/icons/favicon.ico" type="image/x-icon">
     <link href="https://plus.google.com/103549598322747279549" rel="publisher">
     <link href="/static/css/global.css" rel="stylesheet" type="text/css">
@@ -50,7 +50,6 @@
     
     
 
-    
     
     
 
@@ -100,6 +99,46 @@
         .wrapper.open-drawer {
             padding-bottom: 0;
         }
+
+        #cookie-footer {
+            display: flex;
+            position: fixed;
+            align-items: center;
+            justify-content: center;
+            flex-direction: row;
+            bottom:0;
+            z-index: 9999999;
+            background-color: #4ebe8f;
+            width: 100%;
+            color: white;
+            transition: 1s ease all;
+        }
+
+        .cookie-footer-inner {
+            margin: 0 80px;
+            display: flex;
+            align-items: center;
+        }
+        @media (max-width: 769px) {
+            .cookie-footer-inner {
+                margin-left: 10px;
+            }
+        }
+        .accept-cookies {
+            height: 30px;
+            width: 30px;
+            position: absolute;
+            right: 30px;
+            cursor: pointer;
+        }
+        .cookie-text {
+            margin: 20px 0;
+            max-width: 750px;
+        }
+        .privacy-policy {
+            text-decoration: underline;
+            color: white;
+        }
     </style>
 
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/jquery/jquery-3.2.1.js"></script>
@@ -120,7 +159,7 @@
                     
                         FB.init({
                             appId: 111984122188978, status: false, cookie: true,
-                            xfbml: true, oauth: true, channelUrl: '/static/FBchannel.html', version: "v2.9"
+                            xfbml: true, oauth: true, channelUrl: '/static/FBchannel.html', version: "v3.2"
                         });
                     
                 }
@@ -130,7 +169,31 @@
             }
         } catch (error) {
         }
+
+        $(window).resize(_.debounce(moveDriftBot, 200));
+        window.addEventListener("message", function(ev){
+            if (ev.origin === "https://js.driftt.com") {
+                if (ev.data.type === "enableSidebarModal") {
+                    $('#cookie-footer img').css('right', 'calc(100vw - 60px)');
+                }
+                else if (ev.data.type === "disableSidebarModal") {
+                    $('#cookie-footer img').css('right', '30px')
+                }
+                else if (ev.data.type === 'changeSize' && ev.data.displayType === 'slider') {
+                    moveDriftBot()
+                }
+            }
+
+        }, false);
+        moveDriftBot()
     });
+    function moveDriftBot() {
+        if (!$('#drift-widget').is(':visible')) {
+            return false
+        }
+        var cookieFooterHeight = $('#cookie-footer').is(':visible') ? $('#cookie-footer').height() : 0;
+        $('#drift-widget').css('bottom', cookieFooterHeight + 24 + 'px')
+    }
 </script>
 
 
@@ -150,28 +213,19 @@
     <div class="tbits-main-container">
         
     <div class="navbar tbits-navbar tbits-navbar-public hidden-print">
-        <div class="navbar-inner container">
-            <input type="checkbox" id="drawer-toggle" name="drawer-toggle">
-            <label for="drawer-toggle" id="drawer-toggle-label"></label>
+        <div class="navbar-inner container" style="padding: 0 15px;">
 
-            <a class="navbar-header align-table" href="/">
-                <span class="navbar-brand align-middle"></span>
-                <img alt="" class="navbar-logo hidden-sm hidden-xs align-middle" src="/static/images/tradablebits-logo-text.png">
+            <a class="navbar-header" href="/">
+                <img alt="" class="navbar-logo hidden-sm hidden-xs align-middle" src="/static/images/tradablebits-logo-420x88.png">
 
                 <div class="legal-text">Legal</div>
             </a>
 
-            <div class="account">
-                <a class="home-link hidden-sm hidden-xs" href="https://tradablebits.com/">
+            <div class="home-link">
+                <a class="hidden-sm hidden-xs" href="https://tradablebits.com/">
                     TRADABLE BITS HOME <i class="glyphicons glyphicons-chevron-right"></i>
                 </a>
-            </div>
-            <div class="" id="tbits-navbar-collapse">
-                <ul class="nav">
-                    <li class="visible-xs-block visible-sm-block">
-                        <a href="/" class="tbits-nav-link">HOME</a>
-                    </li>
-                </ul>
+                <a href="/" class="hidden-md hidden-lg hidden-xl">HOME</a>
             </div>
         </div>
     </div>
@@ -188,8 +242,30 @@
                     
     <div class="terms-div loggedin">
 
-    <br><br>
+        <br><br>
         <h1>Tradable Bits Privacy Policy</h1>
+        <br><br>
+
+        <div class="par">
+            Definitions
+        </div>
+
+        <div class="in2">
+            <b>Tradable Bits</b> is defined as TradableBits Media Inc, the owner and creator of the Tradable Bits platform
+            and all included services: apps (campaigns), Stream, Fan CRM, etc.<br>
+            <b>Company</b> is any client of Tradable Bits who uses or has a licence to use the Tradable Bits platform on
+            behalf of another entity.<br>
+            <b>Person</b> is the end user who interacts with the Company through the Tradable Bits platform, thus extending
+            their personally identifiable information to the Company via Tradable Bits.<br>
+            <b>Partner</b> is a corporate entity, Tradable Bits works with on behalf of Company<br>
+            <b>Data Processing</b> is usage of the data for advertising purposes, without exposure of personal
+            information to third parties<br>
+
+        </div>
+
+        <div class="par">
+            Summary
+        </div>
 
         <div class="in2">
             Tradable Bits will be collecting information from user sessions to ensure that our applications and platform
@@ -206,14 +282,13 @@
             and commercial access for the Pages, domains and accounts.
         </div>
         <div class="in2">
-
             2) Share data and information when necessary to investigate, prevent, or take action regarding illegal
             activities, suspected fraud, situations involving potential threats to the physical safety of any person,
             violations of Terms of Service, or as otherwise required by law.
         </div>
         <div class="in2">
-
-            3) Data and information will be shared within Tradable Bits Ltd and its partners to enhance services and
+            3) Data and information might be shared within Tradable Bits Inc., Company, and Partners to enhance services
+            and
             application and platform development. All of this data will be anonymized and will not disclose any
             personally identifiable information about any particular user.
         </div>
@@ -221,8 +296,8 @@
             What do we collect?
         </div>
         <div class="in2">
-
-            We will collect names, emails and/or phone numbers for those who register and communicate with us. We will
+            We will collect names, emails,phone numbers, and additional fields if required by the Company
+            for those who register and communicate with us. We will
             also collect statistics on Tradable Bits Platform usage including but not limited to apps (campaign) page
             views, social login, comments and track time/clicks. We also may collect IP addresses, browser types, domain
             names, access times and referring website addresses.
@@ -232,7 +307,7 @@
             activation, service enhancement, research and control rights.
         </div>
         <div class="par">
-            Children
+            Children and COPPA Compliance
         </div>
         <div class="in2">
             Tradable Bits does not knowingly collect information from children under the age of 13. This is not a
@@ -261,6 +336,21 @@
             include, but will not be limited to, measures intended to prevent unauthorized access to, use of,
             modification or disclosure of Company Data.
         </div>
+
+        <div class="par">
+            Data Usage and GDPR Compliance
+        </div>
+        <div class="in2">
+            General Data Protection Regulation (GDPR) is a regulation that requires businesses to protect the personal
+            data and privacy of EU citizens for transactions that occur within EU member states.
+            Tradable Bits is fully compliant with the European Union GDPR. As required,
+            you as an individual have the full
+            right to <a href="/optout?action=optout" target="_blank"> to be excluded from Data Processing</a> or to
+            <a href="/optout?action=erase" target="_blank"> request Data Erasure</a>. If you have additional questions
+            about data usage, please <a href="/contact" target="_blank">contact us</a>
+        </div>
+
+
         <div class="par">
             Data Storage
         </div>
@@ -277,7 +367,7 @@
             protection standards.
         </div>
         <div class="in2">
-            Tradable Bits uses vendor and 3rd party hosting partners to provide the necessary hardware, software,
+            Tradable Bits uses vendor and 3rd party hosting providers to deliver the necessary hardware, software,
             networking, storage, and related technology required to run Tradable Bits Platform and services. Tradable
             Bits owns the code, databases, and all rights to the Tradable Bits application, however, you retain all
             rights to your own data. All data collected is stored and hosted in Canada.
@@ -305,17 +395,10 @@
         </div>
         <br>
         <h4>
-        Tradable Bits Privacy Policy was updated on May 12, 2015.
-            </h4>
+            Tradable Bits Privacy Policy was updated on April 28, 2018.
+        </h4>
 
-        <small>
-            "Tradable Bits" is defined as Tradable Bits Media Inc, the owner and creator of the Tradable Bits platform
-            and all included services: apps (campaigns), Stream, Fan CRM, etc.<br>
-            "Company" is any client of Tradable Bits who uses or has a licence to use the Tradable Bits platform on
-            behalf of another entity.<br>
-            “Person" is the end user who interacts with the Company through the Tradable Bits platform, thus extending
-            their personally identifiable information to the Company via Tradable Bits.<br>
-        </small>
+
         <br>
         <br>
 
@@ -327,87 +410,103 @@
 
         
     <div class="tb-footer hidden-print">
-        <div class="footer-inner container">
-            <div class="row">
-                <div class="col-sm-3 col-xs-4">
-                    <h4>Our Company</h4>
-                    <a href="/about">why tradable bits</a>
-                    <a href="/contact">contact</a>
+    <div class="footer-inner container">
+        <div class="tbits-footer-group-wrapper">
+            <div class="col-sm-4 col-xs-6">
+                <div class="tbits-footer-group">
+                    <h4>About us</h4>
+                    <hr>
+                    <a href="/about">Company</a>
+                    <a href="/careers">Careers</a>
+                    <a href="/pricing">Pricing</a>
+                    <a href="/branding">Brand Guide</a>
+                    <a href="/contact">Contact Us</a>
+                </div>
+            </div>
+            <div class="col-sm-4 col-xs-6">
+                <div class="tbits-footer-group">
+                    <h4>Learn more</h4>
+                    <hr>
                     <a href="http://tradablebits.com/blog" target="_blank">Blog</a>
-                    <a href="/careers">careers</a>
-                    <a href="/branding">Branding Assets</a>
-                    <a class="/contact">contact us</a>
+                    <a href="https://tradablebits.com/blog/tag/webinars/" target="_blank">Webinars</a>
+                    <a href="/developers" target="_blank">Developer Platform</a>
                 </div>
-                <div class="col-sm-3 col-xs-4">
-                    <h4>Our Platform</h4>
-                    <a href="/fan-crm">Fan CRM</a>
-                    <a href="/stream">Stream</a>
-                    <a href="/apps">Campaigns</a>
-                    <a href="/social-login">Social Login</a>
-                    <a href="/comments">Comments</a>
-                    <a href="/custom-build">Custom Build</a>
-                    <a href="/developers" target="_blank">developer API/SDK</a>
-                </div>
-                <div class="col-sm-3 hidden-xs">
-                    <h4>Our Partnerships</h4>
-                    <span>Facebook PCS Partner</span>
-                    <span>Facebook Preferred Developer</span>
-                    <span>Hootsuite Affiliate Partner</span>
-                    <span>Ticketmaster API Partner</span>
-                    <span>Instagram API Whitelisted</span>
-                </div>
-                <div class="col-sm-3 col-xs-4">
-                    <h4>Connect With Us</h4>
+            </div>
+            <div class="col-sm-4 hidden-xs">
+                <div class="tbits-footer-group hidden-xs">
+                    <h4>Connect</h4>
+                    <hr>
+                    <a href="https://www.facebook.com/Tradable" target="_blank">
+                        <div class="tbits-social-svg">
+                            <svg width="16" height="16" viewBox="-15 -15 110 110">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/static/svg/sprites.svg#facebook-path"></use>
+                            </svg>
+                        </div>
 
-                    <a href="https://www.facebook.com/Tradable" class="social-btn btn-facebook" target="_blank" style="height:40px;">
-                        <div class="tbits-social-svg"><svg width="30" height="30" viewBox="-15 -15 110 110">
-                                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/static/svg/sprites.svg#facebook-path"></use>
-                        </svg></div>
-
-                        <div class="network-name hidden-xs social-svg-label">Facebook</div>
+                        Facebook
                     </a>
-                    <a href="https://twitter.com/tradablebits" class="social-btn btn-twitter" target="_blank">
-                        <div class="tbits-social-svg"><svg width="30" height="30" viewBox="-15 -15 110 110">
-                                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/static/svg/sprites.svg#twitter-path"></use>
-                        </svg></div>
+                    <a href="https://twitter.com/tradablebits" target="_blank">
+                        <div class="tbits-social-svg">
+                            <svg width="16" height="16" viewBox="-15 -15 110 110">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/static/svg/sprites.svg#twitter-path"></use>
+                            </svg>
+                        </div>
 
-                        <div class="network-name hidden-xs social-svg-label">Twitter</div>
+                        Twitter
                     </a>
-                    <a href="https://plus.google.com/+TradableBits/" class="social-btn btn-google" target="_blank">
-                        <div class="tbits-social-svg"><svg width="30" height="30" viewBox="-15 -15 110 110">
-                                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/static/svg/sprites.svg#google-path"></use>
-                        </svg></div>
+                    <a href="https://www.instagram.com/tradablebits/" target="_blank">
+                        <div class="tbits-social-svg">
+                            <svg width="16" height="16" viewBox="-15 -15 110 110">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/static/svg/sprites.svg#instagram-path"></use>
+                            </svg>
+                        </div>
 
-                        <div class="network-name hidden-xs  social-svg-label">Google+</div>
+                        Instagram
                     </a>
-                    <a href="http://www.linkedin.com/company/tradable-bits?trk=tyah" class="social-btn btn-linkedin" target="_blank">
-                        <div class="tbits-social-svg"><svg width="30" height="30" viewBox="-15 -15 110 110">
-                                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/static/svg/sprites.svg#linkedin-path"></use>
-                        </svg></div>
+                    <a href="http://www.linkedin.com/company/tradable-bits?trk=tyah" target="_blank">
+                        <div class="tbits-social-svg">
+                            <svg width="16" height="16" viewBox="-15 -15 110 110">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/static/svg/sprites.svg#linkedin-path"></use>
+                            </svg>
+                        </div>
 
-                        <div class="network-name hidden-xs social-svg-label">LinkedIn</div>
+                        LinkedIn
                     </a>
                 </div>
             </div>
         </div>
     </div>
-    <div class="tb-copyright align-table">
-        <div class="row copyright-inner align-middle">
-            <div class="col-md-12">
-                <div class="container">
-                    <div class="logo pull-left hidden-xs hidden-sm">
-                        <img alt="" src="/static/images/tradablebits-logo-text.png">
-                    </div>
-                    <div class="copyright-text pull-right">
-                        <span class="hidden-xs">Handcrafted in Vancouver, BC Canada.</span> © 2017 TradableBits Media
-                        Inc.
-                        All rights reserved.
-                        <a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms</a>
-                    </div>
-                </div>
+</div>
+<div class="tb-copyright align-table hidden-print">
+    <div class="copyright-inner align-middle">
+        <div class="tbits-flex-center">
+            <div style="text-align: center">
+                <p>1601 Bayshore Drive, Vancouver, BC, V6G 2V4. © 2019 TradableBits Media Inc.</p>
+
+                <p>All rights reserved.
+                <a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms</a> | <a href="http://status.tradablebits.com" target="_blank">Status</a>
+                </p>
             </div>
         </div>
     </div>
+</div>
+<div class="tb-print-footer visible-print-block">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-4 tbits-flex-center">
+                <div class="xs-txt">Know Your Fans, Market Smarter</div>
+            </div>
+            <div class="col-xs-4 tbits-flex-center">
+                <div style="width: 70%">
+                    <img src="/static/images/tradablebits-logo-420x88.png">
+                </div>
+            </div>
+            <div class="col-xs-4 tbits-flex-center">
+                <div class="xs-txt">sales@tradablebits.com</div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
@@ -416,7 +515,7 @@
 
 <div id="overlay"></div>
 <div id="white-wall"><img alt="" src="/static/icons/img_processing.gif"></div>
-<div id="modal-dialog" class="modal fade">
+<div id="modal-dialog" class="modal">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header"></div>
@@ -432,6 +531,18 @@
 
 <script type="text/javascript" src="https://connect.facebook.net/en_US/sdk.js"></script>
 <script src="/static/js/libs/svg4everybody.min.js" async=""></script>
+
+<div id="cookie-footer" style="display: none;">
+    <div class="cookie-footer-inner">
+        <img src="/static/icons/left-cookies.png" class="hidden-xs">
+        <span class="cookie-text">
+            Omnom! Just like the Cookie Monster, our website needs cookies to function. By continuing to browse,
+            you're providing consent for us to use cookies to improve your experience. Learn more in our&nbsp;<a href="/privacy" class="privacy-policy">privacy policy</a>
+        </span>
+        <img src="/static/icons/right-cookies.png" class="hidden-xs">
+    </div>
+    <img src="/static/images/index_page/icons/the-x-icon.png" class="accept-cookies" onclick="acceptCookies()">
+</div>
 
 
 
@@ -463,7 +574,6 @@
             font-style: italic;
             top: 50px;
             font-size: 20px;
-            margin-top: 1em;
             margin-left: 10px;
             float: left;
         }
@@ -473,15 +583,38 @@
         }
 
         .navbar-header {
-            width: 300px !important;
+            width: 300px;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
         }
 
-        .account {
-            margin-top: 25px !important;
+        @media (max-width: 991px){
+            .tbits-navbar .navbar-header {
+                display: flex;
+                width: 60px;
+            }
+
+            .legal-text {
+                margin: 0;
+            }
         }
 
         .home-link {
-            font-weight: 600;
+            position: relative;
+            top: calc(50% - 10px);
+            color: white;
+            float: right;
+        }
+
+        .home-link a{
+            color: white;
+        }
+
+        .home-link a:hover{
+            color: #8191BB;
         }
 
     </style>
