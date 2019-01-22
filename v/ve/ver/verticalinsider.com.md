@@ -1,139 +1,143 @@
-> *The following text is extracted and transformed from the verticalinsider.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002173012id_/http%3A//www.verticalinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalinsider.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122172523id_/https%3A//verticalinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vertical Insider
 
-Vertical Insider is owned and operated by Vertical Insider LLC. Vertical Insider LLC, its subsidiaries and affiliates (collectively “Vertical Insider LLC”) respect your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement.
+### **Privacy Policy**
 
-**Key Definitions**
+Vertical Insider LLC (“Vertical Insider”) is committed to protecting the privacy of the companies that register and use our Website (“Users”) and the information they provide to us. This Privacy Policy outlines important information regarding the use and disclosure of all User information provided to Vertical Insider’s Website. Vertical Insider provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website.
 
-In this Privacy Policy, we use the following key definitions. Other terms are defined in the body of the policy.  
-“Click stream Data” means the information that Vertical Insider LLC collects through cookies, log files, beacons and clear GIFs, as described in Section 4 below.  
-“Content Provider” means a third party that owns a white paper, analyst report or other document and allows Vertical Insider LLC to link to or display that document on the Sites.  
-“User” or “you” means any person viewing any page of the Sites.  
-“Third Party Content” means the white papers, analyst reports and other documents available through the Sites and owned by Content Providers.
+Vertical Insider is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
-**What Information Do We Collect?**
+If you have questions or concerns regarding this statement, contact Vertical Insider Support at  _privacy [at] verticalinsider.com_
 
-Profile Information: Our primary goal in collecting profile information (which may include your name and the following business – and not home or personal – information: title, address, phone number, fax number and e-mail address) is to provide you with the best and most useful content and services, and to offer you opportunities to obtain other products and services from us and our partners. Because we derive revenue mainly from advertising, collecting information is essential to keeping our services affordable to users.
+#### **General**
 
-We collect profile information when you provide it to us through the following: when you register on one of our sites, or an e-mail newsletter, register for one of our events or register to use certain services (like webcasts and white papers). Several of the services that we offer on our sites may require registration as a condition of use. Once you register with one of the Vertical Insider LLC network of sites, including VerticalInsider.com, BookmarkInsider.com, you are no longer anonymous to us. We may also receive information about you from other sources, such as Dunn and Bradstreet, and add it to the information you provided to us.
+By reference, this Privacy Policy is incorporated into and is subject to any and all agreements entered into between Users and Vertical Insider. Your use of the Website and any information you provide via the Website or through other official Vertical Insider contact remains subject to this Privacy Policy, as well as any other governing Vertical Insider policies.
 
-Cookies: Like most sites, for account management purposes, Vertical Insider LLC uses cookies. Cookies are data files stored on your computer that identify you as a unique user. Cookies enable us to track user trends, preferences and patterns to better understand our user base and to improve the quality of our service. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. You can visit our site without using cookies.
+You are informed that any content posted by Users onto the Website becomes published or informational content, or the like, and is not considered personally identifiable information subject to this Privacy Policy.
 
-Subscriber Information: If you subscribe to an email newsletter and become a “Subscriber”, Vertical Insider LLC collects your email address, password and areas of interest. Member Information: If you register as a Member (such as by registering on a content directory, subscribing to a newsletter, registering on VerticalInsider.com, BookmarkInsider.com and/or our other aforementioned web properties, Vertical Insider LLC collects additional information, including your name and corporate title, the name of your company and the department in which you work, your industry group, country, zip code and telephone number (“Member Details”). At the time you register to become a Member, or later when you access a particular page or document, Vertical Insider LLC may collect additional information, including but not limited to: information about software or hardware your company is using, plans your company may have to purchase additional products/services, etc.. All of this information together is included in the definition of “Member Details”.
+#### **Collected Information**
 
-Sharing Information: We aggregate profile information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. Except for the specific instances of information-sharing described above, we do not disclose to third parties any information that could be used to identify you personally.
+Vertical Insider may collect personal information and data including, but not limited to, application and Website usage data, file transfer and viewing data, email and personal contact information, and other identifiable information provided to us by our Users. Vertical Insider may use technological means for tagging and tracking data including, but not limited to, harmless cookies, clear .GIFs, and other technologies to track and correlate data.
 
-**How Do We Use The Information We Collect?**
+Specifically, but not limited to, the following information is collected:
 
-Profile Information: Vertical Insider LLC collects profile information supplied by visitors who register, as described above. That information lets us better tailor our content to visitor interests and helps our advertisers better understand the audience they are reaching. Most of Vertical Insider LLC is free and is supported by paid content and sponsorships from our advertisers.
-
-Cookies: Vertical Insider LLC uses persistent cookies to link Members to their registration information, which allows our system to confirm a user’s identity and access level on the Sites. Vertical Insider LLC also uses that information to track service selections, and save passwords so that Members do not have to log in each time they visit the Sites.
-
-**Usage of Cookies for Ad serving**  
-Other cookies without personally identifying information and data are used to enable Vertical Insider LLC to manage the online advertisements presented or personalized information to the user. Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or, you can use third-party “anonymizer” services to mask information in your cookies, or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered by Vertical Insider LLC.
-
-Vertical Insider LLC serves all advertising on Vertical Insider LLC network affiliated web sites, email newsletters, RSS feeds, and other online mediums. When Vertical Insider LLC is serving ads, it recognizes certain types of non-personally identifiable information, such as a user’s IP address, browser version or type, operating system, service provider and time zone. We also use cookies to note the general content of the sites that users visit over time in order to serve ads on this site and other sites.
-
-Clear GIFs & Servers: We use these tracking technologies for a variety of purposes, including:
-
-  * Keeping count of return visits to our site or our partners’ sites
-  * Accumulating and reporting anonymous, aggregate, statistical information on Web site and content usage to our partners and customers
-  * Determining which features visitors like best to help us improve our content and site, personalize your user experience, and measure overall site effectiveness
+  1. User Provided Data: Users may provide personally identifiable information (such as a name, credit card data, address, telephone, and an email address) as well as sensitive information (such as Tax ID or Social Security Number) to Vertical Insider when choosing to participate in the services and activities available on the Website (collectively, the “Services”).
+  2. Cookies: Cookies, a harmless small text file containing a string of alphanumeric characters, are deployed to your computer so as to uniquely identify your presence and use. Vertical Insider may use session cookies and persistent cookies for the purpose of tracking various important data. Use of these cookies can also help to speed your access to the Website as they serve as ‘reminders’ as to who you are to our programming. While we recommend that you allow these cookies to perform their tasks, you may adjust your computer’s settings to restrict or refuse them. However, some features or sections of the Website may not function properly, or not all, if the ability to accept cookies is disabled. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. For more information, please view our [Cookie Policy](https://verticalinsider.com/cookie-policy/) here.
+  3. Clear .GIFs: Vertical Insider may choose to utilize “clear .GIFs” to track the online usage patterns of our Users in a non-personally identifiable manner. Additionally, Vertical Insider may also use clear .GIFs in HTML-based emails dispatched to Users so as to track which emails are being opened by the recipients. This act helps Vertical Insider to determine active and inactive email addresses.
+  4. Log File Data: When Users log-in to their Vertical Insider account, our servers will automatically record and archive certain information that web-browsers send whenever visiting a website. These server logs may include information vital to validating the User’s authorization to access the account. Information, such as a Web request, Internet Protocol (the “IP”) address, browser type, browser language, referring pages, exit pages and visited URLs, platform type, click counts, pages viewed and in what order, time spent, the date and time of the request, and other important data is necessary to validate and authorize a User’s entry and activity on the Website.
 
 
 
-Subscriber Information: We use Subscriber Information to deliver email newsletters on topics of interest to Subscribers who have signed up for those services. We may also send general promotional and marketing materials to Subscribers. We use Subscriber Information and Supplementary Information in aggregated form to understand our customer base and to market our services to our customers.
+Vertical Insider may collect information from other sources to help us correct or supplement our records, improve the quality or personalization of our service to you, and prevent or detect fraud. We work closely with third parties (for example, business partners, service providers, sub-contractors, advertising networks, analytics providers, search information providers, fraud protection services) and may receive information about you from them. Further, and in order to provide the services and improve Vertical Insider’s websites, we may engage the services of third-party vendors. In the process of supplying services to Vertical Insider, these third-party vendors may need to collect Personal Information about you.
 
-Sharing Information: Vertical Insider LLC may share profile information collected:
+#### **Information Uses**
 
-  * When we have your consent to share the information.
-  * When you register or log in to access vendor content or when you register to attend a vendor-sponsored event (including Webinars, Conferences, Custom Media events and Editorial events). The vendor’s use of that information is governed by the vendor’s privacy policy and may be used for follow up by telephone, email, direct mail or other common methods. You should contact these vendors directly if you have any questions about their use of this information.
-  * Profile information collected when you register or log in on a co-branded partner site is generally available both to Vertical Insider LLC and that partner. However, the partner’s use of that profile information is governed by the partner’s privacy policy and may be used for follow up by telephone, email or other common methods. You should contact these partners directly if you have any questions about their use of this information.
-  * Vertical Insider LLC does not share any of your profile information with any person or entity, unless you register to access vendor content, register to attend a vendor-sponsored Vertical Insider LLC event (including Conferences, Custom Media events and Editorial events), register for our Newsletters.
-
-
-
-**Information Collection and Usage of Data of Registered Users**  
-When you register with the Vertical Insider LLC Network, we ask you to share limited information about yourself and the company you represent. We only disclose business information that you are authorized to disclose. During interactive sessions, we may also collect your opinions and preferences regarding certain information technology products or services. We use this information to provide you with quality services as well as with offers that we think are relevant to you based on the preferences you share at registration or during interactive sessions.
-
-Using your contact information, Vertical Insider LLC may also send you e-mail messages under the following circumstances, among others:
-
-  * To respond to an inquiry or request for information
-  * To thank you for contacting Vertical Insider LLC or any of its wholly owned subsidiary web sites
-  * To welcome you to Vertical Insider LLC or any of its wholly owned subsidiary web sites and to its products and services
-  * To explain new product offerings and features of our services
-  * To notify you of special promotions
-  * To communicate with you regarding customer service related issues.
+  1. Personally identifiable information submitted by a User is used to operate, maintain, and provide features, general and unique, of the Website for the User’s use and for Vertical Insider to provide its Services.
+  2. All personal information, data, or content that a User voluntarily discloses to the Website becomes available to other Users, consistent with the Services being provided by Vertical Insider, and can be collected and used by other authorized Users. Your account Username is displayed to other Users when you negotiate pricing, edit campaign information, or upload creative through the Website.
+  3. Vertical Insider does use personally identifiable information and certain non-personally identifiable information, such as but not limited to, anonymous User usage data, browser type, cookies, IP addresses, clickstream data, and the like, to improve the quality and use designs of the Website through analysis of this data and trends.
+  4. Vertical Insider uses clear .GIFs and log file data to: (i) provide custom content and preferences; (ii) remember information necessary for logging in to your Website account so as to save you time in re-entering such information; (iii) monitor the impact and effectiveness of Vertical Insider marketing efforts; (iv) monitor aggregate metrics providing detailed data on User activities while on the Website; (v) track your submissions, entries, and status.
+  5. Users have the ability to indirectly communicate with each other via dashboard activities. These activities include, but are not limited to: negotiation of lead pricing; the start, pausing, and stopping of a campaign; the ability to upload campaign creative; and editing of campaign criteria.
 
 
 
-**Users Outside the US**
+#### **Disclosure of Information**
 
-While we make every effort to honor the laws and wishes of all users, this Web Site is available for users located exclusively in the United States of America and therefore may not recognize foreign laws.
-
-**Registration**
-
-In order to use many features of the Web Site and to participate in interactive sessions, you will be asked to complete a registration form. During registration, you are required to provide contact information, for you and the company you represent as well as business information about the company you represent. Vertical Insider LLC may use this contact information as a means of confirmation of your identity, position, or relationship to particular enterprise of company.
-
-**Information Collection and Use From Registered Users**
-
-When you register on Vertical Insider LLC or any Directory, we ask you to share limited information about yourself and the company you represent. Only disclose business information that you are authorized to disclose. During interactive sessions, we may also collect your opinions and preferences regarding certain information technology products or services. We use this information to provide you with quality services as well as with offers that we think are relevant to you based on the preferences you share at registration or during interactive sessions.
-
-Please see the Information Sharing and Disclosure section below. Using your contact information, Vertical Insider LLC may also send you e-mail messages under the following circumstances, among others:
-
-  * To respond to an inquiry or request for information
-  * To thank you for contacting Find White Papers
-  * To welcome you to Find White Papers and to its products and services
-  * To explain new product offerings and features of our services
-  * To notify you of special promotions
-  * To communicate with you regarding customer service related issues.
+  1. Vertical Insider will not rent or sell your Personal Information to others but may disclose personal information with third-party vendors and service providers that work with Vertical Insider. We will only share personal information to these vendors and service providers to help us provide a product or service to you. Examples of third parties we work with are call center operators, shippers, servicers, information processors, financial institutions, data appending and surge scoring companies. These third parties only have access to personal information necessary for them to complete their service.
+  2. Vertical Insider provides personally identifiable and non-personally identifiable information on Users to subsidiaries, affiliated companies, and other businesses or persons for the purpose of processing such information on behalf of Vertical Insider. Vertical Insider uses third parties such as a credit card processing company to bill Users for transactions, and a credit scoring company to determine business credit scores (when applicable, for extending credit terms to Users upon request). At all times, these parties are required to agree to process such information in compliance with this Privacy Policy, and we deploy reasonable efforts to limit their use of such information.
+  3. Vertical Insider reserves the right to disclose personally identifiable and/or non-personally identifiable information that is believed, in good faith, to be appropriate or necessary for the purpose of enforcing the Vertical Insider Terms of Service, or other governing Vertical Insider policies. Other causes of release of data may be due to, but not limited to: (i) taking precautions against liability issues; (ii) to assist government enforcement agencies; (iii) to investigate and defend Vertical Insider against third party claims or allegations; (iv) to protect the security or integrity of the Website and/or Services; and/or (v) to protect the rights, property, or personal safety of Vertical Insider, Users of the Website, or others.
+  4. Vertical Insider does not share personally identifiable information with other non-affiliated third party companies for their commercial use or marketing use without your consent, except as part of Services.
+  5. Vertical Insider does share non-personally identifiable information, such as anonymous User data and traffic data, with interested third parties to assist them in understanding the usage patterns and trends analysis for certain content, advertisements, promotions, services, and/or functionality of the Website.
+  6. Vertical Insider may release any information available if required to do so by law, or in the good faith belief that such action is necessary to comply with law or the powers of government enforcement agencies. Other causes for release of information could be for needs to comply with copyright laws or to respond to a court order, subpoena, and/or search warrant.  We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+  7. Vertical Insider’s accountability for data it receives pursuant to the EU-US and Swiss-US Privacy Shield and subsequent transfer of that data to third parties is detailed in the Privacy Shield Principles.  Vertical Insider may be liable pursuant to the EU-US and Swiss-US Privacy Shield if said third party agents that Vertical Insider retains processes personal data in a manner inconsistent with pursuant to the EU-US and Swiss-US Privacy Shield principles, unless Vertical Insider can demonstrate that it is not responsible for the act or omission giving rise to the damage.  In cases of onward transfer to third parties of data of EU and Swiss individuals received, pursuant to the EU-US and Swiss-US Privacy Shield, Vertical Insider is potentially liable.
 
 
 
-Your contact information may be made available or provided to third-party service providers and contractors (such as the Website webmaster) that are contractually obligated to protect your information as disclosed in this Privacy Policy. In order to maintain accurate records concerning communications that Vertical Insider LLC may have received from or sent to you, Vertical Insider LLC may also indefinitely store any information that you provide to Vertical Insider LLC through the Website.
+#### **Decline to Accept**
 
-**What Information Do We Disclose to Third Parties?**
+You may decline to submit or allow the submission of personally identifiable information through the Website, in which case Vertical Insider may not be able to provide certain Services. You may, at any time, update or edit your profile information and email preferences by visiting your Vertical Insider account profile page.
 
-Disclosure of Anonymous, Aggregated Information We provide summary reports to our Content Providers, based on our analysis of Click stream Data. The type of information included in a summary report is “3,000 people looked at your information this week, and of those people 60% clicked through to read the full report.” This aggregated information is anonymous and does not disclose to the Content Providers any Member Details about the individual users who saw or clicked on their reports.
+#### **Links and Third Party Advertisers**
 
-Vertical Insider LLC also discloses aggregated user statistics (for example, 25% of our users are interested in Networking) in order to describe our services to prospective customers and partners, and other third parties, and for other lawful purposes.
+Vertical Insider allows other companies, also referred to as Third Party Advertisers, Ad Servers, or Ad Networks (collectively, the “Advertisers”) to serve advertisements via the Website. These Advertisers may use technology to send directly to your Web browser advertisements and links that appear on the Website. This technology may capture certain non-personally identifiable data, such as your IP address, etc. This technology may also measure the effectiveness of their advertisements and to personalize the advertising content you may view on the Website.
 
-Disclosure of Personal Information  
-Philosophy: The Content Providers make the Third Party Content available through Vertical Insider LLC in return for receiving the contact information of Users who view their Third Party Content. Accordingly, if you view Third Party Content, Vertical Insider LLC may disclose your Member Details, Click stream Data and Supplementary Information to the Content Provider, as set forth in more detail below. If you do not want this information disclosed to a Content Provider, do not view the Third Party Content. Except as set forth in this Privacy Policy, Vertical Insider LLC will not disclose personal information to any third parties. Notwithstanding the foregoing, Vertical Insider LLC may at any time disclose profile information to third parties if we are required to do so by law, regulation or court order.
+Vertical Insider does not provide any personally identifiable information to these Advertisers without your consent, except as part of a specific program, feature, or campaign for which you will have the ability to opt-out. However, should you click on an Advertiser offering or choose to visit an Advertiser’s website, Vertical Insider highly recommends that you consult the respective privacy policy of the Advertiser for more information on their practices and for instructions on how to opt-out of certain programs and practices of the Advertiser. Vertical Insider’s Privacy Policy does not apply to, nor can Vertical Insider control, the activities of other websites or Advertisers.
 
-Member Information: When you view Third Party Content, Vertical Insider LLC may disclose your Member Details and Click stream Data, together with Supplementary Information, to the Content Provider. Vertical Insider LLC’s customer agreement with the Content Provider: (a) provides that the Content Provider may use this information only to send you product information, to contact you via common methods of communication to assess your interest in its products and services, and to assess your interest in the Content Provider’s products and services; and (b) prohibits disclosure of this information to any third party other than agents of the Content Provider for the permitted marketing purposes set forth above. You should contact the Content Provider directly if you have any questions about their use of this information.
+#### **Data Security**
 
-**Log Files**
+In an effort to provide maximum protection of User’s privacy, Vertical Insider routinely utilizes commercially reasonable physical, technical, and managerial safeguards to preserve the integrity and security of your personal information. However, Vertical Insider cannot ensure or warrant the security of any information you transmit to Vertical Insider or place upon the Website and you do so at your own risk. Once Vertical Insider receive said transmission of personal information, Vertical Insider engages commercially reasonable efforts to ensure the security of its systems and the personal information you provided. This is not a guarantee that such information may not be accessed, altered, disclosed, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-We use IP addresses to analyze trends, administer the Web Site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses that we collect are not linked to personally identifiable information.
+The security of your personal information is important to us. When you enter sensitive information (such as social security number or TaxID) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
-**Notification of Policy Changes**
+#### **EU-U.S. and Swiss-U.S. Privacy Shield Framework**
 
-We may update this Privacy Policy from time to time. We will notify you about significant changes to our Privacy Policy by placing a prominent notice on our Web Site or sending an email to the address you provided to us. Vertical Insider LLC welcomes comments and questions on this policy.
+Vertical Insider complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively.  Vertical Insider has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-**Security Precautions**
+By providing information to us, you acknowledge that we operate in the US and you agree to permit us to transmit and use your user Information anywhere necessary, including across international boundaries, to provide you with Services that such use by us shall be subject to the terms and conditions stated in this Privacy Policy.
 
-Vertical Insider LLC takes precautions to protect data and information under its control from misuse, loss or alteration. Vertical Insider LLC’s security measures include industry-standard technology and equipment to help protect your information, and Vertical Insider LLC maintains security measures to allow only the appropriate personnel and contractors access to your information. Unfortunately, no system can ensure complete security, and Vertical Insider LLC disclaims any liability resulting from use of the Website.
+In compliance with the US-EU and Swiss-US Privacy Shield Principles, Vertical Insider commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Vertical Insider at:
 
-If you have any questions about the security at our Web Sites, please [contact us](http://itknowledgehub.com/contact/).
+Vertical Insider LLC  
+Attention: IT Security  
+120 N Church St, Suite 204  
+West Chester, PA 19380  
+Email:  _privacy [at] verticalinsider.com_
 
-**Exceptions**
+Vertical Insider has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.bbb.org/en/us> for more information and to file a complaint.
 
-Other than as set forth above, Vertical Insider LLC will not otherwise use or disclose any of your personal information except to the extent reasonably necessary to: (i) process your information and to correct technical problems and malfunctions in the Website or the computer systems supporting the Website; (ii) protect the security and integrity of the Website; (iii) protect the rights and property of  Vertical Insider LLC and others; (iv) take precautions against liability; (v) respond to claims that your information violates the rights and interests of third-parties; (vi) respond to judicial or administrative process or otherwise comply with applicable law; and (vii) to assist law enforcement agencies in connection with investigations or matters related to public safety.
+Finally, as a last resort and under limited circumstances, individuals with unresolved complaints may invoke binding arbitration before a Privacy Shield Panel.
 
-**Updating Personal Information**
+#### **California Privacy Rights**
 
-You may update or correct information you previously provided to Vertical Insider LLC by accessing your user profile on our various directory web sites.
+California Civil Code Section 1798.83 permits individual California residents to request certain information regarding Vertical Insider’s disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to _privacy [at] verticalinsider.com_.  Please include your name, mailing address, and email address if you want to receive a response by email. Otherwise, we will respond by postal mail within the time required by applicable law.
 
-**Links to Other Web Sites**
+If you are a California resident under age 18 and are a registered user of any of the services, then you may request that we remove any content that you created and publicly posted on our website (“User Content”).  To request removal of your User Content, please send an email with a detailed description of the specific Data User Content to _privacy [at] verticalinsider.com_. Vertical Insider reserves the right to request that you provide information that will enable us to confirm that the User Content that you want removed was created and posted by you.
 
-VerticalInsider.com and BookmarkInsider.com are two of the properties within the Vertical Insider LLC network of sites. Each of these sites hosts thousands of white papers as well as white paper Research Libraries on third party sites. Some Third Party Content made available through the Research Library sites is maintained on the website of the Content Provider, and not on the Vertical Insider LLC network of sites. This means that when you click through to that Third Party Content, you will be leaving the Research Library and the Vertical Insider LLC Network. It will be clear to you when this happens, as the look and feel of your web page will change, and the URL will no longer refer to a website in Vertical Insider LLC network of sites. This Privacy Policy does not govern the use and disclosure of any information you choose to disclose to the Content Provider on the Content Provider site.
+Vertical Insider will make a good faith effort to delete or remove your User Content from public view as soon as reasonably practicable. Please note, however, that your request that we delete your User Content does not ensure complete or comprehensive removal of your User Content. Your User Content may remain on backup media, cached or otherwise retained by Vertical Insider for administrative or legal purposes or your User Content may remain publicly available if you or someone else has forwarded or re-posted your User Content on another website or service prior to its deletion. Vertical Insider may also be required by law to not remove (or allow removal) of your User Content.
 
-In addition, the Sites you are viewing may be co-branded, meaning that the Sites are branded with the logos of both Vertical Insider LLC and a third party (“Co-Branded Sites”). If you register or log in on a Co-Branded Site, you are choosing to disclose information to both Vertical Insider LLC and the third party with whose brand the site is co-branded. This Privacy Policy only governs Vertical Insider LLC’s use of your information. The third party’s use of that personal information is governed by the partner’s privacy policy, and not by this Privacy Policy.
+#### **Updating or Correcting Personally Identifiable Information**
 
-The Vertical Insider LLC Web Site also contains links to other Web Sites. Please be aware that Vertical Insider LLC is not responsible for the privacy practices of such other sites. We encourage our users to read the privacy statements of each and every Web Site that you visit from our Web Site or through the interactive sessions.
+If you no longer desire to use Vertical Insider’s Services or need to update your contact information, you may correct or update it by emailing our privacy team at _privacy [at] verticalinsider.com_ or by contacting us by telephone or postal mail at the contact information listed below.
 
-**Questions or Comments**
+Your rights to access, to limit use, and to limit disclosure: European Union and Swiss individuals have the right to access personal data about them, and to limit use and disclosure of their personal data. If you wish to request access, to limit use, or to limit disclosure, please email Vertical Insider privacy team at _privacy [at] verticalinsider.com_ or send a written request to the contact information provided below.
 
-Regarding the Privacy Policy For additional questions, or to be taken off our marketing lists, please contact us.
+#### **Children’s Privacy**
+
+Vertical Insider complies with the Children’s Online Privacy Protection Act of 1998 (COPPA) and does recognize the responsibility to protect the privacy of young children at all times and to the best of everyone’s ability. For that reason, Vertical Insider does not knowingly collect or maintain any information via the Website from persons under the age of thirteen (13), and no part of our Website is directed to persons under the age of thirteen (13). If an underage person provides such information and Vertical Insider has unknowingly collected said information, then Vertical Insider will take the appropriate steps to delete this information immediately.
+
+#### **Transfer of Rights**
+
+Should Vertical Insider be acquired, merged, or endeavor to become closed for business, Vertical Insider reserves the right, in any of these circumstances, to transfer or assign the information collected, during the due course of business, from Users of the Website. This information may be held as part of any such acquisition, merger, sale, or other change of control or business entity status.
+
+#### **Contact Information**
+
+You may contact Vertical Insider Customer Service at:
+
+Vertical Insider LLC  
+Attention: Customer Service  
+120 N Church St, Suite 204  
+West Chester, PA 19380  
+Email:  _privacy [at] verticalinsider.com_  
+Direct Dial (International): (1)888-406-7477
+
+#### **Changes and Updates**
+
+If we decide to change our privacy policy, we will post those changes to this privacy policy on our home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+#### **Communications**
+
+On occasion as deemed necessary by Vertical Insider (daily, weekly, monthly, etc.), Vertical Insider will send the User various communications as part of the Service, such as account activity alerts, account updates, and campaigns targeted to the criteria of the User, as determined by Vertical Insider. Said communications shall originate from Vertical Insider only and shall be conducted in compliance to Section 4, entitled “Disclosure of Information”, of this Privacy Policy. At any time, the User may entirely opt-out of such communications by emailing Customer Service at  _privacy [at] verticalinsider.com_.
+
+#### **Presiding Language**
+
+This Agreement and all Vertical Insider policies are written and executed in English, which is considered the prevailing language for purposes of interpretation or laws of contract. If this Agreement is translated into any other language, the English version shall be considered the primary binding legal document.
+
+#### **European Union Citizens & Data Portability **
+
+According to Article 20 of the General Data Protection Regulation (GDPR), data subjects of the European Union have the right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format, and have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided. To request your personal data file, assuming any personal data has been collected and/or is being stored by Vertical Insider, please [click here](https://verticalinsider.com/data-portability-for-european-union-citizens/).
+
+#### **Communication & Data Preferences**
+
+To update all of your communication preferences, as well as personally identifiable information, please [click here](https://verticalinsider.com/update-data-retention-communication-preferences/).
