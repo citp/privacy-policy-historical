@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kandypens.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005050609id_/https%3A//www.kandypens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kandypens.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122202422id_/https%3A//www.kandypens.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
