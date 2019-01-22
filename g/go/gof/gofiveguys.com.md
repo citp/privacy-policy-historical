@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofiveguys.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114211726id_/https%3A//order.fiveguys.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofiveguys.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122123756id_/https%3A//order.fiveguys.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
