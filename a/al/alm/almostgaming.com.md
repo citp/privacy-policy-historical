@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the almostgaming.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123014733id_/http%3A//www.almostgaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almostgaming.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122154708id_/http%3A//www.almostgaming.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Almost Gaming
+# Privacy Policy | WoW Classic Guides
 
 This is the web site of Almost Gaming. We can be reached via e-mail at [webmaster@almostgaming](mailto:webmaster@almostgaming.com).
 
