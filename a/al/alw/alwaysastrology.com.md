@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alwaysastrology.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525084937id_/http%3A//www.alwaysastrology.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alwaysastrology.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122190959id_/https%3A//www.alwaysastrology.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ Your use of this site indicates acceptance of this privacy policy.
 
 * * *
 
-[Astrology Signs - Always Astrology - Home](http://www.alwaysastrology.com/)
+[Astrology Signs - Always Astrology - Home](https://www.alwaysastrology.com/)
 
 * * *
 
