@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercato.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174732id_/https%3A//www.mercato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercato.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122032005id_/https%3A//www.mercato.com/privacy) for the most accurate reproduction.*
 
 # Mercato - Privacy policy
 
