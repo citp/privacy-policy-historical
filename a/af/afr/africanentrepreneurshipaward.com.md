@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africanentrepreneurshipaward.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123101302id_/https%3A//africanentrepreneurshipaward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africanentrepreneurshipaward.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123232614id_/https%3A//africanentrepreneurshipaward.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - African Entrepreneurship Award - African Entrepreneurship Award
 
