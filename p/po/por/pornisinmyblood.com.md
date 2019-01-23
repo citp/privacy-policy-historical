@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornisinmyblood.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123012334id_/http%3A//pornisinmyblood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornisinmyblood.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123024957id_/http%3A//pornisinmyblood.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
