@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfreedomsmokes.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407040628id_/https%3A//www.myfreedomsmokes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreedomsmokes.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123024517id_/https%3A//www.myfreedomsmokes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MyFreedomSmokes
+# Privacy Policy
 
 Myfreedomsmokes.com (our “Website”) is operated by Freedom Smokes, Inc., a North Carolina corporation ("FS,” “we,” “us” or “our”).  FS wants to make your online experience pleasant, convenient and safe. “Personal information” is information about an identifiable individual, which includes name, address, e-mail address, telephone number and other information that is identifiable to you, as more particularly defined by privacy legislation. By using our Website, by providing us with your personal information, in our promotions and in other ways when you interact with us, you signify your agreement and acceptance to the conditions stated in this Privacy Policy and our Terms of Use. This Privacy Policy does not apply to information provided to us in connection with employment opportunities.
 
