@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the mailgun.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019091741id_/https%3A//www.mailgun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailgun.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123151654id_/https%3A//www.mailgun.com/privacy-policy) for the most accurate reproduction.*
 
 # Mailgun Privacy Policy - Email API Service - Mailgun
+
+_Last revised and updated 08/31/2018. To review a changelog and see the previous version,[click here](https://www.mailgun.com/privacy-policy-old)._
 
 Your privacy is important to us. We describe in this notice how we collect and use information about you in your use of the Mailgun services, including the Mailgun platform and the website at mailgun.com (made available by Mailgun Technologies, Inc.). If you are one of our customers, you should read this notice in conjunction with our [Terms of Service](https://www.mailgun.com/terms).
 
 ## 1\. Who are we?
 
-As you know, we are an email service provider. When collecting information about our customers or visitors of our website, we are, under European Union (“EU”) data protection laws, qualified as “data controller”. This means that we are responsible for deciding how we hold and use personal data about you.
+As you know, we are an email service provider. When collecting information about our customers or visitors of our website, we are, under European Union (“EU") data protection laws, qualified as “data controller". This means that we are responsible for deciding how we hold and use personal data about you.
 
 ## 2\. How do we collect information about you?
 
