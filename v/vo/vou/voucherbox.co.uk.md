@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the voucherbox.co.uk privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610213856id_/https%3A//www.voucherbox.co.uk/privacy-policy%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voucherbox.co.uk privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123140605id_/https%3A//www.voucherbox.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Voucherbox.co.uk
+# Privacy Policy ≫ Voucherbox.co.uk
+
+**In the order to comply with the new GDPR which comes into effect on 25th May 2018, we updated our Privacy policy. The new Privacy policy  can be found [HERE](https://www.voucherbox.co.uk/privacy-policy-2018).**
 
 This Privacy Policy is effective **2015 July 23** (the “Effective Date”).  This Policy supersedes prior versions of this Privacy Policy for all users (including for those users that signed up prior to the Effective Date).
 
@@ -10,15 +12,15 @@ This Privacy Policy is designed to inform you about the types of information tha
 
 Please read the information below to learn the following regarding your use of this site: [http://www.voucherbox.co.uk](http://www.voucherbox.co.uk/)
 
-  1. [What information do we collect from you?](http://www.voucherbox.co.uk/privacy-policy#information-collect)
-  2. [Where do we collect information from you and how do we use it?](http://www.voucherbox.co.uk/privacy-policy#where-collected)
-  3. [With whom do we share your information?](http://www.voucherbox.co.uk/privacy-policy#whom-shared)
-  4. [How can you update, correct or delete your Personally Identifiable Information?](http://www.voucherbox.co.uk/privacy-policy#update-information)
-  5. [What are your choices regarding collection, use and distribution of your information?](http://www.voucherbox.co.uk/privacy-policy#collection)
-  6. [What security precautions are in place to protect against the loss, misuse or alteration of your information?](http://www.voucherbox.co.uk/privacy-policy#security-precautions)
-  7. [Do we use “cookies”?](http://www.voucherbox.co.uk/privacy-policy#cookies)
-  8. [What should you know about privacy policies and data collection at any third party sites accessible from our site?](http://www.voucherbox.co.uk/privacy-policy#third-party-sites)
-  9. [What else should you know about your privacy online?](http://www.voucherbox.co.uk/privacy-policy#should-know)
+  1. What information do we collect from you?
+  2. Where do we collect information from you and how do we use it?
+  3. With whom do we share your information?
+  4. How can you update, correct or delete your Personally Identifiable Information?
+  5. What are your choices regarding collection, use and distribution of your information?
+  6. What security precautions are in place to protect against the loss, misuse or alteration of your information?
+  7. Do we use “cookies”?
+  8. What should you know about privacy policies and data collection at any third party sites accessible from our site?
+  9. What else should you know about your privacy online?
 
 
 
@@ -39,9 +41,10 @@ To better provide you with our numerous services, we collect two types of inform
 We do not collect any Personally Identifiable Information about you unless you voluntarily provide it to us. You provide certain Personally Identifiable Information to us when you:
 
   1. Register your e-mail address with us;
-  2. Enter sweepstakes or contests sponsored by us or one of our partners;
-  3. Sign up for special offers from us or one of our partners; or
-  4. Send e-mail messages, submit forms or transmit other information by telephone or letter.
+  2. Register a membership with Voucherbox;
+  3. Enter sweepstakes or contests sponsored by us or one of our partners;
+  4. Sign up for special offers from us or one of our partners; or
+  5. Send e-mail messages, submit forms or transmit other information by telephone or letter.
 
 
 
@@ -65,15 +68,19 @@ We reserve the right to provide Non-Personally Identifiable Information about th
 
 ### 4\. How can you update or correct your Personally Identifiable Information?
 
-We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change the email address you have provided us when you subscribed to our newsletter by emailing us at hello@voucherbox.co.uk.  We encourage you to promptly update your email address if it changes.  You may also correct any other personal information you have provided by emailing us at hello@voucherbox.co.uk.
+We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change the email address you have provided us when you subscribed to our newsletter or registered a Voucherbox membership by emailing us at hello@voucherbox.co.uk. We encourage you to promptly update your email address if it changes. You may also correct any other personal information you have provided by emailing us at hello@voucherbox.co.uk.
 
-You may ask to have the information you provided deleted or removed by emailing us at hello@voucherbox.co.uk.  You can also opt out of our newsletter by following the directions at the bottom of the newsletter.  We keep track of past coupon transactions, and therefore you cannot delete information associated with past transactions on this site.  This information is not associated with your Personally Identifiable Information.  In addition, it may be impossible to completely delete your information without some residual information because of backups.
+You may ask to have the information you provided deleted or removed by emailing us at hello@voucherbox.co.uk.  You can also opt out of our newsletter by following the directions at the bottom of the newsletter.  We keep track of past coupon transactions, and therefore you cannot delete information associated with past transactions on this site. This information is not associated with your Personally Identifiable Information. In addition, it may be impossible to completely delete your information without some residual information because of backups.
 
 ### 5\. What are your choices regarding collection, use, and distribution of your information?
 
-If you have subscribed to our newsletter, we may, from time to time, send you e-mail regarding our offers, products and services.  Only the Company (or agents working on behalf of the Company) will send you these direct mailings.  You are not required to subscribe to the newsletter to use the site.  At any time you can easily opt out of the newsletter to no longer receive such offers and mailings.
+**Newsletter:** If you have subscribed to our newsletter, we may, from time to time, send you e-mail regarding our offers, products and services. Only the Company (or agents working on behalf of the Company) will send you these direct mailings. You are not required to subscribe to the newsletter to use the site. At any time, you can easily opt out of the newsletter to no longer receive such offers and mailings.
 
-You also have choices with respect to cookies, as described below.  By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies.  However, if you choose to reject some or all cookies, some parts of our site may not work properly.
+**Membership:** You can end your membership at any time, delete your account as well as your saved personal information. For this, just send us an e-mail to Voucherbox.co.uk or write to us at the above mentioned address.
+
+**Cookies:** You also have choices with respect to cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, if you choose to reject some or all cookies, some parts of our site may not work properly.
+
+**Google Analytics:** You may also prevent the compiling of data regarding your use of the Website (including your IP-address), the transfer of data to Google and the processing of such data by Google by downloading and installing the browser-plugin available under the link below. (http://tools.google.com/dlpage/gaoptout?hl=de)
 
 ### 6\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?
 
