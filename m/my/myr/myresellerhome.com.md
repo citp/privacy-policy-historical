@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myresellerhome.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626132910id_/http%3A//www.myresellerhome.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myresellerhome.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123202648id_/https%3A//myresellerhome.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - My Reseller Home
 
