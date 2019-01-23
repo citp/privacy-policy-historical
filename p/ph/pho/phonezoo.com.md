@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonezoo.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924195739id_/http%3A//phonezoo.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonezoo.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123172753id_/https%3A//phonezoo.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # 
 
