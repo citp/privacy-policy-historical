@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the annieselke.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009180412id_/http%3A//annieselke.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annieselke.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123045221id_/https%3A//annieselke.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Annie Selke
+# Annie Selke Privacy Policy | Annie Selke
 
 Updated Privacy Policy February 2017
 
