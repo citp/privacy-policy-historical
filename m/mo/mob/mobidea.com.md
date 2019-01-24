@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobidea.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230192253id_/https%3A//www.mobidea.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobidea.com privacy policy that was archived on 2019-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190124233618id_/https%3A//www.mobidea.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mobidea
 
