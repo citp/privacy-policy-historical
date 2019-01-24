@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoilednyc.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906004424id_/https%3A//spoilednyc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoilednyc.com privacy policy that was archived on 2019-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190124021238id_/https%3A//spoilednyc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | spoiled NYC
 
