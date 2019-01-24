@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onebip.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014183723id_/http%3A//corporate.onebip.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onebip.com privacy policy that was archived on 2019-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190124224142id_/http%3A//corporate.onebip.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Onebip
 
