@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the federalbank.co.in privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128123349id_/https%3A//www.federalbank.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalbank.co.in privacy policy that was archived on 2019-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190124223616id_/https%3A//www.federalbank.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Personal, NRI, Business Banking, Online Banking, Mobile Banking - Federal Bank
+# Privacy Policy
 
 ### Privacy Policy
 
