@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the syslint.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130011312id_/https%3A//syslint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syslint.com privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125100147id_/https%3A//syslint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Syslint.com
+# Privacy policy - Web Hosting Support, Outsourced Support,Server Management Services, DevOps Services, App Development
 
 This Privacy Statement describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us. Generally, we may collect information about you in two ways: 
 
