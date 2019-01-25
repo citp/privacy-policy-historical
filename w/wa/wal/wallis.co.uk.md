@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallis.co.uk privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126032601id_/http%3A//www.wallis.co.uk/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33058%26storeId%3D12557%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D281007%26interstitial%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallis.co.uk privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125235558id_/https%3A//www.wallis.co.uk/en/wluk/category/privacy-policy-265763/home%3Fcat2%3D281007) for the most accurate reproduction.*
 
 # Privacy Policy - Wallis
 
@@ -1177,7 +1177,8 @@ We use cookies on this website for the following main purposes:
 
 Most web browsers automatically accept cookies when they are dropped on your computer, mobile or other handheld device.  You can adjust your browser settings so that it will refuse cookies. By accepting cookies when visiting our website, you consent to cookies being used in accordance with this Cookies Policy (hereafter referred to as “the policy”).  You can change your mind at any time about your consent. If you do not consent to cookies, or have changed your mind about cookies, you should either disable cookies through your browser or refrain from using this website.  Please go to ‘How to Manage Cookies’ section below (section 6) for information on how to manage and disable cookies.
 
-  4. **Our cookies**
+  4. **Our cookies**  
+
 
 
 
@@ -1208,8 +1209,7 @@ Apache
 This helps the website run cookies, without this the website would not work  
   
 akavpau_VP_EV,    
-akacd_monty-prod, Pakaas_DRET  
-akaas_Checkout_AB
+akacd_monty-prod, Pakaas_DRET
 
 | 
 
@@ -1269,7 +1269,8 @@ nr-data.net
 
 Preserves users states across page requests  
   
-**4.2 Statistical cookies**
+**  
+4.2 Statistical cookies**  
 
 These cookies help us to understand how users interact with our site and provide us with statistical analysis of our site. We also use web analytics to ensure our site is easy to use, working properly and up-to-date. They also help us understand how people use our site. For example, we see which areas are most popular, identify when errors occur and can test different features to see which works best.
 
@@ -1486,6 +1487,24 @@ Arcadia WCS (Internal)
 | 
 
 These cookies are used to support the website and user experience, without these the website would not work  
+  
+4.6
+
+Cookie Name | Provider | Purpose  
+---|---|---  
+KlarnaSessionId | Klarna | These are payment option cookies used for payment verification when purchases are made via our Buy Now Pay Later option  
+KlarnaClientToken  
+arcpromocode | Arcadia (Internal) | Used to manage offers sent to you by email  
+bagCount | Arcadia (Internal) | Tracks the number of items in your basket  
+bvtoken | Arcadia (Internal) | Used to show you product reviews  
+userSeg | Arcadia (Internal) | These cookies track data for user segmentation to bring you a more personalised shopping experience  
+authenticated | Arcadia (Internal) | These cookies verify who is using our site  
+GEOIP | Arcadia (Internal) | These cookies track your preferred site country and ensure the site displays this country as your default  
+traceId2 | Arcadia (Internal) | These cookies are used to assist you if you experience any site errors and to find root causes for the errors so that they can be fixed  
+viewport | Arcadia (Internal) | These cookies identify the size of your browser to help serve you the best experience  
+jsessionid | Arcadia (Internal) | These cookies identify your unique visits to our website  
+dual-run | Arcadia (Internal) | Used to manage how the site displays when you visit on a desktop device  
+akaas_DRET | Arcadia (Internal) | Used to manage how the site displays when you visit on a desktop device  
   
   5. **Third party cookies**
 
