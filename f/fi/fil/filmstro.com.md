@@ -1,107 +1,261 @@
-> *The following text is extracted and transformed from the filmstro.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930135332id_/https%3A//filmstro.com/footer-items/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmstro.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126002308id_/https%3A//filmstro.com/page/privacy-and-cookies) for the most accurate reproduction.*
 
-# Filmstro
+# Privacy & Cookie Policy | Filmstro
 
-## 1\. INTRODUCTION
+### 1\. INTRODUCTION
 
-1.1. This policy (the **Privacy Policy** ) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using the Filmstro Services you are accepting and consenting to the practices described in this Privacy Policy.
+**1**  This privacy notice provides you with details of how we collect and process your personal data through your use of our site **www.filmstro.com** , including any information you may provide through our site when you purchase a product or service, sign up to our newsletter or take part in a prize draw or competition.
 
-1.2. For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is Filmstro Limited ( **Filmstro, we, us** ), a company registered in England and Wales with registered company number 09248842 and registered address at 2 Upperton Gardens, Eastbourne, England, BN21 2AH.
+By providing us with your data, you warrant to us that you are over 13 years of age.
 
-## 2\. DEFINITIONS
+**Filmstro Limited** is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).
 
-In this Privacy Policy capitalised words and expressions shall have the meanings given to them in the Filmstro [Terms of Use](https://filmstro.com/terms) unless defined below:
+#### Contact Details
 
-**Company** means the business you work for or represent (if applicable).
+Our full details are:
 
-**Filmstro Customer** means any person authorised by Filmstro to access and use the Filmstro Services.
+Full name of legal entity: **Filmstro Limited**
 
-**Filmstro Services** means the music library services provided by way of the Filmstro website and/or Filmstro software from time to time.
+Email address: **office@filmstro.com**
 
-**you** means each Filmstro Customer and your shall be understood accordingly.
+Registered address: **2 Upperton Gardens, Eastbourne, East Sussex BN21 2AH**
 
-## 3\. INFORMATION FILMSTRO COLLECTS
+If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
 
-3.1. If you wish to subscribe for access to the Filmstro music library you will be required to register. When you register, Filmstro will collect personal information about you and (if applicable) information about your Company (such as the Company name, and your e-mail address). This data allows us to provide a personalised service to you. You consent to us accessing and collecting such personal information about you.
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [support](mailto:support@filmstro.com).
 
-3.2. Filmstro will create an account for your subscription based on the information you give us (an **Account** ). Filmstro may also ask that you provide other information to us for the Account. You are under no obligation to provide such information. However, if you choose to withhold requested information, Filmstro may not be able to provide the Filmstro Services to you.
+### 2\. WHAT DATA DO WE COLLECT ABOUT YOU
 
-## 4\. HOW FILMSTRO STORES YOUR INFORMATION
+Personal data means any information capable of identifying an individual. It does not include anonymised data.
 
-Information Filmstro collects may be transferred to, stored and processed by its subsidiaries as well as its service providers and other reputable third party organisations, some of which may be situated outside the European Economic Area “EEA”. Where Filmstro does transfer your personal data outside the EEA it will use its best endeavours to put measures in place to ensure that such personal data will be adequately protected to a standard at least as high as under the Act. In addition, if you use the Filmstro Services outside the EEA, your information may be transferred outside the EEA in order to provide you with those Services. By using the Filmstro Services, you agree to the collection, transfer, storage or processing of information about you for the purposes described in this Privacy Policy.
+We may process certain types of personal data about you as follows:
 
-## 5\. HOW YOUR INFORMATION IS USED
+  * **Identity Data** may include your first name, maiden name, last name, username, marital status, title, date of birth and gender.
+  * **Contact Data** may include your billing address, delivery address, email address and telephone numbers.
+  * **Financial Data** may include your bank account and payment card details.
+  * **Transaction Data** may include details about payments between us and other details of purchases made by you.
+  * **Technical Data** may include your login data, internet protocol addresses, browser type and version, browser plug-in types and versions, time zone setting and location, operating system and platform and other technology on the devices you use to access this site.
+  * **Profile Data** may include your username and password, purchases or orders, your interests, preferences, feedback and survey responses.
+  * **Usage Data** may include information about how you use our website, products and services.
+  * **Marketing and Communications Data** may include your preferences in receiving marketing communications from us and our third parties and your communication preferences.
 
-5.1. Filmstro may use the information you provide to us to:
 
-5.1.1. monitor, develop and improve the Filmstro Services and your experience;
 
-5.1.2. assist in and administer the provision of the Filmstro Services to you;
+We may also process Aggregated Data from your personal data but this data does not reveal your identity and as such in itself is not personal data. An example of this is where we review your Usage Data to work out the percentage of website users using a specific feature of our site. If we link the Aggregated Data with your personal data so that you can be identified from it, then it is treated as personal data.
 
-5.1.3. process and deal with any complaints or enquiries made about or by you (or your Company);
+Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
 
-5.1.4. contact you about a submission you have made to the Filmstro Services; and/or
+### 3\. HOW WE COLLECT YOUR PERSONAL DATA
 
-5.1.5. understand customer trends and patterns.
+We collect data about you through a variety of different methods including:
 
-## 6\. WHEN FILMSTRO MAY CONTACT YOU
+  * **Direct interactions:** You may provide data by filling in forms on our site (or otherwise) or by communicating with us by post, phone, email or otherwise, including when you: 
+    * order our products or services;
+    * create an account on our site;
+    * subscribe to our service or publications;
+    * request resources or marketing be sent to you;
+    * enter a competition, prize draw, promotion or survey; or
+    * give us feedback.
+  * **Automated technologies or interactions:** As you use our site, we may automatically collect Technical Data about your equipment, browsing actions and usage patterns. We collect this data by using cookies, server logs and similar technologies. We may also receive Technical Data about you if you visit other websites that use our cookies. Please see our cookie policy for further details.
+  * **Third parties or publicly available sources:** We may receive personal data about you from various third parties and public sources as set out below: 
+    * Technical Data from the following parties: 
+      * analytics providers such as Google based outside the EU;
+      * advertising networks such as Facebook, Twitter and Instagram based inside the EU; and
+      * search information providers such as Google based inside the EU.
+    * Contact, Financial and Transaction Data from providers of technical, payment and delivery services such as Bluesnap, Stripe, Paypal, Quaderno inside the EU & Xero outside EU.
+    * Identity and Contact Data from data brokers or aggregators such as, Auth0 and Zendesk based inside the EU.
+    * Identity and Contact Data from publicly available sources such as Companies House and the Electoral Register based inside the EU.
 
-6.1. Filmstro may contact you:
 
-6.1.1. in relation to the functioning of any service you have signed up for in order to ensure that Filmstro can deliver the service to you;
 
-6.1.2. in relation to any contribution you have made to the Filmstro Services;
+### 4\. HOW WE USE YOUR PERSONAL DATA
 
-6.1.3. to invite you to participate in surveys about the Filmstro Services (participation is always voluntary); and/or
+We will only use your personal data when legally permitted. The most common uses of your personal data are:
 
-6.1.4. for marketing purposes as described in the next section.
+  * Where we need to perform the contract between us.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
 
-6.2 Local pages will give you information about how Filmstro will contact you in relation to specific services.
 
-## 7\. WILL I BE CONTACTED FOR MARKETING PURPOSES?
 
-7.1 Filmstro may send you and keep you updated with information by email or telephone (including SMS) about existing and new services, products and special offers from Filmstro.
+Generally, we do not rely on consent as a legal ground for processing your personal data, other than in relation to sending marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by emailing us at [support](mailto:support@filmstro.com).
 
-7.2 Where requested by you Filmstro may send you information by email or telephone about related products or services of selected third parties that may be of interest to you. However, you always have the opportunity to remove your consent to such use by sending an email to [support@filmstro.com](mailto:support@filmstro.com) with a removal request.
+#### Purposes for processing your personal data
 
-7.3 You can tell us not to contact you or share your information with a third party either at initial registration for your access to the Account, or later by way of updates or amendments to your personal information. Filmstro may occasionally contact you about products and services Filmstro believes may be of interest to you. These contacts will only come from Filmstro (or its agents) and only if you have indicated that you do not object to these offers.
+Set out below is a description of the ways we intend to use your personal data and the legal grounds on which we will process such data. We have also explained what our legitimate interests are where relevant.
 
-## 8\. WILL FILMSTRO SHARE PERSONAL INFORMATION WITH ANYONE ELSE?
+We may process your personal data for more than one lawful ground, depending on the specific purpose for which we are using your data. Please email us at [support](mailto:support@filmstro.com) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
 
-Filmstro will keep your information confidential except where disclosure is required or permitted by law. Generally, Filmstro will only use your information within our business and that of our subsidiaries or affiliates. However, sometimes Filmstro uses third parties to process your information, and if so Filmstro requires these third parties to comply strictly with its instructions and requires it not to use your personal information for their own business purposes.
+**Purpose/Activity** | **Type of Data** | **Lawful basis for processing**  
+---|---|---  
+To register you as a new customer | (a) Identity  
+(b) Contact | Performance of a contract with you  
+To process and deliver your order including:  
+(a) Manage payments, fees and charges  
+(b) Collect and recover money owed to us | (a) Identity  
+(b) Contact  
+(c) Financial  
+(d) Transaction  
+(e) Marketing and Communications | (a) Performance of a contract with you  
+(b) Necessary for our legitimate interests to recover debts owed to us  
+To manage our relationship with you which will include:  
+(a) Notifying you about changes to our terms or privacy policy  
+(b) Asking you to leave a review or take a survey | (a) Identity  
+(b) Contact  
+(c) Profile  
+(d) Marketing and Communications | (a) Performance of a contract with you  
+(b) Necessary to comply with a legal obligation  
+(c) Necessary for our legitimate interests to keep our records updated and to study how customers use our products/services  
+To enable you to partake in a prize draw, competition or complete a survey | (a) Identity  
+(b) Contact  
+(c) Profile  
+(d) Usage  
+(e) Marketing and Communications | (a) Performance of a contract with you  
+(b) Necessary for our legitimate interests to study how customers use our products/services, to develop them and grow our business  
+To administer and protect our business and our site (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) | (a) Identity  
+(b) Contact  
+(c) Technical | (a) Necessary for our legitimate interests for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise  
+(b) Necessary to comply with a legal obligation  
+To deliver relevant content and advertisements to you and measure and understand the effectiveness of our advertising | (a) Identity  
+(b) Contact  
+(c) Profile  
+(d) Usage  
+(e) Marketing and Communications  
+(f) Technical | Necessary for our legitimate interests to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | (a) Technical  
+(b) Usage | Necessary for our legitimate interests to define types of customers for our products and services, to keep our site updated and relevant, to develop our business and to inform our marketing strategy  
+To make suggestions and recommendations to you about goods or services that may be of interest to you | (a) Identity  
+(b) Contact  
+(c) Technical  
+(d) Usage  
+(e) Profile | Necessary for our legitimate interests to develop our products/services and grow our business  
+  
+#### Marketing communications
 
-## 9\. KEEPING OUR RECORDS ACCURATE
+You will receive marketing communications from us if you have:
 
-Filmstro aims to keep its information about you as accurate as possible, but Filmstro depends on you to update your personal information whenever necessary. You can change the details you have supplied to us at any time by sending your name, Company (if applicable) and full details of the change required to [support@filmstro.com](mailto:support@filmstro.com).
+  1. requested information from us or purchased goods or services from us; or
+  2. if you provided us with your details and ticked the box at the point of entry of your details for us to send you marketing communications; and
+  3. in each case, you have not opted out of receiving that marketing.
 
-## 10\. YOUR RIGHTS
 
-You have the right to request a copy of the personal information Filmstro holds about you and to have any inaccuracies corrected. Filmstro charges £10 for information requests and Filmstro will ask you to prove your identity with two (2) pieces of approved photographic identification. Filmstro will use reasonable efforts to supply, correct or delete personal information about you on our files. Please address requests and questions about this or any other question about this Privacy Policy to us at [support@filmstro.com](mailto:support@filmstro.com).
 
-## 11\. CHANGES TO THIS PRIVACY POLICY
+We will get your express opt-in consent before we share your personal data with any third party for marketing purposes.
 
-Filmstro reserves the right from time to time to change or update this Privacy Policy. All changes will be published on the Filmstro Services. Each change will become effective on publication and you will be deemed to be aware of and bound by it. you should therefore review this Privacy Policy regularly to ensure that you are up-to-date with the current terms of the Privacy Policy.
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you OR by emailing us at [support](mailto:support@filmstro.com) at any time.
 
-## 12\. IP ADDRESSES, COOKIES AND WEB BEACONS
+Where you opt out of receiving our marketing communications, this will not apply to personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions.
 
-12.1 Filmstro may collect information about your computer, including where available your computer’s IP address, operating system and browser type, for system administration. This information is limited to statistical data about Filmstro Customers’ browsing actions and patterns, and does not identify any individual.
+#### Change of purpose
 
-12.2 For the same reason, Filmstro may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that helps us to improve the Filmstro Services and to deliver a better and more personalised service. They enable us to:
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to find out more about how the processing for the new purpose is compatible with the original purpose, please email us at [support](mailto:support@filmstro.com).
 
-12.2.1 identify who you are and to access your Account information;
+If we need to use your personal data for a purpose unrelated to the purpose for which we collected the data, we will notify you and we will explain the legal ground of processing.
 
-12.2.2 estimate our audience size and patterns; and
+We may process your personal data without your knowledge or consent where this is required or permitted by law.
 
-12.2.3 track preferences and to improve and update the Filmstro Services.
+### 5\. DISCLOSURES OF YOUR PERSONAL DATA
 
-12.3 You may refuse to accept cookies by activating the setting on your Internet browser which allows you to refuse the setting of cookies. You can also delete cookies that have been installed on your hard drive – consult your software manual for further help. However, if you select the refuse setting, or delete cookies, you may be unable to access certain parts of the Filmstro Services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above:
 
-12.4 To learn more about cookies and how to disable them please visit [www.youronlinechoices.com](https://filmstro.com/www.youronlinechoices.com) and [www.allaboutcookies.org](https://filmstro.com/www.allaboutcookies.org).
+  * Service providers who provide IT and system administration services.
+  * Professional advisers including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services.
+  * HM Revenue & Customs, regulators and other authorities based in the United Kingdom and other relevant jurisdictions who require reporting of processing activities in certain circumstances.
+  * Marketing agencies such as, Atom42 based inside the EU.
+  * Third parties to whom we sell, transfer, or merge parts of our business or our assets.
 
-## 13\. SECURITY
 
-Filmstro has installed security measures to ensure that any personal data entered on the Filmstro Services is protected against loss, misuse or alteration. However, due to the nature of the Internet, Filmstro cannot guarantee the protection of your personal information and Filmstro cannot be responsible for any outcomes resulting from a breach of security when the Filmstro Services are used.
 
-## 14\. CONTACTING FILMSTRO AND CANCELLATION OF REGISTRATION
+We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
 
-If you have any questions or comments about this Privacy Policy, or would like to cancel your access to the Account, please contact us at [support@filmstro.com](mailto:support@filmstro.com). 
+### 6\. INTERNATIONAL TRANSFERS
+
+Countries outside of the European Economic Area ( **EEA** ) do not always offer the same levels of protection to your personal data, so European law has prohibited transfers of personal data outside of the EEA unless the transfer meets certain criteria.
+
+Some of our third parties service providers are based outside the European Economic Area ( **EEA** ) so their processing of your personal data will involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA, we do our best to ensure a similar degree of security of data by ensuring at least one of the following safeguards is implemented:
+
+  * We will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission; or
+  * Where we use certain service providers, we may use specific contracts or codes of conduct or certification mechanisms approved by the European Commission which give personal data the same protection it has in Europe; or
+  * Where we use providers based in the United States, we may transfer data to them if they are part of the EU-US Privacy Shield which requires them to provide similar protection to personal data shared between the Europe and the US.
+
+
+
+If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time.
+
+Please email us at [support](mailto:support@filmstro.com) if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+
+### 7\. DATA SECURITY
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know such data. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+### 8\. DATA RETENTION
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+By law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they cease being customers for tax purposes.
+
+In some circumstances you can ask us to delete your data: see below for further information.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+### 9\. YOUR LEGAL RIGHTS
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. These include the right to:
+
+  * Request access to your personal data.
+  * Request correction of your personal data.
+  * Request erasure of your personal data.
+  * Object to processing of your personal data.
+  * Request restriction of processing your personal data.
+  * Request transfer of your personal data.
+  * Right to withdraw consent.
+
+
+
+You can see more about these rights at:
+
+<https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
+
+If you wish to exercise any of the rights set out above, please email us at [support](mailto:support@filmstro.com).
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
+
+### 10\. THIRD-PARTY LINKS
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+### 11\. COOKIES
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our cookie policy.
+
+### What's a cookie?
+
+  * A "cookie" is a piece of information that is stored on your computer's hard drive and which records how you move your way around a website so that, when you revisit that website, it can present tailored options based on the information stored about your last visit. Cookies can also be used to analyse traffic and for advertising and marketing purposes.
+  * Cookies are used by nearly all websites and do not harm your system.
+  * If you want to check or change what types of cookies you accept, this can usually be altered within your browser settings. You can block cookies at any time by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
+
+
+
+### How do we use cookies?
+
+  * We use cookies to track your use of our website. This enables us to understand how you use the site and track any patterns with regards how you are using our website. This helps us to develop and improve our website as well as products and / or services in response to what you might need or want.
+  * Cookies are either: 
+    * Session cookies: these are only stored on your computer during your web session and are automatically deleted when you close your browser – they usually store an anonymous session ID allowing you to browse a website without having to log in to each page but they do not collect any personal data from your computer; or
+    * Persistent cookies: a persistent cookie is stored as a file on your computer and it remains there when you close your web browser. The cookie can be read by the website that created it when you visit that website again. (We use persistent cookies for Google Analytics.)
+  * Cookies can also be categorised as follows: 
+    * Strictly necessary cookies: These cookies are essential to enable you to use the website effectively, such as when buying a product and / or service, and therefore cannot be turned off. Without these cookies, the services available to you on our website cannot be provided. These cookies do not gather information about you that could be used for marketing or remembering where you have been on the internet.
+    * Performance cookies: These cookies enable us to monitor and improve the performance of our website. For example, they allow us to count visits, identify traffic sources and see which parts of the site are most popular.
+    * Functionality cookies: These cookies allow our website to remember choices you make and provide enhanced features. For instance, we may be able to provide you with news or updates relevant to the services you use. They may also be used to provide services you have requested such as viewing a video or commenting on a blog. The information these cookies collect is usually anonymised.
+  * Please note that third parties who advertise on our website (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+
