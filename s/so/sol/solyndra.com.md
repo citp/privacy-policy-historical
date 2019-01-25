@@ -1,51 +1,69 @@
-> *The following text is extracted and transformed from the solyndra.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226090427id_/http%3A//www.solyndra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solyndra.com privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125064220id_/http%3A//www.solyndra.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Solyndra
+# Privacy Policy – Solar Energy
 
-**Overview**
+## Who we are
 
-Solyndra respects your concerns about privacy safeguards. This privacy policy discloses how we gather, use, share and protect information collected about visitors to the Solyndra Web site. Solyndra collects two different types of information: (1) email and/or other contact information you provide when contacting us; and (2) personally identifiable information collected as you visit and browse our Web site. By visiting the Solyndra Web site, you are accepting the practices described in this Privacy Policy. Solyndra encourages you to read this Privacy Policy carefully.
+Our website address is: http://www.solyndra.com.
 
-**What Information Does Solyndra Gather?**
+## What personal data we collect and why we collect it
 
-Solyndra voluntarily collects information from visitors who express an interest in investing in a solar system. That data is shared with our dealers/installers who sell our systems so that they can contact these visitors. Solyndra may periodically conduct surveys, usability studies, contests and other programs that help Solyndra improve and promote its products and services. Visitors to our Web site may voluntarily participate in these programs and as a condition of such participation, they may be asked to provide additional demographic information. Solyndra may collect such additional information that visitors voluntarily provides, including, without limitation, gender, age, income level, modem speed, or type of operating system used. Personally identifiable information collected by Solyndra in conjunction with voluntary surveys, usability studies, contests and other voluntary programs will not be shared with any sponsor or third party without your consent.
+### Comments
 
-**Visitor Information**
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-The Solyndra Web site server automatically records visitor information based on your activity on the Solyndra Web site, such as visitor IP addresses and/or domain names. An IP address is often associated with the place from which you enter the Internet such as your Internet service provider. This information is associated with you as an individual. Solyndra may use information about user behavior, user experience, user equipment, computing and internet environment to improve the performance of the Solyndra Web site.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-**Communication Information**
+### Media
 
-If you communicate directly with Solyndra by email, phone or letter, Solyndra may collect and store a record of your communication. Solyndra may use your communication information to respond to your issues and inquiries. Your communication information you provide to Solyndra’s third party partners will also enable such partners to let us know that you have contacted them. Such communication information may be used to distribute information back to you about Solyndra, its products, or other promotional or information communications from Solyndra.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-**Cookies**
+### Contact forms
 
-Cookies are data that a Web site transmits to your computer’s hard drive through your browser to enable the Web site to recognize your browser, record and store your information and occasionally track your viewing habits for statistical purposes. The Solyndra web site uses cookies to collect this type of information to deliver targeted content to you, and potentially tailor and enhance your experience on the Solyndra Web site.
+### Cookies
 
-**Children**
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Solyndra does not intend to collect information from individuals who identify themselves as under thirteen (13) years of age. If you are under thirteen, you should not provide any personal information on the Solyndra Web site. Solyndra will not knowingly disclose personally identifiable information of children under thirteen to any third party.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-**How Does Solyndra Protect My Information?**
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-Solyndra takes technical, contractual, administrative and physical security steps to protect all visitor and contact information from unauthorized access, maintain data accuracy and enable the correct use of information. Solyndra utilizes security systems to protect such information.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-**How Does Solyndra Use the Information and With Whom Do We Share the Information?**
+### Embedded content from other websites
 
-Solyndra does not share, rent, lease or sell personally identifiable information to others in ways different from what is disclosed in this Privacy Policy. Business Transfers Because the solar energy business is a rapidly evolving business, and Solyndra continues to develop and enhance its business, it may become subject to a corporate merger, corporate acquisition, or similar transaction involving the sale or combination of substantially all of its assets. In such circumstance, Solyndra reserves the right to disclose your personally identifiable information to the merged or resultant business entity.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-**Protection of Solyndra and Others; Compliance with the Law**
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-Solyndra reserves the right to disclose your personally identifiable information if required to do so by law or in the good-faith belief that such action is reasonably necessary to (a) comply with legal process, (b) respond to any claims against it, or (c) protect the rights, property or personal safety of Solyndra, its employees, its customers or the public. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+### Analytics
 
-**Linked Webs**
+## Who we share your data with
 
-The Solyndra Web site may contain links to other sites. Solyndra is not responsible for the privacy practices or the content of such other sites. Solyndra encourages you to review the privacy policies posted on these third party sites.
+## How long we retain your data
 
-**Accessing and Updating Information**
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-Please notify us of changes to any of your personally identifiable information that you have previously provided to us, including name, address, title, phone number or email address by sending an email to [legal@solyndra.com](mailto:legal@solyndra.com). To remove your name from our database or to interrupt e-mail notifications, please send an e-mail to [legal@solyndra.com](mailto:legal@solyndra.com).
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-**Conditions of Use; Contacting Us**
+## What rights you have over your data
 
-Please check the Solyndra Web site frequently to see recent changes, additions and deletions to this Privacy Policy. If you prefer not to receive promotional or other informational communications from Solyndra, or if you have any questions or comments about our privacy practices or comments or suggestions about the Solyndra Web site, please send an email to [legal@solyndra.com](mailto:legal@solyndra.com) or by mail to Solyndra LLC, 47488 Kato Road, Fremont, CA 94538, USA, Attention: Webmaster.
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Your contact information
+
+## Additional information
+
+### How we protect your data
+
+### What data breach procedures we have in place
+
+### What third parties we receive data from
+
+### What automated decision making and/or profiling we do with user data
+
+### Industry regulatory disclosure requirements
