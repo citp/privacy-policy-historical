@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcl.ac.uk privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203195504id_/https%3A//www.kcl.ac.uk/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcl.ac.uk privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125054916id_/https%3A//www.kcl.ac.uk/terms/privacy.aspx) for the most accurate reproduction.*
 
 # King's College London Core Privacy Notice | King’s College London
 
