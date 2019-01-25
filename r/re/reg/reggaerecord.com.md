@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reggaerecord.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512211138id_/http%3A//www.reggaerecord.com/en/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reggaerecord.com privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125185435id_/https%3A//www.reggaerecord.com/en/help/privacy.php) for the most accurate reproduction.*
 
 # Help - ReggaeRecord.com
 
@@ -48,7 +48,7 @@ We have set an agreement for handling personal information, taking in considerat
 **Telephone**
 
 | 0120-975-540(Japan only) /03-3364-2180  
-From outside Japan: +81-3-5389-1423  
+From outside Japan: +81-3-3364-5261  
   
 **Fax**
 
