@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tailorstore.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222012222id_/https%3A//www.tailorstore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tailorstore.com privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125010145id_/https%3A//www.tailorstore.com/privacy) for the most accurate reproduction.*
 
 # Tailor Store | Tailor Store®
 
