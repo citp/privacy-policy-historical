@@ -1,91 +1,71 @@
-> *The following text is extracted and transformed from the anspress.io privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114063206id_/https%3A//anspress.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anspress.io privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125205524id_/https%3A//anspress.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AnsPress
+# Privacy Policy – AnsPress
 
-### PRIVACY STATEMENT
+## Who we are
 
-**SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?**
+Our website address is: https://anspress.io.
 
-When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
+## What personal data we collect and why we collect it
 
-When you browse our store, we also automatically receive your computerâ€™s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
+### Comments
 
-Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-**SECTION 2 – CONSENT**
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-How do you get my consent?
+### Media
 
-When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
+### Contact forms
 
-How do I withdraw my consent?
+### Cookies
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at rah12@live.com or mailing us at: WP3 Lakimpur Lakhimpur Assam India 784160
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-**SECTION 3 – DISCLOSURE**
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-**SECTION 4 – PAYMENT**
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-We use PayPal for processing all payments.
+### Embedded content from other websites
 
-For more insight, you may also want to read PayPalâ€™s Terms of Service and Privacy Statement.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-**SECTION 5 – THIRD-PARTY SERVICES**
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+### Analytics
 
-However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
+## Who we share your data with
 
-For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
+## How long we retain your data
 
-In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-Once you leave our storeâ€™s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our websiteâ€™s Terms of Service.
+## What rights you have over your data
 
-Links
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+## Where we send your data
 
-**SECTION 6 – SECURITY**
+Visitor comments may be checked through an automated spam detection service.
 
-To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+## Your contact information
 
-If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption.Â  Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+## Additional information
 
-**SECTION 7 – COOKIES**
+### How we protect your data
 
-Here is a list of cookies that we use. Weâ€™ve listed them here so you that you can choose if you want to opt-out of cookies or not.
+### What data breach procedures we have in place
 
-_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
+### What third parties we receive data from
 
-cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
+### What automated decision making and/or profiling we do with user data
 
-_secure_session_id, unique token, sessional
+### Industry regulatory disclosure requirements
 
-storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
-
-**SECTION 8 – AGE OF CONSENT**
-
-By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
-
-**SECTION 9 – CHANGES TO THIS PRIVACY POLICY**
-
-We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
-
-If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
-
-**QUESTIONS AND CONTACT INFORMATION**
-
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at rah12@live.com or by mail at WP3
-
-[Re: Privacy Compliance Officer]
-
-[Lakimpur Lakhimpur Assam India 784160]
-
-—-
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.AcceptReject [Read More](https://anspress.io/privacy-policy/)
