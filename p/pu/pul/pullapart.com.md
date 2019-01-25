@@ -1,46 +1,38 @@
-> *The following text is extracted and transformed from the pullapart.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119101228id_/http%3A//www.pullapart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pullapart.com privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125052930id_/https%3A//www.pullapart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Privacy Policy
+**Privacy Policy**
 
-At Pull-A-Part, LLC, Inc. your data and its security and our use of it is important. We realize that you may have concerns regarding the privacy of your personal information. This is why we have specifically created this section; to address any concerns and questions you may have. 
+At Pull-A-Part, LLC, Inc. your data and its security and our use of it is important. We realize that you may have concerns regarding the privacy of your personal information. This is why we have specifically created this section; to address any concerns and questions you may have.
 
-This Customer Privacy Policy describes the information and privacy practices for Pull-A-Part, LLC retail stores (the "Stores"), Pull-A-Part, LLC Customer Care centers (the "Call Centers"), [www.pullapart.com](https://web.archive.org/) and www.partart.com websites (the "Sites"), our platform all other locations, occasions, or events where your personal information is collected by, or on behalf of Pull-A-Part, LLC. 
+This Customer Privacy Policy describes the information and privacy practices for Pull-A-Part, LLC retail stores (the "Stores"), Pull-A-Part, LLC Customer Care centers (the "Call Centers"), [www.pullapart.com](https://web.archive.org/) and www.partart.com websites (the "Sites"), our platform all other locations, occasions, or events where your personal information is collected by, or on behalf of Pull-A-Part, LLC.
 
 Pull-A-Part, LLC regularly reviews and updates its privacy policy and practices.
 
 The uses of information collected through our services shall be limited to the purpose of providing the service for which the client has engaged Pull-A-Part LLC and its affiliates.
 
-If you have questions or concerns regarding this privacy policy or our practices, please contact us at 404-607-7000 or [online](https://web.archive.org/contact/ "Contact").
+If you have questions or concerns regarding this privacy policy or our practices, please contact us at [(678) 993-2500](https://www.google.com/search?q=Pull-A-Part+Corporate+Office&stick=H4sIAAAAAAAAAONgecSYyS3w8sc9YamESWtOXmOM4uIKzsgvd80rySypFPLhYoOyFLj4pbj10_UNS1IMTCssjTUYpHi5kAWkFJS4eJm2WYiI5vUePqslxMkABYIlJdJ8k-6nuPEAAFlsrwduAAAA&sa=X&ved=0ahUKEwiM4Yj93LLZAhUD7VMKHcDjDm4Q6RMIiwEwCw&biw=1628&bih=861 "Call via Hangouts") or [online](https://web.archive.org/faq/faq-category/?CategoryID=About "Contact").
 
 **Personal Information We Collect**
 
-As part of your interaction with Pull-A-Part, LLC, we may collect personal information such as name, email address, billing address, mailing address and phone number. 
+As part of your interaction with Pull-A-Part, LLC, we may collect personal information such as name, email address, billing address, mailing address and phone number.
 
 **When We Collect Personal Information**
 
-We may collect personal information from you when you:
+  * We may collect personal information from you when you:
+  * Create an account on our Site
+  * Purchase, return, or exchange items in our Stores, interact with us through our Call Centers, or on our websites
+  * Contact one of our Call Centers
+  * Utilize one of our in-store services
+  * Subscribe to our newsletter or emails
+  * Respond to a survey or fill out a form
+  * Register for a product warranty
+  * Sign up for a loyalty program
+  * Enter into a contest or sweepstakes
+  * Provide us with reviews, questions, answers, comments, feedback, or suggestions
 
-Create an account on our Site
 
-Purchase, return, or exchange items in our Stores, interact with us through our Call Centers, or on our websites
-
-Contact one of our Call Centers
-
-Utilize one of our in-store services
-
-Subscribe to our newsletter or emails
-
-Respond to a survey or fill out a form
-
-Register for a product warranty
-
-Sign up for a loyalty program
-
-Enter into a contest or sweepstakes
-
-Provide us with reviews, questions, answers, comments, feedback, or suggestions
 
 **How We Use Your Personal Information**
 
@@ -72,7 +64,7 @@ We may send you mail, email, text, or call you with information about our produc
 
 If you place an order or enroll in a program in Store or on our Sites, the contact information you provide will only be used to send you information and updates pertaining to your order or in accordance with any other opt-in you may elect. If you decide to opt-in to our loyalty (e.g. VIP program) or our promotional email list, you will receive emails that may include company news, program information, offers, updates, related product or service information, etc.
 
-If at any time you would like to unsubscribe from receiving future promotional emails, we include detailed unsubscribe instructions at the bottom of each promotional email.  Please reference the Opt-Out section of the Pull-A-Part, LLC Privacy Policy below.  As always, you may also contact us via phone, email, or regular mail.
+If at any time you would like to unsubscribe from receiving future promotional emails, we include detailed unsubscribe instructions at the bottom of each promotional email. Please reference the Opt-Out section of the Pull-A-Part, LLC Privacy Policy below. As always, you may also contact us via phone, email, or regular mail.
 
 **To send service-related announcements**
 
@@ -86,21 +78,21 @@ If you choose to use any referral service we launch to tell a friend about our S
 
 **Opting out of Communication**
 
-If you would like to opt-out of communication from Pull-A-Part, LLC, we will ask you to select from several different options.  Please note: order confirmation communications, Loyalty Program, Notify Me, Receipt, Rating & Review / Survey, and Reminder communications are considered transactional messages.  Further, you may choose to maintain promotional messages from different programs or channels.
+If you would like to opt-out of communication from Pull-A-Part, LLC, we will ask you to select from several different options. Please note: order confirmation communications, Loyalty Program, Notify Me, Receipt, Rating & Review / Survey, and Reminder communications are considered transactional messages. Further, you may choose to maintain promotional messages from different programs or channels.
 
-If you prefer to opt out of any of the marketing messages above, you may email us at [here](https://web.archive.org/contact/ "Contact"), through any available www.pullapart.com loyalty program or communication preferences pages or by contacting us by telephone or postal mail by clicking the Contact Us link at the bottom of this page.
+If you prefer to opt out of any of the marketing messages above, you may email us at [here](https://web.archive.org/faq/faq-category/?CategoryID=About "Contact"), through any available www.pullapart.com loyalty program or communication preferences pages or by contacting us by telephone or postal mail by clicking the Contact Us link at the bottom of this page.
 
 Updating/Accessing/Amending/Correcting Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change by visiting one of our stores or by emailing Customer Care at customersupport@pullapart.com or by contacting us by postal mail or by clicking the Contact Us link at the bottom of this page.
+If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change by visiting one of our stores or by contacting us by postal mail or by clicking the Contact Us link at the bottom of this page.
 
 **Customer Testimonials/Comments/Reviews**
 
-We may post customer testimonials/comments/reviews on our web site which may contain personally identifiable information such as customer first name. If you wish to update or delete any testimonial, you can contact us [here](https://web.archive.org/contact/ "Contact"). In rare cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We may post customer testimonials/comments/reviews on our web site which may contain personally identifiable information such as customer first name. If you wish to update or delete any testimonial, you can contact us [here](https://web.archive.org/faq/faq-category/?CategoryID=About "Contact"). In rare cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **Blog**
 
-Our Web site may offer publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us at customersupport@pullapart.com.  In rare cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site may offer publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, please [contact us](https://web.archive.org/faq/faq-category/?CategoryID=About "contact us"). In rare cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 In general, we may combine your personal information with non-personal information collected through our Stores, Call Centers, Sites, and/or third party sources in order to accomplish the uses listed above.
 
@@ -152,7 +144,7 @@ We may use cookies to remember users' settings (e.g. language preference), for t
 
 **Behavioral Targeting / Re-Targeting**
 
-We may partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner may use cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by emailing customersupport@pullapart.com. Please note this will not opt you out of being served advertising. You may continue to receive generic ads.
+We may partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner may use cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [contacting us online](https://web.archive.org/faq/faq-category/?CategoryID=About). Please note this will not opt you out of being served advertising. You may continue to receive generic ads.
 
 **Log Files**
 
@@ -178,7 +170,7 @@ Should we deploy an optional chat feature, it will be to assist you with using t
 
 **Data Retention**
 
-We will retain your information for as long as your loyalty program account (e.g. VIP) is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact us [here](https://web.archive.org/contact/ "Contact"). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your loyalty program account (e.g. VIP) is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact us [here](https://web.archive.org/faq/faq-category/?CategoryID=About "Contact"). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Children**
 
@@ -186,7 +178,7 @@ We do not knowingly collect personally identifiable information from anyone unde
 
 **Terms and Conditions**
 
-Terms and Conditions establishing the use, disclaimers, and limitations of liability governing the use of our Site may be published from time to time.  Should you need more detailed information on our Terms & Conditions, please email customersupport@pullapart.com.
+Terms and Conditions establishing the use, disclaimers, and limitations of liability governing the use of our Site may be published from time to time. Should you need more detailed information on our Terms & Conditions, please [contact us](https://web.archive.org/faq/faq-category/?CategoryID=About). 
 
 **Your Consent**
 
@@ -196,7 +188,7 @@ By using our Site, you (the user) agree to our Privacy Policy and our Terms and 
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-This policy was last modified on April 15, 2015.
+This policy was last modified on February 19, 2018.
 
 **Contacting Us**
 
@@ -208,4 +200,4 @@ Pull-A-Part, LLC, Inc.
 
 Doraville, GA 30360
 
-Or by submitting a question online: [Contact Us](https://web.archive.org/contact/ "Contact Us")
+Or by submitting a question online: [Contact Us](https://web.archive.org/faq/faq-category/?CategoryID=About "Contact Us")
