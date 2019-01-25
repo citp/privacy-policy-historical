@@ -1,280 +1,284 @@
-> *The following text is extracted and transformed from the onefamily.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830172519id_/https%3A//www.onefamily.com/legal/privacy-policy-and-uses-of-data) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefamily.com privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125184020id_/https%3A//www.onefamily.com/privacy-notice) for the most accurate reproduction.*
 
-# Legal Information - Privacy Policy & Uses of Data | OneFamily
+# Legal Information - Privacy Notice | OneFamily
 
-This page contains the privacy policy and uses of data statement for our websites. If you have any questions about the information on this page, please get in touch using the contact details at the foot of the page.
+OneFamily is committed to preserving the privacy and security of your personal information. We ask that you read this Privacy Notice carefully as it provides you with important information on:
 
-## Privacy Policy
+  * your rights and obligations
+  * how we collect and use your personal information
+  * who we share your personal information with
+  * what we do to keep it secure
+  * how to contact the OneFamily Data Protection Officer
 
-This Privacy Policy applies to all websites (the Sites) operated by Family Assurance Friendly Society Limited (trading as OneFamily).
 
-OneFamily (we, us, our) is committed to protecting and respecting your privacy. This Privacy Policy (together with our [Terms and Conditions](https://www.onefamily.com/legal/terms-of-use/ "Website terms of use") and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, via the Sites, will be processed by us.
 
-Your personal details enable us to send you information about our products, respond to a specific enquiry you have and to provide you with products and services for which you apply.
+This Privacy Notice applies to you if you access or apply for any of our products or services over the phone, or by post or online via our websites and online services. It will also apply to you if you register and vote via the Foundation website or are a financial adviser or mortgage broker who introduces potential customers to us.
 
-When you fill out our online enquiry forms, we ask for your contact details so that we can deal with your request as efficiently and effectively as possible.
+## 1\. Who are we?
 
-**By using the Sites, you accept this Privacy Policy and agree to us processing your personal data in accordance with its terms. If you do not agree to this Privacy Policy, you should not use the Sites.**
+When we say ‘OneFamily’, ‘we’, ‘us’ or ‘our’ we’re generally referring to the separate and distinct legal entities that make up the OneFamily Group who are data controllers as set out below:
 
-We may amend this Privacy Policy from time to time. We will post any changes to this Privacy Policy here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this Privacy Policy on a regular basis.  **Your continued use of the Sites following the posting of changes to this Privacy Policy will mean that you accept those changes.**
+**Product /Services/ Activity** | **Data controller**  
+---|---  
+Lifetime mortgages | OneFamily Lifetime Mortgages Limited  
+Lump sum investment bonds  
+Regular premium savings bonds  
+Life Insurance  
+Pensions  
+Annuities | Family Assurance Friendly Society Limited  
+Junior ISAs  
+ISAs  
+Child Trust Fund | Family Equity Plan Limited  
+Child Trust Fund | Engage Mutual Funds Limited  
+Unit Trusts | Family Investment Management Limited  
+ISAs (formerly PEPs) | Family PEP Managers Limited  
+Advice on lifetime mortgages | OneFamily Advice Limited  
+Foundation activities | OneFamily Foundation Limited  
+Cash savings | Governor Finance Limited  
+Insurance intermediary | Engage Mutual Services Limited  
+  
+OneFamily acts as the data controller in the collection, use, storing, protection and transfer of your personal information.
 
-Your privacy and the security of your personal information are very important to us. We want you to be as comfortable as possible visiting the Sites. Please read this Privacy Policy carefully. The Sites are for use by residents of the United Kingdom (excluding the Channel Islands) and Ireland only.
+## 2\. What types of personal information do we collect?
 
-We will not sell, share, license, trade, or rent your personal information collected on the Sites to other partners or third parties. If however you were directed to the Sites by one of our strategic partners, we will share information with that strategic partner only.
+The personal data we collect includes:
 
-**Please remember that this Privacy Policy applies only to information collected via the Sites. We are not responsible for the privacy practices of websites that are operated or owned by third parties (i.e. websites you may have visited previously, which contain links to the Sites).**
+**Identity and contact details** \- your title, name, address, date of birth, contact details and contact details history, passport information and security details such as your national insurance number
 
-The following are links to the provisions of our Privacy Policy. For immediate access to a particular topic, click on the link below.
+**Employment** \- your employment status and details of your work or profession
 
-What information about me is collected on the Sites or through your internet products?
+**Financial** \- your financial position, status and history
 
-Who operates the Sites and where are your servers located?
+**Transactional** \- details about your transactions with us, such as, Direct Debit mandate instructions and any claims. Your online account login details, including your user name and password and memorable information
 
-Cookies, Tags and Personal Information
+**Communications** \- information about you from emails, secure messages or letters you send to us or information gathered during telephone conversations with you
 
-Are the Sites designed for use by children?
+**Open data on public records** \- details about you that are in public records such as the Electoral Register and company registers, and information about you that is publicly available, such as the press and online search engines
 
-When do you disclose information to third parties?
+**Criminal history** – details of criminal records, convictions or allegations
 
-Is the information collected secure?
+**Photographs or videos –** for some OneFamily activities we may use photographs or videos of our customers and individuals who are involved in Foundation grants/awards
 
-What choices do I have regarding the collection, disclosure and distribution of Personally Identifiable Information?
+**Information Technology** \- when you use our websites, we monitor website behaviour via analytics software and we collect information about how each visitor uses our site.  This information is then used to compile reports and to help us improve our site.  We collect information about any device you have used to access our services (such as your IP address).  For our terms of use of our website including information on cookies and tags, please follow this link: [www.onefamily.com/terms-of-use/](https://web.archive.org/web/20190125184020id_/https://www.onefamily.com/terms-of-use/)
 
-What if I want to unsubscribe from marketing communications?
+**Special Categories of Data** \- the law and other regulations treat some types of personal information as special. These categories are personal data relating to your:
 
-Who do I contact if I have any privacy questions?
+  * Racial or ethnic origin
+  * Religious, political or philosophical beliefs
+  * Trade union membership
+  * Genetic and bio-metric data
+  * Health data
+  * Lifestyle information, including data related to sex life or sexual orientation.
 
-## 1\. What information about me is collected on the Sites or through your internet products?
 
-We collect two types of information: personally identifiable information and non-personally identifiable information.
 
-### Personally Identifiable Information
+## 3\. How do we collect your personal information?
 
-Personally identifiable information is information that identifies you or can be used to identify or contact you ("Personally Identifiable Information"). Such Personally Identifiable Information may include your name, address, email address, telephone number, birth date (primarily for eligibility purposes) and bank details.
+** ** **Personal information provided by you directly**
 
-You **do not** have to provide us with any Personally Identifiable Information to visit the Sites. We will collect Personally Identifiable Information from you only if you voluntarily submit such information to us (i.e. when requesting an information pack, applying for a product or managing an account online). Unless you give us permission to do so, we will not share your Personally Identifiable Information other than as specified in our Privacy Policy and Uses of Data statement, or as stated in the Terms and Conditions of any products you apply for.
+  * **When you engage with us for a product or service**
+  * When you visit or register details on our websites
+  * When you request a quote, or fill in an application form either online or by post
+  * When you telephone us, you provide us with information, including answers to your security questions and we record your conversations with us
+  * When you send communications to us via post or electronically
+  * When you take part in our competitions, promotions or surveys
+  * When you provide us with your customer feedback and/or join customer forums.
 
-### Non-Personally Identifiable Information
 
-Non-Personally Identifiable Information includes user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of the Sites. Non-Personally Identifiable Information is used to help us understand who uses the Sites and to improve and market the Sites in general.
+  * **When you engage with the OneFamily Foundation**
+  * When you register with the OneFamily Foundation and take part in our OneFamily Foundation events including voting for a community project or charity.
 
-## 2\. Who operates the Sites and where are your servers located?
 
-OneFamily operates the Sites and our servers are located at our offices at 16-17 West Street, Brighton, BN1 2RL with the exception of https://foundation.onefamily.com, which is hosted inside the EU.
 
-FAMILY NEST is a trade mark of Family Assurance Friendly Society Limited, and is not in any way affiliated with, endorsed or sponsored by or in any other way connected with NEST Corporation, which is the official body responsible for the operation of the National Employment Savings Trust (NEST). NEST Corporation’s website can be found at www.nestpensions.org.uk.
+**We collect information from other sources about you**
 
-## 3\. Cookies, Tags and Personal Information
+  * From a broker or intermediary who we work with to provide products, services or quotes to you
+  * Business partners such as financial services institutions and insurers who are a part of providing your products and services or operating our business
+  * Credit reference and fraud prevention agencies to verify your identity and to comply with anti-money laundering legislation
+  * Public records and government and non-government agencies such as the Electoral Register and property registration authorities
+  * Someone authorised on your behalf, such as a Power of Attorney
+  * Medical professionals to confirm certain health information.
 
-### Personal Information
 
-We do not make any attempt to find out the personal identities of people visiting the Sites.
 
-If we do want to collect Personally Identifiable Information through the Sites, we will be upfront about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
+## 4\. How do we use your information?
 
-We have the ability to retain information that you provide on an application form, even if you do not submit your application. In order to help improve our customer experience we may use the details you have left to contact you about your application.
+The purposes and reasons for processing your personal data are detailed below.
 
-### Cookies, Tracking and Tagging
+**It is necessary for the performance of our contract with you**
 
-Cookies are pieces of information that a website transfers to the cookie file on your computer's hard disk. Cookies enable users to navigate around the Sites and (where appropriate) enable us to tailor the content to fit the needs of visitors who have accessed the Sites.
+  * To take steps before entering into the contract
+  * To manage and perform the contract
+  * To deal with any of your transactions
+  * To update your records
+  * To resolve complaints.
 
-Some cookies only stay on your PC for the duration of your visit to the Sites - these are session based cookies and expire when you shut down your browser. Others are known as 'persistent' and remain on your PC for a fixed period of time - minutes, months or indefinitely.
 
-There are different types of cookie which do different things, such as allowing efficient navigation around the Sites, remembering preferences and improving your overall browsing experience. Others can be used to measure the number of site visits and most popular pages users visit. Cookies can also be used to provide you with advertising which is more tailored to your interests - we do not use these types of cookies.
 
-There are four classifications of cookies - strictly necessary, performance, functionality and targeting.
+**It is our legitimate interests to do so**
 
-Although most browsers are initially set to accept cookies, you may reset your browser to notify you when you receive a cookie or to reject cookies generally. Most browsers offer instructions on how to do so in the "Help" section of the toolbar.
+  * To maintain our own records and accounts for business accounting, tax, auditing and risk management purposes
+  * To update your records, trace you if we lose contact, and collect and recover money that is owed to us
+  * To perform and test the performance of our products and services to ensure we have robust systems and controls to manage our business
+  * To carry out searches at credit reference agencies before entering in to a contract with you
+  * To carry out market research, analysis and develop statistics, including through reputable agencies to develop new products and services to meet our customers’ needs and to assess how well we are performing
+  * To use web profile and usage data to personalise your browsing experience to better aid our understanding of customer behavior so we can serve you better, or target our marketing more successfully
+  * To carry out data segmentation and statistical analysis to better aid our understanding of customer behaviour so we can serve you better, or target our marketing more successfully
+  * To conduct marketing activities (unless you have opted out of such marketing)
+  * To record telephone calls for training and monitoring purposes, and your protection
+  * To share your personal information with business partners and service providers when you apply for a product to help manage your products and services
+  * To verify application forms for Foundation awards
+  * To monitor voting for Foundation awards.
 
-More information about cookies can be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Visit allaboutcookies.org") and in the [ICC UK Cookie Guide](http://www.cookielaw.org/media/1096/icc_uk_cookiesguide_revnov.pdf "View the PDF ").
 
-Our web pages may contain electronic images, known as web beacons or spotlight tags. These enable us to count users who have visited certain pages on the Sites. Web beacons and spotlight tags are simple tools used to obtain generic information about the web pages visited. They are not used to obtain information about specific users. We do not disclose any of your Personally Identifiable Information to our advertising partners.
 
-We also use analytical tools to collect standard internet log information and visitor behaviour information in an anonymous form. The information generated by the cookie about your use of the Sites (including your IP address) is transmitted to the analytics provider who uses the information to evaluate visitors’ use of the Sites and to compile statistical reports on website activity.
+** ** **To comply with our legal obligations**
 
-Our analytical tools may track individual logged-in users during their time on the site. The identifier used to track individual sessions is anonymous, non-personally identifiable and cannot be used by any third party to identify or access any personally-identifiable information.
+  * To establish your identity to comply with law and regulation concerning the prevention of money laundering, fraud or terrorist financing
+  * To help you exercise your rights under data protection law
+  * To provide statutory and regulatory information
+  * To prepare returns to regulators and relevant authorities including preparation of income tax, capital gains tax, capital acquisition tax and other revenue returns
+  * To complete financial background checks before you start working for us
+  * For establishment and defence of legal rights.
 
-We will not (and will not allow any third party) to use these statistical analytics tools to track or to collect any Personally Identifiable Information of visitors to the Sites.
 
-To opt out of being tracked by Google Analytics across all websites, visit: <http://tools.google.com/dlpage/gaoptout>.
 
- This site uses [Hotjar web analytics](https://www.hotjar.com/ "Find out more about Hotjar web analytics"). Hotjar may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use Hotjar to collect any personally identifiable information entered on the website. Hotjar does not track your browsing habits across websites which do not use Hotjar services. For more information, see the Hotjar privacy policy at <https://www.hotjar.com/privacy>
+**With your consent or explicit consent:**
 
- We use the information collected by Hotjar to analyse how users interact with our website in order to improve our online service. You can choose to disable Hotjar tracking at <https://www.hotjar.com/opt-out>.
+  * For marketing communications about our products and services. Where you have consented to us providing you with promotional offers and marketing, you are free to withdraw such consent at any time
+  * Before we collect and process Special Categories of Data such as information about a disability, your health, a vulnerability or a change in your personal circumstances. We may obtain sensitive medical information directly from you or your doctor to administer certain products and services. The provision of this information is subject to you giving us your express consent on the Medical Questionnaire.
 
-We will also use cookies to assist us in tailoring how we advertise our services to you when you visit certain third party websites. This is known as 'retargeting', 'remarketing' or 'behavioural advertising'. When you visit certain pages on the Sites, a cookie will be downloaded onto your computer which will enable us to tailor advertisements that would appear on certain third party websites having an agreement with behavioural advertising providers to display such advertisements. If you do not wish to allow us to use cookies in this way, you can visit [www.google.co.uk/privacy/ads](http://www.google.co.uk/policies/technologies/ads/ "Google Privacy Ads opt-out") to opt out.
 
-### Referral Programmes
 
-Through third party referral programme operators and others, we offer referral programmes whereby referral websites can earn advertising revenue through enquiries and sales completed on the Sites. To track the earning of such advertising revenue, and to determine the effectiveness of the referral programmes, the users who request an information pack or apply online are tracked using technologies such as cookies or action tags that do not use Personally Identifiable Information. Our programme operators and the referral websites themselves can only access Non-Personally Identifiable Information such as data relating to the number of impressions served, the number of transactions completed, and their resulting advertising revenue. They cannot access our customers' personal data.
+## 5\. Who might we share your information with?
 
-### Log Files
+OneFamily takes your privacy very seriously and will never disclose your information unless there is a legal basis for doing so. We will not sell, license, trade, or rent your personal information to anyone. Depending on the product or service that you have with us we may disclose your personal information to:
 
-We also collect Non-Personally Identifiable Information through our Internet log files, which record data such as user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of the Sites. This information may be used to analyse trends, to administer the Sites, to monitor the Sites' use, and to gather general demographic information.
+  * Law enforcement agencies, judicial bodies, government entities, tax authorities or regulatory bodies where we are required or requested to do so by law
+  * Auditors and actuaries
+  * Credit reference agencies and fraud prevention agencies
+  * Mortgage funders and lenders
+  * Our professional advisers
+  * Health insurance and funeral plan providers
+  * Business partners (e.g. financial services institutions and insurers)
+  * Your broker or financial adviser
+  * Trustees of pensions schemes and service providers involved in the administration of these schemes
+  * Where we need to do so in order to exercise or protect our legal rights, other users, or our systems and services
+  * Subcontractors to perform functions on our behalf. Examples include companies that: 
+    * Analyse data, providing marketing assistance, providing search results and links (including paid listings and links)
+    * Provide us with systems and services that support the administration of our products and services
+    * Provide banking and payment services to support or enable payment, for example by direct debit or debit/credit card
+    * Companies that help us delete or store data, including for disaster recovery purposes.
 
-### Email a Friend/Email Friends and Family to add to Account
 
-Through our ‘Email a Friend’ or ‘Email Friends and Family to Add to Account’ tools on the Sites, we will automatically send your friend(s)/family a one-time email containing the information you request to be sent. If you elect to use the ‘Email a Friend’ or ‘Email Friends and Family to Add to Account’ tools, we will collect from you Personally Identifiable Information about your friend(s)/family, which you have provided, such as your friend's name and email address. We will not store this information anywhere on our systems, it is collected only to enable us to send the email and is then removed. We recommend, however, that you make sure that your friend or family member wants to receive emails from you regarding materials on the Sites.
 
-### Posting Pictures, Comments or Material to the Sites
+**Credit referencing agencies**
 
-You may post pictures/photographs, comments and other material (Content) to us for publication on the Sites. Please choose this Content carefully.
+The personal information we collect from your or about you may be shared with credit reference agencies who collect and maintain information on consumers’ and businesses’ credit behaviour on behalf of lenders in the UK.  When you apply for a product, where relevant, we will notify you if your information may be sent to a credit reference agency.
 
-In posting Content you should always: 
+**Fraud prevention agencies**
 
-  * Respect the rights and privacy of others
-  * Report anything which may cause offence
-  * Report anything suspicious.
+We use your personal information in accordance with this Privacy Notice for the purposes of preventing fraud, money laundering and to verify your identity.  We provide this information to fraud prevention agencies.
 
+If we, or a fraud prevention agency, determine that you pose a fraud or money laundering risk, we may refuse to provide the services or financing you have requested, or we may stop providing existing services to you.
 
+A record of any fraud or money laundering risk will be retained by the fraud prevention agencies, and may result in others refusing to provide services, financing or employment to you. If you have any questions about this, please contact us.
 
-Any Content posted must not:
+**For other purposes approved by you**
 
-  * Contain your own personal information or that of a child (if applicable)
-  * Include any mention of specific individuals, companies, brands or products for promotion purposes
-  * Contain any third party trademarks or material including, but not limited to, photographs/images without the express written permission of said third party
-  * Contain details of or information about specific individuals without their consent
-  * Contain photographs where permission has not been granted for use in the  
-public domain
-  * Contain offensive, obscene or sexually suggestive material, propaganda, potentially misleading information, or defamatory or disparaging material
-  * Contain any material which is not legal, decent, honest and respectful
-  * Infringe the intellectual property rights of any third party
-  * Endorse any form of hate, hate group or terrorist activity
-  * Discriminate on the basis of gender, race, religion, creed, national origin, disability, age, sexual orientation, or any other basis prohibited by law
-  * Support any particular political party or affiliated group
-  * Directly promote or speak negatively about any particular faith, political action, legislation or party, or promote or encourage the violation of any law
-  * Promote any activities that may appear unsafe or dangerous
-  * Relate to controversial subject matter or any subject that is contrary to the interests of OneFamily.
+  * Family members or other individuals that you have told us may act on your behalf
+  * Where the policy is for a child, we may share information about the child and the policy with the named registered contact or parent/guardian or payer of the policy, in line with the terms and conditions of that product
+  * In response to requests from individuals (or their representatives) seeking to protect their legal rights or the rights of others
+  * In circumstances other than as set out above, you will receive notice when information about you might go to third parties and you will have an opportunity to choose not to share the information.
 
 
 
-In each case, the above will be determined by OneFamily in its absolute discretion.
+** ** **Other reasons for sharing data**
 
-OneFamily reserves the right to correct, to delete and to sanction any Content that it considers to be in breach of these terms.
+** ** We will transfer your personal information to other organisations in certain scenarios such as:
 
-**OneFamily Foundation website**
+  * If we're discussing selling or transferring part or all of a business, your information may be disclosed to prospective purchasers, but only so they can evaluate that business
+  * If we are reorganised or sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
 
-An online profile will be set up for anyone who registers to become a member of the OneFamily Foundation Online Community. This allows members to vote and comment on Community Awards featured on the site. A member’s username and any uploaded profile picture may be viewable by other users of the site alongside any comments made by that member.
 
-## 4\. Are the Sites designed for use by children?
 
-We are committed to protecting the privacy of children. The way the Sites and our Internet Products are laid out ensure they are not directed at individuals under the age of 16. We urge all parents or guardians to participate in their children's exploration of the Internet, and to teach their children about protecting their personal information while online.
+**Transfer of data outside of the EEA**
 
-## 5\. When do you disclose information to third parties?
+We’re based in the UK, but sometimes your personal information may be transferred by us or our data processors to countries outside of the European Economic Area. If this is the case, we will ensure that the information is transferred in accordance with this Privacy Notice and as permitted by the applicable laws on data protection.
 
-Except as set forth in this Privacy Policy or as specifically agreed to by you, we will not disclose any information we gather from you on the Sites.
+**Links to other websites**
 
-### Laws and Legal Rights
+We sometimes provide you with links to other websites, but these websites are not under our control. Therefore, we will not be liable to you for any issues arising in connection with their use of your information, the website content or the services offered to you by these websites. We advise you to consult the privacy notice and terms and conditions on each website to see how each supplier may process your information.
 
-We may disclose your information (including Personally Identifiable Information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a search warrant, a court or regulatory order, or other valid legal process. We may disclose Personally Identifiable Information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms and Conditions or to protect the safety and/or security of our users, the Sites or the general public.
+## 6\. Security of your personal information
 
-### Third Parties Generally
+We take the security of your personal data seriously and the following measures are in place to protect your information including:
 
-We may provide to third parties information about you that does not allow you to be identified or contacted (i.e. Non-Personally Identifiable Information detailed above), including where such information is combined with similar information of other users of the Sites. For example, we might inform third parties regarding the number of unique users who visit the Sites, or the activities that visitors to the Sites engage in while on the Sites. The third parties to which we may provide this information may include potential or actual advertisers (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties.
+  * We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you
 
-### Sale of Business.
 
-We reserve the right to transfer information (including your Personally Identifiable Information) to a third party in the event of a sale, merger or other transfer of all or part of the assets of OneFamily provided that the third party agrees to adhere to the terms of this Privacy Policy.
+  * We maintain a CCTV record inside and outside our head office for the purposes of detecting, preventing or prosecuting crime
 
-## 6\. Is the information collected secure?
 
-We want your information (including Personally Identifiable Information) to remain as secure as possible. We strive to provide secure transmission of your information from your computer to our servers through industry-standard techniques. To help ensure the integrity and privacy of the Personally Identifiable Information you provide to us via the Internet at the time you elect to request an information pack or apply online, the OneFamily Site uses Secured Socket Layer (SSL) encryption technology in transmitting such Personally Identifiable Information over the Internet to our servers. We secure the Personally Identifiable Information you provide on servers located in controlled, secure environments, protected from unauthorised access, use, or alteration.
+  * We implement access controls to our information technology, such as firewalls, ID verification and logical segmentation and/ or physical separation of our systems and information.
 
-The OneFamily Site also incorporates 128-bit encryption technology so the information being passed between you and us cannot be read or understood by unauthorised persons. We transmit data with your permission to authorised 3rd parties using 192-bit AES encryption. 
 
-Only employees who need access to your information to perform a specific task or function are granted access to such information. In addition, all employees of OneFamily must abide by this Privacy Policy and are kept up-to-date on security practices.
 
-Notwithstanding the above commitments to protect your information (including Personally Identifiable Information) from loss, misuse or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet. There is also some risk that others could find a way to thwart our security systems. As a result, while we strive to protect your information, we cannot ensure or warrant the security and privacy of any information you transmit to us, and you do so at your own risk.
+## 7\. How long do we keep your personal information for?
 
-## 7\. What choices do I have regarding the collection, disclosure and distribution of Personally Identifiable Information?
+We keep your personal information only for as long as necessary. The criteria we use to determine data retention periods include:
 
-Except as otherwise described in this Privacy Policy, we will only use Personally Identifiable Information for the purposes described above or as otherwise disclosed at the time we request such information from you. You can "opt-out" from giving us permission to use your Personally Identifiable Information for any other purpose.
+  * regulatory and legal requirements
+  * good business practice
+  * time periods applicable to assessing and defending claims and/or investigations
+  * dealing with any queries you may have.
 
-You can always contact us in order to:
 
-  1. update or correct your Personally Identifiable Information, 
-  2. verify what Personally Identifiable Information we maintain about you, 
-  3. change your preferences with respect to communications and other information you receive from us.
 
+## 8\. Your rights
 
+**Your Rights** | **More information**  
+---|---  
+Right to access | You can request a copy of the personal information that we hold about you. This is generally known as a ‘Data Subject Access Request’ and we normally have 1 month to respond. 
 
-Anyone contacting us for details of the information we hold on them will have to verify their identity (or we will take reasonable steps to verify their identity). We reserve the right to make a small charge as prescribed by current legislation for such a request.
+To request this information, you will need to [contact us.](https://web.archive.org/web/20190125184020id_/https://www.onefamily.com/connect-with-us/contact-us/)  
+  
+Right to rectification | We take reasonable steps to keep your information accurate and current. However, please remember that it is your responsibility to tell us about any updates to this information.  
+Right to erasure or to be forgotten | In certain circumstances, you have the right to ask us to erase your personal information. However, this right will need to be balanced against other factors, for example the type of personal information we hold about you and why we have collected it. There may be some legal and regulatory obligations which mean we cannot comply with your request.  
+Right to restriction of processing | In certain circumstances, you are entitled to ask us to stop using your personal information, for example where you think that the personal information we hold about you may be inaccurate or where you think that we no longer need to process your personal information. 
 
-We will comply with the Data Protection Act 1998 and any other applicable legislation in relation to the disclosure of any information.
+Where a restriction is in place we can continue to store your information but only otherwise process it with your consent or for the establishment, exercise or defence of legal claims, for the protection of another individual’s rights or for important public interest reasons.
 
-To improve the efficiency of our operations, for limited purposes and subject to proper protections, personal data may be transferred and/or processed outside of the European Economic Area (EEA).
+We will inform you before any restriction.  
+  
+Right to be informed | You have the right to be informed.  We must provide you with fair processing information.  This information is contained in this Privacy Notice.  
+Right to data portability | In certain circumstances, you have the right to ask that we transfer any personal information you have provided to us to another third party of your choice. Once transferred, the other party will be responsible for looking after your personal information.  
+Right to object to processing | Where our processing of your information is performed on the basis of ‘Legitimate Interest’ or ‘public interest’, you can request we stop the processing. We can continue to process your information for the establishment, exercise or defence of legal claims and if we demonstrate compelling legitimate grounds which over-ride your interests, rights or freedoms. 
 
-## 8\. What if I want to unsubscribe from marketing communications?
+You can object to our processing of your information for direct marketing purposes and we will cease any processing related to direct marketing.  
+  
+Right not to be subject to a decision based solely on automated processing | You have the right to object to us making automated decisions about you, including profiling that would have a legal or significant effect on you. 
 
-Occasionally we may want to contact you via telephone, post or email. Customers can opt in or out of marketing communications when applying for an investment, policy or account, or when signing up for various services.  If when applying or submitting a request you do not indicate that you wish to opt out of these communications, you will be indicating your consent to receive such marketing communications from ourselves and any other companies as indicated in the application/request process.
+We will inform you when we will make this type of decision.  
+  
+If you would like to exercise any of these rights, please [contact us](https://web.archive.org/web/20190125184020id_/https://www.onefamily.com/connect-with-us/contact-us/).
 
-If at any time you wish to unsubscribe from our email communications you can by clicking on the unsubscribe link at the bottom of all our email communications.
+## 9\. Changes to this Privacy Notice
 
-If you would like to opt out of receiving marketing communications via other contact methods, or you wish to contact us for any other reason please [contact us here](https://www.onefamily.com/connect-with-us/contact-us/ "Contact Us").
+We may change this Privacy Notice from time to time.  Any changes to this Privacy Notice will be posted on our websites, and/or where we think it is appropriate, via email so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone.
 
-## Uses of Data
+Please check our website regularly to see recent changes.
 
-This section provides details on how we obtain and use your information, the security of your data and how we disclose it.
+This Privacy Notice was last updated in May 2018.
 
-## 1\. How do we obtain information about you?
+## 10\. How to contact us about the privacy of your information
 
-OneFamily receives information about you from a number of sources. The main sources are directly from you (or your parent/guardian or registered contact), via an application or correspondence, or from third parties.
+All comments, complaints and requests relating to our use of your personal information are welcomed and should be addressed to:
 
-## 2\. How do we use your information?
+**Contact:**   The OneFamily Data Protection Officer
 
-To provide you with a high quality service we will use your information to:
+**Address:** OneFamily, 16-17 West Street, Brighton BN1 2RL
 
-  * identify and maintain records of your investment and membership,
-  * respond to any query that you may raise with us,
-  * update our systems to enhance the service we provide to you.
+**Email:** [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4906272c0f28242025300d19060926272c2f2824202530672a2624).  Please don’t send confidential personal information by email as it’s not secure and there’s always the risk it could be intercepted.
 
-
-
-## 3\. We may also use your data to:
-
-  * inform you about carefully selected services offered by OneFamily or any of the selected partners with which we work,
-  * record or monitor telephone conversations between us for your or our protection or for our internal training purposes,
-  * monitor our customer service and provide training (we may also disclose information to third party agencies who may carry out such monitoring and training).
-
-
-
-## 4\. Security of your data
-
-  * We will not seek to obtain or hold information about you which is excessive for our purposes,
-  * We will endeavour to keep any information about you secure, up-to-date and accurate (to achieve this, please inform us if your details change),
-  * After we have finished providing services to you we will keep records of your account for a limited time to enable us to respond to any subsequent queries that you or any third party may raise with us.
-
-
-
-## 5\. To whom do we disclose your data?
-
-  * We may disclose information concerning you or your investments, policies and/or accounts to third parties to whom you reasonably request that we pass such information or to whom you authorise us to pass information,
-  * We may also pass information concerning you or your investments/policies/accounts to a third party whom we reasonably believe to be acting with your consent. If you have specific concerns about such disclosure, you should let us know,
-  * We may disclose information about you to third party agencies for credit checking purposes,
-  * We may disclose information about you to reputable third party organisations who will process your data on our behalf,
-  * We may disclose information about you to judicial, fiscal or regulatory authorities who request that we provide such information,
-  * We may disclose information about you to our subsidiaries or partners for marketing purposes.
-
-
-
-## Your rights
-
-You have certain rights in relation to the information that we hold about you. The most important of these rights are set out as follows:
-
-  * You may request (in writing) details of the personal information that we hold on you and the purposes for which it is held. Your request will be met within 40 days and we will usually provide such details to you by way of a photocopy or computer printout. Provision of such information may be subject to an administration charge (as permitted by the relevant legislation). Please put “Subject Access Request” in the subject to help us get your request to the right person.
-  * You may request at any time in writing that we stop using information about you for the purpose of informing you about our services; if you believe that our use or our potential use of information that we hold about you may cause you (or any other person) substantial damage or distress, you may contact us in writing and request that we cease using the information for a particular purpose.
-  * We may use automated software to process information about you and (where applicable) make decisions affecting our relationship with you. You have the right to ask us in writing to ensure that any decision which significantly affects you is not based solely on automated means (i.e. that such a decision involves an element of human intervention). You also have the right to be informed when such automated decisions take place.
-
-
-
-If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact our Privacy Coordinator in any of the following ways:
-
-By email: [sitequeries@onefamily.com](mailto:sitequeries@onefamily.com)
-
-By post:  
-Attn: Privacy Coordinator/Data Protection Officer   
-OneFamily  
-16-17 West Street   
-Brighton   
-BN1 2RL  
-United Kingdom
+You also have the right to complain to the Information Commissioner’s Office, which is the body created to uphold information rights. Go to ico.org.uk/concerns to find out more.
