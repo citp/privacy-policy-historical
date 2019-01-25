@@ -1,25 +1,51 @@
-> *The following text is extracted and transformed from the seic.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223091112id_/http%3A//www.seic.com/enUS/93.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seic.com privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125110652id_/https%3A//seic.com/privacy-policy) for the most accurate reproduction.*
 
-# SEI - Privacy Policy - US
+# Privacy Policy | SEI
 
-## Last modified: March 2011
+_Effective as of December, 2017_
 
-_Note: The following privacy policy applies to data collected on SEI Web Properties that do not require account authentication or the submittal of/access to confidential account information. It does not apply to SEI client sites or services that do not link to this statement or that have their own privacy statements._
+SEI (“us”, “our” or “we”) appreciates that you have provided us with your personal information and protecting that information is an important part of how we conduct our business. We believe it is important for you to know how we treat information about you that we may receive from this site (“Site” or “online services”). Our online services are not directed to or intended for individuals under 18 years of age. By visiting this Website, you are accepting the practices described in this Privacy Policy.
 
-We recognize the importance of respecting your information and maintaining confidentiality.  SEI Web Properties collects and uses your personal information to deliver the services you have requested. Uses may include making the sites easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our services; and displaying content customized to your interests and preferences. We know you may be concerned about what we do with the information you provide us. You have our assurance that we are committed to safeguarding your data and maintaining your privacy online and we do not sell your information to third parties, unless we have your prior written consent or are required by law to provide such information. 
+## Information collected
 
-We may collect information during your visit, including the pages you view, the links you click and other actions taken in connection with SEI Web Properties. We also collect certain standard information that your Web browser sends to every Web site you visit, such as your IP address, browser type, access times and referring Web site addresses. In addition, if you wish to receive information from SEI, you will be asked to provide personal information, such as your email address, name, address and telephone number.  We may also collect demographic information, such as your zip code, preferences and interests.  If applicable, we have ensured that third parties with whom we contract to assist us in providing services have agreed to maintain the confidentiality of your data. Such service providers will only have access to your data as is necessary and are prohibited from any unlawful use of your data.
+The types of personal information that may be collected at our Site include: name, address, e-mail address and telephone number. We will not sell, share or rent your personally identifiable information to others in contravention of this Privacy Policy. Please contact us to update your account information whenever such information ceases to be complete or accurate.
 
-We periodically also forward to your attention educational information, as well as material pertaining to our products and services that might be of interest to you. When you receive newsletters or promotional e-mail from SEI Web Properties, we may use Web beacons, customized links, or similar technologies to determine whether the e-mail has been opened and on which links you click, in order to provide you more focused e-mail communications or other information in the future. You can stop the delivery of future promotional e-mail from SEI by following the specific instructions set forth in any promotional e-mail you receive from SEI. You may also have the option of proactively making choices about the communications you receive from particular SEI Web Properties or services. 
+We collect information about how you use our website. This information includes collecting your IP address and any other information sent by your browser. This site uses cookies (files sent by us to your computer) and may store information about you, which we can access when you visit our site. We do this in order to assist in pre-filling forms (so you don’t have to enter the same information twice), as well as direct to you to the last SEI regional site you visited. You can accept or decline cookies by modifying your browser settings. To do so, refer to the instructions for your file management software. Our cookies will include the file name “@www.seic.com”. By deleting or declining cookies, you may not be able to use some interactive features or access certain areas of the site that depend on cookies.
 
-SEI welcomes online feedback and provides various services whereby such information can be made available to users of SEI Web Property services, such as but not limited to article ratings and comments. Any communication transmitted to SEI Web Properties or services, or otherwise provided to SEI ("Submission") is understood by both parties to be non-confidential and non-proprietary. SEI has no obligation with respect to any Submission and may freely copy, reproduce, incorporate, distribute, or use such Submission as it wishes. Submissions that are violent, obscene, threatening, defamatory, libelous, or violate the law in any way, are prohibited. 
+## Do not track policy
 
-This site uses cookies (files sent by us to your computer) and may store information about you, which we can access when you visit our site. We do this in order to assist in pre-filling forms (so you don’t have to enter the same information twice), as well as direct to you to the last SEI regional site you visited, among other things. 
+We do not engage in the collection of personal information about your online activities over time and across third-party Web sites or online services and do not allow third parties to collect personal information about your online activities over time and across third-party Web sites when you use our online services. We do not respond to Web browser “do not track signals”.
 
-You can accept or decline cookies by modifying your browser settings. To do so, refer to the instructions for your file management software. Our cookies will include the file name “@www.seic.com”. By deleting or declining cookies, you may not be able to use some interactive features or access certain areas of the site that depend on cookies. 
+## Use of collected information
 
-SEI is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities. 
+We may use information you provide us through our online services to:
 
-Personal information collected on SEI Web Properties and services may be stored and processed in the United States or any other country in which SEI or its affiliates, subsidiaries, or agents maintain facilities, and by using a SEI Web Property or service, you consent to any such transfer of information outside of your country. 
+  * Respond to your questions and requests
+  * Provide specified services to you
+  * Send you marketing or educational communications that we believe may be of interest to you
+  * Comply with laws, regulations, legal processes and law enforcement requirements
+  * For any other purpose outlined in this Privacy Policy and/or the Terms of Use, and as permitted by law
 
-**See also:**[ **Terms of Use**](https://web.archive.org/enUS/1318.htm)
+
+
+You can stop the delivery of future promotional e-mail from SEI by following the specific instructions set forth in any promotional e-mail you receive from us. You may also have the option of proactively making choices about the communications you receive from particular SEI Web Properties or services.
+
+We welcome online feedback and provide forums for feedback, such as but not limited to article ratings and comments. Any communication transmitted to SEI or otherwise provided to us via the Site ("Submission") is understood by both parties to be non-confidential and non-proprietary. We have no obligation with respect to any Submission and may freely copy, reproduce, incorporate, distribute, or use such Submission as it wishes. Submissions that are violent, obscene, threatening, defamatory, libelous, or violate the law in any way, are prohibited.
+
+## Our security procedures
+
+Our goal is to protect your personal information submitted to us through our online services. We maintain reasonable physical, electronic, and procedural safeguards that comply with applicable law to guard nonpublic personal information you have provided to us through our online services. We have internal policies governing the proper handling of consumer information by personnel and requiring third parties that provide support services on our behalf to adhere to appropriate security standards with respect to such information.
+
+## Links to other sites
+
+We may establish links between this Site and websites operated by third parties. Your access to and use of such linked websites is governed by the terms of use and privacy policies of those sites. SEI disclaims responsibility for the privacy policies and customer information practices of third-party internet websites hyperlinked from our Website.
+
+## International users
+
+This Privacy Policy is provided in accordance with and subject to applicable U.S. law. If you decide to continue to access our online services from your location outside the United States, you hereby agree that your use of those services is subject to this Online Privacy Policy and your personal information may be transferred or processed in the United States.
+
+## Changes to this privacy policy
+
+We reserve the right to modify or supplement this Online Privacy Policy at any time. Therefore, we recommend that you review this Online Privacy Policy, updated and posted on this Site, regularly for changes. The Effective Date of this Online Privacy Policy, as stated above, indicates the last time this Online Privacy Policy was revised or materially changed.
+
+**See also:  **[ **Terms of Use**](https://web.archive.org/terms-use "Terms of Use")
