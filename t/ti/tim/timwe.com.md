@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timwe.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126044436id_/http%3A//www.timwe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timwe.com privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125143544id_/http%3A//www.timwe.com/privacy-policy) for the most accurate reproduction.*
 
 # TIMWE
 
