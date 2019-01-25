@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websquash.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126083612id_/http%3A//www.websquash.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websquash.com privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125132940id_/https%3A//www.websquash.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Websquash.com
 
@@ -154,10 +154,13 @@ We will notify the users via in-site notification
 
 We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
- **CAN SPAM Act**
+**GDPR FAQ**  
+What personal data does Websquash collect and store, and for what purposes?  
+Websquash collects the following data:  
+**Subscribers data** \- Websquash collects your First Name, Email address, IP Address. This data is used in communications, user tracking, advertising, marketing and to derive product insights.  
+**Optional data** \- Websquash also allows you to enter your gender, a username, avatar photo, and links to your github, facebook, twitter, and personal websites. This data is optional and not used in any automated processing or profiling. 
 
-  
-
+**CAN SPAM Act**
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
