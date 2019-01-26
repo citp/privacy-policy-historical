@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prikid.eu privacy policy that was archived on 2018-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181229065233id_/https%3A//prikid.eu/privacy-and-refund-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prikid.eu privacy policy that was archived on 2019-01-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190126054322id_/https%3A//prikid.eu/privacy-and-refund-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js" lang="en"><head>
     <title>Privacy and Refund Policy</title>
@@ -11,20 +11,13 @@
     <link href="https://cdn11.bigcommerce.com/s-zccddh/product_images/favicon.ico" rel="shortcut icon">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3">
 
-        <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5BTL96J"></script><script>
+        <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5BTL96J"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
             // Change document class from no-js to js so we can detect this in css
             document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
         </script>
-    <link href="//fonts.googleapis.com/css?family=Oswald:300|Karla:400|Montserrat:400" rel="stylesheet">
-	<link data-stencil-stylesheet="" href="https://cdn11.bigcommerce.com/s-zccddh/stencil/e66808c0-ec2c-0136-5f6b-01140a946717/e/2e9e6450-d9cc-0136-057b-069485f35a13/css/theme-e6a24140-ec2c-0136-5f6b-01140a946717.css" rel="stylesheet">
-    <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5BTL96J');</script>
-<!-- End Google Tag Manager -->
-
+    <link href="//fonts.googleapis.com/css?family=Karla:400|Montserrat:400" rel="stylesheet">
+	<link data-stencil-stylesheet="" href="https://cdn11.bigcommerce.com/s-zccddh/stencil/0d754cf0-fa2a-0136-b8b6-77511a8aa2a1/e/bdd8baa0-fbca-0136-1e16-5dc46172b53c/css/theme-0daf17a0-fa2a-0136-b8b6-77511a8aa2a1.css" rel="stylesheet">
+    
 
 
 
@@ -103,18 +96,166 @@ window.onload=function() {
 
 <!-- Start Tracking Code for analytics_googleanalytics -->
 
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5BTL96J');</script>
+<!-- End Google Tag Manager -->
+
 <script>
 //Do not delete Google Analytics tab, because conversion tracking wiil not work
 </script>
-<script src="https://conduit.mailchimpapp.com/js/stores/store_etoozst2iefjzj2rd7mv/conduit.js"></script>
+
+<script>
+    var pageTracker = {
+        orderData: {products: []},
+
+        _addItem: function (orderID,sku,product,variation,price,qty) {
+            if (variation === '') {
+                var params = sku.split('-',2);
+                if (typeof params[1] !== 'undefined')
+                    variation = params[1];
+            }
+
+            this.orderData.products.push({
+                id: sku,
+                name: product,
+                price: price,
+                qty: qty,
+                variation: variation,
+            });
+        },
+
+        _addTrans: function (orderID,store,total,tax,shipping,city,state,country) {
+            this.orderData.orderID=orderID;
+            this.orderData.total=total;
+            this.orderData.tax=tax;
+            this.orderData.shipping=shipping;
+            this.orderData.affiliation=store;
+        },
+
+        _trackTrans: function () {
+
+           //console.log('track_trans');
+            //The shield from double calling
+            if( typeof this.already_called === 'undefined' ) {
+                this.already_called = true;
+            }
+            else return;
+
+            var gtp = {
+                ecomm_pagetype: 'purchase',
+                ecomm_totalvalue: this.orderData.total,
+                ecomm_prodid: [],
+                ecomm_pname: [],
+                //ecomm_pcat: [],
+                ecomm_pvalue: [],
+                ecomm_pqty: [],
+                ecomm_pvariant: [],
+
+                dynx_pagetype: 'conversion',
+                dynx_totalvalue: this.orderData.total,
+                dynx_itemid: [],
+//                dynx_itemid2: []
+            };
+
+            //For Google Analytics Dynamic Remarketing
+            var ga_ec={
+                currencyCode: 'USD',
+                purchase: {
+                    'actionField': {
+                        'id': this.orderData.orderID,
+                        'affiliation': this.orderData.affiliation,
+                        'revenue': this.orderData.total,
+                        'tax': this.orderData.tax,
+                        'shipping': this.orderData.shipping,
+                        //'coupon': 'SUMMER_SALE'
+                    },
+                    products: []
+                }
+            };
+
+//            var product_ids = getProductIDsFromFBScript(); //Милиця для отримання id товарів (із скрипта FB pixel)
+
+            //Якщо не вдалося отримати id товарів з FB скріпта - вставляємо те що є, тобто sku товара
+            if (typeof product_ids==='undefined') {
+                product_ids=[];
+                for (var i = 0; i < this.orderData.products.length; i++) {
+                    product_ids[i] = 'EU_' + this.orderData.products[i].id + '_IE';  //EU_101001-Adult2XL_IE, EU_999999-AdultL_IE
+                }
+            }
+
+//            console.log(product_ids);
+
+            for (var i = 0, len = this.orderData.products.length; i < len; i++) {
+                gtp.ecomm_prodid.push(product_ids[i]);
+                gtp.ecomm_pname.push(this.orderData.products[i].name);
+                //ecomm_pcat: ['electronics', 'books']; // category
+                gtp.ecomm_pvalue.push(this.orderData.products[i].price);
+                gtp.ecomm_pqty.push(this.orderData.products[i].qty);
+                gtp.ecomm_pvariant.push(this.orderData.products[i].variation);
+                gtp.dynx_itemid.push(product_ids[i]);
+                //gtp.dynx_itemid2.push(product_ids[i]);
+
+                ga_ec.purchase.products.push({
+                    id: product_ids[i],
+                    name: this.orderData.products[i].name,
+                    price: this.orderData.products[i].price,
+                    //brand: prod_brands[i],
+                    //category: 'cart',
+                    variant: this.orderData.products[i].variation,
+                    quantity: this.orderData.products[i].qty,
+                    //'coupon': ''
+                });
+            }
+
+            window.dataLayer = window.dataLayer || [];
+
+            //Adwords
+            dataLayer.push({
+                'google_tag_params': gtp,
+                'google_conversion_order_id': this.orderData.orderID,
+                'google_conversion_value': this.orderData.total,
+                'google_conversion_currency':  'USD',
+                'event': 'google_tag_params_changed'
+            });
+
+             var custom_dimensions = {
+                'product_ids': gtp.ecomm_prodid,
+                'page_type': gtp.ecomm_pagetype,
+                'total_value': gtp.ecomm_totalvalue
+            };
+
+            //Analytics
+            dataLayer.push({
+                'ecommerce': ga_ec,
+                'product_ids': gtp.ecomm_prodid,
+                'page_type': gtp.ecomm_pagetype,
+                'total_value': gtp.ecomm_totalvalue,
+                'custom_dimensions': custom_dimensions,
+                'event': 'gtm-ee-event',
+                'gtm-ee-event-category': 'Enhanced Ecommerce',
+                'gtm-ee-event-action': 'Product Purchase',
+                'gtm-ee-event-non-interaction': 'True'
+            });
+        }
+    };
+</script>
+
 
 
 <!-- End Tracking Code for analytics_googleanalytics -->
 
+<!-- Start Tracking Code for analytics_siteverification -->
 
-	<!-- Start of prikid Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=e33c508b-48dd-4ee3-862e-faf72a80926c"> </script>
-<!-- End of prikid Zendesk Widget script -->
+<meta name="p:domain_verify" content="1ac8c5408a93f3f2ec03d10c5358ee7d">
+
+
+<!-- End Tracking Code for analytics_siteverification -->
+
+
 <script type="text/javascript">
 var BCData = {};
 </script>
@@ -125,7 +266,7 @@ var BCData = {};
     
     
     
-
+	
 	
 	
     
@@ -141,18 +282,48 @@ var BCData = {};
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5BTL96J" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <!-- snippet location header -->
-        <svg data-src="https://cdn11.bigcommerce.com/s-zccddh/stencil/e66808c0-ec2c-0136-5f6b-01140a946717/e/2e9e6450-d9cc-0136-057b-069485f35a13//img/icon-sprite.svg" class="icons-svg-sprite"></svg>
+        <svg data-src="https://cdn11.bigcommerce.com/s-zccddh/stencil/0d754cf0-fa2a-0136-b8b6-77511a8aa2a1/e/bdd8baa0-fbca-0136-1e16-5dc46172b53c//img/icon-sprite.svg" class="icons-svg-sprite"></svg>
 
 
 <header class="header" role="banner">
+
     <a href="#" class="mobileMenu-toggle" data-mobile-menu-toggle="menu">
         <span class="mobileMenu-toggleIcon">Toggle menu</span>
     </a>
 
     <nav class="navUser">
-        <ul class="navUser-section">
+        <div class="header-logo header-logo--left">
+            
+<div class="header-logo-container"> 
+    <a href="https://prikid.eu/">
+            <div class="header-logo-image-container">
+                <img class="header-logo-image" src="https://cdn11.bigcommerce.com/s-zccddh/images/stencil/250x100/logo_prikid_eu_250x100_1505836458__34848.original.png" alt="PRIKID.EU" title="Privacy and Refund Policy">
+            </div>
+    </a>
+</div> 
+
+        </div>
+
+    <ul class="navUser-section navUser-section--alt">
+
+        <li id="google_translate_element" class="navUser-item"></li> 
+
         <li class="navUser-item">
-        <a class="navUser-action navUser-action--currencySelector has-dropdown" href="#" data-dropdown="currencySelection" aria-controls="currencySelection" aria-expanded="false">Currency: USD <i class="icon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down"></use></svg></i></a>
+            <a class="navUser-action navUser-item--compare" href="/compare" data-compare-nav="">Compare <span class="countPill countPill--positive countPill--alt"></span></a>
+        </li>
+        <li class="navUser-item">
+            <a class="navUser-action navUser-action--quickSearch" href="#" data-search="quickSearch" aria-controls="quickSearch" aria-expanded="false">Search</a>
+        </li>
+        <li class="navUser-item navUser-item--account">
+                <a class="navUser-action" href="/login.php">Sign in</a>
+        </li>
+            <ul class="navUser-section">
+        <li class="navUser-item">
+
+            <a class="navUser-action navUser-action--currencySelector has-dropdown" href="#" data-dropdown="currencySelection" aria-controls="currencySelection" aria-expanded="false">USD
+                <i class="icon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down"></use></svg></i>
+            </a> 
+
             <ul class="dropdown-menu" id="currencySelection" data-dropdown-content="" aria-hidden="true" tabindex="-1">
                     <li class="dropdown-menu-item">
                         <a href="https://prikid.eu/privacy-and-refund-policy/?setCurrencyId=2">
@@ -282,48 +453,9 @@ var BCData = {};
             </ul>
         </li>
     </ul>
-
-    <div id="google_translate_element"></div> 
-
-    <ul class="navUser-section navUser-section--alt">
-        <li class="navUser-item">
-            <a class="navUser-action navUser-item--compare" href="/compare" data-compare-nav="">Compare <span class="countPill countPill--positive countPill--alt"></span></a>
-        </li>
-            <li class="navUser-item navUser-item--social">
-                    <ul class="socialLinks socialLinks--alt">
-            <li class="socialLinks-item">
-                    <a class="icon icon--facebook" href="http://www.facebook.com/prikid.eu" target="_blank">
-                        <svg><use xlink:href="#icon-facebook"></use></svg>
-                    </a>
-            </li>
-            <li class="socialLinks-item">
-                    <a class="icon icon--twitter" href="http://twitter.com/prikideu" target="_blank">
-                        <svg><use xlink:href="#icon-twitter"></use></svg>
-                    </a>
-            </li>
-            <li class="socialLinks-item">
-                    <a class="icon icon--instagram" href="https://instagram.com/prikid.eu" target="_blank">
-                        <svg><use xlink:href="#icon-instagram"></use></svg>
-                    </a>
-            </li>
-            <li class="socialLinks-item">
-                    <a class="icon icon--pinterest" href="http://www.pinterest.com/prikideu" target="_blank">
-                        <svg><use xlink:href="#icon-pinterest"></use></svg>
-                    </a>
-            </li>
-    </ul>
-            </li>
-            <li class="navUser-item navUser-item--divider">|</li>
-        <li class="navUser-item">
-            <a class="navUser-action navUser-action--quickSearch" href="#" data-search="quickSearch" aria-controls="quickSearch" aria-expanded="false">Search</a>
-        </li>
-        <li class="navUser-item navUser-item--account">
-                <a class="navUser-action" href="/login.php">Sign in</a>
-                    <span class="navUser-or">or</span> <a class="navUser-action" href="/login.php?action=create_account">Register</a>
-        </li>
         <li class="navUser-item navUser-item--cart">
             <a class="navUser-action" data-cart-preview="" data-dropdown="cart-preview-dropdown" data-options="align:right" href="/cart.php">
-                <span class="navUser-item-cartLabel">Cart</span> <span class="countPill cart-quantity">0</span>
+                <span class="navUser-item-cartLabel">Cart</span> <span class="countPill cart-quantity"></span>
             </a>
 
             <div class="dropdown-menu" id="cart-preview-dropdown" data-dropdown-content="" aria-hidden="true"></div>
@@ -345,29 +477,7 @@ var BCData = {};
     </div>
 </nav>
 
-        <div class="header-logo header-logo--left">
-            
-<div class="header-logo-container"> 
-    <a href="https://prikid.eu/">
-            <div class="header-logo-image-container">
-                <img class="header-logo-image" src="https://cdn11.bigcommerce.com/s-zccddh/images/stencil/250x100/logo_prikid_eu_250x100_1505836458__34848.original.png" alt="PRIKID.EU" title="PRIKID.EU">
-            </div>
-    </a>
-</div> 
 
-<div class="header-promo-text">   
-
-   <a href="/shipping-returns/">
-       Shipping worldwide FREE for orders over 77€.
-   </a>
-   <br>
-   <a href="/discount-program/">
-      Buy more - pay less! Discount program.
-   </a>
-
-
-</div>
-        </div>
     
     <div class="navPages-container" id="menu" data-menu="">
         <nav class="navPages">
@@ -396,52 +506,13 @@ var BCData = {};
         </li>
 
             <li class="navPages-item">
-                <a class="navPages-action" href="https://prikid.eu/bestselling/">BESTSELLING</a>
+                <a class="navPages-action" href="https://prikid.eu/kids-3/">KIDS</a>
             </li>
             <li class="navPages-item">
                 <a class="navPages-action" href="https://prikid.eu/new/">NEW</a>
             </li>
             <li class="navPages-item">
-                <a class="navPages-action" href="https://prikid.eu/kids/">KIDS</a>
-            </li>
-            <li class="navPages-item">
-                <a class="navPages-action has-subMenu" href="https://prikid.eu/women/" data-collapsible="navPages-297">
-    Women <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down"></use></svg></i>
-</a>
-<div class="navPage-subMenu" id="navPages-297" aria-hidden="true" tabindex="-1">
-    <ul class="navPage-subMenu-list">
-        <li class="navPage-subMenu-item">
-            <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/women/">All Women</a>
-        </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/womens-t-shirts/">Women's T-Shirts</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/womens-tri-blend-v-neck-t-shirts/">Women's Tri-Blend V-Neck T-Shirts</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/womens-tri-blend-t-shirts-1/">Women's Tri-Blend T-Shirts</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/womens-pullover-slouchy-crew/">Women's Pullover Slouchy Crew</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/womens-sweatshirts/">Women's Sweatshirts</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/t-shirt-mini-dresses/">T-Shirt Mini Dresses</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/embroidered-shirts/">Embroidered Shirts </a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/embroidered-dresses-1/"> Embroidered Dresses</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/womens-swimsuits/">Women's Swimsuits</a>
-            </li>
-    </ul>
-</div>
+                <a class="navPages-action" href="https://prikid.eu/bestselling/">BESTSELLING</a>
             </li>
             <li class="navPages-item">
                 <a class="navPages-action has-subMenu" href="https://prikid.eu/big-face-animals-3d-t-shirts/" data-collapsible="navPages-71">
@@ -731,16 +802,52 @@ var BCData = {};
 </div>
             </li>
             <li class="navPages-item">
-                <a class="navPages-action" href="https://prikid.eu/music-t-shirts/">Music</a>
+                <a class="navPages-action has-subMenu" href="https://prikid.eu/native-american-t-shirts/" data-collapsible="navPages-47">
+    AMERICA <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down"></use></svg></i>
+</a>
+<div class="navPage-subMenu" id="navPages-47" aria-hidden="true" tabindex="-1">
+    <ul class="navPage-subMenu-list">
+        <li class="navPage-subMenu-item">
+            <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/native-american-t-shirts/">All AMERICA</a>
+        </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/american-patriotic-t-shirts/">American Patriotic</a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/chiefs-warriors/">Chiefs + Warriors</a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/dreamcatchers-shields/">Dreamcatchers + Shields</a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/maidens/">Maidens</a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/other-1/">Other</a>
+            </li>
+    </ul>
+</div>
             </li>
             <li class="navPages-item">
-                <a class="navPages-action" href="https://prikid.eu/military-t-shirts/">MILITARY</a>
+                <a class="navPages-action has-subMenu" href="https://prikid.eu/sweatshirts/" data-collapsible="navPages-349">
+    Sweatshirts <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down"></use></svg></i>
+</a>
+<div class="navPage-subMenu" id="navPages-349" aria-hidden="true" tabindex="-1">
+    <ul class="navPage-subMenu-list">
+        <li class="navPage-subMenu-item">
+            <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/sweatshirts/">All Sweatshirts</a>
+        </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/hoodies/">HOODIES</a>
             </li>
-            <li class="navPages-item">
-                <a class="navPages-action" href="https://prikid.eu/life/">Life</a>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/women-sweatshirts/">Women Sweatshirts</a>
             </li>
-            <li class="navPages-item">
-                <a class="navPages-action" href="https://prikid.eu/hidden-images-t-shirts/">HIDDEN IMAGES</a>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/kids-hoodies/">Kids Hoodies</a>
+            </li>
+    </ul>
+</div>
             </li>
             <li class="navPages-item">
                 <a class="navPages-action has-subMenu" href="https://prikid.eu/headwear/" data-collapsible="navPages-283">
@@ -785,31 +892,43 @@ var BCData = {};
 </div>
             </li>
             <li class="navPages-item">
-                <a class="navPages-action has-subMenu" href="https://prikid.eu/sweatshirts/" data-collapsible="navPages-349">
-    Sweatshirts <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down"></use></svg></i>
-</a>
-<div class="navPage-subMenu" id="navPages-349" aria-hidden="true" tabindex="-1">
-    <ul class="navPage-subMenu-list">
-        <li class="navPage-subMenu-item">
-            <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/sweatshirts/">All Sweatshirts</a>
-        </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/hoodies/">HOODIES</a>
+                <a class="navPages-action" href="https://prikid.eu/hidden-images-t-shirts/">HIDDEN</a>
             </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/women-sweatshirts/">Women Sweatshirts</a>
+            <li class="navPages-item">
+                <a class="navPages-action" href="https://prikid.eu/dean-russo-tshirts/">Dean Russo</a>
             </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/kids-hoodies/">Kids Hoodies</a>
+            <li class="navPages-item">
+                <a class="navPages-action" href="https://prikid.eu/cultural-spiritual-t-shirts/">CULTURAL</a>
             </li>
-    </ul>
-</div>
+            <li class="navPages-item">
+                <a class="navPages-action" href="https://prikid.eu/music-t-shirts/">Music</a>
+            </li>
+            <li class="navPages-item">
+                <a class="navPages-action" href="https://prikid.eu/life/">Life</a>
+            </li>
+            <li class="navPages-item">
+                <a class="navPages-action" href="https://prikid.eu/military-t-shirts/">MILITARY</a>
+            </li>
+            <li class="navPages-item">
+                <a class="navPages-action" href="https://prikid.eu/air-space-t-shirts/">Air &amp; Space</a>
+            </li>
+            <li class="navPages-item">
+                <a class="navPages-action" href="https://prikid.eu/big-food-tees/">FOOD</a>
+            </li>
+            <li class="navPages-item">
+                <a class="navPages-action" href="https://prikid.eu/tote-bags/">TOTE BAGS</a>
             </li>
             <li class="navPages-item">
                 <a class="navPages-action" href="https://prikid.eu/long-sleeve-t-shirts/">LONG SLEEVE</a>
             </li>
             <li class="navPages-item">
-                <a class="navPages-action" href="https://prikid.eu/christmas-and-new-year-t-shirts/">Christmas &amp; New Year</a>
+                <a class="navPages-action" href="https://prikid.eu/bundle/">Bundle</a>
+            </li>
+            <li class="navPages-item">
+                <a class="navPages-action" href="https://prikid.eu/protect/">Protect</a>
+            </li>
+            <li class="navPages-item">
+                <a class="navPages-action" href="https://prikid.eu/winter/">Winter</a>
             </li>
             <li class="navPages-item">
                 <a class="navPages-action has-subMenu" href="https://prikid.eu/more/" data-collapsible="navPages-18">
@@ -821,24 +940,65 @@ var BCData = {};
             <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/more/">All MORE</a>
         </li>
             <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/mens-tri-blend/"> Men's Tri-Blend </a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/mens-tank-top/">Mens Tank Top</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/dean-russo-tshirts/">Dean Russo Collection </a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/tote-bags/">TOTE BAGS</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action has-subMenu" href="https://prikid.eu/love/" data-collapsible="navPages-331" data-collapsible-disabled-breakpoint="medium" data-collapsible-disabled-state="open" data-collapsible-enabled-state="closed">
-                        LOVE <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down"></use></svg></i>
+                    <a class="navPage-subMenu-action navPages-action has-subMenu" href="https://prikid.eu/men/" data-collapsible="navPages-355" data-collapsible-disabled-breakpoint="medium" data-collapsible-disabled-state="open" data-collapsible-enabled-state="closed">
+                        Men <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down"></use></svg></i>
                     </a>
-                    <ul class="navPage-childList" id="navPages-331">
+                    <ul class="navPage-childList" id="navPages-355">
                         <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/heart-t-shirts/">Heart T-Shirts</a>
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/mens-t-shirts/">Men's T-Shirts</a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/mens-sweatshirts/">Men's Sweatshirts</a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/mens-tri-blend/"> Men's Tri-Blend </a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/mens-tank-top/">Men's Tank Top</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action has-subMenu" href="https://prikid.eu/women/" data-collapsible="navPages-297" data-collapsible-disabled-breakpoint="medium" data-collapsible-disabled-state="open" data-collapsible-enabled-state="closed">
+                        Women <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down"></use></svg></i>
+                    </a>
+                    <ul class="navPage-childList" id="navPages-297">
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/womens-t-shirts/">Women's T-Shirts</a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/womens-tri-blend-v-neck-t-shirts/">Women's Tri-Blend V-Neck T-Shirts</a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/womens-tri-blend-t-shirts-1/">Women's Tri-Blend T-Shirts</a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/womens-pullover-slouchy-crew/">Women's Pullover Slouchy Crew</a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/womens-sweatshirts/">Women's Sweatshirts</a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/t-shirt-mini-dresses/">T-Shirt Mini Dresses</a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/embroidered-shirts/">Embroidered Shirts </a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/embroidered-dresses-1/"> Embroidered Dresses</a>
+                        </li>
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/womens-swimsuits/">Women's Swimsuits</a>
+                        </li>
+                    </ul>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action has-subMenu" href="https://prikid.eu/kids/" data-collapsible="navPages-233" data-collapsible-disabled-breakpoint="medium" data-collapsible-disabled-state="open" data-collapsible-enabled-state="closed">
+                        KIDS <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down"></use></svg></i>
+                    </a>
+                    <ul class="navPage-childList" id="navPages-233">
+                        <li class="navPage-childList-item">
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/baby-onesie/">Baby Onesie</a>
                         </li>
                     </ul>
             </li>
@@ -848,7 +1008,7 @@ var BCData = {};
                     </a>
                     <ul class="navPage-childList" id="navPages-23">
                         <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/chinese-new-year/">Chinese New Year</a>
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/christmas-and-new-year-t-shirts/">Christmas &amp; New Year</a>
                         </li>
                         <li class="navPage-childList-item">
                             <a class="navPage-childList-action navPages-action" href="https://prikid.eu/valentines-day/">Valentine's Day</a>
@@ -859,44 +1019,14 @@ var BCData = {};
                     </ul>
             </li>
             <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action has-subMenu" href="https://prikid.eu/native-american-t-shirts/" data-collapsible="navPages-47" data-collapsible-disabled-breakpoint="medium" data-collapsible-disabled-state="open" data-collapsible-enabled-state="closed">
-                        AMERICA <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down"></use></svg></i>
+                    <a class="navPage-subMenu-action navPages-action has-subMenu" href="https://prikid.eu/love/" data-collapsible="navPages-331" data-collapsible-disabled-breakpoint="medium" data-collapsible-disabled-state="open" data-collapsible-enabled-state="closed">
+                        LOVE <i class="icon navPages-action-moreIcon" aria-hidden="true"><svg><use xlink:href="#icon-chevron-down"></use></svg></i>
                     </a>
-                    <ul class="navPage-childList" id="navPages-47">
+                    <ul class="navPage-childList" id="navPages-331">
                         <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/american-patriotic-t-shirts/">American Patriotic</a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/chiefs-warriors/">Chiefs + Warriors</a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/dreamcatchers-shields/">Dreamcatchers + Shields</a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/maidens/">Maidens</a>
-                        </li>
-                        <li class="navPage-childList-item">
-                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/other-1/">Other</a>
+                            <a class="navPage-childList-action navPages-action" href="https://prikid.eu/heart-t-shirts/">Heart T-Shirts</a>
                         </li>
                     </ul>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/big-food-tees/">BIG FOOD TEES</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/cultural-spiritual-t-shirts/">CULTURAL + SPIRITUAL</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/purses/">Purses</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/belts/">Belts</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/leggins/">Leggins</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/protect/">Protect</a>
             </li>
             <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action has-subMenu" href="https://prikid.eu/socks/" data-collapsible="navPages-342" data-collapsible-disabled-breakpoint="medium" data-collapsible-disabled-state="open" data-collapsible-enabled-state="closed">
@@ -912,19 +1042,19 @@ var BCData = {};
                     </ul>
             </li>
             <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/bundle/">Bundle</a>
+                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/purses/">Purses</a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/belts/">Belts</a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/leggins/">Leggins</a>
             </li>
             <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/tie-dye-peace-t-shirts/">TIE DYE + PEACE</a>
             </li>
             <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/air-space-t-shirts/">Air &amp; Space</a>
-            </li>
-            <li class="navPage-subMenu-item">
                     <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/swimwear/">Swimwear</a>
-            </li>
-            <li class="navPage-subMenu-item">
-                    <a class="navPage-subMenu-action navPages-action" href="https://prikid.eu/baby-onesie/">Baby Onesie</a>
             </li>
     </ul>
 </div>
@@ -1069,30 +1199,6 @@ var BCData = {};
                 <a class="navPages-action" href="/login.php">Sign in</a>
                     or <a class="navPages-action" href="/login.php?action=create_account">Register</a>
             </li>
-            <li class="navPages-item">
-                    <ul class="socialLinks socialLinks--alt">
-            <li class="socialLinks-item">
-                    <a class="icon icon--facebook" href="http://www.facebook.com/prikid.eu" target="_blank">
-                        <svg><use xlink:href="#icon-facebook"></use></svg>
-                    </a>
-            </li>
-            <li class="socialLinks-item">
-                    <a class="icon icon--twitter" href="http://twitter.com/prikideu" target="_blank">
-                        <svg><use xlink:href="#icon-twitter"></use></svg>
-                    </a>
-            </li>
-            <li class="socialLinks-item">
-                    <a class="icon icon--instagram" href="https://instagram.com/prikid.eu" target="_blank">
-                        <svg><use xlink:href="#icon-instagram"></use></svg>
-                    </a>
-            </li>
-            <li class="socialLinks-item">
-                    <a class="icon icon--pinterest" href="http://www.pinterest.com/prikideu" target="_blank">
-                        <svg><use xlink:href="#icon-pinterest"></use></svg>
-                    </a>
-            </li>
-    </ul>
-            </li>
     </ul>
 </nav>
     </div>
@@ -1107,8 +1213,7 @@ var BCData = {};
             <meta itemprop="position" content="0">
         </li>
         <li class="breadcrumb is-active" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                <meta itemprop="item" content="">
-                <span class="breadcrumb-label" itemprop="name">Privacy and Refund Policy</span>
+                <a href="https://prikid.eu/privacy-and-refund-policy/" class="breadcrumb-label" itemprop="item"><span itemprop="name">Privacy and Refund Policy</span></a>
             <meta itemprop="position" content="1">
         </li>
 </ul>
@@ -1247,6 +1352,7 @@ var BCData = {};
 
 
     </div>
+    <div class="MyBottomBanner"></div>  
     <div id="modal" class="modal" data-reveal="" data-prevent-quick-search-close="">
     <a href="#" class="modal-close" aria-label="Close" role="button">
         <span aria-hidden="true">×</span>
@@ -1257,9 +1363,6 @@ var BCData = {};
 </div>
 <footer class="footer" role="contentinfo">
     <div class="container">
-        
-        <div class="MyBottomBanner"></div>  
-        
             <article class="footer-info-col
                 footer-info-col--social
                 footer-info-col--left" data-section-type="footer-webPages">
@@ -1292,9 +1395,6 @@ var BCData = {};
                 <h5 class="footer-info-heading">Navigate</h5>
                 <ul class="footer-info-list">
                         <li>
-                            <a href="https://prikid.eu/discount-program/">Discount Program</a>
-                        </li>
-                        <li>
                             <a href="https://prikid.eu/size-charts/">Size Charts</a>
                         </li>
                         <li>
@@ -1325,16 +1425,13 @@ var BCData = {};
                 <h5 class="footer-info-heading">Categories</h5>
                 <ul class="footer-info-list">
                         <li>
-                            <a href="https://prikid.eu/bestselling/">BESTSELLING</a>
+                            <a href="https://prikid.eu/kids-3/">KIDS</a>
                         </li>
                         <li>
                             <a href="https://prikid.eu/new/">NEW</a>
                         </li>
                         <li>
-                            <a href="https://prikid.eu/kids/">KIDS</a>
-                        </li>
-                        <li>
-                            <a href="https://prikid.eu/women/">Women</a>
+                            <a href="https://prikid.eu/bestselling/">BESTSELLING</a>
                         </li>
                         <li>
                             <a href="https://prikid.eu/big-face-animals-3d-t-shirts/">BIG FACE</a>
@@ -1346,16 +1443,10 @@ var BCData = {};
                             <a href="https://prikid.eu/fantasy/">FANTASY</a>
                         </li>
                         <li>
-                            <a href="https://prikid.eu/music-t-shirts/">Music</a>
+                            <a href="https://prikid.eu/native-american-t-shirts/">AMERICA</a>
                         </li>
                         <li>
-                            <a href="https://prikid.eu/military-t-shirts/">MILITARY</a>
-                        </li>
-                        <li>
-                            <a href="https://prikid.eu/life/">Life</a>
-                        </li>
-                        <li>
-                            <a href="https://prikid.eu/hidden-images-t-shirts/">HIDDEN IMAGES</a>
+                            <a href="https://prikid.eu/sweatshirts/">Sweatshirts</a>
                         </li>
                         <li>
                             <a href="https://prikid.eu/headwear/">HEADWEAR</a>
@@ -1364,13 +1455,43 @@ var BCData = {};
                             <a href="https://prikid.eu/embroidered-clothes/">Embroidered </a>
                         </li>
                         <li>
-                            <a href="https://prikid.eu/sweatshirts/">Sweatshirts</a>
+                            <a href="https://prikid.eu/hidden-images-t-shirts/">HIDDEN</a>
+                        </li>
+                        <li>
+                            <a href="https://prikid.eu/dean-russo-tshirts/">Dean Russo</a>
+                        </li>
+                        <li>
+                            <a href="https://prikid.eu/cultural-spiritual-t-shirts/">CULTURAL</a>
+                        </li>
+                        <li>
+                            <a href="https://prikid.eu/music-t-shirts/">Music</a>
+                        </li>
+                        <li>
+                            <a href="https://prikid.eu/life/">Life</a>
+                        </li>
+                        <li>
+                            <a href="https://prikid.eu/military-t-shirts/">MILITARY</a>
+                        </li>
+                        <li>
+                            <a href="https://prikid.eu/air-space-t-shirts/">Air &amp; Space</a>
+                        </li>
+                        <li>
+                            <a href="https://prikid.eu/big-food-tees/">FOOD</a>
+                        </li>
+                        <li>
+                            <a href="https://prikid.eu/tote-bags/">TOTE BAGS</a>
                         </li>
                         <li>
                             <a href="https://prikid.eu/long-sleeve-t-shirts/">LONG SLEEVE</a>
                         </li>
                         <li>
-                            <a href="https://prikid.eu/christmas-and-new-year-t-shirts/">Christmas &amp; New Year</a>
+                            <a href="https://prikid.eu/bundle/">Bundle</a>
+                        </li>
+                        <li>
+                            <a href="https://prikid.eu/protect/">Protect</a>
+                        </li>
+                        <li>
+                            <a href="https://prikid.eu/winter/">Winter</a>
                         </li>
                         <li>
                             <a href="https://prikid.eu/more/">MORE</a>
@@ -1417,26 +1538,25 @@ var BCData = {};
 
         
             <div class="footer-copyright">
-                <p class="powered-by">© 2018 PRIKID.EU </p>
+                <p class="powered-by">© 2019 PRIKID.EU </p>
             </div>
     </div>
 </footer>
 
 <script>
-    window.__webpack_public_path__ = "https://cdn11.bigcommerce.com/s-zccddh/stencil/e66808c0-ec2c-0136-5f6b-01140a946717/e/2e9e6450-d9cc-0136-057b-069485f35a13/dist/";
+    window.__webpack_public_path__ = "https://cdn11.bigcommerce.com/s-zccddh/stencil/0d754cf0-fa2a-0136-b8b6-77511a8aa2a1/e/bdd8baa0-fbca-0136-1e16-5dc46172b53c/dist/";
     window.cdn_webdav_path = "https://cdn11.bigcommerce.com/s-zccddh/content/"; //PRIKID
 </script>
 
-<script src="https://cdn11.bigcommerce.com/s-zccddh/stencil/e66808c0-ec2c-0136-5f6b-01140a946717/e/2e9e6450-d9cc-0136-057b-069485f35a13/dist/theme-bundle.main.js"></script>
+<script src="https://cdn11.bigcommerce.com/s-zccddh/stencil/0d754cf0-fa2a-0136-b8b6-77511a8aa2a1/e/bdd8baa0-fbca-0136-1e16-5dc46172b53c/dist/theme-bundle.main.js" crossorigin="anonymous"></script>
 
 <script>
     // Exported in app.js
-    window.stencilBootstrap("page", "{\"themeSettings\":{\"homepage_new_products_count\":24,\"homepage_featured_products_count\":24,\"homepage_top_products_count\":24,\"homepage_show_carousel\":true,\"homepage_show_carousel_arrows\":true,\"homepage_stretch_carousel_images\":false,\"homepage_new_products_column_count\":4,\"homepage_featured_products_column_count\":4,\"homepage_top_products_column_count\":4,\"homepage_blog_posts_count\":3,\"productpage_videos_count\":8,\"productpage_reviews_count\":9,\"productpage_related_products_count\":18,\"productpage_similar_by_views_count\":18,\"categorypage_products_per_page\":36,\"shop_by_price_visibility\":false,\"brandpage_products_per_page\":18,\"searchpage_products_per_page\":18,\"show_product_quick_view\":true,\"show_powered_by\":false,\"shop_by_brand_show_footer\":false,\"show_copyright_footer\":true,\"show_accept_amex\":true,\"show_accept_discover\":true,\"show_accept_mastercard\":true,\"show_accept_paypal\":true,\"show_accept_visa\":true,\"show_product_details_tabs\":true,\"show_product_reviews_tabs\":false,\"show_product_weight\":false,\"show_product_dimensions\":false,\"product_list_display_mode\":\"grid\",\"logo-position\":\"left\",\"logo_size\":\"250x100\",\"logo_fontSize\":28,\"logo-font\":\"Google_Oswald_300\",\"brand_size\":\"190x250\",\"gallery_size\":\"300x300\",\"productgallery_size\":\"263x366\",\"product_size\":\"500x659\",\"productview_thumb_size\":\"50x50\",\"productthumb_size\":\"100x100\",\"thumb_size\":\"100x100\",\"zoom_size\":\"1280x1280\",\"blog_size\":\"190x250\",\"default_image_brand\":\"/assets/img/BrandDefault.gif\",\"default_image_product\":\"/assets/img/ProductDefault.gif\",\"default_image_gift_certificate\":\"/assets/img/GiftCertificate.png\",\"body-font\":\"Google_Karla_400\",\"headings-font\":\"Google_Montserrat_400\",\"fontSize-root\":14,\"fontSize-h1\":28,\"fontSize-h2\":25,\"fontSize-h3\":22,\"fontSize-h4\":20,\"fontSize-h5\":15,\"fontSize-h6\":13,\"applePay-button\":\"white\",\"color-textBase\":\"#333333\",\"color-textBase--hover\":\"#757575\",\"color-textBase--active\":\"#757575\",\"color-textSecondary\":\"#757575\",\"color-textSecondary--hover\":\"#333333\",\"color-textSecondary--active\":\"#333333\",\"color-textLink\":\"#333333\",\"color-textLink--hover\":\"#757575\",\"color-textLink--active\":\"#757575\",\"color-textHeading\":\"#444444\",\"color-primary\":\"#757575\",\"color-primaryDark\":\"#666666\",\"color-primaryDarker\":\"#333333\",\"color-primaryLight\":\"#999999\",\"color-secondary\":\"#ffffff\",\"color-secondaryDark\":\"#e5e5e5\",\"color-secondaryDarker\":\"#cccccc\",\"color-error\":\"#cc4749\",\"color-errorLight\":\"#ffdddd\",\"color-info\":\"#666666\",\"color-infoLight\":\"#dfdfdf\",\"color-success\":\"#008a06\",\"color-successLight\":\"#d5ffd8\",\"color-warning\":\"#f1a500\",\"color-warningLight\":\"#fffdea\",\"color-black\":\"#ffffff\",\"color-white\":\"#ffffff\",\"color-whitesBase\":\"#e5e5e5\",\"color-grey\":\"#999999\",\"color-greyDarkest\":\"#000000\",\"color-greyDarker\":\"#333333\",\"color-greyDark\":\"#666666\",\"color-greyMedium\":\"#757575\",\"color-greyLight\":\"#999999\",\"color-greyLighter\":\"#cccccc\",\"color-greyLightest\":\"#e5e5e5\",\"button--default-color\":\"#666666\",\"button--default-colorHover\":\"#333333\",\"button--default-colorActive\":\"#000000\",\"button--default-borderColor\":\"#cccccc\",\"button--default-borderColorHover\":\"#999999\",\"button--default-borderColorActive\":\"#757575\",\"button--primary-color\":\"#ffffff\",\"button--primary-colorHover\":\"#ffffff\",\"button--primary-colorActive\":\"#ffffff\",\"button--primary-backgroundColor\":\"#444444\",\"button--primary-backgroundColorHover\":\"#666666\",\"button--primary-backgroundColorActive\":\"#000000\",\"button--disabled-color\":\"#ffffff\",\"button--disabled-backgroundColor\":\"#cccccc\",\"button--disabled-borderColor\":\"transparent\",\"icon-color\":\"#757575\",\"icon-color-hover\":\"#999999\",\"button--icon-svg-color\":\"#757575\",\"icon-ratingEmpty\":\"#cccccc\",\"icon-ratingFull\":\"#757575\",\"carousel-bgColor\":\"#ffffff\",\"carousel-title-color\":\"#444444\",\"carousel-description-color\":\"#333333\",\"carousel-dot-color\":\"#333333\",\"carousel-dot-color-active\":\"#757575\",\"carousel-dot-bgColor\":\"#ffffff\",\"carousel-arrow-color\":\"#999999\",\"carousel-arrow-bgColor\":\"#ffffff\",\"carousel-arrow-borderColor\":\"#ffffff\",\"card-title-color\":\"#333333\",\"card-title-color-hover\":\"#757575\",\"card-figcaption-button-background\":\"#ffffff\",\"card-figcaption-button-color\":\"#333333\",\"card--alternate-backgroundColor\":\"#ffffff\",\"card--alternate-borderColor\":\"#ffffff\",\"card--alternate-color--hover\":\"#ffffff\",\"form-label-font-color\":\"#666666\",\"input-font-color\":\"#666666\",\"input-border-color\":\"#cccccc\",\"input-border-color-active\":\"#999999\",\"input-bg-color\":\"#ffffff\",\"input-disabled-bg\":\"#ffffff\",\"select-bg-color\":\"#ffffff\",\"select-arrow-color\":\"#757575\",\"checkRadio-color\":\"#333333\",\"checkRadio-backgroundColor\":\"#ffffff\",\"checkRadio-borderColor\":\"#cccccc\",\"alert-backgroundColor\":\"#ffffff\",\"alert-color\":\"#333333\",\"alert-color-alt\":\"#ffffff\",\"storeName-color\":\"#333333\",\"body-bg\":\"#ffffff\",\"header-backgroundColor\":\"#ffffff\",\"footer-backgroundColor\":\"#ffffff\",\"navUser-color\":\"#333333\",\"navUser-color-hover\":\"#757575\",\"navUser-dropdown-backgroundColor\":\"#efefef\",\"navUser-dropdown-borderColor\":\"#c1c1c1\",\"navUser-indicator-backgroundColor\":\"#333333\",\"navPages-color\":\"#333333\",\"navPages-color-hover\":\"#757575\",\"navPages-subMenu-backgroundColor\":\"#e5e5e5\",\"navPages-subMenu-separatorColor\":\"#cccccc\",\"dropdown--quickSearch-backgroundColor\":\"#e5e5e5\",\"dropdown--wishList-backgroundColor\":\"#555555\",\"blockquote-cite-font-color\":\"#999999\",\"container-border-global-color-base\":\"#e5e5e5\",\"container-fill-base\":\"#ffffff\",\"container-fill-dark\":\"#e5e5e5\",\"label-backgroundColor\":\"#cccccc\",\"label-color\":\"#ffffff\",\"overlay-backgroundColor\":\"#333333\",\"loadingOverlay-backgroundColor\":\"#ffffff\",\"pace-progress-backgroundColor\":\"#999999\",\"spinner-borderColor-dark\":\"#999999\",\"spinner-borderColor-light\":\"#ffffff\",\"hide_content_navigation\":true,\"optimizedCheckout-header-backgroundColor\":\"#f5f5f5\",\"optimizedCheckout-show-backgroundImage\":false,\"optimizedCheckout-backgroundImage\":\"\",\"optimizedCheckout-backgroundImage-size\":\"1000x400\",\"optimizedCheckout-show-logo\":\"custom\",\"optimizedCheckout-logo\":\"https://cdn3.bigcommerce.com/s-zccddh/images/stencil/{:size}/prikid_120x67_1505836981__11074.png\",\"optimizedCheckout-logo-size\":\"250x100\",\"optimizedCheckout-logo-position\":\"left\",\"optimizedCheckout-headingPrimary-color\":\"#333333\",\"optimizedCheckout-headingPrimary-font\":\"Google_Montserrat_400\",\"optimizedCheckout-headingSecondary-color\":\"#333333\",\"optimizedCheckout-headingSecondary-font\":\"Google_Montserrat_400\",\"optimizedCheckout-body-backgroundColor\":\"#ffffff\",\"optimizedCheckout-colorFocus\":\"#4496f6\",\"optimizedCheckout-contentPrimary-color\":\"#333333\",\"optimizedCheckout-contentPrimary-font\":\"Google_Karla_400\",\"optimizedCheckout-contentSecondary-color\":\"#757575\",\"optimizedCheckout-contentSecondary-font\":\"Google_Karla_400\",\"optimizedCheckout-buttonPrimary-font\":\"Google_Karla_400\",\"optimizedCheckout-buttonPrimary-color\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorHover\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorActive\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-backgroundColor\":\"#357ae8\",\"optimizedCheckout-buttonPrimary-backgroundColorHover\":\"#4d90fe\",\"optimizedCheckout-buttonPrimary-backgroundColorActive\":\"#3270d2\",\"optimizedCheckout-buttonPrimary-borderColor\":\"#cccccc\",\"optimizedCheckout-buttonPrimary-borderColorHover\":\"transparent\",\"optimizedCheckout-buttonPrimary-borderColorActive\":\"transparent\",\"optimizedCheckout-buttonPrimary-borderColorDisabled\":\"transparent\",\"optimizedCheckout-buttonPrimary-backgroundColorDisabled\":\"#cccccc\",\"optimizedCheckout-buttonPrimary-colorDisabled\":\"#ffffff\",\"optimizedCheckout-formChecklist-backgroundColor\":\"#ffffff\",\"optimizedCheckout-formChecklist-color\":\"#333333\",\"optimizedCheckout-formChecklist-borderColor\":\"#cccccc\",\"optimizedCheckout-formChecklist-backgroundColorSelected\":\"#f5f5f5\",\"optimizedCheckout-buttonSecondary-font\":\"Google_Karla_400\",\"optimizedCheckout-buttonSecondary-color\":\"#333333\",\"optimizedCheckout-buttonSecondary-colorHover\":\"#333333\",\"optimizedCheckout-buttonSecondary-colorActive\":\"#000000\",\"optimizedCheckout-buttonSecondary-backgroundColor\":\"#ffffff\",\"optimizedCheckout-buttonSecondary-borderColor\":\"#cccccc\",\"optimizedCheckout-buttonSecondary-backgroundColorHover\":\"#f5f5f5\",\"optimizedCheckout-buttonSecondary-backgroundColorActive\":\"#e5e5e5\",\"optimizedCheckout-buttonSecondary-borderColorHover\":\"#999999\",\"optimizedCheckout-buttonSecondary-borderColorActive\":\"#757575\",\"optimizedCheckout-link-color\":\"#476bef\",\"optimizedCheckout-link-font\":\"Google_Karla_400\",\"optimizedCheckout-discountBanner-backgroundColor\":\"#e5e5e5\",\"optimizedCheckout-discountBanner-textColor\":\"#333333\",\"optimizedCheckout-discountBanner-iconColor\":\"#333333\",\"optimizedCheckout-orderSummary-backgroundColor\":\"#ffffff\",\"optimizedCheckout-orderSummary-borderColor\":\"#dddddd\",\"optimizedCheckout-step-backgroundColor\":\"#757575\",\"optimizedCheckout-step-textColor\":\"#ffffff\",\"optimizedCheckout-form-textColor\":\"#666666\",\"optimizedCheckout-formField-borderColor\":\"#cccccc\",\"optimizedCheckout-formField-textColor\":\"#333333\",\"optimizedCheckout-formField-shadowColor\":\"#e5e5e5\",\"optimizedCheckout-formField-placeholderColor\":\"#999999\",\"optimizedCheckout-formField-backgroundColor\":\"#ffffff\",\"optimizedCheckout-formField-errorColor\":\"#d14343\",\"optimizedCheckout-formField-inputControlColor\":\"#476bef\",\"optimizedCheckout-step-borderColor\":\"#dddddd\",\"optimizedCheckout-header-borderColor\":\"#dddddd\",\"optimizedCheckout-header-textColor\":\"#333333\",\"optimizedCheckout-loadingToaster-backgroundColor\":\"#333333\",\"optimizedCheckout-loadingToaster-textColor\":\"#ffffff\",\"optimizedCheckout-link-hoverColor\":\"#002fe1\",\"product_sale_badges\":\"sash\",\"color_badge_product_sale_badges\":\"#007dc6\",\"color_text_product_sale_badges\":\"#ffffff\",\"color_hover_product_sale_badges\":\"#000000\",\"restrict_to_login\":false,\"swatch_option_size\":\"22x22\",\"social_icon_placement_top\":true,\"social_icon_placement_bottom\":\"bottom_left\",\"geotrust_ssl_common_name\":\"\",\"geotrust_ssl_seal_size\":\"S\",\"navigation_design\":\"simple\",\"price_ranges\":false,\"pdp-price-label\":\"\",\"pdp-sale-price-label\":\"Now:\",\"pdp-non-sale-price-label\":\"Was:\",\"pdp-retail-price-label\":\"MSRP:\",\"paymentbuttons-paypal-layout\":\"horizontal\",\"paymentbuttons-paypal-color\":\"gold\",\"paymentbuttons-paypal-shape\":\"pill\",\"paymentbuttons-paypal-size\":\"small\",\"paymentbuttons-paypal-label\":\"checkout\",\"paymentbuttons-paypal-tagline\":true,\"paymentbuttons-paypal-fundingicons\":false,\"supported_card_type_icons\":[\"american_express\",\"diners\",\"discover\",\"mastercard\",\"visa\"],\"size_charts_img_size\":\"544x232\"},\"genericError\":\"Oops! Something went wrong.\",\"maintenanceMode\":{\"header\":null,\"notice\":null,\"message\":null,\"securePath\":\"https://prikid.eu\",\"password\":null},\"urls\":{\"home\":\"https://prikid.eu/\",\"account\":{\"index\":\"/account.php\",\"orders\":{\"all\":\"/account.php?action=order_status\",\"completed\":\"/account.php?action=view_orders\",\"save_new_return\":\"/account.php?action=save_new_return\"},\"update_action\":\"/account.php?action=update_account\",\"returns\":\"/account.php?action=view_returns\",\"addresses\":\"/account.php?action=address_book\",\"inbox\":\"/account.php?action=inbox\",\"send_message\":\"/account.php?action=send_message\",\"add_address\":\"/account.php?action=add_shipping_address\",\"wishlists\":{\"all\":\"/wishlist.php\",\"add\":\"/wishlist.php?action=addwishlist\",\"edit\":\"/wishlist.php?action=editwishlist\",\"delete\":\"/wishlist.php?action=deletewishlist\"},\"details\":\"/account.php?action=account_details\",\"recent_items\":\"/account.php?action=recent_items\",\"payment_methods\":{\"all\":\"/account.php?action=payment_methods\"}},\"brands\":\"https://prikid.eu/brands/\",\"gift_certificate\":{\"purchase\":\"/giftcertificates.php\",\"redeem\":\"/giftcertificates.php?action=redeem\",\"balance\":\"/giftcertificates.php?action=balance\"},\"auth\":{\"login\":\"/login.php\",\"check_login\":\"/login.php?action=check_login\",\"create_account\":\"/login.php?action=create_account\",\"save_new_account\":\"/login.php?action=save_new_account\",\"forgot_password\":\"/login.php?action=reset_password\",\"send_password_email\":\"/login.php?action=send_password_email\",\"save_new_password\":\"/login.php?action=save_new_password\",\"logout\":\"/login.php?action=logout\"},\"product\":{\"post_review\":\"/postreview.php\"},\"cart\":\"/cart.php\",\"checkout\":{\"single_address\":\"/checkout.php\",\"multiple_address\":\"/checkout.php?action=multiple\"},\"rss\":{\"products\":{\"new\":\"/rss.php?type=rss\",\"new_atom\":\"/rss.php?type=atom\",\"popular\":\"/rss.php?action=popularproducts&type=rss\",\"popular_atom\":\"/rss.php?action=popularproducts&type=atom\",\"featured\":\"/rss.php?action=featuredproducts&type=rss\",\"featured_atom\":\"/rss.php?action=featuredproducts&type=atom\",\"search\":\"/rss.php?action=searchproducts&type=rss\",\"search_atom\":\"/rss.php?action=searchproducts&type=atom\"},\"blog\":\"/rss.php?action=newblogs&type=rss\",\"blog_atom\":\"/rss.php?action=newblogs&type=atom\"},\"contact_us_submit\":\"/pages.php?action=sendContactForm\",\"search\":\"/search.php\",\"compare\":\"/compare\",\"sitemap\":\"/sitemap.php\",\"subscribe\":{\"action\":\"/subscribe.php\"}},\"template\":\"pages/page\",\"user_id\":null,\"page_type\":\"page\",\"currency_code\":\"USD\"}").load();
+    window.stencilBootstrap("page", "{\"themeSettings\":{\"homepage_new_products_count\":24,\"homepage_featured_products_count\":24,\"homepage_top_products_count\":24,\"homepage_show_carousel\":true,\"homepage_show_carousel_arrows\":true,\"homepage_stretch_carousel_images\":false,\"homepage_new_products_column_count\":4,\"homepage_featured_products_column_count\":4,\"homepage_top_products_column_count\":4,\"homepage_blog_posts_count\":3,\"productpage_videos_count\":8,\"productpage_reviews_count\":9,\"productpage_related_products_count\":18,\"productpage_similar_by_views_count\":18,\"categorypage_products_per_page\":36,\"shop_by_price_visibility\":false,\"brandpage_products_per_page\":18,\"searchpage_products_per_page\":18,\"show_product_quick_view\":true,\"show_product_quantity_box\":true,\"show_powered_by\":false,\"shop_by_brand_show_footer\":false,\"show_copyright_footer\":true,\"show_accept_amex\":true,\"show_accept_discover\":true,\"show_accept_mastercard\":true,\"show_accept_paypal\":true,\"show_accept_visa\":true,\"show_product_details_tabs\":true,\"show_product_reviews_tabs\":false,\"show_product_weight\":false,\"show_product_dimensions\":false,\"product_list_display_mode\":\"grid\",\"logo-position\":\"left\",\"logo_size\":\"250x100\",\"logo_fontSize\":28,\"brand_size\":\"190x250\",\"gallery_size\":\"300x300\",\"productgallery_size\":\"263x366\",\"product_size\":\"500x659\",\"productview_thumb_size\":\"50x50\",\"productthumb_size\":\"100x100\",\"thumb_size\":\"100x100\",\"zoom_size\":\"1280x1280\",\"blog_size\":\"190x250\",\"default_image_brand\":\"/assets/img/BrandDefault.gif\",\"default_image_product\":\"/assets/img/ProductDefault.gif\",\"default_image_gift_certificate\":\"/assets/img/GiftCertificate.png\",\"body-font\":\"Google_Karla_400\",\"headings-font\":\"Google_Montserrat_400\",\"fontSize-root\":14,\"fontSize-h1\":28,\"fontSize-h2\":25,\"fontSize-h3\":22,\"fontSize-h4\":20,\"fontSize-h5\":15,\"fontSize-h6\":13,\"applePay-button\":\"white\",\"color-textBase\":\"#333333\",\"color-textBase--hover\":\"#757575\",\"color-textBase--active\":\"#757575\",\"color-textSecondary\":\"#757575\",\"color-textSecondary--hover\":\"#333333\",\"color-textSecondary--active\":\"#333333\",\"color-textLink\":\"#333333\",\"color-textLink--hover\":\"#757575\",\"color-textLink--active\":\"#757575\",\"color-textHeading\":\"#444444\",\"color-primary\":\"#757575\",\"color-primaryDark\":\"#666666\",\"color-primaryDarker\":\"#333333\",\"color-primaryLight\":\"#999999\",\"color-secondary\":\"#ffffff\",\"color-secondaryDark\":\"#e5e5e5\",\"color-secondaryDarker\":\"#cccccc\",\"color-error\":\"#cc4749\",\"color-errorLight\":\"#ffdddd\",\"color-info\":\"#666666\",\"color-infoLight\":\"#dfdfdf\",\"color-success\":\"#008a06\",\"color-successLight\":\"#d5ffd8\",\"color-warning\":\"#f1a500\",\"color-warningLight\":\"#fffdea\",\"color-black\":\"#ffffff\",\"color-white\":\"#ffffff\",\"color-whitesBase\":\"#e5e5e5\",\"color-grey\":\"#999999\",\"color-greyDarkest\":\"#000000\",\"color-greyDarker\":\"#333333\",\"color-greyDark\":\"#666666\",\"color-greyMedium\":\"#757575\",\"color-greyLight\":\"#999999\",\"color-greyLighter\":\"#cccccc\",\"color-greyLightest\":\"#e5e5e5\",\"button--default-color\":\"#666666\",\"button--default-colorHover\":\"#333333\",\"button--default-colorActive\":\"#000000\",\"button--default-borderColor\":\"#cccccc\",\"button--default-borderColorHover\":\"#999999\",\"button--default-borderColorActive\":\"#757575\",\"button--primary-color\":\"#ffffff\",\"button--primary-colorHover\":\"#ffffff\",\"button--primary-colorActive\":\"#ffffff\",\"button--primary-backgroundColor\":\"#444444\",\"button--primary-backgroundColorHover\":\"#666666\",\"button--primary-backgroundColorActive\":\"#000000\",\"button--disabled-color\":\"#ffffff\",\"button--disabled-backgroundColor\":\"#cccccc\",\"button--disabled-borderColor\":\"transparent\",\"icon-color\":\"#757575\",\"icon-color-hover\":\"#999999\",\"button--icon-svg-color\":\"#757575\",\"icon-ratingEmpty\":\"#cccccc\",\"icon-ratingFull\":\"#757575\",\"carousel-bgColor\":\"#ffffff\",\"carousel-title-color\":\"#444444\",\"carousel-description-color\":\"#333333\",\"carousel-dot-color\":\"#333333\",\"carousel-dot-color-active\":\"#757575\",\"carousel-dot-bgColor\":\"#ffffff\",\"carousel-arrow-color\":\"#999999\",\"carousel-arrow-bgColor\":\"#ffffff\",\"carousel-arrow-borderColor\":\"#ffffff\",\"card-title-color\":\"#333333\",\"card-title-color-hover\":\"#757575\",\"card-figcaption-button-background\":\"#ffffff\",\"card-figcaption-button-color\":\"#333333\",\"card--alternate-backgroundColor\":\"#ffffff\",\"card--alternate-borderColor\":\"#ffffff\",\"card--alternate-color--hover\":\"#ffffff\",\"form-label-font-color\":\"#666666\",\"input-font-color\":\"#666666\",\"input-border-color\":\"#cccccc\",\"input-border-color-active\":\"#999999\",\"input-bg-color\":\"#ffffff\",\"input-disabled-bg\":\"#ffffff\",\"select-bg-color\":\"#ffffff\",\"select-arrow-color\":\"#757575\",\"checkRadio-color\":\"#333333\",\"checkRadio-backgroundColor\":\"#ffffff\",\"checkRadio-borderColor\":\"#cccccc\",\"alert-backgroundColor\":\"#ffffff\",\"alert-color\":\"#333333\",\"alert-color-alt\":\"#ffffff\",\"storeName-color\":\"#333333\",\"body-bg\":\"#ffffff\",\"header-backgroundColor\":\"#ffffff\",\"footer-backgroundColor\":\"#ffffff\",\"navUser-color\":\"#333333\",\"navUser-color-hover\":\"#757575\",\"navUser-dropdown-backgroundColor\":\"#efefef\",\"navUser-dropdown-borderColor\":\"#c1c1c1\",\"navUser-indicator-backgroundColor\":\"#333333\",\"navPages-color\":\"#333333\",\"navPages-color-hover\":\"#757575\",\"navPages-subMenu-backgroundColor\":\"#e5e5e5\",\"navPages-subMenu-separatorColor\":\"#cccccc\",\"dropdown--quickSearch-backgroundColor\":\"#e5e5e5\",\"dropdown--wishList-backgroundColor\":\"#555555\",\"blockquote-cite-font-color\":\"#999999\",\"container-border-global-color-base\":\"#e5e5e5\",\"container-fill-base\":\"#ffffff\",\"container-fill-dark\":\"#e5e5e5\",\"label-backgroundColor\":\"#cccccc\",\"label-color\":\"#ffffff\",\"overlay-backgroundColor\":\"#333333\",\"loadingOverlay-backgroundColor\":\"#ffffff\",\"pace-progress-backgroundColor\":\"#999999\",\"spinner-borderColor-dark\":\"#999999\",\"spinner-borderColor-light\":\"#ffffff\",\"hide_content_navigation\":true,\"optimizedCheckout-header-backgroundColor\":\"#f5f5f5\",\"optimizedCheckout-show-backgroundImage\":false,\"optimizedCheckout-backgroundImage\":\"\",\"optimizedCheckout-backgroundImage-size\":\"1000x400\",\"optimizedCheckout-show-logo\":\"custom\",\"optimizedCheckout-logo\":\"https://cdn3.bigcommerce.com/s-zccddh/images/stencil/{:size}/prikid_120x67_1505836981__11074.png\",\"optimizedCheckout-logo-size\":\"250x100\",\"optimizedCheckout-logo-position\":\"left\",\"optimizedCheckout-headingPrimary-color\":\"#333333\",\"optimizedCheckout-headingPrimary-font\":\"Google_Montserrat_400\",\"optimizedCheckout-headingSecondary-color\":\"#333333\",\"optimizedCheckout-headingSecondary-font\":\"Google_Montserrat_400\",\"optimizedCheckout-body-backgroundColor\":\"#ffffff\",\"optimizedCheckout-colorFocus\":\"#4496f6\",\"optimizedCheckout-contentPrimary-color\":\"#333333\",\"optimizedCheckout-contentPrimary-font\":\"Google_Karla_400\",\"optimizedCheckout-contentSecondary-color\":\"#757575\",\"optimizedCheckout-contentSecondary-font\":\"Google_Karla_400\",\"optimizedCheckout-buttonPrimary-font\":\"Google_Karla_400\",\"optimizedCheckout-buttonPrimary-color\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorHover\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-colorActive\":\"#ffffff\",\"optimizedCheckout-buttonPrimary-backgroundColor\":\"#357ae8\",\"optimizedCheckout-buttonPrimary-backgroundColorHover\":\"#4d90fe\",\"optimizedCheckout-buttonPrimary-backgroundColorActive\":\"#3270d2\",\"optimizedCheckout-buttonPrimary-borderColor\":\"#cccccc\",\"optimizedCheckout-buttonPrimary-borderColorHover\":\"transparent\",\"optimizedCheckout-buttonPrimary-borderColorActive\":\"transparent\",\"optimizedCheckout-buttonPrimary-borderColorDisabled\":\"transparent\",\"optimizedCheckout-buttonPrimary-backgroundColorDisabled\":\"#cccccc\",\"optimizedCheckout-buttonPrimary-colorDisabled\":\"#ffffff\",\"optimizedCheckout-formChecklist-backgroundColor\":\"#ffffff\",\"optimizedCheckout-formChecklist-color\":\"#333333\",\"optimizedCheckout-formChecklist-borderColor\":\"#cccccc\",\"optimizedCheckout-formChecklist-backgroundColorSelected\":\"#f5f5f5\",\"optimizedCheckout-buttonSecondary-font\":\"Google_Karla_400\",\"optimizedCheckout-buttonSecondary-color\":\"#333333\",\"optimizedCheckout-buttonSecondary-colorHover\":\"#333333\",\"optimizedCheckout-buttonSecondary-colorActive\":\"#000000\",\"optimizedCheckout-buttonSecondary-backgroundColor\":\"#ffffff\",\"optimizedCheckout-buttonSecondary-borderColor\":\"#cccccc\",\"optimizedCheckout-buttonSecondary-backgroundColorHover\":\"#f5f5f5\",\"optimizedCheckout-buttonSecondary-backgroundColorActive\":\"#e5e5e5\",\"optimizedCheckout-buttonSecondary-borderColorHover\":\"#999999\",\"optimizedCheckout-buttonSecondary-borderColorActive\":\"#757575\",\"optimizedCheckout-link-color\":\"#476bef\",\"optimizedCheckout-link-font\":\"Google_Karla_400\",\"optimizedCheckout-discountBanner-backgroundColor\":\"#e5e5e5\",\"optimizedCheckout-discountBanner-textColor\":\"#333333\",\"optimizedCheckout-discountBanner-iconColor\":\"#333333\",\"optimizedCheckout-orderSummary-backgroundColor\":\"#ffffff\",\"optimizedCheckout-orderSummary-borderColor\":\"#dddddd\",\"optimizedCheckout-step-backgroundColor\":\"#757575\",\"optimizedCheckout-step-textColor\":\"#ffffff\",\"optimizedCheckout-form-textColor\":\"#666666\",\"optimizedCheckout-formField-borderColor\":\"#cccccc\",\"optimizedCheckout-formField-textColor\":\"#333333\",\"optimizedCheckout-formField-shadowColor\":\"#e5e5e5\",\"optimizedCheckout-formField-placeholderColor\":\"#999999\",\"optimizedCheckout-formField-backgroundColor\":\"#ffffff\",\"optimizedCheckout-formField-errorColor\":\"#d14343\",\"optimizedCheckout-formField-inputControlColor\":\"#476bef\",\"optimizedCheckout-step-borderColor\":\"#dddddd\",\"optimizedCheckout-header-borderColor\":\"#dddddd\",\"optimizedCheckout-header-textColor\":\"#333333\",\"optimizedCheckout-loadingToaster-backgroundColor\":\"#333333\",\"optimizedCheckout-loadingToaster-textColor\":\"#ffffff\",\"optimizedCheckout-link-hoverColor\":\"#002fe1\",\"product_sale_badges\":\"sash\",\"color_badge_product_sale_badges\":\"#007dc6\",\"color_text_product_sale_badges\":\"#ffffff\",\"color_hover_product_sale_badges\":\"#000000\",\"restrict_to_login\":false,\"swatch_option_size\":\"22x22\",\"social_icon_placement_top\":false,\"social_icon_placement_bottom\":\"bottom_left\",\"geotrust_ssl_common_name\":\"\",\"geotrust_ssl_seal_size\":\"S\",\"navigation_design\":\"simple\",\"price_ranges\":false,\"pdp-price-label\":\"\",\"pdp-sale-price-label\":\"Now:\",\"pdp-non-sale-price-label\":\"Was:\",\"pdp-retail-price-label\":\"MSRP:\",\"paymentbuttons-paypal-layout\":\"horizontal\",\"paymentbuttons-paypal-color\":\"gold\",\"paymentbuttons-paypal-shape\":\"pill\",\"paymentbuttons-paypal-size\":\"small\",\"paymentbuttons-paypal-label\":\"checkout\",\"paymentbuttons-paypal-tagline\":true,\"paymentbuttons-paypal-fundingicons\":false,\"supported_card_type_icons\":[\"american_express\",\"diners\",\"discover\",\"mastercard\",\"visa\"],\"size_charts_img_size\":\"544x232\"},\"genericError\":\"Oops! Something went wrong.\",\"maintenanceMode\":{\"header\":null,\"notice\":null,\"message\":null,\"securePath\":\"https://prikid.eu\",\"password\":null},\"urls\":{\"home\":\"https://prikid.eu/\",\"account\":{\"index\":\"/account.php\",\"orders\":{\"all\":\"/account.php?action=order_status\",\"completed\":\"/account.php?action=view_orders\",\"save_new_return\":\"/account.php?action=save_new_return\"},\"update_action\":\"/account.php?action=update_account\",\"returns\":\"/account.php?action=view_returns\",\"addresses\":\"/account.php?action=address_book\",\"inbox\":\"/account.php?action=inbox\",\"send_message\":\"/account.php?action=send_message\",\"add_address\":\"/account.php?action=add_shipping_address\",\"wishlists\":{\"all\":\"/wishlist.php\",\"add\":\"/wishlist.php?action=addwishlist\",\"edit\":\"/wishlist.php?action=editwishlist\",\"delete\":\"/wishlist.php?action=deletewishlist\"},\"details\":\"/account.php?action=account_details\",\"recent_items\":\"/account.php?action=recent_items\",\"payment_methods\":{\"all\":\"/account.php?action=payment_methods\"}},\"brands\":\"https://prikid.eu/brands/\",\"gift_certificate\":{\"purchase\":\"/giftcertificates.php\",\"redeem\":\"/giftcertificates.php?action=redeem\",\"balance\":\"/giftcertificates.php?action=balance\"},\"auth\":{\"login\":\"/login.php\",\"check_login\":\"/login.php?action=check_login\",\"create_account\":\"/login.php?action=create_account\",\"save_new_account\":\"/login.php?action=save_new_account\",\"forgot_password\":\"/login.php?action=reset_password\",\"send_password_email\":\"/login.php?action=send_password_email\",\"save_new_password\":\"/login.php?action=save_new_password\",\"logout\":\"/login.php?action=logout\"},\"product\":{\"post_review\":\"/postreview.php\"},\"cart\":\"/cart.php\",\"checkout\":{\"single_address\":\"/checkout.php\",\"multiple_address\":\"/checkout.php?action=multiple\"},\"rss\":{\"products\":{\"new\":\"/rss.php?type=rss\",\"new_atom\":\"/rss.php?type=atom\",\"popular\":\"/rss.php?action=popularproducts&type=rss\",\"popular_atom\":\"/rss.php?action=popularproducts&type=atom\",\"featured\":\"/rss.php?action=featuredproducts&type=rss\",\"featured_atom\":\"/rss.php?action=featuredproducts&type=atom\",\"search\":\"/rss.php?action=searchproducts&type=rss\",\"search_atom\":\"/rss.php?action=searchproducts&type=atom\"},\"blog\":\"/rss.php?action=newblogs&type=rss\",\"blog_atom\":\"/rss.php?action=newblogs&type=atom\"},\"contact_us_submit\":\"/pages.php?action=sendContactForm\",\"search\":\"/search.php\",\"compare\":\"/compare\",\"sitemap\":\"/sitemap.php\",\"subscribe\":{\"action\":\"/subscribe.php\"}},\"secureBaseUrl\":\"https://prikid.eu\",\"template\":\"pages/page\",\"user_id\":null,\"page_type\":\"page\",\"currency_code\":\"USD\"}").load();
 </script>
 
-<script type="text/javascript" src="https://cdn11.bigcommerce.com/r-029eaa2d34531978bd34cb727873737e31ec8e62/javascript/visitor_stencil.js"></script>
-<meta name="p:domain_verify" content="1ac8c5408a93f3f2ec03d10c5358ee7d">
-<script src="https://chimpstatic.com/mcjs-connected/js/users/78d2d27ceceb38a46cfcfd2d0/cb9d9edd2f956af6b67956a05.js"></script>
+<script type="text/javascript" src="https://cdn11.bigcommerce.com/r-0d517b734352cd1453bef0ad783d70f28a631526/javascript/visitor_stencil.js"></script>
+
 <!-- snippet location footer -->
 
 
