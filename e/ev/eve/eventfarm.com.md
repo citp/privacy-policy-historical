@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventfarm.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829230905id_/https%3A//eventfarm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventfarm.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126161210id_/https%3A//eventfarm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eventfarm
 
