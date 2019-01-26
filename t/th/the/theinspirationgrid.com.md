@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinspirationgrid.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226081110id_/http%3A//theinspirationgrid.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinspirationgrid.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126065820id_/http%3A//theinspirationgrid.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use – Inspiration Grid | Design Inspiration
 
@@ -76,11 +76,11 @@ Communication includes the delivery of our Website(s) via email, or the delivery
 To carry out other legitimate business purposes, as well as other lawful purposes.
 
 You may request the **deletion of your Personal Information**.  
-The Inspiration Grid takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete, and up to date. You may contact us directly at any time about deleting your Personal Information by emailing us at [connect@theinspirationgrid.com](mailto:connect@theinspirationgrid.com).
+The Inspiration Grid takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete, and up to date. You may contact us directly at any time about deleting your Personal Information by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#53303c3d3d36302713273b363a3d20233a2132273a3c3d34213a377d303c3e).
 
 #### For European Economic Area Residents
 
-If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us please contact us at [connect@theinspirationgrid.com](mailto:connect@theinspirationgrid.com).
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us please contact us at [[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)](mailto:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)).
 
 #### Email Addresses
 
