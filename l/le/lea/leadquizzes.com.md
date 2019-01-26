@@ -1,76 +1,168 @@
-> *The following text is extracted and transformed from the leadquizzes.com privacy policy that was archived on 2017-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170822002234id_/https%3A//www.leadquizzes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadquizzes.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126080444id_/https%3A//www.leadquizzes.com/privacy-policy) for the most accurate reproduction.*
 
 # LeadQuizzes | Privacy Policy
 
-#### 1\. Scope of the Privacy Policy
+#### Privacy Policy
 
-This Privacy Policy includes how Yazamo LLC (“Yazamo”), who created and operate [www.leadquizzes.com](https://www.leadquizzes.com/) (“Leadquizzes.com” or “the Site”), treats personal information or data that Yazamo gathers when you are on the Site and when you use the Site’s services (“the Services”).  
-By using the Site and its Services, you agree to by bound by this Privacy Policy.  
-Yazamo takes your privacy seriously and have fundamental guidelines that will be followed at all time:
+We at Yazamo LLC respect the privacy of your personal information and, as such, make every effort to ensure your information is protected and remains private. As the owner and operator of www.leadquizzes.com (the "Website") and any mobile application that we may make available to you now or in the future (the "App"), hereafter referred to in this Privacy Policy as "LeadQuizzes", "us", "our" or "we", we have provided this Privacy Policy to explain how we collect, use, share and protect information about the users of our Website and mobile App (collectively referred to as “user” or “you”).  For the purposes of this Agreement and our Terms of Service, any use of the terms "LeadQuizzes", "us", "our" or "we" includes Yazamo LLC, without limitation. We will not rent, sell, lease or barter your personal information, data or email address to anyone unless you grant us explicit permission for this information to be shared, such as with a third party service provider or a sponsor.
 
-  * We do not keep your personal data, unless required to undertake the Services;
-  * We do not disclose or sell your personal information to any third-party, unless we are required to do so by law or to protect our rights;
-  * We do not require you to disclose personal information to us unless truly necessary to undertake the Services;
-  * We shall keep your data on a secure server;
-  * We shall allow you to control what information is public and what is kept private;
-  * We shall undertake all reasonable and lawful requests to delete or correct your data.
+This Privacy Policy will inform you about the types of personal data we collect, the purposes for which we use the data, the ways in which the data is handled and your rights with regard to your personal data. Furthermore, this Privacy Policy is intended to satisfy the obligation of transparency under the EU General Data Protection Regulation 2016/679 ("GDPR") and the laws implementing GDPR. For the purpose of this Privacy Policy the Data Controller of personal data is Yazamo LLC and our contact details are set out in the Contact section at the end of this Privacy Policy. Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
+
+For purposes of this Privacy Policy, "Your Information" means information about you, which may be of a confidential or sensitive nature and may include personally identifiable information ("PII") and/or financial information. PII means individually identifiable information that would allow us to determine the actual identity of a specific living person, while sensitive data may include information, comments, content and other information that you voluntarily provide.
+
+LeadQuizzes collects information about you when you use our Website or App to access our services, and other online products and services (collectively, the “Services”) and through other interactions and communications you have with us. The term Services includes, collectively, various applications, websites, widgets, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy.
+
+We may change this Privacy Policy from time to time. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site and in the App. Those changes will go into effect on the "Last updated" date shown at the end of this Privacy Policy. By continuing to use the Site or Services, you consent to the revised Privacy Policy. We encourage you to periodically review the Privacy Policy for the latest information on our privacy practices.
+
+**BY ACCESSING OR USING OUR SERVICES, YOU CONSENT TO THE COLLECTION, TRANSFER, MANIPULATION, STORAGE, DISCLOSURE AND OTHER USES OF YOUR INFORMATION (COLLECTIVELY, "USE OF YOUR INFORMATION") AS DESCRIBED IN THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR LEADQUIZZES WHICH MAY BE ACCESSED HERE (https://www.leadquizzes.com/terms-of-services).** **IF YOU DO NOT AGREE WITH OR CONSENT TO THIS PRIVACY POLICY AND OUR TERMS OF SERVICE YOU MAY NOT ACCESS OR USE OUR SERVICES.**
+
+  1. **Children's Privacy**
+    1. Our Services are intended for users who are at least the age of majority in their state of residence. Furthermore, LeadQuizzes does not knowingly collect personally identifiable information (PII) from persons under the age of 13. If you are under the age of 13, please do not provide us with information of any kind whatsoever. If you have reason to believe that we may have accidentally received information from a child under the age of 13, please contact us immediately at support@leadquizzes.com. If we become aware that we have inadvertently received Personal Information from a person under the age of 13, we will delete such information from our records.
+  2. **Information Provided By You**
+    1. We collect information you provide directly to us, such as when you request information, create or modify your personal account, request Services, order a subscription to our Services, complete a LeadQuizzes form, survey, quiz or application, contact customer support, make a purchase, join or enroll for an event or otherwise communicate with us in any manner. This information may include, without limitation: name, date of birth, e-mail address, physical address,  business address, phone number or other personal information you choose to provide.
+
+  3. **Information Collected Through Your Use Of Our Services**
+    1. The following are situations in which you may provide Your Information to us: 
+      1. When you fill out forms or fields through our Services;
+      2. When you provide responses to a survey;
+      3. When you answer questions on a quiz;
+      4. When you register for an account with our Service;
+      5. When you create a subscription for our Services;
+      6. When you join or enroll in an event through our Services;
+      7. When you order services or products from, or through our Service;
+      8. When you sign up for any newsletters or other materials through our Services;
+      9. When you provide information to us through a third-party application, service or Website;
+      10. When you communicate with us or request information about us or our products or Services, whether via email or other means;
+      11. When you participate in any of our marketing initiatives, including, contests, events, or promotions; and
+      12. When you participate in forums, reviews or provide user generated content or other submissions. 
+
+The following are situations in which you may provide Your Information to us:
+
+We also automatically collect information via the Website or App through the use of various technologies, including, but not limited to cookies and pixel tags (explained below). We may collect your IP address, browsing behavior and device IDs. This information is used by us in order to enable us to better understand how our Services are being used by visitors and allows us to administer and customize the Services to improve your overall experience.
+
+  4. **Information Collected From Other Sources**
+    1. We may also receive information from other sources and combine that with information we collect through our Services. For example if you choose to link, create, or log in to your LeadQuizzes account with a social media service, e.g. LinkedIn, Facebook or Twitter, or a payment provider, e.g. Apple Pay or Google Wallet, or if you engage with a separate App or Website that uses our API, or whose API we use, we may receive information about you or your connections from that Site or App. This includes, without limitation, profile information, profile picture, gender, user name, user ID associated with your social media account, age range, language, country, friends list, and any other information you permit the social network to share with third parties. The data we receive is solely dependent upon your privacy settings with the social network.
+  5. **Information Third Parties Provide**
+    1. We may collect information about you from sources other than you, such as from social media websites (i.e., Facebook, LinkedIn, Twitter or others), blogs, other users and our business partners.
+  6. **Cookies, Log Files and Anonymous Identifiers  **
+    1. We collect information about how you interact with our Services, preferences expressed, and settings chosen. We gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or App/Site functionality, and to document your consent to receiving products, services or communications from us or our partners. If we link such information with personally identifiable information in a manner that identifies a particular individual, then we will treat all such information as PII for purposes of this Privacy Policy.
+    2. “Cookies” are text-only pieces of information that a website transfers to an individual’s hard drive or other website-browsing equipment for record-keeping purposes. Cookies allow the Site to remember important information that will make your use of the site more convenient. A cookie will typically contain the name of the domain from which the cookie has come, the “lifetime” of the cookie, and a randomly generated unique number or other value. Certain cookies may be used on the Site regardless of whether you are logged in to your account or not.
+    3. Session Cookies are temporary cookies that remain in the cookie file of your browser until you leave the Site.
+    4. Persistent Cookies remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie).
+    5. When we use session cookies to track the total number of visitors to our Site, this is done on an anonymous aggregate basis (as cookies do not in themselves carry any personal data).
+    6. We may also employ cookies so that we remember your computer when it is used to return to the Site to help customize your LeadQuizzes web experience. We may associate personal information with a cookie file in those instances.
+    7. We use cookies to help us know that you are logged on, provide you with features based on your preferences, understand when you are interacting with our Services, and compile other information regarding use of our Services.
+    8. Third parties with whom we partner to provide certain features on our Site or to display advertising based upon your Web browsing activity use cookies to collect and store information.
+    9. Our website may use remarketing services, such as Google AdWords to advertise on third party websites to previous visitors to our Site. It could mean that we advertise to previous visitors who haven’t completed a task on our site. This could be in the form of an advertisement on the Google search results page or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on your past visits to our Website. Any data collected will be used in accordance with our own privacy policy, as well as Google's privacy policies.
+    10. You may opt-out of Google Analytics for Display Advertisers including AdWords and opt-out of customized Google Display Network ads by visiting the Google Ads Preferences Manager. To provide website visitors more choice on how their data is collected by Google Analytics, Google has developed an Opt-out Browser add-on, which is available by visiting Google Analytics Opt-out Browser Add-on, to enable you to opt-out of Google’s programs.
+    11. You can control the use of cookies at the individual browser level. Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. You can easily delete and manage any cookies that have been installed in the cookie folder of your browser by following the instructions provided by your particular browser manufacturer. Consult the documentation that your particular browser manufacturer provides. You may also consult your mobile device documentation for information on how to disable cookies on your mobile device. If you reject cookies, you may still use our Website or App, but your ability to use some features or areas of our Service may be limited.
+    12. LeadQuizzes cannot control the use of cookies by third parties (or the resulting information), and use of third party cookies is not covered by this policy.
+  7. **Device Information**
+    1. When you use our Services through your computer, mobile phone or other device, we may collect information regarding and related to your device, such as hardware models and IDs, device type, operating system version, the request type, the content of your request and basic usage information about your use of our Services, such as date and time. In addition, we may collect information regarding application-level events and associate that with your account to provide customer service. We may also collect and store information locally on your device using mechanisms such as browser web storage and application data caches.
+
+  8. **Location Information**
+    1. When you use the Services we may collect your precise location data. We may also derive your approximate location from your IP address.
+
+  9. **Call and SMS Data**
+    1. In connection with providing Service, we may receive call data, including the date and time of the call or SMS message, the parties phone numbers, and the content of the SMS message. You consent to the receipt, collection and storage of this information.
+
+  10. **Protective Measures We Use**
+    1. We protect your information using commercially reasonable technical and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls. Although we take measures to secure your information, we do not promise, and you should not expect, that your personal information, or searches, or other information will always remain secure. We cannot guarantee the security of our information storage, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet including, without limitation, email and text transmissions. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
+
+  11. **Payment Information**
+    1. LeadQuizzes uses a third party payment processing gateway to collect, store and process payment information. LeadQuizzes does not store this information on our Website or servers.
+
+  12. **The Legal Basis For Collection and Processing Your Personal Information**
+    1. The legal basis upon which we rely for the collection and processing your Personal Information under the GDPR are the following:
+
+      1. When signing up to use our Services, you must give explicit consent allowing LeadQuizzes to provide you with our Services and generally to process your information in accordance with this Privacy Policy; and to the transfer of your personal data to other jurisdictions including, without limitation, the United States;
+      2. It is necessary for entering into, or performing, the obligations of a contract between you and LeadQuizzes, including, without limitation, the Terms of Service agreement which may be accessed by you here (https://www.leadquizzes.com/terms-of-services) and any subscription for our Services that you order;
+      3. It is necessary for our legitimate interests in the proper administration of our website and business; analyzing the use of the website and our Services; assuring the security of our website and Services; maintaining back-ups of our databases; and communicating with you;
+      4. It is necessary for our legitimate interests in the protection and assertion of our legal rights, and the legal rights of others, including you;
+      5. It is necessary for our compliance with certain legal provisions which may require us to process your personal data. By way of example, and without limitation, we may be required by law to disclose your personal data to law enforcement or a regulatory agency.
+  13. **How We Use Information We Collect**
+    1. Our primary purpose in collecting, holding, using and disclosing your Information is for our legitimate business purposes and to provide you with a safe, smooth, efficient, and customized experience. We will not rent, sell, lease or barter your information to anyone unless you grant us explicit permission for this information to be shared.
+
+**We will use this information in order to:**
+
+      1. Provide users with our Services and customer support including, but not limited to, confirming emails related to our services, reminders, confirmations, requests for information and transactions.
+      2. Contact you and provide you with information.
+      3. Analyze, improve and manage our Services and operations.
+      4. Resolve problems and disputes, and engage in other legal and security matters.
+      5. Enforce our Terms of Service and any terms and conditions of any subscription for our Services.
+
+**Additionally, we may use the information we collect about you to:**
+
+      1. Send you communications we think will be of interest to you, including information about products, services, promotions, news, and events of LeadQuizzes and other companies, where permissible and according to local applicable laws.
+      2. Display advertising, including advertising that is targeted to you or other users based on your location, interests, as well as your LeadQuizzes activities.
+      3. Verify your identity and prevent impersonation, spam or other unauthorized or illegal activity including, without limitation, infringement of intellectual property rights of third parties.
+      4. We may transfer the information described in this Privacy Policy to, and process and store it in, the United States and other countries, some of which may have less protective data protection laws than the region in which you reside. Where this is the case, we will take appropriate measures to protect your personal information in accordance with this Privacy Policy.
+  14. **How We Share Information We Collect**
+    1. We may share the information we collect about you as described in this Privacy Policy or as described at the time of collection or sharing, including as follows: 
+      1. With third party Service Providers to enable them to provide the Services you request;
+      2. With the general public if you submit content in a public forum, such as your reviews, comments or other features of our Services that are viewable by the general public;
+      3. With third parties with whom you choose to let us share information, for example other websites or apps that integrate with our API or Services, or those with an API or Service with which we integrate.
+      4. With LeadQuizzes subsidiaries and affiliated entities that provide services or conduct data processing on our behalf, or for data verification, data centralization and/or logistics purposes;
+      5. With affiliated entities that provide payment processing services on our behalf;
+      6. With vendors, consultants, marketing partners, and other service providers who need access to such information to carry out work on our behalf;
+      7. In response to a request for information by a competent authority if we believe disclosure is in accordance with, or is otherwise required by, any applicable law, regulation, or legal process;
+      8. With law enforcement officials, government authorities, or other third parties if we believe your actions are inconsistent with our user agreements, Terms of Service, or policies, or to protect the rights, property, or safety of LeadQuizzes or others;
+      9. In connection with, or during negotiations of, any merger, sale of company assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or into another company;
+      10. If we otherwise notify you and you consent to the sharing; and
+      11. In an aggregated and/or de-identified form which cannot reasonably be used to identify you. We only use such data in the aggregate form and our analytical services do not record any personal information.
+    2.  We may disclose Your Information: 
+      1. To any person who, in our reasonable judgment, is authorized to receive Your Information as your agent, including as a result of your business dealings with that person (for example, your attorney);
+      2. To our third-party vendors and service providers so that they may provide support for our internal and business operations, including for the processing of payments, handling of data processing, data verification, data storage, surveys, research, internal marketing, delivery of promotional, marketing and transaction materials, and our Services maintenance and security. These companies are authorized to use Your Information only as necessary to provide these services to us and are contractually obligated to keep Your Information confidential;
+      3. To third parties when you engage in certain activities through our Services that are sponsored by them, such as purchasing products or services offered by a third party, electing to receive information or communications from a third party, or electing to participate in contests, sweepstakes, games or other programs sponsored, in whole or in part, by a third party. When we disclose Your Information to these third parties, Your Information will become subject to the information use and sharing practices of the third party, and the third party will not be restricted by this Privacy Policy with respect to its use and further sharing of Your Information;
+      4. As required by law or ordered by a court, regulatory, or administrative agency;
+      5. As we deem necessary, in our sole discretion, if we believe that you are violating any applicable law, rule or regulation, or are otherwise interfering with another's rights or property, including, without limitation, our rights or property;
+      6. If requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency;
+      7. To enforce our Terms of Service, this Privacy Policy, and any other applicable agreements and policies;
+      8. To enforce or protect our legal rights.
+  15. **Sharing Information With Law Enforcement**
+    1. LeadQuizzes is committed to cooperating with law enforcement while respecting each individual’s right to privacy. If LeadQuizzes receives a request for user account information from a government agency investigating criminal activity, we will review the request to be certain that it satisfies all legal requirements before releasing information to the requesting agency.
+    2. Furthermore, under 18 U.S.C. §§ 2702(b)(8) and 2702(c)(4) (Voluntary Disclosure Of Customer Communications or Records), LeadQuizzes may disclose user account information to law enforcement, without a subpoena, court order, or search warrant, in response to a valid emergency when we believe that doing so is necessary to prevent death or serious physical harm to someone. LeadQuizzes will not release more information than it prudently believes is necessary to prevent harm in an emergency situation.
+  16. **Social Media Sharing**
+    1. Our Services may now or in the future integrate with social sharing features and other related tools which let you share actions you take on our Services with other Apps, sites, or media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the social sharing service. Please refer to the privacy policies of those social sharing services for more information about how they handle the data you provide to or share through them.
+    2. Any information or content that you voluntarily disclose for posting publicly to our Service or the social sharing service becomes available to the public, as controlled by any applicable privacy settings that you set with the social sharing service. Once you have shared User Content or made it public, that User Content may be re-shared by others. If you remove information that you posted to our Service or the social sharing service, copies may still remain viewable in cached and archived pages, or if other users or third parties, using our Service or the social sharing service, have re-shared, copied or saved that User Content.
+  17. **Analytic Services Provided By Others**
+    1. We may allow others to provide audience measurement and analytics services for us, to serve advertisements on our behalf across the Internet, and to track and report on the performance of those advertisements. These entities may use cookies, web beacons, software development kits (SDKs), and other technologies to identify your device when you visit our Site and use our Services, as well as when you visit other online sites and services.
+
+  18. **Links to Third-Party Websites**
+    1. Our Services, as well as the email messages sent with respect to our Services, may contain links or access to websites operated by third parties that are beyond our control. Links or access to third parties from our Services are not an endorsement by us of such third parties, or their websites, applications, products, services, or practices. We are not responsible for the privacy policy, terms and conditions, practices or the content of such third parties. These third-parties may send their own cookies to you and independently collect data.
+    2. If you visit or access a third-party Website, application or other property that is linked or accessed from our Services, we encourage you to read any privacy policies and terms and conditions of that third party before providing any personally identifiable information. If you have a question about the terms and conditions, privacy policy, practices or contents of a third party, please contact the third party directly.
+  19. **Do Not Track Settings**
+    1. Some web browsers may give you the ability to enable a "do not track" feature that sends signals to the websites you visit, indicating that you do not want your online activities tracked. This is different than blocking or deleting cookies, as browsers with a "do not track" feature enabled may still accept cookies. There is currently no industry standard for how companies should respond to "do not track" signals, although one may develop in the future. We do not respond to "do not track" signals at this time; if we do so in the future, we will describe how in this Privacy Policy.
+
+  20. **International Privacy Practices**
+    1. In order to provide our products and services to you, we may send and store your personal information outside of the country where you reside or are located, including to the United States. Accordingly, if you reside or are located outside of the United States, your personal information may be transferred outside of the country where you reside or are located, including countries that may not, or do not, provide the same level of protection for your personal information. We are committed to protecting the privacy and confidentiality of personal information when it is transferred. If you reside or are located within the European Economic Area and such transfers occur, we take appropriate steps to provide the same level of protection for the processing carried out in any such countries as you would have within the European Economic Area to the extent feasible under applicable law. By using and accessing our products and services, users who reside or are located in countries outside of the United States agree and consent to the transfer to and processing of personal information on servers located outside of the country where they reside, and assume the risk that the protection of such information may be different and may be less protective than those required under the laws of their residence or location.
+
+  21. **Account Information**
+    1. You may correct your account information at any time by logging into your online account. If you wish to cancel your account, please email us at support@leadquizzes.com Please note that in some cases we may retain certain information about you as required by law, or for legitimate business purposes to the extent permitted by law. For instance, if you have a standing credit or debit on your account, or if we believe you have committed fraud or violated our Terms of Service, we may seek to resolve the issue before deleting your information.
+
+  22. **Promotional Information Opt Out**
+    1. You may opt out of receiving promotional messages from us at any time by following the instructions in those messages. If you opt out, we may still send you non-promotional communications, such as those about your account, about Services you have requested, or our ongoing business relations.
+
+  23. **Your Access and Rights to Your Personal Information**
+    1. You have certain rights in relation to Personal Information we hold about you. You can exercise any of the following rights by contacting us using any of the methods in the Contact section below.
+
+      1. **Right to Access.** You have the right to access information held about you for the purpose of viewing and in certain cases updating or deleting such information. Furthermore, if you prefer that LeadQuizzes does not share certain information as described in this Privacy Policy, you can direct LeadQuizzes not to share that information. We will comply with an individual’s requests regarding access, correction, sharing and/or deletion of the personal data we store in accordance with applicable law. To make changes to your account affecting your personal information contact us at the email address in our Contact section below. For any deletion, non-sharing or update request, we will make the changes as soon as practicable, however this information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why.
+      2. **Right of Correction or Completion.** If personal information we hold about you is not accurate, out of date or incomplete, you have a right to have the data corrected or completed. To make corrections to your account please contact us at the email address in our Contact section below.
+      3. **Right of Deletion.** In certain circumstances, you have the right to request that personal information we hold about you is deleted. If we cannot delete the information you want, we will let you know and explain why. To request information deletion please contact us at the email address in our Contact section below.
+      4. **Right to Object To or Restrict Processing.** In certain circumstances, you have the right to object to our processing of your personal information. For example, you have the right to object to use of your personal information for direct marketing purposes. Similarly, you have the right to object to use of your personal information if we are processing your information on the basis of our legitimate interests and there are no compelling legitimate grounds for our processing which supersede your rights and interests. You may also have the right to restrict our use of your personal information, such as in circumstances where you have challenged the accuracy of the information and during the period where we are verifying its accuracy. To object to or restrict processing please contact us at the email address in our Contact section below.
+      5. **Right to Data Portabilit** You have the right to be provided with a copy of the information we maintain about you in a structured, machine-readable and commonly used format. To receive a copy of the information we maintain about you please contact us at the email address in our Contact section below.
+      6. **Withdrawal of Consent.** If you have given your consent to us to process and share your Personal Information after we have requested it, you have the right to withdraw your consent at any time. To withdraw your consent please contact us at the email address in our Contact section below.
+  24. **Your California Privacy Rights**
+    1. California Civil Code Section 1798.83 entitles California residents to request information concerning whether a business has disclosed Personal Information to any third parties for their direct marketing purposes. California residents may request and obtain from us once a year, free of charge, information about the personal information, if any, we disclosed to third parties for direct marketing purposes within the immediately preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information within the immediately preceding calendar year.
+    2. If you are a California resident and would like to make such a request, please submit your request in writing to: support@leadquizzes.com
+  25. **Our Information Retention Policy**
+    1. Unless you request that we delete certain information, we retain the information we collect for as long as your account is active or as needed to provide you services. Following termination or deactivation of your account, we will retain information for at least 3 years and may retain the information for as long as needed for our business and legal purposes.
+
+  26. ****Contact Us****
+
+If you have any questions or if you would like to contact us about our processing of your personal information, including exercising your rights as outlined above, please contact us by any of the methods below. When you contact us, we will ask you to verify your identity.
+
+Contact name: Support, Email: [support@leadquizzes.com,](mailto:support@leadquizzes.com,) Telephone: (602) 638 -1803, Our office address: 1425 N. 1st St. Ste. 100 Phoenix, AZ 85004
 
 
 
-#### 2\. Personal Information
-
-Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We only collect personal information that is relevant to the purpose of our website.  
-Yazamo may collect personally identifying information during the registration process, including name, email address, phone number, address, store preferences, billing information (see section on “Billing Information” below) etc. We may use information collected for you in one or more of the following ways:
-
-  * To contact you via email, telephone, text or chat in a manner required by law
-  * To inform you about new products or promotional offers, or other opportunities which we feel will be of interest to you, and to provide advertisements to you through sites, email messages, text messages, applications, or other methods of communication
-
-
-
-Yazamo reserves the right to track IP addresses of its users.  
-You can object to our use of your personal information, however by doing so may prevent us from providing you with the Services.
-
-#### 3\. Disclosure of your Personal Information
-
-Yazamo discloses your personal information only to employees, contractors and partner companies, but only where:
-
-  * Disclosure of your personal information is required to perform the Services; and
-  * The party receiving your information has agreed to keep it confidential.
-
-
-
-All personal information is kept confidential unless required to do so by law, such as subpoena, or to protect Yazamo’s rights.  
-Yazamo shall never sell your personal information.  
-Yazamo also may, on occasion, collect user preference information (such as items clicked from emails). We may also store information users knowingly and willingly provide such as feedback forms, suggestions, and emails to the Yazamo website. Yazamo may use such information for its internal purposes, including, but not limited to, email and web design optimizations, new features, and editorial and feedback purposes.  
-Yazamo may send you emails to let you know about our newest and best deals available on the Site. If you are unhappy about receiving these, you can unsubscribe. To unsubscribe, click on the unsubscribe link in any Yazamo email. You will be taken to a confirmation page. Click on the confirm link and you will be unsubscribed.  
-Yazamo shall take all reasonable measures to protect your data against theft, use, unauthorized use, unauthorized alteration and destruction.
-
-#### 4\. Anonymous Information
-
-Yazamo may also, on occasion, collect user preference information (such as items clicked from emails). We may also store information users knowingly and willingly provide such as feedback forms, suggestions, and emails to the Yazamo website. Yazamo may use such information for its internal purposes, including, but not limited to, email and web design optimizations, new features, and editorial and feedback purposes.  
-Like most websites we may collect anonymous information about you, made available by web browsers and servers, such as browser type, language preference, referring site, and the date and time of each visitor request. None of this data is personally identifiable to you. This data may then be aggregated across all users in order to determine and target demographics for marketing and advertising purposes.  
-All user information stored by Yazamo is considered confidential and will not be shared with outside parties except as described herein. Yazamo may share aggregated results of preferences for all users for marketing and advertising purposes, however these shall be anonymous.
-
-#### 5\. Cookies
-
-Cookies are alphanumeric identifiers that we transfer to your computer through your web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Yazamo cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is.  
-Yazamo also uses a Google Analytics cookie to collect information about your use of the Site in order to optimise our users’ experience and use of the Services. Visitors can opt out of the Google Analytics features by using the Google Analytics Opt-out Browser Add-on available here.  
-The “help” portion of the toolbar on many browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of Yazamo’s most attractive features.
-
-#### 6\. Security
-
-Your Site account information is protected by a password for your privacy and security. You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.
-
-#### 7\. Billing Information
-
-Yazamo uses a third party payment gateway to collect, store and process billing information. Yazamo does not store this information on its Site or servers.
-
-#### 8\. Transfer
-
-If Yazamo, or anything it owned, were acquired, or Yazamo went out of business, your personal information may be transferred to a third party (“the Transfer”). By using the Site and Services and therefore agreeing to this Privacy Policy, you agree that in the event of a Transfer, you agree that the third party receiving your personal information may continue to use the data as set out herein.
-
-#### 9\. Modifications to the Privacy Policy
-
-Yazamo reserves the right to change this policy from time to time, however, all changes will be posted to this Privacy Policy at the time such changes are made. The date of the most recent revisions will appear on this page so please check back. Please note that continued access of Yazamo will constitute your acceptance of any changes or revisions to the Privacy Policy.
-
-If you have concerns or questions about any aspect of the Yazamo Privacy Policy, please e-mail us. We welcome your questions and feedback. Please send all emails to: [support@leadquizzes.com](mailto:support@leadquizzes.com)
