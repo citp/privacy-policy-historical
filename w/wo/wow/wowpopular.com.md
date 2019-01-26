@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowpopular.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213095957id_/https%3A//www.wowprogress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowpopular.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126181425id_/https%3A//www.wowprogress.com/privacy) for the most accurate reproduction.*
 
 # WoWProgress.com Privacy Policy :: WoWProgress - World of Warcraft Rankings
 
