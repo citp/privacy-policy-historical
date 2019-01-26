@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theadultman.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209063624id_/https%3A//www.theadultman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theadultman.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126041916id_/https%3A//www.theadultman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer | The Adult Man
 
