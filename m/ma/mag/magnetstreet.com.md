@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magnetstreet.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008002548id_/https%3A//www.magnetstreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnetstreet.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126170503id_/https%3A//www.magnetstreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,8 +6,8 @@
 
 To better protect your privacy, MagnetStreet provides this Privacy Policy ("Policy") explaining its online information practices and the choices you can make about the way your information is collected and used. This Policy applies to all of the products and services offered through MagnetStreet.com ("Website"). If you have any questions about this Policy, please contact us through this Website, or write to us at:   
 MagnetStreet  
-285 West Loop Road  
-Wheaton IL 60189  
+280 Gerzevske Ln  
+Carol Stream, IL 60188, USA  
 Attention: Privacy Officer.
 
 MagnetStreet adheres to strict privacy principles with respect to the data collection practices on this Website, and complies with the Federal Trade Commission guidelines and all applicable U.S. federal and state laws and regulations. 
@@ -107,9 +107,7 @@ If users have any questions or suggestions regarding this Policy, please contact
 Phone: 800-788-8633  
 Fax: (763) 786-9393  
 Email: [info@magnetstreet.com](mailto:info@magnetstreet.com)  
-Postal Address: 285 West Loop Road, Wheaton IL 60189  
-Web site URL: www.MagnetStreet.com
 
-EFFECTIVE DATE   
-October 15, 2008  
-1663342v1/12755-0001 
+
+Postal Address: 280 Gerzevske Ln, Carol Stream, IL 60188, USA  
+Web site URL: www.MagnetStreet.com
