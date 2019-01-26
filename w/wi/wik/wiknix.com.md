@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiknix.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012000955id_/https%3A//www.wiknix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiknix.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126072109id_/https%3A//www.wiknix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Wiknix
 
@@ -30,7 +30,7 @@ To improve the user experience of our website.
 
 We use HTTPS (secure server) for protection of users information. When users provide us their information, their protection and security becomes our prime duty. We take several measures to keep your data safe and so feel free because the information you provide is always safe and protected by us.
 
-### Information we share
+### 
 
 We don’t share a single information provided by the users to anyone and so your information is within our four walls of a room. So, please be free to share your information on our site and to use our website.
 
