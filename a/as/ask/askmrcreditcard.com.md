@@ -1,85 +1,79 @@
-> *The following text is extracted and transformed from the askmrcreditcard.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032657id_/https%3A//www.askmrcreditcard.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmrcreditcard.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127005345id_/https%3A//www.askmrcreditcard.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy of AskMrCreditCard.com
+# Privacy Policy - Ask Mr Credit Card
 
-Effective Date: March 15 , 2012
+Effective Date: May 25 , 2018
 
-This privacy policy describes how Smart Finance LLC collects and uses the personal information you provide on our Web site: www.askmrcreditcard.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy describes how www.askmrcreditcard.com collects and uses the personal information you provide on our site. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. Ask Mr Credit Card is a US based credit card review site and vast majority of our site visitors are from the US.
 
-**Collection and Use of Personal Information**
+##  Types of Personal Data We Collect
 
-We collect personal information from you such as email address and date of birth.  
-We use this information:  
-For registration purposes  
-To send you requested product or service information  
-To send you a newsletter  
-To respond to your questions and concerns  
-To allow you to correspond with other members
+###  Information You Provide us
 
-We may also disclose your personal information as required by law such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, if Smart Finance LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so.
+**Newsletter Sign Ups**
 
-**Information Sharing**
+If you choose to sign up for our newsletters, you will have to provide your email address and first name (so we can actually send you the newsletter and address you by your first name). By signing up for our newsletter, you acknowledge that you are voluntarily providing us with your email address in return for receiving our newsletters.
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. We may provide your personal information to companies that provide services to help us with our business activities such as forum hosting provider and email marketing. These companies are authorized to use your personal information only as necessary to provide these services to us.
+**Comments on our blog**
 
-**Choice/Opt-Out**
+If you leave a comment on our blog (https://www.askmrcreditcard.com/news/), we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. Visitor comments may be checked through an automated spam detection service.
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at contactus@askmrcreditcard.com .
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-**Cookies and Other Tracking Technologies**
+**Contact Forms**
 
-**_Cookies_**  
-A cookie is a small text file that is stored on a userâ��s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser.
+If you choose to contact us via our contact forms, you will be required to leave your email address (how else are we going to get back or respond to you?).
 
-**_Third Party Cookies_**  
-The use of cookies by third parties is not covered by our privacy policy. We do not have access or control over these cookies.
+###  Information We Collect Automatically When You Use Our Site
 
-**_Clear Gifs (Web Beacons/Web Bugs)_**  
-Our third party tracking utility partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a userâ��s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customersâ�� personally identifiable information.
+When you use our site, we automatically collect non-identifiable information about you, including:
 
-**_Log Files_**  
-As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+**Log Information** \- we may collect system log information about your use of the Site, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Site.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track usersâ�� movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
+**Device Information** \- we may collect information about the computer or mobile device you use to access our Site, including the hardware model, operating system and version, unique device identifiers and mobile network information.
 
-**_Flash LSOs_**  
-We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit.
+**Information collected by Cookies and Other Tracking Tecnologies** \- we and our service providers use various technologies to collect information, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Site and your experience, see which areas and features of our Site are popular and count visits. Web beacons are electronic images that may be used in our services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness.
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:  
-http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118
+The primary way which we collect these information is through the use of Google Analytics.
 
-**Links to Other Web Sites**
+###  Embedded Contents from Other Sites and Links to Other sites
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Smart Finance LLC. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-**Additional Policy Information**
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-**_Social Media (Features) and Widgets_**
+##  Why We Collect Personal Data?
 
-Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+We collect your email address if you choose to subscribe to our free newsletters. When you comment on our blog post, providing your email address will ensure that you could get email notification when someone replies to your comments. We also need your email address when you contact us via our contact form in order to respond to you.
 
-**_Facebook Connect or other OpenID provider_**  
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+We use google analytics to obtain an overall view of our visitors habits and visitor volumes. This information is used to help us improve our website. For example, knowing how long you spend on a web page can tell us if the page was useful to you. If people spend very little time on our pages, it is perhaps a signal to us to improve the content. Knowing how much time visitors spend on the same page between a desktop or mobile device can help us make our website design better.
 
-**_Public Forums_**  
-Our Web site offers publicly accessible blogs, community forums or messaging service. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Furthermore, your date of birth and age may be displayed in several places on the forum. You may change your display setting by going to Edit Profile. To request removal of your personal information from our blog, community forum or messaging, contact us at contactus@askmrcreditcard.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+##  Your Choices - What rights you have over your data?
 
-**Access to Personally Identifiable Information**
+**Newsletter Unsubscribe**
 
-If your personal information changes, you may correct, delete inaccuracies or update your information by emailing us at contactus@askmrcreditcard.com or by contacting by postal mail at the contact information listed below. If you no longer desire our service, you may have your account deleted by emailing us at the address above. We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at above email address. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+You may unsubscribe to our newsletter anytime through the unsubscribe link in the email you receive. Alternatively, you can email us at contactform @ askmrcreditcard.com.
 
-**Security**
+**Comments**
+
+If you have left comments on our blog, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+**Google Analytics Opt Out**
+
+You can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under https://tools.google.com/dlpage/gaoptout?hl=en-GB#. You may disable the use of Google Analytics by using the link disable Google Analytics. This link creates an opt-out cookie which prevents the further processing of your data.
+
+**Disable Cookies**
+
+You may disable cookies by changing the settings in your browsers. However, our site uses cookies to enable certain functions to work. For example, in our category page, you may use our Filter and Sort functions to narrow down the type of credit cards you are looking for. You can also save cards to compare. Disabling cookies will prevent these functions from working properly.
+
+##  **Security**
 
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-**Notification of Privacy Policy Changes**
+##  Notification of Privacy Policy Changes
 
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-**Contact Information**
+##  **Contact Information**
 
-You can contact us by writing or email us at the address below:  
-Smart Finance LLC  
-579 South Devon Avenue  
-Wayne, PA, United States 19087  
-Email: contactus@askmrcreditcard.com
+You can contact us by writing or email us at the address below: Ask Mr Credit Card 579 South Devon Avenue Wayne, PA, United States 19087 Email: contactus@askmrcreditcard.com 
