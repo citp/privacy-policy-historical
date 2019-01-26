@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metroshoes.net privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126152252id_/http%3A//www.metroshoes.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroshoes.net privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126064550id_/https%3A//www.metroshoes.net/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
