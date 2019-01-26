@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thickaccent.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118044654id_/http%3A//www.thickaccent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thickaccent.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126232953id_/https%3A//www.thickaccent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy -
 
 *Please read all of this Privacy Policy as well as the Terms and Conditions very carefully prior to commencing use of this website and on each and every occasion that you use this website in the future to check for updates.
 
