@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vinomofo.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223023452id_/https%3A//www.vinomofo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinomofo.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126110842id_/https%3A//www.vinomofo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Vinomofo Australia
 
