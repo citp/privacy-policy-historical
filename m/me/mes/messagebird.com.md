@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the messagebird.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128053345id_/https%3A//www.messagebird.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messagebird.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127214458id_/https%3A//www.messagebird.com/en/legal/privacy) for the most accurate reproduction.*
 
 # We are serious about privacy - MessageBird
 
 At MessageBird, we do everything in our power to protect your data and give you full control over your personal data on our platform. Our aim is that you always feel informed and empowered with respect to safeguarding your own privacy, and the privacy of your customers. As a Cloud Communications Platform as a Service (CPaaS), we process personal data in order to deliver our services. This privacy statement contains information about what data we collect, why we collect it, and how we handle that data.
 
-This version of our Privacy Statement has been updated to give you a better understanding of how we treat personal data and to call your attention to new features. The updated document is even more user-friendly and addresses new data protection regulations, including GDPR. You can view the previous statement [here](https://web.archive.org/en/legal/privacy/previous).
+This version of our Privacy Statement has been updated to give you a better understanding of how we treat personal data and to call your attention to new features. The updated document is even more user-friendly and addresses new data protection regulations, including GDPR. You can view the previous statement [here](https://web.archive.org/en/legal/privacy/previous/).
 
 MessageBird is a Cloud Communications Platform as a Service (CPaaS) that provides fast, reliable and innovative Voice, SMS, Chat, and RCS solutions with global reach. Our customers are generally companies that integrate our services in their business operations.
 
@@ -117,7 +117,7 @@ We do everything in our power to keep your data safe. We invest in state-of-the-
 
 Since all our accounts are password-, and possibly two-factor authentication, protected, the only person with access to your account should be you. If your login information is stolen or used without your permission, it's imperative you notify us immediately so we can secure your account. You can do so by sending an email to [privacy@messagebird.com](mailto:privacy@messagebird.com) with the subject 'Urgent: account credentials'.
 
-If you want to know more about the measures we take to keep your data secure, check out our [Security Statement](https://web.archive.org/en/security). It contains information about the industry standard, administrative, technical, physical, and organizational safeguards designed to prevent unauthorized access and use of personal data.
+If you want to know more about the measures we take to keep your data secure, check out our [Security Statement](https://web.archive.org/en/security/). It contains information about the industry standard, administrative, technical, physical, and organizational safeguards designed to prevent unauthorized access and use of personal data.
 
 How long we keep personal data depends on its nature and the purpose for which it was obtained. Personal data related to our services, such as telephone numbers, geographic data, and message body, have a default retention period of 6 months. We only keep information that can personally identify you for 12 months for marketing and sales purposes. Additionally, we are under an obligation to demonstrate compliance with the applicable national and EU financial and tax laws and regulations. To do so, Customer data related to the account such as name, email address, (company) address, (company) bank details and position within the company will be kept for a period up to 10 years.
 
@@ -320,4 +320,4 @@ Baarsjesweg 285
 
 The Netherlands
 
-Do you live in the USA, Singapore, Germany, China, Australia or in the UK? Check out our [local addresses](https://web.archive.org/en/contact#offices) if you prefer old-fashioned mail.
+Do you live in the USA, Singapore, Germany, China, Australia or in the UK? Check out our [local addresses](https://web.archive.org/en/contact#offices/) if you prefer old-fashioned mail.
