@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salsify.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914221356id_/https%3A//www.salsify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salsify.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127121512id_/https%3A//www.salsify.com/privacy-policy%3FhsLang%3Den-us) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ _Last Modified: August 20, 2018_
 
 * * *
 
-This is the privacy policy (“ **Privacy Policy** ”) that governs how Salsify Inc. and our affiliated companies (" **Salsify** ", " **we** ", " **our** " or " **us** "), use Personal Data (defined below) that we collect, receive and store about individuals in connection with the use of our website: [https://www.salsify.com/](https://web.archive.org/), and any other website that we operate (each, together with its sub-domains, content and services, a " **Site** "). 
+This is the privacy policy (“ **Privacy Policy** ”) that governs how Salsify Inc. and our affiliated companies (" **Salsify** ", " **we** ", " **our** " or " **us** "), use Personal Data (defined below) that we collect, receive and store about individuals in connection with the use of our website: [https://www.salsify.com/](https://web.archive.org/?hsLang=en-us), and any other website that we operate (each, together with its sub-domains, content and services, a " **Site** "). 
 
 You may choose whether or not to provide or disclose Personal Data in connection with your use of our Site. If you choose not to provide the Personal Data we request, you may still visit and use parts of our Site, but may be unable to access or use certain features, options, programs, and services.  Our Site may contain links to third-party websites and services that are not owned or controlled by Salsify. We are not responsible for the privacy practices or the content of third party websites, services and advertisements, and you visit them at your own risk.
 
@@ -47,7 +47,7 @@ We may receive and/or collect Personal Data in the following ways:
 
 When purchasing services on our Site, we may require you to provide financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using our services. We may also ask you to provide additional information, such as company size or industry.
 
-3.2. Personal Data You Provide To Third Parties On Our Site. Please note that we use certain third party service providers on our Site to enhance your experience or deliver certain services. These providers may collect Personal Data in performing their services and/or functions on our Site. For a list of the service providers, the types of services they provide to us, and a link to their privacy policies, please see [this page.](https://www.salsify.com/3party-service-providers-g6qr6253vbn)
+3.2. Personal Data You Provide To Third Parties On Our Site. Please note that we use certain third party service providers on our Site to enhance your experience or deliver certain services. These providers may collect Personal Data in performing their services and/or functions on our Site. For a list of the service providers, the types of services they provide to us, and a link to their privacy policies, please see [this page.](https://www.salsify.com/3party-service-providers-g6qr6253vbn?hsLang=en-us)
 
 3.3. Information Collected Automatically. Certain information on our Site is collected automatically by means of various software tools. We have a legitimate interest in using such information to assist in log-in, systems administration purposes, information security and abuse prevention and detection, to track user trends, and to analyze the effectiveness of our Site. Alone or in combination with other information, such automatically collected information may constitute Personal Data. Some of our service providers (described in Section 5, below) may use cookies or other methods to gather information regarding your use of our Site. Such third parties may use these cookies or other tracking methods for their own purposes by relating information about your use of our Site with any of your Personal Data that they may have. The use of such information by a third party depends on the privacy policy of that third party.  
 
@@ -124,7 +124,7 @@ If you submit or we collect Personal Data through our Site, then such Personal D
 
 We do not sell, lease, rent or otherwise disclose the Personal Data collected from our Site to third parties unless otherwise stated below or with your consent.
 
-5.1. Our Third Party Providers. We transfer Personal Data to our third party service providers to perform tasks on our behalf and to assist us in providing our Site. For a list of the service providers, the types of services they provide to us, and a link to their privacy policies, please see [this page](https://www.salsify.com/3party-service-providers-g6qr6253vbn). Such information may be transferred to other countries around the world. We use commercially reasonable efforts to only engage or interact with third party service providers and partners that post a privacy policy governing their processing of Personal Data. Notwithstanding the foregoing, we will comply with applicable laws regarding Personal Data transfers as well as any transfer restriction that is specified in an agreement between Salsify and a customer.
+5.1. Our Third Party Providers. We transfer Personal Data to our third party service providers to perform tasks on our behalf and to assist us in providing our Site. For a list of the service providers, the types of services they provide to us, and a link to their privacy policies, please see [this page](https://www.salsify.com/3party-service-providers-g6qr6253vbn?hsLang=en-us). Such information may be transferred to other countries around the world. We use commercially reasonable efforts to only engage or interact with third party service providers and partners that post a privacy policy governing their processing of Personal Data. Notwithstanding the foregoing, we will comply with applicable laws regarding Personal Data transfers as well as any transfer restriction that is specified in an agreement between Salsify and a customer.
 
 5.2 Business Partners. From time to time, we may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from us, we may share Personal Data collected in connection with your purchase or expression of interest with our joint promotion partner(s). We do not control our business partners’ use of Personal Data we collect, and their use of the information will be in accordance with their own privacy policies. We do not share Personal Data with business partners unless you specifically opt in to such sharing via an event registration form. If you do not wish for your Personal Data to be shared in this manner, you may choose not to opt in via event registration forms. 
 
@@ -144,7 +144,7 @@ We reserve the right to retain any Personal Data as long as the Personal Data ar
 
 7.1 Personal Data. If you have an account on our Site, we provide access to—and the ability to edit or delete—certain categories of Personal Data through the account. 
 
-If you would like to access, amend, erase, export (i.e., data portability), or object to or restrict the processing of Personal Data collected via our Site, you may submit a request via [this form](https://web.archive.org/personal-data-request), or write to us at:
+If you would like to access, amend, erase, export (i.e., data portability), or object to or restrict the processing of Personal Data collected via our Site, you may submit a request via [this form](https://web.archive.org/personal-data-request?hsLang=en-us), or write to us at:
 
 Salsify Inc., 
 
