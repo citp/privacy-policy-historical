@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altaro.com privacy policy that was archived on 2018-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181026123433id_/https%3A//www.altaro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altaro.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127090852id_/https%3A//www.altaro.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Altaro
 
