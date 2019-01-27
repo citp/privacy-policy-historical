@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestateexpress.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004101644id_/https%3A//www.realestateexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestateexpress.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127232418id_/https%3A//www.realestateexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Real Estate Express
 
@@ -14,7 +14,7 @@ We use a credit card processing company to bill users for the Services, includin
 
 Information confirming users’ completion of Real Estate Express courses is sent to the following states if the users reside in those states: Alabama, Arizona, Florida, Georgia, Illinois, Iowa, Kansas, Michigan, Missouri, Oklahoma, Tennessee, Virginia and Washington. This information is shared with the applicable state to provide the user credit with the relevant state licensing agency.
 
-In compliance with FERPA regulation 99.3, directory information (name, email address, phone number, registration date) may be shared with Partner Affiliate Members when a student enrolls through a Partner Affiliate’s website or uses a Partner Affiliate promotional code. For more information regarding our Partner Affiliate Member program, please [click here](https://www2.realestateexpress.com/affiliates/).
+In compliance with FERPA regulation 99.3, directory information (name, email address, phone number, registration date) may be shared with Partner Affiliate Members when a student enrolls through a Partner Affiliate’s website or uses a Partner Affiliate promotional code. For more information regarding our Partner Affiliate Member program, please [click here](https://www.realestateexpress.com/affiliates/).
 
 We may also disclose users’ personal information to third party service providers who provide services to us, such as data analysis, information technology, customer service, email delivery, auditing or consulting services, and other similar services.
 
