@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the builddirect.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823200116id_/https%3A//www.builddirect.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builddirect.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127180925id_/https%3A//www.builddirect.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # BuildDirect® - Flooring, Decking, Siding, Roofing, and More
 
-Last updated June 20th 2016
+Last updated October 2, 2018
 
 ### APPLICATION OF THIS POLICY
 
@@ -74,14 +74,13 @@ Like most other commercial websites, our website may monitor traffic patterns, s
 
 We use this information in order to assess the usage of our website and our marketing efforts, to send you tailored browser notifications with news and offers (with your consent), to optimize our website, and to monitor our site’s performance. We may provide such information to our website contractors for these purposes. We also may use a web analytics service or services on some pages to improve web design and usability. This may involve recording mouse clicks, mouse movements, scrolling activity as well as any text you type on our websites. BuildDirect does not track your browsing habits across websites which do not use the same services. 
 
-We work with ad content generation third parties such as Facebook, Google Analytics, and Adobe Analytics to display ads to our site prospects, on our behalf, across the Internet. They collect information about your visits to our website, and your interaction with our products and services. The anonymous information is collected through the use of cookies and pixel tags. We use cookies and other techniques to track your interactions with our website; some of these technologies keep tracking your behavior when cookies are disabled. Pixel tags are industry standard technology used by most major web sites. We use this website behaviour information for marketing purposes, system administration and also to identify problems and improve service.
+We work with ad content generation third parties such as Facebook, and Google Analytics to display ads to our site prospects, on our behalf, across the Internet. They collect information about your visits to our website, and your interaction with our products and services. The anonymous information is collected through the use of cookies and pixel tags. We use cookies and other techniques to track your interactions with our website; some of these technologies keep tracking your behavior when cookies are disabled. Pixel tags are industry standard technology used by most major web sites. We use this website behaviour information for marketing purposes, system administration and also to identify problems and improve service.
 
   * To review the privacy policy and opt out of Google Analytics program, visit the opt out of behavioral advertising link <https://support.google.com/ads/answer/2662922?hl=en>
   * To review the Facebook privacy policy on custom audience ads and opt out from the program visit <https://www.facebook.com/ads/website_custom_audiences/>
   * To review the Chango privacy policy and opt out of ads, visit <http://www.chango.com/privacy/opt-out/>
   * To review the Steelhouse privacy policy and opt out of ads, visit <http://www.steelhouse.com/opt-out/>
   * To review the Quantcast privacy policy and opt out of ads, visit <https://www.quantcast.com/company/opt-out>
-  * To review the Adobe Analytics Privacy Policy and opt out visit <http://www.adobe.com/privacy/analytics.html>
 
 
 
@@ -210,7 +209,7 @@ If any provision of this policy is held to be illegal or unenforceable, that pro
 
 Contact us:  
 BuildDirect.com Technologies Inc.  
-2200 401 West Georgia  
+1900-401 W. Georgia St.   
 Vancouver  
 British Columbia  
 V6B5A1  
