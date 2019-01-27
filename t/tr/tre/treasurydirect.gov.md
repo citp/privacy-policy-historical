@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203203002id_/https%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127013555id_/https%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy & Legal Notices
 
@@ -116,7 +116,7 @@ For jurisdiction and venue purposes:
 
 ### 3\. Regulations Governing Electronic Transactions.
 
-We have regulations governing electronic transactions, which are set out in [31 CFR part 370](http://www.access.gpo.gov/nara/cfr/waisidx_04/31cfr370_04.html) "Electronic Transactions and Transfers relating to Treasury Securities." These regulations generally apply as a matter of contract law. The regulations require you to:
+We have regulations governing electronic transactions, which are set out in [31 CFR part 370](https://www.govinfo.gov/app/details/CFR-2011-title31-vol2/CFR-2011-title31-vol2-part370) "Electronic Transactions and Transfers relating to Treasury Securities." These regulations generally apply as a matter of contract law. The regulations require you to:
 
   * exercise ordinary care in protecting the means (account number, password, or digital certificate) that you use to access our site and conduct transactions electronically. If you don't exercise ordinary care and an unauthorized transaction is the result, then under some circumstances you could be held accountable for those transactions.
   * inform us promptly if you believe that another person has improperly obtained your means of accessing our site and conducting transactions electronically.
