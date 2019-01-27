@@ -1,72 +1,39 @@
-> *The following text is extracted and transformed from the popartuk.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219194951id_/http%3A//www.popartuk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popartuk.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127234509id_/https%3A//www.popartuk.com/privacy) for the most accurate reproduction.*
 
-# PopArtUK - Online Poster and Print store
+# PopArtUK Privacy Policy
 
-  
+## Your Privacy Is Important To Us
 
+### Privacy Statment
 
-## Quick Summary
+**PopArtUK is part of the Grindstore Ltd family and as a responsible online store; we are committed to protecting your privacy. We will only use the information that we collect about you lawfully in accordance with the General Data Protection Regulation (GDPR).**
 
-  * Your privacy is important to us.
-  * Any information that you supply to us is only used for the purpose you originally supplied it for (e.g. despatching your order).
-  * We **DO NOT** share or sell or otherwise exchange your email or other personal or contact details with any other companies or organisations.
-  * We **DO** use cookies to track aggregate user information (to help us improve this site) and to implement certain features on this site like the shopping basket and checkout.
+We collect information about you lawfully for two reasons: firstly, to process your order and fulfil the contract and secondly, to help provide you with the best possible service at all times.
 
+We offer you the chance to refuse any marketing email from us or from another trader in the future. We will not email you unless you have given us your consent except in relation to any orders you have placed with us and in processing the contract.
 
+Your information will NEVER be sold on to a third party and will remain securely in our system. In certain instances there are services based outside of the EU to which data may be transmitted via Secure SSL or TLS connections, to enable fulfilment of orders and site monitoring, these include but may not be limited to: [MailChimp](https://mailchimp.com/legal/privacy/), [Stripe](https://stripe.com/gb/privacy), [PayPal](https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev), [Google Analytics and Adwords,](https://policies.google.com/technologies/ads) [Trust pilot](https://uk.legal.trustpilot.com/end-user-privacy-terms) and [Amazon Payments.](https://pay.amazon.com/uk/help/201751600)
 
-If you have any questions or require clarification, please [contact us](http://www.popartuk.com/about/#contact).
+So that we can process orders placed by visitors, we collect certain information about you. The information we will collect about you at the time of placing an order includes your name, address, phone and email address. We do not store credit card, debit card or payment provider login details.
 
-  
+We will never collect sensitive information about you without your explicit consent. For the purposes of order tracking and internal financial reporting, we store customer order history.
 
+We endeavour to keep the information we hold about you accurate and up to date. You can check the information that we hold about you by logging into your account or by contacting us. The personal information which we hold will be held securely in accordance with our internal security policy.
 
-## About Us
+As an individual entering into a contract with Grindstore Ltd by placing an order, you are entitled to request a copy of the data we have stored; notify us of your desire to withdraw consent for the processing of your data; where reasonable, have your data removed or corrected and also to lodge a complaint with a supervisory authority.
 
-This is the web site of **PopArtUK Limited**. Our postal address is:
+### Email
 
- **PopArtUK Ltd  
-Unit B, Nelson Square  
-Heath Drive,  
-Holt  
-Norfolk  
-NR25 6ER  
-United Kingdom**
+You are able to opt-out of email communication at any time by clicking unsubscribe at the bottom of any newsletter received from us. To make a complaint about misuse, email us at [contact@popartuk.com](mailto:contact@popartuk.com) or via telephone on 01263 713417.
 
-We can be reached via e-mail at [contact@popartuk.com](http://www.popartuk.com/about/#contact) or by phone on 01263 713 417 (UK) / 0044 1263 713 417 (outside UK)
+### Cookie Use
 
-  
+Popartuk.com uses cookies to enable essential website functionality including basket, user accounts and checkout. We also use analytics and tracking cookies for analysing website usage to improve our service to you and tracking affiliate sales.
 
+### The PopArtUK Guarantee: 100% Satisfaction or Your Money Back!
 
-## The Information We Collect
+We're so confident you'll love your purchase, if for any reason you are not 100% satisfied we will be happy to exchange your goods or give you a full refund - guaranteed!
 
-We collect visitor information on an aggregate basis to use to monitor and improve this site. For example, we keep a record of the pages downloaded from our site (as all web servers do). We do not share this information with anyone else.
+### We Accept Payment By
 
-We also store personal details you enter when buying goods. We only use this information to process and deliver your order. We do not share this information with anyone else.
-
-We only store credit card information while we need it to process order - and then delete it from our system. We do not share this information with anyone else.
-
-For our affiliate scheme we set a flag to tell us if you arrived from an affiliate. This is only so we can calculate commission payments. We do not share your information with affiliates or anyone else.
-
-For our Poster Club, we collect and store the email address you enter if you sign-up to the Poster Club. We do not share this information with anyone else.
-
-  
-
-
-## Cookies
-
-This site uses cookies for the purposes described above. We do not use or set third party cookies.
-
-  
-
-
-## Security
-
-We always use industry-standard encryption technologies when transferring and receiving personal and financial consumer information. To check this, look for the secure "padlock" indicator on your browser.
-
-  
-
-
-## Checking Your Information
-
-Upon request we will provide site visitors with access to all information that we maintain about them. A nominal charge may be levied, to cover our processing costs.
-
-Consumers can have this information corrected by sending us e-mail at [contact@popartuk.com](mailto:contact@popartuk.com) or calling us on 01263 713 417 (UK) / 0044 1263 713 417 (outside UK).
+©2002-2019 PopArtUK. Registered office: 43 Bull Street, Holt, Norfolk, NR25 6HP, UK. Company registration number: 07280106.
