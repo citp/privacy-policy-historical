@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnupon.com privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424175130id_/https%3A//www.learnupon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnupon.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127112823id_/https%3A//www.learnupon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LearnUpon LMS
 
@@ -72,7 +72,7 @@ About this Privacy Policy
 
 3.1 We collect two types of information:
 
-3.1.1 **“Personal data”** means any information relating to and identified or identifiable natural person.
+3.1.1 **“Personal data”** means any information relating to an identified or identifiable natural person.
 
 3.1.1.1 Information that you provide when expressing an interest in obtaining additional information about our service, registering to use our service or registering for an event, such as name, company name, email address, phone number, and other contact details.
 
@@ -86,7 +86,7 @@ About this Privacy Policy
 
 3.1.2 **“Non-personal data”**. Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our website. This non-personal data comprises information that cannot be used to identify or contact you.
 
-3.1.2.1 Information collected from cookies in your Web browser. This information includes standard information from you (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company website (such as the Web pages viewed and links clicked). Our use of cookies to process information is explained in Section 9 of this policy.
+3.1.2.1 Information collected from cookies in your Web browser. This information includes standard information from you (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company website (such as the Web pages viewed and links clicked).Our use of cookies to process information is explained in Section 10 of this policy.
 
 **4\. Use of Information Collected**
 
@@ -110,7 +110,7 @@ About this Privacy Policy
 
 6.1 By consenting to our processing your personal data in line with this Privacy Policy you are giving us permission to process your personal data specifically for the purposes identified.
 
-6.2 You may withdraw consent at any time by providing an unambiguous indication of your wishes by which you, by a statement or by a clear affirmative action, signify withdrawal of consent to the processing of personal data relating to you. If you have any queries relating to withdrawing your consent please contact LearnUpon’s Compliance Manager using the contact details set out below.
+6.2 You may withdraw consent at any time by providing an unambiguous indication of your wishes by which you, by a statement or by a clear affirmative action, signify withdrawal of consent to the processing of personal data relating to you. If you have any queries relating to withdrawing your consent please contact LearnUpon’s Data Protection Officer using the contact details set out below.
 
 6.3 Withdrawal of consent shall be without effect to the lawfulness of processing based on consent before its withdrawal.
 
@@ -194,7 +194,7 @@ e) Some of the search criteria you are using
 
 **12\. Will we share your information with anyone else?**
 
-12.1 We may disclose your information to trusted third parties for the purposes set out in the Processing Description attached to this document. We require all third parties to have appropriate technical and operational security measures in place to protect your personal data, in line with Irish and EU laws on data protection. Any such company or individual will have access to personal information needed to perform these functions but may not use it for any other purpose.
+12.1 We may disclose your information to trusted third parties set out in Section 4. We require all third parties to have appropriate technical and operational security measures in place to protect your personal data, in line with Irish and EU laws on data protection. Any such company or individual will have access to personal information needed to perform these functions but may not use it for any other purpose.
 
 12.2 Specifically, we need to have written agreements in place with all of our data processors and, before we sign each agreement, we need to have vetted and be satisfied with the processor’s data security. The agreements also need to contain specific clauses that deal with data protection.
 
@@ -204,7 +204,7 @@ e) Some of the search criteria you are using
 
 12.4 These categories may be updated from time to time and for an updated list of categories of data processors you should check this Privacy Policy on LearnUpon’s website.
 
-12.5 We pay pass on your details if we are under a duty to disclose or share a data subject’s personal data in order to comply with any legal obligation, or in order to enforce or apply any contract with the data subject or other agreements; or to protect our rights, property, or safety of our employees, customers, or others. This includes reporting information about incidents (as appropriate) to the law enforcement authorities and responding to any requirements from law enforcement authorities to provide information and/or personal data to them for the purposes of them detecting, investigating and/or prosecuting offences or in connection with crime sentencing.
+12.5 We may pass on your details if we are under a duty to disclose or share a data subject’s personal data in order to comply with any legal obligation, or in order to enforce or apply any contract with the data subject or other agreements; or to protect our rights, property, or safety of our employees, customers, or others. This includes reporting information about incidents (as appropriate) to the law enforcement authorities and responding to any requirements from law enforcement authorities to provide information and/or personal data to them for the purposes of them detecting, investigating and/or prosecuting offences or in connection with crime sentencing.
 
 12.6 We need to demonstrate accountability for our data protection obligations. This means that we must be able to show how we comply with the data protection rules, and that we have in fact complied with the rules.  We do this, among other ways, by our written policies and procedures, by building data protection compliance into our systems and business rules, by internally monitoring our data protection compliance and keeping it under review, and by taking action if our employees or contractors fail to follow the rules.  We also have certain obligations in relation to keeping records about our data processing.
 
