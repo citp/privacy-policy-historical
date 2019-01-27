@@ -1,89 +1,150 @@
-> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611100445id_/http%3A//mythreecents.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127164320id_/https%3A//mythreecents.com/privacy.cgi) for the most accurate reproduction.*
 
-# 
+# My3cents.com - Privacy Policy
 
-The policy explains how we will gather and use the information at this Web site: http://mythreecents.com
+**Last Updated: December 2, 2018**
 
-**How we use your IP address**  
-We may use your Internet Protocol (IP) address to help diagnose problems with our server and track movement within our web site only to optimize your experience. We may also collect the referring URL, access times and browser type. We will not link this information to any personally identifiable information unless you provide us permission to do so.
+This Privacy Policy describes how MyThreeCents ("we," "us," or "our") collects, uses, and shares information collected through our website www.mythreecents.com.com or when you otherwise interact with us (the "Services"). 
 
-**How we use cookies**  
-Our site uses "cookies" to make your experience at our site specific to you. Currently, if you set your browser to reject cookies, you cannot use Mythreecents.com. We also plan to use cookies to keep track of how you found out about our site (i.e., what link to Mythreecents.com on another site you may have clicked on).
+We may change this policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy, and, in some cases, we may provide you with additional notice (such as by adding a statement to our homepage or sending you a notification). Please check this page when you access the services to stay informed about our information practices and the choices available to you. 
 
-(A cookie is a tiny amount of data that's sent to your web browser from a web server and is stored on your computer's hard drive. Cookies generally are used to help web sites identify their users and determine the status of a "client.")
+## Collection of Information
 
-**Information Collected and Use and Disclosure of Information**  
-Our site's registration form requires users to give us contact information (like your name and e-mail address), basic demographic information (like your zip code) and a password. We may use your contact information to get in touch with you when necessary (for instance, to get more information about a company you're contacting, to see what follow-up action you may want us to take, or if you send comments to us). 
+### Information You Provide Us
 
-Our letter generator creates individual letters that are sent at your request to companies. Your e-mail address, and any other contact information you choose to give such as mailing address and phone number, will be shared with the company you're writing to so the company can respond to your letter. We send your letter only to those people whom you specify and we will not share it with others. Mythreecents.com is not responsible for any company's use of your personal information. From time to time, we single out individual letters as examples for our "Top Stories" section, but we will not post these letters or any part of them on our site or disclose them to others without the consent of the person who wrote the letter. 
+We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the Services, write a review, respond to a survey, fill out a form, participate in a contest or promotion, communicate with us via third party social media sites, request customer support, interact with us via chat, or otherwise communicate with us. The types of information we may collect include your name, email address, postal address, phone number and any other information you choose to provide. 
 
-We will always ask you for permission before sharing your contact information with third parties interested in sending information and promotional offers about their products and services. This basically means that you won't get any junkmail from third parties unless we get you specific permission. 
+### A Note about Customer Reviews
 
-If you request to be contacted by a lawyer regarding your review, your contact information and location may be shared with an attorney who may attempt to contact you regarding your issue. 
+If you disclose information through the Services such as through a customer review, that information can be viewed publicly and can be collected and used by third parties without our knowledge or permission. For this reason, we recommend you do not post personal information about yourself or others. For more information about user terms and guidelines, please visit our [Terms of Use](https://web.archive.org/agreement.cgi). 
 
-From time to time, we also conduct more detailed surveys of visitors to our site. You decide whether you want to respond to our surveys, and the answers to the questions are reported anonymously. 
+### Information We Collect from Other Sources
 
-In addition, Mythreecents.com may disclose personally identifiable user information to others when we believe, in good faith, that such release is reasonably necessary to (i) comply with the requirements of the law or a legal process served on us; (ii) enforce or apply the terms of any of our user agreements; or (iii) protect the rights, property or safety of Mythreecents.com, our users, or others. 
+If you create or log into your account through a social media site, we may have access to certain information from that site, such as your name, user ID, account information, information that you have made public, and friends lists, according to the social media site's data practices and your privacy settings on that social media site. 
 
-Consumers should be aware that information provided to us may be subpoenaed by courts of law and that in most instances we will be obligated to honor lawful court orders. 
+We may also collect demographic information about you from third parties, including data brokers, mailing list providers, and publicly available sources. We may also receive information about you from our business partners, such as those companies who have created an account with us as Accredited Members. This information may include name, city, state, email address, phone number, and order number or account number. 
 
-We do not make the e-mail addresses of those who access our site available to commercial organizations for marketing purposes except in the case of companies wishing to resolve consumer complaints. 
+## Automatically Collected Information
 
-**Other ways we gather information about you.**
+When you access or use our Services, we automatically collect information about you, including:
 
-We use third-party advertising companies to serve ads when you visit our Web site. My3cents.com does not evaluate or endorse the products and services advertised. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp>). 
+Log Information: We collect log information about your use of the Services, including the type of browser you use, application version, access times, pages viewed, time spent on pages, clicks, website technical errors, your IP address and the page you visited before navigating to our Services.  
+Device Information: We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers, and mobile network information.  
 
-In the course of serving advertisements to this site, a third-party advertiser may place or recognize a unique "cookie" on your computer. A cookie is a data file that is installed on your computer’s hard disk. We may also place a “cookie” on your computer in order to track your web browsing or to provide information to other companies about your web browsing. You can instruct your browser not to accept cookies, although some services may not function properly if you disable cookies. 
 
-This site implements Google Analytics features based on Display Advertising data, including Google Analytics Demographics and Interest Reporting. Using Google Ad Settings, visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. We use data from Google’s Interest-based advertising or third party audience data (such as age, gender, and interests) to help improve the site and user experience. 
+Cookies and Other Tracking Technologies: We use different technologies to collect information, including cookies, pixels and local storage, implemented either by us or a third party. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular, and count site visits. Pixels are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and ad campaign effectiveness. Local shared objects are stored on your device and used to provide video or animation, or collect information for analytics. For more information about cookies and trackers and how to disable them, please visit "Your Choices" below or our [Cookies Policy](https://web.archive.org/cookie_policy.cgi). 
 
-**Send Your Letter to Others/Pass It On E-mail**  
-Our site gives you the opportunity to enter a friend's e-mail address to send a copy of your letter or opinion or other information you feel may be of interest. This use is a one-time only e-mail sent to the recipient and our site will not send any further communications to the recipient. 
+## How we use information:
 
-**Public Forums**  
-Mythreecents.com may in the future add chat rooms, forums, message boards and/or news groups available to its users. Any information disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information. We reserve the right to remove any posted material for any reason (for instance, if you are being offensive, or using vulgar language). 
+We use the information we collect to provide, maintain, and improve our services. We may also use the information we collect to: 
 
-**Feedback On Us**  
-The Feedback on Us feature creates individual letters that are sent to us at your request. Your e-mail address, and any other contact information you give us such as mailing address and phone number, will not be shared with anyone except the Mythreecents.com employees responsible for the site feature(s) you are writing about. As a result of your feedback, we may contact you for clarification or more information, to let you know the results of your feedback, or to thank you for your interest in our site. From time to time, we single out individual letters to use as testimonials, but we will not post these letters or any part of them on our site or disclose them to others without the consent of the person who wrote the letter. 
+  * Send you technical notices, updates, security alerts and support and administrative messages and to respond to your comments, questions and customer service requests;
+  * Communicate with you about products, services, offers, and events offered by MyThreeCents and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of MyThreeCents and others;
+  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests;
+  * Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards; and
+  * Carry-out any other purpose described to you at the time the information was collected.
 
-**E-mail Links**  
-We use an e-mail form located on the "Contact Us" page to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to respond directly to your questions or comments. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is only shared with third parties with your permission. 
 
-**Employment Opportunities**  
-Users who are interested in learning more about employment opportunities at Mythreecents.com are invited to contact us. Your e-mail address, and any other contact information you give us such as mailing address and phone number, will not be shared with anyone except for the Mythreecents.com employees responsible for recruitment and hiring. We may contact you if we wish to explore possible employment opportunities. 
 
-**Links to Other Sites**  
-This site contains links to Web sites operated by third parties. Mythreecents.com is not responsible for the privacy practices or content of such sites. 
+## How we share information:
 
-**Security**  
-Mythreecents.com has security measures in place to protect the loss, misuse and alteration of the information under our control. However, perfect security does not exist on the Internet. Also, in theory third parties can intercept Internet transmissions containing your personal data, and we don't control the privacy/security of transmissions to and from the site while in transit. 
+We may share information we receive about you as follows or as otherwise described in this Privacy Policy: 
 
-**Third-Party Collection and Use of Information**  
-From time to time, Mythreecents.com partners with third parties to provide certain features to Mythreecents.com users. A third party's collection and use of personally identifiable information is subject to that third party's privacy and security policy. Mythreecents.com does not have control or access to the information contained in cookies set by third parties. 
+  * We may share information we receive about you with our service providers who need access to such information to provide services to us on our behalf.
+  * We may share consumer reviews we receive from you with the companies that are the subject of the review and with our affiliates or other entities with whom we have a business relationship. These entities may post these reviews on their respective websites.
+  * We may also share information (including your first name and, in some cases, your email address) from comments that you have posted on our web site, forms you have filled out, and other submissions, with our business partners, who may use those submissions for analysis and marketing purposes.
+  * We may disclose information if we have a good faith belief that we are required to do so to comply with the law or legal process, such as in response to subpoenas, courts orders, or requests by government authorities, law enforcement authorities, courts, or regulators, including lawful requests by public authorities to meet national security or law enforcement requirements.
+  * We may also disclose information if we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property or safety of MyThreeCents or others.
+  * As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets. In such transactions, or during related negotiations, we may share user information.
+  * We may share information between and among MyThreeCents and our current and future parents, affiliates, subsidiaries and other companies under common control or ownership.
+  * We may share your information when we otherwise have your permission.
 
-We also use third party advertisements on Mythreecents.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
 
-DoubleClick DART cookies  
-We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx 
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+## Online analytics and tailored advertising: 
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
+We may allow others to provide analytics services and serve advertisements on our behalf across the internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity. 
 
-**Conversion Tracking and Use of Information**  
-Occasionally Mythreecents.com will offer services that require the use of a 3rd party payment gateway. If conversion tracking is used, please note that no personally identifiable information is collected through our conversion tracking utilities. 
+For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. Your device may also include a feature ("Limit Ad Tracking" on iOS or "Opt Out of Interest-Based Ads" or "Opt Out of Ads Personalization" on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes. 
 
-**Limits on Our Abilities**  
-Our site is very complicated, so we might inadvertently use or disclose your data in ways inconsistent with this statement. For example, a temporary software glitch could lead to public display of your personal data despite your preferences otherwise. We might also make ad hoc uses of your data in ways not mentioned here. In these anomalous situations, your sole remedy is that we will try to rectify the anomaly as soon as we can. 
+To opt-out of cookies or other trackers, please see "Your Choices" below or visit our [Cookie Policy](https://web.archive.org/cookie_policy.cgi). 
 
-**Updating Your Information**  
-If you need to update information about your account or any opinions/letters you have posted on our website, please contact us via email using admin@my3cents.com!
+## Links: 
 
-**Notification of Changes**  
-If we change our privacy policy, we will post a notice on our site so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by e-mail. Users will have a choice as to whether or not we use their previously submitted information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+The Services may contain links to other websites and services. We are not responsible for the privacy policy or other practices employed by sites and services linked to or from our Services nor the information or content available there. 
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, you can contact: 
+## Security: 
 
-Mythreecents.com  
-Contact us at admin@my3cents.com 
+We use reasonable measures to help protect information about you from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction. 
+
+## Transfer of Information to the United States: 
+
+The Services are hosted in the United States. Therefore, we and our service providers may transfer your information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction. We will take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it. 
+
+When we transfer personal data from the European Union or Switzerland to the United States, we comply with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union and Switzerland to the United States, respectively. MyThreeCents has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. 
+
+In compliance with the Privacy Shield Principles, we are committed to resolving complaints about our processing of your personal data. EU and Swiss individuals with inquiries or complaints regarding our compliance with the Privacy Shield program should first contact us. We have further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim> for more information or to file a complaint. The services of JAMS are provided at no cost to you. 
+
+Under certain conditions, you may be able to invoke binding arbitration to resolve your complaint. MyThreeCents is subject to the investigatory and enforcement powers of the Federal Trade Commission. 
+
+If we share personal data transferred to the U.S. under the Privacy Shield with a third-party service provider that processes such data on our behalf, then we will be liable for that third party’s processing in violation of the Privacy Shield Principles, unless we can prove that we are not responsible for the event giving rise to the damage. 
+
+## Your European Union and Swiss Privacy Rights: 
+
+If you are in the European Economic Area ("EEA") or Switzerland, you have certain rights and protections under the law regarding the processing of your personal data. 
+
+### Legal Basis for Processing
+
+If you are a resident of the EEA or Switzerland, when we process your personal data we will only do so in the following situations: 
+
+  * We need to use your personal data to perform our responsibilities under our contract with you (e.g., providing the Services you have requested). 
+  * We have a legitimate interest in processing your personal data. For example, we may process your personal data to send you marketing communications, to communicate with you about changes to our Services, and to provide, secure, and improve our Services. 
+  * You have provided consent for us to process your personal data.
+
+
+
+### Data Subject Requests
+
+If you are in the EEA, you have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred. You may also have the right to object to, or request that we restrict, certain processing. If you are in Switzerland, you have the right to access, correct or erase the personal data we hold about you. You may also have the right to object to, or request that we restrict certain processing. If you would like to exercise any of these rights, please contact us at [privacy@mythreecents.com](mailto:privacy@mythreecents.com). 
+
+### Questions or Complaints
+
+If you are in the EEA or Switzerland and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data protection authority where you reside. For contact details of your local EEA Data Protection Authority, please see: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>. For Swiss residents, contact details of the Swiss data protection authority, the Federal Data Protection and Information Commissioner (FDPIC) are available here: <https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact/address.html>. 
+
+## Your Choices
+
+### Information access and account cancellation
+
+If you wish to deactivate your account or request that we no longer use your information, please contact us at [privacy@mythreecents.com](mailto:privacy@mythreecents.com). Please note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time. 
+
+### Cookies and Trackers
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies, although some Services may not function properly if you disable cookies. If you do not want to receive tracking pixels, you will need to disable HTML images in your email client, but that may affect your ability to view images in other email that you receive. Please see the [Adobe website](https://www.adobe.com/logged-out-cc-individual.html) for comprehensive information on how to delete or disable local shared objects known as Flash cookies. Also, this site uses Google Analytics. To opt out of Google Analytics please visit https://[www.google.com/settings/ads.](http://www.google.com/settings/ads)
+
+You may also visit the following sites to opt out of behavioral advertising: [http://networkadvertising.org/choices/ ](http://networkadvertising.org/choices/)or [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/%20to%20opt-out%20of%20use%20of%20behavioral%20data%20to%20serve%20advertisements.). For more information about cookies and trackers, please visit our [Cookie Policy](https://web.archive.org/cookie_policy.cgi). 
+
+### Promotional Communications by Email or Text Message
+
+You may opt out of receiving promotional emails from MyThreeCents by following the instructions in those emails or by contacting us as noted below. If you opt out, we may still send you non-promotional messages, such as those about your account or our ongoing business relations. 
+
+To opt out of receiving text messages from MyThreeCents.com at any time, text STOP to the short code from which the text message was sent to the enrolled mobile device or reply to a text from us with the word "STOP." A confirmation message of your opt out will be sent to your mobile number but no additional messages will be sent to you unless you opt in again. 
+
+### Mobile Push Notifications/Alerts
+
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device. 
+
+### Your California Privacy Rights 
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us as noted below. 
+
+## Contact us: 
+
+If you have any questions or concerns about this Privacy Policy or our data practices, you can reach us at [privacy@mythreecents.com](mailto:privacy@mythreecents.com), or by writing to us at: 
+
+MyThreeCents.com,  
+297 Kingsbury Grade, Suite 1025,  
+Mailbox 4470  
+Stateline, NV 89449  
+(844) 612-8110 
