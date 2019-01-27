@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybookmarkingsite.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921021404id_/http%3A//www.mybookmarkingsite.com/wp-content/uploads/2017/01/012420171751.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybookmarkingsite.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127073507id_/http%3A//www.mybookmarkingsite.com/wp-content/uploads/2017/01/012420171751.pdf) for the most accurate reproduction.*
 
 # I.
 
