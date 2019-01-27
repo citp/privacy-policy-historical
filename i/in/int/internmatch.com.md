@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internmatch.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921023712id_/https%3A//www.wayup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internmatch.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127104037id_/https%3A//www.wayup.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -7,7 +7,7 @@ Additional links:
 
   * [Terms and Conditions](https://web.archive.org/terms/)
   * [DMCA Policy](https://web.archive.org/dmca/)
-  * [Privacy Policy](https://web.archive.org/legal/)
+  * [Privacy Policy](https://web.archive.org/privacy/)
   * [Acceptable Use Policy](https://web.archive.org/aup/)
   * [Branding Terms](https://web.archive.org/brandingterms/)
   * [Jobs Terms](https://web.archive.org/jobsterms/)
