@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usopen.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227032911id_/http%3A//www.usga.org/content/usga/home-page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usopen.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127103427id_/http%3A//www.usga.org/content/usga/home-page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
