@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoptiques.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109160553id_/https%3A//www.shoptiques.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptiques.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127132152id_/https%3A//www.shoptiques.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Shoptiques
 
