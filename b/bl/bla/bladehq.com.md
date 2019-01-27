@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bladehq.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227033845id_/https%3A//www.bladehq.com/cat--Privacy-Policy--1621) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bladehq.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127235614id_/https%3A//www.bladehq.com/cat--Privacy-Policy--1621) for the most accurate reproduction.*
 
 # Privacy Policy - Blade HQ
 
