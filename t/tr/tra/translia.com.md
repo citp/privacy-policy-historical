@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translia.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231154140id_/http%3A//www.translia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translia.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127095522id_/https%3A//www.translia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Translia
 
@@ -81,21 +81,15 @@ Access and control over most personal information on Translia is readily availab
 
 We reserve the right to modify this privacy statement at any time by updating this page. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. You should check this page periodically. Your continued use of the Translia website after Translia revises this Policy signifies your acceptance of the revised Policy.
 
-### TRUSTe
+If you have questions or concerns regarding this statement, you should first contact Translia Limited at:
 
-Acosys Ltd is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.translia.com](http://www.translia.com/ "www.translia.com"). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Acosys Ltd at:
-
-  * translia at acosys dot com
+  * info at translia dot com
 
 
 
 Or send us a postal mail to the followings address: 
 
-Acosys Limited  
-11/F, AXA Centre,  
-151 Gloucester Road,  
+Translia Limited  
+Room D, 10/F, Tower A, Billion Centre,  
+1 Wang Kwong Road,  
 Hong Kong
-
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.translia.com&sealid=101)
