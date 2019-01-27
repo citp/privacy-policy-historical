@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windycitynovelties.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702223614id_/https%3A//www.windycitynovelties.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windycitynovelties.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127023722id_/https%3A//www.windycitynovelties.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,6 +19,14 @@ Our site contains links to other sites. These links are provided for your conven
 **Third Party Services**
 
 We use third-party service providers to provide product recommendations and enhance your shopping experience on our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Web site in order to provide personalized recommendations and advertisements about our goods and services on our Web site as well as when you visit other Web sites.  If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://networkadvertising.org/consumer/opt_out.asp).
+
+**Email Addresses**
+
+We do not rent, share, or exchange our customers' email addresses (except as described in the paragraph below), but we do use these addresses for our own promotional email marketing. You may opt out of receiving promotional emails anytime. Instructions on how to opt out are included in every promotional email, or you may opt out [here](https://windycitynovelties.us17.list-manage.com/unsubscribe/post).
+
+**Sharing Information**
+
+Except as noted above, we may share information about our customers in a variety of ways. We share customer information among the businesses affiliated with Windy City Novelties. We may share customer information with merchants whose websites link with ours. We may also employ other businesses or consultants to perform functions such as sending mail or e-mail, analyzing data and customer lists, processing accounts receivable, marketing or other functions. In those situations, third parties will have access to customer information for the purpose of performing their functions. Though we do not rent, share or exchange customer email addresses in the ordinary course of business, we may sell, transfer or assign customer information in connection with a merger, consolidation, sale of assets or similar business transaction. You may opt-out from our stored database at anytime [here](https://windycitynovelties.us17.list-manage.com/unsubscribe/post).
 
 **Contacting Windy City Novelties Regarding This Privacy Policy**
 
