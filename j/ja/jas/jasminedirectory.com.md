@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jasminedirectory.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/guidelines.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasminedirectory.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/guidelines.html) for the most accurate reproduction.*
 
 # Jasmine Directory: Submission Guidelines and Privacy Policy
 
@@ -83,32 +83,32 @@ Every 2-3 months we run an entire audit of all our external resources. We don't 
 
 To select a suitable category for your website, visit our [homepage](https://www.jasminedirectory.com/) and select a topic based category, check out the [regional section](https://www.jasminedirectory.com/regional/) or browse the alphabetically ordered category list below: 
 
-  * [A](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,a.html)
-  * [B](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,b.html)
-  * [C](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,c.html)
-  * [D](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,d.html)
-  * [E](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,e.html)
-  * [F](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,f.html)
-  * [G](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,g.html)
-  * [H](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,h.html)
-  * [I](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,i.html)
-  * [J](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,j.html)
-  * [K](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,k.html)
-  * [L](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,l.html)
-  * [M](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,m.html)
-  * [N](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,n.html)
-  * [O](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,o.html)
-  * [P](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,p.html)
-  * [Q](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,q.html)
-  * [R](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,r.html)
-  * [S](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,s.html)
-  * [T](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,t.html)
-  * [U](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,u.html)
-  * [V](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,v.html)
-  * [W](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,w.html)
-  * [X](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,x.html)
-  * [Y](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,y.html)
-  * [Z](https://web.archive.org/web/20180829034959id_/https%3A//www.jasminedirectory.com/idx,z.html)
+  * [A](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,a.html)
+  * [B](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,b.html)
+  * [C](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,c.html)
+  * [D](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,d.html)
+  * [E](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,e.html)
+  * [F](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,f.html)
+  * [G](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,g.html)
+  * [H](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,h.html)
+  * [I](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,i.html)
+  * [J](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,j.html)
+  * [K](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,k.html)
+  * [L](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,l.html)
+  * [M](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,m.html)
+  * [N](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,n.html)
+  * [O](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,o.html)
+  * [P](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,p.html)
+  * [Q](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,q.html)
+  * [R](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,r.html)
+  * [S](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,s.html)
+  * [T](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,t.html)
+  * [U](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,u.html)
+  * [V](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,v.html)
+  * [W](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,w.html)
+  * [X](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,x.html)
+  * [Y](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,y.html)
+  * [Z](https://web.archive.org/web/20190127215352id_/https%3A//www.jasminedirectory.com/idx,z.html)
 
 
 
