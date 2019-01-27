@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatfreekitchen.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312030742id_/http%3A//www.fatfreekitchen.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatfreekitchen.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127193231id_/https%3A//www.fatfreekitchen.com/disclaimer.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,9 +29,9 @@ These pages are designed to provide authoritative information in the areas of he
 The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. 
 
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
-  * Google's use of the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+  * Google's use of the [DoubleClick DART cookie](https://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html). 
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.google.com/privacy_ads.html). 
 
 
 
