@@ -1,283 +1,164 @@
-> *The following text is extracted and transformed from the geniusu.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107081631id_/https%3A//www.geniusu.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniusu.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127152251id_/https%3A//www.geniusu.com/privacy) for the most accurate reproduction.*
 
 # GeniusU
 
-By using the website, GeniusU.com, you signify your agreement to these Terms of Use. If you do not agree to these Terms of Use, you may not use the Website. In addition, when you use any of our current or future services, you will also be subject to our guidelines, terms, conditions and agreements applicable to those services. If these Terms of Use are inconsistent with the guidelines, terms and agreements applicable to those services, these Terms of Use will control. 
+**Effective as of 25 May, 2018**
 
-###  Privacy Overview 
+1\. Introduction   
+2\. About this Policy   
+3\. Your rights and your preferences: Giving you choice and control   
+4\. Controllers of Personal Information   
+5\. Types of information we gather   
+6\. Cookies   
+7\. Sharing your personal data   
+8\. How Secure is Information About Me   
+9\. Third-Party Advertisers and Links to Other Websites   
+10\. What Information Can I Access?   
+11\. What Choices Do I Have?   
+12\. Children   
+13\. How to contact us
 
-Please review our Privacy Policy, which also governs your visit to the Website, to understand our privacy practices. 
+### 1\. Introduction 
 
-If you are under 13, you may use the Website only with the consent of a parent or guardian. We reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders in our sole discretion. 
+Thanks for choosing GeniusU!
 
-You agree that these Terms of Use are supported by reasonable and valuable consideration, the receipt and adequacy of which you hereby acknowledge, including, without limitation, your access to and use of the Website and data, materials and information available at or through the Website. 
+At GeniusU, we want to give you the best possible experience to ensure that you enjoy our service today, tomorrow, and in the future. To do this we need to understand your learning habits so we can deliver an exceptional and personalized service specifically for you. That said, your privacy and the security of your personal data is, and will always be, enormously important to us. So, we want to transparently explain how and why we gather, store, share and use your personal data - as well as outline the controls and choices you have around when and how you choose to share your personal data.
 
-###  Payment Policy 
+That is our objective, and this Privacy Policy (“Policy”) will explain exactly what we mean in further detail below.
 
-An Acknowledgement receipt and details of order for the payment made, will be sent to your email address as proof of payment, within 3 working days. Additional copies of invoices or further details on transactions made can be obtained by contacting our accounts team at accounts@wealthdynamics.org. 
+### 2\. About this Policy 
 
-###  Customers Privacy 
+This Policy sets out the essential details relating to your personal data relationship with GeniusU Pte Ltd. The Policy applies to all GeniusU services and any associated services (referred to as the ‘GeniusU Service’).
 
-We may use Data to customize and improve your user experience on this site. However, we will make efforts so that your Data will not be given to third parties, unless (i) we obtain your consent, such as when you chose to opt-in or opt-out to the sharing of Data; (ii) a service provided on our site requires the interaction with, for example, an Application Service Provider, (iii) pursuant to legal process of law enforcement. 
+From time to time, we may develop new or offer additional services. If the introduction of these new or additional services results in any change to the way we collect or process your personal data we will provide you with more information and additional terms or policies. Unless stated otherwise when we introduce these new or additional services, they will be subject to this Policy.
 
-##  Refund Policy on Events 
+The aim of this Policy is to:
 
-###  Rescheduling your enrolment 
+>   1. Ensure that you understand what personal data we collect about you, the reasons why we collect and use it, and who we share it with;
+>   2. Explain the way we use the personal data that you share with us in order to give you a great experience when you are using the GeniusU Service; and
+>   3. Explain your rights and choices in relation to the personal data we collect and process about you and how we will protect your privacy.
+> 
 
-If you find that you are unable to attend the course on the dates for which you have enrolled, you may transfer your enrolment, without penalty, to the same course that we may convene provided you do so at least thirty (30) days prior to the original course date and that your rescheduled date occurs within twelve (12) months of the original course date. However, you agree that we may not convene the same or similar course again and that there is no obligation on us to do so. If you do not reschedule as per the conditions stipulated above you will forfeit the money you paid to attend and you will have no other claim against us for a refund or compensation. 
 
-###  Transferring tickets 
+We hope this helps you to understand our privacy commitments to you. For information on how to contact us if you ever have any questions or concerns, then please see the ‘How to Contact Us’ section 13 below. Alternatively, if you do not agree with the content of this Policy, then please remember it is your choice whether you want to use the GeniusU Service. 
 
-In the event that you cannot attend to receive the Event/course for which you booked, your ticket is transferable to another person, provided that you identify to us the person to whom you wish to transfer your ticket together with full contact details for your substitute, at least seven (07) days before the Event/course. Once the transfer has taken place the transferee will be bound by the same terms & conditions as the original ticket holder. 
+### 3\. Your rights and your preferences: Giving you choice and control 
 
-###  Enrolment Deposit & Payments for Enrolments 
+You may be aware that a new European Union law, called the General Data Protection Regulation or "GDPR" gives certain rights to individuals in relation to their personal data. Accordingly, we have implemented additional transparency and access controls in our Manage Subscriptions centre to help users take advantage of those rights. As available and except as limited under applicable law, the rights afforded to individuals are:
 
-We will not deem you to be enrolled until we receive a full payment for the event from you. You must pay any remaining balance on your enrolment at least thirty (30) days prior to commencement of the course. We may offer services such as payment plans (terms and conditions to follow) however use of such facilities is optional and does not override the requirement that your enrolment must be fully paid thirty (30) days prior to the commencement of the course. 
+  * Right of Access - the right to be informed of and request access to the personal data we process about you;
+  * Right to Rectification - the right to request that we amend or update your personal data where it is inaccurate or incomplete;
+  * Right to Erasure - the right to request that we delete your personal data;
+  * Right to Restrict - the right to request that we temporarily or permanently stop processing all or some of your personal data;
+  * Right to Object - 
+    * the right, at any time, to object to us processing your personal data on grounds relating to your particular situation;
+    * the right to object to your personal data being processed for direct marketing purposes;
+  * Right to Data Portability - the right to request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party’s service; and
+  * Right not to be subject to Automated Decision-making - the right to not be subject to a decision based solely on automated decision making, including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.
 
-###  Refund Policy on E-Products 
 
-Since our online store is offering non-tangible irrevocable goods we do not issue refunds once the order is accomplished and the product is sent. As a customer you are responsible for understanding this upon purchasing any item at our site. 
 
-###  Refund Policy on Events and Programs 
+In order to enable you to exercise these rights with ease and to record your preferences in relation to how GeniusU uses your personal data please contact us by emailing to [support@geniusu.com](mailto:support@geniusu.com)
 
-If you find that you are unable to attend the event or program on the dates for which you have enrolled, you may transfer your enrolment, without penalty, to the same course that we may convene provided you do so at least thirty (30) days prior to the original course date and that your rescheduled date occurs within twelve (12) months of the original course date. However, you agree that we may not convene the same or similar course again and that there is no obligation on us to do so. If you do not reschedule as per the conditions stipulated above you will forfeit the money you paid to attend and you will have no other claim against us for a refund or compensation. 
+### 4\. Controllers of Personal Information 
 
-No refund can be made for cancellations or no-show at the event upon successful registrations. No refund can be made on any of the courses and mentoring programs organised by Wealth Dynamics or its partners. However, substitutions will be welcomed if you are unable to attend. Wealth Dynamics Pte Ltd has the right to charge or withhold an administration fee of US$500 should a cancellation or refund be requested within the time frame of the consumers country of origin consumer compliance cooling off period. 
+  * Any personal information provided to or gathered by GeniusU.com is controlled by GeniusU Pte Ltd, Entrepreneurs Institute (Wealth Dynamics Pte Ltd), Entrepreneur Resorts Pte Ltd (together the data controllers). GeniusU Pte Ltd of #18-15, Temasek Ave, Centennial Tower, Singapore 039190 acts as data processor on behalf of the data controllers.
 
-###  Program Changes 
 
-We may for any reason deem it necessary to change the program dates, audience capacity, venue, speaker or hours without prior notice. In such circumstances, you retain the right to reschedule your enrolment in accordance with our rescheduling policy. 
 
-###  Event Cancellation 
 
-If for any reason we deem it necessary to do so, we may cancel any event or program by notifying you in writing, in which case, we will refund the total amount you have paid for your enrolment. This is your sole right and remedy against us and you will have no other claim against us for a refund or for compensation. 
+### 5\. Types of information we gather 
 
-###  Returns Policy 
+The information we learn from customers helps us personalise and continually improve your shopping experience at GeniusU.com. We use the information to handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, update our records and generally maintain your accounts with us, display content such as wish lists and customer reviews and recommend merchandise and services that might be of interest to you. We also use this information to improve our store and website, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf.
 
-For shipped products, you may return most new, unopened items within 30 days of delivery for a full refund. We’ll also pay the return shipping costs if the return is a result of our error (you received an incorrect or defective item, etc. 
+Here are the types of information we gather:
 
-You should expect to receive your refund within four weeks of giving your package to the return shipper, however, in many cases you will receive a refund more quickly. This time period includes the transit time for us to receive your return from the shipper (5 to 10 business days), the time it takes us to process your return once we receive it (3 to 5 business days), and the time it takes your bank to process our refund request (5 to 10 business days) 
+  * **Information You Give Us:**  We receive and store any information you enter on our website or give us in any other way. You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising the GeniusU experience for you, improving our website/ apps, and communicating with you. 
+  * **Automatic Information:**  We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and we obtain certain types of information when your web browser accesses GeniusU.com or advertisements and other content served by or on behalf of GeniusU on other websites. 
+  * **Mobile:**  When you download or use apps created by GeniusU or its subsidiaries and, where applicable, have requested or consented to location services, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as search results, and other personalised content. Most mobile devices allow you to turn off location services. 
+  * **E-mail Communications:**  To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from GeniusU.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your subscriptions through the [manage subscriptions page](http://email.geniusu.com/)
+  * **Information From Other Sources:**  we might receive information about you from other sources and add it to our account information. 
 
-If you need to return an item, simply login to your account, view the order using the “Complete Orders” link under the My Account menu and click the Return Item(s) button. We’ll notify you via e-mail of your refund once we’ve received and processed the returned item. 
 
-###  Intellectual property 
 
-By providing you with the Materials and the information presented in the course of our performing the Event/course, we do not transfer title to you in or of any of Our Intellectual Property and you may not: 
+### 6\. What About Cookies? 
 
-(a) alter any of Our Intellectual Property, including the Materials, or copy or reproduce the content of the Event/course or of the Materials or record them by audio, visual or audio-visual means, in any format, or 
+We use cookies, pixels, and other technologies (collectively, "cookies") to recognise your browser or device, learn more about your interests, and provide you with essential features and services and for additional purposes, including:
 
-(b) on-sell the intellectual property or the Materials or make them available for public viewing or hire, to or by any third party. You authorize us to use any digital, film or other recording of your participation in the Event/course for any purpose, at our discretion, including without limitation, in connection with the marketing and promotion of Event Services and concede that we shall have sole right to the intellectual property therein. 
+  * Recognising you when you sign-in to use our services. This allows us to provide you with product recommendations, display personalised content, recognise you as a Mentor, Leader, Partner, Investor or member, enable you to use 1-Click purchasing, and provide other customised features and services.
+  * Keeping track of your specified preferences. This allows us to honour your likes and dislikes.
+  * Keeping track of items stored in your shopping cart.
+  * Conducting research and diagnostics to improve GeniusU's content, products, and services.
+  * Preventing fraudulent activity.
+  * Improving security.
+  * Delivering content, including ads, relevant to your interests on GeniusU sites and third-party sites.
+  * Reporting. This allows us to measure and analyse the performance of our services.
 
-###  Event Etiquette 
 
-No Photography, Video recording and Audio recording is allowed for this event unless stated otherwise. No admission for infant in arms & child aged below 14 years old. For an entry for a child who is 14 years old/above, a valid ticket is required. 
 
-###  Mental, Emotional & Physical Well-being 
+GeniusU cookies allow you to take advantage of some of GeniusU's essential features. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any GeniusU products and services that require you to sign in.
 
-At all times you are responsible for your own mental, emotional and physical well-being. You warrant that you are able to judge what activities are suitable for you. You acknowledge that we are not aware of any conditions you may have and you hold us to be without any blame for any mental, physical or emotional loss, damage or harm that arises from your attendance. We reserve the right without refund or compensation to refuse admission to any person whose conduct is disorderly or unbecoming. 
+Approved third parties may also set cookies when you interact with GeniusU services. Third parties include search engines, providers of measurement and analytics services, social media networks, and advertising companies. Third parties use cookies in the process of delivering content, including ads relevant to your interests, to measure the effectiveness of their ads, and to perform services on behalf of GeniusU.
 
-###  Shipping 
+You can manage browser cookies through your browser settings. The 'Help' feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, how to disable cookies, and when cookies will expire. If you disable all cookies on your browser, neither we nor third parties will transfer cookies to your browser. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some features and services may not work.
 
-We can ship to virtually any address in the world. Note that there are restrictions on some products, and some products cannot be shipped to international destinations. 
+### 7\. Does GeniusU.com Share the Information it Receives? 
 
-When you place an order, we will estimate shipping and delivery dates for you based on the availability of your items and the shipping options you choose. Depending on the shipping provider you choose, shipping date estimates may appear on the shipping quotes page. 
+Information about our customers is an important part of our business and we are not in the business of selling it to others. GeniusU shares customer information only as described below and with Entrepreneurs Institute (Wealth Dynamics Pte Ltd) and Entrepreneur Resorts and the subsidiaries which GeniusU, controls and that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
-Please also note that the shipping rates for many items we sell are weight-based. The weight of any such item can be found on its detail page. To reflect the policies of the shipping companies we use, all weights will be rounded up to the next full pound. 
+  * **Mentor and Partner Businesses We Do Not Control:**  We work closely with mentors businesses. In some cases, these businesses operate stores at GeniusU.com. In other cases, we operate stores, provide services or sell product lines jointly with or on behalf of these businesses. You can tell when a third party is involved in your transactions and we share customer information related to those transactions with that third party. 
+  * **Third Party Service Providers:**  We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering courses, events, trainings, projects, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process the personal information in accordance with this Privacy Notice and as permitted by applicable data protection laws. 
+  * **Promotional Offers:**  Sometimes we send offers to selected groups of GeniusU customers on behalf of other businesses. When we do this, we do not give that business your name and address. 
+  * **Business Transfers:**  As we continue to develop our business, we might sell or buy stores, subsidiaries or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that GeniusU or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+  * **Protection of GeniusU and Others:**  We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property or safety of GeniusU, our users or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing or otherwise disclosing personally identifiable information from customers for commercial purposes in a way that is contrary to the commitments made in this Privacy Notice. 
+  * **With Your Consent:**  Other than as set out above, you will receive notice when information about you might go to third parties and you will have an opportunity to choose not to share the information. 
 
-###  Disclosure 
 
-We may pay commissions to third parties arising from your entering into this agreement with us. 
 
-Wealth Dynamics Pte Ltd have the right to charge interest on overdue accounts and any fees incurred in the collection of outstanding funds including through an external debt collection agency will be passed onto the consumer. 
+Whenever we transfer personal information to countries outside of the European Economic Area in the course of sharing information as set out above, we will ensure that the information is transferred in accordance with this Privacy Policy and as permitted by the applicable laws on data protection.
 
-###  General 
+### 8\. How Secure is Information About Me? 
 
-Laws of the Republic of Singapore govern this agreement and you agree to submit to the exclusive jurisdiction of the Singapore Courts. 
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
 
-###  Limitation of Liability 
+We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
 
-Wealth Dynamics does not accept liability for accident, injury or loss suffered while attending the Event/course except in respect of death or personal injury resulting from any act or omission on the part of the supplier. 
+We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you.
 
-We: 
+It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer.
 
-(a) exclude all terms, conditions and warranties implied by custom, the general law or statute or which may cause any part of these Terms or Conditions to be void or voidable; 
+### 9\. What About Third-Party Advertisers and Links to Other Websites? 
 
-(b) limit our liability to you on any account whatsoever to the total amount actually paid by you to us to receive the Event/course; 
+Our site may include third-party advertising and links to other Web sites.
 
-(c) limit our liability to you for any claim (whether arising in contract, tort or statute, for loss or damage suffered by you, connected with or relating to the performance of the Event or your attendance at the Event, to the total amount actually paid by you to us, to receive the Event/course; and 
+### 10\. What Information Can I Access? 
 
-(d) exclude all liability for consequential damage (including but not limited to, lost revenue or lost 
+GeniusU gives you access to a broad range of information about your account and your interactions with GeniusU for the limited purpose of viewing and, in certain cases, updating that information.
 
-profit) suffered by you in any way connected to the Event/course or your exercise of rights under these Terms and Conditions. 
+### 11\. What Choices Do I Have? 
 
-– See more at: www.wealthdynamicscentral. com/ pages/ About 
+As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of GeniusU features 
 
-###  ONLINE AFFILIATES TERMS AND CONDITIONS 
+If you don't want to receive e-mail or other mail from us, please adjust your [Subscription option.](http://email.geniusu.com/)
 
-By signing up as an affiliate with Wealth Dynamics Pte Ltd, you agree to the following Terms of Service. 
+If you don't want us to use personal information that we gather to allow third parties to personalise advertisements we display to you, please drop us an email on [support@geniusu.com](mailto:support@geniusu.com) with the request. 
 
-This agreement is by and between Wealth Dynamics Pte Ltd and/or their assigns and all subscribers. Unless the context requires otherwise, Wealth Dynamics Pte Ltd and/or their assigns shall be referred to as “us, we, or our” and you shall be referred to as “you, your or subscriber.” 
+The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of GeniusU essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any GeniusU products and services that require you to Sign in.
 
-You understand that Wealth Dynamics Pte Ltd and/or their assigns does not guarantee or predict any type of profit or response from said services. Subscriber agrees to hold Wealth Dynamics Pte Ltd harmless from and against any and all losses, claims, expenses, suits, damages, costs, demands or liabilities, joint or several, of whatever kind or nature which Wealth Dynamics Pte Ltd and/or their assigns may become subject arising out of or relating in any way to the use of the services provided under this agreement, including, without limitation, in each case attorneys’ fees, costs and expenses actually incurred in defending against or enforcing any such losses, claims, expenses, suits, damages or liabilities. 
+### 12\. Are Children Allowed to Use GeniusU.com? 
 
-Wealth Dynamics Pte Ltd reserves the right not to accept affiliate applications at our sole discretion, and without obligation to divulge cause. Should an application not be accepted, any url’s (uniform resource locators) and/or marketing resources already provided to the applicant will have any further access withdrawn. 
+GeniusU doesn't promote products to children. We however promote children's products for purchase by adults. If you're under 18, you may use GeniusU.com only with the involvement of a parent or guardian. These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
-A. Services to be Provided. We agree to pay you certain commissions as described on our website for referral sales made by customers. In order for you to receive payment of commissions it is essential that referral purchases be made online after having gained access via your unique affiliate code. You will not be eligible for any commission for sales made through Wealth Dynamics Pte Ltd’s call centre, regardless of whether the referral came through you. 
+We reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders in our sole discretion. You agree that these Terms of Use are supported by reasonable and valuable consideration, the receipt and adequacy of which you hereby acknowledge, including, without limitation, your access to and use of the Website and data, materials and information available at or through the Website.
 
-B. Termination. We may terminate your account: 
+### 13\. How to Contact Us 
 
-(a) if you violate our Terms Of Service Policy 
+If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-(b) if you promote Wealth Dynamics Pte Ltd’s product/services in a manner that is unethical or inappropriate. This is particularly pertinent to our pricing policy which we take extremely seriously. We do not authorise any promotions which conflict with the ticket price offered by our company; or 
+GeniusU Pte Ltd,   
+#18-15, Temasek Ave, Centennial Tower,   
+Singapore 039190   
+Email: [support@geniusu.com](mailto:support@geniusu.com)   
+Tel: +65 68173123 
 
-(c) for any reason, in our sole discretion 
-
-C. No Warranties. WE MAKE NO WARRANTIES TO YOU OF ANY KIND, EXPRESSED OR IMPLIED, WITH RESPECT TO THE SERVICE WEALTH DYNAMICS PTE LTD, ITS SUBCONTRACTORS AND AFFILIATES PROVIDE YOU. WE EXPRESSLY DISCLAIM ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS OF THIS SERVICE FOR A PARTICULAR PURPOSE. We shall not be liable for any damages suffered by you, whether indirect, special, incidental, exemplary, or consequential, including, but not limited to, loss of data or service interruptions, regardless of cause or fault. We are not responsible for your lost profits or for your loss of data or information. If notwithstanding this clause we are held liable to you. 
-
-D. TERMS. You agree: (1) to use our system in a manner that is ethical and in conformity with community standards; (2) to respect the privacy of other users (you shall not intentionally seek data or passwords belonging to other users, nor will you modify files or represent yourself as another user unless explicitly authorised to do so by that user); (3) to respect the legal protection provided by copyright law, trade secret law, or other laws protecting intellectual property; 4) to accept commercial emails from us. 
-
-If we learn of a violation or likely violation of our TERMS OF SERVICE, we will attempt to notify you. If you do not take immediate remedial action which is satisfactory to us, or in the event of a serious violation of the TERMS OF SERVICE, we reserve the right to terminate your account immediately. Every effort will be made to inform you prior to account termination, and to re-establish your account upon receiving such representations from you as we deem appropriate in the circumstances. 
-
-YOUR SERVICE WILL BE TERMINATED IMMEDIATELY AND WITHOUT WARNING SHOULD YOU USE OUR SYSTEM AS PART OF ANY BULK EMAIL CAMPAIGN. You may also be subject to fines and legal actions as a result of your bulk email promotion. 
-
-E. Assignment. This agreement is personal to you. You may not assign your rights under this agreement without our prior written consent. If you do assign your rights, as would be the case were someone other than you to use your account, you shall remain liable to us for any fees due under this agreement. We may assign this agreement at any time. 
-
-F. Change of Terms and Conditions. We reserve the right to change the terms and conditions of this agreement as needed. Use of our servers by you after said changes constitutes acceptance of those new terms and conditions. If you do not agree to the new terms and conditions, you may terminate this agreement in accordance with Section B. 
-
-G. Notification of Account Changes. You agree to provide us with such other information relating to your use of this service as we deem necessary or desirable. You agree to notify us if your address, email address, telephone number or billing information changes. 
-
-H. Notices. All notices, requests, demands, and other communications under this agreement shall be in writing and shall be deemed to have been given on the date of delivery: if delivered personally to the party to whom notice is to be given; if sent by electronic mail with a cc: to sender; if sent by fax; or on the third day after mailing by first class mail. 
-
-I. General Provisions. The subject headings of the articles and sections are for convenience only, and shall not affect the construction or interpretation of any of its provisions. If any portion of this agreement is found invalid or unenforceable, that portion shall be severed and the remainder of this agreement shall remain in force. This agreement constitutes the entire agreement between us pertaining to its subject matter and supersedes all of our prior agreements, representations, and understandings. Subject to Section I, no supplement, modification, or amendment of this agreement shall be binding unless executed in writing by both parties. No waiver of any of the provisions of this agreement shall be deemed, or shall constitute, a waiver of any other provision, whether or not similar, nor shall any waiver constitute a continuing waiver. No waiver shall be binding unless executed in writing by the party making the waiver. This agreement may be executed in one or more counterparts. Each shall be deemed an original, but all of which together shall constitute one and the same instrument. If an organization is the subscriber, the individual signing up for our services represents that he or she is duly authorised to enter into this agreement on behalf of that organization. In the event of a dispute, the parties agree to submit the matter to the Community Dispute Resolution Service or any recognised Arbitration Board located within our state and county, before instituting litigation. 
-
-##  Introduction 
-
-Wealth Dynamics Pte Ltd understands that you value your privacy and that you wish to have your personal information kept secure. For these reasons, we place a high priority on the security of information we hold. We have developed this policy to inform you about how we manage your personal information and maintain its integrity and security in accordance with the Australian Privacy Principles and relevant industry privacy codes. 
-
-We may review and update this Privacy Policy from time to time to take account of new laws and technology. All personal information held by us will be governed by the most up-to-date version of this Privacy Policy posted on our website (http://www.wealthdynamicscentral.com/). 
-
-###  Contact us about privacy 
-
-If you have any questions or would like further information about our privacy and information handling practices, please contact us: 
-
-**Wealth Dynamics Pte Ltd**   
-10 Gopeng Street   
-27-22 Icon Tower 2   
-Singapore 078878   
-Tel: +65 63230866   
-Fax: +65 67220697   
-Email: support@wealthdynamics.org 
-
-What kinds of personal information is collected and held? 
-
-Personal information collected and held by us may include the following: 
-
-name, postal and email address 
-
-date of birth 
-
-contact details including telephone numbers (landline and mobile) gender 
-
-occupation and employment details 
-
-images or sounds of you attending our events or enjoying our services and products. We may make videos, take photographs or make audio recordings of our events, services and products which may include you. 
-
-We will collect this information from you directly where it is reasonable and practicable to do so. 
-
-We may collect personal information directly from you when you: 
-
-provide information to us in any way (including by completing a form, disclosing information over the phone, registering for an event or providing us with a business card); 
-
-visit our website; 
-
-acquire goods from us or use our services (including via our website); 
-
-request information about us, our products or our services; 
-
-provide feedback; 
-
-fill in a form on our website; or 
-
-where we are required or authorised by law to do so. 
-
-###  How is your personal information used? 
-
-We collect personal information primarily to record appropriate details for any service or order you have placed with us, and also that we may: 
-
-administer our customer relationships; 
-
-provide you with information, products or services you have requested; 
-
-review and assess our products and services; 
-
-collect and analyse information for marketing and research purposes; 
-
-assist customers by providing them with information; 
-
-personalise and customise your experiences with our website (www.empowernet.com.au); 
-
-communicate with you; and 
-
-provide you with ongoing information about which we believe you may be interested. 
-
-You consent to us using your personal information in those ways and for sending you information about our products, services and special offers, as well as the products and services of our affiliates and third parties, now and in the future. You also consent to us sending you the information by direct mail, telemarketing, email, SMS and MMS messages. 
-
-As mentioned above, we may make videos, take photographs or make audio recordings of our events, services and products which may include your image or voice. You consent to being included in those videos, photographs and audio recordings. 
-
-###  Overseas data transfers 
-
-Your personal information may be disclosed, transferred, stored, processed or used in the United States of America (USA), Singapore, United Kingdom (UK), Australia, New Zealand, Indonesia, Europe, Philippines and Malaysia by us or by our third party service providers. This may happen when you use our website, when we outsource certain activities overseas or if transactions, information, services or products have an overseas connection. You consent to the collection, use, storage, and processing of your personal information in an overseas country. 
-
-###  Accessing your personal information 
-
-You have a right under the Privacy Act 1988 (Cth) (Privacy Act) to request access and seek correction to your personal information. You may do so by contacting us using the contact details above. In ordinary circumstances we will give you full access to your personal information. However, there may be some legal or administrative reasons to deny access. If access is denied, we will provide you with the reason why. 
-
-###  Security of your personal information 
-
-We are committed to maintaining the security and confidentiality of the data you provide us and we will take all reasonable precautions to protect your personal information with the aid of our stringent security procedures and the latest technology. Any personal information you provide to us will be collected and held by us or on our behalf. Access to and use of personal information within Wealth Dynamics Pte Ltd is appropriately limited to prevent misuse or unlawful disclosure of the information. 
-
-If other organisations provide support services, we require them to appropriately safeguard the privacy of the information provided to them. 
-
-Where the personal information we collect is no longer required, we delete the information or permanently de-identify it. 
-
-We will not otherwise disclose your personal information unless the disclosure: 
-
-is in accordance with this Privacy Policy or any agreement you enter into with us; 
-
-is required by law; 
-
-is authorised by law; or 
-
-is made with your consent. 
-
-###  Personal information quality 
-
-We aim to ensure that your personal information is accurate, complete and up to date. To assist us in this, you need to provide true, accurate, current and complete information about yourself as requested, and properly update the information to us to keep it true, accurate, current and complete. 
-
-Please contact us if you believe that the information is inaccurate or incomplete, and we will use all reasonable effort to correct the information. 
-
-If we do not believe the information to be incorrect, we will take reasonable steps to add a statement to the information to the effect that you believe the information is not accurate, complete or up-to-date. 
-
-###  The use of cookies technology 
-
-A ‘cookie’ is a packet of information placed on a user’s computer by a website for record keeping purposes. Cookies are generally used on our website (www.empowernet.com.au) for the following purposes: 
-
-Monitoring website traffic – we use tracking companies and software to gather information about how people are using our website, this information includes time of visit, pages visited, and some system information about the type of computer you are using. We use this information to enhance the content and services offered on our website. 
-
-Manage advertising – we use advertising companies to deliver parts of our online advertising. When you see one of our ads on a third party website, cookies are sometimes used to collect information about what pages you visit and the type of software you are using. 
-
-Cookies may also be used for other purposes on our website but in each case none of the information collected can be used to personally identify you. 
-
-You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. 
-
-If you disable the use of cookies on your web browser or remove or reject specific cookies from our website or linked sites then you may not be able to gain access to all of the content and facilities in those websites. 
-
-###  Complaints handling 
-
-If you are concerned that the way in which we have dealt with your personal information involves a potential breach of the Privacy Act, you may contact us using the details above, providing us with details in writing of your complaint. We will investigate such a complaint promptly and will contact you for further information if required. If you feel that we have not satisfactorily addressed your complaint, you may also make a complaint to the Office of the Australian Information Commissioner by visiting www.oaic.gov.au or by writing to GPO Box 5218 Sydney NSW 2001 or GPO Box 2999 Canberra ACT 2601. 
-
-All complaints should be made in writing detailing relevant information pertaining to the complaint and the parties involved in the alleged breach. 
-
-###  Further Information 
-
-If you would like more information about how we handle your personal information, please contact us using the details above. 
+ 
