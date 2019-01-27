@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primrose.co.uk privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611135123id_/http%3A//www.primrose.co.uk/privacy.php%3Fsrc%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primrose.co.uk privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127192406id_/https%3A//www.primrose.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Primrose Privacy Policy
 
@@ -11,6 +11,6 @@ We may use third-party advertising companies to serve ads when you visit our web
 **Cookies**  
 We use cookies on Primrose.co.uk to maximise your shopping experience by providing you with personalised features (like products you may be interested in based on what you've viewed previously). Your browser will need to accept cookies, as we can only provide you with these features by using them. 
 
-[View more information about Cookies and our Cookies Policy](http://www.primrose.co.uk/privacy_cookies.php)
+[View more information about Cookies and our Cookies Policy](https://www.primrose.co.uk/privacy_cookies.php)
 
 If you have concerns about our privacy policy, please [contact us](https://www.primrose.co.uk/contact_us.php). 
