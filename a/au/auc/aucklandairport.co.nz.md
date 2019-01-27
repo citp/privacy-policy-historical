@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aucklandairport.co.nz privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020081918id_/https%3A//www.aucklandairport.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aucklandairport.co.nz privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128003856id_/https%3A//www.aucklandairport.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Auckland Airport
 
@@ -6,7 +6,7 @@
 
 Auckland International Airport Limited ("Auckland Airport", "we", "us") is committed to respecting your privacy at all times. This Privacy Policy sets out how we collect, use, store and disclose your personal data to ensure we comply with our obligations under the Privacy Act 1993 and the European Union General Data Protection Regulation.
 
-By providing your personal data or using our services in relation to The Mall and /or Strata Club, you agree to this Privacy Policy. If you provide data about any other person, then you must have authorisation from that person to provide such data to us. 
+By providing your personal data or using our services, including in relation to The Mall and /or Strata Club, you agree to this Privacy Policy. If you provide data about any other person, then you must have authorisation from that person to provide such data to us. 
 
 Auckland Airport is the data controller of the personal data.
 
@@ -22,8 +22,8 @@ _Data collected from your general interactions with us_
   * name, contact details, date of birth, flight and booking details, passport details, driver licence number, credit card details;
   * location and movements in public areas of the airport and its close surroundings, (via CCTV footage);
   * vehicle licence plate number;
-  * phone conversations with our staff, which may be recorded; 
-  * email communications, and your written and verbal interactions with us;
+  * conversations with our staff, agents or other persons, which may be recorded; 
+  * email communications, and your written and verbal interactions with us or our agents;
   * number of visits to the airport;
   * image (via photograph or film) as you move around our property;
   * travel destination or preferred destinations;
@@ -44,7 +44,7 @@ Personal data will ordinarily be collected directly from you when you interact w
 
 We (and any authorised third parties in accordance with this Privacy Policy) may also collect personal data:
 
-  * by recording calls you make to our staff;
+  * by recording conversations you have with our staff, agents or others persons on our property;
   * though the recording of your image on CCTV footage in and around our airport;
   * when you submit an application for employment or contracting opportunities with us;
   * when you subscribe to any Auckland Airport newsletters, participate in surveys, competitions or promotions;
