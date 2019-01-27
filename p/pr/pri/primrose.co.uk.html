@@ -1,29 +1,39 @@
-<!--The following is the downloaded HTML source of the primrose.co.uk privacy policy that was archived on 2016-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611135123id_/http%3A//www.primrose.co.uk/privacy.php%3Fsrc%3Dfooter) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the primrose.co.uk privacy policy that was archived on 2019-01-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190127192406id_/https%3A//www.primrose.co.uk/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<!DOCTYPE html><html dir="ltr" lang="en" xmlns:fb="http://ogp.me/ns/fb#" class=" async-hide"><head>
 
-    <base href="http://www.primrose.co.uk/">
-    <script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TB2V"></script><script src="//cdn.optimizely.com/js/6072097.js"></script>
+    <base href="https://www.primrose.co.uk/">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TB2V"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwABVl5SGwAAV1RbAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(13),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(14),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(16)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(13),c=t(14),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,s=c.match(a);s&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(o="Safari",i=s[1])}e.exports={agent:o,version:i,match:r}},{}],13:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],14:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],15:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],16:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(14),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=m(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[g[n]];return d&&d.push([x,n,r,a]),a}}function p(t,e){w[t]=m(t).concat(e)}function h(t,e){var n=w[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return w[t]||[]}function v(t){return d[t]=d[t]||o(n)}function y(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var w={},g={},x={on:p,addEventListener:p,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:y,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(13),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+b.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+b.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-b.offset}var c=(new Date).getTime(),s=t("handle"),f=t(13),u=t("ee"),d=t(12),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,y=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var w=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},x=v&&y&&y[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:x,userAgent:d};t(9),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),s("mark",["firstbyte",c],null,"api");var E=0,O=t(15)},{}]},{},["loader",2,7]);</script>
     <link rel="shortcut icon" href="/favicon.ico">
     <title> Primrose Privacy Policy </title>
 
-
                 <meta name="viewport" content="width=device-width, initial-scale=1">
-            <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwABVl5SGwAAV1RbAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
-            <meta name="description" content="Find out the full information on how we use and store your details for deliveries and advertising at Primrose.">
-                    <link rel="canonical" href="http://www.primrose.co.uk/privacy.php">
-            
+                    <meta name="description" content="Find out the full information on how we use and store your details for deliveries and advertising at Primrose.">
+                    
+        <link rel="canonical" href="https://www.primrose.co.uk/privacy.php">
+        
+    
+    <!-- Google Optimize Page Hiding Snippet -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',3000,
+{'GTM-566HWT3':true});</script>
+<!-- End Google Optimize Page Hiding Snippet -->
 
-        <link rel="stylesheet" type="text/css" href="normal.css?_=20160408">
-                                            <link rel="stylesheet" type="text/css" href="styles/review_blogs_guides.css">
-                                    
-
-    <link rel="stylesheet" type="text/css" href="https://d36mpcpuzc4ztk.cloudfront.net/css/visitor.css"></head>
-<body class=" layout--responsive">
-
-
-        <!-- Google Tag Manager -->
+<!-- Google UA for Optimise -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-563266-1', 'auto', {allowLinker: false});
+ga('require', 'GTM-566HWT3');
+</script>
+<!-- End Google UA for Optimise -->
+<!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TB2V"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -33,6 +43,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-TB2V');</script>
 <!-- End Google Tag Manager -->
 
+
+        <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Handlee">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:300,400,700">
+
+    <link rel="stylesheet" href="/js/pz-js/global.css?_=c16fc146" type="text/css">
+
+                                            <link rel="stylesheet" type="text/css" href="styles/review_blogs_guides.css">
+                                    
+
+
+    </head>
+<body class=" layout--responsive">
+
+
+        
 <!-- FB Like JS SDK code -->
 <!--    <div id="fb-root"></div>
       <script type="text/javascript" async>
@@ -47,11 +73,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           }(document, 'script', 'facebook-jssdk'));
           /*]]>*/
       </script>
-  --><script src="http://www.google.com/jsapi" type="text/javascript"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"></script>
+  --><script src="https://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"></script>
 
-<link rel="stylesheet" href="/js/pz-js/supermenu.2c952758.css" type="text/css">
+
+
 <script src="/includes_shared/module_boxes/js/jquery.hoverIntent.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
@@ -61,28 +88,37 @@ var default_hide = false
 
 $(document).ready(function(){
   $('#nav_menu_btn').click(function(){
-    $('#nav_menu_drop').slideToggle("fast", function(){
+    $('#headingTopTabsContainer').slideToggle("fast", function(){
       $(this).parent('#nav_menu').toggleClass('selected');
     });
   });
 
-  //Hide menu when anything else is clicked
-	$('html').click(function() {
-		$('#nav_menu_drop').slideUp();
-		$('#nav_menu').removeClass('selected');
-	});
-	//Ignore button from above
-	$('#nav_menu').click(function(event){
-	    event.stopPropagation();
-	});
+  //Ignore button from above
+  $('#nav_menu').click(function(event){
+      event.stopPropagation();
+  });
+
+  //Mobile Nav
+  $('.navigation-category>li>a').click(function(event){
+      if(screen.width <= 890) {
+        event.preventDefault();
+        //If this is visible hide
+        if($(this).parent().find('ul').is(':visible')) {
+          $(this).parent().find('ul').slideUp();
+        }else {
+          //Hide all navs
+          $('.navigation-category>li>ul').slideUp()
+          //Display child nav
+          $(this).parent().find('ul').slideDown();
+        }
+      }
+  });
+
 });
 
 </script>
 
 
-<form method="post" action="/privacy.php?src=footer">
-  <input type="hidden" value="large" name="page_style">
-</form>
 
 
 
@@ -95,128 +131,60 @@ $(document).ready(function(){
 
     <div class="rowBackground">
         <div class="responsiveContainer">
-            <div id="nav_menu">
+
+          <div id="nav_menu">
               <div id="nav_menu_btn">
                 <div id="burger_icon"></div>
               </div>
-              <div id="nav_menu_drop" style="display: none;">
-                <a class="nav_menu_drop-home" href="/?src=m_nav">Home</a>
-                <a class="nav_menu_drop-basket" href="basket.mvc?src=m_nav">Your Basket</a>
-                <a class="nav_menu_drop-search" href="search.mvc?src=m_nav">Search</a>
-                <a class="nav_menu_drop-contact" href="contact_us.php?src=m_nav">Contact Us</a>
-                <a class="nav_menu_drop-delivery" href="delivery.php?src=m_nav">Delivery &amp; Returns</a>
-                                    <a class="nav_menu_drop-login" href="account.mvc/login?src=m_nav">Log In</a>
-                                </div>
-            </div>
+          </div>
 
-            <a class="logo_m" href="/?src=logo_m">
-              <img src="images/prim_siteHeader_logotext.png" alt="Primrose - everything garden">
-            </a>
 
-            <div id="HeaderTopRight">
+          <div id="HeaderLogo">
+            <a href="/">
+              <img src="/images/primrose-pink-white-logo.png">Primrose<span class="logo_tld">.co.uk</span></a>
+          </div>
+
+
+          <div id="HeaderRight">
               <div id="HeaderTopRight_contact">
-                              <a class="top_mini_navlink" href="https://www.primrose.co.uk/account.mvc/login?src=header" rel="noindex" style="margin-left:0px;">
+
+
+
+                                <div id="view_basket_container">
+                    <a rel="noindex" href="/basket.mvc" class="infoButton" id="view_basket">
+                        <span class="basketText">Your Basket</span>
+                                                    <img src="images/shopping_cart_webshop_default.png" alt="">
+                                                </a>
+                    </div>
+                
+
+                                <a id="header_login" href="/account.mvc/login" rel="noindex">
                   Log In
                 </a>
-                                <a class="top_mini_navlink" href="/about_us.php?src=header">About Us</a><a class="top_mini_navlink" href="/media.php?src=header">TV</a>
-                <span class="top_mini_navlink">
-<!-- boldchat link text disabled --><a href="javascript:void(0)" class="freshchat-clickable">Chat Live</a>
-                </span>
                 
+
                 <!-- CS Phone Number -->
-                <a id="header_phone_number" href="/contact_us.php?src=telephoneheader">
+                <a id="header_phone_number" href="/contact_us.php">
                   0118 903 5210                </a>
+
               </div>
 
-              <div id="HeaderTopRight_icons">
-                <!-- Review Count -->
-                                                <a id="review_count_header" href="a-selection-of-product-reviews.php?src=reviewsheader">
-                  <span>143k</span>
-                </a>
-                
-                <!-- Facebook Like -->
-                <div id="facebook_header">
-                  <!--                    <div class="fb-like" data-href="https://www.facebook.com/Primrose.co.uk" data-layout="button_count"
-                      data-action="like" data-show-faces="false" data-share="false">
-                    </div>
-                  -->                </div>
 
-                <!-- AMAZON checkout -->
-                                <script type="text/javascript">
-                  /*<![CDATA[*/
-                  $(document).ready(function() {
-                    $('#amazon_checkout_header').click(function(e){
-                      e.preventDefault();
-                      url = $(this).attr('href');
-                      window.open(url,"Amazon Checkout Information",'width=450,height=500,left=100,top=50,scrollbars=1');
-                    });
-                  });
-                  /*]]>*/
-                </script>
-                
-                <div style="clear:both;"></div>
-                                <a class="amazon_checkout_header" id="amazon_checkout_header_1" href="/basket.mvc/amazon/info?src=amazon_header" target="_blank">
-                </a>
-                
-                <!-- PayPal -->
-                <a id="paypal_checkout_header" href="/help.php?src=paypal_icon_header#howtopay">
-                </a>
-
-                <!-- MasterCard Visa -->
-                <a id="creditcard_checkout_header" href="/help.php?src=ccard_icon_header#howtopay">
-                </a>
-              </div>
             </div>
-            <!-- End of Top Right Header -->
 
-            <div class="logoLink" itemscope="" itemtype="http://schema.org/Organization">
-                <a href="/?src=logo" itemprop="url">
-                    <img alt="Primrose" itemprop="logo" src="/images/primrose_co_uk_logo.png" style="height:120px; width:120px;" title="Primrose">
-                    </a>
-                <span class="handwritten"> everything garden </span>
-                </div>
 
-            <div class="bannerWrap">
-                                    <a href="/delivery.php#returns" target="_blank" title="2 year warranty and 60 days to return">
-                        <img alt="2 year warranty and 60 days to return" src="/images/2_year_60_days_header_banner_nostar_3.png">
-                        </a>
-                                                        <a href="https://www.primrose.co.uk/delivery.php?src=top_banner">
-                        <img alt="Same day dispatch on most items. Check product description" src="/images/same_day_banner_lineUnder.png">
-                        </a>
-                                    </div>
-            </div>         </div> <!-- End of .rowBackground -->
-
-    <div class="rowSearch clearfix navigationBackground">
-        <div class="responsiveContainer">
-            <div class="searchFieldWrap">
-                <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript">
-    var primroseFramework147 = window.primroseFramework147 || {};
-    primroseFramework147.jquery = $.noConflict( true );
-</script>
+           <div id="HeaderSearch">
+              <div class="searchFieldWrap">
+                
 
 
 <script type="text/javascript">
     window.flat_suggest = true;
     </script>
 
-<link href="/js/pz-js/suggest.4f741a6a.css" rel="stylesheet">
-<script src="/js/pz-js/suggest.920acb76.js" type="text/javascript"></script>
-
-
-<script type="text/javascript">
-    $( function() {
-        primroseFramework147.search.init( {
-            getURI              : "/search.mvc/ajax/suggest/",
-            outputElement       : ".response",
-            searchInputElement  : ".search",
-            wholeSearchWrapper  : "#searchForm"
-            } );
-        } );
-    </script>
 
 <form accept-charset="UTF-8" action="/search.mvc" id="searchForm" method="GET">
-    <input name="pz_enc" type="hidden" value="l">
+     <input name="pz_enc" type="hidden" value="l">
 
     
     <input class="submit smallSubmit" type="submit" value="">
@@ -224,74 +192,210 @@ $(document).ready(function(){
 
     <div class="searchAndSuggest">
         <div class="chipAndInput">
-            
+            <!--  -->
+
             <div class="tfWrap">
-                <input autocomplete="off" class="search" name="search_term" placeholder="Water Features, Plants, Greenhouses..." type="search">
+                <input autocomplete="off" class="search" name="search_term" placeholder="" type="search">
                 </div>
             </div>
         <div class="response"></div>
         </div>
 </form>
-                </div>
+              </div>
+           </div>
 
-                            <div id="view_basket_container">
-                    <a rel="noindex" href="https://www.primrose.co.uk/shopping_cart.php?src=view_basket_header" class="infoButton" id="view_basket">
-                        <span class="basketText">Your Basket</span>
-                                                    <img src="images/shopping_cart_webshop_default.png" alt="">
-                                                </a>
-                    </div>
-                            <div id="headingTopBarNavLinks">
-                <a href="https://www.primrose.co.uk/contact_us.php?src=topbar" class="headerNavigation">Contact Us                    </a>
-                <a href="https://www.primrose.co.uk/delivery.php?src=topbar" class="headerNavigation">Delivery &amp; Returns                    </a>
-                </div>
-            </div>
         </div>
+    </div>
 
-    <div class="subnavBackground" id="headingTopTabsContainer">
+
+    <div class="navigationBackground" id="headingTopTabsContainer">
         <div class="responsiveContainer">
-            
+          <div id="nav_menu_drop">
+                                    <a class="nav_menu_drop-login" href="/account.mvc/login">Log In</a>
+                                  <a class="nav_menu_drop-home" href="/">Home</a>
+                <a class="nav_menu_drop-contact" href="/contact_us.php">Contact Us</a>
+                <a class="nav_menu_drop-delivery" href="/delivery.php">Delivery &amp; Returns</a>
+          </div>
+                            
 
     <ul class="navigation-category">
 
         <li>
-            <a href="/"> All Categories </a>
-                            <div class="everything"> 
-    <div class="everythingSection everythingSection_aboutUs">
-        <a href="about_us.php?src=toplink_eftg">
-            <img alt="Primrose" src="product_thumb.php?img=images/wf7003CUTOUTsml.jpg&amp;w=75&amp;h=110" style="float:right;">
-            <span class="sectionTitle">About Us</span>
-            <span style="font-style:italic; color:#999">The biggest range at the best prices for your home and garden</span>
-            </a>
-
-                  <br>
-          <br>
-          <a href="a-selection-of-product-reviews.php?src=eftg" style="display:block; margin:0 auto; width:130px; text-align:center; margin-bottom:23px;">
-            Testimonials:
-            <br>
-            <img src="/images/feefo-images/1.ohgFeefo5.png">          </a>
-                <span style="font-size:0.8em;color:#666;">Visit our other sites:</span>
-        <a class="everythingSection_othersites" href="http://www.primrose-awnings.co.uk?src=supermenu_eftg_prim-lon" target="_blank">
-            <img src="product_thumb.php?img=images/awnings_logo_green.png&amp;w=30&amp;h=30" alt="Primrose Awnings logo">
-            <span style="font-size:0.8em;">Primrose Awnings</span>
-            </a>
-                    </div>
-
+            <a href="/"> Shop Everything Garden <span>❯</span></a>
+                <div class="everything"> 
     <div class="everythingSection">
       <span class="sectionTitle">Grow in your garden</span>
-      <ul><li><a href="https://www.primrose.co.uk/greenhouses-c-696.html?src=toplink_eftg">Greenhouses</a></li><li><a href="https://www.primrose.co.uk/plants-c-7767_4561.html?src=toplink_eftg">Plants</a></li><li><a href="https://www.primrose.co.uk/trees-c-7767_7660.html?src=toplink_eftg">Trees</a></li><li><a href="https://www.primrose.co.uk/flower-bulbs-c-5605.html?src=toplink_eftg">Flower Bulbs</a></li><li><a href="https://www.primrose.co.uk/grow-your-own-c-734.html?src=toplink_eftg">Grow Your Own</a></li><li><a href="https://www.primrose.co.uk/compost-bins-c-38.html?src=toplink_eftg">Compost Bins</a></li><li><a href="https://www.primrose.co.uk/tools-and-equipment-c-32.html?src=toplink_eftg">Tools and Equipment</a></li><li><a href="https://www.primrose.co.uk/planters-c-2.html?src=toplink_eftg">Planters</a></li><li><a href="https://www.primrose.co.uk/watering-and-irrigation-c-32_967.html?src=toplink_eftg">Watering and Irrigation</a></li></ul></div><div class="everythingSection">
+      <ul><li><a href="https://www.primrose.co.uk/greenhouses-c-696.html">Greenhouses</a></li><li><a href="https://www.primrose.co.uk/plants-c-4561.html">Plants</a></li><li><a href="https://www.primrose.co.uk/trees-c-4561_7660.html">Trees</a></li><li><a href="https://www.primrose.co.uk/grow-your-own-c-734.html">Grow Your Own</a></li><li><a href="https://www.primrose.co.uk/compost-bins-c-38.html">Compost Bins</a></li><li><a href="https://www.primrose.co.uk/tools-and-equipment-c-32.html">Tools and Equipment</a></li><li><a href="https://www.primrose.co.uk/planters-c-2.html">Planters</a></li><li><a href="https://www.primrose.co.uk/watering-and-irrigation-c-32_967.html">Watering and Irrigation</a></li></ul></div><div class="everythingSection">
       <span class="sectionTitle">Build in your garden</span>
-      <ul><li><a href="https://www.primrose.co.uk/garden-buildings-c-2714.html?src=toplink_eftg">Garden Buildings</a></li><li><a href="https://www.primrose.co.uk/garden-bridges-c-53.html?src=toplink_eftg">Garden Bridges</a></li><li><a href="https://www.primrose.co.uk/canopies-c-1153.html?src=toplink_eftg">Canopies</a></li><li><a href="https://www.primrose.co.uk/fencing-c-3155.html?src=toplink_eftg">Fencing</a></li><li><a href="https://www.primrose.co.uk/garden-screening-c-318.html?src=toplink_eftg">Garden Screening</a></li><li><a href="https://www.primrose.co.uk/willow-hazel-hurdles-c-65.html?src=toplink_eftg">Willow &amp; Hazel Hurdles</a></li><li><a href="https://www.primrose.co.uk/lawn-edging-c-66.html?src=toplink_eftg">Lawn Edging</a></li><li><a href="http://www.primrose-awnings.co.uk?src=prim_toplink_eftg" target="_blank">Patio Awnings</a></li><li><a href="https://www.primrose.co.uk/marquees-c-11903.html?src=prim_toplink_eftg" target="_blank">Marquees and Party Tents</a></li></ul></div><div class="everythingSection">
+      <ul><li><a href="https://www.primrose.co.uk/garden-buildings-c-2714.html">Garden Buildings</a></li><li><a href="https://www.primrose.co.uk/canopies-c-1153.html">Canopies</a></li><li><a href="https://www.primrose.co.uk/fencing-c-3155.html">Fencing</a></li><li><a href="https://www.primrose.co.uk/garden-screening-c-318.html">Garden Screening</a></li><li><a href="https://www.primrose.co.uk/willow-hazel-hurdles-c-65.html">Willow &amp; Hazel Hurdles</a></li><li><a href="https://www.primrose.co.uk/lawn-edging-c-66.html">Lawn Edging</a></li><li><a href="http://www.primrose-awnings.co.uk" target="_blank">Patio Awnings</a></li><li><a href="https://www.primrose.co.uk/marquees-c-11903.html" target="_blank">Marquees and Party Tents</a></li></ul></div><div class="everythingSection">
       <span class="sectionTitle">Entertain in your garden</span>
-      <ul><li><a href="https://www.primrose.co.uk/bbq-c-2035.html?src=toplink_eftg">BBQ</a></li><li><a href="https://www.primrose.co.uk/led-battery-candles-c-1208.html?src=toplink_eftg">LED Battery Candles</a></li><li><a href="https://www.primrose.co.uk/outdoor-heating-c-1299.html?src=toplink_eftg">Outdoor Heating</a></li><li><a href="https://www.primrose.co.uk/garden-furniture-c-3238.html?src=toplink_eftg">Garden Furniture</a></li><li><a href="https://www.primrose.co.uk/gazebos-c-4708.html?src=toplink_eftg">Gazebos</a></li><li><a href="https://www.primrose.co.uk/garden-lighting-c-28.html?src=toplink_eftg">Garden Lighting</a></li><li><a href="https://www.primrose.co.uk/marquees-c-11903.html?src=prim_toplink_eftg" target="_blank">Marquees and Party Tents</a></li></ul></div><div class="everythingSection">
+      <ul><li><a href="https://www.primrose.co.uk/bbq-c-2035.html">BBQ</a></li><li><a href="https://www.primrose.co.uk/outdoor-heating-c-1299.html">Outdoor Heating</a></li><li><a href="https://www.primrose.co.uk/garden-furniture-c-3238.html">Garden Furniture</a></li><li><a href="https://www.primrose.co.uk/garden-lighting-c-28.html">Garden Lighting</a></li><li><a href="https://www.primrose.co.uk/gazebos-c-4708.html">Gazebos</a></li><li><a href="https://www.primrose.co.uk/wind-spinners-and-windmills-c-43_2255.html">Wind Spinners and Windmills</a></li><li><a href="https://www.primrose.co.uk/marquees-c-11903.html" target="_blank">Marquees and Party Tents</a></li></ul></div><div class="everythingSection">
       <span class="sectionTitle">Relax in your garden</span>
-      <ul><li><a href="https://www.primrose.co.uk/sail-shades-c-85.html?src=toplink_eftg">Sail Shades</a></li><li><a href="https://www.primrose.co.uk/water-features-c-1.html?src=toplink_eftg">Water Features</a></li><li><a href="https://www.primrose.co.uk/garden-mirrors-c-83.html?src=toplink_eftg">Garden Mirrors</a></li><li><a href="https://www.primrose.co.uk/outdoor-clocks-c-136.html?src=toplink_eftg">Outdoor Clocks</a></li><li><a href="https://www.primrose.co.uk/statues-garden-art-ornaments-c-43.html?src=toplink_eftg">Statues, Garden Art &amp; Ornaments</a></li><li><a href="http://www.primrose-awnings.co.uk?src=prim_toplink_eftg" target="_blank">Patio Awnings</a></li></ul></div><div class="everythingSection">
+      <ul><li><a href="https://www.primrose.co.uk/sail-shades-c-85.html">Sail Shades</a></li><li><a href="https://www.primrose.co.uk/water-features-c-1.html">Water Features</a></li><li><a href="https://www.primrose.co.uk/garden-mirrors-c-83.html">Garden Mirrors</a></li><li><a href="https://www.primrose.co.uk/outdoor-clocks-c-136.html">Outdoor Clocks</a></li><li><a href="https://www.primrose.co.uk/awnings-c-149.html">Awnings</a></li><li><a href="https://www.primrose.co.uk/statues-garden-art-ornaments-c-43.html">Statues, Garden Art &amp; Ornaments</a></li><li><a href="http://www.primrose-awnings.co.uk" target="_blank">Patio Awnings</a></li></ul></div><div class="everythingSection">
       <span class="sectionTitle">Wildlife in your garden</span>
-      <ul><li><a href="https://www.primrose.co.uk/wild-bird-care-c-1191.html?src=toplink_eftg">Wild Bird Care</a></li><li><a href="https://www.primrose.co.uk/bird-baths-c-1_134.html?src=toplink_eftg">Bird Baths</a></li><li><a href="https://www.primrose.co.uk/pond-care-accessories-c-22_9139.html?src=toplink_eftg">Pond Care &amp; Accessories</a></li><li><a href="https://www.primrose.co.uk/view-all-pond-oxygenators-c-22_9139_2311.html?src=toplink_eftg">View All Pond Oxygenators</a></li><li><a href="https://www.primrose.co.uk/pond-plants-c-7767_4561_4632_4667.html?src=toplink_eftg">Pond Plants</a></li><li><a href="https://www.primrose.co.uk/pest-control-c-24.html?src=toplink_eftg">Pest Control</a></li></ul></div><div class="everythingSection">
+      <ul><li><a href="https://www.primrose.co.uk/wild-bird-care-c-1191.html">Wild Bird Care</a></li><li><a href="https://www.primrose.co.uk/bird-baths-c-1_134.html">Bird Baths</a></li><li><a href="https://www.primrose.co.uk/pond-care-accessories-c-22_9139.html">Pond Care &amp; Accessories</a></li><li><a href="https://www.primrose.co.uk/pond-plants-c-4561_4667.html">Pond Plants</a></li><li><a href="https://www.primrose.co.uk/pest-control-c-24.html">Pest Control</a></li></ul></div><div class="everythingSection">
       <span class="sectionTitle">When you're not in your garden</span>
-      <ul><li><a href="https://www.primrose.co.uk/heated-gloves-clothing-c-37.html?src=toplink_eftg">Heated Gloves &amp; Clothing</a></li><li><a href="https://www.primrose.co.uk/indoor-clocks-c-721.html?src=toplink_eftg">Indoor Clocks</a></li><li><a href="https://www.primrose.co.uk/solar-blinds-c-664.html?src=toplink_eftg">Solar Blinds</a></li><li><a href="https://www.primrose.co.uk/window-films-c-751.html?src=toplink_eftg">Window Films</a></li><li><a href="https://www.primrose.co.uk/gardening-gifts-c-3.html?src=toplink_eftg">Gardening Gifts</a></li><li><a href="https://www.primrose.co.uk/cast-iron-doormats-and-accessories-c-64.html?src=toplink_eftg">Cast Iron Doormats and Accessories</a></li><li><a href="https://www.primrose.co.uk/cast-iron-umbrella-stands-c-979.html?src=toplink_eftg">Cast Iron Umbrella Stands</a></li><li><a href="https://www.primrose.co.uk/exshowroom-discontinued-damaged-stock-c-520.html?src=toplink_eftg">Ex-showroom/ Discontinued/ Damaged Stock</a></li><li><a class="TextRed" href="specials.php?src=toplink_eftg">Special Offers</a></li></ul></div> </div>
-                            </li>
+      <ul><li><a href="https://www.primrose.co.uk/heated-gloves-clothing-c-37.html">Heated Gloves &amp; Clothing</a></li><li><a href="https://www.primrose.co.uk/indoor-clocks-c-721.html">Indoor Clocks</a></li><li><a href="https://www.primrose.co.uk/solar-blinds-c-664.html">Solar Blinds</a></li><li><a href="https://www.primrose.co.uk/window-films-c-751.html">Window Films</a></li><li><a href="https://www.primrose.co.uk/gardening-gifts-c-3.html">Gardening Gifts</a></li><li><a href="https://www.primrose.co.uk/cast-iron-doormats-and-accessories-c-64.html">Cast Iron Doormats and Accessories</a></li><li><a href="https://www.primrose.co.uk/exshowroom-discontinued-damaged-stock-c-520.html">Ex-showroom/ Discontinued/ Damaged Stock</a></li></ul></div> </div>
+            </li>
 
                     
+                <li class="">
+                    <a href="/heated-gloves-clothing-c-37.html">
+                        Heated Clothing                        </a>
+                    <ul>
+
+                        <li>
+                            <a class="headLink" href="/heated-gloves-clothing-c-37.html">
+                                Heated Clothing                                </a>
+                            </li>
+
+                                                
+                            <li>
+                                <a class="spriteLink c1189" href="/heated-gloves-mittens-liners-c-37_1189.html">
+                                    Heated Gloves, Mittens &amp; Liners                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c1263" href="/heated-socks-insoles-slippers-c-37_1263.html">
+                                    Heated Socks, Insoles &amp; Slippers                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c753" href="/heated-gilets-jackets-c-37_753.html">
+                                    Heated Gilets &amp; Jackets                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c3515" href="/heated-scarves-warmers-c-37_3515.html">
+                                    Heated Scarves &amp; Warmers                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c10473" href="/dual-fuel-heated-clothing-c-37_10473.html">
+                                    Dual Fuel Heated Clothing                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c1192" href="/warmawear-c-37_1192.html">
+                                    Warmawear                                    </a>
+                                </li>
+                            
+                        <li>
+                            <a class="viewAll" href="/heated-gloves-clothing-c-37.html">
+                                View all categories                                </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                        
+                <li class="">
+                    <a href="/outdoor-heating-c-1299.html">
+                        Outdoor Heating                        </a>
+                    <ul>
+
+                        <li>
+                            <a class="headLink" href="/outdoor-heating-c-1299.html">
+                                Outdoor Heating                                </a>
+                            </li>
+
+                                                
+                            <li>
+                                <a class="spriteLink c1300" href="/patio-heaters-c-1299_1300.html">
+                                    Patio Heaters                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c10433" href="/electric-patio-heaters-c-1299_1300_10433.html">
+                                    Electric Patio Heaters                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c5556" href="/gas-patio-heaters-c-1299_1300_5556.html">
+                                    Gas Patio Heaters                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c87" href="/fire-pits-c-1299_87.html">
+                                    Fire Pits                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c1169" href="/chimineas-c-1299_1169.html">
+                                    Chimineas                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c1186" href="/outdoor-fireplaces-c-1299_1186.html">
+                                    Outdoor Fireplaces                                    </a>
+                                </li>
+                            
+                        <li>
+                            <a class="viewAll" href="/outdoor-heating-c-1299.html">
+                                View all categories                                </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                        
+                <li class="redHighlighter">
+                    <a href="/sale-c-6597.html">
+                        Sale                        </a>
+                    <ul>
+
+                        <li>
+                            <a class="headLink" href="/sale-c-6597.html">
+                                Sale                                </a>
+                            </li>
+
+                                                
+                            <li>
+                                <a class="spriteLink c813" href="/planters-offers-c-6597_6603.html">
+                                    Planters Offers                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c11347" href="/water-features-offers-c-6597_10889.html">
+                                    Water Features Offers                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c85" href="/shade-sail-offers-c-6597_6610.html">
+                                    Shade Sail Offers                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c134" href="/birdcare-offers-c-6597_6599.html">
+                                    Bird Care Offers                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c713" href="/ornaments-wind-spinners-offers-c-6597_10914.html">
+                                    Ornament Offers                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c319" href="/screening-offers-c-6597_6602.html">
+                                    Screening Offers                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c7758" href="/garden-furniture-hammocks-offers-c-6597_9887.html">
+                                    Garden Furniture Offers                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c9820" href="/miscellaneous-special-offers-c-6597_9890.html">
+                                    Miscellaneous Offers                                     </a>
+                                </li>
+                            
+                        <li>
+                            <a class="viewAll" href="/sale-c-6597.html">
+                                View all categories                                </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                        
                 <li class="">
                     <a href="/water-features-c-1.html">
                         Water Features                        </a>
@@ -334,11 +438,6 @@ $(document).ready(function(){
                                 </li>
                                                     
                             <li>
-                                <a class="spriteLink c145" href="/water-feature-special-offers-c-1_145.html">
-                                    Water Feature Special Offers                                    </a>
-                                </li>
-                                                    
-                            <li>
                                 <a class="spriteLink c213" href="/view-all-pumps-c-1_213.html">
                                     View All Pumps                                    </a>
                                 </li>
@@ -369,51 +468,105 @@ $(document).ready(function(){
                                                 
                             <li>
                                 <a class="spriteLink c816" href="/large-planters-51cm-c-2_11727_816.html">
-                                    Large Planters 51cm - 1m                                    </a>
+                                    Large 51-100cm                                    </a>
                                 </li>
                                                     
                             <li>
                                 <a class="spriteLink c802" href="/trough-planters-c-2_11728_802.html">
-                                    Trough Planters                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c818" href="/metal-planters-c-2_10809_818.html">
-                                    Metal Planters                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c821" href="/stone-planters-c-2_10809_821.html">
-                                    Stone Planters                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c813" href="/wood-planters-c-2_10809_813.html">
-                                    Wood Planters                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c10175" href="/fibreglass-planters-c-2_10809_10175.html">
-                                    Fibreglass Planters                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c800" href="/tall-flared-square-planters-c-2_11728_800.html">
-                                    Tall / Flared Square Planters                                    </a>
+                                    Troughs                                    </a>
                                 </li>
                                                     
                             <li>
                                 <a class="spriteLink c801" href="/square-cube-planters-c-2_11728_801.html">
-                                    Square / Cube Planters                                    </a>
+                                    Cubes                                    </a>
                                 </li>
                                                     
                             <li>
-                                <a class="spriteLink c1767" href="/special-offers-c-2_1767.html">
-                                    Special Offers                                    </a>
+                                <a class="spriteLink c800" href="/tall-flared-square-planters-c-2_11728_800.html">
+                                    Tall / Flared Square                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c813" href="/wood-planters-c-2_10809_813.html">
+                                    Wood                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c818" href="/metal-planters-c-2_10809_818.html">
+                                    Metal                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c821" href="/stone-planters-c-2_10809_821.html">
+                                    Stone                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c10175" href="/fibreglass-planters-c-2_10809_10175.html">
+                                    Fiberglass                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c810" href="/terracotta-planters-c-2_10809_810.html">
+                                    Terracotta                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c737" href="/raised-beds-c-734_737.html">
+                                    Raised Beds                                    </a>
                                 </li>
                             
                         <li>
                             <a class="viewAll" href="/planters-c-2.html">
+                                View all categories                                </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                        
+                <li class="">
+                    <a href="/plants-c-4561.html">
+                        Plants                        </a>
+                    <ul>
+
+                        <li>
+                            <a class="headLink" href="/plants-c-4561.html">
+                                Plants                                </a>
+                            </li>
+
+                                                
+                            <li>
+                                <a class="spriteLink c7669" href="/ornamental-plants-c-4561_12794.html">
+                                    Ornamental Plants                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c9820" href="/topiary-c-4561_9820.html">
+                                    Topiary                                     </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c5684" href="/fruiting-plants-c-4561_12797.html">
+                                    Fruiting Plants                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c7784" href="/climbing-plants-c-4561_12794_7783_7784.html">
+                                    Climbing Plants                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c7779" href="https://www.primrose.co.uk/rose-bushes-c-4561_12794_4632_7779.html">
+                                    Rose Bushes                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c4667" href="/pond-plants-c-4561_4667.html">
+                                    Pond Plants                                    </a>
+                                </li>
+                            
+                        <li>
+                            <a class="viewAll" href="/plants-c-4561.html">
                                 View all categories                                </a>
                             </li>
                         </ul>
@@ -437,13 +590,8 @@ $(document).ready(function(){
                                 </li>
                                                     
                             <li>
-                                <a class="spriteLink c319" href="/bamboo-cane-screening-c-318_319.html">
-                                    Bamboo Cane Screening                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1376" href="/thick-bamboo-screening-c-318_1376.html">
-                                    Thick Bamboo Screening                                    </a>
+                                <a class="spriteLink c319" href="/bamboo-screening-c-318_319.html">
+                                    Bamboo Screening                                    </a>
                                 </li>
                                                     
                             <li>
@@ -478,6 +626,119 @@ $(document).ready(function(){
                             
                         <li>
                             <a class="viewAll" href="/garden-screening-c-318.html">
+                                View all categories                                </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                        
+                <li class="">
+                    <a href="/pest-control-c-24.html">
+                        Pest Control                        </a>
+                    <ul>
+
+                        <li>
+                            <a class="headLink" href="/pest-control-c-24.html">
+                                Pest Control                                </a>
+                            </li>
+
+                                                
+                            <li>
+                                <a class="spriteLink c312" href="/cat-deterrents-c-24_312.html">
+                                    Cat Deterrents                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c25" href="/mouse-rat-deterrents-c-24_25.html">
+                                    Mouse &amp; Rat Deterrents                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c147" href="/spider-repellents-c-24_147.html">
+                                    Spider Repellents                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c300" href="/mole-deterrents-c-24_300.html">
+                                    Mole Deterrents                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c197" href="/fox-deterrents-c-24_197.html">
+                                    Fox Deterrents                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c119" href="/stop-dog-barking-c-24_119.html">
+                                    Stop Dog Barking                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c26" href="/squirrel-deterrents-c-24_26.html">
+                                    Squirrel Deterrents                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c127" href="/bird-scarers-c-24_127.html">
+                                    Bird Scarers                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c174" href="/deer-repellent-c-24_174.html">
+                                    Deer Repellent                                    </a>
+                                </li>
+                            
+                        <li>
+                            <a class="viewAll" href="/pest-control-c-24.html">
+                                View all categories                                </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                        
+                <li class="">
+                    <a href="/awnings-c-149.html">
+                        Awnings                        </a>
+                    <ul>
+
+                        <li>
+                            <a class="headLink" href="/awnings-c-149.html">
+                                Awnings                                </a>
+                            </li>
+
+                                                
+                            <li>
+                                <a class="spriteLink c305" href="/-c-305.html">
+                                    Awning Accessories                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c85" href="/sail-shades-c-85.html">
+                                    Sail Shades                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c4754" href="/portable-shade-sail-kits-c-85_4754.html">
+                                    Portable Shade Sail Kits                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c2817" href="/-c-2817.html">
+                                    Wind Break Awnings                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c1153" href="/canopies-c-1153.html">
+                                    Canopies                                    </a>
+                                </li>
+                                                    
+                            <li>
+                                <a class="spriteLink c4708" href="/gazebos-c-4708.html">
+                                    Gazebos                                    </a>
+                                </li>
+                            
+                        <li>
+                            <a class="viewAll" href="/awnings-c-149.html">
                                 View all categories                                </a>
                             </li>
                         </ul>
@@ -527,232 +788,6 @@ $(document).ready(function(){
                             
                         <li>
                             <a class="viewAll" href="/sail-shades-c-85.html">
-                                View all categories                                </a>
-                            </li>
-                        </ul>
-                    </li>
-
-                        
-                <li class="">
-                    <a href="/-c-149.html">
-                        Awnings                        </a>
-                    <ul>
-
-                        <li>
-                            <a class="headLink" href="/-c-149.html">
-                                Awnings                                </a>
-                            </li>
-
-                                                
-                            <li>
-                                <a class="spriteLink c305" href="/-c-305.html">
-                                    Awning Accessories                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c85" href="/sail-shades-c-85.html">
-                                    Sail Shades                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c4754" href="/portable-shade-sail-kits-c-85_4754.html">
-                                    Portable Shade Sail Kits                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c2817" href="/-c-2817.html">
-                                    Wind Break Awnings                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1153" href="/canopies-c-1153.html">
-                                    Canopies                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c4708" href="/gazebos-c-4708.html">
-                                    Gazebos                                    </a>
-                                </li>
-                            
-                        <li>
-                            <a class="viewAll" href="/-c-149.html">
-                                View all categories                                </a>
-                            </li>
-                        </ul>
-                    </li>
-
-                        
-                <li class="">
-                    <a href="/pest-control-c-24.html">
-                        Pest Control                        </a>
-                    <ul>
-
-                        <li>
-                            <a class="headLink" href="/pest-control-c-24.html">
-                                Pest Control                                </a>
-                            </li>
-
-                                                
-                            <li>
-                                <a class="spriteLink c25" href="/mouse-and-rat-deterrents-c-24_25.html">
-                                    Mouse and Rat Deterrents                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c119" href="/stop-dog-barking-c-24_119.html">
-                                    Stop Dog Barking                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c312" href="/cat-deterrents-c-24_312.html">
-                                    Cat Deterrents                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c147" href="/spider-deterrents-c-24_147.html">
-                                    Spider Deterrents                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c300" href="/mole-deterrent-c-24_300.html">
-                                    Mole Deterrent                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c197" href="/fox-repellers-c-24_197.html">
-                                    Fox Repellers                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c26" href="/squirrel-deterrents-c-24_26.html">
-                                    Squirrel Deterrents                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c127" href="/bird-repellers-c-24_127.html">
-                                    Bird Repellers                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c174" href="/deer-repellent-c-24_174.html">
-                                    Deer Repellent                                    </a>
-                                </li>
-                            
-                        <li>
-                            <a class="viewAll" href="/pest-control-c-24.html">
-                                View all categories                                </a>
-                            </li>
-                        </ul>
-                    </li>
-
-                        
-                <li class="">
-                    <a href="/outdoor-heating-c-1299.html">
-                        Outdoor Heating                        </a>
-                    <ul>
-
-                        <li>
-                            <a class="headLink" href="/outdoor-heating-c-1299.html">
-                                Outdoor Heating                                </a>
-                            </li>
-
-                                                
-                            <li>
-                                <a class="spriteLink c1300" href="/patio-heaters-c-1299_1300.html">
-                                    Patio Heaters                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c10433" href="/electric-patio-heaters-c-1299_1300_10433.html">
-                                    Electric Patio Heaters                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c5556" href="/gas-patio-heaters-c-1299_1300_5556.html">
-                                    Gas Patio Heaters                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c87" href="/fire-bowls-pits-baskets-and-braziers-c-1299_87.html">
-                                    Fire Bowls, Pits, Baskets, and Braziers                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1169" href="/chimineas-c-1299_1169.html">
-                                    Chimineas                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1186" href="/outdoor-fireplaces-c-1299_1186.html">
-                                    Outdoor Fireplaces                                    </a>
-                                </li>
-                            
-                        <li>
-                            <a class="viewAll" href="/outdoor-heating-c-1299.html">
-                                View all categories                                </a>
-                            </li>
-                        </ul>
-                    </li>
-
-                        
-                <li class="">
-                    <a href="/garden-furniture-c-3238.html">
-                        Garden Furniture                        </a>
-                    <ul>
-
-                        <li>
-                            <a class="headLink" href="/garden-furniture-c-3238.html">
-                                Garden Furniture                                </a>
-                            </li>
-
-                                                
-                            <li>
-                                <a class="spriteLink c7758" href="/dining-sets-c-3238_3244_7758.html">
-                                    Dining Sets                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c5259" href="/sofa-sets-c-3238_3244_5259.html">
-                                    Sofa Sets                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c7754" href="/metal-furniture-sets-c-3238_7753_7754.html">
-                                    Metal Furniture Sets                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c7755" href="/wooden-furniture-sets-c-3238_7753_7755.html">
-                                    Wooden Furniture Sets                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c7756" href="/rattan-weave-furniture-sets-c-3238_7753_7756.html">
-                                    Rattan Weave Furniture Sets                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c3251" href="/benches-c-3238_3244_3251.html">
-                                    Benches                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c3323" href="/furniture-covers-parasols-and-accessories-c-3238_3323.html">
-                                    Furniture Covers, Parasols and Accessories                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c3325" href="/cushions-c-3238_3323_3325.html">
-                                    Cushions                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c3256" href="/swing-seats-c-3238_3244_3256.html">
-                                    Swing Seats                                    </a>
-                                </li>
-                            
-                        <li>
-                            <a class="viewAll" href="/garden-furniture-c-3238.html">
                                 View all categories                                </a>
                             </li>
                         </ul>
@@ -868,357 +903,23 @@ $(document).ready(function(){
 
                         
                 <li class="">
-                    <a href="/willow-hazel-hurdles-c-65.html">
-                        Willow/Hazel Hurdles                        </a>
+                    <a href="/wild-bird-care-c-1191.html">
+                        Wild Bird Care                        </a>
                     <ul>
 
                         <li>
-                            <a class="headLink" href="/willow-hazel-hurdles-c-65.html">
-                                Willow/Hazel Hurdles                                </a>
+                            <a class="headLink" href="/wild-bird-care-c-1191.html">
+                                Wild Bird Care                                </a>
                             </li>
 
                                                 
                             <li>
-                                <a class="spriteLink c1314" href="/willow-hurdles-c-65_1314.html">
-                                    Willow Hurdles                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1315" href="/willow-bunch-weave-hurdles-c-65_1315.html">
-                                    Willow Bunch Weave Hurdles                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1317" href="/framed-hurdles-c-65_1317.html">
-                                    Framed Hurdles                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1316" href="/hazel-hurdles-c-65_1316.html">
-                                    Hazel Hurdles                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1313" href="/contemporary-split-hazel-hurdles-c-65_1313.html">
-                                    Contemporary Split Hazel Hurdles                                    </a>
+                                <a class="spriteLink c127" href="/wild-bird-care-c-1191.html">
+                                    Wild Bird Care                                    </a>
                                 </li>
                             
                         <li>
-                            <a class="viewAll" href="/willow-hazel-hurdles-c-65.html">
-                                View all categories                                </a>
-                            </li>
-                        </ul>
-                    </li>
-
-                        
-                <li class="">
-                    <a href="/heated-gloves-clothing-c-37.html">
-                        Heated Clothing                        </a>
-                    <ul>
-
-                        <li>
-                            <a class="headLink" href="/heated-gloves-clothing-c-37.html">
-                                Heated Clothing                                </a>
-                            </li>
-
-                                                
-                            <li>
-                                <a class="spriteLink c1189" href="/heated-gloves-mittens-liners-c-37_1189.html">
-                                    Heated Gloves, Mittens &amp; Liners                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1263" href="/heated-socks-insoles-slippers-c-37_1263.html">
-                                    Heated Socks, Insoles &amp; Slippers                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c753" href="/heated-gilets-jackets-c-37_753.html">
-                                    Heated Gilets &amp; Jackets                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c3515" href="/heated-scarves-warmers-c-37_3515.html">
-                                    Heated Scarves &amp; Warmers                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c10473" href="/dual-fuel-heated-clothing-c-37_10473.html">
-                                    Dual Fuel Heated Clothing                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1192" href="/warmawear-c-37_1192.html">
-                                    Warmawear                                    </a>
-                                </li>
-                            
-                        <li>
-                            <a class="viewAll" href="/heated-gloves-clothing-c-37.html">
-                                View all categories                                </a>
-                            </li>
-                        </ul>
-                    </li>
-
-                        
-                <li class="">
-                    <a href="/marquees-c-11903.html">
-                        Marquees                        </a>
-                    <ul>
-
-                        <li>
-                            <a class="headLink" href="/marquees-c-11903.html">
-                                Marquees                                </a>
-                            </li>
-
-                                                
-                            <li>
-                                <a class="spriteLink c4708" href="/gazebos-c-4708.html">
-                                    Gazebos                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1532" href="/budget-marquees-c-11903_1532.html">
-                                    Budget Marquees                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1307" href="/marquee-furniture-c-11903_1307.html">
-                                    Marquee Furniture                                    </a>
-                                </li>
-                            
-                        <li>
-                            <a class="viewAll" href="/marquees-c-11903.html">
-                                View all categories                                </a>
-                            </li>
-                        </ul>
-                    </li>
-
-                        
-                <li class="">
-                    <a href="/gardening-gifts-c-3.html">
-                        Gardening Gifts                        </a>
-                    <ul>
-
-                        <li>
-                            <a class="headLink" href="/gardening-gifts-c-3.html">
-                                Gardening Gifts                                </a>
-                            </li>
-
-                                                
-                            <li>
-                                <a class="spriteLink c13" href="/gifts-for-her-c-3_13.html">
-                                    Gifts For Her                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c10" href="/gifts-for-him-c-3_10.html">
-                                    Gifts For Him                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1895" href="/outdoor-gifts-c-3_1895.html">
-                                    Outdoor Gifts                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c9569" href="/make-personal-c-3_9569.html">
-                                    Make It Personal                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c14" href="/gifts-under-25-c-3_14.html">
-                                    Gifts Under £25                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c11" href="/gifts-under-50-c-3_11.html">
-                                    Gifts Under £50                                    </a>
-                                </li>
-                            
-                        <li>
-                            <a class="viewAll" href="/gardening-gifts-c-3.html">
-                                View all categories                                </a>
-                            </li>
-                        </ul>
-                    </li>
-
-                        
-                <li class="">
-                    <a href="/bbq-c-2035.html">
-                        Barbecues                        </a>
-                    <ul>
-
-                        <li>
-                            <a class="headLink" href="/bbq-c-2035.html">
-                                Barbecues                                </a>
-                            </li>
-
-                                                
-                            <li>
-                                <a class="spriteLink c7359" href="/gas-bbq-c-2035_7359.html">
-                                    Gas BBQ                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c7360" href="/charcoal-bbq-c-2035_7360.html">
-                                    Charcoal BBQ                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c7474" href="/masonry-bbq-c-2035_7902_7474.html">
-                                    Masonry BBQ                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c7484" href="/portable-bbqs-c-2035_7902_7484.html">
-                                    Portable BBQs                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c7486" href="/smokers-c-2035_7902_7486.html">
-                                    Smokers                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c7655" href="/bbq-covers-c-2035_2177_7655.html">
-                                    BBQ Covers                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c7684" href="/bbq-special-offers-c-2035_7684.html">
-                                    BBQ Special Offers                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c2177" href="/bbq-accessories-c-2035_2177.html">
-                                    BBQ Accessories                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c7654" href="/barbecue-fuel-c-2035_7654.html">
-                                    Barbecue Fuel                                    </a>
-                                </li>
-                            
-                        <li>
-                            <a class="viewAll" href="/bbq-c-2035.html">
-                                View all categories                                </a>
-                            </li>
-                        </ul>
-                    </li>
-
-                        
-                <li class="">
-                    <a href="/greenhouses-c-696.html">
-                        Greenhouses                        </a>
-                    <ul>
-
-                        <li>
-                            <a class="headLink" href="/greenhouses-c-696.html">
-                                Greenhouses                                </a>
-                            </li>
-
-                                                
-                            <li>
-                                <a class="spriteLink c3746" href="/greenhouses-freestanding-c-696_3595_3746.html">
-                                    Greenhouses (Freestanding)                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c3596" href="/leanto-greenhouses-c-696_3595_3596.html">
-                                    Lean-To Greenhouses                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c10370" href="/polytunnels-c-696_3595_2371_10370.html">
-                                    Polytunnels                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c2270" href="/cold-frame-greenhouses-c-696_3595_2270.html">
-                                    Cold Frame Greenhouses                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c2274" href="/mini-greenhouses-growhouses-c-696_3595_2274.html">
-                                    Mini Greenhouses / Growhouses                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c2371" href="/grow-tunnel-polytunnel-cloche-c-696_3595_2371.html">
-                                    Grow Tunnel / Polytunnel / Cloche                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c2431" href="/fruit-cages-c-734_2431.html">
-                                    Fruit Cages                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c2271" href="/greenhouse-accessories-c-696_2271.html">
-                                    Greenhouse Accessories                                    </a>
-                                </li>
-                            
-                        <li>
-                            <a class="viewAll" href="/greenhouses-c-696.html">
-                                View all categories                                </a>
-                            </li>
-                        </ul>
-                    </li>
-
-                        
-                <li class="">
-                    <a href="/tools-and-equipment-c-32.html">
-                        Tools                        </a>
-                    <ul>
-
-                        <li>
-                            <a class="headLink" href="/tools-and-equipment-c-32.html">
-                                Tools                                </a>
-                            </li>
-
-                                                
-                            <li>
-                                <a class="spriteLink c98" href="/garden-hand-tools-and-wheelbarrows-c-32_98.html">
-                                    Garden Hand Tools and Wheelbarrows                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c4420" href="/garden-power-tools-c-32_4420.html">
-                                    Garden Power Tools                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c33" href="/garden-tidy-c-32_33.html">
-                                    Garden Tidy                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c4427" href="/garden-tool-accessories-c-32_4427.html">
-                                    Garden Tool Accessories                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c967" href="/watering-and-irrigation-c-32_967.html">
-                                    Watering and Irrigation                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c9985" href="/storage-racks-c-32_9985.html">
-                                    Storage Racks                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c10315" href="/logkindling-baskets-c-32_10315.html">
-                                    Log/Kindling Baskets                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c10330" href="/wood-treatment-c-32_10330.html">
-                                    Wood Treatment                                    </a>
-                                </li>
-                            
-                        <li>
-                            <a class="viewAll" href="/tools-and-equipment-c-32.html">
+                            <a class="viewAll" href="/wild-bird-care-c-1191.html">
                                 View all categories                                </a>
                             </li>
                         </ul>
@@ -1242,8 +943,8 @@ $(document).ready(function(){
                                 </li>
                                                     
                             <li>
-                                <a class="spriteLink c737" href="/raised-grow-beds-c-734_737.html">
-                                    Raised Grow Beds                                    </a>
+                                <a class="spriteLink c737" href="/raised-beds-c-734_737.html">
+                                    Raised Beds                                    </a>
                                 </li>
                                                     
                             <li>
@@ -1278,65 +979,6 @@ $(document).ready(function(){
                             
                         <li>
                             <a class="viewAll" href="/grow-your-own-c-734.html">
-                                View all categories                                </a>
-                            </li>
-                        </ul>
-                    </li>
-
-                        
-                <li class="">
-                    <a href="/led-battery-candles-c-1208.html">
-                        LED Battery Candles                        </a>
-                    <ul>
-
-                        <li>
-                            <a class="headLink" href="/led-battery-candles-c-1208.html">
-                                LED Battery Candles                                </a>
-                            </li>
-
-                                                
-                            <li>
-                                <a class="spriteLink c3487" href="/candle-gift-ideas-c-1208_3487.html">
-                                    Candle Gift Ideas                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c3378" href="/candle-sets-c-1208_3378.html">
-                                    Candle Sets                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1254" href="/tealights-c-1208_1254.html">
-                                    Tealights                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1255" href="/votives-c-1208_1255.html">
-                                    Votives                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1256" href="/church-pillar-candles-c-1208_1256.html">
-                                    Church Pillar Candles                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1258" href="/wax-candles-c-1208_1258.html">
-                                    Wax Candles                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c1259" href="/rechargeable-candles-c-1208_1259.html">
-                                    Rechargeable Candles                                    </a>
-                                </li>
-                                                    
-                            <li>
-                                <a class="spriteLink c2059" href="/remote-controlled-candles-c-1208_2059.html">
-                                    Remote Controlled Candles                                    </a>
-                                </li>
-                            
-                        <li>
-                            <a class="viewAll" href="/led-battery-candles-c-1208.html">
                                 View all categories                                </a>
                             </li>
                         </ul>
@@ -1493,7 +1135,7 @@ $(document).ready(function(){
                                 </li>
                                                     
                             <li>
-                                <a class="spriteLink c9820" href="/topiary-c-7767_9820.html">
+                                <a class="spriteLink c9820" href="/topiary-c-4561_9820.html">
                                     Topiary                                    </a>
                                 </li>
                                                     
@@ -1517,124 +1159,80 @@ $(document).ready(function(){
                     </ul>
 
 
-                </div>
+                        </div>
+    </div>
+
+    <div class="belowNavBackground" id="belowNavContainer">
+      <div class="responsiveContainer">
+
+                <div id="feefo">
+            <i class="icon"></i>
+            <a id="review_count_header" href="/a-selection-of-product-reviews.php">
+                  <span>213k</span>
+                </a>
+                    </div>
+        
+
+        
+                <div id="nextday">
+          <i class="icon"></i>
+          <a href="https://www.primrose.co.uk/delivery.php">
+            Next day delivery on most items          </a>
         </div>
+        
+        <div id="payment_options" style="float:right">
 
-    
+                <!-- AMAZON checkout -->
+                                <script type="text/javascript">
+                  /*<![CDATA[*/
+                  $(document).ready(function() {
+                    $('#amazon_checkout_header').click(function(e){
+                      e.preventDefault();
+                      url = $(this).attr('href');
+                      window.open(url,"Amazon Checkout Information",'width=450,height=500,left=100,top=50,scrollbars=1');
+                    });
+                  });
+                  /*]]>*/
+                </script>
+                
+                <div style="clear:both;"></div>
+                                <a class="amazon_checkout_header" id="amazon_checkout_header_1" href="/basket.mvc/amazon/info" target="_blank">
+                </a>
+                
+                <!-- PayPal -->
+                <a id="paypal_checkout_header" href="/help.php#howtopay">
+                </a>
 
-<script>
-    /* Cross browser requestAnimationFrame method ############################################################### */
-    ( function( w ) {
-        'use strict';
-        var primroseFramework147 = w.primroseFramework147 || ( w.primroseFramework147 = {} );
-        primroseFramework147.polyfillRAF = w.requestAnimationFrame
-         || w.mozRequestAnimationFrame
-         || w.webkitRequestAnimationFrame
-         || w.msRequestAnimationFrame
-         || function( f ) { setTimeout( f, 1000/60 ); };
-        }( window ) );
+                <!-- MasterCard Visa -->
+                <a id="creditcard_checkout_header" href="/help.php#howtopay">
+                </a>
+              </div>
 
-    /* promoScroller header banner with animations ################################################################ */
-    ( function( w, raf, sWrapSelector, nTimeout, undefined ) {
-        'use strict';
+        <div id="useful_links">
+           <a href="https://www.primrose.co.uk/contact_us.php">Contact Us</a>
+           <a href="https://www.primrose.co.uk/delivery.php" id="delivery_returns">Delivery &amp; Returns</a>
+                           <a href="/-a-6.html" id="media">Media</a>
+                   </div>
 
-        var primroseFramework147 = w.primroseFramework147 || ( w.primroseFramework147 = {} ),
-            promoScroller = primroseFramework147.promoScroller || ( primroseFramework147.promoScroller = {} );
-
-        promoScroller.animate = function() {
-            raf( function() {
-                var item = promoScroller.items[ promoScroller.index ];
-                if ( !item.classList.contains( 'visible-end' ) ) {
-                    item.classList.add( 'visible-start' );
-                    raf( function() {
-                        item.classList.add( 'visible-end' );
-                        item.addEventListener( 'transitionend', promoScroller.delayedAnimation );
-                        promoScroller.timeoutId = w.setTimeout( promoScroller.delayedAnimation, nTimeout );
-                        } );
-                } else {
-                    item.classList.remove( 'visible-end' );
-                    item.classList.remove( 'visible-start' );
-                    item.classList.add( 'hidden-start' );
-                    raf( function() {
-                        item.classList.add( 'hidden-end' );
-                        item.addEventListener( 'transitionend', promoScroller.animationAfterHide );
-                        promoScroller.timeoutId = w.setTimeout( promoScroller.animationAfterHide, nTimeout );
-                        } );
-                    }
-                } );
-            };
-        promoScroller.animationAfterHide = function() {
-            var item = promoScroller.items[ promoScroller.index ];
-            w.clearTimeout( promoScroller.timeoutId );
-            item.removeEventListener( 'transitionend', promoScroller.animationAfterHide );
-            item.classList.remove( 'hidden-end' );
-            item.classList.remove( 'hidden-start' );
-            promoScroller.index = promoScroller.index == promoScroller.items.length - 1 ? 0 : promoScroller.index + 1;
-            promoScroller.animate();
-            };
-        promoScroller.delayedAnimation = function() {
-            w.clearTimeout( promoScroller.timeoutId );
-            promoScroller.items[ promoScroller.index ].removeEventListener( 'transitionend', promoScroller.delayedAnimation );
-            w.setTimeout( promoScroller.animate, nTimeout );
-            };
-        promoScroller.init = function() {
-            promoScroller.index = 0;
-            promoScroller.items = [].slice.call( w.document.querySelectorAll( sWrapSelector + ' ul li' ) );
-            promoScroller.animate();
-            };
-
-        w.addEventListener( 'DOMContentLoaded', promoScroller.init );
-        }( window, primroseFramework147.polyfillRAF, '.mobilePromoScroller', 1700 ) );
-    </script>
-
-
-<div class="mobilePromoScroller">
-    <ul>
-                    <li class="visible-start visible-end">
-                <a href="/basket.mvc/delivery?src=mob_promo_scroller#delivery">
-                    <i class="icon delivery"></i>
-                    <span> Next day delivery on most items </span>
-                    </a>
-                </li>
-                        <li>
-                <a href="/basket.mvc/delivery?src=mob_promo_scroller#returns">
-                    <i class="icon warranty"></i>
-                    <span> 2 year warranty </span>
-                    </a>
-                </li>
-                        <li>
-                <a href="/basket.mvc/delivery?src=mob_promo_scroller#returns">
-                    <i class="icon returns"></i>
-                    <span> 60 days to return </span>
-                    </a>
-                </li>
-                        <li>
-                <a href="a-selection-of-product-reviews.php?src=mob_promo_scroller">
-                    <i class="icon feefo"></i>
-                    <span> 143443 reviews </span>
-                    </a>
-                </li>
-                        <li>
-                <a href="/help.php?src=mob_promo_scroller#howtopay">
-                    <i class="icon payments"></i>
-                    <span>  </span>
-                    </a>
-                </li>
-                    </ul>
+      </div>
     </div>
 
-    </div>
-
+      <div id="PromoBanner" class="PromoBannerContainer" data-piper-args="{&quot;storeID&quot;:&quot;1&quot;,&quot;reviews&quot;:&quot;213735&quot;}"></div>    </div>
 
                                             <script src="js/carousel.lib.js"></script>
                                 <script src="js/colorbox-min.js"></script>
                                 <script src="scripts/reviews_blogs_guides.js"></script>
                                     
 
-        
-        <section class="responsiveContainer clearfix" id="cols_content_container">
+              <div id="breadcrumb_container">
+        <div class="responsiveContainer">
+          <ul id="crumbs"><li><a class="footerLink" href="/">Home</a></li><li><span class="crumbs_current">Primrose Privacy Policy</span></li></ul>        </div>
+      </div>
 
-                            <aside class="primroseLHC">
+    <div class="responsiveContainer">
+            
+        <section class="clearfix" id="cols_content_container">
+                                                    <aside class="primroseLHC">
                     <div class="lhcSpacer"></div>
 <style type="text/css">
     ul.main_menu {
@@ -1657,219 +1255,180 @@ $(document).ready(function(){
 
 <ul class="main_menu">
             <li>
-            <a href="https://www.primrose.co.uk/arbours-c-734_3989_8835.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/arbours-c-734_3989_8835.html">
                 Arbours                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/arches-c-734_3989_8836.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/arches-c-734_3989_8836.html">
                 Arches                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/awnings-c-149.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/awnings-c-149.html">
                 Awnings                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/bbq-c-2035.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/bbq-c-2035.html">
                 BBQ                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/bird-baths-c-129.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/bird-baths-c-129.html">
                 Bird Baths                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/boot-scrapers-brushes-storage-c-44_10627.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/boot-scrapers-brushes-storage-c-44_10627.html">
                 Boot Scrapers, Brushes &amp; Storage                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/canopies-and-pergolas-c-734_3989_8842.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/canopies-and-pergolas-c-734_3989_8842.html">
                 Canopies and Pergolas                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/cast-iron-doormats-and-accessories-c-64.html?src=lhc_special_offers">
-                Cast Iron Doormats and Accessories                </a>
-            </li>
-                <li>
-            <a href="https://www.primrose.co.uk/cast-iron-umbrella-stands-c-979.html?src=lhc_special_offers">
-                Cast Iron Umbrella Stands                </a>
-            </li>
-                <li>
-            <a href="https://www.primrose.co.uk/compost-bins-c-38.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/compost-bins-c-38.html">
                 Compost Bins                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/fencing-c-3155.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/fencing-c-3155.html">
                 Fencing                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/garden-bridges-c-53.html?src=lhc_special_offers">
-                Garden Bridges                </a>
-            </li>
-                <li>
-            <a href="https://www.primrose.co.uk/garden-buildings-c-2714.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/garden-buildings-c-2714.html">
                 Garden Buildings                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/garden-carpet-outdoor-rugs-c-44_10312.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/garden-carpet-outdoor-rugs-c-44_10312.html">
                 Garden Carpet / Outdoor Rugs                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/garden-furniture-c-3238.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/garden-furniture-c-3238.html">
                 Garden Furniture                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/garden-hand-tools-and-wheelbarrows-c-32_98.html?src=lhc_special_offers">
-                Garden Hand Tools and Wheelbarrows                </a>
+            <a href="https://www.primrose.co.uk/garden-hand-tools-c-32_98.html">
+                Garden Hand Tools                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/garden-lighting-c-28.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/garden-lighting-c-28.html">
                 Garden Lighting                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/garden-mirrors-c-83.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/garden-mirrors-c-83.html">
                 Garden Mirrors                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/garden-power-tools-c-32_4420.html?src=lhc_special_offers">
-                Garden Power Tools                </a>
-            </li>
-                <li>
-            <a href="https://www.primrose.co.uk/garden-screening-c-318.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/garden-screening-c-318.html">
                 Garden Screening                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/greenhouses-c-696.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/greenhouses-c-696.html">
                 Greenhouses                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/grow-your-own-c-734.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/grow-your-own-c-734.html">
                 Grow Your Own                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/growing-propagation-c-734_100.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/growing-propagation-c-734_100.html">
                 Growing &amp; Propagation                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/heated-gloves-clothing-c-37.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/heated-gloves-clothing-c-37.html">
                 Heated Gloves &amp; Clothing                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/indoor-clocks-c-721.html?src=lhc_special_offers">
-                Indoor Clocks                </a>
+            <a href="https://www.primrose.co.uk/inspiration-for-your-garden-c-12257.html">
+                Inspiration for Your Garden                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/lawn-edging-c-66.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/lawn-edging-c-66.html">
                 Lawn Edging                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/led-battery-candles-c-1208.html?src=lhc_special_offers">
-                LED Battery Candles                </a>
-            </li>
-                <li>
-            <a href="https://www.primrose.co.uk/logkindling-baskets-c-32_10315.html?src=lhc_special_offers">
-                Log/Kindling Baskets                </a>
-            </li>
-                <li>
-            <a href="https://www.primrose.co.uk/marquees-c-11903.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/marquees-c-11903.html">
                 Marquees                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/outdoor-clocks-c-136.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/outdoor-clocks-c-136.html">
                 Outdoor Clocks                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/outdoor-living-c-44.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/outdoor-living-c-44.html">
                 Outdoor Living                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/patio-paving-c-44_10478.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/patio-paving-c-44_10478.html">
                 Patio Paving                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/pest-control-c-24.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/pest-control-c-24.html">
                 Pest Control                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/planters-c-2.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/planters-c-2.html">
                 Planters                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/plants-c-7767_4561.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/plants-c-4561.html">
                 Plants                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/pond-cleaners-c-158.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/pond-cleaners-c-158.html">
                 Pond Cleaners                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/pond-oxygenators-c-2256.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/pond-oxygenators-c-2256.html">
                 Pond Oxygenators                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/sail-shades-c-85.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/sail-shades-c-85.html">
                 Sail Shades                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/sale-offers-c-6597.html?src=lhc_special_offers">
-                Sale Offers                </a>
-            </li>
-                <li>
-            <a href="https://www.primrose.co.uk/solar-blinds-c-664.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/solar-blinds-c-664.html">
                 Solar Blinds                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/statues-garden-art-ornaments-c-43.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/statues-garden-art-ornaments-c-43.html">
                 Statues, Garden Art &amp; Ornaments                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/storage-racks-c-32_9985.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/storage-racks-c-32_9985.html">
                 Storage Racks                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/tools-and-equipment-c-32.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/tools-and-equipment-c-32.html">
                 Tools and Equipment                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/trellises-c-734_3989_8840.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/trellises-c-734_3989_8840.html">
                 Trellises                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/water-features-c-1.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/water-features-c-1.html">
                 Water Features                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/watering-and-irrigation-c-32_967.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/watering-and-irrigation-c-32_967.html">
                 Watering and Irrigation                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/weathervane-c-44_8843.html?src=lhc_special_offers">
-                Weathervane                </a>
-            </li>
-                <li>
-            <a href="https://www.primrose.co.uk/wheelbarrows-trollies-and-carts-c-32_98_2224.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/wheelbarrows-trollies-and-carts-c-32_2224.html">
                 Wheelbarrows, Trollies and Carts                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/wild-bird-care-c-1191.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/wild-bird-care-c-1191.html">
                 Wild Bird Care                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/willow-hazel-hurdles-c-65.html?src=lhc_special_offers">
+            <a href="https://www.primrose.co.uk/willow-hazel-hurdles-c-65.html">
                 Willow &amp; Hazel Hurdles                </a>
             </li>
                 <li>
-            <a href="https://www.primrose.co.uk/window-films-c-751.html?src=lhc_special_offers">
-                Window Films                </a>
+            <a href="https://www.primrose.co.uk/wind-spinners-and-windmills-c-43_2255.html">
+                Wind Spinners and Windmills                </a>
             </li>
             </ul>
-
-<hr class="navdiv" style="margin:10px 0px; clear:both;">
-<div style="text-align: center; white-space: nowrap;">
-<!-- boldchat button disabled --><p class="freshchat-clickable infoButton">Chat Live</p></div>
-
-
                     </aside>
-                
-            <section id="central_content"> 
+                                        <section id="central_content"> 
 <div class="main">
 In order to process your order we need to ask for your name, address and contact details.
 We keep these details on file so that we know who our customers are and we can deal with any service queries or returns.
@@ -1896,437 +1455,13 @@ If you have concerns about our privacy policy, please <a href="https://www.primr
 
  </section>
 
-                            <aside class="primroseRHC">
-                    <style type="text/css">
-  .rhc_connect_link {
-    border-bottom       : 1px solid #ddd;
-    display             : block;
-    min-height          : 60px;
-    margin-bottom       : 6px;
-    overflow            : hidden;
-    padding-top         : 3px;
-    padding-bottom      : 2px;
-    text-align          : center;
-  }
-  .rhc_connect_link .icon_container {
-    float               : left;
-    width               : 60px;
-  }
-  .rhc_connect_link .arrow {
-    float               : right;
-    margin              : 25px 0px 0px 2px;
-  }
-  .rhc_connect_link span {
-    color               : #666;
-    display             : block;
-    overflow            : hidden;
-    padding-top         : 6px;
-  }
-</style>
-
-<link rel="stylesheet" type="text/css" href="includes_shared/ajax_basket/rhc_basket.css">
-
-    <style type="text/css">
-        .windowBoxCart {
-          display:none;
-        }
-        #ajaxBasket-seperator {
-          display: none;
-        }
-    </style><div class="windowBoxCart">
-  <a class="windowTitleCart" href="shopping_cart.php?src=basket_rhc_head">
-    Your Basket  </a>
-
-	<div class="windowContentCart">
-		<a class="items_in_cart" href="shopping_cart.php?src=basket_rhc_items">
-     items in basket    </a>
-
-		<hr class="basket_separator">
-
-		<div class="windowBoxCart_totals_checkout">
-			Subtotal:&nbsp;
-      <span class="windowBoxCart_subtotal">
-        £0.00      </span><br>
-			<span class="windowBoxCart_delivery">
-        Delivery: Free      </span><br>
-			<a class="windowBoxCart_editBasket" href="shopping_cart.php?src=checkout_RHC_text">
-         <img src="product_thumb.php?img=images/arrow_right_whiteGrey_stroke.png&amp;w=14&amp;h=14">
-        Edit Basket      </a>
-			<a class="infoButton" id="rhc_addtobasketbtn" style="margin-top:6px;" href="shopping_cart.php?src=checkout_RHC_pink">
-        Checkout      </a>
-		</div>
-	</div>
-	<!-- POPUP cart -->
-	<div class="windowContentCartPopup">
-	    <hr class="navdiv">
-
-    <div class="basket_pop_total_qty">
-       items in basket    </div>
-  	<div class="basket_pop_subtotal_delivery">
-        <span class="basket_pop_subtotal">
-          Subtotal: £0.00        </span><br>
-        <span class="basket_pop_delivery">Delivery: Free</span>
-  		</div>
-    </div> <!-- end of popup -->
-</div><a style="display:block; margin: 6px 0; text-align:center;" href="https://www.primrose.co.uk/sale-offers-c-6597.html?src=rcol">
-     <img src="images/RHC_banner_jan_sale.jpg" alt="Primrose - Special Offers" title="">
-</a>
-<a style="display:block; margin: 6px 0; text-align:center;" href="https://gardens.primrose.co.uk/" target="_blank" onclick="dataLayer.push({'eventCategory' : 'outbound link', 'eventAction' : 'gardens.primrose.co.uk', 'eventLabel' : 'outbound link Primrose Garden App', 'eventValue' : '', 'event' : 'outboundLink'});">
-   <img src="images/RHC_app_ad.jpg" alt="Create a gorgeous free website with our new garden app">
-</a>
-
-<hr class="navdivGrey">
-
-<style type="text/css">
-#primrose_promise_container{
-    position:relative;
-}
-
-#primrose_promise_container img {
-    margin-right:-2px;
-    z-index:-1;
-}
-
-#primrose_promise_image {
-    border-radius:10px;
-    /*margin-top:-122px;*/
-    margin-left:3px;
-    width:142px;
-    /*height:205px;*/
-    background-color:white;
-    position:relative;
-}
-
-#our_promise {
-    color: #666;
-    font-family: Tahoma, Verdana, Arial, sans-serif;
-    font-size: 22px;
-    padding-bottom: 0px;
-    /*margin-top: -55px;*/
-    /*margin-left: -9px;*/
-    margin-top: 30px;
-    width: 80px;
-    text-align: center;
-}
-.promise-container-border {
-    border: 1px solid #adadad;
-    border-radius: 5px 5px 5px 5px;
-    padding: 5px;
-    width: 133px;
-    box-shadow: 0px 0px 10px #d6d6d6;
-    margin-top: 0px;
- background:white;
-}
-.primrose_promise_judith_img {
-    background-image:url('images/primrose_promise.jpg');
-    background-repeat: no-repeat;
-    height: 100%;
-    width: 100%;
-}
-.primrose_promise_links_container {
-    font-family: Tahoma, Verdana, Arial, sans-serif;
-    font-size:11px;
-    padding-left:4px;
-    padding-top:9px;
-    width: 147px;
-}
-
-#promise_tick img {
-    float:left;
-}
-
-.primrose_promise_links {
-    margin-left:20px;
-    /*position:absolute;*/
-    position: relative;
-}
-.tick_link_line {
-    margin-bottom:12px;
-    width: 134px;
-}
-
-.promise_phone_number{
-    color:#666;
-    font-family: Tahoma, Verdana, Arial, sans-serif;
-    font-size:20px;
-    text-align:center;
-    margin-top:0px;
-}
-.call_us{
-    color:black;
-    font-family: Tahoma, Verdana, Arial, sans-serif;
-    font-size:10px;
-    text-align:center;
-    padding-bottom:5px;
-}
-</style>
-
-
-
-
-
-<div id="primrose_promise_container">
-    <div class="primrose_promise_judith_img primrose_promise_links_container">
-        <div id="our_promise"> &nbsp;Our <br>Promise </div>
-        <div class="promise-container-border">
-                                                <div class="tick_link_line">
-                        <img alt="tick" height="16" src="/images/default/checkmark.gif" style="float:left;" width="16">
-                        <div class="primrose_promise_links">
-                            <a href="/delivery.php?src=rhc_promise#Faults"> Minimum 2 year warranty on everything                                <br>
-                                </a>
-                            </div>
-                        </div>
-                                        <div class="tick_link_line">
-                        <img alt="tick" height="16" src="/images/default/checkmark.gif" style="float:left;" width="16">
-                        <div class="primrose_promise_links">
-                            <a href="/delivery.php?src=rhc_promise#returns"> 60 days to return                                <br>
-                                </a>
-                            </div>
-                        </div>
-                                        <div class="tick_link_line">
-                        <img alt="tick" height="16" src="/images/default/checkmark.gif" style="float:left;" width="16">
-                        <div class="primrose_promise_links">
-                            <a href="/delivery.php?src=rhc_promise#NextDayDelivery"> Next Day Delivery<br><span style="font-size:10px; color:#666;">
-                                on most products - see item description</span>                                <br>
-                                </a>
-                            </div>
-                        </div>
-                                        <div class="tick_link_line">
-                        <img alt="tick" height="16" src="/images/default/checkmark.gif" style="float:left;" width="16">
-                        <div class="primrose_promise_links">
-                            <a href="/pricematch.php?src=rhc_promise"> Best price guarantee                                <br>
-                                </a>
-                            </div>
-                        </div>
-                                                <div class="promise_phone_number">
-                0118 903 5210                </div>
-            <div class="call_us"> Call us for advice<br>and help with any problems! </div>
-        </div>
-    </div>
-    <div id="primrose_promise_image"></div>
-    </div>  <a href="/mail/subscribe.php?src=rhc" class="rhc_connect_link">
-    <div class="icon_container">
-      <img src="images/RHC_email_subscribe_link.jpg" border="0">
-    </div>
-    <img class="arrow" alt=">" src="product_thumb.php?img=images/arrow_right_whiteGrey_stroke.png&amp;w=12&amp;h=12">
-      <span>Get our email newsletter deals!</span>
-  </a>
-    <a href="submit_images.php?src=rhc" class="rhc_connect_link">
-    <div class="icon_container">
-      <img src="images/RHC_pound_symbol.jpg" border="0">
-    </div>
-    <img class="arrow" alt=">" src="product_thumb.php?img=images/arrow_right_whiteGrey_stroke.png&amp;w=12&amp;h=12">
-      <span>Get paid for your photos!</span>
-  </a>
-    <a href="gardening_questions.php?src=rhc" class="rhc_connect_link">
-    <div class="icon_container">
-      <img src="images/RHC_questionmark_symbol.jpg" border="0">
-    </div>
-    <img class="arrow" alt=">" src="product_thumb.php?img=images/arrow_right_whiteGrey_stroke.png&amp;w=12&amp;h=12">
-      <span>Ask our expert your gardening questions</span>
-  </a>
-    <a style="display:block; font-family:Arial,Tahoma,Verdana,sans-serif; position:relative; padding: 3px 3px 25px" href="https://www.primrose.co.uk/a-selection-of-product-reviews.php?src=rhc">
-    <div class="column_products_details_header">Our customer reviews</div>
-    <div style="color:#666; font-style:italic; text-align:center;">
-      Fast delivery as promised    </div>
-    <span style="display:block; position:absolute; right:0; bottom:0; font-weight:bold; padding:3px;">
-      More      <img src="/product_thumb.php?img=images/arrow_right_whiteGrey_stroke.png&amp;w=13&amp;h=13" border="0">
-    </span>
-  </a>
-<div class="Maintext" align="center" style="text-align:center; margin: 10px 0px; vertical-align: top;">
-<a id="feefologoa" title="Independent customer reviews by Feefo - click to view" href="http://www.feefo.com/feefo/viewvendor.jsp?logon=www.primrose.co.uk%2FPrimrose" target="_blank"><img src="/images/feefo-images/1.service-stars-white-125x125_en.png" border="0"></a></div>
-
-
-<hr class="navdivGrey">
-
-                    </aside>
-                
             </section>
 
 
-    
+        </div>
 
         <div class="footer_container">
         
-<style type="text/css">
-#store_footer {
-    background-color    : #ddd;
-    border-top          : 1px solid #bbb;
-    clear               : both;
-    margin-top          : -2px;
-    padding             : 0 0 18px;
-    position            : relative;
-    width               : 100%;
-    }
-#footer_link_container {
-    margin              : 20px 20px 0;
-    text-align          : center;
-    }
-.footer_link_box {
-    clear               : right;
-    display             : inline-block;
-    margin              : 0em 1em;
-    text-align          : left;
-    vertical-align      : top;
-    width               : 170px;
-    }
-.footer_link_box a {
-    color               : #333;
-    }
-.footer_link_box a:hover {
-    color               : #063;
-    }
-.footer_link_box ul {
-    margin              : 0px;
-    padding-left        : 0;
-    vertical-align      : top;
-    }
-.footer_link_box ul[data-title]::before {
-    content             : attr( data-title );
-    background-color    : #333;
-    border-radius       : 2px;
-    color               : #FFF;
-    display             : block;
-    font-size           : 1.3em;
-    margin-bottom       : 4px;
-    padding             : 4px;
-    text-align          : center;
-}
-.footer_link_box ul a {
-    display             : list-item;
-    list-style-type     : none;
-    margin-bottom       : 2px;
-    }
-.footer_link_box#couriers_box {
-    display             : none;
-    text-align          : center;
-    width               : 100%;
-    }
-.footer_link_box#couriers_box ul[data-title]::before {
-    display             : none;
-    }
-.footer_link_box#social_box .footer_link_newsletters {
-    display             : block;
-    margin-bottom       : 10px;
-    }
-.footer_link_box#social_box .footer_link_newsletters a {
-    display             : inline-block;
-    }
-.footer_link_box#social_box a {
-    display             : inline-block;
-    vertical-align      : top;
-    }
-.footer_link_box#social_box img {
-    height              : 32px;
-    padding             : 2px;
-    width               : 32px;
-    }
-.footer_link_box#couriers_box img {
-    background-color    : #FFF;
-    margin              : 2px;
-    padding             : 2px;
-    }
-/** Back to top btn **/
-.scrollupWrap {
-    bottom              : 40px;
-    display             : none; /* overridden by JS check */
-    height              : 90px;
-    position            : fixed;
-    right               : 2px;
-    z-index             : 1000000;
-    }
-.scrollupWrap a {
-    color               : #333;
-    display             : block;
-    height              : 90px;
-    text-align          : center;
-    text-decoration     : none;
-    text-transform      : uppercase;
-    transition          : 1s;
-    width               : 108px;
-    }
-.scrollupWrap a:hover {
-    color               : #000;
-    }
-.scrollupWrap span {
-    background          : url('../images/mobile/mob_elements_sprite.png') no-repeat 30px -85px;
-    display             : block;
-    height              : 50px;
-    margin-bottom       : 7px;
-    opacity             : 0.3;
-    transition          : 1s;
-    width               : 108px;
-    }
-#footer_link_container .footer_community,
-#footer_link_container .footer_payments {
-    display             : none;
-    margin              : 2em 0em 1em 0em;
-    }
-#footer_link_container .footer_community .community-sprite {
-    background-image    : url('../images/footer_community_sprite.png');
-    background-repeat   : no-repeat;
-    display             : inline-block;
-    height              : 40px;
-    margin-right        : 2em;
-    }
-#footer_link_container .footer_payments .footer_payments_title {
-    color               : #666;
-    font-size           : 1.2em;
-    margin-bottom       : 12px;
-    }
-#footer_link_container .footer_payments a {
-    display             : inline-block;
-    margin              : 0 1.2% 4px;
-    vertical-align      : top;
-    }
-#footer_link_container .disclaimer {
-    clear               : both;
-    color               : #909090;
-    margin              : 3px 0;
-    text-align          : center;
-    }
-#GoogleCertifiedShopContainer {
-    display             : inline-block;
-    text-align          : center;
-    }
-@media only screen and (min-width:860px) {
-    .scrollupWrap {
-        bottom              : auto;
-        display             : block;
-        height              : auto;
-        padding             : 0 10px 0;
-        overflow            : hidden;
-        position            : relative;
-        right               : auto;
-        text-align          : right;
-        text-transform      : none;
-        z-index             : 1;
-        }
-    .scrollupWrap a {
-        color               : #063;
-        float               : right;
-        font                : inherit;
-        height              : auto;
-        transition          : none;
-        width               : auto;
-        }
-    .scrollupWrap a:hover {
-        color               : #063;
-        }
-    .scrollupWrap span {
-        display             : none;
-        }
-    #back-top {
-        display             : none;
-        }
-    #footer_link_container #couriers_box,
-    #footer_link_container .footer_community,
-    #footer_link_container .footer_payments {
-        display             : block;
-        }
-}
-</style>
-
 
 <script>
 $(document).ready(function(){
@@ -2358,9 +1493,11 @@ $(document).ready(function(){
 </script>
 
 
-<footer id="store_footer">
+<footer>
 
-  <div id="footer_link_container" class="clearfix">
+  <div id="store_footer_top">
+
+  <div class="responsiveContainer">
 
     <div class="scrollupWrap">
       <a href="#" id="scrollup">
@@ -2368,105 +1505,87 @@ $(document).ready(function(){
          Back to top      </a>
     </div>
 
-  <section class="footer_link_box">
     <ul data-title="Customer Service">
-      <a href="https://www.primrose.co.uk/contact_us.php?src=footer">Contact Us</a>
-      <a href="https://www.primrose.co.uk/delivery.php?src=footer">Delivery &amp; Returns</a>
-                  <a href="https://www.primrose.co.uk/delivery.php?src=footer">Track Your Order</a>
-                  <a href="https://www.primrose.co.uk/help.php?src=footer">Help</a>
-            <a href="trade.php?src=footer">Trade Customers</a>
-              <a href="https://www.primrose.co.uk/voucher-code.php?src=footer">Voucher Codes</a>            <br>
+      <a href="https://www.primrose.co.uk/contact_us.php">Contact Us</a>
+      <a href="https://www.primrose.co.uk/delivery.php">Delivery &amp; Returns</a>
+                  <a href="https://www.primrose.co.uk/delivery.php">Track Your Order</a>
+                  <a href="https://www.primrose.co.uk/help.php">Help</a>
+            <a href="/trade.php">Trade Customers</a>
+              <a href="https://www.primrose.co.uk/voucher-code.php">Voucher Codes</a>                    <a href="https://www.primrose.co.uk/gardening_questions.php">Ask Our Gardening Expert</a>
+            <br>
       0118 903 5210      <a href="mailto:info@primrose.co.uk">info@primrose.co.uk</a>
       <br>
-      Office Hours:<br>Monday to Friday 8am to 5pm<br>Saturday 9am to 4pm<br><br>
-
-            <!-- BoldChat Live Chat Button HTML v5.00 (Type=HTML,ChatWindow=Primrose.co.uk,Department=UK CS,Website=Primrose.co.uk) -->
-      <div style="white-space: nowrap; margin-top:10px;">
-      <!-- boldchat link text disabled --><a href="javascript:void(0)" class="freshchat-clickable">Chat Live</a>      </div>
-      <!-- /BoldChat Live Chat Button HTML v5.00 -->
-          </ul>
-  </section>
-
-
-
-
-  <section class="footer_link_box">
-    <ul data-title="About Us">
-      <a href="https://www.primrose.co.uk/about_us.php?src=footer">About Us</a>
-      <a href="https://www.primrose.co.uk/a-selection-of-product-reviews.php?src=footer">Our customer reviews</a>
-            <a href="media.php?src=footer">Primrose in the Media</a>
-      <a href="pricematch.php?src=footer">Price Match</a>
-      
-      <a href="https://www.primrose.co.uk/privacy.php?src=footer">Privacy Policy</a>
-      <a href="https://www.primrose.co.uk/conditions.php?src=footer">Terms &amp; Conditions</a>
-      <a href="https://www.primrose.co.uk/guarantee.php?src=footer">Guarantee</a>
-      <a href="https://www.primrose.co.uk/security.php?src=footer">Security</a>
-      <a href="https://www.primrose.co.uk/copyright.php?src=footer">Copyright</a>
-      <a href="privacy_cookies.php?src=footer">Cookies Policy</a>
+      Office Hours:<br>Monday to Friday from 09:00am to 5:00pm<br>
     </ul>
-  </section>
 
 
-
-
-    <section class="footer_link_box">
-    <ul data-title="Your Account">
-      <a rel="noindex" href="https://www.primrose.co.uk/account.mvc/login?src=footer">Log in / Register</a>
-      <a rel="noindex" href="https://www.primrose.co.uk/account.mvc/login?src=footer">Your Account</a>
-      <a rel="noindex" href="https://www.primrose.co.uk/account.mvc/login?src=footer">Your Order History</a>
-      <a rel="noindex" href="shopping_cart.php?src=footer">Your Basket</a>
-
-            <a href="https://www.primrose.co.uk/delivery.php?src=footer">Track Your Order</a>
+    <ul data-title="About Us">
+                <a href="/-a-4.html">About Us</a>
+          <a href="https://www.primrose.co.uk/a-selection-of-product-reviews.php">Our customer reviews</a>
+                      <a href="http://blog.primrose.co.uk/category/how-to/">How-to guides</a>
+        <a href="/-a-6.html">Primrose in the Media</a>
+        <a href="/pricematch.php">Price Match</a>
+      
+      <a href="https://www.primrose.co.uk/privacy.php">Privacy Policy</a>
+      <a href="https://www.primrose.co.uk/conditions.php">Terms &amp; Conditions</a>
+      <a href="https://www.primrose.co.uk/guarantee.php">Guarantee</a>
+      <a href="https://www.primrose.co.uk/security.php">Security</a>
+      <a href="https://www.primrose.co.uk/copyright.php">Copyright</a>
+      <a href="/privacy_cookies.php">Cookies Policy</a>
+              <a href="http://www.primrose.co.uk/submit_images.php">Get Paid for Your Photos</a>
           </ul>
-  </section>
-    <section class="footer_link_box" id="social_box">
-    <ul data-title="Follow Us">
-            <div class="footer_link_newsletters">
-        <a rel="nofollow" href="/mail/subscribe.php?src=footer">Sign up for our newsletter and be first to hear about our latest offers</a>
-      </div>
-            <a rel="nofollow" href="https://www.facebook.com/Primrose.co.uk" target="_blank">
-        <img src="product_thumb.php?img=images/social-icons/facebook_icon_50x50.png" alt="Facebook?" title="Find us on Facebook">
-      </a>
-            <a rel="nofollow" href="http://twitter.com/PrimroseUK" target="_blank">
-        <img src="product_thumb.php?img=images/social-icons/twitter_icon_50x50.png" alt="Twitter?" title="Follow us on Twitter">
-      </a>
-            <a rel="nofollow" href="http://blog.primrose.co.uk" target="_blank">
-        <img src="product_thumb.php?img=images/social-icons/wordpress_icon_50x50.png" alt="Blog?" title="Read our blog">
-      </a>
-            <a rel="nofollow" href="https://www.youtube.com/user/primrosevideos" target="_blank">
-        <img src="product_thumb.php?img=images/social-icons/youtube_icon_50x50.png" alt="YouTube?" title="Watch our videos on YouTube">
-      </a>
-            <a rel="nofollow" href="https://plus.google.com/107592062111586729000/posts" target="_blank">
-        <img src="product_thumb.php?img=images/social-icons/googleplus_icon_50x50.png" alt="Google+?" title="">
-      </a>
-            <a rel="nofollow" href="https://instagram.com/primrose.co.uk/" target="_blank">
-        <img src="product_thumb.php?img=images/social-icons/instragram_icon_50x50.png" alt="Instagram?" title="">
-      </a>
-            <a rel="nofollow" href="https://www.pinterest.com/primroseuk/" target="_blank">
-        <img src="product_thumb.php?img=images/social-icons/pinterest_icon_50x50.png" alt="Pinterest?" title="">
-      </a>
-            <a rel="nofollow" href="http://www.houzz.co.uk/pro/primroseuk/primrose" target="_blank">
-        <img src="product_thumb.php?img=images/social-icons/houzz_icon_50x50.png" alt="Houzz?" title="">
-      </a>
+
+
+      <ul data-title="Your Account">
+      <a rel="noindex" href="https://www.primrose.co.uk/account.mvc/login">Log in / Register</a>
+      <a rel="noindex" href="https://www.primrose.co.uk/account.mvc/login">Your Account</a>
+      <a rel="noindex" href="https://www.primrose.co.uk/account.mvc/login">Your Order History</a>
+      <a rel="noindex" href="/basket.mvc">Your Basket</a>
+
+            <a href="https://www.primrose.co.uk/delivery.php">Track Your Order</a>
           </ul>
-  </section>
   
 
+      <ul data-title="Follow Us" id="social_box">
+            <div class="footer_link_newsletters">
+        <a rel="nofollow" href="/mail/subscribe.php">Sign up for our newsletter and be first to hear about our latest offers</a>
+      </div>
+            <a rel="nofollow" href="https://www.facebook.com/Primrose.co.uk" target="_blank">
+        <img src="/product_thumb.php?img=images/social-icons/facebook_icon_50x50.png" alt="Facebook?" title="Find us on Facebook">
+      </a>
+            <a rel="nofollow" href="http://twitter.com/PrimroseUK" target="_blank">
+        <img src="/product_thumb.php?img=images/social-icons/twitter_icon_50x50.png" alt="Twitter?" title="Follow us on Twitter">
+      </a>
+            <a rel="nofollow" href="http://blog.primrose.co.uk" target="_blank">
+        <img src="/product_thumb.php?img=images/social-icons/wordpress_icon_50x50.png" alt="Blog?" title="Read our blog">
+      </a>
+            <a rel="nofollow" href="https://www.youtube.com/user/primrosevideos" target="_blank">
+        <img src="/product_thumb.php?img=images/social-icons/youtube_icon_50x50.png" alt="YouTube?" title="Watch our videos on YouTube">
+      </a>
+            <a rel="nofollow" href="https://plus.google.com/107592062111586729000/posts" target="_blank">
+        <img src="/product_thumb.php?img=images/social-icons/googleplus_icon_50x50.png" alt="Google+?" title="">
+      </a>
+            <a rel="nofollow" href="https://instagram.com/primrose.co.uk/" target="_blank">
+        <img src="/product_thumb.php?img=images/social-icons/instragram_icon_50x50.png" alt="Instagram?" title="">
+      </a>
+            <a rel="nofollow" href="https://www.pinterest.com/primroseuk/" target="_blank">
+        <img src="/product_thumb.php?img=images/social-icons/pinterest_icon_50x50.png" alt="Pinterest?" title="">
+      </a>
+            <a rel="nofollow" href="http://www.houzz.co.uk/pro/primroseuk/primrose" target="_blank">
+        <img src="/product_thumb.php?img=images/social-icons/houzz_icon_50x50.png" alt="Houzz?" title="">
+      </a>
+          </ul>
+  
 
+  
 
+  </div>
+  </div>
 
-      <div class="footer_community">
-      <a href="https://www.primrose.co.uk/about_us.php?src=footer" style="color:#333;">
-                    <span class="community-sprite" style="background-position: -455px; width: 217px;"></span>
-                    <span class="community-sprite" style="background-position: -195px; width: 253px;"></span>
-                    <span class="community-sprite" style="background-position: 0px; width: 190px;"></span>
-              </a>
-    </div>
-    
+  <div id="store_footer_bottom">
+    <div class="responsiveContainer">
 
-
-
-  <div class="footer_payments">
+      <div class="footer_payments">
     <a id="amazon_footer" href="cba_amazon.php?utm_source=internal_referral&amp;utm_medium=banner&amp;utm_campaign=amazon_header" target="_blank">
               <img src="images/amazon_payments_footer_transback.png" width="224" height="40" border="0" alt="Amazon Payments" title="Amazon Payments">
            </a><a href="https://www.paypal.com/EN/webapps/mpp/pay-online" target="blank" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700');">
@@ -2478,14 +1597,35 @@ $(document).ready(function(){
     </div>
   </div>
 
+      <div class="disclaimer">
+    * Saving when compared to items sold separately.<br>
+    Primrose is the trading name of Meika Ltd (registration no: 4756556), registered at 44 Portman Road, Reading, RG30 1EA. VAT Number GB945691778
+  </div>
+
+   </div>
+  </div>
+
+    <div id="cookies">
+  <p>
+    Our site uses cookies to make your shopping experience with us better. By using our site you agree to our <a href="privacy_cookies.php">cookies </a>policy.
+     <span class="cookie-accept" title="I accept">OK</span></p>
+  </div>
 
 
+ 
+<script>
+$(document).ready(function() {
+  $('.cookie-accept').click(function () { //on click event
+    var days = 182; //number of days to keep the cookie
+    var myDate = new Date();
+    myDate.setTime(myDate.getTime()+(days*24*60*60*1000));
+    document.cookie = "comply_cookie = comply_yes; expires = " + myDate.toGMTString(); //creates the cookie: name|value|expiry
+    $("#cookies").slideUp("slow"); //jquery to slide it up
+  });
+});
+</script>
 
-  <div class="disclaimer">
-    * Saving when compared to Recommended Retail Price<br>
-    Primrose is the trading name of Meika Ltd (registration no: 4756556), registered at 44 Portman Road, Reading, RG30 1EA. VAT Number GB945691778  </div>
-
-</div></footer>
+</footer>
 
 
 
@@ -2512,11 +1652,11 @@ $(document).ready(function(){
         s.parentNode.insertBefore(gts, s);
       })();
     </script>
-    <!-- END: Google Certified Shops --><script type="text/javascript">var fc_CSS=document.createElement('link');fc_CSS.setAttribute('rel','stylesheet');var isSecured = (window.location && window.location.protocol == 'https:');var lang = document.getElementsByTagName('html')[0].getAttribute('lang');var rtlLanguages = ['ar','he'];var rtlSuffix = (rtlLanguages.indexOf(lang) >= 0) ? '-rtl' : '';fc_CSS.setAttribute('type','text/css');fc_CSS.setAttribute('href',((isSecured)? 'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets1.chat.freshdesk.com')+'/css/visitor'+rtlSuffix+'.css');document.getElementsByTagName('head')[0].appendChild(fc_CSS);var fc_JS=document.createElement('script');fc_JS.type='text/javascript';fc_JS.src=((isSecured)?'https://d36mpcpuzc4ztk.cloudfront.net':'http://assets.chat.freshdesk.com')+'/js/visitor.js';(document.body?document.body:document.getElementsByTagName('head')[0]).appendChild(fc_JS);window.freshchat_setting = 'eyJ3aWRnZXRfc2l0ZV91cmwiOiJwcmltcm9zZS5mcmVzaGRlc2suY29tIiwicHJvZHVjdF9pZCI6bnVsbCwibmFtZSI6IlByaW1yb3NlIiwid2lkZ2V0X2V4dGVybmFsX2lkIjpudWxsLCJ3aWRnZXRfaWQiOiI0OThlZTg5NS0yMWEwLTQ0ZWMtODcxNi03MGFmN2JiMDIwOTYiLCJzaG93X29uX3BvcnRhbCI6ZmFsc2UsInBvcnRhbF9sb2dpbl9yZXF1aXJlZCI6ZmFsc2UsImlkIjozMDAwMDAzNTg0LCJtYWluX3dpZGdldCI6dHJ1ZSwiZmNfaWQiOiI0MjEwZWIxZGMwNWMwNmI1MGNmOThkZjMzMTVlOWE2MSIsInNob3ciOjEsInJlcXVpcmVkIjoyLCJoZWxwZGVza25hbWUiOiJQcmltcm9zZSIsIm5hbWVfbGFiZWwiOiJOYW1lIiwibWFpbF9sYWJlbCI6IkVtYWlsIiwibWVzc2FnZV9sYWJlbCI6Ik1lc3NhZ2UiLCJwaG9uZV9sYWJlbCI6IlBob25lIE51bWJlciIsInRleHRmaWVsZF9sYWJlbCI6IlRleHRmaWVsZCIsImRyb3Bkb3duX2xhYmVsIjoiRHJvcGRvd24iLCJ3ZWJ1cmwiOiJwcmltcm9zZS5mcmVzaGRlc2suY29tIiwibm9kZXVybCI6ImNoYXQuZnJlc2hkZXNrLmNvbSIsImRlYnVnIjoxLCJtZSI6Ik1lIiwiZXhwaXJ5IjowLCJlbnZpcm9ubWVudCI6InByb2R1Y3Rpb24iLCJkZWZhdWx0X3dpbmRvd19vZmZzZXQiOjMwLCJkZWZhdWx0X21heGltaXplZF90aXRsZSI6IkNoYXQgaW4gcHJvZ3Jlc3MiLCJkZWZhdWx0X21pbmltaXplZF90aXRsZSI6IkxldCdzIHRhbGshIiwiZGVmYXVsdF90ZXh0X3BsYWNlIjoiWW91ciBNZXNzYWdlIiwiZGVmYXVsdF9jb25uZWN0aW5nX21zZyI6IldhaXRpbmcgZm9yIGFuIGFnZW50IiwiZGVmYXVsdF93ZWxjb21lX21lc3NhZ2UiOiJIaSEgSG93IGNhbiB3ZSBoZWxwIHlvdSB0b2RheT8iLCJkZWZhdWx0X3dhaXRfbWVzc2FnZSI6Ik9uZSBvZiB1cyB3aWxsIGJlIHdpdGggeW91IHJpZ2h0IGF3YXksIHBsZWFzZSB3YWl0LiIsImRlZmF1bHRfYWdlbnRfam9pbmVkX21zZyI6Int7YWdlbnRfbmFtZX19IGhhcyBqb2luZWQgdGhlIGNoYXQiLCJkZWZhdWx0X2FnZW50X2xlZnRfbXNnIjoie3thZ2VudF9uYW1lfX0gaGFzIGxlZnQgdGhlIGNoYXQiLCJkZWZhdWx0X2FnZW50X3RyYW5zZmVyX21zZ190b192aXNpdG9yIjoiWW91ciBjaGF0IGhhcyBiZWVuIHRyYW5zZmVycmVkIHRvIHt7YWdlbnRfbmFtZX19IiwiZGVmYXVsdF90aGFua19tZXNzYWdlIjoiVGhhbmsgeW91IGZvciBjaGF0dGluZyB3aXRoIHVzLiBJZiB5b3UgaGF2ZSBhZGRpdGlvbmFsIHF1ZXN0aW9ucywgZmVlbCBmcmVlIHRvIHBpbmcgdXMhIiwiZGVmYXVsdF9ub25fYXZhaWxhYmlsaXR5X21lc3NhZ2UiOiJPdXIgYWdlbnRzIGFyZSB1bmF2YWlsYWJsZSByaWdodCBub3cuIFNvcnJ5IGFib3V0IHRoYXQsIGJ1dCBwbGVhc2UgbGVhdmUgdXMgYSBtZXNzYWdlIGFuZCB3ZSdsbCBnZXQgcmlnaHQgYmFjay4iLCJkZWZhdWx0X3ByZWNoYXRfbWVzc2FnZSI6IldlIGNhbid0IHdhaXQgdG8gdGFsayB0byB5b3UuIEJ1dCBmaXJzdCwgcGxlYXNlIHRlbGwgdXMgYSBiaXQgYWJvdXQgeW91cnNlbGYuIiwiYWdlbnRfdHJhbnNmZXJlZF9tc2ciOiJZb3VyIGNoYXQgaGFzIGJlZW4gdHJhbnNmZXJyZWQgdG8ge3thZ2VudF9uYW1lfX0iLCJhZ2VudF9yZW9wZW5fY2hhdF9tc2ciOiJ7e2FnZW50X25hbWV9fSByZW9wZW5lZCB0aGUgY2hhdCIsInZpc2l0b3Jfc2lkZV9pbmFjdGl2ZV9tc2ciOiJUaGlzIGNoYXQgaGFzIGJlZW4gaW5hY3RpdmUgZm9yIHRoZSBwYXN0IDIwIG1pbnV0ZXMuIiwiYWdlbnRfZGlzY29ubmVjdF9tc2ciOiJ7e2FnZW50X25hbWV9fSBoYXMgYmVlbiBkaXNjb25uZWN0ZWQiLCJzaXRlX2lkIjoiNDIxMGViMWRjMDVjMDZiNTBjZjk4ZGYzMzE1ZTlhNjEiLCJhY3RpdmUiOmZhbHNlLCJ3aWRnZXRfcHJlZmVyZW5jZXMiOnsid2luZG93X2NvbG9yIjoiIzAwNjYzMyIsIndpbmRvd19wb3NpdGlvbiI6IkJvdHRvbSBSaWdodCIsIndpbmRvd19vZmZzZXQiOiIzMCIsInRleHRfcGxhY2UiOiJZb3VyIE1lc3NhZ2UiLCJjb25uZWN0aW5nX21zZyI6IldhaXRpbmcgZm9yIGFuIGFnZW50IiwiYWdlbnRfbGVmdF9tc2ciOiIkIGhhcyBsZWZ0IHRoZSBjaGF0IiwiYWdlbnRfam9pbmVkX21zZyI6IiQgaGFzIGpvaW5lZCB0aGUgY2hhdCIsIm1pbmltaXplZF90aXRsZSI6IiIsIm1heGltaXplZF90aXRsZSI6IiIsIndlbGNvbWVfbWVzc2FnZSI6IiIsInRoYW5rX21lc3NhZ2UiOiIiLCJ3YWl0X21lc3NhZ2UiOiIifSwicm91dGluZyI6bnVsbCwicHJlY2hhdF9mb3JtIjp0cnVlLCJwcmVjaGF0X21lc3NhZ2UiOiIiLCJwcmVjaGF0X2ZpZWxkcyI6eyJuYW1lIjp7InRpdGxlIjoiTmFtZSIsInNob3ciOiIyIn0sInBob25lIjp7InRpdGxlIjoiUGhvbmUifSwiZW1haWwiOnsidGl0bGUiOiJFbWFpbCIsInNob3ciOiIyIn0sInRleHRmaWVsZCI6eyJ0aXRsZSI6Ik1lc3NhZ2UifSwiZHJvcGRvd24iOnsidGl0bGUiOiJEcm9wRG93biJ9fSwiYnVzaW5lc3NfY2FsZW5kYXIiOnsiaG9saWRheV9kYXRhIjpbIkphbiAxIiwiTmV3IFllYXIncyBEYXkiLCJEZWMgMjUiLCJDaHJpc3RtYXMgRGF5Il0sInRpbWVfem9uZSI6IkxvbmRvbiIsImJ1c2luZXNzX3RpbWVfZGF0YSI6eyJ3ZWVrZGF5cyI6WyIxIiwiMiIsIjMiLCI0IiwiNSJdLCJmdWxsd2VlayI6ImZhbHNlIiwid29ya2luZ19ob3VycyI6W251bGwseyJiZWdpbm5pbmdfb2Zfd29ya2RheSI6Ijk6MDAgYW0iLCJlbmRfb2Zfd29ya2RheSI6IjU6MDAgcG0ifSx7ImJlZ2lubmluZ19vZl93b3JrZGF5IjoiOTowMCBhbSIsImVuZF9vZl93b3JrZGF5IjoiNTowMCBwbSJ9LHsiYmVnaW5uaW5nX29mX3dvcmtkYXkiOiI5OjAwIGFtIiwiZW5kX29mX3dvcmtkYXkiOiI1OjAwIHBtIn0seyJiZWdpbm5pbmdfb2Zfd29ya2RheSI6Ijk6MDAgYW0iLCJlbmRfb2Zfd29ya2RheSI6IjU6MDAgcG0ifSx7ImJlZ2lubmluZ19vZl93b3JrZGF5IjoiOTowMCBhbSIsImVuZF9vZl93b3JrZGF5IjoiNTowMCBwbSJ9XX19LCJub25fYXZhaWxhYmlsaXR5X21lc3NhZ2UiOnsidGV4dCI6Ik91ciBhZ2VudHMgYXJlIHVuYXZhaWxhYmxlIHJpZ2h0IG5vdy4gU29ycnkgYWJvdXQgdGhhdCwgYnV0IHBsZWFzZSBsZWF2ZSB1cyBhIG1lc3NhZ2UgYW5kIHdlJ2xsIGdldCByaWdodCBiYWNrLiIsImN1c3RvbUxpbmsiOiIwIiwiY3VzdG9tTGlua1VybCI6IiJ9LCJwcm9hY3RpdmVfY2hhdCI6dHJ1ZSwicHJvYWN0aXZlX3RpbWUiOjYwLCJzaXRlX3VybCI6InByaW1yb3NlLmZyZXNoZGVzay5jb20iLCJleHRlcm5hbF9pZCI6bnVsbCwiZGVsZXRlZCI6ZmFsc2UsIm9mZmxpbmVfY2hhdCI6eyJzaG93IjoiMCIsImZvcm0iOnsibmFtZSI6Ik5hbWUiLCJlbWFpbCI6IkVtYWlsIiwibWVzc2FnZSI6Ik1lc3NhZ2UifSwibWVzc2FnZXMiOnsidGl0bGUiOiJMZWF2ZSB1cyBhIG1lc3NhZ2UhIiwidGhhbmsiOiJUaGFuayB5b3UgZm9yIHdyaXRpbmcgdG8gdXMuIFdlIHdpbGwgZ2V0IGJhY2sgdG8geW91IHNob3J0bHkuIiwidGhhbmtfaGVhZGVyIjoiVGhhbmsgeW91ISJ9fSwibW9iaWxlIjp0cnVlLCJjcmVhdGVkX2F0IjoiMjAxNC0wOS0xMVQwNzoxMDoxOS4wMDBaIiwidXBkYXRlZF9hdCI6IjIwMTUtMTEtMTNUMTA6NDA6MDkuMDAwWiJ9';jQuery(function() {jQuery('.freshchat-clickable').click(function(event) {event.preventDefault();setTimeout(function() {jQuery('#chat-widget').trigger('click');},10);});return false;});</script><div style="display:none" id="chat-widget">Click here</div>        </div><script type="text/javascript" src="https://d36mpcpuzc4ztk.cloudfront.net/js/visitor.js"></script>
+    <!-- END: Google Certified Shops --><script charset="utf-8" src="/js/pz-js/piper.js?_=68ec8985" type="text/javascript"></script>
+<script charset="utf-8" src="/js/pz-js/cjsuggest.js?_=aa0366b3" type="text/javascript"></script>
+        </div>
 
 
-        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"03f3aa8c0a","applicationID":"3035970,3035971,3035960","transactionName":"NVJbZ0JTXUsCARVYXgwYbEFZHUNKChQAUkhMR1FD","queueTime":0,"applicationTime":65,"atts":"GRVYEQpJTkU=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
-
+                <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"03f3aa8c0a","applicationID":"3035970,3035971,3035960","transactionName":"NVJbZ0JTXUsCARVYXgwYbEFZHUNKChQAUkhMR1FD","queueTime":0,"applicationTime":56,"atts":"GRVYEQpJTkU=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
