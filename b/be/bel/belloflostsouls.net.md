@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belloflostsouls.net privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227162446id_/http%3A//www.belloflostsouls.net/bols-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belloflostsouls.net privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128131520id_/https%3A//www.belloflostsouls.net/bols-privacy-policy) for the most accurate reproduction.*
 
 # BoLS Privacy Policy - Bell of Lost Souls
 
