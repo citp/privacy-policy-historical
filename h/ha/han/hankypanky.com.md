@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hankypanky.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203092916id_/https%3A//www.hankypanky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hankypanky.com privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128165924id_/https%3A//www.hankypanky.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Our Privacy Policy
 
 Last Updated: January 28, 2016
 
