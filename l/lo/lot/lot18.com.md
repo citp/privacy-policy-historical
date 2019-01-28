@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lot18.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614051546id_/https%3A//www.lot18.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lot18.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129005854id_/https%3A//www.lot18.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lot18
 
