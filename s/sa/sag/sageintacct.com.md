@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sageintacct.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118063139id_/https%3A//www.sageintacct.com/privacy_policy_website) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sageintacct.com privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128135654id_/https%3A//www.sageintacct.com/privacy_policy_website) for the most accurate reproduction.*
 
 # Website Privacy Policy | Sage Intacct
 
