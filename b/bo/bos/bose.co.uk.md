@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bose.co.uk privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223063943id_/https%3A//www.bose.co.uk/en_gb/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bose.co.uk privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128125211id_/https%3A//www.bose.co.uk/en_gb/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
