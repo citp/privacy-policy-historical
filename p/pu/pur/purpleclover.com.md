@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purpleclover.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223224604id_/https%3A//rockyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purpleclover.com privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128093631id_/https%3A//rockyou.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – RockYou
 
