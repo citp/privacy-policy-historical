@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the psigate.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324151419id_/http%3A//www.peoplestrust.com/en/legal/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psigate.com privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128105100id_/http%3A//www.peoplestrust.com/en/legal/privacy-security) for the most accurate reproduction.*
 
-# Privacy & Security - Peoples Group - Learn How To Stay Safe
+# Peoples Group - Privacy & Security
 
 ### **Privacy & Security**
 
@@ -29,13 +29,3 @@ Learn more about what Peoples Group is doing to protect you, and how you can pro
   * [__Security](https://web.archive.org/en/legal/privacy-security/security/)
 
 
-
-**Contact Us**  
-See our various locations and methods of contact.
-
-[Click here](https://web.archive.org/en/about-us/contact/)
-
-**Careers**  
-We are always looking for more great people.
-
-[Click here](https://web.archive.org/en/about-us/careers/)
