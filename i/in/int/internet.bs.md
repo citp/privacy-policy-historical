@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internet.bs privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908033957id_/https%3A//internetbs.net/en/domain-name-registrations/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet.bs privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128045257id_/https%3A//internetbs.net/en/domain-name-registrations/privacypolicy.html) for the most accurate reproduction.*
 
 # Domain Name | Internet Domain Registration | Register Domain NamesPrivacy Policy
 
