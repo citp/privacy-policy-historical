@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herohonda.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231132126id_/http%3A//m.heromotocorp.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herohonda.com privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128141727id_/http%3A//m.heromotocorp.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Hero MotoCorp Ltd.
 
@@ -85,7 +85,7 @@ Unless otherwise provided in the Policy, we may use personal information collect
   * To consider an application from prospective Vendors for partnering with Hero.
   * To educate you about us, our products and services or to understand your interest to improvise the content and performance of our Sites.
   * For maintenance of high quality and standards of products and services.
-  * To send you important information regarding the Sites, changes in [terms and conditions](https://web.archive.org/web/20181231132126id_/http%3A//m.heromotocorp.com/terms-of-use.php), user agreements, and policies and/or other administrative information
+  * To send you important information regarding the Sites, changes in [terms and conditions](https://web.archive.org/web/20190128141727id_/http%3A//m.heromotocorp.com/terms-of-use.php), user agreements, and policies and/or other administrative information
   * For internal business operations including: 
 
 (i) Reviews and data analysis for the website (e.g., to determine the number, category of visitors to specific pages within the website).
