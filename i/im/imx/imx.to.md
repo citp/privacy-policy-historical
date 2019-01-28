@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imx.to privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924102740id_/https%3A//imx.to/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imx.to privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128201502id_/https%3A//imx.to/page/privacy) for the most accurate reproduction.*
 
 # IMX.to / Privacy Policy
 
