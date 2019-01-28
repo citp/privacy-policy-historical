@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chelseanews.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231154506id_/https%3A//scoopdragonpublishing.com/privacy-policy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chelseanews.com privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128181811id_/https%3A//scoopdragonpublishing.com/privacy-policy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Policy « ScoopDragon Publishing – News Aggregation
 
@@ -347,7 +347,19 @@ The activities within which each of these Data Processors participates have been
 
 ScoopDragon Publishing Limited websites include relevant hyperlinks to external websites not controlled by us. Whilst all reasonable care has been exercised in selecting and providing any such links, you are advised to exercise caution before clicking any external links. We cannot guarantee the ongoing suitability of external links, nor do we continually verify the safety or security of the contents which may be subsequently provided to you. You are advised, therefore, that your use of external links is at your own risk and we cannot be responsible for any damages or consequences from your use of them.
 
-### 12\. Changes to this Privacy Policy
+### 12\. Voting Cookies
+
+By viewing the polls on our websites, users will be using the services of <https://automattic.com/> and their browsers may be sent cookies. According to their policies:
+
+  * Using a CAPTCHA will set a cookie on users’ browser by Google who run the CAPTCHA service. The cookie is set after the CAPTCHA is answered.
+  * Email protection sets two cookies, PD_poll_X_Y where X is the poll_id above and Y is a version number incremented when the poll results are reset. The age of the vote is recorded here. PD_REQ_AUTH associates the answer with the poll.
+  * When multipled answers are blocked by cookie then a cookie called PD_poll_X (X is the poll ID) is set after the user votes.
+
+
+
+After voting in a poll, as sharing is enabled, Facebook and Twitter buttons will be displayed. Those buttons will store Facebook and Twitter tracking cookies in the browser of the user voting.
+
+### 13\. Changes to this Privacy Policy
 
 We may change this ScoopDragon Publishing Limited Privacy Policy from time to time, and if we do we will post any changes on this page. If you continue to access this website or any of our websites as listed above or use services available from these websites after those changes have come into effect, you will have agreed to the revised policy.
 
