@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unsubcentral.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530020518id_/https%3A//www.unsubcentral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unsubcentral.com privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128205245id_/https%3A//www.unsubcentral.com/privacy) for the most accurate reproduction.*
 
-# UnsubCentral | Privacy Policy
+# Privacy Policy - UnsubCentral
 
 #### UnsubCentral Privacy Policy **  
 **
@@ -57,7 +57,7 @@ PostUp is not in the business of selling your information. We consider this info
 
 Most web browsers are set up to accept cookies. You can, however, reset your browser to refuse all cookies or to indicate when a cookie is being sent. If you choose to decline cookies, some of the functionality of the Website may be impaired.
 
-We use a variety of technologies on the Site. Among these are cookies: a text-only string of information that a website transfers to the cookie file of the browser on your computer so that the website can remember your browser in the future. A cookie will typically contain the name of the domain from which the cookie has come, the “lifetime” of the cookie, and a value, usually a unique number. When you visit our Site, open our e-mail, encounter the Service online (including via one of our customer's websites), or click on one of our banner ads or videos, we or an authorized third party may send you a cookie.
+We use a variety of technologies on the Site. Among these are cookies: a text-only string of information that a website transfers to the cookie file of the browser on your computer so that the website can remember your browser in the future. A cookie will typically contain the name of the domain from which the cookie has come, the “lifetime” of the cookie, and a value, usually a unique number. When you visit our Site, open our e-mail, encounter the Service online (including via one of our customer’s websites), or click on one of our banner ads or videos, we or an authorized third party may send you a cookie.
 
 Cookies may be used by us in many ways: They allow us to verify the login status of customers using products or services linked directly with our Site, track point of entry to point of registration for those users participating in our affiliate signup programs, track and measure the success of a particular marketing campaign, provide you with improved customer service, and provide you with more relevant content. Cookies also allow us to track overall site usage and determine areas users prefer, as well as enable us to make your visit to our Site easier by recognizing you when you return and help to provide you with a customized experience.
 
@@ -79,7 +79,7 @@ PostUp utilizes the third-party cloud services of various companies to store, us
 
 By using the Website or the Service, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. To the extent that our terms of service provide additional protection to this Privacy Policy, it shall take precedence over any conflicting Privacy Policy provision and it shall apply to the maximum extent permitted by law with respect to our liability (if any) for a breach of this Privacy Policy. We may change this Privacy Policy by posting a new version of this Privacy Policy on the Site, and it is your responsibility to review the new version. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the PII we collect. If we decide to change this Privacy Policy in any material way as it applies to PII, we will notify you here, by means of a notice on the Website so our users are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. In all cases, your continued use of this Site or the Service constitutes your consideration and binding acceptance to any changes or updates to this Privacy Policy.
 
-#### Children's Privacy
+#### Children’s Privacy
 
 PostUp places the highest value on the privacy of children. PostUp does not knowingly collect PII from minors under the age of 13. Any person who provides their information to PostUp represents to us that they are 13 years of age or older. If you are the parent or legal guardian of a minor under the age of 13 who has provided PII to PostUp, please contact us so we can delete it.
 
@@ -96,7 +96,7 @@ PostUp may have limited access to certain PII we process on behalf of our custom
 
 #### Right to Contact via Telephone
 
-By registering on the Site, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR § 310 et seq.), as amended from time to time (the “Rule”) and other telemarketing laws such as FCC rules. Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, we reserve the right to contact you via telemarketing in accordance with the Rule.
+By registering on the Site, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR § 310 et seq.), as amended from time to time (the “Rule”) and other telemarketing laws such as FCC rules. Notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, we reserve the right to contact you via telemarketing in accordance with the Rule.
 
 #### Contacts
 
