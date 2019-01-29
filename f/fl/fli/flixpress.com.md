@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixpress.com privacy policy that was archived on 2017-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170116191824id_/https%3A//flixpress.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixpress.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129185558id_/https%3A//flixpress.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
