@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signalfx.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005032045id_/https%3A//signalfx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signalfx.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129095000id_/https%3A//www.signalfx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SignalFx
 
@@ -172,7 +172,7 @@ You agree that all Personal Information collected via or by us may be transferre
 
 ##### 6.1 General
 
-You have the right to object to and opt out of certain uses and disclosures of your Personal Information. Where you have consented to SignalFx’s Processing of your Personal Information or Sensitive Personal Information, you may withdraw that consent at any time and opt out of further Processing by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a4d7c1c7d1d6cdd0dde4d7cdc3cac5c8c2dc8ac7cbc9). Even if you opt out, we may still collect and use non-Personal Information regarding your activities on our Sites and/or information from the advertisements on Third-Party websites for non-interest based advertising purposes, such as to determine the effectiveness of the advertisements.
+You have the right to object to and opt out of certain uses and disclosures of your Personal Information. Where you have consented to SignalFx’s Processing of your Personal Information or Sensitive Personal Information, you may withdraw that consent at any time and opt out of further Processing by contacting [security@signalfx.com](mailto:security@signalfx.com). Even if you opt out, we may still collect and use non-Personal Information regarding your activities on our Sites and/or information from the advertisements on Third-Party websites for non-interest based advertising purposes, such as to determine the effectiveness of the advertisements.
 
 ##### 6.2 Email and Telephone Communications
 
@@ -202,7 +202,7 @@ To be clear, whether you are using our opt-out or an online industry opt-out, th
 
 #### 7. Rights of Access, Rectification, Erasure, and Restriction
 
-You may inquire as to whether we are Processing Personal Information about you, request access to Personal Information, and ask that we correct, amend or delete your Personal Information where it is inaccurate. Where otherwise permitted by applicable law, you may send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c8bbadabbdbaa1bcb188bba1afa6a9a4aeb0e6aba7a5) or use any of the methods set out in this Privacy Policy to request access to, receive (port), seek rectification, or request erasure of Personal Information held about you by SignalFx. Please include your full name, email address associated with your Account, and a detailed description of your data request. Such requests will be processed in line with local laws.
+You may inquire as to whether we are Processing Personal Information about you, request access to Personal Information, and ask that we correct, amend or delete your Personal Information where it is inaccurate. Where otherwise permitted by applicable law, you may send an e-mail to [security@signalfx.com](mailto:security@signalfx.com) or use any of the methods set out in this Privacy Policy to request access to, receive (port), seek rectification, or request erasure of Personal Information held about you by SignalFx. Please include your full name, email address associated with your Account, and a detailed description of your data request. Such requests will be processed in line with local laws.
 
 Although we make good faith efforts to provide Individuals with access to their Personal Information, there may be circumstances in which we are unable to provide access, including but not limited to: where the information contains legal privilege, would compromise others’ privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the Individual’s privacy in the case in question or where it is commercially proprietary. If we determine that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries. To protect your privacy, we will take commercially reasonable steps to verify your identity before granting access to or making any changes to your Personal Information.
 
@@ -224,11 +224,11 @@ If you are visiting from the European Union or other regions with laws governing
 
 #### 11. Children’s Privacy
 
-Our Services are not directed to children under 13 (or other minimum age as required by local law) and we do not knowingly collect Personal Information from children under 13.  If you learn that your child has provided us with Personal Information without your consent, you may alert us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2457414751564d505d64574d434a4548425c0a474b49). If we learn that we have collected Personal Information of a child under 13 we will take steps to delete such information from our files as soon as possible and terminate the child’s account.
+Our Services are not directed to children under 13 (or other minimum age as required by local law) and we do not knowingly collect Personal Information from children under 13.  If you learn that your child has provided us with Personal Information without your consent, you may alert us at [security@signalfx.com](mailto:security@signalfx.com). If we learn that we have collected Personal Information of a child under 13 we will take steps to delete such information from our files as soon as possible and terminate the child’s account.
 
 #### 12. Redress/Compliance and Accountability
 
-If you have any questions about our privacy practices, this Privacy Policy, or how to lodge a complaint with the appropriate authority, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2754424452554e535e67544e4049464b415f0944484a). We will address your concerns and attempt to resolve any privacy issues in a timely manner.
+If you have any questions about our privacy practices, this Privacy Policy, or how to lodge a complaint with the appropriate authority, please contact us by email at [security@signalfx.com](mailto:security@signalfx.com). We will address your concerns and attempt to resolve any privacy issues in a timely manner.
 
 #### 13. Other Rights and Important Information
 
@@ -286,4 +286,4 @@ Effective:  6/21/2018
 
 |   
   
-Please contact our team at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1566707660677c616c55667c727b7479736d3b767a78) if you have any questions about our Privacy Policy.
+Please contact our team at [security@signalfx.com](mailto:security@signalfx.com) if you have any questions about our Privacy Policy.
