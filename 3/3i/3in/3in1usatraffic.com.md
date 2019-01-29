@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3in1usatraffic.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128125303id_/http%3A//www.3in1usatraffic.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3in1usatraffic.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129142843id_/http%3A//www.3in1usatraffic.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Boost your sales today with State targeted USA website traffic!
+# Privacy Policy :: 3in1usatraffic.com
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices.
 
