@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdstall.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229220605id_/http%3A//www.bdstall.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdstall.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129225813id_/https%3A//www.bdstall.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy of Bdstall
 
