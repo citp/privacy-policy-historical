@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailynewsen.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905180925id_/http%3A//www.dailynewsen.com/terms-of-use-s6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailynewsen.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129213555id_/https%3A//www.dailynewsen.com/terms-of-use-s6.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
