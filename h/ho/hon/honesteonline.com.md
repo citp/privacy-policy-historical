@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the honesteonline.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312164934id_/http%3A//www.honesteonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honesteonline.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129135245id_/https%3A//honesteonline.com/privacy.html) for the most accurate reproduction.*
 
 # HONESTe Online Privacy Policy
 
-Last Updated: June 1, 2016
+Last Updated: May 9, 2018
 
 HONEST E ONLINE, INC. is concerned about the security of your private information, and we do everything possible to protect it. This Privacy Policy describes how we might use some Personally Identifiable Information, such as your name, e-mail address, street address, telephone, within the context of this Privacy Policy. But you can rest assured we will never sell, rent, loan, exchange, or in any way abuse your e-mail address with any unauthorized party.  
 
