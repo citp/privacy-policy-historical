@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flavormosaic.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011212332id_/https%3A//flavormosaic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flavormosaic.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129181349id_/https%3A//flavormosaic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Flavor Mosaic
 
