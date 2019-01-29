@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wormly.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163800id_/https%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wormly.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129095427id_/https%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wormly
 
