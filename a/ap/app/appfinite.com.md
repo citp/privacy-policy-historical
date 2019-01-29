@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appfinite.com privacy policy that was archived on 2018-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180804063039id_/http%3A//appfinite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appfinite.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129145301id_/https%3A//appfinite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Appfinite
 
@@ -52,7 +52,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.appfinite.com](http://www.appfinite.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://appfinite.com](http://appfinite.com/)
 
 **Your Consent**
 
