@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaplus.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128211617id_/http%3A//www.shaplus.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaplus.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129080820id_/http%3A//shaplus.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for ShaPlus.com
 
