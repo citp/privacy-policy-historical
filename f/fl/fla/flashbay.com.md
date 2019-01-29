@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashbay.com privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221003501id_/http%3A//www.flashbay.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashbay.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129012611id_/https%3A//www.flashbay.com/about/privacy) for the most accurate reproduction.*
 
 # Custom USB Flash Drives Imprinted with your Logo
 
@@ -10,15 +10,15 @@ This Privacy Policy explains what Personal Information we collect and how we use
 
 If you think that Flashbay is not complying with this Privacy Policy, please tell us. We will do our best to resolve your issue.
 
-  * [What Personal Information About Customers Does flashbay.com Gather?](http://www.flashbay.com/171#gather)
-  * [What About Cookies?](http://www.flashbay.com/171#cookies)
-  * [Does flashbay.com Share the Information It Receives?](http://www.flashbay.com/171#share)
-  * [How Secure Is Information About Me?](http://www.flashbay.com/171#secure)
-  * [What Information Can You Access?](http://www.flashbay.com/171#access)
-  * [What Choices Do I Have?](http://www.flashbay.com/171#choices)
-  * [Terms and Conditions, Notices, and Revisions](http://www.flashbay.com/171#conditions)
-  * [Examples of Personal Information You Give Us and We Collect](http://www.flashbay.com/171#examples)
-  * [How to Contact Us](http://www.flashbay.com/171#contact)
+  * [What Personal Information About Customers Does flashbay.com Gather?](https://www.flashbay.com/171#gather)
+  * [What About Cookies?](https://www.flashbay.com/171#cookies)
+  * [Does flashbay.com Share the Information It Receives?](https://www.flashbay.com/171#share)
+  * [How Secure Is Information About Me?](https://www.flashbay.com/171#secure)
+  * [What Information Can You Access?](https://www.flashbay.com/171#access)
+  * [What Choices Do I Have?](https://www.flashbay.com/171#choices)
+  * [Terms and Conditions, Notices, and Revisions](https://www.flashbay.com/171#conditions)
+  * [Examples of Personal Information You Give Us and We Collect](https://www.flashbay.com/171#examples)
+  * [How to Contact Us](https://www.flashbay.com/171#contact)
 
 
 
@@ -36,7 +36,7 @@ We receive and store any Personal Information you enter on our website or give u
 
 ####  What About Cookies?
 
-For information about cookies and how we use them on our site, please read our [Cookie Policy](http://www.flashbay.com/about/cookie) page.
+For information about cookies and how we use them on our site, please read our [Cookie Policy](https://www.flashbay.com/about/cookie) page.
 
 Information about our customers is an important part of our business, and we do not sell it or provide it to third parties that use it for their direct marketing purposes. We share customer information only with Flashbay Ltd. and as described below. 
 
@@ -62,7 +62,7 @@ Information about our customers is an important part of our business, and we do 
 
 ####  What Information Can I Access?
 
-flashbay.com gives you access to [the following information](http://www.flashbay.com/171#gather) about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our website evolves. 
+flashbay.com gives you access to [the following information](https://www.flashbay.com/171#gather) about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our website evolves. 
 
 ####  What Choices Do I Have?
 
