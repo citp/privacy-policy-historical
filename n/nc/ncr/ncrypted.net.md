@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncrypted.net privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218151715id_/https%3A//www.ncrypted.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncrypted.net privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129205220id_/https%3A//www.ncrypted.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NCrypted Websites
 
