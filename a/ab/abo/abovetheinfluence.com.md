@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abovetheinfluence.com privacy policy that was archived on 2018-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180620050203id_/http%3A//abovetheinfluence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abovetheinfluence.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129031354id_/https%3A//abovetheinfluence.com/privacy) for the most accurate reproduction.*
 
 # Above the Influence
 
@@ -52,7 +52,7 @@ The pages you visit
 How long a visit to a page and the Site as a whole lasted  
 If you linked to AbovetheInfluence.com from another website, the address of that website.  
 How to Change or Modify Your Permission at Any Time  
-If you wish to remove your online submission from our Site, you may contact us online at http://abovetheinfluence.com/contact or write to AbovetheInfluence Coordinator: 352 Park Avenue South, 9th Floor, New York, NY 10010. Be sure to clearly indicate your screen name, and a brief description of your submission. We will retain your e-mail address and any other information you provide only until we’ve removed your submission. If we have questions about your correspondence to our “remove submissions” mailbox, we may write back to you for further clarification.
+If you wish to remove your online submission from our Site, you may contact us online at https://abovetheinfluence.com/contact or write to AbovetheInfluence Coordinator: 352 Park Avenue South, 9th Floor, New York, NY 10010. Be sure to clearly indicate your screen name, and a brief description of your submission. We will retain your e-mail address and any other information you provide only until we’ve removed your submission. If we have questions about your correspondence to our “remove submissions” mailbox, we may write back to you for further clarification.
 
 4\. INTERNET SECURITY POLICY
 
@@ -68,7 +68,7 @@ If we decide to change this Privacy Policy, we will post those changes on our ho
 
 7\. CONTACT INFORMATION
 
-If you have questions about our Privacy Policy or are interested in sending us your suggestions, comments or concerns, please contact us online at http://abovetheinfluence.com/contact.
+If you have questions about our Privacy Policy or are interested in sending us your suggestions, comments or concerns, please contact us online at https://abovetheinfluence.com/contact.
 
 For more information about online privacy, please review the tips provided on the GetNetWise website or the  
 Federal Trade Commission’s kid’s privacy page.
