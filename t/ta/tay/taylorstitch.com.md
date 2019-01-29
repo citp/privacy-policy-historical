@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorstitch.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124212244id_/https%3A//www.taylorstitch.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorstitch.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129045620id_/https%3A//www.taylorstitch.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Classic Men’s Clothing | Taylor Stitch
 
