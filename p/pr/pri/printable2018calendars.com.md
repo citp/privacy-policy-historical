@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printable2018calendars.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814091753id_/https%3A//www.savetzpublishing.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printable2018calendars.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129195546id_/https%3A//www.savetzpublishing.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ Google is one of these third-party vendors, and uses cookies to serve ads on Sav
 
 Certain Savetz Publishing web sites may have separate privacy policy documents that supplement this one.
 
-Back to [Savetz Publishing](https://web.archive.org/web/20180814091753id_/https%3A//www.savetzpublishing.com/)
+Back to [Savetz Publishing](https://web.archive.org/web/20190129195546id_/https%3A//www.savetzpublishing.com/)
 
   
 
