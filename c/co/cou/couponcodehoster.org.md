@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couponcodehoster.org privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928014809id_/https%3A//couponcodehoster.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcodehoster.org privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129172130id_/https%3A//couponcodehoster.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Web Hosting Coupon Codes
+# Privacy Policy - Coupon Code Hoster
 
 Privacy Policy for www.couponcodehoster.com
 
