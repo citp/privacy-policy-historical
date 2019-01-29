@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilityawarenessmonth.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129083051id_/http%3A//www.nmeda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilityawarenessmonth.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129043234id_/https%3A//nmeda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NMEDA
 
