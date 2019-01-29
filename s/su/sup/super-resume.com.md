@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the super-resume.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325114949id_/http%3A//www.super-resume.com/PrivacyPolicy.jtp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the super-resume.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129131409id_/https%3A//www.super-resume.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Super-Resume: Privacy Policy
 
@@ -23,7 +23,7 @@ We collect this information in order to provide the User who sent you the link w
 
 ## How we use the information we collect
 
-  * **Users** : If you are a User, the information we collect is used to deliver the services, to manage and administer your account, and for billing purposes. The content of your resumés may be used as samples in our search engine and may be reused by other Users. Your name and contact information will not be available on the search results as long as you have submitted them via the appropriate forms. If you create public links to your resumés (see [trackable links](https://web.archive.org/help/Tracking.jtp)), anyone will be able to visit them. Users are solely responsible for all content and other information they input into the services and how they make the content available through public links. 
+  * **Users** : If you are a User, the information we collect is used to deliver the services, to manage and administer your account, and for billing purposes. The content of your resumés may be used as samples in our search engine and may be reused by other Users. Your name and contact information will not be available on the search results as long as you have submitted them via the appropriate forms. Users are solely responsible for all content and other information they input into the services and how they make the content available through public links. 
   * **Viewers** : If you are a Viewer who views the resumé content of a given User, the information we collect about your visit will be reported to the user. 
 
 
