@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the no-more-calls.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128192025id_/http%3A//no-more-calls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no-more-calls.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129085742id_/http%3A//no-more-calls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | No More Calls!
 
