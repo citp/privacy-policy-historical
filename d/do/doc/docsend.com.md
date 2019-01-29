@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docsend.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218175128id_/https%3A//www.docsend.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docsend.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130000926id_/https%3A//www.docsend.com/legal) for the most accurate reproduction.*
 
 # Details on how we safeguard your privacy.
 
