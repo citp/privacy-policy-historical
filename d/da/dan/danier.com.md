@@ -1,165 +1,81 @@
-> *The following text is extracted and transformed from the danier.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622041724id_/https%3A//www.danier.com/privacy-policy) for the most accurate reproduction.*
-
-# Privacy Policy
-
-Table of  Contents:
-
-·       Purpose & Scope
-
-·       Collection and Use of Personal Information
-
-·       External Links and Service Providers
-
-·       Your Consent Registration and Order Forms
-
-·       Use of Cookies
-
-·       Managing Your Information
-
-·       Protecting Your Security
-
-·       Legal Disclosures
-
-·       Intellectual Property
-
-·       Modifications to this Privacy Policy
-
-### Purpose & Scope
-
-Thank you for visiting our website. Danier values your trust and respects your privacy. 
-
-We are committed to protecting the privacy of personal information that we obtain through our site, via mobile, and from visits and purchases at our stores.  This privacy policy provides you with information about how we use the information collected, and our privacy practices in general.
-
-### Please read this Privacy Policy carefully.
-
-The purpose of this Privacy Policy is to describe our policies and procedures and how we put them into practice so that you understand what Personal Information we collect, and how we use, manage, and share your Personal Information.
-
-If you have any questions or concerns about this Privacy Policy or your personal information, or wish to review or update your information, please contact us by:
-
-Email:  [customercare@danier.com](http://customercare@danier.com/)
-
-Notice of any changes to this Privacy Policy will be communicated by the postings on the Modifications to this Policy on our web site.
-
-**Collection and Use of Personal Information**
-
-**When you visit, register or use the services on this Site, you may be asked to provide certain information about yourself, including your name and your contact details. We may also collect information about your use of this Site as well as information about you from the emails or letters sent to you.**
-
-### In general, we use the information we collect about you is to help:
-
-·       Provide more personalized services to you;
-
-·       Improve the features and services we offer;
-
-·       Inform you about products, services, special offers, contests, promotions or events that Danier reasonably believes may be of interest to you;
-
-·       Support our own marketing and promotion efforts;
-
-·       Create, administer, and maintain customer accounts, process your transactions and returns;
-
-·       Contact you in person, by mail, over the telephone, through our website or any other direct manner  for your views on our services;
-
-·       Notify you occasionally about important changes or developments to this Site or our services;
-
-·       Better understand our customer demographics;
-
-·       Aggregate information to identify patterns which we can use in our marketing and to help us develop, administer, support and improve our services and features;
-
-·       Respond to your questions, enquiries, complaints or verify instructions from you;
-
-·       Protect you and us from error and fraud;
-
-·       Provide you with access to all parts of this Site and to supply the services and features that you have requested;
-
-Please note that when you sign up for, participate in using this site, and any services we offier via this site, you are agreeing to be bound by this policy in respect of the information collected about you via this site.  However you may unsubscribe at anytime.  
-
-Danier’s website if directed for adult use only.  Danier does not knowingly collect any personal information from children under the age of 16.  Those under 16 should not use Danier’s website or provide Danier with any personal information.
-
-When you visit [DANIER.com](http://danier.com/), unless you tell us who you are or reveal any other personal information, we do not collect or store any information about you. The only information we collect and store is non-personally identifiable information such as the name of your Internet service provider, the type of the Internet browser you used, and referring Web site and the pages you request.
-
-### External Links and Services
-
-We use third-party service providers to perform certain services on our behalf when the information is necessary for them to perform their duties. These third-party service providers are prohibited from using personal information for any other purpose and are contractually required to comply with all applicable laws and requirements, which may include Payment Card Industry Data Security Standards if they are processing payments for Danier.
-
-When our service is available via the websites of our partners, those partners may have access to your information. Their use of your personal information is governed by their privacy policies. We are not responsible for the privacy policies and practices of any other websites, even if you access them using links from this Site or if you can access this Site or use our services from them. We therefore recommend that you check the policy of each site that you visit and make sure that you are comfortable with the terms of such policies before providing any personal information.
-
-**We will not otherwise disclose, sell or distribute your information to any third party without your permission unless we are required to do so by law. In such an event, we will ensure that the parties have entered into an agreement under which the disclosure of the information (including any personal information) is restricted to those purposes that relate to the investigation or transaction.**
-
-### Your Consent Registration and Order Forms
-
-To receive promotional offers from Danier, you can sign up on our website or contact a Customer Service representative.
-
-Our site’s registration form requires users to give us contact information such as their name, email, and postal address. Contact information from the registration forms is used to enhance the customer experience. Users may opt-out of receiving future marketing mailings; see the choice/opt-out section below. Unique identifiers such as a customer number are automatically generated by our system.
-
-If you register for an account or make a purchase online, you will automatically receive promotional emails and direct mail from Danier. You may opt out from receiving promotional emails from Danier only by clicking the unsubscribe link in any of the promotional emails you receive.
-
-### Use of Cookies
-
-Like many websites, we use "cookies” to enable us to personalize your visits to this website, simplify the signing-in procedure, keep track of your preferences and to track the usage of this website. Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. Your browser will have the option to prevent websites using cookies (your browser’s help screen or manual will tell you how to do this), but please note that this may reduce the functionality of this Site and other websites. Like all websites, our servers automatically record ‘log files’ containing information about the volume and characteristics of our website traffic e.g. IP address, numbers of pages viewed, length of time spent on site. We use log files to build pictures of how our site is used that help us to monitor and improve the service. We cannot identify you from your log files.
-
-Cookies are files that your Web browser places on your computer’s hard drive that permit us to tell whether, and if so, how many times, you have accessed our Web site previously, your interests and preferences, your language of choice, where your internet provider resides, internet user behavioral analysis, and your computer system’s flash preference. You may choose to decline to accept cookies if your browser permits, but doing so may affect your use of our Web site and your ability to access certain features of the Web site.
-
-A pixel tag is a transparent graphic image, sometimes called a Web beacon, clear GIFs or tracking beacon, placed on a Web site or in an e-mail, which indicates to us that a page or e-mail has been viewed. In addition, a pixel tag may tell your browser to get content from another server.
-
-We retain access to all personal information that we have collected from you.
-
-We, or our service providers, may use cookies, web beacons/pixel tags, log files, and other technologies to collect information about visitors to our website, use of our online services, and interactions with our emails and online advertisements, such as your browser type and operating system, viewed webpages, links that are clicked, IP address, sites visited before coming to our website, emails we send that you open, forward, or click through to our website. Collecting this information, and linking it with your personal information, helps us to tailor our website and enhance your online shopping experience by saving your preferences while you are visiting a particular site, and to help identify site features, promotions, advertisements, and offers that may be of particular interest to you.
-
-**Mobile Information: We offer mobile applications ("apps") which allow you to shop online, check product availability, learn about store events, or receive other information from us. All personal information collected via our mobile application is protected by this Privacy Policy. We, or our service providers, may also collect, use, or disclose personal information and non-personal information from and about you on our mobile websites and through your interactions with us on your mobile device. This information may include a telephone number and mobile device identifier provided by your mobile device or wireless carrier, as applicable. You do not have to provide your location information to use our mobile applications however, store-specific services require a zip code to function and we will save your zip code(s) for future reference. When you download our mobile application, you may choose to allow it to obtain your precise location. In this case, we will determine your postal code from the precise location data received from your mobile device. We do not store precise location data; we only store the postal codes associated with the location. Our mobile applications offer automatic (push) notifications. We will provide push notifications only to those who opt-in to receive them. If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings. We may offer updated or enhanced versions of our mobile applications that include additional features created by us or using third party functionality. Our applications or the third party may automatically collect information about your precise location from your device, but only if you allow it.**
-
-### **Managing your Information**
-
-If you have registered for an account or made a purchase, you may view and update your account information by logging into the ["Your Account"](https://www.saksfifthavenue.com/account/login.jsp) section of the website with your email address and password. Once logged in, you can view or update your name, address, telephone number or email address. You can also call, write or email a Customer Service representative to access or update any of this information.
-
-To receive promotional offers from the Danier, you can sign up on our website or contact a Customer Service representative. If you register for an account or make a purchase, you will automatically receive promotional emails and direct mail from Danier. You may opt out from receiving promotional emails from the sender only by clicking the unsubscribe link in any of the promotional emails you receive. In addition, if you have a **DANIER.com** account, you may change your email preferences regarding email from **DANIER.com** by logging into the ["Your Account"](https://www.saksfifthavenue.com/account/login.jsp) section of the website or unsubscribe [here](http://www.saksfifthavenue.com/email/emailPrivacy.jsp). You may change your email preferences regarding email from Danier by clicking [here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=682906452&n=92713).
-
-Our customers receive standard order status communications, such as order confirmation and shipping dates, via email. Your choice to opt out of promotional emails will not affect email notifications regarding your order with us.
-
-If you would like to be removed from our Danier mailing list, please contact a Customer Service representative by mail, phone or email to stop receiving paper catalogs.
-
-You are entitled to request access to and correction of all your personal data collected by us through **DANIER.com** , as well as to require us to disable the account that contains your data if you no longer want us to process it. You can make such a request or a related inquiry at [customercare@danier.com](http://customercare@danier.com/). We will keep your data as long as it is reasonably necessary for the purposes described in this Privacy Policy. You may choose not to receive unsolicited marketing material from Danier, and you have the right to request your Danier account information be disabled, subject to our need to keep appropriate archives of our business operations.
-
-### Protecting Your Security
-
-Protecting the security of your information is very important to us. When you transmit sensitive personal information (such as credit card information) from your computer to our servers, your information is protected by both a "firewall" (a combination of computer hardware and software that helps keep unauthorized visitors from accessing information within our computer network) and industry standard SSL (secure socket layer) encryption. For our mobile website, we protect your payment card information using encryption technology when you place an order. Once we receive your transmission, we will take reasonable precautions to secure and protect the information on our systems. Unfortunately, no data transmission over the Internet can be 100% secure and, accordingly, we cannot guarantee or warrant the security of any information you disclose or transmit to us online. However, we strive to protect your information and privacy.
-
-Because of the international nature of the services and products we provide on our website and the nature of our business, personal data may, subject to applicable law, be transferred internationally throughout Danier worldwide for the purposes described above. This may mean that personal data are transferred to countries which do not have laws or regulations that protect personal data, unlike Canada does, where the server for our website is located. We use reasonable measures to limit the disclosure of the data you provide to us only to certain staff within Danier and our affiliates (i.e. staff whose job it is to process your inquiries and survey answers or otherwise to administer **DANIER.com** , and those staff involved in the provision of our services and products which may be of interest to you) and to require that they process the data only for the purposes identified in this Privacy Policy.
-
-To protect our customers from fraudulent transactions on danier.com, all orders are subject to review and verification. As part of the verification process, an order may be temporarily placed on hold in order to verify order information: that includes, but is not limited to, credit card billing information, which may involve contacting the credit card holder directly.
-
-We follow strict security procedures to ensure that your personal information is not damaged, destroyed, or disclosed to a third party without your permission and to prevent unauthorized access to it. The computers that store the information are kept in a secure facility with restricted physical access and we use secure firewalls and other measures to restrict electronic access.
-
-All of the information we collect or record is restricted to our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. We will explicitly ask you when we need information to identify you. We may require you to co-operate with our security checks before we disclose information to you. You can update the personal information that you give us at any time by viewing ["Your Account"](https://www.saksfifthavenue.com/account/login.jsp)   page. We will retain your information for a reasonable period or for as long as is required by law.
-
-### Legal Disclosures
-
-Danier may disclose the information we receive from and about you to respond to judicial process and provide information to law enforcement agencies in accordance with applicable law. We also reserve the right to share information with legal authorities and other companies for fraud protection and credit risk reduction, or to avoid injury to our rights or the rights of any other person.
-
-During the normal course of our business, we may sell or purchase assets. If another entity acquires all or a part of Danier or its affiliated companies, information we have collected about you may be transferred to such entity.
-
-In addition, if any bankruptcy or reorganization proceeding is brought by or against Danier and its affiliated companies, such information may be considered an asset of the company and may be sold or transferred to third parties. Should a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personally identifiable information provided through this website in a manner that is consistent with this Privacy Policy.
-
-If our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
-
-### Intellectual Property
-
-Danier, our suppliers, licensors, or the original creators of all materials on danier.com own all copyrightable subject matter on danier.com and all trademarks, patents, proprietary information, technologies, products, processes or other proprietary rights of Danier and/or such other parties. No license to or right in any such copyrights, trademarks, patents, proprietary information, technologies, products, processes and other proprietary rights of Danier and/or other parties is granted to or conferred upon you. In addition, direct linking, deep linking, framing, page-jacking, metatagging, and using a robot, spider or automated device of any kind to monitor or copy **DANIER.com** is strictly prohibited.
-
-Notwithstanding the foregoing, Danier hereby authorizes you only to copy the content herein solely for your personal and private use in learning about, evaluating, or acquiring Danier products. Except where expressly noted, no other permission is granted to print, copy, reproduce, distribute, transmit, upload, download, store, display in public, alter, or modify the content contained on this website. Any unauthorized use of any material contained on this website may violate copyright laws, trademark laws, the laws of privacy and publicity, and communications regulations and statutes. Any other use of materials on this website, including reproduction for purposes other than those expressly permitted herein, modification, distribution, or republication, without prior written permission from Danier is strictly prohibited. Any copy made by you as permitted herein must retain all copyright and trademark notices, including any other proprietary notices, contained in the materials. The use of such materials on any other website or in any environment of networked computers is prohibited.
-
-### Modifications to this Privacy Policy
-
-Danier may make modifications or amendments to this policy from time to time to add new services or features or in response to changes in the law or our commercial arrangements.  Any changes to this policy will be posted on this Site. In the event that such changes alter how we gather, process, use, or disclose your personally identifiable information, we will post such changes on our website.
-
-Danier encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-### Change log:    _(examples)_
-
-  * _June 20, 2017:  Update to Return Policy_
-  * _June 14, 2017:  Update to Return Policy_
-  * _May 30, 2017:  Update to Return Policy_
-  * _January 17, 2017:  Update to Shipping Policy USA and INTERNATIONAL_
-  * _December 18, 2016 : Full update of Privacy Policy_
-  * __December 18_ , 2016 : Remove reference to Danier Leather_
-  * __December 18_ , 2016: Initial version of privacy policy_
+> *The following text is extracted and transformed from the danier.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130004834id_/https%3A//danier.com/pages/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy – Danier
+
+Privacy Policy
+
+  1. Our Privacy Statement 
+    * This Privacy Policy sets out how Ramhi Global Retails Inc. O/A **DANIER** and its subsidiaries and related bodies corporate (collectively referred to in this policy as " **DANIER** ", " **we** " or " **us** ") protects the privacy of your Personal Information (as defined below) and the basis on which any Personal Information we collect from you, or that you provide to us, will be processed and disclosed by us in connection with **DANIER** ’s websites, namely danier.com, purchases at our stores, and any other websites or mobile applications that contain a link to this privacy policy (each a “ **Service** ”).
+    * **DANIER** is committed to ensuring that your privacy is protected and to ensuring that your Personal Information is processed in accordance with applicable laws and regulations (as amended or replaced from time to time) protecting the privacy of Personal Information in the jurisdictions in which we operate (" **Applicable Laws** "). For the purposes of this Privacy Policy, Personal Information means information that is about you as an identifiable individual. Danier will only collect, use, store, disclose and transfer your Personal Information in accordance with this Privacy Policy, any related privacy notices and Applicable Laws. If a Danier website, product or service describes privacy practices applicable to specific types of information or in certain circumstances and those descriptions conflict with this Privacy Policy, those descriptions shall supersede this Privacy Policy.
+    * Please read the following carefully to understand **DANIER** ’s views and practices regarding your Personal Information and how we will treat it. By using our Service, you confirm that you have read, understood and agree with the collection, use, storage, disclosure and transfer of your Personal Information in accordance with this Privacy Policy. If you do not agree or withdraw your consent, you should not provide us with Personal Information or should notify us that you have withdrawn your consent.
+    * **DANIER** does not knowingly collect information from people under the age of 16 without the consent of your parent or guardian, and does not target our websites and Service to children under 16.
+    * This Privacy Policy was last updated on, and is effective as of June 1, 2018. ****   **DANIER** reserves the right, in its sole discretion, to modify, revise, delete and update this Privacy Policy from time to time. **DANIER** will use reasonable endeavours to notify you in advance of any modifications to the terms of this Privacy Policy (e.g. by posting the revised policy with a new effective date and by publishing the information about such modification on its web page of the Service). If you do not agree with the modifications, revisions, deletions or updates, your exclusive remedy is to cease using the Service. By continuing to access or utilize the Service after those changes are made, you shall be deemed to have accepted and agreed to the changes.
+  2. THE PERSONAL INFORMATION THAT WE COLLECT FROM YOU 
+    * The Service collects information from you in two ways: directly from your input and automatically through the Service’s technologies. 
+      * **Personal Information you give us** : The types of Personal Information the Service collects directly from you may include the following as well as any other Personal Information type that we expressly ask you to enter and submit to us when using the Service: 
+        * Contact information, such as your name and address;
+        * billing address; and
+        * payment information (e.g. credit card).
+      * **Information DANIER collects about you** : In order to provide our Service via the Internet, we collect the following information from you: 
+        * Internet Protocol (" **IP** ") address used to connect your computer to the Internet;
+        * computer, device and connection information, such as browser type and version, operating system, mobile platform, screen resolution, language, unique device identifier (“ **UDID** ”) and other technical identifiers;
+        * uniform resource locator (" **URL** ") click stream data, including date and time, title of web page, and content you viewed or searched for on a Service; and
+        * location information for any of our location-aware Service to provide you with more relevant content for where you are in the world.
+      * **Cookies and Web Beacons** : The Service may also automatically collect information through the use of cookies or similar technologies, such as web beacons.  Cookies are small text files that a website sends to the browser on your computer or mobile device when you first visit a web page so that the website can recognize your device the next time you visit. In general, cookies, web beacons and similar technologies do not contain personally identifiable information, but when you furnish your personal information through the Service, this information may be linked to the non-personally identifiable data stored in cookies sent to your browser from the Service. 
+        * **DANIER** and our service providers use these technologies for various purposes, including: facilitating the login process, administering, customizing and improving the Service, personalizing the browsing experience; advertising (including retargeting), promotions and surveys, reporting and tracking and analyzing user preferences and trends.
+        * Our HTML-formatted emails may contain a web beacon to tell us whether our emails are opened and verify any clicks through to links or advertisements within the email. We may use this information for purposes including determining which of our emails are more interesting to users, to query whether users who do not open our emails wish to continue receiving them and to inform our advertisers in aggregate how many users have clicked on their advertisements. The web beacon will be deleted when you delete the email. Emails in plain text rather than HTML will not include the web beacon.
+        * There are a number of ways to manage cookies. The “help” portion of the toolbar on most browsers will tell you how to stop accepting cookies, how to be notified when you receive a new browser cookie, and how to disable existing browser cookies.  However, if you block cookies, you may not be able to register, login or make full use of the Service. You can also use your mobile device’s settings to manage the available privacy options.
+      * **Mobile Information** : We offer mobile applications which allow you to shop online, check product availability, learn about store events, or receive other information from us. All Personal Information collected via our mobile application is governed by this Privacy Policy. We, or our service providers, may also collect, use, or disclose Personal Information and other information from and about you on our mobile websites and through your interactions with us on your mobile device. This information may include a telephone number and mobile device identifier provided by your mobile device or wireless carrier, as applicable. You do not have to provide your location information to use our mobile applications however, store-specific services require a postal code to function and we will save your postal code for future reference. When you download our mobile application, you may choose to allow it to obtain your precise location. In this case, we will determine your postal code from the precise location data received from your mobile device. We do not store precise location data; we only store the postal codes associated with the location. Our mobile applications offer automatic (push) notifications. We will provide push notifications only to those who opt-in to receive them. If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings. We may offer updated or enhanced versions of our mobile applications that include additional features created by us or using third party functionality. Our applications or the third party may automatically collect information about your precise location from your device, but only if you allow it.
+    * In the event that you have submitted Personal Information about another individual to us, you represent and warrant that you have obtained any and all consent required by Applicable Laws to do so.
+  3. WHAT WE DO WITH YOUR INFORMATION 
+    * **DANIER** (and third-party data processors who may be acting on our behalf) may collect, use, store and process your Personal Information described above for the following purposes: 
+      * to present the Service to you;
+      * to administer and operate the Service, including allowing you to register an account with us, to process payments and returns and to respond to your questions, enquiries, complaints or verify instructions from you;
+      * to process and fulfill your order, including to send you e-mails to confirm your order status and shipment;
+      * to improve the contents of our Service, including to customize the content, advertising and/or layout of websites;
+      * conduct analytics to improve and enhance our Service, including marketing and promotion analysis and to help us learn more about your shopping preferences;
+      * to contact you, including through e-mail, mail, telephone, through our website or any other manner, in respect of your use of the Service or for other marketing purposes (subject to any applicable laws or regulations);
+      * to offer new products, services or programs to you, including through emails, promotions or contests (subject to any applicable laws or regulations);
+      * to prevent and detect security threats, fraud or other malicious activity;
+      * in any other way we may describe when you provide us with the Personal Information;
+      * to the extent we have a legal obligation, right or duty under the Applicable Law to use or disclose your information (including for crime and fraud prevention, resolving disputes, enforcing our agreements or other related purposes);
+      * to anonymize and aggregate the Personal Information for any other purposes, provided that no identifiable personal information can be readily identified; and
+      * for any other purpose with your consent.
+    * If we combine any automatically collected information with Personal Information, the combined information will be treated by us as Personal Information.
+    * **DANIER** will only retain your Personal Information for as long as reasonably necessary having regard to the purposes for which your Personal Information was collected and will delete or anonymize such Personal Information after the expiry of such period unless otherwise required under the Applicable Law. Any anonymized and aggregated information will be retained by Danier.
+  4. DISCLOSURE OF YOUR PERSONAL information 
+    * **DANIER** may share your Personal Information that it collects from you or that you provide to Danier with selected third parties for the following purposes: 
+      * to operate and provide the Service or any other purposes as set out in paragraph 1 above; and
+      * to enforce or apply any agreements between us and you, or to investigate potential breaches of such agreements.
+    * **DANIER** may share your Personal Information with, without limitation: 
+      * business partners, suppliers and sub-contractors for the performance, or their assistance with, of any contract we enter into with them or you or to provide you with the Service; and
+      * companies that provide statistical analysis services.
+    * **DANIER** will ensure that corporate third parties who have received Personal Information from us will maintain a comparable level of protection of the Personal Information as set out in this Privacy Policy by using contractual or other means and that any disclosed Personal Information will only be used for the purposes as set out in paragraph 1 above. To the fullest extent permitted by Applicable Law, **DANIER** excludes all liability arising from the use of your Personal Information by third parties. **DANIER** can, on request, confirm the name of each third party that Personal Information is, or will be, transferred to.
+    * **DANIER** may also disclose Personal Information to third parties: (i) to comply with any applicable laws, regulations, governmental and quasi-governmental requests, court orders or subpoenas; (ii) to enforce or apply any agreements between us and you; (iii) to protect **DANIER** ’s rights, property or safety or the rights, property or safety of other users of the Service or others (e.g., for fraud protection etc.); or (iv) to resolve any disputes.
+    * Except as set out in this Privacy Policy, we will not disclose, sell, distribute, rent or lease your Personal Information to third parties unless we have your permission or to complete a transaction for you. We do not share your identifiable Personal Information with third parties for their direct marketing use without your express consent.
+    * In the event that a third party proposes to acquire all or some of our business and/or assets, we may disclose your Personal Information to that third party in connection with their proposed or actual acquisition. In the event that we become insolvent or we are in any similar situation, we may also disclose your Personal Information to third parties as part of a business or asset sale carried out where such disclosure is lawful and compliant with the Applicable Laws.
+  5. INTERNATIONAL TRANSFERS OF DATA
+
+
+
+5.1           **DANIER** may transfer your Personal Information to our overseas related entities, subsidiaries, related bodies corporate and franchisees in order to provide the Service. It may also be necessary for us to disclose your Personal Information to third parties located in Canada or the United States of America or outside of North America in connection with the purposes set out in this Privacy Policy. 
+
+5.2           By submitting your Personal Information you consent to the transfer, disclosure, storage and/or processing of your Personal Information outside the jurisdiction in which the information was originally collected. **DANIER** will take all steps reasonably necessary to ensure that your Personal Information is treated securely and in accordance with this Privacy Policy. Where we have engaged international third parties to perform services in relation to the Service, we will use contractual or other means to ensure such third parties offer a comparable level of protection in respect of the Personal Information.
+
+  6. SECURITY 
+    * **DANIER** has in place security measures to store all Personal Information collected and received securely. We use appropriate technical, organizational, administrative and physical measures to protect your Personal Information contained in our system against accidental damage, deletion, misuse, loss and unauthorized access or alteration. Unfortunately, the collection, use and disclosure of information can’t be 100% secure and, accordingly, we cannot guarantee or warrant the security of any information, including Personal Information, you disclose or transmit to us. However, we strive to protect your information and privacy.
+    * If you have created an account with us, it is important that you create strong a password and that you keep it secret. Do not share your password with anyone, and never share it in response to an email or phone request, even if it appears to be from a trusted company or person.
+  7. EXTERNAL LINKS 
+    * When our service is available via the websites of our partners, those partners may collect, use and disclose your Personal Information. Their use of your Personal Information is governed by their privacy policies. We are not responsible for the privacy policies and practices of any other websites, even if you access them using links from our Service. We therefore recommend that you check the privacy policy of each site that you visit and make sure that you are comfortable with the terms of such policies before providing any Personal Information.
+  8. YOUR RIGHTS 
+    * You have the right to, at any time, ask us not to process or share your Personal Information for marketing purposes (even where you have previously given consent). **DANIER** will inform you (before collecting your Personal Information) if it intends to use your Personal Information for such purposes or if **DANIER** intends to disclose your Personal Information to any third party for such purposes (subject to obtaining your prior consent).
+    * You have the right to access details of your Personal Information that we hold about you by written request and to request correction or rectification of such Personal Information, if the Applicable Laws allows you to do so. 
+      * If you have registered an account with us, you may view and update your account information by logging into your account on our website or mobile application. Once logged in, you can view or update your contact information and/or your e-mail preferences regarding e-mails from us. You can also contact us to access or update your information. 
+    * You may choose to no longer receive communications from us. You may unsubscribe to any email from us using the instructions in the communication you receive. Subject to applicable laws or regulations, this may not stop us from contacting you about your account or transactions with us or other information required for your use of the Service.
+    * You also have the right to change your mind about consenting to the use, disclosure and transfer of your Personal Information in accordance with this Privacy Policy by contacting us at the address listed below. If you withdraw your consent for **DANIER** to process your Personal Information in accordance with this Privacy Policy, Danier may not be able to provide you with our entire Service.
+    * You have the right to make a complaint about a possible breach of the Applicable Laws to us. We will consider any complaints we receive and respond to your complaint within a reasonable period of time. You also may lodge a complaint about the treatment of your Personal Information with the supervisory authority located in you jurisdiction, if the Applicable Laws allow you to do so.
+    * You can exercise your rights as described in this Privacy Policy or under Applicable Laws above by contacting us at the address listed below.
+  9. CONTACT 
+    * Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [customercare@danier.com](mailto:customercare@danier.com) or to: ATTN: CUSTOMER CARE, **DANIER** , 7700 Keele Street Unit 4, Vaughan, Ontario L4K 2A1  
 
 
