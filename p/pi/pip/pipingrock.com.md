@@ -1,105 +1,183 @@
-> *The following text is extracted and transformed from the pipingrock.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127095857id_/https%3A//www.pipingrock.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipingrock.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129191630id_/https%3A//www.pipingrock.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Piping Rock Health Products
 
-Piping Rock Health Products, LLC (the “Company,” “we,” or “us”) respects individual privacy and values its relationship with you. This privacy policy (this “Privacy Policy”) applies to the website operated by the Company (the “Site”) and explains how we collect, use, share and safeguard information provided by you on the Site. Please take a moment to review the terms of our Privacy Policy. Unless we indicate otherwise, this Privacy Policy applies only to information that we collect on the Site and through our catalog mailings.
+Last modified May 24, 2018
 
-### When Do We Collect Your Personal Information?
+ATTENTION: PLEASE READ CAREFULLY THIS PRIVACY POLICY (“PRIVACY POLICY”), WHICH IS PART OF THE PIPING ROCK TERMS OF USE, BEFORE YOU ACCESS, DOWNLOAD, OR OTHERWISE USE OUR WEBSITE, OTHER PARTIES’ WEBSITES, MOBILE APPLICATIONS OR ANY ELECTRONIC SERVICE (COLLECTIVELY, THE “SERVICE”).
 
-We collect personal information about you in several situations, including when you provide it to us voluntarily. For example, we collect information when you make a purchase online, contact us with questions, provide feedback regarding our products or answer questions about your product interests. You do not have to provide personal information about you, but if you decide not to do so, you may limit the features and services that you are able to access from the Site.
+The Service is operated by Piping Rock Health Products, LLC, 2120 Smithtown Ave, Ronkonkoma, NY 11779 (“We” or “Piping Rock”). At Piping Rock, we care deeply about your privacy rights. We are fully committed to being transparent about our privacy practices, including how we treat your personal information. This Privacy Policy describes the information collected through Your use of the Service, how We use it, how We share it, how We protect it, and the choices You can make about Your information.
 
-### The personal information we may collect includes:
+ATTENTION: PLEASE READ OUR PRIVACY POLICY CAREFULLY BEFORE USING THE SERVICE. USING THE SERVICE INDICATES THAT YOU ACCEPT AND AGREE TO BE BOUND BY THIS PRIVACY POLICY IN FULL. IF YOU DO NOT ACCEPT THIS PRIVACY POLICY, DO NOT USE THE SERVICE. You acknowledge (a) that You have read and understood this Privacy Policy; and (b) this Privacy Policy shall have the same force and effect as a signed agreement.
 
-  * contact information, such as your name, mailing address, email address, and telephone number;
-  * financial payment information, such as credit card, debit card, and other financial payment information;
-  * account registration information, such as user name, password, and profile information;
-  * information about your intended use of, or questions about, our products;
-  * birth date and demographic information;
-  * certain other information you may provide to us in your communications or in connection with other products or services.
+Unless explicitly stated otherwise, any new features that augment or enhance the current Service shall be subject to this Privacy Policy.
+
+This Privacy Policy is part of the Piping Rock [Terms of Use (TOU)](https://web.archive.org/terms-of-use). Any terms defined in the TOU shall have the same meaning in this Privacy Policy.
+
+We will update this page to reflect any changes to this Privacy Policy. Please review the Privacy Policy each time You use the Service. BY USING THE SERVICE, YOU AGREE TO BE BOUND BY THE MOST RECENT VERSION OF THE PRIVACY POLICY.
+
+## I. Information We Receive or Collect
+
+We receive or collect information from You when You use the Service, contact or interact with us, sign up for our newsletter or other mailing list, and voluntarily provide us with Your feedback, comments and other content in connection with using the Service.
+
+As part of your access to and use of the Service, we may receive and collect: Your name, contact information including email address, telephone number, address, payment information, order history, and any other information you voluntarily provide on the Service.
+
+When You contact us, We may collect: Your name, contact information including email address, telephone number, and any other information that You voluntarily provide to us.
+
+When You access and use the Service, we automatically collect information regarding You and Your device, including Your device’s Internet Protocol address, the domain name of Your Internet service provider, Your location, Your mobile device information (e.g. device model and operating system version), your page visits, your social sharing activity, and other aggregated information that, on its own, cannot be used to specifically identify You. Additional information collected is described in the Analytics and Cookies sections below.
+
+We may collect information about You from third party sources. The Service provides links to our Facebook, Twitter, and Pinterest pages. If You connect with these websites through the Service, We may receive personal information about You.
+
+We may combine all of the information we collect from or about You and use it in the manner described in this Privacy Policy.
+
+## II. How We Use Your Information
+
+We use the information that We collect for several purposes, including:
+
+  * \- The purposes for which You provided it;
+  * \- To provide information and services to You;
+  * \- To process and respond to Your inquiries and comments;
+  *  
+  * \- To send You information about Your relationship with us or about new projects or other information that we think You may find interesting;
+  *  
+  * \- To contact You for market research purposes and to use this information to customize the Service according to Your interests;
+  *  
+  * \- To administer, operate, and improve the Service or to further the mission of Piping Rock;
+  *  
+  * \- To personalize and enhance Your experience using the Service;
+  *  
+  * \- To send periodic emails. If You choose, the email address You provide may be used to send You occasional news, updates, related product or service information, etc. Note: If at any time You would like to unsubscribe from receiving future emails, We include detailed unsubscribe instructions at the bottom of each email;
+  *  
+  * \- To generate and review reports and data about our user base and Service usage patterns;
+  *  
+  * \- To analyze the accuracy, effectiveness, usability or popularity of the Service;
+  *  
+  * \- To compile aggregate data for internal and external business purposes;
+  *  
+  * \- To prevent fraud and abuse of the Service and to otherwise protect users and visitors and our business;
+  *  
+  * \- To assist law enforcement and respond to subpoenas;
+  *  
+  * \- To perform other business activities as needed, or as described elsewhere in this Privacy Policy; and
+  *  
+  * \- As explained elsewhere in this Privacy Policy, personal information We collect may be processed by our partners in providing services related to the Service (such as administration services, technical services relating to the maintenance, servicing, and upgrading of software, hosting services, customer service, data migration services, payment processing services and analytical services, among others).
+  *  
 
 
 
-### What Kind of Tracking Do We Use On Our Site?
+## III. Legal Bases for Using Personal Information
 
-We also collect certain information by automated means when you visit our Site, including your internet protocol (“IP”) address; information about your web browser software and version; if you arrived at the Site through a link from a third-party website, the uniform resource locater (“URL”) of the linking page; and your activity on the Site, such as which pages you choose to view, queries you make using our “search” function, and other information about your account usage.
+### Performance of a contract
 
-Like many companies, we use “cookies,” “web beacons,” and similar technologies on our Site. These technologies allow us to track your use of our Site, recognize you when you return to the Site, or save your preferences. We also may include web beacons in e mail messages or newsletters to determine whether messages have been opened and to identify the IP address of the computer on which they were opened. The information we obtain in this manner helps us customize the services we offer and measure the overall effectiveness of our online content and the products and services we offer through the Site. Web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party.
+The use of your personal information may be necessary to perform the agreement you have with us to provide products and services. For example, to complete your purchase, to register and maintain your account, to help with delivery issues, to handle returns, and to respond to your requests.
 
-You may be able to disable cookies by changing a setting in your web browser. Please note, however, that without cookies you may not be able to take full advantage of our Site’s features and that your decision to decline cookies from our Site may impact your ability to use other websites as well.
+### Legitimate interests
 
-We may combine information collected from tracking devices and the information we collect in our cookies (as described below) with other information we collect about you.
+We may use your personal information for our legitimate interests. For example, We rely on our legitimate interest to analyze and improve our Services and the content on our website, to send you notifications about our Services, or to use your personal information for administrative, fraud detection, or legal purposes.
 
-Third parties may place anonymous cookies on the browsers of visitors to our websites and may send their own cookies to the visitor’s cookie file.  Pursuant to global data regulations, Company’s employees have a right of access, modification and erasure of the personal data collected for the sole purpose of the service provision.  These rights may be exercised at [privacy@criteo.com](mailto:privacy@criteo.com)
+### Consent
 
-We may use third-party advertising companies to collect data and/or serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://networkadvertising.org/>.
+Prior to accessing this site and providing your Personal Data, You provided Your informed consent to the collection and use of said Personal Data. You are free to withdraw your consent at any time, subject to the "Your Choices Regarding Your Information" section below and the preceding Legal Bases for Using Personal Information in this Section.
 
-### How Do We Use Your Personal Information?
+## IV. How Your Information is Disclosed
 
-Once collected, we may use the personal information for the following purposes:
+Information may be disclosed to third parties in accordance with our Privacy Policy. Please note that a user may choose not to share certain information as described in Your Choices Regarding Your Information below.
 
-  * Contact Us. We will use personal information about you to respond to your questions and comments when you communicate with us through the Site’s “Contact Us” links, or through other areas of our Site.
-  * Shopping. When you purchase products on our Site, we will use personal information about you to process your purchase, confirm your order, and deliver the items to you.
-  * Email Newsletters and Promotions. With your permission, we use personal information about you to send you newsletters, exclusive offers and promotions, and product news. We also may use personal information about you to administer our promotions.
-  * Surveys, Sweepstakes, and Message Boards. We may use personal information about you to enable you to participate in features such as surveys, polls, sweepstakes, and message boards.
-  * Other Uses of Information. We may use personal information about you for our internal purposes, including to administer our Site, conduct data analytics, investigate possible violations of and enforce our contracts, including our Terms of Use and any terms and conditions associated with our products and services, and to comply with our legal obligations.
-  * Feedback. We may use information you provide to us regarding our products and services, to provide product feedback to our customers on our Site and other material.
-  * Other Site Features. We may use personal information about you to perform other functions or provide new services that we describe to you at the time of collection or with your consent.
+_A. Third Party Service Providers and Business Partners._ We may use third party service providers and business partners to perform functions in connection with the Service, such as email marketing, site analytics, social sharing, relationship management, functions related to analyzing and improving the Service usefulness, reliability, user experience, operation, storing data, and as otherwise described in this Privacy Policy. Specifically, our third party providers may be assisting us with verification of your shipping address, content delivery, monitoring inventory levels, product ratings and reviews, providing credit and debit card payment processing and order fulfillment and shipment processing, email marketing, fraud prevention and order placements, facilitating communications for order fulfillment, email transmission for multi-factor verification, creation of shopping feeds for our users, and communicate with users regarding orders and other customer service inquiries. The identity of certain of these service providers is confidential. We also may share Your personal information with these providers and partners for their direct marketing and promotional purposes, so they can provide services to You. Our third party service providers, and their use of your information, by their very nature continue to evolve. We may add or substitute these providers without any notice to you.
 
+Strictly by way of generic example, our thirds party providers include the following:
 
-
-### Sharing Site Content With A Friend
-
-You may be able to share certain content from our Site with others by asking us to forward the content. To share information, we ask for the recipient’s and your name and email addresses. When we collect personal information in this way, we will use it to fulfill your request and for no other purpose.
-
-### With Whom May We Share Information?
-
-Other than within our business organization (including affiliates) and as set forth below, we do not sell or otherwise disclose the personal information we collect about visitors to our Site.
-
-  * Service Providers. We may share personal information about you with service providers we have retained to perform services on our behalf, such as providing web hosting or database management services, performing analyses, or sending communications for us. We do not authorize service providers to use or disclose the information, except as necessary to perform services on our behalf.
-  * Legal Process. We may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on us; (b) protect and defend our rights or property; or (c) protect the personal safety of our personnel or members of the public in urgent circumstances.
-  * Protect our Website and Users. We may disclose personal information about you if we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity, or violation of our Terms of Use or other contracts.
-  * Transactions. We may share personal information about you if we sell or transfer all or a portion of our business or assets, if we are acquired by or merge with another company, or in the event of bankruptcy. Should such a sale or transfer occur, we will direct the transferee to use information you have provided through our Site in a manner that is consistent with this Privacy Policy.
+  * \- Twitter. By clicking on the Twitter button on the Service, You will automatically be transported to the official Twitter feed of Piping Rock, @PipingRock, https://twitter.com/Piping_Rock.
+  * \- Facebook. By clicking on the Facebook button on the Service, You will be automatically transported to the official Facebook Page for Piping Rock, https://www.facebook.com/PipingRock. Piping Rock allows users to comment on blog posts using the Facebook Comments Plugin and in doing so, Piping Rock may have access to personal information about You. For more information on the Facebook Comments Plugin, [please visit.](https://developers.facebook.com/docs/plugins/comments)
+  * \- Pinterest. By clicking on the Pinterest button on the Service, You will be automatically transported to the official Pinterest profile for Piping Rock, https://www.pinterest.com/PipingRock/.
+  * \- PayPal. We use PayPal to process payments. PayPal may collect information from users including name, physical address, IP address, device information, phone number, financial account information, details including gender, and other demographic information. For more information, please visit [PayPal's privacy policy.](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)
 
 
 
-### We Provide You Choices
+_B. Business Changes._ If We become involved in a merger, acquisition, sale of assets, joint venture, securities offering, bankruptcy, reorganization, liquidation, dissolution, or other transaction or if the ownership of all or substantially all of our business otherwise changes, We may transfer Your information to a third party or parties in connection therewith.
 
-If you prefer not to receive unsolicited commercial email from us, please [click here](https://web.archive.org/unsubscribe). You can subscribe to receive marketing offers or solicitations from the Company through email by clicking here. Please note that these requests may take up to 10 days to take effect.
+_C. Affiliates._ We may also share Your information with our affiliates for purposes consistent with this Privacy Policy. Our affiliates will be required to maintain that information in accordance with this Privacy Policy.
 
-Please note that your request not to receive unsolicited commercial emails from us will not apply to messages that you request or that are not commercial in nature. For example, we may contact you concerning any purchases you have made with us even if you opt out of receiving unsolicited commercial messages.
+_D. Investigations and Law._ We may disclose information about You to third parties if We believe that such disclosure is necessary to:
 
-If you are a California resident, we will refrain from sharing personal information about you with third parties for their direct marketing purposes if you instruct us to do so. You can tell us your preference by contacting us as indicated in the “How to Contact Us” section of this Privacy Notice.
+  * \- Comply with the law or guidance and cooperate with government or law enforcement officials or private parties;
+  * \- Investigate, prevent or take action regarding suspected illegal activities, suspected fraud, the rights, reputation, safety, and property of us, users or others, or violations of our policies or other agreements with us;
+  * \- Respond to claims and legal process (for example, subpoenas); and/or
+  * \- Protect against legal liability.
 
-### Third-Party Sites
 
-We are not responsible for the privacy practices or content of any third-party sites, including those with which we share personal information as described in this Privacy Policy. Please note that you may have cookies placed on your computer by third-party websites that refer you to this Site. Although we do not share your personal information with these third-party sites, they may be able to link certain non-personally-identifiable information we transfer to them with personal information they previously collected from you. For your own protection, you should review the policies of similar sites to ensure they meet your personal expectations of privacy.
 
-### How Do We Protect Personal Information?
+_E. Aggregated Information._ We may share aggregated information relating to users of the Service with affiliated or unaffiliated third parties. This aggregated information does not contain personal information about any user.
 
-We maintain commercially reasonable administrative, technical and physical safeguards to protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the information you provide on our Site.
+_F. Analytics._ We use third-party analytics tools to better understand who is using the Service and how people are using it. These tools may use cookies and other technologies to collect information about Your use of the Service and Your preferences and activities. These tools collect information sent by Your device or the Service and other information that assists us in improving the Service. This information may be used to analyze and track data, determine the popularity of certain content, and better understand Your online activity, among other things.
 
-Among other safeguards, we use Secure Sockets Layer (“SSL”) technology to help protect transmissions over the internet of your payment card data. You can confirm that SSL is being used by looking at the URL line of your browser. When accessing a secure Site, the first characters of the Site’s address will change from “http” to “https.” If you are using a web browser or a firewall that does not permit communications through our secure Site, you may not be able to make purchases on our Site.
+By way of a reasonably representative example only, we use Google Analytics to better understand who is using the Service and how people are using it. Google Analytics uses cookies to collect and store information such as Service pages visited, places where users click, time spent on each Service page, Internet Protocol address, type of operating system used, location-based data, device ID, search history, gender, age, and phone number. We use this information to improve the Service and as otherwise described in this Privacy Policy. Please [click here](http://www.google.com/policies/privacy/partners/) for information about how Google Analytics uses this information, and [click here](https://tools.google.com/dlpage/gaoptout) for information about the Google Analytics Opt-out Browser Add-on. Google may track your activity over time and across websites.
 
-Unfortunately, no data transmission over the internet or stored on a server can be guaranteed to be 100% secure. As a result, while we strive to protect personal information about you and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of personal information about you. If you prefer not to transmit your credit card number over the internet, you can contact us using the toll-free number listed on the Site.
+_G. Cookies and Other Tracking Technologies_
 
-### Children
+We, along with third parties, use cookies, local storage objects, Web beacons and other technologies. These technologies are used for tracking, analytics and personalization and optimization of the Service.
 
-The Site is intended for a general audience and is not designed for children under 13 years old. Accordingly, we do not knowingly collect personal information from children under the age of 13. If we learn we have collected personal information from a child under the age of 13, we will delete that information from our database.
+Cookies are small files that are transferred to and stored on Your computer through Your Web browser (if You allow it) that enable the website’s or service provider’s system to recognize Your browser and capture and remember certain information. You can instruct Your browser to stop accepting cookies. But if You do not accept cookies, You may not be able to use all portions of all functionality of the Service.
 
-### Miscellaneous
+  * \- Persistent cookies remain on the visitor’s computer after the browser has been closed.
+  * \- Session cookies exist only during a visitor’s online session and disappear from the visitor’s computer when they close the browser software.
 
-The Site is based in the United States, and therefore, information we collect about you may be stored, processed and accessed in the United States. By using the Site, you consent to the transfer, storage, and processing of personal information about you in the United States.
 
-### Criteo Marketing
 
-The purpose of Criteo Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. [To learn more or opt out of Criteo Email](http://privacy.criteoemail.com/us/privacy-policy.html)
+Flash cookies (also known as local shared objects) are data files that can be created on your computer by the websites you visit and are a way for websites to store information for later use. Flash cookies are stored in different parts of your computer from ordinary browser cookies. You can disable the storage of flash cookies. For additional information about managing and disabling flash cookies, please [visit.](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html)
 
-### Future Changes to the Privacy Policy
+Web beacons are small strings of code that provide a method for delivering a graphic image on a Web page or in an email message for the purpose of transferring data. You can disable the ability of Web beacons to capture information by blocking cookies.
 
-As Piping Rock’s activities and organization change from time to time, this Privacy Policy is expected to change as well. We reserve the right, at our discretion, to change, modify, add or remove portions of the Privacy Policy at any time. The date of the last revision to the Privacy Policy will be indicated at the bottom of this Privacy Policy. We encourage you to check the Privacy Policy to remain informed of any changes, notice of which will be set forth prominently on this Site.
+We use cookies and other tracking technologies on the website to help us understand and save Your preferences and interests so We can personalize Your future visits and compile aggregate data about website traffic and website interaction so that We can offer better website experiences and tools in the future.
 
-### How to Contact Us
+Some of our business partners, such as our analytics providers, advertising networks, social sharing provider, and social media connections, also use cookies and other tracking technologies on our website, some of which may track users across websites and over time. Given the nature of third party services, they are constantly evolving and if you have any questions concerning the use or policies of those third parties, we encourage you to consult their Privacy Policies and Terms of Use directly.
 
-If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences regarding the use of your personal information, please contact us by:
+## V. Security
 
-Last updated: September 30, 2016
+We implement a variety of security measures to protect the safety of Your personal information when You enter, submit, or access Your personal information.
+
+While We take reasonable measures to protect the information You submit via the Service against loss, theft and unauthorized use, disclosure, or modification, We cannot guarantee its absolute security. No Internet, email, or mobile application transmission is ever fully secure or error free. Email or other messages sent through the Service may not be secure. You should use caution whenever submitting information through the Service and take special care in deciding with which information You provide us.
+
+We cannot guarantee that transmissions of Your personal information will be fully secure and that third parties will never be able to defeat our security measures or the security measures of our partners. WE ASSUME NO LIABILITY FOR DISCLOSURE OF YOUR INFORMATION DUE TO TRANSMISSION ERRORS, THIRD PARTY ACCESS, OR CAUSES BEYOND OUR CONTROL.
+
+Any information collected through the Service is stored and processed in the United States. If you use our Service outside of the United States, you consent to have your data transferred to the United States.
+
+## VI. Data Retention Policy, Managing Your Information
+
+We will retain Your information for as long as You use the Service and for a reasonable time thereafter. Piping Rock is a regulated entity and must retain order records under United States Food and Drug Administration regulations. We may maintain anonymized or aggregated data, including usage data, for analytics purposes. We may retain and use Your information as necessary to comply with our legal obligations, resolve disputes, and/or for the period required by laws in applicable jurisdictions. Please note that some or all of the information We have collected may be required for the Service to function properly. Our current policy is to maintain order records for two (2) years to allow us to protect and meet Our legal and policy requirements, rights, and responsibilities.
+
+## VII. Links to Other Websites or Applications
+
+This Privacy Policy applies only to the Service. The Service may contain links to other websites or apps or may forward users to other websites or apps that We may not own or operate and to which this Privacy Policy does not apply. The links from the Service do not imply that We endorse or have reviewed these websites or apps. The policies and procedures We describe here do not apply to these websites or apps. We neither can control nor are responsible for the privacy practices or content of these websites or apps. We suggest contacting these websites or app providers directly for information on their privacy policies. Nonetheless, We seek to protect the integrity of our Service, and welcome any feedback about these linked websites and mobile applications.
+
+## VIII. Your Choices Regarding Your Information
+
+You have choices regarding the use of information by the Service. We respect Your privacy rights and provide You with reasonable access to the Personal Data that You may have provided through Your use of the Services. You may update, correct, or delete Your account information and preferences at any time by accessing Your account settings page on the Service. Please note that while any changes You make will be reflected in active user databases instantly or within a reasonable period of time, We may retain all information You submit for backups, archiving, prevention of fraud and abuse, analytics, satisfaction of legal obligations, or where We otherwise reasonably believe that we have a legitimate reason to do so.
+
+You may decline to share certain Personal Data with us, in which case we may not be able to provide to You some of the features and functionality of the Service.
+
+EU Data Subjects may, at any time, object to the processing of your Personal Data, on legitimate grounds, except if otherwise permitted by applicable law, or lodge a complaint with a supervisory authority.
+
+## IX. EU Residents Rights to Access, Transfer or Delete Personal Information, or Withdraw Consent to Collection or Processing
+
+If You are an EU Data Subject and wish to access, transfer or delete any Personal Data that We hold about You, or withdraw Your consent to collection or processing Your data to request that We delete any information about You that We have obtained, You can do so by emailing us at [data-privacy@pipingrock.com](mailto:data-privacy@pipingrock.com?subject=EU%20Residents%20Rights) and stating your request. With respect to requests to delete Your personal data, We will delete or block any ability to access any reference to You in our database, except for information required to be retained as provided for in our Privacy Policy, and consistent with our legal requirements and internal data retention policies, as described above. This deletion is permanent and Your account cannot be reinstated. Changing Your Information – To change Your information, please contact us at [customerservice@pipingrock.com](mailto:customerservice@pipingrock.com).
+
+## X. Information Collected From Other Websites and Mobile Applications and Do Not Track Policy
+
+Your browser or device may offer You a “Do Not Track” option, which allows You to signal to operators of websites, web applications, mobile applications and services (including behavioral advertising services) that You do not wish such operators to track certain of Your online activities over time and/or across different websites or applications. Our Service does not support Do Not Track requests at this time, which means that We or our analytics providers or other third parties with which We are working may collect information about Your online activity both during and after Your use of the Service.
+
+## XI. Children
+
+Our Service is not intended for children under 13 years of age. We do not knowingly collect personal information from an individual under age 13. If You are under the age of 13, please do not submit any personal information through the Service. If You have reason to believe that We may have accidentally received personal information from an individual under age 13, please contact us immediately at [customerservice@pipingrock.com](mailto:customerservice@pipingrock.com).
+
+## XII. Changes to Privacy Policy
+
+We reserve the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this Privacy Policy periodically, and especially before You provide any information. This Privacy Policy was made effective on the date indicated above.
+
+## XIII. How to Contact Us
+
+Please feel free to contact us by email at [customerservice@pipingrock.com](mailto:customerservice@pipingrock.com) or by writing us at Piping Rock Health Products, LLC, 2120 Smithtown Ave, Ronkonkoma, NY 11779, if You have any questions about this Privacy Policy.
+
+## XIV. Your California Privacy Rights
+
+Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at [customerservice@pipingrock.com](mailto:customerservice@pipingrock.com) or by writing us at Piping Rock Health Products, LLC, 2120 Smithtown Ave, Ronkonkoma, NY 11779.
