@@ -1,23 +1,18 @@
-> *The following text is extracted and transformed from the 7forallmankind.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224163933id_/https%3A//www.7forallmankind.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7forallmankind.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129184250id_/https%3A//www.7forallmankind.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy | 7 For All Mankind Official Store | Premium Denim
 
-Last updated: May 25, 2016
-
-Onestop Internet, Inc. ("Onestop") operates this Web site, pursuant to agreements with 7 For All Mankind. ("7 For All Mankind"). Both Onestop and 7 For All Mankind ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web site.
-
-Please be advised that the practices described in this Privacy Policy apply only to information gathered through:(i) this website (ii) where applicable, our Customer Service Department in connection with this website, (iii) our free standing retail stores, (iv) information provided to us in conjunction with marketing promotions and sweepstakes or (v) or any other way we interact with you. The practices described in this Privacy Policy do not necessarily reflect our practices with respect to information gathered through other websites that we operate or through other off-line means.  
-If you have any questions regarding this Privacy Policy, you should contact our Customer Service Department.
+Last updated: February 1, 2018
 
 7 For All Mankind recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy describes what information we may collect from you, how we collect that information, how we use that information, and the choices you have regarding your information. By accessing or using our website, mobile applications, or providing information to us in other ways, you agree to be bound by this Privacy Policy.
 
-This Privacy Policy was lasted updated May 25, 2016 and may be updated from time to time. Please check back periodically for further updates and changes. The most updated version will be the one that is available on this website.
+This Privacy Policy was lasted updated February 1, 2018 and may be updated from time to time. Please check back periodically for further updates and changes. The most updated version will be the one that is available on this website. If this policy is changed in a material way, we will provide appropriate notice to you.
 
-## WHAT INFORMATION ABOUT ME IS COLLECTED AND STORED?
+## What information about me is collected and stored?
 
 ### Information You Provide
 
-We collect and store information that you provide to us through our websites, in our stores, through our customer service representatives, at events, through mobile applications, through marketing efforts, including contests, sweepstakes and events, and through third parties, or any other way we interact with you.
+We collect and store information that you provide to us through our websites, in our stores, through our customer service representatives, at events, through mobile applications, through marketing efforts, including contests, sweepstakes and events, and through third parties, or any other way we interact with you. We are one of the Delta Galil USA, INC family of brands and may also recieve information about you from other brands held by Delta Galil USA, INC. 
 
 You may choose not to provide certain information, but then you might not be able to take advantage of certain capabilities of this website, our mobile applications or other services we may offer. For example, you must provide certain personal information in order to place an order or to register for an account on or through this website.
 
@@ -51,7 +46,9 @@ All our activities in connection with the foregoing shall be conducted in accord
 
 We may collect information about you from third-party sources and information that is publicly available. For example, information you submit in a public forum (e.g., a blog, chat room, or social network site) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances. Another example, is that we may receive demographic information about you from a third party to make our service and marketing efforts more efficient and personalized for you.
 
-## HOW IS INFORMATION USED?
+We may also share your personal information with other brands within Delta Galil USA, INC. family of brands (including for example Splendid ®, and Ella Moss ®) or with our corporate parent Delta Galil Industries Ltd. 
+
+## How is information used?
 
 We use the personal information we collect to conduct our business, communicate with you, and provide great products, services, and experiences. We or third-party service providers we engage may use the information to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations, to provide customer service, to respond to your comments, questions or complaints, to personalize your experiences, to analyze your preferences and shopping habits, to analyze trends and statistics, to administer and fulfill our contests and other promotions, to analyze and improve the website and our products and services, and to send you marketing communications and other information regarding our products, services, marketing, or special events. We also use your information for business purposes such as security, payment processing, analytics, operations, fraud detection, reporting, making back-ups, and legal compliance.
 
@@ -59,7 +56,7 @@ You always have the choice not to receive marketing communications. For instruct
 
 All our activities in connection with the foregoing shall be conducted in accordance with applicable laws, rules and regulations.
 
-## WITH WHOM IS INFORMATION SHARED?
+## With whom is information shared?
 
 Except with your consent or as described in this Privacy Policy, we do not sell, rent, or share with third parties any of your personal information.
 
@@ -69,31 +66,31 @@ We may share personal information with a third party if we are required by law t
 
 All our activities in connection with the foregoing shall be conducted in accordance with applicable laws, rules and regulations.
 
-## WHAT ABOUT THE PRIVACY OF CHILDREN UNDER 13?
+## What about the privacy of children under 13?
 
 We do not intend to collect personal information from anyone who is under the age of 13. If you are under the age of 13 you should not provide any personal information to us and you should use this website only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 13 and suspect he/she has provided personal information on or through the website, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
-## WHAT STEPS ARE TAKEN TO KEEP PERSONAL INFORMATION SECURE?
+## What steps are taken to keep personal information secure?
 
 The security of your information is important to us. We have instituted security procedures and measures to protect our servers and networks that store personal information. Unfortunately, no transmission of information over the Internet can be guaranteed to be 100% secure and, therefore, we cannot ensure or warrant the security of any information. In order to help protect personal information you provide to us, you: (i) should not share your password or account information with others, (ii) should use a secure web browser, and (iii) should change your password frequently. If you wish to cancel a password, or if you become aware of any loss, theft, or unauthorized use of a password, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
-## HOW CAN I ACCESS, CORRECT, AND UPDATE PERSONAL INFORMATION?
+## How can I access, correct, and update personal information?
 
 You may access, correct and update certain personal information that you have provided to us by clicking on the "My Account" area of this website and following the instructions set forth therein or by contacting us with your request as set forth below under "How Can I Contact You Regarding This Privacy Policy?"
 
 We reserve the right to retain any personal information reasonably necessary to appropriately document our business activities and for archival and record retention purposes. We will store personal information for as long as reasonably necessary for the purposes described in this Privacy Policy. You may find out more details regarding this Privacy Policy by contacting us as provided below under "How Can I Contact You Regarding This Privacy Policy?"
 
-## CAN I INDICATE WHETHER OR NOT I WANT TO RECEIVE PROMOTIONAL COMMUNICATIONS?
+## Can I indicate whether or not I want to receive promotional communications?
 
 There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set-up an account or click on the "My Account" area of this website, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. If you have not established an account but have instead signed-up for our e-mail list, you will be able to change your e-mail preferences by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. Please note that removal of personal information from our database or "opting-out" will not stop marketing or advertising content that is generated for distribution or is otherwise queued for transmission to you prior to the time when we can implement your request.
 
 If you establish an account, you may receive certain types of communications even if you have not opted-in to receive them because these types of communications may be necessary in order to maintain an account on the website.
 
-## WHAT HAPPENS WHEN I LINK TO OR FROM ANOTHER WEBSITE?
+## What happens when I link to or from another website?
 
 This website may contain links to or from websites to which this Privacy Policy does not apply ("Linked Websites"). Please be advised that the practices described in this Privacy Policy do not reflect the practices regarding information collection, use and disclosure of Linked Websites or the owners or operators of those Linked Websites. Your use of Linked Websites will be governed by the terms of use, privacy policies, and other terms, notices, and policies set forth on or referenced in those Linked Websites. We encourage you to be aware of when you leave this website and to read the privacy policies of each and every website that you visit.
 
-## HOW CAN I CONTACT YOU REGARDING THIS PRIVACY POLICY?
+## How can I contact you regarding this privacy policy?
 
 If you have any questions or concerns regarding your privacy or the Privacy Policy you can send a request with your concerns or any further questions to us by using the contact information provided below:
 
@@ -102,7 +99,7 @@ Attn: Customer Service
 777 S. Alameda Street, 4th Floor  
 Los Angeles, CA 90021
 
-## WHAT IF I AM A RESIDENT OF CALIFORNIA?
+## What if I am a resident of california?
 
 California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
 
@@ -111,7 +108,7 @@ Attn: Customer Service
 777 S. Alameda Street, 4th Floor  
 Los Angeles, CA 90021
 
-## WHAT IF I AM AN INTERNATIONAL USER?
+## What if I am an international user?
 
 Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed, and stored in the United States, and allow 7 For All Mankind to use and collect your personal information in accordance with this Privacy Policy.
 
