@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analgf.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127013925id_/http%3A//tinyteenanal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analgf.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129033100id_/http%3A//www.tinyteenanal.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
