@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firsttennessee.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927131659id_/https%3A//www.firsttennessee.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firsttennessee.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129202548id_/https%3A//www.firsttennessee.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice for Customers of the First Horizon and First Tennessee Family of Companies
 
