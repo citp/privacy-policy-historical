@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qwilr.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917202942id_/https%3A//qwilr.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwilr.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129061904id_/https%3A//qwilr.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Qwilr
 
@@ -8,126 +8,144 @@ Qwilr's privacy policy
 
 ### 1 PURPOSE OF OUR POLICY
 
-  * 1.1 Qwilr Pty Ltd ABN 23 168 533 793 (we, us or our) provides the Qwilr web based productivity tool (Qwilr).
-  * 1.2 We have adopted this Privacy Policy to ensure that we have standards in place to protect the Personal Information that we collect about individuals that is necessary and incidental to:  
-Providing the services that Qwilr offers; andThe normal day-to-day operations of our business.
-  * 1.3 This Privacy Policy follows the standards of the Australian Privacy Principles set by the Australian Government for  
-the handling of Personal Information under the Privacy Act 1988 (Cth) (Privacy Act).
-  * 1.4 By publishing this Privacy Policy we aim to make it easy for our customers and the public to understand what Personal Information we collect and store, why we do so, how we receive and/or obtain that information, and the rights an individual has with respect to their Personal Information in our possession.
+  * 1.1 Qwilr Pty Ltd ABN 23 168 533 793 (“we”, “us” or “our”) provides the suite of tools, applications and services, known together as “Qwilr”.
+  * 1.2 This Privacy Policy aims to make it easy for you to understand:
+  * 1.2.1 how we collect, use, share and protect the personal information that comes into our possession in the course of:
+  * 1.2.1.1 providing the services that we offer; and
+  * 1.2.1.2 the normal day-to-day operations of our business, and
+  * 1.2.2 your rights regarding the user, access and correction of your personal information.
+  * 1.3 This Privacy Policy follows the standards of:
+  * 1.3.1 the Australian Privacy Principles set by the Australian Government for  
+the handling of Personal Information under the Privacy Act 1988 (Cth) (“Privacy Act”); and
+  * 1.3.2 the General Data Protection Regulation (“GDPR”), the EU-wide privacy and data protection law, together referred to as “Privacy Standards”.
 
 
 
 ### 2 WHO AND WHAT THIS POLICY APPLIES TO
 
-  * 2.1 Our Privacy Policy deals with how we handle “personal information” as it is defined in the Privacy Act (Personal Information).
-  * 2.2 We handle Personal Information for our own business, as well as potentially storing Personal Information in our systems on behalf of our customers and users that input Personal Information into our systems.
-  * 2.3 Our Privacy Policy does not apply to information we collect about businesses or companies, however it does apply to information about the people in those businesses or companies which we store.
+  * 2.1 Our Privacy Policy deals with how we handle ‘personal information’ or ‘personal data’ as respectively defined in the Privacy Standards (“Personal Information”).
+  * 2.2 We handle Personal Information for our own business, as well as potentially storing Personal Information in our systems on behalf of our users.
+  * 2.3 This Privacy Policy does not apply to information we process about businesses or companies, but does apply to information about the people in those businesses or companies.
   * 2.4 The Privacy Policy applies to all forms of information, physical and digital, whether collected or stored electronically or in hardcopy.
   * 2.5 If, at any time, an individual provides Personal Information or other information about someone other than himself or herself, the individual warrants that they have that person’s consent to provide such information for the purpose specified.
   * 2.6 Our website and services are unavailable to children (persons under the age of 18 years). If an individual is under 18 years of age, they can only use our website and services under the supervision of a parent or guardian.
 
 
 
-### 3 THE INFORMATION WE COLLECT
+### 3 THE INFORMATION WE PROCESS
 
-  * 3.1 In the course of business it is necessary for us to collect Personal Information. This information allows us to identify who an individual is for the purposes of our business, share Personal Information when asked of us, contact the individual in the ordinary course of business and transact with the individual. Without limitation, the type of information we may collect is:  
-Personal Information. We may collect personal details such as an individual’s name, location, date of birth, nationality, family details and other information defined as “Personal Information” in the Privacy Act that allows us to identify who the individual is;  
-Contact Information. We may collect information such as an individual’s email address, telephone & fax number, third-party usernames, residential, business and postal address and other information that allows us to contact the individual;  
-Financial Information. We may collect financial information related to an individual such as any bank or credit card details used to transact with us and other information that allows us to transact with the individual and/or provide them with our services;  
-Statistical Information. We may collect information about an individual’s online and offline preferences, habits, movements, trends, decisions, associations, memberships, finances, purchases and other information for statistical purposes; and  
-Information an individual sends us. We may collect any personal correspondence that an individual sends us, or that is sent to us by others about the individual’s activities.
-  * 3.2 We may collect other Personal Information about an individual, which we will maintain in accordance with this Privacy Policy.
-  * 3.3 We may also collect non-Personal Information about an individual such as information regarding their computer, network and browser. This may include their IP address. Where non-Personal Information is collected the Australian Privacy Principles do not apply.
+  * 3.1 In the course of business it is necessary for us to process Personal Information. This information allows us to identify who an individual is for the purposes of our business, contact the individual in the ordinary course of business, transact with the individual and otherwise pursue our legitimate interests (where such is not overridden by your interests or fundamental rights or freedoms with respect to that Personal Information).
+  * 3.2 Without limitation, the following are types of information we may process:
+  * 3.2.1. **Personal Information.** We may process personal details such as an individual’s name, location, date of birth, nationality, family details and other Personal Information;
+  * 3.2.2 **Contact Information.** We may process information such as an individual’s email address, telephone number, third-party usernames, residential, business and postal address and other information that allows us to contact the individual;
+  * 3.2.3 **Financial Information.** We may process financial information related to an individual such as any bank or credit card details used to transact with us and other information that allows us to transact with the individual and/or provide them with our services;
+  * 3.2.4 **Statistical Information.** We may process information about an individual’s online and offline preferences, habits, movements, trends, decisions, associations, memberships, finances, purchases and other information for statistical purposes; and
+  * 3.2.5 **Information an individual sends us or elects to store on Qwilr.**
+  * 3.3 We may process other Personal Information about an individual, which we will maintain in accordance with this Privacy Policy.
+  * 3.4 We may also process non-Personal Information about an individual such as information regarding their computer, network and browser and their IP address.
+  * 3.5 The Privacy Standards do not apply in relation to information that is not Personal Information.
 
 
 
 ### 4 HOW INFORMATION IS COLLECTED
 
-  * 4.1 Most information will be collected in association with an individual’s use of Qwilr, an enquiry about Qwilr, or generally dealing with us. However we may also receive Personal Information from sources such as advertising, an individual’s own promotions, public records, mailing lists, contractors, staff, recruitment agencies and our business partners. In particular, information is likely to be collected as follows:  
-Registrations/Subscriptions. When an individual registers or subscribes for a service, list, account, connection or other process whereby they enter Personal Information details in order to receive or access something, including a transaction;  
-Accounts/Memberships. When an individual submits their details to open an account and/or become a member with us;  
-Supply. When an individual supplies us with goods or services;  
-Contact. When an individual contacts us in any way;  
-Access. When an individual accesses us physically we may require them to provide us with details for us to permit them such access. When an individual accesses us through the internet we may collect information using cookies (if relevant – an individual can adjust their browser’s setting to accept or reject cookies) or analytical services; and/or  
-Pixel Tags. Pixel tags enable us to send email messages in a format customers can read and they tell us whether mail has been opened.
-  * 4.2 As there are many circumstances in which we may collect information both electronically and physically, we will endeavour to ensure that an individual is always aware of when their Personal Information is being collected.
-  * 4.3 Where we obtain Personal Information without an individual’s knowledge (such as by accidental acquisition from a client) we will either delete/destroy the information, or inform the individual that we hold such information, in accordance with the Australian Privacy Principles.
+  * 4.1 Most Personal Information will be collected in association with an individual’s use of Qwilr, an enquiry about Qwilr, or generally dealing with us. However we may also receive Personal Information from sources such as advertising, an individual’s own promotions, public records, mailing lists, contractors, staff, recruitment agencies and our business partners. In particular, information is likely to be collected as follows:
+  * 4.1.1 **Registrations/Subscriptions.** When an individual registers or subscribes for a service, list, account, connection or other process whereby they enter Personal Information details in order to receive or access something, including a transaction;
+  * 4.1.2 **Accounts/Memberships.** When an individual submits their details to open an account and/or become a member with us;
+  * 4.1.3 **Supply.** When an individual supplies us with goods or services;
+  * 4.1.4 **Contact.** When an individual contacts us in any way;  
+4.1.5 **Access.** When an individual accesses us physically we may require them to provide us with details for us to permit them such access. When an individual accesses us through the internet, we may:
+  * 4.1.5.1 collect information using cookies (if relevant – an individual can adjust their browser’s settings to accept or reject cookies) or analytics services;
+  * 4.1.5.2 supplement the information provided to us by the user with other relevant data sourced from business partners, including company names, phone numbers and social media statistics; and/or
+  * 4.1.5.3 **Pixel Tags.** Pixel tags enable us to contact or otherwise engage with users through a variety of media.
+  * 4.2 We may also collect Personal Information about your contacts, either from you or from your contacts, to enable those contacts to engage with you on Qwilr and to maintain a record of such engagements.
+  * 4.3 Where we obtain Personal Information without an individual’s knowledge (such as by accidental acquisition from a client) and not in accordance with this Privacy Policy, we will delete or destroy the information.
 
 
 
-### 5 WHEN PERSONAL INFORMATION IS USED & DISCLOSED
+### 5 HOW INFORMATION IS USED
 
-  * 5.1 In general, the primary principle is that we will not use any Personal Information other than for the purpose for which it was collected other than with the individual’s permission. The purpose of collection is determined by the circumstances in which the information was collected and/or submitted.
-  * 5.2 We will retain Personal Information for the period necessary to fulfil the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
-  * 5.3 It may be necessary for us to disclose an individual’s Personal Information to third parties in a manner compliant with the Australian Privacy Principles in the course of our business.
-  * 5.4 We will not disclose or sell an individual’s Personal Information to unrelated third parties under any circumstances.
-  * 5.5 Information is used to enable us to operate our business, especially as it relates to an individual. This may include:  
-The provision of goods and services between an individual and us;  
-Verifying an individual’s identity;  
-Communicating with an individual about:  
-Their relationship with us;  
-Our goods and services;  
-Our own marketing and promotions to customers and prospects;  
-Competitions, surveys and questionnaires;  
-Investigating any complaints about or made by an individual, or if we have reason to suspect that an individual is in breach of any of our terms and conditions or that an individual is or has been otherwise engaged in any unlawful activity; and/or  
-As required or permitted by any law (including the Privacy Act).
-  * 5.6 There are some circumstances in which we must disclose an individual’s information:  
-Where we reasonably believe that an individual may be engaged in fraudulent, deceptive or unlawful activity that a governmental authority should be made aware of;  
-As required by any law (including the Privacy Act); and/or  
-In order to sell our business (in that we may need to transfer Personal Information to a new owner).
-  * 5.7 We will not disclose an individual’s Personal Information to any entity outside of Australia that is in a jurisdiction that does not have a similar regime to the Australian Privacy Principles or an implemented and enforceable privacy policy similar to this Privacy Policy. We will take reasonable steps to ensure that any disclosure to an entity outside of Australia will not be made until that entity has agreed in writing with us to safeguard Personal Information as we do.
-  * 5.8 We may utilise third-pay service providers (such as Gmail from Google, Inc., and MailChimp from The Rocket Science Group LLC) to communicate with an individual and to store contact details about an individual. These service providers are located in the United States of America.
+  * 5.1 As a general principle, we will not use any Personal Information other than for the purpose for which it was collected, as determined by the circumstances in which the information was collected and/or submitted.
+  * 5.2 We will retain Personal Information for the period necessary to fulfil the purposes outlined in this Privacy Policy, including as long as your account is active or as needed to provide you services, to comply with our legal obligations, to resolve disputes and to enforce our agreements.
+  * 5.3 Information is used to enable us to operate our business, especially as it relates to an individual. This may include:  
+5.3.1 The provision of goods and services between an individual and us;  
+5.3.2 Verifying an individual’s identity;
+  * 5.3.3 Automated decision making, such as using the domain in an email address to infer the individual’s affiliation with a company and to tailor that individual’s experience with Qwilr accordingly;
+  * 5.3.4 Communicating with an individual about:
+  * 5.3.4.1 Their relationship with us;
+  * 5.3.4.2 Our goods and services;  
+5.3.4.3 Our own marketing and promotions to customers and prospects;  
+5.3.4.4 Competitions, surveys and questionnaires;  
+5.3.5 Investigating any complaints about or made by an individual, or if we have reason to suspect that an individual is in breach of any of our terms and conditions or that an individual is or has been otherwise engaged in any unlawful activity; and/or  
+5.3.6 As required or permitted by any applicable law.
 
 
 
-### 6 OPTING “IN” OR “OUT”
+### 6 WHEN INFORMATION IS DISCLOSED
 
-  * 6.1 An individual may opt to not have us collect their Personal Information. This may prevent us from offering them some or all of our services and may terminate their access to some or all of the services they access with or through us. They will be aware of this when:  
-Opt In. Where relevant, the individual will have the right to choose to have information collected and/or receive information from us; or  
-Opt Out. Where relevant, the individual will have the right to choose to exclude himself or herself from some or all collection of information and/or receiving information from us.
-  * 6.2 If an individual believes that they have received information from us that they did not opt in or out to receive, they should contact us on the details below.
-
-
-
-### 7 THE SAFETY & SECURITY OF PERSONAL INFORMATION
-
-  * 7.1 We may appoint a Privacy Officer to oversee the management of this Privacy Policy and compliance with the Australian Privacy Principles and the Privacy Act. This officer may have other duties within our business and also be assisted by internal and external professionals and advisors.
-  * 7.2 We will take all reasonable precautions to protect an individual’s Personal Information from unauthorised access. This includes appropriately securing our physical facilities and electronic networks.
-  * 7.3 The security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. Each individual that provides information to us via the internet or by post does so at their own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, Personal Information where the security of information is not within our control.
-  * 7.4 We are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose an individual’s Personal Information to in accordance with this policy or any applicable laws). The collection and use of an individual’s information by such third parties may be subject to separate privacy and security policies.
-  * 7.5 If an individual suspects any misuse or loss of, or unauthorised access to, their Personal Information, they should let us know immediately.
-  * 7.6 We are not liable for any loss, damage or claim arising out of another person’s use of the Personal Information where we were authorised to provide that person with the Personal Information.
+  * 6.1 We may disclose Personal Information to third parties who provide services that enable and enhance our business activities, insofar as such disclosure of information is required. Examples of such services include:
+  * 6.1.1 Payment processing
+  * 6.1.2 Providing customer service
+  * 6.1.3 Sending marketing communications
+  * 6.1.4 Conducting research and analysis
+  * 6.1.5 Providing cloud computing infrastructure
+  * 6.2 We take reasonable steps to ensure the disclosure of Personal Information to any third party, including any entity outside of Australia and the European Union, will not be made until that entity has agreed in writing that its own data processing activities are not inconsistent with the Privacy Standards.
+  * 6.3 There are certain circumstances in which we will be required to disclose Personal Information, namely:
+  * 6.3.1 where we reasonably believe that an individual may be engaged in fraudulent, deceptive or unlawful activity that a governmental authority should be made aware of;
+  * 6.3.2 as required by any applicable law; or
+  * 6.3.3 in order to sell our business or assets (in which case we may need to transfer Personal Information to a new owner).
+  * 6.4 Except as otherwise provided for in this Privacy Policy, we do not sell, rent or share Personal Information with third parties without your prior consent.
 
 
 
-### 8 HOW TO ACCESS AND/OR UPDATE INFORMATION
+### 7 RIGHTS TO INFORMATION
 
-  * 8.1 Subject to the Australian Privacy Principles, an individual has the right to request from us the Personal Information that we have about them, and we have an obligation to provide them with such information within 28 days of receiving their written request.
-  * 8.2 If an individual cannot update his or her own information, we will correct any errors in the Personal Information we hold about an individual within 7 days of receiving written notice from them about those errors.
-  * 8.3 It is an individual’s responsibility to provide us with accurate and truthful Personal Information. We cannot be liable for any information that is provided to us that is incorrect.
-  * 8.4 We may charge an individual a reasonable fee for our costs incurred in meeting any of their requests to disclose the Personal Information we hold about them.
+  * 7.1 Individuals have a number of rights that may be exercised in relation to their Personal Information subject to exceptions and limitations provided for in the Privacy Standards.
+  * 7.2 Individuals have a right to confirm whether Qwilr is processing their Personal Information and, if so, obtain access to that information as well as information concerning:
+  * 7.2.1 the purposes of the processing;
+  * 7.2.2 the categories of relevant data;
+  * 7.2.3 the recipients or categories of recipients to whom the data have been or will be disclosed;
+  * 7.2.4 the envisaged period over which the data will be stored or, if not possible, the criteria used to determine this; and
+  * 7.2.5 the existence of any automated individual profiling, including the logic involved and the significance or envisaged consequences of this.
+  * 7.3 Individuals have a right to object to certain processing operations on their Personal Information on legitimate grounds, and thus cause us to cease such processing.
+  * 7.4 Individuals have a right to have inaccurate Personal Information rectified, incomplete Personal Information completed, and otherwise have their Personal Information erased.
+  * 7.5 Individuals have a right to request and receive their Personal Information in a structured, commonly-used and machine-readable format.
+  * 7.6 We partner with third party services to display advertising on our behalf. These partners may use cookies or similar technologies to serve you advertising based on your browsing activities and interests. If you wish to opt-out of such interest-based advertising, contact us at [privacy@qwilr.com](mailto:privacy@qwilr.com).
+  * 7.7 You may receive email communications from us from time to time. If you would like to discontinue receiving this information, use the ‘unsubscribe’ links found in those emails or contact us at [privacy@qwilr.com](mailto:privacy@qwilr.com).
+  * 7.8 To enquire about or exercise these rights, contact us at [privacy@qwilr.com](mailto:privacy@qwilr.com).
+  * 7.9 We will endeavour to act on valid requests to exercise these rights within a reasonable timeframe, and in any event within 30 days of our receipt of such requests.
+
+
+
+### 8 THE SAFETY & SECURITY OF PERSONAL INFORMATION
+
+  * 8.1 We may appoint a Privacy Officer to oversee the management of this Privacy Policy and compliance with the Privacy Standards. This officer may have other duties within our business and also be assisted by internal and external professionals and advisors.
+  * 8.2 We will take all reasonable precautions to protect an individual’s Personal Information from unauthorised access. This includes appropriately securing our physical facilities and electronic networks.
+  * 8.3 The security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. Each individual that provides information to us via the internet or by post does so at their own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, Personal Information where the security of information is not within our control.
+  * 8.4 We are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose an individual’s Personal Information to in accordance with this Privacy Policy or any applicable laws). The collection and use of an individual’s information by such third parties may be subject to separate privacy and security policies.
+  * 8.5 If an individual suspects any misuse or loss of, or unauthorised access to, their Personal Information, they should let us know immediately.
+  * 8.6 We are not liable for any loss, damage or claim arising out of another person’s use of the Personal Information where we were authorised to provide that person with the Personal Information.
 
 
 
 ### 9 COMPLAINTS AND DISPUTES
 
-  * 9.1 If an individual has a complaint about our handling of their Personal Information, they should address their complaint in writing to the details below.
-  * 9.2 If we have a dispute regarding an individual’s Personal Information, we both must first attempt to resolve the issue directly between us.
-  * 9.3 If we become aware of any unauthorised access to an individual’s Personal Information we will inform them at the earliest practical opportunity once we have established what was accessed and how it was accessed.
+  * 9.1 If an individual has a complaint about our handling of their Personal Information:
+  * 9.1.1 they should in the first instance address their complaint in writing to us through the contact details below; and
+  * 9.1.2 they have the right to submit a complaint to a relevant supervisory authority under the Privacy Standards.
+  * 9.2 If we become aware of any unauthorised access to an individual’s Personal Information, we will inform them at the earliest practical opportunity once we have established what was accessed and how it was accessed.
 
 
 
 ### 10 Contacting INDIVIDUALS
 
-  * 10.1 From time to time, we may send an individual important notices, such as changes to our terms, conditions and policies. Because this information is important to the individual’s interaction with us, they may not opt out of receiving these communications.
+  * 10.1 From time to time, we may send an individual important notices, such as changes to our terms, conditions and policies and changes affecting our services. Because this information is important to the individual’s interaction with us, they may not opt out of receiving these communications.
 
 
 
 ### 11 CONTACTING US
 
-  * 11.1 All correspondence with regards to privacy should be addressed to:
-
-The Privacy Officer  
+  * 11.1 All correspondence with regards to privacy should be addressed to:The Privacy Officer  
 Qwilr Pty Ltd  
 Level 1, 7 Hudson St  
 Redfern NSW 2016  
@@ -136,36 +154,15 @@ privacy@qwilr.com
 
 
 
-
 You may contact the Privacy Officer by email in the first instance.
 
-### 12 ADDITIONS TO THIS POLICY
+### 12 CHANGES TO THIS POLICY
 
-  * 12.1 If we decide to change this Privacy Policy, we will post the changes on our webpage at www.qwilr.com. Please refer back to this Privacy Policy to review any amendments.
-  * 12.2 We may do things in addition to what is stated in this Privacy Policy to comply with the Australian Privacy Principles, and nothing in this Privacy Policy shall deem us to have not complied with the Australian Privacy Principles.
-
-
-
-[
-
-### Consulting
-
-](https://qwilr.com/stories/modal/) [
-
-CUSTOMER
-
-#### Modal
-
-](https://qwilr.com/stories/modal/)
-
-Learn about how Modal uses Qwilr to save time on proposal-building and close more deals quicker than ever — with a 90% success rate!
-
-[Read Story](https://qwilr.com/stories/modal/)
-
-  * [ TechCrunch Qwilr on TechCrunch. ](https://web.archive.org/about/media)
-  * [ Forbes Qwilr on Forbes. ](https://web.archive.org/about/media)
-  * [ Mashable Qwilr on Mashable. ](https://web.archive.org/about/media)
+  * 12.1 If we decide to change this Privacy Policy, we will post the changes on our website at www.qwilr.com/about/privacy and may notify individuals of those changes through email. Please refer back to this Privacy Policy to review any amendments.
+  * 12.2 We may do things in addition to what is stated in this Privacy Policy to comply with the Privacy Standards, and nothing in this Privacy Policy shall deem us to have not complied with the Privacy Standards.
 
 
 
-Need Sales Automation? Check out our [Blueprint API.](https://web.archive.org/features/sales-automation)
+###  Join over 50,000 businesses enjoying a simpler life
+
+###  Join over 50,000 businesses loving Qwilr
