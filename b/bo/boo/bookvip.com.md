@@ -1,37 +1,6 @@
-> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914211449id_/http%3A//www.bookvip.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129211537id_/https%3A//www.bookvip.com/home/privacypolicy) for the most accurate reproduction.*
 
-# BookVIP.com - Cheapest Vacation Packages To The Most Popular Destinations
-
-Toll Free  
-**1-(888)-849-8450  
-1-(407)-964-3007 **
-
-  * [Home](http://www.bookvip.com/)
-  * [Hot Weekly Deals](http://www.bookvip.com/weeklydeals)
-  * [All Vacation Deals](http://www.bookvip.com/vacationspecials)
-  * [About Us](http://www.bookvip.com/home/aboutus)
-  * [Customer Video Reviews](http://www.bookvip.com/sitereviews)
-
-
-
-Over 3.7 Million Likes 
-
-3,710,563 Facebook Likes and counting.  
-People love our offers, you will too!
-
-×
-
-Request a free call back
-
-To talk with us, please enter your phone number.
-
-(You'll will need an open phone line to receive this call)
-
-Country:
-
-Your Number:
-
-( ) \- 
+# Cheapest Vacation Packages To The Most Popular Destinations - BookVip.com
 
 **BookVIP.com Privacy Policy and Terms of USE**
 
@@ -41,21 +10,12 @@ This privacy policy discloses the privacy practices for BookVIP.com.
 
 This privacy policy applies solely to information collected by this web site. It will notify you of the following: 
 
-1.
+  1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+  2. What choices are available to you regarding the use of your data.
+  3. The security procedures in place to protect the misuse of your information.
+  4. How you can correct any inaccuracies in the information.
 
-What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
 
-2.
-
-What choices are available to you regarding the use of your data.
-
-3.
-
-The security procedures in place to protect the misuse of your information.
-
-4.
-
-How you can correct any inaccuracies in the information.
 
 **Information Collection, Use, and Sharing**
 
@@ -69,21 +29,12 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-•
+  * See what data we have about you, if any.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
 
-See what data we have about you, if any.
 
-•
-
-Change/correct any data we have about you.
-
-•
-
-Have us delete any data we have about you.
-
-•
-
-Express any concern you have about our use of your data.
 
 **Security**
 
