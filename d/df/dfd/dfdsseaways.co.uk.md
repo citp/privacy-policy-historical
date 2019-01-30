@@ -1,55 +1,114 @@
-> *The following text is extracted and transformed from the dfdsseaways.co.uk privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203034823id_/http%3A//www.dfdsseaways.co.uk/aboutus/legal/privacypolicy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfdsseaways.co.uk privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130160352id_/https%3A//www.dfdsseaways.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DFDS Seaways
+# Privacy Policy | DFDS
 
-**SECURITY**
+## When do we collect your data?
 
- DFDS website is secure when you go through to the payment part of the online sales process. We use SSL (Secure Socket Layer) technology to protect your personal information.  SSL is currently the preferred method to securely transfer credit card and other sensitive data over the internet.
+We collect personal data about you whenever you book with us, travel with us, when you use our websites, or when you use our call centres. We also collect personal data when you book our freight or logistics services.​
 
-   **DFDS PRIVACY POLICY  
- **  
-DFDS is committed to protecting your privacy. Below we explain how we use any passenger information and how we protect your privacy. 
+## Why do we collect and how do we use the personal data? 
 
- Data-protection.   Please note that as a carrier DFDS is obliged under the law to register the identity of our passengers and to inform governmental authorities hereof. Consequently, we need to register certain information when you book, including your name and identity. 
+Registration of the information is necessary to enter into an agreement (booking) with us and to give you service messages about the booking. In addition, DFDS is required by law to register the identity of our passengers and to give that information to relevant authorities. 
 
- The registration of this information is also a necessity for us to enable us to secure a smooth completion of the travel and to provide you with the services you have ordered.  We will delete the registered information soonest after the completion of the voyage or when the information is no longer needed in accordance with national law or your agreement with DFDS. 
+Due to this, we will ask for name, gender, date of birth or age, address, e-mail address, vehicle registration number (if any). Passport number may be registered when you check in at the terminal to prove your identity. We ask for your telephone number so we can contact you quickly if there is any problem with your booking. If volunteered by a person, we will also collect any information concerning the need for special care or assistance in emergency situations. 
 
- The register is kept by DFDS A/S, Sundkrogsgade 11, DK-2100 Copenhagen, Denmark.  You are always welcome to contact us to be informed of the registration.  If you have signed up for receiving our e-mail newsletter – or receive other kinds of unwanted marketing material - you can always unsubscribe by a link in the newsletters or by contacting DFDS.
+In addition, we use the information we obtain in connection with bookings and purchases on board our ships to gather statistics that we use to improve our services. We may ask you to show your boarding card when you make an onboard purchase. This information is used for statistical purposes only. You have the right to decline to show your boarding card when shopping onboard. If you prefer that we do not use your reservation data in our statistics, please feel free to contact us and let us know.
 
- We use tracking software to monitor customer traffic patterns and site usage to help us develop the design and layout of the site.  This software does not enable us to capture any personally identifying information.
+If you booked by telephone, due to the need of documentation in some countries we have a call record that is held for up to one year.​
 
-  **WHY DO WE NEED PASSENGER INFORMATION/HOW DO WE USE IT?**
+## Payments online
 
- In addition to our obligations under law we collect information about you for two reasons: firstly to process your order and second, to provide you with the best possible service.  When you book with DFDS, we need to know your name, address, telephone and fax numbers, e-mail address?, credit or debit card number and expiry date. We also need to know all the name(s) of the passenger(s) travelling. This information allows us to process your booking and to send through your travel itinerary by post. We ask for your telephone number so that we can contact you urgently if there is a problem with your reservation.
+When you pay online, you will be transferred to a secure webpage where you will add your payment card details. ​
 
- If we offer you a subscription to our e-mail service, DFDS mail, we will ask for your name and e-mail address so that we can send you our e-mail newsletter. Your name is not required to subscribe to our e-mail service, and you will be able to opt out at any time by clicking the unsubscribe link on the e-mail newsletter.   When you enter a contest or other promotional offer, we may ask for your name, address and e-mail address so we can administer the contest and notify winners.
+All payments are processed by our trusted partner's platform and validated against the highest standards of securing and safeguarding of card data. We do not process or store any payment card information in DFDS. However, in case you have questions about the processing of your payment card details, please contact DFDS, and we will reach out to our payment partner. 
 
- If you find errors in the information please notify us thereof so that we may correct it.
+## Personal profile 
 
- We may use the information we collect occasionally to notify you about new DFDS services, important functional changes to the web site and special offers we think you'll find valuable.  If you would prefer not to receive this information, please send an e-mail to [travel.sales@dfds.co.uk](mailto:travel.sales@dfds.co.uk)
+Your personal data is also used if you have created a profile on one of DFDS' websites. If you have created a profile with DFDS and given your consent, we will register your purchase to help us administer your profile, and use this information to target you with offers and products. The information is also used to recognise you when you book with us (assuming you are logged in) and to follow up on reservations. The information is also used for contests and statistics.​
 
-  **HOW DO WE PROTECT YOUR INFORMATION?**
+## How do we protect your personal data?
 
- When you book with us, we use secure server software which encrypts all information you input before it is sent to us. This encryption ensures that the information is reasonably protected against unauthorised interception.
+When you book with us, we use secure server software, which encrypts all of the information you enter before it is sent to us. This encryption ensures that the information is appropriately protected against unauthorised interception.​
 
- In order to comply with our obligations under the Data Protection Acts of 1984 and 1998, we also follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access to that information.
+## How long do we keep your personal data? 
 
-   **OUR USE OF COOKIES**
+The personal data in the booking information will be kept for a period corresponding to the time where we can be met with claims. 
 
- DFDS use cookies in the booking system, to ensure consistency in the flow of the booking.
+If you register a personal profile or subscribe to the e-mail service, we will store your personal data until you delete the profile or unsubscribe from our newsletter. The information will make future bookings easier, as we have already saved your personal data.
 
- Cookies are small pieces of information that are stored by your browser on your computer's hard drive. These can be deleted by you from your hard drive if you so wish.
+To be sure we have updated information about our customers, we will encourage you to make necessary changes in your profile. If your profile has not been used or activated for 3 years, we will delete it.​
 
- Most web browsers automatically accept cookies, but you can change your browser settings to prevent that.  Without cookies you can use most of the features on the web site, but not the booking system.  So our advice is not to disable cookies in your browser. Our cookies do not contain any personally identifying information. 
+## Subscription to the e-mail service and contests
 
-  **WILL DFDS DISCLOSE THE INFORMATION IT COLLECTS TO OUTSIDE PARTIES?  
-**    
-We never disclose information about a passenger to any other person or organisation without your consent unless there is an emergency situation that requires it or we are legally required to do so.  DFDS reserves the right to pass your information on to trustworthy third parties that we use for the provision of certain services, for instance allowing DFDS customers to book hotels quickly and easily by, for example, transferring details from the DFDS booking form to our partners' booking forms.
+When we offer you a subscription to our e-mail and marketing services, we will ask for your name and e-mail address so that we can send you our e-mail newsletter. Your name is not required to subscribe to our e-mail service, and you will be able to opt out at any time by clicking the unsubscribe link in the newsletter. When you enter a contest or take advantage of other promotional offers, we may ask for your name, address and e-mail address so we can administer contests and notify the winners. ​
 
- If you do not wish DFDS to pass on your information to these third parties, please send an e mail accordingly to [travel.sales@dfds.co.uk](mailto:travel.sales@dfds.co.uk)
+## Our use of cookies 
 
- DFDS may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will contain no personally identifying information.
+DFDS uses cookies on its websites and the booking system to ensure consistency throughout the reservation process. 
 
-  **YOUR PERMISSION**
+Cookies are small pieces of information that are stored by your browser on your computer's hard drive. For further information visit: <https://www.dfds.com/en-gb/legal/cookies>. ​
 
- In using the DFDS web site, you consent to the collection and use of this information by DFDS A/S and its subsidiaries in the ways described above. If we decide to change our privacy policy, we will make the relevant changes on this page so that you are always aware of the information we collect, how we use it and in what circumstances we disclose it. 
+## Mobile Applications
+
+DFDS maintains several mobile applications (apps) to enhance our customer's experiences. The same principles detailed in this privacy policy apply for those who use our apps. We utilise anonymous tracking software, namely Google Analytics and Firebase, to measure the usage of our apps, and we only collect personal data to the extent required for the actual functions of that particular app (such as your location in the world at a given time). Any and all data collected about you through our apps is used only by DFDS, and is not shared with any third party, other than the programs named above.
+
+## Will DFDS disclose the data to third parties? 
+
+Personal data will be shared internally within DFDS' organisation, as we have the same booking system. We have internal policies and agreements in place to ensure an adequate level of protection irrespective of where in DFDS your data is located. 
+
+We will not transfer personally identifiable information about our visitors or customers to a third party, except in the following cases:
+
+  * Service providers and advisors that we use to provide certain services, such as hotels and activity providers. In such case, the suppliers will be individual data controllers;
+  * If we are legally required to do so;
+  * DFDS may provide aggregate statistics about our customers, sales, traffic patterns, loyalty card memberships and related site information to third-party partners.
+  * In addition, DFDS may provide information about our customers to third parties who provide services or functions on our behalf, including payment card processing, business analytics, customer service, marketing, or distribution of surveys. 
+  * We may also authorise third parties to collect information on our behalf, including if necessary to operate features of our website or to facilitate the delivery of online advertising tailored to your interests.
+  * We may share your details with a third party who may actively follow up on incomplete bookings via email.
+  * Your email address may be shared with Facebook for social media marketing campaigns.
+  * In the event we sell property or safety of DFDS, its employees and others, or in the event we sell or liquidate any part of business or assets;
+
+
+
+Any such sharing will be in compliance with data protection law, and only to trustworthy third parties.
+
+We always strive to clearly inform you regarding the uses and possible disclosure of your information when such information is obtained. If it is not practical to do so at the point of collection, we will inform you as soon as possible, unless there is a legitimate basis for not doing so. For example, where it is necessary for the prevention or detection of a crime or where otherwise permitted by law. 
+
+## Security and safety onboard
+
+Following a thorough investigation, the names of undesirable passengers can be placed on an internal list to prevent these passengers from booking and travelling with us if the master of the vessel has reason to believe that the passengers will pose a security risk and in accordance with the terms and conditions applicable for the travel. Passengers are deemed to pose a security risk if they have endangered the safety of themselves, the vessel, the crew or other passengers, if their behaviour has been inappropriate during a previous trip or if they have failed to follow safety regulations or requirements. DFDS will register the necessary personal information of the banned passengers. This will prevent those passengers deemed a security risk from booking trips on our passenger ships for a defined period. The information will not be held for longer than necessary.​
+
+## Your permission
+
+In using the DFDS website, you consent to the collection and use of this information by DFDS in the methods described above. If our Privacy Policy should change, we will make the relevant changes here so that you are always aware of the information we collect, how we use it and under what circumstances it might be disclosed. ​
+
+## Do you want more information about your data?
+
+You are always welcome to contact us regarding the data we have registered and request a description of the personal information we have collected and processed and the types of recipients – to whom DFDS will, or may, disclose that information. 
+
+You are also welcome to contact us if you would like us to correct, erase or block inaccurate information. DFDS always attempts to respond to valid requests as quickly as possible.
+
+We kindly ask you to send any requests or questions to [privacy@dfds.com](mailto:privacy@dfds.com "DFDS Privacy Email")
+
+If you have signed up to receive our e-mail newsletter you can always unsubscribe via the link in the newsletter or by contacting DFDS on the above email address.​
+
+## Data controller:
+
+ **DFDS A/S**
+
+Address: Sundkrogsgade 11, DK-2100 Copenhagen, Denmark
+
+Reg.nr.:
+
+Tel.: +45 33 42 33 42​
+
+## Who to contact
+
+If you have any questions about this privacy policy, or you want to obtain insight into personal data held about you, you may contact us via [privacy@dfds.com](mailto:privacy@dfds.com "DFDS Privacy Email")​
+
+If you prefer to contact your local call centre, you shall be more than welcome to do so. They will then assist you with your questions.
+
+## If you have a complaint
+
+If you want to lodge a complaint, we refer you to Datatilsynet, Borgergade 28 (5), 1300 København K, Denmark.  ​
+
+ ​​​​​
