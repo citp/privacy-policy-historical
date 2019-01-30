@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapstab.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212072323id_/http%3A//www.mapstab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapstab.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130062511id_/http%3A//www.mapstab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Mapstab
 
