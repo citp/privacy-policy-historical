@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techzilo.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906030427id_/http%3A//www.techzilo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techzilo.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130195952id_/http%3A//www.techzilo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | TechZilo
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
