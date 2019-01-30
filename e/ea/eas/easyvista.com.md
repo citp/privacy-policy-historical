@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyvista.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823065958id_/https%3A//www.easyvista.com/data-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyvista.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130063131id_/https%3A//www.easyvista.com/data-privacy-policy) for the most accurate reproduction.*
 
 # EasyVista Data & Privacy Policy
 
