@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drip.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214035619id_/https%3A//www.drip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drip.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130032343id_/https%3A//www.drip.com/privacy) for the most accurate reproduction.*
 
 # Drip Privacy Policy
 
