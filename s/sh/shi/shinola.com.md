@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shinola.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824005823id_/https%3A//www.shinola.com/customer-service/general-resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinola.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130230528id_/https%3A//www.shinola.com/customer-service/general-resources/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shinola® Detroit
 
