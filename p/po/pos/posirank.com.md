@@ -1,6 +1,39 @@
-> *The following text is extracted and transformed from the posirank.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118192721id_/https%3A//posirank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posirank.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130155115id_/https%3A//posirank.com/privacy) for the most accurate reproduction.*
 
-# PosiRank™ - Privacy
+# PosiRank - Privacy
+
+### GENERAL INFORMATION - IP Addresses and Cookies
+
+You may visit the Posirank site and will remain anonymous and will not be revealing any personal information. 
+
+Our websites automatically log your IP address and domain name, and non-personal information such as the type of web browser you use, to help us administer the sites and to compile statistics such as the number of visitors. 
+
+The Types of Cookies Posirank Uses (If we use more than session cookies, please add language for how our cookies work) 
+
+Session cookies: These cookies are temporary and expire once you leave the site. Session cookies are mainly used by webshops to hold your items in the basket while you are shopping online. 
+
+Posirank also permits third-party partners to use cookies and other technology to collect information about your browsing activities over time and across different websites when you use our site. Through a process called “retargeting,” each service places a cookie on your browser when you visit our site so that they can identify you and serve you ads on other sites around the web based on your browsing activity. 
+
+**Submission of Personal Information**
+
+If you choose to create a free account with Posirank, you will be required to submit some personal information, such as (but not limited to) your name and email address, before using the Posirank site. 
+
+If you consent to provide your personal information by creating an account with Posirank, you may at any time withdraw your consent by contacting us at privacy at Posirank.com or at the address listed below. 
+
+In order to make use of Posirank's services, you must provide us with the required personal data. If you do not to provide us with all the required information, it will not be possible to deliver Posirank products or services. 
+
+Posirank retains the information you provide until such time that you request us to delete your information 
+
+**Aggregation and Use of Anonymous Data**
+
+Posirank aggregates information provided by you to create anonymous statistical and demographic data. This anonymous data helps Posirank better understand and know its customer base. That anonymous data may be provided to third parties but never in such a fashion as to identify you personally. Posirank uses Google Analytics for the collection of anonymous data. Learn more about how Google uses data collected using Google Analytics. 
+
+The Google Analytics features that Posirank employs are as follows: 
+
+_General Features related to browsing behavior such as: browser type/version and language, operating system type/version, device type/version, domains, page views, referring/exit pages, location data such as country, information about how you interact with our Site’s webpages and with third-party links, traffic and usage trends Demographics and Interest Reports: Age, Gender, Interest Data Advertising and Remarketing: This includes data from Google's signed-in users who have chosen to enable Google to associate their web and app browsing history with their Google account, and to use such information from their Google account to personalize ads User ID Tracking: To combine sessions across multiple devices and interactions for logged-in users Site Search Tracking: What a user typed into the sites search feature eCommerce Tracking: Information related to product purchased, price, date and time of purchase, order #, etc. Enhanced eCommerce Tracking: Information related to products viewed, products added/removed to cart, onsite promotions clicked, currency, refunds, etc._
+
+You can opt out of Google Analytics by using this tool:  
+<https://tools.google.com/dlpage/gaoptout/>
 
 ### Collected Information - Voluntary
 
