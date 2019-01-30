@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastyplacement.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807054144id_/https%3A//www.tastyplacement.com/contact-us-austin/privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastyplacement.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130044253id_/https%3A//tastyplacement.com/contact-us-austin/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use
 
