@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wideanglesoftware.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616211226id_/https%3A//www.wideanglesoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wideanglesoftware.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130062114id_/https%3A//www.wideanglesoftware.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Wide Angle Software Ltd
 
-## Background
+### Background 
 
-This Policy applies as between you, the User of this Website and Wide Angle Software Ltd the owner and provider of this Website. This Policy applies to our use of any and all Data collected by us in relation to your use of the Website.
+This Policy applies as between you, the User of this Website and Wide Angle Software Ltd the owner and provider of this Website. This Policy applies to our use of any and all Data collected by us in relation to your use of the Website. 
 
 * * *
 
@@ -12,10 +12,10 @@ This Policy applies as between you, the User of this Website and Wide Angle Soft
 
 In this Policy the following terms shall have the following meanings: 
 
-  * **"Data"** \- means collectively all information that you submit to the Wide Angle Software via the Website. This definition shall, where applicable, incorporate the definitions provided in the Data Protection Act 1998;
+  * **"Data"** \- means collectively all information that you submit to the Wide Angle Software via the Website. This definition shall, where applicable, incorporate the definitions provided in the European Economic Area (EEA) data protection law;
   
 
-  * **“Cookie”** \- means a small text file placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain features of the Website. Details of the cookies used by this Website are set out in Clause 12;
+  * **“Cookie”** \- means a small text file placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain features of the Website. Details of the cookies used by this Website are set out in Clause 13;
   
 
   * **“Wide Angle Software"** \- means Wide Angle Software of St. John's House Weston Road, Stafford, UK;
@@ -38,8 +38,6 @@ This Policy applies only to the actions of Wide Angle Software and Users with re
 
 ### 3\. Data Collected
 
-Without limitation, any of the following Data may be collected by this Website from time to time:
-
 3.1 IP address (automatically collected);
 
 3.2 web browser type and version (automatically collected);
@@ -48,24 +46,34 @@ Without limitation, any of the following Data may be collected by this Website f
 
 3.4 a list of URLs starting with a referring site, your activity on this Website, and the site you exit to (automatically collected);
 
+3.5 Personal data is only collected when a software purchase is made on our online store. The Personal Data that we may collect includes: Contact details, such as name, postal address, email address; We do NOT collect or store any financial Data; Purchases made on our store using PayPal as a payment method are also subject to the [PayPal Privacy Policy](https://www.paypal.com/privacy/); Credit card purchases made on our store are processed by Stripe and are subject to the [Stripe Privacy Policy](https://stripe.com/privacy/).
+
 ### 4\. Our Use of Data
 
-4.1 Any personal Data you submit will be retained by Wide Angle Software for 6 months.
+4.1 We will retain your Personal Data for the purpose of identifying any purchases you made on our store and to enable us to provide your software activation details and customer support.
 
 4.2 Unless we are obliged or permitted by law to do so, and subject to Clause 5, your Data will not be disclosed to third parties.
 
-4.3 All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. Fore more details on security see Clause 11 below.
+4.3 All personal Data is stored securely in accordance with the principles of the EEA data protection laws. For more details on security see Clause 12 below.
 
 4.4 Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Website. Specifically, Data may be used by us for the following reasons:
 
-  * 4.4.1 internal record keeping;
-  * 4.4.2 improvement of our products / services;
+  * 4.4.1 To process your payment, communicate regarding a payment, and provide related customer service;
+  * 4.4.2 For audits, regulatory purposes, and compliance with industry standards;
+  * 4.4.3 To improve our products / services;
+  * 4.4.4 To send marketing communications.
 
 
 
 ### 5\. Third Party Websites and Services
 
-Wide Angle Software does not provide this information to any third party.
+Wide Angle Software does do not share your information or data with third parties except in the following limited circumstances: 
+
+  * 5.1 To facilitate customers in making credit card or PayPal payments;
+  * 5.2 To invite you to review our products or services;
+  * 5.3 To deliver and help us track our marketing and advertising content.
+
+
 
 ### 6\. Links to Other Websites
 
@@ -79,53 +87,57 @@ This Website may, from time to time, provide links to other websites. Wide Angle
 
 ### 8\. Controlling Use of Your Data
 
-8.1 Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following:
+Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following:
 
-  * 8.1.1 use of Data for direct marketing purposes; and
-  * 8.1.2 Sharing Data with third parties.
+8.1. Unsubscribe
+
+  * We may, from time to time, email you to invite you to review our products or services, or to make you aware of our other similar products and services which may be of interest to you. If you do not wish to receive emails from us for this purpose, or if you want to be removed from our electronic mailing list you can either select “unsubscribe” from any of the emails that we send or alternatively [contact us](https://web.archive.org/contact/). 
 
 
+
+8.2. Access and remove your Data as set out in Clause 11. 
 
 ### 9\. Your Right to Withhold Information
 
 9.1 You may access the Website without providing any Data at all. However, to use all features and functions available on the Website you may be required to submit certain Data.
 
-9.2 You may restrict your internet browser’s use of Cookies. For more information see Clause 12.
+9.2 You may restrict your internet browser’s use of Cookies. For more information see Clause 13.
 
-### 10\. Accessing your own Data
+### 10\. How long we keep your information for
 
-You have the right to ask for a copy of any of your personal Data held by Wide Angle Software (where such data is held) on payment of a small fee.
+We’ll hold your personal data, such as your name, email address and software activation codes on our systems for the longest of the following periods: 
 
-### 11\. Security
+  * 10.1 Up to 5 years on our activation code lookup service;
+  * 10.2 Any retention period that is required by law or regulation.
 
-Data security is of great importance to Wide Angle Software and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected via this Website.
 
-### 12\. Cookies
 
-12.1 This Website may place and access certain Cookies on your computer. Wide Angle Software uses Cookies to improve your experience of using the Website and to improve our range of products. Wide Angle Software has carefully chosen these Cookies and has taken steps to ensure that your privacy is protected and respected at all times.
+### 11\. Accessing your own Data
 
-12.2 All Cookies used by this Website are used in accordance with current UK and EU Cookie Law.
+Subject to limitations set out in EEA data protection laws, you have certain rights in respect of your Personal Data. In particular, you have a right of access, rectification, restriction, opposition, erasure and data portability. Please [contact us](https://web.archive.org/contact/) if you wish to exercise these rights.
 
-12.3 Before the Website places Cookies on your computer, subject to sub-Clause 12.4, you will be presented with Cookie permission popup window requesting your consent to set those Cookies. By giving your consent to the placing of Cookies you are enabling Wide Angle Software to provide the best possible experience and service to you. You may, if you wish, deny consent to the placing of Cookies; however certain features of the Website may not function fully or as intended.
+### 12\. Security
 
-12.4 This Website places the following Cookies:
+Data security is of great importance to Wide Angle Software and to protect your Data we have put in place suitable physical, electronic and administrative security measures designed to provide reasonable protection for your Personal Data against loss, misuse, unauthorised access, disclosure, and alteration. The security measures include firewalls, data encryption, physical access controls to our data centres, and information access authorisation controls.
 
-Name of Cookie | Purpose | Strictly Necessary  
----|---|---  
-_utma | Determines the number of unique visitors to the site | NO  
-_utmb | This works with _utmc to calculate the average length of time you spend on our site | NO  
-_utmc | This works with _utmb to calculate when you close your browser | NO  
-_utmz | This provides information about how you reached the site (eg from another website or a search engine) | NO  
-whoson | Manage online chat customer support. Provides information concerning pages you have visited on the site. | NO  
-cc_cookie_decline | Cookie to indicate you do not accept our cookie usage policy. | YES  
-cc_cookie_aacept | Cookie to indicate you accept our cookie usage policy. | YES  
-  
-12.5 You can choose to enable or disable Cookies in your internet browser. By default, most internet browsers accept Cookies but this can be changed. For further details, please consult the help menu in your internet browser.
+### 13\. Cookies
 
-12.6 You can choose to delete Cookies at any time however you may lose any information that enables you to access the Website more quickly and efficiently including, but not limited to, personalisation settings.
+13.1 This Website may place and access certain Cookies on your computer. Wide Angle Software uses Cookies to improve your experience of using the Website and to improve our range of products. Wide Angle Software has carefully chosen these Cookies and has taken steps to ensure that your privacy is protected and respected at all times.
 
-12.7 It is recommended that you ensure that your internet browser is up-to-date and that you consult the help and guidance provided by the developer of your internet browser if you are unsure about adjusting your privacy settings.
+13.2 All Cookies used by this Website are used in accordance with current UK and EU Cookie Law.
 
-### 13\. Changes to this Policy
+13.3 Before the Website places Cookies on your computer, subject to sub-Clause 13.4, you will be presented with Cookie permission popup window requesting your consent to set those Cookies. By giving your consent to the placing of Cookies you are enabling Wide Angle Software to provide the best possible experience and service to you. You may, if you wish, deny consent to the placing of Cookies; however certain features of the Website may not function fully or as intended.
+
+13.4 The details of the cookies placed by wideanglesoftware.com are provided in our [Cookie Policy](https://web.archive.org/cookies/).
+
+13.5 You can choose to enable or disable Cookies in your internet browser. By default, most internet browsers accept Cookies but this can be changed. For further details, please consult the help menu in your internet browser.
+
+13.6 You can choose to delete Cookies at any time however you may lose any information that enables you to access the Website more quickly and efficiently including, but not limited to, personalisation settings.
+
+13.7 It is recommended that you ensure that your internet browser is up-to-date and that you consult the help and guidance provided by the developer of your internet browser if you are unsure about adjusting your privacy settings.
+
+### 14\. Changes to this Policy
 
 Wide Angle Software reserves the right to change this Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the Policy on your first use of the Website following the alterations.
+
+We serve cookies on this site to track usage and optimise your experience. By clicking on the site further you agree to the use of cookies as described in our [Cookie Policy](https://web.archive.org/cookies/ "Cookie Policy").     ACCEPT
