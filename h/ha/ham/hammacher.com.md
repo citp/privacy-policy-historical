@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920235156id_/http%3A//www.hammacher.com/Editorial/Privacy-Policy%3Fpromo%3Dft_cs_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130032410id_/https%3A//www.hammacher.com/editorial/privacy-policy%3Fpromo%3Dft_cs_privacy) for the most accurate reproduction.*
 
 # CS-Privacy-Policy - Hammacher Schlemmer
 
@@ -9,11 +9,11 @@ It is our continued honor to serve you as a Hammacher Schlemmer customer. We ful
 We are committed to ensuring your privacy when you shop online with Hammacher Schlemmer. In an effort to improve the online shopping experience at Hammacher.com, we do gather information about our visitors' shopping behavior, but we maintain sole ownership over this information and do not share, sell or rent our findings to third parties, except in the few cases described below.
 
 Hammacher Schlemmer contracts with Adobe Analytics and Google Analytics for data collection, storage, and reporting services that help us improve your shopping experience. These reporting services use cookies (explained in detail below) to collect information about your usage of Hammacher.com. Adobe Analytics and Google Analytics are contractually restricted from using your information in any way, other than to help us make our site more useful for you. For more information, including how to opt out of the collection process, please visit:  
-[](http://www.omniture.com/en/privacy/product#optout)
+[](https://www.omniture.com/en/privacy/product#optout)
 
 "Cookies" are small bits of information that your Web browser stores on your computer's hard drive. In order to purchase products from the Hammacher Schlemmer site, your Web browser must be enabled to accept cookies. We also use cookies to give credit to those sites that direct traffic to Hammacher.com for marketing purposes. Hammacher Schlemmer does not use cookies to store or collect personal information such as full names, addresses, or payment information.
 
-Technologies other than http cookies may be used by third parties in a similar way, to recognize the email recipients’ computer or device and to keep track of which user identities match to which devices or browsers, and those technologies may not respond to browser settings that block conventional cookies. You may opt of many of these types of technologies by visiting the NAI’s opt out page at [http://www.networkadvertising.org](http://www.networkadvertising.org/).
+Technologies other than http cookies may be used by third parties in a similar way, to recognize the email recipients' computer or device and to keep track of which user identities match to which devices or browsers, and those technologies may not respond to browser settings that block conventional cookies. You may opt of many of these types of technologies by visiting the [NAI's opt out page at https://www.networkadvertising.org](https://www.networkadvertising.org/).
 
 ## Placing an Order Online
 
@@ -27,15 +27,15 @@ We will periodically send to your street or e-mail address product news and upda
 
 If you do not wish to receive promotional postal and/or e-mail updates from Hammacher Schlemmer, or if you prefer that we not share your postal address with other merchants please do one of the following:
 
-  * **Phone:** Please call Toll-Free 1-800-321-1484 to speak to a Customer Service associate between 8AM to Midnight, Eastern time.
-  * **Email:** Send us an email and we'll reply within 1 Business Hour! [customerservice@hammacher.com](mailto:customerservice@hammacher.com)
+  * **Phone:** Please call Toll-Free 1-800-321-1484 to speak to a Customer Service associate Monday - Friday 7:30 AM - 11 PM EST and Saturday - Sunday 7:30 AM - 8 PM EST.
+  * **Email:** Send us an email and we'll reply within 24 hours. [Email Customer Service at customerservice@hammacher.com](mailto:customerservice@hammacher.com)
   * **Write:** Send us a letter to 9180 Le Saint Drive; Fairfield, Ohio 45014-5475
 
 
 
 Please include your full name, street address, and e-mail address with your correspondence, and tell us how we should restrict use of your information.
 
-We may work with data providers to target advertising to you personally, through online and offline methods including email, display media and direct mail. This advertising may be directed to you because you visited or logged in to our website. When we generate this advertising, data we collect from you through online cookies and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads to you based on your preferences and other information about you. To learn more about targeted advertising, these providers, or how you may opt out, please visit the DAA’s consumer choice page at <http://www.aboutads.info/choices/>.
+We may work with data providers to target advertising to you personally, through online and offline methods including email, display media and direct mail. This advertising may be directed to you because you visited or logged in to our website. When we generate this advertising, data we collect from you through online cookies and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads to you based on your preferences and other information about you. To learn more about targeted advertising, these providers, or how you may opt out, please visit the [DAA's consumer choice page at https://www.aboutads.info/choices/](https://www.aboutads.info/choices/).
 
 ## Gift Messages
 
