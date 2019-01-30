@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackthissite.org privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114134254id_/https%3A//legal.hackthissite.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackthissite.org privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130042526id_/https%3A//legal.hackthissite.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HackThisSite Legal
 
