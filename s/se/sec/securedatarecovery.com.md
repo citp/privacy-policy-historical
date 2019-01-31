@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the securedatarecovery.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021171618id_/https%3A//www.securedatarecovery.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securedatarecovery.com privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131120301id_/https%3A//www.securedatarecovery.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Secure Data Recovery Services
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=03864380-17e1-4afa-ad44-e38afd827deb "TRUSTe Privacy Certification")
 
-**Effective Date: 6/6/2017**
+**Effective Date: 9/27/2018**
 
-  * This privacy policy applies to www.securedatarecovery.com owned and operated by Secure Data Recovery Services. This privacy policy describes how Secure Data Recovery Services collects and uses the personal information you provide on our web site: www.securedatarecovery.com and our Services. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Secure Data Recovery Services. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+  * This privacy policy applies to www.securedatarecovery.com owned and operated by Secure Data Recovery Services. This privacy policy describes how Secure Data Recovery Services collects and uses the personal information you provide on our web site: www.securedatarecovery.com, mobile app and our Services. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Secure Data Recovery Services. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 
 
@@ -28,7 +28,7 @@ Under certain conditions, more fully described on the Privacy Shield website, yo
 
 ## Collecting and Using Personal Information
 
-Secure Data Recovery Services collects basic information for internal use. This includes but is not limited to phone numbers and addresses entered into our online evaluation form or information collected over the phone when you call our customer service department. We also collect your first and last name, email address and phone number, when you send us a request regarding our services, credit card information to make payments for invoices and photos for job applications on the site . When you use our media services, we keep your information strictly confidential. 
+Secure Data Recovery Services collects basic information for internal use. This includes but is not limited to phone numbers and addresses entered into our online evaluation form or information collected over the phone when you call our customer service department. We also collect your first and last name, email address and phone number, when you send us a request regarding our services, credit card information to make payments for invoices using our payment processor and photos for job applications on the site. When you use our media services, we keep your information strictly confidential. 
 
 We only use your information for the primary purpose of contacting you, creating your account with us, assessing your needs and responding to your customer service requests. 
 
@@ -91,6 +91,15 @@ Our website also uses Google Analytics, a popular web traffic analytics tool. Go
 Technologies such as: cookies, beacons, tags and scripts are used by us and our third party partners (Marketing partners), affiliates, or analytics or service providers (online customer support provider). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [**here**](http://preferences-mgr.truste.com/ "Opt-out Ads for United States") (or if located in the European Union click [**here**](http://www.youronlinechoices.eu/ "Opt-out Ads for Europe")) Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+
+When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID").  
+
+
+We send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.  
+
+
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.  
+
 
 ## Limitation of Liability
 
