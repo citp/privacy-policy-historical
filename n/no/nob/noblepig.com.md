@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noblepig.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211203511id_/https%3A//noblepig.com/about/press/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noblepig.com privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131055917id_/https%3A//noblepig.com/about/press/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, GDPR & Your Data
 
