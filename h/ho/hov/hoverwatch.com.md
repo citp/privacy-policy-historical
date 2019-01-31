@@ -1,142 +1,281 @@
-> *The following text is extracted and transformed from the hoverwatch.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119031324id_/https%3A//www.hoverwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoverwatch.com privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131124341id_/https%3A//www.hoverwatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## A. INTRODUCTION
+The updated Privacy Policy (“Policy”) will automatically come into effect for all existing users of Hoverwatch services on May 25, 2018 and, once in effect, your continued use of our services will be subject to this new Privacy Policy.
 
-PLEASE READ THIS DOCUMENT CAREFULLY. IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE OUR SERVICE. BY CONTINUING TO USE Refog WEBSITE AND SERVICES YOU WILL BE DEEMED TO HAVE ACCEPTED THIS REFOG’S PRIVACY POLICY. Your use of the REFOG Website and any services and software provided therein, including any dispute concerning privacy, is subject to this Privacy Policy. By using the REFOG’s Website, you are accepting the practices set out in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date below to determine if the policy has been modified since you last reviewed it. Your continued use of any portion of the REFOG’s Website following posting of the updated Privacy Policy will constitute your acceptance of the changes.
+## 1\. Introduction
 
-This privacy statement was last updated on 08 February, 2010. Refog and its affiliates (collectively, “REFOG”) has created this privacy statement in order to disclose its information gathering and dissemination practices for this internet Website, www.hoverwatc.com (the “Website”).
+Your privacy is always our priority. In this Policy, we describe how and why we gather, share, store and use your personal data. Here you can also find information about your opportunities and how to manage your personal data.
 
-Upon reading this privacy statement, you will be informed regarding the following:
+Please read this Privacy Policy carefully.
 
-(1) what personally identifiable information of yours or third party personally identifiable information is collected from you through the Website;  
-(2) the organization collecting the information;  
-(3) how the information is used;  
-(4) with whom the information may be shared;  
-(5) what choices are available to you regarding collection, use and distribution of the information;  
-(6) the kind of security procedures that are in place to protect the loss, misuse or alteration of information under REFOG’s control; and   
-(7) how you can access and correct any inaccuracies in the information collected about you.  
-Questions regarding this statement should be directed to privacy@refog.com
+## 2\. The aim of this Policy
 
-If you have any concerns or feel that there are certain problems or issues relating to compliance with the policies outlined in this privacy statement, please submit a report to: http://support.refog.com/hc/en-us
+This Policy contains detailed information about Hoverwatch’s interaction with your personal data. This Policy applies to all Hoverwatch services, including associated ones. The Policy also presents the terms of your use of the service.
 
-### Word from REFOG
+We may improve our product and services in the future – adding new features, extending old ones, etc. If one of these changes will have an impact on our conditions for collecting personal data, we will certainly inform you. In this case, we may update this Policy or add terms. All new features are subject to this Policy; if they are not a subject of this Policy, we indicate that fact.
 
-REFOG has a strong commitment to providing superior service to all of our customers and visitors of this Website and particularly respecting your concerns about privacy. We understand that you may have questions about how this Website collects and uses information and we have prepared this statement to inform you of the privacy principles that govern the Website (the “Privacy Policy”). We will not sell or rent your personally identifiable information or a list of our customers to third parties. However, as described in more detail below, there are limited circumstances in which some of your information will be shared with third parties, under strict restrictions, so it is important for you to review this Privacy Policy.
+This Policy has several purposes:
 
-This Privacy Policy contains numerous general and technical details about the steps we take to respect your privacy concerns. We have organized this Privacy Policy by major processes and areas so that you can quickly link to the information of most interest to you. The bottom line is that meeting your needs and expectations form the foundation of everything we do - including protecting your privacy.
+  * Inform you about how we use the personal data you share with us.
+  * Ensure you understand why we collect data, who uses it and how.
+  * Clarify your rights and opportunities in relation to personal information.
+  * Share more about the ways we protect your privacy.
 
-Personal information on this Website is collected by REFOG and if after reviewing this Privacy Policy you have any questions or privacy concerns please contact at: privacy@refog.com.
 
-### Changes in Privacy Policy
 
-REFOG wants you to be always aware of what personal information we collect, how we use it and under what circumstances we disclose it. All personal information, as further described below, that we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of such collection. REFOG reserves the right to change the Privacy Policy from time to time at its sole discretion, and will prominently post any material changes on the home page of the Website. You will be given the opportunity to opt-out. You will be deemed to have been made aware of, and will be subject to, the changes to the Privacy Policy by your continued use of the Website after such notice has been posted for thirty (30) days with the following exception: if at the time you provide personal information to REFOG you limit how such information will be used to communicate with you, either by REFOG or by third parties, REFOG will not change your preference in this regard without your express consent.
+Our goal is to help you understand our Privacy Policy. Please note that if you do not agree with this Policy, it is your choice as to whether you will use the Hoverwatch Service.
 
-### Third Party Websites
+## 3\. Your rights and preferences
 
-REFOG does not control the information collection and distribution policies on Internet domains other than those Internet domains that are under the control of REFOG itself. When you are on the REFOG Website, you may be directed to other sites that are beyond our control. These other sites may independently collect data, solicit personal information, or send their own “cookies” to you. REFOG is not responsible for any use of the information including click-stream data created when using such third party sites.
+We have changed our Policy according to the new European General Data Protection Regulation (GDPR) law to provide even better service for you. This law regulates interactions with personal data and gives rights to individuals.
 
-The REFOG Website may also contain advertising and other links to other web sites. Please be aware that we are not responsible for the privacy practices or content of those other sites. Also we do not send random marketing emails to personal email addresses (spam). The REFOG Website may contain hyper links to external web sites owned and operated by third parties. REFOG has no control over or association with such third party sites and REFOG is not responsible for the accuracy, completeness and quality of the information contained within them. Any and all contents on these external web sites do not reflect products, services or information provided by REFOG. You should direct any concerns regarding any external link to the site administrator or webmaster of such site. REFOG will inform you before you will be redirected to such third party sites and that REFOG will notify when you leave its Website and/or provide indication that you are directed to such other third party websites.
+At the same time, we have improved users’ accounts to give the opportunity to take advantages of those rights.
 
-### Legal Issues
+You have the right to:
 
-This Website may be subject to the laws of various jurisdictions, including the laws of the United States of America, European and other jurisdiction because the access to our Website may use internet traffic of different jurisdictions, including without limitation the United States of America and EU. REFOG will disclose personally identifiable information without your permission when required by law, or in good faith belief that such action is necessary to investigate or protect against harmful activities to REFOG guests, visitors, associates, or property (including this Website), or to others. As mentioned above, laws related to personal identifiable information vary by country. For example, personally identifiable information collected in the European Union and its Member States is subject to the EU Directives concerning personal data, privacy and electronic communications, including but not limited to Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector and Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data and the subsequent legislation adopted in the EU Member States.
+  * **Be informed** \- this Policy is part of this right, as we inform you about collected personal data;
+  * **Access information** held about you;
+  * **Fix (rectify)** personal data if it is outdated, incomplete or inaccurate;
+  * **Erase (delete or remove)** personal data;
+  * **Restrict processing** \- in this case, personal data about you will be stored but not processed;
+  * **Have data portability** \- you can copy, move or transfer your data from one service to another without inconvenience and interference with your work;
+  * **Complain** \- you can complain to a supervisory authority.
 
-REFOG may be required by law enforcement or judicial authorities to provide personally identifiable information to appropriate governmental authorities. If requested by law enforcement or judicial authorities, we will provide this information upon receipt of the appropriate documentation. REFOG may also provide information to law enforcement to protect its property and the health and safety of individuals as permitted by statute.
 
-## B. COLLECTED INFORMATION
 
-### Browsing
+Also, you have the right to not be subject to automated decision-making.
 
-This Website does not collect personally identifiable information from your computer when you browse the Website and request pages from our servers. This means that, unless you voluntarily and knowingly provide us with personally identifiable information, we will not know your name, your e-mail address, or any other personally identifiable information. When you request a page from our Website, our servers log the information provided in the HTTP request header, JavaScript or similar technical tools, including the IP number, the time of the request, the URL of your request and other information. We collect such information in order to make our Website function correctly and provide you the functionality that you see on this Website, as our servers use this information to deliver to you the pages on this Website. We also use this information to better understand how visitors use our Website and how we can better tune our Website, its contents and functionality to meet your needs.
+To exercise your rights, contact us: support@hoverwatch.com.
 
-### Information We Collect
+## 4\. Who are we? (identity of the Data Controller)
 
-As a visitor to this Website, you can engage in many activities without providing any personal information as described above in Section Browsing above. In connection with other activities, such as utilizing online software applications or purchasing or downloading any of the products and services available on the Website, REFOG may ask you to voluntarily supply us with certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities and/or make any purchases. If you elect to engage in these activities or make purchases, however, REFOG may ask that you provide us personal information, defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including but not limited to your first and last name, mailing address (including ZIP code), e-mail address, employer, and other personal information. This information may be requested in conjunction with the purchase and registration of our Products or services. In addition, if you choose and upon your modifications of the Product’s settings your personal information may be transmitted via email to the address provided by you. As noted below, minimum information is requested if you choose to subscribe to product updates.
+To begin, let's clarify the term Data Controller. This is a person who, alone or with other persons, is responsible for defining the purposes for – and the manner of – processing any personal data.
 
-REFOG may collect personal information as described above of registered users, service subscribers, and all posted advertisements information. All advertisements will be archived and stored on our servers. You may deactivate your personal information by contacting at: privacy@refog.com. When and if you deactivate your personal information, all information stored and maintained as part of your personal information will be deleted from our servers, provided that the information may be retained by REFOG for archival, backup and record purposes. The security of this information is addressed in the section Security below.
+Refog Inc. is the Data Controller for the purposes of the personal data processed under this Policy. Refog, a United States Incorporation, having its registered office at 901 N. Pitt Street, Suite 325; Alexandria, Virginia, 22314, USA and doing business as Hoverwatch.
 
-You never have to answer any questions, and you can decline this exchange of information at any time. However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity or purchase, you will not be able to engage in that activity or make such a purchase. REFOG will inform on the mandatory and/or optional character of the requested and/or required information.
+## 5\. How do we collect your personal data?
 
-REFOG will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our Website and the subsequent legislation adopted in the United States or EU Member States.
+Methods of data collection are described below.
 
-When you use the Website, REFOG or third parties authorized by REFOG may also collect certain technical and routing information about your computer to facilitate your use of the Website and its services. When you surf the Internet, your Internet browser (such as Mozilla Firefox or Microsoft Internet Explorer) automatically transmits some information to REFOG every time you access content on one of our internet domains within the Website. Examples of such information include the URL of the Web page you were just on (known as the “Refer”), the IP (or Internet Protocol) address of the computer you are using, or the browser version you are using to access our site. All of this information may be collected by REFOG and used to help improve our offerings to you.
+  1. When you register (sign up) for the Hoverwatch Service - personal data such as email address, age, country and IP address is collected when you sign up. This allows us to provide you with services.
+  2. During your use of the service - we collect information related to how you use the Hoverwatch Service, such as account information, device information, website access information and other usage data.
+  3. Additional requests - sometimes we collect personal data to provide you with additional functionality or features. In this case, you may be asked for additional permission access.
+  4. From third parties - information that we receive about you from advertisers, advertising networks, and other persons and companies is known as data from third parties. We use the information that you allowed other services to share.
+  5. [Cookies and other technologies](https://web.archive.org/cookie-policy) \- we use Cookies and other technologies, such as pixel tags, to provide you with our Services. These technologies allow us to improve, protect and promote our product. If you do not want to share Cookies, please set your browser – Google Chrome, Opera, Firefox, Edge, Explorer and so on – so that it does not accept Cookies. This setting can affect the serviceability of the Hoverwatch Service.
 
-We use such data to facilitate and track your use of the Website and its services. REFOG also uses such environmental variables to measure traffic patterns on the Website. Without expressly informing you in each particular circumstance, we do not match such information with any of your personal information.
 
-When you submit personal information to REFOG through this Website, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which REFOG and its affiliates and subsidiaries maintain offices. You also acknowledge that in certain countries or with respect to certain activities, the collection, transferring, storage, and processing of your information may be undertaken by trusted vendors of REFOG. Such vendors are bound by contract not to use your personal information for their own purposes or provide it to any third parties.
 
-REFOG may establish relationships with various service providers whose services may become available to you from this Website or from other websites that are linked to this Website. Typically, these providers would offer services that REFOG customers might find useful, such as those that can be used in conjunction with REFOG services and products. In order to use those services, you may be required to provide personal information to the providers. Unless expressly provided to the contrary, personal information that you provide while you are visiting a provider's Website will be subject to the privacy policy posted on such site, and personal information that you provide while on this Website in conjunction with a provider's service will be subject to this Privacy Policy. For instances, the credit card information may be entered as part of the filling out the purchase form or registration process is collected by the third parties registration and/or merchant services and subject to their respective privacy policies. You should be aware that our agreements with these service providers often provide that they will share with REFOG personal information collected from you. In such instances, REFOG may use this information in a manner consistent with this Privacy Policy.
+To test our IT systems, create marketing plans and promotion models, conduct research or data analysis, improve the Hoverwatch Service or develop new features/functionality, we may use anonymised and aggregated information based on users' personal data.
 
-### Updating Your Personal Preferences
+## 6\. What personal data do we collect from you?
 
-You may have access and correct your personal information and privacy preferences by writing REFOG at privacy@refog.com.
+Below you will learn about the personal information we collect about you.
 
-As a registered user you have the right to access and change your personal information and privacy preferences at any time by logging into your personal account, where you can view and make changes to your personal information. You may also access and change your personal information and privacy preferences by contacting us at: privacy@refog.com.
+**When you sign up for the Hoverwatch Service**
 
-### Information Relating to Children
+\- Account Registration Data - this includes data you provide during registration. We collect data to let you use the Hoverwatch Service. Account Registration Data includes your email address, age, country and IP address.
 
-The Children’s Online Privacy Protection Act (COPPA) was passed by the U.S. Congress in November 1998. COPPA provides parents with specific rights regarding their children's privacy. For additional information and resources on COPPA, please visit the Federal Trade Commission Web site at http://www.ftc.gov/. The REFOG Website and any products or services available on that site are not directed at children under 13 years of age and, therefore, COPPA does not apply. However, we recognize that children under the age of 13 may access this Website and subscribe to the newsletter, purchase products and services, or download software programs. The collection of information is covered above. Parents and Legal Guardians may request from us to review, delete or stop the collection of the personally identifiable information of their child. You may do so by contacting us by letter (using the address information provided at the bottom of this page).
+Some information is optional. You may provide more information about yourself to make your account more personalized.
 
-### Securing the Transmission and Storage of Information
+Your service plan in Hoverwatch affects the personal data we collect.
 
-REFOG operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our users. REFOG takes steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, no data transmission over the Internet can be guaranteed secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to us or from our online products or services, and you use these services at your own risk.
+If you used a third-party service to create a Hoverwatch account, we will receive the data through that third-party service. In this case, you must agree that the third-party service will process your personal data.
 
-We treat the information you provide to us as confidential information; it is, accordingly, subject to our company’s security procedures and corporate policies regarding protection and use of confidential information. After personally identifiable information reaches REFOG it is stored on a server with physical and electronic security features as customary in the industry, including utilization of login/password procedures and electronic firewalls designed to block unauthorized access from outside of REFOG. Because laws applicable to personal information vary by country, our offices or other business operations may put in place additional measures that vary depending on the applicable legal requirements. Information collected on the sites covered by this Privacy Policy is processed and stored in the United States and possibly other jurisdictions and also in other countries where REFOG and its service providers conduct business. All REFOG employees are aware of our privacy and security policies. Your information is only accessible to those employees who need it in order to perform their jobs.
+**When you use the Hoverwatch Service**
 
-## C. USE AND DISCLOSURE OF INFORMATION
+\- Hoverwatch Service Usage Data - this includes personal information about your use of the service, such as:
 
-### How your personal information is used
+  * Technical data, such as your IP address, Cookie, URL, your device (IDs, attributes, etc.), your network connection as a provider, your network or device performance or connection type (LTE, 3G, Wi-Fi, etc.), your device’s operating system, your browser and language, and other information enabling digital rights management;
+  * Information about your interaction with the Hoverwatch Service;
+  * Information about your tariff;
+  * Information about your interaction with the Support service and other messages and content you create while using the Hoverwatch Service.
 
-REFOG collects your information in order to record and support your participation in the activities you select. We will use your e-mail address to send a confirmation and, if necessary, might use the other information to contact you for help to process the purchase or service you have selected. If you subscribe to a service or register a product, for example, the information is used to register your rights, if any, to technical support or other benefits that may be made available to registered users. Your personal information is also used to keep you informed about new products, product upgrades, patches, special offers, and other products and services of REFOG and selected third parties if you have so opted to receive such communications.
 
-REFOG may collect information about the use of the Website, such as the types of services used and how many users we receive daily. This information is collected in aggregate form, without identifying any user individually. REFOG may use this aggregate, non-identifying statistical data for statistical analysis, marketing, or similar promotional purposes.
 
-REFOG recognizes and appreciates the importance of responsible use of information collected on this Website. Without your consent, REFOG will not communicate any information to you regarding products, services, and special offers available from REFOG or its affiliates, although we may find it necessary to communicate with you regarding your use of the services on this Website. Except in the particular circumstances described in this Privacy Policy, REFOG will also not provide your name to other companies or organizations without your consent.
+**The data we collect with your consent**
 
-However, you should be aware that some of your contact information in advertisements and postings may be visible for all other visitors, and we cannot guarantee that someone will not use it for commercial or other purposes or activities.
+For additional features/functionality or for a better user experience, you may give us permission to collect additional personal data.
 
-### Disclosure of Information to Third Parties
+\- Voluntary Data - without your prior consent, we do not collect the information indicated below. You can give us access to the following data:
 
-REFOG may use the services of third parties, such as e-mail service providers, purchase, shipping and order processing merchants and marketing companies that act as independent contractors on behalf of REFOG. These parties are contractually prohibited from using personally identifiable information for any purpose other than for the purpose REFOG specifies. We do provide non-personally identifiable information to certain service providers for their use on an aggregated basis for the purpose of performing their contractual obligations to us. We prohibit the sale or transfer of personal information to entities outside of the REFOG’s affiliates for their use without your approval.
+  * Contacts - you may give us access to your contacts on a mobile phone, in your email and other sources. In this case, we will obtain access to the contacts stored on your device and/or in your personal accounts in other Internet services.
+  * Call History/Records - you may give us access to the history of the calls you have made, and also allow us to record calls. In this case, we have the right to follow the call history and record your conversations on your mobile phone and other devices that carry out voice communications.
+  * SMS/Chat Messages - you may give us access to your SMS and other text messages that you wrote, sent, received or interacted with on your phone or other electronic device.
+  * Visited Websites - you may give us access to information about the websites you visited on your mobile phone, computer or other electronic device. In this case, we will get access to your browser history and other software used to access websites.
+  * Calendar Events - you may give us access to data from your electronic calendar and other programs, which are used for task scheduling purposes (to-do lists, etc.). In this case, we will get access to your schedule and other personal information about events listed in the calendar.
+  * SIM Card Information - you may give us access to your SIM card information. In this case, we will get access to your SIM card identification data and be able to track the location of your phone as well as get all other information related to your SIM card, such as information about blocking, replacing the SIM card, etc.
+  * Device And Connection Information - you may give us access to your device and connection information. This will allow us to receive and process information about your device and your connections to the network.
+  * Photo and Media Data - you may give us access to photo and media data. In this case, we can take screenshots of your screen; use the camera; and process, forward and perform other operations using the media data of your phone, computer or other electronic device.
 
-REFOG may disclose your personally identifiable information if we believe in good faith that we are required to do so in order to comply with applicable law, a subpoena, or other legal process. REFOG may also disclose personally identifiable information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating this Privacy Policy, the terms of your agreements with the Company or to protect the safety of our users and the public or under confidentiality and licensing agreements with certain third parties which assist us in developing, operating and maintaining the Website and its content.
 
-In the event that all or substantially all of REFOG’s stock and/or all or substantially all assets are transferred or sold to another entity, REFOG may transfer personally identifiable information to the acquiring entity. If, as a result of such a business transition, your personally identifiable information will be used in a materially different manner, you will be given choice consistent with our policy regarding notification of changes.
 
-### Choices available to you
+\- Payment Data - when you subscribe to our services, conduct transactions or make purchases through the Hoverwatch Service, we can collect your personal information. The exact data depends on the method of payment, but includes the following:
 
-You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the REFOG Website. Please note, however, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information and you will be given an opportunity to “opt-in” and make your preference choices for any items that are optional and which are not prerequisite for our rendering such services.
+  * Name;
+  * Date of birth;
+  * Mobile phone number;
+  * Debit or credit card information: type (Debit or Credit), expiration date, and certain digits of your card number;
+  * Postal code;
+  * Details of your transaction history.
 
-You can choose at anytime to opt out of receiving emails from REFOG or from having your personally identifiable information shared with selected companies. If you want to opt out, you can do so by editing your preferences with respect to email or the sharing of information. If you elect to “opt out” we will not, as applicable, share your personal information with third parties or send you emails. However, we may continue to use your personal information for internal purposes, to enhance your user experience or as necessary to administer the site or comply with applicable law.
 
-We reserve the right to send a one-time registration confirmation email, and infrequent Service Alert messages to users to inform them of specific changes that may impact their ability to use a service they have previously signed up for, regardless of email contact opt-in status. We also reserve the right to contact you if compelled to do so as part of a legal proceeding or if there has been a violation of any applicable licensing, warranty and purchase agreements.
 
-REFOG is retaining these rights because in limited cases we feel that we may need the right to contact you as a matter of law or regarding matters that will be important to you. These rights do not allow us to contact you to market a new or existing service if you have asked us not to do so, and issuance of these types of communications is rare.
+\- Marketing Data - with this information, Hoverwatch and our partners and service providers can carry out marketing communications with you via Hoverwatch, via electronic communication channels or directly from a third party.
 
-When you create a personal account with REFOG and/or provide your e-mail address and other personal identification information, based on your personal preferences, we may periodically contact you via e-mail and provide information about special offers and promotions that may be of interest to you. These communications will relate to REFOG offers and/or the promotions of select, reputable third parties with whom REFOG has a strategic marketing relationship because they offer products or services that we believe would be of interest to you. We may use a third party e-mail service provider to send e-mails. This service provider is prohibited from using your e-mail address for any purpose other than to send REFOG related e-mail. If you do not wish to receive e-mails with updates and information please unsubscribe by sending email to: unsubscribe@refog.com. In addition, every time you receive an e-mail you will be provided the choice to opt-out of future e-mails by following the instructions provided in the e-mail. You may also opt-out online by updating your personal account as described in Updating Your Personal References Section above.
+\- Surveys, Sweepstakes and Contests Data - the collected data varies depending on the promotion and is used to give you the opportunity to subscribe to and participate in these types of promotions.
 
-To ensure that your request is honored, you must provide REFOG with information sufficient for us to accurately identify and access your records. The information we require is your full name, address and the email address you provided to REFOG when you requested services or products. REFOG reserves the right to contact you to verify that we have accurately identified your record.
+## 7\. How do we use your personal data?
 
-### Cookies
+When you use the Hoverwatch Service, we use various technologies to collect data about you. There are various reasons for this.
 
-Our Website uses “cookie” technology. “Cookies” are short pieces of data generated by a web server that a website stores on a user’s computer. Certain pages on our Website may require the use of a cookie for purposes of keeping information you enter on multiple pages together. Cookies also enable us to customize our Website and offerings to your needs and provide you with a better online experience with us. In addition, cookies are used to:
+Below you will find information about the reasons why we process your data and about the categories of personal data we use for this purpose. Also, you will learn about the legal basis upon which we rely in the processing of data.
 
-measure usage of various pages on our Website to help us make our information; more pertinent to your needs and easy for you to access; identify and categorized the internet webpages from which the visitor came to the Website and observe the browsing patterns; and provide functionality such as online orders, REFOG’s services and other functionality that we believe would be of interest and value to you.
+**Account Registration and Service Usage Data**
 
-The types of cookies that we use are referred to as “session” cookies and “persistent” cookies. Session cookies are temporary and are automatically deleted once you leave the Website. Persistent cookies remain on your computer hard drive until you delete them. We do not use cookies to gather information concerning your visits to other websites, nor ascertain any personally identifiable information about you apart from what you voluntarily provide us in your dealings with REFOG. Cookies do not, under ordinary circumstances, corrupt or damage your computer, programs, or computer files.
+We use this data to:
 
-In addition, the service providers we use to serve and host our advertisements, and/or deliver our e-mails, use session and persistent cookies, to track the number of times the Website is accessed and whether the site was accessed from an advertisement. There are no cookies in the advertisement or e-mail. A cookie is placed on your computer only if and when you click on an advertisement or open the e-mail. The cookie generated from the advertisement or e-mail does not contain any personally identifiable information and will remain on your hard drive until you delete it.
+  * Provide, personalize, and improve your experience with the Hoverwatch Service and other services and products that Hoverwatch provides; for example, providing customized, personalized, or localized content, recommendations, features, and advertising on or outside the Hoverwatch Service (including for third-party products and services).
+  * Understand exactly how you use the Hoverwatch Service. This helps us analyze and understand your interaction with our products and services. It also helps us develop new products and make our services even better.
+  * Communicate with you for Hoverwatch Service-related purposes
 
-You may set your browser to block cookies (consult the instructions for your particular browser on how to do this), although doing so may adversely affect your ability to perform certain transactions, use certain functionality and access certain content on our Website.
 
-REFOG takes and addresses its users’ privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact REFOG at email: privacy@refog.com.
 
-In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the REFOG Online Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly.
+The legal basis for the processing purpose is: - Performance of Terms; - Legitimate Interest.
 
-Please note that if you provide REFOG with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), REFOG cannot guarantee that your most recent privacy preference will be honored.
+**Payment Data**
 
-Please note that REFOG does not collect any credit card information unless and until you provide such information in connection with your payment for REFOG’s paid services. REFOG will never contact you to ask you for your credit card data or other personal information via e-mail, phone etc.
+We use this data to:
 
-Copyright © 2010 Refog All rights reserved.
+  * Process a payment;
+  * Prevent or detect fraudulent payments;
+  * Prevent or detect fraud using the Hoverwatch Service.
+
+
+
+The legal basis for the processing purpose is:
+
+  * Performance of Terms;
+  * Compliance with Legal Obligations;
+  * Legitimate Interest.
+
+
+
+**Contests, Surveys, Sweepstakes and Marketing Data**
+
+We use this data to:
+
+  * Communicate with you.
+  * Communication is carried out directly or through one of our partners for research; participation in contests, surveys and sweepstakes; advertising purposes or other marketing.
+
+
+
+The legal basis for the processing purpose is:
+
+  * Legitimate Interest;
+  * Consent.
+
+
+
+**Voluntary Data**
+
+We use this data to:
+
+  * Provide you with the features/functions of our service based on your consent, such as: record calls; track calls and call history; track phone locations; track SMS and chats; track Facebook, WhatsApp, Viber, Snapchat and other messengers and social networks; take screenshots and photos; save all contacts, track the calendar and to-do list; and track the browser and Internet history;
+  * Offer parental controls;
+  * Monitor employees.
+
+
+
+The legal basis for the processing purpose is:
+
+  * Consent
+
+
+
+## 8\. Sharing your personal data
+
+Below you will find information about with whom we share your personal information. We will also clarify the reasons for this action.
+
+**Third-Party Applications you Connect to Your Hoverwatch Account**
+
+Hoverwatch may share your Service Usage Data with Third-Party Applications you connect to your Hoverwatch Account. For example, if you connect your Hoverwatch account to a social network, another device, audio, television, automotive or other platforms.
+
+**Third-Party Applications You Use to Log Into Hoverwatch**
+
+Third-Party Applications may have access to certain Service Usage Data if you log into your Hoverwatch account using a Third-Party Application. This Third-Party Application may have access to your activity and other Service Usage Data.
+
+**Service Providers and Others**
+
+To provide you with the Hoverwatch Service, we use a technical infrastructure operated by the technical service providers. In particular, we use the services of providers that store, host, maintain and manage the Hoverwatch Service. Providers allow us to communicate with you and to provide you with our services.
+
+**Hoverwatch Partners**
+
+If you are accessing the Hoverwatch Service through an application you received from a third party, we may share some personal data about your usage of the Hoverwatch Service.
+
+For example, we may share your Hoverwatch username or other Account Registration Data if doing so is necessary to provide you with our services.
+
+**Other Refog Inc. (Hoverwatch) Group Companies**
+
+To carry out our daily business operations and maintain our service, we share your personal data with other companies in the Refog Inc. Group.
+
+**Purchasers of the Hoverwatch Business**
+
+If we are selling, or discussing the sale of, our business, we may share your personal data with a prospective buyer or buyers. Hoverwatch will ensure your personal data remains safe. You will receive a notice if your personal data becomes subject to a different Privacy Policy.
+
+**Law Enforcement and Data Protection Authorities**
+
+We may share your personal data to comply with a legal obligation under an applicable law if we, in good faith, believe it necessary to do so. Also, we may share your personal data when responding to a valid legal process, such as a court order, subpoena, search warrant, etc.
+
+If you have more questions about your publicly available information and what you share with others, please contact us by email (support@hoverwatch.com) or use our company's address in this Policy.
+
+## 9\. Data retention and deletion
+
+We keep your personal data (including voluntary data) as long as we need it to provide you with the Hoverwatch Service and as long as you have a valid account with a paid tariff. After the paid period expires, the data is stored for 30 calendar days. Then we delete it.
+
+You have the right to retention. This means you can delete information about yourself and we will retain the personal data that we’ve collected. To do this, you must delete your account; after that, we will delete the information about you. Please note, there may be a delay in removing the information from our servers and backup storage. If we need your personal data to enforce our agreements or legal obligations, we may retain this information. A delay in the removal of information can also occur due to unresolved disputes or a continuation of the process of resolving disputes.
+
+## 10\. Transfer to other countries
+
+To ensure the service’s operation and perform the actions specified in this Policy, Hoverwatch shares your personal data worldwide. The company can subcontract with performers from other countries that are granted limited access to your personal data.
+
+Hoverwatch may also share your personal data with third parties located in countries other than your home country. If your personal data is shared beyond the European Union and Switzerland, we ensure that its sharing, storage and usage comply with the Standard Contractual Clauses approved by the EU Commission.
+
+## 11\. Links
+
+In our work, we may use content and services from third-party suppliers. We cannot be held responsible for the confidentiality and rights of third parties, as we cannot control them.
+
+Please, always be aware when you use third-party services. Learn about their Privacy Policies, as they may be different from ours.
+
+## 12\. Keeping your personal data safe
+
+Our goal is to protect our users’ personal data. To do this, we use the appropriate organizational and technical solutions. We always do our best to protect data; however, no system can be absolutely safe.
+
+You are also responsible for your safety. Please choose a unique and strong password for your account, log out of your account after you are done using it, install and use anti-virus software, and monitor the security of your personal data.
+
+## 13\. Children
+
+In some countries, age restrictions may be governed by the laws of a particular jurisdiction. In standard cases, the Hoverwatch Service is not directed towards children under the age of 16.
+
+Please note that we do not knowingly collect personal data from children under 16 or under the applicable age limit (the "Age Limit"). If you are younger than the Age Limit, please do not provide us with your personal data
+
+Parents of a child under the Age Limit who have learned that their child provided his or her personal data to Hoverwatch should contact us by email (support@hoverwatch.com) or via our company's address, provided in this Policy. You have the right to be informed and access information held about you or your child.
+
+We will take all steps necessary to erase the personal data of a child under the Age Limit if we learn that such data was collected. Please note that this may also require you to delete your child's account.
+
+## 14\. Changes to this Privacy Policy
+
+We reserve the right to change this Policy.
+
+If we make a material change, we will notify you by displaying a prominent notice within the Hoverwatch Service.
+
+This notification may be done in advance. This is why it is very important to read our notifications.
+
+To learn more, please contact us.
+
+Thank you for reading this Privacy Policy. Contact us with any questions about the Policy or visit our Support Center: https://support.hoverwatch.com. You may also write to us at the following address:
+
+Refog Inc. 901 N. Pitt Street, Suite 325 Alexandria, 22314 Virginia, USA
+
+We work for you and hope you enjoy Hoverwatch!
