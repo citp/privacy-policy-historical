@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarships.gov.in privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007064506id_/http%3A//www.scholarships.gov.in/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarships.gov.in privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131102854id_/https%3A//scholarships.gov.in/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - National Scholarship Portal
 
