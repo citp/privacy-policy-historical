@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotgame.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622085427id_/https%3A//gotgame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotgame.com privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131105640id_/https%3A//gotgame.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GotGame
 
@@ -13,7 +13,7 @@
 
 Below is our privacy policy which incorporates these goals: (Note, Automattic decided to make this privacy policy available under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/2.5/) license, which means we basically copied theirs word for word and replaced references to them with ones to us. We all benefit from open source and Automattic is leading the charge in terms pushing the open source movement forward please visit [Automattic.com](http://automattic.com/) and give them some business if it makes sense for you.)
 
-If you have questions about deleting or correcting your personal data please contact our [support team](mailto:support@gotgame.com).
+If you have questions about deleting or correcting your personal data please contact our [support team](https://web.archive.org/cdn-cgi/l/email-protection#60131510100f121420070f1407010d054e030f0d).
 
 GotGame Inc. (“GotGame”) operates several websites including [gotgame.com](http://gotgame.com/ "gotgame.com"). It is GotGame’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -53,4 +53,4 @@ Comments and other content submitted to our GotGame anti-spam service are not s
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, GotGame may change its Privacy Policy from time to time, and in GotGame’s sole discretion. GotGame encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a GotGame.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+Although most changes are likely to be minor, GotGame may change its Privacy Policy from time to time, and in GotGame’s sole discretion. GotGame encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a GotGame.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
