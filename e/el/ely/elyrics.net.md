@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elyrics.net privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509172020id_/https%3A//www.elyrics.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elyrics.net privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131190312id_/https%3A//www.elyrics.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy eLyrics.net
 
@@ -13,7 +13,7 @@ Your IP address is used to gather broad demographic information and to track you
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Cookies**  
-Some ads displayed may come from our servers. Ads loading from our servers may also contain cookies, the purpose of these cookies is just to introduce and select the proper advertisements to be shown for your interests. We only have access to information of visiting frequencies of our visitors from cookies you might receive while viewing ads from our servers. 
+From the 25th May 2018 a new European law called The General Data Protection Regulation (GDPR) has come into effect. You need to accept the cookie policy on our site in order to use it. Some ads displayed may come from our servers. Ads loading from our servers may also contain cookies, the purpose of these cookies is just to introduce and select the proper advertisements to be shown for your interests. We only have access to information of visiting frequencies of our visitors from cookies you might receive while viewing ads from our servers. 
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
