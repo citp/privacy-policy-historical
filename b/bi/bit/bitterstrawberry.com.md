@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitterstrawberry.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823022955id_/https%3A//bitterstrawberry.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitterstrawberry.com privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131224750id_/https%3A//bitterstrawberry.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | BitterStrawberry
 
