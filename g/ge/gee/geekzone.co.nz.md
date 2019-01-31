@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekzone.co.nz privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825170902id_/https%3A//www.geekzone.co.nz/content.asp%3Fcontentid%3D105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekzone.co.nz privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131132554id_/https%3A//www.geekzone.co.nz/content.asp%3Fcontentid%3D105) for the most accurate reproduction.*
 
 # Geekzone Privacy Statement
 
