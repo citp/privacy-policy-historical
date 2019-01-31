@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerikanki.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122134515id_/https%3A//amerikanki.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerikanki.com privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131075620id_/https%3A//amerikanki.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amerikanki
 
