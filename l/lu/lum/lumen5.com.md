@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lumen5.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027145741id_/https%3A//lumen5.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumen5.com privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131105420id_/https%3A//lumen5.com/privacy) for the most accurate reproduction.*
 
 # Lumen5 - Video Creation Platform for Business
 
