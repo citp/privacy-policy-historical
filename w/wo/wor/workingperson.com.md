@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928025543id_/https%3A//workingperson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingperson.com privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131025604id_/https%3A//workingperson.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -170,9 +170,9 @@ Why Choose Working Person? Let Our Customers Explain!
 
 > “
 > 
-> I just received another order from you folks, and again, it's fast and great quality. Thanks for your quick response and quality. I'm a concrete man, and quality is very important to me. Thanks so much.  
+> I just wanted to say, THANK YOU FOR YOUR SITE! It's really nice to see a company wanting to help the working person make their jobs a little easier, you guys are GREAT!!! And wonderful customer service too...I'm ordering my shoes from you.  
 >   
-> J. Ready from Osceola, Indiana
+> Carla J. from Tallahassee, Florida
 > 
 > ”
 
