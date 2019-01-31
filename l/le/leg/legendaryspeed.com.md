@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legendaryspeed.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128114258id_/https%3A//www.legendaryspeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendaryspeed.com privacy policy that was archived on 2019-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190131045526id_/https%3A//www.legendaryspeed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LegendarySpeed
 
