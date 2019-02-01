@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindtalk.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329034712id_/https%3A//www.mindtalk.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtalk.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201225317id_/https%3A//www.mindtalk.com/static/privacy) for the most accurate reproduction.*
 
 # Mindtalk - Interest Meetup Space
 
