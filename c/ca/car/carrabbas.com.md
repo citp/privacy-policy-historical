@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrabbas.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210150725id_/https%3A//www.carrabbas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrabbas.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201020932id_/https%3A//www.carrabbas.com/privacy-policy) for the most accurate reproduction.*
 
 # Carrabba's Privacy Policy
 
