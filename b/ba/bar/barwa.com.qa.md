@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barwa.com.qa privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130132505id_/http%3A//www.barwa.com.qa/en/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barwa.com.qa privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201214911id_/http%3A//www.barwa.com.qa/en/PrivacyPolicy) for the most accurate reproduction.*
 
 # Barwa - Privacy Policy
 
