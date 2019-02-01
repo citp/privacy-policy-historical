@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutcareers.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101190844id_/https%3A//www.allaboutcareers.com/about-us%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutcareers.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201221010id_/https%3A//www.allaboutcareers.com/about-us%23privacy) for the most accurate reproduction.*
 
 # About Us | AllAboutCareers
 
