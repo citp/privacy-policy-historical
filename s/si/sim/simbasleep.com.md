@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simbasleep.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004021801id_/https%3A//simbasleep.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simbasleep.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201220116id_/https%3A//simbasleep.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Simba Sleep Mattress - The Simba Hybrid®
 
@@ -116,9 +116,11 @@ We will collect, use and store the personal information listed above for the fol
 
 (v)             to ensure the security of our website;
 
-(vi)            to recognise you when you return to our website, to store information about your preferences, and to allow us to customise the website according to your individual interests; and
+(vi)           to recognise you when you return to our website, to store information about your preferences, and to allow us to customise the website according to your individual interests;
 
-(vii)           to evaluate your visit to the website and prepare reports or compile statistics to understand the type of people who use our website, how they use our website and to make our website more intuitive. Such details will be anonymised as far as reasonably possible and you will not be identifiable from the information collected.
+(vii)          to evaluate your visit to the website and prepare reports or compile statistics to understand the type of people who use our website, how they use our website and to make our website more intuitive. Such details will be anonymised as far as reasonably possible and you will not be identifiable from the information collected; and
+
+(viii)         to operate, protect, improve, and optimize our website and personalize and customize your experience (such as by making buying suggestions), we conduct profiling on your characteristics and preferences based on your interactions with the website, your search and purchase history, your profile information and preferences, and other content you submit to the website. We do this in order to send promotional messages, marketing, advertising and other information that we think may be of interest to customers.
 
 Please see sections 2.7 and 2.8 for more details about how we use your personal information.
 
@@ -206,7 +208,7 @@ Please see sections 2.7 and 2.8 for more details about how we use your personal 
 
 (b)            How we use your personal information
 
-We will collect, use and store the personal information listed above, if you have consented or, otherwise, if it is in our legitimate interests, for business development and marketing purposes, to contact you (including by email or post) with information about our products and services which either you request, or which we feel will be of interest to you (including newsletters). 
+We will collect, use and store the personal information listed above, if you have consented or, otherwise, if it is in our legitimate interests, for business development and marketing purposes, to contact you (including by email, SMS, push notifications or post) with information about our products and services which either you request, or which we feel will be of interest to you (including newsletters). 
 
 We might also share your data with social media or other similar platforms, so that you can see relevant content on that platform. For example, we may use the Facebook Custom Audiences service and share your email address in a protected format with Facebook so that we can: include you in a custom audience that we will serve relevant advertising content to on Facebook; or create an audience of other Facebook users based on the information in your Facebook profile. You can opt-out from Facebook Custom Audiences by emailing us at hello@simbasleep.com.
 
@@ -274,11 +276,15 @@ We also have legitimate interests to:
 
 (ii)             carry out marketing, market research and business development;
 
-(iii)            provide goods and associated services to our customers, make and receive payment and provide customer services; 
+(iii)            provide goods and associated services to our customers, make and receive payment and provide customer services;
 
-(iv)            place, track and ensure fulfilment of orders with our suppliers; and
+(iv)            place, track and ensure fulfilment of orders with our suppliers;
 
-(v)             carry out internal group administrative purposes.
+(v)            carry out internal group administrative purposes;
+
+(vi)           improve the website and your experience with it; and
+
+(vii)          undertake marketing activities to offer products or services that may be of interest to our customers.
 
 If we rely on our (or another person's) legitimate interests for using your personal information, we will undertake a _balancing test_ to ensure that our (or the other person's) legitimate interests are not outweighed by your interests or fundamental rights and freedoms which require protection of the personal information.  You can ask us for information on this balancing test by using the contact details at section 12.
 
