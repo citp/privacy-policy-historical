@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the evoleads.com privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123004959id_/http%3A//evoleads.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoleads.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201153037id_/https%3A//evoleads.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EvoMarketplace CPA Network
 
-Last updated: September 16, 2015.
+Last updated: June 13, 2018.
 
 EvoLeads outlines important information in this Privacy Policy regarding the use and disclosure of information collected via [www.evoleads.com](http://www.evoleads.com/).  
 EvoLeads provides this Privacy Policy to help users make an informed decision as to whether to use or continue using this website. EvoLeads is not responsible for the information collection or privacy practices of third web sites or applications. 
+
+We also comply with the European General Data Protection Regulation ("GDPR").
 
 This Privacy Policy applies to EvoLead’s collection, use, storage and disclosure of information by EvoLeads on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the Website), (b) on various third party websites, and (c) to EvoLead’s other information collection, including the purchase of customer lists from third parties.
 
@@ -24,13 +26,16 @@ Other occasions when EvoLeads obtains information from individuals include:
 (c) when an individual voluntarily subscribes to a EvoLeads service or newsletter (together, Other Information). 
 
 **Cookies.**  
-A cookie is a small amount of data stored on the hard drive of the individual's computer that allows EvoLeads to identify the individual with his or her corresponding data that resides in EvoLead’s database. You may read more about cookies at [http://cookiecentral.com](http://cookiecentral.com/) . Individuals who use the Website need to accept cookies in order to use all of the features and functionality of the Website. 
+A cookie is a small amount of data stored on the hard drive of the individual's computer that allows EvoLeads to identify the individual with his or her corresponding data that resides in EvoLead’s database. You may read more about cookies at [http://cookiecentral.com](http://cookiecentral.com/) . Individuals who use the Website need to accept cookies in order to use all of the features and functionality of the Website.   
+Under the GDPR, the lawful basis for collecting this information is that it is necessary for the performance of the contracts we have entered into and, for the purposes of scrutinizing applicants for fraud, our legitimate interests in preventing fraud. 
 
 **Web Beacons.**  
-A web beacon generally a transparent graphic image (usually a very small pixel) that is placed on a website or in an email which is used to monitor behavior of a user visiting a website or email and store their information. This allows EvoLeads to track certain web sites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. 
+A web beacon generally a transparent graphic image (usually a very small pixel) that is placed on a website or in an email which is used to monitor behavior of a user visiting a website or email and store their information. This allows EvoLeads to track certain web sites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes.   
+Under the GDPR, the lawful basis for collecting this information is that it is necessary for the performance of the contracts we have entered into and, for the purposes of scrutinizing applicants for fraud, our legitimate interests in preventing fraud. 
 
 **IP Address.**  
-An IP Address is a form of identification and logical address of devices using Internet Protocol. EvoLeads uses IP Addresses to track and store information in EvoLead’s database. 
+An IP Address is a form of identification and logical address of devices using Internet Protocol. EvoLeads uses IP Addresses to track and store information in EvoLead’s database.   
+Under the GDPR, the lawful basis for collecting this information is that we have a legitimate commercial interest in determining how many unique users click on our advisements and preventing fraud. No more identifying information is collected about this group and so we cannot associate IPs with an identifiable individual. 
 
 **Outside Information.**  
 EvoLeads may receive information about individuals from Third Parties or from other sources of information outside of EvoLeads including information located in public databases (Outside Information). 
