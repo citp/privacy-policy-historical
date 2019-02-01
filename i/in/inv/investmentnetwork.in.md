@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the investmentnetwork.in privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308050845id_/https%3A//www.investmentnetwork.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentnetwork.in privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201233802id_/https%3A//www.investmentnetwork.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy on The Indian Investment Network
+# Privacy Policy - Indian Investment Network
 
 Angel Investment Network Ltd. is the owner of this site and wishes to express that your privacy is of the utmost concern to us. We guarantee to treat any information received from you with the highest level of respect. 
 
