@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootyliciousmag.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709133721id_/http%3A//www.bootyliciousmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootyliciousmag.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201170144id_/http%3A//www.bootyliciousmag.com/privacy) for the most accurate reproduction.*
 
 # TSG Privacy Policy
 
