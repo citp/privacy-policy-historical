@@ -1,86 +1,120 @@
-> *The following text is extracted and transformed from the boldgrid.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320153520id_/https%3A//www.boldgrid.com/software-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldgrid.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201174824id_/https%3A//www.boldgrid.com/website-privacy-policy) for the most accurate reproduction.*
 
-# Software Privacy Policy | BoldGrid
+# Website Privacy Policy | BoldGrid
 
 ### Privacy Policy
 
-Welcome to the Privacy Policy for customers using the BoldGrid website design software and services. At BoldGrid, we know you’re unique, and we know you trust us with your personal information when you use our Software and Services. If you have any questions or concerns about this Privacy Policy or our privacy practices, please email us at [privacy@boldgrid.com](mailto:privacy@boldgrid.com). By using our software and services, you accept this Privacy Policy’s terms. You’re not authorized to use our BoldGrid software and services unless you agree with this Privacy Policy.
+#### **PLEASE READ THIS PRIVACY POLICY CAREFULLY**
 
-### Our BoldGrid Software and Services
+##### **BY SIGNING UP FOR A BOLDGRID (THE “COMPANY”) ACCOUNT AND/OR USING ITS PRODUCTS, SERVICES, WEBSITES AND MOBILE APPLICATIONS, YOU ARE AGREEING TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE IN THIS PRIVACY POLICY. ANY USER’S USE OR CONTINUED USE OF THE COMPANY’S PRODUCTS, SERVICES, WEBSITES OR MOBILE APPLICATIONS CONSTITUTES ACCEPTANCE OF THIS PRIVACY POLICY.**
 
-BoldGrid customers receive access to our website design software and SaaS software service (collectively, the “Software and Services”). The Software and Services include, for example, access to website development plugins and website design templates and the ability to purchase content for display on your site. In order to use the BoldGrid Software and Services you must obtain a software license key. Depending on the level of software functionality and types of templates you require, this license key may be free or may be available for purchase.
+  1. ### Privacy Policy (“Policy”):
 
-### Web Hosting Not Included
+The Company cares about your privacy. For this reason, the Company collects and uses personal data only as it might be needed for the Company to deliver products, services, websites and/or mobile applications (collectively, the “Services”). Your personal data includes information such as: 
+    * Name
+    * Address
+    * Billing and delivery information
+    * Telephone number
+    * Email address
+    * Financial account information
+    * IP Address
+    * Other data collected that could directly or indirectly identify you
 
-The BoldGrid Services do not include web hosting services. In order to operate the site you design using our Software and Services you must purchase web hosting services. You should review the privacy policy of the web hosting company you choose, which typically is available on that web hosting company’s main site landing page. We’re not responsible for the privacy practices employed by any third parties.
+This Policy explains how and what data the Company collects and how the Company uses your personal data. This Policy also describes options the Company provides for you to access, update or otherwise take control of your personal data that the Company processes. If at any time you have questions about the Company practices or any of your rights described below, you may reach the Company Data Protection Team by contacting the Company at [privacy@boldgrid.com](mailto:privacy@boldgrid.com). This inbox is actively monitored and managed so that the Company can deliver an experience that you can confidently trust.
 
-### Information Collected or Received
+  2. ### Changes to the Privacy Policy:
 
-We collect information from you when you use the Software and Services to provide a meaningful, safe, efficient, and customized experience. We use this information to:
+As the Services may change from time to time, this Policy is expected to change as well. The Company reserves the right, in its sole discretion, to amend this Policy at any time, for any reason, which amendment(s) will be effective upon posting to our website. The date of the last revision to this Policy will be indicated by the “Last Updated” date located at the end of this Policy. Your use of the Services after such changes or modifications have been made shall constitute your acceptance of this Policy as last revised. If you do not agree to be bound by this Policy as last revised, do not use (or continue to use) the Services. In addition, the Company may occasionally notify you of changes or modifications to this Policy by e-mail. It is therefore important that you keep your account information accurate. The Company assumes no liability or responsibility for your failure to receive an e-mail notification if such failure results from an inaccurate e-mail address. 
+  3. ### Information That the Company Collects:
 
-  * improve the Software and Services,
-  * communicate with you about your orders, billing and payment (if you purchased content directly from the Site),
-  * provide targeted online marketing for the Software and Services, and
-  * alert you to new products, services and special offers that might specifically interest you.
+    1. **Personally Identifiable Information:** The Company may collect information (online, by phone or paper) that identifies you (“Personally Identifiable Information”) when you provide such information on the Company website(s) or social media website(s) or otherwise interact with the Company. The types of Personally Identifiable Information collected may include, but not limited to, Internet Protocol (IP) address, your name, address, phone number, birth date, billing and delivery information, e-mail address, information about you or your business, credit card, or other financial account information. 
+    2. **Non-Personal Data:** As you interact with the Company through our online resources, the Company may also collect information about your browsing history or certain other information that is not considered Personally Identifiable Information through your use of and visits to these resources through a variety of technologies, including, but not limited to, cookies, tags, beacons, Internet Protocol (IP) address, and other tools. “Cookies” are pieces of code or text placed on your computer when you browse a website. Cookies may be placed by the Company or our web analytics third party vendors or partners. “Tags” and web beacons refer to code scripts that are primarily used to track visitor activities by web analytics software. The types of non-personal data collected on the Company website(s) through the use of these, and other tools may include the search terms you used, new or returning user, browser information, computer type, operating system, internet service providers, website usage, referring/exit pages, platform type, date/time stamp, number of clicks, ads viewed, among other non-personal data (collectively, all of the foregoing data is considered “Non-Personal Data”). Additionally, Cookies, Tags and other tools placed by our web analytics third party vendors or partners may collect other information about you and your visits to websites and elsewhere on the Internet including, but not limited to, your industry, company size, among other Non-Personal Data. 
+  4. ### How the Company Uses and Shares Personally Identifiable Information:
+
+The Company strongly believes in both minimizing the data we collect and limiting its use and purpose to only that (1) for which the Company has been given permission, (2) as necessary to deliver the Services, or (3) as the Company might be required or permitted for legal compliance or other lawful purposes. 
+    1. **Use of Your Personally Identifiable Information.** Once collected, the Company may use your Personally Identifiable Information in a variety of ways including, but not limited to: 
+      * Provide service communications such as bill reminders, order confirmations, program registrations, and customer service messages
+      * Respond to your e-mails or online requests for products, services, or information
+      * Deliver and process surveys
+      * Processing your job application
+      * Personalize and improve the usability of the Company website(s)
+      * Fulfill and/or deliver the Services
+      * Share with certain other companies to offer you products and services that may be of interest to you as described below
+      * Tailor content, advertising and marketing to you
+      * Share with third parties as required by law or to protect the Company as described below
+      * Share your e-mail address as permitted under this Policy as described below in this Section
+      * Communicate with you
+      * Improve and optimize the operation and performance of the Services
+      * Diagnose problems with and identify any security risks, errors, or needed enhancements to the Services
+      * Detect and prevent fraud and abuse of our Services and systems
+      * Collecting aggregate statistics about use of the Services
+      * Understand and analyze how you use the Services and what products and services are most relevant to you
+    2. ### Transfer of personal data abroad.
+
+If you utilize the Services from a country other than the country where the Company servers are located, your communications with the Company may result in transferring your personal data across international borders. Also, when you call the Company, the Company may provide you with support from our locations which may be outside of your country of origin. In these cases, your personal data is handled according to this Policy. 
+    3. ### Sharing Your Personally Identifiable Information to Fulfill Service Requests and Perform Business Functions.
+
+When fulfilling service requests initiated by you, we may share your Personally Identifiable Information with certain third parties to fulfill the requests. We may also share such information with service providers that perform business functions for us. In such cases, the Company may share your Personally Identifiable Information. 
+    4. ### Sharing Your Personally Identifiable Information with Certain Other Companies.
+
+The Company may share Personally Identifiable Information, except for e-mail addresses, with certain other companies as part of the Company benefits offerings. 
+    5. ### Sharing Your Personally Identifiable Information When Legally Necessary or to Protect the Company’s Interests.
+
+The Company may disclose your Personally Identifiable Information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on the Company, including, but not limited to, compliance with legal, regulatory and law enforcement requests. In such instances, the Company cooperates with government and law enforcement officials and private parties to enforce and comply with the law. the Company will disclose any information about you to government or law enforcement officials or private parties as the Company, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (such as subpoena requests), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity the Company considers to be illegal or unethical. To the extent the Company is legally permitted to do so, the Company will take reasonable steps to notify you in the event that the Company is required to provide your Personally Identifiable Information to third parties as part of legal process; (b) protect and/or defend the rights or property of the Company; (c) protect the personal safety of the Company personnel or users of the public in appropriate circumstances; or (d) if the Company and/or its assets (or a portion of its assets) are sold, assigned, transferred, or merged or if the Company undergoes some other change including a change to its corporate form as part of a bankruptcy proceeding or otherwise, information may be transferred as part of that transaction or change. 
+    6. ### Sharing Your E-mail Address Pursuant to the Company Policy.
+
+We do not sell or rent e-mail addresses to anyone outside of the Company. The Company will also not share e-mail addresses to unrelated third-parties or affiliates. 
+  5. ### How to Manage the Sharing of Your Personally Identifiable Information:
+
+To request that your information be deleted, please email [privacy@boldgrid.com](mailto:privacy@boldgrid.com). 
+
+If you make a request to delete your personal data and that data is necessary for the products or services you have purchased, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements. 
+
+  6. ### How the Company May Use and Share Non-Personal Data:
+
+Through the use of various technological tools, the Company may collect Non-Personal Data to improve the usability of the Company website(s) and the Services and for other business reasons. The Company may share the Non-Personal Data collected with third parties or permit third parties to place tools like Cookies, Tags and web beacons, to collect additional Non-Personal Data when you browse the Company websites. The Company does not share Personally Identifiable Information with third parties with whom it shares your Non-Personal Data. Please note that you may be subject to the privacy policies of non-Company companies when you select an advertising link or other link that takes you to sites not operated by the Company. 
+  7. ### California and GDPR Privacy Rights:
+
+In addition to the rights as explained in this Policy, under California’s “Shine the Light” law and/or the European General Data Protection Rules (GDPR), the Company members or non-Company users who provide personal information (as defined in the Shine the Light statute and/or the GDPR) in obtaining products or services for personal, family, or household use are entitled to request and obtain from the Company, once a calendar year, information about the personal information it shared, if any, with other businesses for marketing uses. If applicable, this information would include the categories of personal information and the names and addresses of those businesses with which the Company shared such personal information for the immediately prior calendar year (e.g., requests made in 2018 will receive information about 2017). To obtain this information please send your request to (please include your full name and address, domain name(s)): 
+
+**BOLDGRID  
+Attn: Data Protection Team  
+3629 Sentara Way  
+Virginia Beach, VA 23452 **
+
+  8. ### Canada Anti-Spam Law (CASL) and GDPR:
+
+Non-Company users who have provided the Company a Canadian or European Union mailing address will not receive unauthorized Commercial Electronic Messages (CEMs) as defined under CASL and GDPR unless these individuals have opted-in to receive CEMs. To easily access, view, update, delete or port your personal data (where available), or to update your subscription preferences, please sign into your Account Management Panel. If you are a resident of the European Union Economic Area and believe we maintain your personal data subject to the GDPR, you may direct questions or complaints (however, we still recommend that you contact us first) to our lead supervisory authority, the UK’s Information Commissioner’s Office, as noted below: 
+
+**www.ico.org.uk  
+Information Commissioner’s Office  
+Wycliffe House, Water Lane  
+Wilmslow, Cheshire, SK9 5AF  
+United Kingdom  
+Phone: 0303 123 1113 **
+
+  9. ### Data Retention:
+
+We may retain your Personally Identifiable Information (as well as your Users-of-Users’ Information) for as long as your account is active, as indicated in this Privacy Policy or as otherwise needed to provide you with our Services. We may continue to retain such Personally Identifiable Information even after you deactivate your account and/or cease to use any particular Services, as reasonably necessary to comply with our legal obligations, to resolve disputes regarding our Users or their Users-of-Users, prevent fraud and abuse, enforce our agreements and/or protect our legitimate interests. We maintain a data retention policy which we apply to information in our care. Where your Personally Identifiable Information is no longer required we will ensure it is securely deleted. 
+  10. ### Age Restrictions:
+
+Our Services are not permitted to children under 18 years of age. No one under age 18 should provide any Personal Information to us through any of our Services. We do not knowingly collect Personal Information from children under 18. Parents and guardians should supervise their children’s activities at all times. If you know of or have reason to believe anyone under the age of 18 has provided the Company with any personal data, please contact us at [privacy@inmotionhosting.com ](mailto:privacy@inmotionhosting.com). 
+  11. ### Information Security:
+
+The Company implements commercially reasonable security measures to help protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. The Company restricts access to personal information to certain companies who may need to know that information in order to operate, develop, or improve the Services. These individuals or partner organizations are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, the Company cannot guarantee or warrant the security of any information you transmit to the Society, or to or from the Company online products or services. If you have questions about this Policy, please contact us. 
+  12. ### User ID and Password:
+
+Certain areas of the Company website(s) may require the use of a user ID, e-mail address or password, as an additional security measure that helps protect your information. To help you protect your privacy, the Company website(s) has tools to help you log in and log out. 
+  13. ### Linking to Other Internet Sites:
+
+You should be aware that other Internet sites that are linked from the Company websites or from Company e-mail message may contain privacy provisions that differ from the provisions of this Policy. To ensure your privacy is protected, we recommend that you review the privacy statements of these other linked sites, applications, or other digital platforms. 
+  14. ### How You Can Access and Change Information:
+
+If you are a registered user of the Company website(s) or purchaser of the Services, you may review and update/correct your account profile information directly on the Company’s website ([www.boldgrid.com](https://www.boldgrid.com/)) or by contacting us at [privacy@boldgrid.com](mailto:privacy@boldgrid.com). 
+  15. ### Contact Us:
+
+If you have any questions, concerns or complaints about this Policy, our practices or our Services, you may contact us by mail at Attn: Data Protection Team, 3629 Sentara Way, Virginia Beach, VA 23452, by email at [privacy@boldgrid.com](mailto:privacy@boldgrid.com). We will attempt to resolve any complaints regarding the use of your Personally Identifiable Information in accordance with this Privacy Policy. We will respond to all requests, inquiries or concerns within thirty (30) calendar days. 
 
 
 
-1\. **Information you provide.** In order to activate your subscription you must provide a valid email address and your name. We use this information to fulfill your orders and to contact you regarding new products, special offers and functionality changes to the Software and Services.
-
-2\. **Additional information you provide if paying.** In order to purchase content, you must provide your credit card. We collect your credit card information only through www.boldgrid.com (not by telephone or email). The credit card information is encrypted and transmitted according to strict industry standards. We use the information listed above for billing purposes, to fulfill your orders and to contact you regarding new products, special offers and functionality changes to the Software and Services.
-
-3\. **Information we automatically collect or receive.**
-
-a. **BoldGrid plugins.** Through the BoldGrid plugins, we receive this information about your site: your web host, the IP address of your hosting account, system information about your hosting account, domain, pages, menus, your primary admin user name and your primary admin email address. We do not collect admin passwords or email address passwords. We also receive information about the types of functionality of BoldGrid you are using and the way you use this BoldGrid functionality to configure your site. We use this information to improve the Software and Services and to contact you regarding new products and special offers.
-
-b. **Information from hosting affiliates.** Through your web hosting company we may receive your email address and name. Your web hosting company also may give us information needed to allow you to purchase content through BoldGrid, such as the currency balance available to you. This purchasing information does not include credit card information.
-
-4\. **No information about viewers of your own site.** We do not collect any information about the way other people view or use your own site. We do not track individual viewers of your site or individuals who post to your site. For example, we do not collect any information about pages viewed or items purchased by visitors to your site. Unless you make it publicly available, we will not be able to see the content uploaded to your site. However, even if it is publicly available we do not track your site content.
-
-### How We May Disclose the Information We Collect or Receive
-
-Information we collect from you may be either personal or aggregate. Aggregate information is summary data of the behaviors and interests of groups or categories, so it won’t identify you. Personal information is identifiable to you, like your name, email address, billing addresses, credit card information, and phone number.
-
-1\. **Aggregate Information.** We use aggregate information for the purposes of internal business research, for marketing and for sales. We may share aggregated information about our customer base with any interested party by publishing it on the Internet and in printed materials. This information may include the number of active users of the Software and Services, the number of websites created using the Services, and popular BoldGrid features and templates. We do not link aggregated data with your personal information.
-
-a. **Disclosures to BoldGrid consultants and third party vendors.** Like most online businesses, we use third parties to help ensure our business runs smoothly. We disclose your information to these third party companies so they can perform their specific functions for us. For example, we may provide your credit card information to third party credit card processors to help us process your orders with us. We also provide your email address and name to third parties who manage email campaigns on our behalf. When we employ other companies to perform functions of this nature, we only disclose the information that they need to perform their requested function. We do not authorize them to retain, share, store, or use personal information provided by us for any other purpose.
-
-b. **Disclosures to your web host.** We share information about the way you have built your site and how your own site functions with your sponsoring web host. The information we share is: plugins used, progress made and other utilization information. We share this information in order to identify issues with the way your own site performs and to contact you to offer you assistance with these issues. We also use this information to help us decide when to update or retire certain BoldGrid features and functionality.
-
-c. **Disclosures required by law or otherwise.** We may disclose your personal information if we believe, in good faith, that it’s necessary to: (1) comply with a legal obligation such as in response to a court order or subpoena; (2) protect the safety of fellow customers or the public; (3) protect against legal liability; or (4) protect and defend our rights or property.
-
-d. **Disclosures for a business transaction or Insolvency.** We may also disclose your personal information in connection with an actual or proposed corporate transaction or insolvency proceeding involving all or part of BoldGrid’s business or assets. For example, if we merge with another company, we may disclose your personal information to that company, but the disclosure would be subject to our Privacy Policy.
-
-### How You Can Control Your Personal Information
-
-**Deactivate and Delete.** You can prevent BoldGrid from using your personal information by deactivating and deleting the BoldGrid plugins. Deactivation of your account does not cause your personally identifiable information to be deleted from our database entirely. BoldGrid will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
-
-### How We Protect Your Personal Information
-
-  * We use technical, physical and administrative safeguards to protect data.
-  * We restrict access to your personal information to only those BoldGrid employees who need it to perform a specific job function.
-  * We require all BoldGrid employees with access to your personal information to follow specific practices concerning its proper handling.
-  * We hold our vendors who need access to your personal information to strict confidentiality requirements.
-  * We backup our servers constantly. (You access these servers when you use our Software and Services, and we store your personal information on these servers.)
-  * We use third-party service providers to assist us with the physical security of some of our servers and other computer hardware.
-  * We host our servers at locations in the United States which are private and secure data center facilities, behind physical and virtual firewalls.
-
-
-
-But please remember, while we use industry-standard precautions to safeguard your personal information, we can’t guarantee absolute security. We wish we could, but 100% security just doesn’t exist anywhere online or off.
-
-### Children’s Privacy
-
-We respect children’s privacy. The Software and Services are not intended for use by persons under the age of 13. If you’re under 18 years old, please do not submit any personal information to us without the consent and supervision of a responsible parent or legal guardian.
-
-### Data Retention
-
-BoldGrid will retain your information as long as we deem necessary. You may inform us of any changes or requests in regards to your personal data, and in accordance with our obligations under local data protection law, we will use all reasonable means to update or delete your personal data accordingly. Please email BoldGrid support at [privacy@boldgrid.com](mailto:privacy@boldgrid.com). You should not expect that all of your information will be completely removed from our databases in response to your request. BoldGrid will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
-
-### Transfers of Data Abroad
-
-We store your information on servers located in the United States. If you use our Software or Services or communicate with us electronically from a location outside the United States then your communications with us will result in the transfer of information across international boundaries. By using the Software or Services or communicating with us electronically you consent to such transfers.
-
-### Updates to This Privacy Policy
-
-We provide a permanent link to this Privacy Policy in your BoldGrid settings. We will display any changes and updates to this Privacy Policy so you can always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy periodically so you’ll know if it has been changed or updated.
+Revised: May 24, 2018
