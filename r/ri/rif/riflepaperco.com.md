@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riflepaperco.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021122316id_/https%3A//riflepaperco.com/help/%23privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riflepaperco.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201135455id_/https%3A//riflepaperco.com/help/%23privacy-security) for the most accurate reproduction.*
 
 # Help | RIFLE PAPER Co.
 
@@ -8,28 +8,31 @@
 
 #### [Faq](https://riflepaperco.com/faq/)
 
-Our highest priority is to provide quality products and excellent personal service to our valued customers. We try to be easily accessible, addressing all requests and concerns as efficiently as we can. We are looking to build life-long relationships with our customers, and hope that you will be one of them. Please let us know if there is anything we can do to improve our service.
+Our highest priority is to provide quality products and excellent personal service to our valued customers. We try to be easily accessible, addressing all requests and concerns as efficiently as we can. We are looking to build life-long relationships with our customers, and hope that you will be one of them. Please let us know if there is anything we can do to improve our service.  
 
 ## Returns & Exchanges
 
   1. ### Make Sure Your Order Qualifies
 
+Pillows, personalized orders, and made-to-order frames are not eligible for returns.
+
+To learn more or to authorize a return for rugs, wallpaper, or fabric please contact help@riflepaperco.com.
+
 Orders may be returned so long as:
 
-    * The order is new, unused/unworn, and unopened
-    * The order is returned within 15 days of receipt
+    * The order is new, unused/unworn, and in the original packaging
+    * The order is returned within 15 days of receipt
     * The order was not purchased on final sale
-
-__Personalized, made to order frames,_  fabric, and other custom products are subject to a different return policy. Please [contact us](https://riflepaperco.com/contact/) if you are unsure whether your order qualifies for a refund._
-
   2. ### Return Your Order & Packing Slip
 
-Send your order, along with its original packing slip, to:
+With the exception of rugs and wallpaper, please send your order and its original packing slip, to:
 
-> **RIFLE PAPER CO.  
->  **Attn: Returns  
->  133 Atlantic Drive Nº 1020  
->  Maitland, FL 32751 USA
+RIFLE PAPER CO.  
+Attn: Returns  
+140 Atlantic Drive  
+Maitland, FL 32751 USA
+
+Any order returned to the wrong address (i.e. the address not provided in the return form) will incur a rerouting fee subtracted from the refund.
 
 If you are looking to make an exchange for an item of equal or lesser value, please note which item(s) you would like to receive on your original packing slip.
 
@@ -37,50 +40,46 @@ Please keep the tracking number and any other relevant shipping information in t
 
   3. ### Await Credit
 
-Once a qualified refund is received we will process your refund as soon as possible. The charges placed on your card will be credited to you, though shipping costs are non-refundable.
+Once a qualified return is received we will process your refund as soon as possible. The charges placed on your card will be credited to you, excluding non-refundable shipping costs. Rugs are subject to a restocking fee.
 
-_Please note that refunds may take up to ten (10) business days to show on your account  due to varying processing times between payment providers. If for any reason you do not receive the credited amount within that time frame, please feel free to [contact us](https://riflepaperco.com/contact/)._
+Please note refunds may take up to ten (10) business days to show on your account due to varying processing times between payment providers. If for any reason you do not receive the credited amount within that time frame, please feel free to [contact us](https://riflepaperco.com/contact/).
 
 
 
 
 ## Shipping / Payment
 
-Payment Methods
-    
-
-At this time we are accepting Visa, Mastercard, American Express and Discover. If you would like to get in touch with us about a different billing method please feel free to [contact us](https://riflepaperco.com/contact/ "Contact"). Payments are processed by _Square_ or _Paypal_ , depending on the option selected during checkout.
-
-Sales Tax
-    
-
-We are not required to collect sales tax on any orders outside the states of Florida and New York.
-
 Shipping & Fulfillment
     
 
-Rifle Paper Co. currently ships all orders with either FedEx or USPS from our shipping and fulfillment warehouse in Maitland, FL.
+Rifle Paper Co. currently ships all orders with either FedEx or USPS from our shipping and fulfillment warehouse in Maitland, FL  with the exception of a few items. Rugs and pillows will ship from Dallas, TX and wallpaper will ship from Hudson, WI.
 
 International Shipping
     
 
 We currently offer FedEx options for international orders. Rifle Paper Co. is not responsible for any customs fees or duties incurred on international shipments as these are the responsibility of the purchaser. We strongly recommend using International First or Priority methods if you need your package to arrive in a time sensitive manner. Please note, however, even with these shipping methods, transit times may vary due to customs delays. International Standard, while an affordable method, may vary in transit time and reliability depending on your own country's postal system.
 
+At this time, we are only able to ship rugs and pillows to the United States, US Territories, and Canada.
+
+Rug Shipping & Restocking Fees
+    
+
+Each rug in your order ship individually and incur its own shipping fee. Should you wish to return your rug, an equal restocking fee will apply. Please note, return shipping costs will be the responsibility of the customer.
+
+Domestic shipping and restocking fees are:
+
+Over $900 | $75  
+---|---  
+$250–$900 | $35  
+$75–$250 | $15  
+Up to $75 | $10  
+  
+Signature required upon delivery for all rug orders excluding PO Boxes and APO/FPO. At this time, we are only able to ship rugs and pillows to the United States, US Territories, and Canada.
+
 Personalized Order Processing
     
 
 Personalized orders typically take about 2–3 weeks to process and ship. If your order is time sensitive please [contact us](https://riflepaperco.com/contact/) before placing your order. If you order additional store products they will be shipped at the same time as the personalized goods. Please see the product descriptions for more information.
-
-Returns & Exchanges
-    
-
-Unused and unopened orders may be returned within 15 days of receipt for a refund. Once we receive the returned item(s) the charges will be credited to you (though shipping costs are non-refundable). Used, opened, and/or final sale items cannot be returned. This does not apply for personalized orders.
-
-Personalized orders are non-refundable after order confirmation. Upon final approval of your personalized order we cannot accept returns due to any and all errors (such as misspelled words etc.). By approving your final proof you accept responsibility for the information and layout as shown. If errors are discovered after proof approval, we are required to charge for a reprint.
-
-Made to order frames are non-refundable and cannot be exchanged. If you have questions about your frame order, please contact us right away.
-
-Fabric orders are non-refundable and cannot be exchanged. If you have questions about the fabric, please contact us right away.
 
 Lost Packages
     
