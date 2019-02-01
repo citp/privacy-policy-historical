@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadetab.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201185634id_/http%3A//arcadetab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadetab.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202003450id_/http%3A//arcadetab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy arcadetab.com
 
@@ -9,8 +9,6 @@ Arcade Tab
 **Play Classic Arcade Games in your browser for free with ArcadeTab**
 
 * * *
-
-**Last Updated May 23, 2018**
 
 **Last Updated May 23, 2018**
 
