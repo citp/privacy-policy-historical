@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followupthen.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001160943id_/https%3A//www.followupthen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followupthen.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201080407id_/https%3A//www.followupthen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FollowUpThen
 
@@ -8,7 +8,9 @@ Welcome to the website (the " **Site** ") of FollowUpThen, Inc. (" **FollowUpThe
 
 #### A Note About Email Content:
 
-Our Service allows users to forward emails to our Service for the purpose of setting automated reminders associated with those emails. We recognize that your emails may be very private, and we take special care with them. For example, we encrypt the message body of these emails using industry-standard methodologies for long-term storage on our servers. We store the content of these emails for the period of time required in order to send you the requested reminder. After the requested reminder period has expired and the Service has sent the reminder, we delete the message body, message text and attachments from our servers within six (6) weeks. For example, if you forward an email to 5months@followupthen.com, we retain the complete email information for five (5) months plus six (6) weeks (providing the followup was not postponed). In the rare event that the content of an email interferes with the operation of the Service (ie, due to a bug), the problematic email may be temporarily logged in full for the purposes of debugging. With respect to other email-related information, we retain the subject heading of these emails for the sole purpose of performing internal quality assurance and de-bugging and providing records of followups sent and received on users’ account pages. We also retain certain non-personally identifiable information related to these emails (for example, date sent, email configuration, name of the email provider), for the purpose of improving our Services and as described below in the "Non-Identifiable Data" section. 
+Our Service allows users to forward emails to our Service for the purpose of setting automated reminders associated with those emails. We recognize that your emails may be very private, and we take special care with them. For example, we encrypt the message body of these emails using industry-standard methodologies for long-term storage on our servers. We store the content of these emails for the period of time required in order to send you the requested reminder. After the requested reminder period has expired and the Service has sent the reminder, we delete the message body, message text and attachments after a "reminder retention period", when the user can choose to postpone the reminder until a later date. The retention period is variable based on the account level, ranging between 2 weeks (for free accounts) and 6 months for "Company" accounts. For example, if you are on the free plan and forward an email to 5months@followupthen.com, we retain the complete email information for five (5) months plus six (2) weeks. Postponing the followup will extend the length of time the data persists in our system. 
+
+In the rare event that the content of an email interferes with the operation of the Service (ie, due to a bug), the problematic email may be temporarily logged in full or otherwise viewed for the purposes of debugging. With respect to other email-related information, we store the subject heading of these emails unencrypted for the sole purpose of performing internal quality assurance and de-bugging. We also retain certain non-personally identifiable information related to these emails (for example, date sent, email configuration, name of the email provider), for the purpose of improving our Services and as described below in the "Non-Identifiable Data" section. 
 
 #### Information We Collect:
 
@@ -16,11 +18,7 @@ When you interact with us through the Services, we may collect Personal Data and
 
   * **Personal Data That You Provide Through the Services:**
 
-We collect Personal Data (like name, email address and telephone number) from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the FollowUpThen Services or use certain FollowUpThen Services. Wherever FollowUpThen collects Personal Data, we make an effort to provide a link to this Privacy Policy. 
-
-  * **Personal Data of Non-Users:**
-
-The Service may allow users to enable reminders for the people with whom they communicate. As part of this service, we will collect the email address(es) provided by our users in order to provide this feature. We use the email addresses of non-users only in connection with providing the requested feature (for example, to send the reminder as requested by one of our users). If you are not a user of our Service and do not wish to receive a reminder from the Services, please click the opt out link in the reminder email that you receive. If you do opt-out, we will keep your email address on file for the sole purpose of ensuring we never contact you without your permission. If you do not opt out from the reminder, then we will delete your email address and the applicable email within the time period described above in the Section called “A Note About Email Content.” 
+We collect Personal Data including name, email address telephone number, mailing address phone number, credit card number, username and password when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the FollowUpThen Services or use certain FollowUpThen Services. Our customer relationship tools (ie, Intercom.io) make use of your IP address and email address to automatically discover your social media profiles and approximate location. We use this data to provide better, more personalized support or to contact you with relevant information about FollowUpThen. Where FollowUpThen collects voluntary Personal Data we make an effort to provide a link to this Privacy Policy. 
 
   * **Personal Data of Non-Users:**
 
@@ -52,9 +50,17 @@ In an ongoing effort to better understand and serve the users of the FollowUpThe
 #### Our Use of Your Personal Data and Other Information:
 
 FollowUpThen uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to send you a reminder, answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to (for example, by accessing your account settings) or use (for example, by setting or modifying reminders) the FollowUpThen Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. FollowUpThen and its subsidiaries and affiliates (the “FollowUpThen Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the FollowUpThen Services. FollowUpThen and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you, as well as communications (such as newsletters) about FollowUpThen and the Service. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.   
-As previously mentioned, email content is encrypted in our database, however, in the course of providing system administration, debugging and suppport, it may be necessary for a FollowUpThen staff member to view unencrypted content or login under a user's account to provide this support. Such interactions are limited to only technical support and system administration instances.   
+As previously mentioned, email content is encrypted in our database, however, in the course of providing system administration, debugging and support, it may be necessary for a FollowUpThen staff member to view unencrypted content or login under a user's account to provide this support. Such interactions are limited to only technical support and system administration instances.   
 If your Personal Data is provided by others using the Service, your Personal Data is used only in connection with the Services (for example, to provide you with the reminders others schedule for you).   
 If FollowUpThen intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected. 
+
+#### Deleting Your Account
+
+FollowUpThen provides a link for you to delete your account. This action permanently removes your data from our database including your tasks, account information and data stored with 3rd party vendors, for example our credit card processor. Your account will remain in archival database backups, used only for disaster recovery scenarios, until the backup has been purged as a natural part of our backup retention policy. Logs, which contain ip addresses and email headers (including to, cc, bcc and subject fields) are purged 4 weeks after deleting your account. 
+
+#### Export Your Data
+
+FollowUpThen a link in your account settings to export your followups as portable, open CSV file. We respect your right to choose the best tool for email reminders.
 
 #### Our Disclosure of Your Personal Data and Other Information:
 
@@ -70,7 +76,7 @@ We may also share your Personal Data with the FollowUpThen Related Companies for
 
   * **Agents, Consultants and Related Third Parties:**
 
-FollowUpThen, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another FollowUpThen to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+FollowUpThen, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. FollowUpThen, employees and contractors that are required to have full access to the system (ie, DevOps) are carefully interviewed and vetted over a period of time before they are permitted access.
 
   * **Legal Requirements:**
 
@@ -107,7 +113,7 @@ FollowUpThen does not knowingly collect Personal Data from children under the ag
 
 FollowUpThen provides optional connections to 3rd party services via the "Connected Services" settings page. By signing up for a connected service, or authorizing it to act on your personal information, you are creating a separate agreement with that company and should take the time to understand their privacy policy. The action of using the connected service is treated as an acceptance of the terms of their terms of use and privacy policy. 
 
-**Context.IO** FollowUpThen provides certain user accounts with the option to connect their email inboxes to Context.IO in order to provide additional productivity features in FollowUpThen. By connecting your email inbox to ContextIO, you are agreeing to their [privacy policy](https://returnpath.com/data-privacy-policy/) which includes sharing Personal Information with those who provide the Context.IO service: DokDok, Inc. and its parent company, Return Path, Inc. and their affiliates (collectively “Context.IO Providers”). Context.IO Providers may access and use your Personal Information to carry out work on our behalf (such as monitoring your inbox for a reply to a specific message so that it can be canceled). If you wish to opt out of sharing your information with Context.IO Providers, you may do so by going to <https://optout.context.io/>. 
+**Context.IO** FollowUpThen provides certain user accounts with the option to connect their email inboxes to Context.IO in order to provide additional productivity features in FollowUpThen. By connecting your email inbox to ContextIO, you are agreeing to their [privacy policy](https://returnpath.com/data-privacy-policy/) which includes sharing Personal Information with those who provide the Context.IO service: DokDok, Inc. and its parent company, Return Path, Inc. and their affiliates (collectively “Context.IO Providers”). Context.IO Providers may access and use your Personal Information to carry out work on our behalf (such as monitoring your inbox for a reply to a specific message so that it can be canceled). FollowUpThen subscribes to the paid Context.io plans, thereby opting out our users from sharing anonymous data with Return Path, Inc. To interact with Context.io and your email inbox, FollowUpThen stores a token that permits access to all messages in your email inbox. This token is used only, however, to detect the arrival of email messages and their corresponding message-ids. 
 
 #### Links to Other Web Sites: 
 
@@ -132,6 +138,6 @@ Please also feel free to contact us if you have any questions about FollowUpThen
 
 You may contact us as follows:  
 FollowUpThen, Inc  
-4040 Moorpark Ave, St 110  
-San Jose, CA 95117  
+1101 South Winchester Ave, St E-157  
+San Jose, CA 95128  
 help@humans.fut.io
