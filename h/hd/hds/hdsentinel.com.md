@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdsentinel.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214214603id_/http%3A//www.hdsentinel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdsentinel.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201220859id_/https%3A//www.hdsentinel.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy and information use
 
@@ -20,7 +20,7 @@ We encourage you to review the privacy policy of any company before submitting y
 
 ### 3\. Cookie Policy
 
-Information about our usage of cookies, especially for marketing purposes, can be found in our [Cookie Policy](https://web.archive.org/web/20181214214603id_/http%3A//www.hdsentinel.com/cookie-policy.php).
+Information about our usage of cookies, especially for marketing purposes, can be found in our [Cookie Policy](https://web.archive.org/web/20190201220859id_/https%3A//www.hdsentinel.com/cookie-policy.php).
 
 ### 4\. Information Collection and Use
 
