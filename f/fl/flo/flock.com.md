@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flock.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921235809id_/https%3A//support.flock.com/hc/en-us/articles/115004312874-Flock-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flock.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201125738id_/https%3A//support.flock.com/hc/en-us/articles/115004312874-Flock-Privacy-Policy) for the most accurate reproduction.*
 
 # Flock Privacy Policy – Flock
 
 **1\. Background**
 
-**1.1.** www.flock.com (“Website”) and the mobile apps, web interfaces, APIs, documentation, servers and all other Intellectual Property, software and infrastructure (individually referred to as “Flock Product” and collective as “Flock Suite” are owned, registered and operated by Riva FZC ("Company"), a company, incorporated under the laws of the United Arab Emirates and having its corporate office at F-19, Business Center 1, Business Park. RAKEZ, Ras Al Khaimah, UAE.
+**1.1.** www.flock.com (“Website”) and the mobile apps, web interfaces, APIs, documentation, servers and all other Intellectual Property, software and infrastructure (individually referred to as “Flock Product” and collective as “Flock Suite” are owned, registered and operated by Flock FZ-LLC ("Company"), a company, incorporated under the laws of the United Arab Emirates and having its corporate office at F-19, Business Center 1, Business Park. RAKEZ, Ras Al Khaimah, UAE.
 
 **1.2.** This Privacy Policy covers: (i) the type of information collected from the users through the Website, the Flock Products and the Flock Suite, including sensitive Personal Data or information; (ii) the purpose, means and modes of usage of such information; and (iii) how and to whom such information which has been collected will be disclosed.
 
@@ -216,7 +216,7 @@ We adopt market leading security measures to protect Personal Data.
 
 You may contact us at our mailing address below:
 
-Riva FZC, Business Center,   
+Flock FZ-LLC, Business Center,   
 Business Park, RAK Economic Zone,   
 Ras Al Khaimah, United Arab Emirates
 
