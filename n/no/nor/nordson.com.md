@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nordson.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202064334id_/http%3A//nordson.com/en/our-company/ethics-and-compliance/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordson.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201041640id_/https%3A//www.nordson.com/en/our-company/ethics-and-compliance/privacy-statement) for the most accurate reproduction.*
 
 # General Privacy Policy | Nordson Corporation
 
