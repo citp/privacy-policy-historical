@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizbox.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202121434id_/http%3A//www.quizbox.com/contact/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizbox.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201024434id_/http%3A//www.quizbox.com/contact/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,4 +41,4 @@ From time to time, we may change our Privacy Policy. We will post those changes 
 
 ### Who to contact
 
-Please visit our [contact information](https://web.archive.org/contact) page. If you're interesed, you may want to learn more [about us](https://web.archive.org/web/20181202121434id_/http%3A//www.quizbox.com/contact/about.aspx). 
+Please visit our [contact information](https://web.archive.org/contact) page. If you're interesed, you may want to learn more [about us](https://web.archive.org/web/20190201024434id_/http%3A//www.quizbox.com/contact/about.aspx). 
