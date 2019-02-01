@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the time4learning.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026230810id_/https%3A//www.time4learning.com/curriculum/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time4learning.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201102025id_/https%3A//www.time4learning.com/curriculum/privacy.html) for the most accurate reproduction.*
 
 # Time4Learning Privacy Policy | Time4Learning
 
-## Updated: July, 2016
+## Updated: February, 2018
 
 At Time4Learning, we consider children’s safety to be all-important. Our website, [www.Time4Learning.com](https://www.time4learning.com/), is designed to comply with state and federal regulations enacted to protect the privacy of children and ensure the security and confidentiality of student data, including, but not limited to, the [Children’s Online Privacy Protection Act (“COPPA”)](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule). The following Privacy Policy describes our policies and procedures relating to the use of our site, our commitment to privacy, and the access and use of data.
 
@@ -21,6 +21,10 @@ Parents or legal guardians registering with the site are asked to provide an ema
 ### Display of Registrant Information
 
 Information regarding students, parents or legal guardians registered with Time4Learning is not viewable or searchable by people or automated systems, such as the automated indexing software utilized by Google, Yahoo, and Bing, on our website.
+
+### Google API Services
+
+Time4Learning uses Google API Services to collect email addresses for the purposes of allowing members to refer the Time4Learning curriculum to friends or family members within their Google contacts. Any Google user data that Time4Learning collects through Google API Services is only used for such purposes and deleted after such use.
 
 ### Collection, Use, Storage and Disclosure of Student Information
 
