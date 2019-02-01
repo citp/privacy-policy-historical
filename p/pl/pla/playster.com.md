@@ -1,120 +1,151 @@
-> *The following text is extracted and transformed from the playster.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125061827id_/http%3A//www.playster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playster.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201220747id_/https%3A//www.playster.com/us/en/legal/privacy) for the most accurate reproduction.*
 
-# playster.com - Privacy Policy
+# Playster - Privacy Policy
 
-## Privacy Policy
+_Effective as of May 25, 2018_
 
-Playster LLC ("Playster") operates a variety of web sites ("Web Site" or "Site") including www.Playster.comand is committed to protecting the privacy of our Web Site users ("Users") and Playster LLC members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. Playster LLC will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
+Playster is committed to protecting the privacy of our users and members. The Site and the Application are, offered to you by Playster Corporation (“Playster”, “we”, “our” or “us”).
 
-Playster LLC defines personal information as information about an individual that enables someone to identify or contact a person and includes, among other things, a person's full name, address, telephone number and e-mail address, as well as other information we maintain about a person in identifiable form in combination with one of the foregoing identifiers, such as account history, financial information, titles rented or purchased or categories of products rented or purchased. Categories of personal information that we collect include, for example:
+To provide you with the best possible service, Playster needs to collect some information about you. In the following paragraphs, this Privacy Policy (the “Policy”) will describe and explain our policy and procedure regarding the collection, processing, treatment, use and disclosure of your information, including certain information that may identify you (“Personal Data”), when you use our [www.Playster.com](https://www.playster.com/) (the “Site”), sign-in as a user, use our services, features, content or applications, including the Playster mobile application (the “Application”), or interact with us in other ways (collectively, with the Site and the Application, the “Services”).
 
-  * Basic identifying information such as e-mail address and first and last names
-  * Security information such as password
-  * Contact information such as address
-  * Billing information such as credit card, expiration date, billing address and account history
-  * Site preferences such as game categories you frequently browse
-  * Ratings and reviews of games
-  * Lists of games, such as for online subscription, rental or purchase
-  * E-newsletter selections and preferences
-  * Direct marketing contact preferences
-  * Rental and purchase history
-  * Sweepstakes entries
-  * Complaints, questions and information submitted to customer service agents or similar individuals either in person, by phone, by e-mail or by entry on a Site
-  * Site behavior such as pages visited or searches requested
-  * Browser information such as browser version, connection speed, IP address and the presence of various related plug-ins and tools such as media players
+### What does this Policy cover?
+
+This Policy explains how we may collect, store, use or otherwise process your information, including your Personal Data. We respect your privacy and will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. In addition to this Privacy Policy, we may choose to notify you of other privacy policies which could apply upon the collection or sharing of your personal data.
+
+More specifically, this Policy will explain:
+
+  * the type of information we may collect about you;
+  * how we use the information we collect;
+  * when we may use the information you provide to contact you;
+  * the circumstances under which we may disclose your details to a third party; and
+  * the rights you may have regarding your information.
 
 
 
-## When Does Playster LLC Collect Personal Information?
+This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications (“Third Party Services”) that you may gain access to through the Services or to individuals that we do not manage or employ.
 
-Playster LLC collects personal information from you when you voluntarily submit that information to Playster LLC, for example: when you register on a Site; sign up for a subscription service; register for our e-newsletter service; participate in one of our sweepstakes, contests, or surveys; respond to an offer; purchase or rent products; or request to be on a mailing list. After you have registered your e-mail address on the Site and if you have clicked "Remember Me" or signed in to the Site, Playster LLC collects Site behavior and browser information as you navigate through the Site. This information may be used to create a profile that we keep on individual Users that details their preferences, personal information and behavior. Consequently, collected information is tied to the User's personally identifiable information and may be used to provide offers and improve the content of the Site for the User. This profile may also be used to tailor a User's visit to our Web Site, and to direct pertinent marketing promotions to them.
+When you click on a third party logo displayed on or in the Services, and it links you to a different website or application, you are acknowledging that our Privacy Policy no longer applies to that website or application. You must read the privacy policies of the Third Party Services to see how your personal information will be handled on such Third Party Services.
 
-## What Happens When I Register On The Web Site?
+While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. Accordingly, we encourage you to carefully review the privacy policies of any Third Party Services you access.
 
-In order to use certain features of this Web Site, a User must first complete a registration process. During registration a User is required to provide basic contact information (such as name and e-mail address) and establish a password. Depending on the feature being used, the User may be required to provide other information associated with the use of that particular feature. For example, a User signing up for our subscription service will be required to provide an address for proof of location and financial information in the form of a credit card and expiration date for billing purposes,licensing porposes and future charges. Users signing up for our e-newsletter service may enter the types of games or games in which they are interested and about which they wish to receive information in the newsletter.
+### What information do we collect?
 
-## What Happens When I Place An Order On The Web Site?
+To enable us to personalize, improve and continue to operate our Site and Service, we may receive and store the following information about you:
 
-Certain features of the Web Site do not require registration but may still require personal information to be entered, such as placing an order for a product. We request information from the User during the ordering process. For example, a User will be required to provide contact information (such as name, e-mail, and shipping address) and financial information (such as credit card and expiration date). This information is used for billing purposes and to fill Users' orders. If we have trouble processing an order, the information is used to contact the User.
+Direct Identifying Information/ Profile Data: This includes your name, address, email address, username and password, as well as any additional information you provide us with when registering for our services.
 
-## Does Playster LLC Use Cookie Technology?
+Indirect Identifying Information: We automatically receive and record certain information from your device or web browser when you interact with our sites, e.g. your internet protocol (IP) address, mobile device ID, time zone setting, location data, language preference, operating system and platform. We may also create a user ID that may be used similarly to identify you indirectly.
 
-Playster LLC uses cookie technology to make your use of the Sites more convenient and to support our internal business purposes. A cookie is a piece of information that is transferred to a User's hard drive for record-keeping purposes. For example, Playster LLC uses cookies to remember your e-mail address so that you will not have to re-enter this information each time you visit the Site. Playster LLC also uses cookies to help track referrals from third party web sites. Most browsers are initially set up to accept cookies, but you can set up your browser to alert you every time a cookie is offered, letting you decide whether or not to accept it. You can use and visit the Site with cookies disabled, but you will not automatically be recognized by the Site upon re-visiting. However, cookies allow you to take full advantage of some of our Sites' best features, so we recommend that you leave them turned on.
+Payment Information: In order for you to register for our and Services or make purchases on our Site, we will need to collect your credit card details.
 
-## What Other Mechanisms Does Playster LLC Use to Track User Behavior?
+Location Data: To assist with our analytics and to provide you with a more tailored service, we may collect data which tells us where you are. We may also collect the language option or country you choose. We may link location data to other information we have collected about you.
 
-Some Site web pages and HTML-formatted e-mails and e-newsletters use web beacons to compile statistics about Web Site usage. A web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some web beacons unusable by rejecting their associated cookies. 
+Marketing and Communications Data: This may include information about your subscriptions to newsletters and your marketing preferences.
 
-Playster LLC and its third party vendors use web beacons to track and analyze non-personally identifiable usage information and to compile statistical information about our Users in order to improve the Web Site's quality and to support our business. All data collected on behalf of Playster LLC is owned and used by Playster LLC. Playster LLC reserves the right to publish non-personally identifiable, summary information regarding its Web Site visitors for promotional purposes and as a representative audience for business partners.
+All data collected will be securely and safely stored on servers specific for this purpose.
 
-We also collect information in log files that include data such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We and our business partners use this information to analyze trends, administer the Site, track User's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+### How is the information collected?
 
-## How Does Playster LLC Handle Information from Children?
+We may collect information from you in the following ways:
 
-Please note that Playster LLC has no intention of collecting personal information from individuals under the age of 13 ("children"). We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act (COPPA). Where appropriate, we will instruct children not to provide such information to us. If a parent becomes aware that a child has provided us with personal information, we ask that the parent or legal guardian of the child contact us by visiting www.Playster.com, selecting 'Contact Us'
+Information You Provide Us: This information includes data you provide on registration such as your name, e-mail address, date of birth, gender, credit card information, billing address, SIP code and/or postcode and other information (“Personal Information”). We may also collect information if you participate in a survey, promotion, competition or sweepstakes, if you contact us through our customer support team or if you adjust the preferences in Your Account.
 
-## How Does Playster LLC Use Personal Information?
+Information We Collect Automatically: This is the information collected when you use our Services. This may include, but is not limited to, information about the device you used to access our Services, your IP address, browser and software features, referral URLs, crash reports and your activities and use of our Service e.g. which movies you watch and what books you read.
 
-Use of Personal Information is for our internal business purposes. Playster LLC uses the personal information you provide for the purposes for which it was provided, for example, to process an order; to record your rental of a product and its return date; to support an online subscription service; to collect debts and recover overdue rental products; to notify you that you have won a contest or sweepstakes; to respond to your inquiries or complaints or to contact you or send you information about your membership. In addition, Playster LLC, its subsidiaries and affiliates may share and use information collected through the Site to administer and manage our business, including, for example for account maintenance and collections purposes, and in connection with information technology services. In addition, personal information may be used to create a profile that we keep on individual Users that details their preferences and behavior. This profile may be used by Playster LLC, its subsidiaries or affiliates to develop and improve the products, benefits and services, Playster LLC, its subsidiaries, affiliates and business partners offer to our Members or Users, to improve the Site and the associated user experience, and to develop pertinent marketing promotions to Users and Members.
+Information Collected Through Cookies: For more information about Cookies, please see our [Cookie Policy](https://www.playster.com/legal/cookie).
 
-Where permitted or required by law, Playster LLC may collect, use or disclose your personal information without your consent, for example in response to a court order or subpoena or to comply with a legally permitted inquiry by a government agency.
+### How is the information used?
 
-## When Will I Be Contacted by Playster LLC?
+The information you provide us with is essential for us to provide the Service. For example we use your Personal Information to:
 
-You may receive products and communications associated with your transactions with Playster LLC, such as rentals, purchases, subscriptions, sweepstakes and contests. You may also receive communications from Playster LLC related to transactions that appear to be from you or which appear to be fraudulent. You may be contacted in regards to an issue on your account or in response to a customer service contact by you or in response to a specific request from you such as clicking on a "forgot my password" link. Users who sign up for e-newsletter subscriptions will receive e-mails in accordance with their selection and preferences. These administrative communications also may be accompanied by information about products and services, special offers and upcoming promotions or events offered by Playster LLC, our subsidiaries, our affiliates or our marketing partners that we think may be of interest to you ("direct marketing").
+  * monitor, develop and improve the Services and/or your experience based on a monitoring of your preferences and behaviours;
+  * administer the provision of your Services;
+  * process payments and/or collections;
+  * process and deal with any complaints or enquiries made by or about you;
+  * investigate any suspected breach of or Terms and Conditions or the breach of other terms and conditions otherwise relating to you;
+  * investigate any suspected fraud occurring on your account; and
+  * contact you if you are the lucky winner of a sweepstakes or competition.
 
-You may periodically receive from Playster LLC, its subsidiaries and affiliates unsolicited direct marketing communications by mail (delivered via the United States Postal Service). Playster LLC, its affiliates and its subsidiaries will send standalone direct marketing e-mail communications to you only if you have agreed previously. We support the option to not receive these types of communications. Please see the following section: How Can I Opt Out of Receiving Direct Marketing from Playster LLC?
 
-## How Can I Opt Out of Receiving Direct Marketing from Playster LLC?
 
-By providing us with your personal information, you consent to our collection, use and disclosure of that information as described in this Privacy Policy as amended from time to time or as described at or before the time of collection, use or disclosure, as the case may be. Playster LLC is the owner of the personal information collected on our Web Site. If you do not want your personal information to be collected, used or disclosed in this manner, please do not submit your personal information to us.
+### The Collection, Use and Handling of Children’s Information
 
-E-mails that are sent to you as a result of you performing a business transaction with us or requesting specific information from Playster LLC are not subject to an Opt Out process. If you have any suggestions on how to improve these e-mails, please communicate to our Online Customer Service group using the Contact Us functionality on the Site. We appreciate your feedback but cannot commit to taking action. 
+In accordance with our Terms and Conditions, only individuals 18 years and over may use our Site and Services. If you are aware or become aware of any person under the age of 18 using our Services, please contact us immediately and, unless permission is obtained from their parent and/or guardian and/or the bill payer, we will take steps to delete their account and all Personal Information.
 
-## What Personal Information Does Playster LLC Give to Others?
+We are committed to protecting children’s privacy on the Internet and we comply fully with the Children’s Online Privacy Protection Act of 1998 (COPPA). In accordance with COPPA, we will never knowingly solicit or accept Personal Information from users known to be under eighteen years of age. If you are under the age of thirteen, please do not attempt to register for the Services or send any personal information about yourself.
 
-Transfer of Personal Information to Third Party Goods and Services Providers. Playster LLC employs third party vendors, service providers, and suppliers to perform various functions on our behalf. Such services include: fulfilling orders; processing credit card or check card payments; collecting debts; removing repetitive information from customer lists; analyzing data; developing, hosting and maintaining our Web Sites and databases; sending and receiving e-mail and other communications; and staffing customer service call centers. These third parties may have access to personally identifiable information as reasonably necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. Certain information collected in connection with transactions may be provided to third parties for use in transaction authorization, fraud scoring and payment card fraud prevention modeling.
+If we learn that we have received any Personal Information from a user under eighteen years of age, we will take appropriate steps to remove that user’s Personal Information from our records. Moreover, if a parent becomes aware that a child has provided us with personal information, we ask that the parent or legal guardian of the child contact us by visiting www.playster.com, selecting ’Contact Us’ and use the appropriate contact information or contact us at [privacy@Playster.com](mailto:privacy@playster.com).
 
-Playster LLC, its affiliates and its subsidiaries (if permitted by Playster LLC) on occasion may disclose to their affiliates and business partners certain data, such as names and addresses and the genre of products rented or purchased by Users or Members, so that the business partner may send their own direct marketing communications to Users and Members. Playster LLC will not provide User or Member e-mail addresses to affiliates or business partners, unless the User or Member has provided express permission to Playster LLC. If you would prefer that Playster LLC not disclose your personal information to its affiliates or business partners for direct marketing purposes, subject to legal, or contractual restrictions and legal notice you may opt out of such uses and/or disclosures by (a) checking the appropriate "Opt Out" box in any applicable e-mail communication or e-newsletter, (b) visiting www.Playster.com, selecting 'Contact Us'.
+### Marketing Messages
 
-Third Party Features. From time to time Playster LLC may include additional features and functionality from third parties on our Web Sites. Certain of these features and functions, may require Playster LLC to send selected information about you, such as information about your game queue, to the third party. If you do not wish for Playster LLC to share this information, you will have a reasonable opportunity to opt-out of these third-party features and functions. Playster LLC will never send your password or your financial information to any third party through these features or functions.
+Typically, we will only send you marketing emails if you consent to us doing so. You can unsubscribe from this part of our Service at any time. If you do subscribe to our marketing email service, we may periodically contact you to tell you about any additional services, special offers and upcoming promotions or events offered by us, our subsidiaries, our affiliates or our marketing partners that we think may be of interest to you.
 
-Cleaned Data. We periodically remove from personal information data that can be used to identify individuals for example by summarizing, aggregating or removing certain data elements. The resulting cleaned data is no longer considered personal information and is not subject to this Privacy Policy. The cleaned data may be published by Playster LLC and provided to various third parties.
+### Who is the information shared with?
 
-Disclosures Attendant to a Merger or Acquisition. If Playster LLC or its assets are acquired by another company, your personal information may be disclosed to the acquiring company to allow it to fulfill your order or provide the products, services or information that Playster LLC would otherwise provide to you and generally to carry on the Playster LLC business. We may also use and disclose your personal information to parties connected with the contemplated or actual financing, insuring, sale, assignment or other disposal of all or part of our business or assets, including for the purposes of determining whether to proceed or continue with such transaction or business relationship or fulfilling any records or other reporting requirements to such parties. We will require such parties to treat your personal information in accordance with this privacy policy and to use and disclose it only for the purposes for which it was collected.
+We will never sell your information. That being said, we may share your information in the following ways:
 
-Public postings. If you disclose your personal information in a manner that will be posted publicly such as in a product review your posting will be seen by others. In addition, if you elect to participate in certain community features offered from time to time, selected information about you, including information about your game queue, may be shared with other participants in these community features. Also, Playster LLC may make it possible for certain third party web sites to be accessed directly from our Web Sites and for selected information about you to be provided to these third party web sites if you are also a user of these third party web sites. If a third party web site allows other users to view information about you (e.g., through posting to a publicly available profile page), the information provided by Playster LLC will be visible to other users of the third party web site.
+Your Public Postings: If you post a review or make a comment anywhere on our Site, Service or platform and your post contains your Personal Information, those details may be shared with other Users to have access to that particular part of our Service.
 
-## How does Playster LLC Protect Personal Information?
+Sharing with Third Party Providers: We use third party service providers to be able to offer the best possible Services to you. At times, we may need to employ external vendors, service providers and suppliers to assist us with e.g. processing credit card payments, fraud scoring and prevention, debt collection and telecommunications. These third parties may need access to your Personal Information as is reasonably necessary to perform their obligations and are not permitted to use your Personal Information for any other reason.
 
-Playster LLC takes reasonable measures to protect the personal information it collects, uses, stores or discloses. We have implemented physical, technological and organizational procedures designed to protect the integrity and security, and to ensure the appropriate use, of your personal information. These procedures are appropriate to the nature, sensitivity and format of the personal information collected, used, stored or disclosed by Playster LLC. For example, Playster LLC uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card or check card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. 
+Sharing with Affiliate Companies: Subject to your approval, we, our affiliates and subsidiaries (where we have granted the appropriate permissions) may disclose certain Personal Information and other details relating to the use of our Service to their respective affiliates and business partners so as to send you their own Direct Marketing communications. Should you wish to revoke your consent to the aforementioned disclosure of your Personal Information and other details relating to the use of our Services, you may opt-out by either (a) checking the appropriate “Opt Out” box in any applicable email communication or electronic newsletter, or (b) emailing the Privacy Team at [privacy@Playster.com](mailto:privacy@playster.com)
 
-## What About Links to Other Web Sites?
+Third Party Features: We may, at times, include on our Sites additional features and functionality from third parties. Some of these features may require us to send selected information about your use of our Service (e.g. content viewed) to third parties. If you do not wish for Us to share this information, you may opt out. We will never send your password or your financial information to any third party through these features or functions.
 
-This Privacy Policy applies solely to information collected by Playster LLC. However, our Site contains links to other web sites owned and operated by third parties. The third parties who operate these sites may treat the collection, use and disclosure of personal information differently than we do. This could be the case even for those web sites that carry Playster LLC's or its affiliates' trademarks or logos or which are framed by a Site. Please be aware that Playster LLC is not responsible for the data collection, use and disclosure practices of companies or organizations to which our Sites may provide links. We encourage our Users to be aware when they leave our Site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
+At times, we may include additional features and/or functionalities from third parties on our Site or Service. Certain of these features may require that we communicate select information about your use of our Service (such as, for example, Content consumed) to said third parties. If you do not wish for us to share this information, you have the option of opting-out by sending an email to the Privacy Team at [privacy@Playster.com](mailto:privacy@playster.com) Note that the information communicated in this manner will never include your passwords nor your financial/payment information.
 
-## How Can I Access or Correct My Personal Information?
+Cleaned Data: Playster will periodically remove, hash, scramble, anonymize, aggregate or summarize certain elements of Personal Information relating to its users. In doing so, the resulting information (the “Cleaned Data”) would no longer be considered personal information and, as such, would no longer be subject to this Policy. The Cleaned Data may be transmitted to various third parties as necessary so that we can provide you with our Services.
 
-If a User's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a User no longer desires our service, we provide a way to correct or, update or delete/deactivate Users' personally identifiable information. You can review or change some of your personal information as follows:
+Business Restructuring: In the event of a reorganization or restructuring, we may be required to share elements of your Personal Information within our group of companies so as to be able to continue to deliver our Services to you without interruption. This may also be the case if we were to participate in a merger, acquisition, reorganization, restructuring or other event in which some or all of our assets are sold or change ownership.
 
-You can review and change certain account related information by visiting Playster LLC, submiting suitable identification and giving the Playster LLC your changes such as providing a new address or phone number, removing names from your account, changing your credit card or check card information, etc. 
+Please note, however, that if, due to a merger, acquisition, reorganization, restructuring or other event, there is a change in ownership, your information, including but not limited to your Personal Information may be subject to the new owner’s policies. In such circumstances, you will be notified by e-mail or through an update of this Policy prior to the change.
 
-You can review and change certain Site related information by visiting the Site, entering your e-mail address and password and accessing the "My Account" area. 
+Legal Necessity: Where permitted or required by any law or regulation we may collect, use or disclose your Personal Information or other information without your consent, e.g. in response to a court order or subpoena or to comply with a legally permitted inquiry by a government agency.
 
-Note that in most cases, Playster LLC will retain the previously entered data.
+We may also share your information to detect, prevent, or otherwise address fraud, security, or technical issues.
 
-## Legal Notices
+Be assured that, whilst we may share your information as indicated above, your Personal Information and other information will remain subject to and will be governed by this Policy at all times.
 
-Video Privacy Protection Act of 1988. Playster LLC supports the Video Privacy Protection Act of 1988 and will use reasonable commercial efforts to require employee and business partner compliance with the Act.
+### HOW WE PROTECT YOUR PERSONAL INFORMATION
 
-REQUIRED BY NEW YORK LAW: This videotape service provider from time to time provides to marketers of goods and services, the names and addresses of customers and a description or subject matter of materials rented by video customers. You have the right to elect not to have your name, address or the description or subject matter of any material rented included in such lists. This election may be changed by you, in writing, at any time.
+We take the protection of your Personal Information seriously and we endeavour to take all reasonable measures to protect any information we collect, use, store or disclose. Where possible we have implemented technological and organisational procedures designed to protect the integrity and security, and to ensure the appropriate use, of your Personal Information. These procedures are proportionate to the nature, sensitivity and format of the personal information collected, used, stored or disclosed by us.
 
-## Can Playster LLC Change This Privacy Policy?
+Our users in the European Economic Area (“EEA”) and European Union (“EU”) should be aware that some companies we work with to provide our Services operate outside the EEA. We only let that happen if we are satisfied with their levels of security. So, keep in mind that when you give us Personal Information it could be transferred, stored or processed in a location outside the EEA or EU.
 
-Playster LLC reserves the right to change this Privacy Policy from time to time. If Playster LLC makes a change, this Privacy Policy will be updated accordingly. We recommend that you review this Privacy Policy periodically so that you are aware of any changes. If we make a material change to this Privacy Policy we will make reasonable efforts to notify you. For example, your continued consent to our collection, use and disclosure of your personal information or your continued use of our Sites following the notification or posting of any changes to this Privacy Policy shall constitute your acceptance of these changes.
+### Transfer of Data
 
-## How Do I Contact Playster LLC Regarding The Web Site And This Privacy Policy?
+We maintain servers in various locations worldwide and therefore your information may be processed in a jurisdiction different from the one in which you live. We comply with data protection laws in all applicable jurisdictions and provide equal protections to all information.
 
-If Users have any questions or suggestions regarding our privacy policy, please contact us at:
+### Retention of Your Information
 
-Web: visit www.Playster.com, select 'Contact Us' and complete the contact form
+Any Personal Information given to us will only be held for as long as legally required or permitted and in accordance with the following measures. We will only retain your Personal Information for as long as necessary for us to provide you with our Services or have a legitimate reason to keep it.
+
+### YOUR RIGHTS IN RELATION TO YOUR INFORMATION
+
+Depending on where you live, e.g. if you reside in the European Union and/or the European Economic Area, you may have certain legal rights relative to the collection and use of your Personal Information. You may have the right to:
+
+  * (a) Change and update your information as necessary;
+  * (b) Have the entirety or part of your Personal Information to be erased or “forgotten”;
+  * (c) Delete your Personal Information at any time and for any reason;
+  * (d) Object to, restrict or limit the use of your Personal Information; and
+  * (e) Ask us for a copy of your Personal Information.
+
+
+
+You can do all of this by contacting our Privacy Team / Data Protection Officer at [privacy@Playster.com](mailto:privacy@playster.com)
+
+Where the law provides, you may also send queries to your local data protection authority.
+
+### Changes to This Privacy Notice
+
+This Policy was last updated on May 25, 2018. We reserve the right to make changes to this Policy at our discretion. Note that this page will be updated to reflect any changes to this Policy and therefore, we recommend that you review this page periodically.
+
+If you have any questions regarding this Policy, please visit [www.Playster.com](https://www.playster.com/) select ’Contact Us’ and use the appropriate contact information or contact us at [privacy@Playster.com](mailto:privacy@playster.com)
+
+### Data Protection Officer
+
+If you have any questions pertaining to the collection, use and storage of your Personal Information or any questions relative to this Privacy Policy contact our Privacy Team at [privacy@Playster.com](mailto:privacy@playster.com).
+
+### Data Controller
+
+The data controller of your Personal Information is Playster with Registered office at 2000 rue Peel, Suite 420, Montreal, Quebec, Canada H3A 2W5. Please be aware that if you contact us to assist you, we may need to authenticate your identity before fulfilling your request.
