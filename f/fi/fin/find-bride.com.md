@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the find-bride.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130104922id_/http%3A//find-bride.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-bride.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201075427id_/https%3A//find-bride.com/privacy) for the most accurate reproduction.*
 
-# Dating, Love, Wedding and Marriage with Russian and Ukrainian girls and women
+# Privacy | Find-Bride.com
 
 Please, read carefully the information below which continues the main statements of the privacy policy of Find-Bride.com including the information which will help you to make you own decisions about the personal privacy.  
 When you visit any website including Find-Bride.com you’re sharing your personal data with the sourse so it is necessary to read the information below.  
@@ -30,3 +30,11 @@ If you ever wish all your personal data to be deleted, please, contact us via th
 5\. Payment information  
 The secure of the payment information is guaranteed by our payment processor Multicards.com. As well as any other personal information it may never be shared with any third parties.  
 If you ever experience any payment issues with Find-Bride.com, please, contact us through the “help” form.
+
+6\. Find-bride.com is operated by:  
+Romantic lines LP  
+Suite 1 4 Queen Street,   
+Edinburgh, EH2 1JE,  
+United Kingdom  
+info@find-bride.com  
++441313221272 
