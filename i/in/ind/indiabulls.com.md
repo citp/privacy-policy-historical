@@ -1,6 +1,44 @@
-> *The following text is extracted and transformed from the indiabulls.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202145445id_/https%3A//www.indiabulls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabulls.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201233833id_/https%3A//www.indiabulls.com/privacy-policy) for the most accurate reproduction.*
 
 # Indiabulls- Privacy-Policy
+
+[](https://web.archive.org/)
+
+### Home Loans
+
+##### lorem ipsum dolorem ipsum quia dolor sit amet, consectetur, adipisci velit
+
+### Loan Against Property
+
+##### lorem ipsum dolorem ipsum quia dolor sit amet, consectetur, adipisci velit
+
+### Personal Loans 
+
+##### lorem ipsum dolorem ipsum quia dolor sit amet, consectetur, adipisci velit
+
+### SME Loans
+
+##### lorem ipsum dolorem ipsum quia dolor sit amet, consectetur, adipisci velit
+
+### Indiabulls Sky
+
+##### lorem ipsum dolorem ipsum quia dolor sit amet, consectetur, adipisci velit
+
+### Personal Loans
+
+##### lorem ipsum dolorem ipsum quia dolor sit amet, consectetur, adipisci velit
+
+× 
+
+We have received your details.
+
+**Our Customer Care Executive shall contact you shortly!**
+
+× 
+
+We have received your details.
+
+**Our Customer Care Executive shall contact you shortly!**
 
 At Indiabulls (hereinafter referred to as, “we”, “us”, etc.), we value your trust and respect your right to privacy. This Privacy Policy provides you with details about the manner in which your data is collected, stored and used by us. You are advised to read this Privacy Policy carefully. If you do not agree to the terms of this Privacy Policy, please do not further use or access Indiabulls website/applications.
 
@@ -143,3 +181,7 @@ Please note that this privacy policy does not create any contractual or other le
 ### Data Privacy Issues And Whom To Contact
 
 If you have any questions, comments or concerns about this Privacy Policy or about how we handle your Personal Data, please get in touch with us at [privacy-GRP@indiabulls.com.](mailto:privacy-GRP@indiabulls.com)
+
+Indiabulls uses cookies and similar technologies to enhance your browsing experience and provide personalized recommendations. By using our online services, you consent the use of cookies in accordance with our **[Cookie Policy ](https://web.archive.org/web/20190201233833id_/https%3A//www.indiabulls.com/cookie-policy)**
+
+Ok 
