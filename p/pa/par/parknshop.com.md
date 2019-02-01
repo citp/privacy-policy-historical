@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parknshop.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208011533id_/http%3A//www.parknshop.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parknshop.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201210325id_/https%3A//www.parknshop.com/en/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | PARKnSHOP.com
 
