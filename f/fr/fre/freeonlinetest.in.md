@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonlinetest.in privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201141004id_/http%3A//www.freeonlinetest.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinetest.in privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201154618id_/http%3A//www.freeonlinetest.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Online Test
 
