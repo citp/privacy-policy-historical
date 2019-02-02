@@ -1,38 +1,62 @@
-> *The following text is extracted and transformed from the goingawesomeplaces.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606232757id_/http%3A//goingawesomeplaces.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goingawesomeplaces.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202025904id_/http%3A//goingawesomeplaces.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Going Awesome Places
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact me](http://goingawesomeplaces.com/contact-me/ "Contact Me").
+Going Awesome Places believe very strongly in keeping your personal information confidential and secure. The following privacy policy describes what information we collect and how it is used and shared.
 
-At www.goingawesomeplaces.com, the privacy of our visitors is of extreme importance to us. This privacy policy outlines the type of personal information that is received and collected by www.goingawesomeplaces.com.com and how it is used.
+## What Information Do We Collect?
 
-## Log files
+### Voluntary Information
 
-Like many other Web sites, www.goingawesomeplaces.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+ **Going Awesome Places** collect as little information as possible from users looking to post comments and messages on our website. We will typically collect a name (either real or alias), personal website, and e-mail address.
 
-## Cookies
+### Automatically Collected Information
 
-www.goingawesomeplaces.com does not use cookies.
+We automatically collect certain information about you and the device with which you access the website. For example, when you use the website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the website. We may also collect information about actions you take when using the website, such as links clicked.
 
-## Doubleclick dart cookie
+## Cookies / IP Address tracking
 
-Google, as a third party vendor, uses cookies to serve ads on www.goingawesomeplaces.com.  
-Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.goingawesomeplaces.com and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –<http://www.google.com/privacy_ads.html>
+ **Going Awesome Places** use cookies to uniquely identify users for the purpose of log files, posting comments, and voting on the site. No personal information is stored in these cookies and is simply a way to identify your computer.
 
-  * Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: 
-    * Google Adsense
-    * Commission Junction
-    * Affiliate Window
-    * Monumetric
-    * Amazon
+## With Whom Information is Shared
+
+None of your information will be shared with third parties. **Going Awesome Places** may use your e-mail address in the future to contact you regarding the site, however, an opt-out will always be provided. Your name and website may be displayed on the site if you post a comment or a message. However, your e-mail address and privacy will always be kept secure.
+
+## How Information May Be Used
+
+We may use the information collected in the following ways:
+
+  1. To operate and maintain the website;
+  2. To create your account, identify you as a user of the website, and customize the website for your account;
+  3. To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  4. To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  5. To respond to your comments or inquiries;
+  6. To provide you with user support;
+  7. To track and measure advertising on the website;
+  8. To protect, investigate, and deter against unauthorized or illegal activity.
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.goingawesomeplaces.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+## Third-Party Use of Information
 
-www.goingawesomeplaces.com uses Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ad Settings](https://www.google.com/settings/ads) page. Users can completely block Google Analytics tracking using [Google’s Analytics Opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+ **Going Awesome Places** utilizes the following third-party services and each one has their own respective privacy policies to determine the use of your personal information:
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.goingawesomeplaces.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+### Google Analytics
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+This service tracks website usage and provides information such as referring websites and user actions on the website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
+
+### Mailchimp
+
+This service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications (name is for “personalization” of communication). Please refer to [Mailchimp’s privacy policy](https://mailchimp.com/legal/privacy/) for further information.
+
+## Opting Out
+
+If **Going Awesome Places** choose to send out newsletter updates in the future and we have your email address on file, you may receive a copy of our newsletter. However, at the bottom of every newsletter will be an easy way to opt-out. The editors of our site hate SPAM as much as you and have no intention of filling up e-mail boxes with unwanted messages.
+
+## Third Party Advertising
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date and/or the subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you.
+
+These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioural advertising practice or to opt-out of this type of advertising, you can visit [Network Advertising](https://networkadvertising.org/).
+
+If you have any questions regarding our privacy policy, please [e-mail us](https://web.archive.org/contact-me) and we would be happy to provide further clarification.
