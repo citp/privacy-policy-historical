@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixiemarket.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626233223id_/https%3A//www.pixiemarket.com/pages/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixiemarket.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202155758id_/https%3A//www.pixiemarket.com/pages/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@ This Privacy Policy describes how your personal information is collected, used a
 
 **Section 1 – What do we do with your information?**
 
-When you purchase something from Pixie Market, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. When you browse our store, we also automatically receive your computer’s internet protocol (IP) , web browser, time zone and some of the cookies that are installed in your device.   We collect Device information using cookies. Cookies are data files that are placed on your computer and include an anonymous unique identifier. To disable the cookies in you device or to learn more about cookies, please visit : <http://www.allaboutcookies.org./>
+When you purchase something from Pixie Market, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. When you browse our store, we also automatically receive your computer’s internet protocol (IP) , web browser, time zone and some of the cookies that are installed in your device.   We collect Device information using cookies. Cookies are data files that are placed on your computer and include an anonymous unique identifier. To disable the cookies in you device or to learn more about cookies, please visit : http://www.allaboutcookies.org
 
 We use your Device information to help us screen for potential risk and fraud (your IP address) and to improve and optimize our Site (by using analytics to assess the success of our marketing and advertising campaigns)
 
@@ -74,6 +74,12 @@ _shopify_uniq, no data held, expires midnight (relative to the visitor) of the n
 cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.  
 _secure_session_id, unique token, sessional  
 storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
+
+**Google Analytics:**  This cookie allows us to see information on user website activities including, but not limited to page views, source, and time spent on our website. The information is depersonalized and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics we can see what content is popular on our website, and strive to give you more of the things you enjoy reading and watching.
+
+**Google AdWords:**  Using Google AdWords code we are able to see which pages helped lead to sale. This allows us to make better use of our paid search budget.
+
+**DoubleClick:**  We use remarketing codes to log when users view specific pages, allowing us to provide targeted advertising in the future.
 
 **Section 8 - Age of Consent**
 
