@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004170125id_/https%3A//www.highline.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202213800id_/https%3A//www.highline.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Highline College
 
@@ -99,7 +99,7 @@ When using the applications, the following laws and regulations may prevent High
 
   * Family Educational Rights and Privacy Act of 1974 (FERPA)  
 Section 438, Public Law 90-247 Title IV, as amended, 88 Stat 571-574 (20 USC 1232g) otherwise known as the Buckley Amendment Family Educational Rights and Privacy Act.
-  * [RCW 42.17.310](http://apps.leg.wa.gov/rcw/default.aspx) (a) exempts the following from public inspection and copying: (a) Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients;
+  * [RCW 42.56.230](http://apps.leg.wa.gov/rcw/default.aspx) exempts the following from public inspection and copying: Personal information in any files maintained for students in public schools, patients or clients of public institutions or public health agencies, or welfare recipients;
 
 
 
@@ -111,7 +111,7 @@ Highline College may require you to provide certain personal information in orde
 
 In addition to the previously identified laws and regulations, the following applies:
 
-  * [RCW 42.17.310 ](http://apps.leg.wa.gov/rcw/default.aspx)(ss) exempts the following from public inspection and copying: (ss) Credit card numbers, debit card numbers, electronic check numbers, card expiration dates, or bank or other financial account numbers supplied to an agency for the purpose of electronic transfer of funds, except when disclosure is expressly required by law.
+  * [RCW 42.56.230 ](http://apps.leg.wa.gov/rcw/default.aspx) exempts the following from public inspection and copying: Credit card numbers, debit card numbers, electronic check numbers, card expiration dates, or bank or other financial account numbers supplied to an agency for the purpose of electronic transfer of funds, except when disclosure is expressly required by law.
 
 
 
