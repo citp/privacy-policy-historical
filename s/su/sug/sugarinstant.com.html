@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sugarinstant.com privacy policy that was archived on 2018-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181230151144id_/https%3A//www.sugarinstant.com/help/cs_privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sugarinstant.com privacy policy that was archived on 2019-02-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190202035553id_/https%3A//www.sugarinstant.com/help/cs_privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<meta charset="utf-8">
@@ -79,7 +79,7 @@
 
 
 		<script type="text/javascript">"use strict";</script>
-		<script type="text/javascript" src="/Scripts/r1_0_6934_19478_jquery-3.3.1.min.js"></script>
+		<script type="text/javascript" src="/Scripts/r1_0_6970_21531_jquery-3.3.1.min.js"></script>
 
 		<link rel="shortcut icon" type="image/x-icon" href="https://imgs1cdn.adultempire.com/res/bn/favico-sugar-instant-32x32.png">
 <link rel="apple-touch-icon" sizes="57x57" href="https://imgs1cdn.adultempire.com/res/bn/favico-sugar-instant-57x57.png">
@@ -92,7 +92,7 @@
 
 		
 		
-	<link rel="stylesheet" type="text/css" href="/static/css/r1_0_6934_19478_genericcombo.css">
+	<link rel="stylesheet" type="text/css" href="/static/css/r1_0_6970_21531_genericcombo.css">
 	<style type="text/css">
 		@media (min-width: 992px) {
 			#content {padding-top:90px}
@@ -732,7 +732,7 @@
 				</a>
 				<strong>
 					<a href="/help/cs_copyright.html" class="text-light" category="Footer" label="Copyright">
-						All material herein ©2001-2018 Ravana, LLC.
+						All material herein ©2001-2019 Ravana, LLC.
 					</a>
 				</strong>
 				<div class="text-light">
@@ -825,44 +825,71 @@
 	    </div>
 
 	    
-      	
-       	
-		<script src="/Scripts/r1_0_6934_19478_ewc.js"></script>
-       	<script>
-       		// Non-VUE => Vue helpers
-       		function showCart(e){
-       			// Go to physical checkout if there physical goods and only physical goods in the cart, otherwise show digital cart
-       			if(0 <= 0 || (window.vueApp.$store.getters.cart.Items && window.vueApp.$store.getters.cart.Items.length > 0)) {
-       				var ev = (e||window.event);
-       				if(ev) {
-       					ev.preventDefault();
-       					ev.stopPropagation();
-       				}
-       				toggleCartModal();
-       				return false;
-       			}
+
+
+
+
+
+
+<script src="/Scripts/r1_0_6970_21531_ewc.js"></script>
+
+<script>
+	// Non-VUE => Vue helpers
+	let store = null
+	let waitForStore = new Promise(function(resolve, reject) {
+		(function wait() {
+			if(window.vueApp) {
+				return resolve({
+					data: window.vueApp.$store.getters,
+					dispatch: window.vueApp.$store.dispatch
+				})
+			} else {
+				setTimeout(wait, 5);
 			}
-       		function toggleCartModal(){
-				$('#modalDigitalCart').modal('toggle');
-			}
-			function addToDigitalCart(e, id, contentType, termType, term) {
-				var ev = (e||window.event);
-   				if(ev) {
-   					ev.preventDefault();
-   					ev.stopPropagation();
-   				}
-				window.vueApp.$store.dispatch('addToCart', {id: id, Ref_Type: contentType, termType: termType, term: term});
-				toggleCartModal();
-				return false;
-			}
-       	</script>
-       	
-       	<script src="https://www.sugarinstant.com/static/js/r1_0_6934_19478_intersection-observer.min.js"></script>
-       	<script src="https://www.sugarinstant.com/static/js/r1_0_6934_19478_bootstrap3.min.js"></script>
-		<script src="https://www.sugarinstant.com/static/js/r1_0_6934_19478_SiteWide.js"></script>
-		<script src="https://www.sugarinstant.com/static/js/r1_0_6934_19478_HoverIntent.js"></script>
-		<script src="https://www.sugarinstant.com/static/js/r1_0_6934_19478_jquery.fancybox.3.2.1.min.js"></script>
-		<script src="https://www.sugarinstant.com/static/js/r1_0_6934_19478_aeform.js"></script>
+		})()
+	})
+	waitForStore.then(function(s) { store = s} )
+
+	function cancelEvent(e) {
+		var ev = (e||window.event);
+		if(ev) {
+			ev.preventDefault();
+			ev.stopPropagation();
+		}
+		return ev
+	}
+
+	function showCart(e){
+		// Go to physical checkout if there physical goods and only physical goods in the cart, otherwise show digital cart
+		// NOTE: don't wait on the store.  If it's not available for some reason just go to the physical cart
+		if(0 <= 0 || (store && store.data && store.data.cart.Items && store.data.cart.Items.length > 0)) {
+			cancelEvent(e)
+			toggleCartModal();
+			return false;
+		}
+	}
+
+	function toggleCartModal(){
+		$('#modalDigitalCart').modal('toggle');
+	}
+
+	function addToDigitalCart(e, id, contentType, termType, term) {
+		var ev = cancelEvent(e);
+		waitForStore.then(function(store) {
+			store.dispatch('addToCart', {id: id, Ref_Type: contentType, termType: termType, term: term});
+			toggleCartModal();
+			if(ga && ev && ev.target && ev.target.attributes && ev.target.attributes.category) ga('send', 'event', ev.target.attributes.category.value, 'click', ev.target.attributes.label.value);
+		})
+		return false;
+	}
+</script>
+	    
+       	<script src="https://www.sugarinstant.com/static/js/r1_0_6970_21531_intersection-observer.min.js"></script>
+       	<script src="https://www.sugarinstant.com/static/js/r1_0_6970_21531_bootstrap3.min.js"></script>
+		<script src="https://www.sugarinstant.com/static/js/r1_0_6970_21531_SiteWide.js"></script>
+		<script src="https://www.sugarinstant.com/static/js/r1_0_6970_21531_HoverIntent.js"></script>
+		<script src="https://www.sugarinstant.com/static/js/r1_0_6970_21531_jquery.fancybox.3.2.1.min.js"></script>
+		<script src="https://www.sugarinstant.com/static/js/r1_0_6970_21531_aeform.js"></script>
 
 		<script type="text/javascript">
 			scriptReady();
@@ -1020,7 +1047,7 @@
 		
 		
 
-		<img src="//api.dvdempire.com/SingleSignIn/99400022368687/sugar">
+		
 		<div style="display:none;">
 	<script type="text/javascript">
 		var bccbId = Math.random(); document.write(unescape('%3Cdiv id=' + bccbId + '%3E%3C/div%3E'));
@@ -1040,10 +1067,10 @@
 		else if (document.readyState == "complete") bcLoad();
 		else if (window.addEventListener) window.addEventListener('load', bcLoad, false);
 		else window.attachEvent('onload', bcLoad);
-	</script><div id="0.08333428675682852"></div> 
+	</script><div id="0.9478650957667576"></div> 
 </div>
 		
 		
 	
 
-<!-- 1.0.6934.19477 --></body></html>
+<!-- 1.0.6970.21530 --></body></html>
