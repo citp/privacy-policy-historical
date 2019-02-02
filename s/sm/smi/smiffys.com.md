@@ -1,126 +1,203 @@
-> *The following text is extracted and transformed from the smiffys.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610032508id_/http%3A//trade.smiffys.com/Info/t-privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smiffys.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202022955id_/https%3A//www.smiffys.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Smiffys Fancy Dress
 
-**1.**|  **Introduction**  
-|   
-1.1| 
+**GDPR Privacy Policy (www.Smiffys.com Customers)**
 
-This privacy policy (the " **Privacy Policy** ") shall apply to use of [www.smiffys.com](http://www.smiffys.com/) (" **Website** "). Use of the Website will be deemed agreement to the terms of this Privacy Policy by a user (" **User** "). The Website is operated by RH Smith & Son (Wigmakers) Ltd trading as Smiffy's (" **Smiffy's** "), a limited company registered in England whose registered office is situated at Peckett Plaza, Gainsborough Business Park, Caldicott Drive, Gainsborough, Lincolnshire DN21 1FJ.  
-  
- **2.**| Collection and storage of personal information  
-|   
-2.1| Use of the Website shall constitute consent from Users to the collection and use of personal information in accordance with these Terms and Conditions. Smiffy's is the data controller for the purposes of the Data Protection Act 1998.  
-2.2| Smiffy's may collect and process personal information about Users such as the following:  
-| (a)| information (including, without limitation, name, email address and telephone number) provided by completing forms on the Website, including when ordering any product or service through the Website; and  
-| (b)| reporting problems or submitting queries or comments regarding the Website or its content or any other such communication sent to Smiffy's.  
-2.3| Smiffy's may not be able to provide Users with specific services if Users should choose to withhold requested information, but Users are not under an obligation to provide any such information.  
-2.4| Information that Users submit via the Website is sent to and stored on secure servers located in the United Kingdom.  
-2.5| Where a User is a trade customer we will also collect and process information at the point a trade account is created, including business name and contact details, payment information and account log-in details (such as user password and an answer to a  seleted security question).  
- **3.**| Cookies  
-|   
-3.1| 
+R.H Smith & Sons (Wigmakers) Limited, trading as Smiffys (“ **we** ”, “ **us** ” or “ **our** ”) is committed to protecting your privacy and meeting its data protection obligations under the General Data Protection Regulation (“ **GDPR** ”).
 
-The Website uses cookies to store and collect certain information. Cookies are small text files which are transferred to Users' hard drives to store and sometimes track information about Users. This enables Smiffy's to deliver a better and more personalised service to Users. Although cookies enable Smiffy's to identify Users' computers, cookies used by Smiffy's do not personally identify Users. Certain cookies we use last only for the duration of the Users' web session and expire when the browser is closed. Other cookies are used to remember Users when they return to the Website and last for longer. Smiffy's uses cookies to:  
-  
-| (a)| store Users' preferences;  
-| (b)| estimate Smiffy's audience size and usage patterns;  
-| (c)| recognise Users who return to the Website;  
-| (d)| allow Users to navigate the Website more quickly and easily;  
-| (e)| update and improve the Website; and/or  
-| (f)| control how often Users view similar online advertisements.  
-| | In addition we may use or allow the use of  web beacons/pixel gifs on the Website. These are small image files that may be placed by us or by third parties in respect of Users visits to the Website or within the body of Smiffy’s newsletters so that Smiffy’s or third parties can understand which parts of the Website are visited or whether particular content is of interest.  
-3.2| Smiffy's does not use cookies to store the credit or debit card details of Users.  
-3.3| Users may refuse to accept cookies by activating the relevant setting on their browser that enables Users to refuse the acceptance of cookies. However, Users that take such action may not be able to take full advantage of the Website. Users can also learn more about cookies by visiting www.allaboutcookies.org which includes useful further information on cookies and how to block cookies using different types of browser.
+This Privacy Policy (together with our Terms of Use https://www.smiffys.com/terms-conditions)
 
-For more information about the specific cookies served through this website and how to restrict or block certain of these cookies Click here  
-  
- **4.**| Use of personal information  
-4.1| Smiffy's will use the information Users provide to:  
-| (a)| enable Smiffy's to process Users' orders and to provide Users with the services and information offered through the Website and which are requested by Users;  
-| (b)| send Users information that Smiffy's considers they may find useful or which Users have requested from Smiffy's, including information about Smiffy's products and services or those of carefully chosen third parties, provided that Users have not indicated their objection to being contacted for such purposes;  
-| (c)| allow, with Users' consent, carefully chosen third parties to send Users information directly that they may find useful in relation to their products and services, provided that Users have not indicated their objection to being contacted for these purposes;  
-| (d)| audit the downloading of data from the Website;  
-| (e)| identify visitors to the Website;  
-| (f)| improve the content and/or layout of the pages of the Website and customise the pages for Users;  
-| (g)| undertake research on our Users' demographics; and/or  
-| (h)| verify and undertake financial transactions concerning payments made by Users online.  
-| (i)| We may first conduct credit checks with reputable credit agencies on users who apply to be trade customers in order to establish a trading account and a record of this check may be retained on the agencies’ files.  
-4.2| Users can request not to be contacted by Smiffy's with information in relation to Smiffy's products and services or those of third parties or to share their details with third parties, either at the point such information is collected on the Website (by checking or un-checking (as directed) the relevant box) or by following the unsubscribe instructions on any communications sent to Users. In addition, Users can exercise the right at any time by [Contacting Smiffy's](http://www.smiffys.com/Info/t-contactus).  
- **5.**| Disclosure of personal information  
-5.1| Smiffy's reserves the right, from time to time, to disclose Users' personal information to any of its affiliates, agents or contractors in connection with providing the services offered through the Website, analysing data, complying with requests for information, receiving and sending communications, updating marketing lists, processing transactions, providing support services or in other tasks. Use of Users' personal information by Smiffy's agents and contractors shall not exceed the extent necessary to perform their functions.  
-5.2| Users agree that any personal information held by Smiffy's may be transferred to a re-organised entity or third party in the event that Smiffy's undergoes re-organisation or is acquired by a third party.  
-5.3| Smiffy's may disclose Users' personal information if Smiffy's believes that disclosure is necessary to protect the Website or the rights, property or personal safety of any person or prevent fraud or cyber crime, or if otherwise required by law.  
- **6.**| Information security  
-| Smiffy's considers that the security of Users' personal information is of the utmost importance. Smiffy's has put in place security measures to attempt to protect against the loss, misuse and alteration of personal information under Smiffy's' control. Smiffy's carries out reviews of its security and privacy policies periodically and implements enhancements when necessary. Access to personal information is only available to authorised personnel. However, Users acknowledge that the internet as a medium for the submission of information is never entirely secure. Smiffy's is unable to guarantee the security of information submitted by Users through the Website whilst it is in transit over the internet and any such submission is at Users' own risk.  
- **7.**| General  
-7.1| You are entitled by law to a copy of the personal information Smiffy's holds about you and to inform Smiffy's of any inaccuracies in such information. If you wish to request a copy of your personal information or inform Smiffy's of any inaccuracies, you may do so by [Contacting Smiffy's](http://www.smiffys.com/Info/t-contactus). Smiffy's is entitled to charge a nominal fee (not exceeding £10) to cover its costs in providing you with a copy of your personal information.  
-7.2| Smiffy's reserves the right to vary this Privacy Policy from time to time. This Privacy Policy was last updated on 29 March 2012.  
- **8.**| Contacting Smiffy's  
-| Any queries or comments in relation to to this Privacy Policy or any requests concerning personal information should be directed to Smiffy's by email to sales@smiffys.com, or alternatively by writing to Smiffy's at:  
-Smiffy's   
-Peckett Plaza  
-Gainsborough Business Park  
-Caldicott Drive  
-Gainsborough  
-Lincolnshire DN21 1FJ  
- **a.**| Our cookies  
-| Smiffys.com uses cookies with the aim of improving the user experience. They facilitate common features users expect such as persistent login's and also provide some other features which improve the performance of Smiffys.com.  
-| |  **Cookie name**|  **Purpose**|  **More Information**  
----|---|---  
-ASP.NET_SessionId| We use this cookie to link your use of Smiffys.com with temporary data sorted on our servers; this cookie is a random character string. With this cookie we attempt to make Smiffys.com more user friendly, by providing functionality such as remembering preferences.| Duration / Expires:  
-When the browser is closed  
-ASPDNSFGUID| We use this cookie to link your use of Smiffys.com with temporary data sorted on our servers; this cookie is a random character string. With this cookie we attempt to make Smiffys.com more user friendly, by providing functionality such as persistent login.| Duration / Expires:  
-When the browser is closed  
-IsTheme|  This cookie is used to store a particular preference relating to the themes and categories on the website. It is used to remember if you last accessed the themes or categories on the left column, and expand the relevant group.| Duration / Expires:  
-When the browser is closed  
-SkinID| This cookie is used to identify the layout and styling of Smiffys.com.| Duration / Expires:  
-1 Year  
-StatsView| This cookie is used to identify the layout and styling of Smiffys.com.| Duration / Expires:  
-1 Year  
-themeslistitems| We use this cookie to store information about the themes, with the aim of improving the performance of Smiffys.com.| Duration / Expires:  
-When the browser is closed  
-themesmenucurrent| We use this cookie to store information about the themes, with the aim of improving the performance of Smiffys.com.| Duration / Expires:  
-When the browser is closed  
-CategoryFilterID| This cookie is used to remember a filter preference.| Duration / Expires:  
-1 Year  
-DistributorFilterID| This cookie is used to remember a filter preference.| Duration / Expires:  
-1 Year  
-GenreFilterID| This cookie is used to remember a filter preference.| Duration / Expires:  
-1 Year  
-ManufacturerFilterID| This cookie is used to remember a filter preference.| Duration / Expires:  
-1 Year  
-ProductFilterID| This cookie is used to remember a filter preference.| Duration / Expires:  
-1 Year  
-SectionFilterID| This cookie is used to remember a filter preference.| Duration / Expires:  
-1 Year  
-VectorFilterID| This cookie is used to remember a filter preference.| Duration / Expires:  
-1 Year  
-IsProductPage| This cookie is used mark when you view a product page.| Duration / Expires:  
-261 seconds  
-LastViewedEntityInstanceID| This cookie is used to store the ID of the entity you last viewed, to improve performance and create useful features such as the breadcrumb navigation.| Duration / Expires:  
-1 day 261 seconds  
-LastViewedEntityInstanceName| This cookie is used to store the name of the entity you last viewed, to improve performance and create useful features such as the breadcrumb navigation.| Duration / Expires:  
-1 day 261 seconds  
-LastViewedEntityName| This cookie is used to store the type name of the entity you last viewed, to improve performance and create useful features such as the breadcrumb navigation.| Duration / Expires:  
-1 day 261 seconds  
-SiteDisclaimerAccepted| This cookie is used to indicate whether a user has accept the site disclaimer.| Duration / Expires:  
-When the browser is closed  
- **b.**| Third party cookies  
-| Cookies are also set by third parties on the Website or these are set by us using the third parties cookie code. More information about cookies placed by third parties and how to restrict or block their cookies can be accessed by following the link to their website.  
-| |  **Cookie name**|  **Purpose**|  **More Information**  
----|---|---  
-Google Analytics| Google Analytics is a web analytics service which uses cookies to evaluate your use of this website. Google Analytics sets or updates cookies only to collect data required for this reporting. Google Analytics cookies do not collect personal data about your activity.
+and any other documents referred to in it) (“ **Policy** ”) sets out the basis on which any personal data we collect from or about you, as a result of your use of our website <https://www.smiffys.com/> (“ **our website** ”) or when you communicate with us in person, by telephone, email or post will be processed by us.
 
-These cookies are used to determine your visit sessions, identify anonymised unique visitors, identify the source of visits and navigation paths and set custom variables depending on actions taken on the site.
+This Policy only applies to our use of ‘personal data’ about ‘data subjects’ (as defined by data protection law) which includes personal data relating to our customers and prospective customers who are consumers (“ **you** ” or “ **your** ”).
 
-| Persistent Duration:   
-2 years 6 months  
-<https://tools.google.com/dlpage/gaoptout>
+We will be the data controller of your personal data which you provide, or which is collected by us via our website or when you communicate with us by telephone, email or post. This means that we are responsible for deciding how we hold and use personal information about you and that we are required to notify you of the information contained in this Policy. It is important that you read this Policy so that you are aware of how and why we are using such information and how we will treat it.
 
-More information about cookies from Google and Cookie time frames:   
-<http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html>  
-  
-Twitter.com| Where our Website includes a Twitter feed, Twitter may use both session cookies and persistent cookies to improve their service including understanding user interaction, monitor aggregate usage and web traffic routing.| Persistent:   
-2 years  
-<http://twitter.com/privacy>
+You can contact us using the details provided at the end of this Policy in the “Contacting Us” section.
+
+**THE TYPE OF INFORMATION WE COLLECT FROM YOU AND HOW WE WILL USE IT**
+
+We will collect various types of personal information from you when use our website and when you communicate with us in person, via telephone, post and email. Further details of the personal data we collect and how we use it are set out below.
+
+In this section, we have indicated with asterisks whether we need to process your personal data:
+
+  * * = to enter into and/or perform our contract with you to provide the products or services you request from us;
+  * ** = to pursue legitimate interests of our own or of third parties, provided your interests and fundamental rights do not override those interests;
+  * *** = to enable us to comply with our legal obligations; and/or
+  * ****= with your consent.
+
+
+
+**When you open an account with us**
+
+You will need to complete our “Register with us” form (<https://www.smiffys.com/customer/account/create/> ) and we will collect the following details:
+
+-Name
+
+\- Email Address
+
+-Telephone (optional)
+
+In the “My Dashboard” feature you have the option of adding a default billing and default shipping address. We will use this information to create and administer your account with us**.
+
+**When you contact us**
+
+When you use the form on our website to contact us (https://www.smiffys.com/contact/), we will collect the following details:
+
+  * Name
+  * Email Address
+  * Telephone Number
+  * Your order number, subject and details of your enquiry
+
+
+
+When you contact us by telephone, email or post, we will need to collect from you your Name, email address and order number (if query relates to a specific order), to allow us to locate your account, order and deal with your enquiry, together with any information you provide us with.
+
+We will only use this information for the purpose of responding to and, to the extent possible, dealing with your enquiry**.
+
+**When you make a purchase on our Website**
+
+When you make a purchase on our website we will collect the following details:
+
+First & Last Name
+
+Billing Address & Postcode
+
+Delivery Address & Postcode
+
+Phone Number
+
+Card Payment Details (name, card number, expiry date, CVV) which are provided via the website to our payment processing provider Stripe
+
+**Other Uses of our website**
+
+We will also process personal information about you to:
+
+  * process your order, take payment, arrange delivery, keep records of payments and carry out analysis for financial purposes*/**;
+
+
+  * allow you to participate in interactive features of our service, when you choose to do so*/**;
+
+
+  * allow you to access offers and promotions or enter competitions via our website provided by third parties**;
+
+
+  * provide you with information about our products, offers, events or promotions we feel may interest you where permitted by law**/****;
+
+
+  * notify you about changes to the services provided through our website**;
+
+
+  * ensure that content from our website is presented in the most effective manner for you and your device**;
+
+
+  * personalise our website to you and provide you with targeted offers**; and
+
+
+  * deal with any queries, complaints or claims made by you**/***.
+
+
+
+**Automatic Personal Data Collection**
+
+When you visit our website we will automatically collect technical information relating to the operating system, platform and device you use via behavioural cookies as is detailed further in our Cookie Policy.
+
+We will use the above information in order to:
+
+  * to administer our website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes to comply with our legal obligations**/***;
+
+
+  * to improve our website to ensure that content is presented in the most effective manner for you and for your computer / device**; and
+
+
+  * as part of our efforts to keep our website safe and secure to comply with our legal obligations**/***.
+
+
+
+We will not carry out any solely automated decision-making using your personal data.
+
+**Change of Purpose**
+
+We will only use your personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal information for an unrelated purpose, we will usually notify you and we will explain the legal basis which allows us to do so.
+
+**DISCLOSURE OF YOUR INFORMATION**
+
+We will share your data with the following categories of companies in order to provide our services to you, as set out in this statement:
+
+Companies that we need to use, in order to get your purchases to you, such as delivery and logistics companies, and payment service providers.
+
+Professional service providers, that help us with important functions such as IT services, accounting services, marketing, advertising, and hosting our website, and those that help us run our business.
+
+Government bodies including tax authorities, law enforcement and fraud prevention agencies, to help fight fraud.
+
+We will also disclose your personal information to third parties:
+
+  * in the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets;
+
+
+  * ifH. Smith & Sons (Wigmakers) Limited T/A Smiffys or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets; and/or
+
+
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms and Conditions and other agreements; or to protect the rights, property, or safety of our company our customers or others.
+
+
+
+Some of our service providers detailed above may be based outside of the European Economic Area or may transfer or allow access to personal data outside of the European Economic Area. Countries located outside the EEA are not governed by European Union (EU) data protection laws. However, your personal information will be protected by the safeguards required by EU data protection laws.
+
+Details of the non-EEA countries which your personal data may be processed in and the safeguards in place (including how to obtain a copy of them) may be obtained by contacting us using the details below.
+
+**STORAGE OF YOUR PERSONAL DATA**
+
+We will only keep your personal data for as long as we need to in order to fulfil the relevant purpose(s) it was collected for, as set out above in this Policy, and for as long as we are required to keep it for legal purposes. If you are a customer, we will keep your personal data for seven years from the date from which it is no longer needed by us for the purposes listed above for legal and tax purposes.
+
+Please note that your credit and debit card details collected and processed by our payment processing service provider Stripe Payments Europe, Ltd (“Stripe”).
+
+Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access, such as password protection, access controls, firewalls, encryption and anti-virus protection. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk.
+
+It is important that the personal information we hold about you is accurate and current. Please keep us informed if your personal information changes during your relationship with us.
+
+**YOUR RIGHTS**
+
+Data protection laws provide you with the following rights to:
+
+  * request access to your personal information (commonly known as a “data subject access request”). This enables you to receive a copy of the personal information we hold about you and to check that we are lawfully processing it;
+
+
+  * request correction of the personal information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected;
+
+
+  * request erasure of your personal information. This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal information where you have exercised your right to object to processing (see below);
+
+
+  * request the restriction of processing of your personal information. This enables you to ask us to suspend the processing of personal information about you, for example if you want us to establish its accuracy or the reason for processing it;
+
+
+  * transmit personal data you submitted to us back to you or to another organisation in certain circumstances; and
+
+
+  * complain to the supervisory authority, which in the United Kingdom is the Information Commissioner’s Office.
+
+
+
+You also have the **right to object** to the processing of your personal information where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground. You also have the right to object where we are processing your personal information for direct marketing purposes.
+
+You will not have to pay a fee to access your personal information (or to exercise any of the other rights above). However, we may charge a reasonable fee if your request for access is clearly unfounded or excessive. Alternatively, we may refuse to comply with the request in such circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights). This is another appropriate security measure to ensure that personal information is not disclosed to any person who has no right to receive it.
+
+If we rely on your consent to process your personal data, (for example if we need your consent to send you direct marketing), you have the right to withdraw your consent for that specific processing at any time. To withdraw your consent, please contact us using any of the details set out below in the “Contacting Us” section. Once we have received notification that you have withdrawn your consent, we will stop processing your information for the purpose(s) you originally agreed to, unless we have legal basis for doing so.
+
+**CHANGES TO OUR POLICY**
+
+Any changes we make to our Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our Policy.
+
+**CONTACTING US**
+
+If you have any queries, comments or requests regarding this Policy or you would like to exercise any of your rights set out above, you can contact us in the following ways:
+
+  * by email to our Legal Department at [intellectualproperty@smiffys.com](mailto:intellectualproperty@smiffys.com);
+  * by telephone at +44 (0) 1427 619799- please ask to speak with the Legal Department; or
+  * by post at Revie Road Business Park, Elland Rd, Leeds LS11 8JT
+
+
