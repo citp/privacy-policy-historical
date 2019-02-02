@@ -1,81 +1,125 @@
-> *The following text is extracted and transformed from the phuketindex.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221125813id_/http%3A//phuketindex.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phuketindex.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202203722id_/https%3A//phuketindex.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Privacy policy - One stop Phuket island directory
+# Phuketindex.com (Events in Phuket Apps in Facebook) - Privacy Policies
 
-Overview
+Effective date: February 02, 2019
 
-This Privacy Policy describes the policies of Guide Vision Ltd., regarding the collection, use, disclosure and protection of the following types of information: 
+Guide Vision Limited ("us", "we", or "our") operates the https://phuketindex.com website (hereinafter referred to as the "Service").
 
-  * Information obtained when you and other users (" _you_ " or " _Users_ ") visit the[ www.guidevision.com](http://www.guidevision.com/) web site (the " _Site_ ").
-  * Information obtained through email communications with you related to the Site. 
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://phuketindex.com
 
-This privacy policy does not apply to information that we may collect from you by other means (including offline) or from other sources, nor does it apply with respect to information you provide to other Guide Vision publications or web sites. Your use of this Site constitutes your acceptance of all of the terms and conditions contained in this Privacy Policy and your consent to any action we take with respect to your information that is in compliance with this Privacy Policy.
+## Information Collection And Use
 
-We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes. 
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-If you do not agree to this Privacy Policy, as modified from time to time, please do not visit this Site.   
+### Types of Data Collected
 
+#### Personal Data
 
-**General**
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-We require you to provide us with certain information about yourself when you register with this Site and when you request products and services. We also collect information from you when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site, such as moderated discussions and bulletin boards. 
-
-The information we collect may include information from which you may be personally identified (" _Personally Identifiable Information_ "), such as name, postal address, telephone number, fax number and email address, and also may include certain business information, such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge. 
-
-**Automatic Data Collection**
-
-When you visit this Site, we may collect the IP address of your computer. 
-
-We also automatically record other information that identifies your computer to this Site and tracks your behavior on the Site. For example, we may record how many times you visit this Site and your navigation within the Site. We do not collect Personally Identifiable Information in this manner; however, if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically. 
-
-Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer's hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. 
-
-Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to email communications, using methods that may include those described in the preceding paragraph. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties.   
+  * First name and last name
+  * Cookies and Usage Data
 
 
-**General**
 
-We use Personally Identifiable Information that we collect on this Site for the following purposes: 
+#### Usage Data
 
-  * To provide you with this Site and other products and services, such as electronic and print publications and newsletters. 
-  * To respond to your inquiries and contact you about changes regarding the Site.
-  * To provide you with email, fax and other notices (such as expiration and renewal notices) and inquiries regarding your account and the products or services that you are receiving, and for billing and collection purposes.
-  * For any other purpose disclosed at the time the information is collected or to which you consent. 
-  * As otherwise specifically described in this Privacy Policy. 
+We may also collect information on how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-We also may use your information to better understand the needs of our Users and to improve our Site. For example, we may use this information to determine what portions of the Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. 
+#### Tracking & Cookies Data
 
-We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of the Site. 
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
-**Newsletters and Offers**
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
-We may use the information you provide us to send you email, fax and other communications on behalf of Guide Vision. These communications may include email newsletters that are relevant to this Site. All of these communications will include instructions explaining how you can request that we not send you (" _opt out_ " of) future communications of the same type. 
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service. You can learn more how to manage cookies in the [Browser Cookies Guide](https://privacypolicies.com/blog/how-to-delete-cookies/).
 
-We may use your information to send you email, fax and other communications on behalf of unaffiliated third parties, but only if you opt in to receiving such offers when you register. Each of these communications will include instructions for opting out of receiving future third party offers from us. You also may change your preference with regard to receiving third party offers from this Web Site at any time on the registration page of this Site. 
+Examples of Cookies we use:
 
-We will not disclose your information to anyone outside Guide Vision, except as described in this section. 
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
 
-We may disclose aggregated anonymous statistics about many Users to advertisers, content and service providers and other affiliated and unaffiliated companies. We sometimes engage third parties to perform services for us, including in connection with this Site, that require us to disclose Users' Personally Identifiable Information to them. If we make any such disclosure, we will require such parties to keep the information confidential and to use it only to perform the services. 
 
-We may from time to time wish to disclose your information to third parties that wish to market, or provide information about, their products and services to you. We will only do so after obtaining your permission. The only other times we may disclose your Personally Identifiable Information collected on this Site are as follows: 
 
-  * In the event of an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving Guide Vision or this Site, we may transfer some or all User information, including Personally Identifiable Information, to the successor company. 
-  * We will disclose your Personally Identifiable Information when we believe such disclosure is required by law or for the protection of persons or property. 
-  * We may disclose your Personally Identifiable Information with your consent, as well as when disclosure is necessary to accomplish the purpose for which you provide it. For example, when you request information from advertisers in the 
-  * List With Us" section of our publications, we will disclose your Personally Identifiable Information to the advertisers you specify. 
+## Use of Data
 
-**Security**
+Events in Phuket uses the collected data for various purposes:
 
-We use reasonable security safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties. 
+  * To provide and maintain the Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer care and support
+  * To provide analysis or valuable information so that we can improve the Service
+  * To monitor the usage of the Service
+  * To detect, prevent and address technical issues
 
-You may view and update information that you previously submitted to this Site by visiting the registration page for this Site However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process. 
 
-**Links**
 
-This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites. 
+## Transfer Of Data
 
-**This Site is operated by:**
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
+If you are located outside Thailand and choose to provide information to us, please note that we transfer the data, including Personal Data, to Thailand and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Events in Phuket will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Legal Requirements
+
+Events in Phuket may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of Events in Phuket
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children's Privacy
+
+Our Service does not address anyone under the age of 18 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: info@guidevision.com
+
+
+
+**This Site is operated by:**   
 Guide Vision Limited   
 9/98 Moo 3, Rasadanusorn Rd., Rasada,   
 Muang, Phuket 83000   
