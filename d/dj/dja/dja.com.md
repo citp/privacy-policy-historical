@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dja.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625060209id_/https%3A//dja.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dja.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202212314id_/https%3A//dja.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – DJA.com
+# Privacy Policy | DJA.com
 
 We know how important privacy is, so here is our policy for the  **whole world to see**
 
