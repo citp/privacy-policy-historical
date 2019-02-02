@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the maxmind.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223173842id_/https%3A//www.maxmind.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxmind.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202162556id_/https%3A//www.maxmind.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MaxMind
 
-_Effective Date: 2018/12/10_
+_Effective Date: 2019/01/14_
 
 This Privacy Policy discloses the privacy practices of MaxMind, Inc. (sometimes referred to in this Privacy Policy as "MaxMind", "we", or "us"), in connection with the MaxMind.com website (the "Website") and any features and online services provided by MaxMind that post or include a link to this Privacy Policy (collectively, the "Services"). We have provided this statement of our Privacy Policy to answer your questions about the types of information that we gather, the ways in which we use and share this information, and your rights and choices regarding such information.
 
@@ -84,7 +84,7 @@ MaxMind uses information that does not identify you for any purpose except as pr
 
 ## Sharing with Our Service Providers
 
-We provide your information to our third party service providers, contractors, business partners, and advertisers, for the purpose of delivering services to you as well as for purposes related to Services administration and operation, including conducting analytics. When sharing information for the purpose of providing you with the services you request, we will share your information only as necessary for the third party working on MaxMind's behalf to complete its work for us. For example, if you use a credit or debit card to complete a transaction on the Services, we will share your credit or debit card number with a payment processing and/or a fulfillment company in order to complete your transaction.
+We provide your information to our third party service providers, contractors, business partners, and advertisers, for the purpose of delivering services to you as well as for purposes related to Services administration and operation, including conducting analytics and helping us with sales tax compliance. When sharing information for the purpose of providing you with the services you request, we will share your information only as necessary for the third party working on MaxMind's behalf to complete its work for us. For example, if you use a credit or debit card to complete a transaction on the Services, we will share your credit or debit card number with a payment processing and/or a fulfillment company in order to complete your transaction.
 
 ## Sharing of Databases
 
