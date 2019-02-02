@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyexecutives.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821051917id_/https%3A//www.realtyexecutives.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyexecutives.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202200520id_/https%3A//www.realtyexecutives.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice
 
