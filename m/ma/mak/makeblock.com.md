@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makeblock.com privacy policy that was archived on 2018-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180508224734id_/http%3A//www.makeblock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeblock.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202194739id_/https%3A//makeblock.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Makeblock
+# Privacy Policy | Makeblock - Global STEAM Education Solution Provider
 
 This privacy policy (the “Privacy Policy”) is designed to inform you about the use of information that you provide to Makeblock Co., Ltd. (“Makeblock,” “we,” or “us”) through Makeblock’s website relating to DIY robotics construction and science, technology, engineering and mathematics education platform for makers, hobbyists, (“STEM”) learners, and educators, located at www.makeblock.com (“Site”) and the services, features, content, applications and products we offer (the “Application”).
 
@@ -18,7 +18,7 @@ We have tried to keep the wording of Privacy Policy as simple as possible. Pleas
 
 This Privacy Policy applies to all of the services offered by Makeblock but excludes any external services that have separate privacy policies that do not incorporate this Privacy Policy. Our Privacy Policy also does not apply to other companies or organizations that advertise our products or services and that may use cookies and other technologies to serve and offer relevant ads.
 
-**_Collection and use of Personal Data_**
+#### **_Collection and use of Personal Data_**
 
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are in any case: cookies, usage data and email.
 
@@ -42,7 +42,7 @@ Makeblock processes Personal Data on servers in the European Union and in the Un
 
 Makeblock does not store or keep the Personal Data stored longer than necessary for the purposes for which the Personal Data was processed. Personal Data will be kept until a customer deletes their account. At the moment a customer deletes their Makeblock account, Makeblock will no longer be able to retrieve the Personal Data any longer.
 
-**_Disclosure of Personal Data_**
+#### **_Disclosure of Personal Data_**
 
 As a general matter, we do not sell, trade, or otherwise transfer to third parties your Personal Data. We will share your Personal Data with companies, organizations or individuals outside of Makeblock with your explicit and informed consent to do so.
 
@@ -60,31 +60,35 @@ Information that is not personally identifiable may be shared publicly, for exam
 
 If Makeblock is involved in any kind of merger, acquisition or sale, we will still ensure the confidentiality of any Personal Data.
 
-**_Transfer of Personal Data outside the EU_**
+#### **_Transfer of Personal Data outside the EU_**
 
-Your Personal Data may be transferred to and stored in servers located in the United States and in some cases China (when you use the Application with Chinese settings) and Asia Pacific (related to customer service).
+Your Personal Data may be transferred to and stored in servers located in the United States and in some cases China (when you use the Application with Chinese settings) and Japan (related to customer service).
 
-**_Cookies and use of Google Analytics_**
+#### **_Cookies and use of Google Analytics_**
 
-We use information collected from cookies (which are text files placed on your computer) and other technologies, like pixel tags (which tracks activities on websites, or when an email is opened or accessed) to improve the Site and the overall quality of the Application.
+We use information collected from cookies (which are text files placed on your computer) and other technologies
+
+Our websites use cookies to remember:
+
+  * Your preferences, such as the site language
+  * The items currently in your shopping cart
+  * Whether you have logged in to the website
+
+
+
+Also, some videos embedded in our pages use a cookie to anonymously gather statistics on how you got there and what videos you visited.
+
+Cookies (random-generated numbers to tell us that these visits are from the same anonymous user) are also stored by Google Analytics, the corporate service which measures how well our websites meet the needs of its users by analyzing how users use the site.
 
 You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that should you refuse the use of cookies, you may not be able to use certain features otherwise available on the Site.
 
-To help us deliver ads (remarketing), measure their performance, and make them more relevant to you based on criteria like your activity in our application we use cookies and pixel tags to tailor ads and measure their performance. Using these technologies, we can show you ads and evaluate their effectiveness. This helps us provide high-quality ads and content that might be more interesting to you.
+The cookie-related information is **not used to identify** you personally. These cookies are not used for any purpose other than those described here.
 
-We will not associate identifiers from cookies or similar technologies with sensitive identifiers, such as the race, religion, sexual orientation or health of our users.
-
-The Site uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics also uses cookies, to facilitate the Site’s analysis of how users use the Site, for example by saving your language preferences.
-
-At the moment a customer deletes their account, Makeblock will not be able to access the Personal Data processed by Google Analytics any longer.
-
-_Personal Data collected: Cookie and Usage Data._
-
-_Place of processing : USA –[Privacy Policy](https://policies.google.com/privacy) – [Opt-out](https://tools.google.com/dlpage/gaoptout)._
+_Place of processing : USA – Privacy Policy – Opt-out._
 
 You can opt-out of Google Analytics by installing Google’s opt-out browser add-on, and out of interest-based Google ads using Google’s Ads Settings.
 
-**_Interaction with external social networks and platforms_**
+#### **_Interaction with external social networks and platforms_**
 
 The Site allows for direct interaction with external social networks or other external platform that are outside our control. The interaction and information obtained by this Application are always subject to the user’s privacy settings for each social network. We are not responsible for the security or privacy of any information collected by other websites or other services. Information collected by third parties, which may include such aspects as location data or contact details, is governed by their privacy practices. You should exercise caution, and review the privacy statements applicable to the third-party websites and services you use. If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when customers do not use it.
 
@@ -94,17 +98,17 @@ The Facebook Like button and social widgets are services allowing interaction wi
 
 _Personal Data collected: Cookie and Usage Data._
 
-_Place of processing : USA –[Privacy Policy](https://www.facebook.com/policy.php)._
+_Place of processing : USA – Privacy Policy._
 
 To opt-out of activity-based ads in Facebook, visit your Facebook Ad Settings.
 
-_Microsoft Azure_
+_Alibaba Cloud_
 
-Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying and managing applications and services through a global network of Microsoft-managed data centers. Cloud computing is an information technology paradigm that enables access to shared pools of configurable system resources and the provision of services, often over the internet. Microsoft Azure is used to support the Application. Your registered email address, name, published content and comments may be shared with Microsoft Azure.
+Alibaba Cloud  is a cloud computing service created by Alibaba Cloud for building, testing, deploying and managing applications and services through a global network of Alibaba Cloud-managed data centers. Cloud computing is an information technology paradigm that enables access to shared pools of configurable system resources and the provision of services, often over the internet. Alibaba Cloud is used to support the Application. Your registered email address, name, published content and comments may be shared withAlibaba Cloud .
 
 _Personal Data collected: your registered email address, name, published content and comments._
 
-_Place of processing: USA – Privacy Policy._
+_Place of processing: Germany– Privacy Policy._
 
 _PayPal and similar providers_
 
@@ -112,7 +116,7 @@ If you make a purchase on the Site, we may ask you for your credit card and bill
 
 _Personal Data collected: credit card and billing information._
 
-_Place of processing: USA –[Privacy Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)._
+_Place of processing: USA – Privacy Policy._
 
 _Zendesk_
 
@@ -120,7 +124,7 @@ Zendesk offers supporting services to Makeblock with respect to customer support
 
 _Personal Data collected: email address, phone number and customer support history._
 
-_Place of processing :  United States, Asia Pacific, and the European Union – [Privacy Policy](https://www.zendesk.com/company/customers-partners/privacy-policy/)._
+_Place of processing : Japan – Privacy Policy._
 
 _Twitter_
 
@@ -128,7 +132,7 @@ The Twitter Tweet button and social widgets are services allowing interaction wi
 
 _Personal Data collected: Cookie and Usage Data._
 
-_Place of processing : USA –[Privacy Policy](https://policies.google.com/privacy?hl=en)._
+_Place of processing : USA – Privacy Policy._
 
 If you would like to change the way data is collected about you in Twitter, visit Twitter account settings, Do Not Track browser setting, and the opt-out choices of Twitter’s ads.
 
@@ -140,7 +144,7 @@ YouTube is a video content visualization service provided by YouTube that allows
 
 _Personal Data collected: Cookie and Usage Data._
 
-_Place of processing : USA –[Privacy Policy](https://policies.google.com/privacy?hl=en)._
+_Place of processing : USA – Privacy Policy._
 
 To opt-out activity-based ads on YouTube, visit your YouTube account settings.
 
@@ -148,13 +152,13 @@ Our Privacy Policy also does not apply to these external social networks and pla
 
 _Qiniu Cloud_
 
-Qiniu Cloud is a storage service (CDN) to host user-uploaded images. If a customer for example writes an article and inserts pictures into the article on the Application, these pictures will be uploaded to the Qiniu Cloud.
+Qiniu Cloud is a storage service (Content Delivery Service, or CDN) to host user-uploaded images. If a customer for example writes an article and inserts pictures into the article on the Application, these pictures will be uploaded to the Qiniu Cloud.
 
 _Personal Data collected: Uploaded pictures._
 
-_Place of processing : China –[SLA related to data protection(Chinese)](https://www.qiniu.com/sla-kodo)._
+_Place of processing : China – Privacy Policy._
 
-**_Managing email addresses and sending messages_**
+#### **_Managing email addresses and sending messages_**
 
 These services provided by third parties make it possible to manage a database of subscription based email contacts to communicate with customers via email. The services are used to collect data concerning the date and time when the mail is viewed by the customer, as well as when the user interacts with incoming mail, such as by clicking on links included in the email.
 
@@ -164,9 +168,9 @@ MailChimp is an email address management and message sending service provided by
 
 _Personal Data collected: Email address._
 
-_Place of processing : United States –[Privacy Policy](https://mailchimp.com/legal/privacy/)._
+_Place of processing : United States – Privacy Policy._
 
-**_Security_**
+#### **_Security_**
 
 We use a variety of security measures to maintain the safety of your Personal Data. We take great care to ensure that your Personal Data is stored securely on our servers, and we follow the standards generally accepted in the industry to protect Personal Data submitted to us. In particular, we:
 
@@ -181,19 +185,19 @@ It is important to note, however, that no method of transmission or storage via 
 
 We aim to maintain our services in a manner that protects Personal Data from accidental or malicious destruction. As a consequence, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. Makeblock uses the Cloud server services of providers such as Amazon and Microsoft. These providers also store the information in the United States. Upon deletion of an account, this Personal Data is inaccessible to Makeblock unless otherwise required by law.
 
-**_Accessing and updating your Personal Data_**
+#### **_Accessing and updating your Personal Data_**
 
 We understand our customers have different privacy concerns. Our aim is to be clear about what Personal Data we collect in order for our customer to make informed decisions.
 
 If the Personal Data is wrong or incomplete, we strive to give our customers ways to update it quickly or delete it by contacting us in the manner as described in the section of this Privacy Policy entitled “Contact Information.” This may not be the case if that information has to be kept for legal purposes.
 
-**_Opting-out_**
+#### **_Opting-out_**
 
 We provide you with the opportunity to “opt-out” of having your Personal Data used for certain purposes.
 
 These “opt-out” opportunities include, by way of example only, the possibility to opt-out receiving the Makeblock newsletters if you no longer wish to receive them, by following the instructions included in each communication, or by contacting us in the manner as described in the section of this Privacy Policy entitled “Contact Information.”
 
-**_Changes to our Privacy Policy_**
+#### **_Changes to our Privacy Policy_**
 
 We may amend this Privacy Policy from time to time as we add new features and services to the Application, as laws change, and as privacy and security practices evolve. We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints that we cannot resolve with our customers directly.
 
@@ -203,11 +207,11 @@ If a user objects to any of the changes to this Privacy Policy, the user must ce
 
 All prior versions of this Privacy Policy will be kept in an archive for your review upon request.
 
-**_Applicable law_**
+#### **_Applicable law_**
 
 By visiting this Site, you agree that the laws of the Netherlands, without regard to principles of conflict of laws, will govern this Privacy Policy.
 
-**_The rights of users_**
+#### **_The rights of users_**
 
 Users have the right to withdraw their consent for the processing of Personal Data or the further processing of Personal Data by Makeblock at any time. A withdrawal should be sent to Makeblock at the contact information set out below.
 
@@ -221,7 +225,7 @@ Users have the right to lodge a complaint against Makeblock with a supervisory a
 
 More details concerning the collection or processing of Personal Data may be requested from Makeblock at any time. Please see the contact information at the end of this Privacy Policy.
 
-**_Contact information_**
+#### **_Contact information_**
 
 Makeblock is responsible for this Privacy Policy.
 
