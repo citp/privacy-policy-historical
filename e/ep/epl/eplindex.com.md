@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eplindex.com privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617221112id_/http%3A//eplindex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eplindex.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202122414id_/https%3A//eplindex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EPL Index: Unofficial English Premier League Opinion, Stats & Podcasts
 
@@ -26,7 +26,7 @@ Cookies provide information regarding the computer used by a visitor. We may use
 
 We may gather information about your general internet use by using the cookie.  Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally. It is statistical data. This statistical data does not identify any personal details whatsoever
 
-You can adjust the settings on your computer to decline any cookies if you wish.  This can easily be done by activating the reject cookies setting on your computer.
+EPLIndex permits third-party firms to show advertisements and/or gather anonymous data when a user visits the site. Such firms might utilize non-personal information during the user’s visit so as to provide ads that may be of better interest to the suer. Such firms usually utilize a cookie to gather the data. To find out more about this practice or to change settings for such advertising, you can go to <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Use of Your Information**
 
@@ -64,6 +64,10 @@ On occasion we include links to third parties on this website. Where we provide 
 
 In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. Please note that we reserve the right to charge a fee of £10 to cover costs incurred by us in providing you with the information.
 
+**Opting Out Of Interest-Based Ads**
+
+To opt out of interest-based advertising, please [click here](http://optout.networkadvertising.org/#!/).
+
 **Contacting Us**
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c796c7075727879645c7b717d7570327f7371).
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [eplindex@gmail.com](mailto:eplindex@gmail.com).
