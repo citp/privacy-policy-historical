@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingenico.com privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008063300id_/https%3A//www.ingenico.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingenico.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202092015id_/https%3A//www.ingenico.com/privacy-policy) for the most accurate reproduction.*
 
 # Ingenico Group - INGENICO External Privacy Policy
 
