@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steamlvlup.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013190223id_/https%3A//steamlvlup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamlvlup.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202122559id_/https%3A//steamlvlup.com/privacy-policy) for the most accurate reproduction.*
 
 # SteamCards - Private Policy
 
@@ -28,8 +28,6 @@ messages.alert_8may_withdraw
 steamlvlup.com   
 Andrey Krepak   
 Registration number: 318645100002160   
-2 proezd Blinova   
-Saratov, 410007, Russia   
 Owner contact email: support@steamlvlup.info
 
 ### Types of Data collected
@@ -128,8 +126,6 @@ Contact information
   * steamlvlup.com
   * Andrey Krepak
   * Registration number: 318645100002160
-  * 2 proezd Blinova
-  * Saratov, 410007, Russia
   * Owner contact email: support@steamlvlup.info
 
 
