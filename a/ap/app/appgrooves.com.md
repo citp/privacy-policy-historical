@@ -1,91 +1,59 @@
-> *The following text is extracted and transformed from the appgrooves.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625214106id_/https%3A//searchman.com/s/doc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appgrooves.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202115900id_/https%3A//appgrooves.com/docs/privacy.html) for the most accurate reproduction.*
 
-# 
+# None
 
-**AppGrooves** **, Corp.**
+AppGrooves
 
-**SearchMan** **Privacy Policy**
+Privacy Policy
 
-Last updated: 05/29/12
+Last updated: 10/01/2017
 
-The SearchMan service (the “Service”) located at [http://SearchMan.com/](http://searchman.com/) and [https://SearchMan.com/](https://searchman.com/) (collectively, the “Site”) is operated by AppGrooves, Corp. AppGrooves Corp. is committed to respecting and protecting your privacy. To that end, we have prepared this privacy policy (“Privacy Policy”) to describe our information gathering and dissemination practices and our data protection practices for the Service; it does not apply to other online or offline AppGrooves sites, products or services. The terms “AppGrooves,” “we,” “us,” and “our” refer to AppGrooves and its affiliates. The terms “you,” “your,” and “yours” refer to the user utilizing the Service or the Site. This Privacy Policy is incorporated into and subject to the SearchMan Terms of Service located at [http://SearchMan.com/s/doc/tos.html](http://searchman.com/s/doc/tos.html) (the “TOS”), and capitalized terms used but not defined in this Privacy Policy are defined in the TOS.
+AppGrooves Corp. (“AppGrooves,” “we” or “us”) is pleased to provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personally identifiable information we receive from you and other users of the AppGrooves service, through our website located at https://appgrooves.com (the “Website”) and through our mobile application software.  Such service, the software application and the Website are collectively referred to in this Privacy Policy as the “Application.”  This Privacy Policy applies only to information that you provide to us through the Application. AppGrooves reserves the right to update this Privacy Policy from time to time, and we will notify you of any material changes by posting the new Privacy Policy on the Website at http://appgrooves.com/privacy.html.  We encourage you to review this Privacy Policy regularly for any changes.  Your continued use of the Application will be subject to the then-current privacy policy.
 
-**Collection of Information**
+The data that we regularly collect about users of our Application, including, but not limited to, information about our users’ hardware, devices, and usage of the Application, such as IP address, browser type, pages accessed, duration of visit, use data, device ID, device type, application name, version information, installed applications, running applications, etc.) does not necessarily enable us to personally identify you, and that is not our intention.  
 
-Here's what we collect from you when you use the Service:
+We do collect personally identifiable information about you, such as your username, name, age, zip code, geographic location, phone number and email address (your “Personal Information”), when you voluntarily provide it by registering for an account with us or signing into the Application by using Facebook Connect or your Twitter credentials.  You may also provide Personal Information to us in other ways, such as by requesting user support.  You may consider some of this information to be sensitive so you should choose carefully regarding whether and if you will use the Application.  Once you become a user, you may provide additional information in your profile section.  Providing additional information is optional. To facilitate your use of the Application, AppGrooves may automatically collect certain types of information when you access or use the Application.  In order to collect this data, AppGrooves may utilize automated tools and files such as “cookies” or server logs, or utilize location information from your mobile device. These automated tools and files may reside on our servers or on your computer or mobile device.  If you restrict our ability to use automated tools and files, your ability to access and use all or part of the Application may be limited or disabled completely.  Also, please be aware that third parties may set cookies on your hard drive or use other means of passively collecting information about your use of their services or content. We do not have access to, or control over, these third-party means of passive data collection.  
 
-·       User-Provided Information: When you use or subscribe for the Service, we may ask you to provide certain information, including information that is considered "personally identifiable information” (that is, information that would allow us to directly identify you, such as your name, your company name, and email address). This information is necessary to provide our Service for your app and improve the SEO of your app in the App Store. If you elect to subscribe to the full functionality and features of the Service, you will be prompted to provide financial information, including credit card and other billing information, which will be passed directly to a secure third party credit card payment processing service to process and charge your monthly subscription fee. The credit card payment processor will not share your financial information with us and we will not store any such information on our servers.  We will not ask for more information than is necessary to operate the Service.
+AppGrooves uses your Personal Information primarily to provide you with the Application and to provide customized content on the Application that is of interest to you.  The information is also used to verify your authority to access the Application and to contact you when reasonably necessary.  AppGrooves may also use any information you have provided as reasonably necessary to administer or provide customer support for the Application, and to provide you with periodic printed or electronic communications about new products and services, discounts, special offers, promotions, or upcoming events.  You may opt-out of receiving some or all non-Application related communications by following the “unsubscribe” instructions provided in any of the communications sent to you, or updating your account information.  Also, your full name and email address may be used when you use the Application to send a message to another user. Additionally, we use your email address to contact you on behalf of other friends on the site (such as when another user sends you a message).
 
-·       "Automatically Collected" Information: When you use the Site or Service we may automatically record certain information about your use from your web browser such as your IP address. This information is used for our internal research purposes, to accommodate the Site to our users’ preferences and needs.
+In our mission to deliver more personalized recommendation results to users, AppGrooves will use your data anonymously in our own research to better understand recommendation algorithms and improve our services, products, features and content.  We may also share anonymous Personal Information with third-party researchers.  Personal Information we share with a third party will be anonymous and not associated with your name or any identifying information provided by AppGrooves.
 
-·       "Cookies" Information:  One form of "automatically collected" information we record is information stored by "cookies." When you use the Service, we may send one or more cookies to your computer. We use both "session" and "persistent" cookies to collect, store, and sometimes track various types of information. A session cookie is one that disappears after you close your browser. While a persistent cookie remains after you close your browser (and may be used by your browser when you later return to the Service), persistent cookies generally can be removed. You can review the appropriate "Help" file in your Web browser or your mobile device to learn the proper way to modify your cookie settings. We will use the information collected to improve user experience on the Site by customizing features to our users’ preferences. 
+We may receive personal information from third parties about their users, and may combine this information with Personal Information we maintain about you. If we do so, this policy governs the combined information.  Depending on your account settings, certain information you provide may be available to other users of the Application.
 
-**Information Use**
+AppGrooves may disclose your Personal Information to third parties from time to time in our sole discretion.  For this reason you should not disclose information to AppGrooves that you do not want shared with third parties.  In addition to the foregoing, AppGrooves will disclose your Personal Information as it believes is reasonably necessary to comply with law, regulation or other governmental authority, to enforce our Terms of Service or any other agreements (including investigation of potential violations thereof), to detect, prevent or otherwise address fraud, security, or technical issues, to protect the property and rights of AppGrooves or a third party, to protect the safety of the public or any person, or to prevent or stop any activity AppGrooves may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.
 
-AppGrooves may use your information for several general purposes: 
+AppGrooves may also contract with various third parties who help us provide and maintain the Application (including but not limited to data storage, maintenance services, database management, web analytics, payment processing, and improvement of the Application’s features). In these cases, we will use commercially reasonable efforts to prevent such third parties from disclosing your Personal Information, except for the purpose of providing the services in question.  
 
-·       to provide you with Service information, 
+AppGrooves may disclose, transfer and assign your Personal Information upon a merger with another entity, a transfer or sale to another entity of all or substantially all of AppGrooves’s stock or assets or upon any bankruptcy or other corporate reorganization.
 
-·       to enable your use of the Service,
+When you use our Application, all of the information that you submit, which may include name, email address, photographs and comments, will be publicly available to third parties and we may not have control over what they do with it.  By using our Application, you consent to such disclosure.  AppGrooves may make available to users chat rooms, forums, message boards, and other interactive features.  You should be aware that when you voluntarily disclose personally identifiable information (e.g. username, email address) via forums, postings, profiles or other methods, that information, along with any substantive information disclosed in your communication, can be collected, correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of AppGrooves. Please do not post any personal information through the Applications that you expect to keep private. Please note that we will disclose the information you direct us to disclose, even if it contains Personal Information, for example if you opt-in to share user comments, geographic location, or other content or information on a third-party service, such as Facebook or Twitter.  
 
-·       to support the Service offered on the Site,
+You may choose to allow the Application to provide alerts. Should you allow the Application to provide alerts, you understand and agree that this service may be provided using services operated outside of the Application, including, but not limited to, systems such as Push Notification Service by Apple and Google (collectively the “App Stores”). You understand and agree that pertinent data needed for such alerts will be transmitted and temporarily be stored on services operated by us, and that at the appropriate time, this alert data will be transmitted via corresponding services, e.g., the App Stores’ Push Notification Service, for delivery to your device or chosen delivery endpoints. At no time is the Personal Information you provide transmitted via the third-party delivery service unless as required by the nature of the delivery mechanism (email, for example, requires your name and email address for delivery). Should you disagree with the mechanism of this service, you agree to disable and not use alerts as provided in the Application.
 
-·       to contact you for feedback about the Service, 
+For your convenience, we may provide links to certain third party websites or referrals to certain third parties’ products or services.  If you choose to visit a third party’s website or use its products or services, please be aware that the third party’s privacy policy, and not the AppGrooves privacy policy, will govern your activities and any information you disclose while interacting with the third party.
 
-·       to conduct research about AppGrooves or our Service, 
+Because any Personal Information you submit to AppGrooves is purely voluntary and should not be of a particularly sensitive nature, we employ our standard security measures with respect to this information and do not use special encryption methods at this time.  Please note that AppGrooves cannot guarantee the security of user account information.  Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time.
 
-·       to notify you of technical updates or changes in policy, or 
+As part of our referral program, we may request personally identifiable information of our users’ friends and family whom they think would like to receive information on the Application. The persons referred to us will be contacted only by AppGrooves.  We use and treat information our users provide about their referrals in the same way we use and treat information about users who register directly with AppGrooves.
 
-·       to contact you for marketing and promotional purposes (unless you have opted out of receiving these types of communications),
+We do not knowingly collect personally identifiable information relating to children. In the event that we learn that we have collected personally identifiable information from anyone under 13 years of age without prior parental consent, we will take steps to promptly delete such information. By providing your personal information to AppGrooves, through the Application, you represent that you are 13 years of age or older. 
 
-·       to import other data from other services (if you have elected to have our dashboard display the available analytics information for your app from the App Store).
+The Website is hosted in the United States. If you are visiting from the European Union (EU) or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and by providing your personal data you consent to:
 
-**Information Sharing and Disclosure**
+(1)        The use of your personal data for the purposes identified above in accordance with this Privacy Policy; and
 
-We will not sell or rent your personally identifiable information to third parties except as described in this Privacy Policy. We may disclose your personally identifiable information to other companies or people under any of the following circumstances: 
+(2)        The transfer of your personal data to the United States as indicated above.
 
-·       when we have your consent to share the information.
+AppGrooves does not guarantee error-free performance under this Privacy Policy.  We may not always catch an unintended privacy issue, despite our efforts to do so.  Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve this Privacy Policy.  We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it.
 
-·       if sharing the information is reasonably necessary to provide the Service (if your information is shared with our third party service providers, we will only provide the information reasonably needed to deliver the service, and ask that such companies do not use your information for any other purpose).
+This Privacy Policy is subject to the terms in our Terms of Service, available for review at http://appgrooves.com/tos.html, including terms regarding limitations on damages and disclaimers of warranties.  Our Terms of Service take precedence over any conflicting provision in this Privacy Policy.  
 
-·       to keep you up to date on the latest product announcements, software updates, special offers, or other information we think you would like to hear about either from us or from our business partners (unless you have opted out of receiving these types of communications).
-
-·       if we believe in good faith that we are required to do so by law, in connection with litigation, to prevent a crime, or to protect personal safety, the public, or the Site.
-
-·       in connection with a sale or merger with another entity or if AppGrooves should ever file for bankruptcy or have its assets sold to another entity.
-
-AppGrooves may also share non-personally identifiable information with third parties. This type of information includes login credentials of other services, keywords of your apps and competitor apps of your apps, which we will use and disclose for the same reasons set forth above and for the following additional purposes: to import data from other services and to provide better analysis and suggestions for your App Store SEO.
-
-**Choice**
-
-You may also decline to share certain information with AppGrooves, in which case AppGrooves may not be able to provide to you some of the features and functionality found on the Service. You may update, correct, or delete your profile information and preferences at any time by editing your profile on the Site. Please note that while your changes are reflected promptly in active user databases, we may retain all information you submit for a variety of purposes, including backups and archiving, prevention of fraud and abuse, and analytics. You may also modify the cookie settings on your Web browser or mobile device to limit the information you share with us through certain automated collection devices.  You are responsible for maintaining the secrecy of your account information at all times.
-
-**Access**
-
-You may correct, amend, or delete your personally identifiable information by editing your profile on the Site or emailing us at appseo@appgrooves.com. If you have any questions or require more information from us regarding the information we collect, maintain, use and/or disclose you may contact us at the address below or send a request to appseo@appgrooves.com.
-
-**Security**
-
-We make efforts to protect personally identifiable information in our possession from loss, misuse, disclosure, alteration, unauthorized access, and destruction. AppGrooves takes reasonable precautions to safeguard the confidentiality of personally identifiable information, including using Secure Sockets Layer (SSL) software in certain cases, which encrypts certain of the information you input. While we strive to protect your personally identifiable information, we cannot ensure the security of the information you transmit to us in all cases and certain unauthorized third parties may gain access to and misuse your information despite our security efforts.
-
-The servers in which we store information are primarily located in the United States, but in times of emergency or for other business reasons, from time to time such information may be sent by us or our service providers to servers outside of the United States.
-
-**Third Party Sites**
-
-The Site may contain links to other sites or software that can be down loaded. AppGrooves is not responsible for the privacy practices of such other sites and software. We encourage our users to be aware when leaving the Site to read the privacy statements of each site that collects personally identifiable information and the privacy policies that apply to such third party software.
-
-**Your Consent to this Privacy Policy**
-
-By using this Site or the Service, you agree to this Privacy Policy, including our collection, use, storage and transfer of information as described in this Privacy Policy. We may occasionally update or modify this Privacy Policy, at our sole discretion. The date of the most recent update of this document will always be displayed at the beginning of this page. If we change our Privacy Policy, we will post those changes on the Site located at [http://SearchMan.com/](http://searchman.com/). If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email (if an email address has been provided) or display a notice on the Site. 
-
-We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the personally identifiable information we collect. Your continued use of this Site or the Service constitutes your agreement to this Privacy Policy and any updates.
-
-**Contacting AppGrooves**
-
-If you have any questions, comments, or concerns about this Privacy Policy, please contact us at:
+If you have any questions about our privacy practices, please feel free to contact us at:
 
 AppGrooves, Corp.
 
-444 Castro St, Suite 1200
+940 Stewart Dr, #244
 
-Mountain View, CA 94041
+Sunnyvale, CA 94085
+
+contact@appgrooves.com
