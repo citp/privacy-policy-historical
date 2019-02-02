@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paradym.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227120748id_/https%3A//www.paradym.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paradym.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202175433id_/https%3A//www.paradym.com/privacy-statement) for the most accurate reproduction.*
 
 # Paradym | Privacy Statement
 
