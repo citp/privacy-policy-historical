@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustlogo.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126160531id_/https%3A//www.comodoca.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustlogo.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202223100id_/https%3A//www.comodoca.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Comodo CA
 
