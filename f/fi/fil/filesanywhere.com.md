@@ -1,39 +1,49 @@
-> *The following text is extracted and transformed from the filesanywhere.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901003326id_/https%3A//www.filesanywhere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesanywhere.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202174156id_/https%3A//www.filesanywhere.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FilesAnywhere
 
-### FilesAnywhere Makes Your Privacy a Top Priority
+## **FilesAnywhere Privacy Policy**
 
-In today's online environment, we understand how important it is to protect our customer's privacy. You can rest assured that FilesAnywhere is committed to safeguarding your data and personal information.
+**Your privacy is our top priority**
 
-### Information Protection
+In today's cloud environment, we understand the importance of protecting our customer's privacy. You can rest assured that FilesAnywhere is committed to safeguarding your data and personal information. Below describes how we collect, use, and handle your personal information when you use our services.
 
-**Personal Information** : FilesAnywhere uses state-of-the-art security measures to protect against the loss, misuse, or alteration of any personal information that is within our control. All of the customer data we collect is strongly protected against unauthorized access at our data center. Our world-class facility located in the heart of the Dallas/Fort Worth Metroplex was built from the ground up and optimized for Internet service providers. Our data center building provides ironclad security and solid reliability using the same standards as hospitals, banks, and telecommunications industries.
+### **Collection and Use of Personal Information**
 
-**Files and Data** : FilesAnywhere stores all data on a highly secure system, and you may also opt to use secure server software (SSL) login for fully encrypted communications with our server. The SSL encrypts all information before it is sent to us, so no on can intercept your important documents on the Internet. Additionally, your account is strictly password protected. As long as your password is kept secret, you have full control of the files in your account.
+**FilesAnywhere Accounts** : In order to setup and service your account, we do require your name, email address, billing address, credit card number and expiration date. Your personal information is always transmitted using SSL protection and stored in an encrypted format.
+
+**FilesAnywhere Services** : When sending files and messages through our services, we ask for your email address, as well as that of the recipient, in order to complete your request. We maintain this information on our servers in order for you to use.  We will never send promotional emails to, or disclose recipient email addresses, without your permission.
+
+**Contests and Promotions** : Please be advised that if you request information, sign up for an optional service, submit feedback, or enter a contest or other promotion, we may ask for your name, address, and email address so that we may contact you. We may also use the collected information to notify you about important changes regarding our service functionality or related news that you may find useful.
+
+**Announcements and Special Offers** : If you prefer not to receive announcements or special offers from FilesAnywhere, you may opt out at any time. Simply [visit this page](https://login.filesanywhere.com/Complete-Updates.aspx) to change your email preferences. It's important that you ensure the accuracy of your profile information, including a valid email address so that we may contact you in regard to official changes in our privacy policies should they occur.
+
+**Device Information:** We collect information from and about the devices you use to access our service. This includes IP addresses, the type of browser, the device you use, and identifiers associated with your devices.
+
+**Cookies** : Small pieces of data stored in temporary hard drive files by your browser are called cookies. Most web browsers automatically accept cookies and FilesAnywhere’s website login requires the use of cookies. Our cookies do not contain any personally identifying information, but they do enable us to provide special features, such as default login, and to store temporary session data between visits.
+
+### **Information Protection**
+
+**Personal Information** : FilesAnywhere uses state-of-the-art security measures to protect against the loss, misuse, or alteration of any personal information that we collect and store. Our Infrastructure team scans the system nightly testing for vulnerabilities. All of the customer data we collect is protected against unauthorized access at our SOC II and III certified data center. Our facility is located in Carrollton, Texas and provides multiple security levels and solid reliability.
+
+**Files and Data** : FilesAnywhere stores all data on an encrypted enterprise grade storage system.  You may also opt to use SSL login for fully encrypted communications with our servers. The use of SSL technology ensures that all data transmitted between the web server and browser remains encrypted.  Additionally, on Professional accounts, your account is password protected with the option for MFA as an added layer of security.
 
 **FilesAnywhere Employees** : FilesAnywhere is devoted to keeping the content of your files private and secure. Only a few dedicated network technicians on duty at the data center have access to the secure files storage system. Technicians are not permitted to access customer documents unless required by law, and are bound by confidentiality agreements for your protection.
 
-### Collection and Use of Information
+### **Information Disclosure to Outside Parties**
 
-**FilesAnywhere Accounts** : It is your option to furnish personal information, such as your mailing address or gender, during the trial period. However, volunteering this information may be helpful to us in identifying you when you call our Help Center. In order to upgrade your service, we do require your name, email address, billing address, and credit card number and expiration date to complete your order. We always send your personal information to our servers using SSL protection.
+**Statistics** : Though FilesAnywhere monitors customer traffic patterns and site usage for development of the user interface, along with collecting statistics for performance measurement, we do not sell, trade, rent, or otherwise provide your personal information, including your email address, to any outside party.
 
-**FilesAnywhere Services** : When sending files and messages through E-Send or email services, we ask for your email address, as well as that of the recipient, in order to complete your request. However, we will never send promotional email to, or disclose recipient email addresses, without your permission.
+**Surveys** : At any time, FilesAnywhere may conduct customer satisfaction surveys for internal use, and only for the benefit of our users. Surveys are only conducted by FilesAnywhere employees.
 
-**Contests and Promotions** : Please be advised that if you request information, sign up for an optional service, submit feedback, or enter a contest or other promotion, we may ask for your name, address, and email address so that we may contact you. We may also use the collected information to notify you about important changes to our Website, functionality, services, or related news that you may find useful.
+**Government Request** : All government data requests are limited in the specific information they seek for an individual and only for court ordered investigations.  We will not provide data to any blanket requests by any government entity.
 
-**Announcements and Special Offers** : If you prefer not to receive announcements or special offers from FilesAnywhere, you may opt out at any time. Simply visit [this page](https://login.filesanywhere.com/MntSubscription/Subscription.aspx) to change your email preferences. It's important that you ensure the accuracy of your profile information, including a valid email address, so that we may contact you in in regard to official changes in our privacy policies should they occur.
+**Consent** : By using our website, you consent to the collection and use of basic information as described herein. FilesAnywhere reserves the right to change its Privacy Policy without notice. At a minimum, Privacy Policy changes will post on this page so that you are always aware of the information we collect, how it's used, and under what circumstances it may be disclosed.
 
-**Cookies** : Small pieces of data stored in temporary hard drive files by your browser are called cookies. Most web browsers automatically accept cookies and FilesAnywhere website login requires the use of cookies. Our cookies do not contain any personally identifying information, but they do enable us to provide special features, such as default login, and to store temporary session data between visits.
+**Rights to Access and Control Your Personal Information** : We recommend that you check the accuracy of your personal information from time to time in order to make sure we have the ability to contact you.  This can be done by logging into your account, going to the account profile and making the necessary changes to your personal data.  If you would like for us to send you a copy of your personal data please [contact us](http://support.filesanywhere.com/entries/20225197-contact-us).  If you terminate your account with us for any reason we will maintain your information for 30 days.  After 30 days, your information will be purged from our servers and will no longer be available.
 
-### Information Disclosure to Outside Parties
+**Still Have Questions?** **                                                                                                                                                                         **
 
-**Statistics** : Though FilesAnywhere monitors customer traffic patterns and site usage for development of the user interface, and collects statistics for performance measurement, we will not sell, trade, rent, or otherwise provide your personal information, including your email address, to others. FilesAnywhere reserves the right to provide aggregate statistics (e.g., total number of users living in California), traffic patterns, and related site information to reputable third-party vendors. These statistics will never include no personally identifying information.
+If you need help or have additional questions regarding the security and use of your personal information, please [contact us](http://support.filesanywhere.com/entries/20225197-contact-us).
 
-**Surveys** : At any time, FilesAnywhere may conduct customer satisfaction surveys for our own information only, and only for the benefit of our users. Surveys may be conducted by our employees or contracted to a third-party specialist.
-
-**Link Exchanges and Advertising** : FilesAnywhere may use third-parties to provide advertising content, such as opt-in newsletters. A this time, we do not offer this service and have no plans to do so in the immediate future. Additionally, we avoid link-exchanges as much as possible in the interest of our customers' satisfaction.
-
-### Consent
-
-By using our website, you consent to the collection and use of basic information as described herein. FilesAnywhere reserves the right to change its Privacy Policy without notice. At a minimum, Privacy Policy changes will post on this page so that you are always aware of the information we collect, how it's used, and under what circumstances it may be disclosed.
+Posted:  5-25-2018
