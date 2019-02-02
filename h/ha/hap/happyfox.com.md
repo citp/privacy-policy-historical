@@ -1,79 +1,329 @@
-> *The following text is extracted and transformed from the happyfox.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175301id_/https%3A//www.happyfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyfox.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202125412id_/https%3A//www.happyfox.com/privacy-policy) for the most accurate reproduction.*
 
-# HappyFox help desk software | Privacy policy
+# HappyFox | Privacy Policy
 
-HappyFox Inc. (“we”) is committed to ensuring the privacy of its customers and other visitors to its website (the “Site”) We have established this Privacy Policy to demonstrate our commitment to fair information practices and the protection of your privacy rights. We respect your right to privacy and this Privacy Policy details how we handle the information we receive from you.
+Effective as of April 23, 2018 for all users signing up on or after April 23, 2018. For existing users the changes will be effective from   
+May 23, 2018. [Click here](https://web.archive.org/privacy-policy/pp-archive-20180422/) for the prior version of our Privacy Policy.
 
-By using HappyFox, or allowing someone to use the Site on your behalf, you are consenting to our collection, use, disclosure, transfer and storage in accordance with this Privacy Policy, of any information including personal information and sensitive personal Information received by us as a result of such use.
+HappyFox Inc. (the "Company") is committed to ensuring the privacy of individuals who visit [happyfox.com](https://web.archive.org/), [happyfox.net](https://www.happyfox.net/) and [happyfoxchat.com](https://happyfoxchat.com/) (the “Visitors”). Individually and collectively, the sites [happyfox.com](https://web.archive.org/), [happyfox.net](https://www.happyfox.net/) and [happyfoxchat.com](https://happyfoxchat.com/) are referred to as (a “Site” or the “Sites”). Individuals who register to use the Services as defined below (“Customers”); individuals who register to attend the Company’s corporate events or provide information to Company at trade shows or similar events (“Attendees”); and individuals who apply for a job with Company (“Applicants”) may be referred to individually and collectively as ("you"). This Privacy Policy describes Company’s Privacy Policy in effect for the use of the Sites and the related applications and services offered by Company (collectively, the “Services”). This Privacy Policy also covers the privacy practices of the Sites that link to this Privacy Policy, including how the Company collects, uses, shares and secures the Personal Data you provide.
 
-## 1\. Types of Information Collected: 
+Company respects the privacy rights of Visitors, Customers, Attendees, and Applicants. This Privacy Policy details how Company handles the information received from Visitors, Customers, Attendees, and Applicants. By using Company’s Sites or Services, or allowing someone to use the Sites or Services on your behalf, you are consenting to Company’s collection, use, disclosure, transfer and storage in accordance with this Privacy Policy of any information including Personal Data received by Company as a result of such use.
 
-  1. **Traffic Information:** When you visit our Site, we automatically track and collect information that is not personally identifiable of you, including: (1) your Internet protocol (IP) addresses and domain server address; (2) the date and time of your visit to the site; (3) the type of internet browser and operating system you used to access the Site;, (4) the web pages that you accessed at the Site; (collectively “Traffic Information”). Traffic Information is anonymous information that does not identify or track you personally. 
-  2. **Usage Data:** Personal information does not include “Usage Data”, which is aggregated data we collect about a group or category of services, features or users, which does not contain personally identifying information. Usage Data helps us understand trends in usage of the Service so that we can better consider new features or otherwise tailor the Service. We may share Usage Data with third parties, including our customers, partners and service providers, for various purposes such as helping us better understand our customers’ needs, improving the Service, and marketing. We do not share Usage Data with third parties in a way that would enable them to identify you personally
-  3. **Personal Information:** So that you may access the services we offer through the Site, we require you to provide us with certain information that personally identifies you (“Personal Information”). The Personal Information we collect includes the following: (1) your name, (2) your address, (3) telephone number, (4) fax number, (5) e-mail address, (6) company name, (7) User ID, as selected by you, (8) Site password as selected by you. If you communicate with us by email or complete online forms or surveys, information provided by you in such communications may also be collected as Personal Information. 
+Company’s Services comply with the EU–U.S. Privacy Shield Framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data transferred from the European Union (EU) to the United States. You can view a description of how Company complies with the Privacy Shield Principles in Company’s [Privacy Shield Notice](https://web.archive.org/privacy-shield-notice/). Company has certified to the Department of Commerce that the Services described in Company’s Privacy Shield Notice adhere to the Privacy Shield Principles. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program and to view Company’s record of certification, please visit the U.S. Department of Commerce’s Privacy Shield website <https://www.privacyshield.gov/>.
+
+If you have questions or complaints regarding Company’s Privacy Policy or associated practices, please contact Company at [privacy@happyfox.com](mailto:privacy@happyfox.com). If you have an unresolved privacy or data use concern that Company have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=38139e10-377e-4382-b144-a4db1dafd08e)
+
+The Sites may contain links to third party websites, which have implemented their own privacy practices and privacy policies. Company encourages you to review the privacy policies of any applicable third party websites in order to understand their privacy practices in effect.
+
+## 1\. DEFINITIONS
+
+Personal Data
+
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+
+Usage Data
+
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+
+Cookies
+
+Cookies are small pieces of data stored on a User’s device.
+
+Data Controller
+
+Data Controller means a person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal data are, or are to be, processed.
+
+Data Processor (or Service Providers)
+
+Data Processor (or Service Provider) means any person (other than an employee of the Data Controller) who processes the data on behalf of the Data Controller. Company may use the services of various Service Providers in order to process your data more effectively.
+
+Data Subject
+
+Data Subject is any living individual who is the subject of Personal Data.
+
+User
+
+The User is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data. Users include Visitors, Customers, Attendees, and Applicants.
+
+## 2\. CONFIDENTIALITY AND SECURITY OF PERSONAL DATA
+
+Company maintains reasonable security measures to protect personal information from loss, destruction, misuse, unauthorized access or disclosure. These technologies help ensure that personal information submitted to the Sites and other data submitted to the Sites is safe, secure, and only available to you and to those to whom you have provided authorized access. While Company follows generally accepted standards to protect information submitted, including the use of secure socket layer (“SSL”) technology, no method of storage or transmission is 100% secure. Additional information about the Company’s privacy and security practices is available [here](https://web.archive.org/data-security/).
+
+## 3\. INFORMATION COLLECTED BY COMPANY
+
+  1. Personal Data:
+
+The Company may collect Personal Data from you at different times, as described below. Among other purposes described in detail below, your Personal Data may be used to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+    1. Customer Personal Data: Company collects certain Personal Data from Customers, at different points in time. 
+      1. Account Registration. Upon account registration, Company collects Personal Data that may include, but is not limited to: 
+        1. Email address
+        2. First name and last name
+        3. Phone number
+        4. Fax number (optional)
+        5. Address, State, Province, ZIP/Postal code, City
+        6. Company name
+        7. User ID, as selected by Customer
+        8. Site password, as selected by Customer
+        9. Credit card information
+        10. If applicable, the number of employees within the organization that will be using the Services
+      2. Company Communications. If Customer communicates with Company by email or completes online forms or surveys, the Company may collect Personal Data requested in such communications. Such Personal Data that may include, but is not limited to: 
+        1. Email address
+        2. First name and last name
+        3. Phone number
+        4. Fax number (optional)
+        5. Address, State, Province, ZIP/Postal code, City
+        6. Company name
+        7. User ID, as selected by Customer
+      3. Other. Company may also ask for and collect personal information such as an email address and a name or alias from any individual that Customer authorizes to log into and utilize the Services in connection with Customer’s account. Occasionally, Company connects personal information to information gathered in Company’s log files as set forth below. In such a case, Company would treat the combined information in accordance with this Privacy Policy.
+    2. Visitor Personal Information: When a Visitor submits a user inquiry through the “contact us” form on the Sites, Company collects Personal Data including, but not limited to: 
+      1. Email address
+      2. First name and last name
+      3. Phone number
+
+If you sign-up for a free trial account, the Company may collect the same information from you that it collects from any Customer, as described above. The Company will not, however, collect any credit card information from you until you subscribe as a paying Customer.
+
+    3. Attendee Personal Data: When Attendee registers for or attends a sponsored event, Company collects Personal Data including, but not limited to: 
+      1. Email address
+      2. First name and last name
+      3. Phone number
+      4. Address, State, Province, ZIP/Postal code, City
+
+Company may also collect this information from other events in which Company participates.
+
+    4. Applicant Personal Data: When Applicant applies for a job through the Site, Company collects Personal Data including, but not limited to: 
+      1. Email address
+      2. First name and last name
+      3. Phone number
+      4. Address, State, Province, ZIP/Postal code, City
+      5. Resume or Curriculum Vitae
+  2. Other Information Collected (the “Data”):
+    1. Traffic Information: When you visit any of the Sites, Company automatically tracks and collects certain information including, but not limited to (“Traffic Information”): 
+      1. Internet protocol (“IP”) addresses and domain server address
+      2. Date and time of the visit to the site
+      3. Type of internet browser and operating system you used to access the Site
+      4. Web pages that accessed at the Site
+      5. Location and language preferences
+      6. Identification numbers associated with the devices
+      7. Mobile carrier
+      8. System configuration information
+    2. Usage Data: Company also collects “Usage Data” about groups or categories of services, features or users, which do not contain personally identifying information. Usage Data helps Company understand trends in usage of the Service so that Company can better consider new features or otherwise tailor the Service.
+    3. Organization Data: Company may ask you to provide additional information, such as company annual revenues, number of employees, or industry.
+    4. Site Navigational Information: Company uses commonly-used information gathering tools, such as cookies and Web beacons, to collect information as you navigate the Sites about your use of the Sites and Services (“Site Navigational Information”). As described more fully below, Company and its partners use these cookies or similar technologies to analyze trends, administer websites including the Sites and Services, track users’ movements around the Sites and Services, serve targeted advertisements and gather demographic information about the user base as a whole. 
+      1. Cookies: Company uses cookies to make your interactions with the Sites easy and meaningful. When you visit one of the Sites, Company’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you; they merely recognize your web browser. Unless you choose to identify yourself to Company, such as by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Contact Us” or a “Demo Request” or an account “Sign Up” Web form), or by becoming an Applicant, you remain anonymous to Company. Company uses cookies that are session- based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of the Sites or Services. The following sets out how Company uses different categories of cookies and your options for managing cookies’ settings: 
+        1. Required Cookies: These cookies enable you to navigate the Sites and use their features, such as accessing secure areas of the Sites and using Services. If you have chosen to identify yourself to Company, Company may place on your browser cookies containing an encrypted, unique identifier. The cookies allow Company to uniquely identify you when you are logged into the Sites and Services and to process your online transactions and requests. The required cookies are essential to operate the Sites and Services and therefore you cannot “opt out” of these cookies.
+        2. Performance Cookies: These cookies collect information about how visitors use the Sites and Services, including the pages most often visited and if visitors receive error messages from certain pages. The cookies are only used to improve the function and performance of the Sites and Services. Company periodically engages third parties to track and analyze usage and volume statistical information from individuals who visit the Sites and Services, and to track the performance of Company’s advertisements. Company and Company’s third-party partners may also utilize HTML5 local storage or Flash cookies for these purposes. Flash cookies and HTML local storage are different from browser cookies because of the amount of, type of, and how data is stored. For information on how to opt out of performance cookies using your browser settings [click here](http://aboutcookies.org/). For information on how to manage privacy and storage settings for Flash cookies [click here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118). Various browsers may offer their own management tools for removing HTML5 local storage.
+        3. Functionality Cookies: Functionality cookies allow the Sites and Services to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features. These cookies also enable you to optimize your use of the Sites and Services after logging in. Company uses local shared objects, also known as Flash cookies and HTML5 local storage, to store your preferences or display content based upon what you view on the Sites and Services to personalize your visit. For information on how to opt out of functionality cookies using your browser settings [click here](http://aboutcookies.org/). Note that opting out may impact the functionality you receive when using the Sites and Services. For information on how to manage privacy and storage settings for Flash cookies [click here.](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
+        4. Targeting or Advertising Cookies: Company sometimes uses cookies delivered by third parties to show you ads for the products and services that Company thinks may interest you on any devices you may use and to track the performance of Company’s advertisements. For example, in these cases, cookies remember information such as which browsers have visited the Sites. The information provided to third parties does not include Personal Data, but this information may be associated by Company with Personal Data.
+      2. Web Beacons: Company uses Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Sites and Services and interaction with emails from Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular website or Service tied to the Web beacon, and a description of a website or Service tied to the Web beacon. For example, Company may place Web beacons in marketing emails that notify Company when you click on a link in the email that directs you to one of the Sites. Company also uses Web beacons to operate and improve the Sites, Services and email communications.
+      3. Log Files, IP Addresses, URLs and Other Data: As is true of most websites, Company gathers certain information automatically to analyze trends in the aggregate and administer their Sites and Services. This information may include your Internet Protocol (IP) address (or the proxy server you use to access the World Wide Web), device and application identification numbers, your location, your browser type, your Internet service provider and/or mobile carrier, the pages and files you viewed, your searches, your operating system and system configuration information, and date/time stamps associated with your usage. Due to Internet communications standards, when you visit or use the Sites and Services, Company automatically receives the URL of the website from which you came and the website to which you go when you leave Company’s Sites. This information is used to analyze overall trends, to help Company improve the Sites and Services, to track and aggregate non-personal information, and to provide the Sites and Services. For example, Company uses IP addresses to monitor the regions from which customers and visitors navigate the Sites. Company also collects IP addresses from customers when they log into the Services as part of the “IP Restriction” security feature as well as to maintain audit logs.
+      4. Do Not Track Signals: Currently, various browsers — including Internet Explorer, Firefox, and Safari — offer a “do not track” or “DNT” option that relies on a technology known as a DNT header, which sends a signal to Web sites’ visited by the user about the user's browser DNT preference setting. Company does not currently recognize browsers' DNT signals with respect to the Sites, in part, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent. Company takes privacy and meaningful choice seriously and will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard.
+    5. Mobile Application Data: Company may obtain information collected through applications (“Mobile Applications”) that Customers or their authorized individuals (“Users”) download to and run on their mobile devices (“Device(s)”). Mobile Applications provided by Company may obtain information from, or access data stored on, Users’ Devices to provide services related to the relevant Mobile Application. For example, a Mobile Application may: access a camera on a User’s Device to enable the User to upload photographs to the Services. Information obtained to provide Mobile Application services may include information obtained in preparation for anticipated updates to those services. Mobile Applications may transmit information to and from Devices to provide the Mobile Application services. This also includes User’s Device identification information in order to send push notifications as part of the Services. 
+
+Mobile Applications may provide Company with information related to Users’ use of the Mobile Application services, information regarding Users’ computer systems, and information regarding Users’ interaction with Mobile Applications, which Company may use to provide and improve the Mobile Application services. For example, all actions taken in a Mobile Application may be logged, along with associated information (such as the time of day when each action was taken). Company may also share anonymous data about these actions with third party providers of analytics services. In addition, if a User downloads a Company Mobile Application after clicking on a third-party mobile advertisement for the Mobile Application or for Company, the third-party advertiser may provide Company with certain information, such as the User’s Device identification information, which Company may use to track the performance of its advertising campaigns.
+
+Customers may configure Company Mobile Application services, and the information accessed or obtained by the Mobile Application on a User’s Device may be affected by the Customer’s configuration. In addition, if a Customer purchases more than one Service from Company and its affiliates, a Mobile Application may be designed to interoperate with those Services; for instance, to provide a User with access to information from any or all of those Services or to provide information from a User’s Device to any or all of those Services. Information accessed or obtained by the Mobile Application on a User’s Device may be accessible to the Customer and its organization, depending on the intended functionality of the Mobile Application. Company may provide updated versions of its Mobile Applications. If your Device’s settings permit, those updates will be downloaded and installed automatically on the Device. By installing a Company Mobile Application on your Device, you consent to the downloading and updating of that Mobile Application.
+
+In addition to Mobile Applications offered by Company, Company may offer platforms for the creation of third-party Mobile Applications, including but not limited to the HelpStack.io mobile SDK. Third parties may obtain information from, or access data stored on, Users’ Devices to provide services associated with any third-party Mobile Applications that Users download, install, use, or otherwise interact with over a Company platform. Company’s Mobile Applications may also contain links or integrations to other Mobile Applications provided by third parties. Third parties’ use of information collected through third-party Mobile Applications is governed by the privacy policies of such third parties. Company encourages you to review the privacy policies of third-party providers of Mobile Applications to understand their information practices.
+
+Notices and contractual terms related to a particular Mobile Application may be found in the end user license agreement or relevant terms of service for that application. Company encourages you to review the end user license agreement or relevant terms of service related to any Mobile Applications you download, install, use, or otherwise interact with to understand that Mobile Application’s privacy practices.
+
+  3. Customer Data: Customers may electronically submit Personal Data or other information to the Services for hosting and processing purposes (“Customer Data”). For clarity, an "Authorized User(s)" is any individual authorized by a Customer to register a staff / an agent account identified through a unique login as a staff / an agent and/or an administrator; an "End User(s)" is any individual who seeks to interact with a Customer or an Authorized User through the Services. For purposes of the EU Directive on Data Protection (the "Directive"), Company is the data processor and not the data controller. In particular, Customers who control their Customer Data and send the Customer Data to Company's Sites or Services for processing are the "data controllers" of that data and are responsible for complying with the Directive and relevant data protection legislation in the relevant European Economic Area ("EEA") member state before sending Personal Data to Company for processing. Company collects information under the direction of its Customers (the data controller), and has no direct relationship with the Customer’s Authorized Users whose Personal Data it processes. Company stores and processes Customer Data in the United States and EEA and potentially in other countries through third parties that Company uses to operate and manage the Sites and Services. When you access or use the Sites or Services, or otherwise provide information to us, you are consenting on behalf of yourself, Authorized Users, and End Users (and representing that you have the authority to provide such consent) to the processing and transfer of information in and to the United States and other countries which have different privacy laws from the applicable country of residence. Company will take all steps reasonably necessary to ensure that Customer Data is treated securely and in accordance with this Privacy Policy. Company will not review, share, distribute, or reference any such Customer Data except as provided in Company’s standard terms of service (HappyFox helpdesk - [https://www.happyfox.com/terms-services/](https://web.archive.org/terms-services/) and HappyFox Chat - <https://happyfoxchat.com/terms-services>). Company does not own, control, or direct the use of the Customer Data stored or processed through the Services. Company may access Customer Data only for the purpose of providing the Services or preventing or addressing service or technical problems or as may be required by law. Only you or your Authorized Users or your End Users, as applicable, are entitled to access, retrieve and direct the use of such Personal Data or Customer Data.
+  4. Personal Data and other information from Third Party Services: Company may also obtain other information, including Personal Data, from third parties and may combine that information with Personal Data and other information that Company collects through its Sites and Services. For example, Company may have access to certain information from a third party social media or authentication service if you log into the Services through such a service or otherwise provide Company with access to information from the service. Any access that Company may have to such information from a third party social media or authentication service is in accordance with the authorization procedures determined by that service. By authorizing Company to connect with a third party service, you authorize Company to access and store your name, email address(es), current city, profile picture URL, and other Personal Data that the third party service makes available to us, and to use and disclose it in accordance with this Policy. You should check your privacy settings on these third party services to understand and change the information sent to Company through these services.
 
 
 
-## 2\. Third Parties
+## 4\. INFORMATION COLLECTED BY THIRD PARTIES
 
-  1. **Your Customers:** Your use of the services on the Site may result in some third party information being processed through our platform. We do not own, control or direct the use of such information stored or processed on our platform. We are largely unaware of what information is actually being stored on our platform and only access such information as authorized by you or as required by law. Only you or your third party customers are entitled to access, retrieve and direct the use of such information.
-  2. **Hosting Service Provider:** It may be noted that we use and rely on the services of Amazon Web Services, a third party hosting service provider. It has been represented to us by Amazon Web Services that the data protection and privacy practices followed by them are in compliance with various relevant statutory norms. Details of the same can be accessed at http://aws.amazon.com/security/. However, the policies and practices described in this privacy policy do not apply to Amazon Web Services and we make no warranty or claim regarding the privacy, confidentiality, integrity and security of any information and data stored/retained thereof by Amazon Web Services. 
-  3. **Links to Others Sites:** The Site may contain links to unaffiliated third party websites. . Except as set forth in this Privacy Policy, we do not share your personal information with these unaffiliated third party websites. We are not responsible for their privacy practices. We encourage you to be aware when you leave the Site, and read the privacy statements of other websites and web applications linked to the Site. 
-  4. **Public Forums and Blogs:** The Site offers publicly-accessible blogs or community forums. If you participate in such blogs and/or forums, you should be aware that any information you provide in these areas may be read, collected, and used by other members in these forums and other third parties. HappyFox is not responsible for the information you choose to submit in these forums and blogs. To request removal of your personal information from our blog or community forum, contact us at support@happyfox.com. 
-  5. **Social Media:** The Site may use Social Media Features, such as the Twitter. These features may collect your IP address and which page you are visiting on our Site and may set a cookie to enable the feature to function properly. You may be given the option by such Social Media Features to post information about your activities on this Site to a profile page of yours that is provided by a third party Social Media network in order to share with others within your network. Social Media Features are either hosted by a third party or hosted directly on the Site. Your interactions with these features are governed by the privacy policy of the company providing the relevant Social Media Features. HappyFox is not responsible for the Personal Information you choose to submit in these forums.
+Certain third parties may collect Personal Data and other information made available through the Sites:
 
+  1. Advertisers: Company contracts with third-party advertising networks that collect IP addresses and other information from Web beacons on the Sites and Services, from emails, and on third- party web sites. Ad networks follow your online activities over time and across different sites or other online services by collecting Site Navigational Information through automated means, including through the use of cookies. These technologies may recognize you across the different devices you use, such as a desktop or laptop computer, smartphone or tablet. Third parties use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other websites or mobile applications on any of your devices. This process also helps Company manage and track the effectiveness of Company marketing efforts. Third parties, with whom Company partners to provide certain features on the Sites or to display advertising based upon your web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. 
 
+For more information about these and other advertising networks and your ability to opt out of collection, please visit the opt-out pages of the Network Advertising Initiative, [here](https://www.networkadvertising.org/choices/) and the Digital Advertising Alliance, [here](https://www.aboutads.info/choices/). For information on how to manage privacy and storage settings for Flash cookies [click here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118). Various browsers may offer their own management tools for removing HTML5 local storage.
 
-## 3\. Cookies & Web Beacons 
-
-  1. **Cookies:** A "cookie" is a piece of information stored on your computer by an internet server. HappyFox uses “session cookies” to authenticate users and to enable us to process your online transactions. We use persistent cookies that only we can read and use, to identify you as a user and make it easier for you to log in to the service. You can generally accept or decline the use of cookies through your web browser. Users who disable their web browsers' ability to accept cookies will still be able to browse our Site, but may not be able to access certain services. The information we collect through cookies does not include personal information. If you are a customer of HappyFox, it is your responsibility to inform the individuals with whom you interact using the Site as to the types of cookies utilized in the Site and, as necessary, to obtain their consent. If you require more information about the nature of the cookies utilized on the site for purposes of fulfilling these obligations, please contact us by email at support@happyfox.com. 
-  2. **Web Beacons:** We or third parties, with whom we contract, may use Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Site and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular website tied to the Web beacon, and a description of a website tied to the Web beacon. HappyFox may use Web beacons to operate and improve its Site and email communications.
+  2. Social Media: The Sites may use social media functionality that collects your IP address and the page you are visiting on the Sites and may set a cookie to enable the feature to function properly. You may also be given the option by such social media functionality to post information about your activities on the Sites to a profile page that is provided by a third party social media network in order to share with others within your network. Any social media functionality will be hosted by a third party or, alternatively, hosted directly on the Site. Your interactions with any social media functionality will governed by the privacy policy of the applicable social media company providing the social media functionality. Company has no control over the Personal Data and other information that you choose to post to social media, and cannot ensure that third parties do not collect the Personal Data and other information that you post.
 
 
 
-## 4\. Information Use & Sharing 
+## 5\. HOW COMPANY USES THE PERSONAL DATA AND OTHER INFORMATION COLLECTED
 
-  1. **Personal Information:** We may use the Personal Information we collect for the following reasons: 
-    1. **Account Information:** If you create an account on HappyFox, we may store and use your full name, email address, zip code, and other information you provide with your account. Your personal account information will also be used for billing purposes, identification, and authentication.
-    2. **Access and Use:** Your personal information may be used to provide you access to our site and the services and customer support you request.
-    3. **Communications:** We will use your email address, telephone, or any other contact information you provide for service related communications, such as information and updates on scheduled site maintenance. You cannot opt out of these communications, which are not promotional in nature. If you choose to subscribe to our newsletter(s), we will use your name and email address to send you such newsletter(s). We may use such Personal Information to contact you for future marketing or advertisement purposes. Unsubscribe instructions will accompany every such email and you will be at the liberty to unsubscribe from the same.
-    4. **Site Activity:** We may store information about your use of the Site, such as the date and time of your visit to help improve the content and functionality of the Site and improve our services. 
-    5. **Security and Fraud Prevention:** We may use your personal information to prevent, detect, and investigate fraud, security breaches, potentially prohibited or illegal activities, and enforce our terms and conditions. 
-    6. **Third Party Vendors:** HappyFox may also share your personal information with its third-party service providers (such as its credit card processors and hosting partners) to provide the necessary hardware, software, networking, storage, and other services we use to operate the Site and maintain a high quality user experience. We do not permit our service providers to use the personal information you provide for their marketing purposes. 
-    7. **Customer Service:** We may use such Personal Information to send you a welcome email to verify your username and password. Furthermore, we will use the same to respond to queries, to provide the services and/or technical assistance as requested.
-
-
-
-## 5\. Global Privacy Practices 
-
-  1. This Privacy Statement shall apply even if HappyFox transfers Data about its Customers to other countries: 
-    1. For European visitors to the Site and users of the HappyFox services, please note that in order to provide the information or services requested, your Personal Information may be transferred outside of the European Economic Area (“EEA”). By visiting the Site or using our Services, you agree to HappyFox.com transferring your Personal Information outside the EEA.
-    2. Customers of HappyFox are responsible for complying with the directive and relevant data protection legislation in the relevant country before sending personal information to HappyFox for processing.
+  1. Provide Access and Use: Company may use Personal Data and other information to enable you to access and use the Sites and Services. This includes providing any customer support that you may request; providing responses to your comments, questions and requests; sending you technical notices, updates, security alerts, and support; and sending you administrative notices.
+  2. Operate the Services: Company may use Personal Data and other information to operate the Services.
+  3. Process and Complete Transactions: Company uses Personal Data and other information to (i) bill, identify, authenticate, process and complete transactions, (ii) send you related information, including purchase confirmations and invoices; (iii) send transactional messages, including responses to your comments, questions, and requests; (iv) provide customer service and support; (v) send you technical notices, updates, security alerts, and (vi) provide support and administrative messages.
+  4. Promote the Services: Company uses Personal Data and other information to send promotional communications, such as providing you with information about products and services, features, surveys, newsletters, offers, promotions, contents, and events, and other news and information about Company and Company’s partners.
+  5. Personalize the Sites and Services: Company uses Personal Data and other information to personalize the Sites and Services.
+  6. Provide Service-Related Communications: Company uses Personal Data to provide service related communications, such as information and updates on scheduled site maintenance. You cannot opt out of these communications, which are not promotional in nature. If you choose to subscribe to our newsletter(s), Company will use your name and email address to send you such newsletter(s). Company may use such Personal Data to contact you for future marketing or advertisement purposes. Unsubscribe instructions will accompany every such email and you will be at liberty to unsubscribe from the same.
+  7. Improve Content and Functionality of Sites and Services: Company use and stores Personal Data about your use of the Sites, such as the date and time of your visit, to help improve the content and functionality of the Sites and Services.
+  8. Provide Security and Prevent Fraud: Company may use Personal Data to prevent, detect, and investigate fraud, security breaches, potentially prohibited or illegal activities, unauthorized access to the Services, fraudulent transactions, illegal activities, and enforce Company’s terms of service (HappyFox helpdesk - [https://www.happyfox.com/terms-services/](https://web.archive.org/terms-services/) and HappyFox Chat - <https://happyfoxchat.com/terms-services>).
+  9. Provide Customer Service: Company may use Personal Data and other information to send you a welcome email to verify your username and password. Furthermore, Company will use the same to respond to queries, to provide the services and/or technical assistance as requested.
+  10. Plan and Host Events: Company may use Personal Data and other information about Attendees of Company’s events to plan and host events, host online forums and social networks in which the Attendees may participate, and to populate online profiles for Attendees on our Sites.
+  11. Deliver Contests and Sweepstakes: Company may use Personal Data and other information to process and deliver contests, sweepstakes entries, and rewards.
+  12. Other Purposes for Which Company Obtain Consent: Company may use Personal Data and other information for other purposes for which Company obtains your advance consent.
 
 
 
-## 6\. Children's Personal Information 
+## 6\. WHO COMPANY SHARES PERSONAL DATA AND OTHER INFORMATION WITH
 
-The Site and the services provided by HappyFox are not intended for, nor do we knowingly collect any Personal Information or any Information from, children under the age of 18 (eighteen).
+  1. Third Party Service Providers: Company may share Personal Data and other information with its contracted third-party service providers (“Service Providers”) to provide hosting, maintenance of websites, application development, backup services, storage, payment processing, analytics, technical support, and other services that the Company uses to operate the Sites and Services and maintain a high quality user experience. These service providers are authorized to use Personal Data and other information only as necessary to provide the requested services to Company and are obligated not to disclose or use it for any other purposes. Without limiting the foregoing, Company may also share Personal Data and other information about Visitors, Customers, Attendees and Applicants with service providers to ensure the quality of information provided, and with third–party social networking and media websites, such as Facebook, for marketing and advertising on those websites. Unless specifically stated in this Privacy Policy, Company does not share, sell, rent, or trade any information with third parties for their promotional purposes. Certain specific Service Provider details are set forth below. 
+    1. Payment Processing.Company may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors). Company will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your Personal Data is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information. The payment processors we work with are: 
+      1. Stripe Their Privacy Policy can be viewed at <https://stripe.com/us/privacy>
+      2. PayPal or Braintree Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+      3. Chargify Their Privacy Policy can be viewed at <https://www.chargify.com/privacy-policy/>
+    2. Analytics Company may use third-party Service Providers to monitor and analyze the use of our Service. These Service Providers include the following: 
+      1. Google Analytics Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network. 
 
-## 7\. Protection of Information 
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
 
-We maintain reasonable security measures to protect your information from loss, destruction, misuse, unauthorized access or disclosure. These technologies help ensure that your data is safe, secure, and only available to you and to those you provided authorized access. While we follow generally accepted standards to protect information submitted to us, including the use of secure socket layer (SSL) technology, no method of storage or transmission is 100% secure.
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <http://www.google.com/intl/en/policies/privacy/>
 
-## 8\. Reviewing & Requesting Changes to Personally Identifiable Information 
+      2. Mixpanel Mixpanel is provided by Mixpanel Inc 
 
-You may access and edit all Personal Information by emailing Customer Support at support@happyfoxcom. Information collected for the membership process, if requested, will be deleted within 21(twenty one) days from our account. However, some Personal Information may need to be maintained if it is connected with billing information, resolve disputes, and enforce our agreements or as required by law.
+You can prevent Mixpanel from using your information for analytics purposes by opting-out. To opt-out of Mixpanel service, please visit this page: <https://mixpanel.com/optout/>
 
-## 9\. Updates & Changes to Privacy Policy 
+For more information on what type of information Mixpanel collects, please visit the Terms of Use page of Mixpanel: <https://mixpanel.com/terms/>
 
-HappyFox reserves the right, at any time and without notice to you, to add to, change, update, or modify this Privacy Policy, simply by posting such a change, update, or modification on the Site. Any such change, update, or modification will be effective immediately upon posting on the Site. If updated, the Privacy Policy will note the effective date of the update. Please check the effective date at the top of this page to determine if the policy has been modified since you last reviewed it. Your continued use of the Site following the posting of the updated Privacy Policy constitutes your acceptance of the changes to the Privacy Policy.
+      3. Facebook Pixel Facebook Pixel is provided by Facebook Inc. 
 
-## 10\. Acceptance of Privacy Policy 
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>
 
-Your use of the Site, including any dispute concerning privacy is subject to this Privacy Policy and the Terms of Service, which can be accessed at <http://www.happyfox.com/terms-services>. By Using the Site, you are accepting all of the provisions of the Privacy Policy.
+      4. Salesforce Pardot Pardot is provided by Salesforce.com, inc. 
 
-## 11\. Contact US 
+For more information on what type of information Salesforce collects, please visit: <https://www.salesforce.com/company/privacy/full_privacy/>
 
-If you have any questions or comments about this Privacy Policy or any other matter regarding the Site, please send them by email to support@happyfox.com, or by mail to: HappyFox, Inc., 24 Executive Park, Suite 230, Irvine, CA 92614.
+      5. Hotjar Hotjar is provided by Hotjar Limited. 
 
-**Last updated on** October 8, 2014.
+You can prevent Hotjar from using your information for analytics purposes by opting-out. To opt-out of Hotjar service, please visit this page: <https://www.hotjar.com/opt-out>
+
+For more information on what type of information Hotjar collects, please visit: <https://www.hotjar.com/privacy>.
+
+      6. Amplitude Amplitude is provided by Amplitude, Inc. 
+
+For more information on what type of information Amplitude collects, please visit: <https://amplitude.com/privacy>.
+
+      7. Chartmogul Revenue Analytics Chartmogul Revenue Analytics is provided by ChartMogul Ltd. 
+
+For more information on what type of information ChartMogul collects, please visit: <https://chartmogul.com/privacy/>
+
+    3. Advertising Company may use third-party Service Providers to show advertisements to you to help support and maintain our Service. 
+      1. Google AdSense DoubleClick Cookie Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet. 
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+
+      2. AdMob by Google AdMob by Google is provided by Google Inc. 
+
+You can opt-out from AdMob by Google service by following the instructions described by Google: <https://support.google.com/ads/answer/2662922?hl=en> For more information on how Google uses the collected information, please visit the "How Google uses data when you use our partners' sites or app" page: <http://www.google.com/policies/privacy/partners/> or visit the Privacy Policy of Google: <http://www.google.com/policies/privacy/>
+
+      3. Facebook Facebook advertising service is provided by Facebook Inc. 
+
+You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950> To opt-out from Facebook's interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217> Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings. For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>
+
+      4. LinkedIn Ads LinkedIn Ads is provided by LinkedIn Corporation. 
+
+LinkedIn adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from LinkedIn and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings. For more information on the privacy practices of LinkedIn, please visit: <https://www.linkedin.com/legal/privacy-policy>
+
+    4. Behavioral Remarketing. Company uses remarketing services to advertise on third party websites to you after you visited the Services. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to the Services. 
+      1. Google AdWords Google AdWords remarketing service is provided by Google Inc. 
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads> Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics. For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+      2. Facebook Facebook remarketing service is provided by Facebook Inc. 
+
+You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950> To opt-out from Facebook's interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217> Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings. For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>
+
+  2. Business Partners: Company may partner with other companies to jointly offer products or services, such as Company’s integration partners. If you purchase or specifically express interest in a jointly–offered product or service from or through Company, Company may share Personal Data and other information about you collected in connection with your purchase or expression of interest with Company’s partner(s). Company does not control its business partners’ use of the Personal Data or other information, and their use of the information will be in accordance with their own privacy policies. If you do not wish for your information to be shared in this manner, you may opt not to purchase or specifically express interest in a jointly offered product or service. 
+
+Company does not share Personal Data or other information about Attendees with business partners unless: (i) you specifically opt in to such sharing via an event registration form; or (ii) you attend a Company event and allow us or any Company business partners to scan your attendee badge. If you do not wish for your information to be shared in this manner, you may choose not to opt in via event registration forms and elect not to have your badge scanned at Company events. If you choose to share your information with business partners in the manner described above, your information will be subject to the business partners’ respective privacy policies.
+
+Company partners with third parties to display advertising on the Sites and to manage advertising on other sites. Company’s third party partners may use technologies such as cookies to gather information about your activities on the Sites and other sites in order to suggest advertisements based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving your interest-based ads, you may be able to opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads and you will continue to receive generic ads.
+
+  3. Law Enforcement: In certain situations, Company may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Company may disclose Personal Data to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. Company may also share such information if Company believes it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of service, or as otherwise required by law.
+  4. Public Forums and Blogs: The Sites offer publicly-accessible blogs or community forums. If you participate in such blogs, forums and/or add feedback/comments inside the Services, you should be aware that any information you provide in these areas may be read, collected, and used by other members in these forums and other third parties. Company has no control over the Personal Data or other information that you choose to submit in these forums or blogs, and cannot ensure that third parties do not collect the Personal Data or other information that you post. To request removal of your Personal Data or other information from Company’s blog or community forum, please contact Company at [privacy@happyfox.com.](mailto:privacy@happyfox.com).
+  5. Business Transaction: If Company is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+
+
+## 7\. INTERNATIONAL TRANSFER OF PERSONAL DATA AND OTHER INFORMATION COLLECTED
+
+Company primarily stores Personal Data and other information in the United States. To facilitate Company’s global operations, Company may transfer and access such Personal Data and other information from around the world, including from other countries in which Company has operations. This Privacy Policy shall apply even if Company transfers Personal Data or other information to other countries. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Company will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## 8\. RETENTION; CORRECTING AND UPDATING PERSONAL DATA
+
+Company will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+Company aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+Whenever made possible, you can update your Personal Data directly within your account settings section. If you are unable to change your Personal Data, please contact us to make the required changes.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the right:
+
+  1. To access and receive a copy of the Personal Data we hold about you
+  2. To rectify any Personal Data held about you that is inaccurate
+  3. To request the deletion of Personal Data held about you
+
+
+
+You have the right to data portability for the information you provide to Company. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it.
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+If you have registered for an account with Company, you may generally update your user settings, profile, organization’s settings or event registration by logging into the applicable Site or Service with your username and password and editing your settings or profile. 
+
+To update your billing information, discontinue your account, and/or request return or deletion of your Personal Data or other information associated with your account, please contact your account representative or the customer service team for the applicable Service.
+
+For other requests to access, correct, modify or delete your Personal Data, please review the “CONTACTING COMPANY” section below. Requests to access, change, or delete your information will be addressed within a reasonable timeframe. If you are an employee of a Customer, you may also wish to contact your organization’s account administrator for assistance in correcting or updating your information.
+
+Company has no direct relationship with the individuals whose Personal Data it processes. Company acknowledges that you may have the right to access your Personal Data. If Personal Data pertaining to you as an individual has been submitted to Company by a Customer (the data controller) and you wish to exercise any rights you may have to access, correct, amend, or delete such data, please inquire with our Customer directly because Company personnel have limited ability to access Personal Data and other information Customers submit to our Services. If you wish to make your request directly to Company, please provide the name of the Customer who submitted your Personal Data to our Services. Company will refer your request to the Customer, and will support them as needed in responding to your request within a reasonable timeframe.
+
+To the extent required by law, and provided doing so would be neither impossible nor require disproportionate effort, Company will communicate any rectification, erasure, or blocking of Personal Data requested by a Data Subject to third parties to whom such Personal Data has been disclosed by Company.
+
+## 9\. TESTIMONIALS
+
+From time to time, Company may post testimonials on the Sites that may contain Personal Data. Company shall obtain your consent to post your name along with your testimonial. If you wish to update or delete your testimonial, you can contact Company at [privacy@happyfox.com.](mailto:privacy@happyfox.com).
+
+## 10\. REFERRALS
+
+If you choose to use Company’s referral service to tell a friend about Company’s products and services, Company will ask you for your friend’s name and email address. Company will automatically send your friend an email inviting him or her to visit the Sites and will store this information for the purpose of sending this initial email, tracking the success of our referral program and other marketing activities. Your referral may contact Company at [privacy@happyfox.com](mailto:privacy@happyfox.com) to request that Company remove his/her information from our database.
+
+## 11\. CHILDRENS PERSONAL DATA
+
+Company does not knowingly collect any Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through our Sites or Services. Company encourages parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide Personal Data through the Sites or Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Company through the Sites or Services, please contact us at [privacy@happyfox.com](mailto:privacy@happyfox.com), and Company will use commercially reasonable efforts to delete that information.
+
+## 12\. BUSINESS TRANSACTIONS
+
+Company may assign or transfer this Privacy Policy, as well as Company’s account and related information and any Personal Data, to any person or entity that acquires all or substantially all of Company’s business, stock or assets, or with whom Company merges.
+
+## 13\. PRIVACY SHIELD FRAMEWORK
+
+Company abides by and has certified adherence to the principles of the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data transferred from the European Union to the United States. Company has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view Company certification, please visit <https://www.privacyshield.gov/>. If you have an unresolved privacy or data use concern that Company have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+For residual Privacy Shield disputes that cannot be resolved by the methods above, you may be able to invoke a binding arbitration process under certain conditions. To find out more about the Privacy Shield’s binding arbitration scheme, please see: <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>. The Federal Trade Commission has investigation and enforcement authority over Company’s compliance with the Privacy Shield.
+
+Company is responsible for the processing of Personal Data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Company complies with the Privacy Shield Principles for all onward transfers of Personal Data from the European Union, including the onward transfer liability provisions. If Company has received your Personal Data under the Privacy Shield Framework then Company adheres to the Privacy Shield Principles as long as it retains such Personal Data. Company has defined procedures for making public any relevant Privacy Shield related sections of any compliance or assessment report submitted to the U.S. Federal Trade Commission, to the extent consistent with confidentiality requirements. You can view a description of how Company complies with the Privacy Shield Principles in our [Privacy Shield Notice](https://web.archive.org/privacy-shield-notice/).
+
+## 14\. CHANGES TO THIS PRIVACY POLICY
+
+Company reserves the right to change this Privacy Policy. Company will provide notification of the material changes to this Privacy Policy through the Sites at least thirty (30) days prior to the change taking effect. Please note that the use of information Company gathers is subject to the Privacy Policy then in effect at the time of use. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
+
+## 15\. CONTACT WITH YOU
+
+Company may use your name and email address to send you a newsletter or to contact you for future marketing or advertising purposes. Unsubscribe instructions will accompany every communication. You may at any time choose to unsubscribe (or “opt out”) any of our mailings either by following the instructions or by contacting us at [privacy@happyfox.com](mailto:privacy@happyfox.com).
+
+## 16\. CONTACTING COMPANY
+
+If you have any questions or comments about this Privacy Policy or any other matter regarding the Sites or Services, please send them by email to [privacy@happyfox.com](mailto:privacy@happyfox.com), or by mail to:
+
+HappyFox, Inc.  
+47 Discovery, STE 170,  
+Irvine, CA 92618, USA.
+
+## 17\. EFFECTIVE DATE
+
+This Privacy Policy was last updated on April 23, 2018.
