@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubflyers.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402135537id_/http%3A//www.clubflyers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubflyers.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202195245id_/https%3A//www.clubflyers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Clubflyers.com | Printing | Inspiration | Magazine
 
