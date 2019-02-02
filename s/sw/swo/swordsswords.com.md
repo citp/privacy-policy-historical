@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the swordsswords.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201082659id_/http%3A//www.swordsswords.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swordsswords.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203003003id_/https%3A//swordsswords.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms: Privacy | SwordsSwords.com - Knives, Swords, Anime, Medieval and Much More for Low Prices!
-
-**Privacy Policy**
+# SwordsSwords - Privacy Policy
 
 **What information do we collect?**
 
@@ -53,12 +51,12 @@ To delete all of your online account information from our database, sign into th
 
 In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
- **California Online Privacy Protection Act Compliance**  
+ **California OnlinePrivacy Protection Act Compliance**  
 Because SwordsSwords values your privacy, we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. SwordsSwords, therefore, will not distribute your personal information to outside parties without your consent. 
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by logging into their HTTPS encrypted "My Account" webpage and going to the 'Edit Profile' page. 
 
-**USC Sections regarding shipping of automatic opening knives**
+**USC Sections regarding shipping of automatic openingknives**
 
 18 USC 1716 (g) (2) (1-4)
 
@@ -66,7 +64,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
 **15 USC 1244 (2-4)** **Summary:** Automatic opening knives (switchblades) can be shipped (1) any common carrier or contract carrier, with respect to any switchblade knives shipped, transported, or delivered for shipment in interstate commerce in the ordinary course of business; (2) the manufacture, sale, transportation, distribution, possession, or introduction into interstate commerce, or switchblade knives pursuant to contract with the Armed Forces; (3) the Armed Forces or any member or employee thereof acting in the performance of his duty; or (4) the possession and transportation upon his person, or any switchblade kn7è with a blade three inches or less in length by any individual who has only one arm. You, as a purchaser, upon purchase are agreeing that you are a “bonafide” buyer/dealer as described in 18 USC Section 1716 (g) (2) (1-4) and as such, do hereby represent and state that sales of automatic opening knives will only be made to those individuals and entities described in ix USC Section 1716 (g) (2) (1-4) and 15 USC Section 1244 (2-4). These code Sections describe the permissible sales as primarily to police officers and/or military personnel to be used in connection with their government activities.
 
-**Children’s Online Privacy Protection Act Compliance**  
+**Children’s OnlinePrivacy Protection Act Compliance **  
 SwordsSwords is in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. SwordsSwords website, products and services are all directed to people who are at least 13 years old or older. *Please also note that we require a customer be 18 years of age or older. 
 
 **Changes to our policy**
@@ -83,7 +81,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20161201082659id_/http%3A//www.swordsswords.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20190203003003id_/https%3A//swordsswords.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
