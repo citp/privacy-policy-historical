@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the nbtbank.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906193521id_/https%3A//nbtbank.com/Personal/About-Us/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbtbank.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202114400id_/https%3A//www.nbtbank.com/Personal/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
-# NBT Bank
+# NBT Bank | Privacy
 
-## Personal Banking Privacy Notice
+## Personal Banking Privacy Notice for Consumer Customers
 
 NBT Bank takes your privacy seriously and protects your personal information from unauthorized access and use. We use security measures that comply with federal law.
 
 Read our [Personal Banking Privacy Notice](https://web.archive.org/~/media/Files/PDFs/NBTPrivacyNotice.ashx?la=en).
 
-## Online Privacy Practices
+## Online Privacy Practices While Using Our Website
 
-_Last updated: April 28, 2016_
+_Last updated: October 10, 2018_
 
 At NBT Bank, your privacy counts to us. Our Online Privacy Practices explain how we collect, share, use, and protect information when you visit or use this website and/or any other online services offered by NBT Bank, non-banking affiliates and subsidiaries of NBT Bancorp Inc. that link to or reference these practices (collectively, our “online services”). This policy covers NBT Bank’s many online services, including NBT Bank websites, NBT Online Banker, NBT Bank Mobile Banking, NBT Bancorp Inc. subsidiary websites and official NBT Bank social media sites or pages, as well as any interactions you may have while viewing content provided through one of NBT Bank’s digital advertising campaigns.
 
