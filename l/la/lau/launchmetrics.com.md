@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the launchmetrics.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821083913id_/https%3A//www.launchmetrics.com/legal-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchmetrics.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202065213id_/https%3A//www.launchmetrics.com/legal-notice) for the most accurate reproduction.*
 
 # Privacy Policy | Launchmetrics
 
-**Last Updated:** April 20, 2018
+**Last Updated:** October 17, 2018
 
 This Privacy Policy describes the policies and procedures of Launchmetrics on the collection, use and disclosure of your information, and what choices you have with respect to the information. 
 
-When we refer to Launchmetrics we mean the Launchmetrics entity that acts as the controller or processor of your information, as explained in more detail in the respective User policies for each products.
+Launchmetrics is Controller of the personal data that you provide us. The terms « Launchmetrics », « us » or « our » mean the Fashion GPS Europe, Ltd. entity. In accordance with the applicable legislation on data protection, Launchmetrics is the Controller. 
 
 We receive information about you from various sources, including: (i) certain contact information and other information about yourself when you make an inquiry on the website, and (ii) your use of the website generally. When you make an inquiry or otherwise use the website, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
