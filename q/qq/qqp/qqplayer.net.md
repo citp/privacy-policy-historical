@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qqplayer.net privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201175859id_/http%3A//qqplayer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qqplayer.net privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202205008id_/https%3A//qqplayer.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | QQPlayer
 
 **Privacy Policy for qqplayer.net**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://qqplayer.net/contact-us/).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://qqplayer.net/contact-us/).
 
 At qqplayer.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by qqplayer.net and how it is used.
 
@@ -17,7 +17,7 @@ qqplayer.net does use cookies to store information about visitors preferences, r
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on qqplayer.net.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to qqplayer.net and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – https://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense
