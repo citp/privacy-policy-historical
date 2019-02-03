@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindlabpro.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107040324id_/http%3A//www.mindlabpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindlabpro.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203155350id_/https%3A//www.mindlabpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mind Lab Pro®
 
@@ -41,7 +41,7 @@ Your Ability to Control Your Information
 
 At any point, you may opt out of any contact from this website.
 
-You can also take any of these actions related to your information at any time by [contacting us](http://www.mindlabpro.com/contacts/):
+You can also take any of these actions related to your information at any time by [contacting us](https://www.mindlabpro.com/contacts/):
 
   * See what data has been collected from you, if any
   * Correct or change any data we may have collected about you
@@ -64,7 +64,7 @@ We use traffic log cookies to identify which pages are being used. This helps us
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-We also use google remarketing cookies to better reach and target our audience. Google remarketing cookies help create an anonymous list of our website's visitors which we can use to market our products and services.
+We also use Google remarketing cookies to better reach and target our audience. Google remarketing cookies help create an anonymous list of our website's visitors which we can use to market our products and services.
 
 For more information about Google remarketing cookies and how to opt-out, please visit: <http://www.google.com/policies/privacy/ads/>
 
@@ -78,4 +78,4 @@ Updates
 
 This Privacy Policy may change in the future. All updates will be reflected on this page.
 
-If for any reason you feel Opti-Nutra LTD is not adhering to this Privacy Policy, please [let us know](http://www.mindlabpro.com/contacts/) right away.
+If for any reason you feel Opti-Nutra LTD is not adhering to this Privacy Policy, please [let us know](https://www.mindlabpro.com/contacts/) right away.
