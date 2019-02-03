@@ -1,36 +1,40 @@
-<!--The following is the downloaded HTML source of the hairsisters.com privacy policy that was archived on 2016-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160418211138id_/https%3A//www.hairsisters.com/blog/page%3Ftitle%3DPrivacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hairsisters.com privacy policy that was archived on 2019-02-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190203042212id_/https%3A//hairsisters.com/blog/page%3Ftitle%3DPrivacy-Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js csstransitions"><head>
+<!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js csstransitions"><head>
 	<title>Privacy Policy - hairsisters.com</title>
 	<meta charset="UTF-8">
 	<meta name="Robots" content="All">
 	<meta name="Description" content="Privacy Policy">
 	<meta name="Keywords" content="Privacy Policy">
 	<link rel="shortcut icon" type="image/x-icon" href="/content/img/favicon.ico">
-	<link href="/content/css/myAccount.css" rel="stylesheet">
-
+  <link href="/content/css/myAccount.css?t=636847429326842612" rel="stylesheet">
  
+  <link href="/content/css/eshop.css?t=1549167732" rel="stylesheet">
+  <link href="/content/css/slide.css?t=1549167732" rel="stylesheet">
+  <link href="/content/css/nav.css?t=1549167732" rel="stylesheet">
+  <link href="/content/css/slick.css?ver=636847429326842612" rel="stylesheet">
+  <link href="/content/css/slick-theme.css?ver=636847429326842612" rel="stylesheet">
+  
+
 	<link href="/Content/css/jquery-ui-1.10.3.custom.css" rel="stylesheet">
 <link href="/Content/css/jquery-ui-timepicker-addon.css" rel="stylesheet">
-<link href="/Content/css/eshop.css" rel="stylesheet">
-<link href="/Content/css/slide.css" rel="stylesheet">
-<link href="/Content/css/nav.css" rel="stylesheet">
 
 	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Scripts/modernizr-2.7.2.js"></script>
+<script src="/Scripts/modernizr-2.8.3.js"></script>
 
 	<script src="/Scripts/jquery-1.11.1.js"></script>
-<script src="/Scripts/jquery-ui-1.10.4.js"></script>
+<script src="/Scripts/jquery-ui-1.11.4.js"></script>
 
 	<script src="/Scripts/design/easySlider1.5.js"></script>
 <script src="/Scripts/design/jquery.capSlide.js"></script>
 
 
-
 	
 	
-  
+  <script src="/Scripts/design/slick.min.js?ver=636847429326842612"></script>
 
+ 
 	<script>
 		//google-analytics for hairsisters
 		(function (i, s, o, g, r, a, m) {
@@ -44,10 +48,12 @@
 		ga('send', 'pageview');
 
 	</script>
+
 	<script type="text/javascript">
 
 
-		$(document).ready(function () {
+    $(document).ready(function () {
+      
 			$.ajaxSetup({
 				// Disable caching of AJAX responses
 				cache: false
@@ -55,47 +61,49 @@
 		
 
 
-			$("#dialog-message").dialog({
-				modal: true,
-				autoOpen: false,
-				width: 400,
-				buttons: {
-					Ok: function () {
-						$(this).dialog("close");
-					}
-				}
-			});
+			//$("#dialog-message").dialog({
+			//	modal: true,
+			//	autoOpen: false,
+			//	width: 400,
+			//	buttons: {
+			//		Ok: function () {
+			//			$(this).dialog("close");
+			//		}
+			//	}
+			//});
 
-			$(function () {
-				$("#loading").dialog({
-					autoOpen: false,
-					modal: true
-				});
-			});
+			//$(function () {
+			//	$("#loading").dialog({
+			//		autoOpen: false,
+			//		modal: true
+			//	});
+			//});
 
 
 
 		});
 
 		function showMessageDialog(title, message_line1, message_line2, callbackFunction) {
-		  $("#dialog-message").dialog("option", "title", title);
-		  $("#dialog-message-line1").html('<span class="ui-icon ui-icon-circle-check" style="float: left; margin: 0 7px 50px 0;"></span>' + message_line1);
-		  $("#dialog-message-line2").html(message_line2);
+		  //$("#dialog-message").dialog("option", "title", title);
+		  //$("#dialog-message-line1").html('<span class="ui-icon ui-icon-circle-check" style="float: left; margin: 0 7px 50px 0;"></span>' + message_line1);
+		  //$("#dialog-message-line2").html(message_line2);
 
+		  // Dialog => Confirm
+		  var message_confirm = confirm(title + "\n" + message_line1 + "\n" + message_line2);
 
-		  if (callbackFunction != null) {
-		    $("#dialog-message").dialog("option", "buttons", { Ok: function () { $(this).dialog("close"); callbackFunction(); }, "Cancel": function () { $(this).dialog("close"); } });
+		  if (callbackFunction != null && message_confirm) {
+		    //$("#dialog-message").dialog("option", "buttons", { Ok: function () { $(this).dialog("close"); callbackFunction(); }, "Cancel": function () { $(this).dialog("close"); } });
+		    callbackFunction();
 		  }
 
-		  $("#dialog-message").dialog("open");
+		  //$("#dialog-message").dialog("open");
 		}
 
 		function showLoadingMessage(message) {
-		  $("#loading_message").html(message);
-		  $("#loading").dialog("open");
+		  //$("#loading_message").html(message);
+		  //$("#loading").dialog("open");
+		  confirm(message);
 		}
-
-	
 
 	</script>
 
@@ -104,12 +112,11 @@
 </head>
 <body>
 	
-	
 <header>
   <div id="top">
     
     <ul id="top_navigate_menu">
-			<li class="left" style="color: #fff;"></li>
+      <li class="left" style="color: #fff;"></li>
       <li class="left" style="margin-left:-10px;padding:0;margin-top:1px;">Customer Service (866-424-7747)</li>
 
 
@@ -129,522 +136,1035 @@
   <section class="content" style="padding: 5px 0;">
     <div id="top_logo">
       <a href="/">
-        <img src="/Content/img/logo.png"></a>
+        <img src="/Content/img/logo.png">
+      </a>
     </div>
     <div id="top_search">
       
       <div class="search_input">
-       
-					<form action="/category/" method="get" id="form_search">
-            <select name="searchOption" id="search_dropdown">
-              <option value="0">Item</option>
-              <option value="1">Brand</option>
-              <option value="2">Color</option>
-            </select>
-						<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input class="search ui-autocomplete-input" type="text" name="keyword" id="search" placeholder="Search an item" autocomplete="off">
-						<input typeof="button" class="search_icon" type="image" id="BtnSearch" src="/Content/img/search_icon.gif">
-					</form>
-       
+
+        <form action="/category/" method="get" id="form_search">
+          <select name="searchOption" id="search_dropdown">
+            <option value="0">Item</option>
+            <option value="1">Brand</option>
+            <option value="2">Color</option>
+          </select>
+          <input class="search" type="text" name="keyword" id="search" placeholder="Search an item">
+          <input typeof="button" class="search_icon" type="image" id="BtnSearch" src="/Content/img/search_icon.gif">
+        </form>
+
       </div>
     </div>
-    <ul id="drop_down_cart">
-      <li class="cart"><a href="/cart">
-        <span>(0) items</span>
-        <img src="/Content/img/cart_icon.png">
-      </a>
+
+    <ul id="drop_down_cart" style="top:25px; display:inline-flex;">
+      <li style="margin-right:25px;">
+          <a href="javascript:void(0);" onclick="show_login_box();">
+            <img src="/Content/images/icons-png/ICON_Website_Account.png">
+          </a>
+      </li>
+      <li class="cart">
+        <a href="/cart">
+          <img src="/content/images/icons-png/ICON_Website_Cart.png">
+          <span>(0)</span>
+        </a>
         <ul>
-          <img src="/Content/img/bag.png"><span class="title">My Bag</span><a href="/cart"><span class="view_cart">View Cart</span></a>
+          <img src="/Content/img/bag.png">
+          <span class="title">My Bag</span>
+          <a href="/cart"><span class="view_cart">View Cart</span></a>
           
           <li>Total $0.00</li>
         </ul>
       </li>
+      
     </ul>
     <p style="clear: both;"></p>
   </section>
-	<nav>
-		<ul id="navigate_menu">
-			<li class="shop_all">
-				<a href="">all department</a>
-				<ul>
-						<div class="column">
-							<li>
-								<h2><a href="/category/Remy-Hair/2">Remy Hair</a></h2>
-							</li>
-								<li><a href="/category/Unprocessed-Remy-Human-Hair/61">Unprocessed Remy Human Hair</a></li>
-								<li><a href="/category/Remy-Hair-Wig/4">Remy Hair Wig</a></li>
-								<li><a href="/category/Remy-Hair-Lace-Wigs/60">Remy Hair Lace Wigs</a></li>
-								<li><a href="/category/Remy-Hair-Weaving/62">Remy Hair Weaving</a></li>
-								<li><a href="/category/Remy-Human-Hair-Top-Piece/360">Remy Human Hair Top Piece</a></li>
-								<li><a href="/category/Remy-Human-Hair-Clip-Extension/364">Remy Human Hair Clip Extension</a></li>
-								<li><a href="/category/Remy-Human-Hair-B1G1/1868">Remy Human Hair B1G1</a></li>
-						</div>
-							<div class="line_divider"></div>
-						<div class="column">
-							<li>
-								<h2><a href="/category/Lace-Wig/3">Lace Wig</a></h2>
-							</li>
-								<li><a href="/category/Synthetic-Hair-Lace-Wigs/276">Synthetic Hair Lace Wigs</a></li>
-								<li><a href="/category/Human-Hair-Lace-Wigs/280">Human Hair Lace Wigs</a></li>
-								<li><a href="/category/Whole-Lace-Wigs/806">Whole Lace Wigs</a></li>
-								<li><a href="/category/Lace-Wig-Care/2038">Lace Wig Care</a></li>
-						</div>
-							<div class="line_divider"></div>
-						<div class="column">
-							<li>
-								<h2><a href="/category/Wig-Half-Wig/1">Wig / Half Wig</a></h2>
-							</li>
-								<li><a href="/category/Human-Hair-Wigs/332">Human Hair Wigs</a></li>
-								<li><a href="/category/Human-Hair-Blend-Wigs/336">Human Hair Blend Wigs</a></li>
-								<li><a href="/category/Synthetic-Hair-Wigs/344">Synthetic Hair Wigs</a></li>
-								<li><a href="/category/Human-Hair-Half-Wigs/1790">Human Hair Half Wigs</a></li>
-								<li><a href="/category/Synthetic-Hair-Half-Wigs/1794">Synthetic Hair Half Wigs</a></li>
-								<li><a href="/category/Synthetic-Hair-FullCaps/1802">Synthetic Hair FullCaps</a></li>
-								<li><a href="/category/Wig-Half-Wig-Care/2034">Wig &amp; Half Wig Care</a></li>
-						</div>
-							<div class="line_divider"></div>
-						<div class="column">
-							<li>
-								<h2><a href="/category/Weaving/59">Weaving</a></h2>
-							</li>
-								<li><a href="/category/Human-Hair-Weaving/312">Human Hair Weaving</a></li>
-								<li><a href="/category/Human-Hair-Blend-Weaving/316">Human Hair Blend Weaving</a></li>
-								<li><a href="/category/Synthetic-Hair-Weaving/320">Synthetic Hair Weaving</a></li>
-								<li><a href="/category/Top-Piece-Closure/324">Top Piece Closure</a></li>
-								<li><a href="/category/Weaving-B1G1/1870">Weaving B1G1</a></li>
-								<li><a href="/category/Weave-care/2030">Weave care</a></li>
-						</div>
-							<div class="line_divider"></div>
-						<div class="column">
-							<li>
-								<h2><a href="/category/Hair-Pieces/284">Hair Pieces</a></h2>
-							</li>
-								<li><a href="/category/Synthetic-Hair-Ponytail/292">Synthetic Hair Ponytail</a></li>
-								<li><a href="/category/Dome-Bun/300">Dome / Bun</a></li>
-								<li><a href="/category/Kids-Ponytail/304">Kids Ponytail</a></li>
-								<li><a href="/category/Fusion-Extension/1806">Fusion Extension</a></li>
-								<li><a href="/category/ClipIn-Extension/1810">Clip-In Extension</a></li>
-						</div>
-							<div class="line_divider"></div>
-						<div class="column">
-							<li>
-								<h2><a href="/category/Braid/368">Braid</a></h2>
-							</li>
-								<li><a href="/category/Human-Hair-Braids/372">Human Hair Braids</a></li>
-								<li><a href="/category/Synthetic-Hair-Braids/380">Synthetic Hair Braids</a></li>
-								<li><a href="/category/Human-Hair-Blend-Braids/376">Human Hair Blend Braids</a></li>
-								<li><a href="/category/Braids-B1G1/2015">Braids B1G1</a></li>
-								<li><a href="/category/Braids-Accessories/2026">Braids Accessories</a></li>
-						</div>
-							<div class="line_divider"></div>
-						<div class="column">
-							<li>
-								<h2><a href="/category/Hair-Care/384">Hair Care</a></h2>
-							</li>
-								<li><a href="/category/Lace-WigWigWeave-Care/392">Lace Wig/Wig/Weave Care</a></li>
-								<li><a href="/category/Natural-Hair-Care/400">Natural Hair Care</a></li>
-								<li><a href="/category/Hair-Color/404">Hair Color</a></li>
-								<li><a href="/category/Hair-Tools/408">Hair Tools</a></li>
-								<li><a href="/category/Hair-Accessories/1845">Hair Accessories</a></li>
-						</div>
-							<div class="line_divider"></div>
-						<div class="column">
-							<li>
-								<h2><a href="/category/Makeup/388">Makeup</a></h2>
-							</li>
-								<li><a href="/category/eye/1883">eye</a></li>
-								<li><a href="/category/lips/1905">lips</a></li>
-								<li><a href="/category/face/1929">face</a></li>
-								<li><a href="/category/nail/1953">nail</a></li>
-								<li><a href="/category/tools/1977">tools</a></li>
-								<li><a href="/category/Skin-Care/468">Skin Care</a></li>
-						</div>
-				</ul>
-			</li>
-					<li class="left">
-						<a href="/category/Remy-Hair/2">Remy Hair</a>
-							<ul>
-									<li><a href="/category/Unprocessed-Remy-Human-Hair/61">Unprocessed Remy Human Hair</a></li>
-									<li><a href="/category/Remy-Hair-Wig/4">Remy Hair Wig</a></li>
-									<li><a href="/category/Remy-Hair-Lace-Wigs/60">Remy Hair Lace Wigs</a></li>
-									<li><a href="/category/Remy-Hair-Weaving/62">Remy Hair Weaving</a></li>
-									<li><a href="/category/Remy-Human-Hair-Top-Piece/360">Remy Human Hair Top Piece</a></li>
-									<li><a href="/category/Remy-Human-Hair-Clip-Extension/364">Remy Human Hair Clip Extension</a></li>
-									<li><a href="/category/Remy-Human-Hair-B1G1/1868">Remy Human Hair B1G1</a></li>
-							</ul>
-						</li>
-					<li class="left">
-						<a href="/category/Lace-Wig/3">Lace Wig</a>
-							<ul>
-									<li><a href="/category/Synthetic-Hair-Lace-Wigs/276">Synthetic Hair Lace Wigs</a></li>
-									<li><a href="/category/Human-Hair-Lace-Wigs/280">Human Hair Lace Wigs</a></li>
-									<li><a href="/category/Whole-Lace-Wigs/806">Whole Lace Wigs</a></li>
-									<li><a href="/category/Lace-Wig-Care/2038">Lace Wig Care</a></li>
-							</ul>
-						</li>
-					<li class="left">
-						<a href="/category/Wig-Half-Wig/1">Wig / Half Wig</a>
-							<ul>
-									<li><a href="/category/Human-Hair-Wigs/332">Human Hair Wigs</a></li>
-									<li><a href="/category/Human-Hair-Blend-Wigs/336">Human Hair Blend Wigs</a></li>
-									<li><a href="/category/Synthetic-Hair-Wigs/344">Synthetic Hair Wigs</a></li>
-									<li><a href="/category/Human-Hair-Half-Wigs/1790">Human Hair Half Wigs</a></li>
-									<li><a href="/category/Synthetic-Hair-Half-Wigs/1794">Synthetic Hair Half Wigs</a></li>
-									<li><a href="/category/Synthetic-Hair-FullCaps/1802">Synthetic Hair FullCaps</a></li>
-									<li><a href="/category/Wig-Half-Wig-Care/2034">Wig &amp; Half Wig Care</a></li>
-							</ul>
-						</li>
-					<li class="left">
-						<a href="/category/Weaving/59">Weaving</a>
-							<ul>
-									<li><a href="/category/Human-Hair-Weaving/312">Human Hair Weaving</a></li>
-									<li><a href="/category/Human-Hair-Blend-Weaving/316">Human Hair Blend Weaving</a></li>
-									<li><a href="/category/Synthetic-Hair-Weaving/320">Synthetic Hair Weaving</a></li>
-									<li><a href="/category/Top-Piece-Closure/324">Top Piece Closure</a></li>
-									<li><a href="/category/Weaving-B1G1/1870">Weaving B1G1</a></li>
-									<li><a href="/category/Weave-care/2030">Weave care</a></li>
-							</ul>
-						</li>
-					<li class="left">
-						<a href="/category/Hair-Pieces/284">Hair Pieces</a>
-							<ul>
-									<li><a href="/category/Synthetic-Hair-Ponytail/292">Synthetic Hair Ponytail</a></li>
-									<li><a href="/category/Dome-Bun/300">Dome / Bun</a></li>
-									<li><a href="/category/Kids-Ponytail/304">Kids Ponytail</a></li>
-									<li><a href="/category/Fusion-Extension/1806">Fusion Extension</a></li>
-									<li><a href="/category/ClipIn-Extension/1810">Clip-In Extension</a></li>
-							</ul>
-						</li>
-					<li class="left">
-						<a href="/category/Braid/368">Braid</a>
-							<ul>
-									<li><a href="/category/Human-Hair-Braids/372">Human Hair Braids</a></li>
-									<li><a href="/category/Synthetic-Hair-Braids/380">Synthetic Hair Braids</a></li>
-									<li><a href="/category/Human-Hair-Blend-Braids/376">Human Hair Blend Braids</a></li>
-									<li><a href="/category/Braids-B1G1/2015">Braids B1G1</a></li>
-									<li><a href="/category/Braids-Accessories/2026">Braids Accessories</a></li>
-							</ul>
-						</li>
-					<li class="left">
-						<a href="/category/Hair-Care/384">Hair Care</a>
-							<ul class="brandInner" style="position:absolute;left:0;width:100%;min-width:1200px;">
-								<li>
-									<div style="width: 1020px; margin: 0 auto;">
-<ul><li class="tit"><a href="/category/Lace-WigWigWeave-Care/392" style="font-size:12px; font-weight: bold">Lace Wig/Wig/Weave Care</a></li>													<li><a href="/category/Shampoo-Conditioner/436">Shampoo &amp; Conditioner</a></li>
-													<li><a href="/category/Conditioning-Spray/444">Conditioning Spray</a></li>
-													<li><a href="/category/Leavein-Conditionerdetangler/452">Leave-in Conditioner/detangler</a></li>
-													<li><a href="/category/Lace-Wig-Wig-Accessories/460">Lace Wig / Wig Accessories</a></li>
-													<li><a href="/category/Weave-Accessories/464">Weave Accessories</a></li>
-													<li><a href="/category/Hair-Styling/440">Hair Styling</a></li>
-													<li><a href="/category/Hair-Treatment/1833">Hair Treatment</a></li>
-</ul><ul><li class="tit"><a href="/category/Natural-Hair-Care/400" style="font-size:12px; font-weight: bold">Natural Hair Care</a></li>													<li><a href="/category/Shampoo-Conditioner/546">Shampoo &amp; Conditioner</a></li>
-													<li><a href="/category/Leavein-Conditioner/554">Leave-in Conditioner</a></li>
-													<li><a href="/category/Oil-Moisturizer/562">Oil Moisturizer</a></li>
-													<li><a href="/category/Relaxer/570">Relaxer</a></li>
-													<li><a href="/category/Hair-Styling/578">Hair Styling</a></li>
-													<li><a href="/category/Wrap-Set-Lotion/590">Wrap / Set Lotion</a></li>
-													<li><a href="/category/Hair-Scalp-Conditioner/602">Hair &amp; Scalp Conditioner</a></li>
-													<li><a href="/category/Damaged-Hair-Treatment/614">Damaged Hair Treatment</a></li>
-													<li><a href="/category/Curly-Hair-Styling/618">Curly Hair Styling</a></li>
-</ul><ul><li class="tit"><a href="/category/Hair-Color/404" style="font-size:12px; font-weight: bold">Hair Color</a></li>													<li><a href="/category/Rinse/622">Rinse</a></li>
-													<li><a href="/category/Dye/626">Dye</a></li>
-													<li><a href="/category/Peroxide/630">Peroxide</a></li>
-													<li><a href="/category/Bleaching-Powder/634">Bleaching Powder</a></li>
-													<li><a href="/category/Color-Spray/638">Color Spray</a></li>
-													<li><a href="/category/Coloring-Tools/642">Coloring Tools</a></li>
-</ul><ul><li class="tit"><a href="/category/Hair-Tools/408" style="font-size:12px; font-weight: bold">Hair Tools</a></li>													<li><a href="/category/Flat-Iron/412">Flat Iron</a></li>
-													<li><a href="/category/Curling-Iron/416">Curling Iron</a></li>
-													<li><a href="/category/Dryer/420">Dryer</a></li>
-													<li><a href="/category/Trimmer-Clipper/424">Trimmer &amp; Clipper</a></li>
-													<li><a href="/category/Scissors/432">Scissors</a></li>
-													<li><a href="/category/Styling-Comb/826">Styling Comb</a></li>
-</ul><ul><li class="tit"><a href="/category/Hair-Accessories/1845" style="font-size:12px; font-weight: bold">Hair Accessories</a></li>													<li><a href="/category/Comb-Brush/650">Comb &amp; Brush</a></li>
-													<li><a href="/category/Hair-Pin-Clip-Etc/654">Hair Pin &amp; Clip &amp; Etc</a></li>
-													<li><a href="/category/Wrap-Cap/658">Wrap &amp; Cap</a></li>
-													<li><a href="/category/Needle-Thread/662">Needle &amp; Thread</a></li>
-													<li><a href="/category/Rod-Roller/670">Rod &amp; Roller</a></li>
-</ul>
-										</div><!--//brandinnav-->
-								</li>
-							</ul>
-						</li>
-					<li class="left">
-						<a href="/category/Makeup/388">Makeup</a>
-							<ul>
-									<li><a href="/category/eye/1883">eye</a></li>
-									<li><a href="/category/lips/1905">lips</a></li>
-									<li><a href="/category/face/1929">face</a></li>
-									<li><a href="/category/nail/1953">nail</a></li>
-									<li><a href="/category/tools/1977">tools</a></li>
-									<li><a href="/category/Skin-Care/468">Skin Care</a></li>
-							</ul>
-						</li>
+  <nav>
+      <ul id="navigate_menu">
+        <li class="shop_all">
+          <a href="">all department</a>
+          <ul>
+              <div class="column">
+                <li>
+                  <h2><a href="/category/Remy-Hair/2">Remy Hair</a></h2>
+                </li>
+                  <li><a href="/category/Unprocessed-Remy-Human-Hair/61">Unprocessed Remy Human Hair</a></li>
+                  <li><a href="/category/Remy-Hair-Wig/4">Remy Hair Wig</a></li>
+                  <li><a href="/category/Remy-Hair-Lace-Wigs/60">Remy Hair Lace Wigs</a></li>
+                  <li><a href="/category/Remy-Hair-Weaving/62">Remy Hair Weaving</a></li>
+                  <li><a href="/category/Remy-Hair-Braids/356">Remy Hair Braids</a></li>
+                  <li><a href="/category/Remy-Human-Hair-Top-Piece/360">Remy Human Hair Top Piece</a></li>
+                  <li><a href="/category/Remy-Human-Hair-Clip-Extension/364">Remy Human Hair Clip Extension</a></li>
+              </div>
+                <div class="line_divider"></div>
+              <div class="column">
+                <li>
+                  <h2><a href="/category/Lace-Wig/3">Lace Wig</a></h2>
+                </li>
+                  <li><a href="/category/Synthetic-Hair-Lace-Wigs/276">Synthetic Hair Lace Wigs</a></li>
+                  <li><a href="/category/Human-Hair-Lace-Wigs/280">Human Hair Lace Wigs</a></li>
+                  <li><a href="/category/Whole-Lace-Wigs/806">Whole Lace Wigs</a></li>
+                  <li><a href="/category/Lace-Wig-Care/2038">Lace Wig Care</a></li>
+              </div>
+                <div class="line_divider"></div>
+              <div class="column">
+                <li>
+                  <h2><a href="/category/Wig-Half-Wig/1">Wig / Half Wig</a></h2>
+                </li>
+                  <li><a href="/category/Human-Hair-Wigs/332">Human Hair Wigs</a></li>
+                  <li><a href="/category/Human-Hair-Blend-Wigs/336">Human Hair Blend Wigs</a></li>
+                  <li><a href="/category/Synthetic-Hair-Wigs/344">Synthetic Hair Wigs</a></li>
+                  <li><a href="/category/Human-Hair-Half-Wigs/1790">Human Hair Half Wigs</a></li>
+                  <li><a href="/category/Synthetic-Hair-Half-Wigs/1794">Synthetic Hair Half Wigs</a></li>
+                  <li><a href="/category/Synthetic-Hair-FullCaps/1802">Synthetic Hair FullCaps</a></li>
+                  <li><a href="/category/Wig-Half-Wig-Care/2034">Wig &amp; Half Wig Care</a></li>
+              </div>
+                <div class="line_divider"></div>
+              <div class="column">
+                <li>
+                  <h2><a href="/category/Weaving/59">Weaving</a></h2>
+                </li>
+                  <li><a href="/category/Human-Hair-Weaving/312">Human Hair Weaving</a></li>
+                  <li><a href="/category/Human-Hair-Blend-Weaving/316">Human Hair Blend Weaving</a></li>
+                  <li><a href="/category/Synthetic-Hair-Weaving/320">Synthetic Hair Weaving</a></li>
+                  <li><a href="/category/Top-Piece-Closure/324">Top Piece Closure</a></li>
+                  <li><a href="/category/Weave-care/2030">Weave care</a></li>
+              </div>
+                <div class="line_divider"></div>
+              <div class="column">
+                <li>
+                  <h2><a href="/category/Hair-Pieces/284">Hair Pieces</a></h2>
+                </li>
+                  <li><a href="/category/Synthetic-Hair-Ponytail/292">Synthetic Hair Ponytail</a></li>
+                  <li><a href="/category/Dome-Bun/300">Dome / Bun</a></li>
+                  <li><a href="/category/Kids-Ponytail/304">Kids Ponytail</a></li>
+                  <li><a href="/category/Fusion-Extension/1806">Fusion Extension</a></li>
+                  <li><a href="/category/ClipIn-Extension/1810">Clip-In Extension</a></li>
+              </div>
+                <div class="line_divider"></div>
+              <div class="column">
+                <li>
+                  <h2><a href="/category/Braid/368">Braid</a></h2>
+                </li>
+                  <li><a href="/category/Human-Hair-Braids/372">Human Hair Braids</a></li>
+                  <li><a href="/category/Synthetic-Hair-Braids/380">Synthetic Hair Braids</a></li>
+                  <li><a href="/category/Human-Hair-Blend-Braids/376">Human Hair Blend Braids</a></li>
+                  <li><a href="/category/Braids-Accessories/2026">Braids Accessories</a></li>
+              </div>
+                <div class="line_divider"></div>
+              <div class="column">
+                <li>
+                  <h2><a href="/category/Hair-Care/384">Hair Care</a></h2>
+                </li>
+                  <li><a href="/category/Lace-WigWigWeave-Care/392">Lace Wig/Wig/Weave Care</a></li>
+                  <li><a href="/category/Natural-Hair-Care/400">Natural Hair Care</a></li>
+                  <li><a href="/category/Hair-Color/404">Hair Color</a></li>
+                  <li><a href="/category/Hair-Tools/408">Hair Tools</a></li>
+                  <li><a href="/category/Hair-Accessories/1845">Hair Accessories</a></li>
+              </div>
+                <div class="line_divider"></div>
+              <div class="column">
+                <li>
+                  <h2><a href="/category/Makeup/388">Makeup</a></h2>
+                </li>
+                  <li><a href="/category/eye/1883">eye</a></li>
+                  <li><a href="/category/lips/1905">lips</a></li>
+                  <li><a href="/category/face/1929">face</a></li>
+                  <li><a href="/category/nail/1953">nail</a></li>
+                  <li><a href="/category/tools/1977">tools</a></li>
+                  <li><a href="/category/Accessories/666">Accessories</a></li>
+              </div>
+          </ul>
+        </li>
+            <li class="left">
+              <a href="/category/Remy-Hair/2">Remy Hair</a>
+                <ul>
+                    <li><a href="/category/Unprocessed-Remy-Human-Hair/61">Unprocessed Remy Human Hair</a></li>
+                    <li><a href="/category/Remy-Hair-Wig/4">Remy Hair Wig</a></li>
+                    <li><a href="/category/Remy-Hair-Lace-Wigs/60">Remy Hair Lace Wigs</a></li>
+                    <li><a href="/category/Remy-Hair-Weaving/62">Remy Hair Weaving</a></li>
+                    <li><a href="/category/Remy-Hair-Braids/356">Remy Hair Braids</a></li>
+                    <li><a href="/category/Remy-Human-Hair-Top-Piece/360">Remy Human Hair Top Piece</a></li>
+                    <li><a href="/category/Remy-Human-Hair-Clip-Extension/364">Remy Human Hair Clip Extension</a></li>
+                </ul>
+            </li>
+            <li class="left">
+              <a href="/category/Lace-Wig/3">Lace Wig</a>
+                <ul>
+                    <li><a href="/category/Synthetic-Hair-Lace-Wigs/276">Synthetic Hair Lace Wigs</a></li>
+                    <li><a href="/category/Human-Hair-Lace-Wigs/280">Human Hair Lace Wigs</a></li>
+                    <li><a href="/category/Whole-Lace-Wigs/806">Whole Lace Wigs</a></li>
+                    <li><a href="/category/Lace-Wig-Care/2038">Lace Wig Care</a></li>
+                </ul>
+            </li>
+            <li class="left">
+              <a href="/category/Wig-Half-Wig/1">Wig / Half Wig</a>
+                <ul>
+                    <li><a href="/category/Human-Hair-Wigs/332">Human Hair Wigs</a></li>
+                    <li><a href="/category/Human-Hair-Blend-Wigs/336">Human Hair Blend Wigs</a></li>
+                    <li><a href="/category/Synthetic-Hair-Wigs/344">Synthetic Hair Wigs</a></li>
+                    <li><a href="/category/Human-Hair-Half-Wigs/1790">Human Hair Half Wigs</a></li>
+                    <li><a href="/category/Synthetic-Hair-Half-Wigs/1794">Synthetic Hair Half Wigs</a></li>
+                    <li><a href="/category/Synthetic-Hair-FullCaps/1802">Synthetic Hair FullCaps</a></li>
+                    <li><a href="/category/Wig-Half-Wig-Care/2034">Wig &amp; Half Wig Care</a></li>
+                </ul>
+            </li>
+            <li class="left">
+              <a href="/category/Weaving/59">Weaving</a>
+                <ul>
+                    <li><a href="/category/Human-Hair-Weaving/312">Human Hair Weaving</a></li>
+                    <li><a href="/category/Human-Hair-Blend-Weaving/316">Human Hair Blend Weaving</a></li>
+                    <li><a href="/category/Synthetic-Hair-Weaving/320">Synthetic Hair Weaving</a></li>
+                    <li><a href="/category/Top-Piece-Closure/324">Top Piece Closure</a></li>
+                    <li><a href="/category/Weave-care/2030">Weave care</a></li>
+                </ul>
+            </li>
+            <li class="left">
+              <a href="/category/Hair-Pieces/284">Hair Pieces</a>
+                <ul>
+                    <li><a href="/category/Synthetic-Hair-Ponytail/292">Synthetic Hair Ponytail</a></li>
+                    <li><a href="/category/Dome-Bun/300">Dome / Bun</a></li>
+                    <li><a href="/category/Kids-Ponytail/304">Kids Ponytail</a></li>
+                    <li><a href="/category/Fusion-Extension/1806">Fusion Extension</a></li>
+                    <li><a href="/category/ClipIn-Extension/1810">Clip-In Extension</a></li>
+                </ul>
+            </li>
+            <li class="left">
+              <a href="/category/Braid/368">Braid</a>
+                <ul>
+                    <li><a href="/category/Human-Hair-Braids/372">Human Hair Braids</a></li>
+                    <li><a href="/category/Synthetic-Hair-Braids/380">Synthetic Hair Braids</a></li>
+                    <li><a href="/category/Human-Hair-Blend-Braids/376">Human Hair Blend Braids</a></li>
+                    <li><a href="/category/Braids-Accessories/2026">Braids Accessories</a></li>
+                </ul>
+            </li>
+            <li class="left">
+              <a href="/category/Hair-Care/384">Hair Care</a>
+                <ul class="brandInner" style="position:absolute;left:0;width:100%;min-width:1200px;">
+                  <li>
+                    <div style="width: 1020px; margin: 0 auto;">
+<ul><li class="tit"><a href="/category/Lace-WigWigWeave-Care/392" style="font-size:12px; font-weight: bold">Lace Wig/Wig/Weave Care</a></li><li><a href="/category/Shampoo-Conditioner/436">Shampoo &amp; Conditioner</a></li><li><a href="/category/Conditioning-Spray/444">Conditioning Spray</a></li><li><a href="/category/Leavein-Conditionerdetangler/452">Leave-in Conditioner/detangler</a></li><li><a href="/category/Lace-Wig-Wig-Accessories/460">Lace Wig / Wig Accessories</a></li><li><a href="/category/Weave-Accessories/464">Weave Accessories</a></li><li><a href="/category/Hair-Styling/440">Hair Styling</a></li><li><a href="/category/Hair-Treatment/1833">Hair Treatment</a></li></ul><ul><li class="tit"><a href="/category/Natural-Hair-Care/400" style="font-size:12px; font-weight: bold">Natural Hair Care</a></li><li><a href="/category/Shampoo-Conditioner/546">Shampoo &amp; Conditioner</a></li><li><a href="/category/Leavein-Conditioner/554">Leave-in Conditioner</a></li><li><a href="/category/Oil-Moisturizer/562">Oil Moisturizer</a></li><li><a href="/category/Relaxer/570">Relaxer</a></li><li><a href="/category/Hair-Styling/578">Hair Styling</a></li><li><a href="/category/Wrap-Set-Lotion/590">Wrap / Set Lotion</a></li><li><a href="/category/Hair-Scalp-Conditioner/602">Hair &amp; Scalp Conditioner</a></li><li><a href="/category/Damaged-Hair-Treatment/614">Damaged Hair Treatment</a></li><li><a href="/category/Curly-Hair-Styling/618">Curly Hair Styling</a></li></ul><ul><li class="tit"><a href="/category/Hair-Color/404" style="font-size:12px; font-weight: bold">Hair Color</a></li><li><a href="/category/Rinse/622">Rinse</a></li><li><a href="/category/Dye/626">Dye</a></li><li><a href="/category/Peroxide/630">Peroxide</a></li><li><a href="/category/Bleaching-Powder/634">Bleaching Powder</a></li><li><a href="/category/Color-Spray/638">Color Spray</a></li><li><a href="/category/Coloring-Tools/642">Coloring Tools</a></li></ul><ul><li class="tit"><a href="/category/Hair-Tools/408" style="font-size:12px; font-weight: bold">Hair Tools</a></li><li><a href="/category/Flat-Iron/412">Flat Iron</a></li><li><a href="/category/Curling-Iron/416">Curling Iron</a></li><li><a href="/category/Dryer/420">Dryer</a></li><li><a href="/category/Trimmer-Clipper/424">Trimmer &amp; Clipper</a></li><li><a href="/category/Scissors/432">Scissors</a></li><li><a href="/category/Styling-Comb/826">Styling Comb</a></li></ul><ul><li class="tit"><a href="/category/Hair-Accessories/1845" style="font-size:12px; font-weight: bold">Hair Accessories</a></li><li><a href="/category/Comb-Brush/650">Comb &amp; Brush</a></li><li><a href="/category/Hair-Pin-Clip-Etc/654">Hair Pin &amp; Clip &amp; Etc</a></li><li><a href="/category/Wrap-Cap/658">Wrap &amp; Cap</a></li><li><a href="/category/Needle-Thread/662">Needle &amp; Thread</a></li><li><a href="/category/Rod-Roller/670">Rod &amp; Roller</a></li></ul>
+                    </div><!--//brandinnav-->
+                  </li>
+                </ul>
+            </li>
+            <li class="left">
+              <a href="/category/Makeup/388">Makeup</a>
+                <ul>
+                    <li><a href="/category/eye/1883">eye</a></li>
+                    <li><a href="/category/lips/1905">lips</a></li>
+                    <li><a href="/category/face/1929">face</a></li>
+                    <li><a href="/category/nail/1953">nail</a></li>
+                    <li><a href="/category/tools/1977">tools</a></li>
+                    <li><a href="/category/Accessories/666">Accessories</a></li>
+                </ul>
+            </li>
 
-			<li class="left " style="float:right;margin-right:10px;">
-				<a href="#" class="brand">BRAND</a>
-				<ul class="brandInner" style="position:absolute;left:0;width:100%;min-width:1200px;">
-					<li>
-						<div style="width: 1020px; margin: 0 auto;">
-<ul><li class="tit">BEE HAIR</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=10608">RIAH HAIR</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10612">RIAH PREMIUM</a></li>
-</ul><ul><li class="tit">IT S A WIG</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=10895">Premium Quality Wig</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9853">CLUB GIRL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9857">INDIAN SUPER NATURAL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9861">It's a Cap Weave</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9865">It's a Full Cap</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9869">It's a Half Wig</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9873">It's a Wig</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9877">It's a Wig LACE FRONT</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9881">MIMOSA</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9885">RAINBOW POP</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9889">SASSY MAMA</a></li>
-</ul><ul><li class="tit">SHAKE-N-GO</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=9261">ACCLAIM</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9265">FREETRESS BULK</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9269">FREETRESS BUN</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9273">FREETRESS EQUAL BRAID</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9277">FREETRESS EQUAL FULLCAP</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9281">FREETRESS EQUAL LACE FRONT WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9285">FREETRESS EQUAL PONYTAIL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9289">FREETRESS EQUAL TOP PIECE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9293">FREETRESS EQUAL WEAVE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9297">FREETRESS EQUAL WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9301">FREETRESS FULLCAP</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9305">FREETRESS KIDS PONYTAIL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9309">FREETRESS PONYTAIL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9313">FREETRESS WEAVE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9317">GLAM - I</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9321">MILKY WAY BAND FULLCAP</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9325">MILKY WAY BRAID</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9333">MILKY WAY LACE FRONT WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9341">MILKY WAY QUE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9345">MILKY WAY WEAVE MASTER</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9349">MILKY WAY WEAVING</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9353">NAKED</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9357">NATU</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9361">RAIN</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9365">SAGA REMY</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9369">XQ</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10929">FREETRESS EQUAL DELUX</a></li>
-</ul><ul><li class="tit">ABSOLUTE</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=11073">ABSOLUTE NEW YORK</a></li>
-</ul><ul><li class="tit">MODEL MODEL</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=9373">BRAVO</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9377">DREAMWEAVER</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9381">EGO</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9385">GLANCE  BRAID</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9389">GLANCE BUN</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9393">GLANCE PONYTAIL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9397">GLANCE WEAVE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9401">MODEL MODEL ANYCURL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9405">MODEL MODEL BRAID</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9409">MODEL MODEL COCKTAIL WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9413">MODEL MODEL EQUAL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9417">MODEL MODEL FULLCAP</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9421">MODEL MODEL IKON</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9429">MODEL MODEL LACE FRONT</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9433">MODEL MODEL POSE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9437">MODEL MODEL WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9441">NUDE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9445">QUTIX</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9449">REMIST</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10705">MODEL MODEL WEAVING</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10921">SEVEN STAR</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10925">MODEL MODEL CLEAN</a></li>
-</ul><ul><li class="tit">HAIR ZONE</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=9453">ALEXANDER</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9457">BARE &amp; NATURAL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9461">BUMP COLLECTION</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9465">EMPRESS LACE FRONT EDGE WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9469">EMPRESS NATURAL LACE FRONT WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9473">GODDESS  BUMP</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9477">GODDESS REMI</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9481">GODDESS SELECT</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9485">INDIAN FIRE &amp; WATER</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9489">INSTANT FASHION WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9493">INSTANT PONY</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9497">INSTANT PONY WRAP</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9501">INSTANT UP-DO</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9505">INSTANT WEAVE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9509">KANUBIA</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9513">LIVE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9517">PREMIUM NOW</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9521">PREMIUM TOO</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9525">RARE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9529">SELECT PERUVIAN</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9533">SENSATIONNEL LACE WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9537">SNAP</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9541">START 2 FINISH</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9545">STYLE 360</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9549">SYNTHETIC BRAIDS</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9553">TOTALLY INSTANT WEAVE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10701">African Collection</a></li>
-</ul><ul><li class="tit">SUN TAIYANG</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=10709">X-PRESSION BRAID</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11065">OUTRE REBEL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11069">GEM</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9557">BATIK</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9561">BEAT</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9565">DUVESSA</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9569">ORIGIN</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9573">OUTRE DUBY XPRESS</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9577">OUTRE LACE FRONT WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9581">OUTRE PREMIUM</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9585">OUTRE PREMIUM DUBY</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9589">OUTRE PREMIUM DUBY WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9593">OUTRE PREMIUM PURPLE PACK</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9597">OUTRE PREMIUM SALON CUT</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9601">OUTRE PREMIUM SHORT WEAVING</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9605">OUTRE QUICK WEAVE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9609">OUTRE SUPER NATURAL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9617">SIMPLY</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9621">SOL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9625">TIMELESS</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9629">VELVET REMI</a></li>
-</ul><ul><li class="tit">FASHION WORLD</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=9633">BOHYME</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9637">DIAMOND REMI</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9641">ONYX ESSENCE</a></li>
-</ul><ul><li class="tit">CHADE</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=10689">PERUVIAN TRESS</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9649">AMOUR</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9653">BRAZILIAN TRESS</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9657">CUTIE COLLECTION</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9661">ESSENCE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9665">GOLD FIELD</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9669">IDOL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9673">MAGIC LACE FRONT WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9677">NEW BORN FREE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9681">O REMI</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9685">REMI TOUCH</a></li>
-</ul><ul><li class="tit">BEAUTY PLUS</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=9689">BLACK PEARL FULL LACE WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9693">GOLD PEARL FULL LACE WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9697">JANET BRAZILIAN BOMBSHELL </a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9701">JANET BRAZILIAN BUNDLE HAIR</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9705">JANET COLLECTION FULL LACE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9709">JANET COLLECTION HUMAN HAIR WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9713">JANET COLLECTION SYNTHETIC WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9717">JANET COLLECTION WHOLE LACE WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9721">JANET DENGA</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9725">JANET Dolche</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9729">JANET ENCORE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9733">JANET ENHANCED BRAZILIAN REMY</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9737">JANET HUMAN HAIR WEAVE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9741">JANET INDIAN REMY</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9745">JANET INDIAN TEMPLE REMY HAIR</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9749">JANET KISS ME LACE CLOSURE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9753">JANET NOIR</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9757">JANET PERUVIAN NATURAL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9761">JANET PRESTIGE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9765">JANET PRESTIGE ONE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9769">JANET VIP REMY</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9773">MOROCCAN REMY</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9777">NORDIC NATURAL REMY</a></li>
-</ul><ul><li class="tit">BOYANG</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=9781">VANESSA HALF WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9785">VANESSA HUMAN HAIR WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9789">VANESSA LACE WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9797">VANESSA SYNTHETIC HAIR WIG</a></li>
-</ul><ul><li class="tit">SENSUAL</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=9805">DIVINE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9809">FANTASTIC 4</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9813">INDIAN REMI</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9821">PRIYA</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9829">REMI WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9833">SENS SENS</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9837">SENSUAL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=9841">VELLA VELLA</a></li>
-</ul><ul><li class="tit">ALICIA</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=10493">ELEMENTS</a></li>
-</ul><ul><li class="tit">BEE SALES</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=10301">SULFUR 8</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10718">NOT YOUR MOTHERS</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10722">ARGAN SMOOTH</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10726">AS I AM</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10730">BABY DON'T BE BALD</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10734">BANTU</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10738">BEAUTIFUL BEGINNING</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10742">BLACK&amp; WHITE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10746">BLUE MOON</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10750">BONFI</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10754">CURLS &amp; NATURALS</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10758">CURLY TWIRLS</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10762">FDS</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10766">FINISHEEN-REVLON</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10770">HASK</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10774">HYDRA STEAM</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10778">INFUSIUM</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10782">I-REMI</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10786">JUST 5</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10790">KARELEN</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10794">MOBODY</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10798">MY DNA</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10802">OLIVE BABIES</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10806">ORS</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10810">PRO-LINE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10814">QP</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10818">QUEEN HELENE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10822">RE GRO</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10826">REMI</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10830">ROBERT’S</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10834">ROUX</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10838">SEBASTIAN</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10842">SHEA MOISTURE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10846">SKIN TIGHT</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10850">SPANISH SUR GRO</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10854">STRONG END</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10858">SPORTIN’ WAVES</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10862">TEND SKIN</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10866">TEXTURE MY WAY</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10870">THREE SISTER</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10874">ULTRA GLOW</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10878">VASELINE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10882">VITA POINTE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10886">WORLD OF CURLS</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10890">YOU BE NATURAL</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10894">ZOTO</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10948">B'S ORGANIC</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10952">CLUBMAN</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10956">COLOR CHARM WELLA</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10960">ADORE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10964">ADORE PLUS</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10968">AFRICAN FORMULA</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10972">ARTRA</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10976">AVATAR</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10980">CRUSADER</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10984">DR. FRED PALMER</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10988">ERZULI</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10992">FISKE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10996">GHANA AFRICAN</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11000">GIGI</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11004">PRECIOUS BEAUTY</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11008">RADIANCE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11016">SILICON MIX</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11020">SH-18</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11024">SLICK STUFF</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11028">SUPER STAR</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11032">TEXTURES &amp; TONES</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11036">THERMAL RADIANCE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11048">VAPON</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11052">VITALE EVERTONE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11056">WILL GRO</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11057">SYMBA</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=11061">TOPICLEAR</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10904">PCJ</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10908">RESHMA</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10912">PANTENE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10916">TOPPIK</a></li>
-</ul><ul><li class="tit">BOBBI BOSS</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=10688">INDI REMI</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10537">BOBBI BOSS LACE FRONT WIG</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10541">BOBBIS BOSS WIG</a></li>
-</ul><ul><li class="tit">DIANA</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=10425">DIANA WIG</a></li>
-</ul><ul><li class="tit">IVY ENTERPRISE</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=10377">BROADWAY</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10401">RUBY KISSES</a></li>
-</ul><ul><li class="tit">KARA</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=10469">KARA BRAZILIAN REMY</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10473">MICHELLE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10477">REMY BLUE</a></li>
-</ul><ul><li class="tit">JK TRADING INC</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=10405">CLASSY VIRGIN MALAYSIAN</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10409">JK TRADING REMY LACE CLOSURE</a></li>
-							<li><a href="/category/?keyword=&amp;SelectedBrand=10413">JK TRADING REMY LACE WIG</a></li>
-</ul><ul><li class="tit">NYX</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=10697">NYX</a></li>
-</ul><ul><li class="tit">NEW PRO GROUP</li>							<li><a href="/category/?keyword=&amp;SelectedBrand=10920">KINGSTON</a></li>
-</ul>
-							</div><!--//brandinnav-->
+        <li class="left " style="float:right;margin-right:10px;">
+          <a href="/home/brand" class="brand">BRAND</a>
+          <ul class="brandInner" style="position:absolute;left:0;width:100%;min-width:1200px;">
+            <li>
 
-					</li>
-					</ul>
-					</li>
+              <table style="margin-left:auto;margin-right:auto;">
+                <tbody><tr>
+<td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=BEE SALES" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">BEE SALES</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10718">NOT YOUR MOTHERS</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10722">ARGAN SMOOTH</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10726">AS I AM</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10730">BABY DON'T BE BALD</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10734">BANTU</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10738">BEAUTIFUL BEGINNING</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10746">BLUE MOON</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10750">BONFI</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10754">CURLS &amp; NATURALS</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10758">CURLY TWIRLS</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10766">FINISHEEN-REVLON</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10770">HASK</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10774">HYDRA STEAM</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10778">INFUSIUM</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10782">I-REMI</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10786">JUST 5</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10794">MOBODY</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10798">MY DNA</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10802">OLIVE BABIES</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10806">ORS</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10810">PRO-LINE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10814">QP</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10818">QUEEN HELENE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10826">REMI</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10830">ROBERT’S</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10834">ROUX</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10838">SEBASTIAN</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10842">SHEA MOISTURE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10846">SKIN TIGHT</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10850">SPANISH SUR GRO</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10854">STRONG END</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10858">SPORTIN’ WAVES</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10866">TEXTURE MY WAY</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10870">THREE SISTER</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10882">VITA POINTE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10886">WORLD OF CURLS</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10890">YOU BE NATURAL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10894">ZOTO</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11320">MOCO DE  GORILA</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11324">ROBERT'S DIAMOND BOND</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11328">HAIR ACCESSORY</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10301">SULFUR 8</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10904">PCJ</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10908">RESHMA</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10912">PANTENE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10916">TOPPIK</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10948">B'S ORGANIC</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10956">COLOR CHARM WELLA</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10960">ADORE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10964">ADORE PLUS</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10992">FISKE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11000">GIGI</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11008">RADIANCE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11016">SILICON MIX</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11024">SLICK STUFF</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11028">SUPER STAR</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11032">TEXTURES &amp; TONES</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11036">THERMAL RADIANCE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11048">VAPON</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11052">VITALE EVERTONE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11056">WILL GRO</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=SHAKE-N-GO" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">SHAKE-N-GO</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9261">ACCLAIM</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9265">FREETRESS BULK</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9269">FREETRESS BUN</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9273">FREETRESS EQUAL BRAID</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9277">FREETRESS EQUAL FULLCAP</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9281">FREETRESS EQUAL LACE FRONT WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9285">FREETRESS EQUAL PONYTAIL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9289">FREETRESS EQUAL TOP PIECE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9293">FREETRESS EQUAL WEAVE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9297">FREETRESS EQUAL WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9301">FREETRESS FULLCAP</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9305">FREETRESS KIDS PONYTAIL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9309">FREETRESS PONYTAIL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9313">FREETRESS WEAVE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9321">MILKY WAY BAND FULLCAP</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9325">MILKY WAY BRAID</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9333">MILKY WAY LACE FRONT WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9341">MILKY WAY QUE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9345">MILKY WAY WEAVE MASTER</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9349">MILKY WAY WEAVING</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9353">NAKED</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9357">NATU</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9361">RAIN</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9365">SAGA REMY</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9369">XQ</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10929">FREETRESS EQUAL DELUX</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11271">FREETRESS BUNTIE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11332">NVH</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11336">ORGANIQUE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11304">7A+</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=HAIR ZONE" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">HAIR ZONE</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11249">CURLFINITY</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11153">SELECT REMI</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11157">EMPRESS LACE PARTING WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11161">CLOUD 9</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10701">African Collection</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11125">EMPIRE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9453">ALEXANDER</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9457">BARE &amp; NATURAL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9461">BUMP COLLECTION</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9465">EMPRESS LACE FRONT EDGE WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9469">EMPRESS NATURAL LACE FRONT WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9473">GODDESS  BUMP</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9477">GODDESS REMI</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9481">GODDESS SELECT</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9489">INSTANT FASHION WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9509">KANUBIA</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9513">LIVE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9517">PREMIUM NOW</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9521">PREMIUM TOO</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9529">SELECT PERUVIAN</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9533">SENSATIONNEL LACE WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9537">SNAP</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9549">SYNTHETIC BRAIDS</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9553">TOTALLY INSTANT WEAVE</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=BEAUTY PLUS" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">BEAUTY PLUS</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11292">JANET ESHA</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11300">JANET COLLECTION EVERYTIME</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11308">9S+ALIBA</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9693">GOLD PEARL FULL LACE WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9697">JANET BRAZILIAN BOMBSHELL </a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9701">JANET BRAZILIAN BUNDLE HAIR</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9705">JANET COLLECTION FULL LACE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9709">JANET COLLECTION HUMAN HAIR WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9713">JANET COLLECTION SYNTHETIC WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9717">JANET COLLECTION WHOLE LACE WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9721">JANET DENGA</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9729">JANET ENCORE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9733">JANET ENHANCED BRAZILIAN REMY</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9737">JANET HUMAN HAIR WEAVE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9741">JANET INDIAN REMY</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9745">JANET INDIAN TEMPLE REMY HAIR</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9753">JANET NOIR</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9761">JANET PRESTIGE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9765">JANET PRESTIGE ONE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9769">JANET VIP REMY</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9777">NORDIC NATURAL REMY</a>
+                        </li>
+</ul> </td></tr> <tr><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=SUN TAIYANG" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">SUN TAIYANG</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10709">X-PRESSION BRAID</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11065">OUTRE REBEL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11069">GEM</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9557">BATIK</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9565">DUVESSA</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9569">ORIGIN</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9573">OUTRE DUBY XPRESS</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9577">OUTRE LACE FRONT WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9581">OUTRE PREMIUM</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9585">OUTRE PREMIUM DUBY</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9589">OUTRE PREMIUM DUBY WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9593">OUTRE PREMIUM PURPLE PACK</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9597">OUTRE PREMIUM SALON CUT</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9601">OUTRE PREMIUM SHORT WEAVING</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9605">OUTRE QUICK WEAVE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9609">OUTRE SUPER NATURAL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9617">SIMPLY</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9621">SOL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9625">TIMELESS</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9629">VELVET REMI</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=MODEL MODEL" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">MODEL MODEL</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10921">SEVEN STAR</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9373">BRAVO</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9381">EGO</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9385">GLANCE  BRAID</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9389">GLANCE BUN</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9393">GLANCE PONYTAIL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9397">GLANCE WEAVE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9401">MODEL MODEL ANYCURL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9405">MODEL MODEL BRAID</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9409">MODEL MODEL COCKTAIL WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9413">MODEL MODEL EQUAL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9417">MODEL MODEL FULLCAP</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9421">MODEL MODEL IKON</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9429">MODEL MODEL LACE FRONT</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9433">MODEL MODEL POSE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9437">MODEL MODEL WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9441">NUDE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9445">QUTIX</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9449">REMIST</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=CHADE" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">CHADE</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9649">AMOUR</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9653">BRAZILIAN TRESS</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9657">CUTIE COLLECTION</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9669">IDOL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9673">MAGIC LACE FRONT WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9677">NEW BORN FREE</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9681">O REMI</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9685">REMI TOUCH</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11296">ALI</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11117">360 WEFT</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11149">REAL</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=IT S A WIG" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">IT S A WIG</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9853">CLUB GIRL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9861">It's a Cap Weave</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9865">It's a Full Cap</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9869">It's a Half Wig</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9873">It's a Wig</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9877">It's a Wig LACE FRONT</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9881">MIMOSA</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9885">RAINBOW POP</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9889">SASSY MAMA</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10895">Premium Quality Wig</a>
+                        </li>
+</ul> </td></tr> <tr><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=SENSUAL" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">SENSUAL</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9813">INDIAN REMI</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9821">PRIYA</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9833">SENS SENS</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9837">SENSUAL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9845">VERA REMI</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=ALICIA" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">ALICIA</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10493">ELEMENTS</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10497">FOXY SILVER LACE WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11084">FOXY LADY</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11108">FOXY SILVER</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11112">CAREFREE</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=BOYANG" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">BOYANG</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9781">VANESSA HALF WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9785">VANESSA HUMAN HAIR WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9789">VANESSA LACE WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=9797">VANESSA SYNTHETIC HAIR WIG</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=IVY ENTERPRISE" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">IVY ENTERPRISE</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10377">BROADWAY</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10381">GOLDFINGER  DESIGN NAIL</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10401">RUBY KISSES</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11116">KISS NEW YORK PROFESSIONAL</a>
+                        </li>
+</ul> </td></tr> <tr><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=MANE CONCEPT" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">MANE CONCEPT</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11233">BROWN SUGAR</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11237">RED CARPET</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11241">QUICK CURLON</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=BEE HAIR" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">BEE HAIR</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10608">RIAH HAIR</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10612">RIAH PREMIUM</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=BOBBI BOSS" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">BOBBI BOSS</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10537">BOBBI BOSS LACE FRONT WIG</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10541">BOBBIS BOSS WIG</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=KARA" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">KARA</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10469">KARA BRAZILIAN REMY</a>
+                        </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10477">REMY BLUE</a>
+                        </li>
+</ul> </td></tr> <tr><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=ABSOLUTE" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">ABSOLUTE</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11073">ABSOLUTE NEW YORK</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=DASO" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">DASO</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11104">KING.J</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=NYX" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">NYX</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=10697">NYX</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=TRUE COLOR" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">TRUE COLOR</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11124">MAGIC COLLECTION</a>
+                        </li>
+</ul> </td></tr> <tr><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=ORADELL" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">ORADELL</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11229">SADA</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=EBIN NEW YORK" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">EBIN NEW YORK</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11257">EBIN</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=FIRSTLINE" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">FIRSTLINE</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11261">EVOLVE</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=HYE CIRCLE" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">HYE CIRCLE</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11264">KALEIDOSCOPE</a>
+                        </li>
+</ul> </td></tr> <tr><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=ROYAL IMEX" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">ROYAL IMEX</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11275">SIS</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=AMEKOR" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">AMEKOR</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11287">VIVICA A FOX</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=Beauty Supply" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">Beauty Supply</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11289">Beauty Supply</a>
+                        </li>
+</ul> </td><td valign="top" align="left"> <ul>                <li>
+                  <a href="/category/?vendorName=A PLUS" class="tit" style="font-weight: bold;font-family: Verdana;color: #000;margin: 0; padding-left: 10px; font-size: 12px !important; line-height: 15px; ">A PLUS</a>
+                </li>
+                        <li>
+                          <a id="brandname" href="/category/?keyword=&amp;SelectedBrand=11312">O-ZONE</a>
+                        </li>
+</ul> </td></tr> <tr>
+                  </tr>
+                  </tbody></table>
+              </li>
+            </ul>
+            </li>
 
-					</ul>
-				</nav>
+            </ul>
+  </nav>
 
 
 
@@ -653,30 +1173,45 @@
 
 <div id="pop_up_background"></div>
 <!-- General Pop-up Background -->
-
 <!-- Sign Up Box Starts Here -->
 <form id="signup_pop_up_box">
+  <input name="__RequestVerificationToken" type="hidden" value="rJma-XoZRru-dSUlzQuf2OD8z55MB3U23RqD9UlpGZaAqFOvCAMkH90EICQBuxP3TdSOUO_baQAN7xk9BoRUOP98s5TcP6WR9qGQL31VCuM1">
   <h1>register</h1>
   <h2>Not a member yet? You can receive coupons &amp; discounts, promotional e-mails and gifts.</h2>
-  <br clear="all">
-  <br clear="all">
-  <input type="text" id="signup_firstname" name="fullnames" value="" class="textAreaBoxInputs" style="background-image: url('/content/img/register_first_name01w.gif'); background-repeat : no-repeat; "> 
-	<br clear="all"><br clear="all">
-  <input type="text" id="signup_lastname" name="usernames" value="" class="textAreaBoxInputs" style="background-image: url('/content/img/register_last_name01w.gif'); background-repeat : no-repeat; "> 
-	<br clear="all"><br clear="all">
-  <input type="text" id="signup_email" name="emails" value="" class="textAreaBoxInputs" style="background-image: url('/content/img/register_email_01w.gif'); background-repeat : no-repeat; "> 
   <br clear="all"><br clear="all">
-  <input type="password" id="signup_password" name="passs" value="" class="textAreaBoxInputs" style="background-image: url('/content/img/register_password_01w.gif'); background-repeat : no-repeat; "> 
-	<br clear="all"><br clear="all">
-  <input type="password" id="confirmpassword" name="confirmpassword" value="" class="textAreaBoxInputs" style="background-image: url('/content/img/register_confirm_01w.gif'); background-repeat : no-repeat; "> 
-	<br clear="all"><br clear="all">
 
+  <input type="text" id="signup_email_id" value="" class="textAreaBoxInputs" style="background-image: url('/content/img/register_email_01w.gif'); background-repeat : no-repeat; width:100px;" name="mailID">
+  @
+  <div class="textAreaBoxInputs_email_container">
+    <select id="signup_email_domain" class="textAreaBoxInputs_email_ID" onchange="document.getElementById('displayValue').value=this.options[this.selectedIndex].text; document.getElementById('idValue').value=this.options[this.selectedIndex].value;">
+      <option>-- SELECT --</option>
+      <option value="yahoo.com">yahoo.com</option>
+      <option value="gmail.com">gmail.com</option>
+      <option value="hotmail.com">hotmail.com</option>
+    </select>
+    <input name="displayValue" placeholder="*Input / Select" id="displayValue" class="textAreaBoxInputs_email_add" onfocus="this.select()" type="text">
+    <input name="idValue" id="idValue" type="hidden">
+  </div>
 
+  <input id="signup_email" name="emails" type="hidden" value="">
+  <br clear="all"><br clear="all">
+  <input type="text" id="signup_firstname" name="fullnames" value="" class="textAreaBoxInputs" style="background-image: url('/content/img/register_first_name01w.gif'); background-repeat : no-repeat; ">
+  <br clear="all"><br clear="all">
+  <input type="text" id="signup_lastname" name="usernames" value="" class="textAreaBoxInputs" style="background-image: url('/content/img/register_last_name01w.gif'); background-repeat : no-repeat; ">
+  <br clear="all">
+  <br clear="all">
+  <input type="password" id="signup_password" name="passs" value="" class="textAreaBoxInputs" style="background-image: url('/content/img/register_password_01w.gif'); background-repeat : no-repeat; ">
+  <br clear="all">
+  <br clear="all">
+  <input type="password" id="confirmpassword" name="confirmpassword" value="" class="textAreaBoxInputs" style="background-image: url('/content/img/register_confirm_01w.gif'); background-repeat : no-repeat; ">
+  <br clear="all">
+  <br clear="all">
 
-	<div align="left" style="font-size: 9px; color: #83817c; margin:0px 20px;"><b>By clicking "Register"  I agree that:</b>
-		<li>I have read and accepted the <a class="privacy_policy" href="">Privacy Policy</a>.</li>
-		<li> I may receive communications from HairSisters and can change my notification preferences in My Account.</li>
-	</div>
+  <div align="left" style="font-size: 9px; color: #83817c; margin:0px 20px;">
+    <b>By clicking "Register"  I agree that:</b>
+    <li>I have read and accepted the <a class="privacy_policy" href="">Privacy Policy</a>.</li>
+    <li> I may receive communications from HairSisters and can change my notification preferences in My Account.</li>
+  </div>
   <div id="signup_error_message" style="color: red;"></div>
   <div>
     
@@ -686,24 +1221,25 @@
   <br clear="all">
 </form>
 <!-- Sign Up Box Ends Here -->
-
 <!-- Login Box Starts Here -->
 <form id="login_pop_up_box" class="signup_pop_up_box">
   <h1>User Login</h1>
   <h2>To exit this login box, click on the cancel button or outside this box..</h2>
   <br clear="all">
   <br clear="all">
-    <input type="text" id="login_email" name="login_email" value="" class="textAreaBoxInputs" style="background-image: url('/content/img/login_email_01w.gif'); background-repeat : no-repeat; "> <br clear="all">
+  <input type="text" id="login_email" name="login_email" value="" class="textAreaBoxInputs" style="background-image: url('/content/img/login_email_01w.gif'); background-repeat : no-repeat; " autofocus=""> <br clear="all">
   <br clear="all">
   <input type="password" id="login_password" name="login_password" value="" class="textAreaBoxInputs" style="background-image: url('/content/img/login_password_01w.gif'); background-repeat : no-repeat; "> <br clear="all">
   <div id="login_error_message" style="color: red;"></div>
   <div>
-    <a href="javascript:void(0);" id="bt_login" class="general_button" onclick="">Login</a>
+    <a href="#" id="bt_login" class="general_button" onclick="loginFunction();">Login</a>
     <a href="javascript:void(0);" class="general_button02" onclick="hide_popup_boxes();">Cancel</a>
+    
   </div>
   <label class="rememberme">
     <input name="rememberme" id="login_rememberme" type="checkbox" checked="checked" value="true">
-    &nbsp;Remember me</label>
+    &nbsp;Remember me
+  </label>
   <a class="lost-pwd" href="/user/passwordrecovery">Lost your password?</a>
   <br clear="all">
 </form>
@@ -712,12 +1248,17 @@
 <script src="/Scripts/design/select.js"></script>
 <script src="/Scripts/popup_login.js"></script>
 <script src="/Scripts/Common/ErrorMessageUs.js"></script>
-<script src="/Scripts/Common/LibJsUtil.js"></script>
+<script src="/Scripts/Common/LibJsUtil.js?t=636847429326842612"></script>
+
+
 
 
 <script>
-	
-  $(document).ready(function () {
+
+    $(document).ready(function () {
+
+    console.log("count");
+
     $("#signup_firstname").focusin(function () {
       $(this).css("background-image", "");
     });
@@ -736,15 +1277,35 @@
         $(this).css("background-repeat", "no-repeat");
       }
     });
-    $("#signup_email").focusin(function () {
-    	$(this).css("background-image", "");
+    
+    $("#signup_email_id").focusin(function () {
+      $(this).css("background-image", "");
     });
-    $("#signup_email").focusout(function () {
+
+    $("#signup_email_id").focusout(function () {
       if ($(this).val() == null || $(this).val() == "") {
         $(this).css("background-image", "url('/content/img/register_email_01w.gif')");
         $(this).css("background-repeat", "no-repeat");
+        $
+
       }
     });
+		$("#signup_email_id").change(function () {
+      $("#signup_email").val($("#signup_email_id").val() + "@" + $("#displayValue").val())
+    });
+		$("#displayValue").change(function () {
+      $("#signup_email").val($("#signup_email_id").val() + "@" + $("#displayValue").val())
+    });
+    
+    //$("#signup_email").focusin(function () {
+    //  $(this).css("background-image", "");
+    //});
+    //$("#signup_email").focusout(function () {
+    //  if ($(this).val() == null || $(this).val() == "") {
+    //    $(this).css("background-image", "url('/content/img/register_email_01w.gif')");
+    //    $(this).css("background-repeat", "no-repeat");
+    //  }
+    //});
     $("#signup_password").focusin(function () {
       $(this).css("background-image", "");
     });
@@ -783,6 +1344,8 @@
         $(this).css("background-repeat", "no-repeat");
       }
     });
+
+
   });
   //    if (document.getElementById("gsc-i-id1").style.background != "") {
   //      console.log(document.getElementById("gsc-i-id1").style.background);
@@ -805,129 +1368,39 @@
 
 </script>
 
-
-
 <script type="text/javascript">
   var chat_popup;
-  $(document).ready(function () {
 
-    var searchOptionValue = '';
-    if (searchOptionValue != '') {
-      $("#search_dropdown").val(searchOptionValue);
+	function loginFunction() {
+
+    if (isWhitespace($("#login_email").val())) {
+      alert("Please enter a valid email.");
+      return;
     }
-    
-    $(".search").autocomplete({
-			
-  		source: function (request, response) {
-  			$.ajax({
-  				cache: true,
-  			  url: "/Home/AjaxAutoComplete?name=" + $(".search").val() + "&SearchOption=" + $('#search_dropdown').val(),
-  				dataType: "json",
-  			success: function (data) {
-  				//console.log(data);
-  				if (data != "") {
-  					response(data);
-  				}
-  			}
-  		});
-  },
-  		minLength: 4,
-  });
+    else if (!isEmail($("#login_email").val())) {
+      alert("Please enter a valid email.");
+      return;
+    }
+    if (isWhitespace($("#login_password").val())) {
+      alert("Please enter a valid password.");
+      return;
+    }
+    if ($("#login_password").val().length < 6) {
+      alert(USER_INPUT_PASSWORD);
+      document.getElementById("sPasswd").focus();
+      return null;
+    }
 
-  	var BRegister = true;
-    $("#bt_register").click(function () {
+    var loginFormData = {
+      UserName: $("#login_email").val(),
+      Password: $("#login_password").val(),
+      RememberMe: $("#login_rememberme").val()
+    };
 
-      if (isWhitespace($("#signup_firstname").val())) {
-        alert("Please enter a valid First Name.");
-        return;
-      }
-      if (isWhitespace($("#signup_lastname").val())) {
-        alert("Please enter a valid Last Name.");
-        return;
-      }
-      if (isWhitespace($("#signup_email").val())) {
-        alert("Please enter a valid email.");
-        return;
-      }
-      if (!isEmail($("#signup_email").val())) {
-        alert("Please enter a valid email.");
-        return;
-      }
-      if (isWhitespace($("#signup_password").val())) {
-        alert("For your safety, your password should be at least six characters.\n\nEx)It's ideal that numbers and alphabets are all together : 37Ta1wd5 ");
-        return;
-      }
-      if ($("#signup_password").val().length < 6) {
-      	alert("For your safety, your password should be at least six characters.\n\nEx)It's ideal that numbers and alphabets are all together : 37Ta1wd5 ");
-      	document.getElementById("signup_password").focus();
-        return null;
-      }
-      if ($("#signup_password").val() != $("#confirmpassword").val()) {
-      	alert("Confirmation password must equal password.");
-      	document.getElementById("signup_password").focus();
-      	return null;
-      }
-
-      var registerFormData = {
-        UserFirstName: $("#signup_firstname").val(),
-        UserLastName: $("#signup_lastname").val(),
-        Email: $("#signup_email").val(),
-        ConfirmEmail: $("#signup_email").val(),
-        Password: $("#signup_password").val(),
-        ConfirmPassword: $("#signup_password").val()
-      };
-      if (BRegister) {
-      	BRegister = false;	//Lock
-      	//console.log(registerFormData);
-      	$.ajax({
-      		type: "POST",
-      		url: "/User/AjaxRegister",
-      		contentType: 'application/json',
-      		data: JSON.stringify(registerFormData),
-      		success: function (data) {
-      			//console.log(data);
-      			BRegister = true; // Free
-      			if (data.Result == false) {
-      				$("#signup_error_message").html(data.ErrorMessage);
-      			} else {
-      				window.location.reload();
-      			}
-      		},
-      		error: function(err){
-      		BRegister = true; // Free
-      	}
-      	});
-      }
-    });
-    $("#bt_login").click(function () {
-      if (isWhitespace($("#login_email").val())) {
-        alert("Please enter a valid email.");
-        return;
-      }
-      else if (!isEmail($("#login_email").val())) {
-        alert("Please enter a valid email.");
-        return;
-      }
-      if (isWhitespace($("#login_password").val())) {
-        alert("Please enter a valid password.");
-        return;
-      }
-      if ($("#login_password").val().length < 6) {
-        alert(USER_INPUT_PASSWORD);
-        document.getElementById("sPasswd").focus();
-        return null;
-      }
-
-      var loginFormData = {
-        UserName: $("#login_email").val(),
-        Password: $("#login_password").val(),
-        RememberMe: $("#login_rememberme").val()
-      };
-
-      //console.log(loginFormData);
-      $.ajax({
-        type: "POST",
-        url: '/User/AjaxLogin',
+    console.log(loginFormData);
+    $.ajax({
+      type: "POST",
+      url: '/User/AjaxLogin',
       contentType: 'application/json',
       data: JSON.stringify(loginFormData),
       success: function (data) {
@@ -939,64 +1412,195 @@
         }
       }
     });
-  });
+  };
 
-  // Expand Panel
-  $("#open").click(function () {
-    $("div#panel").slideDown("slow");
+  $(document).ready(function () {
 
-  });
-
-  // Collapse Panel
-  $("#close").click(function () {
-    $("div#panel").slideUp("slow");
-  });
-
-  // Switch buttons from "Log In | Register" to "Close Panel" on click
-  $("#toggle a").click(function () {
-    $("#toggle a").toggle();
-  });
-
-  $('#signup_password').keyup(function (event) {
-    if (event.keyCode == 13) {
-      $("#bt_register").trigger("click");
+    var searchOptionValue = '';
+    if (searchOptionValue != '') {
+      $("#search_dropdown").val(searchOptionValue);
     }
+
+    
+    //$(document).on("click", ".vendorname", function (e) {
+
+    //  e.preventDefault();
+    //  //var realChildren = $(this).nextAll().get()
+
+    //  if ($(this).hasClass("not-popular")) {
+    //    var realChildren = $(this).nextAll().get()
+    //    console.log(realChildren[0].value)
+    //    realChildren.sort(function (a, b) { return b.value - a.value })
+
+    //      for (i = 0; i < realChildren.length; i++) {
+    //        var child = realChildren[i]
+    //        child.style.fontSize = "11px"
+    //        child.style.padding = "3px"
+    //        child.style.lineHeight = "13px"
+    //        child.style.fontFamily = "Verdana"
+    //        child.style.margin = "0"
+    //        child.style.fontWeight = "100"
+    //        realChildren[i].parentNode.appendChild(child)
+
+    //    }
+    //    var title = $(this).text()
+    //    $(this).text(title + " (Most Popular)")
+    //    console.log(realChildren[0].value)
+    //      //$(this).after(realChildren)
+    //    $(this).removeClass("not-popular")
+
+    //  } else {
+    //    var title = $(this).text()
+
+    //    var fixedTitle = title.replace(' (Most Popular)', '')
+    //    $(this).text(fixedTitle)
+    //    var realChildren = $(this).nextAll().get()
+    //      console.log(realChildren[0].getAttribute("sequence"))
+    //      realChildren.sort(function (a, b) { return b.getAttribute('sequence') - a.getAttribute('sequence') })
+
+    //      console.log(realChildren[0].getAttribute("sequence"))
+    //      for (i = 0; i < realChildren.length; i++) {
+    //        var child = realChildren[i]
+    //        child.style.fontSize = "11px"
+    //        child.style.padding = "3px"
+    //        child.style.lineHeight = "13px"
+    //        child.style.fontFamily = "Verdana"
+    //        child.style.margin = "0"
+    //        child.style.fontWeight = "100"
+
+    //      }
+    //      $(this).addClass("not-popular")
+    //      $(this).after(realChildren)
+    //    }
+
+    //})
+
+    var BRegister = true;
+    $("#bt_register").click(function () {
+
+			$("#signup_email").val($("#signup_email_id").val() + "@" + $("#displayValue").val());
+			
+			if (!isEmail($("#signup_email").val())) {
+				alert("Please enter a valid email.");
+				return;
+			}
+      if (isWhitespace($("#signup_firstname").val())) {
+        alert("Please enter a valid First Name.");
+        return;
+      }
+      if (isWhitespace($("#signup_lastname").val())) {
+        alert("Please enter a valid Last Name.");
+        return;
+      }
+      if (isWhitespace($("#signup_email_id").val()) || isWhitespace($("#displayValue").val())) {
+        alert("Please enter a valid email.");
+        return;
+      }
+      if (isWhitespace($("#signup_password").val())) {
+        alert("For your safety, your password should be at least six characters.\n\nEx)It's ideal that numbers and alphabets are all together : 37Ta1wd5 ");
+        return;
+      }
+      if ($("#signup_password").val().length < 6) {
+        alert("For your safety, your password should be at least six characters.\n\nEx)It's ideal that numbers and alphabets are all together : 37Ta1wd5 ");
+        document.getElementById("signup_password").focus();
+        return null;
+      }
+      if ($("#signup_password").val() != $("#confirmpassword").val()) {
+        alert("Confirmation password must equal password.");
+        document.getElementById("signup_password").focus();
+        return null;
+      }
+
+      var registerFormData = {
+        UserFirstName: $("#signup_firstname").val(),
+        UserLastName: $("#signup_lastname").val(),
+        Email: $("#signup_email").val(),
+        ConfirmEmail: $("#signup_email").val(),
+        Password: $("#signup_password").val(),
+        ConfirmPassword: $("#signup_password").val()
+      };
+      if (BRegister) {
+        BRegister = false;	//Lock
+        //console.log(registerFormData);
+        $.ajax({
+          type: "POST",
+          url: "/User/AjaxRegister",
+          contentType: 'application/json',
+          data: JSON.stringify(registerFormData),
+          success: function (data) {
+            //console.log(data);
+            BRegister = true; // Free
+            if (data.Result == false) {
+              $("#signup_error_message").html(data.ErrorMessage);
+						} else {
+							window.location.href = '/';
+            }
+          },
+          error: function (err) {
+            BRegister = true; // Free
+          }
+        });
+      }
+    });
+    //$("#bt_login").click(function () {
+    //  loginFunction();
+    //});
+
+    // Expand Panel
+    $("#open").click(function () {
+      $("div#panel").slideDown("slow");
+
+    });
+
+    // Collapse Panel
+    $("#close").click(function () {
+      $("div#panel").slideUp("slow");
+    });
+
+    // Switch buttons from "Log In | Register" to "Close Panel" on click
+    $("#toggle a").click(function () {
+      $("#toggle a").toggle();
+    });
+
+    $('#signup_password, #confirmpassword').keyup(function (event) {
+        if (event.keyCode == 13) {
+        $("#bt_register").trigger("click");
+      }
+    });
+
+    $('#login_password, #login_email').keyup(function (event) {
+      if (event.keyCode == 13) {
+        $("#bt_login").trigger("click");
+      }
+    });
+
+    $("#container").click(function () {
+      $("div#panel").slideUp("slow");
+    });
+
+    $("#menu_livechat").click(function () {
+      chat_popup = window.open(
+          '/support/chat',
+          'HairSisters_livechat',
+            'width=650, height=830, toolbar=0, menubar=0, location=0, status=1, scrollbars=0, resizable=0, left=0, top=0').focus();
+    });
+    $(".privacy_policy").click(function () {
+      var popUp = window.open("/blog/getDescription?title=Privacy-Policy", "Privacy Policy", "toolbar=0, scrollbars=0, resizable=0, titlebar=0,top=100, left=500, width=400, height=400");
+    });
+
   });
 
-  $('#login_password').keyup(function (event) {
-    if (event.keyCode == 13) {
-      $("#bt_login").trigger("click");
-    }
-  });
-
-  $("#container").click(function () {
-    $("div#panel").slideUp("slow");
-  });
-
-  $("#menu_livechat").click(function () {
-    chat_popup = window.open(
-				'/support/chat',
-				'HairSisters_livechat',
-					'width=650, height=830, toolbar=0, menubar=0, location=0, status=1, scrollbars=0, resizable=0, left=0, top=0').focus();
-  });
-  	$(".privacy_policy").click(function () {
-  		var popUp = window.open("/blog/getDescription?title=Privacy-Policy", "Privacy Policy", "toolbar=0, scrollbars=0, resizable=0, titlebar=0,top=100, left=500, width=400, height=400");
-  	});
-
-});
-
-function setLogin(data) {
-  //console.log(data);
-}
+  function setLogin(data) {
+    //console.log(data);
+  }
 
 </script>
 
 	
-	
 <section class="container">
 	<section class="sub_content">
-		<div class="content" style="margin:10px;">
-			<p><strong>Privacy Policy</strong></p>
+    <div class="content" style="margin: 10px;">
+      <p><strong>Privacy Policy</strong></p>
 
 <p>Hairsisters.com is the sole owner of the information that is collected on this site. We do not, and will not sell, or share in any way, any information to any outside parties, except those outlined in this policy. We collect information from the customer(s) to process their order(s). We also use this information to inform the customer(s) about relevant issues regarding their account. We collect information that is relevant to processing orders and other topics related to this. Information that we collect includes but is not limited to name, shipping address, billing address, telephone numbers, e-mail address, and credit/debit card information for your payment. We also require that you submit a password that corresponds with your username. This allows you access to your personal account information. To safeguard this keep your personal information secret. DO NOT share this information with anyone. Your contact information is also used to send notification to you regarding promotions.</p>
 
@@ -1012,12 +1616,27 @@ function setLogin(data) {
 
 <p>Hairsisters.com is proud to serve our customers. Our number one priority is our customers and as such, we safeguard your information online and offline. We safeguard your personal information at all times and have implemented some of the most advanced ways to ensure your safety while shopping at Hairsisters.com. When you are processing your order online you will be asked for sensitive information. When you are entering this information in our online form, it is encrypted using the industry leading technology SSL. This encryption is a 256 bit encryption by Verisign, also an industry leader. Access to the sensitive information is restricted. All representatives at Hairsisters.com are not able to view financial information such as your credit/debit card information expiration date and CID number. This information is not housed here at Hairsisters.com it is held in a secure server at an undisclosed location.</p>
 
-		</div>
+    </div>
+
+
 	</section>
 	<!--//main_content-->
 </section>
 
-	
+  <div class="Shade"></div>
+  <div class="Box">
+    <div class="contentDescription">
+      <div class="embeddedVid"></div>
+      <span class="shopIt"></span>
+      <a target="_blank" class="boxLink" style="cursor:pointer;color:black">
+        <div class="boxImage"></div>
+        <div class="boxTitle"></div>
+        
+        <div class="boxPrice"></div>
+      </a>
+    </div>
+    <div class="closeBox">X</div>
+  </div>
 	
 
 <footer>
@@ -1026,11 +1645,7 @@ function setLogin(data) {
     <div class="content">
       <ul class="connect">
         <li style="padding-left:20px;">connect with us !!</li>
-        <li class="mid_email">
-<form action="/User/AjaxNewsLetter" id="frmNewLetter" method="get">	          <span><img src="/Content/img/mail_icon.gif"></span>
-						<span><input type="email" name="NewsEmail" id="NewsEmail" placeholder="enter your email"></span>
-						<span><button type="button" class="btn_go" id="BtnNewsEmail">sign up</button></span>
-</form>        </li>
+        
         <li class="social">
           <span><a href="http://www.pinterest.com/hairsisters">
             <img src="/Content/img/footer_pintrest_icon.gif"></a>|</span>
@@ -1088,7 +1703,7 @@ function setLogin(data) {
         <li><a href="/Dashboard/orders">Order Status</a></li>
         
         <li><a href="/Cart">My Cart</a></li>
-        <li><a href="/board/index/RMA-Request">RMA Request</a></li>
+        
       </ul>
       <ul class="column">
         <li>
@@ -1120,7 +1735,7 @@ function setLogin(data) {
         <li>
           <p>
             Reproduction in whole or in part without permission is prohibited.<br>
-            address: 7400 N Croname Rd. Niles, IL 60714
+            Address: 7400 N Croname Rd, Niles, IL 60714
           </p>
         </li>
         <li class="img">
@@ -1128,7 +1743,7 @@ function setLogin(data) {
 					</li>
         
         <li><span>
-          <img src="/Content/img/footer_logo.gif" align="top" style="margin-top:-2px;"></span><span>	© 2004-2016 Hairsisters.com is a registered trademark. All rights reserved.</span>
+          <img src="/Content/img/footer_logo.gif" align="top" style="margin-top:-2px;"></span><span>	© 2004-2018 Hairsisters.com is a registered trademark. All rights reserved.</span>
       </li></ul>
     </div>
 
@@ -1185,19 +1800,90 @@ $(".brandinnav").parent(".main_content").height(pophigh);
 
 
 
-	
-	
-
-		
-	
 
 
-<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-dialog-buttons ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-describedby="dialog-message" aria-labelledby="ui-id-1" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title"></span><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" aria-disabled="false" title="close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span></button></div><div id="dialog-message" class="ui-dialog-content ui-widget-content">
-		<p id="dialog-message-line1">
-		</p>
-		<p id="dialog-message-line2">
-		</p>
-	</div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><div class="ui-dialog-buttonset"><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Ok</span></button></div></div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="display: none;"></ul><div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-describedby="loading" aria-labelledby="ui-id-3" style="display: none; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-3" class="ui-dialog-title">Please Wait...</span><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-icon-only ui-dialog-titlebar-close" role="button" aria-disabled="false" title="close"><span class="ui-button-icon-primary ui-icon ui-icon-closethick"></span><span class="ui-button-text">close</span></button></div><div id="loading" class="ui-dialog-content ui-widget-content">
-		<p id="loading_message"></p>
-		<img src="/content/misc/ajax-loader.gif">
-	</div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 90;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 90;"></div></div></body></html>
+  <script type="text/javascript">
+    
+    $(document).ready(function () {
+      $(document).on("click",".openBox",(function (e) {
+        e.preventDefault();
+        var ref = $(this);
+        $(".Shade").css({
+          "opacity": ".1",
+          "width": $(window).width(),
+          "height": $(window).height()
+        });
+
+        $('.Shade').fadeTo("slow", 0.7)
+        $(".Box").css({
+          "z-index": "99999",
+          "opacity": "1"
+        });
+        $(".Box").toggle();
+        $('.embeddedVid').html($(this).data('embedded'));
+        var productKey = $(this).data("product");
+        $.ajax({
+          url: '/Home/GetProductInfo',
+          data: { ProductKey: productKey },
+          success: function (data) {
+            if (data.ProductError != null) {
+              $('.shopIt').text(data.ProductError);
+            } else {
+              var price = data.Price;
+              var productName = data.ProductName;
+              var key = data.Key;
+              var image = data.Image;
+              var imageHtml = "<img src='" + image + "' />"
+              var link = "/product/" + data.SEOName + "/" + key
+              var shopIt = data.Stock
+              var offer = data.Offer;
+              var priceHtml = '<span class="priceStrikeThrough">' + price + ' ' + '</span>' + '<span class="boxOffer">' + offer + '</span>'
+              $('.boxImage').html(imageHtml);
+              $('.boxTitle').text(productName);
+              $('.boxPrice').html(priceHtml);
+              $('.boxLink').attr('href', link);
+              $('.shopIt').text(shopIt);
+            }
+          }
+        })
+
+      }));
+
+      $('.Shade').on("click",(function (e) {
+        if (!$('.Box').is(e.target)) {
+          $(".Box").toggle();
+          $(".Shade").toggle();
+          $('.boxDescription').text('');
+          $('.boxImage').html('');
+          $('.boxTitle').text('');
+          $('.boxPrice').text('');
+          $('.boxLink').attr('href', '');
+          $("iframe")[0].src = '';
+
+
+        }
+      }))
+
+      $(document).on("mouseover",".vBox img",(function () {
+        $(this).attr('src', "/Content/common_images/yt_icon_rgb.png")
+      })).on("mouseout",".vBox img",(function () {
+        $(this).attr('src', "/Content/common_images/yt_icon_mono_light.png")
+      }));
+
+      $(".closeBox").on("click",(function () {
+        $(".Box").toggle();
+        $(".Shade").toggle();
+        $('.boxDescription').text('');
+        $('.boxImage').html('');
+        $('.boxTitle').text('');
+        $('.boxPrice').text('');
+        $('.boxLink').attr('href', '');
+        $("iframe")[0].src = '';
+
+
+      }))
+    })
+  </script>
+
+
+</body></html>
