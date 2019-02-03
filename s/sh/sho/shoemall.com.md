@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoemall.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001001556id_/https%3A//www.shoemall.com/customer-service/faqs/detail/privacy-policy/_/A-1576) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoemall.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203174218id_/https%3A//www.shoemall.com/customer-service/faqs/detail/privacy-policy/_/A-1576) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,7 +67,7 @@ Changes To This Privacy Policy Statement
 From time to time, we may use the information you provide to us for in ways not mentioned above in this Privacy Notice. If our policies change at some point of time, we will post the changes on the Privacy Notice page of our website. From time to time, you should check this page for more information on how we use the data we collect.
 
 How To Contact Us  
-Should you have other questions or concerns about these security and privacy policies, please call us at 1-800-704-5478 or send us an email at service@shoemall.com.
+Should you have other questions or concerns about these security and privacy policies, please call us at 1-800-704-5478 or send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 OTHER LEGAL INFORMATION
 
