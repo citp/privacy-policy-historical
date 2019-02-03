@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciologness.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105070056id_/http%3A//sciologness.com/sciologness_privacy_and_cookie_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciologness.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203112457id_/http%3A//sciologness.com/sciologness_privacy_and_cookie_policy.pdf) for the most accurate reproduction.*
 
 # Privacy Notice
 
