@@ -1,84 +1,86 @@
-> *The following text is extracted and transformed from the arla.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215213026id_/https%3A//www.arla.com/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arla.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203094811id_/https%3A//www.arla.com/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy information notice | Arla
 
 Arla Foods knows that you care how information about you is used and shared and it is careful to ensure that any such information that comes into its possession is properly looked after.
 
-This Privacy Policy sets out the steps that we take to ensure that any information provided to us is kept secure and confidential and is used only for the purposes for which it is provided.
+Arla Foods amba, Sønderhøj 14, 8620 Viby J, Denmark (“Arla”) respects your data privacy. This information text describes how Arla will, as the data controller, collect and process personal data about you in connection with our services and the use of our website at www.arla.com.
 
-### Personal information
+Please read the statement carefully in order to understand how we process, use and disclose your personal data. 
 
-The only personal information that we will collect is the personal information that you provide to us when you register with us or when you communicate with us through our website. We will at any time, at your request, provide you with a copy of any personal information that we are holding about you.
+### 1\. Processing of personal data
 
-Our website does not store or capture personal information automatically, but merely logs the user's Internet Protocol address which is automatically recognised by the Web server which then delivers web pages to your computer. If you are connected to the Internet you will have an Internet Protocol address which may look something like this: 197.188.58.9.
+We process the personal data for the following purposes and on the listed legal bases:
 
-### Privacy information for Arla.com
+**• Handling purchases from the Arla Shop**   
 
-This statement describes how Arla Foods Amba. will, as the data controller, collect and process personal data about you in connection with usage of the online services connected to Arla.com
+When you order products in our web shop, you must provide your name, address, phone number, phone number, payment details and products you ordered, in order to process your order and deliver the products to you (GDPR article 6(1)(b)).
 
-Please read the statement carefully in order to understand how we process, use and disclose your personal data. If you have any questions regarding Arla’s processing of your personal data, please contact our Lead Specialist on Data Privacy ([dataprivacy@arlafoods.com](mailto:dataprivacy@arlafoods.com)).
+In order to manage the payment we need to share your payment details with our payment solution partners. In order to fulfil your delivery we need to share your name and address with our carrier partners (GDPR article 6(1)(b)).
 
-This statement touches upon the following topics:
+**• Sending out newsletters**
 
-1\. Categories of personal of data and purposes  
-2\. Disclosure and transfer of the personal data  
-3\. Retention period  
-4\. Your rights  
-5\. Contact  
-6\. Changes to this privacy notice
+If you sign up for our newsletters we will register the personal data that you provide to us (name, e-mail address) in order to send you relevant and targeted marketing messages.
 
-### 1\. Categories of personal of data and purposes
+The processing is based on your consent (GDPR article 6(1)(a). Remember that you can, at any time, withdraw your consent, if you no longer wish to receive our newsletters.
 
-1.1 We collect and process the following types of personal data on you:
+**• Your participation in competitions  **
 
-  * IP address
-  * Behaviour data on website
-  * Competition information
-  * Contact information
-  * Items purchased on shop.arla.com
-  * Purchase history shop.arla.com
+If you participate in competitions arranged by Arla, we will process the personal data you provide (name, email address, competition input, including answers to questions, etc.) in order to manage the competition, chose and contact the winner (GDPR article 6(1)(b)).
 
+Depending on the specific competition and prize, we may share your name, contact details and prize details with our competition prize vendors and carriers (GDPR article 6(1)(b).
 
+If required under the legislation, we will share your name and prize details with the tax authorities (GDPR article 6(1)(c)).
 
-1.2 We process the personal data for the following purposes and on the listed legal bases:
+**• Being able to reply when contacted through Arla.com or other contact points (email, social media platforms, etc.) – customer service**
 
-  * Participating in competitions (GDPR art. 6(1)(b))
-  * Being able to reply when contacted through Arla.com (GDPR art. 6(1)(b))
-  * Administration of user profile (GDPR art. 6(1)(b)
-  * Sending out newsletters (GDPR art. 6(1)(a))
-  * Handling purchases from the Arla Shop (GDPR art. 6(1)(b))
+If you contact us, we will register the personal data that you provide to us (e.g. name, company, title,  email address, request details, etc.). Our customer service team has access to this data so we can help you with your request in the best way possible (GDPR article 6(1)(f)).
 
+**• Administration of user profile  **
 
+If you chose to create an account on our platform, you must provide your email address (GDPR article 6(1)(b).
 
-When we collect personal data directly from you for the purpose described above, you provide the behaviour data when browsing the website, and personal data voluntarily in order to participate in competitions, contact us or use services. The consequences of not providing the personal data are that you cannot participate in competitions, contact Arla through the contact form on Arla.com or use provided services.
+When logged in you can add recipes to your favourites and create your own compilation of recipes and access them from multiple devices. 
+
+Based on what you click when logged in, our website technology will get to know you better, and, based on this, will present content to you that you are likely to be interested in. 
+
+**• Marketing**
+
+We use cookies to create more relevant marketing for you and to present relevant content to you on our website and on third party websites (re-targeting). This is based on your cookie-consent, and the subsequent use of the cookie data for marketing is based on our legitimate interest to brand our products and our business.
+
+You can read more about [our use of cookies here](https://web.archive.org/legal-information/cookie-policy/).
+
+We also use tools of social media platforms to brand our products (e.g. Facebook Custom Audience). For that purpose we may provide hashed email addresses, that we obtained from you (e.g. when signing up for newsletters or when purchasing items in our web shop) to the social media, for them to present sponsored posts in your feed. The disclosure is based on our legitimate interests in marketing our products (GDPR article 6(1)(f)). 
+
+**• Events and workshops  **
+
+If you sign up for participation in events and workshops arranged by Arla, we will register the personal data that you provide to us (including, name, e-mail address, event, event date) in order to manage the event as well as your participation, confirming your participation, contacting you in case of any changes or cancellations, etc. (GDPR article 6(1)(b)).
+
+**• Improving our website**
+
+We use cookies to improve your experience on our website and ensure functionality of the site, to track the traffic to our website and to optimise content on the pages. This is based on your cookie-consent, and the subsequent use of the cookie data for marketing is based on our legitimate interest to improve our website.
+
+You can read more about [our use of cookies here](https://web.archive.org/legal-information/cookie-policy/).
+
+**• Interaction with Arla on social media platforms**
+
+If you follow us or interact with us on any of our pages on social media platforms, such as Facebook, Instagram, etc., information you provide will be subject to this privacy notice as well as the privacy notice of the respective social media platforms. We encourage you to read the privacy notice of such social media platforms.
+
+For information on how we use your personal data when you apply for a job in the Arla Foods Group, [please click here](https://web.archive.org/company/job-and-career/upload-your-cv/).
 
 ### 2\. Disclosure and transfer of the personal data
 
-2.1 Disclosure of personal data  
-The personal data will be disclosed to and shared with the following recipients based on the listed legal bases:
+We disclose your personal data as described above. In addition to this, we make personal data available to our business partners, including IT suppliers that stores and process personal data on our behalf. Such business partners and suppliers are subject to Arla’s  instructions regarding the storing and processing of personal data.
 
-  * Competition prize vendors and carriers (GDPR art. 6(1)(b)
-  * Carrier used on shop.arla.com (GDPR art. 6(1)(b)
-  * Tax authorities (GDPR art. 6(a)(c)
-
-
-
-2.2 Making personal data available to data processors
-
-We make personal data available to our business partners, including IT suppliers that stores and process personal data on our behalf. Such business partners and suppliers are subject to Arla’s instructions regarding the storing and processing of personal data. Further, it is Arla’s responsibility that the storing and processing is in accordance with the data privacy legislation.
+Some data processors or sub-processors may be located outside of the EU. The transfer of personal data is based on the EU Commission’s Standard Contractual Clauses or EU-US Privacy Shield, where applicable.
 
 ### 3\. Retention period
 
-We store the personal data for as long as necessary to fulfil the purposes above.
-
-  * User profiles on Arla.com are stored until requested deleted by the user
-  * Contact information and details of request is stored for a maximum of 12 months after the request has been solved
-  * Competition data will be stored for a maximum of 30 days after the prize has been fully claimed and shipped
-  * Financial transaction, delivery and purchase information will be stored for a maximum of 6 years under the bookkeeping legislation after the delivery has been made
-
-
+We store your personal data for as long as necessary to fulfil the purposes above and to comply with legal obligations, including bookkeeping legislation in the countries where we operate.
 
 ### 4\. Your rights
+
+When we process personal data for our legitimate interests or when we use your personal data for direct marketing, you have the right to object to our processing of your personal data. 
 
 Subject to certain statutory exceptions, you have the right to request access to the personal data we hold and process regarding you.
 
@@ -90,17 +92,16 @@ Upon your request we will erase personal data on you, unless we have a legal bas
 
 You also have the right to lodge a complaint with the competent supervisory authority, such as the Danish Data Protection Agency.
 
-### 5\. Contact
+### 5. Objection 
 
-Please do not hesitate to contact us if you have any questions in regards to the protection of your personal data or if you wish to exercise your legal rights. You may contact our Lead Specialist on Data Privacy ([dataprivacy@arlafoods.com](mailto:dataprivacy@arlafoods.com)).
+You have the right to object to the processing of your personal data on certain grounds. For example, you can object to the processing of your personal data that is based on our legitimate interests (GDPR article 6(1)(f)) or used for direct marketing purposes, including profiling.
 
-Address details:   
-Arla Foods Amba.  
-Sønderhøj 14, Viby J  
-Denmark
+### 6\. Exercise your rights
 
-### 6\. Changes to this privacy notice
+As described in sections 4 and 5 above, you have a number of rights when we process your personal data. If you wish to exercise such rights, please submit your request via our online webform, which is [available here](https://app-eu.onetrust.com/app/#/webform/a81cbb65-efe1-4c62-b1e0-2e77c08a44ba).
+
+### 7\. Changes to this privacy notice
 
 We reserve the right to change this privacy notice.
 
-Version [1], [23.05.2018]
+Version 1.2, January 2019
