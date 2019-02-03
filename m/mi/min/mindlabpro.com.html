@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mindlabpro.com privacy policy that was archived on 2017-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171107040324id_/http%3A//www.mindlabpro.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mindlabpro.com privacy policy that was archived on 2019-02-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190203155350id_/https%3A//www.mindlabpro.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="top" class="no-js"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,23 +7,23 @@
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://static.mindlabpro.com/skin/frontend/mindlab/default/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://static.mindlabpro.com/skin/frontend/mindlab/default/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/favicon.ico" type="image/x-icon">
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
-    var BLANK_URL = 'http://static.mindlabpro.com/js/blank.html';
-    var BLANK_IMG = 'http://static.mindlabpro.com/js/spacer.gif';
+    var BLANK_URL = 'https://www.mindlabpro.com/js/blank.html';
+    var BLANK_IMG = 'https://www.mindlabpro.com/js/spacer.gif';
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://static.mindlabpro.com/media/css/f2b8fcaa1129836dcfe6f25f6b9125b6.css" media="all">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.5"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://static.mindlabpro.com/media/js/ad484f76088f9f576e8c3a90845dea58.js"></script>
+<link rel="stylesheet" type="text/css" href="https://www.mindlabpro.com/media/css_secure/2a164d432c2e1ecf7eab2f63c41d925e.css" media="all">
+<script src="//bat.bing.com/bat.js" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.5"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" charset="utf-8" src="https://static.zdassets.com/ekr/asset_composer.js?key=6231bedd-28a3-4768-9e1c-e5445a67466e" type="text/javascript"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="//staticw2.yotpo.com/miRRUqPIgx75eKx1sE6c26vlIeEm28MB4l3LsfcD/widget.js"></script><script type="text/javascript" src="//r1-t.trackedlink.net/_dmpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.mindlabpro.com/media/js/af530a406cc32a8e20971b2d64904653.js"></script>
 <!--[if  (lte IE 8) & (!IEMobile)]>
-<link rel="stylesheet" type="text/css" href="http://static.mindlabpro.com/media/css/838fe723508f55877d6ec65c9ad82c3f.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.mindlabpro.com/media/css_secure/01b155e9b08184af3e44085ddb151ba8.css" media="all" />
 <![endif]-->
 <!--[if (gte IE 9) | (IEMobile)]><!-->
-<link rel="stylesheet" type="text/css" href="http://static.mindlabpro.com/media/css/621d82416750884c6055b41fadc2235e.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.mindlabpro.com/media/css_secure/6542ee5a510fd7ae7f024e89767b4467.css" media="all">
 <!--<![endif]-->
 
 <script type="text/javascript">
@@ -55,15 +55,118 @@ ga('send', 'pageview');
         //]]>
         </script>
         <!-- END GOOGLE UNIVERSAL ANALYTICS CODE -->
-    
+        <script type="text/javascript">
+        (function(){
+            var regionPrefix = "r1-";
+            var connector = document.createElement('script');
+            connector.type = 'text/javascript';
+            connector.src = '//' + regionPrefix + 't.trackedlink.net/_dmpt.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(connector, s);
+        })();
+    </script>
+
+
+<script type="text/javascript">
+    //Email Capture For Quote
+
+    var emailCapture = Class.create();
+    emailCapture.prototype = {
+        initialize: function(options) {
+            this.options = Object.extend({
+                elements: "input[name='billing[email]']"
+            }, options || {} );
+
+            // Observe blur on email field
+            $$(this.options.elements).each(function(email) {
+                Event.observe(email,'blur',this.captureEmail.bindAsEventListener(this));
+            }.bind(this));
+        },
+
+        //capture email
+        captureEmail: function(event) {
+            var el = $(Event.element(event));
+            //validate email
+            if(el.value && this.validateEmail(el.value)){
+                //ajax call
+                new Ajax.Request('https://www.mindlabpro.com/' + 'connector/ajax/emailcapture', {
+                    method: 'post',
+                    parameters:{
+                        email:el.value
+                    }
+                });
+            }
+        },
+
+        //email validation
+        validateEmail: function (email) {
+            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email);
+        }
+    };
+
+    //Email Capture For Newsletter
+
+    var newsletterEmailCapture = Class.create();
+    newsletterEmailCapture.prototype = {
+        initialize: function(options) {
+            this.options = Object.extend({
+                elements: "input[name='email']"
+            }, options || {} );
+
+            // Observe blur on email field
+            $$(this.options.elements).each(function(email) {
+                Event.observe(email,'blur',this.captureEmail.bindAsEventListener(this));
+            }.bind(this));
+        },
+
+        //capture email
+        captureEmail: function(event) {
+            var el = $(Event.element(event));
+            //validate email
+            if(el.value && this.validateEmail(el.value)){
+                //ajax call
+                new Ajax.Request('https://www.mindlabpro.com/' + 'connector/ajax/emailcapture', {
+                    method: 'post',
+                    parameters:{
+                        email:el.value
+                    }
+                });
+            }
+        },
+
+        //email validation
+        validateEmail: function (email) {
+            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email);
+        }
+    };
+</script><!-- Easy Email Capture For Checkout -->
+    <script type="text/javascript">
+        //<![CDATA[
+        document.observe("dom:loaded", function() {
+            window.emailcapture = new emailCapture();
+        });
+        //]]>
+    </script>
+
+<!-- Easy Email Capture For Newsletter Field -->
+<script type="text/javascript">
+(function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/miRRUqPIgx75eKx1sE6c26vlIeEm28MB4l3LsfcD/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
+</script>
                         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
                     
                         <meta name="p:domain_verify" content="e2a0c30e729fcfe51c52da04a4f7e087">
                     
-                        <script type="text/javascript" src="https://fast.fonts.net/jsapi/6e95960d-fadd-4001-b3a4-11711033e8ed.js"></script>
+                        <meta name="msvalidate.01" content="60FA7D0503AEC9EC7E3B288359527BF5">
+                    
+                        <script type="text/javascript">(function(){function f(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//platform3.cloud-iq.com/cartrecovery/store.js?app_id=2965";var t = document.getElementsByTagName('head')[0];t.appendChild(e);}f();})();</script><script type="text/javascript" async="" src="//platform3.cloud-iq.com/cartrecovery/store.js?app_id=2965"></script>
                     <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script></head>
+        //]]></script><!-- Bing UET Code --><script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5991894"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5991894&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript><!-- End Bing UET Code -->
+<!-- Start of mindlabpro Zendesk Widget script -->
+<script>/*<![CDATA[*/window.zE||(function(e,t,s){var n=window.zE=window.zEmbed=function(){n._.push(arguments)}, a=n.s=e.createElement(t),r=e.getElementsByTagName(t)[0];n.set=function(e){ n.set._.push(e)},n._=[],n.set._=[],a.async=true,a.setAttribute("charset","utf-8"), a.src="https://static.zdassets.com/ekr/asset_composer.js?key="+s, n.t=+new Date,a.type="text/javascript",r.parentNode.insertBefore(a,r)})(document,"script","6231bedd-28a3-4768-9e1c-e5445a67466e");/*]]>*/</script>
+<!-- End of mindlabpro Zendesk Widget script --></head>
 <body class=" cms-page-view cms-privacy-policy">
     <noscript>
         <div class="global-site-notice noscript">
@@ -78,7 +181,7 @@ ga('send', 'pageview');
 <div id="access-header-container" class="full-width hide-desktop show-mobile fixed-top">
     <div class="top-content">
 
-        <div id="mobile-logo" class="f-left"><a href="http://www.mindlabpro.com/"><img src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/mobile-logo.png" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/mobile-logo@2x.png" alt="Mind Lab Pro®"></a></div>
+        <div id="mobile-logo" class="f-left"><a href="https://www.mindlabpro.com/"><img src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/mobile-logo.png" data-rjs="2" alt="Mind Lab Pro®"></a></div>
 
         <div id="mobile-menu-button" class="show-on-mobile f-right">
             <div id="navbutton-wrapper">
@@ -103,7 +206,7 @@ ga('send', 'pageview');
                             </div>
             <div class="actions group">
                 <a class="topcart-close pill-button-small yellow caps inline-block" href="#">Close</a>
-                                    <a class="pill-button-small yellow caps inline-block" href="http://www.mindlabpro.com/order/">Order</a>
+                                    <a class="pill-button-small yellow caps inline-block" href="https://www.mindlabpro.com/order/">Order</a>
                             </div>
         </div>
     </div>
@@ -117,44 +220,69 @@ ga('send', 'pageview');
         <div class="content m-mbottom20">
                     <ul class="m1c1 _1c1 widespace gotham-bold xs-text">
                 <li>
-                    <a href="http://www.mindlabpro.com/">HOME</a>
+                    <a href="https://www.mindlabpro.com/">HOME</a>
                 </li>
                                     <li>
-                    <a href="http://www.mindlabpro.com/how-it-works/">HOW IT WORKS</a>
+                    <a href="https://www.mindlabpro.com/how-it-works/">HOW IT WORKS</a>
                 </li>
                             <li>
-                    <a href="http://www.mindlabpro.com/quality/">QUALITY</a>
+                    <a href="https://www.mindlabpro.com/quality/">QUALITY</a>
                 </li>
                             <li>
-                    <a href="http://www.mindlabpro.com/ingredients/">INGREDIENTS</a>
+                    <a href="https://www.mindlabpro.com/ingredients/">INGREDIENTS</a>
                 </li>
                             <li>
-                    <a href="http://www.mindlabpro.com/stories/">STORIES</a>
+                    <a href="https://www.mindlabpro.com/stories/">STORIES</a>
                 </li>
                             <li>
-                    <a href="http://www.mindlabpro.com/faqs/">FAQ</a>
+                    <a href="https://www.mindlabpro.com/faqs/">FAQ</a>
                 </li>
                                     <li>
-                    <a href="http://www.mindlabpro.com/contacts/">CUSTOMER SUPPORT</a>
+                    <a href="https://www.mindlabpro.com/contacts/">CUSTOMER SERVICE</a>
+                </li>
+                <li>
+                    <a href="https://www.mindlabpro.com/customer/account/">MY ACCOUNT</a>
                 </li>
             </ul>
             <div class="mobileflag-icon-container group">
-
-    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="US"><img src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/us.png" alt="US" title="US" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/us@2x.png"></div>
-    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="GB"><img src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/gb.png" alt="GB" title="GB" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/gb@2x.png"></div>
-    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="CA"><img src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/ca.png" alt="CA" title="CA" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/ca@2x.png"></div>
-    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="AU"><img src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/au.png" alt="AU" title="AU" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/au@2x.png"></div>
-    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="BE"><img src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/eu.png" alt="BE" title="BE" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/eu@2x.png"></div>
-    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="FR"><img src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/fr.png" alt="FR" title="FR" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/fr@2x.png"></div>
-    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="DE"><img src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/de.png" alt="DE" title="DE" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/de@2x.png"></div>
-    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="ES"><img src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/es.png" alt="ES" title="ES" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/es@2x.png"></div>
-    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="IT"><img src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/it.png" alt="IT" title="IT" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/it@2x.png"></div>
-    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="MX"><img src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/mx.png" alt="MX" title="MX" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/mx@2x.png"></div>
+    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="US">
+        <img class="store-switcher-flag" id="flag-US" src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif">
+    </div>
+    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="GB">
+        <img class="store-switcher-flag" id="flag-GB" src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif">
+    </div>
+    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="CA">
+        <img class="store-switcher-flag" id="flag-CA" src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif">
+    </div>
+    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="AU">
+        <img class="store-switcher-flag" id="flag-AU" src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif">
+    </div>
+    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="BE">
+        <img class="store-switcher-flag" id="flag-BE" src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif">
+    </div>
+    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="FR">
+        <img class="store-switcher-flag" id="flag-FR" src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif">
+    </div>
+    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="DE">
+        <img class="store-switcher-flag" id="flag-DE" src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif">
+    </div>
+    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="ES">
+        <img class="store-switcher-flag" id="flag-ES" src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif">
+    </div>
+    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="IT">
+        <img class="store-switcher-flag" id="flag-IT" src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif">
+    </div>
+    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="MX">
+        <img class="store-switcher-flag" id="flag-MX" src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif">
+    </div>
+    <div class="mobile-country-switcher m-mbottom5 m-mleft10" data-code="AX">
+        <img class="store-switcher-flag" id="flag-AX" src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif">
+    </div>
     <script type="text/javascript">
         $$('.mobile-country-switcher').each(function(element){
             element.observe('click', function(event){
-                countryCode = element.readAttribute('data-code');
-                onChangeUrl = 'http://www.mindlabpro.com/privacy-policy/?geoip_country=%geoip_code%';
+                var countryCode = element.readAttribute('data-code');
+                var onChangeUrl = 'https://www.mindlabpro.com/privacy-policy/?geoip_country=%geoip_code%';
                 url = onChangeUrl.replace('%geoip_code%', countryCode);
                 setLocation(url);
                 event.stop();
@@ -162,7 +290,7 @@ ga('send', 'pageview');
         });
     </script>
 </div>
-            <a class="pill-button-small yellow caps inline-block f-right m-mtop5" href="http://www.mindlabpro.com/order/">Order Now</a>            <div class="clearer"></div>
+            <a class="pill-button-small yellow caps inline-block f-right m-mtop5" href="https://www.mindlabpro.com/order/">Order Now</a>            <div class="clearer"></div>
         </div>
     </div>
 </div>
@@ -174,16 +302,17 @@ ga('send', 'pageview');
 </div><!-- /#top-header-worldwide-shipping --></div>
     <div id="country-switcher" class="f-right text-right hide-on-mobile">
                     <select id="store-switcher" class="select-store-switcher" title="Your Country">
-                                                                                                                            <option selected="selected" value="US" data-imagesrc="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/us.png" data-description="United States">$</option>
-                                                                                                                                                <option value="GB" data-imagesrc="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/gb.png" data-description="United Kingdom">£</option>
-                                                                                                                                                <option value="CA" data-imagesrc="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/ca.png" data-description="Canada">$</option>
-                                                                                                                                                <option value="AU" data-imagesrc="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/au.png" data-description="Australia">$</option>
-                                                                                                                                                <option value="BE" data-imagesrc="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/eu.png" data-description="Euro">€</option>
-                                                                                                                                                <option value="FR" data-imagesrc="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/fr.png" data-description="France">€</option>
-                                                                                                                                                <option value="DE" data-imagesrc="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/de.png" data-description="Germany">€</option>
-                                                                                                                                                <option value="ES" data-imagesrc="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/es.png" data-description="Spain">€</option>
-                                                                                                                                                <option value="IT" data-imagesrc="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/it.png" data-description="Italy">€</option>
-                                                                                                                                                <option value="MX" data-imagesrc="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/flags/mx.png" data-description="Mexico">$</option>
+                                                                                                                                                                            <option value="US" data-imagesrc="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif" data-description="United States">$</option>
+                                                                                                                                                <option value="GB" data-imagesrc="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif" data-description="United Kingdom">£</option>
+                                                                                                                                                <option value="CA" data-imagesrc="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif" data-description="Canada">$</option>
+                                                                                                                                                <option value="AU" data-imagesrc="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif" data-description="Australia">$</option>
+                                                                                                                                                                        <option value="BE" data-imagesrc="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif" data-description="Euro">€</option>
+                                                                                                                                                <option value="FR" data-imagesrc="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif" data-description="France">€</option>
+                                                                                                                                                <option value="DE" data-imagesrc="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif" data-description="Germany">€</option>
+                                                                                                                                                <option value="ES" data-imagesrc="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif" data-description="Spain">€</option>
+                                                                                                                                                <option value="IT" data-imagesrc="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif" data-description="Italy">€</option>
+                                                                                                                                                <option value="MX" data-imagesrc="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif" data-description="Mexico">$</option>
+                                                                                                                                                <option value="AX" data-imagesrc="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/img_trans.gif" data-description="Global">$</option>
                                                 </select>
             <script type="text/javascript">
                 jQuery(document).ready(function() {
@@ -197,17 +326,9 @@ ga('send', 'pageview');
                                 jQuery('#store-switcher').show();
                             } else {
                                 var countryCode = data.selectedData.value;
-                                var countryUrl = 'http://www.mindlabpro.com/privacy-policy/?geoip_country=%geoip_code%';
-                                $j.ajax({
-                                    url: "http://www.mindlabpro.com/storeswitcher/ajax/getCountryUrl/",
-                                    type: "POST",
-                                    data: { countryCode: countryCode,
-                                        countryUrl: countryUrl },
-                                    success: function(result) {
-                                        url = result.replace('%geoip_code%', countryCode);
-                                        setLocation(url);
-                                    }
-                                });
+                                var countryUrl = 'https://www.mindlabpro.com/privacy-policy/?geoip_country=%geoip_code%';
+                                url = countryUrl.replace('%geoip_code%', countryCode);
+                                setLocation(url);
                             }
                         }
                     });
@@ -231,7 +352,7 @@ ga('send', 'pageview');
                             </div>
             <div class="actions group">
                 <a class="topcart-close pill-button-small yellow caps inline-block" href="#">Close</a>
-                                    <a class="pill-button-small yellow caps inline-block" href="http://www.mindlabpro.com/order/">Order</a>
+                                    <a class="pill-button-small yellow caps inline-block" href="https://www.mindlabpro.com/order/">Order</a>
                             </div>
         </div>
     </div>
@@ -240,24 +361,27 @@ ga('send', 'pageview');
 <div class="full-width hide-mobile">
     <div class="content masthead-container group">
         <div id="page-head-title" class="_5c16">
-            <a href="http://www.mindlabpro.com/"><div id="logo"></div></a>
+            <a href="https://www.mindlabpro.com/"><div id="logo"></div></a>
         </div>
         <div id="nav-contents" class="_11c16">
+            <div class="my-account">
+                <a class="azo-regular" href="https://www.mindlabpro.com/customer/account/" title="My Account">My Account</a>
+            </div>
             <div class="customer-support">
-                <a class="azo-regular" href="http://www.mindlabpro.com/contacts/" title="Customer Support">Customer Support</a>
+                <a class="azo-regular" href="https://www.mindlabpro.com/contacts/" title="Customer Service">Customer Service</a>
             </div><!-- /.customer-support -->
                                                 <div id="nav" class="_1c1 l-text hide-on-mobile gotham-light-regular">
                 <ul>
-                                    <li><a class="non-active" href="http://www.mindlabpro.com/faqs/">FAQ</a></li>
-                                    <li><a class="non-active" href="http://www.mindlabpro.com/stories/">STORIES</a></li>
-                                    <li><a class="non-active" href="http://www.mindlabpro.com/ingredients/">INGREDIENTS</a></li>
-                                    <li><a class="non-active" href="http://www.mindlabpro.com/quality/">QUALITY</a></li>
-                                    <li><a class="first-nav" href="http://www.mindlabpro.com/how-it-works/">HOW IT WORKS</a></li>
+                                    <li><a class="non-active" href="https://www.mindlabpro.com/faqs/">FAQ</a></li>
+                                    <li><a class="non-active" href="https://www.mindlabpro.com/stories/">STORIES</a></li>
+                                    <li><a class="non-active" href="https://www.mindlabpro.com/ingredients/">INGREDIENTS</a></li>
+                                    <li><a class="non-active" href="https://www.mindlabpro.com/quality/">QUALITY</a></li>
+                                    <li><a class="first-nav" href="https://www.mindlabpro.com/how-it-works/">HOW IT WORKS</a></li>
                                 </ul>
             </div>
-                        <a class="pill-button-small yellow f-right caps" href="http://www.mindlabpro.com/order/">Order Now</a>
-<div class="f-right right-text width-100 pright13">
-    <img class="mtop5" src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/payment-logos.jpg" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/payment-logos@2x.jpg">
+                        <a class="pill-button-small yellow f-right caps" href="https://www.mindlabpro.com/order/">Order Now</a>
+<div class="f-right right-text width-100">
+    <img class="mtop5" src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/payment-logos.jpg" data-rjs="2">
 </div>
         </div>
     </div>
@@ -287,7 +411,7 @@ ga('send', 'pageview');
 <p>We may periodically send promotional emails&nbsp;about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</p>
 <p class="xl-text blue-text">Your Ability to Control Your Information</p>
 <p>At any point, you may opt out of any contact from this website.</p>
-<p>You can also take any of these actions related to your information at any time by <a href="http://www.mindlabpro.com/contacts/">contacting us</a>:</p>
+<p>You can also take any of these actions related to your information at any time by <a href="https://www.mindlabpro.com/contacts/">contacting us</a>:</p>
 <ul class="blue-triangle">
     <li>See what data has been collected from you, if any</li>
     <li>Correct or change any data we may have collected about you</li>
@@ -301,49 +425,50 @@ ga('send', 'pageview');
 <p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
 <p>We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.</p>
 <p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p>
-<p>We also use google remarketing cookies to better reach and target our audience. Google remarketing cookies help create an anonymous list of our website's visitors which we can use to market our products and services.</p>
+<p>We also use Google remarketing cookies to better reach and target our audience. Google remarketing cookies help create an anonymous list of our website's visitors which we can use to market our products and services.</p>
 <p>For more information about Google remarketing cookies and how to opt-out, please visit: <a href="http://www.google.com/policies/privacy/ads/">http://www.google.com/policies/privacy/ads/</a></p>
 <p>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
 <p class="xl-text blue-text">Links to other websites</p>
 <p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
 <p class="xl-text blue-text">Updates</p>
 <p>This Privacy Policy may change in the future. All updates will be reflected on this page.</p>
-<p>If for any reason you feel Opti-Nutra LTD is not adhering to this Privacy Policy, please <a href="http://www.mindlabpro.com/contacts/">let us know</a> right away.</p>    </div>
+<p>If for any reason you feel Opti-Nutra LTD is not adhering to this Privacy Policy, please <a href="https://www.mindlabpro.com/contacts/">let us know</a> right away.</p>    </div>
 </div>
 <div class="full-width verydark footer-verydark"><div class="content mtop40 mbottom10 m-mbottom0 group"><ul class="footer-mainlinks mbottom30 caps widespace gotham-bold xxs-text">
-    <li><a href="http://www.mindlabpro.com/">Home</a></li>
-    <li><a href="http://www.mindlabpro.com/how-it-works/">How it Works</a></li>
-    <li><a href="http://www.mindlabpro.com/quality/">Quality</a></li>
-    <li><a href="http://www.mindlabpro.com/ingredients/">Ingredients</a></li>
-    <li><a href="http://www.mindlabpro.com/stories/">Stories</a></li>
-    <li><a href="http://www.mindlabpro.com/faqs/">FAQ</a></li>
-    <li><a href="http://www.mindlabpro.com/order/">Order</a></li>
+    <li><a href="https://www.mindlabpro.com/">Home</a></li>
+    <li><a href="https://www.mindlabpro.com/how-it-works/">How it Works</a></li>
+    <li><a href="https://www.mindlabpro.com/quality/">Quality</a></li>
+    <li><a href="https://www.mindlabpro.com/ingredients/">Ingredients</a></li>
+    <li><a href="https://www.mindlabpro.com/stories/">Stories</a></li>
+    <li><a href="https://www.mindlabpro.com/faqs/">FAQ</a></li>
+    <li><a href="https://www.mindlabpro.com/order/">Order</a></li>
 </ul></div></div><div id="footer" class="full-width verydark">
     <div class="content mtop-10 mbottom30 group">
-        <ul class="footer-secondarylinks mtop0 mbottom120 caps gotham-bold xxxxs-text">
-    <li><a href="https://www.mindlabpro.com/customer/account/">My Account</a></li>
-    <li><a href="http://www.mindlabpro.com/contacts/">Customer Support</a></li>
-    <li><a href="http://www.mindlabpro.com/shipping-and-returns/">Shipping &amp; Returns</a></li>
-    <li><a href="http://www.mindlabpro.com/affiliates/">Affiliates</a></li>
-    <li><a href="http://www.mindlabpro.com/terms-and-conditions/">Terms</a></li>
-    <li><a href="http://www.mindlabpro.com/privacy-policy/">Privacy</a></li>
-    <li><a href="http://www.mindlabpro.com/inquiries/media/">Media</a></li>
-    <li><a href="http://www.mindlabpro.com/inquiries/wholesale/">Wholesale</a></li>
-</ul>
+        <ul class="footer-secondarylinks mtop0 mbottom120 caps gotham-bold xxxxs-text"><!--
+    --><li><a href="https://www.mindlabpro.com/customer/account/">My Account</a></li><!--
+    --><li><a href="https://www.mindlabpro.com/contacts/">Customer Service</a></li><!--
+    --><li><a href="/blog">Blog</a></li><!--
+    --><li><a href="https://www.mindlabpro.com/shipping-and-returns/">Shipping &amp; Returns</a></li><!--
+    --><li><a href="https://www.mindlabpro.com/terms-and-conditions/">Terms</a></li><!--
+    --><li><a href="https://www.mindlabpro.com/privacy-policy/">Privacy</a></li><!--
+    --><li><a href="https://www.mindlabpro.com/affiliates/">Affiliates</a></li><!--
+    --><li><a href="https://www.mindlabpro.com/inquiries/media/">Media</a></li><!--
+    --><li><a href="https://www.mindlabpro.com/inquiries/wholesale/">Wholesale</a></li><!--
+--></ul>
         <div id="copyright" class="group">
             <div class="m1c1 show-mobile">
-                <img class="responsive50 mob-centered m-mp10" src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/opti-nutra-mobilefooterlogo.png" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/opti-nutra-mobilefooterlogo@2x.png" alt="Advanced Nutraceuticals">
+                <img class="responsive50 mob-centered m-mp10" src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/opti-nutra-mobilefooterlogo.png" data-rjs="2" alt="Advanced Nutraceuticals">
             </div>
             <div class="m1c1 _11c16 darkgrey-text caps gotham-bold xxxs-text footer-info m-mtop20">
-                <p class="lineheight-extra">© Mind Lab Pro<span class="xxxxs-text registered-small">®</span> 2017. All Rights Reserved.<br class="display-desktop">
+                <p>© Mind Lab Pro<span class="xxxxs-text registered-small">®</span> 2018. All Rights Reserved.<br class="display-desktop">
                     Opti-Nutra Ltd.,
 20-22 Wenlock Road,
 London, N1 7GU,
-United Kingdom</p>
+United Kingdom                    <span class="block mbottom0 xxxxxxs-text normalcase">The statements on this page have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure, or prevent disease.</span>                </p>
             </div>
             <div class="m1c1 _5c16 footer-info hide-mobile">
                 <a href="http://www.optinutra.com/" target="_blank">
-                    <img class="f-right" src="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/opti-nutra-footerlogo.png" data-at2x="http://static.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/opti-nutra-footerlogo@2x.png" alt="Advanced Nutraceuticals">
+                    <img class="f-right" src="https://www.mindlabpro.com/skin/frontend/mindlab/mlp2016/images/opti-nutra-footerlogo.png" data-rjs="2" alt="Advanced Nutraceuticals">
                 </a>
             </div>
         </div>
@@ -351,14 +476,13 @@ United Kingdom</p>
 </div>
 
 
-
           <!-- BEGIN PAP -->
                   <script type="text/javascript">
         <!--
             document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") +
-                "affiliate.stackedbrands.com/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));
+                "associates.optinutra.com/scripts/efjval' type='text/javascript'%3E%3C/script%3E"));
         //-->
-        </script><script id="pap_x2s6df8d" src="https://affiliate.stackedbrands.com/scripts/trackjs.js" type="text/javascript"></script>
+        </script><script id="pap_x2s6df8d" src="https://associates.optinutra.com/scripts/efjval" type="text/javascript"></script>
         <script type="text/javascript">
         <!--
             PostAffTracker.setAccountId('default1');
@@ -371,7 +495,8 @@ United Kingdom</p>
         
           <!-- END PAP -->
 
-        <!-- Facebook Pixel Code -->
+        
+<!-- Facebook Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
     n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
@@ -385,8 +510,23 @@ fbq('track', 'PageView');
 <noscript><img height="1" width="1" style="display:none"
                src="https://www.facebook.com/tr?id=904266396334935&ev=PageView&noscript=1"
         /></noscript>
+<script type="text/javascript">
+var time_on_page = 0;
+var pixelTimer = setInterval(function(){
+if(time_on_page <= 600){
+time_on_page += 15;
+fbq('track','PageView_'+time_on_page);
+} else {
+clearInterval(pixelTimer);
+}
+},15000);
+</script>
 <!-- End Facebook Pixel Code -->
-<script type="text/javascript" src="http://static.mindlabpro.com/skin/frontend/mindlab/default/js/retina.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+    var thisAjaxHideEmails = new ajaxhideemails();
+    //]]>
+</script><script type="text/javascript" src="https://www.mindlabpro.com/skin/frontend/mindlab/default/js/retina.min.js"></script>
 <script>(function(d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) return;
@@ -394,6 +534,38 @@ fbq('track', 'PageView');
         js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
-
+<!-- Bing Ads Conversion Tracking -->
+<script>(function (w, d, t, r, u) {
+        var f, n, i;
+        w[u] = w[u] || [], f = function () {
+            var o = {ti: "5991894"};
+            o.q = w[u],
+            w[u] = new UET(o), w[u].push("pageLoad")
+        }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function () {
+            var s = this.readyState;
+            s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null)
+        }, i = d.getElementsByTagName(t)[0],
+        i.parentNode.insertBefore(n, i)
+    })(window, document, "script", "//bat.bing.com/bat.js", "uetq");</script>
+<noscript>
+    <img src="//bat.bing.com/action/0?ti=5991894&Ver=2" height="0" width="0" style="display:none; visibility: hidden;"/>
+</noscript>
+<!-- End Bing Ads Conversion Tracking -->
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 877350395;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/877350395/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- End Google Code for Remarketing Tag -->
 
 </body></html>
