@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zumvu.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704213959id_/https%3A//www.zumvu.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumvu.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203214333id_/https%3A//www.zumvu.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zumvu
 
