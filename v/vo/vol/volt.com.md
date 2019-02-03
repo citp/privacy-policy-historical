@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volt.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105044108id_/http%3A//www.volt.com/uploadedFiles/Legal/Volt%2520Information%2520Sciences%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volt.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203203421id_/http%3A//www.volt.com/uploadedFiles/Legal/Volt%2520Information%2520Sciences%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # Volt Information Sciences, Inc. Privacy Policy
 
