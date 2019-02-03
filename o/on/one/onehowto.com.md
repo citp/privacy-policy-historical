@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onehowto.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826051834id_/https%3A//www.onehowto.com/index/politicadeprivacidad) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehowto.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203130605id_/https%3A//www.onehowto.com/index/politicadeprivacidad) for the most accurate reproduction.*
 
 # Privacy policy - onehowto.com
 
@@ -12,7 +12,7 @@ The use of the Website of any of its associated services implies the acceptance 
 
 ## 2\. File responsability
 
-The user's personal data gathered on the Website will be included on a file whose responsibility lies upon oneHOWTO with social address at C/Campo Florido, 54, 1ª Planta - 08027 - Barcelona (Barcelona). % nombre_proyecto% informs the User of the existence of personal data files registered under the GDPR (General Data Protection Regulation), for the fulfillment of legitimate purposes of the entity.
+The user's personal data gathered on the Website will be included on a file whose responsibility lies upon oneHOWTO with social address at C/Jordi de Sant Jordi, 11, Bajos - 08027 - Barcelona (Barcelona). % nombre_proyecto% informs the User of the existence of personal data files registered under the GDPR (General Data Protection Regulation), for the fulfillment of legitimate purposes of the entity.
 
 ## 3\. Collection of data
 
@@ -57,7 +57,7 @@ Data given by the user must be exact and true. In any such case, it is the user'
 
 ## 9\. Access, rectification, cancelation and objection rights
 
-The user can contact oneHOWTO at any time to access, modify, cancel or object to any of their personal data by sending an email to info@onehowto.com, or sending a written letter to Red Link To Media, S.L. (Ref.: Data Protection), C/Campo Florido, 54, 1ª Planta - 08027 - Barcelona, Barcelona.
+The user can contact oneHOWTO at any time to access, modify, cancel or object to any of their personal data by sending an email to info@onehowto.com, or sending a written letter to Red Link To Media, S.L. (Ref.: Data Protection), C/Jordi de Sant Jordi, 11, Bajos - 08027 - Barcelona, Barcelona.
 
 ## 10\. Cookies
 
