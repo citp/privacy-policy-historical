@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pornokinki.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914045858id_/http%3A//www.streamate.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornokinki.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204001658id_/https%3A//www.adultwebcamschat.com/privacy.html) for the most accurate reproduction.*
 
-# Streamate - Privacy Policy
+# Adult Webcams Chat Privacy Policy
 
-[Home](https://www.streamate.com/) / Privacy Policy
+[Home](https://www.adultwebcamschat.com/) / Privacy Policy
 
 ICF Technology, Inc. (also referred to herein as “Company,” “us,” or “we”) respects your privacy and is committed to protecting it through our compliance with the policies and procedures stated in this Privacy Notice.
 
@@ -24,7 +24,7 @@ By using our websites and creating an account, you acknowledge that you have rev
 
 Our websites are not intended for and shall not be used by anyone under the age of 18 years old. No one under 18 may provide any information to or on this website and should not knowingly access any of our websites. ICF Technology, Inc. does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age-related information is requested.
 
-Member areas of ICF Technology, Inc. may contain content considered offensive to some and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this and it is verified, we will immediately delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@streamate.com](https://web.archive.org/contactsupport.php?).
+Member areas of ICF Technology, Inc. may contain content considered offensive to some and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this and it is verified, we will immediately delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@webcamassist.com](https://web.archive.org/contactsupport.php?).
 
 We collect several types of information from and about users of our website, including information:
 
@@ -207,7 +207,7 @@ The Controller of your data is:
 
 
 
-If you have any questions about this Privacy Notice, please contact our data protection officer at [_dpo@icftechnology.com_](mailto:dpo@icftechnology.com) and provide us with your name, your Streamate login name, and any information you feel is important.
+If you have any questions about this Privacy Notice, please contact our data protection officer at [_dpo@icftechnology.com_](mailto:dpo@icftechnology.com) and provide us with your name, your adultwebcamschat.com login name, and any information you feel is important.
 
 If you are concerned about an alleged breach of privacy law or any other regulation by ICF Technology, Inc., you can contact our Data Protection Officer who will investigate your complaint and give you information about how it will be handled.
 
