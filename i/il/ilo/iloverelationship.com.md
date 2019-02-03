@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iloverelationship.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526143724id_/http%3A//iloverelationship.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloverelationship.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203144820id_/https%3A//iloverelationship.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I Love Relationship
 
