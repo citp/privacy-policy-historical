@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the gspawn.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920165104id_/https%3A//gspawn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gspawn.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203013754id_/https%3A//gspawn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### PRIVACY POLICY
+**PRIVACY POLICY**
 
 Gold and Silver Coin Shop, Inc. ("GSCS", "we", "our" or "us") has created this Privacy Policy for www.gspawn.com (the "Website") to demonstrate our firm commitment to protecting your information. This Privacy Policy discloses the types of information we collect when you visit the Website, why we collect it and how it is used. Please read this privacy policy carefully. Please also read our Terms of Use, which governs your use of the Website. By using the Website you consent to the terms of our current Privacy Policy and Terms of Use. Please note that this Privacy Policy does not apply to any information that you provide to third parties and you should contact such third parties directly to determine their respective privacy policies.
 
-### INFORMATION WE COLLECT FROM YOU
+**INFORMATION WE COLLECT FROM YOU**
 
-#### Types of Information Collected
+**Types of Information Collected**
 
 In order to operate the Website and provide you with access to certain services that we offer through the site, we collect the following types of information from you: (i) personal information by which you may be identified, such as your name, postal address, email address, date of birth, gender, telephone numbers, passwords, credit and debit card information and other financial institution account information ("Personal Information") and (ii) information about you and your activities on the Website that does not identify you personally, such as your Internet Protocol (IP) address, domain server, the type of computer, web browser, operating system or platform you use and referrer data identifying the web pages you visited prior to and after visiting our Website ("Website Usage Information").
-
-#### Collection and Use of Information
 
 We collect your Personal Information when you provide it to us while visiting the Website, such as when you create an account, purchase our products, enter a sweepstakes, contest or promotion, sign up for our mailing list, post comments on the Website's blog space, request information or otherwise interact with this Website.
 
@@ -40,6 +38,10 @@ We share your Personal Information and Website Usage Information with our Partne
 
 **Business Transfers.** Your Personal Information and Website Usage Information may be transferred, sold or otherwise conveyed to a third party where GSCS: (i) merges with or is acquired by another business entity; (ii) sells all or substantially all of its assets; (iii) is adjudicated bankrupt or (iv) is liquidated or otherwise reorganizes. You consent to any and all such conveyances of your Personal Information and Website Usage Information.
 
+**Accounts.** You can sign up for an account if you’d like. This will make us happy because it confirms your interest in our store. It should also make you happy because we will remember your information and, when you decide to buy our products, you do not have to provide all of your information over again -- you just have to log-in. Before registering your account, we will ask you to expressly provide your consent to this privacy policy. Only if you give us your consent, we will open your account. We also you the possibility to easily withdraw your consent and delete your account. Just email webmaster@gspawn.com.
+
+**Partial Purchases/LiveChat/Contact Form/Email Inquiry** If you have started to buy one of our products and not completed the purchase, contacted us via LiveChat our contact form or via email, you may have provided partial information, such as your email or phone number. In that case, we might send you an email to remind you about your interest or follow up with you on your inquiry. If you are not comfortable in receiving further emails of this kind, we will give you a simple opportunity to opt-out. Your privacy means a lot to us and we will stop sending you these communications right away.
+
 **Disclosure of Customer Information for Legal and Administrative Reasons.** We may disclose your Personal Information and Website Usage Information without notice: (i) when required by law or to comply with a court order, subpoena, search warrant or other legal process; (ii) to cooperate in investigations of fraud, intellectual property infringement or any other activity that is illegal or may expose us or you to legal liability; (iii) to enforce or apply the Website's Terms and Conditions; (iv) to verify the identity of the Website's users and (v) to protect and defend the rights, property or safety of GSCS, GSCS's Partners, the respective officers, directors, employees and representatives of each, and the Website's users.
 
 **Disclosure of Personal Information with Customer's Consent.** Unless otherwise required or permitted by applicable law, we will not transfer or release your Personal Information to a third party in any manner not provided for in this Privacy Policy without first providing you with the opportunity to "opt out" of such transfer or release of your Personal Information.
@@ -66,15 +68,23 @@ This Website is targeted primarily for use by adults. GSCS does not knowingly or
 
 This Website is operated in the state of Nevada in the United States. If you are located in Canada, the Caribbean, the European Union or anywhere else outside the United States, please be aware that any information you provide to GSCS will be transferred to the United States and by submitting the information you consent to this transfer.
 
+### HOW DO WE PROCESS YOUR INFORMATION?
+
+We use an external provider to run our store, BigCommerce . BigCommerce is based in the US and is a participant in the EU-US Privacy Shield Framework and committed to providing best-in-class service and data protection. You can check its participation in the Privacy Shield [here](https://www.privacyshield.gov/participant?id=a2zt0000000TN78AAG&status=Active) on the official site of The International Trade Administration (ITA), U.S. Department of Commerce.
+
+### EU RESIDENT PERSONAL DATA
+
+If you are one of our customers who is in the EU, you have specific rights that we are honored to enforce without undue delay: Access, Correct, Erasure, Port, Object. If you cannot exercise your choice on your account page or if you do not have an account with us, please reach out to us, at the contact details at the bottom of this page. We will be more than happy to help **.**
+
 ### COMMUNICATION PREFERENCES AND CORRECTING AND UPDATING PERSONAL INFORMATION
 
-If you do not want to receive promotional offers and other marketing communications from us you can "opt out" of receiving such offers and communications by emailing us at [scott@gspawn.com](mailto:scott@gspawn.com), or write us at:
+If you do not want to receive promotional offers and other marketing communications from us you can "opt out" of receiving such offers and communications on any email using the “unsubscribe” button at the bottom or by emailing us at [webmaster@gspawn.com](mailto:scott@gspawn.com), or write us at:
 
 Gold and Silver Coin Shop, Inc.  
 713 Las Vegas Boulevard South  
 Las Vegas, NV 89101-6755
 
-If you believe that any Personal Information about you that we collect is incorrect or has changed, please send an email message to [scott@gspawn.com](mailto:scott@gspawn.com), explaining the correction or change and providing any relevant confirmation or reference number.
+If you believe that any Personal Information about you that we collect is incorrect or has changed, please send an email message to [webmaster@gspawn.com](mailto:scott@gspawn.com), explaining the correction or change and providing any relevant confirmation or reference number.
 
 ### CHANGES TO THIS PRIVACY POLICY
 
@@ -82,10 +92,10 @@ By using this Website you accept our privacy practices, as disclosed in this Pri
 
 ### PRIVACY QUESTIONS
 
-If you have a privacy question about this Website, please send us an email at [scott@gspawn.com](mailto:scott@gspawn.com) or write to:
+If you have a privacy question about this Website, please send us an email at [webmaster@gspawn.com](mailto:scott@gspawn.com), call us at (702)272-0006 or write to:
 
 Gold and Silver Coin Shop, Inc.  
 713 Las Vegas Boulevard South  
 Las Vegas, NV 89101-6755
 
-This Gold and Silver Coin Shop, Inc. Privacy Policy has an effective date of October 15, 2010.
+This Gold and Silver Coin Shop, Inc. Privacy Policy has an effective date of May 25, 2018.
