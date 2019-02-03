@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topinspired.com privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618030454id_/http%3A//www.topinspired.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topinspired.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203173639id_/https%3A//www.topinspired.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Top Inspired
 
@@ -16,7 +16,7 @@ www.Topinspired.com uses cookies to store information about visitors’ preferen
 
 → Google, as a third party vendor, uses cookies to serve ads on www.Topinspired.com.  
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.Topinspired.com and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
 **Our Advertising Partners**
 
