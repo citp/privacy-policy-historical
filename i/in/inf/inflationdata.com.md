@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inflationdata.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115222919id_/https%3A//inflationdata.com/articles/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inflationdata.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203222248id_/https%3A//inflationdata.com/articles/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
