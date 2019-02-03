@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareasale-analytics.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619063532id_/http%3A//shareasale.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareasale-analytics.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203144206id_/http%3A//www.shareasale.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # 1
 
