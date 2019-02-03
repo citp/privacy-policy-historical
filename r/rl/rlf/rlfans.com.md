@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rlfans.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104125600id_/https%3A//menu.rlfans.com/legal/RLFANS%2520-%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rlfans.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203155256id_/https%3A//menu.rlfans.com/legal/RLFANS%2520-%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
