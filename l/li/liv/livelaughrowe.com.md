@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelaughrowe.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926125032id_/https%3A//livelaughrowe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelaughrowe.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203101536id_/https%3A//livelaughrowe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Live Laugh Rowe
 
