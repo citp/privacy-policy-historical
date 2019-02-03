@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamcity.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026082346id_/http%3A//hamcity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamcity.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203054040id_/https%3A//hamcity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
