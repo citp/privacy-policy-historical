@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crackmypdf.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105022755id_/http%3A//crackmypdf.com/CrackMyPdf%2520privacy%2520notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackmypdf.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203220324id_/http%3A//www.crackmypdf.com/CrackMyPdf%2520privacy%2520notice.pdf) for the most accurate reproduction.*
 
 # Privacy Notice
 
