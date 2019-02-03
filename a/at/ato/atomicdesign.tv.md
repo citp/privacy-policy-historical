@@ -1,49 +1,58 @@
-> *The following text is extracted and transformed from the atomicdesign.tv privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912053826id_/https%3A//www.atomicdesign.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomicdesign.tv privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203081341id_/https%3A//www.atomicdesign.tv/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - ATOMIC
 
-This privacy policy discloses the privacy practices for Atomic Design, Inc. This privacy policy applies solely to information collected by this web site.
+**Privacy Policy**
 
-**Information Collection, Use, and Sharing**
+This privacy policy discloses the privacy practices for Atomic Design, Inc (“ATOMIC,” “us,” “we,” or “our”) and applies to our online interfaces (e.g. website and email newsletters). If you have any questions about our Privacy Policy, please contact [compliance@atomicdesign.tv](mailto:compliance@atomicdesign.tv).
 
-We are the sole owners of the information collected on this site. We only collect information such as your name, email address and phone number when you choose to submit it to us via one of our online forms.
+**Who We Are**
 
-We may use your information to respond to you regarding the reason you contacted us. We will not share your information with any third party other than as necessary to fulfill your request. In the event that there is a local Atomic Design, Inc. dealer or distributor in your area, we may provide them with your information so that they may follow up with you.
+ATOMIC is headquartered in Lititz, PA and provides Production Services, Design, Set Construction and Rental Solutions to the Live Event industry.
 
-We may contact you in the future to tell you about specials, new products or services, or changes to this privacy policy. If we contact you and you do not want to hear from us again, let us know via phone, email or by unsubscribing through the link provided in our email communication.
+**Why We Collect Data & How We Use It**
 
-We collect aggregate information on how our website is used by visitors. This information is not associated with any personally identifying information unless you have chosen to identify yourself by submitting one of our online forms or by clicking on one of our email communications.
+In addition to details required for the business relationships with our customers, ATOMIC collects data to better understand what our customers are looking for, to communicate our products and services, to identify interest in our products and services, and to understand how our customers interact with us online.
 
-We will never sell or rent any of the information we collect to any third party.
+We use the data to improve the functionality of our website and marketing tools, improve our products and services, create content that is of interest to our customers, and to send updates and news about our company, our products and our services. This data is viewed by marketing, sales and leadership teams on an as needed basis for their specific roles. Data is stored until no longer relevant to our business.
 
-**Security**
+**What Data We Collect**
 
-We do not collect sensitive information such as social security numbers or credit card numbers through our website. If you choose to submit your name, email address or other information using one of our online forms you do so at your own risk.
+**General Information**
+
+ATOMIC collects information that enables us to do business with you such as your name, title, company, phone number, email address, billing address, shipping address, fax, and details of sales activity. For marketing purposes, we may also collect social media handles (if public), and preferences about our product and service offerings.
 
 **Cookies**
 
-We use “cookies” on this website. A cookie is a piece of data stored in a site visitor’s browser to help us improve your access to our site and identify repeat visitors to our site. Cookies enable us to track and target the interests of our users to enhance the experience on our site. We may also use cookies to show targeted advertisements.
+We use cookies on our website for functionality and to track preferences, statistics and marketing data. Cookies are small data files that are placed on your computer or mobile device when you visit a website. We are tracking activity such as referral location, page views, visit time, and form submissions. These cookies are provided both by ATOMIC and by third-party providers, such as Google Analytics and Pardot. If you have entered your email address into our site using one of our forms, or you have clicked a link in our emails, tracking information may be connected with personally identifiable information. If you have not done one of these things the information is not personally identifiable.
 
-Some of our business partners may use also cookies on our site (for example, Google). However, we have no access to or control over these cookies.
+You may disable cookies at any time using your browser’s privacy settings. If you are visiting our website from a European Union (EU) location cookies that connect to personally identifiable information are blocked by default until you choose to opt-in via the cookie notice banner.
 
-You may disable cookies at any time using your browser’s privacy settings.
+**Email newsletters**
 
-**Sharing**
+We use a third-party provider, Pardot, to deliver our email newsletters and report on statistics of opens and clicks. If you want to be removed from our email newsletter distribution at any time you may click the unsubscribe link in the email or email your request to [compliance@atomicdesign.tv](mailto:compliance@atomicdesign.tv), or mail your request to 10 Wynfield Drive, Lititz PA 17543, USA, or contact us by phone (717) 626-8301.
 
-We share aggregated demographic information with our partners and advertisers, such as Google. This is not linked to any personal information that can identify any individual person.
+**Tradeshow, Conference and Event Attendance**
 
-**Links**
+When we exhibit at a tradeshow or sponsor an event we may scan badges at our booth or receive a list of attendees and we keep this information in our files.
 
-This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+**Your Rights**
 
-**Updates**
+If you would like to see any data we have collected from you, update it, or have it erased you may contact us at any time with a request. In addition, you may request that we stop processing your data, you may take your data with you to share with someone else, and you have the right to ask us to stop collecting your data. If you would like to make a request, please email [compliance@atomicdesign.tv](mailto:compliance@atomicdesign.tv), or mail your request to 10 Wynfield Drive, Lititz PA 17543, USA, or contact us by phone (717) 626-8301. Please include a detailed message about what you would like to request and a way for us to contact you when your request has been fulfilled.
 
-Our Privacy Policy may change from time to time and all updates will be posted on this page. If you feel that we are not abiding by this privacy policy, you should contact us immediately via email.
+**Security & Sharing**
+
+We do not collect sensitive information such as social security numbers or personal preferences that do not relate to our products and services.
+
+In the event that there is a local ATOMIC dealer or distributor in your area, we may provide them with your information so that they may follow up with you. We will never sell or rent any of the information we collect to any third-party.
+
+**Privacy Policy Updates**
+
+This Privacy Policy is under regular review and updated as necessary to comply with privacy standards. The current version was updated on Tuesday, May 22, 2018.
 
 **Contact**
 
-If you have any questions or concerns about our privacy policy, please contact us directly using the information below.
-
 Atomic Design, Inc.  
-10 Wynfield Drive, Lititz, PA 17543  
-(717) 626-8301
+10 Wynfield Drive, Lititz, PA 17543, USA  
+(717) 626-8301  
+compliance@atomicdesign.tv
