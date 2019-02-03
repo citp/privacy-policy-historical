@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006073340id_/http%3A//www.smartphoneforums.com/content/121-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203032527id_/http%3A//www.smartphoneforums.com/content/121-privacy-policy.html) for the most accurate reproduction.*
 
 # SmartPhoneForums - Privacy Policy
 
-Published on 05-16-2006 01:01 PM 
+Published on 05-16-2006 02:01 PM 
 
 [](http://www.addthis.com/bookmark.php?v=250&username=pdaphonehome)
 
