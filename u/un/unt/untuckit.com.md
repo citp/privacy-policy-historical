@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the untuckit.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907065520id_/https%3A//www.untuckit.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untuckit.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204035642id_/https%3A//www.untuckit.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 TERMS OF USE
 
-Welcome to Untuckit.com. Please review the following basic terms that govern your use of and purchase of products from our Site. Please note that your use of our Site constitutes your agreement to follow and be bound by those terms.
+Welcome to UNTUCKit.com. Please review the following basic terms that govern your use of and purchase of products from our Site. Please note that your use of our Site constitutes your agreement to follow and be bound by those terms.
 
 GENERAL  
   
@@ -23,19 +23,17 @@ All comments, feedback, postcards, suggestions, ideas, and other submissions dis
 
 **UNTUCKit takes your privacy seriously.**
 
-  *  UNTUCKit will not sell, trade, or rent your information to anyone.
-
-
   * Untuckit.com collects personal information when you shop and register with us. This information will be used to inform you of new products, sample sales, or updates on our site.
 
 
-  * When you place an order on Untuckit.com, we ask for your name, email address, phone number, billing address, shipping address, and credit card number. We use this information to fulfill our order and to communicate with you about it.
+
+  * When you place an order on UNTUCKit.com, we ask for your name, email address, phone number, billing address, shipping address, and credit card number. We use this information to fulfill our order and to communicate with you about it.
 
 
-  * Untuckit.com uses your information for three general purposes: to fulfill the orders and request for certain products and services you placed with us, to contact you about specials and new products and to understand the shopping habits of our customers to better serve them in the future.
+  * UNTUCKit.com uses your information for three general purposes: to fulfill the orders and request for certain products and services you placed with us, to contact you about specials and new products and to understand the shopping habits of our customers to better serve them in the future.
 
 
-  * By visiting our site third parties may place cookies on users’ browsers for targeted advertising purposes.
+  * UNTUCKit.com may collect your email address via cookies and pixels on the Website through the use of trusted third party partners.  These partners may also combine your email information with other information they have access to such as mailing address so that UNTUCKit.com may serve relevant marketing offers to you via email and direct mail. If you do not want UNTUCKit.com to collect information about you, please contact questions@untuckit.com to opt out.
 
 
 
@@ -51,22 +49,17 @@ All comments, feedback, postcards, suggestions, ideas, and other submissions dis
     * Europe: the EDAA opt out site at [youronlinechoices.eu](http://www.youronlinechoices.com/).)
 
 
-  * Any materials sent to Untuckit.com will be considered confidential and will become the property of UNTUCKit.
+  * Any materials sent to UNTUCKit.com will be considered confidential and will become the property of UNTUCKit.
 
 
-  * We DO NOT RELEASE any information about you to other companies. 
 
-
-  * When you visit Untuckit.com we do not collect your name, email or any other personal information until you register or place and order with us.
-
-
-  * After you place an order at Untuckit.com, we use your information to process your order. You will receive an email confirmation with UPS tracking number in it. Occasionally, we may need to contact you by postal mail or email if we have other questions regarding your order.
+  * After you place an order at UNTUCKit.com, we use your information to process your order. You will receive an email confirmation with UPS tracking number in it. Occasionally, we may need to contact you by postal mail or email if we have other questions regarding your order.
 
 
 
 SECURITY
 
-We would like you to have a enjoyable and secure shopping experience at Untuckit.com; therefore, protecting your credit card information is important to us. We use the 128-bit Secure Socket Layer (SSL) protocol to protect the security of your online order information as it is transmitted to our server. SSL technology encrypts your information to protect it from being deciphered by anyone other than UNTUCKit.
+We would like you to have a enjoyable and secure shopping experience at UNTUCKit.com; therefore, protecting your credit card information is important to us. We use the 128-bit Secure Socket Layer (SSL) protocol to protect the security of your online order information as it is transmitted to our server. SSL technology encrypts your information to protect it from being deciphered by anyone other than UNTUCKit.
 
 TRANSACTIONS
 
