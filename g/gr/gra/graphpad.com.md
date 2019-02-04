@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the graphpad.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002233138id_/http%3A//www.graphpad.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphpad.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204053501id_/https%3A//www.graphpad.com/company/privacy-policy) for the most accurate reproduction.*
 
-# graphpad.com
-
-**Privacy Policy**
-
-Last Updated: May 23, 2018
+# Privacy Policy - graphpad.com
 
 This Privacy Policy governs the manner in which GraphPad Software, LLC (hereafter also referred to as “GraphPad” “we” and “us”) collects, uses, maintains and discloses information collected from users (each, a “User” or “you”) for our software, websites, products, and services (together, collectively the “Service”).  By accessing the Service, you acknowledge and agree to this Privacy Policy and also agree to the [Terms of Use](https://web.archive.org/company/terms/) of the Service located at: <https://www.graphpad.com/company/terms/>
 
@@ -117,6 +113,7 @@ If we make any material changes to this Privacy Policy, we will post a notice on
 This Policy is part of the [Terms of Use](https://web.archive.org/company/terms/) of the Service and any use of the Service is governed by those [Terms of Use](https://web.archive.org/company/terms/).  If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [support@graphpad.com](mailto:support@graphpad.com) or send your inquiries to:
 
 GraphPad Software, LLC  
-7825 Fay Avenue, Suite 230  
-La Jolla, CA 92037  
+2365 Northside Dr.  
+Suite 560  
+San Diego, CA 92108  
 USA
