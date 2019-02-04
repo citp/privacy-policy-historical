@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noteburner.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530212726id_/http%3A//noteburner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noteburner.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205002332id_/https%3A//www.noteburner.com/privacy.html) for the most accurate reproduction.*
 
 # NoteBurner Protects Your Privacy
 
@@ -12,7 +12,7 @@ We will only collect your personal information for defined purposes. We do not d
 
 **What information do we collect? What do we use it for?**
 
-We partner with Avangate, RegNow and SWREG to provide you safe and fast e-commerce services. When you place an order on our website, your full name, email address, mailing address, phone number, credit card number, and credit card expiration date will be required. The information is used to complete the transaction and help us provide better support and services to you.
+We partner with 2CHECKOUT, RegNow and SWREG to provide you safe and fast e-commerce services. When you place an order on our website, your full name, email address, mailing address, phone number, credit card number, and credit card expiration date will be required. The information is used to complete the transaction and help us provide better support and services to you.
 
 Actually, We does not deal with the transaction and will not get your credit card information. We only keep your user name, email address and the info of the product you purchase. This information is kept for customer services purpose only.
 
@@ -20,9 +20,9 @@ Actually, We does not deal with the transaction and will not get your credit car
 
 **How do 3rd party credit card processors protect your information?**
 
-**Avangate**
+**2CHECKOUT**
 
-Avangate is an enterprise software company that helps Software, SaaS, and Online Services companies manage digital commerce, global payments, and subscription billing for direct and channel sales. The company’s services include customer support, chargeback and refunds management, risk and anti-fraud management, tax and VAT compliance and financial reconciliation, as well as an affiliate marketing network and associated services. 
+2CHECKOUT is an enterprise software company that helps Software, SaaS, and Online Services companies manage digital commerce, global payments, and subscription billing for direct and channel sales. The company’s services include customer support, chargeback and refunds management, risk and anti-fraud management, tax and VAT compliance and financial reconciliation, as well as an affiliate marketing network and associated services. 
 
 **RegNow**
 
