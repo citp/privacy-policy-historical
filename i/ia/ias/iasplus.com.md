@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iasplus.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005045507id_/https%3A//www.iasplus.com/en/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iasplus.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204045540id_/https%3A//www.iasplus.com/en/footer/privacy) for the most accurate reproduction.*
 
 # Privacy
 
