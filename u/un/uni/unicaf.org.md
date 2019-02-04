@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicaf.org privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124020241id_/https%3A//www.unicaf.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicaf.org privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204073434id_/https%3A//www.unicaf.org/privacy-policy) for the most accurate reproduction.*
 
 # UNICAF - Scholarship Programme | UNICAF Scholarship
 
@@ -12,8 +12,7 @@ This Notice is issued by each of the Controller entities listed in Section (Q) b
 
 This Notice may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of Personal Data, or changes in applicable law. We encourage you to read this Notice carefully, and to regularly check this page to review any changes we might make in accordance with the terms of this Notice.
 
-### **Collection of Personal Data**    
-
+### **Collection of Personal Data**
 
 **Summary – Collection of Personal Data**  
 ---  
@@ -32,7 +31,7 @@ We collect or obtain Personal Data: when those data are provided to us (e.g., wh
 
 
 
-### **Creation of Personal Data**  
+### **Creation of Personal Data**
 
 **Summary – Creation of Personal Data**  
 ---  
@@ -40,8 +39,7 @@ We create Personal Data about you (e.g., records of your interactions with us).
   
 We also create Personal Data about you in certain circumstances, such as records of your interactions with us, and details of your past interactions with us. We may also combine Personal Data from any of our Sites, Apps, or services, including where those data are collected from different devices.
 
-### **Categories of Personal Data we Process**    
-
+### **Categories of Personal Data we Process**
 
 **Summary – Categories of Personal Data we Process**  
 ---  
@@ -49,7 +47,7 @@ We Process: your personal details (e.g., your name); demographic data (e.g., you
   
 We Process the following categories of Personal Data about you:
 
-  * _Personal details:_ given name(s); preferred name; and photograph.
+  * _Personal details:_ given name(s); preferred name; photograph and recorded phone conversations.
   * _Demographic information:_ gender; date of birth / age; nationality; salutation; title; and language preferences.
   * _Contact details:_ correspondence address; telephone number; email address; details of Personal Assistants, where applicable; messenger app details; online messaging details; and social media details.
   * _Consent records:_ records of any consents you have given, together with the date and time, means of consent and any related information (e.g., the subject matter of the consent).
@@ -62,8 +60,7 @@ We Process the following categories of Personal Data about you:
 
 
 
-### **Sensitive Personal Data**    
-
+### **Sensitive Personal Data**
 
 **Summary – Sensitive Personal Data**  
 ---  
@@ -80,8 +77,7 @@ We do not seek to collect or otherwise Process Sensitive Personal Data in the or
 
 If you provide Sensitive Personal Data to us, you must ensure that it is lawful for you to disclose such data to us, and you must ensure a valid legal basis applies to the Processing of those Sensitive Personal Data.
 
-### **Purposes of Processing and legal bases for Processing**    
-
+### **Purposes of Processing and legal bases for Processing**
 
 **Summary – Purposes of Processing and legal bases for Processing**  
 ---  
@@ -160,8 +156,7 @@ The purposes for which we Process Personal Data, subject to applicable law, and 
 
 · We have obtained **your prior consent** to the Processing (this legal basis is only used in relation to Processing that is entirely voluntary – it is not used for Processing that is necessary or obligatory in any way).  
   
-### **Disclosure of Personal Data to third parties**    
-
+### **Disclosure of Personal Data to third parties**
 
 **Summary – Disclosure of Personal Data to third parties**  
 ---  
@@ -189,8 +184,7 @@ In addition, we disclose Personal Data to:
 
 If we engage a third-party Processor to Process your Personal Data, the Processor will be subject to binding contractual obligations to: (i) only Process the Personal Data in accordance with our prior written instructions; and (ii) use measures to protect the confidentiality and security of the Personal Data; together with any additional requirements under applicable law.
 
-### **International transfer of Personal Data**    
-
+### **International transfer of Personal Data**
 
 **Summary – International transfer of Personal Data**  
 ---  
@@ -202,8 +196,7 @@ Where we transfer your Personal Data from the EEA to recipients located outside 
 
 Please note that when you transfer any Personal Data directly to a UNIC Group entity established outside the EEA, we are not responsible for that transfer of your Personal Data. We will nevertheless Process your Personal Data, from the point at which we receive those data, in accordance with the provisions of this Notice.
 
-### **Data security**    
-
+### **Data security**
 
 **Summary – Data security**  
 ---  
@@ -213,8 +206,7 @@ We have implemented appropriate technical and organisational security measures d
 
 Because the internet is an open system, the transmission of information _via_ the internet is not completely secure. Although we will implement all reasonable measures to protect your Personal Data, we cannot guarantee the security of your data transmitted to us using the internet – any such transmission is at your own risk and you are responsible for ensuring that any Personal Data that you send to us are sent securely.
 
-### **Data accuracy**    
-
+### **Data accuracy**
 
 **Summary – Data accuracy**  
 ---  
@@ -229,8 +221,7 @@ We take every reasonable step to ensure that:
 
 From time to time we may ask you to confirm the accuracy of your Personal Data.
 
-### **Data minimisation**    
-
+### **Data minimisation**
 
 **Summary – Data minimisation**  
 ---  
@@ -238,8 +229,7 @@ We take every reasonable step to limit the volume of your Personal Data that we 
   
 We take every reasonable step to ensure that your Personal Data that we Process are limited to the Personal Data reasonably necessary in connection with the purposes set out in this Notice.
 
-### **Data retention**    
-
+### **Data retention**
 
 **Summary – Data retention**  
 ---  
@@ -267,8 +257,7 @@ Once the periods in paragraphs (1), (2) and (3) above, each to the extent applic
 
 
 
-### **Your legal rights**    
-
+### **Your legal rights**
 
 **Summary – Your legal rights**  
 ---  
@@ -303,8 +292,7 @@ To exercise one or more of these rights, or to ask a question about these rights
 
 
 
-### **Cookies and similar technologies**    
-
+### **Cookies and similar technologies**
 
 **Summary – Cookies and similar technologies**  
 ---  
@@ -312,8 +300,7 @@ We Process Personal Data by using Cookies and similar technologies. For more inf
   
 When you visit a Site or use an App we will typically place Cookies onto your device, or read Cookies already on your device, subject always to obtaining your consent, where required, in accordance with applicable law. We use Cookies to record information about your device, your browser and, in some cases, your preferences and browsing habits. We Process Personal Data through Cookies and similar technologies, in accordance with our [Cookie Policy](https://www.unicaf.org/privacy-and-cookies/).
 
-### **Terms of Use**    
-
+### **Terms of Use**
 
 **Summary – Terms of Use**  
 ---  
@@ -321,8 +308,7 @@ Our [Terms of Use](https://sis-uu.unicaf.org/index/terms_of_use) govern all use 
   
 All use of our Sites, Apps, or services is subject to our [Terms of Use](https://sis-uu.unicaf.org/index/terms_of_use). We recommend that you review our Terms of Use regularly, in order to review any changes we might make from time to time.
 
-### **Direct marketing** ** **  
-
+### **Direct marketing** ** **
 
 **Summary – Direct marketing**  
 ---  
@@ -332,8 +318,7 @@ We Process Personal Data to contact you _via_ email, telephone, direct mail or o
 
 You may unsubscribe from our promotional email list at any time by simply clicking on the unsubscribe link included in every promotional email we send. After you unsubscribe, we will not send you further promotional emails, but in some circumstances we will continue to contact you to the extent necessary for the purposes of any Sites, Apps, or services you have requested.
 
-### **Details of Controllers**    
-
+### **Details of Controllers**
 
 **Summary – Details of Controllers**  
 ---  
@@ -347,31 +332,31 @@ UNIC Online Ltd. | **Address:** Ammochostou 52, Dromos Larnakas-Dekeleias, Cypru
 
 **Phone:** \+ 357 24747500
 
-**Email:** info@unicaf.org  
+**Email:** dpo@unicaf.org  
   
 UNICAF  Limited (Zambia) | **Address:** Plot no.3, Fairview, Masansa Close, Off Bwinjimfumu Road, Lusaka Province, Zambia, P.0.Box: 35868 
 
 **Phone:** +260 211250522
 
-**Email:** info@unicaf.org  
+**Email:** dpo@unicaf.org  
   
 UNICAF Ltd. (Malawi) | **Address:** Area 25, Lilongwe, P.O.Box 2235, Lilongwe 
 
 **Phone:** +265 1755 333
 
-**Email:** info@unicaf.org  
+**Email:** dpo@unicaf.org  
   
 UNICAF University Ltd. (Uganda) | **Address:** Plot no. 56/60, Ambassador House 1st Floor, Suite 4A, Kampala, Uganda 
 
 **Phone:** +256 414 669086
 
-**Email:** info@unicaf.org  
+**Email:** dpo@unicaf.org  
   
 UNICAF Educational Services (Nigeria) | **Address:** Plot 10 Peace Avenue, Oshorun Heritage Estate, Off Channels TV Avenue, Isheri North, Lagos State 
 
 **Phone:** +234 07000 UNICAF (864223)
 
-**Email:** info@unicaf.org  
+**Email:** dpo@unicaf.org  
   
 UNICAF Online Kenya Ltd. | **Address:** West Park Suites, 
 
@@ -383,13 +368,13 @@ Nairobi, Kenya
 
 **Phone:** +254 730 775 000
 
-**Email:** info@unicaf.org  
+**Email:** dpo@unicaf.org  
   
 UNICAF Ltd. (Mauritius) | **Address:** Wing A level 5 BPML, Cybertower 1, Ebene 
 
 **Phone:** +230 4890999
 
-**Email:** info@unicaf.org  
+**Email:** dpo@unicaf.org  
   
 ### Our Data Protection Officer is contactable using the details set out above.
 
