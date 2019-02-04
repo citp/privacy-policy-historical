@@ -1,0 +1,684 @@
+<!--The following is the downloaded HTML source of the ossogoodbones.com privacy policy that was archived on 2019-02-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190204121600id_/https%3A//www.ossogoodbones.com/privacy) for the most accurate reproduction.-->
+
+<html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <meta content="31c0b81c3ca783a42e23c9a9f8915c42" name="csrf-token">
+    <meta content="authenticity_token" name="csrf-param">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PD62QL"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"0d939a1946","applicationID":"6975467","transactionName":"e1xfQEsMDl4AQxtnWVZSRUZYTC1BFl5zW19ccV5aXBBYCCRBRBt3fWcRHEwNCVwKRlod","queueTime":5,"applicationTime":14,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <title>Privacy Policy | Osso Good Bone Broth</title>
+    <meta name="description" content="Ridiculously good sippable bone broth.">
+    <meta name="keywords" content="bone broth, bone broth benefits, benefits of bone broth, marrow bones, bone marrow, bone marrow benefits, benefits of bone marrow, health benefits bone broth">
+    <meta name="p:domain_verify" content="21dfedd3f03fe8e9a1576dbcd1a113bf">
+    <!-- Add to homescreen for Chrome on Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+
+    <!-- Mobile Specific Metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 8]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://outdatedbrowser.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!-- Favicon
+    ================================================== -->
+    <link rel="shortcut icon" href="/assets/favicon.ico">
+
+    <!-- iOS icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//res.cloudinary.com/osso-good-bones/image/upload/v1421992238/apple-touch-icon-144x144_retq2x.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//res.cloudinary.com/osso-good-bones/image/upload/v1421992238/apple-touch-icon-114x114_bhjbkg.png">
+
+    <!-- Chrome Add to Homescreen -->
+    <link rel="shortcut icon" sizes="196x196" href="/assets/favicon.ico">
+
+    <!-- Tile icon for Win8 (144x144 + tile color) -->
+    <meta name="msapplication-TileImage" content="//res.cloudinary.com/osso-good-bones/image/upload/v1421992238/apple-touch-icon-144x144_retq2x.png">
+    <meta name="msapplication-TileColor" content="#646971">
+
+    <meta name="og:image" content="https://www.ossogoodbones.com/assets/default-osso-thumbnail.jpg?1549279574">
+    <meta name="twitter:image" content="https://www.ossogoodbones.com/assets/default-osso-thumbnail.jpg?1549279574">
+
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+    <script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script><script src="js/jquery.min.js"></script>
+    <script>
+      window.is_subscription_page = false;
+      window.is_product_page = false;
+      window.is_cleanse_page = false;
+    </script>
+    <link href="/assets/application.css?v=v534" rel="stylesheet" type="text/css">
+
+    
+  </head>
+  <body class="index pages privacy" ng-app="Osso" ng-controller="BaseController">
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PD62QL"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PD62QL');</script>
+    <!-- End Google Tag Manager -->
+    <div id="mobile-nav-button">
+  <!-- <ul>
+    <li ng-if="currentAccount.id != null"><a href="/sessions/destroy">Sign out</a></li>
+    <li ng-if="currentAccount.id != null"><a href="/account">Account</a></li>
+    <li ng-if="currentAccount.id == null"><a title="Sign Up" href="https://www.ossogoodbones.com/signup">Sign Up</a></li>
+    <li ng-if="currentAccount.id == null"><a title="Sign In" href="https://www.ossogoodbones.com/login">Sign In</a></li>
+  </ul> -->
+  <!-- <div id="mobile-checkout-button">
+    <div class="cart-button">
+        <a href="/checkout" ng-cloak="true">Cart ({{ totalProductsInCart() }})</a>
+    </div>
+  </div> -->
+  <div class="lines-button x open">
+    <a href="javascript:void(0);"></a>
+    <span class="lines"></span>
+  </div>
+  <div id="mobile-nav">
+    <ul id="main-nav">
+  <li>
+    <span class="title">
+      <strong>Products <span><strong>↵</strong></span></strong>
+    </span>
+  </li>
+  <li>
+    <a title="All Bone Broth Products" href="/products">All Products</a>
+  </li>
+  <!-- 
+    <li>
+      <a href="/products/classic-bone-broths" title="Classic Bone Broths">Classic Bone Broths</a>
+    </li>
+  
+    <li>
+      <a href="/products/aip-compliant-bone-broths" title="AIP Compliant Bone Broths">AIP Compliant Bone Broths</a>
+    </li>
+  
+    <li>
+      <a href="/products/paleo-soups" title="Paleo-Friendly Soups">Paleo-Friendly Soups</a>
+    </li>
+  
+    <li>
+      <a href="/products/bone-broth-cleanses" title="Bone Broth Cleanses + Meal Kits">Bone Broth Cleanses + Meal Kits</a>
+    </li>
+   -->
+  <li><a href="/products/classic-bone-broths" title="Bone Broths">Classic Bone Broths</a></li>
+  <li><a href="/products/aip-compliant-bone-broths" title="Bone Broths">AIP Compliant Bone Broths</a></li>
+  <li><a href="/products/paleo-soups" title="Paleo Soups">Paleo Soups</a></li>
+  <li><a href="/products/bone-broth-cleanses" title="Bone Broth Cleanses">Pre-Built Cleanses</a></li>
+  <li><a href="/bone-broth-cleanse" title="Bone Broth Cleanse Builder">Custom Cleanses</a></li>
+  <li><a href="/subscribe" title="Buy Bone Broth Subscription Online">Bone Broth Subscriptions</a></li>
+  <li><a title="Where to find us" href="https://www.ossogoodbones.com/locations">Locations</a></li>
+  <li><strong><a title="Free Bone Broth!" class="red" href="https://www.ossogoodbones.com/referrals">Get Free Broth!</a></strong></li>
+  <li>
+    <span class="title">
+      <strong>Admin <span><strong>↵</strong></span></strong>
+    </span>
+  </li>
+  <li>
+    <a title="Osso Good Bone Broth Online" href="/">Home</a>
+  </li>
+  <span id="mobile-cart" style="display: none;">
+    <li>
+        <a href="/checkout" ng-cloak="true">Cart ({{ totalProductsInCart() }})</a>
+    </li>
+    <li ng-if="currentAccount.id != null"><a href="/sessions/destroy">Sign out</a></li>
+    <li ng-if="currentAccount.id != null"><a href="/account">My Account</a></li>
+    <li ng-if="currentAccount.id == null"><a title="Sign Up" href="https://www.ossogoodbones.com/signup">Sign Up</a></li>
+    <li ng-if="currentAccount.id == null"><a title="Sign In" href="https://www.ossogoodbones.com/login">Sign In</a></li>
+  </span>
+  <li>
+    <span class="title">
+      <strong>General Information <span><strong>↵</strong></span></strong>
+    </span>
+  </li>
+  <li><a href="/about" title="About Us">About Osso Good</a></li>
+  <li><a class="red" href="/osso-good-bone-broth-reviews" title="Bone Broth Reviews">Customer Reviews</a></li>
+  <li><a href="/bone-broth-benefits" title="Bone Broth Benefits">Bone Broth Benefits</a></li>
+  <li><a href="/7-day-bone-broth-cleanse" title="Bone Broth Cleanse Info">Cleanse Info</a></li>
+  <li><a href="/ingredients" title="Ingredients">Ingredients</a></li>
+  <li><a href="/chinese-herb-infused-bone-broths" title="Chinese Herb Infused Bone Broth Ingredients and Benefits">Chinese Herb Info</a></li>
+  <li><a href="/how-it-works" title="How It Works">How It Works</a></li>
+  <li><a href="/7-day-bone-broth-cleanse" title="Bone Broth Cleanse Info">Cleanse Info</a></li>
+  <li><a title="Bone Broth Recipes" href="https://www.ossogoodbones.com/recipes">Recipes</a></li>
+  <li><a href="/testimonials" title="Testimonials">Testimonials</a></li>
+  <li><a href="/donate" title="Donate">Osso Good to Give</a></li>
+  <li><a href="/bone-broth-benefits" title="Bone Broth Benefits">Bone Broth Benefits</a></li>
+  <li><a href="/faqs#faqs" title="FAQs">FAQs</a></li>
+  <li><a href="/contact" title="Contact Us">Contact</a></li>
+  <li><a href="http://blog.ossogoodbones.com" title="Osso Good Blog">Blog</a></li>
+  <li id="cart">
+      <a href="/checkout" ng-cloak="true">Cart ({{ totalProductsInCart() }})</a>
+    <span ng-if="currentAccount.id != null">
+      <u><a title="Free Bone Broth!" class="red" href="https://www.ossogoodbones.com/referrals">Free Bone Broth!</a></u>
+      Welcome to Osso Good {{currentAccount.name}}!
+      <a href="/sessions/destroy">Sign out</a> |
+      <a href="/account">My Account</a>
+    </span>
+    <span ng-if="currentAccount.id == null">
+      <u><a title="Free Bone Broth!" class="red" href="https://www.ossogoodbones.com/referrals">Free Bone Broth!</a></u>
+      Welcome to Osso Good
+      <a title="Sign Up" href="https://www.ossogoodbones.com/signup">Sign Up</a> |
+      <a title="Sign In" href="https://www.ossogoodbones.com/login">Sign In</a>
+    </span>
+  </li>
+  <li>
+    <a href="/faqs#faqs" title="FAQs">FAQs</a>
+  </li>
+  <li>
+    <a href="/terms" title="Terms of Service">Terms of Service</a>
+  </li>
+  <li>
+    <a href="/privacy" title="Privacy Policy">Privacy Policy</a>
+  </li>
+  <li>
+    <a href="/shipping-and-returns" title="Shipping and Return Policy">Shipping and Return Policy</a>
+  </li>
+</ul>
+
+  </div>
+</div>
+<div id="social-nav">
+  <div class="mobile-header">
+    <div class="mobile-checkout">
+      <a class="icomoon-cart" aria-hidden="true" href="/checkout">&nbsp;</a>
+    </div>
+    <a href="/" title="Osso Good Bone Broth">
+      <img id="logo" class="desktop-hide" alt="Osso Good - Makers of ridiculously good sippable bone broths in San Francisco and Marin County California" src="/assets/new-osso-good-logo.png?1549279574">
+    </a>
+  </div>
+  <div class="container no-padding">
+    <ul>
+      <li>
+        <a href="https://www.facebook.com/ossogoodbones" target="_blank" aria-hidden="true" class="icon-facebook">&nbsp;</a>
+      </li>
+      <li>
+        <a href="https://twitter.com/ossogoodbones" target="_blank" aria-hidden="true" class="icon-twitter">&nbsp;</a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/osso_good_bones/" target="_blank" aria-hidden="true" class="icon-instagram">&nbsp;</a>
+      </li>
+      <li>
+        <a href="http://blog.ossogoodbones.com" target="_blank" aria-hidden="true" class="icon-blog">&nbsp;</a>
+      </li>
+      <li>
+        <a href="/cdn-cgi/l/email-protection#95fdf0f9f9fad5fae6e6faf2fafaf1f7fafbf0e6bbf6faf8" target="_blank" aria-hidden="true" class="icon-email">&nbsp;</a>
+      </li>
+    </ul>
+  </div>
+  <div id="newsletter-signup">
+    <form action="//ossogoodbones.us10.list-manage.com/subscribe/post?u=7bd539f2163333fa74f8db854&amp;id=d540098a16" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+      <input type="submit" value="subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+      <input type="email" value="" name="EMAIL" class="required email" placeholder="Enter Email" id="mce-EMAIL">
+      <div class="response" id="mce-error-response" style="display:none"></div>
+      <div class="response" id="mce-success-response" style="display:none"></div>
+      <div style="position: absolute; left: -5000px;"><input type="text" name="b_7bd539f2163333fa74f8db854_d540098a16" tabindex="-1" value=""></div>
+    </form>
+    <span>Get a <strong class="red">$10 off promo code</strong> when you subscribe to our newsletter!</span>
+  </div>
+</div>
+
+    <div id="nav-bar" class="clearfix">
+  <div id="nav-logo">
+    <a href="/">
+      <img class="scale" alt="Osso Good is Northern California's source for pasture raised sippable broths" src="/assets/osso-good-logo-white.png?1549279574">
+    </a>
+  </div>
+  <nav>
+    <ul id="main-nav">
+  <!-- <li>
+    <a title="Osso Good Bone Broth Online" href="/">Home</a>
+  </li> -->
+  <li class="highlight bone-broth">
+    <a title="Buy Bone Broth Online" href="/products">Bone Broth</a>
+    <ul>
+      <li>
+        <a title="All Bone Broth Products" href="/products">All Products</a>
+      </li>
+        <li>
+          <a href="/products/classic-bone-broths" title="Classic Bone Broths">Classic Bone Broths</a>
+        </li>
+        <li>
+          <a href="/products/aip-compliant-bone-broths" title="AIP Compliant Bone Broths">AIP Compliant Bone Broths</a>
+        </li>
+        <li>
+          <a href="/products/paleo-soups" title="Paleo-Friendly Soups">Paleo-Friendly Soups</a>
+        </li>
+        <li>
+          <a href="/products/bone-broth-cleanses" title="Bone Broth Cleanses + Meal Kits">Bone Broth Cleanses + Meal Kits</a>
+        </li>
+      <li><a href="/subscribe" title="Buy Bone Broth Subscription Online">Subscriptions</a></li>
+    </ul>
+  </li>
+  <li>
+    <a title="Paleo Certified Soups" href="https://www.ossogoodbones.com/products/paleo-soups">Paleo Soups</a>
+  </li>
+  <li class="bone-broth-cleanse">
+    <a href="/bone-broth-cleanse" title="Bone Broth Cleanse Builder">Cleanses</a>
+    <ul>
+      <li><a href="/bone-broth-cleanse" title="Bone Broth Cleanse Builder">Custom Cleanses</a></li>
+      <li><a href="/products/bone-broth-cleanses" title="Bone Broth Cleanses">Pre-Built Cleanses</a></li>
+      <li><a href="/7-day-bone-broth-cleanse" title="Bone Broth Cleanse Info">Cleanse Info</a></li>
+    </ul>
+  </li>
+  <li><a href="/subscribe" title="Buy Bone Broth Subscription Online">Subscriptions</a></li>
+  <li>
+    <a title="Where to find us" href="https://www.ossogoodbones.com/locations">Locations</a>
+  </li>
+  <li class="know-us">
+    <a href="/about" title="About Us">About</a>
+    <ul>
+      <li><a href="/about" title="About Us">About Osso Good</a></li>
+      <li><a class="red" href="/osso-good-bone-broth-reviews" title="Bone Broth Reviews">Customer Reviews</a></li>
+      <li><a title="Bone Broth Recipes" href="https://www.ossogoodbones.com/recipes">Recipes</a></li>
+      <!-- <li><a href="/ingredients" title="Ingredients">Ingredients</a></li>
+      <li><a href="/chinese-herb-infused-bone-broths" title="Chinese Herb Infused Bone Broth Ingredients and Benefits">Chinese Herb Info</a></li> -->
+      <!-- <li><a href="/testimonials" title="Testimonials">Testimonials</a></li> -->
+      <li><a href="/donate" title="Donations">Donations</a></li>
+      <li><a href="/faqs#faqs" title="FAQs">FAQs</a></li>
+      <li><a href="/contact" title="Contact Us">Contact</a></li>
+    </ul>
+  </li>
+  <li>
+    <strong><a title="Free Bone Broth!" class="blue" href="https://www.ossogoodbones.com/referrals">Get Free Broth!</a></strong>
+  </li>
+  <li id="cart">
+      <a href="/checkout" ng-cloak="true">Cart ({{ totalProductsInCart() }})</a>
+    <span ng-if="currentAccount.id != null">
+      Welcome {{currentAccount.name}}!
+      <a href="/sessions/destroy">Sign out</a> |
+      <a href="/account">My Account</a>
+    </span>
+    <span ng-if="currentAccount.id == null">
+      Welcome to The Osso Good Co.
+      <a ng-click="toggleSignUp()" href="javascript:void(0);"> Sign up </a> |
+      <a ng-click="toggleSignIn()" href="javascript:void(0);"> Sign in </a>
+    </span>
+  </li>
+  <span id="mobile-cart" style="display: none;">
+    <li>
+        <a href="/checkout" ng-cloak="true">Cart ({{ totalProductsInCart() }})</a>
+    </li>
+    <li ng-if="currentAccount.id != null"><a href="/sessions/destroy">Sign out</a></li>
+    <li ng-if="currentAccount.id != null"><a href="/account">My Account</a></li>
+    <li ng-if="currentAccount.id == null"><a ng-click="toggleSignUp()" href="javascript:void(0);"> Sign up </a></li>
+    <li ng-if="currentAccount.id == null"><a ng-click="toggleSignIn()" href="javascript:void(0);"> Sign in </a></li>
+    <li>
+      <a href="/how-it-works" title="How It Works">How It Works</a>
+    </li>
+    <li>
+      <a href="/faqs#faqs" title="FAQs">FAQs</a>
+    </li>
+    <li>
+      <a href="/terms" title="Terms and Conditions">Terms and Conditions</a>
+    </li>
+    <li>
+      <a href="/privacy" title="Privacy Policy">Privacy Policy</a>
+    </li>
+    <li>
+      <a href="/shipping-and-returns" title="Shipping and Return Policy">Shipping and Return Policy</a>
+    </li>
+  </span>
+</ul>
+
+  </nav>
+</div>
+
+<section class="no-hero">
+  <div class="sub-header">
+    <h3>
+      Privacy Policy
+    </h3>
+  </div>
+</section>
+<section>
+  <div class="container">
+    <div class="sixteen columns">
+      <p>
+        This Privacy Policy governs the manner in which Osso Good collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="http://www.ossogoodbones.com">www.ossogoodbones.com</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by Osso Good.
+      </p>
+      <p>We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.ossogoodbones.com.</p>
+
+      <h4>Information Collection And Use</h4><p>While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number ("Personal Information").</p>
+
+      <h4>Log Data</h4><p>Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.</p>
+
+      <h4>Cookies</h4><p>Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.</p>
+      <p>Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.</p>
+
+      <h4>DoubleClick Cookie</h4><p>Google, as a third party vendor, uses cookies to serve ads on our Site. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Site or other sites on the Internet.</p>
+      <p>You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the <a href="http://www.google.com/ads/preferences/" rel="nofollow">Google Ads Settings</a> page.</p>
+
+      <p>Osso Good, llc.  uses Remarketing with Google Analytics to advertise on third party sites to you after you visited our Site. We and our third party vendors, like Google, use first party cookies (such as the Google Analytics cookie) and third party cookies (such as the DoubleClick cookie) to inform, optimize and serve ads based on your past visits to our Site.</p>
+      <p>You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the <a href="http://www.google.com/settings/ads" rel="nofollow">Google Ads Settings</a> page. Google also recommends installing the <a href="https://tools.google.com/dlpage/gaoptout" rel="nofollow">Google Analytics Opt-out Browser Add-on</a> for your browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.</p>
+
+      <h4>Do Not Track Disclosure</h4><p>Osso Good, llc.  does not respond to Do Not Track (DNT) signals.</p>
+      <p>Do Not Track (DNT) is a preference you can set in your web browser to let the websites you visit know that you do not want to be tracked. You can disable or enable this setting by visiting the Preferences or Settings menu of your web browser.</p>
+
+      <h4>Communications</h4><p>We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe instructions provided in any email we send.</p>
+
+      <h4>Compliance With Laws</h4><p>Osso Good, llc.  will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Site.</p>
+
+      <h4>Business Transaction</h4><p>If Osso Good, llc.  is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.</p>
+
+      <h4>Security</h4><p>The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.</p>
+
+      <h4>Links To Other Sites</h4><p>Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
+      <p>Osso Good, llc.  has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.</p>
+
+      <h4>Children's Privacy</h4><p>Our Site does not address anyone under the age of 13 ("Children"). We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.</p>
+
+      <h4>Changes To This Privacy Policy</h4><p>Osso Good, llc.  may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.</p>
+
+      <h4>Contact Us</h4><p>
+        Questions about the Terms of Service should be sent to us at <a href="/cdn-cgi/l/email-protection#1c74797070735c736f6f737b7373787e7372796f327f7371"><span class="__cf_email__" data-cfemail="49212c25252609263a3a262e26262d2b26272c3a672a2624">[email&nbsp;protected]</span></a>.
+      </p>
+      <!-- <p>
+        This Privacy Policy governs the manner in which Osso Good collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="http://www.ossogoodbones.com">www.ossogoodbones.com</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by Osso Good.
+      </p> -->
+      <!-- <h3>
+        Personal identification information
+      </h3>
+      <p>
+        We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+      </p>
+      <h3>
+        Non-personal identification information
+      </h3>
+      <p>
+        We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+      </p>
+      <h3>
+        Web browser cookies
+      </h3>
+      <p>
+        Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+      </p>
+      <h3>
+        How we use collected information
+      </h3>
+      <p>
+        Osso Good may collect and use Users personal information for the following purposes:
+      </p>
+      <ul class="disc">
+        <li>To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently</li>
+        <li>To personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site</li>
+        <li>To improve our Site: We may use feedback you provide to improve our products and services.</li>
+        <li>To process payments: We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.</li>
+        <li>To run a promotion, contest, survey or other Site feature: To send Users information they agreed to receive about topics we think will be of interest to them.</li>
+        <li>To send periodic emails: We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.</li>
+      </ul>
+      <h3>
+        How we protect your information
+      </h3>
+      <p>
+        We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+      </p>
+      <p>
+        Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+      </p>
+      <h3>
+        Sharing your personal information
+      </h3>
+      <p>
+        We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+      </p>
+      <h3>
+        Changes to this privacy policy
+      </h3>
+      <p>
+        Osso Good has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+      </p>
+      <h3>
+        Your acceptance of these terms
+      </h3>
+      <p>
+        By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+      </p>
+      <h3>
+        Contacting us
+      </h3>
+      <p>
+        If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+        <br /><br />
+        <strong>Osso Good</strong>
+        <br />
+        <a href="http://www.ossogoodbones.com">www.ossogoodbones.com</a>
+        <br />
+        San Rafael, Ca 94903
+        <br />
+        (415) 578-0899
+        <br />
+        <a href="mailto:hello@ossogoodbones.com">hello@ossogoodbones.com</a>
+        <br /><br />
+        <small><strong>This document was last updated on February 21, 2015.</strong></small>
+      </p> -->
+    </div>
+  </div>
+</section>
+<section id="cta">
+  <div class="cta">
+    <h4>Want to try some ridiculously good sippable bone broth?</h4>
+    <h5>
+      You can now order Osso Good bone broth online!
+      <br><br>
+      <a class="button red" title="Buy Bone Broth Online" href="/products">Order some now</a>
+    </h5>
+  </div>
+</section>
+
+    <footer>
+  <div class="container">
+    <div class="eight columns">
+      <h4>Why Osso Good?</h4>
+      <p>
+        <strong>The best bone broth comes from the best ingredients...</strong>
+        <br>
+        At Osso Good, we make <a class="white" href="/products/bone-broths" title="Osso Good Bone Broths">bone broths</a> and <a class="white" href="/products/bone-broth-soups">paleo soups</a> you can be proud of. Nutrient-Dense foods made with organic ingredients that are also gluten free, Whole30 Approved and Certified Paleo. We are very proud to make our own bone broth in small, controlled batches to ensure the quality is always consistent and the taste is always amazing.
+        <br>
+        <strong class="blue">#OSSOGOODLIFE</strong>
+      </p>
+      <div id="footer-newsletter-signup">
+        <p>
+          <strong><span>Get a <u class="red">$10 promo code</u> when you subscribe to our newsletter!</span></strong>
+        </p>
+        <form action="//ossogoodbones.us10.list-manage.com/subscribe/post?u=7bd539f2163333fa74f8db854&amp;id=d540098a16" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+          <input type="email" value="" name="EMAIL" class="required email" placeholder="Enter Email" id="mce-EMAIL">
+          <input type="submit" value="subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+          <div class="response" id="mce-error-response" style="display:none"></div>
+          <div class="response" id="mce-success-response" style="display:none"></div>
+          <div style="position: absolute; left: -5000px;"><input type="text" name="b_7bd539f2163333fa74f8db854_d540098a16" tabindex="-1" value=""></div>
+        </form>
+      </div>
+    </div>
+    <div class="four columns blog">
+      <h4>The Osso Good Life:</h4>
+      <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="//feeds.feedburner.com/OssoGoodLife?format=sigpro" type="text/javascript"></script>
+    </div>
+    <div class="four columns">
+      <h4>Contact:</h4>
+      <p>
+        <strong>OSSO GOOD BONE BROTH</strong>
+        <br>
+        San Rafael, CA 94903
+        <br>
+        <a class="blue" href="/cdn-cgi/l/email-protection#38505d54545778574b4b575f57575c5a57565d4b165b5755"><span class="__cf_email__" data-cfemail="95fdf0f9f9fad5fae6e6faf2fafaf1f7fafbf0e6bbf6faf8">[email&nbsp;protected]</span></a>
+      </p>
+      <div id="social-nav-footer">
+        <ul>
+          <li>
+            <a href="https://www.facebook.com/ossogoodbones" target="_blank" aria-hidden="true" class="icon-facebook">&nbsp;</a>
+          </li>
+          <li>
+            <a href="https://twitter.com/ossogoodbones" target="_blank" aria-hidden="true" class="icon-twitter">&nbsp;</a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/osso_good_bones/" target="_blank" aria-hidden="true" class="icon-instagram">&nbsp;</a>
+          </li>
+          <li>
+            <a href="http://blog.ossogoodbones.com" target="_blank" aria-hidden="true" class="icon-blog">&nbsp;</a>
+          </li>
+          <li>
+            <a href="/cdn-cgi/l/email-protection#a2cac7cececde2cdd1d1cdc5cdcdc6c0cdccc7d18cc1cdcf" target="_blank" aria-hidden="true" class="icon-email">&nbsp;</a>
+          </li>
+        </ul>
+      </div>
+      <div class="clear margin-bottom40"></div>
+      <p class="contact-options">
+        <a class="button" href="/contact" title="Contact Us">Contact options</a>
+      </p>
+    </div>
+    <div class="clear"></div>
+    <div class="twelve columns center-me">
+      <ul id="footer-nav">
+        <li><a title="Where to find us" href="https://www.ossogoodbones.com/locations">Locations</a></li>
+        <li><a href="/about" title="About Us">About Osso Good</a></li>
+        <li><strong><a class="red" href="/osso-good-bone-broth-reviews" title="Bone Broth Reviews">Customer Reviews</a></strong></li>
+        <li><a href="http://blog.ossogoodbones.com" title="Osso Good Blog">Blog</a></li>
+        <li><a href="/bone-broth-benefits" title="Bone Broth Benefits">Bone Broth Benefits</a></li>
+        <li><a href="/ingredients" title="Ingredients">Ingredients</a></li>
+        <li><a href="/chinese-herb-infused-bone-broths" title="Chinese Herb Infused Bone Broth Ingredients and Benefits">Chinese Herb Info</a></li>
+        <li><a href="/testimonials" title="Testimonials">Testimonials</a></li>
+        <li><a href="/how-it-works" title="How It Works">How It Works</a></li>
+        <li><a href="/donate" title="Donations">Donations</a></li>
+        <li><a href="/faqs#faqs" title="FAQs">FAQs</a></li>
+        <li><a href="/terms" title="Terms of Service">Terms of Service</a></li>
+        <li><a href="/privacy" title="Privacy Policy">Privacy Policy</a></li>
+        <li><a href="/shipping-and-returns" title="Shipping and Return Policy">Shipping and Return Policy</a></li>
+        <li><a href="/contact" title="Contact Us">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+<section id="copywrite">
+  <div class="container">
+    <p>
+      <small> Copyright 2019, Osso Good, LLC. All rights reserved.</small>
+    </p>
+  </div>
+</section>
+<section id="sign-in" class="popup-wrapper" ng-if="showSignIn" ng-cloak="true">
+  <div class="container">
+    <div class="popup six columns">
+      <div class="container-fluid">
+        <a href="javascript:void(0);" ng-click="toggleSignIn()" class="close-me">X</a>
+        <h3>Sign in to your account</h3>
+        <form action="/sessions/create" accept-charset="UTF-8" method="post">  <input type="hidden" name="redirect_after_login" value="/privacy">
+  <div class="clear margin-bottom10"></div>
+  <p>
+    <a class="button icon-facebook" href="/auth/facebook">Login With Facebook</a>
+  </p>
+  <div class="clear margin-bottom10"></div>
+  <p>
+    <strong>or<br>Fill out the info below!</strong>
+  </p>
+  <div class="input-wrap sixteen columns">
+    <input type="text" name="email" placeholder="Email or username" autofocus="autofocus" required="required">
+  </div>
+
+  <div class="input-wrap sixteen columns">
+    <input type="password" name="password" placeholder="Password" required="required">
+  </div>
+
+  <p>
+    <input type="submit" value="Sign In">
+  </p>
+
+  <p>
+    Don't have an account?
+    <a ng-click="toggleSignUp()" href="javascript:void(0);"> Sign up </a>
+  </p>
+  <p>
+    <a href="/password_reset/new">Forgot your password?</a>
+  </p>
+
+</form>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="sign-in" class="popup-wrapper" ng-if="showSignUp" ng-cloak="true">
+  <div class="container">
+    <div class="popup eight columns">
+      <div class="container-fluid">
+        <a href="javascript:void(0);" ng-click="toggleSignUp()" class="close-me">X</a>
+        <h3>Signup for an Osso Good account</h3>
+        <form action="/accounts" accept-charset="UTF-8" method="post">
+  <input type="hidden" name="account[facebook_uid]" id="account_facebook_uid">
+  <input type="hidden" name="redirect_after_login" value="/privacy">
+<div class="clear margin-bottom10"></div>
+<p>
+  <a class="button icon-facebook" href="/auth/facebook">Sign Up With Facebook</a>
+</p>
+<div class="clear margin-bottom10"></div>
+<p>
+  <strong>or<br>Fill out the form below!</strong>
+</p>
+<div class="input-wrap sixteen columns ">
+  <input type="text" name="account[name]" id="account_name" placeholder="Full Name" autofocus="autofocus" required="required">
+  <span>  </span>
+</div>
+<div class="input-wrap sixteen columns ">
+  <input type="text" name="account[email]" id="account_email" placeholder="Email" required="required">
+  <span>  </span>
+</div>
+<div class="input-wrap eight columns alpha ">
+  <input type="password" name="account[password]" id="account_password" placeholder="Password" required="required">
+  <span>  </span>
+</div>
+<div class="input-wrap eight columns omega ">
+  <input type="password" name="account[password_confirmation]" id="account_password_confirmation" placeholder="Confirm Password" required="required">
+  <span>  </span>
+</div>
+
+<div class="input-wrap sixteen columns ">
+  <label>
+    <input type="hidden" name="account[mail_list_subscriber]" value="0"><input type="checkbox" name="account[mail_list_subscriber]" value="1" id="account_mail_list_subscriber" checked="checked">
+    <span>Subscribe to our mailing list?</span>
+  </label>
+</div>
+
+  <p>
+    <input type="submit" value="Sign up" class="btn btn-primary">
+  </p>
+
+  <p>
+    Already have an account?
+    <a ng-click="toggleSignIn()" href="javascript:void(0);"> Sign in </a>
+  </p>
+</form>
+      </div>
+    </div>
+  </div>
+</section>
+
+    <!-- Required div for google maps api -->
+    <div id="googleMap"></div>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+      window.cloudinaryConfig = {
+        api_key: "992517982999273",
+        cloud_name: "osso-good-bones",
+        secure_distribution: "res.cloudinary.com",
+        upload_preset: "production"
+      }
+    </script>
+
+    <script src="//maps.googleapis.com/maps/api/js?libraries=places"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.4/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.4/angular-animate.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.4/angular-route.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.4/angular-resource.min.js"></script>
+    <script src="/assets/web/application.js?v=v534" type="text/javascript"></script>
+  
+
+</body></html>
