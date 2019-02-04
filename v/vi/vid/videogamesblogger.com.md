@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videogamesblogger.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112043949id_/http%3A//www.videogamesblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogamesblogger.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205001359id_/https%3A//www.videogamesblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
