@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaforge.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828155315id_/https%3A//rakutenmarketing.com/legal-notices/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaforge.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204083840id_/https%3A//rakutenmarketing.com/legal-notices/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Rakuten Marketing
 
@@ -199,4 +199,4 @@ Rakuten Marketing Europe Limited
 London EC4V 4AY  
 United Kingdom
 
-Rakuten Inc’s Data Protection Officer and the Rakuten Marketing privacy team can be reached at  [rm-subjectrequests@mail.rakuten.com](mailto:rm-subjectrequests@mail.rakuten.com).
+Rakuten Inc’s Data Protection Officer and the Rakuten Marketing privacy team can be reached at  [rm-subjectrights@mail.rakuten.com](mailto:rm-subjectrights@mail.rakuten.com).
