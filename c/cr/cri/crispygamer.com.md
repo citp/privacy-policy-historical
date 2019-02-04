@@ -1,85 +1,60 @@
-> *The following text is extracted and transformed from the crispygamer.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015701id_/http%3A//www.crispygamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crispygamer.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204224546id_/https%3A//www.crispygamer.com/cookies-and-privacy-policy) for the most accurate reproduction.*
 
-# Crispy Gamer Privacy Policy | Crispy Gamer
+# Cookies and Privacy Policy
 
-This privacy policy describes how we collect and use personal data provided by our users. If you have any questions or comments regarding our privacy policy, please contact us via   or send a note to:
+## Privacy Policy
 
-Crispy Gamer  
-ATTN:  Privacy Policy Issues  
-319 Lafayette St., #111  
-New York, NY 10012
+This privacy policy is for this website [[Crispygamer.com](https://web.archive.org/)] and governs the privacy of its users who choose to use it.
 
-## What We Collect and How We Use It
+The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
-### User Account Data
+## The Website
 
-A user account is required to comment.  When you sign up for a user account, you are required to provide:
+This website and its owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website complies to all UK national laws and requirements for user privacy.
 
-  * user name
-  * password
-  * email address
+## Cookie Policy
 
+This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user’s computer / device.
 
+The cookies in use to deliver Google Analytics service are described in the table below.
 
-When you post content on the site, the content will be identified under your user name.
+**Cookie** | **Title** | **Description**  
+---|---|---  
+__utma__utmb 
 
-Cookies, Web Beacons and Web Logs
+__utmc
 
-We set a temporary session cookie whenever you visit the site. It will be deleted when you close your browser. If you merely read the site without logging in, you may instruct your browser to deny this cookie.
+__utmv
 
-When you log into the site, we may set a persistent cookie, which will allow us to recognize you as an existing registered user and avoid the need to log into the site again. These cookies may last for up to 30 days. You may clear these cookies in your browser after a session in which you have logged in.
+__utmz
 
-Our web pages may also contain an electronic file called a web beacon that allows us to count users who have visited that page or to access certain cookies.
+| Google Analytics | These cookies are used to store information, such as what time your current visit occurred, whether you have been to the site before, and what site referred you to the web page.These cookies contain no personally identifiable information but they will use your computer’s IP address to know from where in the world you are accessing the Internet. 
 
-Our servers automatically record information that your browser sends whenever you visit a website. We store this data in files called web logs. These web logs may include information such as your Internet Protocol address, browser type, browser language, the site you came from, the next site you visit and cookies that may uniquely identify your browser.
+Google stores the information collected by these cookies on servers in the United States. Google may transfer this information to third-parties where required to do so by law, or where such third-parties process the information on Google’s behalf.  
+  
+## Opt-out
 
-None of the data collected through web beacons, cookies or web log data provides us with any personal information about you. We use this data on an aggregated basis to analyze how our users are interacting with the site and to customize your experience, such as by remembering your preferences and showing you content that you have tagged. If you are logged in to the site, we could associate information about your site usage that is collected by cookies, web beacons and web logs with your user account. However, we don't do this on an individual basis other than in cases of suspected abuse or illegal behavior. See our policy below about Investigating Abuse.
+In order to provide website visitors with more choice on how data is collected by Google Analytics, Google has developed the Google Analytics Opt-out Browser Add-on. The add-on communicates with the Google Analytics JavaScript (ga.js) to stop data being sent to Google Analytics. The Google Analytics Opt-out Browser Add-on does not affect usage of the website in any other way. A link to further information on the Google Analytics Opt-out Browser Add-on is provided below for your convenience.
 
-### Advertisers' Cookies
+[http://tools.google.com/dlpage/gaoptout?hl=None](https://tools.google.com/dlpage/gaoptout?hl=None)
 
-We use third-party advertising companies to serve ads when you visit our site. When you view ads on our site, a unique third-party cookie or cookies may be placed on your browser by the ad-serving company. In addition, the ad-serving companies may use web beacons to help manage and optimize our online advertising. The information collected by the ad-serving companies may be used to target ads to you on this site and on other sites that you visit.
+For more information on the usage of cookies by Google Analytics please see the Google website. A link to the privacy advice for this product is provided below for your convenience.
 
-### Information for Contests and Sweepstakes
+[http://www.google.com/analytics/learn/privacy.html](https://www.google.com/analytics/learn/privacy.html)
 
-If we offer a contest or sweepstakes, we may ask for additional information such as name, address, and phone number in order to provide the winner with their prize. We would not use that information for any other purpose unless we receive consent at the time you provide the information.
+## Disabling Cookies
 
-## Our Newsletters
+If you would like to restrict the use of cookies you can control this in your Internet browser. Links to advice on how to do this for the most popular Internet browsers are provided below for convenience and will be available for the Internet browser of your choice either online or via the software help (normally available via key F1).
 
-If you register on the site, we may occasionally use your email address to send you a newsletter.
-
-## Special Rules for Children
-
-Children under the age of 13 are not eligible to become registered users.
-
-Information Sharing  
-
-
-### Third Parties
-
-We will never provide your personally identifiable information to any third parties without your consent, except as described under "Our Service Provider" and "Investigating Abuse". We may provide third parties with aggregated or anonymous data about our users and their usage of our services that do not contain any individual's personally identifiable information.
-
-### Our Service Providers
-
-We may hire third-parties to help us provide our services to you. These services may include technical services, customer support, email message deployment, data processing and other services. It may be necessary for us to provide these third parties with some of you personal information in order for them to fulfill their services. For example, we use a third party to send our e-mail newsletters, so if you register, we will provide them your email address to provide you with the newsletter. These third parties do no retain, share or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information to providing services to us.
-
-## Links to Other Sites
-
-This web site contains links to other sites that are not owned or controlled by us, including links in advertisements. Please be aware that we are not responsible for the privacy practices of these sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site to which you provide information.
-
-## Investigating Potential Abuse
-
-We may use any information provided to us by a user, including personally identifiable information, along with any data gathered from our web logs and from third parties to conduct investigations, and we may disclose this information to third parties, including law enforcement officials, investigators, or private parties seeking to protect and enforce their rights; if
-
-  * we have a good faith belief that it is necessary to comply with a court order, judicial proceeding, legal process, subpoena or warrant;
-  * we have a good faith belief that it is necessary to exercise our legal rights or defend against legal claims; or
-  * we believe that your actions violate the law or or threaten the rights, property, or safety of our company, our users, or others.
+  * **Internet Explorer:  **<http://windows.microsoft.com/en-GB/windows7/Block-enable-or-allow-cookies>
+  * **Google Chrome** : [https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies "Disabling cookies in Google Chrome")
+  * **Mozilla Firefox** : [http://support.mozilla.org/en-US/kb/Blocking%20cookies](https://support.mozilla.org/en-US/kb/Blocking%20cookies "Disabling cookies in Mozilla Firefox")
+  * **Apple Safari** : <http://docs.info.apple.com/article.html?artnum=32467>
 
 
 
-## Business Transfer
+## Contact & Communication
 
-If we sell all or a portion of our business, we may transfer some or all of your information as a part of the sale.
+Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
 
-## Changes to this Privacy Policy
-
-If we make a material change in the way we use the personal data of our users, we will modify our privacy policy and will describe the changes under "Changes to the Privacy Policy". Your use of the website after any published change signifies your consent to the application of the revised policy to all information contributed before or after the date of those changes.
+This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
