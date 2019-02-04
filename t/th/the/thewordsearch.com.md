@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thewordsearch.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806135734id_/https%3A//thewordsearch.com/user/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewordsearch.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204011550id_/https%3A//thewordsearch.com/user/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://thewordsearch.com/ "The Word Search") [Word Search Maker](https://web.archive.org/maker/) [More Puzzles](https://web.archive.org/) [Search](https://web.archive.org/search/)
+[](https://thewordsearch.com/ "The Word Search") [Word Search Maker](https://web.archive.org/maker/) [More Puzzles](https://web.archive.org/) [Search](https://web.archive.org/search/)
 
   
 
@@ -23,7 +23,7 @@ We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if thejokeyard.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * if thewordsearch.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
   * to any other third party with your prior consent to do so.
 
 
@@ -64,6 +64,20 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google's
 
 From, time to time we may use the Tapjoy network to advertise our mobile apps. When running, Tapjoy tracks installs/uses of our apps. You can read Tapjoys privacy policy [here](http://info.tapjoy.com/about-tapjoy/privacy-policy/), to see what data they collect and how they use it. 
 
-#### Traffic analysis
+**Third Party Social Networks**
 
-We sometimes make use of Google Analytics, a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of our site, to prepare reports on its activities and share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Personal data collected: Cookie and Usage Data. Place of processing: USA. Find Google's privacy policy [here](http://www.google.com/intl/en/policies/privacy/). 
+We provide the ability to use either Facebook or Twitter to create and log into an account with us. This feature is optional, and only works if you have an existing account with the social network in question.
+
+If you make use of this feature then the social network in question will provide us with limited personal information on you, such as name, email and friends lists. This information is only used to manage your account with us and is never shared. If you close your account, this information is removed from our active database.
+
+You may also encounter like or share buttons on our site which make it simple to share out content accross social networks. Theses buttons may provide third party social networks with information on the page you are visiting.
+
+See the important links section below for more information on the privacy policies of various social networks.
+
+**Important links**
+
+[Contact Us regarding you account/data](https://thewordsearch.com/contact/send/)   
+[Opt out of Targetted Advertising](https://www.networkadvertising.org/managing/opt_out.asp)   
+[Googles privacy policy](https://policies.google.com/privacy?hl=en)   
+[Facebooks privacy policy](https://www.facebook.com/about/privacy/)   
+[Twitters privacy policy](https://twitter.com/en/privacy)
