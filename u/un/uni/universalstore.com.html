@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the universalstore.com privacy policy that was archived on 2017-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628103035id_/https%3A//universalstore.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the universalstore.com privacy policy that was archived on 2019-02-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190204032055id_/https%3A//www.universalstore.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" async-hide"><head>
 <meta charset="utf-8">
@@ -36,7 +36,7 @@
 <link rel="stylesheet" type="text/css" href="https://www.universalstore.com/skin/frontend/base/default/css/temando/autocomplete.css" media="all">
 <link rel="stylesheet" type="text/css" href="https://www.universalstore.com/skin/frontend/base/default/css/temando/datepicker.css" media="all">
 <link rel="stylesheet" type="text/css" href="https://www.universalstore.com/skin/frontend/universalstore/default/css/print.css" media="print">
-<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.universalstore.com/js/universal/modernizr.min.js"></script>
+<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KZL3WWP"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.universalstore.com/js/universal/modernizr.min.js"></script>
 <script type="text/javascript" src="https://www.universalstore.com/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="https://www.universalstore.com/js/lib/ccard.js"></script>
 <script type="text/javascript" src="https://www.universalstore.com/js/prototype/validation.js"></script>
@@ -75,7 +75,7 @@ Mage.Cookies.path     = '/';
 Mage.Cookies.domain   = '.www.universalstore.com';
 //]]>
 </script>
-<style>.async-hide{opacity:0!important}</style>
+<style>.async-hide { opacity: 0 !important} </style>
 <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
         h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
         (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
@@ -108,6 +108,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
     }
 </script>
 <script src="https://www.universalstore.com/skin/frontend/base/default/afterpay/js/modal.js"></script>
+
 <script type="text/javascript">
   if (matchMedia('only screen and (min-width: 641px)').matches) {
 	  var __lc = {};
@@ -120,26 +121,50 @@ optionalZipCountries = ["HK","IE","MO","PA"];
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
 	  })();
   }
-	</script>
-<script type="text/javascript">//<![CDATA[
+	</script> <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script><script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-  _fbq.push(['addPixelId', '551026245002774']);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
+        //]]></script><script>
+$j(document).ready(function() {
+    var tomorrow = new Date(2018,11,25,0,0,0,0);
+
+    Validation.add('validate-tomorrowDate', 'Please select a date after today', function (v) {
+        var day = $j('.datetime-picker[id*="_day"]').val();
+        var month = $j('.datetime-picker[id*="_month"]').val();
+        var year = $j('.datetime-picker[id*="_year"]').val();
+
+        var date = new Date(year, (month - 1), day, 0, 0, 0, 0);
+
+        return !(tomorrow.getTime() > date.getTime());
+    });
+
+    var checkClassExists = setInterval(function(){ 
+
+        var $datePickerHidden = $j('[name^="validate_datetime"]');
+        if($datePickerHidden.hasClass('validate-afterToday')){
+            //$datePickerHidden.removeClass('validate-afterToday').addClass('validate-tomorrowDate').prop('required', true);            
+            $datePickerHidden.removeClass('validate-afterToday');
+            clearInterval(checkClassExists);
+        }
+    }, 1000)
+
+});
 </script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=551026245002774&amp;ev=PixelInitialized"/></noscript>
- 
+
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '551026245002774'); // Insert your pixel ID here.
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=551026245002774&ev=PageView&noscript=1"
+    /></noscript>
+
+
+
 <script type="text/javascript" id="inspectletjs">
 window.__insp = window.__insp || [];
 __insp.push(['wid', 1913083857]);
@@ -148,15 +173,26 @@ function ldinsp(){if(typeof window.__inspld != "undefined") return; window.__ins
 setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
 })();
 </script>
- 
- 
+
+
 <script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=ho5fr2pxgthzlnnxqxcwbhrq3y"></script>
- 
-<script type="text/javascript" src="http://assets.resultspage.com/js/jquery-1.4.2.min.js"></script>
+
 <script type="text/javascript">
 jQuery.noConflict()
 </script>
 <script type="text/javascript" src="//universalstore.resultspage.com/recommendations/wrapper.js"></script>
+<style type="text/css">
+.price-box {height:20px;}
+.category-page .amshopby-links-wrapper .amshopby-link img {margin-top: 0px !important;}
+.products-grid .product-name {margin-top: 18px !important; }
+</style>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KZL3WWP');</script>
+
 <!--[if IE]>
 <script type="text/javascript">
 $j(document).ready(function(){
@@ -172,15 +208,7 @@ $j(document).ready(function(){
 </script>
 <![endif]-->
 <!--[if lt IE 8]><script type="text/javascript">document.location.href = "/browser.html";</script><![endif]-->
-<script type="text/javascript">
-    function ajaxsearchsubmit(form){
-        var search = encodeURIComponent(form.w.value);
-        document.activeElement.blur();
-        window.location="http://clothing.universalstore.com/search#w="+search
-        return false;
-    }
-</script>
- 
+
 <script type="text/javascript">
  var _vwo_code=(function(){
  var account_id=62021,
@@ -189,21 +217,60 @@ $j(document).ready(function(){
  use_existing_jquery=false,
  // DO NOT EDIT BELOW THIS LINE
  f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=62021&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170628103035id_%2Fhttps%253A%2F%2Funiversalstore.com%2Fprivacy-policy&amp;r=0.46854589631788524" type="text/javascript"></script>
- 
- 
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=62021&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190204032055id_%2Fhttps%253A%2F%2Fwww.universalstore.com%2Fprivacy-policy&amp;r=0.3317092651133391" type="text/javascript"></script>
+
+
 <script src="https://use.typekit.net/dou8ggl.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script></head>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<script type="text/javascript" src="//100002245.collect.igodigital.com/collect.js"></script>
+<script type="text/javascript">
+    $j(document).ready(function() {
+        $j.urlParam = function(name){
+            var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+            if (results==null){
+                return null;
+            }
+            else{
+                return results[1] || 0;
+            }
+        };
+ 
+if ($j.urlParam('j') != null) {
+            var date = new Date();
+            date.setDate(date.getDate() + 1);
+            document.cookie = 'sfmc.j=' + $j.urlParam('j') + "; expires" + date;
+            document.cookie = 'sfmc.sfmc_sub=' + $j.urlParam('sfmc_sub') + "; expires" + date;
+            document.cookie = 'sfmc.l=' + $j.urlParam('l') + "; expires" + date;
+            document.cookie = 'sfmc.u=' + $j.urlParam('u') + "; expires" + date;
+            document.cookie = 'sfmc.mid=' + $j.urlParam('mid') + "; expires" + date;
+            document.cookie = 'sfmc.jb=' + $j.urlParam('jb') + "; expires" + date;
+        }
+    });
+
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    var isLoggedIn = 0;
+    //]]>
+</script>
+</head>
 <body class=" cms-page-view cms-privacy-policy">
 <noscript>
-<div class="global-site-notice noscript">
-<div class="notice-inner">
-<p>
-<strong>JavaScript seems to be disabled in your browser.</strong><br/>
-You must have JavaScript enabled in your browser to utilize the functionality of this website. </p>
-</div>
-</div>
-</noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZL3WWP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<script>
+    _etmc.push(["setOrgId", "100002245"]);
+    _etmc.push(["trackPageView"]);
+</script>
 <div class="header-container">
 <div class="wrapper">
 <div class="header">
@@ -213,6 +280,8 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <nav class="stores-top-menu">
 <ul class="top-level-menu">
 <li class="pointymcpointpoint"></li>
+<li class="account-mobile">
+</li>
 <li class="mens-top-level top-level-category"><a href="https://www.universalstore.com/mens-store" alt="Universal Store Mens Store" title="Shop The Universal Store MENS Online Store" class="storelinks"><span class="top-level-menu">Mens</span></a>
 <div class="store-categories">
 <div class="max-wrapper">
@@ -232,19 +301,54 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <span class="secondlevelcategory-link">Most Wanted</span>
 </a>
 </li>
+<li class="secondlevelcategory Festival Edit">
+<a href="https://www.universalstore.com/mens/new-mens/festival-edit-mens.html" alt="Festival Edit Category" title="Festival Edit Category">
+<span class="secondlevelcategory-link">Festival Edit</span>
+</a>
+</li>
 <li class="secondlevelcategory Gift Cards">
 <a href="https://www.universalstore.com/mens/new-mens/gift-cards.html" alt="Gift Cards Category" title="Gift Cards Category">
 <span class="secondlevelcategory-link">Gift Cards</span>
 </a>
 </li>
-<li class="secondlevelcategory Jogger Jeans">
-<a href="https://www.universalstore.com/mens/new-mens/jogger-jeans.html" alt="Jogger Jeans Category" title="Jogger Jeans Category">
-<span class="secondlevelcategory-link">Jogger Jeans</span>
+<li class="secondlevelcategory Digital Gift Cards">
+<a href="https://www.universalstore.com/mens/new-mens/digital-gift-cards.html" alt="Digital Gift Cards Category" title="Digital Gift Cards Category">
+<span class="secondlevelcategory-link">Digital Gift Cards</span>
+</a>
+</li>
+<li class="secondlevelcategory Summer Vacay">
+<a href="https://www.universalstore.com/mens/new-mens/summer-vacay.html" alt="Summer Vacay Category" title="Summer Vacay Category">
+<span class="secondlevelcategory-link">Summer Vacay</span>
+</a>
+</li>
+<li class="secondlevelcategory Event Wear">
+<a href="https://www.universalstore.com/mens/new-mens/mens-event-wear.html" alt="Event Wear Category" title="Event Wear Category">
+<span class="secondlevelcategory-link">Event Wear</span>
+</a>
+</li>
+<li class="secondlevelcategory Linen">
+<a href="https://www.universalstore.com/mens/new-mens/linen.html" alt="Linen Category" title="Linen Category">
+<span class="secondlevelcategory-link">Linen</span>
+</a>
+</li>
+<li class="secondlevelcategory Trending: Stripes">
+<a href="https://www.universalstore.com/mens/new-mens/stripes.html" alt="Trending: Stripes Category" title="Trending: Stripes Category">
+<span class="secondlevelcategory-link">Trending: Stripes</span>
+</a>
+</li>
+<li class="secondlevelcategory Earthy Tones ">
+<a href="https://www.universalstore.com/mens/new-mens/earthy-tones.html" alt="Earthy Tones  Category" title="Earthy Tones  Category">
+<span class="secondlevelcategory-link">Earthy Tones </span>
+</a>
+</li>
+<li class="secondlevelcategory Corduroy">
+<a href="https://www.universalstore.com/mens/new-mens/mens-corduroy.html" alt="Corduroy Category" title="Corduroy Category">
+<span class="secondlevelcategory-link">Corduroy</span>
 </a>
 </li>
 
 <div class="menu-merchandising-block">
-<a href="https://www.universalstore.com/mens.html"><img src="https://www.universalstore.com/media/wysiwyg/2017/week_18/week-18-mens-whats-new-menu-lower.jpg" alt="Shop New Men's Online"><p>Shop New Men's</p></a> </div>
+<a href="https://www.universalstore.com/mens.html"><img src="https://www.universalstore.com/media/wysiwyg/2019/Week_04/mens-new-nav.jpg" alt="Shop New Mens Online"><p>Shop New Mens</p></a> </div>
 </ul>
 </li><li class="store-category clothing">
 <a href="https://www.universalstore.com/mens.html" alt="Shop All mens Clothing" title="Shop All mens Clothing">
@@ -286,23 +390,28 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <span class="secondlevelcategory-link">Singlets &amp; Tanks</span>
 </a>
 </li>
+<li class="secondlevelcategory Underwear">
+<a href="https://www.universalstore.com/mens/underwear.html" alt="Underwear Category" title="Underwear Category">
+<span class="secondlevelcategory-link">Underwear</span>
+</a>
+</li>
 <li class="secondlevelcategory shopall">
 <a href="https://www.universalstore.com/mens.html" alt="Shop All MENS" title="Shop All MENS">
 <span class="secondlevelcategory-link">Shop All Mens Clothing</span>
 </a>
 </li>
 <div class="menu-merchandising-block">
-<a href="https://www.universalstore.com/mens/jeans.html"><img src="https://www.universalstore.com/media/wysiwyg/2017/week_18/week-18-mens-clothing-menu-jeans.jpg" alt="Shop New Men's Jeans Online"><p>Shop Men's Jeans</p></a> </div>
+<a href="https://www.universalstore.com/mens/shorts.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/nav-blocks/mens-clothing-nav.jpg" alt="Shop New Men's Shorts Online"><p>Shop Men's Shorts</p></a> </div>
 </ul>
 </li>
 <li class="store-category accessories">
-<a href="https://www.universalstore.com/mens/accessories.html" alt="Accessories Category" title="Deals Category">
+<a href="https://www.universalstore.com/mens/accessories.html" alt="Accessories Category" title="Accessories Category">
 <span class="store-category-link">Accessories</span>
 </a>
 <ul class="secondlevel-nav">
 <li class="secondlevelcategory Watches">
 <a href="https://www.universalstore.com/mens/accessories/watches.html" alt="Watches Category" title="Watches Category">
-<span class="secondlevelcategory-link">Watches</span>
+ <span class="secondlevelcategory-link">Watches</span>
 </a>
 </li>
 <li class="secondlevelcategory Headwear">
@@ -310,14 +419,19 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <span class="secondlevelcategory-link">Headwear</span>
 </a>
 </li>
+<li class="secondlevelcategory Backpacks">
+<a href="https://www.universalstore.com/mens/accessories/backpacks.html" alt="Backpacks Category" title="Backpacks Category">
+<span class="secondlevelcategory-link">Backpacks</span>
+</a>
+</li>
 <li class="secondlevelcategory Bags">
 <a href="https://www.universalstore.com/mens/accessories/bags.html" alt="Bags Category" title="Bags Category">
 <span class="secondlevelcategory-link">Bags</span>
 </a>
 </li>
-<li class="secondlevelcategory Wallets &amp; Cases">
-<a href="https://www.universalstore.com/mens/accessories/wallets.html" alt="Wallets &amp; Cases Category" title="Wallets &amp; Cases Category">
-<span class="secondlevelcategory-link">Wallets &amp; Cases</span>
+<li class="secondlevelcategory Wallets, Cases &amp; Keyrings">
+<a href="https://www.universalstore.com/mens/accessories/wallets.html" alt="Wallets, Cases &amp; Keyrings Category" title="Wallets, Cases &amp; Keyrings Category">
+<span class="secondlevelcategory-link">Wallets, Cases &amp; Keyrings</span>
 </a>
 </li>
 <li class="secondlevelcategory Socks">
@@ -340,14 +454,9 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <span class="secondlevelcategory-link">Belts</span>
 </a>
 </li>
-<li class="secondlevelcategory Underwear">
-<a href="https://www.universalstore.com/mens/accessories/underwear.html" alt="Underwear Category" title="Underwear Category">
-<span class="secondlevelcategory-link">Underwear</span>
-</a>
-</li>
-<li class="secondlevelcategory Gifts">
-<a href="https://www.universalstore.com/mens/accessories/gifts-427.html" alt="Gifts Category" title="Gifts Category">
-<span class="secondlevelcategory-link">Gifts</span>
+<li class="secondlevelcategory Jewellery ">
+<a href="https://www.universalstore.com/mens/accessories/jewellery-206.html" alt="Jewellery  Category" title="Jewellery  Category">
+<span class="secondlevelcategory-link">Jewellery </span>
 </a>
 </li>
 <li class="secondlevelcategory shopall">
@@ -356,17 +465,27 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </a>
 </li>
 <div class="menu-merchandising-block">
-<a href="https://www.universalstore.com/mens/accessories/headwear.html"><img src="https://www.universalstore.com/media/wysiwyg/2017/week_14/week-14-mens-accessories-menu-hats.jpg" alt="Shop Men's Caps Online"><p>Shop Men's Caps</p></a> </div>
+<a href="https://www.universalstore.com/mens/accessories/headwear.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/nav-blocks/mens-accessories-nav.jpg" alt="Shop Mens Hats Online"><p>Shop Mens Hats</p></a> </div>
 </ul>
 </li>
 <li class="store-category shoes">
-<a href="https://www.universalstore.com/mens/shoes.html" alt="Shoes Category" title="Deals Category">
+<a href="https://www.universalstore.com/mens/shoes.html" alt="Shoes Category" title="Shoes Category">
 <span class="store-category-link">Shoes</span>
 </a>
 <ul class="secondlevel-nav">
+<li class="secondlevelcategory All Black Shoes">
+<a href="https://www.universalstore.com/mens/shoes/mens-black-shoes.html" alt="All Black Shoes Category" title="All Black Shoes Category">
+<span class="secondlevelcategory-link">All Black Shoes</span>
+</a>
+</li>
 <li class="secondlevelcategory Sneakers">
 <a href="https://www.universalstore.com/mens/shoes/sneakers.html" alt="Sneakers Category" title="Sneakers Category">
 <span class="secondlevelcategory-link">Sneakers</span>
+</a>
+</li>
+<li class="secondlevelcategory Slides &amp; Sandals">
+<a href="https://www.universalstore.com/mens/shoes/slides.html" alt="Slides &amp; Sandals Category" title="Slides &amp; Sandals Category">
+<span class="secondlevelcategory-link">Slides &amp; Sandals</span>
 </a>
 </li>
 <li class="secondlevelcategory Boots">
@@ -405,7 +524,7 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </a>
 </li>
 <div class="menu-merchandising-block">
-<a href="https://www.universalstore.com/mens/shoes/sneakers.html"><img src="https://www.universalstore.com/media/wysiwyg/2017/week_14/week-14-mens-shoes-menu-new-balance.jpg" alt="Shop Men's Sneakers Online Now"><p>Shop Men's Sneakers</p></a> </div>
+<a href="https://www.universalstore.com/mens/shopby/vans.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/nav-blocks/mens-shoes-nav.jpg" alt="Shop Men's Shoes Online Now"><p>Shop Men's Vans</p></a> </div>
 </ul>
 </li>
 <li class="store-category deals">
@@ -433,37 +552,36 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <span class="secondlevelcategory-link">Second Pair Half Price Shorts</span>
 </a>
 </li>
-<li class="secondlevelcategory 2 For $70 3 For $100 Tees &amp; Tanks">
-<a href="https://www.universalstore.com/mens/deals-mens/2-for-70-3-for-100-common-need-tees-tanks.html" alt="2 For $70 3 For $100 Tees &amp; Tanks Category" title="2 For $70 3 For $100 Tees &amp; Tanks Category">
-<span class="secondlevelcategory-link">2 For $70 3 For $100 Tees &amp; Tanks</span>
+<li class="secondlevelcategory 2 For $80 3 For $100 Tees &amp; Tanks">
+<a href="https://www.universalstore.com/mens/deals-mens/2-for-80-3-for-100-common-need-tees-tanks.html" alt="2 For $80 3 For $100 Tees &amp; Tanks Category" title="2 For $80 3 For $100 Tees &amp; Tanks Category">
+<span class="secondlevelcategory-link">2 For $80 3 For $100 Tees &amp; Tanks</span>
 </a>
 </li>
 <div class="menu-merchandising-block left-position-merchandising-block">
-<a href="https://www.universalstore.com/mens/deals-mens/2-for-40-basic-t-shirts-singlets.html"><img src="https://www.universalstore.com/media/wysiwyg/2017/week_18/week-18-mens-deals-menu-2-for-40.jpg" alt="Shop Mens Deals"><p>2 For $40</p></a> </div>
+<a href="https://www.universalstore.com/mens/deals-mens/2-for-40-basic-t-shirts-singlets.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/nav-blocks/mens-deals.gif" alt="Shop Mens Deals"><p>2 for $40</p></a> </div>
 </ul>
 </li>
 <li class="store-category brands">
-<a href="http://www.universalstore.com/shop-by-brand.html" alt="Shop From Universal Stores 100+ Brands" title="Shop By Brand" class="brandlink">
+<a href="https://www.universalstore.com/shop-by-brand.html" alt="Shop From Universal Stores 100+ Brands" title="Shop By Brand" class="brandlink">
 <span class="store-category-link">Brands</span></a>
 <ul class="secondlevel-nav">
 <div class="menu-merchandising-block left-position-merchandising-block">
-<a href="https://www.universalstore.com/thrills.html"><img src="https://www.universalstore.com/media/wysiwyg/2017/week_18/week-18-mens-brands-menu-thrills.jpg" alt="Shop Thrills Online"><p>Shop Thrills</p></a> </div>
+<a href="https://www.universalstore.com/mens/shopby/thrills.html"><img src="https://www.universalstore.com/media/wysiwyg/2019/Week_04/mens-brands-nav.jpg" alt="Shop Thrills Online"><p>Shop Thrills</p></a> </div>
 <div class="header-brands-list gender-brand-list">
 <ul class="header-brands-list-half">
 <li class="brandlist-item"><a href="https://www.universalstore.com/abrand.html" alt="Abrand"><span>Abrand</span></a></li>
-<li class="brandlist-item"><a href="https://www.universalstore.com/adidas.html" alt="Adidas"><span>adidas</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/as_colour.html" alt="AS Colour"><span>AS Colour</span></a></li>
+<li class="brandlist-item"><a href="https://www.universalstore.com/barney_cools.html" alt="Barney Cools"><span>Barney Cools</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/common_need.html" alt="Common Need"><span>Common Need</span></a></li>
-<li class="brandlist-item"><a href="https://www.universalstore.com/converse.html" alt="Brixton"><span>Converse</span></a></li>
-<li class="brandlist-item"><a href="https://www.universalstore.com/hilfiger_denim.html" alt="Hilfiger Denim"><span>Hilfiger Denim</span></a></li>
+<li class="brandlist-item"><a href="https://www.universalstore.com/champion.html" alt="Champion"><span>Champion</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/kiss_chacey.html" alt="Kiss Chacey"><span>Kiss Chacey</span></a></li>
-<li class="brandlist-item"><a href="https://www.universalstore.com/lacoste.html" alt="Lacoste"><span>Lacoste</span></a></li>
-</ul><ul class="header-brands-list-half">
 <li class="brandlist-item"><a href="https://www.universalstore.com/lee.html" alt="Lee"><span>Lee</span></a></li>
+</ul><ul class="header-brands-list-half">
+<li class="brandlist-item"><a href="https://www.universalstore.com/lacoste.html" alt="Lacoste"><span>Lacoste</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/new_balance.html" alt="New Balance"><span>New Balance</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/nixon.html" alt="Nixon"><span>Nixon</span></a></li>
-<li class="brandlist-item"><a href="https://www.universalstore.com/stussy.html" alt="Stussy"><span>Stussy</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/thrills.html" alt="Thrills"><span>Thrills</span></a></li>
+<li class="brandlist-item"><a href="https://www.universalstore.com/tommy_jeans.html" alt="Tommy Jeans"><span>Tommy Jeans</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/vans.html" alt="Vans"><span>Vans</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/wrangler.html" alt="Wrangler"><span>Wrangler</span></a></li>
 <li class="brandlist-item" style="font-weight:bold;"><a href="https://www.universalstore.com/shop-by-brand.html" alt="All Brands A-Z"><span>All Brands A-Z</span></a></li>
@@ -472,12 +590,37 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </ul>
 </li>
 <li class="store-category sale">
-<a href="http://www.universalstore.com/mens/shopby/mens/on_sale.html" alt="The Cheapest Fashion Available On UniversalStore.com" title="Universal Stores Secret Sale Bargains" class="salelink">
+<a href="https://www.universalstore.com/mens/shopby/mens/on_sale.html" alt="The Cheapest Fashion Available On UniversalStore.com" title="Universal Stores Secret Sale Bargains" class="salelink">
 <span class="store-category-link">Sale</span>
 </a>
 <ul class="secondlevel-nav full-width">
 <li class="sale-menu-blockwomens">
-<p><a href="https://www.universalstore.com/mens/shopby/mens/on_sale.html"><img src="https://www.universalstore.com/media/wysiwyg/home-page-blocks/mens-sale-menu-block.jpg" alt="Shop Mens Sale Online Now"></a></p> </li>
+<div class="boxing-day-mens">
+<a href="https://www.universalstore.com/mens/shopby/mens/on_sale.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/Week_52/mens-sale-nav-banner.jpg" alt="Shop Men's Sale Fashion Online"></a>
+</div>
+<div class="extra-25-mens">
+<a href="https://www.universalstore.com/mens/shopby/mens/on_sale.html"><img src="https://www.universalstore.com/media/wysiwyg/2019/Week_01/mens-sale-nav-banner.gif" alt="Shop Men's Sale Fashion Online"></a>
+</div>
+<style>
+.extra-25-mens{
+display:none;}
+
+</style>
+<script>
+$j(document).ready(function(){
+timenow = new Date().getTime();
+
+if (timenow > 1545660000000 && timenow < 1546410300000) {
+ jQuery('.boxing-day-mens').show();
+} else {
+ jQuery('.boxing-day-mens').hide();
+}
+if (timenow > 1546410300000) {
+ jQuery('.extra-25-mens').show();
+}
+
+});
+</script> </li>
 <div class="clearfix"></div>
 </ul>
 </li>
@@ -493,7 +636,7 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </a>
 <ul class="secondlevel-nav">
 <li class="secondlevelcategory New Products">
-<a href="https://www.universalstore.com/womens/new-womens/new-products-276.html" alt="New Products Category" title="New Products Category">
+<a href="https://www.universalstore.com/womens/new-womens/new-products-853.html" alt="New Products Category" title="New Products Category">
 <span class="secondlevelcategory-link">New Products</span>
 </a>
 </li>
@@ -502,19 +645,64 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <span class="secondlevelcategory-link">Most Wanted</span>
 </a>
 </li>
+<li class="secondlevelcategory Festival Edit">
+<a href="https://www.universalstore.com/womens/new-womens/festival-outfits.html" alt="Festival Edit Category" title="Festival Edit Category">
+<span class="secondlevelcategory-link">Festival Edit</span>
+</a>
+</li>
+<li class="secondlevelcategory Animal Print">
+<a href="https://www.universalstore.com/womens/new-womens/animal-print.html" alt="Animal Print Category" title="Animal Print Category">
+<span class="secondlevelcategory-link">Animal Print</span>
+</a>
+</li>
+<li class="secondlevelcategory Colour Crush">
+<a href="https://www.universalstore.com/womens/new-womens/colour-crush.html" alt="Colour Crush Category" title="Colour Crush Category">
+<span class="secondlevelcategory-link">Colour Crush</span>
+</a>
+</li>
 <li class="secondlevelcategory Gift Cards">
 <a href="https://www.universalstore.com/womens/new-womens/gift-cards.html" alt="Gift Cards Category" title="Gift Cards Category">
 <span class="secondlevelcategory-link">Gift Cards</span>
 </a>
 </li>
-<li class="secondlevelcategory Washed Blue Denim">
-<a href="https://www.universalstore.com/womens/new-womens/washed-blue-denim.html" alt="Washed Blue Denim Category" title="Washed Blue Denim Category">
-<span class="secondlevelcategory-link">Washed Blue Denim</span>
+<li class="secondlevelcategory Digital Gift Cards">
+<a href="https://www.universalstore.com/womens/new-womens/digital-gift-cards.html" alt="Digital Gift Cards Category" title="Digital Gift Cards Category">
+<span class="secondlevelcategory-link">Digital Gift Cards</span>
+</a>
+</li>
+<li class="secondlevelcategory Linen &amp; Linen Look">
+<a href="https://www.universalstore.com/womens/new-womens/linen.html" alt="Linen &amp; Linen Look Category" title="Linen &amp; Linen Look Category">
+<span class="secondlevelcategory-link">Linen &amp; Linen Look</span>
+</a>
+</li>
+<li class="secondlevelcategory Trending: Stripes">
+<a href="https://www.universalstore.com/womens/new-womens/womens-stripes.html" alt="Trending: Stripes Category" title="Trending: Stripes Category">
+<span class="secondlevelcategory-link">Trending: Stripes</span>
+</a>
+</li>
+<li class="secondlevelcategory Check It Out">
+<a href="https://www.universalstore.com/womens/new-womens/plaid.html" alt="Check It Out Category" title="Check It Out Category">
+<span class="secondlevelcategory-link">Check It Out</span>
+</a>
+</li>
+<li class="secondlevelcategory Summer Fling">
+<a href="https://www.universalstore.com/womens/new-womens/summer-fling.html" alt="Summer Fling Category" title="Summer Fling Category">
+<span class="secondlevelcategory-link">Summer Fling</span>
+</a>
+</li>
+<li class="secondlevelcategory Event Wear">
+<a href="https://www.universalstore.com/womens/new-womens/womens-event-wear.html" alt="Event Wear Category" title="Event Wear Category">
+<span class="secondlevelcategory-link">Event Wear</span>
+</a>
+</li>
+<li class="secondlevelcategory Corduroy">
+<a href="https://www.universalstore.com/womens/new-womens/womens-corduroy.html" alt="Corduroy Category" title="Corduroy Category">
+<span class="secondlevelcategory-link">Corduroy</span>
 </a>
 </li>
 
 <div class="menu-merchandising-block">
-<a href="https://www.universalstore.com/womens.html"><img src="https://www.universalstore.com/media/wysiwyg/2017/week_18/week-18-womens-whats-new-menu-thrills.jpg" alt="Shop New Women's Fashion Online"><p>Shop New Women's</p></a> </div>
+<a href="https://www.universalstore.com/womens.html"><img src="https://www.universalstore.com/media/wysiwyg/2019/Week_04/womens-new-nav.jpg" alt="Shop New Women's Fashion Online"><p>Shop New Womens</p></a> </div>
 </ul>
 </li><li class="store-category clothing">
 <a href="https://www.universalstore.com/womens.html" alt="Shop All womens Clothing" title="Shop All womens Clothing">
@@ -546,9 +734,9 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <span class="secondlevelcategory-link">Tees &amp; Tops </span>
 </a>
 </li>
-<li class="secondlevelcategory Playsuits">
-<a href="https://www.universalstore.com/womens/playsuits.html" alt="Playsuits Category" title="Playsuits Category">
-<span class="secondlevelcategory-link">Playsuits</span>
+<li class="secondlevelcategory Playsuits &amp; Jumpsuits ">
+<a href="https://www.universalstore.com/womens/playsuits.html" alt="Playsuits &amp; Jumpsuits  Category" title="Playsuits &amp; Jumpsuits  Category">
+<span class="secondlevelcategory-link">Playsuits &amp; Jumpsuits </span>
 </a>
 </li>
 <li class="secondlevelcategory Skirts">
@@ -564,6 +752,11 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <li class="secondlevelcategory Pants">
 <a href="https://www.universalstore.com/womens/pants.html" alt="Pants Category" title="Pants Category">
 <span class="secondlevelcategory-link">Pants</span>
+</a>
+</li>
+<li class="secondlevelcategory Underwear">
+<a href="https://www.universalstore.com/womens/underwear.html" alt="Underwear Category" title="Underwear Category">
+<span class="secondlevelcategory-link">Underwear</span>
 </a>
 </li>
 <li class="secondlevelcategory Swimwear">
@@ -582,11 +775,11 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </a>
 </li>
 <div class="menu-merchandising-block">
-<a href="https://www.universalstore.com/womens/outerwear.html"><img src="https://www.universalstore.com/media/wysiwyg/2017/week_18/week-18-womens-clothing-menu-outerwear.jpg" alt="Shop Women's Outerwear"><p>Shop Women's Outerwear</p></a> </div>
+<a href="https://www.universalstore.com/womens/dresses.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/nav-blocks/womens-clothing-nav.jpg" alt="Shop Women's Dresses Online"><p>Shop Women's Dresses</p></a> </div>
 </ul>
 </li>
 <li class="store-category accessories">
-<a href="https://www.universalstore.com/womens/accessories.html" alt="Accessories Category" title="Sets &amp; Coordinates  Category">
+<a href="https://www.universalstore.com/womens/accessories.html" alt="Accessories Category" title="Accessories Category">
 <span class="store-category-link">Accessories</span>
 </a>
 <ul class="secondlevel-nav">
@@ -598,6 +791,11 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <li class="secondlevelcategory Sunglasses">
 <a href="https://www.universalstore.com/womens/accessories/sunglasses.html" alt="Sunglasses Category" title="Sunglasses Category">
 <span class="secondlevelcategory-link">Sunglasses</span>
+</a>
+</li>
+<li class="secondlevelcategory Backpacks">
+<a href="https://www.universalstore.com/womens/accessories/backpacks.html" alt="Backpacks Category" title="Backpacks Category">
+<span class="secondlevelcategory-link">Backpacks</span>
 </a>
 </li>
 <li class="secondlevelcategory Bags">
@@ -625,14 +823,14 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <span class="secondlevelcategory-link">Socks</span>
 </a>
 </li>
-<li class="secondlevelcategory Chokers &amp; Jewellery">
-<a href="https://www.universalstore.com/womens/accessories/jewellery-790.html" alt="Chokers &amp; Jewellery Category" title="Chokers &amp; Jewellery Category">
-<span class="secondlevelcategory-link">Chokers &amp; Jewellery</span>
+<li class="secondlevelcategory Jewellery">
+<a href="https://www.universalstore.com/womens/accessories/jewellery-1367.html" alt="Jewellery Category" title="Jewellery Category">
+<span class="secondlevelcategory-link">Jewellery</span>
 </a>
 </li>
-<li class="secondlevelcategory Underwear">
-<a href="https://www.universalstore.com/womens/accessories/underwear.html" alt="Underwear Category" title="Underwear Category">
-<span class="secondlevelcategory-link">Underwear</span>
+<li class="secondlevelcategory Hair Accessories">
+<a href="https://www.universalstore.com/womens/accessories/hair-accessories.html" alt="Hair Accessories Category" title="Hair Accessories Category">
+<span class="secondlevelcategory-link">Hair Accessories</span>
 </a>
 </li>
 <li class="secondlevelcategory Scarves">
@@ -640,9 +838,9 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <span class="secondlevelcategory-link">Scarves</span>
 </a>
 </li>
-<li class="secondlevelcategory Gifts">
-<a href="https://www.universalstore.com/womens/accessories/gifts-427.html" alt="Gifts Category" title="Gifts Category">
-<span class="secondlevelcategory-link">Gifts</span>
+<li class="secondlevelcategory Beauty">
+<a href="https://www.universalstore.com/womens/accessories/beauty.html" alt="Beauty Category" title="Beauty Category">
+<span class="secondlevelcategory-link">Beauty</span>
 </a>
 </li>
 <li class="secondlevelcategory shopall">
@@ -651,14 +849,19 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </a>
 </li>
 <div class="menu-merchandising-block">
-<a href="https://www.universalstore.com/womens/accessories/watches.html"><img src="https://www.universalstore.com/media/wysiwyg/2017/week_18/week-18-womens-accessories-menu-watches.jpg" alt="Shop Women's Watches Online"><p>Shop Women's Watches</p></a> </div>
+<a href="https://www.universalstore.com/womens/accessories/hats.html"><img src="https://www.universalstore.com/media/wysiwyg/2019/Week_04/womens-accessories-nav.jpg" alt="Shop Womens Hats Online"><p>Shop Womens Hats</p></a> </div>
 </ul>
 </li>
 <li class="store-category shoes">
-<a href="https://www.universalstore.com/womens/shoes.html" alt="Shoes Category" title="Sets &amp; Coordinates  Category">
+<a href="https://www.universalstore.com/womens/shoes.html" alt="Shoes Category" title="Shoes Category">
 <span class="store-category-link">Shoes</span>
 </a>
 <ul class="secondlevel-nav">
+<li class="secondlevelcategory All Black Shoes">
+<a href="https://www.universalstore.com/womens/shoes/all-black-shoes.html" alt="All Black Shoes Category" title="All Black Shoes Category">
+<span class="secondlevelcategory-link">All Black Shoes</span>
+</a>
+</li>
 <li class="secondlevelcategory Sneakers">
 <a href="https://www.universalstore.com/womens/shoes/sneakers.html" alt="Sneakers Category" title="Sneakers Category">
 <span class="secondlevelcategory-link">Sneakers</span>
@@ -674,11 +877,6 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <span class="secondlevelcategory-link">Heels</span>
 </a>
 </li>
-<li class="secondlevelcategory Sandals and Flats">
-<a href="https://www.universalstore.com/womens/shoes/sandals-flats.html" alt="Sandals and Flats Category" title="Sandals and Flats Category">
-<span class="secondlevelcategory-link">Sandals and Flats</span>
-</a>
-</li>
 <li class="secondlevelcategory Dress Shoes">
 <a href="https://www.universalstore.com/womens/shoes/dress-shoes.html" alt="Dress Shoes Category" title="Dress Shoes Category">
 <span class="secondlevelcategory-link">Dress Shoes</span>
@@ -692,6 +890,11 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <li class="secondlevelcategory Casual Shoes">
 <a href="https://www.universalstore.com/womens/shoes/casual-shoes.html" alt="Casual Shoes Category" title="Casual Shoes Category">
 <span class="secondlevelcategory-link">Casual Shoes</span>
+</a>
+</li>
+<li class="secondlevelcategory Slides &amp; Sandals">
+<a href="https://www.universalstore.com/womens/shoes/slides.html" alt="Slides &amp; Sandals Category" title="Slides &amp; Sandals Category">
+<span class="secondlevelcategory-link">Slides &amp; Sandals</span>
 </a>
 </li>
 <li class="secondlevelcategory Shoe Care">
@@ -710,7 +913,7 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </a>
 </li>
 <div class="menu-merchandising-block">
-<a href="https://www.universalstore.com/womens/shoes/sneakers.html"><img src="https://www.universalstore.com/media/wysiwyg/2017/week_14/week-14-womens-shoes-menu-converse.jpg" alt="Shop Women's Sneakers Online"><p>Shop Women's Sneakers</p></a> </div>
+<a href="https://www.universalstore.com/womens/shoes.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/nav-blocks/womens-shoes-nav.jpg" alt="Shop Women's Shoes Online"><p>Shop Women's Shoes</p></a> </div>
 </ul>
 </li>
 <li class="store-category deals">
@@ -718,14 +921,19 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <span class="store-category-link">Deals</span>
 </a>
 <ul class="secondlevel-nav">
-<li class="secondlevelcategory 2 For $60 Dresses, Tops, Shorts &amp; Skirts">
-<a href="https://www.universalstore.com/womens/deals/womens-2-for-60.html" alt="2 For $60 Dresses, Tops, Shorts &amp; Skirts Category" title="2 For $60 Dresses, Tops, Shorts &amp; Skirts Category">
-<span class="secondlevelcategory-link">2 For $60 Dresses, Tops, Shorts &amp; Skirts</span>
-</a>
-</li>
 <li class="secondlevelcategory 2 For $40 Pare Basic Tops &amp; Tees">
 <a href="https://www.universalstore.com/womens/deals/2-for-40-tops-tees.html" alt="2 For $40 Pare Basic Tops &amp; Tees Category" title="2 For $40 Pare Basic Tops &amp; Tees Category">
 <span class="secondlevelcategory-link">2 For $40 Pare Basic Tops &amp; Tees</span>
+</a>
+</li>
+<li class="secondlevelcategory 2 for $50 Pare Basic">
+<a href="https://www.universalstore.com/womens/deals/2-for-50-pare-basic.html" alt="2 for $50 Pare Basic Category" title="2 for $50 Pare Basic Category">
+<span class="secondlevelcategory-link">2 for $50 Pare Basic</span>
+</a>
+</li>
+<li class="secondlevelcategory 2 For $60 Dresses, Tops, Shorts &amp; Skirts">
+<a href="https://www.universalstore.com/womens/deals/womens-2-for-60.html" alt="2 For $60 Dresses, Tops, Shorts &amp; Skirts Category" title="2 For $60 Dresses, Tops, Shorts &amp; Skirts Category">
+<span class="secondlevelcategory-link">2 For $60 Dresses, Tops, Shorts &amp; Skirts</span>
 </a>
 </li>
 <li class="secondlevelcategory 2 for $40 Silent Theory &amp; AS Colour Tops">
@@ -733,37 +941,36 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 <span class="secondlevelcategory-link">2 for $40 Silent Theory &amp; AS Colour Tops</span>
 </a>
 </li>
-<li class="secondlevelcategory 2 for $50 Silent Theory Tops">
-<a href="https://www.universalstore.com/womens/deals/2-for-50-silent-theory-tops.html" alt="2 for $50 Silent Theory Tops Category" title="2 for $50 Silent Theory Tops Category">
-<span class="secondlevelcategory-link">2 for $50 Silent Theory Tops</span>
+<li class="secondlevelcategory 2 for $50 Silent Theory &amp; AS Colour Tops">
+<a href="https://www.universalstore.com/womens/deals/2-for-50-silent-theory-tops.html" alt="2 for $50 Silent Theory &amp; AS Colour Tops Category" title="2 for $50 Silent Theory &amp; AS Colour Tops Category">
+<span class="secondlevelcategory-link">2 for $50 Silent Theory &amp; AS Colour Tops</span>
 </a>
 </li>
 <div class="menu-merchandising-block left-position-merchandising-block">
-<a href="https://www.universalstore.com/womens/deals/womens-2-for-60.html"><img src="https://www.universalstore.com/media/wysiwyg/2017/week_14/week-14-womens-deals-menu-2-for-60.jpg" alt="Shop 2 for $60 promo"><p>2 For $60</p></a> </div>
+<a href="https://www.universalstore.com/womens/deals/2-for-40-tops-tees.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/Week_33/womens-deals-nav.jpg" alt="Shop 2 for $40 promo"><p>2 For $40</p></a> </div>
 </ul>
 </li>
 <li class="store-category brands">
-<a href="http://www.universalstore.com/shop-by-brand.html" alt="Shop From Universal Stores 100+ Brands" title="Shop By Brand" class="brandlink">
+<a href="https://www.universalstore.com/shop-by-brand.html" alt="Shop From Universal Stores 100+ Brands" title="Shop By Brand" class="brandlink">
 <span class="store-category-link">Brands</span></a>
 <ul class="secondlevel-nav">
 <div class="menu-merchandising-block left-position-merchandising-block">
-<a href="https://www.universalstore.com/wrangler.html"><img src="https://www.universalstore.com/media/wysiwyg/2017/week_14/week-14-womens-brand-menu-wrangler.jpg" alt="Shop Wrangler Online"><p>Shop Wrangler</p></a> </div>
+<a href="https://www.universalstore.com/womens/shopby/thrills.html"><img src="https://www.universalstore.com/media/wysiwyg/2019/Week_04/womens-brands-nav.jpg" alt="Shop Thrills Online"><p>Shop Thrills</p></a> </div>
 <div class="header-brands-list gender-brand-list">
 <ul class="header-brands-list-half">
 <li class="brandlist-item"><a href="https://www.universalstore.com/abrand.html" alt="Abrand"><span>Abrand</span></a></li>
-<li class="brandlist-item"><a href="https://www.universalstore.com/adidas.html" alt="Adidas"><span>adidas</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/calvin_klein.html" alt="Calvin Klein"><span>Calvin Klein</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/converse.html" alt="Converse"><span>Converse</span></a></li>
-<li class="brandlist-item"><a href="https://www.universalstore.com/dr_martens.html" alt="Minkpink"><span>Dr Martens</span></a></li>
-<li class="brandlist-item"><a href="https://www.universalstore.com/lee.html" alt="Lee"><span>Lee</span></a></li>
+<li class="brandlist-item"><a href="https://www.universalstore.com/dr_martens.html" alt="Dr Martens"><span>Dr Martens</span></a></li>
+<li class="brandlist-item"><a href="https://www.universalstore.com/i_am_gia.html" alt="I Am Gia"><span>I AM GIA</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/luck_trouble.html" alt="Luck &amp; Trouble"><span>Luck &amp; Trouble</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/nobody_denim.html" alt="Nobody Denim"><span>Nobody Denim</span></a></li>
 </ul><ul class="header-brands-list-half">
-<li class="brandlist-item"><a href="https://www.universalstore.com/pare_basic.html" alt="One Teaspoon"><span>Pare Basic</span></a></li>
+<li class="brandlist-item"><a href="https://www.universalstore.com/pare_basic.html" alt="Pare Basic"><span>Pare Basic</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/perfect_stranger.html" alt="Perfect Stranger"><span>Perfect Stranger</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/quay.html" alt="Quay"><span>Quay</span></a></li>
-<li class="brandlist-item"><a href="https://www.universalstore.com/the_horse.html" alt="The Horse"><span>The Horse</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/thrills.html" alt="Thrills"><span>Thrills</span></a></li>
+<li class="brandlist-item"><a href="https://www.universalstore.com/tommy_jeans.html" alt="Tommy Jeans"><span>Tommy Jeans</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/wrangler.html" alt="Wrangler"><span>Wrangler</span></a></li>
 <li class="brandlist-item"><a href="https://www.universalstore.com/ziggy.html" alt="Ziggy"><span>Ziggy</span></a></li>
 <li class="brandlist-item" style="font-weight:bold;"><a href="https://www.universalstore.com/shop-by-brand.html" alt="All Brands A-Z"><span>All Brands A-Z</span></a></li>
@@ -773,23 +980,173 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 </ul>
 </li>
 <li class="store-category sale">
-<a href="http://www.universalstore.com/womens/shopby/womens/on_sale.html" alt="The Cheapest Fashion Available On UniversalStore.com" title="Universal Stores Secret Sale Bargains" class="salelink">
+<a href="https://www.universalstore.com/womens/shopby/womens/on_sale.html" alt="The Cheapest Fashion Available On UniversalStore.com" title="Universal Stores Secret Sale Bargains" class="salelink">
 <span class="store-category-link">Sale</span>
 </a>
 <ul class="secondlevel-nav full-width">
 <li class="sale-menu-blockwomens">
-<a href="https://www.universalstore.com/womens/shopby/womens/on_sale.html"><img src="https://www.universalstore.com/media/wysiwyg/home-page-blocks/womens-sale-menu-block.jpg" alt="Shop Womens Sale Online Now"></a> </li>
+<div class="boxing-day-womens">
+<a href="https://www.universalstore.com/womens/shopby/womens/on_sale.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/Week_52/womens-sale-nav-banner.jpg" alt="Shop Women's Sale Fashion Online"></a>
+</div>
+<div class="extra-25-womens">
+<a href="https://www.universalstore.com/womens/shopby/womens/on_sale.html"><img src="https://www.universalstore.com/media/wysiwyg/2019/Week_01/womens-sale-nav-banner.gif" alt="Shop Women's Sale Fashion Online"></a>
+</div>
+<style>
+.extra-25-womens{
+display:none;}
+
+</style>
+<script>
+$j(document).ready(function(){
+timenow = new Date().getTime();
+
+if (timenow > 1545660000000 && timenow < 1546410300000) {
+ jQuery('.boxing-day-womens').show();
+} else {
+ jQuery('.boxing-day-womens').hide();
+}
+if (timenow > 1546410300000) {
+ jQuery('.extra-25-womens').show();
+}
+
+});
+</script> </li>
+<div class="clearfix"></div>
+</ul>
+</li>
+</ul>
+</div> </div> </li>
+<li class="gifts-top-level top-level-category"><a href="https://www.universalstore.com/gifts-store" alt="Universal Store Gifts Store" title="Shop The Universal Store Gifts Online Store" class="storelinks"><span class="top-level-menu">Gifts</span></a>
+<div class="store-categories">
+<div class="max-wrapper">
+<ul class="store-categories-ul">
+<li class="store-category gift">
+<a href="https://www.universalstore.com/gifts/shop-all-gifts.html">
+<span class="store-category-link">Shop All Gifts</span>
+</a>
+<ul class="secondlevel-nav full-width">
+<li>
+<a href="https://www.universalstore.com/gift-shop-store"><img src="https://www.universalstore.com/media/wysiwyg/2018/gift-shop-2018/nav-blocks/nav-allgifts-banners.jpg" alt="Shop All Gifts"></a> </li>
+<div class="clearfix"></div>
+</ul>
+</li>
+<li class="store-category gift">
+<a href="https://www.universalstore.com/gifts/unisex-watches.html">
+<span class="store-category-link">Watches</span>
+</a>
+<ul class="secondlevel-nav full-width">
+<li>
+<a href="https://www.universalstore.com/gifts/unisex-watches.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/gift-shop-2018/nav-blocks/watches-banner.jpg" alt="Shop Watches Online Now"></a> </li>
+<div class="clearfix"></div>
+</ul>
+</li>
+<li class="store-category gift">
+<a href="https://www.universalstore.com/gifts/unisex-games.html">
+<span class="store-category-link">Games</span>
+</a>
+<ul class="secondlevel-nav full-width">
+<li>
+<a href="https://www.universalstore.com/gifts/unisex-games.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/gift-shop-2018/nav-blocks/games-banner.jpg" alt="Shop Games Online Now"></a> </li>
+<div class="clearfix"></div>
+</ul>
+</li>
+<li class="store-category gift">
+<a href="https://www.universalstore.com/gifts/unisex-caps-and-hats.html">
+<span class="store-category-link">Caps &amp; Hats</span>
+</a>
+<ul class="secondlevel-nav full-width">
+<li>
+<a href="https://www.universalstore.com/gifts/unisex-caps-and-hats.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/gift-shop-2018/nav-blocks/capsnhats-banner.jpg" alt="Shop Caps &amp; Hats Online Now"></a> </li>
+<div class="clearfix"></div>
+</ul>
+</li>
+<li class="store-category gift">
+<a href="https://www.universalstore.com/gifts/unisex-bags.html">
+<span class="store-category-link">Bags</span>
+</a>
+<ul class="secondlevel-nav full-width">
+<li>
+<a href="https://www.universalstore.com/gifts/unisex-bags.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/gift-shop-2018/nav-blocks/nav-bags-banner.jpg" alt="Shop Bags Online Now"></a> </li>
+<div class="clearfix"></div>
+</ul>
+</li>
+<li class="store-category gift">
+<a href="https://www.universalstore.com/gifts/unisex-sunglasses.html">
+<span class="store-category-link">Sunglasses</span>
+</a>
+<ul class="secondlevel-nav full-width">
+<li>
+<a href="https://www.universalstore.com/gifts/unisex-sunglasses.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/gift-shop-2018/nav-blocks/sunglasses-banner.jpg" alt="Shop Sunglasses Online Now"></a> </li>
+<div class="clearfix"></div>
+</ul>
+</li>
+<li class="store-category gift">
+<a href="https://www.universalstore.com/gifts/unisex-socks.html">
+<span class="store-category-link">Socks</span>
+</a>
+<ul class="secondlevel-nav full-width">
+<li>
+<a href="https://www.universalstore.com/gifts/unisex-socks.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/gift-shop-2018/nav-blocks/socks-banner.jpg" alt="Shop Socks Online Now"></a> </li>
+<div class="clearfix"></div>
+</ul>
+</li>
+<li class="store-category gift">
+<a href="https://www.universalstore.com/gifts/unisex-home-tech.html">
+<span class="store-category-link">Home &amp; Tech</span>
+</a>
+<ul class="secondlevel-nav full-width">
+<li>
+<a href="https://www.universalstore.com/gifts/unisex-home-tech.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/gift-shop-2018/nav-blocks/home-banner.jpg" alt="Shop Home &amp; Tech Online Now"></a> </li>
+<div class="clearfix"></div>
+</ul>
+</li>
+<li class="store-category gift">
+<a href="https://www.universalstore.com/gifts/unisex-shoes.html">
+<span class="store-category-link">Shoes</span>
+</a>
+<ul class="secondlevel-nav full-width">
+<li>
+<a href="https://www.universalstore.com/gifts/unisex-shoes.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/gift-shop-2018/nav-blocks/shoes-banner.jpg" alt="Shop Shoes Online Now"></a> </li>
+<div class="clearfix"></div>
+</ul>
+</li>
+<li class="store-category gift">
+<a href="https://www.universalstore.com/gifts/gift-cards.html">
+<span class="store-category-link">Gift Cards</span>
+</a>
+<ul class="secondlevel-nav full-width">
+<li>
+<a href="https://www.universalstore.com/gifts/gift-cards.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/gift-shop-2018/nav-blocks/giftcards-banner.jpg" alt="Shop Gift Cards Online Now"></a> </li>
+<div class="clearfix"></div>
+</ul>
+</li>
+<li class="store-category gift">
+<a href="https://www.universalstore.com/gifts/unisex-gifts-by-price.html">
+<span class="store-category-link">Gifts By Price</span>
+</a>
+<ul class="secondlevel-nav full-width">
+<li>
+<a href="https://www.universalstore.com/gifts/unisex-gifts-by-price.html"><img src="https://www.universalstore.com/media/wysiwyg/2018/gift-shop-2018/nav-blocks/price-banners.gif" alt="Shop Gifts By Price Online Now"></a> </li>
 <div class="clearfix"></div>
 </ul>
 </li>
 </ul>
 </div> </div> </li>
 <li><a href="https://www.universalstore.com/store-locator/" alt="View Universal Store Locations" title="View Universal Store Locations" class="storelinks storeslink"><span class="top-level-menu">Stores</span></a></li>
-<li class="bloglink"><a href="http://www.universalstore.com/blog/" alt="Universal Store Blog" title="View The Universal Store Blog" class="storelinks bloglink"><span class="top-level-menu">Blog</span></a></li>
+<li class="bloglink"><a href="https://www.universalstore.com/blog/" alt="Universal Store Blog" title="View The Universal Store Blog" class="storelinks bloglink"><span class="top-level-menu">Blog</span></a></li>
 </ul>
 </nav>
 <script type="text/javascript">
 $j(document).ready(function(){
+        //display account/ login link in menu for mobile
+        var acctName = $j.cookie('sliFirstName');
+        var isLoggedIn = acctName !== "" && acctName !== null && acctName !== undefined;
+
+        var html = '<a href="http://www.universalstore.com/customer/account' + (!isLoggedIn ? "/login" : "") + '" alt="' + (!isLoggedIn ? "Login" : "Account Dashboard") + '" title="' + (!isLoggedIn ? "Login" : "Account Dashboard") + '" class="storelinks accountlink">';
+        html += (!isLoggedIn ? '<span class="top-level-menu">Got an account? <span class="nav-underline">Login</span></span>' : '<span class="top-level-menu">Go to my <span class="nav-underline">account</span></span>');
+        html += '</a>';
+
+        $j('.account-mobile').html(html);
 /*  if($j(window).width() > 999){
     
     // TOP LEVEL CATEGORY
@@ -830,7 +1187,7 @@ $j(document).ready(function(){
 });
 
 </script>
-<form id="search_mini_form" action="//clothing.universalstore.com/search" method="get" onsubmit="return ajaxsearchsubmit(this);">
+<form id="search_mini_form" action="//clothing.universalstore.com/search" method="get">
 <div class="form-search">
 <input type="hidden" name="view" value="grid">
 <input id="search" type="text" name="w" value="" class="input-text" maxlength="128" autocomplete="off" placeholder="Search">
@@ -844,33 +1201,31 @@ $j(document).ready(function(){
 <span class="quick-links-label quick-link-text help-label">Help</span>
 <div class="pop-up-help">
 <i class="fa fa-times closeModal" style="color:#000; position:absolute; top: 5px; right:5px; cursor:pointer;"></i>
-<p><a href="http://www.universalstore.com/help">Contact Us</a></p>
-<p><a href="http://www.universalstore.com/shipping-policy">Shipping</a></p>
-<p><a href="http://www.universalstore.com/return-policy">Returns</a></p> </div>
+<p><a href="https://www.universalstore.com/help">Contact Us</a></p>
+<p><a href="https://www.universalstore.com/shipping-policy">Shipping</a></p>
+<p><a href="https://www.universalstore.com/return-policy">Returns</a></p> </div>
 </li>
 <li class="quick-links login customer-name">
 <span class="quick-links-label quick-link-text"><i class="fa fa-user"></i> Sign In</span>
-<iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)"></iframe>
-<script type="text/javascript" src="https://tags.bkrtx.com/js/bk-coretag.js"></script>
 <script type="text/javascript">
     $j(function() {
         $j('#login-form').on("submit", function(event) {
-            //event.preventDefault();
-            bkCoreTag();
+            trackingTag();
         });
     });
-    function bkCoreTag() {
+    function trackingTag() {
         var email = $j('#login-form input[name="login[username]"]').val();
         if (email) {
-            BKTAG.util.normalizeEmail(email);
-            BKTAG.addHash('e_id_m26339', 'e_id_s26339', email);
-            bk_doJSTag(26339, 1);
+            _etmc.push(["setOrgId", "100002245"]);
+            _etmc.push(["setUserInfo", {"email": email}]);
+            _etmc.push(["trackPageView"]);
         }
     }
 </script>
 <div class="block-mini-login pop-up-login">
 <i class="fa fa-times closeModal" style="color:#fff; position:absolute; top: 5px; right:5px; cursor:pointer;"></i>
 <form action="https://www.universalstore.com/customer/account/loginPost/" method="post" id="login-form">
+<input name="form_key" type="hidden" value="Ra8qtbl5D05AbXzd">
 <label for="mini-login">Your Email Address:</label><input type="text" name="login[username]" id="mini-login" class="input-text" placeholder="Email address">
 <label for="mini-password">Password:</label><input type="password" name="login[password]" id="mini-password" class="input-text" placeholder="Password">
 <div class="actions">
@@ -888,10 +1243,10 @@ $j(document).ready(function(){
 (<span class="cartqty">0</span>)
 </a>
 <div class="block block-cart">
- 
+
 <i class="fa fa-times closeModal" style="color:#fff; position:absolute; top: 5px; right:5px; cursor:pointer;"></i>
 <div class="block-content">
-<p class="empty">Whoops! You don't have any items in your shopping cart.</p><p class="empty">Why don't you get started by checking out some of our awesome deals?</p><div class="promo-suggestion"><p><a href="http://www.universalstore.com/mens/deals/2-for-40-basic-tees-tanks-singlets.html"><img src="https://www.universalstore.com/media/wysiwyg/2016/week_01/2-for-40-mens.jpg" alt="Shop Two Men's Tees &amp; Tanks for $40"></a></p></div><div class="promo-suggestion"><p><a href="http://www.universalstore.com/womens/deals/womens-2-for-60.html"><img src="https://www.universalstore.com/media/wysiwyg/2016/week_04/2-for-60-block.jpg" alt="Shop 2 for $60 women's dresses and skirts online now"></a></p></div> </div>
+<p class="empty">Whoops! You don't have any items in your shopping cart.</p><p class="empty">Why don't you get started by checking out some of our awesome deals?</p><div class="promo-suggestion"><p><a href="https://www.universalstore.com/mens/deals/2-for-40-basic-tees-tanks-singlets.html"><img src="https://www.universalstore.com/media/wysiwyg/2016/week_01/2-for-40-mens.jpg" alt="Shop Two Men's Tees &amp; Tanks for $40"></a></p></div><div class="promo-suggestion"><p><a href="https://www.universalstore.com/womens/deals/womens-2-for-60.html"><img src="https://www.universalstore.com/media/wysiwyg/2016/week_04/2-for-60-block.jpg" alt="Shop 2 for $60 women's dresses and skirts online now"></a></p></div> </div>
 </div>
 </li>
 </ul>
@@ -924,7 +1279,6 @@ $j(document).ready(function(){
         $j('.block-cart .block-content').replaceWith(cartInfo);
     } else {
                 var emptyCart = "<div class='block-content'><p class='empty'>Whoops! You don't have any items in your shopping cart.</p><p class='empty'>Why don't you get started by checking out some of our awesome deals?</p><div class='promo-suggestion'><p><a href='http://www.universalstore.com/mens/deals/2-for-40-basic-tees-tanks-singlets.html'><img src='https://www.universalstore.com/media/wysiwyg/2016/week_01/2-for-40-mens.jpg' alt='Shop Two Men&#39;s Tees & Tanks for $40' /></a></p></div><div class='promo-suggestion'><p><a href='http://www.universalstore.com/womens/deals/womens-2-for-60.html'><img src='https://www.universalstore.com/media/wysiwyg/2016/week_04/2-for-60-block.jpg' alt='Shop 2 for $60 women&#39;s dresses and skirts online now' /></a></p></div></div>";
-        console.log(emptyCart);
         $j('.block-cart .block-content').replaceWith(emptyCart);
     }
 </script>
@@ -943,89 +1297,365 @@ $j(document).ready(function(){
 <div class="page-title">
 <h1>Privacy Policy</h1>
 </div>
-<div class="std"><p><span><strong>UNIVERSAL STORE PTY LTD PRIVACY AND LEGAL TERMS</strong></span></p>
-<p><span><strong><br></strong></span></p>
-<p><strong>DISCLAIMER</strong></p>
-<p>Although care is taken to provide accurate information, we cannot guarantee the accuracy of the information we post. For example, prices may be subject to change, not all styles will be available in all stores, and typographical errors can sometimes occur. In the case of the discovery of an error the details on the website will be changed (or removed, if removal is deemed necessary) within a reasonable time frame. This is a manual process, however, so please realise that we may not be able to remove or edit particular parts immediately.</p>
-<p>Any user who discovers any misleading information on the website is encouraged to&nbsp;<a href="http://www.universalstore.com/default/help">contact us</a>.</p>
-<p><strong>PRIVACY</strong></p>
-<p>No personal information is automatically collected from users of this site. Personally identifiable data about users is known to Universal Store Pty Ltd only when voluntarily submitted by users of the site. However, certain non-personal information of users (for example, the type of browser being used, the operating system used by the user and the domain name of the user’s Internet service provider) is collected. This information is primarily used for internal purposes, but only in an aggregate form (individual users cannot be identified). Universal Store Pty Ltd reserves the right to alter this policy at any time.   The information you provide us with via the sign up form is used in an email list. Submission of your email addresses and other detail shall be deemed to constitute permission to communicate with you using those details. Your details will form part of the guidelines for us to communicate with you as an individual. We may also use the information to try to contact you (for example, if you are a winner in a competition). Your personal details are collected by Campaign Monitor third party, who assists us with providing, maintaining and improving our website. We have in place with Campaign Monitor a written agreement that they will abide by the National Privacy Principles in respect of the use, disclosure and security of your personal information. If you don’t submit all the details requested on the form, we won’t be able to include you on our email list.</p>
-<p><strong>What kind of personal information do we collect?</strong></p>
-<p>email subscription:</p>
+<div class="std"><p dir="ltr"><span>We’ll always keep your data safe and secure. To keep you in the know, our privacy policy gives you detailed information on when and why we collect your personal information, how it’s used, and how we ensure it’s kept secure. If you have any questions about how we protect your privacy, please contact us at “email”</span></p>
+<p dir="ltr"><span>For all of our services, the Data Controller is Universal Store PTY LTD of 6/2 Jenner Street, Nundah 4012 QLD, who is responsible for personal data collected through the </span><a href="https://www.universalstore.com"><span>www.universalstore.com</span></a><span> website. </span></p>
+<h3 dir="ltr"><strong>How to Contact Us?</strong></h3>
+<p dir="ltr"><span>If you have any questions or comments about our privacy practices or how we use your data, please call Universal Store Help on 1300 553 520 or email </span><a href="mailto:help@universalstore.com.au"><span>help@universalstore.com.au</span></a><span> Monday to Friday 8am to 5pm AEST..</span></p>
+<h3 dir="ltr"><strong>DISCLAIMER</strong></h3>
+<p dir="ltr"><span>Although care is taken to provide accurate information, we cannot guarantee the accuracy of the information we post. For example, prices may be subject to change, not all styles will be available in all stores, and typographical errors can sometimes occur. In the case of the discovery of an error the details on the website will be changed (or removed, if removal is deemed necessary) within a reasonable time frame. This is a manual process, however, so please realise that we may not be able to remove or edit particular parts immediately.</span></p>
+<p dir="ltr"><span>Any user who discovers any misleading information on our website is encouraged to </span><a href="https://www.universalstore.com/default/help"><span>contact us</span></a><span>.</span></p>
+<h2 dir="ltr"><span>Our commitment to you</span></h2>
+<h3 dir="ltr"><span>PRIVACY</span></h3>
+<p dir="ltr"><span>No personal information is automatically collected from users of this site. Personally identifiable data about users is known to Universal Store Pty Ltd only when voluntarily submitted by users of the site. However, certain non-personal information of users (for example, the type of browser being used, the operating system used by the user and the domain name of the user’s Internet service provider) is collected. This information is primarily used for internal purposes, but only in an aggregate form (individual users cannot be identified). Universal Store Pty Ltd reserves the right to alter this policy at any time.   </span></p>
+<p dir="ltr"><span>The information you provide us with via the sign up form is used in an email list. Submission of your email addresses and other details shall be deemed to constitute permission to communicate with you using those details. Your details will form part of the guidelines for us to communicate with you as an individual. We may also use the information to try to contact you (for example, if you are a winner in a competition). </span></p>
+<h2 dir="ltr"><span>How we collect your personal information</span></h2>
+<p dir="ltr"><span>We may collect your personal data in the following ways listed below:</span></p>
 <ul>
-<li>name;</li>
-<li>email address;</li>
-<li>date of birth;</li>
-<li>postcode; and</li>
-<li>gender.</li>
+<li dir="ltr">
+<p dir="ltr"><span>When you register or use universalstore.com (the website)</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>When you contact us by phone, email or live chat</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>When you register for our newsletter using the online form submission</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>When you enter any competitions run by Universal Store</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>When completing any optional surveys that we may send to you</span></p>
+</li>
 </ul>
-<p>website account:</p>
+<h2 dir="ltr"><span>The personal data we collect</span></h2>
+<h3 dir="ltr"><span>What kind of personal information do we collect?</span></h3>
 <ul>
-<li>name;</li>
-<li>email address;</li>
-<li>date of birth;</li>
-<li>postcode;</li>
-<li>gender;</li>
-<li>billing address;</li>
-<li>shipping address; and</li>
-<li>order history.</li>
+<li dir="ltr">
+<p dir="ltr"><span>Title</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Name and surname</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Email address</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Date of birth</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Postcode</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Contact phone number (s)</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Gender</span></p>
+</li>
 </ul>
-<p>We do not collect sensitive information about you unless required by applicable laws or rules. Sensitive information includes information relating to:</p>
 <ul>
-<li>Race or ethnicity;</li>
-<li> Political or religious beliefs or affiliations;</li>
-<li> Philosophical beliefs;</li>
-<li> Sexual preferences;</li>
-<li> Criminal convictions;</li>
-<li> Membership of professional or trade associations or unions; or&nbsp;</li>
-<li>Health information or genetic information.</li>
+<li dir="ltr">
+<p dir="ltr"><span>Billing address</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Shipping address(s)</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Order history</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Purchase information</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Payment details</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Preferred store, categories and brands</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Interactions with customer our Customer Service team</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Automatically populated (IP) address</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Information from cookies</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Login data (username and password. Password information is encrypted, it is completely invisible including to our customer service team.)</span></p>
+</li>
 </ul>
-<p><strong>Why do we collect data?</strong></p>
-<p>The purpose for which we collect data and personal information is to facilitate online purchasing and the marketing of our goods and services. We may also use the data for:</p>
+<p dir="ltr"><span>We do not collect sensitive information. Sensitive information includes information relating to:</span></p>
 <ul>
-<li>Internal record keeping.</li>
-<li>Improving our products and services.</li>
-<li>Periodically sending you promotional emails via the address you provided about new products, special offers or other information we think you may find interesting.</li>
-<li>Contacting you to confirm order information, or to resolve any other issues related to purchases.&nbsp;</li>
-<li>Modifying the website according to customer interests.</li>
+<li dir="ltr">
+<p dir="ltr"><span>Race or ethnicity;</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Political or religious beliefs or affiliations;</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Philosophical beliefs;</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Sexual preferences;</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Criminal convictions;</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Membership of professional or trade associations or unions; or </span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Health information or genetic information.</span></p>
+</li>
 </ul>
-<p>If you want to access the data we have collected from you, or want to correct any personal information, please&nbsp;<a href="http://www.universalstore.com/default/help">contact us</a>.&nbsp;</p>
-<p>If you have an enquiry or &nbsp;complaint regarding any privacy issues, contact us by email at help@universalstore.com.au, or by calling 1300 553 520. A ticket will be lodged for which you will receive a reference number. A representative from our eCommerce team will investigate your enquiry, and be in contact with you to resolve any issues. &nbsp;&nbsp;</p>
-<p>Although care is taken to provide accurate information, please be aware that we cannot guarantee the accuracy of the information we send you. For example, prices may be subject to change, not all styles will be available in all stores, and typographical errors are likely to occur. Once an email containing errors is sent to you we cannot correct it. In the case of the discovery of an error in a sent email we may or may not notify you of the error.</p>
-<p><strong>How can you stop receiving Universal Store communications including direct marketing material?</strong>&nbsp;&nbsp;</p>
-<p>You can easily subscribe (join) and unsubscribe (leave) to the mailing list at any time. The information you submit is kept in a secure database, for use exclusively by Universal Store Pty Ltd.&nbsp; When you subscribe, you will receive emails from us that may contain details of promotions, marketing initiatives, offers and other information relevant to Universal Store. &nbsp; We can monitor which emails you receive from Universal Store Pty Ltd. We reserve the right to discontinue this service or unsubscribe you without notification.   </p>
-<p>Each email you receive will contain easy instructions on how to unsubscribe.&nbsp;</p>
-<p>You can also unsubscribe/opt out of our mailing list, and update your information by visiting our Universal Store Email Preference Center&nbsp;</p>
-<p><strong>MORE iNFORMATION&nbsp;</strong></p>
-<p>More information about Privacy law and the National Privacy Principles is available from the Office of the Austrlian Information Commissioner’s website&nbsp;<a href="http://www.oaic.gov.au/">www.oaic.gov.au</a>.</p>
-<p><strong>ONLINE SECURITY</strong></p>
-<p>Universal Store Pty Ltd utilises a variety of security measures to maintain the safety of your personal information. All user contact information is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems.&nbsp;</p>
-<p>Credit card numbers are not stored in our systems in accordance with the highest of&nbsp;<a href="https://www.pcisecuritystandards.org/security_standards/">PCI-DSS&nbsp;standards</a>. When purchasing from Universal Store Pty Ltd your details are passed through to a secure server using the latest SHA-256 SSL (secure sockets layer) with RSA Encryption encryption technology. No credit card information is passed through Universal Store Pty Ltd servers. This information is sent directly to our PCI-DSS compliant payment gateway, <a href="https://www.securepay.com.au/">SecurePay</a></p>
-<p>If you choose to modify your personal information or you have forgotten your password, you may do so by visiting the My Account page. Because password information is encrypted, it is completely invisible, including to our customer service team. If you desire to change your password, simply follow the prompts.</p>
-<p><strong>SURVEYS</strong></p>
-<p>We may run online surveys and ask visitors for their demographic information. Demographic and profile data is also collected at our site. We use this data to tailor your experience at our site, showing you content and promotional offers that we think you might be interested in, and displaying the content according to your preferences. Universal Store Pty Ltd may run surveys through <a href="https://www.google.com/insights/consumersurveys/home">Google Consumer Surveys</a>, a third party survey platform. The type of information collected will be of a demographic and of a non personally identifiable nature. For example we may ask your gender and age, but no more information. These surveys will capture information about your preferences such as the type of content you would prefer to see. This information is reviewed on aggregate for the purpose of improving the user experience and improving Universal Store Pty Ltd's marketing effectiveness.</p>
-<p><strong>COMPETITIONS</strong></p>
-<p>We may run competitions from time to time on our site in which we ask visitors for information for the purpose of entry. We use contact data from our contests to send users information about upcoming contests and promotional offers. On occasion we will email customers promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary for winner notification and prize delivery confirmation.&nbsp;</p>
-<p>The majority of the contests that we offer are hosted on the Universal Store Pty Ltd server; however, there may be cases in which a third party sponsor like a supplier will host the contest and collect user information. In those cases, we urge users to review the terms and conditions of entry and if applicable, the privacy statement of the third party site. Users may opt out of receiving future mailings.</p>
-<p><strong>COOKIES</strong></p>
-<p>The majority of our web pages use 'cookies', which are small files that may be placed on your hard disk for record-keeping purposes. A cookie helps us to remember who you are and are required for some functionality of the website such as what products are in your shopping cart. Cookies can make subsequent visits to the web page simpler and more seamless. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies some web pages may not display properly or you may not be permitted to access certain information). A server cannot find out a name or email address, or anything about you by using cookies. Cookies by themselves do not tell us your email address or other personal information. However, once you choose to provide the web site with personal information, via email or any other means this information may be linked to data stored in the cookie.</p>
-<p>If you have any questions or comments about our privacy practices please call Universal Store Help on 1300 553 520 or email&nbsp;<a href="mailto:help@universalstore.com.au">help@universalstore.com.au</a>.</p>
-<p>Universal Store Pty Ltd&nbsp;reserves the right to modify this agreement at any time.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Universal Store Pty Ltd</p>
-<p>ABN 89 085 003 158</p>
-<p>Fax 07 3367 8482</p>
-<p>HO Unit 6/2 Jenner St, Nundah QLD 4012 Australia</p></div> </div> 
-</div> 
-</div> <div class="breadcrumbs">
+<h2 dir="ltr"><span>Why we collect your personal data and how we use it</span></h2>
+<h3 dir="ltr"><span>Why do we collect data?</span></h3>
+<p dir="ltr"><span>We will only collect and process your personal data where we have obtained the legal right to do so. The way in which we use your data also depends on the manner for which we collected it.</span></p>
+<p dir="ltr"><span>The main purpose for which we collect data and personal information is to facilitate online purchasing and the marketing of our goods and services, and &nbsp;to provide you with a personalised experience.</span></p>
+<p dir="ltr"><span> We may also use the data for:</span></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><span>Internal record keeping.</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>To deliver relevant content and advertisements for you.</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>To inform or remind you of any uncompleted tasks on our website, including abandoned carts.</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Improving our products and services. Including data analysis, support, system maintenance and troubleshooting.</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>To create an account and register you as a customer of Universal Store.</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>To notify you about any changes to our services, terms and conditions or privacy policy.</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Periodically sending you promotional emails via the address you provided about new products, special offers or other information we think you may find interesting.</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>To enable participation in promotional offers, competitions or events.</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Contacting you to confirm order information, or to resolve any other issues related to purchases. </span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Modifying the website according to customer interests.</span></p>
+</li>
+</ul>
+<p dir="ltr"><span>If you want to access the data we have collected from you, or want to correct any personal information, please </span><a href="https://www.universalstore.com/help"><span>contact us</span></a><span>. </span></p>
+<h2 dir="ltr"><span>How we keep your data safe and secure</span></h2>
+<h3 dir="ltr"><span>ONLINE SECURITY</span></h3>
+<p dir="ltr"><span>Universal Store Pty Ltd utilises a variety of security measures to maintain the safety of your personal information. All user contact information is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems. </span></p>
+<h3 dir="ltr"><span>Credit card security</span></h3>
+<p dir="ltr"><span>Credit card numbers are not stored in our systems in accordance with the highest of </span><a href="https://www.pcisecuritystandards.org/security_standards/"><span>PCI-DSS standards</span></a><span>. When purchasing from Universal Store Pty Ltd your details are passed through to a secure server using the latest SHA-256 SSL (secure sockets layer) with RSA Encryption encryption technology. No credit card information is passed through Universal Store Pty Ltd servers. This information is sent directly to our PCI-DSS compliant payment gateway, </span><a href="https://www.braintreepayments.com/en-au"><span>BrainTree</span></a><span>.</span></p>
+<h3 dir="ltr"><span>Password security</span></h3>
+<p dir="ltr"><span>If you choose to modify your personal information or you have forgotten your password, you may do so by visiting the My Account page. Because password information is encrypted, it is completely invisible, including to our customer service team. If you desire to change your password, simply follow the prompts.</span></p>
+<h3 dir="ltr"><span>General data security</span></h3>
+<p dir="ltr"><span>We require any third party who handles your data on our behalf to have security measures in place to handle your data in accordance with the applicable laws and regulations.</span></p>
+<p dir="ltr"><span>In the unfortunate circumstance of a personal data breach, as Data Controller we will notify you as soon as possible, and within 72 hours, if feasible, after becoming aware of the breach.</span></p>
+<h2 dir="ltr"><span>How long we keep your data</span></h2>
+<p dir="ltr"><span>We only keep personal data as long as you are a customer and it is necessary to provide you the services you have requested, in some certain circumstances your personal data may be stored for longer periods, e.g. when required by law. If you no longer wish to be a customer, you can contact our customer care team and request to delete your personal information that we have stored.</span></p>
+<h3 dir="ltr"><span>Cookies</span></h3>
+<p dir="ltr"><span>The majority of our web pages use 'cookies', which are small files that may be placed on your hard disk for record-keeping purposes. A cookie helps us to remember who you are and are required for some functionality of the website such as what products are in your shopping cart. Cookies can make subsequent visits to the web page simpler and more seamless. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies some web pages may not display properly or you may not be permitted to access certain information). A server cannot find out a name or email address, or anything about you by using cookies. Cookies by themselves do not tell us your email address or other personal information. However, once you choose to provide the website with personal information, via email or any other means this information may be linked to data stored in the cookie.</span></p>
+<p dir="ltr">&nbsp;</p>
+<h3 dir="ltr"><span>How we use cookies:</span></h3>
+<ol>
+<li dir="ltr">
+<p dir="ltr"><span>Site functionality cookies - these cookies are required for determining what products are in your shopping cart.</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Site analytics cookies - this type of cookie is used to measure how our customers interact and use our site, and allows us to improve the overall site experience for our customers</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>Targeting and advertising cookies - these cookies are used to deliver the most relevant ad content to you. They also allow us to control the amount of times our ads are delivered to you, and measure the effectiveness of our ads.</span></p>
+</li>
+</ol>
+<p dir="ltr"><span>If you would like to erase cookies stored on your device, you can do so by visiting the “Help” section within your browser, and following the instructions provided. Further information about the use of cookies can be found </span><a href="http://www.allaboutcookies.org/"><span>here</span></a><span>.</span></p>
+<h2 dir="ltr"><span>How we share your data (third parties)</span></h2>
+<p dir="ltr"><span>We may share your personal data with third party platforms in order to perform a number of business tasks. These include customer relationship management (CRM), email marketing, online advertising, website analytics, order fulfillment, returns &amp; refunds, IT services. We work with our third party platforms to ensure that they guarantee the safety of your personal data, and ensure compliance with universal data protection standards.</span></p>
+<p dir="ltr"><span>The main third party providers that we use on a regular basis are listed below:</span></p>
+<div dir="ltr">
+<table><colgroup><col width="203"><col width="421"></colgroup>
+<tbody>
+<tr>
+<td>
+<p dir="ltr"><span>Afterpay</span></p>
+</td>
+<td>
+<p dir="ltr"><span>An online (and in-store) payment method that allows customers to pay for online purchases in 4 installments</span></p>
+<br>
+<p dir="ltr"><a href="https://www.afterpay.com/en-AU/privacy-policy"><span>https://www.afterpay.com/en-AU/privacy-policy</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><span>Australia Post</span></p>
+</td>
+<td>
+<p dir="ltr"><span>Australia Post is an Australian Government owned postal service that ships our parcels domestically and internationally</span></p>
+<br>
+<p dir="ltr"><a href="https://auspost.com.au/privacy"><span>https://auspost.com.au/privacy</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><span>BrainTree</span></p>
+</td>
+<td>
+<p dir="ltr"><span>BrainTree is a PCI-DSS compliant payment gateway that keeps credit card information safe and secure</span></p>
+<br>
+<p dir="ltr"><a href="https://www.braintreepayments.com/en-au/legal/braintree-privacy-policy"><span>https://www.braintreepayments.com/en-au/legal/braintree-privacy-policy</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><span>Facebook Business</span></p>
+</td>
+<td>
+<p dir="ltr"><span>Advertising platform used to provide relevant paid advertising across the Facebook network</span></p>
+<br>
+<p dir="ltr"><a href="https://www.facebook.com/policies/ads"><span>https://www.facebook.com/policies/ads</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><span>Freshdesk</span></p>
+</td>
+<td>
+<p dir="ltr"><span>Our support ticketing system provider used to manage customer enquiries</span></p>
+<br>
+<p dir="ltr"><a href="https://www.freshworks.com/privacy/"><span>https://www.freshworks.com/privacy/</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><span>IntelligentReach</span></p>
+</td>
+<td>
+<p dir="ltr"><span>A service provider that syncs selected stock from our website to Amazon and eBay, and sends order information back to our website</span></p>
+<br>
+<p dir="ltr"><a href="https://www.intelligentreach.com/privacy-policy/"><span>https://www.intelligentreach.com/privacy-policy/</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><span>LiveChat Inc</span></p>
+</td>
+<td>
+<p dir="ltr"><span>Our live chat platform used by customers to instant message our customer care team</span></p>
+<br>
+<p dir="ltr"><a href="https://www.livechatinc.com/privacy-policy/"><span>https://www.livechatinc.com/privacy-policy/</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><span>Google Analytics</span></p>
+</td>
+<td>
+<p dir="ltr"><span>Analytics platform used to track and measure user behaviour and marketing performance across our website</span></p>
+<br>
+<p dir="ltr"><a href="https://policies.google.com/privacy"><span>https://policies.google.com/privacy</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><span>Google Adwords</span></p>
+</td>
+<td>
+<p dir="ltr"><span>Internet based advertising used to provide relevant paid advertising across the Google network</span></p>
+<br>
+<p dir="ltr"><a href="https://policies.google.com/technologies/ads"><span>https://policies.google.com/technologies/ads</span><span><br class="kix-line-break"><br class="kix-line-break"></span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><span>PayPal</span></p>
+</td>
+<td>
+<p dir="ltr"><span>An online payment service that acts as a digital wallet for credit cards, debit cards or bank accounts</span></p>
+<br>
+<p dir="ltr"><a href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full"><span>https://www.paypal.com/us/webapps/mpp/ua/privacy-full</span></a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p dir="ltr"><span>Salesforce Marketing Cloud</span></p>
+</td>
+<td>
+<p dir="ltr"><span>Email service provider (ESP) used to communicate promotional materials and provide purchase invoices and updates</span></p>
+<br>
+<p dir="ltr"><a href="https://www.salesforce.com/au/company/privacy/full_privacy/"><span>https://www.salesforce.com/au/company/privacy/full_privacy/</span></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p dir="ltr">&nbsp;</p>
+<h2 dir="ltr"><span>How to unsubscribe from marketing communications</span></h2>
+<h3 dir="ltr"><span>How can you stop receiving Universal Store communications including direct marketing material?</span><span> &nbsp;</span></h3>
+<p dir="ltr"><span>You can easily subscribe (join) and unsubscribe (leave) our mailing list at any time. </span></p>
+<p dir="ltr"><span>Each email you receive will contain easy instructions on how to unsubscribe. You can unsubscribe by following the link included in the footer of all our email marketing communications. </span></p>
+<p dir="ltr"><span>You can also unsubscribe/opt out of our mailing list, and update your information by logging into your Universal Store account, and updating your ‘Email Preferences.’</span></p>
+<p dir="ltr"><span>The information you submit is kept in a secure database, for use exclusively by Universal Store Pty Ltd. &nbsp;When you subscribe, you will receive emails from us that may contain details of promotions, marketing initiatives, offers and other information relevant to Universal Store.  We can monitor which emails you receive from Universal Store Pty Ltd. We reserve the right to discontinue this service or unsubscribe you without notification.    </span></p>
+<h2 dir="ltr"><span>Your rights</span></h2>
+<p dir="ltr"><span>Under data protection laws, you have the rights listed below, under certain circumstances.</span></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><span>You have the right to withdraw consent for the processing and storing of your personal data</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>The right to access to your personal data</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>The right to correct or update your personal data</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>The right to delete information</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>The right to restrict information</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>The right to transfer your personal data (data portability)</span></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>The right to lodge a complaint with a supervisory authority. A complaint may be lodged via the Office of the Australian Information Commissioner's website </span><a href="https://www.oaic.gov.au/"><span>here</span></a></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><span>To object to automated decision making and profiling unless such profiling is necessary for entering into, or the performance of, a contract between you and us </span><span>providing that appropriate safeguards are in place or your explicit consent has been obtained.</span></p>
+</li>
+</ul>
+<p dir="ltr"><span>In order to exercise any of the rights listed above, contact us by email at help@universalstore.com.au, or by calling 1300 553 520.</span></p>
+<h2 dir="ltr"><span>How to contact us</span></h2>
+<p dir="ltr"><span>If you have an enquiry or &nbsp;complaint regarding any privacy issues, contact us by email at help@universalstore.com.au, or by calling 1300 553 520. A ticket will be lodged for which you will receive a reference number. A representative from our team will investigate your enquiry, and be in contact with you to resolve any issues. &nbsp;&nbsp;</span></p>
+<p dir="ltr"><span>Although care is taken to provide accurate information, please be aware that we cannot guarantee the accuracy of the information we send you. For example, prices may be subject to change, not all styles will be available in all stores, and typographical errors are likely to occur. Once an email containing errors is sent to you we cannot correct it. In the case of the discovery of an error in a sent email we may or may not notify you of the error.</span></p>
+<h3 dir="ltr"><span>MORE INFORMATION </span></h3>
+<p dir="ltr"><span>More information about Privacy law and the National Privacy Principles is available from the Office of the Australian Information Commissioner’s website </span><a href="https://www.oaic.gov.au/"><span>www.oaic.gov.au</span></a><span>.</span></p>
+<h3 dir="ltr"><span>SURVEYS</span></h3>
+<p dir="ltr"><span>We may run online surveys and ask visitors for their demographic information. Demographic and profile data is also collected at our site. We use this data to tailor your experience at our site, showing you content and promotional offers that we think you might be interested in, and displaying the content according to your preferences. Universal Store Pty Ltd may run surveys through </span><a href="https://www.google.com/insights/consumersurveys/home"><span>Google Consumer Surveys</span></a><span>, a third party survey platform. The type of information collected will be of a demographic and of a non personally identifiable nature. For example we may ask your gender and age, but no more information. These surveys will capture information about your preferences such as the type of content you would prefer to see. This information is reviewed on aggregate for the purpose of improving the user experience and improving Universal Store Pty Ltd's marketing effectiveness.</span></p>
+<h3 dir="ltr"><span>COMPETITIONS</span></h3>
+<p dir="ltr"><span>We may run competitions from time to time on our site in which we ask visitors for information for the purpose of entry. We use contact data from our contests to send users information about upcoming contests and promotional offers. On occasion we will email customers promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary for winner notification and prize delivery confirmation. </span></p>
+<p dir="ltr"><span>The majority of the contests that we offer are hosted on the Universal Store Pty Ltd server; however, there may be cases in which a third party sponsor like a supplier will host the contest and collect user information. In those cases, we urge users to review the terms and conditions of entry and if applicable, the privacy statement of the third party site. Users may opt out of receiving future mailings.</span></p>
+<p dir="ltr"><span>If you have any questions or comments about our privacy practices please call Universal Store Help on 1300 553 520 or email </span><span>help@universalstore.com.au</span><span>.</span></p>
+<p dir="ltr"><span>Universal Store Pty Ltd reserves the right to modify this agreement at any time. </span></p>
+<p dir="ltr"><span>Universal Store Pty Ltd</span></p>
+<p dir="ltr"><span>ABN 89 085 003 158</span></p>
+<p dir="ltr"><span>Fax 07 3367 8482</span></p>
+<p dir="ltr"><span>HO Unit 6/2 Jenner St, Nundah QLD 4012 Australia</span></p>
+<p><span id="docs-internal-guid-2f34cfce-7fff-4aff-3095-146f996f8b97"><br><br></span></p></div> </div>
+</div>
+</div><div class="breadcrumbs">
 <span itemprop="breadcrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
 <a href="https://www.universalstore.com/" title="Go to Home Page" itemprop="url"><span itemprop="title">Home</span></a><span>/</span>
 <span itemprop="title">Universal Store - Privacy Policy</span>
 </span> 
 </div>
 </div>
- 
- </div>
+
+</div>
 <div class="clearfix"></div>
 <div class="footer-level-1">
 <div class="footer wrapper">
@@ -1039,12 +1669,6 @@ $j(document).ready(function(){
 </div>
 <div class="brand-slider-item" data-brand="ALL ABOUT EVE">
 <a href="https://www.universalstore.com/all_about_eve.html"><img src="https://www.universalstore.com/media/amshopby/medium160.jpg" alt="ALL ABOUT EVE" title="ALL ABOUT EVE" class="footer-brand-image"></a>
-</div>
-<div class="brand-slider-item" data-brand="AND CO.">
-<a href="https://www.universalstore.com/and_co.html"><img src="https://www.universalstore.com/media/amshopby/medium5447.jpg" alt="AND CO." title="AND CO." class="footer-brand-image"></a>
-</div>
-<div class="brand-slider-item" data-brand="ANY MEMES">
-<a href="https://www.universalstore.com/any_memes.html"><img src="https://www.universalstore.com/media/amshopby/medium5527.jpg" alt="ANY MEMES" title="ANY MEMES" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="AS COLOUR">
 <a href="https://www.universalstore.com/as_colour.html"><img src="https://www.universalstore.com/media/amshopby/medium1759.jpg" alt="AS COLOUR" title="AS COLOUR" class="footer-brand-image"></a>
@@ -1064,11 +1688,14 @@ $j(document).ready(function(){
 <div class="brand-slider-item" data-brand="BILLINI">
 <a href="https://www.universalstore.com/billini.html"><img src="https://www.universalstore.com/media/amshopby/medium184.jpg" alt="BILLINI" title="BILLINI" class="footer-brand-image"></a>
 </div>
-<div class="brand-slider-item" data-brand="BRAVADO">
-<a href="https://www.universalstore.com/bravado.html"><img src="https://www.universalstore.com/media/amshopby/medium5511.jpg" alt="BRAVADO" title="BRAVADO" class="footer-brand-image"></a>
+<div class="brand-slider-item" data-brand="BIRKENSTOCK">
+<a href="https://www.universalstore.com/birkenstock.html"><img src="https://www.universalstore.com/media/amshopby/medium5906.jpg" alt="BIRKENSTOCK" title="BIRKENSTOCK" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="BRIXTON">
 <a href="https://www.universalstore.com/brixton.html"><img src="https://www.universalstore.com/media/amshopby/medium193.jpg" alt="BRIXTON" title="BRIXTON" class="footer-brand-image"></a>
+</div>
+<div class="brand-slider-item" data-brand="BUMBAG CO">
+<a href="https://www.universalstore.com/bumbag_co.html"><img src="https://www.universalstore.com/media/amshopby/medium5828.jpg" alt="BUMBAG CO" title="BUMBAG CO" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="CALVIN KLEIN">
 <a href="https://www.universalstore.com/calvin_klein.html"><img src="https://www.universalstore.com/media/amshopby/medium5473.jpg" alt="CALVIN KLEIN" title="CALVIN KLEIN" class="footer-brand-image"></a>
@@ -1085,26 +1712,32 @@ $j(document).ready(function(){
 <div class="brand-slider-item" data-brand="CONVERSE">
 <a href="https://www.universalstore.com/converse.html"><img src="https://www.universalstore.com/media/amshopby/medium210.jpg" alt="CONVERSE" title="CONVERSE" class="footer-brand-image"></a>
 </div>
-<div class="brand-slider-item" data-brand="DEACON">
-<a href="https://www.universalstore.com/deacon.html"><img src="https://www.universalstore.com/media/amshopby/medium214.jpg" alt="DEACON" title="DEACON" class="footer-brand-image"></a>
-</div>
 <div class="brand-slider-item" data-brand="DEUS EX MACHINA">
 <a href="https://www.universalstore.com/deus_ex_machina.html"><img src="https://www.universalstore.com/media/amshopby/medium217.jpg" alt="DEUS EX MACHINA" title="DEUS EX MACHINA" class="footer-brand-image"></a>
+</div>
+<div class="brand-slider-item" data-brand="DICKIES">
+<a href="https://www.universalstore.com/dickies.html"><img src="https://www.universalstore.com/media/amshopby/medium5862.jpg" alt="DICKIES" title="DICKIES" class="footer-brand-image"></a>
+</div>
+<div class="brand-slider-item" data-brand="DOIY">
+<a href="https://www.universalstore.com/doiy.html"><img src="https://www.universalstore.com/media/amshopby/medium6068.jpg" alt="DOIY" title="DOIY" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="DR MARTENS">
 <a href="https://www.universalstore.com/dr_martens.html"><img src="https://www.universalstore.com/media/amshopby/medium222.jpg" alt="DR MARTENS" title="DR MARTENS" class="footer-brand-image"></a>
 </div>
-<div class="brand-slider-item" data-brand="FINDERS KEEPERS">
-<a href="https://www.universalstore.com/finders_keepers.html"><img src="https://www.universalstore.com/media/amshopby/medium240.jpg" alt="FINDERS KEEPERS" title="FINDERS KEEPERS" class="footer-brand-image"></a>
+<div class="brand-slider-item" data-brand="FILA">
+<a href="https://www.universalstore.com/fila.html"><img src="https://www.universalstore.com/media/amshopby/medium5857.jpg" alt="FILA" title="FILA" class="footer-brand-image"></a>
+</div>
+<div class="brand-slider-item" data-brand="FJALLRAVEN">
+<a href="https://www.universalstore.com/fjallraven.html"><img src="https://www.universalstore.com/media/amshopby/medium6075.png" alt="FJALLRAVEN" title="FJALLRAVEN" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="FLEXFIT">
 <a href="https://www.universalstore.com/flexfit.html"><img src="https://www.universalstore.com/media/amshopby/medium242.jpg" alt="FLEXFIT" title="FLEXFIT" class="footer-brand-image"></a>
 </div>
-<div class="brand-slider-item" data-brand="G-SHOCK">
-<a href="https://www.universalstore.com/g_shock.html"><img src="https://www.universalstore.com/media/amshopby/medium259.jpg" alt="G-SHOCK" title="G-SHOCK" class="footer-brand-image"></a>
+<div class="brand-slider-item" data-brand="FRANK GREEN">
+<a href="https://www.universalstore.com/frank_green.html"><img src="https://www.universalstore.com/media/amshopby/medium6006.jpg" alt="FRANK GREEN" title="FRANK GREEN" class="footer-brand-image"></a>
 </div>
-<div class="brand-slider-item" data-brand="G-STAR">
-<a href="https://www.universalstore.com/g_star.html"><img src="https://www.universalstore.com/media/amshopby/medium260.jpg" alt="G-STAR" title="G-STAR" class="footer-brand-image"></a>
+<div class="brand-slider-item" data-brand="G-SHOCK">
+ <a href="https://www.universalstore.com/g_shock.html"><img src="https://www.universalstore.com/media/amshopby/medium259.jpg" alt="G-SHOCK" title="G-SHOCK" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="HAPPY SOCKS">
 <a href="https://www.universalstore.com/happy_socks.html"><img src="https://www.universalstore.com/media/amshopby/medium271.jpg" alt="HAPPY SOCKS" title="HAPPY SOCKS" class="footer-brand-image"></a>
@@ -1115,8 +1748,11 @@ $j(document).ready(function(){
 <div class="brand-slider-item" data-brand="HERSCHEL SUPPLY CO.">
 <a href="https://www.universalstore.com/herschel_supply_co.html"><img src="https://www.universalstore.com/media/amshopby/medium278.jpg" alt="HERSCHEL SUPPLY CO." title="HERSCHEL SUPPLY CO." class="footer-brand-image"></a>
 </div>
-<div class="brand-slider-item" data-brand="HILFIGER DENIM">
-<a href="https://www.universalstore.com/hilfiger_denim.html"><img src="https://www.universalstore.com/media/amshopby/medium5392.jpg" alt="HILFIGER DENIM" title="HILFIGER DENIM" class="footer-brand-image"></a>
+<div class="brand-slider-item" data-brand="I AM GIA">
+<a href="https://www.universalstore.com/i_am_gia.html"><img src="https://www.universalstore.com/media/amshopby/medium5850.jpg" alt="I AM GIA" title="I AM GIA" class="footer-brand-image"></a>
+</div>
+<div class="brand-slider-item" data-brand="ICON BRAND">
+<a href="https://www.universalstore.com/icon_brand.html"><img src="https://www.universalstore.com/media/amshopby/medium288.jpg" alt="ICON BRAND" title="ICON BRAND" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="JANSPORT">
 <a href="https://www.universalstore.com/jansport.html"><img src="https://www.universalstore.com/media/amshopby/medium5164.jpg" alt="JANSPORT" title="JANSPORT" class="footer-brand-image"></a>
@@ -1124,17 +1760,11 @@ $j(document).ready(function(){
 <div class="brand-slider-item" data-brand="JASON MARKK">
 <a href="https://www.universalstore.com/jason_markk.html"><img src="https://www.universalstore.com/media/amshopby/medium5371.jpg" alt="JASON MARKK" title="JASON MARKK" class="footer-brand-image"></a>
 </div>
-<div class="brand-slider-item" data-brand="KEEPSAKE">
-<a href="https://www.universalstore.com/keepsake.html"><img src="https://www.universalstore.com/media/amshopby/medium306.jpg" alt="KEEPSAKE" title="KEEPSAKE" class="footer-brand-image"></a>
-</div>
 <div class="brand-slider-item" data-brand="KISS CHACEY">
 <a href="https://www.universalstore.com/kiss_chacey.html"><img src="https://www.universalstore.com/media/amshopby/medium309.png" alt="KISS CHACEY" title="KISS CHACEY" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="L&amp;T">
 <a href="https://www.universalstore.com/l_t.html"><img src="https://www.universalstore.com/media/amshopby/medium5383.jpg" alt="L&amp;T" title="L&amp;T" class="footer-brand-image"></a>
-</div>
-<div class="brand-slider-item" data-brand="LaceSpace">
-<a href="https://www.universalstore.com/lacespace.html"><img src="https://www.universalstore.com/media/amshopby/medium5416.jpg" alt="LaceSpace" title="LaceSpace" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="LACK OF COLOR">
 <a href="https://www.universalstore.com/lack_of_color.html"><img src="https://www.universalstore.com/media/amshopby/medium5388.jpg" alt="LACK OF COLOR" title="LACK OF COLOR" class="footer-brand-image"></a>
@@ -1142,14 +1772,17 @@ $j(document).ready(function(){
 <div class="brand-slider-item" data-brand="LACOSTE">
 <a href="https://www.universalstore.com/lacoste.html"><img src="https://www.universalstore.com/media/amshopby/medium319.jpg" alt="LACOSTE" title="LACOSTE" class="footer-brand-image"></a>
 </div>
-<div class="brand-slider-item" data-brand="LE COQ SPORTIF">
-<a href="https://www.universalstore.com/le_coq_sportif.html"><img src="https://www.universalstore.com/media/amshopby/medium321.jpg" alt="LE COQ SPORTIF" title="LE COQ SPORTIF" class="footer-brand-image"></a>
-</div>
 <div class="brand-slider-item" data-brand="LE SPECS">
 <a href="https://www.universalstore.com/le_specs.html"><img src="https://www.universalstore.com/media/amshopby/medium323.jpg" alt="LE SPECS" title="LE SPECS" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="LEE">
 <a href="https://www.universalstore.com/lee.html"><img src="https://www.universalstore.com/media/amshopby/medium324.jpg" alt="LEE" title="LEE" class="footer-brand-image"></a>
+</div>
+<div class="brand-slider-item" data-brand="LEVI'S">
+<a href="https://www.universalstore.com/levi_s.html"><img src="https://www.universalstore.com/media/amshopby/medium326.jpg" alt="LEVI'S" title="LEVI'S" class="footer-brand-image"></a>
+</div>
+<div class="brand-slider-item" data-brand="LIPSTIK">
+<a href="https://www.universalstore.com/lipstik.html"><img src="https://www.universalstore.com/media/amshopby/medium5250.jpg" alt="LIPSTIK" title="LIPSTIK" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="LOCAL SUPPLY">
 <a href="https://www.universalstore.com/local_supply.html"><img src="https://www.universalstore.com/media/amshopby/medium5448.jpg" alt="LOCAL SUPPLY" title="LOCAL SUPPLY" class="footer-brand-image"></a>
@@ -1163,14 +1796,23 @@ $j(document).ready(function(){
 <div class="brand-slider-item" data-brand="LUCK &amp; TROUBLE">
 <a href="https://www.universalstore.com/luck_trouble.html"><img src="https://www.universalstore.com/media/amshopby/medium336.jpg" alt="LUCK &amp; TROUBLE" title="LUCK &amp; TROUBLE" class="footer-brand-image"></a>
 </div>
+<div class="brand-slider-item" data-brand="LUNAR GLITTER">
+<a href="https://www.universalstore.com/lunar_glitter.html"><img src="https://www.universalstore.com/media/amshopby/medium5905.jpg" alt="LUNAR GLITTER" title="LUNAR GLITTER" class="footer-brand-image"></a>
+</div>
 <div class="brand-slider-item" data-brand="MAJESTIC ATHLETIC">
 <a href="https://www.universalstore.com/majestic_athletic.html"><img src="https://www.universalstore.com/media/amshopby/medium5494.jpg" alt="MAJESTIC ATHLETIC" title="MAJESTIC ATHLETIC" class="footer-brand-image"></a>
+</div>
+<div class="brand-slider-item" data-brand="MIGOALS">
+<a href="https://www.universalstore.com/migoals.html"><img src="https://www.universalstore.com/media/amshopby/medium5215.jpg" alt="MIGOALS" title="MIGOALS" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="MINKPINK">
 <a href="https://www.universalstore.com/minkpink.html"><img src="https://www.universalstore.com/media/amshopby/medium350.jpg" alt="MINKPINK" title="MINKPINK" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="NEW BALANCE">
 <a href="https://www.universalstore.com/new_balance.html"><img src="https://www.universalstore.com/media/amshopby/medium5463.jpg" alt="NEW BALANCE" title="NEW BALANCE" class="footer-brand-image"></a>
+</div>
+<div class="brand-slider-item" data-brand="NEW ERA">
+<a href="https://www.universalstore.com/new_era.html"><img src="https://www.universalstore.com/media/amshopby/medium5829.jpg" alt="NEW ERA" title="NEW ERA" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="NIXON">
 <a href="https://www.universalstore.com/nixon.html"><img src="https://www.universalstore.com/media/amshopby/medium364.jpg" alt="NIXON" title="NIXON" class="footer-brand-image"></a>
@@ -1181,9 +1823,6 @@ $j(document).ready(function(){
 <div class="brand-slider-item" data-brand="OBEY">
 <a href="https://www.universalstore.com/obey.html"><img src="https://www.universalstore.com/media/amshopby/medium370.jpg" alt="OBEY" title="OBEY" class="footer-brand-image"></a>
 </div>
-<div class="brand-slider-item" data-brand="ONETEASPOON">
-<a href="https://www.universalstore.com/oneteaspoon.html"><img src="https://www.universalstore.com/media/amshopby/medium375.jpg" alt="ONETEASPOON" title="ONETEASPOON" class="footer-brand-image"></a>
-</div>
 <div class="brand-slider-item" data-brand="ONITSUKA TIGER">
 <a href="https://www.universalstore.com/onitsuka_tiger.html"><img src="https://www.universalstore.com/media/amshopby/medium376.jpg" alt="ONITSUKA TIGER" title="ONITSUKA TIGER" class="footer-brand-image"></a>
 </div>
@@ -1193,8 +1832,17 @@ $j(document).ready(function(){
 <div class="brand-slider-item" data-brand="PARE BASIC">
 <a href="https://www.universalstore.com/pare_basic.html"><img src="https://www.universalstore.com/media/amshopby/medium383.jpg" alt="PARE BASIC" title="PARE BASIC" class="footer-brand-image"></a>
 </div>
+<div class="brand-slider-item" data-brand="PATAGONIA">
+<a href="https://www.universalstore.com/patagonia.html"><img src="https://www.universalstore.com/media/amshopby/medium6062.jpg" alt="PATAGONIA" title="PATAGONIA" class="footer-brand-image"></a>
+</div>
+<div class="brand-slider-item" data-brand="PATRON">
+<a href="https://www.universalstore.com/patron.html"><img src="https://www.universalstore.com/media/amshopby/medium5539.jpg" alt="PATRON" title="PATRON" class="footer-brand-image"></a>
+</div>
 <div class="brand-slider-item" data-brand="PERFECT STRANGER">
 <a href="https://www.universalstore.com/perfect_stranger.html"><img src="https://www.universalstore.com/media/amshopby/medium5158.jpg" alt="PERFECT STRANGER" title="PERFECT STRANGER" class="footer-brand-image"></a>
+</div>
+<div class="brand-slider-item" data-brand="POLAROID ORIGINALS">
+<a href="https://www.universalstore.com/polaroid_originals.html"><img src="https://www.universalstore.com/media/amshopby/medium5929.jpg" alt="POLAROID ORIGINALS" title="POLAROID ORIGINALS" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="QUAY">
 <a href="https://www.universalstore.com/quay.html"><img src="https://www.universalstore.com/media/amshopby/medium5449.jpg" alt="QUAY" title="QUAY" class="footer-brand-image"></a>
@@ -1202,14 +1850,8 @@ $j(document).ready(function(){
 <div class="brand-slider-item" data-brand="RAINS">
 <a href="https://www.universalstore.com/rains.html"><img src="https://www.universalstore.com/media/amshopby/medium5202.jpg" alt="RAINS" title="RAINS" class="footer-brand-image"></a>
 </div>
-<div class="brand-slider-item" data-brand="ROLLA'S">
-<a href="https://www.universalstore.com/rolla_s.html"><img src="https://www.universalstore.com/media/amshopby/medium406.jpg" alt="ROLLA'S" title="ROLLA'S" class="footer-brand-image"></a>
-</div>
-<div class="brand-slider-item" data-brand="RVCA">
-<a href="https://www.universalstore.com/rvca.html"><img src="https://www.universalstore.com/media/amshopby/medium409.jpg" alt="RVCA" title="RVCA" class="footer-brand-image"></a>
-</div>
-<div class="brand-slider-item" data-brand="SABRE">
-<a href="https://www.universalstore.com/sabre.html"><img src="https://www.universalstore.com/media/amshopby/medium410.jpg" alt="SABRE" title="SABRE" class="footer-brand-image"></a>
+<div class="brand-slider-item" data-brand="S'WELL">
+<a href="https://www.universalstore.com/s_well.html"><img src="https://www.universalstore.com/media/amshopby/medium6005.jpg" alt="S'WELL" title="S'WELL" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="SILENT THEORY">
 <a href="https://www.universalstore.com/silent_theory.html"><img src="https://www.universalstore.com/media/amshopby/medium423.jpg" alt="SILENT THEORY" title="SILENT THEORY" class="footer-brand-image"></a>
@@ -1217,17 +1859,11 @@ $j(document).ready(function(){
 <div class="brand-slider-item" data-brand="SIMPLE WATCH CO">
 <a href="https://www.universalstore.com/simple_watch_co.html"><img src="https://www.universalstore.com/media/amshopby/medium5382.jpg" alt="SIMPLE WATCH CO" title="SIMPLE WATCH CO" class="footer-brand-image"></a>
 </div>
-<div class="brand-slider-item" data-brand="SOLUDOS">
-<a href="https://www.universalstore.com/soludos.html"><img src="https://www.universalstore.com/media/amshopby/medium5455.jpg" alt="SOLUDOS" title="SOLUDOS" class="footer-brand-image"></a>
-</div>
 <div class="brand-slider-item" data-brand="ST GOLIATH">
 <a href="https://www.universalstore.com/st_goliath.html"><img src="https://www.universalstore.com/media/amshopby/medium437.jpg" alt="ST GOLIATH" title="ST GOLIATH" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="STANCE">
 <a href="https://www.universalstore.com/stance.html"><img src="https://www.universalstore.com/media/amshopby/medium5188.jpg" alt="STANCE" title="STANCE" class="footer-brand-image"></a>
-</div>
-<div class="brand-slider-item" data-brand="STAPLE">
-<a href="https://www.universalstore.com/staple.html"><img src="https://www.universalstore.com/media/amshopby/medium439.jpg" alt="STAPLE" title="STAPLE" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="STATUS ANXIETY">
 <a href="https://www.universalstore.com/status_anxiety.html"><img src="https://www.universalstore.com/media/amshopby/medium442.jpg" alt="STATUS ANXIETY" title="STATUS ANXIETY" class="footer-brand-image"></a>
@@ -1235,11 +1871,17 @@ $j(document).ready(function(){
 <div class="brand-slider-item" data-brand="STUSSY">
 <a href="https://www.universalstore.com/stussy.html"><img src="https://www.universalstore.com/media/amshopby/medium445.jpg" alt="STUSSY" title="STUSSY" class="footer-brand-image"></a>
 </div>
+<div class="brand-slider-item" data-brand="SUCK UK">
+<a href="https://www.universalstore.com/suck_uk.html"><img src="https://www.universalstore.com/media/amshopby/medium6069.jpg" alt="SUCK UK" title="SUCK UK" class="footer-brand-image"></a>
+</div>
+<div class="brand-slider-item" data-brand="SUNNYLIFE">
+<a href="https://www.universalstore.com/sunnylife.html"><img src="https://www.universalstore.com/media/amshopby/medium451.jpg" alt="SUNNYLIFE" title="SUNNYLIFE" class="footer-brand-image"></a>
+</div>
+<div class="brand-slider-item" data-brand="SUPERGA">
+<a href="https://www.universalstore.com/superga.html"><img src="https://www.universalstore.com/media/amshopby/medium454.jpg" alt="SUPERGA" title="SUPERGA" class="footer-brand-image"></a>
+</div>
 <div class="brand-slider-item" data-brand="THE ACADEMY BRAND">
 <a href="https://www.universalstore.com/the_academy_brand.html"><img src="https://www.universalstore.com/media/amshopby/medium152.jpg" alt="THE ACADEMY BRAND" title="THE ACADEMY BRAND" class="footer-brand-image"></a>
-</div>
-<div class="brand-slider-item" data-brand="THE FIFTH">
-<a href="https://www.universalstore.com/the_fifth.html"><img src="https://www.universalstore.com/media/amshopby/medium1758.jpg" alt="THE FIFTH" title="THE FIFTH" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="THE HORSE">
 <a href="https://www.universalstore.com/the_horse.html"><img src="https://www.universalstore.com/media/amshopby/medium1751.jpg" alt="THE HORSE" title="THE HORSE" class="footer-brand-image"></a>
@@ -1256,6 +1898,9 @@ $j(document).ready(function(){
 <div class="brand-slider-item" data-brand="TOKEN">
 <a href="https://www.universalstore.com/token.html"><img src="https://www.universalstore.com/media/amshopby/medium516.jpg" alt="TOKEN" title="TOKEN" class="footer-brand-image"></a>
 </div>
+<div class="brand-slider-item" data-brand="TOMMY JEANS">
+<a href="https://www.universalstore.com/tommy_jeans.html"><img src="https://www.universalstore.com/media/amshopby/medium5392.jpg" alt="TOMMY JEANS" title="TOMMY JEANS" class="footer-brand-image"></a>
+</div>
 <div class="brand-slider-item" data-brand="UPPERCUT DELUXE">
 <a href="https://www.universalstore.com/uppercut_deluxe.html"><img src="https://www.universalstore.com/media/amshopby/medium482.jpg" alt="UPPERCUT DELUXE" title="UPPERCUT DELUXE" class="footer-brand-image"></a>
 </div>
@@ -1268,8 +1913,8 @@ $j(document).ready(function(){
 <div class="brand-slider-item" data-brand="VANS">
 <a href="https://www.universalstore.com/vans.html"><img src="https://www.universalstore.com/media/amshopby/medium486.jpg" alt="VANS" title="VANS" class="footer-brand-image"></a>
 </div>
-<div class="brand-slider-item" data-brand="VONZIPPER">
-<a href="https://www.universalstore.com/vonzipper.html"><img src="https://www.universalstore.com/media/amshopby/medium494.jpg" alt="VONZIPPER" title="VONZIPPER" class="footer-brand-image"></a>
+<div class="brand-slider-item" data-brand="WILD FOR THE WEEKEND">
+<a href="https://www.universalstore.com/wild_for_the_weekend.html"><img src="https://www.universalstore.com/media/amshopby/medium6066.jpg" alt="WILD FOR THE WEEKEND" title="WILD FOR THE WEEKEND" class="footer-brand-image"></a>
 </div>
 <div class="brand-slider-item" data-brand="WINDSOR SMITH">
 <a href="https://www.universalstore.com/windsor_smith.html"><img src="https://www.universalstore.com/media/amshopby/medium499.jpg" alt="WINDSOR SMITH" title="WINDSOR SMITH" class="footer-brand-image"></a>
@@ -1277,11 +1922,11 @@ $j(document).ready(function(){
 <div class="brand-slider-item" data-brand="WRANGLER">
 <a href="https://www.universalstore.com/wrangler.html"><img src="https://www.universalstore.com/media/amshopby/medium501.jpg" alt="WRANGLER" title="WRANGLER" class="footer-brand-image"></a>
 </div>
-<div class="brand-slider-item" data-brand="YEA. NICE">
-<a href="https://www.universalstore.com/yea_nice.html"><img src="https://www.universalstore.com/media/amshopby/medium5387.png" alt="YEA. NICE" title="YEA. NICE" class="footer-brand-image"></a>
-</div>
 <div class="brand-slider-item" data-brand="ZIGGY">
 <a href="https://www.universalstore.com/ziggy.html"><img src="https://www.universalstore.com/media/amshopby/medium509.jpg" alt="ZIGGY" title="ZIGGY" class="footer-brand-image"></a>
+</div>
+<div class="brand-slider-item" data-brand="47 BRAND">
+<a href="https://www.universalstore.com/47_brand.html"><img src="https://www.universalstore.com/media/amshopby/medium5538.jpg" alt="47 BRAND" title="47 BRAND" class="footer-brand-image"></a>
 </div>
 </div>
 </div>
@@ -1302,7 +1947,7 @@ Sign up for our newsletter and you'll be the first to know what's up.<br>Get acc
 <div class="email-footer-middle email-footer-segment">
 <div id="welcome-email">
 <p id="welcome-email-result"></p>
-<form name="footer-email-info" id="welcome-email-page-form" action="https://www.universalstore.com/welcomeemail/index/ajax/" method="post">
+<form name="footer-email-info" id="welcome-email-footer-form" action="https://www.universalstore.com/welcomeemail/index/ajax/" method="post">
 <input id="hidden-store" type="hidden" value="" name="store">
 <input class="name first-name text-input" id="email-first-name" type="text" name="first_name" placeholder="FIRST NAME">
 <input class="name text-input" type="text" name="last_name" placeholder="LAST NAME"><br>
@@ -1318,7 +1963,7 @@ Sign up for our newsletter and you'll be the first to know what's up.<br>Get acc
 </select>
 </div>
 </div>
- 
+
 </form></div>
 </div>
 <div class="email-footer-right email-footer-segment">
@@ -1332,7 +1977,7 @@ Sign up for our newsletter and you'll be the first to know what's up.<br>Get acc
         e.preventDefault();
         $j.ajax({
             beforeSend: function(){
-                $j('#welcome-email-page-form').fadeOut(200);
+                $j('#welcome-email-footer-form').fadeOut(200);
                 $j('#welcome-email-result').replaceWith("<p id=\"welcome-email-result\">Please wait...</div></p>").fadeIn(200);
             },
             url : this.action,
@@ -1341,8 +1986,7 @@ Sign up for our newsletter and you'll be the first to know what's up.<br>Get acc
             success: function (data) {
                 if(typeof(data) != 'object') {
                     if (data.indexOf("Error") >= 0) {
-                        //alert("Whoops! It appears we have an error:\n" + data);
-                        $j('#welcome-email-page-form').fadeIn(200);
+                        $j('#welcome-email-footer-form').fadeIn(200);
                         $j('#welcome-email-result').replaceWith("<p id=\"welcome-email-result\">Whoops! It appears we have an error:\n" + data + "</p>");
                     }
                 } else {
@@ -1354,7 +1998,7 @@ Sign up for our newsletter and you'll be the first to know what's up.<br>Get acc
                 }
 
             },
-            error: function(){alert("Sorry, it appears there's been an error. Please try again, or contact customer service." ); $j('#welcome-email-page-form').fadeIn(200); $j('#welcome-email-result').replaceWith("<p id=\"welcome-email\">Please try again:</p>");},
+            error: function(){$j('#welcome-email-footer-form').fadeIn(200); $j('#welcome-email').replaceWith("<p id=\"welcome-email\">Thanks for signing up!</p>");},
             complete: function(){$j('.loader').remove();}
         });
     });
@@ -1364,15 +2008,40 @@ Sign up for our newsletter and you'll be the first to know what's up.<br>Get acc
 
 <div class="footer-shipping-info">
 FREE SHIPPING ALL AUS ORDERS OVER $50* / FREE RETURNS / AFTERPAY AVAILABLE IN STORES &amp; ONLINE
-<div class="ref-video-popup-wrapper">
-<iframe src="" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-<p class="close-ref-video-popup"><i class="fa fa-times"></i> Close</p>
+</div>
+<div class="nz-footer-container">
+<div class="nz-moreinfo-popup-wrapper">
+<p class="close-nz-popup"><em class="fa fa-times"></em></p>
+<div class="nz-moreinfo-inner">
+<img src="https://www.universalstore.com/media/wysiwyg/2018/Week_21/NZ-shipping.gif" class="popupimage" alt="">
 </div>
 </div>
-<div class="ref-video-bg">
-</div>
+<style>
 
-<style>.ref-video-bg{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:100;display:none;}.close-ref-video-popup{text-align:center;margin-top:10px;margin-bottom:15px;font-weight:bold;cursor:pointer;font-size:1.5em;}.ref-video-popup-wrapper{position:fixed;top:50%;left:50%;background:#fff;transform:translatey(-50%) translateX(-50%);box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;z-index:101;display:none;}@media screen and (max-width:700px){.ref-video-popup-wrapper{width:80%;position:absolute;transform:translateX(-50%);top:10px;left:50%;}.ref-video-popup-wrapper iframe{width:100%!important;}}</style>
+.nz-moreinfo-bg{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:10;display:none;}
+.nz-moreinfo-popup-wrapper{position:fixed;max-width:550px;background:#fff;top:50%;left:50%;transform:translatey(-50%) translateX(-50%);box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;z-index:100;display:none;}
+.nz-moreinfo-inner{font-family:"acumin-pro-condensed";}
+.nz-moreinfo-popup-wrapper p em {color: white;}
+@media screen and (max-width:450px){.popupimage {max-width:300px; display:block;}}
+.close-nz-popup {position:absolute; right:10px; top:10px; font-size:40px; font-weight:200;}
+</style>
+</div>
+<div class="afteryay-container">
+</div>
+<style>
+
+.ref-video-bg {position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.5); z-index:100; display:none;}
+.close-ref-video-popup {text-align:center; margin-top:10px; margin-bottom: 15px; font-weight:bold; cursor:pointer; font-size:1.5em;}
+
+.ref-video-popup-wrapper {position:fixed; top:50%; left:50%; background: #fff; transform:translatey(-50%) translateX(-50%); box-sizing:border-box; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; z-index:101; display:none;}
+
+@media screen and (max-width:700px){
+.ref-video-popup-wrapper {width:80%; position:absolute; transform:translateX(-50%); top:10px; left:50%;} 
+ .ref-video-popup-wrapper iframe {width:100% !important;}
+}
+
+.afteryay-container {display:none;}
+</style>
 <script type="text/javascript">
 
     $j.urlParam = function(name){
@@ -1405,12 +2074,503 @@ if ($j.urlParam('ref') == 'womens-rebel') {
             $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/223408316?autoplay=1');
             $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
         });
-}
+}  else if ($j.urlParam('ref') == 'deus') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/246737254?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+}  else if ($j.urlParam('ref') == 'break-out') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/226081567?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'top-crop') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/234761195?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'swim-linen') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/233606702?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'new-brixton') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/233399617?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+         });
+} else if ($j.urlParam('ref') == 'spring') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/234438927?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'mens-festival') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/235470668?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'womens-nobody') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/235470973?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'unisex-abrand') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/235833749?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'majestic-athletic') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/237356866?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'champion') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/237516556?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'bcools') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/237687693?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'quay-kylie') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/236521509?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'womens-shorts') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/237857837?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'young-pro') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/238700146?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'kscy') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/239544730?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'no-curfew') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/239742049?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'hiatus') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/240766137?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'resort') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/240951569?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'happy') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/240080623?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'tommy4') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/242697381?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'denim') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/243776831?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'stripes') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/244148529?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+   });
+} else if ($j.urlParam('ref') == 'bumbag') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/244970035?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'red-party') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/244739215?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'party-party') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/244969995?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'deus-hat') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/246737254?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'thrills') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/247088974?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'festival') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/251255171?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'common') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/251584677?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'gia') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/256363279?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'abrand') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/252426283?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'baeside') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/252426196?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'lacoste') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/253349679?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'plaid') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/253546615?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'abrand1') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/253736575?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'ascolour') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/254416189?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'PS') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/254594195?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'wrangler-campaign') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/254624366?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'into-stripes') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/255333916?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'need-is-real') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/259101099?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'kisschacey') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/259804616?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'tommy-racing') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/262331319?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'cools') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/256513440?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'mens-jeans') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/264184226?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'new-thrills') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/264928328?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'mens-kscy') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/266225572?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'womens-abrand') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/265098422?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'mens-abrand') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/264897908?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'abrand-unisex') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/264373937?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'mens-kscy-denim') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/264373990?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'denim-mens-wrangler') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/266608887?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'denim-womens-wrangler') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/264915652?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'denim-lee') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/267337109?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'denim-thrills') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/267357795?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'tommy-drop') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/268527753?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'denim-nobody') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/267348849?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'mens-academy') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/268702540?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'denim-mens-ziggy') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/266609770?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'denim-womens-ziggy') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/266608973?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'sportswear') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/269785201?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'gia-exclusive') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/270246988?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'barney-cools') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/271013881?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'hype') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/271399883?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'denim-mens') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/273440520?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'fila') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/273840701?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'fresh-kscy') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/274625608?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'black-out') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/278245594?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'bc') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/275751893?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'festival-edition') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/276344588?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'weekend') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/277217781?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'got-thrills') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/283568690?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'rewind') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/280128266?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
 
-$j('.close-ref-video-popup,.ref-video-bg').click(function(){
+} else if ($j.urlParam('ref') == 'tommy-unisex') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/280473548?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'snackchat-champion') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/282965179?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'happy-wiz') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/285413154?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'thrills-lost') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/285921745?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'bitter-bcools') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/286291609?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'unisex-champion') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/288643675?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'fresh-bcools') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/290419818?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'common-need-vid') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/289408827?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'tommy-jeans-bell') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/291033418?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'PS-campaign') {
+        $j(document).ready(function () {
+            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/292258775?autoplay=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'nz-shipping') {
+        $j(document).ready(function () {
+            $j('.nz-moreinfo-popup-wrapper,.nz-moreinfo-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'tropicools') {
+        $j(document).ready(function () {
+             $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/297020541?autoplay=1&muted=1&loop=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'party-mens') {
+        $j(document).ready(function () {
+             $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/299807568?autoplay=1&muted=1&loop=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'party-times') {
+        $j(document).ready(function () {
+             $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/300220732?autoplay=1&muted=1&loop=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'tommy-6') {
+        $j(document).ready(function () {
+             $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/300654954?autoplay=1&muted=1&loop=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'abrand-summer') {
+        $j(document).ready(function () {
+             $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/302968866?autoplay=1&muted=1&loop=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'come-together') {
+        $j(document).ready(function () {
+             $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/302992460?autoplay=1&muted=1&loop=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'unisex-wrangler') {
+        $j(document).ready(function () {
+             $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/304497805?autoplay=1&muted=1&loop=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'christmas-celebrations') {
+        $j(document).ready(function () {
+             $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/305404305?autoplay=1&muted=1&loop=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'christmas-summer') {
+        $j(document).ready(function () {
+             $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/306089308?autoplay=1&muted=1&loop=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'cmmn-need') {
+        $j(document).ready(function () {
+             $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/307187553?autoplay=1&muted=1&loop=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'thrills-paradise') {
+        $j(document).ready(function () {
+             $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/310707803?autoplay=1&muted=1&loop=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'kiss-chacey-mens') {
+        $j(document).ready(function () {
+             $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/313931085?autoplay=1&muted=1&loop=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'tommy-vhs') {
+        $j(document).ready(function () {
+             $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/314160324?autoplay=1&muted=1&loop=1');
+            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
+        });
+} else if ($j.urlParam('ref') == 'shop-deals') {
+        $j(document).ready(function () {
+            $j('.shopby-popup-wrapper,.shopby-moreinfo-inner').fadeIn();
+        });
+} $j('.close-ref-video-popup,.ref-video-bg').click(function(){
         $j('.ref-video-popup-wrapper,.ref-video-bg').fadeOut();
         $j('.ref-video-popup-wrapper iframe').attr('src','');
     });
+
+$j('.nz-moreinfo-popup-wrapper, .nz-moreinfo-bg, .close-nz-popup').click(function(){
+            $j('.nz-moreinfo-popup-wrapper, .nz-moreinfo-bg').fadeOut();
+        });
 
 </script>
 <div class="footer-level-3">
@@ -1418,7 +2578,7 @@ $j('.close-ref-video-popup,.ref-video-bg').click(function(){
 <div class="footer-email-help-block footer-level-3-col">
 <span class="footer-header">Contact Us</span>
 <ul>
-<li><em class="fa fa-phone fa-inverse"></em><span class="contact-text">1300 553 520</span></li>
+<li><div class="AVANSERnumber"><em class="fa fa-phone fa-inverse"></em><span class="contact-text">1300 553 520</span></div></li>
 <li><em class="fa fa-comment fa-inverse" onclick="LC_API.open_chat_window();"></em><span class="contact-text" onclick="LC_API.open_chat_window();">Live Chat</span></li>
 <li><a href="mailto:help@universalstore.com.au"><em class="fa fa fa-envelope fa-inverse"></em><span class="contact-text">Email</span></a></li>
 </ul> </div>
@@ -1426,9 +2586,9 @@ $j('.close-ref-video-popup,.ref-video-bg').click(function(){
 <span class="footer-header">Follow Us</span>
 <div class="footer-social">
 <ul class="social-icons">
-<li><a href="http://www.facebook.com/universalstore" target="_blank">Facebook</a></li>
-<li><a href="http://instagram.com/universalstore" target="_blank">Instagram</a></li>
- 
+<li><a href="https://www.facebook.com/universalstore" target="_blank">Facebook</a></li>
+<li><a href="https://instagram.com/universalstore" target="_blank">Instagram</a></li>
+
 <li><a href="https://plus.google.com/+Universalstoreplus/posts" target="_blank">Google Plus</a></li>
 <li><a href="https://vimeo.com/universalstore" target="_blank">Vimeo</a></li>
 <li><a href="https://www.youtube.com/user/universalstoretv" target="_blank">Youtube</a></li>
@@ -1471,10 +2631,10 @@ $j('.close-ref-video-popup,.ref-video-bg').click(function(){
 </div>
 </div>
 </div>
- 
- 
-  
- 
+
+
+
+
 <div class="flybuys-offer-container">
 <div class="flybuys-modal">
 <i class="fa fa-times close-flybuys"></i>
@@ -1582,320 +2742,130 @@ $j(document).ready(function(){
 
 
 </script>
-<style>.flybuys-offer-container{z-index:3000;position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:#fff;border:1em solid #00b0ec;text-align:center;max-width:80%;display:none;}.close-flybuys{font-size:3em!important;position:absolute;right:0;top:0;cursor:pointer;z-index:100;}.flybuys-header{margin-top:2em;padding:1em;background:#00b0ec;background:linear-gradient(to bottom,#00b0ec 0,#0592c7 100%);position:relative;text-align:left;}.flybuys-header span{font-size:3em;display:block;position:relative;z-index:2;font-size:2em;font-family:"SwissBoldCond";color:#fff;}.flybuys-header .flybuys-card{display:block;right:3em;bottom:0;position:absolute;}.flybuys-body{padding:1em;font-size:1.25em;font-family:"SwissCond";}.flybuys-subhead{font-size:2em;font-family:"SwissBoldCond";text-transform:uppercase;line-height:1em;}.flybuys-bodycopy{margin:0.5em 0;}.flybuys-couponholder{font-size:3em;font-family:"SwissBoldCond";text-transform:uppercase;border:0.25em solid #000;display:inline-block;padding:0.25em;}.emailsuccess{font-size:1.5em;display:none;}.emailsuccess span{text-decoration:underline;cursor:pointer;}.flybuysforminput{border:0.4em solid #000;font-size:1em;padding:0.5em;}#fieldName{width:8em;}#fieldEmail{width:13.5em;margin-left:0.5em;}.button.flybuys-submit,button.flybuys-submit,a.button:link.flybuys-submit,a.button:active.flybuys-submit,a.button:visited.flybuys-submit{cursor:pointer;-webkit-appearance:button;text-decoration:none!important;font-family:"Helvetica Neue",arial,Helvetica,sans-serif;display:-moz-inline-stack;display:inline-block;vertical-align:middle;zoom:1;text-shadow:0 1px 0 rgba(255,255,255,0.75);padding:4px 11px 5px;background-color:#fff;background-image:-webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,rgba(255,255,255,0.03)),color-stop(100%,rgba(0,0,0,0.03)));background-image:-webkit-linear-gradient(rgba(255,255,255,0.03),rgba(0,0,0,0.03));background-image:-moz-linear-gradient(rgba(255,255,255,0.03),rgba(0,0,0,0.03));background-image:-o-linear-gradient(rgba(255,255,255,0.03),rgba(0,0,0,0.03));background-image:linear-gradient(rgba(255,255,255,0.03),rgba(0,0,0,0.03));border:1px solid #c7c7c7;border-bottom-color:#bdbdbd;border-top-color:#d3d3d3;-webkit-box-shadow:inset 0 -4px 5px 0 rgba(0,0,0,0.05),inset 0 2px 0 0 rgba(255,255,255,0.8),0 1px 1px rgba(0,0,0,0.06);-moz-box-shadow:inset 0 -4px 5px 0 rgba(0,0,0,0.05),inset 0 2px 0 0 rgba(255,255,255,0.8),0 1px 1px rgba(0,0,0,0.06);box-shadow:inset 0 -4px 5px 0 rgba(0,0,0,0.05),inset 0 2px 0 0 rgba(255,255,255,0.8),0 1px 1px rgba(0,0,0,0.06);-webkit-border-radius:3px;-moz-border-radius:3px;-ms-border-radius:3px;-o-border-radius:3px;border-radius:3px;cursor:pointer;font-style:inherit;font-weight:bold;font-size:12px;-webkit-transition:background-color .1s;background-color:#6aae53;background-image:-webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,rgba(71,148,56,0)),color-stop(100%,#428f33));background-image:-webkit-linear-gradient(rgba(71,148,56,0),#428f33);background-image:-moz-linear-gradient(rgba(71,148,56,0),#428f33);background-image:-o-linear-gradient(rgba(71,148,56,0),#428f33);background-image:linear-gradient(rgba(71,148,56,0),#428f33);border-color:#4e9340;border-top-color:#579f4a;border-bottom-color:#327527;-webkit-box-shadow:inset 0 1px 2px 0 rgba(255,255,255,0.15),0 1px 1px rgba(0,0,0,0.1);-moz-box-shadow:inset 0 1px 2px 0 rgba(255,255,255,0.15),0 1px 1px rgba(0,0,0,0.1);box-shadow:inset 0 1px 2px 0 rgba(255,255,255,0.15),0 1px 1px rgba(0,0,0,0.1);color:#FFF;text-shadow:0 1px 1px #488739,0 0 5px rgba(255,255,255,0);-webkit-font-smoothing:antialiased;-webkit-background-clip:padding-box;font-size:16px;padding:8px 18px 9px 18px;margin-left:0.5em;text-transform:uppercase;}@media only screen and (max-width:600px){.flybuys-offer-container{width:80%;}.flybuys-header span{width:60%;display:block;}.flybuys-header .flybuys-card{width:38%;right:0;}.flybuys-couponholder{font-size:2em;}.flybuys-subhead{font-size:1.5em;}.flybuysforminput{box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;margin-bottom:0.5em;}#fieldEmail{margin-left:0!important;}button.flybuys-submit{margin-left:0!important;}.flybuysforminput{width:100%!important;}}</style>
+<style>
+/* ==========================FLYBUYS OFFER========================================= */
+
+
+.flybuys-offer-container {z-index:3000; position:fixed; top:50%; left:50%; transform: translate(-50%, -50%); background:#fff; border:1em solid #00b0ec; text-align:center; max-width:80%; display:none;}
+.close-flybuys {font-size:3em !important; position:absolute; right:0; top:0; cursor:pointer; z-index:100;}
+.flybuys-header {margin-top:2em; padding:1em; background: #00b0ec; background:linear-gradient(to bottom,#00b0ec 0,#0592c7 100%); position:relative; text-align:left;}
+.flybuys-header span { font-size:3em; display:block; position:relative; z-index:2; font-size:2em; font-family:"SwissBoldCond"; color:#fff;}
+.flybuys-header .flybuys-card {display:block; right:3em; bottom:0; position:absolute;}
+
+.flybuys-body {padding:1em; font-size:1.25em; font-family:"SwissCond";}
+.flybuys-subhead {font-size:2em; font-family:"SwissBoldCond"; text-transform:uppercase; line-height:1em;}
+.flybuys-bodycopy {margin:0.5em 0;}
+.flybuys-couponholder {font-size:3em; font-family:"SwissBoldCond"; text-transform:uppercase; border:0.25em solid #000; display:inline-block; padding:0.25em;}
+
+.emailsuccess {font-size: 1.5em; display:none;}
+.emailsuccess span {text-decoration:underline; cursor:pointer;}
+
+.flybuysforminput {
+  border: 0.4em solid #000;
+  font-size: 1em;
+  padding: 0.5em;
+}
+
+#fieldName {width:8em;}
+#fieldEmail {width:13.5em; margin-left:0.5em;}
+
+.button.flybuys-submit, button.flybuys-submit, a.button:link.flybuys-submit, a.button:active.flybuys-submit, a.button:visited.flybuys-submit {
+    cursor: pointer;
+    -webkit-appearance: button;
+    text-decoration: none!important;
+    font-family: "Helvetica Neue",arial,Helvetica,sans-serif;
+    display: -moz-inline-stack;
+    display: inline-block;
+    vertical-align: middle;
+    zoom: 1;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.75);
+    padding: 4px 11px 5px;
+    background-color: #fff;
+    background-image: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,rgba(255,255,255,0.03)),color-stop(100%,rgba(0,0,0,0.03)));
+    background-image: -webkit-linear-gradient(rgba(255,255,255,0.03),rgba(0,0,0,0.03));
+    background-image: -moz-linear-gradient(rgba(255,255,255,0.03),rgba(0,0,0,0.03));
+    background-image: -o-linear-gradient(rgba(255,255,255,0.03),rgba(0,0,0,0.03));
+    background-image: linear-gradient(rgba(255,255,255,0.03),rgba(0,0,0,0.03));
+    border: 1px solid #c7c7c7;
+    border-bottom-color: #bdbdbd;
+    border-top-color: #d3d3d3;
+    -webkit-box-shadow: inset 0 -4px 5px 0 rgba(0,0,0,0.05),inset 0 2px 0 0 rgba(255,255,255,0.8),0 1px 1px rgba(0,0,0,0.06);
+    -moz-box-shadow: inset 0 -4px 5px 0 rgba(0,0,0,0.05),inset 0 2px 0 0 rgba(255,255,255,0.8),0 1px 1px rgba(0,0,0,0.06);
+    box-shadow: inset 0 -4px 5px 0 rgba(0,0,0,0.05),inset 0 2px 0 0 rgba(255,255,255,0.8),0 1px 1px rgba(0,0,0,0.06);
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-style: inherit;
+    font-weight: bold;
+    font-size: 12px;
+    -webkit-transition: background-color .1s;
+background-color: #6aae53;
+background-image: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,rgba(71,148,56,0)),color-stop(100%,#428f33));
+background-image: -webkit-linear-gradient(rgba(71,148,56,0),#428f33);
+background-image: -moz-linear-gradient(rgba(71,148,56,0),#428f33);
+background-image: -o-linear-gradient(rgba(71,148,56,0),#428f33);
+background-image: linear-gradient(rgba(71,148,56,0),#428f33);
+border-color: #4e9340;
+border-top-color: #579f4a;
+border-bottom-color: #327527;
+-webkit-box-shadow: inset 0 1px 2px 0 rgba(255,255,255,0.15),0 1px 1px rgba(0,0,0,0.1);
+-moz-box-shadow: inset 0 1px 2px 0 rgba(255,255,255,0.15),0 1px 1px rgba(0,0,0,0.1);
+box-shadow: inset 0 1px 2px 0 rgba(255,255,255,0.15),0 1px 1px rgba(0,0,0,0.1);
+color: #FFF;
+text-shadow: 0 1px 1px #488739,0 0 5px rgba(255,255,255,0);
+-webkit-font-smoothing: antialiased;
+-webkit-background-clip: padding-box;
+font-size: 16px;
+padding: 8px 18px 9px 18px;
+margin-left:0.5em;
+text-transform:uppercase;
+}
+
+@media only screen and (max-width:600px){
+  .flybuys-offer-container {width:80%;}
+  .flybuys-header span {width:60%; display:block;}
+  .flybuys-header .flybuys-card {width:38%; right:0;}
+  .flybuys-couponholder {font-size:2em;}
+  .flybuys-subhead {font-size:1.5em;}
+  .flybuysforminput {box-sizing:border-box; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; margin-bottom:0.5em;}
+  #fieldEmail {margin-left:0 !important;}
+  button.flybuys-submit {margin-left:0 !important;}
+  .flybuysforminput {width:100% !important;}
+}
+</style>
 </div>
 <div class="afterpay-footer-container">
 <div class="afterpay-moreinfo-popup-wrapper">
 <p class="close-afterpay-popup"><em class="fa fa-times"></em></p>
 <div class="afterpay-moreinfo-inner">
-<a href="http://www.universalstore.com/afterpay"><img src="https://www.universalstore.com/media/wysiwyg/afterpay/afterpay-popup_03.jpg" class="popupimage" alt=""></a>
+<a href="https://www.universalstore.com/afterpay"><img src="https://www.universalstore.com/media/wysiwyg/afterpay/afterpay-popup_03.jpg" class="popupimage" alt=""></a>
 </div>
 </div>
-
 <style>
 
 .afterpay-moreinfo-bg{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:10;display:none;}
 .afterpay-moreinfo-popup-wrapper{position:fixed;max-width:550px;background:#fff;top:50%;left:50%;transform:translatey(-50%) translateX(-50%);box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;z-index:100;display:none;}
-.afterpay-moreinfo-inner{padding:20px;border-top:1px solid #e2e2e2;font-family:"acumin-pro-condensed";}
+.afterpay-moreinfo-inner{padding:10px;border-top:1px solid #e2e2e2;font-family:"acumin-pro-condensed";}
 @media screen and (max-width:450px){.popupimage {max-width:300px; display:block;}}
 .close-afterpay-popup {position:absolute; right:10px; top:10px; font-size:40px; font-weight:200;}
 </style></div>
-
 <div class="sign-up-footer-container">
-    <div class="sign-up-popup-wrapper">
-<div class="close-wrapper">
-<p class="close-popup">✕</p>
 </div>
-<div class="welcome-email-static-wrapper">
-    <div class="welcome-email-contents">
-        <h2>Don't want to miss out?</h2>
-        <div class="smaller-text">
-            Join us and you'll be the first to know what's up.<br>Get access to exclusive offers, sales, promos and more.
-        </div>
-        <div id="welcome-email">
-<p id="welcome-email-result"></p>
-            <form id="welcome-email-page-form" action="https://www.universalstore.com/welcomeemail/index/ajax/" method="post">
-            <input id="hidden-store" type="hidden" value="" name="store">
-            <input class="name first-name text-input" id="email-first-name" type="text" name="first_name" placeholder="FIRST NAME" required="">
-            <input class="name text-input" type="text" name="last_name" placeholder="LAST NAME" required=""><br>
-            <input class="text-input" id="email-input" type="number" name="mobile_number" placeholder="MOBILE NUMBER" required=""><br>
-            <input class="text-input" id="email-input" type="email" name="email_address" placeholder="EMAIL ADDRESS" required=""><br>
-            <div class="gender-input">
-            <span class="gender-header">GENDER: </span>
-             <div class="gender-wrapper-div">
-             <select name="gender_choice" required="">
-                 <option value="" disabled="" selected="">CHOOSE</option>
-                 <option value="M" name="gender_choice">MALE</option>
-                 <option value="F" name="gender_choice">FEMALE</option>
-             </select>
-             </div>
-             </div>
-             <!--<div class='dob-input'>
-                 <span>DOB: </span>
-                 <input class='date-input' type="text" name="dob_day" placeholder="DD" required>
-                 <input class='date-input' type="text" name="dob_month" placeholder="MM" required>
-                 <input class='date-input' type="text" name="dob_year" placeholder="YY" required>
-             </div>-->
-             <button type="submit" id="welcome-email-submit">JOIN THE TEAM</button>
-        <div class="smallest-text"><a href="//universalstore.com/privacy-policy">Privacy Policy</a></div>
-            
-    </form></div>
-</div>
-</div>
-</div>
-</div>
-<div class="sign-up-bg">
-</div>
-
-
-
-
-<style>
-
-
-.sign-up-bg{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:10;display:none;}
-.sign-up-popup-wrapper{position:fixed;max-width:550px;background:#fff;top:50%;left:50%;transform:translatey(-50%) translateX(-50%);box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;z-index:100;display:none;}
-
-.breadcrumbs {
-    display:none;
-}
-
-.welcome-email-static-wrapper {    
-    text-align: center;
-    background: #fff;
-}
-
-.welcome-email-contents {font-family: "SwissCond"; padding: 5% 14%; margin: 5% 0;}
-
-.welcome-email-contents #welcome-email-submit {-webkit-appearance: none; -moz-appearance: none;}
-
-.welcome-email-contents h2 {
-    font-size: 2.5em;
-    padding-bottom: 0.2em;
-}
-
-.welcome-email-contents .text-input {
-    border: none;
-    border-bottom: 1px solid grey;
-    width: 46%;
-    text-align: left;
-    font-family: "SwissCond";
-    padding: 5px 0;
-    margin-bottom: 15px;
-font-size: 1.5em;
--webkit-appearance: none;
--webkit-border-radius:0px;
-}
-
-.welcome-email-contents .first-name {
-    margin-right:5%;
-}
-
-.welcome-email-contents #email-input {
-    width: 100%;
-}
-
-.welcome-email-contents .gender-input {
-    text-align:left;
-    width:100%;
-    float: left;
-    margin-right: 5%;
-    padding-top: 5%;
-font-size:1.5em;
-}
-
-.welcome-email-contents .gender-wrapper-div:after {
-    position: relative;
-    font-family: FontAwesome;
-    right:7%;
-    color: #898989;
-    content: "\f0d7";
-    pointer-events: none;
-    opacity: 1;
-}
-
-.welcome-email-contents select {
-    -webkit-appearance:none; 
-    padding: 0.5em;
-    color: #898989;
-    font-family: "SwissCond";
-    outline: 0;
-    position: relative;
-    letter-spacing: 0.08em;
-    border-radius: 0;
-    -webkit-border-radius: 0;
-    -moz-border-radius: 0;
-    font-size:0.8em;
-}
-
-.welcome-email-contents select[name=gender_choice] {
-    width: 65%;
-}
-
-.welcome-email-contents .dob-input {
-    width:47%;
-    float:left;
-    text-align:left;
-    padding-top: 5%;
-    font-size:1.5em;
-    border-width:1px;
-}
-
-.welcome-email-contents .date-input {
-    width:12%;
-    padding:0.5em;
-    font-size: 0.8em;
-    color: #898989;
-    font-family: "SwissCond";
-    letter-spacing: 0.08em;
-}
-
-.welcome-email-contents .smaller-text, .welcome-email-content .checkboxes  {
-     padding-bottom: 2em;
-    font-size: 1.3em;
-     color: grey;
-}
-
-.welcome-email-contents .smallest-text  {
-     padding-top: 1em;
-     padding-bottom: 2em;
-     color: grey;
-}
-
-.welcome-email-contents .smallest-text a {
-    color: grey;
-}
-
-
-.welcome-email-contents .checkboxes .checkbox {
-    vertical-align: baseline;
-    margin: 0 2%;
-}
-
-.welcome-email-contents .checkboxes span {
-    margin-right: 3%;
-}
-
-.welcome-email-contents #welcome-email-submit {
-    font-family: "acumin-pro-condensed",Arial,Helvetica,sans-serif;
-    font-size: 1.4em;
-    color: #fff;
-    cursor: pointer;
-    padding: 0.8em 2em;
-    outline: none;
-    position: relative;
-    -webkit-transition: all 0.3s;
-    -moz-transition: all 0.3s;
-    transition: all 0.3s;
-    border: 3px solid #000;
-    color: #fff;
-    background: #000;
-    width: 100%;
-    margin-top:10%;
-}
-
-span.gender-header {
-    float:left;
-    padding: 0.5em 0.5em 0 0;
-}
-
-p#welcome-email, p#welcome-email-result {
-    font-size: 2em;
-}
-
-#welcome-email li{
-    text-align: left;
-}
-
-.close-wrapper .close-popup {
-    font-size:40px;
-    padding-right: 0.3em;
-    cursor: pointer; 
-}
-
-::-webkit-input-placeholder {color: black;}
-:-moz-placeholder {color: black;}
-::-moz-placeholder {color: black;}
-:-ms-input-placeholder {color: black;}
-
-
-@media screen and (max-width:1023px) {
-    .welcome-email-contents .text-input, .welcome-email-contents .gender-input, .welcome-email-contents .dob-input {width:100%;}
-    .sign-up-popup-wrapper {width:50%;} 
-}
-
-@media screen and (max-width:700px){
-.welcome-email-static-wrapper {margin-left:5%; margin-right:5%;} 
-}
-
-@media screen and (max-width:425px){
-.sign-up-popup-wrapper {width:80%;} 
-.welcome-email-contents .text-input {font-size:1em; padding:0;}
-.welcome-email-contents .gender-input {font-size:1em;}
-.welcome-email-contents h2 {font-size:1.5em;}
-.welcome-email-contents #welcome-email-submit {font-size:1em; padding: 0.4em 1em;}
-.welcome-email-contents .smaller-text, .welcome-email-content .checkboxes {font-size:0.75em;}
-.welcome-email-contents .smallest-text {font-size:0.5em; padding-bottom:0; padding-top:0.5em;}
-}
-
-</style>
-<script>
-
-function getURLParameter(name) {
-  return decodeURIComponent((new RegExp('[?|&]' + name + '=' + '([^&;]+?)(&|#|;|$)').exec(location.search) || [null, ''])[1].replace(/\+/g, '%20')) || null;
-}
-
-$j('#welcome-email #hidden-store').val(getURLParameter('store'));
-
-$j('#welcome-email-page-form').submit(function(e){
-      e.preventDefault();
-      $j.ajax({
-      beforeSend: function(){
-        $j('#welcome-email-page-form').fadeOut(200);
-        $j('#welcome-email-result').replaceWith("<p id=\"welcome-email-result\">Please wait...</div></p>").fadeIn(200);
-        },
-      url : this.action,
-      dataType: "json",
-      data: $(this).serialize(),
-      success: function (data) {
-          if(typeof(data) != 'object') {
-              if (data.indexOf("Error") >= 0) {
-                          //alert("Whoops! It appears we have an error:\n" + data);
-                          $j('#welcome-email-page-form').fadeIn(200);
-                          $j('#welcome-email-result').replaceWith("<p id=\"welcome-email-result\">Whoops! It appears we have an error:\n" + data + "</p>");
-             }
-          } else {
-                          $j('#welcome-email').fadeOut(200, function(){
-                            $j('#welcome-email').replaceWith("<p id=\"welcome-email\">Thanks for signing up!</p>");
-
-                          });
-                          $j('#welcome-email').fadeIn(200);
-                        }
-                
-          },
-      error: function(){alert("Sorry, it appears there's been an error. Please try again, or contact customer service." ); $j('#welcome-email-page-form').fadeIn(200); $j('#welcome-email-result').replaceWith("<p id=\"welcome-email\">Please try again:</p>");},
-      complete: function(){$j('.loader').remove();}
-  });
-});
-</script>
-
-
 <div class="christmas-shipping-footer-container">
-    </div>
-
+</div>
 <div class="uppercut-footer-container">
-    </div>
-
+</div>
 <div class="ref-video-footer-container">
-        <div class="ref-video-popup-wrapper">
-    <iframe src="" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-
+<div class="ref-video-popup-wrapper">
+<iframe src="" width="640" height="360" frameborder="0" allow="autoplay" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 <p class="close-ref-video-popup"><i class="fa fa-times"></i> Close</p>
 </div>
 </div>
 <div class="ref-video-bg">
 </div>
-
 
 <style>
 
@@ -1910,10 +2880,9 @@ $j('#welcome-email-page-form').submit(function(e){
 }
 
 </style>
-    
-<div class="video-embed-container">
-    </div>
 
+<div class="video-embed-container">
+</div>
 
 
 
@@ -1925,20 +2894,11 @@ $j('#welcome-email-page-form').submit(function(e){
 <p class="close-video-popup">✕</p>
 </div>
 <div class="video-popup-wrapper" style="display:none">
-     <iframe src="" width="1280" height="720" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe src="" width="1280" height="720" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 </div>
 
 
-<!--
-<div class='wrapper'>
-    <div class='page'>
-        <div class='main-container col1-layout'>
-            <div class='main'>
-                <div class='col-main'>
-                    <div class='std'>
-                        <div class='wrapper home-page'>
--->
 <style>
 
 .video-bg {position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(255,255,255,1); z-index: 9999999999; display:none;}
@@ -1963,7 +2923,6 @@ $j('#welcome-email-page-form').submit(function(e){
 .video-popup-wrapper iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
 </style>
-
 <script>
 
 function alignEmbed() {
@@ -1987,12 +2946,8 @@ $j('.close-video-popup,.video-bg,.close-wrapper').click(function(){
 
 </script>
 
-
-	
-    <div class="ref-video-footer-container">
-            </div>
-
-
+<div class="ref-video-footer-container">
+</div>
 <script type="text/javascript">
 
     $j.urlParam = function(name){
@@ -2016,196 +2971,6 @@ $j('.close-video-popup,.video-bg,.close-wrapper').click(function(){
         $j(document).ready(function(){
             $j('.sign-up-popup-wrapper,.sign-up-bg').fadeIn();
         });
-    } else if ($j.urlParam('ref') == 'kscy') {
-        $j(document).ready(function(){
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/174614915?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'adidas') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/203052392?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'hangtime') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/177971942?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'accessories') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/179259909?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'mens-exclusive') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/179833099?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'top-drop') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/179834518?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'dad-cap') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/180137693?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'hype') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/180692168?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'top-that') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/181438273?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'hilfiger-denim') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/182815497?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'womens-shorts') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/183237529?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'shorts') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/187124394?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'ready-denim') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/187609898?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'ready-tops') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/187754945?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'kscy-drop') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/188069755?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'mens-preppy') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/189075814?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'womens-promo') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/189097868?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'luckandtrouble-denim') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/189866793?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'thrills') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/190634445?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'womens-frayed') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/191565939?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'mens-shorts') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/192564727?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'get-set') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/192736192?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'hola-days') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/196683976?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'NYE') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/196539495?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'wrangler') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/200124725?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'dreamy') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/201603393?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'graphic') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/201615528?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'common') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/202149145?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'exclusive-womens') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/202149372?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'gtm') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/203371051?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'dress-it-down') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/204304368?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'b-cools') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/204304746?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'lee') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/205297337?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'lower') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/205830019?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'blue-you') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/205982734?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'tommy') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/207205608?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'lucktrouble') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/207224209?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
-    } else if ($j.urlParam('ref') == 'ls-tees') {
-        $j(document).ready(function () {
-            $j('.ref-video-popup-wrapper iframe').attr('src', 'https://player.vimeo.com/video/207740169?autoplay=1');
-            $j('.ref-video-popup-wrapper,.ref-video-bg').fadeIn();
-        });
     } else if (((window.location.href).indexOf('mens/accessories/hair-product.html') !== -1 ||
                 (window.location.href).indexOf('uppercut_deluxe.html') !== -1) && $j.cookie('uppercut') != 'closed') {
         $j(document).ready(function () {
@@ -2219,7 +2984,7 @@ $j('.close-video-popup,.video-bg,.close-wrapper').click(function(){
 		});
     }
 
-    if($j.urlParam('ref') != "" && $j.urlParam('ref') != 'afterpay') {
+    if($j.urlParam('ref') != "" && $j.urlParam('ref') != 'afterpay' && $j.urlParam('ref') != null ) {
         ga('send', 'event', 'video-popup', 'autoplay', $j.urlParam('ref'));
     }
 
@@ -2287,16 +3052,11 @@ $j('.close-video-popup,.video-bg,.close-wrapper').click(function(){
 
     });
 </script>
-
 <div id="modalBackground"></div>
-
 
 <script type="text/javascript">
     ga('send', 'pageview');
 </script>
-
-
-
 <script type="text/javascript">
 
     if ( document.getElementById('ecomm_prodid') && document.getElementById('ecomm_prodid').innerHTML.length > 0 && document.getElementById('ecomm_prodid').innerHTML !== '&nbsp;'){
@@ -2343,9 +3103,6 @@ $j('.close-video-popup,.video-bg,.close-wrapper').click(function(){
 
 </script>
 
-
-
-<!-- Google RM Tag -->
 <script type="text/javascript">
     /* <![CDATA[ */
     var google_conversion_id = 981153457;
@@ -2360,11 +3117,8 @@ $j('.close-video-popup,.video-bg,.close-wrapper').click(function(){
         <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/981153457/?value=0&amp;guid=ON&amp;script=0"/>
     </div>
 </noscript>
-<script type="text/javascript" src="//universalstore.resultspage.com/rac/sli-rac.config.js"></script>
+<script type="text/javascript" src="//universalstore.resultspage.com/autocomplete/custom/sli-rac.config.js"></script>
 
-
-
-<!-- BEGIN: Google Trusted Stores -->
 <script type="text/javascript">
     var gts = gts || [];
 
@@ -2384,10 +3138,9 @@ $j('.close-video-popup,.video-bg,.close-wrapper').click(function(){
         s.parentNode.insertBefore(gts, s);
     })();
 </script>
-<!-- END: Google Trusted Stores -->
 
-<!-- //FOOTER -->
-            <!-- BEFORE BODY END --><script type="text/javascript" src="//www.ist-track.com/ContainerJavaScript.ashx?id=b20f1a37-3be3-4ea0-b310-3d29eb75cf81"></script>
+
+<script type="text/javascript" src="//www.ist-track.com/ContainerJavaScript.ashx?id=b20f1a37-3be3-4ea0-b310-3d29eb75cf81"></script>
 <noscript> 
   <img src="//www.ist-track.com/ProcessClickImage.ashx" alt="" width="1" height="1"/>
 </noscript><script type="text/javascript">
@@ -2407,11 +3160,10 @@ $j('.close-video-popup,.video-bg,.close-wrapper').click(function(){
     });
 </script>
 <div id="afterpay-what-is-modal" style="display:none;">
-    <div class="image">
-        <img src="https://www.universalstore.com/skin/frontend/base/default/afterpay/images/modal/Lightbox-Desktop.png" alt="">
-    </div>
+<div class="image">
+<img src="https://www.universalstore.com/skin/frontend/base/default/afterpay/images/modal/Lightbox-Desktop.png" alt="">
 </div>
-
+</div>
 <script type="application/javascript">
     $j(window).resize(function() {
         if ($j(window).innerWidth() >= 650) {
@@ -2437,10 +3189,10 @@ new Avs(
 );
     
 </script>
-<!-- //BEFORE BODY END -->
-        <!--//page-->
-    <!--//.wrapper-->
-<!-- ABSOLUTE FOOTER --><!-- //ABSOLUTE FOOTER -->
+
+
+
+
 
 
 </body></html>
