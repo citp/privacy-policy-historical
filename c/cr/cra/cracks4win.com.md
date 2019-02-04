@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cracks4win.com privacy policy that was archived on 2018-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180719150005id_/https%3A//www.cracks4win.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cracks4win.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204131427id_/https%3A//www.cracks4win.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cracks4Win
 
@@ -13,7 +13,7 @@ We understand that privacy online is important to users of our Site, especially 
 
 At www.cracks4win.com we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use ‘cracks4win.com’ and how we safeguard your information.
 
-Our website address is: http://www.cracks4win.com.
+Our website address is: https://www.cracks4win.com.
 
 ## What personal data we collect and why we collect it
 
