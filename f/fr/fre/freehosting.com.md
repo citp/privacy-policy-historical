@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehosting.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906131944id_/https%3A//www.freehosting.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehosting.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204152318id_/https%3A//www.freehosting.com/pp.html) for the most accurate reproduction.*
 
 # Free Hosting - PP
 
@@ -74,34 +74,16 @@ We provide various web hosting and domain registration services.
 
 We provide absolutely free web hosting with all features and tools you need to create a website. Free hosting is valid for the entire lifetime of your domain. 
 
-[ Learn More » ](https://web.archive.org/web/20180906131944id_/https%3A//www.freehosting.com/free-hosting.html) popular
+[ Learn More » ](https://web.archive.org/web/20190204152318id_/https%3A//www.freehosting.com/free-hosting.html) popular
 
 #### Paid web hosting
 
 Unlimited multi-site web hosting with value added features is suitable for any type of project. We offer 30-day money back guarantee for all purchases.
 
-[ Learn More » ](https://web.archive.org/web/20180906131944id_/https%3A//www.freehosting.com/paid-hosting.html)
+[ Learn More » ](https://web.archive.org/web/20190204152318id_/https%3A//www.freehosting.com/paid-hosting.html)
 
 #### Domain registration
 
 Domain name is a unique identifier that allows Internet users to reach your website. We offer registration of domain names in gTLD and New gTLD zones.
 
-[ Learn More » ](https://web.archive.org/web/20180906131944id_/https%3A//www.freehosting.com/domains.html)
-
-#### Free FTP hosting
-
-We provide cloud file storage with FTP access which is especially useful to upload surveillance camera recordings, backup archives, or large files.
-
-[ Learn More » ](https://web.archive.org/web/20180906131944id_/https%3A//www.freehosting.com/free-ftp-hosting.html) coming soon
-
-#### Free DNS hosting
-
-We offer authoritative DNS resolution service with online zone records management interface and white label name server hostnames.
-
-[ Learn More » ](https://web.archive.org/web/20180906131944id_/https%3A//www.freehosting.com/free-dns-hosting.html) coming soon
-
-#### Free cloud backup hosting
-
-Backup important files from your PC or media from mobile device to FreeHosting Cloud. Access your files from anywhere using web-based interface.
-
-[ Learn More » ](https://web.archive.org/web/20180906131944id_/https%3A//www.freehosting.com/free-cloud-backup.html) coming soon
+[ Learn More » ](https://web.archive.org/web/20190204152318id_/https%3A//www.freehosting.com/domains.html)
