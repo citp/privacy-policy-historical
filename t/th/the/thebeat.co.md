@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebeat.co privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812101833id_/https%3A//thebeat.co/en/privacy-policy/%3Fintl%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebeat.co privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204151904id_/https%3A//thebeat.co/en/privacy-policy/%3Fintl%3D1) for the most accurate reproduction.*
 
 # Privacy Policy for Passengers – Beat
 
