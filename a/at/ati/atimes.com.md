@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atimes.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231175724id_/http%3A//www.atimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atimes.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204181924id_/http%3A//www.atimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Asia Times
 
