@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the househunt.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211044317id_/https%3A//www.househunt.com/privacy04.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the househunt.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204033441id_/https%3A//www.househunt.com/privacy04.htm) for the most accurate reproduction.*
 
 # Privacy Policy - HouseHunt
 
@@ -38,7 +38,7 @@ Real Estate Agents: Personal Information is disclosed to our local real estate a
 
 Mortgage Lenders: Personal information may be disclosed to our local mortgage lenders in the geographical area that you request for the purpose of assisting you in a mortgage transaction. 
 
-Third Party & Aggregate Data: From time to time, you may be offered the opportunity to receive materials or special offers from third parties exists. If you opt to receive information from these third parties, HouseHunt will (with your permission) share your name and e-mail address with such third parties. Under confidentiality agreements, HouseHunt may match Personal Information with third party data. Also, HouseHunt may keep track of what portions of the Website Users are visiting and other User statistics, and aggregate this information to help us create a better experience for users of our Web site. This is all done without knowing your name or other Personal Information in order to describe our viewers and services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
+When you submit any form from the HouseHunt.com or our community websites you are requesting the online services of our member real estate agent and mortgage lender. By submitting your request form you are consenting to receive communications by email, telephone, text message, fax, and chat from HouseHunt, our real estate agent, and our mortgage lender. 
 
 Other: HouseHunt may also disclose account Information in special cases when we have reason to believe that disclosing this Information is necessary to identify, contact or bring legal action against someone who may be violating HouseHunt's rights, or may be causing injury to or interference (either intentionally or unintentionally) with any of HouseHunt's rights or property, other HouseHunt Users, or anyone else. HouseHunt may disclose or access account Information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. 
 
