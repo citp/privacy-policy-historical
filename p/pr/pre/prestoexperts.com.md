@@ -1,125 +1,208 @@
-> *The following text is extracted and transformed from the prestoexperts.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606083854id_/http%3A//www.prestoexperts.com/lp/prestoexperts_privacy_policy/%3Fmobile%3Doff) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestoexperts.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204024119id_/https%3A//www.prestoexperts.com/lp/prestoexperts_privacy_policy/%3Fmobile%3Doff) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Welcome to LivePerson's Expert Privacy Policy. This Privacy Policy applies to you if you are a Member, Expert or other visitor to LivePerson's expert services platform (" **LivePerson's Expert Services Platform** ") made available at [www.kasamba.com](http://www.kasamba.com/), [www.prestoexperts.com](http://www.prestoexperts.com/), or [www.liveperson.com/experts](http://www.liveperson.com/experts) (" **LivePerson's Expert Services Site** ") and at other third party websites. Members, Experts and all other visitors to LivePerson's Expert Services Site and/or LivePerson's Expert Services Platform are referred to in this policy as " **you** " or an " **Expert Services Visitor** ". This Privacy Policy applies regardless of whether you are using a computer, a mobile device or other device to visit LivePerson's Expert Services Site or LivePerson's Expert Services Platform. 
+Effective Date:  August 23, 2018
 
-You are considered to be a " **Member** " if you register to be a member on LivePerson's Expert Services Platform and your member application is accepted. You are considered to be an " **Expert** " if you complete the expert application on LivePerson's Expert Services Platform and your profile has been activated by LivePerson. Please note that this Privacy Policy applies to all Expert Services Visitors regardless of whether or not such visitor is a Member or an Expert.
+PrestoExperts values your privacy.  This privacy policy explains what personal data we collect from you and how we use it.  This privacy policy applies if you visit or use PrestoExperts’s websites or mobile applications (collectively, the “Expert Platform”).  This privacy policy also applies if you visit PrestoExperts’s social media or other web pages located on third-party websites.
 
-This Privacy Policy does not apply to visitors to LivePerson's corporate website at [www.liveperson.com](http://www.liveperson.com/). For privacy terms applicable to those visitors, please click [here](http://www.liveperson.com/policies/privacy). This Privacy Policy also does not apply to visitors to the websites of LivePerson's business customers. For privacy terms applicable to those visitors, please click [here](http://www.liveperson.com/policies/technology-privacy-policy).
+What does PrestoExperts do?
 
-This Privacy Policy explains how LivePerson and certain third parties may collect, use, and disclose "Personal Information" and other information we obtain via LivePerson's Expert Services Site and via LivePerson's Expert Services Platform (together, “Data”). 
+What information do we collect from you?
 
-Personal Information Defined. LivePerson considers "Personal Information" to include information that alone or when in combination with other information may be used to readily identify or contact you, such as: name, address, email address, or phone number. LivePerson does not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
+How does PrestoExperts collect information from you?
 
-Use and Acceptance. By using LivePerson's Expert Services Site or LivePerson's Expert Services Platform, you agree to this Privacy Policy. If you do not accept this Privacy Policy, you must not use LivePerson's Expert Services Site or LivePerson's Expert Services Platform.
+How does PrestoExperts use the information it collects about me?
 
-New Uses of Personal Information and Other Information. From time to time, LivePerson may use Data for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change regarding information previously collected, LivePerson will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law. 
+Does PrestoExperts use cookies?
 
-### What information is collected from Expert Services Visitors and how is it collected?
+Sharing of information collected
 
-  * Communications with Experts and Members. If you engage in a communication with an Expert or a Member using LivePerson's chat, email, voice or other communication products or services made available to you by LivePerson via LivePerson's Expert Services Site or LivePerson's Expert Services Platform, you may voluntarily provide, or otherwise be asked to provide, Personal Information such as your name, contact information and other information to facilitate service. By providing Personal Information and other information via LivePerson's communication products or services, you consent to LivePerson collecting and processing such information for the purposes outlined in this Privacy Policy.
+Access and changes to personal data
 
-LivePerson maintains transcripts (" **Transcripts** ") of chats, emails and other written communications conducted between you and any Expert or Member using LivePerson's products and services. LivePerson may, in accordance with applicable law (including laws related to notice and/or consent), record and maintain recordings of voice communications (" **Recordings** ") between you and any Expert or Member. 
+Third-party integrations
 
-  * Communications with LivePerson. If you engage in a communication with LivePerson related to LivePerson's Expert Services Platform or LivePerson's Expert Services Site using LivePerson's chat, email, voice or other communication products or services made available to you by LivePerson, or if you engage in a pre- or post-interaction survey (" **Survey** ") related to any such communication, you may voluntarily provide, or otherwise be asked to provide, Personal Information such as your name, contact information and other information to facilitate service. By providing Personal Information and other information via LivePerson's communication products or services, you consent to LivePerson collecting and processing such information for the purposes outlined in this Privacy Policy. 
+How can I review, correct, delete, transfer, or receive a copy of my information or withdraw my consent to process my personal data?
 
-LivePerson maintains Transcripts of communications that are conducted between you and LivePerson. LivePerson also maintains copies of Surveys and LivePerson may, in accordance with applicable law (including laws related to notice and/or consent), record and maintain Recordings of voice communications between you and LivePerson.
+How does PrestoExperts keep my information secure?
 
-  * Browser Information and Usage Information. We log web browser information (e.g., Internet Protocol addresses and browser types) and other usage information from LivePerson's Expert Services Site and LivePerson's Expert Services Platform such as page view tallies, time spent on each page, geographic location information, page browsing information, subject matter browsing information and operating system information. If the Expert Services Visitor is using a mobile or other portable device to visit or access LivePerson's Expert Services Site or LivePerson's Expert Services Platform, we may collect hardware information related to the device used by the Expert Services Visitor. Your browser may be set to limit or prevent any of the browser information described above from being transmitted. If so, LivePerson's Expert Services Site, LivePerson's Expert Services Platform or certain communication tools, or other features or functions offered as part of LivePerson's Expert Services Site or LivePerson's Expert Services Platform, may not be available to you. 
+Additional mobile considerations
 
-  * Member Account. In order for a visitor to use many of the features or offerings on LivePerson's Expert Services Site or LivePerson's Expert Services Platform, the visitor may be required to open a member account and provide Personal Information. Many services require payment of a fee. Before using pay services, the Member would be required to provide payment information via the members account. LivePerson uses a third party credit card processor to process and store credit card information submitted via the Member’s account.
+PrestoExperts message boards
 
-LivePerson may allow Expert Services Visitors to sign in to LivePerson's Expert Services Platform and/or enroll as a Member by using the sign-in credentials used by such visitor on a third party social media website (e.g., Facebook). By signing in or enrolling using the third party website’s credentials, the Expert Services Visitor consents to LivePerson collecting and maintaining the information provided via such third party website. LivePerson is not responsible for the privacy practices of any third party website.
+International data transfers
 
-  * Requests for Information, News and other Content. When you sign up to become a Member or an Expert, you may sign up to receive information, news and other content related to new and existing products and services related to LivePerson's Expert Services Site, LivePerson's Expert Services Platform and events and other information related to LivePerson that may be of interest to you. You may also sign up to receive information, news and other content from third parties whose services and/or products we believe may be of interest to you. You will be asked to provide Personal Information, such as contact details and other information, relevant to delivering such news and information. We maintain all such information.
+Children
 
-  * Technical Support Requests. If you need technical support related to LivePerson's Expert Services Site or LivePerson's Expert Services Platform, you will need to complete a form for the purposes of defining and clarifying your technical support request. When submitting a technical support request, you will be asked to provide Personal Information, including an email address and a description of the issue. We maintain copies of all technical support requests and other information submitted with or related to such requests.
+Miscellaneous
 
-  * Promotions. From time to time, we may offer promotions on LivePerson's Expert Services Site or via LivePerson's Expert Services Platform. If we do, and if you wish to participate, you may be required to provide Personal Information, such as contact information and other information. We maintain such information.
+### What does PrestoExperts do?
 
-  * Expert Services Applicants. If a visitor wishes to apply to be an Expert on LivePerson's Expert Services Platform, the visitor will be required to submit Personal Information as requested. Any information supplied by or on behalf of a visitor for purposes of becoming an Expert may be maintained by LivePerson as well as third party affiliates and other third parties. Please note that LivePerson may have additional privacy terms that apply to Expert applicants. Such terms will be made available when an applicant applies to be an Expert or when an applicant otherwise accesses his or her account.
+PrestoExperts provides an advisor platform that allows members to locate an advisor to ask questions or request advice and/or services directly from such advisor (the “Expert Platform”).  PrestoExperts, via the Expert Platform, enables a member to communicate directly with the advisor and pay for the services purchased by the member from such advisor.
 
-  * Cookies. LivePerson's services use cookies and other similar technologies such as pixel tags to collect and store information that is generated automatically as you use the services, including your preferences and anonymous usage statistics.
+### What information do we collect from you?
 
-Similar cookies and other technologies are used by our partners, which may also include Flash cookies. Flash cookies are set through a mechanism in Adobe Flash Player. With Flash cookies your data is stored in multiple places and it may be restored once you delete it. To control flash cookies, modify the settings on the Macromedia website [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). HTML5 has a local storage feature that, when used, allows for quicker access to a website upon a return visit. HTML5 is currently supported by some mobile devices and desktop browsers. HTML5 data is not stored in a browser's "cookies" file. Most browsers also give you the ability to control cookies, usually through the settings menu - your browser's help feature will explain how. Additionally, certain of our partners allow you to opt-out of their use of cookies by clicking [here](http://www.networkadvertising.org/choices/). The choices you make on these sites are browser-specific. So, if you use a different browser, you will need to opt out again. If a browser is set to refuse cookies, it is possible that some of the functionality offered by LivePerson will not be available or will not work as effectively for you.
+By visiting and/or communicating on the Expert Platform, we may collect certain information from you, including but not limited to:
 
+  * Information you provide to us, such as: 
+    * Personal information, such as your name and contact information.
+    * Surveys, transcripts and recordings of your communications with advisors, members, and us.
+    * Information you provide on PrestoExperts message boards.
+    * Your payment information, including credit card number(s) and related billing information.
+    * Any personal information you choose to share through your use of the Expert Platform, such as your medical (physical and/or mental health) information, sexual orientation, etc.  Please note that if you do not wish to disclose this information, you should not do so.
+    * For Experts, applicable tax forms.
+  * Automatic information, such as: 
+    * Web browser and usage information, including IP address, browser types, page view tallies, time spent on each page, page browsing information, operating system and type of device used.
 
 
 
-### How does LivePerson use and disclose information it collects from LivePerson Users?
+### How does PrestoExperts collect information from you?
 
-  * Transcripts, Surveys and Recordings. LivePerson may access and use Transcripts, Surveys and Recordings for purposes of performing or delivering a service to an Expert Services Visitor, providing maintenance or support services for an Expert Services Visitor, for training and quality assurance purposes, for purposes of investigating any claim made by or related to an Expert Services Visitor, for purposes of improving our services and/or for other lawful purposes. Third-party service providers retained by LivePerson to perform services on behalf of LivePerson may also have access to Transcripts, Surveys and Recordings for purposes of performing or delivering a service to LivePerson, providing maintenance or support services, for training and quality assurance purposes, for purposes of investigating any claim made by an Expert Services Visitor or related to an Expert Services Visitor’s use of the services, for purposes of improving our services and/or for other lawful purposes. 
+We collect information when you sign up to use the Expert Platform and also when you communicate with other members of the Expert Platform, including through:
 
-Experts with whom a Member or other Expert Services Visitor communicates have access to the Transcripts and Recordings between them. LivePerson has no control over the privacy practices of such Experts. You are encouraged to verify the privacy practices of Experts before you communicate with them. 
+  * PrestoExperts’s registration process
+  * Chats
+  * Phone calls
+  * Messages
+  * Message boards
+  * If you register for the Expert Platform via a third-party social media platform, we may receive information from that third-party platform about you.
+  * If you are referred to the Expert Platform through an affiliate or referral partner, we may receive information from such partners about you.
+  * If you sign up as an Expert, although PrestoExperts is not responsible for vetting Experts, we may use a third party to confirm your credentials, including relevant licenses and certifications.
 
-  * Browser Information and Cookies. We use browser information, cookies and pixel tags to determine whether a communication service or marketing material should be deployed on your browser when you are visiting LivePerson's Expert Services Site or using LivePerson's Expert Services Platform. We may also use browser information, cookies and pixel tags: to determine how you arrived at LivePerson's Expert Services Site or LivePerson's Expert Services Platform, to determine whether you are a return visitor, to help us improve our product and service offerings, for quality assurance and training purposes, to help diagnose problems with our servers, to gather broad demographic information, to administer and optimize our services, to deliver marketing or other materials to you on behalf of third parties and for other lawful purposes. Information collected by third party operators themselves is governed by their own privacy policies.
 
-  * Aggregate Information. We may aggregate information so that it is not Personal Information, and we may use and share such aggregated information for training and quality assurance purposes, for purposes of delivering our services, for purposes of expanding and improving our services and for other lawful purposes.
 
-  * Third Parties. LivePerson does not sell, trade or rent Personal Information provided by you in any Transcript, Survey or Recording for direct marketing or any other purpose, except as provided in this Privacy Policy or with your permission. Except as described in this Privacy Policy, LivePerson does not divulge the content of Transcripts, Surveys or Recordings to third parties or vendors performing services on behalf of LivePerson.
+Please note that if we receive your information from third parties as mentioned above, the data you provide to such third parties is also subject to the third party’s privacy policy.
 
-If you accessed LivePerson's Expert Services Site or LivePerson's Expert Services Platform via a third party website, you may be subject to terms and conditions that apply to that third party website. As mentioned below, LivePerson is not responsible for the privacy practices of any third party. 
+In addition, we may collect information through the following methods if you use the Expert Platform or visit Ksaamba’s social media pages or other pages located on third-party websites:
 
-LivePerson uses third party data facilities and other third party service providers to perform services that are routinely handled by such providers. Such providers may store and, if applicable, process Personal Information and non-Personal Information in keeping with the service that they provide. We may also share weblog data and other similar non-Personal Information Data with third parties. For example, we may share traffic data for the Site with a third party that analyzes and publishes Website traffic surveys.
+  * Your communications with PrestoExperts,
+  * Your requests for information, news and other content,
+  * A technical support request you submit, or
+  * Your participation in a PrestoExperts promotion.
 
-  
 
-  * Legal Reason to Disclose. LivePerson may disclose your information including Personal Information if: (i) LivePerson reasonably believes that disclosure is necessary in order to comply with a legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirement of any governmental authority, (ii) disclosure would potentially mitigate our liability in an actual or potential lawsuit, (iii) reasonably necessary to enforce this Privacy Policy, our Terms of Use or our agreement with an Expert Services Visitor, (iv) disclosure is intended to help investigate or prevent unauthorized transactions or other illegal activities (including any claim that a Member did not authorize charges incurred via LivePerson's Expert Services Platform or via LivePerson's Expert Services Site), or (v) necessary or appropriate to protect our rights or property, or the rights or property of any person or entity.
 
+We may also collect information from our direct interactions with you, publicly available data or data provided by third-party sources, such as marketing opt-in lists.
 
+### How does PrestoExperts use the information it collects about me?
 
+We use the information we collect to provide and improve our services, to deliver information requested by you (for example in response to technical support requests), to deliver marketing or other materials to you (including through phone calls if you provide your telephone number), or for promotions you may enter into. We process your information if you have given your consent; if it’s necessary to perform a contract with you or to take steps at your request prior to entering into a contract; if it’s necessary to comply with legal obligations; or if it’s necessary for us or a third party to pursue a legitimate interest. PrestoExperts may retain your information for a period of time consistent with the original purpose of collection. For example, PrestoExperts may retain your information during the time in which you have an account to use the Services. We may also retain your information during the period of time needed for PrestoExperts to pursue our legitimate business interests, conduct audits, comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### Special Notice to LivePerson Users located in countries other than the United States
+### Does PrestoExperts use cookies?
 
-If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, including those whose privacy laws may be more restrictive than U.S. law, please note that you are transferring your personal data to the United States to LivePerson. By providing your personal data you consent to that transfer. 
+We may use cookies and other identification technologies for record keeping purposes and to enhance your experience on the Expert Platform. 
 
-### Message Boards, Communities, Blogs
+ **Cookies:**
 
-If you use any message board, community (including any Expert Services community or forum) or blog made available on LivePerson's Expert Services Site or LivePerson's Expert Services Platform you should be aware that any information you submit via those services may be read, collected, copied and used by other users, and could be used to send you unsolicited messages. LivePerson may access and use any such information for purposes of performing or delivering a service to an Expert Services Visitor, for purposes of providing maintenance or support services, for training and quality assurance purposes, for purposes of investigating any claim, for purposes of improving our services and/or for other lawful purposes. For the avoidance of doubt, LivePerson is not responsible for the information that you choose to submit or post via any of those services and LivePerson is not responsible for how any such information may be used by others or responded to by others. LivePerson's privacy obligations set forth in this Privacy Policy are not applicable to your use of any message board, community or blog on LivePerson's Expert Services Site, on LivePerson's Expert Services Platform or on any third party website. Additional terms made available via any such message board, community and/or blog may apply to your use of any of the foregoing.
+Cookies are small text files stored on a visitor’s web browser and applications. Cookies are often used to make web-browsing easier by performing functions such as saving passwords and maintaining lists of personal preferences regarding the use of the website.
 
-### How does LivePerson protect your information? 
+The Expert Platform may use the following types of cookies:
 
-  * Security. Data transmissions over the Internet cannot be guaranteed to be fully and absolutely secure. Our website and our services have security measures in place designed to protect against the loss, misuse and alteration of the information under our control. Our security measures include the measures described below. 
+  * Strictly Necessary Cookies – these cookies are essential to enable you to browse the Expert Platform and use the available features.
+  * Performance Cookies – these cookies collect information about how you use the Expert Platform. For instance, these cookies track which pages you visit most. This data may be used to help optimize the Expert Platform and make it easier for you to navigate within them. These cookies do not collect information that identifies you; all information is aggregated and anonymous.
+  * Functionality Cookies – these cookies allow the Expert Platform to remember choices you make while browsing, such as geographic location and preferences such as text size and fonts. The information collected by these cookies will not personally identify you.
 
-  * Encryption and Firewalls. Chat transcripts are encrypted during transmission. We use standard Secure Socket Layer (SSL) encryption that encodes information for such transmissions. All Transcripts are maintained and archived on secure servers. Access to stored data is protected by multi-layered security controls including firewalls, role-based access controls and passwords. Experts and Members may review their chat history and see Transcripts of chats that they have engaged in. Experts and Members are only granted access to the chats that they engaged in under their Expert profile or Member profile. Data is backed up regularly and archives are stored off-site in a secure location.
 
 
+ **Other identification technologies that may be used by the Expert Platform:**
 
+  * Pixel tags (also called beacons or pixels) – these are small blocks of code installed on (or called by) a webpage or application, which can retrieve certain information about your device and browser, including device type, operating system, browser type and version, website visited, time of visit, referring website, IP address and other similar information.
+  * Software Development Kits (also called SDKs) - function like pixels and cookies, but operate in the mobile application context where pixels and cookies cannot always function. The application developer can install pieces of code (the SDK) into the application to collect certain information about user interaction with the application and information about the user device and network information.
 
-### Additional terms that may apply to your information
 
-  * Safe Harbor. LivePerson complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor).
 
-  * LivePerson's Expert Services Platform made available on Third Party Websites. LivePerson's Expert Services Platform may be made available on third party websites. In addition, links to LivePerson's Expert Services Site and LivePerson's Expert Services Platform may be made available on third party websites. LivePerson is not responsible for and does not control the privacy practices of any third party. Accordingly, we encourage you to review the privacy practices of each website that you use or visit.
+ **Third-party technologies:**
 
-  * Business Transfers. In the event that all or substantially all of LivePerson's assets have been acquired, or in the event of any merger, bankruptcy or reorganization involving LivePerson, all Transcripts, Recordings and Surveys, as well as all other information about you and your use of our services will likely be included in the acquired or merged assets. 
+PrestoExperts may use third-party service providers or work with affiliate or referral partners who are authorized to place cookies, pixel tags or similar technologies on the Expert Platform with our permission.  These technologies help us compile metrics and analytics (without collecting personally identifiable information) to help improve the Expert Platform.  Third-party cookies and technologies are covered by the third party’s privacy policy. 
 
-  * Choice Regarding Personal Information. If you elect to engage in any communication using our services, it is up to you to decide what, if any, information to provide during such session. Depending on your request or the means of communication it may not be possible to communicate with you or address all of your questions without providing some information. Nevertheless, if you do not wish to furnish certain information, then you should not do so.
+ **Your choice:**
 
-  * Your California Privacy Rights. Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address referenced below.
+Web browsers are usually set to accept cookies. However, if you prefer not to receive cookies, you typically have the option of setting your browser to refuse cookies. If your browser is set to refuse cookies, it is likely that some of the functionality offered by PrestoExperts will not be available or will not work as effectively for you. 
 
-  * Children's Privacy. LivePerson does not encourage participation or visitation by children. Visitors who are known to be under the age of 16 are prohibited from becoming Members or Experts. LivePerson does not knowingly collect personally identifiable information from children under the age of 16.
+For further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
+ **Do Not Track**
 
+Various browsers, including Internet Explorer, Firefox and Safari, currently offer a “do not track” or “DNT” option that relies on a technology that sends a signal to websites a user visits about that user’s browser DNT preferences. While PrestoExperts attempts to honor the DNT instructions received from a user’s browser, PrestoExperts cannot guarantee that it will always respond to such signals because a common industry standard for DNT has not been adopted. PrestoExperts will continue to monitor developments around DNT browser technology.
 
+### Sharing of information collected
 
-### Contacting LivePerson
+PrestoExperts does not sell, trade or rent personal information provided by you in any transcript, survey or recording for direct marketing or any other purpose, except as provided in this privacy policy or with your permission. PrestoExperts does not disclose the contents of transcripts, surveys or recordings other than to service providers performing services on behalf of PrestoExperts, other than as provided in this privacy policy or with your permission.
 
-LivePerson welcomes your feedback on our Privacy Policy. Please send your comments to [ privacy@liveperson.com](mailto:privacy@liveperson.com) or to: LivePerson, Inc., Attn: Legal Department – Privacy, 475 10th Avenue, 5th Floor, New York, NY 10018.
+For legal reasons
 
-### Changes to this Privacy Policy
+We may share your information if we reasonably believe that it:  (i) is necessary to comply with a legal process (such as a court order, subpoena, or search warrant) or other legal requirement of any governmental authority; (ii) would potentially mitigate our liability in an actual or potential lawsuit; (iii) is necessary to enforce this privacy policy or our Terms of Use at www.liveperson.com/policies/terms-of-use or any other agreement in place between you and PrestoExperts; (iv) is necessary to investigate and prevent unauthorized transactions or other illegal activities; and/or (v) is otherwise necessary or appropriate to protect our rights or property or the rights or property of any person or entity.
 
-We recommend that you review this policy periodically, as we may update it from time to time. Your use of any LivePerson service offered on LivePerson's Expert Services Site or via LivePerson's Expert Services Platform following a change to this Privacy Policy represents your consent to the new Privacy Policy to the fullest extent permitted by law.
+Various browsers, including Internet Explorer, Firefox and Safari, currently offer a “do not track” or “DNT” option that relies on a technology that sends a signal to websites a user visits about that user’s browser DNT preferences. While PrestoExperts attempts to honor the DNT instructions received from a user’s browser, PrestoExperts cannot guarantee that it will always respond to such signals because a common industry standard for DNT has not been adopted. PrestoExperts will continue to monitor developments around DNT browser technology.
 
-### Definitions
+### Sharing of information collected
 
-Cookies are pieces of information that some websites transfer to a visitor’s web browser accessing the website and are used for record-keeping purposes at many websites. Use of cookies makes web-surfing easier by performing certain functions such as saving passwords, lists of potential purchases and personal preferences regarding the use of the particular website, and ensuring that the user does not see the same ad repeatedly.
+PrestoExperts does not sell, trade or rent personal information provided by you in any transcript, survey or recording for direct marketing or any other purpose, except as provided in this privacy policy or with your permission. PrestoExperts does not disclose the contents of transcripts, surveys or recordings other than to service providers performing services on behalf of PrestoExperts, other than as provided in this privacy policy or with your permission.
 
-Encryption is the process of transforming information into unreadable text so that it is only legible to those possessing an encryption key. The process of making encrypted information readable again is referred to as decryption.
+For legal reasons
 
-Pixel tags are small graphic images that are embedded in a web page or email for purposes of tracking activity on web pages or whether a user has opened or accessed an email. A pixel tag may be set to identify on what browser and computer it was viewed, whether that browser has cookies received from a server associated with the pixel tag, and whether the web page or email with the pixel tag was forwarded or copied.
+We may share your information if we reasonably believe that it:  (i) is necessary to comply with a legal process (such as a court order, subpoena, or search warrant) or other legal requirement of any governmental authority; (ii) would potentially mitigate our liability in an actual or potential lawsuit; (iii) is necessary to enforce this privacy policy or our Terms of Use at www.liveperson.com/policies/terms-of-use or any other agreement in place between you and PrestoExperts; (iv) is necessary to investigate and prevent unauthorized transactions or other illegal activities; and/or (v) is otherwise necessary or appropriate to protect our rights or property or the rights or property of any person or entity.
 
-Web browser is a software program that allows a user to access, retrieve and view information on the World Wide Web. Examples of browsers include Internet Explorer, FireFox, Google Chrome and Safari.
+To deliver and improve the Expert Platform
 
-Last updated: August 22, 2013. For the prior version, please click [here](http://www.liveperson.com/lp/privacy_policy_prior_version/)
+We may aggregate information so that it is not personally identifiable and use and share such aggregated information for training and quality assurance purposes and to deliver and improve the Expert Platform.
+
+Service providers
+
+We may share your information when reasonably necessary with third-party service providers used to deliver and make the Expert Platform and certain features and functionality available, including but not limited to payment processors, customer contact centers, and a third party to review Expert profiles.
+
+Business partners
+
+If you accessed the Expert Platform an affiliate or referral partner, we may share your information with such partner to optimize your experience and improve our services.
+
+Affiliates
+
+We may share your information with subsidiaries, parent companies, or other affiliates of the PrestoExperts corporate group in order to deliver and improve the Expert Platform.
+
+Other third parties
+
+The Cookies section above addresses the information PrestoExperts or third parties collect through cookies, pixel tags, SDKs, and similar third-party technologies and how you can control cookies through your web browsers. PrestoExperts may also disclose your personal information to any third party with your prior consent.
+
+### Third-party integrations
+
+From time to time, we may partner with other companies to allow PrestoExperts and its customers to offer integrations with the Expert Platform.  If you use one of these integrations, PrestoExperts may share your data with the third-party partner, receive data about you from the third-party partner, and/or combine third-party partner data about you with information about you that we collect.  We do not control how a third-party partner may use your data.   Use of your information by the third-party partner there is governed by its privacy policies.  If you do not wish for your information to be shared in this way, you may opt not to use such integrations.
+
+### How can I review, correct, delete, transfer, or receive a copy of my information or withdraw my consent to process my personal data?
+
+If you elect to engage in any communication session on the Expert Platform, it is up to you to decide what, if any, information to provide during such session.  Depending on your request, it may not be possible for us or Experts to fully provide all requested services to you.  Nevertheless, if you do not wish to provide certain information, then you should not do so. 
+
+If you have signed up to receive PrestoExperts’s marketing or advertising communications, you may, at any time, opt out of receiving further communications by clicking on the opt-out link at the bottom of a marketing or advertising email you receive.  You may also contact us at [privacy@kasamba.com](mailto:privacy@kasamba.com) to opt out or to request changes to your personal information.
+
+You may view your communication history on the Expert Platform by logging in and accessing your account page.
+
+You may request to review, correct, delete, transfer or receive a copy of any of the personal information you’ve provided to us through the Expert Platform or withdraw your consent to PrestoExperts processing your personal data by contacting us at privacy@kasamba.com, and we will respond within a reasonable period of time. You may generally update your account settings, user profile, and billing information by logging in to your account. If you believe that we have not been able to assist you with your inquiry, and you are located in the European Economic Area, you have the right to file a complaint with the relevant supervisory authority. 
+
+### How does PrestoExperts keep my information secure?
+
+We use security measures designed to protect against the loss, misuse and alteration of the information under our control, although data transmissions over the internet cannot be guaranteed to be absolutely secure.  Your personally identifiable information is encrypted during transmission.  In addition, transcripts that we store are maintained and archived on secure, hardened servers that are hosted on highly secure data centers.  Access to this data is protected by multiple layers of controls, including firewalls, role-based access controls, authentication mechanisms and monitoring.  Data is backed up, and archives are stored off-site in a secure location. You may review your chat history and see transcripts of chats you have engaged in.  You are only granted access to the chats you engaged in under your profile. 
+
+### Additional mobile considerations
+
+In addition to the other terms in this policy, if you use our mobile applications or access our mobile-optimized websites, we may receive information about your mobile device, including a unique identifier for your device. 
+
+If you receive SMS messages from PrestoExperts, you may opt out by following the opt-out instructions that we provide or by contacting us at [privacy@kasamba.com](mailto:privacy@kasamba.com). 
+
+### PrestoExperts message boards
+
+Information that you share on PrestoExperts’s message boards become publicly available and therefore may be read, collected, copied and used by other users for any purposes at their discretion.  Because this information is publicly available, PrestoExperts’s privacy obligations outlined in this privacy policy do not apply to your use of any such message boards.
+
+### International data transfers
+
+If you are located outside of the United States, please note that we may transfer your personal data outside your country of origin.  By providing or making available your personal data, you consent to that transfer. We will take steps to ensure that your data is subject to appropriate safeguards required under this privacy policy, applicable data protection laws, and appropriate legally recognized data transfer adequacy mechanisms which may include entering into European Commission-approved standard contractual clauses related to transfers of personal information (available at <http://ec.europa.eu/justice/dataprotection/internationaltransfers/transfer/index_en.html>) or a valid Privacy Shield certification in the case of a transfer to a Privacy Shield-certified US recipient (certifications may be viewed at [ https://www.privacyshield.gov/welcome](https://www.privacyshield.gov/welcome)). Any inquiries or complaints regarding our data privacy practices may be directed to privacy@kasamba.com or to our external Data Protection Officer Prof. Dr. Christoph Bauer at ePrivacy GmbH at Große Bleichen 21, 20354 Hamburg, Germany. We will respond within a reasonable period of time. You also have the right to file a complaint with the appropriate supervisory authority in your jurisdiction.
+
+### Children
+
+The Expert Platform is not directed to individuals under 18. If you are under the age of 18, you may not use or register for the Expert Platform or provide any personal information to us. PrestoExperts does not knowingly collect personal information from individuals under the age of 18. If you are a parent of an individual under 18 and believe your child has provided personal information to PrestoExperts, or if you are a California resident under the age of 18 and wish to remove content you have made publicly available, please contact us at privacy@kasamba.com, where you may request to exercise your applicable access, rectification, cancellation, and/or objection rights. PrestoExperts reserves the right to immediately terminate any member account and delete his or her information if it believes the member is under the age of 18. 
+
+### Miscellaneous
+
+We recommend that you review this privacy policy periodically, as we may update it from time to time.  Your use of the Expert Platform, as applicable, constitutes your consent to the new privacy policy to the fullest extent permitted by law. 
+
+We are not responsible for and do not control the privacy practices of any of our customers or any other third party.  We encourage you to review the privacy practices of each third party. 
+
+We welcome your feedback on our privacy policy.  Please send any comments or questions to [privacy@kasamba.com](mailto:privacy@kasamba.com) or to PrestoExperts, Inc., Attn: Legal Department – Privacy, 475 Tenth Ave., 5th Floor, New York, NY 10018. You can also contact our external Data Protection Officer Prof. Dr. Christoph Bauer at ePrivacy GmbH Große Bleichen 21, 20354 Hamburg, Germany. 
