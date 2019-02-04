@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearlcrescent.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114223633id_/http%3A//pearlcrescent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearlcrescent.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205003335id_/https%3A//pearlcrescent.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for pearlcrescent.com
 
@@ -6,7 +6,7 @@ Privacy Policy for pearlcrescent.com
 
 Contact Information
 
-Our web site on the Internet is located at [http://pearlcrescent.com](http://pearlcrescent.com/). 
+Our web site on the Internet is located at [https://pearlcrescent.com](https://pearlcrescent.com/). 
 
 Our mailing address is:
 
@@ -78,7 +78,7 @@ Our web site uses cookies for the following purposes:
 
 Third Party Payment Processing Services
 
-If you purchase our products and services, we may use a third party payment processing service provided by [PayPal](http://paypal.com/) to collect funds.  We pass the following information to PayPal: 
+If you purchase our products and services, we may use a third party payment processing service provided by [PayPal](https://paypal.com/) to collect funds.  We pass the following information to PayPal: 
 
   * A unique customer identifier that we use to track payments.
   * The name and quantity of the product you purchased.
@@ -89,5 +89,5 @@ If you purchase our products and services, we may use a third party payment proc
 * * *
 
 This policy is subject to change without notice.  
-The current policy may be found at <http://pearlcrescent.com/privacy.html>.  
+The current policy may be found at <https://pearlcrescent.com/privacy.html>.  
 If you believe we have not followed this policy, please contact us at [support@pearlcrescent.com](mailto:support@pearlcrescent.com).
