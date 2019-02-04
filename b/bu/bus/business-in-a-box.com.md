@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business-in-a-box.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623130352id_/http%3A//www.business-in-a-box.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-in-a-box.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204192751id_/https%3A//www.business-in-a-box.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Business-in-a-Box - Privacy Policy
 
