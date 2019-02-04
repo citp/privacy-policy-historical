@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontiercoop.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129072855id_/https%3A//www.frontiercoop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontiercoop.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204071650id_/https%3A//www.frontiercoop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Frontier Co-op
 
