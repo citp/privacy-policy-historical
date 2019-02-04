@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scdl.net privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125195526id_/http%3A//www.scdl.net/pdf/SCDL%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scdl.net privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204023324id_/http%3A//scdl.net/pdf/SCDL%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # Symbiosis Centre for Distance Learning (SCDL) Privacy Policy
 
