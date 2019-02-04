@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ad.net privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527005238id_/http%3A//www.ad.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad.net privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204120203id_/https%3A//www.ad.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ad.net
 
@@ -6,7 +6,7 @@ This Privacy Policy describes how Ad.net collects, uses, shares and secures pers
 
 Ad.net has created this Privacy Policy in order to demonstrate our commitment to privacy.
 
-To read the privacy policy governing our corporate website only, please [[ **click here** ]](http://www.ad.net/corp-website-privacy-policy).
+To read the privacy policy governing our corporate website only, please [[ **click here** ]](https://www.ad.net/corp-website-privacy-policy).
 
 This Privacy Policy describes Ad.net’s data practices associated with our services (“ **Services** ”) and explains how Ad.net may collect, use, and disclose information when you any website or app that uses our Services.
 
