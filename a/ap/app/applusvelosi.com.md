@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applusvelosi.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125191738id_/http%3A//www.applusvelosi.com/download/1340265986431-180523-%2520Privacy%2520Policy%2520for%2520Websites%2520%28EN%29.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applusvelosi.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204083516id_/http%3A//www.applusvelosi.com/download/1340265986431-180523-%2520Privacy%2520Policy%2520for%2520Websites%2520%28EN%29.pdf) for the most accurate reproduction.*
 
 # Privacy Policy For Websites/Apps -First Layer-
 
