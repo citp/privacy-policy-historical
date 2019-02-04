@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickaweb.co.uk privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906001113id_/https%3A//www.pickaweb.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickaweb.co.uk privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204150753id_/https%3A//www.pickaweb.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Pickaweb Privacy policy
 
@@ -162,7 +162,7 @@ Pickaweb Ltd.
 Monomark House  
 27 Old Gloucester Street  
 London WC2N  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b3c3c1dac5d2d0caf3c3dad0d8d2c4d6d19dd0dc9dc6d8)  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c3b3b1aab5a2a0ba83b3aaa0a8a2b4a6a1eda0acedb6a8)  
 
 
   
