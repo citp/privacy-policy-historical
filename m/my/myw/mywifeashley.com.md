@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywifeashley.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824030638id_/http%3A//www.mywifeashley.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywifeashley.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204152447id_/http%3A//mywifeashley.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
