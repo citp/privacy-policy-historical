@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techboomers.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925163556id_/https%3A//techboomers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techboomers.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204235900id_/https%3A//techboomers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechBoomers.com
 
