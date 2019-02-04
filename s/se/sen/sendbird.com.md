@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendbird.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030025517id_/https%3A//sendbird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendbird.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204233204id_/https%3A//sendbird.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SendBird
 
