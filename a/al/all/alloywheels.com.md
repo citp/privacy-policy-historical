@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alloywheels.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709090740id_/https%3A//alloywheels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloywheels.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204093457id_/https%3A//alloywheels.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AlloyWheels.com
 
@@ -14,8 +14,8 @@ The purpose of this statement is to set out how we use personal information that
   * **1.1** You will be asked to provide certain information such as your contact details. This will include your name, address, email address and telephone number. 
   * **1.2** We will use this information to fulfil your order with us. This information is required for us to be able to communicate with you regarding your order and process it in a timely manner. 
   * **1.3** This information will be stored on our secure servers. 
-  * **1.3** If you have opted in for marketing emails we will also store your data with our email marketing partner Mailchimp. Your data will also be used by our payment providers SagePay, V12 Retail Finance or Snap! Finance, depending on which payment method you use. We advise checking these third parties privacy policies for information on how your data may be used with them. 
-  * **1.4** If you make an application for finance through V12 Retail Finance and are declined, we may use your data to email you with an alternative provider, Snap! Finance. 
+  * **1.3** If you have opted in for marketing emails we will also store your data with our email marketing partner Mailchimp. Your data will also be used by our payment providers SagePay, V12 Retail Finance, Snap! Finance or affordItNow, depending on which payment method you use. We advise checking these third parties privacy policies for information on how your data may be used with them. 
+  * **1.4** If you make an application for finance through V12 Retail Finance or affordItNow and are declined, we may use your data to email you with an alternative provider, Snap! Finance. 
   * **1.5** If you have opted in to receive marketing emails from us then from time to time we will send promotional offers that we feel are relevant to you. You can opt out of these emails by either clicking unsubscribe at the bottom of any email we send to you order by updating your marketing preferences in the 'My Account' section of the site. 
 
   
