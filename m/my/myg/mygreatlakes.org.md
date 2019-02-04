@@ -1,12 +1,24 @@
-> *The following text is extracted and transformed from the mygreatlakes.org privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210221511id_/https%3A//home.mygreatlakes.org/web/about/gl/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygreatlakes.org privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204143621id_/https%3A//home.mygreatlakes.org/web/about/gl/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy Policies for Great Lakes Higher Education Corporation and Affiliates
 
-  * [Great Lakes Higher Education Guaranty Corporation](https://web.archive.org/mglstatic/sharedcontent/forms/privacy_policy_guaranty.pdf)
-  * [Northstar Guarantee Inc.](https://web.archive.org/mglstatic/sharedcontent/forms/privacy_policy_northstar.pdf)
-  * [Great Lakes Educational Loan Services, Inc.](https://web.archive.org/mglstatic/sharedcontent/forms/privacy_policy_glelsi.pdf)
+## Personal Information Policies
+
+  * [Great Lakes Higher Education Guaranty Corporation](https://web.archive.org/web/about/gl/privacy_policy_guaranty.html)
+  * [Northstar Guarantee Inc.](https://web.archive.org/web/about/gl/privacy_policy_northstar.html)
+  * [Northwest Education Loan Association](https://web.archive.org/web/about/gl/privacy_policy_nela.html)
+  * [United Student Aid Funds](https://web.archive.org/web/about/gl/privacy_policy_usaf.html)
+
+
+
+## Online Privacy Practices
+
+  * [Great Lakes Higher Education Guaranty Corporation](https://web.archive.org/web/about/gl/privacy_policy_online_glhegc.html)
+[ ](https://web.archive.org/web/about/gl/privacy_policy_online_glhegc.html)
+  * [](https://web.archive.org/web/about/gl/privacy_policy_online_glhegc.html)[Northwest Education Loan Association](https://web.archive.org/web/about/gl/privacy_policy_online_nela.html)
+  * [United Student Aids Funds](https://web.archive.org/web/about/gl/privacy_policy_online_usaf.html)
 
 
 
@@ -14,7 +26,8 @@ If you have any questions, please contact us at [privacy@glhec.org](mailto:priva
 
 ## Other Privacy Policies
 
-  * [U.S. Department of Education](https://web.archive.org/mglstatic/sharedcontent/forms/privacy_usdoe.pdf)
+  * [Great Lakes Educational Loan Services, Inc.](https://web.archive.org/web/about/gl/privacy_policy_glelsi.html)
+  * [U.S. Department of Education](https://web.archive.org/web/about/gl/privacy_usdoe.html)
 
 
 
@@ -36,7 +49,7 @@ Our website uses "cookie" technology to offer a more convenient user experience.
 
 ### The Information We Collect When You Request a Service
 
-When you request a service that is offered on this website, we collect information from you to provide you that service. You will be required to provide some information and other information that is requested may be provided at your option. All personal information we collect from you is covered by the [Great Lakes Privacy Policy for Customer Information](https://web.archive.org/mglstatic/sharedcontent/forms/privacy_policy_glelsi.pdf) whether or not you were required to provide it. Unrelated third parties are not permitted to collect personally identifiable information about your online activities when you use our website.
+When you request a service that is offered on this website, we collect information from you to provide you that service. You will be required to provide some information and other information that is requested may be provided at your option. All personal information we collect from you is covered by the [Great Lakes Privacy Policy for Customer Information](https://web.archive.org/web/about/gl/privacy_policy_glelsi.html) whether or not you were required to provide it. Unrelated third parties are not permitted to collect personally identifiable information about your online activities when you use our website.
 
 ### Information Sharing
 
@@ -63,5 +76,3 @@ We take strict security precautions to protect your confidential information. We
 In the future, we may need to change our privacy statement. All changes will be made here so that you will always know what information we gather, how we use that information, and in what form and under what circumstances we will disclose it to another party. This policy is effective when it's posted on this website and will be reviewed from time to time. 
 
 * * *
-
-Some of the documents on this page are in Portable Document Format (PDF). In order to view PDF files, you must first download the free Acrobat Reader software. Detailed instructions for downloading and installing the Acrobat Reader are located on the [Adobe website](http://get.adobe.com/reader/).
