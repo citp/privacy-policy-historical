@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the frigidaire.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001034256id_/http%3A//www.frigidaire.com/en-US/modal/defaultpage/modalview/478) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frigidaire.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205015539id_/https%3A//www.frigidaire.com/modal/defaultpage/modalview/478%3Flang%3Den-US) for the most accurate reproduction.*
 
 # 
 
 **Frigidaire® Privacy Statement**
 
-**Effective Date: April 20, 2017**
+**Effective Date: April 20, 2018**
 
 Your privacy is important to us. This Privacy Statement describes the types of information Frigidaire collects from and about you when you visit our website (“Site”), use our mobile applications (each an “App”), or use our Smart Appliances (each “Smart Appliances”). The Site, Apps, and Smart Appliances are collectively the “Services.” This Privacy Statement also explains how Frigidaire may use and disclose such information, as well as your ability to control certain uses of it.
 
@@ -22,15 +22,17 @@ You may be required to provide certain personal information to create your Frigi
 
 
 
-We may use cookies, web beacons, pixel tags, log files, local shared objects (Flash cookies), or other technologies to automatically collect certain information when you use our Services or interact with our emails and online, mobile and Smart Appliance advertisements. For example, we may automatically collect certain non-personal information from you such as your browser type, operating system, software version, Internet Protocol (“IP”) address, and the domain name from which you accessed the Services. We also may collect information about your use of the Services including the date and time you access the Services, the areas or pages of the Services that you visit, the amount of time you spend using the Services, the number of times you return, whether you open, forward or click-through emails and ads, and other Services usage data.
+We may use cookies and other non-cookie technologies such as web beacons, pixel tags, log files, statistical identifiers, mobile advertising IDs (e.g., Apple’s IDFA) or other technologies to automatically collect certain information when you use our Services or interact with our emails and online, mobile and Smart Appliance advertisements. For example, we may automatically collect certain non-personal device identifying information (DII) from you such as your browser type, operating system, software version, Internet Protocol (“IP”) address, and the domain name from which your device accessed the Services. We also may collect information about your use of the Services including the date and time your device accesses the Services, the areas or pages of the Services that your device visits, the amount of time your device spends using the Services, the number of times your device returns, whether your device opens, forwards or clicks-through emails and ads, and other Services usage data.
 
   * **Tracking Options and California Do Not Track Disclosures**
 
 
 
-Certain parts of our Services require cookies. You may adjust your browser or operating system settings to limit this tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Services or take full advantage of all of our offerings. Check the “Help” menu of your browser or operating system to learn how to adjust your tracking settings or cookie preferences. Note that our system may not recognize some or all Do Not Track headers from browsers.
+Certain parts of our Services require cookies. You may adjust your browser or operating system settings to limit this tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Services or take full advantage of all of our offerings and such settings may have no effect on non-cookie technologies. Check the “Help” menu of your browser or operating system to learn how to adjust your tracking settings or cookie preferences. Note that browser settings, including do not track signals and other mechanisms, may not affect data collection and do not constitute an opt-out of advertising-related cookies, or personalized third-party advertising.  You must use the opt-out choices described herein in order to opt out from such messages.
 
-To learn more about the use of cookies or other technologies to deliver more relevant advertising and your choices about not having this information used by certain Service Providers (defined below), please click [here](http://www.networkadvertising.org/choices/). To learn how to manage privacy and storage settings for Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). On your mobile device, you can adjust your privacy and advertising settings to control whether you want to receive more relevant advertising.
+To learn more about the use of cookies or other technologies to deliver more relevant advertising and your choices about not having this information used by certain Service Providers (defined below), please click [here](http://www.networkadvertising.org/choices/). On your mobile device, you can adjust your privacy and advertising settings to control whether you want to receive more relevant advertising.  See your device’s settings for such controls like “Limit Ad Tracking.”
+
+If you use a Smart Appliance or a Smart Appliance App, Frigidaire will collect information about your use of the Smart Appliance and the App. You may opt-out of this collection by deprovisioning your Smart Appliance from your router.
 
 If you use a Smart Appliance or a Smart Appliance App, Frigidaire will collect information about your use of the Smart Appliance and the App. You may opt-out of this collection by deprovisioning your Smart Appliance from your router.
 
@@ -46,6 +48,8 @@ If you use a third party login to create your account (such as Facebook Connect)
 
 We may combine the information we receive from and about you, including personal and non-personal information, and information collected through our Sites, Apps, Smart Appliances, and offline, as well as information collected across other computers or devices that you may use, and from third party sources to help us tailor our communications to you and to improve our Site and Services.
 
+We may share data, such as technical identifiers derived from your email sign-in on our website or our CRM system, with our trusted advertising partners.  This allows them to link your devices and/or environments and provide to you a seamless experience across different devices and environments that you use.  You can opt out through the NAI opt out platform located [here](http://optout.networkadvertising.org/?c=1#!/ "Network Advertising") for each device, as well as use the mobile device settings of Limit Ad Tracking.
+
 **INFORMATION USE**
 
 Frigidaire may use the information we collect from and about you to:
@@ -55,6 +59,7 @@ Frigidaire may use the information we collect from and about you to:
   * Provide you with customized content, targeted offers, and advertising on the Services or on other sites or apps;
   * Contact you with information, newsletters and promotional materials from Frigidaire or on behalf of our partners and affiliates;
   * Research, address problems, and improve the usage and operations of the Services;
+  * Participate in Interest-Based Advertising, by us and our advertising partners.
   * Protect the security or integrity of the Services and our business; and
   * As described to you at the point of data collection.
 
@@ -64,7 +69,7 @@ Frigidaire may use the information we collect from and about you to:
 
 Frigidaire may share the personal information we collect from and about you: (1) among Electrolux and Frigidaire brands, subsidiaries, and parent companies; (2) to our Service Providers, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the Frigidaire Terms of Use or of our rights or the rights of any third party; (4) to respond to judicial process or provide information to law enforcement or regulatory agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (5) as described to you at the point of collection.
 
-Except as stated above, we will not share your personal information with unaffiliated third parties. Frigidaire may, however, share aggregate or anonymous, non-personal information with third parties for their marketing or analytics uses.
+Except as stated above, we will not share your personal information with unaffiliated third parties. Frigidaire may, however, share aggregate or pseudonymous, DII with third parties for their marketing or analytics uses as described herein.
 
 Frigidaire may sell or purchase assets during the normal course of our business. If another entity acquires Frigidaire or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against Frigidaire, such information may be considered an asset of Frigidaire and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use your personal information in a manner that is consistent with this Privacy Statement.
 
@@ -83,6 +88,8 @@ Frigidaire is committed to maintaining the security of the data you provide us a
 **YOUR MARKETING PREFERENCES**
 
 To opt out of receiving direct marketing materials, please contact us at **1-877-374-4432** or [customerservice@frigidaire.com](mailto:customerservice@frigidaire.com). You may also opt-out of any direct electronic marketing from Frigidaire by using the unsubscribe information therein.
+
+To opt out of Interest-Based Advertising, please click on this [link](http://optout.networkadvertising.org/?c=1#!/ "Network Advertising") to the NAI opt-out platform.
 
 **YOUR** **CALIFORNIA PRIVACY RIGHTS**
 
