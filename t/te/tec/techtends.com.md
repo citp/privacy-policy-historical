@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtends.com privacy policy that was archived on 2018-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180529041646id_/http%3A//techtends.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtends.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205215047id_/https%3A//techtends.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Techtends
 
