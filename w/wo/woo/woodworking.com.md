@@ -1,27 +1,94 @@
-> *The following text is extracted and transformed from the woodworking.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603064852id_/http%3A//www.woodworking.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodworking.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205134649id_/https%3A//www.rockler.com/privacy-policy) for the most accurate reproduction.*
 
-# Woodworking.com - Privacy Policy
+# Privacy Policy
+
+Rockler Companies wants to assure you that we are very careful about how we run our sites and about the vendors we choose to use. We have been in business since 1954 and we care very much about our customers" satisfaction and privacy. Our web servers are kept behind locked doors in a facility that is staffed and guarded 24 hours a day year-round. When it is necessary for you to supply sensitive information such as credit card numbers, those communications travel from your browser all the way to our server protected by a Secure Socket Layer (SSL) and are fully encrypted.
+
+* Our Web Site
+* Your Name and Address
+* Your E-Mail Address
+* Your Phone and Fax Numbers
+* Third-Party Cookies, Images, and Scripts
+* [How to Reach Us](https://web.archive.org/customer-service/support/)
+  
+
+
+##### Our Web Site
+
+This web site is owned by Rockler Companies, Inc.  We currently do business as Rockler Woodworking and Hardware. You can access our web site at the following address:
+
+  * [www.rockler.com](https://web.archive.org/)
+
+
+
+We have created our web sites to provide additional services to our customers and potential customers online.  On our web sites you can:
+
+* Shop our products securely online
+* Request our free catalog
+* Sign up for our free e-mail newsletter
+* Give us feedback and ask us questions about our company, products and web site
+* Read more about our company and products
+
+(back to top...)
 
   
-**Privacy Policy  
-woodworking.com **
-
-**Personal Information** We believe in keeping your personal information private. Any information you provide online will only be used to enhance your online experience at woodworking.com, unless you specifically indicate otherwise. Your e-mail address will never be sold or shared with any other company. That's our guarantee. 
-
-**Use of Cookies** What are cookies? Cookies are pieces of information that a Website transfers to an individual's hard drive for record-keeping purposes. Woodworking.com has the following uses for its cookies. 
-
-  * To make it easy to check your woodworking.com e-mail account, update or delete Marketplace advertisements and modify Forum posts. 
 
 
+##### Your Name and Address
 
-While these activities depend on the use of a "cookie," visitors to woodworking.com always have the option of disabling cookies via their browser preferences. 
+If you supply us with your postal address online, you may occasionally receive catalogs and mailings from us with information about products, promotions or services.  If you do not wish to receive these mailings, please send us a note, along with a copy of your mailing label to the address below:
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. Some sections of woodworking.com, however will not function properly or be more difficult to us if you refuse cookies. For example, you may have difficulty editing or deleting your Marketplace ads or Forum posts
+Rockler Companies, Inc.  
+Customer Service  
+4365 Willow Drive    
+Medina, MN 55340 
 
-**Linking to other sites** If you "click" on a banner advertisement, text link or a WOODLinks, the "click" takes you off the woodworking.com Website. These other sites may send their own cookies to your computer, collect data or solicit personal information. We have no control over these cookies. 
+Or, e-mail us your name and mailing address to [customercare@rockler.com](mailto:customercare@rockler.com)
 
-**Security** Your woodworking.com e-mail account and membership are password protected so that only you can access it. We recommend that you do not divulge your password to anyone. Woodworking.com will never ask you for your password in an unsolicited phone call or e-mail. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. 
+Occasionally, we make a portion of our mailing list available to respectable organizations that may interest our customers.  If you do not wish to receive these mailings, please send us a note saying so, along with a copy of your mailing label to the address above - or send us the information in an e-mail to [orders@rockler.com](mailto:orders@rockler.com)
 
-Remember to log off of your woodworking.com e-mail account or your membership access and close your browser window when you have finished your visit. This is to ensure that others cannot access your personal information and correspondence if the computer you're using is accessible to others. 
+(back to top...)
 
-**Your Acceptance of These Terms** By using this site, you signify your assent to the woodworking.com Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the woodworking.com following the posting of changes to these terms will mean you accept those changes.
+  
+
+
+##### Your E-Mail Address
+
+If you supply us with your e-mail address in an online form, we may send you a periodic newsletter with information about our web site and other promotions.  In this newsletter are directions for removing your name and address from this list.  To be added to this list, please fill out our [subscriber form](https://web.archive.org/email-exclusives). We will not share your e-mail address with third parties.
+
+(back to top...)
+
+  
+
+
+##### Your Phone and Fax Numbers
+
+If you supply us with your phone or fax number online, we may use them to contact you regarding an order you sent, or a question you asked.  We do not share these numbers with other organizations.
+
+(back to top...)
+
+  
+
+
+##### Cookies and Other Technologies
+
+The paragraphs below outline some of the common practices used by a majority of ecommerce sites. A couple of terms you will need to know:
+
+* **Cookies**  – These are small text files that are stored directly on your computer. They make it easier for the server to recognize your computer as you click from page to page (to keep track of your shopping cart as you browse our site, for example). The cookies do not actually contain any personal data.
+* **Pixel Tags**  – these are very tiny images (smaller than the periods in this paragraph). They are there to inform our web server or e-mail server that you have opened an e-mail, for example, and to communicate other actions.
+
+Rockler"s website, online services, interactive applications, e-mail messages, and advertisements may use "cookies" and other technologies such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of our communications and web searches. We treat information collected by cookies and other technologies as non-personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+
+We may from time to time contract with third party vendors to provide ads to our customers on our behalf via the Internet or to send direct mail or catalogs to customers whom we think may be interested in our products or services. In order to do so, such vendor may collect anonymous information about your visits to our website using a cookie. This data is stored on your browser or visible-xs-inline device and helps websites and visible-xs-inline apps to remember things about you to improve your experience with the website. Third-party vendors may then pool the anonymous information that they collect from our website with other sources of information, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving direct mail or a catalog. To opt-out of receiving our direct mail or catalogs, email us at customercare@rockler.com or call 1-800-279-4441.
+
+Rockler and our partners also use cookies and other technologies to "remember" how you use our website, online services, and applications. Our goal in these cases is to make your experience with Rockler more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit Rockler"s websites. Knowing someone using your computer or device has shopped for a certain product helps us make our e-mail communications and product suggestions more relevant to your interests. You may set your web browser to notify you when you receive a cookie. However, should you decide not to accept cookies from our sites, you will limit the functionality we can provide when you visit our sites.
+
+Our company and our trusted third parties may share with one another anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes.  Such cookies do not contain personally identifiable information.  If you would like to opt out of online behavioral advertising, click this link: 
+
+[http://optout.aboutads.info](http://optout.aboutads.info/?c=2&lang=EN)
+
+As is true of most websites, our web servers gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data. We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, and to gather demographic information about our user base as a whole. Rockler may use this information in our marketing and advertising services.
+
+Pixel tags enable us to send e-mail messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers.
+
+(back to top...)
