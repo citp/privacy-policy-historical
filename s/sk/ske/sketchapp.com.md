@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sketchapp.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906040830id_/https%3A//www.sketchapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketchapp.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205065948id_/https%3A//www.sketchapp.com/privacy) for the most accurate reproduction.*
 
 # Sketch - Privacy Statement
 
@@ -97,4 +97,4 @@ You have the following rights in relation to your personal data:
 
 We may update this Privacy Statement from time to time. We will notify you of any significant changes to this Privacy Statement on the website or through other appropriate communication channels. All changes shall be effective from the date of publication, unless otherwise provided in the notification.
 
-If you have any comments or inquiries about the information in this Privacy Statement, if you would like us to update your personal data, or to exercise your rights, please contact us by email at [privacy@sketchapp.com](mailto:privacy@sketchapp.com).
+If you have any comments or inquiries about the information in this Privacy Statement, if you would like us to update your personal data, or to exercise your rights, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e191938897808298a1928a84958289809191cf828e8c).
