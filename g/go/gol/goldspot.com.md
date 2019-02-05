@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the goldspot.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230083800id_/http%3A//www.goldspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldspot.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205091752id_/https%3A//goldspot.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Goldspot
+# Privacy Policy – Goldspot Pens
 
-Respecting and protecting your privacy is very important to Goldspot. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. Below we describe why we gather customer and member information, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information. This Privacy Policy is part of the Terms of Use, which governs your use of Goldspot.com. 
+Respecting and protecting your privacy is very important to Goldspot. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. Below we describe why we gather customer and member information, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information. This Privacy Policy is part of the Terms of Use, which governs your use of Goldspot.com.
 
   
 **Why do we gather information?**  
-We gather personal information to allow us to process your orders, to provide an enhanced and more personalized shopping experience and to inform you of special offers and discounts. 
+We gather personal information to allow us to process your orders, to provide an enhanced and more personalized shopping experience and to inform you of special offers and discounts.
 
 **What information do we gather?**  
-When you order from our Web site, we may collect the following information: your name, telephone number, email address, billing information (credit card number, expiration date and billing address), products purchased, and any relevant promotion code. 
+When you order from our Web site, we may collect the following information: your name, telephone number, email address, billing information (credit card number, expiration date and billing address), products purchased, and any relevant promotion code.
 
   
 **How we use the information we collect about you.**  
@@ -17,7 +17,7 @@ We use information we collect from you to process your orders, to provide an enh
 
   
 **Email**  
-When you submit feedback or questions via e-mail, or contact us for information about our website, we will request your name and e-mail address. We use this information solely to respond to your inquiries. 
+When you submit feedback or questions via e-mail, or contact us for information about our website, we will request your name and e-mail address. We use this information solely to respond to your inquiries.
 
 Our email newsletters are intended to keep users informed of new products, gifts, and special features that are available. Our policy is to send our email announcements or newsletters only to those who request this when registering. If you receive an email and want to be removed from the email list, we provide instructions on how to unsubscribe so that you will not receive any other messages from Goldspot.com in the future.
 
