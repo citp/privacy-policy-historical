@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 911metallurgist.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908202102id_/https%3A//www.911metallurgist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 911metallurgist.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205041324id_/https%3A//www.911metallurgist.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Disclaimer
 
