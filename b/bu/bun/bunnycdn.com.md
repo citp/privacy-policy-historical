@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bunnycdn.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912074230id_/https%3A//bunnycdn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnycdn.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205231702id_/https%3A//bunnycdn.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Data Policy - BunnyCDN
 
