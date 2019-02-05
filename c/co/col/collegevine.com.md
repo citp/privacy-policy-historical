@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegevine.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114052600id_/https%3A//www.collegevine.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegevine.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205221043id_/https%3A//www.collegevine.com/legal/privacy) for the most accurate reproduction.*
 
 # CollegeVine Privacy Policy
 
