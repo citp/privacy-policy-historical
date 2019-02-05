@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the rockler.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819075130id_/https%3A//www.rockler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockler.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205134649id_/https%3A//www.rockler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Rockler Companies wants to assure you that we are very careful about how we run our sites and about the vendors we choose to use. We have been in business since 1954 and we care very much about our customers' satisfaction and privacy. Our web servers are kept behind locked doors in a facility that is staffed and guarded 24 hours a day year-round. When it is necessary for you to supply sensitive information such as credit card numbers, those communications travel from your browser all the way to our server protected by a Secure Socket Layer (SSL) and are fully encrypted.
+Rockler Companies wants to assure you that we are very careful about how we run our sites and about the vendors we choose to use. We have been in business since 1954 and we care very much about our customers" satisfaction and privacy. Our web servers are kept behind locked doors in a facility that is staffed and guarded 24 hours a day year-round. When it is necessary for you to supply sensitive information such as credit card numbers, those communications travel from your browser all the way to our server protected by a Secure Socket Layer (SSL) and are fully encrypted.
 
 * Our Web Site
 * Your Name and Address
 * Your E-Mail Address
 * Your Phone and Fax Numbers
 * Third-Party Cookies, Images, and Scripts
-* [How to Reach Us](http://www.rockler.com/contact.cfm)
+* [How to Reach Us](https://web.archive.org/customer-service/support/)
   
 
 
@@ -17,7 +17,7 @@ Rockler Companies wants to assure you that we are very careful about how we run 
 
 This web site is owned by Rockler Companies, Inc.  We currently do business as Rockler Woodworking and Hardware. You can access our web site at the following address:
 
-  * [www.rockler.com](http://www.rockler.com/)
+  * [www.rockler.com](https://web.archive.org/)
 
 
 
@@ -54,7 +54,7 @@ Occasionally, we make a portion of our mailing list available to respectable org
 
 ##### Your E-Mail Address
 
-If you supply us with your e-mail address in an online form, we may send you a periodic newsletter with information about our web site and other promotions.  In this newsletter are directions for removing your name and address from this list.  To be added to this list, please fill out our [subscriber form](http://www.rockler.com/email-exclusives). We will not share your e-mail address with third parties.
+If you supply us with your e-mail address in an online form, we may send you a periodic newsletter with information about our web site and other promotions.  In this newsletter are directions for removing your name and address from this list.  To be added to this list, please fill out our [subscriber form](https://web.archive.org/email-exclusives). We will not share your e-mail address with third parties.
 
 (back to top...)
 
@@ -77,15 +77,15 @@ The paragraphs below outline some of the common practices used by a majority of 
 * **Cookies**  – These are small text files that are stored directly on your computer. They make it easier for the server to recognize your computer as you click from page to page (to keep track of your shopping cart as you browse our site, for example). The cookies do not actually contain any personal data.
 * **Pixel Tags**  – these are very tiny images (smaller than the periods in this paragraph). They are there to inform our web server or e-mail server that you have opened an e-mail, for example, and to communicate other actions.
 
-Rockler's website, online services, interactive applications, e-mail messages, and advertisements may use 'cookies' and other technologies such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of our communications and web searches. We treat information collected by cookies and other technologies as non-personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+Rockler"s website, online services, interactive applications, e-mail messages, and advertisements may use "cookies" and other technologies such as pixel tags and web beacons. These technologies help us better understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of our communications and web searches. We treat information collected by cookies and other technologies as non-personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
 
-We may from time to time contract with third party vendors to provide ads to our customers on our behalf via the Internet or to send direct mail or catalogs to customers whom we think may be interested in our products or services. In order to do so, such vendor may collect anonymous information about your visits to our website using a cookie. This data is stored on your browser or mobile device and helps websites and mobile apps to remember things about you to improve your experience with the website. Third-party vendors may then pool the anonymous information that they collect from our website with other sources of information, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving direct mail or a catalog. To opt-out of receiving our direct mail or catalogs, email us at customercare@rockler.com or call 1-800-279-4441.
+We may from time to time contract with third party vendors to provide ads to our customers on our behalf via the Internet or to send direct mail or catalogs to customers whom we think may be interested in our products or services. In order to do so, such vendor may collect anonymous information about your visits to our website using a cookie. This data is stored on your browser or visible-xs-inline device and helps websites and visible-xs-inline apps to remember things about you to improve your experience with the website. Third-party vendors may then pool the anonymous information that they collect from our website with other sources of information, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving direct mail or a catalog. To opt-out of receiving our direct mail or catalogs, email us at customercare@rockler.com or call 1-800-279-4441.
 
-Rockler and our partners also use cookies and other technologies to 'remember' how you use our website, online services, and applications. Our goal in these cases is to make your experience with Rockler more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit Rockler's websites. Knowing someone using your computer or device has shopped for a certain product helps us make our e-mail communications and product suggestions more relevant to your interests. You may set your web browser to notify you when you receive a cookie. However, should you decide not to accept cookies from our sites, you will limit the functionality we can provide when you visit our sites.
+Rockler and our partners also use cookies and other technologies to "remember" how you use our website, online services, and applications. Our goal in these cases is to make your experience with Rockler more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit Rockler"s websites. Knowing someone using your computer or device has shopped for a certain product helps us make our e-mail communications and product suggestions more relevant to your interests. You may set your web browser to notify you when you receive a cookie. However, should you decide not to accept cookies from our sites, you will limit the functionality we can provide when you visit our sites.
 
-Our company and our trusted third parties may share with one another anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes.  Such cookies do not contain personally identifiable information.  If you would like to opt out of online behavioral advertising, click on one of these links: 
+Our company and our trusted third parties may share with one another anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes.  Such cookies do not contain personally identifiable information.  If you would like to opt out of online behavioral advertising, click this link: 
 
-<http://www.aboutads.info/choices> or <http://networkadvertising.org/choices>.
+[http://optout.aboutads.info](http://optout.aboutads.info/?c=2&lang=EN)
 
 As is true of most websites, our web servers gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data. We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, and to gather demographic information about our user base as a whole. Rockler may use this information in our marketing and advertising services.
 
