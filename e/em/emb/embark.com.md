@@ -1,27 +1,30 @@
-> *The following text is extracted and transformed from the embark.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619045634id_/http%3A//embark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embark.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205232425id_/https%3A//embark.com/privacy-policy) for the most accurate reproduction.*
 
-# Primary and Secondary Schools (K-12) | Embark
+# Privacy Policy | Embark
 
-Last updated: March 15th, 2018
+Last updated: May 5th, 2018
+
+We reserve the right to modify this privacy statement with immediate effect. 
 
 Embark Corp (“Company,” “we,” “us”) is dedicated to ensuring data privacy and security for our users. We are fully committed to adhering to all global security and privacy frameworks governing the usage of our service by applicants and other types of users, including:
 
   * [European General Data Protection Regulation](https://www.eugdpr.org/) (see addendum)
+  * [EU-U.S. Privacy Shield Principles](https://www.privacyshield.gov/welcome)
   * US Federal and State regulations
 
 
 
-You agree to this Privacy Policy, in its entirety, when you access or use our Website (embark.com) or share personal information with us. We reserve the right to modify this privacy statement with immediate effect.
+You agree to this Privacy Policy, in its entirety, when you access or use our Website (embark.com) or share personal information with us.
 
  **1\. Information We Collect**
 
 A. What you share with us
 
-We collect information about you when you voluntarily provide us with information through school, fellowship, financial aid, or other Website forms. The information you may be requested to submit by our school and fellowship clients may include (but is not limited to): (1) Name, (2) Address, (3) Email Address, (4) Telephone Number, (5) Social Security Number [for US applicants], and (6) Date of Birth. We also might receive information from your communications with us through our Website, email or telephone. Should you explicitly indicate interest in a third-party product or service featured on our site, we will track your interest in this service.
+We collect information about you when you voluntarily provide us with information through school, fellowship, financial aid, or other Website forms. The information you may be requested to submit by our school and fellowship clients may include (but is not limited to): (1) Name, (2) Address, (3) Email Address, (4) Telephone Number, (5) Social Security Number [for US applicants], and (6) Date of Birth.  We also might receive information from your communications with us through our Website, email or telephone. Should you explicitly indicate interest in a third-party product or service featured on our site, we will track your interest in this service.
 
 B. What is automatically collected
 
-For the purposes of improving our system performance, we may collect non-personally identifiable information such as your IP address (think of it as your address on the Internet so we can assess volume by country/region), cookies ( a small text file that Web sites can place on your hard drive to help remember your Username, as an example), computer settings (for example, what browser you are using), or analytics stats gathered by web tracking software.
+For the purposes of improving our system performance, we may collect non-personally identifiable information such as your IP address (think of it as your address on the Internet so we can assess volume by country/region), cookies ( a small text file that Web sites can place on your hard drive to help remember your Username, as an example), computer settings (for example, what browser you are using), or analytics stats gathered by web tracking software. 
 
 C. Information provided by a Third Party Provider
 
@@ -62,7 +65,17 @@ Individuals may access their data through the Embark portal using their unique l
 
 If you have any questions or comments, please don’t hesitate to contact us directly at[ privacypolicy@embark.com](mailto:privacypolicy@embark.com).
 
- **European GDPR Addendum**
+ **European GDPR and Privacy Shield Addendums**
+
+Embark complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union members countries.  Embark has certified that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/)
+
+In compliance with the Privacy Shield Principles, Embark commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Michael Turbe at: support@embark.com
+
+Embark has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers for more information and to file a complaint](http://www.bbb.org/EU-privacy-shield/for-eu-consumers).
+
+Please note that if your complaint is not resolved through the aforementioned channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+Embark is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).  Embark is required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 GDPR Requirement
 
