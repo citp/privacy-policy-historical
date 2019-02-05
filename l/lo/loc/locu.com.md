@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locu.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181852id_/https%3A//locu.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locu.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205204135id_/https%3A//locu.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Get Found
 
@@ -6,23 +6,34 @@ At Locu, Inc. (“we” or “us” or “our”), safeguarding your privacy as 
 
 [ ](https://privacy.truste.com/privacy-seal/validation?rid=97e75c6a-f9e7-467c-aa50-37378aff5354)
 
-## EU-U.S. Privacy Shield
+## EU-U.S. & Swiss-U.S. Privacy Shield
 
-Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Wild West Domains, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Locu, Inc. and Mad Mimi, Inc.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Go Daddy Operating Company, LLC is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's [Privacy Shield List.](https://www.privacyshield.gov/list)
+Our parent company, Go Daddy Operating Company, LLC (and our related entities, including GoDaddy.com, LLC, Wild West Domains, LLC, Blue Razor Domains, LLC, Starfield Technologies, LLC, Domains by Proxy, LLC, Outright, Inc., Media Temple, Inc. and Mad Mimi, Inc.) participates in and has certified its compliance with the EU-U.S. and the Swiss-U.S. Privacy Shield Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, and to view our certifications, visit the U.S. Department of Commerce’s [Privacy Shield List.](https://www.privacyshield.gov/)
 
-Locu, Inc. is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Locu, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Locu, Inc. is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Locu, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Locu, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Locu, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request.>
 
-Under certain conditions, more fully described on the [Privacy Shield website.](https://www.privacyshield.gov/welcome), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/welcome), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 ## Information We Collect
 
 ### Information You Provide to Us:
 
 We collect any information that you submit to us voluntarily through the Service or provide to us in any other way. For example if you register for the Service you must provide us certain information, such as your name, email address, phone number, and create a password. If you are a business registering for the Service, we may also request additional information, such as your physical address, photos, logos, hours of operation, accepted forms of payment, fax number, and in connection with your payment for the Service, information pertaining to your credit or debit card and billing address.
+
+### Information Collected From Others:
+
+We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you.  This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you.  If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you, may include:
+
+  * Address information about you from third party sources, such as the U.S. Postal Service, to verify your address so we can properly ship your order to you and to prevent fraud, and
+  * Purchased public data about our customers from third party databases that is combined with information we already have about you, to create more tailored advertising and products.
+
+
 
 ### Information Collected Automatically:
 
@@ -68,7 +79,7 @@ We may use third-party service providers (e.g., for our web hosting, network, ha
 
 We may disclose your personal information as permitted or required by law without your consent, if we are compelled to release information by a court of law or other person or entity with jurisdiction to compel production of such information (e.g., subpoenas). Additionally, if we have reasonable grounds to believe information could be useful in the investigation or prevention of improper or unlawful activity (i.e., suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service), we may disclose information voluntarily to law enforcement agencies or other appropriate investigative bodies without obtaining your consent before doing so.
 
-Locu may sell, transfer or otherwise share some or all of its assets, including your personal information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+Locu may sell, transfer or otherwise share some or all of its assets, including your personal information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. If Locu is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website, of any change in ownership, uses of your personal information, and choices you may have regarding your personal information.
 
 ## Links to Third-Party Websites
 
@@ -90,15 +101,13 @@ The Service is not intended for use by minors under the age of 13 and we do not 
 
 ## Changes
 
-We may periodically update this Policy at our sole discretion. We will post any changes to this Policy to our website, and if the changes are significant, we will provide a more prominent notice (including, in some cases, email notification of such changes). Please ensure that your primary e-mail address on file with us is correct. 
+We may periodically update this Policy at our sole discretion. We will post any changes to this Policy to our website, and if the changes are significant, we will provide a more prominent notice (including, in some cases, email notification of such changes). Please ensure that your primary e-mail address on file with us is correct.
 
 ## Access
 
 Upon request we will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [info@locu.com](mailto:info@locu.com).
 
 You may access, correct, or request deletion of your personal information by contacting us at [info@locu.com](mailto:info@locu.com). We will respond to these requests within a reasonable timeframe.
-
-You also have the right to amend, correct or delete your personal information where it is inaccurate at any time. To do so, please contact us by e-mail at [info@locu.com](mailto:info@locu.com).
 
 ## Choice
 
