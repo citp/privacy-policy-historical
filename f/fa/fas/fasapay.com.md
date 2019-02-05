@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fasapay.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926185723id_/https%3A//fasapay.com/policies/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasapay.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205160720id_/https%3A//fasapay.com/policies/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FasaPay Online Payment System
 
