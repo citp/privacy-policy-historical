@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the proav.co.uk privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606192514id_/https%3A//www.proav.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proav.co.uk privacy policy that was archived on 2019-02-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190205094502id_/https%3A//www.proav.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8"> 
@@ -22,11 +22,13 @@
 </script>
 <![endif]-->
 <link rel="stylesheet" type="text/css" href="https://www.proav.co.uk/skin/frontend/proav/default/css/aitpreorder.css" media="all">
-<link rel="stylesheet" type="text/css" href="https://www.proav.co.uk/skin/frontend/proav/default/ekomimeetsmage/css/style.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.proav.co.uk/skin/frontend/base/default/creativestyle/css/amazonpayments.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.proav.co.uk/skin/frontend/base/default/creativestyle/css/amazonpayments-responsive-widgets.css" media="all">
 <link rel="stylesheet" type="text/css" href="https://www.proav.co.uk/skin/frontend/proav/default/css/jquery-ui.css" media="all">
 <link rel="stylesheet" type="text/css" href="https://www.proav.co.uk/skin/frontend/proav/default/css/jquery.fancybox.css" media="all">
 <link rel="stylesheet" type="text/css" href="https://www.proav.co.uk/skin/frontend/proav/default/css/style.css" media="all">
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0025/1612.js?438995" async="" type="text/javascript"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M48TVH"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="https://t.trackedlink.net/_dmpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.proav.co.uk/js/prototype/prototype.js"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0025/1612.js?438995" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://api.clerk.io/static/clerk.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M48TVH"></script><script type="text/javascript" src="//r1-t.trackedlink.net/_dmpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"></script>
+<script type="text/javascript" src="https://www.proav.co.uk/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="https://www.proav.co.uk/js/lib/ccard.js"></script>
 <script type="text/javascript" src="https://www.proav.co.uk/js/prototype/validation.js"></script>
 <script type="text/javascript" src="https://www.proav.co.uk/js/scriptaculous/builder.js"></script>
@@ -39,7 +41,9 @@
 <script type="text/javascript" src="https://www.proav.co.uk/js/varien/menu.js"></script>
 <script type="text/javascript" src="https://www.proav.co.uk/js/mage/translate.js"></script>
 <script type="text/javascript" src="https://www.proav.co.uk/js/mage/cookies.js"></script>
+<script type="text/javascript" src="https://www.proav.co.uk/js/prototype/tooltip.js"></script>
 <script type="text/javascript" src="https://www.proav.co.uk/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="https://www.proav.co.uk/skin/frontend/base/default/clerk/helper.js"></script>
 <script type="text/javascript" src="https://www.proav.co.uk/skin/frontend/base/default/js/aitoc/aitpreorder/preorder.js"></script>
 <script type="text/javascript" src="https://www.proav.co.uk/skin/frontend/base/default/js/tm/askit.js"></script>
 <script type="text/javascript" src="https://www.proav.co.uk/skin/frontend/proav/default/js/source/jquery.fancybox.js"></script>
@@ -102,33 +106,113 @@ _gaq.push(['_trackPageview']);
 <!-- META GOOGLE TRANSLATE-->
     <script type="text/javascript">
         (function(){
+            var regionPrefix = "r1-";
             var connector = document.createElement('script');
             connector.type = 'text/javascript';
-            connector.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 't.trackedlink.net/_dmpt.js';
+            connector.src = '//' + regionPrefix + 't.trackedlink.net/_dmpt.js';
             var s = document.getElementsByTagName('script')[0];
             s.parentNode.insertBefore(connector, s);
         })();
     </script>
 
 
-                            <!-- Facebook Pixel Code -->
-                <script>
-                !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-                n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-                n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-                t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-                document,'script','https://connect.facebook.net/en_US/fbevents.js');
-                fbq('init', '1180784495341249', {
-                em: 'joao@proav.co.uk,'
+<script type="text/javascript">
+    //Email Capture For Quote
+
+    var emailCapture = Class.create();
+    emailCapture.prototype = {
+        initialize: function(options) {
+            this.options = Object.extend({
+                elements: "input[name='billing[email]']"
+            }, options || {} );
+
+            // Observe blur on email field
+            $$(this.options.elements).each(function(email) {
+                Event.observe(email,'blur',this.captureEmail.bindAsEventListener(this));
+            }.bind(this));
+        },
+
+        //capture email
+        captureEmail: function(event) {
+            var el = $(Event.element(event));
+            //validate email
+            if(el.value && this.validateEmail(el.value)){
+                //ajax call
+                new Ajax.Request('https://www.proav.co.uk/' + 'connector/ajax/emailcapture', {
+                    method: 'post',
+                    parameters:{
+                        email:el.value
+                    }
                 });
-                fbq('track', 'PageView');
-                </script>
-                <noscript><img height="1" width="1" style="display:none"
-                src="https://www.facebook.com/tr?id=1180784495341249&ev=PageView&noscript=1"
-                /></noscript>
-                <!-- DO NOT MODIFY -->
-                <!-- End Facebook Pixel Code -->
-                        <!-- CMS page canonical link tag added by CreareSEO -->
+            }
+        },
+
+        //email validation
+        validateEmail: function (email) {
+            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email);
+        }
+    };
+
+    //Email Capture For Newsletter
+
+    var newsletterEmailCapture = Class.create();
+    newsletterEmailCapture.prototype = {
+        initialize: function(options) {
+            this.options = Object.extend({
+                elements: "input[name='email']"
+            }, options || {} );
+
+            // Observe blur on email field
+            $$(this.options.elements).each(function(email) {
+                Event.observe(email,'blur',this.captureEmail.bindAsEventListener(this));
+            }.bind(this));
+        },
+
+        //capture email
+        captureEmail: function(event) {
+            var el = $(Event.element(event));
+            //validate email
+            if(el.value && this.validateEmail(el.value)){
+                //ajax call
+                new Ajax.Request('https://www.proav.co.uk/' + 'connector/ajax/emailcapture', {
+                    method: 'post',
+                    parameters:{
+                        email:el.value
+                    }
+                });
+            }
+        },
+
+        //email validation
+        validateEmail: function (email) {
+            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email);
+        }
+    };
+</script><!-- Easy Email Capture For Checkout -->
+    <script type="text/javascript">
+        //<![CDATA[
+        document.observe("dom:loaded", function() {
+            window.emailcapture = new emailCapture();
+        });
+        //]]>
+    </script>
+
+<!-- Easy Email Capture For Newsletter Field -->
+    <script type="text/javascript">
+        //<![CDATA[
+        document.observe("dom:loaded", function() {
+            window.newsletterEmailCapture = new newsletterEmailCapture();
+        });
+        //]]>
+    </script>
+<!-- Facebook Ads Extension for Magento -->
+<!-- NO Pixel ID is configured, please goto Admin -->
+<script>
+ console.log('No facebook pixel is configured, please log in as a admin and then visit Facebook Ads Extension -> Get Started');
+</script>
+<!-- CMS page canonical link tag added by CreareSEO -->
 <link rel="canonical" href="https://www.proav.co.uk/privacy-policy"><script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
         //]]></script><meta name="msvalidate.01" content="F952C4C19B75AB7A6470B39A698BF900">
@@ -153,7 +237,7 @@ _gaq.push(['_trackPageview']);
 <meta name="google-site-verification" content="PBsg37e2-hKOg-Qu8CvPjnpDgbrNr0RK__ILPFoPE3o">
 <!--[if lte IE 8]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
-<script type="text/javascript" async="" src="//static.getclicky.com/js"></script><script type="text/javascript" defer="" src="https://connect.ekomi.de/integration_1343742754/JHD7JJLCKDY9XB5.js"></script></head>
+<script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
 <body class=" cms-page-view cms-privacy-policy column2-left noJS">
     <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M48TVH"
@@ -169,7 +253,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   "@type" : "Organization",
   "name" : "English",
   "url" : "https://www.proav.co.uk/",
-  "sameAs" : [   "https://www.facebook.com/proavtv/",    "https://twitter.com/ProAV",    "https://www.linkedin.com/company/proav-uk",    "https://www.youtube.com/user/ProAVTube"  ]
+  "sameAs" : [   "https://www.facebook.com/proav.co.uk",    "https://twitter.com/ProAV",    "https://www.linkedin.com/company/proav-uk",    "https://www.instagram.com/proavuk/",    "https://www.youtube.com/user/ProAVTube"  ]
 }
 </script>
 <!-- Logo Schema added by CreareSEO -->
@@ -232,6 +316,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <a href="https://www.proav.co.uk/cameras-accessories/camera-supports-rigs" class="id-454" title="Cameras &amp; Accessories - Camera Supports &amp; Rigs">Camera Supports &amp; Rigs</a>
                             </li>
                                                     <li>
+                                <a href="https://www.proav.co.uk/cameras-accessories/wireless-transmission" class="id-1224" title="Cameras &amp; Accessories - Wireless Transmission">Wireless Transmission</a>
+                            </li>
+                                                    <li>
                                 <a href="https://www.proav.co.uk/cameras-accessories/camera-accessories" class="id-455" title="Cameras &amp; Accessories - Camera Accessories">Camera Accessories</a>
                             </li>
                                             </ul>
@@ -250,7 +337,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <a href="https://www.proav.co.uk/cine/rigs" class="id-1930" title="Cinematography Equipment - Rigs">Rigs</a>
                             </li>
                                                     <li>
-                                <a href="https://www.proav.co.uk/cine/tripods-support-20" class="id-1939" title="Cinematography Equipment - Tripods &amp; Support">Tripods &amp; Support</a>
+                                <a href="https://www.proav.co.uk/cine/tripods-support-34" class="id-1939" title="Cinematography Equipment - Tripods &amp; Support">Tripods &amp; Support</a>
                             </li>
                                                     <li>
                                 <a href="https://www.proav.co.uk/cine/power" class="id-1945" title="Cinematography Equipment - Power">Power</a>
@@ -385,10 +472,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </li>
 
                     <li class="top">
-                <a href="https://www.proav.co.uk/used" class="top id-1527" title="Used Broadcasting Equipment"><span>Used Broadcasting Equipment</span></a>
+                <a href="https://www.proav.co.uk/used" class="top id-1527" title="Used / Ex-Demo Equipment"><span>Used / Ex-Demo Equipment</span></a>
                                     <ul class="sub">
                                                     <li>
-                                <a href="https://www.proav.co.uk/used/used-broadcasting-equipment" class="id-1528" title="Used Broadcasting Equipment - Used Broadcasting Equipment">Used Broadcasting Equipment</a>
+                                <a href="https://www.proav.co.uk/used/used-broadcasting-equipment" class="id-1528" title="Used / Ex-Demo Equipment - Used / Ex-Demo Equipment">Used / Ex-Demo Equipment</a>
                             </li>
                                             </ul>
                             </li>
@@ -463,7 +550,7 @@ function googleTranslateElementInit() {
     <a href="https://www.proav.co.uk/checkout/cart/" class="totals" rel="nofollow">0 items: <span class="price">£0.00</span></a>
         <a href="https://www.proav.co.uk/checkout/cart/" class="button radius4 orange thin" rel="nofollow" title="Checkout">Checkout</a>
 </div>            <div class="search radius4">
-                <form id="search_mini_form" action="https://www.proav.co.uk/nsearch/" method="get">
+                <form id="search_mini_form" action="https://www.proav.co.uk/catalogsearch/result/" method="get">
     <div class="form-search">
         <button type="submit" title="Search" class="iconSprite-search"></button>
         <div class="inputHolder">
@@ -514,6 +601,7 @@ function googleTranslateElementInit() {
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/cameras/large-sensor-cameras" class="id-458" title="Video Cameras - Large Sensor Cameras"><span>Large Sensor Cameras</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/cameras/point-of-view-cameras-minicams" class="id-460" title="Video Cameras - POV / Minicams"><span>POV / Minicams</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/cameras/camera-packages" class="id-461" title="Video Cameras - Camera Packages"><span>Camera Packages</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/cameras-accessories/cameras/360-cameras" class="id-2061" title="Video Cameras - 360° Cameras"><span>360° Cameras</span></a></li>
                                                                                             </ul>
                                         
                                     </li>
@@ -560,7 +648,6 @@ function googleTranslateElementInit() {
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/monitoring/loupes-evf-s" class="id-1537" title="Monitoring - Viewfinders &amp; EVF's"><span>Viewfinders &amp; EVF's</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/monitoring/monitor-recorders" class="id-2005" title="Monitoring - Monitor Recorders"><span>Monitor Recorders</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/monitoring/director-monitors" class="id-2004" title="Monitoring - Director Monitors"><span>Director Monitors</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/cameras-accessories/monitoring/monitor-viewfinders" class="id-2010" title="Monitoring - Monitor Viewfinders"><span>Monitor Viewfinders</span></a></li>
                                                                                             </ul>
                                         
                                     </li>
@@ -618,8 +705,8 @@ function googleTranslateElementInit() {
 
                                                                                     <ul class="subsub">
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/camera-supports-rigs/camera-stabilisers" class="id-568" title="Camera Supports &amp; Rigs - Camera Stabilisers"><span>Camera Stabilisers</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/cameras-accessories/camera-supports-rigs/camera-rigs-89" class="id-1992" title="Camera Supports &amp; Rigs - Complete Camera Rigs"><span>Complete Camera Rigs</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/cameras-accessories/camera-supports-rigs/camera-rigs-88" class="id-1878" title="Camera Supports &amp; Rigs - Camera Cages"><span>Camera Cages</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/cameras-accessories/camera-supports-rigs/camera-rigs-127" class="id-1992" title="Camera Supports &amp; Rigs - Complete Camera Rigs"><span>Complete Camera Rigs</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/cameras-accessories/camera-supports-rigs/camera-rigs-126" class="id-1878" title="Camera Supports &amp; Rigs - Camera Cages"><span>Camera Cages</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/camera-supports-rigs/camera-rig-components" class="id-567" title="Camera Supports &amp; Rigs - Camera Rig Components"><span>Camera Rig Components</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/camera-supports-rigs/camera-jibs-cranes" class="id-569" title="Camera Supports &amp; Rigs - Camera Jibs &amp; Cranes"><span>Camera Jibs &amp; Cranes</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/camera-supports-rigs/slider-track-systems" class="id-570" title="Camera Supports &amp; Rigs - Slider &amp; Track Systems"><span>Slider &amp; Track Systems</span></a></li>
@@ -631,6 +718,19 @@ function googleTranslateElementInit() {
                                     </li>
                                                                     <li class="column4">
                                         <strong>
+                                            <a href="https://www.proav.co.uk/cameras-accessories/wireless-transmission" class="id-1224" title="Cameras &amp; Accessories - Wireless Transmission"><span>Wireless Transmission</span></a>
+                                        </strong>
+
+                                                                                    <ul class="subsub">
+                                                                                                    <li><a href="https://www.proav.co.uk/cameras-accessories/wireless-transmission/wireless-system-kits" class="id-2066" title="Wireless Transmission - Wireless System Kits"><span>Wireless System Kits</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/cameras-accessories/wireless-transmission/wireless-receivers" class="id-2067" title="Wireless Transmission - Wireless Receivers"><span>Wireless Receivers</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/cameras-accessories/wireless-transmission/wireless-transmitters" class="id-2068" title="Wireless Transmission - Wireless Transmitters"><span>Wireless Transmitters</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/cameras-accessories/wireless-transmission/wireless-accessories" class="id-2069" title="Wireless Transmission - Wireless Accessories"><span>Wireless Accessories</span></a></li>
+                                                                                            </ul>
+                                        
+                                    </li>
+                                                                    <li class="column5">
+                                        <strong>
                                             <a href="https://www.proav.co.uk/cameras-accessories/camera-accessories" class="id-455" title="Cameras &amp; Accessories - Camera Accessories"><span>Camera Accessories</span></a>
                                         </strong>
 
@@ -641,10 +741,11 @@ function googleTranslateElementInit() {
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/camera-accessories/brackets-mounts" class="id-575" title="Camera Accessories - Brackets &amp; Mounts"><span>Brackets &amp; Mounts</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/camera-accessories/clapperboards" class="id-1494" title="Camera Accessories - Clapperboards"><span>Clapperboards</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/camera-accessories/lcd-sunshades" class="id-577" title="Camera Accessories - LCD Sunshades"><span>LCD Sunshades</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/cameras-accessories/camera-accessories/wireless-transmission" class="id-1224" title="Camera Accessories - Wireless Transmission"><span>Wireless Transmission</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/camera-accessories/pov-camera-accessories" class="id-1244" title="Camera Accessories - POV Camera Accessories"><span>POV Camera Accessories</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/camera-accessories/prime-support" class="id-578" title="Camera Accessories - Prime Support"><span>Prime Support</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cameras-accessories/camera-accessories/video-reference-charts" class="id-1891" title="Camera Accessories - Video Reference Charts"><span>Video Reference Charts</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/cameras-accessories/camera-accessories/aa-aaa-batteries" class="id-2074" title="Camera Accessories - AA / AAA Batteries"><span>AA / AAA Batteries</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/cameras-accessories/camera-accessories/mobile-chargers" class="id-2076" title="Camera Accessories - Mobile Chargers"><span>Mobile Chargers</span></a></li>
                                                                                             </ul>
                                         
                                     </li>
@@ -654,7 +755,7 @@ function googleTranslateElementInit() {
                                             <li class="spacer"></li>
                         <li class="adverts">
                             <ul>
-                                <li class="advert"><a href="https://www.proav.co.uk/news/canon-offer-save-s-on-accessories/" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/CanonOffers_Smallnavigationbanner.jpg"><span class="text">Canon Offer - Save £££'s on accessories!</span></a></li><li class="advert"><a href="https://www.proav.co.uk/proav-finance" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/Photolease_Smallnavigationbanner_1.jpg"><span class="text">Photolease Finance Options</span></a></li><li class="advert"><a href="http://www.proav.co.uk/e-image-7050aa-aluminium-tripod-kit" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/7050AA_DropdownBanner_1.jpg"><span class="text">E-Image 7050AA - Only £99 (ex vat)</span></a></li>                            </ul>
+                                <li class="advert"><a href="https://www.proav.co.uk/cameras-accessories/cameras/handheld-camcorders/sony-pxw-z90-compact-4k-palm-camcorder" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/SonyPXWZ90V_DropdownBanner.jpg"><span class="text">Sony PXW-Z90V 4K Camcorder</span></a></li><li class="advert"><a href="https://www.proav.co.uk/proav-finance" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/Photolease_Smallnavigationbanner_1.jpg"><span class="text">Photolease Finance Options</span></a></li><li class="advert"><a href="https://www.proav.co.uk/mavic-2-drone" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/DJIMavic2_SmallBanner.jpg"><span class="text">DJI Mavic 2 - Zoom &amp; Pro</span></a></li>                            </ul>
                         </li>
                                     </ul>
             </li>
@@ -676,6 +777,7 @@ function googleTranslateElementInit() {
                                                                                                     <li><a href="https://www.proav.co.uk/cine/cameras/sony" class="id-1987" title="CINE Cameras - Sony"><span>Sony</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cine/cameras/blackmagic-design-cine-cameras" class="id-1983" title="CINE Cameras - Blackmagic Design"><span>Blackmagic Design</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cine/cameras/jvc" class="id-1985" title="CINE Cameras - JVC"><span>JVC</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/cine/cameras/kinefinity" class="id-2070" title="CINE Cameras - Kinefinity"><span>Kinefinity</span></a></li>
                                                                                             </ul>
                                         
                                     </li>
@@ -692,7 +794,6 @@ function googleTranslateElementInit() {
                                                                                                     <li><a href="https://www.proav.co.uk/cine/lenses/e-mount" class="id-1981" title="Lenses - E Mount"><span>E Mount</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cine/lenses/mft-cine" class="id-2007" title="Lenses - MFT Cine"><span>MFT Cine</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cine/lenses/nikon-f-cine" class="id-2008" title="Lenses - Nikon F Cine"><span>Nikon F Cine</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/cine/lenses/sony-fe-cine" class="id-2009" title="Lenses - Sony FE Cine"><span>Sony FE Cine</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cine/lenses/anamorphics" class="id-1977" title="Lenses - Anamorphics"><span>Anamorphics</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cine/lenses/adapters" class="id-1978" title="Lenses - Adapters"><span>Adapters</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/cine/lenses/extenders" class="id-1982" title="Lenses - Extenders"><span>Extenders</span></a></li>
@@ -726,15 +827,15 @@ function googleTranslateElementInit() {
                                     </li>
                                                                     <li class="column4">
                                         <strong>
-                                            <a href="https://www.proav.co.uk/cine/tripods-support-20" class="id-1939" title="Cinematography Equipment - Tripods &amp; Support"><span>Tripods &amp; Support</span></a>
+                                            <a href="https://www.proav.co.uk/cine/tripods-support-34" class="id-1939" title="Cinematography Equipment - Tripods &amp; Support"><span>Tripods &amp; Support</span></a>
                                         </strong>
 
                                                                                     <ul class="subsub">
-                                                                                                    <li><a href="https://www.proav.co.uk/cine/tripods-support-20/tripod-kits" class="id-1940" title="Tripods &amp; Support - Tripod Kits"><span>Tripod Kits</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/cine/tripods-support-20/tripods" class="id-1941" title="Tripods &amp; Support - Tripods"><span>Tripods</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/cine/tripods-support-20/tripod-heads" class="id-1942" title="Tripods &amp; Support - Tripod Heads"><span>Tripod Heads</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/cine/tripods-support-20/articulating-arms" class="id-1943" title="Tripods &amp; Support - Articulating Arms"><span>Articulating Arms</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/cine/tripods-support-20/gimbals" class="id-1944" title="Tripods &amp; Support - Gimbals"><span>Gimbals</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/cine/tripods-support-34/tripod-kits" class="id-1940" title="Tripods &amp; Support - Tripod Kits"><span>Tripod Kits</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/cine/tripods-support-34/tripods" class="id-1941" title="Tripods &amp; Support - Tripods"><span>Tripods</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/cine/tripods-support-34/tripod-heads" class="id-1942" title="Tripods &amp; Support - Tripod Heads"><span>Tripod Heads</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/cine/tripods-support-34/articulating-arms" class="id-1943" title="Tripods &amp; Support - Articulating Arms"><span>Articulating Arms</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/cine/tripods-support-34/gimbals" class="id-1944" title="Tripods &amp; Support - Gimbals"><span>Gimbals</span></a></li>
                                                                                             </ul>
                                         
                                     </li>
@@ -758,7 +859,7 @@ function googleTranslateElementInit() {
                                             <li class="spacer"></li>
                         <li class="adverts">
                             <ul>
-                                <li class="advert"><a href="https://www.proav.co.uk/nsearch/?q=CN7" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/CanonCN7_SmallBanner.jpg"><span class="text">Canon CN7 Lenses - Stunning 4K optical performance</span></a></li>                            </ul>
+                                <li class="advert"><a href="https://www.proav.co.uk/canon/cinematic-lenses/zoom-range/5-10x" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/CanonCN7_SmallBanner.jpg"><span class="text">Canon CN7 Lenses - Stunning 4K optical performance</span></a></li>                            </ul>
                         </li>
                                     </ul>
             </li>
@@ -775,10 +876,10 @@ function googleTranslateElementInit() {
                                         </strong>
 
                                                                                     <ul class="subsub">
-                                                                                                    <li><a href="https://www.proav.co.uk/photo/cameras/canon-dslr-cameras" class="id-1675" title="Cameras - Canon DSLR Cameras"><span>Canon DSLR Cameras</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/photo/cameras/panasonic-dslr-cameras" class="id-1676" title="Cameras - Panasonic DSLR Cameras"><span>Panasonic DSLR Cameras</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/photo/cameras/sony-dslr-cameras" class="id-1659" title="Cameras - Sony DSLR Cameras"><span>Sony DSLR Cameras</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/photo/cameras/sigma-dslr-cameras" class="id-1682" title="Cameras - Sigma DSLR Cameras"><span>Sigma DSLR Cameras</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/photo/cameras/canon-stills-cameras" class="id-1675" title="Cameras - Canon Stills Cameras"><span>Canon Stills Cameras</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/photo/cameras/panasonic-stills-cameras" class="id-1676" title="Cameras - Panasonic Stills Cameras"><span>Panasonic Stills Cameras</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/photo/cameras/sony-stills-cameras" class="id-1659" title="Cameras - Sony Stills Cameras"><span>Sony Stills Cameras</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/photo/cameras/sigma-stills-cameras" class="id-1682" title="Cameras - Sigma Stills Cameras"><span>Sigma Stills Cameras</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/photo/cameras/photographic-camera-packages" class="id-1923" title="Cameras - Photographic Camera Packages"><span>Photographic Camera Packages</span></a></li>
                                                                                             </ul>
                                         
@@ -822,7 +923,7 @@ function googleTranslateElementInit() {
                                             <li class="spacer"></li>
                         <li class="adverts">
                             <ul>
-                                <li class="advert"><a href="https://www.proav.co.uk/canon-eos-5d-mark-iv-dslr-camera-body-only" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/Canon5D_DropdownBanner.jpg"><span class="text">Canon EOS 5D MKIV</span></a></li><li class="advert"><a href="https://www.proav.co.uk/photo/photo-tripods-monopods/photo-tripod-kits-systems/manufacturer/manfrotto/show/all" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/Manfrotto_PhotoTripods.jpg"><span class="text">Manfrotto Photo Tripod Range</span></a></li>                            </ul>
+                                <li class="advert"><a href="https://www.proav.co.uk/canon-eos-r-digital-full-frame-mirrorless-camera" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/CanonEOSR_NavBanner.jpg"><span class="text">Canon EOS R System - Available Now!</span></a></li><li class="advert"><a href="https://www.proav.co.uk/photo/photo-tripods-monopods/photo-tripod-kits-systems/manufacturer/manfrotto/show/all" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/Manfrotto_PhotoTripods.jpg"><span class="text">Manfrotto Photo Tripod Range</span></a></li>                            </ul>
                         </li>
                                     </ul>
             </li>
@@ -896,6 +997,8 @@ function googleTranslateElementInit() {
                                                                                     <ul class="subsub">
                                                                                                     <li><a href="https://www.proav.co.uk/live-production/live-production/character-generators-graphic-solutions" class="id-1680" title="Live Production - Character Generators &amp; Graphic Solutions"><span>Character Generators &amp; Graphic Solutions</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/live-production/live-production/web-streaming" class="id-1997" title="Live Production - Web Streaming"><span>Web Streaming</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/live-production/live-production/encoders" class="id-2063" title="Live Production - Encoders"><span>Encoders</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/live-production/live-production/decoders" class="id-2065" title="Live Production - Decoders"><span>Decoders</span></a></li>
                                                                                             </ul>
                                         
                                     </li>
@@ -905,7 +1008,7 @@ function googleTranslateElementInit() {
                                             <li class="spacer"></li>
                         <li class="adverts">
                             <ul>
-                                <li class="advert"><a href="http://www.proav.co.uk/news/atomos-shogun-flame-ninja-flame" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/Flame_DropdownMenu_Banner_1.jpg"><span class="text">New! Atomos Shogun Flame &amp; Ninja Flame</span></a></li>                            </ul>
+                                <li class="advert"><a href="https://www.proav.co.uk/live-production/live-production/web-streaming" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/LiveWebStreaming_DropDownBanner.jpg"><span class="text">View our full range of web streaming products &gt;&gt;</span></a></li>                            </ul>
                         </li>
                                     </ul>
             </li>
@@ -998,7 +1101,7 @@ function googleTranslateElementInit() {
                                             <li class="spacer"></li>
                         <li class="adverts">
                             <ul>
-                                <li class="advert"><a href="https://www.proav.co.uk/catalogsearch/result/?q=Saramonic&amp;manufacturer=2417" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/Saramonic_DropDownBanner.jpg"><span class="text">Saramonic - Professional Sound Equipment Solutions</span></a></li><li class="advert"><a href="https://www.proav.co.uk/sennheiser-ew-112-p-g3-wireless-mic-set" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/SennheiserEW112P_DropDownBanner.jpg"><span class="text">Sennheiser EW 112-P G3 GB Wireless Mic Set</span></a></li><li class="advert"><a href="https://www.proav.co.uk/audio-equipment/microphones-microphone-kits/wireless-microphones/manufacturer/rode" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/RodeKits_DropDownBanner.jpg"><span class="text">Rode Wireless Microphone Kits</span></a></li>                            </ul>
+                                <li class="advert"><a href="https://www.proav.co.uk/catalogsearch/result/?q=xsw-d" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/Sennheiser_NavBanner.jpg"><span class="text">Sennheiser XS-D Wireless Digital</span></a></li><li class="advert"><a href="https://www.proav.co.uk/broadcast-wireless-lavalier-microphone-2-set-ew-112p-g4" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/SennheiserEW112PG4_DropDownBanner.jpg"><span class="text">Sennheiser EW 112-P G4 GB Wireless Mic Set</span></a></li><li class="advert"><a href="https://www.proav.co.uk/audio-equipment/microphones-microphone-kits/wireless-microphones/manufacturer/rode" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/RodeKits_DropDownBanner.jpg"><span class="text">Rode Wireless Microphone Kits</span></a></li>                            </ul>
                         </li>
                                     </ul>
             </li>
@@ -1017,6 +1120,7 @@ function googleTranslateElementInit() {
                                                                                     <ul class="subsub">
                                                                                                     <li><a href="https://www.proav.co.uk/lenses-controllers/lenses/cinematic-lenses" class="id-1230" title="Camera Lenses - Cinematic Lenses"><span>Cinematic Lenses</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/lenses-controllers/lenses/canon-fit-lenses" class="id-640" title="Camera Lenses - Canon EF Mount Lenses"><span>Canon EF Mount Lenses</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/lenses-controllers/lenses/rf-lenses" class="id-2175" title="Camera Lenses - Canon RF Lenses"><span>Canon RF Lenses</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/lenses-controllers/lenses/sony-e-mount-lenses" class="id-1683" title="Camera Lenses - Sony E Mount Lenses"><span>Sony E Mount Lenses</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/lenses-controllers/lenses/micro-four-thirds" class="id-1546" title="Camera Lenses - Micro Four Thirds Mount Lenses"><span>Micro Four Thirds Mount Lenses</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/lenses-controllers/lenses/pl-mount-lenses" class="id-1684" title="Camera Lenses - PL Mount Lenses"><span>PL Mount Lenses</span></a></li>
@@ -1029,6 +1133,7 @@ function googleTranslateElementInit() {
                                                                                                     <li><a href="https://www.proav.co.uk/lenses-controllers/lenses/sony-a-mount-lenses" class="id-1918" title="Camera Lenses - Sony A Mount Lenses"><span>Sony A Mount Lenses</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/lenses-controllers/lenses/canon-m-lenses" class="id-1954" title="Camera Lenses - Canon M Lenses"><span>Canon M Lenses</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/lenses-controllers/lenses/fuji-x-mount-lenses" class="id-2001" title="Camera Lenses - Fuji X Mount Lenses"><span>Fuji X Mount Lenses</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/lenses-controllers/lenses/panasonic-l-mount-lenses" class="id-2178" title="Camera Lenses - Panasonic L-Mount Lenses"><span>Panasonic L-Mount Lenses</span></a></li>
                                                                                             </ul>
                                         
                                     </li>
@@ -1071,7 +1176,7 @@ function googleTranslateElementInit() {
                                                                                                     <li><a href="https://www.proav.co.uk/lenses-controllers/lens-accessories/optical-filters" class="id-604" title="Lens Accessories - Optical Filters"><span>Optical Filters</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/lenses-controllers/lens-accessories/matteboxes-hoods" class="id-603" title="Lens Accessories - Matteboxes &amp; Hoods"><span>Matteboxes &amp; Hoods</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/lenses-controllers/lens-accessories/follow-focus" class="id-600" title="Lens Accessories - Follow Focus"><span>Follow Focus</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/lenses-controllers/lens-accessories/tele-converters" class="id-1671" title="Lens Accessories - Tele Converters"><span>Tele Converters</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/lenses-controllers/lens-accessories/tele-converters" class="id-1671" title="Lens Accessories - Wide &amp; Tele Converters"><span>Wide &amp; Tele Converters</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/lenses-controllers/lens-accessories/lens-support" class="id-601" title="Lens Accessories - Lens Support"><span>Lens Support</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/lenses-controllers/lens-accessories/lens-pitch-gears" class="id-602" title="Lens Accessories - Lens &amp; Pitch Gears"><span>Lens &amp; Pitch Gears</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/lenses-controllers/lens-accessories/step-adapter-rings" class="id-605" title="Lens Accessories - Step &amp; Adapter Rings"><span>Step &amp; Adapter Rings</span></a></li>
@@ -1132,6 +1237,7 @@ function googleTranslateElementInit() {
                                                                                                     <li><a href="https://www.proav.co.uk/lighting-chromakey/lighting-accessories/softboxes" class="id-1247" title="Lighting Accessories - Softboxes"><span>Softboxes</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/lighting-chromakey/lighting-accessories/spares-accessories" class="id-644" title="Lighting Accessories - Spares &amp; Accessories"><span>Spares &amp; Accessories</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/lighting-chromakey/lighting-accessories/curtains-backgrounds" class="id-1649" title="Lighting Accessories - Curtains &amp; Backgrounds"><span>Curtains &amp; Backgrounds</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/lighting-chromakey/lighting-accessories/torches" class="id-2075" title="Lighting Accessories - Torches"><span>Torches</span></a></li>
                                                                                             </ul>
                                         
                                     </li>
@@ -1153,7 +1259,7 @@ function googleTranslateElementInit() {
                                             <li class="spacer"></li>
                         <li class="adverts">
                             <ul>
-                                <li class="advert"><a href="https://www.proav.co.uk/nsearch/?q=edge&amp;Manufacturer=Lishuai" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/LishuaiEdge_DropdownBanner.jpg"><span class="text">Lishuai Edge range - A new generation of accurate, soft &amp; affordable LED lights</span></a></li><li class="advert"><a href="https://www.proav.co.uk/catalogsearch/result/?q=Kino+Flo&amp;manufacturer=828" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/KinoFlo_DropdownBanner.jpg"><span class="text">Kino FLo Lighting Systems - View the full range</span></a></li>                            </ul>
+                                <li class="advert"><a href="https://www.proav.co.uk/catalogsearch/result/?q=LS+Edge" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/LishuaiEdge_DropdownBanner.jpg"><span class="text">Lishuai Edge range - A new generation of accurate, soft &amp; affordable LED lights</span></a></li><li class="advert"><a href="https://www.proav.co.uk/catalogsearch/result/?q=Kino+Flo&amp;manufacturer=828" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/KinoFlo_DropdownBanner.jpg"><span class="text">Kino FLo Lighting Systems - View the full range</span></a></li>                            </ul>
                         </li>
                                     </ul>
             </li>
@@ -1183,7 +1289,7 @@ function googleTranslateElementInit() {
 
                                                                                     <ul class="subsub">
                                                                                                     <li><a href="https://www.proav.co.uk/post-production/file-transfer/vtr-s-ddr-s" class="id-496" title="File Transfer - VTR's &amp; DDR's"><span>VTR's &amp; DDR's</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/post-production/file-transfer/memory-crad-readers" class="id-500" title="File Transfer - Memory Card Readers"><span>Memory Card Readers</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/post-production/file-transfer/memory-card-readers" class="id-500" title="File Transfer - Memory Card Readers"><span>Memory Card Readers</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/post-production/file-transfer/option-boards-interface-cards" class="id-501" title="File Transfer - Option Boards &amp; Interface Cards"><span>Option Boards &amp; Interface Cards</span></a></li>
                                                                                                     <li><a href="https://www.proav.co.uk/post-production/file-transfer/capture-cards-devices" class="id-889" title="File Transfer - Capture Cards &amp; Devices"><span>Capture Cards &amp; Devices</span></a></li>
                                                                                             </ul>
@@ -1300,35 +1406,35 @@ function googleTranslateElementInit() {
                                             <li class="spacer"></li>
                         <li class="adverts">
                             <ul>
-                                <li class="advert"><a href="http://www.proav.co.uk/news/atomos-shogun-flame-ninja-flame" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/Atomos_DropdownBanner.jpg"><span class="text">New! Atomos Shogun Flame &amp; Ninja Flame</span></a></li><li class="advert"><a href="https://www.proav.co.uk/blackmagic-design/digital-converters/show/all" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/BMDConverters_DropdownBanner.jpg"><span class="text">Blackmagic Design DIgital Converter Range</span></a></li>                            </ul>
+                                <li class="advert"><a href="https://www.proav.co.uk/live-production/live-production/web-streaming" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/WebStreaming_SmallBanner.jpg"><span class="text">View our range of web streaming products &gt;&gt;</span></a></li><li class="advert"><a href="https://www.proav.co.uk/blackmagic-design/digital-converters/show/all" target="_blank"><img src="https://www.proav.co.uk/media/catalog/category/BMDConverters_DropdownBanner.jpg"><span class="text">Blackmagic Design DIgital Converter Range &gt;&gt;</span></a></li>                            </ul>
                         </li>
                                     </ul>
             </li>
             
 
                     <li class="top columns1 hasChild subRight item10">
-                <a href="https://www.proav.co.uk/used" class="top id-1527" title="Used Broadcasting Equipment"><span>Used Broadcasting Equipment</span></a>
+                <a href="https://www.proav.co.uk/used" class="top id-1527" title="Used / Ex-Demo Equipment"><span>Used / Ex-Demo Equipment</span></a>
                 <ul class="sub">
                                             <li class="categories">
                             <ul>
                                                                     <li class="column1">
                                         <strong>
-                                            <a href="https://www.proav.co.uk/used/used-broadcasting-equipment" class="id-1528" title="Used Broadcasting Equipment - Used Broadcasting Equipment"><span>Used Broadcasting Equipment</span></a>
+                                            <a href="https://www.proav.co.uk/used/used-broadcasting-equipment" class="id-1528" title="Used / Ex-Demo Equipment - Used / Ex-Demo Equipment"><span>Used / Ex-Demo Equipment</span></a>
                                         </strong>
 
                                                                                     <ul class="subsub">
-                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-cameras-camcorders" class="id-1532" title="Used Broadcasting Equipment - Used Cameras &amp; Camcorders"><span>Used Cameras &amp; Camcorders</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-batteries-power" class="id-1548" title="Used Broadcasting Equipment - Used Batteries &amp; Power"><span>Used Batteries &amp; Power</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-tripods-supports" class="id-1533" title="Used Broadcasting Equipment - Used Tripods &amp; Supports"><span>Used Tripods &amp; Supports</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-monitors" class="id-1531" title="Used Broadcasting Equipment - Used Monitors"><span>Used Monitors</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-cases-bags-and-covers" class="id-1534" title="Used Broadcasting Equipment - Used Cases, Bags and Covers"><span>Used Cases, Bags and Covers</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-drivers-recorders" class="id-1535" title="Used Broadcasting Equipment - Used Drives &amp; Recorders"><span>Used Drives &amp; Recorders</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-miscellaneous" class="id-1544" title="Used Broadcasting Equipment - Used Miscellaneous"><span>Used Miscellaneous</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-lenses-controllers" class="id-1530" title="Used Broadcasting Equipment - Used Lenses &amp; Controllers"><span>Used Lenses &amp; Controllers</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-mixers-dves" class="id-1529" title="Used Broadcasting Equipment - Used Mixers &amp; DVEs"><span>Used Mixers &amp; DVEs</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-audio" class="id-1536" title="Used Broadcasting Equipment - Used Audio"><span>Used Audio</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-lighting-chromakey" class="id-1549" title="Used Broadcasting Equipment - Used Lighting &amp; Chromakey"><span>Used Lighting &amp; Chromakey</span></a></li>
-                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-aerial-drones" class="id-1560" title="Used Broadcasting Equipment - Used Aerial Drones"><span>Used Aerial Drones</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-cameras-camcorders" class="id-1532" title="Used / Ex-Demo Equipment - Used / Ex-Demo Cameras &amp; Camcorders"><span>Used / Ex-Demo Cameras &amp; Camcorders</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-lenses-controllers" class="id-1530" title="Used / Ex-Demo Equipment - Used / Ex-Demo Lenses &amp; Controllers"><span>Used / Ex-Demo Lenses &amp; Controllers</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-lighting-chromakey" class="id-1549" title="Used / Ex-Demo Equipment - Used / Ex-Demo Lighting &amp; Chromakey"><span>Used / Ex-Demo Lighting &amp; Chromakey</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-tripods-supports" class="id-1533" title="Used / Ex-Demo Equipment - Used / Ex-Demo Tripods &amp; Supports"><span>Used / Ex-Demo Tripods &amp; Supports</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-audio" class="id-1536" title="Used / Ex-Demo Equipment - Used / Ex-Demo Audio"><span>Used / Ex-Demo Audio</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-monitors" class="id-1531" title="Used / Ex-Demo Equipment - Used / Ex-Demo Monitors &amp; Wireless"><span>Used / Ex-Demo Monitors &amp; Wireless</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-cases-bags-and-covers" class="id-1534" title="Used / Ex-Demo Equipment - Used / Ex-Demo Cases, Bags and Covers"><span>Used / Ex-Demo Cases, Bags and Covers</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-batteries-power" class="id-1548" title="Used / Ex-Demo Equipment - Used / Ex-Demo Batteries &amp; Power"><span>Used / Ex-Demo Batteries &amp; Power</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-drivers-recorders" class="id-1535" title="Used / Ex-Demo Equipment - Used / Ex-Demo Drives &amp; Recorders"><span>Used / Ex-Demo Drives &amp; Recorders</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-mixers-dves" class="id-1529" title="Used / Ex-Demo Equipment - Used / Ex-Demo Mixers &amp; DVEs"><span>Used / Ex-Demo Mixers &amp; DVEs</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-aerial-drones" class="id-1560" title="Used / Ex-Demo Equipment - Used / Ex-Demo Aerial Drones"><span>Used / Ex-Demo Aerial Drones</span></a></li>
+                                                                                                    <li><a href="https://www.proav.co.uk/used/used-broadcasting-equipment/used-miscellaneous" class="id-1544" title="Used / Ex-Demo Equipment - Used / Ex-Demo Miscellaneous"><span>Used / Ex-Demo Miscellaneous</span></a></li>
                                                                                             </ul>
                                         
                                     </li>
@@ -1495,7 +1601,7 @@ function googleTranslateElementInit() {
 <li><a href="https://www.proav.co.uk/contact-us">Contact Us</a></li>
 <li><a href="https://www.proav.co.uk/media-centre">Media Centre</a></li>
 <li><a href="https://www.proav.co.uk/brands">Our Brands</a></li>
-<li><a title="Proav Jobs" href="http://www.proav.co.uk/jobs" target="_self">Jobs</a></li>
+<li><a title="Proav Jobs" href="https://www.proav.co.uk/jobs" target="_self">Jobs</a></li>
 </ul>                                    <!-- mobileHide --></div>
 				</section>
 				<section>
@@ -1503,7 +1609,8 @@ function googleTranslateElementInit() {
                                     <div class="mobileHide">
                                         <ul>
 <li><a href="https://www.proav.co.uk/faqs">FAQs</a></li>
-<li><a title="Glossary" href="http://www.proav.co.uk/glossary">Glossary</a></li>
+<li><span style="color: #ffffff;"><a title="Industrial Battery Disposal" href="https://www.proav.co.uk/industrial-battery-disposal-regulations" target="_self"><span style="color: #ffffff;">Battery Disposal</span></a></span></li>
+<li><a title="Glossary" href="https://www.proav.co.uk/glossary">Glossary</a></li>
 </ul>                                    <!-- mobileHide --></div>
 				</section>
 			<!-- quarter1 --></div>
@@ -1513,9 +1620,9 @@ function googleTranslateElementInit() {
                                     <div class="mobileHide">
                                         <ul>
 <li><a href="https://www.proav.co.uk/shipping-and-delivery">Shipping &amp; Delivery</a></li>
-<li><a title="Returns" href="http://www.proav.co.uk/returns">Returns &amp; Repairs</a></li>
+<li><a title="Returns" href="https://www.proav.co.uk/returns">Returns &amp; Repairs</a></li>
 <li><a href="https://www.proav.co.uk/terms-and-conditions">Terms &amp; Conditions</a></li>
-<li><a href="/sell-your-equipment/" target="_self">Sell Your Equipment</a></li>
+<li><a href="https://www.proav.co.uk/sell-your-equipment/" target="_self">Sell Your Equipment</a></li>
 </ul>                                    <!-- mobileHide --></div>
 				</section>
 				<section>
@@ -1534,12 +1641,12 @@ function googleTranslateElementInit() {
                             <section>
                                 <h4>Contact Us</h4>
                                 <div class="mobileHide">
-									<p><strong>Head Office &amp; Showroom:</strong><br>Unit 1 &amp; 2 Eastman Way<br>Hemel Hempstead, Herts<br>HP2 7DU<br><strong>Call us:</strong>&nbsp;+44 [0] 1442 292929<strong><br></strong><a href="mailto:sales@proav.co.uk" target="_top">sales@proav.co.uk</a></p>
+									<p><strong>Head Office &amp; Showroom</strong><br>Unit 1 &amp; 2 Eastman Way<br>Hemel Hempstead, Herts<br>HP2 7DU<br><strong>Call us:</strong>&nbsp;+44 [0] 1442 292929<strong><br></strong><a href="mailto:sales@proav.co.uk" target="_top">sales@proav.co.uk</a></p>
 <p><strong>Midlands Branch:</strong><br>Ground Floor,<br>2 The Courtyard,&nbsp;<br>Harris Business Park,<br>Hanbury Road, Stoke Prior,<br>Bromsgrove,Worcs,<br>B60 4DJ<br><strong>Call us:</strong>&nbsp;+44 (0) 1527 911379</p>                                    <ul class="social clearfix">
-                                        <li><a href="https://www.facebook.com/proavtv" class="socialSprite facebook" rel="nofollow" title="Like ProAV on Facebook" target="_blank"></a></li>
+                                        <li><a href="https://www.facebook.com/proav.co.uk/" class="socialSprite facebook" rel="nofollow" title="Like ProAV on Facebook" target="_blank"></a></li>
                                         <li><a href="https://www.linkedin.com/company/proav-uk" class="socialSprite linkedin" rel="nofollow" title="Connect with ProAV on LinkedIn" target="_blank"></a></li>
                                         <li><a href="https://twitter.com/ProAV" rel="nofollow" class="socialSprite twitter" title="Follow ProAV on Twitter" target="_blank"></a></li>
-                                        <li><a href="http://uk.pinterest.com/ProavTV/" class="socialSprite pinterest" rel="nofollow" title="Follow ProAV on Pinterest" target="_blank"></a></li>
+                                        <li><a href="https://www.youtube.com/user/ProAVTube/" class="socialSprite youtube" rel="nofollow" title="Follow ProAV on Youtube" target="_blank"></a></li>
                                         <li><a href="https://plus.google.com/101115354230428164438/posts" class="socialSprite google-plus" rel="nofollow" title="Follow ProAV on Google+" target="_blank"></a></li>
                                     </ul>
                                 <!-- mobileHide --></div>
@@ -1550,9 +1657,11 @@ function googleTranslateElementInit() {
                                 <h4>Customer Feedback</h4>
                                 <div class="mobileHide">
 
-                                <div id="ekomiContainer">
-                                    <div id="eKomiWidget_default"></div>
-                                </div>
+									<!-- TrustBox widget - Mini -->
+									<div class="trustpilot-widget" data-locale="en-GB" data-template-id="53aa8807dec7e10d38f59f32" data-businessunit-id="48f214d2000064000503ccec" data-style-height="150px" data-style-width="100%" data-theme="dark">
+										<a href="https://uk.trustpilot.com/review/www.proav.co.uk" target="_blank">Trustpilot</a>
+									</div>
+									<!-- End TrustBox widget -->
 
                                 <!-- mobileHide --></div>
                             </section>
@@ -1584,12 +1693,18 @@ function googleTranslateElementInit() {
                             <div id="thawteLogo">
                                 <script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=www.proav.co.uk&amp;size=M&amp;lang=en"></script>
                             </div>
-							<img src="https://www.proav.co.uk/skin/frontend/proav/default/images/powered_by_barclaycard.png" alt="Powered By Barclaycard" class="SecuredBy" width="112" height="37">
 							<img src="https://www.proav.co.uk/skin/frontend/proav/default/images/card-icons.png" alt="Cards we accept" width="347" height="32" class="acceptedCards">
                             <img src="https://www.proav.co.uk/skin/frontend/proav/default/images/photolease_logo.png" alt="We accept Photolease Finance" width="128" height="32" class="photolease-finance">
-							<div id="FGXseal"></div>
-							<script type="text/javascript" src="/FGXseal.php"></script>
-                            <div class="clear"></div>
+
+							<div class="clear"></div>
+
+							<div class="barclaycard">
+								<a href="http://www.barclays.co.uk/" class="barclaycard__link"><img src="https://www.proav.co.uk/skin/frontend/proav/default/images/powered_by_barclaycard.png" alt="Powered By Barclaycard" class="barclaycard__img" width="112" height="37"></a>
+							</div>
+
+							<div class="cyberessentials">
+                                    <img src="https://www.proav.co.uk/skin/frontend/proav/default/images/acceptance-amazonpay-dark-medium.svg">
+							</div>
                         </section>
                     </div>
                     <div class="quarter1">
@@ -1603,7 +1718,7 @@ function googleTranslateElementInit() {
 	<div class="strip-white">
             <div class="wrapper">
                 <img src="https://www.proav.co.uk/skin/frontend/proav/default/images/logo-footer.png" class="logo" alt="ProAV" width="225" height="29">
-                <p>© ProAV 2017 <span class="credit">webdesign by <a href="http://www.advantec-internet.co.uk" rel="nofollow" target="_blank">advantec</a></span></p>
+                <p>© ProAV 2019 <span class="credit">webdesign by <a href="http://www.advantec-internet.co.uk" rel="nofollow" target="_blank">advantec</a></span></p>
                 <a href="https://www.proav.co.uk/dealer-area/" class="dealer">Dealer Login<span class="iconSprite-dealer"></span></a>                <div class="clear"></div>
             <!-- wrapper --></div>
 	<!-- strip-white --></div>
@@ -1631,28 +1746,59 @@ clicky_site_ids.push(101023304);
     <script type="text/javascript" src="//t.trackedlink.net/_dmpt.js"></script>
     <script type="text/javascript">_dmSend('3GJACDJEHBBJEC30');</script>
 
-    <!-- eKomiLoader START, only needed once per page -->
-    <script type="text/javascript">
-
-            (function(){
-                    eKomiIntegrationConfig = new Array(
-                            {certId:'JHD7JJLCKDY9XB5'}
-                    );
-                    if(typeof eKomiIntegrationConfig != "undefined"){for(var eKomiIntegrationLoop=0;eKomiIntegrationLoop<eKomiIntegrationConfig.length;eKomiIntegrationLoop++){
-                            var eKomiIntegrationContainer = document.createElement('script');
-                            eKomiIntegrationContainer.type = 'text/javascript'; eKomiIntegrationContainer.defer = true;
-                            eKomiIntegrationContainer.src = (document.location.protocol=='https:'?'https:':'http:') +"//connect.ekomi.de/integration_1343742754/" + eKomiIntegrationConfig[eKomiIntegrationLoop].certId + ".js";
-                            document.getElementsByTagName("head")[0].appendChild(eKomiIntegrationContainer);
-                    }}else{if('console' in window){ console.error('connectEkomiIntegration - Cannot read eKomiIntegrationConfig'); }}
-            })();
-    </script>
-<!-- eKomiLoader END, only needed once per page -->
-<script type="text/javascript" src="//nxtcfm.s3.amazonaws.com/ad029c7e3db8d1ce2589f8eb6d36c967-ac.js"></script>
 <script type="text/javascript" src="//hosted1.whoson.com/include.js?domain=www.proav.co.uk"></script>
 <script type="text/javascript">
 if(typeof sWOTrackPage=='function')sWOTrackPage();
 </script>
-    <script type="text/javascript">
+    <span class="clerk" data-template="@live-search" data-live-search-categories="1" data-live-search-categories-title="Categories" data-live-search-products-title="Products" data-bind-live-search="#search">
+</span>
+<style type="text/css">
+	#search_autocomplete { display: none !important; }
+</style>
+<script type="text/javascript">
+    window.clerkAsyncInit = function() {
+        Clerk.config({
+            key: 'c2WCfqVJSLuZhFdlrUAIV2DTG6cWIII7',
+            collect_email: true,
+            templateFormatters: {
+                form_key: function () {
+                    return 'sptZA1mr8Z6WD2QS';
+                },
+                price_in_currency: function(price) {
+                    price =  Math.round(price * 100) / 100;
+                    var price_converted = Math.round((price * 1) * 100) / 100;
+                    var retVal = "\u00a3" + ' ' + price_converted.toFixed(2).toString();
+
+                    return retVal;
+                }
+            }
+        });
+    };
+    (function(){
+        var e = document.createElement('script'); e.type='text/javascript'; e.async = true;
+        e.src = document.location.protocol + '//api.clerk.io/static/clerk.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s);
+    })();
+</script>
+<script type="text/javascript" src="https://www.proav.co.uk/js/creativestyle/amazonpayments.min.js"></script>
+<script type="text/javascript">
+    AmazonPayments.setup({"merchantId":"A2UADNI6M32R4C","clientId":"amzn1.application-oa2-client.622001e0d43748c1bf17ee4fb15aada8","live":true,"popup":true,"virtual":false,"language":"en-GB","pay":{"selector":".payButtonWidget","callbackUrl":"https:\/\/www.proav.co.uk\/amazonpayments\/advanced_login\/index\/target\/checkout\/","design":{"type":"PwA","size":"small","color":"Gold"}},"login":{"selector":".loginButtonWidget","callbackUrl":"https:\/\/www.proav.co.uk\/amazonpayments\/advanced_login\/","design":{"type":"LwA","size":"small","color":"Gold"}},"checkoutUrl":"https:\/\/www.proav.co.uk\/amazonpayments\/checkout\/","addToCartUrl":"https:\/\/www.proav.co.uk\/amazonpayments\/cart\/add\/","currency":"GBP"});
+
+    window.onAmazonPaymentsReady = function() {
+        AmazonPayments
+            .renderButtons()
+        ;
+    };
+
+    window.onAmazonLoginReady = function() {
+        AmazonPayments
+            .initLogin()
+        ;
+    };
+</script>
+<script async="" type="text/javascript" src="https://static-eu.payments-amazon.com/OffAmazonPayments/uk/lpa/js/Widgets.js"></script>
+
+<script type="text/javascript">
 //<![CDATA[
 document.observe("dom:loaded", function (){
 
