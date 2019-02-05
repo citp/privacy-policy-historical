@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepodcasthost.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706180826id_/https%3A//www.thepodcasthost.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepodcasthost.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205165617id_/https%3A//www.thepodcasthost.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -70,7 +70,7 @@ Our main source of affiliate income is through Amazon.com.  The Podcast Host lt
 
 If we link to an Amazon product (with a special code for affiliates embedded in the link), and a reader places an item in their “shopping cart” through that link within 24 hours of clicking the link, we get a small percentage of the sale.  Amazon links are not “pay per click.”  If you click on the product link and stay around Amazon and purchase something else, however, we will get commission on that sale.
 
-**Anytime you click a link that directs you to an Amazon website, then you can assume it is an affiliate link. Please rest assured, though, that we only link to products that we trust, either through personal experience or through strong recommendations from trusted parties.  **
+ **Anytime you click a link that directs you to an Amazon website, then you can assume it is an affiliate link. Please rest assured, though, that we only link to products that we trust, either through personal experience or through strong recommendations from trusted parties.  **
 
 ## Children’s Information
 
@@ -79,8 +79,3 @@ Protecting the privacy of children is especially important to us. For that reaso
 ## Contact Us
 
 If you have any questions or concerns regarding our privacy policy or if you believe that any information we are holding on you is incorrect or incomplete, please use the [contact form](https://www.thepodcasthost.com/contact-us/) for the Site. We will promptly correct any information found to be incorrect.
-
-### Get Better Interviews with our Skype Checklist for Guests
-
-Download our pro-designed checklist for interview guests. It makes you look great & side-steps interview disasters.  
-
