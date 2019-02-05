@@ -1,83 +1,89 @@
-> *The following text is extracted and transformed from the audioadvice.com privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301005312id_/https%3A//www.audioadvice.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audioadvice.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205040643id_/http%3A//www.audioadvice.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Audio Advice - Raleigh, Charlotte, NC
+# Privacy Policy | Audio Advice | Audio Advice
 
-We are committed to protecting the privacy of our users’ personal information. To better protect your privacy, we have instituted the security and privacy practices outlined in this policy. We provide this notice explaining our information practices and the choices you can make about the way your information is used.
+Updated: 5/25/18: We've updated our Privacy Policy in accordance with the EU General Data Protection Regulation (GDPR).
 
-**Information that Audio Advice  collects and how it is used**
+**1\. ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS**  
+Audio Advice is committed to protecting and respecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing www.audioadvice.com, you acknowledge and fully understand Audio Advice’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-Audio Advice collects certain information to enable you to take full advantage of our offerings when you register at our site, order products or services, participate in our contests, surveys, promotions, or activities, or otherwise communicate with us. If you choose, you can visit Audio Advice’s website without providing us with any information about yourself. Audio Advice collects both personally identifiable and non-personally identifiable information from users of its website.
+**2\. INFORMATION WE COLLECT**  
+Audio Advice collects certain information from and about its users three ways: directly from our Web Server logs, from the user, and with Cookies.
 
-**Personally Identifiable Information**
+a. Web Server Logs: When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: Your Internet protocol address (IP address), The kind of browser or computer you use, Number of links you click on the site, State or country from which you accessed the site, Date and time of your visit, Name of your Internet service provider, Web page you linked to our site from, Pages you viewed on the site.
 
-When you register with Audio Advice, we require you to give us contact information (such as your name, e-mail address, and physical address) and demographic information (such as your age and gender).
+b. From Our Users: Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number and other relevant information. Therefore, when you visit our Site to place subsequent orders we can save you time by providing your previous account information for you. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
 
-When you order products or services from our site, we also may need to collect some additional purchase information from you, including credit card information, description of your repair or installation, and information about your home (e.g., number of rooms, size and age of house, and lawn size).
+c. Use of Cookies: Audio Advice may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. Audio Advice reserves the right to share aggregated site statistics with partner companies but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into www.audioadvice.com a site that relies on third-party cookies). You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
-We may require additional information for specific promotions or contests run on our site.
+We also use cookie data to display ads to our North American visitors.  The tracking cookies are designed to advertise to you on Google (and its display partner network), Bing, Facebook, Instagram, and other participating websites. If you have an account with any of the vendors below, their privacy policy may allow them to connect the fact that you have been to our websites and the pages you have viewed with your profile. Your anonymous browsing behavior may be shared by the following partners as outlined in their privacy policies. We do not and will not share any personal information with these vendors.
 
-We use the customer contact information we collect to connect you with a service provider, and to send you, if you so choose, information about our company, newsletters, promotional materials, and information from the service provider network.
+**3\. USE OF WEB BEACONS OR GIF FILES**  
+Audio Advice Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow Audio Advice to count users who have visited those pages and to deliver co-branded services. Audio Advice may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Audio Advice prohibits Web beacons from being used to collect or access your personal information.
 
-We may also use the information we collect, in combination with outside records, to notify you about important changes to the website, new Audio Advice services and products, and special offers and information we think you’ll find valuable. We may send you information in conjunction with third-party partners that we think is relevant to your interests.
+**4\. USE OF  THE FOLLOWING ANALYTICS AND ADVERTISING PLATFORMS:**  
+When visiting our website, statistical analyses may be made of your surfing behavior. This happens primarily using cookies and analytic platforms. The analysis of your surfing behavior is anonymous, and we will not be able to identify you from this data. You can object to this analysis or prevent it by not using certain tools and disabling the use of cookies in your browsers settings.  Detailed instructions how to disable these cookies can be found below.
 
-We use information gathered at the time of purchase to process your order, to enable the provider to fulfill your order, and to notify you of your order status. A customer care representative or service provider may contact you in order to fulfill a service you purchased or to provide information you requested.
+a. Google Analytics is used to analyze the performance of our websites and learn the effectiveness of our marketing efforts. Google Analytics allows us to analyze data in aggregate.  Our site does not not collect or store any personal information in Google Analytics. You can read [Google’s privacy policy here](https://policies.google.com/privacy?hl=en).  Google has developed the Google Analytics opt-out browser add-on; if you want to opt out of Google Analytics, you can download and install the add-on for your web browser [here](https://tools.google.com/dlpage/gaoptout).
 
-**Non-personally Identifiable Information**
+b. Hotjar is used to improve the user experience on our website. Hotjar collects anonymous data to inform us about the effectiveness of the features found on our website.  Hotjar does not collect any personal information. You can read [Hotjar’s privacy policy here](https://www.hotjar.com/privacy). You can opt out of Hotjar tracking by visiting [this page](https://www.hotjar.com/legal/compliance/opt-out) and clicking the “Disable Hotjar” button.
 
-We may collect certain non-personally identifiable information about you when you visit our site, such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, the referring site from which you came (e.g., a partner site), and the domain name of your internet service provider (e.g., America Online, Earthlink).
+c. Google Adwords, Doubleclick and Google’s display ads: You can read [Google’s privacy policy here](https://www.google.com/policies/privacy/).
 
-We use the non-personally identifiable information that we collect in the aggregate to improve the design and content of our site. We also use this information to analyze site usage.
+d. Bing Ads: [ You can read Microsoft’s privacy policy here](https://privacy.microsoft.com/en-us/privacystatement).
 
-**Disclosure of information to outside parties**
+e. Facebook and Instagram Ads: [ You can read Facebook’s privacy policy here](https://www.facebook.com/policy.php).
 
-To process your requests for products or services, we will need to share some of the personally identifiable information you provided (e.g., contact information and information about particular service needs) with service providers in the provider network.
+f. MailChimp email marketing: You can read [MailChimp’s privacy policy here](https://mailchimp.com/legal/privacy/).
 
-If you choose to receive promotions, newsletters, and/or other types of correspondence from us, the correspondence that you receive will originate from Provider or the provider network, and your personally identifiable information will continue to be solely maintained by Provider.
+g. Bluecore email marketing: You can read [Bluecore’s privacy policy here](https://www.bluecore.com/privacy-policy/).
 
-If you registered with Audio Advice through a third-party website or if you registered with a third-party website through Audio Advice, we may need to report certain information to that website, as is necessary.
+h. Signifyd fraud protection: You can read [Signifyd’s privacy policy here](https://www.signifyd.com/privacy/).
 
-If you come to Audio Advice via a co-branded partner and transact business with us, the information you provide may be collected and used by Audio Advice, as well as by the co-branded partner from which you came. We are not responsible for the use that the co-branded partner makes with this information.
+i. LiveChat: You can read read [LiveChat’s privacy policy here](https://www.livechatinc.com/privacy-policy/).
 
-To help you identify when you are on the Audio Advice website, we place our logo in the upper left corner to indicate that you are within Audio Advice’s website.
+**How To Delete Or Block Our Website's Cookies  
+**Your browser settings for changing your cookies settings are usually found in the 'options' or 'preferences' menu of your internet browser. In order to understand these settings, the following links may be helpful. Otherwise, you should use the 'Help' option in your internet browser for more details.
 
-Audio Advice may be obligated to disclose personally identifiable information to law enforcement or agencies, even though such agencies may not comply with the terms of our privacy policy. Audio Advice will disclose information to such agencies in response to legal process or when we believe in good faith that the law requires it, for example, in response to a court order, subpoena, or a law enforcement agency’s request.
+  *  [Microsoft Internet Explorer / Edge Cookie Settings](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  *  [Firefox Cookie Settings](https://support.google.com/chrome/answer/95647)[ ](https://support.google.com/chrome/answer/95647)
+  *  [Chrome Cookie Settings](https://support.google.com/chrome/answer/95647)
+  *  [Safari Cookie Settings](https://support.apple.com/kb/ph21411)
 
-Finally, Audio Advice may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, partners, service providers, or to the press. Aggregate statistics contain only non-personally identifiable information.
 
-**Information that partners collect**
 
-Our site contains links to other websites whose information practices may be different than ours. You should consult the other sites’ privacy policies, as we have no control over information that you may submit or that the third parties collect on those sites.
+**5\. HOW DOES AUDIO ADVICE USE THE DATA IT COLLECTS?**  
+We use the Data collected from you primarily to process and fulfill your orders, to notify you of the status of your orders, to send e-mail newsletters, or to send you targeted marketing information, special product offers, catalogs, or other information that we believe might interest you. In every such e-mail, we will have instructions on how to unsubscribe and avoid receiving any future e-mails from us. Please see our Opt-Out section below. We also may combine information you have provided to us in communications offline - such as information related to your orders - with the Data you have given us online, to provide a more customized experience for you when you visit our Site.
 
-We may offer promotions or content that is sponsored by, or co-branded with, identified third parties. By virtue of these relationships, these third parties may obtain personally identifiable information that you submit. Audio Advice has no control over the third party’s use of this information.
+**6\. WHAT RIGHTS DO YOU HAVE REGARDING YOUR DATA?**  
+You have the right to request information about your stored data and the purpose of its collection. You also have the right to request that it be corrected, blocked, or deleted. If you have any questions about the issue of privacy and data protection, you can contact us at any time using the information in the opt-out section below. You may also file a complaint with the competent regulatory authorities.
 
-**Our use of cookies**
+**7\. PARTICIPATING MERCHANT POLICIES**  
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Audio Advice’s services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-“Cookies” are small pieces of information that are stored by your browser on your computer hard drive. You must have cookies enabled in order for you to be able to perform many of the general functions on this website. With cookies enabled, this site will have the capacity to deliver to you a more customized and complete shopping experience, to track visits from our affiliates and partners and to enable the use of our shopping cart.
+**8\. WITH WHOM DOES AUDIO ADVICE SHARE INFORMATION?**  
+As part of our commitment to your privacy, Audio Advice adheres to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We periodically make information, including aggregated information, available to selected third parties including but not limited to, those who share information for direct marketing purposes. You may instruct us not to share information with third parties by emailing us at support@audioadvice.com. We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including: To fulfill your requests for services, To protect ourselves from liability, To respond to legal process or comply with law, or In connection with a merger, acquisition, or liquidation of the company.
 
-Audio Advice does not use cookies to store or collect any personal information such as names, addresses, or payment information. To learn how to enable cookies on your computer, please visit the Web site that corresponds to the browser you use.
+**9\. HOW IS YOUR INFORMATION PROTECTED?**  
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All orders are transmitted over secure Internet connections using SSL (Secure Sockets Layer) encryption technology. All of your personal information including your credit card information and sign-in password are stored in encrypted format at all times. This Website, and more importantly all user information, is further protected by a multi-layer firewall based security system.
 
-**Third-Party Web Beacons / Advertisers**
+**10\. OPT-OUT POLICY**  
+To be removed from any of our correspondence lists, please send us an email at [support@audioadvice.com](mailto:support@audioadvice.com) or call 1.888.899.8776 to make your request. As previously noted, you may always choose not to provide us with any of the information we request; however, this may limit our ability to provide you with a specific product or service.
 
-We use Google and other third-party advertising companies to serve our ads on internet sites.  These advertisers may use cookies to track your visits to this site. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  These third party vendors use cookies to display ads based on a user’s prior visits to our site.
+**11\. COMMUNICATIONS FROM AUDIO ADVICE TO YOU**  
+We would like to set up a two-way dialogue with our customers through the use of e-mail. We may contact you by e-mail to respond to customer service questions you have submitted, or to address a problem affecting your use of the Site, or to send you a confirmation message upon completion of the account registration process. We also hope to provide you with useful and interesting information on new technologies and also provide you a channel for feedback. You are in control of this dialogue. If at any time you wish to remove your e-mail address from Audio Advice's e-mail list, you can do so by reviewing the opt-out section below.
 
-Users may opt out of Google’s use of cookies by visiting http://www.google.com/privacy/ads
+**12\. ACCESSING WEB ACCOUNT INFORMATION**  
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by signing into your account at www.AudioAdvice.com or by contacting us via email at [support@audopadvice.com](mailto:support@audioadvice.com).
 
-Please view the respective third party site’s privacy policy to learn about their privacy practices.
+**13\. CHANGES TO THIS STATEMENT**  
+Audio Advice has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-Google, as a third party vendor, uses cookies to serve ads on this site and to analyze traffic. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+**14\. CONTACTING US**  
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at [support@audioadvice.com](mailto:support@audioadvice.com) or send your comments to:
 
-**Commitment to the security of your information**
-
-When you place orders or access your account information, we use a secure server. The secure server software, SSL (Secure Sockets Layer), encrypts all information you input before it is sent to us. Furthermore, digital certificates protect all of the customer transactional data we collect against unauthorized access.
-
-**How to update/change your preferences**
-
-Audio Advice may send communications, promotional information, and/or newsletters to our registrants. You can choose to not receive communications from us. We provide the following options for reviewing and updating the personally identifiable information that we collect and maintain, including options for communications, news, and special offers. To review and update your choices, please contact us.
-
-**Changes to our privacy policy**
-
-If we materially change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. We will also post a notice on our homepage that our privacy policy has been changed.
-
-**Tell us what you think**
-
-Still have questions about our privacy practices? Let us know. We welcome your questions and comments.
+Audio Advice  
+Attention: Privacy Statement Personnel  
+8621 Glenwood Avenue  
+Raleigh, NC 27617  
+We will use commercially reasonable efforts to promptly respond and resolve any problems or questions.
