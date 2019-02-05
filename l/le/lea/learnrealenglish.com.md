@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnrealenglish.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115835id_/http%3A//learnrealenglish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnrealenglish.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206004019id_/https%3A//learnrealenglish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Learn Real English
 
@@ -53,7 +53,7 @@ We do not collect information about our visitors from other sources, such as pub
 
 If we wish to use your personal data for a new purpose, we offer you the means to consent to this new purpose: by indicating in a box at the point on the site where personal data is collected.
 
-We may use cookies to serve our Google remarketing campaign so that third-party vendors, including Google, show our ads on sites across the Internet. You can opt out of Google’s use of cookies by visiting the [Ads Preferences Manager](https://www.google.com/ads/preferences/). Alternatively, you can choose to opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+We may use cookies to serve our Google remarketing campaign so that third-party vendors, including Google, show our ads on sites across the Internet. You can opt out of Google’s use of cookies by visiting the [Ads Preferences Manager](https://www.google.com/ads/preferences/). Alternatively, you can choose to opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Use of Collected Data**
 
