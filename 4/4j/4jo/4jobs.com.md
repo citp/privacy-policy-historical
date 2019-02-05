@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919182223id_/https%3A//www.nexxt.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4jobs.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205145236id_/https%3A//www.nexxt.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Nexxt
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 Please take a minute to read the following policy so you understand how we use the personal information we ask you to submit. As we update and expand our services, this policy may change, so please refer back to it periodically. If you use our Site (defined below) or any of our many offerings and services (the “Services”), you confirm that you are not an individual in the European Union (EU) and agree to this policy. 
 
-If you have questions or concerns regarding this policy, please contact us or write to us at Nexxt Inc., 1060 First Avenue, Suite 100, King of Prussia, PA 19406.
+If you have questions or concerns regarding this policy, please contact us or write to us at Nexxt Inc., 676 East Swedesford Rd, Suite 300, Wayne, PA 19087.
 
 Click on one of the following links to jump directly to that section:
 
@@ -102,7 +102,7 @@ __Back to top
 
 California Residents
 
-California law permits California residents to request and receive certain information about disclosure of certain categories of personal information to third parties for their direct marketing purposes. If you are a California resident and a user of the Site and wish to request this information, please contact us or write to us at Nexxt, Inc., 1060 First Avenue, Suite 100, King of Prussia, PA 19406, Attention: Customer Service. You may request this information once a year, and there is no charge for the request. 
+California law permits California residents to request and receive certain information about disclosure of certain categories of personal information to third parties for their direct marketing purposes. If you are a California resident and a user of the Site and wish to request this information, please contact us or write to us at Nexxt, Inc., 676 East Swedesford Rd, Suite 300, Wayne, PA 19087, Attention: Customer Service. You may request this information once a year, and there is no charge for the request. 
 
 __Back to top
 
