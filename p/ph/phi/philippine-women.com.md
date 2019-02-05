@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philippine-women.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206134236id_/http%3A//philippine-women.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philippine-women.com privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205132018id_/http%3A//www.philippine-women.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
