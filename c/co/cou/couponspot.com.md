@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponspot.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817151839id_/http%3A//couponspot.com/p/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponspot.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206053648id_/http%3A//www.couponspot.com/p/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Discount Coupon Codes & Shopping Deals | Online Promotional Codes | Free Store Coupons – CouponSpot.com :: Privacy Policy
 
