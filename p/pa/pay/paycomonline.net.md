@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paycomonline.net privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511145101id_/http%3A//www.paycomonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paycomonline.net privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206035307id_/https%3A//www.paycomonline.com/privacy.php) for the most accurate reproduction.*
 
 # Paycom Privacy Policies
 
@@ -82,7 +82,7 @@ DATA SECURITY\- We have implemented at least industry standard measures designed
 
 In order to protect you and your data and that of our other users, we may suspend your access to the Website without notice, pending an investigation, if any breach of security is suspected. 
 
-For more information on our IT security practices, [click here](https://info.paycom.com/acton/attachment/27358/u-0049/0/-/-/-/-/). 
+For more information on our IT security practices, [click here](https://paycom.com/PDF/SecurityStandards.pdf). 
 
 CHANGES TO OUR PRIVACY POLICY\- For any changes we make to this policy, including making material changes to how we treat our users’ personal information, we will post an updated policy on this page, along with a notice that the privacy policy has been updated on the Website home page. The date the privacy policy was last revised is identified at the top of the page. Please be aware, you are responsible for inspecting our website to make yourself up-to-date with our privacy policy. 
 
