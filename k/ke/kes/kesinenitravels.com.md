@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kesinenitravels.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207070950id_/http%3A//www.kesinenitravels.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kesinenitravels.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206102444id_/http%3A//www.kesinenitravels.com/Privacy.php) for the most accurate reproduction.*
 
 # Welcome to Kesineni Travels-Online Bus Tickets to Bangalore...
 
