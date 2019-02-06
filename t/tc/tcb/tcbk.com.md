@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tcbk.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201114447id_/https%3A//www.tcbk.com/media/documents/ADV-22_GLBA_privacy_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcbk.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206110520id_/https%3A//www.tcbk.com/media/documents/ADV-22_GLBA_privacy_notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                             Rev. 6/2016
+                                                                                                             Rev. 6/2018
 FACTS            WHAT DOES TRI COUNTIES BANK DO WITH YOUR PERSONAL INFORMATION?
 Why?              Financial companies choose how they share your personal information. Federal law gives consumers
                   the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share,
@@ -28,11 +28,11 @@ For our affiliates’ everyday business purposes—                            Y
 information about your transactions and experiences.
 For our affiliates’ everyday business purposes—                            No                           We don’t share
 information about your creditworthiness.
-For non-affiliates to market to you                                        No                           We don’t share
-Questions?                                    Call 1-800-922-8742 or go to www.tricountiesbank.com
+For non‐affiliates to market to you                                        No                           We don’t share
+Questions?                                    Call 1‐800‐922‐8742 or go to www.tricountiesbank.com
 
 
-                                                                                               Rev. 6/2016
+                                                                                               Rev. 6/2018
 Page 2
 What we do
 How does Tri Counties Bank protect my personal To protect your personal information from unauthorized access
@@ -49,17 +49,17 @@ Why can’t I limit all sharing?                 Federal law gives you the right
                                                      sharing for affiliates’ everyday business purposes—
                                                         information about your creditworthiness
                                                      affiliates from using your information to market to you
-                                                     sharing for non-affiliates to market to you
+                                                     sharing for non‐affiliates to market to you
                                                State laws and individual companies may give you additional
                                                rights to limit sharing.
 Definitions
 Affiliates                                     Companies related by common ownership or control. They can
-                                               be financial and non-financial companies.
+                                               be financial and non‐financial companies.
                                                      Tri Counties Bank does not share with our affiliates
-Non-affiliates                                 Companies not related by common ownership or control. They
-                                               can be financial and non-financial companies.
-                                                     Tri Counties Bank does not share with non-affiliates so
+Non‐affiliates                                 Companies not related by common ownership or control. They
+                                               can be financial and non‐financial companies.
+                                                     Tri Counties Bank does not share with non‐affiliates so
                                                         they can market to you
-Joint marketing                                A formal agreement between non-affiliated financial companies
+Joint marketing                                A formal agreement between non‐affiliated financial companies
                                                that together market financial products or services to you.
                                                      Tri Counties Bank doesn’t jointly market.
