@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponchaska.com privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508143938id_/https%3A//www.couponchaska.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponchaska.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206163249id_/https%3A//www.couponchaska.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : CouponChaska
 
