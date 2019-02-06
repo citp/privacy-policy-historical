@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paper-io.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929012336id_/http%3A//paper-io.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paper-io.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206144710id_/http%3A//paper-io.com/privacy) for the most accurate reproduction.*
 
 # Paper.io - privacy policy
 
@@ -9,6 +9,8 @@ We may use cookies, web beacons, or other anonymous tracking information to impr
 You may opt out of the use of Google's ad-related cookies by visiting their ad settings. 
 
 For more information regarding opting out of a third party vendor's use of cookies, you can visit aboutads.info. 
+
+In May 2018 EU user consent policy (GDPR) came into force. It requires us as a website owner to obtain consent from your EU users to use cookies and disclose all parties that will use the cookies for personalization of ads. If you're EU user then you can change Consent Settings by clicking this link. 
 
 We may occasionally revise our privacy policy by posting the changes here. 
 
