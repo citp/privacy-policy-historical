@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proudemocrat.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206103149id_/http%3A//proudemocrat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proudemocrat.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207002813id_/http%3A//proudemocrat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -132,7 +132,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9af3f4fcf5daf5f7fde9eeeffef3f5e9b4f9f5f7)
+  * If you have any questions about this Privacy Policy, please contact us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a53545c557a55575d494e4f5e53554914595557)
 
 
 
