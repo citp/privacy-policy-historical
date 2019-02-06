@@ -1,65 +1,135 @@
-> *The following text is extracted and transformed from the horizonmb.com privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110220144id_/http%3A//www.myrtlebeachreal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonmb.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206235333id_/https%3A//www.wemod.com/privacy) for the most accurate reproduction.*
 
-# Keller Williams Myrtle Beach - Privacy Policy
+# WeMod - Privacy Policy
 
-## Privacy Policy 
+We at Daring Development, Inc., d/b/a WeMod are committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used and is provided by Daring Development, Inc., d/b/a WeMod, a New York corporation with a principal place of business located at 228 Park Ave S #74385, New York, NY 10003-1502. If you have requests concerning your personal information or any questions please contact us support@wemod.com.
 
-**(Effective Date: September 18, 2008)**
+**If you have objections to the Privacy Policy, you should immediately discontinue use of the Web site and the Services offered by us.**
 
-The Web site you are accessing (the "Site") is hosted by Market Leader Inc ("Market Leader") on behalf of one of its real estate industry customers (the "Company"). Market Leader and Company are independent contractors and are not partners or otherwise engaged in any joint venture in delivering the Site. Notwithstanding that fact, this Privacy Policy ("Policy") applies to both Market Leader and Company and as such, any reference to "we", "us" or "our" herein will apply equally to both Market Leader and Company. This Policy explains how personal information is collected, used, and disclosed with respect to your use of the Site, so you can make an informed decision about using the Site.
+### Definitions
 
-We reserve the right to change this Policy at any time. If we make any material changes to the Policy, we will post a new statement on the Site and update the effective date set forth above. Therefore, we encourage you to check the effective date of the Policy whenever you visit the Site to see if it has been updated since your last visit.
+For purposes of this Privacy Policy references to "Services" shall mean any and all services offered by us, including but not limited to hobbyist software for gamers, news and entertainment related to modding games via our Web site.
 
-### INFORMATION WE COLLECT
+References to "us," "we," "our," and/or "WeMod" mean Daring Development Inc., d/b/a WeMod.
 
-  * **Personal Information.** As used herein, the term "personal information" means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, or e-mail address,), and information about that individual's location or activities or demographic information when such information is directly linked to personally identifiable information. Personal information does not include "aggregate" information, which is data we collect about the use of the Site or about a group or category of products, services or users, from which individual identities or other personal information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information.
-  * **Collection.** Personal information may be collected in a number of ways when you visit the Site. We may collect the personal information that you voluntarily provide to us. For example, when you fill out a form, send us an email, make a request, complete a survey, register for certain services on the Site, or participate in certain activities on the Site, we may ask you to provide personal information such as your e-mail address, name, home or work address or telephone number. We may also collect demographic information, such as your ZIP code, age, gender, and preferences. Information we collect may be combined with information we obtained through other services we offer. We may collect information about your visit to the Site, including the pages you view, the links you click and other actions taken in connection with the Site and services. We may also collect certain standard information that your browser sends to every web site you visit, such as your IP address, browser type and language, access times and referring Web site addresses. If we provide you with various services related to home selling and home buying (e.g., estimates of current market value of homes, moving costs, mortgage or finance costs, current home listings, neighborhood information, etc.), we may collect additional information related to such services.
-  * **Cookies and Web Beacons.** We may automatically collect certain information through the use of "cookies" or web beacons. Cookies are small pieces of information or files that are stored on a user's computer by the Web server through a user's browser to enable the site to recognize users who have previously visited them and retain certain information such as customer preferences and history. We may use cookies to identify users, customize their experience on our site or to serve relevant ads. If we combine cookies with or link them to any of the personal information, we would treat this information as personal information. We do not use Web beacons, or similar technology on the Site. However, we may permit third parties to place cookies or Web beacons on the Site to monitor the effectiveness of advertising and for other lawful purposes. A Web beacon, also known as a "Web bug" or a "clear gif" is a small, graphic image on a Web page, Web-based document or in an e-mail message that is designed to allow the site owner or a third party to monitor who is visiting a site and user activity on the site. We do not use (or permit third parties to use) Web beacons to collect personally identifying information about you. If you wish to block, erase, or be warned of cookies, please refer to your browser instructions to learn about these functions. However, if a browser is set to not accept cookies or if a user rejects a cookie, some portions of the Site may not function properly. For example, you may not be able to sign in and may not be able to access certain Site features or services.
-  * **Third Party Cookies and Web Beacons; Use of Third Party Ad Networks.** We may also use third parties to serve ads on the Site.These third parties may place cookies, Web beacons or other devices on your computer to collect nonpersonal information, and information provided by these devices may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of the Site and the other sites tracked by these third parties. For example, we may allow other companies, called third-party ad servers or ad networks, to display advertisements on the Site. Some of these ad networks may place a persistent cookie on your computer in order to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to the cookies that may be placed by the third-party ad servers or ad networks. This Policy does not apply to, and we are not responsible for, cookies in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology.
+References to the "Web site" mean wemod.com.
 
+References to "you," and/or "User," mean anybody who visits the Web site.
 
+### Agreement to be Bound
 
-### USE OF PERSONAL INFORMATION
+The following Privacy Policy governs the collection and use of private information via the Web site and/or any Service(s). By accessing the Web site and/or otherwise using the Services you represent that you have read and understand the Privacy Policy and that you agree to be bound by thereby.
 
-We use personal information internally to serve users of the Site, to enhance and extend our relationship with Site users and to facilitate the use of, and administration and operation of, the Site. For example, we may use personal information you provide to deliver services to you, to process your requests or transactions, to provide you with information you request, to personalize content, features and advertising on the Site, to anticipate and resolve problems with the Site, to respond to customer support inquiries, to inform you of other events, promotions, products or services offered by third parties that we think will be of interest to you, to send you relevant survey invitations related to the Site and for our own internal operations, and for any purpose for which such information was collected. We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not transferred to the third party unless you have consented to such transfer.
+This Privacy Policy is a part of our Terms and Conditions. Both of those documents are legally binding on you.
 
-### DISCLOSURE OF PERSONAL INFORMATION
+### Modifications and Changes to Privacy Policy
 
-Except as set forth in this Policy, we do not disclose, sell, rent, loan, trade or lease any personal information collected on the Site to any third party. We may provide aggregate information to third parties without restriction. We will disclose personal information in the following circumstances: 
+We may modify, add to, suspend or delete the Privacy Policy, in whole or in part, at our sole discretion at any time, with such modifications, additions or deletions being immediately effective upon their posting to the Web site. Your use and/or access of the Web site and/or Services after modification, addition or deletion of the Privacy Policy shall be deemed to constitute acceptance by you of the modification, addition or deletion.
 
-  * **Consent.** We may share personal information with third parties when you give us your express or implied consent to do so, such as when you fill out a form requesting certain information from a third party.
-  * **Internal Analysis and Operations; Service Providers.** We will use and disclose information about you for our own internal statistical, design or operational purposes, such as to estimate our audience size, measure aggregate traffic patterns, and understand demographic, user interest, purchasing and other trends among our users. We may outsource these tasks and disclose personal information about you to third parties, provided the use and disclosure of your personal information by these third parties is restricted to performance of such tasks. We may also share personal information with other third-party vendors, consultants, and service providers ("Service Providers") who are engaged by or working with us in connection with the operation of the Site or our business In some cases, the Service Provider may be directly collecting the information from you on our behalf. We require our third party vendors to keep such information confidential and to only use the information for the purpose it was provided. However, we are not responsible for the actions of Service Providers or other third parties, nor are we responsible for any additional information you provide directly to these Service Providers or other third parties.
-  * **Protection of Company and Others:** We may disclose personal information when we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this Policy or our other policies or agreements; to initiate, render, bill, and collect for amounts owed to us; to respond to claims, to protect our or our users' rights, property or safety; or to protect us, our users or the public from fraudulent, abusive, harmful or unlawful activity or use of the Site; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
-  * **Business Transfers.** In addition, information about users of the Site, including personally identifiable information provided by users, may be disclosed or transferred as part of, or during negotiations regarding, any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of the business assets of the company.
-  * **Co-Branded Services.** Some services available through the Site may be co-branded and offered in conjunction with other companies. If you register for or use such services, then those other companies may also receive any information collected in conjunction with the co-branded services.
+### The Information We Collect
 
+We collect both personally-identifiable information and non-personally-identifiable information from you. Personally-identifiable information may include your name, address, email address, and payment information.
 
+Examples of non-personally-identifiable information we may collect from you include your IP address, the type of browser software you use when visiting our Web site and/or accessing the Services, the date and time you visit our Web site and/or Services and what pages you viewed when visiting our Web site and/or utilizing the Services.
 
-### LINKS
+### Use of Your Information and Your Preferences
 
-Please be aware that we may provide links to third party Web sites from the Site as a service to its users and we are not responsible for the content or information collection practices of those sites. We have no ability to control the privacy and data collection practices of such sites and the privacy policies of such sites may differ from this Policy. Therefore, we encourage you to review and understand the privacy policies of such sites before providing them with any information.
+We will use your personally-identifiable information to:
 
-### SECURITY
-
-We use commercially reasonable measures to store and maintain personally identifying information, to protect it from loss, misuse, alternation or destruction by any unauthorized party while it is under our control.
-
-### CHILDREN
-
-We do not intend, and the Site is not designed, to collect personal information from children under the age of 13. If you are under 13 years old, you should not provide information on the Site.
-
-### CHOICE AND ACCESS
-
-You may unsubscribe at any time from receiving non-service related communications from us. Site users have the following options for accessing, changing and deleting personal information previously provided, or opting out of receiving communications from Company or Market Leader: 
-
-  * email us at info@marketleader.com; or
-  * call us at the following telephone number: 800-491-3687
+  * provide the services you requested;
+  * notify you about changes to our Web site or any services we offer or provide though it;
+  * carry out our obligations and enforce our rights;
+  * allow Users to communicate with each other to effect any and all transactions;
+  * complete your registration for the Web site and/or the Services;
+  * personalize your user experience;
+  * improve our customer service;
+  * contact you via email or direct mail in order to send you information and updates pertaining to your use of the Web site and/or the Services;
+  * respond to enquiries and/or questions you send to us; and to send company news, updates, and other related information.
 
 
 
-### QUESTIONS AND CONCERNS
+### How to Opt-Out
 
-If you have any questions about this Policy, the practices applicable to the Site, or your dealings with the Site, please contact us at the following address:
+If you no longer wish to receive marketing information, press releases or any other type of information from us, you may send us an email at support@wemod.com to change your preferences or follow the "unsubscribe" link provided in any email that you receive from us.
 
-Market Leader Inc  
-11332 NE 122nd Way Suite 200   
-Kirkland, WA 98034
+### Disclosures of your Information
+
+Your information may be used by WeMod for the purposes provided for herein. We can disclose your personal data:
+
+  * for any successors to our business;
+  * suppliers that process data on our behalf via our servers in New York, New York;
+  * to comply with any court order, law or legal process, including to respond to any government or regulatory request;
+  * to enforce our Terms and Conditions in case of violations by any User;
+  * if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Web site, our customers or others;
+  * for any other purpose disclosed by us when you provide the information.
+
+
+
+### Other Web sites
+
+Our Web site and/or Services may contain links to other Web sites, which are outside our control and are not covered by this Privacy Policy. If you access other Web sites using the links provided, the operators of these Web sites may collect information from you, which will be used by them in accordance with their privacy policies, which may differ from ours.
+
+### Cookies & Web Beacons
+
+To enhance your online experience, we may use "cookies" or similar technologies. Cookies are text files placed in your computer's browser to store your preferences. Cookies do not contain personally identifiable information; however, once you choose to furnish a site with personally identifiable information, this information may be linked to the data stored in the cookie.
+
+We use cookies to understand site and Internet usage and to improve or customize the content, offerings or advertisements on our site. For example, we may use cookies to personalize your experience at our site (e.g., to recognize you by name when you return to a site), save your password in password-protected areas, and enable you to use shopping carts on our site. We also may use cookies to help us offer you products, programs, or items that may be of interest to you and to deliver relevant advertising.
+
+We, our Third-Party service providers, advertisers or our partners also may use cookies to manage and measure the performance of advertisements displayed on or delivered by us and/or other networks or Web sites. This also helps us, our service providers and partners provide more relevant advertising.
+
+We, our Third-Party service providers, advertiser or our partners may also use "Web beacons" or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a Web page. For example, web beacons may be used to count the users who visit a Web page or to deliver a cookie to the browser of a visitor viewing that page.
+
+You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered by us. Please consult the "Help" section of your browser for more information.
+
+We may use [third-party advertising companies](http://d1zg2gyieeotr8.cloudfront.net/pp.html) to serve ads when you visit our website.
+
+### Your California Privacy Rights
+
+We will not share any personal data with third-parties for their direct marketing purposes to the extent prohibited by California law. If our practices change, we will do so in accordance with applicable laws and will notify you in advance. California law requires that operators of online services disclose how they respond to a Do Not Track signal. Some browsers have incorporated “Do Not Track” features. Most of these features, when turned on, send a signal or preference to the online service that a user visits, indicating that the user does not wish to be tracked. We do not currently respond to Do Not Track signal.
+
+### EU Users' Rights
+
+This section of our Privacy Policy applies to the users of our platform in the EU. We would like to inform you about your EU General Data Protection Regulation (GDPR) rights and how we safeguard them.
+
+  1. _Your GDPR rights to be informed, to access, rectify, erase or restrict the processing of your personal information._ You have the right to receive free information about what personal data we have obtained about you, where it is stored, for how long, for what purposes it is used, to whom it was disclosed. You have the right to require that we, without undue delay, rectify of inaccurate personal data concerning you. That means you can request we change your personal data in our records, or have you incomplete personal data completed. You have the “right to be forgotten,” i.e. to have us delete your personal information, without undue delay, if the data is no longer necessary in relation to the purposes for which it was collected. However, GDPR gives us the right to refuse erasure if we can demonstrate compelling legitimate grounds for keeping your information.
+  2. _GDPR gives you the right to restrict processing_ if any of the following applies: 
+    1. If you contest the accuracy of your personal data, we will restrict processing it for a period enabling us to verify its accuracy.
+    2. The processing is unlawful and you oppose its erasure and request instead the restriction of its use.
+    3. We no longer need your personal data for the purposes of the processing, but you require us to restrict processing for the establishment, exercise or defense of legal claims.
+    4. You have objected to processing pursuant to Article 21(1) of the GDPR pending the verification whether our legitimate grounds override yours.
+  3. _Right to data portability._ Upon request, we will provide you your personal data in our possession, in a structured, commonly used and machine-readable format. You have the right to transmit that data to another controller if doing so does not adversely affect the rights and freedoms of others.
+  4. _Right to object._ You can object, on grounds relating your particular situation, at any time, to processing of your personal information, if based on point (e) or (f) of Article 6(1) of the GDPR. We will then have to stop processing, unless we can demonstrate compelling legitimate grounds for the processing. If you object to the processing for direct marketing purposes, we will have to stop processing for these purposes.
+  5. _Right to withdraw consent._ GDPR grants you the right to withdraw your earlier given consent, if any, to processing of your personal data at any time.
+  6. _Rights related to automated decision making._ As a responsible business, we do not rely on any automated decision making, such as profiling.
+
+
+
+### Data Retention
+
+We retain your personal data for as long as your account is active or for as long as we need it to fulfill the purposes for which we have initially collected it, unless otherwise permitted or required by law. We will retain and use information as necessary to comply with our legal obligations, resolve disputes, and enforce our rights. We will cease to retain your personal data, or remove the means by which the data can be associated with you, as soon as it is reasonable to assume that such retention no longer serves the purpose for which the personal data was collected, and is no longer necessary for legal or business purposes.
+
+### Access to and/or Modification of Your Information
+
+If you access the Web site or otherwise access the Services and volunteer personally-identifiable information, you may modify, update or delete such information by sending us an email at support@wemod.com. You should be aware, however, that it is not always possible to completely remove or modify information in our databases. In addition, please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of the Services.
+
+### Children's Privacy
+
+Protecting children's privacy is important to us. For that reason, we do not collect or maintain information on the Web site or otherwise provide Services to those persons we actually know are under the age of thirteen (13) nor is any part of the Web site or Services targeted to attract anyone under the age of thirteen (13). We request that all users of the Web site and/or Services who are under the age of thirteen (13) not disclose or provide any personally-identifiable information. If we discover that a child under thirteen (13) has provided us with personally-identifiable information, we will delete that child's personally-identifiable information from our records, unless it is necessary to retain this information for legal reasons.
+
+We do not knowingly process data of EU residents under the age of 16 without parental consent. If we become aware that we have collected data from an EU resident under the age of 16 without parental consent, we will take reasonable steps to delete it as quickly as possible. We also comply with other age restrictions and requirements in accordance with applicable local laws.
+
+### Data Security
+
+We take reasonable steps to maintain the security of the personally-identifiable information that we collect, including utilizing SSL certificates for data encryption, PCI Scanning, S-HTTP and management-only password-secured access limited to two (2) managers; however, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk. Please note, that non-encrypted communication using email is not secure. Thus, we cannot guarantee data security in email communication and, therefore, recommend using physical mail for confidential information.
+
+### International Transfer
+
+We operate globally so it is necessary to transfer your information internationally. In particular, **your information will likely be transferred to and processed in the State of New York, USA** , where many of our central databases operate. The data protection and other laws of other countries may not be as comprehensive as those in your country. Please be assured that we take reasonable steps to ensure that your privacy is protected. **By accessing our Web site or otherwise using our Services you consent to your information being collected, used and transferred as set forth in this Privacy Policy.**
+
+### How to Contact Us
+
+If you have any questions or concerns about our Privacy Policy or its implementation you may contact us at support@wemod.com.
+
+### Updates & Effective Date
+
+The effective date of this Privacy Policy is May 25, 2018. From time-to-time, we may update this Privacy Policy. We will notify you about material changes in the way we treat personally-identifiable information by posting a notice of said changes online to the Web site and by notifying users of the Services via email. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it.
