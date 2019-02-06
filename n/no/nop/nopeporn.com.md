@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nopeporn.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213235335id_/http%3A//www.nopeporn.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nopeporn.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206040718id_/https%3A//www.nopeporno.com/pages/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | www.nopeporn.com
+# Privacy Policy | www.nopeporno.com
 
 The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by this website and how it is used.
 
@@ -18,7 +18,7 @@ Google, as a third party vendor, uses cookies to serve ads on this website.
 
 Google's use of the DART cookie enables it to serve ads to users based on their visit to this website and other sites on the Internet.
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include...
 
