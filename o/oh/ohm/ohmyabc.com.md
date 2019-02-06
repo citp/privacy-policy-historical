@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohmyabc.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207045433id_/http%3A//www.ohmyabc.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohmyabc.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206082757id_/http%3A//www.ohmyabc.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # OhMyABC - World News Digest & DocuComm - My-Project Tools
 
