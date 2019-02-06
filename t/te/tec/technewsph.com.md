@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technewsph.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205231219id_/http%3A//www.technewsph.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technewsph.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206013319id_/http%3A//www.technewsph.com/privacy-policy) for the most accurate reproduction.*
 
 # Affordable SEO Services Privacy Policy
 
