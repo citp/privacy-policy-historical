@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the signupin.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121104619id_/http%3A//howsignup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signupin.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206180950id_/https%3A//createaaccount.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | How Sign Up
+# Privacy Policy | Create Account Gmail, Hotmail, Yahoo & More!
 
 Your internet privacy is our most concerned subject. Our site protects your online privacy. We never ask your private personal information.
 
