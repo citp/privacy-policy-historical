@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printinghost.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822103459id_/https%3A//www.printinghost.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printinghost.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206165353id_/https%3A//www.printinghost.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy l PrintingHost
 
