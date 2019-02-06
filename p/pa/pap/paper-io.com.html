@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the paper-io.com privacy policy that was archived on 2018-09-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180929012336id_/http%3A//paper-io.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paper-io.com privacy policy that was archived on 2019-02-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190206144710id_/http%3A//paper-io.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Paper.io - privacy policy</title>
@@ -11,6 +11,42 @@
     <meta property="og:type" content="website">
   </head>
   <body bgcolor="#1b1f20">
+	<script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+	var aiptag = aiptag || {};
+	aiptag.consented = true; //GDPR setting, please set this value to false if an EU user has declined or not yet accepted marketing cookies, for users outside the EU please use true
+	aiptag.cmd = aiptag.cmd || [];
+	aiptag.cmd.display = aiptag.cmd.display || [];
+	aiptag.cmd.player = aiptag.cmd.player || [];
+        aiptag.gdprShowConsentTool = true;
+	//aiptag.gdprShowConsentToolButton = true;
+		aiptag.cmd.player.push(function() {
+		adplayer = new aipPlayer({
+			AD_WIDTH: window.innerWidth,
+			AD_HEIGHT: window.innerHeight,
+			AD_FULLSCREEN: false,
+			AD_CENTERPLAYER: true,
+			LOADING_TEXT: 'loading advertisement',
+			PREROLL_ELEM: function(){return document.getElementById('outstreamContainer')},
+			AIP_COMPLETE: function (AD_TYPE)  {
+				/*******************
+				 ***** WARNING *****
+				 *******************
+				 Please do not remove the PREROLL_ELEM
+				 from the page, it will be hidden automaticly.
+				 If you do want to remove it use the AIP_REMOVE callback.
+				 AD_TYPE can be: preroll or reward.
+				*/
+				window.onDoneAds();
+				//alert("Ad: " + AD_TYPE + " Completed");
+			},
+			AIP_REMOVE: function ()  {
+				// Here it's save to remove the PREROLL_ELEM from the page.
+				// But it's not necessary.
+			}
+		});
+	});
+</script>
+<script async="" src="//api.adinplay.com/libs/aiptag/pub/TPZ/trapz.io/tag.min.js"></script>
 <div style="position: absolute; top:20px; left: 50%; width: 634px; text-align: justify; color: #EEE; margin-left: -317px;">
 <div align="center"><img src="/newpaperio/images/logo.png"></div>
 <h1>Paper.io privacy policy</h1>
@@ -18,11 +54,13 @@
 </p><p>We may use cookies, web beacons, or other anonymous tracking information to improve our server's interaction with your computer. Third party vendors, including Google, also use cookies to serve ads to you based on your visit to this site and/or other sites on the Internet.
 </p><p>You may opt out of the use of Google's ad-related cookies by visiting their ad settings.
 </p><p>For more information regarding opting out of a third party vendor's use of cookies, you can visit aboutads.info.
+</p><p>In May 2018 EU user consent policy (GDPR) came into force. It requires us as a website owner to obtain consent from your EU users to use cookies and disclose all parties that will use the cookies for personalization of ads.
+If you're EU user then you can change Consent Settings by clicking <a href="#" onclick="aipAPItag.showConsentToolSettings();">this link</a>.
 </p><p>We may occasionally revise our privacy policy by posting the changes here.
 </p><p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here (<a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank" style="color: white;">http://www.networkadvertising.org/managing/opt_out.asp</a>)
 </p>
 </div>
-    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+    <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
