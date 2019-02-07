@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the hooters.com privacy policy that was archived on 2018-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180819185421id_/https%3A//www.hooters.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hooters.com privacy policy that was archived on 2019-02-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190207091845id_/https%3A//www.hooters.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
-
   <!-- HTML Meta -->
   <title>Hooters Privacy Policy</title>
 <meta name="description" content="View the Hooters Privacy Policy to understand the ways we use and protect the information we may collect about individuals who utilize our websites.">
@@ -31,6 +30,7 @@
 <!-- Twitter Card Meta -->
 <meta name="twitter:site" content="@hooters">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://www.hooters.comhttps://www.hooters.com/assets/images/social-og-default.png">
 <!-- Apple Web App Meta -->
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -54,14 +54,19 @@
 <link rel="icon" type="image/png" href="https://www.hooters.com/assets/images/favicons/favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="https://www.hooters.com/assets/images/favicons/favicon-16x16.png" sizes="16x16">
 
+  <!-- GTM Embedded Scripts -->
+  <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MG5WZR"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/placeholder"></script>
+
+  <!-- Extra HTML Tags -->
+  
   <!-- Site Styles -->
     <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7034196/7282792/css/fonts.css">
   <link href="https://fonts.googleapis.com/css?family=Norican" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="/assets/css/main.css?=1534527266">
+  <link rel="stylesheet" type="text/css" href="/assets/css/main.css?=1548866119">
 
   
   <!-- Google Analytics -->
-  <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MG5WZR"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
@@ -102,7 +107,7 @@
 	}]);
 	</script>
 	<script type="text/javascript" data-cfasync="false" src="https://assets.mantisadnetwork.com/analytics.min.js" async=""></script>
-	<noscript><img alt="" src="//mantodea.mantisadnetwork.com/analytics/pixel?advertiser=5acce477964eb4235214c103&transaction=" /></noscript>
+	<noscript><img alt=""  height="1" width="1" style="display:none;" src="//mantodea.mantisadnetwork.com/analytics/pixel?advertiser=5acce477964eb4235214c103&transaction=" /></noscript>
   <!-- End Mantisadnetwork Pixel Code -->
 
   <!--Google Code for Remarketing Tag -->
@@ -125,194 +130,269 @@
 <body class="faqs" data-page="faqs">
 <a href="#main-content" class="main-content-anchor">Skip to Content</a>
 <header class="header">
-  <div class="container">
+  <div class="container header__container">
     <div class="header__logo">
-	        	<a href="/"><img src="/assets/images/logo.svg" alt="Hooters"></a>
+              <a href="/"><img src="/assets/images/logo.svg" alt="Hooters"></a>
           </div>
     <div class="header__nav-button">
-      <button class="nav-button" aria-haspopup="true" aria-label="Open Navigation Menu"><span class="nav-button__text">Navigation Menu</span><span class="nav-button__lines"></span></button>
+      <button class="nav-button" aria-haspopup="true" aria-expanded="false" aria-label="Open Navigation Menu">
+          <span class="nav-button__text">Navigation Menu</span>
+          <span class="nav-button__lines"></span>
+      </button>
     </div>
-          <div class="header__location mobile-locations"></div>
+          <script id="my-location__template" type="text/x-handlebars-template">
+        <div class="my-location">
+          <a href="#" role="button" class="my-location__open-button js-my-location__open-button"
+            aria-haspopup="true" aria-expanded="false" aria-controls="my-location-details"
+            aria-label="Show Store Details for {{location.name}}">
+            <span class="my-location__title">Your Hooters</span>
+            <span class="my-location__name">{{location.name}}</span>
+          </a>
+          <div class="my-location__meta">
+            <a href="/locations/?address={{location.zip}}" class="my-location__change-link">View Locations</a>
+          </div>
+        </div>
+        <div id="my-location-details" class="my-location-details js-my-location-details"
+            aria-label="Contact Details for {{location.name}}" tabindex="-1">
+          <div class="my-location-details__pre">
+            <button tabindex="-1" class="my-location-details__fav-button c-fav-button is-active">Favorite</button>
+            {{#if location.ufc}}
+            <div class="my-location-details__ufc">
+              <span class="my-location-details__ufc-text">Showing </span>
+              <img src="/assets/images/ufc_logo.svg" alt="UFC" class="my-location-details__ufc-icon">
+            </div>
+            {{/if}}
+          </div>
+          <h3 class="my-location-details__name">{{location.name}}</h3>
+          {{#if location.direction}}
+          <span class="my-location-details__direction">{{location.direction}}</span>
+          {{/if}}
+          {{#if location.hoursText}}
+          <span class="location-result__open-status">{{location.hoursText}}</span>
+          {{else}}
+          <span class="my-location-details__open-status">{{openString location.hours}}</span>
+          {{/if}}
+          {{#if location.address}}
+          <address class="my-location-details__address">
+            <span class="my-location-details__address-line-1">{{location.address.line-1}}</span>
+            <span class="my-location-details__address-line-2">{{location.address.line-2}}</span>
+          </address>
+          {{/if}}
+          <a href="https://www.google.com/maps/dir//Hooters,{{location.address.line-1}},{{location.address.line-2}}" class="my-location-details__directions-link">Get Directions</a>
+          <a href="tel:{{location.phone}}" class="my-location-details__phone">{{location.phone}}</a>
+          <ul class="my-location-details__links-list">
+            {{#if location.detailsUrl}}
+            <li class="my-location-details__link-item">
+              <a href="{{location.detailsUrl}}" class="my-location-details__link"
+                aria-label="Store Details for {{location.name}}">Store Details</a>
+            </li>
+            {{/if}}
+            {{#if location.orderingUrl}}
+            <li class="my-location-details__link-item">
+              <a href="{{location.orderingUrl}}" class="my-location-details__link"
+                aria-label="Order Online for {{location.name}}">Order Online</a>
+            </li>
+            {{/if}}
+          </ul>
+        </div>
+      </script>
+      <div class="header__location is-loading">
+        <div class="my-location">
+          <button class="my-location__open-button js-my-location__open-button" aria-disabled="true" disabled="">
+            <span class="my-location__title">Your Hooters</span>
+            <span class="my-location__name">Searching...</span>
+          </button>
+          <div class="my-location__meta">
+            <a href="/locations/" class="my-location__change-link">View Locations</a>
+          </div>
+        </div>
+      </div>
         <div class="header__meta">
-            <div class="header__location desktop-locations"></div>
-            <div class="header__buttons">
+      <div class="header__buttons">
         <a href="/gift-cards" class="header-button header-button--gift-cards"><span class="header-button__text header-button__text--upper header-button__text--primary">Gift</span> <span class="header-button__text header-button__text--lower">Cards</span></a>
-        <a href="http://www.hooterscasinohotel.com/?utm_source=HootersCom&amp;utm_medium=HeaderButton" class="header-button header-button--casino" target="_blank"><span class="header-button__text header-button__text--upper header-button__text--primary">Hooters</span> <span class="header-button__text header-button__text--lower">Casino</span></a>
+        <a href="http://www.hooterscasinohotel.com/?utm_source=HootersCom&amp;utm_medium=HeaderButton" class="header-button header-button--casino" target="_blank"><span class="header-button__text header-button__text--upper header-button__text--primary">Hooters</span> <span class="header-button__text header-button__text--lower">Hotel Vegas</span></a>
         <a href="/locations" class="header-button header-button--order-online"><span class="header-button__text header-button__text--upper">Order</span> <span class="header-button__text header-button__text--lower">online</span></a>
       </div>
     </div>
   </div>
   <nav class="header__nav nav-container" aria-expanded="false" aria-label="Main Navigation">
     <div class="container container--extra-wide container--no-margin">
-      
+        
   <ul class="nav-section-list" role="menubar" tabindex="0" aria-labelledby="menu-item-2">
 
-    <li class="nav-section" role="menuitem" tabindex="0">
-      <span class="nav-section__info">
+    <li class="nav-section" role="none">
+      <a href="#" role="menuitem" class="nav-section__info">
         <h2 id="menu-item-2" class="nav-section__title">Menu</h2>
         <span class="nav-section__image" style="background-image: url('/perch/resources/Navigation/nav-tacos.jpg');"></span>
-      </span>
+      </a>
       
-  <ul class="sub-nav-list" role="menu">
+<ul role="menu" class="sub-nav-list">
 
-    <li class="sub-nav-list__item" role="none">
-      <a href="/menu/" role="menuitem" tabindex="0">
-        Food
-      </a>
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="/menu/">
+      Food
+    </a>
+  </li>
+
+
+  <li role="none" class="sub-nav-list__item sub-nav-list__item--icon">
+    <a role="menuitem" href="https://www.hooters.com/locations/" style="background-image: url('/perch/resources/Navigation/nav-icon-online.svg');">
+      Order Online
+    </a>
+  </li>
+
+</ul>
+
+
     </li>
 
 
-    <li class="sub-nav-list__item sub-nav-list__item--icon" role="none">
-      <a href="https://www.hooters.com/locations/" role="menuitem" tabindex="0" style="background-image: url('/perch/resources/Navigation/nav-icon-online.svg');">
-        Order Online
-      </a>
-    </li>
-
-  </ul>
-
-
-    </li>
-
-
-    <li class="nav-section" role="menuitem" tabindex="0">
-      <span class="nav-section__info">
+    <li class="nav-section" role="none">
+      <a href="#" role="menuitem" class="nav-section__info">
         <h2 id="menu-item-3" class="nav-section__title">Hooters Girls</h2>
         <span class="nav-section__image" style="background-image: url('/perch/resources/Navigation/nav-girls.jpg');"></span>
-      </span>
+      </a>
       
-  <ul class="sub-nav-list" role="menu">
+<ul role="menu" class="sub-nav-list">
 
-    <li class="sub-nav-list__item" role="none">
-      <a href="/hooters-girls/" role="menuitem" tabindex="0">
-        Become a Hooters Girl
-      </a>
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="/hooters-girls/">
+      Become a Hooters Girl
+    </a>
+  </li>
+
+
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="/hooters-girls/calendar/">
+      Hooters Calendar
+    </a>
+  </li>
+
+
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="/pageant/">
+      International Pageant
+    </a>
+  </li>
+
+</ul>
+
+
     </li>
 
 
-    <li class="sub-nav-list__item" role="none">
-      <a href="/hooters-girls/calendar/" role="menuitem" tabindex="0">
-        Hooters Calendar
-      </a>
-    </li>
-
-
-    <li class="sub-nav-list__item" role="none">
-      <a href="/pageant/" role="menuitem" tabindex="0">
-        International Pageant
-      </a>
-    </li>
-
-  </ul>
-
-
-    </li>
-
-
-    <li class="nav-section" role="menuitem" tabindex="0">
-      <span class="nav-section__info">
+    <li class="nav-section" role="none">
+      <a href="#" role="menuitem" class="nav-section__info">
         <h2 id="menu-item-5" class="nav-section__title">Gear &amp; Gifts</h2>
-        <span class="nav-section__image" style="background-image: url('/perch/resources/Navigation/gear.jpg');"></span>
-      </span>
+        <span class="nav-section__image" style="background-image: url('/perch/resources/Navigation/menu-image-v1-1.jpg');"></span>
+      </a>
       
-  <ul class="sub-nav-list" role="menu">
+<ul role="menu" class="sub-nav-list">
 
-    <li class="sub-nav-list__item sub-nav-list__item--icon" role="none">
-      <a href="/gift-cards/" role="menuitem" tabindex="0" style="background-image: url('/perch/resources/Navigation/nav-icon-giftcards.svg');">
-        Gift Cards
-      </a>
+  <li role="none" class="sub-nav-list__item sub-nav-list__item--icon">
+    <a role="menuitem" href="/gift-cards/" style="background-image: url('/perch/resources/Navigation/nav-icon-giftcards.svg');">
+      Gift Cards
+    </a>
+  </li>
+
+
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="https://hootersgear.corpmerchandise.com/ProductList.aspx?did=31313">
+      Give A Hoot
+    </a>
+  </li>
+
+
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="http://hootersgear.corpmerchandise.com/ProductList.aspx?did=19166">
+      Apparel
+    </a>
+  </li>
+
+
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="http://hootersgear.corpmerchandise.com/ProductList.aspx?did=19162">
+      Headwear
+    </a>
+  </li>
+
+
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="http://hootersgear.corpmerchandise.com/ProductList.aspx?did=19163">
+      Souvenirs
+    </a>
+  </li>
+
+
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="http://hootersgear.corpmerchandise.com/ProductList.aspx?did=19164">
+      Sale
+    </a>
+  </li>
+
+</ul>
+
+
     </li>
 
 
-    <li class="sub-nav-list__item" role="none">
-      <a href="http://hootersgear.corpmerchandise.com/ProductList.aspx?did=19166" role="menuitem" tabindex="0">
-        Apparel
-      </a>
-    </li>
-
-
-    <li class="sub-nav-list__item" role="none">
-      <a href="http://hootersgear.corpmerchandise.com/ProductList.aspx?did=19162" role="menuitem" tabindex="0">
-        Headwear
-      </a>
-    </li>
-
-
-    <li class="sub-nav-list__item" role="none">
-      <a href="http://hootersgear.corpmerchandise.com/ProductList.aspx?did=19163" role="menuitem" tabindex="0">
-        Souvenirs
-      </a>
-    </li>
-
-
-    <li class="sub-nav-list__item" role="none">
-      <a href="http://hootersgear.corpmerchandise.com/ProductList.aspx?did=19164" role="menuitem" tabindex="0">
-        Sale
-      </a>
-    </li>
-
-  </ul>
-
-
-    </li>
-
-
-    <li class="nav-section" role="menuitem" tabindex="0">
-      <span class="nav-section__info">
+    <li class="nav-section" role="none">
+      <a href="#" role="menuitem" class="nav-section__info">
         <h2 id="menu-item-6" class="nav-section__title">About</h2>
         <span class="nav-section__image" style="background-image: url('/perch/resources/Navigation/nav-store.jpg');"></span>
-      </span>
+      </a>
       
-  <ul class="sub-nav-list" role="menu">
+<ul role="menu" class="sub-nav-list">
 
-    <li class="sub-nav-list__item" role="none">
-      <a href="/about/history/" role="menuitem" tabindex="0">
-        Our Story
-      </a>
-    </li>
-
-
-    <li class="sub-nav-list__item" role="none">
-      <a href="/racing/" role="menuitem" tabindex="0">
-        Official Home of Race Fans
-      </a>
-    </li>
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="/about/history/">
+      Our Story
+    </a>
+  </li>
 
 
-    <li class="sub-nav-list__item" role="none">
-      <a href="/franchising/" role="menuitem" tabindex="0">
-        Franchising
-      </a>
-    </li>
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="/racing/">
+      Official Home of Race Fans
+    </a>
+  </li>
 
 
-    <li class="sub-nav-list__item" role="none">
-      <a href="/about/careers/" role="menuitem" tabindex="0">
-        Careers
-      </a>
-    </li>
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="/franchising/">
+      Franchising
+    </a>
+  </li>
 
 
-    <li class="sub-nav-list__item" role="none">
-      <a href="/about/hootclub/" role="menuitem" tabindex="0">
-        HootClub
-      </a>
-    </li>
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="/about/careers/">
+      Careers
+    </a>
+  </li>
 
 
-    <li class="sub-nav-list__item" role="none">
-      <a href="/about/news/" role="menuitem" tabindex="0">
-        Newsroom
-      </a>
-    </li>
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="/about/hootclub/">
+      HootClub
+    </a>
+  </li>
 
 
-    <li class="sub-nav-list__item" role="none">
-      <a href="/contact/" role="menuitem" tabindex="0">
-        Contact Us
-      </a>
-    </li>
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="/about/news/">
+      Newsroom
+    </a>
+  </li>
 
-  </ul>
+
+  <li role="none" class="sub-nav-list__item">
+    <a role="menuitem" href="/contact/">
+      Contact Us
+    </a>
+  </li>
+
+</ul>
 
 
     </li>
@@ -320,7 +400,7 @@
   </ul>
 
     </div>
-      </nav>
+  </nav>
 </header>
 <main id="main-content">
 <div class="masthead masthead--basic">
@@ -623,7 +703,7 @@ Atlanta, GA 30339</p>
   
   <div class="footer-credits">
     <ul class="footer-credits__list">
-      <li class="footer-credits__list-item footer-credits__list-item--copyright">Copyright © 2018 Hooters of America, LLC. All Rights Reserved.</li>
+      <li class="footer-credits__list-item footer-credits__list-item--copyright">Copyright © 2019 Hooters of America, LLC. All Rights Reserved.</li>
         
   <li class="footer-credits__list-item"><a href="/accessibility-statement">Accessibility Statement</a></li>
 
@@ -633,7 +713,7 @@ Atlanta, GA 30339</p>
   </div>
 </footer>
 <div class="external-popup-overlay js-extpop-overlay"></div>
-<div class="external-popup js-extpop-element" role="dialog" aria-labelledby="extpopup__title" aria-describedby="extpopup__copy">
+<div class="external-popup js-extpop-element" aria-modal="true" role="dialog" aria-labelledby="extpopup__title" aria-describedby="extpopup__copy">
     <div class="external-popup__container">
         <div id="extpopup__title" class="external-popup__title">You're about to leave the Hooters website.</div>
         <div id="extpopup__copy" class="external-popup__body">
@@ -645,8 +725,8 @@ Atlanta, GA 30339</p>
         </div>
     </div>
 </div>
-<script src="/assets/js/vendor.min.js?=1534527266" type="text/javascript" defer=""></script>
-<script src="/assets/js/app.min.js?=1534527267" type="text/javascript" defer=""></script>
+<script src="/assets/js/vendor.min.js?=1548866119" type="text/javascript" defer=""></script>
+<script src="/assets/js/app.min.js?=1548866119" type="text/javascript" defer=""></script>
 
 
 </body></html>
