@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultcentro.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208191522id_/http%3A//publisher.adultcentro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultcentro.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207172238id_/http%3A//publisher.adultcentro.com/privacy) for the most accurate reproduction.*
 
 # AdultCentro | About Us - (AC)
 
