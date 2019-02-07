@@ -1,64 +1,69 @@
-> *The following text is extracted and transformed from the daopay.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309073125id_/http%3A//www.daopay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daopay.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207114639id_/https%3A//www.daopay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Daopay
 
-We, DaoPay GmbH, appreciate the confidence you place in us by sharing your information with us. We apply greatest care for the protection of your information. In the following we are providing an overview of how we gather, process, and protect your information.
+**General information**
 
-This Privacy Policy covers all personal information which we may collect when you visit our website (www.daopay.com), use the payment service “DaoPay” or contact our customer support.
+We, DaoPay GmbH (henceforth also referred to as „DaoPay“), appreciate the confidence you place in us by sharing your information with us. We care about the protection of your personal data. The processing of your personal data takes place according to the data protection regulations (especially GDPR, Data Protection Adaptation Act 2018, TKG, ZaDiG). This Privacy Policy describes how DaoPay collects, uses and safeguards information and personal data (henceforth also referred to as Data). DaoPay reserves the right to change this Privacy Policy at any time by publishing a revised version on this website. The revised version will become effective at the time of its publication.
 
-**1\. Personal information**
+**Data Controller**
 
-Personal information means all information which may be linked to a specific and real person and which may be utilized to identify this person.
+DaoPay GmbH, Hackhofergasse 5/14, 1190 Wien
 
-**2\. Which information is being collected**
+**Data Protection Officer**
 
-It is principally possible to visit and use our website without disclosing any personal information.
+A data protection Officer was not appointed.
 
-However, in order to ensure proper functionality and the best service possible of DaoPay, your name, e-mail address, telephone number, country of origin, financial information, merchant information and other information may be required to the extent that your consent is given or it is permitted or required by law.
+**Personal data**
 
-**3\. Utilization of personal information**
+Personal data means all data which may be linked to a specific and real person and which may be utilized to identify this person.
 
-At any rate, we utilize personal information only to the extent it is permitted or required by law.
+**GDPR  **
 
-We utilize personal information for the following purposes: processing, billing and controlling payment transactions, providing customer support, assuring the best service possible as well as prevention of fraud and abuse.
+DaoPay has taken all precautions to fully comply with the requirements of the GDPR.
 
-We do not share your personal information with any third party without your consent except if required for the purposes of processing requested transactions, statistical handling,  handling complaints, for  the customer protection purposes to state authorities or any third party (in particular our contractual merchants and service providers (like telecom carriers).
+Personal data will be stored and processed only insofar as this is necessary for the provision of services. Data is used solely for the purpose of immediate service provision. At no time will this information be disclosed to unauthorized third parties.
 
-**4\. Protection and security of personal information**
+DaoPay stores your Data in accordance with the legal obligations to preserve records.
 
-We protect personal information received and collected by establishing appropriate physical, electronic and managerial procedures. This helps prevent unauthorized access, maintains data accuracy and ensures that the information is used correctly.
+**Data collection and protection**
 
-However, no method of transmission over the internet or method of electronic storage is 100% secure. Therefore, while we strive to use all reasonable means to protect your personal information, we cannot guarantee its absolute security.
+DaoPay will process information or personal data on its servers and protect them through physical, electronic and procedural measures, in accordance with applicable law. This helps prevent unauthorized access, maintains data accuracy and ensures that the information is used correctly.
 
-**5\. Cookies**
+DaoPay will grant only those employees access to such information who require it to perform their work.
 
-Like many websites, we use “cookies”. Cookies are small text files which are stored on your computer’s hard drive and which store your personal settings of a particular website. When you go to the website, the web server identifies your cookie and shows the website according to your personal settings.
+DaoPay does not share personal data with any third party without your consent – unless DaoPay is obliged to do so by law or by court order, or if passing on Data is necessary in order to take legal action against fraudulent access to Internet structures. DaoPay does not pass on Data for any other reason, and will only collect, store and process information to be able to offer you better service, and individual information and communication. You are also entitled to be informed of the purpose of the Data storage; for information about the stored Data, simply send an email to privacy(at)daopay.com.
 
-The cookies we use neither store nor share personal information.
+The storage and processing of the personal data transmitted or disclosed to us, takes place only for the following purposes: processing, billing and controlling payment transactions, providing customer support, assuring the best service possible, for statistical evaluations as well as prevention of fraud and abuse.
 
-Cookies can be deactivated if your browser permits so. If cookies are deactivated, you might not be able to use all services of our website.
+Any personal data collected as part of a payment process to conduct business transactions is only transmitted by DaoPay to the extent necessary to the parties involved in the online purchase (the online merchant where the purchase was made, and the payment system operator whose payment system was used to make the payment). The legal basis for processing is Article 6 (1b) GDPR.
 
-**6\. IP addresses**
+The downstream payment processing is performed by authorised payment system providers and our contracted business partners (typically banks and credit card or telecommunication companies) that are authorised to carry out the relevant payment process and have in place appropriately secured systems. This is necessary in order to process distance selling payments and to facilitate the use of DaoPay services.
 
-Each visit of our website generates a log file which stores the IP address (a unique number which a device uses when it is connected to the internet), the contents accessed and the browser used. We use this log file to analyze how visitors use the website and to optimize the website and our services accordingly.
+Protecting your privacy is very important to us, and we are always happy to answer any questions you may have via e-mail at privacy(at)daopay.com.
 
-**7\. Access to personal information**
+**Data protection declaration for the use of Google Analytics**
 
-You may access, correct, update, amend, delete or deactivate your personal information stored with us. If you wish to do so, please contact us (see contact details below).
+This website uses functions of the web analytics service Google Analytics. The provider is Google Inc. 1600 Amphitheatre Parkway Mountain View, CA 94043, USA. Google Analytics uses “cookies”. These are text files which are stored on your computer and make it possible to analyse your use of the website. The data generated by the cookie about your use of this website is generally transmitted to the Google server in the USA, where it is stored.
 
-**8\. Changes to this Privacy Policy**
+If you are located in a member state of the European Union, or another state which is party to the Agreement on the European Economic Area, and you have activated IP anonymisation for this website, your IP address will, however, first be abridged by Google. Only in exceptional cases, your full IP address is transmitted to the Google server in the USA, where it is then abridged. Google uses this information by order of the operator of this website to analyse your use of the website, to compile reports on website activity and to provide further services connected with the use of this website and the Internet to the the website operator. The IP address identified on your browser by Google Analytics is not connected to other Google data.
 
-We reserve the right to modify this Privacy Policy any time. Changes to this Privacy Policy will be published on our website and in other appropriate places so that you can always know which information we collect, how we use it, and under what circumstances, if any, we disclose it.
+DaoPay and our service providers use the IP address to enable you to access and use our website and also to detect and ward off attacks against our website. Unfortunately, there are repeated attacks against the websites, in order to damage its operators or users (e.g. prevent an access to the website, spying on the data, exuding of malicious software (e.g. Viruses) or other illegal purposes). The appropriate use of our website und its functionality and the security of the users of our websites may be affected through such attacks. The processing of the IP address including the time of the access, takes place to ward off such attacks and avert the potential dangers for us and for the users of our website. We pursue with the processing through our service providers the legitimate interest of the maintenance of our business and the defence of illegal malfunction against us and the users of our website. The legal basis for processing is Article 6 (1f) GDPR. The stored IP data will be deleted by anonymization, if it is no longer needed for the detection or defence of the attack.
 
-**9\. How to contact us**
+You are at liberty to prevent cookies from being stored by adjusting your browser software accordingly. We regret to inform you, however, that you may not be able to make full use of all the functions on this website if you do so. In addition, you can prevent the data generated by the cookie and the data concerning your use of this website (including your IP address) from being transmitted to or processed by Google by clicking on the following link and downloading and installing the browser plug-in:http://tools.google.com/dlpage/gaoptout?hl=de.
 
-If you have any questions or concerns about this Privacy Policy, you may contact us
+**Contact form**
 
-Via telephone:  +43122844-0  
-Via e-mail:        [office@daopay.com](mailto:office@daopay.com)
+If you send us an enquiry via the contact form, we will collect the data provided in the form including the provided contact details to respond to your enquiry and for any follow-up questions. We never disclose these details without your permission.
 
-Via mail:  
-DaoPay GmbH  
-Hackhofergasse 5/14  
-1190 Vienna  
-Austria
+**Newsletter details**
+
+If you would like to receive the newsletter offered on our website, we require a valid email address and information that allows us to verify that you are the owner of the email address you have provided and that you agree to receive the newsletter. Other data is not collected. We use this data exclusively for sending out the requested information and do not pass it on to third parties.
+
+You may revoke your consent for storing your data, your email address, and its use for sending you the newsletter at any time, for example, by following the “Unsubscribe” link in the newsletter.
+
+**Your rights**
+
+You have the rights to information and access, rectification and erasure of your personal data, restriction of processing, revocation of your consent and right to object. To perform your rights, please contact DaoPay GmbH, Hackhofergasse 5/14, 1190 Vienna, Austria, e-mail: privacy(at)daopay.com.
+
+If you think that, the processing of your Data breaches data protection law or if your data protection rights have been violated in any other way, please feel free to lodge a complaint with the regulatory authority. In Austria, this is the data protection authority.
