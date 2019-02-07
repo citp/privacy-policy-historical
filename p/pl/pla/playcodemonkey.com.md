@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the playcodemonkey.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206175103id_/https%3A//www.playcodemonkey.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playcodemonkey.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207182526id_/https%3A//www.playcodemonkey.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Coding Games for Kids | CodeMonkey
 
-Last modified: May 27, 2018 
+Last modified: January 21, 2019 
 
 Because your privacy is important to us, we operate by the principles described herein. We have created this Privacy Policy in order to describe to you our practicing regarding the information that we collect and how we use it. By using our Website, service (the "Service") and/or accepting the Terms of Service (which you can review [here](https://web.archive.org/about/terms)), you consent to the collection and use of your information as we have outlined in this Policy. Capitalized terms used and not otherwise defined herein, shall have the respective meanings ascribed to them under Terms of Service. 
 
@@ -26,7 +26,7 @@ Our site includes links to other websites whose privacy practices may differ fro
 
 We store all the Information with Amazon Web Services ("AWS") and we encourage you to review AWS Terms of Service and Privacy Policy, as we will not be responsible for what AWS do with the Information. We do not disclose your Information to any third party or use it in any way, except in order to provide the Service, and as sets forth in our Terms of Use. 
 
-Please note that you do not have any legal obligation to deliver us with any information.
+You are not required to provide us with any information, although we may be unable to provide the Service without your information.
 
 ### 2\. What we do with your information
 
@@ -34,7 +34,7 @@ Please note that you do not have any legal obligation to deliver us with any inf
 We may use your information in the following ways:   
 (i) To provide the Service as well as for auditing and improving our Service.   
 (ii) We may occasionally inform you of new features, functionality, services and products, and other promotions from CodeMonkey as well as send you periodic updates, tips and newsletters. You may always opt-out of receiving these correspondences from us by following the unsubscribe instructions included in each Newsletter. Note that regardless of your election, we may continue sending you notices to update you on revisions made to this Privacy Policy or to our Terms of Service.   
-(iii) We may use and share Information with certain third-parties that help us operate our Website and Service (e.g. cloud provider, email distribution service providers and other similar service providers). When we use such third parties, we restrict them from using or disclosing the information, except as required to perform services on our behalf or to comply with legal requirements. Personal information of users under the age of 13 will not be shared with third parties for marketing purposes.   
+(iii) We may use and share Information with certain third-parties that help us operate our Website and Service (e.g. cloud provider, email distribution service providers and other similar service providers). When we use such third parties, we restrict them from using or disclosing the information, except as required to perform services on our behalf or to comply with legal requirements. Personal information of our users will not be shared with third parties for marketing purposes.   
 (iv) We may share Information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our services.   
 (v) We reserve the right to disclose your Information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, or court order. 
 
@@ -86,7 +86,7 @@ Please note that we may ask you to verify your identity before responding to suc
 
 ### 6\. Miscellaneous 
 
-If CodeMonkey becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we may transfer all Information we have collected from our users in connection with such a transaction. 
+If CodeMonkey becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we may transfer all Information we have collected from our users in connection with such a transaction. However, the purchaser or successor entity will adhere by the terms under which your Information has been collected. If the purchaser or successor entity will not assume such responsibility, we will notify our users and enable them to request the permanent deletion of their information. 
 
 If you believe that we have not adhered to our privacy policy, please notify us by email to privacy@cm-studios.com and we will use all commercially reasonable efforts to promptly determine and correct the problem. 
 
@@ -154,6 +154,8 @@ Introduce your child to Computer Science and track their progress
 
 {{ i18n.t('signup.free_trial_length', {days: trialLengthInDays()}) }} 
 
+_{{ i18n.t('more_options') }}_
+
 NEXT 
 
 Complete your registration by filling you school's information 
@@ -220,6 +222,8 @@ We sent you a confirmation email to ({{ emailAddress }}), please click on the li
 To activate your subscription, Click here
 
 [ GET CODIN'! ](https://web.archive.org/first)
+
+_{{ i18n.t('more_options') }}_
 
 ENTER YOUR EMAIL ADDRESS AND WE WILL SEND YOU A LINK TO CHANGE YOUR PASSWORD 
 
