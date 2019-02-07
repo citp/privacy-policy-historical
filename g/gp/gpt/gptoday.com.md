@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gptoday.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222133234id_/https%3A//gptoday.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gptoday.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207151344id_/https%3A//www.gptoday.com/privacypolicy.php) for the most accurate reproduction.*
 
 # F1, Formula 1: GPToday.com- Privacy Policy
 
@@ -15,5 +15,7 @@ Some 3rd parties like Facebook and Twitter may know you visited this website, if
 To allow visitors to discuss our articles and some web pages we use a discussion system called Disqus. Disqus anonymously tracks visitors to pages like we do. They also remember who you are if you login to any Disqus service, so you can comment on any website using their tool.
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via privacy@exponential.com.
 
 We use Cookies on this Site. "Cookies" are small pieces of information that a website sends to your computer's web browser while you are viewing a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience. Persistent Cookies can be removed or blocked by following the help file directions in your Internet browser. If you elect to block Cookies, you may not be able to access certain personalised sections of our website.
