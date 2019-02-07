@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929231220id_/http%3A//www.magazineline.com/en/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazineline.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207101240id_/https%3A//www.magazineline.com/en/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -87,3 +87,7 @@ Federal laws ensure that you will not be liable for more than $50 of fraudulent 
 ### Prefer to Order Via Phone?
 
 Of course, it is no problem if you prefer to place your subscription order by phone, mail, or fax. To order by phone simply call our toll-free sales number: (800) 959-1676. Someone will be there to answer your call 8am - midnight, seven days a week.
+
+### Who We Are
+
+The above policies apply to American Collegiate Marketing, Inc. and the following brands:  MagazineLine, StudentMags, NEA Magazine Service, MTA Magazine Service, and AAUW MagazineLine
