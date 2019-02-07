@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the etutorworld.net privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615115723id_/https%3A//www.etutorworld.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etutorworld.net privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207220815id_/https%3A//www.etutorworld.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Personal Online Tutoring | eTutorWorld |
+# Privacy Policy | eTutorWorld
 
 Effective on March 21, 2015
 
-This privacy statement describes how etutorworld Corporation collects and uses the personal information you provide on our Web site: www.etutorworld.com . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how etutorworld Corporation collects and uses the personal information you provide on our Web site: [www.etutorworld.com](https://www.etutorworld.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Collection and Use of Personal Information
+ **Collection and Use of Personal Information**
 
-### We collect the following personal information from you
+We collect the following personal information from you
 
   * Contact Information such as name, email address, mailing address, phone number
   * Billing Information such as credit card number, and billing address
@@ -28,9 +28,9 @@ Collection and Use of Personal Information
 
 Choice/Opt-Out
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [contact@etutorworld.com](mailto:contact@etutorworld.com).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [contact@etutorworld.com](mailto:contact@etutorworld.com).
 
-### Information Obtained from Third Parties
+ **Information Obtained from Third Parties**
 
 If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
@@ -51,7 +51,7 @@ PayPal
 
 If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal’s privacy policy will apply to the information you provide on the PayPal Web site.
 
-### Cookies and Other Tracking Technologies
+ **Cookies and Other Tracking Technologies**
 
 We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
 
@@ -63,7 +63,7 @@ Our Web pages may also contain electronic images known as Web beacons (sometimes
 
 We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
 
-### Security
+ **Security**
 
 When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at  [contact@etutorworld.com](mailto:contact@etutorworld.com).
 
@@ -71,7 +71,7 @@ In order to make a purchase from us, you must use our shopping cart provider to 
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at contact@worksheets-math.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### Additional Policy Information
+ **Additional Policy Information**
 
 Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
 
@@ -79,18 +79,18 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 Correcting and Updating Your Personal Information
 
-To review and update your personal information to ensure it is accurate, contact us at [contact@etutorworld.com](mailto:contact@etutorworld.com)
+To review and update your personal information to ensure it is accurate, contact us at [contact@etutorworld.com](mailto:contact@etutorworld.com)
 
 Notification of Privacy Statement Changes
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-### Contact Information
+ **Contact Information**
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
 Etutorworld Corporation  
 601 Abbott Road,  
 East Lansing, MI, United States 48823  
-Email: [contact@etutorworld.com](mailto:contact@etutorworld.com)  
+Email: [contact@etutorworld.com](mailto:contact@etutorworld.com)  
 Phone: (269)-763-4602
