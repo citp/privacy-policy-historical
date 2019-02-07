@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalagencynetwork.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929121730id_/https%3A//digitalagencynetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalagencynetwork.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207155840id_/https%3A//digitalagencynetwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
