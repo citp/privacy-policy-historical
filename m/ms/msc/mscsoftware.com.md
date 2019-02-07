@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mscsoftware.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128015439id_/http%3A//www.mscsoftware.com/node/77) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mscsoftware.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207032445id_/https%3A//www.mscsoftware.com/node/77) for the most accurate reproduction.*
 
 # MSC Software Online Privacy Statement
 
