@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanedea.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128222348id_/http%3A//www.spanedea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanedea.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207020119id_/http%3A//www.spanedea.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Tutoring |Online Coaching Classes | Online Home and Private Tutors| Spanedea
 
