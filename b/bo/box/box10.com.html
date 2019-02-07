@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the box10.com privacy policy that was archived on 2018-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181219001801id_/https%3A//www.box10.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the box10.com privacy policy that was archived on 2019-02-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190207105618id_/http%3A//www.box10.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <meta name="google-site-verification" content="69ILjLb0QxIIo6OhuLrquB8aiqC2tiUGssQRs5VNJw0">
@@ -28,109 +28,8 @@
     <script type="text/javascript" src="/js/jquery.jgrowl.js"></script>
     <script type="text/javascript" src="/js/box10.js"></script>
 
-    <!-- PUT THIS TAG IN THE head SECTION -->
-    <script type="text/javascript" src="https://partner.googleadservices.com/gampad/google_service.js">
-    </script>
-    <script type="text/javascript">
-      GS_googleAddAdSenseService("ca-pub-2307787344838998");
-      GS_googleEnableAllServices();
-    </script>
-    <script type="text/javascript">
-      GA_googleAddAttr("PageType", "");
-            GA_googleAddSlot("ca-pub-2307787344838998", "box10com727no1");
-      GA_googleAddSlot("ca-pub-2307787344838998", "box10_300x250");
-      GA_googleAddSlot("ca-pub-2307787344838998", "BOX10-SKY");
-      GA_googleAddSlot("ca-pub-2307787344838998", "box10_mpu_no2");
-      GA_googleAddSlot("ca-pub-2307787344838998", "box10-skyscrapper");
-          </script>
-    <script type="text/javascript">
-      GA_googleFetchAds();
-    </script>
-    <!-- END OF TAG FOR head SECTION -->
-
     
                 
-    <!-- TEST OUT NEW TOPBAR -->
-    <style>
-      .header-new, .header-old {display:none;}
-      .ad-header-placeholder {
-        float:right;
-        height:90px;
-        width:728px;
-      }
-      #top-bar {clear:both;}
-    </style>
-    <script>
-      var cookie = {
-        set: function(name, value, minutes, path)
-        {
-          if (minutes) {
-            var date = new Date();
-            date.setTime(date.getTime() + (minutes * 60 * 1000));
-            var expires = "; expires=" + date.toGMTString();
-          } else {
-            var expires = "";
-          }
-
-          document.cookie =
-            name + "=" + value + expires + "; path=" + (path ? path : '/');
-        },
-        get: function(id)
-        {
-          var name = id + "=";
-          var parts = document.cookie.split(';');
-
-          for (var i = 0, max = parts.length; i < max; i++) {
-            var val = parts[i];
-
-            while (val.charAt(0) == ' ') {
-              val = val.substring(1, val.length);
-            }
-
-            if (val.indexOf(name) == 0) {
-              return val.substring(name.length, val.length);
-            }
-          }
-
-          return null;
-        },
-        qs: function(key)
-        {
-          var re = new RegExp('(?:?|&)' + key + '=(.*?)(?=&|$)','gi');
-          var m;
-          if ((m = re.exec(document.location.search)) !== null) {
-            return m[1];
-          }
-          return '';
-        }
-      };
-
-      if (null === cookie.get("topbar-test")) {
-        var ab = Math.round(Math.random() * 100);
-        cookie.set("topbar-test", ab, 60*24*30 /* 1 month */, "/");
-      } else {
-        var ab = ~~cookie.get("topbar-test");
-      }
-      //console.log(cookie.qs("setab"));
-      //if (cookie.qs("setab")) {
-      //  ab = ~~cookie.qs("setab");
-      //  cookie.set("topbar-test", ab, 60*24*30 /* 1 month */, "/");
-      //}
-
-      if (10 >= ab) {
-        // show new style
-        var css = "#iphonegames {position: static !important;float:left;margin-left:15px;} .header-new {display:block !important;}";
-      } else {
-        // show default style
-        var css = ".header-old {display:block !important;}";
-      }
-
-      var style = document.createElement("style");
-      style.innerHTML = css;
-      document.getElementsByTagName("head")[0].appendChild(style);
-    </script><style>#iphonegames {position: static !important;float:left;margin-left:15px;} .header-new {display:block !important;}</style>
-    <!-- TEST OUT NEW TOPBAR -->
-
     <!-- Google Analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -140,7 +39,7 @@
 
       ga('create', 'UA-965701-4', 'auto');
       //ga("set", "topbar", ab > 10 ? "old" : "new");
-      ga('set', ab > 10 ? 'metric1' : 'topbar', ab > 10 ? 0 : 1);
+      //ga('set', ab > 10 ? 'metric1' : 'topbar', ab > 10 ? 0 : 1);
       ga('send', 'pageview');
     </script>
     <!-- End Google Analytics -->
@@ -160,53 +59,7 @@
     </script>
   </head>
   <body>
-        <div id="page">
-      <div class="header-new">
-        <div id="top-banner" style="text-align:right;margin:0 -5px 10px -5px;">
-          <a id="iphonegames" href="/iphone/"><img src="/images/mobilegamesbutton.png" alt="iPhone"></a>
-          <div class="ad-header-placeholder"></div>
-        </div>
-
-        <div id="top-bar">
-          <div id="tb-inner">
-            <div id="tb-logo">
-              <a href="/?biglogo">
-                <img border="0" src="//beta.box10.com/images/box10-tb.png?1" alt="Box10">
-              </a>
-            </div>
-            <div id="tb-search">
-              <form action="/search.php" method="get">
-                <input class="text" type="text" placeholder="Search..." name="q"><input class="button" type="submit" value=" ">
-              </form>
-            </div>
-            <div id="tb-nav">
-              <div id="tb-nav-inner">
-                <ul>
-                  <li class="tab">
-                    <a href="/action-adventure-games.html">Action</a>
-                  </li>
-                  <li class="tab">
-                    <a href="/girls-games.html">Kids</a>
-                  </li>
-                  <li class="tab">
-                    <a href="/shootem-up-games.html">Shoot'em Up</a>
-                  </li>
-                  <li class="tab">
-                    <a href="/sports-games.html">Sports</a>
-                  </li>
-                  <li class="tab">
-                    <a href="/racing-games.html">Racing</a>
-                  </li>
-                  <li class="tab">
-                    <a href="/platform-games.html">Platform</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div id="tb-bottom"></div>
-        </div>
-      </div>
+    <div id="page">
       <div class="header-old">
                 <div id="banner">
           <table width="100%" cellpadding="0" cellspacing="0" border="0">
@@ -216,7 +69,14 @@
                 <h1>Free Games</h1>
               </td>
               <td width="728">
-                <div class="ad-header-placeholder"></div>
+                <div class="ad-header-placeholder">
+                  <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- box10-top-728-but-automatic-and-responsive -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2307787344838998" data-ad-slot="9862799963" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+                </div>
               </td>
             </tr>
           </tbody></table>
@@ -248,28 +108,6 @@
           </div>
         </div>
       </div>
-      <div class="ad-header-real">
-                  <div class="mj">
-<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT box10com727no1 -->
-<script type="text/javascript">
-  GA_googleFillSlot("box10com727no1");
-</script>
-<!-- END OF TAG FOR SLOT box10com727no1 -->
-</div>
-              </div>
-      <script>
-        var sel = 10 >= ab ? ".header-new" : ".header-old";
-        var _top  = $(".ad-header-placeholder", $(sel)).offset().top;
-        var _left = $(".ad-header-placeholder", $(sel)).offset().left;
-        var _margin = $("#page").offset().left;
-        console.log(_top, _left);
-        $(".ad-header-real").css({
-          top: _top + "px",
-          left: (_left - _margin) + "px",
-          position: "absolute",
-          "z-index": 100
-        });
-      </script>
 <h1>Box10 Privacy Policy</h1>
 <h3>Introduction</h3>Hey Everyone,<p>It’s always very important to be aware of your personal details online, so
           we’re here to tell you some important information like:</p>
@@ -406,7 +244,7 @@
           <br>
           <a href="/latest.html">Latest Searches</a>
         </div>
-        <div id="foot-copy">Box10.com © copyright 2018</div>
+        <div id="foot-copy">Box10.com © copyright 2019</div>
       </div>
       <style>
         #footer {
@@ -441,7 +279,7 @@
         var _gc_centerWidth = 978; // width of your center content in pixels
         var _gc_rnd         = Math.round(Math.random() * 99999999);
         document.write("\x3cscript type='text/javascript' src='https://www.game-clicks.com/delivery/ad.php?id=" + _gc_id + "&t=skin&rand=" + _gc_rnd + "'\x3e\x3c/sc"+"ript\x3e");
-        </script><script type="text/javascript" src="https://www.game-clicks.com/delivery/ad.php?id=60&amp;t=skin&amp;rand=23943494"></script>
+        </script><script type="text/javascript" src="https://www.game-clicks.com/delivery/ad.php?id=60&amp;t=skin&amp;rand=27149069"></script>
         <!-- END SKIN CODE -->
           
     
