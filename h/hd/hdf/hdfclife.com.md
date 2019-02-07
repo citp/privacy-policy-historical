@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdfclife.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029192819id_/https%3A//www.hdfclife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdfclife.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208003318id_/https%3A//www.hdfclife.com/privacy-policy) for the most accurate reproduction.*
 
 # HDFC Life - Privacy Policy
 
