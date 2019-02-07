@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lenscrafters.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215054048id_/https%3A//www.lenscrafters.com/lc-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenscrafters.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207140755id_/https%3A//www.lenscrafters.com/lc-us/privacy-policy) for the most accurate reproduction.*
 
 # LensCrafters Privacy Policy
 
@@ -23,7 +23,7 @@ Email: [privacyoffice@luxotticaretail.com](mailto:privacyoffice@luxotticaretail.
 
   * DIRECT MAIL
 
-  * CHILDREN’S PRIVACY
+  * CHILDREN'S PRIVACY
 
   * ACCESS TO YOUR PERSONAL INFORMATION
 
@@ -44,7 +44,7 @@ HOW WE COLLECT THE INFORMATION
 
 There are many ways that We obtain information from you: (1) via signup on any Pearle Vision website(s); (2) from an online, email, retail, fax or telephone purchase; (3) from navigational information about where visitors go on our website; (4) when you enter a Pearle Vision sweepstakes/giveaway; (5) when you sign up at a Pearle Vision store; (7) upon contacting customer service to request Pearle Vision communications; (8) upon signing up at an event.  
 THE INFORMATION WE COLLECT  
-When you register on-line to receive our product information, you will need to provide us with your name, address and e-mail address. When you make a purchase through Pearle Vision's website, you also will need to give us your telephone number and credit card number so We can process your payment and contact you in the event of any problems with delivery. When you order through Pearle Vision’s website, we collect your name, billing address, shipping address, email address, phone number(s) and credit card number (with expiration date) or gift card number  
+When you register on-line to receive our product information, you will need to provide us with your name, address and e-mail address. When you make a purchase through Pearle Vision's website, you also will need to give us your telephone number and credit card number so We can process your payment and contact you in the event of any problems with delivery. When you order through Pearle Vision's website, we collect your name, billing address, shipping address, email address, phone number(s) and credit card number (with expiration date) or gift card number  
 If you contact our customer service department, you may need to provide Us with additional information so that We can respond to your questions or concerns as completely and thoroughly as possible.
 
 In order to provide users and subscribers with the most efficient and enhanced service and to better understand your preferences, We may request your gender, year of birth, sports of interest, shopping preference and product interest. Whether or not you provide this information is entirely up to you.
@@ -62,7 +62,7 @@ We will primarily use your personal information to provide products and services
 1) To process and fulfill your order, including to send you emails to confirm your order status and shipment, and other related emails  
 2) To administer a contest, promotion, survey or other site feature and to provide you with the relevant products or services (for instance to deliver a prize you may have won in a contest).  
 3) To send you information/materials via e-mail or mail about products, offers and news We think could interest you. This information may relate to products, services, offers and news of Pearle Vision products or any other products and services by any company affiliated with Us.  
-4) To analyze visits to the website and learn about the interests of our visitors as well as visitor’s physical features in the aggregate so we can improve our products and services and deliver the best user experience.  
+4) To analyze visits to the website and learn about the interests of our visitors as well as visitor's physical features in the aggregate so we can improve our products and services and deliver the best user experience.  
 The information obtained during an online purchase is utilized to improve your web experience by enabling you to obtain a faster checkout for purchases and/or opt-in to receive e-mails, which provide you with the latest and greatest information regarding our other products and services.  
 You may, upon placement of an order, opt to allow Us to save the information for a speedier checkout process the next time. Your payment information is then stored only for the purposes of faster checkout and is not used for any other purpose.
 
@@ -86,7 +86,7 @@ SHARING INFORMATION WITH THIRD PARTIES
 We will never sell any information about you to anyone.  
 We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, website evaluation, data analysis and, where applicable, data cleansing. We may need to share personal information with these third parties so that they can perform these services, however, We limit the personal information that We give to them and authorize them to use this information only for the purpose of performing those services.
 
-In proceeding with your online order, you agree that both your name and address and those of the delivery name and address (if different) will be checked using third parties such as credit agencies. If you are providing a delivery name and address which is not your own you must have that person’s permission to give us their personal information and for us to use it for the purposes specified. By providing it you are saying you have their permission.
+In proceeding with your online order, you agree that both your name and address and those of the delivery name and address (if different) will be checked using third parties such as credit agencies. If you are providing a delivery name and address which is not your own you must have that person's permission to give us their personal information and for us to use it for the purposes specified. By providing it you are saying you have their permission.
 
 We share aggregated demographic information about our user base with our agents, including agencies or third party vendors so that they can provide marketing analysis and consult on advertising strategies. This information does not identify individual users. We also may share non-personal information, such as the number of users who visited the website during a specific time period or who purchased a specific product through the website, with our marketing partners, advertisers and others from time to time. This information generally is shared in an aggregated form.
 
@@ -115,7 +115,7 @@ If you would like to update your mailing information or want your name and addre
 
 Top
 
-CHILDREN’S PRIVACY
+CHILDREN'S PRIVACY
 
 If you are under 14, you should surf PearleVision.com only with involvement of a parent or guardian. Although We do not specifically direct our websites, catalogs or e-mails to children, We strive to provide children with as much customer service as possible without violating their privacy rights. For their protection, We ask that anyone under 14 years of age not attempt to register with Pearle Vision or otherwise provide Pearle Vision with any personal information without the consent of a parent or legal guardian.
 
@@ -129,7 +129,7 @@ Top
 
 SECURITY
 
-Our web site’s bunker security system is armed with a sentry system to monitor activity and prevent any unauthorized disclosure of credit card numbers or other personal information. In addition, we utilize a licensed system for credit card authorization and fraud detection. We use industry standard SSL (Secure Sockets Layer) encryption to protect the confidentiality of your personal information.
+Our web site's bunker security system is armed with a sentry system to monitor activity and prevent any unauthorized disclosure of credit card numbers or other personal information. In addition, we utilize a licensed system for credit card authorization and fraud detection. We use industry standard SSL (Secure Sockets Layer) encryption to protect the confidentiality of your personal information.
 
 Top
 
@@ -141,7 +141,7 @@ Top
 
 TRANSPARENCY IN SUPPLY CHAIN DISCLOSURE
 
-Luxottica has adopted both a Code of Conduct and a Code of Ethics, with which employees, business partners and suppliers are expected to comply. Luxottica produces the vast majority of its products at facilities that it owns and where it controls hiring and employment practices. The Codes require that all associated with Luxottica behave ethically and within the bounds of the law, to respect the rights of people’s dignity, health and safety, and that also denounces the use of child labor. Luxottica promotes the safeguarding of workers’ rights, trade union freedom and freedom of association in general.
+Luxottica has adopted both a Code of Conduct and a Code of Ethics, with which employees, business partners and suppliers are expected to comply. Luxottica produces the vast majority of its products at facilities that it owns and where it controls hiring and employment practices. The Codes require that all associated with Luxottica behave ethically and within the bounds of the law, to respect the rights of people's dignity, health and safety, and that also denounces the use of child labor. Luxottica promotes the safeguarding of workers' rights, trade union freedom and freedom of association in general.
 
 Luxottica investigates the reputation and lawfulness of the suppliers it uses, and supervises the observance by its suppliers of its Code of Ethics through frequent company employee visits. The company is in the process to deploy a Global Audit program designed to cover Environmental, Health, Safety & Social aspect.
 
