@@ -1,117 +1,103 @@
-> *The following text is extracted and transformed from the businessfind.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125162313id_/https%3A//www.hover.com/privacy%3Fsource%3Dparked) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessfind.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207105725id_/http%3A//www.businessfind.com/privacy) for the most accurate reproduction.*
 
-# Domains and domain email made simple - Hover
+# Privacy Policy - BusinessFind.com
 
-## Our Privacy and Data Collection Practices
+**www.BusinessFind.com**
 
-Like most online businesses, Hover collects a lot of information on behalf of, and about our customers. We want to help our clients understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email.
 
-The purpose of this document is to share these details with our customers and any else that is interested in these details.
+The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by BusinessFind.com and how it is used.
 
-Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with the various domain registries to facilitate the registration and management of your domain names.
+**Log Files**
 
-We've tried really hard to keep this document simple and readable and if you have any suggestions concerning how we can improve it, please let us know.
+Like many other Web sites, BusinessFind.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-## Account Information
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out http://www.networkadvertising.org/managing/opt_out.asp
 
-When you purchase services from Hover, we create an account for you. This makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
+**Cookies and Web Beacons**
 
-Account data includes:
+BusinessFind.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-  
+**DoubleClick DART Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on BusinessFind.com.
+
+Google's use of the DART cookie enables it to serve ads to users based on their visit to BusinessFind.com and other sites on the Internet.
+
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+
+Some of our advertising partners may use cookies and web beacons on our site.
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on BusinessFind.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+BusinessFind.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. BusinessFind.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+
+**WHAT THIS PRIVACY POLICY COVERS**
+
+**BusinessFind.com takes your privacy seriously. Please read the following to learn more about our privacy policy.**  
+The federal government and technology industry have developedpractical tips to help you guard against Internet fraud, secure your computer and protect your personal information.
+
+**How BusinessFind.com Uses Your Personal Information**  
+This policy covers how BusinessFind.com treats personal information that BusinessFind.com collects and receives, including information related to your past use of BusinessFind.com products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
+
+**BusinessFind.com's participation in the Safe Harbor program**  
+BusinessFind.com participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site. For more information about BusinessFind.com's participation in the Safe Harbor program,
+
+**How do I opt out of interest-based advertising?**  
+If you prefer not to receive interest-based advertising in web browsers, you can always click the "[Opt out](https://web.archive.org/opt-out/)" button on the Ads Preferences Manager. When you are accessing the web through a web browser, BusinessFind.com also offers a number of options to permanently save your opt-out settings in your browser. After you opt out, BusinessFind.com will not collect interest category information and you will not receive interest-based ads via BusinessFind.com when accessing the web through a web browser. You will still see the same number of ads as before, and BusinessFind.com may still show relevant ads based on the content of a web page, or other non-personal information. For example, if you visit a gardening site, BusinessFind.com can determine the content of the site and may automatically show ads related to gardening to all visitors without using a cookie. Additionally, whenever we serve an ad on BusinessFind.com search or on the sites of our AdSense for search partners, the ads which are displayed may still be based on the search terms you enter.
+
+If you prefer not to receive interest-based advertising in applications and other clients that use anonymous identifiers, you can always opt out using the appropriate preferences manager.
+
+**INFORMATION COLLECTION AND USE**
+
+**General**  
+BusinessFind.com collects personal information when you register with BusinessFind.com, when you use BusinessFind.com products or services, when you visit BusinessFind.com pages or the pages of certain
+
+When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with BusinessFind.com and sign in to our services, you are not anonymous to us.
+
+BusinessFind.com collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
+
+BusinessFind.com automatically receives and records information from your computer and browser, including your IP address, BusinessFind.com cookie, software and hardware attributes, and the page you request.
+
+BusinessFind.com uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+
+**INFORMATION SHARING AND DISCLOSURE**  
+BusinessFind.com does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+
+  * We provide the information to trusted partners who work on behalf of or with BusinessFind.com under confidentiality agreements. These companies may use your personal information to help BusinessFind.com communicate with you about offers from BusinessFind.com and our marketing partners. However, these companies do not have any independent right to share this information.
+  * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing BusinessFind.com to collect and use their child's information without consenting to BusinessFind.com sharing of this information with people and companies who may use this information for their own purposes.
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of BusinessFind.com's terms of use, or as otherwise required by law.
+  * We transfer information about you if BusinessFind.com is acquired by or merged with another company. In this event, BusinessFind.com will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+
+BusinessFind.com displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.
+
+  * BusinessFind.com does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+  * BusinessFind.com advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
+
+BusinessFind.com works with vendors, partners, advertisers, and other service providers in different industries and categories of business.
 
 
-• the name of the account holder;
-
-• the mailing address of the account holder;
-
-• a primary and secondary email address associated with the account holder and any other individual that the account holder wishes to designate;
-
-• a credit card number, expiry and verification code;
-
-Registration contact data includes:
-
-  
 
 
-• the name of the owner and administrative contact(s)
+**COOKIES**  
+BusinessFind.com may set and access BusinessFind.com cookies on your computer.
 
-• the address of the owner and administrative contact(s)
+BusinessFind.com lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to BusinessFind.com's cookies.
 
-• the phone number of the owner and administrative contact(s)
+Your Ability to Edit and Delete Your Account Information and Preferences
 
-• the email address for the owner and administrative contact(s)
+**General**  
+You can edit your [BusinessFind.com Account Information](https://web.archive.org/accounts/), including your marketing preferences, at any time.
 
-## Our use of your account data
+New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
 
-Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
+We reserve the right to send you certain communications relating to the BusinessFind.com service, such as service announcements, administrative messages and the BusinessFind.com Newsletter, that are considered part of your BusinessFind.com account, without offering you the opportunity to opt out of receiving them.
 
-We share this data programmatically with Mailchimp for the purpose of sending your notifications and updates about our services and Paypal, for the purpose of billing your credit card.
+You can delete your BusinessFind.com account by visiting our [Account Deletion page](https://web.archive.org/accounts/).
 
-Hover relies on tokens generated by Paypal to trigger billable events. Hover retains the last 4 digits of the credit card, the type of credit card and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not useable for any billing or charging purposes.
-
-Hover shares your name, email address and demographic information with Mailchimp for the purpose of sending you various notifications related to your account. You may choose which notifications you receive under the Settings link in your Hover account management tools. Neither Paypal nor Mailchimp may ever use your data for their own purposes without our explicit consent or notice to us.
-
-Hover may share your account data with law enforcement agencies on a case-by-case basis. We may or may not notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. Again, we evaluate these requests on a case-by-case basis and we may or may not notify you if this happens.
-
-We may use your account data to contact you concerning a dispute related to your account, or for verification purposes to make sure no one else is accessing your account.
-
-Hover does not share your account data with any other parties for any other reasons.
-
-## Our use of your registration data
-
-Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the registry that manages the TLD you are registering in, for example, Verisign, CIRA, Nominet and others. Hover is also required by ICANN to escrow your registration data with Iron Mountain. They are not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be a domain registrar.
-
-ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Administrative Contact for the domain registration in question for this purpose. Hover sends this email to the Administrative Contact directly and does not use a third party service to facilitate this mailing.
-
-We may use your registration data to contact you concerning a dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
-
-We never sell this information.
-
-## WHOIS
-
-Hover is required by most domain registries and ICANN to publish your registration data in a publicly accessible database called "Whois".
-
-Whois is a publicly accessible database that publishes the contact information associated with domain name registrants. In most cases you may choose not to have your contact information published in the WHOIS. Some top-level domains, like .US and others, may not allow you to opt-out of publication.
-
-Many Registries allow for the use of WHOIS Privacy services, but many others do not. Support (or lack of support for) WHOIS Privacy is noted during the checkout process, and also noted in the Hover dashboard when viewing the details for each domain you own.
-
-[This tutorial](https://help.hover.com/entries/21196313) can help you with controlling the publication of your information in WHOIS.
-
-It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
-
-Your personal information is still known to the registries and the people who work here and to anyone who may view your Whois information should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way.
-
-## Domain Search Information
-
-When you search for a domain name to register, you provide us with search terms and phrases that we compare to the lists of domain names that are available for registration and display the results to you.
-
-We never sell the search information you provide to us.
-
-We use this information solely to help you find a suitable domain name to register and to improve the relevancy of our search results. We do not use it for any other purposes. We may provide it to law enforcement agencies if they request it pursuant to appropriate due process.
-
-## Customer Service Information
-
-We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
-
-When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
-
-## Electronic Newsletters and Unsubscribe Policy
-
-When you signed up with Hover, you may have given us permission to send you news and announcements about our services. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. You can also remove yourself from our mailing list by sending an email request to [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm ).
-
-## Data Analytics
-
-We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to our analytics vendors. Data collected helps us understand how people use our website so that we can improve it. We use a variety of third party services to help us collect and analyze this data, including Google Analytics and Mouseflow.
-
-From time to time, we may use other services in addition to these, either to evaluate their effectiveness for long-term use, or to gather information about a very specific question we have. If you ever have any questions about which third party services we are currently using, please don't hesitate to ask us. Any services we have made a long-term commitment to will always be listed here.
-
-## Surveys
-
-Occasionally, we send out surveys intended to help us better understand how you use our services and how we can improve them. We never sell the information collected through these surveys.
-
-Hover uses Delighted, a third-party service, to facilitate sending and collection of customer satisfaction surveys. Data collected by Delighted is used only by Hover, and not shared with any other third-parties.
-
-## How to contact us
-
-Phone: 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm)
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
