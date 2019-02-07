@@ -1,61 +1,65 @@
-> *The following text is extracted and transformed from the cloudstor.es privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184852id_/http%3A//cloudstor.es/policies/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudstor.es privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207111024id_/https%3A//firedrop.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Cloudstores
+# Privacy Policy - Firedrop
 
-_Simplified Version: Cloudstores will never share your personal information with advertisers or spammers, period._
+**What is this Privacy Policy for?**
 
-Cloudstores Ltd has created this privacy statement in order to demonstrate our commitment to our users' privacy. The following discloses the information gathering and dissemination practices for www.cloudstor.es including the following:
+This privacy policy is for this website firedrop.com and served by Firedrop LTD and governs the privacy of its users who choose to use it. 
 
-**What personally identifiable information Cloudstores Ltd collects.**  
-What personally identifiable information third parties collect through this web site.  
-What organization collects the information.  
-How Cloudstores Ltd uses the information.  
-With whom Cloudstores Ltd may share user information.  
-What choices are available to users regarding collection, use and distribution of the information.  
-What type of security procedures are in place to protect the loss, misuse or alteration of information under Cloudstores' control.  
-How users can correct any inaccuracies in the information.
+The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy. 
 
-If you have any questions or concerns regarding this privacy statement, please send them to privacy@cloudstor.es.  
-What personally identifiable information Cloudstores Ltd collects
+**The Website**
 
-Cloudstores Ltd is the sole owner of the information collected on cloudstor.es.  
-Cloudstores Ltd collects information from our users at several different points on our web site.
+This website and its owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website comply's to all UK national laws and requirements for user privacy.
 
-**Registration**  
-In order to access the membership areas of this web site, a user must first complete a registration form. During registration a user is required to give contact information including name and email address. We use this information to ensure account security and uniqueness and to contact a user in case a problem occurs. In addition, registered users must provide payment information (such as credit card number and expiration date). This information is used for billing purposes only. If we have trouble processing an order, the information is used to contact the user.
+**Use of Cookies**
 
-**How Cloudstores Ltd uses the information**
+This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user's computer / device.
 
-**Account Profile**  
-A profile is stored information that is kept on individual users that details their viewing preferences. Cloudstores Ltd does not use stored user settings for marketing purposes. User settings are kept solely for the purpose of customizing our paying users' visits. We do not share your profile with other third parties.
+Cookies are small files saved to the user's computers hard drive that track, save and store information about the user's interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website.  
+Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.
 
-**Cookies**  
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. For the session ID cookie, once you close your browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following your browser's help file directions.
+This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information [ http://www.google.com/privacy.html ].
 
-We use a session cookie to control access to our membership areas.
+Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
 
-If you are a member and you have checked the "Log Me In Automatically" box on our home page, we store your user ID and password in persistent cookies so that you do not need to re-enter that information each time you visit the site.
+**Contact & Communication**
 
-If you reject the use of cookies, you will not be able to use any of the services provided by Cloudstores Ltd
+Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
 
-**Third Party Advertisers**  
-The ads appearing on this web site are delivered to the users by either Google or Valueclick Media, our web advertising partners. Information about the users' visit to this site, such as number of times they have viewed an ad (but not personal information like user name and password) is used to serve ads to users on this site.
+**Email Newsletter**
 
-This privacy statement covers the use of cookies by Cloudstores Ltd only and does not cover the use of cookies by any other advertisers.
+This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.
 
-**Log Files**  
-Like most web sites, we use web server log files. Records in our log files include internet protocol (IP) addresses, browser types, internet service providers (ISP's), referring pages, exit pages, platform types, and date/time stamps. We use web server log files to administer the site, to provide broad traffic information for site planning purposes, and to ensure that our terms of service agreement is being adhered to. IP addresses are not tied to personally identifiable information in our web server log files.
+Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website's email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.
 
-**Links**  
-This web site contains links to other sites. Please be aware that we, Cloudstores Ltd, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that they visit. This privacy statement applies solely to information collected by this web site.  
-Notification of Changes
+Email marketing campaigns published by this website or its owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity.
 
-If we decide to change our privacy policy, we will post those changes on this web site and place a notice of such changes on our home page and other places we deem appropriate.
+This information is used to refine future email campaigns and supply the user with more relevant content based around their activity. In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead. 
 
-If we decide to start using users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users via email and/or by posting a notice on our web site for 30 days.
+**External Links**
 
-**Contact Information**
+Although this website only looks to include quality, safe and relevant external links, users are advised adopt a policy of caution before clicking any external web links mentioned throughout this website. (External links are clickable text / banner / image links to other websites.  
+The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
 
-If you have any questions or suggestions regarding our privacy policy, please contact us using our web-based feedback form or by sending email to privacy@cloudstor.es 
+**Adverts and Sponsored Links**
+
+This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.  
+Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will track the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+
+**Social Media Platforms**
+
+Communication, engagement and actions taken through external social media platforms that this website and its owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.  
+Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor its owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.  
+This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
+
+**Shortened Links in Social Media**
+
+This website and its owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy urls. Users are advised to take caution and good judgement before clicking any shortened urls published on social media platforms by this website and its owners. Despite the best efforts to ensure only genuine urls are published many social media platforms are prone to spam and hacking and therefore this website and its owners cannot be held liable for any damages or implications caused by visiting any shortened links.
+
+**Resources & Further Information**
+
+[Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)  
+[Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)
