@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115000350id_/https%3A//www.apartments.com/advertise/disclaimers/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207194840id_/https%3A//www.apartments.com/about/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Our Privacy Statement | Apartments.com
 
 The Privacy Statement (the “Statement”) that follows describes the collection, use and disclosure of information practices by Apartments.com and its affiliates (“us” or “we”) in connection with the operation of our websites www.apartments.com, www.apartmenthomeliving.com, and our related mobile applications, (collectively, the “Site”). This Statement applies to the national version of Apartments.com as well as to any other versions or pages of Apartments.com that we operate, including a version of the Site that you may have arrived at from a distribution partner’s website. 
 
