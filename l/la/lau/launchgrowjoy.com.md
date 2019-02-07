@@ -1,58 +1,66 @@
-> *The following text is extracted and transformed from the launchgrowjoy.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175034id_/https%3A//www.launchgrowjoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchgrowjoy.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207145506id_/https%3A//www.launchgrowjoy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Launch Grow Joy
 
-**What information do we collect?**
+**LAST UPDATE: May 25, 2018**
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+## Launch Grow Joy Privacy Policy
 
-**What do we use your information for?**
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from www.launchgrowjoy.com (the “Site”).
 
-Any of the information we collect from you may be used in one of the following ways:
+PERSONAL INFORMATION WE COLLECT
 
-– To process transactions: Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
-– To administer a contest, promotion, survey or other site feature
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-**How do we protect your information?**
+We collect Device Information using the following technologies:
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server.
+– “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
 
-All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+– “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.  
+– “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+Additionally, when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. We refer to this information as “Order Information.”
 
-**Do we use cookies?**
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+## HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:  
+– Communicate with you;  
+– Screen our orders for potential risk or fraud; and  
+– When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
-**Do we disclose any information to outside parties?**
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+## SHARING YOUR PERSONAL INFORMATION
 
-**Childrens Online Privacy Protection Act Compliance**
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Infusionsoft to power our online store and to process your payments and send you emails. You can read more about how Infusionsoft uses your personal information here – https://www.infusionsoft.com/legal/privacy-policy.  We also use Google Analytics to help us understand how our customers use the Site–you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-**Terms and Conditions**
+## DO NOT TRACK
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.launchgrowjoy.com/terms-conditions/
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-**Your Consent**
+## YOUR RIGHTS
 
-By using our site, you consent to our websites privacy policy.
+If you are a European resident, you have the right to access the personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-**Changes to our Privacy Policy**
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
+## DATA RETENTION
 
-This policy was last modified on October 8, 2013
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
-**Contacting Us**
+## MINORS
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+The Site is not intended for individuals under the age of 18.
 
-http://www.launchgrowjoy.com  
-PO Box 456, Boulder, CO 80306 USA  
-303.482.2988
+## CHANGES
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+CONTACT US  
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at launchgrowjoy@gmail.com or by mail using the details provided below:
+
+PO Box 271761, Fort Collins, CO, 80527, United States
