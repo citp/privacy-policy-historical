@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingbomb.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209165000id_/http%3A//pingbomb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingbomb.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208005814id_/http%3A//pingbomb.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PingBomb
 
@@ -35,7 +35,7 @@ When you interact with us through the Services, we may collect information from 
 **c. Aggregated information:** In an ongoing effort to better understand and serve the users of the Services, we may conduct research on our customer demographics, interests and behaviour based on the information collected. We may also disclose aggregated and anonymized user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes. 
 
 **d. Cookies:** Like almost all online websites we employ cookies and similar technologies to keep track of your local device's settings and which account you are logged into. Cookies are small pieces of data that websites and services can set on your browser or device that can be read at a later date. In addition to Cookies we may also use web beacons and single pixel gifs to log Email opens.  
-See our [Cookies Policy](https://web.archive.org/web/20181209165000id_/http%3A//pingbomb.com/cookies.php) for more information. 
+See our [Cookies Policy](https://web.archive.org/web/20190208005814id_/http%3A//pingbomb.com/cookies.php) for more information. 
 
 **e. DoubleClick DART Cookies:**
 
@@ -48,7 +48,7 @@ Google Adsense
 **f. Cookies (third party):** We use third party web site analytic tools such as Google Analytics on our Website that employ cookies to collect certain information concerning your use of our Services. However, you can disable cookies by changing your browser settings. Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider's website via your help screen.  
 We have specifically instructed Google to not share your information with their third parties.  
 We use IP Anonymization on Google Analytics.  
-See our [Cookies Policy](https://web.archive.org/web/20181209165000id_/http%3A//pingbomb.com/cookies.php) for more information. 
+See our [Cookies Policy](https://web.archive.org/web/20190208005814id_/http%3A//pingbomb.com/cookies.php) for more information. 
 
 ## Why do we process your personal data & how will it be used
 
