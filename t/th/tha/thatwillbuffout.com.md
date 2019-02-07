@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatwillbuffout.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314061735id_/http%3A//thatwillbuffout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatwillbuffout.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207074131id_/http%3A//www.thatwillbuffout.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
