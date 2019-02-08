@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the guardian.com.sg privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923231819id_/https%3A//www.guardian.com.sg/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian.com.sg privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208211549id_/https%3A//www.guardian.com.sg/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Guardian Health & Beauty | Guardian
+# Privacy Policy | Guardian Health & Beauty | Guardian SG
+
+Item(s) added to my list.
 
 We take your privacy seriously and we will only collect and use personal data as stated in this Privacy Policy.
 
@@ -9,7 +11,6 @@ We take your privacy seriously and we will only collect and use personal data as
 1.1 We will only use or disclose your personal data with your consent or as authorised by applicable laws and regulations. The personal data collected may include:
 
   * Name
-  * NRIC/ Passport Number
   * Date of birth
   * Gender
   * Home address
@@ -107,6 +108,6 @@ We take your privacy seriously and we will only collect and use personal data as
 
 ### _8\. Contact Us_
 
-8.1 If you have any questions about our data protection policy or practices, you may contact our Data Protection Officer via email ([GDDPO@guardian.com.sg](mailto:GDDPO@guardian.com.sg)) or by telephone (1800 891 81001800 891 8100).
+8.1 If you have any questions about our data protection policy or practices, you may contact our Data Protection Officer via email ([DPO@dairy-farm.com.sg](mailto:DPO@dairy-farm.com.sg)) or by telephone (1800 891 81001800 891 8100).
 
 8.2 All our emails will contain a link to this privacy policy and the physical, summonable address of our company: 21, Tampines North Drive 2 #03-01 Singapore 528765
