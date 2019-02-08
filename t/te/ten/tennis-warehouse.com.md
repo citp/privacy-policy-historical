@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennis-warehouse.com privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606211727id_/http%3A//www.tennis-warehouse.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennis-warehouse.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208021308id_/https%3A//www.tennis-warehouse.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
