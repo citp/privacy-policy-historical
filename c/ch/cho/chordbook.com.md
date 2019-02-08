@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chordbook.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706161834id_/https%3A//chordbook.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chordbook.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208232743id_/https%3A//chordbook.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
