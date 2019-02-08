@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the office-converter.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208172526id_/https%3A//www.office-converter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office-converter.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208073454id_/https%3A//www.office-converter.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Converter [ Office Converter ] Free Online Convert Video, Audio, Image, Documents and Archives for free.
 
