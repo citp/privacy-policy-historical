@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the top-hashtags.com privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709011707id_/https%3A//top-hashtags.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top-hashtags.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208022428id_/https%3A//top-hashtags.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Top Hashtags for Instagram and Twitter
+# Privacy Policy – Top-Hashtags.com
 
 ### Privacy Policy
 
@@ -58,7 +58,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * if you have previously agreed to us using your personal information, you may change your mind at any time by writing to or emailing us at contact@Top-Hashtags.com;
+  * if you have previously agreed to us using your personal information, you may change your mind at any time by writing to or emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection);
 
 
 
