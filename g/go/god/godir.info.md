@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godir.info privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101120544id_/http%3A//godir.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godir.info privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208212515id_/http%3A//godir.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Kitchen Backsplash
 
