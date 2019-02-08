@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the contracthireandleasing.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902105456id_/https%3A//leasing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contracthireandleasing.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208112104id_/https%3A//leasing.com/privacy-terms) for the most accurate reproduction.*
 
-# Privacy Policy and Terms of Use | Contract Hire And Leasing
+# Privacy Policy and Terms of Use | Leasing.com
 
-At ContractHireAndLeasing.com (a website operated by Really Good Domains Ltd (company number: 03934283)) we are committed to protecting your data and privacy.
+At Leasing.com (a website operated by Leasing.com Group Ltd (company number: 03934283)) we are committed to protecting your data and privacy.
 
 We have published this data protection guide to ensure that you are fully aware of how and why we collect information about you, to whom such information is disclosed and what your rights are. You should ensure that you have read and understood this guide before providing your information to us.
 
@@ -10,33 +10,33 @@ This guide, along with our **Terms of Use** and **Cookie Policy** sets out how w
 
 ## PRIVACY POLICY
 
-## What personal information do we collect and how do we obtain it?
+### What personal information do we collect and how do we obtain it?
 
 We receive your personal information when you complete any of the forms on any of our websites, register to receive our newsletter or enter one of our competitions.
 
 We also use cookies on our website which may (with your consent) collect personal information about you. Please see our **Cookie Policy** for further information. Please see the “How do we use your information?” section below for further details of the personal information we collect.
 
-## How do we use your personal information?
+### How do we use your personal information?
 
 The table below sets out how we may use the different types of personal information we collect from you and our lawful basis for doing so.
 
-Personal data collected| How we use such personal data| Lawful basis  
+Personal data collected | How we use such personal data | Lawful basis  
 ---|---|---  
-Email address you provide to us on subscription to our newsletter. | To send you our weekly newsletter containing our latest offers, details of our new website content and third party links and to invite you to register for an account with us. | Your consent.   
-Email address you provide to us to receive search alerts in respect of particular search criteria. | Initially, to contact you by the email address provided to confirm your details and invite you to register for an account with us. Once you have confirmed your email address, we will contact you with news, price and deal updates in respect of the search parameters you have included at such frequency as you have requested. | Your consent.   
-The name, email address, telephone number (if you have chosen to provide this) and any additional information provided to us when you complete your request to “Get a Quote”. | We will share the details you have provided to us with the applicable advertiser to enable them to contact you to discuss/provide a quote. These details will also be held in the advertiser’s account on our website. After we have shared your details with the advertiser we will retain these in accordance with our retention policy for our internal verification processes to determine the conversion rate of quotes requested through our website. We may also use the email address you provide to contact you by email following your request for a quote to seek your feedback on your experience of using our website, to invite you to register for an account with us, to invite you to participate in competitions and surveys we may operate from time to time - and to contact you again around the expiry date of your proposed hire/lease deal with details of our current products, offers and services. | We will use this personal information to carry out your request for a quote. Our retention and use of your personal information thereafter is based on our legitimate interests of measuring the effectiveness of our website, the value our advertisers are obtaining from advertising on our website and promoting our offers and services to existing users at a time when we think they may be of interest to our users.   
-Email address you provide to us when you register for an account with us and details of your enquiries, searches and viewed offers. Note: if you register/login using your social network, please see below. | To enable you to create an account to be accessed using our website and which enables you to view and manage your advertiser enquiries, view your searches and your saved searches and re-visit offers that you have previously shown an interest in on our website. | Provision of our ‘my account’ services to you.   
-Email address we extract from your social media account (Facebook, LinkedIn, Gmail, Twitter and/or Microsoft) when you register for an account with us. | To enable you to create an account to be accessed using our website and which enables you to view and manage you advertiser enquiries, view your searches and your saved searches and re-visit offers that you have previously shown an interest in on our website. | Provision of our ‘my account’ services to you.   
-IP address | We will retain your IP address when you enter and browse our website. We will use your IP address to monitor the performance of our website, to investigate security issues, to monitor how you use our website (the pages you access, the time spent on each page, the frequency at which you visit our website and other related factors) and to provide relevant advertisements relating to our products to you (unless you set your browser settings to tell us that you do not wish us to do so). | Your consent.   
-Name, email address and/or telephone number provided by you during the use of our website. | To contact you to discuss services that have been requested by you. | We will use these personal details to carry out any services requested by you.   
-Other details provided by you on entry into any of our competitions. | We may, from time to time, offer competitions on our website. In the event that you choose to enter such competitions, we will let you know in advance how we intend to use the details you provide for entry into such competitions. | N/A   
-Telephone conversations you have with our advertisers where these have been recorded (you will be notified in advance where this is the case). | We will store these recordings on our secure server for approximately 30 days following such recording. These will be available to the relevant advertiser for its reference during this time. We will review these recordings for customer service and quality monitoring purposes. | Your consent and our legitimate interests of monitoring our service quality.   
+Email address you provide to us on subscription to our newsletter.  | To send you our weekly newsletter containing our latest offers, details of our new website content and third party links and to invite you to register for an account with us.  | Your consent.   
+Email address you provide to us to receive search alerts in respect of particular search criteria.  | Initially, to contact you by the email address provided to confirm your details and invite you to register for an account with us. Once you have confirmed your email address, we will contact you with news, price and deal updates in respect of the search parameters you have included at such frequency as you have requested.  | Your consent.   
+The name, email address, telephone number (if you have chosen to provide this) and any additional information provided to us when you complete your request to “Get a Quote”.  | We will share the details you have provided to us with the applicable advertiser to enable them to contact you to discuss/provide a quote. These details will also be held in the advertiser’s account on our website. After we have shared your details with the advertiser we will retain these in accordance with our retention policy for our internal verification processes to determine the conversion rate of quotes requested through our website. We may also use the email address you provide to contact you by email following your request for a quote to seek your feedback on your experience of using our website, to invite you to register for an account with us, to invite you to participate in competitions and surveys we may operate from time to time - and to contact you again around the expiry date of your proposed hire/lease deal with details of our current products, offers and services.  | We will use this personal information to carry out your request for a quote. Our retention and use of your personal information thereafter is based on our legitimate interests of measuring the effectiveness of our website, the value our advertisers are obtaining from advertising on our website and promoting our offers and services to existing users at a time when we think they may be of interest to our users.   
+Email address you provide to us when you register for an account with us and details of your enquiries, searches and viewed offers. Note: if you register/login using your social network, please see below.  | To enable you to create an account to be accessed using our website and which enables you to view and manage your advertiser enquiries, view your searches and your saved searches and re-visit offers that you have previously shown an interest in on our website.  | Provision of our ‘my account’ services to you.   
+Email address we extract from your social media account (Facebook, LinkedIn, Gmail, Twitter and/or Microsoft) when you register for an account with us.  | To enable you to create an account to be accessed using our website and which enables you to view and manage you advertiser enquiries, view your searches and your saved searches and re-visit offers that you have previously shown an interest in on our website.  | Provision of our ‘my account’ services to you.   
+IP address  | We will retain your IP address when you enter and browse our website. We will use your IP address to monitor the performance of our website, to investigate security issues, to monitor how you use our website (the pages you access, the time spent on each page, the frequency at which you visit our website and other related factors) and to provide relevant advertisements relating to our products to you (unless you set your browser settings to tell us that you do not wish us to do so).  | Your consent.   
+Name, email address and/or telephone number provided by you during the use of our website.  | To contact you to discuss services that have been requested by you.  | We will use these personal details to carry out any services requested by you.   
+Other details provided by you on entry into any of our competitions.  | We may, from time to time, offer competitions on our website. In the event that you choose to enter such competitions, we will let you know in advance how we intend to use the details you provide for entry into such competitions.  | N/A   
+Telephone conversations you have with our advertisers where these have been recorded (you will be notified in advance where this is the case).  | We will store these recordings on our secure server for approximately 30 days following such recording. These will be available to the relevant advertiser for its reference during this time. We will review these recordings for customer service and quality monitoring purposes.  | Your consent and our legitimate interests of monitoring our service quality.   
   
-## You may withdraw your consent at any time
+### You may withdraw your consent at any time
 
 Some of our use of your personal information is subject to the lawful basis of “consent” (you will be able to see where this is the case in the table above). You are able to withdraw your consent to such processing at any time by either contacting us using the contact details set out below or following the “opt-out” link in each communication we send to you. Please note that if you do opt-out we can no longer contact you with our latest news and offers or details of any search alerts you have requested.
 
-## Sharing your personal data
+### Sharing your personal data
 
 As referred to above, **** in order to provide a quote to you, we will need to share your details with the advertiser from whom you have requested a quote.
 
@@ -44,21 +44,21 @@ This privacy policy does not include details of how such advertiser may use and 
 
 We also use third party mailing companies to: manage our customer database, send out newsletters and offers on our behalf, and collect your feedback. We will share your personal information with these third parties to the extent required for them to provide these services on our behalf.
 
-## Required disclosures to third parties
+### Required disclosures to third parties
 
 We may make the following disclosures of your personal information to third parties where required:
 
   * In the event that we sell or buy any business or assets, in which case we will disclose your personal data which we hold to the prospective seller or buyer of such business or assets. 
 
 
-  * If Really Good Domains Limited or substantially all of its assets are acquired by a third party, in which case personal data held by us about our customers/users will be one of the transferred assets. 
+  * If Leasing.com Group Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by us about our customers/users will be one of the transferred assets. 
 
 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our **Terms of Use**; or to protect the rights, property, or safety of Really Good Domains Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our **Terms of Use**; or to protect the rights, property, or safety of Leasing.com Group Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
 
 
-## Where we store your personal data
+### Where we store your personal data
 
 We will not transfer any personal data we collect from you to a destination outside the European Economic Area.
 
@@ -84,13 +84,13 @@ We protect your personal information in the following ways:
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our website; any transmission is at your own risk. Once we have received your personal information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-## Receipt of personal information
+### Receipt of personal information
 
 If you do not want to continue to be contacted by us please contact us using the contact details set out below or by following the opt-out link in each communication we send to you.
 
 You may continue to receive communications on route to you for a short period of time while your suppression is being processed.
 
-## Retention of personal information
+### Retention of personal information
 
 We will retain your personal information for such time as you still wish to receive our offers and newsletters or hold an account with us. In the event that we are holding your personal information because you have requested a quote from us, we will keep such personal information for the length of the proposed deal in respect of which you have made an enquiry unless you notify us that you wish us to remove your personal information before such time.
 
@@ -98,7 +98,7 @@ We may also be required to keep your data for such longer periods as is required
 
 We will retain your personal information provided to us for the purpose of registering for and using an account with us for such time as you wish to continue to hold an account with us. We will retain your IP address for approximately thirty days following collection, following which time they will be deleted.
 
-## You have various rights in respect of your personal information
+### You have various rights in respect of your personal information
 
 You have various rights in respect of your personal information, as follows:
 
@@ -121,27 +121,29 @@ You have various rights in respect of your personal information, as follows:
 
 
 
-If you wish to exercise any of these rights, please contact us at info@contracthireandleasing.com or Really Good Domains Ltd, Domain House, 4 Watchgate, Newby Road, Hazel Grove, Stockport, SK7 5DB.
+If you wish to exercise any of these rights, please contact us at info@leasing.com or Leasing.com Group Ltd, Domain House, 4 Watchgate, Newby Road, Hazel Grove, Stockport, SK7 5DB.
 
-## We may make changes to our privacy policy
+### We may make changes to our privacy policy
 
 Any changes we make to our privacy policy in the future will be posted on this website and notified to you the first time you access our website following such change.
 
-## Your right to make a complaint in respect of our use of your personal information
+### Your right to make a complaint in respect of our use of your personal information
 
 You have the right to complain in respect of our use of your personal data. If you are a UK resident, your complaint would normally be addressed to the Information Commissioner’s Office. Please contact us before you escalate your complaint.
 
-## You can contact us in respect of your personal information
+### You can contact us in respect of your personal information
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Really Good Domains Ltd, Domain House, 4 Watchgate, Newby Road, Hazel Grove, Stockport, SK7 5DB. Our contact is Michaela Syzling and she can be contacted at michaelas@reallygooddomains.com.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Leasing.com Group Ltd, Domain House, 4 Watchgate, Newby Road, Hazel Grove, Stockport, SK7 5DB. Our contact is Michaela Syzling and she can be contacted at Michaela.syzling@leasing.com.
 
-At ContractHireAndLeasing.com we use cookies to help improve our website and make your browsing experience more useful, more relevant and tailored to you. In order to comply with recent legislation and in the interests of transparency, we have updated our privacy policy to give you clearer information on the way we use technology such as cookies and how they affect your privacy.
+## Cookie Policy and Your Privacy
 
-## What are Cookies?
+At Leasing.com we use cookies to help improve our website and make your browsing experience more useful, more relevant and tailored to you. In order to comply with recent legislation and in the interests of transparency, we have updated our privacy policy to give you clearer information on the way we use technology such as cookies and how they affect your privacy.
+
+### What are Cookies?
 
 Cookies are small encrypted text files that are stored on your computer or other device by our websites. They are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-## Types of Cookies
+### Types of Cookies
 
  **Session Cookies**
 
@@ -171,7 +173,7 @@ If you use the buttons that allow you to share products and content with your fr
 
 
 
-## How Do I Opt Out of Cookies?
+### How Do I Opt Out of Cookies?
 
 To make full use of the features on our site you will need to accept cookies, as we can only provide you with certain personalised features of this website by using them.
 
@@ -181,9 +183,9 @@ Please visit [**www.youronlinechoices.com**](http://www.youronlinechoices.com/) 
 
 ## TERMS OF USE
 
-## Conditions of using this website
+### Conditions of using this website
 
- **1.** We (Really Good Domains Ltd) provide this website (as renamed, relocated, re-designed or otherwise changed from time to time) (Website). We are a limited company registered in England and Wales (registration number 3934283) and our registered office is at Domain House, 4 Watchgate, Newby Road, Hazel Grove, Stockport, SK7 5DB.
+ **1.** We (Leasing.com Group Ltd) provide this website (as renamed, relocated, re-designed or otherwise changed from time to time) (Website). We are a limited company registered in England and Wales (registration number 3934283) and our registered office is at Domain House, 4 Watchgate, Newby Road, Hazel Grove, Stockport, SK7 5DB.
 
  **2.** We legally own a wide range of intellectual property rights used in and relating to the Website, including:
 
@@ -193,7 +195,7 @@ Please visit [**www.youronlinechoices.com**](http://www.youronlinechoices.com/) 
 
      3\. in all the software used in relation to this Website.
 
-## About these conditions
+### About these conditions
 
  **1.** For the purpose of these conditions, we refer to the Website and the database collectively as 'the Website'.
 
