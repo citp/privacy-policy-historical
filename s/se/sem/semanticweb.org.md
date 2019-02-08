@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semanticweb.org privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209054112id_/http%3A//semanticweb.org/wiki/semanticweb.org.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semanticweb.org privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208110135id_/http%3A//semanticweb.org/wiki/semanticweb.org.html) for the most accurate reproduction.*
 
 # semanticweb.org.edu:Privacy policy - semanticweb.org.edu
 
