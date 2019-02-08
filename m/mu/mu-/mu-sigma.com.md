@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mu-sigma.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917143001id_/https%3A//www.mu-sigma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mu-sigma.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208042048id_/https%3A//www.mu-sigma.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mu Sigma
 
@@ -35,7 +35,7 @@ We collect and process personal information as a Data Controller, in the followi
 
   * As part of our Marketing and Sales process, to market and sell our Solutions and Services
 
-  * During your visit to our website, either through designated web-forms or through automated means such as cookies
+  * During your visit to our website, either through designated web-forms or through automated means such as [cookies](https://www.mu-sigma.com/cookie-policy)
 
   * As a part of Recruitment Process, in order to engage suitable human resource professionals into our global team
 
@@ -48,7 +48,7 @@ We also collect and process personal information as a part of our internal proce
 
 Mu Sigma Provides Data Analytics and Decision Science Solutions and Services to our global customers. Though Mu Sigma does not engage individuals directly nor collect personal information directly from them in this process, the personal information collected by our customers might be processed by Mu Sigma, directly or indirectly, as a part of the fulfillment of the Solutions and Service Delivery. Such processing is carried out, on behalf of our customers. In this way, Mu Sigma acts as Data Processor of Personal information, to the extent of, and strictly bound and governed by the Data Processing Agreements (DPA) with our customers. 
 
-**Cookies:** We use cookies to store visitor preferences, record session information, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our website, record past activity at a website in order to provide better service when visitors return to website, ensure that visitors are not repeatedly sent the same banner ads, and to customize web page content based on visitors’ browser type or other information that the visitor sends. 
+**[Cookies:](https://www.mu-sigma.com/cookie-policy)** We use [cookies](https://www.mu-sigma.com/cookie-policy) to store visitor preferences, record session information, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our website, record past activity at a website in order to provide better service when visitors return to website, ensure that visitors are not repeatedly sent the same banner ads, and to customize web page content based on visitors’ browser type or other information that the visitor sends. 
 
 Most browsers are set up to accept cookies, but you can change your settings to have your browser notify you when you receive a new cookie or you can change your settings to refuse to accept cookies. 
 
