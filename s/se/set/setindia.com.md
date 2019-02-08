@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the setindia.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181541id_/http%3A//www.setindia.com/us-en/static/privacy-policy/72) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setindia.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208051058id_/https%3A//www.setindia.com/us-en/static/privacy-policy/72) for the most accurate reproduction.*
 
 # Sony Entertainment Television (India) | SET India
 
