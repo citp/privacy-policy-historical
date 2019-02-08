@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staff.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628153436id_/https%3A//staff.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staff.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208092601id_/https%3A//staff.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Staff.com
 
@@ -44,4 +44,4 @@ Cookies are small text files sent through your browser and saved in your hard dr
 
 ## How Can We Further Help You?
 
-For more questions about this privacy policy, please [contact us](https://web.archive.org/web/20170628153436id_/https%3A//staff.com/contact-us.html).
+For more questions about this privacy policy, please [contact us](https://web.archive.org/web/20190208092601id_/https%3A//staff.com/contact-us.html).
