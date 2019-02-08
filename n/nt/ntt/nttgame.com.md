@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nttgame.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131104727id_/https%3A//www.nttgame.com/en/corporate/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nttgame.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208173648id_/https%3A//www.nttgame.com/en/corporate/privacypolicy) for the most accurate reproduction.*
 
 # NTTGame Portal – Free to Play Online Games Portal - About Us
 
@@ -71,7 +71,11 @@ Please note that you have control over the personally identifiable information y
 
 #### 1\. Opting-Out.
 
-You can choose to opt-out from certain service and/or product features we provide you in ‘My Account’ section of our website. For example, we may send out marketing e-mails to our customers. If we do so, you will be able to opt-out from such practice by declining to such services in ‘My Account’ section on our website. When you opt-out from any types of service and/or product features, you will not be receiving any features in the similar nature, until you re-allow us to offer such features to you. 
+You can choose to opt-out from certain service and/or product features we provide you in ‘My Account’ section of our website, such as social media service integration. If we do so, you will be able to opt-out from such practice by declining to such services in ‘My Account’ section on our website. When you opt-out from any types of service and/or product features, you will not be receiving any features in the similar nature, until you re-allow us to offer such features to you. 
+
+#### 2\. Erasure of Personal Data.
+
+You are entitled to request that we erase data related to you. We can erase your data upon request provided that it is no longer required to maintain service. In submitting a request to remove or erase your personal data, you are also requesting to discontinue use of, or association to, any of our provided services, and may also result in the inability to recover any information related to your account in the future. We do, however, reserve the right to retain an archive of such personal data for a commercially reasonable time to ensure that its deletion does not affect the integrity of our data or any legal obligation; and we further reserve the right to retain an anonymous version of such information. Any request relating to the erasure of personal data may be submitted via support ticket at https://support.nttgame.com/. 
 
 #### Your California Privacy Rights.
 
