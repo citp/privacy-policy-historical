@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rci.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915231137id_/https%3A//www.rci.com/pre-rci-en_US/footer/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rci.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208052351id_/https%3A//www.rci.com/pre-rci-en_US/footer/privacy-policy.page) for the most accurate reproduction.*
 
 # RCI Privacy Policy | RCI.com
 
