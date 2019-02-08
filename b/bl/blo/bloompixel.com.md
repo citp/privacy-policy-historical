@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloompixel.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701040726id_/http%3A//bloompixel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloompixel.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208221649id_/https%3A//www.bloompixel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BloomPixel
 
