@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ingram.life privacy policy that was archived on 2018-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181209202415id_/http%3A//ingram.life/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ingram.life privacy policy that was archived on 2019-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190208191536id_/https%3A//ingram.life/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="" lang="en"><head>
 <meta charset="UTF-8">
@@ -7,6 +7,18 @@
 <meta http-equiv="X-UA-COMPATIBLE" content="IE=edge">
 <meta name="keywords" content="Instagram web viewer">
 <meta name="description" content="Instagram web viewer">
+<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PWBPFBC"></script><script>
+            dataLayer = [{
+                'visitorType': 8
+            }];
+        </script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-PWBPFBC');</script>
+
 <title>Instagram web viewer - Ingram </title>
 <link rel="icon" type="image/x-icon" href="/favicon.ico?v16">
 <link rel="apple-touch-icon" href="/img/icons/apple-touch-icon.png">
@@ -16,7 +28,7 @@
 
 <link href="/bxslider/jquery.bxslider.css" rel="stylesheet">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
@@ -42,42 +54,41 @@
 		</script>
 </head>
 <body class="body-green" cz-shortcut-listen="true">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PWBPFBC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 <div class="navbar navbar-inverse" role="navigation">
-<div class="container">
+<div class="container" id="navigation-bar">
 <div class="navbar-header">
+
+<a href="/" class="navbar-brand logo navbar-logo">ingram.life</a>
+<div class="navbar-menu">
 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 </button>
-
-<a href="/"><span class="navbar-brand logo">ingram.life</span></a>
 </div>
-
-<div id="navigation-bar" class="navbar-collapse collapse">
-<ul class="nav navbar-nav main_menu">
-<li><a href="/login/">Login</a></li>
-<li><a href="/popular-accounts">Popular accounts</a></li>
-<li><a href="/popular-posts">Popular posts</a></li>
-</ul>
-
-<ul class="nav navbar-nav navbar-right hidden-xs">
-<li id="search"><a href="#" id="search-btn" v-on:click="showSearchBox=!showSearchBox" v-on:mouseup="yaCountSearch"><i class="fa fa-search" id="search-icon"></i> Search</a>
+<div class="navbar-search">
 <transition name="animate-search">
-<div class="search-box search-form" id="search-box" v-if="showSearchBox" v-cloak="">
-<div class="input-group">
-<input data-url="/search/Q" class="search-input form-control" placeholder="Search" type="text" v-on:keydown="search" autofocus="">
-<span class="input-group-btn">
-<button class="btn btn-search btn-default" type="submit" v-on:click="search">Go!</button>
-</span>
-</div>
+<div class="search-box search-form">
+<input data-url="/search/Q" class="search-input form-control" placeholder="Search" type="text" v-on:keyup.enter="search" autofocus="">
+<button type="button" class="btn-search header-btn" id="header-btn" v-on:click="search">
+<i aria-hidden="true" class="fa fa-search"></i>
+</button>
 </div>
 </transition>
-</li>
+</div>
+</div>
+<div class="navbar-collapse collapse">
+<div>
+<ul class="nav navbar-nav navbar-right main_menu">
+<li><a href="/popular-accounts">Popular accounts</a></li>
+<li><a href="/popular-posts">Popular posts</a></li>
 <li id="langSelect">
-<span id="lnagLabel" class="pull-right-xs text-muted footer__made_by" v-on:click="showLanguagePanel=!showLanguagePanel">Language</span>
+<span id="lnagLabel" class="pull-right-xs footer__made_by" v-on:click="showLanguagePanel=!showLanguagePanel">Language</span>
 <transition name="fade-lang">
-<select id="langSwitcher" v-if="showLanguagePanel" v-on:change="selectLang" v-cloak="">
+<select id="langSwitcher" v-show="showLanguagePanel" v-on:change="selectLang" v-cloak="">
 <option value="af">Afrikaans</option>
 <option value="cs">Čeština</option><option value="da">Dansk</option><option value="de">Deutsch</option><option value="el">Ελληνικά</option><option value="en">English</option><option value="es">Español</option><option value="fi">Suomi</option><option value="fr">Français</option><option value="id">Bahasa Indonesia</option><option value="it">Italiano</option><option value="ja">日本語</option><option value="ko">한국어</option><option value="ms">Bahasa Melayu</option><option value="nb">Norsk</option><option value="nl">Nederlands</option><option value="pl">Polski</option><option value="pt-br">Português (Brasil)</option><option value="pt">Português (Portugal)</option><option value="ru">Русский</option><option value="sv">Svenska</option><option value="th">ภาษาไทย</option><option value="tl">Filipino</option><option value="tr">Türkçe</option><option value="zh-cn">中文(简体)</option><option value="zh-tw">中文(台灣)</option><option value="bn">বাংলা</option><option value="gu">ગુજરાતી</option><option value="hi">हिन्दी</option><option value="hr">Hrvatski</option><option value="hu">Magyar</option><option value="kn">ಕನ್ನಡ</option><option value="ml">മലയാളം</option><option value="mr">मराठी</option><option value="ne">नेपाली</option><option value="pa">ਪੰਜਾਬੀ</option><option value="si">සිංහල</option><option value="sk">Slovenčina</option><option value="ta">தமிழ்</option><option value="te">తెలుగు</option><option value="ur">اردو</option><option value="vi">Tiếng Việt</option><option value="zh-hk">中文(香港)</option><option value="bg">Български</option><option value="fr-ca">Français (Canada)</option><option value="ro">Română</option><option value="sr">Српски</option><option value="uk">Українська</option>
 </select>
@@ -85,6 +96,7 @@
 <span class="ff-workaround"></span>
 </li>
 </ul>
+</div>
 </div>
 </div>
 </div>
@@ -232,19 +244,20 @@ effective when they are posted on this page.</p>
 <li class="text-muted footer_discription">Ingram.life does not host any pirated/copyright content on its servers, all the instagram videos/photos you download are directly downloaded from their CDN servers.</li>
 </ul> &nbsp;
 <div class="clearfix"></div></footer></div></div>
-<link type="text/css" rel="stylesheet" href="/build/global.6eb6c21f.css">
-<script src="/build/script.aa5b0ca5.js"></script>
+<link type="text/css" rel="stylesheet" href="/build/global.e156e6cc.css">
+<script src="/build/script.9c3c31b8.js"></script>
 
 <script type="text/javascript">
     (function (d, w, c) {
         (w[c] = w[c] || []).push(function() {
             try {
-                w.yaCounter43905604 = new Ya.Metrika({
+                window.yaCounter43905604 = new Ya.Metrika({
                     id:43905604,
                     clickmap:true,
                     trackLinks:true,
                     accurateTrackBounce:true,
-                    webvisor:true
+                    webvisor:true,
+                    params: {'ingramlevel': 8 }
                 });
             } catch(e) { }
         });
@@ -268,11 +281,11 @@ effective when they are posted on this page.</p>
 <script src="https://cdn.jsdelivr.net/npm/lodash@4.13.1/lodash.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 <script src="https://unpkg.com/vuex"></script>
-<script src="/build/app.0ff37f84.js"></script>
-<script src="/build/app_report.7bb9ea31.js"></script>
+<script src="/build/app.d0e43861.js"></script>
 
 
 <script>
+    
     new Vue({
         el: '#navigation-bar',
         data: function () {
@@ -282,9 +295,9 @@ effective when they are posted on this page.</p>
             }
         },
         methods: {
-            yaCountSearch: function(){ 
+            doEvent: function(name){
                 if (typeof yaCounter43905604 !== 'undefined') {
-                yaCounter43905604.reachGoal('search_open');
+                yaCounter43905604.reachGoal(name);
                 }
             },
             search: function(e) {
@@ -307,12 +320,13 @@ effective when they are posted on this page.</p>
                 return false;
             },
             selectLang: function(){
-                    
+                this.doEvent('open_lang');
                 var langPanel = document.getElementById('langSwitcher'),            
                     curLang = langPanel.options[langPanel.selectedIndex].value,
                     newUrl = updateURLParameter(window.location.href, "lang", curLang);
                     
                 window.location.href = newUrl;
+                //window.location.reload(true);        
 
                 function updateURLParameter(url, param, paramVal) {
                     var newAdditionalURL = "";
