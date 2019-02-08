@@ -1,31 +1,61 @@
-> *The following text is extracted and transformed from the rapidstone.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213175306id_/http%3A//rapidstone.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidstone.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208054651id_/https%3A//rapidstone.com/privacy.html) for the most accurate reproduction.*
 
-# RapidStone - Easy way to share your files
+# Privacy Policy - Rapid Stone - Free Cloud Storage
 
-## Privacy Policy
+We respect your right to privacy, checkout or policy below.
 
-This privacy policy ("Policy") explains how personally identifiable information is collected, used and disclosed by RapidStone, ("we" or "us") with respect to your access and use of RapidStone 's online file storage and sharing service located at www.Rapidstone.com , (the "Service"), so you can make an informed decision about using the Service.
+Rapid Stone - Free Cloud Storage respects your right to privacy. We asure you that all information submitted to us during the process of using our site will be kept strictly confidential and used solely by Rapid Stone - Free Cloud Storage to improve the user experience. At Rapid Stone - Free Cloud Storage we do not share, sell, rent, or distribute to any third party outside of Rapid Stone - Free Cloud Storage with the exception to legal purposes, regulation, or governmental authority.
 
-  
+**Information Collected**
 
-  * We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time to make sure that you understand how any personally identifiable information you provide to us or collected about you will be used. 
-Your information during the registration Rapidstone.com stores an e-mail address you specify when you register with us, and your name if it is indicated in the user profile. Rapidstone.com does not rent, sell, or share personal information about you with non-affiliated companies. Also, IP addresses are logged and used to identify our visitors as well as manage download limitations and user sessions. 
-  * Your account password Please note that it is your responsibility to keep the password confidential, so do not share it with anyone. If you use a public PC, make sure you log out prior to leaving Rapidstone.com. You are solely responsible for keeping your password inviolable. 
-  * Certain exceptional disclosures We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. The disclosure of personal information may be required by court or law enforcement officials. 
-  * Your account at our service When you upload a file to our server, we give you a unique URL to download the file. We do not share download URLs with anyone; however we will provide the file to any browser requesting the file by its unique URL address. 
-  * We reserve a right to review your account content for violations of our Terms and Conditions. If we determine that your files violate the Terms and Conditions, we may ban your account and will attempt to contact you. We reserve the right to cancel your account and remove the files from our servers. 
-We do not own your account content, and will access your files for troubleshooting only. All your files are allowed to be downloaded only according to the security settings you define. We guarantee safety of your files, for that purpose we make backups of all files. 
-  * Using cookies Rapidstone.com uses cookies in order to track and analyze preferences of our users and, as a result, improve our site. A cookie is an encrypted number, generated when you visit any site that supports sessions. This cookie is saved permanently on your computer. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie. We also collect such information as your operating system, browser version and the size of your screen. We use these details for marketing purposes also. This information is collected in the form of the usual web server logs and cookies. 
-  * Third party cookies In case of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
-  * Access to your information You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your account files to other users through sharing link lists or file download links. 
-  * If you want to change any personal information provided to us, feel free to contact our support team at support@rapidstone.com 
-  * How we protect your information Any information collected and processed within Rapidstone.com is treated with the utmost confidentiality. Rapidstone.com will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through us will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. 
-  * External links If any part of the Rapidstone.com website links you to other websites, those websites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using and disclosing personal information. 
-  * Contact information Should you have any questions or concerns regarding this Privacy Policy, please contact us. 
+Rapid Stone - Free Cloud Storage securely holds data about it's users in order to process orders and provide account logins so they can access their purchases. The following data may be stored for each registered user of our site:
+
+  * Your account email address.
+  * Your account password, stored using one-way hashing & encryption.
+  * Your title, firstname and lastname as supplied during the registration process.
+  * Your first, last and recent login IP addresses.
+  * Any data supplied by our payment gateways in order to process your order. These include address data, company name, your payment account email and your full name.
+  * Your browser user agent, referrering site and which pages you visited.
+  * You can receive a copy of this information by making a request via our [contact form](https://web.archive.org/web/20190208054651id_/https%3A//rapidstone.com/contact.html).
 
 
 
-RapidStone is commited to cooperate with any and all legal authorities if an investigation should arise.
+Rapid Stone - Free Cloud Storage does not collect and store any information such as credit card details.
 
-Welcome to RapidStone \- Free one-click file hosting! With us you can share big files easily and securely:  
-Just choose a file, click the "Upload" button and send the download link to your friends and anyone you 
+**How The Information Collected Is Used**
+
+We mainly use the information collected to provide a service which has been requested by Rapid Stone - Free Cloud Storage users such as of sales and customer support. With permission, Rapid Stone - Free Cloud Storage may also use the provided email addresses to contact users periodically to inform them of Rapid Stone - Free Cloud Storage service and site announcements such as new products, promotions, and site or service updates. You may choose at any point to unsubscribe to these emails. Rapid Stone - Free Cloud Storage may also use the email addresses at any point to contact you for customer support services. Rapid Stone - Free Cloud Storage withholds the right to use any of the information provided by users for the purposes improving our site user experience, improving our advertising and marketing, and for legal disputes if required.
+
+**Linked Sites**
+
+At any point we may provide Rapid Stone - Free Cloud Storage users with links to websites operated by other parties. These links are provided because they may be of use to users for any particular reason. Rapid Stone - Free Cloud Storage terms and conditions as well as privacy policy does not extend to third party sites and we are not responsible for the terms and privacy policy set by third party sites.
+
+**Cookie Policy**
+
+For the purpose of enhancing our site and the customer experience, we have implemented small data files also known as cookies on your device. Most large sites do this also.
+
+**What are cookies?**
+
+A cookie is a text file that is saved onto your computer or device when you visit certain sites. It allows the site to remember your actions and preferences (For example, login, language, etc) so you do not have to re-enter them each time you visit our site or browse between pages.
+
+**How do we use cookies?**
+
+A number of our pages use cookies:
+
+  * To remember if you have or have not agreed to use cookies on our sites.
+  * For external advertisers like Google Ads.
+  * By any login process to remember your current login session on the site.
+
+
+
+Enabling these cookies will provide you with a better browsing experience. You have the ability and every right to block or delete these cookies if you wish to do so, but certain features of this site may not work as intended. The cookie-related information and data is not used to identify any individual personally and the pattern data is fully under the control of Rapid Stone - Free Cloud Storage. The cookies are not used for any purpose other than described here.
+
+**Do we use other cookies?**
+
+Some of our pages or sites may use additional or different cookies to the ones described above. If so the details of these will be provided in the specific cookie agreement notice for that particular page.
+
+**How to control cookies**
+
+You can control and delete cookies if you wish to do so. For details on this please go to aboutcookies.org. You have the ability to delete all cookies that are already on your computer and most internet browsers have the ability to prevent them from being placed if configured to do so. As an added note, certain functionality on our site may not work as intended if this is done.
+
+Rapid Stone - Free Cloud Storage reserves the right to edit the above privacy policy at any time. Any changes made to the above privacy policy are active as soon as they are updated. Users of Rapid Stone - Free Cloud Storage sites agrees to regularly review this privacy policy and be aware of any alterations made to them. By the continual use of Rapid Stone - Free Cloud Storage sites and services, users agree to the above. 
