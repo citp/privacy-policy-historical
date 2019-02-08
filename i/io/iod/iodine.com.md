@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iodine.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110134540id_/http%3A//www.iodine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iodine.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208174213id_/https%3A//www.iodine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Iodine.com
 
@@ -46,7 +46,7 @@ We share statistics about our users publicly on Iodine and with trusted Iodine p
   *  **Don’t publicly share information** that can be used to identify or contact you. For example, don’t write your name in a review about a medication.
   *  **Share as much or as little about your experiences as you want.** For example, you can post comments about a medication without sharing your age, gender, or medical conditions.
   *  **Opt out of sharing Shared Data** with trusted Iodine partners.
-  *  **Look next to the** [] any time you submit information to see your opt-out status. 
+  *  **Look next to the** [] any time you submit information to see your opt-out status.
 
 
 
@@ -95,9 +95,9 @@ We collect and store the information you choose to submit on Iodine. Certain inf
 
 ###### Information we collect automatically
 
-Like most websites and apps, we automatically collect certain information about how visitors use our services. We do this with automated data collection tools such as [server logs](http://en.wikipedia.org/wiki/Server_log), [analytics](http://en.wikipedia.org/wiki/Web_analytics), [cookies](http://en.wikipedia.org/wiki/HTTP_cookie), and [web beacons](http://en.wikipedia.org/wiki/Web_beacon).
+Like most websites and apps, we automatically collect certain information about how visitors use our services. We do this with automated data collection tools such as [server logs](https://en.wikipedia.org/wiki/Server_log), [analytics](https://en.wikipedia.org/wiki/Web_analytics), [cookies](https://en.wikipedia.org/wiki/HTTP_cookie), and [web beacons](https://en.wikipedia.org/wiki/Web_beacon).
 
-Through the Site: For example, when you use the Site, our server logs store your [IP address](http://en.wikipedia.org/wiki/IP_address), browser type, operating system, and the pages you visited on Iodine. Here’s another example: we put a cookie (a marker) on your browser so our website knows that you already completed a survey about a drug and doesn’t ask you to do it again. Cookies are stored on your hard drive. On the other hand, web beacons are usually embedded on webpages or in e-mails. Like server logs, web beacons can also tell us what pages you visited on the Site.
+Through the Site: For example, when you use the Site, our server logs store your [IP address](https://en.wikipedia.org/wiki/IP_address), browser type, operating system, and the pages you visited on Iodine. Here’s another example: we put a cookie (a marker) on your browser so our website knows that you already completed a survey about a drug and doesn’t ask you to do it again. Cookies are stored on your hard drive. On the other hand, web beacons are usually embedded on webpages or in e-mails. Like server logs, web beacons can also tell us what pages you visited on the Site.
 
 Through the Iodine Apps: When you use an Iodine App, we collect certain information that your mobile device sends when you use the Iodine App, like a device identifier, user settings and the operating system of your device, as well as information about your use of Iodine.
 
@@ -132,7 +132,7 @@ We use this information to provide and improve our services.
 If we ask you for personally identifying information, you’ll see the []. This lets you know that the information you are submitting is Private Data.
 
   * Examples of Private Data we may ask you for: Your name or email address
-  * Example of Private Data we collect automatically: Your [IP address](http://en.wikipedia.org/wiki/IP_address) (which can identify your computer’s location)
+  * Example of Private Data we collect automatically: Your [IP address](https://en.wikipedia.org/wiki/IP_address) (which can identify your computer’s location)
 
 
 
@@ -218,7 +218,9 @@ You can:
 
 
 
-You choose what to submit and share on Iodine. You can opt out of sharing your Shared Data with our Partners.
+You choose what to submit and share on Iodine. You can
+
+opt out of sharing your Shared Data with our Partners.
 
 ###### The security of your information
 
@@ -258,13 +260,13 @@ If you use Iodine outside of the United States, any information you give us will
 
 ###### Child privacy
 
-Our services are not intended or designed for children under 13, and we do not knowingly collect personally identifiable information from anyone under 13. If you find out that your child has provided us with personal information without your consent, contact us at [privacy@iodine.com](mailto:privacy@iodine.com). If we find out that a child under 13 has provided us with personal information, we’ll take steps to delete that information from our files as soon as possible.
+Our services are not intended or designed for children under 13, and we do not knowingly collect personally identifiable information from anyone under 13. If you find out that your child has provided us with personal information without your consent, contact us at
+
+[privacy@iodine.com](mailto:privacy@iodine.com). If we find out that a child under 13 has provided us with personal information, we’ll take steps to delete that information from our files as soon as possible.
 
 We’re committed to protecting the privacy of children and complying with privacy laws.
 
 ###### Questions?
-
-Contact us at [privacy@iodine.com](mailto:privacy@iodine.com) if you have any questions about our Privacy Policy.
 
 ###### Opt-out
 
@@ -289,13 +291,3 @@ Opt out of sharing your Shared Data to:
 Remember: Since we track your opt-out with a cookie, if you delete your cookies you’ll need to opt out again via the Site. You can look next to the [] on the Site any time to check your opt-out status.
 
 Your Shared Data may be shared with our Partners.
-
-What is your question about?
-
-Your question
-
-Your email
-
-We need your email to send you an answer.
-
-Disclaimer: We don't provide medical advice. If you think you might have a medical emergency, call your doctor or 911 immediately.
