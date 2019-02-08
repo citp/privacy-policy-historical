@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingram.life privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209202415id_/http%3A//ingram.life/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingram.life privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208191536id_/https%3A//ingram.life/privacy) for the most accurate reproduction.*
 
 # Instagram web viewer - Ingram
 
