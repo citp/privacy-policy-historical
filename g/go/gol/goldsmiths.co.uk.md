@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldsmiths.co.uk privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203051952id_/https%3A//www.goldsmiths.co.uk/i/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldsmiths.co.uk privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208120738id_/https%3A//www.goldsmiths.co.uk/i/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Goldsmiths
 
@@ -120,7 +120,7 @@ Facilitate customer product and service reviews
   
 Insurers | Provision of insurance cover on products purchased from us  
 Finance Companies | Provision of interest free and interest bearing credit for our customers  
-Watch Manufacturers | Administration of Guarantees and Repairs  
+Watch and Jewellery Manufacturers | Administration of Guarantees, Repairs and Marketing communications. No marketing communications will be sent by a 3rd party brand without your explicit opt in. Opt out information will be given through each of the 3rd party supplier's communications. Alternatively, pls contact our customer services who will manage this process on your behalf.   
 Call recording providers | Call recording to facilitate Customer Care, administration of enquiries and complaints and facilitate telephone orders and order fulfilment for the Watchshop website  
 Insurance Claims and repair handlers | Facilitate certain types of insurance claim administration  
 Electronic platform providers | To create on-line accounts, to fulfil website orders and electronic newsletter distribution  
