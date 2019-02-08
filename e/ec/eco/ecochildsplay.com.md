@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecochildsplay.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010045351id_/https%3A//ecochildsplay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecochildsplay.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208135436id_/https%3A//ecochildsplay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
