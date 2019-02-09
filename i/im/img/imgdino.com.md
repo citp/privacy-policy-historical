@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgdino.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207204636id_/http%3A//imgdino.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgdino.com privacy policy that was archived on 2019-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190209022625id_/http%3A//imgdino.com/privacy_policy) for the most accurate reproduction.*
 
 # ImgDino | Privacy Policy
 
