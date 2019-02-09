@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthisfood.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815045609id_/http%3A//www.healthisfood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthisfood.com privacy policy that was archived on 2019-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190209131950id_/http%3A//www.healthisfood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Health and Foods
 
