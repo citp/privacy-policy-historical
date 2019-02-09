@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaguarusa.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213225305id_/https%3A//www.jaguarusa.com/privacy-legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguarusa.com privacy policy that was archived on 2019-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190209033857id_/https%3A//www.jaguarusa.com/privacy-legal.html) for the most accurate reproduction.*
 
 # Jaguar - Privacy Policy
 
@@ -144,6 +144,6 @@ Mahwah, New Jersey 07495
 Attn: Customer Care – Privacy Issues   
 [(800) 346-3493](tel:800-346-3493)   
 [privacy@jaguarlandrover.com](mailto:privacy@jaguarlandrover.com)   
-© 2018 Jaguar Land Rover North America, LLC. All Rights Reserved.   
+© 2019 Jaguar Land Rover North America, LLC. All Rights Reserved.   
 EFFECTIVE AS OF: March 1, 2013   
 LAST UPDATED: September 7, 2018
