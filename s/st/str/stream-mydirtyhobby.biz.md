@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stream-mydirtyhobby.biz privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113230131id_/https%3A//www.mydirtyhobby.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stream-mydirtyhobby.biz privacy policy that was archived on 2019-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190209220317id_/https%3A//www.mydirtyhobby.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Colbette II Ltd. (hereinafter “ **we** ”, “ **us** ” or “ **our** ”) operates the website [mydirtyhobby.com](http://mydirtyhobby.com/) (hereinafter “ **MyDirtyHobby** ” or the “ **Website** ”) and is the controller of the information collected or provided via this Website.
+Colbette II Ltd (hereinafter “ **we** ”, “ **us** ” or “ **our** ”) operates the website [mydirtyhobby.com](http://mydirtyhobby.com/) (hereinafter “ **MyDirtyHobby** ” or the “ **Website** ”) and is the controller of the information collected or provided via this Website.
 
 Please read this privacy policy carefully, as your access to and use of our Website signifies that you have read, understand and agree to all terms within this privacy policy. If you do not agree with any part of this privacy policy or our terms, please do not access or continue to use our Website or otherwise submit your personal data. We respect your privacy and are committed to protecting your personal data
 
