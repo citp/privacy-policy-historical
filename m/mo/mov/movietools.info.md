@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movietools.info privacy policy that was archived on 2018-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180712003826id_/http%3A//www.movietools.info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietools.info privacy policy that was archived on 2019-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190209202609id_/http%3A//www.movietools.info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
