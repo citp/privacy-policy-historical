@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hycu.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021025854id_/https%3A//www.hycu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hycu.com privacy policy that was archived on 2019-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190209215939id_/https%3A//www.hycu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HYCU
+# Privacy Policy | HYCU
 
 **1\. Introduction**
 
