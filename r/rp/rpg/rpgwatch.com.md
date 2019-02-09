@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpgwatch.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124143307id_/https%3A//www.rpgwatch.com/show/info%3Finfoid%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgwatch.com privacy policy that was archived on 2019-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190209153331id_/https%3A//www.rpgwatch.com/show/info%3Finfoid%3D11) for the most accurate reproduction.*
 
 # Privacy Statement @ RPGWatch
 
