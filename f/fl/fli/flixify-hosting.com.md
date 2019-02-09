@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixify-hosting.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113114458id_/http%3A//flixify-hosting.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixify-hosting.com privacy policy that was archived on 2019-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190209140713id_/https%3A//flixify-hosting.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Our policy regarding your privacy
 
@@ -28,7 +28,7 @@ When we receive email, we use return email addresses to reply with the informati
 
 We provide you the opportunity to 'opt-in' and 'opt-out' of our newsletter at any time. Our newsletter is sent every month so it will certainly contain allot of useful information and any offers we may have. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them at any time.
 
-We collect information from our website visitors using [Google Analytics](http://www.google.com/analytics/). We use this information to better design our Web site and services. This information is never shared with any third party. We do not link aggregate user data with personally identifiable information.
+We collect information from our website visitors using [Google Analytics](https://www.google.com/analytics/). We use this information to better design our Web site and services. This information is never shared with any third party. We do not link aggregate user data with personally identifiable information.
 
 Flixify Hosting does not share, sell, rent, or trade personally identifiable information with third parties. We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described within this privacy policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
@@ -42,6 +42,6 @@ The security of your personal information is important to us. We follow generall
 
 This Web site contains links to other sites that are not owned or controlled by Flixify Hosting. Please be aware that we, Flixify Hosting are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. For more information please do not hesitate to send your questions via our [contact form](https://web.archive.org/web/20171113114458id_/http%3A//flixify-hosting.com/contact.php).
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. For more information please do not hesitate to send your questions via our [contact form](https://web.archive.org/web/20190209140713id_/https%3A//flixify-hosting.com/contact.php).
 
-Powered by [WHMCompleteSolution](http://www.whmcs.com/)
+Powered by [WHMCompleteSolution](https://www.whmcs.com/)
