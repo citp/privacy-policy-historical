@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010212125id_/http%3A//www.lightspeedresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmi-mr.com privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210001759id_/http%3A//www.lightspeedresearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
