@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetsay.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428172211id_/https%3A//gadgetsay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsay.com privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210110651id_/https%3A//gadgetsay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,4 +72,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
-This document was last updated on June 06, 2017, We change our Privacy Policy, Contact us, Advertising Page and Terms and Condition after every 6 Months if Necessary.
+This document was last updated on May 06, 2018, We change our Privacy Policy, Contact us, Advertising Page and Terms and Condition after every 6 Months if Necessary.
