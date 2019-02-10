@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bumble.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627193331id_/https%3A//bumble.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumble.com privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210140643id_/https%3A//bumble.com/en-us/privacy) for the most accurate reproduction.*
 
 # Bumble - Privacy
 
@@ -6,7 +6,7 @@
 
 Welcome to the Bumble Privacy Policy ("Policy")! This explains how we collect, store, protect, and share your information, and with whom we share it. We suggest you read this in conjunction with our brilliant [Terms and Conditions of Use](https://web.archive.org/en-us/terms). Whilst you're enjoying the Bumble mobile application ("App"), we collect some information about you. In addition, you may choose to use the App to share information with other Bumblers, including your friends and contacts ("Users"). We may also need to share your information sometimes. 
 
-By downloading and installing our App, you agree that we can collect, transfer, store, disclose and use your information as described in this Policy. Bumble is a global app, and your information will be sent to and used in the United States regardless of the country you reside in, and by downloading our App you consent to such transfer. So please read very carefully!
+Bumble is a global app, and your information will be sent to and used in the United States regardless of the country you reside in. This Policy explains how we protect your personal data when we transfer it overseas, so please read very carefully!
 
 If you have any questions or comments about this Policy, please feel free to contact us at [feedback@team.bumble.com](mailto:feedback@team.bumble.com).
 
@@ -35,7 +35,7 @@ The information we collect helps to enhance the App and verify our Users (Robots
 
 ### Additional Information
 
-We may ask you to provide your full name, address and email address. You agree that such details may be shared with third parties for purposes relating to, for example, any of our loyalty programs, sending gifts or delivery of merchandise.
+We may ask you to provide your full name, address and email address. Such details may be shared with third parties for purposes relating to, for example, any of our loyalty programs, sending gifts or delivery of merchandise.
 
 We may also collect additional information in connection with your use of Bumble, for example if you use our super cool electronic messaging function.
 
@@ -47,15 +47,15 @@ Please be careful about posting sensitive details about yourself on your profile
 
 When you post information about yourself or use the messaging function, the amount of personal information you share is at your own risk. Please see Section 4 below for more information on who can access what you post on Bumble. If you post anything that is inconsistent with our Terms and Conditions of Use, we reserve the right to terminate your Account - we really don't want to have to do this so please play by the rules!
 
-For safety and security and to ensure you have the best possible user experience, we require users to verify their accounts and might ask for your phone number. We want to make sure you are not a robot! And we also want to avoid fake Bumble accounts being created which can be used for malicious activities and cybercrime – they threaten the Bumble network and spoil things for everyone. We use a third party provider for account verification who will keep your phone number for up to 90 days for fraud identification purposes across a range of online platforms and services like Bumble’s. We collect and use your phone number on the basis of our legitimate interests identified above and for the prevention of fraud.
+For safety and security and to ensure you have the best possible user experience, we require users to verify their accounts and might ask for your phone number. We want to make sure you are not a robot! And we also want to avoid fake Bumble accounts being created which can be used for malicious activities and cybercrime – they threaten the Bumble network and spoil things for everyone. We use a third party provider for account verification who will keep your phone number for up to 90 days for fraud identification purposes across a range of online platforms and services like Bumble’s.
 
-If you decide to purchase any of our premium services, we will process your payment information and retain this securely for the prevention of fraud and for audit/tax purposes. Under data protection law, it is necessary for us to collect and process this payment data to enable us to perform our contract with you and our ongoing retention of this data is justified by our legitimate interests set out above.
+If you decide to purchase any of our premium services, we will process your payment information and retain this securely for the prevention of fraud and for audit/tax purposes.
 
 Finally, we want to keep in touch with you to make sure you know about the great promotions and offers we have available. If you’ve told us it’s OK, we will use your email address and phone number to send you information on these. You can withdraw this consent at any time via Settings in the app.
 
 ### Data Storage
 
-By using the App, you agree and acknowledge that Bumble is a global app operating through servers located in a number of countries around the world, including the United States. If you live in a country with data protection laws, the storage of your personal data may not provide you with the same protections as you enjoy in your country of residence. By submitting your personal information, or by choosing to upgrade the services you use, or by making use of the applications available on Bumble, you agree to the transfer of your personal information to, and storage and processing of your personal information in, any such countries and destinations.
+By using the App, you acknowledge that Bumble is a global app operating through servers located in a number of countries around the world, including the United States. If you live in a country with data protection laws, the storage of your personal data may not provide you with the same protections as you enjoy in your country of residence.
 
 ### Geolocation Information
 
@@ -70,13 +70,16 @@ If you have enabled location services, but wish to turn it off, you can do so by
 
 ### Log and Usage Data
 
-Our servers automatically record information ("Log and Usage Data") created by your use of the Service, which again helps us to improve our service. Log and Usage Data may include information such as your IP address, browser type, the referring domain, pages visited, access times, your mobile carrier, and search terms. Other actions, such as interactions with Bumble and advertisements, may also be included in Log and Usage Data.
+We keep your personal information only as long as we need it for legitimate business purposes (as set out in Section 11 below) and as permitted by applicable law. To protect the safety and security of our users on and off our services, we implement a safety retention window of three months following account deletion. During this period, account information will be retained although the account will of course not be visible on the services anymore.
 
-Where you request that your profile is deleted via the app, it is immediately made unavailable and fully deleted within 30 days. Correspondence with our Customer Support team will be retained for longer to allow us to deal with any subsequent queries you may have but will usually be deleted within 6 years if there are no queries.
+In practice, we delete or anonymize your information upon deletion of your account (following the safety retention window), unless:
 
-Anonymised information about activity on Bumble is retained for longer for statistical and product research purposes but this is not attributable to an individual once the profile has been deleted.
+  1. we must keep it to comply with applicable law (for instance, some “traffic data” is kept for one year to comply with statutory data retention obligations);
+  2. we must keep it to evidence our compliance with applicable law (for instance, records of consents to our Terms, Privacy Policy and other similar consents are kept for five years);
+  3. there is an outstanding issue, claim or dispute requiring us to keep the relevant information until it is resolved; or
+  4. the information must be kept for our legitimate business interests, such as fraud prevention and enhancing users' safety and security. For example, information may need to be kept to prevent a user who was banned for unsafe behavior or security incidents from opening a new account.
 
-Information such as payment information, IP addresses, mobile numbers and email addresses are retained for anti-fraud and anti-spam purposes for as long as they are relevant. This is usually determined by the expiry of the payment method.
+
 
 ### Device Information
 
@@ -243,7 +246,7 @@ While we take reasonable precautions against possible security breaches of our w
 
 **Where is my personal data kept?**
 
-We want you to be able to access Bumble wherever you happen to be in the world. To enable us to provide that service, we operate a global network of servers including in the US, Hong Kong, Czech Republic and Russia. The hardware is located in third-party data centres but is owned by the Bumble group. Data collected by advertising partners may also be held outside the European Economic Area. We ensure that the data is adequately protected by ensuring that valid, legal mechanisms are in place such as: EU approved model clauses (which can be found [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)), US privacy shield certification (more information can be found [here](https://www.privacyshield.gov/welcome)); and implementing robust contractual standards. If you want more information relating to the nature of the safeguards we have in place, please email [DPO@team.bumble.com](mailto:DPO@team.bumble.com).
+We want you to be able to access Bumble wherever you happen to be in the world. To enable us to provide that service, we operate a global network of servers including in the US, Hong Kong, Czech Republic and Russia. The hardware is located in third-party data centres but is owned by the Bumble group. Data collected by advertising partners may also be held outside the European Economic Area. We ensure that the data is adequately protected by ensuring that valid, legal mechanisms are in place such as: EU approved model clauses (which can be found [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)), US privacy shield certification (more information can be found [here](https://www.privacyshield.gov/welcome) – please note that Bumble is not Privacy Shield certified but we may pass information to third party service providers or advertising partners who are based in the US and who are Privacy Shield certified); and implementing robust contractual standards. If you want more information relating to the nature of the safeguards we have in place, please email [DPO@team.bumble.com](mailto:DPO@team.bumble.com).
 
 **Does Bumble collect any other personal data about me?**
 
@@ -251,10 +254,24 @@ If you contact our Customer Support team via [Feedback Page](https://bumble.com/
 
 **Does Bumble use my personal data for any other purpose?**
 
-We may use material that you post on the open access areas of Bumble in advertising and promotional materials on our partner sites and partner products. We believe these uses are in line with our legitimate interests in enabling us to improve our site and better tailor your online experience to meet your needs.
+We may use material that you post on the open access areas of Bumble in advertising and promotional materials on our partner sites and partner products. We believe these uses are in line with our legitimate interests in enabling us to improve our site and better tailor your online experience to meet your needs. If we intend to do this, we will contact you for your prior approval.
 
 We use your personal data to resolve disputes, troubleshoot problems and enforce our [Terms and Conditions of Use](https://web.archive.org/en-us/terms).
 
+Under EU and UK data protection laws, we are only permitted to use your data when we have a lawful basis to do so. The table below provides an overview of the legal bases that we rely on to use your data. Where the legal basis is consent, you can withdraw consent at any time. Where the legal basis is legitimate interests, you have a right to object to our use of your data. We explain in the relevant sections in this Policy how you can withdraw consent or opt-out of certain data uses (where applicable).
+
+Purpose for which data is used | Data | Legal basis  
+---|---|---  
+To provide you with the Bumble social networking service | Name, email address, date of birth, location | Contractual necessity  
+To facilitate networking opportunities on the Bumble site | Optional information that you choose to provide in your profile, which may include information about your sexual preferences, religion, ethnic background, photos etc. | Consent  
+To verify your identity and prevent fraud and to ensure the safety and security of Users | Phone number | Legitimate interests – it is in our legitimate interests to ensure that accounts are not set up fraudulently and to safeguard Users of the site  
+To take payment for premium services | Payment card details | Contractual necessity and legitimate interests – we have a legitimate interest in receiving payment for our premium services  
+To serve targeted advertisements to Users of the App | Demographic and location information | Legitimate interests – it is in our legitimate interests to target advertisements so that users see relevant advertisements and to allow us to generate income from advertising revenue  
+To send you marketing information about our offers and services | Email address and mobile phone number | Legitimate interests – it is in our legitimate interests to promote our products and services  
+To show “nearby” location information to you and other users of the site | Wifi access points and location data when you use the App | Consent  
+To carry out research and analysis to help us improve the App | Log and usage data, including IP address, browser type, referring domain, pages accessed, mobile carrier and search terms | Legitimate interests – it is in our interests to analyse the way in which Users are accessing and using our services so that we can further develop the App and improve the service  
+To respond to correspondence and queries that you submit to us | Email address and IP address | Legitimate interests – it is in our legitimate interests to respond to your queries to ensure that we provide a good service to Users and troubleshoot problems  
+  
 ## 12\. ABOUT US.
 
 Your access to the App, as well as this Privacy Policy are governed and interpreted by the laws of the State of New York, other than such laws, rules, regulations and case law that would result in the application of the laws of a jurisdiction other than the State of New York. By using the App, you are consenting to the exclusive jurisdiction of the courts of the United States and the State of New York. You agree that such courts shall have in personam jurisdiction and venue and waive any objection based on inconvenient forum. You agree that you will not file or participate in a class action against us. In the event there is a discrepancy between this English language version and any translated copies of the Policy, the English version shall prevail.
@@ -265,4 +282,4 @@ Thanks for reading, we hope we didn't drone on for too long!
 
 ### Effective date
 
-This Privacy Policy was last updated on 24 May 2018.
+This Privacy Policy was last updated on 10 October 2018.
