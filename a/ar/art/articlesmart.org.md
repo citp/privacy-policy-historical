@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesmart.org privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902232719id_/http%3A//articlesmart.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesmart.org privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210210529id_/http%3A//articlesmart.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Articlesmart
 
