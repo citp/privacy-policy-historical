@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagesbazaar.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617111656id_/http%3A//www.imagesbazaar.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagesbazaar.com privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210234156id_/https%3A//www.imagesbazaar.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,8 +60,8 @@ Why ImagesBazaar?
 
 \- All images are colour corrected and retouched as per international standards
 
-\- Super quick turnaround time & extraordinary customer service [Read ](https://web.archive.org/web/20170617111656id_/http%3A//www.imagesbazaar.com/testimonials.aspx) testimonials
+\- Super quick turnaround time & extraordinary customer service [Read ](https://web.archive.org/web/20190210234156id_/https%3A//www.imagesbazaar.com/testimonials.aspx) testimonials
 
-World's largest collection of Indian [images](http://www.imagesbazaar.com/) & [videos.](http://videos.imagesbazaar.com/)
+World's largest collection of creative Indian images & videos
 
 Scroll
