@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pumpyoursound.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005143852id_/https%3A//pumpyoursound.com/article/13-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pumpyoursound.com privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210013002id_/https%3A//pumpyoursound.com/article/13-privacy-policy) for the most accurate reproduction.*
 
-# pumpyoursound.com | Privacy Policy
+# pumpyoursound.com | Terms & Conditions
 
 This privacy policy sets out how WA PRODUCTION LTD uses and protects any information that you give WA PRODUCTION LTD when you use this website.
 
