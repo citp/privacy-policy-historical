@@ -1,64 +1,66 @@
-> *The following text is extracted and transformed from the nxtbook.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808171115id_/http%3A//www.nxtbookmedia.com/contact-us/privacy-policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nxtbook.com privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210165358id_/https%3A//www.nxtbookmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Nxtbook Media - Privacy Policy
+# Privacy Policy • Nxtbook Media
 
-privacy policy
+### Information Collected Through the Nxtbook Media Website
 
-  
-Intellectual Property
+Nxtbook Media collects personal information with an individual’s permission through their website for the purposes of:
 
-The Nxtbook web site and nxtbooks contain copyrighted material, trademarks and other proprietary information including text, photos and graphics. Nxtbook owns, or has right to use, intellectual property rights in the entire Nxtbook experience, including the selection, coordination, arrangement and enhancement of the web site and the publications contained therein or delivered thereby, as well as in the content original to it. Each third-party content provider owns the copyright in content original to it including, without limitation, in the magazines and other publications delivered or otherwise made available to you by Nxtbook technology. You may not modify, publish, transmit, display, participate in the transfer or sale, create derivative works, or in any way exploit the content of the Nxtbook web site, the nxtbooks, or any portion of them. Except as otherwise expressly permitted under copyright law, you may not copy, redistribute, publish, display or commercially exploit any material from the Nxtbook web site or nxtbooks without the express permission of Nxtbook and the copyright owner. In the event of any permitted copying, redistribution or publication of material from the Nxtbook web site or nxtbooks, no changes in or deletion of author attribution, trademark, legend or copyright notice shall be made. Except as permitted by the Publication's lawful owner, you acknowledge that you do not acquire any ownership rights by reading, clipping or downloading copyrighted material. Except as permitted by Nxtbook or the copyright owner, nxtbooks are for your personal use only and may not be modified, reverse engineered, redistributed, sold, publicly displayed, licensed, rented or otherwise provided to a third party or commercially exploited. We do not grant you any licenses, express or implied, to the intellectual property of Nxtbook or our publishers except as expressly authorized by these terms.
-
-Third-Party Content
-
-Nxtbook is a digital publishing technology provider (and not a publisher) of nxtbooks or other content supplied by third parties. Accordingly, we have no editorial control over such content. Any opinions, advice, statements, services, offers or other information or content expressed or made available by third parties, including those made in nxtbooks offered by our web site, are those of the respective author(s) or publisher(s) and not of Nxtbook. Neither Nxtbook nor any third-party provider of information guarantees the accuracy, completeness or usefulness of any content. Under no circumstances will we be liable for any loss or damage caused by your reliance on information obtained through a nxtbook. It is your own personal responsibility to evaluate the accuracy, completeness or usefulness of any information or content available through a nxtbook.
-
-A nxtbook may contain links to other Internet sites and third-party resources. Nxtbook does not assume any responsibility or liability for any communications or materials available at such linked sites. Nxtbook does not intend links in nxtbooks or on the Nxtbook web site to be referrals or endorsements of the linked entities; they are provided for convenience only.
-
-Privacy
-
-Please take a few minutes to read the following Policy. This Policy covers Nxtbook's treatment of information that we collect from you when you are on the Nxtbook web site and when you use our products and services. We do not collect personally identifiable information, which includes your name, mailing or billing address, email address, telephone number, or any other information that tells another person who you are. We may, however collect anonymous information that we will aggregate and use for general tracking and statistical purposes, or to determine whether your computer is compatible with our system.
-
-Our policy does not apply to the practices of companies that Nxtbook does not own or control, or to individuals that Nxtbook does not employ or manage, including operators of web sites to or from which you may link from or to the Nxtbook web site or nxtbooks and the owners or managers of the magazines and other publications you read or otherwise access through nxtbook technology. If you have questions about our privacy policy, please e-mail us at [support@nxtbook.com](mailto:support@nxtbook.com).
-
-What Information We Collect and Use
-
-Nxtbook has the right to use and control the information collected on the Nxtbook web site and in nxtbooks. We will not sell, share, or rent this information to others in ways different from what is disclosed in this policy. Nxtbook collects information from users at different points on our web site and through nxtbooks, as follows:
-
-Cookies
-
-  
-
-
-  * **What is a cookie?**  
-
-    * A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive. It can be used to provide you with a tailored user experience. 
-  * **How does nxtbook use cookies?**  
-
-    * Nxtbook may set and access our own cookies on your computer. Nxtbook uses cookies to facilitate the usage measurement of our web site and the distributed interactivity and measurement of nxtbooks. Nxtbook does not maintain any database of personally identifiable information that could be contained in cookies. 
-  * **What information does Nxtbook put into user cookies?**  
-
-    * When you visit our web site or open a nxtbook, we set cookies to identify you as a unique visitor, to maintain your session, and to test your browser and OS settings. 
-  * **Do we retain the cookies?**
-    * Nxtbook will retain cookies that are set by our web site or nxtbooks on your computer and will use them to recognize you when you return to the site or publication. 
-  * **Third-party cookies?**  
-
-    * Nxtbook may also allow other companies that are providing content, such as Publications, on our web site or in nxtbooks to set and access their own cookies on your computer. Other companies' use of cookies is subject to their own respective privacy policies. We do not have access to any information stored in cookies by third parties about you. 
-  * **EU Law and Opting Out of Cookies**
-    * In accordance with EU visitors, certain visitors must acknowledge and accept the use of cookies. You may delete and block all cookies from this site, but parts of the site will not work.
+  * Discussing content solutions with prospects and partners
+  * Sending helpful information through blogs and drip email campaigns
+  * Getting in touch with readers or partners about technical issues they may be having
 
 
 
-Internet Protocol Addresses
+With each form that is on the website, the individual filling out the form is required to check an opt-in which clearly lets the individual know what kind of contact they can expect to receive.  The individual is also informed that their contact information will never be shared with a third party. Data collected through our website will be held without time limit, but at the request of the individual their information may be removed from our marketing database.  
 
-Your computer uses Internet Protocol or "IP" addresses every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer so that data (such as the web pages you request) can be sent to you. Our server automatically collects IP addresses. Nxtbook will not use your IP address to attempt to personally identify you.
+### Information Collected Through Client Projects Hosted by Nxtbook Media 
 
-Referrers
+#### Cookies
 
-A "referrer" is the information passed along by a web browser that references the web URL you linked from, and is automatically collected by our web server. This information is collected and used by Nxtbook to understand the web sites referring traffic to our web site and to present appropriate content to our potential customers. Nxtbook tabulates referrer information on an aggregate basis to identify trends and traffic patterns. 
+Nxtbook Media (also referred to as Nxtbook) uses cookies to enhance the end user experience and comply with client requirements for protection and enhancement of their content. Cookies and local storage are required for certain functionality of Nxtbook’s products from a technical perspective, such as:
 
-Nxtbook may enter into agreements with content partners that require nxtbook to count the number of product downloads stemming from a referral from a content partner site. This information is collected, used and aggregated by Nxtbook to fulfill the reporting requirements of those agreements. This information may also be combined with the referrer information described above and tabulated on an aggregate basis to identify general trends and traffic patterns.
+  * Remembering a user so they aren’t required to authenticate every time they view protected content hosted by Nxtbook Media.
+  * Session information used to identify a single anonymized user between server calls within a single session.
+  * Remembering and re-applying settings and preferences that an anonymized user has set within our products. This data is stored in the user’s browser local storage and is not sent to Nxtbook or other servers.
 
-Other
 
-Nxtbook may automatically receive and record information in our server logs or from our cookie-based tracking service from your browser, including your IP address, your computer's name, the type and version of your web browser, referrer addresses and other generally accepted tracking information. We may also record web site page views (hit counts) and other general statistical and tracking information that is aggregated with that of other users in order to understand how our web site and nxtbooks are being used.
+
+#### Digital Rights Management (DRM) / Authentication
+
+Nxtbook Media provides an authentication system (Nxtbook DRM) that some of our clients choose to apply to their content. When DRM is used, Nxtbook stores some information about individual users of the clients’ content using a combination of databases and browser cookies. That information can vary depending on the individual client’s implementation and includes such items as:
+
+  * A list of user accounts consisting of usernames, passwords, and details of what content each user account has access to. This information is typically passed to Nxtbook by the client, but can also come from a Nxtbook hosted custom form, described further in this document, or entered directly by the client using a backend tool Nxtbook provides.
+  * Information about how many times a particular user has logged in to access content.
+  * Cookies used to track how many pages of content an individual anonymized user has accessed while not logged in and using “Preview mode” in Nxtbook products.
+  * Cookies used to Identify when a user has previously authenticated so they can skip the authentication process when returning.
+
+
+
+#### Digital Payment System (DPS)
+
+Nxtbook provides a digital payment system (Nxtbook DPS) that is used by some clients to provide paid subscriptions and purchasable content to their users. Financial transactions for this system are processed by Paypal, using the individual client’s account on Paypal’s website. No financial information passes through Nxtbook’s systems or is stored by Nxtbook. Subscription data is stored in Nxtbook’s servers via our DRM system described above, and Nxtbook hosted custom forms, described below. It is not used by Nxtbook for any purposes other than passing the form data to the client, and authenticating users when the client’s Nxtbook hosted content is accessed.
+
+#### Custom DRM
+
+Some clients use a custom authentication system to protect their Nxtbook hosted content. In these cases, the client provides implementation instructions, and Nxtbook implements the authentication logic on our servers. In most cases, this involves collecting the username and password from a user via a form when they attempt to access protected content, and passing that information through to the client’s or a third party API to authenticate against the user’s account in their system. Nxtbook does not store any information in these cases beyond the life of the server call to authenticate.
+
+#### Form Data
+
+Clients of Nxtbook will sometimes use forms within or in conjunction with our products. Some of these forms are maintained and hosted by Nxtbook, while others are hosted and maintained by the client themselves or third parties and embedded within our products.
+
+Nxtbook stores the data input by users into the forms that are hosted by Nxtbook. No data is held by Nxtbook for forms that are hosted by third parties and embedded in Nxtbook products.
+
+The actual data that Nxtbook hosted forms collect varies for each client and is not used by Nxtbook in any way other than to pass to the client upon request, or through automated reports.
+
+#### Analytics and Third Party User Tracking
+
+Nxtbook uses Google Analytics and Adobe Comscore to provide anonymized analytics on the usage of our products. This data is used by Nxtbook internally to understand how our products are used, and provided to clients for as it relates to their content. The data passed to and provided by these services is anonymized and no personal user information is used in the process or passed through to these systems.
+
+Some clients request that Nxtbook add third-party tracking calls to their Nxtbook hosted content. In these cases, the code to implement the additional calls are provided by the client and are integrated as a customization to the client’s content. Nxtbook does not store or have access to any of the data or functionality that these third-party calls provide.
+
+### Your Rights Regarding Your Data
+
+Any person who would like to remove their data removed from the databases we control simply needs to get in touch with Nxtbook Media in order to have their information removed from the database.  Individuals who would like to remove their data can reach out to our Data Protection Officer through our [Contact Form](https://www.nxtbookmedia.com/contact/). 
+
+Nxtbook may change this policy by updating this page.  You should check this page from time to time to ensure you are happy with any changes.  This policy is effective from May 18, 2018 onward. 
