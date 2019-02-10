@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stream.me privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230105630id_/https%3A//www.stream.me/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stream.me privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210113150id_/https%3A//www.stream.me/pages/privacy) for the most accurate reproduction.*
 
 # Stream.me
 
