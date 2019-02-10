@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pausethemoment.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219220421id_/http%3A//www.pausethemoment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pausethemoment.com privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210183942id_/http%3A//www.pausethemoment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
