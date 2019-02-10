@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femaledaily.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230194356id_/http%3A//www.femaledaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femaledaily.com privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210205331id_/https%3A//femaledaily.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
