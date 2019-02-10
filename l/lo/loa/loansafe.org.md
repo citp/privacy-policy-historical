@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loansafe.org privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906171534id_/https%3A//www.loansafe.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loansafe.org privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210144448id_/https%3A//www.loansafe.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-policy | LoanSafe.org
 
@@ -22,9 +22,9 @@ The articles, comments and all the materials available on this website are for i
 
 
 
-> This website and ‘s owners will not be held liable for any user submitted content on this website. Under a Federal Law the [Communications Decency Act](http://en.wikipedia.org/wiki/Communications_Decency_Act "Communications Decency Act") or CDA, 47 U.S.C. § 230.
+> This website and ‘s owners will not be held liable for any user submitted content on this website. Under a Federal Law the [Communications Decency Act](https://en.wikipedia.org/wiki/Communications_Decency_Act "Communications Decency Act") or CDA, 47 U.S.C. § 230.
 
-**[Section 230 of the Communications Decency Act](http://en.wikipedia.org/wiki/Section_230_of_the_Communications_Decency_Act "Section 230 of the Communications Decency Act")**
+**[Section 230 of the Communications Decency Act](https://en.wikipedia.org/wiki/Section_230_of_the_Communications_Decency_Act "Section 230 of the Communications Decency Act")**
 
 No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.
 
@@ -32,7 +32,7 @@ The Communications Decency Act or CDA provides that when a user writes and posts
 
 The reasons for this rule are simple. Websites cannot possibly monitor the accuracy of the huge volume of information which their users may choose to post. If a disgruntled plaintiff were permitted to hold a website liable for information that the site did not create, this would stifle free speech as fewer and fewer sites would be willing to permit users to post anything at all. See generally Batzel v. Smith, 333 F.3d 1018, 1027“28 (9th Cir. 2003) (recognizing, Making interactive computer services and their users liable for the speech of third parties would severely restrict the information available on the Internet. Section 230 [of the CDA] therefore sought to prevent lawsuits from shutting down websites and other services on the Internet.)
 
-In general, each and every lower federal district court and federal appellate court that has construed the CDA has held that websites like LoanSafe.org are immune from virtually every type of civil liability when the site has been sued based on information posted by a third party. See Doe v. America Online, Inc., 783 So.2d 1010 (Fl. 2001); Green v. America Online, 318 F.3d 465, 470 (3rd Cir. 2003) (noting that the CDA, â€œâ€˜precludes courts from entertaining claims that would place a computer service provider in a publisher’s role,™ and therefore bars lawsuits seeking to hold a service provider liable for its exercise of a publisher’s traditional editorial functions – such as deciding whether to publish, withdraw, postpone, or alter content); [Carafano v. Metrosplash.com, Inc.](http://en.wikipedia.org/wiki/Carafano_v._Metrosplash.com "Carafano v. Metrosplash.com"), 339 F.3d 1119 (9th Cir. 2003); Schneider v. Amazon.com, Inc., 31 P.3d 37 (Wash.App. 2001); Doe v. GTE Corp., 347 F.3d 655 (7th Cir. 2003); [Zeran v. America Online, Inc.](http://en.wikipedia.org/wiki/Zeran_v._America_Online%2C_Inc. "Zeran v. America Online, Inc."), 129 F.3d 327 (4th Cir. 1997); Blumenthal v. Drudge, 992 F. Supp. 44 (D. D.C. 1998).
+In general, each and every lower federal district court and federal appellate court that has construed the CDA has held that websites like LoanSafe.org are immune from virtually every type of civil liability when the site has been sued based on information posted by a third party. See Doe v. America Online, Inc., 783 So.2d 1010 (Fl. 2001); Green v. America Online, 318 F.3d 465, 470 (3rd Cir. 2003) (noting that the CDA, â€œâ€˜precludes courts from entertaining claims that would place a computer service provider in a publisher’s role,™ and therefore bars lawsuits seeking to hold a service provider liable for its exercise of a publisher’s traditional editorial functions – such as deciding whether to publish, withdraw, postpone, or alter content); [Carafano v. Metrosplash.com, Inc.](https://en.wikipedia.org/wiki/Carafano_v._Metrosplash.com "Carafano v. Metrosplash.com"), 339 F.3d 1119 (9th Cir. 2003); Schneider v. Amazon.com, Inc., 31 P.3d 37 (Wash.App. 2001); Doe v. GTE Corp., 347 F.3d 655 (7th Cir. 2003); [Zeran v. America Online, Inc.](https://en.wikipedia.org/wiki/Zeran_v._America_Online%2C_Inc. "Zeran v. America Online, Inc."), 129 F.3d 327 (4th Cir. 1997); Blumenthal v. Drudge, 992 F. Supp. 44 (D. D.C. 1998).
 
 So, why should you care about this law? Well, if someone posts false information about you on the LoanSafe.org, the CDA prohibits you from holding us liable for the statements which others have written.
 
