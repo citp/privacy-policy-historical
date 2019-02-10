@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brandsfever.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124025810id_/https%3A//www.brandsfever.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsfever.com privacy policy that was archived on 2019-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190210230938id_/http%3A//www.brandsfever.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Brandsfever
 
-Brandsfever Pte Ltd (“ **Brandsfever** ”, or alternatively “ **we** ”, “ **our** ”, “ **ours** “, or “ **us** ”) is committed to ensuring that your personal information is protected. This Personal Data Protection Policy (“ **Policy** ”) explains how we collect, use, disclose and retain your personal information that we collect about you, and the measures that we have in place to safeguard your personal data. To this extent, we respect the confidentiality of personal data and privacy of individuals and conduct our business in line with the principles and the requirements of the Personal Data Protection Act 2012 (“ **PDPA** ”). 
+42 Venture Capital Investment Partners Limited (“ **Brandsfever** ”, or alternatively “ **we** ”, “ **our** ”, “ **ours** “, or “ **us** ”) is committed to ensuring that your personal information is protected. This Personal Data Protection Policy (“ **Policy** ”) explains how we collect, use, disclose and retain your personal information that we collect about you, and the measures that we have in place to safeguard your personal data. To this extent, we respect the confidentiality of personal data and privacy of individuals and conduct our business in line with the principles and the requirements of the Personal Data Protection Act 2012 (“ **PDPA** ”). 
 
 This Policy may apply to you even if you do not have an account with Brandsfever, and your use of our products/services means that you agree to the terms and conditions of this Policy as may be updated from time to time. 
 
@@ -77,8 +77,8 @@ We will process your request within a reasonable time from such a request for wi
 If you have any questions about this Policy or any complaints relating to your Personal Data, or you would like to obtain access and make corrections to your Personal Data records (for which we may charge a fee to cover the cost of verifying the application and locating, retrieving and copying any material requested), please contact our Data Protection Officers as follows: 
 
 Personal Data Protection Officer  
-Brandsfever Pte Ltd   
-Address: 20 Sin Ming Lane, #04-60 Midview City, Singapore 573968  
+42 Venture Capital Investment Partners Limited   
+Address: PO BOX 957, Offshore Incorporation Centre, Road Town, Tortola, British Virgin Islands  
 Contact No : +(65) 6570 9606   
 Email Address : [pdpc@brandsfever.com](mailto:pdpc@brandsfever.com)  
 
