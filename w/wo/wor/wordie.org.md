@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordie.org privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925112433id_/https%3A//www.wordnik.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordie.org privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211171823id_/http%3A//www.wordnik.com/privacy) for the most accurate reproduction.*
 
 # Wordnik's Privacy Policy
 
