@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherspark.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909023918id_/https%3A//weatherspark.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherspark.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211023721id_/https%3A//weatherspark.com/policies/privacy) for the most accurate reproduction.*
 
 # The Typical Weather Anywhere on Earth - Weather Spark
 
@@ -146,7 +146,7 @@ You can enable or disable Do Not Track by visiting the Preferences or Settings p
 
 Our Service is not directed to anyone under the age of 18 ('Children'). 
 
-We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with personal data, please contact us. If we become aware that we have collected personal data from children without verification of parental consent, we take steps to remove that information from our servers. 
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Child has provided us with personal data, please contact us. If we become aware that we have collected personal data from children without verification of parental consent, we take steps to remove that information from our servers. 
 
 ## Email Policy
 
@@ -233,5 +233,5 @@ Our postal address is:
 
 Cedar Lake Ventures, Inc.   
 2500 Shadywood Rd Ste 510   
-Excelsior MN 55331-6203   
+Excelsior, MN 55331-6203   
 United States 
