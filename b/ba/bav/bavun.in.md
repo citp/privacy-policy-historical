@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bavun.in privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224112856id_/https%3A//www.bavun.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bavun.in privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211030828id_/https%3A//www.bavun.in/privacy.html) for the most accurate reproduction.*
 
 # Bavun - Privacy policy
 
