@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hidden4fun.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021545id_/http%3A//www.hidden4fun.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidden4fun.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211085628id_/https%3A//www.hidden4fun.com/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy - at hidden4fun.com
 
@@ -22,7 +22,8 @@ Hidden4Fun.com will do whatever it takes to guarantee the privacy and the securi
 
 ## Possibility for updating your personal information and preferences
 
-Hidden4Fun.com gives you a chance to update your personal information in any time, at: Hidden4Fun.com/usercp.php
+You can freely update your personal information in any time, at: Hidden4Fun.com/usercp.php  
+If you wish to permanently delete your account and all your data from our server please write to us a info@hidden4fun.com and we will remove it physically any time you wish. 
 
 ## Changes to this Privacy Policy
 
@@ -43,46 +44,102 @@ Hidden4Fun uses the log files, regarding the information in it. Information that
 
 This information is used for discovering the demography and the habits of the visitors, in order to improve the user's interface of the site and give them better experience in general.
 
-## Cookies and Web Beacons
+## Cookies,IP address and Web Beacons
 
-We do not use cookies for storing any kind of information about the users and there is no data base with information collected using cookies.
+When you visit our Websites, our servers automatically save your computer's IP address via our analytics tracking system. IP addresses will be collected for the purpose of analytical tracking (from server and see how 
 
-  * Google, as a third party vendor, uses cookies to serve ads on your site. 
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the[Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+_[Google Analytics use the cookie](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)_
 
+) and improving the Websites, along with geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your use of the Websites. If you arrive at the Websites via a link from another website, the URL of the linking website and the URL of any website that you link to next will also be collected for the purpose of assessing our main traffic sources, and debugging and tracing.
 
+Website users who don't want their data collected with Google Analytics can install the Google Analytics opt-out browser add-on: https://tools.google.com/dlpage/gaoptout/ 
 
-Because publisher sites and laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the[Network Advertising Initiative](http://www.networkadvertising.com/), or NAI, which suggests the following language for data collection of non-personally identifying information:
+### What are cookies?
+
+You can learn more about cookies and their functions by visiting an information website like [allaboutcookies.org](http://www.allaboutcookies.org/)
+
+### Other Cookies we use:
+
+\- Session cookies : is temporarily stored in your computer’s memory while you are surfing on a site. Session cookies are not stored on your computer for a long period of time, but always disappear when you shut down your web browser.  
+\- Flash cookies: also known as a local shared object, is a text file that is sent by a Web server to a client when the browser requests content supported by Adobe Flash, a popular browser plug-in. Flash cookies are commonly used in website advertisements and videos. Our advertisers and third-party service providers also may use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.  
+In addition, we store certain information from your browser, using “cookies”.   
+We will ask you to consent to the use of our Cookies in accordance with this Privacy Policy in case this is required under the applicable data protection laws when you first use our Websites. 
+
+### Advertising Cookies
+
+Third-party targeted advertising cookies may be placed on your device by third-party advertisers, ad networks, data exchanges, marketing analytics and other service providers.We use ads from Google and ad4game.com 
+
+Third-party targeted advertising cookies collect information about your browsing activity across multiple websites and online services in order to provide you with relevant advertisements on our websites and online services. Ad networks may share this information with the advertisers using their network. The information collected using these third-party advertising cookies does not identify you personally.
+
+They are used for statistical analysis by allowing the advertiser to count how many people have seen their advertisement or have seen it more than once. They might also allow the advertiser to tailor advertising to you when you visit other websites. You should make sure you are aware of how third parties will use cookies by checking the third party’s cookie policy.
 
 > We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
-You can find additional information in Appendix A of theNAI Self-Regulatory principles for publishers. Please note that the NAI may change this sample language at any time.
+### How Google uses cookies in advertising
 
-## AddThis
+ _[Google ad and content network privacy policy](https://policies.google.com/technologies/ads)_   
+_[Google / DoubleClick](https://policies.google.com/technologies/types?hl=en)_
 
-For the bookmarking tool AddThis you should consult their privacy policy at http://www.addthis.com/privacy  
+#### How Google uses information from sites or apps that use our services
+
+ _[How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)_
+
+### How ad4game.com use coockies?
+
+ _[See more at Ad4game.com](https://ad4game.com/)_
+
+### Social Media
+
+Facebook: Features for sharing via Facebook. Does not set a cookie by itself, but if one is present it will read it. _[Facebook Privacy Policy](https://www.facebook.com/about/privacy/) _
+
+Google+: Features for sharing via Google+. Does not set a cookie by itself, but if one is present it will read it. _[Google Privacy Policy](https://www.google.com/intl/en/policies/terms/)_  
+
+### AddThis
+
+For the bookmarking tool AddThis you should consult their privacy policy at  [addthis.com](http://www.addthis.com/privacy)
+
 Hidden4Fun does not have any control over the cookies that belong to third-party advertisers.  
 In case that you wish to disable the cookies in your browser, it is necessary to find the appropriate interface for disabling or blocking cookies in it. For getting some more specific information about all of this, check out their instructions in cookie management.
 
+### Disabling cookies via your browser
+
+Through your browser settings, you can accept or decline cookies or set your browser to prompt you before accepting a cookie from the websites you visit. You can delete any cookies that have been installed in the cookie folder of your browser. The various browsers provide different procedures to manage your settings. Click on any of the browser links below for instructions.
+
+ _[Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&p=cpn_cookies)_
+
+ _[Microsoft Windows Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)_
+
+ _[Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)_
+
+ _[Apple Safari](https://support.apple.com/kb/PH5042?locale=en_GB)_
+
+ _[FLASH COOKIES](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html#118539)_  
+
+
+## Personal Data on website
+
+Hidden4Fun fully respects your right to privacy and will collect personal data from you only if you voluntarily submit such information to us. Personal data that we collect about you may include your name, email address, messenger, social account. Any personal data which you volunteer to Hidden4Fun will be treated strictly in accordance with General Data Protection Regulation (GDPR). You may refuse to supply personal data to us, except that it may prevent you from engaging in certain Site related activities.
+
+## Non-personally identifiable information
+
+We may collect non-personally identifiable information about you whenever you interact with our Site. Non-personally identifiable information may include the browser name, the type of computer and technical information about your means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
 ## Disclaimer
 
-There are two types of games on this site: games created and developed by the Hidden4Fun developers and all its co-developers, and other games which are taken as public domain, what means that they could be found easily on other pages as well and they answer to second parts site's policies.
+There are two types of games on this site: games created and developed by the Hidden4Fun developers and all its co-developers
 
 Games made by Hidden4Fun have the logo and the link to the appropriate part of the site. All rights, including the right of property and copying, are reserved to Hidden4Fun. 
 
-All other games, including the graphics, are property of their developers or owners of copy rights.If you, as a developer or owner of some games, have found certain game and you think that it should not be published on this site, please contact us on info(at)Hidden4Fun.com and we, in coordination with the webmasters and administrators of the site, will remove the game from this site within 24 - 48h.
+All other games, including the graphics, are property of their developers or owners of copy rights.
 
-On this site all users have their right to submit a game that is similar to the subject of the games that are included on this site. The administrators always concern only the most quality and the most suitable games, in terms of quality and subject of the site, and these games are those that are approved and published.
-
-We do not take responsibility for the functionality and the code of the game. If you like to check out the specific matters, including the privacy of the game that is published by Hidden4Fun.com but it's not developed by Hidden4Fun.com, you better visit the site of the developers and/or owners of the game, and look for their Privacy Policy. We remove from the site every game that is considered as contrary to the rules of using or it looks like it could cause some suspicious activities that might disturb the privacy of our users. 
+We do not take responsibility for the functionality and the code of the game. If you like to check out the specific matters, please also see the privacy of the game that is published by Hidden4Fun.com but it's not developed by Hidden4Fun.com, you better visit the site of the developers and/or owners of the game, and look for their Privacy Policy. We remove from the site every game that is considered as contrary to the rules of using or it looks like it could cause some suspicious activities that might disturb the privacy of our users. 
 
 Games made by Hidden4Fun and published on this site, or some other site, do not keep any personal information for the users, regarding the subject of the game. Games that are in property of Hidden4Fun could be distributed and published only by sides that have same subject or subject that is somehow similar to the subject of the game.
 
 ## Copyright Notices
 
-This website is owned by the owner of the domain www.Hidden4Fun.com, as well as Hidden4Fun.com. It should not be copied and its content should not be reproduced or published without permission. All logos, pictures and games developed by Hidden4Fun are in ownership of Loop Bits and HZM Labs.
+This website is owned by the owner of the domain www.Hidden4Fun.com, as well as Hidden4Fun.com. It should not be copied and its content should not be reproduced or published without permission. All logos, pictures and games developed by Hidden4Fun are in ownership of HZM Labs.
 
 All logos and pictures that are published in the games of this site, but are not made by Hidden4Fun, are taken as a part of the public domain or are published with agreement of the particular company or the developer/owner of the game.
 
- **Copyright © Loop Bits Inc   2012 - 2014 & HZM Labs 2014**
+ **Copyright © HZM Labs 2012 - 2018**
