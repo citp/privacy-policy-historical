@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stmed.net privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919151353id_/https%3A//stmed.net/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stmed.net privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211232306id_/https%3A//stmed.net/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | stmed.net
 
