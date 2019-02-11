@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resultjain.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210105529id_/http%3A//www.resultsvilla.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultjain.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211090514id_/http%3A//www.resultsvilla.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
