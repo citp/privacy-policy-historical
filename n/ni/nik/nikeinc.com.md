@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikeinc.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217122010id_/http%3A//agreementservice.svs.nike.com/rest/agreement%3FagreementType%3DprivacyPolicy%26uxId%3Dcom.nike.nikefooter%26country%3DUS%26language%3Den%26requestType%3Dredirect) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikeinc.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211160154id_/http%3A//agreementservice.svs.nike.com/rest/agreement%3FagreementType%3DprivacyPolicy%26uxId%3Dcom.nike.nikefooter%26country%3DUS%26language%3Den%26requestType%3Dredirect) for the most accurate reproduction.*
 
 # 
 
