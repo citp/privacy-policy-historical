@@ -1,63 +1,55 @@
-> *The following text is extracted and transformed from the prospectmx.com privacy policy that was archived on 2013-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130910091425id_/http%3A//www.prospectmx.com/private/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospectmx.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211174644id_/https%3A//lupeer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ProspectMX
+# Privacy Policy - Lupeer
 
-ProspectMX.com Privacy Policy
+This privacy policy discloses the privacy practices for Lupeer.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
-(last updated: January 2008)
+  * What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
+  * What choices are available to you regarding the use of your data.
+  * The security procedures in place to protect the misuse of your information.
+  * How you can correct any inaccuracies in the information.
 
-We, Prospect MX, have created this privacy statement in order to demonstrate our firm commitment to privacy. This privacy statement discloses the information collection and disclosure practices for our Web sites (the “Sites”). By accessing the Sites, you consent to the collection and use of information as described herein. We reserve the right to change this privacy statement at any time. If we make any material changes to our privacy statement, we will post a new statement on the Sites and update the effective date set forth above. Therefore, we encourage you to check the date of our privacy statement whenever you visit the Sites to see if it has been updated since your last visit.
 
-INFORMATION WE COLLECT  
-Personal Information. Our Sites provide consumers with various services related to lead generation, website development, business consulting, web presence, etc. Our sites provide our paying users of our service with various tools to help improve their business (e.g., web sites, lead generation tools, etc.) In order to provide these services, we collect information from consumers through our Sites and forward it to one or more third party service providers that use the information to provide consumers with these services. In order for us to provide these services, we also may collect supplementary personally identifying information about you from third party sources to correct or supplement the information we have requested from you. We also collect your e-mail address if you register to receive our newsletter, as well as the email addresses of others that you voluntarily provide to us as part of our “Tell A Friend” service (which we use to send an email inviting the recipient to use our services). If you are a service provider interested in our services (e.g., a web site development, lead generation, etc.) with Prospect MX, we collect your contact and professional information, including but not limited to your name, company, address, phone number and e-mail address.
 
-We may also use a third party to host our web site, including our online data collection forms. This third party provider has access to the user information for purposes such as maintaining the site.
+#### Information Collection, Use, and Sharing
 
-Aggregate Information. Aggregate information is data we collect about a group or category of products, services or users, from which individual user identities have been removed. We collect aggregate information about you and your use of our services and combine it with information about how others use the same service. Such aggregate information includes, without limitation, site traffic, page views, and impressions. This information may be correlated to you for our internal use only. However, we may collect, compile, store, publish, promote, sell, or otherwise disclose or use any and all aggregate information (i.e., information that does not personally identify you).
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-USE OF PERSONAL INFORMATION  
-We use personal information internally to serve our users and to enhance and extend our relationship with our users. For example, by understanding how you use the Sites from your computer, we are able to customize and personalize your experience. More specifically, we use personal information for the purposes for which it was collected (such as to provide you with the services), to anticipate and resolve problems with our Sites, to respond to customer support inquiries, and to send you periodic e-mail newsletters (provided you register to receive our newsletter), and for our own internal operations (including internal analysis as described below). You should review the following section to understand when we disclose personal information to third parties.
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
-DISCLOSURE OF PERSONAL INFORMATION  
-Except as set forth in this privacy statement, we do not disclose, sell, rent, loan, trade or lease any personally identifying information collected at our Sites to any third party. We will disclose personal information in the following circumstances:
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-Internal Analysis and Operations. We will use and disclose information about you for our own internal statistical, design or operational purposes, such as to estimate our audience size, measure aggregate traffic patterns, and understand demographic, user interest, purchasing and other trends among our users. We may outsource these tasks and disclose personal information about you to third parties, provided the use and disclosure of your personal information by these third parties is restricted to performance of such tasks. We may also share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business. We require our third party vendors to keep such information confidential and to only use the information for the purpose it was provided.
+#### Your Access to and Control Over Information
 
-Transaction Processing. We will disclose personal information to third parties as necessary to perform services for you. As stated above, a consumer’s personal information is forwarded to one or more third party service providers in order to provide you with the services. If a particular service provider is unable to fulfill your request within a reasonable time, we may forward your information to an alternate service provider to ensure that your request is fulfilled. Service providers may contact you to complete the transactions you have requested by any methods available to him or her including via e-mail, telephone, regular mail, in person visits or other means. We do not regulate how these third party service providers use or disclose your personal information and are not responsible for removing your information from any third party lists. Please contact the third party service providers directly to be removed from their lists.
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-Protection of Prospect MX and Others: We disclose personal information when we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this privacy statement or our other policies or agreements; to initiate, render, bill, and collect for amounts owed to us; to protect our or our users’ rights, property or safety; or to protect our users from fraudulent, abusive, or unlawful use of, our Sites; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
+  * See what data we have about you, if any.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
 
-Business Transfers. In addition, information about users of our Sites, including personally identifiable information provided to us by our users, may be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of the business assets of the company.
 
-LINKS  
-Please be aware that we may provide links to third party Web sites from our Sites as a service to our users and we are not responsible for the content or information collection practices of those sites. We have no ability to control the privacy and data collection practices of such sites and the privacy policies of such sites may differ from that of RemarkableAgents.com. Therefore, we encourage you to review and understand the privacy policies of such sites before providing them with any information.
 
-COOKIES AND WEB BEACONS  
-We may use cookies to identify users and customize their experience on our site based on information they give us. Cookies are small pieces of information or files that are stored on a user’s computer by the Web server through a user’s browser for record keeping purposes. A cookie itself is not designed or intended to read any information from your computer (other than the contents of the cookie); rather, it is an identifier used by the Web site that originally placed it on your hard drive. The actual contents of the cookie information can be retrieved by the same site’s Web server in order to personalize, monitor, or regulate the use of the site. We do not use Web beacons, or similar technology on our Sites. However, we permit third parties to place Web beacons on our Sites to monitor the effectiveness of advertising and for other lawful purposes. A Web beacon, also known as a “Web bug,” is a small, graphic image on a Web page, Web-based document or in an e-mail message that is designed to allow the site owner or a third party to monitor who is visiting a site. Web beacons collect non-personally identifying information such as the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. We do not use (or permit third parties to use) Web beacons to collect personally identifying information about you.
+#### Security
 
-SECURITY  
-We use reasonable security measures to store and maintain personally identifying information to protect it from loss, misuse, alternation or destruction by any unauthorized party while it is under our control.
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-CHILDREN  
-We do not intend, and these Sites are not designed, to collect personal information from children under the age of 16. If you are under 16 years old, you should not register for our services or otherwise provide information on our Sites.
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.
 
-CHOICE AND ACCESS
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-Prospect MX gives users the following options for accessing, changing and deleting personal information previously provided, or opting out of receiving communications from us:
+#### Cookies
 
-Email us at info@ProspectMX.com; or
+We use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
 
-Call us at the following telephone number: (866) 312-3188
+Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
-QUESTIONS AND CONCERNS
+#### Links
 
-If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, please contact us at the following address or email us at: info@ProspectMX.com  
-Prospect MX
+This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-Customer Support
+#### Updates
 
-P.O. Box 10414
+Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
-Lancaster, PA 17605
-
-Copyright © 2008 ProspectMX.com. All Rights Reserved.
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (864) 450-0409 or via email.
