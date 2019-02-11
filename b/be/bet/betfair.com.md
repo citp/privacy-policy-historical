@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betfair.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111095431id_/http%3A//www.betfair.com/aboutUs/Privacy.Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betfair.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211031248id_/http%3A//www.betfair.com/aboutUs/Privacy.Policy) for the most accurate reproduction.*
 
 # Betfair
 
