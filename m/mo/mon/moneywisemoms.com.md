@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneywisemoms.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230064850id_/https%3A//www.moneywisemoms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneywisemoms.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211222954id_/http%3A//moneywisemoms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Moneywise Moms
 
