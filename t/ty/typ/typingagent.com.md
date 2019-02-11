@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the typingagent.com privacy policy that was archived on 2018-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180511072119id_/http%3A//typingagent.com/show.php%3Fid_pag%3D31%26inc%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typingagent.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211103403id_/https%3A//typingagent.com/privacy) for the most accurate reproduction.*
 
-# Untitled Document
+# Privacy
+
+## Privacy Policy
 
 At Typing Agent, (located in Edmonds, WA 98020) we are acutely aware of the trust you place in us and our responsibility to protect your and your students’ privacy. We keep all user and account information, including free trial registrants and licensed users, strictly private and confidential. We only use the information we collect to process orders and to provide product technical support.
 
@@ -61,4 +63,4 @@ Edmonds, WA 98020
 Tel: 425.880.2500  
 Fax: 1.866.271.9646  
 Email: [support@tyingagent.com](mailto:support@tyingagent.com)  
-This website is © 2015 by Typing Agent. All rights reserved
+This website is © 2015 by Typing Agent. All rights reserved.
