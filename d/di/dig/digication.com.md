@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digication.com privacy policy that was archived on 2016-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160706142854id_/https%3A//www.digication.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digication.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211075249id_/https%3A//www.digication.com/privacy.html) for the most accurate reproduction.*
 
 # Digication
 
@@ -54,6 +54,71 @@ You may update or remove the personal information we maintain concerning you by 
 
 If you reside in the European Union, upon registration you are required to give explicit consent that the personal information you have provided may be transferred and stored in countries outside the European Union, including the United States. If you fail to provide this consent, you will not be permitted to register for and access Digication.
 
+**General Data Protection Regulation (GDPR)**
+
+The GDPR is a new comprehensive EU data privacy law that will go into effect on May 25, 2018. Along with strengthening and standardizing user data privacy across the EU nations, the GDPR will require new or additional obligations on all organizations that handle EU citizens’ and residents’ personal data, regardless of where the organizations themselves are located.
+
+**What kind of personal data does Digication store about our users?  
+Basic personal information stored for all users:**
+
+• Your first and last names  
+• Your username  
+• Your email address (in rare cases, this information is not included)
+
+**Additional optional personal information which may be stored about our users:**
+
+• A unique identifier (aka SyncID or Account ID), which may be an ID number in use at the home institution or a repeat of basic information, like username or email address. This information is typically used to manage course and group enrollment on an institutional level.  
+• Information you have added to your user profile (including preferred notification email address, support email address, SMS contact, website link, profile image)  
+• Information that your institution has sent us, such as graduation date, major, credit information or additional account metadata.  
+• Content created by our users for personal and educational goals, including ePortfolios, discussion posts and comments, and coursework submitted to assignments.
+
+**Why does Digication store this data?**
+
+The basic information we collect and store about you is the minimum amount of data required to allow you to use Digication. Additional information provided by you serves to allow you to personalize your account, and create content as part of coursework or for personal use. Additional information provided by your home institution is used to manage your account, to further educational goals, and to facilitate assessment activities.
+
+**Where is Digication data stored and how is it protected?**
+
+• Digication user data is stored on secure servers in the cloud.  
+• Our main infrastructure provider (AWS) is GDPR compliant.  
+• We hold your data in as few places as necessary.  
+• Our employees will not create any unnecessary additional data sets.  
+• Our employees are trained in data security and they will always take reasonable steps to ensure your data is kept as accurate and up to date as possible.  
+• We regularly scan for software and infrastructure vulnerabilities using various test and auditing tools as part of our software development and quality assurance processes.
+
+**How long does Digication store user data?**
+
+• Digication data is held for the lifetime of an account.  
+• Support tickets are held until a request for deletion is made.  
+• Contact details gathered as part of activities through our websites will be retained until a user makes a request to us to have data held about them deleted.
+
+**How is data destroyed?**
+
+Individual user data is removed using standard operating system and database queries, this happens within 60 days after the account is marked for deletion after a request for removal of data is finalized.
+
+**What you can ask Digication about your data:**
+
+• What specific information do you hold about me?  
+• How can I gain access to my data?  
+• How do you keep my data up to date?  
+• How is Digication meeting its data protection obligations?  
+• All requests relating to data we hold about you should be directed to [support@digication.com](mailto:support@digication.com).
+
+**Requesting the removal of the data Digication holds about you if you access Digication through a school, university or another organization:**
+
+• Contact your Digication administrator and request for your data to be removed.  
+• Your organization will then notify us of the request and it will be treated as a priority.  
+• Upon receiving this request, within 60 days we will create an inventory of all data we hold that is associated with your account. This will include: Digication user account details, all assets created or collaborated upon, submitted work, shared assets, or support tickets.  
+• The inventory will then be presented to your institution so they can discuss the implications of deleting this data.  
+• Following an agreement between you and your organization, we will remove all data required as a priority.  
+• Finally, we will notify all parties when the removal is complete.
+
+**If you access Digication through a Personal or Alumni account:**
+
+• Please contact us at [support@digication.com](mailto:support@digication.com) to request that the data we hold about you is removed.  
+• After receiving your request, within 60 days we will create an inventory of all data we hold about you and share this with you.  
+• If after viewing the inventory you still want us to delete the data then you will need to confirm via email.  
+• Once we have received consent to delete your data, we will remove it without undue delay and notify you when the process is complete.
+
 **8\. Additional Information**
 
-Questions regarding this statement or our security and information practices should be directed to our security administrator by email to security@digication.com or by regular mail addressed to Digication., Attn: Security Administrator, 10 Dorrance Street, Suite 700, Providence, RI 02903. We will endeavor to reply to you within two business days to begin our investigation into any concerns about privacy or use of data that you bring to our attention.
+Questions regarding this statement or our security and information practices should be directed to our security administrator by email to [security@digication.com](mailto:security@digication.com) or by regular mail addressed to Digication, Inc., Attn: Security Administrator, 10 Dorrance Street, STE 700, Providence, RI 02903. We will endeavor to reply to you within two business days to begin our investigation into any concerns about privacy or use of data that you bring to our attention.
