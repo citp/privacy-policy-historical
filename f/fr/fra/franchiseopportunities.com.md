@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919172422id_/https%3A//www.franchiseopportunities.com/privacy-website-usage-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211034549id_/https%3A//www.franchiseopportunities.com/privacy-website-usage-policy) for the most accurate reproduction.*
 
 # Privacy & Website Usage Policy | FranchiseOpportunities.com
 
