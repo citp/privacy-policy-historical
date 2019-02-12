@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cocksuremen.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164309id_/http%3A//www.cocksuremen.com/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cocksuremen.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212070639id_/https%3A//www.cocksuremen.com/general/privacy.php) for the most accurate reproduction.*
 
 # Cocksure Men
 
@@ -6,7 +6,7 @@
 
 This is the web site of **CockSureMen.com**.
 
-We can be reached via our online form by clicking [here](http://support.jakecruisemedia.com/).
+We can be reached via our online form by clicking [here](https://jcmedia.smartanswer.com/).
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name and IP address, but not the e-mail address.
 
