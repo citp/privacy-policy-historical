@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycoupons.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313035734id_/http%3A//www.mycoupons.com/privacy-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycoupons.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212055722id_/https%3A//www.mycoupons.com/privacy-page) for the most accurate reproduction.*
 
-# MyCoupons: Coupons, Coupon Codes, & Promo Codes
+# MyCoupons.com Privacy Statement
 
 MyCoupons.com, LLC (the "Company") values our customers and respects their privacy. We have a strong commitment to providing quality customer service. In an effort to maintain that level of service to our customers, we must utilize customer information to help us understand what aspects of mycoupons.com (the "Site") are of interest to customers and to improve the customer web experience. At the same time, we recognize that we must maintain and use customer information responsibly.
 
