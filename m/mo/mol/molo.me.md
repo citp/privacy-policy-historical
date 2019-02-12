@@ -1,61 +1,36 @@
-> *The following text is extracted and transformed from the molo.me privacy policy that was archived on 2015-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151002082712id_/http%3A//molo.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the molo.me privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212200911id_/http%3A//ww43.molo.me/privacy_policy.php) for the most accurate reproduction.*
 
-# MOLOME™
+# Privacy Policy
 
-**MOLOME™**
+* **Overview**
 
-**Privacy Policy (April 2011)**
+Thank you for visiting ww43.molo.me (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-Our privacy policy explains how personal information is collected, used and disclosed by MOLOME with respect to your access and use of our website located at MOLO.ME and MOLOME's social networking services (available via website and applications).
+* **What Type of Information We Collect**
 
-Our privacy policy may be modified from time-to-time. We will alert you that changes have been made by indicating on our privacy policy the date it was last updated.
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-**What Is Personal Information?**
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
-"Personal information" means information that specifically identifies an individual (such as a name, address, telephone number, mobile number or e-mail address) or information about that individual that is directly linked to personally identifiable information. Personal information does not include "aggregate" information, which is data we collect about the use of our application, website and our services. Our privacy policy does not restrict or limit our collection and use of aggregate information.
+* **Uses May Include**
 
-**What Personal Information Do We Collect?**
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
 
-We actively collect certain information you voluntarily provide to us, such as when you create an account and profile, send us an email or post information or other content to our site.
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
 
-We automatically collect certain information when you use our application, website and our services, such as your Internet Protocol (IP) address, your operating system, your phone model, the browser type, network and connectivity information, location information, the address of a referring site and your activity on our website and applications. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
 
-We may also automatically collect certain information through the use of "cookies" or web beacons.
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
 
-**How Do We Use the Personal Information We Collect?**
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
 
-We use personal information collected through our site and our services for the purposes described in our privacy policy or elsewhere on our site. For example, we may use personal information we collect:
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
 
-• to provide our services or information you request, and to process and complete any transactions;
 
-• respond to your emails, submissions, questions, comments, requests, and complaints and provide customer service;
-
-• to monitor and analyze site usage and trends, and to personalize and improve our site and our users’ experiences on our site, such as providing ads, content, or features that match their profiles or interests, and to increase our site's functionality and user friendliness;
-
-• to send you confirmations, updates, security alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, our site; and
-
-• for any other purpose for which the information was collected.
-
-**What Personal Information Do We Share With Third Parties?**
-
-We will not share the personal information we collect from you through our site or our services with third parties, except as described in our privacy policy or on our site. For example, we share personal information as follows:
-
-• with service providers who are working with us in connection with the operation of our site or our services;
-
-• when you give us your consent to do so, including if we notify you on our site that the information you provide will be shared in a particular manner and you provide such information;
-
-• when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests or legal authorities, including responding to lawful subpoenas, warrants or court orders;
-
-• to enforce or apply our privacy policy, our terms of use or our other policies or agreements; and
-
-• in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where personal information may be disclosed or transferred as one of the business assets of us.
-
-We are not responsible for the actions of service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties.
-
-**Links to Other Sites**
-
-Our site may contain links to other sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. Our privacy policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these sites or any other sites that are linked to from our site.
-
-**What Steps Do We Take To Protect Your Information Online?**
-
-We take reasonable measures to protect your personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse.
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
