@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestanimations.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209024132id_/http%3A//bestanimations.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestanimations.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212030929id_/http%3A//bestanimations.com/Privacy.html) for the most accurate reproduction.*
 
 # Best Animations - Privacy Policy
 
