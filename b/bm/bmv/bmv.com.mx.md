@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmv.com.mx privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919202401id_/http%3A//www.bmv.com.mx/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmv.com.mx privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212171206id_/https%3A//www.bmv.com.mx/en/privacy-policy) for the most accurate reproduction.*
 
 # .::. Grupo BMV .::. Privacy Policy
 
