@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nmsu.edu privacy policy that was archived on 2017-07-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170712140929id_/https%3A//nmsu.edu/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nmsu.edu privacy policy that was archived on 2019-02-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190212102258id_/https%3A//nmsu.edu/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
@@ -9,7 +9,7 @@
         <meta name="author" content="Melissa Chavira">
 
         <link rel="icon" href="assets/images/favicon.ico">
-        <title>Privacy |  New Mexico State University - All About Discovery!</title>
+        <title>Privacy |  New Mexico State University - BE BOLD. Shape the Future.</title>
 
         <!-- Bootstrap Glyphicon font and CSS -->
         <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
@@ -37,14 +37,15 @@ section {margin: 0px;}
         </style>
     </head>
 <body>
-<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+<div role="region" aria-labelledby="Bypass">
+	<a href="#content" class="sr-only sr-only-focusable" id="Bypass">Skip to main content</a></div>
 
         <!-- ON CANVAS CONTENT
         ================================================== -->
         <!-- header -->    
-       <nav class="navbar navbar-default navbar-fixed-top">
+       <nav class="navbar navbar-default navbar-fixed-top" aria-labelledby="quick-links">
 
-  <div class="container-fluid">
+  <div class="container-fluid" id="quick-links">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" id="navbar-header-toggle">
@@ -62,16 +63,17 @@ section {margin: 0px;}
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
      
-       <form action="//www.nmsu.edu/search_results.php" method="POST" id="site-search" class="form-search navbar-form navbar-right" role="search">
-         <div class="form-group has-feedback" role="search">
-                                    <label class="sr-only" for="search-query">Search</label>
-                                    <input name="q" type="text" id="search-query" title="Site Search" class="form-control" placeholder="Type a Keyword">
-                                    <span class="glyphicon glyphicon-search form-control-feedback text-muted" aria-hidden="true"></span>
-                                    <button name="submit_search" type="submit" id="searchButton" class="searchButton sr-only" value="Search" title="Submit Search"></button>
-                                    <input type="hidden" name="domains" value="nmsu.edu">
-                                    <input type="hidden" name="sitesearch" value="nmsu.edu">
-                                </div>
-      </form>
+     <div id="site-search" class="form-search navbar-form navbar-right" role="search">
+       <form name="cse" id="searchbox" action="https://www.nmsu.edu/search_results.html" method="get" class="form-group has-feedback">
+<input type="hidden" name="cx" value="003174599515884405122:a7gnjdfior4"><!-- Replace YOUR_CSEID with your CSE ID (!) -->
+<input type="hidden" name="ie" value="utf-8">
+<input type="hidden" name="hl" value="en">
+<input name="q" type="text" class="form-control" placeholder="Type a Keyword">
+<span class="glyphicon glyphicon-search form-control-feedback text-muted" aria-hidden="true"></span>
+<input class="searchButton sr-only" value="Go" type="submit" name="sa">
+</form>
+
+      </div>
       
       <ul class="nav navbar-nav navbar-right"> <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-link" aria-hidden="true"></span> Quick Links <span class="caret"></span></a>
@@ -98,9 +100,10 @@ section {margin: 0px;}
                 <div class="row">
                 <div class="col-lg-8 col-md-6 col-sm-5">
                  <a href="//nmsu.edu">
-					<img src="images/logov2b.png" alt="NMSU logo" width="427" height="90" class="img-responsive" id="logo" title="NMSU Home">                                </a></div>
+					<img src="images/logo-new2.png" alt="NMSU logo" width="427" height="90" class="img-responsive" id="logo" title="NMSU Home">                                </a></div>
                 <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="bold-links pull-right"> <a href="http://admissions.nmsu.edu/apply/">Apply</a> • <a href="http://admissions.nmsu.edu/visit/">Visit</a> • <a href="https://advancing.nmsu.edu/givenow">Give</a> • <a href="http://www.nmsu.edu/inside/">InsideNMSU</a> </div>
+                <div class="bold-links pull-right"> <a href="http://admissions.nmsu.edu/apply/">Apply</a> • <a href="http://admissions.nmsu.edu/visit/">Visit</a> • <a href="https://support.nmsu.edu/give/">Give</a> •
+ <a href="http://www.nmsu.edu/inside/">InsideNMSU</a> </div>
                 </div>
                 
                 </div>
@@ -110,7 +113,7 @@ section {margin: 0px;}
 
         <!-- PRIMARY NAVBAR & PAGE CONTENT
         ================================================== -->
-        <nav class="navbar1 navbar-main navbar-static-top" id="main-navigation" role="navigation">
+        <nav class="navbar1 navbar-main navbar-static-top" id="main-navigation" role="navigation" aria-label="Site Navigation">
        <div class="container">
                 
                 <div class="collapse navbar-collapse" id="main-navigation-options">
@@ -132,8 +135,9 @@ section {margin: 0px;}
         
 
         <!-- Page Detail -->
-        <div id="hero" class="bg-top"> <div class="hidden-sm hidden-md hidden-lg">
-          <div class="bold-links text-center" style="background-color: #882345"> <a href="http://admissions.nmsu.edu/apply/">Apply</a> • <a href="http://admissions.nmsu.edu/visit/">Visit</a> • <a href="https://advancing.nmsu.edu/givenow">Give</a> • <a href="http://www.nmsu.edu/inside/">InsideNMSU</a> </div>
+        <div id="hero" class="bg-top"> <div class="hidden-sm hidden-md hidden-lg" role="navigation" aria-labelledby="mobile-cta">
+          <div class="bold-links text-center" style="background-color: #882345" id="mobile-cta"> <a href="http://admissions.nmsu.edu/apply/">Apply</a> • <a href="http://admissions.nmsu.edu/visit/">Visit</a> • <a href="https://support.nmsu.edu/give/">Give</a> •
+ <a href="http://www.nmsu.edu/inside/">InsideNMSU</a> </div>
 
 </div></div> 
         
@@ -141,11 +145,11 @@ section {margin: 0px;}
             
 <!-- PAGE CONTENT
 ================================================== -->       
-          <section id="single" role="main">
+          <section id="single" role="main" aria-label="Introduction">
             <div class="container">
-              <div class="row"><nav class="breadcrumbs">
+              <div class="row"><nav class="breadcrumbs" aria-labelledby="site-breadcrumbs">
 
-    <ul>
+    <ul id="site-breadcrumbs">
         <li><a href="index.html">Home</a></li>
          <li class="seperator"><span class="glyphicon glyphicon-chevron-right"></span></li>
         <li class="here">General Information</li>
@@ -154,12 +158,18 @@ section {margin: 0px;}
     </ul>
 
 </nav>
-                <div id="content" class="col-sm-8" role="main">
-                  <h2>NMSU Website User Privacy</h2>
+                <div id="content" class="col-sm-8" role="main" aria-labelledby="lorem">
+                  <h2 wai-aria="" role="heading" aria-level="1">NMSU Website and Mobile Application User Privacy</h2>
                     <article id="lorem">
                         <p>The following administrative directive describes the information gathering and dissemination practices for <a href="http://nmsu.edu">New Mexico State University's main website</a>, all sites in the nmsu.edu domain, and other affiliated University websites/domains.</p>
-    <hr>
-    <h3>Information gathering and Cookies</h3>
+                         <hr>
+       <h2>NMSU Privacy Program</h2>
+          <p>The Privacy Office at NMSU monitors compliance with federal and state privacy regulations, as well as general industry privacy standards for all entrusted data to NMSU including but not limited to restricted or sensitive information collected, used, and retained by the University. Please visit <a href="https://privacy.nmsu.edu/"><strong>NMSU’s Privacy Office</strong></a> website for more details.
+
+</p>            
+                        
+                        <hr>
+    <h2>Information gathering and Cookies</h2>
     <p>New Mexico State University uses cookies and server log information to track user activity on the nmsu.edu website. This information includes, but is not limited to:
     </p><ol>
     <li>Usage levels of specific areas of our site.</li>
@@ -198,9 +208,9 @@ section {margin: 0px;}
                 </div>  <!-- end of content -->
                 
                 <aside id="sidebar" class="col-sm-3 col-md-offset-1">
-                     <nav class="sidebar">
+                     <nav class="sidebar" role="navigation" aria-label="Secondary Navigation">
                      <ul class="nav sidenav">
-        <li class="active"><a href="#discover">General Information</a></li>
+        <li class="sidebar-heading">General Information</li>
         <li><a href="contact-us.html">Contact Us</a></li>
         <li><a href="copyright.html">Copyright</a></li>
         <li><a href="emergency-info.html">Emergency Information</a></li>
@@ -223,12 +233,12 @@ section {margin: 0px;}
             ================================================== -->
             <div> <!-- Bottom Footer
             ================================================== -->
-            <section id="section5" class="bg-bottom">
-            <div class="container-fluid">
+            <section id="section5" class="bg-bottom" role="complementary" aria-labelledby="complementary">
+            <div class="container-fluid" id="complementary">
             <div class="row">
             <div class="col-lg-4 col-sm-4 col-xs-10">
             	<div class="center-block text-center">
-                <img src="images/logo-1.png" width="427" height="90" alt="New Mexico State University, All About Discovery" class="img-responsive bottom-logo">
+                <img src="images/logo-new2.png" width="427" height="90" alt="New Mexico State University, All About Discovery" class="img-responsive bottom-logo">
                 
                 <ul class="list-inline">
                     <li>
@@ -255,7 +265,6 @@ section {margin: 0px;}
                  <address>
                     <ul class="list-inline address">
 						<li><a href="https://www.google.com/maps/place/New+Mexico+State+University/@32.2822923,-106.7541649,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xe921e2b02d0da02d" onclick="ga('send', 'event', 'Footer', 'Search', 'Las Cruces, NM');">Las Cruces, NM</a></li>                        
-                        <li><div id="weather"></div></li>
                         <li>(575) 646-0111</li>
                     </ul>
                 </address>
@@ -264,7 +273,7 @@ section {margin: 0px;}
                 </div><!--/col-->
                  <div class="col-lg-2 col-sm-2 col-xs-12 col-sm-offset-1 col-md-offset-1">
                  <h3 class="general-information">Connect</h3>
-                <nav role="navigation"><ul class="general-information">
+                <nav aria-labelledby="General"><ul class="general-information" id="General">
                         <li><a title="connect: Contact Us" href="contact-us.html" onclick="ga('send', 'event', 'Footer', 'Search', 'Contact Us');">Contact Us</a></li>
                         <li><a title="Connect: Events" href="calendars.html" onclick="ga('send', 'event', 'Footer', 'Search', 'Events');">Campus Calendars &amp; Events</a></li>
                         <li><a title="Connect: Directory" href="https://myaccount.nmsu.edu/phonebook" onclick="ga('send', 'event', 'Footer', 'Search', 'Directory');">Directory</a></li>
@@ -274,20 +283,22 @@ section {margin: 0px;}
                 </div><!--/col-->
                  <div class="col-lg-2 col-sm-2 col-xs-12">
                  <h3 class="general-information">Resources</h3>
-                <nav role="navigation">
-                    <ul class="general-information">
+                <nav aria-labelledby="Resources">
+                    <ul class="general-information" id="Resources">
                        <li><a title="Search for Employment and Careers" href="http://jobs.nmsu.edu" onclick="ga('send', 'event', 'Footer', 'Search', 'Employment Opportunities');">Employment Opportunities</a></li>
                         <li><a title="General Information: Copyright" href="copyright.html" onclick="ga('send', 'event', 'Footer', 'General', 'Copyright');">Copyright</a></li>
                         <li><a title="General Information: Privacy" href="privacy.html" onclick="ga('send', 'event', 'Footer', 'General', 'Privacy');">Privacy</a></li>
+                        <li><a title="General Information: Non-Discrimination and Equal Opportunit" href="https://equity.nmsu.edu/notice-of-non-discrimination/">Non-Discrimination and Equal Opportunity</a></li>
                     </ul>
                 </nav>
                 </div><!--/col-->
                 <div class="col-lg-2 col-sm-2 col-xs-12">
                 <h3 class="general-information">Services</h3>
-                <nav role="navigation">
-                     <ul class="general-information">
+                <nav aria-labelledby="Services">
+                     <ul class="general-information" id="Services">
                         <li><a title="General Information: Emergency Information" href="emergency-info.html" onclick="ga('send', 'event', 'Footer', 'Search', 'Emergency Information');">Emergency Information</a></li>
                         <li><a title="General Information: Contact Us" href="http://eeo.nmsu.edu/" onclick="ga('send', 'event', 'Footer', 'Search', 'Institutional Equity');">Institutional Equity / EEO</a></li>
+                         <li><a title="General Information: Stay Safe at NMSU" href="https://staysafe.nmsu.edu/">Stay Safe at NMSU</a></li>
                          <li><a title="General Information: Student Help and Complaint Process" href="studenthelp.html" onclick="ga('send', 'event', 'Footer', 'Report', 'Student help and Complaint Process');">Student Help &amp; Complaint Process</a></li>
                           <li><a title="General Information: Inspection of Public Records" href="https://manual.nmsu.edu/inspection-of-nmsu-public-records/">Inspection of Public Records</a></li>
                         <li><a title="Provide Feedback on website" href="http://webcomm.nmsu.edu/feedback/" onclick="ga('send', 'event', 'Footer', 'Report', 'Website Feedback');">Website Feedback</a></li>
@@ -305,15 +316,15 @@ section {margin: 0px;}
             <!-- Legal and Copyright
             ================================================== -->
             <div id="copyright" class="bg-primary" role="contentinfo">
-                <div class="padded-15"> © 2015 New Mexico State University - Board of Regents <span>|</span> <a class="inverted" href="http://nmhedss2.state.nm.us/Dashboard/index.aspx?ID=15" target="_blank">New Mexico Higher Education Dashboard</a>
+                <div class="padded-15"> © 2017 New Mexico State University - Board of Regents <span>|</span> <a class="inverted" style="color:#ffffff" href="http://nmhedss2.state.nm.us/Dashboard/index.aspx?ID=15" target="_blank">New Mexico Higher Education Dashboard</a>
                 </div>
             </div>
         </footer>
 
         <!-- Scroll to Top
         ================================================== -->
-        <ul class="nav pull-right fixed-bottom-right" id="scroll-top">
-          <li><a href="#" title="Scroll to top" aria-label="Scroll to top"><span class="glyphicon glyphicon-chevron-up"></span><span class="sr-only">Scroll to Top</span></a></li>
+        <ul class="nav pull-right fixed-bottom-right" id="scroll-top" role="region" aria-labelledby="Skip">
+          <li><a href="#" title="Scroll to top" aria-label="Scroll to top" id="Skip"><span class="glyphicon glyphicon-chevron-up"></span><span class="sr-only">Scroll to Top</span></a></li>
         </ul>
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="assets/js/jquery-2.1.3.min.js"></script>
