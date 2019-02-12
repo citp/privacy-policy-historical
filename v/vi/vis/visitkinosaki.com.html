@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the visitkinosaki.com privacy policy that was archived on 2018-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181020025005id_/https%3A//visitkinosaki.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visitkinosaki.com privacy policy that was archived on 2019-02-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190212102710id_/https%3A//visitkinosaki.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="height: 100%;"><head>
 	<meta charset="UTF-8">
@@ -19,7 +19,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/js/drawer.min.js"></script>
 <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>-->
-
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
 <script type="text/javascript" src="/common/slick/slick.min.js"></script>
 <link rel="stylesheet" type="text/css" href="/common/slick/slick.css">
 <link rel="stylesheet" type="text/css" href="/common/slick/slick-theme.css">
@@ -29,7 +29,23 @@
 <link rel="stylesheet" href="https://visitkinosaki.com/vkcore/wp-content/themes/visit-kinosaki/style_custom.css">
 <link rel="stylesheet" href="https://visitkinosaki.com/vkcore/wp-content/themes/visit-kinosaki/style_accommodations.css">
 <!--GoogleAnalytics-start-->
-	<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-56308829-1', 'auto',{'allowLinker':true});ga('require','linker');ga('linker:autoLink',['smatra.jp','fep.sps-system.com','core.hi5.jp']);ga('require', 'displayfeatures');ga('set', 'dimension1', '207.241.229.237');
+<script>
+$(function(){
+
+	if(Cookies.get('cookie_policy') !='1'){
+		$('#cookie-bar').show();
+//		window['ga-disable-UA-56308829-1'] = true;
+	}else{
+		ga('send','event','cookie_policy_accept','page_view');
+	}
+	$(document).on('click','#cookie-bar-button', function() {
+		Cookies.set('cookie_policy','1',{ expires: 1000 });
+		$('#cookie-bar').hide();
+		ga('send','event','cookie_policy_accept','page_view');
+	});
+});
+</script>
+	<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-56308829-1', 'auto',{'allowLinker':true});ga('require','linker');ga('linker:autoLink',['smatra.jp','fep.sps-system.com','core.hi5.jp']);ga('require', 'displayfeatures');ga('set', 'dimension1', '207.241.229.147');
 	ga('set', 'dimension2','US');
 	ga('send', 'pageview');</script>
 	<script>
@@ -38,8 +54,14 @@
 	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 	document,'script','//connect.facebook.net/en_US/fbevents.js');
-	fbq('init', '1706245066327006');
-	fbq('track', "PageView");</script>
+	//if(Cookies.get('cookie_policy') !='1'){
+		// don't fire facebook beacon
+	//} else {
+		// Insert Your Facebook Pixel ID below.
+		fbq('init', '1706245066327006');
+		fbq('track', "PageView");
+	//}
+	</script>
 	<noscript><img height="1" width="1" style="display:none"src="https://www.facebook.com/tr?id=1706245066327006&ev=PageView&noscript=1"/></noscript>
 
 	<!-- Facebook Pixel Code -->
@@ -49,8 +71,13 @@
 	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 	document,'script','https://connect.facebook.net/en_US/fbevents.js');
-	fbq('init', '230646314024083');
-	fbq('track', 'PageView');
+	//if(Cookies.get('cookie_policy') !='1'){
+		// don't fire facebook beacon
+	//} else {
+		// Insert Your Facebook Pixel ID below.
+		fbq('init', '230646314024083');
+		fbq('track', 'PageView');
+	//}
 	</script>
 	<noscript><img height="1" width="1" style="display:none"
 	src="https://www.facebook.com/tr?id=230646314024083&ev=PageView&noscript=1"
@@ -58,7 +85,6 @@
 	<!-- DO NOT MODIFY -->
 	<!-- End Facebook Pixel Code -->
 <!--GoogleAnalytics-end-->
-
 
 
 	
@@ -88,9 +114,9 @@
 <link rel="alternate" type="application/rss+xml" title="Visit Kinosaki » Feed" href="https://visitkinosaki.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Visit Kinosaki » Comments Feed" href="https://visitkinosaki.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/visitkinosaki.com\/vkcore\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/visitkinosaki.com\/vkcore\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://visitkinosaki.com/vkcore/wp-includes/js/wp-emoji-release.min.js?ver=4.9.8" type="text/javascript" defer=""></script>
+		</script><script src="https://visitkinosaki.com/vkcore/wp-includes/js/wp-emoji-release.min.js?ver=4.9.9" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -107,7 +133,7 @@ img.emoji {
 </style>
 <link rel="stylesheet" id="mappress-css" href="https://visitkinosaki.com/vkcore/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.48.4" type="text/css" media="all">
 <link rel="stylesheet" id="wp-pagenavi-css" href="https://visitkinosaki.com/vkcore/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
-<link rel="stylesheet" id="visit-kinosaki-style-css" href="https://visitkinosaki.com/vkcore/wp-content/themes/visit-kinosaki/style.css?ver=4.9.8" type="text/css" media="all">
+<link rel="stylesheet" id="visit-kinosaki-style-css" href="https://visitkinosaki.com/vkcore/wp-content/themes/visit-kinosaki/style.css?ver=4.9.9" type="text/css" media="all">
             <script>
                 if (document.location.protocol != "https:") {
                     document.location = document.URL.replace(/^http:/i, "https:");
@@ -116,7 +142,7 @@ img.emoji {
             <link rel="https://api.w.org/" href="https://visitkinosaki.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://visitkinosaki.com/vkcore/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://visitkinosaki.com/vkcore/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.8">
+<meta name="generator" content="WordPress 4.9.9">
 <link rel="shortlink" href="https://visitkinosaki.com/?p=35">
 <link rel="alternate" type="application/json+oembed" href="https://visitkinosaki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvisitkinosaki.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://visitkinosaki.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvisitkinosaki.com%2Fprivacy%2F&amp;format=xml">
@@ -319,6 +345,15 @@ $(function() {
 <!--END--FACEBOOK PAGE PLUGIN JavaScript SDK-->
 
 <div id="wrapper">
+	<div id="cookie-bar">
+		<div class="cookie-bar-outter">
+			<div class="cookie-bar-inner">
+				<p class="cookie-bar-text">We use cookies on this site to enhance your user experience. If you continue to browse, you accept the use of cookies on our site. See our <a href="/cookie-policy/" class="cookie-bar-link">cookies policy</a> for more information.</p>
+				<a href="javascript:void(0);" id="cookie-bar-button">Accept</a>
+			</div>
+		</div>
+	</div>
+
 	<header id="common-header">
 		<div class="w1100 gnav-sub pc-content">
 			<a href="/fr/">French Site</a> | <a href="/lodging/resvcancel/" target="_bank">Reservation Confirmation / Cancellation</a> | <span class="animate-toggle-title"><i class="fa fa-search" aria-hidden="true"></i>
@@ -704,7 +739,7 @@ TEL: +81-796-21-9002</p>
 
 <script type="text/javascript" src="https://visitkinosaki.com/vkcore/wp-content/themes/visit-kinosaki/js/navigation.js?ver=20151215"></script>
 <script type="text/javascript" src="https://visitkinosaki.com/vkcore/wp-content/themes/visit-kinosaki/js/skip-link-focus-fix.js?ver=20151215"></script>
-<script type="text/javascript" src="https://visitkinosaki.com/vkcore/wp-includes/js/wp-embed.min.js?ver=4.9.8"></script><div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="https://web.archive.org/web/20190421034534/https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google Translate"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Original text</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Contribute a better translation</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div>
+<script type="text/javascript" src="https://visitkinosaki.com/vkcore/wp-includes/js/wp-embed.min.js?ver=4.9.9"></script><div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="https://web.archive.org/web/20190421034534/https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google Translate"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Original text</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Contribute a better translation</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div>
 
 
 
