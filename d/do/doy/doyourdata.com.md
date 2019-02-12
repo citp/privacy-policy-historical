@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doyourdata.com privacy policy that was archived on 2018-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180718201742id_/https%3A//www.doyourdata.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyourdata.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212151131id_/https%3A//www.doyourdata.com/privacy.html) for the most accurate reproduction.*
 
 # DoYourData Software Privacy Policy
 
