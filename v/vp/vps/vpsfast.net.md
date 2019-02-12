@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpsfast.net privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815033013id_/https%3A//vpsfast.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpsfast.net privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212163259id_/https%3A//vpsfast.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VPSFAST
 
