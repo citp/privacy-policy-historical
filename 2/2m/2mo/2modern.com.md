@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2modern.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005010509id_/https%3A//www.2modern.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2modern.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212150201id_/https%3A//www.2modern.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy & Security Policy - 2Modern
 
