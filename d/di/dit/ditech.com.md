@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019194917id_/https%3A//www.ditech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ditech.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212075455id_/https%3A//www.ditech.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ditech
 
@@ -12,13 +12,13 @@ We understand that you expect us to maintain proper safeguards to protect your c
 
 ### We collect, use and retain information about you only for legitimate business purposes.
 
-We gather, use and keep information about you only if required by law, or we believe that the information is necessary to administer our business, and/or to serve your interests by providing you with products, services, and other opportunities. Your information is processed through secured servers certified as such by GoDaddy.
+We gather, use and keep information about you only if required by law, or we believe that the information is necessary to administer our business, and/or to serve your interests by providing you with products, services, and other opportunities.
 
 “Cookies” are small files that are stored on your computer. They contain website addresses and codes that your browser sends to websites every time you visit them. We may send cookies to your computer to enhance your online experience, primarily by allowing us to recognize you as a Customer or previous visitor and to store your personal preferences.
 
-We may also use remarketing ads displayed through third-party vendors such as Google to reach users, based on their past interactions with us. Third-party vendors use cookies to serve ads based on someone’s previous visits to our website. To opt out of Google’s use of cookies for remarketing purposes, you can visit Google’s Ads Preference Manager. Alternatively, to opt out of the use of other third-party vendor’s use of cookies visit the Network Advertising Initiative Opt-Out Page.
-
 “Web beacons” are small graphics images (usually invisible) embedded in web pages or e-mails. We may use web beacons to track (1) how users navigate our website (for example, to note how long a webpage was viewed) and (2) what recipients of our HTML e-mails do with them (for example, to determine whether they are deleted, skimmed, opened, printed, forwarded, etc.). Although cookies and web beacons do not store personally identifiable information, if you choose to provide personally identifiable information through our website, that information can be linked to the technical information stored in cookies and web beacons. You may set your browser to reject cookies from us and/or any other website. In addition, you may set your browser to display HTML e-mails as text only, which may prevent the use of some web beacons. (Note that some areas of our website may be accessed, now or in the future, only in conjunction with cookies or web beacons; thus, disabling cookies or web beacons might prevent you from accessing content in those areas.) Please consult the “Help” section of your browser for more information.
+
+We may also use remarketing ads displayed through third-party vendors such as Google to reach users, based on their past interactions with us. Third-party vendors use cookies to serve ads based on someone’s previous visits to our website. To opt out of Google’s use of cookies for remarketing purposes, you can visit Google’s Ads Preference Manager. Alternatively, to opt out of the use of other third-party vendor’s use of cookies visit the Network Advertising Initiative Opt-Out Page.
 
 Your ongoing use of our website and HTML e-mails constitutes your acceptance of our Privacy Policy and your acknowledgment of our described use of cookies and web beacons.
 
