@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the property.ie privacy policy that was archived on 2018-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180720134445id_/https%3A//www.property.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the property.ie privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212185048id_/https%3A//www.property.ie/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies - Property.ie
 
@@ -100,7 +100,7 @@ When you contact an advertiser though our site, we will use the personal data th
 
   * _Communications_
 
-We will contact you via email and messages posted on our website or apps. These messages will communicate about service related issues and security updates. Where you have consented for us to do you, we will also contact you with promotional marketing materials from us and from our partners. You can update your marketing preferences at any time within your account. Please note that it will not be possible to opt out of receiving service messages from us. This includes messages relating to security and legal notices. 
+We will contact you via email and messages posted on our website or apps. These messages will communicate about service related issues and security updates. Where you have consented for us to do you, we will also contact you with promotional marketing materials from us and from our partners. You can update your marketing preferences at any time within your account. Please note that it will not be possible to opt out of receiving service messages from us. This includes messages relating to security and legal notices. We may issue marketing materials to the properties that are listed on our platform for the purposes of advertising our services to the occupiers of such properties. 
 
   * _Advertising_
 
@@ -132,10 +132,6 @@ We retain access to all personal information that we have collected from you. If
   * _Our Services_
 
 Our service allows you to engage with other members of our site. If you send a message to another member of our site, your message will be shared with that site member. If you comment on an advert, or leave feedback on the account of another person, these will be publicly visible on our site. 
-
-  * _Services Provided by Others_
-
-Where you have opted to purchase a BER Assessment as part of your advertising package, any information that you provide to Daft.ie in respect of this service will be shared with our partner Residential Utility Management Ltd. and their agents. This information will be held and used by Residential Utility Management Ltd. and their appointed third party BER assessor, for the sole purpose of providing you with a BER assessment and associated documentation. You can view the privacy policy of this third party by visiting [](https://propertybutton.io/terms-and-conditions/)
 
   * _Service Providers_
 
@@ -208,7 +204,7 @@ This statement will be updated when necessary to reflect changes that we make to
 
   * _Contact information_
 
-If you have any questions in relation to this Policy, please contact our Data Privacy Officer at [dpo@daft.ie](mailto:dpo@daft.ie). You can also contact us by writing to 
+If you have any questions in relation to this Policy, please contact our Data Privacy Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2246524d62464344560c4b47). You can also contact us by writing to 
 
 
 
@@ -307,6 +303,14 @@ __gads | Targeting |  This cookie is associated with the DoubleClick for Publish
 Google Analytics  
 _ga | Analytics |  This cookie is associated with Google Universal Analytics. This cookie is used to distinguish unique users by assigning a randomly-generated number as a client identifier. It is used to calculate visitor, session and campaign data for our analytical reports. It expires after 2 years.   
 _gid | Analytics |  This cookie name is associated with Google Universal Analytics. It may store and update a unique value for each page visited. It expires after 1 day.   
+HotJar  
+_hjClosedSurveyInvites | Analytics |  This cookie is set once a visitor interacts with a Survey invitation modal popup. It is used to ensure that the same invite does not re-appear if it has already been shown. Lasts 365 days.   
+_hjDonePolls | Analytics |  This cookie is set once a visitor completes a poll using the Feedback Poll widget. It is used to ensure that the same poll does not re-appear if it has already been filled in. Lasts 365 days   
+_hjMinimizedPolls | Analytics |  This cookie is set once a visitor minimizes a Feedback Poll widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site. Lasts 365 days   
+_hjDoneTestersWidgets | Analytics |  This cookie is set once a visitor submits their information in the Recruit User Testers widget. It is used to ensure that the same form does not re-appear if it has already been filled in. Lasts 365 days   
+_hjMinimizedTestersWidgets | Analytics |  This cookie is set once a visitor minimizes a Recruit User Testers widget. It is used to ensure that the widget stays minimizes when the visitor navigates through the site. Lasts 365 days   
+_hjIncludedInSample | Analytics |  This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels. Lasts 365 days   
+_hjShownFeedbackMessage | Analytics |  This cookie is set when a visitor minimizes or completes Incoming Feedback. This is done so that the Incoming Feedback will load as minimized immediately if they navigate to another page where it is set to show. Lasts 365 days.   
 Tealium  
 utag_main | Analytics |  This cookie name is associated with the Tealium data platform and is used for web analytics. It expires after 1 year.   
 PageFair  
