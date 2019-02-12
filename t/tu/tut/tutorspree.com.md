@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorspree.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226114717id_/https%3A//www.wyzant.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorspree.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212064712id_/https%3A//www.wyzant.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Wyzant Tutoring
 
