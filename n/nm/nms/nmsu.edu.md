@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the nmsu.edu privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712140929id_/https%3A//nmsu.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmsu.edu privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212102258id_/https%3A//nmsu.edu/privacy.html) for the most accurate reproduction.*
 
-# Privacy | New Mexico State University - All About Discovery!
-
-## NMSU Website User Privacy
+# Privacy | New Mexico State University - BE BOLD. Shape the Future.
 
 The following administrative directive describes the information gathering and dissemination practices for [New Mexico State University's main website](http://nmsu.edu/), all sites in the nmsu.edu domain, and other affiliated University websites/domains.
 
 * * *
 
-### Information gathering and Cookies
+## NMSU Privacy Program
+
+The Privacy Office at NMSU monitors compliance with federal and state privacy regulations, as well as general industry privacy standards for all entrusted data to NMSU including but not limited to restricted or sensitive information collected, used, and retained by the University. Please visit [**NMSU’s Privacy Office**](https://privacy.nmsu.edu/) website for more details. 
+
+* * *
+
+## Information gathering and Cookies
 
 New Mexico State University uses cookies and server log information to track user activity on the nmsu.edu website. This information includes, but is not limited to: 
 
