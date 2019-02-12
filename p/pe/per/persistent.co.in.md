@@ -1,106 +1,111 @@
-> *The following text is extracted and transformed from the persistent.co.in privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003064044id_/https%3A//www.persistent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the persistent.co.in privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212180610id_/https%3A//www.persistent.com/privacy-notice) for the most accurate reproduction.*
 
-# Persistent’s Data Privacy Policy | Persistent Systems
+# Website Privacy Notice | Persistent Systems
 
-##  **Persistent’s Data  
-Privacy Policy**
+Persistent Systems Limited, its subsidiaries and affiliates including Persistent Systems Limited, Persistent Systems Inc., Persistent Systems Pte. Ltd., Persistent Systems France SAS, Persistent Systems Malaysia Sdn. Bhd., Persistent Telecom Solutions Inc (d.b.a. Accelerite), Akshat Corporation (d.b.a. R-Gen Solutions), Aepona Limited, Valista Limited, Persistent Systems Lanka (Private) Limited (erstwhile Aepona Software (Private) Limited), Aepona Holdings, Aepona Group Limited, Persistent Systems Mexico, S.A. de C.V., Persistent Systems Israel Ltd., Persistent Systems Germany GmbH, PARX Werk AG, PARX Consulting GmbH and any other directly controlled entities as may exist from time to time and their web presence via the domains Persistent.com, Accelerite.com and any other domains created from time to time, hereinafter referred to as ‘Persistent’, ‘we’, ‘us’ or ‘our’ is committed to respect your privacy and choices. The statement highlights our privacy practices regarding Personal Information that we collect and store through this website and for the Personal Information that you provide us while interacting with us on our website (this “Site”) and participating in our events and campaigns.
 
-##  Our Commitment to Privacy, Data Integrity & Security of Information 
+###### I. Collection of Personal Data and its Processing
 
-Data privacy is important to us. Our privacy policy describes how we collect, use and disclose information that we may obtain through this Site or as a part of our internal processes.
+**I.1 Personal Information that we process**
 
-##  **We collect information in the following ways:**
+For the purposes of this privacy notice, ‘Personal Information’ is any data which relates to an individual who may be identified from that data, or from a combination of a set of data, and other information which is in possession of Persistent.
 
-##  Information Collected via Company Site 
+In general, you may browse our website without providing any Personal Information about yourself. However, we collect certain information such as:
 
-  * We collect information when users browse this Site or any other Persistent website in which user can provide information directly, including personally identifiable information as part of the online job application process or in the process of registering for a Persistent sponsored training, event, user group, or conference.
-
-
-
-  * Also, when you visit our site, we collect the IP address of the device you use to connect to the Internet the type of operating system you have, and which site you came from. This information helps us provide an online experience that matches your device and may include:
+  * Personal Data that you provide via our website, including information you provide through forms on this Site e.g. name, email address, designation and company;
+  * Information about your computer and about your visits to and use of this Site, such as your Internet Protocol (IP) address, demographics, your computers’ operating system, and browser type and information collected via cookies;
+  * Cookie related details are provided in the [Cookie Policy](https://web.archive.org/cookie-policy/)
 
 
 
-  * Your response to one of our emails
-  * Time and duration of your visit to our site
-  * Pages you viewed while on our site
+**I.2 Use of your Personal Data**
+
+We use your Personal Data for the following purposes:
+
+  * To provide better usability, troubleshooting and Site maintenance;
+  * To understand which parts of this Site are visited and how frequently;
+  * To provide access to desirable content based on your preferences;
+  * To process job applications (more details about which are available on corresponding portals of this website);
+  * To provide information and services as requested by you;
+  * To assess queries, requirements, and process requests for products and services;
+  * To perform client communication, service, billing and administration;
+  * To conduct data analysis;
+  * To maintain leads;
+  * To run marketing or promotional campaigns;
+  * To create brand awareness;
+  * To provide better services and generate demand;
+  * To market products and services based on legitimate business interest under the applicable law; and
+  * To conduct processing necessary to fulfil other contractual obligations for the individual.
 
 
 
-  * Financial information such as the employee bank account details, investment details, salary related data including but not limited to Form No. 16, dependent or nominee list, reimbursements or voucher details, employee exemption forms (Medical / LTA/ rent), details related to tax benefits, employee’s income through previous employer or other payment instrument details are held for the purpose of processing salary and to satisfy legal, regulatory or accounting requirements under  
-the applicable laws.
-  * Employment-related Personal Information data of serving and former employees are held for the administration and processing of employment-related matters including appointments, integrity checking, postings and transfers, offer/renewal/extension of agreement, incremental credit, training and career development, revision of terms or conditions of service, promotion, discipline, continuation in or removal from office, provident fund and provision of testimonials. Some personal particulars may be published in Persistent Systems website.
+**I.3 Legal basis for processing Personal Data**
+
+We process your Personal Data when it is in the legitimate interests of Persistent in connection with marketing, sales, promotion of services which we provide, or which are procured using our services and to improve and enhance the range of those services and offerings. We process your Personal Data in the following circumstances:
+
+  * Communication – We may use your Personal Data to administer and provide services you request or have expressed an interest in, to communicate with you in case of customer support, to process transactions, for sending newsletters, updates and promotional materials, for seeking your opinion and feedback and personalize and/or tailor any communications that we may send you.
+  * Advertising – We may use your Personal Data to carry out advertising and market research based on behavioural metrics, geo-location data, demographic data and marketing preferences we capture. We may permit certain third-party companies to help us tailor advertising based on use.
+  * Activity Tracking – We may use your Personal Data to track your activity on our digital platforms and personalize and improve your experience. This can be used to create an individual profile for you so that we can understand and respect your preferences or for profiling purposes to enable us to personalize and/or tailor any marketing communications that you may consent to receive from us.
+  * Optimization- We may use your Personal Data to operate, improve and maintain this Site, to prevent fraud and abuse.
+  * Data Sharing – We may use and share your Personal Data with third parties with whom we have contractual relationship. For example, we may connect you with our empanelled repairer or broker for processing of claims.
 
 
 
-  * Employees are responsible for the authenticity of the Personal Information supplied to Persistent Systems.
-  * Employment-related Personal Information held by Persistent with regards to serving or former employees include name, address, social security identification number, records of personal and family particulars, education and qualifications, employment history, salary and allowances, terms and conditions of service, housing, medical records, leave and passages, training, investments, outside employment, appraisal reports, assessment panels’ comments, promotion board assessments and reports, conduct and discipline, career development, retirement and pension, re-employment or extension of service and renewal of agreement or revision of agreement terms.
+###### II. Disclosure of Personal Data, Data Recipients and Transfer:
+
+Persistent does not share your Personal Data with third parties for marketing purposes without seeking your prior permission.
+
+We share your Personal Data within:
+
+  * Persistent;
+  * Business partners;
+  * Service vendors;
+  * Authorized third-party agents; or
+  * Contractors
 
 
 
-  * Cookies are text files placed in your computer’s browser to store certain preferences and information, which may enhance your browsing experience through providing better user experience on Persistent´s websites .
-  * Cookies may be used to personalize your website experience, such as recognizing you by name when you return.
+The following applies only where the data controller processing your Personal Data is domiciled in the European Economic Area (“EEA”):
+
+We transfer Personal Data to countries outside the EEA to third parties, including to countries which have different data protection standards to those which apply in the EEA. Where service providers process your Personal Data in countries deemed adequate by the European Commission, we rely on the European Commission’s decision to protect your Personal Data.
+
+For transfers to Persistent group companies and service providers outside the EEA, we use standard contractual clauses or rely on controller-processor contracts entered in to with the service providers.
+
+###### IV. Access, correction, objection of your Personal Data:
+
+Subject to the local legal requirements, you have the right to access, correct, delete or transfer your Personal Data that we hold, including your profile and preferences. You also have the right to object to certain processing and, where we have asked for your consent to process your Personal Data, to withdraw this consent. Where we process your Personal Data because we have a legitimate interest in doing so (as explained above), you also have a right to object to this. These rights may be limited in some situations – for example, where we can demonstrate that we have a legal requirement to process your Personal Data. Specifically, in certain circumstances, you have the following personal data protection rights:
+
+  * The right to be informed. As a data controller, we are obliged to provide clear and transparent information about our data processing activities. This is provided by this privacy policy and any related communications we may send you.
+  * The right to access, update or to delete the personal information we have on you.
+  * The right to be forgotten. Where no overriding legal basis or legitimate reason continues to exist for processing personal data, you may request that we delete the personal data. This includes personal data that may have been unlawfully processed. We will take all reasonable steps to ensure erasure.
+  * The right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete.
+  * The right to object. You have the right to object to our processing of your Personal Data including where processing involves automated decision-making.
+  * The right of restriction. You can also ask us to delete or restrict how we use your personal information, but this right is determined by applicable law and may impact your access to some of our services.
+  * The right to data portability. You have the right to be provided with a copy of your Personal Data in a structured, machine-readable and commonly used format.
+  * The right to withdraw consent. You also have the right to withdraw your consent at any time where we relied on your consent to process your personal information.
 
 
 
-  * We do not use Cookies to track or collect personal identification information from website users.
-  * You may change the settings of your browser to delete existing cookies or prevent future cookies from being automatically accepted
-  * If you disable cookies, certain parts and functions of our website may not be available.
+Please note that we may ask you to verify your identity before responding to such requests. You can assert your rights in the corresponding sections by contacting us at [ privacyofficer@persistent.com](mailto:privacyofficer@persistent.com)
 
+###### V. Security of your Personal Data
 
+Persistent intends to protect your Personal Data and to maintain its accuracy, and we implement reasonable administrative, physical security, and technical controls in order to safeguard your Personal Data from unauthorised access, use and disclosure. 
 
-##  How Do We Use the Information We Collect / Information we share 
+###### VI. Retention of your Personal Data
 
-Persistent does not sell, rent or lease personal data, or disclose it to third parties unless there is a legally valid reason, or a contractual obligation for doing so. In order to perform its valid obligation towards Personal Information provider, Persistent may share the Personal Information with third-party business partners including contractors, pay-roll processors, auditors, and legal advisors (“Third-Party Partners”); provided that a receipt has been received stating that recipient shall also maintain confidentiality and protect the Personal Information. Persistent will adhere to all applicable laws and expects our Third-Party Partners to do the same.  
-Persistent may disclose the Personal Information without employee’s express written permission, if allowed under applicable laws, in circumstances that include, but are not limited to:
+Personal Data will not be retained for a period more than necessary to fulfil the purposes outlined in this privacy notice, unless a longer retention period is required by law or for directly related legitimate business purposes.
 
-  * Requests from governmental agencies, subpoenas, court orders or other legal requirements. In these circumstances, Persistent will make reasonable effort to limit the nature of the disclosure.
-  * Limited employment status data (including dates of employment and positions held) in the course of an employment-related inquiry.
-  * Emergency situations as necessary to ensure health and safety.
+Persistent provides links to third-party websites and services. However, Persistent is not responsible for the privacy statements, practices, or the contents of such third-party websites. 
 
+Alternately you can write to us at:  
+Privacy Officer  
+Persistent Systems Ltd  
+Bhageerath, 402 E, Senapati Bapat Road  
+Pune – 411 016,  
+State: Maharashtra  
+Country: India 
 
+###### IX. Updates to this Privacy Notice
 
-  * Persistent respects employee preferences concerning the treatment of Personal Information that Persistent may collect from them. Persistent Systems takes reasonable measures to protect the Personal Information from loss, misuse, or unauthorized access, disclosure, alteration or destruction. Persistent stores personal data, regardless of its form, with security procedures appropriate to the sensitivity of the data.
-  * Persistent Systems destroys all Personal Information that is no longer needed for the purposes for which it was collected, unless its retention is required to satisfy legal, regulatory or accounting requirements or to protect our interests. Records which may contain Personal Information are retained and destroyed by Persistent Systems in accordance with the company’s Record Retention Policy.
-  * Persistent Systems takes reasonable steps to ensure that all dealings in Personal Data are:
-
-
-
-  * Processed fairly & lawfully;
-  * Obtained only with the consent of the Personal  
-Information provider;
-  * Collected, only when: the information is collected for a lawful purpose connected with a function or activity of Persistent Systems; and the collection of the information is considered necessary for that purpose.
-  * Not retained for a period longer than is required for the purposes for which the information may be lawfully be used or is otherwise required under any law for the time being in force.
-  * Available for review by the Personal Information provider, as and when requested.
-
-
-
-##  Information Security 
-
-We work hard to protect Persistent and our users from unauthorized access to or unauthorized alteration,  
-disclosure or destruction of information we hold. In particular:
-
-  * This site has security measures in place to protect the loss, misuse, and/or alteration of information under our control. The data resides behind a firewall, with access restricted to authorized Persistent personnel.
-
-
-
-  * We restrict access to personal information to Persistent employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
-
-
-
-##  Third Party Content 
-
-Persistent may provide links to third-party websites and services. However, Persistent is not responsible for the privacy statements, practices, or the contents of such third-party websites.
-
-##  Enforcement 
-
-We regularly review our compliance with our Privacy Policy. We also adhere to several self-regulatory frameworks.
-
-##  Changes to this Policy 
-
-Please note that this Privacy Policy may change from time to time and the same will be communicated in writing (including email notification of Privacy Policy changes). Persistent Systems will not reduce employee rights that are permitted under the applicable laws. InfoSec will continue to review the effectiveness of this policy to ensure it is achieving its stated objectives. The most recent policy will be published and will reflect the effective date.
-
-##  Grievances 
-
-Any grievance or complaint, in relation to processing of information, should be addressed in writing to Persistent System’s designated Privacy Officer, who shall redress the grievances as expeditiously as possible at  
-[Privacyofficer@persistent.co.in](mailto:privacyofficer@persistent.co.in;)
+Persistent may change the data privacy practices and update this privacy statement as and when the need arises, and the same will be made available on the website.
