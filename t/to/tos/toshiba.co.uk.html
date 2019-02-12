@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the toshiba.co.uk privacy policy that was archived on 2018-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181126060817id_/http%3A//www.toshiba.co.uk/generic/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toshiba.co.uk privacy policy that was archived on 2019-02-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190212191514id_/http%3A//www.toshiba.co.uk/generic/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="EN" dir="ltr" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36"><head>
 		<meta charset="utf-8">
@@ -20,7 +20,10 @@
 		<script type="text/javascript" src="/js/ToshibaNEP/app.js"></script>
 		<script type="text/javascript" src="/js/init_slider.js"></script>
 		<script type="text/javascript" src="/js/initSelector.js"></script>
-		<script type="text/javascript" src="/js/ToshibaNEP/home.js"></script>
+		<!-- Mantis # 18347 remove home.js from NEP Generic pages
+	    <script type="text/javascript" src="/js/ToshibaNEP/home.js"></script> --> 
+		<script type="text/javascript" src="/js/cookieFilter.js"></script>
+
 		
 		<!-- start block device flag script //-->
 <script>
@@ -131,7 +134,7 @@ var trackOutboundLink = function(url) {
  <div id="alert_shadow"></div>
 </div><![endif]-->
 <!-- end nep block IE6 warning //--><!-- start nep cookies warning -->
-<div id="cookies_container" style="display:none">
+<div id="cookies_container" style="height: 91px; overflow: hidden;">
 				      <div id="cookies_block">
 				            <div class="cookies_copy">
 				            	<p>We use cookies to ensure that we give you the best experience on our website. If you continue to browse without changing your settings, we’ll assume that you’re happy to receive all the cookies on this Toshiba website. You can also click the “Continue” button to accept our policy in your browser so this message does not appear in the future. You can, of course, change your cookie preferences at any time via your browser settings.  Details of our cookies and cookie policy are accessible under the link “Find out more”.</p>
@@ -303,22 +306,21 @@ Toshiba Europe</a>
 									<a id="About Toshiba" title="About Toshiba" class="parent" data-ga-label="About Toshiba" style="height: 36px;">About Toshiba<span class="hover-line"></span></a>
 								    	<ul aria-hidden="true" class="nav-expand" style="top: 60px;"> <!-- ul open - Second LEVEL UL opened here --> <!-- preLevel=1 / curLevel=2-->
 								<li class="li-column"> <!-- li open - Second LEVEL LI opened for all -->
-								<img src="/contents/en_GB/MENU_ITEM/images/ti_president.jpg" alt="Message from the President">
-								<a href="http://www.toshiba.co.jp/worldwide/about/message.html" id="Message from the President" title="Message from the President" data-ga-label="Message from the President">Message from the President</a>
-									</li> <!-- li closed - Second LEVEL LI closed here when no third level available --> <!-- preLevel=2 / curLevel=2-->
-								<li class="li-column"> <!-- li open - Second LEVEL LI opened for all -->
-								<img src="/contents/en_GB/MENU_ITEM/images/img_Careers.jpg" alt="Careers">
-								<a href="https://careers.toshiba.eu//Pages/Page1.aspx" id="Careers" title="Careers" data-ga-label="Careers">Careers</a>
-									</li> <!-- li closed - Second LEVEL LI closed here when no third level available --> <!-- preLevel=2 / curLevel=2-->
-								<li class="li-column"> <!-- li open - Second LEVEL LI opened for all -->
 								<img src="/contents/en_GB/MENU_ITEM/images/ti_nep_inside_toshiba.jpg" alt="About Toshiba">
 								<a class="drop-arrow padding-s parent" href="https://www.toshiba.co.jp/worldwide/about/index.html" id="About Toshiba" title="About Toshiba" data-ga-label="About Toshiba">About Toshiba</a>
 									<ul><li class="sub-navigation extraLink"><a href="https://www.toshiba.co.jp/worldwide/about/index.html">About Toshiba</a></li> <!-- ul opened - Third LEVEL UL opened here --> <!-- preLevel=2 / curLevel=3-->
 								<li class="sub-navigation"> <!-- li opened - Third LEVEL LI opened here --> <!-- preLevel=2 / curLevel=3-->
 								<a href="http://www.toshiba.co.jp/about/company-split/index.htm" id="Business Structure" title="Business Structure" data-ga-label="Business Structure">Business Structure</a>
 									</li> <!-- li closed - Third LEVEL LI closed here --> <!-- preLevel=2 / curLevel=3-->
+							<li class="sub-navigation"> <!-- li opened - Third LEVEL LI opened here --> <!-- preLevel=3 / curLevel=3-->
+								<a href="http://www.toshiba.co.jp/worldwide/about/message.html" id="Message from the President" title="Message from the President" data-ga-label="Message from the President">Message from the President</a>
+									</li> <!-- li closed - Third LEVEL LI closed here --> <!-- preLevel=3 / curLevel=3-->
 							</ul> <!-- ul closed - Third LEVEL UL closed here --> <!-- preLevel=3 / curLevel=2-->
 									</li> <!-- li closed - Second LEVEL LI closed here when third level is available --> <!-- preLevel=3 / curLevel=2-->
+								<li class="li-column"> <!-- li open - Second LEVEL LI opened for all -->
+								<img src="/contents/en_GB/MENU_ITEM/images/img_toshiba-clip-menu.jpg" alt="Toshiba Clip">
+								<a href="https://www.toshiba-clip.com/en/?utm_source=toel&amp;utm_campaign=502e" id="Toshiba Clip" title="Toshiba Clip" data-ga-label="Toshiba Clip">Toshiba Clip</a>
+									</li> <!-- li closed - Second LEVEL LI closed here when no third level available --> <!-- preLevel=2 / curLevel=2-->
 								<li class="li-column"> <!-- li open - Second LEVEL LI opened for all -->
 								<img src="/contents/en_GB/MENU_ITEM/images/ti_toshiba_research_eu.jpg" alt="Toshiba Research Europe">
 								<a class="drop-arrow padding-s parent" href="http://www.toshiba.eu/eu/Toshiba-Research-Europe/" id="Toshiba Research Europe" title="Toshiba Research Europe" data-ga-label="Toshiba Research Europe">Toshiba Research Europe</a>
@@ -331,6 +333,10 @@ Toshiba Europe</a>
 									</li> <!-- li closed - Third LEVEL LI closed here --> <!-- preLevel=3 / curLevel=3-->
 							</ul> <!-- ul closed - Third LEVEL UL closed here --> <!-- preLevel=3 / curLevel=2-->
 									</li> <!-- li closed - Second LEVEL LI closed here when third level is available --> <!-- preLevel=3 / curLevel=2-->
+								<li class="li-column"> <!-- li open - Second LEVEL LI opened for all -->
+								<img src="/contents/en_GB/MENU_ITEM/images/img_Careers.jpg" alt="Careers">
+								<a href="https://careers.toshiba.eu//Pages/Page1.aspx" id="Careers" title="Careers" data-ga-label="Careers">Careers</a>
+									</li> <!-- li closed - Second LEVEL LI closed here when no third level available --> <!-- preLevel=2 / curLevel=2-->
 								<li class="li-column"> <!-- li open - Second LEVEL LI opened for all -->
 								<img src="/contents/en_GB/MENU_ITEM/images/ti_fellowship_programme.jpg" alt="Toshiba Fellowship Programme">
 								<a href="https://careers.toshiba.eu/Fellowship/Pages/Page1.aspx" id="Toshiba Fellowship Programme" title="Toshiba Fellowship Programme" data-ga-label="Toshiba Fellowship Programme">Toshiba Fellowship Programme</a>
@@ -537,7 +543,7 @@ This document has been reviewed and revised in accordance with and prior to the 
 <a href="http://www.toshiba.co.uk/generic/cookie-policy/" title="" id="Cookie Policy">Cookie Policy</a>
 <a href="http://www.toshiba.co.uk/sitemap/" title="Sitemap" id="Sitemap">Sitemap</a>
 <div class="footerCopyright">
-	Copyright © 2018 Toshiba Corporation
+	Copyright © 2019 Toshiba Corporation
 
 <!-- Copyright © 2016 Toshiba Corporation. All rights reserved.<br>Ultrabook is a trademark of Intel Corporation in the U.S. and/or other countries.<br>Google, Google Play,Google Chrome, Gmail, Google Maps, Google Docs and YouTube are trademarks of Google Inc. --></div>
 </div>
@@ -546,7 +552,7 @@ This document has been reviewed and revised in accordance with and prior to the 
 		
 		
 <!-- num -->
-<!-- Created on Mon Nov 26 06:08:17 GMT 2018 -->
+<!-- Created on Tue Feb 12 19:15:14 GMT 2019 -->
 <!-- ### ### -->
 
 
