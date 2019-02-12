@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the civicuk.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224154849id_/http%3A//www.civicuk.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civicuk.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212142253id_/https%3A//www.civicuk.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy - CIVIC UK
 
-[Home](https://web.archive.org/) / Privacy Statement
+Some services on this website require us to collect personal information from you. To comply with the Data Protection Act, we have a duty to tell you how we store the information we collect and how it is used. Any information you do submit will be stored securely and will never be passed on or sold to any third party.
 
 ## User anonymity and personal information
 
 Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.
 
-Aggregated analysis of these log files is used to monitor website usage. These analyses may be made to available to CIVIC staff and partner agencies to allow them to measure, for example, overall popularity of the site and typical user paths through the site.
+Aggregated analysis of these log files is used to monitor website usage. These analyses may be made available to CIVIC staff and partner agencies to allow them to measure, for example, overall popularity of the site and typical user paths through the site.
 
 Except as stated already, CIVIC will make no attempt to identify individual users. You should be aware, however, that access to web pages will generally create log entries in the systems of your ISP or network service provider. These entities may be in a position to identify the client computer equipment used to access a page. Such monitoring would be done by the provider of network services and is beyond the responsibility or control of CIVIC.
 
@@ -22,45 +22,36 @@ All log file information collected by CIVIC is kept secure and no access to raw 
 
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties.
 
-Cookie Name |  Description  
+Cookie Name | Description  
 ---|---  
-HACIVICLB | Load Balancer: This cookie is used by CIVIC's load balancer to identify the server that is active for your request on our cluster. It's purpose is to improve the performance of the website. **This is an essential cookie to the operation of the site that is always set by the load balancer and does not store any personal information. This cookie might be set from the civicuk.com domain or from stats.civiccomputing.com**  
-HAAPPLB | Load Balancer: This cookie is used by CIVIC's load balancer to identify the server that is active for your request on our cluster. It's purpose is to improve the performance of the website. **This is an essential cookie to the operation of the site that is always set by the load balancer and does not store any personal information.  ** **This cookie might be set from the civicuk.com domain or from stats.civiccomputing.com**  
+HACIVICLB, HACIVIC, HAAPPLB | 
+
+Load Balancer: This cookie is used by CIVIC's load balancer to identify the server that is active for your request on our cluster. It's purpose is to improve the performance of the website.
+
+This is an essential cookie to the operation of the site that is always set by the load balancer and does not store any personal information. This cookie might be set from the civicuk.com domain or from stats.civiccomputing.com  
+  
 JSESSIONID | 
 
 This is a simple token used by Java applications to identify your unique session on the website. Typically used to maintain the integrity of your session while transacting information with a website (accessing secure areas, forms submissions etc)  
   
-civicAllowCookies  
-civicShowCookieIcon | Cookie Control cookies. These cookies are set in order to remember preferences in regards to cookies.   
-__utma | 
+__stripe_mid | 
+
+Session cookie for Stripe, used to collect payments in the Cookie Control download page.  
+  
+CookieControl | 
+
+Cookie Control cookies. This cookie is set in order to remember the user's preferences in regards to cookies.  
+  
+__utma, __utmb, __utmc, __utmc, _ga, _gat, _gid | 
 
 Google Analytics: We use Google Analytics to monitor traffic levels, search queries and visits to this website.
 
-Google Analytics stores IP address anonamously on its servers in the US, and neither CIVIC or Google associate your IP address with any personally identifiable information.
+Google Analytics stores IP address anonamously on its servers in the US, and neither CIVIC or Google associate your IP address with any personally identifiable information.
 
-These cookies enable Google to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.  
-**These cookies are set only after the user has given consent to us to use cookies.**  
+These cookies enable Google to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.
+
+These cookies are set only after the user has given consent to us to use cookies.  
   
-__utmb  
-__utmc  
-__utmz  
-_pk_id.* | 
+__atuvc, __atuvs | 
 
-Piwik: We use Piwik to monitor traffic levels, search queries and visits to this website.
-
-These cookies enable Piwik to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.  
-**These cookies are set only after the user has given consent to us to use cookies.**  
-  
-_pk_ses.*  
-PIWIK_SESSID  
-k, guest_id | Twitter cookies. **These cookies are set only after the user has given consent to us to use cookies.**  
-  
-## Data protection and confidentiality
-
-Some services on this website require us to collect personal information from you. To comply with the Data Protection Act, we have a duty to tell you how we store the information we collect and how it is used.
-
-Any information you do submit will be stored securely and will never be passed on or sold to any third party.
-
-## Contact Whatever you need
-
-If you have a question or query about the services we offer or what we can do for your business, call us on **0131 624 9830** or email [info@civicuk.com](mailto:info@civicuk.com)
+These cookies are used from AddThis social sharing widget in order to make sure you see the updated count when you share a page.
