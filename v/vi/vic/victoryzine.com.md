@@ -1,49 +1,93 @@
-> *The following text is extracted and transformed from the victoryzine.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209140852id_/http%3A//victoryzine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victoryzine.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212135340id_/http%3A//www.victoryzine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | victoryzine
+# Privacy Policy - How To Find The Best Apartments In Wichita Kansas
 
-Privacy Policy
+This Privacy Policy governs the manner in which victoryzine collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.victoryzine.com website (“Site”).
 
-This policy describes how and why Online Business Services SA, incorporated in Costa Rica, collects non-personally identifiable data from users and website visitors to Victory Zine (http://www.victoryzine.com), and how that data will be used. Online Business Services SA is committed to respecting the privacy of non-personal identifiable data gathered.
+### Personal identification information
 
-Use of Data
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Victory Zine uses non-personally identifiable data collected from users and website visitors in order to:
+### Non-personal identification information
 
-1) To improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-2) To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.
+### Web browser cookies
 
-3) To provide you with support and handle inquires.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-4) To enforce our terms of use and/or EULA.
+### How we use collected information
 
-5) To comply with any applicable law and assist law enforcement agencies as required.
+victoryzine may collect and use Users personal information for the following purposes:
 
-6) To conduct surveys and market researches.
+  * _To run and operate our Site_  
+We may need your information display content on the Site correctly.
 
-7) We may use anonymous, statistical or aggregated information about the website’s use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion.
 
-Cookies and Log Files
 
-Cookies may be used on some pages of our site. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors.
+### How we protect your information
 
-If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our website.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems.
+### Sharing your personal information
 
-Age Limit
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-To use this website you must be at least 18 years of age. We never knowingly collect or maintain information at or on our website from those we actually know are under 18. If you are not 18 years of age you must obtain written consent from an adult who is at least 18 years of age before using this website.
+We may share or sell information with third parties for marketing or other purposes.
 
-Changes to Policy
+### Sharing your personal information
 
-From time to time, we may revise this Privacy Policy. Therefore, it is recommended that you read it periodically. All substantial changes made to this policy will be notified on the website, at our sole discretion, and will take effect immediately.
+This Privacy Policy governs the manner in which victoryzine collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.victoryzine.com website (“Site”).
 
-Governing Law
+### Personal identification information
 
-This Privacy Policy is governed by and construed in accordance with the laws of Costa Rica. You agree to submit any dispute arising out of your use of this Web site to the exclusive jurisdiction of the courts of Costa Rica.
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Contact us
+### Non-personal identification information
 
-Please direct all questions in connection with this Policy via e-mail to: INFO (AT) VICTORYZINE (DOT) COM.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+### Web browser cookies
+
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+### How we use collected information
+
+victoryzine may collect and use Users personal information for the following purposes:
+
+  * _To run and operate our Site_  
+We may need your information display content on the Site correctly.
+
+
+
+### How we protect your information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+### Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+We may share or sell information with third parties for marketing or other purposes.
+
+### Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. You may learn more about opting out of major ad networks at https://websitebuilders.com/tools/advertiser-opt-out/.
+
+### Google Adsense
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+
+### Changes to this privacy policy
+
+victoryzine has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This privacy policy was built using the generator at www.PrivacyPolicies.com.
+
+### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
+
+This document was last updated on October 31, 2017
