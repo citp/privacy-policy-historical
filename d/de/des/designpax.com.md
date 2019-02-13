@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the designpax.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815225038id_/http%3A//www.designpax.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designpax.com privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213191331id_/https%3A//www.designpax.com/pages/privacy.html) for the most accurate reproduction.*
 
 # 
 
-[](http://www.designpax.com/)
+[](https://www.designpax.com/)
 
 ## Need Help? Call Us
 
