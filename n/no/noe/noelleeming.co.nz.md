@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noelleeming.co.nz privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223194326id_/https%3A//www.noelleeming.co.nz/help/terms-and-conditions/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noelleeming.co.nz privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213095946id_/https%3A//www.noelleeming.co.nz/help/terms-and-conditions/privacy-policy.html) for the most accurate reproduction.*
 
 # What is your Privacy Policy? - Noel Leeming
 
