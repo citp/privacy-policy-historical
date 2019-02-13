@@ -1,159 +1,148 @@
-> *The following text is extracted and transformed from the go-short.me privacy policy that was archived on 2016-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160904224221id_/http%3A//7dollartemplates.com/terms.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-short.me privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213121258id_/http%3A//go-short.me/pages/privacy-policy) for the most accurate reproduction.*
 
-# 7 Dollar Templates - Spice Up Your $7 Secrets Script with New Template!
+# Privacy Policy
 
-****Terms and Conditions of**** ****Sale****
+The following is the privacy policy of google, so with that I will implement on my blog by e-mail address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-By ordering, you agree that you have read and will adhere to these terms and conditions. 
+Last modified: March 1, 2012 ([view archived versions](http://www.google.com/policies/privacy/archive/))
 
-**Disclaimer: **
+There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](http://www.google.com/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy.
 
-Every effort has been made to accurately represent this product and it's potential. Even though this industry is one of the few where one can write their own check in terms of earnings, there is no guarantee that you will earn any money using the techniques and ideas in these materials. Examples in these materials are not to be interpreted as a promise or guarantee of earnings. Earning potential is entirely dependent on the person using our product, ideas and techniques. We do not purport this as a “get rich scheme.” 
+Our Privacy Policy explains:
 
-Your level of success in attaining the results claimed in our materials depends on the time you devote to the program, ideas and techniques mentioned, your finances, knowledge and various skills. Since these factors differ according to individuals, we cannot guarantee your success or income level. Nor are we responsible for any of your actions. 
+  * What information we collect and why we collect it.
+  * How we use that information.
+  * The choices we offer, including how to access and update information.
 
-Materials in our product and our website may contain information that includes or is based upon forward-looking statements within the meaning of the securities litigation reform act of 1995. Forward-looking statements give our expectations or forecasts of future events. You can identify these statements by the fact that they do not relate strictly to historical or current facts. They use words such as “anticipate,” “estimate,” “expect,” “project,” “intend,” “plan,” “believe,” and other words and terms of similar meaning in connection with a description of potential earnings or financial performance. 
 
-Any and all forward looking statements here or on any of our sales material are intended to express our opinion of earnings potential. Many factors will be important in determining your actual results and no guarantees are made that you will achieve results similar to ours or anybody else’s, in fact no guarantees are made that you will achieve any results from our ideas and techniques in our material. 
 
-Results may vary, as with any business opportunity, you could make more or less. Success in ANY business opportunity is a result of hard work, time and a variety of other factors. No express or implied guarantees of income are made when purchasing this product. But you knew that already, didn't you? 
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](http://www.google.com/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](http://www.google.com/support/websearch/bin/answer.py?answer=151265&hl=en).
 
-**Limitation of Liability:**
+### Information we collect
 
-UNDER NO CIRCUMSTANCES SHALL 7 Dollar Templates OR ITS OWNERS, PARTNERS, SITE DEVELOPERS, ETC BE LIABLE TO ANY MEMBER ON ACCOUNT OF THAT MEMBER'S USE OR MISUSE OF OR RELIANCE ON THESE SERVICES. ARISING FROM ANY CLAIM RELATING TO THIS AGREEMENT OR THE SUBJECT MATTER HEREOF SUCH LIMITATION OF LIABILITY SHALL APPLY TO PREVENT RECOVERY OF DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, AND PUNITIVE DAMAGES WHETHER SUCH CLAIM IS BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, (EVEN IF 7 Dollar Templates OR ITS PARTNERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES). SUCH LIMITATION OF LIABILITY SHALL APPLY WHETHER THE DAMAGES ARISE FROM USE OR MISUSE OF AND RELIANCE ON THE 7 Dollar Templates SERVICES, FROM INABILITY TO USE THE 7 Dollar Templates SERVICES, OR FROM THE INTERRUPTION, SUSPENSION, OR TERMINATION OF THE 7 Dollar Templates SERVICES (INCLUDING SUCH DAMAGES INCURRED BY THIRD PARTIES). THIS LIMITATION SHALL ALSO APPLY WITH RESPECT TO DAMAGES INCURRED BY REASON OF OTHER SERVICES OR GOODS RECEIVED THROUGH OR ADVERTISED ON THE 7 Dollar Templates SERVICES OR RECEIVED THROUGH ANY LINKS PROVIDED IN THE 7 Dollar Templates. SERVICES, AS WELL AS BY REASON OF ANY INFORMATION OR ADVICE RECEIVED THROUGH OR ADVERTISED ON THE 7 Dollar Templates SERVICES OR RECEIVED THROUGH ANY LINKS PROVIDED IN THE ISOREGISTER.COM SERVICES. THIS LIMITATION SHALL ALSO APPLY, WITHOUT LIMITATION, TO THE COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, LOST PROFITS, OR LOST DATA.
+We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which ads you’ll find most useful or the people who matter most to you online.
 
-7 Dollar Templates does not warrant that the functions contained in the materials will be uninterrupted or error-free, or that our web site or the server that makes it available is free of viruses or other harmful components. 7 Dollar Templates does not warrant or make any representations regarding the use or the results of the use of the materials in our web site in terms of their correctness, accuracy, reliability, or otherwise. You (and not 7 Dollar Templates) assume the entire cost of all necessary servicing repair or correction.
+We collect information in two ways:
 
-**PRIVACY POLICY **
+  * Information you give us. For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](http://www.google.com/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783), which may include your name and photo.
+  * Information we get from your use of our services. We may collect information about the services that you use and how you use them, like when you visit a website that uses our advertising services or you view and interact with our ads and content. This information includes: 
+    * Device informationWe may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Google may associate your device identifiers or phone number with your Google Account.
+    * Log informationWhen you use our services or view content provided by Google, we may automatically collect and store certain information in [server logs](http://www.google.com/policies/privacy/key-terms/#toc-terms-server-logs). This may include: 
+      * details of how you used our service, such as your search queries.
+      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls.
+      * [Internet protocol address](http://www.google.com/policies/privacy/key-terms/#toc-terms-ip).
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.
+      * cookies that may uniquely identify your browser or your Google Account.
+    * Location informationWhen you use a location-enabled Google service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers.
+    * Unique application numbersCertain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates.
+    * Local storageWe may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
+    * Cookies and anonymous identifiersWe use various technologies to collect and store information when you visit a Google service, and this may include sending one or more [cookies](http://www.google.com/policies/privacy/key-terms/#toc-terms-cookie) or [anonymous identifiers](http://www.google.com/policies/privacy/key-terms/#toc-terms-identifier) to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Google features that may appear on other sites.
 
-**\- IMPORTANT - PLEASE READ**
 
-This Privacy Policy describes the terms of our commitment to your privacy. 
 
-**PERSONS OR PARTIES COVERED** **   **
+### How we use information we collect
 
-This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers.  Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy.  Subscribers to lists or Newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy.  Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this website are called "Members" herein and are covered by this Privacy Policy.  Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract.  The website, its agents, owners, operators, and employees are referred to collectively herein as "Website," "Site," and/or "Seller". 
+We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Google and our users. We also use this information to offer you tailored content – like giving you more relevant search results and ads.
 
-**PERSONS EXCLUDED FROM THIS WEBSITE ARE STILL COVERED **
+We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo.
 
-In the event that a person excluded from this website because of the Terms of Use or from denial of service by the website, who nonetheless unlawfully views this site, that person remains subject to the terms of this Privacy Policy and is in violation of the Terms of Use. 
+When you contact Google, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
 
-**PERSONS UNDER 18 YEARS OF AGE ARE EXCLUDED FROM THIS WEBSITE **
+We use information collected from cookies and other technologies, like [pixel tags](http://www.google.com/policies/privacy/key-terms/#toc-terms-pixel), to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with sensitive categories, such as those based on race, religion, sexual orientation or health.
 
-_This website is not lawfully accessible to persons under the age of 18 or who are otherwise covered by the provisions of the Child Online Privacy Act of 1998 (COPA).   If you are under the age of 18 you must leave this site immediately.  Fraudulent use of this website may make you subject to civil or criminal sanctions.  _
+We may combine personal information from one service with information, including personal information, from other Google services – for example to make it easier to share things with people you know. We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent.
 
-**VIEWING AND/OR USE AND/OR COMMUNICATION IS CONSTRUED AS ACCEPTANCE OF THE TERMS OF THIS POLICY **
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.
 
-Acceptance of the terms of this Privacy Policy is a portion of the consideration required for your right to visit the website.  If you do not accept these terms, you have no right to visit this site and you are fraudulently using this site. 
+Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live.
 
-**A NOTE TO** **CALIFORNIA** **RESIDENTS(ONLINE PRIVACY PROTECTION ACT OF 2003 \--OPPA) **
+### Transparency and choice
 
-It is the intent of the Privacy Policy to comply with the California Act.  Various provisions throughout this Privacy Policy address requirements of the act.  In summary, you must presume that we collect electronic information from all visitors.  This is not usually personally identifiable.  If you purchase a product or service via this website (and thereby become covered by the Act), the purchase agreement you electronically sign prior to purchase allows the website to collect and archive all the personal information you provide and to transmit and/or transfer that personal information to third parties.  There is no way you can modify this information and you have no right to do so.  Under the terms of the purchase agreement, you have no right to view or receive any information about our database.  In the event that the website, under advice of counsel agrees to divulge information, the requesting party must submit whatever information is demanded by the website in insure that the website is releasing information to the correct party.  Other provisions of the OPPA may exempt this website from complying.  While we take measures to ensure that outside parties do not have access to any information we have about you, we do not warranty that outside parties will not breach our system and thus have access to your information.  (You should know that merchant service providers do not allow us access to your credit card information.)  This Privacy Policy also is subject to change without notice.  You are required to read it prior to using the website.  By interacting with the website you agree to the terms and conditions of the Privacy Policy.  By using the website or purchasing a product through this website, you waive the right to use state or federal court systems to address complaints and, instead, agree to use the American Arbitration Association located in a city and county specified herein. 
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can:
 
-**ABOUT THE PERSONAL INFORMATION THIS WEBSITE COLLECTS AND HOW IT IS USED **
+  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard.
+  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your ads preferences, such as which categories might interest you, using the Ads Preferences Manager. You can also opt out of certain Google advertising services here.
+  * [Use our editor](http://support.google.com/accounts/bin/answer.py?hl=en&answer=97706) to see and adjust how your Google Profile appears to particular individuals.
+  * [Control](http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with.
+  * [Take information](http://www.dataliberation.org/) out of many of our services.
 
-This website routinely collects information about its visitors, subscribers, members, and customers.  This information is obtained in various ways, such as: 
 
-**VISITOR, SUBSCRIBER, MEMBER, OR CUSTOMER INFORMATION OBTAINED FROM 'REGISTRATION' **
 
-Registration means that the Visitor, Subscriber, Member or Customer takes active, positive steps to communicate information to this website.  This can include pages or 'pop ups' where you register for a newsletter or subscribe to a mailing list; it can include your participation in visitor surveys; it can include requesting information from the website via email, mail, or courier; it may be from joining an affiliate program or other membership organization, paid or unpaid; it may be from ordering a product. 
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences.
 
-Occasionally complete credit card information may be provided to the website via fax or a fill-in form rather than regular secure merchant service processing.  This information is kept at the highest level of security and is never divulged to anyone except the merchant service provider or for the purpose of communication with the customer. 
+### Information you share
 
-**ONLINE ORDERING **
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on sharing and removing your content.
 
-Online ordering via SSL encrypted communication provided by shopping cart services supporting merchant service companies like Visa and Master Card provides information to the website but does not provide complete credit card numbers.  In the process of online ordering, the customer provides, name, address, city, state, email address, phone number, CVV2 (back of card) number, and, occasionally a member password.  You should consider all this information available to the website.  This information is used to deliver the product, but under the Purchase Agreement you also approve its use for general solicitation purposes. 
+### Accessing and updating your personal information
 
-**VISITOR EMAIL INQUIRIES **
+Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
 
-Website visitors who wish to communicate with the website do so under two conditions:  one, they give their permission for contact by the website; two, they are subject to any ‘submission’ provisions of the Terms of Use, Purchase Agreement, or this Privacy Policy.  While your email address may or may not be used to solicit you, it is added to the website's general solicitation database. 
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes).
 
-**CUSTOMER EMAIL OR TESTIMONIALS **
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
 
-If you are a customer and send an email to the website, or if you communicate with the site by phone or mail, the website collects information about your communication and by communicating with the site you give your permission to collect, archive, retrieve, and otherwise use any information collected as the site sees fit. 
+### Information we share
 
-Any communication which, in its sole discretion, the site deems to be a testimonial, may be publicized for commercial purposes. 
+We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances apply:
 
-**INFORMATION OBTAINED FROM VISITOR INTERACTION WITHBANNERS, POPUPS, OR SITE ADVERTISERS** ** **
+  * With your consentWe will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](http://www.google.com/policies/privacy/key-terms/#toc-terms-sensitive-info).
+  * With domain administratorsIf your Google Account is managed for you by a [domain administrator](http://support.google.com/a/bin/answer.py?hl=en&answer=178897) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+    * view statistics regarding your account, like statistics regarding applications you install.
+    * change your account password.
+    * suspend or terminate your account access.
+    * access or retain information stored as part of your account.
+    * receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request.
+    * restrict your ability to delete or edit information or privacy settings.
 
-Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this website must assume that information is being collected about them.  This site is not responsible for the use of information collected in such a fashion.  Visitors must assume that (1) information will be collected, (2) that ‘cookies’ will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
+Please refer to your domain administrator’s privacy policy for more information.
 
-**INFORMATION OBTAINED FROM REFERRING EMAIL OR REFERRING URLS **
+  * For external processingWe provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+  * For legal reasonsWe will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+    * meet any applicable law, regulation, legal process or enforceable governmental request.
+    * enforce applicable Terms of Service, including investigation of potential violations.
+    * detect, prevent, or otherwise address fraud, security or technical issues.
+    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
 
-If you send a friend an email from this site or if you send the url or one of our web pages to a friend, you must assume that some data is collected about your IP address or your email address and that of your friend.  You must assume that referred emails or web pages may appear to come from your email.  You must accept fully responsibility for referring pages or email to a friend and agree to indemnify this site for any damage, intentional or unintentional that results from said referrals. 
 
-**INFORMATION OBTAINED FROM VOLUNTARY VISITOR, SUBSCRIBER, MEMBER OR CUSTOMER SURVEYS **
 
-Unless otherwise specified in the survey, you must assume that any information provided to the website as part of a survey in which you participate may be used for general solicitation for commercial purposes and that such information will be shared with joint venture partners, affiliates, marketing organization or used by the site itself for product design or solicitation purposes. 
+We may share aggregated, [non-personally identifiable information](http://www.google.com/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services.
 
-**INFORMATION OBTAINED FROM ELECTRONIC MEANS AND 'COOKIES'** ** **
+If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
 
-Many websites, including this one, collect information about your computer, your email address, your IP address.  You must assume that your web-viewing or web-use activity is monitored, tracked, and information collected.  This information is not usually of a personal nature, but it may help define your viewing habits and product preferences even though the website may or may not have any idea who you are. 
+### Information security
 
-"Cookies" is web jargon for bits of computer code placed on your hard drive.  Websites use this to keep you 'logged in', to keep track of search criteria, to monitor use, to password protect use of the site or use of products sold by the site.  Cookies can also be used to obtain information about your computer configuration or your use of your computer. 
+We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular:
 
-Cookies can be used to electronically gather information about you.  Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use 'cookies' and to use the information gathered from their use to benefit you.  You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations. 
+  * We encrypt many of our services [using SSL](http://support.google.com/websearch/bin/answer.py?answer=173733&en).
+  * We offer you [two step verification](http://support.google.com/accounts/bin/static.py?hl=en&page=guide.cs&guide=1056283&topic=1056284) when you access your Google Account, and a [Safe Browsing feature](http://www.google.com/chrome/intl/en/more/security.html) in Google Chrome.
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems.
+  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
-**HOW INFORMATION MAY BE USED **
 
-The use of information as described below may or may not be how information that is collected is customarily used by this site.  While actual use of any information collected may be used quite conservatively, you must assume that it is not.  You must assume that information collected is shared with other persons or entities for commercial purposes.  While this may or may not occur, you must assume that it is as you make your decision whether or not to view or interact with this website.  This type of shared information may include your name, address, phone number, email address and buying habits, as well as other information.  This information may be used for general commercial solicitation by this website or other persons it is sold to, rented to, or shared with. 
 
-**INFORMATION THAT IS NOT SHARED **
+### Application
 
-Credit card information or other financial information is not usually known to the website.  However, in the event that it is made known, that information is never revealed to anyone except to processing authorities or law enforcement agencies.  However, the provider of such information gives express permission to use it in fraud investigation or for litigation. 
+Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
 
-**BULLETIN BOARDS AND PUBLIC FORUMS **
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
 
-Visitors, subscribers, members, or customers who use any site provided bulletin boards or other public forums, such as chat rooms, do so at their own risk.  You may not assume that the site monitors these services or protects you in any manner from information you post publicly or share with anyone else via these services. 
+### Enforcement
 
-**SPAM  **
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](http://www.google.com/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
 
-By providing to this website information that forms the basis of communication with you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this website since, by providing such information, you agree to receive communication from us or other marketing organizations.  However, all email communication with you shall contain an 'unsubscribe' link where you may notify the website that you no longer wish to receive solicitations or information from the website and your name will be removed from the general solicitation database. 
+### Changes
 
-**DATA SECURITY **
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
 
-This website takes measures to protect its data that contains information related to you.  However, as a consideration for viewing this site or interacting with this site in any manner, you waive all claims of any nature against this site concerning the loss, alteration, or misuse of information.  You must assume that it is possible for your personal data to be obtained by others, such as "hackers," and used in an inappropriate manner that may cause you harm and that you agree that the site is not responsible for damages to you. 
+### Specific product practices
 
-**REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE **
+The following notices explain specific privacy practices with respect to certain Google products and services that you may use:
 
-This Privacy Policy is dynamic.  It will continually change.  You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes.  Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification.  Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications. 
+  * [Chrome and Chrome OS](http://www.google.com/chrome/intl/en/privacy.html)
+  * [Books](http://books.google.com/intl/en/googlebooks/privacy.html)
+  * [Wallet](http://wallet.google.com/files/privacy.html?hl=en)
 
-**LATEST UPDATE **
 
-This Privacy Policy was last updated on:  30/03/2008 
 
-**DISPUTES **
-
-As part of the consideration that the Website requires of the Visitor to view, use, or interact with this site, Visitor agrees to use binding arbitration for any claim, dispute, or controversy ("CLAIM") of any kind (whether in contract, tort or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues. 
-
-Arbitration shall be conducted pursuant to the rules of the American Arbitration Association, which are in effect on the date a dispute is submitted to the American Arbitration Association.  Information about the American Arbitration Association, its rules, and its forms are available from the American Arbitration Association,  335 Madison Avenue , Floor 10,  New York , New York , 10017-4605 .  Hearing will take place in the city or county of the Seller. 
-
-In no case shall the Visitor have the right to go to court or have a jury trial.  Visitor will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator's decision will final and binding with limited rights of appeal. 
-
-The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, travel expenses. 
-
-**JURISDICTION AND VENUE **
-
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address. 
-
-**APPLICABLE LAW** ** **
-
-Visitor agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website owner(s).
-
-DISCLAIMER 
-
-While all attempts have been made to verify information provided in this publication, neither the Author nor the Publisher assumes any responsibility for errors, omissions, or contrary interpretation of the subject matter herein.  This publication is not intended for use as a source of legal or accounting advice. The Publisher wants to stress that the information contained herein may be subject to varying state and/or local laws or regulations. All users are advised to retain competent counsel to determine what state and/or local laws or regulations may apply to the user's particular business. 
-
-The Purchaser or Reader of this publication assumes responsibility for the use of these materials and information. Adherence to all applicable laws and regulations, federal, state, and local, governing professional licensing, business practices, advertising, and all other aspects of doing business in the United States or any other jurisdiction is the sole responsibility of the Purchaser or Reader. 
-
-The Author and Publisher assume no responsibility or liability whatsoever on the behalf of any Purchaser or Reader of these materials. Any perceived slights of specific people or organizations are unintentional. 
-
-Disclaimer: Every effort has been made to accurately represent this product and it's potential. Even though this industry is one of the few where one can write their own check in terms of earnings, there is no guarantee that you will earn any money using the techniques and ideas in these materials. Examples in these materials are not to be interpreted as a promise or guarantee of earnings. Earning potential is entirely dependent on the person using our product, ideas and techniques. We do not purport this as a “get rich scheme.” 
-
-Your level of success in attaining the results claimed in our materials depends on the time you devote to the program, ideas and techniques mentioned, your finances, knowledge and various skills. Since these factors differ according to individuals, we cannot guarantee your success or income level. Nor are we responsible for any of your actions. 
-
-Materials in our product and our website may contain information that includes or is based upon forward-looking statements within the meaning of the securities litigation reform act of 1995. Forward-looking statements give our expectations or forecasts of future events. You can identify these statements by the fact that they do not relate strictly to historical or current facts. They use words such as “anticipate,” “estimate,” “expect,” “project,” “intend,” “plan,” “believe,” and other words and terms of similar meaning in connection with a description of potential earnings or financial performance. 
-
-Any and all forward looking statements here or on any of our sales material are intended to express our opinion of earnings potential. Many factors will be important in determining your actual results and no guarantees are made that you will achieve results similar to ours or anybody else’s, in fact no guarantees are made that you will achieve any results from our ideas and techniques in our material. 
-
-Results may vary, as with any business opportunity, you could make more or less. Success in ANY business opportunity is a result of hard work, time and a variety of other factors. No express or implied guarantees of income are made when purchasing this product. But you knew that already, didn't you? 
+The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of www.eluxurysall.com then you may [contact us](https://web.archive.org/contact) at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
