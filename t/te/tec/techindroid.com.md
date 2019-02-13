@@ -1,10 +1,48 @@
-> *The following text is extracted and transformed from the techindroid.com privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730211022id_/http%3A//techindroid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techindroid.com privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213113209id_/https%3A//techindroid.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | TechinDroid.com
+# Privacy policy - TechinDroid.com
+
+**Updated and effective from 26th May 2018.**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:privacy@techindroid.com).
 
 At http://techindroid.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://techindroid.com and how we use it.
+
+### **Personal Data collected for the following purposes and using the following services:**
+
+#### **Contacting the User**
+
+Mailing List or Newsletter.
+
+Personal Data: email address, first name and last name.
+
+#### **Displaying content from external platforms**
+
+Google Fonts
+
+Personal Data: Usage Data and various types of Data as specified in the privacy policy of the service.
+
+#### **Interaction with external social networks and platforms**
+
+Google+ +1 button and social widgets, Facebook Like button and social widgets and social share widgets and Twitter Tweet button and social widgets
+
+Personal Data: Cookies and Usage Data
+
+### **Content commenting**
+
+When a user commenting on article on TechinDroid, the following personal data will be collected.
+
+Name, Email & Website.
+
+#### **Analytics**
+
+Analytics collected with google analytics and WordPress Stats.
+
+Personal Data: Cookies and Usage Data
+
+#### **Facebook Analytics for Apps**
+
+Personal Data: Usage Data and various types of Data as specified in the privacy policy of the service
 
 **Log Files**  
 Like many other Web sites, http://techindroid.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
@@ -14,7 +52,7 @@ http://techindroid.com uses cookies to store information about visitors’ prefe
 
 → Google, as a third party vendor, uses cookies to serve ads on http://techindroid.com.  
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://techindroid.com and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
