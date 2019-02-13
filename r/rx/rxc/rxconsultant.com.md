@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rxconsultant.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611044858id_/http%3A//www.rxconsultant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rxconsultant.com privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213234046id_/https%3A//rxconsultant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Rx Consultant
 
@@ -41,7 +41,7 @@ After a transaction, your private information (credit cards, social security num
 
 ### Do we use cookies?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enable the site’s or service provider’s systems to recognize your browser and capture and remember certain information. 
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enable the site's or service provider's systems to recognize your browser and capture and remember certain information. 
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
@@ -55,9 +55,9 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
 
-### Children’s Online Privacy Protection Act Compliance
+### Childrens Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
 
 ### Your Consent
 
@@ -78,5 +78,5 @@ P.O. Box 1516
 Martinez, California 94553  
 **Email:** [rxmail@rxconsultant.com](mailto:rxmail@rxconsultant.com)  
 **Phone:** 1-800-798-3353  
-**Site:** [www.rxconsultant.com](http://www.rxconsultant.com/)  
+**Site:** [rxconsultant.com](https://rxconsultant.com/)  
 
