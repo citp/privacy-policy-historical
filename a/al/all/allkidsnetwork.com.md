@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allkidsnetwork.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024132345id_/http%3A//www.allkidsnetwork.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allkidsnetwork.com privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213194858id_/https%3A//www.allkidsnetwork.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
-# AllKidsNetwork.com Privacy Policy
+# Privacy Policy | All Kids Network
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, there is a link at the bottom of every page of this site.
 
