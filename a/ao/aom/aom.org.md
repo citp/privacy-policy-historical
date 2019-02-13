@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aom.org privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916104935id_/http%3A//aom.org/About-AOM/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aom.org privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213183226id_/http%3A//aom.org/About-AOM/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
