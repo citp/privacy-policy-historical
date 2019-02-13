@@ -1,80 +1,104 @@
-> *The following text is extracted and transformed from the evelynparham.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227010027id_/http%3A//evelynparham.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evelynparham.com privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213114632id_/https%3A//evelynparham.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Evelyn Parham
 
-Last updated: November 02, 2015
+Last updated: January 27, 2019
 
-Evelyn Parham (“us”, “we”, or “our”) operates the http://evelynparham.om website (the “Service”).
+## Who we are
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+Our website address is https://evelynparham.com.
+
+Evelyn Parham (“us”, “we”, or “our”) operates the https://evelynparham.om website (the “Service”).
+
+This page informs you of our policies regarding the collection, use, and disclosure of Personal Information when you use our Service.
 
 We will not use or share your information with anyone except as described in this Privacy Policy.
 
-**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://evelynparham.om
+## What personal data we collect and why we collect it
 
-**Information Collection And Use**
+### Comments
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name (“Personal Information”).
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-**Log Data**
+### Media
+
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+
+### Contact forms
+
+When visitors submit contact forms on the site we collect the data shown in the contact form, but we do not store contact form submissions and we do not use the information submitted for marketing purposes.
+
+### Appointment forms
+
+When visitors schedule appointments we collect the visitor’s name, email address, telephone number, and questionnaire, but we do not store the information submitted on our site.
+
+We use a third party for scheduling to capture the information. The scheduling company we use is Acuity Scheduling.
+
+### Cookies
+
+If you leave a comment on our site you may opt-in to save your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+We use Google Analytics and Google Analytics Dashboard for WordPress for our website analytics.
+
+Visitors can opt out of Google Analytics by clicking on this link: <https://tools.google.com/dlpage/gaoptout/>
+
+### Mailing List/Newsletter Opt-In Form
+
+When visitors sign up for our newsletter or join our mailing list we collect the visitor’s first name and email address.
+
+We use a third party to capture email addresses. The email marketing company we use is ConverKit.
+
+## Who we share your data with
 
 We may also collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
 In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-**Cookies**
+## How long we retain your data
 
-Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
+## What rights you have over your data
 
-**Service Providers**
+If you have an account on this site or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+## Where we send your data
 
-These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
+Visitor comments may be checked through an automated spam detection service.
 
-**Communications**
+## Contact information
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+If you have privacy-specific questions contact, Evelyn Parham at [info@evelynparham.com](mailto:info@evelynparham.com).
 
-**Security**
+### How we protect your data
 
-The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+We use SSL (Secure Sockets Layer), https:// and are an encrypted site. Your email address and other information we collect is never sold or shared with others for profit.
 
-However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+### What data breach procedures we have in place
 
-**International Transfer**
+When a data breach occurs, we will inform you within 1-3 days of learning about the breach.
 
-Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+### What third parties we receive data from
 
-If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
-
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
-**Links To Other Sites**
-
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
-
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
-
-**Children’s Privacy**
-
-Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 (“Children”).
-
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
-
-**Changes To This Privacy Policy**
-
-This Privacy Policy is effective as of November 02, 2015 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
-
-If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+We receive data from Google Analytics and Host Gator.
 
 **Contact Us**
 
