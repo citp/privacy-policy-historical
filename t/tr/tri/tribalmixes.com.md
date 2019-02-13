@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tribalmixes.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519105129id_/http%3A//www.tribalmixes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribalmixes.com privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213045945id_/https%3A//www.tribalmixes.com/privacy.php) for the most accurate reproduction.*
 
 # Tribalmixes Privacy and Cookies policy
 
