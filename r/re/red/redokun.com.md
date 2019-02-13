@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redokun.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924142517id_/https%3A//redokun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redokun.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214005939id_/https%3A//redokun.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Redokun
 
@@ -271,9 +271,9 @@ Personal Data collected: email address, first name, last name and Usage Data.
 
 Place of processing: United States – [Privacy Policy](https://www.drip.com/privacy). 
 
-#### MailChimp (The Rocket Science Group, LLC.)
+#### Mailchimp (The Rocket Science Group, LLC.)
 
-MailChimp is an email address management and message sending service provided by The Rocket Science Group, LLC.
+Mailchimp is an email address management and message sending service provided by The Rocket Science Group, LLC.
 
 Personal Data collected: company name, country, email address, first name, last name and Usage Data. 
 
@@ -281,7 +281,7 @@ Place of processing: United States – [Privacy Policy](https://mailchimp.com/le
 
 #### Postmark (Postmark)
 
-Postmark is an email address management and message sending service provided by Wildbit LLC.
+Postmark is an email address management and message sending service provided by Postmark.
 
 Personal Data collected: email address. 
 
