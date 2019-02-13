@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usagreencardlottery.org privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812165954id_/http%3A//www.usagreencardlottery.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagreencardlottery.org privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213195537id_/https%3A//www.usagreencardlottery.org/privacypolicy.html) for the most accurate reproduction.*
 
 # USA Green Card Lottery Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Privacy Policy
 
-USA Green Card Organization ("we" or "us" or "our" or "Company") respects the privacy concerns of each visitor ("you" or "your" or "Visitor") to the website ([www.usagreencardlottery.org](http://www.usagreencardlottery.org/ "Linkification:  http://www.usagreencardlottery.org")) (the "Website") and this Privacy Policy describes the type of information gathered from Visitor's use of the Website and/or from any use of our services, and how that information is used.
+USA Green Card Organization ("we" or "us" or "our" or "Company") respects the privacy concerns of each visitor ("you" or "your" or "Visitor") to the website ([www.usagreencardlottery.org](https://www.usagreencardlottery.org/ "Linkification:  http://www.usagreencardlottery.org")) (the "Website") and this Privacy Policy describes the type of information gathered from Visitor's use of the Website and/or from any use of our services, and how that information is used.
 
 Please take a moment to review this Privacy Policy and feel free to contact the Company with any questions at [privacy@usagreencardlottery.org](mailto:privacy@usagreencardlottery.org).
 
