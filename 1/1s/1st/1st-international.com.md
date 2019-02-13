@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2018-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180526115252id_/http%3A//www.1st-international.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1st-international.com privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213224526id_/https%3A//www.1st-international.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -6,7 +6,7 @@
 
 **Effective Date:** **29.06.2012**
 
-Services on the 1st International Marriage Network Website ([www.1st-international.com](http://www.1st-international.com/)) (the “Website”) are provided by Dot Com Productions LLC (“Us” or We”) **We have created this privacy policy in order to demonstrate our firm commitment to privacy.** This Privacy Policy is designed to answer your questions regarding our privacy policies and principles.  ****
+Services on the 1st International Marriage Network Website ([www.1st-international.com](https://web.archive.org/)) (the “Website”) are provided by 1st International LLC (“Us” or We”) **We have created this privacy policy in order to demonstrate our firm commitment to privacy.** This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
 
 **Age of Users**
 
@@ -85,12 +85,12 @@ We may amend this Privacy Policy at any time.  If any material changes are made
 
 If you have any questions about this privacy policy and the practices of its usage, please contact:
 
-**Dot Com Productions LLC**  
-**Suite 3978, PO Box 6945**  
-**London W1A 6US, United Kingdom** ****
+**1st International LLC**  
+**429 Weber Road #288**  
+**Romeoville, IL 60446**
 
 **Toll free phone:** ** ** ** ** **   ** **       ** **    ** **1-866-Y-SINGLE** **      ** ** ** ** ** **(** ** ** **1-866-974-6453** ** ** **)**  
-**Outside** ** ** **US** ** ** **call:** ** ** ** ** **   ** **       ** **    ****+1 (312) 252-0005** **      ** ** ** ******or  ** ** ** **   ** **       ** **    ****+44 (0) 2071935504**
+**Outside** ** ** **US** ** ** **call:** ** ** ** ** **   ** **       ** **    ****+1 (866) 974-6453** **      ** ** ** ******or  ** ** ** **   ** **       ** **    ****+44 (0) 2071935504**
 
 **Fax:** **+1 (360) 525-0025**
 
