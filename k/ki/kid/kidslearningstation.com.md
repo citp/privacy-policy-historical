@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kidslearningstation.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314074649id_/http%3A//www.kidslearningstation.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidslearningstation.com privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213194858id_/https%3A//www.allkidsnetwork.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
-# Kids Learning Station | Privacy Policy | Kids Learning Station
+# Privacy Policy | All Kids Network
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, there is a link at the bottom of every page of this site.
 
 ## The Information We Collect:
 
-This notice applies to all information collected or submitted on the Kids Learning Station website. On some pages, you can sign up for our newsletter. Currently, this is the only mechanism we have that would require you to provide us with any of your personal information. If you do choose to sign up for our newsletter, you may be asked for the following information:
+This notice applies to all information collected or submitted on the All Kids Network website. On some pages, you can sign up for our newsletter. Currently, this is the only mechanism we have that would require you to provide us with any of your personal information. If you do choose to sign up for our newsletter, you may be asked for the following information:
 
   * Name
   * Email address
