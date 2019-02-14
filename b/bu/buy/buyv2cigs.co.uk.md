@@ -1,81 +1,130 @@
-> *The following text is extracted and transformed from the buyv2cigs.co.uk privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630134236id_/https%3A//www.buyv2cigs.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyv2cigs.co.uk privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214053329id_/https%3A//www.buyv2cigs.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : BuyV2Cigs
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. Our Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the BuyV2Cigs website. The BuyV2Cigs website includes all web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and/or operated by BuyV2Cigs. By accessing our website, you are consenting to the information collection and use practices described in this Privacy Policy.
+## PRIVACY POLICY AND NOTICE
 
-We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows-
+At 1111 EC Service Ltd trading as V2/ Vapour 2 UK we are committed to keeping the trust and confidence of our customers and visitors to our website. Maintaining the security of your data is a priority and we are committed to respecting your privacy rights. We also intend to always handle your data fairly and legally.
 
-**What information are you collecting and how are you collecting it?**
+We can assure you that at no time do we rent, buy or sell mailing lists. This means with one exception, that we would never share or sell the data you have provided us with any other company for any purpose whatsoever.
 
-**Do you collect IP addresses?**  
-Every computer connected to the Internet is given a set of numbers, that serve as that computer's IP ("Internet Protocol") address.
+The exception to this is we do provide our shipping or delivery partners with the delivery address, email and telephone number. The sole purpose of doing this is to facilitate the delivery of the order you have placed.
 
-When a visitor requests a page from any Web site within our network of sites, our Web servers automatically recognize that visitor's IP address (and possibly a domain name associated with the IP address). The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Sites.
+In the Privacy Policy below we have provided detailed information on when, how and why we collect your personal information, how and when we use it and under what very limited circumstances we would use it and also how we keep it secure.
 
-We use this information to examine our traffic in aggregate, and to investigate misuse of our network, its users, or to cooperate with law enforcement.
+## Who We Are:
 
-We do not collect and evaluate this information for specific individuals.
+1111 EC Services Ltd Trading as V2/Vapour 2 UK.
 
-Our Web servers do not automatically record e-mail addresses of the visitors.
+The company is registered in the UK and is usually referred to as V2 and/or Vapour2 UK
 
-**What are cookies?**  
-From time to time, we may send a "cookie" to your computer.
+We are located at:
 
-A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can not read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system.
+54 Broadway
 
-We use cookies to identify which areas of our website you have visited and to store your current purchases until you clear your shopping cart.
+Peterborough
 
-You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent.
+Cambridgeshire
 
-If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended.
+UK
 
-**How do you use single-pixel gifs?**  
-We may use single-pixel gif images, sometimes referred to as web beacons, to count Web page accesses and gather some general statistical information.
+PE1 1SB
 
-We do not gather personal information through the use of these images.
+Contact Details:
 
-**What personal information do you collect?**
+Telephone: +44 (0)1733 555 555
 
-We do not store credit card details nor do we share customer details with any 3rd parties.
+Email: team@v2cigs.co.uk
 
-Wherever we collect personal information we make an effort to include a link to this Privacy Policy.
+We value the data you provide us and it is securely stored on a secure website that is equally committed to the privacy of your data.
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. The personal information we collect may include your name, title, e-mail address, phone number and business.
+## What Type Of Data Do We Collect?
 
-We may request your e-mail address or mailing address for the purposes of conducting a contest or to provide additional services (for example, subscriptions to announcement lists or information about conferences and trade shows).
+### Website Cookies
 
-Participation in contests or other promotions on our network is completely voluntary and you have a choice whether or not to disclose personal information.
+Our website uses cookies to collect information such as your browsing and purchasing behavior. This includes information about pages you have visited, products you have viewed, products you have purchased and your customer journey around our website.
 
-Information requested may include contact information (such as name and shipping address), and demographic information (such as PostCodes). Contact information will be used to notify the winners and award prizes.
+We do use cookies to collect or record information on your name, address, and other contact details.
 
-We may also offer access to some services that require registration. We may use your registration contact information to send notification to you of products and services by e-mail and/or postal mail. We **will not** share that information with our clients. We may, however, use your IP address internally and share it with third parties.
+We use cookies for:
 
-When you use co-branded services, or those provided by a third party, within our Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies.
+  1. Technical purposes to ensure that our website operates effectively particulary when it comes to transactions and navigation of our site.
+  2. Marketing purposes to ensure that any marketing information we send to you is relevant.
+  3. Monitoring the success of various campaigns that we run.
 
-We may from time to time send you an e-mail announcing new products and services. If you choose to supply your postal address in an online form, you may receive postal mailings from us.
 
-**Will you disclose the information you collect to outside third parties?**  
-We will disclose personal information and/or an IP address:
 
-> 1) When required by law or in the good-faith belief that such action is necessary to:   
->  a) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on us ;  
->  b) Protect and defend the rights or property of our network of sites and related properties, or visitors to our network of sites and related properties;   
->  c) Identify persons who may be violating the law, our terms of use and Web site User Agreement, the rights of third parties, or otherwise misusing our network or its related properties;   
->  2) When we have your consent to share the information;   
->  3) When you use co-branded services within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies.
+Disabling Cookies:
 
-We maintain a strict "No-Spam" policy that means that we **do not** sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy.
+If you wish to disable cookies you will need to change your website browser settings to reject cookies. How this is done depends on the browser that you use.
 
-**What else should I know about my privacy when online?**
+Please be aware that should you disable all the cookies you will not be able to complete purchases on our site.
 
-Our network of websites may contain hyperlinks to third party Web sites,  We are not responsible for the privacy practices or the content of such third party Web sites or advertisers. We do not share any of the individual personal information you provide us with the third parties to which we link, except as stated elsewhere within this Privacy Policy, although we may share general, aggregate data with such third parties (for example, how many people use our website).
+### Google Analytics
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+When someone visits our website: www.buyv2cigs.co.uk we use a third party service, Google Analytics, to collect standard internet log information and details of visitor behavior patterns. This tells us how many visitors come to the various parts of the website. The method of processing this information does not enable Google Analytics to indentify anyone and we do not permit Google to try and find out the identities of visitors to our site.
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
+Google Analytics only provides us with generalised “quantity” information such as how people visit each page on the website and how long they stay on a page. This information allows us to keep our website relevant and appealing to all customer and visitors.
 
-**Your Consent To This Agreement**  
-By using our network of websites, you consent to the collection and use of information by us as specified above. We reserve the right to modify this Policy in the future. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we would disclose it.
+### Mailing Lists
 
-(Last revised 29th April 2014)
+We use MailChimp currently as our bulk email provider. We store your email addresses on MailChimp ONLY when you subscribe to our newsletter and/or you have given us consent to send you marketing information and general information about our products, special offers, and new products.
+
+You may review MailChimps Privacy Policy. [**CLICK HERE**](https://mailchimp.com/legal/privacy/)
+
+You can easily unsubscribe to our mailing by clicking [**HERE**](https://buyv2cigs.us5.list-manage.com/unsubscribe?u=bdf4fe447fa578d8afffbb25c&id=1e58aea5c1&e=\[UNIQID\]&c=deb8debd65). You may also contact our data protection officer: team@v2cigs.co.uk
+
+## What Information Of Yours Do We Store?
+
+In order to successfully take payments and deliver your purchases it is necessary to store the following information regardless of whether you have an account or checkout as a guest:
+
+### Billing Information:
+
+The name and address of the person who is paying for the products
+
+A telephone number
+
+An email address
+
+The date the purchase was made
+
+The manner or method of the payment BUT NOT your credit/debit card details, bank details or PayPal details
+
+All the details about the products you have ordered.
+
+The shipping method you have chosen
+
+Any special requests that you have made about your order
+
+### Shipping Information:
+
+The name and address of the person who will be receiving the products
+
+A telephone number
+
+An email address
+
+Any specific instructions or comments you may have made regarding the delivery
+
+## What do we do with this information?
+
+### Billing and/or Shipping Details:
+
+From time to time we may have to call you on the number you have provided to discuss the purchases you have made. If we do not get a response to the initial phone call we will then send you a text message asking you to contact us. This could be followed up with an email if we still have not heard from you.
+
+Text messages and emails may also be used to inform you of the delivery status of your parcel. We might call you if we have received word from our shipping partner that they are having trouble delivering your parcel
+
+We will also use your email address to keep you informed about new products, details of offers, and other interesting information including our monthly newsletter.
+
+The data that we hold on the type of products you purchase will, from time to time, be used to select specific marketing information to send you. The purpose of this is to only send you product information that will be relevant to you or that you might find useful.
+
+## Do We Share Your Information With Anyone Other Than Our Shipping Partners?
+
+No and do will we ever sell your information to anyone. We do not buy or sell data.
+
+## Your Rights
+
+  1. You may at any time opt out of receiving marketing emails from us.   The following notice will be present on all our marketing emails: [unsubscribe from this list](https://buyv2cigs.us5.list-manage.com/unsubscribe?u=bdf4fe447fa578d8afffbb25c&id=1e58aea5c1&e=&c=b8ab2d4990) 
+  2. Should you wish us to delete all your details from our system this will be done upon receipt of an email request to: team@v2cigs.co.uk
+
+
