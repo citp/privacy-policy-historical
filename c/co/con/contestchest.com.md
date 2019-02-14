@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contestchest.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528144449id_/http%3A//contestchest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contestchest.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214201841id_/https%3A//contestchest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
