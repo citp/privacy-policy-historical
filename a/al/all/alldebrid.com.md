@@ -1,18 +1,39 @@
-> *The following text is extracted and transformed from the alldebrid.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522082925id_/http%3A//www.alldebrid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldebrid.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214120653id_/https%3A//alldebrid.com/privacy) for the most accurate reproduction.*
 
-# ALLDEBRID.COM : High quality unrestrained downloader, universal access, maximum connection speed.
+# AllDebrid: High quality unrestrained downloader, universal access, lossless speed.
 
-## Privacy policy
+Privacy Policy
 
-Ip address collected
-    IP addresses of the users are stored for the proper working of the service (registration, load-balancing...)
-E-mail addresses collected
-    Our server store e-mail addresses of the users when they register for internal need only. In no case we'll rent, sell ou give personal data to any company.
-Cookies use
-    We use cookies of the comfort of our users by saving the connection to the website (avoid multiple logging). We do not use any tracker system.
-Informations about payments
-    All payments made on our website are handled by third-party companies. Please informed yourself about those companies to get more informations.
-Exceptional disclosure of personal data
-    We could be required to to disclose personal data in order to protect our juridical rights, or if this disclosure is required by judicial authorities.
-Data storage
-    File links that users download are stored in a database for juridical and technical reasons. Those links are deleted after some time for internal need and by safety precaution (free hard disk space...).
+This privacy policy may be changed at any time.
+
+  
+**Which data is collected by our service**
+  
+    Our server registers usernames, password (encrypted) and email addresses of Users during registration for internal purposes only. In no event do we rent, sell, or provide personal data to third parties.
+  
+  
+**Use of cookies**
+  
+    We use cookies for the convenience of Users by saving the connection to the site and avoid a systematic reconnection. We do not use any method of tracking users / visitors to our site.
+  
+  
+**Payment informations**
+  
+    All payments made on our site are managed by third parties. Payments are secure and encrypted, under no circumstances these companies can not save Users banking information.
+  
+  
+**Advertisements**
+  
+    The advertisements diffused on our site are proposed by third companies. They may use data on users' visits to target content that may be of interest to them.
+  
+  
+**Exceptional disclosure of personal data (legal action)**
+  
+    We may disclose the personal data of Users in order to protect our legal rights, or if the disclosure of such personal data is requested by the judicial authorities only when legal procedures have been respected.
+  
+  
+**Consent**
+  
+    Any user agrees to our privacy policy when creating an account and using our site.
+  
+
