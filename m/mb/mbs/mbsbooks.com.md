@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbsbooks.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229010844id_/http%3A//mbsbooks.com/disclaimer/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbsbooks.com privacy policy that was archived on 2019-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190215005302id_/https%3A//www.mbsbooks.com/disclaimer/privacy-policy.php) for the most accurate reproduction.*
 
 # MBS Textbook Exchange, LLC
 
@@ -94,8 +94,8 @@ HOWEVER, A CONTRACTOR PROVIDING A SERVICE DIRECTLY TO YOU THROUGH OUR WEBSITE MA
 
 We currently use Google and Adobe for analytics, marketing, and advertising network services. These services provide us with aggregated information about our visitors. If you would like to opt-out of behavioral-based advertising, or analytics through these services you may opt-out by following the instructions at the following sites:
 
-    * <http://www.networkadvertising.org/choices/>,
-    * <http://www.adobe.com/privacy/opt-out.html>, and
+    * <https://www.networkadvertising.org/choices/>,
+    * <https://www.adobe.com/privacy/opt-out.html>, and
     * <https://tools.google.com/dlpage/gaoptout/>.
 
 **Sharing your information with publishers.** In some instances, we may share your Personal Information with the publisher, copyright holder, or author of the products you purchase from us. These parties may use your information to send you updates, corrections or other information related to those materials.
@@ -156,7 +156,7 @@ We reserve the right to modify or amend this policy at any time by posting the r
 
   13. #### Contacting Us
 
-If you have any questions or comments concerning this Privacy Policy, please contact MBS Customer Service at 800-325-0530 or at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9af9e9ffe8ecdaf7f8e9f8f5f5f1e9b4f9f5f7 "Email MBS Customer Service").
+If you have any questions or comments concerning this Privacy Policy, please contact MBS Customer Service at 800-325-0530 or at [cserv@mbsbooks.com](mailto:cserv@mbsbooks.com "Email MBS Customer Service").
 
 
 
