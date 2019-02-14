@@ -1,25 +1,27 @@
-> *The following text is extracted and transformed from the getlighthouse.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513074658id_/https%3A//getlighthouse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getlighthouse.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214012400id_/https%3A//getlighthouse.com/privacy) for the most accurate reproduction.*
 
 # One on one software & people management | Lighthouse
 
 ## Get Lighthouse, Inc. Privacy Policy
 
-**EFFECTIVE DATE: March 9, 2016**
+**DATE LAST UPDATED: May 23, 2018**
 
-Please read our Privacy Policy with respect to our collection, use and disclosure of personal information we collect from visitors through our website [www.getlighthouse.com](http://www.getlighthouse.com/) (the “Site”) and the use of our services (“Services”). By using the Site, the Services or submitting information to Get Lighthouse, Inc. (“Get Lighthouse”) via a form or using our support services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+Please read our Privacy Policy with respect to our collection, use and disclosure of personal data we collect from visitors through our website [www.getlighthouse.com(the](http://www.getlighthouse.com%28the/) “Site”) and the use of our services (“Services”). By using the Site, the Services or submitting information to Get Lighthouse, Inc. (“Get Lighthouse”) via a form or using our support services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 This Privacy Policy addresses:
 
   * Personal Information You Provide to Us
   * How We Use Information
-  * Anonymous Information Collected Automatically
   * Cookies
   * Will Get Lighthouse Share Any of the Personal Information it Receives?
   * Security
+  * Retention
   * Children
   * Links to 3rd Party Sites
+  * Social Plugins on our Services
   * Changes to this Privacy Policy
-  * Email Communications, Opt-Out & Access
+  * Email Communications, Opt-Out
+  * Access, Updating and Deleting Personal Data, Opt-Out
   * Notice to Users outside of the United States of America
   * Contact Us
 
@@ -27,15 +29,21 @@ This Privacy Policy addresses:
 
 ### Personal Information You Provide to Us
 
-You can generally visit our Site without revealing any personal information about yourself. We may, however, collect any information you voluntarily choose to enter or submit to us on our Site when you contact us or register to use the Services or that you provide to us in the course of requesting or receiving support services from us. The types of personal information collected include full name, title, company, employment status, mailing address, email address and telephone number, as well as any additional information you may provide on a form on our Site. The amount and type of personal information that Get Lighthouse collects depends on the nature of your interaction with the Site and Services. As a user of our Services, we may have access to any personally identifiable data that you elect to upload to the Services. For example, you may upload details about your team members, such as their name, title, birthday and notes regarding meetings. In addition, we may upload information to the Services, such as photos or job titles, from publicly available profiles on third party sites.
+You can generally visit our Site without revealing any personal data about yourself. To use the Services, you will be required to provide us with your name, business contact information such as address, email and phone number and a username and password. Get Lighthouse is the controller of this personal data.When a user uses the Services, the user may upload content, including personal data, to the Services. For example, you may upload details about your team members, such as their name, title, birthday and notes regarding meetings. In addition, we may upload information to the Services, such as photos or job titles, from publicly available profiles on third party sites. The user is the controller of such personal data and is responsible for complying with applicable laws and regulations with respect to such personal data. You must comply with all applicable laws and regulations with respect to the personal data that you enter into the Services. We will also collect any personal data that you provide to us in your communications that you send us.The types of personal data collected include full name, title, company, employment status, mailing address, email address and telephone number, as well as any additional information you may provide on a form on our Site. The amount and type of personal data that Get Lighthouse collects depends on the nature of your interaction with the Site and Services. The Site and Services may track the total number of visitors to the Site and Services, the number of visitors to each page of the Site and Services, browser type, IP addresses and other usage statistics collected and used in aggregate form collected through the Site and Services.
 
 ### How We Use Information
 
-We use your personal information for the following purposes: responding to your requests for information or requests to use our Services; improving our Services; customizing the content you see on the Site; and to send you targeted marketing regarding products and/or services which we believe may be of interest to you. We will not use any of your sensitive personal information for a purpose other than its original purpose for which we collected it or the purpose authorized subsequently by you, unless you have provided opt-in consent. Please see “Will Get Lighthouse Share Any of the Personal Information it Receives?” below for additional information.
+We use your personal data for our legitimate interests and to perform a contract with you to:
 
-### Anonymous Information Collected Automatically
+  * provide the Services and respond to your requests
+  * provide you with support
+  * improve the Services
+  * detect fraud, illegal activities or security breaches
+  * verify your authority to use our Services
+  * collect statistical aggregated data regarding use of the Services
+  * to send you marketing of related services that we believe may be of interest to you
 
-The Site may track the total number of visitors to the Site, the number of visitors to each page of the Site, browser type, IP addresses and other usage statistics collected and used in aggregate form collected through the Site and we may analyze this data for trends and statistics in the aggregate but such information will be maintained, used and disclosed in aggregate form only and it will not contain personally identifiable information. We may use such aggregate information to analyze trends, administer the Site, track users’ movement, and gather broad demographic information for aggregate use. Please see “Cookies” below for additional information.
+
 
 ### Cookies
 
@@ -47,39 +55,53 @@ Get Lighthouse does not track its customers over time and across third party web
 
 If you reject cookies, you may still use our Site, but your ability to use some areas of our Site may be limited. Most major browsers allow you to block or delete certain cookies from your system. To learn more about your ability to manage cookies and web beacons, please consult the privacy features in your browser. You may be able to remove persistent cookies by following directions provided in your Internet browser's "help" file.
 
-**Get Lighthouse neither rents nor sells personal information to anyone.** We will share your personal information with third parties only in the ways that are described in this Privacy Policy. We may employ other companies and people to perform tasks on our behalf and need to share your personal information with them to have them assist us in providing our products or services to you. Get Lighthouse will enter into a written agreement with such third party requiring that the third party provide at least the same level of privacy protection as is required by this Privacy Policy or any other applicable Get Lighthouse privacy and data protection commitments. Unless we give you the choice to opt-out and you do not exercise your opt-out right, we do not provide Get Lighthouse’s service providers with any right to use personal information we share with them beyond what is necessary to assist us or for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by you. You hereby consent to our sharing of personal information for the above purposes. We will not disclose your sensitive personal information to a third party unless you have provided us with affirmative or explicit (opt-in) consent. 
+**Get Lighthouse neither rents nor sells personal data to anyone.**  We will share your personal data with third parties only in the ways that are described in this Privacy Policy. We may employ other companies and people to perform tasks on our behalf and need to share your personal data with them to have them assist us in providing our products or services to you. Get Lighthouse will enter into a written agreement with such third party requiring that the third party provide at least the same level of privacy protection as is required by this Privacy Policy or any other applicable Get Lighthouse privacy and data protection commitments. Unless we give you the choice to opt-out and you do not exercise your opt-out right, we do not provide Get Lighthouse’s service providers with any right to use personal data we share with them beyond what is necessary to assist us or for a purpose incompatible with the purpose for which it was originally collected or subsequently authorized by you. You hereby consent to our sharing of personal data for the above purposes.
 
-We may release personal information when we believe in good faith that release is necessary to comply with any law or requests from law enforcement or government; enforce or apply our terms of use and other agreements; or protect the rights, property, or safety of Get Lighthouse, our employees, our customers, or others. **We will not sell your personal information to any company or organization** , but we may transfer your personal information to a successor entity upon a merger, consolidation or other corporate reorganization in which Get Lighthouse participates or to a purchaser or acquirer of all or substantially all of Get Lighthouse’s assets to which this Site relates. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+We may release personal data when we believe in good faith that release is necessary to comply with any law or requests from law enforcement or government; enforce or apply our terms of use and other agreements; or protect the rights, property, or safety of Get Lighthouse, our employees, our customers, or others.  **We will not sell your personal data to any company or organization,** but we may transfer your personal data to a successor entity upon a merger, consolidation or other corporate reorganization in which Get Lighthouse participates or to a purchaser or acquirer of all or substantially all of Get Lighthouse’s assets to which this Site relates. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal data, as well as any choices you may have regarding your personal data.
 
 ### Security
 
-Get Lighthouse takes steps that are reasonably designed to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, including through secure socket layer, password protection and, for certain transmissions to our Services, encryption. However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and the Site, and the Site and you, will be free from unauthorized access by third parties. Users of the Site do so at their own risk with respect to such communications.
+Get Lighthouse takes steps that are reasonably designed to protect personal data from loss, misuse and unauthorized access, disclosure, alteration and destruction, including through secure socket layer, password protection and, for certain transmissions to our Services, encryption. We also have internal measures designed to protect personal data. However, due to the open communication nature of the Internet, we cannot guarantee that communications between you and the Site, and the Site and you, will be free from unauthorized access by third parties. Users of the Site do so at their own risk with respect to such communications.
+
+### Retention
+
+We retain personal data for as long as we have a legitimate need to retain it. Generally, we will retain your information for as long as your account is active or as needed to provide you with the Services and we also may continue to retain backup or archival copies of your information made in the normal course of business. We will delete your personal data 1 year after you have run your last survey within the Services. If you have a trial agreement with us, we will retain your personal data for 30 days after termination of your trial. We also will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Children
 
-Our Site and Services are not intended for children under the age of 13. Get Lighthouse does not knowingly collect personal information from children under 13.
+Our Site and Services are not intended for children under the age of 16. Get Lighthouse does not knowingly collect personal data from children under 16.
 
 ### Links to 3rd Party Sites
 
-Our Site may include links to other websites whose privacy practices may differ from those of Get Lighthouse. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the Privacy Policy of any website you visit.
+Our Site may include links to other websites whose privacy practices may differ from those of Get Lighthouse. If you submit personal data to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the Privacy Policy of any website you visit.
+
+We may use social plugins on our Services and may include icons that allow you to interact with third party social networks such as, without limitation, Facebook, Twitter, Google, LinkedIn and Pocket. The third party social plugin may set a cookie when your browser creates a connection to the servers of such social networks and the plugin may transmit your data to the social networks.
+
+Your use of these social plugins is subject to the privacy policies of the third party social networks.
 
 ### Changes to this Privacy Policy
 
-Get Lighthouse may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. If we make changes in the way we use personal information, we will notify you by posting an amendment to the Privacy Policy on the Site and we will send registered users a notice of the change prior to the change becoming effective. Such modifications will become effective on the day they are posted. As such, Get Lighthouse encourages you to frequently review this Privacy Policy for any modifications.
+Get Lighthouse may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. If we make changes in the way we use personal data, we will notify you by posting an amendment to the Privacy Policy on the Site and we will send registered users a notice of the change prior to the change becoming effective. Such modifications will become effective on the day they are posted. As such, Get Lighthouse encourages you to frequently review this Privacy Policy for any modifications.
 
-### Email Communications, Opt-Out & Access
+### Email Communications, Opt-Out
 
-If you wish to: (i) remove your personal information from our system in order to stop receiving information from us, (ii) update your personal information, or (iii) have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please send us a detailed message (with sufficient information for us to identify your personal information) at [privacy@getlighthouse.com](mailto:privacy@getlighthouse.com). We will make every effort to resolve your concerns.
+If you wish to: (i) remove your personal data from our system in order to stop receiving information from us, (ii) update your personal data, or (iii) have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please send us a detailed message (with sufficient information for us to identify your personal data) at privacy@getlighthouse.com. We will make every effort to resolve your concerns.
 
-Get Lighthouse allows an individual access to their personal information and allows the individual to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated. Individuals can request access by emailing Get Lighthouse at [privacy@getlighthouse.com](mailto:privacy@getlighthouse.com). We will respond to your request within 30 business days.
+### Access, Updating and Deleting Personal Data
 
-We will retain your information for as long as your account is active or as needed to provide you with the Services and we also may continue to retain backup or archival copies of your information made in the normal course of business. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Get Lighthouse may take reasonable steps to ensure that data is reliable for its intended use, accurate, complete, and current.
+In certain circumstances when we are the controller of the applicable personal data, subject to the requirements of applicable laws, such as if you are resident in the European Union and as required under the General Data Protection Regulation, you can access, change or delete your personal data.
+
+If you wish to exercise any of these rights for personal data that you believe may be uploaded by a user of the Services, please contact the controller. We will assist the controller in such situations.
+
+Subject to the above, if you would like to request to review, correct, update, suppress, object, restrict or delete personal data that you have previously provided to us, or if you would like to request to receive an electronic copy of your personal data for purposes of transmitting it to another company (to the extent these rights are provided to you by applicable law), you may contact us by email at privacy@getlighthouse.com. We will respond to your request consistent with applicable law.
+
+In your request, please make clear what personal data you would like to have accessed, changed or deleted. For your protection, we may only implement requests with respect to the personal data associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable in accordance with applicable law. Get Lighthouse provides you with the ability to review and update the registration information that you provide to us by contacting us at privacy@getlighthouse.com.
 
 ### Notice to Users Outside of the United States of America
 
-Any information you enter on this Site or through our Services may be transferred outside of the country in which you are located to the United States of America which does not offer an equivalent level of protection to that required in other countries, such as the European Union. In particular, you are advised that the United States of America uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. By using this Site or our Services you represent that you are located in the United States of America and that any personally identifiable information that you provide on this Site or through this Service pertains to individuals located in the United States of America.
+Any information you enter on this Site or through our Services may be transferred outside of the country in which you are located to the United States of America which does not offer an equivalent level of protection to that required in other countries, such as the European Union. In particular, you are advised that the United States of America uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. By using this Site or our Services you represent that you are located in the United States of America and that any personal data that you provide on this Site or through this Service pertains to individuals located in the United States of America.
 
-If you are not located in the United States of America or if any personally identifiable information that you wish to provide on this Site or through this Service pertains to individuals located outside of the United States of America, you agree that you have the rights to lawfully transfer personal data to Get Lighthouse and you consent to the transfer of all such personal information to the United States of America and to the processing of that information by Get Lighthouse, Inc. on its or its third party servers located in the United States of America. You also may contact us through the information below prior to providing us with any personal data. If you are in the European Union or your data pertains to individuals in the European Union, you must contact us prior to providing us with any personal data. In our discretion, we may agree to only process such data in a member state of the European Union, we may agree to enter into Model Contracts for the transfer of personal data to third countries or a data transfer agreement or we may adopt other means under applicable law for ensuring adequate safeguards.
+If you are not located in the United States of America or if any personal data that you wish to provide on this Site or through this Service pertains to individuals located outside of the United States of America, you agree that you have the rights to lawfully transfer personal data to Get Lighthouse and you consent to the transfer of all such personal data to the United States of America and to the processing of that information by Get Lighthouse, Inc. on its or its third party servers located in the United States of America. You also may contact us through the information below prior to providing us with any personal data. If you are in the European Union or your data pertains to individuals in the European Union, you must contact us prior to providing us with any personal data. In our discretion, we may agree to only process such data in a member state of the European Union, we may agree to enter into Model Contracts for the transfer of personal data to third countries and/or a data transfer agreement or we may adopt other means under applicable law for ensuring adequate safeguards.
 
 ### Contact Us
 
@@ -89,5 +111,5 @@ If you have questions or concerns about this Privacy Policy, please contact us t
 
 Get Lighthouse, Inc.   
 Attn: PRIVACY   
-2030 Franklin St., Suite 503   
-San Francisco, CA 94109 
+101A Clay Street, #306   
+San Francisco, CA 94111 
