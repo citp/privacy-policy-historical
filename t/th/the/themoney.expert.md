@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themoney.expert privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215162840id_/http%3A//themoney.expert/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themoney.expert privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214235817id_/http%3A//themoney.expert/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Money Expert
 
