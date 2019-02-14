@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plrassassin.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806055608id_/https%3A//www.plrassassin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plrassassin.com privacy policy that was archived on 2019-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190215002348id_/https%3A//www.plrassassin.com/privacy) for the most accurate reproduction.*
 
 # Privacy - PLRAssassin
 
@@ -63,4 +63,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us via our helpdesk www.plrassassin.com/helpdesk
 
-This document was last updated on November 08, 2013
+This document was last updated on November 08, 2013 
