@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungryhowies.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925202111id_/https%3A//www.hungryhowies.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryhowies.com privacy policy that was archived on 2019-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190215005319id_/https%3A//www.hungryhowies.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Hungry Howies
 
