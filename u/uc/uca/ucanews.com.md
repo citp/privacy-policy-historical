@@ -1,132 +1,271 @@
-> *The following text is extracted and transformed from the ucanews.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329160755id_/https%3A//www.ucanews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucanews.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214135008id_/https%3A//www.ucanews.com/privacy-policy) for the most accurate reproduction.*
 
 # UCA News Privacy Policy
 
-**Contents**
+### 1.
 
-1.   Introduction
+Introduction
 
-2.   How does UCAN collect Personal Information?
+1.1
 
-3.   What if a viewer does not want to provide personal information?
+We are committed to safeguarding the privacy of ucanews.com's website visitors and subscribers
 
-4.   What kind of Personal Information does UCAN store?
+1.2
 
-5.   How will UCAN use Personal Information?
+This policy applies where we are acting as a data controller with respect to the personal data of subscribers to the website and our free newsletter in other words, where we determine the purposes and means of the processing of that personal data.
 
-6.   Your Access to Personal Information
+1.3
 
-7.   Will Personal Information be disclosed to anyone else?
+We use cookies on our website. Insofar as those cookies are not strictly necessary for the provision of ucanews.com we will ask you to consent to our use of cookies when you first visit our website. For further information read our Cookie Statement in Section 7
 
-8.   How is Personal Information protected?
+1.4
 
-9.   Changes to this Privacy Policy
+In this policy, "the websitel", "we", "us" and "our" refer to ucanews.com For more information about us, see Section 13.
 
-10.  More Information?
+### 2.
 
-11.  How current is our Privacy Policy?
+Credit
 
-**1.  ** **Introduction**
+2.1
 
-The protection of private and confidential information is fundamental to UCAN trading as UCAN or its associated websites:
+This document was created using a template from SEQ Legal (https://seqlegal.com).
 
-[UCAN China](http://china.ucanews.com/)  
-[UCAN India](http://www.ucanindia.in/)  
-[UCAN Indonesia](http://indonesia.ucanews.com/)  
-[UCAN Korea](http://korea.ucanews.com/)  
-[UCAN Philippines](http://philippines.ucanews.com/)  
-[UCAN Vietnam](http://vietnam.ucanews.com/)
+### 3.
 
-UCAN is committed to safeguarding personal information it holds on behalf of its viewers and is committed to do so in accordance with international best practice.
+How we use your personal data
 
-This statement sets out UCAN’s policy relating to the collection, storage, access and use of personal information for all sites that form part of the network of UCAN digital sites. For a list of all such sites or to find out more about these sites, visit www.ucanews.com
+3.1
 
-**2\. How does UCAN collect personal information?**
+In this Section 3 we have set out:  
+(a)  the general categories of personal data that we may process;  
+(b)  in the case of personal data that we did not obtain directly from you, the source and specific categories of that data;  
+(c)  the purposes for which we may process personal data; and  
+(d)  the legal bases of the processing.
 
-UCAN operates the Website. The Website allows viewers to subscribe to become members, subscribe to daily newsletters and to submit comments on certain news articles. Where a viewer subscribes to, or submits a comment, the viewer must provide a name and email address for the purpose of identifying the viewer, which assists the Website’s editorial and moderation process. Automatic collection: Cookies: We may use a feature of your browser called a cookie to assign your computer a ‘User ID’. Cookies contain information by which UCAN can identify your computer to our servers. You may configure your browser so that you are notified before a cookie is downloaded or so that your browser does not accept cookies.
+3.2
 
-UCAN may use information contained in cookies to make assumptions about the user of the computer and to provide users of that computer with focused advertising that UCAN believes may be of interest, based on that information. In some cases a web page might contain more than one cookie, the information gathered from these different cookies used to build statistical and demographical information which does not identify you personally to advertisers and UCAN partners for marketing, promotional purposes.
+We may process certain data ("usage data"). If you are a subscriber to the website or free newsletter, the usage data may include your IP address, geographical location, process browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. The source of the usage data is Google Analytics. This usage data may be processed to optimize the user experience (UX) and marketing and delivery of digital subscriptions. The legal basis for this processing is your acceptance of our Cookie Statement 
 
-To disable your cookies, please refer to the help menu within your Internet browser.
+3.3
 
-**3\. What if a viewer does not want to provide personal information?**
+We may process personal data ("account data"). If you are a subscriber to the website or our free newsletter, we may use your name and email address. The source of the account data is you. The account data may be processed to tailor services on our site, the legal basis for this processing is your purchase of a subscription or opting-in to our free newsletter.
 
-A viewer is not under any obligation to provide his or her personal information to UCAN. However, if a person does not provide their personal information they may not be able to access requested product or services, or submit and have posted any comments submitted on news articles and the like.
+3.4
 
-Similarly, UCAN may also refuse to post comments submitted where false or misleading personal information is supplied.
+We may process information you entered when creating an account on our website. ("profile data"). The profile data may include your name, address, telephone number, email address, gender, date of birth and religion. The profile data may be processed for the delivery of subscriptions and marketing communication. The legal basis for this processing is our legitimate interests, namely the publishing and distribution of the website in print and digital formats. 
 
-**4\. What kind of personal information does UCAN store?**
+3.5
 
-The personal information we collect from the Website and store may include (but is not limited to), name, address, contact details, gender, occupation, company and if relevant, financial information, including credit card information, banking details and income information.
+We may process personal information collected during the subscription transaction ("transaction data".) This data may include name, address, email. This data may be processed for marketing communication. The legal basis for this processing is your free or subscription-based access to our website 
 
-How will UCAN use Personal Information?
+3.6
 
-Unless a viewer consents, UCAN will only use personal information collected from the Website for the purpose of identifying and directly contacting the viewer. However your personal information may also be used in order to:
+Please do not supply any other person's personal data to us unless we prompt you to do so. 
 
-provide the services and information you require;
+### 4.
 
-administer and manage those services, ( including charging billing and collecting Debts if required);
+Retaining and deleting personal data
 
-inform you of UCAN activities, events, facilities and services;
+4.1
 
-provide the viewer with news articles, or other materials;
+This Section sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.
 
-conduct appropriate checks for credit worthiness and for fraud;
+4.2
 
-research, develop and expand our facilities and services;
+Personal data that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes. 
 
-gain an understanding of our viewers needs to provide a better service in all its areas of activities;
+4.3
 
-maintain and develop our internal systems and infrastructure including upgrading of these systems;
+Notwithstanding the other provisions of this Section 4, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. 
 
-the personal information may also be collected to promote and market other services that we consider important or beneficial to our viewers;
+### 5.
 
-process your recruitment application and conduct research into the recruitment process.
+Amendments
 
-Accordingly, UCAN may write to any email address supplied by a viewer to confirm that the email address is genuine.
+5.1
 
-**5\. Your Access to Personal Information**
+We may update this policy from time to time by publishing a new version on our website. 
 
-Any viewer may retrieve a copy of the personal information UCAN holds about that viewer by contacting UCAN using the email address that the viewer supplied at ucanews@ucanews.com
+5.2
 
-**6\. Will Personal Information be disclosed to anyone Else?**
+You should check this page occasionally to ensure you are happy with any changes to this policy. 
 
-When posting a comment a viewer has submitted on the Website, UCAN will post the viewer’s name next to the comment to identify to other viewers who has submitted the comment. UCAN will not post a viewer’s email address unless the viewer has requested UCAN to do so.
+### 6.
 
-Other than the above, UCAN is not required in the course of its operations to disclose personal information to any outside parties.
+Your rights
 
-UCAN uses SpinnakerPro to deliver the emails and enewsletters that you may ask to receive. SpinnakerPro stores the personal information on behalf of UCAN but all data, including emails, list content, subscriber lists and any list information disseminated through the Aweber.com services for UCAN, is the express property of UCAN.
+6.1
 
-In certain circumstances, UCAN may be compelled by law to disclose personal information to various authorities, such as where UCAN is compelled to disclose the personal information by a warrant.
+In this Section 6, we have summarized the rights that you have under data protection law. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.
 
-UCAN uses the information supplied for the purpose given. UCAN does not sell, rent or trade personal information collected from the Website to or with third parties.
+6.2
 
-**7\. How is Personal Information protected?**
+Your principal rights under data protection law are:  
+(a) the right to access;  
+(b) the right to rectification;  
+(c) the right to erasure;  
+(d) the right to restrict processing;  
+(e) the right to object to processing; (f) the right to data portability;  
+(g) the right to complain to a supervisory authority; and  
+(h) the right to withdraw consent.
 
-UCAN takes reasonable steps to protect any personal information that it holds from misuse and loss. It also protects that information from unauthorised access, modification and disclosure. Only a viewer can access his or her personal information.
+6.3
 
-UCAN further protects the personal information by educating its employees about this Privacy Policy and the handling of personal information.
+You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. 
 
-UCAN maintains physical security, such as locks and security systems, over our electronic data stores and premises. It also maintains computer and network security, for example firewalls (security measures for the Internet), and other security measures, such as identification codes and passwords, to control access to computer systems.
+6.4
 
-**8\. Changes to this Privacy Policy**
+You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.
 
-UCAN may change this Privacy Policy from time to time. Please periodically review the Privacy Policy for any changes.
+6.5
 
-**9\. More Information?**
+In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully processed. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defense of legal claims.
 
-If you have any questions regarding this Privacy Policy or would like more information about the way UCAN manages personal information, or if you wish to make a complaint about how UCAN have handled personal information about you, please contact our Privacy Officer, using the following contact details.
+6.6
 
-Union of Catholic Asian News Ltd.  
-Payatai Plaza 128 / 332-333  
-Phayathai Road, Kwaeng Thung-Phyathai  
-Khet Rachtawee, Bangkok 10400  
-Thailand
+In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defence of legal claims; and you have objected to processing, pending the verification of that objection. Where processing has been restricted on this basis, we may continue to store your personal data. However, we will only otherwise process it: with your consent; for the establishment, exercise or defence of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.
 
-P.O. Box 40  
-Ratchathewi Post Office  
-10401 Thailand
+6.7
 
-**10\. How Current is our Privacy Policy?**
+You have the right to object to our processing of your personal data on grounds relating to your particular situation, but only to the extent that the legal basis for the processing is that the processing is necessary for: the performance of a task carried out in the public interest or in the exercise of any official authority vested in us; or the purposes of the legitimate interests pursued by us or by a third party. If you make such an objection, we will cease to process the personal information unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing is for the establishment, exercise or defence of legal claims.
 
-Our Privacy Policy was last updated on 2 February, 2011.
+6.8
+
+To the extent that the legal basis for our processing of your personal data is:  
+(a) consent; or  
+(b) that the processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract,
+
+and such processing is carried out by automated means, you have the right to receive your personal data from us in a structured, commonly used and machine-readable format. However, this right does not apply where it would adversely affect the rights and freedoms of others. 
+
+6.9
+
+If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.
+
+6.10
+
+To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.
+
+### 7.
+
+About cookies
+
+7.1
+
+A cookie is a small data file downloaded on to your computer or mobile device when you visit a website, it contains an identifier. The identifier is then sent back to the server each time the browser requests a page from the server.
+
+7.2
+
+Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+
+7.3
+
+Cookies set by the website owner or service provider are called "Strictly Necessary."" Strictly Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. 
+
+7.4
+
+Other technologies or cookies set by third-parties other than the website owner are called "Third Party" cookies. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+### 8.
+
+Cookies that we use (Strictly Necessary)
+
+8.1
+
+We use cookies for the following purposes:  
+(a) Addtoany.com. Used to identify trusted web traffic   
+(b) PHPSESSID: preservers users sessions across page requests  
+(c) @@History/@@scroll|#: used during the shopping cart process, collects statistics  
+(d) __unam, saves the user's navigation on the web site including what pages have been viewed and how long the browser has been used to view each page.
+
+### 9.
+
+Cookies used by our service providers (Third Party)
+
+9.1
+
+Our service providers use cookies and those cookies may be stored on your computer when you visit our website.
+
+9.2
+
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website.Google's privacy policy is available at: 
+
+9.3
+
+This site uses the Lucky Orange analytics system to help improve usability and the customer experience. 
+
+Lucky Orange may record mouse clicks, mouse movements and scrolling activity. Lucky Orange may record keystroke information that you voluntarily enter on this website. 
+
+Lucky Orange does not track this activity on any site that does not use the Lucky Orange system. 
+
+To view and manage data that Lucky Orange has collected about you on the LuckyOrange.com website, or to opt out of future tracking please visit our data privacy management tool at https://privacy.luckyorange.com 
+
+9.4
+
+SensorPro securely collects and archives our subscriber data. 
+
+SensorPro has installed a JavaScript tracking snippet ("Snippet") on our site. This Snippet allows cookies, pixels, and other technologies to facilitate the use of certain automations, features and functionality offered by SensorPro.
+
+SensorPro automatically places single pixel gifs, also known as web beacons, in every email sent by our users. These are tiny graphic files that contain unique identifiers that enable us and our users to recognize when their subscribers have opened an email or clicked certain links. These technologies record each subscribers email address, IP address, date, and time associated with each open and click for a campaign. We use this data to create reports for our users about how an email campaign performed and what actions subscribers took.
+
+You can find out more about SensorPro's privacy policy by visiting <https://sensorpro.net/privacy/>
+
+### 10.
+
+Take Control of Your Cookies
+
+Generally most users manage cookie settings in their browser (please note settings will vary browser to browser). 
+
+The settings you select might limit your ability to use certain services on our site. We advise you to enable Strictly Necessary and Third Party Cookies on our site to ensure you're able to view all our content and utilize all services. 
+
+For more information on browser cookie settings go to:
+
+(a) 
+
+Chrome;
+
+(b) 
+
+Firefox;
+
+(c) 
+
+Opera;
+
+(d) 
+
+Internet Explorer;
+
+(e) 
+
+Safari; and
+
+(f) 
+
+Edge. 
+
+### 11.
+
+Cookie Statement Update
+
+On occasion, due to technology and site development, or legal and regulatory reasons we will update this statement. Please check this page from time to time to ensure you are up to date with our Privacy and Cookie Policy
+
+### 12.
+
+Our details
+
+12.1
+
+This website is owned and operated by Union of Catholic Asian News Ltd.
+
+12.2
+
+We are registered in Hong Kong under registration number: 1306461 and our registered office is at UNIT E8, 4/F HOP HING INDUSTRIAL BUILDING, 702-704 CASTLE PEAK, RD, CHEUNG SHA WAN, KOWLOON, HONG KONG 
+
+12.3
+
+You can contact us:  
+(a) by email, using the email address on the website contact page. 
+
+### 13.
+
+Data protection officer
