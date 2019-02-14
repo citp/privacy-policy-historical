@@ -1,100 +1,126 @@
-> *The following text is extracted and transformed from the i2g.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i2g.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214201311id_/https%3A//i2g.com/privacyInline) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Notice | Invoice2go
 
-**Go Daddy Respects Your Privacy**
+**Invoice2go Privacy Notice**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Last updated on June 12, 2018.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+At Invoice2go, Inc., along with our corporate affiliates, including CIMRID PTY LTD (“ **Invoice2go** ”, “ **we** ” or “ **us** ”), we respect the privacy rights of our online visitors and users of the Invoice2go Service (“ **users** ” or “ **you** ”) and recognize the importance of protecting the information we collect about you. This Privacy Notice explains how we collect, use, share and protect your Personal Information and how you can exercise your rights in respect of the Personal Information we use. “ **Personal Information** ” means any information that identifies or can be used to identify you, directly or indirectly.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This Privacy Notice applies both to (1) our website at Invoice.2go.com, including any mobile or localized versions and any subdomains (the “ **Site** ”), and (2) our “ **Product** ”, which is our suite of services and features relating to business management, as more fully described in our [Terms of Service](https://invoice.2go.com/tosinline/) (together with the Site, the “ **Service** ”). It also covers the treatment of Personal Information we may collect from social networks and certain other third party sources as described below.
 
-**Information Collection and Use**
+If you receive an invoice from one of our customers and then come to the Site or otherwise interact with the Service, then you are also considered a user of the Service who may be subject to this Privacy Notice.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Please remember that we provide the Service to small businesses who have their own privacy practices. This Privacy Notice applies only to our own data practices, and not to the practices of third parties that we do not control.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+For the meaning of terms we use that are not defined in this Privacy Notice please see our [Terms of Service](https://invoice.2go.com/tosinline/).
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Click on the links below to jump to each section:
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+  1. [TYPES OF PERSONAL INFORMATION WE COLLECT](https://web.archive.org/#section1)
+  2. [OUR USE OF COOKIES AND OTHER TECHNOLOGIES](https://web.archive.org/#section2)
+  3. [HOW WE USE THE INFORMATION WE COLLECT](https://web.archive.org/#section3)
+  4. [HOW WE SHARE YOUR INFORMATION](https://web.archive.org/#section4)
+  5. [YOUR CHOICES ABOUT YOUR INFORMATION](https://web.archive.org/#section5)
+  6. [THIRD PARTY TRACKING AND ONLINE ADVERTISING](https://web.archive.org/#section6)
+  7. [HOW WE STORE AND PROTECT YOUR INFORMATION](https://web.archive.org/#section7)
+  8. [LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION (EEA VISITORS ONLY)](https://web.archive.org/#section8)
+  9. [YOUR DATA PROTECTION RIGHTS](https://web.archive.org/#section9)
+  10. [NOTICE TO CALIFORNIA RESIDENTS: YOUR CALIFORNIA PRIVACY RIGHTS](https://web.archive.org/#section10)
+  11. [CHILDREN’S PRIVACY](https://web.archive.org/#section11)
+  12. [LINKS TO OTHER WEB SITES AND SERVICES](https://web.archive.org/#section12)
+  13. [HOW TO CONTACT US](https://web.archive.org/#section13)
+  14. [CHANGES TO OUR PRIVACY NOTICE](https://web.archive.org/#section14)
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  1. **TYPES OF PERSONAL  INFORMATION WE COLLECT**The categories of Personal Information we may collect include:
+    * **Registration and profile information collected when you sign up for the Service.**  We may collect Personal Information, such as a username, first and last name, phone number or e-mail address, as well as information about your business, when you register for the Service or if you correspond with us. We may also collect information about your interactions with us, including any contact we have with you by telephone, email or online. For service improvement, security, dispute resolution and training purposes we may monitor and record your communications with us (including email and telephone) in accordance with applicable laws.
+    * **Billing information collected when you sign up for a paid account.**  We may collect billing information if you sign up for a paid account.
+    * **Information collected through Invoice2go Payments**. If you use Invoice2go Payments to receive payments from End Customers (see Section 8 of our [Terms of Service](https://invoice.2go.com/tosinline/)), we may collect certain information regarding your transactions from you or from our Payments Partner. If you are an End Customer paying an invoice through Invoice2go Payments as described in our Payment Terms, we and our Payments Partner receive certain information as described in [Section 7 (How We Store and Protect Your Information)](https://web.archive.org/#section7)
+    * **Personal and business information collected through your use of the Service**. After you set up an account for the Service and in order to provide the Service to you, we may collect various information through your use of the Service about your business and your customers, for example, your phone number, accounts receivable information or your customers’ mailing addresses or taxpayer identification numbers. We use and share information about your customers solely to provide you and your customers with our services and in accordance with [Section 3 (How We Use the Information We Collect)](https://web.archive.org/#section3) and [Section 4 (How We Share Your Information)](https://web.archive.org/#section4) and our [Terms of Service](https://invoice.2go.com/tosinline/).
+    * **Usage, viewing and technical information collected when you use the Service**. Any time you use the Service (even if you do not register for our Service), we may collect information about how you access or use the Service or input data. For more information about how we collect and use this information, see [Section 2 (Our Use of Cookies and Other Technologies)](https://web.archive.org/#section2)
+    * **Information we collect from social networks and third parties**. We may receive information about you when you interact with the Service through various social media, for example, by logging in through or “liking” us on Facebook or “following” us on Twitter. The data we receive is dependent upon your privacy settings with the social network. You should always review, and, if necessary, adjust your privacy settings on third party websites and services before linking or connecting them to the Service. In addition, we may receive information about you from other sources, such as referrals from other websites or affiliates, marketing partners or analytics providers, or our Lending Partners, which we also use and share in accordance with this Privacy Notice. We do so only where we have checked that you have provided your consent or where the third parties are otherwise legally permitted or required to disclose your Personal Information to us.
+  2. **OUR USE OF COOKIES AND OTHER TECHNOLOGIES**
+    * **Cookies, Pixels and Web Beacons**. We automatically collect certain types of usage information when you access or use the Service, including cookies and similar tracking technologies, such as pixels and web beacons. Our use of cookies and other tracking technologies is discussed in more detail in our [Cookie Statement](http://invoice.2go.com/cookie-notice/). Although we do our best to honor the privacy preferences of our users, we are not able to respond to Do Not Track signals from your browser at this time, as we believe that there is no consistent industry standard for how to respond to Do Not Track browser settings.
+    * **Device IDs**. When you access the Site or use the Service by or through a mobile device, we may receive or collect and store a unique identification number associated with your device (“Device ID”), mobile carrier, device type and manufacturer, phone number, and, depending on your mobile device settings, your geographical location data, including GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device. Please note we will not collect your precise geographical location without your consent but we may know the city or country you are in. Similar to IP addresses, we may link any of the contact or other personal information you provide during a browsing session to the Device ID from which you are accessing the Site.
+  3. **HOW WE USE THE INFORMATION WE COLLECT**  
+We use your information in the following ways:
+    * To provide, maintain and improve the Service and our other products and services, including to operate certain features and functionality of the Service;
+    * To process your order or inquiries;
+    * To diagnose or fix technology problems;
+    * To control unauthorized use or abuse of the Service and our other products and services, or otherwise detect, investigate or prevent activities that may violate our policies or be illegal;
+    * To prosecute and/or defend a court, arbitration or similar legal proceeding, or to respond to lawful requests by public authorities (including national security or law enforcement requirements);
+    * To analyze trends, administer or optimize the Service, monitor usage or traffic patterns (including to better understand how you use the Service) and gather demographic information about our user base as a whole;
+    * To deliver customer service;
+    * To communicate directly with you, including by phone (as described below), by sending you newsletters, promotions and special offers or information about new products and services on an ongoing basis in accordance with your marketing preferences. Your opt-out options for promotional communications are described below under Section 5 (Your Choices about Your Information). You can unsubscribe from our marketing communications by clicking “Unsubscribe” at the bottom of the email or by contacting us using the contact details provided under the “[How to contact us](https://web.archive.org/#section13)” heading below;
+    * To communicate directly with you by phone, including to respond to customer service inquiries or comments through the Service, on social media or otherwise, and to discuss issues relating to your account or the Service. Your opt-out options for calls from us are described below under [Section 5 (Your Choices about Your Information)](https://web.archive.org/#section5) below;
+    * To deliver advertising to you, including to help advertisers and publishers serve and manage ads on the Service or on third party sites, and to tailor ads based on your interests and browsing history (please see [Section 2 (Our Use of Cookies and Other Technologies)](https://web.archive.org/#section2) and Section 5 below [(Your Choices about Your Information](https://web.archive.org/#section5)) for additional information related to such advertising and your related controls); and
+    * To carry out other legitimate business purposes, as well as other lawful purposes about which we will notify you.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Any use of your information that is incompatible with the foregoing will be disclosed to you in advance so that you may opt out of such use at your discretion.
 
-**Security**
+  4. **HOW WE SHARE YOUR INFORMATION**  
+_Generally_. We may share your Personal Information with:
+    * Our parent companies, subsidiaries and affiliates. These companies will use the information in the same way as we can under this Privacy Notice;
+    * Third party vendors and other service providers that perform services on our behalf, as needed to carry out their work for us, which may include identifying and serving targeted advertisements, content or service fulfilment, or providing analytic, archival, auditing, accounting, legal, business consulting, banking, payment, delivery, data processing, data analysis, research, investigation, website or other technology services;
+    * Our Payments Partners and related integration partners, if you enable Invoice2go Payments to receive payments from your End Customers (see Section 8 of our [Terms of Service](https://invoice.2go.com/tosinline/)). In this case, we may provide the Payments Partners with certain information about your business and your use of the Service for their use in underwriting and risk and fraud modeling, for use subject to their own privacy policies and terms;
+    * Our payment processors, for the purposes described in Section 7 (How We Store and Protect Your Information);
+    * Our business partners who offer a service to you jointly with us, for example, when running a co-sponsored contest or promotion, in accordance with your marketing preferences;
+    * Other users of the Service who have sent you an invoice or with whom you’ve otherwise interacted through the features of the Service. For example, as a customer of one of our users, we may share certain information about you with that user, such as whether you have opened an emailed invoice or made a payment;
+    * Other parties in connection with a company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of a bankruptcy or related or similar proceedings;
+    * Third parties if we have a good faith belief that disclosure of such information is reasonably necessary to: (i) satisfy any law, legal process or governmental request; (ii) enforce our [Terms of Service](https://invoice.2go.com/tosinline/), including investigation of potential violations thereof; or (iii) protect against fraud, imminent harm to the Service or the rights, property or safety of Invoice2go, our users or the public as required or permitted by law; and
+    * Any other person with your consent to the disclosure.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+_Third Party Capital and Lending Partners_ _.  _Without limiting the rest of this Section 4, We may also provide anonymized information about you to our Capital or Lending Partners, who may use it to provide you with opportunities for Capital or Loans (which may be displayed through the Service or separately) and related purposes.  For example, this may include non-personally identifiable information about your Invoice2go account, invoicing history or use of the Service.  If you wish to opt-out of this information sharing, please contact Invoice2go at [support@invoice2go.com](mailto:support@invoice2go.com).  You will not be identified by name to the Capital or Lending Partner unless you respond to its Capital or Loan offer; if you respond, you will be asked to provide (or to consent to provision of) your name and other information directly to the Capital or Lending Partner, for the Capital or Lending Partner’s use in accordance its separate agreement or terms with you.  For more information about Capital or Lending Partners, please see Section 9 (Third Party Capital and Lending Partners) of the [Terms of Service](https://invoice.2go.com/tosinline/).
 
-**Updating Your Information**
+_Other Aggregated and Anonymized Data_ _._ We may also share aggregated, anonymized with third parties for other purposes. Such information does not identify you individually, but may include usage, viewing and technical information we collected through our technology. If we are required under applicable law to treat such information as Personal Information, then we will only disclose it as described above. Otherwise we may disclose such information for any reason. Please note that Invoice2go is not responsible should an invoice recipient choose to share an invoice containing your information with third parties.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  5. **YOUR CHOICES ABOUT YOUR INFORMATION**
+    * **You control your account information and communication preferences** : You may update certain of your account information and communication preferences at any time by logging into your account and changing your account settings. You can also stop receiving calls from us by emailing us your opt-out request at [legal@invoice2go.com](mailto:legal@invoice2go.com).  You can stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. You may not, however, opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices) unless you terminate your account. If you have any questions about reviewing or modifying your account information, you can contact us directly at the address provided in [Section 13 (How to Contact Us)](https://web.archive.org/#section13).
+    * **How long we keep your Personal Information** : Retention periods can vary significantly based on the type of information we collect and the how it is used. Invoice2go’s retention periods are based on criteria that include legally mandated retention periods, pending or potential litigation, our intellectual property or ownership rights, contract requirements, operational directives or needs, and historical archiving.
+  6. **THIRD PARTY TRACKING AND ONLINE ADVERTISING**  
+We may permit third party ad networks, social media companies, and other third party services to collect information about your browsing behavior on the Service through cookies, social plug-ins, or other tracking technology. We may permit third party online advertising networks to collect information about your use of the Service over time so that they may play or display ads that may be relevant to your interests on the Service as well as on other websites or services. We will not share information about your clients or your business with these third parties. Typically, the information is collected through cookies or similar tracking technologies. The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies and how you may opt-out of some of this tracking, you may wish to visit http://www.allaboutcookies.org and/or the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org.) Depending on your mobile device, you may not be able to control tracking technologies through settings. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at the address provided in Section 13 (How to Contact Us).
+  7. **HOW WE STORE AND PROTECT YOUR INFORMATION**
+    * **Payment Information** : Invoice2go collects credit card information using a security-enabled, transparent pass-through to our payment processors and does not store full credit card numbers or any CVV2 data itself. Any credit card information you provide is stored by our third party payment processors (including our Payments Partner, if you use Invoice2go Payments), who have committed to complying with the Payment Card Industry Data Security Standard (PCI-DSS). Our payment processors use your payment information as follows:
+    * _Payments to Invoice2go_. When you pay Invoice2go through our Site for access to the Service, our third party payment processors may use your information for the following purposes: (i) processing your payment to Invoice2go, (ii) preparing internal reports to manage their business; (iii) data analytics, developing and analyzing data metrics, anonymizing personal data and other analysis purposes, and to publish in aggregated form the results of such analyses; (iv) providing fraud screening services to Invoice2go or third parties; (v) processing and/or resolving chargebacks or other disputes; (vi) complying with applicable legal requirements and assisting law enforcement agencies by responding to requests for disclosure of personal data in accordance with local laws; and (vii) any other purpose for which your consent has been provided.
+    * _Payments to Merchants_. If you are an End Customer using Invoice2go Payments to pay a Merchant, then our Payments Partner will use your information as described in its own privacy policy.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+In addition to the above, Invoice2go may receive (from you or from its payment processors) the name on a credit card, the cardholder postal code, the last four digits of a credit card number and certain other transaction information, which we use in accordance with this Privacy Notice as described in [Section 3 (How We Use the Information We Collect)](https://web.archive.org/#section3).
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+    * **Storage, Processing and International Transfers** : Information collected through the Service may be stored and processed in the United States or other country in which Invoice2go or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Economic Area (“EEA“), Australia or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including Personal Information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. However, we have taken appropriate safeguards to require that your Personal Information will remain protected in accordance with this Privacy Notice. These safeguards may include for Personal Information of EU residents implementing the European Commission’s Standard Contractual Clauses for transfers of Personal Information with our third party service providers and partners. Further details will be provided upon request.
+    * **Keeping your information safe** : Invoice2go cares about the security of your information, and uses appropriate technical and organizational measures to preserve the integrity and security of all information collected through the Service. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, Invoice2go will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
+    * **Password Security** : Your password is an important element of our security scheme, and as such, you are responsible for maintaining the confidentiality of your password and account, and are fully responsible for all activities that occur under your password or account. You must report any misuse or compromise of your password to Invoice2go at the contact address provided in [Section 13 (How to Contact Us)](https://web.archive.org/#section13) as soon as you become aware of any such misuse or compromise.
+  8. **LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION (EEA VISITORS ONLY)**  
+If you are a user from the EEA, our legal basis for collecting and using the Personal Information described above will depend on the Personal Information concerned and the specific context in which we collect it. However, we will normally collect Personal Information from you only where we have your consent to do so, where we need the Personal Information to perform a contract with you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms.  In some cases, we may also have a legal obligation to collect Personal Information from you.If we ask you to provide Personal Information to comply with a legal requirement or to perform a contact with you, we will make this clear at the relevant time and advise you whether the provision of your Personal Information is mandatory or not (as well as of the possible consequences if you do not provide your Personal Information). 
 
-      iii.      You may call us at: (480) 505-8800
+Similarly, if we collect and use your Personal Information in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are.
 
-       iv.      You may fax us at: (480) 505-8844
+If you have questions about or need further information concerning the legal basis on which we collect and use your Personal Information, please contact us using the contact details provided in [Section 13 (How to Contact Us)](https://web.archive.org/#section13).
 
-**Sending Emails**
+  9. **YOUR DATA PROTECTION RIGHTS**  
+You have the following data protection rights:
+    * To  **access, correct, update or request deletion**  of your Personal Information. Invoice2go takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete and up to date. You can exercise these rights by contacting us using the contact details provided in [Section 13 (How to Contact Us)](https://web.archive.org/#section13).
+    * In addition, if you are a resident of the EEA, you can  **object to processing**  of your Personal Information, ask us to  **restrict processing**  of your Personal Information or  **request portability**  of your Personal Information. You can exercise these rights by contacting us using the contact details provided in [Section 13 (How to Contact Us)](https://web.archive.org/#section13).
+    * Similarly, if we have collected and process your Personal Information with your consent, then you  **can withdraw your consent at any time**. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Information conducted in reliance on lawful processing grounds other than consent.
+    * You have the right  **to complain to a data protection authority**  about our collection and use of your Personal Information. For more information, please contact your local data protection authority. (Contact details for data protection authorities in the EEA are available [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).) If you are an Australian resident, for information about privacy generally, or if your concerns are not resolved to your satisfaction, you may contact the Office of the Australian Information Commissioner at www.privacy.gov.au and on 1300 363 992.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.  We may ask you to verify your identity in order to help us respond efficiently to your request.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+    * **Direct Marketing** : If you are a user in the EU or Australia, we will not disclose your Personal Information to third parties for such third parties’ direct marketing purposes unless you have opted-in to such disclosures. Please note that even if you do not opt‐in, we may still share your information with third parties for purposes other than direct marketing, such as for completing a requested transaction or any other non-direct marketing purposes described under this Privacy Notice. For more information regarding how we share your data with third parties, please see [Section 4 (How We Share Your Information)](https://web.archive.org/#section4).
+  10. **NOTICE TO CALIFORNIA RESIDENTS: YOUR CALIFORNIA PRIVACY RIGHTS**  
+If you are a California resident, it is our policy pursuant to California’s Shine the Light Law (CA Civil Code Section 1798.83) not to disclose your Personal Information to third parties for such third parties’ direct marketing purposes unless you have opted-in to such disclosures. Please note that even if you do not opt-in, we may still share your information with third parties for purposes other than direct marketing, such as for completing a requested transaction or any other non-direct marketing purposes permitted under this Privacy Notice.
+  11. **CHILDREN’S PRIVACY**  
+Invoice2go does not knowingly collect or solicit any information from anyone under the age of 16 or knowingly allow such persons to register as users. In the event that we learn that we have collected Personal Information from a child under age 16, we will delete that information as quickly as possible. If you believe that we might have any Personal Information from a child under age 16, please contact us at the address provided in Section 13 (How to Contact Us).
+  12. **LINKS TO OTHER WEB SITES AND SERVICES**  
+The Service may integrate with or contain links to other third party sites and services. We are not responsible for the practices employed by third party websites or services embedded in, linked to, or linked from the Service, and your interactions with any third party website or service are subject to that third party’s own rules and policies. You are responsible for examining third party websites’ privacy policies and for making your own decisions regarding the accuracy, reliability and correctness of material and information found.
+  13. **HOW TO CONTACT US**  
+If you have any questions or otherwise need to contact us in connection with this Privacy Notice or the Service, please contact us at:  
+Invoice2go, Inc.  
+555 Bryant St. #263  
+Palo Alto, CA 94301  
+Email: [legal@invoice2go.com](mailto:legal@invoice2go.com)
+  14. **CHANGES TO OUR PRIVACY NOTICE**  
+Invoice2go may modify or update this Privacy Notice from time to time to reflect the changes in our business and practices or applicable laws, and you should therefore review this page periodically. We will update the ‘last modified’ date at the bottom of this page when we make any changes. Further, when we change this Privacy Notice in a material manner, we will let you know of such material change in addition to updating the ‘last updated’ date at the top of this Privacy Notice.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
