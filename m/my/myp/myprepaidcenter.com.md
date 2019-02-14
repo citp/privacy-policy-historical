@@ -1,342 +1,282 @@
-> *The following text is extracted and transformed from the myprepaidcenter.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316121631id_/https%3A//www.myprepaidcenter.com/site/login/standard/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprepaidcenter.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214163741id_/https%3A//www.myprepaidcenter.com/site/login/standard/privacy) for the most accurate reproduction.*
 
-# Privacy | Login
+# Privacy Policy - Blackhawk Network
 
-**Privacy Statement**
+_Last Updated: March 1, 2019_
 
-Protecting your privacy is important to us. The following statement is intended to help you understand how InteliSpend Prepaid Solutions, a Blackhawk Network Business ("InteliSpend", "we", "us"), collects, uses, and safeguards confidential information as well as any personally identifiable information ("PII") you provide to us on our websites and web-based applications ("Our Websites") and the ways that you can access and correct your PII.
+#### Introduction and Scope of Practices.
 
-Please note that Our Privacy Statement does not address the privacy or information practices of any third parties. InteliSpend cannot, and does not, assume responsibility for the policies, practices and actions of any third parties. Third party vendors under contract with InteliSpend to provide certain support services are required to safeguard PII.
+Blackhawk Network Holdings, Inc. and its affiliates (“Blackhawk,” “we,” “us,” or “our”) care about your personal information. This Privacy Policy (“Policy”) describes how we, use this data, disclose the personal information (which includes “personal data” as defined under applicable EU and other data protection laws) we collect about you, and the rights you have regarding such data.  This Policy applies to the personal information Blackhawk collects about users of our websites (including [www.blackhawknetwork.com](http://www.blackhawknetwork.com/)), mobile applications, and the services and features therein (together the “Sites”), as well as the data we collect in providing our services (the “Services”) and when individuals communicate with us about our Sites and Services, whether in person, by telephone, by mail, or other means. When we act as a data processor on behalf of another controller, we collect, use, and disclose certain personal information only under the controller’s instruction, and our processing of your personal information is subject to their instructions and privacy policies.
 
-**Summary**
+Please note that links to third-party websites are subject to the third-parties’ privacy policies and terms of use, not ours, unless you are told otherwise. Also, some of Blackhawk’s Services are offered through third-parties, such as banks or other financial institutions. In those cases, the third-parties’ policies will govern their use of the personal information they process about their customers.
 
-PII is information about an individual by which the identity of that individual could be deduced, such as residential address and telephone number, e-mail address, transaction records and other personal information. PII does not include name, position or title, business address or business telephone number. PII also excludes specified publicly available information, such as that listed in a telephone directory.
+#### Personal Information We Collect
 
-Non-Identifiable Information ("NII") is information that cannot be associated with a particular individual. This includes web-traffic information that is collected and analyzed in the aggregate.
+We collect personal information directly from you, through third parties, or automatically through our Sites and related to our Services, subject to applicable laws as set out below. Where the personal information we collect is needed to comply with law, or to enter into or perform an agreement with you, we will inform you at the time of such data collection. If we cannot collect this data, we may be unable to on-board you as a client or provide products or services to you.
 
-InteliSpend sells products directly to businesses and consumers and InteliSpend provides customer support directly to those individuals that have received InteliSpend products. InteliSpend uses the PII collected to provide services (e.g., to recognize you when you return to this Website, save your password in password-protected areas, and enable you to use shopping carts); process your orders; complete your transactions; respond to your requests; deliver the products and services you request or for which you apply; notify you of account or product/service updates; prevent fraud; and as required to provide services that support our products.
+_Personal Information We Collect Directly from You_ :
 
-In addition to PII, InteliSpend also gathers NII about visitors to Our Websites and uses NII to identify preferences and provide relevant products and services.
+  * Contact information, such as name, email address, mailing address, fax or phone number;
+  * Payment and financial information, such as credit or other payment card information, bank account, or billing address;
+  * Shipping address and related details;
+  * Your resume, employment and education history, name and contact details, background details, and references when you apply to job postings or contact us about employment opportunities;
+  * Company and employment information;
+  * Subject to applicable local law restrictions, Social Security Number or other national tax ID number (for clients and potential clients)
+  * Unique identifiers such as user name, account number, or password;
+  * Preference information such as product wish lists, order history, or marketing preferences;
+  * Information about your business such as company name, size, or business type; and
+  * Demographic information, such as age, gender, interests and ZIP or postal code.
 
-**Company Commitment to Privacy**
 
-InteliSpend is actively involved with current industry initiatives to preserve individual privacy rights on the Internet and in all aspects of electronic commerce. This Internet Privacy Statement is currently applicable only to our United States and Canadian clients, card recipients and visitors to Our Websites. InteliSpend respects the privacy of your PII and undertakes to comply with applicable privacy legislation in these jurisdictions. InteliSpend makes no representation that Our Websites are governed by, or operated in accordance with, the laws of other nations, or that Our Websites or any part thereof, are appropriate or available for use in any particular jurisdiction. Those who choose to access Our Websites do so on their own initiative and at their own risk, and are responsible for complying with all local rules, regulations and laws. 
 
-**Consent**  
-Your access and use of Our Websites signifies your consent to the collection, use and disclosure of your PII in the manner described in this Privacy Statement, as amended from time to time. InteliSpend may revise this Privacy Statement, without notice, by updating this webpage. Your continued use of Our Websites after any revisions are made, constitutes your acceptance of the revised Privacy Statement. Please check this webpage for the most current version of the Privacy Statement.
+_Comments, Posts and Submissions_. When you submit online forms, participate in surveys, contests, promotions, or sweepstakes, join online chat discussions or post on a blog, request customer support, or submit testimonials, we collect your personal information, such as contact information, and other information you choose to share. Some of our Sites offer publicly accessible blogs. Any information you provide in these areas may be read, collected, and used by others who access them.
 
-**Types of Information Collected on Our Websites**
+_Testimonials._ With your consent, we may use your testimonial and your name, e.g. to display personal testimonials of satisfied customers on certain Sites and in print advertisements.
 
-When you become a registered user of any of Our Websites, and enroll in online products or services provided by InteliSpend, you voluntarily provide us with information such as your name, address, credit card number, e-mail address and telephone number.
+_Location_. On some Sites we collect geolocation-based information for fraud prevention purposes. With your consent, we may also collect your precise location-based information for purposes such as to help you locate a store offering our products and services in your area. You may withdraw your consent to the processing of location-based information at any time by changing the settings on your device. If you do, you might not be able to use certain features, especially when we use location-based information to prevent fraud.
 
-Becoming a registered Web user enables you to review confidential account information for the order(s) placed specific to your account. Such transactions are protected by usernames and passwords and/or card account information.
+_Personal Information We Collect from Third-Parties_. Sometimes, we may collect personal information from third-party sources. For example, subject to applicable law, we may confirm your address with the postal service or we may receive personal information about you from our clients who use our Services. Similarly, if our users choose to send a gift to their friend through our Sites, we will ask for the friend’s name and contact details.
 
-You should keep your password, username, and credit card account information confidential. After you have become a registered Web user, we may obtain additional information, such as your usage of Our Websites, and your usage of the other InteliSpend online services in which you enroll.
+Certain websites also may offer a referral service where users may refer other people they know to our Services, subject to restrictions under applicable local laws. If you choose to use our referral service to tell your friends about our Services, we will provide you with a referral code and signup instructions that you can share with your friends. Where permitted by local law, we conduct such referrals on an opt-out basis. If personal information about you has been provided to us and you want us to delete it, you may email us at [privacy@bhnetwork.com](mailto:privacy@bhnetwork.com).
 
-We also use PII collected from card recipients (including contact information, username and password, personal identification numbers or "PIDs", card account information and transaction history)to respond to inquiries, monitor balances and prevent fraud.
+_Personal Information_ _We Collect Automaticall_ _y_. We and our service providers automatically gather information about your use of the Sites and Services through cookies, web beacons, java script, log files, pixels, and other technologies, which include: your domain name, browser type, browser language preference, device type and operating system, page views and links you click within the Sites, IP address, device ID or other identifier, location information, date and time stamp, and time spent using the Services, referring URL, your activity within the Sites, and device geolocation information (where permitted by your device settings).
 
-Whether or not you are a registered Web user, if you purchase or apply for InteliSpend products or services offered on Our Websites, we may request that you provide your name and address, telephone number, e-mail address, and other information in order to provide the product or service to you or to process your application for the product or service.
+We also collect information from analytic services, including Google Analytics, to compile and analyze information derived from the use of our Services, such as aggregate usage patterns, user preferences, peak demand times, preferred content and other information.
 
-**How We Use Information**
+See the “Cookies and Online Tracking” section below for details.
 
-We use the PII and NII collected on Our Website to process transactions you conduct on Our Websites, and to process applications and deliver the products and services you enroll in, or for which you apply. To do this, it is often necessary to share this information with carefully selected third-party service providers and business partners with whom we work, such as companies that manage accounts and companies that perform customer support services or other business operations for us. If you use Our Websites, we reserve the right to share your PII with such third-parties for the purpose of enabling these third parties to provide such services to us. We take reasonable steps to ensure these third parties treat PII in a manner comparable to our own practices. 
+#### Use of Your Personal Information and Legal Bases
 
-Information collected by us may be stored and processed in the United States, the Philippines, or in any other country in which we or our service providers maintain facilities, and by using Our Websites you consent to any such transfer of information outside of your country. Be advised that PII may be made available, without your knowledge, to the United States government or its agencies, or those of governments in any other country where we or our service providers store or process PII, under a lawful order made in that country.
+We may use the personal information we collect for the following purposes:
 
-We also use PII and NII collected via Our Websites, together with information we have about you, publicly available information, and preferences you indicate, to customize your online experience and to provide you with more relevant offers and updates.
+  * _Provide Our Services:_ To provide our Services, operate our Sites, respond to your enquiries and fulfill your requests and orders, process your payments, for bug and error reporting and resolution, to perform upgrades and maintenance;
+  * _Customer Service and Support:_ To send you important information, such as changes to terms, conditions, and policies and/or other administrative information;
+  * _Personalization:_ To personalize your experience on a Site or using the Services, such as by tailoring the content we send or display to you in order to personalize help and instructions, and to otherwise personalize your experience using the Services;
+  * _Marketing and Promotions:_ To send you marketing communications you have signed up for;
+  * _Advertising and Referrals:_ To assist in advertising the Services on third-party websites and to track referrals from partner websites;
+  * _Analytics and Improvement:_ To better understand how users access and use the Services, and for other research and analytical purposes, such as to evaluate and improve the Services;
+  * _Verify Identity and Detect Fraud:_ To verify your identity and/or location in order to allow access to your accounts, conduct online transactions, and secure your personal information, and for risk control, fraud detection and prevention, and compliance with laws and regulations;
+  * _Protect Our Legal Rights and Prevent Misuse:_ To protect the Services, prevent unauthorized access and other misuse, and where we believe necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, or violations of our Terms of Use or this Policy.
+  * _Comply with Legal Obligations:_ To comply with the law or legal proceedings such as when required to disclose information in response to lawful requests by public authorities, including responding to national security or law enforcement disclosure requirements; and
+  * _General Business Operations:_ Where necessary to the administration of our general business, accounting, recordkeeping and legal functions.
 
-To inquire or change your preference information, contact us at the following:
 
-· American Express: 888-900-2347
 
-· Discover: 888-842-0336 (U.S.); 801-744-9918 (outside U.S.)
+_Aggregated and Anonymized Information_
 
-· MasterCard: 888-371-2109 (U.S. and Canada); 339-234-6415 (outside U.S. and Canada)
+We may also generate aggregated, pseudonymized and/or anonymized information about users for marketing, advertising, research or similar purposes.
 
-· Visa: 877-610-1075 (U.S. and Canada); 801-214-8892 (outside U.S. and Canada)
+_Purpose of Use_
 
-**How We Use Your E-mail Address**
+In the table below, we explain the purposes for which we use and process your personal information, as well as the legal bases for such use and processing under the European Union’s General Data Protection Regulation (“GDPR”) and other applicable laws.
 
-We may use your e-mail address to send you the following types of e-mail messages:
-
-§ Service notifications related to your account(s).
-
-§ Occasional updates about our products and services.
-
-§ Promotional offers as requested through an "opt in" request.
-
-§ Regularly scheduled e-mail newsletters related to the InteliSpend products or services in which you are or have been enrolled.
-
-Unless specifically and clearly disclosed on a Web site into which you opt-in, we will not share your e-mail address with other companies for them to market their products or services to you. When we hire vendors to deliver e-mails to you on our behalf, they cannot use your e-mail address for any other purpose. To make our e-mail offers more relevant to you, we may use information you provided in your initial transaction with us, in surveys and from information we have already gathered about you.
-
-You may choose to opt-out of the transfer of your e-mail address to third parties as described below.
-
-When we send e-mail to you, we may be able to identify information about your e-mail address, such as whether you can view graphic-rich HTML e-mail. If your e-mail address is HTML-enabled, we may choose to send you graphic-rich HTML e-mail messages. Also, when you receive an e-mail offer from InteliSpend, we record whether or not you "click through" to view the e-mail, content attached, and respond to the offer.
-
-**Accepting and Declining E-mail Offers**
-
-Although we intend to only send you notice of carefully designed opportunities, we recognize the importance of providing you with choices. At any time, you may request to discontinue receiving these offers from us by simply opting out.
-
-· By opting out, you request InteliSpend, and vendors on our behalf, not send you e-mail communications concerning opportunities. However, as we will occasionally need to send you certain e-mail messages that are important to your use of Our Websites, we retain the right to provide service updates to you via e-mail. Because this information may be important to your use of Our Websites, or may contain notice of changes to your profile or preferences, you will not be able to opt out of receiving such messages.
-
-· By opting-in, you a) request InteliSpend and vendors on our behalf, send carefully designed e-mail communications about opportunities and service offers to you at the e-mail address you provide, or b) to receive offers from the business partner clearly disclosed in the opt-in section of Our Website(s).
-
-**NII**
-
-When you browse Our Websites and have not signed in for any online service from InteliSpend, PII, such as your name, address, phone number, and e-mail address, is not collected. However, we track how Our Websites are used by anonymous visitors as well as registered customers and cardholders. InteliSpend uses WebTrends On-Demand service to collect and analyze our web traffic data.Click here to read the WebTrends Privacy Policy.
-
-Cookies - A cookie is a piece of information stored on your computer's hard drive by your web browser, which will allow Our Websites to recognize your computer's browser as a previous visitor and to access NII relating to your last visit. In addition, Our Websites may also set a "session cookie" which helps us administer Our Websites. The session cookie expires when you close your browser and does not retain any information about you after it expires. Most browsers accept cookies automatically, but if you do not want information collected through the use of cookies, you can usually change your browser settings to prevent automatic acceptance. If you choose not to accept cookies, you may still use most of the features of Our Websites, however you may not be able to use certain services (e.g., those applications that require you to log-in to access).
-
-**"Do Not Track" Preferences**
-
-Many browsers provide you an option to request that a web application disable either its tracking and/or cross-site user tracking of an individual user. We do not track your online activities across different Sites, and we only track your activity within a Site to the extent you log into your account, in order to enhance our services. We do not use information we obtain regarding your activity on our Sites to target advertisements to you or to provide information to third parties. Our third-party service providers do not obtain PII from your use of our Sites. Therefore, our practices remain the same whether or not you enable the "Do Not Track" feature.
-
-**Security**
-
-Some of our websites may require that you provide us with confidential or sensitive information. Before this data is transmitted, these sites will first establish a "secure session" using SSL. SSL technology encodes information as it is being sent over the Internet between your computer and our systems, helping to ensure that the information remains confidential. For further information about SSL and how we safeguard information data transmission over the Internet, please read our Security Q & A below.
-
-Your browser will contain an indicator of whether or not you are transmitting data in a secure session. For example, a key or lock symbol may appear in the bottom bar to indicate you are visiting a secure site. Refer to your browser's help feature to find out more about how your browser indicates that a secure session has been established.
-
-InteliSpend realizes how important security is to you, and we take seriously our responsibility to protect the information you may provide us over the Internet.
-
-You should be aware that e-mail is not a completely secure channel of communication at present. Please do not use e-mail to send us personal and other sensitive information such as account numbers, social security numbers, PIN numbers, mother's maiden name, or passwords. Further, we will not request you provide this sensitive data over e-mail without a secure transmission available.
-
-We are continually seeking technical solutions to assure the confidentiality and security of all the information you provide to us online and take reasonable precautions to keep the information that we collect secure, including organizational, physical and electronic precautions. We will keep you informed on Our Websites when we implement significant new safety enhancements. However, it is important to note that, no data transmission over the Internet can be guaranteed to be 100% secure, and information transmitted over the Internet could be intercepted by third parties. As such, we do not assume any liability for the theft, loss, misuse or alteration of any information transmitted over the Internet.
-
-**Security Q & A**
-
-**Q. Is my information secure?**
-
-**A.** Whenever InteliSpend asks you to send confidential or sensitive information over the Internet, such as card numbers, ID and Passwords, we require that a "higher security session" using SSL first be established.
-
-**Q. What specifically is SSL?**
-
-**A.** Any time you access or supply card account or confidential or sensitive information in one of our secure online areas, that information is encrypted by a technology called Secure Socket Layer, often abbreviated as SSL. SSL technology secretly encodes information as it is being sent over the Internet between your computer and InteliSpend systems, helping to ensure that the information remains confidential. The use of SSL requires two components: a SSL-compatible browser and a web server to perform the "key-exchange" that establishes an SSL connection to InteliSpend web server systems.
-
-**Q. When do I enter into a "secure SSL session?"**
-
-**A.** Secure SSL sessions are established in InteliSpend online service areas where customers are providing any type of ordering information online or are providing any type of card-related information (card number, card valid thru, and card security identification number) or other confidential or sensitive information online. 
-
-**Q. Why do I need an ID and password?**
-
-**A.** InteliSpend requires the use of an ID and password as an additional security measure that helps protect your information.
-
-**Underage Users**
-
-Our Websites are not directed toward children (individuals under 19 years of age). InteliSpend does not permit registration or use of Our Websites by anyone under the age of 19, and we do not knowingly collect PII from children. In particular, if you are under 19 years of age, you should exit Our Websites and not provide PII to any site on the Internet without the knowledge and permission of your parent or guardian.
-
-**Retention of Your PII**
-
-When your PII is no longer required for the purposes set out above, we will destroy this information or render this information non-identifiable (that is, alter the information so that it cannot be traced back to, or associated with, a specific individual).
-
-**Access to Your PII**
-
-You are entitled to access, verify, amend and/or correct your PII. Upon request to our Privacy Officer (see contact information below), we will provide you with access to the PII we have collected about you through Our Websites (unless the release of this information is prohibited by law).
-
-If you have a concern regarding the collection, use or disclosure of your PII by InteliSpend, please contact our Privacy Officer at:
-
-privacy@intelispend.com
-
-Your concern will be investigated and you will be notified within 30 days of the outcome of the investigation and any action required as a result.
-
-**Offline Practices**
-
-Please note, this Privacy Statement applies solely to our online information gathering and disclosure practices in connection with Our Websites, and does not apply to any offline operations. 
-
-This Privacy Statement, as amended from time to time, has been adopted by InteliSpend as of January 1, 2014.
-
-© 2014 Blackhawk Network Inc.
-
-  
-
-
-* * *
-
-For Visa and Mastercard Cardholders in the U.S.
-
-Rev. September 23, 2013
-
-  
-|  | 
-
-Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
-  
+**Purposes of Use (see above)** | **Legal Bases of Processing (where applicable)**  
 ---|---  
+Provide Our Services 
+
+Customer Service and Support
+
+| ·       Necessary to enter into or perform a contract with you (upon your request, or as necessary to make the Services available) 
+
+·       Our legitimate business interests*  
   
-| 
+Personalization 
 
-The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+Marketing and Promotions
 
-  * Social Security number and account balances,
-  * Payment history and account transactions and
-  * Transaction history
+Advertising and Referrals
 
+| ·       Our legitimate business interests* 
 
-
-When you are _no longer_ our customer, we continue to share your information as described in this notice.  
+·       With your consent  
   
----|---  
+Analytics and Improvement | ·       Our legitimate business interests*  
+Verify Identity and Detect Fraud 
+
+Protect Our Legal Rights and Prevent Misuse
+
+Comply with Legal Obligation
+
+| ·       Compliance with law 
+
+·       Establish, defend or protect our legal interests
+
+·       Our legitimate business interests*  
   
-| 
+General Business Operations | ·       Our legitimate business interests* 
 
-All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons MetaBank chooses to share; and whether you can limit this sharing.  
+·       Establish, defend or protect our legal interests
+
+·       Compliance with law  
   
----|---  
-  
-|  |   
----|---|---  
-  
-For our everyday business purposes - such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus
+* For personal information from the EU, the processing is in our legitimate interests, which are not overridden by your interests and fundamental rights. Our legitimate interests include our interests in verifying identify, detecting and preventing fraud, protecting and improving our products and services, in support of our general business operations, and to comply with our legal obligations.  We only send marketing communications to EU consumers who provide opt-in consent or who are covered by “soft opt-in” exemptions.
 
-| 
+#### How We Disclose Personal Information We Collect
 
-Yes
+We do not sell your personal information to third-parties.
 
-| 
+_Affiliated Blackhawk Companies_
 
-No  
-  
-For our marketing purposes - to offer our products and services to you
+We disclose personal information among our affiliated and subsidiary companies in furtherance of the purposes set out in this Policy; their processing of your personal information is subject to this Policy. **  **
 
-| 
+_Service Providers_
 
-Yes
+We disclose your personal information to certain companies that provide services to us and on our behalf and subject to our written instructions, such as shipping payment, hosting, and other support services; these companies may be located in the EU, the United States, and other jurisdictions.
 
-| 
+_Clients and Partners_
 
-No  
-  
-For joint marketing with other financial companies
+Where we process personal information on behalf of our clients or partners, we process and share your personal information with that entity subject to its instructions. In such cases the client or partner is the controller of your personal information. This Policy does not apply to Blackhawk’s processing of your personal information in its capacity as the client or partner’s data processor and our use of your personal information is subject to their instructions. Rather, where our client or partners process and use your personal information as controllers, their own privacy policy applies.
 
-| 
+_Referral Partners_
 
-Yes
+We offer referral-based commission systems through third-party partners so that publisher websites may refer users to our pages to make purchases. These partners will be identified when you sign up, and we will obtain your consent in jurisdictions where this is required (and not other legal basis applies). Your personal information collected in such cases will be owned and controlled by both Blackhawk and the partner as independent data controllers. This Policy governs only Blackhawk’s use of such data. The partner’s own privacy policy governs its use of the data.
 
-| 
+_Product Short Notices_
 
-No  
-  
-For our affiliates' everyday business purposes- Information about your transactions and experiences
+Some products offered in conjunction with banks have unique data sharing agreements. Where relevant, Blackhawk will make available to you short privacy notices of each product’s sharing policies on its website.
 
-| 
+_Additional Disclosures_
 
-No
+We may also disclose your personal information in the event of the situations below.
 
-| 
-
-We do not share  
-  
-For our affiliates' everyday business purposes- Information about your creditworthiness
-
-| 
-
-No
-
-| 
-
-We do not share  
-  
-For affiliates to market to you
-
-| 
-
-No
-
-| 
-
-We do not share  
-  
-For nonaffiliates to market to you
-
-| 
-
-No
-
-| 
-
-We do not share  
-  
-  
-  
----  
-  
-Who is providing this notice?
-
-| 
-
-This privacy policy is provided by MetaBank and applies to MetaBank card products, and related products and services.  
-  
-  
-  
----  
-  
-How does MetaBank protect my personal information?
-
-| 
-
-To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
-  
-How does MetaBank collect my personal information?
-
-| 
-
-We collect your personal information, for example when you
-
-  * Register your card or pay a bill
-  * Make a purchase or other transaction
-  * Provide us your name or other information
-
-  
-  
-Why can't I limit all sharing?
-
-| 
-
-Federal law gives you the right to limit only
-
-  * Sharing for affiliates' everyday business purposes - information about your creditworthiness
-  * Affiliates from using your information to market to you
-  * Sharing for nonaffiliates to market to you
+  * As permitted or required by law, such as to comply with a subpoena, or similar legal process;
+  * When we believe in good faith that disclosure is necessary to respond to claims asserted against us, protect our rights, protect your safety or the safety of others, investigate fraud, comply with legal process (e.g., subpoenas or warrants), or respond to a government request;
+  * If Blackhawk is involved in a merger, acquisition, or sale of all or a portion of its assets, or in the event of a bankruptcy or dissolution of our business, your personal information may be transferred to an acquiring business or third party, including in contemplation of or related to due diligence for such business transactions, subject to any applicable restrictions under applicable laws. You will be notified by email and/or by a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information; and
+  * To any other third party with your prior consent.
 
 
 
-State law and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.  
-  
-  
-  
----  
-  
-Affiliates
+_Aggregate and Anonymized Information_
 
-| 
+We may share aggregate and anonymized information about users with certain third parties, including for marketing, advertising, research or similar purposes.
 
-Companies related by common ownership or control. They can be financial and nonfinancial companies.
+#### Cookies and Online Tracking
 
-  * _MetaBank has no affiliates with which it shares your personal information._
+We and our third-party service providers collect information automatically through cookies, beacons, pixels, tags, scripts, and HTML5, as well as log files. We, or our service providers, may combine this information with other information, including personal information we collect about you, to record your preferences, gather information about the use of our Services, identify when our emails are viewed, personalize content and ads and track information about the performance of our advertisements.
 
-  
-  
-Nonaffiliates
+__Cookies__. These are small files with a unique identifier that are transferred to your browser through our websites. These technologies allow us to collect information such as browser type, time spent on our Sites, pages visited, language preferences, and your relationship with us. We can use this information to analyze trends, administer the website, track users’ movements around the website, measure the effectiveness of our communications, tailor our advertising to you, and gather demographic information about our user base as a whole. These technologies may provide us with information about devices and networks you utilize to access our Services, and other information regarding your interactions with our Services. For detailed information about the cookies used in the Services and how you can manage your cookie preferences or reject cookies altogether, please read and review our [Cookie Policy](https://blackhawknetwork.com/privacy-policy/cookie-policy/).
 
-| 
+__Pixels, Web Beacons, Clear GIFs__. These are tiny graphics with a unique identifier, similar in function to cookies that we use to track the online movements of users of our web pages and our Ad Services, and to personalize content, and to identify when our emails are viewed or forwarded.
 
-Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+Our third-party partners use Local Shared Objects, such as Flash cookies, to embed features on our sites. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
-  * _MetaBank does not share your personal information with nonaffiliates so they can market to you._
+_“Do Not Track” Preferences_
 
-  
-  
-Joint Marketing
+Our Site does not recognize do-not-track signals, however, we do not track your online activities across different Sites, and we only track your activity within a Site to the extent you log into your account. Therefore, our practices remain the same whether or not you enable the “Do Not Track” feature. For more information about do-not-track signals, please click [here](http://www.allaboutdnt.com/) or see in our [Cookie Policy](https://blackhawknetwork.com/privacy-policy/cookie-policy/).
 
-| 
+_Third-Party Analytics_
 
-A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+We also use automated devices and applications, such as Google Analytics (more info [here](https://tools.google.com/dlpage/gaoptout)) to evaluate use of our Services. We use these tools to gather non-personal information about users to help us improve our Services and user experiences. These analytics providers may use cookies and other technologies to perform their services on our behalf. See our Cookie Policy for more information about our use of analytics tools.
 
-  * _We may partner with nonaffiliated financial companies to jointly market financial products or services to you._
+#### Marketing and Targeted Advertising
 
-  
-  
-  
----  
-  
-If you are a resident of California or Vermont, we will not share with nonaffiliates except for our own marketing purposes, our everyday business purposes, or with your consent. Nevada residents: We are providing this notice pursuant to Nevada law.
+We partner with third-party ad networks and third-party ad companies to manage our advertising on other sites. Our third-party partner use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you personalized advertising based upon your browsing activities and interests.  Please see the “Cookies and Online Tracking” section above or our [Cookie Policy ](http://www.bird.co/cookienotice)for more information.
+
+_Marketing and Newsletters_
+
+If you subscribe to our newsletters, we will use your name and email address to send them to you. You may choose to stop receiving our newsletter or marketing emails at any time by following the unsubscribe instructions included in these emails or accessing the email preferences in your account.
+
+_Custom Audiences_
+
+Subject to local law restrictions, we may disclose certain information (such as your email address) with third parties – such as Facebook (more info on Facebook Custom Audience [here](https://www.facebook.com/settings/?tab=ads)) so that we can better target ads and content to our users, and others with similar interests on these third parties’ platforms or networks (“Custom Audiences”).  We may also work with third-party ad networks and marketing platforms that enable us and other participants to target ads to Custom Audiences submitted by us and others.  If you would like to opt-out of being included in our Custom Audiences going forward, email us at [privacy@bhnetwork.com](mailto:privacy@bhnetwork.com) and we will opt you out of our future Custom Audiences.
+
+_Opting Out of Ad Networks_
+
+_How to opt out_
+
+If you wish to not have this cross-site information used for the purpose of serving you targeted ads, you may opt-out of many ad networks by clicking _[here](http://www.aboutads.info/choices/)_ (or if located in the European Union, click _[here](http://www.youronlinechoices.eu/)_ ). You will continue to receive ads on the sites you visit, but the ad networks from which you have opted out will no longer target ads to you based upon your activities on other sites. Please note, however, that these opt-out mechanisms are cookie based; so, if you delete cookies, block cookies or use another device, your opt-out will no longer be effective. For more information, go to _[www.aboutads.info](http://www.aboutads.info/)_.
+
+For more information, and to opt out of interest based ads from many ad networks, see our [Cookie Policy](https://blackhawknetwork.com/privacy-policy/cookie-policy/). Note, if you delete cookies or change devices, your opt-out may no longer be effective.
+
+#### Social Media Widgets
+
+#### Our Sites include social media features, such as the Facebook “Like” button, either hosted by a third-party or hosted directly on our website (“Widgets”). Please refer to the privacy policies of the relevant third-party websites or services to find out more about the collection, use, and disclosure of your information through such features. We will comply with any legal obligations placed on the use of these technologies by certain jurisdictions, which may affect how these Widgets function. 
+
+Security
+
+The security of your personal information is important to us. We have implemented safeguards designed to protect the personal information submitted to us. Please note that no data transmission over the Internet cannot be guaranteed to be 100% secure. As a result, we cannot guarantee or warrant the security of any personal information that we process.
+
+#### Retention
+
+#### We will retain your information for as long as your account is active or as needed to provide you services and up to a period of no longer than seven (7) years, unless the period is required to be different under applicable law. To the extent permitted by applicable law, we may also further retain and use your personal information only as necessary to comply with our legal obligations, resolve disputes, maintain appropriate business records, and enforce our agreements. 
+
+Image Submissions and Public Directories
+
+#### Some of our websites offer you the ability to upload your own image to be used to create a personalized product. You may have the option to make these images available in publicly-accessible directories. You should be aware that any information you provide in these areas may be read, collected and used by others who access them. You may request removal of your personal information at any time. 
+
+Your Rights
+
+Certain countries and regions, including the European Union, have enacted laws that provide for privacy rights for individuals located in the EU. Regardless of your location and jurisdiction, Blackhawk may at its sole discretion choose to extend these rights to all individuals, and to comply with requests as detailed below. We do not charge for these services but in certain cases we may require further proof of your identity or ask you to clarify the scope and nature of your request if it is unclear. Where you are entitled to a right, we will respond to your request within the timeframe set out by law, or where we provide answers on a voluntary basis within a reasonable timeframe.
+
+Please note that we only respond directly to you in cases where we are the controller of your personal information. Where we are acting as a data processor on behalf of a client or partner, we will forward your request to the client or partner who is the data controller of your personal information.
+
+_Access, Rectification, Portability and Deletion_
+
+You have the right to access, rectify (correct), or delete your personal information held by us or may ask for a restriction of processing. You may also have the right to ask for an overview or copy of your personal information or to request that certain of your personal information be exported to you or to another provider where technically feasible (data portability).  On some of our Sites, you may access, rectify, or delete your personal information by making the change directly on your account page.  You may also make these requests by sending an email to [privacy@bhnetwork.com](mailto:privacy@bhnetwork.com) or by sending your request by postal mail to the address below.
+
+Please note that there are some limitations to these rights.  For example, we will not be able to delete your personal information if we are required by law to keep it or if we hold it in connection with a contract with you. Similarly, access to your personal information may be refused if making the information available would reveal personal information about another person or if we are legally prevented from disclosing such information. If we cannot fulfill your request, we will inform you about why we cannot comply with your request.
+
+_Withdrawal of Consent_
+
+Where we process your personal information based on your consent, you have the right to withdraw your consent at any time without affecting the lawfulness of processing based on consent before its withdrawal.
+
+**__Object to Processing__**
+
+**_You have the right to object to processing (including profiling) based on legitimate interest grounds, where we are relying upon legitimate interests to process personal information.   If you object, we must stop that processing unless we can demonstrate compelling legitimate grounds for the processing that override your interests, rights and freedoms, or we need to process the personal information for the establishment, exercise or defense of legal claims.  Where we rely upon legitimate interest as a basis for processing, we believe that we can demonstrate such compelling legitimate grounds, but we will consider each case on an individual basis. _**
+
+**__Object to Marketing__**
+
+**_You have the right to object to our use of your personal information (including profiling) for direct marketing purposes, such as when we use your personal information to invite you to our promotional events._**
+
+_Right to Lodge a Complaint_
+
+You have the right to lodge a complaint with your supervisory authority, if you consider that the processing of your personal information infringes applicable law.
+
+To exercise your rights email [privacy@bhnetwork.com](mailto:privacy@bhnetwork.com) (or contact us as indicated in the ‘Contact Us’ section below).  Please keep in mind that certain services will not be available if you withdraw your consent, or otherwise delete or object to our processing of certain personal information. We will respond to your request in accordance with applicable law, and we will inform you if we do not intend to comply with your request.
+
+####  Protecting Children’s Privacy Online
+
+#### Our Sites are not directed to children and we do not knowingly collect personal information from children under the age of sixteen (16), and we request that such individuals do not provide personal information through our Sites. 
+
+International Transfer
+
+The personal information we collect from you may be transferred to, stored at or processed in other countries, including the United States or outside the European Economic Area, which may not provide equivalent levels of data protection to your home jurisdiction.
+
+We will take steps to ensure that your personal information receives an adequate level of protection in the jurisdictions in which we process it, including through appropriate written data processing terms and/or data transfer agreements. For transfers from the EU, United Kingdom (“UK”) or Switzerland to the U.S., Blackhawk Network relies on its Privacy Shield certification (see below). Safeguards may also include adequacy decisions by the EU Commission or putting in place standard contractual clauses as approved by the European Commission (the form for the standard contractual clauses can be found here: [EU Commission Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)) or another applicable supervisory body.
+
+#### Privacy Shield Certification
+
+Blackhawk Network, Inc. (and its subsidiary companies listed on its certification page here: [Blackhawk Network Privacy Shield Certification](https://www.privacyshield.gov/participant?id=a2zt0000000TOcYAAW&status=Active)) complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (“Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom (“UK”) and/or Switzerland to the United States in reliance on Privacy Shield. Blackhawk Network has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information.  If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+Blackhawk is responsible for the processing of personal information it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Blackhawk complies with the Privacy Shield Principles for all onward transfers of personal information from the EU, Switzerland and/or the UK, including the onward transfer liability provisions.
+
+With respect to personal information received or transferred pursuant to the Privacy Shield Framework, Blackhawk is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Blackhawk may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. We are committed to cooperating in the resolution of disputes with individuals through this process.
+
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+#### Updates to This Policy
+
+This Policy may be subject to change. Please review it from time to time. If we make material changes to this Policy about how we process your personal information, we will post those changes on this page and revise the “Last Updated” date at the top and we will notify you by email or prominent notice on this Site prior to the change becoming effective. Where required by law, we will obtain your consent or give you the opportunity to opt out of such changes. Any changes will become effective when we post the revised Policy.
+
+#### Contact Information
+
+If you have any questions or concerns regarding the way in which your personal information is being processed, please reach out to us using the contact information below:
+
+Chief Privacy Officer  
+Blackhawk Network, Inc.  
+6220 Stoneridge Mall Road  
+Pleasanton CA 94588  
+[privacy@bhnetwork.com](mailto:privacy@bhnetwork.com)
+
+_EU Inquiries_
+
+You may contact Blackhawk Network, Inc. at the address or email above or the appropriate Blackhawk EU Data Protection Officer listed below, and we will work to properly respond to your inquiry or request.
+
+Blackhawk Network DPO (European Union except Germany, Austria and Switzerland): [ourprivacycommitments@bhnetwork.com](mailto:ourprivacycommitments@bhnetwork.com)
+
+Blackhawk Network DPO (Germany, Austria, and Switzerland):  
+[privacy@bhnetwork.de](mailto:privacy@bhnetwork.de)
+
+If you have any further queries or complaints that we are not able to answer, you should contact the Data Privacy Supervisory Authority for the country in which you reside.  A list of National Data Protection Authorities in the European Economic Area can be found [here](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm).
