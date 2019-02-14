@@ -1,78 +1,107 @@
-> *The following text is extracted and transformed from the sproutvideo.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616182107id_/https%3A//sproutvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sproutvideo.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214180213id_/https%3A//sproutvideo.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Video Hosting for Businesses - SproutVideo
+# Privacy | Video Hosting for Businesses | SproutVideo
 
-## What information do we collect?
+## This Privacy Policy Applies to the Sites Where It Appears.
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
+This policy describes how we treat personal information. It applies to information we collected on the websites where it is posted including our mobile sites. Read this policy to learn about what we do and your choices.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously. 
+We give third parties the ability to collect information through our platform. This policy does not explain how those third parties use information. To read about how third parties use information please read their privacy policies.
 
-## For what do we use your information?
+## We Collect Personal Information From and About You.
 
-Any of the information we collect from you may be used in one of the following ways: 
+**We collect contact information.** We may collect your email address, name and company name. We may also collect your phone number. 
 
-  * to personalize your experience (your information helps us to better respond to your individual needs)
+**We collect payment information.** If you make purchases with us we collect your credit card information. 
 
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+**We collect information about your viewing history.** We collect information about the videos you watch. We also use tools that let us record your session history. 
 
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+**We collect usage and location information.** We collect information about the browser, device and operating system you are using. We also collect your IP address and domain name or time zone. We also collect information about the sites you came from and where you visit when you leave us. 
 
-  * To process transactions
+## We Collect Information In Different Ways.
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+**We collect information directly from you.** We may collect information when you register for our services or sign up for newsletters. We also collect information when you watch videos. We also collect information if you contact us through our support features. 
 
-  * To administer a contest, promotion, survey or other site feature
+**We collect information about you passively.** We may use tracking tools like browser cookies and web beacons. We do this on our websites and in emails that we send to you. We collect information about users over time when you use this website. 
 
-  * To send periodic emails
+**We get information about you from third parties.** We may get information from social media sites. You can give us third parties’ email addresses when you use certain platform features, such as creating video logins for others. 
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+## We Combine Information We Get About You.
 
+We may combine information that we have collected offline with information that we collect online as permitted by law. We combine information we have collected across other third-party sites. We combine information collected across devices. We also combine information that we get from a third party with information we already have.
 
+## We Use Your Information As Disclosed and Described.
 
+**We use information to respond to your requests or questions.** We use your information to respond to your questions. This includes questions about our products or your relationship with us. 
 
-## How do we protect your information?
+**We use information to communicate with you about your account and our relationship.** We will correspond with you about your account or our relationship. We will also contact you about this Privacy Policy or our website terms. 
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+**We use information to improve products and services.** We may use your information to improve our sites and services. We use your information to customize your experience with us. Information you provide also helps us respond to your customer service requests and support your needs more efficiently. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+**We use information for security purposes.** We may use your information to protect our company and our customers. We may also use your information to protect our sites. 
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
+**We use information for marketing purposes.** We may use your information to provide you with information about products and special promotions. We may also use your information to serve you with ads and offers. We may tell you about new features or updates. These might be third party offers or products we think you might find interesting. We do this when legally permitted. 
 
-## Do we use cookies?
+**We use information to process orders.** We may use information you provide about yourself when placing an order to provide service to that order. 
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information) 
+**We use information as otherwise described and permitted by law.**
 
-We use cookies to help understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+**If you are in Europe we have multiple bases for processing information.** Our basis for processing your information is typically to perform a contract. Performance of a contract includes responding to your request. We also process information based on consent or for our legitimate interest. 
 
-## Do we disclose any information to outside parties?
+## We May Share Information With Third Parties.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+**We share your information with third parties who perform services on our behalf.** We may share your personal information with trusted third parties. These include companies who serve as our vendors and help us deliver products or services to you. For example, we share information with vendors who send emails for us. We may also share information with companies that operate our websites. 
 
-## California Online Privacy Protection Act Compliance
+**We may share information with business partners and platform users.** We let users on our platform collect information from you. We also share information about you with those who post videos. They may use the information we give them for their own purposes. This may include providing you with marketing. 
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
+**We may share information if we think we have to in order to comply with the law or to protect ourselves.** We will share information to respond to a court order or subpoena. We will also share it if a government agency or investigatory body requests. This includes U.S. and non-U.S. law enforcement or regulatory authorities. 
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and going to the 'Account Settings' page. 
+**We may share information with any successor to all or part of our business as permitted by law.** If all or part of our business was sold, we may give our customer list as part of that transaction. Where legally required, we will give you prior notice and if you have the legal right to do so, allow you to object. 
 
-## Childrens Online Privacy Protection Act Compliance
+**We may share information for other reasons we may describe to you or as permitted by law.**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+## You Have Certain Choices About How We Use Your Information.
 
-## Online Privacy Policy Only
+**You can opt out of certain marketing.** To stop receiving our marketing communications please email us at [support@sproutvideo.com](mailto:support@sproutvideo.com) or follow the instructions in any message you get from us. If you opt out of marketing emails you will continue to receive messages from us about your relationship with us where permitted by law. To opt out of having us share your information with third parties for their promotional purposes email [support@sproutvideo.com](mailto:support@sproutvideo.com). 
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+**You can access and update your information.** To access or update/correct information you can email us at [support@sproutvideo.com](mailto:support@sproutvideo.com). If you are in Europe you may have the right to have your information deleted. You can contact us at [support@sproutvideo.com](mailto:support@sproutvideo.com) to make this request. 
 
-## Terms and Conditions
+**Our Do Not Track Policy: Some browsers have “do not track” features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals.** If you block cookies, certain features on our sites may not work. For more information about our use of cookies please see our Cookie Policy [here](https://web.archive.org/web/20190214180213id_/https%3A//sproutvideo.com/cookies "SproutVideo Ad and Cookie Policy"). **_Options you select are browser and device specific._**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://sproutvideo.com/terms>
+## You Can Contact Us About This Policy and Your Information.
 
-## Your Consent
+If you have other questions about this Policy or our privacy practices please email us at [support@sproutvideo.com](mailto:support@sproutvideo.com). You can also write to us at:
 
-By using our site, you consent to our [web site privacy policy](http://sproutvideo.com/privacy). 
+SproutVideo, LLC
 
-## Changes to our Privacy Policy
+190 N 10th St, Ste 313
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+Brooklyn, NY 11211
 
-This policy was last modified on July 22, 2010 
+## Our Sites Are Not Intended for Children.
+
+Our sites are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can contact us at [support@sproutvideo.com](mailto:support@sproutvideo.com). Please mark your inquiries “COPPA Information Request.”
+
+Parents can learn more about [how to protect children's privacy online](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
+
+## We Use Standard Security Measures.
+
+We use appropriate and reasonable security measures as required by relevant law. The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet.
+
+We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+
+## We May Store and Use Information Both Inside and Outside of the United States.
+
+Information we collect may be stored and processed in the United States. If you live outside of the United States, you understand and agree that we may transfer your information to the United States. The United States may not afford the same level of protection as the laws in your country. By submitting your information you agree to the processing of it in the US as permitted by law.
+
+## We May Link to Other Sites Or Have Third Party Services On Our Site We Don’t Control.
+
+We may link to third-party sites. We may send information to those third parties after you travel away from our websites. Our sites may also include third party content that collects information. We do not control these third parties. This Policy does not apply to the privacy practices of those website or platforms. Please read the privacy policy of other websites and platforms carefully. We are not responsible for the practices of these third-party sites.
+
+## We May Update This Policy.
+
+From time to time we may change our privacy policy. When we do, we will notify you of any material changes as required by law. We will also post an updated copy here. Please check periodically for updates.
+
+* * *
+
+### Effective Date: July 22, 2010 — Last Updated: May 24, 2018
