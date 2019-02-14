@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howickvillage.co.za privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004094041id_/http%3A//www.howickvillage.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howickvillage.co.za privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214210417id_/http%3A//www.howickvillage.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HowickVillage.co.za | HowickVillage.co.za
+# Privacy Policy - HowickVillage.co.za
 
 **What information do we collect?**  
 We collect information from you when you register on our site, (this enables you to place an advert on the notice board and submit an image to the gallery) or fill out the contact form.
