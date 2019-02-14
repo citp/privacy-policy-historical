@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerbliss.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204031402id_/https%3A//www.careerbliss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbliss.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214091149id_/https%3A//www.careerbliss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerBliss
 
