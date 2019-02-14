@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topbestlisted.blogspot.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215051523id_/http%3A//topbestlisted.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbestlisted.blogspot.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214030506id_/https%3A//topbestlisted.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Top Best List Blogspot. Classifieds Advertising Sites Forums 2018: Privacy Policy
 
