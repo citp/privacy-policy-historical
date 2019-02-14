@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photonify.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006140721id_/https%3A//photonify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonify.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214030816id_/https%3A//photonify.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Photonify
+# Privacy Policy - Photonify Photographers Marketplace:
 
 ## What information do we collect?
 
@@ -66,9 +66,19 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 By using our site, you consent to our online privacy policy.
 
+## GDPR Compliance
+
+To comply with the new [GDPR laws](https://ec.europa.eu/info/law/law-topic/data-protection_en) we have made some changes to our website.
+
+You will now be prompted whether you wish to retain your email and name when commenting, if you choose yes, a cookie will be stored on your computer to identify yourself next time you comment.  If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
 ## Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+
+25th May 2018: GDPR Compliance Added
 
 ## Contacting Us
 
