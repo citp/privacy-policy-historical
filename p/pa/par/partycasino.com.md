@@ -1,257 +1,187 @@
-> *The following text is extracted and transformed from the partycasino.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024194339id_/https%3A//www.partycasino.com/en/p/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partycasino.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214184929id_/https%3A//www.partycasino.com/en/p/legal/privacy-policy) for the most accurate reproduction.*
 
 # 
 
-### Privacy Policy
+### Privacy Notice
 
-  * PRIVACY
-  * INFORMATION COLLECTED
-  * MEANS OF COLLECTING AND PROCESSING DATA
-  * INFORMATION USE
-  * CERTAIN EXCLUDED DISCLOSURES
-  * ACCESS
-  * COOKIES
-  * Information placed on your device
-  * List of Our main cookies
-  * When do We use cookies?
-  * During the registration process
-  * On Our website
-  * Cookies allow Us to
-  * How can I refuse or opt out of cookies?
-  * Cookies
-  * Flash Cookies
-  * CONSENT TO USE OF ELECTRONIC SERVICE PROVIDERS
-  * CONSENT TO SECURITY REVIEW
-  * CONSENT TO USE OF ANTI-CHEATING SOFTWARE
-  * SECURITY
-  * PROTECTION OF CHILDREN
-  * INTERNATIONAL TRANSFERS
-  * THIRD-PARTY PRACTICES
-  * LEGAL DISCLAIMER
-  * MERGERS AND OTHER EVENTS REQUIRING TRANSFER
-  * CONSENT TO PRIVACY POLICY
+This Privacy Notice describes how ElectraWorks Limited (' **ElectraWorks** ', ' **Our** ', ' **Us** ', as appropriate) collects, use, stores, shares or keeps your personal information when you use our services through our website and mobile application. It also describes your data protection rights, including a right to object to some of the processing which We carry out.
 
+The data controller for your Personal information is:
 
+ElectraWorks Limited of Suite 6, Atlantic Suites, Europort Avenue, Gibraltar, GX11 1AA
 
-**1.PRIVACY**
+  1. **INFORMATION COLLECTED AND MEANS OF COLLECTING**
+  2. **INFORMATION USE AND LEGAL BASIS**
+  3. **AUTOMATED DECISION MAKING**
+  4. **DISCLOSING YOUR PERSONAL INFORMATION**
+  5. **INTERNATIONAL TRANSFERS**
+  6. **SECURITY**
+  7. **PROTECTION OF CHILDREN**
+  8. **RETENTION OF PERSONAL INFORMATION**
+  9. **CHANGES TO OUR PRIVACY NOTICE**
+  10. **WHO TO CONTACT**
 
-We are committed to protecting Your personal information. We have created this Privacy Policy to let You know what information We collect when You use Our Services, why We collect this information and how We use the collected information.
 
-Please note that this Privacy Policy will be agreed between You and the Group being GVC Holdings PLC together with its Group companies as defined in the [Terms and Conditions of Use](https://www.partycasino.com/en/p/legal/terms-and-conditions) (' **GVC** ',' **We** ', ' **Us** ' or ' **Our** ', as appropriate).
 
-We may periodically make changes to this Privacy Policy and will notify You of these changes by posting the modified terms on Our Platforms. We recommend that You revisit this Privacy Policy regularly.
+## 1 INFORMATION COLLECTED AND MEANS OF COLLECTING
 
-**2.INFORMATION COLLECTED**
+### We collect the following information about you:
 
-We consider information that may be used to identify an individual, including, but not limited to, first and last name, date of birth, credit card information, home or other physical address, email address, phone number or other contact information to be Personal Information (' **Personal Information** '). You may be asked to provide Personal Information when You use Our website, register for an account or to use the Services. The Personal Information that We collect may include information such as: contact information (including telephone number), shipping information, billing information, transaction history, website usage preferences, and feedback regarding the Services. This information is held by Us on servers based in Gibraltar and elsewhere from time to time. In addition, when You interact with the Services, Our servers keep an activity log unique to You that collects certain administrative and traffic information including: source IP address, time of access, date of access, web page(s) visited, language use, software crash reports and type of browser used. This information is essential for the provision and quality of the Services. We do not collect Personal Information about You on the Services without Your knowledge.
+1.1 Personal information you provide to us when you use our website or register for an account with us, this may include first and last name, date of birth, credit card information, username and password, proof of age and identity, billing address, home address, email address, phone number or other contact information;
 
-**3.MEANS OF COLLECTING AND PROCESSING DATA**
+1.2 Technical information about your device and the platform such as administrative and traffic information including but not limited to: source IP address, time of access, date of access, type of devise, web page(s) visited, language use, your location, roaming trace, software crash reports and type of browser used. This information is essential for the provision and quality of the Services.
 
-We may automatically collect certain data as discussed above and receive Personal Information about You where You provide such information through the Services or other communications and interactions with Us. We may also receive Personal Information from online vendors and service providers, and from customer lists lawfully acquired from third-party vendors. In addition, We may engage the services of third-party service providers to provide technical support, process Your online transactions and maintain Your Account. We will have access to any information You provide to such vendors, service providers and third-party e-commerce services, and We will use the Personal Information as set out in this Privacy Policy below. This information will only be disclosed to third parties outside the Group in accordance with this Privacy Policy. We take steps to ensure that Our arrangements with third-party service providers and online vendors protect Your privacy.
+1.3 Your public profile, including, name, photo and other information you make available to us when you like, post or otherwise interact with our social media pages such as Facebook, Twitter and Google+.
 
-**4.INFORMATION USE**
+1.4 We keep records of communications when you contact us or otherwise interact with us, including via e-mail, letter, text message (SMS), online, messaging Apps such as WhatsApp and Skype, telephone or live chat function on our Website;
 
-We use the Personal Information We collect from You to deliver Our Services, to provide customer support, to undertake necessary security and identify verification checks, to process any of Your online transactions, to assist Your participation in third-party promotions, meet certain business requirements and for any other purpose related to the operation of the Services. As such, We may share Your Personal Information with Our carefully selected partners (which will include any other parties which such partners have entered into data sharing arrangements with). Your Personal Information may also be used by Us to provide You with: (a) promotional offers and information regarding Our products and services; and (b) promotional offers and information regarding the products and services of Our carefully selected partners, in order to better provide You with a range of products and services and improved customer service. From time-to-time, We may request information from You via surveys or contests. Participation in these surveys or contests is completely voluntary, and, therefore, You have the choice of whether or not to disclose such information. Information requested may include contact information (such as name, correspondence address and telephone number), and demographic information (such as zip or postal code or age). By accepting any contest prize or winnings from Us, You consent to use of Your name and likeness for advertising and promotional purposes without additional compensation, except where prohibited by law. Unless You have elected not to receive promotional information, We may also use Your Personal Information (including Your email address and phone number) to provide You with information regarding Our products, services and promotions, including other gaming products (including online poker, casino, betting, backgammon and bingo services) and products and services from third parties carefully selected by Us.
+1.5 Other information from third parties databases to comply with our legal and regulatory obligations;
 
-**5.CERTAIN EXCLUDED DISCLOSURES**
+1.6 We may also receive your personal information from online vendors and service providers such as financial and shared liquidity services, and from customer lists lawfully acquired from third-party vendors;
 
-We may disclose Your Personal Information if required to do so by law, or if We believe in good faith that such action is necessary to: (1) comply with any legal process served on Us, any of Our sites or the Services or in circumstances where We are under a substantially similar legal obligation; (2) protect and defend Our rights or property; or (3) act to protect the personal safety of users of the Services or the public. If, in Our sole determination, You are found to have cheated or attempted to defraud Us, the Group, or any other user of the Services in any way including but not limited to game manipulation or payment fraud, or if We suspect You of fraudulent payment, including use of stolen credit cards, or any other fraudulent activity (including any chargeback or other reversal of a payment) or prohibited transaction (including money laundering), We reserve the right to share this information (together with Your identity) with other online gaming sites, banks, credit card companies, for the purpose of research on the prevention of addiction, data can be made anonymous and passed on to the respective institutions and appropriate agencies.
+1.7 We may collect additional information about you where you provide such information to us through your use of our services.
 
-**6.ACCESS**
+## 2\. INFORMATION USE AND LEGAL BASIS
 
-You may 'opt out' of receiving any promotional communications either by choosing to opt out where such option is made available on Our sites or the Services or in an email You receive from Us, or at any time by sending an email, or by writing to Us at Customer Service, Suite 711, Europort Gibraltar, under company number 93313. In addition, You may contact Us at this address if You: 1) want to confirm the accuracy of the Personal Information We have collected about You; 2) would like to update Your Personal Information; and/or 3) have any complaint regarding Our use of Your Personal Information. If requested, We will (a) update any information You have provided to Us, provided that You provide evidence as We may reasonably require for such changes, or (b) mark any information to prohibit future use for marketing purposes. For the avoidance of doubt, nothing in this Privacy Policy shall prevent Us from retaining Your Personal Information where We are required to do so by law.
+### 2.1 To provide a requested service or carry out a contract with you:
 
-**7.COOKIES**
+  * Provide customer support and service messages, including messages requesting your feedback on our services and notifying you about changes to our website, services or changes to our terms, conditions and policies.
+  * To conduct security reviews at any time to validate your identity, age, the registration information provided by you and to verify your use of our services and your financial transactions for potential breach of our General Terms and Conditions and of applicable law. Security reviews may include for example, ordering a credit report and/or otherwise verifying the information you provide against third-party databases.
+  * To process any of your online transactions and payments (including disclosing your personal information to third party payment processors, ESPs, and other financial institutions as necessary).
 
-**7.1.Information placed on your device**
 
-We may store some information on your computer, laptop, tablet or mobile device when you look at our sites, mobile sites or mobile apps. We use cookies, which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences. We also use Local Shared Objects or 'flash cookies'. 'Flash cookies' are similar to browser cookies. They allow us to remember things about your visits across our sites but cannot access or use other information on your computer. We do not use flash cookies to remember or use directly identifying personal information about you such as your name or email address. We only use flash cookies across our own sites and no others. We use cookies and flash cookies to track use of Our sites. We also may use cookies and third party cookies to monitor traffic to the site, improve the Services and make it easier and/or more relevant for your use. We use flash cookies and third party cookies to help us to show you advertisements which are relevant to your interests based on your use of Our sites.
 
-**7.2.List of the main GVC cookies**
+### 2.2 To conduct our business and pursue our legitimate interests:
 
-You can find more information about the individual cookies we may use and the purposes for which we use them in the table below
+  * To investigate and address enquiries, questions and complaints and respond to any feedback.
+  * To post in-game activity to your newsfeed and share content with other players which may lead to Loyalty Points, Points or Rewards (such posting of in-game activity can be controlled in your privacy settings).
+  * To assist your participation in third-party promotions, market research and events.
+  * Customer telephone and chat conversations may be recorded to allow us to improve the quality of our customer service and our products, train staff and to record what is said in the event of a subsequent complaint.
+  * Provide you with promotional offers and information where you have indicated or we have inferred an interest in our Products.
+  * We monitor use of our websites and online services, and use your personal information to help us improve and protect our content, services and websites, both online and offline.
+  * We use personal information to personalise our website and services for you.
+  * We monitor customer accounts to prevent the use of unfair practices in our website.
+  * We use personal information to investigate any complaints received from you or from others, about our websites or our services.
+  * We may be required to share your data with trusted third parties who provide us with services relevant to our provision our gambling services, including customer support, information security, payments, marketing, data analysis, research and surveys.
+  * We will use personal information in connection with legal claims, and for compliance, regulatory and investigative purposes as necessary (including disclosure of such information in connection with legal process or litigation).
+  * We use your personal information in order to build up a profile of your demographics, likely behaviours and preferences. This is used to inform the decisions we make in relation to the services, content and promotions we offer. We also report on the different contribution to our commercial performance from different customer profiles. We create profiles through manual or automated processes, including from third-party providers.
 
-**1st Party**
 
-**STRICTLY NECESSARY COOKIES**
 
-Strictly necessary cookies are essential to allow a user move around a website and use its features, such as accessing secure areas of the website, or shopping basket. Without these cookies, we would not be able to make our websites work efficiently.
+### 2.3 In accordance with your preferences:
 
-**1st Party**
+  * Subject to your marketing preferences (if applicable) , we will use your personal information to deliver marketing communications which may be of interest across various platforms, such as email, text message (which includes WhatsApp, and Skype instant messenger), telephone, mail post, online, inbox messaging, push notifications or other available channels to provide you with information regarding our products, services and promotions, including other gaming products (such as online poker, casino, betting and bingo services).
+  * To share your contact details with selected media partners and affiliates for the purposes of them being able to offer their own marketing services to you. We only do this where we have your consent and in line with your marketing preferences.
+  * To enter you into surveys or promotions you have agreed to.
 
-COOKIE NAME | PURPOSE  
----|---  
-WMID PPWMID PCWMID | Webmaster ID - These cookies show us how you found our Site and which website you came from. This helps us know which of our online marketing channels is most effective. They allow us to reward some external websites and affiliates for directing you to us.  
-SITE_PARAMS | This cookie stores all arguments and their values passed in the query string of the url (after question mark).  
-TDSET TDPEH TDUID_VALUE | These cookies are used in conjunction with the WMID cookie to determine the source of website traffic.  
-  
-**3rd Party Cookies:** With a 3rd Party cookie the tracking cookie is set and recorded by a 3rd Party
 
-COOKIE NAME | PURPOSE  
----|---  
-JSESSIONID | This cookie is a unique identifier that is generated and sent from our webserver to identify the current interaction session. This cookie is strictly necessary in order to provide our Services to you as it's specific to our webserver setup.  
-  
-**PERFORMANCE COOKIES**
+  * We place cookies and use similar technologies in accordance with our Cookies Notice for more information please refers to our _Cookie Notice_.
+  * On other occasions where we ask you for your permission, we will use your personal information for the purpose which we explain at that time.
+  * Wherever we rely on your consent, you will always be able to withdraw that consent, although we may have other legal grounds for processing your data for other purposes, such as those set out above. You can opt-out of this at any time by updating you marketing preference.
 
-Performance cookies allow us to collect information about website usage. These cookies collect anonymous information that doesn't identify a visitor. The information collected is used to improve how our websites work and how we can improve it. For example, 
 
-  * Web Analytics;
-  * Ad response rates;
-  * Error Management
-  * Testing Designs
 
+### 2.4 For purposes which are required by law:
 
+  * In response to requests by government or law enforcement authorities conducting an investigation.
+  * Investigate and/or report fraud, terrorism, misrepresentation, security incidents or crime, in accordance with applicable law.
 
-**1st Party**
 
-COOKIE NAME | PURPOSE  
----|---  
-mmcore.* | Maxymiser cookies are used for A/B and Multi Variant Testing (MVT) in order to optimize your experience on our Sites. MVT allows us to show different website content to different users in order to provide a tailored user experience. **
 
-Policy/How to reject or delete this cookie
+## 3\. AUTOMATED DECISION MAKING
 
-**<http://www.maxymiser.com/company/privacy>  
-  
-**FUNCTIONALITY COOKIES**
+We may use automated decision making (i.e. decisions taken without human intervention), including profiling to; create a description of your demographics, past behaviours, likely future behaviours and preferences.
 
-Functionality cookies allow a website to remember choices a user makes (username, language or location) and it allows the website to provide a more enhanced service. The information these cookies collect may be anonymised and cannot track individual browsing activity. For example, 
+This helps us;
 
-  * Remembering user settings;
-  * Detecting that a service has already been offered;
-  * Fulfilling a user request
+  * to provide you the personally targeted content and offers through our platform, and through our marketing communications;
 
 
+  * to provide differential services to customers related to payments and withdrawals, customer service and other operational services; and
 
-**1st Party**
 
-COOKIE NAME | PURPOSE  
----|---  
-CCID | This cookie records the country you are visiting from based on your IP address. It is used for geographic specific content and allows webpages to present content specific to your location.  
-RetUser | This cookie is used to recognise and store if you are visiting our Site (including all language versions) for the first time.  
-DomRetUser | This cookie is used to recognise and store if you are visiting our Site for the first time and to store the language version of our Site selected by you.  
-sifrFetch | This cookie is used to improve your browsing experience by improving Site performance. The cookie is set when normal (html) text is replaced with a 'fancy' representation. Prevents the font replacement script from checking if 'fancy' fonts are already in place which could slow down your browser.  
-LANGREDIR | This cookie is used to improve user experience by redirecting you to the same language version that corresponds to your browser language. This cookie can be overwritten by selecting a different language version.  
-PPLCID, LCID | Is a unique identifier which is used to remember your language selection based on the language dropdown box. This cookie overwrites the LANGREDIR cookie as your preferred website language.  
-TournamentFilter | This cookie is used to store your selected filtered poker tournament schedule when returning to a Site. The purpose of this cookie is to improve user experience.  
-mobhpvisit | This cookie is used to improve website performance while browsing through a website or mobile device. This cookie is set to avoid unnecessary action on non-mobile devices.  
-GlossaryHintState | This cookie is used to improve user experience by storing the on/off functionality selected by you, which highlights the 'How to Play' Glossary section on PartyPoker.com  
-cmhpret cmhpf24h cmhpses | These cookies are only set for UK users and help us recognise you so we can display a welcome message on the homepage of PartyCasino.com. This cookie is set to display on your browser once to avoid repeatedly showing the same message.  
-  
-**3rd Party Cookies:** With a 3rd Party cookie the tracking cookie is set and recorded by a 3rd Party
+  * to comply with legal and regulatory regulations, fraud, anti-money laundering and responsible gaming.
 
-**ANALYTICAL COOKIES**
 
-Analytical cookies recognise and count the number of users and to see how visitors move around the site when they are using it.
 
-COOKIE NAME | PURPOSE  
----|---  
-nifpvis MMoveDet | Netinsight tracking provide us with analytical information about visitors to our Sites which includes mouse clicks and mouse movements.  
-WRUID WRIgnore | ClickTale provide us with analytical information about visitors to our Sites which may include mouse clicks, mouse movements, scrolling activity. **
+If you disagree with the outcome of an automated decision please contact Us using the details in the Rights section and we will review the decision.
 
-Policy/How to reject or delete this cookie
+## 4\. DISCLOSING YOUR PERSONAL INFORMATION
 
-**<http://www.clicktale.com/privacy>  
-  
-**3rd Party Cookies:** With a 3rd Party cookie the tracking cookie is set and recorded by a 3rd Party
+We may disclose information about you;
 
-**TARGETING & ADVERTISING COOKIES**
+  * to other companies in the GVC Group, which includes GVC Holdings PLC and its direct and indirect subsidiary companies for internal reasons, primarily for business and operational purposes in line with this privacy notice;
 
-These cookies are used to collect information about users, in order to deliver adverts relevant to that person. They remember that a user has visited a website and this information is shared with third parties. These cookies deliver adverts and content that is specific to a user based on information that has been stored about that user.
 
-**3rd Party Cookies:** With a 3rd Party cookie the tracking cookie is set and recorded by a 3rd Party
+  * to third party service providers, who will process it on our behalf for the purposes identified above. Such third parties include providers of website hosting, maintenance, call centre operation, identity checking, information verification services, marketing, data analysis, research and surveys, third-party electronic payment processors and/or financial institutions to process financial transactions and other organisations that provide technical support, process your online transactions and maintain your account;
 
-COOKIE NAME | PURPOSE  
----|---  
-ZEDOIDA ZEDOIDX ZCBC FFgeo FFMChanCap FFcat FFad | ZEDO uses cookies to enhance users' web experience by preventing users from seeing the same internet advert over and over again. ZEDO does not use cookies to personally identify you in any way, and these cookies cannot damage your system or files.
 
-**Policy/How to reject or delete these cookies**<http://www.zedo.com/company/privacy.htm>  
-<http://www.networkadvertising.org/managing/opt_out.asp>[  
-](http://www.networkadvertising.org/managing/opt_out.asp)  
-Zedo 3rd party cookies, between 10-100 cookies  
-  
-**7.3.When do We use cookies?**
+  * with law enforcement and public authorities in order to comply with any legal obligation or where We believe we are under a duty to comply with an obligation.
 
-  1. **7.3.1. During the registration process**
-  2. These cookies will hold information collected during Your registration and will allow Us to recognise You as a customer and provide You with the services You require. We may also use this data to better understand Your interests while online and to enhance Your visits to Our Platforms.
-  3. **7.3.2. On Our website**
-  4. For visitors to Our website, We use cookies to collect information. Our servers use two different types of cookies:
-  5. A 'session-based' cookie: This type of cookie is only allocated to Your computer for the duration of Your visit to Our website. A session-based cookie helps You move around Our website faster and, if You're a registered customer, it allows Us to give You information that is more relevant to You. This cookie automatically expires when You close Your browser.
-  6. A 'persistent' cookie: This type of cookie will remain on Your computer for a period of time set for each cookie. Flash cookies are also persistent.
-  7. 'Analytical' cookies allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps Us to improve the way our sites works, for example, by ensuring You can what You are looking for easily.
 
+  * with third parties in order to enforce our terms of use and any other agreement; or to protect the rights, property, safety, or security of the GVC Group, third parties or the public;
 
 
-**7.4. Cookies allow Us to:**
+  * with other online gaming sites, banks, credit card companies, and appropriate agencies, where you are found to have cheated or attempted to defraud us or any other user of our services, which may include but not limited to game manipulation, payment fraud, or prohibited transaction (including money laundering); and
 
-  * Better understand Your preferences and offer You more relevant promotional offers.
-  * Distinguish You from other users of our sites, which help Us to provide You with a good experience when You browse our sites and also allows Us to improve our sites
-  * Identify Your preferences when customizing content or functionality for You.
-  * Confirm You are a registered user and save Your log-in details when accessing certain Services on Our website.
-  * Show you advertisements which are relevant to your interests based on your use of Our sites
-  * Collect statistics on the use of Our Services.
-  * We may also use cookies and web beacons to ensure that Our mailing tools are working properly.
 
+  * with third parties in the event of sale, purchase of assets, merger, bankruptcy or reorganization proceeding.
 
 
-**7.5.How can I refuse or opt out of cookies?**
 
-**7.5.1.** **Cookies**
+## 5\. INTERNATIONAL TRANSFERS
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if You prefer, You can usually modify Your browser setting to decline cookies. The Help menu on the menu bar of most browsers will tell You how to prevent Your browser from accepting new cookies, how to have the browser notify You when You receive a new cookie and how to disable cookies altogether.
+We store your personal information on our servers located in the EEA.
 
-**7.5.2.** **Flash cookies**
+As with any multinational organisation, we are often required to transfer data internationally. Accordingly, data about you may be transferred globally (if your data is collected within the European Economic Area, this means that your data may be transferred outside of it).
 
-You can modify your Flash Player settings to prevent the use of flash cookies. The Settings Manager of your Flash Player allows you manage your preferences. To disallow flash cookies from all third party content go to the 'Global Storage Settings' panel of the Settings Manager and de-select the check box labelled 'Allow third party flash content to store information on your computer' and close the Settings Manager. Alternatively you can also adjust your settings for specific websites you visit through the 'Website Storage Settings' panel which is also found in the Settings Manager.
+Where your personal information is transferred to a country or territory outside the European Economic Area, and where this is to a country that is not subject to an adequacy decision approved by the EU Commission, We will take steps with the aim of ensuring that the privacy of your information continue to be protected. For example, by using third party's Processor Binding Corporate Rules, Intra-group privacy agreements, EU Commission approved standard contractual clauses or verifying that third parties are certified under an approved certification mechanism according to international privacy rules.
 
-If you are using an old version of Flash Player or older web browser, the Settings Manager may not be available to you. We recommend that you ensure that you refresh your Flash Player and browser to the latest available versions.
+## 6\. YOUR RIGHTS
 
-If You choose to decline cookies, You may not be able to experience all of the interactive features on Our sites.
+By law, you have a number of rights when it comes to your information. You can exercise any of these rights by contacting us through our contact information below.
 
-Alternatively, you can visit http://www.aboutcookies.org/ in order to obtain information on deleting or controlling cookies. Please note that by deleting our cookies or disabling future cookies, you may not be able to access certain areas or features of our sites.
+  * **The right to object to processing**. You have the right to object to certain types of processing, including processing for direct marketing.
+  * **The right to be informed**. You have the right to be provided with clear, transparent and easily understandable information about how we use your information and your rights.
+  * **The right of access**. You have the right to obtain access to your information (if we’re processing it), and certain other information (similar to that provided in this Privacy Notice).
+  * **The right to rectification.** You are entitled to have your information corrected if it is inaccurate or incomplete. You can request that we rectify any errors in information that we hold.
+  * **The right to erasure.** This is also known as ‘the right to be forgotten’ and, in simple terms, enables you to request the deletion or removal of your information that we hold. This right is not absolute and will not apply when legitimate and overriding reasons apply.
+  * **The right to restrict processing**. You have rights to ‘block’ or supress further use of your information. When processing is restricted, we can still store your information, but will not use it further.
+  * **The right to data portability.** You have rights to obtain and reuse your information for your own purposes across different services. This is not a general right however and there are exceptions.
+  * **The right to lodge a complaint.** You have the right to lodge a complaint about the way we handle or process your information with your national data protection regulator. See contact section above.
+  * **The right to withdraw consent.** If you have given your consent to anything we do with your information you can withdraw your consent to the processing of your information at any time.
 
-**8\. CONSENT TO USE OF ELECTRONIC SERVICE PROVIDERS**
 
-In order to play real money games on the Services, You will be required to send money to and receive money from Us. We may use third-party electronic payment processors and/or financial institutions ('ESPs') to process such financial transactions. By accepting this Privacy Policy, You expressly consent to Personal Information necessary for the processing of transactions being shared with ESPs, including, where necessary, the transfer of information outside of Your country. We take steps to ensure that Our arrangements with ESPs protect Your privacy.
 
-**9.CONSENT TO SECURITY REVIEW**
+## 7\. SECURITY
 
-We reserve the right to conduct a security review at any time to validate Your identity, age, the registration data provided by You and to verify Your use of the Services and Your financial transactions for potential breach of Our Terms and Conditions of Use and of applicable law. By accepting Our [Terms and Conditions of Use](https://www.partycasino.com/en/p/legal/terms-and-conditions) You authorise Us, Our staff, agents and suppliers to use Your Personal Information and to disclose Your Personal Information to third parties for the purposes of validating the information You provide to Us in the course of using the Services, including, where necessary, the transfer of information outside of Your country. Security reviews may include but are not limited to ordering a credit report and/or otherwise verifying the information You provide against third-party databases. In addition, to facilitate these security reviews, You agree to provide such information or documentation as We may request. If You are resident in Germany, due to local laws We require that You read and agree to an additional statement which can be found [here](https://secure.partyaccount.com/about/schufa.do?productID=CASINO&brandID=PARTY&wm=4215457).
+We understand the importance of information security and the techniques needed to secure information. We use reasonable organisational, technical and administrative measures to protect your personal data from unauthorised access to or unauthorised alteration, disclosure or destruction of information that we hold and we take steps to ensure our subsidiaries, agents, affiliates and suppliers also employ adequate levels of security. In particular;
 
-**10. CONSENT TO USE OF ANTI-CHEATING SOFTWARE**
+  * Secure Firewalled Datacentres;
+  * Certified Encrypted Webpages; and
+  * ISO27001:2013 certified business practices.
 
-Our software package - used to access and use the Services - contains certain features designed to detect use of automated programs that enable artificial (non-human) intelligence to play on Our site. Use of such 'bot' software programs violates Our [Terms and Conditions of Use](https://www.partycasino.com/en/p/legal/terms-and-conditions), where We deem it detrimental to other players. By installing Our software and using the Services, You consent to Our software performing the functions described in this section. Our software may perform any or all of the following functions in order to detect the use of illicit automated programs and ensure that We maintain a 'cheat free' environment for all users: (1) scan Your list of active software applications while You are using the Services; (2) scan Your list of active processes while You are using the Services; and (3) scan the files in Your Services and site-related program folders to ensure that only 'non-hacked' versions of Our software are being used. If any of the foregoing processes reveals a suspect application or process, Our software may scan the files associated with the suspect application or process and compile a composite mesh (i.e., a profile that characterizes the files associated with the application or process) to be matched against profiles for known illicit automated programs. Our software will not perform any random search of large portions of Your hard drive, equipment or files, and it will not transmit any information to Us or to any third party other than the information necessary to identify use of illicit automated programs as described above. Our software will not alter any files or information on Your computer or other equipment and will not interfere with the operation of any of Your applications. You may terminate use of Our software at any time by uninstalling Our software package.
 
-**11.SECURITY**
 
-We understand the importance of information security and the techniques needed to secure information. We store all of the Personal Information We receive directly from You in a password-protected database residing within Our secure network behind active state-of-the-art firewall software. Our Services support SSL Version 3 with 128-bit encryption. We take steps to ensure Our subsidiaries, agents, affiliates and suppliers also employ adequate levels of security.
+## 8\. RETENTION OF PERSONAL INFORMATION
 
-**12.PROTECTION OF CHILDREN**
+The period for which we may retain data about you will depend on the purposes for which the data was collected, whether you have requested the deletion of the data, and whether any legal obligations require the retention of the data (for example, for regulatory compliance). We will retain data about you for at least as long as is necessary to fulfil the purposes for which the data was collected. Where We process your personal information for marketing purposes or with your consent, We process the personal information until you ask Us to stop and for a short period after this (to allow us to implement Your requests). We also keep a record of the fact that you have asked Us not to send you direct marketing or to process your personal information indefinitely so that We can respect your request in future.
 
-The Services are not intended for or directed at persons under the age of eighteen (18) (or the lawful age in their respective jurisdiction). Any person who provides their information to Us through any part of the Services represents to Us that they are eighteen (18) years of age (or the lawful age in their respective jurisdiction) or older. It is Our policy to uncover attempts by minors to access Our Services which may involve Us having to access and verify Your Personal Information. If We become aware that a minor has attempted to or has submitted personal information via the Services, We will not accept this information and will take steps to remove such information from Our records.
+Where We process your personal information for compliance with our legal obligations, We will do so in accordance with all retention periods specified by applicable law.
 
-**13.INTERNATIONAL TRANSFERS**
+## 9\. CHANGES TO OUR PRIVACY NOTICE
 
-Personal Information collected on the Services may be stored and processed in any country in which We or Our affiliates, suppliers, ESPs or agents maintain facilities. By using the Services, You expressly consent to any transfer of information outside of Your country (including to third countries that may not have been assessed as having adequate privacy laws). Nevertheless, We take steps to ensure that Our agents, affiliates and suppliers comply with Our standards of privacy regardless of their location.
+We may update this notice (and any supplemental privacy notice), from time to time. We will notify you of the changes where required by law to do so. We recommend that you revisit this Privacy Notice regularly.
 
-**14.THIRD-PARTY PRACTICES**
+## 10\. WHO TO CONTACT
 
-We cannot ensure the protection of any information or images that You provide to a third-party online site that links to or from the Services or any information collected by any third party administering Our affiliate program (if applicable) or any other program, since these third-party online sites are owned and operated independently of Us. Any information collected by these third parties is not governed by this Privacy Policy but by the privacy policy, if any, of such third party. If You have questions about a third party's information practices, please read its privacy policy. We assume no responsibility or liability whatsoever for the practices, actions or policies of such third parties, and We are not responsible for the content or privacy practices of such online sites.
+ElectraWorks Limited is registered with the Gibraltar Regulatory Authority (GRA) and our registration number is DP 012717 and you can access our data protection register entry <http://www.gra.gi/data-protection/rights-register-search/company/428>. 
 
-**15.LEGAL DISCLAIMER**
+If you have any questions, or wish to exercise any of your rights, please contact Us at [privacy@partycasino.com](mailto:privacy@partycasino.com).
 
-The Services operate 'AS-IS' and 'AS-AVAILABLE,' without liability of any kind. We are not responsible for events beyond Our direct control. Because of the complex and constantly changing nature of Our technology and business, We cannot guarantee nor do We represent that there will be error-free performance regarding the privacy of Your Personal Information, and We will not be liable for any indirect, incidental, consequential or punitive damages relating to the use or release of Personal Information.
+If your country has a data protection authority, you have the right to contact it with any questions or concerns. If we cannot resolve your questions or concerns, you also have the right to seek judicial remedy before a national court.
 
-**16.MERGERS AND OTHER EVENTS REQUIRING TRANSFER**
-
-If We should ever file for bankruptcy, or become insolvent, or be acquired by a third party, merge with a third party, sell all or part of Our assets, or transfer substantially all or part of Our relevant assets to a third party, We are entitled to share the Personal Information and all other information You have provided through the Services to potential and subsequent business and merger partners. By agreeing to the standard Terms and Conditions of Use, you hereby give your consent to such transfer of this information.
-
-**17.CONSENT TO PRIVACY POLICY**
-
-By clicking 'Submit' or 'I agree' during the registration process or by Your continued use of the Services following the posting of this Privacy Policy (as applicable), You agree to this Privacy Policy. This is Our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with Our [Terms and Conditions of Use](https://www.partycasino.com/en/p/legal/terms-and-conditions) and any additional applicable terms posted on Our Platforms. We may periodically make changes to this Privacy Policy and will notify You of these changes by posting the modified terms on Our Platforms. We recommend that You revisit this Privacy Policy regularly.
-
-ElectraWorks Limited is registered on the Gibraltar Regulatory Authority Data Protection Register.
-
-Modified/Created 06 June 2016
+Modified/Created 25.05.2018
 
 ElectraWorks Limited, the provider of this website, is licensed by the Government of Gibraltar and regulated by the Gibraltar Gambling Commissioner under the Gambling Act 2005. ElectraWorks Limited has been granted a fixed-odds licence (RGL No. 051) and casino licence (RGL N0. 50) for the operation of remote gambling.
 
