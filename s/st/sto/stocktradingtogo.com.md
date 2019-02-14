@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocktradingtogo.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225200447id_/https%3A//www.stocktrader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocktradingtogo.com privacy policy that was archived on 2019-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190215005955id_/https%3A//www.stocktrader.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - StockTrader.com
 
