@@ -1,179 +1,266 @@
-<!--The following is the downloaded HTML source of the opencare.com privacy policy that was archived on 2018-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180920130359id_/https%3A//www.opencare.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the opencare.com privacy policy that was archived on 2019-02-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190214160542id_/https%3A//www.opencare.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
   <meta property="fb:page_id" content="123690647667832">
-  
-  
-  
+  <meta name="google-site-verification" content="EBl1pio9AR4Y1cCxESuN2fEZBMd5j6FB6BjVdB32ess">
     <title>Privacy Policy - Opencare</title>
-  
-  
     <meta name="description" content="Find the right dentist for you and get the care you deserve. See patient reviews, detailed profiles and book your appointment online.">
-  
-  
 
   <link href="/images/favicon.png?v=2" type="image/x-icon" rel="shortcut icon">
-  
-  <link rel="stylesheet" href="/dist/css/app.v2.min.b5a8f2b2.css">
+  <link rel="stylesheet" href="/dist/css/app.v2.min.ca60df09.css">
 </head>
 
 <body class="bg-white">
   <div class="page-wrap">
-  <nav class="navbar navbar-default navbar-main" role="navigation" data-ng-controller="HeaderCtrl">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-ng-click="toggleMenu()">
-        <span data-ng-show="!menuExpanded">
-          <i class="fa fa-bars mr-5 text-muted" aria-hidden="true"></i> Menu
-        </span>
-        <span data-ng-show="menuExpanded" data-ng-cloak="">
-          <i class="fa fa-times text-muted" aria-hidden="true"></i> Close
-        </span>
-      </button>
-
-      <div class="tooltip left tooltip-static tooltip-coral weight-normal visible-xs-inline-block pull-right mt-15 animated flipInX" data-ng-if="canRefer" data-ng-class="{'hidden-in-place': menuExpanded}" data-ng-cloak="">
-        <div class="tooltip-arrow"></div>
-        <div class="tooltip-inner">Refer a friend. Get $50.</div>
-      </div>
-
-      <a class="navbar-brand" href="/">
-        <img src="/images/brand/opencare-logo-cross-and-text-purple.svg" alt="Opencare" class="logo" data-ng-class="{'hidden-xs': canRefer}">
-        <img src="/images/brand/opencare-logo-cross-purple.svg" alt="Opencare" class="logo visible-xs" data-ng-if="canRefer" data-ng-cloak="">
-      </a>
-    </div>
-
-    <div class="collapse navbar-collapse" data-ng-class="!menuExpanded ? 'collapse' : ''">
-      <ul class="nav navbar-nav ml-40 ml-sm-0 ml-xs-offset-15" data-ng-cloak="" data-ng-show="ready">
-        <li data-ng-hide="isLoggedIn">
-          <a href="/for-dentists">For Dentists</a>
-        </li>
-        <li data-ng-hide="isLoggedIn">
-          <a href="/about">About Us</a>
-        </li>
-        <li data-ng-hide="isLoggedIn">
-          <a href="/careers">Careers <small class="text-coral ml-5">We're hiring!</small></a>
-        </li>
-        <li class="visible-xs" data-ng-if="isLoggedIn">
-          <a data-ng-href="{{patientAppUrl}}/#/appointments/">Appointments</a>
-        </li>
-        <li class="visible-xs" data-ng-if="isLoggedIn">
-          <a data-ng-href="{{patientAppUrl}}/#/account/">Account</a>
-        </li>
-        <hr class="mt-5 mb-5 visible-xs" data-ng-if="isLoggedIn &amp;&amp; canRefer &amp;&amp; canClaim">
-        <li class="visible-xs" data-ng-if="isLoggedIn &amp;&amp; canRefer">
-          <a data-ng-href="{{patientAppUrl}}/#/referrals/?source={{linkSource}}">
-            <span class="ib-mid">Referrals</span>
-            <div class="tooltip right tooltip-static tooltip-coral weight-normal d-ib">
-              <div class="tooltip-arrow"></div>
-              <div class="tooltip-inner">Get $50</div>
-            </div>
-          </a>
-        </li>
-        <li class="visible-xs" data-ng-if="isLoggedIn &amp;&amp; canClaim">
-          <a data-ng-href="{{patientAppUrl}}/#/claim-offer/?source={{linkSource}}">Claim your reward</a>
-        </li>
-        <hr class="mt-5 mb-5 visible-xs" data-ng-if="isLoggedIn">
-        <li class="visible-xs">
-          <a href="/support">Support</a>
-        </li>
-        <li class="visible-xs mt-10 pl-10 pr-20 mb-10">
-          <button type="button" class="btn btn-default btn-block" data-ng-click="login()" data-ng-hide="isLoggedIn">Log In</button>
-          <button type="button" class="btn btn-default btn-block" data-ng-click="logout()" data-ng-show="isLoggedIn">Log Out</button>
-        </li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right hidden-xs" data-ng-cloak="" data-ng-show="ready">
-        <li data-ng-show="isLoggedIn &amp;&amp; canRefer">
-          <a data-ng-href="{{patientAppUrl}}/#/referrals/?source={{linkSource}}">
-            <span class="ib-mid">Referrals</span>
-            <div class="tooltip right tooltip-static tooltip-coral weight-normal d-ib">
-              <div class="tooltip-arrow"></div>
-              <div class="tooltip-inner">Get $50</div>
-            </div>
-          </a>
-        </li>
-        <li class="mr-20">
-          <a href="/support">Support</a>
-        </li>
-        <li data-ng-hide="isLoggedIn">
-          <button type="button" class="btn btn-purple btn-outline navbar-btn" data-ng-click="login()">Log In</button>
-        </li>
-        <li class="dropdown" data-ng-show="isLoggedIn">
-          <a href="#" class="dropdown-toggle row-table" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-            <div class="col">
-              <img src="/images/default-photos/user.svg" class="navbar-main-user-photo ib-mid">
-            </div>
-            <div class="col navbar-main-user-name sensitive-data">Hi {{ user.firstName || 'there' }}!</div>
-            <div class="col">
-              <i class="ml-10 fa fa-angle-down text-large"></i>
-            </div>
-          </a>
-          <ul class="dropdown-menu">
-            <li><a data-ng-href="{{patientAppUrl}}/#/appointments/">Appointments</a></li>
-            <li><a data-ng-href="{{patientAppUrl}}/#/account/">Account</a></li>
-            <li data-ng-show="canRefer &amp;&amp; canClaim" role="separator" class="divider"></li>
-            <li data-ng-show="canRefer"><a data-ng-href="{{patientAppUrl}}/#/referrals/?source={{linkSource}}">Referrals</a></li>
-            <li data-ng-show="canClaim"><a data-ng-href="{{patientAppUrl}}/#/claim-offer/?source={{linkSource}}">Claim your reward</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#" data-ng-click="logout()">Log Out</a></li>
-          </ul>
-        </li>
-      </ul>
-    </div>
-  </div>
-
-  <script src="https://tags.srv.stackadapt.com/events.js"></script><script src="https://snippet.growsumo.com/growsumo.min.js" type="text/javascript" async=""></script><script type="text/ng-template" id="modal-login-prompt.html">
-  <div class="alert alert-warning text-center animated pulse" data-ng-show="loginError">An error occurred logging in, please check your email address and password.</div>
-  <form id="login-form" role="form" name="loginForm" data-ng-submit="loginForm.$valid && submitLogin()" novalidate>
-    <div class="form-group" data-ng-class="{'has-error': loginFormSubmitted && loginForm.email.$invalid && !loginForm.email.$pristine}">
-      <label for="email">Email address</label>
-      <input type="email" class="form-control" id="email" name="email" placeholder="Enter email" data-ng-model="loginData.email" data-required />
-      <p data-ng-show="loginFormSubmitted && loginForm.email.$invalid && !loginForm.email.$pristine" class="help-block">Your email address is invalid.</p>
-    </div>
-    <div class="form-group password-line" data-ng-class="{'has-error': loginFormSubmitted && loginForm.password.$invalid && !loginForm.password.$pristine}">
-      <label for="password">Password</label>
-      <input type="password" class="form-control" id="password" name="password" placeholder="Password" data-ng-model="loginData.password" data-required />
-      <p data-ng-show="loginFormSubmitted && loginForm.password.$invalid && !loginForm.password.$pristine" class="help-block">Your password is required.</p>
-    </div>
-    <div class="mt-20 clearfix">
-      <div class="pull-left mt-5">
-        <a href="https://patient.opencare.com/#/forgot-password/">Forgot password?</a>
-      </div>
-      <div class="pull-right">
-        <button type="submit" class="btn btn-primary" data-ng-click="loginFormSubmitted=true" data-ng-disabled="loginForm.$error.required">
-          Log in <i class="fa fa-chevron-right"></i>
+  <nav class="navbar navbar-default navbar-main " role="navigation" data-ng-controller="HeaderCtrl" data-ng-class="{'is-expanded': menuExpanded}">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-ng-click="toggleMenu()">
+          <span data-ng-show="!menuExpanded">
+            <i class="fa fa-bars mr-5 navbar-toggle-icon" aria-hidden="true"></i> Menu
+          </span>
+          <span data-ng-show="menuExpanded" data-ng-cloak="">
+            <i class="fa fa-times navbar-toggle-icon" aria-hidden="true"></i> Close
+          </span>
         </button>
+  
+        <div class="tooltip left tooltip-static tooltip-coral weight-normal visible-xs-inline-block pull-right mt-15 animated flipInX" data-ng-if="canRefer" data-ng-class="{'hidden-in-place': menuExpanded}" data-ng-cloak="">
+          <div class="tooltip-arrow"></div>
+          <div class="tooltip-inner">Refer a friend. Get $50.</div>
+        </div>
+  
+        <a class="navbar-brand" href="/">
+            <img src="/images/brand/opencare-logo-cross-and-text-purple.svg" alt="Opencare" class="logo" data-ng-class="{'hidden-xs': canRefer}">
+            <img src="/images/brand/opencare-logo-cross-purple.svg" alt="Opencare" class="logo visible-xs" data-ng-if="canRefer" data-ng-cloak="">
+        </a>
+      </div>
+  
+      <div class="collapse navbar-collapse" data-ng-class="!menuExpanded ? 'collapse' : ''">
+        <ul class="nav navbar-nav ml-40 ml-sm-0 ml-xs-offset-15" data-ng-cloak="" data-ng-show="ready">
+          <li data-ng-hide="isLoggedIn">
+            <a href="/for-dentists">For Dentists</a>
+          </li>
+          <li data-ng-hide="isLoggedIn">
+            <a href="/about">About Us</a>
+          </li>
+          <li data-ng-hide="isLoggedIn">
+            <a href="/careers">Careers <small class="text-coral ml-5">We're hiring!</small></a>
+          </li>
+          <li class="visible-xs" data-ng-if="isLoggedIn">
+            <a data-ng-href="{{patientAppUrl}}/#/appointments/">Appointments</a>
+          </li>
+          <li class="visible-xs" data-ng-if="isLoggedIn">
+            <a data-ng-href="{{patientAppUrl}}/#/account/">Account</a>
+          </li>
+          <hr class="mt-5 mb-5 visible-xs" data-ng-if="isLoggedIn &amp;&amp; canRefer &amp;&amp; canClaim">
+          <li class="visible-xs" data-ng-if="isLoggedIn &amp;&amp; canRefer">
+            <a data-ng-href="{{patientAppUrl}}/#/referrals/?source={{linkSource}}">
+              <span class="ib-mid">Referrals</span>
+              <div class="tooltip right tooltip-static tooltip-coral weight-normal d-ib">
+                <div class="tooltip-arrow"></div>
+                <div class="tooltip-inner">Get $50</div>
+              </div>
+            </a>
+          </li>
+          <li class="visible-xs" data-ng-if="isLoggedIn &amp;&amp; canClaim">
+            <a data-ng-href="{{patientAppUrl}}/#/claim-offer/?source={{linkSource}}">Claim your reward</a>
+          </li>
+          <hr class="mt-5 mb-5 visible-xs" data-ng-if="isLoggedIn">
+          <li class="visible-xs">
+            <a href="/support">Support</a>
+          </li>
+          <li class="visible-xs mt-10 pl-10 pr-20 mb-10">
+            <button type="button" class="btn btn-purple btn-outline btn-block" data-ng-click="login()" data-ng-hide="isLoggedIn">Log In</button>
+            <button type="button" class="btn btn-default btn-block" data-ng-click="logout()" data-ng-show="isLoggedIn">Log Out</button>
+          </li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right hidden-xs" data-ng-cloak="" data-ng-show="ready">
+          <li data-ng-show="isLoggedIn &amp;&amp; canRefer">
+            <a data-ng-href="{{patientAppUrl}}/#/referrals/?source={{linkSource}}">
+              <span class="ib-mid">Referrals</span>
+              <div class="tooltip right tooltip-static tooltip-coral weight-normal d-ib">
+                <div class="tooltip-arrow"></div>
+                <div class="tooltip-inner">Get $50</div>
+              </div>
+            </a>
+          </li>
+          <li class="mr-20">
+            <a href="/support">Support</a>
+          </li>
+          <li data-ng-hide="isLoggedIn">
+            <button type="button" class="btn btn-purple btn-outline navbar-btn" data-ng-click="login()">Log In</button>
+          </li>
+          <li class="dropdown" data-ng-show="isLoggedIn">
+            <a href="#" class="dropdown-toggle row-table" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+              <div class="col">
+                <img src="/images/default-photos/user.svg" class="navbar-main-user-photo ib-mid">
+              </div>
+              <div class="col navbar-main-user-name sensitive-data">Hi {{ user.firstName || 'there' }}!</div>
+              <div class="col">
+                <i class="ml-10 fa fa-angle-down text-large"></i>
+              </div>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a data-ng-href="{{patientAppUrl}}/#/appointments/">Appointments</a></li>
+              <li><a data-ng-href="{{patientAppUrl}}/#/account/">Account</a></li>
+              <li data-ng-show="canRefer &amp;&amp; canClaim" role="separator" class="divider"></li>
+              <li data-ng-show="canRefer"><a data-ng-href="{{patientAppUrl}}/#/referrals/?source={{linkSource}}">Referrals</a></li>
+              <li data-ng-show="canClaim"><a data-ng-href="{{patientAppUrl}}/#/claim-offer/?source={{linkSource}}">Claim your reward</a></li>
+              <li role="separator" class="divider"></li>
+              <li><a href="#" data-ng-click="logout()">Log Out</a></li>
+            </ul>
+          </li>
+        </ul>
       </div>
     </div>
-  </form>
-</script>
-</nav>
-
+  
+    <script src="https://www.redditstatic.com/ads/pixel.js" async=""></script><script src="https://tags.srv.stackadapt.com/events.js"></script><script src="https://snippet.growsumo.com/growsumo.min.js" type="text/javascript" async=""></script><script type="text/ng-template" id="modal-login-prompt.html">
+      <div class="alert alert-warning text-center animated pulse" data-ng-show="loginError">An error occurred logging in, please check your email address and password.</div>
+      <form id="login-form" role="form" name="loginForm" data-ng-submit="loginForm.$valid && submitLogin()" novalidate>
+        <div class="form-group" data-ng-class="{'has-error': loginFormSubmitted && loginForm.email.$invalid && !loginForm.email.$pristine}">
+          <label for="email">Email address</label>
+          <input type="email" class="form-control sensitive-data" id="email" name="email" placeholder="Enter email" data-ng-model="loginData.email" data-required />
+          <p data-ng-show="loginFormSubmitted && loginForm.email.$invalid && !loginForm.email.$pristine" class="help-block">Your email address is invalid.</p>
+        </div>
+        <div class="form-group password-line" data-ng-class="{'has-error': loginFormSubmitted && loginForm.password.$invalid && !loginForm.password.$pristine}">
+          <label for="password">Password</label>
+          <input type="password" class="form-control" id="password" name="password" placeholder="Password" data-ng-model="loginData.password" data-required />
+          <p data-ng-show="loginFormSubmitted && loginForm.password.$invalid && !loginForm.password.$pristine" class="help-block">Your password is required.</p>
+        </div>
+        <div class="mt-20 clearfix">
+          <div class="pull-left mt-5">
+            <a href="https://patient.opencare.com/#/forgot-password/">Forgot password?</a>
+          </div>
+          <div class="pull-right">
+            <button type="submit" class="btn btn-primary" data-ng-click="loginFormSubmitted=true" data-ng-disabled="loginForm.$error.required">
+              Log in <i class="fa fa-chevron-right"></i>
+            </button>
+          </div>
+        </div>
+      </form>
+    </script>
+  </nav>
 
   <div class="container terms-view">
     <div class="row mb-50">
       <div class="col-sm-8">
         <h2 class="mt-40 mb-20">Privacy Policy</h2>
-        <p>
-          www.opencare.com (HealthKiwi Inc.; further down We or Company) recognizes that Your privacy and the protection of Your Personal Information is important to you, and therefore, has adopted this we privacy policy. This privacy policy describes our privacy practices and how we treat the Personal Information that we collect from You when You use products and services of Company, including any Personal Information we collected from You when You created Your account. This privacy policy applies to all of the products, services, and websites offered by Company or our related, affiliated and/or subsidiary companies.
-        </p>
-        <p>
-          <b>1. Information Collection and Use</b> We collect personally identifiable information when you register for account, when you visit pages. If you decline to submit Personal Information, we may not be able to or may choose not to provide to You some or all of our Products and Services. When you register with Us, we ask for your name, email address, birth date, gender, and post code. Once you register with Us and sign in to our services, you are not anonymous to us. We also automatically receive and save information on our server logs from your browser including your IP address, Our cookie information and the page you requested. We use information for three general purposes: to customize the advertising and content you see, to fulfill your requests for certain products and services, and to contact you about specials and new products.
-        </p>
-        <p>
-          <b>2. Information Sharing and Disclosure</b> We will not sell or rent your personally identifiable information to anyone. We may send, sell, rent or represent personally identifiable information about you to other companies or people when: We have your consent to share the information; We have to provide the Products and Services to users, including the processing, formatting and displaying of the Personal information and customized content, develop new services or need to share your information to provide the product or service you have requested; If We become involved in a merger, acquisition, or any form of sale of all of its assets; We respond to subpoenas, court orders or legal process; We work with third party service providers who assist us with marketing and advertising services; We partner with other trusted brands and may share information with them if we believe they offer products and services that may be of interest to you.
-        </p>
-        <p>
-          <b>3. Cookies and Browser</b> We may set and access Our cookies on your computer. We allow other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Please note that ad networks’ use of cookies or web beacons, and that of any other third-party that has a link available on any Site, is subject to their own privacy policies and not this privacy policy. Advertisers or other companies do not have access to Ours cookies. If you prefer, you can turn off cookies in your web browser by changing its security settings. Please note, however, some features of Products and Services may not function properly if your cookies are disabled.
-        </p>
-        <p>
-          <b>4. Changes to this Privacy Policy</b> We may amend this policy from time to time. If we make any substantial changes in the way of use your personal information we will notify you by posting a prominent announcement on our pages. We cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of Personal Information that cannot be resolved between an individual and Us.
-        </p>
-        <p>
-          <b>5. Contacting us</b> If you have questions regarding our Privacy Policy, its implementation, failure to adhere to this Privacy Policy and/or our general practices, please contact us: info@opencare.com.
-        </p>
+        <p>Last updated Jan 18, 2019</p>
+
+        <h4>1. INTRODUCTION</h4>
+
+        <p>Opencare Ltd (“Opencare”, “we”, “us”) has created this privacy policy (“Privacy Policy”) in order to set out how we collect, use, and disclose personal information through our website located at www.Opencare.com (the “Website”). This Privacy Policy applies to all of the products, services, and websites offered by Opencare or our related, affiliated and/or subsidiary companies through the Website (collectively the “Services”).</p>
+        <p>The privacy of our customers is of great importance to us. By visiting our Website and/or using the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy and you hereby consent to the collection, use and disclosure of your Personal Information in accordance with this Privacy Policy.</p>
+
+        <h4>2. WHAT DOES THIS PRIVACY POLICY COVER?</h4>
+
+        <p>This Privacy Policy covers our collection, use and disclosure of information about identifiable individuals and information which can be used to identify an individual (“Personal Information”). Personal Information does not include any aggregated, anonymised information which we may create or derive from information (including Personal Information) you provide to us. Personal Information may be collected about our customers, prospective customers, visitors to the Website, and end users of the Services. You can choose not to provide us with certain Personal Information, but by doing so, you may not be able to take advantage of many of the features and functionality of our Services.</p>
+        <p>This Privacy Policy does not apply to the practices of companies that we do not own or control. The Services are intended for use by dental practices and end users wishing to find dentists and book dental appointments. Our dental practice customers are responsible for maintaining their own privacy policies governing the collection, use and disclosure of Personal Information.  You are responsible for ensuring that you have obtained the necessary authorizations and consents for any Personal Information you make available to us for use in accordance with this Privacy Policy.</p>
+
+        <h4>3. COLLECTION AND USE OF PERSONAL INFORMATION AND OTHER DATA</h4>
+
+        <h5>3.1 Authorization</h5>
+        <p>You understand and agree that Opencare and its authorized business partners, affiliates, subsidiaries or agents (collectively, “Opencare”, “us” or “we”) may collect, maintain, and process information provided by you, on and through the Services. You represent and warrant that you have permission to share any information you elect to provide Opencare, you consent to such information being shared with third parties in accordance with the terms of this Policy, including healthcare providers with whom you wish to schedule an appointment, and that such information is accurate, current, non-misleading, and consistent and relevant for the purpose for which you are providing information.</p>
+
+        <h5>3.2 Account Information</h5>
+        <p>In order to use the Services, users may be required to have a valid Opencare account to log in to the Website (an “Account”). When you register for the Services, Opencare collects your name, email address, birth date, gender, zip code, and if applicable, your business phone number and business address (“Account Information”). Opencare will also have access to information about your use of the Services such as dental appointments made, geo-location data and other information available that is combined with your Account Information. Once you create an account with us and sign in to our services, you are not anonymous to us.</p>
+        <p>Opencare collects Personal Information in the following general ways:</p>
+        <ul>
+          <li>Opencare collects Personal Information you choose to submit to us through the Services, such as your name and email address</li>
+          <li>When you access or use the Services, Opencare may automatically receive and record information on our server logs from your browser, including your IP address, cookies, and the pages you request. IP addresses are automatically reported by your browser each time you view a web page. Your IP address is stored by Opencare when you register with Opencare.</li>
+        </ul>
+        <p>Generally, Opencare uses the Account Information (including Personal Information) to deliver the Services to you, to improve the delivery of our Services and related products and services, to conduct our business, to develop analytics and aggregated data that allow us to improve our Services and related products and services, or to correspond with you. Specifically, Opencare also uses Personal Information to:</p>
+        <ul>
+          <li>Authenticate access to the Account and provide access to the Services;</li>
+          <li>Provide, operate, maintain and improve the Services</li>
+          <li>Send technical notices, updates, security alerts and support and administrative messages</li>
+          <li>Provide and deliver the Services and features you request, process and complete transactions, and send you related information, including confirmations and invoices;</li>
+          <li>Respond to comments, questions, and requests and provide customer service and support;</li>
+          <li>Communicate with you about services, features, surveys, newsletters, offers, promotions, contests and events, and provide other news or information about us and our select partners</li>
+          <li>Investigate and prevent fraudulent transactions, unauthorized access to the Services, and other illegal activities;</li>
+          <li>Personalize and improve the Services, and provide content, features, and/or advertisements that match your interests and preferences or otherwise customize your experience on the Services;</li>
+          <li>Monitor and analyze trends, usage, and activities in connection with the Services and for marketing or advertising purposes;</li>
+          <li>Link or combine with other information we receive from third parties to help understand your needs and provide you with better service;</li>
+          <li>Enable you to communicate, collaborate, and share files with users you designate; and</li>
+          <li>For other purposes about which we will notify you about and seek your consent.</li>
+        </ul>
+
+        <h5>3.3 Practice Users</h5>
+        <p>Opencare makes its Website and the Services available to dental practices for a variety of uses described in our Terms of Use. In order to provide the Services to our dental practice clients (“Practice Users”), Opencare collects certain Personal Information such as contact and registration information from the dental practice employee signing up on behalf of the dental practice. Opencare collects and uses Practice User information the same way we collect and use Personal Information of patients.</p>
+
+        <h5>3.4 Prospective Customers</h5>
+        <p>We collect names, email addresses and other business contact information about individuals who we consider to be prospective Customers and business partners (“Prospects”). Opencare uses third-party service providers in order to collect, store and process Personal Information about Prospects. We use these third-party service providers to identify Prospects and locate contact information to contact Prospects about our products and services. For more information about the third parties to whom we may disclose or share data, please see Section 6 (Disclosure of Personal Information with Third Parties).</p>
+
+        <h5>3.5 Prospective Customers</h5>
+        <p>As you visit or browse the Website, we collect information about the device and browser you use, your network connection, your IP address, and information about the cookies installed on your device. This information is logged to help diagnose technical problems for analytics and for quality control purposes. We also collect Personal Information submitted by any visitor to our Website through messaging features we make available on our Website and use such information for the purpose of responding to your requests.</p>
+
+        <h5>3.6 Cookies</h5>
+        <p>Opencare requires authentication and authorization to in order to process Account access. As such, we use cookies throughout the Services to authenticate users. By using our Services, you indicate your consent for Opencare and our affiliates to send cookies to your computer or mobile device in order to uniquely identify your device and improve the quality of our services; you may turn off cookies in your browser though, in doing so, some or all of our Service features may not work.</p>
+        <p>A cookie is a small amount of data, which may include a unique identifier. Cookies are sent to your browser from a website and stored on your device. We assign a different cookie to each device that accesses our Website.</p>
+        <p>We use cookies to recognize devices and provide a personalized experience on Our Website, or otherwise through the Services. In particular, Opencare uses session cookies containing encrypted information to allow the system to uniquely identify you while you are logged in. This information allows Opencare to process your online transactions and requests. Session cookies help us make sure you are who you say you are after you’ve logged in and are required in order to use the Services.</p>
+        <p>We also allow other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Please note that ad networks’ use of cookies or web beacons, and that of any other third-party that has a link available on any Site, is subject to their own privacy policies and not this privacy policy. Advertisers or other companies do not have access to our cookies.</p>
+        <p>If you prefer, you can turn off cookies in your web browser by changing its security settings. Please note, however, some features of Products and Services may not function properly if your cookies are disabled. You may be able to set your browser to notify you when you are sent a cookie. This gives you the chance to decide whether or not to accept it. If you disable cookies, you may not be able to take advantage of all the features of the Website and/or Services. We do not link any of the information we use in cookies to any personally identifiable information submitted by you when you are on the Website.</p>
+        <p>Opencare also combines data derived from our usage of cookies with Account Information of registered users for the purposes set out in Section 3.1 above</p>
+
+        <h4>3.7 Minors</h4>
+        <p>Opencare does not knowingly solicit or collect data from children nor knowingly market to anyone under the age of 18. If you are under the age of 13, you are explicitly not authorized to use this Services. If you become aware that your child has provided us with Personal Information without your consent, please contact us at <a href="mailto:info@opencare.com">info@opencare.com</a>. If we become aware that a child under 18 has provided us with Personal Information, we will take reasonable steps to remove such information from our systems and terminate the applicable account.</p>
+
+        <h4>4. ONLINE TRACKING</h4>
+        <p>At this time, this Service does not support Do-Not-Track signals.</p>
+
+        <h5>4.1 Log Files</h5>
+        <p>Like many internet and mobile services, we may automatically gather certain information about our Services traffic and store it in log files. This information includes mobile device identifiers, browser type, IP address, mobile or internet service provider, referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the Services, to track users’ movements around the Services, and to gather demographic information about our user base.</p>
+        <p>We also store in our log files information identifying users who have accessed data that we store about patients, and any changes they make to such data. We use this information to comply with legal obligations relating to such data and to keep a record of such changes. We may also use it to improve our Services.</p>
+        <p>We may link this automatically collected data to Personal Information. Device identifiers may be tied to Personal Information to troubleshoot access issues.</p>
+        <p>We may use third-party tracking services that use log files, cookies, and possibly other techniques to track non-Personal Information about visitors to the Services in the aggregate. These services capture usage and volume statistics as well as geographical location data to compile usage reports and maps for optimization and troubleshooting purposes. In particular, we use [Google Analytics] to help collect and analyze certain information for the purposes discussed in this Privacy Policy. You may opt out of data collection by Google Analytics through <a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.</p>
+
+        <h4>5. STORAGE LOCATION AND TRANSFER OF PERSONAL INFORMATION</h4>
+        <p>OPENCARE processes and stores data collected by OPENCARE, including Personal Information, on cloud servers located in the United States. OPENCARE also transfers data to the third-party service providers described in Sections 3.3 and 5.2 who may not be based in the region you are located in but we take steps reasonably necessary to ensure that the data is subject to appropriate safeguards, such as where applicable, relying on contractual commitments from our service providers.</p>
+        <p>By submitting Personal Information or otherwise using the Services, you agree to this transfer, storing or processing of your Personal Information in accordance with these terms. You acknowledge and agree that your Personal Information may be accessible to law enforcement and governmental agencies in the United States and other jurisdictions in which your Personal Information is stored (if applicable) under lawful access regimes or court order.</p>
+
+        <h4>6. DISCLOSURE OF PERSONAL INFORMATION WITH THIRD PARTIES</h4>
+
+        <h5>6.1 Your Consent to Share</h5>
+        <p>By providing any Personal Information to us, you fully understand and unambiguously consent to the transfer of such Personal Information and the collection and processing of such Personal Information to third party healthcare providers, credit card processing vendors, or other third parties as described in the Terms of Service.  We may share aggregated data to conduct our business, improve the delivery of our Services, to develop analytics, and to enable us and our partners to improve and promote our products and services.</p>
+
+        <h5>6.2 Processing of dental practice data</h5>
+        <p>As a service provider to our dental customers we collect and analyze data related to our dental practice customers on their behalf. In this role, Opencare is a data processor, processing data upon instruction from such clients. This data is shared only with the relevant client.</p>
+        <p>Some of the Personal Information received by Opencare in connection with the Services may be provided by health care providers that are subject to health information data protection laws and regulations, such as rules issued under the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and Health Information Technology for Economic and Clinical Health Act of 2009 (HITECH), that govern providers’ use and disclosure of certain individually identifiable health-related Personal Information (“Protected Health Information”). When we receive Protected Health Information, we may do so as a “Business Associate” of the health care provider under an agreement that, among other things, prohibits us from using or disclosing the Protected Health Information in ways that are not permissible by the health care provider itself, and requires us to implement certain measures to safeguard the confidentiality, integrity, and availability of the Protected Health Information. When we act as a Business Associate, we may be subject to certain laws and regulations, including certain HIPAA rules, that govern our use and disclosure of Protected Health Information and that may be more restrictive than otherwise provided in this Privacy Policy.</p>
+
+        <h5>6.3 Service Providers and Business Partners</h5>
+        <p>We may from time to time employ third parties to perform tasks on our behalf and we may need to share Account Information and other Personal Information with them to provide certain services. Unless we tell you differently, such third parties do not have any right to use the Personal Information we share with them beyond what is necessary for them to provide the tasks and services on our behalf. The third parties we currently engage includes third party companies and individuals employed by us to facilitate our services, including the provision of maintenance services, hosting services, database management, Web analytics, payment processing, email and content marketing services, sales productivity services, and general improvement of the Services, and businesses who engage our Services (to the extent provided for above).</p>
+
+        <h5>6.4 Business Transfers</h5>
+        <p>If our business (or substantially all of our assets) are acquired by a third party, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information may be made available or otherwise transferred to the new controlling entity, where permitted under applicable law.</p>
+
+        <h5>6.5 With Your Consent</h5>
+        <p>If we need to use or disclose any Personal Information in a way not identified in this Privacy Policy, we will notify you and/or obtain consent as required under applicable privacy laws.</p>
+
+        <h5>6.6 As required by law</h5>
+        <p>We may disclose your Personal Information to third parties without your consent if we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other end users, or anyone else (including the rights or property of anyone else) that could be harmed by such activities. Further, we may disclose Personal Information when we believe in good faith that such disclosure is required by and in accordance with the law. We also reserve the right to access, read, preserve, and disclose any information as we reasonably believe is necessary to:</p>
+        <p>satisfy any applicable law, regulation, legal process or governmental request; enforce our contracts or user agreement, including investigation of potential violations hereof; and detect, prevent, or otherwise address fraud, security or technical issues. We may disclose Personal Information if we believe it is necessary to investigate potential violations of our Terms of Use, or to enforce those Terms of Use The above may include exchanging information with other companies and organizations for fraud protection and spam/malware prevention. Notwithstanding the general terms of this policy, the collection, use, and disclosure of Personal Information may be made outside of the terms herein to the extent provided for in any applicable privacy or other legislation in effect from time to time, or pursuant to court orders.</p>
+
+        <h4>7. RETENTION</h4>
+        <p>We will keep your Personal Information for as long as it remains necessary for the identified purpose or as required by law, which may extend beyond the termination of our relationship with you. We may retain certain data as necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. Unless otherwise set forth in the Terms of Use or a separate agreement with you governing the applicable Services, if you cease using such Service, we may retain or destroy, at our discretion, all Personal Information and non-personally identifiable information we collect through your use of such Service. All retained Personal Information will remain subject to the terms of this Privacy Policy.</p>
+
+        <h4>8. ACCESS, CORRECTION AND ACCURACY</h4>
+        <p>You have the right to access the Personal Information we hold about you in order to verify the Personal Information we have collected in respect to you and to have a general account of our uses of that information. Upon receipt of your written request, we will provide you with a copy of your Personal Information, although in certain limited circumstances, and as permitted under law, we may not be able to make all relevant information available to you, such as where that information also pertains to another user. In such circumstances we will provide reasons for the denial to you upon request. We will endeavor to deal with all requests for access and modifications in a timely manner.</p>
+        <p>We will make every reasonable effort to keep your Personal Information accurate and up to date, and we will provide you with mechanisms to update, correct, delete or add to your Personal Information as appropriate. As appropriate, this amended Personal Information will be transmitted to those parties to which we are permitted to disclose your information. Having accurate Personal Information about you enables us to give you the best possible service.</p>
+
+        <h4>9. OPT-OUT CHOICES</h4>
+        <p>To “opt-out” of (1) any consents previously given to us, (2) receiving communications from us, or (3) having Personal Information disclosed to third parties, send an e-mail to <a href="mailto:privacy@opencare.com">privacy@opencare.com</a>. Notwithstanding this right to request to cease receiving communications from us and to have us not share Personal Information with third parties, we retain the right to collect, maintain and process information provided by and collected about you on and through the Services, and disclose such information to comply with our reasonable business and legal obligations.</p>
+
+        <h4>10. TERMS OF USE</h4>
+        <p>Please also visit our applicable <a href="/terms">Terms of Use</a>, which establish the use, disclaimers, and limitations of liability governing the use of our Services.</p>
+
+        <h4>11. CHANGES TO THIS PRIVACY POLICY</h4>
+        <p>We may amend this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post those changes on this page and update the Privacy Policy modification date at the top of this page. Use of Personal Information we collect is subject to the Privacy Policy in effect at the time such information is collected, used or disclosed. If we make material changes or changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or Website or sending you an email prior to the change becoming effective. You are bound by any changes to the Privacy Policy when you use the Website, Website or Services after such changes have been first posted.</p>
+
+        <h4>12. ADDITIONAL INFORMATION</h4>
+        <p>If you have questions regarding our Privacy Policy, its implementation, failure to adhere to this Privacy Policy and/or our general practices, please contact us: <a href="mailto:info@opencare.com">info@opencare.com</a>.</p>
       </div>
     </div>
   </div>
@@ -181,107 +268,107 @@
 
 <div class="sticky-footer">
   <footer id="footer">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-5 col-sm-6">
-        <div class="row">
-          <div class="col-sm-4 col-xs-6">
-            <h5 class="title">Opencare</h5>
-            <ul class="list-links">
-              <li><a href="/about">About Us</a></li>
-              <li><a href="/careers">Careers</a></li>
-              <li><a href="https://patient.opencare.com/#/login/">Log in</a></li>
-            </ul>
-          </div>
-          <div class="col-sm-4 col-xs-6">
-            <h5 class="title"><span class="hidden-sm">For </span>Dentists</h5>
-            <ul class="list-links">
-              <li><a href="/for-providers">Learn More</a></li>
-              <li><a href="https://app.opencare.com/#/login/">Practice Login</a></li>
-            </ul>
-          </div>
-          <div class="clearfix visible-xs"></div>
-          <div class="col-sm-4 col-xs-6 mt-xs-40">
-            <h5 class="title">Need help?</h5>
-            <a href="/support">Support</a>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-5 col-sm-6">
+          <div class="row">
+            <div class="col-sm-4 col-xs-6">
+              <h5 class="title">Opencare</h5>
+              <ul class="list-links">
+                <li><a href="/about">About Us</a></li>
+                <li><a href="/careers">Careers</a></li>
+                <li><a href="https://patient.opencare.com/#/login/">Log in</a></li>
+              </ul>
+            </div>
+            <div class="col-sm-4 col-xs-6">
+              <h5 class="title"><span class="hidden-sm">For </span>Dentists</h5>
+              <ul class="list-links">
+                <li><a href="/for-providers">Learn More</a></li>
+                <li><a href="https://app.opencare.com/#/login/">Practice Login</a></li>
+              </ul>
+            </div>
+            <div class="clearfix visible-xs"></div>
+            <div class="col-sm-4 col-xs-6 mt-xs-40">
+              <h5 class="title">Need help?</h5>
+              <a href="/support">Support</a>
+            </div>
           </div>
         </div>
+        <div class="col-xs-12 visible-xs mt-40">
+          <a class="social-link" href="https://www.facebook.com/OpenCare1" target="_blank" title="Facebook">
+            <i class="fa fa-facebook"></i>
+          </a>
+          <a class="social-link" href="http://www.linkedin.com/company/opencare-com" target="_blank" title="LinkedIn">
+            <i class="fa fa-linkedin"></i>
+          </a>
+          <a class="social-link" href="https://twitter.com/opencare" target="_blank" title="Twitter">
+            <i class="fa fa-twitter"></i>
+          </a>
+          <a class="social-link" href="https://angel.co/opencare" target="_blank" title="AngelList">
+            <i class="fa fa-angellist"></i>
+          </a>
+          <a class="social-link" href="https://www.glassdoor.ca/Reviews/Opencare-Reviews-E700045.htm" target="_blank" title="Glassdoor">
+            <div data-ng-include="'/images/icons/glassdoor.svg'" class="glassdoor-icon"></div>
+          </a>
+        </div>
+        <div class="clearfix visible-xs"></div>
+        <div class="col-lg-offset-1 col-sm-6 mt-xs-40">
+          <h5 class="title">Popular Searches</h5>
+          <ul class="list-links list-links-popular-searches">
+            <li><a href="/dentists/seattle-wa/">Dentists in Seattle</a></li>
+            <li><a href="/dentists/san-francisco-ca/">Dentists in San Francisco</a></li>
+            <li><a href="/dentists/san-jose-ca/">Dentists in San Jose</a></li>
+            <li><a href="/dentists/san-diego-ca/">Dentists in San Diego</a></li>
+            <li><a href="/dentists/chicago-il/">Dentists in Chicago</a></li>
+            <li><a href="/dentists/washington-dc/">Dentists in Washington</a></li>
+            <li><a href="/dentists/denver-co/">Dentists in Denver</a></li>
+            <li><a href="/dentists/austin-tx/">Dentists in Austin</a></li>
+            <li><a href="/dentists/toronto-on">Dentists in Toronto</a></li>
+            <li><a href="/dentists/vancouver-bc/">Dentists in Vancouver</a></li>
+            <li><a href="/dentists/calgary-ab/">Dentists in Calgary</a></li>
+            <li><a href="/dentists/ottawa-on/">Dentists in Ottawa</a></li>
+          </ul>
+        </div>
       </div>
-      <div class="col-xs-12 visible-xs mt-40">
-        <a class="social-link" href="https://www.facebook.com/OpenCare1" target="_blank" title="Facebook">
-          <i class="fa fa-facebook"></i>
-        </a>
-        <a class="social-link" href="http://www.linkedin.com/company/opencare-com" target="_blank" title="LinkedIn">
-          <i class="fa fa-linkedin"></i>
-        </a>
-        <a class="social-link" href="https://twitter.com/opencare" target="_blank" title="Twitter">
-          <i class="fa fa-twitter"></i>
-        </a>
-        <a class="social-link" href="https://angel.co/opencare" target="_blank" title="AngelList">
-          <i class="fa fa-angellist"></i>
-        </a>
-        <a class="social-link" href="https://www.glassdoor.ca/Reviews/Opencare-Reviews-E700045.htm" target="_blank" title="Glassdoor">
-          <div data-ng-include="'/images/icons/glassdoor.svg'" class="glassdoor-icon"></div>
-        </a>
-      </div>
-      <div class="clearfix visible-xs"></div>
-      <div class="col-lg-offset-1 col-sm-6 mt-xs-40">
-        <h5 class="title">Popular Searches</h5>
-        <ul class="list-links list-links-popular-searches">
-          <li><a href="/dentists/seattle-wa/">Dentists in Seattle</a></li>
-          <li><a href="/dentists/san-francisco-ca/">Dentists in San Francisco</a></li>
-          <li><a href="/dentists/san-jose-ca/">Dentists in San Jose</a></li>
-          <li><a href="/dentists/san-diego-ca/">Dentists in San Diego</a></li>
-          <li><a href="/dentists/chicago-il/">Dentists in Chicago</a></li>
-          <li><a href="/dentists/washington-dc/">Dentists in Washington</a></li>
-          <li><a href="/dentists/denver-co/">Dentists in Denver</a></li>
-          <li><a href="/dentists/austin-tx/">Dentists in Austin</a></li>
-          <li><a href="/dentists/toronto-on">Dentists in Toronto</a></li>
-          <li><a href="/dentists/vancouver-bc/">Dentists in Vancouver</a></li>
-          <li><a href="/dentists/calgary-ab/">Dentists in Calgary</a></li>
-          <li><a href="/dentists/ottawa-on/">Dentists in Ottawa</a></li>
-        </ul>
+      <div class="row footer-bottom">
+        <div class="col-lg-5 col-md-4 hidden-sm hidden-xs">
+          Welcome to a new dental care experience.
+        </div>
+        <div class="col-lg-offset-1 col-lg-6 col-md-8">
+          <hr class="visible-xs">
+          <ul class="list-links-inline">
+            <li>© Opencare 2019</li>
+            <li>
+              <a href="/terms">Terms<span class="hidden-xs"> of Use</span></a>
+            </li>
+            <li>
+              <a href="/privacy">Privacy<span class="hidden-xs"> Policy</span></a>
+            </li>
+            <li class="hidden-xs">
+              <a class="social-link" href="https://www.facebook.com/OpenCare1" target="_blank" title="Facebook">
+                <i class="fa fa-facebook"></i>
+              </a>
+              <a class="social-link" href="http://www.linkedin.com/company/opencare-com" target="_blank" title="LinkedIn">
+                <i class="fa fa-linkedin"></i>
+              </a>
+              <a class="social-link" href="https://twitter.com/opencare" target="_blank" title="Twitter">
+                <i class="fa fa-twitter"></i>
+              </a>
+              <a class="social-link" href="https://angel.co/opencare" target="_blank" title="AngelList">
+                <i class="fa fa-angellist"></i>
+              </a>
+              <a class="social-link" href="https://www.glassdoor.ca/Reviews/Opencare-Reviews-E700045.htm" target="_blank" title="Glassdoor">
+                <div data-ng-include="'/images/icons/glassdoor.svg'" class="glassdoor-icon"></div>
+              </a>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
-    <div class="row footer-bottom">
-      <div class="col-lg-5 col-md-4 hidden-sm hidden-xs">
-        Welcome to a new dental care experience.
-      </div>
-      <div class="col-lg-offset-1 col-lg-6 col-md-8">
-        <hr class="visible-xs">
-        <ul class="list-links-inline">
-          <li>© Opencare 2018</li>
-          <li>
-            <a href="/terms">Terms<span class="hidden-xs"> of Use</span></a>
-          </li>
-          <li>
-            <a href="/privacy">Privacy<span class="hidden-xs"> Policy</span></a>
-          </li>
-          <li class="hidden-xs">
-            <a class="social-link" href="https://www.facebook.com/OpenCare1" target="_blank" title="Facebook">
-              <i class="fa fa-facebook"></i>
-            </a>
-            <a class="social-link" href="http://www.linkedin.com/company/opencare-com" target="_blank" title="LinkedIn">
-              <i class="fa fa-linkedin"></i>
-            </a>
-            <a class="social-link" href="https://twitter.com/opencare" target="_blank" title="Twitter">
-              <i class="fa fa-twitter"></i>
-            </a>
-            <a class="social-link" href="https://angel.co/opencare" target="_blank" title="AngelList">
-              <i class="fa fa-angellist"></i>
-            </a>
-            <a class="social-link" href="https://www.glassdoor.ca/Reviews/Opencare-Reviews-E700045.htm" target="_blank" title="Glassdoor">
-              <div data-ng-include="'/images/icons/glassdoor.svg'" class="glassdoor-icon"></div>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</footer>
-</div>
+  </footer></div>
 
-  <script src="/dist/js/xdomain.min.b5fcb3ba.js"></script>
+
+  <script src="/dist/js/xdomain.min.f8934ea9.js"></script>
   <script>
     xdomain.slaves({
       'https://api.opencare.com': '/proxy.html'
@@ -290,11 +377,11 @@
   </script>
 
   <!--[if lt IE 9]>
-  <script src="/dist/js/ie.min.a2ade79a.js"></script>
+  <script src="/dist/js/ie.min.f5063c3f.js"></script>
   <![endif]-->
 
   <!-- Google Maps -->
-  <script src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;libraries=places&amp;language=en&amp;key=AIzaSyA6RdTdysqhEwXNGpBe_ugZuuw0arLYuLU"></script>
+  <script src="//maps.googleapis.com/maps/api/js?v=3.33&amp;libraries=places&amp;language=en&amp;key=AIzaSyA6RdTdysqhEwXNGpBe_ugZuuw0arLYuLU"></script>
   <!-- GrowSumo -->
   <script type="text/javascript">(function(){var gs=document.createElement('script');gs.src='https://snippet.growsumo.com/growsumo.min.js';gs.type='text/javascript';gs.async ='true';gs.onload=gs.onreadystatechange=function(){var rs=this.readyState;if(rs&&rs!='complete'&&rs!='loaded')return;try{growsumo._initialize('pk_mVBxKWsxwEBxPa4zwBQj0jG6z8oNlV24');}catch(e){}};var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(gs,s);})();
   </script>
@@ -302,36 +389,6 @@
   <script>!function(s,a,e,v,n,t,z){if(s.saq)return;n=s.saq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!s._saq)s._saq=n;n.push=n;n.loaded=!0;n.version='1.0';n.queue=[];t=a.createElement(e);t.async=0;t.src=v;z=a.getElementsByTagName(e)[0];z.parentNode.insertBefore(t,z)}(window,document,'script','https://tags.srv.stackadapt.com/events.js');
   </script>
 
-  <!-- Start of opencare Zendesk Widget script -->
-  <iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(e){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var e=this.createElement("script");n&&(this.domain=n),e.id="js-iframe-async",e.src="https://assets.zendesk.com/embeddable_framework/main.js",this.t=+new Date,this.zendeskHost="opencare.zendesk.com",this.zEQueue=a,this.body.appendChild(e)},o.write('<body onload="document._l();">'),o.close()}();
-  /*]]>*/</script>
-  <!-- End of opencare Zendesk Widget script -->
-
-  <!-- Start of Async Drift Code -->
-  <script>
-    !function() {
-      var t;
-      if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
-      t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
-      t.factory = function(e) {
-        return function() {
-          var n;
-          return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
-        };
-      }, t.methods.forEach(function(e) {
-        t[e] = t.factory(e);
-      }), t.load = function(t) {
-        var e, n, o, i;
-        e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
-        o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
-        n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
-      });
-    }();
-    drift.SNIPPET_VERSION = '0.3.1';
-  </script>
-  <!-- End of Async Drift Code -->
-
-  
 
   <script>
     window.isUSVisitor = true;
@@ -348,13 +405,20 @@
     };
   </script>
 
-  <script src="/dist/js/ext.min.2a189aee.js"></script>
+  <!-- Reddit Conversion Pixel -->
+  <script>
+  !function(w,d){if(!w.rdt){var p=w.rdt=function(){p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);rdt('init','t2_30xi11k2');rdt('track', 'PageVisit');
+  </script>
+  <!-- DO NOT MODIFY -->
+  <!-- End Reddit Conversion Pixel -->
 
-  <script src="/dist/js/config.3bcfdb29.js"></script>
+  <script src="/dist/js/ext.min.5297256e.js"></script>
 
-  <script src="/dist/js/app.min.d2119a4d.js"></script>
+  <script src="/dist/js/config.1914e65a.js"></script>
+
+  <script src="/dist/js/app.min.92e5d96d.js"></script>
 
 
 
 
-<script>window.rollbarRevision = "783fec2280eeea1c3ce0a55a48fb711a1d412c61";</script></body></html>
+<script>window.rollbarRevision = "0697eb0c02077a2ed59fe06f59f651f5cfea887a";</script></body></html>
