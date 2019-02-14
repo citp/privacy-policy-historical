@@ -1,688 +1,1922 @@
-<!--The following is the downloaded HTML source of the wetseal.com privacy policy that was archived on 2018-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180530075424id_/http%3A//www.wetseal.com/wetseal_privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wetseal.com privacy policy that was archived on 2019-02-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190214060213id_/https%3A//www.wetseal.com/pages/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en"><head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KVPWV8N"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
-        <title>PRIVACY POLICY</title>
-        
-<link rel="shortcut icon" type="image/x-icon" href="/images/wetseal/favicon.ico">
-        
-<link rel="icon" type="image/vnd.microsoft.icon" href="/images/wetseal/favicon.ico">
+<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
+  <meta charset="UTF-8">
+  <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+  
+  	<title>Privacy Policy | Wet Seal</title>
+  
+  
+  	<meta name="description" content="Wet Seal carries the latest trends in women's clothing &amp; accessories. From dresses to blouses to plus size clothing, discover every style for any occasion.">
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="canonical" href="https://www.wetseal.com/pages/privacy-policy">
+  <link rel="shortcut icon" type="image/png" href="//cdn.shopify.com/s/files/1/0141/3267/4618/t/14/assets/favicon.png?964927497562014228">
+  
+  <script type="text/javascript" async="" src="https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1"></script><script async="" charset="utf-8" src="https://v2.zopim.com/?63YbSRPjrJCXlcA8KaMNHWZFSQsQSqrn" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KVPWV8N"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0141/3267/4618/t/14/assets/require.js?964927497562014228" type="text/javascript"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  
+  var getCookie = function(name) {
+    var value = "; " + document.cookie;
+    var parts = value.split("; " + name + "=");
+    if (parts.length == 2) return parts.pop().split(";").shift();
+  };var dataLayerCart = {cart_rules_applied_discount: "0.00",
+      coupon_applied: "",
+      coupon_applied_discount: 0,
+      grant_total: 0.00,
+      items: [],
+    };window.dataLayer.push({
+      cart: dataLayerCart,
+      currency: 'USD',
+      customerEmail: "",
+      customerGender: "",
+      customerId: "",
+      pagetype: "contentpage"
 
+    });</script>
+  
+  <script>
+    var getGAClientId = function(){
+        try {
+          var tracker = ga.getAll()[0];
+          return tracker.get('clientId');
+        } catch(e) {
+          return false;
+        }
+    };
 
+    $(function(){
+      $(document).on('addToCart', function(e, product, variant){
+          window.dataLayer = window.dataLayer || [];
+          window.dataLayer.push({
+              'ecommerce': {
+                'add': {
+                  'products': [{
+                    'brand': 'Wet Seal',
+                    'category': Simplistic.getGAProductCategory(product.collections),
+                    'id': product.id,
+                    'name': product.title,
+                    'price': Shopify.formatMoney(variant.price, Simplistic.formatMoneyWithoutCurrency),
+                    'variant': Simplistic.getColorByTags(product.tags),
+                    'quantity': 1,
+                    'dimension5': variant.title
+                  }]
+                },
+                'currencyCode': 'USD'
+              },
+              'event': 'addToCart'
+          });
+      });
+      
+      var elementInView = function(elem){
+        var elementTop = elem.offset().top + (elem.outerHeight()*0.6);
+        var elementBottom = elementTop + elem.outerHeight();
+        var viewportTop = $(window).scrollTop();
+        var viewportBottom = viewportTop + $(window).height();
+        return elementBottom > viewportTop && elementTop < viewportBottom;
+      };
+      
+      var getPromotionData = function(promotion){
+        var size = promotion.width() + ' x ' + promotion.height();
+        var position = $('[data-promotion-name="'+promotion.data('promotion-name')+'"]').index(promotion) + 1;
+        return {
+          'name': promotion.data('promotion-name'),
+          'id': promotion.data('promotion-id'),
+          'position': position,
+          'creative': size
+        };
+      }
 
-                                <meta property="og:site_name" content="Wet Seal">
-        <meta property="og:title" content="PRIVACY POLICY">
-        <meta property="og:url" content="http://www.wetseal.com/">
-        <meta property="og:type" content="website">
-        <meta property="og:image" content="//static1.squarespace.com/static/58c8ccda5016e18d7057eaa2/t/58d0aaf9e3df28f42b39aa7a/1490070268035/WSbigger.png?format=1000w">
-        <meta property="og:image:width" content="520">
-        <meta property="og:image:height" content="210">
-        <meta itemprop="name" content="Wet Seal">
-        <meta itemprop="url" content="http://www.wetseal.com/">
-        <meta itemprop="thumbnailUrl" content="//static1.squarespace.com/static/58c8ccda5016e18d7057eaa2/t/58d0aaf9e3df28f42b39aa7a/1490070268035/WSbigger.png?format=1000w">
-        
-<link rel="image_src" href="//static1.squarespace.com/static/58c8ccda5016e18d7057eaa2/t/58d0aaf9e3df28f42b39aa7a/1490070268035/WSbigger.png?format=1000w">
-        <meta itemprop="image" content="//static1.squarespace.com/static/58c8ccda5016e18d7057eaa2/t/58d0aaf9e3df28f42b39aa7a/1490070268035/WSbigger.png?format=1000w">
-        <meta name="twitter:title" content="PRIVACY POLICY">
-        <meta name="twitter:image" content="//static1.squarespace.com/static/58c8ccda5016e18d7057eaa2/t/58d0aaf9e3df28f42b39aa7a/1490070268035/WSbigger.png?format=1000w">
-        <meta name="twitter:url" content="http://www.wetseal.com/">
-        <meta name="twitter:card" content="summary">
-        <meta name="description" content="Look Stunning - Buy Women´s Clothes on Wet Seal ✓ Higher Quality ✓ The Latest Fashion ✓ Great Deals ✓ Easy Return Policy ✓ Free Shipping on orders over $75 ">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-<link rel="stylesheet" href="//s3.amazonaws.com/shop.wetseal/css/styles.css?v=9">
+      /****************** Internal Promotion Click ******************/
 
-<link rel="stylesheet" href="//s3.amazonaws.com/shop.wetseal/css/parts/sqs.css?v=22">
+      $('[data-promotion-name] a').click(function(){
+      	if(window['google_tag_manager']) {
+            var redirect = $(this).attr('href');
+            var promotionData = getPromotionData($(this).closest('[data-promotion-name]'));
+          	
+        	window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+              'ecommerce': {
+                'promoClick': {
+                  'promotions': [promotionData]
+                }
+              },
+              'event': 'promoClick',
+              'eventCallback': function(){
+                  window.location = redirect;
+              },
+              'eventTimeout': 2000
+            });
+          	return false;
+        }
+      });
+      
+      /****************** Internal Promotion Impression ******************/
 
-<link rel="stylesheet" href="//s3.amazonaws.com/shop.wetseal/css/header2.css?v=29">
+	  var trackPromotionView = function(){
+        var impressions = [];
 
-
-                    <!-- Google Analytics -->
-            <script>
-                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-                ga('create', 'UA-105313671-1', 'auto');
-                ga('require', 'displayfeatures');
-                ga('send', 'pageview');
-                ga('require', 'ec');
-                ga('set', '&cu', 'USD');
-            </script>
-            <!-- End Google Analytics -->
-            </head>
-    <body id="body" class="">
-        <div id="ua-cartdata" data-products="[]"></div>
-
-                <script type="text/javascript">
-            if (typeof window.store === 'undefined') {
-                window.store = [];
-                window.store['catalog'] = [];
+        $('[data-promotion-name]').each(function(){
+          if($(this).data('promotion-name') && $(this).data('promotion-id') && !$(this).data('promotion-slide')) {
+          	if(elementInView($(this)) && !$(this).data('analytics-sent')) {
+              $(this).data('analytics-sent', true);
+              impressions.push(getPromotionData($(this)));
             }
-        </script><input type="hidden" value="1" id="is-guest">
-<input id="wsctrail" type="hidden" value="">
-<input id="wsctrmod" type="hidden" value="0">
+          }
+        });
+        if(impressions.length > 0) {
+          window.dataLayer = window.dataLayer || [];
+          window.dataLayer.push({
+            'ecommerce': {
+              'promoView': {
+                'promotions': impressions
+              }
+            },
+            'event': 'promoImpression'
+          });
+        }
+      };
+      setTimeout(function(){
+      	$(window).scroll(function(){
+          trackPromotionView();
+        });
+        trackPromotionView();
+      }, 1000);
 
-<div id="mobile-overlay">
-    <ul>
-        <li><a href="/wetseal-new-arrivals/">NEW ARRIVALS</a></li>
-<li><a href="/wetseal-tops/">TOPS</a></li>
-<li><a href="/wetseal-dresses/">DRESSES</a></li>
-<li><a href="/wetseal-bottoms/">BOTTOMS</a></li>   
-<li><a href="/wetseal-outerwear/">OUTERWEAR</a></li>  
-<li><a href="/wetseal_accessories/">ACCESSORIES</a></li>  
-<li><a href="/lookbooks/">LOOKBOOKS</a></li>   
-<li><a href="/seal-squad/">SEAL SQUAD</a></li>   
-<li><a href="/wetseal-sale/">SALE</a></li>                        
-                    <li>
-                <a href="/customer/account/login?redirectUrl=/wetseal_privacy_policy" alt="Login" title="Login" rel="nofollow">
-                    LOGIN                    /
-                    REGISTER                </a>
-            </li>              
-                                     
-    </ul>
-</div> 
-<div id="topN1" class="container-fluid topNn" style="/*background-color: #ffdbcf;color: #ff3f4c;font-weight: 800;font-size: 14px;letter-spacing: 1px;*/">
-    <div class="">
-        <div class="col-xs-12 text-center">
-            FREE SHIPPING ON ALL ORDERS OVER $50
-        </div>
-    </div>
-</div> 
+      if($('.hero-carousel').find('[data-promotion-name]').length > 0) {
+      	var trackCarousel = function(currentSlide) {
+        	var item = $('.hero-carousel').find('.item.slick-active');
+          	if(elementInView(item) && !item.data('analytics-sent')) {
+              	item.data('analytics-sent', true);
+              	var data = getPromotionData(item);
+              	data.position = currentSlide + 1;
 
-<header class="hidden-xs">
-    <div class="container-fluid">
-        <div class="row">
-    <div class="col-sm-2 text-left logo">
-        <a href="/">
-            <div class="img-logo"></div>
-        </a>
-    </div>
-    <div class="col-sm-7">
-        <nav id="nav-left">
-            <ul>
-                <li class="dropdown-btn">
-                    <a href="/wetseal-new-arrivals/">NEW</a>
-                </li>
-                <li class="dropdown-btn">
-                    <a href="/apparel/">CLOTHING</a>
+              	window.dataLayer = window.dataLayer || [];
+                window.dataLayer.push({
+                  'ecommerce': {
+                    'promoView': {
+                      'promotions': [data]
+                    }
+                  },
+                  'event': 'promoImpression'
+                });
+            }
+        };
+      	$('.hero-carousel').on('init', function(){
+          	trackCarousel(0);
+        });
+        $('.hero-carousel').on('afterChange', function(e, slick, currentSlide){
+          	trackCarousel(currentSlide);
+        });
+      }
+      
+      /****************** Newsletter Subscribed ******************/
+      
+      $(document).on("newsletter-subscribed", function(e, type){
+      	window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            'newsletter': {
+                'type': type
+            },
+            'event': 'subscribed'
+        });
+      });
+      
+      /****************** New User Account ******************/
+      
+      require('simplistic', function() {
+        $(document).on('submit', '#create_customer', function(){
+          Cookies.set('register-form-sent', true);
+        });
+        
+        if(location.pathname.indexOf('challenge')<0) {
+           Cookies.remove('register-form-sent');
+        }
+      
+      	/****************** User Login ******************/
+      
+        
+          Cookies.remove('user-logged');
+        
+      
+      	/****************** User ******************/
 
-                    <div class="row dropdown full">
-                        <div class="col-md-2 col-sm-2 col-md-offset-3 col-sm-offset-3">
-                            <a href="/wetseal-dresses/"><h4 class="subtitulos-menu">DRESSES</h4></a>
-                            <ul class="links-menu">
-                                <li><a href="/wetseal-dresses/">ALL DRESSES</a></li>
-                                <li><a href="/dresses-mini/">MINI</a></li>
-                                <li><a href="/dresses-midi-maxi/">MIDI &amp; MAXI</a></li>
-                                <li><a href="/little-black-dresses/">LITTLE BLACK DRESSES</a></li>
-                                <li><a href="/dresses-day/">DAY</a></li>
-                                <li><a href="/dresses-party/">PARTY</a></li>
-                            </ul>
-                            <a href="/wetseal-rompers-jumpsuits/"><h4 class="subtitulos-menu">ROMPERS &amp; JUMPSUITS</h4>
-                            </a>
-                            <a href="/wetseal-beachwear/"><h4 class="subtitulos-menu">SWIM</h4></a>
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+          'user': {
+            
+              'status': false,
+            
+            'timestamp': Simplistic.getCurrentDateTime('YYYY-MM-DDTHH:mm:SS'),
+            'role': 'Customer'
+          }
+        });
+      });
+      
+      
+      /****************** Page ******************/
 
-                            <a href="/wetseal-tops/"><h4 class="subtitulos-menu">TOPS</h4></a>
-                            <ul class="links-menu">
-                                <li><a href="/wetseal-tops/">ALL TOPS</a></li>
-                                <li><a href="/shirts-blouses/">SHIRTS &amp; BLOUSES</a></li>
-                                <li><a href="/wetseal-t-shirt/">T-SHIRT</a></li>
-                                <li><a href="/wetseal-tanks/">TANKS</a></li>
-                                <li><a href="/crop-tops/">CROP TOPS</a></li>
-                                <li><a href="/bodysuits/">BODYSUITS</a></li>
-                                <li><a href="/sweaters-sweatshirts/">SWEATERS &amp; SWEATSHIRTS</a></li>
-                                <li><a href="/bras-bralettes/">BRAS &amp; BRALETTES</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-md-2 col-sm-2">
-                            <a href="/wetseal-outerwear/"><h4 class="subtitulos-menu">OUTERWEAR</h4></a>
-                            <ul class="links-menu">
-                                <li><a href="/wetseal-outerwear/">ALL OUTERWEAR</a></li>
-                                <li><a href="/sweaters-sweatshirts/">SWEATERS &amp; SWEATSHIRTS</a></li>
-                                <li><a href="/jackets-coats/">JACKETS &amp; COATS</a></li>
-                            </ul>
-                            <a href="/wetseal-bottoms/"><h4 class="subtitulos-menu">BOTTOMS</h4></a>
-                            <ul class="links-menu">
-                                <li><a href="/wetseal-bottoms/">ALL BOTTOMS</a></li>
-                                <li><a href="/ws-pants/">PANTS</a></li>
-                                <li><a href="/skirts/">SKIRTS</a></li>
-                                <li><a href="/casual-shorts/">SHORTS</a></li>
-                            </ul>
-                            <a href="/wetseal_sale_apparel/"><h4 class="subtitulos-menu">SALE CLOTHING</h4></a>
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        'page': {
+          'isStaging': true,
+          
+          
+          
+          
+          
+          
+          
+          
+          	'level1': 'Legal'
+          
+          
+        }
+      });
+      
+      /****************** Save to Wishlist  ******************/
+      
+      $(document).on("wishlist-added", function(e, wishlist){
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+          'product': {
+            'name': wishlist.data('ptitle'),
+            'price': wishlist.data('price'),
+            'id': wishlist.data('product')
+          },
+          'event': 'addToWishlist'
+        });
+      });
 
-                        </div>
-                        <div class="col-md-3 col-sm-2">
-                            <a href="/wetseal_wanderlusting/" class="img-hover">
-                                <img class="img-responsive" src="http://s3.amazonaws.com/shop.wetseal/images/home/top/menu/Category_clothing_22052018.jpg">
-                            </a>
-                        </div>
-                        <div class="col-md-2 col-sm-2 col-sm-offset-1"></div>
-                    </div>
-                </li>
-                <li class="dropdown-btn">
-                    <a href="/wetseal-tops/">TOPS</a>
-
-                    <div class="row dropdown full">
-                        <div class="col-md-2 col-sm-2 col-md-offset-3 col-sm-offset-3">
-                            <ul class="links-menu">
-                                <li><a href="/wetseal-tops/">ALL TOPS</a></li>
-                                <li><a href="/shirts-blouses/">SHIRTS &amp; BLOUSES</a></li>
-                                <li><a href="/wetseal-t-shirt/">T-SHIRTS</a></li>
-                                <li><a href="/wetseal-tanks/">TANKS</a></li>
-                                <li><a href="/crop-tops/">CROP TOPS</a></li>
-                                <li><a href="/bodysuits/">BODYSUITS</a></li>
-                                <li><a href="/sweaters-sweatshirts/">SWEATERS &amp; SWEATSHIRTS</a></li>
-                                <li><a href="/bras-bralettes/">BRAS &amp; BRALETTES</a></li>
-                            </ul>
-
-                        </div>
-                        <div class="col-md-2 col-sm-2">
-
-                        </div>
-                        <div class="col-md-3 col-sm-2">
-                            <a href="/shirts-blouses/" class="img-hover">
-                                <img class="img-responsive" src="http://s3.amazonaws.com/shop.wetseal/images/home/top/menu/Category_tops_22052018.jpg">
-                            </a>
-                        </div>
-                        <div class="col-md-2 col-sm-2 col-sm-offset-1"></div>
-                    </div>
-                </li>
-                <li class="dropdown-btn">
-                    <a href="/wetseal-dresses/">DRESSES</a>
-
-                    <div class="row dropdown full">
-                        <div class="col-md-2 col-sm-2 col-md-offset-3 col-sm-offset-3">
-                            <ul class="links-menu">
-                                <li><a href="/wetseal-dresses/">ALL DRESSES</a></li>
-                                <li><a href="/dresses-mini/">MINI</a></li>
-                                <li><a href="/dresses-midi-maxi/">MIDI &amp; MAXI</a></li>
-                                <li><a href="/dresses-day/">DAY</a></li>
-                                <li><a href="/dresses-party/">PARTY</a></li>
-                                <li><a href="/wetseal-rompers-jumpsuits/">ROMPERS &amp; JUMPSUITS</a></li>
-                                <li><a href="/little-black-dresses/">LITTLE BLACK DRESSES</a></li>
-                            </ul>
-
-                        </div>
-                        <div class="col-md-2 col-sm-2">
-
-                        </div>
-                        <div class="col-md-3 col-sm-2">
-                            <a href="/dresses-midi-maxi/" class="img-hover">
-                                <img class="img-responsive" src="http://s3.amazonaws.com/shop.wetseal/images/home/top/menu/Category_dresses_22052018.jpg">
-                            </a>
-                        </div>
-                        <div class="col-md-2 col-sm-2 col-sm-offset-1"></div>
-                    </div>
-                </li>
-                <li class="dropdown-btn">
-                    <a href="/wetseal_accessories/">ACCESSORIES</a>
-
-                    <div class="row dropdown full">
-                        <div class="col-md-2 col-sm-2 col-md-offset-3 col-sm-offset-3">
-                            <ul class="links-menu">
-                                <li><a href="/jewelry/">ALL JEWELRY</a></li>
-                                <li><a href="/wetseal-necklaces/">NECKLACES</a></li>
-                                <li><a href="/wetseal-earrings/">EARRINGS</a></li>
-                                <li><a href="/wetseal-rings/">RINGS</a></li>
-                                <li><a href="/wetseal-bracelets/">BRACELETS</a></li>
-                                <li><a href="/wetseal-footwear/">SHOES</a></li>
-                                <li><a href="/hat-hair/">HAT &amp; HAIR</a></li>
-                                <li><a href="/belts/">BELTS</a></li>
-                                <li><a href="/socks-legwear/">SOCKS &amp; LEGWEAR</a></li>
-                                <li><a href="/scarves-gloves/">SCARVES &amp; GLOVES</a></li>
-                            </ul>
-
-                        </div>
-                        <div class="col-md-2 col-sm-2">
-
-                        </div>
-                        <div class="col-md-3 col-sm-2">
-                            <a href="/jewelry/" class="img-hover">
-                                <img class="img-responsive" src="http://s3.amazonaws.com/shop.wetseal/images/home/top/menu/Category_accessories_22052018.jpg">
-                            </a>
-                        </div>
-                        <div class="col-md-2 col-sm-2 col-sm-offset-1"></div>
-                    </div>
-                </li>
-                <li class="dropdown-btn">
-                    <a href="/lookbooks/">LOOKBOOKS</a>
-
-                    <div class="row dropdown full menu-lookbook">
-                        <div class="col-md-2 col-sm-2 col-sm-offset-2  padding-right-10">
-                            <a href="/wetseal_wanderlusting/"><img src="http://s3.amazonaws.com/shop.wetseal/images/home/top/menu/Category_small_lookbook_22052018.jpg"></a>
-                        </div>
-                        <div class="col-md-2 col-sm-2 padding-right-10 ">
-                            <a href="/wetseal_spf_szn/"><img src="http://s3.amazonaws.com/shop.wetseal/images/home/top/menu/Category_small_lookbook_08052018.jpg"></a>
-                        </div>
-                        <div class="col-md-2 col-sm-2  padding-right-10">
-                            <a href="/wetseal_carnival_crush/"><img src="http://s3.amazonaws.com/shop.wetseal/images/home/top/menu/Category_small_lookbook_24042018.jpg"></a>
-                        </div>
-                        <div class="col-md-2 col-sm-2 padding-right-10">
-                            <a href="/wetseal_model_off_duty/" class="img-hover">
-                                <img class="img-responsive" src="http://s3.amazonaws.com/shop.wetseal/images/home/top/menu/Category_small_lookbook_10042018.jpg">
-                            </a>
-                        </div>
+    });
+  </script>
 
 
-                        <div class="col-md-2 col-sm-2  padding-right-10" style="margin-top: 4%;">
-                            <h4>Get Inspired:</h4>
-                            <a href="/lookbooks/"><h5>VIEW ALL LOOKBOOKS</h5></a></div>
-                    </div>
-                </li>
-                <li class="dropdown-btn">
-                    <a href="/seal-squad/">SEAL SQUAD</a>
-                </li>
-                <li class="dropdown-btn">
-                    <a href="/wetseal-sale/">SALE</a>
 
-                    <div class="row dropdown full">
-                        <div class="col-md-2 col-sm-2 col-md-offset-3 col-sm-offset-3">
-                            <ul class="links-menu">
-                                <li><a href="/wetseal-sale/">ALL SALE</a></li>
-                                <li><a href="/wetseal_sale_apparel/">SALE CLOTHING</a></li>
-                                <li><a href="/wetseal-sale-dresses/">SALE DRESSES</a></li>
-                                <li><a href="/wetseal-sale-tops/">SALE TOPS</a></li>
-                                <li><a href="/wetseal-sale-bottoms/">SALE BOTTOMS</a></li>
-                                <li><a href="/wetseal-sale-outerwear/">SALE OUTERWEAR</a></li>
-                            </ul>
 
-                        </div>
-                        <div class="col-md-2 col-sm-2">
 
-                        </div>
-                        <div class="col-md-3 col-sm-2">
-                            <a href="/wetseal-sale/" class="img-hover">
-                                <img class="img-responsive" src="http://s3.amazonaws.com/shop.wetseal/images/home/top/menu/Category_sale_22052018.jpg">
-                            </a>
-                        </div>
-                        <div class="col-md-2 col-sm-2 col-sm-offset-1"></div>
-                    </div>
-                </li>
-            </ul>
-        </nav>
-    </div>
-    <div class="col-sm-3 text-right">
-        <nav id="nav-right">
-            <ul>
-                <li class="aicon">
-                    <a data-toggle="collapse" data-target="#searchbar">
-                        <div type="button" class="tote-wrap">
-                            <div class="icon-find"></div>
-                        </div>
-                    </a>
-                </li>
-                <li class="aicon">
-                    <a href="/customer/account/login?redirectUrl=/wetseal_privacy_policy" alt="Login" title="Login" rel="nofollow">
-                        <div class="icon-user"></div>
-                    </a>
-                </li>
-                <li class="cart" id="cartMenuOp">
-                    <a data-toggle="collapse" href="javascript:void(0);" aria-expanded="false" data-target="#minicartTop">
-                        SHOPPING CART (<span class="tote-main" data-total="0">0</span>)
-                    </a>
-                </li>
-            </ul>
-        </nav>
-    </div>
-</div>    
-        <div id="minicartTop" class="row collapse">
-            <div class="col-md-12 col-sm-12 text-right">
-    <a data-toggle="collapse" data-target="#minicartTop" class="closecol">x</a>
-</div>
-<div class="col-md-12 col-sm-12 text-center">
-	<p class="txt_empty"><br>
-	    Your basket is empty	</p>
-</div>        </div>
-    </div>
-</header>
-<div id="menuMobile" class="visible-xs-block">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-xs-2 text-left">
-                <nav id="nav-left">
-                    <ul>
-                        <li class="nav-toggle-text">
-                            <span id="nav-toggle" href="#"><span></span></span>
-                        </li>
-                    </ul>
-                </nav>
-            </div>
-            <div class="col-xs-6 text-right">
-                <a href="/" class="logo">
-                    <div class="img-logo"></div>
-                </a>
-            </div>
-            <div class="col-xs-4 text-right">
-                <ul class="ops-der">
-                    <!-- boton cart -->
-                    <li class="cart">
-                        <a href="/cart/" class="cart-nav-item">
-                            <div class="tote-wrap">
-                                <div class="tote-main" data-total="0">
-                                    0                                </div>
-                            </div>
-                        </a>
-                    </li>
-                <!-- BOTON SEARCH MOBILE -->
-                    <li class="aicon">
-                        <a data-toggle="collapse" data-target="#searchbar">
-                            <div type="button" class="tote-wrap">
-                                 <div class="icon-find"></div>
-                            </div>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-<div id="topN2" class="container-fluid" style="display: none;">
-    <a href="/up-to-70-off-selected-lookbook-styles/"><div class="col-xs-12 col-md-12 margin-top-5"><span>Up to 70% off Select Lookbook Styles</span></div></a>
-    <a href="/tops-up-to-70-off-tops/"><div class="col-xs-12 col-md-4 margin-top-5 middle-border"><span>Tops Up to 70% Off</span></div></a>
-    <a href="/50-off-dresses/"><div class="col-xs-12 col-md-4 margin-top-5"><span>50% off Dresses</span></div></a>
-</div>
-<div id="topN4" class="container-fluid" style="display: none;">
-    <a href="/4-11-50-off-dresses/">
-        <div class="blk topNn-1">
-            Up to 50% Off Dresses
-        </div>
-    </a>
-    <a href="/4-9-select-styles-up-to-70-off/">
-        <div class="blk topNn-2">
-            Select Styles Up to 70% Off
-        </div>
-    </a>
-    <a href="/2-tops-for-25/">
-        <div class="blk topNn-3">
-            2 Tops for $25
-        </div>
-    </a>
-</div><div id="searchbar" class=" collapse">
-    <div class="row">
-        <div class="col-xs-8">
-            What are you looking for?
-        </div>
-        <div class="col-xs-4 text-right">
-            <a data-toggle="collapse" data-target="#searchbar" class="closecol">x</a>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-xs-12 text-left">
-            <form action="/catalog/" method="get">
-            <input id="baseUrl" name="baseUrl" type="hidden" value="">
-                <div class="inner-addon right-addon">
-                    <i class="fa fa-search fa-2x" aria-hidden="true"></i>
-                    <input id="searchInput" type="text" name="q" placeholder="Search" maxlength="128" autocomplete="off" autofocus="">
-                    <input class="search-submit" type="submit" value=".">
-                </div>
-            </form>
-        </div>
-    </div>
-    <div class="row">
-        <div class="result col-xs-12 text-left">
-            <div id="searchSuggestResult"></div>
-        </div>
-    </div>
-</div>
-<div class="omessage" id="oMsgPop"></div><div class="pbl mbm" id="trendsAndLookMenu">
-    <div id="trendsSelectedSection" data-active-section=""></div>
-</div>    
-<style>
-    .content.privacity {
-        padding: 0 10% 10% 10%;
-        margin-top: 0;
-        padding-top:55px;
-    }
-    h1.text-center.tituloLegal {
-        padding-bottom: 5%;
-    }
-    p.txt-priv, p.txt-direccionPriv, h6.subtituloPriv,
-    li.listaPriv, li.listaPriv2, li.listaPriv strong 
-    {
-        font-size: 16px!important;
-        font-weight: 300;
-    }
-    li.listaPriv {
-        list-style-type: disc;
-        padding: 15px;
-    }
-    li.listaPriv2 {
-        list-style-type: circle;
-        padding: 15px;
-    }
-    p.txt-priv, h6.subtituloPriv {
-        padding-bottom: 3%;
-    }    
-</style>
-<div class="col-xs-12 content privacity">
-    <h1 class="text-center tituloLegal">PRIVACY POLICY</h1>
-    <p class="txt-priv">Privacy is important to Wet Seal.  Making sure that you know how we collect, use, share, and secure information on wetseal.com (this “Website”) is also important to us.  This Privacy Policy (“Policy”) is made a part of our Website’s Terms of Use.  This Policy describes our privacy practices with respect to information collected by or submitted to us on <a href="http://www.wetseal.com/">wetseal.com</a>.</p>
-    <h6 class="subtituloPriv">Information We Collect.</h6>
-    <p class="txt-priv">We collect both personal and non-personal information from you when communicating or interacting with you through wetseal.com.  When we use the phrase “personal information” we mean any information that we can use to identify, locate, or contact you, for example, information that you provide to us such as your name, address, age, gender, telephone number, email address, payment information (including your credit or debit card number), and/or photos or video footage of you.</p>
-    <h6 class="subtituloPriv">How Information Is Collected.</h6>
-    <p class="txt-priv">By Asking. On our Website, we may ask you to give us information.  If you want to sign up for our mailing list, we will ask for your email, mobile number, or mailing address.  If you compete in our Model Search competition, we’ll ask for your name, phone number, email address, location, mailing address, birthday, hair and eye color, height and weight, clothing and shoe size, along with pictures of you.  If you sign up for our sweepstakes, contests or other promotions, we will ask for information such as your name, email address, location, mailing address and phone number.  If you are selected as a winner in one of our sweepstakes, contests or other promotions, depending on the nature of the promotion and value of the prize awarded, we may ask for additional personal information including, without limitation, your age and social security number (for tax-reporting purposes).</p>
-    <h6 class="subtituloPriv">When You Provide it to Us:</h6>
-    <p class="txt-priv">We may also collect personal information from you directly when you provide it to us, for example, when you request products or services from us, respond to surveys, apply for a job, register for an online account, create a “Wish List”, leave a product review, contact us with a comment, question or complaint, subscribe to our email newsletter or other communications from us or manage your preferences with us, or otherwise interact with us.  We also collect customer information like your name, credit or debit card information, phone number, mailing address, email address, and billing address when you request that merchandise be sent to you or others, make purchases or returns with us, place an order with us online, or request an e-receipt.</p>
-    <h6 class="subtituloPriv">Social Media. </h6>
-    <p class="txt-priv">If you agree to receive text messages from Wet Seal we may use an automatic telephone dialing system to contact you.  You are not required to consent to receive text messages in order to obtain products or services from Wet Seal.  Standard messaging rates apply.  We, or our partners, may send you up to six (6) texts per month.  If you would like to stop receiving text messages at any time you can reply to any message with the word “STOP” or text the word “STOP” to short code 77053.  We may send you one additional confirmatory message to let you know that we’ve received your request.</p>
-    <h6 class="subtituloPriv">Cookies. </h6>
-    <p class="txt-priv">Each time you visit our Website, our web server automatically recognizes your domain name and what type of browser you are using, by using “cookies,” which are small text files on your computer that identify you as a unique user.  These help us measure your activity and personalize and improve your experience at Wet Seal.  If you don’t want us to use cookies, you can set your browser to delete them, or you can manually delete the cookies.  If you do this, you might have trouble accessing and using some of Wet Seal’s Website pages.</p>
-    <h6 class="subtituloPriv">Web Beacons. </h6>
-    <p class="txt-priv">We also use web beacons, which let us count and recognize users who visit our Website.  This lets us see if you respond to emails that we sent to you by clicking on a link in the email, so we can know whether the emails we send are effective.  If you don’t want web beacons in the email, you can turn off HTML display of the email. IP Address.</p>
-    <p class="txt-priv">When you visit our Website, we also collect and save the Internet Protocol address of the device you are using, like whether you are using a personal computer or a mobile device. </p>
-    <h6 class="subtituloPriv">Geo-location. </h6>
-    <p class="txt-priv">Geo-location technology refers to technology that lets us determine your location.  We may ask you to manually provide precise location information on our Website, or to enable your mobile device to send us precise location information.  We may also automatically use information from your web server or computer to determine general location information, such as the city in which you live.</p>
-    <h6 class="subtituloPriv">What We Do With Your Information and Your Choices</h6>
-    <p class="txt-priv">When you provide us with your name, email address, and mailing address, we may add your information to our mailing list, and we may send you emails and mailings announcing product information, promotional events, or updates to our Website.  If you give us your birth date, we may also send you a special gift on your birthday by email or postal mail.  If you don’t want to get anymore emails or mailings, send an email to  <a href="mailto:hello@wetseal.com">hello@wetseal.com</a>with your email address or postal address.  You may also call 1-424-465-3179.  If you don’t want to wait on the phone to opt-out of our emails, you may also click on the opt-out link at the bottom of each email. From time to time, our Website hosts sweepstakes, contests and other promotions, and we may let you submit your information electronically.  If we do this, we will use the information you provide to conduct the promotion.  We may also send you marketing communications and other information and materials you have chosen to receive regarding our merchandise, services, promotions or special events.</p>
-    <h6 class="subtituloPriv">How We Share Your Information.</h6>
-    <h6 class="subtituloPriv">We may share your information in the following ways. </h6>
-    <div class="txt-priv">
-        <ul>
-            <li class="listaPriv"><strong>Sharing Your Information With Other Companies.</strong>We may share name and address information with other companies that offer similar products. If you are on our mailing list and would prefer not to have your name shared with other companies, email hello@wetseal.com and ask that your name not be shared.</li>
-            <li class="listaPriv"><strong>Sharing Your Information With Service Providers.</strong>We may share your information with companies or individuals that provide us with services.  These services may include, among other things, helping us to provide services that you request, to create or maintain our databases, to research and analyze the people who request products, services, or information from us, to prepare and distribute communications, to respond to inquiries, or to process payments. </li>
-            <li class="listaPriv"><strong>Law Enforcement and Legal Process. </strong>We may report to law enforcement agencies any activities that we think may be unlawful.  For example, we may provide information to law enforcement agencies if we believe that you have violated our polices, or the release of your information may protect the rights, property, or safety of Wet Seal, or another person. </li>
-            <li class="listaPriv"><strong> Sharing Your Information as Permitted By Law.</strong> We may share your information with others as required by, or permitted by, law.  This may include sharing your information with government entities, or third parties in response to subpoenas, court orders, or other legal process, or as we believe is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine in our sole discretion might be brought against us.  •  Business Transition.  As we develop our business, we may buy or sell assets or business offerings.  Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions.  We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.</li>
-            <li class="listaPriv"><strong>Interest-Based Advertising.</strong> Wet Seal participates in interest-based (online behavior) advertising.  This means that a third party may use technology, such as a cookie on your browser or a web beacon, to identify you on our Website so that they can provide advertising about products and services tailored to your interest.  You may see advertising on our Website tailored to how you browse or shop, or you may see advertising for Wet Seal products on other websites based on your browsing behavior across different websites.</li>
-            <li class="listaPriv"><strong> Blogs, Online Postings, and Testimonials.</strong>We may decide to let users share comments, postings, reviews, testimonials, or other information.  If you choose to submit this type of information to us, the information you submit may be available generally to the public.  Information you provide in these areas may be read, collected, and used by others who access them.  If you decide to write a review about a Wet Seal product on Facebook or another social media website, remember that this information is governed by Facebook or the other website’s privacy policy and this information may be viewed by the general public.  </li>
-            <li class="listaPriv"><strong>Other Third Parties. </strong>We may share your information with other third parties as we deem appropriate.</li>
-        </ul>
-    </div>
-     <h6 class="subtituloPriv">How We Secure Your Information.</h6>
-    <p class="txt-priv">While no data transmission over the Internet is 100% secure from intrusion, we take reasonable and appropriate measures to help keep your information secure, and to help prevent it from becoming disclosed to people who we didn’t mention in this policy.  Even though we follow reasonable procedures to protect the information in our possession, no security system is perfect and we can’t promise, and you shouldn’t expect, that your information will be secure in all circumstances.  Therefore, any transmission of personal information to us is made at your own risk.  If you believe that your interaction with us is no longer secure, please notify us using the contact details below.</p>
-    <h6 class="subtituloPriv">How We Communicate With You.</h6>
-    <p class="txt-priv">If you have any questions about this Policy, you can contact us via the Contacting Us link or by phone by calling 1-424-465-3179. You may also write to us at: Wet Seal: 800 Boylston Street, 27th Floor, Boston, MA 02199 If we need, or are required, to contact you concerning any event that involves your information, we may do so by email, telephone, or mail. Other Information. Children We do not seek or knowingly collect or store any personal information from children under the age of 13.  If you are a parent or guardian and believe we may have inadvertently collected such information from your child, please notify us immediately by sending an email to <a href="mailto:hello@wetseal.com">hello@wetseal.com </a>or calling 1-424-465-3179.  As required by law, we will delete such information from our files within a reasonable time.</p>
-    <h6 class="subtituloPriv">Links to Other Websites</h6>
-    <p class="txt-priv">We are not responsible for the practices employed by websites linked to or from our Website nor the information or content contained therein.  We may provide links to other websites to you solely as a convenience, and the inclusion of linked sites does not imply endorsement by Wet Seal of any of the linked sites.  Please remember that when you use a link to go from our Website to another site, including any social media site, our Policy is no longer in effect.  Your browsing and interaction on any other site, including those that have a link on our Website, is subject to that website’s own rules and policies.  Please read over those rules and policies before proceeding.  We do not ensure the security of your personal information if you visit websites not belonging to Wet Seal.</p>
-     <h6 class="subtituloPriv">Changes to the Privacy Policy</h6>
-    <p class="txt-priv">We reserve the right to modify or change this policy at any time by posting the revised privacy policy on our Website.  Material changes will only affect the information we collect after the effective date of the change to our privacy policy unless we clearly express otherwise.</p>
-    <h6 class="subtituloPriv">IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS</h6>
-    <p class="txt-priv">Your California Privacy Rights. California Civil Code Section 1798.83 permits our customers who are California residents to request and obtain from us a list of what personal information (if any) we shared with third parties or corporate affiliates for those entities’ direct marketing purposes in the preceding calendar year, and the names and addresses of those third parties.  Requests may be made only once a year and are free of charge.  If you are a California resident and would like a copy of this notice, please submit a written request to the following address:  Wet Seal: 800 Boylston Street, 27th Floor Boston, MA 02199.  For all requests, you must put the statement “Wet Seal California Privacy Rights Notice” in the body of your request, as well as your name, street address, city, state, and zip code.  You also need to attest to the fact that you are a California resident and provide a current California address for our response.  Please note that we will not accept requests via telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.</p>
-    <p class="txt-priv">California Do Not Track Disclosures. California Business &amp; Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how a website operator responds to “Do Not Track” (DNT) browser settings.  DNT is a feature offered by some browsers which, when enabled, sends a signal to websites to request that your browsing is not tracked, such as by third party ad networks, social networks and analytic companies.  Wet Seal does not currently take actions to respond to DNT signals because a uniform technological standard has not yet been developed.  We continue to review new technologies and may adopt a DNT standard once one is created.  For information about DNT, please visit: <a href="http://www.allaboutdnt.org/">. www.allaboutdnt.org</a>  [Revised 3/2017]</p>
-</div><input type="hidden" name="YII_CSRF_TOKEN" id="csfrtoken" value="b851d3fa4773e9b81efb9495b3149c3cb98a07c7">
-<div class="container-fluid footer">
-    <div class="row footer-top">
-        <div class="col-sm-6 col-xs-12">
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <div class="row">
-                        <div class="col-md-3 col-sm-5 col-md-offset-1  col-xs-8">
-                            <h4>Information</h4>
-                            <ul class="links capitalight">
-                                <li><a href="mailto:hello@wetseal.com">Contact</a></li>
-                                <li><a href="/wetseal_about_us/">About</a></li>
-                                <li><a href="/wetseal_returns/">Returns &amp; Exchanges</a></li>
-                                <li><a href="/wetseal_legal/">Terms of Use</a></li>
-                                <li><a href="/wetseal_privacy_policy/">Privacy Policy</a></li>
-                            </ul>  
-                        </div>
-                        <div class="col-md-3 col-sm-3 col-md-offset-1  col-xs-4">
-                            <h4>Follow</h4>
-                            <ul class="links capitalight">
-                                <li><a href="https://www.facebook.com/wetseal" target="_blank">Facebook</a></li>
-                                <li><a href="https://twitter.com/wetseal" target="_blank">Twitter</a></li>
-                                <li><a href="https://instagram.com/wetseal" target="_blank">Instagram</a></li>
-                            </ul> 
-                        </div>
-                        <div class="col-md-3 col-sm-4 col-md-offset-1 hidden-xs">
-                            <h4>Categories</h4>
-                            <ul class="links capitalight">
-                                <li><a href="/wetseal-tops/">Tops</a></li>
-                                <li><a href="/wetseal-dresses/">Dresses</a></li>
-                                <li><a href="/wetseal-bottoms/">Bottoms</a></li>
-                                <li><a href="/wetseal-outerwear/">Outerwear</a></li>
-                                <li><a href="/wetseal_accessories/">Accessories</a></li>
-                                <li><a href="/lookbooks/">Lookbooks</a></li>
-                                <li><a href="/seal-squad/">Seal Squad</a></li>
-                            </ul>  
-                        </div>        
-                    </div>
-                </div>                               
-            </div>
-        </div>
-        <div class="col-sm-4 col-sm-offset-2 col-xs-12 contact-form">
-            <h4>Sign up for our newsletter for exclusive perks</h4>
-            <div class="mailsuform">
-                <div class="signup-form-wrap">
-                    <form class="signup-form" method="post">                        
-                        <input type="email" placeholder="Enter email address..." value="" name="EMAIL" required="required" class="capitalight">
-                        <div class="form-submit">
-                            <input type="submit" value="" name="subscribe">
-                            <i class="fa fa-arrow-right spsuarrow" aria-hidden="true"></i>
-                            <span class="spsuload">
-                                <svg fill="#111111" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M12 4V1L8 5l4 4V6c3.31 0 6 2.69 6 6 0 1.01-.25 1.97-.7 2.8l1.46 1.46C19.54 15.03 20 13.57 20 12c0-4.42-3.58-8-8-8zm0 14c-3.31 0-6-2.69-6-6 0-1.01.25-1.97.7-2.8L5.24 7.74C4.46 8.97 4 10.43 4 12c0 4.42 3.58 8 8 8v3l4-4-4-4v3z"></path>
-                                    <path d="M0 0h24v24H0z" fill="none"></path>
-                                </svg>
-                            </span>
-                        </div>
-                    </form>
-                    <div class="suformres"></div>
-                    <div class="success-msg capitalight">
-                        Thank you for signing up!
-                    </div>
-                </div>
-            </div>            
-            <ul class="links redes">
-                <li>
-                  <a href="https://www.facebook.com/wetseal" target="_blank" displaytext="Facebook">
-                    <img src="//s3.amazonaws.com/shop.wetseal/images/icon/fb_01.png">
-                  </a>
-                </li>
-                <li>
-                  <a target="_blank" href="https://twitter.com/wetseal">
-                    <img src="//s3.amazonaws.com/shop.wetseal/images/icon/tw_01.png">
-                  </a>
-                </li>
-                <li>
-                  <a href="https://www.instagram.com/wetseal/" target="_blank" displaytext="Instagram">        
-                    <img src="//s3.amazonaws.com/shop.wetseal/images/icon/ins_01.png">
-                  </a>
-                </li>
-            </ul>
-            <p class="copyright">©2018 Wet Seal — All Rights Reserved</p>
-        </div>        
-    </div>
-</div>
-<!-- Modal -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div id="modalBodyDetail" class="modal-body">
-            </div>
-        </div>
-    </div>
-</div> 
-<!-- GoogleAnalytics Shops begin - Template: cmspage -->
-<script type="text/javascript"> 
-/** <![CDATA[ **/
 
-    
-    
-/** ]]> **/
+
+
+
+
+
+
+
+
+  
+
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KVPWV8N');</script>
+<!-- End Google Tag Manager -->
+
+
+<!--Start of Zendesk Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="https://v2.zopim.com/?63YbSRPjrJCXlcA8KaMNHWZFSQsQSqrn";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 </script>
-<!-- GoogleAnalytics Shops End -->
+<!--End of Zendesk Chat Script-->
 
-<!-- GTM begin - Template: CMS -->
-<script sync="" type="text/javascript">
-    dataLayer=[{
-        'pagetype' : 'cmspage',
-        'emConversionAf' : 'Dafiti',
-        'customerId' : '',
-        'customerAgeGroup' : 'guest',
-        'customerGender' : 'unknown',
-        'customerEmail' : '',
-        'idNewLead' : '',
-        'store' : 'dafiti',
-        'event' : 'deleted',
-        'queryReferrer' : "",
-        'currency' : 'MXN',
-        'sessionId' : '65bde912f7e687cfc908dc03da6c5439',
-        'cart' : "",
-    }];
-</script>        <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="pswp__bg"></div>
-    <div class="pswp__scroll-wrap">
-        <div class="pswp__container">
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-        </div>
-        <div class="pswp__ui pswp__ui--hidden">
-            <div class="pswp__top-bar">
-                <div class="pswp__counter"></div>
-                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
-                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
-                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
-                <div class="pswp__preloader">
-                    <div class="pswp__preloader__icn">
-                      <div class="pswp__preloader__cut">
-                        <div class="pswp__preloader__donut"></div>
-                      </div>
-                    </div>
-                </div>
-            </div>
-            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-                <div class="pswp__share-tooltip"></div> 
-            </div>
-            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
-            </button>
-            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
-            </button>
-            <div class="pswp__caption">
-                <div class="pswp__caption__center"></div>
-            </div>
-        </div>
-    </div>
+
+  <script>
+    $(function(){
+      	require("simplistic");
+		require("slick");
+        require("productJs");
+        require("tingle");
+        require("apiJquery");
+    });
+  </script>
+  
+  <script>
+  var presaleInitialized = false;
+  var presaleInstance;
+  var runPresale = function() {
+      if(!presaleInitialized) {
+        presaleInitialized = true;
+        
+        $(function(){
+        	
+                presaleInstance = new Presale(false);
+            
+
+            $(document).on('presaleInit', function(){
+              if(Simplistic.getQueryParam('vote')) {
+                if($('.presale-vote[data-id='+Simplistic.getQueryParam('vote')+']:visible').length > 0) {
+                  $('.presale-vote[data-id='+Simplistic.getQueryParam('vote')+']:visible').click();
+                }
+              }
+            });
+
+            $('.login-popup form').submit(function(e){
+              e.preventDefault();
+
+              var form = $(this);
+              var action = form.attr('action');
+
+              if(!form.hasClass('disabled')) {
+                form.addClass('disabled');
+
+                $.ajax({
+                  url: action,
+                  type: 'POST',
+                  data: form.serialize(),
+                  cache: false
+                }).done(function(resp){
+                  resp = $($.trim(resp));
+
+                  if(resp.find('.errors').length > 0 && resp.find('.errors:first').text()!="") {
+                    form.parent().find('.errors').html(resp.find('.errors').html());
+                  } else {
+                    if(resp.find('.shopify-challenge__container').length > 0) {
+                      location = '/challange';
+                    } else {
+                      if($('.login-popup').data('vote-id')) {
+                        location = location.href + '?vote=' + $('.login-popup').data('vote-id');
+                      } else {
+                        location = location.href;
+                      }
+                    }
+                  }
+                }).fail(function(){
+                  if(form.closest('.login-register').length > 0) {
+                    location = '/account/login?checkout_url=/collections/seal-squad?vote='+$('.login-popup').data('vote-id');
+                  } else {
+                    location = '/account/register';
+                  }
+                }).always(function(){
+                  form.removeClass('disabled');
+                });
+              }
+
+              return false;
+            });
+        });
+      } else {
+		presaleInstance.updateButtons();
+      }
+  };
+  
+</script>
+  
+  <!-- SearchSpring -->
+  <script template="page.legal" src="//cdn.searchspring.net/search/v3/js/searchspring.catalog.js?6jkx0a" defer=""></script>
+
+  
+
+
+  <meta property="og:url" content="https://www.wetseal.com">
+  <meta property="og:title" content="Privacy Policy | Wet Seal">
+  <meta property="og:description" content="Wet Seal carries the latest trends in women's clothing &amp; accessories. From dresses to blouses to plus size clothing, discover every style for any occasion.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="http://cdn.shopify.com/s/files/1/0141/3267/4618/t/14/assets/logo.png?964927497562014228">
+  <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0141/3267/4618/t/14/assets/logo.png?964927497562014228">
+
+  
+         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><link rel="stylesheet" href="//cdn.linearicons.com/free/1.0.0/icon-font.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+  <link href="//cdn.shopify.com/s/files/1/0141/3267/4618/t/14/assets/style.scss.css?964927497562014228" rel="stylesheet" type="text/css" media="all">
+  <link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0141/3267/4618/t/14/assets/style-medium.scss.css?964927497562014228" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0141/3267/4618/t/14/assets/style-small.scss.css?964927497562014228" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0141/3267/4618/t/14/assets/animate.css?964927497562014228" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0141/3267/4618/t/14/assets/slick.css?964927497562014228" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="stylesheet" href="//cdn.shopify.com/s/files/1/0141/3267/4618/t/14/assets/tingle.min.css?964927497562014228" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+  <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/14132674618/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="ee2c0411a3c21459f14b6c149e4887d2">
+<meta id="in-context-paypal-metadata" data-shop-id="14132674618" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, Helvetica Neue, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{line-height:0 !important;padding:0 !important;border-radius:unset !important;width:80px !important}@media (max-width: 500px){.additional-checkout-button--google-pay{width:100% !important}}.gpay-iframe{height:44px !important;width:100%  !important;cursor:pointer;vertical-align:middle !important}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal,.additional-checkout-button--venmo{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":14132674618,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/14132674618","merchantName":"Wet Seal","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover"],"total":{"type":"pending","label":"Wet Seal","amount":"1.00"}}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"ee2c0411a3c21459f14b6c149e4887d2","betas":[],"domain":"www.wetseal.com","shopId":14132674618,"smart_payment_buttons_url":"https:\/\/cdn.shopifycloud.com\/payment-sheet\/assets\/latest\/spb.js"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "wetseal-store.myshopify.com";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.theme = {"name":"R3 - Simplistic [Homepage Phase 2]","id":45645398074,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "pay.shopify.com";</script>
+<script id="__st">var __st={"a":14132674618,"offset":-28800,"reqid":"2d2bb1eb-2b56-43fd-8193-d0dac10f39da","pageurl":"www.wetseal.com\/pages\/privacy-policy","s":"pages-25232539706","u":"67f09775dd18","p":"page","rtyp":"page","rid":25232539706};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>window.Shopify = window.Shopify || {};
+window.Shopify.Checkout = window.Shopify.Checkout || {};
+window.Shopify.Checkout.apiHost = "wetseal-store.myshopify.com";</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":25232539706}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var isDuplicatedThankYouPageView = function() {
+    return document.cookie.indexOf('loggedConversion=' + window.location.pathname) !== -1;
+  }
+
+  var setCookieIfThankYouPage = function() {
+    if (window.location.pathname.indexOf('/checkouts') === -1 &&
+        window.location.pathname.indexOf('/thank_you') === -1) {
+      return;
+    }
+
+    var twoMonthsFromNow = new Date(Date.now())
+    twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+    document.cookie = 'loggedConversion=' + window.location.pathname + '; expires=' + twoMonthsFromNow;
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config;
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+    var first = document.getElementsByTagName('script')[0];
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":14132674618,"isMerchantRequest":null,"themeId":45645398074,"themeCityHash":14582383947868709505}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.01},"Session Attribution":{}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    if (!isDuplicatedThankYouPageView()) {
+      setCookieIfThankYouPage();
+      
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"page","resourceType":"page","resourceId":25232539706}
+        );
+      
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-76ce6d7f3e50d4b8c05874c34d2ea1340c45e5babba61276dadcaeed488ca16a.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-76ce6d7f3e50d4b8c05874c34d2ea1340c45e5babba61276dadcaeed488ca16a.js"></script>
+<script crossorigin="anonymous" defer="defer" src="//cdn.shopify.com/s/assets/shopify_pay/storefront-2265564244acdefca5e06c16b1374c11db438b342e91b99c91272d78cf03532e.js?v=20190107"></script>
+<script integrity="sha256-2CaXyZcSpeipNzGEdTSRcCglaGi7BJGfF4y5LKK+gU8=" defer="defer" src="//cdn.shopify.com/s/assets/storefront/express_buttons-d82697c99712a5e8a93731847534917028256868bb04919f178cb92ca2be814f.js" crossorigin="anonymous"></script>
+<script integrity="sha256-wVO039M3uMymMFjKDcSW90f3TAT7vRyPziQZqsSnEpc=" defer="defer" src="//cdn.shopify.com/s/assets/storefront/features-c153b4dfd337b8cca63058ca0dc496f747f74c04fbbd1c8fce2419aac4a71297.js" crossorigin="anonymous"></script>
+
+
+
+  
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Website",
+      "name" : "Wet Seal",
+      "url": " https://www.wetseal.com",
+      "logo": "",
+      "sameAs": [
+        "https://www.facebook.com/wetseal",
+        "https://twitter.com/wetseal",
+        "https://www.instagram.com/wetseal/",
+        "https://www.pinterest.com.mx/wetseal/",
+        "https://en.wikipedia.org/wiki/Wet_Seal"
+      ],
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": " https://www.wetseal.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }}
+</script>
+  
+  <!-- Search Console Verification -->
+  <meta name="google-site-verification" content="Eb4C2lKDcCap69iyKZBh2DHitv4f1-28ra65VxofXVQ">
+
+</head>
+
+<body class="templatePage">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KVPWV8N"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <script async="" type="text/javascript" src="//static.klaviyo.com/onsite/js/klaviyo.js?company_id=MLzPdi"></script>
+
+  <div id="page">
+    <header id="header" class="header ">
+  
+  <div id="utility-bar">
+    
+      <div class="container">
+        <div>FREE SHIPPING ON ORDERS OVER $50</div>
+      </div>
+    
+    <a href="#" onclick="$('#utility-bar').slideUp(); return false;">
+      <i class="lnr lnr-cross"></i> 
+    </a>
+  </div>
+
+
+
+
+
+<script>
+  $(function(){
+    function mobileCollapse(){
+      if($(window).width() < 900){
+        $(window).scroll(function(){
+          if($(this).scrollTop() > 50){
+            $('#utility-bar').slideUp(300);
+          }else{
+            $('#utility-bar').slideDown(300);
+          }
+        });
+      }
+    }
+    mobileCollapse();
+    $(window).resize(function(){
+      mobileCollapse();
+    });
+    
+    function mobileCarousel(){
+      require("slick", function(){
+        if($(window).width() > 599 && $(window).width() < 901){
+            if(!$('#utility-bar2 .grid-full').hasClass('slick-slider')){
+                $('#utility-bar2 .grid-full').slick({
+                    autoplay: true,
+                    pauseOnHover: false,
+                    speed: 1000,
+                    prevArrow: '<i class="lnr lnr-chevron-left left-arrow"></i>',
+                    nextArrow: '<i class="lnr lnr-chevron-right right-arrow"></i>'
+                });
+            }
+        }else{
+            if($('#utility-bar2 .grid-full').hasClass('slick-slider')){
+                $('#utility-bar2 .grid-full').slick('unslick');
+            }
+        }
+      });
+    }
+    mobileCarousel();
+    $(window).resize(function(){
+        mobileCarousel();
+    });
+
+  });
+</script>
+  <div class="container">
+    <div class="main-content flex align-items-center medium-down--align-items-center">
+      <div class="logo">
+        <a href="/"><img src="//cdn.shopify.com/s/files/1/0141/3267/4618/t/14/assets/logo.png?964927497562014228" alt="Wet Seal"></a>
+      </div>
+      <nav class="main-menu flex-1 medium-down--hide">
+        
+
+
+<ul class="flex align-items-center" itemscope="" itemtype="http://schema.org/SiteNavigationElement"><li class="">
+      <div class="">
+        
+        <a href="/collections/new" itemprop="url">
+          <span itemprop="name">New</span>
+        </a></div>
+    </li><li class="">
+      <div class="has-dropdown mega-menu-trigger">
+        
+        <a href="/collections/clothing" itemprop="url">
+          <span itemprop="name">Clothing</span>
+        </a><div id="shopify-section-mega_menu_1" class="shopify-section mega-menu-section"><style>
+  /* reset styles */
+  #shopify-section-mega_menu_1 .mega-menu a {padding: 0;}
+  /* end reset */
+</style>
+
+<div class="submenu mega-menu"><div class="container"><div class="mega-menu-content"><div class="column text-left" style="width: 20%; padding: 1.5em 1.5em 3em;"><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/dresses" itemprop="url">
+                    	Dresses
+                	</a></div><div class="link" itemprop="name">
+                  <a href="/collections/dresses" itemprop="url">All Dresses</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/dresses-mini" itemprop="url">Mini</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/dresses-midi-maxi" itemprop="url">Midi &amp; Maxi</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/little-black-dresses" itemprop="url">Little Black Dresses</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/dresses-day" itemprop="url">Day</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/dresses-party" itemprop="url">Party</a>
+                </div></div><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/jumpsuits-rompers" itemprop="url">
+                    	Rompers &amp; Jumpsuits
+                	</a></div></div><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/sets" itemprop="url">
+                    	Sets
+                	</a></div></div><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/tops" itemprop="url">
+                    	Tops
+                	</a></div><div class="link" itemprop="name">
+                  <a href="/collections/tops" itemprop="url">All Tops</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/tops-shirts-blouses" itemprop="url">Shirts &amp; Blouses</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/tops-t-shirts" itemprop="url">T-shirt</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/tank-tops" itemprop="url">Tanks</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/crop-tops" itemprop="url">Crop Tops</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/tops-bodysuits" itemprop="url">Bodysuits</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/outerwear-sweaters-sweatshirts" itemprop="url">Sweaters &amp; Sweatshirts</a>
+                </div></div></div><div class="column text-left" style="width: 20%; padding: 1.5em 1.5em 3em;"><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/outerwear" itemprop="url">
+                    	Outerwear
+                	</a></div><div class="link" itemprop="name">
+                  <a href="/collections/outerwear" itemprop="url">ALL OUTERWEAR</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/outerwear-sweaters-sweatshirts" itemprop="url">SWEATERS &amp; SWEATSHIRTS</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/outerwear-jackets-coats" itemprop="url">JACKETS &amp; COATS</a>
+                </div></div><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/bottoms" itemprop="url">
+                    	Bottoms
+                	</a></div><div class="link" itemprop="name">
+                  <a href="/collections/bottoms" itemprop="url">ALL BOTTOMS</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/bottoms-pants" itemprop="url">PANTS</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/bottoms-skirts" itemprop="url">SKIRTS</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/bottoms-shorts" itemprop="url">SHORTS</a>
+                </div></div><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/swimwear" itemprop="url">
+                    	SWIM
+                	</a></div></div><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/sale" itemprop="url">
+                    	Sale Clothing
+                	</a></div></div><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/plus-size-curve-clothing" itemprop="url">
+                    	Plus Size Clothing
+                	</a></div></div><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/back-in-stock" itemprop="url">
+                    	BACK IN STOCK
+                	</a></div></div></div><div class="column text-left" style="width: 20%; padding: 1.5em 0.5em 3em;"><div class="image-caption-link"><a href="/collections/lookbook-its-a-vibe"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="//cdn.shopify.com/s/files/1/0141/3267/4618/files/Category_nav_clothing_A_13022019_500x.png?v=1550072715" alt="" class="lazy"></a></div></div><div class="column text-left" style="width: 20%; padding: 1.5em 0.5em 3em;"><div class="image-caption-link"><a href="/collections/lookbook-freshly-picked"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="//cdn.shopify.com/s/files/1/0141/3267/4618/files/Category_nav_clothing_A_06022019_500x.png?v=1549466410" alt="" class="lazy"></a></div></div></div></div></div>
+
+</div></div>
+    </li><li class="">
+      <div class="has-dropdown mega-menu-trigger">
+        
+        <a href="/collections/tops" itemprop="url">
+          <span itemprop="name">Tops</span>
+        </a><div id="shopify-section-mega_menu_2" class="shopify-section mega-menu-section"><style>
+  /* reset styles */
+  #shopify-section-mega_menu_2 .mega-menu a {padding: 0;}
+  /* end reset */
+</style>
+
+<div class="submenu mega-menu"><div class="container"><div class="mega-menu-content"><div class="column text-left" style="width: 20%; padding: 1.5em 1.5em 3em;"><div class="column-menu"><div class="link" itemprop="name">
+                  <a href="/collections/tops" itemprop="url">All tops</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/tops-shirts-blouses" itemprop="url">SHIRTS &amp; BLOUSES</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/tank-tops" itemprop="url">TANKS</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/crop-tops" itemprop="url">CROP TOPS</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/tops-bodysuits" itemprop="url">BODYSUITS</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/outerwear-sweaters-sweatshirts" itemprop="url">SWEATERS &amp; SWEATSHIRTS</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/plus-size-tops" itemprop="url">PLUS SIZE TOPS</a>
+                </div></div></div><div class="column text-left" style="width: 34%; padding: 1.5em 1.5em 3em;"><div class="image-caption-link"><a href="/collections/crop-tops"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="//cdn.shopify.com/s/files/1/0141/3267/4618/files/Category_nav_tops_13022019_500x.png?v=1550072716" alt="" class="lazy"></a></div></div></div></div></div>
+
+</div></div>
+    </li><li class="">
+      <div class="has-dropdown mega-menu-trigger">
+        
+        <a href="/collections/dresses" itemprop="url">
+          <span itemprop="name">Dresses</span>
+        </a><div id="shopify-section-mega_menu_3" class="shopify-section mega-menu-section"><style>
+  /* reset styles */
+  #shopify-section-mega_menu_3 .mega-menu a {padding: 0;}
+  /* end reset */
+</style>
+
+<div class="submenu mega-menu"><div class="container"><div class="mega-menu-content"><div class="column text-left" style="width: 20%; padding: 1.5em 1.5em 3em;"><div class="column-menu"><div class="link" itemprop="name">
+                  <a href="/collections/dresses" itemprop="url">ALL DRESSES</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/dresses-mini" itemprop="url">MINI</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/dresses-midi-maxi" itemprop="url">MIDI &amp; MAXI</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/dresses-day" itemprop="url">DAY</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/dresses-party" itemprop="url">PARTY</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/rompers-jumpsuits" itemprop="url">ROMPERS &amp; JUMPSUITS</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/sets" itemprop="url">SETS</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/little-black-dresses" itemprop="url">LITTLE BLACK DRESSES</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/plus-size-dresses" itemprop="url">PLUS SIZE DRESSES</a>
+                </div></div></div><div class="column text-left" style="width: 34%; padding: 1.5em 1.5em 3em;"><div class="image-caption-link"><a href="/collections/dresses-mini"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="//cdn.shopify.com/s/files/1/0141/3267/4618/files/Category_nav_dresses_13022019_500x.png?v=1550072715" alt="" class="lazy"></a></div></div></div></div></div>
+
+</div></div>
+    </li><li class="">
+      <div class="has-dropdown mega-menu-trigger">
+        
+        <a href="/collections/plus-size-curve-clothing" itemprop="url">
+          <span itemprop="name">Plus &amp; Curve</span>
+        </a><div id="shopify-section-mega_menu_4" class="shopify-section mega-menu-section"><style>
+  /* reset styles */
+  #shopify-section-mega_menu_4 .mega-menu a {padding: 0;}
+  /* end reset */
+</style>
+
+<div class="submenu mega-menu"><div class="container"><div class="mega-menu-content"><div class="column text-left" style="width: 20%; padding: 1.5em 1.5em 3em;"><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/plus-size-dresses" itemprop="url">
+                    	Dresses
+                	</a></div></div><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/plus-size-tops" itemprop="url">
+                    	Tops
+                	</a></div></div><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/plus-size-rompers-jumpsuits" itemprop="url">
+                    	Rompers &amp; Jumpsuits
+                	</a></div></div><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/plus-size-bottoms" itemprop="url">
+                    	Bottoms
+                	</a></div><div class="link" itemprop="name">
+                  <a href="/collections/plus-size-pants" itemprop="url">Pants</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/plus-size-skirts" itemprop="url">Skirts</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/plus-size-shorts" itemprop="url">Shorts</a>
+                </div></div><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/plus-intimates" itemprop="url">
+                    	Plus Curve Intimates
+                	</a></div></div></div><div class="column text-left" style="width: 20%; padding: 1.5em 1.5em 3em;"><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/plus-size-outerwear" itemprop="url">
+                    	Outerwear
+                	</a></div><div class="link" itemprop="name">
+                  <a href="/collections/plus-size-sweaters-sweatshirts" itemprop="url">SWEATERS &amp; SWEATSHIRTS</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/plus-size-jackets-coats" itemprop="url">JACKETS &amp; COATS</a>
+                </div></div><div class="column-menu"><div class="linklist-title" itemprop="name">Trending
+</div><div class="link" itemprop="name">
+                  <a href="/collections/fresh-start" itemprop="url">Fresh Start</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/sassy-stripes" itemprop="url">Sassy Stripes</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/trending-plus-size-the-basics" itemprop="url">THE BASICS</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/warm-hues" itemprop="url">Warm Hues</a>
+                </div></div></div><div class="column text-left" style="width: 35%; padding: 1.5em 1.5em 3em;"><div class="image-caption-link"><a href="/collections/plus-size-curve-clothing"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="//cdn.shopify.com/s/files/1/0141/3267/4618/files/Category_nav_plus_06022019_500x.png?v=1549466534" alt="" class="lazy"></a></div></div></div></div></div>
+
+</div></div>
+    </li><li class="">
+      <div class="">
+        
+        <a href="/collections/accessories-shoes" itemprop="url">
+          <span itemprop="name">Shoes</span>
+        </a></div>
+    </li><li class="">
+      <div class="has-dropdown mega-menu-trigger">
+        
+        <a href="/collections/accessories" itemprop="url">
+          <span itemprop="name">Accessories</span>
+        </a><div id="shopify-section-mega_menu_5" class="shopify-section mega-menu-section"><style>
+  /* reset styles */
+  #shopify-section-mega_menu_5 .mega-menu a {padding: 0;}
+  /* end reset */
+</style>
+
+<div class="submenu mega-menu"><div class="container"><div class="mega-menu-content"><div class="column text-left" style="width: 20%; padding: 1.5em 1.5em 3em;"><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/accessories" itemprop="url">
+                    	All Accessories
+                	</a></div></div><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/jewelry" itemprop="url">
+                    	Jewelry
+                	</a></div><div class="link" itemprop="name">
+                  <a href="/collections/accessories-necklaces" itemprop="url">Necklaces</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/accessories-earrings" itemprop="url">Earrings</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/accessories-rings" itemprop="url">Rings</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/accessories-bracelets" itemprop="url">Bracelets</a>
+                </div></div><div class="column-menu"><div class="linklist-title" itemprop="name"><a href="/collections/other-accessories" itemprop="url">
+                    	Other Accessories
+                	</a></div><div class="link" itemprop="name">
+                  <a href="/collections/accessories-hat-hair" itemprop="url">HAT &amp; HAIR</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/accessories-scarves-gloves" itemprop="url">Scarves &amp; Gloves</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/accessories-sunglasses" itemprop="url">SUNGLASSES</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/accessories-belts" itemprop="url">Belts</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/accessories-socks-legwear" itemprop="url">Socks &amp; Legwear</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/accessories-for-phone" itemprop="url">Phone Accessories</a>
+                </div><div class="link" itemprop="name">
+                  <a href="/collections/accessories-fragrance" itemprop="url">FRAGRANCE</a>
+                </div></div></div><div class="column text-left" style="width: 34%; padding: 1.5em 1.5em 3em;"><div class="image-caption-link"><a href="/collections/accessories-sunglasses"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="//cdn.shopify.com/s/files/1/0141/3267/4618/files/Category_nav_accessories_13022019_500x.png?v=1550072711" alt="" class="lazy"></a></div></div></div></div></div>
+
+</div></div>
+    </li><li class="">
+      <div class="has-dropdown mega-menu-trigger">
+        
+        <a href="/pages/lookbooks" itemprop="url">
+          <span itemprop="name">Lookbooks</span>
+        </a><div id="shopify-section-mega_menu_6" class="shopify-section mega-menu-section"><style>
+  /* reset styles */
+  #shopify-section-mega_menu_6 .mega-menu a {padding: 0;}
+  /* end reset */
+</style>
+
+<div class="submenu mega-menu"><div class="container"><div class="mega-menu-content"><div class="column text-left" style="width: 20%; padding: 1.5em 0.5em 3em;"><div class="image-caption-link"><a href="/collections/lookbook-its-a-vibe"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="//cdn.shopify.com/s/files/1/0141/3267/4618/files/Category_nav_lookbook_13022019_500x.png?v=1550072713" alt="" class="lazy"></a></div></div><div class="column text-left" style="width: 20%; padding: 1.5em 0.5em 3em;"><div class="image-caption-link"><a href="/collections/lookbook-freshly-picked"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="//cdn.shopify.com/s/files/1/0141/3267/4618/files/Category_nav_lookbook_06022019_500x.png?v=1549466661" alt="" class="lazy"></a></div></div><div class="column text-left" style="width: 20%; padding: 1.5em 0.5em 3em;"><div class="image-caption-link"><a href="/collections/lookbook-city-girl"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="//cdn.shopify.com/s/files/1/0141/3267/4618/files/Category_nav_lookbook_30012019_500x.png?v=1548861233" alt="" class="lazy"></a></div></div><div class="column text-left" style="width: 20%; padding: 1.5em 0.5em 3em;"><div class="image-caption-link"><a href="/collections/lookbook-vday-shop"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="//cdn.shopify.com/s/files/1/0141/3267/4618/files/Category_nav_lookbook_23012019_500x.jpg?v=1548260416" alt="" class="lazy"></a></div></div><div class="column text-left" style="width: 20%; padding: 1.5em 1.5em 3em;"><div class="richtext">
+          <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Get Inspired:</p>
+<p><a href="/pages/lookbooks" title="Lookbooks">VIEW ALL LOOKBOOKS</a></p>
+        </div></div></div></div></div>
+
+</div></div>
+    </li><li class="">
+      <div class="">
+        
+        <a href="/pages/presale-winners" itemprop="url">
+          <span itemprop="name">Presale</span>
+        </a></div>
+    </li><li class="">
+      <div class="">
+        
+        <a href="/pages/sale" itemprop="url">
+          <span itemprop="name">Sale</span>
+        </a></div>
+    </li></ul>
+      </nav>
+      
+      <div class="top-utils">
+  <ul class="flex medium-down--row-reverse align-items-center justify-content-end">
+    
+    
+    <li class="search-target">
+      <a href="#">
+        <img src="//cdn.shopify.com/s/files/1/0141/3267/4618/files/search_button_new.png?964927497562014228">
+      </a>
+    </li>
+	
+    
+    <li class="user small--hide">
+      
+      <a href="/account/login" class="my-account animation">
+        <img src="//cdn.shopify.com/s/files/1/0141/3267/4618/files/user_button_new.png?964927497562014228">
+      </a>
+      
+    </li>
+    
+        
+    <li class="cart-wrap">
+      <a href="/cart">
+        <span class="text">SHOPPING CART</span>
+        <span>(</span><span class="count"></span><span>)</span>
+      </a>
+    </li>
+  </ul>
 </div>
-<script type="text/javascript" src="/js/local_v2/jquery-1.7.min.js"></script>    
-<script type="text/javascript" src="/js/local_v2/jquery-ui-1.8.16.custom.min.js"></script>
-<script type="text/javascript" src="/js/wetseal/ua-ws.js"></script>
-<script type="text/javascript" src="/js/wetseal/vendor/bootstrap.min.js"></script>
-<script type="text/javascript" src="/js/wetseal/vendor/slick.min.js"></script>
-<script src="//s3.amazonaws.com/shop.wetseal/js/vendor/jquery.rwdImageMaps.min.js"></script>
-<script src="//s3.amazonaws.com/shop.wetseal/js/vendor/jquery.countdown.min.js"></script>
-<script src="//s3.amazonaws.com/shop.wetseal/js/vendor/js.cookie.js"></script>
-<script src="//s3.amazonaws.com/shop.wetseal/js/main3.js?v=30"></script>
-<script src="//s3.amazonaws.com/shop.wetseal/js/parts/sps3.js?v=39"></script>
+      <div class="hide medium-down--show">
+        <a href="#menu-mobile" id="menu-mobile-button" class="lnr lnr-menu"></a>
+      </div>
+    </div>
+  </div>
+  <div class="menu-mobile animation">
+  <ul>
+    
+      <li>
+        
+          <a href="/collections/new">
+            New Arrivals
+          </a>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/collections/tops" class="parent">
+            Tops
+            <i class="fa fa-plus animation"></i>
+          </a>
+          <ul>
+            <li><a href="/collections/tops">
+        All Tops
+      </a></li><li><a href="/collections/tops-shirts-blouses">
+        SHIRTS &amp; BLOUSES
+      </a></li><li><a href="/collections/tops-t-shirts">
+        T-SHIRTS
+      </a></li><li><a href="/collections/tank-tops">
+        TANKS
+      </a></li><li><a href="/collections/crop-tops">
+        CROP TOPS
+      </a></li><li><a href="/collections/tops-bodysuits">
+        BODYSUITS
+      </a></li><li><a href="/collections/outerwear-sweaters-sweatshirts">
+        SWEATERS &amp; SWEATSHIRTS
+      </a></li><li><a href="/collections/plus-size-tops">
+        PLUS SIZE TOPS
+      </a></li>
+          </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/collections/dresses" class="parent">
+            Dresses
+            <i class="fa fa-plus animation"></i>
+          </a>
+          <ul>
+            <li><a href="/collections/dresses">
+        ALL DRESSES
+      </a></li><li><a href="/collections/dresses-mini">
+        MINI
+      </a></li><li><a href="/collections/dresses-midi-maxi">
+        MIDI &amp; MAXI
+      </a></li><li><a href="/collections/dresses-day">
+        DAY
+      </a></li><li><a href="/collections/dresses-party">
+        PARTY
+      </a></li><li><a href="/collections/rompers-jumpsuits">
+        ROMPERS &amp; JUMPSUITS
+      </a></li><li><a href="/collections/little-black-dresses">
+        LITTLE BLACK DRESSES
+      </a></li><li><a href="/collections/plus-size-dresses">
+        PLUS SIZE DRESSES
+      </a></li>
+          </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/collections/bottoms" class="parent">
+            Bottoms
+            <i class="fa fa-plus animation"></i>
+          </a>
+          <ul>
+            <li><a href="/collections/bottoms">
+        ALL BOTTOMS
+      </a></li><li><a href="/collections/bottoms-pants">
+        PANTS
+      </a></li><li><a href="/collections/bottoms-skirts">
+        SKIRTS
+      </a></li><li><a href="/collections/bottoms-shorts">
+        SHORTS
+      </a></li>
+          </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/collections/outerwear" class="parent">
+            Outerwear
+            <i class="fa fa-plus animation"></i>
+          </a>
+          <ul>
+            <li><a href="/collections/outerwear">
+        ALL OUTERWEAR
+      </a></li><li><a href="/collections/outerwear-sweaters-sweatshirts">
+        SWEATERS AND SWEATSHIRTS
+      </a></li><li><a href="/collections/outerwear-jackets-coats">
+        JACKETS &amp; COATS
+      </a></li>
+          </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/collections/plus-size-curve-clothing" class="parent">
+            Plus &amp; Curve
+            <i class="fa fa-plus animation"></i>
+          </a>
+          <ul>
+            <li><a href="/collections/plus-size-dresses">
+        Dresses
+      </a></li><li><a href="/collections/plus-size-tops">
+        Tops
+      </a></li><li><a href="/collections/plus-size-rompers-jumpsuits">
+        ROMPERS &amp; JUMPSUITS
+      </a></li><li><a href="#" class="parent">
+        BOTTOMS
+        <i class="fa fa-plus animation"></i>
+      </a>
+      <ul><li><a href="/collections/plus-size-pants">
+        PANTS
+      </a></li><li><a href="/collections/plus-size-skirts">
+        SKIRTS
+      </a></li><li><a href="/collections/plus-size-shorts">
+        SHORTS
+      </a></li></ul></li><li><a href="#" class="parent">
+        OUTERWEAR
+        <i class="fa fa-plus animation"></i>
+      </a>
+      <ul><li><a href="/collections/plus-size-sweaters-sweatshirts">
+        SWEATERS &amp; SWEATSHIRTS
+      </a></li><li><a href="/collections/plus-size-jackets-coats">
+        JACKETS &amp; COATS
+      </a></li></ul></li><li><a href="#" class="parent">
+        TRENDING
+        <i class="fa fa-plus animation"></i>
+      </a>
+      <ul><li><a href="/collections/fresh-start">
+        Fresh Start
+      </a></li><li><a href="/collections/sassy-stripes">
+        Sassy Stripes
+      </a></li><li><a href="/collections/trending-plus-size-the-basics">
+        THE BASICS
+      </a></li><li><a href="/collections/warm-hues">
+        Warm Hues
+      </a></li></ul></li>
+          </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/collections/accessories-shoes">
+            Shoes
+          </a>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/collections/accessories" class="parent">
+            Accessories
+            <i class="fa fa-plus animation"></i>
+          </a>
+          <ul>
+            <li><a href="/collections/accessories">
+        ALL ACCESSORIES
+      </a></li><li><a href="#" class="parent">
+        JEWELRY
+        <i class="fa fa-plus animation"></i>
+      </a>
+      <ul><li><a href="/collections/accessories-necklaces">
+        NECKLACES
+      </a></li><li><a href="/collections/accessories-earrings">
+        EARRINGS
+      </a></li><li><a href="/collections/accessories-rings">
+        RINGS
+      </a></li><li><a href="/collections/accessories-bracelets">
+        BRACELETS
+      </a></li></ul></li><li><a href="#" class="parent">
+        OTHER ACCESSORIES
+        <i class="fa fa-plus animation"></i>
+      </a>
+      <ul><li><a href="/collections/accessories-hat-hair">
+        HAT &amp; HAIR
+      </a></li><li><a href="/collections/accessories-belts">
+        BELTS
+      </a></li><li><a href="/collections/accessories-scarves-gloves">
+        SCARVES &amp; GLOVES
+      </a></li><li><a href="/collections/accessories-sunglasses">
+        SUNGLASSES
+      </a></li><li><a href="/collections/accessories-socks-legwear">
+        SOCKS &amp; LEGWEAR
+      </a></li><li><a href="/collections/accessories-for-phone">
+        PHONE ACCESSORIES
+      </a></li><li><a href="/collections/accessories-fragrance">
+        FRAGRANCE
+      </a></li></ul></li>
+          </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/pages/lookbooks" class="parent">
+            Lookbooks
+            <i class="fa fa-plus animation"></i>
+          </a>
+          <ul>
+            <li><a href="/collections/lookbook-its-a-vibe">
+        It's Vibe
+      </a></li><li><a href="/collections/lookbook-freshly-picked">
+        Freshly Picked
+      </a></li><li><a href="/collections/lookbook-city-girl">
+        City Girl
+      </a></li><li><a href="/collections/lookbook-vday-shop">
+        Kiss Kiss
+      </a></li>
+          </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/collections/presale">
+            Presale
+          </a>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/pages/sale">
+            Sale
+          </a>
+        
+      </li>
+    
+    <li class="last">
+      <a href="/account">
+        LOGIN / REGISTER
+      </a>
+    </li>
+  </ul>
+</div>
 
-<!-- Recommendation Engine -->
-<!--<script type="text/javascript" src="/js/bg-omen-client.js"></script>
-<script type="text/javascript" src="/js/wetseal/recommendations.js"></script>
-<script type="text/javascript" src="/js/wetseal/medialazyload.js"></script>-->
-<!-- END Recommendation Engine -->  
-        <!-- Google Tag Manager (noscript) -->
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KVPWV8N"
-                          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        <!-- End Google Tag Manager (noscript) -->
-        <!-- Google Tag Manager -->
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-KVPWV8N');</script>
-        <!-- End Google Tag Manager -->
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"939afae52c","applicationID":"29169027","transactionName":"YgEHMEVQVxBUVEZdW1tLJhFERVYOGlRfRxtcCgEBTw==","queueTime":0,"applicationTime":106,"atts":"TkYQRg1KRE8XVhAOT0gZ","errorBeacon":"bam.nr-data.net","agent":""}</script>
-</body></html>
+<script>
+  $(function() {
+    $("#menu-mobile-button").click(function(){
+      var menuHeight = $(window).height() - ($('#header .main-content').outerHeight() + $('#utility-bar:visible').outerHeight());
+      $('.menu-mobile').height(menuHeight);
+
+      $(this).toggleClass('lnr-menu').toggleClass('lnr-cross');
+      $('.menu-mobile').toggleClass('open');
+      if($('.menu-mobile').hasClass('open')) {
+        $('body, html').css({overflow: 'hidden'});
+      } else {
+        $('body, html').css({overflow: 'auto'});
+      }
+      return false;
+    });
+    $("#menu-mobile .close").click(function(){
+      $('.menu-mobile').removeClass('open');
+      $('body, html').css({overflow: 'auto'});
+      return false;
+    });
+    $(".menu-mobile a.parent i").click(function(){
+      var parent = $(this).parent().parent();
+      parent.find('ul:first').toggle();
+      parent.find('i:first').toggleClass('fa-plus').toggleClass('fa-minus');
+      return false;
+    });
+  });
+</script>
+</header>
+
+
+	<div class="header header-drop ease-animation-slow">
+  <div class="container">
+    <div class="main-content flex align-items-center medium-down--align-items-center">
+      <div class="logo">
+        <a href="/"><img src="//cdn.shopify.com/s/files/1/0141/3267/4618/t/14/assets/logo.png?964927497562014228" alt="Wet Seal"></a>
+      </div>
+      <nav class="main-menu flex-1 medium-down--hide"></nav>
+      
+      <div class="top-utils">
+  <ul class="flex medium-down--row-reverse align-items-center justify-content-end">
+    
+    
+    <li class="search-target">
+      <a href="#">
+        <img src="//cdn.shopify.com/s/files/1/0141/3267/4618/files/search_button_new.png?964927497562014228">
+      </a>
+    </li>
+	
+    
+    <li class="user small--hide">
+      
+      <a href="/account/login" class="my-account animation">
+        <img src="//cdn.shopify.com/s/files/1/0141/3267/4618/files/user_button_new.png?964927497562014228">
+      </a>
+      
+    </li>
+    
+        
+    <li class="cart-wrap">
+      <a href="/cart">
+        <span class="text">SHOPPING CART</span>
+        <span>(</span><span class="count"></span><span>)</span>
+      </a>
+    </li>
+  </ul>
+</div>
+      <div class="hide medium-down--show">
+        <a href="#menu-mobile" id="menu-mobile-button" class="lnr lnr-menu"></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div id="search-fullscreen" class="search-mailing animated">
+  <i class="icon-close lnr lnr-cross"></i>
+  <div class="form animated">
+    <form action="/search" method="get" class="search-form">
+      <div class="title">What are you looking for?</div>
+      <div class="clearfix">
+        <input type="text" class="input-search animation searchspring-query" name="q" value="" accesskey="4" autocomplete="off" placeholder="Search">
+        <input type="submit" class="lnr animation input-icon" value="">
+        <input type="hidden" name="view" value="spring">
+      </div>
+    </form>
+  </div>
+</div>
+<script>
+  $(function(){
+    $('.search-target').click( function(){
+      $('body').css({'overflow': 'hidden'});
+      $('#search-fullscreen').fadeIn();
+      $('#search-fullscreen .form').show().addClass('fadeInLeft');
+      $('#search-fullscreen i.lnr-cross').fadeIn();
+      $('#search-fullscreen .input-search').focus();
+      return false;
+    });
+    $('#search-fullscreen i.lnr-cross').click( function(){
+      $('body').css({'overflow': 'auto'});
+      $('#search-fullscreen .form').fadeOut().removeClass('fadeInLeft');
+      $('#search-fullscreen i.fa-close').fadeOut();
+      $('#search-fullscreen').fadeOut();
+      return false;
+    });
+    $('.search-form').on('submit', function(e){
+      e.stopPropagation();
+      e.preventDefault();
+      var query = $(this).serialize();
+      window.location = '/search?'+query;
+    });
+  });
+</script>
+
+
+
+<script>
+  $(function(){
+    function contentPaddingTop(){
+      setTimeout(function(){
+        $('.content-wrapper').css('padding-top', $('#header').height());
+        $(window).resize(function(){          
+          $('.content-wrapper').css('padding-top', $('#header').height());
+        });
+      }, 300);
+    }
+    
+    if($(window).width() > 900){
+      contentPaddingTop();
+    }
+    
+  });
+</script>
+
+<script>
+  $(function(){
+  	var itemsCount = 0;
+    $('.mini-cart .cart-items .cart-item').each(function(){
+      itemsCount += parseInt($(this).data('qty'));
+    });
+    $('.header .cart-wrap span.count').html(itemsCount);
+    
+    if($('.mini-cart .cart-item').length > 4) {
+      require('slick',function(){
+        $('.mini-cart .cart-items').slick({
+          slidesToShow: 4,
+          slidesToScroll: 1,
+          prevArrow: '<i class="lnr lnr-chevron-left left-arrow animation"></i>',
+          nextArrow: '<i class="lnr lnr-chevron-right right-arrow animation"></i>'
+        });
+      });
+    }
+    
+    $('.mini-cart .close').click(function(){
+    	closeMiniCart();
+    });
+  });
+</script>
+
+
+
+
+
+
+
+
+	<script>
+      $(function(){
+        $('.mini-cart .remove a').click(function(){
+          if(window['google_tag_manager']) {
+            var redirect = $(this).attr('href');
+            var data = select.closest('.cart-item').data('analytics');
+
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+              'ecommerce': {
+                'remove': {
+                  'products': [data]
+                }
+              },
+              'event': 'removeFromCart',
+              'eventCallback': function(){
+                  window.location = redirect;
+              },
+              'eventTimeout': 2000
+            });
+          	return false;
+          }
+        });
+
+        require('simplistic', function() {
+          
+		});
+      });
+	</script>
+
+
+
+
+
+
+
+
+<style>
+  .mini-cart {height: 0; overflow: hidden; position: fixed; z-index: 101; width: 100%; background: #fff;}
+  .mini-cart .wrapper {border-bottom: 1px solid #eee; border-top: 1px solid #eee; padding: 2em; position: relative;}
+  .mini-cart .wrapper .close {position: absolute; right: 0.5em; top: 0.5em; color: #000; font-size: 2em; cursor: pointer;}
+  .mini-cart .wrapper > .grid {margin-left: -3em;}
+  .mini-cart .wrapper > .grid > .grid__item {padding-left: 3em;}
+  .mini-cart .cart-item {text-align: center; line-height: 175%; text-transform: uppercase;}
+  .mini-cart .cart-item.slick-slide {padding: 0;}
+  .mini-cart .cart-item img {width: 100%; margin-bottom: 0.5em;}
+  .mini-cart .cart-item .red {color: red;}
+  .mini-cart .cart-item .remove {text-decoration: underline;}
+  .mini-cart .slick-slider .slick-arrow {display: flex; display: -webkit-flex; justify-content: center; align-items: center; width: 1.8em; height: 1.8em; background: rgba(255,255,255,0.7); border-radius: 50%; color: #000; font-size: 1.8em;}
+  .mini-cart .slick-slider .slick-arrow.right-arrow {right: 0.5em;}
+  .mini-cart .slick-slider .slick-arrow.left-arrow {left: 0.5em;}
+  .mini-cart .summary {text-align: center;}
+  .mini-cart .summary .btn {display: block; margin-bottom: 1em;}
+  .mini-cart .summary .price {font-size: 2em; margin-bottom: 1em;}
+  .mini-cart .summary .taxes {font-size: 1.2em; margin-bottom: 1em;}
+  .mini-cart .summary .taxes div:last-of-type {margin-top: 0.5em;}
+  .mini-cart .summary .original-price, .mini-cart .summary .discount {font-size: 1.2em;}
+  .mini-cart .summary .discount {margin-bottom: 1.5em; margin-top: 0.3em;}
+  .mini-cart .empty {text-align: center; font-size: 1.2em;}
+</style>
+
+<div class="mini-cart">
+  <div class="wrapper">
+    <div class="close"><i class="lnr lnr-cross"></i></div>
+    
+    
+    	<div class="empty">Your basket is empty</div>
+    
+  </div>
+</div>
+<div class="addtocart-success-banner"><span data-product-title="">The item</span> has been added to cart.</div>
+    <div class="content-wrapper clearfix">
+      
+
+
+
+  <div id="utility-bar2" class="small--hide">
+    <div class="container">
+      <div class="grid-full">
+      
+        
+        
+        
+          <div class="grid__item one-third medium-down--one-whole">
+            <a href="/collections/promo-sale-2">
+            <div>60% off select styles</div>
+            </a>
+          </div>
+        
+      
+        
+        
+        
+          <div class="grid__item one-third medium-down--one-whole">
+            <a href="/collections/promo-sale-4">
+            <div>Shoes &amp; Accessories: Buy 2 Get 1 Free</div>
+            </a>
+          </div>
+        
+      
+        
+        
+        
+          <div class="grid__item one-third medium-down--one-whole">
+            <a href="/collections/promo-sale-1">
+            <div>40% Off Bottoms</div>
+            </a>
+          </div>
+        
+      
+      </div>
+    </div>
+  </div>
+
+
+<script>
+  $(function(){
+    function mobileCollapse(){
+      if($(window).width() < 900){
+        $(window).scroll(function(){
+          if($(this).scrollTop() > 50){
+            $('#utility-bar').slideUp(300);
+          }else{
+            $('#utility-bar').slideDown(300);
+          }
+        });
+      }
+    }
+    mobileCollapse();
+    $(window).resize(function(){
+      mobileCollapse();
+    });
+    
+    function mobileCarousel(){
+      require("slick", function(){
+        if($(window).width() > 599 && $(window).width() < 901){
+            if(!$('#utility-bar2 .grid-full').hasClass('slick-slider')){
+                $('#utility-bar2 .grid-full').slick({
+                    autoplay: true,
+                    pauseOnHover: false,
+                    speed: 1000,
+                    prevArrow: '<i class="lnr lnr-chevron-left left-arrow"></i>',
+                    nextArrow: '<i class="lnr lnr-chevron-right right-arrow"></i>'
+                });
+            }
+        }else{
+            if($('#utility-bar2 .grid-full').hasClass('slick-slider')){
+                $('#utility-bar2 .grid-full').slick('unslick');
+            }
+        }
+      });
+    }
+    mobileCarousel();
+    $(window).resize(function(){
+        mobileCarousel();
+    });
+
+  });
+</script>
+      <div class="page privacy-policy legal container">
+  <h1>PRIVACY POLICY</h1>
+  <p>Privacy is important to Wet Seal. Making sure that you know how we collect, use, share, and secure information on <a href="https://wetseal.com">wetseal.com</a> (this “Website”) is also important to us. This Privacy Policy (“Policy”) is made a part of our Website’s Terms of Use. This Policy describes our privacy practices with respect to information collected by or submitted to us on <a href="https://wetseal.com">wetseal.com</a>.</p>
+<h2>Information We Collect.</h2>
+<p>We collect both personal and non-personal information from you when communicating or interacting with you through <a href="https://wetseal.com">wetseal.com</a>. When we use the phrase “personal information” we mean any information that we can use to identify, locate, or contact you, for example, information that you provide to us such as your name, address, age, gender, telephone number, email address, payment information (including your credit or debit card number), and/or photos or video footage of you.</p>
+<h2>How Information Is Collected.</h2>
+<p>By Asking. On our Website, we may ask you to give us information. If you want to sign up for our mailing list, we will ask for your email, mobile number, or mailing address. If you compete in our Model Search competition, we’ll ask for your name, phone number, email address, location, mailing address, birthday, hair and eye color, height and weight, clothing and shoe size, along with pictures of you. If you sign up for our sweepstakes, contests or other promotions, we will ask for information such as your name, email address, location, mailing address and phone number. If you are selected as a winner in one of our sweepstakes, contests or other promotions, depending on the nature of the promotion and value of the prize awarded, we may ask for additional personal information including, without limitation, your age and social security number (for tax-reporting purposes).</p>
+<h2>When You Provide it to Us:</h2>
+<p>We may also collect personal information from you directly when you provide it to us, for example, when you request products or services from us, respond to surveys, apply for a job, register for an online account, create a “Wish List”, leave a product review, contact us with a comment, question or complaint, subscribe to our email newsletter or other communications from us or manage your preferences with us, or otherwise interact with us. We also collect customer information like your name, credit or debit card information, phone number, mailing address, email address, and billing address when you request that merchandise be sent to you or others, make purchases or returns with us, place an order with us online, or request an e-receipt.</p>
+<h2>Social Media.</h2>
+<p>If you agree to receive text messages from Wet Seal we may use an automatic telephone dialing system to contact you. You are not required to consent to receive text messages in order to obtain products or services from Wet Seal. Standard messaging rates apply. We, or our partners, may send you up to six (6) texts per month. If you would like to stop receiving text messages at any time you can reply to any message with the word “STOP” or text the word “STOP” to short code 77053. We may send you one additional confirmatory message to let you know that we’ve received your request.</p>
+<h2>Cookies.</h2>
+<p>Each time you visit our Website, our web server automatically recognizes your domain name and what type of browser you are using, by using “cookies,” which are small text files on your computer that identify you as a unique user. These help us measure your activity and personalize and improve your experience at Wet Seal. If you don’t want us to use cookies, you can set your browser to delete them, or you can manually delete the cookies. If you do this, you might have trouble accessing and using some of Wet Seal’s Website pages.</p>
+<h2>Web Beacons.</h2>
+<p>We also use web beacons, which let us count and recognize users who visit our Website. This lets us see if you respond to emails that we sent to you by clicking on a link in the email, so we can know whether the emails we send are effective. If you don’t want web beacons in the email, you can turn off HTML display of the email. IP Address.</p>
+<p>When you visit our Website, we also collect and save the Internet Protocol address of the device you are using, like whether you are using a personal computer or a mobile device.</p>
+<h2>Geo-location.</h2>
+<p>Geo-location technology refers to technology that lets us determine your location. We may ask you to manually provide precise location information on our Website, or to enable your mobile device to send us precise location information. We may also automatically use information from your web server or computer to determine general location information, such as the city in which you live.</p>
+<h2>What We Do With Your Information and Your Choices</h2>
+<p>When you provide us with your name, email address, and mailing address, we may add your information to our mailing list, and we may send you emails and mailings announcing product information, promotional events, or updates to our Website. If you give us your birth date, we may also send you a special gift on your birthday by email or postal mail. If you don’t want to get anymore emails or mailings, send an email to <a href="mailto:hello@wetseal.com">hello@wetseal.com</a> with your email address or postal address or call 1(844) 938 7325. If you don’t want to wait on the phone to opt-out of our emails, you may also click on the opt-out link at the bottom of each email. From time to time, our Website hosts sweepstakes, contests and other promotions, and we may let you submit your information electronically. If we do this, we will use the information you provide to conduct the promotion. We may also send you marketing communications and other information and materials you have chosen to receive regarding our merchandise, services, promotions or special events.</p>
+<p>How We Share Your Information.</p>
+<p>We may share your information in the following ways.</p>
+<ul>
+<li>Sharing Your Information With Other Companies.We may share name and address information with other companies that offer similar products. If you are on our mailing list and would prefer not to have your name shared with other companies, email <a href="mailto:hello@wetseal.com">hello@wetseal.com</a> and ask that your name not be shared.</li>
+<li>Sharing Your Information With Service Providers.We may share your information with companies or individuals that provide us with services. These services may include, among other things, helping us to provide services that you request, to create or maintain our databases, to research and analyze the people who request products, services, or information from us, to prepare and distribute communications, to respond to inquiries, or to process payments.</li>
+<li>Law Enforcement and Legal Process. We may report to law enforcement agencies any activities that we think may be unlawful. For example, we may provide information to law enforcement agencies if we believe that you have violated our polices, or the release of your information may protect the rights, property, or safety of Wet Seal, or another person.</li>
+<li>Sharing Your Information as Permitted By Law. We may share your information with others as required by, or permitted by, law. This may include sharing your information with government entities, or third parties in response to subpoenas, court orders, or other legal process, or as we believe is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine in our sole discretion might be brought against us. • Business Transition. As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.</li>
+<li>Interest-Based Advertising. Wet Seal participates in interest-based (online behavior) advertising. This means that a third party may use technology, such as a cookie on your browser or a web beacon, to identify you on our Website so that they can provide advertising about products and services tailored to your interest. You may see advertising on our Website tailored to how you browse or shop, or you may see advertising for Wet Seal products on other websites based on your browsing behavior across different websites.</li>
+<li>Blogs, Online Postings, and Testimonials.We may decide to let users share comments, postings, reviews, testimonials, or other information. If you choose to submit this type of information to us, the information you submit may be available generally to the public. Information you provide in these areas may be read, collected, and used by others who access them. If you decide to write a review about a Wet Seal product on Facebook or another social media website, remember that this information is governed by Facebook or the other website’s privacy policy and this information may be viewed by the general public.</li>
+<li>Other Third Parties. We may share your information with other third parties as we deem appropriate.</li>
+</ul>
+<h2>How We Secure Your Information.</h2>
+<p>While no data transmission over the Internet is 100% secure from intrusion, we take reasonable and appropriate measures to help keep your information secure, and to help prevent it from becoming disclosed to people who we didn’t mention in this policy. Even though we follow reasonable procedures to protect the information in our possession, no security system is perfect and we can’t promise, and you shouldn’t expect, that your information will be secure in all circumstances. Therefore, any transmission of personal information to us is made at your own risk. If you believe that your interaction with us is no longer secure, please notify us using the contact details below.</p>
+<h2>How We Communicate With You.</h2>
+<p>If you have any questions about this Policy, you can contact us via the Contacting Us link. You may also write to us at: Wet Seal: 800 Boylston Street, 27th Floor, Boston, MA 02199 If we need, or are required, to contact you concerning any event that involves your information, we may do so by email, telephone, or mail. Other Information. Children We do not seek or knowingly collect or store any personal information from children under the age of 13. If you are a parent or guardian and believe we may have inadvertently collected such information from your child, please notify us immediately by sending an email to <a href="mailto:hello@wetseal.com">hello@wetseal.com</a> . As required by law, we will delete such information from our files within a reasonable time.</p>
+<h2>Links to Other Websites</h2>
+<p>We are not responsible for the practices employed by websites linked to or from our Website nor the information or content contained therein. We may provide links to other websites to you solely as a convenience, and the inclusion of linked sites does not imply endorsement by Wet Seal of any of the linked sites. Please remember that when you use a link to go from our Website to another site, including any social media site, our Policy is no longer in effect. Your browsing and interaction on any other site, including those that have a link on our Website, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding. We do not ensure the security of your personal information if you visit websites not belonging to Wet Seal.</p>
+<h2>Changes to the Privacy Policy</h2>
+<p>We reserve the right to modify or change this policy at any time by posting the revised privacy policy on our Website. Material changes will only affect the information we collect after the effective date of the change to our privacy policy unless we clearly express otherwise.</p>
+<h2>IMPORTANT INFORMATION FOR CALIFORNIA RESIDENTS</h2>
+<p>Your California Privacy Rights. California Civil Code Section 1798.83 permits our customers who are California residents to request and obtain from us a list of what personal information (if any) we shared with third parties or corporate affiliates for those entities’ direct marketing purposes in the preceding calendar year, and the names and addresses of those third parties. Requests may be made only once a year and are free of charge. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Wet Seal: 800 Boylston Street, 27th Floor Boston, MA 02199. For all requests, you must put the statement “Wet Seal California Privacy Rights Notice” in the body of your request, as well as your name, street address, city, state, and zip code. You also need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via telephone, email, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.</p>
+<p>California Do Not Track Disclosures. California Business &amp; Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how a website operator responds to “Do Not Track” (DNT) browser settings. DNT is a feature offered by some browsers which, when enabled, sends a signal to websites to request that your browsing is not tracked, such as by third party ad networks, social networks and analytic companies. Wet Seal does not currently take actions to respond to DNT signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a DNT standard once one is created. For information about DNT, please visit: . <a href="http://allaboutdnt.org" target="_blank" rel="noopener noreferrer">www.allaboutdnt.org</a> [Revised 3/2017]</p>
+</div>
+    </div>
+    <div class="footer-wrap-mobile">
+  <footer id="footer">
+    <div class="container">
+      <div class="grid-full">
+        <div class="grid__item one-half medium-down--one-whole">
+          <ul class="links">
+            
+            <li class="first information">
+              <div class="title">INFORMATION</div>
+              <ul>
+                
+                <li class="first">
+                  <a href="mailto:hello@wetseal.com">Contact</a>
+                </li>
+                
+                <li class="">
+                  <a href="/pages/about">About</a>
+                </li>
+                
+                <li class="">
+                  <a href="/pages/returns">Returns</a>
+                </li>
+                
+                <li class="">
+                  <a href="/pages/legal">Terms of Use</a>
+                </li>
+                
+                <li class="">
+                  <a href="/pages/privacy-policy">Privacy Policy</a>
+                </li>
+                
+                <li class="last">
+                  <a href="https://www.wetseal.com/pages/afterpay">Afterpay</a>
+                </li>
+                
+              </ul>
+            </li>
+            
+            <li class=" follow">
+              <div class="title">FOLLOW</div>
+              <ul>
+                
+                <li class="first">
+                  <a href="https://www.facebook.com/wetseal" target="_blank">Facebook</a>
+                </li>
+                
+                <li class="">
+                  <a href="https://twitter.com/wetseal" target="_blank">Twitter</a>
+                </li>
+                
+                <li class="last">
+                  <a href="https://www.instagram.com/wetseal/" target="_blank">Instagram</a>
+                </li>
+                
+              </ul>
+            </li>
+            
+            <li class="last categories">
+              <div class="title">CATEGORIES</div>
+              <ul>
+                
+                <li class="first">
+                  <a href="/collections/tops">Tops</a>
+                </li>
+                
+                <li class="">
+                  <a href="/collections/dresses">Dresses</a>
+                </li>
+                
+                <li class="">
+                  <a href="/collections/bottoms">Bottoms</a>
+                </li>
+                
+                <li class="">
+                  <a href="/collections/outerwear">Outerwear</a>
+                </li>
+                
+                <li class="">
+                  <a href="/collections/accessories">Accessories</a>
+                </li>
+                
+                <li class="">
+                  <a href="/pages/lookbooks">Lookbooks</a>
+                </li>
+                
+                <li class="last">
+                  <a href="/collections/presale">Presale</a>
+                </li>
+                
+              </ul>
+            </li>
+            
+          </ul>
+        </div>
+
+        <div class="grid__item one-half medium-down--one-whole">
+          <div class="mailing-list">
+            <div class="title">SIGN UP FOR OUR NEWSLETTER FOR EXCLUSIVE PERKS</div>
+            
+            <form method="post" action="/contact">
+              <input type="hidden" value="customer" name="form_type">
+              <input type="hidden" name="contact[tags]" value="prospect,newsletter">
+              <input type="hidden" name="customer[accepts_marketing]" value="true" id="marketing">
+              <input type="email" placeholder="Enter email address..." id="email-input" name="contact[email]" class="required email">
+              <input type="submit" class="btn fa" value="" name="subscribe" id="email-submit">
+              <!--<i class="fa fa-arrow-right"></i>-->
+            </form>
+            
+            <div class="success hide">Thank you for signing up!</div>
+          </div>
+
+          
+          <ul class="social-links">
+  
+    <li>
+      <a target="_blank" href="https://www.facebook.com/wetseal">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+  
+  
+    <li>
+      <a target="_blank" href="https://twitter.com/wetseal">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+  
+  
+    <li>
+      <a target="_blank" href="https://www.instagram.com/wetseal">
+        <i class="fa fa-instagram"></i>
+      </a>
+    </li>
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</ul>
+          
+
+          <div id="payment-methods">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+          <div class="bottom">
+            <div>©2019 Wet Seal — <span> All rights reserved</span></div>
+          </div>
+        </div>
+      </div>
+    </div>  
+  </footer>
+</div>
+
+<script>
+  $('#footer .mailing-list form').submit(function(e){
+    e.preventDefault();
+    e.stopImmediatePropagation();
+    var form = $(this);
+
+    $(this).find('.error').removeClass('error');
+
+    var error = false;
+    $(this).find('.required').each(function(){
+      if($(this).val()=="") {
+        error = true;
+        $(this).addClass('error');
+      }
+    });
+    if(!error) {
+      if(!Simplistic.validateEmail($(this).find('.email').val())) {
+        error = true;
+        $(this).find('.email').addClass('error');
+      }
+    }
+
+    if(!error) {
+      var form = $(this);
+      $.ajax({
+        url: form.attr('action'),
+        data: form.serialize(),
+        
+        type: 'POST'
+      }).done(function(){
+        $(document).trigger("newsletter-subscribed", ["Footer"]);
+        $('#footer .mailing-list form').fadeOut(function(){
+          $('#footer .mailing-list .success').fadeIn();
+        });
+      }).error(function(){
+        form.unbind("submit");
+        form.submit();
+      });
+    }
+  });
+</script>
+ 
+    <div id="loading-overlay"><div class="loader"></div></div>
+    <div class="wishlistModalMessage">Product added to favorites.</div>
+    
+    
+    
+    
+<script type="text/javascript">
+  var iwish_shop = "wetseal-store.myshopify.com";
+  var iwish_pro_template = false;
+  var iwish_cid = "";
+  //Add to Wishlist - Product Page Text
+  var iwish_added_txt = '<div class="btn btn-secondary">Added in Wishlist</div>';
+  var iwish_add_txt = '<div class="btn btn-secondary">Add to Wishlist</div>';
+  //Add to Wishlist - Collection Page Text
+  var iwish_added_txt_col = '<i class="fa fa-heart" aria-hidden="true"></i>';
+  var iwish_add_txt_col = '<i class="fa fa-heart-o" aria-hidden="true"></i>';
+  //Quick View - Classes
+  //var iwish_qvButton = '.quick_view';
+  //var iwish_qvWrapper = '.reveal-modal';
+</script>
+<script src="https://cdn.myshopapps.com/iwish/iwishlist.js"></script>
+<script src="https://cdn.myshopapps.com/iwish/iwish_get_data.js"></script>
+<script type="text/javascript">
+  
+  jQuery( document ).ready(function() {
+    jQuery('body').on('click', ".iWishAdd, .iWishAddColl, .iwishAdded", function(e) {
+      $('.wishlistModalMessage').html("<a href='/account/login?checkout_url="+ location.pathname +"'><u>Login</u></a> to your account first.").addClass('on');
+      setTimeout(function(){
+      	$('.wishlistModalMessage').removeClass('on');
+      },2500);
+      return false;
+    });
+  });
+  
+</script>
+
+
+    
+  </div>
+
+  
+  
+  
+<script type="text/javascript">
+var iStockShop = "wetseal-store.myshopify.com";
+var iStockIsProductpage = false;
+
+// define mesage
+var iStockSuccessMsg = 'Thanks! We will notify you when this product becomes available!';
+var iStockErrorMsg = 'Please enter a valid email address.';
+
+// define Quick classes
+//var iStockQvButton = '.sca-qv-button';
+//var iStockQvWrapper = '.sca-fancybox-inner';
+
+var iStockAllowPreorder = false;
+</script>
+<script src="https://cdn.myshopapps.com/istock/iStock-notify.js"></script>
+
+
+  
+  <!-- Klaviyo onsite pop-up-->
+  <script async="" type="text/javascript" src="//static.klaviyo.com/onsite/js/klaviyo.js?company_id=MLzPdi"></script>
+
+
+
+
+
+<!-- Begin Shopify-Afterpay JavaScript Snippet (v1.0.1) -->
+<script type="text/javascript">
+// Editable fields:
+var afterpay_min = 0.04;            // As per your Afterpay contract.
+var afterpay_max = 1000.00;         // As per your Afterpay contract.
+var afterpay_logo_theme = 'colour'; // Can be 'colour', 'black' or 'white'.
+
+// Overrides:
+var afterpay_product_selector = 'form.add-to-cart-form > div.price';
+// var afterpay_cart_integration_enabled = true;
+var afterpay_cart_static_selector = 'div.subtotal > div.number';
+// var afterpay_variable_price_fallback_selector = '#ProductPrice';
+// var afterpay_variable_price_fallback = true; // Requires afterpay_product_selector
+var afterpay_show_currency_code = false;
+var afterpay_modal_responsive = true;
+
+// Merchant-specific CSS
+//var afterpay_product_css = {}
+//var afterpay_cart_static_css = {}
+//var afterpay_cart_dynamic_css = {}
+
+// Non-editable fields:
+var afterpay_shop_currency = "USD";
+var afterpay_shop_money_format = "${{amount}}";
+var afterpay_shop_permanent_domain = "wetseal-store.myshopify.com";
+var afterpay_theme_name = "R3 - Simplistic [Homepage Phase 2]";
+var afterpay_product = null;
+var afterpay_current_variant = null;
+var afterpay_cart_total_price = 0;
+var afterpay_js_snippet_version = '1.0.1';
+// Removes AP text on gift cards.  
+if (afterpay_product && afterpay_product.type == "Gift Card") {
+  afterpay_product_selector = '';
+}
+</script>
+<script type="text/javascript" src="https://static.afterpay.com/shopify-afterpay-javascript.js"></script>
+<!-- End Shopify-Afterpay JavaScript Snippet (v1.0.1) -->
+
+<style type="text/css">
+       div.subtotal p.afterpay-paragraph {
+	       	margin: -3% 0% 3% 0% !important;
+       }
+       p.afterpay-paragraph {
+	       	margin: -5% 0% 7% 0% !important;
+          	color: inherit !important;
+          	font-family: inherit !important;
+        }
+        .afterpay-instalments {
+	      	font-weight: bold !important;
+        }
+        .afterpay-link-inner {
+	      	font-size: 12px;
+          	margin-left: 2px;
+        }
+        .afterpay-logo {
+          	display: inline-block !important;
+ 	       	width: 6em !important; 
+           	height: auto !important; 
+        }
+        .afterpay-text2 {
+          	margin-right: 1px;
+        }
+        @media only screen and (max-width : 900px) {
+            div.subtotal p.afterpay-paragraph {
+	         	margin: -1% 0% 3% 0% !important;
+            }
+        }
+        @media only screen and (max-width : 480px) {
+            .afterpay-paragraph {
+                font-size: 12px;
+            }
+            .afterpay-link-inner {
+	        	font-size: 12px;
+            }
+          	.afterpay-logo {
+ 	       		width: 6em !important; 
+           		height: auto !important; 
+        	}
+        }
+
+</style></body></html>
