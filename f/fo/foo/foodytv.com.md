@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodytv.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825041501id_/http%3A//foodytv.com/wp-content/uploads/2017/05/FoodyTVPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodytv.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214201539id_/http%3A//foodytv.com/wp-content/uploads/2017/05/FoodyTVPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # 
 
