@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halloweencostumes4u.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221184032id_/https%3A//www.halloweencostumes4u.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweencostumes4u.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214164733id_/https%3A//www.halloweencostumes4u.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Halloween Costumes 4U - Halloween Costumes for Kids &
 
@@ -8,7 +8,7 @@ PRIVACY STATEMENT
 
 SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
-When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
+We do NOT sell, share or distribute you personal information to third parties, expect as required by law. When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
 Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
