@@ -1,80 +1,64 @@
-> *The following text is extracted and transformed from the younkers.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822043647id_/https%3A//www.younkers.com/sc1/customer-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younkers.com privacy policy that was archived on 2019-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190214030900id_/https%3A//www.younkers.com/sc1/customer-service-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Younkers
 
-This Privacy Policy was last updated on **September 19, 2016.**
-
-This website is owned and operated by The Bon-Ton Department Stores, Inc., and this Privacy Policy applies to the website only.
+This website is owned and operated by The Bon-Ton Holdings, Inc., **_“_** _Bon-Ton **”** ,_ and this Privacy Policy applies to the website only.
 
 We have posted this Privacy Policy here to inform you of the information we may collect, how it is handled and your rights to opt out of information disclosure. We value our customers and understand your concerns about privacy. Therefore, we have instituted policies intended to ensure your personal information is handled in a safe and responsible manner.
 
 This Privacy Policy includes examples of the types of personal information we collect. We do not sell or rent the information you provide to us. We do, however, share your information with third parties under certain circumstances. We use this information for marketing and promotional purposes and to service your account. The examples provided below are illustrative and should not be considered a complete inventory of our information collection, use and sharing practices.
 
-### Information We May Collect
+**Information Collection**
 
-The Bon-Ton may collect personal information about you from the following sources:
+We collect personal information about users over time and across different websites when you use this website or service. We may also have third parties that collect personal information this way. When you visit this Website, we may request that you provide us with certain personally identifiable information, such as name, address, e-mail address, phone and fax number, and other information. If you are a customer placing an order, we may request credit card or other payment information necessary to complete your order. In addition, we may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using, (e.g., Windows XP or Mac OS) and the domain name of your Internet service provider (e.g., AT&T, Yahoo).
 
-  * Information that we receive from you when using our website. This personal information is gathered when you use our website to register, make a purchase, write a product review and create a registry. Similar personal information is gathered when you register with one of our other services such as mobile or social media applications, such as Facebook. In order to bill you for your purchase we may collect credit card information including your card type, credit card number, and expiration date. We also collect shipping address information that allows us to ship your order. This includes the name, address and phone number of the intended recipient;
-  * Information we receive from you (or that is provided to us on your behalf) on applications, contest entry forms, survey responses and other forms you submit to us, such as your name, address, email address, telephone number, Social Security number and income;
-  * Information about your transactions with The Bon-Ton or others, such as your purchasing preferences;
-  * And information from consumer reporting agencies, providers of marketing and demographic information and data collection agencies, such as customer names and mailing addresses, and information about your credit worthiness.
+**Use of Personal Information**
+
+We use the personal information you provide about yourself to operate this Website, to fulfill your requests for products, programs, and services, to communicate with you about Bon-Ton, our offerings, events and promotions, to respond to your inquiries about our offerings; to prevent or respond to prohibited or illegal activities; to enforce the terms of use of this Website or this privacy policy; to customize, measure, and improve the performance of our Websites and advertising; and to compare information for accuracy and verify it with third parties. We also use this information to communicate with you, such as to contact you about your orders or account with us.
+
+We may also use personal information for internal functions such as research, data analysis, and auditing to develop Bon-Ton’s products, services, and communications with customers and visitors. This information may also be used if you enter into a contest, sweepstakes, or other similar promotion. We may use your personal information to administer these programs.
+
+We may supplement information we receive online with information from other sources to assist us in evaluating and improving our Website and online products, programs, and services, to determine your preferences so that we can tailor our Website, products, programs and services to you. We do not rent or sell personal information to third parties for direct marketing purposes, except that we may provide personally identifiable information to strategic partners, agents, and contractors, and if we do, we also require them to protect this information in a manner that is consistent with this Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for us..
+
+You can opt out of online behavioral advertising by going to www.aboutads.info/choices.
+
+**Use of Non-Personal Information**
+
+We use the non-personal information that we collect to improve the performance, design and content of our Websites and to enable us to personalize your Website experience. We also may use this information in the aggregate to analyze usage of our Websites, as well as to offer you products, programs, or services. The following are some examples of non-personal information that we collect and how we may use it:
+
+  * We may collect information such as occupation, area code, zip code, and locale so that we can better increase our knowledge of customer behavior and better our services, products, and advertising.
+  * We may also collect information about activities on our website. This information is aggregated and used to help us provide more useful information to website visitors and to understand which parts of our website, products, and services are of the most interest. Aggregated data is considered non-personal information for the purposes of this Privacy Policy.
 
 
 
-### Information We May Disclose And To Whom We May Disclose Information
+If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
 
-#### Disclosures Permitted By Law
+If you provide us with an email address that is not listed in your customer account information, we may permanently store that email address and associate it with your customer account.
 
-The Bon-Ton may disclose your personal information without your consent as permitted by law. For example, we may use non-affiliated parties to perform services for us, such as providing customer assistance and customer billing, shipping merchandise that you purchased online, and billing your credit card for purchases.  We may disclose your personal information to consumer reporting agencies. We also may disclose information in response to requests from law enforcement agencies or in response to a subpoena or court order.
+**Certain Disclosures to Third Parties**
 
-#### Other Disclosures
+We may disclose personally identifiable information in response to a legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, these policies and terms, or as otherwise permitted or required by law and consistent with legal requirements. We may share your personally identifiable information with strategic partners in order to provide you with services associated with your use of this website. In addition, we may transfer information about you to a third party if we are acquired by or merged with another company.
 
-We may disclose the personal information we collect to companies that perform marketing services on our behalf or to companies that offer products or services you may find of value or to other financial institutions, such as insurers, with whom we have marketing agreements.
+**Cookies and Other Technology**
 
-We may share your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide it anonymous. To learn more about the use of this information or choose not to have this information used by our third-part advertising partner by option out, please visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).
+Bon-Ton’s website, interactive applications, email messages, online services, and advertisements may use cookies and other technologies such as pixel tags and web beacons. These technologies can help us better understand user activity, tell us which parts of our website people have visited, and enable us to measure the effectiveness of advertisements and web searches. For additional information about the use of this technology please see the paragraphs below.
 
-Identification may be required for returns. Customer information taken during a return is shared with a 3rd party for the sole purpose of authorizing returns. Customer information captured for authorizations will not be used for marketing purposes.
+Many of our web pages use "cookies” to enhance your experience with our Website and to assist us in providing appropriate website experiences for consumers, Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, providing this information on this Website. We use cookies on certain webpages to help analyze our webpage flow, customize the Website and advertising, measure promotional effectiveness, and promote trust and safety. We also use cookies to identify you and maintain your logged-in status.
 
-### Information Regarding Former Customers
+We offer certain features that are available only through the use of cookies. You can decline cookies if your browser permits, although doing so may interfere with your use of some of the features on this Website. If you block or delete cookies, not all of the tracking that we have described in this policy will stop.
 
-The Bon-Ton does not disclose personal information about former customers or customers with inactive accounts, except in accordance with this Privacy Policy.
+Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
 
-### Information Regarding Children
+As is the common practice of most websites, we may gather some information automatically and store it in log files. This information may include things like Internet Protocol (IP) addresses, browser type and language, computer device type, internet services provider (ISP), referring and exit pages, operating system, date/time stamp, and click stream data.
 
-This Website is not intended for children and we do not knowingly collect information from children under 13 years of age except as permitted by law.
+This information may be used to examine and identify trends, to manage the site, to learn about user activity on the site, and to gather demographic information about our customers or visitors. Bon-Ton may use this information to tailor our marketing and advertising services.
 
-### Our Security Procedures
+Pixel tags may be used to allow us to send email messages in a format that users can read. Pixel tags can tell us whether an email has been opened. This information could potentially be used to increase, reduce, or eliminate messages sent to Customers or prospects.
 
-The security of your personal information is important to us. To prevent unauthorized access to your personal information, we have put in place physical, administrative and technical safeguards. We restrict access to personal information about you to those employees whom we determine have a legitimate business purpose to access such information in connection with the provision of products or services to you. We provide training and communications programs designed to educate employees about the meaning and requirements of our strict standards for data security and confidentiality. We employ industry standard security techniques designed to protect our customer data, including encryption technology, such as “Secure Sockets Layer (SSL) to protect your personal information during data transfer.
+**Privacy Questions**
 
-### Definition Of And How We Use "Cookies"
+If you have any questions or concerns about Bon-Ton's Privacy Policy, would like to correct your personal information, or report possible misuse of such information, please contact us directly by phone or email form by visiting our [Contact Page ](https://web.archive.org/contact-us "Contact Information").
 
-A "cookie" is a small file stored on your computer's hard drive by your web browser that allows our website to recognize you every time you visit our site. No personal identifiable information about you is stored in the cookies. On our site, cookies are used to keep a list of: pages that you clicked on during your visit; items you have selected for printing; and items you have put on your shopping list or placed in the Shopping Bag. We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click here.
+**Effective Date, Updates to Privacy Policy**
 
-It is your choice to not accept cookies. The "Help" menu of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. However, because cookies allow you to take full advantage of all features on our website, for the best experience we recommend you leave cookies enabled.
-
-### Email Marketing
-
-Use the unsubscribe link on any of our promotional or marketing emails to opt-out of receiving email from us.  Please allow up to 10 business days for your request to be processed. Please note that some programs, such as the LoveStyle Rewards Program, provide transactional emails about the LoveStyle Program and points and rewards earned so it is important to carefully select your unsubscribe options.
-
-### Changes To This Privacy Policy
-
-By interacting with us, you consent to our use of information that is collected or submitted as described in this privacy policy. We reserve the right to modify or supplement this Privacy Policy at any time, and we encourage you to review it periodically. If we make material changes, we will provide current customers with a revised notice that describes our new practices.
-
-### **California Privacy Rights**
-
-Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of this information or to opt out of these disclosures, please contact us as indicated below.
-
-### Your Preference
-
-If you prefer that we do not disclose your personal information to non-affiliated third parties, you may opt out of those disclosures; that is, you may direct us not to make those disclosures (other than disclosures permitted by law). If you wish to opt out of disclosures to non-affiliated third parties, you may mail a written request, along with your name, address and account number, to the following address:
-
-**The Bon-Ton Department Stores, Inc.**  
-_Corporate Office_  
-2801 East Market Street  
-York, PA 17405
-
-Or call the following toll-free number:   
-1-800-945-4438, 8am-10pm (Eastern Standard Time), Monday-Saturday; 8am-7pm ET, Sunday.
-
-If you have a joint account, a request by one party will apply to the entire account. Please allow approximately 10 weeks for your request to take effect.
+The terms and conditions in this policy statement came into effect on September 3, 2018. Bon-Ton reserves the right to amend, revise, or modify this policy at any time and in any manner Bon-Ton deems appropriate. When we change the policy in a material way a notice will be posted on our web site along with the updated privacy policy. Your use of our web site and any of the services provided by Bon-Ton after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
