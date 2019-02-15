@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravame.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216005554id_/http%3A//bravame.com/pages/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravame.com privacy policy that was archived on 2019-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190215073443id_/http%3A//bravame.com/pages/about/privacy) for the most accurate reproduction.*
 
 # About bravame
 
