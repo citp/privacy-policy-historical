@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livesoccertv.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231143618id_/https%3A//www.livesoccertv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livesoccertv.com privacy policy that was archived on 2019-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190215071342id_/https%3A//www.livesoccertv.com/privacy) for the most accurate reproduction.*
 
 # Live Soccer TV
 
