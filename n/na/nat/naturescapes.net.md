@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturescapes.net privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208213548id_/http%3A//www.naturescapes.net/information-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturescapes.net privacy policy that was archived on 2019-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190215144458id_/https%3A//www.naturescapes.net/information-center/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NatureScapes.Net – The Resource for Nature Photographers
+# Privacy Policy - NatureScapes.net
 
 Website Privacy Policy
 
