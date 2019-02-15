@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwex.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109155335id_/http%3A//www.softwex.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwex.com privacy policy that was archived on 2019-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190215103907id_/https%3A//www.softwex.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Softwex: Privacy Policy
 
