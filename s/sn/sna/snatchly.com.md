@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snatchly.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907121743id_/https%3A//www.sex.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snatchly.com privacy policy that was archived on 2019-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190215120014id_/https%3A//www.sex.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Sex.com
 
