@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tyson.com privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930181809id_/https%3A//www.tyson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyson.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216110915id_/https%3A//www.tyson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tyson® Brand
 
