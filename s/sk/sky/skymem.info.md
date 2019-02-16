@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skymem.info privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118114741id_/http%3A//www.skymem.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skymem.info privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216024915id_/http%3A//skymem.info/privacy-policy) for the most accurate reproduction.*
 
 # Skymem - email list
 
