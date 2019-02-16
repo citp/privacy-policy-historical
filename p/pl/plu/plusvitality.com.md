@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plusvitality.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021073536id_/http%3A//www.plusvitality.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plusvitality.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216024859id_/http%3A//www.plusvitality.com/privacy) for the most accurate reproduction.*
 
 # Privacy + PlusVitality
 
@@ -12,6 +12,6 @@ PlusVitality will co-operate with the governmental authorities and comply with a
 
 The personal information PlusVitality collects on this Site is an asset of PlusVitality‘s business and in the event that PlusVitality, or substantially all of its assets, are acquitted or become the subject of a merger, such information may be transferred.
 
-Please contact PlusVitality if you have any questions concerning PlusVitality's privacy policy, the way PlusVitality uses your personal information or if you would like to review your personal information that Smith's has collected in order to update or delete it from our system.
+Please contact PlusVitality if you have any questions concerning PlusVitality’s privacy policy, the way PlusVitality uses your personal information or if you would like to review your personal information that Smith’s has collected in order to update or delete it from our system.
 
 This privacy policy applies to information collected over this Site. PlusVitality reserves the right to apply different policies to information collected off-line.
