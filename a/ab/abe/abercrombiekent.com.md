@@ -1,90 +1,533 @@
-> *The following text is extracted and transformed from the abercrombiekent.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204174823id_/http%3A//www.abercrombiekent.com/legal/privacy_statement_and_security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abercrombiekent.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216174649id_/https%3A//www.abercrombiekent.com/legal/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Statement & Security | Abercrombie & Kent
+# Privacy Notice | Abercrombie & Kent
 
-Abercrombie & Kent USA, LLC (referred to in this Privacy Statement as "A&K") respects your privacy and is committed to protect the personal information that you share with us. This Privacy Statement applies to abercrombiekent.com, akphilanthropy.org and/or any Website owned, operated, licensed or controlled by Abercrombie & Kent USA, LLC (referred to in this Privacy Statement as the "Site"). This Site is intended for use by persons who are residents of the United States of America and who are over 18 years of age. By using this Site, you accept the practices described in this Privacy Policy.
+### Introduction
 
-## Information Collection
+Welcome to the Abercrombie & Kent Privacy Notice. Abercrombie & Kent USA, LLC respects your privacy and is committed to protecting your personal data. This Privacy Notice applies to abercrombiekent.com, akphilanthropy.org and/or any Website owned, operated, licensed or controlled by Abercrombie & Kent USA, LLC (referred to in this Privacy Notice as the "Site"). This Site is intended for use by persons who are residents of the United States of America and who are over 18 years of age. By using this Site, you accept the practices described in this Privacy Notice. This Privacy Notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) or when you otherwise provide personal data to us via other means (such as over the telephone) (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you. 
 
-When you browse the Site and have not registered for any online service from A&K, you browse anonymously.  Personal Information is not collected as you browse. "Personal Information" is defined as any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including but not limited to a first and last name; email address; a home, postal or other physical address; or other contact information. When you register for or request any Site service, or when you complete the Guest Information Form online after you have reserved a journey, you may be asked to provide us with Personal Information which is used to enhance your Site experience, expedite communications, allow you to receive electronic/postal mailings from A&K, or help facilitate your travel with A&K. Additionally, we may request your destination and travel interests, which allows us to further personalize your Site and email messages.
+This Privacy Notice is provided in a layered format so that you can easily click through to the specific areas set out below. Alternatively, you can download a PDF version of the Notice [here](https://web.archive.org/-/media/ak/media-for-prod/miscellaneous-pages/pdfs/privacy-notice-2018.pdf?la=en&hash=5D11D815CC0D72B81E38ED6FA3627AF71DB2FE1C).
 
-We may also use this Personal Information in aggregate to generate market research reports. Demographic data such as age, gender and interests provided by Google are collected and used to analyze our Site visitors through Google Analytics Demographics and Interest Reporting. Google Remarketing ads are advertised to Site visitors that have visited specific pages on the Site. If you wish to opt-out of either of these, please [click here](http://www.google.com/settings/ads) for more details.
+Please also use refer to the Glossary that we have set out at the end of the Notice, if there is any terminology used in this Privacy Notice that you are unfamiliar with or that you don’t fully understand.
 
-We may share Personal Information with law enforcement agencies if there is a criminal investigation or suspected illegal activity, to protect the rights and property of A&K; to investigate reports of fraud or of users sending material using a false email address or users sending harassing, threatening, or abusive messages; to protect against misuse or unauthorized use of the Site; or during emergencies, such as when we believe someone’s physical safety is at risk.
+**1\. IMPORTANT INFORMATION AND WHO WE ARE**
 
-## Use of Information
+**2\. THE DATA WE COLLECT ABOUT YOU**
 
-We may use Personal Information you have given us with any of our group of companies (including our parent companies and any of our subsidiaries or commonly owned companies) to, for example, provide a service, ensure proper booking, measure consumer interest in our various products and services and inform you about products and services.
+**3\. HOW YOUR PERSONAL DATA IS COLLECTED**
 
-## Registration for Online Products & Services
+**4\. HOW WE USE YOUR PERSONAL DATA**
 
-In order to service you on the Site, we may request that you voluntarily supply us with Personal Information for purposes such as correspondence, Site registration, or participating in Site surveys and/or contests. If you are known to us as a registered user of an A&K Site, we may combine information about your use of Site products or services with certain other online and offline information we have about you as an A&K customer as well as information available from external sources in order to customize your Site experience and present you with relevant online and offline communications.
+**5\. HOW WE DISCLOSE YOUR PERSONAL DATA**
 
-## Cookies
+**6\. WHEN WE TRANSFER YOUR DATA OVERSEAS**
 
-If you use the Site, we utilize "cookies" that enable us to monitor traffic patterns and to serve you more efficiently if you revisit the Site. A cookie does not identify you personally but it does identify your computer. You can set your browser to notify you when you receive a cookie and this will provide you with an opportunity to either accept or reject it in each instance.  There are two types of cookies, session cookies and persistent cookies. Session cookies are temporary cookie files, which are erased when you close your browser. When you restart your browser and go back to the Site, the Site will not recognize you. You will have to log back in to your account and select your preferences. A new session cookie will be generated, which will store your browsing information and will again be active until you leave the Site and close your browser. 
+**7\. HOW WE SECURE YOUR DATA**
 
-Persistent cookies are just that: persistent. These files stay in one of your browser’s subfolders until you delete them manually or your browser deletes them based on the duration period contained within the persistent cookie’s file. Persistent cookies permit you to visit the Site over and over again and be recognized as a previous visitor and may permit you to access your account without having to log in over and over again. The information saved by the cookies, such as the server your computer is logged onto, your browser type, and whether you entered the Site from a website or email hyperlink, is collected and tracked in aggregate. This information is used for the purpose of measuring response rates to Web page and email hyperlinks as well as overall Site activity and performance. 
+**8\. HOW LONG WE RETAIN YOUR DATA FOR**
 
-## IP Addresses
+**9\. YOUR LEGAL RIGHTS**
 
-A&K collects the IP addresses (the Internet Protocol address, which is a numerical label assigned to each device on the Internet) used to access our Site and the dates and times of access. This information is used to analyze trends, administer the Site, track a user's movement, and gather broad demographic information for aggregate use. IP addresses are not personally linked to identifiable information.
+**10\. GLOSSARY**
 
-## Email
+### 1\. Important information and who we are
 
-A&K may send you emails based on Personal Information you provided, both online and through your transactions with us. These emails may come directly from A&K or from a company we have engaged on our behalf. You can opt-out of receiving marketing email from A&K as described below in the section entitled: "Declining Email." When we send you email, we may use your email address to identify information about your receipt of the email, including whether the communication was opened, how many times it was viewed and whether you clicked on an embedded hyperlink to reach a particular web page. This information is used to measure response rates to email communications as well as enhance your Site experience. 
+**Purpose of this Privacy Notice**
 
-A&K does not provide your Personal Information to our business partners. However, we may send you offers on behalf of our business partners. If you take advantage of an offer from an A&K business partner and become their customer, they may independently wish to send emails to you. In this case, you will need to inform them separately if you wish to decline receiving future emails from them.
+This Privacy Notice aims to give you information on how Abercrombie & Kent collects, managers and processes your personal data, including any data you may provide through this website or via any other means (such as over the telephone) when you purchase travel arrangements through us or otherwise provide personal data to us. 
 
-## Declining Email
+This website is not intended for children, and the only circumstance in which we collect data relating to children is when you make a booking of arrangements and you have children in your party. 
 
-A&K provides all recipients with a means to decline receiving marketing email. At any time, you may request to discontinue receiving email from A&K by following the opt-out instructions included at the bottom of all A&K marketing email and informing us of your preference. You may also [click here](https://web.archive.org/legal/manage_email_preferences.cfm) to manage your email preferences. If you would like to be removed from all A&K communications, please call 800 323 7308 and speak to a Travel Consultant.
+It is important that you read this privacy notice together with any other Privacy Notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This Privacy Notice supplements the other notices and is not intended to override them.
 
-## Forward/Email this Page or Send Electronic Postcards
+**Controller**
 
-Site users can choose to request that a Site Web page be sent electronically to another person. When you elect to do this, you will be required to enter your email address and name, the recipient's email address and name, a subject line, and a text message that will go to the recipient. This will generate a pre-formatted email message that will go from you to the recipient’s mailbox with your message embedded in the text of the email. This feature is completely voluntary and, therefore, you will have a choice whether or not to disclose the required information.
+Abercrombie & Kent USA, LLC is the controller and in certain circumstances a processor and responsible for your personal data (collectively referred to as ["COMPANY"], "we", "us" or "our" in this Privacy Notice). 
 
-## Contests
+We have appointed a data protection compliance manager who is responsible for overseeing questions in relation to this Privacy Notice. If you have any questions about this Privacy Notice, including any requests to exercise your legal rights, please contact the data protection compliance manager using the details set out below. 
 
-When you enter a contest or other promotional feature on the Site, we may ask for your Personal Information so that we can administer the contest and notify winners. Participation in these contests is completely voluntary and you therefore have a choice whether or not to disclose the required information. In addition, these contests and promotions will be subject to the rules and requirements that accompany them.
+**Contact details**
 
-## Online Surveys
+Our full details are: 
 
-We value opinions and comments from A&K customers, and you may have the opportunity to give us your feedback through Site surveys. In conducting these surveys, we may ask for your Personal Information so that we can appropriately identify you. Survey and Personal Information collected will be aggregated and used to make improvements to the Site and improve A&K products and services. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose the required information.
+Full name of legal entity: | Abercrombie & Kent USA, LLC  
+---|---  
+Name: | Data Protection Compliance Manager  
+  
+Email address: | [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#284c495c494b474558444149464b4d68494a4d5a4b5a47454a414d434d465c064b4745)  
+  
+Postal address: | 
 
-## Children
+1411 Opus Place  
+Executive Towers West II, Ste 300  
+Downers Grove, Chicago, IL, 60515-1098  
+  
+You have the right to make a complaint at any time. There are many data protection supervisory bodies around the world however, we would suggest that you make any complaints to the United Kingdom data protection supervisory body (“the Information Commissioner's Office”) (ICO), ([ico.org.uk](https://ico.org.uk/ "https://ico.org.uk/")). This would allow us to handle your complaint more effectively and quickly. We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
-This Site is not used to knowingly solicit Personal Information from or market to children under the age of 13. This Site is intended for use by persons who are over 18 years of age. Therefore, we request that children under the age of 13 not submit any Personal Information to us through the Site. If we learn that we have inadvertently gathered Personal Information from children under the age of 13, we will promptly remove such information from our records.
+**Changes to the Privacy Notice and your duty to inform us of changes**
 
-## Customer Information
+This version was last updated on September 2018 and historic versions can be obtained by contacting us. 
 
-If you would like information about your account, believe that A&K has not complied with this Privacy Statement with respect to your Personal Information, or you have other related inquiries or concerns, you may write to:
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if any of the details you provide to us should change during the course of your relationship with us. 
 
-Abercrombie & Kent USA, LLC  
-Attention: Marketing  
-1411 Opus Place, Executive Towers West 2, Suite 300  
-Downers Grove, IL 60515-1098, USA
+**Third-party links**
 
-In your letter, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the A&K Privacy Policy has not been complied with. A&K will investigate your inquiry or concern promptly.
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit. 
 
-## Linked Internet Sites
+### 2\. The data we collect about you
 
-You should be aware that other Internet sites to which you link to from this Site may contain privacy provisions that differ from the provisions of our Privacy Statement. A&K is not responsible for the privacy practices or content of other such sites. We encourage Site users to be aware when they leave the Site and to read the privacy statements of each and every Website which they visit to determine their privacy practices and whether the site collects personally identifiable information. This Privacy Statement applies solely to information collected by this Site.
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data from which the identity has been removed (anonymous data). 
 
-## Security
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:
 
-A&K uses Secure Socket Layers (“SSL”), a reasonable security measure for transferring information to process your orders. The SSL encrypts, or translates, your order information into a highly indecipherable code, which is processed immediately. When you begin the transaction process, you will move into the secure area of our Site. A warning window may pop up to notify you that you are entering this "safe" area. Once you have entered, the page address (“URL”) will change from http to https, to let you know you are in a secure area. You will remain in this secure zone for the entire transaction process. We maintain the data you provide, along with a record of your purchases, in a secure database. We limit the information we provide to outside companies with whom we contract to only what they need to carry out their responsibilities. We also encourage our partners and service providers to adopt and follow stringent consumer privacy policies.
+**(A) Identity**
 
-## Special Notice to California Residents
+This includes data relating specifically to your identity, such as your first name, maiden name, last name or similar identifier, marital status, title, date of birth and gender.
 
-Under California Civil Code Section 1798.83, California residents have the right to request and receive from us, once per year and free of charge, information about the personal information we have disclosed (if any) to third parties for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [webchat@abercrombiekent.com](mailto:webchat@abercrombiekent.com "webchat@abercrombiekent.com") including the phrase “California Privacy Request” in the subject line, and provide us with your name, postal address and email address.
+**(B) Contact Data**
 
-## Contact Information
+This includes data relating to how you may be contacted, such as your home address, business address, email address and telephone numbers. 
 
-Abercrombie & Kent, LLC  
-1411 Opus Place, Executive Towers West II, Suite 300  
-Downers Grove, IL 60515-1098, USA  
-Tel. 800 323 7308 or 630 725 3400  
-Email: [webchat@abercrombiekent.com](mailto:webchat@abercrombiekent.com "webchat@abercrombiekent.com")
+**(C) Financial Data**
 
-_Last Updated:  December 2014_
+This include data relating to your means and methods of payment, such as your bank account and payment card details. 
+
+**(D) Transaction Data**
+
+This includes data relating to the transactions you have carried out with us, such as details about payments to and from you and other details of products and services you have purchased from us.
+
+**(E) Technical Data**
+
+This includes more technical data that we may obtain when you make use of our website, such as your internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access this website. 
+
+**(F) Profile Data**
+
+This includes the data that we receive if and when you create a profile on our website and make use of that profile, such as your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses. 
+
+**(G) Usage Data**
+
+This includes information about how you use our website, products and services. 
+
+**(H) Marketing and Communications Data**
+
+This includes your preferences in relation to whether or not you want to receive marketing from us and our third parties and also your communication preferences.
+
+We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we will treat the combined data as personal data which will be used in accordance with this Privacy Notice.
+
+**Special Categories of Personal Data**
+
+During our interactions we may collect special categories of personal data about you as detailed below. This may be because you want us to have the information or inadvertently as result of a group you travel with. It may also be because we need to know certain personal data about you which is special category data in order that we can provide you with the best possible service and advise you whether a trip is suitable for you. Health is one of the best examples of this.
+
+E.g., If we receive a group booking from a specific religious association we will inadvertently have details of religious beliefs of those individuals. The same can be said for groups from political associations and trade union associations.
+
+E.g., We are sometimes asked whether certain medication is allowed to be taken into certain jurisdictions which discloses certain medical conditions.
+
+Other special category of personal data which we may end up receiving from you include details about your:
+
+  * dietary requirements which may disclose your religious or philosophical beliefs;
+  * health;
+  * race or ethnicity;
+  * sex life or your sexual orientation;
+  * political opinions;
+  * trade union membership;
+  * genetic and biometric data.
+
+
+
+We collect and process the above data only where it is strictly necessary to do so. Furthermore, we will only collect and process the above special categories of sensitive personal data where you have provided us with your explicit consent to do so.
+
+You are not under any obligation to consent to us processing your sensitive personal data. 
+
+If you are happy to consent to our use of your sensitive personal data, you will also be able to withdraw your consent at any time. 
+
+### 3\. How your personal data is collected
+
+We use different methods to collect data from and about you including through:
+
+**(A) Direct interactions**
+
+You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:
+
+  * make a booking of arrangements;
+  * request a quote for arrangements;
+  * subscribe to our newsletter or other publications; 
+  * request marketing;
+  * enter a competition, promotion or survey; 
+  * give us some feedback; or
+  * use our online payment and client portals.
+
+
+
+**(B) Automated technologies or interactions**
+
+As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns.
+
+  * We collect this personal data by using cookies, or other similar technologies. You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see the [Cookies Policy](https://web.archive.org/legal/cookies-policy) for further details.
+
+
+
+**(C) Third parties**
+
+We may receive personal data about you from various third parties as set out below:
+
+  * Technical Data from the following parties: 
+
+(i) analytics providers such as Google based outside the EU;  
+(ii) advertising networks such as Google; and
+
+
+
+
+**(D)** From time to time we may run competitions with third parties where we would collect data about you however, all participants have the option to opt in or out to receive any information from us.
+
+**(E)** We have in the past shared client data with Allant Group for profiling research purposes. In the future we may share client data with Allant Group or another research agency to identify the profile of our client base. 
+
+### 4\. How we use your personal data
+
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+  * Where we need to perform the contract we are about to enter into or have entered into with you.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
+
+
+
+**Purposes for which we will use your personal data**
+
+We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c787d687d7f73716c70757d727f795c7d7e796e7f6e73717e757977797268327f7371) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below. 
+
+**Purpose/Activity**
+
+| 
+
+**Type of data**
+
+| 
+
+**Lawful basis for processing including basis of legitimate interest**  
+  
+---|---|---  
+  
+Register you as a prospect and initial profile creation
+
+| 
+
+(a) Identity;  
+(b) Contact  
+(c) Marketing and Communications
+
+| 
+
+Necessary for our legitimate interest  
+  
+Creation of itinerary and trip planning, which includes the transfer of data to other jurisdictions.
+
+| 
+
+(a) Identity;   
+(b) Contact;  
+(c) Special Categories of Personal Data
+
+| 
+
+(a) Performance of a contract with you  
+(b) Necessary for our legitimate interest  
+  
+To process and deliver your booking including:
+
+(a) Putting final itinerary together and adding additional requests;  
+(b) Transfer of further data to other jurisdictions as requested by the guest;  
+(c) Manage payments, fees and charges;  
+(d) Collect and recover money owed to us.
+
+| 
+
+(a) Identity;   
+(b) Contact;   
+(c) Financial;   
+(d) Transaction;  
+(e) Marketing and Communications.  
+(f) Special Categories of Personal Data
+
+| 
+
+(a) Performance of a contract with you;   
+(b) Necessary for our legitimate interests (to recover debts due to us).  
+  
+To manage our relationship with you which will include:
+
+(a) Right to rectification of your personal information.  
+(b) Asking you to leave a review or take a survey.
+
+| 
+
+(a) Identity;   
+(b) Contact;   
+(c) Profile;   
+(d)Marketing and Communications;  
+(e) Special Categories of Personal Data.
+
+| 
+
+(a) Necessary to comply with a legal obligation;  
+(b) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services).  
+  
+To enable you to partake in a prize draw, competition or complete a survey.
+
+| 
+
+(a) Identity;   
+(b) Contact;   
+(c) Profile;   
+(d) Usage;   
+(e) Marketing and Communications.
+
+| 
+
+(a) Performance of a contract with you;   
+(b) Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business).  
+  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data).
+
+| 
+
+(a) Identity;  
+(b) Contact;  
+(c) Technical.
+
+| 
+
+(a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise);  
+(b) Necessary to comply with a legal obligation.  
+  
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you
+
+| 
+
+(a) Identity   
+(b) Contact   
+(c) Profile   
+(d) Usage   
+(e) Marketing and Communications   
+(f) Technical
+
+| 
+
+Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy). To ensure marketing is relevant to your requirements or interests.  
+  
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences
+
+| 
+
+(a) Technical   
+(b) Usage
+
+| 
+
+Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+  
+To make suggestions and recommendations to you about goods or services that may be of interest to you
+
+| 
+
+(a) Identity   
+(b) Contact   
+(c) Technical   
+(d) Usage   
+(e) Profile
+
+| 
+
+Necessary for our legitimate interests (to develop our products/services and grow our business)  
+  
+**Marketing**
+
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising.
+
+**Promotional offers from us**
+
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing). 
+
+**Opting out**
+
+You can ask us to stop sending you marketing messages at any time by following the opt-out unsubscribe links on any marketing message sent to you or by contacting your travel consultant at any time or by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4024213421232f2d302c29212e2325002122253223322f2d2229252b252e346e232f2d). 
+
+Where you opt out of receiving these marketing messages, you will still receive communications that are required as a result of a purchase of arrangements or other such transactions.
+
+**Special notice to California residents**
+
+Under California Civil Code Section 1798.83, California residents have the right to request and receive from us, once per year and free of charge, information about the personal information we have disclosed (if any) to third parties for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#addac8cfcec5ccd9edcccfc8dfcedfc2c0cfc4c8c6c8c3d983cec2c0) including the phrase “California Privacy Request” in the subject line, and provide us with your name, postal address and email address.
+
+**Change of purpose**
+
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#90f4f1e4f1f3fffde0fcf9f1fef3f5d0f1f2f5e2f3e2fffdf2f9f5fbf5fee4bef3fffd). 
+
+If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+
+### 5\. Disclosures of your personal data
+
+We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.
+
+**(A)** Internal Third Parties as set out in the Glossary. 
+
+**(B)** External Third Parties as set out in the Glossary.
+
+**(C)** Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this Privacy Notice. 
+
+We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
+
+### 6\. International transfers
+
+We do transfer your personal data outside the European Economic Area ( **EEA** ) in order to satisfy our contract with you if you are travelling outside of the EEA.
+
+### 7\. Data security
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality. 
+
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+
+### 8\. Data retention
+
+**How long will you use my personal data for?**
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. 
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+Details of retention periods for different aspects of your personal data are available in our retention policy which you can request from us by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7410150015171b1904181d151a1711341516110617061b19161d111f111a005a171b19).
+
+In addition to the above, by law we have to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for ten years after they cease being customers for tax purposes.
+
+In some circumstances you can ask us to delete your data; see **Request erasure** below for further information.
+
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you. 
+
+### 9\. Your legal rights
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to find out more about these rights: 
+
+(A) Request access to your personal data.
+
+(B) Request correction of your personal data.
+
+(C) Request erasure of your personal data.
+
+(D) Object to processing of your personal data.
+
+(E) Request restriction of processing your personal data.
+
+(F) Request transfer of your personal data.
+
+(G) Right to withdraw consent.
+
+If you wish to exercise any of the rights set out above, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#96f2f7e2f7f5f9fbe6fafff7f8f5f3d6f7f4f3e4f5e4f9fbf4fff3fdf3f8e2b8f5f9fb).
+
+**No fee usually required**
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+**What we may need from you**
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. You will be required to show your identification at an Abercrombie & Kent office in Downers Grove, Illinois. Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c6a2a7b2a7a5a9abb6aaafa7a8a5a386a7a4a3b4a5b4a9aba4afa3ada3a8b2e8a5a9ab) to determine your nearest location.
+
+**Time limit to respond**
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated. 
+
+### 10\. Glossary
+
+**LAWFUL BASIS**
+
+  * **Legitimate Interest**
+
+
+
+means the interest of our business in conducting and managing our business to enable us to give you the best service and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#acc8cdd8cdcfc3c1dcc0c5cdc2cfc9eccdcec9decfdec3c1cec5c9c7c9c2d882cfc3c1)
+
+  * **Performance of Contract**
+
+
+
+means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+
+  * **Comply with a legal or regulatory obligation**
+
+
+
+means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+
+**THIRD PARTIES**
+
+  * **Internal Third Parties**
+
+
+
+Other companies in the Abercrombie & Kent Group acting as joint controllers or processors and who are based globally and provide travel related services, IT and system administration, Human Resources Related services, finance and legal. 
+
+  * **External Third Parties**
+
+
+
+i. Service providers acting as processors based globally and providing travel related services.
+
+ii. Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors, information technology service providers and insurers based globally who provide consultancy, banking, legal, insurance and accounting services.
+
+iii. HM Revenue & Customs, regulators and other authorities acting as processors or joint controllers based globally who require reporting of processing activities in certain circumstances.
+
+**YOUR LEGAL RIGHTS**
+
+You have the right to:
+
+  * **Request access**
+
+
+
+to your personal data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+
+  * **Request correction**
+
+
+
+of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
+
+  * **Request erasure**
+
+
+
+of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request. 
+
+  * **Object to processing**
+
+
+
+of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information that override your rights and freedoms.
+
+  * **Request restriction of processing**
+
+
+
+of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: 
+
+(a) if you want us to establish the data's accuracy; 
+
+(b) where our use of the data is unlawful but you do not want us to erase it; 
+
+(c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or 
+
+(d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. 
+
+  * **Request the transfer**
+
+
+
+of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you. 
+
+  * **Withdraw consent at any time**
+
+
+
+where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
