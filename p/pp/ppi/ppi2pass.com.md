@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppi2pass.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102104217id_/http%3A//www.ppi2pass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppi2pass.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216173320id_/https%3A//ppi2pass.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
