@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bforex.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201220132id_/https%3A//www.bforex.com/About-bforex/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bforex.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216081057id_/https%3A//www.bforex.com/About-bforex/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
