@@ -1,0 +1,1103 @@
+<!--The following is the downloaded HTML source of the worcester.edu privacy policy that was archived on 2019-02-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190216044904id_/https%3A//www.worcester.edu/Privacy-Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head id="ctl00_ctl00_ctl00_Head1"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><title>
+	Website Privacy Policy | Worcester State University
+</title><meta id="ctl00_ctl00_ctl00_metaKeywords" name="keywords"><meta id="ctl00_ctl00_ctl00_metaDescription" name="description" content="This document informs the general public of the University’s policy regarding the collection, use, and disclosure of information sent to the University&amp;#39;s websites’ servers, both automatically and voluntarily, from visitors to the websites."><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><link rel="stylesheet" type="text/css" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=-1759591071+-300771134+1985268503"><script type="text/javascript" async="" src="//us2.siteimprove.com/js/siteanalyze_66357482.js"></script><script id="facebook-jssdk" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.2"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=-569449246+-1939951303+-1080527330+-1687560804+-1388997516+2009761168+27274999+1979897163+-422906301+-1818005853+-1008700845+-1793043690"></script><meta property="og:image" content="https://www.worcester.edu:443/uploadedImages/FacebookDefaultLinkImage.png"><link href="//fonts.googleapis.com/css?family=Noto+Serif:400,700|Open+Sans:400italic,600italic,700italic,400,700,600" rel="stylesheet" type="text/css"><link href="//fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+    <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>if (!window.jQuery) { document.write('<script src="js/vendor/jquery-1.11.3.min.js"><\/script>'); }</script>-->
+    <link rel="stylesheet" href="/css/main.css?t=20170816"><link rel="stylesheet" href="/css/responsive.css?t=20140710"><link rel="stylesheet" href="/css/ColGrid.css?t=20151014"><script type="text/javascript"><!--
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-4632447-10', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+//--></script><!-- Global site tag (gtag.js) - Google Ads: 824061040 --><script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=AW-824061040" async="async"></script><script type="text/javascript"><!--
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'AW-824061040');
+//--></script><!-- Facebook social plugin script --><script type="text/javascript"><!--
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+//--></script><!--[SiteImprove Analytics] --><script type="text/javascript"><!--
+$(document).ready(function () {
+		var sz = document.createElement('script');
+		sz.type = 'text/javascript';
+		sz.async = true;
+		sz.src = '//us2.siteimprove.com/js/siteanalyze_66357482.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(sz, s);
+	});
+//--></script><!-- end of SiteImprove --><script type="text/javascript"><!--
+$(document).ready(function() {
+
+	// track download clicks - which document id and from which page
+	$(document).on('click', 'a[href*="/WorkArea/DownloadAsset.aspx?id="]', function(e) {
+		var id = $(this).attr('href').match(/\d+/g);
+		var url = window.location.href.replace(window.location.origin, '').toLowerCase();
+		ga('send', 'event', 'download', id[0], url);
+	});
+
+	$('body.myWSUHome section#imageGrid figure').each(function(i) {
+		$(this).find('a').on('click', function(e) {
+			var url = $(this).attr('href').toLowerCase()
+			ga('send', 'event', 'sp-tile', 'click', url);
+		});
+	});
+
+	// handle auto-expanding hide-and-reveals with a numeric URL fragment (e.g. /Visit-Us/#3 )
+	var step = window.location.hash.replace(/[^0-9]/g,'');
+
+	if (isNaN(step) || step=='' || typeof(step)=='undefined') {
+
+		var pattern = /\/visit-us\//i;
+
+		if (pattern.test(window.location.pathname)) {
+
+			collapse_expand_hidereveal(0);
+
+			return true;
+
+		} else {
+
+			return false;
+
+		}
+
+	} else {
+
+		step = parseInt(step);	//ensure it's an integer
+		step = step - 1;		//convert it to an index reference
+
+		if ($('.HideReveal dd').eq(step)) {
+			collapse_expand_hidereveal(step);
+		}
+
+		return true;
+
+	}
+});
+
+function collapse_expand_hidereveal(i) {
+	$('.HideReveal dt').removeClass('active');
+	$('.HideReveal dd').hide();
+
+	$('.HideReveal dt').eq(i).addClass('active');
+	$('.HideReveal dd').eq(i).show();
+
+	return true;
+}
+//--></script>
+    <script type="text/javascript">        var switchTo5x = false;</script>
+    <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">            stLight.options({ publisher: "eaecc381-976c-47d7-8521-e602b0f4d9bc", doNotHash: false, doNotCopy: false, hashAddressBar: false });</script>
+    
+    
+
+
+
+    <script src="/js/mobile_rd.js" type="text/javascript"></script>
+    <script src="/js/main.js?t=20161202"></script>
+    <!--[if lt IE 9]>
+		<link rel="stylesheet" href="/css/ie_main.css" />
+		<script src="/js/vendor/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body style="">
+    <form method="post" action="/Privacy-Policy/" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="EktronClientManager" id="EktronClientManager" value="-1759591071,-569449246,-1939951303,-1080527330,-1687560804,-1388997516,2009761168,27274999,1979897163,-422906301,-1818005853,-1008700845,-1793043690,-300771134,1985268503">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTg5ODU3OTcyOQ9kFgJmD2QWAmYPZBYCZg9kFgYCAQ9kFgoCAg8WAh4HY29udGVudGRkAgMPFgIfAAX3AVRoaXMgZG9jdW1lbnQgaW5mb3JtcyB0aGUgZ2VuZXJhbCBwdWJsaWMgb2YgdGhlIFVuaXZlcnNpdHnigJlzIHBvbGljeSByZWdhcmRpbmcgdGhlIGNvbGxlY3Rpb24sIHVzZSwgYW5kIGRpc2Nsb3N1cmUgb2YgaW5mb3JtYXRpb24gc2VudCB0byB0aGUgVW5pdmVyc2l0eSYjMzk7cyB3ZWJzaXRlc+KAmSBzZXJ2ZXJzLCBib3RoIGF1dG9tYXRpY2FsbHkgYW5kIHZvbHVudGFyaWx5LCBmcm9tIHZpc2l0b3JzIHRvIHRoZSB3ZWJzaXRlcy5kAgQPFgIeB1Zpc2libGVoZAIKDxYCHgRUZXh0BW88bWV0YSBwcm9wZXJ0eT0ib2c6aW1hZ2UiIGNvbnRlbnQ9Imh0dHBzOi8vd3d3LndvcmNlc3Rlci5lZHU6NDQzL3VwbG9hZGVkSW1hZ2VzL0ZhY2Vib29rRGVmYXVsdExpbmtJbWFnZS5wbmciLz5kAhEPFgIfAgXeGDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48IS0tDQooZnVuY3Rpb24oaSxzLG8sZyxyLGEsbSl7aVsnR29vZ2xlQW5hbHl0aWNzT2JqZWN0J109cjtpW3JdPWlbcl18fGZ1bmN0aW9uKCl7DQogIChpW3JdLnE9aVtyXS5xfHxbXSkucHVzaChhcmd1bWVudHMpfSxpW3JdLmw9MSpuZXcgRGF0ZSgpO2E9cy5jcmVhdGVFbGVtZW50KG8pLA0KICBtPXMuZ2V0RWxlbWVudHNCeVRhZ05hbWUobylbMF07YS5hc3luYz0xO2Euc3JjPWc7bS5wYXJlbnROb2RlLmluc2VydEJlZm9yZShhLG0pDQogIH0pKHdpbmRvdyxkb2N1bWVudCwnc2NyaXB0JywnLy93d3cuZ29vZ2xlLWFuYWx5dGljcy5jb20vYW5hbHl0aWNzLmpzJywnZ2EnKTsNCiAgZ2EoJ2NyZWF0ZScsICdVQS00NjMyNDQ3LTEwJywgJ2F1dG8nKTsNCiAgZ2EoJ3JlcXVpcmUnLCAnZGlzcGxheWZlYXR1cmVzJyk7DQogIGdhKCdzZW5kJywgJ3BhZ2V2aWV3Jyk7DQovLy0tPjwvc2NyaXB0PjwhLS0gR2xvYmFsIHNpdGUgdGFnIChndGFnLmpzKSAtIEdvb2dsZSBBZHM6IDgyNDA2MTA0MCAtLT48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndGFnL2pzP2lkPUFXLTgyNDA2MTA0MCIgYXN5bmM9ImFzeW5jIj48L3NjcmlwdD48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+PCEtLQ0Kd2luZG93LmRhdGFMYXllciA9IHdpbmRvdy5kYXRhTGF5ZXIgfHwgW107DQpmdW5jdGlvbiBndGFnKCl7ZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKTt9DQpndGFnKCdqcycsIG5ldyBEYXRlKCkpOw0KZ3RhZygnY29uZmlnJywgJ0FXLTgyNDA2MTA0MCcpOw0KLy8tLT48L3NjcmlwdD48IS0tIEZhY2Vib29rIHNvY2lhbCBwbHVnaW4gc2NyaXB0IC0tPjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48IS0tDQooZnVuY3Rpb24oZCwgcywgaWQpIHsNCiAgdmFyIGpzLCBmanMgPSBkLmdldEVsZW1lbnRzQnlUYWdOYW1lKHMpWzBdOw0KICBpZiAoZC5nZXRFbGVtZW50QnlJZChpZCkpIHJldHVybjsNCiAganMgPSBkLmNyZWF0ZUVsZW1lbnQocyk7IGpzLmlkID0gaWQ7DQogIGpzLnNyYyA9ICdodHRwczovL2Nvbm5lY3QuZmFjZWJvb2submV0L2VuX1VTL3Nkay5qcyN4ZmJtbD0xJnZlcnNpb249djMuMic7DQogIGZqcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShqcywgZmpzKTsNCn0oZG9jdW1lbnQsICdzY3JpcHQnLCAnZmFjZWJvb2stanNzZGsnKSk7DQovLy0tPjwvc2NyaXB0PjwhLS1bU2l0ZUltcHJvdmUgQW5hbHl0aWNzXSAtLT48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+PCEtLQ0KJChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24gKCkgew0KCQl2YXIgc3ogPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsNCgkJc3oudHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOw0KCQlzei5hc3luYyA9IHRydWU7DQoJCXN6LnNyYyA9ICcvL3VzMi5zaXRlaW1wcm92ZS5jb20vanMvc2l0ZWFuYWx5emVfNjYzNTc0ODIuanMnOw0KCQl2YXIgcyA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsNCgkJcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShzeiwgcyk7DQoJfSk7DQovLy0tPjwvc2NyaXB0PjwhLS0gZW5kIG9mIFNpdGVJbXByb3ZlIC0tPjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48IS0tDQokKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbigpIHsNCg0KCS8vIHRyYWNrIGRvd25sb2FkIGNsaWNrcyAtIHdoaWNoIGRvY3VtZW50IGlkIGFuZCBmcm9tIHdoaWNoIHBhZ2UNCgkkKGRvY3VtZW50KS5vbignY2xpY2snLCAnYVtocmVmKj0iL1dvcmtBcmVhL0Rvd25sb2FkQXNzZXQuYXNweD9pZD0iXScsIGZ1bmN0aW9uKGUpIHsNCgkJdmFyIGlkID0gJCh0aGlzKS5hdHRyKCdocmVmJykubWF0Y2goL1xkKy9nKTsNCgkJdmFyIHVybCA9IHdpbmRvdy5sb2NhdGlvbi5ocmVmLnJlcGxhY2Uod2luZG93LmxvY2F0aW9uLm9yaWdpbiwgJycpLnRvTG93ZXJDYXNlKCk7DQoJCWdhKCdzZW5kJywgJ2V2ZW50JywgJ2Rvd25sb2FkJywgaWRbMF0sIHVybCk7DQoJfSk7DQoNCgkkKCdib2R5Lm15V1NVSG9tZSBzZWN0aW9uI2ltYWdlR3JpZCBmaWd1cmUnKS5lYWNoKGZ1bmN0aW9uKGkpIHsNCgkJJCh0aGlzKS5maW5kKCdhJykub24oJ2NsaWNrJywgZnVuY3Rpb24oZSkgew0KCQkJdmFyIHVybCA9ICQodGhpcykuYXR0cignaHJlZicpLnRvTG93ZXJDYXNlKCkNCgkJCWdhKCdzZW5kJywgJ2V2ZW50JywgJ3NwLXRpbGUnLCAnY2xpY2snLCB1cmwpOw0KCQl9KTsNCgl9KTsNCg0KCS8vIGhhbmRsZSBhdXRvLWV4cGFuZGluZyBoaWRlLWFuZC1yZXZlYWxzIHdpdGggYSBudW1lcmljIFVSTCBmcmFnbWVudCAoZS5nLiAvVmlzaXQtVXMvIzMgKQ0KCXZhciBzdGVwID0gd2luZG93LmxvY2F0aW9uLmhhc2gucmVwbGFjZSgvW14wLTldL2csJycpOw0KDQoJaWYgKGlzTmFOKHN0ZXApIHx8IHN0ZXA9PScnIHx8IHR5cGVvZihzdGVwKT09J3VuZGVmaW5lZCcpIHsNCg0KCQl2YXIgcGF0dGVybiA9IC9cL3Zpc2l0LXVzXC8vaTsNCg0KCQlpZiAocGF0dGVybi50ZXN0KHdpbmRvdy5sb2NhdGlvbi5wYXRobmFtZSkpIHsNCg0KCQkJY29sbGFwc2VfZXhwYW5kX2hpZGVyZXZlYWwoMCk7DQoNCgkJCXJldHVybiB0cnVlOw0KDQoJCX0gZWxzZSB7DQoNCgkJCXJldHVybiBmYWxzZTsNCg0KCQl9DQoNCgl9IGVsc2Ugew0KDQoJCXN0ZXAgPSBwYXJzZUludChzdGVwKTsJLy9lbnN1cmUgaXQncyBhbiBpbnRlZ2VyDQoJCXN0ZXAgPSBzdGVwIC0gMTsJCS8vY29udmVydCBpdCB0byBhbiBpbmRleCByZWZlcmVuY2UNCg0KCQlpZiAoJCgnLkhpZGVSZXZlYWwgZGQnKS5lcShzdGVwKSkgew0KCQkJY29sbGFwc2VfZXhwYW5kX2hpZGVyZXZlYWwoc3RlcCk7DQoJCX0NCg0KCQlyZXR1cm4gdHJ1ZTsNCg0KCX0NCn0pOw0KDQpmdW5jdGlvbiBjb2xsYXBzZV9leHBhbmRfaGlkZXJldmVhbChpKSB7DQoJJCgnLkhpZGVSZXZlYWwgZHQnKS5yZW1vdmVDbGFzcygnYWN0aXZlJyk7DQoJJCgnLkhpZGVSZXZlYWwgZGQnKS5oaWRlKCk7DQoNCgkkKCcuSGlkZVJldmVhbCBkdCcpLmVxKGkpLmFkZENsYXNzKCdhY3RpdmUnKTsNCgkkKCcuSGlkZVJldmVhbCBkZCcpLmVxKGkpLnNob3coKTsNCg0KCXJldHVybiB0cnVlOw0KfQ0KLy8tLT48L3NjcmlwdD5kAgMQZGQWCgIDDw8WAh8BZ2RkAgcPDxYEHg1BbHRlcm5hdGVUZXh0BQxMb2dvX0Rlc2t0b3AeCEltYWdlVXJsBUcvdXBsb2FkZWRJbWFnZXMvV2Vic2l0ZV9Bc3NldHMvSW1hZ2VzL1NpdGVfU3BlY2lmaWMvTG9nby1XU1UucG5nP249NzA5NmRkAggPDxYEHwMFC0xvZ29fTW9iaWxlHwQFUS91cGxvYWRlZEltYWdlcy9XZWJzaXRlX0Fzc2V0cy9JbWFnZXMvU2l0ZV9TcGVjaWZpYy9IZWFkZXItbG9nby1XU1VfeDIucG5nP249MzUzNmRkAgoPZBYEZg9kFgICAQ8WAh8BaGQCAg9kFgwCAw9kFgJmD2QWBGYPZBYCAgMPZBYCZg9kFgICAQ8WAh4FY2xhc3MFEGRyb3B6b25lIFBCQ2xlYXJkAgEPZBYCAgEPZBYCZg9kFgICAQ9kFgICAQ8WAh4LXyFJdGVtQ291bnQCARYCZg9kFgZmDxUCEyBzdHlsZT0nd2lkdGg6MTAwJScAZAIBDxYCHwFoZAIDDxYCHwYCAWQCBw9kFgICAg9kFgJmDxYCHwYC/////w9kAgkPDxYCHwFoZGQCDQ9kFgJmD2QWBGYPZBYCAgMPZBYCZg9kFgICAQ8WAh8FBRBkcm9wem9uZSBQQkNsZWFyZAIBD2QWAgIBD2QWAmYPZBYCAgEPZBYCAgEPFgIfBgIBFgJmD2QWBmYPFQITIHN0eWxlPSd3aWR0aDoxMDAlJwBkAgEPFgIfAWhkAgMPFgIfBgIBZAIPDxYCHwUFH2Z1bGxDb2wgZm9vdGVyRHJvcFpvbmUgc21hbGxDb2wWAgIBD2QWAmYPZBYEZg9kFgICAw9kFgJmD2QWAgIBDxYCHwUFEGRyb3B6b25lIFBCQ2xlYXJkAgEPZBYCAgEPZBYCZg9kFgICAQ9kFgICAQ8WAh8GAgEWAmYPZBYGZg8VAhQgc3R5bGU9J3dpZHRoOjI5NXB4JwBkAgEPFgIfAWhkAgMPFgIfBmZkAhEPZBYCZg9kFgRmD2QWAgIDD2QWAmYPZBYCAgEPFgIfBQUQZHJvcHpvbmUgUEJDbGVhcmQCAQ9kFgICAQ9kFgJmD2QWAgIBD2QWAgIBDxYCHwYCARYCZg9kFgZmDxUCEyBzdHlsZT0nd2lkdGg6MTAwJScAZAIBDxYCHwFoZAIDDxYCHwZmZAIMDxYCHwYCBBYIAgEPZBYCZg8VBChodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3dvcmNlc3RlcnN0YXRlBl9ibGFua0svdXBsb2FkZWRJbWFnZXMvV2Vic2l0ZV9Bc3NldHMvSW1hZ2VzL1NpdGVfU3BlY2lmaWMvc29jaWFsLUluc3RhZ3JhbUAyeC5wbmcRTGluayB0byBJbnN0YWdyYW1kAgIPZBYCZg8VBDFodHRwczovL3d3dy5mYWNlYm9vay5jb20vV29yY2VzdGVyU3RhdGVVbml2ZXJzaXR5Bl9ibGFua0ovdXBsb2FkZWRJbWFnZXMvV2Vic2l0ZV9Bc3NldHMvSW1hZ2VzL1NpdGVfU3BlY2lmaWMvc29jaWFsLWZhY2Vib29rQDJ4LnBuZxBMaW5rIHRvIEZhY2Vib29rZAIDD2QWAmYPFQQiaHR0cHM6Ly90d2l0dGVyLmNvbS93b3JjZXN0ZXJzdGF0ZQZfYmxhbmtJL3VwbG9hZGVkSW1hZ2VzL1dlYnNpdGVfQXNzZXRzL0ltYWdlcy9TaXRlX1NwZWNpZmljL3NvY2lhbC10d2l0dGVyQDJ4LnBuZw9MaW5rIHRvIFR3aXR0ZXJkAgQPZBYCZg8VBCpodHRwOi8vd3d3LnlvdXR1YmUuY29tL3VzZXIvV29yY2VzdGVyU3RhdGUASS91cGxvYWRlZEltYWdlcy9XZWJzaXRlX0Fzc2V0cy9JbWFnZXMvU2l0ZV9TcGVjaWZpYy9zb2NpYWwteW91dHViZUAyeC5wbmcPTGluayB0byBZb3VUdWJlZAIFDxYCHwJlZBgJBYUBY3RsMDAkY3RsMDAkY3RsMDAkTWFpbkJvZHkkQm9keUNvbnRlbnQkRHJvcFpvbmUxJHV4Q29sdW1uRGlzcGxheSRjdGwwMCR1eENvbnRyb2xDb2x1bW4kY3RsMDAkdXhXaWRnZXRIb3N0JHV4V2lkZ2V0SG9zdF93aWRnZXQkVmlld1NldA8PZGZkBYUBY3RsMDAkY3RsMDAkY3RsMDAkTWFpbkJvZHkkQm9keUNvbnRlbnQkRHJvcFpvbmUyJHV4Q29sdW1uRGlzcGxheSRjdGwwMCR1eENvbnRyb2xDb2x1bW4kY3RsMDAkdXhXaWRnZXRIb3N0JHV4V2lkZ2V0SG9zdF93aWRnZXQkVmlld1NldA8PZGZkBUNjdGwwMCRjdGwwMCRjdGwwMCRNYWluQm9keSRCb2R5Q29udGVudCREcm9wWm9uZV9UaHJlZUNvbCR1eFVYU3dpdGNoDw9kAgFkBTtjdGwwMCRjdGwwMCRjdGwwMCRNYWluQm9keSRCb2R5Q29udGVudCREcm9wWm9uZTMkdXhVWFN3aXRjaA8PZAIBZAV0Y3RsMDAkY3RsMDAkY3RsMDAkTWFpbkJvZHkkQm9keUNvbnRlbnQkRHJvcFpvbmUxJHV4Q29sdW1uRGlzcGxheSRjdGwwMCR1eENvbnRyb2xDb2x1bW4kY3RsMDAkdXhXaWRnZXRIb3N0JHV4VVhTd2l0Y2gPD2QCAWQFO2N0bDAwJGN0bDAwJGN0bDAwJE1haW5Cb2R5JEJvZHlDb250ZW50JFBhZ2VIb3N0MSR1eFVYU3dpdGNoDw9kAgFkBTtjdGwwMCRjdGwwMCRjdGwwMCRNYWluQm9keSRCb2R5Q29udGVudCREcm9wWm9uZTEkdXhVWFN3aXRjaA8PZAIBZAU7Y3RsMDAkY3RsMDAkY3RsMDAkTWFpbkJvZHkkQm9keUNvbnRlbnQkRHJvcFpvbmUyJHV4VVhTd2l0Y2gPD2QCAWQFdGN0bDAwJGN0bDAwJGN0bDAwJE1haW5Cb2R5JEJvZHlDb250ZW50JERyb3Bab25lMiR1eENvbHVtbkRpc3BsYXkkY3RsMDAkdXhDb250cm9sQ29sdW1uJGN0bDAwJHV4V2lkZ2V0SG9zdCR1eFVYU3dpdGNoDw9kAgFkIFo9I8jWxdz8xwpTMhftokU8ggHAQJYJ68zeHJSXeME=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=ZKZkZpRz-4toBjM5LJagFh6WW3ycqgKK4jZyvgbds4yrtstdNQoSswY9Ao4LJAkk-u0aVKgStNc-FKvb1_A65MOLy3-Fb1DexGQo1K7kcW01&amp;t=636765319264470882" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=9iIt6gDfOAQHkJnkizvWfpZWnqIOm0WR6jriwgwY1OG1EbB-jh_z6suQhmigSqBWgGMxlV2J85DolCXxrdq4dncRj8b6IMpveXhpoOewr0FGCSLZWIYJNslzigf398te0PRPSdiV5PxRP1wEjvBe6SnNehEAOvhSRD_HsF5Zq9k1&amp;t=ffffffff999c3159" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=qFcjdLhNfu3RBhH7gRUTtmKnSEJgNGTtUB-1xhCbMQ5qskzxfyU_L_3oisEyaYvnMN7pJnyfZBJkGaorNOaGt4sEeC2O--m6uJIHencNLELfvvzYiRIAK7STNqbjXxH6hqaxK5GCP_sSKVK7l82OnHzY4q7GJNkdpZ2KrAabHKiBqCPmbBt-edqwybXZHHh60&amp;t=ffffffff999c3159" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="05E0F5E4">
+</div>
+        <div id="wrapper">
+            <div class="Page clearfix">
+                <header class="Header">
+                    <div id="navButtonContainer">
+                        <input id="navButton" name="navButton" type="checkbox" class="navButton">
+                        <label id="navButtonLabel" for="navButton">
+                            <span>MENU</span>
+                        </label>
+                    </div>
+                    <div id="NavigationHolder">
+                        <div id="UtilityBarMenu">
+                            <ul class="menu">
+  <li><a class="active" href="/About/">About</a><ul style="display: none;">
+      <li><a class="" href="/Recognition-and-Accreditation/">Recognition and Accreditation</a></li>
+      <li><a class="" href="/Mission-Statement/">Mission Statement</a></li>
+      <li><a class="" href="/Presidents-Office/">President's Office</a></li>
+      <li><a class="" href="/Campus-Communications/">Campus Communications</a></li>
+      <li><a class="" href="/Our-History/">Our History</a></li>
+      <li><a class="" href="/Campus-Renewal/">Campus Renewal</a></li>
+      <li><a class="" href="/Trustees/">WSU Board of Trustees</a></li>
+      <li><a class="" href="/Administrative-Offices/">Administrative Offices</a></li>
+      <li><a class="" href="/Conference-and-Event-Services/">Conference and Event Services</a></li>
+      <li><a class="" href="/Commencement/">Commencement</a></li>
+      <li><a class="" href="/Convocation/">Academic Convocation</a></li>
+      <li><a class="" href="/Student-Consumer-Information/">Student Consumer Information</a></li>
+      <li><a class="" href="/Higher-Education-Consortium-of-Central-Massachusetts/">Higher Education Consortium of Central Massachusetts</a></li>
+      <li><a class="" href="/Transcript-Request/">Transcript Request</a></li>
+      <li><a class="active" href="/Privacy-Policy/">Privacy Policy</a></li>
+      <li><a class="" href="/Public-Records-Requests/">Public Records Requests</a></li>
+    </ul>
+  </li>
+  <li><a class="" href="/Library/">Library</a><ul style="display: none;">
+      <li><a class="" href="/About-the-Library/">About the Library</a></li>
+      <li><a class="" href="/Circulation-Desk/">Services</a></li>
+      <li><a class="" href="/Faculty-Profiles/Library/Jorge-Brown/">Jorge Brown</a></li>
+      <li><a class="" href="/Faculty-Profiles/Library/Ross-Griffiths/">Ross Griffiths</a></li>
+      <li><a class="" href="/Faculty-Profiles/Library/Vicki-Gruzynski/">Vicki Gruzynski</a></li>
+      <li><a class="" href="/Faculty-Profiles/Library/William-Lundmark/">William Lundmark</a></li>
+      <li><a class="" href="/Faculty-Profiles/Library/Shu-Qian/">Shu Qian</a></li>
+      <li><a class="" href="/Faculty-Profiles/Library/William-Shakalis/">William Shakalis</a></li>
+    </ul>
+  </li>
+  <li><a class="" href="http://news.worcester.edu">News</a></li>
+  <li><a class="" href="/Event-Calendar/">Events</a><ul style="display: none;">
+      <li><a class="" href="/Event-Calendar/">Event Calendar</a></li>
+      <li><a class="" href="http://alumni.worcester.edu/s/140/index.aspx?sid=140&amp;gid=1&amp;pgid=13&amp;cid=726">Alumni Event Calendar</a></li>
+      <li><a class="" href="https://news.worcester.edu/social-media/">WSU Social Media</a></li>
+      <li><a class="" href="/Livestream/">Livestreaming Events</a></li>
+    </ul>
+  </li>
+  <li><a class="" href="/Contact-Us/">Contact Us</a><ul style="display: none;">
+      <li><a class="" href="/Campus-Map/">Campus Map</a></li>
+      <li><a class="" href="/Directions/">Directions</a></li>
+      <li><a class="" href="/Parking/">Parking</a></li>
+      <li><a class="" href="/Inclement-Weather-Policy/">Inclement Weather Policy</a></li>
+      <li><a class="" href="/Shuttles/">Shuttle Services</a></li>
+      <li><a class="" href="/Visitor-Parking-Pass-Request-Form/">Visitor Parking Pass Request Form</a></li>
+    </ul>
+  </li>
+</ul>
+                            <ul class="UtilityBarIcons menu">
+  <li id="mobileSearch" class="dropdown">
+    <a href="#">
+      <img src="/uploadedImages/search.png" alt="" height="16">
+      <span>Search</span>
+    </a>
+    <ul style="display: none;" class="UtilityBar">
+      <li class="search">
+        <input type="text" class="textbox" placeholder="Search" id="searchBoxMobile" title="Search">
+        <a href="/search/?q=" class="button" id="searchLinkMobile">
+          <span>Search</span>
+        </a>
+        <span class="sidenote">
+              or browse our <a href="/Sitemap/">sitemap</a></span>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="/Directory/">
+      <img height="16" src="/uploadedImages/directory.png" alt="">
+      <span>Directory</span>
+    </a>
+  </li>
+  <li class="dropdown">
+    <a href="#">
+      <img height="16" src="/uploadedImages/myWSU.png" alt="myWSU Open">
+      <span>myWSU</span>
+    </a>
+    <ul style="display: none;">
+      <li>
+        <a href="http://mywsu.worcester.edu" target="_blank">myWSU</a>
+      </li>
+      <li>
+        <a href="http://gmail.worcester.edu" target="_blank">WSU Gmail</a>
+      </li>
+      <li>
+        <a href="http://blackboard.worcester.edu" target="_blank">Blackboard2</a>
+      </li>
+      <li>
+        <a href="http://webadvisor.worcester.edu" target="_blank">Webadvisor</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+                        </div>
+                            <div class="custommobileleftnav">
+  <ul class="PrimaryMenu ToolbarMobile" data-menuid="391">
+    <li class="active"><a class="active" href="/About/">About</a><span class="expand"></span><ul>
+        <li class=""><a class="" href="/Recognition-and-Accreditation/">Recognition and Accreditation</a></li>
+        <li class=""><a class="" href="/Mission-Statement/">Mission Statement</a></li>
+        <li class=""><a class="" href="/Presidents-Office/">President's Office</a><span class="expand"></span><ul>
+            <li class=""><a class="" href="/FP-Campus-Conversations/">Campus Conversations</a></li>
+            <li class=""><a class="" href="/Leadership-Team/">Leadership Team</a></li>
+            <li class=""><a class="" href="/Presidential-Student-Ambassadors/">Presidential Student Ambassadors</a><span class="expand"></span><ul>
+                <li class=""><a class="" href="/New-Ambassador-Application/">New Ambassador Application</a></li>
+                <li class=""><a class="" href="/Request-an-Ambassador/">Request an Ambassador</a></li>
+                <li class=""><a class="" href="/Returning-Ambassador-Application/">Returning Ambassador Application</a></li>
+              </ul>
+            </li>
+            <li class=""><a class="" href="/Presidents-Bio/">President's Biography</a></li>
+            <li class=""><a class="" href="/Presidents-Message/">President's Message</a></li>
+            <li class=""><a class="" href="/Presidents-Office-Staff/">President's Office Staff</a></li>
+            <li class=""><a class="" href="/Strategic-Plan/">Strategic Plan</a></li>
+          </ul>
+        </li>
+        <li class=""><a class="" href="/Campus-Communications/">Campus Communications</a><span class="expand"></span><ul>
+            <li class=""><a class="" href="/Identity/">University Identity</a></li>
+          </ul>
+        </li>
+        <li class=""><a class="" href="/Our-History/">Our History</a></li>
+        <li class=""><a class="" href="/Campus-Renewal/">Campus Renewal</a><span class="expand"></span><ul>
+            <li class=""><a class="" href="/Facilities/">Facilities</a></li>
+          </ul>
+        </li>
+        <li class=""><a class="" href="/Trustees/">WSU Board of Trustees</a><span class="expand"></span><ul>
+            <li class=""><a class="" href="http://www.worcester.edu/WorkArea/DownloadAsset.aspx?id=10988">Board of Trustees By-Laws</a></li>
+            <li class=""><a class="" href="http://www2.worcester.edu/teamsites/bot/default.aspx">Board of Trustees Minutes</a></li>
+            <li class=""><a class="" href="/Board-of-Trustees-Packets/">Board of Trustees Packets</a></li>
+          </ul>
+        </li>
+        <li class=""><a class="" href="/Administrative-Offices/">Administrative Offices</a><span class="expand"></span><ul>
+            <li class=""><a class="" href="/Human-Resources/">Human Resources</a><span class="expand"></span><ul>
+                <li class=""><a class="" href="https://worcester.interviewexchange.com/">Careers at WSU</a></li>
+                <li class=""><a class="" href="/HR-Employment-Process/">Employment Process</a></li>
+                <li class=""><a class="" href="/WorkArea/DownloadAsset.aspx?id=8970">University Prospectus</a></li>
+                <li class=""><a class="" href="/worcester-living/">Worcester Living</a></li>
+                <li class=""><a class="" href="/HR-Staff/">Meet the Staff</a></li>
+              </ul>
+            </li>
+            <li class=""><a class="" href="/Diversity/">Diversity</a></li>
+          </ul>
+        </li>
+        <li class=""><a class="" href="/Conference-and-Event-Services/">Conference and Event Services</a></li>
+        <li class=""><a class="" href="/Commencement/">Commencement</a><span class="expand"></span><ul>
+            <li class=""><a class="" href="/Undergraduate-Commencement/">Undergraduate Commencement</a></li>
+            <li class=""><a class="" href="/Checklist-for-Undergraduate/">Checklist for Undergraduate Students</a></li>
+            <li class=""><a class="" href="/Graduate-Commencement/">Graduate Commencement</a></li>
+            <li class=""><a class="" href="/Checklist-for-Graduate/">Checklist for Graduate Students</a></li>
+            <li class=""><a class="" href="/2018-Photo-Galleries/">2018 Photo Galleries</a></li>
+          </ul>
+        </li>
+        <li class=""><a class="" href="/Convocation/">Academic Convocation</a></li>
+        <li class=""><a class="" href="/Transcript-Request/">Transcript Request</a></li>
+      </ul>
+    </li>
+    <li class="closed"><a class="" href="/Library/">Library</a><span class="expand"></span><ul>
+        <li class=""><a class="" href="/About-the-Library/">About the Library</a><span class="expand"></span><ul>
+            <li class=""><a class="" href="http://libguides.worcester.edu/staff">Meet the Staff</a></li>
+            <li class=""><a class="" href="/Dennis-Brutus-at-WSU/">Dennis Brutus Collection</a><span class="expand"></span><ul>
+                <li class=""><a class="" href="/Dennis-Brutus-Collection-Description/">Dennis Brutus Collection Description</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li class=""><a class="" href="/Circulation-Desk/">Services</a><span class="expand"></span><ul>
+            <li class=""><a class="" href="/Acquisitions-Desk/">Acquisitions Desk</a></li>
+            <li class=""><a class="" href="/Circulation-Desk/">Circulation Desk</a></li>
+            <li class=""><a class="" href="/Reserve-Desk/">Reserve Desk</a></li>
+            <li class=""><a class="" href="/Interlibrary-Loan-Desk/">Interlibrary Loan Desk</a></li>
+            <li class=""><a class="" href="/Off-Campus-Access/">Off-Campus Access</a></li>
+            <li class=""><a class="" href="http://libguides.worcester.edu/content.php?pid=488235&amp;sid=4068594">Faculty Services</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li class=""><a class="" href="http://news.worcester.edu">News</a></li>
+    <li class="closed"><a class="" href="/Event-Calendar/">Events</a><span class="expand"></span><ul>
+        <li class=""><a class="" href="/Event-Calendar/">Event Calendar</a></li>
+        <li class=""><a class="" href="http://alumni.worcester.edu/s/140/index.aspx?sid=140&amp;gid=1&amp;pgid=13&amp;cid=726">Alumni Event Calendar</a></li>
+        <li class=""><a class="" href="https://news.worcester.edu/social-media/">WSU Social Media</a></li>
+        <li class=""><a class="" href="/Livestream/">Livestreaming Events</a></li>
+      </ul>
+    </li>
+    <li class="closed"><a class="" href="/Contact-Us/">Contact Us</a><span class="expand"></span><ul>
+        <li class=""><a class="" href="/Campus-Map/">Campus Map</a></li>
+        <li class=""><a class="" href="/Directions/">Directions</a></li>
+        <li class=""><a class="" href="/Parking/">Parking</a></li>
+        <li class=""><a class="" href="/Inclement-Weather-Policy/">Inclement Weather Policy</a></li>
+        <li class=""><a class="" href="/Shuttles/">Shuttle Services</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+                        <div id="ctl00_ctl00_ctl00_LeftMenuXsltUtility" class="custommobileleftnav">
+	<ul class="MainMenu" data-menuid="391"><li><span class="expandable"></span><a class="active" href="/About/">About</a><ul><li><a href="/Recognition-and-Accreditation/">Recognition and Accreditation</a></li><li><a href="/Mission-Statement/">Mission Statement</a></li><li class="closed"><span class="expandable"></span><a href="/Presidents-Office/">President's Office</a><ul><li><a href="/FP-Campus-Conversations/">Campus Conversations</a></li><li><a href="/Leadership-Team/">Leadership Team</a></li><li class="closed"><span class="expandable"></span><a href="/Presidential-Student-Ambassadors/">Presidential Student Ambassadors</a><ul><li><a href="/New-Ambassador-Application/">New Ambassador Application</a></li><li><a href="/Request-an-Ambassador/">Request an Ambassador</a></li><li><a href="/Returning-Ambassador-Application/">Returning Ambassador Application</a></li></ul></li><li><a href="/Presidents-Bio/">President's Biography</a></li><li><a href="/Presidents-Message/">President's Message</a></li><li><a href="/Presidents-Office-Staff/">President's Office Staff</a></li><li><a href="/Strategic-Plan/">Strategic Plan</a></li></ul></li><li class="closed"><span class="expandable"></span><a href="/Campus-Communications/">Campus Communications</a><ul><li class="closed"><a href="/Identity/">University Identity</a></li></ul></li><li><a href="/Our-History/">Our History</a></li><li class="closed"><span class="expandable"></span><a href="/Campus-Renewal/">Campus Renewal</a><ul><li><a href="/Facilities/">Facilities</a></li></ul></li><li class="closed"><span class="expandable"></span><a href="/Trustees/">WSU Board of Trustees</a><ul><li><a href="http://www.worcester.edu/WorkArea/DownloadAsset.aspx?id=10988">Board of Trustees By-Laws</a></li><li><a href="http://www2.worcester.edu/teamsites/bot/default.aspx">Board of Trustees Minutes</a></li><li><a href="/Board-of-Trustees-Packets/">Board of Trustees Packets</a></li></ul></li><li class="closed"><span class="expandable"></span><a href="/Administrative-Offices/">Administrative Offices</a><ul><li class="closed"><span class="expandable"></span><a href="/Human-Resources/">Human Resources</a><ul><li><a href="https://worcester.interviewexchange.com/">Careers at WSU</a></li><li><a href="/HR-Employment-Process/">Employment Process</a></li><li><a href="/WorkArea/DownloadAsset.aspx?id=8970">University Prospectus</a></li><li><a href="/worcester-living/">Worcester Living</a></li><li><a href="/HR-Staff/">Meet the Staff</a></li></ul></li><li class="closed"><a href="/Diversity/">Diversity</a></li></ul></li><li class="closed"><a href="/Conference-and-Event-Services/">Conference and Event Services</a></li><li class="closed"><span class="expandable"></span><a href="/Commencement/">Commencement</a><ul><li><a href="/Undergraduate-Commencement/">Undergraduate Commencement</a></li><li><a href="/Checklist-for-Undergraduate/">Checklist for Undergraduate Students</a></li><li><a href="/Graduate-Commencement/">Graduate Commencement</a></li><li><a href="/Checklist-for-Graduate/">Checklist for Graduate Students</a></li><li><a href="/2018-Photo-Galleries/">2018 Photo Galleries</a></li></ul></li><li><a href="/Convocation/">Academic Convocation</a></li><li><a href="/Transcript-Request/">Transcript Request</a></li></ul></li><li class="closed"><span class="expandable"></span><a href="/Library/">Library</a><ul><li class="closed"><span class="expandable"></span><a href="/About-the-Library/">About the Library</a><ul><li><a href="http://libguides.worcester.edu/staff">Meet the Staff</a></li><li class="closed"><span class="expandable"></span><a href="/Dennis-Brutus-at-WSU/">Dennis Brutus Collection</a><ul><li><a href="/Dennis-Brutus-Collection-Description/">Dennis Brutus Collection Description</a></li></ul></li></ul></li><li class="closed"><span class="expandable"></span><a href="/Circulation-Desk/">Services</a><ul><li><a href="/Acquisitions-Desk/">Acquisitions Desk</a></li><li><a href="/Circulation-Desk/">Circulation Desk</a></li><li><a href="/Reserve-Desk/">Reserve Desk</a></li><li><a href="/Interlibrary-Loan-Desk/">Interlibrary Loan Desk</a></li><li><a href="/Off-Campus-Access/">Off-Campus Access</a></li><li><a href="http://libguides.worcester.edu/content.php?pid=488235&amp;sid=4068594">Faculty Services</a></li></ul></li></ul></li><li><a href="http://news.worcester.edu">News</a></li><li class="closed"><span class="expandable"></span><a href="/Event-Calendar/">Events</a><ul><li><a href="/Event-Calendar/">Event Calendar</a></li><li><a href="http://alumni.worcester.edu/s/140/index.aspx?sid=140&amp;gid=1&amp;pgid=13&amp;cid=726">Alumni Event Calendar</a></li><li><a href="https://news.worcester.edu/social-media/">WSU Social Media</a></li><li><a href="/Livestream/">Livestreaming Events</a></li></ul></li><li class="closed"><span class="expandable"></span><a href="/Contact-Us/">Contact Us</a><ul><li><a href="/Campus-Map/">Campus Map</a></li><li><a href="/Directions/">Directions</a></li><li><a href="/Parking/">Parking</a></li><li><a href="/Inclement-Weather-Policy/">Inclement Weather Policy</a></li><li><a href="/Shuttles/">Shuttle Services</a></li></ul></li></ul>
+</div>
+                        
+                        <ul class="PrimaryMenu">
+  <li class=""><a class="" href="/Academics/">ACADEMICS</a><span class="expand"></span><ul>
+      <li class=""><a class="" href="/Majors-Minors/">Majors &amp; Minors</a></li>
+      <li class=""><a class="" href="/Academics/Schools-and-Departments/Schools/">Schools &amp; Departments</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Departments/">Departments</a></li>
+          <li class=""><a class="" href="/Deans-List/">Dean's List</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/Provosts-Office/">Provost's Office</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Institutional-Assessment-and-Planning/">Institutional Assessment &amp; Planning</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/Institutional-Assessment/">Institutional Assessment</a></li>
+              <li class=""><a class="" href="/Institutional-Surveys/">Institutional Surveys</a></li>
+              <li class=""><a class="" href="/Strategic-Planning/">Strategic Planning</a></li>
+              <li class=""><a class="" href="/Institutional-Research/">Institutional Research</a><span class="expand"></span><ul>
+                  <li class=""><a class="" href="/FP-Data-Request/">Data Request</a></li>
+                  <li class=""><a class="" href="/University-Data/">University Data</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li class=""><a class="" href="/Research-Administration/">Research Administration</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/Faculty-Mini-Grants/">Faculty Mini-Grants</a></li>
+            </ul>
+          </li>
+          <li class=""><a class="" href="/Provost-Office-Staff/">Meet the Staff</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/New-Faculty/">New Faculty</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/Continuing-Education/">Continuing Education</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Evening-Offerings/">Evening Offerings</a></li>
+          <li class=""><a class="" href="/Online-Offerings/">Online Offerings</a></li>
+          <li class=""><a class="" href="/Adult-Learner/">Adult Learner</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/Adult-Learner-Resources/">Adult Learner Resources</a></li>
+            </ul>
+          </li>
+          <li class=""><a class="" href="/Certificates-and-Workshops/">Certificates and Workshops</a></li>
+          <li class=""><a class="" href="/Personal-Enrichment/">Personal Enrichment</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/Graduate/">Graduate School</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Graduate-Programs/">Graduate Programs</a></li>
+          <li class=""><a class="" href="/Graduate-Assistantships/">Graduate Assistantships</a></li>
+          <li class=""><a class="" href="/Graduate-Certificates-and-Licensures/">Graduate Certificates and Licensures</a></li>
+          <li class=""><a class="" href="/4PlusPrograms/">4-Plus Programs</a></li>
+          <li class=""><a class="" href="/Professional-Development/">Professional Development</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/Additional-Learning-Opportunities/">Additional Learning Opportunities</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Study-Away/">Study Away</a></li>
+          <li class=""><a class="" href="/Internships-Practicums-and-Clinicals/">Internships, Practicums and Clinicals</a></li>
+          <li class=""><a class="" href="/Scholarship-and-Research/">Scholarship and Research</a></li>
+          <li class=""><a class="" href="/Service-Learning/">Service Learning</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/Academic-Resources/">Academic Resources</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Academic-Support-Services/">Academic Support Services</a></li>
+          <li class=""><a class="" href="/Honors/">Honors Program</a></li>
+          <li class=""><a class="" href="/Student-Accessibility-Services/">Student Accessibility Services</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/Documentation-Guidelines/">Documentation Guidelines</a></li>
+            </ul>
+          </li>
+          <li class=""><a class="" href="/Library/">Library</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/Centers-and-Institutes/">Centers &amp; Institutes</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Center-for-Business-and-Industry/">Center for Business and Industry</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/Grants/">Grants</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Grants-Office/">Grants Office</a></li>
+          <li class=""><a class="" href="/Government-Grants/">Government Grants</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li class=""><a class="" href="/Admissions/">ADMISSIONS</a><span class="expand"></span><ul>
+      <li class=""><a class="" href="/apply/">Apply to WSU</a></li>
+      <li class=""><a class="" href="/Undergraduate-Admissions/">Undergraduate Admissions</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/First-Year-Students/">First-Year Students</a></li>
+          <li class=""><a class="" href="/Transfer-Students/">Transfer Students</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/Commonwealth-Commitment/">Commonwealth Commitment</a><span class="expand"></span><ul>
+                  <li class=""><a class="" href="/Commonwealth-Commitment-FAQ/">Frequently Asked Questions</a></li>
+                </ul>
+              </li>
+              <li class=""><a class="" href="/Newbury-College-Transfer-Options/">Newbury College Transfer Options</a></li>
+            </ul>
+          </li>
+          <li class=""><a class="" href="/Military-and-Veteran-Students/">Military and Veteran Students</a></li>
+          <li class=""><a class="" href="/Adult-Learner/">Adult Learner</a></li>
+          <li class=""><a class="" href="/Accepted-Students/">Accepted Students</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/Fall-Entry-Checklist/">Fall-Entry Checklist</a></li>
+              <li class=""><a class="" href="/Spring-Entry-Checklist/">Spring-Entry Checklist</a></li>
+              <li class=""><a class="" href="http://bit.ly/woostate2023">Connect with Classmates</a></li>
+            </ul>
+          </li>
+          <li class=""><a class="" href="/Courses-for-High-School-Students/">Courses for High School Students</a></li>
+          <li class=""><a class="" href="/Graduate-Outcomes/">Graduate Outcomes</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/International-Students/">International Students</a></li>
+      <li class=""><a class="" href="/Graduate-Admissions/">Graduate School Admissions</a></li>
+      <li class=""><a class="" href="/Paying-for-College/">Paying for College</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Undergraduate-Costs/">Costs</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/Undergraduate-Costs/">Undergraduate Costs</a></li>
+              <li class=""><a class="" href="/Graduate-Costs/">Graduate Costs</a></li>
+            </ul>
+          </li>
+          <li class=""><a class="" href="/Financial-Aid/">Financial Aid</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/Applying-for-Financial-Aid/">Applying for Financial Aid</a></li>
+              <li class=""><a class="" href="/Cost-of-Attendance/">Cost of Attendance</a></li>
+              <li class=""><a class="" href="/Financial-Aid-Forms/">Financial Aid Forms</a></li>
+              <li class=""><a class="" href="/Financial-Aid-Refunds/">Financial Aid Refunds</a></li>
+              <li class=""><a class="" href="/Financial-Literacy/">Financial Literacy</a></li>
+              <li class=""><a class="" href="/Financial-Aid-Staff/">Meet the Staff</a></li>
+              <li class=""><a class="" href="/Return-of-Title-IV-Funds-Policy/">Return of Title IV Funds Policy</a></li>
+              <li class=""><a class="" href="/Satisfactory-Academic-Progress-Policy/">Satisfactory Academic Progress Policy</a></li>
+              <li class=""><a class="" href="/Sources-of-Financial-Aid/">Sources of Financial Aid</a></li>
+              <li class=""><a class="" href="/Scholarships">WSU Scholarships</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/Visit-Us/">Visit Us</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/WSU-Near-You/">WSU Near You</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li class=""><a class="" href="/Life-at-WSU/">LIFE AT WSU</a><span class="expand"></span><ul>
+      <li class=""><a class="" href="/Athletics/">Athletics</a></li>
+      <li class=""><a class="" href="https://www.bkstr.com/worcesterstatestore/">Bookstore</a></li>
+      <li class=""><a class="" href="/Information-Technology/">Information Technology</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Technology-Services/">Technology Services</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/FacStaff-Technology-Services/">Faculty &amp; Staff Services</a></li>
+              <li class=""><a class="" href="/Student-Technology-Services/">Student Services</a></li>
+            </ul>
+          </li>
+          <li class=""><a class="" href="/Information-Technology/">Support &amp; Training</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/Blackboard-LMS/">Blackboard LMS</a></li>
+              <li class=""><a class="" href="/Colleague/">Colleague</a></li>
+              <li class=""><a class="" href="/Gmail-Google/">Gmail &amp; Google</a></li>
+              <li class=""><a class="" href="/ImageNow/">ImageNow</a></li>
+              <li class=""><a class="" href="/Labs-Printing/">Labs &amp; Printing</a></li>
+              <li class=""><a class="" href="/Media-Services-Support/">Media Services</a></li>
+              <li class=""><a class="" href="/Network/">Network</a></li>
+              <li class=""><a class="" href="/OneCard-Support/">OneCard Support</a></li>
+              <li class=""><a class="" href="/Samepage/">Samepage</a></li>
+              <li class=""><a class="" href="/Software-Hardware/">Software &amp; Hardware</a></li>
+              <li class=""><a class="" href="/Telecommunications/">Telecommunications</a></li>
+              <li class=""><a class="" href="/Webadvisor-Support/">WebAdvisor Support</a></li>
+            </ul>
+          </li>
+          <li class=""><a class="" href="/IT-Help-Desk-Ticket/">IT Help Desk Ticket</a></li>
+          <li class=""><a class="" href="/Laptop-Repair-Depot/">Laptop Repair Depot</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/Laptop-Purchase-Program/">Laptop Purchase Program</a></li>
+            </ul>
+          </li>
+          <li class=""><a class="" href="/ISA/">Security Awareness</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/Residence-Life/">Residence Life</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Residence-Halls/">Residence Halls</a></li>
+          <li class=""><a class="" href="/Reslife-FAQs/">Frequently Asked Questions</a></li>
+          <li class=""><a class="" href="/First-Year-Residential-Experience/">First-Year Residential Experience</a></li>
+          <li class=""><a class="" href="/Requesting-Housing-Accommodations/">Requesting Housing Accommodations</a></li>
+          <li class=""><a class="" href="/Move-In/">Move-In</a></li>
+          <li class=""><a class="" href="/Residence-Life-Staff/">Meet the Staff</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/Student-Involvement/">Student Involvement</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Student-Center/">Student Center</a></li>
+          <li class=""><a class="" href="/Student-Organizations/">Student Organizations</a></li>
+          <li class=""><a class="" href="/Leadership-Programs/">Leadership Programs</a></li>
+          <li class=""><a class="" href="/Orientation/">Orientation</a></li>
+          <li class=""><a class="" href="/Family-Day/">Family Day</a></li>
+          <li class=""><a class="" href="/Student-Involvement-Calendar/">Student Involvement Calendar</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/Student-Services/">Student Services</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Academic-Support-Services/">Academic Support Services</a></li>
+          <li class=""><a class="" href="/Alcohol-and-Drug-Prevention-Education/">Alcohol &amp; Drug Prevention Education</a></li>
+          <li class=""><a class="" href="/Campus-Ministry/">Campus Ministry</a></li>
+          <li class=""><a class="" href="/Career-Services/">Career Services</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/Employer-and-Recruiter-Services/">Employer and Recruiter Services</a></li>
+              <li class=""><a class="" href="/Student-and-Alumni-Services/">Student and Alumni Services</a></li>
+            </ul>
+          </li>
+          <li class=""><a class="" href="/Commuter-Services/">Commuter Services</a></li>
+          <li class=""><a class="" href="/Counseling-Services/">Counseling Services</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/Behavioral-Intervention-Team/">Behavioral Intervention Team</a></li>
+            </ul>
+          </li>
+          <li class=""><a class="" href="/Dining-Services/">Dining Services</a></li>
+          <li class=""><a class="" href="/Health-Services/">Health Services</a></li>
+          <li class=""><a class="" href="/International-Programs/">International Programs</a></li>
+          <li class=""><a class="" href="/IT-Help-Desk/">IT Help Desk</a></li>
+          <li class=""><a class="" href="/Multicultural-Affairs/">Multicultural Affairs</a><span class="expand"></span><ul>
+              <li class=""><a class="" href="/Alternatives-for-Individual-Development/">Alternatives for Individual Development</a></li>
+              <li class=""><a class="" href="/Upward-Bound/">Upward Bound</a></li>
+              <li class=""><a class="" href="/Multicultural-Programming/">Multicultural Programming</a></li>
+              <li class=""><a class="" href="/100-Males-to-College/">100 Males to College</a></li>
+              <li class=""><a class="" href="/Third-World-Alliance/">Third World Alliance</a></li>
+              <li class=""><a class="" href="/Multicultural-Affairs-Staff/">Meet the Staff</a></li>
+            </ul>
+          </li>
+          <li class=""><a class="" href="/OneCard/">OneCard</a></li>
+          <li class=""><a class="" href="/Retention-Office/">Retention Office</a></li>
+          <li class=""><a class="" href="/Student-Accessibility-Services/">Student Accessibility Services</a></li>
+          <li class=""><a class="" href="/Student-Affairs/">Student Affairs</a></li>
+          <li class=""><a class="" href="/Student-Conduct/">Student Conduct</a></li>
+          <li class=""><a class="" href="/WorkArea/DownloadAsset.aspx?id=3882">Student Handbook</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/sustainability/">Sustainability</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Sustainability-Food-Fair/">Sustainability/Food Fair</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/Title-IX/">Title IX</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Sexual-Assault-Information/">Sexual Assault Information</a></li>
+          <li class=""><a class="" href="/TitleIX-Definitions/">Definitions</a></li>
+          <li class=""><a class="" href="/TitleIX-Policies/">Policies</a></li>
+          <li class=""><a class="" href="/TitleIX-Reporting-and-Resources/">Reporting and Resources</a></li>
+          <li class=""><a class="" href="/TitleIX-Victim-Rights/">Victim Rights</a></li>
+          <li class=""><a class="" href="/TitleIX-Bystander-Intervention/">Bystander Intervention</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/University-Police/">University Police</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/University-Police-Services/">University Police Services</a></li>
+          <li class=""><a class="" href="/Emergency-Incident-Information/">Emergency Incident Information</a></li>
+          <li class=""><a class="" href="/University-Police-Logs/">University Police Logs</a></li>
+          <li class=""><a class="" href="/Anonymous-Tip/">Anonymous Crime Tip</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/Wellness-Center/">Wellness Center</a></li>
+      <li class=""><a class="" href="/Worcester-Living/">Worcester Living</a></li>
+    </ul>
+  </li>
+  <li class=""><a class="" href="/Community-Impact/">COMMUNITY IMPACT</a><span class="expand"></span><ul>
+      <li class=""><a class="" href="/Global-Outreach/">Global Outreach</a></li>
+      <li class=""><a class="" href="/Local-Resources/">Local Resources</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Binienda-Center-for-Civic-Engagement/">Binienda Center for Civic Engagement</a></li>
+          <li class=""><a class="" href="/Urban-Action-Institute/">Urban Action Institute</a></li>
+          <li class=""><a class="" href="/Latino-Education-Institute/">Latino Education Institute</a></li>
+          <li class=""><a class="" href="/Speech-Language-Hearing-Center/">Speech-Language-Hearing Center</a></li>
+          <li class=""><a class="" href="/Worcester-Art-Museum-Partnership/">Worcester Art Museum Partnership</a></li>
+          <li class=""><a class="" href="/Worcester-Center-for-Crafts/">Worcester Center for Crafts</a></li>
+          <li class=""><a class="" href="/taxprep/">VITA Tax Prep</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/ForBusiness/">For Business</a></li>
+    </ul>
+  </li>
+  <li class=""><a class="" href="/Alumni-Giving/">ALUMNI &amp; GIVING</a><span class="expand"></span><ul>
+      <li class=""><a class="" href="http://alumni.worcester.edu">Alumni</a></li>
+      <li class=""><a class="" href="/Giving/">Giving to WSU</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="/Crowdfunding/">Crowdfunding</a></li>
+          <li class=""><a class="" href="/Donor-Recognition-Societies/">Donor Recognition Societies</a></li>
+          <li class=""><a class="" href="/Foundation-Relations/">Foundations and Corporations</a></li>
+          <li class=""><a class="" href="/2019-March-Madness/">March Madness</a></li>
+          <li class=""><a class="" href="/University-Advancement/">University Advancement</a></li>
+          <li class=""><a class="" href="/Voices-of-Our-Donors/">Voices of Our Donors</a></li>
+          <li class=""><a class="" href="/Worcester-State-Foundation/">Worcester State Foundation</a></li>
+        </ul>
+      </li>
+      <li class=""><a class="" href="/Scholarships/">Scholarships</a><span class="expand"></span><ul>
+          <li class=""><a class="" href="https://worcester.academicworks.com/">Scholarship Directory</a></li>
+          <li class=""><a class="" href="/Establish-a-Scholarship/">Establish a Scholarship</a></li>
+          <li class=""><a class="" href="https://worcester.academicworks.com/donors">Scholarship Donors</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+                        
+                            <div class="startBar">
+                                <div class="startWrap">
+                                    <a class="start" href="/Courses-and-Registration/" target="">Register for Spring Classes</a>
+                                </div>
+                            </div>
+                        
+                    </div>
+                    <div id="LogoHolder">
+                        <h1 class="logo">
+                            <a href="/">
+                                <img id="ctl00_ctl00_ctl00_wiLogo" class="logo_desktop" src="/uploadedImages/Website_Assets/Images/Site_Specific/Logo-WSU.png?n=7096" alt="Logo_Desktop">
+                                <img id="ctl00_ctl00_ctl00_wiMobileLogo" class="logo_mobile" src="/uploadedImages/Website_Assets/Images/Site_Specific/Header-logo-WSU_x2.png?n=3536" alt="Logo_Mobile">
+								<span>Worcester State University</span>
+                            </a>
+                        </h1>
+                    </div>
+                </header>
+
+                <div id="PageContent">
+                    
+                    
+                    <div class="MainBody">
+                        
+    <div id="ctl00_ctl00_ctl00_MainBody_pnlDetailBar" class="DetailBar">
+	
+        <div class="share">
+            <span class="label">Share</span>
+            <span class="shareThis st_sharethis_custom" displaytext="ShareThis"></span>
+            <span class="shareThis st_email_custom" displaytext="Email"></span>
+            
+            <span class="shareThis st_rss_custom" displaytext="RSS"></span>
+            <span class="shareThis st_print_custom" displaytext="Print"></span>
+        </div>
+        <p class="Breadcrumb">
+            <a href="/">
+                Home
+            </a>
+            
+             | <a href="/About/">About</a> | Privacy Policy
+        </p>
+    
+</div>
+    <div id="undefined-sticky-wrapper" class="sticky-wrapper" style="height: 44px;">
+        <div class="TitleBar" style="">
+            <a href="#" style="display:none;" class="backTop">BACK TO TOP</a>
+            <h2>About</h2>
+            
+
+        </div>
+    </div>
+    <div class="clearfix">
+        
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ctl00$MainBody$BodyContent$PageHost1$ctl03', 'aspnetForm', ['tctl00$ctl00$ctl00$MainBody$BodyContent$DropZone1$uxUpdatePanel','','tctl00$ctl00$ctl00$MainBody$BodyContent$DropZone2$uxUpdatePanel','','tctl00$ctl00$ctl00$MainBody$BodyContent$DropZone_ThreeCol$uxUpdatePanel','','tctl00$ctl00$ctl00$MainBody$BodyContent$DropZone3$uxUpdatePanel','','tctl00$ctl00$ctl00$MainBody$BodyContent$DropZone1$uxColumnDisplay$ctl00$uxControlColumn$ctl00$uxWidgetHost$uxUpdatePanel','','tctl00$ctl00$ctl00$MainBody$BodyContent$DropZone2$uxColumnDisplay$ctl00$uxControlColumn$ctl00$uxWidgetHost$uxUpdatePanel',''], [], [], 90, 'ctl00$ctl00$ctl00');
+//]]>
+</script>
+
+
+    <script type="text/javascript">
+        Ektron.PBSettings = { 'dontClose': false }
+    </script>
+
+
+
+
+        <div class="ektron-ux-UITheme ux-app-siteApppageBuilder-setSizeTemplate ui-draggable" style="position: relative;">
+            
+        </div>
+        <script id="EktronScriptBlockpsapd" type="text/javascript">
+
+Ektron.ready(function(event, eventName){
+
+                $ektron(".ux-app-siteApppageBuilder-setSizeTemplate .ui-dialog-buttonpane a").button();
+                $ektron(".ux-app-siteApppageBuilder-setSizeTemplate .framework").accordion({
+                    heightStyle: "content",
+                    activate: function(event, ui){
+                        $ektron(ui).closest(".ui-accordion").accordion("refresh");
+                    }
+                });
+                $ektron(".ux-app-siteApppageBuilder-setSizeTemplate").draggable({ handle: "div.ui-dialog-titlebar ", containment: $ektron("body") });
+            
+});
+
+
+</script>
+        
+        
+    
+
+    <div class="mainCol">
+        
+        <div id="ctl00_ctl00_ctl00_MainBody_BodyContent_DropZone1_uxUpdatePanel" class="">
+	
+                <div id="ctl00_ctl00_ctl00_MainBody_BodyContent_DropZone1_uxDropZone" data-ux-pagebuilder="DropZone">
+                    
+                            <div data-ux-pagebuilder="Column" style="width:100%">
+                                
+                                <ul>
+                                    
+                                            <li>
+                                                
+        <div id="ctl00_ctl00_ctl00_MainBody_BodyContent_DropZone1_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxUpdatePanel">
+		
+                <div data-ux-pagebuilder="Widget">
+                    
+                    <div class="widgetBody">
+                        <span id="ctl00_ctl00_ctl00_MainBody_BodyContent_DropZone1_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_lblError"></span>
+
+
+        <div class="Content">
+            <div id="ctl00_ctl00_ctl00_MainBody_BodyContent_DropZone1_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_CB">
+			<h1>Website Privacy Policy</h1>
+<h2>About the Privacy Policy</h2>
+<p>The following privacy policy (the “Policy”) applies only to the use of Worcester State University's (the “University”) public website, located at <a href="https://www.worcester.edu/" target="_blank">https://www.worcester.edu/</a>, and the University's news website, located at <a href="https://news.worcester.edu/" target="_blank">https://news.worcester.edu/</a>, collectively referred to as the “Websites.”</p>
+<p>This document informs the general public of the University's policy regarding the collection, use, and disclosure of information sent to the Websites' servers, both automatically and voluntarily, from visitors to these Websites.</p>
+<h2>Website Access Privacy</h2>
+<p>The University uses all reasonable efforts to maintain the privacy of users who access the Websites.  As with all online services, however, the University cannot guarantee absolute privacy to users of the Websites. In some cases, website user information may be subject to lawful disclosure, as explained below.</p>
+<p>Further, while the University has in place a variety of security measures to safeguard against illegal access of information obtained through its website, the University cannot provide complete assurance against illegal access.  For more information regarding the protection against illegal access to personal information, please see the Electronic Communications Privacy Act (18 U.S.C. §2510) and the Computer Fraud and Abuse Act (18 U.S.C. §1030).</p>
+<p>Additionally, information obtained through the University's website may be disclosed in the course of a civil or criminal investigation or as the University is otherwise required by law.</p>
+<p>This Policy informs the general public of the information that the University may collect from site visitors when using the Websites, including what the University does with that information, to whom it may be disseminated and how it can be accessed. Based on this information, site visitors can make an informed decision about the choice of using the Websites. Site visitors can maximize privacy by making informed choices about whether to share personal data with the University through the Websites.</p>
+<h2>Applicable Laws</h2>
+<h3>Massachusetts Fair Information Practices Act</h3>
+<p>The Massachusetts Fair Information Practices Act regulates the manner in which the University maintains non-public, personal data.  The Act is found at Massachusetts General Laws, Chapter 66A.</p>
+<h3>Massachusetts Public Records Law</h3>
+<p>The University is bound by the Massachusetts Public Records Law, which regulates the maintenance and disclosure of public records in the possession, custody or control of the Commonwealth of Massachusetts.  The Law is found at Massachusetts General Laws, Chapter 6 and Chapter 4, Section 7(26).  <a href="/Student-Consumer-Information/" target="_blank">Public Record Access Requests</a> can be submitted to the University.</p>
+<h3>Family Educational Rights and Privacy Act (FERPA)</h3>
+<p>As an institution that receives funds from the U.S. Department of Education, the University is bound by the Family Educational Rights and Privacy Act (20 U.S.C 1232(g), 34 C.F.R. 99).  This law regulates the maintenance and distribution of student record information by the University.</p>
+<h2>Security and Confidentiality of Personal Information</h2>
+<p>Massachusetts Executive Order No. 504 requires state agencies, of which the University is included, to implement and maintain written information security programs governing the collection, use, dissemination, storage, retention and destruction of personal information. The Order requires that state agencies follow certain guidelines and standards when personal information is retained.</p>
+<h2>Definitions</h2>
+<h3>Personally Identifiable Information (PII)</h3>
+<p>Data that could be used to distinguish or trace an individual's identity is referred to as personally identifiable information (“PII”). This information can include name, address, email, telephone, social security number, date and/or place of birth, mother's maiden name, bank account number, credit card number, driver's license number, or any combination of information that could be used to identify an individual.</p>
+<h3>IP Addresses</h3>
+<p>An Internet Protocol Address, or “IP address,” is a series of numbers that identifies each computer and machine connected to the Internet. Each of the University's Websites has an IP address associated with its hostname (defined below).</p>
+<p>Anyone accessing the Internet is connecting to the network through an Internet Service Provider (ISP), which will assign an IP address to the network or computer being used for access, referred to as the “client.” The web servers upon which the Websites reside keep log files with information about the requests sent to them, and these log files include the client IP address associated with the origin of each request. Since IP addresses are machine specific, an IP address is not, in and of itself, personally identifiable information.</p>
+<h3>Hostname</h3>
+<p>A hostname is an alias for an IP address in a format that is easy for a human to read, understand and remember while conforming to the requirements of the structure of a Uniform Resource Locator or “URL.” In the case of the Websites covered in this policy, the hostnames associated with those URLs are “www” and “news” respectively.</p>
+<h3>Log Files</h3>
+<p>A web server log file contains information about every request and response handled by that web server. A web page on the Internet might be constructed from numerous digital assets (i.e. the page itself, images, scripts, visual styling rules, fonts, videos, etc.). A request and response cycle is performed by the server for every one of the digital assets, and each cycle is individually logged on the server.</p>
+<p>An entry in the log will typically consist of data such as:</p>
+<ul>
+<li>Date and time of the request</li>
+<li>Client IP address</li>
+<li>URI of the digital assets being requested</li>
+<li>The HTTP status code of the response</li>
+<li>The time taken to respond</li>
+<li>Information about the browser through which the request was made</li>
+<li>Information about what prior page may have “referred” (i.e. linked) the user to the requested digital asset</li>
+</ul>
+<p>Since IP addresses are not linked to personal information, an individual will not be identified from these log files.</p>
+<h3>Cookies</h3>
+<p>Cookies are files that a website can place on a site visitor's computer when visiting a website. Some cookies expire immediately after the browser is closed (also known as a “session” cookie), while others might expire after a number of hours, days, months, years or in some case, never. The lifespan of a cookie is dictated by the codebase of a website. Cookies can, however, be manually deleted at any time or even blocked from being created in the first place through a browser's configuration options. A cookie file can contain unique information that a website can use to track such things as a list of Web pages previously visited and the date when a site visitor last looked at a specific web page or to identify a site visitor's session at a particular website. A cookie file can allow the website to recognize a site visitor while clicking through pages on the site and when later revisiting the site.</p>
+<p>A website can use cookies as a means to “remember” a site visitor's preferences and to record browsing behavior on the Websites. Although a site visitor can prevent websites from creating cookies by using the browser's preference menu, disabling cookies may affect the ability to view or interact with some websites.</p>
+<h3>Third-Party Services</h3>
+<p>The term “Third-Party Services” refers to features or capabilities of the Websites that are facilitated by an entity or agent other than the University on behalf of the University.</p>
+<h3>Linking</h3>
+<p>The Websites may contain links to other websites from Third-Party Services, as defined above, or from other websites within the “worcester.edu” domain name. However, this Policy does not apply to these links. Therefore, the University encourages visitors to the Websites to be aware when they leave the Websites and to read any privacy statements of each and every other website that collects PII.</p>
+<h2>How the University Collects Information</h2>
+<h3>Information Voluntarily Provided by Site Visitors</h3>
+<p>The Websites may collect PII voluntarily provided in different ways:</p>
+<ul>
+<li>through surveys and emails; </li>
+<li>an authentication feature;</li>
+<li>the use of electronic payment functionality;</li>
+<li>forms; or</li>
+<li>subscriptions.</li>
+</ul>
+<h3>Surveys and Email</h3>
+<p>The surveys may collect PII. Any email messages sent to or from the Websites may contain PII such as email address, and any other information a site visitor chooses to give the University to help answer an inquiry.</p>
+<h3>Authentication</h3>
+<p>In some instances, content on the Websites is deemed protected and requires the use of a University student, faculty, or staff user account to gain access. The user account data submitted by a site visitor is parsed by an authentication mechanism within the University Information Technology infrastructure and access is authorized or rejected.</p>
+<h3>Electronic Payments</h3>
+<p>The Websites may provide access to various electronic payment options for fees and tuition expenses. In order to use these features, site visitors will have to provide certain information necessary to process payments. This information may include PII such as name, address and credit card number.</p>
+<p>Electronic payment options are also offered through the use of a third party vendor. In this case, payment options are offered through non-University website(s). Users are encouraged to read any and all privacy policies from third party vendors. This Policy does not apply to any website for a third party vendor.</p>
+<h3>Forms</h3>
+<p>The Websites use forms to collect information from site visitors for various purposes. Data submitted through such forms might be handled in different ways upon arrival at the server. In some instances the data is held in the server's database for later retrieval by a designated site administrator. In some instances the data is collated and transmitted to a designated recipient via email. In some instances the data is submitted directly to a third-party service for storage and/or processing. In some instances data is handled via a combination of these methods.</p>
+<p>For URLs with the “HTTPS” prefix, transmission of data between the client and server is encrypted and therefore not prone to any man-in-the-middle attack vulnerabilities during transit. If HTTPS is not enforced by default, a URL can be manually changed to include the HTTPS prefix.</p>
+<h3>Subscription</h3>
+<p>Some features available on the Websites offer the ability to subscribe or opt-in to some kind of on-going communication schedule from the University or one of its agents (such as an email newsletter, and RSS feed or an iCal feed). Any such communication opt-in is voluntary and offers a method to opt-out if applicable.</p>
+<h2>Information Automatically Collected</h2>
+<h3>Cookies</h3>
+<p>The Websites use cookies in a variety of ways. The primary use of cookies is to maintain an active session between the client and server. Further uses of cookies center around personalization of content on the Websites (based on a site visitors browsing behaviors), or the ability for select third-party vendors to identify whether an individual has visited the Websites at some point in the recent past.</p>
+<h3>Advertising</h3>
+<p>The University uses online digital advertising to promote various programs and initiatives at the institution through planned campaigns. The University engages with select third-party vendors to help facilitate those campaigns and use technologies that serve and re-serve the University advertising elsewhere on the Internet based on prior visits to the Websites, using a technique called “remarketing.”</p>
+<h3>Analytics</h3>
+<p>The University uses a number of select third-party vendors to provide anonymous statistical data about site usage, content consumption, and sources of traffic to the Websites. Such data allows the institution to quantify the popularity of content, the effectiveness of digital and non-digital advertising campaigns, and to identify patterns that could assist in optimizing paths to key features on the Websites or eliminate problem areas.</p>
+<h3>Log Files</h3>
+<p>The servers housing the Websites are configured to maintain anonymous logs that enumerate all HTTP requests sent to them. The University or select third-party vendors can use these logs to assist in troubleshooting problems that arise on the Websites, or for insight into specific, although anonymous, usage of the Websites should the need arise. Log files are periodically purged.</p>
+<h2>Opting Out</h2>
+<p>There are a number of ways in which a site visitor can opt out of site usage tracking techniques, such as the use of cookies or analytics data collection, including but not limited to browser options configuration, ad blocker extensions for browsers, or configuration of preferences with specific services providers (such as <a href="https://www.google.com/settings/ads" target="_blank">Google's Ad Settings</a>, or the <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">Network Advertising Initiative</a> opt-out page).</p>
+<p>There are a number of ways in which a site visitor can opt out or unsubscribe from elected communication subscriptions depending on the platform managing that communication and the medium (e.g. RSS, email, iCal etc.).</p>
+<h2>Sharing of Information</h2>
+<p>The University has the authority to use its discretion to grant access to data collected through the Websites to select institutional and/or third-party designees. However, the University will never sell, share, or rent this information for financial gain.</p>
+<h2>Acceptable Use Policy</h2>
+<p>The use of the Websites is governed by the University's <a href="http://www2.worcester.edu/teamsites/Policies/Wiki%20Pages/Network%20Acceptable%20Use.aspx" target="_blank">Network Acceptable Use Policy</a>.</p>
+<h2>Changes to this Policy</h2>
+<p>While this Privacy Policy may be modified in the future, it is currently effective as of June 27, 2018.</p>
+<h2>More Information/Contact</h2>
+<p>For further information contact:</p>
+<p>Worcester State University Marketing Department<br>
+486 Chandler Street,<br>
+Worcester, MA 01602<br><a href="tel:5089298000">508-929-8000</a><br><a href="mailto:marketing@worcester.edu">marketing@worcester.edu</a></p>
+		</div>
+            
+            
+        </div> 
+         
+    
+
+                    </div>
+                </div>
+            
+	</div>
+    
+                                            </li>
+                                        
+                                </ul>
+                            </div>
+                        
+                </div>
+            
+</div>
+    
+        
+
+    </div>
+    <div class="sideCol">
+        
+        <div id="mainMenu16" style="display: none;">
+            
+
+
+            
+        </div>
+        <ul class="MainMenu">
+  <li><a href="/Recognition-and-Accreditation/">Recognition and Accreditation</a></li>
+  <li><a href="/Mission-Statement/">Mission Statement</a></li>
+  <li class="closed"><span class="expandable"></span><a href="/Presidents-Office/">President's Office</a><ul>
+      <li><a href="/FP-Campus-Conversations/">Campus Conversations</a></li>
+      <li><a href="/Leadership-Team/">Leadership Team</a></li>
+      <li class="closed"><span class="expandable"></span><a href="/Presidential-Student-Ambassadors/">Presidential Student Ambassadors</a><ul>
+          <li><a href="/New-Ambassador-Application/">New Ambassador Application</a></li>
+          <li><a href="/Request-an-Ambassador/">Request an Ambassador</a></li>
+          <li><a href="/Returning-Ambassador-Application/">Returning Ambassador Application</a></li>
+        </ul>
+      </li>
+      <li><a href="/Presidents-Bio/">President's Biography</a></li>
+      <li><a href="/Presidents-Message/">President's Message</a></li>
+      <li><a href="/Presidents-Office-Staff/">President's Office Staff</a></li>
+      <li><a href="/Strategic-Plan/">Strategic Plan</a></li>
+    </ul>
+  </li>
+  <li class="closed"><span class="expandable"></span><a href="/Campus-Communications/">Campus Communications</a><ul>
+      <li class="closed"><a href="/Identity/">University Identity</a>
+      </li>
+    </ul>
+  </li>
+  <li><a href="/Our-History/">Our History</a></li>
+  <li class="closed"><span class="expandable"></span><a href="/Campus-Renewal/">Campus Renewal</a><ul>
+      <li><a href="/Facilities/">Facilities</a></li>
+    </ul>
+  </li>
+  <li class="closed"><span class="expandable"></span><a href="/Trustees/">WSU Board of Trustees</a><ul>
+      <li><a href="http://www.worcester.edu/WorkArea/DownloadAsset.aspx?id=10988">Board of Trustees By-Laws</a></li>
+      <li><a href="http://www2.worcester.edu/teamsites/bot/default.aspx">Board of Trustees Minutes</a></li>
+      <li><a href="/Board-of-Trustees-Packets/">Board of Trustees Packets</a></li>
+    </ul>
+  </li>
+  <li class="closed"><span class="expandable"></span><a href="/Administrative-Offices/">Administrative Offices</a><ul>
+      <li class="closed"><span class="expandable"></span><a href="/Human-Resources/">Human Resources</a><ul>
+          <li><a href="https://worcester.interviewexchange.com/">Careers at WSU</a></li>
+          <li><a href="/HR-Employment-Process/">Employment Process</a></li>
+          <li><a href="/WorkArea/DownloadAsset.aspx?id=8970">University Prospectus</a></li>
+          <li><a href="/worcester-living/">Worcester Living</a></li>
+          <li><a href="/HR-Staff/">Meet the Staff</a></li>
+        </ul>
+      </li>
+      <li class="closed"><a href="/Diversity/">Diversity</a>
+      </li>
+    </ul>
+  </li>
+  <li class="closed"><a href="/Conference-and-Event-Services/">Conference and Event Services</a>
+  </li>
+  <li class="closed"><span class="expandable"></span><a href="/Commencement/">Commencement</a><ul>
+      <li><a href="/Undergraduate-Commencement/">Undergraduate Commencement</a></li>
+      <li><a href="/Checklist-for-Undergraduate/">Checklist for Undergraduate Students</a></li>
+      <li><a href="/Graduate-Commencement/">Graduate Commencement</a></li>
+      <li><a href="/Checklist-for-Graduate/">Checklist for Graduate Students</a></li>
+      <li><a href="/2018-Photo-Galleries/">2018 Photo Galleries</a></li>
+    </ul>
+  </li>
+  <li><a href="/Convocation/">Academic Convocation</a></li>
+  <li><a href="/Transcript-Request/">Transcript Request</a></li>
+</ul>
+
+        <div class="content">
+            
+        <div id="ctl00_ctl00_ctl00_MainBody_BodyContent_DropZone2_uxUpdatePanel" class="">
+	
+                <div id="ctl00_ctl00_ctl00_MainBody_BodyContent_DropZone2_uxDropZone" data-ux-pagebuilder="DropZone">
+                    
+                            <div data-ux-pagebuilder="Column" style="width:100%">
+                                
+                                <ul>
+                                    
+                                            <li>
+                                                
+        <div id="ctl00_ctl00_ctl00_MainBody_BodyContent_DropZone2_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxUpdatePanel">
+		
+                <div data-ux-pagebuilder="Widget">
+                    
+                    <div class="widgetBody">
+                        <span id="ctl00_ctl00_ctl00_MainBody_BodyContent_DropZone2_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_lblError"></span>
+
+
+        <div class="Content">
+            <div id="ctl00_ctl00_ctl00_MainBody_BodyContent_DropZone2_uxColumnDisplay_ctl00_uxControlColumn_ctl00_uxWidgetHost_uxWidgetHost_widget_CB">
+			<span class="ContactBlock"><span class="Caption"><b>CONTACT US</b><br><br><b>Marketing Office</b><br>Shaughnessy Administration Building<br>Office A-212<br>508-929-8618<br><a href="mailto:marketing@worcester.edu">marketing@worcester.edu</a></span><br></span>
+		</div>
+            
+            
+        </div> 
+         
+    
+
+                    </div>
+                </div>
+            
+	</div>
+    
+                                            </li>
+                                        
+                                </ul>
+                            </div>
+                        
+                </div>
+            
+</div>
+    
+        </div>
+
+    </div>
+    <div id="ctl00_ctl00_ctl00_MainBody_BodyContent_footerDropZone" class="fullCol footerDropZone smallCol">
+        
+        <div id="ctl00_ctl00_ctl00_MainBody_BodyContent_DropZone_ThreeCol_uxUpdatePanel" class="">
+	
+                <div id="ctl00_ctl00_ctl00_MainBody_BodyContent_DropZone_ThreeCol_uxDropZone" data-ux-pagebuilder="DropZone">
+                    
+                            <div data-ux-pagebuilder="Column" style="width:295px">
+                                
+                                <ul>
+                                    
+                                </ul>
+                            </div>
+                        
+                </div>
+            
+</div>
+    
+    </div>
+    <div class="fullCol footerDropZone">
+        
+        <div id="ctl00_ctl00_ctl00_MainBody_BodyContent_DropZone3_uxUpdatePanel" class="">
+	
+                <div id="ctl00_ctl00_ctl00_MainBody_BodyContent_DropZone3_uxDropZone" data-ux-pagebuilder="DropZone">
+                    
+                            <div data-ux-pagebuilder="Column" style="width:100%">
+                                
+                                <ul>
+                                    
+                                </ul>
+                            </div>
+                        
+                </div>
+            
+</div>
+    
+    </div>
+
+    </div>
+
+                    </div>
+                    
+    
+    
+
+
+
+
+                    <footer class="Footer">
+                        <div class="body">
+                            
+                                    <ul class="social">
+                                
+                                    <li>
+                                        <div class="sprite-image">
+                                            <a href="https://www.instagram.com/worcesterstate" target="_blank">
+                                                <img src="/uploadedImages/Website_Assets/Images/Site_Specific/social-Instagram@2x.png" alt="Link to Instagram" width="33" height="80">
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                    <li>
+                                        <div class="sprite-image">
+                                            <a href="https://www.facebook.com/WorcesterStateUniversity" target="_blank">
+                                                <img src="/uploadedImages/Website_Assets/Images/Site_Specific/social-facebook@2x.png" alt="Link to Facebook" width="33" height="80">
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                    <li>
+                                        <div class="sprite-image">
+                                            <a href="https://twitter.com/worcesterstate" target="_blank">
+                                                <img src="/uploadedImages/Website_Assets/Images/Site_Specific/social-twitter@2x.png" alt="Link to Twitter" width="33" height="80">
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                    <li>
+                                        <div class="sprite-image">
+                                            <a href="http://www.youtube.com/user/WorcesterState" target="">
+                                                <img src="/uploadedImages/Website_Assets/Images/Site_Specific/social-youtube@2x.png" alt="Link to YouTube" width="33" height="80">
+                                            </a>
+                                        </div>
+                                    </li>
+                                
+                                    </ul>
+                                
+                            <ul class="menu">
+  <li><a class="" href="https://www.bkstr.com/worcesterstatestore/">Bookstore</a></li>
+  <li><a class="" href="http://worcester.interviewexchange.com">Careers at WSU</a></li>
+  <li><a class="" href="/Directions/">Directions</a></li>
+  <li><a class="" href="/Emergency-Incident-Information/">Emergency Info</a></li>
+  <li><a class="" href="/Administrative-Offices/">Administrative Offices</a></li>
+  <li><a class="" href="/Campus-Map/">Campus Map</a></li>
+  <li><a class="" href="/Sitemap">Site Map</a></li>
+</ul>
+                            <div class="legal"><div>Copyright © 2014-2018 Worcester State University</div><div><a title="Directions to Worcester State University" href="/Campus-Map/">486 Chandler St, Worcester, MA 01602</a> | <a title="Contact Worcester State University by telephone" href="tel:5089298000">508-929-8000</a><br><a href="/Student-Consumer-Information/" title="Student Consumer Information">Student Consumer Information</a> | <a href="/Privacy-Policy/" title="Website Privacy Policy">Privacy Policy</a> | <a href="/Public-Records-Requests/" title="Public Records Requests">Public Records Requests</a></div></div>
+                        </div>
+                    </footer>
+                    
+                    
+                    
+                    
+    
+    
+
+
+    <script type="text/javascript">
+        (function (w, $) {
+            $(function () {
+                $('.st_print_custom').on('click', function () {
+                    w.print();
+                });
+            });
+        })(window, jQuery);
+    </script>
+
+                </div>
+            </div>
+        </div>
+        <!--
+		https://www.worcester.edu/detail.aspx?pageid=12269
+		LOCAL_ADDR ........ 172.31.11.206
+		-->
+    </form>
+	
+	
+
+
+</body></html>
