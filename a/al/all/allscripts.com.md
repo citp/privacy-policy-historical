@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allscripts.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110053916id_/https%3A//www.allscripts.com/allscripts-com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allscripts.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216183220id_/https%3A//www.allscripts.com/allscripts-com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | allscripts.com
 
