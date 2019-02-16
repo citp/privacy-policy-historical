@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silvercartoon.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822175213id_/http%3A//silvercartoon.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silvercartoon.com privacy policy that was archived on 2019-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190217004527id_/http%3A//silvercartoon.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # SilverCartoon.com - Cartoon Porn.
 
