@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the bundlestars.com privacy policy that was archived on 2018-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180803171133id_/https%3A//support.fanatical.com/hc/en-us/articles/115005052465-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bundlestars.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216093419id_/https%3A//support.fanatical.com/hc/en/articles/115005052465-Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy – CUSTOMER SERVICES
+# Privacy Policy – Fanatical.com Customer Services
 
-Updated : July 30, 2018 22:01
+Updated : February 16, 2019 00:33
 
 Created : September 13, 2017 15:35
 
-Updated 1st May, 2018
+1st May, 2018.
 
 **Privacy Policy**
 
 This privacy notice tells you about the information we collect from you when you sign up to receive our newsletter or create an account on our website. In collecting this information, we are acting as a data controller and, by law, we are required to provide you with information about us, about why and how we use your data, and about the rights you have over your data.
 
-**  
-Who are we?**
+**Who are we?**
 
 We are Fanatical.com, part of Focus Multimedia Ltd. Our address is The Studios, Lea Hall Enterprise Park, Wheelhouse Road, Brereton, Rugeley, Staffordshire, WS15 1LH. You can contact us by post at the above address, by email at support@fanatical.com or by telephone on +44 (0)1889 570156.
 
@@ -25,7 +24,7 @@ Our data protection registration number is Z6755854.
 
 **What personal data do we collect?
 
- _(a) Information you voluntarily provide to us:  _
+ _(a) Information you voluntarily provide to us:_
 
 **
 
@@ -36,7 +35,7 @@ Our data protection registration number is Z6755854.
 
 
   
-**_(b) Information we collect automatically:  _**
+**_(b) Information we collect automatically:_**
 
   * information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, and website navigation);
   * information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services;
@@ -72,19 +71,19 @@ We will use your personal information to:
 
 **What do we do with your information?**
 
-Your information is securely stored on our database and is only shared with the third parties required to enable us to operate our store and offer you specific offers and promotions.   
- 
+Your information is securely stored on our database and is only shared with the third parties required to enable us to operate our store and offer you specific offers and promotions.
 
-The categories of 3rd party recipients with which this data is shared are:  
+The categories of 3rd party recipients with which this data is shared are:
 
   * **Computing Providers** :   
-    * Heroku Inc; ([Privacy Shield Certified](https://www.privacyshield.gov/participant?id=a2zt0000000KzLyAAK&status=Active))
+    * Heroku Inc; ([Privacy Shield Certified)](https://www.privacyshield.gov/participant?id=a2zt0000000KzLyAAK&status=Active)
     * Amazon Web Services Inc. ([Privacy Shield Certified](https://aws.amazon.com/compliance/eu-us-privacy-shield-faq/))
   * **Database Provider** : 
     * Compose ([Privacy Shield Certified](https://www.privacyshield.gov/participant?id=a2zt0000000TOAoAAO&status=Active))
   * **Payment Provider** :
     * Adyen ([EU Privacy Policy](https://www.adyen.com/policies-and-disclaimer/privacy-policy))
     * Paypal ([Privacy Policy](https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev))
+    * Paysafe ([Privacy Policy](https://www.paysafe.com/uk/paysafegroup/privacy-policy/))
   * **Digital Product Provider** : 
     * Genba ([EU Privacy Policy](https://www.genbagames.com/Home/PrivacyPolicy))
   * **Email Provider:**
@@ -126,7 +125,7 @@ You can also ask for it to be erased, you can ask for us to give you a copy of t
 
 **How to ask us to stop processing your account information.    **
 
-If you wish for us to stop processing account information then the simplest way to do this is to request an account cancellation.  This will remove access to your account and will flag the account and its associated data to be removed after the retention.   [Please read this additional information for requesting an account cancellation](https://web.archive.org/hc/en-us/articles/202230392-How-do-I-delete-or-cancel-my-account-)
+If you wish for us to stop processing account information then the simplest way to do this is to request an account cancellation.  This will remove access to your account and will flag the account and its associated data to be removed after the retention.   [Please read this additional information for requesting an account cancellation](https://web.archive.org/hc/articles/202230392)
 
 **How to ask us to stop processing your email subscription information.    **
 
