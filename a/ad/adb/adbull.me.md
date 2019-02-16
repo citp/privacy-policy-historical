@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adbull.me privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215092241id_/http%3A//adbull.me/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbull.me privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216185631id_/https%3A//adbull.me/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
