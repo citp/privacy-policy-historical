@@ -1,115 +1,180 @@
-> *The following text is extracted and transformed from the hostdime.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226083545id_/http%3A//www.hostdime.com/support/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostdime.com privacy policy that was archived on 2019-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190217001145id_/https%3A//www.hostdime.com/support/legal/privacy.php) for the most accurate reproduction.*
 
 # HostDime Privacy Policy
 
-This privacy policy explains how HostDime.com, Inc. (together with its subsidiaries, affiliates, "HostDime"), collects, uses, maintains, and discloses information collected from our customers, visitors to our website, individuals who contact us, and visitors to our customers websites ("Users").
+HostDime.com, Inc. Privacy Policy (Last Rev. 05/24/2018)
 
-HostDime strives to provide a safe, reliable, and enriched browsing and service experience to clients and the global community. In order to fulfill this goal we sometimes collect information during your visit to our website. HostDime promises the following:  
-  \- We do not offer for sale, share, or lease any information given to us, except as disclosed in this privacy policy ("Privacy Policy").  
-  \- Our Privacy Policy applies to prospective, current, and former customers and users.
+HostDime.com, Inc. (hereafter referred to as HostDime, we, us or our) collects, uses, processes and discloses information in different ways. This Privacy Policy is designed to provide guidance to End Users about how HostDime uses this information. In this Privacy Policy, these individuals and entities are referred to collectively as "Users". This Privacy Policy is part of HostDime’s contract with its customers. If you are a customer, you must review all of our contracts to fully understand how this Privacy Policy fits with these contracts. Our contracts are set out [here.]()
 
-Please review this document in conjunction with our other legal policies that can be found here:  
-<http://www.hostdime.com/support/legal>
-
-The terms of this Privacy Policy are in addition to the terms of our Terms of Service ("TOS"), Acceptable Use Policy ("AUP"), Service Level Agreement ("SLA"), Resource Abuse Policy ("RAP"), collectively known as HostDime Legal Policies, and any specialized contracts that may have been agreed upon. We offer products and services that are provided by third parties ("Third Party Products"). These Third Party Products may collect and use information in ways that differ from those stated in this Privacy Policy. Please contact us if you would like a list of these third parties related to your service. HostDime does not take responsibility for how these Third Party Products utilize your information and we instruct you to visit the respective service provider's website for more information. Typically these providers only require ip or hostname data.
-
-The purpose of this Privacy Policy to enable you to understand which personal identifying information ("PII", "Personal Information") of yours is collected, how and when we might use your information, who has access to this information, and how you can correct any inaccuracies in the information.
-
-**Safe Harbor Privacy Principals**  
-HostDime adheres to the Safe Harbor requirements published by the U.S. Department of Commerce pertaining to Personal Information of Users that HostDime serves from the European Economic Area ("EEA"). The United States Department of Commerce and the European Commission have agreed on a set of data protection principals and frequently asked questions ("Safe Harbor Principals") to enable US companies to satisfy the requirement under European Union law that adequate protection be given to personal identifying information transferred from the EU to the United States. The EEA has recognized the US Safe Harbor as providing adequate data protection. The seven Safe Harbor Principals can be found in this Privacy Policy and are denoted at the end of each respective section with the following remarks: [1]Notice, [2]Choice, [3]Transfer to Third Parties, [4]Access, [5]Security, [6]Data Integrity, [7]Enforcement.
-
-HostDime's Safe Harbor Certification can be found here:  
-<http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list>
-
-More information about Safe Harbor principals can be found here:  
-[http://www.export.gov/safeHarbor/.](http://www.export.gov/safeHarbor/)
-
-**Information We Collect**  
-HostDime collects certain information from and about its users in three ways: (i) from our web server logs, (ii) with cookies, and (iii) directly from the user.
-
-**Web Server Logs**  
-When you visit our website, HostDime may collect information to administer the site and analyze its usage. HostDime may collect information such as:
-
-\- Your Internet protocol address;  
-\- The type of browser or computer you use;  
-\- The number of links you click within our website;  
-\- The state or country from which you accessed our website;  
-\- The date and time of your visit;  
-\- The name of your Internet service provider;  
-\- The Web page from which you linked to our website; and  
-\- The pages you viewed on our website
-
-**Cookies**  
-Our website uses cookies (i.e., small bits of text that our servers place into a file on your computer.s hard drive). We use cookies to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on the HostDime website.
-
-More information about cookies can be found here <http://en.wikipedia.org/wiki/HTTP_cookie>
-
-**Personal Information**  
-On some pages of our website users can register to purchase products or services, receive personalized content, and participate in surveys or forums. When you register, HostDime may ask you for some personal information. If you purchasing products or services from HostDime, we will request financial information such as credit card or bank account information. Any financial information we collect is used only to bill you for the products and services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations or service inquiries, we will ask your name, address, e-mail address, or telephone number. We may then contact you with information about HostDime products and services.
-
-**Support and Access**  
-As a service subscriber you may be asked to disclose personal information to HostDime so that we can provide technical support to you. We may collect personal information for account verifications in order to provide technical support and troubleshooting services over our helpdesk (http://core.hostdime.com). If you choose to contact us via email, livechat, or helpdesk, we may retain a copy of the communication with your email address, account information, and our responses. HostDime makes reasonable effort to make sure all collected data is reliable, up to date, accurate and complete.
-
-**Additional Information**  
-To preserve the integrity of our website and network, HostDime may use software programs to monitor network traffic or to identify unauthorized attempts to cause damage. These software programs may also collect information regarding your usage of our services, website, and network. As an internet service provider, HostDime provides access to servers for customers around the world to store and manage their data and applications. HostDime does not own this customer data and is not a .controller. as outlined in the EU Directive. To the extent that HostDime is exposed to customer or user data, HostDime adheres to the Safe Harbor Privacy Principals.  
-
-
-### How We Use Your Information
+**1\. HostDime’s Privacy Statement**
 
   
 
 
-**Customer Record and Inquiries**  
-HostDime uses the information we collect to notify you about your account and to notify you about changes of the terms and conditions governing use of our websites, products and services. We may also use the information we collect to notify you about other products and services we think you will find valuable and about special offers. You may notify us of your desire not to receive notifications relating to new products and services and specials offers by .opting-out. as provided for below.
+HostDime does not offer for sale, share or lease any information given to HostDime by an individual or entity subject to this Privacy Policy, except as provided in it. HostDime is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). If you have questions about how HostDime may use information provided to it, and that question is not covered by this Privacy Policy, please contact us at the address provided in paragraph 15 prior to providing the information to HostDime.
 
-Our employees, contractors, or agents will at times require access to your personal information. HostDime permits access to this information only for business purposes such as administration and support for our products and services.
+HostDime’s services are for individuals over the age of eighteen. HostDime does not knowingly market to individuals under that age.
 
-**Information Released**  
-HostDime may provide aggregate information about our customers, our websites traffic patterns, and related website usage information to our affiliates and reputable third parties, this information will never include personal identifying data. We take all available measures to select affiliates and service providers that are ethical and provide similar privacy protection to their customers and the community. We do not make any representations about the practices and policies about these companies.
+**2\. Third Parties May Have Different Privacy Policies from HostDime**
 
-**Compliance with Laws and Law Enforcement**  
-We cooperate with government and law enforcement officials to enforce and comply with the law. We will disclose any information about Users upon valid request by government or law officials as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect your property and rights, or the property and rights of a third party, to protect the safety of the public or any person, or stop activity we consider illegal or unethical.
+This Privacy Policy only applies to information provided to HostDime. HostDime services may incorporate products provided by third parties (Third Party Products). To the extent this incorporation is transparent to HostDime’s customers, the privacy policies of the providers of Third Party Products have been incorporated into this Privacy Policy. However, if a customer has the option of choosing a Third Party Product, or incorporates it into HostDime’s services on its own, those privacy policies are specifically excluded from this Privacy Policy. It is a customer’s obligation to determine how the privacy policies of Third Party Products not covered by this Privacy Policy affect their information, and that of their End Users.
 
-**Contacting You Directly**  
-HostDime may contact you directly through the email address or other information provided upon account signup. HostDime will contact you to respond to your questions, to provide the services you request, to manage your account, and/or to inform you of any service announcements. If you require an account contact change, please submit a ticket to our Support department via http://core.hostdime.com
-
-**Opt-out**  
-If you do not want to receive promotional materials or surveys from HostDime, you may opt out at any time. You may .opt out. by clicking the "Unsubscribe" link in Surveys, or by sending a message with the subject "I do not wish to receive special communication from HostDime" to legal(at)hostdime.com. Once this message is received your account will be noted an all reasonable measures will be taken to remove your account from future non-pertinent account mailings.
-
-**Third Party Service Providers**  
-We may at times provide information about you to third parties to provide various services on our behalf such as processing credit card payments and hosting service add-ons. We will only share your information when necessary for the third party to provide the requested service. These service partners are prohibited from sharing or storing your personal identifiable information for any purposes unrelated to providing the said service.
+**3\. HostDime complies with EU-US Privacy Shield and Swiss-US Privacy Shield Frameworks**
 
   
 
 
-### How We Protect Your Information
+HostDime complies with the EU-US Privacy Shield and Swiss-US Privacy Shield Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. HostDime has certified that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
-HostDime uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. HostDime uses security measures including and not limited to: firewalls, non public facing systems, complex passwords, anti-virus, and mitigation and detection software. When we ask customers or users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer ("SSL") technology. However, please note that electronic communication (ex: email, online chat, or instant messaging) that you may send to us may not be secure unless we advise you in advance that security measures will be in place prior to your transmitting the information. For that reason, we ask that you do not send confidential information such as financial information, social security numbers, or passwords to us through unsecured electronic communication. [5]Security
+In compliance with the Privacy Shield Principles, HostDime commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact HostDime at:
 
-**Access to Your Personal Information and Correction of Inaccuracies**  
-If you wish to access and/or update the personal information we have collected from you, you may either login to our website or client systems and view and change your information or contact our Accounting team via http://core.hostdime.com. If you would a list of client systems related to your account, this can also be obtained by contacting our Accounting team. [4]Access
+**HostDime.com, Inc.  
+Attn. Legal Department  
+2603 Challenger Tech Court  
+Suite 140  
+Orlando, FL 32826  
+United States of America**
 
-**Transfer to Third Parties**  
-If you wish to transfer your account to a third party (ex: new webmaster, new company owner), you must make this request via our helpdesk by visiting http://core.hostdime.com. After your request is received we will provide a transfer of ownership form and we will complete an account standing and history audit. Once you have returned the account ownership request form your account and request will be verified by our Management team. Once the account ownership change is verified and processed, the new account owner will be protected by this Privacy Policy. [3]Transfer to Third Parties
+HostDime has further committed to refer unresolved privacy complaints under the Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint.
 
-**Transfer of Data Abroad**  
-if you are visiting the HostDime website from a country other than the countries in which our networks are located, the various communications will necessarily result in the transfer of information across international boundaries. By visiting our website and communicating with us you consent to the processing and transfer of your data as set by this Privacy Policy.
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
-**Content Placed in Public**  
-Some pages on the HostDime website involve message boards or other online community activities. We strongly suggest users of these areas to use caution as any information disclosed in these areas is public information. Do not disclose information in these public forums that might be considered confidential such as financial information, passwords or email addresses. Users should be aware that when they voluntarily disclose personal identifiable information (PII) on message boards or other online communities, that information disclosed in the communication can be collected and used by third parties.
+**4\. How HostDime Collects Information**
 
-**Children**  
-In accordance with the Children.s Online Privacy Protection Act (COPPA), HostDime does not knowingly collect or solicit any personal information from children under the age of thirteen (13).
+Depending on their use of HostDime’s services, HostDime collects information from Users in the following ways:
 
-**Modifications to the Privacy Policy**  
-HostDime hereby reserves the right to amend, alter, modify, replace or suspend this Privacy Policy, from time to time, in its sole discretion. All changes to this Privacy Policy will be effective when posted on the HostDime website.
+  1. From HostDime’s web server
+  2. Using temporary internet files such as cookies, transparent gifs, and other similar tools (Identification Tools)
+  3. Directly from Users.
 
-**Ensuring Compliance with the Privacy Policy**  
-HostDime uses a self-assessment approach to ensure compliance with this Privacy Policy and regularly verifies that the Privacy Policy is accurate, displayed, accessible, and within the guidelines of the Safe Harbor Privacy Principals.
 
-**Questions or Concerns**  
-If you have any questions, comments, feedback regarding this Privacy Policy or the use and disclosure of personal information, please contact HostDime via email at legal(at)hostdime.com and we will respond within a timely manner. If you are unable to resolve your complaint or dispute internally we work with the Better Business Bureau (BBB) as a third party dispute resolution service. [7]Enforcement
 
-### This Privacy Policy is effective as of July 24, 2009
+**5\. Information HostDime Collects from Web Server Logs**
 
-Our specific application of the seven Safe Harbor principals can be found in this Privacy Policy and are denoted with [1]-[7].
+HostDime’s web servers collect information from visitors to the websites linked to this Privacy Policy. Because each User’s computer and browser configurations are different, HostDime may collect some, or all, of the following information during a User’s visit:
+
+  1. Internet protocol address
+  2. The type of browser or computer used
+  3. The number of links clicked within HostDime’s website
+  4. The state or country from which our website was accessed
+  5. The date and time of visit
+  6. The name of internet service provider used to access HostDime’s website
+  7. The web page visited prior to coming to HostDime’s website
+  8. The pages viewed on HostDime’s website
+
+
+
+**6\. Information Collected by HostDime Directly from Users**
+
+  
+
+
+**a. Registration Information**
+
+To purchase services from HostDime, Users must provide detailed information including contact information to HostDime, including names, email addresses, physical addresses, and phone numbers. Users are required to provide this information to HostDime in order to purchase HostDime services. During the purchase process, Users may provide optional information such as instant messager details and secondary, billing, or abuse email addresses to HostDime. If that information is provided, it is covered by this Privacy Policy; however, providing it is voluntary. This information is a subset of Identification Tools, and is referred to individually as “Registration Information.”
+
+**b. Identification Tools**
+
+HostDime may use automated Identification Tools like cookies and Google Analytics. Each of these Identification Tools work differently, however, they all collect information related to the website you came to HostDime from, a User’s operating system, browser type, where Users go on HostDime’s website, length of time on HostDime’s website, and where a User goes after visiting HostDime’s website. In addition, Identification Tools may keep Users logged into HostDime’s system. From time-to-time, HostDime may use Identification Tools that will be used to serve advertising and other information to Users after they visit HostDime’s website. Because the technologies underlying Identification Tools differ, Users may, or may not, be able to choose not to provide information to them.
+
+**c. Support Information**
+
+When Users contact HostDime for support for their services they will be asked to match certain information that is in their Registration Information. This information will be used to identify them personally. In the course of providing support to Users, HostDime may annotate the Registration Information with information disclosed while providing support (Support Information).
+
+**d. FAQ and Forum Information**
+
+HostDime offers Users the ability to exchange information about its services, and their experiences with these services (Forum Information). Forum Information is publicly accessible and may be indexed by search engines and other tools. Users are not required to disclose information that will identify them personally in order to participate in these tools. All Forum Information may be accessed and used by third parties for purposes known and unknown to HostDime.
+
+**7\. Security Monitoring**
+
+HostDime takes the security of its network very seriously. To ensure network security, data integrity and privacy, HostDime uses programs that monitor network traffic and access to its network. These programs collect information regarding User’s use of HostDime’s services, website and network (Traffic Information).
+
+**8\. How HostDime Uses Information Covered by this Privacy Policy**
+
+**a. Generally**
+
+  
+
+
+  1. HostDime is required to comply with relevant laws, regulations and judicial orders. Information covered by this Privacy Policy may be disclosed outside HostDime if HostDime determines, in its sole discretion. that such a disclosure is necessary or required. HostDime may also disclose this information if, in its sole discretion, such disclosure is necessary or required to protect its interests or the interests of its customers.
+  2. HostDime may disclose information covered by this Privacy Policy in connection with the sale of its business.
+  3. HostDime may aggregate information covered by this Privacy Policy and disclose it outside its business. This information will not identify Users individually.
+  4. HostDime may use information covered by this Privacy Policy to contact you directly to respond to questions, provide its services to you, manage your account or to inform you of service announcements.
+  5. HostDime may use information covered by this Privacy Policy to inform you of new products and services. In informing you of new products and services, HostDime may include third party products and services. While HostDime may use information that identifies you individually to market these third party products and services, that information is not disclosed to the third parties. In this use of User information, third parties will only receive aggregate information. However, should a User respond to a marketing announcement, third parties will become aware of the User individually. Users may opt-out of receiving this information by clicking “unsubscribe” in any marketing material, or unsubscribe from your CORE profile. Only the email address from that communication will be removed from marketing lists.
+
+
+
+**b. Specific Information**
+
+  
+
+
+  1. **Web Server Logs (described inparagraph 5)**
+
+Information collected from Web Server Logs is not disclosed beyond HostDime except as set out in paragraph 5 in this Privacy Policy.
+
+  2. **Registration Information (described inparagraph 6)**
+
+HostDime will use Registration Information throughout its business and will pass Registration Information on to third parties for processing and use as necessary to provide HostDime’s services to Users. HostDime requires these third parties to limit their use of Registration Information to those uses that facilitate providing HostDime’s services to Users.
+
+  3. **Identification Tools (described inparagraph 6)**
+
+Information collected using Identification Tools, other than Registration Information, may identify Users individually. This information will be used to provide HostDime’s marketing information to Users. Users may enter or delete email addresses in the “Account” interface to control marketing messages. Third parties may use this information in the aggregate; however, they are contractually prohibited from using this information to identify Users individually. HostDime uses cookies to save User’s preferences and login information, and provide personalized functionality.
+
+  4. **Support Information (described inparagraph 6)**
+
+Support Information may identify Users individually. In addition to providing support to Users, HostDime may disclose Support Information to third party vendors in order to provide the support requested by the User. These third parties may disclose and use Support Information to improve their business processes and for marketing. Unless necessary to provide support to Users, HostDime will not disclose Support Information containing information that identifies Users individually to these third parties. During a support request, Users may request that HostDime not disclose Support Information to third parties. This request will prevent HostDime from providing support to Users.
+
+  5. **Traffic Information (described inparagraph 7)**
+
+Traffic Information may identify Users individually. HostDime will only use Traffic Information to ensure the integrity of its network, and for no other purpose. Traffic Information may be disclosed by HostDime to comply with its legal obligations and to law enforcement upon when obligated to do so. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
+
+
+
+
+**9\. How HostDime Protects your Information**
+
+HostDime uses technical security measures to prevent the loss, misuse, alternation or unauthorized disclosure of information under our control. HostDime uses security measures including and not limited to: firewalls, nonpublic facing systems, complex passwords, anti-virus, and mitigation and detection software. When HostDime asks Users to provide financial information (such as a credit card number) that data is protected using Secure Sockets Layer (SSL) technology. Electronic communication (for example: email, online chat, or instant messaging) that Users may send HostDime may not be secure unless HostDime advises a User in advance that security measures will be in place prior to transmitting the information. Users should not send confidential information such as financial information, social security numbers or passwords to HostDime through unsecured electronic communication.
+
+**10\. How Users can Access and Correct Information Covered by this Privacy Policy**
+
+  
+
+
+HostDime acknowledges the individual’s right to access their personal data for the purpose of review, correction, updating and deletion. If a User wishes to access and/or update the information HostDime has collected, the User may either login to HostDime website or client systems and view and change its information or contact HostDime’s Accounting team via [https://core.hostdime.com](https://core.hostdime.com/). If a User would like a list of client systems related to its account, this can also be obtained by contacting our Accounting team. Information covered by this Privacy Policy may be deleted upon a User’s request. However, we reserve the right to retain information necessary to protect our interests. Unless specifically set out herein, information covered by this Privacy Policy will be retained by HostDime following termination of a User’s Agreement.
+
+We will provide an individual opt-out or opt-in choice before we share their data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.
+
+To limit the use and disclosure of your personal information, please submit a written request to [legal@hostdime.com](mailto:legal@hostdime.com).
+
+**11\. Users May Transfer Information Covered by this Privacy Policy to Third Parties**
+
+Users may transfer their accounts to a third party by submitting a request in their control panel. HostDime will respond with a transfer form. Once the form is received and verified, the account will be transferred. The new owner will be bound by this Privacy Policy and the agreements set out in paragraph 2.
+
+**12\. Liability**
+
+In cases of onward transfer to third parties of data of EU and/or Swiss individuals received pursuant to the EU-US and/or Swiss-US Privacy Shield Frameworks, HostDime may be potentially liable.
+
+**13\. How and When this Privacy Policy is Modified**
+
+HostDime may modify this Privacy Policy at any time. Users will be notified of any change, other than a typographical change, by a notice on the front page of HostDime’s website and by a notice in the User’s control panel. Modifications are effective as set out in the notification.
+
+**14\. How HostDime Assesses its Compliance with the Privacy Policy**
+
+HostDime uses a self-assessment approach to ensure compliance with this Privacy Policy and regularly verifies that the Privacy Policy is accurate, displayed, accessible and within the guidelines of the Privacy Shield Principles for both the EU and Switzerland.
+
+**15\. Contacting HostDime about this Privacy Policy**
+
+  
+
+
+If Users have any questions, comments or feedback regarding this Privacy Policy or the use and disclosure of personal information, please contact HostDime via email at legal@hostdime.com and HostDime will respond within a timely manner.
+
+You may also contact us in writing at:
+
+**HostDime.com, Inc.  
+Attn. Legal Department  
+2603 Challenger Tech Court  
+Suite 140  
+Orlando, FL 32826  
+United States of America**
