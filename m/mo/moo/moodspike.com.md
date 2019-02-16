@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moodspike.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007081113id_/https%3A//moodspike.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moodspike.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216073337id_/https%3A//moodspike.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mood Spike
+# Privacy Policy
 
 Your privacy is very important to us at Mood Spike, and so we have a few fundamental principles that we follow in order to protect it:
 
