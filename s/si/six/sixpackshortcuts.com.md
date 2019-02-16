@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixpackshortcuts.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505195852id_/http%3A//sixpackshortcuts.com/desktop/science/main/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixpackshortcuts.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216210514id_/https%3A//sixpackshortcuts.com/desktop/ketox/main/privacypolicy) for the most accurate reproduction.*
 
 # Science Based Six Pack - Provacy Policy
 
@@ -117,7 +117,8 @@ When you visit SixPackShortcuts.com, MikeChangFitness.com, our YouTube channel, 
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-  * http://www.sixpackshortcuts.com
+  * [SUPPORT@SIXPACKABS.COM](mailto:support@sixpackabs.com)
+  * Science-Based Ketox Program
   * Mike Chang Fitness LLC
   * 9111 Research Blvd.
   * Austin, Texas 78758, US
