@@ -1,84 +1,233 @@
-> *The following text is extracted and transformed from the neulion.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216185744id_/https%3A//www.neulion.com/ViewArticle.dbml%3FDB_LANG%3DC%26DB_OEM_ID%3D30000%26ATCLID%3D211671311) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neulion.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216093507id_/https%3A//www.neulion.com/ViewArticle.dbml%3FDB_LANG%3DC%26DB_OEM_ID%3D30000%26ATCLID%3D211671311) for the most accurate reproduction.*
 
-# Neulion
+# NeuLion Privacy Policy - Powering the Next-Generation Video Experience | NeuLion
 
-NeuLion.com Privacy Policy 
+At NeuLion, we are committed to delivering live and on-demand sports and entertainment. We have created this Privacy Policy to explain how we collect, use, disclose and safeguard personal data in connection with NeuLion products and services. Email us at  if you have questions about our Privacy Policy. [tell me more](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#policy)
 
-NeuLion, Inc. and related entities ("Company") are committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our websites, located at www.neulion.com ("Site") and Services (as defined in the Terms of Use). Capitalized terms not defined in this Privacy Policy have the meaning given in our Terms of Use located [here](http://www.neulion.com/ViewArticle.dbml?&DB_LANG=C&DB_OEM_ID=30000&ATCLID=211671310). 
+**  
+How We Collect Information**[tell me more](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#collect)
 
-1\. User Consent. By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Data in accordance with this Privacy Policy. 
+We collect information about you from a variety of sources, including:
 
-2\. A Note About Children. We do not intentionally gather Personal Data about visitors under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Data such parent should contact us at privacy@neulion.com. If we become aware of Personal Data belonging to a child under 13, we will take reasonable steps to delete such Personal Data from our files. 
+  * directly from you
+  * from our vendors and business partners
+  * from our platform customers
+  * from third-party sources
+  * automatically, from devices that you use to connect to our website and apps
 
-3\. A Note to Users Outside of the United States. Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country. 
 
-4\. Types of Data We Collect. "Personal Data" means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other nonpublic information about you that is associated with or linked to any of the foregoing data. "Anonymous Data" means data that is not associated with or linked to your Personal Data; Anonymous Data does not permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below. 
 
-(a) Personal Data You Provide to Us. 
+**Information We Collect**[tell me more](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#Type)
 
-(i) We collect Personal Data from you, such as your first and last name, gender, e-mail and mailing addresses, phone number, date of birth, and password when you create an account to log in to our network ("Account"). 
+The information we collect through our services and sites may include:
 
-(ii) When you order Services on our Site, we will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information. 
+  * contact information
+  * demographic information
+  * other details you choose to provide when using our services
 
-(iii) We also retain information on your behalf, such as files and messages that you store using your Account. 
 
-(iv) if you provide us feedback or contact us via e-mail in response to an employment opportunity posted on our Site, we will collect your name and e-mail address, as well as any other content included in the e-mail, and any information that you submit to us, such as a resume. 
 
-(v) When you participate in one of our surveys, we may collect additional profile information. 
+**How We Use Information**[tell me more](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#Use)
 
-(vi) If you enter into a sweepstake, contest, or similar promotion we may use the information you provide to administer those programs. 
+**** We use the information we collect to:
 
-(vii) When you post messages on the message boards of our Site, the information contained in your posting will be stored on our servers and other users will be able to see it. 
+  * provide services you may request
+  * operate our business
+  * analyze the use of and improve our products and services
+  * comply with laws, rules and our policies
 
-(viii) We also collect other types of Personal Data that you provide to us voluntarily, such as your operating system and version, product registration number, system configuration and other requested information if you contact us via e-mail regarding support for the Services. 
 
-(ix) We collect other, non-personally identifiable information using cookies, server logs, and single-pixel or transparent image HTML-based emails. The images in the HTML-based emails allow us to track how many people open the emails we send out. 
 
-(x) We also collect other information at other points in our Site, such as: (a) most of our software, when run, will automatically contact our servers to check for new versions (this functionality may be disabled in the software preferences); (b) our installers send a small amount of non-personally identifiably information that confirms the software has actually been installed; (c) some of our software products will automatically contact our servers to retrieve non-personally identifiable rotating interface images that are displayed; (d) our software or hardware products may transmit non-personally identifiable information to our servers enabling us to aggregate statistics about how many unique products are in use at any time and how often an individual product is used. 
+**How We Share Information**[tell me more](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#share)
 
-(xi) We may also collect Personal Data, such as at other points in our Site that state that Personal Data is being collected. 
+We may share the information we collect:
 
-(b) Personal Data Collected via Technology. To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect Personal Data from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit. We also use Cookies (as defined below), navigational data like Uniform Resource Locators (URL), and technologies like web beacons to gather information regarding the date and time of your visit and the solutions and information for which you searched and which you viewed. Like most Internet services, we automatically gather this Personal Data and store it in log files each time you visit our Site or access your Account on our network. "Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of our Site may not work properly. We do not use any user-based tracking in terms of IP address or device ID that persists and tracks your browsing behavior on other sites. However, we do use Google analytics. Google analytics manages ‘Do Not Track’ instructions from your browser in accordance with its own privacy policies found at: http://www.google.com/intl/en/policies/privacy/. 
+  * within our enterprise
+  * with our service providers and business partners
+  * with our platform customers
+  * with customers using our website and applications
+  * at your request or with your consent
+  * as required by laws, rules and our policies
+  * in connection with a merger, acquisition or another corporate transaction
 
-5\. Use of Your Data 
 
-(a) General Use. In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. Company uses your Personal Data in the following ways: to facilitate the creation of and secure your Account on our network; identify you as a user in our system including display of your username, and if you so indicate, your name, publicly on our online community forums; provide improved administration of our Site and Services; improve the quality of experience when you interact with our Site and Services; send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created; send you administrative e-mail notifications, such as security or support and maintenance advisories; respond to your inquiries related to employment opportunities or other requests; to send promotional communications; to provide you with hardcopy or electronic newsletters, or surveys; to send upgrades and special offers related to our Services and for other marketing purposes of Company or our Third Party Companies, should you opt-in to receive such communications by following the instructions we provide; to make telephone calls to you, from time to time, to solicit your feedback. Be aware that any content (including video content) you choose to upload or publish to our Site (including messages in online discussion forums) may be made public as well. 
 
-(b) Creation of Anonymous Data. We may create Anonymous Data records from Personal Data by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. Company reserves the right to use and disclose Anonymous Data to Third Party Companies in its discretion. 
+This Privacy Policy describes the privacy practices of NeuLion, Inc. and its affiliates (“NeuLion,” “we,” “us” and/or “our”) in connection with our websites, web applications and mobile applications that we offer directly to individuals (collectively, the “Sites”). This Privacy Policy explains the types of personal data we collect, how we may use and share the data, and the privacy choices that you have with respect to our handling of personal data about you.
 
-6\. Disclosure of Your Personal Data 
+If your country of residence is a member of the European Union (“EU”), NeuLion, Inc. is the controller of your personal data for the purposes of EU data protection law.
 
-(a) Affiliates. In the event we have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, "Affiliates"), we may share some or all of your Personal Data with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company or our assets, that company will possess the Personal Data collected by it and us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy. 
+Please note that this Privacy Policy does not apply to the products and services we offer to business customers.
 
-(b) Other Disclosures. Regardless of any choices you make regarding your Personal Data (as described below), Company may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Company; or (b) protect or defend the rights or property of Company or users of the Services. 
+**Click on the links below to jump to the different sections of our Privacy Policy:**
 
-7\. Third Parties 
+  * [How We Collect Information](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#collect)
+  * [Types of Information We Collect](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#Type)
+  * [How We Use Your Information](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#Use)
+  * [How We Share Your Information](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#share)
+  * [Our Legitimate Interests](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#interests)
+  * [Employment Applications](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#employee)
+  * [Minors](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#minors)
+  * [Your Rights and Choices](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#rights)
+  * [Access to Personal Data](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#personal)
+  * [Portability of Personal Data](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#port)
+  * [Deletion of Personal Data](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#deletion)
+  * [Marketing](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#marketing)
+  * [Cookies and Advertising](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#cookies)
+  * [Links to Other Websites and Third Party Content](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#links)
+  * [International Data Transfers](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#international)
+  * [How We Protect Information](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#how)
+  * [Data Retention](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#retention)
+  * [Changes to Our Privacy Policy](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#changes)
+  * [Contact Us](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716819#contact)
 
-(a) Third Party Websites. Our provision of a link to any other website or location, is for your convenience and does not signify our endorsement of such other website or location or its contents. When you click on such a link, you will leave our Site and go to another site. During this process, another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites. 
 
-(b) Sharing of Information by and with Third Parties. Except as otherwise stated in this policy, we do not sell, trade, share, or rent the Personal Data collected from our Services to other entities. We may, however, receive Personal and/or Anonymous Data about you from other sources like companies that provide our Services by way of a co-branded or private-labeled website or companies that offer their products and/or services on our Site ("Third Party Companies"). Third Party Companies may supply us with Personal Data, such as user account names and content associated with user accounts and devices. 
 
-(i) Disclosure to Third Party Companies. We will not disclose your Personal Data to Third Party Companies. However, we may share aggregate, non-personally identifiable information (including anonymous usage patterns, cookies, IP addresses, browser type, click rates, etc.) with third party companies that wish to learn more about usage patterns for certain video content, software downloads, services, advertisements, and/or promotions associated with the web site. 
+**How We Collect Information**   
+We may collect personal data from various sources, including:
 
-(ii) Disclosure to Third Party Service Providers. We may share your Personal Data with third party service providers to provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; process transactions on our Site, or to provide technical support. These third party service providers are required not to use your Personal Data other than to provide the services requested by Company. You expressly consent to the sharing of your Personal Data with our contractors and other service providers for the sole purpose of providing services to you. 
+  * Directly from you, at your direction or with your consent
+  * From companies that use our products and services, including to host content
+  * From our vendors and business partners
+  * Automatically, from devices that you use to connect to our Sites
 
-8\. Your Choices Regarding Your Personal Data 
 
-(a) Choices. We offer you choices regarding the collection, use, and sharing of your Personal Data. We will periodically send you free newsletters and e-mails that directly promote the use of our Site or the purchase of our Services and may contain advertisements for Third Party Companies. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). Should you decide to opt-out of receiving future mailings, we may share your e-mail address with third parties to ensure that you do not receive further communications from third parties. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Policy. 
 
-(b) Changes to Personal Data. You may change any of your Personal Data in your Account by editing your profile within your Account or by sending an e-mail to us at support@neulion.com You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by applicable law. 
+**Type of Information We Collect**   
+The types of personal data we may collect include:
 
-9\. Integrity and Retention of Personal Information. Company makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. 
+  * Contact information, such as name, email address, postal address, and phone number
+  * Demographic informati­on, such as date of birth, gender, and zip code
+  * Information about employment applicants' work experience, education, salary, languages spoken, countries in which the applicant is authorized to work, and other information the applicant provide to us when applying for a job (including other self-identifying information, such as veteran and disability status, gender, and race/ethnicity, which we are required to request to comply with U.S. laws and regulations). Please note that the provision of self-identifying information is voluntary.
 
-10\. Security of Your Personal Data. Company is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. Despite these measures, you should know that Company cannot fully eliminate security risks associated with Personal Data and mistakes may happen. 
 
-11\. Contact Information. Company welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at privacy@neulion.com or contact us at the following address: 
 
-NeuLion, Inc.  
-Attn: Privacy Rights Administrator  
-1600 Old Country Road  
-Plainview, NY 11803
+  
+**How We Use Your Information**   
+We may use the information we collect to:
 
-12\. Your California Privacy Rights. If you are a resident of the State of California, we provide you in this Privacy Policy with information on how to exercise your disclosure choice options such as your right to opt-out (or "unsubscribe") of our use and sharing of your Personal Data for marketing purposes. If you wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at privacy@neulion.com or by postal mail to NeuLion, Inc., c/o Privacy Administrator, 1600 Old Country Road, Plainview, NY 11803. All requests must be labeled "Your California Privacy Rights" in the email subject line or envelope or post card. For all requests, please include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via e-mail) and indicate your preference on how our response to your request should be sent (e-mail or postal mail). We are unable to accept requests via telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information. 
+  * Respond to requests, questions and comments and provide customer support
+  * Tailor the content we display to Site users in our communications, and in connection with the use of our Sites
+  * Operate, evaluate and improve our business, our Sites, and other products and services we offer (including to develop new products and services)
+  * Offer products and services that we believe may be of interest to customers
+  * Offer and administer promotions, sweepstakes, or other contests
+  * Conduct market research
+  * Analyze and enhance our communications and strategies (including by identifying when emails have been received and read)
+  * Generate anonymized data for further data analytics
+  * Process employment applications, as further described in the “Employment Applications” section below
+  * Protect against and prevent fraud, unauthorized transactions, claims and manage risk exposure
+  * Enforce our contractual rights
+  * Comply with legal requirements applicable to information provided by NeuLion job applicants, such as work experience, education, salary, languages spoken, and other details an applicant may choose to provide to us when applying for a job under our policies
 
-13\. Changes to This Privacy Policy. This Privacy Policy is subject to occasional revision in accordance with the Terms of Use. Changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. This Privacy Policy was last revised on February 1, 2018.
+
+
+We may also aggregate any personal information that we collect in connection with our Sites, such that the information is no longer personally identifiable or attributable to you. We may use such aggregated information for our own legitimate business purposes without restriction.
+
+  
+**How We Share Your Information**   
+We may share the information we collect with:
+
+  * Business partners
+  * Platform customers
+  * Service providers that perform services on our behalf or partners with whom we may collaborate, including: 
+    * Customer service and support providers
+    * Partners with whom we jointly develop or offer products or services
+    * Advertising partners
+    * Survey and market research providers
+    * Analytics organizations
+    * Technology providers (including technology support, email and web hosting providers, email and text communications providers, and mobile app developers)
+
+
+
+We may also disclose personal data to comply with a legal or regulatory obligation, protect and defend NeuLion's rights or property, protect the safety of our customers and Site users or the public, or to protect against legal liability.
+
+Unless prohibited by applicable law, we reserve the right to transfer the information we maintain in the event we sell or transfer all or a portion of our business or assets. If we engage in such a sale or transfer, we will – where required by applicable law – make reasonable efforts to direct the recipient to use your personal data in a manner that is consistent with this Privacy Policy. After such a sale or transfer, you may contact the recipient with any inquiries concerning the processing of your personal data
+
+  
+**Our Legitimate Interests**   
+We process your information given our legitimate interests in providing and improving our products and services. In addition, we process your information in furtherance of our legitimate interest in protecting the NeuLion platform, to measure the performance of our services, and to keep our products and services safe and secure for our users and customers. We may also process your information given our legitimate interest in undertaking marketing activities to offer you products or services that may be of interest.
+
+  
+**Employee Applications**   
+If you apply for employment with NeuLion via our Sites or business partners, we will use the information you provide to process your application, to monitor recruitment statistics, and to comply with government reporting requirements. We retain de-identified statistical information about applicants to help inform our recruitment activities. NeuLion is headquartered in the United States and employee and recruitment data is held there and in other NeuLion locations worldwide. If an applicant becomes a NeuLion employee, NeuLion will maintain a record relating to that person's employment (including information collected via the employment application) and provide additional information about our data practices in connection with employee data to the extent required by law.
+
+  
+**Minors**   
+We do not knowingly collect personal information from children under age 16. If we learn that we have collected personal information from a child under the age of 16, we will delete that information.
+
+  
+**Your Rights And Choices**   
+You have certain rights and choices regarding NeuLion's processing of your personal data. We reserve the right to verify your identity in connection with any requests regarding personal data to help ensure that we provide the information we maintain to the individuals to whom it pertains, and allow only those individuals or their authorized representatives to exercise rights with respect to that information.  
+To the extent provided by applicable law, you may withdraw any consent previously provided to us, or object at any time on legitimate grounds, to the processing of your personal data. We will apply these preferences going forward. In some circumstances, withdrawing consent to our use or disclosure of your personal data will mean that NeuLion may no longer be able to provide you with services
+
+**Access to Personal Data**   
+You may access the data we maintain about you by submitting a request to [privacy@neulion.com](mailto:privacy@neulion.com). If we grant your request, we will provide you with a copy of the personal data we maintain about you in the ordinary course of business, in a commonly used format. You may request to correct any errors in your personal data. We may reject your request to access or correct personal data, as permitted by applicable law. If we reject your request, we will notify you of the reason(s) for the rejection.
+
+In order to access your personal data, we will require you to provide proof of your identity. This information will only be used for that purpose.
+
+  
+**Portability of Personal Data**   
+Under certain conditions, you may request that we transfer your personal data to another company in the format in which we maintain it in the ordinary course of business. We may reject your request, as permitted by applicable law. If we reject your request, we will notify you of the reason(s) for the rejection.
+
+  
+**Deletion of Personal Data**   
+You may request that we delete your personal data. We may reject your request, as permitted by applicable law. For example, NeuLion may be required by legal, tax or other reasons to retain your personal information in its business records. If we reject your request, we will notify you of the reason(s) for the rejection.
+
+  
+**Marketing**   
+You may unsubscribe from receiving marketing or other commercial emails from NeuLion by following the instructions included in the email. However, even if you opt out of receiving such communications, we retain the right to send you non-marketing communications (such as information about changes to our Privacy Policy or Terms of Use).
+
+**Cookies and Advertising**   
+We, our service providers, and our business partners may also collect certain information about the use of our Sites by automated means, such as cookies, web beacons and other technologies.
+
+We and our service providers and business partners may collect information about Site users' online activities over time and across third-party websites. Because there is not yet a consensus on how companies should respond to web browser-based do-not-track (“DNT”) mechanisms, we do not respond to web browser-based DNT signals at this time.
+
+The information that may be collected by automated means includes:
+
+  * URLs that refer users to our Sites
+  * Search terms used to reach our Sites
+  * Details about the devices that are used to access our Sites (such as IP address, browser type, and operating system information)
+  * Details about users' interaction with our Sites (such as the date, time, frequency, and length of visits, and specific pages accessed during the visits) ****
+
+
+
+Web browsers may offer users of our Sites the ability to disable receiving certain types of cookies; however, if cookies are disabled, some features or functionality of our Sites may not function correctly. To support and enhance the services, we may serve advertisements, and also allow third parties to serve advertisements, through the services. These advertisements are sometimes targeted and served to particular users and may come from third party companies called “ad networks.” Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. We are not responsible for the privacy practices of these ad networks and other parties. Advertisements served through the services may be targeted to users who fit a certain general profile category, which may be inferred from information you provide to us, based on your services usage patterns, or based on your activity on Third Party Services (as defined in this Privacy Policy). We do not provide personal data to any ad networks for use other than in connection with the services. To learn more about ad networks and to adjust your preferences, please click [**here**](https://www.networkadvertising.org/understanding-online-advertising?DB_OEM_ID=30000).
+
+Some of our business partners that collect information about your activities on our Sites may be members of organizations or programs that provide you with choices regarding the use of your browsing behavior for purposes of targeted advertising. For example, you may opt out of receiving targeted advertising on websites through members of the Network Advertising Initiative by clicking [**here** ](http://optout.networkadvertising.org/?DB_OEM_ID=30000&c=1#!/)or the Digital Advertising Alliance by clicking [**here**](http://optout.aboutads.info/?DB_OEM_ID=30000&c=2#!/). European users may opt out of receiving targeted advertising on websites through members of the European Interactive Digital Advertising Alliance by clicking [**here**](https://www.youronlinechoices.eu/?DB_OEM_ID=30000), selecting your country, and then clicking “Choices” (or similarly-titled link). Mobile app users may opt out of receiving targeted advertising in mobile apps through members of the Digital Advertising Alliance by installing the AppChoices mobile app, available [**here**](http://youradchoices.com/appchoices?DB_OEM_ID=30000), and selecting your choices. Please note that we may also work with companies that offer their own opt-out mechanisms and may not participate in the opt-out mechanisms that we linked above.
+
+For more information on how NeuLion uses cookies, please click **_[here](https://www.neulion.com/ViewArticle.dbml?&DB_OEM_ID=30000&ATCLID=211716963)._**
+
+  
+**Links to Other Websites and Third Party Content**   
+We may provide links to other websites, services, and applications that are not operated or controlled by NeuLion (the “Third Party Services”). This Privacy Policy does not apply to the Third Party Services. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content, privacy policies, or practices of those Third Party Services. We encourage you to review and understand the privacy practices of any Third Party Services before providing any information to or through them. Your interactions with these features are governed by the privacy policy of the Third Party Service that provides the feature.
+
+**International Data Transfers**   
+We may transfer your personal data to countries other than the country in which you initially provided the information for the purposes described in this Privacy Policy. For example, if you are located outside of the United States, we typically transfer your personal data to the United States, where NeuLion is headquartered. The countries to which we transfer personal information may not have the same data protection laws as the country in which you initially provided the information.
+
+We may transfer personal data from the European Economic Area (“EEA”) to countries that the European Commission has deemed to adequately safeguard personal information, in which case no additional safeguards are required in order to transfer this information. If we transfer your personal data to other countries, we will either transfer it subject to the recipient's compliance with standard contractual clauses, EU-US Privacy Shield, or Binding Corporate Rules, or with your consent to the transfer, unless we are permitted by law to transfer personal data without such formalities. You may contact us for a copy of the specific safeguards applied to the export of your personal data.
+
+**How We Protect Information**   
+NeuLion maintains administrative, technical and physical safeguards designed to protect the personal data we maintain against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+Despite such efforts, however, please note that no company, including NeuLion, can fully eliminate risks or guarantee the security of personal information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of information about you at any time, and we bear no liability for uses or disclosures of personal information or other data arising in connection with theft of the information or other malicious actions.
+
+  
+**Data Retention**   
+Our retention periods for personal data are based on business needs and legal requirements. We retain personal data for as long as is necessary for the processing purpose(s) for which the data was collected, and any other permissible, related purpose. For example, we may retain certain assignment details and correspondence until the time limit for claims arising from the assignment has expired. When we no longer need the personal data we collect, we either anonymize the information (in which case, we may further retain and use the anonymized information) or securely destroy the information.
+
+  
+**Changes to Our Privacy Policy**   
+We may at any time in our sole discretion revise or update this Privacy Policy. We will post any changes on this page and indicate at the top of this page the date this Privacy Policy was last revised. You may read a current, effective copy of this Privacy Policy at any time by visiting this page. We will also notify you of any material changes either through a pop-up notice, email or through other reasonable means.
+
+  
+**Contacting Us**   
+If you have any questions, requests or complaints regarding this Privacy Policy, please contact us at [privacy@neulion.com](mailto:privacy@neulion.com) or using the following information:
+
+NeuLion, Inc.
+
+Attn: Privacy Rights Administrator
+
+1600 Old Country Road
+
+Plainview, NY 11803
+
+[_privacy@neulion.com_](mailto:privacy@neulion.com)
