@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallymoney.com privacy policy that was archived on 2018-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180713131524id_/https%3A//www.totallymoney.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallymoney.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216193424id_/https%3A//www.totallymoney.com/info/privacy-policy) for the most accurate reproduction.*
 
 # TotallyMoney - Privacy Notice
 
@@ -8,11 +8,11 @@
 
 We are TotallyMoney Limited.
 
-We provide a range of free services to help you better understand your credit situation and act as a credit broker, not a lender. Further information of what we do is in section 1below.
+We provide a range of free services to help you better understand and improve your credit situation. We act as a credit broker, not a lender. Further information of what we do is in section 1 below.
 
 We are based in England. Our company details are in section 2 below.
 
-If you have any questions or need any help in relation to our privacy notice, please our Data Protection Officer at Churchill House, 142-146 Old Street, London EC1V 9BW or at [dpo@totallymoney.com](maitlo:dpo@totallymoney.com)
+If you have any questions or need any help in relation to our privacy notice, please write to our Data Protection Officer at Churchill House, 142-146 Old Street, London EC1V 9BW or at [dpo@totallymoney.com](maitlo:dpo@totallymoney.com)
 
 ### B. Our values and what this privacy notice is for:
 
@@ -20,11 +20,11 @@ We value your privacy and want to be accountable and fair to you as well as tran
 
 In line with these values, this privacy notice tells you what to expect when we collect and use personal information about you. We have tried to make it easy for you to navigate so you can find the information that is most relevant to you and our relationship with you.
 
-We are always looking to improve the information we provide to our customers and contacts so if you have any feedback on this privacy notice, please let us know using our contact details in section 15.
+We are always looking to improve the information we provide to our customers. If you have any feedback on this privacy notice, please let us know using our contact details in section 15.
 
 ### C. Who this privacy notice applies to:
 
-This policy applies to all users of our website, [www.totallymoney.com](https://www.totallymoney.com/) and our customers.
+This policy applies to all users of our website, [www.totallymoney.com](https://www.totallymoney.com/) and our customers. Note that you may be redirected to our website by one of our partners (for example if you were unsuccessful in a credit card application, the lender might redirect you to [www.totallymoney.com](https://www.totallymoney.com/) to see alternative products).
 
 ### D. What this privacy notice contains:
 
@@ -66,19 +66,19 @@ Please read this privacy notice carefully to understand how we handle your perso
 
 ## 1\. Introduction
 
-**1.1** TotallyMoney is a credit broker, not a lender. We offer a range of free services that aim to help you better understand your credit situation. You can use our services to get your free credit report and score, and to see what that information means in practical terms for you, and for your borrowing power. We will show you whether you are likely to be accepted for specific products, including credit cards and loans. In order to provide this level of personalised information, it is necessary for us to disclose and receive data about you. If you want to apply for a product you find using our services, we will pass you through to the relevant lender.
+**1.1** TotallyMoney is a credit broker, not a lender. We offer a range of free personalised services to help you better understand your credit situation. You can join our service to get your free credit report and score each month, to see what that information means in practical terms for you, and for your borrowing power. We will search your credit file each month in order to show you whether you are likely to be accepted for specific products, including credit cards and loans. This is a soft search and does not affect your credit rating. If you want to apply for a product you find on our Site, we will pass you through to the relevant lender. 
 
-**1.2** You need to register with us to access the full range of services.
+**1.2** New customers to our service will need to register with us to gain access to our services.
 
-**1.3** The details of how we will use your data are set out below in this privacy notice. You should also read our [Terms and Conditions](http://www.totallymoney.com/info/terms/) and [Cookies Policy](http://www.totallymoney.com/info/cookie-policy/) carefully before you decide to use our services.
+**1.3** The details of how we will use your data are set out below in this privacy notice. You should also read our [Terms and Conditions](https://www.totallymoney.com/info/terms/) and [Cookie Policy](https://www.totallymoney.com/info/cookie-policy/) carefully before you decide to use our services.
 
 ## 2\. About TotallyMoney
 
-**2.1** The website www.totallymoney.com (“ **Site** ”) and the TotallyMoney App (“ **App** ”) are owned and operated by TotallyMoney Limited trading as TotallyMoney (“ **we** ”, “ **us** ” or “ **our** ”).
+**2.1** The website www.totallymoney.com (“ **Site** ”) and the TotallyMoney App (“ **App** ”) are owned and operated by TotallyMoney Limited (“ **we** ”, “ **us** ” or “ **our** ”). TotallyMoney Limited is a company registered in England (No. 06205695) with its registered office address at Churchill House, 142 - 146 Old Street, London EC1V 9BW.
 
-**2.2** We are an appointed representative of MI Money Limited which is authorised and regulated by the Financial Conduct Authority in respect of consumer credit related activities including credit broking and the provision of credit information services (FCA FRN 511936).
+**2.2** We are an appointed representative of our sister company, MI Money Limited, which is authorised and regulated by the Financial Conduct Authority in respect of consumer credit related activities including credit broking and the provision of credit information services (FCA FRN 511936).
 
-**2.3** Data protection law applies to our collection and use of personal information and TotallyMoney Limited is the controller for that personal information (ICO Registration Number Z1096594) of Churchill House, 142-146 Old Street, London, EC1V 9BW — details of our registration can be found online at [the ICO website](https://ico.org.uk/).
+**2.3** Data protection law applies to our collection and use of personal information and TotallyMoney Limited is the controller of that personal information (ICO Registration Number Z1096594).
 
 ## 3\. Where we collect personal information from
 
@@ -88,23 +88,23 @@ In order to provide our Services to you, we collect information about you from f
 
 (b) from the credit reference agencies (" **CRAs** ") we use (for example to provide credit report and score data);
 
-(c) from our third party service providers and the Lenders we work with to receive eligibility data and limited data about the outcome of Product applications you make as a result of using our Services;
+(c) from our third party service providers and the Lenders we work with to receive eligibility data and, in some cases, data about the outcome of Product applications you make as a result of using our Services;
 
 (d) information about your visit, such as our analysis of how you behave on our Site; and
 
-(e) from our sister company, MI Money Limited, when you agree to receive marketing from us when you apply for a Product that MI Money Limited promotes (including the Fluid and Granite credit cards).
+(e) from our sister company, MI Money Limited, when you agree to receive marketing from us when you apply for a Product that MI Money Limited promotes (including the Fluid credit card).
 
 ## 4\. About our services
 
-**For customers of the Intelligent Alerts Service: Please note that we have now closed the Intelligent Alerts Service to new customers, and the service to existing customers will end in November 2018. Existing customers should refer to Paragraph 5.3 of these terms and conditions for further details.**
+**4.1** New customers to our Site will need to register with us to gain access to our " **Account Services** " - that is, access to a free credit report and credit score service (" **Credit Report Service** "), plus tailored information about your borrowing power and eligibility for Products (" **Borrowing Power Service** "). We no longer provide a standard credit comparison service for one-time customers. We no longer provide a standard credit comparison service for one-time customers, except in very limited circumstance where you have been directed to our Services by our third party partners, in which case these terms and conditions will nevertheless apply. In this privacy notice when we refer to “Services” we are referring to the Account Services, Eligibility Checks and other ways to access our services as described in this paragraph. 
 
-**4.1** We have two sets of services available through our Site: those you need to register for, and those you do not. If you register with us, you will create an account with TotallyMoney (“ **TotallyMoney Account** ”) that will give you access to our “ **Account Services** ” — that is, access to a free credit report and credit score service (“ **Credit Report Service** ”), plus tailored information about your borrowing power and eligibility for Products (“ **Borrowing Power Service** ”). If you do not wish to register with us, you can still access our “ **Eligibility Check Service** ”, which allows you to check your eligibility for and compare Products on a one-off basis.
+**4.2** In this privacy notice when we refer to “ **Product(s)** ” we are referring to credit cards, loans, mortgages and such other financial products for consumers that we feature on our Site / App or may introduce to our Site in the future. When we refer to " **Lender(s)** " we are referring to the third party credit issuers who offer the Products featured in our Services.
 
-**4.2** In this privacy notice when we refer to “ **Services** ” we are referring to the Account Services, the Intelligent Alerts, Eligibility Check Service. When we refer to “ **Product(s)** ” we are referring to credit cards, loans, mortgages and such other financial products provided by third parties for consumers that we feature on our Site / App or may introduce in the future.
+**4.3 Eligibility Checks.** Checking your eligibility for Products is a core part of our Service. We do this by contacting our provider of pre-screening services and certain Lenders (who in turn may contact CRAs), and they use the information you provide to analyse your eligibility for Products using their databases and knowledge of the acceptance criteria for Products (“Eligibility Checks”). We have appointed Experian Ltd (“Experian”) to conduct pre-screening searches and eligibility checking for our Services. An Eligibility Check is not an application for credit, and carrying out Eligibility Checks will not harm your credit rating.
 
-**4.3** Personalisation is an important part of our Services. We will analyse and profile your personal information in order to tailor the information that we present to you, to improve our Services, and to determine the offers and communications that might be of interest to you (where applicable). To do this, we use automated technology that assesses your personal information to create a profile of you (including your credit eligibility) and search for and recommend suitable Products for you. This is a type of automated decision making and, depending on how you use the information provided, may have a significant effect on you as it relates to your credit, including your eligibility for credit and credit applications. Whilst we do not make credit decisions about you, we do this automated decision making because it is necessary for us to provide the Services to you and our legal basis for processing is contractual necessity. If you wish to object to this automated decision making and profiling, we will not be able to provide the Services to you and will close your account. 
+**4.4** Personalisation is an important part of our Services. We will analyse and profile your personal information in order to tailor the information that we present to you, to improve our Services, and to determine the offers and communications that might be of interest to you (where applicable). To do this, we use automated technology that assesses your personal information to create a profile of you (including your credit eligibility) and search for and recommend suitable Products for you. This is a type of automated decision making and, depending on how you use the information provided, may have a significant effect on you as it relates to your access to credit. Whilst we do not make credit decisions about you, we do this automated decision making because it is necessary for us to provide the Services to you and our legal basis for processing is contractual necessity. If you wish to object to this automated decision making and profiling, we will not be able to provide the Services to you and will close your account. 
 
-**4.4** Across our Services, you will have the opportunity to apply for Products directly from Lenders. In you elect to apply, we may provide your information to the Lender as set out in the Service sections below. Note that if you go on to apply for a Product as a result of using our Service, the Lender will perform credit reference and fraud prevention agency checks as part of the application process.
+**4.5** Across our Services, you will have the opportunity to apply for Products directly from Lenders. If you elect to apply, we may provide your information to the Lender as set out in the Service sections below. Note that if you go on to apply for a Product as a result of using our Service, the Lender will provide you with the terms and conditions for that Product. The Lender will also carry out its own identification and validation checks (including fraud prevention procedures), affordability and credit application checks in accordance with its own criteria. Any full credit check carried out by any Lender **will** be visible on your credit file to all Lenders in the future.
 
 ## 5\. How we store and use your personal information
 
@@ -116,7 +116,7 @@ We consider that the legal bases for using your personal information as set out 
 
 (b) **Legal and regulatory obligations:** our use of your personal information is necessary for complying with our legal or regulatory obligations (for example, complying with our regulatory obligations to the Financial Conduct Authority, or addressing enquiries or complaints from you or a regulator); or
 
-(c) **Legitimate interests:** where neither (a) nor (b) apply, use of your personal information is necessary for our legitimate interests (including our commercial interests) or the legitimate interests of others (for example,: to ensure and monitor the security of our Site; , occasionally we may use personal information when to developing or testing new features of our Site; to promote our free Services to you and other people or, if you have not opted out, to provide you with details of products and services that may interest you).
+(c) **Legitimate interests:** where neither (a) nor (b) apply, use of your personal information is necessary for our legitimate interests (including our commercial interests) or the legitimate interests of others (for example: to ensure and monitor the security of our Site; to assist the wider industry with fraud prevention; occasionally we may use personal information when developing or testing new features of our Site; to promote our free Services to you and other people or, if you have not opted out, to provide you with details of products and services that may interest you).
 
 If we rely on our (or another person's) legitimate interests for using your personal information, we will undertake a balancing test to ensure that our (or the other person's) legitimate interests are not outweighed by your interests or fundamental rights and freedoms which require protection of the personal information; or
 
@@ -126,101 +126,11 @@ If we rely on consent to use your personal information in a particular way, but 
 
 Further details about the legal bases for processing in relation to each of our Services and other activities is set out below.
 
-### 5.2 Eligibility Check Service
+### 5.2 Intelligent Alerts Service and Eligibility Check Service:
 
-We make the Eligibility Check Service available to let you run a one-time comparison of Products and check your eligibility to apply for them. This will give you an understanding of the likelihood of your application for a Product being accepted at the time you use the Eligibility Check. We use your personal information to provide the Eligibility Check Service as further described below.
+These standalone services are now closed to both new and existing customers. 
 
-(a) We design our registration forms to collect only the information we need in order to provide the Services to you, and so we may update the required fields from time to time accordingly. Our current registration process requires that you provide us with the following personal information:
-
-(i) name;
-
-(ii) date of birth;
-
-(iii) email address;
-
-(iv) employment status;
-
-(v) annual income;
-
-(vi) monthly expenses;
-
-(vii) loan purpose (loans only);
-
-(viii) phone number (loans only);
-
-(ix) whether immediate cash advance required (credit cards only);
-
-(x) address;
-
-(xi) time at address; and
-
-(xii) residential status,
-
-in order to check your eligibility for Products. We need this information to be able to provide the Eligibility Check Service to you including sending you the results of your eligibility check. If you do not provide this information you will not be able to benefit from the Eligibility Check Service.
-
-(b) We use the personal information you provide to do a “soft search” or a “quotation search” on your credit file and compare your personal information with the acceptance criteria for the relevant Products. This involves us sharing your personal information with:
-
-(i) Experian (our provider of eligibility checking services) in order to access your credit file, verify and validate the information you provide against Lender scorecards, publicly available databases (including credit reference agencies) and for fraud prevention purposes (please read Experian’s terms by a [clicking here](https://termsandconditions.hdd2.co.uk/TotallyMoney/)); and
-
-(ii) in some cases, the specific third party credit issuers that provide the Products (“Lenders”) to check your eligibility for their Products (including whether or not you are an existing customer), to pre-populate any application form you elect to complete and for fraud prevention purposes.
-
-Click [here](http://www.totallymoney.com/intelligent-alerts/) for more information about soft searches.
-
-(c) Experian and the relevant Lenders send us the outcome of the Product eligibility checks, which is usually in the form of a score or percentage chance of acceptance. We use this information to provide you with your eligibility check results on the Site and we send the results to the email address provided to us by you.
-
-(d) The purpose of this processing is to provide the Eligibility Check Service to you. Our legal basis for processing is contractual necessity (to perform the Eligibility Check Service requested by you).
-
-(e) Lenders may provide us with limited data about the outcome of Product applications you make as a result of using our Services. This does not allow us to build a picture of all your applications or whether you were successful in every instance. In these cases, we may use such information to inform our future marketing strategies and to verify the commission payments due to us.
-
-### 5.3 Intelligent Alerts Service (closed to new customers)
-
-** Please note that we have now closed the Intelligent Alerts Service to new customers, and the service to existing customers will end 30 November 2018. Until then, if you are an existing Intelligent Alerts customer, you will continue to receive the service described in Paragraph 4A of the Terms and Conditions, and as set out below.**
-
-As part of the Intelligent Alerts Service, we provide certain credit product eligibility comparison services for Products, to let you compare Products and check your eligibility to apply. This will give you an understanding of the likelihood of your application for a Product being accepted. We use your personal information to provide the Eligibility Check Service as further described below.
-
-(a) We design our registration forms to collect only the information we need in order to provide the Services to you, and so we may update the required fields from time to time accordingly. Our current registration process requires that you provide us with the following personal information:
-
-(i) name;
-
-(ii) date of birth;
-
-(iii) email address;
-
-(iv) employment status;
-
-(v) annual income;
-
-(vi) Product preferences;
-
-(vii) address;
-
-(viii) time at address; and
-
-(ix) residential status,
-
-in order to check your eligibility for Products. We need this information to be able to provide the Intelligent Alerts Service to you including sending you the results of your eligibility check and your monthly eligibility update. If you do not provide this information you will not be able to benefit from the Intelligent Alerts Service.
-
-(b) We use the personal information you provide to do a “soft search” or a “quotation search” on your credit file and compare your personal information with the acceptance criteria for the relevant Products. This involves us sharing your personal information with:
-
-(i) Experian (our provider of eligibility checking services) in order to access your credit file, verify and validate the information you provide against Lender scorecards, publicly available databases (including credit reference agencies) and for fraud prevention purposes (please read Experian’s terms by [clicking here](https://termsandconditions.hdd2.co.uk/TotallyMoney/)); and
-
-(ii) in some cases, the specific third party credit issuers that provide the Products (“Lenders”) to check your eligibility for their Products (including whether or not you are an existing customer), to pre-populate any application form you elect to complete and for fraud prevention purposes.
-
-Click [here](http://www.totallymoney.com/intelligent-alerts/) for more information about soft searches.
-
-(c) Experian and the relevant Lenders send us the outcome of the Product eligibility checks, which is usually in the form of a score or percentage chance of acceptance. We use this information to provide you with your eligibility check results on the Site and we send the results to the email address provided to us by you.
-
-(d) We will repeat the “soft search” described in (b) above, and send the results to you by email, every month for as long as you are subscribed to the Intelligent Alerts Service.
-
-(e) You can unsubscribe from the Intelligent Alerts Service at any time by [contacting us](http://www.totallymoney.com/info/contact/), by emailing us at [help@totallymoney.com](maito:help@totallymoney.com) or by clicking the unsubscribe link in an email from us with your results.
-
-(f) If you unsubscribe, we will no longer perform the monthly “soft searches” or email you with your results.
-
-(g) The purpose of this processing is to provide the Intelligent Alerts Service to you. Our legal basis for processing is contractual necessity (to perform the Intelligent Alerts Service that you have requested).
-
-(h) Lenders may provide us with limited data about the outcome of Product applications you make as a result of using our Services. This does not allow us to build a picture of all your applications or whether you were successful in every instance. In these cases, we may use such information to inform our future marketing strategies and to verify the commission payments due to us. 
-
-### 5.4 Account Services
+### 5.3 Account Services
 
 When you register for a TotallyMoney Account:
 
@@ -248,9 +158,9 @@ When you register for a TotallyMoney Account:
 
 (xi) phone number.
 
-We use this information to identify you and make our services more accurate.
+We use this information to provide our Services.
 
-(b) We also ask for your email address and a password to create your account. We need this information to be able to provide the TotallyMoney Account and in order for us to be able to provide the Account Services to you (as further described below).
+(b) We also ask for your email address and a password to create your account. We need this information to be able to provide the TotallyMoney Account securely, and in order for us to be able to provide the Account Services to you (as further described below).
 
 (c) Everyone who creates a TotallyMoney Account will automatically have access to the Borrowing Power Service, but you will only receive the Credit Report Service if you successfully complete additional security checks. Further details are set out in paragraph 5.6 of this privacy notice.
 
@@ -258,85 +168,83 @@ We use this information to identify you and make our services more accurate.
 
 (e) If you do not provide the information requested as part of the TotallyMoney Account registration process, you will not be able to open a TotallyMoney Account.
 
-(f) It is vital that you keep your TotallyMoney Account information accurate and up to date because inaccurate personal information will produce inaccurate results. You can update your personal information at any time by accessing your TotallyMoney Account or by contacting us at [help@totallymoney.com](maito:help@totallymoney.com)
+(f) It is vital that you keep your TotallyMoney Account information accurate and up to date because inaccurate personal information will produce inaccurate results. You can amend your information in the "My Details" section of your TotallyMoney Account, and we sometimes will give you a nudge to do so when you log in. If you are not sure how to amend your information, please [contact us.](maito:help@totallymoney.com)
 
 (g) The purpose of this processing is to provide the Account Services (including the Borrowing Power Service and the Credit Report Service) to you. Our legal basis for processing is contractual necessity (to perform the Account Services that you have requested).
 
-(h) Lenders may provide us with limited data about the outcome of Product applications you make as a result of using our Services. This does not allow us to build a picture of all your applications or whether you were successful in every instance. In these cases, we may use such information to inform our future marketing strategies and to verify the commission payments due to us.
+(h) Lenders may provide us with data about the outcome of Product applications you make as a result of using our Services. In these cases, we may use such information to understand you better, to inform our future marketing strategies and to verify the commission payments due to us.
 
-### 5.5 Borrowing Power Service
+### 5.4 Borrowing Power Service
 
-Once you have registered for a TotallyMoney Account, we will start to provide the Borrowing Power Service to you to help give you an understanding of how much you might be able to borrow based on your credit rating and the Products that you might be eligible for. We work with Experian and Lenders to provide the Borrowing Power Service to you.
+Once you have registered for a TotallyMoney Account, we will start to provide the Borrowing Power Service to you to help give you an understanding of the credit you may be able to access, based on your credit rating and the Products that you might be eligible for. We work with Experian and Lenders to provide the Borrowing Power Service to you but please note, there is no guarantee that you will be found by Experian and Lenders.
 
 (a) We use the personal information you provide as part of your TotallyMoney Account registration to do a “soft search” or a “quotation search” on your credit file and compare your personal information with the acceptance criteria for Products. This involves us sharing your personal information with:
 
 (i) Experian (our provider of pre-screening searches and eligibility checking services) in order to access your credit file, verify and validate the information you provide against publicly available databases for the purposes of providing the Borrowing Power Service and for fraud prevention purposes (please read Experian’s terms by [clicking here](https://termsandconditions.hdd2.co.uk/TotallyMoney/)); and
 
-(ii) in some cases, the specific third party credit issuers that provide the Products (“Lenders”) to check your eligibility for their Products (including whether or not you are an existing customer), to pre-populate any application form you elect to complete and for fraud prevention purposes.
+(ii) in some cases, the Lenders that check your eligibility for their Products (including whether or not you are an existing customer), to pre-populate any application form you elect to complete and for fraud prevention purposes.
 
-Click [here](http://www.totallymoney.com/intelligent-alerts/) for more information about soft searches.
+Click [here](https://www.totallymoney.com/intelligent-alerts/) for more information about soft searches.
 
-(b) Experian provides us with information about key elements of your credit file and the Lenders send us the outcome of the Product eligibility checks. We use this information to provide you with an indication of what you might be able to borrow and make this information available to you when you log in to your TotallyMoney Account and also via the email address provided to us by you. We also use this information to build a more accurate picture of you and to improve and further personalise the Service.
+(b) Experian provides us with information about key elements of your credit file and the Lenders send us the outcome of the Product eligibility checks. We use this information to provide you with an indication of the credit you may be able to access and make this information available to you when you log in to your TotallyMoney Account and also via the email address provided to us by you. We also use this information to build a more accurate picture of you and to improve and further personalise the Service.
 
-(c) We will repeat the “soft search” every month for as long as you have a live TotallyMoney Account.
+(c) We will repeat the "soft search" every month for as long as you have a live TotallyMoney Account.
 
 (d) We will alert you to the results of your monthly Borrowing Power “soft search” by email every month as part of our Service.
 
-(e) We may analyse the data that you give us, and the eligibility scores and other information we receive back from CRAs and Lenders, for the purpose of determining which products and services might be of interest to you.
+(e) We may analyse the data that you give us, and the eligibility scores and other information we receive back from CRAs and Lenders, for the purpose of personalising the Services, and determining which products and services might be of interest to you.
 
-(f) As explained in clause 5.3 of our [Terms and Conditions](http://www.totallymoney.com/info/terms/), we refresh the information every month to provide a better service to you.
+### 5.5 Credit Report Services
 
-### 5.6 Credit Report Services
-
-(a) Callcredit Consumer Limited (“ **Callcredit** ”), who we work with to provide the Credit Report Service asks you for certain personal information to verify your identity and authenticate you for the Credit Report Service (these are knowledge based questions only you should know the answers to, based on your credit history). We do not see the information you provide (even though it is provided to Callcredit through a TotallyMoney branded interface as part of your TotallyMoney account registration) – we only see the outcome of this authentication (e.g. authentication pass/failure).
+(a) Callcredit Limited (“ **Callcredit** ”), who we work with to provide the Credit Report Service asks you for certain personal information to verify your identity and authenticate you for the Credit Report Service (these are knowledge based questions only you should know the answers to, based on your credit history). We do not see the information you provide (even though it is provided to Callcredit through a TotallyMoney branded interface as part of your TotallyMoney account registration) – we only see the outcome of this authentication (e.g. authentication pass/failure).
 
 (b) Once you have registered for a TotallyMoney Account, provided that you complete Callcredit’s authentication process successfully and that your credit report can be found, we will start to provide the Credit Report Service to you to help give you an understanding of your credit report and score.
 
-(c) We use Callcredit to provide the credit report and score services to you. Callcredit (i.e. Callcredit Consumer Limited) uses its group company Callcredit Limited, which is a credit reference agency, to provide some elements of the services, and the way in which your information is used by both companies is set out in the Callcredit Privacy Notice, which can be found [here](http://www.totallymoney.com/info/callcreditprivacy/). Callcredit’s company number is 07891157 and its registered office is One Park Lane, Leeds LS3 1EP. Callcredit Limited’s company number is 03961870 and the registered office is One Park Lane, Leeds LS3 1EP. Both Callcredit and Callcredit Limited are authorised and regulated by the Financial Conduct Authority under registration number 737740 (Callcredit Limited) and 737743 (Callcredit). Authorisation can be checked on the [Consumer Credit Register](https://register.fca.org.uk/).
+(c) We use Callcredit to provide the credit report and score services to you. Callcredit is a credit reference agency and the way in which your information is used by them is set out in the Callcredit Privacy Notice, which can be found [here](https://www.totallymoney.com/info/callcreditprivacy/). Callcredit’s company number is 03961870 and the registered office is One Park Lane, Leeds LS3 1EP. Callcredit Limited is authorised and regulated by the Financial Conduct Authority under registration number 737740. Authorisation can be checked on the [FCA Register](https://register.fca.org.uk/).
 
 (d) We share the personal information you provide as part of your TotallyMoney Account registration with Callcredit in order to be able to provide the Credit Report Services.
 
-(e) If you are authenticated for the Credit Report Services by Callcredit, Callcredit provides us with a unique ID that we use to request your credit report and score data every month as long as you are active on the Site. Your credit score data will also be requested from Callcredit when you log into your TotallyMoney Account, so that we can provide you with a live score.
+(e) If you are authenticated for the Credit Report Services by Callcredit, Callcredit provides us with a unique ID that we use to request your credit report and score data every month as long as you have a live TotallyMoney Account. Your credit score data will also be requested from Callcredit when you log into your TotallyMoney Account, so that we can provide you with a live score.
 
 (f) We will store certain credit report and score data to the extent necessary to provide the Credit Report Services to you (for example, in order to present personalised information that loads quickly and is easy for you to use, we have to save the underlying information).
 
 (g) We may use information contained in your credit report to personalise the Service we provide to you. We will do this to the extent necessary in order to provide the Service to you as described on our Site.
 
-(h) We will request your credit report and score data from Callcredit and notify you that we have done so by email every month for as long as you have a live TotallyMoney Account.
+(h) As part of our Service, we will send you an email every month as a reminder that we have retrieved your credit report and score data from Callcredit.
 
-### 5.7 Service messages
+### 5.6 Service messages
 
 (a) We will send you emails as part of the Borrowing Power and Credit Report Services and we may also send you service messages in relation to your TotallyMoney Account or our Services from time to time (for example, to contact you about forgotten passwords or to notify you about changes to our Services).
 
-(b) The retrieval of your credit report and score from Callcredit, and the calculation of your Borrowing Power using Experian data are core elements of the Account Service, and we want to make sure that you remember that we are obtaining this data about you each month, even when you may not need to log into your Account very often. Therefore, please be aware that you cannot unsubscribe from these messages and we will continue to send you your monthly Credit Report Service and Borrowing Power Service email as part of the Credit Report Service, to record that we have accessed your data for the purposes of providing you with our Account Services. If you do not wish to receive these messages, you will need to close your TotallyMoney Account by emailing help@totallymoney.com.
+(b) The retrieval of your credit report and score from Callcredit, and the calculation of your Borrowing Power using Experian data are core elements of the Account Service, and we want to make sure that you remember that we are obtaining this data about you each month, even when you may not need to log into your Account very often. Therefore, please be aware that you cannot unsubscribe from these messages and we will continue to send you your monthly Credit Report Service and Borrowing Power Service email as part of the Credit Report Service, to record that we have accessed your data for the purposes of providing you with our Account Services. If you do not wish to receive these messages, you will need to close your TotallyMoney Account, which you can do by logging into your account and going to the "My Account / My Details" area.
 
 (c) In the absence of misuse or your account being suspended / terminated by us, we will only stop refreshing your borrowing power, credit report and score (and sending you notifications about these) if you close your TotallyMoney Account.
 
-### 5.8 Marketing
+### 5.7 Marketing
 
 (a) We will use your personal information to send you information about promotions, and to tailor what we send to you, about Products and services that may be of interest where we are legally permitted to do so or where you have consented to receiving direct marketing from us (for example, when you apply for a Fluid card). We may occasionally have arrangements in place with third parties that have a direct relationship with you and they may send information to you about us and our services where they are legally permitted to do so. You may be contacted by post, email, App push notification, via social media, telephone or such other means as we regard as appropriate and legally permitted.
 
-(b) You may unsubscribe from receiving marketing communications at any time by updating your preferences from within your TotallyMoney Account, [contacting us](http://www.totallymoney.com/info/contact/), by emailing us at [help@totallymoney.com](mailto:help@totallymoney.com) or by clicking the unsubscribe link in any marketing email from us.
+(b) You may unsubscribe from receiving marketing communications at any time by updating your preferences from within your TotallyMoney Account, by [contacting us](https://www.totallymoney.com/info/contact/), by emailing us at [help@totallymoney.com](mailto:help@totallymoney.com) or by clicking the unsubscribe link in any marketing email from us.
 
-(c) We partner with third-party advertising companies who collect, store and use data by integrating cookies and other tracking software on our Services. Please see our Cookies Policy [here](http://www.totallymoney.com/info/cookie-policy/) for further information. In some cases these third parties will also use the data that they collect for their own purposes, for example they may aggregate your data with other data they hold and use this to inform advertising related services provided to other clients.
+(c) We partner with third-party advertising companies who collect, store and use data by integrating cookies and other tracking software on our Services. These companies may also access information obtained through TotallyMoney's cookies where we permit them to do so. Please see our Cookie Policy [here](https://www.totallymoney.com/info/cookie-policy/) for further information. In some cases these third parties will also use the data that they collect for their own purposes, for example they may aggregate your data with other data they hold and use this to inform advertising related services provided to other clients.
 
 We might also share your data with social media or other similar platforms, so that you and other people can see relevant content on that platform. For example, we may use the Facebook Custom Audiences service and share your email address in a protected format with Facebook so that we can: include you in a custom audience that we will serve relevant advertising content to on Facebook; or create an audience of other Facebook users based on the information in your Facebook profile.
 
-### 5.9 Correspondence with you
+### 5.8 Correspondence with you
 
 (a) If you contact us, we may keep a record of that correspondence.
 
 (b) For research purposes, from time to time, we may ask you to complete a survey, although you do not have to respond. The purpose of such surveys are to help us improve, develop and update our Services and business. We believe we have a legitimate interest in handling your data for this purpose as it allows us to provide you with a better experience of our Services and the benefits of this outweigh any potential impact on you in storing and using your personal information in this way.
 
-### 5.10 Website and app analytics
+### 5.9 Website and app analytics
 
 We capture details of your visits to the Site including the actual pages you visit, IP address (from which we may derive your location) and other communication data and details of the resources that you access. We also capture information about your computer or device including, where available, your operating system and browser type. This is used for system administration, to report aggregate information to our advertisers and to enable us to analyse behaviour and trends on the Site. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
 We believe we have a legitimate interest in handling your data for this purpose as it allows us to provide you with customer and technical support and a better experience of our Services and the benefits of this outweigh any potential impact on you in storing and using your personal information in this way.
 
-### 5.11 To meet legal or regulatory requirements
+### 5.10 To meet legal or regulatory requirements
 
-We and our third party service providers are required to comply with certain legal and regulatory requirements and we may process your personal information in order to comply with those requirements. Occasionally, we may be asked to provide certain information to regulators or law enforcement agencies and we will comply with these requests where legally required or permitted.
+We and our third party service providers are required to comply with certain legal and regulatory requirements (including but not limited to fraud prevention) and we may process your personal information in order to comply with those requirements. Occasionally, we may be asked to provide certain information to regulators or law enforcement agencies and we will comply with these requests where legally required or permitted.
 
 This processing is necessary for compliance with a legal obligation to which we or the regulator/law enforcement agency are subject.
 
@@ -364,7 +272,7 @@ The legal basis of this processing is contractual necessity;
 
 (f) the Financial Conduct Authority (and any other legal, regulatory or governmental body that we are required to disclose information to), credit control and debt collection agencies;
 
-(g) companies that assist us in our marketing, advertising and promotional activities; and
+(g) companies that assist us in our marketing, advertising and promotional activities. This includes service providers who provide platforms and systems that we use to help us serve marketing and advertising. We also share information about your visits to our website with Facebook to enable Facebook to assist us with sending out targeted advertising. This information is gathered through our own cookies and third party cookies on our website. For more information about how we use cookies please see our [Cookie Policy](https://www.totallymoney.com/info/cookie-policy/); and
 
 (h) analytics and search engine providers that assist us in the improvement and optimisation of our Website.
 
@@ -384,7 +292,7 @@ The legal basis of this processing is contractual necessity;
 
 **7.4** From time to time, we or our service providers may communicate with you by email. You should keep your email account secure.
 
-**7.5** Where we have given you (or where you have chosen) a password which enables you to access your online account, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+**7.5** You are responsible for keeping your TotallyMoney Account password confidential. We ask you not to share a password with anyone.
 
 ## 8\. Transfers of personal information
 
@@ -400,7 +308,7 @@ The legal basis of this processing is contractual necessity;
 
 ## 9\. Data retention
 
-**9.1 TotallyMoney Account:** Upon closure of your TotallyMoney Account for any reason, we will remove our live records of you, and archive limited personal information for the purposes of responding to legal and regulatory enquiries and for our own required record keeping. We will keep the archived data for no longer than six years following your TotallyMoney Account closure.
+**9.1 TotallyMoney Account:** Upon closure of your TotallyMoney Account for any reason, we will remove our live records of you, and archive limited personal information for the purposes of complying with our legal and regulatory responsibilities, for responding to legal and regulatory enquiries and for our own required record keeping. We will keep the archived data for no longer than six years following your TotallyMoney Account closure.
 
 **9.2 General:** We keep your personal information for no longer than necessary for the purposes for which the personal information is processed. The length of time we retain personal information for depends on the purposes for which we collect and use it and/or as required to comply with applicable laws and to establish, exercise or defend our legal rights.
 
@@ -410,7 +318,7 @@ The legal basis of this processing is contractual necessity;
 
 (a) Access to and/or copies of your personal information.
 
-(b) Rectify or update your personal information if it is inaccurate or incomplete. Note that we cannot make changes to your credit report or score. Please see clause 6.5 of our [Terms and Conditions](http://www.totallymoney.com/info/terms/) for more information about what you can do if you believe your credit report or score is inaccurate. In addition, at the moment, we are unable to make changes to the email address associated with your TotallyMoney Account. If you need to amend your email address, we will therefore need to close your TotallyMoney Account. We are working to change this as soon as possible.
+(b) Rectify or update your personal information if it is inaccurate or incomplete. Note that we cannot make changes to your credit report or score. Please see clause 6.5 of our [Terms and Conditions](https://www.totallymoney.com/info/terms/) for more information about what you can do if you believe your credit report or score is inaccurate. In addition, at the moment, we are unable to make changes to the email address associated with your TotallyMoney Account. If you need to amend your email address, we will therefore need to close your TotallyMoney Account. We are working to change this as soon as possible.
 
 (c) Obtain erasure of your personal information where there is no compelling reason for its continued processing in certain circumstances.
 
@@ -424,13 +332,15 @@ The legal basis of this processing is contractual necessity;
 
 (h) Object to and not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects or significantly affects you.
 
-**10.2** To exercise the rights outlined above in respect of the personal information processed by us as a controller [contact us](http://www.totallymoney.com/info/contact/) or email us at [help@totallymoney.com](mailto:help@totallymoney.com).
+**10.2** To exercise the rights outlined above in respect of the personal information processed by us as a controller [contact us](https://www.totallymoney.com/info/contact/) or email us at [help@totallymoney.com](mailto:help@totallymoney.com).
 
 **10.3** We will consider all such requests and provide our response within a reasonable period (and in any event any time period required by applicable law). Please note, however, that certain personal information may be exempt from such requests in certain circumstances.
 
 **10.4** If an exception applies, we will tell you this when responding to your request. We may request you provide us with information necessary to confirm your identity before responding to any request you make.
 
-**10.5** Where we have said we process your personal information based on consent, individuals have a right to withdraw their consent at any time by [contacting us](http://www.totallymoney.com/info/contact/) or by emailing us at [help@totallymoney.com](mailto:help@totallymoney.com).
+**10.5** Where we have said we process your personal information based on consent, individuals have a right to withdraw their consent at any time by [contacting us](https://www.totallymoney.com/info/contact/) or by emailing us at [help@totallymoney.com](mailto:help@totallymoney.com).
+
+**10.6** You can close your TotallyMoney Account at any time by logging into your TotallyMoney Account and going to the "My Account / My Details" area. Or, if you prefer, you can email us at [help@totallymoney.com](mailto:help@totallymoney.com) and we will close your TotallyMoney Account for you.
 
 ## 11\. Third party websites
 
@@ -442,7 +352,7 @@ The legal basis of this processing is contractual necessity;
 
 ## 12\. Cookies
 
-**12.1** We may obtain information about your general internet usage by using a cookie file which is stored on your browser – or the hard drive of your computer. Cookies contain information that is transferred to your hard drive. Our [Cookies Policy](http://www.totallymoney.com/info/cookie-policy/) describes the cookies we use and why. Please note that our advertisers, Service Providers and Product Providers may also use cookies. 
+**12.1** We may obtain information about your general internet usage by using a cookie file which is stored on your browser – or the hard drive of your computer. Cookies contain information that is transferred to your hard drive. Our [Cookie Policy](https://www.totallymoney.com/info/cookie-policy/) describes the cookies we use and why. Please note that our advertisers, Service Providers and Product Providers may also use cookies. 
 
 **12.2** If you register with us, or if you continue to use our Site, you agree to our use of cookies.
 
@@ -458,11 +368,11 @@ Any changes we need or wish to make to this privacy notice will be posted on thi
 
 14.1 If you have any queries or complaints about our collection, use or storage of your personal information, or if you wish to exercise any of your rights in relation to your personal information, please contact [dpo@totallymoney.com](mailto:dpo@totallymoney.com). We will investigate and attempt to resolve any such complaint or dispute regarding the use or disclosure of your personal information.
 
-14.2 You may also make a complaint to the dUK Information Commissioner ([www.ico.org.uk](http://www.ico.org/)). Alternatively you may seek a remedy through local courts if you believe your rights have been breached.
+14.2 You may also make a complaint to the UK Information Commissioner ([www.ico.org.uk](http://www.ico.org/)). Alternatively you may seek a remedy through local courts if you believe your rights have been breached.
 
 ## 15\. Contact
 
-If you have any questions about this privacy notice, please [contact us](http://www.totallymoney.com/info/contact/).
+If you have any questions about this privacy notice, please [contact us](https://www.totallymoney.com/info/contact/) or email us at [help@totallymoney.com](mailto:help@totallymoney.com).
 
 ## Details of changes to this Privacy Policy
 
@@ -546,4 +456,24 @@ Updated to reflect requirements of the General Data Protection Regulation.
 
 | 
 
-Further amendments to reflect requirements of the General Data Protection Regulation. 
+Further amendments to reflect requirements of the General Data Protection Regulation.   
+  
+2.2 
+
+| 
+
+19/11/2018 
+
+| 
+
+Updated to reflect the requirement for account creation in order to access most services, and other less significant changes.   
+  
+2.3 
+
+| 
+
+15/01/2019 
+
+| 
+
+Amended to reflect the requirement to register for most services. 
