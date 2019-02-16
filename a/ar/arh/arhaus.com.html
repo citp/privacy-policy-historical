@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the arhaus.com privacy policy that was archived on 2018-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181112200543id_/https%3A//www.arhaus.com/corp/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arhaus.com privacy policy that was archived on 2019-02-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190216171427id_/https%3A//www.arhaus.com/corp/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
@@ -30,6 +30,8 @@
 	<!-- For iPhone 6 Plus with 3× display: -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/apple-touch-icon-precomposed.png">
+
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
 	<script src="//tags.tiqcdn.com/utag/arhaus/main/prod/utag.js" type="text/javascript" async=""></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TD584QH&amp;gtm_auth=pjlj7igWaq8e0L45PbIDHA&amp;gtm_preview=env-2&amp;gtm_cookies_win=x"></script><script>
     dataLayer = [{
         'site_id': 'Arhaus',//(?)
@@ -52,8 +54,6 @@
 
 })(window,document,'script','dataLayer', 'GTM-TD584QH');</script>
 	
-	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js" defer=""></script>
-	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.2.1/backbone-min.js" defer=""></script>
 
 
 	<link rel="SHORTCUT ICON" href="/favicon.ico">
@@ -63,90 +63,56 @@ Privacy | Arhaus Furniture
 		<meta name="description" content="Arhaus Privacy Policy.">
 				<link rel="canonical" href="https://www.arhaus.com/corp/privacy/">
 
-	<link href="/Content/styles.min.css?v=2018.11.7.2" rel="stylesheet">
-	
-	
+	<link href="/Content/styles.css?v=2019.2.8.0" rel="stylesheet">
+	<script type="text/javascript" id="enabled-custom-events">
+	document.addComplexEventListener = function (events, callback) { //extend the document directly
+		window['ComplexEvents'] = window['ComplexEvents'] || {};
+		var _complexEvent = events.join('|');
+		//The CE has been registered already, and has fired - just call the callback
+		if (typeof window['ComplexEvents'][_complexEvent] == 'object' && window['ComplexEvents'][_complexEvent]['fired']) {
+			callback();
+		}
+		//The CE has not been registered, so register it and its components
+		else {
+			window['ComplexEvents'][_complexEvent] = { 'componentEvents': [], 'hasFired': false };
+			for (var _event in events) {
+				document.addEventListener(events[_event], function (e) {
+					_checkCEStatus(e.type);
+				});
+				window['ComplexEvents'][_complexEvent]['componentEvents'].push({ 'name': events[_event], 'fired': false });
+				document.addEventListener(_complexEvent, callback);
+			}
+		}
+	};
 
-<script type="text/javascript">
-    var key = "50a27d4b-973f-4641-87e2-e94d26788a1e";
-    if (key !== "") {
-        var username = "";
-        var appInsights = window.appInsights ||
-            function(config) {
-                function r(config) {
-                    t[config] = function() {
-                        var i = arguments;
-                        t.queue.push(function() { t[config].apply(t, i) })
-                    }
-                }
+	function _checkCEStatus(eString) {
 
-                var t = { config: config }, u = document, e = window, o = 'script', s = u.createElement(o), i, f;
-                for (s.src =
-                        config.url || '//az416426.vo.msecnd.net/scripts/a/ai.0.js',
-                    u.getElementsByTagName(o)[0].parentNode.appendChild(s), t.cookie = u.cookie, t.queue = [], i =
-                        ['Event', 'Exception', 'Metric', 'PageView', 'Trace', 'Ajax'];
-                    i.length;
-                ) r('track' + i.pop());
-                return r('setAuthenticatedUserContext'), r('clearAuthenticatedUserContext'),
-                    config.disableExceptionTracking ||
-                    (i = 'onerror', r('_' + i), f = e[i], e[i] = function(config, r, u, e, o) {
-                        var s = f && f(config, r, u, e, o);
-                        return s !== !0 && t['_' + i](config, r, u, e, o), s
-                    }), t
-            }({
-                instrumentationKey: key
-            });
-        if (username !== "") {
-            appInsights.setAuthenticatedUserContext(username.replace(/[,;=| ]+/g, "_"));
-        }
-        window.appInsights = appInsights;
-        appInsights.trackPageView();
-    }
-</script><script src="//az416426.vo.msecnd.net/scripts/a/ai.0.js"></script>
+		//stub this in so we can use it immediately/always, because EDA has a few gaps before it's ready.
+		var arh = arh || {};
+		arh.global = arh.global || { 'log': initLog() };
 
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.3.4/bluebird.min.js"></script>
-	
-	
-	<script id="PFIO-CE">
-	/* Disable minification (remove `.min` from URL path) for more info */
-	//all credit goes to polyfill.io - https://github.com/Financial-Times/polyfill-service
-	//MIT License
-(function(undefined) {!function(){function e(e,t){for(var n=-1,o=e.length;++n<o;)if(n in e&&e[n]===t)return n;return-1}var t={click:1,dblclick:1,keyup:1,keypress:1,keydown:1,mousedown:1,mouseup:1,mousemove:1,mouseover:1,mouseenter:1,mouseleave:1,mouseout:1,storage:1,storagecommit:1,textinput:1};if("undefined"!=typeof document&&"undefined"!=typeof window){var n=window.Event&&window.Event.prototype||null;window.Event=Window.prototype.Event=function(e,t){if(!e)throw new Error("Not enough arguments");var n;if("createEvent"in document){n=document.createEvent("Event");var o=!(!t||t.bubbles===undefined)&&t.bubbles,i=!(!t||t.cancelable===undefined)&&t.cancelable;return n.initEvent(e,o,i),n}return n=document.createEventObject(),n.type=e,n.bubbles=!(!t||t.bubbles===undefined)&&t.bubbles,n.cancelable=!(!t||t.cancelable===undefined)&&t.cancelable,n},n&&Object.defineProperty(window.Event,"prototype",{configurable:!1,enumerable:!1,writable:!0,value:n}),"createEvent"in document||(window.addEventListener=Window.prototype.addEventListener=Document.prototype.addEventListener=Element.prototype.addEventListener=function(){var n=this,o=arguments[0],i=arguments[1];if(n===window&&o in t)throw new Error("In IE8 the event: "+o+" is not available on the window object. Please see https://github.com/Financial-Times/polyfill-service/issues/317 for more information.");n._events||(n._events={}),n._events[o]||(n._events[o]=function(t){var o,i=n._events[t.type].list,r=i.slice(),c=-1,a=r.length;for(t.preventDefault=function(){!1!==t.cancelable&&(t.returnValue=!1)},t.stopPropagation=function(){t.cancelBubble=!0},t.stopImmediatePropagation=function(){t.cancelBubble=!0,t.cancelImmediate=!0},t.currentTarget=n,t.relatedTarget=t.fromElement||null,t.target=t.target||t.srcElement||n,t.timeStamp=(new Date).getTime(),t.clientX&&(t.pageX=t.clientX+document.documentElement.scrollLeft,t.pageY=t.clientY+document.documentElement.scrollTop);++c<a&&!t.cancelImmediate;)c in r&&(o=r[c],-1!==e(i,o)&&"function"==typeof o&&o.call(n,t))},n._events[o].list=[],n.attachEvent&&n.attachEvent("on"+o,n._events[o])),n._events[o].list.push(i)},window.removeEventListener=Window.prototype.removeEventListener=Document.prototype.removeEventListener=Element.prototype.removeEventListener=function(){var t,n=this,o=arguments[0],i=arguments[1];n._events&&n._events[o]&&n._events[o].list&&-1!==(t=e(n._events[o].list,i))&&(n._events[o].list.splice(t,1),n._events[o].list.length||(n.detachEvent&&n.detachEvent("on"+o,n._events[o]),delete n._events[o]))},window.dispatchEvent=Window.prototype.dispatchEvent=Document.prototype.dispatchEvent=Element.prototype.dispatchEvent=function(e){if(!arguments.length)throw new Error("Not enough arguments");if(!e||"string"!=typeof e.type)throw new Error("DOM Events Exception 0");var t=this,n=e.type;try{if(!e.bubbles){e.cancelBubble=!0;var o=function(e){e.cancelBubble=!0,(t||window).detachEvent("on"+n,o)};this.attachEvent("on"+n,o)}this.fireEvent("on"+n,e)}catch(i){e.target=t;do{e.currentTarget=t,"_events"in t&&"function"==typeof t._events[n]&&t._events[n].call(t,e),"function"==typeof t["on"+n]&&t["on"+n].call(t,e),t=9===t.nodeType?t.parentWindow:t.parentNode}while(t&&!e.cancelBubble)}return!0},document.attachEvent("onreadystatechange",function(){"complete"===document.readyState&&document.dispatchEvent(new Event("DOMContentLoaded",{bubbles:!0}))}))}}();this.CustomEvent=function(e,t){if(!e)throw Error('TypeError: Failed to construct "CustomEvent": An event name must be provided.');var n;if(t=t||{bubbles:!1,cancelable:!1,detail:null},"createEvent"in document)try{n=document.createEvent("CustomEvent"),n.initCustomEvent(e,t.bubbles,t.cancelable,t.detail)}catch(l){n=document.createEvent("Event"),n.initEvent(e,t.bubbles,t.cancelable),n.detail=t.detail}else n=new Event(e,t),n.detail=t&&t.detail||null;return n},CustomEvent.prototype=Event.prototype;}).call('object' === typeof window && window || 'object' === typeof self && self || 'object' === typeof global && global || {});
-</script>
-	<script type="text/javascript">
-	//mozilla's polyfill of object.assign
-	if (typeof Object.assign != 'function') {
-		// Must be writable: true, enumerable: false, configurable: true
-		Object.defineProperty(Object, "assign", {
-			value: function assign(target, varArgs) { // .length of function is 2
-				'use strict';
-				if (target == null) { // TypeError if undefined or null
-					throw new TypeError('Cannot convert undefined or null to object');
-				}
-
-				var to = Object(target);
-
-				for (var index = 1; index < arguments.length; index++) {
-					var nextSource = arguments[index];
-
-					if (nextSource != null) { // Skip over if undefined or null
-						for (var nextKey in nextSource) {
-							// Avoid bugs when hasOwnProperty is shadowed
-							if (Object.prototype.hasOwnProperty.call(nextSource, nextKey)) {
-								to[nextKey] = nextSource[nextKey];
-							}
-						}
+		var _validCEs = Object.keys(window['ComplexEvents']).filter(function (_CE) { return _CE.indexOf(eString) != -1 });
+		for (var _validCE in _validCEs) {
+			with (window['ComplexEvents'][_validCEs[_validCE]]) {
+				for (var _componentEvent in componentEvents) {
+					arh.global.log(componentEvents[_componentEvent]['name'] + '?=' + eString, 'EDA');
+					if (componentEvents[_componentEvent]['name'] == eString) { //mark this one as fired
+						arh.global.log('%c \u2714 found component event ' + eString + ' in CE:' + _validCE + ' at ' + _componentEvent, 'EDA');
+						componentEvents[_componentEvent]['fired'] = true;
 					}
 				}
-				return to;
-			},
-			writable: true,
-			configurable: true
-		});
+
+				var _isComplete = componentEvents.filter(function (_ce) { return _ce['fired'] == false }).length == 0;
+				if (_isComplete) {
+					arh.global.log('%c \u2714 all components set \u2714', 'EDA');
+					document.dispatchEvent(new CustomEvent(_validCEs[_validCE]));
+					window['ComplexEvents'][_validCEs[_validCE]].hasFired = true;
+				}
+
+			}
+		}
 	}
 </script>
-	
-
 	<script type="text/javascript">
 	/*******************************
 	EVENTS
@@ -198,7 +164,7 @@ Privacy | Arhaus Furniture
 			'id': 'inputmask',
 			'isLocal': true,
 			'onLoad': function () { document.dispatchEvent(new CustomEvent('arh:built::InputMask')) }
-		},
+		}
 	];
 
 	//Globally accessed variables slick/jQueryReady exist in case we need to key off them in later code.
@@ -209,7 +175,7 @@ Privacy | Arhaus Furniture
 			return false;
 		var script = document.createElement('script');
 		script.onload = onLoad;
-		script.src = src + (isLocal ? '?v=' + '2018.11.7.2' : '');
+		script.src = src + (isLocal ? '?v=' + '2019.2.8.0' : '');
 		script.id = id;
 		document.head.appendChild(script);
 	}
@@ -248,7 +214,7 @@ Privacy | Arhaus Furniture
 	var addToQueue = function (selector, JQFn, args) {
 		var newEntry = true, cleanArgs = trimArgs(args);
 		for (var QueueMember in JQueue) {
-			if (JQueue[QueueMember]['selector'] == selector && JQueue[QueueMember]['JQFn'] == JQFn) {
+			if (JQueue[QueueMember]['selector'] == selector && JQueue[QueueMember]['JQFn'] == JQFn) {	
 				console.log('add functionality to selector');
 				newEntry = false;
 				console.warn(JQueue[QueueMember]['args'], cleanArgs);
@@ -295,26 +261,109 @@ Privacy | Arhaus Furniture
 	}
 
 </script>
+	
+	
 
-	<script type="text/javascript" src="/Scripts/global.min.js?v=2018.11.7.2"></script>
+<script type="text/javascript">
+    var key = "50a27d4b-973f-4641-87e2-e94d26788a1e";
+    if (key !== "") {
+        var username = "";
+        var appInsights = window.appInsights ||
+            function(config) {
+                function r(config) {
+                    t[config] = function() {
+                        var i = arguments;
+                        t.queue.push(function() { t[config].apply(t, i) })
+                    }
+                }
+
+                var t = { config: config }, u = document, e = window, o = 'script', s = u.createElement(o), i, f;
+                for (s.src =
+                        config.url || '//az416426.vo.msecnd.net/scripts/a/ai.0.js',
+                    u.getElementsByTagName(o)[0].parentNode.appendChild(s), t.cookie = u.cookie, t.queue = [], i =
+                        ['Event', 'Exception', 'Metric', 'PageView', 'Trace', 'Ajax'];
+                    i.length;
+                ) r('track' + i.pop());
+                return r('setAuthenticatedUserContext'), r('clearAuthenticatedUserContext'),
+                    config.disableExceptionTracking ||
+                    (i = 'onerror', r('_' + i), f = e[i], e[i] = function(config, r, u, e, o) {
+                        var s = f && f(config, r, u, e, o);
+                        return s !== !0 && t['_' + i](config, r, u, e, o), s
+                    }), t
+            }({
+                instrumentationKey: key
+            });
+        if (username !== "") {
+            appInsights.setAuthenticatedUserContext(username.replace(/[,;=| ]+/g, "_"));
+        }
+        window.appInsights = appInsights;
+        appInsights.trackPageView();
+    }
+</script><script src="//az416426.vo.msecnd.net/scripts/a/ai.0.js"></script>
+
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.3.4/bluebird.min.js"></script>
+
+	
+	<script id="PFIO-CE">
+	/* Disable minification (remove `.min` from URL path) for more info */
+	//all credit goes to polyfill.io - https://github.com/Financial-Times/polyfill-service
+	//MIT License
+(function(undefined) {!function(){function e(e,t){for(var n=-1,o=e.length;++n<o;)if(n in e&&e[n]===t)return n;return-1}var t={click:1,dblclick:1,keyup:1,keypress:1,keydown:1,mousedown:1,mouseup:1,mousemove:1,mouseover:1,mouseenter:1,mouseleave:1,mouseout:1,storage:1,storagecommit:1,textinput:1};if("undefined"!=typeof document&&"undefined"!=typeof window){var n=window.Event&&window.Event.prototype||null;window.Event=Window.prototype.Event=function(e,t){if(!e)throw new Error("Not enough arguments");var n;if("createEvent"in document){n=document.createEvent("Event");var o=!(!t||t.bubbles===undefined)&&t.bubbles,i=!(!t||t.cancelable===undefined)&&t.cancelable;return n.initEvent(e,o,i),n}return n=document.createEventObject(),n.type=e,n.bubbles=!(!t||t.bubbles===undefined)&&t.bubbles,n.cancelable=!(!t||t.cancelable===undefined)&&t.cancelable,n},n&&Object.defineProperty(window.Event,"prototype",{configurable:!1,enumerable:!1,writable:!0,value:n}),"createEvent"in document||(window.addEventListener=Window.prototype.addEventListener=Document.prototype.addEventListener=Element.prototype.addEventListener=function(){var n=this,o=arguments[0],i=arguments[1];if(n===window&&o in t)throw new Error("In IE8 the event: "+o+" is not available on the window object. Please see https://github.com/Financial-Times/polyfill-service/issues/317 for more information.");n._events||(n._events={}),n._events[o]||(n._events[o]=function(t){var o,i=n._events[t.type].list,r=i.slice(),c=-1,a=r.length;for(t.preventDefault=function(){!1!==t.cancelable&&(t.returnValue=!1)},t.stopPropagation=function(){t.cancelBubble=!0},t.stopImmediatePropagation=function(){t.cancelBubble=!0,t.cancelImmediate=!0},t.currentTarget=n,t.relatedTarget=t.fromElement||null,t.target=t.target||t.srcElement||n,t.timeStamp=(new Date).getTime(),t.clientX&&(t.pageX=t.clientX+document.documentElement.scrollLeft,t.pageY=t.clientY+document.documentElement.scrollTop);++c<a&&!t.cancelImmediate;)c in r&&(o=r[c],-1!==e(i,o)&&"function"==typeof o&&o.call(n,t))},n._events[o].list=[],n.attachEvent&&n.attachEvent("on"+o,n._events[o])),n._events[o].list.push(i)},window.removeEventListener=Window.prototype.removeEventListener=Document.prototype.removeEventListener=Element.prototype.removeEventListener=function(){var t,n=this,o=arguments[0],i=arguments[1];n._events&&n._events[o]&&n._events[o].list&&-1!==(t=e(n._events[o].list,i))&&(n._events[o].list.splice(t,1),n._events[o].list.length||(n.detachEvent&&n.detachEvent("on"+o,n._events[o]),delete n._events[o]))},window.dispatchEvent=Window.prototype.dispatchEvent=Document.prototype.dispatchEvent=Element.prototype.dispatchEvent=function(e){if(!arguments.length)throw new Error("Not enough arguments");if(!e||"string"!=typeof e.type)throw new Error("DOM Events Exception 0");var t=this,n=e.type;try{if(!e.bubbles){e.cancelBubble=!0;var o=function(e){e.cancelBubble=!0,(t||window).detachEvent("on"+n,o)};this.attachEvent("on"+n,o)}this.fireEvent("on"+n,e)}catch(i){e.target=t;do{e.currentTarget=t,"_events"in t&&"function"==typeof t._events[n]&&t._events[n].call(t,e),"function"==typeof t["on"+n]&&t["on"+n].call(t,e),t=9===t.nodeType?t.parentWindow:t.parentNode}while(t&&!e.cancelBubble)}return!0},document.attachEvent("onreadystatechange",function(){"complete"===document.readyState&&document.dispatchEvent(new Event("DOMContentLoaded",{bubbles:!0}))}))}}();this.CustomEvent=function(e,t){if(!e)throw Error('TypeError: Failed to construct "CustomEvent": An event name must be provided.');var n;if(t=t||{bubbles:!1,cancelable:!1,detail:null},"createEvent"in document)try{n=document.createEvent("CustomEvent"),n.initCustomEvent(e,t.bubbles,t.cancelable,t.detail)}catch(l){n=document.createEvent("Event"),n.initEvent(e,t.bubbles,t.cancelable),n.detail=t.detail}else n=new Event(e,t),n.detail=t&&t.detail||null;return n},CustomEvent.prototype=Event.prototype;}).call('object' === typeof window && window || 'object' === typeof self && self || 'object' === typeof global && global || {});
+</script>
+	<script type="text/javascript">
+	//mozilla's polyfill of object.assign
+	if (typeof Object.assign != 'function') {
+		// Must be writable: true, enumerable: false, configurable: true
+		Object.defineProperty(Object, "assign", {
+			value: function assign(target, varArgs) { // .length of function is 2
+				'use strict';
+				if (target == null) { // TypeError if undefined or null
+					throw new TypeError('Cannot convert undefined or null to object');
+				}
+
+				var to = Object(target);
+
+				for (var index = 1; index < arguments.length; index++) {
+					var nextSource = arguments[index];
+
+					if (nextSource != null) { // Skip over if undefined or null
+						for (var nextKey in nextSource) {
+							// Avoid bugs when hasOwnProperty is shadowed
+							if (Object.prototype.hasOwnProperty.call(nextSource, nextKey)) {
+								to[nextKey] = nextSource[nextKey];
+							}
+						}
+					}
+				}
+				return to;
+			},
+			writable: true,
+			configurable: true
+		});
+	}
+</script>
+	
+
+
+	<script type="text/javascript" src="/Scripts/global.min.js?v=2019.2.8.0"></script>
 	<script type="text/javascript" src="/Scripts/vendor/dust-linkedin/dust-core.min.js"></script>
 	<script type="text/javascript" src="/Scripts/vendor/dust-linkedin/dust-helpers.min.js"></script>
-	<script type="text/javascript" src="/Scripts/vendor/nouislider/nouislider.min.js"></script>
-	<script type="text/javascript" src="/Scripts/dust-templates.min.js?v=2018.11.7.2"></script>
+	<script type="text/javascript" src="/Scripts/dust-templates.min.js?v=2019.2.8.0"></script>
 
 	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js" onload="document.dispatchEvent(new CustomEvent('arh:built::JQuery', {}))" async="async"></script>
 
 <script type="text/javascript" async="" src="//d21gpk1vhmjuf5.cloudfront.net/unbxdAnalytics.js"></script></head>
 <body>
 
-
+	
 
 
 <noscript>
     <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TD584QH&gtm_auth=pjlj7igWaq8e0L45PbIDHA&gtm_preview=env-2&gtm_cookies_win=x"
             height="0" width="0" style="display:none;visibility:hidden"></iframe>
 </noscript>
-<script type="text/javascript" id="tealiumUDO_constant">
+	<script type="text/javascript" id="tealiumUDO_constant">
     //chat request(?), javascript error, page_category
     var utag_data = {};
     utag_data['site_id'] = 'Arhaus'; //(?)
@@ -326,7 +375,7 @@ Privacy | Arhaus Furniture
 
 
 
-
+	
     <script type="text/javascript" id="tealiumUDO_dynamic">
         utag_data['page_type'] = 'info';
         utag_data['page_name'] = 'DynamicContent/Privacy'.toLowerCase();
@@ -338,45 +387,38 @@ Privacy | Arhaus Furniture
         })
     </script>
 
-<script type="text/javascript" id="tealium-JS">
+	<script type="text/javascript" id="tealium-JS">
     (function(a,b,c,d){        
         a = '//tags.tiqcdn.com/utag/arhaus/main/prod/utag.js';
         b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
         a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
     })();
 </script>
-<a href="#content" class="sr-only">Skip to main content</a>
-<div class="PromoInterstitial">
+	
+	<a href="#content" class="sr-only">Skip to main content</a>
+	<div class="PromoInterstitial">
     <div class="PromoInterstitialChevrons js-PromoInterstitialChevrons" data-direction="left"></div>
         <div class="PromoInterstitialHeader" data-index="0">
-            <a href="/furniture/living-room-furniture/" class="PromoInterstitialScreen">UPHOLSTERY SALE SAVE UP TO 50%* - SHOP SALE</a>
-            <a href="/furniture/living-room-furniture/" class="PromoInterstitialMobile">UPHOLSTERY SALE SAVE UP TO 50%* - SHOP SALE</a>
+            <a href="/landing-pages/clearance/" class="PromoInterstitialScreen">CLEARANCE: SAVE UP TO 65%</a>
+            <a href="/landing-pages/clearance/" class="PromoInterstitialMobile">CLEARANCE: SAVE UP TO 65%</a>
         </div>
         <div class="PromoInterstitialHeader" data-index="1">
-            <a href="/landing-pages/clearance/" class="PromoInterstitialScreen">CLEARANCE - SAVE UP TO 60%*</a>
-            <a href="/landing-pages/clearance/" class="PromoInterstitialMobile">CLEARANCE - SAVE UP TO 60%*</a>
+            <a href="/landing-pages/warehouse-sale/#EmailWHS" class="PromoInterstitialScreen">WAREHOUSE SALE* - SHOP SALE</a>
+            <a href="/landing-pages/warehouse-sale/#EmailWHS" class="PromoInterstitialMobile">WAREHOUSE SALE* - SHOP SALE</a>
         </div>
         <div class="PromoInterstitialHeader" data-index="2">
-            <a href="/landing-pages/free-shipping-items/" class="PromoInterstitialScreen">FREE SHIPPING ON HUNDREDS OF ITEMS* - SHOP NOW</a>
-            <a href="/landing-pages/free-shipping-items/" class="PromoInterstitialMobile">FREE SHIPPING ON 100S OF ITEMS*</a>
+            <a href="/landing-pages/warehouse-sale/" class="PromoInterstitialScreen">WAREHOUSE SALE FEATURED DEALS* - SHOP SALE</a>
+            <a href="/landing-pages/warehouse-sale/" class="PromoInterstitialMobile">WAREHOUSE SALE FEATURED DEALS*</a>
         </div>
         <div class="PromoInterstitialHeader" data-index="3">
-            <a href="/furniture/lighting/" class="PromoInterstitialScreen">SAVE 20% ON LIGHTING* - SHOP NOW</a>
-            <a href="/furniture/lighting/" class="PromoInterstitialMobile">SAVE 20% ON LIGHTING* - SHOP NOW</a>
-        </div>
-        <div class="PromoInterstitialHeader" data-index="4">
-            <a href="/furniture/tabletop/all-tabletop/" class="PromoInterstitialScreen">SAVE 20% ON MIRRORS* - SHOP NOW</a>
-            <a href="/furniture/tabletop/all-tabletop/" class="PromoInterstitialMobile">SAVE 20% ON MIRRORS* - SHOP NOW</a>
-        </div>
-        <div class="PromoInterstitialHeader" data-index="5">
-            <a href="/landing-pages/gift-guide/all-gifts/" class="PromoInterstitialScreen">SHOP OUR HOLIDAY GIFT GUIDE</a>
-            <a href="/landing-pages/gift-guide/all-gifts/" class="PromoInterstitialMobile">SHOP OUR HOLIDAY GIFT GUIDE</a>
+            <a href="/landing-pages/clearance/?r_Departments_fq=Decor~Jewelry~Lighting~Bedding~Tabletop" class="PromoInterstitialScreen">FLASH SALE – 50% OFF CLEARANCE DÉCOR*</a>
+            <a href="/landing-pages/clearance/?r_Departments_fq=Decor~Jewelry~Lighting~Bedding~Tabletop" class="PromoInterstitialMobile">FLASH SALE – 50% OFF CLEARANCE DÉCOR</a>
         </div>
 
     <div class="PromoInterstitialChevrons js-PromoInterstitialChevrons" data-direction="right"></div>
 </div>
 
-
+	
 <svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <symbol id="arh-logo" viewBox="0 0 310 26">
@@ -392,8 +434,8 @@ Privacy | Arhaus Furniture
                     }
                 </style>
             </defs>
-            <g id="Layer_2" data-name="Layer 2">
-                <g id="Layer_1-2" data-name="Layer 1">
+            <g id="arh-logo-1" data-name="Layer 2">
+                <g id="arh-logo-2" data-name="Layer 1">
                     <path d="M306.164 8.183a4.216 4.216 0 0 0 0 8.429 4.09 4.09 0 0 0 3.373-1.822c.02-.04-.19-.21-.212-.19a3.816 3.816 0 0 1-3.161 1.632 1.806 1.806 0 0 1-1.302-.4c-.574-.511-.767-1.327-.767-3.434v-.437h5.595a.051.051 0 0 0 .058-.058 3.796 3.796 0 0 0-3.584-3.72zm-2.069 3.398c.038-1.539.268-2.163.767-2.62a1.814 1.814 0 0 1 1.302-.398 1.319 1.319 0 0 1 1.074.398c.44.457.632 1.081.651 2.62zM301.096 16.441a1.21 1.21 0 0 0 0-.38h-1.11c-.076 0-.134-.02-.134-.075v-5.03c0-2.015-1.208-2.773-3.221-2.773a2.453 2.453 0 0 0-2.336 1.518c-.384-.911-1.38-1.518-3.144-1.518a2.227 2.227 0 0 0-2.221 1.481V8.41a.052.052 0 0 0-.058-.058h-3.103c-.058 0-.058.38 0 .38h1.072c.116 0 .153.02.153.077v7.177c0 .056-.037.075-.153.075h-1.072c-.058 0-.058.38 0 .38h4.349c.058 0 .058-.38 0-.38h-1.074c-.076 0-.114-.02-.114-.075v-5.544c.42-1.31 1.053-1.879 2.221-1.879.69 0 1.285.607 1.285 1.935v5.488c0 .056-.038.075-.116.075h-1.072a.632.632 0 0 0 0 .38h4.35c.057 0 .057-.38 0-.38h-1.092c-.097 0-.116-.02-.116-.075v-5.203a2.151 2.151 0 0 1 2.24-2.22c.654 0 1.305.607 1.305 1.935v5.488c0 .056-.058.075-.133.075h-1.094a1.21 1.21 0 0 0 0 .38zM280.46 8.183a4.216 4.216 0 1 0 4.12 4.215 4.18 4.18 0 0 0-4.12-4.215zm1.303 7.65a2.294 2.294 0 0 1-2.587-.001c-.556-.511-.804-1.327-.804-3.434 0-1.842.248-2.924.804-3.437a2.3 2.3 0 0 1 2.587 0c.557.513.787 1.595.787 3.437 0 2.107-.23 2.923-.787 3.435zM275.4 16.441c.04 0 .04-.38 0-.38h-1.071c-.097 0-.116-.02-.116-.075v-4.633a2.954 2.954 0 0 0-3.258-3.17 2.23 2.23 0 0 0-2.222 1.481v-7.12c0-.02 0-.056-.058-.056h-3.122a.625.625 0 0 0 0 .378h1.11c.098 0 .136.02.136.078v13.042c0 .056-.038.075-.135.075h-1.111a.632.632 0 0 0 0 .38h4.368c.04 0 .04-.38 0-.38h-1.053c-.077 0-.135-.02-.135-.075v-5.544c.44-1.31 1.055-1.879 2.222-1.879.69 0 1.304.607 1.304 1.935v5.488c0 .056-.038.075-.116.075h-1.072c-.058 0-.058.38 0 .38h4.329zM260.974 9.796a1.625 1.625 0 0 0-1.706-1.613 1.826 1.826 0 0 0-1.973 1.481V8.41a.064.064 0 0 0-.058-.058h-3.124a.632.632 0 0 0 0 .38h1.093c.095 0 .134.02.134.077v7.177c0 .056-.039.075-.134.075h-1.093a.632.632 0 0 0 0 .38h4.351c.056 0 .056-.38 0-.38h-1.055c-.095 0-.114-.02-.114-.075v-5.298c.383-1.613.842-1.956 1.416-1.956a.544.544 0 0 1 .537.609c0 .38-.268.418-.268.91 0 .417.365.741.997.741.556 0 .997-.38.997-1.196zM252.854 16.441a.648.648 0 0 0 0-.38h-1.073c-.097 0-.135-.02-.135-.075V8.41a.052.052 0 0 0-.056-.058h-3.086c-.058 0-.058.38 0 .38h1.053c.116 0 .155.02.155.077v5.543c-.422 1.31-1.055 1.9-2.261 1.9-.653 0-1.285-.59-1.285-1.957V8.41a.052.052 0 0 0-.058-.058h-3.103a1.21 1.21 0 0 0 0 .38h1.073c.115 0 .152.02.152.077v4.765c0 2.012 1.246 3.038 3.221 3.038a2.26 2.26 0 0 0 2.26-1.481v1.254a.05.05 0 0 0 .057.056h3.086zM237.909 8.183a4.216 4.216 0 1 0 4.12 4.215 4.18 4.18 0 0 0-4.12-4.215zm1.303 7.65a2.294 2.294 0 0 1-2.587-.001c-.556-.511-.803-1.327-.803-3.434 0-1.842.247-2.924.803-3.437a2.3 2.3 0 0 1 2.587 0c.557.513.787 1.595.787 3.437 0 2.107-.23 2.923-.787 3.435zM233.663 8.714c.056 0 .056-.362 0-.362h-2.932c-.057 0-.057.362 0 .362h1.093c.133 0 .153.057-.135.797l-1.876 4.899-2.415-5.62c-.02-.039 0-.076.077-.076h1.169c.075 0 .075-.362 0-.362h-4.6c-.058 0-.058.362 0 .362h1.054a.154.154 0 0 1 .155.076l3.735 7.841-1.668 4.329c-.382.987-.861 1.062-1.13 1.062s-.344-.188-.344-.397c0-.419.421-.55.421-1.008a.774.774 0 0 0-.844-.758 1.068 1.068 0 0 0-1.014 1.157 1.457 1.457 0 0 0 1.437 1.442c.765 0 1.418-.397 1.84-1.537l4.368-11.41c.269-.721.327-.797.48-.797h1.129z" class="cls-1"></path>
                     <path d="M165.11 11.378l-.934-.7c-3.2-2.389-4.067-3.535-4.067-5.351 0-2.325 1.801-3.694 4.101-3.694 3.067 0 3.966 1.337 4.166 1.688a5.337 5.337 0 0 1 .433 1.592c.034.254.067.414.267.414.167 0 .234-.223.234-.733 0-2.165.133-3.217.133-3.376s-.067-.223-.333-.223a5.647 5.647 0 0 1-1.167-.159 13.503 13.503 0 0 0-3.1-.319c-4.233 0-6.9 2.325-6.9 5.734 0 2.165.8 4.14 4.333 6.911l1.501 1.179c2.866 2.261 3.833 3.535 3.833 5.732 0 2.039-1.567 4.237-4.767 4.237-2.233 0-4.433-.893-4.933-3.249a5.37 5.37 0 0 1-.1-1.179c0-.254-.034-.35-.234-.35-.167 0-.233.159-.266.509-.033.51-.167 1.784-.167 3.376 0 .86.034.988.5 1.211a10.52 10.52 0 0 0 4.466.86 9.076 9.076 0 0 0 5.034-1.337 6.5 6.5 0 0 0 2.833-5.288c0-2.548-.933-4.522-4.866-7.485" class="cls-2"></path>
                     <path d="M165.11 11.378l-.934-.7c-3.2-2.389-4.067-3.535-4.067-5.351 0-2.325 1.801-3.694 4.101-3.694 3.067 0 3.966 1.337 4.166 1.688a5.337 5.337 0 0 1 .433 1.592c.034.254.067.414.267.414.167 0 .234-.223.234-.733 0-2.165.133-3.217.133-3.376s-.067-.223-.333-.223a5.647 5.647 0 0 1-1.167-.159 13.503 13.503 0 0 0-3.1-.319c-4.233 0-6.9 2.325-6.9 5.734 0 2.165.8 4.14 4.333 6.911l1.501 1.179c2.866 2.261 3.833 3.535 3.833 5.732 0 2.039-1.567 4.237-4.767 4.237-2.233 0-4.433-.893-4.933-3.249a5.37 5.37 0 0 1-.1-1.179c0-.254-.034-.35-.234-.35-.167 0-.233.159-.266.509-.033.51-.167 1.784-.167 3.376 0 .86.034.988.5 1.211a10.52 10.52 0 0 0 4.466.86 9.076 9.076 0 0 0 5.034-1.337 6.5 6.5 0 0 0 2.833-5.288c0-2.548-.933-4.522-4.866-7.485M25.067 24.196a4.526 4.526 0 0 1-1.334-.19c-.7-.192-1.666-.702-2.867-3.536C18.833 15.628 13.6 2.474 13.1 1.264c-.4-.987-.533-1.147-.734-1.147s-.333.192-.733 1.242l-7.566 19.78c-.601 1.592-1.267 2.802-2.8 2.993-.267.032-.734.064-.968.064-.166 0-.299.063-.299.191 0 .191.199.255.633.255 1.566 0 3.4-.095 3.767-.095s1.799.095 2.6.095c.3 0 .5-.064.5-.255 0-.128-.1-.191-.333-.191h-.334c-.567 0-1.267-.287-1.267-.924a6.463 6.463 0 0 1 .467-2.133l2.001-5.638a.346.346 0 0 1 .332-.255h7.167a.292.292 0 0 1 .3.191l3.1 7.835c.2.51 0 .796-.2.86-.133.032-.233.096-.233.224 0 .191.366.191 1 .222 2.3.064 4.733.064 5.233.064.367 0 .667-.064.667-.255 0-.159-.133-.191-.333-.191zM15.1 14.1H8.733c-.1 0-.166-.064-.1-.224l2.933-8.599q.25-.717.501 0l3.166 8.599c.034.128.034.224-.133.224zM57.501 24.196a8.405 8.405 0 0 1-1.3-.095 6.988 6.988 0 0 1-4.067-2.294c-1.933-1.974-4.2-4.809-6.933-8.153 3-2.644 4.033-5.001 4.033-7.357a5.511 5.511 0 0 0-2.299-4.332A10.645 10.645 0 0 0 40.834.563c-1.033 0-3.567.095-3.933.095-.167 0-2.267-.095-3.766-.095-.367 0-.534.064-.534.255 0 .128.133.191.267.191a6.477 6.477 0 0 1 1.133.096c1.1.222 1.366.732 1.433 1.815.067 1.02.067 1.911.067 6.88v5.605c0 3.058 0 5.574-.167 6.912-.133.924-.299 1.624-.966 1.752a5.357 5.357 0 0 1-1.001.127c-.199 0-.266.096-.266.191 0 .191.166.255.533.255 1 0 3.1-.096 3.133-.096.167 0 2.268.096 4.101.096.366 0 .533-.096.533-.255 0-.095-.067-.191-.266-.191-.301 0-1.034-.063-1.501-.127-1-.128-1.199-.828-1.299-1.752-.167-1.338-.167-3.854-.167-6.912v-.764c0-.159.066-.255.233-.255l4.1.064a.545.545 0 0 1 .433.191c.667.828 2.234 2.962 3.634 4.713 1.9 2.389 3.066 3.95 4.5 4.683a7.05 7.05 0 0 0 3.566.605h2.367c.6 0 .8-.064.8-.255 0-.095-.133-.191-.3-.191zm-13.1-11.339a4.472 4.472 0 0 1-2.5.606 9.588 9.588 0 0 1-3.5-.51.412.412 0 0 1-.233-.382V2.155a.383.383 0 0 1 .267-.381 10.467 10.467 0 0 1 2.232-.191c3.567 0 5.768 2.388 5.768 6.37 0 2.42-.867 4.14-2.034 4.904zM89.069 24.195c-.3 0-1.034-.063-1.5-.127-1-.127-1.2-.828-1.3-1.751-.167-1.338-.167-3.854-.167-6.912V9.8c0-4.969 0-5.861.067-6.88.067-1.115.333-1.656 1.233-1.815a5.04 5.04 0 0 1 .834-.096c.133 0 .266-.064.266-.192 0-.19-.166-.254-.533-.254-1 0-3.1.095-3.267.095S82.435.563 80.936.563c-.368 0-.534.064-.534.254 0 .128.133.192.267.192a6.382 6.382 0 0 1 1.133.096c1.1.222 1.366.732 1.433 1.815.067 1.019.067 1.911.067 6.88v.669c0 .159-.1.19-.2.19H68.969c-.1 0-.2-.031-.2-.19V9.8c0-4.969 0-5.861.066-6.88.067-1.115.333-1.656 1.234-1.815a5.041 5.041 0 0 1 .833-.096c.134 0 .266-.064.266-.192 0-.19-.166-.254-.533-.254-.999 0-3.1.095-3.266.095S65.102.563 63.602.563c-.367 0-.533.064-.533.254 0 .128.133.192.266.192a6.394 6.394 0 0 1 1.134.096c1.1.222 1.366.732 1.433 1.815.067 1.019.067 1.911.067 6.88v5.605c0 3.058 0 5.574-.167 6.912-.133.923-.3 1.624-.967 1.751a5.347 5.347 0 0 1-1 .127c-.199 0-.266.097-.266.192 0 .191.167.255.533.255 1 0 3.1-.096 3.267-.096s2.267.096 4.1.096c.366 0 .533-.096.533-.255 0-.095-.067-.192-.266-.192a15.053 15.053 0 0 1-1.5-.127c-1.001-.127-1.2-.828-1.3-1.751-.167-1.338-.167-3.854-.167-6.912v-3.344c0-.159.1-.191.2-.191h14.133a.188.188 0 0 1 .2.191v3.344c0 3.058 0 5.574-.167 6.912-.133.923-.299 1.624-.966 1.751a5.357 5.357 0 0 1-1.001.127c-.199 0-.266.097-.266.192 0 .191.167.255.533.255 1 0 3.1-.096 3.267-.096s2.267.096 4.1.096c.367 0 .533-.096.533-.255 0-.095-.066-.192-.266-.192M120.504 24.196a4.534 4.534 0 0 1-1.334-.19c-.7-.192-1.666-.702-2.866-3.536-2.034-4.842-7.267-17.996-7.767-19.206-.4-.987-.533-1.147-.733-1.147s-.333.192-.734 1.242l-7.566 19.78c-.6 1.592-1.267 2.802-2.8 2.993q-.482.054-.967.064c-.167 0-.3.063-.3.19 0 .192.2.256.634.256 1.566 0 3.4-.095 3.766-.095s1.8.095 2.6.095c.3 0 .5-.064.5-.255 0-.128-.1-.191-.333-.191h-.334c-.567 0-1.267-.287-1.267-.924a6.442 6.442 0 0 1 .468-2.133l1.999-5.638a.35.35 0 0 1 .334-.255h7.166a.291.291 0 0 1 .3.19l3.1 7.836c.2.51 0 .796-.199.86-.134.032-.234.096-.234.224 0 .19.366.19 1 .222 2.3.064 4.733.064 5.234.064.366 0 .666-.064.666-.255 0-.159-.133-.191-.333-.191zM110.537 14.1h-6.366c-.101 0-.167-.064-.101-.224l2.933-8.599q.25-.717.501 0l3.166 8.599c.034.128.034.224-.133.224zM149.238.563c-1.001 0-2.567.096-2.8.096-.2 0-2.034-.096-3.534-.096-.366 0-.533.064-.533.255 0 .128.133.192.267.192a6.495 6.495 0 0 1 1.133.095c1.1.223 1.367.733 1.434 1.815.066 1.02.066 1.912.066 6.88v3.981c0 3.281-.4 5.988-1.933 7.803a7.145 7.145 0 0 1-5.234 2.294 6.704 6.704 0 0 1-5.033-1.752c-1.434-1.306-2.5-3.28-2.5-7.867V9.8c0-4.968 0-5.86.067-6.88.066-1.114.333-1.688 1.233-1.815a5.129 5.129 0 0 1 .833-.095c.133 0 .267-.064.267-.192 0-.191-.167-.255-.533-.255-1.001 0-3.001.096-3.3.096-.301 0-2.334-.096-3.833-.096-.368 0-.534.064-.534.255 0 .128.133.192.266.192a6.49 6.49 0 0 1 1.134.095c1.1.223 1.366.733 1.433 1.815.067 1.02.067 1.912.067 6.88v4.65c0 4.65 1.267 6.88 2.9 8.377 2.366 2.134 5.733 2.261 6.866 2.261a10.058 10.058 0 0 0 6.867-2.356c2.667-2.262 3.067-6.084 3.067-9.524V9.8c0-4.968 0-5.86.066-6.88.067-1.114.334-1.624 1.234-1.815a5.129 5.129 0 0 1 .833-.095c.134 0 .267-.064.267-.192 0-.191-.167-.255-.533-.255" class="cls-2"></path>
@@ -446,10 +488,10 @@ Privacy | Arhaus Furniture
         <symbol id="arrow_right" viewBox="0 0 22 31">
             <title>Scratchy Arrow Right</title>
             <defs>
-                <path id="a" d="M20.691 11.68c0-1.136-.481-2.075-1.445-2.618-2.072-1.087-4.191-2.025-6.311-3.063-2.168-1.037-5.61-2.551-7.827-3.588-.24-.1-1.875-.753-3.074-1.25C.904.693 0 .88 0 2.411c0 .938 1.016 1.26 1.835 1.458.674.148 1.3.247 1.975.445 2.843.74 8.83 3.504 11.335 5.134.24.198 2.978 1.531 2.978 1.927 0 .296-2.512 2.846-2.946 3.241-1.108 1.038-2.304 2.315-3.46 3.254-2.409 1.926-9.218 7.047-9.683 10.19-.245 1.656-.083 2.244 1.506 2.244.771 0 1.06-.395 1.253-1.087.626-2.47 3.758-5.236 5.54-6.916 2.024-1.877 4.144-3.655 6.215-5.434 1.06-.938 2.216-1.877 3.18-2.865.674-.642.963-1.433.963-2.322z"></path>
+                <path id="c" d="M20.691 11.68c0-1.136-.481-2.075-1.445-2.618-2.072-1.087-4.191-2.025-6.311-3.063-2.168-1.037-5.61-2.551-7.827-3.588-.24-.1-1.875-.753-3.074-1.25C.904.693 0 .88 0 2.411c0 .938 1.016 1.26 1.835 1.458.674.148 1.3.247 1.975.445 2.843.74 8.83 3.504 11.335 5.134.24.198 2.978 1.531 2.978 1.927 0 .296-2.512 2.846-2.946 3.241-1.108 1.038-2.304 2.315-3.46 3.254-2.409 1.926-9.218 7.047-9.683 10.19-.245 1.656-.083 2.244 1.506 2.244.771 0 1.06-.395 1.253-1.087.626-2.47 3.758-5.236 5.54-6.916 2.024-1.877 4.144-3.655 6.215-5.434 1.06-.938 2.216-1.877 3.18-2.865.674-.642.963-1.433.963-2.322z"></path>
             </defs>
             <g fill="none" fill-rule="evenodd" transform="matrix(-1 0 0 1 21.571 -1)">
-                <mask id="b" fill="#fff">
+                <mask id="d" fill="#fff">
                     <use xlink:href="#a"></use>
                 </mask>
                 <use fill="#597178" transform="matrix(-1 0 0 1 20.691 0)" xlink:href="#a"></use>
@@ -461,10 +503,10 @@ Privacy | Arhaus Furniture
         <symbol id="arrow_small" viewBox="0 0 8 14">
             <title>Scratchy Arrow Right</title>
             <defs>
-                <path id="a" d="M7.666 4.758c0-.507-.175-.925-.526-1.167-.753-.484-1.524-.902-2.295-1.364C4.057 1.765 2.805 1.09 2 .628 1.912.584 1.317.293.881.072.471-.137 0 .272 0 .954c0 .418.198.987.496 1.075.245.066.473.11.718.198 1.034.33 3.211 1.56 4.122 2.287.088.088.573.308.573.484 0 .132-.476.51-.634.687-.402.462-.837 1.03-1.258 1.449-.876.858-3.352 3.14-3.521 4.539-.09.738.355 1.38.933 1.38.28 0 .385-.175.456-.484.227-1.1 1.366-2.332 2.014-3.08.736-.837 1.507-1.629 2.26-2.42.386-.419.806-.837 1.156-1.277.246-.286.35-.638.35-1.034z"></path>
+                <path id="e" d="M7.666 4.758c0-.507-.175-.925-.526-1.167-.753-.484-1.524-.902-2.295-1.364C4.057 1.765 2.805 1.09 2 .628 1.912.584 1.317.293.881.072.471-.137 0 .272 0 .954c0 .418.198.987.496 1.075.245.066.473.11.718.198 1.034.33 3.211 1.56 4.122 2.287.088.088.573.308.573.484 0 .132-.476.51-.634.687-.402.462-.837 1.03-1.258 1.449-.876.858-3.352 3.14-3.521 4.539-.09.738.355 1.38.933 1.38.28 0 .385-.175.456-.484.227-1.1 1.366-2.332 2.014-3.08.736-.837 1.507-1.629 2.26-2.42.386-.419.806-.837 1.156-1.277.246-.286.35-.638.35-1.034z"></path>
             </defs>
             <g fill="none" fill-rule="evenodd" transform="matrix(-1 0 0 1 8 0)">
-                <mask id="b" fill="#fff">
+                <mask id="f" fill="#fff">
                     <use xlink:href="#a"></use>
                 </mask>
                 <use fill="#597178" transform="matrix(-1 0 0 1 7.666 0)" xlink:href="#a"></use>
@@ -501,32 +543,28 @@ Privacy | Arhaus Furniture
             <path fill="none" fill-rule="evenodd" stroke="#597178" stroke-width="2" d="M26 7.563C26 3.94 22.977 1 19.249 1A6.782 6.782 0 0 0 13.5 4.135 6.787 6.787 0 0 0 7.75 1C4.02 1 1 3.939 1 7.563c0 1.975.9 3.739 2.317 4.942l9.567 9.3c.163.16.385.248.616.248a.881.881 0 0 0 .616-.248l9.567-9.3C25.1 11.302 26 9.538 26 7.563z"></path>
         </symbol>
         <symbol id="facebook" viewBox="0 0 10 20">
-            <title>Facebook Icon</title>
+            <title>Visit Arhaus on Facebook</title>
             <path d="M10 .144v3.173H8.183c-.664 0-1.111.145-1.343.433-.231.288-.347.721-.347 1.298V7.32h3.391l-.451 3.557h-2.94V20H2.951v-9.123H0V7.32h2.951V4.7c0-1.49.402-2.647 1.204-3.468C4.958.411 6.026 0 7.361 0 8.495 0 9.375.048 10 .144z"></path>
         </symbol>
-        <symbol id="google" viewBox="0 0 30 18">
-            <title>G+ Icon</title>
-            <path d="M18.71 9.209c0 1.702-.377 3.219-1.132 4.549-.755 1.33-1.831 2.37-3.229 3.119-1.398.749-3 1.123-4.805 1.123a9.854 9.854 0 0 1-3.71-.712c-1.181-.475-2.197-1.113-3.048-1.916A8.997 8.997 0 0 1 .756 12.5 8.398 8.398 0 0 1 0 9c0-1.22.252-2.386.755-3.5a8.997 8.997 0 0 1 2.031-2.872c.851-.803 1.867-1.441 3.047-1.916A9.854 9.854 0 0 1 9.544 0c2.483 0 4.614.786 6.393 2.357l-2.59 2.346c-1.016-.925-2.284-1.388-3.803-1.388a5.966 5.966 0 0 0-2.962.761 5.772 5.772 0 0 0-2.155 2.07A5.397 5.397 0 0 0 3.633 9c0 1.031.265 1.983.794 2.855a5.772 5.772 0 0 0 2.155 2.069 5.966 5.966 0 0 0 2.962.76 6.64 6.64 0 0 0 1.986-.282c.603-.188 1.1-.423 1.49-.706.391-.282.732-.603 1.023-.963.29-.36.503-.7.638-1.02a4.36 4.36 0 0 0 .28-.908H9.544V7.71h9.01a7.56 7.56 0 0 1 .157 1.498zM30 7.71v2.578h-2.721v2.566h-2.735V10.29h-2.721V7.711h2.721V5.145h2.735V7.71H30z"></path>
-        </symbol>
         <symbol id="houzz" viewBox="0 0 1792 1792">
-            <title>Houzz Icon</title>
+            <title>Visit Arhaus on Houzz</title>
             <path d="M896 1191l512-295v591l-512 296v-592zm-512-295v591l512-296zm512-887v591l-512 296v-591zm0 591l512-295v591z"></path>
         </symbol>
         <symbol id="instagram" viewBox="0 0 22 22">
-            <title>Instagram Icon</title>
+            <title>Visit Arhaus on Instagram</title>
             <path d="M19.508 18.591V9.31h-1.934c.191.601.287 1.227.287 1.876a6.347 6.347 0 0 1-.917 3.33 6.683 6.683 0 0 1-2.492 2.414 6.882 6.882 0 0 1-3.438.888c-1.88 0-3.49-.647-4.826-1.941-1.337-1.294-2.006-2.857-2.006-4.69 0-.65.096-1.276.287-1.877h-2.02v9.281c0 .248.084.456.25.623.168.167.376.25.624.25h15.311a.853.853 0 0 0 .616-.25.834.834 0 0 0 .258-.623zm-4.068-7.634c0-1.184-.432-2.194-1.296-3.03-.864-.835-1.907-1.253-3.13-1.253-1.212 0-2.25.418-3.115 1.254-.864.835-1.296 1.845-1.296 3.029s.432 2.194 1.296 3.03c.864.835 1.903 1.253 3.115 1.253 1.223 0 2.266-.418 3.13-1.254.864-.835 1.296-1.845 1.296-3.029zm4.068-5.156V3.437a.961.961 0 0 0-.287-.694.943.943 0 0 0-.701-.294h-2.493a.943.943 0 0 0-.701.294.961.961 0 0 0-.287.695V5.8c0 .277.096.51.287.702a.954.954 0 0 0 .701.286h2.493c.276 0 .51-.095.701-.286a.954.954 0 0 0 .287-.702zM22 2.82v16.357c0 .774-.277 1.437-.83 1.991a2.716 2.716 0 0 1-1.992.831H2.822a2.716 2.716 0 0 1-1.991-.83A2.716 2.716 0 0 1 0 19.177V2.822C0 2.048.277 1.385.83.83A2.716 2.716 0 0 1 2.823 0h16.356c.774 0 1.437.277 1.991.83.554.555.831 1.218.831 1.992z"></path>
         </symbol>
         <symbol id="pinterest" viewBox="0 0 18 22">
-            <title>Pinterest Icon</title>
-            <path d="m748,514l650,0l0,339l-650,0l0,-339z" id="a"></path>
+            <title>Visit Arhaus on Pinterest</title>
+            <path d="m748,514l650,0l0,339l-650,0l0,-339z" id="g"></path>
             <path d="m0,7.893c0,-0.952 0.176,-1.849 0.527,-2.69a6.852,6.852 0 0 1 1.456,-2.203a9.787,9.787 0 0 1 2.137,-1.625a10.168,10.168 0 0 1 2.602,-1.031c0.928,-0.23 1.875,-0.344 2.84,-0.344c1.482,0 2.86,0.293 4.135,0.88a7.682,7.682 0 0 1 3.108,2.558c0.797,1.118 1.195,2.384 1.195,3.794c0,0.846 -0.09,1.675 -0.267,2.486c-0.178,0.81 -0.46,1.59 -0.844,2.34a8.14,8.14 0 0 1 -1.406,1.976c-0.553,0.569 -1.233,1.023 -2.04,1.362c-0.806,0.34 -1.691,0.509 -2.657,0.509c-0.638,0 -1.27,-0.141 -1.899,-0.423c-0.628,-0.282 -1.078,-0.67 -1.35,-1.163c-0.093,0.343 -0.224,0.839 -0.393,1.487c-0.169,0.648 -0.28,1.066 -0.33,1.256c-0.052,0.19 -0.148,0.502 -0.289,0.939c-0.14,0.436 -0.262,0.749 -0.366,0.938l-0.45,0.827a9.264,9.264 0 0 1 -0.646,1.024c-0.235,0.322 -0.525,0.703 -0.872,1.144l-0.197,0.066l-0.127,-0.132c-0.14,-1.384 -0.21,-2.213 -0.21,-2.486c0,-0.81 0.1,-1.72 0.302,-2.73c0.201,-1.01 0.513,-2.276 0.935,-3.801c0.422,-1.525 0.665,-2.42 0.731,-2.684c-0.3,-0.573 -0.45,-1.318 -0.45,-2.234c0,-0.732 0.244,-1.42 0.731,-2.063c0.488,-0.643 1.106,-0.965 1.856,-0.965c0.572,0 1.018,0.179 1.336,0.536c0.32,0.356 0.479,0.808 0.479,1.355c0,0.581 -0.207,1.423 -0.62,2.525c-0.412,1.102 -0.618,1.926 -0.618,2.472c0,0.556 0.211,1.016 0.633,1.382c0.422,0.366 0.933,0.549 1.533,0.549c0.515,0 0.993,-0.11 1.434,-0.331c0.44,-0.22 0.809,-0.52 1.104,-0.899c0.295,-0.379 0.558,-0.798 0.787,-1.256c0.23,-0.458 0.408,-0.945 0.535,-1.461c0.126,-0.516 0.22,-1.005 0.281,-1.468c0.061,-0.462 0.091,-0.9 0.091,-1.315c0,-1.525 -0.513,-2.713 -1.54,-3.563c-1.026,-0.85 -2.364,-1.276 -4.014,-1.276c-1.875,0 -3.44,0.57 -4.697,1.712c-1.256,1.143 -1.884,2.59 -1.884,4.343c0,0.388 0.058,0.763 0.175,1.124c0.118,0.362 0.244,0.648 0.38,0.86c0.136,0.211 0.263,0.412 0.38,0.601c0.117,0.19 0.175,0.324 0.175,0.403c0,0.247 -0.07,0.569 -0.21,0.965c-0.141,0.397 -0.314,0.595 -0.52,0.595c-0.02,0 -0.1,-0.013 -0.24,-0.04a2.911,2.911 0 0 1 -1.272,-0.74a3.838,3.838 0 0 1 -0.858,-1.249a7.786,7.786 0 0 1 -0.457,-1.428a6.698,6.698 0 0 1 -0.155,-1.408z"></path>
         </symbol>
         <symbol id="twitter" viewBox="0 0 25 20">
-            <title>Twitter Icon</title>
+            <title>Visit Arhaus on Twitter</title>
             <path d="M25 2.375a10.65 10.65 0 0 1-2.57 2.61 14.138 14.138 0 0 1-.587 4.71 14.553 14.553 0 0 1-1.832 3.883 15.336 15.336 0 0 1-2.927 3.29c-1.131.952-2.495 1.713-4.092 2.28-1.597.568-3.305.852-5.124.852-2.866 0-5.489-.755-7.868-2.266.37.042.783.063 1.237.063 2.38 0 4.5-.719 6.361-2.156a5.045 5.045 0 0 1-2.982-1.008c-.878-.651-1.48-1.482-1.808-2.492.349.052.671.078.967.078.455 0 .905-.058 1.349-.172a5.055 5.055 0 0 1-2.943-1.742c-.777-.922-1.166-1.992-1.166-3.211V7.03c.72.396 1.491.61 2.316.64a5.07 5.07 0 0 1-1.665-1.796 4.86 4.86 0 0 1-.619-2.406c0-.917.233-1.766.698-2.547a14.484 14.484 0 0 0 4.672 3.726c1.834.933 3.799 1.451 5.893 1.555a5.525 5.525 0 0 1-.127-1.156c0-1.396.5-2.586 1.499-3.57C14.682.492 15.889 0 17.306 0c1.481 0 2.729.531 3.744 1.594A10.14 10.14 0 0 0 24.302.375c-.391 1.198-1.142 2.125-2.253 2.781A10.332 10.332 0 0 0 25 2.375z"></path>
         </symbol>
         <symbol id="youtube" viewBox="0 0 24 17">
-            <title>YouTube Icon</title>
+            <title>Visit Arhaus on YouTube</title>
             <path d="M17.143 8.5c0-.328-.134-.567-.402-.717l-6.857-4.25c-.277-.177-.567-.186-.87-.027a.79.79 0 0 0-.443.744v8.5a.79.79 0 0 0 .442.744c.143.07.282.106.416.106.178 0 .33-.044.455-.133l6.857-4.25c.268-.15.402-.39.402-.717zM24 8.5c0 .85-.004 1.514-.013 1.992a25.837 25.837 0 0 1-.114 1.813c-.067.73-.168 1.384-.302 1.96a3.1 3.1 0 0 1-.924 1.633c-.473.442-1.026.7-1.66.77-1.983.221-4.978.332-8.987.332s-7.004-.11-8.987-.332a2.865 2.865 0 0 1-1.667-.77 3.081 3.081 0 0 1-.93-1.634 16.311 16.311 0 0 1-.289-1.959 25.837 25.837 0 0 1-.114-1.813C.004 10.014 0 9.35 0 8.5c0-.85.004-1.514.013-1.992.01-.478.047-1.083.114-1.813S.295 3.31.43 2.735a3.1 3.1 0 0 1 .924-1.633 2.834 2.834 0 0 1 1.66-.77C4.996.111 7.991 0 12 0s7.004.11 8.987.332c.634.07 1.19.328 1.667.77.478.443.788.988.93 1.634.126.575.222 1.228.289 1.959.067.73.105 1.335.114 1.813.009.478.013 1.142.013 1.992z"></path>
         </symbol>
         <symbol id="close" viewBox="0 0 22 22">
@@ -571,7 +609,7 @@ Privacy | Arhaus Furniture
             </g>
         </symbol>
 
-        <symbol id="swatch-icon" width="27" height="25" viewBox="0 0 27 25">
+        <symbol id="swatch-icon" viewBox="0 0 27 25">
             <g fill="#597178" fill-rule="evenodd">
                 <path d="M14.95 21.235l-1.294-1.148 1.153-1.191c.3-.326.317-.66.28-1.211-.551-.018-.885.009-1.2.32l-1.192 1.233-3.124-2.756-3.483-3.084-1.373-1.21c.458-.472.954-.986 1.12-1.158.301-.325.317-.66.281-1.21-.551-.018-.885.01-1.2.32l-1.185 1.226c-1.047-.824-1.915-1.32-3.108-1.94.752 1.092 1.344 1.886 2.268 2.808L.906 14.287c-.302.326-.317.66-.28 1.21.55.018.884-.008 1.2-.32l2-2.067 1.412 1.252 3.487 3.079 3.075 2.723-1.923 1.988c-.3.326-.317.66-.28 1.21.55.018.885-.008 1.2-.32l1.964-2.03c.642.565 1.08.95 1.341 1.182 1.48 1.295 2.462 1.867 3.963 2.65-.96-1.395-1.649-2.3-3.115-3.61"></path>
                 <path d="M18.94 16.721l-2.185-1.937-2.83-2.496 2.346-2.445c.39-.42.455-.808.492-1.436-.627.062-1.011.144-1.415.55l-2.382 2.483-2.886-2.556-1.502-1.322c-1.48-1.295-2.462-1.868-3.963-2.65.96 1.394 1.65 2.299 3.116 3.608l1.497 1.328 2.85 2.516-1.893 1.974c-.39.42-.456.808-.492 1.436.626-.062 1.01-.144 1.415-.55l1.93-2.011 2.864 2.536 2.19 1.931c1.48 1.295 2.462 1.868 3.963 2.65-.96-1.395-1.649-2.299-3.115-3.609"></path>
@@ -579,7 +617,15 @@ Privacy | Arhaus Furniture
                 <path d="M19.5 6.163c.175-.165 1.003-1.037 1.003-1.037s.844-.856 1.003-1.036c.147-.166.076-.41-.09-.828-.422-.151-.668-.214-.83-.062-.174.165-1.002 1.037-1.002 1.037s-.844.857-1.003 1.037c-.148.165-.076.41.09.827.421.151.668.214.83.062"></path>
             </g>
         </symbol>
-
+        <symbol id="validator-true">
+            <path d="M20.285 2l-11.285 11.567-5.286-5.011-3.714 3.716 9 8.728 15-15.285z"></path>
+        </symbol>
+        <symbol id="validator-false">
+            <path d="M24 20.188l-8.315-8.209 8.2-8.282-3.697-3.697-8.212 8.318-8.31-8.203-3.666 3.666 8.321 8.24-8.206 8.313 3.666 3.666 8.237-8.318 8.285 8.203z"></path>
+        </symbol>
+        <symbol id="validator-bullet">
+            <path fill="%23597178" d="M17.2,9.6c0.4-1,0.8-2.1,0.8-2.7c0-0.7-0.4-1.3-0.8-1.9L17,4.7c-0.1-0.1-0.1-0.1-0.2-0.2c0-1.7-2.8-3.3-4.1-3.3 C12.5,1.2,10.5,0,8.4,0C7.1,0,5.1,0.7,2.6,2.2C-0.2,4,0,6.9,0,9.5c0,2.5,1.3,5.6,3.4,6.3C4,15.9,4.4,18,7.7,18 c3.4,0,8.9-5.2,8.9-6.7C16.7,11.1,17.2,9.8,17.2,9.6"></path>
+        </symbol>
         <symbol id="visa" viewBox="0 0 780 500">
             <rect width="780" height="500" fill="#0E4595"></rect>
             <path d="m293.2 348.73l33.361-195.76h53.36l-33.385 195.76h-53.336zm246.11-191.54c-10.57-3.966-27.137-8.222-47.822-8.222-52.725 0-89.865 26.55-90.18 64.603-0.299 28.13 26.514 43.822 46.752 53.186 20.771 9.595 27.752 15.714 27.654 24.283-0.131 13.121-16.586 19.116-31.922 19.116-21.357 0-32.703-2.967-50.227-10.276l-6.876-3.11-7.489 43.823c12.463 5.464 35.51 10.198 59.438 10.443 56.09 0 92.5-26.246 92.916-66.882 0.199-22.269-14.016-39.216-44.801-53.188-18.65-9.055-30.072-15.099-29.951-24.268 0-8.137 9.668-16.839 30.557-16.839 17.449-0.27 30.09 3.535 39.938 7.5l4.781 2.26 7.232-42.429m137.31-4.223h-41.232c-12.773 0-22.332 3.487-27.941 16.234l-79.244 179.4h56.031s9.16-24.123 11.232-29.418c6.125 0 60.555 0.084 68.338 0.084 1.596 6.853 6.49 29.334 6.49 29.334h49.514l-43.188-195.64zm-65.418 126.41c4.412-11.279 21.26-54.723 21.26-54.723-0.316 0.522 4.379-11.334 7.074-18.684l3.605 16.879s10.219 46.729 12.354 56.528h-44.293zm-363.3-126.41l-52.24 133.5-5.567-27.13c-9.725-31.273-40.025-65.155-73.898-82.118l47.766 171.2 56.456-0.064 84.004-195.39h-56.521" fill="#fff"></path>
@@ -658,36 +704,51 @@ Privacy | Arhaus Furniture
 	 M755.2,202.4c0-3.1-2.4-5.2-5.6-5.2c-3.2,0-5.6,2.1-5.6,5.2c0,3,2.4,5.2,5.7,5.2C752.8,207.6,755.2,205.4,755.2,202.4 M742.6,202.4
 	c0-3.6,2.9-6.3,6.9-6.3c4,0,6.9,2.6,6.9,6.3c0,3.5-2.9,6.2-6.9,6.2C745.6,208.6,742.6,205.9,742.6,202.4"></path>
         </symbol>
+        <symbol id="get-location">
+            <path d="M21.949 11c-.469-4.725-4.224-8.48-8.949-8.95v-2.05h-2v2.05c-4.725.47-8.48 4.225-8.949 8.95h-2.051v2h2.051c.469 4.725 4.224 8.48 8.949 8.95v2.05h2v-2.05c4.725-.469 8.48-4.225 8.949-8.95h2.051v-2h-2.051zm-6.091 2c-.364 1.399-1.459 2.494-2.858 2.858v-1.858h-2v1.858c-1.399-.364-2.494-1.459-2.858-2.858h1.858v-2h-1.858c.364-1.399 1.459-2.494 2.858-2.858v1.858h2v-1.858c1.399.364 2.494 1.459 2.858 2.858h-1.858v2h1.858zm-4.858-8.931v2.021c-2.511.422-4.488 2.399-4.91 4.91h-2.021c.453-3.611 3.32-6.477 6.931-6.931zm-6.931 8.931h2.021c.422 2.511 2.399 4.488 4.91 4.91v2.021c-3.611-.454-6.478-3.32-6.931-6.931zm8.931 6.931v-2.021c2.511-.422 4.488-2.399 4.91-4.91h2.021c-.453 3.611-3.32 6.477-6.931 6.931zm4.91-8.931c-.422-2.511-2.399-4.488-4.91-4.91v-2.021c3.611.454 6.478 3.319 6.931 6.931h-2.021z"></path>
+        </symbol>
     </defs>
 </svg>
-<header>
+	<header>
+
 <script type="text/javascript">
     var arh = window.arh || {};
     arh.isUserAuthenticated = false;
     arh.cartDisplayName = "Bag";
     window.cartDisplayName = "Bag";
 </script>
+
 <div class="utility">
-    <div class="utility--mobile_left print-hide">
+    <div class="utility--mobile_left print-hide" aria-hidden="true">
         <button class="utility--mobile_link shop">
-            <span class="icon"><i class="bar"></i></span><span class="helper-text">shop</span>
+            <span class="icon">
+                <i class="bar" aria-hidden="true"></i>
+            </span>
+
+            <span class="helper-text">shop</span>
         </button>
+
             <a href="/Account/SignIn" class="utility--mobile_link signin">
-                <svg class="icon icon-user">
+                <svg class="icon icon-user" aria-hidden="true">
                     <use xlink:href="#user"></use>
                 </svg><span class="helper-text">sign-in</span>
             </a>
-        <a href="https://stores.arhaus.com/search.html" class="utility--mobile_link stores">
-            <svg class="icon icon-stores">
+
+        <a href="/store" class="utility--mobile_link stores">
+            <svg class="icon icon-stores" aria-hidden="true">
                 <use xlink:href="#pin"></use>
             </svg><span class="helper-text">stores</span>
         </a>
     </div>
+
     <div class="logo">
         <a href="/">
-            <svg class="arh-logo"><use xlink:href="#arh-logo"></use></svg>
-            <span class="sr-only">Arhaus</span>
+            <svg class="arh-logo" role="img" aria-labelledby="title">
+                <title id="title">Arhaus home</title>
+                <use xlink:href="#arh-logo"></use>
+            </svg>
         </a>
+
         <script type="application/ld+json">
             {
                 "@context": "http://schema.org",
@@ -712,53 +773,71 @@ Privacy | Arhaus Furniture
             }
         </script>
     </div>
-    <div class="utility--mobile_right print-hide">
+
+    <div class="utility--mobile_right print-hide" aria-hidden="true">
         <button class="utility--mobile_link search">
-            <svg class="icon icon-search">
+            <svg class="icon icon-search" aria-hidden="true">
                 <use xlink:href="#search"></use>
-            </svg><svg class="icon icon-close"><use xlink:href="#close"></use></svg><span class="helper-text">search</span>
+            </svg>
+
+            <span class="helper-text">
+                search<span class="sr-only"> Selecting this will open a search box and focus on search input.</span>
+            </span>
         </button>
+
         <div class="searchBox-triangle searchClosed"></div>
+
         <a href="/wishlist" class="utility--mobile_link wishlist">
-            <svg class="icon icon-wishlist">
+            <svg class="icon icon-wishlist" aria-hidden="true">
                 <use xlink:href="#wishlist"></use>
             </svg><span class="helper-text">wish list</span>
         </a>
+
         <a href="/Bag/Summary/" class="utility--mobile_link bag js-viewCart">
             <svg class="icon icon-bag">
                 <use xlink:href="#bag-empty"></use>
-            </svg><span class="helper-text">bag</span>
-            <span class="bag--count js-cartCount">0</span>
+            </svg><span class="helper-text"><span class="sr-only">Shopping </span>bag</span>
+
+            <span class="bag--count js-cartCount">0<span class="sr-only"> items in bag</span></span>
         </a>
     </div>
+
     <div class="utility--desktop">
         <ul class="list-unstyled">
                 <li>
                     <a href="/Account/SignIn">sign-in</a>
                 </li>
+
             <li>
                 <a class="js-BoldChatLink" id="navbar-chat" href="#" onclick="return false;">chat</a>
             </li>
+
             <li>
-                <a href="https://stores.arhaus.com/search.html">store locator</a>
+                <a href="/store">store locator</a>
             </li>
+
             <li class="desktop-nav--icons">
                 <a href="/wishlist">wish list</a>
             </li>
+
             <li class="desktop-nav--icons">
                 <button class="search">
-                    <svg class="icon icon-search">
+                    <svg class="icon icon-search" aria-labelledby="searchtitle searchdesc">
+                        <title id="searchtitle">Open search</title>
+                        <desc id="searchdesc">Selecting this will open a search box and focus on search input.</desc>
                         <use xlink:href="#search"></use>
-                    </svg><span class="helper-text sr-only">search</span>
+                    </svg>
                 </button>
                 <div class="searchBox-triangle searchClosed"></div>
             </li>
+
             <li class="desktop-nav--icons">
                 <a href="/Bag/Summary/" class="bag js-viewCart">
-                    <svg class="icon icon-bag">
+                    <svg class="icon icon-bag" aria-hidden="true">
                         <use xlink:href="#bag-empty"></use>
-                    </svg><span class="helper-text sr-only">bag</span>
-                    <span class="bag--count js-cartCount">0</span>
+                    </svg>
+                    <span class="helper-text sr-only"><span class="sr-only">Shopping </span>bag</span>
+                    <span class="bag--count js-cartCount">0<span class="sr-only"> items in bag</span></span>
                 </a>
             </li>
         </ul>
@@ -768,17 +847,22 @@ Privacy | Arhaus Furniture
 <nav class="main-nav">
     <div class="mobile-nav--utility">
             <a href="/Account/SignIn">
-                <svg class="icon icon-user">
+                <svg class="icon icon-user" aria-hidden="true">
                     <use xlink:href="#user"></use>
-                </svg>sign-in
+                </svg>
+                sign-in
             </a>
+
         <a href="/wishlist">
-            <svg class="icon icon-wishlist">
+            <svg class="icon icon-wishlist" aria-hidden="true">
                 <use xlink:href="#wishlist"></use>
-            </svg>wish list
+            </svg>
+            wish list
         </a>
     </div>
+
     <strong class="mobile-nav--title">Shop</strong>
+
     <ul class="nav-list--level_1" id="arh-menu" data-ga-trackingevent="CategoryTopNavigationMenu">
  <li class="nav-link--dropdown">
   <a href="/furniture/living-room-furniture/">Living
@@ -826,7 +910,7 @@ Privacy | Arhaus Furniture
        </a>
       </li>
       <li>
-       <a href="/furniture/living-room-furniture/end-tables/">End Tables
+       <a href="/furniture/living-room-furniture/end-tables/">End &amp; Side Tables
        </a>
       </li>
       <li>
@@ -1062,19 +1146,11 @@ Privacy | Arhaus Furniture
     <dd> 
      <ul>
       <li>
-       <a href="/furniture/bedding/quilts/">Quilts
-       </a>
-      </li>
-      <li>
        <a href="/furniture/bedding/duvet-covers/">Duvet Covers
        </a>
       </li>
       <li>
-       <a href="/furniture/decor/pillows/">Pillows
-       </a>
-      </li>
-      <li>
-       <a href="/furniture/bedding/bed-sheets-and-pillow-cases/">Bed Sheets &amp; Pillowcases
+       <a href="/furniture/bedding/quilts/">Quilts
        </a>
       </li>
       <li>
@@ -1082,11 +1158,19 @@ Privacy | Arhaus Furniture
        </a>
       </li>
       <li>
-       <a href="/furniture/bedding/pillow-and-duvet-inserts/">Pillow &amp; Duvet Inserts
+       <a href="/furniture/bedding/bed-sheets-and-pillow-cases/">Bed Sheets &amp; Pillowcases
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/decor/pillows/">Pillows
        </a>
       </li>
       <li>
        <a href="/furniture/bedding/bed-skirts/">Bed Skirts
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/bedding/pillow-and-duvet-inserts/">Pillow &amp; Duvet Inserts
        </a>
       </li>
       <li>
@@ -1266,6 +1350,10 @@ Privacy | Arhaus Furniture
        </a>
       </li>
       <li>
+       <a href="/furniture/outdoor/outdoor-cushions/">Replacement Cushions
+       </a>
+      </li>
+      <li>
        <a href="/furniture/outdoor/furniture-covers/">Outdoor Covers
        </a>
       </li>
@@ -1435,7 +1523,7 @@ Privacy | Arhaus Furniture
   </a>
   <div>
    <dl>
-    <dt>Home Décor
+    <dt>Wall Décor
     </dt>
     <dd>
      <ul>
@@ -1444,31 +1532,65 @@ Privacy | Arhaus Furniture
        </a>
       </li>
       <li>
-       <a href="/furniture/decor/home-and-wall-decor/">Home &amp; Wall Décor
+       <a href="/furniture/decor/wall-decor/">Wall Decor
        </a>
       </li>
       <li>
-       <a href="/furniture/decor/storage-and-baskets/">Storage &amp; Baskets
-       </a>
-      </li>
-      <li>
-       <a href="/furniture/decor/candles-and-candleholders/">Candles &amp; Candleholders
-       </a>
-      </li>
-      <li>
-       <a href="/furniture/decor/vases-and-planters/">Vases &amp; Planters
-       </a>
-      </li>
-      <li>
-       <a href="/furniture/decor/wall-art/">Wall Art
+       <a href="/furniture/decor/wall-hangings/">Wall Hangings
        </a>
       </li>
       <li>
        <a href="/furniture/decor/wallpaper/">Wallpaper
        </a>
       </li>
+     </ul>
+    </dd>
+   </dl>
+   <dl>
+    <dt>Wall Art
+    </dt>
+    <dd>
+     <ul>
       <li>
-       <a href="/furniture/decor/drapery/">Drapery
+       <a href="/furniture/decor/framed-wall-art/">Framed Wall Art
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/decor/canvas-wall-art/">Canvas Wall Art
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/decor/photography/">Photography
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/decor/framed-objects/">Framed Objects
+       </a>
+      </li>
+      <br>
+      <li>
+       <a href="/furniture/decor/animals-and-nature-wall-art/">Animals &amp; Nature
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/decor/floral-and-botanical-wall-art/">Florals &amp; Botanicals
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/decor/maps-and-travel-wall-art/">Maps &amp; Travel
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/decor/black-and-white-wall-art/">Black &amp; White
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/decor/abstract-wall-art/">Abstract
+       </a>
+      </li>
+      <br>
+      <li>
+       <a href="/furniture/decor/wall-art/">All Wall Art
        </a>
       </li>
      </ul>
@@ -1499,41 +1621,29 @@ Privacy | Arhaus Furniture
     </dd>
    </dl>
    <dl>
-    <dt>Bedding
+    <dt>Home Décor
     </dt>
     <dd>
      <ul>
       <li>
-       <a href="/furniture/bedding/quilts/">Quilts
+       <a href="/furniture/decor/home-and-wall-decor/">Home Décor
        </a>
       </li>
       <li>
-       <a href="/furniture/bedding/duvet-covers/">Duvet Covers
+       <a href="/furniture/decor/storage-and-baskets/">Storage &amp; Baskets
        </a>
       </li>
       <li>
-       <a href="/furniture/bedding/bed-sheets-and-pillow-cases/">Bed Sheets &amp; Pillowcases
+       <a href="/furniture/decor/candles-and-candleholders/">Candles &amp; Candleholders
        </a>
       </li>
       <li>
-       <a href="/furniture/bedding/pillow-shams/">Pillow Shams
+       <a href="/furniture/decor/vases-and-planters/">Vases &amp; Planters
        </a>
       </li>
-      <li>
-       <a href="/furniture/bedding/pillow-and-duvet-inserts/">Pillow &amp; Duvet Inserts
-       </a>
-      </li>
-      <li>
-       <a href="/furniture/bedding/bed-skirts/">Bed Skirts
-       </a>
-      </li>
-      <li>
-       <a href="/furniture/bedding/all-bedding/">All Bedding
-       </a>
-      </li>       
      </ul>
     </dd>
-   </dl>	 
+   </dl>
    <dl>
     <dt>Jewelry
     </dt>
@@ -1582,7 +1692,11 @@ Privacy | Arhaus Furniture
       <li>
        <a href="/furniture/tabletop/barware/">Barware
        </a>
-      </li>   
+      </li>
+      <li>
+       <a href="/furniture/tabletop/serveware/">Serveware
+       </a>
+      </li>    
      </ul>
     </dd>
    </dl>	 
@@ -1590,6 +1704,84 @@ Privacy | Arhaus Furniture
     <ul class="list-unstyled">
      <li>
       <a href="/furniture/decor/all-decor/" class="btn btn-text">all décor
+      </a>
+     </li>
+    </ul>
+   </div>
+  </div>
+ </li>
+ <li class="nav-link--dropdown">
+  <a href="/furniture/bedding/">Bedding
+  </a>
+  <div>
+   <dl>
+    <dt>Bedding
+    </dt>
+    <dd>
+     <ul>
+      <li>
+       <a href="/furniture/bedding/bedding-collections/">Bedding Collections
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/bedding/duvet-covers/">Duvet Covers
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/bedding/quilts/">Quilts
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/bedding/pillow-shams/">Pillow Shams
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/bedding/bed-sheets-and-pillow-cases/">Bed Sheets &amp; Pillowcases
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/bedding/bed-skirts/">Bed Skirts
+       </a>
+      </li>
+     </ul>
+    </dd>
+   </dl>
+   <dl>
+    <dt>Bedding Basics
+    </dt>
+    <dd>
+     <ul>
+      <li>
+       <a href="/furniture/bedding/pillow-and-duvet-inserts/">Pillow &amp; Duvet Inserts
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/decor/pillows/">Decorative Pillows
+       </a>
+      </li>
+      <li>
+       <a href="/furniture/bedding/blankets-and-throws/">Blankets &amp; Throws
+       </a>
+      </li>
+     </ul>
+    </dd>
+   </dl>
+   <dl>
+    <dt>Features
+    </dt>      
+    <dd> 
+     <ul>
+      <li>
+       <a href="/furniture/bedroom-furniture/mattresses-box-springs/">Mattresses &amp; Box Springs
+       </a>
+      </li>
+     </ul>
+    </dd>
+   </dl>     
+   <div class="dropdown--extra_links">
+    <ul class="list-unstyled">
+     <li>
+      <a href="/furniture/bedding/all-bedding/" class="btn btn-text">all bedding
       </a>
      </li>
     </ul>
@@ -1617,95 +1809,13 @@ Privacy | Arhaus Furniture
        <a href="/furniture/vintage/one-of-a-kind-antiques/">One of A Kind Antiques
        </a>
       </li>
-     </ul>
-    </dd>
-   </dl>
-  </div>
- </li>
- <li class="nav-link--dropdown">
-  <a href="/landing-pages/gift-guide/all-gifts/">Gift Guide
-  </a>
-  <div>
-   <dl>
-    <dt>Gifts By Type
-    </dt>
-    <dd>
-     <ul>
       <li>
-       <a href="/furniture/decor/faux-fur/">Faux Fur
-       </a>
-      </li>
-      <li>
-       <a href="/search/?keyword=holiday">Holiday Décor
-       </a>
-      </li>
-      <li>
-       <a href="/furniture/jewelry/all-jewelry/">Jewelry
-       </a>
-      </li>
-      <li> 
-       <a href="/furniture/decor/home-and-wall-decor/">Home &amp; Wall Décor
-       </a>
-      </li>
-      <li>
-       <a href="/furniture/decor/pillows/">Pillows
-       </a>
-      </li>
-      <li>
-       <a href="/furniture/tabletop/all-tabletop/">Tabletop
+       <a href="/furniture/vintage/all-vintage/">All Vintage
        </a>
       </li>
      </ul>
     </dd>
    </dl>
-   <dl>
-    <dt>Gifts By Price
-    </dt>
-    <dd>
-     <ul>
-      <li>
-       <a href="/landing-pages/gift-guide/gifts-under-50/#gifts">Gifts Under $50
-       </a>
-      </li>
-      <li>
-       <a href="/landing-pages/gift-guide/gifts-under-100/#gifts">Gifts Under $100
-       </a>
-      </li>
-      <li>
-       <a href="/landing-pages/gift-guide/gifts-under-150/#gifts">Gifts Under $150
-       </a>
-      </li>
-     </ul>
-    </dd>
-   </dl>
-   <dl>
-    <dt>Gifts By Recipient
-    </dt>      
-    <dd> 
-     <ul>
-      <li>
-       <a href="/landing-pages/gift-guide/gifts-for-him/#gifts">For Him
-       </a>
-      </li>
-      <li>
-       <a href="/landing-pages/gift-guide/gifts-for-her/#gifts">For Her
-       </a>
-      </li>
-      <li>
-       <a href="/landing-pages/gift-guide/gifts-for-decorators/#gifts">For the Decorator
-       </a>
-      </li>
-     </ul>
-    </dd>
-   </dl>     
-   <div class="dropdown--extra_links">
-    <ul class="list-unstyled">
-     <li>
-      <a href="/landing-pages/gift-guide/all-gifts/#gifts" class="btn btn-text">all gifts
-      </a>
-     </li>
-    </ul>
-   </div>
   </div>
  </li>
  <li class="nav-link--no_dropdown nav-link--sale">
@@ -1715,272 +1825,248 @@ Privacy | Arhaus Furniture
 </ul>
 
 </nav>
-</header>
-    <main id="content">
+	</header>
+	<main id="content">
 <div class="print-hide">
-<section class="dept-hero grid--breakout grid--two-columns">
- <div>
-  <a href="/">
-   <picture>
-    <source media="(min-width: 1025px)" srcset="//images.arhaus.com/is/image/Arhaus/content-images-181101-global?scl=1&amp;qlt=80">
-    <source srcset="//images.arhaus.com/is/image/Arhaus/content-images-181101-global?scl=1&amp;qlt=80">
-    <img src="//images.arhaus.com/is/image/Arhaus/content-images-181101-global?scl=1&amp;qlt=80" alt="Shop the Upholstery Sale">
-   </picture>
-  </a>
- </div>
- <div>
-  <a href="/landing-pages/clearance/">
-   <picture>
-    <source media="(min-width: 1025px)" srcset="//images.arhaus.com/is/image/Arhaus/content-images-181106-global-mobile-eos?scl=1&amp;qlt=80">
-    <source srcset="//images.arhaus.com/is/image/Arhaus/content-images-181106-global-mobile-eos?scl=1&amp;qlt=80">
-    <img src="//images.arhaus.com/is/image/Arhaus/content-images-181106-global-mobile-eos?scl=1&amp;qlt=80" alt="Shop Clearance">
-   </picture>
-  </a>
- </div>
-</section>
-</div>        
+
+</div>		
 
 
 <div class="grid--one-column" align="left">
- <h1>Privacy Statement
- </h1> 
- <p>ARHAUS is committed to protecting your privacy. Through this policy, we want you to understand that we respect and honor your right to protect personal information.
- </p> 
- <p>The information we collect will be used to enhance your shopping experience by allowing us to get exciting new information to you both at home and through the internet. We may use your contact information to send you e-mail newsletters and/or sale mailers that inform you of new products or special features and promotions at our stores.
- </p> 
- <p>ARHAUS derives website user information through the use of data-tracking software that lets us know what areas of the site you visit most often. This helps us present you with the information, products, and features in which you are most interested and assists us in enhancing your experience on our website. We do not sell or transfer any personal information you provide to us. Personal information transmitted to us through the online employment application process is secured and used only for potential employment purposes.
- </p> 
- <h2>Cookies
- </h2> 
- <p>A cookie is a piece of data stored on a user’s hard drive that contains information about the user. ARHAUS only uses a cookie to store your e-mail address so that we can automatically detect a returning user to our website.
- </p> 
- <p>When you visit our web sites, we send one or more cookies to your computer or other device. We may also use cookies in emails that you receive from us. A "cookie" is a small data file that is placed on the hard drive of your computer when you visit a web site. A "session cookie" expires immediately when you end your session (i.e. close your browser). A "persistent cookie" stores information on the hard drive, so when you end your session and return to the same web site at a later date, the cookie information is still available. We use cookies to improve the quality of our service when you visit our website. We also use cookies to remind us of who you are, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online merchants to track visits to and sales at our website and to process your order, track your status in our promotions, contests, and/or analyze your visiting patterns.
- </p> 
- <p>Cookies also flag information about your activity on our website. This information helps us improve and enhance our website, making it easier for you to use. We use IP addresses to track only aggregate information regarding website traffic. We do not collect personal information via a user’s IP address. We never use cookies to save passwords or other highly confidential information.
- </p>
- <h2>Trademarks/Copyrights
- </h2> 
- <p>All trademarks, service marks and trade names on this site are the property of ARHAUS. No use of these may be made without the express prior written consent of ARHAUS, except to identify the products or services of ARHAUS. The products, logos, designs, advertisements and images described and/or displayed on this website may be intellectual property—rights reserved to ARHAUS or ARHAUS, LLC. No license is granted with respect to these intellectual property rights. This website as a whole is protected by copyright and trade dress; all rights, title and interests in and to the same are owned by ARHAUS and/or ARHAUS, LLC.
- </p> 
- <p>This website and its contents are displayed solely for the purpose of promoting ARHAUS products and services. This website is controlled and operated by ARHAUS. ARHAUS reserves the absolute right to make changes to the information contained in this website or to the services or products contained herein at any time without notice.
- </p> 
- <h2>Personal Information
- </h2>
- <p>When you make a purchase in one of our stores or on our website, create an account, participate in a contest or any other promotion, post a product review, answer one of our surveys, apply for our credit card, or interact with us in any way, you may choose to give us personal information, such as: your name, email address, mailing address, ZIP code, phone number and credit card numbers. This allows us to provide you with our services, to process your transactions more efficiently and, ultimately, to give you a higher level of customer service. The decision to provide this information is optional. However, if you choose not to provide the requested information, you may not be able to use some or all of the features of our website or our services. Likewise, other companies also may forward to us additional personal information (such as, for example: names, mailing addresses and email addresses, as well as demographic and other usage information) when we have news or product offerings that may be of special interest to those individuals. We also may receive personal information through the use of social media websites and services or from other sources.
- </p>
- <h2>How We Use Personal Information:
- </h2>
- <p>We and our Service Providers may use Personal Information:
- </p>
- <p>To respond to your inquiries and fulfill your requests, and to contact you if necessary;
- </p>
- <p>To process and fulfill your order, for example by: confirming your order and your billing and shipping information, processing your payments, delivering your products and communicating with you regarding your order;
- </p>
- <p>To send to you important information regarding the ARHAUS website, changes to our terms, conditions and policies, and other administrative information;
- </p>
- <p>To send to you information by email, postal mail, telephone and other means about our products, services, contests and other promotions;
- </p>
- <p>To administer and fulfill our contests and other promotions (please note that certain contests or other promotions may have additional rules or policies, which could contain different or additional information about how we use and disclose your personally identifiable information; we suggest that you read any such rules or policies carefully in the event of a conflict between such rules or policies and this Privacy Policy, such rules or policies will govern);
- </p>
- <p>To help us improve the guest experience by learning more about your preferences to help personalize your experience with us;
- </p>
- <p>To allow you to send messages to a friend through the ARHAUS website (please note that by using such functionality, you are agreeing that you have the right to provide to us your friend’s name and email address for such purpose);
- </p>
- <p>To analyze trends and statistics in connection with our business; including to measure the success of marketing campaigns and to compile statistics about usage and response rates;
- </p>
- <p>To protect the security or integrity of our business; and
- </p>
- <p>As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our rights, privacy, safety or property, or that of you or others; and (f) to allow us to pursue available remedies or to limit the damages that we may sustain.
- </p>
- <h2>Usage and Website Activity Information:
- </h2>
- <p>When you visit our website, we may collect more information: your internet service provider's address, the name of the website directing you, as well as your clicks and activity on our website. This anonymous usage information generally is not associated with your personal information. This tracking data helps us understand how to make our website more available and user-friendly to our guests.
- </p>
- <p>We also gather guest information by taking note of the purchases you make with us. By looking at your purchases in context with marketing demographics or with information from companies whose products and services you may be interested in, it helps our buyers and product developers continue to seek out products and designs from around the world that you may find unique and inspiring.
- </p>
- <h2>Third-Party Service Providers:
- </h2>
- <p>In order to serve you better, we may, at times, contract with other companies (“Service Provider(s)”) to help us process information. For instance, their assistance can help us better fulfill guest orders, manage, store and enhance guest data, and comply with postal regulations. For your security, these companies are bound by our nondisclosure agreements or other contractual arrangements to provide privacy protection for your information.
- </p>
- <p>We use a Service Provider to send emails that you have agreed to receive. Web cookies are used in those email messages and at our website to help us measure the effectiveness of those emails and for other analytical purposes. You can "opt out" of this email cookie at any time by deleting your name from the ARHAUS email mailing list, as detailed below.
- </p>
- <p>We also contract with a Service Provider to help us assess visitation to our website. To do this, we place small pixel tags and cookies on our website. While these do allow our Service Provider to track your visits, the data retrieved cannot be used for any reason without our authorization. Although our Service Provider logs the information about your visit, we control how that data may and may not be used.
- </p>
- <p>We contract with Service Providers to place our banner advertising on other websites. These Service Providers may collect information from us about your visits to our website and stores, and your interaction with our products and services. They also may use this information to customize banner advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry-standard technology used by most major websites. Notwithstanding anything to the contrary in this Privacy Policy, personally identifiable information may be shared with our Service Providers including, without limitation, your name, postal address and email address, as well as a record of any transactions you conduct on our website or offline in order to deliver banner advertisements and other advertising tailored to your interests when you visit our website. Our Service Provider will keep this data anonymous and will not share any personally identifiable information with any other third parties.
- </p>
- <h2>Information Sharing:
- </h2>
- <p>Information sharing can provide a valuable type of consumer networking. By helping to make new connections and introduce new resources, you may discover new opportunities and products to fit your interests and needs. With that in mind, your guest information may be shared with other select companies whose products and services we think you may find useful.
- </p>
- <p>Information sharing also helps us to guard against potential fraud and other wrongdoing. We review transactions internally on a regular basis to identify potential concerns, and we work with select outside companies to further enhance our ability to ensure that fraudulent orders and/or potentially damaging worms, viruses, and other types of malware do not interfere with our ability to provide the best possible products, value and services to you, and to our other valued guests.
- </p>
- <h2>Your Information Sharing Choices:
- </h2>
- <p>We respect and appreciate that not all guests may want to share information with other select companies. If you do not want ARHAUS to share your personal information for marketing purposes, please click 
-  <a href="/subscriptions/DoNotShareMyInformation/" target="_blank">
-   <u>here
-   </u>
-  </a> and we will remove your name from lists we share with other companies. After we process your request, your personal information will no longer be shared for marketing purposes.
- </p>
- <p>It is important to understand that with some companies or online partners, your information must be shared in order to receive their services.
- </p>
- <p>For instance, when you order a large furniture item, we may send your name, address, email address and phone number to our delivery vendor, allowing you to access their online delivery scheduling system. Our vendor does not share your personal information with third parties; it is used strictly to coordinate and complete your delivery.
- </p>
- <p>Opting out of sharing your information for marketing purposes will not prevent your relevant information from being provided to our delivery vendor when you order products for delivery or from other sharing for non-marketing purposes. Similarly, this will not prevent us from sharing information as and to the extent it is combined or aggregated (in a non-personally identified manner) or otherwise analyzed by us or our Service Providers.
- </p>
- <h2>Update Your Information:
- </h2>
- <p>Updating your contact information is quick and easy. Just contact us, include your previous and current full name, mailing address, email address and phone number or make changes directly through your account. Please understand updates may take some time to process.
- </p>
- <h2>Notice to California Residents/Your California Privacy Rights:
- </h2>
- <p>As set forth in this Privacy Policy, we offer our guests the ability to opt out of sharing your personally identifiable information with third parties for their direct marketing purposes. To make such a request, 
-  <a href="/subscriptions/UnsubscribeFromCatalog/">
-   <u>click here
-   </u>
-  </a> and follow the email and/or catalogue opt-out instructions, and clearly state your request, including your name, mailing address, email address and phone number.
- </p>
- <h2>Protecting Children's Privacy:
- </h2>
- <p>ARHAUS adheres to a strict privacy code regarding children and does not knowingly accept personal information from any child under the age of 13. If it is brought to our attention that we have inadvertently received personal information from a child under 13, we will immediately remove all personal and identifiable information from our records in compliance with the Children’s Online Privacy Protection Act of 1998. In addition, we will not disclose this information to any other companies.
- </p>
- <h2>Be Careful When Sharing Information with Others:
- </h2>
- <p>Please be aware that whenever you share information on a publicly available area of our website, such as in a product review, that information may be accessed by others. In addition, please remember that when you share information in any other communications with third parties, that information may be passed along or made public by others. This means that anyone with access to such information can potentially use it for any purpose, including sending unsolicited communications.
- </p>
- <h2>Links to Sites and Services:
- </h2>
- <p>At times, we provide links our guests may be interested in, including links to social media sites such as Facebook, Twitter, or Pinterest. ARHAUS is not responsible for these websites, which have their own privacy policies and privacy practices to which you may be subject. When visiting our space on social media or other apps or tools, you will be subject to those websites’ privacy policies. If you visit our website through a link from another website, you may be subject to that website’s privacy policy as well. If you choose to explore these websites and services, we suggest that you carefully review their individual privacy policies.
- </p>
- <h2>Compliance with Laws and Law Enforcement:
- </h2>
- <p>ARHAUS will cooperate with government and law-enforcement officials and private parties to enforce and comply with the law. We may disclose personal information and any other information about you to government or law-enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas); to protect the safety, property or rights of ARHAUS or of any ; to prevent or stop any illegal, unethical or legally actionable activity; or to comply with the law.
- </p>
- <h2>Information Security:
- </h2>
- <p>We take our guests’ personal information seriously and take steps to protect your personal information against loss, misuse, alteration, and unauthorized access. We use encryption technology whenever receiving and transferring your payment information on our website.
- </p>
- <h2>About SSL Certificates:
- </h2>
- <p>When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Sockets Layer (SSL). If one of these icons does not appear, please contact our Concierge Team at ARHAUS at 866-427-4287 to complete your purchase.
- </p>
- <h2>Your Responsibilities:
- </h2>
- <p>You are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer. You are responsible for all activities that occur under your account or password. As a result, it is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a computer that others may have access to.
- </p>
- <h2>Our Privacy Promise:
- </h2>
- <p>ARHAUS supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's Privacy Promise and the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising. In doing so, we agree to comply with a guest's requests to not share their information with other companies or to contact them for marketing purposes by postal mail, telephone, email or through online behavioral advertising. If at any time, as a guest, you believe ARHAUS is not committed to its Privacy Policy, please contact us.
- </p>
- <h2>Processing in the United States:
- </h2>
- <p>Please be aware that your personal information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. If you are located outside the United States, please be advised that we process and store all information in the United States. The laws in the United States may not be as protective of your privacy as those in your location. By using our website or our services, you agree that the collection, use, transfer, and disclosure of your personal information and communications will be governed by the applicable laws in the United States.
- </p>
- <p>IF YOU SUBMIT ANY PERSONAL INFORMATION RELATING TO ANYONE OTHER THAN YOURSELF, YOU REPRESENT THAT YOU HAVE OBTAINED ANY NECESSARY CONSENT FROM THAT INDIVIDUAL FOR USE AND DISCLOSURE OF THAT INDIVIDUAL’S PERSONAL INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.
- </p>
- <h2>Your Personal Information May be Disclosed:
- </h2>
- <p>To our third-party Service Providers, who provide services such as website hosting, data storage, data analysis, payment processing, order fulfillment, IT services and infrastructure, customer service, email delivery and administration, credit card processing, auditing and other similar services to enable them to provide services;
- </p>
- <p>To our subsidiaries and affiliated entities (collectively, our "Affiliates") for marketing and other purposes;
- </p>
- <p>To selected third parties ("Promotional Partners"), to permit them to send to you marketing communications. ARHAUS seeks to select as Promotional Partners only reputable companies that offer what we believe to be high-quality products and services;
- </p>
- <p>To third-party sponsors of contests and similar promotions;
- </p>
- <p>To identify you to anyone to whom you send messages through the ARHAUS website;
- </p>
- <p>By you, on message boards, chat, profile pages, and blogs and other services to which you are able to post information and materials;
- </p>
- <p>To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceeding); and
- </p>
- <p>As we believe to be necessary or appropriate under applicable law, including laws outside your country of residence; (a) to comply with legal process; (b) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (c) to enforce our terms and conditions; (d) to protect our rights, privacy, safety or property, or that of you, our Affiliates or others; and (e) to allow us to pursue available remedies or limit the damages that we may sustain.
- </p>
- <h2>Other Information We Collect:
- </h2>
- <p>"Other Information" is any information that does not identify you as a specific individual, such as: browser information; server log files; information collected through cookies, pixel tags and other technologies; physical location of your device; demographic information and other non-personally identifiable information provided by you.
- </p>
- <h2>How We Collect Other Information:
- </h2>
- <p>We and our Service Providers may collect Other Information in a variety of ways, including:
- </p>
- <p>Through your browser: certain information is collected through most devices, such as your Media Access Control ("MAC") address, device manufacturer and model, device identifier, screen resolution, and the type and version of your operating system and browser.
- </p>
- <p>Through server log files: an Internet Protocol ("IP") address is a number that is automatically assigned to a device by an Internet Service Provider ("ISP"), and is identified and logged automatically in our server log files whenever a user visits the ARHAUS website, along with the time of the visit and the page(s) that were visited. We and our Service Providers use IP addresses for purposes such as calculating usage levels, helping diagnose server problems and administering the ARHAUS website.
- </p>
- <h2>Physical Location:
- </h2>
- <p>We and our Service Providers may collect the physical location of your device by, for example, using satellite, cell phone tower or wifi signals. We may use your device’s physical location to provide you with personalized location-based services and content—including marketing content—based on the choices that have been made with respect to such uses. We may also share your device’s physical location combined with information about what advertisements you viewed and other information we collect with our third-party marketing partners, such as our Promotional Partners, to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns, based on the choices that have been made with respect to such disclosures. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you choose to deny such uses and/or sharing, we, our Service Providers, and/or our third-party marketing partners may not be able to provide you with the applicable personalized services and content.
- </p>
- <h2>Credit Cards:
- </h2>
- <p>Please note that ARHAUS credit cards are issued by Comenity Bank. ARHAUS is not responsible for the privacy practices of Comenity Bank. You may view Comenity Bank’s privacy policy at 
-  <a href="https://d.comenity.net/ARHAUS/public/onlineprivacy/OnlinePrivacy.xhtml">
-   <u>https://d.comenity.net/ARHAUS/public/onlineprivacy/OnlinePrivacy.xhtml.
-   </u>
-  </a>
- </p>
- <p>WE ARE NOT RESPONSIBLE FOR THE INFORMATION COLLECTION, USAGE, DISCLOSURE OR OTHER PRIVACY PRACTICES OF ANY THIRD PARTIES, INCLUDING OUR AFFILIATES, THIRD-PARTY SERVICE PROVIDERS, ANY THIRD-PARTY SOCIAL MEDIA PLATFORM (SUCH AS FACEBOOK), ANY THIRD PARTY MAKING AVAILABLE THE DEVICES OR OPERATING SYSTEMS FOR WHICH THE ARHAUS WEBSITE IS AVAILABLE (SUCH AS APPLE OR GOOGLE) AND ANY THIRD PARTY OPERATING ANY SITE TO WHICH THE ARHAUS WEBSITE CONTAINS A LINK. THE INCLUSION OF A LINK ON THE ARHAUS WEBSITE DOES NOT IMPLY ENDORSEMENT OF THE LINKED SITE BY ARHAUS.
- </p>
- <h2>Security:
- </h2>
- <p>We seek to use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data storage system or data transmission over the Internet can be guaranteed to be 100% secure. Please also be aware that we may use third-party cloud Service Providers that provide hosting, data storage and other services pursuant to standard terms and conditions that may be non-negotiable; these Service Providers have informed us or the general public that they apply security measures they consider adequate for the protection of information within their system, or they have a general reputation for applying such measures.
- </p>
- <p>Please exercise caution in submitting Personal Information via the ARHAUS Online Properties, especially if you are accessing the ARHAUS Online Properties using a WiFi hotspot or public network. If you have reason to believe that your interaction with us is no longer secure, please notify us immediately of the problem – see the "Contact Us" section below.
- </p>
- <h2>Choices Regarding Our Use And Disclosure Of Your Personal Information:
- </h2>
- <p>We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes regardless of whether such information is collected by us through the ARHAUS website or otherwise. You may OPT-OUT from:
- </p>
- <p>Receiving promotional emails or catalogs from us: if you no longer want to receive promotional emails (such as information about new products, special offers and sales events) or catalogs from us, you may opt-out of receiving such communications by: clicking the "opt out" link in any promotional email; clicking the "opt out" link available at: 
-  <a href="https://www.arhaus.com/subscriptions/UnsubscribeFromCatalog/">
-   <u>https://www.arhaus.com/subscriptions/UnsubscribeFromCatalog/
-   </u>
-  </a>; or by contacting us in accordance with the "Contact Us" section below. When contacting us, please be sure to include your full name and the email and/or postal address that you used when registering or making a purchase.
- </p>
- <p>Our sharing of your Personal Information with Promotional Partners and other third parties for their marketing purposes: if you no longer want us to share your Personal Information with our Promotional Partners and other third parties for their marketing purposes, you may opt out of such sharing by contacting us in accordance with the "Contact Us" section below. When contacting us, please be sure to include your full name and the contact information that you no longer wish to be shared, and state specifically whether you wish to opt out of such sharing with (a) ARHAUS, (b) Promotional Partners and other third parties, or (c) both.
- </p>
- <p>We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt out as described above, we will not be able to remove your Personal Information from the databases of our Promotional Partners and other third parties with which we have already shared your Personal Information (i.e. to which we have already provided your Personal Information as of the date that we implement your opt out request). Please also note that if you do opt out of receiving marketing-related messages from us, we may still send important administrative messages to you, and you cannot opt out from receiving such administrative messages. For example, when you place an order, we will continue to confirm your order and shipment status by email. We may also need to contact you via telephone, email or postal mail with information or questions regarding your order.
- </p>
- <h2>How You Can Access Or Change Your Personal Information:
- </h2>
- <p>We welcome your willingness to update your information with us. You may review or ask us to update your Personal Information by contacting us in accordance with the "Contact Us" section below. In your request, please make clear what information you would like to have changed. We will try to comply with your request as soon as reasonably practicable. We are not responsible for changing information in the databases of Promotional Partners and other third parties with whom we have already shared your Personal Information.
- </p>
- <h2>Policy Changes:
- </h2>
- <p>If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our website as applicable. Those changes will go into effect on the effective date posted in the notice and at the end of the revised Privacy Policy. The new policy will apply to all current and past users of our web sites and will replace any prior policies that are inconsistent. Your continued use of our website or other services constitutes your acceptance of the practices described in the revised Privacy Policy.
- </p>
- <h2>Contact Us:
- </h2>
- <p>To contact us with a question, problem, or concern, please call 866.427.4287 or send us an email at at concierge@arhaus.com. Outside of the United States, you can call us at 440.439.7700 or send us an email at concierge@arhaus.com.
- </p>
- <h2>We Welcome Your Feedback:
- </h2>
- <p>To help us improve our privacy policy and practices, please give us your feedback. In the United States, you can call us at 866.427.4287 or send us an email at concierge@arhaus.com. Outside of the United States, you can call us at 440.439.7700 or send us an email at concierge@arhaus.com.
- </p>
- <p>PRIVACY POLICY EFFECTIVE DATE: September 10, 2016
- </p>
+  <h1>Privacy Statement
+  </h1> 
+  <p>ARHAUS is committed to protecting your privacy. Through this policy, we want you to understand that we respect and honor your right to protect personal information.
+  </p> 
+  <p>The information we collect will be used to enhance your shopping experience by allowing us to get exciting new information to you both at home and through the internet. We may use your contact information to send you e-mail newsletters and/or sale mailers that inform you of new products or special features and promotions at our stores.
+  </p> 
+  <p>ARHAUS derives website user information through the use of data-tracking software that lets us know what areas of the site you visit most often. This helps us present you with the information, products, and features in which you are most interested and assists us in enhancing your experience on our website. We do not sell or transfer any personal information you provide to us. Personal information transmitted to us through the online employment application process is secured and used only for potential employment purposes.
+  </p> 
+  <h2>Cookies
+  </h2> 
+  <p>A cookie is a piece of data stored on a user’s hard drive that contains information about the user. ARHAUS only uses a cookie to store your e-mail address so that we can automatically detect a returning user to our website.
+  </p> 
+  <p>When you visit our web sites, we send one or more cookies to your computer or other device. We may also use cookies in emails that you receive from us. A "cookie" is a small data file that is placed on the hard drive of your computer when you visit a web site. A "session cookie" expires immediately when you end your session (i.e. close your browser). A "persistent cookie" stores information on the hard drive, so when you end your session and return to the same web site at a later date, the cookie information is still available. We use cookies to improve the quality of our service when you visit our website. We also use cookies to remind us of who you are, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online merchants to track visits to and sales at our website and to process your order, track your status in our promotions, contests, and/or analyze your visiting patterns.
+  </p> 
+  <p>Cookies also flag information about your activity on our website. This information helps us improve and enhance our website, making it easier for you to use. We use IP addresses to track only aggregate information regarding website traffic. We do not collect personal information via a user’s IP address. We never use cookies to save passwords or other highly confidential information.
+  </p>
+  <h2>Trademarks/Copyrights
+  </h2> 
+  <p>All trademarks, service marks and trade names on this site are the property of ARHAUS. No use of these may be made without the express prior written consent of ARHAUS, except to identify the products or services of ARHAUS. The products, logos, designs, advertisements and images described and/or displayed on this website may be intellectual property—rights reserved to ARHAUS or ARHAUS, LLC. No license is granted with respect to these intellectual property rights. This website as a whole is protected by copyright and trade dress; all rights, title and interests in and to the same are owned by ARHAUS and/or ARHAUS, LLC.
+  </p> 
+  <p>This website and its contents are displayed solely for the purpose of promoting ARHAUS products and services. This website is controlled and operated by ARHAUS. ARHAUS reserves the absolute right to make changes to the information contained in this website or to the services or products contained herein at any time without notice.
+  </p> 
+  <h2>Personal Information
+  </h2>
+  <p>When you make a purchase in one of our stores or on our website, create an account, participate in a contest or any other promotion, post a product review, answer one of our surveys, apply for our credit card, or interact with us in any way, you may choose to give us personal information, such as: your name, email address, mailing address, ZIP code, phone number and credit card numbers. This allows us to provide you with our services, to process your transactions more efficiently and, ultimately, to give you a higher level of customer service. The decision to provide this information is optional. However, if you choose not to provide the requested information, you may not be able to use some or all of the features of our website or our services. Likewise, other companies also may forward to us additional personal information (such as, for example: names, mailing addresses and email addresses, as well as demographic and other usage information) when we have news or product offerings that may be of special interest to those individuals. We also may receive personal information through the use of social media websites and services or from other sources.
+  </p>
+  <h2>How We Use Personal Information:
+  </h2>
+  <p>We and our Service Providers may use Personal Information:
+  </p>
+  <p>To respond to your inquiries and fulfill your requests, and to contact you if necessary;
+  </p>
+  <p>To process and fulfill your order, for example by: confirming your order and your billing and shipping information, processing your payments, delivering your products and communicating with you regarding your order;
+  </p>
+  <p>To send to you important information regarding the ARHAUS website, changes to our terms, conditions and policies, and other administrative information;
+  </p>
+  <p>To send to you information by email, postal mail, telephone and other means about our products, services, contests and other promotions;
+  </p>
+  <p>To administer and fulfill our contests and other promotions (please note that certain contests or other promotions may have additional rules or policies, which could contain different or additional information about how we use and disclose your personally identifiable information; we suggest that you read any such rules or policies carefully in the event of a conflict between such rules or policies and this Privacy Policy, such rules or policies will govern);
+  </p>
+  <p>To help us improve the guest experience by learning more about your preferences to help personalize your experience with us;
+  </p>
+  <p>To allow you to send messages to a friend through the ARHAUS website (please note that by using such functionality, you are agreeing that you have the right to provide to us your friend’s name and email address for such purpose);
+  </p>
+  <p>To analyze trends and statistics in connection with our business; including to measure the success of marketing campaigns and to compile statistics about usage and response rates;
+  </p>
+  <p>To protect the security or integrity of our business; and
+  </p>
+  <p>As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our rights, privacy, safety or property, or that of you or others; and (f) to allow us to pursue available remedies or to limit the damages that we may sustain.
+  </p>
+  <h2>Usage and Website Activity Information:
+  </h2>
+  <p>When you visit our website, we may collect more information: your internet service provider's address, the name of the website directing you, as well as your clicks and activity on our website. This anonymous usage information generally is not associated with your personal information. This tracking data helps us understand how to make our website more available and user-friendly to our guests.
+  </p>
+  <p>We also gather guest information by taking note of the purchases you make with us. By looking at your purchases in context with marketing demographics or with information from companies whose products and services you may be interested in, it helps our buyers and product developers continue to seek out products and designs from around the world that you may find unique and inspiring.
+  </p>
+  <h2>Third-Party Service Providers:
+  </h2>
+  <p>In order to serve you better, we may, at times, contract with other companies (“Service Provider(s)”) to help us process information. For instance, their assistance can help us better fulfill guest orders, manage, store and enhance guest data, and comply with postal regulations. For your security, these companies are bound by our nondisclosure agreements or other contractual arrangements to provide privacy protection for your information.
+  </p>
+  <p>We use a Service Provider to send emails that you have agreed to receive. Web cookies are used in those email messages and at our website to help us measure the effectiveness of those emails and for other analytical purposes. You can "opt out" of this email cookie at any time by deleting your name from the ARHAUS email mailing list, as detailed below.
+  </p>
+  <p>We also contract with a Service Provider to help us assess visitation to our website. To do this, we place small pixel tags and cookies on our website. While these do allow our Service Provider to track your visits, the data retrieved cannot be used for any reason without our authorization. Although our Service Provider logs the information about your visit, we control how that data may and may not be used.
+  </p>
+  <p>We contract with Service Providers to place our banner advertising on other websites. These Service Providers may collect information from us about your visits to our website and stores, and your interaction with our products and services. They also may use this information to customize banner advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry-standard technology used by most major websites. Notwithstanding anything to the contrary in this Privacy Policy, personally identifiable information may be shared with our Service Providers including, without limitation, your name, postal address and email address, as well as a record of any transactions you conduct on our website or offline in order to deliver banner advertisements and other advertising tailored to your interests when you visit our website. Our Service Provider will keep this data anonymous and will not share any personally identifiable information with any other third parties.
+  </p>
+  <h2>Information Sharing:
+  </h2>
+  <p>Information sharing can provide a valuable type of consumer networking. By helping to make new connections and introduce new resources, you may discover new opportunities and products to fit your interests and needs. With that in mind, your guest information may be shared with other select companies whose products and services we think you may find useful.
+  </p>
+  <p>Information sharing also helps us to guard against potential fraud and other wrongdoing. We review transactions internally on a regular basis to identify potential concerns, and we work with select outside companies to further enhance our ability to ensure that fraudulent orders and/or potentially damaging worms, viruses, and other types of malware do not interfere with our ability to provide the best possible products, value and services to you, and to our other valued guests.
+  </p>
+  <h2>Your Information Sharing Choices:
+  </h2>
+  <p>We respect and appreciate that not all guests may want to share information with other select companies. If you do not want ARHAUS to share your personal information for marketing purposes, please click 
+    <a href="/subscriptions/DoNotShareMyInformation/" target="_blank">
+      <u>here
+      </u>
+    </a> and we will remove your name from lists we share with other companies. After we process your request, your personal information will no longer be shared for marketing purposes.
+  </p>
+  <p>It is important to understand that with some companies or online partners, your information must be shared in order to receive their services.
+  </p>
+  <p>For instance, when you order a large furniture item, we may send your name, address, email address and phone number to our delivery vendor, allowing you to access their online delivery scheduling system. Our vendor does not share your personal information with third parties; it is used strictly to coordinate and complete your delivery.
+  </p>
+  <p>Opting out of sharing your information for marketing purposes will not prevent your relevant information from being provided to our delivery vendor when you order products for delivery or from other sharing for non-marketing purposes. Similarly, this will not prevent us from sharing information as and to the extent it is combined or aggregated (in a non-personally identified manner) or otherwise analyzed by us or our Service Providers.
+  </p>
+  <h2>Update Your Information:
+  </h2>
+  <p>Updating your contact information is quick and easy. Just contact us, include your previous and current full name, mailing address, email address and phone number or make changes directly through your account. Please understand updates may take some time to process.
+  </p>
+  <h2>Notice to California Residents/Your California Privacy Rights:
+  </h2>
+  <p>As set forth in this Privacy Policy, we offer our guests the ability to opt out of sharing your personally identifiable information with third parties for their direct marketing purposes. To make such a request, 
+    <a href="/subscriptions/UnsubscribeFromCatalog/">
+      <u>click here
+      </u>
+    </a> and follow the email and/or catalogue opt-out instructions, and clearly state your request, including your name, mailing address, email address and phone number.
+  </p>
+  <h2>Protecting Children's Privacy:
+  </h2>
+  <p>ARHAUS adheres to a strict privacy code regarding children and does not knowingly accept personal information from any child under the age of 13. If it is brought to our attention that we have inadvertently received personal information from a child under 13, we will immediately remove all personal and identifiable information from our records in compliance with the Children’s Online Privacy Protection Act of 1998. In addition, we will not disclose this information to any other companies.
+  </p>
+  <h2>Be Careful When Sharing Information with Others:
+  </h2>
+  <p>Please be aware that whenever you share information on a publicly available area of our website, such as in a product review, that information may be accessed by others. In addition, please remember that when you share information in any other communications with third parties, that information may be passed along or made public by others. This means that anyone with access to such information can potentially use it for any purpose, including sending unsolicited communications.
+  </p>
+  <h2>Links to Sites and Services:
+  </h2>
+  <p>At times, we provide links our guests may be interested in, including links to social media sites such as Facebook, Twitter, or Pinterest. ARHAUS is not responsible for these websites, which have their own privacy policies and privacy practices to which you may be subject. When visiting our space on social media or other apps or tools, you will be subject to those websites’ privacy policies. If you visit our website through a link from another website, you may be subject to that website’s privacy policy as well. If you choose to explore these websites and services, we suggest that you carefully review their individual privacy policies.
+  </p>
+  <h2>Compliance with Laws and Law Enforcement:
+  </h2>
+  <p>ARHAUS will cooperate with government and law-enforcement officials and private parties to enforce and comply with the law. We may disclose personal information and any other information about you to government or law-enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas); to protect the safety, property or rights of ARHAUS or of any ; to prevent or stop any illegal, unethical or legally actionable activity; or to comply with the law.
+  </p>
+  <h2>Information Security:
+  </h2>
+  <p>We take our guests’ personal information seriously and take steps to protect your personal information against loss, misuse, alteration, and unauthorized access. We use encryption technology whenever receiving and transferring your payment information on our website.
+  </p>
+  <h2>About SSL Certificates:
+  </h2>
+  <p>When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Sockets Layer (SSL). If one of these icons does not appear, please contact our Concierge Team at ARHAUS at 866-427-4287 to complete your purchase.
+  </p>
+  <h2>Your Responsibilities:
+  </h2>
+  <p>You are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer. You are responsible for all activities that occur under your account or password. As a result, it is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a computer that others may have access to.
+  </p>
+  <h2>Our Privacy Promise:
+  </h2>
+  <p>ARHAUS supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's Privacy Promise and the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising. In doing so, we agree to comply with a guest's requests to not share their information with other companies or to contact them for marketing purposes by postal mail, telephone, email or through online behavioral advertising. If at any time, as a guest, you believe ARHAUS is not committed to its Privacy Policy, please contact us.
+  </p>
+  <h2>Processing in the United States:
+  </h2>
+  <p>Please be aware that your personal information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. If you are located outside the United States, please be advised that we process and store all information in the United States. The laws in the United States may not be as protective of your privacy as those in your location. By using our website or our services, you agree that the collection, use, transfer, and disclosure of your personal information and communications will be governed by the applicable laws in the United States.
+  </p>
+  <p>IF YOU SUBMIT ANY PERSONAL INFORMATION RELATING TO ANYONE OTHER THAN YOURSELF, YOU REPRESENT THAT YOU HAVE OBTAINED ANY NECESSARY CONSENT FROM THAT INDIVIDUAL FOR USE AND DISCLOSURE OF THAT INDIVIDUAL’S PERSONAL INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY.
+  </p>
+  <h2>Your Personal Information May be Disclosed:
+  </h2>
+  <p>To our third-party Service Providers, who provide services such as website hosting, data storage, data analysis, payment processing, order fulfillment, IT services and infrastructure, customer service, email delivery and administration, credit card processing, auditing and other similar services to enable them to provide services;
+  </p>
+  <p>To our subsidiaries and affiliated entities (collectively, our "Affiliates") for marketing and other purposes;
+  </p>
+  <p>To selected third parties ("Promotional Partners"), to permit them to send to you marketing communications. ARHAUS seeks to select as Promotional Partners only reputable companies that offer what we believe to be high-quality products and services;
+  </p>
+  <p>To third-party sponsors of contests and similar promotions;
+  </p>
+  <p>To identify you to anyone to whom you send messages through the ARHAUS website;
+  </p>
+  <p>By you, on message boards, chat, profile pages, and blogs and other services to which you are able to post information and materials;
+  </p>
+  <p>To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceeding); and
+  </p>
+  <p>As we believe to be necessary or appropriate under applicable law, including laws outside your country of residence; (a) to comply with legal process; (b) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (c) to enforce our terms and conditions; (d) to protect our rights, privacy, safety or property, or that of you, our Affiliates or others; and (e) to allow us to pursue available remedies or limit the damages that we may sustain.
+  </p>
+  <h2>Other Information We Collect:
+  </h2>
+  <p>"Other Information" is any information that does not identify you as a specific individual, such as: browser information; server log files; information collected through cookies, pixel tags and other technologies; physical location of your device; demographic information and other non-personally identifiable information provided by you.
+  </p>
+  <h2>How We Collect Other Information:
+  </h2>
+  <p>We and our Service Providers may collect Other Information in a variety of ways, including:
+  </p>
+  <p>Through your browser: certain information is collected through most devices, such as your Media Access Control ("MAC") address, device manufacturer and model, device identifier, screen resolution, and the type and version of your operating system and browser.
+  </p>
+  <p>Through server log files: an Internet Protocol ("IP") address is a number that is automatically assigned to a device by an Internet Service Provider ("ISP"), and is identified and logged automatically in our server log files whenever a user visits the ARHAUS website, along with the time of the visit and the page(s) that were visited. We and our Service Providers use IP addresses for purposes such as calculating usage levels, helping diagnose server problems and administering the ARHAUS website.
+  </p>
+  <h2>Physical Location:
+  </h2>
+  <p>We and our Service Providers may collect the physical location of your device by, for example, using satellite, cell phone tower or wifi signals. We may use your device’s physical location to provide you with personalized location-based services and content—including marketing content—based on the choices that have been made with respect to such uses. We may also share your device’s physical location combined with information about what advertisements you viewed and other information we collect with our third-party marketing partners, such as our Promotional Partners, to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns, based on the choices that have been made with respect to such disclosures. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you choose to deny such uses and/or sharing, we, our Service Providers, and/or our third-party marketing partners may not be able to provide you with the applicable personalized services and content.
+  </p>
+  <h2>Credit Cards:
+  </h2>
+  <p>Please note that ARHAUS credit cards are issued by Comenity Bank. ARHAUS is not responsible for the privacy practices of Comenity Bank. You may view Comenity Bank’s privacy policy at 
+    <a href="https://d.comenity.net/ARHAUS/public/onlineprivacy/OnlinePrivacy.xhtml">
+      <u>https://d.comenity.net/ARHAUS/public/onlineprivacy/OnlinePrivacy.xhtml.
+      </u>
+    </a>
+  </p>
+  <p>WE ARE NOT RESPONSIBLE FOR THE INFORMATION COLLECTION, USAGE, DISCLOSURE OR OTHER PRIVACY PRACTICES OF ANY THIRD PARTIES, INCLUDING OUR AFFILIATES, THIRD-PARTY SERVICE PROVIDERS, ANY THIRD-PARTY SOCIAL MEDIA PLATFORM (SUCH AS FACEBOOK), ANY THIRD PARTY MAKING AVAILABLE THE DEVICES OR OPERATING SYSTEMS FOR WHICH THE ARHAUS WEBSITE IS AVAILABLE (SUCH AS APPLE OR GOOGLE) AND ANY THIRD PARTY OPERATING ANY SITE TO WHICH THE ARHAUS WEBSITE CONTAINS A LINK. THE INCLUSION OF A LINK ON THE ARHAUS WEBSITE DOES NOT IMPLY ENDORSEMENT OF THE LINKED SITE BY ARHAUS.
+  </p>
+  <h2>Security:
+  </h2>
+  <p>We seek to use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data storage system or data transmission over the Internet can be guaranteed to be 100% secure. Please also be aware that we may use third-party cloud Service Providers that provide hosting, data storage and other services pursuant to standard terms and conditions that may be non-negotiable; these Service Providers have informed us or the general public that they apply security measures they consider adequate for the protection of information within their system, or they have a general reputation for applying such measures.
+  </p>
+  <p>Please exercise caution in submitting Personal Information via the ARHAUS Online Properties, especially if you are accessing the ARHAUS Online Properties using a WiFi hotspot or public network. If you have reason to believe that your interaction with us is no longer secure, please notify us immediately of the problem – see the "Contact Us" section below.
+  </p>
+  <h2>Choices Regarding Our Use And Disclosure Of Your Personal Information:
+  </h2>
+  <p>We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes regardless of whether such information is collected by us through the ARHAUS website or otherwise. You may OPT-OUT from:
+  </p>
+  <p>Receiving promotional emails or catalogs from us: if you no longer want to receive promotional emails (such as information about new products, special offers and sales events) or catalogs from us, you may opt-out of receiving such communications by: clicking the "opt out" link in any promotional email; clicking the "opt out" link available at: 
+    <a href="https://www.arhaus.com/subscriptions/UnsubscribeFromCatalog/">
+      <u>https://www.arhaus.com/subscriptions/UnsubscribeFromCatalog/
+      </u>
+    </a>; or by contacting us in accordance with the "Contact Us" section below. When contacting us, please be sure to include your full name and the email and/or postal address that you used when registering or making a purchase.
+  </p>
+  <p>Our sharing of your Personal Information with Promotional Partners and other third parties for their marketing purposes: if you no longer want us to share your Personal Information with our Promotional Partners and other third parties for their marketing purposes, you may opt out of such sharing by contacting us in accordance with the "Contact Us" section below. When contacting us, please be sure to include your full name and the contact information that you no longer wish to be shared, and state specifically whether you wish to opt out of such sharing with (a) ARHAUS, (b) Promotional Partners and other third parties, or (c) both.
+  </p>
+  <p>We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt out as described above, we will not be able to remove your Personal Information from the databases of our Promotional Partners and other third parties with which we have already shared your Personal Information (i.e. to which we have already provided your Personal Information as of the date that we implement your opt out request). Please also note that if you do opt out of receiving marketing-related messages from us, we may still send important administrative messages to you, and you cannot opt out from receiving such administrative messages. For example, when you place an order, we will continue to confirm your order and shipment status by email. We may also need to contact you via telephone, email or postal mail with information or questions regarding your order.
+  </p>
+  <h2>How You Can Access Or Change Your Personal Information:
+  </h2>
+  <p>We welcome your willingness to update your information with us. You may review or ask us to update your Personal Information by contacting us in accordance with the "Contact Us" section below. In your request, please make clear what information you would like to have changed. We will try to comply with your request as soon as reasonably practicable. We are not responsible for changing information in the databases of Promotional Partners and other third parties with whom we have already shared your Personal Information.
+  </p>
+  <h2>Policy Changes:
+  </h2>
+  <p>If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our website as applicable. Those changes will go into effect on the effective date posted in the notice and at the end of the revised Privacy Policy. The new policy will apply to all current and past users of our web sites and will replace any prior policies that are inconsistent. Your continued use of our website or other services constitutes your acceptance of the practices described in the revised Privacy Policy.
+  </p>
+  <h2>Contact Us:
+  </h2>
+  <p>To contact us with a question, problem, or concern, please call 866.427.4287 or send us an email at at concierge@arhaus.com. Outside of the United States, you can call us at 440.439.7700 or send us an email at concierge@arhaus.com.
+  </p>
+  <h2>We Welcome Your Feedback:
+  </h2>
+  <p>To help us improve our privacy policy and practices, please give us your feedback. In the United States, you can call us at 866.427.4287 or send us an email at concierge@arhaus.com. Outside of the United States, you can call us at 440.439.7700 or send us an email at concierge@arhaus.com.
+  </p>
+  <p>PRIVACY POLICY EFFECTIVE DATE: September 10, 2016
+  </p>
 </div> 
 
 
 
-        <div class="back-top-chat print-hide">
-            <a href="#" class="back-to-top"><svg class="icon icon-top"><use xlink:href="#top"></use></svg>Top</a>
-            
+		<div class="back-top-chat print-hide">
+			<div class="back-to-top js-back_to_top"><svg class="icon icon-top" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60"><defs></defs><title>top</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M30,60A30,30,0,1,1,60,29.99967,30.03434,30.03434,0,0,1,30,60Z"></path><path class="cls-2" d="M30.04005,57.595A27.595,27.595,0,1,1,57.635,29.9997,27.62655,27.62655,0,0,1,30.04005,57.595Zm0-53.95554A26.36058,26.36058,0,1,0,56.40063,29.9997,26.39005,26.39005,0,0,0,30.04005,3.63942Z"></path><path class="cls-2" d="M25.72169,37.27623v.88184h-1.853v4.94726h-1.0205V38.15807H21.00343v-.88184Z"></path><path class="cls-2" d="M32.48976,40.19029a2.80321,2.80321,0,1,1-5.584,0,2.80313,2.80313,0,1,1,5.584,0Zm-2.792,2.22071c1.25732,0,1.77148-1.11036,1.77148-2.22071,0-1.10937-.52246-2.21972-1.77978-2.21972-1.25684,0-1.76319,1.11816-1.76319,2.21972C27.92628,41.29283,28.44874,42.411,29.69777,42.411Z"></path><path class="cls-2" d="M36.84962,37.27623a1.80146,1.80146,0,1,1,0,3.5918H35.25734v2.2373h-1.02v-5.8291ZM36.77589,40.036a.925.925,0,0,0,.9961-.96387.86127.86127,0,0,0-.97168-.96289h-1.543V40.036Z"></path><polygon class="cls-2" points="38.991 26.934 30.08 16.85 21.17 26.934 26.157 26.934 26.157 32.843 34.003 32.843 34.003 26.934 38.991 26.934"></polygon></g></g></svg></div>
             <div id="bc-floatButton" class="chat pending"></div>
-        </div>
-    </main>
+            <div class="chat chat-hidden js-boldchat-button"><div class="bcText"><a href="#"><div>live <br> chat</div></a></div></div>
+		</div>
+	</main>
 
-    <footer>
+	<footer>
 <div class="footer--utility">
-    <form action="/emailsignup/enroll" method="POST" id="EmailSignupFooterForm" class="js-emailSignupForm">
-    <legend>
-        Connect with Us
-    </legend>
-    <!-- input and button on same line to ensure no whitespace issues *-->
-    <input class="js-emailSignupSubmit" data-val="true" data-val-email="Please enter a valid email address" data-val-required="Please enter an email address" id="SocialFooterEmailAddress" name="EmailAddress" placeholder="Enter your email" type="email" value="">
-    <label for="SocialFooterEmailAddress" class="sr-only">Email Address</label>
-    <button class="btn btn-hollow btn-white js-submitFooterEmail">
+    <form action="/EmailSignup/Enroll" id="EmailSignupFooterForm" method="post">    <h3 class="footer-form_heading">Connect with Us</h3>
+<input class="form-input form-input--email footer-form_input" data-val="true" data-val-email="Please enter a valid email address" data-val-required="Please enter an email address" id="SocialFooterEmailAddress" name="EmailAddress" placeholder="Enter your email" type="email" value="">    <label for="SocialFooterEmailAddress" class="form-label sr-only">Email Address</label>
+    <button class="btn btn-hollow btn-white">
         submit
     </button>
 </form>
@@ -1988,37 +2074,38 @@ Privacy | Arhaus Furniture
         <ul class="list-unstyled">
             <li>
                 <a href="https://www.facebook.com/Arhaus?ref=badge" target="_blank">
-                    <svg class="icon icon-facebook"><use xlink:href="#facebook"></use></svg>
+                    <svg class="icon icon-facebook" aria-hidden="true"><use xlink:href="#facebook"></use></svg>
+                    <span class="sr-only">Arhaus Facebook</span>
                 </a>
             </li>
             <li>
                 <a href="https://www.instagram.com/arhaus?ref=badge" target="_blank">
-                    <svg class="icon icon-instagram"><use xlink:href="#instagram"></use></svg>
+                    <svg class="icon icon-instagram" aria-hidden="true"><use xlink:href="#instagram"></use></svg>
+                    <span class="sr-only">Arhaus Instagram</span>
                 </a>
             </li>
             <li>
                 <a href="https://www.pinterest.com/arhaus/?ref=badge" target="_blank">
-                    <svg class="icon icon-pinterest"><use xlink:href="#pinterest"></use></svg>
+                    <svg class="icon icon-pinterest" aria-hidden="true"><use xlink:href="#pinterest"></use></svg>
+                    <span class="sr-only">Arhaus Pinterest</span>
                 </a>
             </li>
             <li>
                 <a href="http://www.houzz.com/pro/arhaus" target="_blank">
-                    <svg class="icon icon-houzz"><use xlink:href="#houzz"></use></svg>
-                </a>
-            </li>
-            <li>
-                <a href="http://plus.google.com/+arhausfurniture/?ref=badge" target="_blank">
-                    <svg class="icon icon-googleplus"><use xlink:href="#google"></use></svg>
+                    <svg class="icon icon-houzz" aria-hidden="true"><use xlink:href="#houzz"></use></svg>
+                    <span class="sr-only">Arhaus Houzz</span>
                 </a>
             </li>
             <li>
                 <a href="http://twitter.com/arhaus?ref=badge" target="_blank">
-                    <svg class="icon icon-twitter"><use xlink:href="#twitter"></use></svg>
+                    <svg class="icon icon-twitter" aria-hidden="true"><use xlink:href="#twitter"></use></svg>
+                    <span class="sr-only">Arhaus Twitter</span>
                 </a>
             </li>
             <li>
                 <a href="http://www.youtube.com/officialArhaus?ref=badge" target="_blank">
-                    <svg class="icon icon-youtube"><use xlink:href="#youtube"></use></svg>
+                    <svg class="icon icon-youtube" aria-hidden="true"><use xlink:href="#youtube"></use></svg>
+                    <span class="sr-only">Arhaus YouTube</span>
                 </a>
             </li>
         </ul>
@@ -2045,7 +2132,7 @@ Privacy | Arhaus Furniture
      </a>
     </li>
     <li>
-     <a href="https://stores.arhaus.com/">Store Directory
+     <a href="/store/">Store Directory
      </a>
     </li>
     <li>
@@ -2085,6 +2172,10 @@ Privacy | Arhaus Furniture
      </a>
     </li>
     <li>
+     <a href="/corp/assembly-guides/">Assembly Guides
+     </a>
+    </li>
+    <li>
      <a href="/corp/promotions">* Promotions
      </a>
     </li>        
@@ -2102,10 +2193,6 @@ Privacy | Arhaus Furniture
     </li>          
     <li>
      <a href="http://careers.arhaus.com/">Careers
-     </a>
-    </li>          
-    <li>
-     <a href="mailto:careers@arhaus.com? subject=My%20Resume%20sent%20via%20Arhaus.com&amp;body=Please%20attach%20your%20resume%20to%20this%20email">Email Your Resume
      </a>
     </li>          
     <li>
@@ -2165,51 +2252,49 @@ Privacy | Arhaus Furniture
  </dl>  
 </div>
         <div class="footer--copyright">
-            © 2018 Arhaus, LLC
+            © 2019 Arhaus, LLC
         </div>
     </div>
 
 </section>
-    </footer>
+	</footer>
 
 
-<div class="modal js-promotion-modal"></div>
+	<div class="modal js-promotion-modal"></div>
 
-
-    <script>
+	
+	<script>
         var arhSettings = arhSettings || {};
         arhSettings.imageURL = '//images.arhaus.com/is/image/Arhaus';
         arhSettings.searchArea = '';
         arhSettings.searchCollection = '';
         arhSettings.mainSiteUrl = 'https://www.arhaus.com';
-    </script>
- 
-    
-<script type="text/javascript" id="unbxd_script">
+	</script>
+
+	
+	<script type="text/javascript" id="unbxd_script">
     var UnbxdSiteName = "arhaus-com835471518200825";
     (function () {
         var ubx = document.createElement('script'); ubx.type = 'text/javascript'; ubx.async = true;
         ubx.src = '//d21gpk1vhmjuf5.cloudfront.net/unbxdAnalytics.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ubx);
     })();
-</script>    
+	</script>
 
-<!-- conditionally include minified version based on environment -->
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/es6-promise/4.1.1/es6-promise.min.js"></script>
+	<!-- conditionally include minified version based on environment -->
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/es6-promise/4.1.1/es6-promise.min.js"></script>
 
-	
-<script>
+
+	<script>
     var arh = arh || {};
     arh.enableScene7 = true;
     arh.imageBaseUrl = '//images.arhaus.com/is/image/Arhaus';
     arh.scene7ImageBaseUrl = '//images.arhaus.com/is/image/Arhaus';
     arh.promotionModalUrl = '/Layout/DynamicPromoModal';
-</script>
+	</script>
 
+	
+	
 
-
-
-    <link rel="stylesheet" type="text/css" href="//libraries.unbxdapi.com/arhaus-com_autosuggest_v2.css">
-    <script type="text/javascript" src="//libraries.unbxdapi.com/arhaus-com_autosuggest_v2.js"></script>
 
 </body></html>
