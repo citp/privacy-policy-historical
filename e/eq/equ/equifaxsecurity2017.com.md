@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equifaxsecurity2017.com privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119071447id_/https%3A//www.equifaxsecurity2017.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifaxsecurity2017.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216221524id_/https%3A//www.equifaxsecurity2017.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 2017 Cybersecurity Incident & Important Consumer Information
 
