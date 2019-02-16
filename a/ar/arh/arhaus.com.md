@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arhaus.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112200543id_/https%3A//www.arhaus.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arhaus.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216171427id_/https%3A//www.arhaus.com/corp/privacy) for the most accurate reproduction.*
 
 # Privacy | Arhaus Furniture
 
