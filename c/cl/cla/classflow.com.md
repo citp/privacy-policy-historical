@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classflow.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123094258id_/https%3A//classflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classflow.com privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216042654id_/https%3A//classflow.com/privacy-policy) for the most accurate reproduction.*
 
 # ClassFlow Website Privacy Policy I ClassFlow
 
