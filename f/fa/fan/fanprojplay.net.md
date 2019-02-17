@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanprojplay.net privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205102639id_/http%3A//fanprojplay.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanprojplay.net privacy policy that was archived on 2019-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190217073332id_/http%3A//fanprojplay.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Fanproj Play
 
@@ -51,4 +51,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.fanprojplay.net/contact)
 
-(Visited 665 times, 2 visits today)
+(Visited 1255 times, 4 visits today)
