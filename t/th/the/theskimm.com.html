@@ -1,0 +1,317 @@
+<!--The following is the downloaded HTML source of the theskimm.com privacy policy that was archived on 2019-02-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190217151308id_/https%3A//www.theskimm.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"7c7d669e70","applicationID":"25560177","transactionName":"Jl1XQRENWQ0AQExCWhdWSUcGEUY+FVMEUEZKQVFaFA==","queueTime":0,"applicationTime":18,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta charset="UTF-8">
+<meta content="width=device-width, maximum-scale=4.0, minimum-scale=1.0, initial-scale=1.0" name="viewport">
+<meta content="notranslate" name="google">
+<meta content="207901812670026" property="fb:pages">
+<title>Privacy Notice — theSkimm</title>
+<meta name="description" content="theSkimm makes it easier to live smarter. You're welcome. Join the millions who wake up with us every morning.">
+<meta name="keywords" content="theskimm, theskimm news, skimm, skim, the skim, the skimm, theskim, skim news, skimm news, skimmed news, daily skimm, daily news, quick news, morning skim, theskimm newsletter, thskimm, theksimm, skimmbassador, morning newsletter">
+<link rel="canonical" href="https://www.theskimm.com/privacy">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="theSkimm">
+<meta property="og:description" content="theSkimm makes it easier to live smarter. You're welcome. Join the millions who wake up with us every morning.">
+<meta property="og:image:url" content="https://cdn.theskimm.com/assets/skimmlogo-fbshare.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://www.theskimm.com/privacy">
+<meta property="og:title" content="Privacy Notice">
+<meta property="article:publisher" content="https://www.facebook.com/theSkimm">
+<meta property="fb:app_id" content="679264745470215">
+<meta name="twitter:creator" content="@theSkimm">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Privacy Notice">
+<meta name="twitter:description" content="theSkimm makes it easier to live smarter. You're welcome. Join the millions who wake up with us every morning.">
+<meta name="twitter:image" content="https://cdn.theskimm.com/assets/skimmlogo-fbshare.png">
+<meta name="twitter:image:alt" content="Privacy Notice">
+<meta name="twitter:site" content="@theSkimm">
+<meta name="twitter:url" content="https://www.theskimm.com/privacy">
+<meta name="twitter:country" content="US">
+<script type="application/ld+json">
+{"@context":"http://schema.org","@type":"Organization","name":"theSkimm","url":"https://www.theskimm.com","logo":"https://cdn.theskimm.com/assets/skimmlogo-fbshare.png","sameAs":["https://www.facebook.com/theskimm","https://www.instagram.com/theskimm","https://twitter.com/theskimm","https://www.pinterest.com/theskimm","https://www.linkedin.com/company/theskimm"]}
+</script>
+<script type="application/ld+json">
+{"@context":"http://schema.org","@type":"WebSite","name":"theSkimm","url":"https://www.theskimm.com","sameAs":["https://www.facebook.com/theskimm","https://www.instagram.com/theskimm","https://twitter.com/theskimm","https://www.pinterest.com/theskimm","https://www.linkedin.com/company/theskimm"],"image":"https://cdn.theskimm.com/assets/skimmlogo-fbshare.png"}
+</script>
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon-d0ab388a934676aee40a601864cc71b9.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32-1273439402e5503c70dcbbc7e08bca05.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16-4abe2a135ba47cff6129a943630f84e2.png">
+<link rel="manifest" href="/assets/favicon/manifest-b1104052dd6af8cf4f99f3297cb1071b.json">
+<link rel="mask-icon" href="/assets/favicon/safari-pinned-tab-ed7cd288dc2099cd11f58b51bd2753a4.svg" color="#00b2a9">
+<link rel="shortcut icon" href="/assets/favicon/favicon-161e720e1f65ba4d3e23a394073caa1d.ico">
+<meta name="msapplication-config" content="/assets/favicon/browserconfig-14fe0d216ec1551d52b6e517e856492f.xml">
+<meta name="theme-color" content="#00b2a9">
+<link rel="stylesheet" media="screen" href="//fonts.googleapis.com/css?family=Raleway:300,400,500,600,800">
+<link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i">
+<link rel="stylesheet" media="screen" href="https://fonts.googleapis.com/css?family=Montserrat:300,600">
+<link rel="stylesheet" media="all" href="/assets/application-9a22cb28aec1b7941bccbe4b23d0a64a.css">
+<script charset="UTF-8" src="https://cdn.cookielaw.org/consent/baf20cc8-ad3d-4a86-a18b-1e869db18c5e.js" type="text/javascript"></script>
+<script class="optanon-category-2" type="text/plain">
+window.consented = true
+window.handleAnalytics()
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/postscribe/2.0.8/postscribe.min.js"></script>
+<script src="//api.intellimize.co/client/117259272.js"></script>
+<script class="optanon-category-2" type="text/plain">
+window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty","resetIdentity"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+heap.load(2682025610);
+</script>
+<script class="optanon-category-2" id="target" type="text/plain">
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1457278917872224');
+fbq('track', "PageView");
+</script>
+<script src="//cdn.optimizely.com/js/558010370.js"></script>
+<script src="/assets/application-b8098c2f16dd88d0093e9b932ab4cdb3.js"></script>
+<script src="/assets/data-layer-5e8f56d28382fcf32758d8c7e37aa48f.js"></script>
+<script src="/assets/posts-5c492da5754f8eba53f95193d0d2966e.js"></script>
+</head>
+<body data-rails-env="production">
+<div id="target"></div>
+<script class="optanon-category-2" type="text/plain">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MKQCXS');
+</script>
+<header class="header flex-align-end">
+<a class="skip-nav" href="#content">
+Skip to content
+</a>
+<div class="hamburger h-removed--large" id="js-hamburger"></div>
+<div class="drop-down__panel hamburger__menu h-removed--large" id="js-hamburger__menu">
+<ul class="drop-down-list">
+<li class="nav__list-item drop-down-list__item">
+<a class="nav__link drop-down-list__link track-nav-click dailySkimmNavClick" text="Daily Skimm" href="/recent">Daily Skimm</a>
+</li>
+<li class="nav__list-item drop-down-list__item">
+<a class="nav__link drop-down-list__link track-nav-click skimmAheadNavClick" text="App" href="/app">App</a>
+</li>
+<li class="nav__list-item drop-down-list__item">
+<a class="nav__link drop-down-list__link track-nav-click skimmGuidesNavClick" text="Guides" href="/skimm-guides">Guides</a>
+</li>
+<li class="nav__list-item drop-down-list__item">
+<a class="nav__link drop-down-list__link track-nav-click skimmMoneyTaxesNavClick" text="Skimm Money Taxes" href="/skimm-money-taxes">Skimm Money Taxes</a>
+</li>
+<li class="nav__list-item drop-down-list__item">
+<a class="nav__link drop-down-list__link track-nav-click smarterYouNavClick" text="Smarter You" href="/new-year-smarter-you">Smarter You</a>
+</li>
+<li class="nav__list-item drop-down-list__item">
+<a class="nav__link drop-down-list__link track-nav-click skimmbassadorsNavClick" text="Skimm'bassadors" href="/news/5er7Uanv5uK6eQYMiOsmaU/skimmbassadors">Skimm'bassadors</a>
+</li>
+</ul>
+</div>
+<a class="logo__link header__logo" href="/">
+<img alt="theSkimm" class="logo logo--header" sizes="181px" src="//images.ctfassets.net/rjihy8fupq9c/4vJB6FpLu8sGWsIAWU0c6I/63d0f54c32768596c0305882d8987866/theSkimm_logo_black.png?w=181" srcset="//images.ctfassets.net/rjihy8fupq9c/4vJB6FpLu8sGWsIAWU0c6I/63d0f54c32768596c0305882d8987866/theSkimm_logo_black.png?w=181 181w, //images.ctfassets.net/rjihy8fupq9c/4vJB6FpLu8sGWsIAWU0c6I/63d0f54c32768596c0305882d8987866/theSkimm_logo_black.png?w=362 362w">
+</a>
+<nav class="nav h-removed--lt-large" role="navigation" style="min-width: 458px;">
+<ul class="nav__list">
+<li class="nav__list-item">
+<a class="nav__link track-nav-click  dailySkimmNavClick " text="Daily Skimm" href="/recent">Daily Skimm</a>
+</li>
+<li class="nav__list-item">
+<a class="nav__link track-nav-click  skimmAheadNavClick " text="App" href="/app">App</a>
+</li>
+<li class="nav__list-item">
+<a class="nav__link track-nav-click  skimmGuidesNavClick " text="Guides" href="/skimm-guides">Guides</a>
+</li>
+<li class="nav__list-item">
+<a class="nav__link track-nav-click  skimmMoneyTaxesNavClick " text="Skimm Money Taxes" href="/skimm-money-taxes">Skimm Money Taxes</a>
+</li>
+<li class="nav__list-item">
+<a class="nav__link track-nav-click  smarterYouNavClick " text="Smarter You" href="/new-year-smarter-you">Smarter You</a>
+</li>
+<li class="nav__list-item">
+<a class="nav__link track-nav-click  skimmbassadorsNavClick " text="Skimm'bassadors" href="/news/5er7Uanv5uK6eQYMiOsmaU/skimmbassadors">Skimm'bassadors</a>
+</li>
+</ul>
+</nav>
+<div class="subscribe-widget header__subscribe-widget h-removed--small">
+<button class="button subscribe-widget__button js-subscribe-widget__button">
+Subscribe
+</button>
+<div class="subscribe-widget__modal js-subscribe-widget__modal">
+<button class="button modal__close-button">
+<img src="https://media-cdn.theskimm.com/homepage/close.png" style="">
+</button>
+<div class="js-hide-subscribe-form">
+<p class="subscribe-widget__modal-text">
+Sign up for the Daily Skimm and congratulate yourself on a job well done
+</p>
+<form id="subscribe_form" class="signup-widget form--single-line" data-show-survey="true" action="/privacy" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓">
+<input type="hidden" name="social_id" id="social_id" value="">
+<input type="hidden" name="ref_org" id="ref_org" value="">
+<input type="hidden" name="skip_scroll" id="skip_scroll" value="true">
+<input class="input input--single-line" name="email" placeholder="email address" type="text">
+<button class="button button--single-line" type="submit">
+Send
+</button>
+</form>
+</div>
+<div id="successful-signup">
+<p class="subscribe-widget__modal-text">
+We’re just a liiiittle excited that you're here. We’ll be in your
+inbox bright and early tomorrow AM. Unless it’s the weekend, in which case,
+see you on Monday. If you just can't wait,
+<a target="_blank" href="https://theskimm.com/recent">here's our latest Skimm</a>
+to tide you over.
+</p>
+</div>
+</div>
+</div>
+</header>
+<hr class="header__hr">
+<div id="content"></div>
+<div class="about-terms">
+<h2 class="skimm-h2">Privacy Notice</h2>
+<p><strong>PRIVACY POLICY</strong></p>
+<p>Last Revised: May 25, 2018</p>
+<p>theSkimm, Inc. ("theSkimm" "we" or "us") is the owner and operator of the Site and the App and the provider of the Services. theSkimm respects your privacy, and we created this privacy policy (the "Policy") to explain how we collect, use and disclose your information when you access the Site and the App and use the Services. The Policy is only applicable to our Site, the App and our Services and not to any other website, service or online platform. Capitalized terms that are not defined in this Policy have the meaning given them in our Terms of Service. BY ACCESSING THE SITE, THE APP, UTILIZING ANY OF THE SERVICES AND/OR REGISTERING WITH US, YOU SIGNIFY THAT YOU HAVE READ, UNDERSTOOD AND AGREE TO BE BOUND BY THIS POLICY, INCLUDING OUR TERMS OF SERVICE, WHICH ARE INCORPORATED HEREIN BY REFERENCE.</p>
+<p><strong>Types of Information Collected</strong></p>
+<p>Personal Information</p>
+<p>theSkimm may ask you for some or all of the following types of information which may be identifiable to you when you register for our App or Services, access various content or features, or directly contact the site: (i) contact information, such as your email address and name; (ii) your age; and (iii) information for the purpose of authenticating yourself or your account if we have reason to believe, in our sole discretion, that you may be violating site policies or for any other reason we deem necessary (collectively "Personal Information"). You are responsible for ensuring the accuracy of all Personal Information you submit to theSkimm.</p>
+<p>We also collect and store the Personal Information you voluntarily submit to us through registering with us or uploading or posting User Content through the Site, the App or Services. If you are signed into your Tumblr, Twitter or Facebook account and you "like" or "comment" on theSkimm Content (such as the articles found on our blog) or other User Content, your Tumblr, Twitter or Facebook username will be displayed and so available to the public. You agree that your username, likes, feedback, and any associated comments may become public information; we therefore urge you to exercise caution when deciding to disclose any Personal Information on the Site, the App or through the Services.</p>
+<p>In addition, if you choose to purchase or subscribe to the App or a feature or Services of theSkimm that requires a Fee, you will be required to provide us with your billing information, including, without limitation, bank account numbers, credit card or debit card numbers, account details, ACH information, and similar data (collectively, "Billing Information").</p>
+<p>Non-Personal Information</p>
+<p>Cookies and Other Technologies. We may utilize cookies and other technologies, such as, web beacons (also known as "clear gifs" and "pixel tags") to recognize you, customize your experience, and serve advertisements. Cookies are very small files placed on your computer, and they allow us to count the number of visitors to theSkimm and distinguish repeat visitors from new visitors. They also allow us to save User preferences and track User trends. We may also enable advertisers and ad servers to promote third party products and/or services by placing advertisements on theSkimm. These advertisers and ad servers may use cookies and/or web beacons to monitor information related to served advertisements. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Policy covers the use of cookies by theSkimm and does not cover the use of cookies by any advertisers. If you do not want us to deploy cookies in your browser, you can opt out by setting your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software.&nbsp; If you choose to disable cookies in your browser, you can still use the Site, the App and the Services, although your ability to use some of the features may be affected.</p>
+<p>Information Collected Automatically. We automatically receive and collect information such as your IP address, the URLs of websites you arrive at theSkimm from or leave theSkimm to go to, your type of browser and language, access times, the content of any undeleted cookies that your browser previously accepted from us, your operating system, your mobile provider, your mobile device, and your ISP. We may use such information to better understand how theSkimm visitors use the Site and the App, to analyze trends, administer the website, prevent fraud, and gather broad demographic information.</p>
+<p>Our Use of Your Information</p>
+<p>Our primary purpose in collecting information, both Personal Information and other, is to provide you with a safe, smooth, efficient, and customized experience. You agree that we may use your information to: provide the Services and customer support you request; troubleshoot problems and prevent potentially prohibited or illegal activities; customize, measure and improve our Site, the App, our Services, content and advertising; tell you about and administer our Site, App or Services, targeted marketing, service updates, contests, sweepstakes, rewards, and promotional offers based on your communication preferences; monitor and enforce our Terms of Service; communicate with Users about products and/or services you may be interested in; verify your eligibility to use the Site or the App.</p>
+<p>Our Disclosure of Your Information</p>
+<p>theSkimm is committed to maintaining your trust and we want you to understand when and with whom we may share information collected about you. We may disclose Personal Information, Billing Information and Non-Personal Information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations.</p>
+<p>We may also use and/or share your Personal Information, Billing Information and Non-Personal Information with, and you authorize us to use and/or share this information with:</p>
+<p>-&nbsp;&nbsp; Service providers under contract who help with our business operations. We employ these companies and people to perform tasks on our behalf and need to share your information with them to provide products and services to you.</p>
+<p>-&nbsp;&nbsp; We will share your Billing Information with a third party service provider as necessary to process your payments. The third party service provider stores your Billing Information; we do not store this information. Storage by the third party service provider of your Billing Information is subject to the privacy policies and practices of the third party service provider and is not subject to the terms of this privacy policy. By providing your Billing Information, you acknowledge and agree to use of such information by the third party service provider for purposes of processing your payment to us.</p>
+<p>-&nbsp;&nbsp; Certain of theSkimm's program participants under confidentiality agreement, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity.</p>
+<p>-&nbsp;&nbsp; Our affiliates and promotional partners, so they can offer you special products, services, discounts, tickets, and other items or services.&nbsp; Likewise, we may receive information from such affiliates and promotional partners to offer our Users special items or services.</p>
+<p>-&nbsp;&nbsp; We may combine your information with information we collect from other companies and use it to improve and personalize our services, content and advertising.</p>
+<p>-&nbsp;&nbsp; We may sell or rent your information to third parties for marketing purposes without your explicit consent.</p>
+<p>-&nbsp;&nbsp; In an ongoing effort to better understand our Users, we may analyze certain Non-Personal Information in anonymized and aggregate form in order to operate, maintain, manage, and improve the Site, the App, the Services and/or such products and services.&nbsp; This aggregate information does not identify you personally.&nbsp; We may share and/or license this aggregate data to our affiliates, agents, business and promotional partners and other third parties.&nbsp; We may also disclose aggregated user statistics in order to describe the Services and these products and services to current and prospective business partners and to other third parties for other lawful purposes.</p>
+<p>-&nbsp;&nbsp; We may share some or all of your Information with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us.</p>
+<p>-&nbsp;&nbsp; As we develop our businesses, we might sell or buy businesses or assets.&nbsp; In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event, the Information may be part of the transferred assets.</p>
+<p>If you do not wish to receive marketing communications from us or participate in our ad-customization programs, simply indicate your preference or by following the directions provided with the communication or advertisement.</p>
+<p>Microsoft Skype Bot</p>
+<p>Our Microsoft Skype Bot is enabled by Microsoft Bot Framework. The Microsoft Bot Framework is a set of web-services that enable intelligent services and connections using conversation channels you authorize. As a service provider, Microsoft will transmit content you provide to our bot/service in order to enable the service. For more information about Microsoft privacy policies please see their privacy statement here: http://go.microsoft.com/fwlink/?LinkId=521839. In addition, your interactions with this bot/service are also subject to the conversational channel's applicable terms of use, privacy and data collection policies. To report abuse when using a bot that uses the Microsoft Bot Framework to Microsoft, please visit the Microsoft Bot Framework website at https://www.botframework.com and use the “Report Abuse” link in the menu to contact Microsoft.</p>
+<p>No Spam or Spyware</p>
+<p>We do not tolerate spam. Spamming is explicitly prohibited it by our Terms of Service. If you would like to report an incident of spamming or other unauthorized communications from other Users, please contact us at&nbsp;founders@theSkimm.com.&nbsp;We maintain the right to investigate such incidents and take suitable action.</p>
+<p>Account Protection</p>
+<p>We take commercially reasonable steps to protect your information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Nevertheless, no transmission over the Internet and no data storage method can be guaranteed to be safe 100% of the time. theSkimm cannot ensure or warrant the security of any information you transmit to theSkimm or guarantee that your end user data stored on the App or the Services may not be accessed, disclosed, altered, or destroyed by breach of any of our industry standard physical, technical, or managerial safeguards. &nbsp;In particular, e-mail sent to us may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail.</p>
+<p>The Site and the App is hosted on servers in the United States. Accordingly, if you are located outside of the United States, any information you provide to us will be transferred to the United States. By providing us with any information, you consent to its transfer and storage in the United States.</p>
+<p>Email Communications</p>
+<p>We may use your email to deliver theSkimm's daily newsletter, as well as for other promotional (e.g., new product offerings, special offers by us or other third parties) purposes. Email messages we send you may contain code that enables our database to track your usage of the emails we send you, such usage includes whether the email was opened and what links (if any) were clicked. If you send an email to us, or fill out our "Feedback" form, we will collect your email address and the full content of your email, including attached files, and other information you provide.</p>
+<p>You may indicate your preference to opt out&nbsp;of&nbsp;receiving promotional communications by following the unsubscribe instructions provided in the promotional email you receive or by contacting us directly at&nbsp;founders@theSkimm.com. You acknowledge that it may take up to 10 days for us to process an opt-out request. Please note, however, that you cannot opt out of receiving transactional e-mails related to your account with us.</p>
+<p>Third Parties</p>
+<p>Except as otherwise expressly included in this Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others Users on our Site or on other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. We do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We are not responsible for any information we do not collect. We encourage you to ask questions before you disclose your Personal Information to others.</p>
+<p>Children</p>
+<p>Protecting the privacy of young children is especially important to us. For that reason, theSkimm does not knowingly collect or solicit Personal Information from anyone under the age of 13. If you are under 13, please do not give us any Personal Information.&nbsp; We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Information through the Site or the App without their permission.&nbsp; If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information from our databases.</p>
+<p>California Residents</p>
+<p>California Civil Code Section 1798.83 permits residents of the State of California to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please email us at founders@theSkimm.com&nbsp;or write us at: theSkimm, Inc., Attn: Legal - California Privacy Compliance, 50 West 23rd Street, Suite 5B, New York, New York, 10010.</p>
+<p>In addition, theSkimm does not monitor, recognize, or honor any opt-out or do not track mechanisms, including general web browser "Do Not Track" settings and/or signals.</p>
+<p>Changes to this Policy</p>
+<p>We reserve the right, at any time, to add to, change, update, or modify this Policy. Any such changes to this Policy will be posted here on our Site so we urge to please visit this page frequently. In all cases, use of information we collect is subject to the Policy in effect at the time such information is collected. Please refer back to this Privacy Policy on a regular basis.</p>
+<p>How to Contact Us</p>
+<p>If you wish to request a copy of or make updates to your personal information collected by theSkimm, please contact us at privacy@theskimm.com.</p>
+<p>Copyright © 2017 theSkimm, Inc. All Rights Reserved.</p>
+</div>
+<div id="img-tag-target"></div>
+<script async="" class="optanon-category-2" type="text/plain">
+var div = document.getElementById('img-tag-target')
+var imgs = ['outbrain-trigger', 'pliadm', 'dliadm', ''].forEach(
+function (id) {
+var img = document.createElement('img')
+if (id) {img.setAttribute('id', id)}
+else{img.setAttribute('src', '//d.liadm.com/segment?s=16726')}
+div.appendChild(img)
+})
+</script>
+<script class="optanon-category-2" type="text/plain">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-37719054-1', 'auto');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+</script>
+<script class="optanon-category-2" type="text/plain">
+var trackback = { googleClientID: null,
+referralCode:   null,
+invitationCode: null }
+if (typeof ga !== 'undefined') {
+ga( function(tracker) {
+trackback.googleClientID = tracker.get('clientId'); });
+};
+</script>
+<footer class="footer">
+<hr class="footer__hr">
+<nav class="nav center nav__footer footer__nav mb30 mt30" role="navigation">
+<ul class="nav__list nav__list--vertical-lt-small">
+<li class="nav__list-item">
+<a class="nav__link track-nav-click teal  " text="Jobs" href="/jobs">Jobs</a>
+</li>
+<li class="nav__list-item">
+<a class="nav__link track-nav-click teal  " text="Terms" href="/tos">Terms</a>
+</li>
+<li class="nav__list-item">
+<a class="nav__link track-nav-click teal  nav__link--active" text="Privacy" href="/privacy">Privacy</a>
+</li>
+<li class="nav__list-item">
+<a class="nav__link track-nav-click teal  " text="FAQ" href="/faq">FAQ</a>
+</li>
+</ul>
+</nav>
+<div class="center footer__support">
+<p class="copy center-text light-grey copy--small mb10">
+Feedback or issues with the app
+<a class="link" href="mailto:%68%65%6c%70@%74%68%65%73%6b%69%6d%6d.%63%6f%6d">help@theskimm.com</a>
+<br>
+All other feedback and requests
+<a class="link" href="mailto:%66%6f%75%6e%64%65%72%73@%74%68%65%73%6b%69%6d%6d.%63%6f%6d">founders@theskimm.com</a>
+</p>
+<p class="copy center-text center light-grey copy--legal size2of3 mt10">© 2019 theSkimm, All rights reserved.</p>
+</div>
+<div class="footer__share-icons center mt30 mb30">
+<ul class="share-icons__list share-icons__list--row">
+<li class="share-icons__list-item">
+<a href="https://www.facebook.com/TheSkimm">
+<div class="share-icon share-icon--fb" src="https://media-cdn.theskimm.com/homepage/share-icons/fb.svg"></div>
+</a>
+</li>
+<li class="share-icons__list-item">
+<a href="https://instagram.com/theskimm">
+<div class="share-icon share-icon--insta" src="https://media-cdn.theskimm.com/homepage/share-icons/insta.svg"></div>
+</a>
+</li>
+<li class="share-icons__list-item">
+<a href="https://www.youtube.com/user/theSkimm">
+<div class="share-icon share-icon--youtube" src="https://media-cdn.theskimm.com/homepage/share-icons/youtube.svg"></div>
+</a>
+</li>
+<li class="share-icons__list-item">
+<a href="https://twitter.com/theSkimm">
+<div class="share-icon share-icon--twitter" src="https://media-cdn.theskimm.com/homepage/share-icons/twitter.svg"></div>
+</a>
+</li>
+<li class="share-icons__list-item">
+<a href="https://blog.theskimm.com/">
+<div class="share-icon share-icon--medium" src="https://media-cdn.theskimm.com/homepage/share-icons/medium.svg"></div>
+</a>
+</li>
+</ul>
+</div>
+</footer>
+
+
+</body></html>
