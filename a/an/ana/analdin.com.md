@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analdin.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014101155id_/https%3A//www.analdin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analdin.com privacy policy that was archived on 2019-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190217135434id_/https%3A//www.analdin.com/privacy) for the most accurate reproduction.*
 
 # Analdin.com
 
