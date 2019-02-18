@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siyavula.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911010304id_/https%3A//www.siyavula.com/info/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siyavula.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218090348id_/https%3A//www.siyavula.com/info/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms and Conditions, Privacy Policy and Promotions | Siyavula
 
@@ -292,5 +292,64 @@ The relevant discount will be applied upon completing the process set out above 
   6. We reserve the right to terminate this Offer with immediate effect and without notice of such termination to you. In such event, you waive any rights, which you may have against us and you acknowledge that you will have no recourse or claim of any nature whatsoever against us.
   7. In the event of a dispute, our decision will be final and binding on all aspects of this promotional offer and no correspondence will be entered into.
   8. This Offer cannot be used together with any other similar offer or campaign promoted by us.
+
+
+
+## #1MillionMaths campaign and competition
+
+### Introduction
+
+Siyavula runs an annual campaign and competition called '#1MillionMaths', hereafter referred to as 'The Promotion'.
+
+### Opt-in
+
+  1. In order to be eligible for prizes or to be listed on the leaderboards, you have to opt in. By opting in, you are explicitly agreeing to these terms and conditions and the general terms of use of Siyavula.com as well as Siyavula’s Privacy Policy.
+  2. By opting in, you explicitly agree to have your first name, last name, school (where applicable) and position displayed on a public leaderboard.
+
+
+
+### Date and duration (The Period)
+
+  1. The Promotion runs annually during one whole regular calendar month. The beginning and end date are determined by Siyavula throughout the course of the year and the date range is subject to change without notice.
+  2. The second annual #1MillionMaths campaign and competition will run from 01 October 2018 to 31 October 2018.
+
+
+
+### Free Access
+
+  1. During the entire month of October 2018, _all_ users of Siyavula will enjoy free and unlimited access to Siyavula Practice Mathematics and Physical Science.
+  2. Only questions answered in Siyavula Practice Mathematics will count towards the tally of The Promotion.
+  3. The free access during The Promotion is not applicable to Exam Prep.
+
+
+
+### Prizes
+
+  1. Siyavula offers and dispenses prizes entirely at its own discretion. Siyavula reserves any and all rights to the offering and dispensation of prizes and reserves the rights to withhold prizes from any person or party for any reason whatsoever.
+  2. Siyavula's decision is final and no correspondence will be entered into with regard to the prizes or the leaderboards.
+  3. Prizes are not transferable and no substitutions or cash equivalents are permitted.
+  4. Winners will be notified within 5 days of the prize draw. Winners will be notified by telephone, email or SMS. In case of the unavailability of any prize, Siyavula reserves the right to substitute a prize of equal or greater value.
+  5. Employees of Siyavula, sponsors, advertising, promotion and production agencies, and their agents and immediate families (spouses, parents, children and siblings and their spouses) are not eligible to participate in the prize drawing.
+  6. The prizewinner must accept that that his/her name and/or likeness may be announced in literature or on the Internet, including on the Siyavula social media accounts or homepage, for publicity or advertising purposes without additional compensation, except where prohibited by law.
+  7. There is no purchase necessary to be eligible for prizes.
+  8. In order to be eligible for prizes, users must have practised themselves on Siyavula Practice.
+  9. Redoing the same question repeatedly will disqualify the user from any prize draws.
+  10. Only Learners and Teachers on the Siyavula Practice platform are eligible for prizes.
+  11. The closing date for an entry is midnight (SAT) on 31 October 2018. Winners will be selected in a random drawing from all eligible entries received by the closing date and throughout The Period.
+  12. Should the prize winner not respond to messages (email, SMS, Siyavula inbox, and/or Facebook inbox) within 1 month of being notified of a prize, Siyavula reserves the right to disqualify the prizewinner from that particular prize.
+  13. Users have to opt into (agree to) being listed on #1MillionMaths leaderboards in order to be eligible for prizes; eligibility for prizes is not automatic.
+
+
+
+### Leaderboards
+
+  1. The leaderboards for users are generated automatically by the Siyavula Practice system.
+  2. No correspondence will be entered into for disputing or calling into question the position of any user on the leaderboard
+
+
+
+### Support
+
+  1. If you feel that something may be amiss with our platform or you would like to report an error, please click on the orange icon in the bottom-right corner of your screen and let us know what you feel is behaving strangely. Alternatively, you can contact us here.
 
 
