@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plugnpay.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024075756id_/http%3A//www.plugnpay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugnpay.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218120650id_/http%3A//www.plugnpay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – PlugnPay
 
