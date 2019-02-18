@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ssmatri.net privacy policy that was archived on 2016-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160625013615id_/http%3A//ssmatri.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ssmatri.net privacy policy that was archived on 2019-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190218115257id_/http%3A//ssmatri.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -33,7 +33,7 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="animate/scroll-simple/scroll.js" type="text/javascript"></script><style type="text/css">.marquee{white-space:nowrap;overflow:hidden;visibility:hidden;}#marq_kill_marg_bord{border:none!important;margin:0!important;}</style> <!-- Scroll -->
 <!-- news scroll -->
 <link href="animate/scroll-verti/style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.6.min.js"></script>
 <script src="animate/scroll-verti/jcarousellite_1.0.1c4.js" type="text/javascript"></script>
 <!-- /scorll-->
 
@@ -68,11 +68,21 @@ ddlevelsmenu.setup("ddtopmenubar", "topbar")
 
 <div class="wrap">
 <div class="grid1">
-  <div class="header-left"><a href="http://ssmatri.com/">
+  <div class="header-left"><a href="https://ssmatri.com/">
 	<img src="images/top.png" alt="SSmatri" title="Chennai Sai Sankara Matrimonials" border="0"></a>
   </div>
  
 </div>
+<style>
+    .payment a{
+		animation: blinker 3s linear infinite;
+	}
+	@keyframes blinker {  
+	  /*50% { opacity: 0; }*/
+	  20% { color: #FFFF00; }
+	  80% { color: #FFFFFF; }
+	}
+</style>
 <div class="grid2">
   <div id="ddtopmenubar" class="mattblackmenu">
     <ul>
@@ -82,19 +92,19 @@ ddlevelsmenu.setup("ddtopmenubar", "topbar")
       <li><img src="images/split.jpg"></li>
       <li class="current3"><a href="features.php">Features</a></li>
       <li><img src="images/split.jpg"></li>
-      <li class="current4"><a href="tariff-schemes.php">Schemes</a></li><!-- Tariff &amp; -->
+      <li class="current4"><a href="tariff-schemes.php">Tariff &amp; Schemes</a></li><!-- Tariff &amp; -->
       <li><img src="images/split.jpg"></li>
       <li class="current5"><a href="registration.php">Registration</a></li><!--  Forms -->
       <li><img src="images/split.jpg"></li>
-      <li class="current8"><a href="payment-options.php">Payment Options</a></li>
+      <li class="current8 payment"><a href="payment-options.php">Payment Options</a></li><!---->
       <li><img src="images/split.jpg"></li>
       <li class="current6"><a href="charts.php">Chart - Basic Details</a></li>
 		<li><img src="images/split.jpg"></li>
-      <li class="current7"><a href="profiles.php">Profiles/Photos</a></li><!-- /Photos -->
+      <li class="current7"><a href="profiles.php#pro">Profiles/Photos</a></li><!-- /Photos -->
       <li><img src="images/split.jpg"></li>
     <li class="current9"><a href="contactus.php">Contact us</a></li>
 	      <li><img src="images/split.jpg"></li>
-      <li class="current8"><a href="#" class="big-link" id="top_login" data-reveal-id="myModal" onclick="$('#myModal1').hide();$('#myModal').show();">Login</a></li>
+      <li class="current8"><a href="javascript:void(0)" class="big-link" id="top_login" data-reveal-id="myModal" onclick="$('#myModal1').hide();$('#myModal').show();">Login</a></li>
      		
     </ul>
   </div>
@@ -103,6 +113,7 @@ ddlevelsmenu.setup("ddtopmenubar", "topbar")
     <li><a href="my-profile.php">My Profile</a></li>
 	  <li><a href="accountdetails.php">Account details</a></li>
 	 <li><a href="viewed-profiles.php">Viewed Profiles</a></li>
+	 <li><a href="bookmarklist.php">ShortList</a></li>
 	<!--<li><a href="javascript:void(0)" onclick="send_mail()">Request credits</a></li>--> 
     <li><a href="change_password.php">Change password</a></li>
     <li><a href="logout.php">Log Out</a></li>
@@ -117,18 +128,20 @@ ddlevelsmenu.setup("ddtopmenubar", "topbar")
                     <td align="left" valign="middle" style="padding-left:30px;"><h2>User ID:</h2></td>
                     <td align="left" valign="middle"><input type="text" id="Username" name="Username" required=""></td>
                   </tr>
-                   
+                   <tr>
+                    <td align="left" valign="middle" style="padding-left:30px;"></td>
+                    <td align="left" valign="middle"><span style="font-size: 9pt;line-height: 13px; color: #EB0000; ">Enter only number avoid (BI, GI, BIG, GIG etc) and year of birth</span></td>
+                  </tr>
                     <tr>
                     <td align="left" valign="middle" style="padding-left:30px;"><h2>Password:</h2></td>
-                     <td align="left" valign="middle"><input type="password" id="Password" name="Password" required=""></td>
+                     <td align="left" valign="middle"><input type="password" id="Password" name="Password" required=""><input type="hidden" name="snm" id="snm" value="0"></td>
                   </tr>
                    <tr>
                       <td colspan="2" align="center" valign="middle"><button type="button" name="search" id="search" value="submit" class="submit" style="margin-top:10px;" onclick="get_aunthicate();"> Login</button></td>
                     </tr>
               </tbody></table></form>
               <h4><a href="javascript:void(0)" data-reveal-id="myModal1" onclick="$('#myModal').hide();$('#myModal1').show();">
-			Forgot Password 
-		</a>| <span><a href="registration.php">New Registration</a></span> </h4>
+			Forgot Password</a> | <span><a href="registration.php">New Registration</a></span> | <a href="login-procedure.php">Login Procedure</a></h4>
 			<a class="close-reveal-modal">×</a>
 </div>
 <div id="myModal1" class="reveal-modal">
@@ -141,11 +154,11 @@ ddlevelsmenu.setup("ddtopmenubar", "topbar")
                     <td align="left" valign="middle"><input type="text" id="Username1" name="Username" required=""></td>
                   </tr>
 				  <tr>
-						<td align="left" valign="middle" style="padding-left:30px;"><h2>Email:</h2></td>
-						<td align="left" valign="middle"><input type="text" id="email" name="email" required=""></td>
+						<td align="left" valign="middle" style="padding-left:30px;"><h2>Registered Email:</h2></td>
+						<td align="left" valign="middle"><input type="text" id="email" name="email" required="">&nbsp;</td>
                   </tr>
                   <tr>
-                      <td colspan="2" align="center" valign="middle"><button type="button" name="search" id="search" value="submit" class="submit" style="margin-top:10px;" onclick="get_recover();">Submit</button></td>
+                      <td colspan="2" align="center" valign="middle"><button type="button" name="search" id="search2" value="submit" class="submit" style="margin-top:10px;" onclick="get_recover();">Submit</button></td>
                   </tr>
               </tbody></table></form>
               <h4><a href="javascript:void(0)" data-reveal-id="myModal" id="top_login1" onclick="$('#myModal1').hide();$('#myModal').show();">
@@ -175,16 +188,26 @@ ddlevelsmenu.setup("ddtopmenubar", "topbar")
 	{
 		
 		$.ajax({ url: 'login_confirm.php',
-				 data: {"username":$('#Username').val(),"password":$("#Password").val()},
+				 data: {"username":$('#Username').val(),"password":$("#Password").val(),'snm':$('#snm').val()},
 				 type: 'post',
 			 success: function(output) {
 						//console.log(output.trim());
-						if(output.trim()=="1")
+						console.log(output.trim());
+						var str = output.trim().split("~");
+
+						if(str[0]=="1")
 						{
-							//alert("Logged In successfully");
+							alert("Logged In successfully");
 							window.location.reload();
 						}
-				 		else 
+                        else if(str[0]=="13")
+						{
+							alert("Logged In successfully");
+							alert(str[1]);
+							//window.location.href='index.php';
+							window.location.reload();
+						}
+						else 
 						{
 							$('.message').html(output);
                        		$('.message').addClass('danger');
@@ -200,15 +223,25 @@ ddlevelsmenu.setup("ddtopmenubar", "topbar")
 	      
 			
 			$.ajax({ url: 'login_confirm.php',
-					 data: {"username":$('#Username').val(),"password":$("#Password").val()},
+					 data: {"username":$('#Username').val(),"password":$("#Password").val(),'snm':$('#snm').val()},
 					 type: 'post',
 				 success: function(output) {
 							//console.log(output.trim());
-							if(output.trim()=="1")
-							{
-								//alert("Logged In successfully");
-								window.location.reload();
-							}
+								console.log(output.trim());
+						var str = output.trim().split("~");
+
+    						if(str[0]=="1")
+    						{
+    							alert("Logged In successfully");
+    							window.location.reload();
+    						}
+                            else if(str[0]=="13")
+    						{
+    							alert("Logged In successfully");
+    							alert(str[1]);
+    							//window.location.href='index.php';
+    							window.location.reload();
+    						}
 					 		else 
 							{
 								$('.message').html(output);
@@ -232,10 +265,11 @@ ddlevelsmenu.setup("ddtopmenubar", "topbar")
 						if(output.trim()==1)
 						{
 							$('#forgot').show();
+							$('#forgot').html('Invalid Details, try again');
 						}
 				 		else
 						{
-							alert('Pssword sent your mail id');
+							alert('Password sent to your mail id');
 							window.location.reload();
 						}
 						
@@ -256,11 +290,25 @@ ddlevelsmenu.setup("ddtopmenubar", "topbar")
             processData: false
         });
 	}
-</script><div class="grid3">
+function on_men()
+{
+	$('#ddsubmenu1').css({"z-index":"2000"});
+	$('#ddsubmenu1').css({"left":"840px"});
+	$('#ddsubmenu1').css({"top":"167px"});
+	$('#ddsubmenu1').css({"visibility":"visible"});
+	$('#ddsubmenu1').css({"height":"auto"});
+	$('#ddsubmenu1').css({"width":"auto"});
+	$('#ddsubmenu1').css({"overflow":"visible"});
+	$('#ddsubmenu1').css({"opacity":"1"});
+	
+	
+}
+</script>
+<div class="grid3">
 <div class="scroll-img">
 				<div align="center">
 					
-							<div class="marquee0" style="overflow: hidden;"><div style="visibility: visible; padding: 0px; width: 507px; height: 157px; position: relative; overflow: hidden;"><div style="position: absolute; left: -15px; white-space: nowrap; top: 70px;">&nbsp;<a href="#">
+							<div class="marquee0" style="overflow: hidden;"><div style="visibility: visible; padding: 0px; width: 507px; height: 157px; position: relative; overflow: hidden;"><div style="position: absolute; left: -22px; white-space: nowrap; top: 70px;">&nbsp;<a href="#">
 								<img src="scroll/scroll1.jpg" border="0" alt="scroll" style="display: inline; vertical-align: top;"></a>
 								<a href="#">
 								<img src="scroll/scroll2.jpg" border="0" alt="scroll" style="display: inline; vertical-align: top;"></a>
@@ -279,7 +327,7 @@ ddlevelsmenu.setup("ddtopmenubar", "topbar")
 								<a href="#">
 								<img src="scroll/scroll9.jpg" border="0" alt="scroll" style="display: inline; vertical-align: top;"></a>
 								<a href="#">
-								<img src="scroll/scroll10.jpg" border="0" alt="scroll" style="display: inline; vertical-align: top;"></a></div><div style="position: absolute; left: 497px; white-space: nowrap; top: 70px;">&nbsp;<a href="#">
+								<img src="scroll/scroll10.jpg" border="0" alt="scroll" style="display: inline; vertical-align: top;"></a></div><div style="position: absolute; left: 490px; white-space: nowrap; top: 70px;">&nbsp;<a href="#">
 								<img src="scroll/scroll1.jpg" border="0" alt="scroll" style="display: inline; vertical-align: top;"></a>
 								<a href="#">
 								<img src="scroll/scroll2.jpg" border="0" alt="scroll" style="display: inline; vertical-align: top;"></a>
@@ -316,15 +364,15 @@ ddlevelsmenu.setup("ddtopmenubar", "topbar")
         </div>
 
 <div class="grid71">
-<div class="product-list" style="border:1px solid #FBAFAF; width:175px; height:282px">
-    <h1 style=" font-size:12px;"> MAMBALAM SAI GANESH</h1>
-      <p><a href="http://www.mambalamsaiganesh.com/" target="_blank"><img src="images/saiganesh.png" style=" width: 165px;"></a></p>
+<div class="product-list" style="border:1px solid #FBAFAF; width:175px; height:253px">
+    <h1 style=" font-size:12px;">MANDOLIN SAIGANESH</h1>
+      <p><a href="http://mandolinsaiganesh.com/" target="_blank"><img src="images/saiganesh-logo.png" style=" width: 165px;"></a></p>
 	  <h2 style="text-align:center; color:#F00;">Sai Swarangal</h2>
     <h2 style="text-align:center;">Instrumental Music  Orchestra </h2>
     <p style="text-align:center;"> <strong>Cell: 98843 70896 </strong></p>
-    <p style="text-align:center;"><strong>Visit Our Website: <a href="http://www.mambalamsaiganesh.com/" target="_blank" style=" color:#F00;">mambalamsaiganesh.com</a></strong></p>
-    <h3 style="text-align:center; color:#0b5e00;">Nephew of Founder <br>
-      N. Panchapakesan </h3> 
+    <p style="text-align:center;"><strong>Visit Our Website: <a href="http://mandolinsaiganesh.com/" target="_blank" style=" color:#F00;">mandolinsaiganesh.com</a></strong></p>
+    <!--h3 style="text-align:center; color:#0b5e00;">Nephew of Founder <br>
+      N. Panchapakesan </h3--> 
     
   </div>
   <div class="product-list" style="border:1px solid #FBAFAF; width:175px;">
@@ -384,12 +432,12 @@ ddlevelsmenu.setup("ddtopmenubar", "topbar")
                       </div>-->
   <div class="grid9">
     <p class="address"><span>Chennai Sai Sankara Matrimonials :</span> No 7, Old no 15/2, 9th Avenue, Ashok Nagar, Chennai - 600 083.<br>
-      Phone : +91 44 2471 6920, 2471 9042, Mobile: +91 98403 30531(Founder),+91 98403 32531, E-Mail : <a href="mailto:saisankara@gmail.com">saisankara@gmail.com </a><br>
+      Phone : +91 44 2471 6920, 2471 9042, Mobile: +91 78100 40404, +91 98403 30531(Founder), E-Mail : <a href="mailto:saisankara@gmail.com">saisankara@gmail.com </a><br>
       Timings: 10.00 A.M to 7.00 P.M <span>Tuesday Holiday</span></p>
-    <p class="power">2016 © <a href="http://www.ssmatri.com/" target="_blank">Chennai Sai Sankara Matrimonials</a> | <a href="privacy-policy.php" target="_blank">Privacy Policy</a></p>
+    <p class="power">2018 © <a href="https://www.ssmatri.com/" target="_blank">Chennai Sai Sankara Matrimonials</a> | <a href="privacy-policy.php" target="_blank">Privacy Policy</a></p>
     <p class="power"> As the website uses advanced Java scripts, the website is best viewed at 1024 x 768 resolution in I.E 10 or above, Mozilla 3.5 or above, Google Chrome 3 or above, Safari 5.0 +</p>
-    <p class="power dis" style="display:none;">Powered By : <a href="http://www.jbsoftsystem.com/" target="_blank">JB Soft System</a>, 
-      Chennai-15.</p>
+    <p class="power dis" style="display:none;">Powered By : <a href="https://www.jbsoftsystem.com/" target="_blank">JB Soft System</a>, 
+      Chennai.</p>
   </div>
 <script type="text/javascript" language="javascript">
  
@@ -436,4 +484,4 @@ savedirection: true
 
 });
 
-</script></body></html>
+</script><iframe class="ddiframeshim" src="blank.htm" frameborder="0"></iframe><iframe class="ddiframeshim" src="blank.htm" frameborder="0"></iframe></body></html>
