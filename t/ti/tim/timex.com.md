@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the timex.com privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028090753id_/http%3A//www.timex.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timex.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218150016id_/https%3A//www.timex.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Statement**
+Privacy Statement
 
-**Timex.com** , Inc. believes that you, as our online visitor, have the right to know our practices regarding any information we might collect when you visit our website.
+Timex.com, Inc. believes that you, as our online visitor, have the right to know our practices regarding any information we might collect when you visit our website.
 
 For each visitor to the timex.com website, our web server automatically recognizes and stores information, such as the visitor IP address and domain name. We track such information to perform internal research on our users' demographic interests and behavior and to better understand, protect and serve our customers and community. We also use data collection devices such as "cookies." Cookies are small files placed on a visitor's hard drive that assist us in providing products and services to our customers. You are always free to decline cookies if your browser permits. In addition, a visitor may encounter cookies or other similar devices on certain pages of the website that are placed by third parties. We do not control the use of cookies by third parties.
 
@@ -18,7 +18,7 @@ Other websites that may be linked to/from the timex.com website may have differe
 
 We may amend this Privacy Policy at any time by posting the amended terms on the timex.com website. All amended terms shall automatically be effective 30 days after they are initially posted on the website.
 
-**Secure Ordering**
+Secure Ordering
 
 Protecting your order information is our first concern. timex.com makes every effort to protect your online order information by using Secure Sockets Layer (SSL) technology, with a digital certificate provided by DigiCert.
 
