@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the rewardsurvey.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921122947id_/https%3A//www.rewardsurvey.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardsurvey.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218031433id_/https%3A//rewardsurvey.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - RewardSurvey
 
 ## Privacy Policy
 
-RewardSurvey is committed to protecting your privacy. We appreciate your trust in us. To get the full benefit of RewardSurvey, we ask you to provide us with certain information about yourself at different points on our site. We also collect information about you when you visit our site through the use of various technologies as described in more detail below. The purpose of this policy is to inform you of what information we collect, why we collect it, what we do with it, how we protect it and how you can access it or change it. 
+####  Last Updated: 12/10/2018 
+
+RewardSurvey (“we” “us” or “our”) is committed to protecting your privacy. We appreciate your trust in us. To get the full benefit of RewardSurvey, we ask you to provide us with certain information about yourself at different points on our site. We also collect information about you when you visit our site through the use of various technologies as described in more detail below. The purpose of this policy is to inform you of what information we collect, why we collect it, what we do with it, how we protect it and how you can access it or change it. 
 
 This policy covers only the information collected on the RewardSurvey site. Sites that link to or from our site, services, products and other functionality available on the Site but hosted by a third party, and sites hosted by our various partners, are not covered by this policy. We encourage you to read the privacy policies of every site that you visit. For your convenience, this policy is linked to every page where we ask for information on our site. If you have any other concerns after reading this policy, please go to our FAQ page, where many frequently asked questions about RewardSurvey are answered. If you have any additional questions, please contact customer care by e-mail at [question@RewardSurvey.com](mailto:question@RewardSurvey.com). 
 
-You may remove yourself from our RewardSurvey database at any time. You also have the opportunity to correct or change the information you have provided to us by emailing instructions to remove your information to [customerservice@RewardSurvey.com](mailto:customerservice@RewardSurvey.com). 
+You may remove certain information about yourself from our RewardSurvey database at any time. You also have the opportunity to correct or change the information you have provided to us by emailing instructions to [customerservice@RewardSurvey.com](mailto:customerservice@RewardSurvey.com). To unsubscribe from email correspondences from RewardSurvey, [click here](http://m2mediagroup.mkt5930.com/preferences/RewardSurveyOptOut). 
 
 #### A Special Note About Children
 
-Persons under the age of 18 are not eligible for any offers presented by RewardSurvey. Our site is not intended for or directed to children under the age of 13. If we become aware that a child under the age of 13 has provided personal information to us, we will promptly delete such information. 
+Persons under the age of 18 are not eligible for any offers presented by RewardSurvey. Our site is not intended for or directed to children under the age of 13. If you are aware of an instance in which a child under the age of 13 has provided personal information to us, please let us know (through the below contact information), so that we may promptly delete such information or take other appropriate action. 
 
 #### Submitted Information
 
@@ -24,15 +26,23 @@ If you have been offered our services through one of our marketing partners or a
 
 #### Log Files
 
-We log IP addresses (a unique number assigned to every computer on the Internet) in order to improve security, analyze trends and administer our offers. We may track your movement within the site, the pages from which you were referred, access times and browser types. We only use this information in aggregate and do not link it to you personally. 
+We log IP addresses in order to improve security, analyze trends and administer our offers. We may track your movement within the site, the pages to and from which you are referred, access times and browser type. We (or a third party platform we work with) also may place cookies (discussed below) on your web browser, and assign a unique identifier (a “UID”) to those cookies. These UIDs may be used, for instance, to customize content or marketing to you. 
 
 #### Cookies
 
-RewardSurvey, like most other Web sites, use cookies when you visit our site. Cookies are small bits of data that remain on your computer hard drive that allow us to make your visit to our site more enjoyable and provide you with a more personalized experience on the site. Cookies are used for various purposes, such as remembering information that you have already entered, for instance your password and preferences, so that you will not have to re-enter them every time you visit and keeping information previously provided for certain services available on the site. They also tell us general information about how users visit our site, such as which pages they've visited and what services they use, so we can further customize the information we provide. This will make our site more valuable to you, since the information provided will be tailored to your tastes. We never use cookies to collect additional personally identifiable information about you. If you do not want to accept cookies, you can set your browser to not accept cookies, or to notify you when a cookie is being sent. However, please note that despite such setting, our site does not respond to such requests and will continue to use cookies for tracking purposes even if you have set your browser to not allow them. You can also manually delete all cookie files from your computer whenever you choose. We use cookies only for your convenience and to enhance your visit to our site. 
+RewardSurvey, like most other Web sites, uses cookies when you visit our site. Cookies are small bits of data that remain on your computer hard drive that allow us to make your visit to our site more enjoyable and provide you with a more personalized experience. Cookies are used for various purposes, such as remembering information that you have already entered, for instance your password and preferences, so that you will not have to re-enter them every time you visit and keeping information previously provided for certain services available on the site. They also tell us general information about how users visit our site, such as which pages they've visited and what services they use, so we can further customize the information we provide. This will make our site more valuable to you, since the information provided will be tailored to your tastes. Please note that despite such setting, our site does not respond to such requests and will continue to use cookies for tracking purposes even if you have set your browser to not allow them. You can also manually delete all cookie files from your computer whenever you choose. We use cookies only for your convenience and to enhance your visit to our site. 
 
 You can view Google's uses of information here: <https://policies.google.com/technologies/partner-sites>
 
+We may also use (or work with third party platforms that use) cookies for ad targeting purposes – such as to target ads to you (often through the use of a UID) when you are on one of our websites or another website. If you wish to opt out of these cookies, please go to the Section titled “Interest-Based Advertising and Your Marketing and Advertising Choices” below. 
+
+#### Combination of Information
+
+We may combine any of the information that we collect about you, such as your registration information and a UID. Sometimes, the third parties we work with will also combine information they collect about you – for instance, by connecting a UID they have used to identify your browser to information about your browser activity on other web pages. To opt out of this information being used for ad targeting purposes, please see the below section titled “Interest-Based Advertising and Your Marketing and Advertising Choices” below. We refer to all of the information that we describe and collect in this Privacy Policy as your “information.” 
+
 #### Use of Information
+
+We use the information we collect from you in the following ways:
 
   * RewardSurvey- We may use your information including email address for selecting future survey panels, marketing and other commercial purposes including renting or selling data on an individual or aggregated basis. RewardSurvey will share data with its parent company and any subsidiaries or affiliated companies owned by the same parent company. 
   * Contractual Relationships- We provide your information to, and make it available to, our third party service vendors with whom we have contractual relationships for the purpose of servicing or processing of your rewards. These vendors provide various services on our behalf such as customer service and web hosting. These vendors are not allowed to sell, rent or lease your personally identifiable information and are not permitted to use your information for any secondary purpose. 
@@ -44,6 +54,16 @@ You can view Google's uses of information here: <https://policies.google.com/tec
 
   
 
+
+#### Interest-Based Advertising and Your Marketing and Advertising Choices 
+
+a. Interest Based Advertising. We work with third party platforms to help serve advertising, which may be through display, email, direct mail, or other methods. These third party platforms use technologies like cookies and GIFs that we describe above. These platforms may use these technologies to (i) inform, optimize, and serve ads based on past visits to our services and other sites (or other information about you), (ii) serve ads on other sites, (iii) report how our advertising performs (for instance, whether advertising impressions may be related to visits to our Site other transactions or activities), or (iv) analyze website visits or ad campaigns in other ways. This type of advertising – i.e., using activity collected over time and across sites to serve more relevant ads – is often called “interest based advertising.” 
+
+Similarly, when we work with these ad platforms, we or they may place cookies (or similar technologies) that have been associated with de-identified (such as through “hashing” de-identification formulas) demographic or other data linked to or derived from data you voluntarily have submitted to us (e.g., your email address) and that we may share with a service provider to trigger or suppress an ad. Through these and other identifiers (which are de-identified but may have been derived from your contact information), service providers we work with may target, measure, or analyze advertising to you on a variety of other platforms (for our products or other products), such as through direct mail, email, or “connected” television channels, as well as social media platforms.
+
+b. Your Choices: Opting Out of Interest-Based Advertising. If you are interested in more information about tailored browser advertising and how you can generally control cookies from being put on your computer or mobile browser to deliver interest-based advertising, you may visit the [Network Advertising Initiative’s Consumer Opt-Out Link](http://www.networkadvertising.org/choices) and/or the [Digital Advertising Alliance’s Consumer Opt-Out Link](http://www.aboutads.info/choices) and on those sites, you may opt-out of receiving tailored advertising from companies that help serve those ads. Opting out in this way won’t prevent you from receiving ads – it will only (in many cases) make those ads less relevant, because they won’t be tailored to your interests. Also note that the above opt-outs are cookie-based, so if you delete your cookies (or change your browser), you’ll need to opt out again. We do not control any of the above opt-out links and are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.
+
+Further, we may work with data providers who collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive interest-based ads or content through web, mobile or other media channels. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt out of these data provider cookies, please visit <http://www.aboutads.info/choices> or <http://www.networkadvertising.org/choices>.
 
 #### Links
 
@@ -75,7 +95,7 @@ RewardSurvey is the owner of the information collected on this site. If you have
 
 #### Credit/debit card information
 
-Credit/debit card information is never shared with outside parties for promotional or other purposes unrelated to products you order. As explained above, when you order a magazine online, we will ask for your name, mailing address, your phone number and credit/debit card information. This information will be used only to process your order and send you the product you requested. We will not share credit/debit card information with anyone else (unless an outside company is part of the process of fulfilling your order). As an extra precaution, we use the latest SSL encryption technology for a secure online ordering environment.
+As explained above, when you place an order, we will ask for your name, mailing address, your phone number and credit/debit card information. This information will be used to process your order and send you the product you requested. We will share credit/debit card information with outside companies that are part of the process of fulfilling your order.
 
 To contact RewardSurvey by mail:  
 RewardSurvey  
