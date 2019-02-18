@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutrisystem.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001165754id_/https%3A//www.nutrisystem.com/jsps_hmr/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrisystem.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218032040id_/https%3A//www.nutrisystem.com/jsps_hmr/privacy/index.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Nutrisystem®
 
@@ -142,4 +142,5 @@ Privacy Policy last updated September 19, 2018
 
 Please also read the [Terms and Conditions](https://web.archive.org/jsps_hmr/terms/index.jsp) on the site to understand additional [Terms and Conditions](https://web.archive.org/jsps_hmr/terms/index.jsp) which apply to the use of our Site. 
 
-Lose weight fast. Money back guaranteed. details
+Lose weight fast.  
+Money back guaranteed. details
