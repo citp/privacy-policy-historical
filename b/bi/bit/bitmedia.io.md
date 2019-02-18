@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitmedia.io privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127133115id_/https%3A//bitmedia.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitmedia.io privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218085627id_/http%3A//bitmedia.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BitMedia.IO
 
@@ -31,6 +31,8 @@ BitMedia.IO may use your personal information to:
 
 
 
+The information given is stored only for the period of data processing.
+
 Where BitMedia.IO discloses your personal information to the third parties (agents or sub-contractors) for the abovementioned purposes, the third parties will be obliged to use that personal information in accordance with the requirements of this privacy statement.
 
 In addition to the disclosures reasonably necessary for the purposes identified above, BitMedia.IO may disclose your personal information to the extent required by law, in case of any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
@@ -41,13 +43,29 @@ BitMedia.IO will take reasonable technical and organisational precautions to pre
 
 BitMedia.IO will store all the personal information you provide on its secure servers.
 
-Information relating to electronic transactions conducted via this website will be protected by encryption technology.
+Information regarding electronic transactions carried out on this website will be protected by encryption technology. Encryption is accomplished through Transport Layer Security (TLS) to encrypt information. TLS is a protocol that ensures that a connection to a remote endpoint is securely encrypted in order to provide privacy and data integrity.
 
 ### Cross-border data transfers
 
 Information that BitMedia.IO collects may be stored, processed in and transferred between any of the countries in which BitMedia.IO operates. It is required to enable the use of the information in accordance with this privacy policy.
 
 It is provided that you agree to such cross-border transfers of personal information.
+
+### User Rights
+
+The User of the website has the following rights: 
+
+  * the right to be informed
+  * the right of access
+  * the right of rectification 
+  * the right to erasure
+  * the right to restrict processing
+  * the right to data portability
+  * the right to object
+
+
+
+To rectify or erase information the User shall address the support team with the following request via [support@bitmedia.io](mailto:support@bitmedia.io).
 
 ### Updating this statement
 
