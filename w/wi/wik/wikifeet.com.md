@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wikifeet.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202172310id_/http%3A//www.wikifeet.com/pwstatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikifeet.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218033540id_/https%3A//www.wikifeet.com/pwstatement.html) for the most accurate reproduction.*
 
 # Draft Privacy Statement
 
 **
 
-Privacy Statement of Loading 5% 
+Privacy Statement of Xenovian 
 
 _Statement No 59207_
 
@@ -16,16 +16,16 @@ _Statement No 59207_
 
 **
 
-Modern information and communication technologies play a fundamental role in the activities of an organisation like Loading 5% . We are based in Israel .  Our principal activities are: 
+Modern information and communication technologies play a fundamental role in the activities of an organisation like Xenovian . We are based in Israel .  Our principal activities are: 
 
   * Website programming 
   * Multimedia 
 
 
 
-Our privacy policy covers Loading 5% and its Web site: 
+Our privacy policy covers Xenovian and its Web site: 
 
-** Organisation Name:  |  Loading 5%   
+** Organisation Name:  |  Xenovian   
 ---|---  
 Address:  |  47 itzhak sadde st.   
 City, Zip:  |  Tel Aviv  ,  67066   
