@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mashinmedia.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704114112id_/http%3A//www.mashinmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashinmedia.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218132859id_/http%3A//www.mashinmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MashinMedia
 
@@ -40,4 +40,4 @@ Mumbai 400097,
 
 Maharashtra, India
 
-Email: info@mashinmedia.com or [Contact Us](http://www.mashinmedia.com/contact/)
+Email: info@mashinmedia.com or [Contact Us](https://www.mashinmedia.com/contact/)
