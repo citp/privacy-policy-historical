@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paulaschoice.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613033253id_/http%3A//www.paulaschoice.com/who-we-are/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulaschoice.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218035256id_/https%3A//www.paulaschoice.com/who-we-are/privacy.html%3Ffdid%3Dwho-we-are) for the most accurate reproduction.*
 
-# Privacy Policy: Paula's Choice Skincare & Cosmetics
+# Privacy & Security: Paula's Choice Skincare & Cosmetics | Paula's Choice
 
 Last modified: February 16, 2017
 
