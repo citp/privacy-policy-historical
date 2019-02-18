@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bdjobs.com privacy policy that was archived on 2018-08-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180815220229id_/http%3A//bdjobs.com/policy/Privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bdjobs.com privacy policy that was archived on 2019-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190218163313id_/http%3A//bdjobs.com/policy/Privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
     <meta charset="UTF-8">
@@ -79,7 +79,7 @@
                         
 							<li><a href="http://mybdjobs.bdjobs.com/" class="mybdjobs" target="_blank">My Bdjobs</a></li>
                         
-						<li><a href="http://bdjobstraining.com/" class="training" target="_blank">Training</a></li>
+						<li><a href="http://bdjobs.com/m_d_l/" class="training" target="_blank">Training</a></li>
 						<li><a href="http://corporate3.bdjobs.com/" class="corporate" target="_blank">Employers</a></li>
 					</ul>
 					<div class="topBar-right pull-right">
@@ -386,6 +386,12 @@ function setData_t() {
 	$("#trTra").addClass("disable").html("<a href='javascript:void(0);' style='cursor:default'><i class='icon-training'></i> Relevant Training : <span class='badge nf'>0</span></a>");
 	return true;
 }
+function setData_i() {
+	//SetCookie("II", "", 1);
+	$("#trII").addClass("disable").html("<a href='javascript:void(0);' style='cursor:default'><i class='icon-Invitation'></i> Interview Invitation : <span class='badge nf'>0</span></a>");
+	return true;
+}
+
 function SetCookie(cookieName, cookieValue, nDays) {
 	var today = new Date();
 	var expire = new Date();
@@ -414,6 +420,8 @@ function ReadCookie(cookieName) {
   $(function () {
     $('[data-toggle="popover"]').popover()
   });
+  
+  
 
   $(document).on("click",'.social-button .btn',function(){
         var $this = $(this);
@@ -958,25 +966,48 @@ function ReadCookie(cookieName) {
                         <li><a target="_blank" href="http://corporate3.bdjobs.com/services.asp">Products/Service</a></li>
                         <li><a target="_blank" href="http://corporate3.bdjobs.com/">Post a Job</a></li>
                         <li><a target="_blank" href="http://corporate3.bdjobs.com/help/help.asp">FAQ</a></li>
+                        <li>
+     <h5 class="app-heading">Download Employer App</h5>
+</li>
+<li>
+    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bdjobs.recruiter">
+           <img class="google-play-badge" src="http://bdjobs.com/icons/google-play-badge.svg" alt="">
+    </a>
+</li>
                     </ul>
                 </div>
                  	 <div class="col-md-3 col-sm-3">
                         <h4>Tools &amp; Social Media</h4>
                         <ul>
-                            <li><a target="_blank" href="http://www.bdjobs.com/apps/"><img class="footer-icon" src="/icons/bdjobs-android-app-color.svg" alt="App">Mobile App</a></li>
+                           <!-- <li><a target="_blank" href="http://www.bdjobs.com/apps/"><img class="footer-icon" src="/icons/bdjobs-android-app-color.svg" alt="App" />Mobile App</a></li>-->
+                           <li><a target="_blank" href="http://www.bdjobs.com/apps/"><img class="footer-icon" src="http://bdjobs.com/icons/bdjobs-android-app-color.svg" alt="App">Bdjobs Android App</a></li>
+<li><a target="_blank" href="http://bdjobs.com/apps/ios/index.html"><img class="footer-icon" src="http://bdjobs.com/icons/bdjobs-android-app-color.svg" alt="App">Bdjobs iOS App</a></li>
                             <li><a target="_blank" href="https://www.facebook.com/mybdjobs"><img class="footer-icon" src="/icons/facebook-color.svg" alt="Facebook">Facebook</a></li>
                             <li><a target="_blank" href="https://plus.google.com/+BdjobscomLtd"><img class="footer-icon" src="/icons/google-plus-color.svg" alt="Google Plus">Google+</a></li>
                             <li><a target="_blank" href="https://www.youtube.com/mybdjobs"><img class="footer-icon" src="/icons/youtube-color.svg" alt="Youtube">Youtube</a></li>
                             <li><a target="_blank" href="http://linkedin.com/company/mybdjobs"><img class="footer-icon" src="/icons/linkedin-color.svg" alt="LinkedIn">LinkedIn</a></li>
-                            <li>
+                            <!--<li>
                                 <h5 class="app-heading">Download Mobile App</h5>
                             </li>
                             <li>
                                 <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bdjobs.app">
-                                    <img class="google-play-badge" src="/icons/google-play-badge.svg" alt="">
+                                    <img class="google-play-badge" src="/icons/google-play-badge.svg" alt="" />
                                 </a>
                             </li>
-                            
+                            -->
+                            <li>
+    <h5 class="app-heading">Download Mobile App</h5>
+</li>
+<li>
+   <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bdjobs.app">
+          <img class="google-play-badge" src="http://bdjobs.com/icons/google-play-badge.svg" alt="">
+   </a>
+</li>
+<li>
+   <a target="_blank" href="https://itunes.apple.com/in/app/bdjobs/id1435728822?mt=8">
+       <img class="google-play-badge" src="http://bdjobs.com/icons/App-Store-Badge.svg" alt="">
+   </a>
+</li>
                         </ul>
                     </div>
                 <div class="col-md-12 col-sm-12">
