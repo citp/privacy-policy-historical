@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdjobs.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815220229id_/http%3A//bdjobs.com/policy/Privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdjobs.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218163313id_/http%3A//bdjobs.com/policy/Privacy_policy.asp) for the most accurate reproduction.*
 
 # bdjobs.com :: Largest Job Site in Bangladesh
 
