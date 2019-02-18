@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgtaxi.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118202658id_/https%3A//www.imgtaxi.com/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgtaxi.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218041141id_/https%3A//imgtaxi.com/page-privacy.html) for the most accurate reproduction.*
 
 # Privacy - ImgTaxi.com | Earn money by sharing images
 
