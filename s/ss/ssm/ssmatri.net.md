@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssmatri.net privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625013615id_/http%3A//ssmatri.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssmatri.net privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218115257id_/http%3A//ssmatri.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy and Policy | Brahmins Matrimony | Brahmins Swayamvaram | Chennai Matrimonials | Chennai Matrimoni | Hindu Matrimoni | Remarriage matrimony sites | Remarriage Matrimony | Physically Challenged Matrimony | Iyers Matimonys | Iyengar Matrimonys | Iyer Matimony Mebistes | Iyengar Matrimony Websites | Bride | Matrimony for physically disabled | Remarriages
 
@@ -16,23 +16,10 @@ ssmatri.com uses third-party advertising companies including Google, among other
 
 Google, as a third party vendor uses cookies to serve ads on ssmatri.com. Google's use of the DART cookie enables it to serve ads to the users based on their visit. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-[](http://www.mambalamsaiganesh.com/)
-
-## Sai Swarangal
-
-## Instrumental Music Orchestra 
-
-**Cell: 98843 70896**
-
-**Visit Our Website:[mambalamsaiganesh.com](http://www.mambalamsaiganesh.com/)**
-
-### Nephew of Founder   
-N. Panchapakesan 
-
 Chennai Sai Sankara Matrimonials : No 7, Old no 15/2, 9th Avenue, Ashok Nagar, Chennai - 600 083.  
-Phone : +91 44 2471 6920, 2471 9042, Mobile: +91 98403 30531(Founder),+91 98403 32531, E-Mail : [saisankara@gmail.com ](mailto:saisankara@gmail.com)  
+Phone : +91 44 2471 6920, 2471 9042, Mobile: +91 78100 40404, +91 98403 30531(Founder), E-Mail : [saisankara@gmail.com ](mailto:saisankara@gmail.com)  
 Timings: 10.00 A.M to 7.00 P.M Tuesday Holiday
 
-2016 © [Chennai Sai Sankara Matrimonials](http://www.ssmatri.com/) | [Privacy Policy](https://web.archive.org/web/20160625013615id_/http%3A//ssmatri.com/privacy-policy.php)
+2018 © [Chennai Sai Sankara Matrimonials](https://www.ssmatri.com/) | [Privacy Policy](https://web.archive.org/web/20190218115257id_/http%3A//ssmatri.com/privacy-policy.php)
 
 As the website uses advanced Java scripts, the website is best viewed at 1024 x 768 resolution in I.E 10 or above, Mozilla 3.5 or above, Google Chrome 3 or above, Safari 5.0 +
