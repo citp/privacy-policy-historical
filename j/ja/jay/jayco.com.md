@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jayco.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815163526id_/http%3A//www.jayco.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jayco.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218124743id_/http%3A//www.thorindustries.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Thor Industries
 
@@ -185,7 +185,7 @@ We may update this Policy periodically and without prior notice to you in order 
 
 If you have a request, question, concern, or complaint about our privacy practices or communications you are receiving from us, please contact us at:
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Privacy@ThorIndustries.com
 
 -or-
 
@@ -194,4 +194,4 @@ ATTN: IT Department,
 601 East Beardsley Avenue,  
 Elkhart, IN 46514
 
-Last modified: May 25, 2018
+Last modified: January 3, 2019
