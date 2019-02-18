@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitecom.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906233138id_/https%3A//www.sitecom.com/en/are-you-looking-for-a-solution-no-problem/63) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecom.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218075324id_/https%3A//www.sitecom.com/en/are-you-looking-for-a-solution-no-problem/63) for the most accurate reproduction.*
 
-# Sitecom - Are you looking for a solution? No problem.
+# Sitecom — Are you looking for a solution? No problem.
 
 Simplicity is what Sitecom is all about. That is why   
 we develop network products that are easy to use   
