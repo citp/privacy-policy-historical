@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the siyavula.com privacy policy that was archived on 2018-09-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180911010304id_/https%3A//www.siyavula.com/info/terms-and-conditions) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the siyavula.com privacy policy that was archived on 2019-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190218090348id_/https%3A//www.siyavula.com/info/terms-and-conditions) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="js backgroundsize bgsizecover blobconstructor blob-constructor canvas csscalc supports csstransforms3d flexbox inlinesvg svg svgclippaths no-opera-mini" style=""><head>
+<!DOCTYPE html><html class="js backgroundsize bgsizecover blobconstructor blob-constructor canvas csscalc supports csstransforms3d flexbox inlinesvg svg svgclippaths no-opera-mini" lang="en" prefix="og: http://ogp.me/ns#" style=""><head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
@@ -33,7 +33,7 @@
 
 
     
-      <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KXZZVGF"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+      <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KXZZVGF"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
         (function() {
           document.documentElement.className = 'no-js';
           document.createElement('picture');
@@ -63,44 +63,90 @@
       
         
           <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-27592478-3', 'auto');
-  ga('require', 'linkid'); // Enhanced link attribution
-  ga('require', 'ec'); // Enhanced ecommerce
-  
-    ga('set', {'dimension6': 'loggedout'});
-  
-  ga('send', 'pageview');
-</script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  </script>
+
+  <script>
+    (function() {
+      var commands = [
+        ['create', 'UA-27592478-3', 'auto'],
+        ['require', 'linkid'],
+        ['require', 'ec'],
+        
+          ['set', {'dimension6': 'loggedout'}],
+        
+        ['set', {'dimension8':
+          (function() {
+            if (window.devicePixelRatio) {
+              for (var a = 0, b = [4, 3, 2, 1.5], c = b.length, d = window.devicePixelRatio; a < c; a++) {
+                if (d >= b[a]) {
+                  return b[a];
+                }
+              }
+              return 1;
+            }
+            if (window.matchMedia) {
+              for (var e = 0, f = [[4, '4/1', 384], [3, '3/1', 288], [2, '2/1', 192], [1.5, '3/2', 144]], g = f.length; e < g; e++) {
+                if (window.matchMedia('only screen and (-webkit-min-device-pixel-ratio: ' + f[e][0] + '), only screen and (-o-min-device-pixel-ratio: ' + f[e][1] + '), only screen and (min-resolution: ' + f[e][2] + 'dpi), only screen and (min-resolution: ' + f[e][0] + 'dppx)').matches) {
+                  return f[e][0];
+                }
+              }
+              return 1;
+            }
+            return 0;
+          })()
+        }],
+        
+        ['send', 'pageview']
+      ];
+
+      var transports = ['ga', 'gtm'];
+      transports.forEach(function(t) {
+        if (t === 'console') {
+          if (window.console) { console.log(JSON.stringify(commands, null, 2)); }
+        }
+        else if (t === 'ga') {
+          commands.forEach(function(c) { window.ga.apply(null, c); });
+        }
+      });
+    })();
+  </script>
         
 
         
+      
 
+      
         
-          <!-- Facebook Pixel Code -->
-<script>
-  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window,document,'script', 'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '301494283681823');
-  fbq('track', 'PageView');
-</script>
-<noscript>
- <img height="1"
-    width="1"
-    src="https://www.facebook.com/tr?id=301494283681823&amp;ev=PageView&amp;noscript=1"/>
-</noscript>
-<!-- End Facebook Pixel Code -->
+          <script>
+            var _rollbarConfig = {
+              accessToken: '62d03d316f624442835cddb673cd9fe4',
+              captureUncaught: true,
+              captureUnhandledRejections: true,
+              payload: {
+                
+                environment: 'Production'
+              }
+            };
+          </script>
+          <script src="/static/themes/emas/bower_components/rollbar/dist/rollbar.umd.min.js"></script>
         
       
     
 
     
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="apple-mobile-web-app-title" content="Siyavula">
+    <meta name="application-name" content="Siyavula">
+    <meta name="theme-color" content="#ffffff">
   </head>
   <body class="za-emas emas ">
     
@@ -117,6 +163,10 @@
       </svg>
     
 
+    <!--
+      
+      See: https://github.com/pallets/jinja/issues/352
+    -->
     
 
 
@@ -163,7 +213,7 @@
       </span>
       <ul>
         
-        <li><a class="primary-menu" id="mobile-header-practice-root">Practice</a><ul class="header-menu--practice header-menu--narrow"><li><a class="mobile-back secondary-menu">back</a></li><li><a href="/dashboard/maths" class="secondary-menu" id="mobile-header-practice-maths">Maths</a></li><li><a href="/dashboard/science" class="secondary-menu" id="mobile-header-practice-science">Science</a></li></ul></li><li><a class="primary-menu" id="mobile-header-exam-prep-root">Exam Prep</a><ul class="header-menu--practice header-menu--narrow"><li><a class="mobile-back secondary-menu">back</a></li><li><a href="/exam-prep/dashboard/maths" class="secondary-menu" id="mobile-header-practice-maths">Maths</a></li><li><a href="/exam-prep/dashboard/science" class="secondary-menu" id="mobile-header-practice-science">Science</a></li></ul></li><li><a class="primary-menu" id="mobile-header-textbooks-root">Textbooks</a><ul class="header-menu--textbooks"><li><a class="mobile-back secondary-menu">back</a></li><li><a class="secondary-menu">Maths</a><ul><li><a class="mobile-back tertiary-menu">back</a></li><li><a href="/read/maths/grade-10" class="tertiary-menu" id="mobile-header-textbooks-maths-10">Mathematics Grade 10</a></li><li><a href="/read/maths/grade-11" class="tertiary-menu" id="mobile-header-textbooks-maths-11">Mathematics Grade 11</a></li><li><a href="/read/maths/grade-12" class="tertiary-menu" id="mobile-header-textbooks-maths-12">Mathematics Grade 12</a></li><li><a href="/read/maths/grade-10-mathematical-literacy" class="tertiary-menu" id="mobile-header-textbooks-grade-10-mathematical-literacy">Mathematical Literacy Grade 10</a></li></ul></li><li><a class="secondary-menu">Science</a><ul><li><a class="mobile-back tertiary-menu">back</a></li><li><a href="/read/science/grade-10" class="tertiary-menu" id="mobile-header-textbooks-science-10">Physical Sciences Grade 10</a></li><li><a href="/read/science/grade-11" class="tertiary-menu" id="mobile-header-textbooks-science-11">Physical Sciences Grade 11</a></li><li><a href="/read/science/grade-12" class="tertiary-menu" id="mobile-header-textbooks-science-12">Physical Sciences Grade 12</a></li><li><a href="/read/science/grade-10-lifesciences" class="tertiary-menu" id="mobile-header-textbooks-science-lifesciences-grade-10">Life Sciences Grade 10</a></li></ul></li></ul></li><li><a class="primary-menu" id="mobile-header-features-root">Features</a><ul class="header-menu--features header-menu--narrow"><li><a class="mobile-back secondary-menu">back</a></li><li><a href="/features/practice" class="secondary-menu" id="mobile-header-info-features">For Learners and Parents</a></li><li><a href="/info/pricing-schools" class="secondary-menu" id="mobile-header-pricing-schools">For Teachers and Schools</a></li></ul></li><li><a href="/pricing" class="primary-menu" id="mobile-header-pricing">Pricing</a></li>
+        <li><a class="primary-menu" id="mobile-header-practice-root">Practice</a><ul class="header-menu--practice header-menu--narrow"><li><a class="mobile-back secondary-menu">back</a></li><li><a href="/dashboard/maths" class="secondary-menu" id="mobile-header-practice-maths">Maths</a></li><li><a href="/dashboard/science" class="secondary-menu" id="mobile-header-practice-science">Science</a></li></ul></li><li><a class="primary-menu" id="mobile-header-exam-prep-root">Exam Prep</a><ul class="header-menu--practice header-menu--narrow"><li><a class="mobile-back secondary-menu">back</a></li><li><a href="/exam-prep/dashboard/maths" class="secondary-menu" id="mobile-header-practice-maths">Maths</a></li><li><a href="/exam-prep/dashboard/science" class="secondary-menu" id="mobile-header-practice-science">Science</a></li></ul></li><li><a class="primary-menu" id="mobile-header-textbooks-root">Textbooks</a><ul class="header-menu--textbooks"><li><a class="mobile-back secondary-menu">back</a></li><li><a class="secondary-menu">Maths</a><ul><li><a class="mobile-back tertiary-menu">back</a></li><li><a href="/read/maths/grade-10" class="tertiary-menu" id="mobile-header-textbooks-maths-10">Mathematics Grade 10</a></li><li><a href="/read/maths/grade-11" class="tertiary-menu" id="mobile-header-textbooks-maths-11">Mathematics Grade 11</a></li><li><a href="/read/maths/grade-12" class="tertiary-menu" id="mobile-header-textbooks-maths-12">Mathematics Grade 12</a></li><li><a href="/read/maths/grade-10-mathematical-literacy" class="tertiary-menu" id="mobile-header-textbooks-grade-10-mathematical-literacy">Mathematical Literacy Grade 10</a></li></ul></li><li><a class="secondary-menu">Science</a><ul><li><a class="mobile-back tertiary-menu">back</a></li><li><a href="/read/science/grade-10" class="tertiary-menu" id="mobile-header-textbooks-science-10">Physical Sciences Grade 10</a></li><li><a href="/read/science/grade-11" class="tertiary-menu" id="mobile-header-textbooks-science-11">Physical Sciences Grade 11</a></li><li><a href="/read/science/grade-12" class="tertiary-menu" id="mobile-header-textbooks-science-12">Physical Sciences Grade 12</a></li><li><a href="/read/science/grade-10-lifesciences" class="tertiary-menu" id="mobile-header-textbooks-science-lifesciences-grade-10">Life Sciences Grade 10</a></li></ul></li></ul></li><li><a class="primary-menu" id="mobile-header-features-root">Features</a><ul class="header-menu--features header-menu--narrow"><li><a class="mobile-back secondary-menu">back</a></li><li><a href="/features/examprep" class="secondary-menu" id="mobile-header-info-features">For Learners and Parents</a></li><li><a href="/info/pricing-schools" class="secondary-menu" id="mobile-header-pricing-schools">For Teachers and Schools</a></li></ul></li><li><a href="/pricing" class="primary-menu" id="mobile-header-pricing">Pricing</a></li>
         
       </ul>
     </div>
@@ -209,7 +259,7 @@
 
       <div class="header-menu-wrapper">
         <ul class="sf-menu sf-arrows header-menu">
-          <li><a href="/dashboard" class="sf-with-ul" id="header-practice-root">Practice</a><ul class="header-menu--practice header-menu--narrow"><li><a href="/dashboard/maths" id="header-practice-maths">Maths</a></li><li><a href="/dashboard/science" id="header-practice-science">Science</a></li></ul></li><li><a href="/exam-prep/dashboard" class="sf-with-ul" id="header-exam-prep-root">Exam Prep</a><ul class="header-menu--practice header-menu--narrow"><li><a href="/exam-prep/dashboard/maths" id="header-practice-maths">Maths</a></li><li><a href="/exam-prep/dashboard/science" id="header-practice-science">Science</a></li></ul></li><li><a href="/read" class="sf-with-ul" id="header-textbooks-root">Textbooks</a><ul class="header-menu--textbooks"><li><section><h1>Maths</h1><ul><li><a href="/read/maths/grade-10" id="header-textbooks-maths-10">Mathematics Grade 10</a></li><li><a href="/read/maths/grade-11" id="header-textbooks-maths-11">Mathematics Grade 11</a></li><li><a href="/read/maths/grade-12" id="header-textbooks-maths-12">Mathematics Grade 12</a></li><li><a href="/read/maths/grade-10-mathematical-literacy" id="header-textbooks-grade-10-mathematical-literacy">Mathematical Literacy Grade 10</a></li></ul></section></li><li><section><h1>Science</h1><ul><li><a href="/read/science/grade-10" id="header-textbooks-science-10">Physical Sciences Grade 10</a></li><li><a href="/read/science/grade-11" id="header-textbooks-science-11">Physical Sciences Grade 11</a></li><li><a href="/read/science/grade-12" id="header-textbooks-science-12">Physical Sciences Grade 12</a></li><li><a href="/read/science/grade-10-lifesciences" id="header-textbooks-science-lifesciences-grade-10">Life Sciences Grade 10</a></li></ul></section></li></ul></li><li><a href="/features/practice" class="sf-with-ul" id="header-features-root">Features</a><ul class="header-menu--features header-menu--narrow"><li><a href="/features/practice" id="header-info-features">For Learners and Parents</a></li><li><a href="/info/pricing-schools" id="header-pricing-schools">For Teachers and Schools</a></li></ul></li><li><a href="/pricing" id="header-pricing">Pricing</a></li>
+          <li><a href="/dashboard" class="sf-with-ul" id="header-practice-root">Practice</a><ul class="header-menu--practice header-menu--narrow"><li><a href="/dashboard/maths" id="header-practice-maths">Maths</a></li><li><a href="/dashboard/science" id="header-practice-science">Science</a></li></ul></li><li><a href="/exam-prep/dashboard" class="sf-with-ul" id="header-exam-prep-root">Exam Prep</a><ul class="header-menu--practice header-menu--narrow"><li><a href="/exam-prep/dashboard/maths" id="header-practice-maths">Maths</a></li><li><a href="/exam-prep/dashboard/science" id="header-practice-science">Science</a></li></ul></li><li><a href="/read" class="sf-with-ul" id="header-textbooks-root">Textbooks</a><ul class="header-menu--textbooks"><li><section><h1>Maths</h1><ul><li><a href="/read/maths/grade-10" id="header-textbooks-maths-10">Mathematics Grade 10</a></li><li><a href="/read/maths/grade-11" id="header-textbooks-maths-11">Mathematics Grade 11</a></li><li><a href="/read/maths/grade-12" id="header-textbooks-maths-12">Mathematics Grade 12</a></li><li><a href="/read/maths/grade-10-mathematical-literacy" id="header-textbooks-grade-10-mathematical-literacy">Mathematical Literacy Grade 10</a></li></ul></section></li><li><section><h1>Science</h1><ul><li><a href="/read/science/grade-10" id="header-textbooks-science-10">Physical Sciences Grade 10</a></li><li><a href="/read/science/grade-11" id="header-textbooks-science-11">Physical Sciences Grade 11</a></li><li><a href="/read/science/grade-12" id="header-textbooks-science-12">Physical Sciences Grade 12</a></li><li><a href="/read/science/grade-10-lifesciences" id="header-textbooks-science-lifesciences-grade-10">Life Sciences Grade 10</a></li></ul></section></li></ul></li><li><a href="/features/examprep" class="sf-with-ul" id="header-features-root">Features</a><ul class="header-menu--features header-menu--narrow"><li><a href="/features/examprep" id="header-info-features">For Learners and Parents</a></li><li><a href="/info/pricing-schools" id="header-pricing-schools">For Teachers and Schools</a></li></ul></li><li><a href="/pricing" id="header-pricing">Pricing</a></li>
         </ul>
       </div>
         <div class="header-user-menu-wrapper header-user-menu-wrapper--signed-out sv">
@@ -237,9 +287,11 @@
 
     
       
+        
 
 
   
+      
     
 
     
@@ -247,6 +299,7 @@
         <div class="sv-view sv-view--info sv-view--page-terms-and-conditions">
           <header class="sv-page-header">
             <h1 class="sv-heading">Terms and Conditions, Privacy Policy and Promotions</h1>
+            
           </header>
 
           
@@ -263,7 +316,7 @@
                   <div class="sv-panel__body">
                     
 
-  
+    
 <ul class="sv-list">
     
 <li class="sv-list-item has-children">
@@ -367,6 +420,41 @@
     
 <li class="sv-list-item">
     <a href="#8-general">8. General</a>
+</li>
+</ul>
+</li>
+    
+<li class="sv-list-item has-children">
+    <a href="##1millionmaths-campaign-and-competition"><span class="icon icon-menu-right" aria-hidden="true"></span>#1MillionMaths campaign and competition</a>
+    
+<ul class="sv-list">
+    
+<li class="sv-list-item">
+    <a href="#introduction">Introduction</a>
+</li>
+    
+<li class="sv-list-item">
+    <a href="#opt-in">Opt-in</a>
+</li>
+    
+<li class="sv-list-item">
+    <a href="#date-and-duration-the-period">Date and duration (The Period)</a>
+</li>
+    
+<li class="sv-list-item">
+    <a href="#free-access">Free Access</a>
+</li>
+    
+<li class="sv-list-item">
+    <a href="#prizes">Prizes</a>
+</li>
+    
+<li class="sv-list-item">
+    <a href="#leaderboards">Leaderboards</a>
+</li>
+    
+<li class="sv-list-item">
+    <a href="#support">Support</a>
 </li>
 </ul>
 </li>
@@ -647,6 +735,50 @@
 <li>In the event of a dispute, our decision will be final and binding on all aspects of this promotional offer and no correspondence will be entered into.</li>
 <li>This Offer cannot be used together with any other similar offer or campaign promoted by us.</li>
 </ol>
+<h2 id="#1millionmaths-campaign-and-competition">#1MillionMaths campaign and competition</h2>
+<h3 id="introduction">Introduction</h3>
+<p>Siyavula runs an annual campaign and competition called '#1MillionMaths', hereafter referred to as 'The Promotion'.</p>
+<h3 id="opt-in">Opt-in</h3>
+<ol>
+<li>In order to be eligible for prizes or to be listed on the leaderboards, you have to opt in. By opting in, you are explicitly agreeing to these terms and conditions and the general terms of use of Siyavula.com as well as Siyavula’s Privacy Policy.</li>
+<li>By opting in, you explicitly agree to have your first name, last name, school (where applicable) and position displayed on a public leaderboard.</li>
+</ol>
+<h3 id="date-and-duration-the-period">Date and duration (The Period)</h3>
+<ol>
+<li>The Promotion runs annually during one whole regular calendar month. The beginning and end date are determined by Siyavula throughout the course of the year and the date range is subject to change without notice.</li>
+<li>The second annual #1MillionMaths campaign and competition will run from 01 October 2018 to 31 October 2018.</li>
+</ol>
+<h3 id="free-access">Free Access</h3>
+<ol>
+<li>During the entire month of October 2018, <em>all</em> users of Siyavula will enjoy free and unlimited access to Siyavula Practice Mathematics and Physical Science.</li>
+<li>Only questions answered in Siyavula Practice Mathematics will count towards the tally of The Promotion.</li>
+<li>The free access during The Promotion is not applicable to Exam Prep.</li>
+</ol>
+<h3 id="prizes">Prizes</h3>
+<ol>
+<li>Siyavula offers and dispenses prizes entirely at its own discretion. Siyavula reserves any and all rights to the offering and dispensation of prizes and reserves the rights to withhold prizes from any person or party for any reason whatsoever.</li>
+<li>Siyavula's decision is final and no correspondence will be entered into with regard to the prizes or the leaderboards.</li>
+<li>Prizes are not transferable and no substitutions or cash equivalents are permitted.</li>
+<li>Winners will be notified within 5 days of the prize draw. Winners will be notified by telephone, email or SMS. In case of the unavailability of any prize, Siyavula reserves the right to substitute a prize of equal or greater value.</li>
+<li>Employees of Siyavula, sponsors, advertising, promotion and production agencies, and their agents and immediate families (spouses, parents, children and siblings and their spouses) are not eligible to participate in the prize drawing.</li>
+<li>The prizewinner must accept that that his/her name and/or likeness may be announced in literature or on the Internet, including on the Siyavula social media accounts or homepage, for publicity or advertising purposes without additional compensation, except where prohibited by law.</li>
+<li>There is no purchase necessary to be eligible for prizes.</li>
+<li>In order to be eligible for prizes, users must have practised themselves on Siyavula Practice.</li>
+<li>Redoing the same question repeatedly will disqualify the user from any prize draws.</li>
+<li>Only Learners and Teachers on the Siyavula Practice platform are eligible for prizes.</li>
+<li>The closing date for an entry is midnight (SAT) on 31 October 2018. Winners will be selected in a random drawing from all eligible entries received by the closing date and throughout The Period.</li>
+<li>Should the prize winner not respond to messages (email, SMS, Siyavula inbox, and/or Facebook inbox) within 1 month of being notified of a prize, Siyavula reserves the right to disqualify the prizewinner from that particular prize.</li>
+<li>Users have to opt into (agree to) being listed on #1MillionMaths leaderboards in order to be eligible for prizes; eligibility for prizes is not automatic.</li>
+</ol>
+<h3 id="leaderboards">Leaderboards</h3>
+<ol>
+<li>The leaderboards for users are generated automatically by the Siyavula Practice system.</li>
+<li>No correspondence will be entered into for disputing or calling into question the position of any user on the leaderboard</li>
+</ol>
+<h3 id="support">Support</h3>
+<ol>
+<li>If you feel that something may be amiss with our platform or you would like to report an error, please click on the orange icon in the bottom-right corner of your screen and let us know what you feel is behaving strangely. Alternatively, you can contact us here.</li>
+</ol>
 
             </div>
           </div>
@@ -670,68 +802,74 @@
 
 
 
-  <div class="wrapper clearfix">
+  <div class="wrapper">
 
 
-  <section class="footer-help">
-    <ul class="sv-list">
-      <li class="sv-list-item">
-        <a href="/info/frequently-asked-questions" id="footer-frequently-asked-questions">Frequently Asked Questions</a>
-      </li>
-      <li class="sv-list-item">
-        <a href="/info/learners-guide" id="footer-learners-guide">Help for Learners</a>
-      </li>
-      
-        <li class="sv-list-item">
-          <a href="/info/teachers-guide" id="footer-teachers-guide">Help for Teachers</a>
-        </li>
-      
-    </ul>
-  </section>
+  <div class="sv-grid">
+    <div class="sv-cell sv-cell--1">
+      <section class="footer-help">
+        <ul class="sv-list">
+          <li class="sv-list-item">
+            <a href="/info/frequently-asked-questions" id="footer-frequently-asked-questions">Frequently Asked Questions</a>
+          </li>
+          <li class="sv-list-item">
+            <a href="/info/learners-guide" id="footer-learners-guide">Help for Learners</a>
+          </li>
+          
+            <li class="sv-list-item">
+              <a href="/info/teachers-guide" id="footer-teachers-guide">Help for Teachers</a>
+            </li>
+          
+        </ul>
+      </section>
+    </div>
+    <div class="sv-cell sv-cell--2">
+      <section class="footer-company">
+        <ul class="sv-list">
+          <li class="sv-list-item">
+            <a href="/features" id="footer-features">Features</a>
+          </li>
+          <li class="sv-list-item">
+            <a href="/pricing" id="footer-pricing">Pricing</a>
+          </li>
+          <li class="sv-list-item">
+            <a href="http://www.siyavula.com/about.html" id="footer-about">About Siyavula</a>
+          </li>
 
-  <section class="footer-company">
-    <ul class="sv-list">
-      <li class="sv-list-item">
-        <a href="/features" id="footer-features">Features</a>
-      </li>
-      <li class="sv-list-item">
-        <a href="/pricing" id="footer-pricing">Pricing</a>
-      </li>
-      <li class="sv-list-item">
-        <a href="http://www.siyavula.com/about.html" id="footer-about">About Siyavula</a>
-      </li>
-
-      <li class="sv-list-item">
-        <a href="/contact-info" id="footer-contact">Contact Us</a>
-      </li>
-    </ul>
-  </section>
-
-  <section class="footer-social">
-    <p>Follow Siyavula:</p>
-    <ul class="sv-list">
-      <li class="sv-list-item">
-        <a class="sv-foo-button sv-foo-button--twitter" href="https://twitter.com/Siyavula" id="footer-twitter" aria-label="Twitter">
-          <span class="sv-foo-button__icon-container sv-foo-button__icon-container--left">
-            <span class="icon icon-twitter " aria-hidden="true" title=""></span>
-          </span>
-          <span class="sv-foo-button__label">
-            Twitter
-          </span>
-        </a>
-      </li>
-      <li class="sv-list-item">
-        <a class="sv-foo-button sv-foo-button--facebook" href="https://www.facebook.com/siyavula?fref=ts" id="footer-facebook" aria-label="Facebook">
-          <span class="sv-foo-button__icon-container sv-foo-button__icon-container--left">
-            <span class="icon icon-facebook " aria-hidden="true" title=""></span>
-          </span>
-          <span class="sv-foo-button__label">
-            Facebook
-          </span>
-        </a>
-      </li>
-    </ul>
-  </section>
+          <li class="sv-list-item">
+            <a href="/contact-info" id="footer-contact">Contact Us</a>
+          </li>
+        </ul>
+      </section>
+    </div>
+    <div class="sv-cell sv-cell--3">
+      <section class="footer-social">
+        <p>Follow Siyavula:</p>
+        <ul class="sv-list">
+          <li class="sv-list-item">
+            <a class="sv-foo-button sv-foo-button--twitter" href="https://twitter.com/Siyavula" id="footer-twitter" aria-label="Twitter">
+              <span class="sv-foo-button__icon-container sv-foo-button__icon-container--left">
+                <span class="icon icon-twitter " aria-hidden="true" title=""></span>
+              </span>
+              <span class="sv-foo-button__label">
+                Twitter
+              </span>
+            </a>
+          </li>
+          <li class="sv-list-item">
+            <a class="sv-foo-button sv-foo-button--facebook" href="https://www.facebook.com/siyavula?fref=ts" id="footer-facebook" aria-label="Facebook">
+              <span class="sv-foo-button__icon-container sv-foo-button__icon-container--left">
+                <span class="icon icon-facebook " aria-hidden="true" title=""></span>
+              </span>
+              <span class="sv-foo-button__label">
+                Facebook
+              </span>
+            </a>
+          </li>
+        </ul>
+      </section>
+    </div>
+  </div>
 
   <section class="footer-legal">
     
