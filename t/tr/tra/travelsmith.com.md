@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelsmith.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001172855id_/http%3A//www.travelsmith.com/category/get-to-know-us/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsmith.com privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218042309id_/https%3A//www.travelsmith.com/category/get-to-know-us/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy | Get To Know Us | Travel Smith
 
