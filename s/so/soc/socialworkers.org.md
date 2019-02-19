@@ -1,71 +1,47 @@
-> *The following text is extracted and transformed from the socialworkers.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125142139id_/http%3A//www.socialworkers.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialworkers.org privacy policy that was archived on 2019-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190219061820id_/https%3A//www.socialworkers.org/Privacy) for the most accurate reproduction.*
 
-# NASW Privacy Policy
+# Home Page
 
-### NASW Privacy Policy
+www.socialworkers.org is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the www.socialworkers.org site and governs data collection and usage. By using the www.socialworkers.org site, you consent to the data practices described in this statement.
 
-  1. What Information does NASW gather/collect on the web, and how is it used?
-  2. With whom does NASW share my member information?
-  3. How does NASW protect my member information?
-  4. How can I review, update and correct my member information?
-  5. What communication can I expect from NASW based on collected information?
-  6. How can I opt-out of NASW’s collection and dissemination of my member information?
+Collection of your Personal Information
 
+www.socialworkers.org collects personally identifiable information, such as your email address, name, home or work address or telephone number. www.socialworkers.org also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
+There is also information about your computer hardware and software that is automatically collected by www.socialworkers.org. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by www.socialworkers.org for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the www.socialworkers.org site.
 
-##### What Information does NASW gather/collect and how is it used?
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through www.socialworkers.org public message boards, this information may be collected and used by others. Note: www.socialworkers.org does not read any of your private online communications.
 
-**MEMBER INFORMATION:**  
-NASW is a membership organization. In order to provide resources to members, and to differentiate between members, NASW collects member information including mail and email address, phone number, birthdate, username, demographic and professional information, and certain member preferences. 
+www.socialworkers.org encourages you to review the privacy statements of Web sites you choose to link to from www.socialworkers.org so that you can understand how those Web sites collect, use and share your information. www.socialworkers.org is not responsible for the privacy statements or other content on Web sites outside of the www.socialworkers.org and www.socialworkers.org family of Web sites.
 
-Your mail and email address will be used to send you information relating to your NASW membership, based on the preferences you provide. See NASW communications and Opt-Out sections below for more information. 
+Use of your Personal Information
 
-**SESSION RECORDS:**  
-We collect user session connection information as a means to provide additional security to members. Collecting session information allows us the ability to automatically log out a user who may have forgotten to log out after pre-determined time of inactivity. 
+www.socialworkers.org collects and uses your personal information to operate the www.socialworkers.org Web site and deliver the services you have requested. www.socialworkers.org also uses your personally identifiable information to inform you of other products or services available from www.socialworkers.org and its affiliates. www.socialworkers.org may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-To maintain our quality of service, we may also gather additional data on connection information, including the timing and size of all packets sent over the Internet during a session. The gathered information is not correlated with personally identifiable data about individuals and is used only to ensure the highest quality experience possible at www.socialworkers.org. 
+www.socialworkers.org does not sell, rent or lease its customer lists to third parties. www.socialworkers.org may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, www.socialworkers.org may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to www.socialworkers.org, and they are required to maintain the confidentiality of your information.
 
-**SURVEYS:**  
-In addition to required member information, we may conduct surveys and ask users to volunteer demographic information to be used on an aggregate basis for internal member research. We use such information to better focus and personalize our service offered to each individual user. 
+www.socialworkers.org does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-**COOKIES:**  
-A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies.
+www.socialworkers.org keeps track of the Web sites and pages our customers visit within www.socialworkers.org, in order to determine what www.socialworkers.org services are the most popular. This data is used to deliver customized content and advertising within www.socialworkers.org to customers whose behavior indicates that they are interested in a particular subject area.
 
-We use cookies (small text files placed on your device) and similar technologies to provide our services and help collect data. By setting a cookie on our site, users would not have to log in a password more than once per session, thereby saving time while on our site. Cookies also allow us, among other things, to provide interest-based advertising; and analyze how our services are performing. We also use web beacons to help deliver cookies and gather usage and performance data about our products and services. Our services may include web beacons and cookies from third-party service providers. You have a variety of tools to control cookies, web beacons and similar technologies, including browser controls to block and delete cookies and controls from some third-party analytics service providers to opt out of data collection through web beacons. If users reject the cookie, they may still use our site. However, they will be limited in the use of certain areas of the website - like areas that require user logon. Your browser and other choices may impact your experiences with our services. 
+www.socialworkers.org Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on www.socialworkers.org or the site; (b) protect and defend the rights or property of www.socialworkers.org; and, (c) act under exigent circumstances to protect the personal safety of users of www.socialworkers.org, or the public.
 
-**TRAFFIC PATTERNS/LOG FILES:**  
-We also collect aggregate traffic statistics throughout our site to show the number of visitors to our site, the requests we receive from our website, and the ISPs that those requests came from. These statistics are used by internal NASW staff to improve our website and provide better services to members. 
+Use of Cookies
 
-##### With whom does NASW share my member information?
+The www.socialworkers.org Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-The National Office does not release information about a member other than to confirm her/ his status as a member of the Association in response to general public requests. In the context of approved Association business such as identification of members for leadership positions or public affairs or for established business partners such as the NASW Assurance Services, Inc. and Infocus Marketing, or affinity partners such as Commerce Bank, specific identifying information is provided in order to permit contact. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize www.socialworkers.org pages, or register with www.socialworkers.org site or services, a cookie helps www.socialworkers.org to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same www.socialworkers.org Web site, the information you previously provided can be retrieved, so you can easily use the www.socialworkers.org features that you customized.
 
-NASW partners with a vendor, InFocus Marketing, to manage mailing list requests. The National Office reviews each request from a third party organization or individual who seeks to promote to NASW members any professional materials, training products or services related to the field of Social Work, or to perform research specific to the profession of Social Work. If approved, NASW make membership postal addresses available for one-time use rental by the screened and vetted third party. Email addresses are not released to any third party; instead, an approved email message may be sent to members by NASW’s contracted service provider who acts on behalf of NASW. Members may have their name excluded from rental lists by updating their Communications Preferences in the NASW Member Center at [www.socialworkers.org](mailto:membership@naswdc.org), or or by contacting Member Services at 800-742-4089 or[membership@naswdc.org](mailto:membership@naswdc.org). 
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the www.socialworkers.org services or Web sites you visit.
 
-NASW is not able to control the practices of external websites and organizations to which we may provide links. If you have questions about how such organizations use the information gathered when you link to their sites please read their privacy policies. 
+Security of your Personal Information
 
-##### How does NASW secure member information?
+www.socialworkers.org secures your personal information from unauthorized access, use or disclosure. www.socialworkers.org secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-NASW and socialworkers.org take reasonable precautions to protect our users’ information. When our registration form asks members to enter member information (such as member id, username and password), that information is protected by encryption before being sent to us. Also, the member information you provide is stored in a secure location, and is accessible only by appropriate staff. 
+Changes to this Statement
 
-If you have any questions about the security at our Web site, you can send an email to membership@naswdc.org 
+www.socialworkers.org will occasionally update this Statement of Privacy to reflect company and customer feedback. www.socialworkers.org encourages you to periodically review this Statement to be informed of how www.socialworkers.org is protecting your information.
 
-##### How can I review, update and correct my member information?
+Contact Information
 
-Members can reset their username or password using the Password Reset tool on the Log-In page. Additionally, members can update all contact information; professional, education and demographic information; and communications preferences in the NASW Member Center at www.socialworkers.org, or by contacting NASW Member Services at (800) 742-4089 or membership@naswdc.org.
-
-##### What communication can I expect from NASW based on collected information?
-
-**Resources, Benefits, Special Offers and Updates**  
-Members will occasionally receive information on member benefits, programs, products and services. 
-
-**Renewal**  
-Members may be sent a courtesy email notifying them of an impending membership renewal/expiration date. Generally, members may not opt-out of these communications, which relate to the status of their account and are not promotional in nature. 
-
-Back to Top
-
-##### How can I opt-out of NASW’s collection and dissemination of my member information?
-
-Members may elect not to receive mail or email from NASW (except account notices as described above) by updating their preferences in the Member Center at www.socialworkers.org, or by contacting NASW Member Services at (800) 742-4089 or membership@naswdc.org. Members may also opt-out of receiving specific types of email by using the “Unsubscribe” option in included in every email they receive.
-
-This privacy policy is subject to change at the sole discretion of NASW. 
+www.socialworkers.org welcomes your comments regarding this Statement of Privacy. If you believe that www.socialworkers.org has not adhered to this Statement, please contact www.socialworkers.org at [administrator@naswdc.org](mailto:administrator@naswdc.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
