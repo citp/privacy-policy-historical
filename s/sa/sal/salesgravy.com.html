@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the salesgravy.com privacy policy that was archived on 2017-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170611044501id_/https%3A//www.salesgravy.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the salesgravy.com privacy policy that was archived on 2019-02-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190219195312id_/https%3A//www.salesgravy.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -31,110 +31,81 @@ td.gsc-input {width:none;}
 </style>
 <!--[if IE 7]><link href="css/ie7.css" rel="stylesheet" type="text/css"><![endif]-->
 <!--[if IE 8]><link href="css/ie8.css" rel="stylesheet" type="text/css"><![endif]-->
-
-<link rel="stylesheet" type="text/css" href="library/global.css">
-<link rel="stylesheet" type="text/css" href="library/homepage2.css">
-
-<script type="text/javascript" src="library/jquery.min.js"></script>
-<script type="text/javascript">
-
-	var ninterval = setInterval(function () { 
-			jQuery("#featuredEmployers A.next").trigger("click");
-			}, 5000);
-			
-	var promoSettings = {
-		zip: "",
-		city: "",
-		state: "",
-		employ: "",
-		employid: "",
-		cat: "",
-		age: "",
-		source: "bmktyp",
-		edu: "",
-		ret: "",
-		indust: "",
-		grad: "",
-		eth1: "",
-		eth2: "",
-		gender: "",
-		agegroup: "",
-		showpop: "1",
-		devMode: false,
-		bid: "",
-    ct1: "",
-    baid: "",
-    btid: "",
-		showTipTop: true
-	};
-</script>
-
-<script type="text/javascript" src="../library/jquery.tools.js"></script>
+   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 
 <script type="text/javascript">
-	// ad settings
-		promoSettings.showTipTop = false;
-		pageZone = "homepage";
-		function DoJBE(email, postalCode) {
-		}
-		
-		// on ready
-		$(document).ready(function () {
-		    // employer logos
-		    // append arrow image
-		    $('#featuredEmployers .scroller').append('<img id="activeLogo" src="nimages/logo-arrow.gif" alt="" style="margin-left:70px;" />');
-		    // vcenter logos
-		    jQuery(".spotLnk").each(function () {
-		        var logoURL = encodeURI(jQuery(this).find("img").attr("src"));
-		        jQuery(this).css({
-		            background: "#fff url(" + logoURL + ") center center no-repeat",
-		            height: "120px",
-		            width: "120px"
-		        }).find("img").hide();
-		    });
+function popUp(){
+    document.getElementById('post_a_job').style.right="1px";
+}
+function popOut(){
+    document.getElementById('post_a_job').style.right="-1px";   
+}
+jQuery.noConflict();
+ jQuery(document).ready(function(){
 
-		    // create scroller
-		    var logos = $('#featuredEmployers .scroller').scrollable({
-		        size: 3,
-		        keyboard: false,
-		        clickable: false
-		    }).circular({ api: true });
-		    updateLogoText();
-		    // fade out caption before scroll
-		    // replace and fade in after scroll
-		    logos.onBeforeSeek(function () {
-		        $('#logoText, #activeLogo').animate({ opacity: 0 }, { duration: 'normal' });
-		    }).onSeek(function () {
-		        updateLogoText();
-		        $('#logoText').animate({ opacity: 1 }, { duration: 'normal' });
-		        $('#activeLogo').css('bottom', '10px').animate({ bottom: 0, opacity: 1 }, { duration: 'fast' });
-		    });
-		    // get caption for highlighted logo
-		    function updateLogoText() {
-		        var logoText = logos.getVisibleItems().filter(':eq(2)').find('.spotAltInfo').html();
-		        $('#logoText').html(logoText);
-		    }
+ console.log("ready");
+    jQuery('body').addClass('expend_body');
 
-		    // scroller for job advice
-		    $('#jobAdvice .scroller').scrollable({
-		        size: 3,
-		        clickable: false,
-		        keyboard: false
-		    }).navigator({ navi: '.pagination' });
+    jQuery(".searchToggle").click(function(){
+        console.log("test");
+        jQuery(this).next().slideToggle();
+  
+    });
+});
 
-		    // needed for jbe display
-		    jQuery(".authenticationModal").authenticationModal({ defaultview: "micro", contextType: "jobalert", showonlydefault: true, options: { jbe: true} });
-				
-			
-		});
+
+function openNav() {
+    
+    jQuery('.open_nav_menu').attr('onclick','closeNav();');
+
+    if(jQuery(window).width() < 1024)
+    {
+        document.getElementById("mySidenav").style.width = "100%";
+    }
+    else
+    {
+        document.getElementById("mySidenav").style.width = "250px";
+       // document.getElementById("main").style.marginLeft = "250px";    
+    }
+}
+
+function closeNav() {
+    jQuery('.open_nav_menu').attr('onclick','openNav();');
+    document.getElementById("mySidenav").style.width = "0";
+           // document.getElementById("main_terms").style.margin = "0 auto";    
+          //  document.getElementById("main_terms").style.marginTop = "78px";    
+
+}
+
 </script>
 </head>
 <body class="privacy-statement">
-
+  <div id="mySidenav" class="sidenav">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">Close X</a>
+  <!-- <a href="#">About</a>
+  <a href="#">Services</a>
+  <a href="#">Clients</a>
+  <a href="#">Contact</a> -->
+   <!-- <div class="dropdown_fullwidth mgmenu_tabs" style="display: none;"> -->
+                            <!-- Begin Item Container -->
+<ul class="mgmenu_tabs_nav">
+<li class="home"><a class="current" href="https://www.salesgravy.com/">Home</a></li>
+<li class="salesg-univ"><a href="https://www.salesgravy.com/online-sales-training/">Sales Gravy University</a></li>
+<li class="sales-job"><a href="https://www.salesgravy.com/JobBoard/">Sales Jobs</a></li>
+<li class="sales-store"><a href="https://www.salesgravy.com/shop/">Sales Store</a></li>
+<li class="artcil"><a href="https://www.salesgravy.com/sales-articles/">Articles</a></li>
+<li class="prodcas"><a href="https://www.salesgravy.com/jeb-blount-sales-podcast">Podcasts</a></li>
+<li class="w-in-sale"><a href="https://www.salesgravy.com/women-in-sales/">Women in Sales</a></li>
+<li class="jeb-b"><a href="https://www.jebblount.com/">Jeb Blount</a></li>
+<li class="slaes-q"><a href="https://www.salesgravy.com/saleseq/">Sales EQ</a></li>
+<li class="fanantical"><a href="https://www.fanaticalprospecting.com/">Fanatical Prospecting</a></li>
+</ul>
+ <!-- </div> -->
+</div>
 
    <style type="text/css">
     .login-items {
-    border-right: none;
+
     height: 70px;
     margin-left: 0;
     margin-right: 0;
@@ -159,6 +130,7 @@ td.gsc-input {width:none;}
   -moz-box-shadow: 0 1px 6px rgba(0, 0, 0, .2);
   -o-box-shadow: 0 1px 6px rgba(0, 0, 0, .2);
 }
+
 div#main {
     margin-top: 30px !important;
 }
@@ -178,340 +150,27 @@ div#main {
     margin: 0 auto;
 }
 }
+.sidenav{
+    z-index: 9999;
+}
     </style>
   
+
 <div id="header">
   <div class="container-fluid head header-like clearfix">
-    <div class="mmlin">
-  <div class="mgmenu_fixed" id="mgmenu1">
+     <div class="mgmenu_fixed">
                 <ul class="mgmenu">
                     <!-- Begin Mega Menu -->
-                    <li class="mgmenu_button"></li>
                     <!-- Button (Mobile Devices) -->
-                    <li style="background:none;" class="name">
-                        <h1><a id="mm_link"><i class="fa fa-bars"></i></a></h1>
+                    <li onclick="openNav()" style="background:none;display:block;" class="open_nav_menu name">
+                        <h1 style="margin-top:9px;"><a class="contact-menu" id="mm_link"><img class="sales-logo" src="../salesgravy/images/menu-img.png" title="" alt=""></a></h1>
 
-                        <div class="dropdown_fullwidth mgmenu_tabs" style="display: none;">
-                            <!-- Begin Item Container -->
-                            <ul class="mgmenu_tabs_nav">
-                                <li><a class="current" href="#section1">Main Menu</a></li>
-                                <li><a href="#section2">Sales Gravy Job Board</a></li>
-                                <li><a href="#section5">Sales Gravy Store</a></li>
-                                <li><a href="#section6">Free Sales Resources</a></li>
-
-                            </ul>
-                            <div class="mgmenu_tabs_panels">
-                                <!-- Begin Panels Container -->
-                                <div id="section1">
-                                    <!-- Begin Section 1 -->
-                                    <div class="row-fluid show-grid">
-                                        <div class="span3 mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/online-sales-training/">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/training1.png">
-                                                    <div class="content">
-                                                        <h2>Sales Training</h2>
-                                                        <p>Comprehensive customer sales training solutions. Online. Classroom. Workshops. Boot camps style.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-
-                                        <div class="span3 mgdiv">
-                                            <div class="featurette">
-                                                <a href="https://www.salesgravy.com/JobBoard/">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/Sales-Jobs.png">
-                                                    <div class="content">
-                                                        <h2>Sales Jobs</h2>
-                                                        <p>Search thousands of sales jobs from top employers. Get a better sales job fast.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-
-                                        <div class="span3 mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/sales-onboarding">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/sales-onboarding.png">
-                                                    <div class="content">
-                                                        <h2>Sales Onboarding</h2>
-                                                        <p>Get your new salespeople ramped up and selling fast with new hire sales onboarding that works.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-
-                                        <div class="span3 mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/hiring-assessments">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/hirring-assessment.png">
-                                                    <div class="content">
-                                                        <h2>Hiring Assessments </h2>
-                                                        <p>Stop making costly mistakes with sales hiring and start identifying the sales rock stars that will help you build your dream team.
-                                                        </p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-
-                                    <div class="row-fluid show-grid">
-
-                                        <div class="span3 mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/shop/">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/Sales-Store.png">
-                                                    <div class="content">
-                                                        <h2>Sales Store</h2>
-                                                        <p>The Sales Store offers sales training programs, sales books, ebooks and sales audio programs from today's top sales trainers, speakers and experts.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-
-                                        <div class="span3 mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/sales-articles">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/resources.png">
-                                                    <div class="content">
-                                                        <h2> Free Resources</h2>
-                                                        <p>Get thousands of free sales articles and advice for top sales experts on Sales Gravy.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-
-                                    </div>
-
-                                </div>
-                                <!-- End Section 1 -->
-                                <div class="mgmenu_tabs_hide" id="section2">
-                                    <!-- Begin Section 2 -->
-
-                                    <div class="row-fluid show-grid">
-                                        <div class="span6 mgdiv">
-                                            <div class="featurette">
-                                                <a href="https://www.salesgravy.com/JobBoard/">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/job_search.png">
-                                                    <div class="content">
-                                                        <h2>Search Jobs</h2>
-                                                        <p>Browse sales job listings from thousands of top employers. Since 2006 we’ve helped more than a million sales professionals find better sales jobs.</p>
-
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="span6 mgdiv">
-                                            <div class="featurette">
-                                                <a href="https://www.salesgravy.com/JobBoard/employers/signup.php">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/micon1.png">
-                                                    <div class="content">
-                                                        <h2>Post Jobs</h2>
-                                                        <p>Need to find better salespeople fast? Post your sales jobs on Sales Gravy and reach the world’s largest sales talent community with one click.</p>
-
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row-fluid show-grid">
-
-                                        <div class="span6 mgdiv">
-                                            <div class="featurette">
-                                                <a href="https://www.salesgravy.com/JobBoard/myjobs/index.php">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/resume.png">
-                                                    <div class="content">
-                                                        <h2>Post Your Resume</h2>
-                                                        <p>Add your resume to the Sales Talent Community and get discovered by top employers and recruiters. Your next big career move could be one click away.</p>
-
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-
-                                        <div class="span6 mgdiv">
-                                            <div class="featurette">
-                                                <a href="https://www.salesgravy.com/JobBoard/index.php?page=login">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/login1.png">
-                                                    <div class="content">
-                                                        <h2>Login</h2>
-                                                        <p>Login to your Sales Gravy Job Board account here.</p>
-
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                                <!-- End Section 2 -->
-
-                                <div class="mgmenu_tabs_hide" id="section5">
-                                    <!-- Begin Section 4 -->
-                                    <!--
- <a href="https:/www.salesgravy.com/community">
- <img src="salesgravy../images/shop">
-</a> -->
-                                    <div class="row-fluid show-grid">
-                                        <div class="span4 mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/shop/">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/feature.png">
-                                                    <div class="content">
-                                                        <h2>Featured</h2>
-                                                        <p>The Sales Store offers sales training programs, sales books, ebooks and sales audio programs from today's top sales trainers, speakers and experts.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-
-                                        <div class="span4 mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/shop/home.php?cat=258">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/ebook.png">
-                                                    <div class="content">
-                                                        <h2>Sales eBooks</h2>
-                                                        <p>Sales oriented eBooks available for download. A must for every sales professional.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-
-                                        <div class="span4 mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/shop/home.php?cat=261">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/audio.png">
-                                                    <div class="content">
-                                                        <h2>Sales Audio</h2>
-                                                        <p>Instant download of audio programs from today's top sales experts.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row-fluid show-grid">
-                                        <div class="span4  mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/shop/home.php?cat=260">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/sales_book.png">
-                                                    <div class="content">
-                                                        <h2>Sales Books</h2>
-                                                        <p>The Sales Store offers books from today's best selling authors. We specialize in sales books, leadership books, career, sales training, and self help.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-
-                                        <div class="span4  mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/shop/home.php?cat=275">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/meeting.png">
-                                                    <div class="content">
-                                                        <h2>Sales Meetings</h2>
-                                                        <p>Products and Tools designed to help sales managers and leaders develop more effective sales team meetings.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="span4 mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/shop/home.php?cat=262">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/managment.png">
-                                                    <div class="content">
-                                                        <h2>Sales Management</h2>
-                                                        <p>Whether you are experienced or new to sales management, these Sales Store products are designed to help develop, coach, and lead great sales teams</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="mgmenu_tabs_hide" id="section6">
-                                    <!-- Begin Section 4 -->
-                                    <!--
- <a href="https:/www.salesgravy.com/community">
- <img src="salesgravy../images/shop">
-</a> -->
-                                    <div class="row-fluid show-grid">
-                                        <div class="span4  mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/sales-articles/">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/articles.png">
-                                                    <div class="content">
-                                                        <h2>Sales Articles</h2>
-                                                        <p>Get thousands of free sales articles and advice for top sales experts on Sales Gravy.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-
-                                        <div class="span4  mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/jeb-blount-sales-podcast">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/podcad.png">
-                                                    <div class="content">
-                                                        <h2>JEB BLOUNT’S PODCAST</h2>
-                                                        <p>Listen to the most downloaded sales podcast in the history of iTunes. New episodes weekly.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-
-                                        <div class="span4  mgdiv">
-                                            <div class="featurette">
-                                                <a href="//salesgravy.tradepub.com/category/sales/1216/">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/training1.png">
-                                                    <div class="content">
-                                                        <h2>FREE SALES PUBLICATIONS</h2>
-                                                        <p>Download free reports, magazines, book excerpts, and white papers on sales and sales leadership.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row-fluid show-grid">
-                                        <div class="span4  mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/sales-articles/how-to-submit-an-article-on-sales-gravy.html">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/article.png">
-                                                    <div class="content">
-                                                        <h2>Submit an Article</h2>
-                                                        <p>Sales Gravy is a great place to submit and publish articles on sales, selling, sales advice and leadership.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-
-                                        <div class="span4  mgdiv">
-                                            <div class="featurette">
-                                                <a href="//www.salesgravy.com/women-in-sales">
-                                                    <img width="103" height="103" src="https://www.salesgravy.com/JobBoard/include/themes/gravy../images/woman-icon.png">
-                                                    <div class="content">
-                                                        <h2>WOMEN IN SALES</h2>
-                                                        <p>Read the latest blog posts from the top women in sales.</p>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <!-- End Panels Container -->
-                        </div>
-                        <!-- End Item Container -->
 
                     </li>
 
                 </ul>
 
             </div>
- </div>
 
     <h1 class="logo">
       <a href="#"><img src="../images/salesgravy-logo.png" alt="SalesGravy"></a>
@@ -528,7 +187,7 @@ div#main {
     <li class="show-on-sm searchWrap">
                         <div class="login-items">
                             <span class="searchToggle">Search</span>
-                            <form id="headsearch" action="//www.google.com/cse" target="_blank">
+                            <form style="display: none;" id="headsearch" action="//www.google.com/cse" target="_blank">
                                 <input id="google_search" name="q" placeholder="Search.." type="text">
                                 <input value="014693350538059889995:rq-azi_hzji" name="cx" type="hidden">
                                 <input value="UTF-8" name="ie" type="hidden">
@@ -577,7 +236,7 @@ div#main {
                         </div>
                     </li>
                      <li>
-                        <div class="login-items">
+                        <div class="login-items hide-on-sm">
                             <a href="//www.salesgravy.com/JobBoard/index.php?page=login"> 
                                 <img src="../salesgravy/images/job-see.png"> 
                                 <p> JobSeeker Login</p>
@@ -644,6 +303,7 @@ There are cases where SalesGravy.com may ask you for personal information such a
 	</div>
 	</div>
 	</div>
+
  <div class="clearfix"></div>
  <footer>
         <div class="footer">
@@ -1105,4 +765,4 @@ Thomson, GA 30824<br>
 
 	<div id="box">			
 		<div id="box_m2" style="display:none;">
-			Access denied for user 'gravy_comnity'@'10.10.%' to database 'gravy_salescomnity'</div></div></body></html>
+			Access denied for user 'gravy_comnity'@'new-host.salesgravy.com' to database 'gravy_salescomnity'</div></div></body></html>
