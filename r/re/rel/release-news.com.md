@@ -1,103 +1,83 @@
-> *The following text is extracted and transformed from the release-news.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606080824id_/http%3A//www.release-news.com/business/release-news-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the release-news.com privacy policy that was archived on 2019-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190219151222id_/http%3A//www.release-news.com/business/release-news-privacy) for the most accurate reproduction.*
 
 # Release News Privacy
 
-Category: Business  Created: Wednesday, 01 April 2015 23:13 
+At Release News, accessible from [https://www.release-news.com](https://www.release-news.com/) and [http://www.releasenews.co.uk](http://www.releasenews.co.uk/), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Release News and how we use it.
 
-**What information do we collect?**
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at [andrew@release-news.com](mailto:andrew@release-news.com)
 
-We collect information from you when you register on our site.
+## General Data Protection Regulation (GDPR)
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. 
+We are a Data Controller of your information.
 
-**What do we use your information for?  **
+Release-News.com legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Information we collect and the specific context in which we collect the information:
 
-Any of the information we collect from you may be used in one of the following ways: 
+  * Release-News.com needs to perform a contract with you
+  * You have given Release-News.com permission to do so
+  * Processing your personal information is in Release-News.com legitimate interests
+  * Release-News.com needs to comply with the law
 
-; To process transactions
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-; To send periodic emails
+Release-News.com will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us.
 
-**How do we protect your information?  **
+In certain circumstances, you have the following data protection rights:
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+  * The right to access, update or to delete the information we have on you.
+  * The right of rectification.
+  * The right to object.
+  * The right of restriction.
+  * The right to data portability
+  * The right to withdraw consent
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
-**Do we use cookies?  **
+## Log Files
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Release News follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
 
-We use cookies to keep track of advertisements and.
+## Cookies and Web Beacons
 
-**Google AdSense**
+Like any other website, Release News uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
 
-Google Adsense is an advertising service provided by Google. www.example.com uses the “Doubleclick” Cookie, which tracks use of www.example.com and user behavior concerning ads, products and the services we offer.
+## Google DoubleClick DART Cookie
 
-You may decide to disable all the Doubleclick Cookies by clicking on: google.com/settings/ads/onweb/optout?hl=en.
+Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <https://policies.google.com/technologies/ads>
 
-Personal Data collected: Cookie and Usage Data. Place of processing: USA. You can find the AdSense here <http://google.com/privacy/ads/>
+## Privacy Policies
 
-**Do we disclose any information to outside parties?  **
+You may consult this list to find the Privacy Policy for each of the advertising partners of Release News.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Release News, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
-**Third party links  **
+Note that Release News has no access to or control over these cookies that are used by third-party advertisers.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+## Third Pary Privacy Policies
 
-**Your Consent  **
+Release News's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
 
-By using our site, you consent to our online privacy policy.
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?
 
-**Contacting Us  **
+## Children's Information
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
-http://www.release-news.com  
-Manchester  
-UK
+Release News does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
-This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
+## Online Privacy Policy Only
 
-**Cookie Policy**
+This privacy policy ([GDPR Privacy Policy created at GDPRPrivacyNotice.com](https://gdprprivacynotice.com/)) applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Release News. This policy is not applicable to any information collected offline or via channels other than this website.
 
-What Are Cookies?
+## Consent
 
-As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or 'break' certain elements of the sites functionality.
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.
 
-For more general information on cookies see the Wikipedia article on HTTP Cookies...
+## Payments & Transactions
 
-**How We Use Cookies**
+All our paid transactions are handled by Paypal, we do not collect or store any card details.
 
-We use cookies for a variety of reasons detailed below. Unfortunately in most cases there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used to provide a service that you use.
+## SSL
 
-**Disabling Cookies**
-
-You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of the this site. Therefore it is recommended that you do not disable cookies.
-
-**The Cookies We Set**
-
-If you create an account with us then we will use cookies for the management of the signup process and general administration. These cookies will usually be deleted when you log out however in some cases they may remain afterwards to remember your site preferences when logged out.
-
-We use cookies when you are logged in so that we can remember this fact. This prevents you from having to log in every single time you visit a new page. These cookies are typically removed or cleared when you log out to ensure that you can only access restricted features and areas when logged in.
-
-**Third Party Cookies**
-
-In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.
-
-This site uses Google Analytics which is one of the most widespread and trusted analytics solution on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content.
-
-For more information on Google Analytics cookies, see the official Google Analytics page.
-
-The Google AdSense service we use to serve advertising uses a DoubleClick cookie to serve more relevant ads across the web and limit the number of times that a given ad is shown to you.
-
-For more information on Google AdSense see the official Google AdSense privacy FAQ.
-
-We also use social media buttons and/or plugins on this site that allow you to connect with your social network in various ways. For these to work the following social media sites including; , will set cookies through our site which may be used to enhance your profile on their site or contribute to the data they hold for various purposes outlined in their respective privacy policies.
+This website is encrypted by secure SSL
