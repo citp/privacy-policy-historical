@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanning.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109153534id_/https%3A//spanning.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanning.com privacy policy that was archived on 2019-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190219132743id_/https%3A//spanning.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Spanning Cloud Apps, LLC
 
