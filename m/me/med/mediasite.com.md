@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mediasite.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220095719id_/http%3A//www.mediasite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediasite.com privacy policy that was archived on 2019-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190219080159id_/https%3A//www.mediasite.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Shield | Mediasite
+# Privacy Policy | Mediasite
 
 _**Information Collected from Other Sources**_
 
