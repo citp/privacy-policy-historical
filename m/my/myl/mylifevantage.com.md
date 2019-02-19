@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylifevantage.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117071913id_/http%3A//lifevantage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylifevantage.com privacy policy that was archived on 2019-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190219182405id_/http%3A//www.lifevantage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LifeVantage US
 
