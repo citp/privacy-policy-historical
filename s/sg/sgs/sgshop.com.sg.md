@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgshop.com.sg privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027235055id_/https%3A//www.sgshop.com/help%3Fhelp%3D67) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgshop.com.sg privacy policy that was archived on 2019-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190219200648id_/https%3A//www.sgshop.com/help%3Fhelp%3D67) for the most accurate reproduction.*
 
 # Help Center-SGshop
 
