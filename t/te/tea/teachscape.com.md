@@ -1,57 +1,67 @@
-> *The following text is extracted and transformed from the teachscape.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128115147id_/http%3A//www.teachscape.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachscape.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220003045id_/https%3A//www.frontlineeducation.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Frontline Technologies Group LLC
 
-### Your Privacy. It Matters.
+## **Frontline Technologies Group LLC**  
+**Privacy Policy**
 
-Teachscape, Inc. ("Teachscape", "we" or "us") understands that individuals with whom we conduct business value their privacy. Protecting your privacy is important to us. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the Teachscape Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
+The privacy of online visitors to our website (“Website Visitors”), to school districts and schools who purchase our Service (“Districts”), and to educators and students whose information we may access on behalf of a District (“Educators” and “Students”) is a high priority for Frontline Technologies Group LLC (“Frontline”).
 
-In general, you can visit the public areas of our website (the "Site") without divulging any personal information. However, there are areas of our Site that require this information to complete their customization functions. These areas are accessible only by registered users, and are known as the "Registered User Areas". Use of the Registered User Areas is prohibited unless you are a registered user, and may not be available to those choosing not to reveal the information requested.
+Frontline provides a platform that provides Districts with the best, most popular tools for employee management, all in one place.  Built specifically for K-12 districts, our tools help you get out of the administrative tasks and instead focus on advancing student growth through your employees.  We also provide online tools for educators to discover job opportunities and an online marketplace where educators can buy, sell and share valuable classroom resources and educational materials.  Educators and school administrators can then more efficiently manage administrative tasks and instead focus on advancing student growth through your employees.  As we describe below, Districts decide which data are integrated with Frontline, and Districts are responsible for determining whether data are ever shared with Frontline.
 
-### Why We Collect Personal Information
+ **Information We Collect**  
+_Information about Districts and Schools:_  We ask for certain information when a District administrator, Educator or other user registers with Frontline, or if the user corresponds with us online, which may include a name, school name, school district name, school email address and/or account name and password, phone number, and/or message content. We may also retain information provided by a District or School if the District or Schools sends us a message, posts content to our website or through our Service, or responds to emails or surveys. Once a District begins using the Frontline Service, we will keep records of activities related to the Service. We use this information to operate, maintain, and provide the features and functionality of the Service, to monitor our Service offerings, and to communicate with our Districts and website visitors. Frontline stores data provided by Educational Organizations related to teachers and other school employees, such as:
 
-Teachscape collects and uses your personal information to customize your experience on our Site, to give you superior customer service, to provide you with convenient access to our products and services, to respond to your requests for products or services, and to make a wider range of our products and services available to you. Persons with access to your user information may include agents of Teachscape who help us to provide services to you.
+  * Demographic information including the individual’s name, address, email address, and date of birth, social security number;
+  * Credentials obtained and the granting institution;
+  * Information about the individual’s employment with the Educational Organization;
+  * System usernames and passwords.
 
-In addition, we use your personal information to keep you up to date on the latest product announcements, software updates, special offers, and other information we think you would like to hear about. Lastly, we may use the information gathered when you register to use the Registered User Areas (and when you use those areas) for demographic, research and other analytical purposes. We may combine the information we collect with information from other sources. Some of the research and analysis we perform will be shared with potential clients, educational institutions and systems, service providers and government agencies; however, we will not identify you personally to any outside party with regard to any such information.
 
-### How We Collect Personal Information
 
-We collect information about you in several ways. We might ask for your contact information when you register with our Site, correspond with us, participate in one of our chat or online communities, call us to request service, register to attend a seminar, or participate in an online survey. At certain points throughout our Site, we might ask for your name, e-mail address, and other contact information. In order to access the registered areas of our Site, you are required to enter your username and password.
+ _Student Data:_  Frontline has access to personally identifiable information about students (“Student Data”) in the course of providing its services to a District. We consider Student Data to be confidential and do not use such data for any purpose other than to provide the services on the District’s behalf. Frontline receives Student Data only from the District and never interacts with the Student directly.  Frontline has access to Student Data only as requested by the District and only for the purposes of performing Services on the District’s behalf.  The data your Educational Organization stores on Frontline’s systems may include the following information about students and their guardians:
 
-### When We Disclose Personal Information
+  * Demographic information including name, mailing address, email address, and date of birth;
+  * Student education records including your student’s grades, class enrollment, and behavioral records;
+  * Health-related information required for Medicaid reimbursement
 
-As a general matter, most of the information that we gather about you will be used for our internal purposes only. At times we may share information regarding your use of our Site with your master licensee (e.g., your educational institute or school district) or the group through which you were provided access to our Site. Some of the research and analysis we perform will be shared with potential clients, educational institutions and systems, service providers and government agencies; however, we will not identify you personally to any outside party with regard to any such information.
 
-Though we make every effort to preserve your privacy, at times we may be required by law or legal process to disclose your personal information. We may also disclose information about you if we believe, in good faith, that disclosure is necessary for the protection of Teachscape or its rights, or the public.
 
-### How We Protect Your Personal Information
+ _  
+_Information collected through technology:_  We automatically collect certain types of usage information when visitors view our website or use our service. We may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Frontline help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information from your browser or mobile device each time you access the Service. Log file information may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, information about your mobile device, number of clicks and how you interact with links on the Service, pages viewed, and other such information. We may employ clear gifs (also known as web beacons), which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our Districts to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. We do not allow third party advertising networks to collect information about the users of our Site or Service._
 
-Teachscape uses reasonable efforts to safeguard the security of the data you send us with physical, electronic, and managerial procedures. We attempt to protect against the loss, misuse and alteration of your personal information. If you are a registered user, remember to sign off of our Site and close your browser window when you are finished to ensure that others cannot pose as you online. We urge you to take every precaution to protect your personal data when you are on the internet. Change your password often, use a combination of letters and numbers, and make sure you use a secure browser.
+We use or may use the data collected through cookies, log files, device identifiers, and clear gifs information to: (a) remember information so that a user will not have to re-enter it during subsequent visits; (b) provide custom, personalized content and information; (c) to provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, and usage on our website and our Service; (e) diagnose or fix technology problems; and (f) help users efficiently access information after signing in.
 
-### Access to Your Personal Information
+ **Disclosure to Third Parties**  
+Except for the ways outlined in this Privacy Policy, we will not disclose the information described in this section to any third party unless we believe that such action is necessary to (a) comply with a court order or other legal process served on us or assist government enforcement agencies; (b) investigate or prevent suspected illegal activities or protect the security and integrity of Frontline Education, Inc.; (c) enforce this Privacy Policy, our Terms of Service, or other such binding agreements; (d) take precautions against liability, investigate or defend against any third-party claims or allegations; or (e) exercise or protect the rights, property, or personal safety of Frontline, its employees, customers, or others.
 
-You always have access to the information we have about you. If you would like to review other personal information that we may have about you, or to opt-out of future communications, email us at info@teachscape.com.
+Frontline only shares information in the ways described in this Privacy Policy. We never sell personal information to third parties. Frontline stores such information in locations outside its facilities, such as on servers co-located with third-party hosting providers.
 
-### Collection of Non-Personal Information
+ **How We Protect Your Information**  
+_Data Protection:_  Frontline maintains strict administrative, technical and physical procedures to protect information stored in our servers.  Access to information is limited (through unique account credentials) to those employees who require it to perform their job functions. Additionally, we use unique account identifiers which attribute each user to a specific account. We have many unit and integration tests in place to ensure these privacy controls work as expected. These tests are run every time our codebase is updated and even one single test failing will prevent new code being shipped to production. We use industry-standard Transport Layer Security (TLS) encryption technology to safeguard the account registration process, sign-in information and data transmitted to Frontline servers. We store and process data in accordance with industry best practices. This includes appropriate administrative, physical, and technical safeguards to secure data from unauthorized access, disclosure, and use.  We will conduct periodic risk assessments and remediate any identified security vulnerabilities in a timely manner.
 
-When you browse the unregistered areas of our Site, you are able to do so anonymously. Generally, we don't collect personal information when you browse such areas. Your browser, however, does automatically tell us the type of computer and operating system you are using.
+ _Incident Response:_  We also have a written incident response plan, to include prompt notification of the Districts and Educators in the event of a security or privacy breach of protected information.
 
-Like many websites, the Teachscape Site uses "cookie" technology. When you first connect to our Site, the cookie identifies your browser with a unique, random number. The cookies we use do not reveal any personal information about you, except perhaps your first name so we can welcome you on your next visit. Cookies help us understand which areas of our Site are the most popular, where our visitors are going, and how long they spend there. We use cookies to study traffic patterns so we can make our Site even better.
+ _Review or Deletion of Records Maintained by Frontline:_  To review or update your information to ensure its accuracy or to correct any errors and omissions, please contact your Educational Organization directly. Requests sent to Frontline seeking a copy of such records, or demanding that Frontline modify or delete any records that it maintains will be forwarded directly to the appropriate Educational Organization. Please note that even when records are modified or deleted from Frontline’s active databases, copies may remain in data backups as necessary to comply with business or regulatory requirements.
 
-### Links to Other Websites
+ _Data Retention:_  We will not knowingly retain personal information beyond the time period required to support the authorized educational/school purposes.  Following termination or deactivation of a District account, Frontline may retain profile information and content for a commercially reasonable time for backup, archival, or audit purposes, but any and all Student Data associated with the District will be deleted promptly. We may maintain anonymized or aggregated data, including usage data, for analytics purposes.
 
-Our Site may contain links to third-party websites. We are not responsible for the content of such websites, and your use of the websites is subject to the privacy policies of those sites.
+Despite these precautions, no system can be completely secure and there remains a risk that unauthorized access or use, hardware or software failure, human error, or a number of other factors may compromise the security of your information.
 
-### Your California Privacy Rights
+ **Marketing and Promotions**  
+You may receive email communications for partner or internal promotions and you will always have the ability to opt out directly in the email message. Product related messages cannot be opted out of and will continue to keep you informed of important product updates.  We do not use or disclose student information collected for behavioral targeting of advertisements.
 
-If you are a California resident, you are entitled to prevent, through a cost-free means, sharing of your personal information with third-parties for their own marketing purposes. If you send a written request to Teachscape, Inc., 655 Montgomery St, 8th Floor, San Francisco, CA 94111, Attention: Chief Financial Officer, Teachscape will provide you with a California Customer Choice Notice that you can use to opt-out of such information sharing. Please allow thirty days for response.
+ **Links to Other Web Sites and Services**  
+Please remember that this privacy policy applies to the Frontline Services and Frontline website, and not other websites or third party applications, which may have their own Privacy Policies. You should carefully read the privacy practices of each third party application before agreeing to engage with the application through the Service.
 
-### Our Companywide Commitment to Privacy
+ **Updates to this Privacy Policy**  
+We may update or modify this Privacy Policy to reflect changes in the way Frontline maintains, uses, shares, or secures your information. Please check this Policy each time you interact with our systems to ensure that you are aware of any revisions. Prior to any material changes to this Policy becoming effective, Frontline will provide notice to your Educational Organization and allow it the opportunity to make choices regarding the data it stores with Frontline.
 
-To make sure your personal information remains confidential, we communicate these privacy guidelines to every Teachscape employee.
+ **How to Contact Us**  
+If you have questions about this Privacy Policy, please contact us by email, telephone, or postal mail:  
+Email:  [security@frontlineed.com](mailto:security@frontlineed.com)  
+Address:  
+1400 Atwater Drive  
+Malvern, PA 19533
 
-If we are going to use any personal information we have collected in a manner different from that stated at the time of collection, we will publish notice of such use on the Site.
-
-The site is not directed to children, and Teachscape does not knowingly solicit personal information from children under 13.
-
-The Teachscape Privacy Policy is subject to change at any time. We encourage you to review the Privacy Policy regularly for any changes. Your use of the Site after any such change means you agree to the Privacy Policy as changed.
+This privacy policy was last modified on November 2, 2016.
