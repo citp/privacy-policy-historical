@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the daily-choices.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216043044id_/http%3A//www.daily-choices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daily-choices.com privacy policy that was archived on 2019-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190219233729id_/http%3A//www.daily-choices.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Choices
 
 _(Last modified:   April 18, 2018)_
 
-This privacy policy (“ **Privacy Policy** “ or “ **Policy** ”) governs the data collection practices by us, Samyo News (“ **Company** ” or “ **we** ” or “ **us** ”), while you (“ **you** ” or “ **yours** ” or “ **user** ”) access and use our website.
+This privacy policy (“ **Privacy Policy** “ or “ **Policy** ”) governs the data collection practices by us, (“ **Company** ” or “ **we** ” or “ **us** ”), while you (“ **you** ” or “ **yours** ” or “ **user** ”) access and use our website.
 
 This Privacy Policy provides important and transparent disclosures on  **how**  or  **why**  we collect,  **share**  and  **use**  our users’ data. Our users’ privacy is important to us therefore we encourage you to read the Privacy Policy carefully prior to accessing or using our Website and use it to make informed decisions. By using or accessing the Website, you hereby agree to the terms of this Privacy Policy. Any use or continued use of the Website constitutes your agreement and consent to this Privacy Policy. This Privacy Policy constitutes an integral part of our [**_terms of use_**](http://www.daily-choices.com/terms-of-use/). Definitions herein shall have the same meaning as defined therein.
 
 _**ACCEPTANCE OF THE TERMS**_ _: BY ACCESSING OR USING  OUR WEBSITE, YOU HEREBY AGREE TO THE TERMS OF THIS PRIVACY POLICY AND TO THE COLLECTION AND USE OF CERTAIN INFORMATION, AS DESCRIBED IN THIS POLICY. ANY USE OR CONTINUED USE OF OUR WEBSITE CONSTITUTES YOUR AGREEMENT AND CONSENT TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THESE TERMS, PLEASE DO NOT ACCESS OR USE OUR WEBSITE OR ANY CONTENT PROVIDED BY THE COMPANY IN ANY MANNER._
 
-If you have any questions about this Policy, please contact us at: [**websites@samyonews.com**](mailto:websites@samyonews.com) (or as described below).
+If you have any questions about this Policy, please contact us at: [**info@daily-choices.com**](mailto:info@daily-choices.com) (or as described below).
 
 ### **INFORMATION COLLECTED AND STORED**
 
@@ -104,7 +104,7 @@ In the event you contact us and request to exercise any of your rights detailed 
 
 Please note that, you may be provided with different rights according to privacy protections laws in your jurisdiction.
 
-If you wish to be provided with more information , or you would like to exercise your rights, or in  the event that you have any additional complaints about your privacy rights, please initially contact us at: [**websites@samyonews.com**](mailto:websites@samyonews.com) or contact our **Data Protection Officer** at:  Yossi Zlotnick, [dpo@samyonews.com](mailto:dpo@samyonews.com)
+If you wish to be provided with more information , or you would like to exercise your rights, or in  the event that you have any additional complaints about your privacy rights, please initially contact us at: [**info@daily-choices.com**](mailto:info@daily-choices.com) or contact our **Data Protection Officer** at:  **[dpo](mailto:dpo@daily-choices.com)**[ **@daily-choices.com**](mailto:dpo@daily-choices.com)
 
 Please note that you have the right at any time to contact your local data protection authority.
 
@@ -136,7 +136,7 @@ We use physical, technical and administrative security measures for the Services
 
 #### **_CHILDREN_**
 
-You represent and warrant that,  if you are located in the US, you are at least 13 years of age; or if you are located in any other GEO you are above the age defined as “child” under applicable laws in your jurisdiction (collectively “ **Child(ren)** ”). If you are under 18, please be sure to read this Privacy Policy with your parents or legal guardians, and ask questions about things you do not understand. The Services are not directed or intended for Children, and we do not knowingly collect or solicit information from children.  In the event that we become aware that a user which is considered as a Child under applicable law has shared any information with us, we will discard such information. If you have any reason to believe that a Child has shared any information with us, please contact us at: [**websites@samyonews.com**](mailto:websites@samyonews.com)
+You represent and warrant that,  if you are located in the US, you are at least 13 years of age; or if you are located in any other GEO you are above the age defined as “child” under applicable laws in your jurisdiction (collectively “ **Child(ren)** ”). If you are under 18, please be sure to read this Privacy Policy with your parents or legal guardians, and ask questions about things you do not understand. The Services are not directed or intended for Children, and we do not knowingly collect or solicit information from children.  In the event that we become aware that a user which is considered as a Child under applicable law has shared any information with us, we will discard such information. If you have any reason to believe that a Child has shared any information with us, please contact us at: [**info**](mailto:info@daily-choices.com) **[@daily-choices.com](mailto:info@daily-choices.com)**
 
 #### **_DATA TRANSFER_**
 
@@ -154,8 +154,8 @@ We reserve the right to periodically amend or revise the Privacy Policy. The rev
 
 ** ** If you have any questions about this Privacy Policy, you may contact us at, in one of the following ways:
 
-  * through our [Contact Us](http://www.daily-choices.com/terms-of-use/) page; or
-  * send us an email: [**websites@samyonews.com**](mailto:websites@samyonews.com)
+  * through our [Contact Us](http://www.daily-choices.com/contact-us/?xcmg=1) page; or
+  * send us an email: [**info**](mailto:info@daily-choices.com) **[@daily-choices.com](mailto:info@daily-choices.com)**
 
 
 
@@ -163,6 +163,6 @@ We reserve the right to periodically amend or revise the Privacy Policy. The rev
 
 In addition to the above, if you wish to exercise your rights related to your Personal Information, or you have any requests regarding the collection of your information by us, you may contact our Data Protection Officer at:
 
-**Yossi Zlotnick,  **[ **dpo@samyonews.com**](mailto:dpo@samyonews.com)
+** **[ **dpo**](mailto:info@daily-choices.com) **[@daily-choices.com](mailto:dpo@daily-choices.com)**
 
 Please be sure to include your name, address and email address in any correspondence so that we can respond to your inquiry or request.
