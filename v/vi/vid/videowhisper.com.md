@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videowhisper.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129140045id_/https%3A//videowhisper.com/view.php%3Fp%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videowhisper.com privacy policy that was archived on 2019-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190219214004id_/https%3A//videowhisper.com/view.php%3Fp%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Webcam Site Plugins for Video Streaming, Chat, Conference, Recording, Presentation
 
