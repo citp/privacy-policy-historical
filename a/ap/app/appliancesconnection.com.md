@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliancesconnection.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207044626id_/https%3A//www.appliancesconnection.com/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliancesconnection.com privacy policy that was archived on 2019-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190219162742id_/https%3A//www.appliancesconnection.com/page-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Appliances Connection
 
@@ -98,7 +98,7 @@ We may update this privacy policy to reflect changes to our information practice
 
 ## Further Questions
 
-If you have a question that isn't answered here, please contact us and we'll be happy to answer it for you. You can e-mail us at [info@AppliancesConnection.com](mailto:info@AppliancesConnection.com), or call our Customer Service department at 1-800-299-9470. Additionally, you can mail us at the below address.
+If you have a question that isn't answered here, please contact us and we'll be happy to answer it for you. You can e-mail us at [info@AppliancesConnection.com](mailto:info@AppliancesConnection.com), or call our Customer Service department at 800-299-9470. Additionally, you can mail us at the below address.
 
 AppliancesConnection.com  
 1870 Bath Ave.  
