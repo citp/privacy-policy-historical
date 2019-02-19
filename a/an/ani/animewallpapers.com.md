@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910214143id_/https%3A//www.animewallpapers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2019-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190219064800id_/https%3A//www.animewallpapers.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy (Anime Wallpapers.com)
 
