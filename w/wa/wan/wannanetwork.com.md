@@ -1,33 +1,33 @@
-> *The following text is extracted and transformed from the wannanetwork.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224005753id_/http%3A//www.shelterrealty.com/disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wannanetwork.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220065401id_/https%3A//www.shelterrealty.com/disclosures) for the most accurate reproduction.*
 
-# Disclosures | Las Vegas Real Estate
+# Disclosures
 
-We Are Not The Government   
+We Are Not The Government  
 This Is Not An Offer To Lend
 
-**[**Download Fair Housing Booklet – CLICK HERE](http://www.hud.gov/utilities/intercept.cfm?http://www.hud.gov/offices/fheo/FHLaws/FairHousingJan2002.pdf)  
+**[**Download Fair Housing Booklet – CLICK HERE](https://www.hud.gov/sites/documents/FHEO_BOOKLET_ENG.PDF)  
 **
 
 All approvals and rates are not guaranteed, and are only issued after a potential borrower has spoken with a licensed mortgage professional.
 
-This blog (ShelterRealty.com) is not acting as or representing a bank / mortgage lender by offering a commitment to lend. The content written by each author on this blog is solely intended for information purposes.
+This website (ShelterRealty.com) is not acting as or representing a bank / mortgage lender by offering a commitment to lend. The content written by each author on this blog is solely intended for information purposes.
 
 The individual authors on this blog are responsible for their own content and do not necessarily represent the views and opinions of the other contributors.
 
 You should check with an attorney and your Certified Public Accountant prior to acting on any of the information that is contained in this blog.
 
-Each contributor to ShelterRealty.com acknowledges and adheres to the following: 
+Each contributor to ShelterRealty.com acknowledges and adheres to the following:
 
-  * [Fair Housing / Equal Opportunity](http://portal.hud.gov/portal/page/portal/HUD/program_offices/fair_housing_equal_opp)
-  * [RESPA](http://www.hud.gov/offices/hsg/rmra/res/respa_hm.cfm)
-  * [State Regulations](http://portal.hud.gov/portal/page/portal/HUD/states)
-  * [Truth In Lending Act (Regulation Z)](http://www.fdic.gov/regulations/compliance/manual/pdf/V-1.1.pdf)
+  * [Fair Housing / Equal Opportunity](https://www.hud.gov/program_offices/fair_housing_equal_opp)
+  * [RESPA](https://files.consumerfinance.gov/f/201503_cfpb_regulation-x-real-estate-settlement-procedures-act.pdf)
+  * [State Regulations](https://www.hud.gov/program_offices/comm_planning/library/relocation/lawsandregs)
+  * [Truth In Lending Act (Regulation Z)](https://www.federalreserve.gov/bankinforeg/regzcg.htm)
 
 
 
 Shelter Realty is not the Government, and do not officially represent the HUD, VA, USDA or FHA’s opinions. Please verify all information.*
 
-### Shelter Realty Blog Privacy Disclosure
+### Shelter Realty Privacy Disclosure
 
 Thank you for using our Website. This statement discloses the privacy policy for **ShelterRealty.com** (“Proprietor”) website (“Website”). Questions for clarification of this statement or comments may be addressed via the contact information on the Website.
 
@@ -89,4 +89,4 @@ This Privacy Policy is subject to change from time to time. Proprietor may updat
 
 **Blog Contributors**
 
-Contributors for ShelterRealty.com understand that the content they publish through this web platform may be edited or deleted at any time without notice. Contributors to ShelterRealty.com also understand that their activity does not represent a form of ownership or implied partnership in this blog. 
+Contributors for ShelterRealty.com understand that the content they publish through this web platform may be edited or deleted at any time without notice. Contributors to ShelterRealty.com also understand that their activity does not represent a form of ownership or implied partnership in this Internet site.
