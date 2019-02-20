@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidplanner.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216115745id_/https%3A//www.liquidplanner.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidplanner.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220102954id_/https%3A//www.liquidplanner.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LiquidPlanner
 
