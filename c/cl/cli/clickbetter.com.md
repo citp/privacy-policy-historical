@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickbetter.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217152339id_/https%3A//clickbetter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickbetter.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220111423id_/https%3A//clickbetter.com/privacy.php) for the most accurate reproduction.*
 
 # ClickBetter
 
