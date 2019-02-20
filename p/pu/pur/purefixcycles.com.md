@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purefixcycles.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227113319id_/https%3A//www.purecycles.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purefixcycles.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220165848id_/https%3A//www.purecycles.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Pure Cycles
 
