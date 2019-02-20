@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hundredpushups.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627133837id_/http%3A//hundredpushups.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hundredpushups.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221005012id_/https%3A//hundredpushups.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Hundred Pushups
 
