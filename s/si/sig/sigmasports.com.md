@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigmasports.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904021019id_/https%3A//www.sigmasports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigmasports.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221003117id_/https%3A//www.sigmasports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Sigma Sports
 
@@ -15,7 +15,6 @@ For all of our services, the data controller is Sigma Sports Limited.
   * Email marketing
   * Reviews
   * Online advertising
-  * Strava
   * Cookies
   * Links to third party websites
   * Retaining your information
@@ -74,9 +73,6 @@ To help us better understand our customers’ needs and preferences
 
 To acknowledge receipt of your entry, and notify you of results  
   
-**Linked Strava account information** | To allow you to use our website without having to create an account  
-To send you relevant emails about Sigma Sports Strava challenges (only if you've opted in)  
-  
 When you use our website, we will also collect the following information:
 
 **Type of information**
@@ -96,11 +92,10 @@ We will also use most of the above data for our own internal analysis to help us
 We will never sell, distribute or lease your data to any third party. In order to fulfil orders and provide you and other customers with a highly personal level of service, we do share your data with the following data controllers:
 
   * Our delivery companies - [Royal Mail](https://www.royalmail.com/privacy-policy), [DPD](http://www.dpd.co.uk/privacy_policy.jsp), [TNT](https://www.tnt.com/express/en_gb/site/privacy-policy.html) and [DHL](https://www.logistics.dhl/gb-en/home/footer/privacy-notice.html)
-  * [DataCash](https://www.mastercard.us/en-us/about-mastercard/what-we-do/privacy.html), our payment service provider, who are a division of [Mastercard](https://www.mastercard.us/en-us/about-mastercard/what-we-do/privacy.html)
+  * [Global Payments](https://www.globalpaymentsinc.com/), our payment service provider
   * [Global-e](https://www.global-e.com/privacy/), who we use to process international orders
   * [Trustpilot](https://uk.legal.trustpilot.com/end-user-privacy-terms), who we use to collect customer service reviews (see below)
   * [Bazaarvoice](http://www.bazaarvoice.com/privacy-policy/), who we use to collect product reviews (see below)
-  * [Strava](https://www.strava.com/legal/privacy), for account linking
   * [Facebook](https://www.facebook.com/full_data_use_policy), [Instagram](https://help.instagram.com/155833707900388) and [Google Display Network](https://www.google.co.uk/intl/en/policies/privacy/) for targeted advertising
   * [V12 Retail Finance](https://www.v12retailfinance.com/privacy-policy), who we use to offer our customers finance payment plans
   * Brands we stock who offer warranty on their products (in the event that you need to claim on the warranty)
@@ -158,24 +153,6 @@ Like many other online retailers, we use a range of digital advertising networks
 
 
 By visiting our website and consenting to our use of cookies (see below), or by shopping with us and consenting to our terms and conditions and privacy policy, you are agreeing to be served browsing-based advertising.
-
-## Strava
-
-If you choose to link your Strava account with your Sigma Sports account, we will collect the following information from your Strava profile:
-
-  * Email address
-  * Workout type (ride)
-  * Number of rides
-  * Distance
-  * Moving time
-  * Elapsed time
-  * Elevation gain
-
-
-
-If you have opted in to receive marketing emails from us, we may use this information to send you relevant offers based on your Strava activity.
-
-You can unlink your Strava account via [this page](https://web.archive.org/account/strava) within your Sigma Sports account.
 
 ## Cookies
 
@@ -251,4 +228,4 @@ Surrey
 KT1 4DA  
 United Kingdom
 
-This privacy policy was last updated on 21st March 2018.
+This privacy policy was last updated on 5th February 2019.
