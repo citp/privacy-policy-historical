@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the vandelaydesign.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614110349id_/http%3A//www.vandelaydesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandelaydesign.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220083856id_/https%3A//www.vandelaydesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vandelay Design
 
   
-[VandelayDesign.com](http://www.vandelaydesign.com/) is a place for reading and obtaining information about design and web design principles and obtaining graphic resources and services, and we are committed to providing you with a safe online environment for such activities. By visiting and engaging with site, we may collect certain identifying information which can and will only be used in accordance with this privacy statement.
+[VandelayDesign.com](https://www.vandelaydesign.com/) is a place for reading and obtaining information about design and web design principles and obtaining graphic resources and services, and we are committed to providing you with a safe online environment for such activities. By visiting and engaging with site, we may collect certain identifying information which can and will only be used in accordance with this privacy statement.
 
 VandelayDesign.com reserves the right to update this policy at any time. This policy is effective from 8/6/14.
 
@@ -36,14 +36,14 @@ Most web browsers automatically accept cookies, but you can modify your browser 
 **You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time. Simply [contact us](http://www.vandelaydesign.com/contact/) and we will remove your personal information from our system.
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time. Simply [contact us](https://www.vandelaydesign.com/contact/) and we will remove your personal information from our system.
 
 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](http://www.vandelaydesign.com/contact/), and we will correct any information found to be incorrect as quickly as possible.
+If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](https://www.vandelaydesign.com/contact/), and we will correct any information found to be incorrect as quickly as possible.
 
 **Comment Policy**  
-[Our blog](http://www.vandelaydesign.com/blog/) allows visitors the opportunity to leave a comment in response to a blog post. The purpose of the comments section is to encourage involvement and discussion among readers. All comments are moderated and we reserve the right to delete comments for any reason. Common reasons for comments not being approved include:
+[Our blog](https://www.vandelaydesign.com/blog/) allows visitors the opportunity to leave a comment in response to a blog post. The purpose of the comments section is to encourage involvement and discussion among readers. All comments are moderated and we reserve the right to delete comments for any reason. Common reasons for comments not being approved include:
 
   * Comments that offer no real value to other reasons
   * Comments that appear to be entered by a spam bot
@@ -55,8 +55,8 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 We also ask commenters to use their real name (or a pen name if preferred) when leaving a comment instead of a keyword stuffed name.
 
-If you have any questions on this policy please [contact us](http://www.vandelaydesign.com/contact/).
+If you have any questions on this policy please [contact us](https://www.vandelaydesign.com/contact/).
 
 **Minors  
-**We do not intend to solicit or collect personal information from anyone under the age of 18 without parental consent. If you are under 18, do not enter information on this site or engage our services. If you believe a child of yours under the age of 18 has entered personal identifying information, please [contact us](http://www.vandelaydesign.com/contact/) immediately to have the data removed.  
+**We do not intend to solicit or collect personal information from anyone under the age of 18 without parental consent. If you are under 18, do not enter information on this site or engage our services. If you believe a child of yours under the age of 18 has entered personal identifying information, please [contact us](https://www.vandelaydesign.com/contact/) immediately to have the data removed.  
 
