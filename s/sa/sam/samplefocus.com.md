@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samplefocus.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192202id_/https%3A//samplefocus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplefocus.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220140045id_/https%3A//samplefocus.com/privacy) for the most accurate reproduction.*
 
 # Sample Focus
 
