@@ -1,17 +1,285 @@
-<!--The following is the downloaded HTML source of the achievers.com privacy policy that was archived on 2018-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181110002648id_/https%3A//www.achievers.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the achievers.com privacy policy that was archived on 2019-02-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190220060357id_/https%3A//www.achievers.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+	<script async="" src="//amplify.outbrain.com/cp/obtp.js" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5FRJ4V"></script><script type="text/javascript" async="" data-id="bec" org-id="f00000000124333" domain=".achievers.com" session-timeout="86400000" src="https://cdn.b0e8.com/conv_v3.js"></script><script type="text/javascript">
+if (window.BEJSSDKObserver === undefined) {
+(function(BEJSSDKObserver, $, undefined) {
+  var observer = void 0;
+  var listeners = [];
+  var doc = window.document;
+  var MutationObserver = window.MutationObserver || window.WebKitMutationObserver;
+
+  function checkSelector(selector, fn, indexList) {
+    var elements = doc.querySelectorAll(selector);
+    // issues on IE @see https://www.codesd.com/item/javascript-es6-not-a-function-error.html
+//    elements = Array.from(elements);
+    for (var i = 0, len = elements.length; i < len; i++) {
+      // -1 means all instances
+      if (indexList != -1 && !(i in indexList)) {
+        continue;
+      }
+      var element = elements[i];
+      if (!element.ready || MutationObserver==null) {
+        element.ready = true;
+         fn.call(element, element);
+      }
+    }
+  }
+
+  function checkListeners() {
+    listeners.forEach(function (listener) {
+        return checkSelector(listener.selector, listener.fn, listener.indexList);
+    });
+  }
+
+  function removeListener(selector, fn) {
+    var i = listeners.length;
+    while (i--) {
+      var listener = listeners[i];
+      if (listener.selector === selector && listener.fn === fn) {
+        listeners.splice(i, 1);
+        if (!listeners.length && observer) {
+          observer.disconnect();
+          observer = null;
+        }
+      }
+    }
+  }
+
+  /**
+   * Fire event on first js selector
+   * @param selector string to watch on
+   * @param fn       callback function
+   * @param index_list can be undefined which means only first one
+   *                   or -1 which means all
+   *                   or a list of allowable indexes
+   */
+  BEJSSDKObserver.jsElementReady = function(selector, fn, index_list) {
+    if (index_list === undefined) {
+        index_list = [];
+        index_list.push(0);
+    }
+
+    if (MutationObserver != null) {
+      if (!observer) {
+        observer = new MutationObserver(checkListeners);
+        observer.observe(doc.documentElement, {
+            childList: true,
+            subtree: true
+        });
+      }
+      listeners.push({ selector: selector, fn: fn, indexList: index_list });
+    } else {
+      // <= IE8
+      if (!document.addEventListener) {
+        // log("<=IE8 attachEvent assignment");
+        document.addEventListener = document.attachEvent;
+      }
+      document.addEventListener("DOMContentLoaded", function(event) {
+        var elements = doc.querySelectorAll(selector);
+//        elements = Array.from(elements);
+        for (var i = 0, len = elements.length; i < len; i++) {
+          // -1 means all instances
+          if (index_list != -1 && !(i in index_list)) {
+            continue;
+          }
+          var element = elements[i];
+          element.ready = true;
+          fn.call(element, element);
+        }
+      });
+    }
+
+    checkSelector(selector, fn, index_list);
+    return function () {
+      return removeListener(selector, fn);
+    };
+  }
+}(window.BEJSSDKObserver = window.BEJSSDKObserver || {}));
+}
+var jsElementReady = window.BEJSSDKObserver.jsElementReady;
+
+if (window.BELinkBlockGenerator === undefined) {
+(function(BELinkBlockGenerator, $, undefined) {
+  BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH = 100;
+  BELinkBlockGenerator.MAXIMUM_DESC_LENGTH = 200;
+
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_URL_TYPE = 0;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_HEADLINE_TYPE = 1;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_DESCRIPTION_TYPE = 2;
+  BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_IMAGE_TYPE = 3;
+
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_OVERWRITE = 0;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_POST_APPEND_ELEMENT = 1;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_ELEMENT = 2;
+  BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_PARENT = 3;
+					  
+  BELinkBlockGenerator.setMaximumHeadlineLength = function(length) {
+    BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH = length;
+  }
+
+  BELinkBlockGenerator.setMaximumDescriptionLength = function(length) {
+    BELinkBlockGenerator.MAXIMUM_DESC_LENGTH = length;
+  }
+  
+  BELinkBlockGenerator.generateIndividualLinks = function(parentElement, linkStructure, link) {
+  var link_level_element_tag = linkStructure[0];
+  var link_level_element = document.createElement(link_level_element_tag);
+  var link_attribute_dictionary = linkStructure[1];
+  var allowable_elements = linkStructure[2];
+  var children_link_structures = linkStructure[3];
+  for (var link_attribute_key in link_attribute_dictionary) {
+    link_level_element.setAttribute(link_attribute_key, link_attribute_dictionary[link_attribute_key]);
+  }
+  
+  var added_something = false;
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_URL_TYPE)>=0) {
+    link_level_element.setAttribute('href', link.url);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_HEADLINE_TYPE)>=0 && link.h1) {
+    var headline_text = link.h1;
+	if (headline_text.length > BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH) {
+      headline_text = headline_text.substring(0, BELinkBlockGenerator.MAXIMUM_HEADLINE_LENGTH) + '...';
+    }						
+    var text_node = document.createTextNode(headline_text);
+	link_level_element.appendChild(text_node);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_DESCRIPTION_TYPE)>=0 && link.desc) {
+    var desc_text = link.desc;
+	if (desc_text.length > BELinkBlockGenerator.MAXIMUM_DESC_LENGTH) {
+      desc_text = desc_text.substring(0, BELinkBlockGenerator.MAXIMUM_DESC_LENGTH) + '...';
+    }
+//    console.log("Got text " + desc_text + ", max=" + BELinkBlockGenerator.MAXIMUM_DESC_LENGTH);
+    var text_node = document.createTextNode(desc_text);
+	link_level_element.appendChild(text_node);
+	added_something = true;
+  }
+  if (allowable_elements.indexOf(BELinkBlockGenerator.IND_LINK_BLOCK_TYPE_IMAGE_TYPE)>=0 && link.image) {
+//    console.log("added image " + JSON.stringify(allowable_elements) + " for " + link_level_element_tag);
+    link_level_element.setAttribute('src', link.image);
+	added_something = true;
+  }
+  // don't emit for empty links, desc, headline, image
+  // except for parent structures where allowable_length=0
+  if (!added_something && allowable_elements.length != 0) {
+//    console.log("did not added anything for " + link_level_element_tag);
+
+    return;
+  }
+  // go depth first
+  for (var childrenIndex=0; childrenIndex<children_link_structures.length; childrenIndex++) {
+    var childLinkStructure = children_link_structures[childrenIndex];
+    BELinkBlockGenerator.generateIndividualLinks(link_level_element, childLinkStructure, link);
+  }
+  parentElement.appendChild(link_level_element);	
+}
+
+ BELinkBlockGenerator.insertLinkBlocks = function(targetElement, replacementStrategy, overallStructure, linkStructure, links,
+                                                  titleStructure) {
+  if (targetElement == null) {
+    return;
+  }
+
+  if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_OVERWRITE) {
+    while (targetElement.firstChild) {
+      targetElement.removeChild(targetElement.firstChild);
+    }
+  }
+
+  var previousElement = targetElement;
+  for (var i=0;i<overallStructure.length;i++) {
+    var level_definition = overallStructure[i];
+    var level_element_tag = level_definition[0]
+	var level_element = document.createElement(level_element_tag);
+	var attribute_dictionary = level_definition[1]
+    for (var attribute_key in attribute_dictionary) {
+	  level_element.setAttribute(attribute_key, attribute_dictionary[attribute_key]);
+    }
+
+    // need to place title structure	
+	if (titleStructure && titleStructure[0] == i) {
+	  var title_element_tag = titleStructure[1];
+	  var title_element = document.createElement(title_element_tag);
+  	  var title_attribute_dictionary = titleStructure[2];
+	  var title_text_content = titleStructure[3];
+      for (var title_attribute_key in title_attribute_dictionary) {
+	    title_element.setAttribute(title_attribute_key, title_attribute_dictionary[title_attribute_key]);
+      }
+
+	  var title_text_node = document.createTextNode(title_text_content);
+   	  title_element.appendChild(title_text_node);
+
+	
+	  level_element.appendChild(title_element);
+    }
+	
+	// last level place links
+	if (i == overallStructure.length-1) {
+      for (var link_i=0; link_i < links.length; link_i++) {
+  	    var link = links[link_i];
+		for (var linkStructureIndex=0;linkStructureIndex < linkStructure.length; linkStructureIndex++) {
+		  BELinkBlockGenerator.generateIndividualLinks(level_element, linkStructure[linkStructureIndex], link)
+		}
+	  }
+	}
+
+	// first level child we need to check placement
+    if (previousElement == targetElement) {
+      if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_ELEMENT) {
+	    // 2 means insert right before
+  	    previousElement.insertBefore(level_element, targetElement.firstChild);
+      } else if (replacementStrategy == BELinkBlockGenerator.REPLACEMENT_STRATEGY_PRE_APPEND_PARENT) {
+	    // 3 means insert right before at parent level
+		var parentElement = previousElement.parentElement;
+  	    parentElement.insertBefore(level_element, previousElement);
+  	  } else {
+    	previousElement.appendChild(level_element);
+	  }
+    } else {
+  	  previousElement.appendChild(level_element);
+	}
+	previousElement = level_element;
+  }
+}
+}(window.BELinkBlockGenerator = window.BELinkBlockGenerator || {}));
+};
+
+</script>
+
+<style>
+.be-ix-link-block .be-related-link-container{text-align: center;padding:0 15px}
+.be-ix-link-block .be-related-link-container .be-related-link:after{content: ' - ';}
+.be-ix-link-block .be-related-link-container .be-related-link{display:inline-block;font-size:85%;}
+.be-ix-link-block .be-related-link-container .be-related-link:last-child:after{content:' '}
+</style>
+
+    <script>
+      (function() {
+      var bec = document.createElement('script');
+      bec.type = 'text/javascript';
+      bec.async = true;
+      bec.setAttribute("data-id", "bec");
+      bec.setAttribute("org-id", "f00000000124333");
+      bec.setAttribute("domain", ".achievers.com");
+      bec.setAttribute("session-timeout", 86400000);
+      bec.src = document.location.protocol + '//cdn.b0e8.com/conv_v3.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(bec, s);
+})();
+</script>
      
     <!-- <link rel="profile" href="http://gmpg.org/xfn/11">-->
      <link rel="pingback" href="https://www.achievers.com/xmlrpc.php">
 
 <!-- Google Tag Manager -->
-<script async="" src="//amplify.outbrain.com/cp/obtp.js" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5FRJ4V"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -214,9 +482,43 @@ var wprmenu = {"zooming":"yes","from_width":"967","parent_click":"no","swipe":"y
 obApi('track', 'PAGE_VIEW');
 
 </script>
+	
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0081/2363.js" async="async"></script>
+	
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-<body class="page-template-default page page-id-1413"><!-- Google Tag Manager (noscript) -->
+<body class="page-template-default page page-id-1413">
+	<script type="text/javascript">
+    function positionLinkBlock(targetContainer) {
+        if (targetContainer != null) {
+            var strLinkBlock = '<div class="be-related-link-container"><a class="be-related-link" href="http://www.achievers.com/blog/2018/02/5-reasons-create-culture-learning-organization/">&nbsp;5 Reasons to Create a Culture of Learning in...</a><a class="be-related-link" href="https://www.achievers.com/blog/2018/04/fundamentals-employee-engagement/">&nbsp;Employment Engagement Activities</a><a class="be-related-link" href="https://www.achievers.com/blog/2018/03/5-things-consider-building-employee-surveys/">&nbsp;Open Ended Employee Engagement Survey Questions</a><a class="be-related-link" href="https://resources.achievers.com/engagement/3-15-talentculture-webinar-7-ways-rewards-and-recognition-connect-engagement-and-business-goals">&nbsp;7 Ways Rewards and Recognition Connect...</a><a class="be-related-link" href="https://resources.achievers.com/analyst-insights/building-a-business-case-for-social-recognition">&nbsp;building-a-business-case-for-social-recognition</a><a class="be-related-link" href="https://www.achievers.com/blog/category/employee-motivation/">&nbsp;Motivational Blogs</a></div>';
+            targetContainer.insertAdjacentHTML('afterbegin', strLinkBlock);
+        }
+    }
+
+    jsElementReady('.be-ix-link-block', positionLinkBlock)
+
+</script>
+
+<ul id="be_sdkms_capsule" style="display:none!important">
+    <li id="be_sdkms_sdk_version">be_ixf; php_sdk; php_sdk_1.4.15</li>
+    <li id="be_sdkms_capsule_connect_timer">60 ms</li>
+    <li id="be_sdkms_capsule_index_time">iy_2019; im_02; id_19; ih_20; imh_58; i_epoch:1550638703444</li>
+    <li id="be_sdkms_capsule_pub">ixf-compiler; ixf-compiler_1.0.0.0</li>
+    <li id="be_sdkms_capsule_date_modified">py_2019; pm_02; pd_06; ph_15; pmh_58; p_epoch:1549497494741</li>
+</ul>
+<ul id="be_sdkms_node" style="display:none!important">
+   <li id="be_sdkms_pub">link-block; link-block_link-block; bodystr</li>
+   <li id="be_sdkms_date_modified">pn_tstr:Wed Feb 06 15:58:14 PST 2019; pn_epoch:1549497494741</li>
+   <li id="be_sdkms_timer">0 ms</li>
+</ul>
+
+<ul id="be_sdkms_capsule" style="display:none!important">
+    <li id="be_sdkms_sdk_version">be_ixf; php_sdk; php_sdk_1.4.15</li>
+    <li id="be_sdkms_original_url">https://www.achievers.com/privacy-policy/</li>
+    <li id="be_sdkms_normalized_url">https://www.achievers.com/privacy-policy/</li>
+</ul>
+<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5FRJ4V"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript)  -- Lead Dynamics nkta080718 -->
@@ -398,7 +700,6 @@ United States<br>
     </div> 
      
 <!--< php get_sidebar(); ?>-->
- 
 <!--  START FOOT ---->
 <footer id="colophon" class="site-footer" role="contentinfo">
 <div class="site-width footer">
@@ -456,7 +757,7 @@ United States<br>
 <a href="/">Home</a><a href="https://www.achievers.com/blog">Blog</a><a href="https://medium.com/achievers-tech">Tech Blog</a><a href="/privacy-policy">Privacy Policy</a><a href="/accessibility">Accessibility</a>
 <span id="copyright">© <script type="text/javascript">document.write(new Date().getFullYear());</script>2020 Achievers Solutions Inc. All Rights Reserved.</span>
 </div></div>
-		</div></div></div></div>
+		</div></div><div class="be-ix-link-block"><div class="be-related-link-container"><a class="be-related-link" href="http://www.achievers.com/blog/2018/02/5-reasons-create-culture-learning-organization/">&nbsp;5 Reasons to Create a Culture of Learning in...</a><a class="be-related-link" href="https://www.achievers.com/blog/2018/04/fundamentals-employee-engagement/">&nbsp;Employment Engagement Activities</a><a class="be-related-link" href="https://www.achievers.com/blog/2018/03/5-things-consider-building-employee-surveys/">&nbsp;Open Ended Employee Engagement Survey Questions</a><a class="be-related-link" href="https://resources.achievers.com/engagement/3-15-talentculture-webinar-7-ways-rewards-and-recognition-connect-engagement-and-business-goals">&nbsp;7 Ways Rewards and Recognition Connect...</a><a class="be-related-link" href="https://resources.achievers.com/analyst-insights/building-a-business-case-for-social-recognition">&nbsp;building-a-business-case-for-social-recognition</a><a class="be-related-link" href="https://www.achievers.com/blog/category/employee-motivation/">&nbsp;Motivational Blogs</a></div><!--Link Equity Target Div--></div></div></div>
 
 
 <div class="site-width footer privacy"><div class="container"><div class="row"><div id="text-9" class="widget widget_text">			<div class="textwidget"><div class="col-md-8 col-md-offset-2 col-sm-12 text-center p-t-4 p-b-2">
@@ -508,7 +809,7 @@ jQuery(document).ready(function($) {
 <li id="menu-item-1496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1496"><a href="https://www.achievers.com/customer/">Our Customers</a></li>
 <li id="menu-item-3405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3405"><a href="https://resources.achievers.com/">Resources</a></li>
 <li id="menu-item-1500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1500"><a target="_blank" href="https://www.achievers.com/blog/">Blog</a></li>
-<li id="menu-item-3687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3687"><a target="_blank" href="https://www.achievers.com/ace/">ACE 2018</a></li>
+<li id="menu-item-3687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3687"><a target="_blank" href="https://www.achievers.com/ace/">ACE 2019</a></li>
 <li id="menu-item-1498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1498"><a href="https://www.achievers.com/contactus/">Contact</a></li>
 <li id="menu-item-1499" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1499"><a href="/demo">Request Demo</a></li>
 			</ul>
@@ -553,7 +854,7 @@ jQuery(document).ready(function($) {
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
 Page Caching using disk: enhanced 
-Database Caching using disk (Request-wide modification query)
+Database Caching 32/127 queries in 0.050 seconds using disk (Request-wide modification query)
 
-Served from: www.achievers.com @ 2018-11-09 16:26:49 by W3 Total Cache
+Served from: www.achievers.com @ 2019-02-19 20:58:23 by W3 Total Cache
 --></body></html>
