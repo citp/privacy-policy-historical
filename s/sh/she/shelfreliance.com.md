@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shelfreliance.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730204056id_/https%3A//www.thrivelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shelfreliance.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220094438id_/https%3A//www.thrivelife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
