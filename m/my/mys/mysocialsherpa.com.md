@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysocialsherpa.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012004id_/http%3A//ghostinfluence.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysocialsherpa.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220131643id_/https%3A//ghostinfluence.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Ghost Influence
 
