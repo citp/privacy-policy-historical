@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinehomeincome.in privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227144208id_/https%3A//www.onlinehomeincome.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinehomeincome.in privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220054012id_/https%3A//www.onlinehomeincome.in/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - online home income
 
