@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the silveroakcasino.com privacy policy that was archived on 2017-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170611155119id_/https%3A//www.silveroakcasino.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the silveroakcasino.com privacy policy that was archived on 2019-02-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190220034745id_/https%3A//www.silveroakcasino.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
- 
-<script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5J8RPFH"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"2bf6ca7b80",applicationID:"19277059",sa:1,agent:"js-agent.newrelic.com/nr-918.min.js"}</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<!DOCTYPE html><html><head> <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.0"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5J8RPFH"></script><script type="text/javascript" src="/modules/core/bluebird.min.js"></script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5J8RPFH');</script>
- 
+<link rel="manifest" href="/manifest.json"><script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script><script type="text/javascript" src="/onesignal/js/OneSignal.js"></script>
 <link rel="manifest" href="/manifest.json">
 <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
 <script>var OneSignal = window.OneSignal || []; OneSignal.push(["init", { appId: "daa1de9f-c2c0-4ddb-a87e-62dc4b475339", 
@@ -16,9 +16,8 @@ safari_web_id: "web.onesignal.auto.4ed285de-faf5-4c6c-a346-3ff91e5aded6", autoRe
 <meta charset="utf-8">
 <title>Silver Oak Casino Privacy Policy | Online Casino Games</title>
 <link rel="alternate" media="only screen and (max-width: 640px)" href="//www.silveroakcasino.com/mobile/privacy-policy.php"><!--[if lt IE 9]><script src="/js/html5.js"></script><![endif]-->
- 
+
 <meta name="description" content="At Silver Oak Casino Privacy Policy. play online casino games for free or real money!">
-<meta name="robots" content="noodp">
 <link rel="canonical" href="https://www.silveroakcasino.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -27,15 +26,16 @@ safari_web_id: "web.onesignal.auto.4ed285de-faf5-4c6c-a346-3ff91e5aded6", autoRe
 <meta property="og:url" content="https://www.silveroakcasino.com/privacy-policy/">
 <meta property="og:site_name" content="Silver Oak Casino">
 <meta property="og:image" content="https://www.silveroakcasino.com/wordpress/wp-content/uploads/2014/12/privacy-policy.jpg">
+<meta property="og:image:secure_url" content="https://www.silveroakcasino.com/wordpress/wp-content/uploads/2014/12/privacy-policy.jpg">
 <meta property="og:image:width" content="892">
 <meta property="og:image:height" content="297">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:description" content="At Silver Oak Casino Privacy Policy. play online casino games for free or real money!">
 <meta name="twitter:title" content="Silver Oak Casino Privacy Policy | Online Casino Games">
 <meta name="twitter:image" content="https://www.silveroakcasino.com/wordpress/wp-content/uploads/2014/12/privacy-policy.jpg">
- 
+
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="yarppWidgetCss-css" href="https://www.silveroakcasino.com/wordpress/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="yarppWidgetCss-css" href="https://www.silveroakcasino.com/wordpress/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.9.6" type="text/css" media="all">
 <link rel="stylesheet" id="silveroak-css" href="//www.silveroakcasino.com/css/silveroak.css?ver=2.0" type="text/css" media="all">
 <link rel="stylesheet" id="simple-pagination-css-css" href="https://www.silveroakcasino.com/wordpress/wp-content/plugins/simple-pagination/css/default.css?ver=2.1.7" type="text/css" media="screen">
 <script type="text/javascript" src="https://www.silveroakcasino.com/wordpress/wp-includes/js/jquery/jquery.js"></script>
@@ -43,20 +43,21 @@ safari_web_id: "web.onesignal.auto.4ed285de-faf5-4c6c-a346-3ff91e5aded6", autoRe
 <link rel="https://api.w.org/" href="https://www.silveroakcasino.com/wp-json/">
 <link rel="alternate" type="application/json+oembed" href="https://www.silveroakcasino.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.silveroakcasino.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.silveroakcasino.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.silveroakcasino.com%2Fprivacy-policy%2F&amp;format=xml">
- 
+
 <meta property="og:url" content="https://www.silveroakcasino.com/privacy-policy/">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:image" content="//www.silveroakcasino.com/images/blog/fbsoc.jpg">
 <meta itemprop="publisher" content="Silver Oak Casino">
 <meta itemprop="url" content="https://www.silveroakcasino.com/privacy-policy/">
- 
+
 <!--[if lt IE 9]><link rel='stylesheet' href='/css/iefix.css' type='text/css' media='all' /><![endif]-->
 <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">
 <link href="/favicon.ico" type="image/x-icon" rel="icon">
 </head>
-<body id="privacy-policy"> 
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5J8RPFH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
- 
+<body id="privacy-policy">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5J8RPFH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -73,41 +74,119 @@ safari_web_id: "web.onesignal.auto.4ed285de-faf5-4c6c-a346-3ff91e5aded6", autoRe
 <div class="soc_page fullwidth">
 <article id="post-185" class="post-185 page type-page status-publish has-post-thumbnail hentry">
 <div class="entry-content">
-<p>Welcome to <a href="/">Silver Oak Casino</a>, as a company we respect the privacy of our visitors and customers. Below you will find a pretty long legal document highlighting all of our terms when it comes to respecting your privacy. It's long and has a lot of legal terms in there, but what it really says is that we respect your privacy.</p>
-<h4>Introduction</h4>
-<p>Silver Oak Casino (the "Company" or "we") offers gambling services. In addition to offering its gambling services via the Internet (the "Internet Platform"), the Company may from time to time offer its services via alternative platforms such as (i) interactive television and (ii) mobile gaming platforms (each, an "Alternative Platform").</p>
-<p>When you use the Company's gambling services, and whether such use is via the Internet Platform or an Alternative Platform, you shall be asked to provide personal information ("PI") to the Company.</p>
-<p>The Company is committed to respecting your privacy and to complying with applicable data protection and privacy laws and we have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your PI for the purpose of offering you gambling services. If you do not understand the Privacy Policy or how we handle or use the PI which you provide to us then you are invited to send in your questions to <a href="mailto:help@silveroakcasino.com">help@silveroakcasino.com</a> and we will do our best to answer your questions in full as quickly as possible.</p>
-<p>You should read this Privacy Policy in conjunction with the Silver Oak Casino Terms and Conditions.</p>
-<h4>Collecting Personal Information</h4>
-<p>We collect PI when you register and use our gambling services, make customer inquiries, register for information or other services from the Company, or when you respond to communications from us (such as questionnaires or surveys). The PI we will collect from you may include, for example, your name, email address, home address, telephone number, debit/credit card data and date of birth and other information collected on registration or through surveys which the Company shall undertake.</p>
-<h4>How Your Personal Information is Processed ("Purposes")</h4>
-<p>The PI which you provide to us will be processed for one or more of the following Purposes: (i) to allow us to provide you with gambling services; (ii) to process any of your requests for information; (iii) to provide member support services to you; (iv) to market our services or products or those of other entities existing within the same group of companies in which the Company exists ("Silver Oak Casino"); (v) to notify you about updates to our software and/or services; and (vi) to support any of the intended purposes specifically stated at the time at which you provided the PI.</p>
-<h4>To Whom Your Personal Information is Disclosed ("Recipients")</h4>
-<p>Your PI may, for the Purposes, be disclosed for processing to any of the following Recipients: (i) to any companies within Silver Oak Casino and their employees who have a need to know such information; (ii) to any third parties which provide services to the Company in order to allow or enable us to provide you with gambling services, including, by way of example, payment processors and data verifiers; (iii) to any third parties who provide Silver Oak Casino services in relation to the operation of all Silver Oak Casinos properties; (iv) to any auditors, contractors or other advisers auditing any of Silver Oak Casino's business processes; and (v) to any potential purchasers or investors in any company within Silver Oak Casino. Any processing performed by any Recipients will, where required by law, be governed by a data processing agreement in the form required by law, preserving any and all of your statutory data protection rights and obligating the Recipients to respect the PI and handle it in accordance with the relevant laws.</p>
-<p>We ensure that your information will not be disclosed to government institutions or authorities except if required by law.</p>
-<h4>You Decide – Marketing?</h4>
-<p>Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email offers from us. At any time, you may request to discontinue receiving these offers by sending a blank message with the word "Remove" in the subject area to <a href="mailto:help@silveroakcasino.com">help@silveroakcasino.com</a>.</p>
-<p>The Casino reserves the right to publish your account username exclusively for marketing purposes, while keeping all your personal information completely confidential.</p>
-<h4>Your Rights in relation to your PI</h4>
-<p>You can write to us at any time to obtain a copy of your PI and to have any inaccuracies corrected. Where appropriate, you may have your PI rectified, amended or completed. Please email <a href="mailto:help@silveroakcasino.com">help@silveroakcasino.com</a>. We may levy a small charge to cover the cost of administration.</p>
-<h4>Security</h4>
-<p>We have implemented suitable security policies, rules and technical measures to protect and safeguard the entire PI under our control from unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. All our employees and data processors that have access to, and are associated with the processing of your PI, are obliged to respect your privacy.</p>
-<h4>Cookies</h4>
-<p>We may send you a permanent cookie when you register with us. A cookie is a small file that can be placed on your computer's hard disk for record-keeping purposes. Cookies can help us to recognize you when you next visit our website, note the advertisements you click on and the other sites you enter via a link from our website. This allows us to tailor the service we provide to your preferences. We may also use the data generated from cookies to compile statistical data on your use of our website. You are not obliged to accept a cookie from us or from any other website. You can modify your browser so that it will not accept cookies. Please consult the "Help" section of your browser for instructions on how to do so correctly. However, for legitimate security reasons, we may refuse access to specific website content unless you accept the use of a cookie or similar device.</p>
-<h4>Protection of Minors</h4>
-<p>The services provided by the Company are not intended for or directed to minors or persons under the age of legal consent. Any person who provides us with PI represents to us that they are 21 years of age or over the age of legal consent in their jurisdiction. We reserve the right to access and verify any PI submitted by or collected from you. If we become aware that a minor has attempted to, or has submitted PI, we may not accept this information and may take steps to remove such information from our records.</p>
-<h4>Retention</h4>
-<p>Your PI will not be stored for any longer period than is necessary for the purposes for which it was collected.</p>
-<p>This Privacy Policy is subject to change, so please check it regularly. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation. In the event the Purposes change, we will notify you as soon as possible and, where required seek your consent where such notification relates to a new additional purpose for processing.</p>
-<p>If you have any enquiry about this Privacy Policy please write to <a href="mailto:help@silveroakcasino.com">help@silveroakcasino.com</a>.</p> </div>
+<h2>The Silver Oak Commitment</h2>
+<p>Silver Oak, and its staff, value your privacy and the privacy of all the information you give us. We aim to be completely transparent in our processes and protocols, so your information is never used without your consent. Please read our Privacy Policy below and contact us immediately if you have any questions.</p>
+<h2>The Information We Collect</h2>
+<p>Silver Oak collects two different forms of personal information – log file analysis information (‘Traffic Information’) and visitor registration information (‘User Information’) – including personal information such as name, phone number, and email address. By visiting and signing up with silveroakcasino.com you are agreeing to your disclosure of this information.</p>
+<h3>Traffic Information</h3>
+<p>silveroakcasino.com routinely gathers Information on Site activity, such as data on how many people visit the Site, the pages they visit, where they come from, how long they stay, etc.</p>
+<p>This information is collected on an anonymous basis, which means no personal information is associated with this data (unless first entry is via an affiliate).</p>
+<p>silveroakcasino.com uses cookies and web server logs to track repeat visitors to its site, however these cookies do not collect specific information until the user registers with Silver Oak. This information is used to better design our site, improve navigation and help us create targeted marketing with affiliates.</p>
+<p>silveroakcasino.com collects certain technical information from your computer each time you request a page during a visit. This information is collected from your computer's Web browser to enhance your experience on our site and may include your IP address, operating system, Web browser software (e.g., Netscape Navigator or Internet Explorer), screen resolution, and referrer Web site.</p>
+<h3>User Information</h3>
+<p>silveroakcasino.com may ask you to provide User Information, to register for an account or participate in contests or promotions. The information requested may include your name, address, e-mail address, shipping information, phone number, credit card or other payment information. User Information is collected only when Site visitors voluntarily provide it. It is not necessary to provide any User Information to simply browse the Site.</p>
+<p>Your Information may be shared with our employees, independent contractors, agents or other related entities and/or business partners acting on our behalf to fulfill an award or promotion; conduct surveys; collect payments or to provide a product or service you have requested. We do not share this information with non-partner companies except to the extent necessary to complete your transaction (such as with Neteller, your bank, your credit card company) and, when we do share it, it is subject to their agreement to treat it as confidential business information and with the understanding that it may not be used for any purpose other than to perform their function.</p>
+<p>silveroakcasino.com may have inbound links from other websites, including affiliate partners. These sites have their own Privacy policies, which do not apply to silveroakcasino.com.</p>
+<p>We release Information when we believe release is appropriate to comply with law, to enforce or apply our Terms and Conditions and other agreements, or to protect the rights, property, or safety silveroakcasino.com, Site users or others. This includes exchanging Information with other companies and organizations for fraud protection and credit risk reduction.</p>
+<h2>Silver Oak Marketing</h2>
+<p>As a registered user, you may receive e-mails or phone calls from us about special promotions, surveys, contests, sweepstakes, newsletters about Silver Oak and its marketing partners. We may also use your e-mail address or telephone number to contact you about changes to your account. To assess the effectiveness of these e-mails, we may attach a trackable URL (on an image within the email) that provides confirmation when you open an e-mail. This only occurs if your computer supports such technology. To protect your right not to provide us with this information, modern e-mail clients, such as Outlook, only send this tracking information to us when you have enabled such a feature, as it is disabled by default, in your mail client tool options.</p>
+<p>silveroakcasino.com values your time and membership and will thus aims to follow all marketing protocols with due respect to you the user. If the user requests to not be contacted via a certain method, we will make all due efforts in order to abide by the user’s wishes.</p>
+<h2>Data Security</h2>
+<p>All transactions and Player activities within the member’s area of Silver Oak are fully encrypted with 256 bit SSL Security certificate. This means that Silver Oak deploys similar security to that of most financial institutions and guarantees the safety and privacy of all its members and their information. However, no data transmission over the Internet can be guaranteed to be completely secure, we cannot guarantee the security of any information you transmit to us, and you transmit such information at your own risk. Our Network security team is constantly seeking out the newest and best security programs and protocols. Security of information is of paramount importance to silveroakcasino.com.</p>
+<h2>Changes in the Privacy Policy</h2>
+<p>silveroakcasino.com reserves the right to change its Privacy Policy at any time. All changes will be effective immediately upon posting. We advise members to frequently visit this page to be aware of any such changes.</p> </div>
 </article>
+</div>
+<div id="chatrequest" class="chatbtn">
+<div class="h5">
+<div class="icon-svg baseline">
+<svg width="48" height="48" viewBox="0 0 48 48"><use xlink:href="#icon-info"></use></svg>
+</div>
+Help
+</div>
+<div class="icon-svg" style="display:none">
+<svg id="icon-info" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;margin:15px"><path d="M11,12.3V13c0,0-1.8,0-2,0v-0.6c0-0.6,0.1-1.4,0.8-2.1c0.7-0.7,1.6-1.2,1.6-2.1c0-0.9-0.7-1.4-1.4-1.4 c-1.3,0-1.4,1.4-1.5,1.7H6.6C6.6,7.1,7.2,5,10,5c2.4,0,3.4,1.6,3.4,3C13.4,10.4,11,10.8,11,12.3z"></path><circle cx="10" cy="15" r="1"></circle><path d="M10,2c4.4,0,8,3.6,8,8s-3.6,8-8,8s-8-3.6-8-8S5.6,2,10,2 M10,0C4.5,0,0,4.5,0,10s4.5,10,10,10s10-4.5,10-10S15.5,0,10,0 L10,0z"></path></svg>
+</div>
+</div>
+<div id="requestsupport">
+<div class="btn"></div>
+<div class="mssg">
+<div class="box">
+<p>Please log in for live chat help, or leave us a message</p>
+<a class="login" href="/webplay/?login&amp;lc">Log In</a>
+<button class="message">Message</button>
+</div>
+</div>
+</div>
+<style>
+    /*SVG ICON SYSTEM*/
+    .icon-svg {display: inline-flex; align-self: center;}
+    .icon-svg svg, .icon-svg img {height: 1em;width: 1em;fill: currentColor;}
+    .icon-svg.baseline svg, .icon-svg img {top: .125em; position: relative;}
+    .h5 {margin: 13px 0px 16px 24px;padding:0;line-height:1;font-weight:bold;position:relative;font-size:16px;font-family:arial;color:#fff;}
+    .h5mob { margin: 10px 12px 16px 13px;padding:0;line-height:1;font-weight:bold;position:relative;font-size:16px;font-family:arial;color:#fff;}
+    .h5desk{margin:13px 0px 23px 10px; padding:0;line-height:1;font-weight:bold;position:relative;font-size:15px;font-family:arial;color:#fff;text-align: center;}
+    .chatbtn{position: fixed; right: 0; bottom: 60px; background: #006599; width: 112px; height: 48px; border-radius: 24px; margin: -47px 20px; z-index: 999999;border:none;}
+    .chatbtnlog{position: fixed; right: 0; bottom: 60px; background: #006599; width: 160px; height: 48px; border-radius: 24px; margin: -47px 20px; z-index: 999999;border:none;}
+    .chatbtnmob{position: fixed; right: 0; bottom: 0px; background: #006599; height: 40px; border-radius: 24px; margin: 14px 24px; z-index: 999999;border:none;}
+</style>
+
+<div class="hidden sticky-sidebar__box sticky-sidebar__box--slideLeft">
+<div class="sticky-sidebar__item">
+<div class="sticky-sidebar__img">
+<a href="/webplay/?utm_source=play&amp;utm_medium=clk&amp;utm_campaign=side">
+<svg width="120px" height="104px" viewBox="0 0 120 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g class="icon" fill="#CCFF00" fill-rule="nonzero">
+<path d="M48.9,48.9 C50.3,48.9 51.4,48.1 51.4,47 L51.4,22.5 C51.4,21.5 50.3,20.6 48.9,20.6 C47.5,20.6 46.4,21.4 46.4,22.5 L46.4,47 C46.4,48 47.5,48.9 48.9,48.9 Z" id="Shape"></path>
+<path d="M70.9,48.9 C72.3,48.9 73.4,48.1 73.4,47 L73.4,22.5 C73.4,21.5 72.3,20.6 70.9,20.6 C69.5,20.6 68.4,21.4 68.4,22.5 L68.4,47 C68.4,48 69.5,48.9 70.9,48.9 Z" id="Shape"></path>
+<path d="M19.4,66.7 C19.4,68.4 20.9,69.8 22.8,69.8 L97.3,69.8 C99.2,69.8 100.7,68.4 100.7,66.7 C100.7,65 99.2,63.6 97.3,63.6 L22.9,63.6 C21,63.6 19.4,65 19.4,66.7 Z" id="Shape"></path>
+<path d="M118.5,90.6 L109.7,66 L109.7,7.7 C109.7,3.7 106.8,0.4 103.2,0.4 L17,0.4 C13.4,0.4 10.5,3.7 10.5,7.7 L10.5,66 L1.5,91 C0.9,92.2 0.7,93.6 0.8,95 L0.8,95.8 C0.8,100.1 3.9,103.6 7.7,103.6 L40.7,103.6 C40.7,103.6 40.7,103.6 40.7,103.6 C40.9,103.6 41.1,103.6 41.3,103.5 C41.4,103.5 41.4,103.5 41.5,103.5 C41.6,103.5 41.8,103.4 41.9,103.4 C42,103.4 42,103.4 42.1,103.3 C42.3,103.2 42.4,103.1 42.6,103 C42.6,103 42.7,103 42.7,102.9 C42.8,102.8 42.9,102.7 43,102.6 C43,102.6 43.1,102.5 43.1,102.5 C43.2,102.4 43.3,102.3 43.3,102.2 C43.3,102.2 43.4,102.1 43.4,102.1 C43.5,102 43.6,101.8 43.6,101.7 C43.6,101.7 43.6,101.6 43.6,101.6 C43.6,101.6 43.6,101.6 43.6,101.6 L49,88.6 L70.9,88.6 L73.2,93.7 C73.9,95.3 75.7,96 77.3,95.4 C78.9,94.7 79.6,92.9 79,91.3 L75.9,84.3 C75.4,83.1 74.3,82.4 73,82.4 L46.9,82.4 C45.6,82.4 44.5,83.2 44,84.3 L38.6,97.3 L7.7,97.3 C7.6,97.3 7,96.8 7,95.8 L7,94.9 C7,94.8 7,94.7 7,94.6 C7,94.3 7,93.9 7.2,93.6 C7.3,93.5 7.3,93.3 7.4,93.1 L16.6,67.4 C16.7,67.1 16.8,66.8 16.8,66.4 L16.8,7.7 C16.8,7.1 17.1,6.7 17.1,6.7 L103.1,6.7 C103.2,6.8 103.5,7.1 103.5,7.8 L103.5,66.7 C103.5,67 103.5,67.3 103.6,67.7 L112.7,93 C112.8,93.2 112.9,93.5 113,93.7 C113.1,93.8 113.2,94.1 113.2,94.5 C113.2,94.6 113.2,94.6 113.2,94.7 C113.2,94.8 113.2,95 113.2,95.1 L113.2,96 C113.2,97 112.6,97.5 112.5,97.5 L52,97.5 C50.3,97.5 48.9,98.9 48.9,100.6 C48.9,102.3 50.3,103.7 52,103.7 L112.5,103.7 C116.3,103.7 119.4,100.2 119.4,95.9 L119.4,95.2 C119.4,94.9 119.4,94.7 119.4,94.4 C119.5,93 119.2,91.7 118.5,90.6 Z" id="Shape"></path>
+<path d="M91.4,81 L98.5,81 C100.2,81 101.6,79.6 101.6,77.9 C101.6,76.2 100.2,74.8 98.5,74.8 L91.4,74.8 C89.7,74.8 88.3,76.2 88.3,77.9 C88.3,79.6 89.7,81 91.4,81 Z" id="Shape"></path>
+<path d="M90.7,56.4 C94,56.4 96.7,53.7 96.7,50.4 L96.7,19.2 C96.7,15.9 94,13.2 90.7,13.2 L29.6,13.2 C26.3,13.2 23.6,15.9 23.6,19.2 L23.6,50.4 C23.6,53.7 26.3,56.4 29.6,56.4 L90.7,56.4 Z M29.1,21.5 C29.1,19.8 30.4,18.5 32.1,18.5 L88,18.5 C89.7,18.5 91,19.8 91,21.5 L91,47.8 C91,49.4 89.7,50.8 88,50.8 L32.1,50.8 C30.4,50.8 29.1,49.4 29.1,47.8 L29.1,21.5 Z" id="Shape"></path>
+</g>
+</g>
+</svg>
+<h5>play online</h5>
+</a>
+</div>
+</div>
+<div class="sticky-sidebar__item">
+<div class="sticky-sidebar__img">
+<a href="/promotions/?utm_source=promotions&amp;utm_medium=clk&amp;utm_campaign=side">
+<svg width="105px" height="120px" viewBox="0 0 105 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs></defs>
+<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g class="icon" fill="#CCFF00" fill-rule="nonzero">
+<path d="M98.1,72.3 C96.4,72.3 95,73.7 95,75.4 L95,113.1 L65.7,113.1 L65.7,52 C65.7,50.3 64.3,48.9 62.6,48.9 C60.9,48.9 59.5,50.3 59.5,52 L59.5,113.1 L45.1,113.1 L45.1,52 C45.1,50.3 43.7,48.9 42,48.9 C40.3,48.9 38.9,50.3 38.9,52 L38.9,113.1 L9.6,113.1 L9.6,75.5 C9.6,73.8 8.2,72.4 6.5,72.4 C4.8,72.4 3.4,73.8 3.4,75.5 L3.4,116.3 C3.4,117.1 3.7,117.9 4.3,118.5 C4.9,119.1 5.7,119.4 6.5,119.4 L41.1,119.4 C41.3,119.4 41.4,119.4 41.6,119.4 C41.8,119.4 41.9,119.5 42.1,119.5 L62.6,119.5 C62.7,119.5 62.7,119.5 62.8,119.5 C62.9,119.5 62.9,119.5 63,119.5 L98.2,119.5 C99.9,119.5 101.3,118.1 101.3,116.4 L101.3,75.5 C101.2,73.7 99.8,72.3 98.1,72.3 Z" id="Shape"></path>
+<path d="M99,37.7 L89.5,37.7 C91.2,34.3 91.2,30.3 89.5,26.2 C87.3,21 83.6,19.2 80.9,18.5 C76.3,17.4 70.9,18.8 65.6,22.5 C66,20.7 66.2,19 66.2,17.2 C66.2,8.1 59.9,0.6 52.3,0.6 C44.6,0.6 38.4,8 38.4,17.2 C38.4,18.9 38.6,20.7 39,22.5 C33.8,18.9 28.3,17.4 23.7,18.5 C21,19.2 17.3,21 15.1,26.2 C13.3,30.4 13.3,34.3 15,37.7 L5.5,37.7 C2.6,37.7 0.2,40.1 0.2,43 L0.2,61.8 C0.2,64.7 2.6,67.1 5.5,67.1 L30.2,67.1 C31.9,67.1 33.3,65.7 33.3,64 C33.3,62.3 31.9,60.9 30.2,60.9 L6.5,60.9 L6.5,43.9 L98,43.9 L98,60.8 L74.3,60.8 C72.6,60.8 71.2,62.2 71.2,63.9 C71.2,65.6 72.6,67 74.3,67 L99,67 C101.9,67 104.3,64.6 104.3,61.7 L104.3,43 C104.3,40.1 101.9,37.7 99,37.7 Z M23.2,37.7 C20,35.4 19.2,32.5 20.8,28.7 C21.8,26.4 23.2,25.1 25.1,24.6 C28.3,23.8 32.8,25.5 37,28.9 C40.2,31.6 43.3,34.8 45.9,37.7 L23.2,37.7 Z M52.3,30.8 C48.7,30.8 44.6,23.5 44.6,17.2 C44.6,11.5 48.1,6.9 52.3,6.9 C56.5,6.9 60,11.5 60,17.2 C59.9,23.6 55.8,30.8 52.3,30.8 Z M82,37.2 C81.8,37.3 81.7,37.5 81.5,37.7 L57.7,37.7 C60.1,35.2 63.3,32.3 67.5,28.9 C71.7,25.5 76.3,23.8 79.4,24.6 C81.3,25.1 82.7,26.4 83.7,28.7 C85.2,32.2 84.6,35 82,37.2 Z" id="Shape"></path>
+</g>
+</g>
+</svg>
+<h5>promotions</h5>
+</a>
+</div>
+</div>
+<div class="sticky-sidebar__item">
+<div class="sticky-sidebar__img">
+<a href="/webplay/cashier.php?utm_source=cashier&amp;utm_medium=clk&amp;utm_campaign=side">
+<svg width="120px" height="101px" viewBox="0 0 120 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g class="icon" fill="#CCFF00" fill-rule="nonzero">
+<path d="M116.5,94.4 L4,94.4 C2.3,94.4 0.9,95.8 0.9,97.5 C0.9,99.2 2.3,100.6 4,100.6 L116.5,100.6 C118.2,100.6 119.6,99.2 119.6,97.5 C119.6,95.8 118.2,94.4 116.5,94.4 Z M4,85.7 L116.5,85.7 C118.2,85.7 119.6,84.3 119.6,82.6 C119.6,80.9 118.2,79.5 116.5,79.5 L4,79.5 C2.3,79.5 0.9,80.9 0.9,82.6 C0.9,84.3 2.3,85.7 4,85.7 Z M4.3,70.1 L116.2,70.1 C117.9,70.1 119.3,68.7 119.3,67 L119.3,3.8 C119.3,2.1 117.9,0.7 116.2,0.7 L4.3,0.7 C2.6,0.7 1.2,2.1 1.2,3.8 L1.2,67 C1.2,68.7 2.6,70.1 4.3,70.1 Z M113.1,63.8 L98.8,63.8 C99.8,56.2 105.6,50.2 113.1,48.8 L113.1,63.8 Z M113.1,6.9 L113.1,21.1 C105.9,19.8 100.2,14.1 98.9,6.9 L113.1,6.9 Z M7.4,6.9 L21.6,6.9 C20.3,14.1 14.6,19.8 7.4,21.1 L7.4,6.9 Z M7.4,27.5 C18.1,26.1 26.5,17.6 27.9,6.9 L92.5,6.9 C93.9,17.6 102.3,26.1 113,27.5 L113,42.6 C102.1,44 93.5,52.8 92.5,63.8 L28,63.8 C27,52.8 18.4,44 7.4,42.5 L7.4,27.5 Z M7.4,48.8 C14.9,50.2 20.7,56.2 21.7,63.8 L7.4,63.8 L7.4,48.8 Z M56,53.4 L56,57.3 C56,59 57.4,60.4 59.1,60.4 C60.8,60.4 62.2,59 62.2,57.3 L62.2,53.5 C66.5,52.7 69.7,50.4 70.8,47.1 C72.9,41 68.8,36.9 65.5,35.6 C61.8,34.2 57.6,32.5 57,32.2 C53.2,30.2 52.9,29.3 53.2,27.8 C53.3,27.1 55.1,25.6 58.5,25.6 C63,25.6 65.2,28.6 65.4,28.8 C66.4,30.2 68.3,30.6 69.7,29.6 C71.1,28.6 71.5,26.7 70.5,25.3 C70.4,25.1 67.6,21.2 62.1,19.8 L62.1,16.6 C62.1,14.9 60.7,13.5 59,13.5 C57.3,13.5 55.9,14.9 55.9,16.6 L55.9,19.5 C51.2,20.2 47.7,22.8 47,26.5 C45.7,33.2 51.3,36.2 54,37.6 C55.1,38.2 60.8,40.4 63.2,41.3 C64.4,41.8 65.6,42.8 64.9,44.9 C64.5,46 62.7,47 60.6,47.2 C57.8,47.6 53.7,46.9 51.6,43.7 C50.6,42.3 48.7,41.9 47.3,42.9 C45.9,43.9 45.5,45.8 46.5,47.2 C48.5,50.5 52,52.7 56,53.4 Z" id="Shape"></path>
+</g>
+</g>
+</svg>
+<h5>cashier</h5>
+</a>
+</div>
+</div>
 </div>
 <div id="mainheader">
 <a href="/"><img src="/images/silveroak.png" alt="Silver Oak Casino" width="161" height="93" border="0"></a>
 <span class="contact">
 <img src="/images/toll-free-top.png" alt="SilverOak Casino Toll Free Number" width="156" height="27" border="0">
-<a id="_lpChatBtn17" href="//server.iad.liveperson.net/hc/77067483/?cmd=file&amp;file=visitorWantsToChat&amp;site=77067483&amp;SESSIONVAR%21skill=SilverOak-Support&amp;SESSIONVAR%21casino=Silver+Oak+Casino&amp;SESSIONVAR%21crm=1&amp;SESSIONVAR%21env=desktop&amp;SESSIONVAR%21PID=%5Buser+not+logged%5D&amp;SESSIONVAR%21playerClass=%5Buser+not+logged%5D&amp;byhref=1" target="chat77067483" onclick="javascript:window.open('//server.iad.liveperson.net/hc/77067483/?cmd=file&amp;file=visitorWantsToChat&amp;site=77067483&amp;SESSIONVAR%21skill=SilverOak-Support&amp;SESSIONVAR%21casino=Silver+Oak+Casino&amp;SESSIONVAR%21crm=1&amp;SESSIONVAR%21env=desktop&amp;SESSIONVAR%21PID=%5Buser+not+logged%5D&amp;SESSIONVAR%21playerClass=%5Buser+not+logged%5D&amp;referrer='+escape(document.location),'chat77067483','width=475,height=400,resizable=yes');return false;"><img src="/images/live-help-top.png" alt="SilverOak Casino Live Chat Help" width="156" height="27" border="0"></a> </span>
+<a href="#" class="livechatlink"><img src="/images/live-help-top.png" alt="SilverOak Casino Live Chat Help" width="156" height="27" border="0"></a> </span>
 <nav>
 <ul class="mainnav">
 <li><a href="/signup/">Download</a></li>
@@ -128,7 +207,7 @@ safari_web_id: "web.onesignal.auto.4ed285de-faf5-4c6c-a346-3ff91e5aded6", autoRe
 </li>
 </ul>
 </div>
-</div> 
+</div>
 <footer id="mainfooter">
 <section class="footertop">
 <ul class="footernav">
@@ -138,56 +217,55 @@ safari_web_id: "web.onesignal.auto.4ed285de-faf5-4c6c-a346-3ff91e5aded6", autoRe
 <li><a href="/casino-games/video-poker/">Video Poker</a></li>
 <li><a href="/casino-games/baccarat/">Online Baccarat</a></li>
 <li><a href="/casino-games/craps/">Online Craps</a></li>
-<li><a href="http://www.acerevenue.com/" target="_blank">Casino Affiliate Program</a></li>
-<li><a href="https://www.playersrewardscard.com/" target="_blank">Online Casino Rewards</a></li>
-<li><a href="/terms-conditions/">Terms &amp; Conditions</a></li>
 <li><a href="/sitemap/">Site Map</a></li>
 </ul>
 <img src="/images/footer-banking.png" alt="Casino Banking" width="712" height="31">
 <span class="partners">
-<a href="http://www.acerevenue.com" target="_blank" rel="nofollow" class="acerevenue">&nbsp;</a>
 <a href="http://www.centraldisputesystem.com/form.asp?casinoID=149" target="_blank" rel="nofollow" class="cds">&nbsp;</a>
-<a href="/prc/" class="prc">&nbsp;</a>
 <a href="http://www.hastingsbv.com/" target="_blank" class="CDScertified" rel="nofollow">&nbsp;</a>
 </span>
 </section>
 <section class="social">
 <div class="top"><img src="/images/footer-top-bg-inner.png" width="920" height="31"></div>
 <div id="homecontent"></div>
-<ul>
-<li>You can also find us here:</li>
-<li><a href="https://www.facebook.com/SilverOakCasino" target="_blank" rel="nofollow" class="facebook"></a></li>
-<li><a href="https://twitter.com/SilverOakCasino" target="_blank" rel="nofollow" class="twitter"></a></li>
-<li><a href="https://www.youtube.com/user/SilverOakCasinoVideo" target="_blank" rel="nofollow" class="youtube"></a></li>
-<li><a href="https://plus.google.com/103160152837427724380/" target="_blank" rel="publisher" class="googleplus"></a></li>
-</ul>
 <div id="footernavplaceholder"></div>
 </section>
 <section class="copyright">
 <div class="grad"></div>
-<p>Copyright 2017 - All Rights Reserved. We invite you to review the <a href="/terms-conditions/">Terms &amp; Conditions</a> - <a href="/privacy-policy/">Privacy Policy</a></p>
+<p>Copyright 2019 - All Rights Reserved. We invite you to review the <a href="/terms-conditions/">Terms &amp; Conditions</a> - <a href="/privacy-policy/">Privacy Policy</a></p>
 <p>Standard <a href="/terms-conditions/">Terms &amp; Conditions</a> apply to all available promotions, unless specifically stated otherwise.</p>
 </section>
 </footer>
+
 <iframe id="downloadtargetframe" name="downloadtargetframe" width="0" height="0" frameborder="0"></iframe>
 <script type="text/javascript" src="//www.silveroakcasino.com/js/silveroak.js"></script>
 <script type="text/javascript" src="https://www.silveroakcasino.com/wordpress/wp-includes/js/wp-embed.min.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var countVars = {"disqusShortname":"silveroakblog"};
-/* ]]> */
+<script src="/js/cookiechoices.js"></script>
+<script>
+  function obtenerip() {
+    document.addEventListener('DOMContentLoaded', function (event) {
+      var ipContinent = 'NA';
+
+        if (ipContinent == 'EU') {
+          cookieChoices.showCookieConsentBar('We use cookies to improve your experience on our website. By browsing this website, you agree to our use of cookies.',
+            'OK, I agree',
+            'Learn more.',
+            '/cookies-policy');
+        }
+        // REMOVE DIALOG IF CLOSE
+        jQuery(".cookieChoiceDismiss.clickBotonCierre").click(function () {
+          jQuery('#cookieChoiceDismiss').click();
+        });
+    });
+  }
+  obtenerip();
 </script>
-<script type="text/javascript" src="https://www.silveroakcasino.com/wordpress/wp-content/plugins/disqus-comment-system/media/js/count.js"></script>
- 
-<script type="text/javascript" src="https://dx.steelhousemedia.com/spx?dxver=4.0.0&amp;shaid=11798&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170611155119id_%2Fhttps%3A%2F%2Fwww.silveroakcasino.com%2Fprivacy-policy%2F&amp;cb=5476344132655830"></script><script type="text/javascript">
-(function(){"use strict";var e=null,b="4.0.0",
-n="11798",
-additional="",
-t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.substring(0,2048)):""}catch(o){t=document.referrer!==null?document.referrer.toString().substring(0,2048):""}try{r=window&&window.top&&document.location&&window.top.location===document.location?document.location:window&&window.top&&window.top.location&&""!==window.top.location?window.top.location:document.location}catch(u){r=document.location}try{i=parent.location.href!==""?encodeURIComponent(parent.location.href.toString().substring(0,2048)):""}catch(a){try{i=r!==null?encodeURIComponent(r.toString().substring(0,2048)):""}catch(f){i=""}}var l,c=document.createElement("script"),h=null,p=document.getElementsByTagName("script"),d=Number(p.length)-1,v=document.getElementsByTagName("script")[d];if(typeof l==="undefined"){l=Math.floor(Math.random()*1e17)}h="dx.steelhousemedia.com/spx?"+"dxver="+b+"&shaid="+n+"&tdr="+t+"&plh="+i+"&cb="+l+additional;c.type="text/javascript";c.src=("https:"===document.location.protocol?"https://":"http://")+h;v.parentNode.insertBefore(c,v)})()
-</script>
- 
-<script data-main="//traffic-facts.com/javascripts/tracker_main.js" src="//traffic-facts.com/javascripts/require.js" id="supercookie_script" data-casino-id="1" data-pid="" async="">
-</script>
+<script>
+var hideblog = false;</script>
+
+
+<script defer="" src="/js/call_zendesk_file.js"></script>
+<script src="/modules/core/maint-alert/maintenance_alert.js" async=""></script>
 
 
 </body></html>
