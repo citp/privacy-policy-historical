@@ -1,26 +1,27 @@
-<!--The following is the downloaded HTML source of the thrivelife.com privacy policy that was archived on 2018-07-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180730204056id_/https%3A//www.thrivelife.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thrivelife.com privacy policy that was archived on 2019-02-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190220094438id_/https%3A//www.thrivelife.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
 <title>Privacy Policy</title>
 <meta name="description" content="Thrive Life: A more convenient way to prepare your meals. A more nutritious way of eating. THRIVE, a premier line of delicious freeze dried and dehydrated foods is, simply put, a better way.">
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://www.thrivelife.com/media/favicon/default/icon-allsizes.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.thrivelife.com/media/favicon/default/icon-allsizes.ico" type="image/x-icon">
+<link rel="icon" href="https://cdn.thrivelife.com/media/favicon/default/icon-allsizes.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://cdn.thrivelife.com/media/favicon/default/icon-allsizes.ico" type="image/x-icon">
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Dancing+Script|Varela+Round">
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
-    var BLANK_URL = 'http://www.thrivelife.com/js/blank.html';
-    var BLANK_IMG = 'http://www.thrivelife.com/js/spacer.gif';
+    var BLANK_URL = 'https://www.thrivelife.com/js/blank.html';
+    var BLANK_IMG = 'https://www.thrivelife.com/js/spacer.gif';
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.thrivelife.com/media/css/79a5e43834b38f76ccc1f0b5f9d46550.css">
-<link rel="stylesheet" type="text/css" href="http://www.thrivelife.com/media/css/40e1cc77c1fbcb0d3293337547794d22.css" media="all">
-<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="http://www.thrivelife.com/media/js/548063cca0ea21edad09ea55cd730b0c.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.thrivelife.com/media/css_secure/f50339de710225cee3e83d1b0d4b4b9e.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.thrivelife.com/media/css_secure/cbdc40d572b8fea6ff381cf3806ed764.css" media="all">
+<script type="text/javascript" src="https://cdn.thrivelife.com/media/js/04feabf22909b9d9d00ef2f70d524b89.js"></script>
+<script type="text/javascript" src="https://cdn.thrivelife.com/media/js/77d7aa9598eef25fe405925773aa032f.js" async=""></script>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -50,7 +51,7 @@ optionalZipCountries = ["HK","IE","MO","PA"];
         /* jshint ignore:start */
                 /* jshint ignore:end */
     </script>
-
+<script type="text/javascript" src="" async=""></script>
 <script type="text/javascript">
 //<![CDATA[
 enUS = {"m":{"wide":["January","February","March","April","May","June","July","August","September","October","November","December"],"abbr":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}}; // en_US locale reference
@@ -168,6 +169,70 @@ src="https://www.facebook.com/tr?id=1793541957583094&ev=PageView&noscript=1"
                         <!-- NOCACHE key="consultDropDown" -->
                         <li class="your-consultant">
                             
+<div class="modal fade text-left" id="changeConsultantModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+                <h4 class="modal-title">Find Your Consultant</h4>
+            </div>
+            <form class="modal-body" method="get" action="https://www.thrivelife.com/parties/ajax/consultantSearch/" data-action="search" style="padding-bottom: 0;">
+                <div class="form-group">
+                    <div class="input-group">
+                        <input type="search" class="form-control" placeholder="Search Thrive Life Consultants…" name="q" required="">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" type="submit">Search</button>
+                        </span>
+                    </div>
+                </div>
+            </form>
+            <form method="post" action="https://www.thrivelife.com/parties/ajax/consultantChange/" data-action="change">
+                <div class="modal-body" style="padding-top: 0;">
+                    <div class="search-result">
+                        <div class="text-muted" style="height: 97px;">
+                            Search for a consultant by ID, email, or URL, or select from your recently visited to change who you're shopping under.
+                        </div>
+                    </div>
+                    <hr>
+                    <h5>Recently visited</h5>
+                    <div class="row">
+                                            </div>
+                    <p class="text-muted"><small>You'll always receive wholesale pricing on all Thrive Life products when purchasing from a Thrive Life Consultant.</small></p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                    <button type="submit" class="btn btn-primary">Save</button>
+                </div>
+                <input name="form_key" type="hidden" value="w9OaVW2JBkixghz8">
+            </form>
+        </div>
+    </div>
+</div>
+<script>
+jQuery('#changeConsultantModal form[data-action="search"]').submit(function(e) {
+    let $this = jQuery(this);
+    $this.find('.btn').addClass('is-loading');
+    jQuery.get($this.attr('action'), $this.serialize(), function (data) {
+        let body = jQuery('#changeConsultantModal form[data-action="change"] .modal-body');
+        body.find('.search-result').remove();
+        body.find('input[type="radio"]').prop('checked', false);
+        body.prepend(data);
+        $this.find('.btn').removeClass('is-loading');
+    });
+    e.preventDefault();
+});
+jQuery('#changeConsultantModal form[data-action="change"]').submit(function(e) {
+    let $this = jQuery(this);
+    $this.find('.btn[type="submit"]').addClass('is-loading');
+    jQuery.post($this.attr('action'), $this.serialize(), function () {
+        location.reload();
+    });
+    e.preventDefault();
+});
+</script>
+
                         </li>
                         <!-- ENDNOCACHE -->
                         <li class="lang-select hidden-xs">
@@ -175,43 +240,43 @@ src="https://www.facebook.com/tr?id=1793541957583094&ev=PageView&noscript=1"
                                 
     
         <a class="dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">
-            <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/default-flag.jpg" alt="">
+            <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/default-flag.jpg" alt="">
             US - Contiguous <span class="caret"></span>
         </a>
         <ul class="dropdown-menu">
                                             <li>
-                    <a href="http://www.thrivelife.com/privacy-policy">
-                        <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/default-flag.jpg" alt="">
+                    <a href="https://www.thrivelife.com/privacy-policy">
+                        <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/default-flag.jpg" alt="">
                         US - Contiguous                    </a>
                 </li>
                                             <li>
-                    <a href="http://hawaii.thrivelife.com/privacy-policy">
-                        <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/hawaii_eng-flag.jpg" alt="">
+                    <a href="https://hawaii.thrivelife.com/privacy-policy">
+                        <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/hawaii_eng-flag.jpg" alt="">
                         US - Hawaii                    </a>
                 </li>
                                             <li>
-                    <a href="http://alaska.thrivelife.com/privacy-policy">
-                        <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/alaska_eng-flag.jpg" alt="">
+                    <a href="https://alaska.thrivelife.com/privacy-policy">
+                        <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/alaska_eng-flag.jpg" alt="">
                         US - Alaska                    </a>
                 </li>
                                             <li>
-                    <a href="http://es.thrivelife.com/privacy-policy">
-                        <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/es-flag.jpg" alt="">
+                    <a href="https://es.thrivelife.com/privacy-policy">
+                        <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/es-flag.jpg" alt="">
                         US - Español                    </a>
                 </li>
                                             <li>
-                    <a href="http://canada.thrivelife.com/privacy-policy">
-                        <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/canada_eng-flag.jpg" alt="">
+                    <a href="https://canada.thrivelife.com/privacy-policy">
+                        <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/canada_eng-flag.jpg" alt="">
                         Canada - English                    </a>
                 </li>
                                             <li>
-                    <a href="http://japan.thrivelife.com/privacy-policy">
-                        <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/jp-flag.jpg" alt="">
+                    <a href="https://japan.thrivelife.com/privacy-policy">
+                        <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/jp-flag.jpg" alt="">
                         Japan - 日本語                    </a>
                 </li>
                                             <li>
-                    <a href="http://puertorico.thrivelife.com/privacy-policy">
-                        <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/pr-flag.jpg" alt="">
+                    <a href="https://puertorico.thrivelife.com/privacy-policy">
+                        <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/pr-flag.jpg" alt="">
                         Puerto Rico - Español                    </a>
                 </li>
                     </ul>
@@ -222,9 +287,9 @@ src="https://www.facebook.com/tr?id=1793541957583094&ev=PageView&noscript=1"
                 </nav>
                 <div class="row">
                     <div class="col-sm-3" id="thrive-logo-container">
-                        <a href="http://www.thrivelife.com/" title="Thrive Life" class="logo">
+                        <a href="https://www.thrivelife.com/" title="Thrive Life" class="logo">
                             <strong class="sr-only">Thrive Life</strong>
-                            <img class="img-responsive" src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/logo.jpg" alt="Thrive Life">
+                            <img class="img-responsive" src="https://cdn.thrivelife.com//media/wysiwyg/Homepage/ThriveLife-Logo_Tag.svg" alt="Thrive Life">
                         </a>
                     </div>
                     <div class="col-sm-9">
@@ -239,39 +304,51 @@ src="https://www.facebook.com/tr?id=1793541957583094&ev=PageView&noscript=1"
     </div>
     <div class="navbar-collapse collapse top-nav top-main-nav">
         <ul class="nav navbar-nav">
-            <li class="dropdown list-group-item">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                    Delivery Service                </a>
+            <li class="dropdown list-group-item nav-shop">
+                <a class="dropdown-toggle nav-shop-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                    Shop <i class="fa fa-caret-down"></i>
+                </a>
+                 <!-- CMS nav-shop-menu --> <ul class="dropdown-menu">
+    <li><a href="/catalog/category/view/id/290/">Snackies</a></li>
+    <li><a href="/catalog/category/view/id/303/">To Go</a></li>
+    <li><a href="/catalog/category/view/id/302/">Simple Plate</a></li>
+    <li><a href="/shop/">Ingredients</a></li>
+    <li><a href="/shop/">Other</a></li>
+</ul>
+ <!-- /CMS nav-shop-menu -->             </li>
+            <li class="dropdown list-group-item nav-ds">
+                <a class="dropdown-toggle nav-ds-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                    Delivery Service <i class="fa fa-caret-down"></i>
+                </a>
                 <ul class="dropdown-menu">
                                             <li><a href="https://www.thrivelife.com/delivery/index/deliveryservice/">About Our Delivery Service</a></li>
-                        <li><a href="http://www.thrivelife.com/bestoptions/">Best Options</a></li>
+                        <li><a href="https://www.thrivelife.com/bestoptions/">Best Options</a></li>
                                     </ul>
             </li>
-            <li class="dropdown list-group-item">
-                <a href="/shop">
-                    Shop                </a>
-            </li>
-            <li class="dropdown list-group-item">
+            <li class="dropdown list-group-item nav-recipes">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                    Share                </a>
+                    Recipes <i class="fa fa-caret-down"></i>
+                </a>
                 <ul class="dropdown-menu">
-                                            <li><a href="/parties/index/hostparty">Have a Tasting</a></li>
-                                                            <li>
-                        <a href="/parties/index/becomeconsultant">Join Our Team</a>
-                    </li>
+                                        <li><a href="https://www.thrivelife.com/all-products/thrive-foods-182/simple-plate.html" class="nav-sp-recipes-link">Simple Plate Recipes</a></li>
+                    <li><a href="/recipes" class="nav-your-recipes-link">Your Recipes</a></li>
                 </ul>
             </li>
-            <li class="dropdown list-group-item">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                    Recipes                </a>
+            <li class="dropdown list-group-item nav-share">
+                <a class="dropdown-toggle nav-share-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                    Share <i class="fa fa-caret-down"></i>
+                </a>
                 <ul class="dropdown-menu">
-                                        <li><a href="http://www.thrivelife.com/all-products/thrive-foods-175/simple-plate.html">Simple Plate Recipes</a></li>
-                    <li><a href="/recipes">Your Recipes</a></li>
-                </ul>
+                                                                        <li><a href="/parties/index/hostparty" class="nav-no-account-tasting-link">Have a Tasting</a></li>
+                                                                        <li>
+                            <a href="/parties/index/becomeconsultant">Join Our Team</a>
+                        </li>
+                                    </ul>
             </li>
-            <li class="dropdown list-group-item">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                    About Us                </a>
+            <li class="dropdown list-group-item nav-about">
+                <a class="dropdown-toggle nav-about-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                    About Us <i class="fa fa-caret-down"></i>
+                </a>
                 <ul class="dropdown-menu">
                     <li><a href="/whythrive">Our Food</a></li>
                     <li><a href="/about-us">Our Story</a></li>
@@ -281,11 +358,11 @@ src="https://www.facebook.com/tr?id=1793541957583094&ev=PageView&noscript=1"
         <ul class="nav navbar-nav navbar-right">
             
 
-    <li class="account-link"><a href="/customer/account/login">Login</a></li>
-    <li class="account-link sign-up-link"><a href="/customer/account/create">Sign Up</a></li>
+    <li class="account-link"><a href="/customer/account/login" class="nav-login-link">Login</a></li>
+    <li class="account-link sign-up-link"><a href="/customer/account/create" class="nav-sign-up-link">Sign Up</a></li>
 
             <li class="cart-link hidden-xs">
-            <a href="http://www.thrivelife.com/checkout/cart/" title="Shopping Cart">
+            <a href="https://www.thrivelife.com/checkout/cart/" title="Shopping Cart">
                 <span class="sr-only">Shopping Cart</span>
                 <span class="fa fa-shopping-cart"></span>
                 <span class="cart-qty" aria-hidden="true">
@@ -302,8 +379,8 @@ src="https://www.facebook.com/tr?id=1793541957583094&ev=PageView&noscript=1"
         <div class="navbar-default ">
         <div class="container">
             <div class="navbar-header">
-                <a class="navbar-brand hidden-lg hidden-md hidden-sm pull-left" href="http://www.thrivelife.com/">
-                    <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/logo.png" alt="Thrive Life">
+                <a class="navbar-brand hidden-lg hidden-md hidden-sm pull-left" href="https://www.thrivelife.com/">
+                    <img class="img-responsive" src="https://cdn.thrivelife.com//media/wysiwyg/Homepage/ThriveLife-Logo_Tag.svg" alt="Thrive Life">
                 </a>
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="icon-bar"></span>
@@ -322,86 +399,162 @@ src="https://www.facebook.com/tr?id=1793541957583094&ev=PageView&noscript=1"
                             Main Site Links                        </li>
                                                     <li class="list-group-item">
                                 
+<div class="modal fade text-left" id="changeConsultantModal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">×</span>
+                </button>
+                <h4 class="modal-title">Find Your Consultant</h4>
+            </div>
+            <form class="modal-body" method="get" action="https://www.thrivelife.com/parties/ajax/consultantSearch/" data-action="search" style="padding-bottom: 0;">
+                <div class="form-group">
+                    <div class="input-group">
+                        <input type="search" class="form-control" placeholder="Search Thrive Life Consultants…" name="q" required="">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" type="submit">Search</button>
+                        </span>
+                    </div>
+                </div>
+            </form>
+            <form method="post" action="https://www.thrivelife.com/parties/ajax/consultantChange/" data-action="change">
+                <div class="modal-body" style="padding-top: 0;">
+                    <div class="search-result">
+                        <div class="text-muted" style="height: 97px;">
+                            Search for a consultant by ID, email, or URL, or select from your recently visited to change who you're shopping under.
+                        </div>
+                    </div>
+                    <hr>
+                    <h5>Recently visited</h5>
+                    <div class="row">
+                                            </div>
+                    <p class="text-muted"><small>You'll always receive wholesale pricing on all Thrive Life products when purchasing from a Thrive Life Consultant.</small></p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                    <button type="submit" class="btn btn-primary">Save</button>
+                </div>
+                <input name="form_key" type="hidden" value="w9OaVW2JBkixghz8">
+            </form>
+        </div>
+    </div>
+</div>
+<script>
+jQuery('#changeConsultantModal form[data-action="search"]').submit(function(e) {
+    let $this = jQuery(this);
+    $this.find('.btn').addClass('is-loading');
+    jQuery.get($this.attr('action'), $this.serialize(), function (data) {
+        let body = jQuery('#changeConsultantModal form[data-action="change"] .modal-body');
+        body.find('.search-result').remove();
+        body.find('input[type="radio"]').prop('checked', false);
+        body.prepend(data);
+        $this.find('.btn').removeClass('is-loading');
+    });
+    e.preventDefault();
+});
+jQuery('#changeConsultantModal form[data-action="change"]').submit(function(e) {
+    let $this = jQuery(this);
+    $this.find('.btn[type="submit"]').addClass('is-loading');
+    jQuery.post($this.attr('action'), $this.serialize(), function () {
+        location.reload();
+    });
+    e.preventDefault();
+});
+</script>
+
                             </li>
                                                 <li class="list-group-item">
                             
     
         <a class="dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown">
-            <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/default-flag.jpg" alt="">
+            <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/default-flag.jpg" alt="">
             US - Contiguous <span class="caret"></span>
         </a>
         <ul class="dropdown-menu">
                                             <li>
-                    <a href="http://www.thrivelife.com/privacy-policy">
-                        <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/default-flag.jpg" alt="">
+                    <a href="https://www.thrivelife.com/privacy-policy">
+                        <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/default-flag.jpg" alt="">
                         US - Contiguous                    </a>
                 </li>
                                             <li>
-                    <a href="http://hawaii.thrivelife.com/privacy-policy">
-                        <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/hawaii_eng-flag.jpg" alt="">
+                    <a href="https://hawaii.thrivelife.com/privacy-policy">
+                        <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/hawaii_eng-flag.jpg" alt="">
                         US - Hawaii                    </a>
                 </li>
                                             <li>
-                    <a href="http://alaska.thrivelife.com/privacy-policy">
-                        <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/alaska_eng-flag.jpg" alt="">
+                    <a href="https://alaska.thrivelife.com/privacy-policy">
+                        <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/alaska_eng-flag.jpg" alt="">
                         US - Alaska                    </a>
                 </li>
                                             <li>
-                    <a href="http://es.thrivelife.com/privacy-policy">
-                        <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/es-flag.jpg" alt="">
+                    <a href="https://es.thrivelife.com/privacy-policy">
+                        <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/es-flag.jpg" alt="">
                         US - Español                    </a>
                 </li>
                                             <li>
-                    <a href="http://canada.thrivelife.com/privacy-policy">
-                        <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/canada_eng-flag.jpg" alt="">
+                    <a href="https://canada.thrivelife.com/privacy-policy">
+                        <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/canada_eng-flag.jpg" alt="">
                         Canada - English                    </a>
                 </li>
                                             <li>
-                    <a href="http://japan.thrivelife.com/privacy-policy">
-                        <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/jp-flag.jpg" alt="">
+                    <a href="https://japan.thrivelife.com/privacy-policy">
+                        <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/jp-flag.jpg" alt="">
                         Japan - 日本語                    </a>
                 </li>
                                             <li>
-                    <a href="http://puertorico.thrivelife.com/privacy-policy">
-                        <img src="http://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/pr-flag.jpg" alt="">
+                    <a href="https://puertorico.thrivelife.com/privacy-policy">
+                        <img src="https://www.thrivelife.com/skin/frontend/_thrive/default/images/flags/pr-flag.jpg" alt="">
                         Puerto Rico - Español                    </a>
                 </li>
                     </ul>
 
                         </li>
-                        <li class="dropdown list-group-item">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                                Delivery Service                            </a>
+                        <li class="dropdown list-group-item nav-shop">
+                            <a class="dropdown-toggle nav-shop-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                                Shop <i class="fa fa-caret-down"></i>
+                            </a>
+                             <!-- CMS nav-shop-menu --> <ul class="dropdown-menu">
+    <li><a href="/catalog/category/view/id/290/">Snackies</a></li>
+    <li><a href="/catalog/category/view/id/303/">To Go</a></li>
+    <li><a href="/catalog/category/view/id/302/">Simple Plate</a></li>
+    <li><a href="/shop/">Ingredients</a></li>
+    <li><a href="/shop/">Other</a></li>
+</ul>
+ <!-- /CMS nav-shop-menu -->                         </li>
+                        <li class="dropdown list-group-item nav-ds">
+                            <a class="dropdown-toggle nav-ds-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                                Delivery Service <i class="fa fa-caret-down"></i>
+                            </a>
                             <ul class="dropdown-menu">
                                                                     <li><a href="https://www.thrivelife.com/delivery/index/deliveryservice/">About Our Delivery Service</a></li>
-                                    <li><a href="http://www.thrivelife.com/bestoptions/">Best Options</a></li>
+                                    <li><a href="https://www.thrivelife.com/bestoptions/">Best Options</a></li>
                                                             </ul>
                         </li>
-                        <li class="dropdown list-group-item">
-                            <a href="/shop">
-                                Shop                            </a>
-                        </li>
-                        <li class="dropdown list-group-item">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                                Share                            </a>
+                        <li class="dropdown list-group-item nav-recipes">
+                            <a class="dropdown-toggle nav-recipes-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                                Recipes <i class="fa fa-caret-down"></i>
+                            </a>
                             <ul class="dropdown-menu">
-                                                                    <li><a href="/parties/index/hostparty">Have a Tasting</a></li>
-                                                                                                <li>
-                                    <a href="/parties/index/becomeconsultant">Join Our Team</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="dropdown list-group-item">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                                Recipes                            </a>
-                            <ul class="dropdown-menu">
-                                                                <li><a href="http://www.thrivelife.com/all-products/thrive-foods-175/simple-plate.html">Simple Plate Recipes</a></li>
+                                                                <li><a href="https://www.thrivelife.com/all-products/thrive-foods-182/simple-plate.html">Simple Plate Recipes</a></li>
                                 <li><a href="/recipes">Your Recipes</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown list-group-item">
+                        <li class="dropdown list-group-item nav-share">
                             <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                                About Us                            </a>
+                                Share <i class="fa fa-caret-down"></i>
+                            </a>
+                            <ul class="dropdown-menu">
+                                                                                                            <li><a href="/parties/index/hostparty" class="nav-no-account-tasting-link">Have a Tasting</a></li>
+                                                                                                            <li>
+                                        <a href="/parties/index/becomeconsultant">Join Our Team</a>
+                                    </li>
+                                                            </ul>
+                        </li>
+                        <li class="dropdown list-group-item nav-about">
+                            <a class="dropdown-toggle nav-about-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                                About Us <i class="fa fa-caret-down"></i>
+                            </a>
                             <ul class="dropdown-menu">
                                 <li><a href="/whythrive">Our Food</a></li>
                                 <li><a href="/about-us">Our Story</a></li>
@@ -409,11 +562,11 @@ src="https://www.facebook.com/tr?id=1793541957583094&ev=PageView&noscript=1"
                         </li>
                         
 
-    <li class="account-link"><a href="/customer/account/login">Login</a></li>
-    <li class="account-link sign-up-link"><a href="/customer/account/create">Sign Up</a></li>
+    <li class="account-link"><a href="/customer/account/login" class="nav-login-link">Login</a></li>
+    <li class="account-link sign-up-link"><a href="/customer/account/create" class="nav-sign-up-link">Sign Up</a></li>
 
             <li class="cart-link hidden-xs">
-            <a href="http://www.thrivelife.com/checkout/cart/" title="Shopping Cart">
+            <a href="https://www.thrivelife.com/checkout/cart/" title="Shopping Cart">
                 <span class="sr-only">Shopping Cart</span>
                 <span class="fa fa-shopping-cart"></span>
                 <span class="cart-qty" aria-hidden="true">
@@ -424,49 +577,7 @@ src="https://www.facebook.com/tr?id=1793541957583094&ev=PageView&noscript=1"
                             </div>
         </div>
     </div>
-    <nav id="bf-counter-bar" style="background-color:#76be43;">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-xs-12">
-                <div class="bf-text">
-                                    </div>
-                <div class="bf-counter-after hide">
-                    Free Shipping on Everything in Deliveries $100+ <b>Starts Today!</b><a data-toggle="modal" data-target="#freeShip"><u style="color: white;font-size: 70%;vertical-align: top;margin-left: 5px;">(View Details)</u></a>                </div>
-                <div class="bf-counter hide">
-                    <div class="bf-digit time-days">00</div>
-                    <div class="bf-digit time-hour">00</div>
-                    <div class="bf-digit-separator">:</div>
-                    <div class="bf-digit time-minute">00</div>
-                    <div class="bf-digit-separator">:</div>
-                    <div class="bf-digit time-sec">00</div>
-                </div>
-                <div id="blackfriday-countdown"></div>
-            </div>
-        </div>
     </div>
-</nav>
-<div id="blackfriday-countdown1">
-</div>
-<script src="http://www.thrivelife.com/skin/frontend/_thrive/default/bower_components/jquery.countdown/dist/jquery.countdown.js"></script>
-<script>
-    jQuery("#blackfriday-countdown").countdown("2018/07/19 08:00:00", function (event) {
-        var h = event.strftime('%H');
-        m = event.strftime('%M');
-        s = event.strftime('%S');
-        d = event.strftime('%D');
-        jQuery(".bf-counter").removeClass('hide');
-        jQuery(".bf-counter .time-days").html(d + " days ");
-        jQuery(".bf-counter .time-hour").html(h);
-        jQuery(".bf-counter .time-minute").html(m);
-        jQuery(".bf-counter .time-sec").html(s);
-        //this means the wait is over
-        if(!event.offset.totalSeconds){
-          jQuery(".bf-counter,.bf-text").addClass("hide");
-          jQuery(".bf-counter-after").removeClass("hide");
-                      
-        }
-    });
-</script></div>
 <div class="banner-full-width-container">
     </div>
 <script>
@@ -478,6 +589,7 @@ src="https://www.facebook.com/tr?id=1793541957583094&ev=PageView&noscript=1"
         jQuery(this).hide();
     });
 </script>
+
 
 
 
@@ -567,7 +679,7 @@ e.preventDefault();
                             <li><a href="/contact-us">Contact</a></li>
                             <li><a id="feedback-tab" href="javascript:void(0)" title="Please click here to leave us your feedback">Feedback</a></li>
                             <li></li><a href="/customer/account/edit/">My Account</a>
-                            <li></li><a href="/parties/faq">FAQ</a>
+                            <li></li><a href="/frequently-asked-questions">FAQ</a>
                         </ul>
                     </div>
                     <div class="col-sm-4 footer-bottom-bar">
@@ -578,8 +690,8 @@ e.preventDefault();
                             <a href="//twitter.com/ThriveLifeLLC" target="_blank"><span class="social-link fa fa-twitter"></span></a>
                             <a href="//www.youtube.com/shelfreliance" target="_blank"><span class="social-link fa fa-youtube"></span></a>
                         </div>
-                            <script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?code=5b6e8bcd15b04b00aad90bf31b408411" async=""></script>
-                        <div class="">
+                        <script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?code=5b6e8bcd15b04b00aad90bf31b408411"></script>
+                        <div>
                            <br>
                            <p> © <script>document.write(new Date().getFullYear());</script>2020 Thrive Life, LLC™ All Rights Reserved</p>
                            <p><a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-condition">Terms &amp; Conditions</a></p>
@@ -606,6 +718,10 @@ e.preventDefault();
         {url: document.referrer || ''}
     );
     jQuery(document).ready(function () {
+        if (jQuery(".your-consultant").children().length) {
+            jQuery('[href="/parties/index/findconsultant"]').closest('li').remove();
+        }
+
         var bar_loaded = false;
         var bar_html = jQuery("#consultant-bar").html();
         if (bar_html && bar_html.length > 0) {
@@ -638,9 +754,9 @@ e.preventDefault();
     jQuery(document).ready(function () {
         jQuery('#feedback-tab').click(function () {
             if (jQuery("#feedback_ajax_popup").length) {
-                jQuery("#feedback_ajax_popup").html("<img src='http://www.thrivelife.com/skin/frontend/_thrive/default/images/ajax-loader.gif' alt='loading data'>").load("https://www.thrivelife.com/picker/index/feedback/?SID=51ts6t7pdqdau6qtgkojjolpi2 #feedback_popup").dialog('open');
+                jQuery("#feedback_ajax_popup").html("<img src='https://www.thrivelife.com/skin/frontend/_thrive/default/images/ajax-loader.gif' alt='loading data'>").load("https://www.thrivelife.com/picker/index/feedback/ #feedback_popup").dialog('open');
             } else {
-                jQuery("body").append("<div id='feedback_ajax_popup' style='display: none;'><img src='http://www.thrivelife.com/skin/frontend/_thrive/default/images/ajax-loader.gif' alt='loading data'></div>");
+                jQuery("body").append("<div id='feedback_ajax_popup' style='display: none;'><img src='https://www.thrivelife.com/skin/frontend/_thrive/default/images/ajax-loader.gif' alt='loading data'></div>");
                 jQuery("#feedback_ajax_popup").dialog({
                     autoOpen: false,
                     bgiframe: true,
@@ -649,7 +765,7 @@ e.preventDefault();
                     resizable: false,
                     width: 600
                 });
-                jQuery("#feedback_ajax_popup").load("https://www.thrivelife.com/picker/index/feedback/?SID=51ts6t7pdqdau6qtgkojjolpi2 #feedback_popup").dialog('open');
+                jQuery("#feedback_ajax_popup").load("https://www.thrivelife.com/picker/index/feedback/ #feedback_popup").dialog('open');
             }
         });
 
@@ -748,7 +864,7 @@ e.preventDefault();
         <h4 class="modal-title" id="myModalLabel">Free Shipping Details</h4>
       </div>
       <div class="modal-body">
-        <p>Free and discounted shipping (5% shipping charge in Alaska and Hawaii) is now available on ALL items for deliveries $100 or more! Pantry Organizers and large packages are not included.</p>
+        <p>Free and discounted shipping (5% shipping charge in Alaska and Hawaii) is now available on ALL items for deliveries $100 or more! Pantry Organizers, Buckets and large packages are not included.</p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -775,6 +891,6 @@ var _sf_async_config={uid:8743,domain:"thrivelife.com"};
 })();
 </script>
 <!-- End Chart Beat Tracker Code -->
-    
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f372749c34","applicationID":"9819934","transactionName":"ZlBbYBFUD0tXU0wIWV8aeFcXXA5WGVNVEhlBVF5RTEMIXUE=","queueTime":0,"applicationTime":241,"atts":"ShdYFllOHEU=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
