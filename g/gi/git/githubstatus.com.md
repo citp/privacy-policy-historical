@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the githubstatus.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228153954id_/https%3A//help.github.com/articles/github-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the githubstatus.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220141417id_/https%3A//help.github.com/articles/github-privacy-statement) for the most accurate reproduction.*
 
 # GitHub Privacy Statement - User Documentation
 
@@ -67,7 +67,7 @@ User Personal Information does not include aggregated, non-personally identifyin
 
 Under certain international laws (including GDPR), GitHub is required to notify you about the legal basis on which we process User Personal Information. GitHub processes User Personal Information on the following legal bases:
 
-  * When you create a GitHub account, you provide your user name and an email address. We require those data elements for you to enter into the Terms of Service agreement with us, and we process those elements on the basis of performing that contract. We also process your user name and email address on other bases. If you have a GitHub Hosted, GitHub Enterprise, or other paid account with us, there will be other data elements we must collect and process on the basis of performing that contract. GitHub does not collect or process a credit card number, but our third-party payment processor does.
+  * When you create a GitHub account, you provide your user name and an email address. We require those data elements for you to enter into the Terms of Service agreement with us, and we process those elements on the basis of performing that contract. We also process your user name and email address on other bases. If you have a GitHub Enterprise Cloud, GitHub Enterprise Server, or other paid account with us, there will be other data elements we must collect and process on the basis of performing that contract. GitHub does not collect or process a credit card number, but our third-party payment processor does.
   * When you fill out the information in your [user profile](https://github.com/settings/profile), you have the option to provide User Personal Information such as your full name, an avatar which may include a photograph, your biography, your location, your company, and a URL to a third party website. You have the option of setting a publicly visible email address here. We process this information on the basis of consent. All of this information is entirely optional, and you have the ability to access, modify, and delete it at any time (while you are not able to delete your email address entirely, you can make it private).
   * Generally, the remainder of the processing of personal information we perform is necessary for the purposes of our legitimate interests. For example, for security purposes, we must keep logs of IP addresses that access GitHub, and in order to respond to legal process, we are required to keep records of users who have sent and received DMCA takedown notices.
   * If you would like to request erasure of data we process on the basis of consent or object to our processing of personal information, please use our [Privacy contact form](https://github.com/contact/privacy).
@@ -257,3 +257,5 @@ This Privacy Statement is licensed under this [Creative Commons Zero license](ht
 ###  Contacting GitHub
 
 Questions regarding GitHub's Privacy Statement or information practices should be directed to our [Privacy contact form](https://github.com/contact/privacy).
+
+For a French translation, click here and cliquez ici pour francais: [GitHub Privacy Statement/Déclaration de confidentialité de GitHub](https://web.archive.org/assets/images/help/site-policy/12-3-2018.GitHub.Privacy.Statement_FR-FR.pdf)
