@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907085224id_/https%3A//www.lvhn.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lvhn.org privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220035951id_/https%3A//www.lvhn.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lehigh Valley Health Network - A Passion For Better Medicine
-
-## Privacy Policy
 
 Acting as good stewards of the personal information that we collect is important to us as a healthcare network. At Lehigh Valley Health Network, it is our policy that personal information is kept private and confidential.
 
