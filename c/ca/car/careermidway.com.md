@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careermidway.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208060605id_/http%3A//www.careermidway.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careermidway.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221210823id_/https%3A//www.careermidway.com/privacy-policy.php) for the most accurate reproduction.*
 
 # careermidway.com | Privacy Policy
 
