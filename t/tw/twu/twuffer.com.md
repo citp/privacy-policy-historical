@@ -1,51 +1,111 @@
-> *The following text is extracted and transformed from the twuffer.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616014712id_/http%3A//twuffer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twuffer.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221012434id_/https%3A//twuffer.com/privacy-policy) for the most accurate reproduction.*
 
-# Twuffer Privacy Policy
+# Twuffer
 
-This Privacy Policy is effective as of October 31, 2008.
+### **1.** INTRODUCTION AND YOUR CONSENT TO TWUFFER PRIVACY POLICY
 
-Twuffer provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at [www.twuffer.com](http://www.twuffer.com/) ("Site" ) or collected through our social networking service, including via SMS, WAP and Instant Messaging ("Service" ). This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
+Grady Britton and its affiliated entities and organizations (referred to collectively in this Policy as “we” or “Twuffer”) respects each individual’s right to personal privacy. We will collect and use information through our website twuffer.com (“Site”) and/or mobile App (“App”) only in the ways disclosed in this Privacy Policy (“Policy”). This Policy applies solely to activity at and information collected by this Site and App.
 
-By using our Site you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing" means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the U.S. your personally identifiable information will be transferred to the U.S., and processed and stored there under U.S. privacy standards. By visiting our Site and providing information to us, you consent to such transfer to, and processing in, the US.
+By using the Site/App and our services, you agree to our collection, use and processing of certain information under the terms of this Privacy Policy.
 
-If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please email us at gb@twuffer.com.
+Twuffer, this Privacy Policy, and our Agreement with you are governed by the laws of the United States of America.
 
-### Information Collection and Use
+### **2.** WHAT THIS PRIVACY POLICY COVERS
 
-Our primary goals in collecting personally identifiable information are to provide you with the product and services made available through the Site, including, but not limited, to the Service, to communicate with you, and to manage your registered user account, if you have one.
+This policy describes how we treat information that we collect and receive, including that related to your past use of our Site/App and services as well as information by which you can be identified (‘Personally Identifiable Information’). 
 
-**Information Collected Upon Registration**. If you desire to have access to certain restricted sections of the Site, you will be required to become a registered user, and to submit certain personally identifiable information to Twuffer. This happens in a number of instances, such as when you sign up for the Service, or if you desire to receive marketing materials and information. Personally identifiable information that we may collect in such instances may include your IP address, full user name, password, email address, city, time zone, telephone number, and other information that you decide to provide us with.
+You will be required to submit certain Personally Identifiable Information in order to register for access for any restricted or premium features of the Site/App. This includes when you register to set up an account for our service, or when you request marketing information about our service or the Site/App.
 
-**Use of Contact Information** In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to our Service. If you decide at any time that you no longer wish to receive such information or communications from us, please un-follow us, or follow the unsubscribe instructions provided in any of the communications.
+### **3.** USE OF INFORMATION COLLECTED
 
-**Log Data** When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website ("Log Data" ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and of our Service, and for the Site"ªs technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service
+We collect information and use it to keep you informed about Twuffer, and to make your visit to our Site/App as useful and informative as possible. We may also use your information for some of the following purposes:
 
-### Cookies
+To personalize your Site/App experience and to allow us to deliver the type of content and product features in which you are most interested, or to which you have subscribed.
 
-Like many websites, we also use "cookie" technology to collect additional website usage data and to improve the Site and our service. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect personally identifiable information. Twuffer may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our services. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
+To allow us to better service you in responding to your service requests.
 
-### Information Sharing and Disclosure
+To process your transactions and set up your access and account, or assist in resolving any problems with your access and account.
 
-**Service Providers** We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.
+To administer a Site/App feature.
 
-**Compliance with Laws and Law Enforcement** Twuffer cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Twuffer or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+We are committed to safeguarding all Personally Identifiable Information we obtain about Site visitors/App users, whether internal or external. The only Personally Identifiable Information we collect via electronic mail, or our Site/App, (including any Site(s)/App(s) currently being maintained by trusted third-party providers), is (1), that which is voluntarily provided by our visitors, and (2), that which is generally found within the user’s browser, for purposes of identification.
 
-**Business Transfers** Twuffer may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy.
+### **4.** TYPES OF INFORMATION COLLECTED
 
-### Changing or Deleting Information
+a) Personally Identifiable Information   
+Personally Identifiable Information includes, without limitation, information such as your name, mailing address, email address, phone number, IP address, full user name, password, credit card data, or time zone, that is not otherwise publicly available. This information is used for internal business purposes, such as processing customer product or service orders or our own marketing activities, and is not shared with other organizations for commercial purposes without your consent. 
 
-If you are a registered user of the Site, you may access and update or correct the information you provided to us by e-mailing us at gb@twuffer.com.
+b) Non-Personal Information   
+In some cases, we may collect information about you that is not personally identifiable. For example, our Site/App may automatically recognize the name, URL/domain name or IP address(es) of a website, mobile App, social media platform, or advertisement, through which you navigated to reach our Site/App, but not the e-mail address of visitors to our Site, unless it is expressly provided by the visitor. The information collected is used solely for internal review. 
 
-### Security
+### **5.** INFORMATION SHARING WITH OTHER PARTIES
 
-Twuffer is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.
+Information is collected and analyzed so that we may provide our products or services to you, communicate with you, or improve our service offerings to our users. This information is kept confidential. We may share Personally Identifiable Information about you to other companies or people when one or more of the following conditions apply: 
 
-We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+  * We have your consent to share information;
+  * We need to share your information to provide the product or service you have requested; or
+  * We need to send the information to companies who work on our behalf to assist us in providing our service to you, such as Site hosting and maintenance, billing, database storage or management, or direct marketing campaigns. Unless we tell you differently, these companies do not have any right to use the Personally Identifiable Information we provide to them beyond what is necessary to assist us, and these parties will only be provided with the information necessary to perform services related to the Site/App, and only pursuant to agreement(s) requiring that they maintain the security and privacy of your information.
 
-### Links to Other Websites
 
-Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
-### Our Policy Towards Children
+In addition, in the event of a transfer of ownership of Twuffer such as acquisition by or merger with another company, we will provide notice before any Personally Identifying Information is transferred and becomes subject to a different privacy policy.
 
-The Site is not directed to persons under 18. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at gb@twuffer.com. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
+We may also release information when we believe it is necessary and appropriate to comply with applicable laws or to protect the rights, property or safety of Twuffer, our employees, customers, Site visitors and App users, or others.
+
+### **6.** COOKIES
+
+This Site employs the use of “cookie” technology. A cookie is a small data file that we place your computer hard drive. We do not use cookies to collect Personally Identifiable Information. Cookies enable us to track usage patterns and deliver customized content and features to users. 
+
+We may use both session cookies and persistent cookies to understand how you interact with the Site/App, to monitor aggregate use of our Site/App, web traffic, Site/App routing, and to improve or trouble shoot the Site/App. A session cookie enables some of our Site/App features to work properly, and is deleted from your computer when you leave or disconnect from the Site/App. A persistent cookie will remain on your computer hard drive after you close your internet browser, and may be used on your subsequent visits to our Site. 
+
+You may remove persistent cookies by following your web browser instructions to do so. You may also edit your browser’s options to decline accepting cookies, or to advise you before you accept a cookie from any Site you visit. 
+
+### **7.** TWUFFER PRIVACY POLICY REGARDING CHILDREN
+
+Twuffer does not market to children, and we never knowingly ask a child to divulge personal information. We do not knowingly collect Personally Identifiable Information from a child under the age of 13.
+
+The Site/App is not intended for use by children under the age of 13. If a parent or guardian of a child learns that his or her child has provided us with Personally Identifiable Information without their consent, he or she should contact us at our service help email account (x@twuffer.com). If we become aware that we are in possession of Personally Identifiable Information from a child under the age of 13, we will delete the information from our files. 
+
+### **8.** PROTECTION OF USER INFORMATION
+
+We implement a variety of security measures to maintain the safety of your personal information. For example, your Personally Identifiable Information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information or account, we offer the use of a secure server at our Site/App. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+
+### **9.** USE OF ANALYTICS FOR THE SITE
+
+We use or may in the future use analytics tools (“Analytics”) to collect information about use of the Site/App. 
+
+Analytics collect information such as how often users visit this Site, what features they use when they do so, and what other sites they used prior to coming to this Site. We use the information we get from Analytics only to improve the Site/App. Analytic collect the IP address assigned to you on the date you visit this Site, rather than your name or other identifying information. We do not combine the information collected through the use of Analytics with personally identifiable information. 
+
+### **10.** PROBLEM OR QUESTION RESOLUTION
+
+If problems or questions arise regarding the status of your information, users may contact us by any of the means identified in this Policy. We are committed to responding to and resolving problems or questions within a reasonable time frame.
+
+### **11.** INFORMATION SECURITY
+
+The security and confidentiality of your Personally Identifiable Information is very important to Twuffer. We restrict access to your Personally Identifying Information to employees who need to know that information in order to operate, develop or improve our Site/App or services. We use administrative, electronic and physical methods as appropriate to protect your information from unauthorized access. 
+
+We will, when legally required, inform our users and subscribers in the event of any breach of the security or confidentiality of your unencrypted and stored Personally Identifiable Information. We will so inform you by direct email and/or by prominently posting such event on our Site/App, without unreasonable delay. 
+
+### **12.** REVIEWING, UPDATING OR REMOVING YOUR INFORMATION; UNSUBSCRIBING
+
+Registered users of the Site/App may access their own personal or contact information and contact us about inaccuracies they may find, or update their information, by contacting us by the means identified in the Policy. 
+
+If you no longer wish to receive communications from Twuffer, you may unsubscribe from them at any time.
+
+### **13.** CHANGES TO THIS POLICY
+
+This Privacy Policy may change from time to time. We will notify you of any material changes to the Policy by posting the new Privacy Policy in our Site/App
+
+### **14.** CONTACT INFO.
+
+Twuffer may be contacted by any of the following methods:
+
+**Twitter:** [@twuffer](https://twitter.com/twuffer)
+
+**Email:** [support@twuffer.com](mailto:support@twuffer.com)
+
+**Postal Mail:**   
+Twuffer   
+c/o Grady Britton   
+107 SE Washington St, Ste 300   
+Portland OR 97214 
