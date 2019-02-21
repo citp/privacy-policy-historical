@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketinout.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927112526id_/https%3A//www.marketinout.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketinout.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221114806id_/https%3A//www.marketinout.com/home/privacy.php) for the most accurate reproduction.*
 
 # MarketInOut.com - Privacy Policy
 
@@ -17,7 +17,7 @@ We use cookies to control the access levels for our subscribers to the MarketInO
 
 We use cookies to identify your visits to our Website, and other interactions with our Website. We gather information such as internet protocol (IP) addresses, internet service provider (ISP), operating system, browser type, date/time stamp, and store it in log files. To collect this information, a cookie, a standard feature of a website that allows us to store a small amount of data on your computer to allow our web servers to recognize you, may be set on your computer or device when you visit our Website. 
 
-You can control how websites use cookies by changing your cookie settings ([www.aboutcookies.org](https://web.archive.org/web/20180927112526id_/https%3A//www.marketinout.com/home/www.aboutcookies.org)), but your modification may limit your use and functionality of some of the features on our Website. 
+You can control how websites use cookies by changing your cookie settings ([www.aboutcookies.org](https://web.archive.org/web/20190221114806id_/https%3A//www.marketinout.com/home/www.aboutcookies.org)), but your modification may limit your use and functionality of some of the features on our Website. 
 
 Collection of Customer Information
 
@@ -49,7 +49,7 @@ MarketInOut.com may share customer information, without the customer's consent, 
 
 Updating Your Personal Information and Privacy Preferences
 
-In the MarketInOut.com you can access and correct, or delete your personal information at any time. To request your personal information or if you need assistance accessing MarketInOut.com, please contact us at [www.marketinout.com/home/contactus.php](http://www.marketinout.com/home/contactus.php). 
+In the MarketInOut.com you can access and correct, or delete your personal information at any time. To request your personal information or if you need assistance accessing MarketInOut.com, please contact us at [www.marketinout.com/home/contactus.php](https://web.archive.org/home/contactus.php). 
 
 Protection of Customer Information
 
