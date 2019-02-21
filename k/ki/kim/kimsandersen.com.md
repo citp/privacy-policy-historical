@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kimsandersen.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222145357id_/http%3A//www.kimsandersen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimsandersen.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221150312id_/http%3A//www.kimsandersen.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Kim Andersen's Ideal Legal Services
 
