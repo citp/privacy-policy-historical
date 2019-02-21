@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the macrium.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022164209id_/https%3A//www.macrium.com/terms-and-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macrium.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221194556id_/https%3A//www.macrium.com/terms-and-privacy-statement) for the most accurate reproduction.*
 
 # Macrium Software | Terms and Privacy Statement
 
 **Terms**
 
-All purchases of Macrium Reflect software are subject to a 30-day, no question, money-back guarantee. In the unlikely event that you are not satisfied with your purchase, please [contact us](https://web.archive.org/web/20181022164209id_/https%3A//www.macrium.com/contact) and your request will be dealt with promptly by our team.
+All purchases of Macrium Reflect software are subject to a 30-day, no question, money-back guarantee. In the unlikely event that you are not satisfied with your purchase, please [contact us](https://web.archive.org/web/20190221194556id_/https%3A//www.macrium.com/contact) and your request will be dealt with promptly by our team.
 
 All purchases made online via our website are fulfilled by our distribution partner Cleverbridge Ag. Full details of their terms and condition and privacy policy are accessible via the links on the shopping cart page. Please note that Paramount Software UK Limited never have access to or store any of your credit card information.
 
@@ -26,7 +26,7 @@ We are committed to ensuring that your privacy is protected. Should we ask you t
 
 We may change this policy from time to time and updates will be added to this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-For the full version of our privacy policy please [click here](https://web.archive.org/web/20181022164209id_/https%3A//www.macrium.com/terms-and-privacy-policy-full).
+For the full version of our privacy policy please [click here](https://web.archive.org/web/20190221194556id_/https%3A//www.macrium.com/terms-and-privacy-policy-full).
 
 **Security**
 
