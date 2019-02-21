@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c-rewards.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111110529id_/https%3A//www.casinorewards.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-rewards.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221125902id_/https%3A//www.casinorewards.com/en/privacy) for the most accurate reproduction.*
 
 # Casino Rewards Premier Online Casino Loyalty Program
 
