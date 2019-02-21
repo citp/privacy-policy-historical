@@ -1,75 +1,112 @@
-> *The following text is extracted and transformed from the freedom.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210200915id_/http%3A//www.freedom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221075024id_/https%3A//www.freedommortgage.com/privacy-policy) for the most accurate reproduction.*
 
-# Freedom Communications, Inc. - Privacy Policy
+# Privacy Policy | Freedom Mortgage
 
-[en Español](https://web.archive.org/web/20151210200915id_/http%3A//www.freedom.com/privacidad.html)
+06.2018
 
-Freedom Communications, Inc. (“Freedom”) has agreed to sell the assets of the Lima News, Sedalia Democrat, Jacksonville Journal Courier and Alton Telegraph (the “Properties”) to an affiliate of Ohio Community Media, an Ohio-based publisher of community newspapers. This affiliate, called Testor FCI Acquisition, LLC (“Publisher”), plans to continue the Properties’ operations uninterrupted after the sale to provide readers with high quality local news services. 
+**FACTS**
+    **WHAT DOES FREEDOM MORTGAGE CORPORATION DO WITH YOUR PERSONAL INFORMATION?**  
+ 
+**Why?**
+    Financial companies choose how they share your personal information. Federal law gives the consumers the right to limit some but not all sharing. Federal law also requires us to tell your how we collect, share and protect your personal information Please read the Privacy Notice to understand what we do.  
+ 
+**What?**
+    The types of information we collect and share depend on the product or service you have with us. This information can include:  
+ 
 
-As part of this sale, Freedom will be transferring to Publisher customer data collected from users of the Properties’ websites. Customer data transferred to Publisher will be held and maintained by Publisher pursuant to Publisher’s respective privacy policies, which can be found at the following: [http://lima.ohcommedia.com](http://lima.ohcommedia.com/), [http://sedalia.ohcommedia.com](http://sedalia.ohcommedia.com/), [http://jacksonville.ohcommedia.com](http://jacksonville.ohcommedia.com/) and [http://alton.ohcommedia.com](http://alton.ohcommedia.com/). Please do not register or submit information to any of the Properties’ websites if you do not want your customer data transferred to Publisher. 
-
-This is the Privacy Policy for all Web sites owned or operated by Freedom Communications, Inc. ("Freedom" "we" or "our"), including, without limitation the Web sites listed [here](https://web.archive.org/web/20151210200915id_/http%3A//www.freedom.com/ppsites.html) (collectively, the "Site"). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the [User Agreement](https://web.archive.org/web/20151210200915id_/http%3A//www.freedom.com/eula.html) posted on the Site.
-
-**Managing Information Preferences**
-
-We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or if you wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at: 
-
-17666 Fitch  
-Irvine , CA 92614  
-E-mail: [pp@freedom.com](mailto:pp@freedom.com)
-
-If you would like to correct, update, or change your personal information with us please contact us the same way.
-
-**What Types Of Information Do We Collect?**
-
-We collect information that may personally identify you (such as your name, address, telephone number, email address, billing information, or other data which can be reasonably linked to such information) only if you choose to share such information with us. For example, we may collect personal information from you when you register on the Site, subscribe to one of our services, enter sweepstakes, contests or other promotions, and at other times. We also collect credit card information in connection with any purchase you make on or through the Site. The decision to provide this information is optional; however, if you decide not to register or provide such information, you may not be able to use certain features of the Site or other services.
-
-We may automatically collect non-personal information that does not identify an individual user, such as IP (internet protocol) address, ISP (internet service provider), the Web browser used to visit the Site, the time the Site is visited, which Web pages were visited on the Site, a unique mobile device identifier (in connection with the use of the Sites or related services from mobile devices) and other anonymous Site usage data.
-
-We also use cookies (a small file containing a string of characters that uniquely identifies your Web browser) and Web beacons (an electronic file placed within a Web site that monitors usage). We use cookies and Web beacons to improve the quality of the Site. Most Web browsers are initially set up to accept cookies, but you can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Certain of our Service Providers (defined below) may use cookies and Web beacons in connection with the services they perform on our behalf, including, without limitation, ad serving. 
-
-**How Do We Use The Information We Collect?**
-
-We will not sell, share, or rent personal information to third parties, and we will not otherwise disclose personal information to third parties, without your permission, except as disclosed in this Privacy Policy.
-
-We use personal information and non-personal information for internal purposes, including: 
-
-  * enhancing your experience at the Site;
-  * performing administration and technical support for the Site; 
-  * enabling you to enter sweepstakes, contests and other promotions;
-  * enabling you to use certain services and features available on or through the Site;
-  * creating aggregate information about demographics and usage patterns; 
-  * inviting our promotional vendors and advertisers—with your permission—to call to your attention special offers, products and services that may be of interest to you; and 
-  * enabling purchases of goods and services.
+  * Social security number and income
+  * Account balance and payment history
+  * Credit history and credit score  
+ 
 
 
+**How?**
+    When you are no longer our customer, we will continue to share your information as described in this Privacy Notice. All financial complaints need to share customers` personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers` personal information; the reasons Freedom Mortgage Corporation chooses to share; and whether you can limit this sharing.
 
-We may use aggregate information to measure general Site usage patterns and characteristics of our user base, and we may include such aggregate information about our audience in reports to our commercial vendors. We may also disclose aggregated user statistics (for example, a certain percentage of our users live in a certain area) without your permission in order to describe our audience to existing and prospective advertisers or other third parties. However, this aggregate information does not reference names, phone numbers, e-mail addresses, or other personal information, and it is not traceable to a specific recipient or user e-mail address. 
+If you no longer wish to receive marketing/promotional emails from Freedom Mortgage Corporation, please click the unsubscribe link included in the footer of our emails.
 
-We also may share personal information with entities controlling, controlled by, or under common control with Freedom. In the event that Freedom is merged, or in the event of a transfer of our assets, we may disclose or transfer your personal information and non-personal information in connection with such transaction. 
+### Email Privacy Policy
 
-From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours ("Service Providers"). For example, we may contract with Service Providers to provide certain services including credit card processing, advertising, promotions, analytics tools, data management, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services. Each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of your information in order to protect your personal information from unauthorized access, destruction, use, modification, or disclosure. 
+To protect your email information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. For more information, visit FreedomMortgage.com. If you no longer wish to receive marketing/promotional emails from Freedom Mortgage Corporation, please click the unsubscribe link included in the footer of our emails.
 
-We may work with third-party advertising companies which may use information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you on the Site and on third-party Web sites. From the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons or pixel tags. Our Privacy Policy does not cover any use of information that a third-party advertisement serving company may collect from you. For more information about ad cookies and companies that provide users the ability to "opt-out" of the collection of information from such cookies, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+For California Residents, visit [California Privacy Policy](https://web.archive.org/privacy-policy-CA).  
+ 
 
-Although unlikely, in certain instances we may disclose your personal information when we have reason to believe it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Freedom or its affiliates, or to others. We may also disclose your personal information when we believe the law or legal process requires such disclosure. Please note that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your personal information to be shared or transferred to third parties without your permission. 
+**Reasons we can share your personal information** | **Does Freedom Mortgage share?** | **Can you limit this sharing?**  
+---|---|---  
+**For our everyday business purpose**  
+For our everyday business purpose such as to process your loan application, service your, report to a credit reporting agencies and respond to court orders and legal investigations | Yes | No  
+**For our marketing purposes**  
+For our marketing purposes to offer our products and services to you | Yes | No  
+**For joint marketing with other financial companies** | Yes | No  
+**For nonaffiliates to market to you** | Yes | Yes  
+  
+**To limit our sharing**
+    
 
-**Security**
+  * Call 1-855-690-5900
+  * Email us at [CustomerCare@FreedomMortgage.com](mailto:CustomerCare@FreedomMortgage.com)
+  * Detach, Complete and Mail the Opt-Out Form provided at the end of this Privacy Notice  
+**Please note:** If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this Privacy Notice. **However, you can contact us at any time to limit our sharing.**
 
-We use encryption and authentication tools to protect the security of personal information that you share with us. However, no data transmission over the Internet (or, with respect to our mobile services, over cellular phone networks) can be guaranteed to be 100% secure. As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Site, and you do so at your own risk.
 
-**Links To Third-Party Web Sites**
+**Questions?**
+    **Call** 1-855-690-5900 or email us at: [CustomerCare@FreedomMortgage.com](mailto:CustomerCare@FreedomMortgage.com)
 
-The Site may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. You should always read the privacy policy of a linked Web site before disclosing any personal information on such site.
+### What we do
 
-**Discussion Board, Forums and Other User Generated Content**
+**How does Freedom Mortgage protect my personal information?**
+    To protect your information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. For more information, visit freedommortgage.com  
+ 
+**How does Freedom Mortgage collect my personal information?**
+    We collect your personal information when you apply for a loan, including information about your income, employment, current mortgage, if any, and your contact information, and you show us your government-issued ID. We also collect your personal information from others such as credit bureaus, affiliates and other companies.  
+ 
+**Why can't I limit all sharing?**
+    Federal law gives you the right to limit only: 
 
-Our online chat areas, bulletin boards, social networks, mobile messaging services, other public forums and user-generated content (i.e., photos, videos) can be a useful way for you to express yourself to other online users. When you post messages or otherwise use these features, the information that you provide (including personal information) may be publicly available to, collected by, and used by third parties. We are not responsible for the content of such messages or images posted by users or such disclosures of personal information.
+  * sharing for affiliates' everyday business purposes-information about your creditworthiness
+  * affiliates from using your information to market to you
+  * sharing for nonaffiliates to market to you.
 
-**Children's Privacy Statement**
+State laws and individual companies may give you additional rights to limit sharing. (See below for more on your rights under state law.)  
+ 
 
-We do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently received personal information from a child under the age of 13, we will delete such information from our records.
+### Definitions
 
-**Policy Changes**
+**Affiliates**
+    Companies related by common ownership or control. They can be financial or non–fina ncial companies. We do not share your personal information with affiliates.  
+ 
+**Non-affiliates**
+    Companies not related by common ownership or control. They can be financial or non-financial companies. Non-affiliates we share with can include insurance companies, direct marketing companies and nonprofit organizations.  
+ 
+**Joint Marketing**
+    A formal agreement between non-affiliated financial companies that together market financial services to you. Our joint marketing partners include financial services companies.  
+ 
 
-If we decide to change our Privacy Policy, in whole or in part, we will inform you by posting the changed Privacy Policy on the Site. Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.
+### Other important information:
+
+**Nevada Residents:** Nevada Statute Section 228.600(3) allows marketing calls to our existing customers listed on the National Do Not Call Registry. If you prefer not to receive marketing calls from us, you may be placed on our Internal Do Not Call list by detaching, completing and mailing us the Opt-Out form on this Privacy Notice to Freedom Mortgage Corporation, 10500 Kincaid Dr, Suite 300 Fishers, IN 46037 Attn: Privacy Dept. For more information contact us at the address above or e-mail us [CustomerCare@freedommortgage.com](mailto:CustomerCare@freedommortgage.com) and include “Nevada Annual Privacy Notice” in the subject line. You may also contact the Nevada Attorney General`s office: Bureau of Consumer Protection Office of the Nevada Attorney General , 555 E. Washington Street, Suite 3900, Las Vegas, NV 89101, Phone: (702)486-3132, Email: [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us).
+
+**Vermont Residents:** We will not share information we collect about you with other companies unless the law allows. We will not share information about your creditworthiness with our corporate affiliates except with your consent, but we may share information about our transactions or experiences with you with our corporate affiliate without your consent.
+
+**California Residents:** We will not share information we collect about you with other companies unless the law allows. California residents are [provided a separate notice](https://web.archive.org/privacy-policy-CA) with additional choices as required by California law. Important Notice about Credit Reporting: We report information about you to cons
+
+* * *
+
+**MAIL IN OPT-OUT FORM**  
+---  
+  
+Mark if you want to limit
+
+[ ] Do not share my personal information with non-affiliates to market their goods and services to me.  
+  
+**What happens when I limit sharing for any account I hold jointly with someone else?** | 
+
+Your choice will apply individually unless you tell us otherwise. Any account holder may express a privacy preference on behalf of the other joint account holders.  
+  
+**Mail To:**
+
+Freedom Mortgage Corporation  
+10500 Kincaid Dr, Suite 300  
+Fishers, IN 46037  
+Attn: Privacy Dept/ Information Sharing Opt-Out
