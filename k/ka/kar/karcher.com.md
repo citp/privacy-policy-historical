@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karcher.com privacy policy that was archived on 2018-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180811235730id_/https%3A//www.kaercher.com/int/inside-kaercher/company/legal/privacy-information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karcher.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221163052id_/https%3A//www.kaercher.com/int/inside-kaercher/company/legal/privacy-information.html) for the most accurate reproduction.*
 
 # Privacy Information | Kärcher International
 
