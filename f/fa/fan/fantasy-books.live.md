@@ -1,193 +1,130 @@
-> *The following text is extracted and transformed from the fantasy-books.live privacy policy that was archived on 2018-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180516181042id_/https%3A//fantasy-books.live/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasy-books.live privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221013852id_/https%3A//creativenovels.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fantasy-Books
+# Privacy Policy | Creative Novels
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+#### CREATIVE NOVELS' PRIVACY POLICY
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+ **When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information, Physical Address or other details to help you with your experience.
+This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information. This updated version of our Privacy Policy takes effect on May 25, 2018. 
 
-**When do we collect information?**
+A platform designed to give many the opportunity to share their content and gauge it amongst a crowd. Our services include:
 
-We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
+  * Free Web Novels
+  * Clean UI
+  * An Ad System aimed at being non-invasive
+  * Revenue Generating Opportunities
+  * Community
+  * An Online Store
+  * Introduction to third-party apps and sites, like ads and social media
 
-**How do we use your information?**
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-**•** To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+You can use our services in a variety of ways to manage your privacy. For example, you can sign up for a Creative Novels Account if you want to create and manage content like emails, photos, and content you wish to share. You can also choose to use our services privately by not logging into our system and also using the Incognito mode of any of our supported browsers. And across our services, you can adjust your privacy settings to control what we collect and how your information is used.
 
-**•** To improve our website in order to better serve you.
+INFORMATION CREATIVE NOVELS COLLECTS
 
-**•** To allow us to better service you in responding to your customer service requests.
+**We want you to understand the types of information we collect as you use our services.**
 
-**•** To administer a contest, promotion, survey or other site feature.
+We collect information to provide better services to all our users — from figuring out basic stuff like which language you speak, to more complex things like which ads you’ll find most useful, the people who matter most to you online, or which content you like the most. The information Creative Novels collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.
 
-**•** To quickly process your transactions.
+When you’re not signed in to a Creative Novels Account, we store the information we collect with unique identifiers tied to the browser, application, or device you’re using. This helps us do things like maintaining your language preferences across browsing sessions.
 
-**•** To ask for ratings and reviews of services or products
+When you’re signed in, we also collect information that we store with your Creative Novels Account, which we treat as personal information - information that you provide to us which personally identifies you, such as your name, email address, or other data that can be reasonably linked to such information by Creative Novels, such as information we associate with your Creative Novels Account.
 
-**•** To follow up with them after correspondence (live chat, email or phone inquiries)
+THINGS YOU CREATE OR PROVIDE TO US
 
-**How do we protect your information?**
+When you create a Creative Novels Account, you provide us with personal information that includes a name and a password. Even if you aren’t signed in to a Creative Novels Account, you might choose to provide us with information — like an email address to comment or receive updates on the content we provide.
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+We also collect the content you create, upload, or receive from others when using our services. This includes things like emails and comments you write and receive, photos and videos you save, and novels you write.
 
-We use regular Malware Scanning.
+**Your Comments**
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+Additionally, when visitors leave comments on the site, we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help with spam detection.
 
-We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+INFORMATION WE COLLECT AS YOU USE OUR SERVICES
 
-**Do we use ‘cookies’?**
+**Your Browsers, and Devices**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+We collect information about the browser and devices you use to access Creative Novels, which helps us provide better ads and a better layout suitable for your device. This also helps us with debugging and structuring.
 
-**We use cookies to:**
+The information we collect includes unique identifiers, browser type, and settings, device type and settings, operating system. We also receive information such as date and time of access to Creative Novels, and the referrer URL of your request.
 
-**•** Help remember and process the items in the shopping cart.
+**Your Activity**
 
-**•** Understand and save user’s preferences for future visits.
+****We collect information about your activity in our services, which we use to do things like recommending certain novels. The activity information we collect may include:
 
-**•** Keep track of advertisements.
+  * Search Terms
+  * People with whom you communicate or share content on Creative Novels
+  * views and interactions with content and ads
 
-**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-If you turn cookies off, some features will be disabled. It won’t affect the user’s experience that make your site experience more efficient and may not function properly.
+You can visit your Creative Novels Account to find and manage activity information that’s saved in your account. This feature may have bugs, so if there are any questions, please contact us via our contact us page.
 
-However, you will still be able to place orders .
+**Your Location Information**
 
-**Third-party disclosure**
+We determine your general location when you use our services.
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
+  * This is limited to Country/State you are in only.
+  * IP Address
 
-**Third-party links**
 
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Google**
+The types of location data we collect depend in part on your device and account settings.
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+**Media**
 
-We use Google AdSense Advertising on our website.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+**Cookies**
 
-**We have implemented the following:**
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-**•** Remarketing with Google AdSense
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-**•** Google Display Network Impression Reporting
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-**•** Demographics and Interests Reporting
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-**•** DoubleClick Platform Integration
+**Embedded Content from Other Sites**
 
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-**Opting out: **  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.****
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-**California Online Privacy Protection Act**
+**Social Login**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+We collect your public profile data only from your consent that you grant before initiating a Social Login, from the social network used to login at our website. This data includes your first name, last name, email address, link to your social media profile, unique identifier, link to social profile avatar. This data is used to create your user profile at our website. You can revoke this consent at any time by sending us an email.
 
-**According to CalOPPA, we agree to the following:**
+WHY CREATIVE NOVELS COLLECTS DATA
 
-Users can visit our site anonymously.
+ **We use it to build a better platform and service**
 
-Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+We use the information we collect from all our services for the following purposes:
 
-Our Privacy Policy link includes the word ‘Privacy’ and can be easily be found on the page specified above.
+  * Debugging. If there is an issue with the platform, understanding the location (for Content Delivery Network/ Cache issues) and device and browser you are using become essential.
+  * Security. If there is a person, app, site, or program that intends to do the platform harm, one of the ways of blocking such an entity is first to block the IP Address they use. 
+  * Maintain and Improve our Services. Other than debugging, there is the need to gauge how users react to certain events, layouts, and structures we build. From this, we aim to improve to produce a more favorable platform for Creative Novels Users.
+  * Develop New Services. 
+  * Provide Personalized Services, Including Content and Ads.
 
-You will be notified of any Privacy Policy changes:
+We use the information we collect to customize our services for you, including providing recommendations, personalized content, and customized search results. 
 
-**•** On our Privacy Policy Page
+Depending on your settings, we may also show you personalized ads based on your interests. For example, if you search for “mountain bikes,” you may see an ad for sports equipment when you’re browsing a site that shows ads served by Google or any of our other Ad Partners. 
 
-Can change your personal information:
+    * We don’t show you personalized ads based on sensitive categories, such as race, religion, sexual orientation, or health.
+    * We don’t share information that personally identifies you with advertisers, such as your name or email. 
 
-**•** By logging in to your account
 
-**How does our site handle Do Not Track signals?**
+  * Measure Performance. We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites that use Google Analytics, Google and a Google Analytics customer may link information about your activity from that site with activity from other sites that use our ad services.
+  * Communicate With You. We use the information we collect, like your email address, to interact with you directly. For example, we may send you a notification if we detect suspicious activity, like an attempt to sign in to your Creative Novels Account from an unusual location. Or we may let you know about upcoming changes or improvements to our services. And if you contact Creative Novels, we’ll keep a record of your request in order to help solve any issues you might be facing.
+  * Protect Creative Novels, Our Users, and The Public. We use information to help improve the safety and reliability of our services. This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm Google, our users, or the public.
 
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-**Does our site allow third-party behavioral tracking?**
 
-It’s also important to note that we do not allow third-party behavioral tracking
+Creative Novels will make your display pictures, reading-lists, follows, and display name public. Personal Identifiable information such as emails, IP Addresses, and names will not be shared.
 
-**COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under the age of 13 years old.
-
-**Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-**•** Other
-
-I
-
-We will notify the users via in-site notification
-
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
-
-**CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-**We collect your email address in order to:**
-
-**•** Send information, respond to inquiries, and/or other requests or questions
-
-**•** Process orders and to send information and updates pertaining to orders.
-
-**•** Send you additional information related to your product and/or service
-
-**•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
-
-**To be in accordance with CANSPAM, we agree to the following:**
-
-**•** Not use false or misleading subjects or email addresses.
-
-**•** Identify the message as an advertisement in some reasonable way.
-
-**•** Include the physical address of our business or site headquarters.
-
-**•** Monitor third-party email marketing services for compliance, if one is used.
-
-**•** Honor opt-out/unsubscribe requests quickly.
-
-**•** Allow users to unsubscribe by using the link at the bottom of each email.
-
-**  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
-
-[[email protected]](https://fantasy-books.live/cdn-cgi/l/email-protection) and we will promptly remove you from **ALL** correspondence.
-
-**Personal Data collected for the following purposes and using the following services (Contacting the User)**
-
-Contact form: Personal Data: address, city, company name, country, email address, field of activity, first name, gender, last name and website
-
-**Personal Data collected for the following purposes and using the following services (Analhytics)**
-
-Google Analytics Personal Data: Cookies and Usage Data
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy, you may contact us using the information below.
-
-https://fantasy-books.live/contact-us/
-
-United States
-
-Last Edited on 2016-08-15
+We’ll ask for your consent before using your information for a purpose that isn’t covered in this Privacy Policy.
