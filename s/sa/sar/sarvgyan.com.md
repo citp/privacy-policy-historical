@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarvgyan.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901042539id_/https%3A//www.sarvgyan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarvgyan.com privacy policy that was archived on 2019-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190221143609id_/https%3A//www.sarvgyan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SarvGyan
 
