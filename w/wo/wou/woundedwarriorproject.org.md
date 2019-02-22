@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the woundedwarriorproject.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221161620id_/https%3A//www.woundedwarriorproject.org/media/1649/wwp-website-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woundedwarriorproject.org privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222183617id_/https%3A//www.woundedwarriorproject.org/media/1649/wwp-website-privacy-policy.pdf) for the most accurate reproduction.*
 
-# Effective as of May 4, 2018
+# Effective as of February 20, 2019
 
-                                                                           Effective as of May 4, 2018
-                                              Privacy Policies
+                                                                     Effective as of February 20, 2019
+                                             Privacy Policies
 This document describes Wounded Warrior Project’s (“WWP”) use of information regarding the warriors
 and families we serve, financial supporters of our mission, supporters under the age of 18, and general
 visitors to our website.
-                                       General User Privacy Policy
+                                      General User Privacy Policy
 This privacy policy applies to general users of the WWP website and describes how WWP protects
 information you provide when you use this website.
 Although elements of this policy may apply to the veterans we serve, their caregivers, and our donors
@@ -42,12 +42,12 @@ When does WWP collect this information?
 We collect non-personal information from you as you use any of the pages on our website. We collect
 personal information from you only when you specifically provide it to us – for example, if you fill out a
 form or send us an email.
-
-
-                                                                              Effective as of May 4, 2018
 How does WWP use the information we collect?
-WWP uses information from different site visitors in different ways. We generally use information provided
-to us through the donation process in accordance with the Donor Privacy Policy; we generally use
+WWP uses information from different site visitors in different ways. We generally use information
+provided to us through the donation process in accordance with the Donor Privacy Policy; we generally use
+
+
+                                                                        Effective as of February 20, 2019
 information provided to us by the warriors and caregivers we serve in accordance with the Alumni and
 Caregiver Privacy Policy. Both policies may be found below.
 On rare occasion, we use personal information provided by general users of our website who are not
@@ -85,9 +85,6 @@ Does WWP track my online activity while I’m not on the WWP site?
 Cookies and other technology may be used to track non-personal information about your web-browsing
 habits. For example, if a significant portion of our visitors all browse to the same website immediately
 after visiting us, we may use this information to improve your experience at our site.
-
-
-                                                                            Effective as of May 4, 2018
 WWP respects web browser “do not track” signals and other mechanisms that provide you the ability to
 opt out of having your personal information or online activities collected. But remember, unless you have
 selected the “do not track” function in your web browser, third parties (not just WWP) may collect
@@ -95,6 +92,9 @@ personal information about your online activities over time and across different
 How does WWP secure my personal information?
 WWP is committed to ensuring that your personal information is secure. Your trust in us is important, so
 we have put in place physical, electronic, and managerial procedures to safeguard and secure the
+
+
+                                                                        Effective as of February 20, 2019
 information we collect. Records containing personal information are stored at secure facilities; our
 websites use SSL (a tool used to verify the legitimacy of a website); and our employees are provided
 training on how to treat your data securely.
@@ -123,20 +123,20 @@ https://support.woundedwarriorproject.org/Default.aspx?tsid=459
 Do you collect information about minors?
 Yes; in limited circumstances WWP collects information from general users under the age of 18. Please
 see our Minor Privacy Policy below.
-
-
-                                                                               Effective as of May 4, 2018
 What if I have questions about this policy?
 We’d love to hear from you. Please email us at wwplegal@woundedwarriorproject.org with any
 questions about this policy. You can also snail-mail us a letter at Wounded Warrior Project, Attention:
 Legal, 4899 Belfort Road, Suite 300, Jacksonville, Florida 32256.
-                                   Alumni and Caregiver Privacy Policy
+                                  Alumni and Caregiver Privacy Policy
 This Alumni and Caregiver Privacy Policy applies to warriors and their caregivers who register with
 WWP to receive the benefits of Wounded Warrior Project’s programs and services. If you register for our
 programs and services, rest assured that we use industry-standard safeguards to protect your data,
 including firewalls, physical safeguards, and encryption.
 This policy describes how Wounded Warrior Project protects information which warriors and their
 caregivers provide in conjunction with their registration with WWP, and applies regardless of whether the
+
+
+                                                                         Effective as of February 20, 2019
 registration occurred online, over the phone, or in person. Throughout this privacy policy, or the
 “policy,” warriors and their caregivers who register for WWP’s programs and services may be referred to
 as “Alumni,” “Caregivers,” or simply, “you.”
@@ -164,9 +164,6 @@ your injury. Lastly, we’ll ask you for eligibility documentation. This may inc
 decision, enlisted record brief or officer record brief, medical evaluation board or physical evaluation
 board, current unit orders to a warrior transition unit or battalion, line of duty documentation, or Purple
 Heart orders or citation.
-
-
-                                                                              Effective as of May 4, 2018
 Once you are registered as an Alumni, depending on your level of involvement with our services, we may
 ask you for additional information. This may include questions about your individual hobbies and
 interests, benefits claims details, basic financial information, basic physical and mental fitness details, and
@@ -186,6 +183,9 @@ services, we may ask you for additional information. This may include questions 
 hobbies and interests, benefits claims details, basic financial information, basic physical and mental
 fitness details, and other information that may be relevant to the particular program or service you are
 interested in.
+
+
+                                                                       Effective as of February 20, 2019
 Whether you attempt to register as an Alumni or Family Support member, in certain circumstances WWP
 may gather information about you from publicly-available resources.
 When does WWP collect this information?
@@ -207,9 +207,6 @@ We will use your contact information and other information that we collect for t
      -   For internal record keeping, reporting, and data analysis;
      -   To communicate with you to obtain your input and provide information about our programs and
          services;
-
-
-                                                                             Effective as of May 4, 2018
      -   To improve our programs and services;
      -   To customize our website according to your interests;
      -   To share information with third parties who help us deliver our programs and services;
@@ -232,6 +229,9 @@ information we collect. Records containing personal information are stored at se
 websites use SSL (a tool used to verify the legitimacy of a website); and we train our employees on how
 to treat your data securely. Additionally, when WWP shares your information with third parties, WWP
 takes reasonable steps to ensure that third party has sufficient safeguards in place to protect your
+
+
+                                                                      Effective as of February 20, 2019
 information.
 Will you use my information to contact me?
 Yes. From time to time, a WWP employee will reach out to you to confirm your contact information and
@@ -248,16 +248,13 @@ they may ask you for your contact information or other personal information. Thi
 to information that you provide to these third parties, and we encourage you to ask those third parties any
 questions you may have about their use of your data.
 Do you collect information about minors?
-
-
-                                                                             Effective as of May 4, 2018
 WWP does not knowingly collect, use, or disclose personal information about Alumni or Caregivers who
 are under 18 years of age.
 What if I have questions about this FAQ?
 We’d be happy to hear from you. Please email us at wwplegal@woundedwarriorproject.org with any
 questions about this policy. You can also snail-mail us a letter at Wounded Warrior Project, Attention:
 Legal, 4899 Belfort Road, Suite 300, Jacksonville, Florida 32256.
-                                            Donor Privacy Policy
+                                           Donor Privacy Policy
 This privacy policy applies to WWP supporters and describes how WWP uses information you provide
 when you make a donation to us or sign up to receive emails (the “Donation Process”). When you
 provide us your information, rest assured that WWP uses industry-standard security measures, including
@@ -274,6 +271,9 @@ It is our goal that you fully understand how we collect information, how we use 
 steps we’ve taken to protect that information. We will update this policy from time-to-time, so make sure
 to check this page periodically. If you have any questions about this policy, please email us at
 wwplegal@woundedwarriorproject.org.
+
+
+                                                                       Effective as of February 20, 2019
 What type of information does WWP collect?
 During the Donation Process, WWP will likely ask for information that could be used to identify you.
 This includes your contact information, such as your name, mailing address, phone number, and email
@@ -286,23 +286,20 @@ will not be processed without certain required information. We may also collect 
 communicate with you after your donation is made. Third parties may also share your information with
 WWP, in accordance with applicable laws, rules, and standards. Rest assured that no matter how we
 access your information, we’ll use it only in accordance with this policy.
-
-
-                                                                             Effective as of May 4, 2018
 How does WWP use the information we collect?
 We generally use your information to process donations, send you periodic messages, and share with other
 parties for the purpose of furthering our mission, as required by law, or as part of a legal process. WWP
 may use your information in the following ways:
-     -   Enter your information into our databases for internal record keeping, reporting, and data analysis;
-     -   Communicate with you to obtain your input, provide you with information, or request contributions
+    -    Enter your information into our databases for internal record keeping, reporting, and data analysis;
+    -    Communicate with you to obtain your input, provide you with information, or request contributions
          (provided you have not opted out of receiving such communications);
-     -   Provide you with necessary tax information regarding your donation;
-     -   Customize our website according to your interests;
-     -   Share information with third parties who provide goods and services to WWP (e.g., parties who
+    -    Provide you with necessary tax information regarding your donation;
+    -    Customize our website according to your interests;
+    -    Share information with third parties who provide goods and services to WWP (e.g., parties who
          process donations or help us manage our website and databases);
-     -   Share information with third parties who may provide services to injured veterans or other groups
+    -    Share information with third parties who may provide services to injured veterans or other groups
          you may be interested in; and
-     -   Share information with third parties as required by law, or a part of a legal process.
+    -    Share information with third parties as required by law, or a part of a legal process.
 Does WWP share my information?
 WWP may share your personal information as discussed herein. When WWP shares information with
 outside organizations, it does so subject to appropriate confidentiality rules designed to protect your
@@ -319,6 +316,9 @@ https://support.woundedwarriorproject.org/Default.aspx?tsid=459
 If you would like to opt out of sharing personal information with other organizations, please select “No
 Rent/No Exchange” under the “Inquiry Type” using this form:
 https://support.woundedwarriorproject.org/Default.aspx?tsid=459
+
+
+                                                                     Effective as of February 20, 2019
 How does WWP secure my personal information?
 WWP strives to ensure the security of your personal information. Your trust in us is important, so we
 have put in place physical, electronic, and managerial procedures to safeguard and secure the information
@@ -329,9 +329,6 @@ If you make a donation over the phone or on our website, WWP utilizes industry-s
 protect your information including encryption, network firewalls, and physical security. When we work
 with other companies to process your payment, those companies also use security measures to protect
 your data.
-
-
-                                                                             Effective as of May 4, 2018
 How do I update my information?
 Please contact the WWP Donor Care team using this form:
 https://support.woundedwarriorproject.org/Default.aspx?tsid=459
@@ -350,38 +347,37 @@ Jacksonville, Florida 32256.
 This privacy policy applies to WWP supporters who are under the age of 18. Note that when you, or
 your minor child or guardian, provides us information, WWP will continue to use industry-standard
 security measures, including encryption, firewalls, and physical security to protect your data. In short,
-WWP uses minor data for more limited purposes than general supporters, and applies the same security
-measures.
-WWP collects data about minors in limited circumstances such as during registration for WWP’s
-signature Carry Forward™ event, during registration as a Student Ambassador. In either case, our goal
-is that you fully understand how we use this information. We will update this policy from time-to-time,
-so make sure to check this page periodically. If you have any questions, email us at
-wwplegal@woundedwarriorproject.org.
+WWP applies the same security measures to minor data as we do for our general supporters, but uses the
+data for more limited purposes.
+WWP collects data about minors wishing to support WWP through specific channels designed to allow
+minor participation, such as during registration for WWP’s signature Carry Forward® event or during
+registration as a Student Ambassador. Our goal is that you fully understand how we use this
+information. We will update this policy from time-to-time, so make sure to check this page periodically.
+If you have any questions, email us at wwplegal@woundedwarriorproject.org.
 What type of information does WWP collect?
-During registration for programs and events such as Carry Forward™ and Student Ambassadors, WWP
-will likely ask for information that could be used to identify you. This includes your contact information,
-such as your name, mailing address, phone number, and email address. If you’re registering for Carry
-Forward™, you will also be asked to provide a parent or legal guardian’s credit or debit card number,
-expiration date, and other information necessary to process the transaction. The credit or debit card
-information your parent or legal guardian provides during registration will be stored in accordance with
-the Donor Privacy Policy.
+WWP will likely ask for information that could be used to identify you. This includes your contact
+information, such as your name, mailing address, phone number, and email address. If you’re registering
+for the Carry Forward®, you will also be asked to provide a credit or debit card number, expiration date,
+
+
+                                                                       Effective as of February 20, 2019
+and other information necessary to process the transaction. If you are a minor, you will need your parent
+or guardian’s permission to provide their payment information.
 When does WWP collect this information?
-We collect this information from you during the registration process for programs and events such as
-Carry Forward™ and Student Ambassadors. We may also collect information as we communicate with
-you after your registration. Third parties may also share your information with WWP, in accordance with
-applicable laws, rules, and standards. Rest assured that no matter how we access your information, we’ll
-use it only in accordance with this policy.
-
-
-                                                                             Effective as of May 4, 2018
+We collect this information from you during the registration process for Carry Forward® and Student
+Ambassadors. We may also collect information as we communicate with you after your registration.
+Third parties may also share your information with WWP, in accordance with applicable laws, rules, and
+standards. Rest assured that no matter how we access your information, we’ll use it only in accordance
+with this policy.
 How does WWP use the information we collect?
-We generally use your information to process registration, donations, send you periodic messages, and share
-with other parties for the purpose of furthering our mission, as required by law, or as part of a legal process.
-WWP may use your information in the following ways:
+We generally use your information to process registration, donations, send you periodic messages, and
+share with other parties for the purpose of furthering our mission, as required by law, or as part of a legal
+process. WWP may use your information in the following ways:
     -    Enter your information into our databases for internal record keeping, reporting, and data analysis;
-    -    Communicate with you to obtain your input and provide you with information about your program
-         or event registration;
-    -    Provide you or your parent/legal guardian with necessary tax information regarding your donation;
+    -    Communicate with you to obtain your input and provide you with information about your Carry
+         Forward® or Student Ambassador registration;
+    -    Update you on other events or programs you might be interested in attending or participating in.
+    -    Provide you with necessary tax information regarding your donation;
     -    Customize our website according to your interests;
     -    Share information with third parties who provide goods and services to WWP (e.g., parties who
          process donations or help us manage our website and databases);
@@ -390,14 +386,14 @@ WWP may share your personal information as discussed herein. When WWP shares inf
 outside organizations, it does so subject to appropriate confidentiality rules designed to protect your
 information from unintentional disclosure.
 Does WWP use my information for other purposes once I turn 18?
-Yes, and happy birthday! Once you turn 18, WWP will treat your information in accordance with our
-Donor Privacy Policy.
+Yes! Once you turn 18, WWP will treat your information in accordance with our Donor Privacy Policy.
+(PS, happy birthday!)
 Does WWP use information about children under 13 for any specific purposes?
-Children under 13 are not allowed to register themselves as Student Ambassadors. If you are registering a
-child under 13 for the Carry Forward™ or another program or event, WWP strives to ensure that we
-communicate with that child only to provide communications about the program or event for which he or
-she is registered. It is WWP policy to delete information about children under 13 approximately 30 days
-following the event for which they are registered.
+WWP treats information about children under 13 with special care. Children under 13 are not allowed to
+register themselves as Student Ambassadors. If you are registering a child under 13 for the Carry
+Forward®, WWP strives to ensure that we communicate with that child only to provide communications
+about the Carry Forward® event for which he or she is registered. It is WWP policy to delete information
+about children under 13 approximately 30 days following the event for which they are registered.
 Can I opt out of receiving messages and sharing of my information?
 Yes. Please see information above in our Donor Privacy Policy.
 How does WWP secure my personal information?
@@ -405,12 +401,16 @@ WWP will use the same security methods as discussed above in our Donor Privacy P
 How do I update my information?
 Please contact the WWP Donor Care team using this form:
 https://support.woundedwarriorproject.org/Default.aspx?tsid=459
+
+
+                                                                    Effective as of February 20, 2019
 Will you contact me if I give WWP my information?
 Yes. As discussed above, WWP will send you information specifically about the event for which you are
-registered, whether you’ve registered as a Student Ambassador, Carry Forward™, or another program or
-event. It is WWP policy not to directly solicit monetary contributions from supporters under 18. You can
+registered, whether you’ve registered as a Student Ambassador or for a Carry Forward® event. You can
 opt out of receiving these messages as discussed above in the “Can I opt out of receiving messages and
-sharing of my information” section above.
+sharing of my information” section above. It is WWP policy not to directly solicit monetary
+contributions from supporters under 18.
 What if I have questions about this FAQ?
-Please email us at wwplegal@woundedwarriorproject.org . You can also snail-mail us a letter at
-Wounded Warrior Project, Attention: Legal, 4899 Belfort Road, Suite 300, Jacksonville, Florida 32256.
+Please email us at wwplegal@woundedwarriorproject.org with any questions about this policy. You can
+also snail-mail us a letter at Wounded Warrior Project, Attention: Legal, 4899 Belfort Road, Suite 300,
+Jacksonville, Florida 32256.
