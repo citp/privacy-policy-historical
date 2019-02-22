@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getguru.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204122004id_/https%3A//www.getguru.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getguru.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222151857id_/https%3A//www.getguru.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Guru
 
@@ -16,7 +16,7 @@ This Policy applies to our websites, services, products, and applications (each 
 
 We will not use or share your personal information with anyone except as described in this Privacy Policy.
 
-By using the Service, you consent to the collection and use of your personal information by Guru in accordance with this Privacy Policy. If we decide to change our Privacy Policy, we will post those changes on this page and revise the “last modified” date on the Policy. Your access to and use of this Service is also subject to your acceptance of [Guru’s Terms of Service](http://www.getguru.com/terms-of-service/).
+By using the Service, you consent to the collection and use of your personal information by Guru in accordance with this Privacy Policy. If we decide to change our Privacy Policy, we will post those changes on this page and revise the “last modified” date on the Policy. Your access to and use of this Service is also subject to your acceptance of [Guru’s Terms of Service](https://www.getguru.com/terms-of-service/).
 
 ### Information We Collect and Use
 
