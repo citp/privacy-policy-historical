@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 101cookbooks.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006194418id_/https%3A//www.101cookbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101cookbooks.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222152727id_/https%3A//www.101cookbooks.com/privacy.html) for the most accurate reproduction.*
 
 # 101 Cookbooks Privacy Policy - 101 Cookbooks - Healthy Recipe Journal
 
