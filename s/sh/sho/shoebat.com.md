@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoebat.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224084335id_/http%3A//shoebat.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoebat.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223000627id_/http%3A//shoebat.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Walid Shoebat
+# Privacy Policy - Walid Shoebat
 
 Your privacy is important to us. It is Shoebat.org’s policy to respect your privacy regarding any information we may collect from you across our website, [http://shoebat.org,](http://shoebat.org%2C/) and other sites we own and operate.
 
