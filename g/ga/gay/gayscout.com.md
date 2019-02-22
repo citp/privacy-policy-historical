@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gayscout.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221053510id_/https%3A//www.gayscout.com/en/gayguide/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayscout.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222042309id_/https%3A//www.gayscout.com/en/gayguide/policy.php) for the most accurate reproduction.*
 
-# Data Privacy Statement · gayScout 2018
+# Data Privacy Statement · gayScout 2019
 
 ### Contact details
 
