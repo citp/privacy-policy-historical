@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelpeeper.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211001826id_/https%3A//pixelpeeper.com/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelpeeper.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222094629id_/https%3A//pixelpeeper.com/privacy.txt) for the most accurate reproduction.*
 
 # 
 
