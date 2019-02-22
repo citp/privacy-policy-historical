@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightnovelbastion.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829031359id_/https%3A//lightnovelbastion.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightnovelbastion.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222060005id_/https%3A//lightnovelbastion.com/policy.html) for the most accurate reproduction.*
 
 # Light Novel Bastion
 
