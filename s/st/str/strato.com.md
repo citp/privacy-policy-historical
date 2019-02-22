@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the strato.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831173221id_/https%3A//strato.com/privacy-policy/%3Flang%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strato.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222185215id_/https%3A//www.strato.com/privacy-policy/%3Flang%3DEN) for the most accurate reproduction.*
 
 # STRATO
 
-## Privacy Policy, Version 4.0
+## Privacy Policy, Version 4.1
 
 The protection of your data is one of the most important principles of Strato AG. With this privacy policy, we would like to inform you about the type, scope and purpose of the personal data collected, used and processed by us. Furthermore, we would like to inform you about your rights.
 
@@ -48,31 +48,10 @@ The cookies serve to improve our services and the use of certain features. In ad
 
 You can prevent the creation of cookies at any time by means of an appropriate setting of your Internet browser used and thus permanently object the creation of cookies. Furthermore, cookies that have already been created can be deleted at any time via an Internet browser or other software programs. This is possible in all common Internet browsers. If you deactivate the creation of cookies in the Internet browser you are using, not all functions of our website may be fully usable.
 
- _Pixel_
+e) Domain Query  
+We collect, process and store the data you provide when you request the domain holder data. This includes your name, address, e-mail and personal data that you provide in order to proof your legitimate interest on the domain holder personal data. 
 
-are small graphics on web pages that enable log file recording and log file analysis, which are often used for statistical evaluations.  
-We use the following tracking and analysis tools: 
-
-  * _Google Analytics:_ The operating company of the Google Analytics component is Google Inc.  
-The purpose is to analyse the flow of visitors on our website. Among other things, Google uses the data and information obtained to evaluate the use of our website in order to compile online reports for us. Google Analytics creates a cookie in your browser. By using this cookie, Google is enabled to analyse the use of our website. Each time you access a web page that has a Google Analytics component integrated into it, the web browser is automatically prompted to submit data to Google. No personal data will be transmitted to Google here. The IP address we collect will be forwarded to Google only after the data is made anonymous.  
-It is possible to object to the collection and processing of this data by Google. To do so, you will need to download and install a browser add-on at <https://tools.google.com/dlpage/gaoptout?hl=en>  
-Additional information and Google's privacy policy can be found at [https://policies.google.com/privacy?hl=en&gl=de](https://policies.google.com/privacy?hl=en&gl=de) and <http://www.google.com/analytics/terms/gb.html> Google Analytics is explained in more detail at <https://www.google.com/intl/en_uk/analytics/#?modal_active=none>
-  * _Matomo:_ While using the STRATO website, a unique web analysis cookie is created in your browser in order to collect and analyze various statistical data.  
-[checkbox] If this box is checked, your current visit will be recorded by the Matomo web analysis. Deselect it so that your visit is no longer recorded. 
-  * _Econda:_ The operating company of econda is econda GmbH. Econda creates a cookie in your internet browser. Each time you visit one of the individual pages of this website, your Internet browser sends data to econda for marketing and optimization purposes. The user profiles obtained in this way serve to analyse the behaviour of visitors to our website and are evaluated with the aim of improving and optimising the website. This data is not combined with personal data or with other data containing the same pseudonym.  
-It is possible to object to the collection and processing of data ([opposition econda](https://www.econda.de/en/data-storage-opt-out/)).  
-econda's current privacy policy can be found at <https://www.econda.de/en/data-protection>
-  * _Facebook:_ In order to enable user group controlled marketing in social networks, a tracking pixel of the social media service Facebook Inc. is integrated on this website. When you visit our website, the pixel is loaded from your web browser. Thereby information is sent to Facebook. This concerns, among other things, the information whether Facebook cookies are set in your browser. This information is used to assign the browser session to a person. This assignment is pseudonymised based on a Facebook ID only, so that no personal reference is possible for us.  
-It is possible to object behavior-based advertising at <http://optout.aboutads.info/?c=2#!/>  
-If you check this box, an opt-out cookie will be set in your browser.  
-You can make additional settings for advertising on Facebook in your user profile. 
-  * _Google Adwords:_ The operating company of the services of Google AdWords is Google Inc.  
-If you reach our website via a Google advert, a conversion cookie will be stored on your browser by Google. A conversion cookie expires after thirty days and is not used for identification. If the conversion cookie has not yet expired, it is used to track whether certain sub-pages have been visited on our website. The conversion cookie allows both us and Google to understand if our visitors came to our website through an AdWords ad and generated revenue. The data and information collected through the use of the conversion cookie will be used to determine the success or failure of the respective AdWords ad and to help us optimize our AdWords ads for the future. Neither we nor any other Google AdWords advertiser receives any information from Google that could be used to identify our site visitors. No personal data will be transmitted to Google. The IP address we collect will be forwarded to Google only after the data is made anonymous.  
-You may opt out of Google interest-based advertising. To do this, use the link [https://support.google.com/ads/answer/2662922?hl=en]() and choose the settings you want. Additional information and Google's applicable privacy policy can be found at [https://policies.google.com/privacy?hl=en&gl=de](https://policies.google.com/privacy?hl=en&gl=de)
-  * _Google Remarketing:_ Google Remarketing is a feature of Google AdWords. The integration of Google Remarketing allows a company to create user-based advertising and display interest-based ads to the Internet user. The operating company of the services of Google Remarketing is Google Inc.  
-Google Remarketing creates a cookie in your Internet browser. By creating the cookie, Google will be able to recognise the visitor of our website if he subsequently accesses websites that are also members of the Google advertising network. With every visit to a website on which the Google Remarketing service has been integrated, the Internet browser automatically identifies itself to Google. No personal data will be transmitted to Google here. The IP address we collect will be forwarded to Google only after the data is made anonymous. You may opt out of Google interest-based advertising. To do this, use the link <https://support.google.com/ads/answer/2662922?hl=en> and choose the settings you want.  
-Additional information and Google's applicable privacy policy can be found at [https://policies.google.com/privacy?hl=en&gl=de](https://policies.google.com/privacy?hl=en&gl=de)
-
+  
 
 
 * * *
