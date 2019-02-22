@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubratings.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108054433id_/http%3A//rubratings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubratings.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222183818id_/http%3A//rubratings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Hottest Site for Body Rubs and Massage Providers
 
