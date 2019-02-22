@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graysonline.com.au privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016202733id_/http%3A//www.graysonline.com/content.aspx%3Fblock%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graysonline.com.au privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222011915id_/https%3A//www.graysonline.com/content.aspx%3Fblock%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
