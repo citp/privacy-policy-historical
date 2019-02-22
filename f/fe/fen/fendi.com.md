@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fendi.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908154758id_/https%3A//www.fendi.com/us/info/legal-area/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fendi.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222153350id_/https%3A//www.fendi.com/us/info/legal-area/cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy - Customers Information | Fendi
 
