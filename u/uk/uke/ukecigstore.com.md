@@ -1,111 +1,267 @@
-> *The following text is extracted and transformed from the ukecigstore.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229212156id_/https%3A//www.ukecigstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukecigstore.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222122616id_/https%3A//www.ukecigstore.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | UK ECIG STORE
 
-UK Electronic Cigarette Limited/UK ECIG STORE ("we", ''us'', ''our'') are committed to protecting and respecting your privacy.
+This privacy notice tells you about the information we collect from you when you use our website. In collecting this information, we are acting as a data controller and, by law, we are required to provide you with information about us, about why and how we use your data, and about the rights you have over your data.
 
-This summary, together with our full privacy policy and terms of use (which can be found at http://www.ukecigstore.com/termsandconditions) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+When you are using the UK ECIG STORE website, UK Electronic Cigarette Limited (Company number 08090491) is the data controller.
 
-For the purpose of the Data Protection Act 1998 (the ''Act''), the data controller is UK Electronic Cigarette Limited (company number 080904911) of 20-24 Broadwick Street, London, W1F 8HT.
+  * Information we may collect from you
 
-### Information we may collect from you
+We may collect and process the following data about you:
 
-We may collect and process the following data about you:   
-• Information that you provide to us in your dealings with us. This includes information provided at the time of registering to use our site, subscribing to our services or requesting further services and/or information from us.   
-• We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our site.   
-• If you contact us, we may keep a record of that correspondence.   
-• Details of transactions you carry out through our site and of the fulfillment of your orders.   
-• Details we receive from credit reference and fraud detection agencies.   
-• Details of your visits to our site including, but not limited to, traffic data, location data and the resources that you access.
+    * Information that you provide to us in your dealings with us. This includes information provided at the time of registering to use our site, subscribing to our services or requesting further services and/or information from us.
+    * We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our site.
+    * Details of transactions you carry out through our site and of the fulfillment of your orders.
+    * Details we receive from credit reference and fraud detection agencies.
+    * Details of your visits to our site including, but not limited to, traffic data, location data and the resources that you access.
+    * Please see our full privacy policy and terms of use at http://www.ukecigstore.com/termsandconditions for further details.
 
-Please see our full privacy policy and terms of use at http://www.ukecigstore.com/termsandconditions for further details.
+  * Who we are
 
-### IP addresses
+We are UK Electronic Cigarette Limited (trading as UK ECIG STORE). Our address is Fourth Floor, York House, Empire Way, Wembley, HA9 0PA. You can contact us by post at the above address, by email at [dpo@ukecigstore.com](mailto:dpo@ukecigstore.com) or by telephone on +44 (0)20 3475 4885
 
-We may collect information about your computer, including where relevant your IP address, operating system and browser type. This data is processed for the purposes of fraud prevention, for various administrative purposes and may also be used by us to promote certain offers and advertisements according to your general location.
+  * When you use our website
 
-### Cookies
+When you use our website to browse our products and services and view the information we make available, a number of cookies are used by us and by third parties to allow the website to function, to collect useful information about visitors and to help to make your user experience better.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie which is stored on your browser or the hard drive of your computer. Cookies are text files which contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate, whereas others are aimed at enhancing and personalising your user experience.
+Some of the cookies we use are strictly necessary for our website to function, and we don’t ask for your consent to place these on your computer. For further information, please visit the cookies section on this page.
 
-### The information gathered by cookies on our site(s) may be used in the following ways:
+  * When you submit an enquiry via our website
 
-• To tailor advertisements or promotions you receive. For example, if you have looked at a specific type of electronic cigarette, we might use this information to personalise any subsequent advertisements you see. We may also personalise our service based on the type of computer system you use, together with the purchase pattern of other customers who may have looked at similar products to you. We may also provide you with advertisements which may be customised using information such as the search terms you use on our site. For example, if you searched for a specific product or accessed our site via a specific banner ad or search word, we may present you with content and/or offers linked to that banner ad or searchword.   
-• We may use navigational information about where you go on our site to better understand how our site is used and to ensure that the product offerings that are presented to you are relevant.   
-• We do not use any data about where you go, or present you with advertisements outside of our site other than on sites which provide for such use in their respective privacy policies.   
-• We may collect information on how frequently you visit the site and the type of products and/or services that you view to enable us to measure the popularity of our sites and our product offerings.
+When you submit an enquiry via our website, we ask you for your name, contact telephone number and email address.
 
-### Strictly Necessary Cookies
+We use this information to respond to your query, including providing you with any requested information about our products and services. We may also email you several times after your enquiry in order to follow up on your interest and ensure that we have answered your it to your satisfaction. We will do this based on our legitimate interest in providing accurate information prior to a sale.
 
-These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website, remembering how far you are through your pay as you go order, making sure that the ukecigstore.com website looks consistent or remembering what's in your basket. Without these cookies, many of the basic functionalities of our website - the stuff you expect the site to enable you to do like filling in your shopping basket, we simply can't provide.
+Your enquiry is stored and processed as an email which is hosted by Google within the European Economic Area (EEA). It is also logged on a CRM system on a cloud server based in the European Economic Area (EEA).
 
-_Tip - these cookies make the basic functions of the website work._
+We do not use the information you provide to make any automated decisions that might affect you.
 
-### Performance Cookies
+We keep enquiry emails for five years, after which they are securely archived and kept for ten years, when we delete them. CRM records are kept for five years after the last contact with you.
 
-These cookies collect information about how visitors use our website, for instance which pages visitors go to most often, and the pages that they don't. This understanding enables UK Electronic Cigarette Limited to continually improve the experience we deliver to you (and other visitors like you) so that the site is easy to use and includes content that you find helpful (for instance, performance cookies indicated that users find reviews really helpful and so that gave us confidence that we should provide more reviews on each smartphone product page) These cookies don't collect information that identifies a visitor - so we can't identify you individually. All the information these cookies collect is aggregated and therefore anonymous. This information is only used to improve how the ukecigstore.com website works.
+  * When you purchase a product from our website
 
-_Tip - these cookies collect anonymous information on the pages visited._
+When you purchase products from us online, we ask you for your name, billing/delivery address, date of birth, contact telephone number and email address. We also record your IP (Internet Protocol) address, which is the address of your computer on the Internet.
 
-### Functionality Cookies
+We will use your information to complete your purchase, process your order and to send you your products. We will also send you a receipt via email and we may use your telephone number to contact you regarding your purchase.
 
-These cookies allow the website to remember the choices you make as you browse the site (for instance, your login details to enable you to provide your comments in our new community forums). They provide more enhanced and personal features. The information they collect is anonymised and the usage only relates to www.ukecigstore.com - they cannot track your browsing activity on other websites once you've departed ukecigstore.com
+We require this information in order to process your order, deliver your products and fulfil our contract with you. We record your IP address in order to show that the correct tax was applied to the sale, which we are required to do by law.
 
-_Tip - these cookies remember choices you have made to improve your website experience on www.ukecigstore.com_
+Your information is stored on our website and on our cloud server, both of which are based within the European Union. Your credit card details are passed to a third-party payment processor which is based in the USA and is certified to the EU-US Privacy Shield (which requires effective safeguards for your information). We do not retain your credit/debit card information. 
 
-### Advertising or Targeting Cookies
+We do not use the information you provide to make any automated decisions that might affect you. We keep your order information for an indefinite period.
 
-These cookies are used to deliver adverts more relevant to you, and your interests (assumed by analysing your onsite browsing behaviour). They can also provide caps on the number of times you might see an advert - to hopefully stop them becoming annoying and repetitive. These cookies remember that you have visited ukecigstore.com, track what products you may have looked at, and this information may be shared with our advertising partners. If you see an advert from UK ECIG STORE, once you have left our site and are browsing other sites on the internet, that magically seems to understand what previously interested you (you browsed a specific item on the site) then this is enabled by targeting cookies.
+  * When you sign up to receive our newsletter
 
-_Tip - these cookies collect information about your browsing habits in order to make advertising more relevant for you._
+When you sign up to receive our newsletter, we ask for your name and your email address.
 
-By using this site, you agree to our use of cookies in the manner outlined above. If you do not wish to receive tailored advertising, you can withdraw this consent at any time by changing your browser settings to reject cookies.   
-Please note that it is not a good idea to reject all cookies as this could prevent you from gaining full use of this site. To learn more about cookies click here, or to disable them click here.
+We will ask for your consent to use your name and email address to email you our newsletter which contains information about our products and other information which we feel might be of interest to you. 
 
-### Where we store your personal data
+You can withdraw your consent at any time and we will stop sending you the newsletter.
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by employees operating outside the EEA who work for us or for our suppliers. Such employees maybe engaged in, among other things, the processing of your payment details and the provision of support services. Here we will ensure that we have the necessary contracts and other mechanisms in place to make sure your data continues to be treated in accordance with the provisions of the Act. By submitting your personal data, you agree to this transfer, storing or processing.
+Your name and email address are shared with a third party mailing system. This company has contractually committed to providing appropriate safeguards for your personal data which means it will be protected in l ine with the legal requirements of the European Union.
 
-All information you provide to us is stored on secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+We do not use the information you provide to make any automated decisions that might affect you.
 
-### Uses made of the information
+We keep your personal data for as long as we produce and distribute our newsletter. If you withdraw your consent, we will mark your details so that they are not used and delete them after two years.
 
-We use information held about you in the following ways:
+  * When you submit a website review
 
-• to provide you with goods and/or services that you have ordered   
-• to prevent and detect fraud, crime and money laundering   
-• to check your identity   
-• to trace and recover debts   
-• for credit and credit related services and to manage your accounts   
-• to update our records about you   
-• to make credit, fraud and identity checks on you (when applicable)
+When you submit a review about us we record your name, your email address and your IP (Internet Protocol) address, which is the address of your computer on the Internet.
 
-In addition, UK Electronic Cigarette Limited may use your Personal Information for research and statistical analysis to develop and improve our products and services.
+We use this information to provide verified independent views about our products to potential customers. Your name and the content of your review (but not your email address or IP address) may be publicly displayed on our website. We will do this based on our legitimate interest in marketing our products and services.
 
-You will also have the opportunity to consent to us contacting you by post, email, phone, SMS or MMS from time to time occasionally about products and services which UK Electronic Cigarette Limited and carefully selected third parties believe may be of interest to you.
+Your details are shared with a third party reviews system which is based within the European Economic Area (EEA).
 
-If you are an existing customer, we may also contact you by electronic means (email or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
+We do not use the information you provide to make any automated decisions that might affect you.
 
-If you do not want us to use your data in this way please call us on 020 3475 4885. Alternatively, you can write to us at us c/o The Data Protection Office, UK ECIG STORE, 11 Rutherford Way, London HA9 0BP. Please note that it may take up to 28 days for such changes to take effect.
+Your personal data is stored for as long as we are marketing the product or services that the review refers to, after which it is deleted. You may ask us to remove your review at any time.
 
-### Disclosure of your information
+  * Your rights as a data subject
 
-We may disclose your personal information to any member of UK Electronic Cigarette Limited.   
-We may disclose your personal information to third parties:
+By law, you can ask us what information we hold about you, and you can ask us to correct it if it is inaccurate. If we have asked for your consent to process your personal data, you may withdraw that consent at any time.
 
-• In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; and   
-• if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use.
+If we are processing your personal data for reasons of consent or to fulfil a contract, you can ask us to give you a copy of the information in a machine-readable format so that you can transfer it to another provider.
 
-We may also provide information about our dealings with you to credit reference and fraud prevention agencies. For full details about the third parties to which your data may be disclosed and how they may process this data, please see our privacy policy and terms of use at http://www.ukecigstore.com/termsandconditions
+If we are processing your personal data for reasons of consent or legitimate interest, you can request that your data be erased.
 
-### Access to information
+You have the right to ask us to stop using your information for a period of time if you believe we are not doing so lawfully. 
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+Finally, in some circumstances you can ask us not to reach decisions affecting you using automated processing or profiling.
 
-### Changes to our privacy policy
+To submit a request regarding your personal data by email, post or telephone, please use the contact information provided above in the ‘Who we are’ section of this policy.
 
-Any changes we may make to our privacy policy in the future will be posted on this page and/or in our privacy policy and terms of use at http://www.ukecigstore.com/termsandconditions and, where appropriate, notified to you by email.
+  * Cookies
 
-### Contact
+When you use our website to browse our products and services and view the information we make available, a number of cookies are used by us and by third parties to allow the website to function, to collect useful information about visitors and to help to make your user experience better.
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to The Data Protection Office, UK ECIG STORE, 11 Rutherford Way, London HA9 0BP.
+Some of the cookies we use are strictly necessary for our website to function, and we don’t ask for your consent to place these on your computer. These cookies are shown below.
+
+**Cookie Name**
+
+| 
+
+**Purpose**  
+  
+---|---  
+  
+popupdata
+
+| 
+
+Used by Magento to show welcome message. Collects number of visits.  
+  
+Currency
+
+| 
+
+Holds the relevant currency to the country you are browsing from, and for this it identifies the location of the visitor.  
+  
+CART
+
+| 
+
+The association with the customer's shopping cart.  
+  
+CUSTOMER
+
+| 
+
+An encrypted version of the shopper's customer ID.  
+  
+CUSTOMER_INFO
+
+| 
+
+An encrypted version of the shopper's customer group.  
+  
+FRONTEND
+
+| 
+
+The customer's session ID.  
+  
+GUEST-VIEW
+
+| 
+
+Determines if guests can edit their orders.  
+  
+PERSISTENT_SHOPPING_CART
+
+| 
+
+A link to information about the shopper's cart and viewing history.  
+  
+STORE
+
+| 
+
+The store view or language chosen by the shopper.  
+  
+VIEWED_PRODUCT_IDS
+
+| 
+
+The products recently viewed by the shopper.  
+  
+WISHLIST
+
+| 
+
+An encrypted list of products added to the shopper's wishlist.  
+  
+WISHLIST_CNT
+
+| 
+
+The number of items in the shopper's wishlist.  
+  
+_utmb
+
+| 
+
+Determines new sessions/visits.  
+  
+_utmc
+
+| 
+
+Determines if the shopper is in a new session/visit.  
+  
+As well as the cookies we use, various third parties.These are shown below.
+
+**Cookie Name**
+
+| 
+
+**Purpose**  
+  
+---|---  
+  
+Ometria
+
+| 
+
+This software helps us collect and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity, shopping times, email address and IP address. That information helps us to improve the website and your shopping experience, and to make our marketing campaigns relevant  
+  
+_utmz and _utma
+
+| 
+
+These cookies enable the function of Google Analytics. Software. Like Ometria, this software helps us collect and analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and shopping times. That information helps us to improve the website and your shopping experience, and to make our marketing campaigns relevant.
+
+The data stored by these cookies can be seen only by the relevant teams at UK Ecig Store and Google and never shows any confidential information.  
+  
+uslk_s, uslk_e
+
+| 
+
+For user identification. Contains a user ID, the name of the end user, email address, and number of visits. Used by Google Analytics.  
+  
+traffic_src
+
+| 
+
+Used by Google Analytics to identify how the user arrived to the website.  
+  
+_gid
+
+| 
+
+Used by Google Analytics to store user ID and marketing campaign ID.  
+  
+_ga
+
+| 
+
+Stores user ID.  
+  
+_unam
+
+| 
+
+Used by Share This service to monitor click activity. Navigation history, time spent on each page. Only works if a user is signed into their Share This account.  
+  
+intercom-id-zmcdradn
+
+| 
+
+Collects the user email.  
+  
+hubspotutk
+
+| 
+
+The HubSpot Analytics system identifies unique records using two pieces of data, the usertoken (stored in the visitors browser in the hubspotutk cookie) and the email address.  
+  
+  * Your right to complain
+
+If you have a complaint about our use of your information, we would prefer you to contact us directly in the first instance so that we can address your complaint. However, you can also contact the Information Commissioner’s Office via their website at [www.ico.org.uk/concerns](http://www.ico.org.uk/concerns)
+
+  * Updates to this privacy policy
+
+We regularly review and, if appropriate, update this privacy policy from time to time, and as our services and use of personal data evolves. If we want to make use of your personal data in a way that we haven’t previously identified, we will contact you to provide information about this and, if necessary, to ask for your consent.
+
+
+
