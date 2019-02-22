@@ -1,270 +1,423 @@
-> *The following text is extracted and transformed from the easons.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608133933id_/http%3A//www.easons.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easons.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222110426id_/https%3A//www.easons.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Eason & Son Bookstore
+# Privacy Policy
 
-In order to provide you with a smooth, efficient and personalised experience, we collect some information relating to your usage of our site. This allows us to provide services and features that most likely meet your needs, and to customise our service to make your experience easier and quicker. Please note, the following cookie policy applies to Easons.com and all subdomains, including secure.easons.com (used for your Shopping Basket).
+_local_shipping_ Spend over €10 for free home delivery   _place_ 2 Hour Click & Collect Service Now Available
 
-## Cookies
+## WHO ARE WE?
 
-Cookies are tiny text files stored on your computer when you visit certain web pages. At Easons.com we use cookies to keep track of what you have in your basket, and to remember you when you return to our site.
+We are Eason Ltd. a private limited company, registered in Ireland under company registration no. 566570, having its registered office at  Eason Limited, Unit 1, Elm Road, Dublin Airport Logistics Park, St. Margaret’s, Co. Dublin, Ireland. We supply books, magazines and newspapers to outlets and online in the Republic of Ireland and Northern Ireland.
 
-Please note that cookies can't harm your computer. We don't store personally identifiable information such as credit card details in cookies we create, but we do use encrypted information gathered from them to help improve your experience of the site. For example, they help us to identify and resolve errors, or to determine relevant related products to show you when you're browsing.
+This notice sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our practices regarding your personal data and how we will treat it.
 
-#### How to Manage Cookies:
+For the purpose of the General Data Protection Regulation (the GDPR) the data controller is Eason Ltd (“Eason”)
 
-We use a number of different cookies on our site. If you do not knowwhat cookies are, or how to control or delete them, then we recommendyou visit [http://www.aboutcookies.org ](http://www.aboutcookies.org/)for detailed guidance.
+Our Data Protection Officer; Ray Walsh can be contacted by email at [RWalsh@easons.com](mailto:RWalsh@easons.com).
 
-#### List of the Main Easons.com Cookies:
+## WHAT PERSONAL INFORMATION DO WE COLLECT FROM YOU?
 
-The following tables describe the cookies we use on this site and what we use them for. Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete Easons.com cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “In Private” for Internet Explorer, "Private Browsing" in Firefox and Safari etc).
+You may give us personal data by:
 
- **Session Cookies** :  
-We use session cookies to remember your log-in and what you’ve put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken. More information on session cookies and what they are used for at <http://www.allaboutcookies.org/cookies/session-cookies-used-for.html>.
+•             Corresponding with us by phone, email or otherwise.  We ask you to disclose only as much information as is necessary to provide you with our products or to submit a question/suggestion/comment in relation to our website or products.
 
-**Cookie Name** |  **Purpose**  
+•             Filling in forms on [www.easons.com](https://web.archive.org/) or [www.easonschoolbooks.com](http://www.easonschoolbooks.com/) (our website) such as the “contact us” form.
+
+  *        Completing a transaction on [www.easons.com](https://web.archive.org/) or [www.easonschoolbooks.com](http://www.easonschoolbooks.com/) (our websites).
+
+
+
+•             Using our loyalty portal and our reward program card.  The type of personal information you may include is your name, address, phone number, email address and date of birth.
+
+•             When using our customer care help desk at www.easonhelpcentre.com.
+
+•             Signing in or registering to use our online store. The type of personal information you may include is your name, address, phone number, email address, date of birth (optional), bank details.
+
+•             Applying to work with us. The type of information you may provide in your CV, a cover letter, your name, address, e-mail address and phone number. CVs should include information relevant to your employment history and education (degrees obtained, places worked, positions held, relevant awards, and so forth). We ask that you do not disclose sensitive personal information (e.g. gender, height, weight, medical information, religion, philosophical or political beliefs, financial data) in your application.
+
+## WHAT INFORMATION ABOUT YOU DO WE OBTAIN FROM OTHERS?
+
+When you use our goods, engage with us as a franchisee or apply to work with us, we may obtain the following categories of personal data from others:
+
+•             Recruitment agencies (Candidates);
+
+•             Credit score companies (Franchisees).
+
+## WHY DO WE COLLECT THIS INFORMATION?
+
+We collect the information in order to provide you with products, to market our services, to improve our website and to recruit staff.
+
+We will use this information:
+
+### Customer:
+
+•             To set you up as a customer on our systems;
+
+•             To liaise with you about products that we are sending you;
+
+•             To deliver information about our products, where you have subscribed to receive same.
+
+### Franchisees:
+
+•             To set you up as a corporate client on our systems;
+
+•             To deliver information about our products, where you have subscribed to receive same;
+
+•             To ensure payment of our invoices.
+
+### Wholesale Customers:
+
+•             To set you up as a wholesale customer on our systems;
+
+•             To deliver information about our products, where you have subscribed to receive same;
+
+•             To ensure payment of our invoices.
+
+### Candidates:
+
+•             To create a candidate profile for you if you are a prospective employee;
+
+•             To process employment applications, including by assessing qualifications, verifying information, conducting reference or other employment-related checks, and notifying you of future opportunities that might be of interest to you.
+
+### Website users:
+
+•             To facilitate your use of our online store and loyalty portal;
+
+•             To administer and improve our website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+
+•             As part of our efforts to keep our website safe and secure;
+
+•             To measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+
+•             To make suggestions and recommendations to you and other users of our website about services that may interest you or them.
+
+## The legal bases for the processing of your data are:
+
+•             That you have provided consent for the processing for one of more specified purposes such as marketing for example when you subscribe to receive our newsletter;
+
+•             Processing necessary for the performance of a contract which you have entered into with us or to take steps at your request prior to entering into a contract;
+
+•             Processing necessary for compliance with a legal obligation to which we are subject;
+
+•             Processing necessary for the purposes of the legitimate interests which we pursue in providing you with quotes and proposals about our services prior to contract where such interests are not overridden by your interests or fundamental rights or freedoms which require the protection of your information.
+
+## WHO DO WE SHARE THIS INFORMATION WITH?
+
+We may share your personal data with our selected business associates/suppliers and contractors to provide you with our services. For example, these business partners may include our web hosting provider and our IT service providers.
+
+In addition, we may disclose your personal information to third parties:
+
+•             In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+
+•             If we or substantially all of our assets are acquired by a third party, in which case information held by us about our customers will be one of the transferred assets;
+
+•             If we are under a duty to disclose or share your information in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect our rights, property, or safety, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+•             As part of a project with other companies in the Eason Group.
+
+## DISCLOSURE OF YOUR INFORMATION
+
+We may also share your information with selected third parties including:
+
+•             Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
+
+## HOW LONG DO WE KEEP HOLD OF YOUR INFORMATION?
+
+The time periods for which we retain your information depends on the type of information and the purposes for which we use it. We will keep your information for no longer than is required or permitted.
+
+## WHAT ARE YOUR RIGHTS WITH RESPECT TO YOUR PERSONAL DATA?
+
+You have the following rights:
+
+•             The right to access the personal data we hold about you.
+
+•             The right to require us to rectify any inaccurate personal data about you without undue delay.
+
+•             The right to have us erase any personal data we hold about you in circumstances such as where it is no longer necessary for us to hold the personal data or, in some circumstances, if you have withdrawn your consent to the processing.
+
+•             The right to object to us processing personal data about you such as processing for profiling or direct marketing.
+
+•             The right to ask us to provide your personal data to you in a portable format or, where technically feasible, for us to port that personal data to another provider provided it does not result in a disclosure of personal data relating to other people.
+
+•             The right to request a restriction of the processing of your personal data.
+
+Where our processing of your personal data is based on your consent to that processing, you have the right to withdraw that consent at any time but any processing that we have carried out before you withdrew your consent remains lawful.
+
+You may lodge a complaint with your local supervisory authority with respect to our processing of your personal data. The local Supervisory Authority in Ireland is the Data Protection Commission. The website is [www.dataprotection.ie](http://www.dataprotection.ie/).
+
+## SECURITY STATEMENT
+
+We are committed to protecting the privacy and security of the information that you provide to Eason. We have put in place multiple technical and physical security measures in place to prevent any loss of security to your information. The collection, transmission and storage of information can never be guaranteed to be completely secure, however, we have taken steps to ensure that appropriate safeguards are in place to protect your information.
+
+Our website is fully compliant with the requirements set out in the Payment Card Industry Data Security Standards version 2.0 (PCI DSS 2.0). We do not hold special category or sensitive payment data when users interact with our site.
+
+Secure Sockets Layer, or 'SSL', is the security technology used by Eason for encrypting a link between a web server and a browser. All data passed between our web server and your browser remains completely private and secure. For example, using SSL, your computer and ours agree to transpose whatever we are sending into an unintelligible hash of characters.
+
+Through using SSL, we can ensure that your valuable personal data is fully encrypted when you interact with our site. Without this information on your computer or ours, no one can understand our encrypted communication.
+
+Our SSL certificates are issued by a leading certificate authority, Symantec. Symantec TM is the world’s leading provider of SSL certificates. Symantec helped lead the development of Extended Validation (EV) and has issued more EV SSL certificates than any other Certificate Authority.
+
+Our marketing activities, through Eason newsletters, social, loyalty communications, contain genuine, valid money saving offers and promotions that may be active on Eason for a defined period of time. Spam, or content of a poor quality is never distributed to our subscribers. By notifying you of these offers, we always aim to do so in a non-intrusive, high quality manner.
+
+To subscribe to the direct marketing from Eason, you must explicitly consent to do by either populating our sign up form on our website, or by updating your subscription preferences in either your Eason Account Summary or while completing a purchase at the Eason checkout. You will never receive our marketing communications unless you have explicitly provided your consent to Eason. When you provide your explicit consent to subscribe to our marketing, we will use your details to send you updates on Eason's offers, products and services which we identify as being relevant to you.
+
+To unsubscribe from the Eason email database, simply click on the unsubscribe link located at the bottom of every marketing email or update your preferences in your Eason account. Alternatively, you can email [support@Easons.com](mailto:support@Easons.com) indicating 'Unsubscribe' in the subject line with your request to unsubscribe and we will action this for you within 1 business day. We respect your right to not receive our marketing even after consent and subscription, and we have made unsubscribing as easy as possible for you. Should you ever have any questions, please do not hesitate to drop us a line at [support@easons.com](mailto:support@easons.com)
+
+## WHAT WILL HAPPEN IF WE CHANGE OUR PRIVACY NOTICE?
+
+This notice may change from time to time, and any changes will be posted on our website and will be effective when posted. Please review this notice each time you use our website or our services. This notice was last updated on 08/08/18.
+
+## HOW CAN YOU CONTACT US?
+
+Our Data Protection Officer; Ray Walsh can be contacted by email at [RWalsh@easons.com](mailto:RWalsh@easons.com).
+
+## Schedule 1  
+
+We have set out below a list of third parties with whom we share your data.
+
+_Third party **name** _
+
+| 
+
+_Description of services provided_  
+  
 ---|---  
   
-Avt
+Other companies in the Eason Group (Eason Ltd, Eason Holdings plc and Eason & Son (NI) Ltd)
 
 | 
 
-Used to store a list of previously viewed products during your session. We use this information to populate the ‘Recently Viewed Items’ lists that appear on some pages.  
+In order to operate our organisation effectively  
   
-eh1
+Kelleher
 
 | 
 
-Used to store previous searches to allow you to repeat these during your session.  
+Insurance brokers  
   
-os9C
+CPL and Hayes
 
 | 
 
-Contains a unique identifier used to identify you as a user between page loads during a session. This allows us to remember your actions, such as adding items to your basket, during a session.  
+Recruitment agencies  
   
-os9M
+RSA
 
 | 
 
-Contains a unique identifier used to identify you as a user and check user session integrity between servers, thus optimising site performance during a session.  
+Insurance Products  
   
-oslastadd2b
+Invesco
 
 | 
 
-Used to store a record of the last item added to the shopping cart during a session.  
+Pensions & Investments  
   
-xg9C
+Simply Personnel
 
 | 
 
-Contains a unique identifier identifying an account session between page loads, to recognise you as a logged-in member as you navigate from page to page.  
+Human Resources Software  
   
-xg9M
+Irish Rail
 
 | 
 
-Contains a unique identifier used to identify your account session and check user integrity between servers, thus optimising site performance during a session.  
+Travel  
   
-testC
+PWC
 
 | 
 
-Used to anonymously test session and account integrity  
+Auditor services  
   
-testM
+Microsoft Outlook
 
 | 
 
-Used to anonymously test session and account integrity  
+Email services  
   
-ASPSESSIONID
+Learnupon
 
 | 
 
-Active Server Page SessionID - this cookie is used to enable core site functionality. It does not contain any personal information and is automatically deleted when you close your browser.  
+Cloud based management software  
   
-**Cookies for Site Analytics**
-
-**Cookie Name** |  **Description**  
----|---  
-  
-Google Analytics  
-Remarketing
+Easycoms
 
 | 
 
-Eason use this to understand how the site is being used in order to improve the user experience. User data is all anonymous  
-You can find out more about Google’s position on privacy as regards its analytics service at [http://www.google.com/intl/en/privacypolicy.html.](http://www.google.com/intl/en/privacypolicy.html)  
-Eason have Analytics Demographics and Interest Reporting enabled on easons.com. With this we collect demographic data such as age, gender and interests which we may use to tailor your website experience and tailor the contect of Eason eZine's.   
-If you wish to opt-out of this data collection, you can do so using the following browser add-on: <https://tools.google.com/dlpage/gaoptout/>.  
-Eason use Remarketing with Google Analytics to advertise online.   
+Internal Communications Tool  
   
-Inspectlet
+Edays
 
 | 
 
-This application allows us to see where users encounter issue or confusion on our site so that we can make Easons.com as user friendly as possible.   
-We have engaged inspectlet to analyse the activities of visitors to this website,and Inspectlet's authorised use of cookies and other tracking technologies enable it to have access to Personal Information of visitors to this website.   
-Such access to and use of Personal Information by Inspectlet is governed by Inspectlet's Privacy Policy [https://www.inspectlet.com/legal#privacy].  
+Human Resource Management Software  
   
-**Cookies for Email Tracking**
-
-**Cookie Name** |  **Purpose**  
----|---  
-  
-TD_UNIQUE_IMP
+Micropay
 
 | 
 
-The Unique Impression Cookie contains programs of viewed ads together with the time of the ad-view. This information is used to be able to identify unique ad-views.  
+HR software  
   
-TD_POOL
+Sage
 
 | 
 
-Ad-pools have the feature of ad-rotation. To support this, pool-based ad-views are stored in a cookie.  
+Payroll software  
   
-TD_EH_
+Securitas
 
 | 
 
-The Event History Cookie contains information about the three latest tracks (clicks) and the ten latest closures per program. This information is used to be able to connect clicks with closures.  
+Security services  
   
-TradeDoublerGUID
+Manguard
 
 | 
 
-The GUID Cookie holds an identifier to support server side storage of the user event history  
+Security services  
   
-OPT_OUT
+Thorntons
 
 | 
 
-Allows a user to disable cookie based tracking or targeting for the browser that the user is using  
+Waste management services  
   
-RET
+An Garda Siochana
 
 | 
 
-Retargeting is a feature that makes it possible to target ads to users that have visited configured targeting points on the advertiser’s site. To support this feature the targeting points visited by a user are stored in this cookie.  
+Law Enforcement  
   
-insp_sid
+Savvy
 
 | 
 
-Creates a Session ID which is applied to the site visit.
-
+Loyalty platform supplier  
   
-  
-  
-insp_scpt
+Microsoft AX
 
 | 
 
-Screen capture to allow us to see how users interact with the site.
-
+ERP System  
   
-  
-  
-insp_uid
+ERP
 
 | 
 
-Applies a user ID to the site visitor.
-
+Ecommerce database  
   
-  
-  
-insp_nv
+Tibus (Belfast)
 
 | 
 
-Identifies if the user is a New Visotor to the site or a Return Visitor.
-
+Website Hosting provider  
   
-  
-  
-insp_pad 
+Paypal
 
 | 
 
-Records the number of pages viewed in a session.
-
+Online payment provider  
   
-  
-  
-insp_ref
+Gardners UK
 
 | 
 
-Identifies the source that the user has come from to get to the Eason site.
-
+3rd Party Logistics  
   
+Snipp
+
+| 
+
+Loyalty card database  
   
+Wordpress
+
+| 
+
+Marketing services  
   
-**Cookies set by Third Party Websites**  
-We sometimes embed video content from websites such as YouTube. As aresult, when you visit a page with content embedded from, for example,YouTube, you may be presented with cookies from these websites.Easons.com does not control the dissemination of these cookies. Youshould check the relevant third party website for more information aboutthese.
+Apparatus
 
-## Social Networking Sharing Tools
+| 
 
-Easons.com carries embedded ‘share’ buttons to enable users to easilyshare content with their friends through a number of popular socialnetworks. These sites may set a cookie when you are also logged in totheir service. Easons.com does not control the dissemination of thesecookies and you should check the relevant third party website for moreinformation about these.
+Website Development Partner  
+  
+Realex
 
-You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on Easons.com. So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting Easons.com, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out howto opt out, or delete, such information.
+| 
 
-## Email Privacy Policy
+Credit card services  
+  
+Desk.com
 
- **Send Frequency:**
+| 
 
-  * \- eCommerce emails are usually sent once every 2 weeks. During key periods like Christmas this may increase to weekly
-  * \- Loyalty newsletters are sent once monthly
-  * \- Loyalty members will receive a Birthday email
-  * \- When a loyalty member reaches 250 points they will be send an email notification
-  * \- BookBind members will receive a monthly newsletter in the last week of every month
+Service desk software  
+  
+Salesforce
 
+| 
 
+Service desk software  
+  
+Barclays UK
 
- **Third party emails**
+| 
 
-  * \- Feefo (a third party supplier) will email you after you have ordered with us, asking you to leave some feedback regarding the products you have bought and how you rate our service. We share basic order information with them so they can send you the email. You can opt to unsubscribe from these emails by clicking on the link in the email. They are not permitted to use this information for any other purpose, and it is fully secure. 
+Banking  
+  
+IWACS
 
+| 
 
+Warehouse management system  
+  
+Masterlink
 
-**Email Content:**
+| 
 
-  * \- eCommerce email will contain regular promotions and discounts for easons.com & easonschoolbooks.com as well as content relating to new releases, best sellers, book awards and occasional polls and surveys
-  * \- Loyalty emails will contain a members points balance information, promotions and book related news
-  * \- BookBind emails contain book related news, links to blog posts, recent BookBind activity and occasional offers
+3rd Party Logistics  
+  
+Carlow Warehousing
 
+| 
 
+Storage and archive facility  
+  
+Microsoft azure
 
- **Unsubscribe:**
+| 
 
-To unsubscribe from the Eason email database, simply click on the unsubscribe link located at the bottom of every marketing email.
+Cloud provider  
+  
+Microsoft exchange
 
- **Email Tracking:**
+| 
 
-Some emails that we send you have no tracking in at all e.g. service emails with invoices attached. Other emails we send we put in tracking so that we can tell how much traffic those emails send to our site - e.g. our monthly Thank You Card newsletter. Some emails we can track, at an individual level, whether the user has opened and clicked on the email. We rarely use the latter information at a personal level, rather we use it to understand open and click rates.
+Email server  
+  
+Emarsys UK
 
- **Data Collected:**
+| 
 
-The data we collect when a customer registers includes
+Email database  
+  
+Episerver
 
-  * \- Name (first & last name)
-  * \- Email address
-  * \- Sign up time and date
-  * \- Sign up channel 
-  * \- Transaction data (number of items bought, order value)
+| 
 
+eCommerce CMS & Email platform  
+  
+An Post
 
+| 
 
- **How we use this data:**
+Postal service  
+  
+Bing
 
-The data that we collect from registration is used to tailor emails and promotions to better suit your preferences. We do not share any data for use by any third parties.
+| 
 
- **Company Registration and Contact Information:**
-
-Eason and Son Ltd. is a private limited Company, registered in Ireland (number 1279).  
-Registered office at 80 Middle Abbey Street, Dublin 1, Ireland.  
- **Phone:** 01-8448815   
-**Email:** support@easons.com
+Marketing Services
