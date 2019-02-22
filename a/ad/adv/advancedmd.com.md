@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advancedmd.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003163907id_/http%3A//info.advancedmd.com/rs/802-ZJP-486/images/AdvancedMD-Online-Privacy-Statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedmd.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222112846id_/http%3A//info.advancedmd.com/rs/802-ZJP-486/images/AdvancedMD-Online-Privacy-Statement.pdf) for the most accurate reproduction.*
 
 # Effective date: August 28, 2018
 
