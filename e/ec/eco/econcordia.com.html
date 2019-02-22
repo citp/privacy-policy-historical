@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the econcordia.com privacy policy that was archived on 2018-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181120211152id_/https%3A//www.econcordia.com/home/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the econcordia.com privacy policy that was archived on 2019-02-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190222161507id_/https%3A//www.econcordia.com/home/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><title>
 	eConcordia - Privacy
@@ -78,11 +78,48 @@
 		</script>		
 	</head>
 	<body>  
-	<form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTYxMTMzMDY4D2QWAmYPZBYCAgEPZBYIAgEPFgIeB1Zpc2libGVoZAICDxYCHwBoZAIDDxYCHwBoZAIED2QWAgIBD2QWAgIBD2QWBAIBD2QWAgIPDxYCHwBoZAIDDxYCHwBoFgJmDw8WAh4EVGV4dAUBMGRkZJSQP5WsIu0W6c1Cpc1WS01stjVO">
+	<form name="aspnetForm" method="post" action="privacy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTYxMTMzMDY4D2QWAmYPZBYCAgEPZBYIAgEPFgIeB1Zpc2libGVoZAICDxYCHwBoZAIDDxYCHwBoZAIED2QWAgIBD2QWAmYPZBYEAgEPZBYCAg8PFgIfAGhkAgMPFgIfAGgWAmYPDxYCHgRUZXh0BQEwZGRkW87Kxz897gBCe2aGV9Qr9IflGxQ=">
+</div>
 
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="4EB8B043">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKJyNuHCQLA5K32BALf/bSxDgLFw/aTCcZfndeQEs3cnPTDNaq6uXLQxVzW">
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/home/WebResource.axd?d=Qosc1LktfXm9qwR60xQ_sO3m_i9bfFGHfbV3oDxNoQKBmJ7i4gEIqVyw5Zf0nRwLZj4UJHE7Hpgbic41NdI-bPdxo0g1&amp;t=636284489597151108" type="text/javascript"></script>
+
+
+<script src="/home/WebResource.axd?d=QnqNH9xp-t7EU79O3oAsD2HHIRAPl4L97w5fPnu0WnPkYLqaKSHKEPW0jenlo_yinM3R5r1vyvd6Hk6OAb4iPnBxcd7aDBQ_E6rm2nCAQUNwAAAn0&amp;t=636284489597151108" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="4EB8B043">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALr6925CgLA5K32BALf/bSxDgLFw/aTCahVuZMKW8EKzm0Lu6pTlDGG8fx3">
+</div>
 		<div class="top-nav">
 			<div class="container">
 				<ul>
@@ -156,9 +193,73 @@
 			
 
 <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+	
+	
+	<script type="text/javascript">
 
+	    $(document).ready(function () {
+	        CallRemoveStorage();
+	    });
 
-	<div id="ctl00_content_login_loginPanel">
+	    function CallRemoveStorage()
+	    {
+	        
+	            RemoveStorage();
+            
+	    }
+
+	    function QuizService()
+	         {
+	             var username = "Admin";
+	             var Password = "admin";
+	
+	             if (typeof (Storage) !== "undefined") {
+	
+	                 
+	                 var username = document.getElementById('ctl00_content_login_UserName').value;
+	                 var password = document.getElementById('ctl00_content_login_Password').value;;
+	
+	                 //localStorage.setItem("Password", "admin");
+	
+	                 $.ajax({
+	                     url: 'https://api.econcordia.com/users/authenticate',
+	                     type: 'POST',
+	                     data: JSON.stringify({ 'username': username, 'password': password }),
+	                     dataType: 'json',
+	                     contentType: 'application/json; charset=utf-8',
+	                     cache: false,
+	                     async: false,
+	                     success: function (response) {
+	                         localStorage.setItem("user", JSON.stringify(response));
+	                         localStorage.setItem('api_token', response.token);
+	                         returnResponse = response;
+	                     },
+	                     error: function (response) {
+	                         returnResponse = response;
+	                     }
+	                 });
+	
+	             } else {
+	                 // Sorry! No Web Storage support..
+	             }
+	
+	         }
+
+	    function RemoveStorage() {
+	        
+
+	        if (typeof (Storage) !== "undefined") {
+	            localStorage.removeItem("user");
+	            localStorage.removeItem('api_token');
+	        } else {
+	    
+	        }
+
+	    }
+	
+     </script> 
+
+	<div id="ctl00_content_login_loginPanel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_content_login_btnLogin')">
 	
 	
 	<div id="ctl00_content_login_login" class="login">
@@ -166,18 +267,18 @@
 		<div class="login-content">
 			<label for="ctl00_content_login_UserName" id="ctl00_content_login_lblUserName">Username:</label> 
 			<input name="ctl00$content$login$UserName" type="text" maxlength="50" id="ctl00_content_login_UserName">
-			
+			<span id="ctl00_content_login_UserNameRequired" title="Username is required." style="color:Red;display:none;"></span>
 			
 			<label for="ctl00_content_login_Password" id="ctl00_content_login_lblPassword">Password:</label> 
 			<input name="ctl00$content$login$Password" type="password" maxlength="50" id="ctl00_content_login_Password">
-			
+			<span id="ctl00_content_login_PasswordRequired" title="Password is required." style="color:Red;display:none;"></span>
 			
 			<div class="login-btn">
 				<div id="ctl00_content_login_divErrorBox" class="error-box"><span id="ctl00_content_login_lblError"></span></div>
 				
                 
 
-				<input type="submit" name="ctl00$content$login$btnLogin" value="Log In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$content$login$btnLogin&quot;, &quot;&quot;, true, &quot;Login1&quot;, &quot;&quot;, false, false))" id="ctl00_content_login_btnLogin" class="btn bg-black">
+				<input type="submit" name="ctl00$content$login$btnLogin" value="Log In" onclick="javascript:QuizService();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$content$login$btnLogin&quot;, &quot;&quot;, true, &quot;Login1&quot;, &quot;&quot;, false, false))" id="ctl00_content_login_btnLogin" class="btn bg-black">
 				<a href="/home/profile/forgotpassword.aspx">Forgot your password?</a>
 				<div class="clear"></div>
 			</div>
@@ -247,7 +348,52 @@
 		
 		
 		
-		</form>
+		
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_content_login_UserNameRequired"), document.getElementById("ctl00_content_login_PasswordRequired"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_content_login_UserNameRequired = document.all ? document.all["ctl00_content_login_UserNameRequired"] : document.getElementById("ctl00_content_login_UserNameRequired");
+ctl00_content_login_UserNameRequired.controltovalidate = "ctl00_content_login_UserName";
+ctl00_content_login_UserNameRequired.errormessage = "Username is required.";
+ctl00_content_login_UserNameRequired.display = "None";
+ctl00_content_login_UserNameRequired.validationGroup = "Login1";
+ctl00_content_login_UserNameRequired.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_content_login_UserNameRequired.initialvalue = "";
+var ctl00_content_login_PasswordRequired = document.all ? document.all["ctl00_content_login_PasswordRequired"] : document.getElementById("ctl00_content_login_PasswordRequired");
+ctl00_content_login_PasswordRequired.controltovalidate = "ctl00_content_login_Password";
+ctl00_content_login_PasswordRequired.errormessage = "Password is required.";
+ctl00_content_login_PasswordRequired.display = "None";
+ctl00_content_login_PasswordRequired.validationGroup = "Login1";
+ctl00_content_login_PasswordRequired.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_content_login_PasswordRequired.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+</form>
 		
 		<footer>
 			
@@ -267,7 +413,7 @@
 	
 	<div class="clear"></div>
 		
-	<p>© 2018 eConcordia.com Inc. All rights reserved.</p>
+	<p>© 2019 eConcordia.com Inc. All rights reserved.</p>
 		
 		
 
@@ -280,7 +426,7 @@
 		<script src="/home/js/navigation_sm_tooltip.js" type="text/javascript"></script> 
 		<script src="/home/js/navigation_sm_viewport.js" type="text/javascript"></script> 
 		
-		<!-- 22 -->
+		<!-- 21 -->
 		
 	
 	
