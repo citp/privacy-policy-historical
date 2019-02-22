@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svmoscow.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228155339id_/https%3A//svmoscow.com/legal/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svmoscow.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222101634id_/http%3A//www.svmoscow.com/legal/en/privacy.php) for the most accurate reproduction.*
 
 # Help | Privacy Policy | SVMOSCOW
 
