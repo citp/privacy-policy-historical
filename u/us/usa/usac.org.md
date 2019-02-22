@@ -1,28 +1,35 @@
-> *The following text is extracted and transformed from the usac.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102154009id_/http%3A//www.usac.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usac.org privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222222134id_/https%3A//www.usac.org/website-policy.aspx) for the most accurate reproduction.*
 
-# USAC Privacy Policy - USAC
+# Website & Privacy Policies - USAC.org
 
-## USAC Web Site Policy
+Updated May 2018
 
-### Privacy Policy
+Thank you for visiting the Universal Service Administrative Company (USAC) website. USAC is the independent, not-for-profit corporation that administers the federal Universal Service Fund (USF) and the four universal service programs under the oversight of the Federal Communications Commission (FCC). Below is information on USAC's Privacy Notice, Rights under the Privacy Act of 1974, and USACs Website Policy.
 
-USAC is a private, not for profit organization that administers the universal service support mechanisms under the authorization and oversight of the Federal Communications Commission (FCC). Members of the public may visit USAC's web site without identifying themselves or providing any individual information. However, many users choose to provide additional information to USAC electronically - most notably by filing certain forms or other data online. USAC makes public certain information received from those individual entities. For example, in administering the Rural Health Care and Schools and Libraries Universal Service Support Mechanisms, USAC regularly posts on its web site requests for services on behalf of schools, libraries, and rural health care providers to assist them in complying with the mechanisms' competitive bidding requirements. In addition, USAC posts a list of funding commitments to schools, libraries, and rural health care providers by individual applicants. USAC encourages visitors to its web site to use the information posted for its intended purposes; however, applicants should be aware that there is no guarantee that visitors to USAC's web site will do so. 
+#### Skip to:
 
-USAC uses information it receives solely for purposes of administering the Universal Service Fund and the universal service support mechanisms. In addition, USAC may disclose information to the FCC pursuant to 47 C.F.R. § 54.702(j) or other authorized parties including pursuant to inquiries received under applicable law.
+  * USAC Privacy Notice
+  * Rights under the Privacy Act
+  * USAC Website Policy
 
-### Freedom of Information Act Requests
 
-USAC administers the universal service support mechanisms under the authorization and oversight of the FCC. Consequently, requests for information made pursuant to the Freedom of Information Act, 5 U.S.C. § 552, (FOIA) should be made directly to the FCC. Information related to filing a FOIA request with the FCC may be obtained from the FCC's web site at [www.fcc.gov/foia](http://www.fcc.gov/foia). 
 
-### Disclaimer of Endorsement 
+#### USAC Privacy Notice
 
-USAC's web site contains hypertext links to information created and maintained by other public and private organizations. These links are provided for the user's convenience. USAC does not control or guarantee the accuracy, relevance, timeliness, or completeness of this information. In addition, the inclusion of links to particular items in hypertext is not intended to reflect their importance, nor is it intended to endorse any views expressed or products or services offered on these outside sites, or the organizations sponsoring the sites.
+This Privacy Notice describes the practices of USAC (USAC, we, or us) with respect to personal information we collect through our website. USAC is committed to protecting the privacy and security of its visitors to this website and of any personal information that we collect during your visit. Except as described below, USAC does not collect personal information from or about you when you visit our website. USAC may update this Privacy Notice from time to time and without notice. If the Privacy Notice is updated, the last modified date of the policies is reflected in the upper right hand corner of this page.
 
-### Use of "Cookies"
+By "personal information", we mean information that can be used to identify you and also information that, when combined with other information from or about you, can be used to identify you. Examples of personal information include your name, physical address, email address, telephone number, social security number and other government identifiers, unique identifiers for the devices you use to access this website, and user identification (ID) and password for any accounts you create with USAC. USAC may also collect personal information through the FCC forms that are used to administer the Universal Service Fund (USF) and the universal service programs, or through questions submitted through USAC's website.
 
-"Cookies" are files that contain elements of information that Web servers collect from each client visiting their site. Most of the widely used and later-version browsers (e.g. , Firefox, Netscape Navigator and Microsoft Internet Explorer) support cookies. In general USAC uses these cookies to record certain facts about its users, such as specific pages viewed, system performance, and site related preferences. USAC uses this information solely for the purposes of site maintenance and improvement. The information stored on these cookies does not contain or reveal personal information such as name, address, e-mail address, or phone number.
+Except for the automated collection activities described below, website visitors do NOT have to provide information when searching, retrieving, downloading, or otherwise accessing and using the USAC website.
 
-USAC also employs session cookies in its on-line transactions such as when a user submits an application on-line, initiates a search query, or receives a query response. Session cookies maintain the state of the user's connection to USAC's web site throughout the on-line transaction. Session cookies are deleted from users' systems as soon as they close their browsers.
+If you have questions about this Privacy Notice or about our collection and handling of your personal information, please contact USAC's Director of Privacy at [privacy@usac.org](mailto:privacy@usac.org).
 
-  
+Show All
 
+#### Rights Under The Privacy Act Of 1974 
+
+The Privacy Act of 1974 (Privacy Act) (5 U.S.C. § 552a) prohibits the disclosure of information about individuals that the federal government maintains in a system of records without their consent. The FCC is required to provide notice of its systems of records by publication in the Federal Register. The FCC published a systems of record notification (SORN) for the Lifeline Program that is designated as [FCC/WCB-1](https://transition.fcc.gov/omd/privacyact/documents/records/FCC-WCB-1.pdf). The National Lifeline Accountability Database (NLAD) and the Lifeline National Eligibility Verifier (National Verifier) are part of the FCC's Lifeline program systems of record (FCC/WCB-1) and the data is protected under the Privacy Act. USAC adheres to the Privacy Act requirements with respect to all information that it collects, maintains, uses, or disseminates in NLAD and the National Verifier.
+
+If you participate in the Lifeline program, you will be asked to provide additional information to verify your eligibility to receive federal Lifeline benefits. This information includes first name, last name, address, last four digits of social security number (SSN) and date of birth. USAC will share this information that you provide with a third-party verification service to verify your identity and may share your data with other state and federal agencies to verify your eligibility to receive Lifeline support. In addition, your information may also be used for the purposes described in the SORN.
+
+Show All
