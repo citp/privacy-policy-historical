@@ -1,70 +1,130 @@
-> *The following text is extracted and transformed from the atomos.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710062408id_/https%3A//www.atomos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomos.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222154927id_/https%3A//www.atomos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Atomos
 
-###### Atomos is committed to preserving the privacy of all visitors to this website
+##### 1\. INTRODUCTION
 
-**Atomos is committed to preserving the privacy of all visitors to this website (Website). Please read the following privacy policy to understand how we use and protect the information that you provide to us. By registering on this site, you consent to the collection, use and transfer of your information under the terms of this policy.**
+Your privacy is very important to us. This privacy policy provides you with details of how we collect and process your personal data through your use of our site www.atomos.com
 
-##### Information that we collect from you
+Atomos Pty Ltd is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).
 
-When you visit or register on the Website you may be asked to provide certain information about yourself including your name, contact details and other information. We may also collect information about your usage of our Website as well as information about you from e-mails or letters you send to us.
+**Contact Details**
 
-##### Use of your information
+Our full details are:  
+Full name of legal entity: Atomos Pty Ltd  
+Email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7c1f13110c10151d121f193c1d081311130f521f1311)   
+Postal address: 29 Nott Street, Port Melbourne VIC 3207, Australia
 
-Your information will enable us to provide you with access to all parts of our site. We will also use and analyse the information we collect so that we can administer, support, improve and develop our business.
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fb9894968b97929a95989ebb9a8f94969488d5989496) OR by logging into the members area and changing your details there.
 
-In particular, we may use your information to contact you for your views on our services and to notify you occasionally about important changes or developments to the site or our services. Further, where you have consented, we might also use your information to share with you product and company news and offerings and we may contact you by post, telephone or fax, as well as by e-mail. If you change your mind about being contacted in the future, please let us know.
+##### 2\. WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUND WE PROCESS IT
 
-##### Disclosure of your information
+Personal data means any information capable of identifying an individual. It does not include anonymised data.
 
-The information you provide to us will be held on a database and may be accessed by or given to our staff working internationally for the purposes set out in this policy or for other purposes approved by you. We may also pass aggregate information on the usage of our site to third parties but this will not include information that can be used to identify you.
+We may process the following categories of personal data about you:
 
-Finally, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
-
-Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
-
-##### Security and data retention
-
-We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law permits.
-
-##### Accessing and updating
-
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled by law to charge a fee of 10 AUD to meet our costs in providing you with details of the information we hold about you.
-
-##### Changes to our privacy policy
-
-Any changes to our privacy policy in the future will be posted to the site and, where appropriate, through e-mail notification.
-
-##### What are cookies?
-
-Cookies are small text files which are stored on your computer by your web browser and used by a website to read and write data which is used to improve your browsing experience.
-
-##### How does this website use cookies?
-
-Our website uses X cookies which fall into 3 basic categories, these are 'essential cookies', 'analytics cookies' and 'functional cookies'.
-
-  * _Essential Cookies_ — Some cookies are essential for the operation of our website. For example, some cookies allow the Content Management System we use to track your browsing session and identify you if you are logged in. This ensures that you can access the information you should be able to.
-
-  * _Analytics Cookies_ — We utilise other cookies to analyse how our visitors use our websites and to monitor website performance. This allows us to improve the website and more quickly identify and fix any issues that arise. For example, we might use analytics cookies to keep track of which pages are most popular and to determine why others are not.
-
-  * _Functionality Cookies_ — We use functionality cookies to allow us to remember your preferences. For example we may give you the option to have your username remembered if you access a password protected area or recall a preference for information of a particular type on the home page. Third party services such as Twitter, Facebook, Google Plus and AddThis may also write cookies to your computer which may be used 'on' our website to determine if you are logged in to those services should you choose to 'share' content socially.
+  * Communication Data that includes any communication that you send to us whether that be through the contact form on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defence of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
+  * Customer Data that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address, email address, phone number, contact details and other relevant purchase details. We do not store your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
+  * User Data that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back- ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
+  * Technical Data that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyze your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
+  * Marketing Data that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free give-aways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising. Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
+  * We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook adverts or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business).
 
 
 
+Sensitive Data  
+We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences.
 
-##### Can i disable cookies for this website?
+Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don't provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
 
-Yes, you can disable cookies for this and any website you visit using controls built into your web browser. You can use your web browser (eg Internet Explorer) to:
+We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#93f0fcfee3fffaf2fdf0f6d3f2e7fcfefce0bdf0fcfe). In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
 
-  * Delete all cookies
-  * Block all cookies
-  * Allow all cookies
-  * Block third-party cookies
-  * Clear all cookies when you close the browser
-  * Open a 'private browsing' session
-  * Install add-ons and plug-ins to extend broswer functionality
+We may process your personal data without your knowledge or consent where this is required or permitted by law.
+
+We do not carry out automated decision making or any type of automated profiling.
+
+##### 3\. HOW WE COLLECT YOUR PERSONAL DATA.
+
+We may collect data about you by you providing the data directly to us (for example by filling in forms on our site or by sending us emails). We may automatically collect certain data from you as you use our website by using cookies and similar technologies. Please see our cookie policy for more details about this [www.atomos.com/cookie-policy](https://web.archive.org/cookie-policy)
+
+We may receive data from third parties such as analytics providers such as Google based outside the EU, advertising networks such as Facebook based outside the EU, such as search information providers such as Google based outside the EU, providers of technical, payment and delivery services, such as data brokers or aggregators.
+
+##### 4\. MARKETING COMMUNICATIONS
+
+Our lawful ground of processing your personal data to send you marketing communications is either your consent or our legitimate interests (namely to grow our business).
+
+We may send you marketing communications from us if (i) you made a purchase or asked for information from us about our goods or services or (ii) you agreed to receive marketing communications and in each case you have not opted out of receiving such communications since. If you are a limited company, we may send you marketing emails. However, you can opt out of receiving marketing emails from us at any time.
+
+If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc.
+
+##### 5\. DISCLOSURES OF YOUR PERSONAL DATA
+
+We may have to share your personal data with the parties set out below:
+
+  * Other companies in our group who provide services to us.
+  * Service providers who provide IT and system administration services.
+  * Professional advisers including lawyers, bankers, auditors and insurers
+  * Government bodies that require us to report processing activities.
+  * Third parties to whom we sell, transfer, or merge parts of our business or our assets.
 
 
 
-© 2017 Atomos. All rights reserved.
+We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
+
+##### 6\. INTERNATIONAL TRANSFERS
+
+We share your personal data within our group of companies which operate in different jurisdictions around the world. Whenever we transfer your personal data, we do our best to protect the data by ensuring appropriate safeguards are in place.
+
+If you live in the European Economic Area (EEA), this involves transferring your data outside the EEA.
+
+European law has prohibited transfers of personal data outside of the EEA unless the transfer meets certain criteria.
+
+Many of our third parties service providers are based outside the European Economic Area (EEA) so their processing of your personal data will involve a transfer of data outside the EEA.
+
+Whenever we transfer your personal data out of the EEA, we do our best to ensure a similar degree of security of data by ensuring at least one of the following safeguards is in place:
+
+  * We will only transfer your personal data to countries that the European Commission have approved as providing an adequate level of protection for personal data by; or
+  * Where we use certain service providers, we may use specific contracts or codes of conduct or certification mechanisms approved by the European Commission which give personal data the same protection it has in Europe; or
+  * If we use US-based providers that are part of EU-US Privacy Shield, we may transfer data to them, as they have equivalent safeguards in place.
+
+
+
+If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time.
+
+##### 7\. DATA SECURITY
+
+We have put in place security measures to prevent your personal data from being accidentally lost, used, altered, disclosed, or accessed without authorisation. We also allow access to your personal data only to those employees and partners who have a business need to know such data. They will only process your personal data on our instructions and they must keep it confidential.
+
+We have procedures in place to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach if we are legally required to.
+
+##### 8\. DATA RETENTION
+
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+When deciding what the correct time is to keep the data for we look at its amount, nature and sensitivity, potential risk of harm from unauthorised use or disclosure, the processing purposes, if these can be achieved by other means and legal requirements.
+
+For tax purposes the law requires us to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they stop being customers.
+
+In some circumstances we may anonymise your personal data for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+
+##### 9\. YOUR LEGAL RIGHTS
+
+Under data protection laws you have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to portability of data and (where the lawful ground of processing is consent) to withdraw consent.
+
+If you wish to exercise any of the rights set out above, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5f3c30322f33363e313c3a1f3e2b3032302c713c3032)
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you.
+
+If you are not happy with any aspect of how we collect and use your data, we would be grateful if you would contact us immediately so we can resolve the issue in a timely manner.
+
+##### 10\. THIRD-PARTY LINKS
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+
+##### 11\. COOKIES
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see [www.atomos.com/cookie-policy](https://web.archive.org/cookie-policy)
