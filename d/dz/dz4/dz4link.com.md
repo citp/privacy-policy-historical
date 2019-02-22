@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the dz4link.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119044107id_/http%3A//dz4link.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dz4link.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222210221id_/https%3A//dz4link.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_**Last Modified: 26/10/2016**_ **  These terms are subject to change.**  
- 
+_**Last Modified: 25/05/2018**_ **These terms are subject to change.**  
+\- GDPR Compliance added _**25/05/2018**_ ****  
+\- Privacy Policy created _**26/10/2016**_
 
 The term 'dz4link.com' or 'us' or 'we' refers to the owner of the website 'dz4link.com'. The term 'you' refers to the user or viewer of our website. The term 'Content' refers to the website you are using in conjunction with the Service.
 
@@ -14,6 +15,14 @@ Our Terms of Use and Privacy Policy offers you a thorough explanation regarding 
 This Privacy Policy is updated from time to time; therefore, it should be reviewed occasionally.
 
 [For the purpose of the Data Protection Act 1998, dz4link.com is our data controller.]
+    
+    
+    **0.GDPR enhancements:**
+          > checkbox to accept the Terms of use and Privacy policy while user registration
+          > personal information is optional like first name, last name,...
+          > Display cookie notification message
+          > checkbox field to contact us and support forms to accept collecting name and email
+          > a user can be deleted completely with its related links, views, campaigns, invoices and withdraws
 
 **1\. Collected Information**
 
