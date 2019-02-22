@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the widgetpack.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429104253id_/https%3A//widgetpack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widgetpack.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222181930id_/https%3A//widgetpack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
