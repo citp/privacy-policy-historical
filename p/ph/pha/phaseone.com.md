@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phaseone.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214102932id_/https%3A//www.phaseone.com/en/Legal/Cookie-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phaseone.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222103934id_/https%3A//www.phaseone.com/en/Legal/Cookie-Policy.aspx) for the most accurate reproduction.*
 
 # Phase One Cookie Policy
 
