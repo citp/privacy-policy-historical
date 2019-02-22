@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the econcordia.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120211152id_/https%3A//www.econcordia.com/home/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econcordia.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222161507id_/https%3A//www.econcordia.com/home/privacy.aspx) for the most accurate reproduction.*
 
 # eConcordia - Privacy
 
