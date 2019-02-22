@@ -1,27 +1,71 @@
-> *The following text is extracted and transformed from the celebhour.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126204736id_/http%3A//celebhour.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebhour.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222094259id_/http%3A//www.celebhour.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - CelebHour
 
-> Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+**30M Limited** trading as **CelebHour.com** , a company registered in England and Wales under company number 9386561 whose registered address is at First Floor, Dorna House, Guildford Road, West End, Surrey, GU24 9PW, hereinafter referred to as ‘ **CelebHour** ’ or ‘ **We** ’ have created this privacy statement (‘ **Statement** ’) in order to demonstrate our firm commitment to the privacy of the details that You provide to us when using [www.CelebHour.com](about:blank)(the ‘ **Site** ’) and the CelebHour Services. Unless otherwise indicated, all definitions used in the [CelebHour Member Licence](about:blank) shall apply to this Statement. In this Statement, references to ‘ **You** ’ and ‘ **Your** ’ are references to the CelebHour Member. When You use the Site and the CelebHour Services, You are consenting to the practices set forth in this Statement.  
+We know that Your privacy is very important to You which makes it very important to us. We aim to be as clear as possible in this Statement in respect of Your Personal Data. This Statement applies inter alia to Your Personal Data that We collect about You when You use the Site, how and when it is used, how We protect it and who has access to it. This Statement [Cookie Policy](about:blank), [Website Terms of Use](about:blank), [Privacy Policy](about:blank), the [Master Prize Draw Terms ](about:blank)and any terms in a Prize Draw Notice by this reference (collectively called the ‘Licence’).
 
-**Cookies & 3rd Party Advertisements**
+  
+–– ADVERTISEMENT ––
 
-> Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-> 
-> We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
-> 
-> To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
-> 
-> Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Pakearning.com has no access or control over these cookies that may be used by third party advertisers.
+**1.** |  **YOUR ACCEPTANCE OF THE STATEMENT**  
+This Statement governs Your use of the CelebHour Services, including any dispute concerning privacy. By using the CelebHour Services, You accept this Statement in full. You should read the Statement carefully and ensure that You understand its effect before proceeding to use the Site and the CelebHour Services. We reserve the right to modify this Statement at any time without notice by posting the changes on this page. Your continued use of any portion of the Site following the posting of the updated Statement will constitute Your acceptance of the changes.   
+---|---  
+**2.** |  **WHAT INFORMATION IS COLLECTED & HOW?**  
+**A.** |  **PERSONAL DATA**  
+**2.1** |  The Site asks You to provide various types of Personal Data to enhance the quality of the CelebHour Services We can provide to You and the more accurate the information You provide, the better We are able to respond to Your requirements! As part of the process of using the Site and the CelebHour Services, We may collect the following types of Personal Data about You (as applicable): 
 
-**Collection of Personal Information**
+  * Your first name, last name, email and password (upon Sign-Up as a CelebHour Member on the Site);
+  * Your gender, house number, date of birth, postcode and photo (upon further entering a Prize Draw and accruing Entries in Your Entries Bank by undertaking certain CelebHour Member Actions);
+  * Your visits to the Site and the CelebHour Content that You download;
+  * Your UGC own  generated content that You may upload or submit to the Site;
+  * information about Your computer (including Your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and Site navigation);
+  * any other information that You choose to send to us, including any request for further CelebHour Services, general correspondence, reports of a problem with the Site or the CelebHour Services.
+  * information relating to any Prize Draws entered in to by You on the Site and any Prize Draws which You have been a Winner; and,
+  * Any other personal data (direct or indirect) 
 
-> When visiting Pakearning.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
-
-**Links to third party Websites**
-
-> We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
-
-**Changes to this Privacy Statement**
-
-> The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of celebhour.com then you can contact us freely.
+  
+**B.** |  **OTHER DATA**  
+**2.2** |  Other _de-personalised_ data which does not record Personal Data as such, rather information such as the date of Your visit to the Site, the path taken, the browser used, the IP address etc is used primarily to aid the technical administration of the Site, to better understand how the Site is functioning for CelebHour Members and to draw conclusions upon demographic information.   
+**3.** |  **HOW IS THE INFORMATION USED?**  
+**3.1** |  You hereby expressly consent to Your Personal Data being passed on to third party companies or service providers for the sole purpose of fulfilling the CelebHour Services only (including making improvements to the CelebHour Services) and not for the purposes of those third parties making marketing communications to You, unless You have expressly consented to this being undertaken by a third party (“ **CelebHour Partners** ”). **CelebHour Partners include our CelebHour Retailers who provide the Prizes so although You are under no obligation to provide such Personal Data to us, however, if You choose not to, some of the CelebHour Services may not be available to You**.   
+**3.2** |  You acknowledge that Your Personal Data may be used by CelebHour to contact a CelebHour Member by post, phone or by electronic mail when necessary in connection with Your use of the Site and the CelebHour Services including Your CelebHour Membership.   
+**3.3** |  From time to time, CelebHour may contact You by electronic mail (or by telephone) by way of sending You various confirmations, notifications, feedback requests or any other newsletter or information or offers regarding upcoming CelebHour promotions, services or customer surveys. If You change Your mind, You can opt out of receiving some but not all of this as some are required as a necessary part of delivering the CelebHour Program and for operating the CelebHour Membership in order to continue to receive access to the CelebHour Services. You cannot opt out of receiving the CelebHour Membership Verification Email, the CelebHour Membership Email or the Winner Alert.   
+**3.4** |  You can opt out of receiving direct marketing communications from CelebHour as described below.   
+**3.5** |  Your Personal Data is used solely by CelebHour (and CelebHour Partners to the extent necessary to fulfil the CelebHour obligations to You and the CelebHour Retailer obligations to You where applicable) for the sole purpose of enabling CelebHour to act as a service provider to You and is not shared with any person or company without Your express consent.   
+**3.6** |  Any Personal Data that is held with CelebHour shall be retained in accordance with GDPR 2018 and related Data Protection Legislation and/ or our retention and destruction policy culminating in its permanent deletion.   
+**3.7** |  If Personal Data has been passed to third parties with Your consent, You may need to contact them separately if You change Your mind in relation to their use of Your Personal Data. We will support this process where ever possible.   
+**OPTING OUT:** If You do not wish to be contacted by CelebHour in respect of future marketing communications, We will give You the opportunity to unsubscribe to the receipt of such communications in every electronic mail communication that We send to You. Alternatively and additionally, You can contact CelebHour by sending an email to this email address with “UNSUBSCRIBE REQUEST” in the subject line or send Your request by post to CelebHour at the contact address below. Contact info@30m.com   
+**4.** |  **WHO HAS ACCESS TO YOUR PERSONAL DATA?**  
+**4.1** |  To minimise the risk of unauthorised access to Your Personal Data, We use some of Your Personal Data to authenticate You when using the Site and the CelebHour Services.   
+**4.2** |  For our daily operations, We may use the CelebHour Services of third parties to provide some of our business and operational functions. Consequently, some of the CelebHour Services are provided by CelebHour Partners and We need to disclose Your information to them to provide You with the CelebHour Services.   
+**4.3** |  **Disclosure of Your Personal Data in Compliance with Laws**  
+You should be aware that We may release Your Personal Data when We believe it is necessary to comply with laws or regulations, to assist law enforcement, to enforce the terms under which You transact or communicate with or via CelebHour, or to protect the rights, property or safety of CelebHour, CelebHour Members or third parties.   
+**4.4** |  **Transfer of Your Personal Data outside of the EEA**  
+From time to time, We may transfer Your Personal Data to a related company, agent or contractor in order to improve our CelebHour Services or to assist our security, credit risk or fraud protection activities. Such companies may be located outside of the EEA and You consent to the transfer of Your Personal Data to such companies for the purposes set out here in accordance with this Statement and as permitted by the Data Protection Legislation from time to time. In this case we have a contract with that company that ensures GDPR compliance using model clauses proposed by the ICO.   
+**4.5** |  **Transfer of Personal Data in the Event of the Sale of CelebHour.com or its Assets**  
+In the event that CelebHour.com is sold or transfers some of its assets to another party, Your Personal Data could be one of the transferred assets. If Your Personal Data is transferred, its use will remain subject to this Statement. Your Personal Data will be passed on to a successor in interest in the event of a liquidation or administration of CelebHour. In this case we have a contract with that company that ensures GDPR compliance.   
+**4.6** |  **Other Sites and their Privacy Policies and Cookie Policies**  
+The Site may contain links to other websites. CelebHour is not responsible for the privacy practices or the content of such websites or for the privacy policies, cookie policies and practices of other third parties, so You should be careful to read and understand those website policies independently.   
+**5.** |  **HOW DO WE PROTECT YOUR PERSONAL DATA & FOR HOW LONG?**  
+**5.1** |  The privacy and protection of Your Personal Data is important to us. In addition, any CelebHour Member statistics that We may provide to prospective CelebHour Partners regarding Your usage of the CelebHour Services are provided in the aggregate only and do not include any individually identifiable data.   
+**5.2** |  You acknowledge that email messages sent over the internet are not encrypted and are not secure. Despite efforts to protect Your Personal Data, We cannot ensure or warrant the security of any Personal Data You transmit to us, via, to, or from our Site. You accept that CelebHour cannot be held liable for any breaches of confidentiality that may occur as a result of the use of email. If there is any sensitive or confidential Personal Data which You do not wish to communicate by email, please contact CelebHour by telephone or post to arrange an alternative method of communication. **You transmit all such Personal Data at Your own risk**.   
+**5.3** |  How long We keep Your Personal Data collected through our Site depends on the context in which You provide it and the purpose for which We use it. We will only retain it for as long as is necessary for such purposes. We may send You direct marketing communications for as long as You do not unsubscribe from receiving the same from CelebHour. In the event that You choose to close Your CelebHour Member Account, all Your Personal Data will be deleted from the Site.   
+**5.4** |  **Telephone calls** : If You call any of the service telephone numbers quoted on this Site, We may record Your call. These recordings are used for training and quality control to ensure that We continuously monitor and improve our service standards.   
+**6.** |  **COOKIES** :  
+For information about cookies and how they are used on this Site, please visit our [Cookie Policy](http://www.90s-kids-only.com/cookie-policy/).   
+**7.** |  **COMPLAINTS OR QUERIES**  
+CelebHour tries to meet the highest standards when collecting and using Personal Data. For this reason, We take any complaints We receive about this very seriously. We encourage You to bring it to our attention if You think that our collection or use of Personal Data is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures. This Statement does not provide exhaustive detail of all aspects of CelebHour’s collection and use of Personal Data. However, We are happy to provide any additional information or explanation needed. Any requests for this should be sent to the address below. If You are not happy with the way in which Your Personal Data is being handled by CelebHour, You can complain to the Information Commissioner whose details can be found at: <http://www.ico.org.uk/>  
+**8.** |  **ACCESS TO YOUR PERSONAL DATA**  
+CelebHour tries to be as open as it can be in terms of giving people access to their Personal Data. Individuals can find out if We hold any Personal Data by making a ‘subject access request’ under the GDPR 2018. If We do hold Personal Data about You, We will let You have a copy of that Personal Data. You have the right to know what personal information we are using and can ask for any errors to be corrected. You also have the right to request a copy of your personal information or for it to be deleted. (If relevant) You can also opt out of 1to1 profiling and automated decision making. To make a request to CelebHour for any Personal Data that We may hold, You need to put the request in writing addressing it to the address provided below.   
+**9.** |  **THIRD PARTY ADVERTISING**  
+If advertisements appear on the Site, they may be provided by third parties who will be helping to manage them for us. Some of these companies (like the ad networks) are members of the industry group, the Network Advertising Initiative, which offers a single location to opt out of their cookies. For more information, we encourage you to visit the Network Advertising Initiative’s consumer Web site at [optout.networkadvertising.org](http://optout.networkadvertising.org/).   
+**10.** |  **HOW TO CONTACT US**  
+Requests for information about our Statement or a ‘subject access request’ can be emailed to this email address or by writing to:  
+30M Limited **trading as** CelebHour.com (Internal Compliance Department)  
+1st Floor Dorna House, 52 Guildford Road  
+West End  
+Surrey  
+GU24 9PW   
+**11.** |  **CHANGES TO THIS STATEMENT**  
+We keep our Statement under regular review. This Statement was last updated on 21st May 2018. 
