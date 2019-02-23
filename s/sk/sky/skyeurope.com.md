@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyeurope.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713114305id_/http%3A//www.skyeurope.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyeurope.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223031333id_/https%3A//www.skyeurope.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Skyeurope - Privacy Policy
 
@@ -18,7 +18,7 @@ For more information:
 
 Google AdSense  
 For more information:  
-<http://www.google.com/policies/technologies/ads/>
+<https://www.google.com/policies/technologies/ads/>
 
 References :  
 AZULSEN S.R.L.  
