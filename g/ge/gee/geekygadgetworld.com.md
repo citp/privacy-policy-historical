@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekygadgetworld.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114202416id_/http%3A//www.geekygadgetworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekygadgetworld.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223170553id_/http%3A//www.geekygadgetworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geeky Gadget World
 
