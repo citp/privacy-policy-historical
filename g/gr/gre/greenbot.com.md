@@ -1,138 +1,191 @@
-> *The following text is extracted and transformed from the greenbot.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902171615id_/https%3A//www.greenbot.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenbot.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223223249id_/https%3A//www.greenbot.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policies | Greenbot
 
-### About Our Advertising
+## Welcome
 
-Greenbot strives to deliver the most relevant content and ads to our readers. The advertising included on our site enables us to deliver the reporting resources required to create the high-quality journalism, research and analysis our audience expects from us.
+We’re glad you chose to visit an IDG Communications, Inc. (“IDGC”) site! We care about your privacy and the information you share with us and want you to understand how we are using and protecting the information we collect about you. IDGC is respectful of data privacy and adopts best practice in compliance with applicable privacy law and regulations, including the EU General Data Protection Regulation (“GDPR”).
 
-Advertisements displayed on this site may be based on the content of pages you view or may be delivered by third parties and tailored to your interests. These third parties may also collect anonymous, non-personally identifiable information through cookies, Web beacons, and other technologies about your online activities on this site, in order to deliver advertisements that are relevant to your interests.
+## Use of this website
 
-### Our Policies
+This privacy policy describes the information we collect from you and how it may be stored and processed in the United States of America and across the IDG Communications Publishing Network as described below. 
 
-Greenbot follows the Self Regulatory Principles for Online Behavioral advertising. More information on the principles, and information and choices about interest-based advertising, can be found at the [Self Regulatory Program site](http://www.aboutads.info/), including links to opt-out from services that deliver online behavioral ads.
+This website, and associated IDGC events and publications provide products, content, and services for a professional and consumer audience and is not intended for individuals under the age of 13 years old. We do not knowingly collect or store personal data provided by anyone under 13 years of age. 
 
-For additional information on cookies, Web beacons and our collection and use of information, please read our Privacy Policy below.
+_If you are a European Union (EU) resident, please note that there are a number of provisions in this privacy policy that apply uniquely to you._
 
-### Greenbot.com Privacy Policy
+## This Document Describes 
 
-This website and associated websites are maintained by:
+What information we collect and how we collect it  
+How we safeguard your personal data  
+What we do with the personal data we collect  
+The legal basis we have for processing your personal data  
+When and how we share your personal data with others  
+How long we keep your personal data  
+Your rights and preferences  
+How can we help? Getting in touch
 
-_Greenbot  
-c/o IDG Consumer & SMB, Inc.  
-501 Second St.  
-San Francisco, CA 94107  
-U.S.A._
+## What information we collect 
 
-The terms of the Greenbot Online Privacy Policy and the IDG Publishing Network Privacy Policy, both of which are set forth below, shall apply to the Greenbot website.
+IDGC collects data about you that is limited to the kind of information that can be found on a typical business card: first name, last name, job title, employer/company name, work address, work email, and work phone number. In some cases, we may ask you to provide additional professional information such as the size of the company you work for, and industry type. 
 
-At Greenbot, we understand that privacy is important, and we've created this policy to give you information about how we collect and use personal information. Our policy is divided into two main sections: Section 1 describes how we collect and use data from users of the Greenbot Web site. And because Greenbot is owned by International Data Group (IDG) and is part of the IDG Publishing Network of technology publications, Section 2 presents the privacy policy for the IDG Publishing Network.
+To enhance and/or update the information that you have provided to us, we may combine it with professional information or personal data that we collect from third party sources. The personal data that we refer to in this document is the personal and professional information you provide, as well as information that we obtain from third party sources, both of which we typically combine as one user record. 
 
-We reevaluate this policy on an ongoing basis, and we value your feedback. If you have questions or concerns regarding our privacy policy, we ask that you contact us at:
+This site also collects and stores certain information automatically using cookies and similar technologies, including IP addresses, the region or general location of a computer or device accessing the internet, browser type, operating system, page view history, and other usage information. See our [Cookie Policy](https://web.archive.org/about/cookie-policy.html) for further details. 
 
-_Customer Service  
-Greenbot  
-c/o IDG Consumer & SMB, Inc.  
-501 Second Street  
-San Francisco, CA 94107  
-e-mail: [customerservice@greenbot.com](mailto:customerservice@greenbot.com)_
+_However, to the extent that any cookie can uniquely identify a computer, mobile device, or tablet (“Device”), or the person using that Device, and you are a EU resident, under the GDPR, this is personal data. Therefore, this privacy policy shall apply to such personal data collected by IDGC._
 
-Please note that this privacy policy may change from time to time. We will post the new policy on this page, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, our Web site will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the bottom of the page.
+## How we collect it 
 
-### 1\. Greenbot Online Privacy Policy
+We may collect your personal data when you register to receive any of the products, content or services offered by IDGC or its third-party sponsors (“sponsors”) such as publications, subscriptions, contests, newsletters, memberships, premium content, webcasts, video, white papers, online seminars, conferences and events. 
 
-Greenbot collects data, including personally identifying information, from people who use the Greenbot Web site. This section of our privacy policy explains how we collect and use this data. In addition, from time to time we may add other information that we collect from third party sources to enhance the information that you provided to Greenbot.
+#### What happens if you don’t provide personal data? 
 
-### Information we collect and how we use it
+In order for us to provide the products, content or services you request, we need your personal data. Therefore, if you do not provide such personal data, we cannot deliver the products, content or services. 
 
-When you visit the Greenbot Web site, Greenbot collects several forms of usage data, including:
+#### IDG Communications Publishing Network 
 
-  * Log data. Our servers automatically record certain information sent by your browser, such as your Web request, your Internet Protocol address, your referring URL, your browser type and language, and the date and time of your request.
-  * Cookie data. When you visit the Greenbot Web site, Greenbot or one of our IDG affiliates or third-party partners may send one or more "cookies"-small files containing a string of characters-to your computer to identify you as a unique user. If you have registered with Greenbot, the information in your cookie is used to provide a more personalized experience on our site, for example by allowing you to customize portions of the site. If you haven't registered, the cookie identifies you as a unique user and helps ensure a smoother experience on the site, such as by limiting the number of times that you see certain subscription offers. If you have not registered on our site, we cannot link the user ID in the cookie with personal identifying information and data about you, such as your name or e-mail address. We may also share this cookie data with participating third party service providers, or allow such service providers to collect the cookie data from our site, so that advertising that is served to you, on our site or on third party sites, may be tailored to your interests. In addition, we may combine certain non-personal identifying information with data collected from other sources to supplement the cookie data. Whether or not we can link the user ID in the cookie with personal identifying information when you visit our site, the cookie data that is shared (as described above) does not contain personal identifying information. For information on how to opt out of cookie-based data collection please see the section below entitled "About Ads/Consumer Choice". To disable your cookies, please see the section below entitled "Blocking the use of Cookies".
-  * Traffic and advertising data. Other cookies are used to enable Greenbot and our advertisers and service providers to gather and analyze site traffic and usage information, and to manage the content and advertisements presented. These cookies sometimes work in conjunction with other techniques, such as clear GIFs or pixel tags. The cookies placed by Greenbot do not contain personally identifying information, but they may gather information about what sites and types of content you have visited and use that information to determine which content and ads appear when you visit various Web sites, including the Greenbot site.
-  * Third party advertising companies. We use third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Greenbot site. In order to tailor advertising to your interests, some of these companies and advertising networks use cookies, web beacons or similar technologies that allow them to collect and use information about you and your visits to the Greenbot site and other sites.
+This website is one of many that IDGC and its group of undertakings operates, all of which we collectively refer to as the IDG Communications Publishing Network. Where permitted by law, we may share the personal data we collect about you with another IDG Communications Publishing Network company so that we can provide you with information about products, content and services that might interest you, and for internal analytical and business development purposes. Please click here for a list of the online and print publications included in the IDG Communications Publishing Network. 
 
+## How do we safeguard your personal data? 
 
+#### Security of your personal data 
 
-Blocking the use of cookies. Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or you can use third-party anonymizer services to mask information in your cookies or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered on the Greenbot Web site.
+IDGC maintains safeguards which include technical and organizational security measures to protect your personal data from loss, misuse, unauthorized use, access, inadvertent disclosure, alteration, and destruction, and we require the third parties we contract with to support IDGC’s business operations to employ reasonable security measures as well (see “When and how we share your information with others” below). 
 
-About Ads/Consumer Choice. Greenbot follows the Self-Regulatory Principles for Online Behavioral Advertising. More information on the Principles, and information about interest-based advertising and how to opt-out can be found here<http://www.aboutads.info/>. To learn more about online interest-based advertising, privacy, cookies, you can also visit the website of the Network Advertising Initiative here. <http://www.networkadvertising.org/index.asp>
+We update and test security on an ongoing basis and restrict access to your personal data to only those who need to know in order to provide IDGC’s products, content or services to you. 
 
-The aggregated information we collect is used for a number of purposes including the following:
+#### Storage of your personal data 
 
-  * To improve the content and design of the Greenbot Web site.
-  * To enable our audit bureau to verify our claims of traffic to the site.
-  * To help advertisers, potential advertisers or marketers assess the suitability of the site for their ad campaigns.
-  * To help us understand more about the interests of our users, so that we can offer goods and services we believe may be of interest.
+We may store your personal data using IDGC’s own secure on-site servers or other internally hosted technology. Your personal data may also be stored by third parties, via cloud services or other technology, to whom IDGC has contracted with, to support IDGC’s business operations (see “When and how we share your information with others” below). 
 
+These third parties do not use or have access to your personal data other than for cloud storage and retrieval, and IDGC requires such parties to employ at least the same level of security that we use to protect your personal data (see “Security of your personal data” above). 
 
+## What we do with the personal data we collect 
 
-Many portions of the Greenbot site can be used without registering or giving us any personal information such as (but not limited to) your name and e-mail address. However, Greenbot does collect personally identifying information regarding our online users, including in the following ways: When you provide it to us, such as (but not limited to) by entering a contest, becoming a registered member, buying a product, signing up for a newsletter, tutorial, or email or mobile alerts, or otherwise contacting us. When you provide it to a company that powers a portion of our site or provides a special feature, such as a contest registration or a white paper library, that appears on our site.
+We use the personal data that we collect to communicate with you, deliver what you request, improve our service, and to present other information and offers that may be of interest. 
 
-When you provide information about yourself or your company to Greenbot in connection with a subscription order, or when you provide information to any other IDG Publishing Network affiliate, that information may be included in your Greenbot user record, if one exists.
+#### To communicate with you
 
-If you have previously registered with another IDG Publishing Network affiliate and you begin to fill out certain forms on the Greenbot Web site, the site may recognize you and automatically complete the form, and this auto-fill data will then be included in your Greenbot user record.
+We may use your personal data to send you important notices, such as communications about your registration, transactions, and changes to IDGC’s terms, conditions, policies, and/or other internal purposes.
 
-If you have provided information to Greenbot, from time to time we may enhance that information with other information that we collect from third-party sources.
+#### To deliver what you request
 
-The personal information we collect may be linked to information regarding your use of the Greenbot Site, such as which newsletters or alerts you subscribe to or which categories of white paper content you have downloaded. This combined data helps us recommend content to you and target our communications to topics that interest you. The personal information and related data may be used in a number of ways, including the following:
+We may use your personal data to provide the products, content or services you request. If you enter a sweepstake, contest, or similar IDGC promotion, we may use your personal data to administer such promotion.
 
-  * To improve the content of the Greenbot site, including by allowing Greenbot's editors to consult with readers.
-  * To communicate with users about registration and other customer service issues.
-  * To promote products and services of Greenbot, our parent company IDG, and our sibling IDG companies, as described in more detail below.
-  * To conduct research surveys on behalf of Greenbot, IDG, and its subsidiaries and affiliates.
+#### To improve our service
 
+We may use your personal data for auditing, data analysis, and research to improve IDGC’s products, content and services. 
 
+#### To present offers that may be of interest to you
 
-### Information sharing
+We may contact you to offer you additional IDGC or third-party products, content or services that may be of interest to you.
 
-Greenbot may share aggregated, nonpersonal information, such as Web site traffic figures, with third parties. This aggregated information does not identify you individually. We may also share cookie data as described above ("Information we collect and how we use it"). Further, we may share personal information with your consent or in order to provide products or services you have requested. In addition, by using the site you agree that we may also share personal information in any of the following circumstances:
+## The legal basis we have for processing your personal data
 
-  * We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of Greenbot or our employees or customers.
-  * In the case that disclosure is necessary to satisfy applicable law, regulation, legal process, or enforceable governmental request, we will notify you via email in advance of such disclosure, to the extent it is legally permissible for us to do so. We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfillment providers, who process information or perform services on our behalf.
-  * In addition, we make available a large library of content provided to us from third parties. In return for access to this content, we may ask you to provide us with personal information. When accessing content contributed by a third party, your personal information may be shared with those third parties, and the information will be governed by those parties' privacy policies as well as ours. Greenbot, nor its parent company, or any of its subsidiaries or affiliates, does not bear any responsibility for any actions or policies of such third parties. If you do not wish to have your information shared with a third party, please do not access third party content on our site.
-  * If you submit personal information on a portion of our site that is operated by a third party, such as our price comparison service, we may share the information you submit with the third party, and the information may be used by that party as permitted under that party's privacy policy. Greenbot and its parent and affiliate companies are not responsible for the third party's actions or policies. Portions of the site operated by third parties normally include a "Powered by" logo naming the third party, or include links to the third party's privacy policy.
+_The GDPR requires data collectors, such as IDGC, to have a legal basis to use the personal data of EU residents. Therefore, this section shall apply to any such personal data collected by IDGC._
 
+IDGC uses the personal data that you provide to supply you with high-quality products, content and services as you request, to send important notices, and for internal purposes such as auditing, data analysis, and research to provide you with the information you need to make the most informed technology purchasing decisions. 
 
+We may also use your personal data to offer you products, content or services that may be of interest to you, based upon your interests or the preferences you shared with us, and may share your personal data with third party sponsors of content, events, and other services or offers. 
 
-Social Log-In. Social Login allows you to log into Greenbot using your preferred social network user name and password. With Social Login, you don't need to remember a new set of site credentials, or fill out additional registration forms. If you choose to log into your Greenbot account using one of your social network accounts, such as Twitter, Google, Yahoo!, Facebook or Linked-In, your Greenbot profile and connections information will be shared with your social network, and in turn, your social network will share your social network profile and connections with Greenbot. The profile data that is shared with Greenbot through your social network will vary based on which social network you use. Your social network may also offer data from your contacts list, however, Greenbot does not capture, store, or share any data from a registrants contact list. Please refer to your social networks privacy policies for more information. Social Login on this site is provided by our partner, Gigya. Learn more about [Social Login](http://www.gigya.com/social-login/).
+The legal basis for processing your personal data is your consent. In certain circumstances we may otherwise process your personal data if IDGC has a legitimate interest in doing so and IDGC is not infringing any of your rights and freedoms. 
 
-As part of the IDG Publishing Network, we share personal information with our parent company, IDG, for promotional and other purposes. Section 2, IDG Publishing Network Privacy Policy, explains how the IDG Publishing Network uses this information.
+When IDGC processes your personal data for IDGC’s legitimate interests, IDGC will consider and balance any potential impact on you and your rights under data protection and any other relevant law. Our legitimate business interests do not override your interests. IDGC will not use your personal data in circumstances where your rights and freedoms override our legitimate interests, unless we have your consent or are otherwise required or permitted to by law.
 
-We may share information with third parties for promotional purposes, as described below.
+## When and how we share your personal data with others
 
-In addition, you should be aware that when you disclose personal information such as your name or e-mail address in a forum, blog comment, or other area that is publicly accessible by others, that information can be collected and used by others. Greenbot and its parent and affiliate companies are not responsible for any information that you provide in the above areas.
+IDGC may share your personal data to deliver content and services from our sites, affiliated companies and third parties services that might interest you, including sponsored content and events, for business operations, and to comply with valid legal processes.
 
-### Use of data for promotions, and choices for personal information
+_If you are an EU resident, IDGC will only share your personal data with third parties outside of the IDG Communications Publishing Network, with your consent._
 
-When you provide your e-mail address to us, you agree to receive e-mail from Greenbot, its sibling IDG companies, the IDG Publishing Network , as well as select third party offers; however, you can unsubscribe from these e-mails at any time simply by following the instructions at the bottom of the e-mail. Offers for which the e-mail address is rented and/or licensed for use are screened and the users are required to target their offers carefully.
+#### For content and services that may interest you or that you request
 
-You may have the opportunity to provide us with your mobile phone number, whether by responding to a form that asks for a mobile number or by using your phone to send us certain kinds of communications, such as a shortcode, SMS or other mobile message. We use your mobile phone number to provide the products and services you've specifically requested, such as content delivery to your phone, and for customer service regarding those products and services. We may use your mobile phone number to promote other products and services of Greenbot and its sibling IDG companies if you have expressly consented to receive our promotions via your phone. Similarly, we may use your mobile phone number to promote products and services of carefully chosen third parties if you have expressly consented to receive third party promotions via your phone. Your preferences for receiving promotions via your mobile phone are separate from your preferences for receiving promotions via other means, and you can update your mobile phone preferences at any time simply by following the instructions included in the messages we send to your mobile phone. Please note that the privacy practices described in this paragraph apply only to mobile phone numbers provided to us in the ways described above. If you provide your mobile phone number in other contexts, such as by entering a mobile phone number in a form that asks for your home or business number, we will not be able to identify the number as a mobile number, and the practices described in this paragraph will not apply. Also, please be aware that many mobile phone companies recycle phone numbers, so if you have a new phone number it is possible that you might receive messages that the previous holder of the number had signed up for or consented to receive.
+As we mention above, your personal data may be shared within the IDG Communications Publishing Network to provide you with information about products, content and services that might interest you and for internal analytical and business development purposes (see “IDG Communications Publishing Network” above). We may also share your personal data with third parties to deliver third party sponsored content or other services that you request (see “third party sponsored content and events” below).
 
-Postal addresses and telephone numbers (other than mobile phone numbers described above) will be used to promote Greenbot and IDG companies products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the postal addresses and telephone numbers are rented and/or licensed for use are screened and the users are required to target their offers carefully. Fax numbers may be used for surveys for Greenbot and third parties, but are not rented and/or licensed to outside firms except as expressly set forth in this policy.
+#### For business operations
 
-In addition to the methods outlined above, you may change your preferences regarding use of personal data by sending an e-mail to customerservice@Greenbot.com. If you request that we terminate your registration and/or cancel your account, Greenbot will delete your personal data that we have in our records.
+We may also share your personal data with third parties we have contracted with to support IDGC’s business operations including delivery, fulfillment, payment processing, email deployment, suppression list management and data processing.
 
-If Greenbot or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personal information and other data will be transferred to the new owner.
+#### For third party sponsored content and events
 
-## 2\. IDG Publishing Network Privacy Policy
+IDGC partners with third party sponsors to make available a large library of content to our users, such as white papers, professional events (live or online), as well as other services or offers. In return for access to such offers, we may ask you to provide us with personal data as part of the registration.
 
-Greenbot is part of the IDG Publishing Network, a group of Web sites for the IDG family of technology publications. The policy below governs the use of personally identifying information collected by the IDG Publishing Network from registered members of sites that are part of the IDG Publishing Network and from subscribers to IDG publications. For information on Greenbot's privacy practices, please see Section 1 (Greenbot Online Privacy Policy).
+We may use your personal data to send you the offer you request. In addition, your personal data may be shared with the sponsor(s) of the offer to communicate with you regarding the offer, as well as additional products, content or services that may be of interest to you. Please note that once your personal data is shared with the sponsor, the sponsor’s privacy policy, including information on how to opt-out in the future, will apply to your personal data.
 
-### IDG Publishing Network Privacy Policy
+#### As required by law
 
-Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on www.idg.com.
+Your personal data may be shared when authorized by law or necessary to comply with a valid legal process.
 
-### About the IDG Publishing Network
+#### In the event of new ownership
 
-The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including Greenbot, PCWorld, Macworld, CIO, CSO, and Network World. The IDG Publishing Network is a growing collection of IDG Web sites that presently includes techive.com, macworld.com, pcworld.com, cio.com, csoonline.com, infoworld.com, and networkworld.com. A complete listing is available at www.idg.com.
+If part or all the ownership of IDGC or any of its products or services are sold or transferred, your personal data will be transferred to the new owner. 
 
-To access restricted content on any IDG Publishing Network Web site, you must be a member of the IDG Publishing Network. To become a member of the IDG Publishing Network, you need to provide certain information about yourself. Any of the IDG Publishing Network sites may use this identifying information for internal analytical and business development purposes and to send you e-mail. However, other forms of communication, including postal mail, may be directed to you pursuant to the specific privacy policy of the site to which you provided the information, as may be updated from time to time.
+#### International Data Transfers
 
-You can opt out of receiving further e-mail by clicking the appropriate links that appear at the bottom of any e-mail you receive. If you do not want to receive other types of communication, including as applicable, postal mail, from the editor and publisher of the site to which you provided the information, please refer to the site's privacy policy for the procedure to follow.
+_This section shall apply to any personal data collected by IDGC from EU residents._
 
-The IDG Publishing Network is intended for individuals age 13 and over. Personal information may not be provided by anyone under 13 years of age. Further no one under 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition no one under the age of 18 may conduct any transactions for the purposes of purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the IDG Publishing Network.
+If IDGC shares your personal data within the IDG Communications Publishing Network or with any other third party as described in this privacy policy and your personal data will be transferred to a State which is not a Member State of either the European Union or the EEA, or deemed adequate by the European Commission, IDGC (as a data controller/data exporter) will only conduct such transfer (to a data processor/data importer) if there are suitable safeguards in place, such as binding corporate rules, standard contractual clauses, approved Codes of Conduct, or approved certification mechanism. For more information, please contact IDGC’s Data Protection Officer (See contact details below). 
 
-If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to [postmasterhelp@idgcommunications.com](mailto:postmasterhelp@idgcommunications.com) or write to us at IDG Publishing Network, C/O Customer Service, TSG, IDG Communications, Inc., 5 Speen St., Framingham, MA 01701.
+## How long we keep your personal data
 
-**Last updated:** May 13, 2015.
+We retain your personal data for the duration of your business relationship with us, and we hold your information only as long as necessary for each purpose we use it, unless we have obtained your consent to use for another or similar purpose.
+
+## Your rights and preferences
+
+If you inform us that you want your personal data erased (if you are an EU resident), or that you no longer wish for us to communicate with you for marketing purposes, or to otherwise restrict IDGC’s processing of your personal data, we may retain some basic information in order to avoid sending you unwanted materials in the future, and to keep a record of your request and our response.
+
+#### Confirming your personal data
+
+_This section shall apply to any personal data collected by IDGC from EU residents._
+
+To confirm that IDGC is processing your personal data, or to access, update or correct the personal data IDGC holds about you, or to obtain a copy to reuse for your own purposes, please send an email to: [datarequest@idg.com.](mailto:datarequest@idg.com)
+
+#### Erasing your personal data
+
+This section shall apply to any personal data collected by IDGC from EU residents.
+
+If you want your personal data erased, please send an email to: [preferences@idg.com.](mailto:preferences@idg.com?Subject=Requesting%20to%20be%20forgotten)
+
+#### To opt-out of marketing communications
+
+If you want IDGC to stop communicating with you for marketing purposes, please visit our [Member Preferences Center](https://web.archive.org/about/member-preferences.html)
+
+#### To restrict processing of your personal data
+
+If you want to otherwise restrict IDGC’s processing of your personal data, please send an email to: [websites@idg.com.](mailto:websites@idg.com)
+
+## How can we help? Getting in touch
+
+#### Questions, concerns or complaints:
+
+If you have any questions, concerns or complaints about IDGC’s personal data practices or this Privacy Policy, we encourage you to get in touch with our Data Protection Officer. 
+
+If you believe you have suffered harm due to a breach of your rights by IDGC under this Privacy Policy, and IDGC has not handled your complaint in a reasonably sufficient manner, any EU resident may also file a complaint with the applicable supervisory authority.
+
+The contact information for IDGC’s Data Protection Officer is: 
+
+**Mr. Keith Arnot**  
+c/o IDG Communications Ltd.  
+101 Euston Road  
+London NW1 2RA  
+United Kingdom   
+Email: [GDPR@idgcommunications.com](mailto:GDPR@idgcommunications.com)
+
+IDGC has also designated a Representative in the EU:
+
+**Mr. John McGill**  
+c/o IDG Direct  
+Millennium House  
+Great Strand Street  
+Dublin 1  
+Ireland  
+Email: [GDPRrepresentative@idgcommunications.com](mailto:GDPRrepresentative@idgcommunications.com)
+
+## Feedback
+
+Your feedback is important to us. We’d love to hear your ideas, opinions and comments about IDGC’s services. Please email: [websites@idg.com](mailto:websites@idg.com)
+
+[Download Privacy Policy](https://alt.idgesg.net/policies/privacy/greenbotcom_privacy_policy_PP-050818001.pdf)
+
+Last Updated: May 8 2018 [Version PP-050818001] 
