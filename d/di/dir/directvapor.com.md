@@ -1,81 +1,79 @@
-> *The following text is extracted and transformed from the directvapor.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225082035id_/https%3A//www.directvapor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directvapor.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223175641id_/https%3A//www.directvapor.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective July 1, 2015
+Last Modified & Effective Date: May 25, 2018
 
-[Click here](https://www.directvapor.com/terms.html) for our Terms of Services
+**Website Privacy Policy**
 
-DIRECTVAPOR electronic cigarette/vapor products are designed and intended for usage exclusively by smokers of legal adult age and in no way, whatsoever are they intended to be used by pregnant women or anyone who may have nicotine sensitivities. Nicotine is known to be a highly addictive substance, there is evidence to suggest that it may possess unknown health dangers. DIRECTVAPOR vapor products and electronic cigarettes are not intended to be used for the purpose of smoking cessation; these products are intended to be used as alternatives to traditional tobacco products for those who want smoke-free, tobacco-free electronic devices that offer much enjoyment and pleasure.
+Your privacy is not something DirectVapor Inc. (“DirectVapor,” “we,” or “our”) takes lightly, as we are committed to building solid business relationships, which require earning and maintaining trust. 
 
-## SURGEON GENERAL'S WARNING:
+We wish to communicate what forms of information we collect from and about you when you use this website, how this information is used and protected, and how you are able to control its use.
 
-Tobacco Cigarette Smoking is Proven to be a Major Cause of Lung Cancer, Heart Disease, Emphysema, and Has the Potential to Complicate Pregnancy.
+By using this website, you are agreeing to be bound by this Privacy Policy, without qualification or limitation. This Privacy Policy is incorporated into and made a part of the website [Terms of Use](https://www.directvapor.com/terms.html/).
 
-**Warning:**
+The information contained within this Privacy Policy strictly applies to the collection and use of information by DirectVapor on this website. It does not apply to any of the information you may send to us by other means. 
 
-THESE PRODUCTS HAVE THE POTENTIAL TO CONTAIN LIQUID NICOTINE - AT ALL TIMES, KEEP OUT OF THE REACH OF CHILDREN.
+**Changes to Privacy Policy**
 
-Nicotine liquid can be harmful if it should come into direct contact with skin. If you find yourself in this situation, the affected area of skin must be washed thoroughly and immediately upon contact with soap and water. Should the occurrence of swallowing of nicotine liquid or if it is placed in the mouth at all, please seek medical attention immediately on account of the high possibility of nicotine poisoning. 
+Any alterations or modifications to this Privacy Policy will be communicated here on this page, so it is important to check back on occasion. 
 
-## Our Privacy Policy
+**Who is permitted to use this website.**
 
-The privacy of our customers is not taken lightly. We are absolutely committed to our customers, and see them as essential to the business relationship. Earning and maintaining their trust is a major component of the business model. A strict privacy policy is a tenet we will not compromise on, as the sensitive nature of our customers' personal information, being transmitted across the internet, is not a matter to be taken with little concern; in fact, we take it extremely seriously.
+Adults only. This website, in no way whatsoever, has been intended, designed, or manipulated to attract the attention of users under the age of 18/21, depending on the state laws of the individual regarding the legal smoking age. We do not collect data which may be considered personally identifiable from any person known to be below the age of 18/ 21. We state clearly that this site is not intended for those under the legal smoking age, and furthermore, we instruct those individuals to not send us information.
 
-In this vein, we wish to communicate and make clear what types of information we are going to collect from you, how this information can or will be used and protected, as well as how you may be able to control its usage.
+The information contained on this site is restricted to users in the United States. Regarding users in other countries, it is highly advisable not to disclose your personal information on this website. The data, which you transmit, is sent to a server in the United States. By sending personal information and data to this website, you are agreeing to be bound by the laws of the United States.
 
-This statement discloses the privacy policies of Cavo Partners, Inc. d/b/a DIRECTVAPOR.* By using/ being on this website, you are hereby agreeing to be bound by this Privacy Policy, without qualification or limitation.
+**Information collected from and about you.**
 
-All of the information contained within this Privacy Policy applies strictly to the collection and usage of your information by DIRECTVAPOR on this website. It applies not to any of the information you may send our way by other means. Should there be subsequent alterations or modifications to this Privacy Policy, they can be expected to be communicated here on this Privacy Policy page, so are making it clear how important it is to check back periodically to well aware of any such changes.
+The information we collect from you varies, depending on the ways you use our website, and not all browsing results in the collection of data, personal or otherwise. It is highly possible you may browse our site without submitting any personal information however there are instances where submitting information, such as your name, address, email address, credit or debit card information, and other personal information is required to use certain features or receive products and services. 
 
-## Who is permitted to use this website.
+Besides the information you choose to submit, our systems are programmed to collect certain types of data automatically on an anonymous level. This is done to give us insight on how our site is being used, as well as to help us understand how we may improve it in the future. This typically entails automatically gathering data such as any of the content you view on our website.
 
-Strictly adults only. This website, and no parts of this website have been designed, created, intended, or manipulated with the intention of attracting the attention of users who are under 18/ 21, or whatever the legal smoking age in your area may be. We collect no data that may be considered to be personally identifiable to any persons known to be under the legal age of smoking; 18/21. We have stated, and are stating that this site is not intended in any way to be used or accessed by those who are under the legal smoking age, and additionally, we are strictly instructing any such individuals to refrain from sending information, personally identifiable or otherwise, to us.
+**How Your Information is used.**
 
-All of the information contained on, and within this website is restricted to users in the United States of America. In Regards to users in other countries, we strongly advise you not to disclose any of your personal information on this website. Any of the data you transmit is immediately sent to a server, located in the State of Florida, and becomes subject to all relevant laws of the United States, as well as all applicable laws of the State of Florida. In submitting and sending personal information and data to this website, you are hereby agreeing to be bound by the United States and the laws of the State of Florida.
+When you provide personal information, it is used to customize your online experience on our website. Information you send to use, such as age, occupation, ZIP code, or other data may be used to offer personalized content, beneficial advertisements, products, and additional services that are most likely going to appeal to you based on the information given.
 
-## Information collected from you.
+We use personal information to respond directly to requests you may make of us, as well as reference this information should we feel the need to better understand your needs and how we may be able to improve our services, products, and website. We may also use this personal information to contact you and/ or provide information we deem may be useful to you such as promotions. There is also a possibility we may enhance or merge this information with data we obtain from third parties for these same intended purposes. We may also send you promotional and/or administrative communications via the email address you have provided. You can unsubscribe from commercial e-mail messages, but you may not be able to unsubscribe from certain non-commercial, administrative communications. 
 
-It is your right to know that the information we collect from you will vary, depending on the methods you opt to use our website, and we wish you to be aware that not all browsing shall result in the collection of data, personal or otherwise. Therefore, it remains highly possible you may browse our entire website without submitting any personal information. Please be aware, however, that there are instances in which submitting information of a personal nature, such as your name, address, phone number, or email address, etc may/ will be required.
+**Use of “Cookies” and Other Technologies.**
 
-In addition to the information you willingly choose to submit, our systems have been programmed to collect certain types of data at a strictly anonymous level. This procedure is done in an effort to provide us insight on how our website is being used, as well as to aid us understanding ways in which we may improve it, as well as our services in the future. This sort of collection typically entails automatically gathering data, for example, any of the content you view on our site, through 
+On our website, we utilize “cookies.” What these are is small files, which we send to and store on your computer so that we are able to recognize it as a unique machine on your next visit. These cookies allow us to know you are a prior customer and they allow us to personalize the experience for you, providing useful information, advertisements, and messages that may be of interest to you. It should also be known that outside companies offering their products or services through our website may be using their own cookies.
 
-## How your information is used.
+Information such as your computer’s IP address, the browser you use, and a navigation record are types of the information our system gathers, and it is used for purposes of improving our products, services, and website, enhancing convenience, and providing useful content to our audience. The collection of data is also done to further our goal of providing top service, as well as useful content, beneficial advertisements, and products that are going to appeal to you. In this manner, we may link information we have collected from you through a variety of means including automatically as well as through the use of cookies and personal information, and the information gathered via DirectVapor’s Customer Care and Home Delivery Program.
 
-We utilize “cookies” on our website. These small files are sent to and stored on your computer and they enable us to recognize it as a unique machine on your subsequent visits. Cookies serve the purpose of informing us that you are a prior customer, while also enabling us to personalize the website experience for you. We are able to provide information, advertisements, and messages that may be of use and/ or interest to you. Please be aware that outside companies, which may be offering their products and/ or services through our website may also be using cookies of their own. 
+**Interest-Based Advertising**
 
-The personal information you provide is used to customize your experience online, on our website. In particular, your email address is used as a unique item of identification, and we store it in our records. Used in conjunction with a password, it is an excellent form of protection against unauthorized access to your information stored within our records and website. Other information you send for our usage, for example, your age, your occupation, ZIP code, as well as other forms of data, may be used with the intention of offering you personalized content that may be of interest, or benefit to you, including advertisements, products, and other services that will most likely appeal to you based on this data.
+We may work with third parties who use cookies and other technologies to collect information about your use of this website and other websites and serve online ads likely to be of interest to you. To learn more about interest-based advertising or to opt-out of having your web browsing information used for interest based advertising, visit the websites operated by the [Network Advertising Initiative](http://optout.networkadvertising.org/) (“NAI”) and the [Digital Advertising Alliance](http://optout.aboutads.info/) (“DAA”). Participating network advertisers will be listed at those sites. Note, however, that not all service providers participate in the NAI and DAA. In addition, if you opt-out, you may still see online advertising, but the ads may not be tailored to your interests. If you delete or block cookies, buy a new device, access the website from a different device, login under a different name, or change web browsers, you will need to opt-out again. Some web browsers may transmit “do not track” signals. At this time, we do not take steps to respond to such signals. 
 
-Our usage of your personal information extends to responding directly to any requests you may make of us. We may reference this information as we feel necessary in an effort to better understand, and tend to your needs, in addition to using it towards improving our services, products, and our website. There lies a possibility that we may use this personal information to contact you directly, as well as to provide you with information feel may be useful, such as with promotions. There always lies the possibility that we may share this information with outside companies whose services and products may interest you. We may opt to enhance/ merge this data with other information we gather from third parties for similar purposes. Unless you explicitly specify that you would prefer not to receive these communications from us, we may send you promotional and/ or administrative communications via your email address. If you decide to terminate these communications, please allow a period of 48 hours for this change to go into effect.
+**Your Options Regarding the Usage of Your Personal Information.**
 
-Our system is programmed to collect data such as your computer's IP address, your designated browser, and to collect a navigation record. This is done for the purpose of improving our products, our services, and our website, while improving convenience, and offering our audience useful content that may be of interest to them. Data collection is done to meet our goals in providing the very best services, useful content, customer-targeted advertisements, and products selected specifically because they may appeal to you. Along these lines, there is a possibility that we may link information that has been collected from you through a variety of different sources including automatically, cookies, personal information, and the information collected through DIRECTVAPOR's Customer Care.
+*You always hold the option to not provide personal information, even if it is necessary to take part in DirectVapor offers or website features.
 
-## Your Options Regarding the Usage of Your Personal Information.
+*You have the option to alter, add to, or update certain information you send to us. Let it be known however, when information is updated we may retain a copy of the original version in our records.
 
-*You have the option to not provide any personal information you wish, even in the event which requires it necessary to participate in DIRECTVAPOR offers or website features.
+*If you wish not to receive commercial email communications from us, of if you want to check your personal information, please feel free to contact us via email at custsupp or you can unsubscribe to commercial e-mail messages using the unsubscribe link provided. 
 
-*You are free to modify, add to, or update some portions of the information you send to us. Please be aware, however, that when updates are made to information, we typically retain a copy of the original version for our records.
+**Access to Your Personal Information.**
 
-*If, for any reason, you would prefer not to receive email communications (or other mail) from us, or if you would like to check your personal information with us, please do not hesitate to contact us via email at service
+DirectVapor may use your personal information to reply to you as well as to send information to you. In no way does DirectVapor intend to disclose personal information to third parties except those explicitly stated in this Privacy Policy. It should be known that DirectVapor may provide aggregated information, which we receive from you, to third parties. 
 
-## Access to Your Personal Information.
+In the event that DirectVapor, or our assets are sold, transferred, or used as security, the personal information we have collected through our website may become transferred to third parties in connection with that transaction. DirectVapor may also give access to, or provide personal information to any of our business affiliates and/ or business partners. There is a possibility that we may share your personal information with additional companies whose products and services may be of interest to you.
 
-There is a possibility that DIRECTVAPOR may use your personal information in replying to you, as well as if we send information to you. DIRECTVAPOR has no intentions to disclose your personal information to third parties, other than those explicitly stated in this Privacy Policy. Please be aware that DIRECTVAPOR will likely provide aggregated information based on the information which we have collected from you, to third parties. DIRECTVAPOR takes numerous commercially-accepted precautions in our efforts of preventing this information from including any of your personal information.
+In the event that DirectVapor is requested by law enforcement officials and/or judicial authorities to provide personal information on individuals who have used our system, DirectVapor may, without your consent, provide any of this information. In matters that involve claims of public or personal safety or litigation where this data is considered pertinent, DirectVapor may use or disclose your personal information without your consent or court process.
 
-Should the event occur in which DIRECTVAPOR, or any of our assets are sold, transferred, or used as security, any of your personal information collected through our website may become transferred to third parties as a result of that transaction. DIRECTVAPOR may potentially give access to, or provide personal information to business affiliates/ partners.
+**Will Your Personal Information Be Secure?**
 
-Should the event arise in which DIRECTVAPOR is summoned by law enforcement officials and/or judicial authorities to give personal information on individuals who have used our system, DIRECTVAPOR may, with or without your consent, provide any portion of this information to any official authorities as needed. In matters concerning claims of personal and/ or public safety, as well as litigation where this data can be considered pertinent, DIRECTVAPOR maintains the right to use or disclose your personal information, with or without your consent or a court process.
+DirectVapor recognizes and understands your concerns on the subject of safety and security regarding your personal information. We strive to employ reasonable measures to protect your information as well as the overall security of our website. We also request that any third parties we are affiliated with, whom we may transfer your information to take the same or comparable steps to protect your information and security. With that said, it should be noted that even with such advanced technology, no website is 100% secure.
 
-## Will Your Personal Information Be Secure?
+**DirectVapor Privacy Policy and Outside Links.**
 
-DIRECTVAPOR is 100% committed to using reasonable technology in an effort to protect your information, in addition to the overall safety and security of our website. DIRECTVAPOR is fully aware of, recognizes, and understands your concern when it comes to safety and security regarding your personal information. However, despite the fact that reasonable means are taken to safeguard your information, please be aware that even with the implementation of such advanced technology, no website is 100% secure. We take all logical precautions and measures, which we are confident are the appropriate means for protecting your information from modification, loss, alteration, abuse, misuse, and/ or destruction. Please be aware, we also request of all third parties we are affiliated with, whom we may transfer your information to, take the same or comparable measures in protecting your personal information and security.
+DirectVapor Privacy Policy applies only to this website, however our website does contain links to outside sites that are beyond our control. Be advised that these sites have the potential to collect personal information about you, and they will operate according to their own privacy practices that may differ from our own Privacy Policy. It is advised that you consult any such websites’ privacy policies, as once you are no longer on DirectVapor’s website, any of the information you submit is beyond our control.
 
-## DIRECTVAPOR Privacy Policy and Outside Links.
+**California Privacy Rights**
 
-The DIRECTVAPOR Privacy Policy applies exclusively to this website, however please be aware that our website contains links to external sites beyond our control. Please be advised that there lies a possibility in these sites, a potential to collect personal information about you, and that they operate according to their own privacy practices, which may differ from our Privacy Policy. It is highly advised that you inform yourself as a consumer, and consult any such websites' privacy policies, as once you exit DIRECTVAPOR's website, any of the information you submit, personal or otherwise, is out of our control.
+Under California Law, California residents have the right to receive, once per year, information about third parties with whom we have shared information about you for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send a request via e-mail to custsupp with the phrase "California Privacy Request" in the subject line, and provide us with your name, address, and e-mail address. We will respond to you within thirty days of receiving such a request.
 
-## Questions Regarding This Privacy Policy.
+**Questions Regarding This Privacy Policy.**
 
-If you have any questions, concerns, or comments regarding our privacy practices, please do not hesitate to contact us via e-mail at service.
-
-This Privacy Policy was last updated on July 1, 2015
+Should you have any questions, concerns, or comments regarding our privacy practices, please do not hesitate to e-mail us at custsupp
