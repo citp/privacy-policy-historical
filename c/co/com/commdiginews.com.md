@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commdiginews.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222011603id_/https%3A//www.commdiginews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commdiginews.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223030253id_/https%3A//www.commdiginews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Communities Digital News
 
@@ -51,7 +51,7 @@ Communities Digital News email list collects email addresses and zip codes; This
 
 Email addresses will never be sold, bartered, or provided to any third party for any reason.
 
-We do not collect information from readers / site visitors who email writers or Communities Digital News ([jacquie.kubin@commdiginews.com](https://web.archive.org/web/20181222011603id_/https://www.commdiginews.com/privacy-policy/jacquie.kubin@commdiginews.com))
+We do not collect information from readers / site visitors who email writers or Communities Digital News ([jacquie.kubin@commdiginews.com](https://web.archive.org/web/20190223030253id_/https://www.commdiginews.com/privacy-policy/jacquie.kubin@commdiginews.com))
 
 **_Data Collected in Connection with Emails_**
 
