@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalresearch.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720051118id_/https%3A//nrchealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalresearch.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223212523id_/https%3A//nrchealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NRC Health
 
@@ -12,7 +12,7 @@ Please keep in mind that if you directly disclose personally identifiable inform
 
 NRC Health encourages you to review the privacy statements of Web sites you choose to link to from NRC Health so that you can understand how those Web sites collect, use and share your information. NRC Health is not responsible for the privacy statements or other content on Web sites outside of the NRC Health and NRC Health family of Web sites.
 
- **Use of your Personal Information**
+**Use of your Personal Information**
 
 NRC Health collects and uses your personal information to operate the NRC Health Web site and deliver the services you have requested. NRC Health also uses your personally identifiable information to inform you of other products or services available from NRC Health and its affiliates. NRC Health may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
@@ -24,7 +24,7 @@ NRC Health keeps track of the Web sites and pages our customers visit within NRC
 
 NRC Health Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on NRC Health or the site; (b) protect and defend the rights or property of NRC Health; and, (c) act under exigent circumstances to protect the personal safety of users of NRC Health, or the public.
 
- **Use of Cookies**
+**Use of Cookies**
 
 The NRC Health Web site use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
@@ -32,14 +32,14 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the NRC Health services or Web sites you visit.
 
- **Security of your Personal Information**
+**Security of your Personal Information**
 
 NRC Health secures your personal information from unauthorized access, use or disclosure. NRC Health secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
- **Changes to this Statement**
+**Changes to this Statement**
 
 NRC Health will occasionally update this Statement of Privacy to reflect company and customer feedback. NRC Health encourages you to periodically review this Statement to be informed of how NRC Health is protecting your information.
 
- **Contact Information**
+**Contact Information**
 
 NRC Health welcomes your comments regarding this Statement of Privacy. If you believe that NRC Health has not adhered to this Statement, please contact NRC Health. We will use commercially reasonable efforts to promptly determine and remedy the problem.
