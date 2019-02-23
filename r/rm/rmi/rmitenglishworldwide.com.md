@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rmitenglishworldwide.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120122202id_/https%3A//rmitenglishworldwide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmitenglishworldwide.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223032837id_/https%3A//rmitenglishworldwide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ The _Privacy Act 1988_ (Cth) sets out Privacy Principles which must be observed 
 
 #### 5\. Privacy Officer
 
-RMIT Training has appointed a Privacy Officer who will be responsible for the administration of this Statement. RMIT Training’s Privacy Officer may be contacted for further information via telephone at 03 9657 5851 or email at [legal.training@rmit.edu.au](mailto:legal.training@rmit.edu.au).
+RMIT Training has appointed a Privacy Officer who will be responsible for the administration of this Statement. RMIT Training’s Privacy Officer may be contacted for further information via telephone at 03 9657 5851 or email at legal.training@rmit.edu.au.
 
 #### 6\. Complaints process
 
