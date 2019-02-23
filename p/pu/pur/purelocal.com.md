@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purelocal.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501024045id_/http%3A//purelocal.com/Privacy.aspx%3Fvx%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purelocal.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223220214id_/https%3A//www.purelocal.com/Privacy.aspx%3Fvx%3D0) for the most accurate reproduction.*
 
 # PureLocal - PureLocal
 
@@ -34,8 +34,8 @@ This website accesses YouTube data via the YouTube API. By using the site, you a
 
 ## Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20180501024045id_/http%3A//purelocal.com/contact.aspx).
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20190223220214id_/https%3A//www.purelocal.com/contact.aspx).
 
 **Effective Date: Privacy Notice last modified February 19, 2014.**
 
-© 2018 PureLocal 
+© 2019 PureLocal 
