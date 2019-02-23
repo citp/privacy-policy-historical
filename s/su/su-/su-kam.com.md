@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the su-kam.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228004231id_/http%3A//su-kam.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the su-kam.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223150944id_/http%3A//www.su-kam.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Su-Kam :: Privacy Policy
 
