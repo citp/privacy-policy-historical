@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the icebreaker.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912013856id_/http%3A//www.icebreaker.com/en/privacy-policy/service-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icebreaker.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223201556id_/https%3A//www.icebreaker.com/en/service-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 * * *
 
- Last Updated:  15 August 2017
+ Last Updated: 29 March 2018
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=1f22e3c9-0b5e-41f6-a26f-fdcdcb0c3ac6 "TRUSTe Privacy Certification")
 
-This Privacy Policy ("Policy") describes how personal information about you is collected, used and disclosed by Icebreaker Pure Merino GmbH and our subsidiaries and affiliates (collectively, "Icebreaker") with respect to your use of our websites where this Policy is posted. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This Privacy Policy ("Policy") describes how personal information about you is collected, used and disclosed by Icebreaker Nature Clothing Inc and our subsidiaries and affiliates (collectively, "Icebreaker") with respect to your use of our websites where this Policy is posted. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Icebreaker Pure Merino GmbH and other companies in its group, participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Icebreaker is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>
+Icebreaker Nature Clothing Inc and other companies in its group, participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Icebreaker is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>
 
 Icebreaker is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
@@ -24,7 +24,7 @@ ICEBREAKER NORTH AMERICA
 21 WATER STREET, SUITE 502  
 VANCOUVER, BRITISH COLUMBIA  
 V6B 1A1  
-1-866-403-0576  
+1 877 827 6816  
 [privacy@icebreaker.com](mailto:privacy@icebreaker.com)
 
 We collect personal information about you in various ways, such as when you create an account or online profile, use the interactive areas and features on our websites, make a purchase, participate in our contests or surveys or when you email, call or otherwise communicate with us. Such information may include your name, address, email address, phone number, fax number, photographs, credit card information and other contact or demographic information you choose to provide. We may also obtain information about you from other sources and link or combine that with information we collect on our websites.
@@ -45,7 +45,7 @@ Cookies are small data files stored on your hard drive by a website. Among other
 
 Behavioral Targeting / Re-Targeting
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union [click here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](https://preferences-mgr.truste.com/) (or if located in the European Union [click here](https://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 How We Use Your Information
 
@@ -56,6 +56,7 @@ We use the personal information we collect for the purposes described in this Po
   * maintain and administer your online account;
   * respond to your comments and questions and provide customer service;
   * send you news and information about events, activities, offers, promotions, products and services offered by Icebreaker or third parties that we think will be of interest to you;
+  * create targeted audiences with third parties for advertising purposes;
   * process and deliver contest or sweepstakes entries and prizes; and
   * link or combine with other personal information we receive from third parties to help understand your needs and provide you with better service.
 
@@ -69,7 +70,7 @@ It is our policy not to share personal information collected through our website
 
   * when you give us your consent to do so, including if we notify you on our websites that the information you provide will be shared in a particular manner and you provide such information;
   * when you provide a product review or you post content to interactive areas or features of our websites;
-  * with third party vendors, consultants and service providers that perform services to help us with our business activities (such as shipping your order or offering customer service) and who need access to such information to carry out their work for us. These companies are authorized to use your personal information only as necessary to provide these services to us
+  * with third party vendors, consultants and service providers that perform services to help us with our business activities (such as shipping your order, offering customer service or targeted advertising) and who need access to such information to carry out their work for us. These companies are authorized to use your personal information only as necessary to provide these services to us
   * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or to respond to lawful requests, legal process or legal authorities;
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, respond to an emergency or investigate fraud; and
   * in connection with, or during negotiations of, a merger, acquisition, financing or sale of all or a portion of Icebreaker's assets.
@@ -106,11 +107,11 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 Frames
 
-Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to [www.icebreaker.com](http://www.icebreaker.com/).
+Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to [www.icebreaker.com](https://www.icebreaker.com/).
 
 User Generated Content
 
-When you transmit, upload, post, email or otherwise make available data, text, software, music, sounds, photographs, images, graphics, designs, artwork, messages or other materials created or sourced by you ("User Content") to Icebreaker and/or on Icebreaker.com or any other website, internet site or application (including mobile device applications) that is owned, operated, controlled or sponsored by Icebreaker, you agree and acknowledge the following:
+When you transmit, upload, post, email or otherwise make available data, text, software, music, sounds, photographs, images, graphics, designs, artwork, messages or other materials created or sourced by you ("User Content") to Icebreaker and/or on icebreaker.com or any other website, internet site or application (including mobile device applications) that is owned, operated, controlled or sponsored by Icebreaker, you agree and acknowledge the following:
 
 Suitable content
 
@@ -146,9 +147,9 @@ We may update this Policy at any time to reflect changes to our information prac
 
 If you have a question about this Policy, please contact us at:
 
-Icebreaker.com  
+icebreaker.com  
 21 WATER STREET, SUITE 502  
 VANCOUVER, BRITISH COLUMBIA  
 V6B 1A1  
-[1 866 403 0576](tel:18664030576)  
+[1 877 827 6816](tel:18778276816)  
 [privacy@icebreaker.com](mailto:privacy@icebreaker.com)
