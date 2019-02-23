@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theyworkforyou.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926105254id_/https%3A//www.theyworkforyou.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theyworkforyou.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223182638id_/https%3A//www.theyworkforyou.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TheyWorkForYou
 
@@ -104,4 +104,4 @@ London
 N13 4BS  
 United Kingdom
 
-…and we can also be contacted at [support@theyworkforyou.com](https://web.archive.org/web/20180926105254id_/https://www.theyworkforyou.com/privacy/support@theyworkforyou.com).
+…and we can also be contacted at [support@theyworkforyou.com](https://web.archive.org/web/20190223182638id_/https://www.theyworkforyou.com/privacy/support@theyworkforyou.com).
