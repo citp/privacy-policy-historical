@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the improvementscatalog.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928034116id_/https%3A//www.improvementscatalog.com/full-privacy/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improvementscatalog.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223214416id_/https%3A//www.improvementscatalog.com/full-privacy/content) for the most accurate reproduction.*
 
 # Full Privacy Policy | Improvements
 
