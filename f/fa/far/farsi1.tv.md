@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farsi1.tv privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819013446id_/http%3A//www.mobygroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farsi1.tv privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223011302id_/http%3A//www.mobygroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MOBY Group
 
