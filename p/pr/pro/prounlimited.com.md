@@ -1,103 +1,166 @@
-> *The following text is extracted and transformed from the prounlimited.com privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509123621id_/http%3A//prounlimited.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prounlimited.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223232944id_/https%3A//prounlimited.com/pro-company/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy - PRO Unlimited
+# Privacy Notice - PRO Unlimited
 
-PRO Unlimited, Inc. (“PRO”) is committed to protecting the privacy of our users. We want to provide a safe and secure user experience. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes as set forth herein. The following sets forth the Online Privacy Policy (“Privacy Policy”) for the following information technology platforms: PRO’s website (www.prounlimited.com), Wand (SaaS), Wand iOS, Wand Tablet, and Wand Android (“PRO sites”).
+PRO Unlimited, Inc. (“PRO”) is committed to protecting the privacy of our users. We want to provide a safe and secure user experience.  We endeavor to ensure that the information you submit to us remains private, and use it only for the purposes as set forth herein. The following sets forth the Online Privacy Notice (“Privacy Notice” or “Notice”) for PRO’s websites (prounlimited.com, prounlimited.co.uk, and rightsourcingusa.com).
 
 **Privacy Policy**
 
-PRO respects the privacy of our users and is committed to the responsible use of our users’ information. Accordingly, we adhere to the following:
+PRO adheres to the following:
 
-  * We collect, retain and use user information for legitimate business purposes only. We limit the information we collect to that which we believe is appropriate and necessary to manage your needs, provide our services and comply with applicable laws.
-  * We strive to maintain the accuracy of user information.
-  * Our employees are responsible for protection of user information. We have internal policies and programs designed to protect your information.
-  * We limit the internal and external disclosure of user information. Other than set forth herein, PRO does not sell, trade, or rent user information.
-  * We may share our users’ non-personal, aggregated statistical information (e.g., website traffic patterns and website usage), but we do not share personally identifiable information (“PII”) with any entity that is not covered by this policy.
+  * We collect, retain and use user personal data for legitimate business purposes only.  We limit the personal data we collect to that which we believe is appropriate and necessary to manage user needs, provide our services and comply with applicable laws.
 
 
+  * We strive to maintain the accuracy of user personal data.
 
-We provide security safeguards to protect user information. Multiple security layers including firewalls, sensor and host based intrusion detection protect all user data. All user data that is taken off site is encrypted using the Advanced Encryption Standard (AES). User information is scrambled using encryption technology before being sent over the internet. Although we cannot guarantee encryption or the privacy of your PII, the encryption technology makes it very difficult for PII to be stolen or intercepted while being transferred.
 
-**PRO Unlimited’s Commitments under the EU – US Privacy Shield and Swiss – US Privacy Shield  
-**PRO complies with the EU – US Privacy Shield Framework and Swiss — US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. PRO has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. The principles we follow can be summarized as follows:
+  * Our employees are required to protect personal data.  We have internal policies and programs designed to protect personal data.
 
-  1. _Notice_ : PRO will inform European Union and Swiss data subjects of our data handling practices, which are set forth in this Policy. This includes, for example, the type of data collected, the purpose of processing it, and the conditions for onward transfers to third parties.
-  2. _Choice_ : PRO will give data subjects the opportunity to opt out of having their data disclosed to third parties (other than agents assisting the company with the processing of the data), or having their data used in a manner that exceeds the original disclosures. With “sensitive data” ( _g._ , data concerning health, political opinions, sexual orientation, and the like), express affirmative consent must be given by the data subject.
-  3. _Accountability for Onward Transfer_ : Transfers of data by PRO to other data controllers or processors can only occur: (i) for limited and specified purposes consistent with the consent provided by the data subject; (ii) on the basis of a contract; and (iii) only if that contract provides the same level of protection as the Privacy Principles.
-  4. _Security_ : PRO will take reasonable and appropriate security measures to protect personal data from loss, misuse, and unauthorized access, disclosure, alteration and destruction. If PRO uses a sub-processor, we will ensure that our contract with the sub-processor provides the same level of protection as provided by the Privacy Principles.
-  5. _Data Integrity and Purpose Limitation_ : PRO will take steps to ensure the personal data is reliable for its intended use, accurate, complete and current. The data used should be limited to that which is relevant to the purpose of the processing, and not processed in a manner that is incompatible with the purpose for which it was originally collected or subsequently authorized by the data subject.
-  6. _Access_ : Data subjects have the right to obtain confirmation of whether PRO is processing their data, and get a copy of the data. Data subjects are also be able to correct or delete personal data where it is inaccurate or has been processed in violation of the Privacy Principles, except where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question, or where the rights of persons other than the data subject will be violated.
-  7. _Recourse, Enforcement and Liability_ : PRO is subject to the jurisdiction of the United States Federal Trade Commission, which has the right to enforce PRO’s compliance with the Privacy Shield Programs. 
-    1. EU – US Privacy Shield: PRO has further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved EU – US Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact the EU DPAs for more information or to file a complaint. The services of EU DPAs are provided at no cost to you.
-    2. Swiss – US Privacy Shield: PRO is also committed to cooperate with the Swiss Federal Data Protection and Information Commissioner. When covering Human Resources data received from Switzerland for use in the context of the employment relationship, PRO is committed to cooperating with and complying with the advice of the Commissioner.
+
+  * We limit the internal and external disclosure of personal data.
 
 
 
-**  
-Information Collected**
+We provide security safeguards to protect user personal data.  Multiple security layers, including firewalls, sensor and host-based intrusion detection, protect all personal data.  Personal data is scrambled using encryption technology before it is sent over the internet. Although we cannot guarantee encryption or the privacy of user personal data, the encryption technology makes it very difficult for personal data to be stolen or intercepted while being transferred.
 
-We may use many sources of information to help us meet the needs of our customers and users. We may collect personal information about you including:
+****PRO Unlimited’s Commitments under the EU-US Privacy Shield and Swiss-US Privacy Shield****
 
-  * Information about your transactions with us, our affiliates or nonaffiliated third party users of the Wand™ vendor management system applications (“Wand applications”);
-  * Information we receive about you from applications and other forms, which we have collected by your use of PRO sites, or products or services obtained from us, one of our affiliates or nonaffiliated third party users of the Wand applications;
-  * Information about you as required or permitted by law;
-  * Your name and other contact details when you call us, write to us, contact us using our website, or establish and use a user account for a Wand application;
-  * Information about you when you apply for a job or contract with us (for example, your name and contact details, information about your working history and relevant records checks);
-  * Information we receive from our customers and other third party users of our application. For example, the Wand applications are used by companies to manage their workforces. We collect information relating to individual workers from our customers and staffing agencies that use the Wand applications. Companies may ask their staffing agencies to use the application so these entities can exchange information relating to candidates between one another. PRO collects this PII by virtue of hosting the application. The information PRO collects may include sensitive information, such as data your employer has deemed relevant to employment-related or record-keeping purposes, where you provide that information to us or to the entities using the Wand applications.
-  * Information about you if you are an individual who is, or who was employed by, one of our staffing agency suppliers, contractors, related companies, agents and/or customers. For example, PRO may collect the personal information of the employees or contractors of the entities using the Wand applications.
+With respect to the personal data of individuals in the European Union, United Kingdom, European Economic Area and Switzerland, PRO complies with the EU-US Privacy Shield Framework and Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, United Kingdom, and Switzerland, respectively, to the United States.  PRO has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.  The principles we follow can be summarized as follows:
+
+  1. Notice:  PRO will inform European Union, United Kingdom, and Swiss users of our data handling practices, which are set forth in this Notice. This includes, for example, the type of data collected, the purpose of processing it, and the conditions for onward transfers to third parties.
+  2. Choice:  PRO will give users the opportunity to opt out of having their data disclosed to third parties (other than agents assisting PRO with the processing of the data), or having their data used in a manner that exceeds the original disclosures
+  3. Accountability for Onward Transfer:  Transfers of data by PRO to other data controllers or processors can only occur: (i) for limited and specified purposes described below; (ii) on the basis of a contract; and (iii) only if that contract provides the same level of protection as the Privacy Shield Principles.
+  4. Security:  PRO will take reasonable and appropriate security measures to protect personal data from loss, misuse, and unauthorized access, disclosure, alteration and destruction.  If PRO uses a sub-processor, we will ensure that our contract with the sub-processor provides the same level of protection as provided by the Privacy Shield Principles.
+  5. Data Integrity and Purpose Limitation:  PRO will take reasonable steps to ensure the personal data is reliable for its intended use, and is accurate, complete and current.  The data used should be limited to that which is relevant to the purpose of the processing, and not processed in a manner that is incompatible with the purpose for which it was originally collected or subsequently authorized by the data subject.
+  6. _Access_ : Data subjects have the right to obtain confirmation of whether PRO is processing their data, and get a copy of the data.  Users are also able to correct or delete personal data where it is inaccurate or has been processed in violation of the Privacy Shield Principles, except where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question, or where the rights of persons other than the data subject will be violated.
+  7. Recourse, Enforcement and Liability:  PRO is subject to the jurisdiction of the United States Federal Trade Commission, which has the right to enforce PRO’s compliance with the Privacy Shield Programs. 
+    1. EU- US Privacy Shield:  PRO has further committed to cooperating with EU data protection authorities (“DPAs”) with regard to unresolved EU- US Privacy Shield complaints.  If a user does not receive timely acknowledgment from us of their complaint, or if we have not addressed the complaint to their satisfaction, they should contact the EU or UK DPAs (as applicable) for more information or to file a complaint.  The services of EU and UK DPAs are provided at no cost to users.
+    2. Swiss- US Privacy Shield:  PRO is also committed to cooperating with the Swiss Federal Data Protection and Information Commissioner.  When covering non-HR data received from Switzerland for use in the context of the employment relationship, PRO is committed to cooperating with and complying with the advice of the Commissioner.
+    3. PRO is committed to cooperating with the EU and UK DPAs and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and complying with the advice given by such authorities with regard to human resources data transferred from the EU, UK and Switzerland in the context of the employment relationship.
+    4. In compliance with Privacy Shield Principles, PRO commits to resolve complaints about our collection or use of your personal information.  EU, UK and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact PRO at:
+
+  PRO Unlimited, Inc.  
+Email:  privacy@prounlimited.com  
+1150 Iron Point Road, Ste. 100  
+Folsom, CA  95630  
+United States
+
+  Our EU representative for GDPR compliance purposes may be contacted at:  
+PRO Unlimited Global Netherlands BV  
+Kranenburgweg 135-A, 2583 ER  
+The Hague  
+Netherlands
 
 
 
-**Disclosing Personally Identifiable Information**
 
-For the purposes described in this policy, we may disclose personally identifiable information (PII):
+If you do not receive timely acknowledgement of your complaint from us, or if we have not addressed your complaint to your satisfaction, you can at any time lodge a complaint with the data protection authority of the EEA country where you live or with the data protection authority of the country or state where the PRO controller that collected your personal data has its registered seat.  A list of the national data protection authorities can be found here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
 
-  * To any of our related PRO companies;
-  * To our customers, suppliers, contractors and service providers, professional advisers, dealers and agents;
-  * On occasion, we enter into agreements with other vendors to provide services in support of PRO’s services, such as to develop applications for the Wand vendor management system. We stipulate under these agreements that if these vendors access personal information about you, they must protect this information and may not use it for any other purpose other than in connection with our agreement and otherwise in accordance with this privacy policy.
-  * To government agencies or individuals appointed by a government responsible for the investigation and resolution of disputes or complaints;
-  * To anyone to whom our assets or business (or any part of it) is transferred or offered to be transferred;
-  * Where you have otherwise consented; or
+**Information Collected and Processed**
+
+PRO uses many sources of information to help us meet our needs and the needs of our customers and users.  PRO may collect personal information about users including:
+
+  * User name and other contact details shared with us when users call, write to, or contact us using our websites, requesting information about PRO or RightSourcing’s contingent workforce management services; and
+
+
+  * Information about users when they apply for a job with us through the career opportunities feature on our websites (for example, user name and contact details, and information about their working history that is contained in their résumé).
+
+
+
+PRO is headquartered in the United States, and any data collected from users is processed in the United States.  User personal data is collected and transferred only:
+
+  * To provide users with information about the types of services that PRO performs for its customers.  For example, upon request we may provide users information about PRO and its service offerings so that users can consider whether it might be interested in using our services.
+
+
+  * To perform a contract with the user, or to implement pre-contractual measures taken at the user’s request.  For example, users who provide their personal data through our career opportunities features will be considered for available jobs, and may be contacted with offers of an employment relationship.
+
+
+
+For the purposes described in this Notice, PRO may disclose the personal data of users:
+
+  * To any of our related PRO companies (including PRO Unlimited, Inc. and RightSourcing Inc.);
+
+
+  * To government agencies or individuals appointed by a government responsible for the investigation and resolution of disputes or complaints; or
+
+
   * As otherwise required or authorized by law.
 
 
 
-Given that the Internet is a global environment, using the Internet to collect and process personal information necessarily involves the transmission of data on an international basis. Therefore, by communicating electronically with us, you acknowledge our processing of personal information in this manner. However, we will endeavor to protect all personal information collected through the PRO sites (including the Wand applications) in accordance with applicable data protection standards and laws.
+PRO _does not_ :
 
-**Cookies and IP Address Tracking**
+  * Use the data collected in any form of automated decision-making.
 
-A cookie is a small piece of data sent from a website and stored in a user’s web browser while the user is browsing that website. Every time the user loads the website, the browser sends the cookie back to the server to notify the website of the user’s previous activity.
 
-PRO sites may use cookies for site administration purposes. If for any reason you wish not to take advantage of cookies, you may have your browser not accept them, although this may disable or render unusable some of the features of the PRO sites.
+  * Collect or process “special categories of personal data” as that term is used in the EU General Data Protection Regulations (GDPR), Article 9, _e.g._ , we do not collect or process data revealing the user’s racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, health data, or data concerning user sex life or sexual orientation.
 
-PRO sites may also detect and use your IP address or domain name for internal traffic monitoring and capacity purposes, or to otherwise administer the application. No personal information is obtained; rather the patterns of usage of visitors to the website may be tracked for the purposes of providing improved service and content based on aggregate or statistical review of user site traffic patterns.
 
-PRO sites may contain links to other websites. PRO is not responsible for the privacy practices or the content of such other websites. The privacy policies applicable to such other websites may differ substantially from this privacy policy so we advise you to read them before using those websites. PRO will not be liable for any use of those websites.
+  * Collect or process personal data of persons who are less than 16 years old.
 
-**Retargeted Advertising**
 
-Retargeted advertising (or behavioral retargeting) uses information collected from a user’s previous online actions, such as pages visited or searches made. This information is used to provide more relevant information to the user from the PRO and Wand-related sites. This information is also used to display relevant PRO employment opportunities if you have “opted in” to this service. The information collected is linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to an individual, such as name, address or credit card number.
 
-**Retention**
+**Cookies** ** **
 
-PRO retains your information for only as long as is necessary to fulfill the stated purposes for which it is collected, or as required or permitted by applicable laws or regulations.
+To make this site work properly, we sometimes place small data files called cookies on your device. Most big websites do this too.
 
-**Consent**
+**What are cookies?**
 
-By using PRO sites, you consent to the collection, use and disclosure of the information you provide to PRO, including any PII. If we change our privacy policy, we will update this document so that you are always aware of what information we collect, how it is used, and under what circumstances it may be disclosed. PRO reserves the right to modify, alter, or update this policy at any time and without advance notice. This policy is effective as of the date that appears at the top of this document. In the event you have any questions about our privacy policy or related matters, please contact us at [privacy@prounlimited.com](mailto:privacy@prounlimited.com).
+A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another.
 
-**Accessing and Updating Your Personal Information**
+**How do we use cookies?**
 
-You have a right to access the personal information we hold about you. To obtain a copy of the personal information we hold, please write or email us at the address shown below. (Please note that we may be entitled to charge a small fee for providing you with copies of personal information we may hold about you; you will be advised in advance of the existence and amount of any such charges at the time of your request.)
+PRO sites use the following cookies:
 
-To opt to not have your personal information shared as set forth herein, please contact us at the address shown below; provided, however that to the extent you are a registered user of one of PRO’s sites, your personal information is a requirement and removal of your personal information will result in termination of your user account (i.e., termination of your ability to use the PRO site and/or Wand applications).
+_Google Analytics_
+
+Google Analytics uses cookies to measure user-interactions on our website. Google Analytics is a simple, easy-to-use tool that helps PRO Unlimited measure how users interact with website content. As a user navigates between web pages, Google Analytics provides us with JavaScript tags (libraries) to record information about the page a user has seen, for example the URL of the page. The Google Analytics JavaScript libraries use HTTP Cookies to “remember” what a user has done on previous pages / interactions with the website.
+
+_Marketo_
+
+Marketo uses a cookie value set (_mkto_trk) by its Munchkin JavaScript library in order to identify individual users on the domain of our site. The cookie, which sets to a user’s browser, lasts up to two years, and is automatically renewed each time the user visits a page.
+
+_HubSpot_
+
+HubSpot uses cookie tracking to give us context of our site’s visitors. The cookie (__hstc) is for tracking visitors. It contains the domain, utk, initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session).
+
+**How to control cookies**
+
+You can control and/or delete cookies as you wish – for details, see [www.aboutcookies.org](http://www.aboutcookies.org/). You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
+
+PRO does not track its users when they cross to third party websites, and does not use targeted advertising, and therefore does not respond to Do Not Track signals.
+
+PRO sites contain links to other websites.  PRO is not responsible for the privacy practices or the content of such other websites.  The privacy policies applicable to such other websites may differ substantially from this Privacy Notice, so we advise users to read them before using those websites.  PRO will not be liable for any use of those websites.
+
+**Data Storage and Retention**
+
+PRO stores user personal data, as described herein, on its servers, which are located in the United States.  PRO retains user information only for as long as is necessary to fulfill the stated purposes for which it is collected, or as required by applicable laws or regulations.
+
+  * Personal data that is provided by users who are seeking information about PRO’s services will be retained for the duration of the complete potential sales cycle with your organization, not to exceed five years.
+  * Personal data that is provided by users through the career opportunities feature will be retained for up to two years.
+
+
+
+**User Rights Concerning Personal Data**
+
+Users have a right to access the personal data PRO holds about them.  To obtain a copy of the personal data we hold, at no cost to them, users should write or email us at the address shown below.  If access cannot be provided within a reasonable time, we will provide users with an estimate of the amount of time that will be needed to provide access.  If for some reason access is denied, we will inform users of the reason for that denial.
+
+Users may also request information about the purposes of PRO’s processing of their personal data, the categories of personal data concerned, whether any party outside PRO might have received the data from PRO, the source of the data if the user did not provide it themselves, and how long it will be stored.  If users discover that any of their personal data is inaccurate, they have a right to have that data corrected.
+
+Users may request that PRO erase their personal data or cease processing it, subject to certain exceptions.  In many countries, users have a right to bring a complaint to the appropriate data protection authority if they have concerns about how PRO processes their data.
+
+When technically feasible, at a user’s request PRO will provide their personal data to them or transmit it directly to another controller or processor.  For any questions or requests related to user personal data, please contact us at the address shown below
+
+**Updates and Changes to this Privacy Notice**
+
+By using the PRO websites, users agree to the terms and conditions of this Privacy Notice.  If users do not agree to any of these terms and conditions, they should not use the PRO websites.  If we change our privacy policies, we will update this document so that users are always aware of what information we collect, how it is used, and under what circumstances it may be disclosed.  PRO reserves the right to modify, alter, or update this Notice at any time and without advance notice. This Notice is effective as of the date that appears at the top of this document. In the event of any questions about our privacy policies or related matters, please contact us at [privacy@prounlimited.com](mailto:privacy@prounlimited.com).
 
 **Contact Us**
 
-In the event you have any questions or complaints, access requests and other issues arising under our Privacy Shield Programs, or under our privacy policies, please contact our Chief Privacy Officer:
+In the event you have any questions or complaints, access requests or other concerns or issues arising from your use of our websites or our privacy policies, please contact our Data Protection Officer:
 
 PRO Unlimited, Inc.  
-Email: [privacy@prounlimited.com](mailto:privacy@prounlimited.com)  
-1150 Iron Point Road, Ste. 100  
-Folsom, CA 95630  
+Email:  [privacy@prounlimited.com  
+](mailto:privacy@prounlimited.com)1150 Iron Point Road, Ste. 100  
+Folsom, CA  95630  
 United States
