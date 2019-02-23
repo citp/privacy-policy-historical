@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refog.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827112623id_/https%3A//www.refog.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refog.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223024408id_/https%3A//www.refog.com/privacy.html) for the most accurate reproduction.*
 
 # REFOG Privacy Policy
 
