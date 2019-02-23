@@ -1,24 +1,63 @@
-> *The following text is extracted and transformed from the jobwebethiopia.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928112933id_/http%3A//jobwebethiopia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobwebethiopia.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223222925id_/https%3A//jobwebethiopia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JobWeb Ethiopia
 
-This Privacy Policy governs the manner in which http://jobwebethiopia.com/ collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://jobwebethiopia.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by http://jobwebethiopia.com/.
+Hello, and thank you for visiting Jowebethiopia.com. This Privacy Policy (“Policy”) is meant to help you understand what information we collect, why we collect it, and how you can update, manage, and delete your information. If you have any questions about this Policy, send us a note at privacy@jobwebethiopia.com
 
-Personal identification information
+This Privacy Policy governs the manner in which Jowebethiopia.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://jobwebethiopia.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Jobwebethiopia.com.
+
+### Personal identification information
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Non-personal identification information
+### Non-personal identification information
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-Web browser cookies
+### Web browser cookies
 
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
+### Essential Cookies
+
+Essential (or “Required”) cookies that are required for providing you with features or services that you have requested. Disabling these cookies may make certain features and services unavailable.
+
+### Functionality Cookies
+
+Functional cookies are used to record your choices and settings regarding our Websites, maintain your preferences over time, and recognize you when you return to our Websites. These cookies help us to personalize our content for you, greet you by name, and remember your preferences.
+
+### Performance and Analytics Cookies
+
+Performance/Analytical cookies allow us to understand how visitors use our Websites by collecting information about the number of visitors to the Website, what pages visitors view on our Website and how long visitors are viewing pages on the Website. Performance and Analytical cookies also help us measure the performance of our advertising campaigns in order to help us improve our campaigns and the content for those who engage with our advertising.
+
+### **How we use Cookies  
+**
+
+Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We may use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+### Read More About Cookies
+
+Jobwebethiopia.com is eager to help your know more about cookies.
+
+To read more about cookies. [Click Here](https://cookies.insites.com/about-cookies/)
+
+### Learn How to Disable Cookers from your Browser
+
+We are also eager for you to learn how to disable cookies from a browser
+
+Learn how to disable cookies today. [Click Here](https://cookies.insites.com/disable-cookies/)
+
+### Retargeting and Advertising Cookies
+
+Retargeting and Advertising cookies collect data about your online activity and identify your interests so that we can provide advertising that we believe is relevant to you.
+
 How we use collected information
 
-http://jobwebethiopia.com/ may collect and use Users personal information for the following purposes:  
+Jobwebethiopia.com may collect and use Users personal information for the following purposes:  
 – To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
 – To personalize user experience  
@@ -31,23 +70,23 @@ How we protect your information
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Sharing your personal information
+### Sharing your personal information
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-Third party websites
+### Third party websites
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-Advertising
+### Advertising
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-Google Adsense
+### Google Adsense
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
-Changes to this privacy policy
+### Changes to this privacy policy
 
 Jobwebethiopia.com has the discretion to update this privacy policy at any time. When we do, we will send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
@@ -55,15 +94,23 @@ Your acceptance of these terms
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-Contacting us
+### Removing Your Information
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+To delete all of your information, send an email to privacy@jobwebethiopia.com Once we confirm your identity, we will immediately start the process of removing your data from the product and our systems. As with any deletion process, things like routine maintenance, unexpected outages, bugs, or failures in our protocols may cause delays in the processes and timeframes in connection with such removal.
 
-> [Home](http://jobwebethiopia.com/)
+There are other ways to control the information Jobwebethiopia collects, including configuring your browser to indicate when Jobwebethiopia has set a cookie in your browser. You can also configure your browser to block all cookies from a specific domain or all domains. But remember, as described above, the Jobwebethiopia Offerings rely on cookies to function properly.
 
-> [Home](http://jobwebethiopia.com/)
+### Contacting us
 
-+233 548187372  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+Jobwebethiopia
+
+> [Home](https://jobwebethiopia.com/)
+
+  
++233(0)201533571  
 info@jobwebethiopia.com
 
-This document was last updated on November 20, 2016
+## Last Revised
+
+This Privacy Notice was last updated on December 14, 2018.
