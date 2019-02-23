@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamasgotittogether.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927013942id_/https%3A//www.planninginspired.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasgotittogether.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223170457id_/https%3A//www.planninginspired.com/privacy-policy) for the most accurate reproduction.*
 
 # Terms and Conditions | Privacy Policy - Planning Inspired
 
@@ -14,9 +14,9 @@ by sending you a notification). We encourage you to review our Privacy Policy wh
 you access the Services or otherwise interact with us to stay informed about our  
 information practices and the ways you can help protect your privacy.
 
-###  Collection of Information
+### Collection of Information
 
-###  Information You Provide to Us
+### Information You Provide to Us
 
 We collect information you provide directly to us. For example, we collect information  
 when you create an account, participate in any interactive features of the Services,  
@@ -30,7 +30,7 @@ preference or interest data, and any other information you choose to provide.
 If you provide an email address to invite a friend to participate in the Services, we will  
 collect that email address and use it to send your friend such an invitation.
 
-###  Information We Collect Automatically
+### Information We Collect Automatically
 
 When you access or use our Services, we may automatically collect information about  
 you, including:  
@@ -50,7 +50,7 @@ our Services or emails and help deliver cookies, count visits, and understand us
 campaign effectiveness. For more information about cookies, and how to disable them,  
 please see “Your Choices” below.
 
-###  Information We Collect From Other Sources
+### Information We Collect From Other Sources
 
 We may also obtain information from other sources and combine that with information  
 we collect through our Services. For example, if you create or log into your account  
@@ -86,7 +86,7 @@ law. By accessing or using the Services or otherwise providing information to us
 consent to the processing and transfer of information in and to the U.S. and other  
 countries.
 
-###  Sharing of Information
+### Sharing of Information
 
 We may share information about you as follows or as otherwise described in this Privacy  
 Policy:  
@@ -104,7 +104,7 @@ assets, financing or acquisition of all or a portion of our business by another
 company; and  
 • With your consent or at your direction.
 
-###  Social Sharing Features
+### Social Sharing Features
 
 The Services may offer social sharing features and other integrated tools (such as the  
 Facebook “Like” button), which let you share actions you take on our Services with other  
@@ -114,7 +114,7 @@ provides the social sharing feature. For more information about the purpose and 
 of data collection and processing in connection with social sharing features, please visit  
 the privacy policies of the entities that provide these features.
 
-###  Advertising and Analytics Services Provided by Others
+### Advertising and Analytics Services Provided by Others
 
 We may allow others to serve advertisements on our behalf across the Internet and to  
 provide analytics services. These entities may use cookies, web beacons and other  
@@ -128,7 +128,7 @@ interest-based ads, or to opt out of having your web browsing information used f
 behavioral advertising purposes by companies that participate in the Digital Advertising  
 Alliance, please visit www.aboutads.info/choices.
 
-###  Security
+### Security
 
 Company takes reasonable measures to help protect information about you from loss,  
 theft, misuse and unauthorized access, disclosure, alteration and destruction.  
@@ -143,21 +143,21 @@ submit through the Services) and that we may continue to store information about
 as required by law or for legitimate business purposes. We may also retain cached or  
 archived copies of information about you for a certain period of time.
 
-###  Cookies
+### Cookies
 
 Most web browsers are set to accept cookies by default. If you prefer, you can usually  
 choose to set your browser to remove or reject browser cookies. Please note that if you  
 choose to remove or reject cookies, this could affect the availability or functionality of  
 our Services.
 
-###  Promotional Communications
+### Promotional Communications
 
 You may opt out of receiving promotional communications from us by following the  
 instructions in those communications or by sending an email to  
 sarah@planninginspired.com. If you opt out, we may still send you non-promotional  
 communications, such as those about your account or our ongoing business relations.
 
-###  Push Notifications/Alerts
+### Push Notifications/Alerts
 
 With your consent, we may send push notifications or alerts to your mobile device. You  
 can deactivate these messages at any time by changing the notification settings on your  
@@ -168,7 +168,7 @@ sarah@planninginspired.com
 
 Version: 1.0. Issue date: 05/09/18.
 
-###  COOKIE POLICY
+### COOKIE POLICY
 
 We use cookies on our sites (www.planninginspired.com and the subdomains associated with  
 www.planninginspired.com) (“our site”) for a number of purposes. They help us to provide you with a  
@@ -193,7 +193,7 @@ purpose.
 You can find more information about the individual cookies we use and the purposes for which we use  
 them below.
 
-###  First-party (IT Governance Ltd) cookies
+### First-party (IT Governance Ltd) cookies
 
 This website will set some cookies that are essential for the website to operate correctly. These cookies,  
 none of which capture personally identifiable information, are as follows:  
@@ -204,7 +204,7 @@ Page Number – this cookie identifies the page you are on;
 **Test** – this cookie checks whether or not your browser supports cookies;  
 **Order** – this cookie ensures that your shopping basket works correctly.
 
-###  Third-party cookies
+### Third-party cookies
 
 Our websites will set several types of third-party cookie, and we do not control the operation of any of  
 them. The third-party cookies which may be set include:  
@@ -222,3 +222,11 @@ comments. You can view their terms of service right here: https://akismet.com/to
 You can block cookies by activating the setting on your browser that allows you to refuse the setting of  
 all or some cookies. However, if you use your browser settings to block all cookies (including essential  
 cookies) you may not be able to access all or parts of our site.
+
+### Affiliate Advertising
+
+This website uses links, considered affiliate links, in which we earn a commission if a reader clicks through and makes a purchase. If you click through a link included on this site and make a purchase, we may earn a commission. We include a notice on each page that contains such links. To avoid this, simply open a new tab and go directly to the intended website or go through Google search to click. These sites use cookies, so if you click the links we may earn commissions through any purchase made for an extended time period, which varies depending on the company. You can turn off cookies in the same manner mentioned above. 
+
+### Sponsored Content
+
+Occasionally on this site, we publish sponsored content. With this content we have been compensated, either monetarily or through products, to speak about a product, brand, or service. We only recommend brands that we stand behind and do our best to post unbiased reviews. If we come across a product or service we don’t like, instead of recommending it to our readers, we simply don’t publish content on that product or service, that way we can continue to only publish unbiased content. You’ll find a notice on any content that is sponsored.
