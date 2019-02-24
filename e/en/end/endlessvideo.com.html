@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the endlessvideo.com privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625081839id_/https%3A//endlessvideo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the endlessvideo.com privacy policy that was archived on 2019-02-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190224064208id_/https%3A//endlessvideo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="PRAGMA" content="NO-CACHE">
@@ -34,17 +34,16 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script src="https://www.google.com/recaptcha/api.js"></script>
 
-<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/style.css">
-<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/bootstrap.css">
-<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/bootstrap-responsive.css">
-<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/iThing.css">
-<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/social/font-awesome.css">
-<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/social/bootstrap-social.css">
-<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/owl.carousel.css">
-<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/Jcrop/Jcrop.css">
-<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/bootstrap-dialog.css">
-<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/customStyles.css">
-<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/bootstrap-datepicker.css">
+<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/style.css?v=904">
+<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/bootstrap.css?v=902">
+<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/bootstrap-responsive.css?v=902">
+<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/iThing.css?v=902">
+<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/social/font-awesome.css?v=902">
+<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/social/bootstrap-social.css?v=902">
+<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/owl.carousel.css?v=902">
+<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/Jcrop/Jcrop.css?v=902">
+<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/bootstrap-dialog.css?v=902">
+<link rel="stylesheet" type="text/css" href="https://endlessvideo.com/css/bootstrap-datepicker.css?v=902">
 <title>EndlessVideo | Privacy Policy</title>
 </head>
 <body>
@@ -244,7 +243,7 @@ with our new <strong>Browser Extension</strong>! </p>
 <div class="tab-pane" id="join">
 <div class="connect-with">
 <p> Connect with: </p>
-<a href="#" onclick="fb_login(); return false;" class="fb-signin">
+<a href="#" onclick="fb_login(); return false;" class="fb-signin hidden">
 <img src="../images/facebook-account.svg"> </a>
 <a href="#" id="customBtn-signin" class="g-signin" onclick="return false;"> <img src="../images/google-account.svg"> </a>
 </div>
@@ -265,25 +264,20 @@ Or create an account:
 </div>
 <div class="modal-input">
 <img src="../images/modal/password.svg">
-<div class="input-group" id="pwd-group" style="display: inline-flex; width: 60%;">
+
 <input type="password" placeholder="password" name="signin_pwd" id="signin_pwd" class="input-signin form-control">
-<span class="input-group-btn" style="height: 48px;">
-<button class="btn btn-default btn-show-pwd" type="button" onclick="showPwdAsTxt('#signin_pwd', this);">
-<i class="glyphicon glyphicon-eye-open showPwd"></i> </button>
-</span>
+
+
 </div>
-</div>
-<div class="checkbox-group" style="float: right; margin-bottom: 10px;">
+<div class="checkbox-group" style="float: right; margin-bottom: 10px; margin-right: 80px;">
 <input type="checkbox" value="true" name="age-13older" id="age-13older" style="margin-top: -2px;"> I'm 13 years of age or older <br>
 </div>
-<div class="re-captcha">
-<div class="g-recaptcha" data-sitekey="6LebbCkTAAAAAPJWfYvNZe4qZh38zi3uVHVWHgR0"></div>
-</div>
+
 <div class="text-right form-options">
 <div class="form-buttons buttons-signin">
 <a href="#" onclick="return false;" data-dismiss="modal" class="modal-cancel"> Cancel </a>
 
-<button name="signinButton" class="btn" id="signinButton" data-loading-text="Loading..." disabled="">
+<button name="signinButton" class="btn g-recaptcha" id="signinButton" data-sitekey="6LfJG38UAAAAAFoCxCcb7lHjIsX54RDL198k8TSo" data-loading-text="Loading..." disabled="" data-callback="signInF">
 Sign up</button>
 </div>
 </div>
@@ -294,7 +288,7 @@ Sign up</button>
 <div class="connect-with">
 <p> Connect with: </p>
 
-<a href="#" onclick="fb_login(); return false;" class="fb-login">
+<a href="#" onclick="fb_login(); return false;" class="fb-login hidden">
 <img src="../images/facebook-account.svg"> </a>
 <a href="#" id="customBtn-login" class="g-login" onclick="return false;" data-dismiss="modal">
 <img src="../images/google-account.svg"> </a>
@@ -402,26 +396,74 @@ Log in</button>
 <header id="mainNav">
 <div class="container">
 <nav class="content">
+<div id="brand-div" class="flex-div">
 <a class="navbar-brand" href="https://endlessvideo.com/"></a>
-<div class="nav-content">
+</div>
 
+<div id="form-div" class="flex-div">
 <form action="/watch" class="search-form" id="search_form" method="get" style="">
 <div class="input-group-btn">
 <input type="text" class="form-control" placeholder="Search" id="search_term" onkeyup="setBtnStatus(this);">
 <input type="hidden" name="v" id="v">
+<input type="hidden" name="start" id="start">
 <button class="btn btn-default search-btn" onclick="searchLoopButton(); return false;" id="header-search-btn" disabled="">
 <img src="https://endlessvideo.com/images/search.svg">
 </button>
 </div>
 </form>
-<button type="button" class="btn btn-default" id="login-button" onclick="OpenLoginModal(0); return false;">Log in</button>
-<button type="button" class="btn btn-lg login-button" id="signin-button" onclick="OpenLoginModal(1);">
-Join!
-</button>
+</div> 
+<div class="btn-div flex-div">
+<button type="button" class="btn btn-default" id="login-button" onclick="OpenLoginModal(0); return false;">
+Log in </button>
 </div>
+<div class="btn-div flex-div">
+<button type="button" class="btn btn-lg login-button" id="signin-button" onclick="OpenLoginModal(1);">
+Join! </button>
+ </div>
+
 </nav>
 </div>
 </header>
+<div class="main-container">
+<input type="hidden" name="uid" id="uid" value="">
+<input type="hidden" name="url" id="url" value="/watchloops">
+<input type="hidden" name="loops-page" id="loops-page" value="1">
+<input type="hidden" name="srch-myloops" id="srch-myloops">
+<div class="myloop-list generic-panel collapse" style="" id="myloops-panel">
+
+<div class="sort-area">
+<div class="sortby">
+Sort by:
+<select class="noSwipe" id="myloops-sortBy" autofocus="">
+<option value="1" selected="selected">Date</option>
+<option value="2">Views</option>
+<option value="3">Name</option>
+</select>
+</div>
+</div>
+<div class="loader-div" id="loader" style="display:none;">
+<div class="uil-default-css" style="-webkit-transform:scale(0.9); display: inline-block;">
+<div style="top:80px;left:93px;width:14px;height:40px;background:#41aed3;-webkit-transform:rotate(0deg) translate(0,-60px);transform:rotate(0deg) translate(0,-60px);border-radius:10px;position:absolute;"></div>
+<div style="top:80px;left:93px;width:14px;height:40px;background:#41aed3;-webkit-transform:rotate(30deg) translate(0,-60px);transform:rotate(30deg) translate(0,-60px);border-radius:10px;position:absolute;"></div>
+<div style="top:80px;left:93px;width:14px;height:40px;background:#41aed3;-webkit-transform:rotate(60deg) translate(0,-60px);transform:rotate(60deg) translate(0,-60px);border-radius:10px;position:absolute;"></div>
+<div style="top:80px;left:93px;width:14px;height:40px;background:#41aed3;-webkit-transform:rotate(90deg) translate(0,-60px);transform:rotate(90deg) translate(0,-60px);border-radius:10px;position:absolute;"></div>
+<div style="top:80px;left:93px;width:14px;height:40px;background:#41aed3;-webkit-transform:rotate(120deg) translate(0,-60px);transform:rotate(120deg) translate(0,-60px);border-radius:10px;position:absolute;"></div>
+<div style="top:80px;left:93px;width:14px;height:40px;background:#41aed3;-webkit-transform:rotate(150deg) translate(0,-60px);transform:rotate(150deg) translate(0,-60px);border-radius:10px;position:absolute;"></div>
+<div style="top:80px;left:93px;width:14px;height:40px;background:#41aed3;-webkit-transform:rotate(180deg) translate(0,-60px);transform:rotate(180deg) translate(0,-60px);border-radius:10px;position:absolute;"></div>
+<div style="top:80px;left:93px;width:14px;height:40px;background:#41aed3;-webkit-transform:rotate(210deg) translate(0,-60px);transform:rotate(210deg) translate(0,-60px);border-radius:10px;position:absolute;"></div>
+<div style="top:80px;left:93px;width:14px;height:40px;background:#41aed3;-webkit-transform:rotate(240deg) translate(0,-60px);transform:rotate(240deg) translate(0,-60px);border-radius:10px;position:absolute;"></div>
+<div style="top:80px;left:93px;width:14px;height:40px;background:#41aed3;-webkit-transform:rotate(270deg) translate(0,-60px);transform:rotate(270deg) translate(0,-60px);border-radius:10px;position:absolute;"></div>
+<div style="top:80px;left:93px;width:14px;height:40px;background:#41aed3;-webkit-transform:rotate(300deg) translate(0,-60px);transform:rotate(300deg) translate(0,-60px);border-radius:10px;position:absolute;"></div>
+<div style="top:80px;left:93px;width:14px;height:40px;background:#41aed3;-webkit-transform:rotate(330deg) translate(0,-60px);transform:rotate(330deg) translate(0,-60px);border-radius:10px;position:absolute;"></div>
+</div> </div>
+<ul class="myloops-items" id="myloops">
+</ul>
+<div class="myloops-more">
+
+<p id="no-moreloops"> All Loops loaded </p>
+<button class="btn" onclick="MoreLoops();" id="moreloops-btn"> Load more </button>
+</div>
+</div> <div id="main-content" class="privacy-content">
 <section class="container">
 <div class="page privacy">
 <h1>Privacy Policy</h1>
@@ -508,26 +550,39 @@ Concerns or questions about this privacy policy can be directed to 'info [at] en
 <div class="footer-img">
 <div class="footer-container container">
 <div class="row">
-<div class="quick-links quick-links-2 col-xs-12 col-sm-5 col-sm-offset-1 col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1 ">
-<p> Quick links </p>
-<div class="products-lists">
+<div class="quick-links col-xs-5 col-xs-offset-1 col-sm-3 col-sm-offset-1 col-md-3 col-md-offset-1 col-lg-3 col-lg-offset-1">
+<p data-toggle="collapse" data-target="#quick-links-list">
+<span> Quick links </span>
+<span class="caret changePwd-caret quick-links-caret" id="collapser-caret"></span>
+</p>
+<div class="products-lists" id="quick-links-list">
 <ul>
-<li><a href="https://chrome.google.com/webstore/detail/endlessvideo/foiafpfooebhpodefjgkbgjikliekkef?hl=es-419" target="_blank">
-Browser Add-on
+<li><a href="/howto">How to loop videos</a></li>
+<li><a id="addon-url" href="https://chrome.google.com/webstore/detail/endlessvideo/foiafpfooebhpodefjgkbgjikliekkef?hl=es-419" target="_blank">
+Get Browser Extension
 </a></li>
-<li><a href="/howto">How to</a></li>
-<li> <a href="/privacy-policy">Privacy Policy </a> </li>
-<li> <a href="/dmca"> DMCA </a> </li>
-<li><a href="https://endlessvideo.helprace.com" target="_blank">
-Contact &amp; Support
+<li><a href="/feedback-beta" target="_blank">
+Contact us
 </a></li>
-<li> <a href="/feedback-beta"> Feedback </a> </li>
 </ul>
 </div>
 </div>
-<div class="social-networks social-networks-2 col-xs-12 col-xs-offset-1 col-sm-5 col-sm-offset-1 col-md-5 col-md-offset-1 col-lg-5 col-lg-offset-1">
+<div class="other-products col-xs-5 col-xs-offset-1 col-sm-3 col-sm-offset-1 col-md-3 col-md-offset-1 col-lg-3 col-lg-offset-1">
+<p data-toggle="collapse" data-target="#vitzo-products-list">
+<span> Legal stuff </span>
+<span class="caret changePwd-caret partner-prod-caret" id="collapser-caret"></span>
+</p>
+<div class="products-lists" id="vitzo-products-list">
+<ul>
+<li> <a href="/privacy-policy">Privacy Policy </a> </li>
+<li> <a href="/dmca"> DMCA </a> </li>
+</ul>
+</div>
+
+</div>
+<div class="social-networks col-xs-12 col-sm-4 col-md-4 col-lg-4">
 <div class="logo-img col-xs-5 col-xs-offset-1 col-sm-12 col-sm-offset-0 col-md-12 col-md-offset-1 col-lg-12 col-lg-offset-1">
-<a href="/"> <img src="../images/EV_Light.svg"> </a>
+<a href="/"><img src="../images/EV_Light.svg"></a>
 </div>
 
 
@@ -558,24 +613,26 @@ Contact &amp; Support
 </div>
 </div>
 </div>
-</footer></div>
+</footer> </div> 
+</div> 
+</div>
 
-<script type="text/javascript" src="https://endlessvideo.com/js/mustache.min.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/jquery.newsticker.min.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/tipsy/javascripts/jquery.tipsy.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/selectToUISlider.min.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/jquery.mousewheel.min.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/jQAllRangeSliders-min.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/slider/js/jquery-ui-1.7.1.custom.min.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/endless.min.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/base.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/search.min.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/playlist.min.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/owl.carousel.min.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/Jcrop.min.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/bootstrap-dialog.min.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/bootstrap-datepicker.min.js"></script>
-<script type="text/javascript" src="https://endlessvideo.com/js/jquery.touchSwipe.min.js"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/mustache.min.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/jquery.newsticker.min.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/tipsy/javascripts/jquery.tipsy.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/selectToUISlider.min.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/jquery.mousewheel.min.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/jQAllRangeSliders-min.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/slider/js/jquery-ui-1.7.1.custom.min.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/endless.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/base.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/search.min.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/playlist.min.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/owl.carousel.min.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/Jcrop.min.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/bootstrap-dialog.min.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/bootstrap-datepicker.min.js?v=902"></script>
+<script type="text/javascript" src="https://endlessvideo.com/js/jquery.touchSwipe.min.js?v=902"></script>
 
 
 </body></html>
