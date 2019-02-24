@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troubleshooter.xyz privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903141047id_/http%3A//troubleshooter.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troubleshooter.xyz privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224040418id_/https%3A//troubleshooter.xyz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Troubleshooter
 
@@ -6,7 +6,7 @@ At Troubleshooter, we admit that privacy is important. This document outlines th
 
 ### How we allow you to use our data?
 
-We have our content purely written in our very OWN way and yes, we have got it protected and it’s our copyright. Articles on Troubleshooter.xyz may be carried on, to other websites, forums, or blogs provided that, you include a clear link back to the original article URL link. Eg: Source – [Troubleshooter](http://troubleshooter.xyz/).
+We have our content purely written in our very OWN way and yes, we have got it protected and it’s our copyright. Articles on Troubleshooter.xyz may be carried on, to other websites, forums, or blogs provided that, you include a clear link back to the original article URL link. Eg: Source – [Troubleshooter](https://troubleshooter.xyz/).
 
 ### What data do we collect?
 
@@ -74,12 +74,12 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 Contact Information  
-[www.troubleshooter.xyz](http://troubleshooter.xyz/)  
+[www.troubleshooter.xyz](https://troubleshooter.xyz/)  
 Gautam Budh Nagar  
 India  
 Uttar Pradesh  
 201008  
-[[email protected]](http://troubleshooter.xyz/cdn-cgi/l/email-protection#ceafaaa7bab7afa8afbcbcafaa8ea9a3afa7a2e0ada1a3)
+[adityafarrad@gmail.com](mailto:adityafarrad@gmail.com)
     
     
     **Last updated: 17th Nov 2016**
