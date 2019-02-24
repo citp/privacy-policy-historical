@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugsusa.com privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010040331id_/https%3A//www.rugsusa.com/rugsusa/control/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugsusa.com privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224180112id_/https%3A//www.rugsusa.com/rugsusa/control/privacy) for the most accurate reproduction.*
 
 # Rugs USA Privacy Policy
 
@@ -25,6 +25,8 @@ At Rugs USA , we also review what kinds of products appeal most to our customers
 #### Does Rugs USA share any information it collects with outside parties?
 
 We may use your purchase information about the products you buy from Rugs USA to make other marketing offers to you. Of course, you always have the option to opt-out from receiving such offers (for instructions on how to opt-out, please see below). We may share this information with consultants or service providers to help Rugs USA serve you better. Of course, to the extent that we would ever share any of that information with a consultant or service provider, we would only do so if that party agreed to protect your private information by adopting a privacy policy at least as stringent as our own.
+
+Rugs USA may collect your email address via cookies and pixels on the Website through the use of trusted third party partners. These partners may combine your email information with other information they have access to such as mailing address so that Rugs USA may serve relevant marketing offers to you via direct mail. If you do not want Rugs USA to collect information about you, please see below for instructions on how to opt-out.
 
 #### How does Rugs USA safeguard my personal information?
 
