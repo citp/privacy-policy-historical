@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficsupplier.net privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812134937id_/http%3A//www.adjux.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficsupplier.net privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224084321id_/http%3A//www.adjux.com/privacy.html) for the most accurate reproduction.*
 
 # Adjux | Internet Advertising Network
 
@@ -49,7 +49,7 @@ Opting Out is easy; when a you opt-out we will no longer be able to recognize an
 
 If you are in the EEA, you have a right to (subject to a limited number of exceptions): (i) request access to and rectification or erasure of your personal information; (ii) obtain restriction of processing or to object to processing of your personal information; and (iii) ask for a copy of your personal information to be provided to them, or a third party, in a digital format. You also have the right to lodge a complaint about the processing of your personal information with your local data protection authority in the EEA.
 
-If you are a client, and would like the personal information Adjux holds about you to be corrected or updated please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) For the deletion and erasure of personal information, email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to begin the process and we will respond to your request within 30 days.
+If you are a client, and would like the personal information Adjux holds about you to be corrected or updated please contact privacy@adjux.com. For the deletion and erasure of personal information, email privacy@adjux.com to begin the process and we will respond to your request within 30 days.
 
 ### The Protection of Minors
 
@@ -63,7 +63,7 @@ We may run retargeting campaigns based on user lists provided directly by the ad
 
 We may contact our partners, which include businesses, networks, agencies, publishers, and advertisers; periodically by e-mail to provide information regarding our discounts, products, services and content that may be of interest to you. If applicable law requires that we receive your consent before we send you certain types of marketing communications, we will only send you those types of communications after receiving your consent.
 
-If you decide at any time that you no longer wish to receive such communications from us, you may follow the unsubscribe instructions provided in any of the communications or request to be opted-out of receiving such communications via email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you decide at any time that you no longer wish to receive such communications from us, you may follow the unsubscribe instructions provided in any of the communications or request to be opted-out of receiving such communications via email to privacy@adjux.com.
 
 ### Changes to privacy policy
 
@@ -77,7 +77,7 @@ By using this Site, you are acceptancing the consent and practices described in 
 
 ### Questions and concerns:
 
-If you have any questions or concerns about our privacy practices, you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions or concerns about our privacy practices, you may contact us at privacy@adjux.com
 
 ### Privacy Policy Changes
 
