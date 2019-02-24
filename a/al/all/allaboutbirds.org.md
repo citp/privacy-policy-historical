@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutbirds.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230070352id_/http%3A//www.birds.cornell.edu/Page.aspx%3Fpid%3D1635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutbirds.org privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224085627id_/http%3A//www.birds.cornell.edu/Page.aspx%3Fpid%3D1635) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -251,7 +251,7 @@ Turn off cookie controls: Relevant browser-based cookie controls are described i
 
 **Send "Do Not Track" signals:** Some browsers have incorporated "Do Not Track" (DNT) features that can send a signal to the websites you visit indicating you do not wish to be tracked. Because there is not yet a common understanding of how to interpret the DNT signal, our Services do not currently respond to browser DNT signals. You can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving marketing from us as described above.
 
-**Data portability:** Should you request it, we will provide you with an electronic file of your basic account information and the information you create on the spaces you under your sole control.
+**Data portability:** Should you request it, we will provide you with an electronic file of your basic account information and the information you create in the spaces under your sole control.
 
 ## How we transfer information we collect internationally
 
