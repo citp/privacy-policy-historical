@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multibit.org privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114235430id_/https%3A//multibit.org/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multibit.org privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224152156id_/https%3A//multibit.org/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Legal - Privacy Policy | MultiBit
 
