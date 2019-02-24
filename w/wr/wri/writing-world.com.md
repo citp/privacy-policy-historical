@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writing-world.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223022134id_/http%3A//www.writing-world.com/admin1/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writing-world.com privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224062622id_/https%3A//www.writing-world.com/admin1/privacy.shtml) for the most accurate reproduction.*
 
 # Writing-World.com - Privacy Statement
 
@@ -64,7 +64,7 @@ As indicated above, we will never share with _you_ , our advertisers, any person
 
 **If I ever sell or transfer this site** , advertising information is considered a business asset, and information about advertisers will be included in the sale or transfer.
 
-**Copyright © 2018 by Moira Allen. All rights reserved.**  
+**Copyright © 2019 by Moira Allen. All rights reserved.**  
 All materials on this site are the property of their authors and may not be reprinted  
 without the author's written permission, unless otherwise indicated.  
 **For more information please contact[ Moira Allen, Editor](mailto:editors@writing-world.com)**
