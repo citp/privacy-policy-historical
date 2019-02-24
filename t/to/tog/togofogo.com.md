@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the togofogo.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803191431id_/https%3A//www.togofogo.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the togofogo.com privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224073536id_/https%3A//www.togofogo.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Togofogo.com
 
@@ -12,8 +12,8 @@ We do use your contact information to send you offers based on your previous ord
  **2\. Use of Demographic and Profile Data**
 
 We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect fees owed; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.   
-In our efforts to continually improve our product and service offerings, we collect and analyse demographic and profile data about our users' activity on our website.   
-We identify and use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information.   
+In our efforts to continually improve our product and service offerings, we collect and analyze demographic and profile data about our users' activity on our website.   
+We identify and use your IP address to help diagnose problems with our server and to administer our website. Your IP address is also used to help identify you and to gather broad demographic information.   
 We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our site, providing you with content that we think you might be interested in--and to display content according to your preferences.
 
  **Cookies**
@@ -22,11 +22,11 @@ A "cookie" is a small piece of information stored by a Web server on a Web brows
 
  **3\. Sharing of personal information**
 
-We may share personal information with our other corporate entities and affiliates to: help detect and prevent identity theft, fraud and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.
+We may share personal information with our other corporate entities and affiliates to: help detect and prevent identity theft, fraud, and other potentially illegal acts; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one corporate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.
 
-We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
+We may disclose personal information if required to do so by law or in the good-faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
 
-Togofogo.com and its affiliates will share some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
+Togofogo.com and its affiliates will share some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity. Should such a transaction occur, that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information?
 
  **4\. Links to Other Sites**
 
@@ -47,4 +47,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
  **8\. Questions?**
 
-Questions regarding this statement should be directed to the following address: [contactus@togofogo.com](mailto:contactus@togofogo.com)
+Questions regarding this statement should be directed to the following address: [help@togofogo.com](mailto:help@togofogo.com)
