@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darkumbra.net privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513200522id_/https%3A//darkumbra.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkumbra.net privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224215258id_/https%3A//darkumbra.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DarkUmbra
 
@@ -156,3 +156,17 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 **Contacting Us**
 
 If there are any questions regarding this privacy policy, you may contact us using the Contact Us link at the bottom of every page on the website.
+
+### Third Parties
+
+**Google Analytics**
+
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this website, to prepare reports on its activities and share them with other Google services.
+
+**Spam Defense**
+
+The IPS Spam Defense Service passes the email address and IP address of the registering member to the service to determine the likelihood a registering account is a spam source.
+
+**reCAPTCHA V2**
+
+This site uses a CAPTCHA to ensure humans are performing certain actions. The CAPTCHA provider may set a session cookie and get information about your internet browser and device accessing this website.
