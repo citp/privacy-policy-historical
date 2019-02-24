@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flashfxp.com privacy policy that was archived on 2016-08-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160807224250id_/http%3A//www.flashfxp.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flashfxp.com privacy policy that was archived on 2019-02-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190224145249id_/https%3A//www.flashfxp.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr" lang="en" xml:lang="en"><head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,14 +10,14 @@
 
 <meta name="norton-safeweb-site-verification" content="tvugt8foorxb27jjxp74mawbsp9dha1o2yks9hnextt314qnh-s1ddifcoczf874xil07q1mkxtxeroc3ls4-quckcfwsx2wuvoibz74crdslvscnlcq9s5a2wl967h6">
 
-<link rel="shortcut icon" type="image/x-icon" href="https://www.flashfxp.net/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 <title>FlashFXP Privacy Policy</title>
 
-<link href="https://www.flashfxp.net/css/site.9281.css" rel="stylesheet" type="text/css">
+<link href="/css/site.9281.css" rel="stylesheet" type="text/css">
 <!--[if lt IE 9]>
 	<script type="text/javascript" src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->		
-<script type="text/javascript" async="" defer="" src="https://cdn.opensightsoftware.com/piwik/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.flashfxp.net/js/1.6.2/jquery.min.js"></script><script type="text/javascript" src="https://www.flashfxp.net/includes/js-global.js"></script><script type="text/javascript">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/1.6.2/jquery.min.js"></script><script type="text/javascript" src="/includes/js-global.js"></script><script type="text/javascript">
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -32,9 +32,15 @@ div.goog-te-gadget { color: transparent !important; height: 25px; }
 <script type="text/javascript">
 	$(document).ready(function(){
 				$('#login-trigger').click(function(){
-				var $lnk = window.location.hostname + window.location.pathname + window.location.search;
-				$lnk += (/\?/.test($lnk) ? '&' : '?') + 'a=login';
-				location.assign("https://" + $lnk )
+					$(this).next('#login-content').slideToggle();
+					$(this).toggleClass('active');					
+				
+					if ($(this).hasClass('active')) {
+						$(this).find('span').html('&#x25B2;');
+						$('#username').focus();
+					} else {
+						$(this).find('span').html('&#x25BC;');
+					}
 			})
 	  });
 </script>
@@ -44,7 +50,7 @@ div.goog-te-gadget { color: transparent !important; height: 25px; }
 <meta property="og:site_name" content="FlashFXP">
 <meta property="fb:app_id" content="160796387279094">
 <meta property="og:title" content="FlashFXP Privacy Policy">
-<meta property="og:url" content="http://www.flashfxp.com/privacy">
+<meta property="og:url" content="https://www.flashfxp.com/privacy">
 <table id="body_table" align="center" width="982" cellpadding="0" cellspacing="0">
 <tbody>
   <tr>
@@ -58,6 +64,21 @@ div.goog-te-gadget { color: transparent !important; height: 25px; }
 				Log in <span>▼</span>
 			</a>
 			<div id="login-content">
+				<form name="frmLoginPop" method="post" action="https://www.flashfxp.com/portal/" style="margin:0px;">
+				<input type="hidden" name="Action" value="Login">
+				<input type="hidden" name="From" value="https://www.flashfxp.com/privacy">
+				<input type="hidden" name="URL" value="https://www.flashfxp.com/privacy">
+				<input type="hidden" name="RETURN" value="1">
+					<fieldset id="inputs">
+						<input id="username" type="text" name="iniUser" placeholder="Your email address or username" title="Your email address or username" required="">   
+						<input id="password" type="password" autocomplete="off" name="iniPass" placeholder="Password" title="Password" required="">
+					</fieldset>
+					<fieldset id="actions">
+						<input type="submit" id="submit" value="Log in">
+						<label><input name="iniRem" id="iniRem" type="checkbox" value="Yes" checked="checked"> Keep me signed in<br>
+						</label>				
+					</fieldset>
+				</form>
 			</div>                     
 		</li>
 		<li id="btn2">
@@ -311,23 +332,4 @@ verified by <a href="http://www.trust-guard.com">Trust Guard</a></div>
 </tr>
 </tbody>
 </table>
-<script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(["setCookieDomain", "*.flashfxp.com"]);
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="https://www.flashfxp.com/piwik/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 1]);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://cdn.opensightsoftware.com/piwik/piwik.js'; s.parentNode.insertBefore(g,s);
-          })();
-</script>
-<noscript>
-	<p>
-		<img src="/piwik/piwik.php?idsite=1" style="border:0" alt="" />
-	</p>
-</noscript>
-
 </body></html>
