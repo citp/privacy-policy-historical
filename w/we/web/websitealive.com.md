@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitealive.com privacy policy that was archived on 2017-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170813040821id_/https%3A//www.websitealive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitealive.com privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224082709id_/https%3A//www.websitealive.com/privacy) for the most accurate reproduction.*
 
 # Live Chat, Chat Software, Live Chat Software, Website Live Chat | WebsiteAlive | www.websitealive.com
 
@@ -8,13 +8,13 @@ By using our the tools and services we provide, and visiting our web site such a
 
 This privacy policy applies to data collected at the corporate website and client log in section of [www.websitealive.com](https://www.websitealive.com/) as well as the data collected from our AliveChat application on our client’s sites. Please be aware that we act as a data processor in regards to the data collected on our client’s site, and process the data on behalf of our clients.
 
-AYU Technology Solutions, LLC complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. AYU Technology Solutions, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view AYU Technology Solutions, LLC’s certification, please visit <http://www.export.gov/safeharbor/>
+AYU Technology Solutions, LLC complies with the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States.
 
-AYU Technology Solutions, LLC complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. AYU Technology Solutions, LLC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+AYU Technology Solutions, LLC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 The Federal Trade Commission has jurisdiction over AYU Technology Solutions, LLC’s compliance with the Privacy Shield.
 
-### I. Pertains to Data collection on www.websitealive.com
+#### I. Pertains to Data collection on www.websitealive.com
 
 #### Personal Information Collected
 
@@ -56,7 +56,7 @@ We do not knowingly collect personal information or information from minors.
 
 #### How Can You Access and Correct Your Information?
 
-You may request access to correct, update or delete all your personal information that we collect online and maintain in our database by emailing [techsupport@websitealive.com](mailto:techsupport@websitealive.com). We will respond to your request to access within 30 days.
+You may request access to correct, update or delete all your personal information that we collect online and maintain in our database by emailing [techsupport@websitealive.com](mailto:techsupport@websitealive.com). We will respond to your request to access within 72 hours.
 
 #### Credit Card Usage, Aggregated Data and More
 
@@ -92,13 +92,13 @@ WebsiteAlive is liable under Privacy Shield if determined it is responsible for 
 
 Although WebsiteAlive will use all reasonable efforts to safeguard the confidentiality of the Registration Data, transmissions made by means of the Internet cannot be made absolutely secure. WebsiteAlive will have no liability for disclosure of Registration Data due to errors in transmission or unauthorized acts of third parties.
 
-### II. Pertains to AliveChat Application
+#### II. Pertains to AliveChat Application
 
 Our clients implement our AliveChat application on their website. We may collect personal information about their users “End Users” on behalf of our clients such as email, phone number and first and last name. AYU Technology Solutions, LLC has no direct relationship with the individuals whose personal information it processes. If you are a customer of one of our clients and would no longer like to be contacted by one of our clients that use our service, please contact the client that you interact with directly. We do not use this data for any other purposes than as defined in our relationship with our clients.
 
 We use other third parties to provide screen sharing and click to call services via our AliveChat application. When you sign up for these services, we will share your personal information as necessary for the third party to provide that service. Transfers to subsequent third parties are covered by the service agreements with our clients.
 
-AYU Technology Solutions, LLC has no direct relationship with the individuals whose personal information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate information should direct his query to the AYU Technology Solutions, LLC’s client (the data controller). If requested to remove data we will respond within 30 days.
+AYU Technology Solutions, LLC has no direct relationship with the individuals whose personal information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate information should direct his query to the AYU Technology Solutions, LLC’s client (the data controller). If requested to remove data we will respond within 72 hours.
 
 We will retain personal information we process on behalf of our clients for as long as needed to provide services to our client. AYU Technology Solutions, LLC will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -110,7 +110,7 @@ These third parties are prohibited from using your personal information for any 
 
 If you would like to inquire about personal information collected in a chat window on a separate site, please refer to the privacy policy on the site in question.
 
-### III. Pertains to [www.websitealive.com](https://www.websitealive.com/) and AliveChat application.
+#### III. Pertains to [www.websitealive.com](https://www.websitealive.com/) and AliveChat application.
 
 #### General Information
 
@@ -173,25 +173,15 @@ We will retain your information for as long as your account is active or as need
 
 In compliance with the Privacy Shield Principles, AYU Technology Solutions, LLC commits to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact AYU Technology Solutions, LLC at:
 
-**AYU Technology Solutions, LLC**  
-**ATTN: Legal Department**  
+AYU Technology Solutions, LLC  
+ATTN: Legal Department  
 2100 West Loop South, Suite 900  
 Houston, Texas 77027  
 Email: [privacy@websitealive.com](mailto:privacy@websitealive.com)
 
-AYU Technology Solutions, LLC has further committed to refer unresolved Privacy Shield complaints to EU Data Protection Authoritiesan alternative dispute resolution provider located in the EU. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm> for more information or to file a complaint. The services of EU Data Protection Authorities are provided at no cost to you.
+If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, you can also submit your complaint to PrivacyTrust, an independent third party. Visit <https://www.privacytrust.com/drs/ayutechnology> to file a complaint. There is no cost to you to use this service.
 
-You have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding Privacy Shield compliance that are not resolved by the above mechanisms. For additional information please go to <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
-
-In compliance with the U.S. - Swiss SafeHarbor Principles, AYU Technology Solutions, LLC commits to resolve complaints about our collection or use of your personal information. Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact AYU Technology Solutions, LLC at:
-
-**AYU Technology Solutions, LLC**  
-**ATTN: Legal Department**  
-2100 West Loop South, Suite 900  
-Houston, Texas 77027  
-Email: [privacy@websitealive.com](mailto:privacy@websitealive.com)
-
-AYU Technology Solutions, LLC has further committed to refer unresolved U.S.-Swiss SafeHarbor complaints to JAMS located in the US. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information or to file a complaint. The services of JAMS are provided at no cost to you. 
+Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
 
 #### Notification of Privacy Policy Changes
 
@@ -199,9 +189,10 @@ We may update this privacy policy to reflect changes to our information practice
 
 #### Contacting Us
 
-**AYU Technology Solutions, LLC**  
-**ATTN: Legal Department**  
+AYU Technology Solutions, LLC  
+ATTN: Legal Department  
 2100 West Loop South, Suite 900  
 Houston, Texas 77027  
 Email: [privacy@websitealive.com](mailto:privacy@websitealive.com)  
-Effective Date: 10/11/2016
+Effective Date: 10/11/2016  
+Last Updated: 5/21/2018
