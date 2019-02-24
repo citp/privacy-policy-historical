@@ -1,33 +1,177 @@
-> *The following text is extracted and transformed from the simutechgroup.com privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609072054id_/http%3A//www.simutechgroup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simutechgroup.com privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224102340id_/https%3A//www.simutechgroup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# SimuTech Group Privacy Policy
 
-**SimuTech Group Privacy Policy**
+#### Effective Date
 
-This Privacy Policy was last modified on August 21, 2015.
+Effective: November 30, 2011 – Last modified: August 8, 2018
 
-SimuTech Group operates [http://www.simutechgroup.com](http://www.simutechgroup.com/) (the "Site"). This page informs you of our policies regarding the collection, use and disclosure  
-of Personal Information we receive from users of the Site.
+SimuTech Group, Inc. takes the responsibility of protecting personally identifiable information (PII) very seriously and acts in accordance with United States and Canada regulations and policies regarding the protection of personally identifiable information (PII), Sensitive Data, and Protected Data as well as the prevention of unwanted and accidental loss of data and/or data breach.
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
+## What personal information do we collect?
 
-**Information Collection And Use**  
-While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name ("Personal Information").
+Email addresses, contact information, first and last name, title, company, department, mailing address, billing address, phone number, as well as other relevant information necessary to better provide software and services to our customers.
 
-**Log Data**  
-Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+## When do we collect information?
 
-**Cookies**  
-Cookies are files with small amount of data, which may include an anonymous unique identifier.  
-Cookies are sent to your browser from a web site and stored on your computer's hard drive.
+We collect information from you when you visit our website, register for a class, subscribe to a newsletter, respond to a survey, contact our sales or technical teams, fill out a form or enter information on our site.
 
-Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
+## How do we use your information?
 
-**Security**  
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+We may use the information we collect from you when you register, sign up for our newsletter, respond to marketing communication, fill out a form, surf the website, or use certain other site features in the following ways:
 
-**Changes To This Privacy Policy**  
-SimuTech Group may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
+  * __To allow us to better service you in responding to your customer service requests.
+  * __When utilizing our website:
+    * To personalize your experience on our website.
+    * To improve our website.
+    * To administer contests, promotions, or a survey.
+    * To send periodic emails regarding our products and services.
 
-**Contact Us  
-** If you have any questions about this Privacy Policy, please contact us.
+
+
+## How do we protect visitor information?
+
+Safeguards in place include, but are not limited to the following:
+
+  * __We utilize encryption and access control methods for data in transit and data at rest.
+  * __We do not store credit card or related information on our systems
+  * __Our website and servers are scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+  * __We use regular malware scanning.
+
+
+
+The security of your personal information is important to us, but remember that no method of transmission over the internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+## Do we use “cookies”?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services.
+
+ **We use cookies to:**
+
+  * __Understand and save user’s preferences for future visits.
+  * __Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+
+
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through settings in your browser (like Internet Explorer, Firefox or Google Chrome). Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+
+If you disable cookies, some website features will be disabled and you may not be able to use some portions of our website.
+
+## Third Party Disclosure
+
+No, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+
+However, non-personally identifiable web site visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+## Google
+
+We have implemented the following:
+
+  * __Google Analytics
+  * __Pardot - marketing automation software for forms and various landing pages
+
+
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) or other third-party identifiers together to compile data regarding user interactions as they relate to our website.
+
+Like many site operators, we collect non-personal information that your browser sends whenever you visit our Site ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our website that you visit, the time and date of your visit, the time spent on those pages and other statistics. This aggregate data helps us understand your preferences based on previous or current site activity, which enables us to provide you with an improved experience.
+
+## California Online Privacy Protection Act
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: <https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/>
+
+**According to CalOPPA we agree to the following:**
+
+  * __Users can visit our site anonymously
+  * __Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+  * __Our Privacy Policy link includes the word “Privacy”, and can be easily be found on the page specified above.
+
+
+
+**Users will be notified of any privacy policy changes:**
+
+  * __Via the last modified date at top of our Privacy Policy Page
+
+
+
+**Users are able to change their personal information:**
+
+  * __By emailing us with your requested changes at
+
+
+
+## How does our site handle do not track signals?
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+## Does our site allow third party behavioral tracking?
+
+It’s also important to note that we do not allow third party behavioral tracking.
+
+## COPPA (Children Online Privacy Protection Act)
+
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under 13.
+
+## Fair Information Practices
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+  * __We will notify registered users via email within 7 business days
+  * __We will notify the users via in site notification within 7 business days
+
+
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+## CAN SPAM Act
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **We collect your email address in order to:**
+
+  * __Send information, respond to inquiries, and/or other requests or questions.
+  * __Organize class and workshop attendance and to send information and updates pertaining to classes
+  * __We may also send you additional information related to products and/or services.
+
+
+
+**To be in accordance with CANSPAM we agree to the following:**
+
+  * __NOT use false, or misleading subjects or email addresses
+  * __Identify the message as an advertisement in some reasonable way
+  * __Include the physical address of our business or site headquarters
+  * __Monitor third party email marketing services for compliance, if one is used.
+  * __Honor opt-out/unsubscribe requests quickly
+  * __Allow users to unsubscribe by using the link at the bottom of each email
+
+
+
+**If at any time you would like to unsubscribe from receiving future emails:**
+
+  * __email us at
+  * __follow the instructions at the bottom of each email
+
+
+
+and we will promptly remove you from **ALL** correspondence.
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+ **SimuTech Group**  
+[https://www.simutechgroup.com](https://www.simutechgroup.com/)  
+Main address:  
+1800 Brighton Henrietta Town Line Rd.  
+Rochester, NY 14623  
+United States  
+Phone Number: (585) 424-2010  
+E-mail: 
