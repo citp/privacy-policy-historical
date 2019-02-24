@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thekewlshop.myshopify.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315053248id_/https%3A//www.thekewlshop.com/pages/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekewlshop.myshopify.com privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224145954id_/https%3A//www.thekewlshop.com/pages/security-privacy) for the most accurate reproduction.*
 
-# Security & Privacy – The Kewl Shop
+# Security & Privacy | The Kewl Shop
+
+Updated 25 May 2018
 
 This policy sets out how The Kewl Shop uses and protects any information that you give The Kewl Shop when you use this website.
 
@@ -17,7 +19,7 @@ We may collect the following information:
 
   * name and job title
   * contact information including email address
-  * demographic information such as postcode, preferences and interests
+  * demographic information such as postcode, preferences, and interests
   * other information relevant to customer surveys and/or offers
 
 
@@ -55,6 +57,12 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to the above address.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+
+##### 
+
+##### Currency Conversion
+
+By using our website, you (the visitor) agree to allow third parties to process your IP address, in order to determine your location for the purpose of currency conversion. You also agree to have that currency stored in a session cookie in your browser (a temporary cookie which gets automatically removed when you close your browser). We do this in order for the selected currency to remain selected and consistent when browsing our website so that the prices can convert to your (the visitor) local currency.
 
 ##### **Display Advertising**
 
