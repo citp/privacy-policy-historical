@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adjux.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812134937id_/http%3A//www.adjux.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjux.com privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224084321id_/http%3A//www.adjux.com/privacy.html) for the most accurate reproduction.*
 
 # Adjux | Internet Advertising Network
 
