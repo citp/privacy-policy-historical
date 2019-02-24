@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onelinefun.com privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823004752id_/http%3A//onelinefun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelinefun.com privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224085354id_/https%3A//onelinefun.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - OneLineFun.com
-
-* * *
 
 **When do we collect information?**
 
@@ -59,8 +57,4 @@ When it comes to the collection of personal information from children under 13 p
 
 
 
-Last edited: 2016-10-24
-
-* * *
-
-* * *
+Last edited: 2018-04-23
