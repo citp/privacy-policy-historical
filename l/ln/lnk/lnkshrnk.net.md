@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lnkshrnk.net privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224115618id_/http%3A//lnkshrnk.net/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lnkshrnk.net privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224014308id_/http%3A//lnkshrnk.net/PrivacyPolicy) for the most accurate reproduction.*
 
 # LinkShrink.net - Earn money sharing shrinked links!
 
@@ -10,7 +10,7 @@ This Privacy Policy describes how Linkshrink collects, uses, and shares informat
 
 We may collect and receive information about users of our Service ("users," "you," or "your") from various sources, including: (i) information you provide through your user account if you register for the Service and (ii) your use of the Service.
 
-We recommend that you read this Privacy Policy in full to ensure you are fully informed. If you have any questions about this Privacy Policy or Linkshrink’s data collection, use, and disclosure practices, please do not hesitate to [contact us](https://web.archive.org/web/20181224115618id_/http%3A//lnkshrnk.net/contact).
+We recommend that you read this Privacy Policy in full to ensure you are fully informed. If you have any questions about this Privacy Policy or Linkshrink’s data collection, use, and disclosure practices, please do not hesitate to [contact us](https://web.archive.org/web/20190224014308id_/http%3A//lnkshrnk.net/contact).
 
 This Privacy Policy may be modified from time to time, so please review it frequently. Changes to this Privacy Policy will be posted on our website and we will notify you through a notice.
 
@@ -66,7 +66,7 @@ You may access other third-party services through the Service, for example by cl
 
 **Data Retention**
 
-We retain personal information we collect from you when we have an ongoing legitimate business. If we have no ongoing legitimate business for the last 1 year, your personal information may be permanently deleted. Publisher account data may also be deleted when requested by you. This may be done by [Contacting Us](https://web.archive.org/web/20181224115618id_/http%3A//lnkshrnk.net/contact).
+We retain personal information we collect from you when we have an ongoing legitimate business. If we have no ongoing legitimate business for the last 1 year, your personal information may be permanently deleted. Publisher account data may also be deleted when requested by you. This may be done by [Contacting Us](https://web.archive.org/web/20190224014308id_/http%3A//lnkshrnk.net/contact).
 
 **Security**
 
@@ -82,4 +82,4 @@ If you are a registered user, you may request to receive your personal informati
 
 **Contact Us**
 
-If you have any questions or concerns about this Privacy Policy, please feel free to [Contact Us](https://web.archive.org/web/20181224115618id_/http%3A//lnkshrnk.net/contact).
+If you have any questions or concerns about this Privacy Policy, please feel free to [Contact Us](https://web.archive.org/web/20190224014308id_/http%3A//lnkshrnk.net/contact).
