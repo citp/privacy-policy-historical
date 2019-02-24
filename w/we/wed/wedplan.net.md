@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedplan.net privacy policy that was archived on 2018-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180708015910id_/https%3A//wedfolio.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedplan.net privacy policy that was archived on 2019-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190224183108id_/https%3A//wedfolio.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WedFolio
 
