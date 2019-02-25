@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymemory.co.uk privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125035852id_/https%3A//www.mymemory.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymemory.co.uk privacy policy that was archived on 2019-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190225122949id_/https%3A//www.mymemory.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyMemory
 
