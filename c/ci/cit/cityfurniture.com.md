@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityfurniture.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224104137id_/https%3A//www.cityfurniture.com/privacy_page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityfurniture.com privacy policy that was archived on 2019-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190225184505id_/https%3A//www.cityfurniture.com/privacy_page) for the most accurate reproduction.*
 
 # City Furniture | Customer Care | Privacy Policy
 
