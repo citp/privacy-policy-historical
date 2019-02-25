@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovehoney.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919201000id_/https%3A//www.lovehoney.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovehoney.com privacy policy that was archived on 2019-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190225040923id_/https%3A//www.lovehoney.com/help/privacy) for the most accurate reproduction.*
 
 # What is your privacy policy?
 
