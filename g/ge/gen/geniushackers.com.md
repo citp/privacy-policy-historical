@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geniushackers.com privacy policy that was archived on 2018-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180716090308id_/https%3A//unblockeverysite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniushackers.com privacy policy that was archived on 2019-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190225130626id_/https%3A//unblockeverysite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Unblock YouTube & Facebook
 
