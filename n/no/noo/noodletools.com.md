@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noodletools.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825155040id_/https%3A//www.noodletools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodletools.com privacy policy that was archived on 2019-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190225161119id_/https%3A//www.noodletools.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -146,6 +146,10 @@ Under GDPR, NoodleTools, Inc. stands behind your fundamental rights regarding ho
 #### Data Protection and Control
 
 NoodleTools, Inc. processes Personal Data as both a Processor and as a Controller, as defined in the EU Directive and the GDPR. NoodleTools, Inc. has a “Data Protection Officer” who is responsible for matters related to privacy and data protection. The Data Protection Officer is Damon Abilock, who can be reached per the contact information listed at the bottom of this agreement.
+
+#### EU Personal Data: Data Processing Addendum
+
+With respect to the processing of personal data relating to data subjects located in the European Economic Area (including the United Kingdom as of the Effective Date of this Privacy Policy) by NoodleTools, Inc. solely on behalf of the End Customer, the terms of the [Data Processing Addendum](https://www.noodletools.com/dpa/) shall apply.
 
 ### Terms of Service
 
