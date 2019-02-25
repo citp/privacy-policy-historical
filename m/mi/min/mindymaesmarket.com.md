@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindymaesmarket.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611023359id_/https%3A//mindymaesmarket.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindymaesmarket.com privacy policy that was archived on 2019-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190225015917id_/https%3A//mindymaesmarket.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mindy Mae's Market
+# Privacy Policy – Mindy Mae's Market
 
 PRIVACY STATEMENT
 
