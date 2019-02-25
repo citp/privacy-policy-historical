@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listingsca.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823181956id_/http%3A//listingsca.com/common/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listingsca.com privacy policy that was archived on 2019-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190225233054id_/http%3A//listingsca.com/common/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Listings Canada
 
@@ -57,4 +57,4 @@ Press the Back Button on your browser to return to the previous page.
 
 [Home](http://listingsca.com/) | [Jobs](http://www.careerbuilder.ca/intl/landingpage.aspx?lr=int_calistingsca&siteID=int_calistingsca03) | [Add/Modify Listing](http://listingsca.com/common/links/) | [Photo Gallery](http://listingsca.com/galleryindex.asp) | [Maps](http://listingsca.com/mapmenu.asp) | [Contact](http://listingsca.com/common/contact.asp) | [About Us](http://listingsca.com/common/aboutus.asp) | [USA](http://listingsus.com/) [Privacy Statement](http://listingsca.com/common/privacy.asp)
 
-This site is operated by 2018 [Cedar Lake Software](http://cedarlakesoftware.ca/)
+This site is operated by 2019 [Cedar Lake Software](http://cedarlakesoftware.ca/)
