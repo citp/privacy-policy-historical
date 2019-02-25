@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwest-botanicals.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727104719id_/https%3A//www.starwest-botanicals.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwest-botanicals.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226005415id_/https%3A//www.starwest-botanicals.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
