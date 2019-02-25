@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlstream.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122224516id_/http%3A//www.htmlstream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlstream.com privacy policy that was archived on 2019-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190225173513id_/https%3A//htmlstream.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,6 +16,6 @@ Htmlstream may release personal information if Htmlstream is required to by law,
 
 If we change our privacy policy we will post those changes on this page. Registered users will be sent an email that outlines changes made to the privacy policy.
 
-Have questions or suggestions? [Contact Us](http://www.htmlstream.com/contact-us)
+Have questions or suggestions? [Contact Us](https://htmlstream.com/contact-us)
 
 ## Subscribe to get the latest Updates, Products and Freebies
