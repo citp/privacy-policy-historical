@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptoprepair101.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606123551id_/http%3A//www.laptoprepair101.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptoprepair101.com privacy policy that was archived on 2019-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190225061935id_/http%3A//www.laptoprepair101.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
