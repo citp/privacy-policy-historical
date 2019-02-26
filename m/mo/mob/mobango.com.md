@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobango.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620015851id_/http%3A//www.mobango.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobango.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226205626id_/https%3A//www.mobango.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -10,4 +10,4 @@ Your privacy is very important to us. That is why privacy protection will ALWAYS
 
 Mobango will never share, rent or sell your information to third parties without your permission. Although unlikely, Mobango may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. 
 
-Mobango may offer content (e.g., contests, sweepstakes, or promotions) sponsored by, or co-branded with, identified third parties. By virtue of these relationships, the third party may obtain personally identifiable information voluntarily submitted to participate in the sites. This Privacy Policy may be changed at any time. Please refer to the section [Terms Of Services](http://www.mobango.com/termsofservice/) (TOS) for more detailed information about how to use Mobango. 
+Mobango may offer content (e.g., contests, sweepstakes, or promotions) sponsored by, or co-branded with, identified third parties. By virtue of these relationships, the third party may obtain personally identifiable information voluntarily submitted to participate in the sites. This Privacy Policy may be changed at any time. Please refer to the section [Terms Of Services](https://www.mobango.com/termsofservice/) (TOS) for more detailed information about how to use Mobango. 
