@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frequencycheck.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907053737id_/https%3A//www.frequencycheck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frequencycheck.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226081925id_/https%3A//www.frequencycheck.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FrequencyCheck
 
