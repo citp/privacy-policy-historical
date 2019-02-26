@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the indiaonline.in privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629075246id_/http%3A//www.indiaonline.in/com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaonline.in privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226233910id_/http%3A//www.indiaonline.in/com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - IndiaOnline.in
 
 **  
-IndiaOnline.in - An Overview**  
+IndiaOnline.in - An Overview**
+
 IndiaOnline.in has created this privacy statement in order to demonstrate our firm commitment to privacy. Throughout the cyberspace we want to contribute towards providing a safe and secure environment,safe information gathering and dissemination practices for all our sites. This policy applies only to IndiaOnline.in and its [partner websites](http://www.panindia.in/portals/) which carry the IndiaOnline.in brand and not to other companies or organisations' websites to which we link.
 
 **Information Gathering And Usage**
