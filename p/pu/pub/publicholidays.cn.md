@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicholidays.cn privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203005750id_/https%3A//publicholidays.cn/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicholidays.cn privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226110909id_/https%3A//publicholidays.cn/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PublicHolidays.cn
 
@@ -14,24 +14,11 @@ There is no “account” feature on this website and therefore there is no sign
 
 A cookie is a small piece of information that is placed on your computer when you visit our website. We use these cookies to measure how many people use our website and the overall website performance, protect our systems from fraudulent or malicious traffic, and enable the display of advertising from our partners.
 
-These partners may also collect, receive and use personal data and use cookies of their own to deliver personalised ads.
-
-For users within the European Economic Area (EEA), the following is a list of the 10 advertising partners we work with in your region and links to their privacy policies:
-
-[Google](https://policies.google.com/technologies/partner-sites)  
-[AdRoll, Inc.](https://www.adrollgroup.com/privacy)  
-[Conversant](https://www.conversantmedia.eu/legal/privacy-policy)  
-[Criteo](https://www.criteo.com/privacy/)  
-[Index Exchange](https://www.indexexchange.com/privacy/)  
-[PubMatic](https://pubmatic.com/privacy-policy/)  
-[Rubicon Project](http://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/)  
-[Sojern](https://www.sojern.com/privacy/product-privacy-policy/)  
-[The Trade Desk](https://www.thetradedesk.com/general/privacy-policy)  
-[Travel Audience](https://travelaudience.com/product-privacy-policy/)
+These partners may also collect, receive and use personal data and use cookies of their own to deliver personalised ads. You can view a full list of cookies set by this website and our partners by viewing our [Cookies](https://web.archive.org/cookies/) page.
 
 **Acceptance of Cookies**
 
-By continuing your navigation of this website, you accept that cookies will be set and collected. If you are within the EEA, you are presented with an opportunity on your first visit to this website to accept or decline cookies. EEA users also always have the choice to manage these cookies at any time by using our cookie preferences dialog.
+By continuing your navigation of this website, you accept that cookies will be set and collected. If you are within the EEA, you always have the choice to manage these cookies at any time by changing your preferences on our [Cookies](https://web.archive.org/cookies/) page.
 
 A small number of cookies that we set are considered  strictly necessary for the proper functioning of our website. These include:
 
@@ -39,9 +26,7 @@ A small number of cookies that we set are considered  strictly necessary for th
 
 – Cookies that are set to help protect against malicious or fraudulent website traffic
 
-– Cookies that are used for ad measurement and fraud protection
-
-You cannot opt-out of these cookies using our cookie preferences dialog. If you do still wish to opt-out of these necessary cookies, you can do so by managing cookies at the browser-level. More information about how to do this is provided below.
+These necessary cookies are listed under “Necessary” on our [Cookies](https://web.archive.org/cookies) page, however you cannot opt-out of these cookies using our cookie consent tool. If you do still wish to opt-out of these necessary cookies, you can do so by managing cookies at the browser-level. More information about how to do this is provided below.
 
 **Managing Cookies at the Browser-level**
 
@@ -62,7 +47,7 @@ On the Internet, each device for transmitting data requires a unique address, th
 
 **2\. How Can You Access and Update Your Personal Information?**
 
-Public Holidays Global does not retain any personal identifiable information, except as specified in “IP Addresses for Service Integrity and Security” above.
+Public Holidays Global does not retain any personal identifiable information, except as specified in “IP Addresses for Service Integrity and Security” above. You can choose to opt out of cookies at any time by visiting our [Cookies](https://web.archive.org/cookies) page, or by managing cookies at the browser-level (see “Managing Cookies at the Browser-level” above).
 
 **3\. Other Websites**
 
@@ -72,7 +57,7 @@ Our website may, from time to time, contain links to the websites of advertisers
 
 If we change our Privacy Policy, we will post the changes on this page. Please check the website regularly for any changes to this policy.
 
-_This Privacy Policy was last updated on 27 September 2018._
+_This Privacy Policy was last updated on 23 May 2018._
 
 **5\. Identity of Public Holidays Global**
 
