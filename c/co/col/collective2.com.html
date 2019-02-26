@@ -1,234 +1,408 @@
-<!--The following is the downloaded HTML source of the collective2.com privacy policy that was archived on 2010-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125220215id_/http%3A//www.collective2.com/static/info/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the collective2.com privacy policy that was archived on 2019-02-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190226055005id_/https%3A//trade.collective2.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Collective2</title>
-    <meta http-equiv="Pragma" content="no-cache">
-	<meta http-equiv="Expires" content="-1">
-    <meta name="description" content="Collective2 is an objective, third-party reviewer of trading strategies. Use our tools to find the strategy right for you.">
-    
-    <meta name="keywords" content="trading system, automated trading">
-    <meta name="robots" content="index, follow">
-    <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
-    <meta name="language" content="english">
-
-    <link rel="icon" type="image/gif" href="/favicon.ico">
-    <link rel="SHORTCUT ICON" href="/favicon.ico">
-
-
-    <link rel="stylesheet" href="/css/stylelight.css" type="text/css">
-
-
-<link href="/css/themes/default.css" rel="stylesheet" type="text/css">
-<link href="/css/themes/alphacube.css" rel="stylesheet" type="text/css">
-<link href="/css/tablekit/style.css" rel="stylesheet" type="text/css">
-
-
-
-
-<!-- Note that broker styles are now overriding any that are specified per-app! -->
-
-
-
-
-
-<!--[if IE]><link rel="stylesheet" href="/css/iefixes.css" type="text/css" /><![endif]-->
-<!--[if IE 6]><link rel="stylesheet" href="/css/ie6fixes.css" type="text/css" /><![endif]-->
-<!--[if lt IE 8]><link rel="stylesheet" href="/css/ie7fixes.css" type="text/css" /><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" href="/css/ie8fixes.css" type="text/css" /><![endif]-->
-
-<script src="/scripts/scriptlight.js" type="text/javascript"></script>
-<script src="/scripts/popup.js" type="text/javascript"></script>
-       
-<script src="/js/dw_event.js" type="text/javascript"></script>
-<script src="/js/dw_viewport.js" type="text/javascript"></script>
-<script src="/js/dw_tooltip.js" type="text/javascript"></script>
-<script src="/js/prototype.js" type="text/javascript"></script>
-<script src="/js/scriptaculous.js" type="text/javascript"></script>
-<script src="/js/window.js" type="text/javascript"></script>
-
-<script src="/js/dashboardscripts.js" type="text/javascript"></script>
-
-<script src="/js/browserDetect.js" type="text/javascript"></script>
-<script src="/js/splash.js" type="text/javascript"></script>
-<script src="/js/tablekit.js" type="text/javascript"></script>
-<script src="/js/c2systems.js" type="text/javascript"></script>
-
-
-
-<script type="text/javascript">
-    var SITE_NAME="Collective2";
-    var SITE_BASE="https://collective2.com";
-    var SITE_BASE_SSL="https://collective2.com";
-    var SECURE_SITE_BASE="https://collective2.com";
-    var CGI='https://collective2.com/cgi-perl';
-    var CGIAPP="https://collective2.com/cgi-perl/static.mpl";
-    var ns4 = (document.layers) ? true : false;
-    var ie4 = (document.all && !document.getElementById) ? true : false;
-    var ie5 = (document.all && document.getElementById) ? true : false;
-    var ns6 = (!document.all && document.getElementById) ? true : false;
-    var browserString = BrowserDetect.browser + ' ' + BrowserDetect.version;
-    var http;
-    var pendURL=new Array();
-    var messageStack=new Array();
-    var messageStackHTTPs=new Array();
-    var gDisposalEvents=new Array();
-    var gTipShown=new Array();
-    var gWaitingForURL=0;
-    var gsess='521596233051053743339863371287002';
-    var session='521596233051053743339863371287002';
-    var gRespondingApp='/cgi-perl/dashreceiver.mpl';
-    var gLastKeyPressDate=0;
-    var gUnprocKeypress=0;
-    var gLastSearchKeyPressDate=0;
-    var gUnprocSearchKeypress=0;
-    var gPersonID=0;
-    var gWatchList=new Array();
-    var gRecentLooks=new Array();
-    var gWLdrag=new Array();
-    var gDraggables=new Array();
-    var gMouseDownDate;
-    var gLastXClick=0;
-    var gV='';
-    var gPopUpSid=0;
-    var preloadNext0;
-    var preloadNext1;
-    var gVisibleTicker=0;
-    var gFreezeTicker=0;
-    var gDragTicker=0;
-    var gFreezePoll=0;
-    var gAdWaitStart=0;
-    var gEventStack=new Array();
-    var gVisibleEventStack=new Array();
-    var gDeltaIntervalms=8000;
-    var gDeltaClass='forum';
-    var gPopUpSid=0;
-    var gPageLock=0;
-    var gNoWatchListTop=0;
-    
-    gScriptName='static.mpl';
-    
-    pendURL.push( '/cgi-perl/dashreceiver.mpl?want=warnloadNonSyspage' );
-
-
-function dragndropInit()
-{
-
-    //draggable
-    
-    
-
-    //droppable
-    Droppables.add('watchlistdroptarget',{
-accept: ['favoriteChart','reportChart','reccontainer','reccontainerlast','verticaltilerl','verticaltilerlON','dashsys','revitem','gainitem','gainitemON','loseitem','loseitemON','forsys','forsysON','innerTickerSponsorDROP','featuredSystemBlk','searchsysitem','wltileclass','findertile','ldrUP','ldrDOWN','ldrNEUT','mysysitem','sysbc','leftnavsys','gridsys','tickChart','tickerAdChart'],
-onDrop:  function(element) 
-{
-   var sid=element.id.substring(6);
-   var url=gRespondingApp+'?want=addtowatchlist&sid='+sid+'&noTop='+gNoWatchListTop;
-   pendURL.push(url);
-  
-   
-   if (jIsInList(sid,gWatchList))
-   {
-       return (false);
-   }
-   else
-   {
-       setTimeout('glowdiv(\'wltileframe'+sid+'\');',800);
-       gWatchList.push(sid);
-       return (true);
-   }
-},
-onHover: function(element)
-{
-    var sid=element.id.substring(6);
-    document.getElementById('watchlistcontainer').style.border='1px #F87500 solid';
-},
-onUnhover: function(element)
-{
-    var sid=element.id.substring(6);
-    document.getElementById('watchlistcontainer').style.border='1px white solid';
-}
-});
-
-    
-
-}
-
-
+<!DOCTYPE html><html><head>
+	<!-- Google Tag Manager -->
+	
+<script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script async="" src="//amplify.outbrain.com/cp/obtp.js" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TSXL5W7"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TSXL5W7');</script>
+<!-- End Google Tag Manager -->
+	<!-- Meta tags -->
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="Collective2">
+	
+		<!-- FavIcon -->
+	<link type="image/x-icon" rel="shortcut icon" href="https://trade.collective2.com/wp-content/themes/collective2/favicon.ico">
+	<link type="image/x-icon" rel="icon" href="https://trade.collective2.com/wp-content/themes/collective2/favicon.ico">
+	<!-- Facebook Pixel -->
+	<script data-obct="" type="text/javascript">
+	/** DO NOT MODIFY THIS CODE**/
+ !function(_window, _document) {
+   var OB_ADV_ID='006fde98239776815bd93334e36a3b633f';
+   if (_window.obApi) {var toArray = function(object) {return Object.prototype.toString.call(object) === '[object Array]' ? object : [object];};_window.obApi.marketerId = toArray(_window.obApi.marketerId).concat(toArray(OB_ADV_ID));return;}
+   var api = _window.obApi = function() {api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);};api.version = '1.1';api.loaded = true;api.marketerId = OB_ADV_ID;api.queue = [];var tag = _document.createElement('script');tag.async = true;tag.src = '//amplify.outbrain.com/cp/obtp.js';tag.type = 'text/javascript';var script = _document.getElementsByTagName('script')[0];script.parentNode.insertBefore(tag, script);}(window, document);
+obApi('track', 'PAGE_VIEW');
 </script>
-</head>
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+	<link rel="stylesheet" href="https://trade.collective2.com/wp-content/themes/collective2/style.css">
+	<link rel="stylesheet" href="https://trade.collective2.com/wp-content/themes/collective2/style-inner.css">
+	<link rel="stylesheet" media="screen and (max-width: 1024px)" href="https://trade.collective2.com/wp-content/themes/collective2/style-responsive.css">
+  
+<!-- This site is optimized with the Yoast SEO plugin v9.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Privacy Policy – Collective2</title>
+<link rel="canonical" href="https://trade.collective2.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy – Collective2">
+<meta property="og:description" content="Privacy Policy This page was last updated on May 24, 2018. What This Privacy Policy Covers This policy covers how Collective2 treats personal information that Collective2 collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, IP address, or phone number, and that is not otherwise">
+<meta property="og:url" content="https://trade.collective2.com/privacy-policy/">
+<meta property="og:site_name" content="Collective2">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Privacy Policy This page was last updated on May 24, 2018. What This Privacy Policy Covers This policy covers how Collective2 treats personal information that Collective2 collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, IP address, or phone number, and that is not otherwise">
+<meta name="twitter:title" content="Privacy Policy – Collective2">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://trade.collective2.com/","sameAs":[],"@id":"https://trade.collective2.com/#organization","name":"Collective2","logo":"https://trade.collective2.com/wp-content/uploads/2016/08/4c_transparentpng.png"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://trade.collective2.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://trade.collective2.com/privacy-policy/","name":"Privacy Policy"}}]}</script>
+<!-- / Yoast SEO plugin. -->
 
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="wp-block-library-css" href="https://trade.collective2.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3" type="text/css" media="all">
+		<style type="text/css" id="wp-custom-css">
+			.comp-description .table-compatible-brokers tr>td:nth-child(6) {
+    background: -moz-linear-gradient(left, transparent 0%, rgba(0,0,0,0.05) 100%);
+    background: -webkit-linear-gradient(left, transparent 0%, rgba(0,0,0,0.05) 100%);
+    background: linear-gradient(to right, transparent 0%, rgba(0,0,0,0.05) 100%);
+}
 
-<!--start NOT invisible-->
+.comp-description .table-compatible-brokers tr>td:nth-child(5) {
+	background: none;
+background-color: #fff;
+}		</style>
+	</head>
+<body class="page-template page-template-page-simple page-template-page-simple-php page page-id-483">
+<!-- Google Tag Manager (noscript) -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSXL5W7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Tracking Analytics -->
+<!-- Linkedin Analytics -->
+<script type="text/javascript"> _linkedin_data_partner_id = "26006"; </script>
+<script type="text/javascript"> (function(){var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(); </script><!-- Small Critical CSS -->
 
-<body onload="initsimplepage(1);">
-<!-- skip navigation -->
-<div id="skipNav">
-	<ul title="Accessibility options">
-        <li><a href="#menuMain">Skip to main menu</a></li>
-		<li><a href="#columnLeft">Skip to menu</a></li>
-		<li><a href="#content">Skip to main content</a></li>
-	</ul>
-</div>
-<!-- end skip navigation -->
-
-<div id="notify_bar" style="display:none">
-<div id="notify_bar_content"></div>
-<div id="notify_bar_cancel" style="display:none;" onclick="hide_notify();">X</div>
-</div>
-
-
-
-
-	<div id="system_perf" style="display:none">
-	Receive a free weekly performance summary for <span id="system_perf_name"></span>?
-	</div>
-
-	<div id="system_perf_cancel" style="display:none;">
-	You are signed up to receive a Weekly Performance Report for <span id="system_perf_name_4"></span>
-	&nbsp;
-	<a href="#" onclick="pendURL.push('/cgi-perl/utility/ajax_util.mpl?rm=cancelSystemPerf&amp;system_id=' + gSystemID );">Click here to cancel</a>
-	</div>
-
-	<div id="notify_content" style="display:none">
-		<div class="tutorial">
-		
-		
-		<table><tbody><tr><td valign="top"><div style="padding:10px 0 0 10px;"><img src="/images/perf_report.gif" alt="Weekly Performance Report"></div></td><td valign="top">
-		
-		<div style="padding-left:10px;padding-right:10px;font-size:80%;">
-			<p>Sign up for a free Weekly Performance Report for <b><span id="system_perf_name_2"></span></b>. We'll email you each week and tell you how the strategy is performing, and any other news about the strategy.</p>
-
-			<div id="system_perf_email">
-			<p>Please enter your email address: 
-			</p><form>
-			<input type="text" id="perf_email_address">
-			</form>
+<header class="site-header-2">
+	<div class="_wrapper c2g-wrapper">
+		<div class="site-nav-2" data-site-nav="">
+			<span class="_menu-trigger" data-site-nav__trigger="">
+				<span class="_bar"></span>
+				<span class="_bar"></span>
+				<span class="_bar"></span>
+			</span>
+			<div class="site-nav-2-panel" data-site-nav__panel="">
+				<div class="_panel-wrapper">
+					<nav class="_nav">
+						<ul class="_nav-main">
+							<li><a href="https://trade.collective2.com">Home</a></li>
+							<li><a href="https://trade.collective2.com/howc2works/">How C2 Works</a></li>
+							<li><a href="https://trade.collective2.com/">Investors</a></li>
+							<li><a href="https://trade.collective2.com/manage/">Strategy Managers</a></li>
+							<li><a href="https://trade.collective2.com/pricing/">Pricing</a></li>
+						</ul>
+						<ul class="_nav-secondary">
+							<li><a href="https://trade.collective2.com/supported-brokers">Supported Brokers</a></li>
+							<li><a href="https://trade.collective2.com/supported-platforms/">Supported Platforms</a></li>
+							<li><a href="https://trade.collective2.com/wistia-playlists-tabs/">Videos</a></li>
+							<li><a href="https://trade.collective2.com/category/news-and-events/">News</a></li>
+							<li><a href="https://trade.collective2.com/category/blog/">Blog</a></li>
+							<li><a href="https://trade.collective2.com/radio/">Top Trader Podcast</a></li>
+							<li><a href="https://c2broker.com/">C2Broker</a></li>
+							<li><a href="https://trade.collective2.com/about/">About</a></li>
+							<li><a href="https://trade.collective2.com/people/">People</a></li>
+							<li><a href="https://trade.collective2.com/about/contact/">Contact</a></li>
+							<li><a href="https://support.collective2.com/hc/en-us">Help Desk</a></li>
+						</ul>
+					</nav>
+					<section class="_feed">
+											</section>
+				</div>
 			</div>
-
-			<br>
-			<br>
-
-			<a href="#" style="font-size:14px;" onclick="if ( ( $('system_perf_email').style.display=='none') || $('perf_email_address').value ) { pendURL.push('/cgi-perl/utility/ajax_util.mpl?rm=getSystemPerf&amp;email=' + $('perf_email_address').value + '&amp;system_id=' + gSystemID );Dialog.closeInfo(); } else { $('perf_email_address').style.backgroundColor='yellow';return false; }">Yes, send free Weekly Performance Report for <span id="system_perf_name_3"></span></a>
-
-			<p></p>
-
-        </div></td></tr></tbody></table>
-        
-			<br>
+		</div>
+		<a class="_logo" href="https://trade.collective2.com/#home">
+			<img src="https://trade.collective2.com/wp-content/themes/collective2/static/img/logo/collective2.svg" alt="Collective2">
+		</a>
+		<div class="_user-menu">
+			<a href="https://trade.collective2.com/login/" class="btn-ghost size-md btn--minimal _link-login">Login</a>
+			<a href="https://trade.collective2.com/sign-up/" class="btn-ghost size-md _link-create-account">Create Account</a>
 		</div>
 	</div>
-	<div style="clear:both;"></div>
-	<script type="text/javascript">
-		if ( window.gSystemName && gSystemName ) { 
-			$('system_perf_name').innerHTML= gSystemName; 
-			$('system_perf_name_2').innerHTML= gSystemName; 
-			$('system_perf_name_3').innerHTML= gSystemName; 
-			$('system_perf_name_4').innerHTML= gSystemName; 
-            		pendURL.push('/cgi-perl/utility/ajax_util.mpl?rm=checkSystemPerf&system_id=' + gSystemID);
+</header>
+
+
+<!-- NAV - Breadcrumbs -->
+	<div class="site-breadcrumbs">
+	<div class="site-breadcrumbs__wrapper">
+		<div class="c2-breadcrumbs" id="breadcrumbs"><span><span><a href="https://trade.collective2.com/">Home</a>  <span class="breadcrumb_last">Privacy Policy</span></span></span></div>		<span class="c2-line"></span>
+	</div>
+</div>
+<!-- CONTENT - Article -->
+<div class="site-article ">
+	<div class="site-article__wrapper">
+		<!-- Article -->
+		<article class="site-article__main">
+			<div class="comp-description text-editor">
+	<h2>Privacy Policy</h2>
+<p>This page was last updated on <strong>May 24, 2018</strong>.</p>
+<p><strong>What This Privacy Policy Covers</strong></p>
+<p>This policy covers how Collective2 treats personal information that Collective2 collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, IP address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that Collective2 does not own or control, or to people that Collective2 does not employ or manage.</p>
+<p><strong>Information Collection and Use, General</strong></p>
+<p>Collective2 collects personal information when you register with Collective2, and when you use Collective2 products or services. When you register we ask for information such as your name and email address. Once you register with Collective2 and sign in to our services, you are not anonymous to us. Collective2 collects information about your transactions with us and with some of our business partners, including information about trading advice you subscribe to. Collective2 automatically receives and records information on our server logs from your browser, including your IP address, Collective2 cookie information, and the page you request. Collective2 uses this information to customize the content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.</p>
+<p><strong>Information Sharing and Disclosure</strong></p>
+<p>Collective2 does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:</p>
+<ul>
+<li>We provide the information to trusted partners who work on behalf of or with Collective2 under confidentiality agreements. However, these companies do not have any independent right to use or share this information.</li>
+<li>We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;</li>
+<li>We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Collective2’s terms of use, or as otherwise required by law.</li>
+<li>We transfer information about you if Collective2 is acquired by or merged with another company. In this event, Collective2 will notify you before information about you is transferred and becomes subject to a different privacy policy.</li>
+</ul>
+<h6 data-fontsize="18" data-lineheight="27"><strong>Cookies</strong></h6>
+<p>Collective2 may set and access Collective2 cookies on your computer. Advertisers or other companies do not have access toCollective2’s cookies.</p>
+<p><strong>Your Ability to Edit Your Account Information</strong></p>
+<p>You can edit your Collective2 Account Information, including your marketing preferences, at any time. Users can opt out of receiving future marketing communications or they can unsubscribe by following instructions contained in a message they receive. We reserve the right to send you certain communications relating to the Collective2 service, such as service announcements and administrative messages, that are considered part of your Collective2account, without offering you the opportunity to opt-out of receiving them.</p>
+<p><strong>Confidentiality and Security</strong></p>
+<p>We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.&nbsp;Your Collective2 Account Information is password-protected.&nbsp;Collective2 uses industry-standard SSL-encryption to protect data transmissions.</p>
+<p><strong>Your Right To Be Forgotten</strong></p>
+<p>If you really, really don’t like us, you can remove your account from our records entirely by <br>
+going to https://collective2.com/removeaccount. If you use our automated trading service, we may archive certain trading-related information, even after removing you from our main application and marketing databases, in order to comply with rules imposed on us by U.S. and international financial regulators.</p>
+<p><strong>Data Protection Officer</strong></p>
+<p>We have appointed a Data Protection Officer. You can contact the person by emailing privacy@collective2.com.</p>
+<p><strong>Changes to this Privacy Policy</strong></p>
+<p>Collective2 may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Collective2 account or by placing a prominent notice on our site.</p>
+</div>		</article>
+	</div>
+</div>
+<!-- === Footer Core === -->
+<!-- CTA Slot -->
+	
+<!-- Footer -->
+
+<!-- Support Link -->
+	<a class="site-support-link" href="https://support.collective2.com/hc/en-us" target="_blank"><span>H e l p</span>  <span>D e s k</span></a>
+<!-- Footer -->
+<footer class="site-footer">
+	<!-- Support Bar -->
+	<div class="comp-supportBar">
+		<div class="comp-supportBar-content">
+			<div class="c2-support">
+				Need help? Visit the <a href="https://collective2.zendesk.com/hc/en-us" target="_blank" class="c2-link-uderline">Help Desk</a>, or get in touch: 			</div>
+			<div class="c2-phone">
+				<span class="c2-icon-phone c2-icon">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M19.7,16.44l-5-3.74a.35.35,0,0,0-.41,0l-1,1c-1,.91-2.47.66-3.88-.17A8.23,8.23,0,0,1,7.72,12.2,8.23,8.23,0,0,1,6.4,10.54c-.83-1.42-1.16-2.92-.17-3.91l1-1a.36.36,0,0,0,0-.42L3.51.14A.3.3,0,0,0,3.09.05h0L1.36,1.8a4.86,4.86,0,0,0-1,5.32q1,3.12,5,7.24l.58.58a20.64,20.64,0,0,0,6.94,4.75,4.88,4.88,0,0,0,5.12-1h0l.42-.42h0a.38.38,0,0,0,0-.41h0L15.9,16l-1.24-.92c-.17-.08-.33-.08-.41.08s-.09.34.08.42l3.47,2.58-.17.16h0a4.23,4.23,0,0,1-4.46.92c-1.9-.58-4.13-2.08-6.69-4.58l-.41-.41L6,14.2c-2.64-2.67-4.21-5-4.87-7A4.39,4.39,0,0,1,2,2.55l.16-.17.75,1L4.75,6c.08.17.24.17.41.08a.29.29,0,0,0,.08-.41L4.33,4.38,3.42,3.13,2.68,2.05l.91-.91,3.3,4.57-.82.83c-1.16,1.17-.91,3,.08,4.66A9.6,9.6,0,0,0,7.55,13a13.92,13.92,0,0,0,1.74,1.41c1.65,1,3.47,1.25,4.63.08l.82-.83,4.79,3.58c.17.08.33.08.42-.08s.08-.34-.09-.42Z"></path></svg>
+				</span>
+				<span class="c2-phone-label c2-label">(914) 610-3979</span>
+			</div>
+			<a class="c2-email" href="mailto:help@collective2.com">
+				<span class="c2-icon-email c2-icon">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 18"><path d="M8.94,9.56l2.71,2.75a.5.5,0,0,0,.6,0L15,9.56l7.73,7.73H1.21ZM.6,1.32,8.33,9.05.6,16.78V1.32ZM22.69.71,12,11.49,1.21.71Zm.61,16.07L15.56,9.05,23.3,1.32V16.78ZM23.3,0H.7A.69.69,0,0,0,0,.71V17.29A.69.69,0,0,0,.7,18H23.3a.69.69,0,0,0,.7-.71V.71A.69.69,0,0,0,23.3,0Z"></path></svg>
+				</span>
+				<span class="c2-email-label c2-label c2-link-uderline">help@collective2.com</span>
+			</a>
+			<a class="c2-chat" href="#">
+				<span class="c2-icon-chat c2-icon">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 23"><path d="M23.3,11.29A1.61,1.61,0,0,1,21.7,13h-.8a.44.44,0,0,0-.4.41v3.53l-2-2.28V7.05a2.48,2.48,0,0,0-2.4-2.49H6.5V2.38A1.6,1.6,0,0,1,8.1.73H21.8a1.6,1.6,0,0,1,1.6,1.65v8.81Zm-5.6,4.56a1.61,1.61,0,0,1-1.6,1.66H9.3a.37.37,0,0,0-.3.1L5.7,21.45V17.92a.44.44,0,0,0-.4-.41H2.5A1.61,1.61,0,0,1,.9,15.85V7.05A1.61,1.61,0,0,1,2.5,5.39H16.1a1.61,1.61,0,0,1,1.6,1.66v8.8ZM21.7,0H8A2.48,2.48,0,0,0,5.6,2.49V4.66H2.4A2.48,2.48,0,0,0,0,7.15V16a2.48,2.48,0,0,0,2.4,2.49H4.8v4.15c0,.2.1.31.3.41h.1a.37.37,0,0,0,.3-.1l3.9-4.46H16A2.48,2.48,0,0,0,18.4,16h0l2.1,2.39a.37.37,0,0,0,.3.1h.1c.2-.1.3-.21.3-.41V13.88h.4A2.48,2.48,0,0,0,24,11.4V2.59A2.48,2.48,0,0,0,21.6.1Z"></path></svg>
+				</span>
+				<span class="c2-chat-label c2-label c2-link-uderline">Chat - how can we help you?</span>
+			</a>
+		</div>
+	</div>
+	<!-- Footer Info -->
+	<div class="comp-footerInfo">
+		<div class="comp-footerInfo-content">
+			<!-- Company -->
+			<div class="c2-company">
+				<a class="site-footer-logo" href="index.php#home">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 313.5 60"><path d="M50.7,1.2,61.6,7.5a5.56,5.56,0,0,1,2.1,2.2,5.66,5.66,0,0,1,.8,2.5V25.6a7.32,7.32,0,0,1-.8,2.5,6.34,6.34,0,0,1-2.1,2.2L50.8,36.6a6,6,0,0,1-3,.7,6.55,6.55,0,0,1-2.5-.5L34.1,30.3A6.34,6.34,0,0,1,32,28.1a7.32,7.32,0,0,1-.8-2.5V12.2A8.09,8.09,0,0,1,32,9.7a6.34,6.34,0,0,1,2.1-2.2L45.3,1A7.08,7.08,0,0,1,47.9.5a7.22,7.22,0,0,1,2.8.7Z" style="fill:#fa5000"></path><path d="M31.2,33.2l7.9,4.6a4.89,4.89,0,0,1,1.6,1.6,6.36,6.36,0,0,1,.6,1.8V51a6.36,6.36,0,0,1-.6,1.8,4.1,4.1,0,0,1-1.6,1.6L31.2,59a5.09,5.09,0,0,1-2.2.5,4.06,4.06,0,0,1-1.9-.4l-8.2-4.7a3.86,3.86,0,0,1-1.5-1.6,6.36,6.36,0,0,1-.6-1.8V41.2a6.36,6.36,0,0,1,.6-1.8A4.1,4.1,0,0,1,19,37.8l8.2-4.7a5.85,5.85,0,0,1,1.9-.4A3.84,3.84,0,0,1,31.2,33.2Z" style="fill:#fe9d18"></path><path d="M59.1,20.7A1.53,1.53,0,0,0,60.8,19V13.6a1.53,1.53,0,0,0-1.7-1.7H49.9a1.66,1.66,0,0,0-1.2.5,1.59,1.59,0,0,0-.4,1.2,1.59,1.59,0,0,0,.4,1.2,1.66,1.66,0,0,0,1.2.5h7.6v2H49.9A1.53,1.53,0,0,0,48.2,19v7.1h11a1.66,1.66,0,0,0,1.2-.5,1.59,1.59,0,0,0,.4-1.2,1.66,1.66,0,0,0-.5-1.2,1.5,1.5,0,0,0-1.2-.5H51.6v-2Z" style="fill:#fff"></path><path d="M45.7,22.6H38.1V15.2h7.6a1.66,1.66,0,0,0,1.2-.5,1.59,1.59,0,0,0,.4-1.2,1.66,1.66,0,0,0-.5-1.2,1.5,1.5,0,0,0-1.2-.5H36.3a1.53,1.53,0,0,0-1.7,1.7V24.2a1.53,1.53,0,0,0,1.7,1.7h9.3a2.5,2.5,0,0,0,1.4-.4,1.59,1.59,0,0,0,.4-1.2,1.66,1.66,0,0,0-.5-1.2A1.5,1.5,0,0,0,45.7,22.6Z" style="fill:#fff"></path><path d="M102.2,17.7l-.4,4.4A14.46,14.46,0,0,0,98.9,21a18.59,18.59,0,0,0-3.3-.4,10,10,0,0,0-7.3,2.7,9.42,9.42,0,0,0-2.8,7.2,10,10,0,0,0,2.7,7.3,9.73,9.73,0,0,0,7.2,2.7,12.42,12.42,0,0,0,3.3-.4,17.38,17.38,0,0,0,3.4-1.2l.3,4.5a23.55,23.55,0,0,1-3.8,1,26,26,0,0,1-4,.3q-6.75,0-10.8-3.9a13.63,13.63,0,0,1-4.1-10.3,13.49,13.49,0,0,1,4.2-10.3q4.2-3.9,11.1-3.9a24.66,24.66,0,0,1,3.9.3C100,17,101.1,17.3,102.2,17.7ZM117.9,20a7.88,7.88,0,0,0-6.3,2.9,11.63,11.63,0,0,0-2.4,7.7,11.53,11.53,0,0,0,2.4,7.6,7.88,7.88,0,0,0,6.3,2.9,7.74,7.74,0,0,0,6.3-2.9,11.35,11.35,0,0,0,2.4-7.6,11.63,11.63,0,0,0-2.4-7.7A7.88,7.88,0,0,0,117.9,20Zm-.1-3.9c4.5,0,8,1.3,10.6,3.9s3.9,6.2,3.9,10.7-1.3,8-3.9,10.6-6.1,3.9-10.6,3.9-8-1.3-10.6-3.9-3.9-6.1-3.9-10.6,1.3-8,3.9-10.6S113.4,16.1,117.8,16.1Zm18.4,28.4V3.2h5.4V44.5Zm11.2,0V3.2h5.4V44.5Zm35.2-14.8v2.1H161.9a9.66,9.66,0,0,0,3,6.9,10.12,10.12,0,0,0,7.3,2.5,17.52,17.52,0,0,0,4-.5,19.23,19.23,0,0,0,4.1-1.6v4.4a25.76,25.76,0,0,1-4.2,1.2,26,26,0,0,1-5,.4c-4.4,0-7.9-1.3-10.5-4s-3.8-6.3-3.8-10.8a14.62,14.62,0,0,1,3.8-10.4,13.1,13.1,0,0,1,9.9-3.9c3.8,0,6.8,1.2,9,3.7C181.5,22.1,182.6,25.5,182.6,29.7Zm-5.1-1.3a10.62,10.62,0,0,0-2.2-6.4,6.66,6.66,0,0,0-5.3-2.2,7.1,7.1,0,0,0-5.4,2.3,11,11,0,0,0-2.6,6.3Zm28.3-10.7-.4,4.4a14.46,14.46,0,0,0-2.9-1.1,18.59,18.59,0,0,0-3.3-.4,10,10,0,0,0-7.3,2.7,9.42,9.42,0,0,0-2.8,7.2,10,10,0,0,0,2.7,7.3,9.73,9.73,0,0,0,7.2,2.7,12.42,12.42,0,0,0,3.3-.4,15.36,15.36,0,0,0,3.4-1.2l.3,4.5a23.55,23.55,0,0,1-3.8,1,26,26,0,0,1-4,.3q-6.75,0-10.8-3.9a13.63,13.63,0,0,1-4.1-10.3,13.49,13.49,0,0,1,4.2-10.3q4.2-3.9,11.1-3.9a22.53,22.53,0,0,1,3.8.3C203.6,17,204.7,17.3,205.8,17.7Zm11.1-9.6v8.6h7v3.9h-7V35c0,2.2.3,3.7,1,4.6a4,4,0,0,0,3.3,1.4,6.15,6.15,0,0,0,1.3-.1,15.43,15.43,0,0,0,1.7-.5l.1,4a14.35,14.35,0,0,1-2.2.4,16.2,16.2,0,0,1-2.2.1c-3,0-5.1-.7-6.4-2.2s-1.9-3.9-1.9-7.3V20.7h-5.9V16.8h6.1V9.9Zm10,36.4V16.7h5.4V44.5Zm0-35.4V4h5.4V9.1Zm7.5,7.6h5.8l7.6,23.2,8-23.2h5.3L250.7,44.5h-6.3Zm52.1,13v2.1H265.8a9.66,9.66,0,0,0,3,6.9,10.12,10.12,0,0,0,7.3,2.5,17.52,17.52,0,0,0,4-.5,19.23,19.23,0,0,0,4.1-1.6v4.4a25.76,25.76,0,0,1-4.2,1.2,26,26,0,0,1-5,.4c-4.4,0-7.9-1.3-10.5-4s-3.8-6.3-3.8-10.8a14.62,14.62,0,0,1,3.8-10.4,13.1,13.1,0,0,1,9.9-3.9c3.8,0,6.8,1.2,9,3.7C285.4,22.1,286.5,25.5,286.5,29.7Zm-5-1.3a10.62,10.62,0,0,0-2.2-6.4,6.66,6.66,0,0,0-5.3-2.2,7.1,7.1,0,0,0-5.4,2.3,11,11,0,0,0-2.6,6.3Zm13.3,11.7h18.5v4.4H288.1V40Q299,29.65,302.8,24.7c2.5-3.3,3.8-6.2,3.8-8.5a5.49,5.49,0,0,0-2.1-4.4,8.5,8.5,0,0,0-5.4-1.7,15.14,15.14,0,0,0-4.6.7,22.73,22.73,0,0,0-4.5,2.1L289.4,8a31.29,31.29,0,0,1,5.7-1.8,27.38,27.38,0,0,1,5.6-.6A12,12,0,0,1,309,8.5a9.67,9.67,0,0,1,3.2,7.5c0,2.9-1.3,6.2-3.8,9.8S301.3,34.1,294.8,40.1Z" style="fill:#68666b"></path><path d="M16.1,7l4.4,2.5L24.9,12a4.24,4.24,0,0,1,1.7,1.8,4.79,4.79,0,0,1,.7,2V26.6a4.79,4.79,0,0,1-.7,2,4.24,4.24,0,0,1-1.7,1.8l-8.7,5.1a4.75,4.75,0,0,1-2.4.6,7.79,7.79,0,0,1-2.1-.4L2.6,30.4A4.24,4.24,0,0,1,.9,28.6a4.79,4.79,0,0,1-.7-2V15.8a4.79,4.79,0,0,1,.7-2A4.24,4.24,0,0,1,2.6,12l9-5.2a4.64,4.64,0,0,1,2.1-.4,4.75,4.75,0,0,1,2.4.6Z" style="fill:#fa7401"></path></svg>
+									</a>
+				<p>Automated Trading. For Humans.</p>
+				<ul class="c2g-social-list is-inline">
+											<li><a href="https://www.youtube.com/channel/UCrMNkabmiHFLXkmd50T6Zsw">
+							<i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+						</li>
+											<li><a href="https://plus.google.com/u/0/114507968111809900041/about">
+							<i class="fa fa-google-plus" aria-hidden="true"></i></a>
+						</li>
+											<li><a href="https://www.linkedin.com/company/collective2">
+							<i class="fa fa-linkedin" aria-hidden="true"></i></a>
+						</li>
+											<li><a href="https://twitter.com/Collective2">
+							<i class="fa fa-twitter" aria-hidden="true"></i></a>
+						</li>
+											<li><a href="https://www.facebook.com/Collective2-137694372946935/">
+							<i class="fa fa-facebook" aria-hidden="true"></i></a>
+						</li>
+									</ul>
+			</div>
+			<!-- Links Company -->
+			<div class="c2-linksList">
+				<h3>Company</h3>
+<ul>
+<li><a href="https://trade.collective2.com/about/">About</a></li>
+<li><a href="https://trade.collective2.com/about/people/">C2 People</a></li>
+<li><a href="https://trade.collective2.com/category/news-and-events/">News &amp; Events</a></li>
+</ul>
+			</div>
+			<!-- Links Other -->
+			<div class="c2-linksList">
+				<h3>Other Links</h3>
+<ul>
+<li><a href="https://trade.collective2.com/partners/">Partners</a></li>
+<li><a href="https://trade.collective2.com/developers/">Developers</a></li>
+<li><a href="https://trade.collective2.com/about/contact/">Contact</a></li>
+<li><a href="https://forums.collective2.com/" target="_blank" rel="noopener">Trading Strategies Forum</a></li>
+</ul>
+			</div>
+			<!-- Blog -->
+			<div class="c2-blog">
+				<h3>Blog</h3>
+								  <article>
+						<time>May 31, 2018</time>
+						<h4><a href="https://trade.collective2.com/where-are-the-big-fat-lazy-industries-were-trying-to-disrupt-2/">How do you advertise your company when you’re not really allowed to advertise?</a></h4>
+					</article>
+			  				  <article>
+						<time>May 15, 2018</time>
+						<h4><a href="https://trade.collective2.com/where-are-the-big-fat-lazy-industries-were-trying-to-disrupt/">Where are the big, fat, lazy industries we’re trying to disrupt?</a></h4>
+					</article>
+			  			</div>			
+			<!-- Footer Navigation -->
+			<nav class="site-footer-nav"><ul id="navFooter" class="navFooter"><li id="menu-item-587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-587"><a href="https://trade.collective2.com/#home">Home</a></li>
+<li id="menu-item-588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-588"><a href="https://trade.collective2.com/#popular-trading-systems">Explore Trading Systems</a></li>
+<li id="menu-item-589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-589"><a href="https://trade.collective2.com/#investors">Investors</a></li>
+<li id="menu-item-590" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-590"><a href="https://trade.collective2.com/#trade-leaders">Trade Leaders</a></li>
+<li id="menu-item-591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-591"><a href="https://trade.collective2.com/#pricing">Pricing</a></li>
+<li id="menu-item-619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="https://trade.collective2.com/howc2works/">How C2 Works</a></li>
+<li id="menu-item-592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592"><a href="https://support.collective2.com/hc/en-us">Help Desk</a></li>
+</ul></nav>		</div>
+	</div>
+	<!-- Disclamer -->
+	<div class="comp-disclamer">
+		<div class="c2-disclamer-content">
+			<p><span style="color: #000000; font-size: 16px;">Collective2 LLC is a member of the National Futures Association (NFA).</span></p>
+<p><span style="color: #000000; font-size: 16px;">All results are hypothetical. <a style="color: #fe7401;" href="https://trade.collective2.com/hypothetical-results/" target="_blank" rel="noopener noreferrer">Learn what this means.</a> </span></p>
+<p><span style="color: #000000; font-size: 16px;">Remember: trading is risky. You can lose money.&nbsp;Past results are not necessarily indicative of future results.</span></p>
+<p><span style="font-size: 16px;"><strong><span style="color: #000000;">Futures and forex trading is not appropriate for everyone.</span></strong></span></p>
+<p><span style="color: #000000; font-size: 16px;"><strong>These results are based on simulated or hypothetical performance results that have certain inherent limitations.</strong> Unlike the results shown in an actual performance record, these results do not represent actual trading. Also, because these trades have not actually been executed, these results may have under-or over-compensated for the impact, if any, of certain market factors, such as lack of liquidity. Simulated or hypothetical trading programs in general are also subject to the fact that they are designed with the benefit of hindsight. No representation is being made that any account will or is likely to achieve profits or losses similar to these being shown. In addition, hypothetical trading does not involve financial risk, and no hypothetical trading record can completely account for the impact of financial risk in actual trading. For example, the ability to withstand losses or to adhere to a particular trading program in spite of trading losses are material points which can also adversely affect actual trading results.&nbsp;There are numerous other factors related to the markets in general or to the implementation of any specific trading program, which cannot be fully accounted for in the preparation of hypothetical performance results and all of which can adversely affect actual trading results. You may be interested to learn more technical details about <a href="https://trade.collective2.com/how-we-calculate-results/" target="_blank" rel="noopener"><span style="color: #fb7401;">how Collective2 calculates the hypothetical results </span></a>you see on this web site.</span></p>
+<p><span style="color: #000000; font-size: 16px;"><b>Material assumptions and methods used when calculating results</b></span></p>
+<p><span style="color: #000000; font-size: 16px;">The following are material assumptions used when calculating any hypothetical monthly results that appear on our web site.</span></p>
+<ul style="margin-left: 30px; margin-right: 30px;">
+<li style="margin-bottom: 15px;"><span style="color: #000000; font-size: 14px;"><b>Profits are reinvested.</b>&nbsp;We assume profits (when there are profits) are reinvested in the trading strategy.</span></li>
+<li style="margin-bottom: 15px;"><span style="color: #000000; font-size: 14px;"><b>Starting investment size.</b>&nbsp;For any trading strategy on our site, hypothetical results are based on the assumption that you invested the starting amount shown on the strategy’s performance chart. In some cases, nominal dollar amounts on the equity chart have been re-scaled downward to make current go-forward trading sizes more manageable. In these cases, it may not have been possible to trade the strategy historically at the equity levels shown on the chart, and a higher minimum capital was required in the past.</span></li>
+<li style="margin-bottom: 15px;"><span style="color: #000000; font-size: 14px;"><b>All fees are included.</b>&nbsp;When calculating cumulative returns, we try to estimate and include all the fees a typical trader incurs when AutoTrading using AutoTrade technology. This includes the subscription cost of the strategy, plus any per-trade AutoTrade fees, plus estimated broker commissions if any.</span></li>
+<li style="margin-bottom: 15px;"><span style="color: #000000; font-size: 14px;"><b>“Max Drawdown” Calculation Method.</b>&nbsp;We calculate the&nbsp;<i>Max Drawdown</i>&nbsp;statistic as follows. Our computer software looks at the equity chart of the system in question and finds the largest percentage amount that the equity chart ever declines from a local “peak” to a subsequent point in time (thus this is formally called “Maximum Peak to Valley Drawdown.”) While this is useful information when evaluating trading systems, you should keep in mind that past performance does not guarantee future results. Therefore, future drawdowns may be larger than the historical maximum drawdowns you see here.</span></li>
+</ul>
+<p><span style="font-size: 16px;"><strong><span style="color: #000000;">What we mean</span></strong></span></p>
+<p><span style="color: #000000; font-size: 16px;">*<strong>Plus strategy fees, autotrade fees and brokerage commissions.</strong> Strategy fees vary and are set by the individual trade leader (system manager). These fees range from $20-$200+/month and can be found on the System Summary page on the Collective2 application. Autotrade fees are $49/month. Brokerage commissions and structures are determined by the individual brokers. Rates are published on the brokers’ sites.</span></p>
+<p><span style="color: #000000; font-size: 16px;">** <strong>“The world’s largest open trading-strategy platform.”</strong> Based on publicly available information from private companies (press releases, Web sites) about the number of systems, the number of registered users, and the trading volume initiated by English-language Web sites that are publicly-accessible.&nbsp;</span></p>
+<p><span style="color: #000000; font-size: 16px;"><sup>♦<strong>&nbsp;“</strong></sup><strong>Top-performing traders” </strong>: Refers only to traders and strategies which have hypothetical results are tracked by the C2 Platform. <strong>“Verified track records”</strong>: While we verify all strategy performance on a go-forward basis, all results must be regarded as hypothetical.<br>
+</span><br>
+<span style="color: #000000; font-size: 16px;"> <sup>♦♦&nbsp;</sup><strong>“$75 million dollars between 120,000+ users”</strong> : Based on aggregate Net Liquidation Value of all trading accounts connected to C2 AutoTrade Platform as of March 18,&nbsp;2018, and number of registered users as of March 18,&nbsp;2018.<br>
+</span></p>
+		</div>
+	</div>
+	<!-- Footer Copyrights -->
+	<div class="comp-footerCopyrights">
+		<div class="comp-footerCopyrights-content">
+			<div class="c2-text"><p>Copyright © 2019 Collective2 – All rights reserved. <a href="https://trade.collective2.com/terms-of-service/">Terms of Service</a>&nbsp;/&nbsp;<a href="https://trade.collective2.com/privacy-policy/">Privacy Policy</a></p>
+</div>
+			<a class="c2-backToTop" href="#">Back to Top <i class="fa fa-angle-up"></i></a>
+		</div>
+	</div>
+</footer>
+
+<!-- JavaScript -->
+<script src="https://trade.collective2.com/wp-content/themes/collective2/static/js/lib/jquery/jquery_v1.12.4.min.js"></script>
+<script src="https://trade.collective2.com/wp-content/themes/collective2/static/js/custom/custom-home-v3.js"></script>
+	<script src="https://trade.collective2.com/wp-content/themes/collective2/static/js/custom/custom-inner-v3.js"></script>
+
+<script>
+	/* Dynamic Navigation */
+	function c2_siteNav_2() {
+
+		if($('[data-site-nav]').length > 0) {
+			let screenWidth = $(window).width();
+			let nav_parent 	= $('[data-site-nav]');
+			let nav_trigger = $('[data-site-nav__trigger]');
+			let nav_panel 	= $('[data-site-nav__panel]');
+
+			// Nav Interaction
+			$('[data-site-nav__trigger]').on('click', function(event) {
+				event.stopPropagation();
+				if(nav_trigger.hasClass('is-active')) {
+					nav_trigger.removeClass('is-active');
+					nav_panel.removeClass('is-open');
+				} else {
+					nav_trigger.addClass('is-active');
+					nav_panel.addClass('is-open');
+				}
+
+				// Apply screen height on dynamic menu
+				if(screenWidth < 1200) {
+					$('.site-nav-2-panel').height($(window).height() - 64);
+				}
+
+			});
+
 		}
+	}
+
+	/* Check if Page is Scrolled */
+	function c2_pageScrolled_2() {
+	  let navHeaderPos = $('.site-header-2').offset().top;
+	  let scrollPos = $(window).scrollTop();
+	  let sBody = $('body');
+	  let posScroll;
+	  let cssClass = 'js-page-scrolled-2';
+
+	  if (navHeaderPos > 19) {
+	    sBody.addClass(cssClass);
+	  }
+
+	  $(window).on('scroll', function () {
+	    scrollPos = $(window).scrollTop();
+	    if (scrollPos > 19) {
+	      if (!sBody.hasClass(cssClass)) {
+	        sBody.addClass(cssClass);
+	      }
+	    } else {
+	      sBody.removeClass(cssClass);
+	    }
+	  });
+	}
+
+	/* Init */
+	$(document).ready(function() {
+		c2_siteNav_2();
+		c2_pageScrolled_2();
+	});
+</script>
+
+	<script src="//load.sumome.com/" data-sumo-site-id="3e26c59b1c6f969b60bd6cfbbff0387bb61e36cc25d4f53ba0025446263d1488" async="async"></script>
+
+
+	<script src="https://trade.collective2.com/wp-content/themes/collective2/code-third-party/chatlio/chatlio-standard.js"></script>
+
+	 
+
+	<script type="text/javascript" src="//collective2.com/js/dev/oauth_google_sign_in.js"></script>
+	<script type="text/javascript" src="//collective2.com/js/dev/oauth_linkedin_sign_in.js"></script> 
+		<script src="//apis.google.com/js/api:client.js?onload=init_gapi" async="" defer=""></script>
+	<script>
+		function init_gapi() {
+			gapi.load(
+				'auth2',
+				function(){
+					auth2 = gapi.auth2.init({
+						client_id    : '615363692881-m5bh6vhf007g1ct8dob9vt20kcgdriqd.apps.googleusercontent.com',
+						cookiepolicy : 'single_host_origin'
+					});
+				}
+			);
+		}
+	</script>
+		<script type="text/javascript" src="//platform.linkedin.com/in.js">
+		api_key:   77mqgy6ilwro40
+		authorize: false
+		lang:      en_US
+		onLoad:    onLinkedInLoad
+	</script>
+
+		<script>
+		initialize_google_sign_in( 0 ); 
+	</script>
+		<script>
+		corporate_site_update_href_for_linked_in(); 
 	</script>
 
 
@@ -236,955 +410,20 @@ onUnhover: function(element)
 
 
 
-<!-- popup window -->
 
-<div id="popupbg" class="popupbgClass"></div>
-<div id="popupwrapper" class="popupwrapperClass">
-    <div id="popupouter" class="popupouterClass">
-        <div id="popupContainer">
-            <div class="popupTop"></div>
-            <div class="popupContent" id="popupContentDiv">
-                          
-           </div>
-            <div class="popupBot"></div>
-        </div>
-	</div>
-</div>
-
-<!-- end popup window -->
-<div id="page">
-<!-- header -->
-    <div id="header">
-
-<h1><a href="/">Collective2</a></h1>
-
-
-
-
-
-
-<p><span>
-
-    
-    Welcome, new user. <a href="#" onclick="hidepopupcmd();stopcrop();loginpopupshowInside(true,'page');return false;">Log in</a> 
-    
-    
-        <a href="/cgi-perl/signup200.mpl">Sign up for free account</a>
-    
-
-</span></p>
-
-
-
-
-
-<div class="headlinks">
-<span>
-
-
-
-	<a href="/content/vendorintro.htm">System Developers</a> |
-	<a href="/static/brokers.htm">Brokers</a> 
-
-
-
-
-</span>
-</div> <!--headlinks-->
-
-</div>
-<!-- end header -->
-
-<!-- menu -->
-
-<div id="menuMain" onmouseover="hidepopupcmd();"><div><div><div>
-
-
-	<ul>
-
-
-    
-	 
-		<li>
-			<a href="/cgi-perl/c2dashboard.mpl"><span><span><span>Dashboard</span></span></span></a>
-		</li>
-	 
-    
-	<li>
-		<a href="/cgi-perl/t200.mpl?want=finder"><span><span><span>Find a System</span></span></span></a>
-		<div class="level">
-	
-<ul>
-    <li class="begin"><a href="/cgi-perl/t200.mpl?want=finder">System Finder</a></li>
-
-    
-    <li><a href="/cgi-perl/system/grid.mpl">The Grid</a></li>
-    <li><a href="/cgi-perl/my_analyst.mpl">My Analyst</a></li>
-    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=best">Hot Systems</a></li>
-
-     
-    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=bestforex">Hot Forex Systems</a></li>
-    
-
-     
-    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=bestfutures">Hot Futures Systems</a></li>
-    
-
-     
-    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=bestoptions">Hot Options Systems</a></li>
-    
-
-     
-    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=beststocks">Hot Stock Systems</a></li>
-    
-
-    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=latest">Latest Additions</a></li>
-    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=popular">Most Popular Systems</a></li>
-    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=stinky">Worst Systems</a></li>
-    
-    
-    
-</ul>
-
-		</div>
-	</li>
-
-	<li>
-		<a href="/content/vendorintro.htm"><span><span><span>Sell a System</span></span></span></a>
-		<div class="level">
-	<ul>
-    <li class="begin"><a href="/static/systemDeveloper.htm">How it works</a></li>
-    <li><a href="/startSystem">Create a new system</a></li>
-    <li><a href="/static/info/faq.htm">Frequent Questions (FAQ)</a></li>
-    <li><a href="/static/info/dev_apis.htm">Developer APIs</a></li>
-    
-    
-    
-    
-    
-</ul>
-
-		</div>
-	</li>
-
-	<li>
-		<a href="/static/aboutAutoTrade.htm"><span><span><span>AutoTrade</span></span></span></a>
-		<div class="level">
-	<ul>
-    
-
-    <li class="begin"><a href="/static/aboutAutoTrade.htm">How it works</a></li>
-
-    
-
-    
-
-    
-    
-    
-
-    
-        
-    
-    
-    
-</ul>
-
-		</div>
-	</li>
-	<li>
-		<a href="/cgi-perl/board.mpl?want=list"><span><span><span>Forums</span></span></span></a>
-	</li>
-	<li class="active">
-		<a href="/"><span><span><span>Information</span></span></span></a>
-		<div class="level">
-	<ul>
-    <li class="begin"><a href="/">Welcome to C2</a></li>
-    <li><a href="/static/info/intro.html">What is this?</a></li>
-    <li><a href="/static/info/welcome_video_embed.htm">Welcome Video</a></li>
-    <li><a href="/static/info/faq.htm">Frequent Questions</a></li>
-    <li><a href="/static/info/prices.htm">Prices</a></li>
-    <li><a href="/static/info/c2_compatible.htm">C2 Compatible</a></li>
-
-    
-    <li class="ind"><a href="/static/info/c2_compatible.htm">Overview</a></li>
-    <li class="ind"><a href="/static/info/mtinfo.htm">Using MetaTrader with C2</a></li>
-    <li class="ind"><a href="/static/info/tradestation.htm">Using TradeStation with C2</a></li>
-    <li class="ind"><a href="/static/info/ninjasetup.htm">Using NinjaTrader with C2</a></li>
-    <li class="ind"><a href="/static/info/tws_ibtoc2.htm">Using Interactive Brokers</a></li>
-    
-
-    <li><a href="/static/affiliate.htm">Affiliate Program</a></li>
-    <li><a href="/static/info/dev_apis.htm">Developer APIs</a></li>
-    <li><a href="/static/info/risks.html">Trading Risks</a></li>
-    <li><a href="/static/info/termsofservice.htm">Terms of Service</a></li>
-    <li><a href="/static/info/privacy.htm">Privacy Policy</a></li>
-    <li><a href="/static/info/advertising.htm">Advertising</a></li>
-    <li><a href="/static/info/press.htm">C2 in the Media</a></li>
-    <li><a href="/static/info/about_us.htm">About Us</a></li>
-    
-    
-</ul>
-
-		</div>
-	</li>
-
-
-
-
-</ul>
-
-</div></div></div></div>
-<!-- end menu -->
-
-<!-- breadcrumb navigation -->
-
-<div class="breadcrumbs" onmouseover="hidepopupcmd();">
-
-
-    <div class="brdd">
-    <img src="/images/icons/dropdown.gif" onmouseover="if ( $('brDropdown').style.display != 'block' ) { doTooltip(event,'Click to view older navigation history.');return false; }" onmouseout="if ( $('brDropdown').style.display != 'block' ) { hideTip();return false; }" onmousedown="hideTip();if ( $('brDropdown').style.display != 'block' ) { $('brDropdown').style.display='block'; } else { $('brDropdown').style.display = 'none'; }">
-    <div class="level" id="brDropdown" name="brDropdown">
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=19">
-   		  
-                
-	            Forums: List subjects
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=18">
-   		  
-                
-	            Dashboard
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=17">
-   		  
-                
-	             Prices
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=16">
-   		  
-                
-	            About AutoTrade
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=15">
-   		  
-                
-	            FAQ
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=14">
-   		  
-                
-	            My Analyst page
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=13">
-   		  
-                
-	            Most Popular
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=12">
-   		  
-                
-	            Order Entry UI
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=11">
-   		  
-                
-	            Trader Assistant
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=10">
-   		  
-                
-	            Trader68
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=9">
-   		  
-                
-	            CoolTrade
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=8">
-   		  
-                
-	            TradeBullet
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=7">
-   		  
-                
-	            T68 Order Writer
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=6">
-   		  
-                
-	            System Anal...nd others ETFs
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=5">
-   		  
-                
-	            Forum: Syst...n PP indicator
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=4">
-   		  
-                
-	            Forums: Post message
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=3">
-   		  
-                
-	            System Ana...s - ETF Timer
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=2">
-   		  
-                
-	            Forum: MetaTrader
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=1">
-   		  
-                
-	            Fill prices
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-        <span>
-
-            
-            <div>
-            
-
-            <a href="/cgi-perl/page.mpl?navto=0">
-   		  
-                
-	            About Stops and Limits
-		        
-            </a>
-
-            </div>
-
-        </span>
-    
-    </div>
-    </div>
-
-
-
-
-
-
-
-
-
-
-    
-
-    
-        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=20' );return false;" onmousedown="handleMouseDown();return false;" href="#">
-    
-    
-    
-
-    Latest Additions
-    
-    
-    
-    </a>
-    
-    
-
-    </div>
-
-    <div class="bcd">/</div>
-
-
-    
-
-    
-        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=21' );return false;" onmousedown="handleMouseDown();return false;" href="#">
-    
-    
-    
-
-    Collective2
-    
-    
-    
-    </a>
-    
-    
-
-    </div>
-
-    <div class="bcd">/</div>
-
-
-    
-
-    
-        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=22' );return false;" onmousedown="handleMouseDown();return false;" href="#">
-    
-    
-    
-
-    Hot Futures
-    
-    
-    
-    </a>
-    
-    
-
-    </div>
-
-    <div class="bcd">/</div>
-
-
-    
-
-    
-        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=23' );return false;" onmousedown="handleMouseDown();return false;" href="#">
-    
-    
-    
-
-    IBtoC2
-    
-    
-    
-    </a>
-    
-    
-
-    </div>
-
-    <div class="bcd">/</div>
-
-
-    
-
-    
-        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=24' );return false;" onmousedown="handleMouseDown();return false;" href="#">
-    
-    
-    
-
-    About C2
-    
-    
-    
-    </a>
-    
-    
-
-    </div>
-
-    
-
-</div>
-<div style="clear:both;"></div>
-
-
-<!-- end breadcrumb navigation -->
-
-
-
-
-    <div id="columnLeft" onmouseover="hidepopupcmd();">
-
- 
-    
-    
-        <div class="searchBlkLft"><div><div><div>
-        <h3>Find System by Name</h3>
-        <span><input type="text" class="inputbox" id="namesearch" name="namesearch" onkeyup="javascript:handleSearchKeyUp();"></span>
-        <div id="searchbutton"><input type="image" src="/images/lightimages/buttons/btn_search.gif" value="find" onclick="javascript:handleSearchSubmit();"></div>
-        <div id="searchactive"><img src="/images/ajax-loader.gif" alt="Wait"></div>
-        </div></div></div></div>
-        <div id="searchresults"></div>
-        <br>
-    
-    
- 
-
-
-
-
-    <!-- menu -->
-    
-<div class="menu show">
-<h3 onclick="divtoggle(this,'quicklinks');"><span><span><span><b>Information</b></span></span></span></h3>
-<div id="quicklinks">
-
-
-
-
-
-    <ul>
-    <li><a href="/">Welcome to C2</a></li>
-    <li><a href="/static/info/intro.html">What is this?</a></li>
-    <li><a href="/static/info/welcome_video_embed.htm">Welcome Video</a></li>
-    <li><a href="/static/info/faq.htm">Frequent Questions</a></li>
-    <li><a href="/static/info/prices.htm">Prices</a></li>
-    <li><a href="/static/info/c2_compatible.htm">C2 Compatible</a></li>
-
-    
-
-    <li><a href="/static/affiliate.htm">Affiliate Program</a></li>
-    <li><a href="/static/info/dev_apis.htm">Developer APIs</a></li>
-    <li><a href="/static/info/risks.html">Trading Risks</a></li>
-    <li><a href="/static/info/termsofservice.htm">Terms of Service</a></li>
-    <li><a href="/static/info/privacy.htm">Privacy Policy</a></li>
-    <li><a href="/static/info/advertising.htm">Advertising</a></li>
-    <li><a href="/static/info/press.htm">C2 in the Media</a></li>
-    <li><a href="/static/info/about_us.htm">About Us</a></li>
-    
-    
-</ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-</div>
-
-
-    <!-- end menu -->
-
-    
-
- 
-
-
-    <!-- start systems owned -->
-    
-    <!-- end systems owned -->
-    
-    <!-- start systems sub -->
-    
-    <!-- end systems sub -->
-
-
-
- 
-
-
-
-    <!-- start watch list -->
-    <div id="watchlistdroptarget"><div id="outerwatchlistholder"><div class="menu show"><h3 onclick="divtoggle(this,'watchlist');"><span><span><span><b>Watch List</b></span></span></span></h3><div class="bnrBlk"><div id="watchlist"><div id="watchlistcontainer" class="emptyContainer">Drag any system on page<br>to here.</div></div></div></div></div></div>
-    <!-- end watch list -->
-
-
-
-
-    </div>
-
-<!-- end left column -->
-
-
-
-
-<!-- end NOT invisible-->
- 
-
-
-
-<!-- content -->
-    <div id="content2colbig">
-<div class="tutorial">
- 
-<h1>Privacy Policy</h1>
-                  <p class="posts">Collective2 takes your privacy seriously.
-                  Please read the following to learn more about our privacy
-                  policy.</p>
-                  <p><b>What This Privacy Policy Covers</b></p>
-                  <p>This policy covers how Collective2 treats personal
-                  information that Collective2 collects and receives. Personal
-                  information is information about you that is personally
-                  identifiable like your name, address, email address, or phone
-                  number, and that is not otherwise publicly available. This
-                  policy does not apply to the practices of companies that Collective2
-                  does not own or control, or to people that Collective2 does
-                  not employ or manage.&nbsp;</p>
-                  <p><b>Information Collection and Use General</b></p>
-                  <p>Collective2 collects personal information when you register
-                  with Collective2, and when you use Collective2 products or
-                  services. When you register we ask for information such as
-                  your name and email address. Once you register with Collective2
-                  and sign in to our services, you are not anonymous to us. Collective2
-                  collects information about your transactions with us and with
-                  some of our business partners, including information about
-                  trading advice you subscribe to. Collective2 automatically
-                  receives and records information on our server logs from your
-                  browser, including your IP address, Collective2 cookie
-                  information, and the page you request. Collective2 uses this
-                  information to customize the content and advertising you see,
-                  fulfill your requests for products and services, improve our
-                  services, contact you, conduct research, and provide anonymous
-                  reporting for internal and external clients.&nbsp;</p>
-                  <p><b>Information Sharing and Disclosure</b></p>
-                  <p><u>Collective2 <b>does not</b> rent, sell, or share
-                  personal information about you with other people or
-                  nonaffiliated companies except to provide products or services
-                  you've requested, when we have your permission</u>, or under
-                  the following circumstances:</p>
-                  <blockquote>
-                    <p>We provide the information to trusted partners who work
-                    on behalf of or with Collective2 under confidentiality
-                    agreements.&nbsp; However, these companies do not have any
-                    independent right to use or share this information.&nbsp;</p>
-                    <p>We respond to subpoenas, court orders, or legal process,
-                    or to establish or exercise our legal rights or defend
-                    against legal claims;&nbsp;</p>
-                    <p>We believe it is necessary to share information in order
-                    to investigate, prevent, or take action regarding illegal
-                    activities, suspected fraud, situations involving potential
-                    threats to the physical safety of any person, violations of Collective2's
-                    terms of use, or as otherwise required by law.&nbsp;</p>
-                    <p>We transfer information about you if Collective2 is
-                    acquired by or merged with another company. In this event, Collective2
-                    will notify you before information about you is transferred
-                    and becomes subject to a different privacy policy.&nbsp;</p>
-                  </blockquote>
-                  <p><b>Cookies</b></p>
-                  <p>Collective2 may set and access Collective2 cookies on your
-                  computer. Advertisers or other companies do not have access to
-                  Collective2's cookies.&nbsp;</p>
-                  <p><b>Your Ability to Edit Your Account Information</b></p>
-                  <p>You can edit your Collective2 Account Information,
-                  including your marketing preferences, at any time. New
-                  categories of marketing communications may be added to the
-                  Marketing Preferences page from time to time. Users who visit
-                  this page can opt out of receiving future marketing
-                  communications from these new categories or they can
-                  unsubscribe by following instructions contained in the
-                  messages they receive. We reserve the right to send you
-                  certain communications relating to the Collective2 service,
-                  such as service announcements and administrative messages ,
-                  that are considered part of your Collective2 account, without
-                  offering you the opportunity to opt-out of receiving them.</p>
-                  <p><b>Confidentiality and Security</b></p>
-                  <p>We limit access to personal information about you to
-                  employees who we believe reasonably need to come into contact
-                  with that information to provide products or services to you
-                  or in order to do their jobs.&nbsp;</p>
-                  <p><b>Your Collective2 Account Information is
-                  password-protected.</b></p>
-                  <p>In certain areas Collective2 uses industry-standard SSL-encryption
-                  to protect data transmissions.</p>
-                  <p><b>Changes to this Privacy Policy</b></p>
-                  <p>Collective2 may update this policy. We will notify you
-                  about significant changes in the way we treat personal
-                  information by sending a notice to the primary email address
-                  specified in your Collective2 account or by placing a
-                  prominent notice on our site.
-</p>
-</div>
-   
-	
-    </div>
-<!-- end content -->
-<!-- right column -->
-	<div id="columnRight">
-	
-	</div>
-<!-- end right column -->
-<!-- footer -->
-	<div class="nofloat"></div>
-    <div id="footer" onmouseover="hidepopupcmd();">
-
-<p align="center">
-    
-        <a href="/cgi-perl/c2dashboard.mpl">Dashboard</a> <span>|</span>
-    
-    
-    <a href="/cgi-perl/t200.mpl?want=finder">System Finder</a>
-    
-        <span>|</span> <a href="/cgi-perl/system/grid.mpl">The Grid</a>
-    
-    
-        <span>|</span> <a href="/cgi-perl/page.mpl?page=offerstart1">Create a System</a>
-        <span>|</span> <a href="/cgi-perl/board.mpl?want=list">Forums</a>
-    
-
-    <!--information link GOES HERE!-->
-    
-    <br>
-    
-        <a href="/static/info/dev_apis.htm">Developer APIs</a>
-        <span>|</span> <a href="/static/info/faq.htm">Frequent Questions</a>
-        <span>|</span> 
-    
-    <a href="/static/info/risks.html">Risks of Trading</a>
-    <span>|</span> <a href="/static/info/termsofservice.htm">Terms of Service</a> 
-    <span>|</span> <a href="/static/contact_us.htm">Contact Us</a>
-</p>
-
-<p align="center">Site Version: 5319</p>
-<p align="center">(c) 2010 Collective2 LLC</p>
-    </div></div>
-<!-- end footer -->
-<div id="waiticon" style="display:none;"><img src="/images/c2snake.gif"></div>
-<div id="loadingdiv" style="display:none;">
-<div style="width:300px;display:block;">
-	<div style="margin:0 auto 0 auto; text-align:center;"><img src="/images/loading.gif"></div><br>
-	<div style="margin:0 auto 0 auto; font-size:12px; color:#333; text-align:center;"><span id="loadingtext">Running Monte Carlo simulation...</span></div>
-</div>
-</div>
-<div id="c2popupframe" style="display:none;"></div>
-<div id="popupAddTo" style="display:none;"></div>
-<div id="popupAdmin" style="display:none;"></div>
-<!-- c2pageid=sysdetails1.0 -->
-
-<iframe style="height:0px;width:0px;visibility:hidden" src="about:blank">
-</iframe>
-
+<!-- WP Footer -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+/* <![CDATA[ */
+var php_data = {"ac_settings":{"tracking_actid":798688021,"site_tracking_default":1},"user_email":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://trade.collective2.com/wp-content/plugins/activecampaign-subscription-forms/site_tracking.js?ver=5.0.3"></script>
 <script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-224858-1");
-pageTracker._setDomainName(".collective2.com");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"c2comments"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://trade.collective2.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.16"></script>
 
 
-<div id="tipDiv"></div></body></html>
+</body></html>
