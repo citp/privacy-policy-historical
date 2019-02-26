@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quttera.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821190050id_/https%3A//quttera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quttera.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226143431id_/https%3A//quttera.com/privacy) for the most accurate reproduction.*
 
 # FREE Online Website Malware Scanner | Website Security Monitoring & Malware Removal | Quttera
 
@@ -82,7 +82,7 @@ The provider uses the Google Inc. ("Google") remarketing or "Similar Audiences" 
 
 You can permanently disable the use of cookies by Google by following the link below and downloading and installing the plug-in provided: <https://support.google.com/ads/answer/7395996>
 
-Alternatively, you can disable the use of cookies by third-party providers by going to the Network Advertising Initiative opt-out page at [www.networkadvertising.org/choices/](https://web.archive.org/web/20180821190050id_/https%3A//quttera.com/www.networkadvertising.org/choices/) and implementing the additional information given there on opting out.
+Alternatively, you can disable the use of cookies by third-party providers by going to the Network Advertising Initiative opt-out page at [www.networkadvertising.org/choices/](https://web.archive.org/web/20190226143431id_/https%3A//quttera.com/www.networkadvertising.org/choices/) and implementing the additional information given there on opting out.
 
 You can find additional information on Google remarketing and the Google data protection declaration at <https://policies.google.com/technologies/ads>
 
@@ -308,4 +308,4 @@ What are the 6 best practices you could implement Today to protect your WordPres
 
 * * *
 
-© 2018 Quttera Ltd. All rights reserved.
+© 2019 Quttera Ltd. All rights reserved.
