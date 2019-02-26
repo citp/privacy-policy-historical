@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitsoe.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126153447id_/https%3A//www.vitsoe.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitsoe.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226015755id_/https%3A//www.vitsoe.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Vitsœ
 
@@ -44,4 +44,4 @@ By submitting your information you consent to the use of that information as set
 
 We welcome your views about our website and our Privacy Policy. Should you wish to contact us regarding our website or Privacy Policy please do so.
 
-Vitsœ Limited is a company registered in England and Wales. Registered Office Centric Close, London NW1 7EP Company Number 2014122 VAT number GB 437 2545 47
+Vitsœ Limited is a company registered in England and Wales. Registered Office Old Warwick Road, Royal Leamington Spa, CV31 3NT Company Number 2014122 VAT number GB 437 2545 47
