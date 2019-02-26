@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nzcity.co.nz privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624114340id_/http%3A//home.nzcity.co.nz/personalise/privacy.aspx%3Ffm%3Dsm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzcity.co.nz privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226205610id_/https%3A//home.nzcity.co.nz/personalise/privacy.aspx%3Ffm%3Dsm) for the most accurate reproduction.*
 
 # New Zealand City - Privacy Statement
 
 ## Privacy Statement New Zealand City Ltd (NZCity)
 
-New Zealand City Ltd has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this and the following listed Web sites: **[nzcity.co.nz](http://www.nzcity.co.nz/), [www.searchnz.co.nz](http://www.searchnz.co.nz/), [www.rugbyleague.co.nz](http://www.rugbyleague.co.nz/), [www.crime.co.nz](http://www.crime.co.nz/)**
+New Zealand City Ltd has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this and the following listed Web sites: **[nzcity.co.nz](https://www.nzcity.co.nz/), [www.searchnz.co.nz](http://www.searchnz.co.nz/), [www.rugbyleague.co.nz](http://www.rugbyleague.co.nz/), [www.crime.co.nz](http://www.crime.co.nz/)**
 
 Please note this statement is as at 30 Jun 1999. NZCity is always evolving and will endeavour to remain within the bounds of this statement or keep this statement current. NZCity will always endeavour to comply with the conditions of the New Zealand Privacy Act. 
 
@@ -43,7 +43,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 NZCity gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can visit the following URL: [http://home.nzcity.co.nz/personalise/](https://web.archive.org/personalise/)
+  1. You can visit the following URL: [https://home.nzcity.co.nz/personalise/](https://web.archive.org/personalise/)
   2. Or visit [Our contact form](https://web.archive.org/general/contact.aspx) and give us enough detail to correct the problem. 
 
 
@@ -52,7 +52,7 @@ NZCity gives users the following options for removing their information from our
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. visit [http://home.nzcity.co.nz/personalise/](https://web.archive.org/personalise/) to personalise this web site 
+  1. visit [https://home.nzcity.co.nz/personalise/](https://web.archive.org/personalise/) to personalise this web site 
   2. visit [Our contact form](https://web.archive.org/general/contact.aspx) and give us enough detail to correct the problem. 
 
 
