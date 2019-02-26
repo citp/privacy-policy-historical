@@ -1,48 +1,112 @@
-> *The following text is extracted and transformed from the bugherd.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014130122id_/https%3A//bugherd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugherd.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226191623id_/http%3A//www.bugherd.com/privacy) for the most accurate reproduction.*
 
-# Privacy and Security Policy | BugHerd
+# Privacy
 
-## Privacy and Security Policy
+**  
+‍** **‍** When accessing our Website, Macropod Software Pty Ltd (‘Macropod’, ‘we’, ‘us’ or ‘our’) will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site. This policy (‘Privacy Policy’) describes how we handle your information. We are bound by the Australian Privacy Principles contained in the Privacy Act and observe applicable principles of the European Union General Data Protection Regulations (‘GDPR’).
 
-When accessing our Website, Macropod Software Pty Ltd will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
+ **Information we store about users:  
+‍** **  
+‍** If you visit our site to read or download information on our pages, we collect and store only the following information about you:  
+‍  
+\- The IP address from which you access the InternetThe date and time you access our site  
+\- The Internet address of the website you used to link directly to our site  
+\- Email address (as provided by you upon subscription)  
+\- First and Last names (as provided by you upon subscription)  
+\- Organization name (as provided by you upon subscription)  
+\- Bug and Project data, including screenshots (as optionally provided by you)  
+\- Avatar image (as optionally provided by you)  
+\- Usage and interaction data about how you use the BugHerd application.  
+‍  
+If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message. We may ask to use positive testimonials on our website for promotional purposes. From time to time, we may also collect information that you submit when you participate in any online surveys that we conduct via our website. You can withdraw your consent to our collection, use and disclosure of your personal information at any time.
 
-### Information we store about users:
+We will not obtain personal information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without your approval at the time of collection.
 
-If you visit our site to read or download information on our pages, we collect and store only the following information about you:
+For personal information subject to the GDPR, we rely on several legal bases to process your personal information. These are:
 
-  * The name of the domain from which you access the Internet
-  * The date and time you access our site
-  * The Internet address of the website you used to link directly to our site
-  * Email address (as provided by you upon subscription)
-  * First and Last names (as provided by you upon subscription)
-  * Organization name (as provided by you upon subscription)
-  * Geographic location
-  * Bug and Project data as optionally provided by you
-  * Usage and interaction data about how you use the BugHerd application.
+\- where you have given your consent;  
+\- when the processing is necessary to perform a contract that we have with you, like the Terms of Use; and  
+\- our legitimate business interests, such as improving and developing our services and marketing new features or products.
 
+You may at any time refuse to provide the personal information that we request. However, this may limit or prohibit our ability to provide our products and services to you. You may withdraw your consent for us to process your personal information by contacting us in accordance with our ‘Contact us’ section below.
 
+ **How we use personal information:  
+‍** **  
+-** provide, administer and improve our products and services;  
+\- understand how we can update our products and services to better serve our customers;  
+\- fulfil requests you make;personalise your experience;provide you with customer support;  
+\- provide product and service announcements and;  
+\- provide you with further information and offers about our products and services;  
+\- better product our products against misuse and illegal activity;advertise to you and others, and tailor advertisements to those you are likely to be interested in, including advertisements from our partners;  
+\- improve our marketing activities.  
+‍  
+We may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. Company logos and names may be used for promotional purposes.
 
-If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message. We may ask to use positive testimonials on our website for promotional purposes. From time to time, we may also collect information that you submit when you participate in any online surveys that we conduct via our website.
+For site security purposes and to ensure that this service remains available to all users, we use software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-### Disclosure of personal information:
+ **Disclosure of personal information:**
 
-If you opt-in to receive Marketing material via subscription from this website or within our application your details may be stored within a third-party electronic direct messaging service such as mailchimp. We do not disclose personal information to overseas recipients or sell or disclose personal information to third party marketing services. 
+Outside of authorised personnel employed by us, we only disclose personal information to third parties that meet our data privacy requirements (in accordance with the Australian Privacy Principles and the GDPR). When this occurs, it occurs in a secure and contractually-regulated manner. These third parties include:
 
-Macropod Software Pty Ltd may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. Company logos and names may be used for promotional purposes.
+\- If you opt-in to receive Marketing material via subscription from this website or within our application your details may be stored within a third-party electronic direct messaging service such as mailchimp. We do not disclose personal information to overseas recipients or sell or disclose personal information to third party marketing services.  
+\- government third parties, including government agencies, regulatory bodies and law enforcement agencies as required, authorised or permitted by law; and  
+\- A third party that acquires or intends to acquire Macropod or its assets.
 
-For site security purposes and to ensure that this service remains available to all users, Macropod Software Pty Ltd uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.  
-Macropod Software Pty Ltd will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+‍ **International Transfers:**
 
-### The use of cookies:
+Your information may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Please be advised that Macropod reserves the right to transfer your data (including personal data) to and from any country, including Australia, the United Kingdom and the United States of America. We do this in order to provide high performance of our products and services, and also to process data and prepare it for processing in accordance with this Privacy Policy. You agree to your data being transferred to other countries when you share your data with us. If you later wish to withdraw your consent, you can delete your account as described in the ‘Changing or Deleting your Information’ section.
 
-The website may use cookies to facilitate your use of the website.  You can configure your web browser software to reject or restrict cookies; however, some parts of the website may not have full functionality in that case. Whenever you use this site information may be collected through the use of cookies and other technologies. We have implemented Google Analytics Demographics and Interest Reporting and we or our service providers may use these and other analytic services to help us understand how effective our content is, what interests our users have, and to improve how the site works. The services we may use from time to time include Google Analytics, Google Display Network, Google AdSense, DoubleClick, Perfect Audience,, Kissmetrics and Optimisely. You can find more details in the privacy policies for those services (e.g. Google’s Ads Preferences Manager), including information on how to opt-out of certain conduct.
+The European Commission has the power to determine, on the basis of the GDPR, whether a country outside the European Union offers an adequate level of data protection by making an ‘adequacy decision’. To date, the European Commission has not adopted an adequacy decision in respect of Australia. Instead, we rely on other legal bases to lawfully transfer personal data around the world (including transfers to countries like Australia where an adequacy decision has not been adopted). These bases include your consent and the European Commission-approved model contractual clauses, which require certain privacy and security protections. You may obtain a copy of the model contractual clauses by contacting us in accordance with the ‘Contact us’ section.
 
-### Credit Card information:
+ **Voluntary disclosure of personal information:**  
+  
+We may make available on our site, or link to, certain opportunities for our customers and other users to share information online (e.g., on message boards, in chat areas, in file uploads, through events, etc.).
 
-Credit card processing is handled by [DPS](http://www.paymentexpress.com/). To enable DPS to provide secure payment facilities it will typically acquire information which may include the Cardholder’s name, credit card number (with the expiry date) and billing address. DPS uses the information to obtain authorization of the transaction from the Issuing bank of the credit card and DPS’s own or Macropod Software Pty Ltd’s bank and to process the payment. Some details from the transaction (such as name, email and delivery address) may be made available to Macropod Software Pty Ltd or Acquirer through Payline - DPS web based transactions management system, which allows Merchants to track transactions and process refunds. Please see [DPS’s Privacy Policy](http://www.paymentexpress.com/about/about_paymentexpress/privacy_policy.html) for more details about their payment system and security measures.
+Please be aware that whenever you voluntarily disclose personal information online, that information becomes public and can be collected and used by others. We have no control over, and take no responsibility for, the use, storage or dissemination of such publicly-disclosed personal information.By posting personal information online in public forums, you may receive unsolicited messages from other parties.
 
-### Requesting your personal information:
+By posting personal information online in public forums, you may receive unsolicited messages from other parties.
 
-You may request access to personal information we hold about you or submit a complaint about a breach of the Australian Privacy Principles. To help us deal with requests appropriately, we ask that all such requests be made via email to [support@bugherd.com](mailto:support@bugherd.com). Please provide as much detail as you can as this will help us to retrieve the information. It is our policy to process your request within a reasonable time. In some circumstances, there may be reason why we will not act on a request, such as where it would have an unreasonable impact on the privacy of others or we may not be permitted to do so by law.
+ **The use of cookies:  
+**  
+The website may use cookies to facilitate your use of the website.  You can configure your web browser software to reject or restrict cookies; however, some parts of the website may not have full functionality in that case. Whenever you use this site information may be collected through the use of cookies and other technologies. We have implemented Google Analytics Demographics and Interest Reporting and we or our service providers may use these and other analytic services to help us understand how effective our content is, what interests our users have, and to improve how the site works. The services we may use from time to time include Google Analytics, Google Display Network, Google AdSense, DoubleClick, Perfect Audience,, Kissmetrics and Optimisely. You can find more details in the privacy policies for those services (e.g. Google’s Ads Preferences Manager), including information on how to opt-out of certain conduct.  
+  
+ **Credit Card information:** Credit card processing is handled by [DPS](http://www.paymentexpress.com/). To enable DPS to provide secure payment facilities it will typically acquire information which may include the Cardholder’s name, credit card number (with the expiry date) and billing address. DPS uses the information to obtain authorization of the transaction from the Issuing bank of the credit card and DPS’s own or Macropod Software Pty Ltd’s bank and to process the payment. Some details from the transaction (such as name, email and delivery address) may be made available to Macropod Software Pty Ltd or Acquirer through Payline - DPS web based transactions management system, which allows Merchants to track transactions and process refunds. Please see [DPS’s Privacy Policy](http://www.paymentexpress.com/about/about_paymentexpress/privacy_policy) for more details about their payment system and security measures.
 
-Notifying us promptly when any of your personal details change or where you realise that any information we are holding about you is incorrect will assist us in ensuring the information we hold is as accurate as possible.
+ **Correcting or deleting your information:** You may access, review, update, rectify or delete their personal information in your profile by logging into your account. Please note that removing your information may limit our ability to provide the service to you. If you opt to completely delete all such information, your account will be deactivated and you will lose access to the service.
+
+You may contact us directly to request data modification outside of our services or if you have additional questions. We’ll take reasonable steps to provide, modify or delete your information as soon as is practicable, but some information may remain in archived/backup copies for legal reasons or to prevent harm, including as described in our ‘Disclosure of personal information’ section. To help us deal with requests appropriately, we ask that all such requests be made via email to support@bugherd.com. Please provide as much detail as you can as this will help us to retrieve the information. It is our policy to process your request within a reasonable time. Notifying us promptly when any of your personal details change or where you realise that any information we are holding about you is incorrect will assist us in ensuring the information we hold is as accurate as possible.
+
+You may also contact us directly to receive (in a commonly used file format) the personal data you have provided to us.
+
+We may limit or reject your request in certain cases, including without limitation where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question, where the rights of other persons would be violated, or as required by law.
+
+We will respond to all requests within 30 days.
+
+If you need further assistance regarding your access and control of your personal data, please contact our Data Protection Officer and we will consider your request in accordance with applicable laws.
+
+If you reside in the European Union, the European Economic Area or Switzerland, and are unhappy with our data practices, you also have a right to lodge a complaint with your local data protection authority.
+
+ **Security:** The security of your personal data is important to us. We follow generally accepted industry standards to protect the personal data submitted to us, both during transmission and once we receive it (including encrypted storage and password protection).
+
+Each of our employees is aware of our security policies, and your information is only available to those employees who need it to perform their jobs.
+
+No method of transmission over the Internet using industry standard technology is 100% secure. Therefore, we cannot guarantee the absolute security of your information.
+
+ **Data Retention:** We keep your account information (such as your name and email address) for as long as you have an account with us, so that we can continue to provide our services to you. We also keep other personal information, including data about how you use our products and services, until you request that we delete this data, because we use this data to provide our products and services to you and for the other purposes set out in the ‘How we use Personal Information’ section above.
+
+ **Changes to our Privacy Policy:** **  
+**  
+We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy you will be notified via email (if we have your contact information) or otherwise in another manner that we deem will reasonably likely to reach you (such as posting the new Privacy Policy on our website).
+
+Any modifications to this Privacy Policy will be effective upon our publishing the new terms and/or upon implementation of the new changes on our service (or as otherwise indicated at the time of publication). In all cases, your continued use of our services after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.
+
+ **Contact us:  
+**  
+For further information about our Privacy Policy or practices, or to access or correct your personal information, or to make a complaint, please contact us using the details set out below:
+
+support [at] bugherd [dot] com
+
+‍ ****
+
+ **‍  
+**
