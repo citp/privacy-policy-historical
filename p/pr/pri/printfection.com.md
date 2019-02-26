@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printfection.com privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722110249id_/https%3A//legal.printfection.com/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfection.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226035519id_/https%3A//legal.printfection.com/%23privacy-policy) for the most accurate reproduction.*
 
 # Printfection Legal Center
 
