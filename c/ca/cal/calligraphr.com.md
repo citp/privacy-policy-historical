@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calligraphr.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112070452id_/https%3A//www.calligraphr.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calligraphr.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226055624id_/https%3A//www.calligraphr.com/en/privacy) for the most accurate reproduction.*
 
 # Calligraphr - Privacy Policy
 
