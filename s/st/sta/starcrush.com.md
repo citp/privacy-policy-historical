@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starcrush.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227232700id_/http%3A//starcrush.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcrush.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226164439id_/http%3A//starcrush.com/privacy) for the most accurate reproduction.*
 
 # StarCrush
 
@@ -6,7 +6,7 @@ Townsquare Media, Inc. and its subsidiaries and affiliates (individually or coll
 
 This policy describes the type of information we may collect from you and or that you may provide us when you interact with our websites, mobile applications, email, and online services, participate in our loyalty program, or register for one of our events (our “Services”). “You/your/user(s)” means you as a user of our Services. We offer the Services, including all information, tools and features available from the Services, to you conditioned upon your acceptance of all the terms, conditions, policies and notices stated here, which you accept by continuing to utilize the Services.
 
-[//starcrush.com/terms/](https://starcrush.com/terms/)
+[http://starcrush.com/terms/](https://starcrush.com/terms/)
 
 Guide to Contents: 
 
@@ -39,7 +39,7 @@ Guide to Contents:
 
 1.1 We value our users and respect your privacy. This Privacy Policy describes the information we collect about you online, why we collect it, how we use it, and when we share it with third parties. This Privacy Policy also describes the choices you can make about how we collect and use certain of that information.
 
-1.2 By accessing the Services, you acknowledge this Privacy Policy and agree to be bound by the terms hereof and the Terms of Service set forth on each of the Services that you visit or utilize. If you have any questions about the content of this Policy, please contact us at our privacy preferences page: [//starcrush.com/privacy/preferences](https://starcrush.com/privacy/preferences).
+1.2 By accessing the Services, you acknowledge this Privacy Policy and agree to be bound by the terms hereof and the Terms of Service set forth on each of the Services that you visit or utilize. If you have any questions about the content of this Policy, please contact us at our privacy preferences page: [http://starcrush.com/privacy/preferences](https://starcrush.com/privacy/preferences).
 
 1.3 This Policy applies to our Services as described above as well as the information we collect when you interact with us through social media or other websites and online services. It does not apply to non-TSM Websites and mobile applications that may link to the Services or be linked to or from the Services; please review the privacy policies on those Services and applications directly to understand their privacy practices. 
 
@@ -110,7 +110,7 @@ We adhere to the principles of the Digital Advertising Alliance’s Self-Regulat
 
 ### 6\. Your Options
 
-6.1 You may choose not to subscribe to email communications other than service-related communications such as payment confirmation. If you do choose to receive email communications such as email newsletters and promotional emails, you may later opt out by following the instructions provided at the bottom of each email, clicking the “unsubscribe” button at the bottom of emails we sent you, or by managing your preferences here: [//starcrush.com/privacy/preferences](https://starcrush.com/privacy/preferences). Please allow up to ten (10) business days for changes to your email preferences to take effect. 
+6.1 You may choose not to subscribe to email communications other than service-related communications such as payment confirmation. If you do choose to receive email communications such as email newsletters and promotional emails, you may later opt out by following the instructions provided at the bottom of each email, clicking the “unsubscribe” button at the bottom of emails we sent you, or by managing your preferences here: [http://starcrush.com/privacy/preferences](https://starcrush.com/privacy/preferences). Please allow up to ten (10) business days for changes to your email preferences to take effect. 
 
 6.2 You can learn more about ad serving companies and the options available to limit their collection and use of your information by visiting the Services for the [Network Advertising Initiative](http://www.networkadvertising.org/choices/), the [Digital Advertising Alliance](http://www.aboutads.info/choices/), and the [European Interactive Advertising Digital Alliance (EDAA)](https://www.edaa.eu/edaa-for-users/). Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings and by resetting the advertiser ID on your Apple or Android device. For more information about how to change these settings go to:
 
@@ -132,13 +132,13 @@ Additional resources or tools may exist that streamline the process of submittin
 
 6.6 Registered users who have provided their cell phone number to us may remove it from within their personal profile settings. If you prefer not to receive text or wireless promotional communications on your mobile device, you can opt out by replying STOP.
 
-6.7 You may update or delete information from your profile at any time, or request that we do so; however, because we archive past transactions, you cannot delete this information. You may also request that we delete your account entirely by contacting us. Terminating your registration will not necessarily remove previous public comments or other user content on public display on the Services. If you wish to cancel your account on the Services or delete your information previously provided to us, you may send your request here: [//starcrush.com/privacy/preferences](https://starcrush.com/privacy/preferences).
+6.7 You may update or delete information from your profile at any time, or request that we do so; however, because we archive past transactions, you cannot delete this information. You may also request that we delete your account entirely by contacting us. Terminating your registration will not necessarily remove previous public comments or other user content on public display on the Services. If you wish to cancel your account on the Services or delete your information previously provided to us, you may send your request here: [http://starcrush.com/privacy/preferences](https://starcrush.com/privacy/preferences).
 
 6.8 If you do not receive a response from us to any emails you send to us within ten (10) business days, please send us another email, as your original email may not have been received. 
 
 ### 7\. Children 
 
-We do not permit children under 13 years of age to use the Services, and we do not knowingly collect, use or disclose information from anyone under 13 years of age except as part of specific outreach programs with parental permission. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records. If you believe that we have mistakenly or unintentionally collected personal information of a minor without appropriate consent, please notify us at our privacy preferences page: [//starcrush.com/privacy/preferences](https://starcrush.com/privacy/preferences). You may also contact by mail at the following address: Townsquare Media, Inc., ATTN: Privacy, 240 Greenwich Ave., Greenwich, CT 06830.
+We do not permit children under 13 years of age to use the Services, and we do not knowingly collect, use or disclose information from anyone under 13 years of age except as part of specific outreach programs with parental permission. If we determine upon collection that a user is under this age, we will not use or maintain his/her Personal Information without the parent/guardian's consent. If we become aware that we have unknowingly collected personally identifiable information from a child under the age of 13, we will make reasonable efforts to delete such information from our records. If you believe that we have mistakenly or unintentionally collected personal information of a minor without appropriate consent, please notify us at our privacy preferences page: [http://starcrush.com/privacy/preferences](https://starcrush.com/privacy/preferences). You may also contact by mail at the following address: Townsquare Media, Inc., ATTN: Privacy, 240 Greenwich Ave., Greenwich, CT 06830.
 
 ### 8\. Your California Privacy Rights
 
@@ -166,6 +166,6 @@ _Purposes of processing and legal basis for processing_ : As explained above, we
 
 ### 11\. Contact
 
-If you have any questions about your privacy or security at the Services, or wish to update your information, please contact us at our privacy preferences page: [//starcrush.com/privacy/preferences](https://starcrush.com/privacy/preferences). You may also write to us at: Townsquare Media, Inc., ATTN: Privacy, 240 Greenwich Ave., Greenwich, CT 06830, Fax: 1 (800) 301-6408, and include your name, mailing address and email address in the message. You may call us at 1 (203) 861-0900.
+If you have any questions about your privacy or security at the Services, or wish to update your information, please contact us at our privacy preferences page: [http://starcrush.com/privacy/preferences](https://starcrush.com/privacy/preferences). You may also write to us at: Townsquare Media, Inc., ATTN: Privacy, 240 Greenwich Ave., Greenwich, CT 06830, Fax: 1 (800) 301-6408, and include your name, mailing address and email address in the message. You may call us at 1 (203) 861-0900.
 
 ### DATE LAST MODIFIED: December 14, 2018
