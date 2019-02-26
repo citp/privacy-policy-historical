@@ -1,65 +1,72 @@
-> *The following text is extracted and transformed from the copicmarker.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629192656id_/https%3A//imaginationinternationalinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copicmarker.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226104257id_/https%3A//www.copicmarker.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Imagination International Inc.
+# Privacy Policy | Copic
 
-#### Imagination International, Inc. Privacy Policy
+**PERSONAL INFORMATION WE COLLECT**
 
-Imagination International, Inc. (the “Company”) is committed to maintaining robust privacy protections for its users. Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service. For purposes of this Agreement, “Service” refers to the Company’s utilities which can be accessed via our product apps or website at imaginationinternationalinc.com in which users can create an account and store product data or upload photo or video data for social networking, purchase products online, locate retailers, and access educational and informational resources for all products carried by the Company. The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of Service. By accepting our Privacy Policy and [Terms of Use](https://web.archive.org/terms-of-use/ "Terms of Use"), you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
 
-### 1\. Information We Collect
+We collect Device Information using the following technologies:  
+\- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.  
+\- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.  
+\- “Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the Site.
 
-We collect “Non-Personal Information” and “Personal Information.” Non-Personal Information includes information that cannot be used to personally identify you, such as anonymous usage data, referring/exit pages and URLs, platform types, product logs, preferences you submit and preferences that are generated based on the data you submit and number of clicks. Personal Information includes your email, name, birth date and demographics which you submit to us through the registration process at the Site or when subscribing to our app.
+Additionally, when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number. We refer to this information as “Order Information”.
 
-_Information collected via Technology_
+If you sign up for our email newsletter, we will collect your online contact information, which can be changed at any time by updating your newsletter preferences.
 
-To activate the Service you do not need to submit any Personal Information other than your email address and/or name. To use the Service thereafter, you do not need to submit further Personal Information. However, in an effort to improve the quality of the Service, we track information provided to us by your browser or by our software application when you view or use the Service, such as the website you came from (known as the “referring URL”), the type of browser you use, the device from which you connected to the Service, the time and date of access, and other information that does not personally identify you. We track this information using cookies, or small text files which include an anonymous unique identifier. Cookies are sent to a user’s browser from our servers and are stored on the user’s computer hard drive.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-Sending a cookie to a user’s browser enables us to collect Non-Personal information about that user and keep a record of the user’s preferences when utilizing our services, both on an individual and aggregate basis. For example, the Company may not use cookies to collect the following information:
+ **HOW DO WE USE YOUR PERSONAL INFORMATION?**
 
-  * First and Last Name
-  * Mailing/Shipping Address
-  * Phone number
-  * Email Address
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:  
+\- Communicate with you;  
+\- Screen our orders for potential risk or fraud; and  
+\- When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
+ **SHARING YOUR PERSONAL INFORMATION**
 
-The Company may use both persistent and session cookies; persistent cookies remain on your computer after you close your session and until you delete them, while session cookies expire when you close your browser.
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy. We also use Google Analytics to help us understand how our customers use the Site -- you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-_Information you provide us by registering for an account_
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-In addition to the information provided automatically by your browser when you visit the Site or when you subscribe to and utilize our app, in order to become a subscriber to the Service you will need to create a personal profile. You can create a profile by registering with the Service and entering your email address and/or name, and creating a user name and a password. By registering, you are authorizing us to collect, store and use your email address and/or name and demographics in accordance with this Privacy Policy.
+ **BEHAVIOURAL ADVERTISING**
 
-### 2\. How We Use and Share Information
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-_Personal Information_
+You can opt out of targeted advertising by using the links below:  
+\- Facebook: https://www.facebook.com/settings/?tab=ads  
+\- Google: https://www.google.com/settings/ads/anonymous  
+\- Bing: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
 
-Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent or otherwise share for marketing purposes your Personal Information with third parties without your consent. We do share Personal Information with vendors who are performing services for the Company, such as the servers for our email communications who are provided access to user’s email address for purposes of sending emails from us. Those vendors use your Personal Information only at our direction and in accordance with our Privacy Policy. In general, the Personal Information you provide to us is used to help us communicate with you. For example, we use Personal Information to contact users in response to questions, solicit feedback from users, provide technical support, and inform users about promotional offers.
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
 
-_Non-Personal Information_
+ **DO NOT TRACK**
 
-In general, we use Non-Personal Information to help us improve the Service and customize the user experience. We also aggregate Non-Personal Information in order to track trends and analyze use patterns on the Site and within the app. This Privacy Policy does not limit in any way our use or disclosure of Non-Personal Information and we reserve the right to use and disclose such Non-Personal Information to our partners, advertisers and other third parties at our discretion.
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-In the event we undergo a business transaction such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred. You acknowledge and consent that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of our assets may continue to process your Personal Information as set forth in this Privacy Policy. If our information practices change at any time in the future, we will post the policy changes to the Site so that you may opt out of the new information practices. We suggest that you check the Site periodically if you are concerned about how your information is used.
+ **YOUR RIGHTS**
 
-### 3\. How We Protect Information
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-We implement security measures designed to protect your information from unauthorized access. Your account is protected by your account password and we urge you to take steps to keep your personal information safe by not disclosing your password and by logging out of your account after each use. We further protect your information from potential security breaches by implementing certain technological security measures including encryption, firewalls and secure socket layer technology. However, these measures do not guarantee that your information will not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. By using our Service, you acknowledge that you understand and agree to assume these risks.
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-### 4\. Your Rights Regarding the Use of Your Personal Information
+ **DATA RETENTION**
 
-You have the right at any time to prevent us from contacting you for marketing purposes. When we send a promotional communication to a user, the user can opt out of further promotional communications by following the unsubscribe instructions provided in each promotional e-mail. You can also indicate that you do not wish to receive marketing communications from us in the “Settings” section of the Site. Please note that notwithstanding the promotional preferences you indicate by either unsubscribing or opting out in the Settings section of the Site, we may continue to send you administrative emails including, for example, periodic updates to our Privacy Policy.
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
-### 5\. Links to Other Websites
+ **CHANGES**
 
-As part of the Service, we may provide links to or compatibility with other websites or applications. However, we are not responsible for the privacy practices employed by those websites or the information or content they contain. This Privacy Policy applies solely to information collected by us through the Site and the Service. Therefore, this Privacy Policy does not apply to your use of a third party website accessed by selecting a link on our Site or via our Service. To the extent that you access or use the Service through or on another website or application, then the privacy policy of that other website or application will apply to your access or use of that site or application. We encourage our users to read the privacy statements of other websites before proceeding to use them.
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
-### 6\. Changes to Our Privacy Policy
+ **CONTACT US**
 
-The Company reserves the right to change this policy and our Terms of Service at any time. We will notify you of significant changes to our Privacy Policy by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site. Significant changes will go into effect 30 days following such notification. Non-material changes or clarifications will take effect immediately. You should periodically check the Site and this privacy page for updates.
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e‑mail at info@copicmarker.com or by mail using the details provided below:
 
-### 7\. Contact Us
+Copic  
+[Re: Privacy Compliance Officer]  
+2877 Chad Drive Unit B Eugene Oregon US 97408
 
-If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to [info@iiinc.co](mailto:info@iiinc.co).
-
-Last Update Date: June 28, 2017  
-Copyright © 2017 Imagination International, Inc. All rights reserved.
+\-----
