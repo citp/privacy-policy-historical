@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kazsknifeonline.com.au privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311090733id_/https%3A//kazsknifeonline.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kazsknifeonline.com.au privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226232059id_/https%3A//kazsknifeonline.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kaz's Japanese Knife and Kitchenware
 
