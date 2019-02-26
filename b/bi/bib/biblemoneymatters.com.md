@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblemoneymatters.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230202427id_/https%3A//www.biblemoneymatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblemoneymatters.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226175454id_/https%3A//www.biblemoneymatters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
