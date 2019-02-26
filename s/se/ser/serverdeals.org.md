@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverdeals.org privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009181356id_/https%3A//www.serverdeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverdeals.org privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226160558id_/https%3A//www.serverdeals.com/privacy-policy) for the most accurate reproduction.*
 
 # Server Deals Company Privacy Policy - ServerDeals.com
 
