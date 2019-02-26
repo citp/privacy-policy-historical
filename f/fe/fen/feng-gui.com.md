@@ -1,50 +1,6 @@
-> *The following text is extracted and transformed from the feng-gui.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608141128id_/https%3A//feng-gui.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feng-gui.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226080238id_/https%3A//feng-gui.com/privacy) for the most accurate reproduction.*
 
 # Feng-GUI - Privacy Policy | Effective Visuals
-
-## Feng-GUI Privacy Policy
-
-_Last modified: August 1, 2010_
-
-At Feng-GUI we recognise that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Feng-GUI Inc. or its subsidiaries or affiliated companies; collectively, Feng-GUI's "services". In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy notices to describe how particular services process personal information.(referred as "Personal Information" in this document).
-
-### Information that we collect and how we use it
-
-We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Feng-GUI free Attention Heatmap. In order to provide our full range of services, we may collect the following types of information: 
-
-**Information you provide** \- When you sign up for a Feng-GUI Account or another Feng-GUI service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, we may also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information that you submit under your account with information from other Feng-GUI services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. 
-
-**Cookies** \- When you visit Feng-GUI, we may send one or more cookies - a small file containing a string of characters that uniquely identifies your browser - to your computer. We use cookies to improve the quality of our services. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent so that you can decide whether or not to accept any cookies on a case-by-case basis.
-
-**Log information** \- When you access Feng-GUI services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
-
-**User communications** \- When you send email or other communications to Feng-GUI, we may retain those communications in order to process your enquiries, respond to your requests and improve our services. 
-
-**Affiliated sites** \- We offer some of our services in connection with other websites. Personal information that you provide to those sites may be sent to Feng-GUI in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. 
-
-Feng-GUI only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include: 
-
-* Providing our services to users, including the display of customized content and advertising; 
-
-* Auditing, research and analysis in order to maintain, protect and improve our services; 
-
-* Ensuring the technical functioning of our network; and 
-
-* Developing new services. 
-
-You can find more information about how we process personal information by referring to the supplementary privacy notices for particular services. 
-
-Feng-GUI processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our partners. 
-
-### Choices for personal information
-
-When you sign up for a particular service that requires registration, we ask that you provide personal information. If we use this information in a manner different from the purpose for which it was collected, then we will ask for your consent prior to such use. 
-
-If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent. 
-
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Feng-GUI features and services may not function properly if your cookies are disabled. 
-
-You can decline to submit personal information to any of our services, in which case Feng-GUI may not be able to provide those services to you. 
 
 ### Information sharing
 
@@ -58,7 +14,7 @@ Feng-GUI only shares personal information with other companies or individuals ou
 
 If Feng-GUI becomes involved in a merger, acquisition or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. 
 
-We may share with third parties certain pieces of aggregate non-personal information, this is information that is recorded about users and collected into groups so that it no longer reflects or references an individually identifiable user. Such information does not identify you individually. 
+We may share with third parties certain pieces of aggregate non-personal information, this is information that is recorded about users and collected into groups so that it no longer reflects or references an individually identifiable user. Such information does not identify you individually.
 
 ### Information security
 
@@ -83,6 +39,4 @@ When we receive formal written complaints at this address, it is Feng-GUI's poli
 
 ### Changes to this Privacy Policy
 
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent and we expect that most changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).   
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us at any time by emailing info feng-gui.com  
-
+The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request that the Data Controller remove the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
