@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sessioncam.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117173052id_/https%3A//sessioncam.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sessioncam.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226085443id_/https%3A//sessioncam.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy | SessionCam
 
@@ -188,6 +188,27 @@ All of the information collected by SessionCam for our clients is encrypted usin
 The information collected is stored and managed within our secure infrastructure which includes physical, hardware and software-based security controls. Access to the information we collect is carefully controlled and restricted to authorized individuals only.
 
 Our clients have access to the information collected from their customers only via SessionCam. Client access to the data gathered by SessionCam is restricted to defined, individual user accounts through our web-based reporting console, which is under 256-bit SSL encryption.
+
+**Customers with Google Analytics Bi-directional integration**
+
+SessionCam offers customers the ability to link their Google Analytics accounts to SessionCam in order to allow SessionCam recordings to be filtered by Segments defined within Google Analytics.
+
+As part of the setup process for this, you will be asked to authenticate with your Google account.
+
+Please note that we connect to Google using the following “Scope”:
+
+<https://www.googleapis.com/auth/analytics.readonly>
+
+This allows SessionCam read-only access to your Google Analytics data. More information on this can be found [here](https://developers.google.com/identity/protocols/googlescopes#analyticsv3).
+
+Once authenticated, SessionCam will periodically retrieve the following data:
+
+  * A list of defined Google Segments  
+We discard “built in” segments and only store Segment names and ID’s for “custom” Segments
+  * For each of those Google Segments, a list of SessionCam ID’s  
+We store this list of SessionCam ID’s and match these to SessionCam recordings.
+
+
 
 **Changes to this Privacy Notice**  
 We may change this Privacy Notice at any time to ensure it always accurately reflects the way we collect, use and safeguard your Personal Information.
