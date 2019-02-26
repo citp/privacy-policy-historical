@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simmarket.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230142742id_/https%3A//secure.simmarket.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simmarket.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226201708id_/https%3A//secure.simmarket.com/privacy.php) for the most accurate reproduction.*
 
 # simMarket: Flight, Train, Ship and Simulation Games, Aviation Videos, Books
 
