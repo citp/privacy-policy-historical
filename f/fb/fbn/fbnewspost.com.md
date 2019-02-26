@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fbnewspost.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608164900id_/http%3A//www.fbnewspost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbnewspost.com privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226105239id_/http%3A//fbnewspost.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy – FB NEWS POST
 
 **Key details**
 
@@ -10,7 +10,7 @@ If you are asked to provide information when using this website, it will only be
 
 This policy is updated from time to time. The latest version is published on this page.
 
-This website privacy policy was updated on: **01/06/2018**
+This website privacy policy was updated on: **02/02/2019**
 
 If you have any questions about this policy, please email anonews.co@gmail.com or write to:
 
