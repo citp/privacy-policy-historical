@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the printfection.com privacy policy that was archived on 2018-07-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180722110249id_/https%3A//legal.printfection.com/%23privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the printfection.com privacy policy that was archived on 2019-02-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190226035519id_/https%3A//legal.printfection.com/%23privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
   <title>Printfection Legal Center</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  
   <link href="//fonts.googleapis.com/css?family=Heebo:300,400,500,600,700,800,900" rel="stylesheet">
     <link rel="shortcut icon" href="http://www.printfection.com/wp-content/themes/printfection-marketing/favicon.ico" type="image/x-icon">
     <link rel="icon" href="http://www.printfection.com/wp-content/themes/printfection-marketing/favicon.ico" type="image/x-icon">
@@ -24,6 +25,7 @@
       margin: 0;
       padding: 0;
       width: 100%;
+      background-color: #FFF;
     }
     div, span, object, iframe, img, table, caption, thead, tbody,
     tfoot, tr, tr, td, article, aside, canvas, details, figure, hgroup, menu,
@@ -446,7 +448,7 @@
       color: #ee2da0;
     }
     a.inline-link:hover {
-      color: #0873af;
+      color: #ee2da0;
     }
     .u-full-width {
       width: 100%;
@@ -621,7 +623,7 @@
       text-align: center;
       font-size: 0.75em;
     }
-    
+
     @media (min-width: 800px) {
       .header {
         padding: 3.15rem 0;
@@ -677,7 +679,7 @@
         float: right;
       }
     }
-    
+
     /* DOCUMENT STYLES */
     .body h1, .body h2, .body h3, .body h4, .body h5, .body h6, .body p, .body blockquote, .body pre, .body a, .body abbr, .body address, .body cit, .body code, .body
     del, .body dfn, .body em, .body ins, .body q, .body samp, .body small, .body strong, .body sub, .body sup, .body b, .body i, .body hr, .body dl, .body dt, .body dd, .body
@@ -688,56 +690,69 @@
       margin: initial;
       padding: initial;
     }
-    
+
+    .body > div, .body h1, .body h2, .body h3, .body h4, .body h5, .body h6, .body p, .body ul, .body ol, .body li, .body table {
+      position: relative;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      outline: 0;
+    }
+
     .body table {
       border-collapse: collapse;
       border-spacing: initial;
       border: 1px solid #e2ebf2;
       width: 100%;
     }
-    
+
     .body table caption,
     .body table th,
     .body table td {
       text-align: left;
       vertical-align: top;
     }
-    
+
     .body table td {
       border: 1px solid #e2ebf2;
       padding: 10px;
     }
-    
+
     .body a,
     .body a:focus,
     .body a:hover {
       cursor: pointer;
       text-decoration: initial;
     }
-    
+
     .body ol {
       list-style-type: decimal;
       padding: 0 0 0 40px;
+      list-style-position: outside;
     }
 
-    .body ol > ol {
+    .body ol > ol,
+    .body ol > li > ol {
       list-style-type: lower-alpha;
     }
 
-    .body ol > ol > ol {
+    .body ol > ol > ol,
+    .body ol > li > ol > li > ol {
       list-style-type: lower-roman;
     }
 
     .body ul {
       list-style-type: disc;
       padding: 0 0 0 40px;
+      list-style-position: outside;
     }
 
-    .body ul > ul {
+    .body ul > ul,
+    .body ul > li > ul {
       list-style-type: circle;
     }
 
-    .body ul > ul > ul {
+    .body ul > ul > ul,
+    .body ul > li > ul > li > ul {
       list-style-type: square;
     }
 
@@ -1255,6 +1270,41 @@
 
     var _active_contract;
 
+    /**
+     * Closest is not supported in all browsers so we need to do a looping through the parent nodes
+     * to find the parent with the certain class. And in order to do that there is a match function that happens
+     * which also is not supported fully in all browswers so hence we have polyfills.
+     *
+     * Source: https://stackoverflow.com/questions/22119673/find-the-closest-ancestor-element-that-has-a-specific-class
+     */
+    if (!Element.prototype.matches) {
+      Element.prototype.matches =
+          Element.prototype.matchesSelector ||
+          Element.prototype.mozMatchesSelector ||
+          Element.prototype.msMatchesSelector ||
+          Element.prototype.oMatchesSelector ||
+          Element.prototype.webkitMatchesSelector ||
+          function(s) {
+            var matches = (this.document || this.ownerDocument).querySelectorAll(s),
+                i = matches.length;
+            while (--i >= 0 && matches.item(i) !== this) {}
+            return i > -1;
+          };
+    }
+
+    function findAncestor(el, sel) {
+      if (typeof el.closest === 'function') {
+        return el.closest(sel) || null;
+      }
+      while (el) {
+        if (el.matches(sel)) {
+          return el;
+        }
+        el = el.parentElement;
+      }
+      return null;
+    }
+
     function displayContract() {
       var params = parseHash(window.location.hash),
           key = getQueryVariable('k'),
@@ -1265,6 +1315,14 @@
       else {
         if (params['key']) params['a'] = contractMap[params['key']];
         if (params['a']) cid = params['a'];
+      }
+
+      if (!cid) {
+        var paragraphEl = document.getElementById(params['key']);
+        if (paragraphEl) {
+          var contractContainer = findAncestor(paragraphEl, '.contract-container');
+          if (contractContainer) cid = contractContainer.getAttribute('data-id');
+        }
       }
 
       if (cid) {
@@ -1306,6 +1364,16 @@
       sendVisited();
     }
 
+    function checkForAnchor() {
+      var params = parseHash(window.location.hash);
+
+      if (_active_contract) {
+        var selectedElement = document.querySelectorAll('#contract-versions-' + _active_contract + ' #' + params['key']);
+        if (selectedElement.length > 0) return;
+      }
+      displayContract();
+    }
+
     function displayGroup() {
       if (!window._loadingGroup) {
         document.getElementById('contracts-list-header').innerHTML = 'All Contracts';
@@ -1328,6 +1396,7 @@
 
     function getDisplayedVersions(){
       var versions = [];
+      if (!document.getElementById('contract-versions-' + _active_contract)) return;
       Array.prototype.slice.call(document.getElementById('contract-versions-' + _active_contract)
           .getElementsByClassName('version-container'))
           .filter(function(version){
@@ -1485,7 +1554,7 @@
       if (window._loaded) return;
       window._loaded = true;
       displayGroup();
-      listenTo(window, 'hashchange', displayContract);
+      listenTo(window, 'hashchange', checkForAnchor);
       listenTo(document, 'change', selectVersion);
       listenTo(document, 'change', selectTranslation);
       buildToC();
@@ -1738,7 +1807,7 @@
 <hr class="divider footer-divider">
 <div id="footer" class="container">
   <p class="powered-by"><a href="https://www.pactsafe.com/?utm_source=powered-by&amp;utm_medium=referral&amp;utm_campaign=Powered_By" target="_blank" class="inline-link">Legal Center powered by PactSafe</a></p>
-  <p class="footer-copyright">Copyright © 2018, <a href="https://www.printfection.com" target="_blank" class="inline-link">Printfection</a></p>
+  <p class="footer-copyright">Copyright © 2019, <a href="https://www.printfection.com" target="_blank" class="inline-link">Printfection</a></p>
 </div>
 <!-- footer_script -->
 
