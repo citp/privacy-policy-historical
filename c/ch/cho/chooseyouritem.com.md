@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the chooseyouritem.com privacy policy that was archived on 2011-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110828155043id_/http%3A//www.chooseyouritem.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chooseyouritem.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227221254id_/https%3A//www.chooseyouritem.com/policy.html) for the most accurate reproduction.*
 
-# Online classifieds with photos. For sale classifieds. Free text ads. Sell it with pictures.
+# Online vehicle classifieds with photos. For sale classifieds. Sell it with pictures.
 
   | 
 
 ## Use Agreement and Privacy Statement
 
-ChooseYourItem.com is designed to serve buyers and sellers of property and homes for sale. While every effort is made to be accurate, by using this site or any ChooseYourItem.com services, you agree that neither the advertisers nor the publisher will be responsible for misinformation, typographical errors, etc., herein or for any form of damages arising from the viewing of, the use of, or participation in any of the related websites or services. You are agreeing that viewing and usage of the same is at your own risk. Company names, manufacturer names and model names of the items listed as well as logos are the property of their respective companies and are used only for purposes of identifying the element. No part of ChooseYourItem.com or its published material may be reproduced in any form without prior consent of the publisher. 
+ChooseYourItem.com is designed to serve buyers and sellers of property for sale. While every effort is made to be accurate, by using this site or any ChooseYourItem.com services, you agree that neither the advertisers nor the publisher will be responsible for misinformation, typographical errors, etc., herein or for any form of damages arising from the viewing of, the use of, or participation in any of the related websites or services. You are agreeing that viewing and usage of the same is at your own risk. Company names, manufacturer names and model names of the items listed as well as logos are the property of their respective companies and are used only for purposes of identifying the element. No part of ChooseYourItem.com or its published material may be reproduced in any form without prior consent of the publisher. 
 
 ## Our Privacy Policy
 
@@ -32,6 +32,12 @@ We use third-party advertising companies to serve ads when you visit this websit
 
 If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our website periodically.
 
-If you are participating in any form of newsletter program that is being managed and hosted by ChooseYourItem.com, the email address that you provide to us will only be used by ChooseYourItem.com to send email communications that you have specifically told us you are interested in receiving. This information will never be made available to any third parties. You may remove yourself from the newsletter program at any time by sending an email to: [info@ChooseYourItem.com](mailto:info@ChooseYourItem.com). 
+If you are participating in any form of newsletter program that is being managed and hosted by ChooseYourItem.com, the email address that you provide to us will only be used by ChooseYourItem.com to send email communications that you have specifically told us you are interested in receiving. This information will never be made available to any third parties. You may remove yourself from the newsletter program at any time by contacting us using the "Contact Us" link below. 
+
+**Cookies & 3rd Party Advertisements**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 |  
