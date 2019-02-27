@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faronics.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915100458id_/http%3A//www.faronics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faronics.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227215625id_/https%3A//www.faronics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Faronics
 
@@ -82,7 +82,7 @@ We also obtain and use certain aggregated data such as statistical or demographi
 
 ## Where we store your Personal Information
 
-The personal data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our subprocessors. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  Details of the members of the Group, including where they are based, can be found by under Locations on the Contact Us page of the group website: [http://www.faronics.com/en-uk/company/contact](http://www.faronics.com/company/contact/).
+The personal data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our subprocessors. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  Details of the members of the Group, including where they are based, can be found by under Locations on the Contact Us page of the group website: [https://www.faronics.com/en-uk/company/contact](https://www.faronics.com/company/contact).
 
 ## How long we keep your Personal Information 
 
