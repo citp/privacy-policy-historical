@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the pldthome.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917133144id_/http%3A//www.pldthome.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pldthome.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227114624id_/https%3A//pldthome.com/privacypolicy) for the most accurate reproduction.*
 
 # PLDT Group Privacy Statement
 
-## Our Privacy Commitment 
+### Our Privacy Commitment 
 
 The PLDT Group of Companies respects our customers’ fundamental right to privacy, and we commit to take great care in safeguarding your personal data. The PLDT Group has developed a Privacy Policy that aims to ensure that all PLDT Group Companies and Subsidiaries adopt and observe appropriate standards for personal data protection in compliance with Republic Act No. 10173 or the Data Privacy Act of 2012 and its implementing rules and regulations. 
 
 While the PLDT Group Privacy Policy sets out the general principles that govern the collection, use, and disclosure of our customers’ personal information, we have also developed this Privacy Commitment to inform you more specifically about our privacy practices.
 
-## **Why we collect your personal information  **
+###  **Why we collect your personal information   **
 
 If you are a customer of a PLDT Group Company or Subsidiary, we collect and maintain some basic information about you. We do so only for the following purposes:
 
@@ -22,12 +22,12 @@ If you are a customer of a PLDT Group Company or Subsidiary, we collect and main
 
 
 
-## **Where we get these information**
+###  **Where we get these information**
 
 ****There are several ways we collect information.  
 
-  **Information that you personally give us.     
-**  
+  **Information that you personally give us.      
+**   
 Most of the personal information we have are those that you have given us yourself. You provide us personal information when you: 
 
   * Apply for our services by filling out Application Forms, Subscription Agreements, and other similar or related documents through any of our available channels (online, in our stores, or through our Sales representatives);
@@ -38,9 +38,9 @@ Most of the personal information we have are those that you have given us yourse
 
 
 
-   
-**Information we collect during our relationship with you    
-**  
+    
+**Information we collect during our relationship with you     
+**   
 We also collect information as you use our products and services, like when you: 
 
   * Use our network, facilities and services - whether it is Mobile, Fixed, Home, Enterprise, or any of our other products, services, and channels;
@@ -50,20 +50,20 @@ We also collect information as you use our products and services, like when you:
 
 
 
-**Information we collect from other sources    
-**  
-We also collect information from commercially or publicly available sources like published directories and public documents. We may also obtain your personal information from third parties and from other sources which you have given separate consent for the disclosure of such information relating to you and where otherwise lawfully permitted.  
+**Information we collect from other sources     
+**   
+We also collect information from commercially or publicly available sources like published directories and public documents. We may also obtain your personal information from third parties and from other sources which you have given separate consent for the disclosure of such information relating to you and where otherwise lawfully permitted.   
 ****
 
-## **When we disclose personal information**
+###  **When we disclose personal information**
 
 ****There are a variety of circumstances where we may need to disclose or share some of the information that you have provided to us. In these cases, we ensure that your personal information is disclosed on a confidential basis, and always subject to the applicable rules and regulations of the Data Privacy Act.
 
-We will never share, rent or sell your personal information to third parties outside of the PLDT Group of Companies except in special circumstances where you may have given your specific consent for, and as noted in this policy.
+We will never share, rent or sell your personal information to third parties outside of the PLDT Group of Companies except in special circumstances where you may have given your specific consent for, and as noted in this policy. 
 
 In some instances, we may be required to disclose your personal information to our agents, subsidiaries, affiliates, partners and other third party agencies as part of our regular business operations and for the provision of our products and services. This means we might share your information with: 
 
-  * [Our partner companies, organizations, or agencies](http://www.pldt.com/privacy-policy#partners) including their sub-contractors or prospective business partners that act as our service providers, contractors, professional advisers who help us provide our products and services. For example: our couriers for bill delivery and our customer contact centers for our pre- and post-sales hotline operations;
+  * [Our partner companies, organizations, or agencies](http://www.pldt.com/privacy-policy#partners) including their sub-contractors or prospective business partners that act as our service providers, contractors, professional advisers who help us provide our products and services. For example: our couriers for bill delivery and our customer contact centers for our pre- and post-sales hotline operations; 
   * [PLDT Group Companies, Subsidiaries, and Affiliates](http://www.pldt.com/privacy-policy#subsidiaries); This includes: 
     * Smart
     * ePLDT
@@ -82,9 +82,9 @@ In some instances, we may be required to disclose your personal information to o
 
 
 
-## How we protect your personal information
+### How we protect your personal information
 
-The integrity, confidentiality and security of your information are important to us. That’s why we strictly enforce our Privacy Policy within the PLDT Group and have implemented technical, organizational and physical security measures that are designed to protect your information from destruction, unauthorized access, alteration, disclosure, fraudulent misuse and/or any other unlawful processing, as well as other natural and human dangers.
+The integrity, confidentiality and security of your information are important to us. That’s why we strictly enforce our Privacy Policy within the PLDT Group and have implemented technical, organizational and physical security measures that are designed to protect your information from destruction, unauthorized access, alteration, disclosure, fraudulent misuse and/or any other unlawful processing, as well as other natural and human dangers. 
 
 We also put in effect safeguards such as:
 
@@ -92,12 +92,12 @@ We also put in effect safeguards such as:
   * We keep your information only for as long as necessary for the fulfillment of the purposes for which the information was obtained or for the establishment, exercise or defense of legal claims, or for legitimate business purposes, or as provided by law;
   * We restrict access to your information only to qualified and authorized personnel who handle your information with strict confidentiality.
   * We undergo regular audit and rigorous testing of our infrastructure’s security protocols to ensure your data is always protected;
-  * We promptly notify you and the National Privacy Commission, when sensitive personal information that may, under the circumstances, be used to enable identity fraud are reasonably believed to have been acquired by an unauthorized person;
+  * We promptly notify you and the National Privacy Commission, when sensitive personal information that may, under the circumstances, be used to enable identity fraud are reasonably believed to have been acquired by an unauthorized person; 
   * We let you update your information securely to keep our records accurate.
 
 
 
-The PLDT Group of Companies will not collect, use, or disclose your personal information for any purpose other than those identified in this Commitment, your Service Agreement or our Terms of Service, and any other purpose that you may have given your consent for.
+The PLDT Group of Companies will not collect, use, or disclose your personal information for any purpose other than those identified in this Commitment, your Service Agreement or our Terms of Service, and any other purpose that you may have given your consent for. 
 
 For greater clarity, unless you provide specific consent, we will not:
 
@@ -106,43 +106,22 @@ For greater clarity, unless you provide specific consent, we will not:
 
 
 
-## What your choices are
+### What your choices are
 
-You are afforded certain rights in relation to your personal data under the Data Privacy Act. We would like to ensure that we have your consent to continue to collect, use, and disclose your personal information for the purposes that we have identified. At the same time, we want you to know that you do have choices and can object or withdraw your consent and/or edit your consent preferences at any time:
+You are afforded certain rights in relation to your personal data under the Data Privacy Act. We would like to ensure that we have your consent to continue to collect, use, and disclose your personal information for the purposes that we have identified. At the same time, we want you to know that you do have choices and can object or withdraw your consent and/or edit your consent preferences at any time: 
 
-If you wish to have access to your personal information in our records; or you think that such personal information we have of you is incomplete, not up-to-date, or otherwise inaccurate, you may get in touch with the PLDT Group Data Privacy Officer through the contact details provided below. In some instances, we may request for supporting documents or proof before we effect any requested changes to your personal information.
+If you wish to have access to your personal information in our records; or you think that such personal information we have of you is incomplete, not up-to-date, or otherwise inaccurate, you may get in touch with the PLDT Group Data Privacy Officer through the contact details provided below. In some instances, we may request for supporting documents or proof before we effect any requested changes to your personal information. 
 
-  **PLDT Group Data Privacy Office;**  
+  **PLDT Group Data Privacy Office;**   
 Ramon Cojuangco Building, Makati Avenue, Makati City 1200 Philippines   
 E-mail: dpo@pldt.com.ph 
 
-**PLDT Home Data Privacy Officer**  
+**PLDT Home Data Privacy Officer**   
 Ramon Cojuangco Building, Makati Avenue, Makati City 1200 Philippines   
-homedpo@pldt.com.ph
+homedpo@pldt.com.ph 
 
-## What happens when there are changes in our Policy
+### What happens when there are changes in our Policy
 
-From time to time, we may update our privacy policy and practices to comply with changes in the laws, rules, and regulations, to comply with government and regulatory requirements, to adapt to new technologies and protocols, to align with industry practices, or for other legitimate purposes.
+From time to time, we may update our privacy policy and practices to comply with changes in the laws, rules, and regulations, to comply with government and regulatory requirements, to adapt to new technologies and protocols, to align with industry practices, or for other legitimate purposes. 
 
 You will always be provided notice if these changes are significant and, if we are required by law, we will ensure to obtain your updated consent. 
-
-## Data Privacy Notice
-
- As a condition for use of the service, you permit PLDT Home and its subsidiaries, affiliates, and subcontractors to process and/or disclose personal data, including data that may be classified as personal information and/or sensitive personal information under the Data Privacy Act of 2012, to agents, subsidiaries, affiliates, partners, and other third parties, in order to undertake activities that may include, among others:
-
-  1. Conducting analysis for purposes of research and marketing initiatives, including the generation of anonymized or non-personally identifiable location and mobility data to show footfall, location patterns, crowd density, and other information that may be relevant for marketing purposes;
-
-  2. Managing your account, providing customer care activities, monitoring the quality and security of the network, training our staff, and providing the services to you in a timely and efficient manner;
-
-  3. Generating statistical insights based on usage/network information to assist the Government in planning for healthcare, disaster, and other similar initiatives;
-
-  4. Credit scoring programs and initiatives, including but not limited to providing information to the Credit Information Corporation in furtherance of the objectives of Republic Act No. 9501, otherwise known as the Credit Information System Act; 
-
-  5. Sending commercial and promotional advertisements, loyalty and rewards offers, surveys, customer-care, and after sales communications, and other broadcast push messages;
-
-  6. Sharing your personal data with third-party content providers or other third-party services for which you sign up; and
-
-  7. Such other processing or disclosure that may be required under law or regulations.
-
-
-
