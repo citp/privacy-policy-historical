@@ -1,148 +1,342 @@
-> *The following text is extracted and transformed from the blackberrymobile.com privacy policy that was archived on 2018-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180609195609id_/https%3A//www.blackberrymobile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackberrymobile.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227144143id_/https%3A//blackberrymobile.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BlackBerry Mobile - Official website
+# Privacy Policy | BlackBerry Mobile - Official website
 
-#### Introduction
+At _TCT Mobile Europe_ (“ **we** “, “ **us** “, “ **our** “, “TCT”), we regularly collect and use information that could identify an individual (“ **personal data** “), in particular about your purchase or use of our products, services, mobile and software applications and websites (“ **you** “, “ **your** “). The protection of your personal data is very important to us, and we understand our responsibilities to handle your personal data with care, to keep it secure and to comply with legal requirements.
 
-We, TCL Communication Ltd. (hereinafter to the referred to as “we”, “our”, or “TCT”) respect your concerns about privacy. This Privacy Policy explains our policies and procedures regarding personal and other information about our customers. We intend to provide you with a level of comfort and confidence in how we collect, use, disclose, and safeguard personal and other information that we collect or that you provide to us. This Privacy Policy also explains how you can contact us if you have any questions or concerns about your personal information.
+The purpose of this privacy policy is to provide a clear explanation of when, why and how we collect and use personal data (“ **Policy** “). This Policy purports to cover the whole of the services provided by TCL Group entities. In order to review the terms related to any specific service, you may refer to its relevant chapter within the Policy. We have designed it to be as user friendly as possible, and have labelled sections to make it easy for you to find the information that may be most relevant to you and to allow you to click on a topic to find out more.
 
-#### Scope
+Please read this Policy carefully. This Policy is not intended to override the terms of any contract that you have with us or any other entity of the TCL Group or any rights you might have available under applicable data protection laws.
 
-This Privacy Policy describes in detail our policy and practices regarding collection, use and disclosure of information that we collect through our websites, software applications, social media pages, e-mail messages, and your purchase or use of our products or service, or personal information that you otherwise provide to us.
+We may make changes to this Policy from time to time for example, to keep it up to date or to comply with legal requirements or changes in the way we operate our business. We will notify you about significant changes by _sending a message to your mobile phone or by prominently posting a notice on our website[https://www.blackberrymobile.com](https://www.blackberrymobile.com/)_. We encourage you to regularly check and review this policy so that you will always know what information we collect, how we use it, and who we share it with.
 
-By providing personal information to us, accessing our website or by using our products or services, you acknowledge that you have read and understood this Privacy Policy and agreed to the terms and conditions of this Privacy Policy.
+This Privacy Policy was updated on _March 30, 2018_.
 
-We will take all steps reasonably necessary to ensure that your personal information is stored and processed securely and in accordance with this Privacy Policy and applicable laws.
+#### Contents
 
-#### The personal information we collect
+#### 1\. WHO is responsible for looking after your personal data?
 
-This Privacy Policy applies to personal information, which is information that can be used to contact or identify a single person.
+TCL Communication Limited ( **“TCT”** ) is a Hong Kong based telecommunication company focusing on global scale smart product manufacture and internet application services, with a registered office at _5/F Building 22E Science Park East Avenue Hong Kong_.
 
-We collect information that you give us. We receive and store safely any information when you create an account ID, purchase our products or services, download a software update, contact us or participate in an online survey.
+As TCT is the company which was originally responsible for collecting information about you, it will be the data controller. You should be aware that although TCT may be principally responsible for looking after your personal data, information may be held in databases which can be accessed by other TCT group companies.
 
-We collect automatic information. We receive and store certain types of information whenever you interact with us.
+#### 2\. WHAT personal data do we collect or process?
 
-We collect information used in e-mail communications. To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from our e-shopping website if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.
+Personal data we collect or process include:
 
-We collect information from other sources. We might receive information about you from other sources, which are duly authorized by yourself to transfer such information to third parties and add it to our account information.
+  *  ** _Contact and payment details_** _and basic user information including your name, address, telephone number, credit card number, email address, gender, date of birth;_
+  *  ** _Special categories of data_** _including biometrics data, health data when you use certain applications;_
+  *  _Other information about you including your occupation, language, location of your device, and time zone;_
+  *  _Your **marketing preferences** including interests / marketing list assignments, record of permissions or marketing objections, website data; _
+  * **_Device data and log information_** _including unique device identifiers (such as IMEI number, IMSI number, Mac, the address of the device’s wireless network interface, or mobile phone number used by the device), referrer URL, IP addresses and details about your use of our websites, cloud services, app store, browsing history, search queries, browser type, and session frequency;_
 
-#### How we use your personal information
 
-  * The personal information we collect allows us to keep you posted on our latest product announcements, software updates, and upcoming events. If you don’t want to be on our mailing list, you can opt out anytime by updating your preferences.
-  * We also use personal information to help us create, develop, operate, deliver, and improve our products, services, content, advertising and continually improve your user experience
-  * We may use your personal information to repond to your inquiries and fulfill your requests.
-  * We may use your personal information, including date of birth, to verify identity, assist with identification of users, and to determine appropriate services. For example, we may use date of birth to determine the age of user account holders.
-  * From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with us, you may not opt out of receiving these communications.
-  * We may also use personal information for internal purposes such as auditing, data analysis, and research to improve our products, services, and customer communications.
 
+#### 3\. WHEN do we collect your personal data?
 
+ _We will collect information from you **directly** when you use your device, when you upgrade your device, when you register an account on your device, on our app store or on our website, when you sign up for marketing materials, when you purchase or use our products and services, or where you contact us with questions, complaints or suggestions or provide us with any feedback._
 
-#### Collection and Use of Non-Personal Information
+ _We may collect information about you **indirectly** from other sources and combine that with information we collect through our services where this is necessary to help manage our relationship with you. These other sources may include third party software applications and social media platforms such as Facebook, Google + and Twitter._
 
-We may also collect information which does not, on its own, allow direct association with any specific individual. We may collect, use, transfer and disclose non-personal information for any purpose. Here are some examples of non-personal data that we may collect:
+We will not knowingly collect any personal data about children under 13 without making it clear that such information should only be provided with parental consent, if this is required by applicable laws. TCT will only use the personal data of children as far as is permitted by law where the required parental or guardian consent has been obtained.
 
-  * Non- personal data such as occupation, language, zip code, area code, unique device identifier, referrer URL, location, and the time zone where one of our products is used so that we can better understand customer behavior and improve our products, services, and advertising.
-  * Non- personal data regarding customer activities on our website, cloud services and the app store and from our other products and services. This information is aggregated and used to help us to provide more useful information to our customers and to understand which parts of our website, products, and services are of most interest. For the purposes of this privacy policy, this type of data is considered to be non-personal information.
-  * Details of how you use our services, including search queries, which may be used to improve the relevancy of results provided by our services. Except in limited instances to ensure quality of our services over the Internet, such information will not be associated with your IP address.
-  * With your explicit consent, we may collect data about how you use your device and applications in order to help app developers to improve their apps.
+#### 4\. What PURPOSES do we USE your personal data for?
 
+We will use your personal data:
 
+  *  _To keep you posted on software updates, technical updates, security alerts and support and administrative messages;_
+  *  _To allow you to download and purchase our products and services such as our apps and related websites;_
+  *  _To help us create, provide, develop, operate, deliver, maintain and improve our products, services, content, advertising and continually improve your user experience;_
+  *  _To assess customer satisfaction and link or combine with information we get from others to help understand your needs and provide you with better user experience;_
+  *  _To process transactions and send you related information, including confirmations and invoices;_
+  *  _To respond to your comments, feedback, inquiries, questions, provide customer service and support and fulfil your requests;_
+  *  _To verify identity, assist with identification of users, and to determine appropriate services;_
+  *  _To communicate with you and send you important notices or personalised messages, such as communications about purchases and changes to our terms, conditions, and policies;_
+  *  _To monitor, evaluate and analyse trends, data, transactions, usage and activities in connection with our products and services;_
+  *  _To facilitate internal purposes such as auditing, data analysis, and research to improve our products, services, user experience and customer communications;_
+  *  _To send you marketing materials, news and information which we think will be of interest to you such as our latest product announcements and upcoming events (where we have obtained your consent, or otherwise permitted by law to do so), this process may include profiling; and_
+  *  _To detect, investigate and prevent fraudulent transactions and other illegal activities and protect our rights and property;_
+  *  _To use your personal data for purposes associated with our legal and regulatory obligations._
 
-If we do combine non-personal information with personal information, the combined information will be treated as personal information for as long as it remains combined.
 
-#### Cookies and Other Technologies
 
-Our websites, online services, interactive applications, email messages, and advertisements may use “cookies” and other technologies. These technologies help us better understand user behavior, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non personal information. However, to the extent that IP addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
+We have to establish a legal ground to use your personal data, so we will make sure that we only use your personal data for the purposes set out in this Section 4 and in Appendix 1 where we are satisfied that:
 
-TCT and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to make your experience with TCT more convenient and personal. For example, knowing someone using your computer or device has shopped for a certain product or used a particular service helps us make our advertising and email communications more relevant to your interests.
+  * our use of your personal data is necessary to perform a contract or take steps to enter into a contract with you (e.g. to fulfil obligations under the contract signed between you and us), or
+  * our use of your personal data is necessary to comply with a relevant legal or regulatory obligation that we are subject to, or
+  * our use of your personal data is necessary to support ‘legitimate interests’ that we have as a business (for example, to improve our products, or to carry out analytics across our datasets), provided it is always carried out in a way that is proportionate, and that respects your privacy rights.
 
-You may configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences. For example, on Microsoft Internet Explorer you can disable or delete cookies by selecting “Tools/Internet Options”.
 
-In some of our email messages, we use a “click-through URL” linked to content on our website. When customers click one of these URLs, they pass through a separate web server before arriving at the destination page on our website. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.
 
-#### Do We Share the Information?
+In order for us to provide you with our services when you use certain applications, we may collect special categories of data from you. For our collection or use of your special categories of data, we will establish an additional lawful ground to those set out above which will allow us to use that information. This additional exemption will typically be:
 
-We do not share personal information with companies, organizations and individuals outside of TCT unless one of the following circumstances applies.
+  * your explicit consent;
+  * the establishment, exercise or defence by us or third parties of legal claims; or
+  * a specific exemption provided under local laws of EU Member States and other countries implementing the GDPR.
 
-TCT may share personal information with your consent.
 
-We may disclose personal information to our affiliates when necessary to perform services on our or on your behalf.
 
-We cooperate with companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+ **PLEASE NOTE:** If we have previously advised that we are relying on consent as the basis of our processing activities, going forward we will not be relying on that legal basis except where this has been explicitly set out to you.
 
-We will share personal information with organizations or individuals outside our organization if we believe that access, use, preservation or disclosure of the information is reasonably necessary to:
+ **PLEASE NOTE:** If you provide your explicit consent to allow us to process your special categories of data, you may withdraw your consent to such processing at any time. However, you should be aware that if you choose to do so we may be unable to continue to provide certain services to you. If you choose to withdraw your consent we will tell you more about the possible consequences.
 
-  * meet any applicable law, regulation, legal process or enforceable governmental request.
-  * detect, prevent or otherwise address fraud, security or technical issues.
-  * protect against harm to the rights, property or safety of our users or the public, as required or permitted by law.
+#### Who do we SHARE your personal data with?
 
+We may share your data with other TCT group companies in or outside Europe. A list of the TCT group companies is available at https://www.blackberrymobile.com. We may also share your data with third parties, to help manage our business and deliver services. These third parties may from time to time need to have access to your personal data. These third parties may include:
 
+  *  _ **Service providers,** who perform functions such as fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data (such as Google Firebase, Microsoft Power BI, Facebook), providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, providing translation services (such as Baidu) and providing customer services. If you share your data through one of our websites or devices with a third party account such as Facebook, Google + or Twitter, your personal data will be managed respectively by one of those third parties. Please review the third party’s privacy policy, as their data processing will not be covered by this Policy; _
+  * _**Our regulators,** for example the Information Commissioner’s Office in the United Kingdom (“ICO”), as well as other regulators and law enforcement agencies in the E.U. and around the world;_
+  *  _ **Other third parties,** for the purposes of detecting, preventing or otherwise addressing fraud, security or technical issues, protecting against harm to the rights, property or safety of our users or the public;_
+  *  _ **Solicitors** and other professional services firms (including our auditors)._
 
-#### Security and Transparency
 
-We will endeavor to take all reasonable physical, technical and organizational measures and procedures to safeguard and secure the personal information we collect through our products and our website.
 
-We work hard to protect our company, reputation and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of personal information that we hold. In particular:
+Also, if we were to sell part of our businesses we would need to transfer your personal data to the purchaser.
 
-  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems;
-  * We use encryption where appropriate;
-  * We use password protection where appropriate; and
-  * We restrict access to personal information to our employees, contractors and agents who need to know that information in order to process it for us and who are subject to strict contractual confidentiality obligations. They may be disciplined or their contract may be terminated if they fail to meet these obligations.
+#### 6\. Direct Marketing
 
+We may use your personal data to send you direct marketing communications about our products and services or our related services including our latest product announcements and upcoming events. This may be in the form of _email, post, SMS, telephone or targeted online advertisements_. We limit direct marketing to a reasonable and proportionate level, and to send you communications which we think will be interesting and relevant to you, based on the information we have about you.
 
+For the purposes of GDPR our processing of your personal data for direct marketing purposes is based on our legitimate interests as further detailed in Appendix 1, but where opt-in consent is required by the relevant European laws such as the Privacy and Electronic Communications Regulations, we may ask you for your consent. You have a right to stop receiving direct marketing at any time. You can do this by following the opt-out links in electronic communications (such as emails), or by contacting us using the details in Section 25.
 
-However, these measures do not release you from taking appropriate steps to keep your personal information safe and secure, in particular by avoiding obvious user ID’s or passwords, by ensuring that you do not disclose your password(s) or grant any other person access to your user account and your personal information, and any other protective measures applicable.
+We also use your personal data for customising or personalising ads, offers and content made available to you based on your usage of our mobile applications, websites, platforms or services, and analysing the performance of those ads, offers and content, as well as your interaction with them. We may also recommend content to you based on information we have collected about you and your viewing habits. This constitutes ‘profiling’ in respect of which more information is provided at Section 8 of this Policy.
 
-Regarding transparency, our goal is to be clear what information we collect, so that you can make choices about how it is used.
+#### 7\. International Transfers
 
-If you share your personal information through one of our websites or devices with a third party account, such as Facebook, Google + or Twitter, please note that the privacy of your personal information will be managed respectively by one of those third parties. We are not responsible for any damages due to any data loss, damage or infringement that may occur on your third party profiles over which we have no control.
+We may transfer your personal data to TCT group companies or service providers that are located outside of Europe. We may also share your personal data overseas, for example if we receive a legal or regulatory request from a foreign law enforcement body. We will always take steps to ensure that any international transfer of information is carefully managed to protect your rights and interests:
 
-Any personal information or content that you voluntarily disclose while using our website or devices and which can be viewed by members of third party applications or sites (such as chat areas, in messages), becomes publicly viewable and can be collected ,viewed and used by others. You are responsible for the personal information you choose to share or submit in these instance.
+  * we will only transfer your personal data to countries which are recognised as providing an adequate level of legal protection; and
+  * transfers to TCT group companies, service providers and other third parties will always be protected by contractual commitments for additional security. For example, the EU – US Privacy Shield for the protection of personal data transferred to the US.
 
-#### Changes
 
-Our Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
 
-The current version is dated Feb 10, 2017.
+You have the right to ask us for more information about the safeguards we have put in place as mentioned above. Contact us as set out in Section 25 if you would like further information or to request a copy where the safeguard is documented (which may be redacted to ensure confidentiality).
 
-#### Retention of Personal Information
+#### 8\. Profiling
 
-We keep your personal information for a limited duration necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law and only for the purposes defined above. Once the purpose is achieved, all personal information is deleted in a safe and secure mode.
+ **‘Automated decision making’** refers to a decision which is taken though the automated processing of your personal data alone. This means processing using, for example, software code or an algorithm, which does not involve any human intervention. As profiling uses automated processing, it is sometimes connected with automated decision making. Not all profiling results in automated decision making, but it can do.
 
-#### Location-Based Services
+If you are a consumer that has signed up to receive marketing updates, _we may use profiling to ensure that marketing materials are tailored to your preferences and to what we think you will be interested in_. This does not have any significant effect, or a legal effect on you. In certain circumstances it may be possible to infer certain information about you from the result of profiling, which may include special categories of data. We will not however conduct profiling based on your special categories of data unless we have obtained your explicit consent to do so.
 
-To provide location-based services on TCT products, TCT and our partners and licensees may collect, use, and share precise location data, including the real-time geographic location of your device. Where available, location-based services may use GPS, Bluetooth, and your IP Address, along with crowd-sourced Wi-Fi hotspot and cell tower locations, and other technologies to determine your devices’ approximate location. Unless you provide consent, this location data is collected anonymously in a form that does not personally identify you and is used by TCT and our partners and licensees to provide and improve location-based products and services. For example, your device may share its geographic location with application providers when you opt in to their location services.
+ **PLEASE NOTE.** You have certain rights in respect of automated decision making, including profiling where that decision has significant effects on you, including where it produces a legal effect on you. See Section 10.
 
-#### Third Party Sites and Services
+#### 9\. How long do we keep your personal data?
 
-TCT websites, products, applications, and services may contain links to third-party websites, products, and services. Our products and services may also use or offer products or services from third parties. Information collected by third parties, which may include such things as location data or contact details, is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties.
+We will retain your personal data for as long as is reasonably necessary for the purposes listed in Section 4 of this Policy. In some circumstances we may retain your personal data for longer periods of time, for example where we are required to do so to meet legal, regulatory, tax or accounting requirements.
 
-#### Your rights: Access, Edit, Block
+In specific circumstances we may also retain your personal data for longer periods of time so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a possibility of legal action relating to your personal data or dealings. _We maintain a data retention policy which we apply to records in our care. Where your personal data is no longer required we will ensure it is either securely deleted or stored in a way which means it will no longer be used by the business._
 
-You can access, review and edit your personal information at any time by logging into your user account, visiting your user profile or by contacting us directly. Should you require us to edit or delete your personal information, we may ask you to provide us with evidence of your identity before we can act on your request.
+#### 10\. What are your rights?
 
-You can also have your data deleted or blocked, as appropriate, should you believe that your data is inaccurate.
+You have a number of rights in relation to your personal data. In summary, you may request access to your data, rectification of any mistakes in our files, erasure of records where no longer required, restriction on the processing of your data, objection to the processing of your data, data portability and various information in relation to any automated decision making and profiling or the basis for international transfers. You also have the right to complain to your supervisory authority (further details of which are set out in Section 25 below).
 
-For all and any requests as defined above, you may send your request to the following email address: privacy@blackberrymobile.com
+Those underlined are defined in more detail as follows:
 
-Under certain jurisdictions and data protection laws, you may have the right to request details of your personal information which we hold about you or to request the correction or deletion of your personal information.
+RIGHT| WHAT THIS MEANS  
+---|---  
+Access| You can ask us to:
 
-Please help us to ensure that the personal information that we hold about you is accurate and up to date. If you think that any personal information we have stored about you is incorrect or incomplete, please contact us at privacy@blackberrymobile.com or write to our customer services department.
+  * confirm whether we are processing your personal data;
+  * give you a copy of that data;
+  * provide you with other information about your personal data such as what data we have, what we use it for, who we disclose it to, whether we transfer it abroad and how we protect it, how long we keep it for, what rights you have, how you can make a complaint, where we got your data from and whether we have carried out automated decision making or profiling, to the extent that information has not already been provided to you in this Policy.
 
-#### Your rights: Access, Edit, Block
+  
+ _Rectification_|  You can ask us to rectify inaccurate personal data. We may seek to verify the accuracy of the data before rectifying it.  
+ _Erasure_|  You can ask us to erase your personal data, but only where:
 
-You can access, review and edit your personal information at any time by logging into your user account, visiting your user profile or by contacting us directly. Should you require us to edit or delete your personal information, we may ask you to provide us with evidence of your identity before we can act on your request.
+  * it is no longer needed for the purposes for which it was collected; or
+  * you have withdrawn your consent (where the data processing was based on consent); or
+  * following a successful right to object (see ‘objection’ below); or
+  * it has been processed unlawfully; or
+  * to comply with a legal obligation which TCT is subject to.
 
-You can also have your data deleted or blocked, as appropriate, should you believe that your data is inaccurate.
 
-For all and any requests as defined above, you may send your request to the following email address: privacy@blackberrymobile.com
 
-Under certain jurisdictions and data protection laws, you may have the right to request details of your personal information which we hold about you or to request the correction or deletion of your personal information.
+We are not required to comply with your request to erase your personal data if the processing of your personal data is necessary: for compliance with a legal obligation; or for the establishment, exercise or defence of legal claims. There are certain other circumstances in which we are not required to comply with your erasure request, although these two are the most likely circumstances where we would deny that request.  
+  
+ _Restriction_|  You can ask us to restrict (i.e. keep but not use) your personal data, but only where:
 
-Please help us to ensure that the personal information that we hold about you is accurate and up to date. If you think that any personal information we have stored about you is incorrect or incomplete, please contact us at privacy@blackberrymobile.com or write to our customer services department.
+  * its accuracy is contested (see ‘rectification’ below), to allow us to verify its accuracy; or
+  * the processing is unlawful, but you do not want it erased; or
+  * it is no longer needed for the purposes for which it was collected, but we still need it to establish, exercise or defend legal claims; or
+  * you have exercised the right to object, and verification of overriding grounds is pending.
 
-#### Privacy Questions
 
-If you have any questions or concerns about our Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us. You can always contact us by phone at the relevant phone number or email for your country.
 
-All communications are examined and replies are issued where appropriate as soon as possible. If you are unsatisfied with the reply received, you may refer your complaint to the relevant regulator in your jurisdiction. If you ask us, we will endeavor to provide you with information about relevant complaint avenues which may be applicable to your circumstances.
+We can continue to use your personal data following a request for restriction, where:
+
+  * we have your consent; or
+  * to establish, exercise or defend legal claims; or
+  * to protect the rights of another natural or legal person.
+
+  
+ _Portability_|  You can ask us to provide your personal data to you in a structured, commonly used, machine-readable format, or you can ask to have it ‘ported’ directly to another data controller, but in each case only where: the processing is based on your consent or the performance of a contract with you; and the processing is carried out by automated means.  
+ _Objection_|  You can object to any processing of your personal data which has our ‘legitimate interests’ as its legal basis (see Appendix 1 for further details), if you believe your fundamental rights and freedoms outweigh our legitimate interests. Once you have objected, we have an opportunity to demonstrate that we have compelling legitimate interests which override your rights.   
+_Automated Decision Making_|  You can ask not to be subject to a decision which is based solely on automated processing (see Section 8), but only where that decision:
+
+  * produces legal effects concerning you (such as the rejection of a claim); or
+  * otherwise significantly affects you.
+
+
+
+In such situations, you can obtain human intervention in the decision making, and we will ensure measures are in place to allow you to express your point of view, and/or contest the automated decision. Your right to obtain human intervention or to contest a decision does not apply where the decision which is made following automated decision making:
+
+  * is necessary for entering into or performing a contract with you;
+  * is authorised by law and there are suitable safeguards for your rights and freedoms; or
+  * is based on your explicit consent.
+
+  
+  
+To exercise your rights you may contact us as set out in Section 25. **PLEASE NOTE** the following if you do wish to exercise these rights:
+
+  *  **Identity**. We take the confidentiality of all records containing personal data seriously, and reserve the right to ask you for proof of your identity if you make a request.
+  *  **Fees**. We will not ask for a fee to exercise any of your rights in relation to your personal data, unless your request for access to information is unfounded, repetitive or excessive, in which case we will charge a reasonable amount in the circumstances. We will let you know of any charges before completing your request.
+  *  **Timescales**. We aim to respond to any valid requests within one month unless it is particularly complicated or you have made several requests, in which case we aim to respond within three months. We will let you know if we are going to take longer than one month. We might ask you if you can help by telling us what exactly you want to receive or are concerned about. This will help us to action your request more quickly.
+  *  **Exemptions**. Local laws may provide additional exemptions, e.g. in the UK, where it is subject to legal privilege, the right of access to personal data can be withheld from you in certain circumstances.
+  *  **Third Party Rights**. We do not have to comply with a request where it would adversely affect the rights and freedoms of other Data Subjects.
+
+
+
+#### 11\. How we PROTECT your personal data?
+
+We endeavour to protect us and you from unauthorised access to or unauthorised alteration, disclosure or destruction of personal data that we hold.
+
+In particular:
+
+  *  _We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems;_
+  *  _We use encryption where appropriate;_
+  *  _We use password protection where appropriate; and_
+  *  _We restrict access to personal data to our employees, contractors and agents who need access to the relevant personal data in order to for them to process it for us and who are subject to strict contractual confidentiality obligations._
+
+
+
+You are responsible for the personal data that you choose to share, disclose or submit voluntarily while using our website or devices and which can be viewed by members of third party applications or sites such as chat applications or messengers.
+
+#### 12\. Contact and complaints
+
+The primary point of contact for all issues arising from this Policy, including requests to exercise data subject rights, is our data protection officer. In order for us to facilitate your enquiries, requests or complaint, please contact our data protection officer:
+
+[ _privacy@blackberrymobile.com_](mailto:privacy@blackberrymobile.com)
+
+If you have a complaint or concern about how we use your personal data, please contact us in the first instance and we will attempt to resolve the issue as soon as possible. You also have a right to lodge a complaint with your national data protection supervisory authority at any time. For example, in the UK, the supervisory authority for data protection is the ICO (<https://ico.org.uk/)>. We do ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time.
+
+#### APPENDIX 1 - LEGAL BASIS FOR PROCESSING
+
+Activity| Type of information collected| The basis on which we use the information  
+---|---|---  
+Setting up an account (e.g. app store, website)| 
+
+  * Contact details and basic user information
+  * Payment details
+
+| 
+
+  * Legitimate interests (to ensure we have an accurate record of all customers that we interact with, to assist with identification of users and to improve user experience)
+
+  
+Providing client care and support and providing product warranty| 
+
+  * Contact details and basic user information
+  * Payment details
+  * Device data and log information
+
+| 
+
+  * Legitimate interest (to improve product and customer service experience, to ensure quality and functions of products, to assess customer satisfaction and to handle requests from customers)
+
+  
+Synchronising data| 
+
+  * Contact details and basic user information
+  * Device data and log information
+
+| 
+
+  * Legitimate interests (to ensure we have an accurate record of all customers that we interact with, to assist with identification of users and to improve user experience)
+
+  
+Providing products and services (e.g. app store services, website, app)| 
+
+  * Contact details and basic user information
+  * Special categories of data
+  * Device data and log information
+  * Cookies and tracking data
+
+| 
+
+  * Legitimate interest (to provide products and services and to improve product and customer service experience)
+  * Explicit consent (for the collection of special categories of data: to provide users with certain products and services in relation to health and lifestyle)
+
+  
+Marketing, profiling and generating reports| 
+
+  * Contact details and basic user information
+  * Special categories of data
+  * Device data and log information
+  * Cookies and tracking data
+  * Marketing preference
+
+| 
+
+  * Legitimate interests (to improve product and customer service experience and to conduct diagnostics or analytics on customer behaviour)
+  * Explicit consent (for the collection of special categories of data: to provide users with certain products and services in relation to health and lifestyle)
+  * Consent (for the collection and processing of personal data for direct marketing purposes)
+
+  
+Processing transactions and sending related information (e.g. confirmation, invoices)| 
+
+  * Contact details and basic user information
+  * Payment details
+
+| 
+
+  * Legitimate interests (to provide products and services, to improve product and customer service experience and to handle requests from customers)
+
+  
+System upgrades, bug fixing and sending notifications (e.g. software updates, technical updates, security alerts and support and administrative messages)| 
+
+  * Contact details and basic user information
+  * Device data and log information
+
+| 
+
+  * Legitimate interest (to fix issues and improve product and customer service experience)
+
+  
+Product analysis, development, improvement and testing| 
+
+  * Contact details and basic user information
+  * Device data and log information
+
+| 
+
+  * Legitimate interest (to fix issues, to improve product and customer service experience, to ensure quality and functions of products and to assess customer satisfaction)
+
+  
+Sale or reorganisation of our business| 
+
+  * All (where relevant to the sale or reorganisation)
+
+| 
+
+  * Legitimate interest (to structure our business appropriately)
+
+  
+Monitor and detect fraud| 
+
+  * Anti-fraud data
+
+| 
+
+  * Legitimate interest (to monitor, assess and ultimately prevent fraud)
+
+  
+Comply with legal and regulatory obligations| 
+
+  * All (where required under applicable laws and regulations)
+
+| 
+
+  * Legal obligation (for detecting, preventing, or otherwise addressing fraud, security or technical issues and protecting users or public against harm)
+
+
