@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worditout.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001070534id_/https%3A//worditout.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worditout.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227053130id_/https%3A//worditout.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy – WordItOut
 
