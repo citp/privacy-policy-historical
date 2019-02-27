@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looporn.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121193029id_/http%3A//www.looporn.com/site/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looporn.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227195857id_/https%3A//www.looporn.com/site/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
