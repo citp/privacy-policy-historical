@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joinindiannavy.gov.in privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825173736id_/https%3A//www.joinindiannavy.gov.in/en/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinindiannavy.gov.in privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227100542id_/https%3A//www.joinindiannavy.gov.in/en/page/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Join Indian Navy
+# Privacy Policy - Join Indian Navy | Government of India
 
 We do not collect personal Information for any purpose other than to respond to you. If you choose to provide us with personal information like when filling out a 'Contact Us' with an e-mail address or postal address, and submit it to us through the website, we may use that information to respond to your message, and to give you the information sought.
 
