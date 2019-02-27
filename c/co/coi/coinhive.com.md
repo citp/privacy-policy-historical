@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinhive.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929075854id_/https%3A//coinhive.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinhive.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227204348id_/https%3A//coinhive.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy – Coinhive – Monero Mining Club
 
