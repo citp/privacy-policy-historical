@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the northstudio.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209221848id_/https%3A//www.northstudio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northstudio.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227034823id_/https%3A//www.northstudio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | North Studio
 
-We at North Studio (northStudio inc. and our affiliates) are committed to protecting your privacy. This Privacy Policy applies to our Website ([www.northstudio.com](https://www.northstudio.com/)). This Privacy Policy governs our data collection, processing and usage practices. By using the Website, you consent to the data practices described in this Privacy Policy. If you do not agree with the data practices described in this Privacy Policy, you should not use the Website.
+We at North Studio (northStudio inc. and our affiliates) are committed to protecting your privacy. This Privacy Policy applies to our Website ([www.northstudio.com](http://www.northstudio.com/)). This Privacy Policy governs our data collection, processing and usage practices. By using the Website, you consent to the data practices described in this Privacy Policy. If you do not agree with the data practices described in this Privacy Policy, you should not use the Website.
 
 We periodically update this Privacy Policy. We encourage you to review this Privacy Policy periodically.
 
