@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protemplateslab.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225171517id_/https%3A//www.protemplateslab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protemplateslab.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227153545id_/https%3A//www.protemplateslab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
