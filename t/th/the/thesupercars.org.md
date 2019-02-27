@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesupercars.org privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211112736id_/http%3A//www.thesupercars.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesupercars.org privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227090040id_/http%3A//www.thesupercars.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Supercars - Car Reviews, Pictures and Specs of Fast, New & Used Cars
 
