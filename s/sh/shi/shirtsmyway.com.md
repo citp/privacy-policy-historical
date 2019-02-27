@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shirtsmyway.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606160301id_/http%3A//www.shirtsmyway.com/privacy_security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shirtsmyway.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227230722id_/http%3A//www.shirtsmyway.com/privacy_security.php) for the most accurate reproduction.*
 
 # Privacy & Security | ShirtsMyWay
 
