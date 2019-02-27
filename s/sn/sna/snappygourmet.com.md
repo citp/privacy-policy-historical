@@ -1,57 +1,107 @@
-> *The following text is extracted and transformed from the snappygourmet.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206131301id_/http%3A//snappygourmet.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snappygourmet.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227205639id_/https%3A//snappygourmet.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Snappy Gourmet
 
 Snappy Gourmet is committed to maintaining the privacy and protection of your personal information.  By using the Snappy Gourmet website you are consenting to the following privacy policy which may be modified occasionally by Snappy Gourmet.
 
-**What Information We Collect**
+Snappy Gourmet found at https://snappygourmet.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
-We may collect information from you when you register on Snappy Gourmet for emails or newsletters, place an order, respond to a survey, or navigate our site.  When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, or contact information. You may, however, visit our site anonymously.
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
-**What We Use Information For**
+**WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?**
 
-Information collected may be used to improve our website by studying traffic patterns.  It may also be used to send periodic emails if you subscribed and opted-in to our email list.  The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+**Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form.
 
-**Protecting Your Information**
+**Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+**Cookies** : We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-**Cookies & Tracking Information**
+HOW YOUR INFORMATION MAY BE USED
 
-Occasionally we may use Cookies (if enabled on your system)  to compile data about site traffic and site interaction so that Snappy Gourmet can offer better site experiences and tools in the future.  Like other websites, Snappy Gourmet may gather click tracking information including IP addresses,  clickstream data, and other information to improve the site.  Please note that any information or comments you provide in public areas of the sites such as in a comment may be read, collected, or used by others outside of Snappy Gourmet.
+We may use the information collected in the following ways:
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+  * To operate and maintain the Website;
+  * To create your account, identify you as a user of the Website, and customize the Website for your account;
+  * To send you promotional information if you submit your email address, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or questions;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-**California Online Privacy Protection Act Compliance**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**Childrens Online Privacy Protection Act Compliance**
+THIRD-PARTY USE OF PERSONAL INFORMATION
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act).  Snappy Gourmet will not knowingly collect any information from children under 13. Our website, products and services are all directed to people who are at least 13 years old or older.  If you are under 13 please get your parent’s permission before visiting the site and/or providing any personal information.
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-**Online Privacy Policy Only**
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+The Website currently uses the following third-party service providers:
 
-**Third Party Websites**
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-Snappy Gourmet may contain links to other websites.  If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies. Snappy Gourmet may also include some affiliate links or ads. Snappy Gourmet may receive a small compensation when referring someone through the affiliate links and ads.
+MailerLite – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  The service may store additional information. Please refer to MailerLite’s privacy policy for further information.
 
-**Terms and Conditions**
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://snappygourmet.com/about/terms-conditions/>
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-**Your Consent**
+ANONYMOUS DATA
 
-By using the Snappy Gourmet website, you consent to our privacy policy.
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-**Contacting Us**
+PUBLICLY VISIBLE INFORMATION
 
-If there are any questions regarding this privacy policy you may use our [contact form](http://snappygourmet.com/contact/ "contact form") or contact us at lisa@snappygourmet.com
+If you leave a comment on the Website, certain information may be publicly visible. Your email address will never be available publicly.  At your option, you may also add an avatar, and a link to your website.
 
-**Changes to our Privacy Policy**
+COOKIES
 
-Snappy Gourmet reserves the right to add to, change, update, or modify this privacy policy by posting changes without notice.
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
 
-This policy was last modified on September 23, 2014
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+ADVERTISING
+
+**Display Ads**
+
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
+
+**Retargeting  Ads**
+
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+**Affiliate Program Participation**
+
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+Snappy Gourmet is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+Newsletters
+
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+RIGHTS RELATED TO YOUR PERSONAL INFORMATION
+
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at lisa@snappygourmet to be removed from our mailing list.
+
+Access – You may access the personal information we have about you by submitting a request to lisa@snappygourmet.com.
+
+Amend – You may contact us at lisa@snappygourmet.com to amend or update your personal information.
+
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to lisa@snappygourmet.com.
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+SENSITIVE PERSONAL INFORMATION
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+CHILDREN’S INFORMATION
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at lisa@snappygourmet.com and we will use our best efforts to promptly remove such information from our records.
+
+CONTACT INFORMATION
+
+At any time, please contact us at lisa@snappygourmet.com for questions related to this Privacy Policy.
+
+Last updated: May 4, 2018
