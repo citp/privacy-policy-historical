@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xdating.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023110900id_/https%3A//www.xdating.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xdating.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227075831id_/https%3A//www.xdating.com/site/privacy) for the most accurate reproduction.*
 
 # XDating.com - best dating online for free
 
@@ -68,7 +68,9 @@ Once you register, you will be able to review and change much of your personally
 
 Please promptly update your information if it changes by logging in to your account and following the screen prompts. We strongly urge you to periodically change your password to help reduce the risk of unauthorized access to your account information.
 
-Upon your request, we will remove your credit card number and credit card expiration date from our main databases. To make this request, email us at [support@xdating.com](mailto:support@xdating.com). We will retain in our files information, including credit card information, you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems, comply with Credit Card Merchant Banking and Association Agreements, enhance security, reduce fraud, comply with Federal and State Law, and to enforce our [Terms of Service Agreement](https://web.archive.org/site/terms).
+Upon your request, we will remove your credit card number and credit card expiration date from our main databases. To make this request, email us at [support@xdating.com](mailto:support@xdating.com). We will retain in our files information, including credit card information, you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems, comply with Credit Card Merchant Banking and Association Agreements, enhance security, reduce fraud, comply with Federal and State Law, and to enforce our [Terms of Service Agreement](https://web.archive.org/site/terms). We are PCI-DSS compliant.
+
+You have the right to see the information that we have about you and you have the right to get any inaccurate information we have about you corrected. To exercise these choices and rights, write to [support@xdating.com](mailto:support@xdating.com).
 
 #### 8\. Third Party Collections of Information
 
