@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpapershome.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609171817id_/http%3A//wallpapershome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapershome.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227114417id_/https%3A//wallpapershome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
