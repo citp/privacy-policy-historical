@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the justinalexanderbridal.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301095710id_/https%3A//www.justinalexanderbridal.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justinalexanderbridal.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227180139id_/https%3A//www.justinalexander.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Justin Alexander
 
-### 
-
-This web site, which is located at [ **www.justinalexanderbridal.com**](https://www.justinalexanderbridal.com/)  (the “Site”), is published and maintained by Justin Alexander, with offices located at 711 Executive Boulevard, Suite G, Valley Cottage, New York. This Privacy Policy governs your access to and use of the Site and any other website, microsite, mobile device application, or Internet property owned, or operated by Justin Alexander, and related services (collectively with the Site, the "Justin Alexander Web Properties”). By visiting the Justin Alexander Web Properties, and/or using the related services, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the Justin Alexander  **Terms of Use** , which governs your use of the Justin Alexander Web Properties. The Justin Alexander Web Properties are intended for users who are located in the United States of America, and shall be interpreted under the laws of the United States.
+This web site, which is located at [ **www.justinalexander.com**](https://www.justinalexanderbridal.com/)  (the “Site”), is published and maintained by Justin Alexander, with offices located at 11 Edison Place, Springfield Township, New Jersey. This Privacy Policy governs your access to and use of the Site and any other website, microsite, mobile device application, or Internet property owned, or operated by Justin Alexander, and related services (collectively with the Site, the "Justin Alexander Web Properties”). By visiting the Justin Alexander Web Properties, and/or using the related services, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the Justin Alexander  **Terms of Use** , which governs your use of the Justin Alexander Web Properties. The Justin Alexander Web Properties are intended for users who are located in the United States of America, and shall be interpreted under the laws of the United States.
 
 **PURPOSE**
 
@@ -54,7 +52,7 @@ Currently, we use a third party partner to provide our e-commerce solution, and 
 
 **AGGREGATE STATISTICS**
 
-We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, the Justin Alexander Web Properties and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user. Aggregate information is non-personally identifiable/anonymous information about you, such as age, gender, types of products purchased, pages you access most frequently or search terms you enter. Aggregate information is used in a collective manner, and no single person can be identified by that compiled information. For example, the number of people who visit [ **www.justinalexanderbridal.com**](https://www.justinalexanderbridal.com/) who are 25 years of age is aggregate information that does not personally identify a specific user.
+We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, the Justin Alexander Web Properties and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user. Aggregate information is non-personally identifiable/anonymous information about you, such as age, gender, types of products purchased, pages you access most frequently or search terms you enter. Aggregate information is used in a collective manner, and no single person can be identified by that compiled information. For example, the number of people who visit [ **www.justinalexander.com**](https://www.justinalexanderbridal.com/)  who are 25 years of age is aggregate information that does not personally identify a specific user.
 
 **LEGALLY COMPELLED DISCLOSURES**
 
@@ -64,7 +62,7 @@ We may disclose user information to government authorities, and to other third p
 
 If the email address you provide to us is a wireless email address, you agree to receive messages at such address from Justin Alexander (unless and until you have elected not to receive such messages by following the instructions in the Right to Opt Out section above). You understand that your wireless carrier's standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the Right to Opt Out section above. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.
 
-**YOUR ACCESS RIGHTS You may review the Personal Information that is stored in your user account on [ **www.justinalexanderbridal.com**](https://www.justinalexanderbridal.com/)  by logging in at  **"My Account"**  or by calling our customer service department at 1-845-369-6631. We will send you a copy of the Personal Information we have on file in your user account (if any). You may provide us new or updated information at any time. We will endeavor to respond to your request to access, update or delete your information as soon as practicable. Before we are able to provide you with any information, correct any inaccuracies or delete any information, however, we may ask you to verify your identity and to provide other details to help us to respond to your request.
+**YOUR ACCESS RIGHTS You may review the Personal Information that is stored in your user account on [ **www.justinalexander.com**](https://www.justinalexanderbridal.com/)  by logging in at  **"My Account"**  or by calling our customer service department at 1-845-369-6631. We will send you a copy of the Personal Information we have on file in your user account (if any). You may provide us new or updated information at any time. We will endeavor to respond to your request to access, update or delete your information as soon as practicable. Before we are able to provide you with any information, correct any inaccuracies or delete any information, however, we may ask you to verify your identity and to provide other details to help us to respond to your request.
 
 **SECURITY**
 
@@ -96,11 +94,11 @@ The Justin Alexander Web Properties are hosted and operated in the United States
 
 **THIRD PARTY "LINKED-TO" WEB SITES**
 
-When you are on the Justin Alexander Web Properties you may have the opportunity to visit, or link to, other sites not operated by Justin Alexander. These sites may collect Personal Information about you. Justin Alexander does not control sites that are operated by these entities and is not responsible for the information practices of these sites. This Privacy Policy does not address the information practices of those other Web sites. 
+When you are on the Justin Alexander Web Properties you may have the opportunity to visit, or link to, other sites not operated by Justin Alexander. These sites may collect Personal Information about you. Justin Alexander does not control sites that are operated by these entities and is not responsible for the information practices of these sites. This Privacy Policy does not address the information practices of those other Web sites.
 
 **CHANGES TO THIS PRIVACY POLICY**
 
-Justin Alexander reserves the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of the Justin Alexander Web Properties by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to [ **www.justinalexanderbridal.com**](https://www.justinalexanderbridal.com/). Your continued use of the Justin Alexander Web Properties constitutes your agreement to abide by the Privacy Policy as changed. Under certain circumstances (for example, if we would like to use your Personal Information in a manner different from that stated in our Privacy Policy at the time of collection), we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as by sending you an e-mail.
+Justin Alexander reserves the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of the Justin Alexander Web Properties by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to [ **www.justinalexander.com**](https://www.justinalexanderbridal.com/). Your continued use of the Justin Alexander Web Properties constitutes your agreement to abide by the Privacy Policy as changed. Under certain circumstances (for example, if we would like to use your Personal Information in a manner different from that stated in our Privacy Policy at the time of collection), we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as by sending you an e-mail.
 
 **CONTACT US**
 
@@ -108,15 +106,15 @@ If you have any questions or comments regarding our privacy practices, you may 
 
 Effective Date: December 1, 2011
 
-This is the web site of  **Justin Alexander Bridal.**
+This is the web site of  **Justin Alexander.**
 
 POSTAL ADDRESS  
-45 US Highway 46, Unit 607 Pinebrook, NJ 07058
+11 Edison Place, Springfield, NJ 07081, United States
 
 EMAIL ADDRESS  
 info-us@justinalexanderbridal.com
 
-TELEPHONE   
+TELEPHONE   
 1 845.369.6631
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
