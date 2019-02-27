@@ -1,69 +1,38 @@
-> *The following text is extracted and transformed from the bistasolutions.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208010033id_/http%3A//www.bistasolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bistasolutions.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227191919id_/https%3A//www.bistasolutions.com/privacy-policy) for the most accurate reproduction.*
 
-# Bista Solutions - Privacy Policy erp open erp open source erp software erp for manufacturing industries vtiger crm vtiger customization vtiger implementation sugarcrm customization processmaker implementation open source erp software and support
+# Bista Solutions: ERP in Cloud Privacy Policy | Services
 
-This privacy policy sets out how Bista Solutions uses and protects any information that you give Bista Solutions when you use this website.
+## ERPinCloud Privacy Policy:
 
-Bista Solutions is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Bista Solutions Inc has launched a set of Services at our website www.bistasolutions.com. The general terms of use are covered in our Terms of Services page. This webpage covers our Privacy Policy with regards to the services offered at www.bistasolutions.com  
+By using the Services at www.bistasolutions.com, you are explicitly agreeing to the Privacy Policy mentioned below.
 
-Bista Solutions may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/01/2010.
+On signing up for our Services at www.bistasolutions.com you will need to create a user account with a corresponding login and password. You need to protect your account related information since it is private and confidential to you. Bista Solutions Inc will not transfer your personal account details to any other users.  
+While using the Services at www.bistasolutions.com, Bista Solutions Inc may request personal information such as name, your personal profile email address, details of organization you belong, and credit card details for billing and payment purposes. All these information will be considered as Personal Information that is confidential to you. Bista Solutions Inc will not share this information with other users or with any third party.  
+Please note that you can update your personal information at any time
 
-**What we collect**
+We accept payments through Credit Cards on www.bistasolutions.com. For accepting your payments, we store only the name and address of the credit card holder, the last four digits of your card number and the expiry date of the credit card. During a payment transaction, your credit card information will be sent using SSL encryption to our payment gateway provider who handles this information in compliance with this privacy policy.
 
-We may collect the following information:
+## Account Related Contents and Data:
 
-· name and job title
+Bista Solutions Inc will maintain a record of how you use your account including types of services accessed, frequency and time duration of logging into your account. This information will be used anonymously for improving your experience with our services.  
+We also analyse other technical details such as browser choice, URLs accessed, time zones, and related technical details to improve the technical aspects of our services.
 
-· contact information including email address
+Our website www.bistasolutions.com will use cookies to improve the use experience and quality of our services. You may choose to turn off the cookies. However, if you turn off cookies then certain features in our website may not be accessible.
 
-· demographic information such as postcode, preferences and interests
+In some cases, we may need to share personal information.  
+Sharing information with our partners and affiliates. Such information will be shared purely for providing you with the complete services that we promise on our website. Our partners and affiliates are also compliant with this privacy policy.  
+We may share personal information with Law Enforcement Agencies if there is a need as part of legal enquiry or legal procedures. We may share personal information with Law authorities if such an act is necessary to protect the safety of other users accessing services or or Bista employees.
 
-· other information relevant to customer surveys and/or offers
+Bista Solutions Inc may use external links on www.bistasolutions.com You are advised to exercise caution while using those external links. Further you are advised not to reveal your personal information to any of those external links.
 
-**What we do with the information we gather**
+All the information at www.bistasolutions.com is stored in servers that are placed inside secure data centres. These data centres provide high levels of physical and electronic data security. In addition, we adopt industry standard practices while transmitting, storing or retrieving user related information that prevents unauthorized access, alteration or destruction of all user account related information including your personal information and data content.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+Bista Solutions Inc may provide blogs and forums as part of the Services offered at www.bistasolutions.com Participation in these blogs or forums is optional. If you choose to participate in these forums, you are advised not reveal any personal information to other users of the blogs and forums.
 
-· Internal record keeping. 
+## Modification of Privacy Policy:
 
-· We may use the information to improve our products and services. 
+Bista Solutions Inc reserves the right to modify this privacy policy at any time. We will communicate changes to our privacy policy via email to all our users. If you do not agree to terms of the new privacy policy, you may choose to cancel your account with us. If you continue using our services, then you explicitly agree to the modified privacy policy.
 
-· We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-
-· From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
-
-**Security**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
-
-**How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-**Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-· whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-
-· if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@bistasolutions.com](mailto:info@bistasolutions.com)
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-**Our Offerings :**
-
-**** We offer implementations of erp, enterprise resource planning software, erp software, business software, workflow software, work flow management, bpm, business process management, vtiger crm, sales force automation tool, sugar crm customizations, customer relationship management, ecommerce development magento website development ecommerce integration with open erp, open source software, open source erp software, processmaker, education crm for schools colleges universities and institutes. 
+Please contact legal@bistasolutions.com for any queries around this privacy policy.  
+Last Modified: June 7th 2013
