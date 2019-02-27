@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quality-website-traffic.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827020238id_/http%3A//quality-website-traffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quality-website-traffic.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227034739id_/http%3A//www.quality-website-traffic.com/privacy.php) for the most accurate reproduction.*
 
 # Quality Website Traffic - Get Quality Traffic to Your Website for FREE
 
@@ -68,4 +68,4 @@ quality-website-traffic.com No.515, 1/134, rajkumar garden Chennai, Tamil nadu-6
 
 pakachu3@gmail.com
 
-Copyright © 2018. Quality Website Traffic. All rights reserved.
+Copyright © 2019. Quality Website Traffic. All rights reserved.
