@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4x4community.co.za privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301080942id_/http%3A//www.4x4community.co.za/forum/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4x4community.co.za privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227082416id_/https%3A//www.4x4community.co.za/forum/privacy.php) for the most accurate reproduction.*
 
 # 4x4Community: DISCLAIMER and TERMS OF SERVICE
 
