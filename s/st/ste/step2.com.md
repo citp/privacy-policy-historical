@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the step2.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120032437id_/https%3A//www.step2.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the step2.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227143615id_/https%3A//www.step2.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy at Step2
 
@@ -30,7 +30,7 @@ We use this information for billing purposes and to fill your orders. If we have
 
 **How to be Removed from Our Mailing List**
 
-If you wish to be removed from our list, please [click here to contact us](mailto:step2-company@step2.net). If you prefer, you may call us toll-free at 866-429-5200 or by write to us at the address below: 
+If you wish to be removed from our list, please [click here to contact us](mailto:step2-company@step2.net). If you prefer, you may call us toll-free at 1-866-429-5200 or by write to us at the address below: 
 
 **The Step2 Company**  
 **10010 Aurora-Hudson Road**  
