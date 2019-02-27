@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preyproject.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020010922id_/https%3A//preyproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preyproject.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227160654id_/https%3A//preyproject.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Prey
 
@@ -112,11 +112,11 @@ A transparent relationship with our clients is of the utmost importance to us; y
 
 ### COOKIES
 
-Our website, including the user panel of PREY ANTI-THEFT, uses third-party cookies to obtain anonymous usage statistics with the purpose of providing you with a better service. We do not do tracking outside our website nor do we install these cookies without your prior consent. To check the detailed content of each of these cookies or opt-out click here. The other cookies used on our website are essential to its operation and their objective is to facilitate its usability and configuration, they don’t track any Personally Identifiable Information (PII) whatsoever.
+Our website, including the user panel of PREY ANTI-THEFT, uses first and third-party cookies to obtain anonymous usage statistics with the purpose of providing you with a better service. We do not do tracking outside our website nor do we install these cookies without your prior consent. The other cookies used on our website are essential to its operation and their objective is to facilitate its usability and configuration, they don’t track any Personally Identifiable Information (PII) whatsoever.
 
 Following the California Online Privacy Protection Act (CalOPPA) and given that there is no existing standard governing the Do Not Track signals, we do not comply with these requests nor can we ensure third-party cookies in our website will. 
 
-Third-party cookies on our website and panel include Hotjar, Google Analytics, Google Adwords, Kissmetrics and Facebook’s Pixel. All of them require your express consent.
+Third-party cookies on our website and panel include Hotjar, Google Analytics, Google Adwords, Kissmetrics, Active Campaign and Facebook’s Pixel. All of them require your express consent.
 
 Cookie| Description| Duration  
 ---|---|---  
@@ -135,6 +135,9 @@ km_ai
 km_vs  
 kvcd  
 km_lv| Cookies set by Kissmetrics to collect information about how visitors use our site.[Read More](https://www.kissmetrics.com/user-privacy)| Decided by Kissmetrics  
+FirstSession  
+RecurringSession| Active Campaign cookie. This cookie is used to tracks page visits and sessions interactions.| 180 days  
+ac_enable_tracking| Cookie configurada por Active Campaign para rastrear las sesiones del usuario en el sitio y sus interacciones.|   
 lang| Prey cookie, used to know the user selected language.|   
 lang_exist| Prey cookie, used to know if the user has a selected language.|   
 layout| Prey cookie, used to set the layout of the Prey control panel.|   
