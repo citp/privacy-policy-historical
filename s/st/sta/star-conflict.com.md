@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the star-conflict.com privacy policy that was archived on 2018-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180705125951id_/https%3A//star-conflict.com/en/b/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the star-conflict.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227235624id_/https%3A//star-conflict.com/en/b/privacypolicy) for the most accurate reproduction.*
 
 # STAR CONFLICT — MMO SPACE ACTION - Privacy Policy
 
-Last updated 24 May 2018
+Last updated 28 December 2018
 
-This privacy policy explains what kind of information about you Gaijin Network Ltd collects and processes when you use our online games, **‘War Thunder’, ‘Crossout’, ‘Star Conflict’, and others which have been published by Gaijin Network Ltd** (which hereinafter are referred to as the ‘Game’ or ‘Games’). The same applies to the official online store for the games - [https://store.gaijin.net](https://store.gaijin.net/) \- and the official websites for the games - [https://warthunder.ru](https://warthunder.ru/), [https://warthunder.com](https://warthunder.com/), [https://crossout.net](https://crossout.net/), and [http://star-conflict.com](http://star-conflict.com/) \- as well as to other websites where this privacy policy is published (with these websites hereinafter being referred to as the ‘Website’ or ‘Websites’), and via other services (such as support services, in-game chats, forums, etc) where these are related to the games or to Gaijin Network Ltd. Gaijin Network Ltd will hereinafter be referred to as ‘Gaijin’. The pronouns ‘we’, ‘our’, and ‘their’ also refer to Gaijin Network Ltd.
+This privacy policy explains what kind of information about you Gaijin Network Ltd collects and processes when you use our online games, **‘War Thunder’, ‘Crossout’, ‘Star Conflict’, ‘Enlisted’ and others which have been published by Gaijin Network Ltd** (which hereinafter are referred to as the ‘Game’ or ‘Games’). The same applies to the official online store for the games - [https://store.gaijin.net](https://store.gaijin.net/) \- and the official websites for the games - [https://warthunder.ru](https://warthunder.ru/), [https://warthunder.com](https://warthunder.com/), [https://crossout.net](https://crossout.net/), [http://star-conflict.com](http://star-conflict.com/), [https://enlisted.net](https://enlisted.net/) \- as well as to other websites where this privacy policy is published (with these websites hereinafter being referred to as the ‘Website’ or ‘Websites’), and via other services (such as support services, in-game chats, forums, etc) where these are related to the games or to Gaijin Network Ltd. Gaijin Network Ltd will hereinafter be referred to as ‘Gaijin’. The pronouns ‘we’, ‘our’, and ‘their’ also refer to Gaijin Network Ltd.
 
 PLEASE READ THIS PRIVACY POLICY BEFORE CONTINUING TO USE THE GAME OR THE WEBSITE. BY CONTINUING TO USE THE GAME OR THE WEBSITE YOU WILL BE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY.
 
@@ -54,6 +54,8 @@ _2.2. Data we may collect automatically:_
 
 2.2.8. Records of your requests to our support team, and any other requests sent to us in accordance with this privacy policy.
 
+2.2.9. Data that you provide to us in the course of participating in our alpha-tests, beta-tests and other similar tests of the Game.
+
 _2.3. Data we may collect from our partners:_
 
 2.3.1. Data we collect when players link third-party services (ie. Facebook, Mail.Ru, Gmail) with our games, including your name (nickname), email address, profile image (photo), and details about your friends who are playing the same game as you, depending on the privacy settings of the particular third-party service);
@@ -98,7 +100,7 @@ We use the information that is collected about you and your device to provide yo
 
 (h) send you technical messages, service notices, legal notices (including changes in regulatory documents), replies to your requests via our support service, the results of our consideration of your requests in accordance with this privacy policy and other compulsory information to you via email.
 
-(2) To show personalised advertisements and send direct marketing messages to you. For this purpose our analytics partners (see article 5.2) and some other partners may track your online behaviour and then show you personalised advertisements in the games as well as in other games and on other websites. In addition, we may produce special, personalised in-game offers for you based on the data about your use of our games. We may also send out information via your email address which contains messages about games patches and updates, news, forthcoming releases, special promotions and offers, discounts, competitions, etc. For details regarding your right to opt out of personalised advertisements and direct marketing messages, see article 6.2.
+(2) To show personalised advertisements and send direct marketing messages to you. For this purpose our analytics partners (see article 5.2) and some other partners may track your online behaviour and then show you personalised advertisements in the games as well as in other games and on other websites. In addition, we may produce special, personalised in-game offers for you based on the data about your use of our games. We may also send out information via your email address which contains messages about games patches and updates, news, forthcoming releases, special promotions and offers, discounts, competitions and other events directly related to our Games. For details regarding your right to opt out of personalised advertisements and direct marketing messages, see article 6.2.
 
 (3) To ensure security, and to fight fraud and unfair methods of play, we may monitor and analyse the behaviour of players in the games, take action against players who violate the rules of fair play, and take any necessary precautionary measures.
 
@@ -126,7 +128,7 @@ The games use the Google Analytics web analytics service which are provided by G
 
 The games and the websites use Yandex Metrics web analytics which are provided by Yandex Oy Limited at Moreenikatu 6, 04600 Mantsala, Finland (which hereinafter is referred to as ‘Yandex’). Yandex Metrics uses ‘cookies’, small text files which are placed on user computers to analyse user activity. Information which is collected by cookies does not reveal your identity, but it can help us to improve the performance of our games and websites. Information about your use of the games and websites which is collected by cookies will be transferred to Yandex for storage on the Yandex server in the EU and the Russian Federation. Yandex will process this information to assess how you use the games and websites, compile reports for us in terms of our website operation, and provide other services. Yandex processes this information as specified in the ‘Terms of Use’ for the Yandex Metrics service. You can stop using cookies by making the relevant adjustments in your browser settings. You can also use the tool at: https://yandex.com/support/metrika/general/opt-out.html. However, this can affect some website functions. By using our games and websites, you agree that Yandex can process your data in the aforementioned manner and for the aforementioned purposes.
 
-5.3. **Advertising partners.** We may share some impersonal user data where this is necessary for the transfer of advertisements, or for accounting purposes in relation to the advertising services being rendered by our advertising partners.
+5.3. **Advertising partners.** We may share some of Your user data (i.e. e-mail) where this is necessary for the publication, personalization (targeting) of advertisements, or for accounting purposes in relation to the advertising services being rendered by our advertising partners.
 
 5.4. **Tracking partners.** We allow our partners to track the number of impressions and installations, as well as other indicators of the effectiveness of our adverts and, in this respect, they have the right to process some of your user data. For instance, we use the Facebook tracking service. Please have a look at their privacy policy: <https://www.facebook.com/privacy/explanation>.
 
@@ -141,6 +143,8 @@ The games and the websites use Yandex Metrics web analytics which are provided b
 5.9. **Licensees, assignees, and purchasers.** If we decide to assign the exclusive rights in and to the game, appoint the licensee to operate the game, sell the shares of Gaijin Network Ltd to a purchaser, or agree a merger with another company, we may share your user data to the assignee, licensee, or purchaser, or a new legal entity which is formed as a result of a merger by Gaijin Network Ltd with another company, without seeking your additional consent.
 
 5.10. **Affiliates.** Being an international company which operates worldwide, we may share any and all of your user data with our affiliates (ie. the companies which control us, or which are under our control, or which are under common control along with us), and any subsidiaries. We take all reasonable measures to ensure the confidentiality of your user data.
+
+5.11. **Auditors.** From time to time Gaijin Network Ltd. and its affiliates may hire third-party auditing companies and therefore some of your user data (for example, your User ID, email address, list of in-game purchases) may be transferred to such companies solely for the purpose of auditing.
 
 In the future, we may enter into contracts with other partners. If this is the case then we will make every reasonable effort to update the list of our partners which is provided in this privacy policy in a timely manner at least once every six months, or more often in the event of a significant change in our data processing practices.
 
