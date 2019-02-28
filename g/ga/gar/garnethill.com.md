@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the garnethill.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921180338id_/http%3A//www.garnethill.com/PrivacyView%3FstoreId%3D10054%26catalogId%3D10054%26langId%3D-1%26contentKey%3DWCM_PRIVACY_RIGHTS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garnethill.com privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228041148id_/https%3A//www.garnethill.com/PrivacyView%3FstoreId%3D10054%26catalogId%3D10054%26langId%3D-1%26contentKey%3DWCM_PRIVACY_RIGHTS) for the most accurate reproduction.*
 
 # Customer Service | Your Privacy Rights | Garnet Hill
 
-Last Updated: December 19, 2016
+Last Updated: April 9, 2018
 
-Garnet Hill, Inc. ("Garnet Hill") respects your privacy. As a member of the Direct Marketing Association (DMA), Garnet Hill follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmachoice.org](http://www.dmachoice.org/).
+Garnet Hill, Inc. ("Garnet Hill") respects your privacy. As a member of the Direct Marketing Association (DMA), Garnet Hill follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmachoice.org](https://www.dmachoice.org/).
 
   
-Garnet Hill is part of the HSN, Inc. ("HSNi") family of businesses. HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN TV and HSN2), catalogues (Cornerstone Brands), ecommerce (HSN.com and catalogue websites), and brick & mortar retail (Frontgate and Ballard Designs). For a complete list of all of HSNi's businesses, please visit [www.hsni.com](http://www.hsni.com/).
+Garnet Hill is part of the HSN, Inc. ("HSNi") family of businesses. HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN TV and HSN2), catalogues (Cornerstone Brands), ecommerce (HSN.com and catalogue websites), and brick & mortar retail (Frontgate and Ballard Designs). For a complete list of all of HSNi's businesses, please visit [www.hsni.com](https://www.hsni.com/).
 
 At HSNi, we respect the privacy of our customers and the importance of the information they entrust to us. This Privacy Policy is intended to describe for you, as an individual who uses one or more of our websites, views our television programming, uses our mobile applications, places orders by phone, uses our other services, or who otherwise provides us with information through various means ("Services"), the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We summarize below the basic information policies and practices in place for all HSNi Services. To read the entire Privacy Policy of Garnet Hill, please click [here](https://web.archive.org/full-privacy/content). We encourage you to read the Garnet Hill Privacy Policy carefully when using our Services or transacting business with us. By using our Services or otherwise doing business with us, you are accepting the practices described in the Garnet Hill Privacy Policy. 
 
@@ -28,7 +28,7 @@ We may allow third-party advertising companies or ad networks to display adverti
 
   * We do not provide any personal information to these companies. 
   * These companies may use tracking tools, such as cookies, to collect information about computers and/or devices used to view or interact with their advertisements. 
-  * Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.
+  * Some of these companies may be members of the [Network Advertising Initiative](https://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.
 
 
 
@@ -45,7 +45,7 @@ We may use information to
   * Analyze use of and improve our Services, products, and other services; 
   * Identify and protect against fraudulent transactions and other misuses of our Services;  
 and 
-  * Enforce our [Conditions of Use.](http://www.garnethill.com/conditions-of-use/content)
+  * Enforce our [Conditions of Use.](https://www.garnethill.com/conditions-of-use/content)
 
 
 
@@ -83,13 +83,13 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 If you have any questions about this summary, the [Garnet Hill Privacy Policy](https://web.archive.org/full-privacy/content), or our information practices, please contact us by e-mail or postal mail below: 
 
 Toll Free: 800.870.3513  
-Email: [customerservice@garnethill.com](mailto:customerservice@garnethill.com)  
+Email: [customerservice@garnethill.com](mailto:customerservice@garnethill.com?subject=Privacy%20Information)  
 Mail: Garnet Hill  
 Attn: Customer Service  
 231 Main Street  
 Franconia, NH 03580
 
-Currently, our online Services do not recognize automated browser signals regarding "do not track" instructions. If we develop this capability in the future, we will describe how we do so in the Garnet Hill Privacy Policy. Please note that third parties may collect personal information about your online activities over time and across different websites when you use our online Services or browse other websites. For more information about "Do Not Track," please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
+Currently, our online Services do not recognize automated browser signals regarding "do not track" instructions. If we develop this capability in the future, we will describe how we do so in the Garnet Hill Privacy Policy. Please note that third parties may collect personal information about your online activities over time and across different websites when you use our online Services or browse other websites. For more information about "Do Not Track," please visit [www.allaboutdnt.com](https://www.allaboutdnt.com/).
 
 © 2007 - 2015 HSN, Inc. All rights reserved.
 
@@ -97,7 +97,7 @@ Currently, our online Services do not recognize automated browser signals regard
 
  **Cookies:**  
 A cookie is a small text file that is stored on a user's computer or device for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our online Services. A persistent cookie remains on your hard drive or device for an extended period of time.   
-We may allow our authorized service providers to serve cookies from our online Services to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our Services, content, and advertising. You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our online Services may not function properly. We may allow third parties, including HSNi companies, advertising companies, and ad networks, to display advertisements on our Services. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our Services do not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer or device, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/) ). 
+We may allow our authorized service providers to serve cookies from our online Services to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our Services, content, and advertising. You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our online Services may not function properly. We may allow third parties, including HSNi companies, advertising companies, and ad networks, to display advertisements on our Services. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our Services do not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer or device, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](https://www.networkadvertising.org/ "opens new window") ). 
 
 **Web Beacons:**  
 Web beacons (also known as clear gifs, pixel tags, or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of users or to access cookies. Unlike cookies which are stored on the user's computer hard drive or device, web beacons are embedded invisibly on the web pages (or in e-mail) and are about the size of the period at the end of this sentence.   
