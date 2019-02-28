@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladduz.com privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422131909id_/https%3A//www.ladduz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladduz.com privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228140016id_/https%3A//www.ladduz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ladduz.com
 
