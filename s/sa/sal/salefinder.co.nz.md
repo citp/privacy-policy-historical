@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salefinder.co.nz privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130213437id_/https%3A//salefinder.co.nz/cms/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salefinder.co.nz privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228103003id_/https%3A//salefinder.co.nz/cms/privacypolicy) for the most accurate reproduction.*
 
 # Online Retail Specials Catalogues - Sale Finder
 
