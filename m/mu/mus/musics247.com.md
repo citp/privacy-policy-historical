@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musics247.com privacy policy that was archived on 2018-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180615052835id_/https%3A//musics247.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musics247.com privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228013536id_/https%3A//musics247.com/privacy-policy) for the most accurate reproduction.*
 
 # musics247.com - Privacy Policy
 
