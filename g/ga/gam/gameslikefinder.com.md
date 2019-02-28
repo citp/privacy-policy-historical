@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameslikefinder.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229222200id_/http%3A//gameslikefinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameslikefinder.com privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228121705id_/https%3A//gameslikefinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games Finder
 
@@ -55,6 +55,6 @@ All media items on our website are used according to a Fair Use policy and are u
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on 3 May 2018
+This policy was last modified on 6 January 2019
 
 Please direct all enquiries to <http://gameslikefinder.com/contact>
