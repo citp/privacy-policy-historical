@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cointracking.info privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831110000id_/https%3A//cointracking.info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cointracking.info privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228071356id_/https%3A//cointracking.info/privacy_policy.php) for the most accurate reproduction.*
 
 # CoinTracking · Privacy Policy
 
@@ -134,4 +134,4 @@ CoinTracking reserves the right to change this Privacy Policy at any time by pos
 
 This document was last updated on March 20, 2017.
 
-CoinTracking regularly reviews its compliance with this policy. Questions regarding the Privacy Policy should be sent by e-mail to us using our [contact form](https://web.archive.org/web/20180831110000id_/https%3A//cointracking.info/feedback.php)
+CoinTracking regularly reviews its compliance with this policy. Questions regarding the Privacy Policy should be sent by e-mail to us using our [contact form](https://web.archive.org/web/20190228071356id_/https%3A//cointracking.info/feedback.php)
