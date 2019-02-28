@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get-express-vpn.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105234620id_/https%3A//www.get-express-vpn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get-express-vpn.com privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228210529id_/http%3A//get-express-vpn.com/privacy-policy) for the most accurate reproduction.*
 
 # ExpressVPN Privacy Policy
 
@@ -114,8 +114,9 @@ If you **opt in** to share this information with ExpressVPN, we will collect the
   * Speed test data.
   * Crash reports, also without any personally identifiable information. These are handled in an anonymized form by these third parties, dependent on the platform you are using ExpressVPN on:
     * **Windows:** Hockeyapp, owned by Microsoft, and Sentry, owned by Functional Software, Inc. See [Microsoft’s Privacy Policy](https://privacy.microsoft.com/en-us/PrivacyStatement) and [Sentry’s Privacy Policy](https://sentry.io/privacy/). 
-    * **Mac:** Crashlytics, owned by Google. [See Crashlytics’s Privacy Policy](https://fabric.io/terms). 
-    * **iOS:** Firebase Crashlytics, owned by Google, and Apple. [See Apple’s Privacy Policy](https://www.apple.com/legal/privacy/en-ww/) and [Firebase’s Privacy and Security documentation](https://firebase.google.com/support/privacy/). You can [disable Apple’s crash reporting in iOS settings as described here](https://support.apple.com/en-us/HT202100). 
+    * **Mac:** Crashlytics, owned by Google, and Sentry, owned by Functional Software, Inc. See [Crashlytics’s Privacy Policy](https://fabric.io/terms) and [Sentry’s Privacy Policy](https://sentry.io/privacy/). 
+    * **Linux:** Sentry, owned by Functional Software, Inc. See [Sentry’s Privacy Policy](https://sentry.io/privacy/). 
+    * **iOS:** Firebase Crashlytics, owned by Google, and Apple. See [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/en-ww/) and [Firebase’s Privacy and Security documentation](https://firebase.google.com/support/privacy/). You can [disable Apple’s crash reporting in iOS settings as described here](https://support.apple.com/en-us/HT202100). 
     * **Android:** Google Analytics and Firebase Crashlytics, owned by Google. See [Google Analytics’s Terms of Service](https://www.google.com/analytics/terms/us.html) and [Firebase’s Privacy and Security documentation](https://firebase.google.com/support/privacy/). 
 
 
