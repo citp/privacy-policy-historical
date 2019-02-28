@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpapervortex.com privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818082325id_/http%3A//www.wallpapervortex.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapervortex.com privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228160648id_/https%3A//www.wallpapervortex.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
