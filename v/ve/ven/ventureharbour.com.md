@@ -1,76 +1,150 @@
-> *The following text is extracted and transformed from the ventureharbour.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184143id_/https%3A//www.ventureharbour.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ventureharbour.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301004958id_/https%3A//www.ventureharbour.com/legal) for the most accurate reproduction.*
 
-# Legal Disclaimers & Privacy Policy - Venture Harbour
+# Privacy Policy - Venture Harbour
 
-Where we are recommending a product or service that is part of an affiliate programme, we sometimes implement affiliate links. Please note that this does not increase the cost for the buyer.
+This Privacy Policy together with [our Cookie Policy](https://www.ventureharbour.com/our-cookies/), [Terms of Use](https://www.ventureharbour.com/terms-of-use/) and any other documents in them sets out the basis on which Venture Harbour Limited (“we”, “us”, “our”) collects, uses, maintains and discloses personal data collected from users (“you”, “your””) of the https://www.ventureharbour.com website (“Site”).
 
-Venture Harbour regularly review products and services, such as software providers and tools. Sometimes, these are paid for or discounted by the company offering the product / service. While not always the case, it would be tedious (for us and our readers) to explain if and how we were compensated in every blog post.
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By submitting personal data to the Site you are accepting and consenting to the collection, storage, use and disclosure of such personal data in accordance with the practices described in this Privacy Policy.
 
-To protect ourselves and preserve our reader’s experience, please assume that, for every link used and product or service mentioned on the Venture Harbour blog, one or multiple of the following may hold true:
+This Privacy Policy applies to the Site and all products and services offered by us on the Site.
 
-  * We were compensated with a discount of up to 100% on the product or service being reviewed
-  * We were paid a commission of any purchase value made by customers through our links
+## Data Controller
+
+For the purpose of the Data Protection Act 1998 (“Act”) and from the 25th of May 2018 the General Data Protection Regulation (“GDPR”) the data controller is Venture Harbour Limited a company registered in England and Wales, with company number: 8291791, having its registered office at Thames Wing, Howbery Park, Wallingford, Oxfordshire, OX10 8BA, United Kingdom.
+
+Our data protection officer is Marcus Taylor.
+
+## Information you provide directly to us
+
+ **How we collect:** We may collect and process information that you provide to us when you register to use our Site, fill in forms on our Site, place an order, subscribe to a newsletter or a service, use our apps, enter a competition or promotion, apply for a job, respond to a survey, participate in discussion boards or other social media functions on our Site, correspond with us by phone, e-mail or otherwise or use the services, features or resources made available on our Site generally.
+
+ **Categories of personal data we collect:** We may collect your name, address, e-mail address and phone number, financial and credit card information, website URL, personal description and photograph.
+
+## Information we collect about you
+
+ **How we collect:** Each time you visit our Site we may automatically collect and process information about your visit to our Site. We may collect technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform, full Uniform Resource Locators (URL) clickstream to, through and from our Site (including date and time), products you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from a page and contact details used to call our customer service number.
+
+We may collect profiling information to track you online or via smart devices, to derive information from combining other data sets or using algorithms to analyse a variety of data, such as social media, location data and records of purchases.
+
+ **Categories of personal data we collect:** We may collect your name, address, e-mail address and phone number, financial and credit card information, website URL, personal description and photograph.
+
+## Information we receive from other sources
+
+ **How we collect or receive:** We may receive information about you from other websites we operate or other services we provide.
+
+We may receive information about you from third parties (including, for example, business partners, affiliates or sub-contractors who provide technical, payment or delivery services, advertising networks, analytics providers, search information providers or credit reference agencies).
+
+Categories of personal data we may collect or receive: We may collect or receive your name, address, e-mail address and phone number, financial and credit card information, website URL, personal description and photograph.
+
+## Cookies
+
+We use cookies on our Site to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve the Site. For detailed information on the cookies we use and the purposes for which we use them please read [our Cookie Policy](https://www.ventureharbour.com/our-cookies/).
+
+## Uses made of information
+
+We use information held about you for the following purposes:
+
+ **Information you provide directly to us.** We will use this information:
+
+  * To improve customer service.
+  * To personalise your user experience.
+  * To inform you about job vacancies you apply for and any future openings.
+  * To process payments for use of our services.
+  * To inform you of promotions, contests, surveys, or Site features.
+  * To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us. For example to send you information and updates about your order, or to respond to your inquiries, questions and requests.
+  * To provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about.
+  * To provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your personal data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your personal data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your personal data (the opt-in newsletter form).
+  * To notify you about changes to our service.
+  * To ensure that content from our Site is presented in the most effective manner for you and for your computer.
 
 
 
-## Privacy Policy
+ **Information we collect about you.** We will use this information:
 
-This Privacy Policy governs the manner in which Venture Harbour Limited collects, uses, maintains and discloses information collected from users (each, a “user”) of the https://www.ventureharbour.com website (“site”). This privacy policy applies to the site and all products and services offered by Venture Harbour Limited.
+  * To administer our Site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
+  * To improve our Site to ensure that content is presented in the most effective manner for you and for your computer.
+  * To allow you to participate in interactive features of our service, when you choose to do so.  
+As part of our efforts to keep our Site safe and secure.
+  * To measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you.
+  * To make suggestions and recommendations to you and other users of our Site about goods or services that may interest you or them.
 
- **Personal identification information**  
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, subscribe to the newsletter, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
- **Non-personal identification information**  
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilised and other similar information.
 
- **Web browser cookies**  
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+ **Information we receive from other sources.** We may combine information we receive from other sources with information you provide directly to us and information we collect about you. We may use information we receive from other sources and the combined information for any or all of the purposes set out above (depending on the types of information we receive).
 
- **How we use collected information**  
-Venture Harbour may collect and use Users personal information for the following purposes:
+## Disclosure of your information
 
-– To improve customer service  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-– To personalise user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-– To improve our Site  
-We may use feedback you provide to improve our products and services.  
-– To process payments  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
-– To share your information with third parties  
-We may share or sell information with third parties for marketing or other purposes.  
-– To run a promotion, contest, survey or other Site feature  
-To send Users information they agreed to receive about topics we think will be of interest to them.  
-– To send periodic emails  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.  
-How we protect your information
+ **Within our group:** We may share your information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorised access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+ **To third parties:** We may share your information with the following third parties:
 
- **Sharing your personal information**  
-We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+  * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
+  * Advertisers and advertising networks that require the information to select and serve relevant adverts to you and others. We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 250 women aged over 25 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, men living in London). We may make use of the information we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience.
+  * Analytics and search engine providers that assist us in the improvement and optimisation of our Site.
+  * Credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you.
+  * In the event that we sell or buy any business or assets, in which case we may disclose your information to the prospective seller or buyer of such business or assets.
+  * If Venture Harbour Ltd or substantially all of its assets are acquired by a third party, in which case information held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your information in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use/Terms and Conditions](https://www.ventureharbour.com/terms-of-use/) and/or any other agreements; or to protect our rights, property, safety, or rights of our customers or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
- **Third party websites**  
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
- **Advertising**  
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognise your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
- **Changes to this privacy policy**  
-Venture Harbour has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+## Transfer of information to a third country
 
- **Your acceptance of these terms**  
-By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff or subcontractors may be engaged in, among other things, the fulfilment of your order, the processing of your payment details or the provision of support services. By submitting your personal data, you agree to the transfer, storing or processing of information outside of the EEA. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this Privacy Policy and any transfer of your personal data to a third country shall be subject to appropriate safeguards in accordance with the provisions of the Act or the GDPR, as applicable or only to a country which has an adequate level or protection as recognised by a decision of the European Commission.
 
- **Complaints or queries**  
-Our intention is to meet the highest standards when collecting and using personal data. For this reason, we take any complaints we receive very seriously. We encourage people to notify us if they think that our collection or use of their personal data is unfair, misleading or inappropriate. This privacy policy does not provide exhaustive detail of all aspects of our collection and use of personal data. However, we are happy to provide any additional information or explanation needed. Any requests for further information should be sent to the address below.
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Site, you are responsible for keeping this password confidential. We ask you not to share any password with anyone.
 
-For the purpose of the Data Protection Act 1998, the data controller is Venture Harbour Limited, a company registered in England with its registered office at 51 Clarkegrove Road, Sheffield, South Yorkshire S10 2NH, company number: 8291791.
+The transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your personal data transmitted to our Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-You can write to us at:  
-Venture Harbour  
-The Manor House, Howbery Park, Benson Lane,  
+## Your rights
+
+ **Data Subject Requests:** You have the right to request:
+
+  * Access to your personal data.
+  * Rectification of your personal data.
+  * Erasure of your personal data.
+  * A restriction on the processing of your personal data.
+  * Object to the processing of your personal data.
+  * A transfer of your personal data (data portability).
+
+
+
+You can make a request in relation to any of the above rights by writing to us at the contact address given at the end of this Privacy Policy. We shall deal with any written request we receive from you in accordance with the provisions of the Act or the GDPR, as applicable.
+
+ **Lodging a Complaint:** You have the right to lodge a complaint in relation to our collection or use of your personal data with the applicable data protection authority (“supervisory authority”).
+
+ **Withdrawing Consent:** You have the right to withdraw your consent to us processing your personal data, at any time.
+
+Where we process your personal data for marketing purposes. We will inform you (before collecting your personal data) if we intend to use your personal data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your personal data.
+
+You can withdraw your consent at any time by writing to us at the contact address given at the end of this Privacy Policy.
+
+## Data Retention
+
+We will hold your personal data on our systems for as long as is necessary for the relevant activity for which it was provided or collected, or as long as is set out in any relevant contract you have with us. If you delete your account or ask us to do so, your personal data will be deleted within 60 days and the remaining information shall be anonymised for analytical purposes.
+
+## Age of users
+
+This Site is not intended for and shall not be used by anyone under the age of 18.
+
+## Links to other websites
+
+Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+## Changes to our Privacy Policy
+
+Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our Privacy Policy. This Privacy Policy was last updated on 29th June 2017 and replaces any other Privacy Policy previously applicable from this date.
+
+## Complaints
+
+Our intention is to meet the highest standards when collecting and using personal data. For this reason, we take any complaints we receive very seriously. We encourage people to notify us if they think that our collection or use of their personal data is unfair, misleading or inappropriate.
+
+We are happy to provide any additional information or explanation needed. Questions, comments and requests regarding this Privacy Policy are welcomed and should be sent to the address set out below.
+
+## Contact us
+
+Venture Harbour Limited  
+Thames Wing, Howbery Park, Benson Lane,  
 Wallingford, Oxfordshire, OX10 8FD,  
-United Kingdom
-
-This document was last updated on 30/5/2017.
+United Kingdom  
+Email: info@ventureharbour.com
