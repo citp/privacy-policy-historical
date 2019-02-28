@@ -1,7 +1,17 @@
-<!--The following is the downloaded HTML source of the surfstitch.com privacy policy that was archived on 2018-08-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180812173209id_/https%3A//www.surfstitch.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the surfstitch.com privacy policy that was archived on 2019-02-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190228213411id_/https%3A//www.surfstitch.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -173,15 +183,24 @@ s.parentNode.insertBefore(wf, s);
 
 
 
+
+
 <title>SurfStitch | SurfStitch Privacy Policy</title>
+
+
+
+
+<meta name="description" content="Buy womens &amp; mens fashion, footwear &amp; swimwear online from Nike, Adidas, Roxy &amp; more. With delivery available Australia wide including: Sydney, Melbourne, Brisbane, Adelaide, Perth, Hobart, Canberra &amp; Darwin">
+
+
+
+<meta name="keywords" content="Privacy Policy SurfStitch">
 
 
 <link href="/on/demandware.static/Sites-ss-au-Site/-/default/dw9a18e8bc/images/favicon.ico" rel="shortcut icon">
 
 
 
-
-<meta name="description" content="Buy womens &amp; mens fashion, footwear &amp; swimwear online from Nike, Adidas, Roxy &amp; more. With delivery available Australia wide including: Sydney, Melbourne, Brisbane, Adelaide, Perth, Hobart, Canberra &amp; Darwin">
 
 
 
@@ -206,16 +225,16 @@ s.parentNode.insertBefore(wf, s);
 
 
 
-<link href="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
-<link data-source-cartridge="surfstitch_storefront_core" href="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/swiper/swiper.min.css" type="text/css" rel="stylesheet">
-<link data-source-cartridge="surfstitch_storefront_core" href="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/magiczoomplus/magiczoomplus.css" type="text/css" rel="stylesheet">
-<link data-source-cartridge="surfstitch_storefront_core" href="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/morphist/animate.min.css" type="text/css" rel="stylesheet">
-<link data-source-cartridge="surfstitch_storefront_core" href="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/morphist/morphist.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link data-source-cartridge="surfstitch_storefront_core" href="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/swiper/swiper.min.css" type="text/css" rel="stylesheet">
+<link data-source-cartridge="surfstitch_storefront_core" href="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/magiczoomplus/magiczoomplus.css" type="text/css" rel="stylesheet">
+<link data-source-cartridge="surfstitch_storefront_core" href="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/morphist/animate.min.css" type="text/css" rel="stylesheet">
+<link data-source-cartridge="surfstitch_storefront_core" href="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/morphist/morphist.css" type="text/css" rel="stylesheet">
 
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/js/lib/html5.js"></script>
 <![endif]-->
 
 <script type="text/javascript">//<!--
@@ -232,7 +251,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -278,13 +303,40 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
 
 
 <!-- UI -->
-<link rel="stylesheet" href="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/css/style.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/css/style.css">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
@@ -339,16 +391,14 @@ window.location.reload();
     
     <link rel="alternate" href="https://www.surfstitch.com/privacy-policy/privacy-policy.html" hreflang="x-default">
     
-    <link rel="alternate" href="https://www.surfstitch.com/us/privacy-policy/privacy-policy.html" hreflang="en-us">
-    
 
 
 
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <!--[endif]-->
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <![endif]-->
 
 
@@ -360,11 +410,6 @@ window.location.reload();
 <script type="text/javascript">
     window.digitalData = {"page":{"category":{"pageType":"Other"}}};
 </script>
-
-</head>
-<body>
-<div id="wrapper" class="pt_content">
-
 
 
 
@@ -393,8 +438,6 @@ this.updateDataLayerByJson(jsonData);
 };
 </script>
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NVML2S"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -403,6 +446,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 
+</head>
+<body>
+
+
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NVML2S"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div id="wrapper" class="pt_content">
+
 
 
 
@@ -410,6 +463,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	
 	
 
+
+    
+        
+    
+
+    
+
+    
+        <div class="geo-detection-text">
+            <p class="geo-detection-text-top">Looks like you're visiting us from outside Australia.</p><p class="geo-detection-text-bottom">You can shop in your local currency by clicking here</p>
+            <a class="link-currency" href="javascript:void(0);" data-currency="USD">USD currency</a>
+            <a class="btn-close" href="javascript:void(0);" type="button" title="close">
+                <i class="ss ss-close"></i>
+            </a>
+        </div>
+    
 
 
 
@@ -426,58 +495,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	 
 
-
-	
-
-
-
-
-
-<style>
-    .ss-top-ticker {
-        font-size: 11px;
-        text-decoration: none;
-        color: #fff;
-    }
-
-    .ss-top-ticker:hover {
-        text-decoration: underline;
-        color: #fff;
-    }
-
-    .header-promotion {
-        background-color: #00b9e6 !important;
-        color: #fff !important;
-    }
-</style>
-
-<div class="header-promotion">
-    <ul class="rotating-messages">
-        <li>
-            <a class="ss-top-ticker" href="https://www.surfstitch.com/gift-with-purchase-coupon/">
-                <div class="header-promotion">
-                    GET YOUR FREE GIFTS HERE! CHOOSE FROM OUR NEW RANGE BEFORE THEY SELL OUT
-                </div>
-            </a>
-        </li>
-        <li>
-            <a class="ss-top-ticker" href="https://help.surfstitch.com/hc/en-us/articles/201346195-Australian-Shipping-Information">
-                <div class="header-promotion">
-                    FREE EXPRESS DELIVERY ON ORDERS OVER $50
-                </div>
-            </a>
-        </li>
-        <li>
-            <a class="ss-top-ticker" href="https://prf.hn/click/camref:1011l33QZ/adref:unidaysCTA/destination:https%3A%2F%2Fwww.surfstitch.com%2Finfo%2Funi-days.html">
-                <div class="header-promotion">
-                    15% OFF STUDENT DISCOUNT. STUDY HARD. SAVE BIG.
-                </div>
-            </a>
-        </li>
-    </ul>
-</div>
-
- 
 	
 </div>
 <div class="top-banner" role="banner">
@@ -505,34 +522,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         background: white;
     }
 
-    .device .blog-refinement-bar .folder-refinement-container {
-        overflow-x: auto;
+    .top-search.visible-phone {
+        right: 55px;
     }
 
-    .blog-article-container {
-        max-width: 1000px;
-        margin: 0 auto;
-    }
-
-    .blog-article-container .content-body p {
-        font-size: 1.5rem;
-        line-height: 1.5;
-        text-align: left;
-    }
-
-    .blog-article-container .content-body p > iframe {
-        text-align: center;
-        width: 100%;
-    }
-
-    .blog-article-container .quota-outer {
-        margin: 0 auto !important;
-        padding: 20px;
-    }
-
-    .blog-article-container .quota-blog {
-        bottom: 0;
-        font-size: 1.4rem;
+    .menu-utility-user > li.syte-camera-container {
+        display: none;
     }
 
     .the-lens {
@@ -565,15 +560,361 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<button class="menu-toggle"><i class="menu-icon ss ss-hamburger"></i><span class="visually-hidden">Menu</span></button>
-<div class="top-search">
+<button class="menu-toggle">
+<i class="menu-icon ss ss-hamburger"></i>
+<span class="visually-hidden">Menu</span>
+</button>
+<div class="top-search visible-phone">
 <a href="javascript:void(0)" title="Search" class="search-button">
 <i class="ss ss-search"></i>
 <span>Search</span>
 </a>
 </div>
+<!-- utility user menu -->
+<ul class="menu-utility-user">
+<li class="search hidden-phone">
+<a href="javascript:void(0)" title="Search" class="search-button">
+<i class="ss ss-search"></i>
+<span>Search</span>
+</a>
+</li>
+<li class="wish-list hidden-phone">
+<a href="https://www.surfstitch.com/wishlist" title="Wish list">
+<i class="ss ss-wishlist"></i>
+<span>Wish list</span>
+</a>
+</li>
+<li class="hidden-phone">
+
+
+
+
+
+
+<div class="country-selector">
+<div class="current-country">
+<i class="fa fa-angle-right fa-fw selector-icon"></i>
+<i class="flag-icon flag-icon-au"></i>
+<span>$ AUD</span>
+</div>
+<div class="selector">
+
+<div class="continent">
+
+<div class="country">
+<i class="flag-icon flag-icon-au"></i>
+
+
+
+<a href="https://www.surfstitch.com/product-show" data-currency="AUD" data-locale="en_AU" data-default-site-url="" data-button-text="Launch AU site" data-default-site-id="ss-au" class="locale selected " data-country="Australia">
+$ AUD
+</a>
+
+</div>
+</div>
+
+<div class="continent">
+
+<div class="country">
+<i class="flag-icon flag-icon-nz"></i>
+
+
+
+<a href="https://www.surfstitch.com/product-show" data-currency="NZD" data-locale="en_NZ" data-default-site-url="https://www.surfstitch.com/nz" data-button-text="Launch NZ site" data-default-site-id="ss-nz" class="locale different-site" data-country="New Zealand">
+$ NZD
+</a>
+
+</div>
+</div>
+
+<div class="continent">
+
+<div class="country">
+<i class="flag-icon flag-icon-us"></i>
+
+
+
+<a href="https://www.surfstitch.com/product-show" data-currency="USD" data-locale="en_US" data-default-site-url="" data-button-text="Launch US site" data-default-site-id="ss-us" class="locale " data-country="United States">
+$ USD
+</a>
+
+</div>
+</div>
+
+<div class="continent">
+
+<div class="country">
+<i class="flag-icon flag-icon-sg"></i>
+
+
+
+<a href="https://www.surfstitch.com/product-show" data-currency="SGD" data-locale="en_SG" data-default-site-url="" data-button-text="Launch SG site" data-default-site-id="ss-au" class="locale " data-country="Singapore">
+$ SGD
+</a>
+
+</div>
+</div>
+
+<div class="continent">
+
+<div class="country">
+<i class="flag-icon flag-icon-hk"></i>
+
+
+
+<a href="https://www.surfstitch.com/product-show" data-currency="HKD" data-locale="en_HK" data-default-site-url="" data-button-text="Launch HK site" data-default-site-id="ss-au" class="locale " data-country="Hong Kong">
+$ HKD
+</a>
+
+</div>
+</div>
+
+<div class="continent">
+
+<div class="country">
+<i class="flag-icon flag-icon-jp"></i>
+
+
+
+<a href="https://www.surfstitch.com/product-show" data-currency="JPY" data-locale="en_JP" data-default-site-url="" data-button-text="Launch JP site" data-default-site-id="ss-au" class="locale " data-country="Japan">
+¥ JPY
+</a>
+
+</div>
+</div>
+
+<div class="continent">
+
+<div class="country">
+<i class="flag-icon flag-icon-ca"></i>
+
+
+
+<a href="https://www.surfstitch.com/product-show" data-currency="CAD" data-locale="en_CA" data-default-site-url="" data-button-text="Launch CA site" data-default-site-id="ss-us" class="locale " data-country="Canada">
+$ CAD
+</a>
+
+</div>
+</div>
+
+<div class="continent">
+
+<div class="country">
+<i class="flag-icon flag-icon-eu"></i>
+
+
+
+<a href="https://www.surfstitch.com/product-show" data-currency="EUR" data-locale="en_DE" data-default-site-url="" data-button-text="Launch DE site" data-default-site-id="ss-au" class="locale " data-country="Germany">
+€ EUR
+</a>
+
+</div>
+</div>
+
+<div class="continent">
+
+<div class="country">
+<i class="flag-icon flag-icon-gb"></i>
+
+
+
+<a href="https://www.surfstitch.com/product-show" data-currency="GBP" data-locale="en_GB" data-default-site-url="" data-button-text="Launch GB site" data-default-site-id="ss-au" class="locale " data-country="United Kingdom">
+£ GBP
+</a>
+
+</div>
+</div>
+
+<div class="continent">
+
+<div class="country">
+<i class="flag-icon flag-icon-cn"></i>
+
+
+
+<a href="https://www.surfstitch.com/product-show" data-currency="CNY" data-locale="en_CN" data-default-site-url="" data-button-text="Launch CN site" data-default-site-id="ss-au" class="locale " data-country="China">
+¥ CNY
+</a>
+
+</div>
+</div>
+
+<div class="continent">
+
+<div class="country">
+<i class="flag-icon flag-icon-za"></i>
+
+
+
+<a href="https://www.surfstitch.com/product-show" data-currency="ZAR" data-locale="en_ZA" data-default-site-url="" data-button-text="Launch ZA site" data-default-site-id="ss-au" class="locale " data-country="South Africa">
+R ZAR
+</a>
+
+</div>
+</div>
+
+<div class="continent">
+
+<div class="country">
+<i class="flag-icon flag-icon-se"></i>
+
+
+
+<a href="https://www.surfstitch.com/product-show" data-currency="SEK" data-locale="en_SE" data-default-site-url="" data-button-text="Launch SE site" data-default-site-id="ss-au" class="locale " data-country="Sweden">
+kr SEK
+</a>
+
+</div>
+</div>
+
+<div class="continent">
+
+<div class="country">
+<i class="flag-icon flag-icon-dk"></i>
+
+
+
+<a href="https://www.surfstitch.com/product-show" data-currency="DKK" data-locale="en_DK" data-default-site-url="" data-button-text="Launch DK site" data-default-site-id="ss-au" class="locale " data-country="Denmark">
+kr DKK
+</a>
+
+</div>
+</div>
+
+<div class="continent">
+
+<div class="country">
+<i class="flag-icon flag-icon-no"></i>
+
+
+
+<a href="https://www.surfstitch.com/product-show" data-currency="NOK" data-locale="en_NO" data-default-site-url="" data-button-text="Launch NO site" data-default-site-id="ss-au" class="locale " data-country="Norway">
+kr NOK
+</a>
+
+</div>
+</div>
+
+
+<div class="continent">
+<div class="country other-country">
+<i class="fa fa-globe"></i>
+<a href="https://www.surfstitch.com/country-selector">Choose A Region</a>
+</div>
+</div>
+
+</div>
+</div>
+
+
+</li>
+
+
+
+<li class="user-info hidden-phone">
+<a class="user-account" href="https://www.surfstitch.com/myaccount" title="User: Login /  Register">
+<i class="ss ss-myaccount"></i>
+<span>Login /  Register</span>
+</a>
+<div class="user-panel">
+<h3>Login /  Register</h3>
+<div class="user-links">
+
+
+<a class="account-flyout-toggle user-link user-login" href="https://www.surfstitch.com/myaccount-login" title="Go to: Login" target="login-flyout">Login</a>
+
+<div id="login-flyout" class="account-flyout" content-link="https://www.surfstitch.com/myaccount-login">
+</div>
+
+
+
+<a class="account-flyout-toggle user-link user-register" href="https://www.surfstitch.com/myaccount-register" title="Go to: Register" target="register-flyout">Register</a>
+
+<div id="register-flyout" class="account-flyout" content-link="https://www.surfstitch.com/myaccount-register">
+</div>
+
+
+</div>
+
+	 
+
+
+	
+
+
+
+
+
+<style>
+    /*Hamburger slot styles*/
+
+    nav#navigationmobile .header-usermenu {
+        background-color: #1D1C1F;
+    }
+
+    nav#navigationmobile .header-usermenu_link {
+        color: #FFF;
+        margin: 0;
+        line-height: 20px;
+        text-align: left;
+        padding: 10px 20px;
+        font-size: 11px;
+        font-weight: 500;
+    }
+
+    nav#navigationmobile .header-usermenu_link:hover {
+        color: #00b9e6;
+    }
+
+    nav#navigationmobile #header-usermenu_help-link,
+    nav#navigationmobile #header-usermenu_returns-link {
+        border-top: 1px solid #828282;
+    }
+    /*Hamburger slot styles END*/
+
+    
+    .user-info.hidden-phone a.header-usermenu_link,
+    .user-info.hidden-phone a.account-link {
+        color: #000;
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+        margin: 10px 0 0;
+    }
+
+    .user-info.hidden-phone a.header-usermenu_link:hover,
+    .user-info.hidden-phone a.account-link:hover {
+        text-decoration: underline;
+    }
+
+    .user-info.hidden-phone #header-usermenu_returns-link {
+        margin: 0;
+    }
+</style>
+
+<div class="header-usermenu">
+    <a id="header-usermenu_help-link" class="header-usermenu_link" href="https://help.surfstitch.com/hc/en-us">HELP / CONTACT US</a>
+    <a id="header-usermenu_returns-link" class="header-usermenu_link" href="https://www.surfstitch.com/returns-order">RETURNS</a>
+</div>
+
+ 
+	
+</div>
+</li>
+
+</ul>
 
 <div id="mini-cart">
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -766,332 +1107,6 @@ window.quickViewAddToCartGAData = null
 </a>
 </span>
 <nav id="navigation" role="navigation" class="hidden-phone">
-<div class="container">
-<!-- utility user menu -->
-<ul class="menu-utility-user">
-
-<li class="search">
-<a href="javascript:void(0)" title="Search" class="search-button">
-<i class="ss ss-search"></i>
-<span>Search</span>
-</a>
-</li>
-<li class="wish-list">
-<a href="https://www.surfstitch.com/wishlist" title="Wish list">
-<i class="ss ss-wishlist"></i>
-<span>Wish list</span>
-</a>
-</li>
-<li>
-
-
-
-
-
-
-<div class="country-selector">
-<div class="current-country">
-<i class="fa fa-angle-right fa-fw selector-icon"></i>
-<i class="flag-icon flag-icon-au"></i>
-<span>$ AUD</span>
-</div>
-<div class="selector">
-
-<div class="continent">
-
-<div class="country">
-<i class="flag-icon flag-icon-au"></i>
-
-
-
-<a href="https://www.surfstitch.com/search" data-currency="AUD" data-locale="en_AU" data-default-site-url="" data-button-text="Launch AU site" data-default-site-id="ss-au" class="locale selected " data-country="Australia">
-$ AUD
-</a>
-
-</div>
-</div>
-
-<div class="continent">
-
-<div class="country">
-<i class="flag-icon flag-icon-nz"></i>
-
-
-
-<a href="https://www.surfstitch.com/search" data-currency="NZD" data-locale="en_NZ" data-default-site-url="https://www.surfstitch.com/nz" data-button-text="Launch NZ site" data-default-site-id="ss-nz" class="locale different-site" data-country="New Zealand">
-$ NZD
-</a>
-
-</div>
-</div>
-
-<div class="continent">
-
-<div class="country">
-<i class="flag-icon flag-icon-us"></i>
-
-
-
-<a href="https://www.surfstitch.com/search" data-currency="USD" data-locale="en_US" data-default-site-url="" data-button-text="Launch US site" data-default-site-id="ss-us" class="locale " data-country="United States">
-$ USD
-</a>
-
-</div>
-</div>
-
-<div class="continent">
-
-<div class="country">
-<i class="flag-icon flag-icon-sg"></i>
-
-
-
-<a href="https://www.surfstitch.com/search" data-currency="SGD" data-locale="en_SG" data-default-site-url="" data-button-text="Launch SG site" data-default-site-id="ss-au" class="locale " data-country="Singapore">
-$ SGD
-</a>
-
-</div>
-</div>
-
-<div class="continent">
-
-<div class="country">
-<i class="flag-icon flag-icon-hk"></i>
-
-
-
-<a href="https://www.surfstitch.com/search" data-currency="HKD" data-locale="en_HK" data-default-site-url="" data-button-text="Launch HK site" data-default-site-id="ss-au" class="locale " data-country="Hong Kong">
-$ HKD
-</a>
-
-</div>
-</div>
-
-<div class="continent">
-
-<div class="country">
-<i class="flag-icon flag-icon-jp"></i>
-
-
-
-<a href="https://www.surfstitch.com/search" data-currency="JPY" data-locale="en_JP" data-default-site-url="" data-button-text="Launch JP site" data-default-site-id="ss-au" class="locale " data-country="Japan">
-¥ JPY
-</a>
-
-</div>
-</div>
-
-<div class="continent">
-
-<div class="country">
-<i class="flag-icon flag-icon-ca"></i>
-
-
-
-<a href="https://www.surfstitch.com/search" data-currency="CAD" data-locale="en_CA" data-default-site-url="" data-button-text="Launch CA site" data-default-site-id="ss-us" class="locale " data-country="Canada">
-$ CAD
-</a>
-
-</div>
-</div>
-
-<div class="continent">
-
-<div class="country">
-<i class="flag-icon flag-icon-eu"></i>
-
-
-
-<a href="https://www.surfstitch.com/search" data-currency="EUR" data-locale="en_DE" data-default-site-url="" data-button-text="Launch DE site" data-default-site-id="ss-au" class="locale " data-country="Germany">
-€ EUR
-</a>
-
-</div>
-</div>
-
-<div class="continent">
-
-<div class="country">
-<i class="flag-icon flag-icon-gb"></i>
-
-
-
-<a href="https://www.surfstitch.com/search" data-currency="GBP" data-locale="en_GB" data-default-site-url="" data-button-text="Launch GB site" data-default-site-id="ss-au" class="locale " data-country="United Kingdom">
-£ GBP
-</a>
-
-</div>
-</div>
-
-<div class="continent">
-
-<div class="country">
-<i class="flag-icon flag-icon-cn"></i>
-
-
-
-<a href="https://www.surfstitch.com/search" data-currency="CNY" data-locale="en_CN" data-default-site-url="" data-button-text="Launch CN site" data-default-site-id="ss-au" class="locale " data-country="China">
-¥ CNY
-</a>
-
-</div>
-</div>
-
-<div class="continent">
-
-<div class="country">
-<i class="flag-icon flag-icon-za"></i>
-
-
-
-<a href="https://www.surfstitch.com/search" data-currency="ZAR" data-locale="en_ZA" data-default-site-url="" data-button-text="Launch ZA site" data-default-site-id="ss-au" class="locale " data-country="South Africa">
-R ZAR
-</a>
-
-</div>
-</div>
-
-<div class="continent">
-
-<div class="country">
-<i class="flag-icon flag-icon-se"></i>
-
-
-
-<a href="https://www.surfstitch.com/search" data-currency="SEK" data-locale="en_SE" data-default-site-url="" data-button-text="Launch SE site" data-default-site-id="ss-au" class="locale " data-country="Sweden">
-kr SEK
-</a>
-
-</div>
-</div>
-
-<div class="continent">
-
-<div class="country">
-<i class="flag-icon flag-icon-dk"></i>
-
-
-
-<a href="https://www.surfstitch.com/search" data-currency="DKK" data-locale="en_DK" data-default-site-url="" data-button-text="Launch DK site" data-default-site-id="ss-au" class="locale " data-country="Denmark">
-kr DKK
-</a>
-
-</div>
-</div>
-
-<div class="continent">
-
-<div class="country">
-<i class="flag-icon flag-icon-no"></i>
-
-
-
-<a href="https://www.surfstitch.com/search" data-currency="NOK" data-locale="en_NO" data-default-site-url="" data-button-text="Launch NO site" data-default-site-id="ss-au" class="locale " data-country="Norway">
-kr NOK
-</a>
-
-</div>
-</div>
-
-
-</div>
-</div>
-
-
-</li>
-
-
-
-<li class="user-info">
-<a class="user-account" href="https://www.surfstitch.com/myaccount" title="User: Login /  Register">
-<i class="ss ss-myaccount"></i>
-<span>Login /  Register</span>
-</a>
-<div class="user-panel">
-<h3>Login /  Register</h3>
-<div class="user-links">
-
-
-<a class="account-flyout-toggle user-link user-login" href="https://www.surfstitch.com/myaccount-login" title="Go to: Login" target="login-flyout">Login</a>
-
-<div id="login-flyout" class="account-flyout" content-link="https://www.surfstitch.com/myaccount-login">
-</div>
-
-
-
-<a class="account-flyout-toggle user-link user-register" href="https://www.surfstitch.com/myaccount-register" title="Go to: Register" target="register-flyout">Register</a>
-
-<div id="register-flyout" class="account-flyout" content-link="https://www.surfstitch.com/myaccount-register">
-</div>
-
-
-</div>
-
-	 
-
-
-	
-
-
-
-
-
-<style>
-    /*Hamburger slot styles*/
-
-    nav#navigationmobile .header-usermenu {
-        background-color: #1D1C1F;
-    }
-
-    nav#navigationmobile .header-usermenu_link {
-        color: #FFF;
-        margin: 0;
-        line-height: 20px;
-        text-align: left;
-        padding: 10px 20px;
-        font-size: 11px;
-        font-weight: 500;
-    }
-
-    nav#navigationmobile .header-usermenu_link:hover {
-        color: #00b9e6;
-    }
-
-    nav#navigationmobile #header-usermenu_help-link,
-    nav#navigationmobile #header-usermenu_returns-link {
-        border-top: 1px solid #828282;
-    }
-    /*Hamburger slot styles END*/
-
-    nav#navigation .header-usermenu_link {
-        color: #000;
-        width: 100%;
-        text-align: center;
-        padding: 10px;
-        margin: 10px 0 0;
-    }
-
-    nav#navigation .header-usermenu_link:hover {
-        text-decoration: underline;
-    }
-
-    nav#navigation #header-usermenu_returns-link {
-        margin: 0;
-    }
-</style>
-
-<div class="header-usermenu">
-    <a id="header-usermenu_help-link" class="header-usermenu_link" href="https://help.surfstitch.com/hc/en-us">HELP / CONTACT US</a>
-    <a id="header-usermenu_returns-link" class="header-usermenu_link" href="https://www.surfstitch.com/returns-order">RETURNS</a>
-</div>
-
- 
-	
-</div>
-</li>
-
-</ul>
-</div>
 <div class="nav-category">
 <div class="header-search">
 
@@ -1106,6 +1121,16 @@ kr NOK
 </form>
 
 </div>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1289,110 +1314,74 @@ New In
 <div class="container">
 
 <div class="menu02-item"><style>
-    .menu02-item>.image-link {
+    .menu02-item .ss-nav-tile--new-in {
+        width: 100%;
         display: block;
-        padding: 0;
+        padding: 100% 100% 0 0;
+        text-align: center;
+        background-color: #bfbfbf;
+        position: relative;
     }
 
-    .menu02-item>.image-link:hover {
-        opacity: .9;
-    }
-
-    .new-in-tile>a {
+    .menu02-item .ss-nav-tile--new-in::before {
+        background-image: -webkit-radial-gradient(rgba(0, 0, 0, 0.55) 0%, transparent 80%);
+        background-image: -moz-radial-gradient(rgba(0, 0, 0, 0.55) 0%, transparent 80%);
+        background-image: radial-gradient(rgba(0, 0, 0, 0.55) 0%, transparent 80%);
         display: block;
+        position: absolute;
+        content: '';
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        z-index: 2;
     }
 
-    .new-in-tile--image {
+    .menu02-item .ss-nav-tile--new-in:hover::after,
+    .menu02-item .ss-nav-tile--new-in:active::after {
+        background: rgba(124, 177, 255, 0.3);
+        display: block;
+        position: absolute;
+        content: '';
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        z-index: 3;
+    }
+
+    .menu02-item .ss-nav-tile--new-in .ss-nav-tile__background {
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1;
+    }
+
+    .menu02-item .ss-nav-tile--new-in>.ss-nav-tile__content {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 4;
+        width: 100%;
         height: 100%;
-        padding-top: 100%;
-        background-color: #fff;
-        background-size: contain;
-        background-repeat: no-repeat;
-        padding-top: 100%;
-    }
-
-    .new-in-tile__header {
-        font-family: Montserrat, Helvetica, Arial, sans-serif;
-        font-style: normal;
-        font-weight: 700;
-        font-size: 1.3rem;
-        line-height: 1.38462em;
-        letter-spacing: .025em;
-        text-transform: uppercase;
-        color: #000;
-        padding: 4px 0;
-    }
-
-    .new-in-tile__list {
         display: flex;
-        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 5px;
+        overflow-wrap: break-word;
     }
 
-    .new-in-tile__list a {
-        font-family: Montserrat, Helvetica, Arial, sans-serif;
-        font-style: normal;
-        font-weight: 300;
-        font-size: 1.2rem;
-        line-height: 1.41667em;
-        letter-spacing: .025em;
-        color: #1d1c1f;
-        text-transform: none;
-        padding: 5px 2rem;
-    }
-
-    .new-in-tile__list a:hover,
-    .new-in-tile__header:hover {
-        color: #00b9e6;
+    .menu02-item .ss-nav-tile--new-in .ss-heading {
+        font-weight: 700;
+        font-size: calc(20px + (25 - 20) * ((100vw - 375px) / (1600 - 375)));
+        letter-spacing: 0;
+        line-height: 1;
+        text-shadow: 0 0 15px #333;
+        width: 100%;
     }
 </style>
 
-<div class="new-in-tile">
-    <a href="https://www.surfstitch.com/mens/new-arrivals">
-        <span class="new-in-tile__header">Mens</span>
-    </a>
-    <ul class="new-in-tile__list">
-        <li><a href="https://www.surfstitch.com/mens/clothing/new-arrivals">Mens Clothing</a></li>
-        <li><a href="https://www.surfstitch.com/mens/accessories/new-arrivals">Mens Accessories</a></li>
-        <li><a href="https://www.surfstitch.com/mens/footwear/new-arrivals">Mens Footwear</a></li>
-    </ul>
-
-    <a href="https://www.surfstitch.com/womens/new-arrivals">
-        <span class="new-in-tile__header">Womens</span>
-    </a>
-    <ul class="new-in-tile__list">
-        <li><a href="https://www.surfstitch.com/womens/clothing/new-arrivals">Womens Clothing</a></li>
-        <li><a href="https://www.surfstitch.com/womens/swimwear/new-arrivals">Womens Swimwear</a></li>
-        <li><a href="https://www.surfstitch.com/womens/accessories/new-arrivals">Womens Accessories</a></li>
-        <li><a href="https://www.surfstitch.com/womens/footwear/new-arrivals">Womens Footwear</a></li>
-    </ul>
-</div></div>
-
-<div class="menu02-item"><div class="new-in-tile">
-    <a href="https://www.surfstitch.com/kids/new-arrivals">
-        <span class="new-in-tile__header">Kids</span>
-    </a>
-    <ul class="new-in-tile__list">
-        <li><a href="https://www.surfstitch.com/kids/boys/new-arrivals">Boys</a></li>
-        <li><a href="https://www.surfstitch.com/kids/girls/new-arrivals">Girls</a></li>
-        <li><a href="https://www.surfstitch.com/kids/toddler-boys/new-arrivals">Toddler Boys</a></li>
-        <li><a href="https://www.surfstitch.com/kids/toddler-girls/new-arrivals">Toddler Girls</a></li>
-        <li><a href="https://www.surfstitch.com/kids/baby/new-arrivals">Baby</a></li>
-    </ul>
-</div></div>
-
-<div class="menu02-item"><div class="new-in-tile">
-    <a>
-        <span class="new-in-tile__header">Accessories</span>
-    </a>
-    <ul class="new-in-tile__list">
-        <li><a href="https://www.surfstitch.com/mens/accessories/new-arrivals">Mens</a></li>
-        <li><a href="https://www.surfstitch.com/womens/accessories/new-arrivals">Womens</a></li>
-        <li><a href="https://www.surfstitch.com/kids/boys/new-arrivals/accessories">Boys</a></li>
-        <li><a href="https://www.surfstitch.com/kids/girls/new-arrivals/accessories">Girls</a></li>
-    </ul>
-</div></div>
-
-<div class="menu02-item">
 
 
 
@@ -1401,9 +1390,13 @@ New In
 
 
 
-<div class="content-asset"><!-- dwMarker="content" dwContentID="2c6eaf4399f0dbe08087dd55e6" -->
-<a class="image-link" href="https://www.surfstitch.com/mens/new-arrivals">
-    <div class="new-in-tile new-in-tile--image" style="background-image: url('https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw2cfc60a1/images/categories/new-in/nav-tile/generic_nav-tile/new-in_mens.jpg')"></div>
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="244f4cd85ae14be33dea5f41ce" -->
+<a class="ss-nav-tile ss-nav-tile--new-in" href="https://www.surfstitch.com/mens/clothing/new-arrivals">
+    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwa8839103/images/categories/new-in/nav-tiles/nav-tile-01.jpg" alt="">
+    <div class="ss-nav-tile__content">
+        <span class="ss-heading">New In<br> Mens</span>
+    </div>
 </a>
 </div> <!-- End content-asset -->
 
@@ -1420,9 +1413,78 @@ New In
 
 
 
-<div class="content-asset"><!-- dwMarker="content" dwContentID="ac47a8074d376223e1d74a18e8" -->
-<a class="image-link" href="https://www.surfstitch.com/womens/new-arrivals">
-    <div class="new-in-tile new-in-tile--image" style="background-image: url('https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw4a775620/images/categories/new-in/nav-tile/generic_nav-tile/new-in_womens.jpg')"></div>
+<div class="content-asset"><!-- dwMarker="content" dwContentID="d21b2e4f1d88ac0426733b60cc" -->
+<a class="ss-nav-tile ss-nav-tile--new-in" href="https://www.surfstitch.com/womens/clothing/new-arrivals">
+    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwbcfaae3d/images/categories/new-in/nav-tiles/nav-tile-02.jpg" alt="">
+    <div class="ss-nav-tile__content">
+        <span class="ss-heading">New In<br> Womens</span>
+    </div>
+</a>
+</div> <!-- End content-asset -->
+
+
+
+</div>
+
+<div class="menu02-item">
+
+
+
+
+
+
+
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="4d6b92a1f4eef6cd8b96adbb39" -->
+<a class="ss-nav-tile ss-nav-tile--new-in" href="https://www.surfstitch.com/kids/boys/new-arrivals">
+    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw08d538bb/images/categories/new-in/nav-tiles/nav-tile-03.jpg" alt="">
+    <div class="ss-nav-tile__content">
+        <span class="ss-heading">New In<br> Boys</span>
+    </div>
+</a>
+</div> <!-- End content-asset -->
+
+
+
+</div>
+
+<div class="menu02-item">
+
+
+
+
+
+
+
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="38d79a54a362ecb15ec361c3ef" -->
+<a class="ss-nav-tile ss-nav-tile--new-in" href="https://www.surfstitch.com/kids/girls/new-arrivals">
+    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwe229b877/images/categories/new-in/nav-tiles/nav-tile-04.jpg" alt="">
+    <div class="ss-nav-tile__content">
+        <span class="ss-heading">New In<br> Girls</span>
+    </div>
+</a>
+</div> <!-- End content-asset -->
+
+
+
+</div>
+
+<div class="menu02-item">
+
+
+
+
+
+
+
+
+<div class="content-asset"><!-- dwMarker="content" dwContentID="39d496326084a252bac3c215e2" -->
+<a class="ss-nav-tile ss-nav-tile--new-in" href="https://www.surfstitch.com/mens/footwear/new-arrivals/sneakers">
+    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw7e18ff5c/images/categories/new-in/nav-tiles/nav-tile-05.jpg" alt="">
+    <div class="ss-nav-tile__content">
+        <span class="ss-heading">New In<br> Sneakers</span>
+    </div>
 </a>
 </div> <!-- End content-asset -->
 
@@ -1477,16 +1539,6 @@ Mens
 		</li>
 		
 		<li style="clear:both">
-			<a href="/mens/clothing/sale" class="cat-link">Sale</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/mens/clothing/multi-buys" class="cat-link">Multi Buys</a>
-			
-		</li>
-		
-		<li style="clear:both">
 			<a href="/mens/clothing/boardshorts" class="cat-link">Boardshorts</a>
 			
 		</li>
@@ -1532,12 +1584,22 @@ Mens
 		</li>
 		
 		<li style="clear:both">
+			<a href="/mens/clothing/socks-underwear" class="cat-link">Socks + Underwear</a>
+			
+		</li>
+		
+		<li style="clear:both">
 			<a href="/mens/clothing/swimwear" class="cat-link">Swimwear</a>
 			
 		</li>
 		
 		<li style="clear:both">
 			<a href="/mens/clothing/tees" class="cat-link">Tees</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/mens/clothing/sale" class="cat-link">Sale</a>
 			
 		</li>
 		
@@ -1562,42 +1624,12 @@ Mens
 		</li>
 		
 		<li style="clear:both">
-			<a href="/mens/accessories/sale" class="cat-link">Sale</a>
+			<a href="/mens/accessories/audio-cameras" class="cat-link">Audio + Cameras</a>
 			
 		</li>
 		
 		<li style="clear:both">
-			<a href="/mens/accessories/watches" class="cat-link">Watches</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/mens/accessories/sunglasses" class="cat-link">Sunglasses</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/mens/accessories/bags" class="cat-link">Bags</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/mens/accessories/headwear" class="cat-link">Headwear</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/mens/accessories/wallets" class="cat-link">Wallets</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/mens/accessories/towels" class="cat-link">Towels</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/mens/accessories/socks-underwear" class="cat-link">Socks + Underwear</a>
+			<a href="/mens/accessories/bags" class="cat-link">Bags + Backpacks</a>
 			
 		</li>
 		
@@ -1607,32 +1639,17 @@ Mens
 		</li>
 		
 		<li style="clear:both">
-			<a href="/mens/accessories/grooming" class="cat-link">Grooming</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/mens/accessories/audio" class="cat-link">Audio</a>
-			
-		</li>
-		
-		<li style="clear:both">
 			<a href="/mens/accessories/drinkware" class="cat-link">Drinkware</a>
 			
 		</li>
 		
 		<li style="clear:both">
-			<a href="/mens/accessories/beach-accessories" class="cat-link">Beach Accessories</a>
+			<a href="/mens/accessories/grooming" class="cat-link">Grooming</a>
 			
 		</li>
 		
 		<li style="clear:both">
-			<a href="/mens/accessories/cameras" class="cat-link">Cameras</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/mens/accessories/camping-gear" class="cat-link">Camping Gear</a>
+			<a href="/mens/accessories/headwear" class="cat-link">Headwear</a>
 			
 		</li>
 		
@@ -1642,7 +1659,37 @@ Mens
 		</li>
 		
 		<li style="clear:both">
+			<a href="/mens/accessories/outdoor" class="cat-link">Outdoor</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/mens/accessories/sunglasses" class="cat-link">Sunglasses</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/mens/accessories/towels" class="cat-link">Towels</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/mens/accessories/wallets" class="cat-link">Wallets</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/mens/accessories/watches" class="cat-link">Watches</a>
+			
+		</li>
+		
+		<li style="clear:both">
 			<a href="/mens/accessories/other" class="cat-link">Other</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/mens/accessories/sale" class="cat-link">Sale</a>
 			
 		</li>
 		
@@ -1663,11 +1710,6 @@ Mens
 		
 		<li style="clear:both">
 			<a href="/mens/footwear/new-arrivals" class="cat-link">New Arrivals</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/mens/footwear/sale" class="cat-link">Sale</a>
 			
 		</li>
 		
@@ -1712,7 +1754,33 @@ Mens
 		</li>
 		
 		<li style="clear:both">
-			<a href="/mens/footwear/ugg-boots" class="cat-link">Ugg Boots</a>
+			<a href="/mens/footwear/sale" class="cat-link">Sale</a>
+			
+		</li>
+		
+	</ul>
+
+</div>
+
+
+<div class="cat-block">
+<a href="/mens/boardsports" class="cat-link">Boardsports</a>
+
+
+	<ul class="menu-tree lv-3">
+		
+		<li style="clear:both">
+			<a href="/mens/boardsports/wetsuits" class="cat-link">Wetsuits</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/mens/boardsports/rashvests" class="cat-link">Rashvests</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/mens/boardsports/snow-outerwear" class="cat-link">Snow Outerwear</a>
 			
 		</li>
 		
@@ -1723,6 +1791,42 @@ Mens
 </div>
 
 <div class="col-md-3">
+
+
+<div class="cat-block">
+<a href="/mens/mix-and-match" class="cat-link">Mix and Match</a>
+
+
+	<ul class="menu-tree lv-3">
+		
+		<li style="clear:both">
+			<a href="/mens/mix-and-match/2-for-30" class="cat-link">2 for $30</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/mens/mix-and-match/2-for-40" class="cat-link">2 for $40</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/mens/mix-and-match/2-for-50" class="cat-link">2 for $50</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/mens/mix-and-match/2-for-60" class="cat-link">2 for $60</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/mens/mix-and-match/2-for-80" class="cat-link">2 for $80</a>
+			
+		</li>
+		
+	</ul>
+
+</div>
 
 </div>
 
@@ -1746,33 +1850,102 @@ Mens
         align-items: center;
         align-content: center;
         flex-flow: wrap row;
-        margin: 35px 5px 5px 0;
+        margin: 35px 5px 5px auto;
         justify-content: flex-end;
     }
 
-    #mens-nav-tiles .ss-nav-tile--mens {
+    #mens-nav-tiles>.ss-nav-tile--mens {
         max-width: 250px;
+        max-height: 250px;
         flex-basis: calc(50% - 10px);
         margin: 5px;
-        padding: 0;
+        padding: calc(50% - 20px) 0 0 0;
         text-align: center;
         font-size: 1.3em;
         display: inline-block;
+        position: relative;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+    }
+
+    #mens-nav-tiles>.ss-nav-tile--mens::before {
+        background-image: -webkit-radial-gradient(rgba(0, 0, 0, 0.55) 0%, transparent 80%);
+        background-image: -moz-radial-gradient(rgba(0, 0, 0, 0.55) 0%, transparent 80%);
+        background-image: radial-gradient(rgba(0, 0, 0, 0.55) 0%, transparent 80%);
+        display: block;
+        position: absolute;
+        content: '';
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        z-index: 1;
+    }
+
+    #mens-nav-tiles>.ss-nav-tile--mens:hover::after,
+    #mens-nav-tiles>.ss-nav-tile--mens:active::after {
+        background: rgba(124, 177, 255, 0.3);
+        display: block;
+        position: absolute;
+        content: '';
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        z-index: 2;
+    }
+
+    #mens-nav-tiles>.ss-nav-tile--mens>.ss-nav-tile__content {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 3;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 5px;
+        overflow-wrap: break-word;
+    }
+
+    #mens-nav-tiles>.ss-nav-tile--mens .ss-heading {
+        font-weight: 700;
+        font-size: calc(25px + (30 - 25) * ((100vw - 375px) / (1600 - 375)));
+        letter-spacing: 0;
+        line-height: 1;
+        text-shadow: 0 0 15px #333;
+        width: 100%;
+    }
+
+    @media (min-width: 1600px) {
+        #mens-nav-tiles > .ss-nav-tile--mens {
+            padding-top: 250px;
+        }
     }
 </style>
 
 <div id="mens-nav-tiles" class="ss-nav-tiles">
-    <a class="ss-nav-tile ss-nav-tile--mens ss-hover-opacity" href="https://www.surfstitch.com/mens/clothing/new-arrivals">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwfbaa1c80/images/categories/mens/nav-tiles/nav-tile-01.jpg" alt="New In Clothing">
+    <a class="ss-nav-tile ss-nav-tile--mens" href="https://www.surfstitch.com/mens/accessories/bags" style="background-image: url('https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw2fd7db83/images/categories/mens/nav-tiles/nav-tile-01.jpg');">
+        <div class="ss-nav-tile__content">
+            <span class="ss-heading">Bags<br>+<br>Backpacks</span>
+        </div>
     </a>
-    <a class="ss-nav-tile ss-nav-tile--mens ss-hover-opacity" href="https://www.surfstitch.com/mens/footwear">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw70730b54/images/categories/mens/nav-tiles/nav-tile-02.jpg" alt="Footwear">
+    <a class="ss-nav-tile ss-nav-tile--mens" href="https://www.surfstitch.com/mens/footwear" style="background-image: url('https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwad886a09/images/categories/mens/nav-tiles/nav-tile-02.jpg');">
+        <div class="ss-nav-tile__content">
+            <span class="ss-heading">Footwear</span>
+        </div>
     </a>
-    <a class="ss-nav-tile ss-nav-tile--mens ss-hover-opacity" href="https://www.surfstitch.com/mens/accessories/watches">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwd5a9388c/images/categories/mens/nav-tiles/nav-tile-03.jpg" alt="Watches">
+    <a class="ss-nav-tile ss-nav-tile--mens" href="https://www.surfstitch.com/mens/accessories/watches" style="background-image: url('https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwb529149a/images/categories/mens/nav-tiles/nav-tile-03.jpg');">
+        <div class="ss-nav-tile__content">
+            <span class="ss-heading">Watches</span>
+        </div>
     </a>
-    <a class="ss-nav-tile ss-nav-tile--mens ss-hover-opacity" href="https://www.surfstitch.com/mens/accessories/sunglasses">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw14688934/images/categories/mens/nav-tiles/nav-tile-04.jpg" alt="Sunglasses">
+    <a class="ss-nav-tile ss-nav-tile--mens" href="https://www.surfstitch.com/mens/accessories/sunglasses" style="background-image: url('https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw7cda1b82/images/categories/mens/nav-tiles/nav-tile-04.jpg');">
+        <div class="ss-nav-tile__content">
+            <span class="ss-heading">Sunglasses</span>
+        </div>
     </a>
 </div>
 </div> <!-- End content-asset -->
@@ -1824,16 +1997,6 @@ Womens
 		
 		<li style="clear:both">
 			<a href="/womens/clothing/new-arrivals" class="cat-link">New Arrivals</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/womens/clothing/sale" class="cat-link">Sale</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/womens/clothing/multi-buys" class="cat-link">Multi Buys</a>
 			
 		</li>
 		
@@ -1898,12 +2061,17 @@ Womens
 		</li>
 		
 		<li style="clear:both">
-			<a href="/womens/clothing/swimwear" class="cat-link">Swimwear</a>
+			<a href="/womens/clothing/socks-underwear" class="cat-link">Socks + Underwear</a>
 			
 		</li>
 		
 		<li style="clear:both">
 			<a href="/womens/clothing/tees" class="cat-link">Tees</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/womens/clothing/sale" class="cat-link">Sale</a>
 			
 		</li>
 		
@@ -1924,11 +2092,6 @@ Womens
 		
 		<li style="clear:both">
 			<a href="/womens/swimwear/new-arrivals" class="cat-link">New Arrivals</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/womens/swimwear/sale" class="cat-link">Sale</a>
 			
 		</li>
 		
@@ -1957,6 +2120,16 @@ Womens
 			
 		</li>
 		
+		<li style="clear:both">
+			<a href="/womens/swimwear/wetsuits" class="cat-link">Wetsuits</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/womens/swimwear/sale" class="cat-link">Sale</a>
+			
+		</li>
+		
 	</ul>
 
 </div>
@@ -1978,22 +2151,17 @@ Womens
 		</li>
 		
 		<li style="clear:both">
-			<a href="/womens/accessories/sale" class="cat-link">Sale</a>
+			<a href="/womens/accessories/audio-cameras" class="cat-link">Audio + Cameras</a>
 			
 		</li>
 		
 		<li style="clear:both">
-			<a href="/womens/accessories/sunglasses" class="cat-link">Sunglasses</a>
+			<a href="/womens/accessories/bags" class="cat-link">Bags + Backpacks</a>
 			
 		</li>
 		
 		<li style="clear:both">
-			<a href="/womens/accessories/watches" class="cat-link">Watches</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/womens/accessories/bags" class="cat-link">Bags</a>
+			<a href="/womens/accessories/beach-accessories" class="cat-link">Beach Accessories</a>
 			
 		</li>
 		
@@ -2003,7 +2171,17 @@ Womens
 		</li>
 		
 		<li style="clear:both">
+			<a href="/womens/accessories/drinkware" class="cat-link">Drinkware</a>
+			
+		</li>
+		
+		<li style="clear:both">
 			<a href="/womens/accessories/headwear" class="cat-link">Headwear</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/womens/accessories/home-body" class="cat-link">Home + Body</a>
 			
 		</li>
 		
@@ -2018,7 +2196,7 @@ Womens
 		</li>
 		
 		<li style="clear:both">
-			<a href="/womens/accessories/socks-underwear" class="cat-link">Socks + Underwear</a>
+			<a href="/womens/accessories/sunglasses" class="cat-link">Sunglasses</a>
 			
 		</li>
 		
@@ -2028,42 +2206,17 @@ Womens
 		</li>
 		
 		<li style="clear:both">
-			<a href="/womens/accessories/body-products" class="cat-link">Body Products</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/womens/accessories/homewares" class="cat-link">Homewares</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/womens/accessories/audio" class="cat-link">Audio</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/womens/accessories/drinkware" class="cat-link">Drinkware</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/womens/accessories/beach-accessories" class="cat-link">Beach Accessories</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/womens/accessories/cameras" class="cat-link">Cameras</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/womens/accessories/camping-gear" class="cat-link">Camping Gear</a>
+			<a href="/womens/accessories/watches" class="cat-link">Watches</a>
 			
 		</li>
 		
 		<li style="clear:both">
 			<a href="/womens/accessories/other" class="cat-link">Other</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/womens/accessories/sale" class="cat-link">Sale</a>
 			
 		</li>
 		
@@ -2084,11 +2237,6 @@ Womens
 		
 		<li style="clear:both">
 			<a href="/womens/footwear/new-arrivals" class="cat-link">New Arrivals</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/womens/footwear/sale" class="cat-link">Sale</a>
 			
 		</li>
 		
@@ -2123,22 +2271,22 @@ Womens
 		</li>
 		
 		<li style="clear:both">
-			<a href="/womens/footwear/thongs" class="cat-link">Thongs</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/womens/footwear/ugg-boots" class="cat-link">Ugg Boots</a>
-			
-		</li>
-		
-		<li style="clear:both">
 			<a href="/womens/footwear/slip-ons" class="cat-link">Slip Ons</a>
 			
 		</li>
 		
 		<li style="clear:both">
 			<a href="/womens/footwear/sneakers" class="cat-link">Sneakers</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/womens/footwear/thongs" class="cat-link">Thongs</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/womens/footwear/sale" class="cat-link">Sale</a>
 			
 		</li>
 		
@@ -2168,33 +2316,102 @@ Womens
         align-items: center;
         align-content: center;
         flex-flow: wrap row;
-        margin: 35px 5px 5px 0;
+        margin: 35px 5px 5px auto;
         justify-content: flex-end;
     }
 
-    #womens-nav-tiles .ss-nav-tile--womens {
+    #womens-nav-tiles>.ss-nav-tile--womens {
         max-width: 250px;
+        max-height: 250px;
         flex-basis: calc(50% - 10px);
         margin: 5px;
-        padding: 0;
+        padding: calc(50% - 20px) 0 0 0;
         text-align: center;
         font-size: 1.3em;
         display: inline-block;
+        position: relative;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+    }
+
+    #womens-nav-tiles>.ss-nav-tile--womens::before {
+        background-image: -webkit-radial-gradient(rgba(0, 0, 0, 0.55) 0%, transparent 80%);
+        background-image: -moz-radial-gradient(rgba(0, 0, 0, 0.55) 0%, transparent 80%);
+        background-image: radial-gradient(rgba(0, 0, 0, 0.55) 0%, transparent 80%);
+        display: block;
+        position: absolute;
+        content: '';
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        z-index: 1;
+    }
+
+    #womens-nav-tiles>.ss-nav-tile--womens:hover::after,
+    #womens-nav-tiles>.ss-nav-tile--womens:active::after {
+        background: rgba(124, 177, 255, 0.3);
+        display: block;
+        position: absolute;
+        content: '';
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        z-index: 2;
+    }
+
+    #womens-nav-tiles>.ss-nav-tile--womens>.ss-nav-tile__content {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 3;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 5px;
+        overflow-wrap: break-word;
+    }
+
+    #womens-nav-tiles>.ss-nav-tile--womens .ss-heading {
+        font-weight: 700;
+        font-size: calc(25px + (30 - 25) * ((100vw - 375px) / (1600 - 375)));
+        letter-spacing: 0;
+        line-height: 1;
+        text-shadow: 0 0 15px #333;
+        width: 100%;
+    }
+
+    @media (min-width: 1600px) {
+        #womens-nav-tiles > .ss-nav-tile--womens {
+            padding-top: 250px;
+        }
     }
 </style>
 
 <div id="womens-nav-tiles" class="ss-nav-tiles">
-    <a class="ss-nav-tile ss-nav-tile--womens ss-hover-opacity" href="https://www.surfstitch.com/summerswim/">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw3dbe344d/images/categories/womens/nav-tiles/nav-tile-01-summerswim.jpg" alt="First Look, Swim">
+    <a class="ss-nav-tile ss-nav-tile--womens" href="https://www.surfstitch.com/womens/footwear" style="background-image: url('https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw6db69fe7/images/categories/womens/nav-tiles/nav-tile-01.jpg');">
+        <div class="ss-nav-tile__content">
+            <span class="ss-heading">Footwear</span>
+        </div>
     </a>
-    <a class="ss-nav-tile ss-nav-tile--womens ss-hover-opacity" href="https://www.surfstitch.com/womens/footwear">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwbb68c9ea/images/categories/womens/nav-tiles/nav-tile-02.jpg" alt="Footwear">
+    <a class="ss-nav-tile ss-nav-tile--womens" href="https://www.surfstitch.com/womens/accessories/sunglasses" style="background-image: url('https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwbc3c1570/images/categories/womens/nav-tiles/nav-tile-02.jpg');">
+        <div class="ss-nav-tile__content">
+            <span class="ss-heading">Sunglasses</span>
+        </div>
     </a>
-    <a class="ss-nav-tile ss-nav-tile--womens ss-hover-opacity" href="https://www.surfstitch.com/womens/accessories/watches">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwe2c48a03/images/categories/womens/nav-tiles/nav-tile-03.jpg" alt="Watches">
+    <a class="ss-nav-tile ss-nav-tile--womens" href="https://www.surfstitch.com/womens/swimwear" style="background-image: url('https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw048f62f3/images/categories/womens/nav-tiles/nav-tile-03.jpg');">
+        <div class="ss-nav-tile__content">
+            <span class="ss-heading">Swimwear</span>
+        </div>
     </a>
-    <a class="ss-nav-tile ss-nav-tile--womens ss-hover-opacity" href="https://www.surfstitch.com/womens/accessories/sunglasses">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw40f4d42c/images/categories/womens/nav-tiles/nav-tile-04.jpg" alt="Sunglasses">
+    <a class="ss-nav-tile ss-nav-tile--womens" href="https://www.surfstitch.com/womens/accessories/watches" style="background-image: url('https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwac5f4dbd/images/categories/womens/nav-tiles/nav-tile-04.jpg');">
+        <div class="ss-nav-tile__content">
+            <span class="ss-heading">Watches</span>
+        </div>
     </a>
 </div>
 </div> <!-- End content-asset -->
@@ -2257,17 +2474,12 @@ Kids
 	<ul class="menu-tree lv-4">
 		
 		<li style="clear:both">
-			<a href="/kids/boys/clothing/multi-buys" class="cat-link">Multi Buys</a>
-			
-		</li>
-		
-		<li style="clear:both">
 			<a href="/kids/boys/clothing/boardshorts" class="cat-link">Boardshorts</a>
 			
 		</li>
 		
 		<li style="clear:both">
-			<a href="/kids/boys/clothing/jeans" class="cat-link">Jeans</a>
+			<a href="/kids/boys/clothing/jumpers-jackets" class="cat-link">Jumpers + Jackets</a>
 			
 		</li>
 		
@@ -2277,17 +2489,7 @@ Kids
 		</li>
 		
 		<li style="clear:both">
-			<a href="/kids/boys/clothing/jumpers" class="cat-link">Jumpers</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/boys/clothing/jackets" class="cat-link">Jackets</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/boys/clothing/shirts" class="cat-link">Shirts</a>
+			<a href="/kids/boys/clothing/shorts" class="cat-link">Shorts</a>
 			
 		</li>
 		
@@ -2297,27 +2499,12 @@ Kids
 		</li>
 		
 		<li style="clear:both">
-			<a href="/kids/boys/clothing/tees" class="cat-link">Tees</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/boys/clothing/singlets" class="cat-link">Singlets</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/boys/clothing/shorts" class="cat-link">Shorts</a>
+			<a href="/kids/boys/clothing/tops" class="cat-link">Tops</a>
 			
 		</li>
 		
 	</ul>
 
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/boys/accessories" class="cat-link">Accessories</a>
 			
 		</li>
 		
@@ -2327,104 +2514,12 @@ Kids
 		</li>
 		
 		<li style="clear:both">
+			<a href="/kids/boys/accessories" class="cat-link">Accessories</a>
+			
+		</li>
+		
+		<li style="clear:both">
 			<a href="/kids/boys/sale" class="cat-link">Sale</a>
-			
-		</li>
-		
-	</ul>
-
-</div>
-
-</div>
-
-<div class="col-md-3">
-
-
-<div class="cat-block">
-<a href="/kids/toddler-boys" class="cat-link">Toddler Boys</a>
-
-
-	<ul class="menu-tree lv-3">
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/new-arrivals" class="cat-link">New Arrivals</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/clothing" class="cat-link">Clothing</a>
-			
-			
-
-	<ul class="menu-tree lv-4">
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/clothing/boardshorts" class="cat-link">Boardshorts</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/clothing/jeans" class="cat-link">Jeans</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/clothing/pants" class="cat-link">Pants</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/clothing/jumpers" class="cat-link">Jumpers</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/clothing/jackets" class="cat-link">Jackets</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/clothing/shirts" class="cat-link">Shirts</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/clothing/swimwear" class="cat-link">Swimwear</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/clothing/tees" class="cat-link">Tees</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/clothing/singlets" class="cat-link">Singlets</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/clothing/shorts" class="cat-link">Shorts</a>
-			
-		</li>
-		
-	</ul>
-
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/accessories" class="cat-link">Accessories</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/footwear" class="cat-link">Footwear</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-boys/sale" class="cat-link">Sale</a>
 			
 		</li>
 		
@@ -2456,17 +2551,12 @@ Kids
 	<ul class="menu-tree lv-4">
 		
 		<li style="clear:both">
-			<a href="/kids/girls/clothing/dresses" class="cat-link">Dresses</a>
+			<a href="/kids/girls/clothing/dresses-playsuits" class="cat-link">Dresses + Playsuits</a>
 			
 		</li>
 		
 		<li style="clear:both">
-			<a href="/kids/girls/clothing/playsuits-overalls" class="cat-link">Playsuits + Overalls</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/girls/clothing/jeans" class="cat-link">Jeans</a>
+			<a href="/kids/girls/clothing/jumpers-jackets" class="cat-link">Jumpers + Jackets</a>
 			
 		</li>
 		
@@ -2476,22 +2566,7 @@ Kids
 		</li>
 		
 		<li style="clear:both">
-			<a href="/kids/girls/clothing/jumpers" class="cat-link">Jumpers</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/girls/clothing/jackets" class="cat-link">Jackets</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/girls/clothing/shorts" class="cat-link">Shorts</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/girls/clothing/skirts" class="cat-link">Skirts</a>
+			<a href="/kids/girls/clothing/shorts-skirts" class="cat-link">Shorts + Skirts</a>
 			
 		</li>
 		
@@ -2501,27 +2576,12 @@ Kids
 		</li>
 		
 		<li style="clear:both">
-			<a href="/kids/girls/clothing/fashion-tops" class="cat-link">Fashion Tops</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/girls/clothing/tees" class="cat-link">Tees</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/girls/clothing/singlets" class="cat-link">Singlets</a>
+			<a href="/kids/girls/clothing/tops" class="cat-link">Tops</a>
 			
 		</li>
 		
 	</ul>
 
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/girls/accessories" class="cat-link">Accessories</a>
 			
 		</li>
 		
@@ -2531,104 +2591,12 @@ Kids
 		</li>
 		
 		<li style="clear:both">
+			<a href="/kids/girls/accessories" class="cat-link">Accessories</a>
+			
+		</li>
+		
+		<li style="clear:both">
 			<a href="/kids/girls/sale" class="cat-link">Sale</a>
-			
-		</li>
-		
-	</ul>
-
-</div>
-
-</div>
-
-<div class="col-md-3">
-
-
-<div class="cat-block">
-<a href="/kids/toddler-girls" class="cat-link">Toddler Girls</a>
-
-
-	<ul class="menu-tree lv-3">
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/new-arrivals" class="cat-link">New Arrivals</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/clothing" class="cat-link">Clothing</a>
-			
-			
-
-	<ul class="menu-tree lv-4">
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/clothing/dresses" class="cat-link">Dresses</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/clothing/playsuits-overalls" class="cat-link">Playsuits + Overalls</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/clothing/pants" class="cat-link">Pants</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/clothing/jumpers" class="cat-link">Jumpers</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/clothing/jackets" class="cat-link">Jackets</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/clothing/shorts" class="cat-link">Shorts</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/clothing/skirts" class="cat-link">Skirts</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/clothing/swimwear" class="cat-link">Swimwear</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/clothing/tees" class="cat-link">Tees</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/clothing/singlets" class="cat-link">Singlets</a>
-			
-		</li>
-		
-	</ul>
-
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/accessories" class="cat-link">Accessories</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/footwear" class="cat-link">Footwear</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/kids/toddler-girls/sale" class="cat-link">Sale</a>
 			
 		</li>
 		
@@ -2644,7 +2612,17 @@ Kids
 	<ul class="menu-tree lv-3">
 		
 		<li style="clear:both">
+			<a href="/kids/baby/new-arrivals" class="cat-link">New Arrivals</a>
+			
+		</li>
+		
+		<li style="clear:both">
 			<a href="/kids/baby/clothing" class="cat-link">Clothing</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/kids/baby/footwear" class="cat-link">Footwear</a>
 			
 		</li>
 		
@@ -2654,13 +2632,57 @@ Kids
 		</li>
 		
 		<li style="clear:both">
-			<a href="/kids/baby/footwear" class="cat-link">Footwear</a>
+			<a href="/kids/baby/sale" class="cat-link">Sale</a>
 			
 		</li>
 		
 	</ul>
 
 </div>
+
+</div>
+
+<div class="col-md-3">
+
+
+<div class="cat-block">
+<a href="/kids/mix-and-match" class="cat-link">Mix and Match</a>
+
+
+	<ul class="menu-tree lv-3">
+		
+		<li style="clear:both">
+			<a href="/kids/mix-and-match/2-for-30" class="cat-link">2 for $30</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/kids/mix-and-match/2-for-40" class="cat-link">2 for $40</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/kids/mix-and-match/2-for-50" class="cat-link">2 for $50</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/kids/mix-and-match/2-for-60" class="cat-link">2 for $60</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/kids/mix-and-match/2-for-80" class="cat-link">2 for $80</a>
+			
+		</li>
+		
+	</ul>
+
+</div>
+
+</div>
+
+<div class="col-md-3">
 
 </div>
 
@@ -2683,7 +2705,7 @@ Kids
         display: flex;
         align-items: center;
         align-content: center;
-        flex-flow: wrap row;
+        flex-flow: row wrap;
         margin: 35px 5px 5px 0;
         justify-content: flex-end;
     }
@@ -2692,26 +2714,95 @@ Kids
         max-width: 250px;
         flex-basis: calc(50% - 10px);
         margin: 5px;
-        padding: 0;
+        display: inline-block;
+        width: 100%;
+        line-height: 0;
+    }
+
+    #kids-nav-tiles .ss-nav-tile--kids>a {
         text-align: center;
         font-size: 1.3em;
-        display: inline-block;
+        padding: 100% 100% 0 0;
+        position: relative;
+        background-color: #bfbfbf;
+    }
+
+    .ss-nav-tile--kids>a:hover::after,
+    .ss-nav-tile--kids>a:active::after {
+        background: rgba(124, 177, 255, 0.3);
+        display: block;
+        position: absolute;
+        content: '';
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        z-index: 2;
+    }
+
+    .ss-nav-tile--kids>a>.ss-nav-tile__background {
+        width: auto !important;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1;
+    }
+
+    .ss-nav-tile--kids>a>.ss-nav-tile__content {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 3;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 5px;
+    }
+
+    .ss-nav-tile--kids .ss-heading {
+        font-weight: 700;
+        font-size: calc(25px + (30 - 25) * ((100vw - 375px) / (1600 - 375)));
+        letter-spacing: 0;
+        line-height: 1;
+        text-shadow: 0 0px 15px #333;
     }
 </style>
 
 <div id="kids-nav-tiles" class="ss-nav-tiles">
-    <a class="ss-nav-tile ss-nav-tile--kids ss-hover-opacity" href="https://www.surfstitch.com/kids/boys/new-arrivals">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwdfedfb78/images/categories/kids/nav-tiles/nav-tile-01.jpg" alt="New In Boys">
-    </a>
-    <a class="ss-nav-tile ss-nav-tile--kids ss-hover-opacity" href="https://www.surfstitch.com/kids/boys/clothing/jumpers">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw533baf7b/images/categories/kids/nav-tiles/nav-tile-02.jpg" alt="Boys Jumpers">
-    </a>
-    <a class="ss-nav-tile ss-nav-tile--kids ss-hover-opacity" href="https://www.surfstitch.com/kids/girls/new-arrivals">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwd91b7f76/images/categories/kids/nav-tiles/nav-tile-03.jpg" alt="New In Girls">
-    </a>
-    <a class="ss-nav-tile ss-nav-tile--kids ss-hover-opacity" href="https://www.surfstitch.com/kids/girls/clothing/jumpers">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwb5eb6cc5/images/categories/kids/nav-tiles/nav-tile-04.jpg" alt="Girls Jumpers">
-    </a>
+    <div class="ss-nav-tile ss-nav-tile--kids">
+        <a href="https://www.surfstitch.com/kids/girls/new-arrivals?prefn1=ageGroup&amp;prefv1=Teen%20%288-16%29">
+            <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwb1f60d3f/images/categories/kids/nav-tiles/nav-tile-01.jpg">
+            <div class="ss-nav-tile__content">
+                <span class="ss-heading">New In<br>Girls</span>
+            </div>
+        </a>
+    </div>
+    <div class="ss-nav-tile ss-nav-tile--kids">
+        <a href="https://www.surfstitch.com/kids/boys/new-arrivals?prefn1=ageGroup&amp;prefv1=Teen%20%288-16%29">
+            <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw7d4158f4/images/categories/kids/nav-tiles/nav-tile-02.jpg">
+            <div class="ss-nav-tile__content">
+                <span class="ss-heading">New In<br>Boys</span>
+            </div>
+        </a>
+    </div>
+    <div class="ss-nav-tile ss-nav-tile--kids">
+        <a href="https://www.surfstitch.com/kids/boys/new-arrivals?prefn1=ageGroup&amp;prefv1=Kids%20%280-8%29">
+            <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw75c2201b/images/categories/kids/nav-tiles/nav-tile-03.jpg">
+            <div class="ss-nav-tile__content">
+                <span class="ss-heading">New In<br>Toddler Boys</span>
+            </div>
+        </a>
+    </div>
+    <div class="ss-nav-tile ss-nav-tile--kids">
+        <a href="https://www.surfstitch.com/kids/girls/new-arrivals?prefn1=ageGroup&amp;prefv1=Kids%20%280-8%29">
+            <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw71e49403/images/categories/kids/nav-tiles/nav-tile-04.jpg">
+            <div class="ss-nav-tile__content">
+                <span class="ss-heading">New In<br>Toddler Girls</span>
+            </div>
+        </a>
+    </div>
 </div>
 </div> <!-- End content-asset -->
 
@@ -2772,6 +2863,114 @@ Boardsports
 
 
 <div class="cat-block">
+<a href="/boardsports/surf/surfboards" class="cat-link">Surfboards</a>
+
+
+	<ul class="menu-tree lv-3">
+		
+		<li style="clear:both">
+			<a href="/boardsports/surf/surfboards/fish" class="cat-link">Fish</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/boardsports/surf/surfboards/funboard" class="cat-link">Funboard</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/boardsports/surf/surfboards/longboard" class="cat-link">Longboard</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/boardsports/surf/surfboards/mid-length" class="cat-link">Mid Length</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/boardsports/surf/surfboards/performance" class="cat-link">Performance</a>
+			
+		</li>
+		
+	</ul>
+
+</div>
+
+
+<div class="cat-block">
+<a href="/boardsports/surf/softboards" class="cat-link">Softboards</a>
+
+
+	<ul class="menu-tree lv-3">
+		
+		<li style="clear:both">
+			<a href="/boardsports/surf/softboards/beginner" class="cat-link">Beginner</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/boardsports/surf/softboards/funboard" class="cat-link">Funboard</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/boardsports/surf/softboards/performance" class="cat-link">Performance</a>
+			
+		</li>
+		
+	</ul>
+
+</div>
+
+
+<div class="cat-block">
+<a href="/boardsports/surf/bodyboards" class="cat-link">Bodyboards</a>
+
+
+	<ul class="menu-tree lv-3">
+		
+		<li style="clear:both">
+			<a href="/boardsports/surf/bodyboards/accessories" class="cat-link">Accessories</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/boardsports/surf/bodyboards/boards" class="cat-link">Boards</a>
+			
+		</li>
+		
+	</ul>
+
+</div>
+
+
+<div class="cat-block">
+<a href="/boardsports/surf/sups" class="cat-link">Sups</a>
+
+
+	<ul class="menu-tree lv-3">
+		
+		<li style="clear:both">
+			<a href="/boardsports/surf/sups/accessories" class="cat-link">Accessories</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/boardsports/surf/sups/boards" class="cat-link">Boards</a>
+			
+		</li>
+		
+	</ul>
+
+</div>
+
+</div>
+
+<div class="col-md-3">
+
+
+<div class="cat-block">
 <a href="/boardsports/surf/hardware" class="cat-link">Hardware</a>
 
 
@@ -2819,11 +3018,6 @@ Boardsports
 		</li>
 		
 		<li style="clear:both">
-			<a href="/boardsports/surf/accessories/dvds" class="cat-link">Dvds</a>
-			
-		</li>
-		
-		<li style="clear:both">
 			<a href="/boardsports/surf/accessories/surf-hats" class="cat-link">Surf Hats</a>
 			
 		</li>
@@ -2845,6 +3039,11 @@ Boardsports
 		
 		<li style="clear:both">
 			<a href="/boardsports/surf/accessories/wax" class="cat-link">Wax</a>
+			
+		</li>
+		
+		<li style="clear:both">
+			<a href="/boardsports/surf/accessories/other" class="cat-link">Other</a>
 			
 		</li>
 		
@@ -2927,11 +3126,6 @@ Boardsports
 			
 		</li>
 		
-		<li style="clear:both">
-			<a href="/boardsports/surf/wetsuits/womens/accessories" class="cat-link">Accessories</a>
-			
-		</li>
-		
 	</ul>
 
 			
@@ -2947,23 +3141,9 @@ Boardsports
 			
 		</li>
 		
-		<li style="clear:both">
-			<a href="/boardsports/surf/wetsuits/toddler-boys" class="cat-link">Toddler Boys</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/wetsuits/toddler-girls" class="cat-link">Toddler Girls</a>
-			
-		</li>
-		
 	</ul>
 
 </div>
-
-</div>
-
-<div class="col-md-3">
 
 
 <div class="cat-block">
@@ -2992,103 +3172,6 @@ Boardsports
 			
 		</li>
 		
-		<li style="clear:both">
-			<a href="/boardsports/surf/rashvests/toddler-boys" class="cat-link">Toddler Boys</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/rashvests/toddler-girls" class="cat-link">Toddler Girls</a>
-			
-		</li>
-		
-	</ul>
-
-</div>
-
-
-<div class="cat-block">
-<a href="/boardsports/surf/surfboards" class="cat-link">Surfboards</a>
-
-
-	<ul class="menu-tree lv-3">
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/surfboards/beginner" class="cat-link">Beginner</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/surfboards/finless" class="cat-link">Finless</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/surfboards/fish" class="cat-link">Fish</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/surfboards/funboard" class="cat-link">Funboard</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/surfboards/longboard" class="cat-link">Longboard</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/surfboards/mid-length" class="cat-link">Mid Length</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/surfboards/performance" class="cat-link">Performance</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/surfboards/single-fin" class="cat-link">Single Fin</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/surfboards/small-wave" class="cat-link">Small Wave</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/surfboards/softboards" class="cat-link">Softboards</a>
-			
-		</li>
-		
-	</ul>
-
-</div>
-
-
-<div class="cat-block">
-<a href="/boardsports/surf/softboards" class="cat-link">Softboards</a>
-
-
-	<ul class="menu-tree lv-3">
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/softboards/beginner" class="cat-link">Beginner</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/softboards/funboard" class="cat-link">Funboard</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/softboards/performance" class="cat-link">Performance</a>
-			
-		</li>
-		
 	</ul>
 
 </div>
@@ -3096,43 +3179,6 @@ Boardsports
 </div>
 
 <div class="col-md-3">
-
-
-<div class="cat-block">
-<a href="/boardsports/surf/bodyboards" class="cat-link">Bodyboards</a>
-
-
-	<ul class="menu-tree lv-3">
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/bodyboards/accessories" class="cat-link">Accessories</a>
-			
-		</li>
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/bodyboards/boards" class="cat-link">Boards</a>
-			
-		</li>
-		
-	</ul>
-
-</div>
-
-
-<div class="cat-block">
-<a href="/boardsports/surf/sups" class="cat-link">Sups</a>
-
-
-	<ul class="menu-tree lv-3">
-		
-		<li style="clear:both">
-			<a href="/boardsports/surf/sups/boards" class="cat-link">Boards</a>
-			
-		</li>
-		
-	</ul>
-
-</div>
 
 </div>
 
@@ -3172,17 +3218,17 @@ Boardsports
 </style>
 
 <div id="surf-nav-tiles" class="ss-nav-tiles">
-    <a class="ss-nav-tile ss-nav-tile--surf ss-hover-opacity" href="https://www.surfstitch.com/boardsports/surf/new-arrivals">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw0af47ba6/images/categories/boardsports/surf/nav-tiles/nav-tile-01.jpg" alt="New Arrivals">
+    <a class="ss-nav-tile ss-nav-tile--surf ss-hover-opacity" href="https://www.surfstitch.com/brand/gopro">
+        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwc6516a92/images/categories/boardsports/surf/nav-tiles/GoPro-nav-tile-01.jpg" alt="Go Pro Hero 7">
     </a>
     <a class="ss-nav-tile ss-nav-tile--surf ss-hover-opacity" href="https://www.surfstitch.com/boardsports/surf/hardware">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw7b824a6d/images/categories/boardsports/surf/nav-tiles/nav-tile-02.jpg" alt="Hardware">
+        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw3efa9e49/images/categories/boardsports/surf/nav-tiles/nav-tile-02.jpg" alt="Hardware">
     </a>
     <a class="ss-nav-tile ss-nav-tile--surf ss-hover-opacity" href="https://www.surfstitch.com/boardsports/surf/wetsuits">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw29bee1aa/images/categories/boardsports/surf/nav-tiles/nav-tile-03.jpg" alt="Wetsuits">
+        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw76bdcb02/images/categories/boardsports/surf/nav-tiles/nav-tile-03.jpg" alt="Wetsuits">
     </a>
     <a class="ss-nav-tile ss-nav-tile--surf ss-hover-opacity" href="https://www.surfstitch.com/boardsports/surf/surfboards">
-        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw0ac5bf69/images/categories/boardsports/surf/nav-tiles/nav-tile-04.jpg" alt="Surfboards">
+        <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw818a8e18/images/categories/boardsports/surf/nav-tiles/nav-tile-04.jpg" alt="Surfboards">
     </a>
 </div>
 </div> <!-- End content-asset -->
@@ -3385,6 +3431,7 @@ Boardsports
         font-size: calc(25px + (35 - 25) * ((100vw - 375px) / (1600 - 375)));
         letter-spacing: 0;
         text-shadow: 0 0px 15px #333;
+        line-height: 1;
     }
 </style>
 
@@ -3399,7 +3446,7 @@ Boardsports
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="be303ceb74f15abca98baeb62c" -->
 <a class="ss-nav-tile ss-nav-tile--snow" href="https://www.surfstitch.com/boardsports/snow/outerwear/mens">
-    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwa83f65aa/images/categories/boardsports/snow/nav-tiles/nav-tile-01.jpg">
+    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwa88eada6/images/categories/boardsports/snow/nav-tiles/nav-tile-01.jpg">
     <div class="ss-nav-tile__content">
         <h3 class="ss-heading">Mens</h3>
     </div>
@@ -3421,7 +3468,7 @@ Boardsports
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="05558b78c22d1ca318b1cc7052" -->
 <a class="ss-nav-tile ss-nav-tile--snow" href="https://www.surfstitch.com/boardsports/snow/outerwear/womens">
-    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw0d4b8b46/images/categories/boardsports/snow/nav-tiles/nav-tile-02.jpg">
+    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw5bc5566b/images/categories/boardsports/snow/nav-tiles/nav-tile-02.jpg">
     <div class="ss-nav-tile__content">
         <h3 class="ss-heading">Womens</h3>
     </div>
@@ -3443,7 +3490,7 @@ Boardsports
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="688ae034e3f5483aa584122a9f" -->
 <a class="ss-nav-tile ss-nav-tile--snow" href="https://www.surfstitch.com/boardsports/snow/outerwear/kids">
-    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwfcc3dafd/images/categories/boardsports/snow/nav-tiles/nav-tile-03.jpg">
+    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw981843d9/images/categories/boardsports/snow/nav-tiles/nav-tile-03.jpg">
     <div class="ss-nav-tile__content">
         <h3 class="ss-heading">Kids</h3>
     </div>
@@ -3465,9 +3512,9 @@ Boardsports
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="1496ca5b6ccb06aedfc9ba7163" -->
 <a class="ss-nav-tile ss-nav-tile--snow" href="https://www.surfstitch.com/boardsports/snow/accessories">
-    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw08b6da01/images/categories/boardsports/snow/nav-tiles/nav-tile-04.jpg">
+    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwcc4b0930/images/categories/boardsports/snow/nav-tiles/nav-tile-04.jpg">
     <div class="ss-nav-tile__content">
-        <h3 class="ss-heading">Accessories</h3>
+        <h3 class="ss-heading">Hardware<br>&amp;<br>Accessories</h3>
     </div>
 </a>
 </div> <!-- End content-asset -->
@@ -3487,7 +3534,7 @@ Boardsports
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="24eca7c0aceb0609d37edffc48" -->
 <a class="ss-nav-tile ss-nav-tile--snow ss-nav-tile--snow-content" href="https://www.surfstitch.com/boardsports/snow">
-    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwf101987d/images/categories/boardsports/snow/nav-tiles/nav-tile-05.jpg">
+    <img class="ss-nav-tile__background" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw1eec3deb/images/categories/boardsports/snow/nav-tiles/nav-tile-05.jpg">
     <div class="ss-nav-tile__content">
         <h3 class="ss-heading">All Snow</h3>
     </div>
@@ -3575,15 +3622,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/insight" class="cat-link">Insight</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/nike" class="cat-link">Nike</a>
 </li>
 
 <li>
-<a data-group="null" href="/brand/no-news" class="cat-link">No News</a>
-</li>
-
-<li>
-<a data-group="null" href="/brand/quiksilver" class="cat-link">Quiksilver</a>
+<a data-group="null" href="/brand/rhythm" class="cat-link">Rhythm</a>
 </li>
 
 <li>
@@ -3595,10 +3642,6 @@ BRANDS
 </li>
 
 <li>
-<a data-group="null" href="/brand/rvca" class="cat-link">Rvca</a>
-</li>
-
-<li>
 <a data-group="null" href="/brand/stussy" class="cat-link">Stussy</a>
 </li>
 
@@ -3607,7 +3650,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/the-critical-slide-society" class="cat-link">The Critical Slide Society</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/the-hidden-way" class="cat-link">The Hidden Way</a>
+</li>
+
+<li>
+<a data-group="null" href="/brand/thrills" class="cat-link">Thrills</a>
 </li>
 
 <li>
@@ -3640,11 +3691,11 @@ BRANDS
 </li>
 
 <li>
-<a data-group="V" href="/brand/vertra" class="cat-link">Vertra</a>
+<a data-group="V" href="/brand/vieux-eyewear" class="cat-link">Vieux Eyewear</a>
 </li>
 
 <li>
-<a data-group="V" href="/brand/vieux-eyewear" class="cat-link">Vieux Eyewear</a>
+<a data-group="V" href="/brand/vitamin-a" class="cat-link">Vitamin A</a>
 </li>
 
 <li>
@@ -3673,15 +3724,7 @@ BRANDS
 </li>
 
 <li>
-<a data-group="W" href="/brand/welcome" class="cat-link">Welcome</a>
-</li>
-
-<li>
 <a data-group="W" href="/brand/wilde-willow" class="cat-link">Wilde Willow</a>
-</li>
-
-<li>
-<a data-group="W" href="/brand/wilds" class="cat-link">Wilds</a>
 </li>
 
 <li>
@@ -3774,15 +3817,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/insight" class="cat-link">Insight</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/nike" class="cat-link">Nike</a>
 </li>
 
 <li>
-<a data-group="null" href="/brand/no-news" class="cat-link">No News</a>
-</li>
-
-<li>
-<a data-group="null" href="/brand/quiksilver" class="cat-link">Quiksilver</a>
+<a data-group="null" href="/brand/rhythm" class="cat-link">Rhythm</a>
 </li>
 
 <li>
@@ -3794,10 +3837,6 @@ BRANDS
 </li>
 
 <li>
-<a data-group="null" href="/brand/rvca" class="cat-link">Rvca</a>
-</li>
-
-<li>
 <a data-group="null" href="/brand/stussy" class="cat-link">Stussy</a>
 </li>
 
@@ -3806,7 +3845,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/the-critical-slide-society" class="cat-link">The Critical Slide Society</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/the-hidden-way" class="cat-link">The Hidden Way</a>
+</li>
+
+<li>
+<a data-group="null" href="/brand/thrills" class="cat-link">Thrills</a>
 </li>
 
 <li>
@@ -3839,7 +3886,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="S" href="/brand/sancia" class="cat-link">Sancia</a>
+</li>
+
+<li>
 <a data-group="S" href="/brand/santa-cruz" class="cat-link">Santa Cruz</a>
+</li>
+
+<li>
+<a data-group="S" href="/brand/sass" class="cat-link">Sass</a>
 </li>
 
 <li>
@@ -3855,10 +3910,6 @@ BRANDS
 </li>
 
 <li>
-<a data-group="S" href="/brand/sector-nine" class="cat-link">Sector Nine</a>
-</li>
-
-<li>
 <a data-group="S" href="/brand/seven-skateboards" class="cat-link">Seven Skateboards</a>
 </li>
 
@@ -3867,19 +3918,15 @@ BRANDS
 </li>
 
 <li>
-<a data-group="S" href="/brand/simon-anderson" class="cat-link">Simon Anderson</a>
-</li>
-
-<li>
-<a data-group="S" href="/brand/simple-watch-co" class="cat-link">Simple Watch Co</a>
-</li>
-
-<li>
 <a data-group="S" href="/brand/skechers" class="cat-link">Skechers</a>
 </li>
 
 <li>
 <a data-group="S" href="/brand/skullcandy" class="cat-link">Skullcandy</a>
+</li>
+
+<li>
+<a data-group="S" href="/brand/skye-and-staghorn" class="cat-link">Skye And Staghorn</a>
 </li>
 
 <li>
@@ -3895,15 +3942,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="S" href="/brand/solid-and-striped" class="cat-link">Solid And Striped</a>
+</li>
+
+<li>
 <a data-group="S" href="/brand/solid-racks" class="cat-link">Solid Racks</a>
 </li>
 
 <li>
-<a data-group="S" href="/brand/somedays-lovin" class="cat-link">Somedays Lovin</a>
-</li>
-
-<li>
-<a data-group="S" href="/brand/sp-gadgets" class="cat-link">Sp Gadgets</a>
+<a data-group="S" href="/brand/soludos" class="cat-link">Soludos</a>
 </li>
 
 </ul>
@@ -3916,6 +3963,14 @@ BRANDS
 <ul>
 
 <li>
+<a data-group="S" href="/brand/somedays-lovin" class="cat-link">Somedays Lovin</a>
+</li>
+
+<li>
+<a data-group="S" href="/brand/sp-gadgets" class="cat-link">Sp Gadgets</a>
+</li>
+
+<li>
 <a data-group="S" href="/brand/speedo" class="cat-link">Speedo</a>
 </li>
 
@@ -3925,10 +3980,6 @@ BRANDS
 
 <li>
 <a data-group="S" href="/brand/st-goliath" class="cat-link">St Goliath</a>
-</li>
-
-<li>
-<a data-group="S" href="/brand/stacey" class="cat-link">Stacey</a>
 </li>
 
 <li>
@@ -3956,7 +4007,7 @@ BRANDS
 </li>
 
 <li>
-<a data-group="S" href="/brand/sunnylife" class="cat-link">Sunnylife</a>
+<a data-group="S" href="/brand/super-by-retrosuperfuture" class="cat-link">Super By Retrosuperfuture</a>
 </li>
 
 <li>
@@ -3993,7 +4044,19 @@ BRANDS
 </li>
 
 <li>
+<a data-group="T" href="/brand/the-bare-road" class="cat-link">The Bare Road</a>
+</li>
+
+<li>
 <a data-group="T" href="/brand/the-beach-people" class="cat-link">The Beach People</a>
+</li>
+
+<li>
+<a data-group="T" href="/brand/the-bumbag-co" class="cat-link">The Bumbag Co</a>
+</li>
+
+<li>
+<a data-group="T" href="/brand/the-candle-library" class="cat-link">The Candle Library</a>
 </li>
 
 <li>
@@ -4018,6 +4081,10 @@ BRANDS
 
 <li>
 <a data-group="T" href="/brand/the-people-vs" class="cat-link">The People Vs</a>
+</li>
+
+<li>
+<a data-group="T" href="/brand/the-salty-merchants" class="cat-link">The Salty Merchants</a>
 </li>
 
 <li>
@@ -4052,8 +4119,41 @@ BRANDS
 <a data-group="T" href="/brand/timberland" class="cat-link">Timberland</a>
 </li>
 
+</ul>
+</div>
+</div>
+
+<div class="brand-column">
+<div class="brand-group">
+<div class="group-name"></div>
+<ul>
+
+<li>
+<a data-group="T" href="/brand/timex" class="cat-link">Timex</a>
+</li>
+
 <li>
 <a data-group="T" href="/brand/tiny-tribe" class="cat-link">Tiny Tribe</a>
+</li>
+
+<li>
+<a data-group="T" href="/brand/toms" class="cat-link">TOMS</a>
+</li>
+
+<li>
+<a data-group="T" href="/brand/tori-praver" class="cat-link">Tori Praver</a>
+</li>
+
+<li>
+<a data-group="T" href="/brand/town-and-country" class="cat-link">Town and Country</a>
+</li>
+
+<li>
+<a data-group="T" href="/brand/trouble-loves-company" class="cat-link">Trouble Loves Company</a>
+</li>
+
+<li>
+<a data-group="T" href="/brand/twiin" class="cat-link">Twiin</a>
 </li>
 
 </ul>
@@ -4064,10 +4164,6 @@ BRANDS
 <div class="brand-group">
 <div class="group-name">U</div>
 <ul>
-
-<li>
-<a data-group="U" href="/brand/ugg-australia" class="cat-link">Ugg Australia</a>
-</li>
 
 <li>
 <a data-group="U" href="/brand/uppercut" class="cat-link">Uppercut</a>
@@ -4117,15 +4213,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/insight" class="cat-link">Insight</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/nike" class="cat-link">Nike</a>
 </li>
 
 <li>
-<a data-group="null" href="/brand/no-news" class="cat-link">No News</a>
-</li>
-
-<li>
-<a data-group="null" href="/brand/quiksilver" class="cat-link">Quiksilver</a>
+<a data-group="null" href="/brand/rhythm" class="cat-link">Rhythm</a>
 </li>
 
 <li>
@@ -4137,10 +4233,6 @@ BRANDS
 </li>
 
 <li>
-<a data-group="null" href="/brand/rvca" class="cat-link">Rvca</a>
-</li>
-
-<li>
 <a data-group="null" href="/brand/stussy" class="cat-link">Stussy</a>
 </li>
 
@@ -4149,7 +4241,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/the-critical-slide-society" class="cat-link">The Critical Slide Society</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/the-hidden-way" class="cat-link">The Hidden Way</a>
+</li>
+
+<li>
+<a data-group="null" href="/brand/thrills" class="cat-link">Thrills</a>
 </li>
 
 <li>
@@ -4194,6 +4294,10 @@ BRANDS
 </li>
 
 <li>
+<a data-group="P" href="/brand/paul-hewitt" class="cat-link">Paul Hewitt</a>
+</li>
+
+<li>
 <a data-group="P" href="/brand/peak" class="cat-link">Peak</a>
 </li>
 
@@ -4203,6 +4307,10 @@ BRANDS
 
 <li>
 <a data-group="P" href="/brand/peony-swimwear" class="cat-link">Peony Swimwear</a>
+</li>
+
+<li>
+<a data-group="P" href="/brand/pf-candle-co" class="cat-link">Pf Candle Co</a>
 </li>
 
 <li>
@@ -4284,6 +4392,10 @@ BRANDS
 </li>
 
 <li>
+<a data-group="R" href="/brand/richer-poorer" class="cat-link">Richer Poorer</a>
+</li>
+
+<li>
 <a data-group="R" href="/brand/riders-by-lee" class="cat-link">Riders By Lee</a>
 </li>
 
@@ -4304,6 +4416,14 @@ BRANDS
 </li>
 
 <li>
+<a data-group="R" href="/brand/rookie-by-the-academy-brand" class="cat-link">Rookie By The Academy Brand</a>
+</li>
+
+<li>
+<a data-group="R" href="/brand/rosefield" class="cat-link">Rosefield</a>
+</li>
+
+<li>
 <a data-group="R" href="/brand/roxy" class="cat-link">Roxy</a>
 </li>
 
@@ -4318,6 +4438,15 @@ BRANDS
 <li>
 <a data-group="R" href="/brand/rusty" class="cat-link">Rusty</a>
 </li>
+
+</ul>
+</div>
+</div>
+
+<div class="brand-column">
+<div class="brand-group">
+<div class="group-name"></div>
+<ul>
 
 <li>
 <a data-group="R" href="/brand/rvca" class="cat-link">Rvca</a>
@@ -4363,15 +4492,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/insight" class="cat-link">Insight</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/nike" class="cat-link">Nike</a>
 </li>
 
 <li>
-<a data-group="null" href="/brand/no-news" class="cat-link">No News</a>
-</li>
-
-<li>
-<a data-group="null" href="/brand/quiksilver" class="cat-link">Quiksilver</a>
+<a data-group="null" href="/brand/rhythm" class="cat-link">Rhythm</a>
 </li>
 
 <li>
@@ -4383,10 +4512,6 @@ BRANDS
 </li>
 
 <li>
-<a data-group="null" href="/brand/rvca" class="cat-link">Rvca</a>
-</li>
-
-<li>
 <a data-group="null" href="/brand/stussy" class="cat-link">Stussy</a>
 </li>
 
@@ -4395,7 +4520,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/the-critical-slide-society" class="cat-link">The Critical Slide Society</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/the-hidden-way" class="cat-link">The Hidden Way</a>
+</li>
+
+<li>
+<a data-group="null" href="/brand/thrills" class="cat-link">Thrills</a>
 </li>
 
 <li>
@@ -4424,10 +4557,6 @@ BRANDS
 </li>
 
 <li>
-<a data-group="M" href="/brand/maywood" class="cat-link">Maywood</a>
-</li>
-
-<li>
 <a data-group="M" href="/brand/mctavish" class="cat-link">Mctavish</a>
 </li>
 
@@ -4437,6 +4566,10 @@ BRANDS
 
 <li>
 <a data-group="M" href="/brand/misfit" class="cat-link">Misfit</a>
+</li>
+
+<li>
+<a data-group="M" href="/brand/mlm-label" class="cat-link">MLM Label</a>
 </li>
 
 <li>
@@ -4457,6 +4590,10 @@ BRANDS
 
 <li>
 <a data-group="M" href="/brand/mossimo" class="cat-link">Mossimo</a>
+</li>
+
+<li>
+<a data-group="M" href="/brand/munster-kids" class="cat-link">Munster Kids</a>
 </li>
 
 </ul>
@@ -4501,10 +4638,6 @@ BRANDS
 </li>
 
 <li>
-<a data-group="N" href="/brand/nip-tuck" class="cat-link">Nip Tuck</a>
-</li>
-
-<li>
 <a data-group="N" href="/brand/nixon" class="cat-link">Nixon</a>
 </li>
 
@@ -4514,6 +4647,10 @@ BRANDS
 
 <li>
 <a data-group="N" href="/brand/no-news" class="cat-link">No News</a>
+</li>
+
+<li>
+<a data-group="N" href="/brand/nude-lucy" class="cat-link">Nude Lucy</a>
 </li>
 
 <li>
@@ -4535,6 +4672,10 @@ BRANDS
 
 <li>
 <a data-group="O" href="/brand/oakley" class="cat-link">Oakley</a>
+</li>
+
+<li>
+<a data-group="O" href="/brand/obey" class="cat-link">Obey</a>
 </li>
 
 <li>
@@ -4609,15 +4750,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/insight" class="cat-link">Insight</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/nike" class="cat-link">Nike</a>
 </li>
 
 <li>
-<a data-group="null" href="/brand/no-news" class="cat-link">No News</a>
-</li>
-
-<li>
-<a data-group="null" href="/brand/quiksilver" class="cat-link">Quiksilver</a>
+<a data-group="null" href="/brand/rhythm" class="cat-link">Rhythm</a>
 </li>
 
 <li>
@@ -4629,10 +4770,6 @@ BRANDS
 </li>
 
 <li>
-<a data-group="null" href="/brand/rvca" class="cat-link">Rvca</a>
-</li>
-
-<li>
 <a data-group="null" href="/brand/stussy" class="cat-link">Stussy</a>
 </li>
 
@@ -4641,7 +4778,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/the-critical-slide-society" class="cat-link">The Critical Slide Society</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/the-hidden-way" class="cat-link">The Hidden Way</a>
+</li>
+
+<li>
+<a data-group="null" href="/brand/thrills" class="cat-link">Thrills</a>
 </li>
 
 <li>
@@ -4662,11 +4807,19 @@ BRANDS
 <ul>
 
 <li>
+<a data-group="J" href="/brand/james-smith" class="cat-link">James Smith</a>
+</li>
+
+<li>
 <a data-group="J" href="/brand/jansport" class="cat-link">Jansport</a>
 </li>
 
 <li>
 <a data-group="J" href="/brand/jets" class="cat-link">Jets</a>
+</li>
+
+<li>
+<a data-group="J" href="/brand/jorge" class="cat-link">Jorge</a>
 </li>
 
 <li>
@@ -4703,7 +4856,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="K" href="/brand/kip-and-co" class="cat-link">Kip and Co</a>
+</li>
+
+<li>
 <a data-group="K" href="/brand/kissed-by-radicool" class="cat-link">Kissed By Radicool</a>
+</li>
+
+<li>
+<a data-group="K" href="/brand/kollab" class="cat-link">Kollab</a>
 </li>
 
 <li>
@@ -4736,6 +4897,14 @@ BRANDS
 </li>
 
 <li>
+<a data-group="L" href="/brand/lee" class="cat-link">Lee</a>
+</li>
+
+<li>
+<a data-group="L" href="/brand/leus-towels" class="cat-link">Leus Towels</a>
+</li>
+
+<li>
 <a data-group="L" href="/brand/levis" class="cat-link">Levi's</a>
 </li>
 
@@ -4753,6 +4922,14 @@ BRANDS
 
 <li>
 <a data-group="L" href="/brand/lost" class="cat-link">Lost</a>
+</li>
+
+<li>
+<a data-group="L" href="/brand/lower" class="cat-link">Lower</a>
+</li>
+
+<li>
+<a data-group="L" href="/brand/lulu-and-rose" class="cat-link">Lulu and Rose</a>
 </li>
 
 </ul>
@@ -4795,15 +4972,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/insight" class="cat-link">Insight</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/nike" class="cat-link">Nike</a>
 </li>
 
 <li>
-<a data-group="null" href="/brand/no-news" class="cat-link">No News</a>
-</li>
-
-<li>
-<a data-group="null" href="/brand/quiksilver" class="cat-link">Quiksilver</a>
+<a data-group="null" href="/brand/rhythm" class="cat-link">Rhythm</a>
 </li>
 
 <li>
@@ -4815,10 +4992,6 @@ BRANDS
 </li>
 
 <li>
-<a data-group="null" href="/brand/rvca" class="cat-link">Rvca</a>
-</li>
-
-<li>
 <a data-group="null" href="/brand/stussy" class="cat-link">Stussy</a>
 </li>
 
@@ -4827,7 +5000,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/the-critical-slide-society" class="cat-link">The Critical Slide Society</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/the-hidden-way" class="cat-link">The Hidden Way</a>
+</li>
+
+<li>
+<a data-group="null" href="/brand/thrills" class="cat-link">Thrills</a>
 </li>
 
 <li>
@@ -4860,10 +5041,6 @@ BRANDS
 </li>
 
 <li>
-<a data-group="F" href="/brand/fcs" class="cat-link">Fcs</a>
-</li>
-
-<li>
 <a data-group="F" href="/brand/feat" class="cat-link">Feat</a>
 </li>
 
@@ -4876,11 +5053,11 @@ BRANDS
 </li>
 
 <li>
-<a data-group="F" href="/brand/free-people" class="cat-link">Free People</a>
+<a data-group="F" href="/brand/frankies-bikinis" class="cat-link">Frankies Bikinis</a>
 </li>
 
 <li>
-<a data-group="F" href="/brand/freewaters" class="cat-link">Freewaters</a>
+<a data-group="F" href="/brand/free-people" class="cat-link">Free People</a>
 </li>
 
 <li>
@@ -4946,6 +5123,10 @@ BRANDS
 </li>
 
 <li>
+<a data-group="H" href="/brand/havaianas" class="cat-link">Havaianas</a>
+</li>
+
+<li>
 <a data-group="H" href="/brand/haydenshapes" class="cat-link">Haydenshapes</a>
 </li>
 
@@ -4958,11 +5139,23 @@ BRANDS
 </li>
 
 <li>
+<a data-group="H" href="/brand/highline" class="cat-link">Highline</a>
+</li>
+
+<li>
+<a data-group="H" href="/brand/homecamp" class="cat-link">Homecamp</a>
+</li>
+
+<li>
 <a data-group="H" href="/brand/huf" class="cat-link">Huf</a>
 </li>
 
 <li>
 <a data-group="H" href="/brand/huffer" class="cat-link">Huffer</a>
+</li>
+
+<li>
+<a data-group="H" href="/brand/human-footwear" class="cat-link">Human Footwear</a>
 </li>
 
 <li>
@@ -5050,15 +5243,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/insight" class="cat-link">Insight</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/nike" class="cat-link">Nike</a>
 </li>
 
 <li>
-<a data-group="null" href="/brand/no-news" class="cat-link">No News</a>
-</li>
-
-<li>
-<a data-group="null" href="/brand/quiksilver" class="cat-link">Quiksilver</a>
+<a data-group="null" href="/brand/rhythm" class="cat-link">Rhythm</a>
 </li>
 
 <li>
@@ -5070,10 +5263,6 @@ BRANDS
 </li>
 
 <li>
-<a data-group="null" href="/brand/rvca" class="cat-link">Rvca</a>
-</li>
-
-<li>
 <a data-group="null" href="/brand/stussy" class="cat-link">Stussy</a>
 </li>
 
@@ -5082,7 +5271,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/the-critical-slide-society" class="cat-link">The Critical Slide Society</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/the-hidden-way" class="cat-link">The Hidden Way</a>
+</li>
+
+<li>
+<a data-group="null" href="/brand/thrills" class="cat-link">Thrills</a>
 </li>
 
 <li>
@@ -5104,6 +5301,10 @@ BRANDS
 
 <li>
 <a data-group="C" href="/brand/c%26m-camilla-and-marc" class="cat-link">C&amp;M Camilla And Marc</a>
+</li>
+
+<li>
+<a data-group="C" href="/brand/camp-cove-swim" class="cat-link">Camp Cove Swim</a>
 </li>
 
 <li>
@@ -5139,6 +5340,10 @@ BRANDS
 </li>
 
 <li>
+<a data-group="C" href="/brand/children-of-the-tribe" class="cat-link">Children Of The Tribe</a>
+</li>
+
+<li>
 <a data-group="C" href="/brand/chilli" class="cat-link">Chilli</a>
 </li>
 
@@ -5151,7 +5356,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="C" href="/brand/coal" class="cat-link">Coal</a>
+</li>
+
+<li>
 <a data-group="C" href="/brand/converse" class="cat-link">Converse</a>
+</li>
+
+<li>
+<a data-group="C" href="/brand/cools-club" class="cat-link">Cools Club</a>
 </li>
 
 <li>
@@ -5180,19 +5393,11 @@ BRANDS
 </li>
 
 <li>
-<a data-group="D" href="/brand/daniel-wellington" class="cat-link">Daniel Wellington</a>
-</li>
-
-<li>
 <a data-group="D" href="/brand/dc-shoes" class="cat-link">Dc Shoes</a>
 </li>
 
 <li>
 <a data-group="D" href="/brand/dead-kooks" class="cat-link">Dead Kooks</a>
-</li>
-
-<li>
-<a data-group="D" href="/brand/deca" class="cat-link">Deca</a>
 </li>
 
 <li>
@@ -5328,15 +5533,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/insight" class="cat-link">Insight</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/nike" class="cat-link">Nike</a>
 </li>
 
 <li>
-<a data-group="null" href="/brand/no-news" class="cat-link">No News</a>
-</li>
-
-<li>
-<a data-group="null" href="/brand/quiksilver" class="cat-link">Quiksilver</a>
+<a data-group="null" href="/brand/rhythm" class="cat-link">Rhythm</a>
 </li>
 
 <li>
@@ -5348,10 +5553,6 @@ BRANDS
 </li>
 
 <li>
-<a data-group="null" href="/brand/rvca" class="cat-link">Rvca</a>
-</li>
-
-<li>
 <a data-group="null" href="/brand/stussy" class="cat-link">Stussy</a>
 </li>
 
@@ -5360,7 +5561,15 @@ BRANDS
 </li>
 
 <li>
+<a data-group="null" href="/brand/the-critical-slide-society" class="cat-link">The Critical Slide Society</a>
+</li>
+
+<li>
 <a data-group="null" href="/brand/the-hidden-way" class="cat-link">The Hidden Way</a>
+</li>
+
+<li>
+<a data-group="null" href="/brand/thrills" class="cat-link">Thrills</a>
 </li>
 
 <li>
@@ -5377,24 +5586,15 @@ BRANDS
 
 <div class="brand-column">
 <div class="brand-group">
-<div class="group-name">#</div>
-<ul>
-
-<li>
-<a data-group="#" href="/brand/5boro" class="cat-link">5Boro</a>
-</li>
-
-</ul>
-</div>
-</div>
-
-<div class="brand-column">
-<div class="brand-group">
 <div class="group-name">A</div>
 <ul>
 
 <li>
 <a data-group="A" href="/brand/a.brand" class="cat-link">A.Brand</a>
+</li>
+
+<li>
+<a data-group="A" href="/brand/a-list" class="cat-link">A List</a>
 </li>
 
 <li>
@@ -5418,10 +5618,6 @@ BRANDS
 </li>
 
 <li>
-<a data-group="A" href="/brand/alien-workshop" class="cat-link">Alien Workshop</a>
-</li>
-
-<li>
 <a data-group="A" href="/brand/all-about-eve" class="cat-link">All About Eve</a>
 </li>
 
@@ -5434,11 +5630,11 @@ BRANDS
 </li>
 
 <li>
-<a data-group="A" href="/brand/anti-hero" class="cat-link">Anti Hero</a>
+<a data-group="A" href="/brand/alphabet-soup" class="cat-link">Alphabet Soup</a>
 </li>
 
 <li>
-<a data-group="A" href="/brand/arbor" class="cat-link">Arbor</a>
+<a data-group="A" href="/brand/anti-hero" class="cat-link">Anti Hero</a>
 </li>
 
 <li>
@@ -5446,15 +5642,15 @@ BRANDS
 </li>
 
 <li>
-<a data-group="A" href="/brand/arnhem" class="cat-link">Arnhem</a>
-</li>
-
-<li>
-<a data-group="A" href="/brand/assembly" class="cat-link">Assembly</a>
+<a data-group="A" href="/brand/as-colour" class="cat-link">As Colour</a>
 </li>
 
 <li>
 <a data-group="A" href="/brand/astrodeck" class="cat-link">Astrodeck</a>
+</li>
+
+<li>
+<a data-group="A" href="/brand/atlas-lifestyle-co" class="cat-link">Atlas Lifestyle Co</a>
 </li>
 
 </ul>
@@ -5468,6 +5664,10 @@ BRANDS
 
 <li>
 <a data-group="B" href="/brand/baby-g" class="cat-link">Baby G</a>
+</li>
+
+<li>
+<a data-group="B" href="/brand/band-of-gypsies" class="cat-link">Band of Gypsies</a>
 </li>
 
 <li>
@@ -5499,10 +5699,6 @@ BRANDS
 </li>
 
 <li>
-<a data-group="B" href="/brand/billy-kids" class="cat-link">Billy Kids</a>
-</li>
-
-<li>
 <a data-group="B" href="/brand/birkenstock" class="cat-link">Birkenstock</a>
 </li>
 
@@ -5519,11 +5715,23 @@ BRANDS
 </li>
 
 <li>
+<a data-group="B" href="/brand/boy-smells" class="cat-link">Boy Smells</a>
+</li>
+
+<li>
 <a data-group="B" href="/brand/brixton" class="cat-link">Brixton</a>
 </li>
 
 <li>
+<a data-group="B" href="/brand/brown-cardigan" class="cat-link">Brown Cardigan</a>
+</li>
+
+<li>
 <a data-group="B" href="/brand/burton" class="cat-link">Burton</a>
+</li>
+
+<li>
+<a data-group="B" href="/brand/business-and-pleasure-co" class="cat-link">Business And Pleasure Co</a>
 </li>
 
 <li>
@@ -5559,6 +5767,248 @@ Blog
 </a>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flyout-menu level-2">
+<div class="menu02">
+<a class="btn-close" href="javascript:void();" type="button" title="close">
+<i class="ss ss-close"></i>
+</a>
+<div class="preview-tile-container">
+
+
+
+<div class="blog-preview__article">
+
+<img src="/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw83f4aea8/blog/2019/02/Listing-Image.gif" alt="New Release: Love The Progress Collection by Converse">
+
+<div class="blog-preview__article-info">
+<span class="blog-preview__article-title">New Release: Love The Progress Collection by Converse</span>
+<p class="blog-preview__article-teaser">An edgy yet feminine celebration of female progress featuring soft premium leather and subtle graphic statements.</p>
+<div class="blog-preview__cta-button-container">
+<a class="blog-preview__cta-button" href="/blog/all/New-Release-Love-The-Progress-Collection-by-Converse.html">Read More</a>
+</div>
+</div>
+</div>
+
+
+
+
+
+<div class="blog-preview__article">
+
+<img src="/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw90b807c1/blog/2019/02/lens-cover.jpg" alt="Balance For Better: 7 Local Women Who Inspire Us">
+
+<div class="blog-preview__article-info">
+<span class="blog-preview__article-title">Balance For Better: 7 Local Women Who Inspire Us</span>
+<p class="blog-preview__article-teaser">From florists to athletes and photographers to fashion designers - meet the Gold Coast women inspiring us to aim higher this year.</p>
+<div class="blog-preview__cta-button-container">
+<a class="blog-preview__cta-button" href="/blog/all/balance-for-better-international-womens-day-2019.html">Read More</a>
+</div>
+</div>
+</div>
+
+
+
+
+
+<div class="blog-preview__article">
+
+<img src="/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw53e70a8a/blog/2019/02/Resized_SP19-Friendly_Union-Independent-LIFE-120-027.jpg" alt="Behind The Collection: Brixton X Independent Friendly Union">
+
+<div class="blog-preview__article-info">
+<span class="blog-preview__article-title">Behind The Collection: Brixton X Independent Friendly Union</span>
+<p class="blog-preview__article-teaser">Peter Stoddard chats on the "Friendly Union" of Brixton X Independent.</p>
+<div class="blog-preview__cta-button-container">
+<a class="blog-preview__cta-button" href="/blog/all/behind-the-collection-brixton-independent-friendly-union.html">Read More</a>
+</div>
+</div>
+</div>
+
+
+
+
+
+<div class="blog-preview__article">
+
+<img src="/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw2d2eb4dd/blog/2019/02/m5.jpg" alt="New Release: Misfit's 'Perfect World' Collection">
+
+<div class="blog-preview__article-info">
+<span class="blog-preview__article-title">New Release: Misfit's 'Perfect World' Collection</span>
+<p class="blog-preview__article-teaser">Thought provoking graphics and an appetite for timeless design. Welcome to Misfit’s ‘Perfect World’.</p>
+<div class="blog-preview__cta-button-container">
+<a class="blog-preview__cta-button" href="/blog/all/New-Release-Misfits-Perfect-World-Collection.html">Read More</a>
+</div>
+</div>
+</div>
+
+
+
+</div>
+<div class="blog-preview__cta-button-container">
+<a class="blog-preview__cta-button" href="/blog/">View All</a>
+</div>
+</div>
+</div>
 
 
 
@@ -5612,7 +6062,7 @@ Sale
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="abb10e4aabfd5d02d9e1594e8c" -->
 <a class="ss-nav-tile ss-nav-tile--sale ss-hover-opacity" href="https://www.surfstitch.com/sale/mens">
-    <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw4e53d6ea/images/categories/sale/nav-tiles/nav-tile-01.jpg" alt="Mens Sale">
+    <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw18e04b17/images/categories/sale/nav-tiles/nav-tile-01.jpg" alt="Mens Sale">
 </a>
 </div> <!-- End content-asset -->
 
@@ -5631,7 +6081,7 @@ Sale
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="e6c45764efa03f46d437cbe5f6" -->
 <a class="ss-nav-tile ss-nav-tile--sale ss-hover-opacity" href="https://www.surfstitch.com/sale/womens">
-    <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw77ecb6ae/images/categories/sale/nav-tiles/nav-tile-02.jpg" alt="Womens Sale">
+    <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw8294b9de/images/categories/sale/nav-tiles/nav-tile-02.jpg" alt="Womens Sale">
 </a>
 </div> <!-- End content-asset -->
 
@@ -5650,7 +6100,7 @@ Sale
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="3b985cf1c97baa376718b51b12" -->
 <a class="ss-nav-tile ss-nav-tile--sale ss-hover-opacity" href="https://www.surfstitch.com/sale/kids">
-    <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw06f05c06/images/categories/sale/nav-tiles/nav-tile-03.jpg" alt="Kids Sale">
+    <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw8bab74d5/images/categories/sale/nav-tiles/nav-tile-03.jpg" alt="Kids Sale">
 </a>
 </div> <!-- End content-asset -->
 
@@ -5669,7 +6119,7 @@ Sale
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="490a78fd987ec7231a8aa5cab8" -->
 <a class="ss-nav-tile ss-nav-tile--sale ss-hover-opacity" href="https://www.surfstitch.com/sale/boardsports">
-    <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwe8219661/images/categories/sale/nav-tiles/nav-tile-04.jpg" alt="Boardsports Sale">
+    <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw75a860c0/images/categories/sale/nav-tiles/nav-tile-04.jpg" alt="Boardsports Sale">
 </a>
 </div> <!-- End content-asset -->
 
@@ -5688,7 +6138,7 @@ Sale
 
 <div class="content-asset"><!-- dwMarker="content" dwContentID="3cbe0a672364340a67856a630d" -->
 <a class="ss-nav-tile ss-nav-tile--sale ss-hover-opacity" href="https://www.surfstitch.com/sale">
-    <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw8da04b2a/images/categories/sale/nav-tiles/nav-tile-05.jpg" alt="All Sale">
+    <img class="ss-nav-tile__image" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwea178f3c/images/categories/sale/nav-tiles/nav-tile-05.jpg" alt="All Sale">
 </a>
 </div> <!-- End content-asset -->
 
@@ -5704,6 +6154,16 @@ Sale
 </li>
 
 </ul>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5948,7 +6408,9 @@ No, Don't Change
     }
     /*Hamburger slot styles END*/
 
-    nav#navigation .header-usermenu_link {
+    
+    .user-info.hidden-phone a.header-usermenu_link,
+    .user-info.hidden-phone a.account-link {
         color: #000;
         width: 100%;
         text-align: center;
@@ -5956,11 +6418,12 @@ No, Don't Change
         margin: 10px 0 0;
     }
 
-    nav#navigation .header-usermenu_link:hover {
+    .user-info.hidden-phone a.header-usermenu_link:hover,
+    .user-info.hidden-phone a.account-link:hover {
         text-decoration: underline;
     }
 
-    nav#navigation #header-usermenu_returns-link {
+    .user-info.hidden-phone #header-usermenu_returns-link {
         margin: 0;
     }
 </style>
@@ -6003,7 +6466,7 @@ No, Don't Change
 
 
 
-<a href="https://www.surfstitch.com/search" data-currency="AUD" data-locale="en_AU" data-default-site-url="" data-button-text="Launch AU site" data-default-site-id="ss-au" class="locale selected " data-country="Australia">
+<a href="https://www.surfstitch.com/product-show" data-currency="AUD" data-locale="en_AU" data-default-site-url="" data-button-text="Launch AU site" data-default-site-id="ss-au" class="locale selected " data-country="Australia">
 $ AUD
 </a>
 
@@ -6017,7 +6480,7 @@ $ AUD
 
 
 
-<a href="https://www.surfstitch.com/search" data-currency="NZD" data-locale="en_NZ" data-default-site-url="https://www.surfstitch.com/nz" data-button-text="Launch NZ site" data-default-site-id="ss-nz" class="locale different-site" data-country="New Zealand">
+<a href="https://www.surfstitch.com/product-show" data-currency="NZD" data-locale="en_NZ" data-default-site-url="https://www.surfstitch.com/nz" data-button-text="Launch NZ site" data-default-site-id="ss-nz" class="locale different-site" data-country="New Zealand">
 $ NZD
 </a>
 
@@ -6031,7 +6494,7 @@ $ NZD
 
 
 
-<a href="https://www.surfstitch.com/search" data-currency="USD" data-locale="en_US" data-default-site-url="" data-button-text="Launch US site" data-default-site-id="ss-us" class="locale " data-country="United States">
+<a href="https://www.surfstitch.com/product-show" data-currency="USD" data-locale="en_US" data-default-site-url="" data-button-text="Launch US site" data-default-site-id="ss-us" class="locale " data-country="United States">
 $ USD
 </a>
 
@@ -6045,7 +6508,7 @@ $ USD
 
 
 
-<a href="https://www.surfstitch.com/search" data-currency="SGD" data-locale="en_SG" data-default-site-url="" data-button-text="Launch SG site" data-default-site-id="ss-au" class="locale " data-country="Singapore">
+<a href="https://www.surfstitch.com/product-show" data-currency="SGD" data-locale="en_SG" data-default-site-url="" data-button-text="Launch SG site" data-default-site-id="ss-au" class="locale " data-country="Singapore">
 $ SGD
 </a>
 
@@ -6059,7 +6522,7 @@ $ SGD
 
 
 
-<a href="https://www.surfstitch.com/search" data-currency="HKD" data-locale="en_HK" data-default-site-url="" data-button-text="Launch HK site" data-default-site-id="ss-au" class="locale " data-country="Hong Kong">
+<a href="https://www.surfstitch.com/product-show" data-currency="HKD" data-locale="en_HK" data-default-site-url="" data-button-text="Launch HK site" data-default-site-id="ss-au" class="locale " data-country="Hong Kong">
 $ HKD
 </a>
 
@@ -6073,7 +6536,7 @@ $ HKD
 
 
 
-<a href="https://www.surfstitch.com/search" data-currency="JPY" data-locale="en_JP" data-default-site-url="" data-button-text="Launch JP site" data-default-site-id="ss-au" class="locale " data-country="Japan">
+<a href="https://www.surfstitch.com/product-show" data-currency="JPY" data-locale="en_JP" data-default-site-url="" data-button-text="Launch JP site" data-default-site-id="ss-au" class="locale " data-country="Japan">
 ¥ JPY
 </a>
 
@@ -6087,7 +6550,7 @@ $ HKD
 
 
 
-<a href="https://www.surfstitch.com/search" data-currency="CAD" data-locale="en_CA" data-default-site-url="" data-button-text="Launch CA site" data-default-site-id="ss-us" class="locale " data-country="Canada">
+<a href="https://www.surfstitch.com/product-show" data-currency="CAD" data-locale="en_CA" data-default-site-url="" data-button-text="Launch CA site" data-default-site-id="ss-us" class="locale " data-country="Canada">
 $ CAD
 </a>
 
@@ -6101,7 +6564,7 @@ $ CAD
 
 
 
-<a href="https://www.surfstitch.com/search" data-currency="EUR" data-locale="en_DE" data-default-site-url="" data-button-text="Launch DE site" data-default-site-id="ss-au" class="locale " data-country="Germany">
+<a href="https://www.surfstitch.com/product-show" data-currency="EUR" data-locale="en_DE" data-default-site-url="" data-button-text="Launch DE site" data-default-site-id="ss-au" class="locale " data-country="Germany">
 € EUR
 </a>
 
@@ -6115,7 +6578,7 @@ $ CAD
 
 
 
-<a href="https://www.surfstitch.com/search" data-currency="GBP" data-locale="en_GB" data-default-site-url="" data-button-text="Launch GB site" data-default-site-id="ss-au" class="locale " data-country="United Kingdom">
+<a href="https://www.surfstitch.com/product-show" data-currency="GBP" data-locale="en_GB" data-default-site-url="" data-button-text="Launch GB site" data-default-site-id="ss-au" class="locale " data-country="United Kingdom">
 £ GBP
 </a>
 
@@ -6129,7 +6592,7 @@ $ CAD
 
 
 
-<a href="https://www.surfstitch.com/search" data-currency="CNY" data-locale="en_CN" data-default-site-url="" data-button-text="Launch CN site" data-default-site-id="ss-au" class="locale " data-country="China">
+<a href="https://www.surfstitch.com/product-show" data-currency="CNY" data-locale="en_CN" data-default-site-url="" data-button-text="Launch CN site" data-default-site-id="ss-au" class="locale " data-country="China">
 ¥ CNY
 </a>
 
@@ -6143,7 +6606,7 @@ $ CAD
 
 
 
-<a href="https://www.surfstitch.com/search" data-currency="ZAR" data-locale="en_ZA" data-default-site-url="" data-button-text="Launch ZA site" data-default-site-id="ss-au" class="locale " data-country="South Africa">
+<a href="https://www.surfstitch.com/product-show" data-currency="ZAR" data-locale="en_ZA" data-default-site-url="" data-button-text="Launch ZA site" data-default-site-id="ss-au" class="locale " data-country="South Africa">
 R ZAR
 </a>
 
@@ -6157,7 +6620,7 @@ R ZAR
 
 
 
-<a href="https://www.surfstitch.com/search" data-currency="SEK" data-locale="en_SE" data-default-site-url="" data-button-text="Launch SE site" data-default-site-id="ss-au" class="locale " data-country="Sweden">
+<a href="https://www.surfstitch.com/product-show" data-currency="SEK" data-locale="en_SE" data-default-site-url="" data-button-text="Launch SE site" data-default-site-id="ss-au" class="locale " data-country="Sweden">
 kr SEK
 </a>
 
@@ -6171,7 +6634,7 @@ kr SEK
 
 
 
-<a href="https://www.surfstitch.com/search" data-currency="DKK" data-locale="en_DK" data-default-site-url="" data-button-text="Launch DK site" data-default-site-id="ss-au" class="locale " data-country="Denmark">
+<a href="https://www.surfstitch.com/product-show" data-currency="DKK" data-locale="en_DK" data-default-site-url="" data-button-text="Launch DK site" data-default-site-id="ss-au" class="locale " data-country="Denmark">
 kr DKK
 </a>
 
@@ -6185,7 +6648,7 @@ kr DKK
 
 
 
-<a href="https://www.surfstitch.com/search" data-currency="NOK" data-locale="en_NO" data-default-site-url="" data-button-text="Launch NO site" data-default-site-id="ss-au" class="locale " data-country="Norway">
+<a href="https://www.surfstitch.com/product-show" data-currency="NOK" data-locale="en_NO" data-default-site-url="" data-button-text="Launch NO site" data-default-site-id="ss-au" class="locale " data-country="Norway">
 kr NOK
 </a>
 
@@ -6193,12 +6656,29 @@ kr NOK
 </div>
 
 
+<div class="continent">
+<div class="country other-country">
+<i class="fa fa-globe"></i>
+<a href="https://www.surfstitch.com/country-selector">Choose A Region</a>
+</div>
+</div>
+
 </div>
 </div>
 
 
 </li>
 <li>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6373,7 +6853,8 @@ kr NOK
 </a>
 
 </div>
-<a class="mini-cart-link-checkout" style="display: none;" href="https://www.surfstitch.com/checkout-start" title="Checkout">Checkout</a>
+<a class="mini-cart-link-checkout" style="display: none;" href="https://www.surfstitch.com/checkout-shipping" title="Checkout">Checkout</a>
+
 </li>
 </ul>
 <div class="offscreen-asset">
@@ -6399,34 +6880,12 @@ kr NOK
         background: white;
     }
 
-    .device .blog-refinement-bar .folder-refinement-container {
-        overflow-x: auto;
+    .top-search.visible-phone {
+        right: 55px;
     }
 
-    .blog-article-container {
-        max-width: 1000px;
-        margin: 0 auto;
-    }
-
-    .blog-article-container .content-body p {
-        font-size: 1.5rem;
-        line-height: 1.5;
-        text-align: left;
-    }
-
-    .blog-article-container .content-body p > iframe {
-        text-align: center;
-        width: 100%;
-    }
-
-    .blog-article-container .quota-outer {
-        margin: 0 auto !important;
-        padding: 20px;
-    }
-
-    .blog-article-container .quota-blog {
-        bottom: 0;
-        font-size: 1.4rem;
+    .menu-utility-user > li.syte-camera-container {
+        display: none;
     }
 
     .the-lens {
@@ -6462,6 +6921,12 @@ kr NOK
 </div>
 </div>
 </nav>
+<div class="subnav-banner">
+
+	 
+
+	
+</div>
 
 <div id="main" role="main" class="full-width clearfix">
 
@@ -6852,6 +7317,16 @@ kr NOK
 
 
 
+
+
+
+
+
+
+
+
+
+
 <footer>
 <div class="footer-container">
 <div class="footer-top">
@@ -6866,7 +7341,7 @@ kr NOK
 
 
 
-<link rel="stylesheet" href="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/en_AU/v1534082483402/css/footer/footer-social.css">
+<link rel="stylesheet" href="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/en_AU/v1551366671891/css/footer/footer-social.css">
 
 <svg xmlns="http://www.w3.org/2000/svg" style="display:none">
   <defs>
@@ -6886,9 +7361,9 @@ kr NOK
         <title>Pinterest Icon</title>
         <path d="M2.667 10.47c-.04-.53-.122-1.306.04-1.877.123-.49.776-3.266.776-3.266s-.204-.408-.204-.98c0-.897.53-1.59 1.183-1.59.57 0 .817.407.817.937 0 .573-.368 1.388-.53 2.164-.164.653.325 1.184.978 1.184 1.143 0 2.04-1.225 2.04-2.98 0-1.55-1.142-2.653-2.734-2.653-1.877 0-2.938 1.387-2.938 2.816 0 .57.204 1.142.49 1.51.04.08.04.122.04.203-.04.204-.163.653-.163.735-.082.122-.163.163-.286.08C1.36 6.39.87 5.166.87 4.226.87 2.186 2.38.266 5.2.266c2.286 0 4.04 1.633 4.04 3.756 0 2.247-1.428 4.083-3.387 4.083-.652 0-1.264-.327-1.51-.735 0 0-.326 1.266-.408 1.552-.163.57-.887 1.677-1.21 2.08l-.055-.53" fill-rule="evenodd"></path>
     </symbol>
-    <symbol id="vimeo-icon" viewBox="0 0 11 9">
-        <title>Vimeo Icon</title>
-        <defs><path id="a" d="M10.363 0H0v8.36h10.363V0z"></path></defs><g fill-rule="evenodd"><mask id="b"><use xlink:href="#a"></use></mask><path d="M0 2.258v-.02c.045-.036.092-.07.135-.105.48-.397.956-.802 1.44-1.193C1.93.655 2.298.385 2.72.205c.526-.223 1.086-.075 1.423.38.165.224.266.48.324.745.095.447.17.898.247 1.35.102.61.212 1.218.407 1.807.086.255.176.51.355.72.132.157.273.18.443.062.085-.06.166-.13.236-.205.45-.484.794-1.036 1.075-1.63.117-.246.182-.505.158-.78-.02-.226-.12-.398-.34-.48-.176-.066-.358-.076-.54-.047-.19.03-.378.076-.572.116.102-.33.24-.645.423-.94C6.686.778 7.123.378 7.72.17c.42-.147.85-.19 1.293-.156.63.05 1.105.366 1.27 1.032.033.133.054.27.08.404v.567c-.037.18-.065.363-.115.54-.164.587-.462 1.11-.788 1.62-.428.664-.918 1.28-1.432 1.88-.51.597-1.05 1.162-1.684 1.628-.39.287-.807.522-1.286.634-.48.11-.895.013-1.234-.355-.33-.358-.553-.782-.7-1.24-.238-.756-.45-1.52-.678-2.28-.14-.474-.267-.953-.483-1.4-.096-.198-.2-.39-.372-.536-.154-.133-.278-.164-.448-.064-.114.066-.227.132-.34.2-.103.06-.204.126-.31.19L0 2.258" mask="url(#b)"></path></g>
+    <symbol id="youtube-icon" viewBox="0 0 365 258">
+        <title>YouTube Icon</title>
+        <path d="M145.1704,182.85 L145.1704,74.309 L240.5684,128.581 L145.1704,182.85 Z M357.3734,40.156 C353.1754,24.35 340.8074,11.901 325.1034,7.677 C296.6384,0 182.5004,0 182.5004,0 C182.5004,0 68.3614,0 39.8974,7.677 C24.1924,11.901 11.8244,24.35 7.6274,40.156 C0.0004,68.805 0.0004,128.579 0.0004,128.579 C0.0004,128.579 0.0004,188.354 7.6274,217.003 C11.8244,232.809 24.1924,245.257 39.8974,249.483 C68.3614,257.159 182.5004,257.159 182.5004,257.159 C182.5004,257.159 296.6384,257.159 325.1034,249.483 C340.8074,245.257 353.1754,232.809 357.3734,217.003 C365.0004,188.354 365.0004,128.579 365.0004,128.579 C365.0004,128.579 365.0004,68.805 357.3734,40.156 L357.3734,40.156 Z" fill-rule="evenodd"></path>
     </symbol>
     <symbol id="linkedin-icon" viewBox="0 0 11 11">
         <title>LinkedIn Icon</title>
@@ -6903,7 +7378,7 @@ kr NOK
         <a class="social-link" href="https://twitter.com/surfstitch" target="_blank"> <svg><use xlink:href="#twitter-icon"></use></svg> </a>
         <a class="social-link" href="https://www.instagram.com/surfstitch" target="_blank"> <svg><use xlink:href="#instagram-icon"></use></svg> </a>
         <a class="social-link" href="https://au.pinterest.com/surfstitch" target="_blank"> <svg><use xlink:href="#pinterest-icon"></use></svg> </a>
-        <a class="social-link" href="https://vimeo.com/surfstitchcom" target="_blank"> <svg><use xlink:href="#vimeo-icon"></use></svg> </a>
+        <a class="social-link" href="https://youtube.com/surfstitch" target="_blank"> <svg><use xlink:href="#youtube-icon"></use></svg> </a>
         <a class="social-link" href="https://www.linkedin.com/company/surfstitch-com" target="_blank"> <svg><use xlink:href="#linkedin-icon"></use></svg> </a>
     </div>
 </div>
@@ -7047,7 +7522,7 @@ Thanks for signing up! Keep an eye on your inbox for the latest news and promoti
 
 <ul class="menu-footer menu pipe first">
 	<li><a href="https://www.surfstitch.com/brand/billabong" title="Go to Billabong">Billabong</a></li>
-	<li><a href="https://www.surfstitch.com/brand/quiksilver" title="Go to Quiksilver">Quiksilver</a></li>
+	<li><a href="https://www.surfstitch.com/brand/rip-curl" title="Go to Rip Curl">Rip Curl</a></li>
 	<li><a href="https://www.surfstitch.com/brand/rvca" title="Go to RCVA">RVCA</a></li>
 	<li><a href="https://www.surfstitch.com/brand/vans" title="Go to Vans">Vans</a></li>
 	<li><a href="https://www.surfstitch.com/brand/converse" title="Go to Converse">Converse</a></li>
@@ -7056,11 +7531,11 @@ Thanks for signing up! Keep an eye on your inbox for the latest news and promoti
 
 <ul class="menu-footer menu pipe">
 	<li><a href="https://www.surfstitch.com/brand/adidas" title="Go to Adidas Originals">Adidas</a></li>
-	<li><a href="https://www.surfstitch.com/brand/assembly" title="Go to Assembly">Assembly</a></li>
 	<li><a href="https://www.surfstitch.com/brand/birkenstock" title="Go to Birkenstock">Birkenstock</a></li>
-	<li><a href="https://www.surfstitch.com/brand/cheap-monday" title="Go to Cheap Monday">Cheap Monday</a></li>
-	<li><a href="https://www.surfstitch.com/brand/herschel-supply-co" title="Go to Herschel Supply Co">Herschel Supply Co</a></li>
+	<li><a href="https://www.surfstitch.com/brand/volcom" title="Go to Volcom">Volcom</a></li>
+	<li><a href="https://www.surfstitch.com/brand/santa-cruz" title="Go to Santa Cruz">Santa Cruz</a></li>
 	<li><a href="https://www.surfstitch.com/brand/hurley" title="Go to Hurley">Hurley</a></li>
+        <li><a href="https://www.surfstitch.com/brand/the-hidden-way" title="Go to The Hidden Way">The Hidden Way</a></li>
 </ul>
 
 <ul class="menu-footer menu pipe">
@@ -7069,7 +7544,7 @@ Thanks for signing up! Keep an eye on your inbox for the latest news and promoti
 	<li><a href="https://www.surfstitch.com/brand/rusty" title="Go to Rusty">Rusty</a></li>
 	<li><a href="https://www.surfstitch.com/brand/swell" title="Go to Swell">Swell</a></li>
 	<li><a href="https://www.surfstitch.com/brand/thrills" title="Go to Thrills">Thrills</a></li>
-	<li><a href="https://www.surfstitch.com/brand/the-hidden-way" title="Go to The Hidden Way">The Hidden Way</a></li>
+        <li><a href="https://www.surfstitch.com/brand/stussy" title="Go to Stussy">Stussy</a></li>
 </ul>
 <!-- END: footer_brand -->
 </div> <!-- End content-asset -->
@@ -7098,7 +7573,7 @@ Thanks for signing up! Keep an eye on your inbox for the latest news and promoti
 
 <ul class="menu-footer menu pipe first">
 	<li><a href="https://www.surfstitch.com/brand/billabong" title="Go to Billabong">Billabong</a></li>
-	<li><a href="https://www.surfstitch.com/brand/quiksilver" title="Go to Quiksilver">Quiksilver</a></li>
+	<li><a href="https://www.surfstitch.com/brand/rip-curl" title="Go to Rip Curl">Rip Curl</a></li>
 	<li><a href="https://www.surfstitch.com/brand/rvca" title="Go to RCVA">RVCA</a></li>
 	<li><a href="https://www.surfstitch.com/brand/vans" title="Go to Vans">Vans</a></li>
 	<li><a href="https://www.surfstitch.com/brand/converse" title="Go to Converse">Converse</a></li>
@@ -7107,11 +7582,11 @@ Thanks for signing up! Keep an eye on your inbox for the latest news and promoti
 
 <ul class="menu-footer menu pipe">
 	<li><a href="https://www.surfstitch.com/brand/adidas" title="Go to Adidas Originals">Adidas</a></li>
-	<li><a href="https://www.surfstitch.com/brand/assembly" title="Go to Assembly">Assembly</a></li>
 	<li><a href="https://www.surfstitch.com/brand/birkenstock" title="Go to Birkenstock">Birkenstock</a></li>
-	<li><a href="https://www.surfstitch.com/brand/cheap-monday" title="Go to Cheap Monday">Cheap Monday</a></li>
-	<li><a href="https://www.surfstitch.com/brand/herschel-supply-co" title="Go to Herschel Supply Co">Herschel Supply Co</a></li>
+	<li><a href="https://www.surfstitch.com/brand/volcom" title="Go to Volcom">Volcom</a></li>
+	<li><a href="https://www.surfstitch.com/brand/santa-cruz" title="Go to Santa Cruz">Santa Cruz</a></li>
 	<li><a href="https://www.surfstitch.com/brand/hurley" title="Go to Hurley">Hurley</a></li>
+        <li><a href="https://www.surfstitch.com/brand/the-hidden-way" title="Go to The Hidden Way">The Hidden Way</a></li>
 </ul>
 
 <ul class="menu-footer menu pipe">
@@ -7120,7 +7595,7 @@ Thanks for signing up! Keep an eye on your inbox for the latest news and promoti
 	<li><a href="https://www.surfstitch.com/brand/rusty" title="Go to Rusty">Rusty</a></li>
 	<li><a href="https://www.surfstitch.com/brand/swell" title="Go to Swell">Swell</a></li>
 	<li><a href="https://www.surfstitch.com/brand/thrills" title="Go to Thrills">Thrills</a></li>
-	<li><a href="https://www.surfstitch.com/brand/the-hidden-way" title="Go to The Hidden Way">The Hidden Way</a></li>
+        <li><a href="https://www.surfstitch.com/brand/stussy" title="Go to Stussy">Stussy</a></li>
 </ul>
 <!-- END: footer_brand -->
 </div> <!-- End content-asset -->
@@ -7156,15 +7631,14 @@ Thanks for signing up! Keep an eye on your inbox for the latest news and promoti
         justify-content: space-between;
     }
 
-    .payment-option img,
-    .footer-item.group-partners img {
+    .payment-option img {
         height: 17px;
     }
 </style>
 
 <div class="footer-company">
     <div class="footer-item payment-option">
-        <h4>Payment Options</h4>
+        <h4>Payment options</h4>
 
         <ul class="menu-footer menu pipe">
             <li><img alt="Visa" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw97bb521a/icons/payment/visa-logo.svg"></li>
@@ -7172,17 +7646,7 @@ Thanks for signing up! Keep an eye on your inbox for the latest news and promoti
             <li><img alt="Amex" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw6f776ec5/icons/payment/american-express-logo.svg"></li>
             <li><img alt="PayPal" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw7d94fefc/icons/payment/paypal-logo.svg"></li>
             <li><img alt="Afterpay" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw25fc47d2/icons/payment/afterpay-logo.svg"></li>
-        </ul>
-    </div>
-    <div class="footer-item surfstitch-group group-partners">
-        <h4>Group Partners</h4>
-
-        <ul class="menu-footer menu pipe">
-            <li>
-                <a href="https://www.ezibuy.com/?utm_source=surfstitch&amp;utm_medium=sitefooter&amp;utm_content=partnership" target="_blank">
-                    <img src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dwac05a3c5/icons/partners/ezibuy-logo.svg" alt="EZIBUY">
-                </a>
-            </li>
+            <li><img alt="Zippay" src="https://www.surfstitch.com/on/demandware.static/-/Library-Sites-surfstitch-shared-library/default/dw7de324a7/icons/payment/zippay-logo.svg"></li>
         </ul>
     </div>
 </div>
@@ -7235,15 +7699,17 @@ Thanks for signing up! Keep an eye on your inbox for the latest news and promoti
 <![endif]-->
 
 
-<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/jquery/jquery.zoom.min.js"></script>
-<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/magiczoomplus/magiczoomplus.js"></script>
-<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/masonry/masonry.pkgd.min.js"></script>
-<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/morphist/morphist.min.js"></script>
-<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/currencyformatter/currencyFormatter.min.js"></script>
-<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/hammer/hammer.min.js"></script>
+<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/jquery/jquery.zoom.min.js"></script>
+<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/magiczoomplus/magiczoomplus.js"></script>
+<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/masonry/masonry.pkgd.min.js"></script>
+<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/morphist/morphist.min.js"></script>
+<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/currencyformatter/currencyFormatter.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.5/lodash.min.js"></script>
+<script src="https://hammerjs.github.io/dist/hammer.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.5.22/dist/vue.min.js"></script>
 
 <script type="text/javascript">
 var mzOptions = {
@@ -7256,9 +7722,9 @@ expandCaption: false
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select {0} Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"start typing","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"A$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 500","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a promo code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"Please enter value for this field.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity.","POSTCODE_SUPPORTED_FORMAT":"country.postcode.invalidmatch","suburbLabel_Default":"Suburb","suburbLabel_UK":"Town or Suburb","suburbLabel_US":"Town or Suburb","suburbLabel_NZ":"Suburb","postal_Default":"Postcode","postal_UK":"Postcode","postal_US":"Zip Code","postal_NZ":"Postal Code","states_Default":"State","states_UK":"County","states_US":"State","states_NZ":"City","INVALID_EMAIL":"Please enter a valid email address","RETURN_INVALID_DATA":"Please check your information again","RETURN_MISSING_DATA":"Please select at least 1 product to exchange or refund","INVALID_ALPHANUMERIC":"Only letters, numbers are allowed in this field.","INVALID_DATE_RANGE":"Please enter a valid date","INVALID_ADDRESS":"Your address has invalid characters","BONUS_PRODUCT_INVALID_QUANTITY":"Please enter a valid quantity.","ADDRESS_EDIT_OR_ADD_NEW_DEFAULT_BEFORE_DELETE":"Please edit this address or add another address and make it default before deleting this one.","ADDRESS_MAKE_DEFAULT_BEFORE_DELETE":"Please make another address default before deleting this one.","CONFIRM_CANCEL":"Are you sure you wish to Cancel? All changes will be lost","BACK_TO_TOP":"Top","PROCESSING":"Processing...","PHONE_VALIDATION_MESSAGE":"This number looks incorrect, are you sure you want to proceed - this could prevent your payment from being accepted","SHOW_MORE":"Show More","SHOW_LESS":"Show Less"};
-window.Urls = {"appResources":"/on/demandware.store/Sites-ss-au-Site/en_AU/Resources-Load","pageInclude":"/on/demandware.store/Sites-ss-au-Site/en_AU/Page-Include","continueUrl":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/Page-Show","staticPath":"/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/","addGiftCert":"/giftcard","minicartGC":"/on/demandware.store/Sites-ss-au-Site/en_AU/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-ss-au-Site/en_AU/Cart-AddProduct","minicart":"/on/demandware.store/Sites-ss-au-Site/en_AU/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/Address-GetAddressDetails?addressID=","paymentsList":"https://www.surfstitch.com/payment-information","addressesList":"https://www.surfstitch.com/address-list","wishlistAddress":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-ss-au-Site/en_AU/Address-Delete","getProductUrl":"/product-show","getBonusProducts":"/on/demandware.store/Sites-ss-au-Site/en_AU/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-ss-au-Site/en_AU/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-ss-au-Site/en_AU/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-ss-au-Site/en_AU/Product-Detail","getAvailability":"/on/demandware.store/Sites-ss-au-Site/en_AU/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-ss-au-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-ss-au-Site/en_AU/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-ss-au-Site/en_AU/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-ss-au-Site/en_AU/COBilling-UpdateSummary","billingSelectCC":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COBilling-SelectCreditCard","updateAddressDetails":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-ss-au-Site/en_AU/COBilling-ResetPaymentForms","compareShow":"/compare-show","compareAdd":"/on/demandware.store/Sites-ss-au-Site/en_AU/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-ss-au-Site/en_AU/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-ss-au-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-ss-au-Site/en_AU/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-ss-au-Site/en_AU/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-ss-au-Site/en_AU/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-ss-au-Site/en_AU/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-ss-au-Site/en_AU/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-ss-au-Site/en_AU/StoreInventory-GetZipCode","billing":"/checkout-billing-back","setSessionCurrency":"/on/demandware.store/Sites-ss-au-Site/en_AU/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-ss-au-Site/en_AU/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-ss-au-Site/en_AU/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-ss-au-Site/en_AU/CSRF-Failed","checkShippingRestrictJSON":"/on/demandware.store/Sites-ss-au-Site/en_AU/COShipping-CheckShippingRestrictJSON","getCountrySettings":"/on/demandware.store/Sites-ss-au-Site/en_AU/Address-GetCountrySettings","getRegions":"/on/demandware.store/Sites-ss-au-Site/en_AU/Address-GetRegions","newslettersubscription":"/on/demandware.store/Sites-ss-au-Site/en_AU/Newsletter-Subscribe","hideGeoLocale":"/on/demandware.store/Sites-ss-au-Site/en_AU/Currency-HideGeoLocale","getcourier":"/on/demandware.store/Sites-ss-au-Site/en_AU/Courier-GetCourier","useShippingAddress":"/on/demandware.store/Sites-ss-au-Site/en_AU/COBilling-UseShippingAddress","searchBrand":"/on/demandware.store/Sites-ss-au-Site/en_AU/Home-SearchMenuBrand","postAddProduct":"/on/demandware.store/Sites-ss-au-Site/en_AU/Cart-PostAddProduct","headerMenuMobile":"/on/demandware.store/Sites-ss-au-Site/en_AU/Home-IncludeHeaderMenuMobile","sizeChartFrameDir":"/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/lib/surfstitch-sizecharts","changeSite":"/on/demandware.store/Sites-ss-au-Site/en_AU/Currency-ChangeSite"};
-window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false,"ENABLE_IMAGE_ZOOM":false,"Megamenu03MaxMenuRows":20,"Megamenu03MaxMenuColumns":5,"ENABLE_PLP_LAZY_LOAD":true,"PLP_SCROLL_PIXEL_OFFSET":1350,"megaMenuBackgroundOpacity":0.5,"INVALID_PASSWORD":"Password does not meet the minimum requirements. It must be at least 8 characters in length, contain one number and one letter.","MegaMenuSensitivityDelay":500,"RotatingMessageDuration":5000,"RotatingMessageAnimationIn":"fadeInRight","RotatingMessageAnimationOut":"fadeOutLeft","RefinementMenuBehaviour":"SingleSelect","SITEID":"ss-au","APSupportedCurrencyCodes":"AUD","enableBlockListingLazyLoad":false,"blogListingScrollPixelOffset":null};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select {0} Bonus Product(s)","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"start typing","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"A$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 500","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a promo code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"Please enter value for this field.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity.","POSTCODE_SUPPORTED_FORMAT":"country.postcode.invalidmatch","suburbLabel_Default":"Suburb","suburbLabel_UK":"Town or Suburb","suburbLabel_US":"Town or Suburb","suburbLabel_NZ":"Suburb","postal_Default":"Postcode","postal_UK":"Postcode","postal_US":"Zip Code","postal_NZ":"Postal Code","states_Default":"State","states_UK":"County","states_US":"State","states_NZ":"City","INVALID_EMAIL":"Please enter a valid email address","RETURN_INVALID_DATA":"Please check your information again","RETURN_MISSING_DATA":"Please select at least 1 product to exchange or refund","INVALID_ALPHANUMERIC":"Only letters, numbers are allowed in this field.","INVALID_DATE_RANGE":"Please enter a valid date","INVALID_ADDRESS":"Your address has invalid characters","BONUS_PRODUCT_INVALID_QUANTITY":"Please enter a valid quantity.","ADDRESS_EDIT_OR_ADD_NEW_DEFAULT_BEFORE_DELETE":"Please edit this address or add another address and make it default before deleting this one.","ADDRESS_MAKE_DEFAULT_BEFORE_DELETE":"Please make another address default before deleting this one.","CONFIRM_CANCEL":"Are you sure you wish to Cancel? All changes will be lost","BACK_TO_TOP":"Top","PROCESSING":"Processing...","PHONE_VALIDATION_MESSAGE":"This number looks incorrect, are you sure you want to proceed - this could prevent your payment from being accepted","SHOW_MORE":"Show More","SHOW_LESS":"Show Less","AFTERPAY_MESSAGE":"<img src=\"/on/demandware.static/Sites-ss-au-Site/-/default/dw17c2dd90/images/afterpay-logo.png\" class=\"afterpay-image\" alt=\"Afterpay\" data-url=\"/checkout/afterpay-product-page.html\"><span>4 payments of {0}</span>"};
+window.Urls = {"appResources":"/on/demandware.store/Sites-ss-au-Site/en_AU/Resources-Load","pageInclude":"/on/demandware.store/Sites-ss-au-Site/en_AU/Page-Include","continueUrl":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/Page-Show","staticPath":"/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/","addGiftCert":"/giftcard","minicartGC":"/on/demandware.store/Sites-ss-au-Site/en_AU/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-ss-au-Site/en_AU/Cart-AddProduct","minicart":"/on/demandware.store/Sites-ss-au-Site/en_AU/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/Address-GetAddressDetails?addressID=","paymentsList":"https://www.surfstitch.com/payment-information","addressesList":"https://www.surfstitch.com/address-list","wishlistAddress":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-ss-au-Site/en_AU/Address-Delete","getProductUrl":"/product-show","getBonusProducts":"/on/demandware.store/Sites-ss-au-Site/en_AU/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-ss-au-Site/en_AU/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-ss-au-Site/en_AU/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-ss-au-Site/en_AU/Product-Detail","getAvailability":"/on/demandware.store/Sites-ss-au-Site/en_AU/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-ss-au-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-ss-au-Site/en_AU/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-ss-au-Site/en_AU/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-ss-au-Site/en_AU/COBilling-UpdateSummary","billingSelectCC":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COBilling-SelectCreditCard","updateAddressDetails":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-ss-au-Site/en_AU/COBilling-ResetPaymentForms","compareShow":"/compare-show","compareAdd":"/on/demandware.store/Sites-ss-au-Site/en_AU/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-ss-au-Site/en_AU/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-ss-au-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.surfstitch.com/on/demandware.store/Sites-ss-au-Site/en_AU/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-ss-au-Site/en_AU/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-ss-au-Site/en_AU/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-ss-au-Site/en_AU/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-ss-au-Site/en_AU/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-ss-au-Site/en_AU/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-ss-au-Site/en_AU/StoreInventory-GetZipCode","billing":"/checkout-billing","setSessionCurrency":"/on/demandware.store/Sites-ss-au-Site/en_AU/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-ss-au-Site/en_AU/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-ss-au-Site/en_AU/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-ss-au-Site/en_AU/CSRF-Failed","checkShippingRestrictJSON":"/on/demandware.store/Sites-ss-au-Site/en_AU/COShipping-CheckShippingRestrictJSON","getCountrySettings":"/on/demandware.store/Sites-ss-au-Site/en_AU/Address-GetCountrySettings","getRegions":"/on/demandware.store/Sites-ss-au-Site/en_AU/Address-GetRegions","newslettersubscription":"/on/demandware.store/Sites-ss-au-Site/en_AU/Newsletter-Subscribe","hideGeoLocale":"/on/demandware.store/Sites-ss-au-Site/en_AU/Currency-HideGeoLocale","getcourier":"/on/demandware.store/Sites-ss-au-Site/en_AU/Courier-GetCourier","useShippingAddress":"/on/demandware.store/Sites-ss-au-Site/en_AU/COBilling-UseShippingAddress","searchBrand":"/on/demandware.store/Sites-ss-au-Site/en_AU/Home-SearchMenuBrand","postAddProduct":"/on/demandware.store/Sites-ss-au-Site/en_AU/Cart-PostAddProduct","headerMenuMobile":"/on/demandware.store/Sites-ss-au-Site/en_AU/Home-IncludeHeaderMenuMobile","sizeChartFrameDir":"/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/lib/surfstitch-sizecharts","changeSite":"/on/demandware.store/Sites-ss-au-Site/en_AU/Currency-ChangeSite"};
+window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"STORE_PICKUP":true,"COOKIE_HINT":false,"CHECK_TLS":false,"ENABLE_IMAGE_ZOOM":false,"Megamenu03MaxMenuRows":20,"Megamenu03MaxMenuColumns":8,"ENABLE_PLP_LAZY_LOAD":true,"PLP_SCROLL_PIXEL_OFFSET":1350,"megaMenuBackgroundOpacity":0.7,"INVALID_PASSWORD":"Password does not meet the minimum requirements. It must be at least 8 characters in length, contain one number and one letter.","MegaMenuSensitivityDelay":500,"RotatingMessageDuration":5000,"RotatingMessageAnimationIn":"fadeInRight","RotatingMessageAnimationOut":"fadeOutLeft","RefinementMenuBehaviour":"SingleSelect","SITEID":"ss-au","APSupportedCurrencyCodes":"AUD","ZipPaySupportedCurrencyCodes":"AUD","enableBlockListingLazyLoad":false,"blogListingScrollPixelOffset":null};
 }());
 </script>
 <script type="text/javascript">
@@ -7274,7 +7740,7 @@ window.User = {"zip":null,"storeId":null};
 (function(){
 window.currencyConfig = {"defaultSiteCurrency":"AUD","currencies":{"AUD":{"exchangeRate":1,"symbol":"$ AUD","flagIcon":"au","currencyPattern":"$#,##0.00"},"NZD":{"exchangeRate":1.1035,"symbol":"$ NZD","flagIcon":"nz","currencyPattern":"$#,##0.00 NZD"},"SGD":{"exchangeRate":1.0029,"symbol":"$ SGD","flagIcon":"sg","currencyPattern":"$#,##0.00 SGD"},"USD":{"exchangeRate":0.7584,"symbol":"$ USD","flagIcon":"us","currencyPattern":"$#,##0.00 USD"},"CAD":{"exchangeRate":0.9799,"symbol":"$ CAD","flagIcon":"ca","currencyPattern":"$#,##0.00 CAD"},"HKD":{"exchangeRate":5.8264,"symbol":"$ HKD","flagIcon":"hk","currencyPattern":"$#,##0.00 HKD"},"JPY":{"exchangeRate":82.0506,"symbol":"¥ JPY","flagIcon":"jp","currencyPattern":"¥#,##0.00 JPY"},"EUR":{"exchangeRate":0.6387,"symbol":"â‚¬ EUR","flagIcon":"eu","currencyPattern":"€#,##0.00 EUR"},"DKK":{"exchangeRate":4.7593,"symbol":"kr DKK","flagIcon":"dk","currencyPattern":"KR#,##0.00 DKK"},"NOK":{"exchangeRate":6.0336,"symbol":"kr NOK","flagIcon":"no","currencyPattern":"KR#,##0.00 NOK"},"GBP":{"exchangeRate":0.5603,"symbol":"£ GBP","flagIcon":"gb","currencyPattern":"£#,##0.00 GBP"},"ZAR":{"exchangeRate":10.1223,"symbol":"R ZAR","flagIcon":"za","currencyPattern":"R#,##0.00 ZAR"},"SEK":{"exchangeRate":6.5452,"symbol":"kr SEK","flagIcon":"se","currencyPattern":"KR#,##0.00 SEK"},"CHF":{"exchangeRate":0.7388,"symbol":"CHF CHF","flagIcon":"ch","currencyPattern":"CHF#,##0.00 CHF"},"CNY":{"exchangeRate":4.7793,"symbol":"¥ CNY","flagIcon":"cn","currencyPattern":"¥#,##0.00 CNY"}}};
 }());</script>
-<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/js/app.js" defer="defer"></script>
+<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/js/app.js" defer="defer"></script>
 
 
 
@@ -7313,6 +7779,35 @@ cookie.set("traffic_source_invalidate", "true", 365);
 
 
 
+<script type="application/ld+json">
+[{
+"@context" : "http://schema.org",
+"@type" : "Organization",
+"url" : "https://www.surfstitch.com/",
+"logo": "https://www.surfstitch.com/on/demandware.static/Sites-ss-au-Site/-/default/dw112958fe/images/logo.png",
+"name": "SurfStitch",
+"contactPoint" : [
+{
+"@type" : "ContactPoint",
+"url" : "https://help.surfstitch.com/hc/en-us",
+"contactType" : "customer service"
+}
+]
+},
+{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "https://www.surfstitch.com/",
+"name": "SurfStitch",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://www.surfstitch.com/search?&q={query}",
+"query-input": "required name=query"
+}
+}]
+</script>
+
+
 
 
 
@@ -7334,9 +7829,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1534082483402/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-ss-au-Site/-/en_AU/v1551366671891/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
