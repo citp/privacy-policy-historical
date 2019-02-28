@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenpinkvideos.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227130514id_/https%3A//www.twistys.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenpinkvideos.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301002654id_/https%3A//www.twistys.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-MG Premium Limited (hereinafter “ **we** ”, “ **us** ” or “ **our** ”) operates the website [twistys.com](http://twistys.com/) (hereinafter “ **Twistys** ” or the “ **Website** ”) and is the controller of the information collected or provided via this Website.
+MG Premium Ltd (hereinafter “ **we** ”, “ **us** ” or “ **our** ”) operates the website [twistys.com](http://twistys.com/) (hereinafter “ **Twistys** ” or the “ **Website** ”) and is the controller of the information collected or provided via this Website.
 
 Please read this privacy policy carefully, as your access to and use of our Website signifies that you have read, understand and agree to all terms within this privacy policy. If you do not agree with any part of this privacy policy or our terms, please do not access or continue to use our Website or otherwise submit your personal data. We respect your privacy and are committed to protecting your personal data
 
@@ -227,7 +227,7 @@ We do not guarantee error-free performance under this privacy policy. We will us
 
 ## Contact Information
 
-If you have any questions about this privacy policy or our information-handling practices, please contact us at [privacy@wistys.com](mailto:privacy@wistys.com).
+If you have any questions about this privacy policy or our information-handling practices, please contact us at [privacy@twistys.com](mailto:privacy@twistys.com).
 
 You may also contact us at 195-197 Old Nicosia-Limassol Road, Block 1 Dali Industrial Zone, Cyprus 2540, Phone: +357 22662 320, Fax: +357 22343 282.
 
