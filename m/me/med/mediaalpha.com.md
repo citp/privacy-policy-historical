@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaalpha.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107145433id_/http%3A//mediaalpha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaalpha.com privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228062940id_/https%3A//mediaalpha.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MediaAlpha
 
@@ -10,7 +10,7 @@ At MediaAlpha, protecting your personal information is a top priority. This Priv
 
 Please note that this Privacy Policy applies only to:
 
-  * information collected through this website, **[MediaAlpha.com](http://mediaalpha.com/)** , along with any other website owned and operated by MediaAlpha (the “Sites”);
+  * information collected through this website, **[MediaAlpha.com](https://mediaalpha.com/)** , along with any other website owned and operated by MediaAlpha (the “Sites”);
   * information you enter into our forms appearing on third-party websites;
   * certain limited information regarding your interaction with advertiser sites following a visit to our Sites, solely for attribution and optimization purposes;
   * information obtained during phone calls to us that you initiate, or that we or our partners may initiate with your prior consent; and
@@ -38,7 +38,7 @@ Our agreements require service providers to secure any personal information we p
 
 If one of the service providers contacts you and you wish not to be contacted again by that service provider, then you should specifically make a request of them. Please note that service providers may maintain the information you provided whether or not you elect to use their services.
 
-You can find a list of service providers currently in our network **[here](http://mediaalpha.com/marketing-partners/)**.
+You can find a list of service providers currently in our network **[here](https://mediaalpha.com/marketing-partners/)**.
 
 _Aggregate, Non-Personal, or De-identified Information_. We may share aggregated information (i.e., information about you and other users collectively, but not specifically identifiable to you) and other non-personal, de-identified, or anonymous information we collect, with third parties to optimize their ability to reach their target markets.
 
