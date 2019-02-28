@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rankaboveothers.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029152346id_/http%3A//rankaboveothers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankaboveothers.com privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228160504id_/https%3A//rankaboveothers.com/privacy-policy) for the most accurate reproduction.*
 
 # Rank Above Others | A Strategic Marketing Firm | Privacy Policy
-
-E: help@rankaboveothers.com T: 800-498-7134
 
 **Rankaboveothers.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
