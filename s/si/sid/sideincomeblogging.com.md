@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sideincomeblogging.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213220548id_/http%3A//sideincomeblogging.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sideincomeblogging.com privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228034012id_/https%3A//sideincomeblogging.com/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy - Side Income Blogging
 
