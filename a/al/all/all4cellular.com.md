@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all4cellular.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928214405id_/https%3A//www.a4c.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all4cellular.com privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228051548id_/https%3A//www.a4c.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | A4C.com
 
@@ -17,5 +17,3 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-Loading...
