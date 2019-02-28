@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nordinho.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606052251id_/http%3A//www.nordinho.net/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordinho.net privacy policy that was archived on 2019-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190228165828id_/http%3A//www.nordinho.net/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # Nordinho.net - A Creative Adventure - Privacy Policy
 
