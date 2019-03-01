@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slickpic.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706054035id_/https%3A//www.slickpic.com/page/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slickpic.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301150344id_/https%3A//www.slickpic.com/page/policy) for the most accurate reproduction.*
 
 # Privacy Policy - SlickPic
 
@@ -145,6 +145,74 @@ If you view a SlickPic website controlled by one of our customers, we may collec
 
 SlickPic does not control what its customers do with the data we share.  SlickPic expects and requires its customers to abide by SlickPic’s Terms of Use.  We will terminate a customer’s account if we become aware that a SlickPic customer has violated our terms of service. 
 
+## E-mail Communications
+
+SlickPic is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. SlickPic may send out e-mails with SlickPic-related news, products, offers, surveys or promotions. You may also receive notification e-mails from SlickPic, which inform you of actions (e.g. friend requests) that have been performed on the site. If you do not want to receive e-mail from us, please visit the Communications Settings in Account menu and uncheck the unwanted e-mail messages. However, please note that in all cases you will continue to receive all system and administrative emails: newsletters, alerts, important messages from us. 
+
+## Analytics
+
+SlickPic uses Google Analytics service to help analyze and understand how our site and mobile applications are used, so that we can make SlickPic products more interesting to you. These tools capture data about how individual users are using our site and mobile applications. This includes event logs, device type and device configuration settings such as language, crash data and other data but never personal information. These third-party services treat the analytics data in accordance with this privacy policy and SlickPic does not disclose your personal information to any third parties through our use of these services. 
+
+## Keeping Information Secure
+
+Your SlickPic account information is protected by a password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. Your name and email address are stored in encrypted format.   
+Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices. 
+
+## Ways to Control Display and Use of Your Information
+
+  
+
+
+  * As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website.
+  * By visiting your User Profile, you can correct, amend, add or delete personal information on our website.
+  * If you do not want to receive e-mail from us, please visit the Communications Settings in Account menu and uncheck the unwanted e-mail messages. However, please note that in all cases you will continue to receive all system and administrative emails: newsletters, alerts, important messages from us.
+  * As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, some site functionality might become unusable.
+
+
+
+## Information modification or Deletion
+
+You have the right at any time to request information about what personal data we process about you and to demand correction, deletion and/or restriction of your personal data stored by us. For your security, we will ask you to verify your details in the event of such a request or change. Please contact us at: https://support.slickpic.com 
+
+## Your California Privacy Rights
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at support@slickpic.com 
+
+## SlickPic Policies on Cookies
+
+SLICKPIC uses cookies (small text files placed on your device) and similar technologies to provide our website and online services and to help collect data. The text in a cookie often consists of a string of numbers and letters that uniquely identifies your computer, but it can contain other information as well. 
+
+## Our Use of Cookies and Similar Technologies
+
+SLICKPIC uses cookies and similar technologies for several purposes, depending on the product, including: 
+
+  * Storing your Preferences and Settings. Settings that enable our products to operate correctly or that maintain your preferences over time may be stored on your device. For example, if you enter your city or postal code to get nearby groups or events on the SLICKPIC website, we may store that data in a cookie so that you will see the relevant local information when you return to the site. We also save preferences, such as language, browser and time zone, so those do not have to be reset each time you return to the site.
+  * Sign-in and Authentication. When you sign into a website using your personal SLICKPIC account, we store a unique ID number, and the time you signed in, in an encrypted cookie on your device. This cookie allows you to move from page to page within the site without having to sign in again on each page. You can also save your sign- in information so you do not have to sign in each time you return to the site.
+  * Security. We use cookies to detect fraud and abuse of our websites and services.
+  * Storing Information you Provide to a Website. When you provide information: submit comments, groups, events and other information, we store the data in a cookie to remember the information you have added.
+  * Social Media. Some of our websites include social media cookies, including those that enable users who are logged in to the social media service to share content via that service.
+  * Feedback. SLICKPIC uses cookies to enable you to provide feedback and report malfunctions on a website.
+  * Interest-Based Content. SLICKPIC uses cookies to collect data about your online activity and identify your interests so that we can provide content or advertising that is most relevant to you.
+  * Showing Content. SLICKPIC uses cookies to record how many visitors have clicked on a content or advertisement and to record what you have seen so you don’t see the same one repeatedly.
+  * Analytics. In order to provide our products, we use cookies and other identifiers to gather usage and performance data. For example, we use cookies to count the number of unique visitors to a web page or service and to develop other statistics about the operations of our products. This includes cookies from SLICKPIC and from third-party analytics providers.
+  * Performance. SLICKPIC uses cookies for load balancing to ensure that websites remain up and running.
+
+
+
+Cookies that to collect information for analytics purposes. In addition to the cookies SLICKPIC sets when you visit our websites, third parties may also set cookies when you visit SLICKPIC site. In some cases, that is because we have hired the third party to provide services on our behalf, such as site analytics. In other cases, it is because our web pages contain content or ads from third parties, such as videos, news content or ads delivered by other ad networks. Because your browser connects to those third parties' web servers to retrieve that content, those third parties are able to set or read their own cookies on your device and may collect information about your online activities across websites or online services. 
+
+## How to Control Cookies
+
+Most web browsers automatically accept cookies but provide controls that allow you to block or delete them. For example, in Internet Explorer or Microsoft Edge, you can block or delete cookies by clicking Settings → Privacy → Cookies. Instructions for blocking or deleting cookies in other browsers may be available in each browser's privacy or help documentation. Certain features of SLICKPIC products depend on cookies. Please be aware that if you choose to block cookies, you may not be able to sign in or use those features, and preferences that are dependent on cookies may be lost. If you choose to delete cookies, settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated. 
+
+## Our Use of Web Beacons and Analytics Services
+
+SLICKPIC web pages may contain electronic images known as web beacons (also called single- pixel gifs) that we use to help deliver cookies on our website and count users who have visited this website. We also include web beacons in our promotional email messages or newsletters to determine whether you open and act on them. SLICKPIC products often contain web beacons or similar technologies from third-party analytics providers, which help us compile aggregated statistics about the effectiveness of our promotional campaigns or other operations. These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites or other products. However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address). 
+
+## Other Similar Technologies
+
+In addition to standard cookies and web beacons, our products can also use other similar technologies to store and read data files on your computer. This is typically done to maintain your preferences or to improve speed and performance by storing certain files locally. But, like standard cookies, these technologies can also be used to store a unique identifier for your computer, which can then be used to track behavior. These technologies include Local Shared Objects (or "Flash cookies”). Local Shared Objects or "Flash cookies." Web sites that use Adobe Flash technologies can use Local Shared Objects or "Flash cookies" to store data on your computer. To manage or block Flash cookies, go to [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html](https://www.slickpic.com/www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). 
+
 ## Terms of Use, Notices and Revisions
 
 Your use of SlickPic, and any disputes arising from it, is subject to this Privacy Policy, as well as our Terms of Use and all of its dispute resolution provisions, limitation on damages and choice of law.  We encourage you to refer to our policy on an ongoing basis so that you understand our current privacy policy.  Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.  We reserve the right to change our Privacy Policy and our Terms of Use at any time.  Policy changes will apply only to information collected after the date of the change.  This policy was last modified on 9/06/2010.  
@@ -156,3 +224,30 @@ SlickPic has taken the necessary steps to ensure that we are in compliance with 
 ## Contacting SlickPic
 
 If you have any questions about this privacy policy, please contact us at [info@SlickPic.com](mailto:info@SlickPic.com)
+
+  
+
+
+## Security
+
+SlickPic takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. Data Retention We store the information we collect about you for as long as is necessary for the purpose(s) for which we originally collected it. We may retain certain information for legitimate business purposes or as required by law. Data Transfers To provide the Services, we may transfer your information to SlickPic servers in the United States or other countries. When we transfer information from the European Economic Area (“EEA”) to countries that have not been deemed to provide an adequate level of protection, we employ data processing agreements based on the Standard Contractual Clauses to help ensure that your data is protected wherever it is transferred. 
+
+If you are a resident of the EEA, you have certain rights and protections under the law regarding the processing of your personal information. 
+
+## Legal Basis for Processing
+
+If you are a resident of the EEA, when we process your personal data we will only do so in the following situations: 
+
+  * We need to use your personal information to perform our responsibilities under our contract with you (e.g., processing payments for and providing the services you have requested).
+  * We have a legitimate interest in processing your personal data. For example, we may process your personal data to send you marketing communications, to communicate with you about changes to our services, and to provide, secure, and improve our services.
+
+  
+
+
+## Data Subject Requests
+
+If you are a resident of the EEA, you have the right to access personal information we hold about you and to ask that your personal information be corrected, erased, or transferred. You may also have the right to object to, or request that we restrict, certain processing. If you would like to exercise any of these rights, you can log into your account and use the settings and features explained above or you may contact us as indicated below. 
+
+## Questions or Complaints
+
+If you are a resident of the EEA and have a concern about our processing of personal information that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see: http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection- authorities/index_en.htm. 
