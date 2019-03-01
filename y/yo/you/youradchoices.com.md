@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youradchoices.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830045011id_/http%3A//youradchoices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youradchoices.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302004714id_/https%3A//youradchoices.com/privacy-policy) for the most accurate reproduction.*
 
 # YourAdChoices.com
 
@@ -41,7 +41,7 @@ Through some of our Digital Properties, you are able to exercise choice with res
 
 We take reasonable measures to help maintain data we collect through our Digital Properties in a secure manner.
 
-## Links to third party sites
+## Links to third-party sites
 
 Our Digital Properties may contain links to other websites operated by third parties we do not control and this Privacy Policy applies solely to information collected through our Digital Properties. We encourage you to read the privacy statements of these other websites.
 
