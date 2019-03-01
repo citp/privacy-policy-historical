@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the topendsports.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907001108id_/https%3A//www.topendsports.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topendsports.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302002315id_/https%3A//www.topendsports.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-At https://www.topendsports.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by https://www.topendsports.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20180907001108id_/https%3A//www.topendsports.com/comment.htm).
+At https://www.topendsports.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by https://www.topendsports.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20190302002315id_/https%3A//www.topendsports.com/comment.htm).
 
 This Privacy Policy governs the manner in which the website Topend Sports ([https://www.topendsports.com](https://www.topendsports.com/)), herein referred to as the “Site”, collects data, uses this data, and maintains and discloses any collected information from Website users (herein referred to as “User”). Additionally, this policy applies to the entire Site and all the products and services offered by Topend Sports.
 
@@ -89,6 +89,6 @@ By using this Site, you signify your acceptance of this Privacy Policy. If you d
 
 ## Contacting us
 
-If you have any issues, questions or comments concerning this privacy policy, please [contact us](https://web.archive.org/web/20180907001108id_/https%3A//www.topendsports.com/comment.htm).
+If you have any issues, questions or comments concerning this privacy policy, please [contact us](https://web.archive.org/web/20190302002315id_/https%3A//www.topendsports.com/comment.htm).
 
 This policy was last updated on 18th May, 2018.
