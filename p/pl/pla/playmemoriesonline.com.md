@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playmemoriesonline.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929073228id_/https%3A//products.sel.sony.com/SEL/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playmemoriesonline.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301063606id_/https%3A//products.sel.sony.com/SEL/legal/privacy.html) for the most accurate reproduction.*
 
-# Sony Electronics Inc
+# Privacy Policy | Sony Electronics Inc
 
 ## Sony Electronics Inc.
 
