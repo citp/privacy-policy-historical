@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leanin.org privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212101819id_/https%3A//leanin.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanin.org privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301050757id_/https%3A//leanin.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lean In
 
