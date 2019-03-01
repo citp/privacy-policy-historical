@@ -1,124 +1,193 @@
-> *The following text is extracted and transformed from the masdings.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924165501id_/http%3A//masdings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masdings.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301085512id_/https%3A//www.masdings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
-## Overview
+**JH MASDING AND SON LIMITED PRIVACY AND COOKIE POLICY**
 
-Effective: 17th May 2012 J. H. Masdings & Sons is committed to protecting and respecting your privacy. This page explains:
+**BACKGROUND:**
 
-  * What personally identifiable information of yours is collected
-  * What organisation is collecting the information
-  * How the information is used
-  * With whom the information may be shared
-  * What choices are available to you regarding collection, use and distribution of the information
-  * What kind of security procedures are in place to protect the loss, misuse or alteration of information under J. H. Masdings & Sons 's control
-  * How you can correct any inaccuracies in the information.
+JH Masding and Son Limited understands that your privacy is important to you and that you care about how your personal data is used and shared online. We respect and value the privacy of everyone who visits this website, www.masdings.com (“Our Site”) and will only collect and use personal data in ways that are described here, and in a manner that is consistent with Our obligations and your rights under the law.
 
+Please read this Privacy Policy carefully and ensure that you understand it. Your acceptance of Our Privacy Policy is deemed to occur upon your first use of Our Site. If you do not accept and agree with this Privacy Policy, you must stop using Our Site immediately.
 
+**1. Definitions and Interpretation **
 
-### Under 18’s
+In this Policy, the following terms shall have the following meanings:  
 
-Children are not eligible to use our services and we ask that minors (under 18 years of age) do not submit any personal information to us.
+“Account” means an account required to access and/or use certain areas and features of Our Site;
 
-### Information We Collect
+“Cookie” means a small text file placed on your computer or device by Our Site when you visit certain parts of Our Site and/or when you use certain features of Our Site. 
 
-Our primary goal in collecting personal information from you is to provide you with a smooth, efficient, and personalised experience while using our web-site. This allows us to provide services and features that most likely meet your needs, and to customise our service to make your experience easier and quicker. To fully use our web-site and make purchases, you will need to register as a customer, where you will be required to provide us with your contact information and some other information relating require to process any orders you place with us. We automatically track certain information about you based upon your behaviour on our site. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand and serve our users. We use a web analytics tool to analyse site usage, how our users arrive at our site, what they do on the site, what browser they are using and on what operating system etc. However, this analytics data, collected via a JavaScript tag in the pages of our site, is not tied to personally identifiable information.
+“Cookie Law” means the relevant parts of the Privacy and Electronic Communications (EC Directive) Regulations 2003;
 
-#### Cookies
+“personal data” means any and all data that relates to an identifiable person who can be directly or indirectly identified from that data. In this case, it means personal data that you give to Us via Our Site. This definition shall, where applicable, incorporate the definitions provided in the EU Regulation 2016/679 – the General Data Protection Regulation (“GDPR”); and
 
-We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit http://www.aboutcookies.org for detailed guidance. The following describe the cookies we use on this site and what we use them for. Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete www.oxygenclothing.co.uk’s cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
+“We/Us/Our” means JH Masding and Son Limited, a limited company registered in England under company number 01289841, whose registered address is 13 Middle Gate, Newark, Nottinghamshire, NG24 1AG, and whose main trading address is 13 Middle Gate, Newark, Nottinghamshire, NG24 1AG.
 
-#### “Session” Cookies
+**2. Information About Us**
 
-We use a session cookie to remember your log-in for you and what you’ve put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken - including the ability to place orders.
+2.1 Our Site is owned and operated by JH Masding and Son Limited, a limited company registered in England under company number 01289841, whose registered address is 13 Middle Gate, Newark, Nottinghamshire, NG24 1AG, and whose main trading address is 13 Middle Gate, Newark, Nottinghamshire, NG24 1AG 
 
-#### Persistent Cookies for Site Analytics & Performance
+2.2 Our VAT number is 119026687.
 
-  * Google AdSense - This cookie is used by Google to report to us how the adverts shown on www.oxygenclothing.co.uk are performing. User data is all anonymous. You can find out more generally about Google and its policies and principles as regards advertising at http://www.google.com/policies/privacy/ads/
-  * DoubleClick (Google) - This is very similar to the cookie above (both are owned/controlled by Google) but is specific to the display advertising on www.oxygenclothing.co.uk site. User data is anonymous. As above, you can find out more generally about Google and its policies and principles as regards advertising at http://www.google.com/policies/privacy/ads/
-  * Google Analytics - We use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at http://www.google.co.uk/intl/en/analytics/privacyoverview.html
+2.3 Our Data Protection Officer can be contacted by email at info@masdings.com.
 
+**3. What Does This Policy Cover?**
 
+This Privacy Policy applies only to your use of Our Site. Our Site may contain links to other websites. Please note that We have no control over how your data is collected, stored, or used by other websites and We advise you to check the privacy policies of any such websites before providing any data to them.
 
-#### Social Buttons
+**4. Your Rights**
 
-On many of the pages of the site you will see ‘social buttons’. These enable users to share or bookmark the web pages. There are buttons for: Twitter, Google +1, Facebook ‘Like’ and others. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of www.oxygenclothing.co.uk. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on www.oxygenclothing.co.uk’s site. So if you click on any of these buttons, these sites will be registering that action and may use that information. In some cases these sites will be registering the fact that you are visiting www.oxygenclothing.co.uk, and the specific pages you are on, even if you don’t click on the button if you are logged into their services, like Google and Facebook. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
+4.1 As a data subject, you have the following rights under the GDPR, which this Policy and Our use of personal data have been designed to uphold:
 
-#### External Web Services
+4.1.1 The right to be informed about Our collection and use of personal data;
 
-We use a number of external web services on the www.oxygenclothing.co.uk site, mostly to display content within our web pages. For example; to show videos we use Vimeo and YouTube. This is not an exhaustive or complete list of the services we use, or might use in the future, when embedding content, but these are the most common. As with the social buttons we cannot prevent these sites, or external domains, from collecting information on your usage of this embedded content. If you are not logged in to these external services then they will not know who you are but are likely to gather anonymous usage information e.g. number of views, plays, loads etc.
+4.1.2 The right of access to the personal data We hold about you (see section 12);
 
-#### Email Tracking
+4.1.3 The right to rectification if any personal data We hold about you is inaccurate or incomplete (please contact Us using the details in section 14);
 
-Some emails that we send you have no tracking in at all e.g. service emails such as order notifications. Other emails we send we put in tracking so that we can tell how much traffic those emails send to our site but we do not know who has clicked so the data is anonymous e.g. our daily newsletter. Some emails we can track, at an individual level, whether the user has opened and clicked on the email. We rarely use the latter information at a personal level, rather we use it to understand open and click rates on our emails to try and improve them. Sometimes we do use the personal information e.g. to re-email people who didn’t click the first time. If you want to be sure that none of your email activity is tracked then you should opt out of J. H. Masdings’s emails which you can do via [My Account](https://www.oxygenclothing.co.uk/my-account/view)
+4.1.4 The right to be forgotten – i.e. the right to ask Us to delete any personal data We hold about you (We only hold your personal data for a limited time, as explained in section 6 but if you would like Us to delete it sooner, please contact Us using the details in section 14);
 
-#### Surveys & Contests
+4.1.5 The right to restrict (i.e. prevent) the processing of your personal data;
 
-From time to time our site may request information from users via surveys, contests or for a particular service (e.g. newsletter). Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested will include contact information (as supplied to the site during registration) and may include supplementary information as appropriate to the survey or contest. We will use the contact information to notify winners. We will not publish winners' details on the site though on request we will provide details of any winner's name. If the survey or contest has a sponsor then we may share information given by entrants with the sponsor, but only with the user's consent.
+4.1.6 The right to data portability (obtaining a copy of your personal data to re-use with another service or organisation);
 
-#### Payment Processing
+4.1.7 The right to object to Us using your personal data for particular purposes; and
 
-In order to process payments online we require the billing address for the credit card used and your credit card details, which are passed to our payment processor, DataCash. For details of how this information is used, please see Section 3 below.
+4.1.8 Rights with respect to automated decision making and profiling.
 
-### How We Use Your Information
+4.2 If you have any cause for complaint about Our use of your personal data, please contact Us using the details provided in section 14 and We will do Our best to solve the problem for you. If We are unable to help, you also have the right to lodge a complaint with the UK’s supervisory authority, the Information Commissioner’s Office.
 
-We use personally identifiable information about you to improve our marketing and promotional efforts, to statistically analyse site usage, to improve our content and product offerings and to customise our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs. We use your email address to send you newsletters or other communications that you have requested from the Site. Out of respect for our users we offer an opt-out (see Section 4 below). We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve any disputes, troubleshoot problems and enforce our Terms & Conditions. At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple User IDs or aliases.
+4.3 For further information about your rights, please contact the Information Commissioner’s Office or your local Citizens Advice Bureau.
 
-#### Payment Processing
+**5. What Data Do We Collect?**
 
-We take online payments for our products and/or services. We use DataCash as our external payment provider. In addition to the information outlined above, we require the billing address of the credit card you use so that we can pass this to DataCash who check the address against the cardholder's details for security purposes. We don't store the credit card details on our server but we do store the billing details and a unique reference to your card details on the DataCash server so that we can process refunds. We also use the billing details in case we need to contact you regarding payments e.g. for a failed transaction. DataCash requires that you provide your credit card details to process the transaction. This is done on our secure server and this data is passed immediately and securely to DataCash for their processing. All communications between our servers and DataCash pass over an encrypted connection using SSL (Secure Sockets Layer). Your Personal Information is stored in our databases. Please note that the information you enter is not transferred outside of the European Economic Area by J. H. Masdings & Sons. There may be circumstances thought where we need to provide appropriate details to third parties to complete the service purchased by you (such as passing your details to a delivery company to effect delivery of goods you have purchased). In these circumstances, we cannot confirm where these third parties store their data. By submitting your information, you consent to this transfer. J. H. Masdings & Sons complies with the UK Data Protection Act 1998.
+Depending upon your use of Our Site, We may collect some or all of the following personal and non-personal data (please also see section 13 on Our use of Cookies and similar technologies):
 
-### Email Communications
+5.1 name;
 
-As part of the registration process for joining as a customer of J. H. Masdings & Sons you have the opportunity to opt in or out to our marketing email communications. If at any stage you wish no longer to receive any emails that you receive from the site you can stop them coming by changing your preferences in the "Newsletter Preferences" section under "My Account". You can also opt-out directly by using the Unsubscribe links contained within these e-mails.
+5.2 date of birth;
 
-### Our Disclosure of Your Information
+5.3 gender;
 
-We do not sell or rent any personally identifiable information about you to any third party. Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorise us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, Intellectual Property Rights infringements, or other activity that is illegal or may expose us to legal liability.
+5.4 business/company name
 
-#### Advertisers
+5.5 contact information such as email addresses and telephone numbers;
 
-We do aggregate personally identifiable information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. There are some cases where we do pass on your personal details, however we only do this if you explicitly agree to this, typically by checking an opt-in checkbox where the default position will be that you do not agree to your details being passed on. For example, where we have events such as Supplier Showcases you may choose to opt-in, at the time of registering for the event, to allow your details to be passed on to those presenting.
+5.6 demographic information such as postcode, preferences, and interests;
 
-#### Payment and Credit Card Details
+5.7 IP address;
 
-As explained above, we store a unique reference against your card details which allows us to process refunds automatically. Only the last four digits of your card number are available to J. H. Masdings & Sons admin staff. The first twelve digits are hidden so that J. H. Masdings & Sons staff cannot see your full card details. None of your card details, or billing details, are published on the site in any way, nor are they visible to other users on your membership account.
+5.8 web browser type and version;
 
-#### Legal Requests
+5.9 operating system;
 
-J. H. Masdings & Sons cooperates with law enforcement inquiries and other third parties to enforce laws, Intellectual Property Rights and other rights. Local and international law enforcement agencies can request and may receive your personally identifiable information.
+5.10 a list of URLs starting with a referring site, your activity on Our Site, and the site you exit to;
 
-#### Suppliers and Other Service Providers
+**6. How Do We Use Your Data?**
 
-From time to time we use third party Suppliers and Service Providers to facilitate our services. Where any Service Provider collects information directly from you (such as the situation where we ask a Service Provider to conduct a survey for us) you will be notified of the involvement of the Supplier or Service Provider, and all information disclosures you make will be strictly optional.
+6.1 All personal data is processed and stored securely, for no longer than is necessary in light of the reason(s) for which it was first collected. We will comply with Our obligations and safeguard your rights under the GDPR at all times. For more details on security see section 7, below.
 
-### Control of Your Password
+6.2 Our use of your personal data will always have a lawful basis, either because it is necessary for Our performance of a contract with you, because you have consented to Our use of your personal data (e.g. by subscribing to emails), or because it is in Our legitimate interests. Specifically, We may use your data for the following purposes:
 
-Except as specifically permitted by this section, you may not disclose your J. H. Masdings & Sons password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by visiting the "Change Password" section in "My Account". You may, however, disclose your password to certain third parties with whom J. H. Masdings & Sons has entered into specific contractual and technical arrangements designed to safeguard your password, in order to enjoy the benefits of those third parties' services in relation to Masdings.com's services. If you wish to change your password you can do so at any time through the "Change Password" section in "My Account" section of the site.
+6.2.1 Providing and managing your Account;
 
-### Reviewing and Changing Your Personally Identifiable Information
+6.2.2 Providing and managing your access to Our Site;
 
-You can at any time review and change the information you submitted during registration by visiting the "My Account" section of the site. You must promptly update your information if it changes. Once posted, you cannot change or remove any public postings made in our forums or other message areas or the feedback area. You can at any time ask to see and have removed any information that we have stored on you, though we reserve the right to charge for this service. Please contact J. H. Masdings & Sons if you would like your personal information removed. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms & Conditions. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests that it be removed.
+6.2.3 Personalising and tailoring your experience on Our Site;
 
-### Other Information Collectors
+6.2.4 Supplying Our products and services to you (please note that We require your personal data in order to enter into a contract with you);
 
-Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are other members of the Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them.
+6.2.5 Personalising and tailoring Our products and services for you;
 
-### Security
+6.2.6 Replying to emails from you;
 
-In order to process and help protect your credit card details, we use SSL (Secure Sockets Layer) to secure all communications between the site and you where sensitive information is being exchanged. This includes (but is not limited to) Registration, Login, My Account and Checkout pages. On the J. H. Masdings & Sons site we use best endeavors to safeguard the confidentiality of your personally identifiable information but we do not use encryption to store your personally identifiable informations. This is because we do not believe that the personal information we currently collect warrants such measures and the accompanying loss of speed experienced. You should be aware that "perfect security" does not exist on the Internet.
+6.2.7 Supplying you with emails that you have opted into (you may unsubscribe or opt-out at any time by clicking the unsubscribe link at the bottom of the marketing emails);
 
-### Changes to Privacy Policy
+6.2.8 Analysing your use of Our Site and gathering feedback to enable Us to continually improve Our Site and your user experience;
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will make any changes to this Privacy Policy and post them to our site. It is up to you whether you then continue to use the site and J. H. Masdings & Sons's services following such changes. However, it is assumed that you accept such changes if you continue to use the site and services. If you do not accept such changes then you should stop using J. H. Masdings & Sons's site and services and contact us, as per above, should you wish to have any of your details removed.
+6.3 With your permission and/or where permitted by law, We may also use your data for marketing purposes which may include contacting you by email with information, news and offers on Our products and services. We will not, however, send you any unsolicited marketing or spam and will take all reasonable steps to ensure that We fully protect your rights and comply with Our obligations under the GDPR and the Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
-### Mailing Address
+6.4 Third parties whose content appears on Our Site may use third party Cookies, as detailed below in section 13. Please refer to section 13 for more information on controlling Cookies. Please note that We do not control the activities of such third parties, nor the data they collect and use and advise you to check the privacy policies of any such third parties.
 
-  * Telephone 01636 703050
-  * Office address 13 Middlegate, Newark, NG24 1AG, UK
-  * Contact Person Matthew Morris
-  * Contact E-mail info@masdings.com
+6.5 You have the right to withdraw your consent to Us using your personal data at any time, and to request that We delete it.
 
+6.6 We do not keep your personal data for any longer than is necessary in light of the reason(s) for which it was first collected. Data retention will be determined on the following bases:
 
+6.6.1 E-mail addresses for marketing purposes will be stored until you unsubscribe. All account information required to process orders and refunds will be stored for for that purpose only and no longer than necessary to fulfill our contract with you and to satisfy the requirements of the financial and taxation authorities;
 
-Privacy & Cookie Policy last updated 17th May 2012.
+**7. How and Where Do We Store Your Data?**
+
+7.2 Your data will only be stored within the European Economic Area (“the EEA”) (The EEA consists of all EU member states, plus Norway, Iceland, and Liechtenstein).
+
+7.3 Data security is very important to Us, and to protect your data We have taken appropriate measures to safeguard and secure data collected through Our Site.
+
+**8. Do We Share Your Data?**
+
+8.1 We may share your data with other companies in Our group for marketing and analytics.
+
+8.2 We may sometimes contract with third parties to supply products and services to you on Our behalf. These may include payment processing, delivery of goods, search engine facilities, advertising, and marketing. In some cases, the third parties may require access to some or all of your data. Where any of your data is required for such a purpose, We will take all reasonable steps to ensure that your data will be handled safely, securely, and in accordance with your rights, Our obligations, and the obligations of the third party under the law.
+
+8.3 We may compile statistics about the use of Our Site including data on traffic, usage patterns, user numbers, sales, and other information. All such data will be anonymised and will not include any personally identifying data, or any anonymised data that can be combined with other data and used to identify you. We may from time to time share such data with third parties such as prospective investors, affiliates, partners, and advertisers. Data will only be shared and used within the bounds of the law.
+
+8.4 We may sometimes use third party data processors that are located outside of the European Economic Area (“the EEA”) (The EEA consists of all EU member states, plus Norway, Iceland, and Liechtenstein). Where We transfer any personal data outside the EEA, We will take all reasonable steps to ensure that your data is treated as safely and securely as it would be within the UK and under the GDPR.
+
+8.5 In certain circumstances, We may be legally required to share certain data held by Us, which may include your personal data, for example, where We are involved in legal proceedings, where We are complying with legal requirements, a court order, or a governmental authority.
+
+**9. What Happens If Our Business Changes Hands?**
+
+9.1 We may, from time to time, expand or reduce Our business and this may involve the sale and/or the transfer of control of all or part of Our business. Any personal data that you have provided will, where it is relevant to any part of Our business that is being transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this Privacy Policy, be permitted to use that data only for the same purposes for which it was originally collected by Us.
+
+9.2 In the event that any of your data is to be transferred in such a manner, you will be contacted in advance and informed of the changes. When contacted you will be given the choice to have your data deleted or withheld from the new owner or controller.
+
+**10. How Can You Control Your Data?**
+
+10.1 In addition to your rights under the GDPR, set out in section 4, when you submit personal data via Our Site, you may be given options to restrict Our use of your data. In particular, We aim to give you strong controls on Our use of your data for direct marketing purposes (including the ability to opt-out of receiving emails from Us which you may do by unsubscribing using the links provided in Our emails and at the point of providing your details.
+
+10.2 You may also wish to sign up to one or more of the preference services operating in the UK: The Telephone Preference Service (“the TPS”), the Corporate Telephone Preference Service (“the CTPS”), and the Mailing Preference Service (“the MPS”). These may help to prevent you receiving unsolicited marketing. Please note, however, that these services will not prevent you from receiving marketing communications that you have consented to receiving.
+
+**11. Your Right to Withhold Information**
+
+11.1 You may access certain areas of Our Site without providing any data at all. However, to use all features and functions available on Our Site you may be required to submit or allow for the collection of certain data.
+
+11.2 You may restrict Our use of Cookies. For more information, see section 13.
+
+**12. How Can You Access Your Data?**
+
+12.1 You have the right to ask for a copy of any of your personal data held by Us (where such data is held). Under the GDPR, no fee is payable and We will provide any and all information in response to your request free of charge. Please contact Us for more details at info@masdings.com or using the contact details below in section 14.
+
+12.2 We will respond to requests in electronic format within seven days - you will be required to provide evidence of your identity in order to receive your personal data or have your personal data removed.
+
+**13. Our Use of Cookies**
+
+13.1 Our Site may place and access certain first party Cookies on your computer or device. First party Cookies are those placed directly by Us and are used only by Us. We use Cookies to facilitate and improve your experience of Our Site and to provide and improve Our products and services. We have carefully chosen these Cookies and have taken steps to ensure that your privacy and personal data is protected and respected at all times.
+
+13.2 By using Our Site you may also receive certain third party Cookies on your computer or device. Third party Cookies are those placed by websites, services, and/or parties other than Us. Third party Cookies are used on Our Site for marketing and analytics. These Cookies are not integral to the functioning of Our Site and your use and experience of Our Site will not be impaired by refusing consent to them.
+
+13.3 All Cookies used by and on Our Site are used in accordance with current Cookie Law.
+
+13.4 Before Cookies are placed on your computer or device, you will be shown a notification prompt alerting you to the fact cookies are required to to enable the basic functionality of the site.
+
+13.5 Certain features of Our Site depend on Cookies to function. Cookie Law deems these Cookies to be “strictly necessary”. These Cookies are shown below in section 13.6. Your consent will not be sought to place these Cookies, but it is still important that you are aware of them. You may still block these Cookies by changing your internet browser’s settings as detailed below in section 13.10, but please be aware that Our Site may not work properly if you do so. We have taken great care to ensure that your privacy is not at risk by allowing them.
+
+13.6 The following first party Cookies will be placed on your computer or device:
+
+and the following third party Cookies may be placed on your computer or device: 
+
+PHPSESSID - session cookie
+
+13.7 Our Site uses analytics services provided by Google Analytics. Website analytics refers to a set of tools used to collect and analyse anonymous usage information, enabling Us to better understand how Our Site is used. This, in turn, enables Us to improve Our Site and the products and services offered through it. You do not have to allow Us to use these Cookies, however whilst Our use of them does not pose any risk to your privacy or your safe use of Our Site, it does enable Us to continually improve Our Site, making it a better and more useful experience for you.
+
+13.8 In addition to the controls that We provide, you can choose to enable or disable Cookies in your internet browser. Most internet browsers also enable you to choose whether you wish to disable all cookies or only third party Cookies. By default, most internet browsers accept Cookies but this can be changed. For further details, please consult the help menu in your internet browser or the documentation that came with your device.
+
+13.9 You can choose to delete Cookies on your computer or device at any time, however you may lose any information that enables you to access Our Site more quickly and efficiently including, but not limited to, login and personalisation settings.
+
+13.10 It is recommended that you keep your internet browser and operating system up-to-date and that you consult the help and guidance provided by the developer of your internet browser and manufacturer of your computer or device if you are unsure about adjusting your privacy settings.
+
+**14. Contacting Us**
+
+If you have any questions about Our Site or this Privacy Policy, please contact Us by email at info@masdings.com. Please ensure that your query is clear, particularly if it is a request for information about the data We hold about you (as under section 12, above).
+
+**15. Changes to Our Privacy Policy**
+
+We may change this Privacy Policy from time to time (for example, if the law changes). Any changes will be immediately posted on Our Site and you will be deemed to have accepted the terms of the Privacy Policy on your first use of Our Site following the alterations. We recommend that you check this page regularly to keep up-to-date.
