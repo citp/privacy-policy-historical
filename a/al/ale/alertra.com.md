@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606221259id_/https%3A//www.alertra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301093146id_/https%3A//www.alertra.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Website monitoring service & web site uptime monitoring tool
 
