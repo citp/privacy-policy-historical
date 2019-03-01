@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop.ca privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904082818id_/https%3A//www.shop.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop.ca privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302004334id_/https%3A//www.shop.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shop
 
