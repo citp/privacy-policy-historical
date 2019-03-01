@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themailbox.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822230451id_/https%3A//www.themailbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themailbox.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301141412id_/https%3A//www.themailbox.com/privacy-policy) for the most accurate reproduction.*
 
 # The Mailbox
 
-Facts on File, Inc. is committed to honoring your privacy and improving your online experience. When you register for our site, you provide us with information, such as your name, email address, and interests. We ask for this in connection with registrations, promotions, and purchases so that we can tell you about upcoming features and products that you might be interested in.
+Infobase Holdings, Inc. is committed to honoring your privacy and improving your online experience. When you register for our site, you provide us with information, such as your name, email address, and interests. We ask for this in connection with registrations, promotions, and purchases so that we can tell you about upcoming features and products that you might be interested in.
 
 When you registered with us, you also let us know your preferences regarding receiving email from us as well as other companies that offer services for teachers. We honor your preferences, and you may alter them anytime by updating your information on our site.
 
