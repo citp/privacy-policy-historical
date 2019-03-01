@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iemoji.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813033852id_/http%3A//www.iemoji.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iemoji.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301110426id_/https%3A//www.iemoji.com/help/privacy) for the most accurate reproduction.*
 
 # 😍iEmoji.com - 👀Lookup, ✨Convert, and 💁Tweet with Emoji! 🔥
 
