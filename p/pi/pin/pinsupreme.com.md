@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinsupreme.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313005040id_/https%3A//pinsupreme.com/themes/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinsupreme.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301035327id_/https%3A//pinsupreme.com/themes/privacy) for the most accurate reproduction.*
 
 # Free Wordpress Templates and Premium Wordpress Themes
 
