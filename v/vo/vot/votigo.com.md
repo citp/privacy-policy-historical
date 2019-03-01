@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the votigo.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824192334id_/https%3A//www.votigo.com/corp/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the votigo.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301230652id_/https%3A//www.votigo.com/corp/privacy.php) for the most accurate reproduction.*
 
 # Votigo social media solutions - Privacy Policy
 
-At Votigo, Inc. we share your concerns about privacy while using the website found at [www.votigo.com](http://www.votigo.com/) (the "Site"). Accordingly we want you to understand what types of information we are collecting and what may happen to that information. This Privacy Policy is incorporated into and is subject to the Votigo [Terms of Use](https://web.archive.org/web/20180824192334id_/https%3A//www.votigo.com/corp/terms.php). Your use of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Policy and our Terms of Use.
+At Votigo, Inc. we share your concerns about privacy while using the website found at [www.votigo.com](http://www.votigo.com/) (the "Site"). Accordingly we want you to understand what types of information we are collecting and what may happen to that information. This Privacy Policy is incorporated into and is subject to the Votigo [Terms of Use](https://web.archive.org/web/20190301230652id_/https%3A//www.votigo.com/corp/terms.php). Your use of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Policy and our Terms of Use.
 
 **COLLECTION OF INFORMATION**
 
