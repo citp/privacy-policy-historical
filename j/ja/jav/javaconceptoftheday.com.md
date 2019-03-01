@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javaconceptoftheday.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093610id_/http%3A//javaconceptoftheday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javaconceptoftheday.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301233428id_/https%3A//javaconceptoftheday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Java Concept Of The Day
 
@@ -53,6 +53,6 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 This Privacy Policy was last updated on: Monday, Dec 01, 2014.  
 We update, amend or make any changes to our privacy policy. Those changes will be posted here.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us using [Contact Us Form](http://javaconceptoftheday.com/contact-us/ "Contact Us") or mail us at [pramodbablad@javaconceptoftheday.com](mailto:pramodbablad@javaconceptoftheday.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us using [Contact Us Form](https://javaconceptoftheday.com/contact-us/ "Contact Us") or mail us at [pramodbablad@javaconceptoftheday.com](mailto:pramodbablad@javaconceptoftheday.com).
 
 * * *
