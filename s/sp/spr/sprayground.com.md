@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprayground.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227184641id_/https%3A//sprayground.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprayground.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301114515id_/https%3A//sprayground.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – SPRAYGROUND®
 
