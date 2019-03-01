@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the watchtime.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914061615id_/http%3A//www.watchtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchtime.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301011117id_/https%3A//www.watchtime.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy › WatchTime - USA's No.1 Watch Magazine
+# Privacy Policy | WatchTime - USA's No.1 Watch Magazine
 
 WatchTime.com (“We”) are committed to protecting and respecting your privacy.
 
-By using WatchTime.com (“our site”), you are consenting to this Privacy Policy and to have your personal data transferred to and/or processed in the United States in accordance with the terms of this Privacy Policy, except in the case of data transfers from the EEA and Switzerland, which are covered under the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks. The data collection practices set out in this Privacy Policy are for the primary purpose of fulfilling your orders and providing customer support. Please do not use WatchTime.com if you do not agree with this policy and any other policies listed on WatchTime.com.  WatchTime.com complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. To learn more about the Safe Harbor program, and to view WatchTime.com’s certification, please visit http://www.export.gov/safeharbor/
+By using WatchTime.com (“our site”), you are consenting to this Privacy Policy and to have your personal data transferred to and/or processed in the United States in accordance with the terms of this Privacy Policy. The data collection practices set out in this Privacy Policy are for the primary purpose of fulfilling your orders and providing customer support. Please do not use WatchTime.com if you do not agree with this policy and any other policies listed on WatchTime.com.
 
 **A.              ****Information We Collect**
 
 1\.              Non-Personally Identifiable Information
 
-When you enter WatchTime.com, we collect certain non-personally identifiable information through the use of cookies and other similar technologies. Our use of such technologies is set forth in the [**Watchtime.com Cookie Disclosure**](http://www.watchtime.com/watchtime-com-cookie-disclosure/) which is incorporated by reference into this Privacy Policy.
+When you enter WatchTime.com, we collect certain non-personally identifiable information through the use of cookies and other similar technologies. Our use of such technologies is set forth in the [**Watchtime.com Cookie Disclosure**](https://www.watchtime.com/watchtime-com-cookie-disclosure/) which is incorporated by reference into this Privacy Policy.
 
 2\.              Personally Identifiable Information
 
@@ -56,7 +56,7 @@ WatchTime.com may periodically contact you using information supplied to the sit
 
 3\.              Access to and Ability to Correct Personal Data
 
-You have the right to review your personal data held by WatchTime.  You also have the right to modify, correct, change or update your personal information or cause your personal information to be deleted from WatchTime.com’s database upon request. All requests to view, change, update, or delete your personal information may be made via e-mail at [office@watchtime.com](mailto:office@watchtime.com) or via postal mail to Ebner Publishing International, Inc., 274 Madison Avenue, Suite 804, New York, NY 10016.
+You have the right to review your personal data held by WatchTime.  You also have the right to modify, correct, change or update your personal information or cause your personal information to be deleted from WatchTime.com’s database upon request. All requests to view, change, update, or delete your personal information may be made via e-mail at [office@watchtime.com](mailto:office@watchtime.com) or via postal mail to Ebner Publishing International, Inc., 37W 26th Street, Suite 412, New York, NY 10010.
 
 **C.              Disclosure of your Personal Information**
 
@@ -86,24 +86,12 @@ When you click on links or advertising, third parties may collect information fr
 
 **F.              Changes to Privacy Policy**
 
-We reserve the right to modify this Privacy Policy at any time, so please review it frequently and at least each time you submit personal information to WatchTime.com. If we make material changes to this policy, we will notify you here at [Privacy Policy URL], by e-mail, or by means of a notice on our homepage. The date of the most recent revisions will also appear on this page. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your interactions with WatchTime.com.
+We reserve the right to modify this Privacy Policy at any time, so please review it frequently and at least each time you submit personal information to WatchTime.com. If we make material changes to this policy, we will notify you here, by e-mail, or by means of a notice on our homepage. The date of the most recent revisions will also appear on this page. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your interactions with WatchTime.com.
 
 **G.             Questions**
 
-For questions or concerns regarding this Privacy Policy please e-mail us at [office@watchtime.com](mailto:office@watchtime.com).  Alternatively, you can write to us at: Ebner Publishing International, Inc., 274 Madison Avenue, Suite 804, New York, NY 10016.
+For questions or concerns regarding this Privacy Policy please e-mail us at [office@watchtime.com](mailto:office@watchtime.com).  Alternatively, you can write to us at: Ebner Publishing International, Inc., 37W 26th Street, Suite 412, New York, NY 10010.
 
-**H.**              **Privacy Complaints by European Union and Swiss Citizens**
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, WatchTime,com commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Experts Exchange, LLC at:
-
-Mail: Ebner Publishing International, Inc., Attn: Stephen Brown, 274 Madison Avenue, Suite 804, New York, NY 10016.
-
-Email: office@watchtime.com
-
-Telephone: +1-646-742-0740
-
-WatchTime.com has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by WatchTime.com, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
-
-Last Updated: October, 2013
+Last Updated: December, 2017
 
 See also:
