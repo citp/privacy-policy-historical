@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libaituan.com privacy policy that was archived on 2017-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170117201146id_/http%3A//www.libaituan.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libaituan.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301222415id_/http%3A//www.libaituan.com/privacypolicy.php) for the most accurate reproduction.*
 
 # DIRECTORY_TITLE - About Us
 
