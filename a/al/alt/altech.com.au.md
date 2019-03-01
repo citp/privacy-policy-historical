@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altech.com.au privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815015238id_/https%3A//acatana.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altech.com.au privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302004055id_/https%3A//acatana.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Acatana Online-Market. Electronics, Computers, Computer Parts, Led Lights
 
