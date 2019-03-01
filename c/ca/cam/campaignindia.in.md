@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the campaignindia.in privacy policy that was archived on 2012-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121017121345id_/http%3A//www.campaignindia.in/Page/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campaignindia.in privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301132422id_/https%3A//www.campaignindia.in/page/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Campaign India
+# Privacy Policy | Campaign India
 
-## Privacy and Data Protection
+##  Privacy and Data Protection
 
-Haymarket Media (India) Pvt Ltd ("Haymarket") is committed to protecting and respecting your privacy.
+This is the privacy policy of Haymarket Media (India) Pvt Ltd. ("Haymarket")
+
+Our contact details are as follows: Raheja Xion, 5th floor, Jetha Compound, Opposite Nirmal Park, Dr B. Ambedkar Marg, Byculla (East), Mumbai 400 027, India  Tel: 9122 23787400
+
+Haymarket is committed to protecting and respecting your privacy.
 
 This privacy policy sets out the basis on which your personal data will be processed by us as the data controller of your personal data for the purposes of data protection. Please read the following carefully to understand our views and practices regarding your personal data and how they will be treated by us. Information we may collect from you We may collect and process the following data about you:
 
@@ -78,14 +82,14 @@ The site may from time to time contain links to and from partner and/or affiliat
 
 Questions about this privacy policy can be addressed to [campaign@campaignindia.in](mailto:campaign@campaignindia.in)
 
-## Accessibility
+##  Accessibility
 
 Campaign India aims to provide advertising, marketing, media and PR information that is accessible to all user groups. The following features aim to enhance navigation for screen reader users, keyboard navigation and users of text-only browsers.
 
 **Structured, semantic markup**
 
-**  
-**This site's markup (HTML) is semantically correct, using HTML elements for their given purpose. Well structured HTML has semantic meaning for a wide range of user agents (browsers without style sheets, text browsers, PDAs, search engines etc.)
+  
+This site's markup (HTML) is semantically correct, using HTML elements for their given purpose. Well structured HTML has semantic meaning for a wide range of user agents (browsers without style sheets, text browsers, PDAs, search engines etc.)
 
   
 **Images**
@@ -106,7 +110,7 @@ This site uses Cascading Style Sheets (CSS) for visual layout. If your browser o
   
 All forms follow a logical Tab sequence.
 
-##   
+##    
 Job Advertisements
 
   
