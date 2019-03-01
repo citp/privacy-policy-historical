@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drfuhrman.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829171316id_/https%3A//www.drfuhrman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drfuhrman.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301133332id_/https%3A//www.drfuhrman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DrFuhrman.com
 
