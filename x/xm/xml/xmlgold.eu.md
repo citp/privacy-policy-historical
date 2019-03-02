@@ -1,69 +1,94 @@
-> *The following text is extracted and transformed from the xmlgold.eu privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918103130id_/http%3A//www.xmlgold.eu/en/site/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmlgold.eu privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302142955id_/https%3A//www.xmlgold.eu/en/site/cookies) for the most accurate reproduction.*
 
-# Policy Site
+# Cookies Site
 
-### Privacy Policy
+## COOKIE POLICY
 
-This policy describes the ways we collect, store, use and protect your personal information. You accepted this policy when you signed up for our Service. We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. In addition, if the revised version includes a substantial change, we will provide you with 30 days prior notice by posting notice of the change on XMLGold website.
+This policy describes our use of cookies. For our use of your personal data, please read out [Privacy Policy](https://web.archive.org/site/conditions/#privacy_policy/lang/en/)
 
-Throughout this policy, we use the term "Personal Information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been anonymized so that it does not identify a specific user.
+We use cookies and similar technologies as described in this Section. By consenting to this cookie notice, you agree that we can distinguish you from other users of our website and apps for the purposes set out below. This helps provide you with the services you have requested, good user experience, tailored content and interest-based adverts. For example, we can recognise and remember important information, such as preferred settings, that will make it more comfortable for you to browse our website.
 
-1\. Personal Information Collection  
-1.1. When you visit the XMLGold website, we collect your IP address and standard web log information, such as your browser type and the pages you accessed on our website.  
-1.2 If you open an account, we collect the following types of information from you:  
-    \- Contact information - your name, address, phone, email, instant messenger ID and other similar information.  
-    \- Financial information - the full bank account numbers and credit card numbers that you link to your XMLGold account.  
-1.3 Before permitting you to use our Service, we may require you to provide additional information we can use to verify your identity or address or manage risk, such as your date of birth, passport or other information. We may also obtain information about you from third parties such as credit bureaus and identity verification services.  
-1.4. When you are using our Service, we collect information about your account transactions and we may collect information about your computer or other access device for fraud prevention purposes.  
-1.5 Finally, we may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contact with our customer support team or store results when you respond to a survey.
+### What are Cookies and similar technologies?
 
-2\. Cookies  
-2.1. When you access our website, we, or companies we hire to track how our website is used, may place small data files called "cookies" on your computer.  
-2.2. We send a "session cookie" to your computer when you log in to your account. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don't need to ask you for your password on each page. Once you log out or close your browser, this cookie expires and no longer has any effect.  
-2.3. We also use longer-lasting cookies for other purposes such as to display your e-mail address on our sign-in form, so that you don't need to retype the e-mail address each time you log in to your account.  
-2.4. We encode our cookies so that only we can interpret the information stored in them. You are free to decline our cookies if your browser permits, but doing so may interfere with your use of our website. We may also collect information about your computer or other access device to mitigate risk and for fraud prevention purposes.
+A cookie is a small file of letters and numbers that we store via your browser on the hard drive of your computer or mobile device.
 
-3\. Personal Information Protection  
-3.1. We store and process your personal information on extremely secured dedicated servers, and we protect it by maintaining physical, electronic and procedural safeguards in compliance with applicable government regulations. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities.
+There are three main types of cookies:
 
-4\. Use of Personal Information  
-4.1. Our primary purpose in collecting personal information is to provide you with a secure, smooth, efficient, and customized experience. We may use your personal information to:  
-    \- provide the services and customer support you request;  
-    \- process transactions and send notices about your transactions;  
-    \- resolve disputes, collect fees, and troubleshoot problems;  
-    \- prevent potentially prohibited or illegal activities, and enforce our Terms of Service;  
-    \- customize, measure, and improve our services and the content and layout of our website;  
-    \- send you targeted marketing, service update notices, and promotional offers based on your communication preferences;  
-    \- compare information for accuracy and verify it with third parties.
+  * **Session cookies** : specific to a particular visit and limited to sending session identifiers (random numbers generated by the server) so you don't have to re-enter information when you navigate to a new page or check out. Session cookies are not permanently stored on your device and are deleted when the browser closes;
+  * **Persistent cookies** : record information about your preferences and are stored in your browser cache or mobile; and
+  * **Third party cookies** : placed by someone other than us which may gather data across multiple websites or sessions.
 
-5\. Sharing Information with XMLGold Users  
-5.1. To process your payments, we may need to share some of your personal information with the person or company that you are paying or is paying you. Your contact information, date of sign-up, the number of payments you have received from verified XMLGold users, and whether you have verified control of a bank account are provided to other XMLGold users who you transact with through XMLGold. Additionally, you can provide to XMLGold users any information about your account by filling in a special form My Account -> Profile -> Account -> Public Information.  
-5.2. If you are buying goods or services and pay through XMLGold, we may also provide the seller with your address to help complete your transaction with the seller. The seller is not allowed to use this information to market their services to you unless you have agreed to it. If an attempt to pay your seller fails, or is later invalidated, we may also provide your seller with details of the unsuccessful payment. To facilitate dispute resolutions, we may provide a buyer with the seller's address so that goods can be returned to the seller.  
-5.3. We work with merchants to enable them to accept payments from you using XMLGold. In doing so, a merchant may share information about you with us, such as your email address, when you attempt to pay that merchant. We use this information to confirm to that merchant that you are a XMLGold customer and that the merchant should enable XMLGold as a form of payment for your purchase. Also, if you request that we validate your status as an XMLGold customer with a third party, we will do so. Please note that merchants you buy from and contract with have their own privacy policies, and XMLGold may not be held responsible for their operations, including, but not limited to, their information practices.  
-5.4. Regardless, we will not disclose your credit card number or bank account number to anyone you have paid or who has paid you through XMLGold, except with your express permission or if we are required to do so to comply with a subpoena or other legal process.
 
-6\. Sharing Information with Other Parties  
-6.1. We may share your personal information with:  
-    \- Members of the XMLGold Inc. corporate family -- to provide joint content and services (like registration, transactions and customer support), to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will use this information to send you marketing communications only if you have requested their services.  
-    \- Service providers under contract who help with parts of our business operations; (fraud prevention, bill collection, marketing, technology services). Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.  
-    \- Financial institutions that we partner with to jointly create and offer a product such as the XMLGold credit card where we share information with partner bank to determine whether you should receive pre-approved offers for the XMLGold credit card. These financial institutions may only use this information to market XMLGold-related products, unless you have given consent for other uses.  
-    \- Credit bureaus to report account information, as permitted by law.  
-    \- Banking partners as required by credit card association rules for inclusion on their list of terminated merchants (in the event that you meet their criteria which includes having XMLGold close your XMLGold Account due to your breach of the XMLGold Terms of Service).  
-    \- Companies that we plan to merge with or be acquired by. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information could be used contrary to this policy, you will receive prior notice.)  
-    \- Law enforcement, government officials, or other third parties when   
-        a) we are compelled to do so by a subpoena, court order or similar legal procedure  
-        b) we need to do so to comply with law  
-        c) we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our Terms of Service.  
-    \- Other third parties with your consent or direction to do so.  
-6.2. XMLGold will not sell or rent any of your personal information to third parties for their marketing purposes and only shares your personal information with third parties as described in this policy.  
-6.3. If you open an XMLGold account directly on a third party website or application, any information that you enter on that website or application (and not directly on an XMLGold website) will be shared with the owner of the third party website or application.
 
-7\. Restrict from Sharing your Personal Information  
-7.1. Federal and state laws allow you to restrict the sharing of your personal information in certain instances. However, these laws also state that you cannot restrict other types of sharing. Because we have chosen to refrain from certain types of data sharing, the only type of sharing of your personal information that you may restrict is as follows:  
-7.2. You can also control how we use your contact information to market our services to you in the notifications preferences.
+We may also automatically collect and store certain information about your interaction with our Website or app including IP address, browser type, internet service provider, referring/exit pages, operating system, date/time stamps and related data.
 
-8\. Accessing and Changing your Personal Information  
-You can review and edit your personal information at any time by logging in to your account and clicking the Profile link.
+### Other technologies
 
-9\. Contact Us About Privacy Questions  
-If you have questions or concerns regarding this policy, you should contact us by using this form.
+In addition to cookies, we may use some other similar technologies as follows:
+
+  * **Web Beacons** : small graphic images included on our website or emails or those of third parties to provide analytics information
+  * **Social widgets** : buttons or icons provided by third party social media networks which may collect browsing data and will be received by the third party and are controlled by the third party
+  * **SDKs** : these are mobile application third party software development kits used in our apps. They enable us to collect information about app activity and the device it runs on.
+  * **Local shared objects** : these are sometimes called flash cookies and can be stored on your browser. They are used to maintain preferences and usage records.
+
+
+
+### Cookies we use
+
+Name of Cookie | Why we use it | Expiration | Essential? (yes/no)  
+---|---|---|---  
+NG_TRANSLATE_LANG_KEY | Website and personal account language | 1 year | Yes  
+_token | Authorization token. It’s necessary for access to the ePayments personal account | Session | Yes  
+cookiePolicy | Cookie notification flag | 1 month | Yes  
+survey | Option to display targeted user’s survey | Session | Yes  
+userid | The unique identifier of the authorized ePayments user. Used to link client activities on the website with third-party analytics systems | Session | Yes  
+promocode | An encrypted parameter that is used to associate a client with a specific affiliate link | 7 days | Yes  
+iv | Initialization Vector. Used to decrypt the “promocode” cookie | 7 days | Yes  
+clickid | The identifier of the user's click, which is assigned after the transition through the affiliate link. Statistics are collected according to this parameter | 1 month | Yes  
+tags | UTM tags for detailed tracking of the affiliate link source | 1 month | Yes  
+  
+### Third party cookies
+
+Name of cookie | Why it is used | Company | Third party privacy policies | User controls | Essential? (yes/no)  
+---|---|---|---|---|---  
+Facebook | Advertising /Marketing/social media functionality | Facebook | [Find out more](https://www.facebook.com/about/privacy/update) | Through browser settings | No  
+Google Analytics | Advertising /Marketing | Google | [Find out more](https://policies.google.com/privacy/update) | Through browser settings | No  
+Mixpanel | Mobile analytics | Mixpanel | [Find out more](https://mixpanel.com/legal/privacy-policy/) | Through browser settings | No  
+Yandex.Metrika | Advertising /Marketing | Yandex | [Find out more](https://yandex.ru/legal/confidential/) | Through browser settings | No  
+Hubspot | Advertising /Marketing | Hubspot | [Find out more](https://legal.hubspot.com/privacy-policy) | Through browser settings | No  
+Survicate | User survey | Survicate | [Find out more](https://help.survicate.com/account-and-billing/privacy-policy) | Through browser settings | No  
+Intercom | Live chat | Intercom | [Find out more](https://www.intercom.com/terms-and-policies#privacy) | Through browser settings | No  
+  
+### Other similar technologies used in our apps
+
+Name | Why we use it | Third party privacy policy | User control  
+---|---|---|---  
+Mixpanel | Marketing push notifications (iOS and Android), A/B testing | [Find out more](https://mixpanel.com/legal/privacy-policy/) | [Find out more](https://help.mixpanel.com/hc/articles/360000679006-Managing-Personal-Information)  
+  
+You acknowledge that where we allow the third parties identified above to drop cookies, we have no control over those cookies or the data generated. Please refer to the third party's privacy policy for information on what information they collect and how they use it.
+
+### Refusing or deleting cookies
+
+Please click on the following links to adjust your browser settings:
+
+  * [Internet Explorer](https://support.microsoft.com/help/278835/how-to-delete-cookie-files-in-internet-explorer)
+  * [Google Chrome](https://support.google.com/chrome/answer/95647)
+  * [Mozilla](https://support.mozilla.org/kb/delete-cookies-remove-info-websites-stored)
+  * [Firefox](https://support.mozilla.org/kb/delete-cookies-remove-info-websites-stored)
+  * [Safari](https://support.apple.com/kb/ph21411)
+
+
+
+Please note that you may not be able to take advantage of all features of our Website or apps if you delete or refuse cookies.
+
+### Mobile Opt-out
+
+If you access our services through our Apps, you can enable a "do not track" feature so as to control interest-based advertising on an iOS or Android mobile device by selecting the Limit Add Tracking option in the privacy section of your Settings on iOS or via advertising preferences on Android devices (e.g. in Google Settings). This will not prevent the display of advertisements but will mean that they will no longer be personalised to your interests.
+
+To opt out of Google Analytics, visit <https://tools.google.com/dlpage/gaoptout>.
+
+For more information on managing cookies, please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+### If you are a resident in the EU:
+
+For more information on managing cookies, please visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) which has further information about behavioral advertising and online privacy.
