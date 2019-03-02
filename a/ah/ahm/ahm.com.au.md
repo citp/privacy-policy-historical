@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309214746id_/https%3A//ahm.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302030734id_/https%3A//ahm.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Cheap private health insurance - ahm health insurance
+# Privacy Policy - ahm health insurance
 
 #### Who are we?
 
 We are Medibank Private Limited ABN 47 080890 259 (Medibank) and Australian Health Management Group Pty Ltd ABN 96 003 683 298 (ahm), a subsidiary of Medibank. References to ‘us’, ‘we’ or ‘our’ include Medibank, ahm and, where the context requires, other Medibank subsidiaries (collectively Medibank Group Companies).
+
+##### Your kids and privacy:
+
+You may not realise, but your kids have a legal right to privacy once they turn 16. That’s why ahm needs the contact details for your children once they turn 16, so we can make sure they’re okay with you viewing their extras claims history. If your child doesn’t consent, then you’ll no longer be able to see their extras claims history. You can find out more in the [Member Guide](https://static.ahm.com.au/files/help/member-guide.pdf) or by [getting in touch with us](https://web.archive.org/contact-us).
 
 #### Who does this policy apply to?
 
@@ -202,13 +206,17 @@ Medibank: Privacy Officer, Medibank Private Limited, 16/700 Collins Street, Dock
 
 Australian Health Management Group: Privacy Officer, ahm health insurance, Locked Bag 4, Wetherill Park NSW 2164 or e-mail [privacy@ahm.com.au](mailto:privacy@ahm.com.au)
 
+#### Your kids and privacy
+
+You may not realise, but your kids have a legal right to privacy once they turn 16. That’s why ahm needs the contact details for your children once they turn 16, so we can make sure they’re okay with you viewing their extras claims history. If your child doesn’t consent, then you’ll no longer be able to see their extras claims history. You can find out more in the [Member Guide](https://static.ahm.com.au/files/help/member-guide.pdf) or by [getting in touch with us](https://web.archive.org/contact-us).
+
 #### Further information
 
 Further information about the application of the Privacy Act can be found at the website of the Office of the Australian Information Commissioner at [www.privacy.gov.au](http://www.oaic.gov.au/).
 
 #### Changes to our Privacy Policy
 
-This privacy policy was last reviewed in March 2014. As this privacy policy is updated from time to time, to obtain a copy of the latest version at any time, you should visit our website at [www.medibank.com.au](https://www.medibank.com.au/) or [www.ahm.com.au](http://www.ahm.com.au/)
+This privacy policy was last reviewed in March 2014. As this privacy policy is updated from time to time, to obtain a copy of the latest version at any time, you should visit our website at [www.medibank.com.au](https://www.medibank.com.au/) or [ahm.com.au](http://ahm.com.au/)
 
 #### Countries to which personal information may be disclosed
 
