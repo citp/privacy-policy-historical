@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkthroughmath.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824082430id_/https%3A//d6903qs6vntwn.cloudfront.net/pdf/Imagine-Learning-Site-Privacy-Policy_6-16-17.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkthroughmath.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302152901id_/https%3A//d6903qs6vntwn.cloudfront.net/pdf/Imagine-Learning-Site-Privacy-Policy_6-16-17.pdf) for the most accurate reproduction.*
 
 # Imagine Learning
 
