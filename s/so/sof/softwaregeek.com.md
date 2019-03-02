@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwaregeek.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608014204id_/http%3A//www.softwaregeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaregeek.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302132906id_/https%3A//www.softwaregeek.com/privacy) for the most accurate reproduction.*
 
 # Software Geek - Free Software Downloads and Reviews - Privacy Policy
 
