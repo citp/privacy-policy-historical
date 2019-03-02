@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reciperoost.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123094855id_/https%3A//reciperoost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reciperoost.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303005215id_/https%3A//reciperoost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Recipe Roost
 
@@ -6,13 +6,13 @@ We know that you care how your information is used, and we appreciate your trust
 
 **1\. What Personal Information Do We Collect?**
 
-    * Information You Provide. We receive and store information you enter.For example, when you search for or buy a product or service, or when you supply information such as your address, phone number or credit card. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features.
+    * Information You Provide. We receive and store information you enter.For example, when you search for or buy a product or service, or when you supply information such as your address, phone number or credit card. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features. 
 
 We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you. In addition, if you choose, we may share your information with other companies who provide goods or services that you are interested in.
 
 Please see the “opt-in/opt-out” selection in Section 4 of this policy.
 
-    * Cookies. Like many websites, we use “cookies”. Cookies are small programs that we transfer to your hard drive that allow us to recognize you and to provide you with a customized shopping experience.
+    * Cookies. Like many websites, we use “cookies”. Cookies are small programs that we transfer to your hard drive that allow us to recognize you and to provide you with a customized shopping experience. 
 
 If you do not want us to use cookies, you can easily disable them by going to the toolbar of your web browser, and clicking on the “help” button. Follow the instructions that will prevent the browser from accepting cookies, or set the browser to inform you when you receive a new cookie. In addition, you may visit this and other websites anonymously through the use of utilities provided by other private companies.
 
@@ -23,7 +23,7 @@ If you do not want us to use cookies, you can easily disable them by going to th
 
 
 
- **2\. How Do We Use Your Information?**
+**2\. How Do We Use Your Information?**
 
   * Customized Shopping. We use your information to better serve you by providing a customized shopping experience. As noted above, you may “opt-out” of this customization, or even visit and shop anonymously.
   * Agents. We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
@@ -33,7 +33,7 @@ If you do not want us to use cookies, you can easily disable them by going to th
 
 
 
- **3\. Your Choice: Opt-in or Opt-out.**
+**3\. Your Choice: Opt-in or Opt-out.**
 
 It is your choice whether to receive emails or special offers from us or others. The following section provides you with this choice. Please note the default settings.
 
@@ -44,11 +44,11 @@ It is your choice whether to receive emails or special offers from us or others.
 
 
 
- **4\. Children**
+**4\. Children**
 
 We do not sell products or services to children. If you are under 18, you may use this site only with involvement of a parent or guardian.
 
- **5\. Other Websites**
+**5\. Other Websites**
 
 Various Web sites may be linked to from this site. If you link to another site, your privacy depends on the policy of that site. We strongly urge you to check their privacy policy. Not all sites guarantee that they will not share your personally identifiable information with others. You may also wish to consult privacy guidelines such as those recommended by the Online Privacy Alliance (www.privacyalliance.org).
 
@@ -56,4 +56,4 @@ Various Web sites may be linked to from this site. If you link to another site, 
 
 If you would like to learn more about our privacy policy, or to access your personally identifiable information contained on our website, you may contact us for assistance at our Support Desk.
 
- **No portion of this website can be copied without written permission from the author.**
+**No portion of this website can be copied without written permission from the author.**
