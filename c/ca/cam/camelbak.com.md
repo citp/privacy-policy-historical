@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the camelbak.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925181454id_/https%3A//www.camelbak.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camelbak.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302210626id_/https%3A//www.camelbak.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — CamelBak
 
 ## camelbak privacy policy
 
-_Effective June 28th, 2018_  
-
+_Effective June 28th, 2018_
 
 This Privacy Policy applies to the CamelBak Site.  The CamelBak Site is owned and operated by CamelBak Products LLC (“CamelBak”). 
 
@@ -68,7 +67,7 @@ Except as described in this Privacy Policy, we will not sell, rent, or intention
 
 __Affiliate Brands and Companies__
 
-In the normal course of performing the Services, Personal Information may be shared with other CamelBak affiliated brands and companies. All affiliated brands and companies will follow this Privacy Policy with regard to how your Personal Information is used and shared.
+If you choose to opt-in to receive information from us, we may share your information with our affiliated brands, parent company, and its subsidiaries or affiliated entities/partners ("Affiliated Entities") for purposes of sending you advertising/promotional material, discounts, newsletters, product launches, etc.  We will not transfer your information outside the Vista Outdoor organization except as otherwise described in this Privacy Policy.
 
 __Third Parties.__
 
@@ -112,7 +111,7 @@ You may choose not to provide us with some types of Personal Information. Howeve
 
 **10. Terms and Conditions of Access and Use.**
 
-Please review our [Terms and Conditions of Access and ](https://web.archive.org/en/legal/terms-and-conditions)[Use](https://web.archive.org/en/legal/terms-and-conditions), which also governs your visit to the CamelBak Site. [](https://web.archive.org/en/legal/terms-and-conditions), which also governs your visit to the CamelBak Site. 
+Please review our [Terms and Conditions of Access and ](https://web.archive.org/en/legal/terms-and-conditions)[Use](https://web.archive.org/en/legal/terms-and-conditions), which also governs your visit to the CamelBak Site. , which also governs your visit to the CamelBak Site. 
 
 **11\. Updates and Changes to Privacy Policy.**
 
@@ -122,4 +121,17 @@ We reserve the right, at any time and without notice, to add to, change, update 
 
 Should you have other questions or concerns about our Privacy Policy, including requests to review or update inaccurate Personal Information, or complaints that the Privacy Policy isn’t being followed, please write to us: Legal Department, CamelBak, 2000 S. McDowell Blvd., Suite 200, Petaluma, California 94954.
 
+**13\. California Residents.**
+
 If you are a California resident, and you would like to know what Personal Information was disclosed to third parties in the last 12 months, and wish to know who those third parties are, please write to us:  Legal Department, CamelBak, 2000 S. McDowell Blvd., Suite 200, Petaluma, California 94954.
+
+**14\. European Economic Area Resident Rights.**
+
+The information about you that we collect, process, and/or use is controlled by CamelBak in the United States of America.  The site is hosted outside the European Economic Area.  The information you provide is transmitted to the United States of America, and is stored and processed in the United States of America.  If you are a resident of the European Economic Area, you have the following data protection rights:
+
+  * If you wish to access, correct, update, or request deletion of your personal information, you can do so at any time by clicking [Contact Us](https://vistaoutdoor.com/contact-us/). 
+  * In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information.  Again, you can exercise these rights by clicking [Contact Us](https://vistaoutdoor.com/contact-us/).  
+  * If we have collected or processed your personal information with your consent, you can withdraw your consent at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.  You can withdraw your consent by selecting “Personal Information / Opt Out” at out [Contact Us](https://vistaoutdoor.com/contact-us/) page
+  * You have the right to complain to a data protection authority about our collection and use of your personal information.  For more information, please contact your local data protection authority.
+
+
