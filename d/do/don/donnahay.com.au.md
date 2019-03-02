@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donnahay.com.au privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230071658id_/https%3A//www.donnahay.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donnahay.com.au privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302164610id_/https%3A//www.donnahay.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Donna Hay
 
