@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popmythology.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227102459id_/http%3A//www.popmythology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popmythology.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302050956id_/https%3A//www.popmythology.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pop Mythology
+# Privacy Policy – Pop Mythology
 
 #### Amazon Associates Program Disclaimer
 
