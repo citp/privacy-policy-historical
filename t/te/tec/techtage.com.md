@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtage.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606205621id_/https%3A//techtage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtage.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302084111id_/https%3A//techtage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechTage
 
