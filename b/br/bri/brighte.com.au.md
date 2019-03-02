@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brighte.com.au privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908211933id_/http%3A//www.brighte.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighte.com.au privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302120945id_/https%3A//brighte.com.au/privacy) for the most accurate reproduction.*
 
-# Brighte - Paying made easy
+# Brighte Privacy - Brighte
 
-[Download this document as a PDF](https://d3vzgycxkjhxkh.cloudfront.net/wp-content/uploads/privacy.pdf)
+[Download this document as a PDF](https://web.archive.org/web/20190302120945id_/https://brighte.com.au/wp-content/uploads/2018/10/privacy.pdf)
 
 ## Privacy Policy and Credit Reporting Privacy Policy
 
