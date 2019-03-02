@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the curvyclothing.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904043305id_/https%3A//curvyclothing.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curvyclothing.com.au privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302142325id_/https%3A//curvyclothing.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Curvy Clothing
 
 Privacy Policy  
-Privacy Statement for CurvyClothing.com.au CurvyClothing.com.au has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.curvyclothing.com.au
-
-Return Policy  
-We have 14 days Return policy, all items must be returned in their original condition, smoke and odor free or the items will be returned to you. (Sale and Bridal Merchandise are returnable for store credit only) 
+Privacy Statement for CurvyClothing.com.au has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.curvyclothing.com.au
 
 Registration  
 Our site's registration form requires users to give us customer contact information. We use customer contact information from the registration form to send the user information about our company and to communicate order information. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.  
