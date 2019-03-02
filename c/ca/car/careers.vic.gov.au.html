@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the careers.vic.gov.au privacy policy that was archived on 2018-09-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180904044403id_/https%3A//careers.vic.gov.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careers.vic.gov.au privacy policy that was archived on 2019-03-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190302111725id_/https%3A//www.careers.vic.gov.au/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head profile="http://www.w3.org/2005/10/profile">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head profile="http://www.w3.org/2005/10/profile">
     <meta http-equiv="Expires" content="7">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -36,6 +36,7 @@
 <link href="/Client/css/dev-style.css" rel="stylesheet">
 <link href="/Client/theme/css/owl.carousel.min.css" rel="stylesheet">
 <link href="/Client/theme/css/fa-svg-with-js.css" rel="stylesheet">
+<link href="/Client/css/accessibility.css" rel="stylesheet">
 
     <style>
         .fa-refresh:before {
@@ -58,7 +59,12 @@
         .elementFocus{
             outline-color: #642667 !important;
             outline: -webkit-focus-ring-color auto 5px;
-        } 
+        }
+
+        a:focus, button:focus, input:focus, .box-icon:focus {
+            outline: 2px solid blue;
+            outline-offset: 0;
+        }
     </style>
     <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700" rel="stylesheet">
 
@@ -111,12 +117,12 @@
     <div class="top-header">
         <div class="container">
             <div class="box-logo-header">
-                    <a href="http://www.vic.gov.au/" class="pull-left txt-logo" target="_blank" aria-label="CareersVic Logo" title="CareersVic Logo" tabindex="1">
-                        <img src="/Client/theme/images/logo.png" alt="Great jobs and careers with Victoria Government Logo">
+                    <a href="http://www.vic.gov.au/" class="pull-left txt-logo" target="_blank" tabindex="1">
+                        <img src="/Client/theme/images/logo.png" alt="Victoria Government Logo – links to Victoria Government homepage">
                     </a>
                     <span class="line"></span>
-                    <a href="/" class="pull-left txt-logo" tabindex="2">
-                        <!--<img src="/Client/theme/images/logo-demo.png" alt="Great jobs and careers with Victoria Government Logo">-->
+                    <a href="https://careers.vic.gov.au" class="pull-left txt-logo" tabindex="2">
+                        <!--<img src="/Client/theme/images/logo-demo.png" alt="Victoria Government Logo – links to Victoria Government homepage">-->
                         CAREERS.VIC
                     </a>
             </div>
@@ -127,21 +133,18 @@
     <ul class="clearfix level-1">
         <li class="pull-left cssFlyoutMenu" id="pull-left1" attrid="dc6a10b6-e156-47c1-be3d-c46b4ac782e9-FlyoutMenu" attrparentid="" attrpos="1" attrlastitem="False" attrchild="True">
 
-                <a href="#" style="cursor:inherit;" title="About" tabindex="3">About</a>
-                            <span class="toggle-menu mobile-tablet"><i class="fas fa-chevron-down "></i></span>
+                <a class="markToRemoveIndex" href="#" style="cursor:inherit;" title="About" tabindex="3">About</a>
+                            <span class="toggle-menu mobile-tablet" role="button" aria-label="Click to expand or collapse About" aria-hidden="false"><i class="fas fa-chevron-down "></i></span>
                             <ul class="level-2" id="flyout_ul_dc6a10b6-e156-47c1-be3d-c46b4ac782e9-FlyoutMenu">
                             <li class="menu-child cssFlyoutMenu" id="menu-child1" attrid="2a65e191-079b-449d-8e04-9d8a413dc0b1-FlyoutMenu" attrparentid="dc6a10b6-e156-47c1-be3d-c46b4ac782e9-FlyoutMenu" attrpos="1" attrlastitem="False" attrchild="False">
 
                 <a href="https://careers.vic.gov.au/careers-vic" title="Careers.Vic" tabindex="4">Careers.Vic</a>
                                 </li>
-        <li class="menu-child cssFlyoutMenu" id="menu-child2" attrid="76ef49d1-f499-4904-88b6-f3fa5c790e0b-FlyoutMenu" attrparentid="dc6a10b6-e156-47c1-be3d-c46b4ac782e9-FlyoutMenu" attrpos="2" attrlastitem="True" attrchild="True">
+        <li class="menu-child cssFlyoutMenu" id="menu-child2" attrid="76ef49d1-f499-4904-88b6-f3fa5c790e0b-FlyoutMenu" attrparentid="dc6a10b6-e156-47c1-be3d-c46b4ac782e9-FlyoutMenu" attrpos="2" attrlastitem="True" attrchild="False">
 
                 <a href="https://careers.vic.gov.au/victorian-public-sector" title="Vic public sector" tabindex="5">Vic public sector</a>
-                            <span class="toggle-menu mobile-tablet"><i class="fas fa-chevron-down "></i></span>
-                            <ul class="level-3" id="flyout_ul_76ef49d1-f499-4904-88b6-f3fa5c790e0b-FlyoutMenu">
-                    
-                </ul>
-        </li>
+                            <span class="toggle-menu mobile-tablet" role="button" aria-label="Click to expand or collapse Vic public sector" aria-hidden="false"><i class="fas fa-chevron-down "></i></span>
+                    </li>
 
                 </ul>
         </li>
@@ -149,24 +152,26 @@
 
                 <a href="https://careers.vic.gov.au/contact-us" title="Contact us" tabindex="6">Contact us</a>
                                 </li>
-        <li class="pull-left cssFlyoutMenu" id="pull-left3" attrid="6cbd4830-d061-4a4b-a4a4-d0ee71f0c2cb-FlyoutMenu" attrparentid="" attrpos="3" attrlastitem="False" attrchild="True">
+        <li class="pull-left cssFlyoutMenu" id="pull-left3" attrid="6cbd4830-d061-4a4b-a4a4-d0ee71f0c2cb-FlyoutMenu" attrparentid="" attrpos="3" attrlastitem="True" attrchild="True">
 
-                <a href="#" style="cursor:inherit;" title="Sign in" tabindex="7">Sign in</a>
-                            <span class="toggle-menu mobile-tablet"><i class="fas fa-chevron-down "></i></span>
+                <a class="markToRemoveIndex" href="#" style="cursor:inherit;" title="Sign in" tabindex="7">Sign in</a>
+                            <span class="toggle-menu mobile-tablet" role="button" aria-label="Click to expand or collapse Sign in" aria-hidden="false"><i class="fas fa-chevron-down "></i></span>
                             <ul class="level-2" id="flyout_ul_6cbd4830-d061-4a4b-a4a4-d0ee71f0c2cb-FlyoutMenu">
-                            <li class="menu-child cssFlyoutMenu" id="menu-child1" attrid="94769511-401c-449f-8cf0-8153dbc74294-FlyoutMenu" attrparentid="6cbd4830-d061-4a4b-a4a4-d0ee71f0c2cb-FlyoutMenu" attrpos="1" attrlastitem="False" attrchild="False">
+                            <li class="menu-child cssFlyoutMenu" id="menu-child1" attrid="d4636ee1-9e68-4501-aace-92b14e0e30a2-FlyoutMenu" attrparentid="6cbd4830-d061-4a4b-a4a4-d0ee71f0c2cb-FlyoutMenu" attrpos="1" attrlastitem="False" attrchild="False">
 
-                <a href="https://careers.vic.gov.au/job-alert-signin" title="Job alerts" tabindex="8">Job alerts</a>
+                <a href="https://careers.vic.gov.au/job-application-system-signin" title="Job applications" tabindex="8">Job applications</a>
                                 </li>
-        <li class="menu-child cssFlyoutMenu" id="menu-child2" attrid="d4636ee1-9e68-4501-aace-92b14e0e30a2-FlyoutMenu" attrparentid="6cbd4830-d061-4a4b-a4a4-d0ee71f0c2cb-FlyoutMenu" attrpos="2" attrlastitem="True" attrchild="False">
+        <li class="menu-child cssFlyoutMenu" id="menu-child2" attrid="94769511-401c-449f-8cf0-8153dbc74294-FlyoutMenu" attrparentid="6cbd4830-d061-4a4b-a4a4-d0ee71f0c2cb-FlyoutMenu" attrpos="2" attrlastitem="True" attrchild="False">
 
-                <a href="https://careers.vic.gov.au/job-application-system-signin" title="Job applications" tabindex="9">Job applications</a>
+                <a href="https://careers.vic.gov.au/job-alert-signin" title="Job alerts" tabindex="9">Job alerts</a>
                                 </li>
 
                 </ul>
         </li>
     </ul>
 </div>
+
+
 
                 
                 <!--list-top--->
@@ -181,60 +186,66 @@
 
 
 
+
 <div class="main">
     <div class="container">
         <div class="moduletable_menu main-menu">
-            <i class="fa fa-bars icon-menu" aria-hidden="true"></i>
-            <div class="box-menu menu_topnav">
-                <ul class="menu_topnav">
+
+            <button class="navbar-toggler mobile icon-menu" type="button" tabindex="10" data-toggle="collapse" data-target="#Navbar" aria-controls="Navbar" aria-expanded="false" aria-label="Toggle navigation" aria-hidden="false">
+                <i class="fa fa-bars" aria-hidden="true"></i>Menu
+            </button>
+            <div class="box-menu menu_topnav" id="Navbar">
+                <ul class="menu_topnav" role="navigation" aria-label="Primary navigation">
+
                     <li class="mobile-tablet mobile-tablet-1">
-                            <a href="http://www.vic.gov.au/" class="pull-left txt-logo" target="_blank" tabindex="10">
+                            <a href="http://www.vic.gov.au/" class="pull-left txt-logo" target="_blank" tabindex="11">
                                 <img src="/Client/theme/images/logo.png" alt="Great jobs and careers with Victoria Government Logo">
                             </a>
                             <span class="line"></span>
-                            <a href="/" class="pull-left txt-logo" tabindex="11">                                
+                            <a href="https://careers.vic.gov.au" class="pull-left txt-logo" tabindex="12">
                                 CAREERS.VIC
                             </a>
-                        <div class="pull-right close-menu-mobile "><i class="fas fa-times"></i></div>
+                        <div class="pull-right close-menu-mobile"><i class="fas fa-times" aria-label="Click to close." aria-hidden="false" role="button" tabindex="1"></i></div>
                     </li>
                     <li class="mobile-tablet clearfix">
                     </li>
         <li class="li-level-1">
-            <a href="https://careers.vic.gov.au/" title="Job search" tabindex="12">Job search </a>
+                <i aria-hidden="true" class="home-icon"></i>
+            <a href="https://careers.vic.gov.au/" tabindex="13">Job search </a>
                     </li>
         <li class="li-level-1">
-            <a href="https://careers.vic.gov.au/why-work-for-vic" title="Why work for Vic" tabindex="13">Why work for Vic </a>
+            <a href="https://careers.vic.gov.au/why-work-for-vic" tabindex="14">Why work for Vic </a>
                     </li>
         <li class="li-level-1">
-            <a href="https://careers.vic.gov.au/our-people" title="Our people" tabindex="14">Our people </a>
+            <a href="https://careers.vic.gov.au/our-people" tabindex="15">Our people </a>
                     </li>
         <li class="li-level-1">
-            <a href="https://careers.vic.gov.au/career-pathways" title="Career pathways" tabindex="15">Career pathways </a>
+            <a href="https://careers.vic.gov.au/career-pathways" tabindex="16">Career pathways </a>
                     </li>
         <li class="li-level-1">
-            <a href="https://careers.vic.gov.au/how-to-apply" title="How to apply" tabindex="16">How to apply </a>
-                <span class="toggle-menu mobile-tablet"><i class="fas fa-chevron-down "></i></span>
+            <a href="https://careers.vic.gov.au/how-to-apply" tabindex="17">How to apply </a>
+                <span class="toggle-menu mobile-tablet" role="button" aria-label="Click to expand or collapse How to apply" aria-hidden="false"><i class="fas fa-chevron-down "></i></span>
                             <ul class="level-2">
                             <li class="li-level-2">
-            <a href="https://careers.vic.gov.au/how-to-apply/preparing-application" title="Preparing your application" tabindex="17">Preparing your application </a>
+            <a href="https://careers.vic.gov.au/how-to-apply/preparing-application" tabindex="18">Preparing your application </a>
                     </li>
         <li class="li-level-2">
-            <a href="https://careers.vic.gov.au/how-to-apply/how-to-reply-to-selection-criteria" title="How to reply to selection criteria" tabindex="18">How to reply to selection criteria </a>
+            <a href="https://careers.vic.gov.au/how-to-apply/how-to-reply-to-selection-criteria" tabindex="19">How to reply to selection criteria </a>
                     </li>
         <li class="li-level-2">
-            <a href="https://careers.vic.gov.au/how-to-apply/job-application-checklist" title="Job application checklist" tabindex="19">Job application checklist </a>
+            <a href="https://careers.vic.gov.au/how-to-apply/job-application-checklist" tabindex="20">Job application checklist </a>
                     </li>
         <li class="li-level-2">
-            <a href="https://careers.vic.gov.au/how-to-apply/what-happens-after-you-apply" title="What happens after you apply" tabindex="20">What happens after you apply </a>
+            <a href="https://careers.vic.gov.au/how-to-apply/what-happens-after-you-apply" tabindex="21">What happens after you apply </a>
                     </li>
         <li class="li-level-2">
-            <a href="https://careers.vic.gov.au/how-to-apply/checks-we-need-to-make" title="Checks we need to make" tabindex="21">Checks we need to make </a>
+            <a href="https://careers.vic.gov.au/how-to-apply/checks-we-need-to-make" tabindex="22">Checks we need to make </a>
                     </li>
         <li class="li-level-2">
-            <a href="https://careers.vic.gov.au/how-to-apply/Interview-tips" title="Interview tips" tabindex="22">Interview tips </a>
+            <a href="https://careers.vic.gov.au/how-to-apply/Interview-tips" tabindex="23">Interview tips </a>
                     </li>
         <li class="li-level-2">
-            <a href="https://careers.vic.gov.au/how-to-apply/help" title="Getting help" tabindex="23">Getting help </a>
+            <a href="https://careers.vic.gov.au/how-to-apply/help" tabindex="24">Getting help </a>
                     </li>
 
                 </ul>
@@ -245,29 +256,29 @@
 
 
         <li class="mobile-tablet li-level-1">
-                <a href="#" style="cursor:inherit;" title="About" tabindex="24">About</a>
+                <a href="#" style="cursor:inherit;" tabindex="25">About</a>
             
-                <span class="toggle-menu mobile-tablet"><i class="fas fa-chevron-down "></i></span>
+                <span class="toggle-menu mobile-tablet" role="button" aria-label="Click to expand or collapse About" aria-hidden="false"><i class="fas fa-chevron-down "></i></span>
                             <ul class="level-2">
                             <li class="mobile-tablet li-level-2">
-                <a href="https://careers.vic.gov.au/careers-vic" title="Careers.Vic" tabindex="25">Careers.Vic</a>
+                <a href="https://careers.vic.gov.au/careers-vic" tabindex="26">Careers.Vic</a>
             
                     </li>
         <li class="mobile-tablet li-level-2">
-                <a href="https://careers.vic.gov.au/victorian-public-sector" title="Vic public sector" tabindex="26">Vic public sector</a>
+                <a href="https://careers.vic.gov.au/victorian-public-sector" tabindex="27">Vic public sector</a>
             
-                <span class="toggle-menu mobile-tablet"><i class="fas fa-chevron-down "></i></span>
+                <span class="toggle-menu mobile-tablet" role="button" aria-label="Click to expand or collapse Vic public sector" aria-hidden="false"><i class="fas fa-chevron-down "></i></span>
                             <ul class="level-3">
                             <li class="mobile-tablet li-level-3">
-                <a href="https://careers.vic.gov.au/victorian-public-sector/public-sector-values-integrity" title="Public sector values and integrity" tabindex="27">Public sector values and integrity</a>
+                <a href="https://careers.vic.gov.au/victorian-public-sector/public-sector-values-integrity" tabindex="28">Public sector values and integrity</a>
             
                     </li>
         <li class="mobile-tablet li-level-3">
-                <a href="https://careers.vic.gov.au/victorian-public-sector/grades-salaries-benefits" title="Grades, salaries and benefits" tabindex="28">Grades, salaries and benefits</a>
+                <a href="https://careers.vic.gov.au/victorian-public-sector/grades-salaries-benefits" tabindex="29">Grades, salaries and benefits</a>
             
                     </li>
         <li class="mobile-tablet li-level-3">
-                <a href="https://careers.vic.gov.au/victorian-public-sector/organisation-contacts" title="Organisation contacts" tabindex="29">Organisation contacts</a>
+                <a href="https://careers.vic.gov.au/victorian-public-sector/organisation-contacts" tabindex="30">Organisation contacts</a>
             
                     </li>
 
@@ -277,20 +288,20 @@
                 </ul>
         </li>
         <li class="mobile-tablet li-level-1">
-                <a href="https://careers.vic.gov.au/contact-us" title="Contact us" tabindex="30">Contact us</a>
+                <a href="https://careers.vic.gov.au/contact-us" tabindex="31">Contact us</a>
             
                     </li>
         <li class="mobile-tablet li-level-1">
-                <a href="#" style="cursor:inherit;" title="Sign in" tabindex="31">Sign in</a>
+                <a href="#" style="cursor:inherit;" tabindex="32">Sign in</a>
             
-                <span class="toggle-menu mobile-tablet"><i class="fas fa-chevron-down "></i></span>
+                <span class="toggle-menu mobile-tablet" role="button" aria-label="Click to expand or collapse Sign in" aria-hidden="false"><i class="fas fa-chevron-down "></i></span>
                             <ul class="level-2">
                             <li class="mobile-tablet li-level-2">
-                <a href="https://careers.vic.gov.au/job-alert-signin" title="Job alerts" tabindex="32">Job alerts</a>
+                <a href="https://careers.vic.gov.au/job-application-system-signin" tabindex="33">Job applications</a>
             
                     </li>
         <li class="mobile-tablet li-level-2">
-                <a href="https://careers.vic.gov.au/job-application-system-signin" title="Job applications" tabindex="33">Job applications</a>
+                <a href="https://careers.vic.gov.au/job-alert-signin" tabindex="34">Job alerts</a>
             
                     </li>
 
@@ -321,15 +332,15 @@
         });
     }
 </script>
-   
+
 </header>
 
 <script>
-  window.addEventListener('load', function() {
-      jQuery('.btn.btn-default-white.btn-signin').click(function () {
-          ga('send', 'event', 'sign-in', 'home', window.location.pathname);
-      });
-  })
+    window.addEventListener('load', function () {
+        jQuery('.btn.btn-default-white.btn-signin').click(function () {
+            ga('send', 'event', 'sign-in', 'home', window.location.pathname);
+        });
+    })
 </script>
 
 
@@ -420,7 +431,7 @@
 </style>
 <div class="bread-crumb" id="BreakscrumTop">
     <div class="container">
-        <a href="/" tabindex="34">Home</a>
+        <a href="/" tabindex="35">Home</a>
         <span> <i class="fas fa-chevron-right"></i> </span>
         Privacy
     </div>
@@ -431,22 +442,22 @@
             <div class="top-right">
                 <ul class="pull-right">
                     <li class="pull-left">
-                        <a href="javascript:{}" id="campaign-print" tabindex="35">Print <i class="fas fa-print"></i></a>
+                        <a href="javascript:{}" id="campaign-print" tabindex="36">Print <i class="fas fa-print"></i></a>
                     </li>
                     <li class="pull-left">
-                        <a href="javascript:{}" tabindex="36">Share <i class="fas fa-share-alt"></i></a>
+                        <a href="javascript:{}" tabindex="37">Share <i class="fas fa-share-alt"></i></a>
                         <ul class="box-share">
                             <li>
-                                <a title="Twitter share" href="https://twitter.com/home?status=Check out this Privacy on CareersVic https://careers.vic.gov.au/privacy" target="_blank" tabindex="37"><i class="fab fa-twitter"></i></a>
+                                <a title="Twitter share" href="https://twitter.com/home?status=Check out this Privacy on CareersVic https://careers.vic.gov.au/privacy" target="_blank" tabindex="38"><i class="fab fa-twitter"></i></a>
                             </li>
                             <li>
-                                <a title="Facebook share" href="https://www.facebook.com/sharer/sharer.php?u=https://careers.vic.gov.au/privacy?fbrefresh=bf355ade-4115-4b90-9cb2-45f84a05e669" target="_blank" tabindex="38"><i class="fab fa-facebook-f"></i></a>
+                                <a title="Facebook share" href="https://www.facebook.com/sharer/sharer.php?u=https://careers.vic.gov.au/privacy?fbrefresh=7168817f-d834-4127-aa56-4239eb54a31f" target="_blank" tabindex="39"><i class="fab fa-facebook-f"></i></a>
                             </li>
                             <li>
-                                <a title="Linkedin share" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://careers.vic.gov.au/privacy&amp;title=Privacy&amp;summary=The+State+of+Victoria+endorses+fair+information+handling+practices+and+uses+of+information+in+accordance+with+the+privacy+legislation." target="_blank" tabindex="39"><i class="fab fa-linkedin-in"></i></a>
+                                <a title="Linkedin share" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://careers.vic.gov.au/privacy&amp;title=Privacy&amp;summary=The+State+of+Victoria+endorses+fair+information+handling+practices+and+uses+of+information+in+accordance+with+the+privacy+legislation." target="_blank" tabindex="40"><i class="fab fa-linkedin-in"></i></a>
                             </li>
                             <li class="envelope">
-                                <a href="#" class="social-tracking" jobpostingid="1979" data-toggle="modal" data-target="#sendEmailModal" onclick="clearForm_EmailToFriend(1979,'MainContentTemplate');" title="Email to friend" tabindex="40">
+                                <a href="#" class="social-tracking" jobpostingid="1979" data-toggle="modal" data-target="#sendEmailModal" onclick="clearForm_EmailToFriend(1979,'MainContentTemplate');" title="Email to friend" tabindex="41">
                                     <i class="fas fa-envelope"></i>
                                 </a>
                             </li>
@@ -465,7 +476,7 @@
 
 <p>This privacy statement explains how your personal information (being information capable of identifying you as an individual) will be treated as you access and interact with this website.</p>
 
-<p>The practices outlined in this privacy statement are subject to any rights the State of Victoria may have to handle personal information in compliance with its obligations under the <a href="http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubStatbook.nsf/f932b66241ecf1b7ca256e92000e23be/05CC92B3F8CB6A6BCA257D4700209220/$FILE/14-060aa%20authorised.pdf" target="_blank" tabindex="41">Privacy and Data Protection Act 2014 (Vic).</a></p>
+<p>The practices outlined in this privacy statement are subject to any rights the State of Victoria may have to handle personal information in compliance with its obligations under the <a href="http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubStatbook.nsf/f932b66241ecf1b7ca256e92000e23be/05CC92B3F8CB6A6BCA257D4700209220/$FILE/14-060aa%20authorised.pdf" target="_blank" tabindex="42">Privacy and Data Protection Act 2014 (Vic).</a></p>
 
 <h2>Security</h2>
 
@@ -473,7 +484,7 @@
 
 <p>Once any personal information comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorised access, modification and disclosure. If you are concerned about conveying sensitive material to us over the Internet, you might prefer to contact us by telephone or mail.</p>
 
-<p>We will remove personal information from our system where it is no longer required (except where archiving is required and in order to fulfill our obligations under the <a href="http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/LTObject_Store/LTObjSt3.nsf/DDE300B846EED9C7CA257616000A3571/BD40624FF1104271CA257761002AAA5C/$FILE/73-8418a035.pdf" target="_blank" tabindex="42">Public Records Act 1973 (Vic)</a>).</p>
+<p>We will remove personal information from our system where it is no longer required (except where archiving is required and in order to fulfill our obligations under the <a href="http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/LTObject_Store/LTObjSt3.nsf/DDE300B846EED9C7CA257616000A3571/BD40624FF1104271CA257761002AAA5C/$FILE/73-8418a035.pdf" target="_blank" tabindex="43">Public Records Act 1973 (Vic)</a>).</p>
 
 <p>We take additional steps to protect the security of your personal information, such as strong 128-bit SSL encryption. Before using these facilities, you should ensure that you are using a web browser that supports 128-bit encryption. In many web browsers, you can confirm that your session is encrypted by the appearance of a locked padlock symbol located in the browser status bar at the foot of the browser.</p>
 
@@ -521,7 +532,7 @@
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-body">
-                <button type="button" class="close icon-close-popup" data-dismiss="modal" aria-label="Close" id="btnCloseSendingEmail" tabindex="43"><span aria-hidden="true">Close X</span></button>
+                <button type="button" class="close icon-close-popup" data-dismiss="modal" aria-label="Close" id="btnCloseSendingEmail" tabindex="44"><span aria-hidden="true">Close X</span></button>
                 <div class="content-popup box-form-default">
                     <h2 class="title" id="title">Email to a friend</h2>
                     <div class="content" id="sendMailForm">
@@ -533,7 +544,7 @@
                             <div class="box-errow-file errow-file err-mess">
                                 <p><i class="fas fa-exclamation-circle"></i> <span id="frd-mail-yourname-error"></span></p>
                             </div>
-                            <input type="text" placeholder="Enter your name" class="txt-form" style="color:black" id="YourName" name="YourName" aria-required="true" tabindex="44">
+                            <input type="text" placeholder="Enter your name" class="txt-form" style="color:black" id="YourName" name="YourName" aria-required="true" tabindex="45">
                         </div>
 
                         <div class="form-group" id="divYouremail">
@@ -541,7 +552,7 @@
                             <div class="box-errow-file errow-file err-mess">
                                 <p><i class="fas fa-exclamation-circle"></i> <span id="frd-mail-yourmail-error"></span></p>
                             </div>
-                            <input type="text" placeholder="Enter your email address" class="txt-form" style="color:black" id="YourEmail" name="YourEmail" value="" data-email="Please enter a valid your email address" data-required="Your email is required." aria-required="true" tabindex="45">
+                            <input type="text" placeholder="Enter your email address" class="txt-form" style="color:black" id="YourEmail" name="YourEmail" value="" data-email="Please enter a valid your email address" data-required="Your email is required." aria-required="true" tabindex="46">
                         </div>
 
 
@@ -550,7 +561,7 @@
                             <div class="box-errow-file errow-file err-mess">
                                 <p><i class="fas fa-exclamation-circle"></i> <span id="frd-mail-frdname-error"></span></p>
                             </div>
-                            <input type="text" placeholder="Enter name of your friend" class="txt-form" style="color:black" id="NameOfFriend" name="NameOfFriend" data-required="Name of your friend is required." aria-required="true" tabindex="46">
+                            <input type="text" placeholder="Enter name of your friend" class="txt-form" style="color:black" id="NameOfFriend" name="NameOfFriend" data-required="Name of your friend is required." aria-required="true" tabindex="47">
                         </div>
 
                         <div class="form-group" id="divEmailYourFriend">
@@ -558,7 +569,7 @@
                             <div class="box-errow-file errow-file err-mess">
                                 <p><i class="fas fa-exclamation-circle"></i> <span id="frd-mail-frdmail-error"></span></p>
                             </div>
-                            <input type="text" placeholder="Enter email of your friend" class="txt-form" style="color:black" id="EmailOfFriend" name="EmailOfFriend" data-email="Please enter a valid email of your friend address" data-required="Email of your friend is required." aria-required="true" tabindex="47">
+                            <input type="text" placeholder="Enter email of your friend" class="txt-form" style="color:black" id="EmailOfFriend" name="EmailOfFriend" data-email="Please enter a valid email of your friend address" data-required="Email of your friend is required." aria-required="true" tabindex="48">
                         </div>
 
                         <div class="form-group" id="divCaptra">
@@ -569,11 +580,11 @@
                         </div>
                         <div id="validate-feedback"></div>
                         <div class="box-btn">
-                            <button type="button" class="btn-pl btn btn-default-red" id="btnSendMail" tabindex="48">Send to a friend</button>
-                            <button type="button" class="btn-pl btn btn-default-white" data-dismiss="modal" aria-label="Close" id="btnCancelSavedSearch" tabindex="49">Cancel</button>
+                            <button type="button" class="btn-pl btn btn-default-red" id="btnSendMail" tabindex="49">Send to a friend</button>
+                            <button type="button" class="btn-pl btn btn-default-white" data-dismiss="modal" aria-label="Close" id="btnCancelSavedSearch" tabindex="50">Cancel</button>
                                 
-                            <input type="hidden" id="hidId" tabindex="50">
-                            <input type="hidden" id="hidType" tabindex="51">
+                            <input type="hidden" id="hidId" tabindex="51">
+                            <input type="hidden" id="hidType" tabindex="52">
                     </div>
                     </div>
                     <div class="content" id="resultSendingEmail" style="display: none;">
@@ -810,19 +821,19 @@
         <div class="overflow">
             <ul class="clearfix">
                             <li class="pull-left">
-                                <a href="/copyright" title="Copyright" tabindex="52">Copyright </a>
+                                <a href="/copyright" title="Copyright" tabindex="53">Copyright </a>
                             </li>
                             <li class="pull-left">
-                                <a href="/privacy" title="Privacy" tabindex="53">Privacy </a>
+                                <a href="/privacy" title="Privacy" tabindex="54">Privacy </a>
                             </li>
                             <li class="pull-left">
-                                <a href="/accessibility" title="Accessibility" tabindex="54">Accessibility </a>
+                                <a href="/accessibility" title="Accessibility" tabindex="55">Accessibility </a>
                             </li>
                             <li class="pull-left">
-                                <a href="/disclaimer" title="Disclaimer" tabindex="55">Disclaimer </a>
+                                <a href="/disclaimer" title="Disclaimer" tabindex="56">Disclaimer </a>
                             </li>
                             <li class="pull-left">
-                                <a href="/site-map" title="Site map" tabindex="56">Site map </a>
+                                <a href="/site-map" title="Site map" tabindex="57">Site map </a>
                             </li>
             </ul>
         </div>
@@ -833,7 +844,7 @@
                     </ul>
                 </div>
             </div>
-            <a href="http://www.vic.gov.au/" target="_blank" class="logo pull-left" tabindex="57">
+            <a href="http://www.vic.gov.au/" target="_blank" class="logo pull-left" tabindex="58">
                 <img src="https://careers.vic.gov.au/Client/theme/images/logo-white.png" alt="Logo of the Victorian Government" width="" height="">
             </a>
         </div>
@@ -848,16 +859,16 @@
             <div class="row">
                             <div class="col-xs-6">
                                 <div class="list-flag clearfix">
-                                    <a class="img pull-left ui-link" tabindex="58">
-                                        <img src="http://cms.careersvic.applydirect.com.au/Images/Banner/dbb6f721-38ab-4276-9053-81b3f1dc8b4a.jpg" alt="Australian aboriginal flag" width="" height="">
-                                    </a>
+                                    <div class="img pull-left ui-link">
+                                    <img src="http://cms.careersvic.applydirect.com.au/Images/Banner/dbb6f721-38ab-4276-9053-81b3f1dc8b4a.jpg" alt="" width="" height="">
+                                    </div>
                                     <div class="overflow"><p>The Victorian Government acknowledges the traditional Aboriginal owners of country throughout Victoria and pays respect to them, their culture and their Elders past, present and future.</p></div>
                                 </div>
                             </div>
                             <div class="col-xs-6">
                                 <div class="list-flag clearfix">
                                     <a href="http://relayservice.gov.au" target="_blank" class="img pull-left ui-link" tabindex="59">
-                                        <img src="http://cms.careersvic.applydirect.com.au/Images/Banner/fa225379-8511-4a1a-b093-c15721da9d23.png" alt="National relay service" width="" height="">
+                                    <img src="http://cms.careersvic.applydirect.com.au/Images/Banner/fa225379-8511-4a1a-b093-c15721da9d23.png" alt="National relay service" width="" height="">
                                     </a>
                                     <div class="overflow"><p>Deaf, hearing or speech impaired?
 Contact the National Relay Service:
@@ -866,17 +877,17 @@ Call 1800 555 660 or visit www.relayservice.com.au</p></div>
                             </div>
             </div>
             
-            <div class="copy-right clearfix"> 
-                    <div class="pull-right" id="powerBy" style="display: none;">
-                        <p>Powered by <a href="http://www.applydirect.com.au/" target="_blank" tabindex="60">ApplyDirect </a> </p>
-                    </div>
+            <div class="copy-right clearfix">
+                <div class="pull-right" id="powerBy" style="display: none;">
+                    <p>Powered by <a href="http://www.applydirect.com.au/" target="_blank" tabindex="60">ApplyDirect </a> </p>
+                </div>
                 <div class="pull-left">
                     <p>State Government of Victoria, Australia © 2018</p>
                 </div>
             </div>
         </div>
     </div>
-    
+
 </div>
 
 <div class="list-images-footer" style="display: none;">
@@ -1158,5 +1169,15 @@ Call 1800 555 660 or visit www.relayservice.com.au</p></div>
     
     <!--End CLICKY-->
 
+    <div class="bg-show-tran"></div>
+    <script>
+        $(document).ready(function() {
+            $("img:not([alt])").each(function () {
+                console.log($(this).attr('src'));
+                $(this).attr("alt", "");
+            });
+        })
+    </script>
 
-<iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/rcj-99d43ead6bdf30da8ed5ffcb4f17100c.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><div id="ads"></div></body></html>
+
+<iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" src="https://vars.hotjar.com/rcj-99d43ead6bdf30da8ed5ffcb4f17100c.html"></iframe><div id="ads"></div></body></html>
