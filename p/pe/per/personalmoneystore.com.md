@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalmoneystore.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222171525id_/https%3A//personalmoneystore.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalmoneystore.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302175034id_/https%3A//personalmoneystore.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Money Store
 
