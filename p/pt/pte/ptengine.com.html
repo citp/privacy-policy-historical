@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the ptengine.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606162725id_/https%3A//www.ptengine.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ptengine.com privacy policy that was archived on 2019-03-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190302215207id_/https%3A//www.ptengine.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en-US" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" style=""><!--<![endif]--><head itemscope="" itemtype="http://schema.org/WebSite">
-<script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K3L47J"></script><script>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5G6G3QJ&amp;l=ptengineDataLayer"></script><script>
     var language, 
         ptdomain = window.location.href.split("/")[2], 
         local_dev = location.hostname === 'localhost' || location.hostname === '127.0.0.1'; 
@@ -12,28 +12,29 @@
         }else{
             language = navigator.browserLanguage;
         }
+        language = language.toLowerCase();
         if (language.indexOf('ja') > -1){
             document.location.href = 'http://www.ptengine.jp';
-        } else if (language.indexOf('zh') > -1){
+        } else if (language.indexOf('zh-cn') > -1){
             document.location.href = 'http://www.ptengine.cn';
         }
     } else {
       console.log("No browser language detection for testing env");
     }
 </script>
-<script src="//cdn.optimizely.com/js/3563610920.js"></script>
+<!--<script src="//cdn.optimizely.com/js/3563610920.js"></script>-->
         <!-- meta -->
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-        <title itemprop="name">Ptengine - Web Analytics and Heat Map Tool</title>
+    <!--<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">-->
+        <title itemprop="name">Privacy | Ptengine</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="copyright" content="© ptmind, Inc.">
-    <meta name="csrf-token" content="Ad9HTYNTDseC0njmDGf25g90G953YP8ZG0owwEla">
+    <meta name="csrf-token" content="3k3AMCz7vUnOWJg2thTPCRi4HFspyhegFXrLp2fL">
         <link rel="author" href="http://ptengine.com/about">
     <meta property="author" name="author" content="Ptengine">
     <link rel="canonical" itemprop="url" href="http://www.ptengine.com/privacy">
-    <meta name="description" content="Ptengine empowers digital marketing, UI/UX design, and web development teams to optimize web experience for more conversions by leading heat map and web analytics platform.">
+    <meta name="description" content="We are determined to protect privacy of our clients and visitors to our website including the information we gather.">
 
     <!-- START of Facebook Open Graph-->
     <meta property="og:type" content="website">
@@ -61,7 +62,8 @@
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/js/plugins/flexslider/flexslider.css" type="text/css">
-    <link rel="stylesheet" href="/build/css/main-5f717155.css">
+    <link rel="stylesheet" href="/css/swiper-3.4.2.min.css">
+    <link rel="stylesheet" href="/build/css/main-b74df4bc.css">
     <!-- nicer scroll in steps -->
     <link rel="stylesheet" href="/css/jquery.mCustomScrollbar.min.css">
         <!-- all preloaded scripts here -->
@@ -150,13 +152,11 @@
 }</style></head>
 <body>
 <!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K3L47J"
-                height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-          '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-K3L47J');</script>
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','ptengineDataLayer','GTM-5G6G3QJ');</script>
 <!-- End Google Tag Manager -->
 
 <div id="skip-link">
@@ -168,53 +168,18 @@
         </nav>
     </div>
 </div>
-    <!-- ******HEADER****** -->
-<header id="header" class="navbar-fixed-top">
+<section id="main-content" class="clearfix">
+    <header id="header">
     <img class="pt-api" src="https://api.mixpanel.com/track/?data=CXsiZXZlbnQiOiAibGFuZCBvbiBob21lcGFnZSIsIA0KICAgIAkJInByb3BlcnRpZXMiOiB7DQogICAgICAgIAkidG9rZW4iOiAiNDljOGI4OGExYWZiM2UwZWJlNTAzYTM1MjYzNWI1YjEiLCANCiAgICAgICAgCSJjYW1wYWlnbiI6ICJwcm9kdWN0IGh1bnQiDQogICAgICAgICAgICAgICAgfQ0KICAgICAgICB9DQo=&amp;ip=1&amp;img=1">
     <section class="header">
         <div class="container">
-            <h1 class="logo">
+            <div class="logo">
                 <a href="./home">
-                    <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 104 26" enable-background="new 0 0 104 26" xml:space="preserve">
-                    <g>
-                        <path fill="#FFFFFF" d="M7.8,0.4c-1.9,0-3.7,0.7-5.1,2c-1.4,1.4-2.2,3-2.2,4.9v11.1c0,0,0,0,0,0c0,0.8,0.4,1.5,1.2,1.5
-                            c0.8,0,1.2-0.7,1.2-1.5c0,0,0,0,0,0V13c1.8,0.9,2.9,1.4,4.5,1.4c1.9,0,3.8-0.7,5.1-2.1c1.4-1.4,2.1-3,2.1-4.9c0-1.9-0.6-3.6-2-4.9
-                            C11.3,1.1,9.7,0.4,7.8,0.4z M10.8,10.4c-0.8,0.8-1.8,1.2-3,1.2c-1.2,0-2.1-0.4-3-1.2C4,9.5,3.6,8.6,3.6,7.4c0-1.2,0.4-2.1,1.2-3
-                            c0.8-0.8,1.8-1.2,3-1.2c1.2,0,2.1,0.4,3,1.2c0.8,0.8,1.2,1.8,1.2,3C12,8.6,11.6,9.5,10.8,10.4z"></path>
-                        <path fill="#B2CF07" d="M62.2,6c-1.9,0-3.6,0.7-4.9,2.1c-1.4,1.4-2.1,3-2.1,4.9c0,1.9,0.7,3.6,2.1,4.9c1.4,1.4,3,2,4.9,2
-                            c1.6,0,3-0.5,4.2-1.4c0,1.1-0.4,2.1-1.2,3c-0.8,0.8-1.4,1.2-2.9,1.2c0,0-0.5,0-0.6,0.1c-0.2,0.1-0.4,0.2-0.5,0.3c0,0,0,0,0,0
-                            c0,0,0,0-0.1,0.1c0,0,0,0,0,0c0,0,0,0-0.1,0.1c0,0,0,0,0,0c0,0,0,0,0,0.1c0,0,0,0,0,0.1c0,0,0,0.1,0,0.1c0,0,0,0,0,0.1c0,0,0,0,0,0
-                            c0,0,0,0,0,0.1c0,0,0,0,0,0.1c0,0,0,0,0,0.1c0,0,0,0,0,0c0,0,0,0.1,0,0.1c0,0,0,0,0,0c0,0,0,0.1,0,0.1c0,0.8,0.6,1.4,1.4,1.4
-                            c0,0,0,0,0,0c0,0,0,0,0,0c2,0,3.3-0.7,4.6-2.1c1.4-1.4,1.7-3,1.7-4.9V13c0-1.9-0.3-3.6-1.7-4.9C65.5,6.7,64.1,6,62.2,6z M65.2,16
-                            c-0.8,0.8-1.8,1.2-3,1.2c-1.2,0-2.1-0.4-3-1.2c-0.8-0.8-1.2-1.8-1.2-3c0-1.2,0.4-2.1,1.2-3c0.8-0.8,1.8-1.2,3-1.2
-                            c1.2,0,2.1,0.4,3,1.2c0.8,0.8,1.2,1.8,1.2,3C66.4,14.2,66,15.1,65.2,16z"></path>
-                        <circle fill="#B2CF07" cx="71.7" cy="2.8" r="1.7"></circle>
-                        <path fill="#FFFFFF" d="M23.1,17.2C23.1,17.2,23.1,17.2,23.1,17.2c-1,0-2.2-0.4-3-1.2c-0.8-0.8-1.4-1.8-1.4-3V8.7h3c0,0,0,0,0,0
-                            l0,0c0.7,0,1.4-0.8,1.4-1.5c0-0.8-0.6-1.5-1.4-1.5c0,0,0,0,0,0h-3V2.5c0-0.1,0-1.6-1.5-1.6c-0.8,0-1.6,0.6-1.6,1.4
-                            c0,0.1,0,0.1,0,0.2V13c0,1.9,0.9,3.6,2.3,4.9c1.2,1.2,2.7,1.8,4.2,2c0.1,0,0.4,0.1,0.7,0c0,0,0.1,0,0.1,0c0.8,0,1.4-0.6,1.4-1.4
-                            C24.5,17.8,23.9,17.2,23.1,17.2z"></path>
-                        <path fill="#B2CF07" d="M72.9,18.6l0-11.4c0,0,0-1.2-1.3-1.1c-1.1,0-1.2,1.1-1.2,1.1s0,11.3,0,11.4c0.1,1.4,1.3,1.4,1.3,1.4
-                            C72.5,20.1,73,19.3,72.9,18.6z"></path>
-                        <path fill="#B2CF07" d="M36.9,14.2c0.8,0,1.6-0.6,1.7-1.4c0.1-1-1.3-6.8-6.9-6.8c-1.9,0-3.5,0.7-4.9,2.1c-1.4,1.4-2,3-2,5
-                            c0,1.9,0.7,3.6,2.1,5c1.4,1.4,3,2.1,5,2.1c1.8,0,3.6-0.6,5-1.7c0,0,0,0,0,0c0.4-0.3,0.6-0.7,0.6-1.2c0-0.8-0.7-1.5-1.5-1.5
-                            c-0.4,0-0.8,0.2-1.1,0.4c0,0,0,0,0,0c-0.9,0.7-1.8,1-3,1.1c-1.9,0.1-3.6-1.1-4-2.9H36.9C36.9,14.2,36.8,14.2,36.9,14.2z M31.8,9
-                            c2.2-0.1,3.8,1.6,4,2.8h-7.9C28,10.6,29.5,9,31.8,9z"></path>
-                        <path fill="#B2CF07" d="M101.8,14.2c0.8,0,1.6-0.6,1.7-1.4c0.1-1-1.3-6.8-6.9-6.8c-1.9,0-3.5,0.7-4.9,2.1c-1.4,1.4-2,3-2,5
-                            c0,1.9,0.7,3.6,2.1,5c1.4,1.4,3,2.1,5,2.1c1.8,0,3.6-0.6,5-1.7c0,0,0,0,0,0c0.4-0.3,0.6-0.7,0.6-1.2c0-0.8-0.7-1.5-1.5-1.5
-                            c-0.4,0-0.8,0.2-1.1,0.4c0,0,0,0,0,0c-0.9,0.7-1.8,1-3,1.1c-1.9,0.1-3.6-1.1-4-2.9H101.8C101.8,14.2,101.8,14.2,101.8,14.2z
-                             M96.7,9c2.2-0.1,3.8,1.6,4,2.8h-7.9C92.9,10.6,94.4,9,96.7,9z"></path>
-                        <path fill="#B2CF07" d="M88.2,18.1V13c0-1.9-0.6-3.6-2-4.9C84.9,6.7,83.3,6,81.4,6c-1.9,0-3.6,0.7-4.9,2.1c-1.4,1.4-2,3-2,4.9v5.2
-                            v0.3c0,0,0,0,0,0c0,0,0,0,0,0c0,0.3,0.3,1.4,1.4,1.4c1.2,0,1.5-0.9,1.5-1.4c0,0,0-0.1,0-0.1c0,0,0,0,0,0c0,0,0-0.1,0-0.1V13
-                            c0-1.2,0.3-2.1,1.2-3c0.8-0.8,1.8-1.2,2.9-1.2c1.2,0,2.1,0.4,2.9,1.2c0.8,0.8,1.2,1.8,1.2,3l0,5.1c0,0,0,1.7,1.3,1.7
-                            C88.2,19.8,88.2,18.1,88.2,18.1z"></path>
-                        <path fill="#B2CF07" d="M53.5,18.1V13c0-1.9-0.6-3.6-2-4.9C50.2,6.7,48.6,6,46.7,6c-1.9,0-3.6,0.7-4.9,2.1c-1.4,1.4-2,3-2,4.9v5.2
-                            v0.3c0,0,0,0,0,0c0,0,0,0,0,0c0,0.3,0.3,1.4,1.4,1.4c1.2,0,1.5-0.9,1.5-1.4c0,0,0-0.1,0-0.1c0,0,0,0,0,0c0,0,0-0.1,0-0.1V13
-                            c0-1.2,0.3-2.1,1.2-3c0.8-0.8,1.8-1.2,2.9-1.2c1.2,0,2.1,0.4,2.9,1.2c0.8,0.8,1.2,1.8,1.2,3l0,5.1c0,0,0,1.7,1.3,1.7
-                            C53.5,19.8,53.5,18.1,53.5,18.1z"></path>
-                    </g>
+                    <svg class="pte-logo">
+                        <use xlink:href="/images/icon.svg/svg-symbols.svg#ptengine"></use>
                     </svg>
                 </a>
-            </h1><!--//logo-->
+            </div><!--//logo-->
             <nav class="main-nav navbar-right" role="navigation">
                 <div class="navbar-header">
                     <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse">
@@ -227,41 +192,20 @@
                 <div id="navbar-collapse" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li class="nav-item nav-hover featuresButton"><a href="./features">Features</a></li>
-                        
+                        <li class="nav-item nav-hover solutionsButton"><a href="./startup-solutions">Solutions</a></li>
                         <li class="nav-item nav-hover pricingButton"><a href="./plan">Pricing</a></li>
-                        <li class="nav-item nav-hover agencyButton"><a href="./agencies">For Agencies</a></li>
-                        <li class="nav-item nav-hover"><a href="https://web.archive.org/web/20170512080613/https://reportv3.ptengine.com" id="nav_login" class="ptgologin">Log in</a></li>
-                        <li class="nav-item nav-language-app">
-                            <a class="nav-lan1" href="/en/home">English</a><i class="fa fa-angle-down"></i>
-                            <dl class="nav-second-app">
-                                <dd class="lan-en" style="display: none;"><a href="/en/home">English</a></dd>
-                                <dd class="lan-fr"><a href="/fr/home">Français</a></dd>
-                                <dd class="lan-de"><a href="/de/home">Deutsch</a></dd>
-                                <dd class="lan-es"><a href="/es/home">Español</a></dd>
-                                <dd class="lan-pt"><a href="/pt/home">português</a></dd>
-                                <dd class="lan-ru"><a href="/ru/home">русский</a></dd>
-                            </dl>
-                        </li>
+                        <!-- <li class="nav-item nav-hover compareButton" id="nav-compare"><a href="./compare">ПЛЮСЫ</a></li> -->
+                        <!-- <li class="nav-item nav-hover agencyButton"><a href="./agencies">For Agencies</a></li> -->
+                        <li class="nav-item nav-hover"><a href="https://web.archive.org/web/20181018041300/https://reportv3.ptengine.com" id="nav_login" class="ptgologin">Log in</a></li>
                         <li class="nav-item nav-item-cta last"><a class="btn btn-cta btn-cta-secondary ptgosignup" href="./signup" id="header_show_signup">SIGN UP FREE</a></li>
-                        <li class="nav-item nav-language">
-                            <a class="nav-lan1" href="/en/home">English</a><i class="fa fa-angle-down"></i>
-                            <dl class="nav-second">
-                                <dd class="lan-en" style="display: none;"><a href="/en/home">English</a></dd>
-                                <dd class="lan-fr"><a href="/fr/home">Français</a></dd>
-                                <dd class="lan-de"><a href="/de/home">Deutsch</a></dd>
-                                <dd class="lan-es"><a href="/es/home">Español</a></dd>
-                                <dd class="lan-pt"><a href="/pt/home">Português</a></dd>
-                                <dd class="lan-ru"><a href="/ru/home">Pусский</a></dd>
-                            </dl>
-                        </li>
                     </ul>
                 </div>
             </nav>
         </div>
     </section>
 </header><!--//header-->
-<section id="main-content" class="clearfix">
-        <section class="pt-case-banner aboutus">
+   <div style="position: fixed;top:0px;left:0px;width:0px;height:0px;overflow: hidden;"><h1 style="position: absolute;top:-9999px;">PRIVACY POLICY</h1></div>
+    <section class="pt-case-banner aboutus">
         <h2>Privacy policy</h2>
     </section>
     <section class="partner">
@@ -272,65 +216,55 @@
                         <div class="panel-body">
                             <div class="cont_bd">
                                 <p>At Ptmind Inc we recognize that your privacy is of paramount importance. We value your trust and confidence and are determined to protect the privacy of our clients and visitors to our website including the information we gather. Therefore, we have developed a Privacy Policy that covers how we collect, use, disclose, transfer and store your information. Please read the following carefully and do not hesitate to contact us for any queries.</p>
-                                <p>Ptengine (the “Service”) refers to all websites, properties and services owned or operated by Ptmind Inc (the “Company”). Below is a briefing on how Ptengine collects information from you or your computer/device about visitors to sites tracked by Ptengine (“Visitor Information”) as well as the information it gathers from Ptengine clients who visit www.Ptengine.com and use the service to track their website (“Client Information”).</p>
-                                <p>Please note that Ptmind uses its own service, Ptengine, to collect information that will allow insight into user activity on www.Ptengine.com.</p>
-                                <h4>A.1 Collection and Use of Personal Information</h4>
-                                <p>
-                                    Personal information is data that can be used to uniquely identify or contact a single person.<br>
-                                    i. What personal information we collect:<br>
-                                    When registering with Ptengine we may obtain the following types of information from you (including for the purposes of obtaining a free trial of Ptengine services) or concerning your computer/device which may include information that may itself be used to identify and/or contact you (“Personally Identifiable Information”).<br>
-                                    . Name<br>
-                                    . Email Address<br>
-                                    . Phone Number<br>
-                                    . Website Name and URL<br>
-                                    . Company Name (optional)<br>
-                                    ii. Ptengine may also receive certain information that may be provided by your browser or mobile device including:<br>
-                                    . Browser Information<br>
-                                    . Operating System Information<br>
-                                    . Mobile Device Information<br>
-                                    . IP Address<br>
-                                    . Pages Accessed<br>
-                                    . Time of Visit<br>
-                                    . Time of Last Visit<br>
-                                    . Geographical Location<br>
-                                    . Referring Site
-                                </p>
-                                <h4>A.2 Collection and Use of Non-Personal Information</h4>
+                                <p>Ptengine (the "Service") refers to all websites, properties and services owned or operated by Ptmind Inc (the "Company"). Below is a briefing on how Ptengine collects information from you or your computer/device about visitors to sites tracked by Ptengine ("Visitor Information") as well as the information it gathers from Ptengine clients who visit <a href="https://www.ptengine.com/" target="_blank">www.Ptengine.com</a> and use the service to track their website ("Client Information").</p>
+                                <p>Please note that Ptmind uses its own service, Ptengine, to collect information that will allow insight into user activity on <a href="https://www.ptengine.com/" target="_blank">www.Ptengine.com</a>.</p>
+                                <h4>1. Collection and Use of Personal Information</h4>
+                                <p>Personal information is data that can be used to uniquely identify or contact a single person.</p>
+                                <p>i. What personal information we collect:</p>
+                                <p>When registering with Ptengine we may obtain the following types of information from you (including for the purposes of obtaining a free trial of Ptengine services) or concerning your computer/device which may include information that may itself be used to identify and/or contact you (“Personally Identifiable Information”).</p>
+                                <p>. Name<br>. Email Address<br>. Phone Number<br>. Website Name and URL<br>. Company Name (optional)</p>
+                                <p>ii. Ptengine may also receive certain information that may be provided by your browser or mobile device including:</p>
+                                <p>. Browser Information<br>. Operating System Information<br>. Mobile Device Information<br>. IP Address<br>. Pages Accessed<br>. Time of Visit<br>. Time of Last Visit<br>. Geographical Location<br>. Referring Site</p>
+                                <h4>2. Collection and Use of Non-Personal Information</h4>
                                 <p>We may also collect non-personal information – data in a form that does not permit direct association with any specific individual. We may collect, use, transfer and disclose non-personal information for any purpose. This is so that we can better understand customer behavior and improves our products, services and advertising. Aggregated data is considered non-personal information for the purposes of this Privacy Policy.</p>
-                                <h4>A.3 Visitors to Ptmind Clients’ Websites</h4>
-                                <p>
-                                    Our Clients may use customized and proprietary Ptengine’s code, software and/or services (“Service”) to obtain information regarding the activities that users engage in while visiting their web pages (“Client’s User Data”). When a user visits a website that uses Ptengine’s Service, Ptengine codes contained on the website contacts Ptmind’s servers and enables Ptmind to collect Client’s User Data.<br>
-                                    Ptengine’s collection and analysis of Client’s User Data helps our Clients to evaluate and understand how their users are interacting with their websites and potentially to modify their websites in order to make them more valuable or useful for their users. Ptmind’s Clients determine the types of Client’s User Data that are sent to Ptengine’s servers for analysis. This data may include or be linked to Personally Identifiable Information depending on how our clients use Ptengine Services on its website(s).<br>
-                                    In addition, Ptengine may collect certain information about a Client’s Visitor’s computer that may be provided by the Visitor’s browsers. This includes browser information, operating system information, mobile device information, IP address, time of visit and the referring website, application, or service. Such information is collected even though not determined by the Client.<br>
-                                    Because Clients have the sole discretion to determine what information Ptengine collects from Clients’ users, this Privacy Policy does not apply to any Client’s User Data, including Personally Identifiable information that Ptmind may collect, obtain or access in connection with operating the Ptengine service.<br>
-                                    Ptmind recommends that each client obtain any necessary consent from visitors to its website(s), post an online privacy policy that provides each visitor with notice of its practices regarding data collection, use and disclosure.                                  
-                                </p>
-                                <h4>A.4 Cookies and Other Technologies</h4>
-                                <p>
-                                    Ptmind uses first party cookies (small text files that Ptengine stores locally on the user’s computer) on our client’s website. We use cookies to access information in order to: identify unique visitors, assess usage patterns, perform traffic analysis, identify visitors’ preferences, diagnose problems with our servers, analyze trends and otherwise administer Ptmind products and services. Cookies placed on the user’s computer do not include Personally Identifiable Information such as name, phone number, e-mail address or mailing address, nor does Ptengine link cookies to such Personally Identifiable Information in its servers or databases. Internet Protocol (IP) addresses are considered personal information and are not individually targeted or disclosed but instead are shown as region or city.<br>
-                                    Ptengine does not take responsibility for failure by you or your browser to accurately implement or communicate your browser preferences or settings.<br>
-                                    For more information on amending your cookie settings, refer to your browser instructions. If you choose not to opt out of Ptengine cookies there will be a presumption of your consent.
-                                </p>
-                                <h4>A.5 Disclosure to Third Parties</h4>
-                                <p>
-                                    Pt mind never sells or shares any Visitor Information with individuals or companies other than the specific client on whose website Ptengine collected the Visitor Information. All data Ptengine collects belongs to Ptmind.<br>
-                                    The information is provided to clients in the form of aggregated reports and/or statistics that identify collective behavior of visitors to the client’s website, as opposed to the behavior or activity of specific or identified individuals.<br>
-                                    If Ptmind becomes involved in a merger, acquisition or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
-                                </p>
-                                <h4>A.6 Protection of Personal Information</h4>
+                                <h4>3. Visitors to Ptmind Clients’ Websites</h4>
+                                <p>Our Clients may use customized and proprietary Ptengine’s code, software and/or services (“Service”) to obtain information regarding the activities that users engage in while visiting their web pages (“Client’s User Data”). When a user visits a website that uses Ptengine’s Service, Ptengine codes contained on the website contacts Ptmind’s servers and enables Ptmind to collect Client’s User Data.</p>
+                                <p>Ptengine’s collection and analysis of Client’s User Data helps our Clients to evaluate and understand how their users are interacting with their websites and potentially to modify their websites in order to make them more valuable or useful for their users. Ptmind’s Clients determine the types of Client’s User Data that are sent to Ptengine’s servers for analysis. This data may include or be linked to Personally Identifiable Information depending on how our clients use Ptengine Services on its website(s).</p>
+                                <p>In addition, Ptengine may collect certain information about a Client’s Visitor’s computer that may be provided by the Visitor’s browsers. This includes browser information, operating system information, mobile device information, IP address, time of visit and the referring website, application, or service. Such information is collected even though not determined by the Client.</p>
+                                <p>Because Clients have the sole discretion to determine what information Ptengine collects from Clients’ users, this Privacy Policy does not apply to any Client’s User Data, including Personally Identifiable information that Ptmind may collect, obtain or access in connection with operating the Ptengine service.</p>
+                                <p>Ptmind recommends that each client obtain any necessary consent from visitors to its website(s), post an online privacy policy that provides each visitor with notice of its practices regarding data collection, use and disclosure.</p>
+                                <h4>4. Storing and transferring your personal information</h4>
+                                <p>4.1 Security. We implement appropriate technical and organisational measures to protect your personal information against accidental or unlawful destruction, loss, change or damage. All personal information we collect will be stored on secure servers. All electronic transactions entered into via our Website will be protected by SSL encryption technology.</p>
+                                <p>4.2 International Transfers of your Personal Information. The personal information we collect may be transferred to and stored in countries outside of the jurisdiction you are in where we and other Ptmind group companies or our third-party providers have operations. If you are located in the European Union (“EU“), your personal information may be processed outside of the EU; these international transfers of your personal information are made pursuant to appropriate safeguards, such as standard data protection clauses adopted by the European Commission. If you wish to enquire further about the safeguards used, please contact us using the details set out at the end of this privacy policy.</p>
+                                <p>4.3 We will take reasonable steps to ensure that your personal information is treated securely and in accordance with applicable law and this privacy policy.</p>
+                                <h4>5. YOUR RIGHTS IN RESPECT OF your personal information</h4>
+                                <p>5.1 If you are located in the EU, in accordance with applicable privacy law, you have the following rights in respect of your personal information that we hold:</p>
+                                <p>(a) Right of access. The right to obtain access to your personal information.</p>
+                                <p>(b) Right to rectification. The right to obtain rectification of your personal information without undue delay where that personal information is inaccurate or incomplete.</p>
+                                <p>(c) Right to erasure. The right to obtain the erasure of your personal information without undue delay in certain circumstances, such as where the personal information is no longer necessary in relation to the purposes for which it was collected or processed.</p>
+                                <p>(d) Right to restriction. The right to obtain the restriction of the processing undertaken by us on your personal information in certain circumstances, such as where the accuracy of the personal information is contested by you, for a period enabling us to verify the accuracy of that personal information.</p>
+                                <p>5.2 If you wish to exercise one of these rights, please contact us using the contact details at the end of this privacy policy. You may also review and edit the personal information you have submitted to us by logging into your account on our Website.</p>
+                                <p>5.3 You also have the right to lodge a complaint to the Supervisory Authority in your jurisdiction.</p>
+                                <h4>6. Cookies and Other Technologies</h4>
+                                <p>Ptmind uses first party cookies (small text files that Ptengine stores locally on the user’s computer) on our client’s website. We use cookies to access information in order to: identify unique visitors, assess usage patterns, perform traffic analysis, identify visitors’ preferences, diagnose problems with our servers, analyze trends and otherwise administer Ptmind products and services. Cookies placed on the user’s computer do not include Personally Identifiable Information such as name, phone number, e-mail address or mailing address, nor does Ptengine link cookies to such Personally Identifiable Information in its servers or databases. Internet Protocol (IP) addresses are considered personal information and are not individually targeted or disclosed but instead are shown as region or city.</p>
+                                <p>Ptengine does not take responsibility for failure by you or your browser to accurately implement or communicate your browser preferences or settings.</p>
+                                <p>For more information on amending your cookie settings, refer to your browser instructions. If you choose not to opt out of Ptengine cookies there will be a presumption of your consent.</p>
+                                <h4>7. Disclosure to Third Parties</h4>
+                                <p>Pt mind never sells or shares any Visitor Information with individuals or companies other than the specific client on whose website Ptengine collected the Visitor Information. All data Ptengine collects belongs to Ptmind.</p>
+                                <p>The information is provided to clients in the form of aggregated reports and/or statistics that identify collective behavior of visitors to the client’s website, as opposed to the behavior or activity of specific or identified individuals.</p>
+                                <p>If Ptmind becomes involved in a merger, acquisition or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.</p>
+                                <h4>8. Protection of Personal Information</h4>
                                 <p>Ptmind takes adequate precautions to safeguard your personal information against loss, theft and misuse, as well as against unauthorized access, disclosure, alteration and destruction.</p>
-                                <h4>A.7 Integrity and Retention of Personal Information</h4>
+                                <h4>9. Integrity and Retention of Personal Information</h4>
                                 <p>At Ptmind we will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.</p>
-                                <h4>A.8 Payment</h4>
-                                <p>
-                                    When purchasing our product, payment will be requested via Paypal. Under no circumstances will we hold sensitive payment details such as your credit card number, expiry date or security code. All transactions are handled through Paypal. For more information on Paypal’s privacy policy please refer to: http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside and https://www.paypal.com/row/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy<br>
-                                    No payment information will be requested of you when registering for the free trial.
-                                </p>
-                                <h4>A.9 Policy Concerning Children Under Age 13</h4>
+                                <h4>10. Payment</h4>
+                                <p>When purchasing our product, payment will be requested via Stripe. Under no circumstances will we hold sensitive payment details such as your credit card number, expiry date or security code. All transactions are handled through Stripe. For more information on Stripe’s privacy policy please refer to: <a href="https://stripe.com/us/privacy/" target="_blank">https://stripe.com/us/privacy/</a></p>
+                                <p>No payment information will be requested of you when registering for the free trial.</p>
+                                <h4>11. Policy Concerning Children Under Age 13</h4>
                                 <p>Ptmind does not knowingly or intentionally collect Personally Identifiable Information from children under 13 or from websites that are directed to children under 13. If we learn that we have collected the personal information of a child under 13, we will take steps to delete the information as soon as possible.</p>
-                                <h4>A.10 Changes to this Privacy Policy</h4>
+                                <h4>12. Changes to this Privacy Policy</h4>
                                 <p>Any significant changes to this privacy policy will be made aware to you via our login page for 14 days.</p>
-                                <h4>A.11 Queries</h4>
+                                <h4>13. Queries</h4>
                                 <p>If you have any questions or concerns regarding Ptmind’s privacy policy please Contact Us.</p>
                             </div>
                         </div>
@@ -339,77 +273,6 @@
             </div>
         </div>
     </section>
-</section>
-
-
-
-<!-- Modal -->
-<div class="modal fade" id="signup" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="modal-body">
-                <div class="container-fluid background-fluid">
-                    <div class="row">
-                        <div class="col-md-7 right-grey">
-                            <div class="register-block">
-                                <p class="first">pt.signup_ctn1</p>
-                                <form class="register">
-                                    <div class="form-group" id="email-form-group">
-                                        <input type="email" class="form-control email input-md" id="reg-email" name="email" placeholder="Email">
-                                        <span id="email-err-msg">error</span>
-                                    </div>
-                                    <div class="form-group" id="pwd-form-group">
-                                        <input type="password" class="form-control pwd input-md" id="reg-pwd" name="password" placeholder="Password">
-                                        <span id="pwd-err-msg">error</span>
-                                    </div>
-                                    <p><small>By signing up you agree to our <a href="/privacy" target="_blank">Privacy Policy</a> &amp; <a href="/terms" target="_blank">Term of Use</a></small></p>
-
-                                    <button type="submit" class="btn btn-cta-primary reg-btn pt-btn-account"><span class="msg">Create my account</span></button>
-                                    <a href="#" class="pt-cancel" data-dismiss="modal">Cancel</a>
-                                </form>
-                                <p>Have an account, <a id="signup_login" href="https://web.archive.org/web/20170512080613/https://reportv3.ptengine.com" class="ptgologin">login</a></p>
-                            </div>
-                            <div class="success-block">
-                                <h3>Congratulations on taking the first step</h3>
-                                <p>You are almost ready to get your heatmaps.</p>
-                                <p class="pad-top">There are just 2 small steps left:</p>
-                                <ol>
-                                    <li>Add your website URL</li>
-                                    <li>Add the tracking code to your website</li>
-                                </ol>
-
-                                <form action="https://web.archive.org/web/20170512080613/https://reportv3.ptengine.com/ptmindservice/user/loginpt" method="get" id="loginmodal">
-                                    <input type="hidden" name="userName" id="reg_pop_name">
-                                    <input type="hidden" name="password" id="reg_pop_pwd">
-                                    <button type="submit" class="btn btn-cta-primary"><span class="msg">Get started with Ptengine</span></button>
-                                </form>
-                                <p><small>You will be redirected to the report console in 5 seconds.</small>.</p>
-
-                            </div>
-                        </div>
-                        <div class="col-md-5 hidden-xs hidden-sm right-pad">
-                            <p>More than 30,000+ companies</p>
-                            <p>trust Ptengine including:</p>
-                            <img src="/images/logos/register.png" alt="More than 30,000 companies trust Ptengine" class="center-block img-responsive">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- 视频播放 -->
-<section class="modal fade" id="pt-dd-video" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-    <div class="modal-dialog modal-lg" role="document">
-        <div class="modal-content">
-            <div class="pt-dd-video-box">
-                <iframe id="pt-video-iframe" width="100%" height="100%" align="middle" src="https://www.youtube.com/embed/XGbUWr0XXG4" frameborder="0" allowfullscreen=""></iframe>
-            </div>
-        </div>
-    </div>
-</section>
-
 <footer>
     <div class="container">
         <div class="row fat-top">
@@ -419,8 +282,9 @@
                     <li><a href="/partner">Partner</a></li>
                     <li><a href="/privacy">Privacy Policy</a></li>
                     <li><a href="/terms">Terms of Use</a></li>
-                    <li><a href="https://datadumdum.com">Blog</a></li>
-                    <li><a href="/case-study-lower-bounce-rate-with-ptengine">Case Study</a></li>
+                    <li><a href="https://blog.datadeck.com">Blog</a></li>
+                    <li><a href="/contact-us">Contact Us</a></li>
+                    <li><a href="/gdpr">GDPR</a></li>
                 </ul>
             </div>
             <div class="col-xs-12 col-sm-12 col-md-4">
@@ -451,31 +315,40 @@
         </div>
     </div>
     <div class="social-icons">            
-        <p class="text-center copyright">Copyright © 2017 Ptmind all rights reserved</p>
+        <p class="text-center copyright">Copyright © 2019 Ptmind all rights reserved</p>
     </div>
-</footer>
-<!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="js/plugins/jquery-1.11.2.min.js"><\/script>')</script>-->
-<script src="/js/plugins/jquery-1.11.2.min.js"></script>
+</footer></section>
+
+<!-- Gear -->
+<div class="pt-gear-bj">
+    <div class="pt-gear">
+        <svg class="pt-gear-left">
+            <use xlink:href="/images/icon.svg/svg-symbols.svg#gear"></use>
+        </svg>
+        <svg class="pt-gear-right">
+            <use xlink:href="/images/icon.svg/svg-symbols.svg#gear"></use>
+        </svg>
+    </div>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/jquery-1.11.2.min.js"><\/script>')</script><script src="js/jquery-1.11.2.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-<script>
-if (location.search.indexOf("signup") != -1) {
-  $('#signup').modal('show');
-}
-</script>
 <script src="/js/plugins/jquery-migrate-1.2.1.min.js"></script>
 <script src="/js/plugins/bootstrap-hover-dropdown.min.js"></script>
 <script src="/js/plugins/back-to-top.js"></script>
 <script src="/js/plugins/jquery-placeholder/jquery.placeholder.js"></script>
 <script src="/js/plugins/flexslider/jquery.flexslider-min.js"></script>
 <script src="/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="/js/swiper-3.4.2.jquery.min.js"></script>
+<script src="/js/js.cookie-2.1.1.min.js"></script>
 <script>
     var d = new Date()
     var n = d.getTimezoneOffset()/-60;
     $('#timeZone').val(n);
 </script>
-<script src="/build/js/ptmain-f2a973fa.js"></script>
-<script>
+<script src="/build/js/ptmain-30fa2686.js"></script>
+<!--<script>
 $(function(){
     $('.nav-language').mouseover(function(){
         $('.nav-second').show();
@@ -516,6 +389,7 @@ $(function(){
         $('.lan-en').show();
         $('.lan-ru').hide();
         $('.list-inline>li.vk-logo').css('display','inline-block');
+        $('#nav-compare').show();
     } else {
         lan.text('English');
         lan.attr('href','/en/home');
@@ -530,8 +404,8 @@ $(function(){
         $('.pricingButton').addClass('active');
     };
 });
-</script>
+</script>-->
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"123447445e","applicationID":"17239474","transactionName":"NlJbYhEHCkFQWxZbDQ8YeFUXDwtcHnkSQj4pQ01GPyULXEVKDV4OBEVKajAPEFdyVwxGEA5bVVMRJhdaXk8=","queueTime":0,"applicationTime":44,"atts":"GhVYFFkdGU8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 
 <div id="topcontrol" title="Scroll Back to Top" style="position: fixed; bottom: 5px; right: 5px; opacity: 0; cursor: pointer;"><i class="fa fa-angle-up"></i></div></body></html>
