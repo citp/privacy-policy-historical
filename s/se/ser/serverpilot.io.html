@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the serverpilot.io privacy policy that was archived on 2018-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180819102006id_/https%3A//serverpilot.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the serverpilot.io privacy policy that was archived on 2019-03-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190303002532id_/https%3A//serverpilot.io/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
   <meta charset="utf-8">
@@ -21,7 +21,7 @@
   <link href="https://fonts.googleapis.com/css?family=Lora:400,400italic|Work+Sans:300,400,500,600" rel="stylesheet" type="text/css">
   <link href="/assets/css/toolkit-startup.css" rel="stylesheet">
   <link href="/assets/css/application-startup.css" rel="stylesheet">
-  <link href="/assets/css/serverpilot.css?2018080314" rel="stylesheet">
+  <link href="/assets/css/serverpilot.css?2019020909" rel="stylesheet">
 
   
 
@@ -403,7 +403,7 @@
         <img src="/assets/images/logos-badges/serverpilot-logo-horizontal-black.svg" style="opacity: 0.4; width: 160px">
       </a>
        </li>
-          <li style="white-space: nowrap">© ServerPilot 2018</li>
+          <li style="white-space: nowrap">© ServerPilot 2019</li>
           <!--<p style="line-height: 1.4em;">ServerPilot is a secure control panel optimized for-->
             <!--hosting WordPress and PHP websites on cloud servers.</p>-->
           <li style="font-size: 20px;">
@@ -667,12 +667,18 @@
           return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
         }
         // Intentionally allows refcode to be overridden by a new one.
-        if(getParameterByName('refcode')) {
+        if (getParameterByName('refcode')) {
           $.cookie('refcode', getParameterByName('refcode'), {expires: 365, path: '/', domain: '.serverpilot.io'});
           $.get('/refclick', function() {
             var loc = document.location;
             window.location.replace(loc.protocol + '//' + loc.host + loc.pathname);
           });
+        }
+
+        // If they were referred from UpCloud, reference UpCloud on the home page.
+        if ($.cookie('refcode') == 'UPCLOUD10' && window.location.pathname == '/') {
+          document.body.innerHTML = document.body.innerHTML.replace(/DigitalOcean/g, 'UpCloud');
+          document.title = document.title.replace(/DigitalOcean/g, 'UpCloud');
         }
 
       })(jQuery);
