@@ -1,26 +1,27 @@
-> *The following text is extracted and transformed from the dathost.net privacy policy that was archived on 2014-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141208055018id_/http%3A//dathost.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dathost.net privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302203422id_/https%3A//dathost.net/privacy-policy) for the most accurate reproduction.*
 
-# Dat Host - Privacy Policy
+# Privacy policy | DatHost.net
 
-## Collection of certain Personally-Identifying Information
+When you use our services, you’re trusting us with your information. We understand that this is a big responsibility and we work hard to protect your information and put you in control. 
 
-  * Dat Host does collect certain Personally-Identifying information, necessary to carry out our Business. For example we ask users signing up for an E-mail adress and sometimes a name.
-  * Users that choose to make purchases of services offered by Dat Host will be asked for additional information, such as the necessary personal and financial details required for us to carry out that order.
-  * Dat Host also collects certain information such as, but not limited to, IP addresses for our logs and non-personally identifying information such as browser type, language preferences and referring site. This is simply to understand our visitors interaction with our site better and improve the quality of our service. We may at times present aggregated reports of non-personally identifying information.
+### WHY DATHOST COLLECTS PERSONALLY-IDENTIFYING INFORMATION
 
+DatHost collects certain Personally-Identifying information(PII), necessary to carry out our business. Below we will tell you what PII we collect, why we need it and how we use it, as well as what other organisations might have access to your data. 
 
+### WHAT KIND OF PERSONALLY-IDENTIFYING INFORMATION DO WE COLLECT?
 
-## Protection of Certain Personally-Identifying Information
+We ask users signing up for an E-mail adress, that we use to communicate important information regarding your account, and if you opt-in to it, marketing communication. For example, we might communicate a planned downtime for your gameserver or information regarding a purchase you made. Users that choose to make purchases of services offered by DatHost will be asked for additional information, such as name and address which is required for us to collect by accounting and tax laws. We also collect credit card details required for us to carry out that order. DatHost also collects certain information such as IP addresses for our logs and to verify your location so we collect the correct VAT rate. We also collect some non-personally identifying information such as browser type, language preferences and referring site. This is simply to understand our visitors interaction with our site better and improve the quality of our service. We may at times present aggregated reports of non-personally identifying information. 
 
-Dat Host will only share personally-identifying and personally-identifying information with employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Dat Host's behalf or to provide services available at Dat Host's websites, and (ii) that have agreed not to disclose it to others. By using Dat Host's websites, you consent to the transfer of such information to them.   
-Dat Host will not rent or sell potentially personally-identifying and personally-identifying information to anyone. 
+### WHO HAS ACCESS TO YOUR PERSONALLY-IDENTIFYING INFORMATION?
 
-## Cookies
+We take the protection of your PII very seriously, and only ever share your information if we have very good reason to do so. Below is a list of partners and times when your PII is shared. We share your e-mail address with Amazon Web Services (AWS) in order to send out e-mails to you. AWS only saves your e-mail address for as long as is necessary to send out the e-mail for us. If you send a support ticket to us, Freshdesk will have access to the details you give us when submitting the ticket (usually name & e-mail address). This is necessary to give you a better support experience and manage your ticket. Google Analytics does have access to your IP address, but anonymize it and delete your actual IP address as soon as it reaches their system, upon our request. Braintree is our payment processor and they have access to your credit card details, which they need to carry out your purchase with us, but they don't have access to any other PII. If you choose PayPal as your payment provider, they only have access to the information you've entered in their system, and take no information from our systems. 
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Dat Host uses cookies to help Dat Host identify and track visitors, their usage of Dat Host's website, and their website access preferences. Dat Host visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Dat Host's websites, with the drawback that certain features of Dat Host's websites may not function properly without the aid of cookies.
+### COOKIES
 
-## Privacy Policy Changes
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. DatHost uses cookies to help DatHost identify and track visitors, their usage of DatHost's website, and their website access preferences, which in turn help us improve the quality of our service. If you'd rather not have cookies placed on your computer, we recommend you to set your browser to refuse cookies from DatHost's websites, with the drawback that certain features of DatHost's websites may not function properly without the aid of cookies. 
 
-Although most changes are likely to be minor, Pingdom may change its Privacy Policy from time to time, and in Pingdom's sole discretion. Pingdom encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+### PRIVACY POLICY CHANGES
 
-## Change log
+Although changes are likely to be minor, our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (for example email notification of Privacy Policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. We want to be as transparent as possible about the changes we make to our Privacy Policy. In this archive, you can see the previous versions of the policy:  
+[Current Version](https://web.archive.org/privacy-policy)  
+[2015-01-27](https://web.archive.org/privacy-policy-20150127)
