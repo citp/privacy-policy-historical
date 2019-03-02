@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourdeal.com.au privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906090239id_/https%3A//buyblindsonline.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourdeal.com.au privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302140454id_/https%3A//buyblindsonline.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
