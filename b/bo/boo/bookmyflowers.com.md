@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the bookmyflowers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606031733id_/http%3A//www.bookmyflowers.com/static/privacy-policy.dot) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmyflowers.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302060520id_/https%3A//www.bookmyflowers.com/privacy_policy) for the most accurate reproduction.*
 
-# Bookmyflowers - Privacy Policy
+# Privacy Policy
 
-## Privacy Policy  
-  
----  
 **Note:** This Privacy Policy forms an integral part of the Terms and Conditions other policies, disclaimers etc. available on the Website of BOOK MY FLOWERS and shall be read in conjunction.  
+---  
 BOOK MY FLOWERS.com **(“Company,” “we”, “us”, “our” or “BOOK MY FLOWERS”)** is the sole owner of the information collected on all BOOK MY FLOWERS Websites. This privacy statement applies only to information collected by the Website.  
 We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.  
 **Note:**  
