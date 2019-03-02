@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cottonongroup.com.au privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912100713id_/http%3A//cottonongroup.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottonongroup.com.au privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302172955id_/http%3A//cottonongroup.com.au/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Cotton on Group
 
