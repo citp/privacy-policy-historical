@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmrcl.com privacy policy that was archived on 2016-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160224175928id_/https%3A//www.mmrcl.com/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmrcl.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302040353id_/https%3A//www.mmrcl.com/en/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MMRC
 
@@ -23,12 +23,9 @@ We may use the information we collect from you when you register, sign up for ou
     * To send periodic emails regarding your order or other products and services.
   4. How do we protect visitor information?
 
-We do not use vulnerability scanning and/or scanning to PCI standards.
-
-We use regular Malware Scanning.
-
-We do not use an SSL certificate
-
+    * We do not use vulnerability scanning and/or scanning to PCI standards.
+    * We use regular Malware Scanning.
+    * We do not use an SSL certificate
     * We only provide articles and information, we never ask for personal or private information like debit or credit card numbers and / or bank details.
   5. Do we use 'cookies'?
 
