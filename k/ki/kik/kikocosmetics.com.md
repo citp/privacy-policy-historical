@@ -1,0 +1,102 @@
+> *The following text is extracted and transformed from the kikocosmetics.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302011617id_/https%3A//www.kikocosmetics.com/en-us/secure-purchases/privacy-policy.html) for the most accurate reproduction.*
+
+# Privacy Policy - KIKO MILANO
+
+**1\. Introduction**  
+1.1 This Privacy Policy (“Policy”) sets out how KIKO S.p.A and KIKO USA, Inc., whose respective registered offices are at via Giorgio e Guido Paglia n. 1/D, Bergamo, Italy (the operator of this website) and at 470 Park Avenue South, 15th Floor, New York, NY, 10016 (the parties are collectively referred to herein as “KIKO”, “we”, “us”, “our”), collect and process information about you (referred to herein as “you” or “user”) when you visit our website - [http://www.kikocosmetics.com](http://www.kikocosmetics.com/) (“Website”) and use our online services which may include the purchase of KIKO's products online, participation in competitions, events and subscription to KIKO's loyalty program (collectively, the “Services”). The Website may collect personal information of the users, which is information that you provide to us and personally identifies you, such as name, email address, mailing address, phone number, billing, credit card and banking information. By continuing to use this Website, you consent to your information being processed in accordance with this Policy.
+
+1.2 Please note that for the purposes of this Policy and the data processing that we carry out, your information will be collected and stored by KIKO or any of its subsidiaries and/or affiliated companies (collectively referred to herein as “KIKO Businesses”) on servers located in the United States and/or the European Union. Irrespective of which country you reside in or supply information from, you authorize us to transfer, use and store your data and the information provided to or collected by us in the United States, in countries of the European Union and any other country where the KIKO Businesses operate. A complete list of the KIKO Businesses may be requested by sending a mail or email request to us at the addresses set forth hereinabove.
+
+**2\. What information we collect and how we use it**  
+2.1 Information you give us. Any information you give us about yourself when you use our Website, including search history, purchases, communications with customer services, etc., will be stored by us and used in order to provide you with the Services. 
+
+2.2 Information we collect with your consent when you set up an Account with us or purchase products online. Some of our Services may require you to have an online account (“Account”) with us. In order to register for an Account, you will be required to provide us with certain information. While you may choose to withhold certain information, doing so may prevent you from fully enjoying the Services. Information that is required in order to register for an Account is marked with an asterisk on the online Account application. If you have an Account with us, you will also have a unique password which enables you to access your Account. The following information, including certain items of personal information, will be requested when you register for an Account or purchase products online:  
+(a) Your name, date of birth, phone number, sex and email address;  
+(b) Your credit card information or other financial information;  
+(c) Your consent to receive communications, artwork relating to new products and special offers or information on Services offered by KIKO and also by third parties; and  
+(d) Your consent to receive personalized promotions based on targeted profiling and analysis of your choices and behavior while using the Website.
+
+2.3 Information we collect automatically. When you visit our Website, we may automatically collect the following information: your IP address, log-in information, browser type and version, browser plug-in types and versions, operating system and platform, information about your visit, including the URL clickstream to, through and from our Websites, products you viewed or searched for, download errors, length of visits to certain pages and page interaction. We collect information automatically through the use of various technologies, including through “cookies”, as this is explained further below.
+
+2.4 Information we receive from other sources. We may receive information about you if you use any of the other services we provide on this Website, or from other KIKO Businesses. We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them.
+
+2.5 How we use information collected by us. All information collected by us in any form in connection with your use of the Website, whether considered personal information or not, may be obtained, collected, retained, stored or otherwise used for the purposes stated herein, including, but not limited to the following: for purposes related to the fulfillment of the requested Services and obligations related to the execution of the transactions you may enter into with us (including the purchase of KIKO’s products online, participation in competitions, events, loyalty program, management of customer care activities as well as control and analysis of reports and complaints, conducting business prior to entering into a transaction and enforcing obligations related to such transactions, including performing administrative and accounting duties); processing, formatting and displaying customized content on the Website for each user; administering our Website for internal operations including troubleshooting purposes; ensuring that content from our Websites is presented in the most effective manner for you and your devices; as part of our effort to keep our Website safe and secure; measuring or understanding the effectiveness of advertising sent to you and others, and delivering relevant advertising to you; making suggestions and recommendations to you and other users of our Website about goods or services that may interest you or them; communicating with users about changes to our Terms of Use, this Policy or policies or terms relating to us or the Website; responding to communications from users; and ensuring technical functioning of the Website, including creating and maintaining electronic back-ups or other archival copies of information provided to us and other related data. In addition to the purposes listed above, we may use the information collected for the following purposes: (a) advertising and promotional activities, including marketing communications such as newsletters and promotional materials concerning our or third-party products and services, sent by us or third party processors as set forth herein; (b) conducting user analysis in connection with obtaining information about user behavior and/or consumer preferences; and (c) any other lawful purposes for which we desire to use the information.
+
+2.6 BY PROVIDING PERSONAL INFORMATION TO KIKO AND USING THE WEBSITE, USERS ARE EXPRESSLY CONSENTING TO KIKO’S USE OF THE INFORMATION COLLECTED FOR ALL OF THE PURPOSES SET FORTH IN THIS POLICY AND FOR ANY OTHER ADDITIONAL PURPOSES THAT MAY BE SET FORTH ON THE WEBSITE.
+
+**3.  How we share and disclose your personal information**  
+3.1 We may share any of the information provided to us with the KIKO Businesses, other subsidiaries and affiliates of the Odissea Group (holding company of KIKO S.p.A.) and with responsible third parties (both inside and outside of the United States) who perform services and/or functions on our behalf, including their respective representatives, employees or agents. Any third party processors have been carefully selected by us based on experience, capabilities, security, trustworthiness, and the guarantees they offer with respect to compliance with all applicable laws and regulations, including privacy laws.
+
+3.2 KIKO may provide access to its database in order to cooperate with official investigations or legal proceedings initiated by governmental and/or law enforcement officials, as well as private parties, including, for example, in response to subpoenas, search warrants, court orders, or other legal process.
+
+3.3 In the event there is a change in the corporate structure of KIKO including, without limitation, by merger, consolidation, sale, liquidation, or transfer of substantial assets, KIKO may, in its sole discretion, transfer, sell or assign information collected on and through the Website, including, without limitation, personally identifiable information and aggregate information concerning users, to one or more affiliated or unaffiliated third parties.
+
+3.4 Personal information will not be disclosed to third parties without user being informed or without user’s consent, when such consent is required by law.
+
+3.5 A complete list of all parties with whom we may share your information may be requested from KIKO by sending a mail or email request to us at the addresses set forth hereinabove.
+
+**4\. How to opt in or opt out from direct marketing**  
+4.1 We (KIKO S.p.A and KIKO USA) and selected third parties may use the information you give us on our Website for direct marketing purposes to provide communications, updates relating to new products and special offers or information on Services offered by KIKO and also by third parties. Where required by law, your prior consent will be obtained before sending direct marketing. In any event, we will offer you the option to unsubscribe when you register for an Account and every time a communication is sent to you.
+
+**5\. Links to other websites**  
+5.1 The Website may contain hyperlinks to third party websites, and while KIKO makes all reasonable efforts to hyperlink to websites that share its high standards and respect for privacy, KIKO is not responsible for the content or the privacy practices of third party websites. Accordingly, KIKO encourages you to review the privacy statements of websites you may link to through the Website in order to understand how those third party websites collect, use and share your personal and other information.
+
+5.2 Information collected through social buttons and widgets. You may find social buttons and widgets on our Website. These are special “buttons” showing the icons of social networks (for example, Facebook and Twitter). These “buttons” allow you, when visiting the Website, to navigate directly to the websites of social networks. By clicking on the social buttons/widgets, you consent to the social network collecting data related to your visit. If you log in to any of these websites, you should also refer to the privacy policy that is provided on the website you are accessing for information on the purpose and scope of data collection and processing, as well as your rights. With the exception of cases in which you agree to share the data of your web activity with your chosen social networks, KIKO does not share any navigation data or user data acquired through its Website with the social network websites accessible via the social buttons/widgets.
+
+5.3 Authentication through social networks. For some Services provided by us (including our APP loyalty program) we use plug-in social networking to allow you to authenticate and access special services (including access to appropriate portions of the Website, download the APP, join the loyalty program) using your credentials from certain social networks.
+
+**6\. Cookies and other technologies**  
+6.1 When you use the Website, we collect information automatically through the use of “cookies” and similar technologies. A cookie is a text file containing small amounts of information that a website can send to your browser, which may then be stored on your computer or mobile device as an anonymous tag that identifies your computer or mobile device but not you. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies; however, if you do this, some of the Services may not work properly. By using the Website, you consent to the processing of your data by KIKO and the service providers in the manner and for the purposes set out below.
+
+6.2 For information about the specific cookies used on this Website, please see below:
+
+**Strictly Necessary Cookies.** These cookies are necessary to provide you with services available through the Website and to use some of its features, such as access to secure areas. Without these cookies, services you have asked for, like shopping baskets and secure customer account pages, would not be possible.  
+**Who provides these services?** KIKO S.p.A., Gigya, Inc.  
+**How do you block these services?** Not applicable.
+
+**Marketing Cookies.** These cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed, and in some cases selecting advertisements that are based on your interests.  
+**Who provides these services?** Tagman, DoubleClick  
+**How do you block these services?** You may disable any of these cookies via your browser settings. If you do so, various functions of the Website may be unavailable to you or may not work the way you want them to.
+
+**Analytics Cookies.** These cookies collect information that is used either in the aggregate form to help us understand how the Website is being used or how effective our marketing campaigns are, or to help us customize the Website for you. This information will also be used for the purpose of evaluating your use of the Website, compiling reports on website activity for website operators and providing them other services relating to Website activity and internet usage.  
+**Who provides these services?** Google Analytics, NewRelic  
+**How do you block these services?** If you don’t want to receive the cookies of Google Analytics, you can disable them by connecting to the link: <https://tools.google.com/dlpage/gaoptout/>
+
+**Analytics Cookies.** Functionality cookies record information about choices you’ve made and allow us to tailor the Website to you. These cookies mean that when you continue to use or come back to the Website, we can provide you with our Services as you have asked for them to be provided. For example, these cookies allow us to:  
+\- Save your wish lists;   
+\- [Remember settings you have applied, such as layout, text size, preferences, and colors; and  
+\- Show you when you are logged in].  
+**Who provides these services?** Google+, Add This
+
+**7\. Data Retention**  
+7.1 We will not retain your information for longer than is necessary for our business purposes or for legal requirements. However, please be advised that we may retain some information after you have ceased to use some of our Services (unless you instruct us otherwise), for instance if this is necessary to meet our legal obligations such as retaining the information for tax and accounting purposes.
+
+**8\. Minors**  
+8.1 KIKO complies with the Children’s Online Privacy Protection Act (COPPA), a United States law which stipulates that website operators cannot knowingly collect personal information from children under age 13 without verifiable parental permission. Children under 18 are not eligible to use any of the Services offered on the Website. Further, KIKO is not interested in accepting and does not knowingly collect personal or other information from individuals under the age of 18.
+
+**9\. Your rights**  
+9.1 You can access the personal information that you provided to us via your online Account to obtain a copy of it and to correct, amend or delete information that is inaccurate. If you wish to obtain a copy of personal information provided to us, please contact us at the addresses in section 12.1 below. Before we are able to respond to your request, we may ask you to verify your identity and to provide further details about your request. We will endeavor to respond within an appropriate timeframe, and in any event, within any timeframe required by law.
+
+9.2 It is your responsibility to ensure that you submit true, accurate and complete information on your online Account and keep it up to date.
+
+**10\. Rights of California consumers**  
+10.1 In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by telephone at (916) 445-1254 or (800) 952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov). For more information about protecting your privacy, you may wish to visit: [www.ftc.gov](http://www.ftc.gov/).
+
+10.2 If you are a resident of California, you may make a written request to [privacy@percassi.com](mailto:privacy@percassi.com) to ask us (i) to refrain from sharing your personal information with certain of our affiliates and other third parties for marketing purposes; and/or (ii) how we have shared your personal information with select third parties for their direct marketing purposes. In response to your written request, we will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses.
+
+10.3 This Website does not recognize or respond to "do not track" signals from browsers.
+
+**11\. Changes to the Policy**  
+11.1 This Policy was last updated on July 17, 2015. This Policy may change from time to time without notice. KIKO will post any changes on this page of the Website. Accordingly, KIKO encourages you to check back and review this Policy periodically. By continuing to use our Website you confirm your continuing acceptance of this Policy.
+
+**12\. Questions about this Policy**  
+12.1 If you have any requests concerning your personal information or any inquiries with regard to the practices set out in this Policy, please contact KIKO S.p.A at Via Giorgio e Guido Paglia 1/D, 24122 Bergamo (Italy) or via e-mail at [privacy@percassi.com](mailto:privacy@percassi.com) or KIKO USA, Inc. at 470 Park Avenue South, 15th Floor, New York, NY, 10016.
+
+12.2 A complete list of those responsible for data processing at KIKO is available, via written request, from KIKO.
+
+**13\. Information Security**  
+KIKO takes commercially reasonable and appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of its data, including personal information stored or maintained on its servers and other systems. These measures include internal reviews of KIKO’s data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to servers and systems where personal information is stored. KIKO regularly reviews its compliance with this Policy. Please direct any questions or concerns regarding this Policy or KIKO’s treatment of personal information by contacting KIKO by mail or email at the address set forth hereinabove. KIKO will make reasonable efforts to cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal information.
+
+**14\. Governing law**  
+14.1 The processing of personal information by KIKO will be conducted in compliance with applicable US laws and, to the extent processed in Europe, European Union laws.  
+Personal data stored in our servers in Italy is subject to Italian legislation (Art. 13, Legislative Decree no. 196/03, as well as Art. 7, 23 and 130, hereinafter “Personal Data Protection Code”). According to Art. 7 of the Personal Data Protection Code, you can at any time obtain (i) proof about whether or not your personal information is present in the system, (ii) information about your personal information’s contents and origin, (iii) verification, integration or updating and rectification of your personal information, (iv) removal or change to anonymous form of your personal information.
