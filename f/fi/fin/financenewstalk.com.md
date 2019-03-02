@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financenewstalk.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231041031id_/http%3A//financenewstalk.com/privacy/%23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financenewstalk.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302030223id_/http%3A//financenewstalk.com/privacy/%23) for the most accurate reproduction.*
 
 # Privacy | A Financial Inform Ation Release Platform
 
