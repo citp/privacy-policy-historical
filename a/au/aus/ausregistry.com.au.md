@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ausregistry.com.au privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125152715id_/https%3A//ausregistry.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausregistry.com.au privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302041438id_/https%3A//www.ausregistry.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AusRegistry
 
