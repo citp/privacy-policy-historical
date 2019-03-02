@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizvotes.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027215051id_/http%3A//www.bizvotes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizvotes.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302065913id_/http%3A//www.bizvotes.com/privacy.php) for the most accurate reproduction.*
 
 # BizVotes.com - Vote For Your City's Best
 
