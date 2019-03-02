@@ -1,177 +1,172 @@
-> *The following text is extracted and transformed from the laserspineinstitute.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017034353id_/http%3A//www.laserspineinstitute.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laserspineinstitute.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302233825id_/https%3A//www.laserspineinstitute.com/privacy_policy) for the most accurate reproduction.*
 
 # Laser Spine Institute Privacy policy
 
-### Notice of Privacy Policy
+This Privacy Policy explains the privacy practices of Laser Spine Institute, LLC and certain of its affiliates identified in the section “Affiliates” below, (collectively “LSI”, “we”, “us”, “our”) for personal information collected when you visit our website, [https://www.laserspineinstitute.com](https://www.laserspineinstitute.com/), (the “Site”) and when you communicate with us in other ways.
 
-## THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
+This Privacy Policy covers:
 
-Laser Spine Institute, LLC and its affiliates (LSI) understand the importance of privacy, and are committed to maintaining the confidentiality of your medical information. We make a record of the medical care we provide, and may receive such records from others. We use these records to provide or enable other health care providers to provide quality medical care, to obtain payment for services provided to you as allowed by your health plan and to enable use to meet out professional and legal obligations to operate this medical practice properly.
+  1. The personal information collected from you through the Site, how it is used and with whom it may be shared;
+  2. The security procedures in place to protect the misuse of your information;
+  3. What choices are available to you regarding the use of your personal information; and
+  4. How to correct any inaccuracies or learn more about the personal information we have collected.
 
-We are required by law to provide you with this notice explaining LSI's privacy practices with regard to your medical information and how we may use and disclose your protected health information (PHI) for treatment, payment, and for health care operations, as well as for other purposes that are permitted or required by law. You have certain rights regarding the privacy of your protected health information and we also describe those rights in this notice.
 
-We are required by law to make sure that medical information about you is kept private. We are required to give you this notice of our legal duties and privacy practices with respect to medical information about you. We are required to abide by the terms of the notice currently in effect; and 
 
-LSI reserves the right to change the provisions of our Notice and make new provisions effective for all PHI we maintain. If LSI makes a material change to our Notice, we will post the changes promptly on our website at http://www.laserspineinstitute.com.
+### Personal Information Collected on the Site
 
-## What is Protected Health Information?
+The term “personal information” as used in this Privacy Policy refers to (1) information that identifies you directly such as your name, street address, or email address, and (2) other information, such as your IP address, device ID, and data from cookie and similar technologies, that may be identified with you.
 
-Protected Health Information (PHI) consists of individually identifiable health information, which may include demographic information LSI collects from you or creates or receives by a health care provider, a health plan, your employer, or a health care clearinghouse and that relates to: (1) your past, present or future physical or mental health or condition; (2) the provision of health care to you; or (3) the past, present or future payment for the provision of health care to you. 
+If you request information or chat with us using our Site, we may ask for your name, telephone number, email address, mailing address and, in certain Site features, insurance and medical information. Also, we and our authorized marketing partners may use cookies and other technologies to collect data about our Site visitors including IP address and Site usage, as described below under “Automatic Collection Using Cookies and Other Technologies.”
 
-## Effective Date
+Our separate [Notice of Privacy Practices](https://web.archive.org/privacy_practices/) explains how we collect, handle, store, and share protected health information protected by the U.S. Federal Health Insurance Portability and Accountability Act (“HIPAA”). If you choose to participate in any of the features of our Site that involve submitting your medical and or insurance information, LSI will handle your protected health information as described in our Notice of Privacy Practices. We do not share protected health information with third parties except as permitted under HIPAA and described in the Notice of Privacy Practices.
 
-This Notice of Privacy Practices became effective on April 14, 2003 and was amended on October 18, 2011. 
+We may create de-identified data from personal information by electronically removing data components (such as your name, email address, or linkable tracking ID) that make the data identifiable to a particular individual. Our use of de-identified data is not subject to this Privacy Policy.
 
-## Ways in Which We May Use and Disclose Your Protected Health Information
+### Information from Other Sources
 
-**_Treatment_**
+We obtain personal information from our direct email and other communications with you and may obtain demographic information (age, sex, household income, employment) from marketing and data analytics resources. The personal information you give us and information about you collected from our Site and other points of contact may be combined with other personal information available from our records and third party sources.
 
-We will use and disclose your protected health information to provide, coordinate, or manage your health care and any related services. We will also disclose your health information to other providers who may be treating you. Additionally we may from time to time disclose your health information to another provider who has been requested to be involved in your care. For example - we may share information about you with: referring physicians, your primary care physician, a specialist, or pharmacy. 
+### Purposes of Information Collection
 
-**_Payment_**
+We use the information that you provide for the following purposes:
 
-We will use and disclose your protected health information to obtain payment for the health care services we provide you. For example - we may include information with a bill to a third-party payer that identifies you, your diagnosis, procedures performed, and supplies used in rendering the service. 
+  * responding to your requests for information regarding our services;
+  * evaluating whether you are a candidate for our services;
+  * communicating with you in order to schedule, perform, bill, administer, and otherwise fulfill the services we will provide you;
+  * reviewing live agent chats created when using the “Chat Now” feature for training purposes;
+  * evaluating health insurance payment options;
+  * providing marketing information and updates about our programs and services that may be of interest to you; and
+  * asking you to participate in surveys and other activities that help us to evaluate our services.
 
-**_Health Care Operations_**
 
-We will use and disclose your protected health information to support the business activities of our facilities. For example - we may use medical information about you to review and evaluate our treatment and services or to evaluate our staff's performance while caring for you. In addition, we may disclose your health information to third party business associates who perform billing, consulting, or transcription, or other services for our facility.
 
-## Other Ways We May Use and Disclose Your Protected Health Information
+If you do not want us to use your contact information to provide marketing and promotional materials, you should let us know as explained under the section titled “How to Opt-out of Promotional E-mails and Personalized Advertising” below.
 
-**_As Required by Law_**
+### Automatic Collection Using Cookies and Other Technologies
 
-We will use and disclose your protected health information when required to by federal, state, or local law.
+Our Site also collects data using “cookies” and other internet technologies as you browse. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (unless you disallow) that enable the Site or our service provider to recognize your browser and capture and store your personal setting and other information. They are also used to help us understand your preferences based on previous or current site activity and compile aggregate data about site traffic and site interaction that are used to analyze visitor demographics and improve the Site.
 
-**_Appointment Reminders_**
+The types of information collected using these technologies include:
 
-We may use and disclose protected health information to remind you about appointments. If you are not home, we may leave this information with the person answering the phone or on your answering machine. 
+  * _Identification_ – date and time of your visits to our Site, and history of visits;
+  * _Device_ – IP address, internet domain name, browser type, operating system, mobile network, device telephone number;
+  * _Usage_ – previous website, history of Site pages viewed, time spent viewing each page, number and duration of visits, and other internet activities that reflect your interests.
 
-**_Business Associates_**
 
-There are some services provided in our organization through contracts with business associates. Examples include radiography services, laboratory tests, billing clearinghouses, attorney/legal services. When these services are contracted, we may disclose your health information so that they can perform the job we've asked them to do and bill you or your third-party payer for services rendered. We require the business associate to appropriately safeguard your information.
 
-**_Lawsuits and Disputes_**
+In addition to the above, we may collect general geographic location determined by your IP address and more specific location from mobile device use (unless blocked).
 
-We may disclose medical information about you in response to a court or administrative order. We may also disclose medical information about you in response to a subpoena, discovery request, or other lawful process by someone else involved in the dispute, but only if efforts have been made to tell you about the request or to obtain a court order protecting the information requested.
+You can set your computer to warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (e.g., Microsoft Internet Explorer, Mozilla Firefox, Google Chrome, or Apple Safari) settings. Each browser is different - your browser’s “Help” menu can provide the correct way to modify the way it handles cookies. If you turn cookies off, you may not have access to features that make your Site experience more efficient and some of the Site’s services may not function properly.
 
-**_Health Oversight Activities_**
+Note that your internet service provider and mobile device manufacturer also may collect information about you or your activities via the Site. The data they collect generally are not available to LSI.
 
-When authorized by law, we may disclose your protected health information to a health oversight agency for purposes of audits, civil or criminal investigations, licensure, and other inspections.
+### Why and With Whom We Share Information
 
-**_Victims of Abuse, Neglect, or Domestic Violence_**
+_Important Note about Protected Health Information._ We do not share the protected health information you submit to us on our Site with third parties except as permitted under HIPAA. The information in this section of our Privacy Policy explains why and with whom we may share other types of information (for example, contact information and usage data collected by cookies) with third parties or allow third parties to have access to those types of information.
 
-When required by law or if you agree to the report and if we believe that you have been a victim of abuse, neglect, or domestic violence, we may use and disclose your protected health information to notify a government agency.
+_Service providers._ We share information with our service providers (including payment processors, cloud storage and other service providers, email servicing providers, e-commerce content management system providers,) who perform administrative and technology functions on our behalf. In addition to these partners, we may, upon receiving your written consent, share your information with third-party financing partners that can assist in covering the costs for your care. We seek to select service providers who demonstrate their commitment to protecting the personal information we entrust to them.
 
-**_To Avert a Serious Threat to Public Health or Safety_**
+_Data analytics._ While you use the Site, information is passively collected about you and your online activities by data analytics companies including Google Analytics and other companies we authorize. These third parties provide reports to us about our Site usage and visitor demographics. They also use the information collected on our Site for their own business purposes. Google represents to us that it processes data for Site usage and other analytics purposes without revealing any information that identifies you individually. You can learn about how Google collects and processes data from websites for advertising and data analytics purposes at <https://policies.google.com/technologies/partner-sites>. You can learn about the controls Google offers to manage the collection and use of your personal information at <https://policies.google.com/privacy>.
 
-We may disclose your health information to (a) a public health authority that is authorized by law to collect information for the purpose of preventing or controlling disease, injury, or disability, including, but not limited to, the reporting of disease, injury, vital events such as birth or death, and the conduct of public health surveillance, public health investigations, and public health interventions; or, at the direction of a public health authority, to an official of a foreign government agency that is acting in collaboration with a public health authority, (b) a public health authority or other appropriate government authority authorized by law to receive reports of child abuse or neglect, (c) to a person subject to the jurisdiction of the Food and Drug Administration (FDA) with respect to a FDA-regulated product or activity for which that person has responsibility, for the purpose of activities related to the quality, safety or effectiveness of such FDA-regulated product or activity such as the collection or reporting of adverse events, product defects or problems, the tracking of FDA-regulated products, to enable product recalls, repairs, or replacement, or to conduct post marketing surveillance or (d) in relation to a public health investigation into whether a person who may have been exposed to a communicable disease or may otherwise be at risk of contracting or spreading a disease or condition so long as the investigating health authority is authorized by law to notify such person as necessary in the conduct of a public health intervention or investigation.
+In addition to Google Analytics, we sometimes forward the information you submit to us (via online questionnaires or in subsequent telephone conversations) to third-party analytics firms, which aggregate the information you submit with other publicly available information, which allows us to better tailor our service offerings to you both now and in the future.
 
-**_Research_**
+These third parties do not have access to any protected health information.
 
-We may disclose information to researchers when their research has been approved by an Institutional Review Board that has reviewed the research proposal and established protocols to ensure the privacy of your health information.
+_Marketing._ Unless you instruct us not to, we will use your contact information to send you e-mails and other communications about our products and services. We may also exchange certain contact information, including but not limited to your name and email address, with third parties for marketing purposes. We do not sell, exchange or disclose your protected health information for marketing purposes. See “How to Opt-out of Promotional E-mails and Personalized Advertising” below.
 
-**_Workers' Compensation_**
+_Advertising._ Using the information you provide us, we may send you informational emails about services that we believe may interest you. Additionally, we partner with third parties, such as Google Ads or similar vendors, to manage our advertising on other websites. Google Ads and similar vendors use cookies and other internet technologies to gather information about your activities on our Site and other websites in order to provide you advertising based upon your browsing activities and interests. You may contact us to opt out of informational emails regarding our services and may opt out of third-party, internet-based ads with the specific third parties. See “How You Can Control Information Collection —Opting Out of Direct Marketing and Personalized Advertising” below.
 
-We will use and disclose your protected health information for workers' compensation or similar programs that provide benefits for work-related injuries or illness.
+_Legal Process and Site Protection._ We may disclose your personal information to third parties without notice to you in order to comply with applicable law, law enforcement agencies, enforce our Site policies, protect our rights, or protect the rights of other users of the Site. We may disclose information to companies assisting in fraud protection or investigation.
 
-## Uses and disclosures that require LSI give you the opportunity to object or "opt out"
+_Business Transactions._ In order to prepare for or undertake a business transaction, such as a financing, reorganization, or business sale or transfer, where we have a legitimate interest in disclosing personal information, subject to appropriate confidentiality protections, we may share personal information with transaction parties and their advisors; and retain a copy of the information following the transaction.
 
-**_Others Involved in Your Care_**
+### How We Secure Personal Information
 
-We may provide relevant portions of your Protected Health Information (PHI) to a family member, a relative, a close friend, or any other person you identify as being involved in your medical care or payment for care. In an emergency or when you are not capable of agreeing or objecting to these disclosures, we will disclose PHI as we determine is in your best interest, but will tell you about it after the emergency, and give you the opportunity to object to future disclosures to family and friends.
+We use commercially reasonable organizational and physical safeguards to protect the security, confidentiality, and integrity of your personal information and to meet the standards of this Privacy Policy, and require third parties who can access your information to do the same. We limit access to personal information to our staff and service providers who we believe reasonably need to come into contact with that information to provide services to you or do their jobs. When you enter sensitive information, we encrypt that information in transit. Still, we cannot guarantee the security of your personal information from unauthorized access, disclosure, use, or alteration. There is always a risk inherent in the electronic transmission and storage of information (including without limitation the risks of unauthorized entry or use, telecommunication issues, hardware or software failure, and other factors).
 
-**_Facility Directory_**
+### Social Media Activities and Third-Party Links
 
-Unless you object, we may use and disclose certain limited information about you in our directory while you are in our facilities. This information may include your name and your location within our facility, but will not include specific medical information about you and we may disclose directory information to people who ask for you by name.
+This Privacy Policy applies solely to information collected by our Site. In an attempt to provide you with useful information, we may include third-party links on our Site. These linked sites have separate and independent privacy policies. If you connect with any of the social media activities available on our Site, such as the Facebook “Like” button, the social media platform controls these activities, not LSI. These other websites may send their own cookies to you, independently collect your personal information including your IP address and the page you are visiting on our Site, and may set a cookie to enable the activity to perform.
 
-## Uses or Disclosures Not Covered by this Notice
+We have no control over the privacy practices, or content of the applications and websites to which we provide access from our Site. LSI does not endorse, approve, or certify these third-party websites, applications or other materials provided therein, and we do not guarantee their accuracy, completeness, legality, or any other aspect. We therefore have no responsibility or liability for the content and activities of these linked sites.
 
-Uses or disclosures of your health information not covered by this notice or the laws that apply to us may only be made with your written authorization. You may revoke such authorization in writing at any time and we will no longer disclose health information about you for the reasons stated in your revocation. Disclosures made in reliance on the authorization prior to the revocation are not affected by the revocation. 
+### How You Can Control Information Usage
 
-## Patient Rights Related to Protected Health Information
+You can control how technologies are used to track and log your online activities in several ways, including:
 
-Although your health record is the physical property of the facility that compiled it, the information belongs to you. You have the right to: 
+  1. Managing the preference settings on your browser and device.
+  2. Communicating directly with Google as explained at: <https://policies.google.com/privacy>.
+  3. Purchasing a utility from an independent software provider that you install on your computer browsers to restrict tracking of your browsing activity.
 
-**_Request an Amendment_**
 
-You have the right to request that we amend your medical information if you feel that it is incomplete or inaccurate. You must make this request in writing to our Director of Health Information Management, stating what information is incomplete or inaccurate and the reasoning that supports your request. 
 
-We are permitted to deny your request if it is not in writing or does not include a reason to support the request. We may also deny your request if: 
+### Opting out of Direct Marketing and Personalized Advertising
 
-  * The information was not created by us, or the person who created it is no longer available to make the amendment. 
-  * The information is not part of the record which you are permitted to inspect and copy. 
-  * The information is not part of the designated record set kept by this facility or if it is the opinion of the health care provider that the information is accurate and complete. 
+At any time, you can tell us to stop sending you e-mail and other direct marketing or personalized internet advertising or to otherwise change your communications preferences by:
 
+  1. Clicking “unsubscribe” in an email you receive from us;
+  2. Emailing us at [optout2@laserspineinstitute.com](mailto:optout2@laserspineinstitute.com) with the word “unsubscribe” in the subject line; or
+  3. Calling our general switchboard at [1-866-249-1627](tel:1-866-249-1627) or any of our individual practice locations.
 
 
-**_Request Restrictions_**
 
-You have the right to request a restriction of how we use or disclose your medical information for treatment, payment, or health care operations. For example - you could request that we not disclose information about a prior treatment to a family member or friend who may be involved in your care or payment for care. Your request must be made in writing to the Director of Health Information Management. 
+### How You Can Make Requests About Your Personal Information
 
-We are not required to agree to your request if we feel it is in your best interest to use or disclose that information. If we do agree, we will comply with your request except for emergency treatment. 
+If you contact us for any of the reasons listed below, we will make a prompt and commercially reasonable effort to honor your request:
 
-As stated later in this notice, under HITECH, if a patient pays in full for their services out of pocket they can demand that the information regarding the service not be disclosed to the patient's third party payer since no claim is being made against the third party payer. 
+  1. To opt out of direct marketing communications;
+  2. To ask us to limit how we use your personal information;
+  3. To ask us to correct personal information we have about you;
+  4. To find out what personal information we have about you or request a readable copy;
+  5. To object to our further use of your personal information;
+  6. To advise us about a complaint regarding how we handle your personal information; and
+  7. To ask us to delete the personal information we have about you.
 
-**_Inspect and Copy_**
 
-You have the right to inspect and copy the protected health information that we maintain about you in our designated record set for as long as we maintain that information. This designated record set includes your medical and billing records, as well as any other records we use for making decisions about you. We may charge you a fee for the costs of copying, mailing, or other supplies used in fulfilling your request. 
 
-If you wish to inspect or copy your medical information, you must submit your request in writing to our Director of HIM: Laser Spine Institute, Attention: Mary Mayer, Director of HIM, 3001 N. Rocky Point Dr. E., Suite 300, Tampa, FL 33607. You may mail your request, or bring it to the Health Information Management office. We will have 30 days to respond to your request for information that we maintain at our facility. If the information is stored off-site, we are allowed up to 60 days to respond but must inform you of this delay. 
+To protect your privacy and security, we may take steps to verify your identity before taking action on your request.
 
-As stated later, HITECH expands this right, giving individuals the right to access their own e-health record in an electronic format and to direct LSI to send the e-health record directly to a third party. LSI may only charge for labor costs under electronic transfers of e-health records. 
+### Additional Privacy Rights for California Residents
 
-**_An Accounting of Disclosures_**
+Under California’s "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us, once per calendar year, information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2016 will receive information regarding 2015 sharing activities).
 
-You have the right to request a list of the disclosures of your health information we have made outside of our facility that were not for treatment, payment, or health care operations. Your request must be in writing and must state the time period for the requested information. You may not request information for any dates prior to April 14, 2003, nor for a period of time greater than six years (our legal obligation to retain information). 
+To obtain this information from us, please send an e-mail message to optout2@laserspineinstitute.com with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
 
-Your first request for a list of disclosures within a 12-month period will be free. If you request an additional list within 12-months of the first request, we may charge you a fee for the costs of providing the subsequent list. We will notify you of such costs and afford you the opportunity to withdraw your request before any costs are incurred. 
+The Site does not respond to “do not track” requests.
 
-**_Request Confidential Communications_**
+### CONSENT TO PROCESSING YOUR INFORMATION IN THE UNITED STATES
 
-You have the right to request how we communicate with you to preserve your privacy. For example - you may request that we call you only at your work number, e-mail or by mail at a special address or postal box. Your request must be made in writing and must specify how or where we are to contact you. We will accommodate all reasonable requests. 
+LSI provides services only in the United States. We are subject to the privacy and security laws covering healthcare information (“HIPAA”), as well as consumer protection laws and regulations of the United States and its individual states, as applicable. If you reside or are located in a different country, the data protection laws of that country may differ as to how your personal information is protected. We want you to understand that when you provide your personal information to us, or we obtain it through our website, by phone, or other means, you will be transferring your information to the United States. In doing that, you are giving us your consent to process your information in the United States, in accordance with United States law, for our legitimate business purposes as explained in this Privacy Policy. We will respond to requests you may have about your personal information as described in this Privacy Policy.
 
-**_File a Complaint_**
+### HOW TO CONTACT US
 
-If you believe we have violated your medical information privacy rights, you have the right to file a complaint with our facility or directly to the Secretary of the United States Department of Health and Human Services: U.S. Department of Health & Human Services | 200 Independence Avenue, S.W. | Washington, D.C. 20201. Phone: (202) 619-0257 Toll Free: (877) 696-6775. 
+Please contact us if you have any requests about your personal information as described in this Privacy Policy. And, we welcome your questions, comments, and concerns about this Privacy Policy and our Site.
 
-To file a complaint with our facility, you must make it in writing. Provide as much detail as you can about the suspected violation and send it to Laser Spine Institute, c/o Todd Hapiuk, Privacy Officer, at 3031 N. Rocky Point Dr. W., Suite 300, Tampa, FL 33607 You will not be retaliated against for filing a complaint. 
+By emailing us at [optout2@laserspineinstitute.com](mailto:optout2@laserspineinstitute.com)
 
-**_A Paper Copy of This Notice_**
+By letter at
 
-You have the right to receive a paper copy of this notice, even if you agreed to receive this Notice electronically. You may request a copy of this Notice at any time by contacting our office in writing or by phone.
+Laser Spine Institue  
+Privacy Officer  
+5332 Avion Park Dr., Tampa, FL 33607
 
-## HITECH Amendments
+By phone at [1-866-249-1627](tel:1-866-249-1627)
 
-LSI is including HITECH Act provisions to its Notice as follows:
+We may need to confirm your identity in order to respond to some requests.
 
-**_HITECH Notification Requirements_**
+### NOTIFICATION OF CHANGES TO THIS PRIVACY POLICY
 
-Under HITECH, LSI is required to notify patients whose PHI has been breached. Notification must occur by first class mail within 60 days of the event. A breach occurs when an unauthorized use or disclosure that compromises the privacy or security of PHI poses a significant risk for financial, reputational, or other harm to the individual.   
-This notice must:  
+If we make substantive changes to this Privacy Policy, we will notify you by posting the changes on the Site.
 
+### AFFILIATES
 
-  1. Contain a brief description of what happened, including the date of the breach and the date of discovery;
-  2. The steps the individual should take to protect themselves from potential harm resulting from the breach;
-  3. A brief description of what LSI is doing to investigate the breach, mitigate losses, and to protect against further breaches.
+This Privacy Policy describes the usage of your data by the following entities, which are corporate affiliates of Laser Spine Institute, LLC:
 
+  1. LSI Management Company, LLC
+  2. Laser Spine Surgical Center, LLC
+  3. Laser Spine Surgery Center of Arizona, LLC
+  4. Laser Spine Surgery Center of Cincinnati, LLC
+  5. Laser Spine Surgery Center of St. Louis, LLC
 
 
-**_Business Associates_**
-
-LSI's Business Associate Agreements have been amended to provide that all HIPAA security administrative safeguards, physical safeguards, technical safeguards and security policies, procedures, and documentation requirements apply directly to the business associate.
-
-**_Cash Patients/Clients_**
-
-HITECH states that if a patient pays in full for their services out of pocket they can demand that the information regarding the service not be disclosed to the patient's third party payer since no claim is being made against the third party payer.
-
-**_Access to E-Health Records_**
-
-HITECH expands this right, giving individuals the right to access their own e-health record in an electronic format and to direct LSI to send the e-health record directly to a third party. LSI may only charge for labor costs under the new rules.
-
-**_Accounting of E-Health Records for Treatment, Payment, and Health_**
-
-LSI does not currently have to provide an accounting of disclosures of PHI to carry out treatment, payment, and health care operations. However, starting January 1, 2014, the Act will require LSI to provide an accounting of disclosures through an e-health record to carry out treatment, payment, and health care operations. This new accounting requirement is limited to disclosures within the three-year period prior to the individual's request. 
-
-LSI must either: (1) provide an individual with an accounting of such disclosures it made and all of its business associates disclosures; or (2) provide an individual with an accounting of the disclosures made by LSI and a list of business associates, including their contact information, who will be responsible for providing an accounting of such disclosures upon request.
-
-### Thank You
