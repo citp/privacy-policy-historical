@@ -1,85 +1,173 @@
-> *The following text is extracted and transformed from the nyandcompany.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130014437id_/https%3A//www.nyandcompany.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyandcompany.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302070221id_/https%3A//www.nyandcompany.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - New York & Company
 
-New York & Company believes it is important to let visitors to nyandcompany.com (the "Website") know what types of information we collect online, and how we may use and share that information. In this online Privacy Policy, "we", "our" or "us" refers to New York & Company, and "you" or "your" refers to each visitor to the Website. Except for the section titled Your California Privacy Rights, this Privacy Policy applies only to information that we collect about you on the Website.
+**Introduction**
 
-**What Information We Collect**  
-**Shopping:**  
-When you shop on the website, we will collect the information necessary to complete your order, such as your name, e- mail address, shipping address, payment information (including credit card number and/or debit card number) and billing address. If you create an Account, we will collect information about your purchases and payment methods, as well as the shipping addresses that you add to your Address Book, in order to make future shopping experiences faster and more convenient. You may change or delete the saved information anytime. Simply go to My Account, and log in with your email address and password. You may edit or delete whatever personal information you wish.
+Welcome! You have arrived at a website provided by New York & Company (" **Company** " or " **we,** " " **our** " or " **us** "). This " **Privacy Policy** " governs the Company's family of brand websites, including New York & Company ([https://www.nyandcompany.com](https://www.nyandcompany.com/)) and Fashion to Figure ([https://www.fashiontofigure.com](https://www.fashiontofigure.com/)), and any interactive features, applications, and or other services that posts a link to this Privacy Policy (each, a " **Site** "). This Privacy Policy also applies to Personal Information we may collect from you in our retail stores (each a " **Store** " or collectively, " **Stores** "), via phone calls with our Customer Service representatives, and Company sponsored events, including through official surveys and Promotion entry forms, or in any other instance when you contact us.
 
-**Contests:**  
-We will collect personal information from you whenever you enter the online contests that we occasionally offer on the website. This information may include your name, mailing address, phone number and e-mail address.
+This Privacy Policy describes what information Company collects about you, why we collect it, how we use it, and under what circumstances we may share it with third parties. To the extent we provide you notice on our Site or in our Stores of different or additional privacy policies or practices (e.g., at the point of our collection) , those additional terms shall govern such data collection and use. If you voluntarily provide your information in the course of purchasing our products or otherwise using or interacting with our Site, we will take that as your agreement to our collection, use and disclosure of your information as set forth in this Privacy Policy.
 
-**New York & Company Credit Card:**  
-If you apply online for a New York & Company credit card, you will be providing your personal information directly to the issuing bank for the New York & Company credit card. However, your name, address, phone number, birth date and credit card account number, as well as any additional information necessary for us to provide you with the bonuses and benefits of a New York & Company credit card, may be provided to us by the card issuer.
+In addition, please review the Site's [Terms & Conditions](https://www.nyandcompany.com/static/terms-conditions/), which governs your use of the Site. By using our Site, you consent to our Privacy Policy and agree to our Terms & Conditions.
 
-**General Browsing:**  
-We gather navigational information about where visitors go on the Website and information about the technical efficiencies of our Website and services (i.e., time to connect to the Website, time to download pages, etc.). This information allows us to see which areas of our Website are most visited and helps us better understand our visitors' experiences at the website. This helps us improve the quality of the Website by recognizing and delivering more of the features, areas and services our visitors prefer. In this process of gathering navigational information, non-personally identifiable information (for example, domain type, browser version, service provider and IP address) may be collected.
+**What Information We Collect**
 
-**Use of Cookies:**  
-The Website uses a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies are typically stored on your computer's hard drive and are used to help track clicks as you go through the pages within our Website. We may also use cookies to tell us whether you have previously visited the website. In addition, if you elect to register for one of the online sweepstakes or promotions that we offer at the Website, cookies might allow us to associate your navigational information with your registration information. You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. Turning off cookies will not prevent you from placing your order.
+  1. **(a) Information You Provide to Us**
 
-**Use of Pixel Tags and JavaScript Tags:**  
-We also use "pixel tags" (also called "web beacons" or "clear gifs") and JavaScript tags, placed on our Website and in our emails, but not on your computer. These tags help us analyze our customers' online behavior and measure the effectiveness of our Website and our advertising. We work with service providers that help us track, collect, and analyze this information.
+We may ask you to provide us (i) your first and last name, email address, home or other mailing and billing addresses, telephone number, mobile number, credit and debit card numbers and date of birth or other information that could reasonably be used to identify you personally (hereinafter " **Personal Information** "); and / or (ii) demographic information, such as information like your gender and date of birth (" **Demographic Information** "). We may collect this information when you:
 
-The tags on our Website may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with our Website. This information may include your computer's internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of other websites that you visit.
+    * Make a purchase or place an order at our Store, through the Site or by phone;
+    * Submit account registration forms or otherwise save your information with us on our Site;
+    * Apply for a credit card;
+    * Sign up or request to be placed on our mailing, SMS text and or email marketing lists;
+    * Sign up for a loyalty program;
+    * Participate in a survey or Promotion (defined below);
+    * Contact us regarding a question or concern such as when you make inquiries concerning our merchandise or services;
+    * Participate in any location services we offer (e.g., to provide you with information about new Store openings near you and inform you of new products and promotions that may be of interest to you based on your location);
+    * Submit an application for employment; and or
+    * Otherwise interact with Company, the Site or a Store.
 
-Pixel tags, JavaScript tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us. If you have turned off cookies and disabled JavaScript, the pixel tags and JavaScript tags will only detect you as an anonymous visitor to our Website.
+Your decision to provide us with information is voluntary, but if you choose not to provide any requested information you may not be able to take advantage of all of the Site's features, including purchasing products.
 
-We also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the internet. These companies may collect information about your visits to our Website and your interaction with our advertising and other communications. If you would like more information about this practice and to know your choices about not having your information used by these companies, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+  2. **(b) General Browsing**
 
-We may combine the information we collect through cookies, pixel tags and JavaScript tags with other information we have collected from you. This information may be used to improve our Website, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, and for other internal business purposes.
+In addition to information that you choose to submit to us, we and or our service providers may automatically collect and or store certain information when you visit or interact with the Site (" **Usage Information** "). This Usage Information may be stored and or accessed from your personal computer, laptop, tablet, mobile phone or other device (a " **Device** ") whenever you visit or interact with our Site. Usage Information may include:
 
-**Why We Collect Information**  
-We collect information at our website to allow you to purchase merchandise from us, to improve your online viewing, and to improve your shopping experiences at nyandcompany.com and at New York & Company stores. The information we collect online is also used to administer our online contests and to deliver services and information about our products to you. The information we receive from the issuer of the New York & Company credit card is used by us to deliver information about our products to you and to provide you with the bonuses and benefits of a New York & Company credit card, such as contacting you about upcoming in-store promotions and sending you a mailing during your birthday month.
+    * your IP address, UDID or other unique identifier (" **Device Identifier** ");
+    * your Device functionality (including browser, operating system, hardware, mobile network information);
+    * the areas within our Site that you visit and your activities there, including remembering you and your preferences; 
+    * your Device location;
+    * your Device characteristics; and
+    * certain other Device data, including the time of day you visit our Site.
+  3. **(c) Use of Cookies and other Tracking Technologies**
 
-**When We Disclose Information**  
-New York & Company does not sell, rent or trade your e- mail address to unaffiliated third parties. However, your name and mailing address will be added to the our database, and unless you notify us otherwise as described in Your Choices About the Information We Collect, we may share your name and mailing address with unaffiliated third parties whose products you may find of interest.
+We may use various methods and technologies to store or collect Usage Information (" **Tracking Technologies** "). Tracking Technologies may set, change, alter or modify settings or configurations on your Device. A few of the Tracking Technologies used on the Site, include, without limitation, the following (and subsequent technology and methods later developed):
 
-We may disclose specific information about you if necessary to do so by law, or based on our good faith belief that it is necessary to conform or comply with the law. We also may disclose information to prevent fraud to reduce credit risks, to cooperate with police and other governmental authorities, or to protect the rights, property or safety of visitors to the Website or the public.
+    * **_Cookies_.** A cookie is a file placed on a Device to uniquely identify your browser or to store information on your Device. Our Site may use HTTP cookies, HTML5 cookies, Flash cookies and other types of cookie technology to store information on local storage.
+  
 
-We may disclose information about you if there is a sale of all or part of our business, or if we go through a reorganization or merger.
+    * **_Web Beacons_.** A Web Beacon is a small tag (which may be invisible to you) that may be placed on our Site's pages and messages.
+  
 
-We use third parties to help process and ship your orders when you purchase merchandise from us. We also may use third parties to help us provide new or better products and services to you, and to monitor site activity, conduct surveys, and administer e-mails, drawings or contests. We require these third parties to maintain the confidentiality and security of personally identifiable information (i.e. name, address, e-mail address, telephone number) that they receive.
+    * **_Embedded Scripts_.** An embedded script is programming code that is designed to collect information about your interactions with the Site, such as the links you click on.
+  
 
-**Your Choices About the Information We Collect**  
-If you would prefer that we not share your name and mailing address with third parties to receive promotional offers, you have the option to opt out of such sharing. To do so, please call us at (800) 723-5333 (option 2). Your choice will not affect our ability to share information in the other ways described in this Privacy Policy.
+    * **_ETag, or entity tag_.** An Etag or entity tag is a feature of the cache in browsers. It is an opaque identifier assigned by a web server to a specific version of a resource found at a URL.
+  
 
-If you do not wish to receive e-mails about special offers, new fashion trends, contests and other promotions from nyandcompany.com, or if you do not wish to receive other marketing materials by regular mail from nyandcompany.com, please call us at (800) 723-5333 (option 2).
+    * **_Browser Fingerprinting_.** Collection and analysis of information from your Device, such as, without limitation, your operating system, plug-ins, system fonts and other data, for purposes of identification.
+  
 
-**Privacy of Children Who Visit the Web Site**  
-New York & Company recognizes the importance of children's safety and privacy. The Website is not designed to attract children, and is not intended for use by any children under the age of 13\. We do not request, or knowingly collect, any personally identifiable information from children under the age of 13. Children under the age of 18 may use the Website only under the supervision of a parent or legal guardian who agrees to be bound by the Terms and Conditions.
+    * **_Recognition Technologies_.** Technologies, including application of statistical probability to data sets, which attempt to recognize or make assumptions about users and devices e.g., that a user of multiple devices is the same user .
 
-**Your California Privacy Rights**  
-New York & Company collects various types of personal information about you during the course of your relationship with New York & Company as a customer. Under California law, if you are a resident of California, you may make a written request to New York & Company about how we have shared your information with third parties for their direct marketing purposes. In response to your written request, New York & Company is allowed to provide you with a notice describing the cost-free means to opt-out of our sharing your information with third parties with whom we do not share the same brand name, if the third party will use such information for its direct marketing purposes.
+We may use Tracking Technologies for a variety of purposes, including:
 
-If you would like to exercise your rights under California law, please send your written request to the e-mail address or postal address below. Please include your postal address in your request. Within thirty (30) days of receiving your written request, New York & Company will provide you with a Third Party Direct Marketing Opt-Out Form so you may request that your personal information not be disclosed to third parties for their direct marketing purposes.
+    * To allow you to use and access the Site, including for the prevention of fraudulent activity and improved security functionality or to allow you to make use of shopping cart functionality;
+    * To assess the performance of the Site, including as part of our analytic practices or otherwise to improve the content, products or services offered through the Site;
+    * To offer you enhanced functionality when accessing the Site, including identifying you when you sign-in to our Site or keeping track of your specified preferences or to track your online activities over time and across third-party sites; and
+    * To deliver content, including ads, relevant to your interests on our Site and third-party sites based on how you interact with our advertisements and/or content.
+  4. **(d) Information We Collect When You Interact with Third-Party Sites**
+
+The Site may include functionality that allows certain kinds of interactions between the Site and your account on a third-party website or application. The use of this functionality may involve the third-party site providing information to us. For example, we may provide links on the Site to facilitate sending a communication from the Site or we may use third parties to facilitate emails, Tweets or Facebook, Instagram, or Pinterest postings. These third parties may retain any information used or provided in any such communications or activities and these third parties' practices are not subject to our Privacy Policy. Company may not control or have access to your communications through these third parties. Further, when you use third-party sites or services, you are using their services and not our services and they, not we, are responsible for their practices. You should review the applicable third-party privacy policies before using such third-party tools on our Site.
+
+
+
+
+**Why We Collect Information**
+
+We may use your Personal Information, Demographic Information or Usage Information for various purposes, including: 
+
+  1.     * Processing, tracking and completing purchase, return and similar transactions;
+    * Sending you marketing information about Company and other third parties we work with, including through direct mail offerings;
+    * Sending you email communications such as electronic newsletters about our products, services, events, loyalty programs and Promotions;
+    * Enabling you to participate in the Site's features such as surveys and Promotions;
+    * Improving the effectiveness of our Site, marketing endeavors and service offerings;
+    * Offering you location-based services e.g., to provide you with information about new Store openings near you;
+    * Processing account registration;
+    * Providing customer service, including responding to your inquiries regarding our merchandise or services;
+    * Notifying you of product recalls or providing other information concerning products you have purchased;
+    * Identifying your product and service preferences, providing personalized content and ads and informing you of new or additional products, services and Promotions that may be of interest to you;
+    * Helping us address problems with and improve our Site and our merchandise and services;
+    * Providing mobile marketing messages and other communications and messages; 
+    * Protecting the security and integrity of the Site;
+    * For internal business purposes; and
+    * For purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy.
+
+
+
+**When We Disclose Information**
+
+We may share non-Personal Information, such as aggregated user statistics and your Device Identifiers with third parties along with data related to you and your activities. Also, we may share your information, including your Personal Information, with third parties, such as companies with have marketing or other relationships, for the third parties' direct marketing purposes. If you are a California resident, you have the right to request additional information and so please see the Section entitled "Your California Privacy Rights" below about these rights. In addition, we may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information and as described in this Privacy Policy. Examples of when Company may share your information include as follows: 
+
+  1. **(a) Third Parties Providing Services to Company.** We may use third-party service providers to perform certain services on behalf of us or the Site, such as: (i) to assist us in Site operations; (ii) to manage a database of customer information; (iii) hosting the Site; (iv) designing and or operating the Site's features; (v) tracking the Site's activities and analytics; (vi) enabling us to send you special offers or perform other administrative services; and (vii) other services designed to assist us in maximizing our business potential. We may provide these vendors with access to user information to carry out the services they are performing for you or for us.
+  
+
+  2. **(b) To Protect the Rights of Company and Others.** To the fullest extent permitted by applicable law, we may also disclose your information if we believe in good faith that doing so is necessary or appropriate to: (i) protect or defend the rights, safety or property of Company or third parties (including through the enforcement of this Privacy Policy, our [**Terms & Conditions**](https://www.nyandcompany.com/static/terms-conditions/), and other applicable agreements and policies); or (ii) comply with legal and regulatory obligations ( _e.g.,_ pursuant to law enforcement inquiries, subpoenas or court orders). To the fullest extent permitted by applicable law, we have complete discretion in electing to make or not make such disclosures, and to contest or not contest requests for such disclosures, all without notice to you.
+  
+
+  3. **(c) Affiliates and Business Transfer.** We may share your information with our parent, subsidiaries and affiliates, which currently includes Fashion to Figure. As part of this sharing of information with our parent, subsidiaries and affiliates, this means that once you provide us with information, any one of our related brands may use your information including for marketing purposes, pursuant to the terms of this Privacy Policy. We also reserve the right to disclose and transfer all such information: (i) to a subsequent owner, co-owner or operator of the Site and or our Stores; or (ii) in connection with a merger, consolidation, restructuring, the sale of substantially all of our interests and or assets or other corporate change, including during the course of any due diligence process.
+  
+
+  4. **(d) Sweepstakes, Contests and Promotions.** We may offer sweepstakes, contests, and other promotions (any, a " **Promotion** ") through the Site, in the Stores or through one of our social media pages that may require registration. If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion's official rules, such as on a winner's list.
+  
+
+
+
+**Ads and Information About You**
+
+You may see certain ads on other websites because we participate in advertising networks administered by third parties. These networks track your online activities over time and across third party websites and online services by collecting information through automated means, including through the use of the Tracking Technologies described above, and they use this information to show you advertisements that are tailored to your individual interests. The information they collect includes information about your visits to our Site, such as the pages you have viewed. This collection and ad targeting takes place both on our Site and on third-party websites that participate in the ad network. This process also helps us track the effectiveness of our marketing efforts.
+
+We may also use Tracking Technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as a DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Site. To learn more about how to opt out of Google's use of the Google analytics cookies, visit, [here.](https://tools.google.com/dlpage/gaoptout) To learn more about how to opt out of DoubleClick's use of cookies, visit the DoubleClick opt-out page, [here.](https://support.google.com/ads/answer/2662922?hl=e) If you would like more information about behavioral advertising practices, go to [www.aboutads.info](https://web.archive.org/web/20190302070221id_/https://www.nyandcompany.com/static/privacy-policy/www.aboutads.info). To learn about your choices in connection with these practices on the particular device on which you are accessing this Privacy Policy, please visit <http://www.networkadvertising.org/choices> and <http://www.aboutads.info/choices>. You may also click on the informational icon contained within each interest based ad. 
+
+**Your Choices about the Information We Collect**
+
+If you would prefer that we not share your name and mailing address with third parties (other than with our affiliates) to receive promotional offers, you have the option to opt out of such sharing. To do so, please call us at (800) 723-5333 (ext. 42015). Your choice will not affect our ability to share information in the other ways described in this Privacy Policy.
+
+If you do not wish to receive e-mails about special offers, new fashion trends, contests and other promotions from us click here to opt out, or if you do not wish to receive other marketing materials by regular mail from us, please call us at (800) 723-5333 (ext. 42015). 
+
+**Privacy of Children Who Visit the Site**
+
+Company recognizes the importance of children's safety and privacy. The Site is not designed to attract children, and is not intended for use by any children under the age of 13. We do not request, or knowingly collect, any personally identifiable information from children under the age of 13. Minors under the age of 18 (but older than 12) may use the Site only under the supervision of a parent or legal guardian who agrees to be bound by the Site's [Terms & Conditions.](https://www.nyandcompany.com/static/terms-conditions/)
+
+**Your California Privacy Rights**
+
+Company collects various types of personal information about you during the course of your relationship with Company as a customer. Under California law, if you are a resident of California, you may make a written request to Company about how we have shared your information with third parties for their direct marketing purposes. If this law applies to you, you may obtain the categories of personal information shared by us and the names and addresses of all third parties that received personal information for their direct marketing purposes from us during the immediately prior calendar year (e.g., requests made in 2017 will receive information about 2016 sharing activities).   
+To make such a request, please provide sufficient information for us to determine if this applies to you, attest to the fact that you are a California resident and provide a current California address for our response. 
+
+To make such a request (limit one request per year), please send an email to: carequest@nyandcompany.com, with "California Privacy Rights" as the subject line or mail us a letter to: New York & Company, 330 West 34th Street, New York, NY 10001, Attn: Customer Service. You must include your full name, email address, and postal address in your request. 
 
 **Email Address:**  
 [carequest@nyandcompany.com](mailto:carequest@nyandcompany.com)
 
 **Postal Address:**  
-New York & Company   
+New York & Company  
 330 West 34th Street  
 New York, NY 10001  
-Att: Customer Service
+Attn: Customer Service  
 
-**Visitors to the Website Outside of the United States**  
-If you are visiting the Website from a location outside of the U.S., your connection will be through and to servers located in the U.S. All information you receive from the Website will be created on servers located in the U.S., and all information you provide will be securely maintained on Web servers and systems located within the U.S., pursuant to U.S. laws, rules and regulations.
 
-**Updating Personal Information**  
-We prefer to keep your personal information accurate and up-to-date. If you would like to change your contact information, please go to My Account, and log in with your email address and password, or call us at (800) 723-5333 (option 2).
+**California / Delaware Do Not Track Disclosures**
 
-**Links**  
-For your convenience, the Website may contain links to other websites. New York & Company is not responsible for the privacy practices, advertising, products, or the content of such other websites. None of the links should be deemed to imply that New York & Company endorses or has any affiliation with the links.
+Various third parties are developing or have developed signals or other mechanisms for the expression of consumer choice regarding the collection of information about an individual consumer's online activities over time and across third-party websites or online services ( _e.g.,_ browser do not track signals). Currently, we do not monitor or take any action with respect to these signals or other mechanisms. 
 
-**Security**  
-New York & Company believes in providing a safe and secure experience for all of our online visitors. To that end, we have implemented security measures at nyandcompany.com to protect the information we have collected at the Website. For example, we limit access to your personal information to select employees and others with a valid business need for the information. In addition, we hold our employees responsible for upholding our privacy standards.
+**Visitors to the Site Outside of the United States**
 
-We use standard, well accepted data encryption technology when transferring and receiving your personal information. A solid key icon or a locked padlock icon at the lower portion of your web browser window confirms the site is secured through Secure Sockets Layer (SSL). Pages requesting personal information should always have one of these icons. You can also confirm your data is being encrypted by looking at the URL line of your browser (the place where you type website addresses). When accessing a secure server, the site address will change from "http" to "https".
+If you are visiting the Site from a location outside of the U.S., your connection will be through and to servers located in the U.S. All information you receive from the Site will be created on servers located in the U.S., and all information you provide will be maintained on web servers and systems located within the U.S. The data protection laws in the United States may differ from those of the country in which you are located, and your information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. By using the Site or providing us with any information, you consent to the transfer to, and processing, usage, sharing and storage of your information in the United States and in other countries, as set forth in this Privacy Policy. 
 
-While we use the foregoing security measures to protect your information, please note that no data transmitted over the Internet can be guaranteed to be completely secure.
+**Updating Personal Information**
 
-**Questions / Changes in Policy**  
-If you have questions or concerns with respect to our Privacy Policy, you may contact us at (800) 723-5333 (option 2). We may elect to change or amend our Privacy Policy; in such event, we will post the policy changes in our Privacy Policy on the Website. If you are concerned about how your personal information is used, please visit our Website often for this and other important announcements and updates.
+We prefer to keep your Personal Information accurate and up-to-date. If you would like to change your contact information, please go to My Account, and log in with your email address and password, or call us at (800) 723-5333 (ext. 42015).
+
+If so, we will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable (but we may retain prior information as business records). Please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons. 
+
+**Links**
+
+For your convenience, the Site may contain links to other websites. Company is not responsible for the privacy practices, advertising, products, or the content of such other websites. None of the links should be deemed to imply that Company endorses or has any affiliation with the links. 
+
+**Security**
+
+We incorporate commercially reasonable safeguards to help protect and secure your Personal Information. However, no data transmission over the Internet, mobile networks, wireless transmission or electronic storage of information can be guaranteed 100% secure. As a result, we cannot guarantee or warrant the security of any information you transmit to or from our Site, and you provide us with your information at your own risk. 
+
+**Questions / Changes in Privacy Policy**
+
+If you have questions or concerns with respect to our Privacy Policy, you may contact us at (800) 723-5333 (ext. 42015). We may elect to change or amend our Privacy Policy; in such event, we will post the policy changes in our Privacy Policy on the Site. If you are concerned about how your personal information is used, please visit our Site often for this and other important announcements and updates. 
