@@ -1,73 +1,39 @@
-> *The following text is extracted and transformed from the oyekitchen.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709012507id_/http%3A//oyekitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyekitchen.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302150825id_/https%3A//oyekitchen.com/privacy_policy) for the most accurate reproduction.*
 
-# privacy policy
+# Privacy Policy
 
-**Privacy Policy**
+Thank you for visiting us. We value your trust in us. We guarantee the privacy of all our members as we insist on the highest standards for secure transactions and customer information policy.
 
- This Privacy Policy covers the information Revasto India Private Limited ("Platform" and/or "We") collects from the user(s) ("User(s)" and/or "You") of www.oyekitchen.com ("Website") This Privacy Policy should be read in conjunction and together with the User Agreement of the Website available on http://www.oyekitchen.com/privacy_policy.html. Personal Information of a User(s) is collected if the User(s) registers with the Website, accesses the Website or take any action on the Website. Here are our privacy principles: 
+Users Information and Privacy:
 
-Providing information to us is your choice.   
-You can choose to have the Personal Information provided by You deleted.  
-You always have the ability to opt-out of receiving communications from us. 
+Collection of personal information:
 
-## **Information Collection and Use**
+Oyekitchen.com is committed to protecting all the information you share with us. We follow stringent procedures to help protect the confidentiality, security, and integrity of data stored on our systems. Whenever you visit our website, we collect and store your personal information provided by you from time to time. This is to help us understand you and provide you a safe, secure and customised experience. You may browse our website without telling us who you are or without revealing any personal information. Wherever possible, we indicate which fields are mandatory and which fields are optional. We use this information to understand and serve you better. Information may sometimes include your computer browser information as well as your IP address.
 
-The Personal Information which You may provide to us and/or which we may collect is or could be the following: 
+We use "cookies" to improve your shopping experience and to help save you time. Cookies are little tags that we place onto your computer. We assign a cookie to your computer when you first visit us in order to enable us to recognize you each time you return. Through cookies we can customize our Website to your individual preferences in order to create a more personalized, convenient shopping experience. Please note that the cookies we use for our Website or email campaigns do not store personally identifiable information about you or your finances.
 
-Your registration details which may include the password provided by You. You may note that We adopt reasonable security measures to protect Your password from being exposed or disclosed to anyone including the Platform. Your shipping, billing, tax registration, and other information pertaining to Your sale or purchase transaction on the Website. Your transaction details with the other users of the Website. Your usage behaviour of the Website. Details of the computer system or computer network which You use to visit the Website and undertake any activity on the Website. 
+Enjoy Secure shopping at oyekitchen.com
 
-Our primary purposes in collecting information from You are to allow You to use the Website and various features and services offered by the Platform on or in relation to the Website; contact you for any services provided by the Platform or its affiliates or its various service providers or Platform business partners and advertisers; to record Your information and details as permitted and required under applicable laws, statutory direction or judiciary orders; to serve various promotion materials and advertising materials to you; and such other uses as provided in the User Agreement and this Privacy Policy. We may also use the information for transactional emails or to provide You with information, direct marketing, online and offline advertising and other materials regarding products, services and other offers from time to time in connection with the Platform or its parent, subsidiary and affiliated companies ("Platform Entities") and its joint ventures. 
+We use encryption technology, secure commerce servers, and authentication to ensure that your personal information is secure online.Your registration at oyekitchen.com keeps track of your information to offer you the best possible shopping experience.
 
-We may also collect information to track User behaviour and preferences for internal analytics from all Users of the Website. This information is collected through the use of server log files and tracking technologies to collect and analyse certain types of technical information and may include cookies and web beacons. 
+When you register (log in), you supply your email address and a password. This allows us to provide you access to your account every time you visit our Website. Before completing your first purchase, we also ask you for your name, phone number, email, billing and shipping addresses. This information, along with your credit card number, is necessary to fulfill your order. This information may be disclosed to specific members of our staff and to select third parties (such as our credit card processor and shipping provider) involved in the completion of your transaction and delivery of your order. We may also need your email address or phone number to contact you if we have questions about your order. We or our associate companies may also use your email address to notify you about new services or special promotional programs, or send you offers or information if you have opted-in.
 
-We may combine your Personal Information, other information and information collected from tracking technologies and aggregate it with information collected from other Users using our Website to attempt to provide You with a better experience on our Website. 
+Analysis and reporting
 
-You understand, agree and acknowledge that our collection, storage and processing of your Personal Information is for a lawful purpose connected with a function or activity of the Platform Entities and its joint ventures. You further understand, agree and acknowledge that your Personal Information which is classified as sensitive personal information as per applicable laws is considered necessary for the Platform to provide various services on its Website to You and for Your usage of the Website and other services provided by Platform in relation to the Website. 
+Oyekitchen.com uses reporting software that allows us to analyze the amount and type of member traffic we get on our Website. We use this data to make improvements to your shopping experience and to ensure that we have enough capacity to properly serve all of our members. The software provides aggregate reporting information to oyekitchen.com only. No personal or personally identifiable information is gathered or used for this process.
 
-## **Information Sharing and Disclosure**
+Service providers
 
-Platform is the recipient of all the Personal Information and shall exercise reasonable commercial endeavours for the prevention of the Personal Information provided by the Users. We may enable access of the Users' information to the Platform Entities, joint ventures, agents or third parties for the purposes of the services provided by them or for any other marketing related activity undertaken by or on behalf of the Platform Entities and/or its joint ventures. We will ensure on reasonable commercial efforts basis that the third parties and agents employed by us for the purposes of the Website are under an obligation to maintain confidentiality with respect to the Personal Information provided by the Users and to use it strictly for the purposes of the Website only. 
+Oyekitchen.com may use various outside agencies (third party service providers) to make our Website operate. For example, we may use third parties to host our Website, operate various features made available on our Website, send emails, analyze data, provide search results and links, and assist in fulfilling your orders. Some of these third parties may need access to your information in order to make the services provided through our Website work. Information will only be disclosed to these service providers on a need-to-know basis, and they will only be permitted to use such information for the purpose of providing the particular services provided by such entities in connection with our Website.
 
-Platform may disclose your Personal Information to such extent as the Platform may deem necessary for you to enter into commercial transactions with other users of the Website. 
+Sharing Personal Information:
 
-## **Compliance With Laws and Law Enforcement**
+Oyekitchen.com may be forced to disclose information in order to comply with a subpoena, court order, administrative or governmental order, or any other requirement of law, or when oyekitchen.com, in its sole discretion, deems it necessary in order to protect our rights or the rights of others, to prevent harm to persons or property, to fight fraud and credit risk, or to enforce or apply our Website terms of use. Personally identifiable information may be transferred as an asset in connection with a merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale, or other change in control.
 
-Platform cooperates with mandated government and law enforcement agencies or to any third parties by an order under law for the time being in force to enforce and comply with the law. We will disclose any information about You to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process, to protect the property and rights of Platform or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity. Platform may also provide your Personal Information to various tax authorities upon any demand or request from them. 
+Changes in policy
 
-## **Business Transfers**
+our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically. If you do not agree with this Privacy Policy, please do not use our Website. Your visit and any dispute over privacy is subject to this policy and our Terms of Use, including limitations on damages.
 
-Platform may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. Should such a sale or transfer occur, we will ensure that the Personal Information You have provided through the Website is stored and used by the transferee in a manner that is consistent with this Privacy Policy. 
+**Note:** By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.
 
-## **Email Policies**
-
-Platform may use your Personal Information for the aforementioned purposes of the Website. You have full control regarding which of these emails You want to receive. If You decide at any time that You no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications. Please note that once we receive your request, it may take an additional period of time for your opt-out to become effective. 
-
-## **Deleting Your Information**
-
-If You wish to have the Personal Information that You have provided to us deleted, You can always do so by sending a request to us on the e-mail id of our Customer Services department provided at the bottom of this page. You may note that deletion of certain Personal Information may lead to cancellation of your registration with the Website and your access to certain features of the Website. 
-
-## **Security**
-
-Platform uses ordinary industry standard technology designed to help keep your Personal Information safe. The secure server software (SSL) encrypts all information You put in before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, We will employ commercially reasonable and practicable security practices and procedures and security methods and technologies. We will also ensure on reasonable commercial efforts basis that any agent or third party that we employ complies with the same security standards as us for the protection of your Personal Information. 
-
-Your information may be transferred to or be maintained on computers, computer systems and computer resources located outside of your state or country where the privacy laws may not be as protective as those where you live. If You are located outside India and choose to provide information to us, please be aware that Platform keeps or transfers information to India and processes it there. Your submission of such information represents your agreement to that transfer. 
-
-Unfortunately, the transmission of information over the Internet is not completely secure. Although We strive to protect your personal data, We cannot guarantee the security of your data while it is being transmitted to our site; any transmission is at your own risk. Once We have received your information, We have commercially reasonable procedures and security features in place to reasonably endeavor to prevent unauthorized access. 
-
-## **Links to Other Sites / Financial Data**  
-
-We provide links to other websites for your convenience and information. These sites may have their own privacy policies in place, which we recommend You review if You visit any linked websites. We are not responsible for the content of linked sites or any use of the sites. 
-
-While transacting with other users of the Website, You may provide your financial information including without limitation your bank account details, credit card account details or your details pertaining to any payment settlement or pre-paid instrument service provider. You understand, agree and acknowledge that the Website and Platform never receives Your financial and payment information from these service provider. Your personal information, sensitive personal information and financial information will be dealt by these service providers in accordance with their respective privacy policies and other terms and conditions and Platform and Website shall not be liable, accountable or responsible for your personal information, sensitive personal information and financial information which you provide to these service providers. 
-
-## **Changes In Privacy Policy**
-
-From time to time We may update this Privacy Policy. Your continued subscription to our Services constitutes an acceptance of the then-current Privacy Policy and Terms of Use so We encourage You to visit this page periodically to review any changes. 
-
-## **Phishing**
-
-Identity theft and the practice currently known as "phishing" are of great concern to Platform. Safeguarding information to help protect You from identity theft is a top priority. We do not and will not, at any time, request your credit card information or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. 
-
-## **Contact Us**
-
-If You have any questions about this Privacy Policy, the practices of Platform or your dealings with the Website, You can contact us via the links at the bottom of the page.
+By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use.
