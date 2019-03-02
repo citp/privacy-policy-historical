@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkdelight.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103181624id_/http%3A//www.linkdelight.com/Security-and-Privocy/security-a-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdelight.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302235228id_/https%3A//www.linkdelight.com/Security-and-Privocy/security-a-privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy | Security and Privocy
 
@@ -34,7 +34,7 @@ Our web site contains links to other web sites that are not operated by linkdeli
 
  **Questions or Concerns**
 
-Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "[Contact Us](https://web.archive.org/web/20171103181624id_/http%3A//www.linkdelight.com/Security-and-Privocy/contact/LinkDelight-Ltdhtml.html)" link in the side menu. Or through the following methods:
+Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "[Contact Us](https://web.archive.org/web/20190302235228id_/https%3A//www.linkdelight.com/Security-and-Privocy/contact/LinkDelight-Ltdhtml.html)" link in the side menu. Or through the following methods:
 
 Tel: +86-13692245940
 
