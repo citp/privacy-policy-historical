@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectpokemon.org privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223043645id_/https%3A//projectpokemon.org/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectpokemon.org privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303004947id_/https%3A//projectpokemon.org/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Project Pokemon Forums
 
