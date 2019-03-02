@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124111603id_/https%3A//megagames.com/privacy-statement-megagames) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302060236id_/https%3A//megagames.com/privacy-statement-megagames) for the most accurate reproduction.*
 
 # Privacy Statement for MegaGames | MegaGames
 
