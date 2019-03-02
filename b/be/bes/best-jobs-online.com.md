@@ -1,81 +1,793 @@
-> *The following text is extracted and transformed from the best-jobs-online.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807090421id_/http%3A//best-jobs-online.com/common/advertise/custom/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-jobs-online.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302091235id_/https%3A//www.best-jobs-online.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Best Jobs Online
 
-PRIVACY POLICY
+**Privacy and Cookie Policy**
 
-Last Update: 10/18/11
+**What is the Scope of this Policy?**
 
-We are committed to advising you of the right to your privacy and strive to provide a safe and secure user experience.  This Privacy Policy sets forth the online data collection and usage policies and practices that apply to our website.
+BestJobsOnline understands that Your privacy is important to You and that You care about how Your Personal Data is used and shared online. This Privacy and Cookie Policy applies as between You, the User of this Website and Quantum Response Network Limited (“BestJobsOnline”), the owner and provider of this Website - best-jobs-online.com or other BestJobsOnline’ brands and any sub-domains of this Website unless expressly excluded by their own terms and conditions. It does not extend to any other websites that can be accessed from this Website including, but not limited to, any links we may supply to third party websites.
 
-By using out website, you explicitly accept, without limitation or qualification, the collection, use and transfer of the personally identifiable information [PII] and non-personally identifiable [Non-PII] information about you in the manner described in this policy.  Please read this Statement carefully as it affects your rights and liabilities under the law.  If you disagree or do not accept with the way we collect and process your PII or Non-PII, please do not use this website.
+BestJobsOnline is committed to safeguarding and protecting the privacy of the Users of our Website. This Privacy and Cookie Policy applies to our use of any and all Data collected by us in relation to Your use of the Website and “Data” means collectively all the information that You submit to best-jobs-online.com or that we collect from You when You visit this Website. This definition shall, where applicable, incorporate the definitions in the EU Regulation 2016/679 – the General Data Protection Regulation (“GDPR”) and in a manner consistent with our obligations and Your rights under the law.
 
-## Scope of this Policy
+This Privacy and Cookie Policy explains what happens to any Data so that You can clearly understand our data, security practices, policies and so that You can be assured that Your Data will only be used in accordance with our Privacy and Cookie Policy. Please read this Privacy and Cookie Policy carefully and ensure You understand it.
 
-This policy applies to this website and regulates the processing of PII provided by you and Non-PII collected by us during your visit to our Website. It describes what type of information we collect; how we use that information and to whom we can provide that information.  It also informs you of how to notify us to stop collecting and providing your information.  We are located in the United States and by registering on our website, you agree to be governed by the laws of the United States.
+This Policy describes the types of Personal Information and Data we collect, how we use it and who we share it with. You have choices that You can make about our collection, use and disclosure of your Data. “Personal Information" refers to Data that personally identifies You, such as Your name, address, telephone number and email address. We will also explain how we endeavour to protect the security of Your Data and how You can contact us about our treatment of Your Data.
 
-Our website predominantly contains links to third party websites over which we have no control. As such, we are not responsible for the privacy policies or practices of third party websites when you choose to link to them from our website. We encourage you to review the privacy policies and terms of use of those third party websites to understand how they collect, use and share your information.
+This Privacy and Cookie Policy incorporates by reference in our Terms and Conditions on the Website which apply to this Policy. When You access or register to use the BestJobsOnline Website and provide us with Your Personal Information, it indicates that You accept and consent to our use and disclosure of the information and also data we automatically collect or receive as described in this Policy. This Policy is effective as of 25th May 2018 and may be amended from time to time and updated on this page if we make changes in our data practices and therefore You should check this page from time to time to ensure that You are happy with any changes. If You do not accept and agree with this Privacy and Cookie Policy, You must stop using the Website immediately.
 
-## Information We Collect and Retain
+**Your Rights**
 
-We collect the following general types of information about you when you contact us regarding  our website:  
+On 25th May 2018 the GDPR came into force and this law will affect businesses who operate in the Europe and Users within Europe. However, BestJobsOnline is committed to protecting the privacy of all Users of our Websites so this Privacy and Cookie Policy sets out how we safeguard and protect Your Data on all of our Websites.
 
-Personally identifiable information [PII]: is information that can be used to personally identify you.  We do not collect PII.
+You have the following rights under the GDPR, which this Privacy and Cookie Policy and our use of personal Data have been designed to uphold:
 
-Behavioral information: is information pertaining to how you use our website; the areas of our website that you visit; what ads or services you accessed; and information about your computer hardware and software including your IP address, geographic location, browser preference, operating system type, domain names, times that you access the internet and other website you have been referred to us through. This information is necessary to analyze the use of resources, troubleshooting problems, preventing fraud, and improving our services and products.
+  * The right to be informed about our collection and use of personal Data;
+  * The right of access to the personal Data we hold about You;
+  * The right to rectification if any personal Data we hold about You is inaccurate or incomplete and You can contact us using the details set out below;
+  * The right to be forgotten – i.e. the right to ask us to delete any personal Data we hold about You and You can contact us using the details set out below;
+  * The right to restrict i.e. prevent the processing of Your personal Data;
+  * The right to Data portability (obtaining a copy of Your personal Data to re-use with another service or organisation);
+  * The right to object to us using Your personal Data for particular purposes; and
+  * Rights with respect to automated decision making and profiling.
 
-Web technology information: is information we automatically collect from you when you open one of our emails or visit our Website.  This includes information collected from the use of cookies, web beacons or java script as discussed below.  
 
-No Information Collected from Children:  We never knowingly collect any Personal Information about children under the age of 13\.  If we obtain actual knowledge that we have collected Personally Identifiable Information about a child under the age of 13, that information will be immediately deleted from our database.  Because we do not collect such information, we have no information regarding its use or disclose to third parties.
 
-## Use of Cookies, Web Beacons, and Java Script
+If you have cause for complaint about our use of Your personal Data, please contact us using the details provided below and we will do our best to solve the problem for You. If we cannot help You have the right to lodge a complaint with the UK’s supervisory authority, the Information Commissioner’s Office.
 
-Cookies: “Cookies” are a feature in your browser software.  If enabled, we may write cookies that may store small amounts of data on your computer about your visit to any of the pages of our Website. Cookies assist us in tracking which of our features appeal the most to you and what content or links you view or may have viewed on past visits.  When you visit our site again, cookies can enable us to customize our content according to your preferences.  We may use cookies to: keep track of the number of return visits to this site; accumulate and report aggregate, statistical information on website usage; deliver specific content to you based on your past viewing history or the email or site that directed you to our Website.  You can disable cookies, although the website may not function properly for you. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set.  You may read more about cookies at http://cookiecentral.com. In order to use all of the features and functionality of our Website, you need to accept cookies.
+**What Data Do We Collect?**
 
-Removing Cookies:  You have the ability to accept, decline or remove cookies at any time by modifying your browser settings. Please see http://cookiecentral.com. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on our website. The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.
+We may obtain some or all of the following personal and non-personal Data about You from time to time from various sources, including our Websites, when You register to use the Website or email us or communicate with us in any other way. We also may obtain Data about You from business partners, other third parties and publicly available information.
 
-Web Beacons:  We also use electronic images known as web beacons (sometimes called single-pixel gifs, clear gifs or action tags) that allow us to collect certain information about your visit to these Web pages (including the number of users who have visited those pages).  This measures and improves the effectiveness of advertisements and delivery of services. Web beacons are not used to access your PII; they are a technique used to compile aggregated statistics about website usage.  Web beacons collect only a limited set of information including a cookie number, time and date of page view and a description of the page on which the Web beacon resides. This information may be shared with one or more third parties so that they can understand the types of visitors to our website; how those visitors use our website; and the effectiveness of advertisements. We may also use web beacons in email messages sent to individuals listed in our database.
+We may obtain various types of Data including but not limited to:
 
-Disabling Web Beacons:  Because web beacons are the same as any other content request, you cannot opt out or refuse them.  However, they can be rendered ineffective by either opting out of cookies or changing the cookie setup in your browser.
+  * Your Personal Information/Data relating to an identifiable person who can be directly or indirectly identified from that data e.g. Your name, date of birth, gender, job title, profession, contact information such as email addresses and telephone numbers if You choose to provide it voluntarily or if we obtain it from other sources mentioned above.
+  * Your Job search behaviour and preferences. We may use a record of the searches that You make on our Website in order to present You with job recommendations based on Your interests as expressed through Your previous searches.
+  * Other details that You may voluntarily submit to us or that may be included in the information provided to us by third parties.
+  * If You visit our Website we may collect certain information by automated means, using “Cookies” as described in more detail below. This may include information about our Your devices and how You access the Internet (such as the IP address and the device, web browser and operating system type), URLs starting with a referring site, Your activity on this Website and the Site You exit to once You leave our Website, the dates and times of the visits to our Website, information on actions taken on our Website e.g. number of page views, site navigation patterns and job views or application activity, geographical location information e.g. country, state and city from where You access our Website and the types of search terms You enter to access our Website.
 
-JavaScript:  We may also use JavaScript within certain advertisements. JavaScript is a computer language that enhances the functionality of our website, particularly with respect to pictures.  We do not collect any PII through JavaScript but use it to analyze and improve our website’s functions.
 
-Disabling JavaScript:  You may deactivate JavaScript via your browser settings or activate it the same way.  If you disable JavaScript you will not be able to use some of the functions of our website.
 
-IP Addresses:  Your Internet Protocol ("IP") is a unique Internet "address" which is assigned to you by your Internet Service Provider ("ISP"). For local area network ("LAN"), DSL, or cable modem users, an IP address may be permanently assigned to a particular computer. IP addresses are automatically logged by web servers and collect information about a user's traffic patterns.  While the IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual using the web. Your IP address can reveal what geographic area you are connecting from and which ISP you are using. We automatically track certain information based upon your actions on our website.  We may use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve you and our community. This information may include the URL that you just came from and which URL you next go to after visiting our website, your computer browser information in addition to your IP address.
+**How Do We Use the Data We Collect?**
 
-Computer Profiles:   We may also collect and accumulate other anonymous data which will help us understand and analyze the experience of our visitors. For instance, we may accumulate visitor data relating to referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. When you provide us with PII, we are able to use such visitor data to identify you.
+Our use of personal Data will always have a lawful basis, either because it is necessary to provide You with our Services, because You have consented to our use of Your personal Data eg by subscribing to Jobs By Email or because it is in our legitimate interests. Specifically, we may use the Data we obtain about You to understand Your needs and personalise Your experience, to improve our Website, improve User service, send periodic emails to You about our Services and in particular to:
 
-## How We Use the Information Collected
+  * Register, manage and maintain your Account,
+  * Provide and manage Your access to our Website,
+  * Provide information to You and Services that You request,
+  * Personalise and tailor Your experience and our Services to You on our Website
+  * Maintain a record of the jobs You view or apply to on our Website.
+  * Inform You of relevant job postings that may be of interest to You.
+  * Provide administrative notices or communications applicable to Your use of the Website.
+  * Respond to Your emails, questions and comments and provide User support.
+  * Contact You and deliver information to You that may be targeted to your interests (such as relevant services, educational or other career development opportunities); enable You to communicate with us and solicit Your feedback and input. These communications will contain links for preference management and, where appropriate, unsubscribe links should You decide You do not want to receive further communications.
+  * Inform You of changes to our Website and Services.
+  * Operate, evaluate and improve our business and our Services to You.
+  * Analyse and enhance our marketing communications and strategies (including by identifying when emails we have sent to You have been received and read).
+  * Analyse trends and statistics gathering feedback regarding Users access to our Website and the jobs viewed.
 
-Providing Services:  We use the information we gather on our Website for the purposes of providing the services or advertisement you have requested.  This may include passing your information on to a third party who we have a contract to provide such services.  Although our contractual arrangement limits how such third party can use your information, we do not control the privacy practices of this third party.  If you have any questions or wish to remove your information from the third party’s database, you will need to contact that party directly.  
 
-Improving our Website:  We also use the information we gather on our Website to respond to any inquires you make; operate and improve our Website, improve and create a positive user experience on our website; and deliver the services you requested from our Website. Our services include the display of personalized products, content, and advertising relating to your experience and interests. The information we gather on our Website may be shared with other companies under common ownership with ours throughout the world or our Advertisers.
 
-## Disclosure of Information to Others
+With Your permission and/or where permitted by law, we may also use Your Data for marketing purposes which may include contacting You by email with information on our Services. We will not however send You any unsolicited marketing or spam and will take all reasonable steps to ensure we fully protect Your rights and comply with our obligations under EU Regulation 2016/679 – the General Data Protection Regulation - GDPR and the Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
-We disclose to third parties throughout the world your combined the information we collect, as set forth below:
+**Disclosures**
 
-Service Delivery and Vendors:  We share your information with third parties who help us in the delivery the services you have requested. We disclose your information to companies and individuals we employ to perform technical functions on our behalf. Examples include third parties who host our website, analyze our data, provide marketing assistance and provide customer service. These companies and individuals may not share that information with any other third party or use that data for any other purpose.
+We may disclose information about You for reasons set out in this Privacy and Cookie Policy and we may also disclose information about You to the extent that we are required to do so by law and/or in connection with any legal proceedings or prospective legal proceedings and in order to establish, exercise or defend our legal rights, to enforce our Website Terms and Conditions (including providing information to others for the purpose of fraud prevention, unauthorised transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorised Users).
 
-Anonymous information:  We may also share aggregated anonymous information about you and other persons using our website with third parties so that they can understand the kinds of visitors to our website and how those visitors use our website.  This includes behavioral information.
+**Administration**
 
-Legal Process:  We disclose information if legally required to do so, at our discretion or pursuant to a request from a governmental entity, or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
+We may also use non-personally identifiable information and certain technical information about Your computer and Your access of the Website (including your IP address) in order to operate, maintain and manage the Website. We collect this information by automated means, using cookies as described in more detail below.
 
-Acquisition or Merger:  We may disclose and transfer information to a third party who acquires any or all of our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event we become the subject of an insolvency proceeding, whether voluntary or involuntary, we or our liquidator, administrator, receiver or administrative receiver may sell, license or otherwise dispose of such information in a transaction approved by the court.
+If we seek to use the information we obtain about you in any other ways, we will provide specific notice and request your consent at the time of collection.
 
-## Third Party Use of Your Information
+**What Information Do We Share?**
 
-## Third parties also collect and use information about you on our Site in the following way:
+When you click on a Job extract through our Website and then provide any personal information to that Employer/Recruiter/Advertiser they will then have access to information about You and Your potential interest in employment opportunities. Those Employers may use your information to contact you directly. The information supplied by You may become part of the Employer’s database. The use of that Personal Information by the Employer/Recruiter/Advertiser will be subject to the Privacy and Cookie Policy of that company, and we are not responsible for that company’s use of that personal information _._ We have no control over how your data is collected, stored or used by other websites and we advise you to check the privacy policies of such websites before providing any data to them. We will not share with any Employer/Recruiter/Advertiser the Data that You supply to us on our Website.
 
-## Advertiser cookies and web beacons: Advertising agencies, advertising networks, and other companies who place advertisements on our website and on the internet generally may use their own cookies, web beacons, and other technology to collect information about you. We do not control the collection techniques of such third parties and have no responsibility for the use of such technology to gather information about you.
+We may share Your Data with other companies in our group including any subsidiaries and/or holding company.
 
-## Hyperlinks:  Our website and email messages contain hypertext links to the websites of third parties.  We are not responsible for the privacy practices or the content of such other websites.  Such links are provided for your convenience and reference only.  We do not operate or control  any information, software, products or services available on such third party websites. The inclusion of a link to a website does not imply any endorsement of the services or the third parties website, its contents, or its sponsoring organization.
+We may compile statistics about the use of our Website including Data on traffic, usage patterns, User numbers, and other information and combine certain non-personally identifiable aggregate data about our Users and use such anonymous aggregate data to prepare reports for Employers/Recruiters, prospective investors, affiliates, partners and advertisers. “Aggregate Data" is the demographic information (such as zip code, age, gender, race or ethnicity) and employment information (such as occupation, job title, education and experience) of many individuals that is combined together. Aggregate data is used to analyse the characteristics of various populations and does not identify any specific individuals. Any reports sold by us containing aggregate data cannot be used to identify any individuals.
 
-Security
+We may share Your Data with our service providers who help us in the delivery of our Services to You e.g search engine facilities, advertising and marketing. We will take all reasonable steps to ensure that Your data will be handled safely, securely and in accordance with Your rights, our obligations and the obligations of the third party under the law. These companies may only use or disclose the Data as necessary to perform Services on our behalf or as otherwise required by law.
 
-## We endeavor to safeguard and protect your information. The servers in which we store your are kept in a secure physical environment. We have security measures in place to protect against the loss, misuse, and alteration of information under our control. Currently, we use Secure Socket Layer Software ("SSL") to protect data and to secure any transactions. SSL encrypts information, including names and addresses as they are transmitted over the Internet. Please be advised that, although we take commercially reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, we cannot and do not warrant that your information will be absolutely secure. Any transmission of data at or through this site is at your own risk. However, access to your information is strictly limited, and not accessible to the public.
+Our current third party providers are:
 
-## Changes to Privacy Statement
+Austinshire Partners
 
-We reserve the right to make material changes to the substance of this Privacy Statement.  We will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
+Zip Recruiter
+
+Adworks
+
+JobToMe
+
+BestJobsOnline may disclose specific User information when we determine, in good faith, that such disclosure is necessary to comply with the law, to cooperate with or seek assistance from law enforcement, to prevent a crime or protect national security, or to protect the interests or safety of BestJobsOnline or other Users of the Website.
+
+**What Happens If Our Business Changes Hands?**
+
+We may from time to time, expand or reduce our business and this may involve the sale and/or transfer of control of all or part of our business. Any personal Data that You have provided will, where it is relevant to any part of our business that is being transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this Privacy and Cookie Policy, be permitted to use that Data only for the same purposes for which it was originally collected by us.
+
+**Cookies – First and Third Party, Analytics and Third Party Advertising**
+
+BestJobsOnline uses Cookies on this Website to help us to provide You with the best service and experience that we can, by enabling us to monitor which pages You find useful and which You do not. A cookie does not allow us access to Your computer or any Personal Information about You, other than the Data You choose to share with us.
+
+A cookie consists of a small text file of information that is placed on Your computer or other internet-connected device by this Website when You visit certain parts of the Website or access certain features and is stored by Your browser. The information is then sent back to the server each time Your browser requests a page from the server. This enables the web server to identify and track the web browser.
+
+BestJobsOnline uses first party cookies and other similar technologies for the convenience of our Users because they help us to provide You with a better Website experience and services by enabling us to monitor which pages You find useful and those which You do not. We use first party session cookies to keep track of You whilst you navigate our Website and persistent cookies to enable our Website to recognise You when you visit or send emails. Session cookies will be deleted from your computer or other internet-connected device when You close your browser. Persistent cookies will remain stored on Your computer or other internet-connected device until deleted, or until they reach a specified expiry date.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to Your needs by personalising contents and advertising. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+We can gather Information about Your general internet use e.g. the history of jobs reviewed and the job searches conducted by Your computer. When used, these first party cookies are downloaded directly by onto Your computer’s hard drive but such Information does not identify You personally. It is non-personal statistical data which simply identifies information about You. If we have this Information we can provide you with job recommendations based on your interests as expressed previously through your searches and the web application can tailor its operation to Your needs, likes and dislikes by gathering information about Your preferences. Cookies allow us to ensure our Website functions efficiently and they enable us to serve secure pages to our Users without asking them to sign in repeatedly.
+
+BestJobsOnline also permits certain third party cookies on its Website which means that You may receive certain third party cookies on Your computer or other internet-connected device. We may employ the services of such third parties for dealing with matters that may include, but are not limited to, search engine facilities, advertising and marketing. The providers of such services do have access to certain Data provided by Users of this Website. Any Data used by such parties is used only to the extent required by them to perform the services that BestJobsOnline requests. Any Data that is processed by such parties shall be processed within the terms of this Policy and EU Regulation 2016/679 – the General Data Protection Regulation - GDPR .
+
+All cookies used by this Website are used in accordance with current UK and EU Cookie Law i.e. the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011 and/or any subsequent relevant legislation.
+
+When You use our Website You will be presented with an “Activate” button requesting Your consent to set Cookies. By giving your consent to the placing of Cookies you are enabling BestJobsOnline to provide the best possible experience and service to you. If You do not “Activate” and give consent to the placing of Cookies and the collection and sharing of Your personal data for the personalisation of ads or other Services, but continue to use the Website to search then Cookies will be placed on Your computer or other internet-connected device but You may remove or block them as explained fully below; however certain features of the Website may not function fully or as intended.
+
+Certain features of the Website depend upon Cookies to function. UK and EU Cookie Law deems these Cookies to be “strictly necessary”. These Cookies are shown below. It is important that You are aware of them. You may block these cookies by changing your internet browser’s settings but please be aware that our Website may not work properly if You do so. We take care to ensure that Your privacy is not at risk by allowing them.
+
+The following first party Cookies may be placed on Your computer or other internet-connected device:
+
+**Name**
+
+| 
+
+**Strictly Necessary**
+
+| 
+
+**Purpose**  
+  
+---|---|---  
+  
+subscriberID
+
+| 
+
+Yes
+
+| 
+
+Ensures both website functionality and future email patterns correspond to the correct user.  
+  
+subscriberToken
+
+| 
+
+Yes
+
+| 
+
+Ensures both website functionality and future email patterns correspond to the correct user.  
+  
+best_jobs_online_session
+
+| 
+
+Yes
+
+| 
+
+Ensures that website functionality is consistent during navigation.  
+  
+XSRF-TOKEN
+
+| 
+
+Yes
+
+| 
+
+Laravel framework specific security measure which protects the website visitor from XSS attacks.  
+  
+Laravel Security Token
+
+| 
+
+Yes
+
+| 
+
+ Laravel framework specific security measure which protects the website host from malicious form submissions.  
+  
+_ga
+
+| 
+
+Yes
+
+| 
+
+ Google analytics tracking component object.  
+  
+_gid
+
+| 
+
+Yes
+
+| 
+
+ Google analytics tracking component ID (retains consistency during website sessions).  
+  
+{{Empty}}
+
+| 
+
+Yes
+
+| 
+
+ Temporary storage for Laravel which holds anonymous information about the current state of the application. This retains consistency and website functionality.  
+  
+The following third party Cookies may be placed on Your computer or internet-connected device:
+
+**Name**
+
+| 
+
+**Source**
+
+| 
+
+**Strictly Necessary**
+
+| 
+
+**Purpose**  
+  
+---|---|---|---  
+  
+DSID
+
+| 
+
+.doubleclick.net (GA)
+
+| 
+
+Yes
+
+| 
+
+To enable google ads.  
+  
+IDE
+
+| 
+
+.doubleclick.net (GA)
+
+| 
+
+Yes
+
+| 
+
+To enable google ads.  
+  
+fr
+
+| 
+
+.facebook.com
+
+| 
+
+No
+
+| 
+
+To enable remarketing ads  
+  
+{{Empty}}
+
+| 
+
+[facebook.com](http://www.facebook.com/)
+
+| 
+
+No
+
+| 
+
+To aid remarketing ads targeting  
+  
+BIGipServerjob
+
+| 
+
+_gdc.indeed.com_
+
+| 
+
+Yes
+
+| 
+
+User source tracking for Indeed job clicks.  
+  
+JSESSIONID
+
+| 
+
+_gdc.indeed.com_
+
+| 
+
+Yes
+
+| 
+
+User source tracking for Indeed job clicks.  
+  
+INDEED_CSRF_TOKEN
+
+| 
+
+_gdc.indeed.com_
+
+| 
+
+Yes
+
+| 
+
+Indeed specific security measure which protects the website visitor from XSS attacks.  
+  
+CTK
+
+| 
+
+.indeed.com
+
+| 
+
+Yes
+
+| 
+
+To enable Indeed to collect anonymous statistics in order to maintain and improve their services.  
+  
+NID
+
+| 
+
+_.google.com_
+
+| 
+
+Yes
+
+| 
+
+ The NID cookie contains a unique ID Google uses to remember your preferences and other information, such as your preferred language (e.g. English), how many search results you wish to have shown per page (e.g. 10 or 20), and whether or not you wish to have Google’s SafeSearch filter turned on.  
+  
+1P_JAR
+
+| 
+
+.google.co.uk
+
+| 
+
+Yes
+
+| 
+
+ These cookies are used to gather website statistics, and track conversion rates.  
+  
+CONSENT
+
+| 
+
+.google.co.uk
+
+| 
+
+Yes
+
+| 
+
+Global consent cookie which is set by google on first google visit in order to obtain permission from users for use with google services such as ads.  
+  
+NID
+
+| 
+
+.google.co.uk
+
+| 
+
+Yes
+
+| 
+
+The NID cookie contains a unique ID Google uses to remember your preferences and other information, such as your preferred language (e.g. English), how many search results you wish to have shown per page (e.g. 10 or 20), and whether or not you wish to have Google’s SafeSearch filter turned on.  
+  
+geoData
+
+| 
+
+[https://better-roi.nyc3.digitaloceanspaces.com](https://better-roi.nyc3.digitaloceanspaces.com/)
+
+| 
+
+No
+
+| 
+
+For use with better ROI statistics.  
+  
+uid
+
+| 
+
+[https://better-roi.nyc3.digitaloceanspaces.com](https://better-roi.nyc3.digitaloceanspaces.com/)
+
+| 
+
+No
+
+| 
+
+ For use with better ROI statistics.  
+  
+google_ama_config
+
+| 
+
+_.google.com_
+
+| 
+
+Yes
+
+| 
+
+ Unclassified  
+  
+google_ama_settings
+
+| 
+
+_.google.com_
+
+| 
+
+Yes
+
+| 
+
+ Unclassified  
+  
+google_experiment_mod
+
+| 
+
+_.google.com_
+
+| 
+
+Yes
+
+| 
+
+ Unclassified  
+  
+google_ama_config
+
+| 
+
+_.google.com_
+
+| 
+
+Yes
+
+| 
+
+ Unclassified  
+  
+uid
+
+| 
+
+_.google.com_
+
+| 
+
+Yes
+
+| 
+
+Unique user ID that recognizes the user on returning visits  
+  
+BestJobsOnline uses web analytics services provided by third parties, which use cookies to collect non-personal anonymous usage information about details of our Users’ visits to the Website (including IP addresses) and the resources they access on the Website. These third party web analytics services provide us with reports based on this information in order to help us understand and analyse web page traffic, usage statistics enabling us to better understand how Users engage with the Website and tailor it to the User’s needs, improving the Website and the services offered through it. You do not have to allow us to use these cookies, as detailed below, however whilst our use of them does not pose any risk to Your privacy or Your safe use of the Website, it does enable us to continually improve our business.
+
+The analytics services used by this Website use Cookies to gather the required information. Certain of these Cookies may be placed immediately when you decide to visit the Website and it may not be possible to obtain your prior consent. You may still block these cookies by changing your internet browser’s settings as detailed below.
+
+The analytics services used by this Website use the following Cookies:
+
+**Name of Cookie**
+
+| 
+
+**First/Third Party**
+
+| 
+
+**Provider**
+
+| 
+
+**Purpose**
+
+| 
+
+**Strictly Necessary?**  
+  
+---|---|---|---|---  
+  
+uid
+
+| 
+
+_Third_
+
+| 
+
+_Google_
+
+| 
+
+Unique user ID that recognizes the user on returning visits
+
+| 
+
+_No_  
+  
+uid
+
+| 
+
+_Third_
+
+| 
+
+_Better ROI_
+
+| 
+
+For use with better ROI statistics.
+
+| 
+
+_No_  
+  
+CTK
+
+| 
+
+_Third_
+
+| 
+
+Indeed
+
+| 
+
+To enable Indeed to collect anonymous statistics in order to maintain and improve their services.
+
+| 
+
+_No_  
+  
+fr
+
+| 
+
+_Third_
+
+| 
+
+Facebook
+
+| 
+
+To enable remarketing ads
+
+| 
+
+_No?_  
+  
+DSID
+
+| 
+
+_Third_
+
+| 
+
+Google
+
+| 
+
+To enable google ads.
+
+| 
+
+_No_  
+  
+IDE
+
+| 
+
+_Third_
+
+| 
+
+Google
+
+| 
+
+To enable google ads.
+
+| 
+
+_No_  
+  
+_ ga
+
+| 
+
+_Third_
+
+| 
+
+Google
+
+| 
+
+Google analytics tracking.
+
+| 
+
+_No_  
+  
+_gid
+
+| 
+
+_Third_
+
+| 
+
+Google
+
+| 
+
+Google analytics tracking.
+
+| 
+
+_No_  
+  
+subscriberID
+
+| 
+
+_First_
+
+| 
+
+Internal
+
+| 
+
+Email activity tracking.
+
+| 
+
+_Yes_  
+  
+userID
+
+| 
+
+_First_
+
+| 
+
+Internal
+
+| 
+
+Email activity tracking.
+
+| 
+
+_Yes_  
+  
+We also use third party advertising companies who may place or access cookies on your computer or other internet-connected device when You click on their adverts to distinguish Your web browser uniquely and to keep track of information relating to serving adverts on Your web browser, such as the type of adverts shown and the webs pages on which the adverts appeared. These companies may use information about Your visits to these websites and to other sites in order to provide advertisements about goods and services of interest to You on our Website or on other, third party websites. We also may give third party advertisers the ability to tailor their adverts on our Website using demographic and preference information we provide to them in aggregate form. This information does not identify You individually. These companies operate under their own privacy policies and BestJobsOnline encourages you to be aware of the privacy policies of such companies. BestJobsOnline does not have control over or access to any information contained in the cookies that are set on your computer by third party advertisers. You can choose to accept or decline these cookies.
+
+To prevent the automatic collection of information by any third party advertisers, you may opt-out by clicking the Ad Choices icon located within the advert,
+
+by accessing the “about ads” opt out site at [http://aboutads.info/choices/](http://www.aboutads.info/choices/)
+
+or by accessing the NAI opt-out site at [http://networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)
+
+Please note that this opt out is cookie based and if You change browser, computer, delete this cookie, you will need to perform the opt-out again. To disable or delete cookies from third party advertising companies that are not members of the About Ads or NAI opt out groups You can look at Your internet browser Tools, Options, Preferences and/or Privacy settings for advice how to do so.
+
+**How You can Alter Privacy Settings for Cookies**
+
+You can choose to enable or disable Cookies at any time in your internet browser by adjusting Your browser settings. However you may lose any information that enables you to access our Website more quickly and efficiently including, but not limited to, personalisation settings. You should be aware that some BestJobsOnline Website features or Services may not function properly without cookies and it may prevent You from using our Website to its full advantage.
+
+Most internet browsers allow You to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Most internet browsers also enable You to choose whether You wish to disable all cookies or only third party cookies. By default, most internet browsers accept Cookies but this can be changed. For further details, please consult the help menu in Your internet browser or the documentation that came with Your device.
+
+It is recommended that You ensure that Your internet browser is up-to-date and that You consult the help and guidance provided by the developer of your internet browser if You are unsure about adjusting Your privacy settings.
+
+The links below provide instructions on how to control Cookies in all mainstream browsers:
+
+Google Chrome: <https://support.google.com/chrome/answer/95647?hl=en-GB>
+
+Microsoft Internet Explorer: <https://support.microsoft.com/en-us/kb/278835>
+
+Microsoft Edge: <https://support.microsoft.com/en-gb/products/microsoft-edge> (Please note that there are no specific instructions at this time, but Microsoft support will be able to assist)
+
+Safari (macOS): [https://support.apple.com/kb/PH21411?viewlocale=en_GB&locale=en_GB](https://support.apple.com/kb/PH21411?viewlocale=en_GB&locale=en_GB)
+
+Safari (iOS): <https://support.apple.com/en-gb/HT201265>
+
+Mozilla Firefox: [https://support.mozilla.org/en-US/kb/enable-and-disable-Cookies-website-preferences](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+
+Android: [https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid&hl=en) (Please refer to your device’s documentation for manufacturers’ own browsers)
+
+**How You Can Update and Control Your Data**
+
+You may access, update and amend Personal Information included in Your Account at any time by logging into Your Account and making the necessary changes. You may unsubscribe or cancel Your Account at any time using the links provided in our emails and at the point of providing Your details and by managing Your Account and all Your account information including personal Data will be deleted from the Website. You may also Contact us [info@best-jobs-online.com](mailto:info@best-jobs-online.com) with any questions, requests for information or personal date deletion. You may access certain areas of this Website without providing any Data at all. However, to use all features and functions available on this Website You may be required to submit certain Data. You may restrict Your internet browser’s use of Cookies as explained above.
+
+**Links to Other Websites**
+
+We may allow links to other websites from our Website for Your convenience and information. These websites may be operated by companies not owned by BestJobsOnline. BestJobsOnline has no control over such websites and is not responsible for the content of any websites not owned by BestJobsOnline or their privacy policies. This Policy does not extend to Your use of such websites. They may place or access cookies on Your computer or other internet-connected device. BestJobsOnline does not have control over or access to any information contained in the cookies that are set on Your computer by these third parties. If You choose to visit these websites You should review their own privacy policies to ensure that You are happy with their practices.
+
+**Storing and Transferring Your Information and Data**
+
+All personal data is processed and stored securely, for no longer than is necessary in light of the reason for which it was first collected. We will comply with our obligations and safeguard Your rights at all times under the EU Regulation 2016/679 – the General Data Protection Regulation - GDPR. We only keep Your personal data for as long as we need it and/or for as long as we have Your permission to keep it.
+
+BestJobsOnline may transfer, process and store the Personal information and other data we hold about You outside of the country in which you are located, including the United States and Europe. The countries in which we process the Information may not have the same data protection laws as the country in which you are located. You are deemed to accept and agree to this transfer, storing and processing procedure by using the Website and providing Your Personal Information to us.
+
+We will do our utmost to resolve complaints about Your privacy and our collection or use of your Personal Information. Users with inquiries or complaints regarding this Privacy and Cookie Policy should contact BestJobsOnline by emailing us at [info@best-jobs-online.com](mailto:info@best-jobs-online.com) or by letter to Data Protection Officer at Quantum Response Network Limited, The Old Church School, Frome, Somerset, BA11 1HR. Please include Your name and email address in email requests and Your name and postal address in mail requests.
+
+**How Do We Protect Your Personal Information?**
+
+Data security is of great importance to BestJobsOnline and In order to protect Your Data from accidental, unlawful or unauthorised destruction, loss, alteration, access, disclosure or use, BestJobsOnline maintains suitable technical, electronic, administrative and physical safeguards to protect and secure that Data.
+
+We do our utmost to ensure that all reasonable steps are taken to make sure your Personal Information and data is stored securely in accordance with the principles of the EU Regulation 2016/679 – the General Data Protection Regulation – GDPR. Data security is very important to us and to protect Your data we have taken suitable measures to safeguard and secure data collected through our Website.
+
+However, please note the Internet and the electronic transmission of information can never be entirely secure. We cannot guarantee that the security measures we have in place to safeguard Data will never be defeated or fail, or that those measures will always be sufficient or effective. Therefore, although we are committed to protecting Your privacy, we cannot guarantee that Your Data will always remain confidential. You understand and agree that you assume all responsibility and risk for your conduct and use of the Website and the information You send us electronically or otherwise which You post to the Website.
+
+You will have an Account accessed via your personal email address and You should not share that information with anyone.
+
+**Children’s Privacy**
+
+Our Website is not intended to be used by anyone under the age of 13 and we do not knowingly collect or solicit information from anyone under the age of 13. If You are under 13, please do not use our Website. In the event that we learn that we have collected personal information from a child under the age of 13, we will delete that information as quickly as possible.
+
+**Access to Your Data**
+
+In accordance with EU Regulation 2016/679 – the General Data Protection Regulation - GDPR You have the right to ask for a copy of any personal Data that we hold relating to you and to request that Your personal data be deleted. Please contact us by emailing us at info@best-jobs-online.com or by letter to the Data Protection Officer at Quantum Response Network Limited, The Old Church School, Frome, Somerset, BA11 1HR.   Please include Your name and email address in email requests and Your name and postal address in mail requests.
+
+**Changes to this Privacy and Cookie Policy**
+
+BestJobsOnline reserves the right to change this Privacy and Cookie Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Website and You will be deemed to have accepted the terms of the Privacy and Cookie Policy on Your first use of the Website following the alterations. We recommend that You check this page regularly to keep up-to-date.
+
+**Law**
+
+This policy is governed by the laws of England and Wales. Jurisdiction for any claims arising under this policy shall lie exclusively with the English courts. If any provision of this policy is found to be invalid by any court having competent jurisdiction, the invalidity of all or part of a provision shall not affect the validity of the remaining parts and provisions of this policy which shall remain in full force and effect.
+
+**How to Contact Us**
+
+If You have any questions about this Privacy and Cookie Policy or our treatment of Your Personal Information please contact us by emailing us at [info@best-jobs-online.com](mailto:info@best-jobs-online.com) or by letter to the Data Protection Officer at Quantum Response Network Limited, The Old Church School, Frome, Somerset, BA11 1HR.  Please include Your name and email address in email requests and Your name and postal address in mail requests. Please ensure Your query is clear particularly if it is a request for information about the Data we hold about You.
+
+**Updated 25 th May 2018**
