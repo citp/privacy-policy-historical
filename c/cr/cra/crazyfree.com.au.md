@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyfree.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904165532id_/https%3A//crazyfree.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyfree.com.au privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302114752id_/https%3A//crazyfree.com.au/Privacy-Policy) for the most accurate reproduction.*
 
 # CrazyFree - Privacy Policy
 
