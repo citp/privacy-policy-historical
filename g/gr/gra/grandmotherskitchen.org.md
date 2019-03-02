@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandmotherskitchen.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229183004id_/http%3A//grandmotherskitchen.org/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandmotherskitchen.org privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302103920id_/http%3A//www.grandmotherskitchen.org/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Yummigram by Grandmother's Recipes
 
@@ -68,7 +68,7 @@ emailgrandmotherskitchen@gmail.com
 
 This document was last updated on December 8, 2018 
 
-### Search for Recipes on Yummigram
+### Search for Recipes
 
 Yummigram by Grandmother's Recipes - Download our APP for all of these recipes on your phone.
 
@@ -76,27 +76,7 @@ Yummigram by Grandmother's Recipes - Download our APP for all of these recipes o
 
 * * *
 
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
-
-* * *
+### Latest Recipes
 
 * * *
 
