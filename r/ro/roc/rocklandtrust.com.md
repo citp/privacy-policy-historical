@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806021530id_/https%3A//www.rocklandtrust.com/about-us/explore/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302065439id_/https%3A//www.rocklandtrust.com/about-us/explore/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › Rockland Trust
 
@@ -11,7 +11,8 @@
 
 **  FACTS **
 
-|   | **WHAT DOES ROCKLAND TRUST DO WITH YOUR PERSONAL INFORMATION?**  
+|   
+| **WHAT DOES ROCKLAND TRUST DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---|---  
   
 **  
@@ -49,7 +50,7 @@ The types of personal information we collect and share depend on the product or 
  To limit   
  our sharing  ** | 
 
-  * Call **508.732.7072  ** **  ** \- our menu will prompt you through your choice(s)
+  * Call **1-800-222-2299  **\- our menu will prompt you through your choice(s)
   * [ Download this form](https://web.archive.org/assets/files/c5aMvk0G/RT_Privacy_web.pdf) , fill in the form section at the bottom and complete the mail in portion as instructed. 
 
 **Please note** :   
@@ -63,7 +64,7 @@ However, you can contact us at any time to limit our sharing.
 **  
  Questions?  ** | 
 
- Call **508.732.7072**  
+ Call **1-800-222-2299**  
   
 ---|---  
 **  Who We Are **  
