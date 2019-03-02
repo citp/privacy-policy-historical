@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creditorwatch.com.au privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310133457id_/https%3A//creditorwatch.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditorwatch.com.au privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302190610id_/https%3A//creditorwatch.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Company Privacy Policy - CreditorWatch
+# Privacy Policy - CreditorWatch
 
 ## CreditorWatch Privacy Policy
 
