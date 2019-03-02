@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestoftheweb.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507164039id_/https%3A//bestoftheweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestoftheweb.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302073904id_/https%3A//bestoftheweb.com/privacy) for the most accurate reproduction.*
 
 # Best of the Web Trust Seals - Privacy Policy
 
