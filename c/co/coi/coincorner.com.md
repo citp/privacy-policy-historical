@@ -1,36 +1,30 @@
-> *The following text is extracted and transformed from the coincorner.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701225636id_/https%3A//www.coincorner.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coincorner.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303061216id_/https%3A//www.coincorner.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | CoinCorner
 
-CoinCorner Ltd, a private limited company incorporated in the Isle of Man ("CoinCorner") are committed to being fully compliant with all applicable Isle of Man data protection legislation in respect of personal data, as well to safeguarding the rights and freedoms of persons whose information the Company collects pursuant to the General Data Protection Regulation as applied to the Isle of Man ("GDPR").   
-CoinCorner is the Controller of all personal data used in our business for our own commercial purposes. By registering to create a CoinCorner account through coincorner.com or any other mobile applications or API (“Site”), you agree that you have read, acknowledged, understood and have agreed to all of the Terms within this Privacy Policy. In this Privacy Policy, the terms "CoinCorner", “we”, “us”, or “our” refers to the company CoinCorner Ltd. Depending upon context, "CoinCorner" may also refer to the Services, products, Site, content or other materials provided by CoinCorner.   
+CoinCorner Ltd, a private limited company incorporated in the Isle of Man ("CoinCorner") are committed to being fully compliant with all applicable Isle of Man data protection legislation in respect of personal data, as well to safeguarding the rights and freedoms of persons whose information the Company collects pursuant to the General Data Protection Regulation as applied to the Isle of Man ("GDPR").
+
+CoinCorner is the Controller of all personal data used in our business for our own commercial purposes. By registering to create a CoinCorner account through coincorner.com or any other mobile applications or API (“Site”), you agree that you have read, acknowledged, understood and have agreed to all of the Terms within this Privacy Policy. In this Privacy Policy, the terms "CoinCorner", “we”, “us”, or “our” refers to the company CoinCorner Ltd. Depending upon context, "CoinCorner" may also refer to the Services, products, Site, content or other materials provided by CoinCorner. 
+
 The service operated by CoinCorner allows users to send, receive and to store Digital Currency ("Services"). CoinCorner also provides Exchange services through which users can transact with GBP and Euros to buy and sell Digital Currency with CoinCorner. 
 
-* * *
-
-##### **What is the purpose of this document?**
+## **What is the purpose of this document?**
 
 We are responsible for deciding how we hold and use personal information about you. We are required under GDPR to notify you of the information contained in this Privacy Policy. We understand that you are aware of and care about your own personal privacy interests, and we take that seriously. This Privacy Policy describes our policies and practices regarding our collection and use of your personal data, and sets forth your privacy rights. We recognize that information privacy is an ongoing responsibility, and so we will from time to time update this Privacy Policy as we undertake new personal data practices or adopt new privacy policies.
 
-* * *
-
-##### **Interpretation**
+## **Interpretation**
 
 All terms in this Privacy Policy are to be strictly defined and interpreted in accordance British English language.   
 Additional copies of this Privacy Policy may be obtained, on request, by email to [email protected] or in writing to:   
 CoinCorner Limited, Level 6, Victory House, Prospect Hill, Douglas, Isle of Man, IM1 1EQ 
 
-* * *
-
-##### **Amendments**
+## **Amendments**
 
 CoinCorner reserves the right to modify and amend this Privacy Policy. We will make reasonable efforts to ensure that in the event of any significant changes this Privacy Policy, you will be notified and given advanced notice by an appropriate method (for example, by email to the address you provide to us during registration for a user account, or via notice on the Site). However, it remains your responsibility to check this Privacy Policy from time to time to ensure that you still agree with it, your continued use of the Site will be deemed to be your acceptance of any changes we make. If you do not agree with any such amendment, your only exercisable remedy is to terminate your account. Your continued use of the Site will constitute acceptance of the Privacy Policy. By agreeing to this Privacy Policy, you understand and agree that CoinCorner will not be liable to you or any such third party for any alteration or conclusion of any such CoinCorner Services as a result of an amendment to this Privacy Policy.
 
-* * *
+## **Data protection principles**
 
-##### **Data protection principles**
-
-We will comply with data protection law. This says that the personal information we hold about you must be: 
+We will comply with data protection law. This says that the personal information we hold about you must be:
 
   * Processed lawfully, fairly and in a transparent manner (Lawfulness, Fairness and Transparency).
   * Collected only for specified, explicit and legitimate purposes (Purpose Limitation).
@@ -41,9 +35,8 @@ We will comply with data protection law. This says that the personal information
 
 
 
-* * *
+  1. **What Personal Information CoinCorner may Collect**.
 
-  1. **What Personal Information CoinCorner may Collect.**
     1. Upon registration of your CoinCorner account, to allow us to provide the Services sought by you, we may collect the following personal information; 
       1. Your legal name;
       2. Your photographic identification, including a high-quality image of your government issued identity; passport, national identity card, and driving licence;
@@ -93,19 +86,13 @@ We will only process your Personal Information for the purpose(s) for which it h
     2. Any such Non- Personal Information may be used to improve the Site and the delivery of any Services we provide.
 
 
-
-* * *
-
 * **Personal Information and Security.**
 
-  1.     1. CoinCorner uses a strict code of practice when handling encryption and security. We use Secure Sockets Layered (SSL) and ensure only trusted CoinCorner staff see the data they need to and no more. 
-    2. We have implemented security measures to ensure the confidentiality of your Personal Information and to protect your Personal Information from loss, misuse, alteration or destruction.
-    3. We implement a variety of security measures to maintain the safety of your Personal Information when you submit a request, place an order or access your Personal Information. These security measures include: password protected directories and databases to safeguard your information, SSL technology to ensure that your information is fully encrypted and sent across the Internet securely or Payment Card Industry Data Security Standard (PCI) Scanning to actively protect our servers from hackers and other vulnerabilities. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via SSL technology and then encrypted into our Database to be only accessed by those authorised with special access rights to our systems, and are required to keep the information confidential.
-    4. Only authorised personnel of CoinCorner have access to your Personal Information, and these personnel are required to treat the information as confidential. The security measures in place will, from time to time, be reviewed in line with legal and technical developments.
+*   1. CoinCorner uses a strict code of practice when handling encryption and security. We use Secure Sockets Layered (SSL) and ensure only trusted CoinCorner staff see the data they need to and no more. 
+  2. We have implemented security measures to ensure the confidentiality of your Personal Information and to protect your Personal Information from loss, misuse, alteration or destruction.
+  3. We implement a variety of security measures to maintain the safety of your Personal Information when you submit a request, place an order or access your Personal Information. These security measures include: password protected directories and databases to safeguard your information, SSL technology to ensure that your information is fully encrypted and sent across the Internet securely or Payment Card Industry Data Security Standard (PCI) Scanning to actively protect our servers from hackers and other vulnerabilities. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via SSL technology and then encrypted into our Database to be only accessed by those authorised with special access rights to our systems, and are required to keep the information confidential.
+  4. Only authorised personnel of CoinCorner have access to your Personal Information, and these personnel are required to treat the information as confidential. The security measures in place will, from time to time, be reviewed in line with legal and technical developments.
 
-
-
-* * *
 
 * **Rights of access, correction, erasure, and restriction**   
 **Your duty to inform us of changes**
@@ -136,9 +123,6 @@ We will only process your Personal Information for the purpose(s) for which it h
   6. We may need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights). This is another appropriate security measure to ensure that personal information is not disclosed to any person who has no right to receive it.
 
 
-
-* * *
-
 * **Cookie Policy.**
 
   1. CoinCorner uses cookies to enhance your experience on our Site. Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the website.
@@ -153,7 +137,5 @@ If you have any questions or require further information about any aspect of thi
 
 CoinCorner Ltd, Level 6, Victory House, Prospect Hill, Douglas, Isle of Man, IM1 1EQ  
 Information on the Information Commissioner, the Isle of Man supervisory authority for data protection issues, can be found at: <https://www.inforights.im/>
-
-* * *
 
 _Last updated: 24 May 2018_
