@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rampage.be privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101203052id_/http%3A//www.rampage.be/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rampage.be privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303051253id_/http%3A//www.rampage.be/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Rampage
 
