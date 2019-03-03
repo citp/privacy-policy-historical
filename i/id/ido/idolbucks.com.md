@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idolbucks.com privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818132148id_/http%3A//idolbucks.com/external.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idolbucks.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303154200id_/https%3A//idolbucks.com/external.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # IDOLBUCKS - High Converting Japanese Porn Paysite Network
 
