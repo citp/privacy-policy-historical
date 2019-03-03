@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925213555id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303091308id_/https%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy policy - myDr.com.au
 
