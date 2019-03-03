@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iicase.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903235843id_/https%3A//iicase.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iicase.com.au privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303082548id_/https%3A//iicase.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – iiCase
+# Privacy Policy
 
 PRIVACY STATEMENT
 
