@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quote.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909122643id_/https%3A//quote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quote.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303155310id_/https%3A//quote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Quote.com®
 
