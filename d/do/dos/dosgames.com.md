@@ -1,48 +1,101 @@
-> *The following text is extracted and transformed from the dosgames.com privacy policy that was archived on 2018-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180112170021id_/http%3A//dosgames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosgames.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303234843id_/https%3A//www.dosgames.com/privacy.php) for the most accurate reproduction.*
 
-# dosgames.com privacy policy
+# DOSGames.com Privacy Policy & Disclaimer
 
   
-Darren Hewer (�the webmaster�) operates several websites including DOS Games (www.dosgames.com). It is the webmaster�s policy to respect your privacy regarding any information we may collect while operating our websites.
 
-**Website Visitors**
 
-Like most website operators, the webmaster collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. The webmaster�s purpose in collecting non-personally identifying information is to better understand how the webmaster�s visitors use its website. From time to time, the webmaster may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+  * Who We Are
+  * General Disclaimer
+  * What We Collect and Why
+  * How Long We Retain your Data
+  * How to Access your Data
+  * How We Use Cookies
+  * Links to Other Websites
+  * Force Majeure
+  * Privacy Policy Changes
+  * Miscellaneous
 
-The webmaster also collects potentially personally-identifying information like Internet Protocol (IP) addresses. The webmaster does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-**Gathering of Personally-Identifying Information**
 
-Certain visitors to the webmaster�s websites choose to interact with the webmaster in ways that require the webmaster to gather personally-identifying information. The amount and type of information that the webmaster gathers depends on the nature of the interaction. For example, we ask visitors who register for our discussion forum at <http://www.dosgames.com/forum/> to provide minimul personal details. In each case, the webmaster collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor�s interaction with the webmaster. The webmaster does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+## Who We Are
 
-Google, as a third party vendor, uses cookies to serve ads on this website. Google's use of the [Doubleclick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Darren Hewer ("the webmaster") operates DOS Games (www.DOSGames.com; "website"). It is the webmaster's policy and desire to respect you ("visitor"), your safety, and your privacy to his best ability.
 
-**Aggregated Statistics**
+## General Disclaimer
 
-The webmaster may collect statistics about the behavior of visitors to its websites, currently facilitated through the services of [Google Analytics](http://www.google.com/analytics/). (See [here](http://www.google.com/analytics/en-GB/tos.html) for their TOS & privacy policy.) For instance, the webmaster may monitor the most popular parts of the DOS Games site, and collect non-personally identifying statistics such as country of origin, screen resolution, and the length of time on the website, none of which is tied to any particular visito. The webmaster may display this information publicly or provide it to others. However, the webmaster does not disclose personally-identifying information other than as described below.
+The DOSGames.com name, graphics, code, reviews, screenshots, and all other related content cannot be re-used without permission from the author(s). All games and other intellectual property referenced on this website remain property of their respective holders, and is used here as part of "fair use". All the information on this website is published in good faith and for entertainment or general information purposes only.
 
-**Protection of Certain Personally-Identifying Information**
+The webmaster disclaims all warranties, expressed or implied, including, and without limitation to, the warranties of merchantability and of fitness for any purpose stated by any game, program, or website, and will not be liable for damages of any kind (direct or consequential) which may result from the use of any program or resource listed, including this website itself and all related content. Any action you take upon the information you find on this website is strictly at your own risk. While we do not knowingly include any malware, viruses, or other harmful components in the website or its files, no guarantee of any kind is provided that this website is safe. Concerned visitors can scan files for safety using free services such as [VirusTotal](https://www.virustotal.com/).
 
-The webmaster discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on the webmaster�s behalf or to provide services available at the webmaster�s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the webmaster�s websites, you consent to the transfer of such information to them. The webmaster will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, the webmaster discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when the webmaster believes in good faith that disclosure is reasonably necessary to protect the property or rights of the webmaster, third parties or the public at large.
+## What We Collect and Why
 
-**Email Contact**
+### Non-personally-identifying information
 
-If you are a registered user of this website and have supplied your email address for the purpose of registering for the forum or for another reason, the webmaster may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what�s going on with the webmaster and our products, although historically such emails are sent very rarely. Previously a regular DOS Games Newsletter was sent out to all visitors who completed a double opt-in process to voluntarily receive it; this newsletter has been discontinued for several years.
+Such as browser type, language preference, referring site, time and date of visit. The purpose in collecting this sort of information is to better understand how the webmaster's visitors use the website, monitor traffic numbers, and determine ways to improve the visitor's experience. [Google Analytics](https://www.google.com/analytics/) is used to collect data of this type; see [Google Analytics Terms of Service](https://www.google.com/analytics/terms/us.html).
 
-We primarily use the front page of our website to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. The webmaster takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+### Potentially identifying information
 
-**Cookies**
+Such as IP address. No information of this type is collected at this time except when posting on the Discussion Forum as explained below. Google Analytics has the [IP anonymization](https://support.google.com/analytics/answer/2763052?hl=en) feature enabled.
 
-A cookie is a string of information that a website stores on a visitor�s computer, and that the visitor�s browser provides to the website each time the visitor returns. The webmaster uses cookies to help the webmaster identify and track visitors, their usage of the webmaster website, and their website access preferences. The webmaster visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the webmaster�s websites, with the drawback that certain features of the webmaster�s websites may not function properly without the aid of cookies.
+### Personally identifying information
 
-**Privacy Policy Changes**
+Such as name, email address. No visitor is required to provide personally identifying information. Any information entered will be used only for the intended purpose noted below and is not disclosed to other parties, except in the case of third-party services where such use is explicitly mentioned in the privacy policy of that third-party service. The webmaster discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that need to know that information in order to process it on the webmaster's behalf or to provide services. Some of those employees, contractors, and affiliated organizations may be located outside of your home country; by using this website, you consent to the transfer of such information to them.
 
-Although most changes are likely to be minor, the webmaster may change its Privacy Policy from time to time, and in the webmaster�s sole discretion. The webmaster encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+A visitor may choose to voluntarily provide such information when they opt to engage in the following activities:
 
-**Misc**
+**Commenting** : [Facebook Comment Plugin](https://developers.facebook.com/products/social-plugins/comments/) is used to facilitate commenting on the website games, blog, and potentially other areas. The visitor must click the "Show / Write Comments" button to enable commenting. The Facebook code will not load until the visitor opts-in to commenting functionality by clicking the button. The Facebook Comment Plugin may use cookies to facilitate commenting on content on this website, and/or collect information on visitors who choose to use this optional functionality. View [Facebook's Privacy Policy](https://www.facebook.com/about/privacy/). Visitors must be Facebook members to use this functionality; as such, they will already have agreed to Facebook's policies when they signed up for their service, including their privacy policy, which is also applicable to comments made using their Comment Plugin on DOSGames.com. Visitors are encouraged to check their [Facebook Privacy Settings](https://www.facebook.com/settings?tab=privacy) to determine what data they share; for help, see the article [How to Improve Your Data Privacy on Facebook](https://www.hongkiat.com/blog/how-to-improve-privacy-on-facebook/).
 
-Last modified: June 29, 2008.
+**Forum** : The [DOSGames.com Discussion Forum](https://dosgames.com/forum/) does not require any registration to post in the "Find Old Games" and "Get Games to Work" forums; only the visitor's IP address is collected when posting anonymously, for security and spam-prevention. Posting in other forums requires voluntary visitor registration including the visitor's email address to prevent spam; the visitor's IP address is also recorded for security and spam-prevention.
 
-Questions regarding this policy may be addressed to the webmaster here: [webmaster@dosgames.com](mailto:webmaster@dosgames.com).
+**Contact Form** : When [contacting the webmaster](https://web.archive.org/web/20190303234843id_/https%3A//www.dosgames.com/contact.php) the visitor is required to enter their name and email address so that the webmaster will know who is writing, and so that they can reply. The visitor's IP address is also recorded for security and spam-prevention.
 
-_This document is a modified version of the[OwnTerms Privacy Policy](http://www.ownterms.org/documents/privacy-policy/), which in turn is based on the [Automattic Privacy Policy](http://automattic.com/privacy/). This privacy policy itself is licensed under [Creative Commons Attribution Share-Alike 2.5](http://creativecommons.org/licenses/by-sa/2.5/)._
+## How Long We Retain your Data
+
+**Comments** : A comment and its metadata are retained indefinitely, unless removed by the visitor through Facebook's delete functionality. The webmaster also reserves the right, at their sole discretion, to permanently delete comments that are violent, discriminatory, derogatory, promotional, or otherwise unsuitable.
+
+**Forum** : A forum account, its metadata, and the visitor's posts are retained indefinitely, unless removed by the visitor. A visitor's forum account including all information above, and optionally any/all of their forum posts, may be permanently deleted from the webserver at any time by [contacting the webmaster](https://web.archive.org/web/20190303234843id_/https%3A//www.dosgames.com/contact.php). The webmaster also reserves the right, at their sole discretion, to permanently delete posts that are violent, discriminatory, derogatory, promotional, or otherwise unsuitable.
+
+**Contact Form** : The visitor's name, email address, IP address, and any other information included in the contact from are never stored on the webserver after completing the contact form. An email is sent to the webmaster including the information entered.
+
+## How to Access your Data
+
+To obtain a copy of the personal information held about you, use the [contact](https://web.archive.org/web/20190303234843id_/https%3A//www.dosgames.com/contact.php) form. Please provide sufficient detail about the information in question to help us locate it. If possible we will provide you with the data requested, and aim to do so within a reasonable timeframe.
+
+## How We Use Cookies
+
+Here and hereafter, the terms "cookie" or "cookies" also includes similar browser-based information storage technology such as but not limited to localStorage, sessionStorage, or IndexedDB.
+
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies, with the drawback that certain features of the website (or other websites) may not function properly.
+
+**To refuse or delete cookies** in your browser, choose your browser below and follow the instructions provided:
+
+  * [Microsoft Edge](https://answers.microsoft.com/en-us/insider/forum/insider_internet-insider_spartan-insiderplat_pc/how-to-view-and-manage-cookies-in-microsoft-edge/67b3a495-554e-4f1d-995e-93d0ea6882a6%20)
+  * [Microsoft Internet Explorer](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Google Chrome](https://support.google.com/chrome/answer/95647)
+  * [Apple Safari](https://support.apple.com/en-us/HT201265)
+
+
+
+**Advertising Cookies** : [Google Adsense](https://www.google.com/adsense/start/#/?modal_active=none) may use cookies to serve ads on this website. Google's possible use of the tracking cookies enables it to serve ads targetted to the visitor. Visitors may opt out of the use of Google's cookie by following the instructions provided here: [Opt out of seeing personalized ads](https://support.google.com/ads/answer/2662922?hl=en).
+
+**Do Not Track** : This website respects [Do Not Track (DNT)](https://en.wikipedia.org/wiki/Do_Not_Track). If the DNT flag is set in your web browser, the site will attempt to detect this setting, and if found, it will prevent Google Analytics from loading. For more information, including how to set DNT in web browsers, visit [All About Do Not Track](https://allaboutdnt.com/). (Setting the DNT flag will not affect data which is voluntarily provided to the website by the visitor .)
+
+## Links to Other Websites
+
+This website links to other websites which are outside ownership and/or control of the webmaster. No guarantees of safety, security, privacy, or fitness for purpose is made with regard to other websites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites, which may change at any time. These links to other websites do not imply a recommendation for all the content found on these sites. Visitors who click on outside links are advised to use caution and check the privacy policy of any website they visit.
+
+## Force Majeure
+
+The webmaster will not be liable for any failure to perform our obligations where such failure results from any cause beyond our reasonable control, including, without limitation, mechanical, electronic, environmental, and/or communications problems.
+
+## Privacy Policy Changes
+
+Although most changes are likely to be minor, the webmaster may change this Privacy Policy from time to time, and in the webmaster's sole discretion. Any major changes to this policy will be announced on the main website. However, the webmaster encourages visitors to also check this page for changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such changes.
+
+## Miscellaneous
+
+Last modified: May 8, 2018.
+
+Questions regarding this policy may be addressed to the webmaster here: [Contact form](https://web.archive.org/web/20190303234843id_/https%3A//www.dosgames.com/contact.php).
