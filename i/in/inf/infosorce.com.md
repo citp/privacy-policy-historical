@@ -1,68 +1,53 @@
-> *The following text is extracted and transformed from the infosorce.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010051657id_/http%3A//infosorce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosorce.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303070741id_/https%3A//infosorce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**INFOSORCE  
-**
+If you require any more information and detail or have any question about our privacy policy, please feel free to contact us by  _[Contact Us](https://infosorce.com/contact-us/)_.
 
-## **PRIVACY POLICY**
+At Infosorce.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by infosorce.com and how we use it.
 
-Welcome to InfoSOrce (the “Site”). 
+This Privacy Statement is designed to provide information about Infosorce privacy and data collection practices. This privacy policy does not apply to Sites maintained by other companies or organizations to which we may link or who may link to us. We are not responsible for the actions and privacy policies of third-party websites.
 
-We understand that privacy online is important to users of our Site, especially when conducting business.  
-This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without  
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by InfoSOrce (collectively, “Services”) (“Authorized Customers”).
+The website address _Https://infosorce.com_ is owned by  _[Naveen Kumar SIngh](https://infosorce.com/about-us/)._ All material on this website is provided for your information only. The information expressed here are believed to be accurate, based on the knowledge gained by author/owner. In addition, the information expressed here do not necessarily reflect the views of the author. Infosorce acknowledges that information given on this website is based on information available on different websites. The publisher is not responsible for errors or omissions.
 
-**“Personally Identifiable Information”**  
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)  
-or demographic information not connected to an identified individual.
+Email addresses mentioned in the comment form and feedback is totally secure and will always be used for privacy and never be used for spamming or sold to anyone.
 
-**What Personally Identifiable Information is collected?  **  
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+We love to comment and feedback, but some comments which are abusive, spread hatred, are racial, or in any way hurting anyone`s opinions will not get approved and we delete such kind of comments. We keep our comments moderated to maintain the integrity of every individual. We reserve all right to accept or reject any comments.
 
-**What organizations are collecting the information?  **  
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor`s IP address and browser user agent string to help spam detection. An anonymized sting created from your email address (also called a hash) may be provided to Gravatar service to see if you are using it. The Gravatar service privacy policy is available here:- https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-**How does the Site use Personally Identifiable Information?**  
-We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
+Like many other Web sites, Infosorce.com makes use of log files. These files merely log visitors to the sites – usually a standard procedure for hosting companies and part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. The information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.
 
-**With whom may the information may be shared?**  
-Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
+Infosorce.com uses cookies to store information about visitor’s preference, to record user-specific information on which pages the site visitor accesses revisits, and to personalize or customize our web page content based upon visitor’s browser types or other information that the visitor sends via their browser.
 
-**How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by InfoSOrce is securely stored and is not accessible to third parties or employees of InfoSOrce except for use as indicated above. 
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [wwwinfosorcecom@gmail.com](mailto:wwwinfosorcecom@gmail.com)
+→Google, as third party vendor, uses cookies to serve ads on Infosorce.com
 
-**Are Cookies Used on the Site?**  
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
+→Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to infosorce.com and other sites on the Internet.
 
-**How does InfoSOrce use login information?  **  
-InfoSOrce uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
+→Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-InfoSOrce has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
-Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.  
-Our privacy policy does not cover their collection or use of this information.  
-Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+Some of our advertising partners may use cookies and web become on our site. Our advertising partners include…..
 
-**How does the Site keep Personally Identifiable Information secure?**  
-All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
+⇒Google
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [wwwinfosorcecom@gmail.com](mailto:wwwinfosorcecom@gmail.com)
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:  [Privacy Policies](http://www.privacypolicyonline.com/privacy-policies/)._
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting [wwwinfosorcecom@gmail.com](mailto:wwwinfosorcecom@gmail.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+_You may consult this listing to find the privacy policy for each of the advertising partners of infosorce.com_
 
-**What happens if the Privacy Policy Changes?**  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on infosorce.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
 
-**Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.  
+Infosorce.com has no access to or control over these cookies that are used by third-party advertisers.
 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Infosorce.com’s privacy policy does not apply to, and we cannot the activities of, such other advertisers or websites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links).
 
-© 2017  **InfoSOrce**  , All rights reserved.  
-Unauthorized duplication or publication of any materials from this Site is expressly prohibited.   
-Get your own Privacy Policy [here](http://www.prioritydigital.com/)!
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browser’s respective websites.
+
+[What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. infosorce.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that infosorce.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+
+By using our website, you hereby consent to our privacy policy and agree to its terms.
