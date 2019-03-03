@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vuukle.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028221041id_/https%3A//docs.vuukle.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuukle.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303204922id_/https%3A//docs.vuukle.com/privacy-and-policy) for the most accurate reproduction.*
 
 # Vuukle Privacy Policy | Vuukle Docs
 
